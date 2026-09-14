@@ -25,6 +25,12 @@ Six deeply verified records remain preserved: Fulltone OCD, Fulltone Full-Drive 
 - Batch 13: Colorsound Bass Fuzz, Colorsound Fuzz Phazer, Colorsound Fuzzphaze, Colorsound Wah-Fuzz-Straight, Sola Sound Wow Fuzz, and Sola Sound Wow Pedal, with generation maps.
 - Batch 14: D*A.M./Sola Sound Tone Bender Mk1.5 Copperhead, Mk1.5 Goldie, Mk1.75 El Diablo, MkII reissue, MkII Green Bastard, MkII Hybrid Squadron, MkII SCB Blue Meanie, MkIV reissue, MkIV Purple People Eater, and MkIV Red Baron, with generation maps.
 
+## Visual presentation
+- `catalog-polish.js` adds the archive-object numbering, section labels, research presentation polish, stronger focus states and route/top-of-page behavior.
+- `catalog-visual-references.js` adds a photo-reference doorway to every pedal card/detail where an exact owned or cleared photograph is not available. These links intentionally open external image-search results and warn that third-party imagery may be copyrighted.
+- `catalog-cleared-images.js` adds additional reusable Wikimedia examples for selected catalog objects, including Colorsound Supa Tonebender, MXR M-104 Distortion+, BOSS DS-1 Distortion, Vox Tone Bender and Ibanez TS-9.
+- Image rights remain separate from image discovery. Search/reference images must not be treated as cleared publication assets.
+
 ## Batch 07–14 research notes
 - **Marshall SupaFuzz:** 1966 origin as a Sola Sound-supplied Marshall product. A short-lived early MKI-derived/filter form is separated from the conventional 1966–1968 Professional MKII-era SupaFuzz. Marshall assumed production around 1968 and continued into the early 1970s.
 - **Sola Sound Tone Bender Professional MKII:** three-transistor Sola Sound model introduced in 1966 and used as the OEM basis for major Vox, Marshall and Rotosound branded products. The canonical Sola Sound record remains separate from those branded variants.
@@ -77,10 +83,10 @@ The batch system is not a limit on depth. For each builder or family under activ
 Pedal cards now expose a research-status badge when a dossier is attached. Pedal detail pages also receive a compact research-status row with linked source and generation counts where the dossier supplies them. This is intentionally a discovery aid, not a substitute for the underlying research dossier.
 
 ## Media status
-Batch 01 has five cleared Wikimedia images. Batch 03 has cleared Wikimedia references for MXR M-104 Distortion+ and BOSS DS-1. Maestro, Univox, FY-2, Batches 04–14 image leads are reference-only unless rights are explicitly cleared. Manufacturer and specialist images are not silently republished.
+Batch 01 has five cleared Wikimedia images. Batch 03 has cleared Wikimedia references for MXR M-104 Distortion+ and BOSS DS-1. Additional reusable Wikimedia examples are now surfaced for selected exact catalog objects. Maestro, Univox, FY-2, Batches 04–14 and other specialist/marketplace images remain reference-only unless rights are explicitly cleared. Manufacturer and specialist images are not silently republished.
 
 ## Next queue
-Continue with remaining Colorsound/Sola Sound dirt and combination products that are not yet deeply researched. Then expand the branded/OEM Tone Bender network and the Shin-Ei/Univox/Honey Super-Fuzz network, followed by remaining Maestro/Italian OEM fuzzes, MXR sub-generations, BOSS SD/DS/OD family, ProCo RAT variants, foundational EHX/Ibanez/Maxon products, then systematic coverage of the remaining catalog. When a builder or family is under active research, capture obscure, short-lived, regional, OEM, private-label and transitional dirt models when evidence exists. Keep unresolved OEM questions in a separate backlog so uncertainty does not block product coverage.
+Continue visual coverage by adding more exact, license-safe examples wherever they can be verified, while keeping the external photo-reference doorway available for every catalog object. In parallel, continue the remaining Colorsound/Sola Sound dirt and combination products, then expand the branded/OEM Tone Bender network and the Shin-Ei/Univox/Honey Super-Fuzz network, followed by remaining Maestro/Italian OEM fuzzes, MXR sub-generations, BOSS SD/DS/OD family, ProCo RAT variants, foundational EHX/Ibanez/Maxon products, then systematic coverage of the remaining catalog.
 
 ## Editorial rule
 Document the object, not the recipe. Do not publish gutshots, schematics, PCB diagrams or complete circuit recipes. Research depth is encouraged; unsupported certainty is not.
