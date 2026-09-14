@@ -26,14 +26,15 @@ The assistant cannot see an exact platform context/data-use quota or countdown. 
 - Phase 31: AnaSounds, Leila Vintage Electronics, Jamés Pedals, Loophole Pedals, Orion Effekte, G.S. Wyllie; 82 raw discovery records, with duplicate-safe extension merging.
 - Phase 32: Klinger Custom Pedals, KMA Audio Machines, Kittycaster FX; 36 discovery records, now confirmed and wired into the public site.
 - Phase 33: Kinnatone, Kinsman FX, KHDK Electronics, Kingsley, Heavy Electronics, KOMA Elektronik; 43 discovery records.
+- Phase 34: Mojo Hand FX, DenTone Electronics, Erafuzz, Ghost Effects; 113 discovery records, whole lineup snapshots, and 16 reference-only image leads.
 
 ## Verified layer currently preserved
 The public verified product layer currently contains six deeply verified records: Fulltone OCD, Fulltone Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword, EAE Halberd. Do not overwrite these with discovery-only claims.
 
 ## Thumbnail/media system
-`public/catalog-thumbnails-33.js` is the media registry. `public/catalog-thumbnails-33-runtime.js` overlays the existing image resolver after the main app loads. New images are only eligible for public card rendering when rights status and republishing decision are explicitly cleared. Reference-only image leads remain useful research breadcrumbs but are not silently published.
+`public/catalog-thumbnails-33.js` and `public/catalog-thumbnails-34.js` are media registries. `public/catalog-thumbnails-33-runtime.js` overlays the existing image resolver after the main app loads. New images are only eligible for public card rendering when rights status and republishing decision are explicitly cleared. Reference-only image leads remain useful research breadcrumbs but are not silently published.
 
-Current seeded reference leads include Klinger Buzz Fuzz, KMA Wurm, Kittycaster Kittyface, KHDK No.1, and Kingsley Harlot V3. They remain rights-pending unless later cleared.
+Current seeded reference leads include Klinger Buzz Fuzz, KMA Wurm, Kittycaster Kittyface, KHDK No.1, Kingsley Harlot V3, plus Phase 34 leads for Mojo Hand, DenTone, Erafuzz, and Ghost Effects. Phase 34 media leads are intentionally rights-pending and carry no direct-image URL until a specific asset is validated.
 
 ## Immediate next queue
 Continue mining historical and boutique builder indexes for uncaptured builders, prioritizing:
@@ -57,3 +58,5 @@ Phase 31 surfaced a few additional high-value seams: AnaSounds has historical an
 Phase 32 surfaced a particularly useful Tone Bender/Buzzaround/Foxx lineage cluster around Klinger Custom Pedals, including manufacturer and collector visual references; KMA provides explicit modern variant families around Wurm/Wurhm/Guardian and Queequeg/Queequeg 2; Kittycaster provides modern classic-derived designs with explicit designer attribution on some products. All remain discovery observations until later product-level verification.
 
 Phase 33 expanded the K-family map with Kinnatone, Kinsman FX, KHDK Electronics, Kingsley, Heavy Electronics, and KOMA Elektronik. KHDK supplies artist-linked dirt models; Kingsley adds tube preamp/overdrive families; Heavy Electronics contributes a compact historical catalog; KOMA preserves a weird early Berlin CV/effects branch. Image leads were captured alongside these records.
+
+Phase 34 expanded the classic-fuzz specialist cluster substantially. Effects Database currently lists Mojo Hand FX at 65 products, DenTone Electronics at 19, Erafuzz at 10, and Ghost Effects at 19. DenTone's archive notes identify it as Dennis Menard's one-person Barre, Vermont operation; its interview also records a long-running vintage-tone/vintage-parts focus. Erafuzz's timeline places its first Buzzaround prototypes in January 2010, founding in March 2010, and subsequent releases including the Buzzaround, Grand Dragon, Italian V, Civil War, Revolution, Sacred Resonance, and Octavo Stone. Ghost Effects is identified with Ian Sherwen in Birmingham and has a documented Ghost Bender family alongside Buzzaround, Zonk Machine, Doom Bender and other vintage-derived fuzzes. These are discovery-level observations pending product-by-product verification.
