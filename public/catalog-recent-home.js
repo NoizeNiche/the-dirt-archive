@@ -1,15 +1,15 @@
 (() => {
   // Ensure the modern-preservation extensions remain available even when index.html is cached by a static host.
-  for (const name of ['catalog-extensions-83.js','catalog-extensions-84.js','catalog-extensions-85.js','catalog-extensions-86.js','catalog-extensions-87.js','catalog-extensions-88.js','catalog-extensions-89.js']) {
+  for (const name of ['catalog-extensions-83.js','catalog-extensions-84.js','catalog-extensions-85.js','catalog-extensions-86.js','catalog-extensions-87.js','catalog-extensions-88.js','catalog-extensions-89.js','catalog-extensions-90.js']) {
     if (!document.querySelector(`script[src="${name}"]`)) { const s=document.createElement('script'); s.src=name; document.head.appendChild(s); }
   }
 
   const RECENT_HOME_MODELS = [
-    'Disambiguation MK2 Muff-Rat',
-    'Hanami Germanium CV-Fuzz',
-    'Caught By The Fuzz Everyday OpAmp Fuzz',
-    'Gainlord',
-    'Atomic World Ender'
+    'Tone Lord Tone Era Solo Boost and Shaper',
+    'NOTADÜMBLË',
+    'Hostomel Tube Driver',
+    'Devil Tail Deathtortion',
+    'Barrows Fuzz Attacker'
   ];
 
   if (!document.getElementById('dirtArchiveBackgroundStyle')) {
