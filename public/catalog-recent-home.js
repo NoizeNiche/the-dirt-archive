@@ -1,11 +1,11 @@
 (() => {
   // Rolling homepage activity rail. Keep newest-first and update this list with each meaningful archive release.
   const RECENT_HOME_MODELS = [
-    'Pugilist Distortion V2',
-    'Santa Ana Overdrive V2',
-    'The Pelt Fuzz V2',
-    'Overdrive Preamp 250-X',
-    'G3 V2'
+    'Carbon V2',
+    'BlackBox Overdrive 2',
+    'Bad Passenger Fuzz MKII',
+    'Paladin V2',
+    'Pinnacle Deluxe V2'
   ];
 
   // Fixed archival backdrop. The SVG stays stationary while the archive scrolls.
