@@ -9,7 +9,6 @@
     'Spaceman Effects Spacerocket - Intermodulation Octave Fuzz': {src:null,page:'https://www.chicagomusicexchange.com/products/spaceman-effects-spacerocket-fuzz',credit:'Chicago Music Exchange / source photographer',rights_status:'Reference-only',public_use_decision:'pending'},
     'Spaceman Effects Sputnik II - Deluxe Germanium Fuzz': {src:null,page:'https://www.effectsdatabase.com/model/spaceman/sputnikii',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
     'Foxpedal Defector - Fuzz + Boost': {src:null,page:'https://www.effectsdatabase.com/model/foxpedal/defector',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
-    'Foxpedal The City - TS-Style Overdrive': {src:null,page:'https://www.effectsdatabase.com/model/foxpedal/thecity',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
-    'Spaceman Effects 1973?': {src:null,page:'https://www.effectsdatabase.com/model/spaceman',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'}
+    'Foxpedal The City - TS-Style Overdrive': {src:null,page:'https://www.effectsdatabase.com/model/foxpedal/thecity',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'}
   });
 })();
