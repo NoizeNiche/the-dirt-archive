@@ -1,42 +1,44 @@
-# Early Foundational Handoff 69
+# Early Foundational Handoff 70
 
-## Pass 21: boutique catalog expansion and specimen-level production boundaries
+## Pass 22: early boutique catalog breadth and branding-state archaeology
 
-This pass extends the 1998-2010 corridor with seven reconciliation records focused on early Catalinbread, Keeley, Skreddy, and a later EQD lineage correction. The emphasis remains on first production states, documented graphics/build transitions, and separating design-origin dates from retail dates.
+This pass expands the 2004-2010 boutique corridor with eight reconciliation records. The emphasis remains on early retail documentation, branding transitions, and specimen clues that can distinguish original states from later continuations.
 
 ### Newly documented
 
-- **Catalinbread Super Chili Picoso**: June 2003 founding retail anchor as the first Catalinbread-branded pedal made for ToneFactor.
-- **Catalinbread SFT**: 2008-2010 early-production corridor, with the company’s documented 2008 decal-to-Lexan and 2010 Lexan-to-silkscreen graphics transitions preserved as future specimen clues.
-- **Catalinbread Merkin Fuzz**: 2008-2009 early-fuzz marker inside the first major Catalinbread expansion wave.
-- **Keeley Java Boost**: 2005 period retail evidence for an early germanium treble-boost product state.
-- **Keeley Compressor October 2005 build state**: context-only generation record documenting the input-sensitivity and top-jack production change; excluded from dirt count.
-- **Skreddy Pig Mine**: January 2009 first outsourced-board assembly milestone, published as a May 2009 product state.
-- **EarthQuaker Devices Dirt Transmitter Legacy Reissue**: 2021 limited 1000-unit reissue kept explicitly separate from the original 2008 three-control production state.
+- **HomeBrew Electronics UFO Ultimate Fuzz Octave**: October 2004 documented retail state, adding an early HBE octave-fuzz anchor.
+- **HomeBrew Electronics Germania**: September 2005 documented production state, kept separate from Germania 44.
+- **Death By Audio Supersonic Fuzz Gun**: December 2005 published production state, providing a strong pre-2006 DBA marker.
+- **Effector 13 Rocket**: 2007 precursor branding state later becoming the Devi Ever Rocket, preserved as a separate identity layer.
+- **Devi Ever AE Aenima**: May 2007 documented early production state, with later enclosure/control variants left specimen-led.
+- **Devi Ever Spectacular Aenima**: August 2007 early Spectacular-series state, separated from standard Aenima entries.
+- **Skreddy Pig Mine May 2009 retail state**: documented product publication state linked to the January 2009 outsourced-board production milestone already archived.
+- **Fulltone Ultimate Octave**: October 2004 documented retail identity, with a conflicting 1997-labeled surviving specimen preserved rather than normalized away.
 
 ### Key research findings
 
-1. **Graphics can become chronology evidence.** Catalinbread explicitly dates its shift from decals to Lexan faceplates in 2008 and from Lexan to two-color silkscreen in 2010, creating future specimen-identification boundaries even where exact model launch dates are broad.
-2. **A builder’s first retail product can be a historical anchor.** Super Chili Picoso gives Catalinbread a hard June 2003 starting point and ties the origin of the company to a specific retailer relationship.
-3. **A production-method change can matter as much as a circuit revision.** Skreddy’s January 2009 move to outsourced board assembly marks an important manufacturing transition that collectors may encounter without it changing the pedal’s public model name.
-4. **Context records should remain separate from dirt counts.** Keeley’s 2005 compressor change is valuable for reconstructing the company’s production chronology, but it does not belong in the core overdrive/distortion/fuzz population.
-5. **Reissues are separate historical objects.** The Dirt Transmitter Legacy Reissue is explicitly limited to 1000 units and restores a discontinued pedal in a four-control format, making it a separate edition from the original small-enclosure three-control state.
+1. **Boutique catalogs were broad very early.** HBE already had multiple distinct dirt products in the 2004-2005 period, demonstrating that small builders could move quickly from one successful design into recognizable mini-catalogs.
+2. **Branding transitions can be the archival object.** Effector 13 Rocket and later Devi Ever Rocket should not be collapsed when the branding itself is part of the collectible identity.
+3. **DBA's documentary trail reaches well before its best-known later catalog.** The December 2005 Supersonic Fuzz Gun provides an early fixed point before the 2006-2008 expansion documented elsewhere.
+4. **Skreddy production history now has two clocks.** The January 2009 outsourced-board milestone records a manufacturing event, while May 2009 records documented retail presence. Both matter for specimen research.
+5. **Conflicting specimen dates should remain visible.** The Fulltone Ultimate Octave publication date and a surviving 1997-labeled specimen conflict. The archive records both rather than silently choosing one.
+6. **The archive benefits from separating publication date, first sale, manufacturing change, branding change, and surviving-label evidence.** These are different kinds of historical claims and should never be flattened into one date field.
 
 ### Evidence discipline
 
-- **VERIFIED** remains reserved for explicit manufacturer or contemporary documentary support.
-- **RESEARCH** remains for broad specialist chronology, exact first-sale gaps, and unresolved specimen boundaries.
-- Build-method changes, graphics transitions, limited reissues, and original production states are preserved as separate layers.
+- **VERIFIED** is reserved for explicit manufacturer or strong contemporary documentary support.
+- **RESEARCH** remains for branding transitions, conflicting specimen labels, and dates that are anchored by specialist publications rather than explicit first-sale records.
+- Product families, regional labels, branding states, reissues, and manufacturing milestones remain separate evidence layers.
 - No schematics, PCB layouts, complete BOMs, gutshot libraries, or cloning instructions are added.
 
 ### Current lineage position
 
-The boutique corridor now has strong anchor points from Way Huge in 1992, Catalinbread in 2003, Skreddy in 2004, Keeley in the early 2000s, MI Audio in the mid-2000s, and EQD/Devi Ever/Death By Audio in the later 2000s. The documentary record increasingly shifts toward retailer announcements, builder-authored timelines, specialist databases, contemporary video, and production-state clues.
+The research corridor now has robust early-boutique anchor points from Way Huge in 1992, Catalinbread in 2003, Skreddy in 2004, HBE and Fulltone in the mid-2000s, and Devi Ever, Death By Audio, Black Arts Toneworks, MI Audio, and EarthQuaker Devices in the later 2000s. The surviving evidence increasingly consists of builder timelines, specialist product pages, contemporary retailer/forum announcements, publication dates, and specimen-level physical clues.
 
-### Pass 21 note
+### Pass 22 note
 
-Extension 121 contains REC-235 through REC-241. Public and research reconciliation-15 indexes have been extended accordingly. Extension 121 is now the next loaded archive layer.
+Extension 122 adds REC-242 through REC-249. Public and research reconciliation-16 indexes were created. The recent-home loader now surfaces UFO Ultimate Fuzz Octave, Germania, Supersonic Fuzz Gun, Rocket, and Ultimate Octave.
 
 ### Next target
 
-Continue through **1998-2010** with HBE’s early dirt catalog, Catalinbread’s SFT/Merkin/early drive chronology, Keeley Fuzz/Java generations, Skreddy first-run and outsourcing states, Devi Ever’s early catalog, Death By Audio’s pre-2010 dirt families, Black Arts Toneworks editions, MI Audio Blues Pro/Tube Zone generations, and late DOD/DigiTech FX closeout products. Keep digital modeling records as contextual platform history rather than allowing them to dilute the dedicated-dirt archive.
+Continue through **1998-2010** with deeper HBE dirt models, Catalinbread's pre-2011 variants and graphics states, additional Keeley Fuzz/drive generations, Devi Ever's broader early catalog, Death By Audio's 2006-2010 production family, Black Arts Toneworks first editions, MI Audio Blues Pro/Tube Zone generations, and late DOD/DigiTech closeout models. Keep digital modeling records contextual and maintain strict separation between design origin, first sale, first publication, manufacturing change, reissue, and specimen evidence.
