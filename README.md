@@ -20,6 +20,8 @@ The project emphasizes:
 
 The fuzz section is the first major research program. The repository now contains a structured discovery census covering foundational vintage fuzz, British OEM relationships, Japanese OEM families, modern boutique builders, obscure/defunct vintage builders, and broad modern boutique catalog lineups.
 
+**Research priority is now breadth-first:** builders and their product libraries come first. Detailed work on versions, enclosure changes, production periods, identification characteristics and product genealogy follows after the builder/product universe is substantially mapped.
+
 Research files live under `/research` and are deliberately kept separate from the public website assets.
 
 Current phases include:
@@ -34,8 +36,11 @@ Current phases include:
 - `catalog-completeness-phase-23.md` — EarthQuaker Devices, Death By Audio, Electronic Audio Experiments, Black Arts Toneworks and Fulltone catalog discovery, plus current-product additions
 - `product-depth-phase-24.md` — focused historical research for major boutique dirt families
 - `product-verification-phase-25.md` — evidence review and promotion rules for the strongest P1 families
+- `catalog-completeness-phase-26.md` — builder-first expansion covering 19 additional builders and 364 dirt-scope discovery records
 
-The first public verification promotion now contains six structured records: Fulltone OCD, Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword and EAE Halberd. Their generation records, source records and selected claim-level evidence are loaded by `public/catalog-verified-25.js`.
+The first public verification promotion contains six structured records: Fulltone OCD, Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword and EAE Halberd. Their generation records, source records and selected claim-level evidence are loaded by `public/catalog-verified-25.js`.
+
+Phase 26 resumes broad catalog construction. Its discovery records are intentionally not promoted as historically verified product histories yet. The purpose is to build the map first, then return to individual boxes systematically.
 
 A candidate or discovery record is not automatically a verified public archive record. Promotion requires evidence review, naming/relationship review and, where applicable, production-variation research.
 
