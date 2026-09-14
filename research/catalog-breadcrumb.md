@@ -33,6 +33,7 @@ The assistant cannot see an exact platform context/data-use quota or countdown. 
 - Phase 38: Shin-Ei, Guyatone, Jen Elettronica, Univox, Maxon; 93 discovery records and 12 reference-only image leads.
 - Phase 39: Mad Professor, BearFoot FX, One Control, Spaceman Effects, Foxpedal; 178 discovery records and 10 reference-only image leads.
 - Phase 40: Stomp Under Foot, BJF Electronics (BJFE), Pause&Effects, Tonecat; 85 discovery records and 11 reference-only image leads.
+- Phase 41: Ace Tone, Dazatronyx, Lastgasp Art Laboratories, A.Y.A, Kink Guitar Pedals; 64 discovery records and 9 reference-only image leads.
 
 ## Verified layer currently preserved
 The public verified product layer currently contains six deeply verified records: Fulltone OCD, Fulltone Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword, EAE Halberd. Do not overwrite these with discovery-only claims.
@@ -40,14 +41,15 @@ The public verified product layer currently contains six deeply verified records
 ## Thumbnail/media system
 Phase-specific media registries are loaded after the base catalog. New images are only eligible for public card rendering when rights status and republishing decision are explicitly cleared. Reference-only image leads remain useful research breadcrumbs but are not silently published.
 
-Current seeded reference leads include the earlier K-family, classic fuzz, Japanese OEM, Australian, European and boutique examples through Phase 39, plus Phase 40 leads for Stomp Under Foot Green Russian/Cosmonaut/The Shag MkII, BJFE Baby Blue/Bone Bender/Honey Bee, Pause&Effects Farmako/Fengari/Feta/Strand, and Tonecat Claw & Order. Phase 40 image leads remain rights-pending.
+Current seeded reference leads include the earlier K-family, classic fuzz, Japanese OEM, Australian, European and boutique examples through Phase 40, plus Phase 41 leads for Ace Tone FM-3, Dazatronyx THD Metal Distortion & Hybrid Germanium Fuzz, Dazatronyx TSX Overdrive, Lastgasp Misty Cave and Octavella, A.Y.A BM-Fuzz 70 and Drivesta, and Kink Charlie Fuzz and Oath Of The Goat. Phase 41 image leads remain rights-pending.
 
 ## Immediate next queue
 Continue mining the remaining historical and boutique builder universe, prioritizing:
 - remaining Japanese historical manufacturers and OEM/import brands, especially catalog-rich 1960s-80s names not yet represented.
 - additional Australian and New Zealand boutique builders, including current small-batch builders with enough documented product history to justify a full catalog snapshot.
 - smaller European builders and obscure UK historical replicas, especially Tone Bender / Buzzaround / Zonk / Fuzz Face specialists.
-- remaining BJF-connected catalogs and adjacent collaborations only where a distinct builder/brand catalog can be established.
+- further Japanese experimental and boutique builders adjacent to Lastgasp and A.Y.A where a distinct documented catalog can be established.
+- BJF-connected adjacent catalogs only where a distinct builder/brand catalog can be established.
 - major vintage-derived specialists such as Stomp Under Foot for later product-depth work, especially Big Muff version families and Tone Bender-derived products.
 - large modern builders with known historical catalogs and important discontinued brands that need preservation.
 - Separate Electro-Harmonix historical brand/product-era audit remains open.
@@ -59,7 +61,7 @@ For each builder after enumeration: split model families from editions/versions;
 ## Image research later
 For each important product, seek at least one front image lead during enumeration. When feasible add rear/side/top/packaging/catalog leads for historically diagnostic products. Store image page URL, direct image URL when available, photographer/uploader, source type, license/permission status, required credit, and republishing status.
 
-## Phase 40 notes
-Phase 40 corrected an earlier duplicate-entry mistake before completion. The accidental second pass of the Phase 39 builders was not retained as new research. The real Phase 40 batch instead covers Stomp Under Foot, BJF Electronics (BJFE), Pause&Effects, and Tonecat, using 85 catalog records total. Effects Database currently lists Stomp Under Foot at 30 products and BJF Electronics at 30. citeturn795685search0turn795685search2 Pause&Effects' current catalog contains 23 products, with dedicated Greek Alphabet and Young Artist series pages and vintage-radio projects; its product pages document multiple Tone Bender, Fuzz Face, Rangemaster and related historical-derived families. citeturn963856search0turn963856search2turn963856search5 Tonecat is a new Melbourne builder with a current two-product Effects Database snapshot and a much richer manufacturer/media footprint that should remain open for future discovery as the catalog grows. citeturn795685search1turn793801search0
+## Phase 41 notes
+Phase 41 extends the Japanese and Australian branches of the catalog while preserving complete builder snapshots rather than only dirt products. Ace Tone's Effects Database snapshot contains 11 products, including the FM-1, FM-2 and FM-3 Fuzz Master family; independent historical references place Ace Tone as an early Japanese company founded by Ikutaro Kakehashi and a precursor to the Roland lineage. citeturn738108search0turn795932search61 Dazatronyx's Effects Database snapshot contains 11 products, while the current manufacturer catalog shows a wider live range including Big Fuzz, Biiig Fuzz, TSX Overdrive, Black Russian, Rad Distortion, Twin FET Booster and others, so its discovery record should remain open for later expansion. citeturn738108search1turn795932search0turn795932search2 Lastgasp Art Laboratories is represented by 27 documented products including the Misty Cave, Green Monster, 45/46/86/87/88 oscillating fuzz families, Octavella, Toxic Plant and other experimental devices. citeturn738108search3 A.Y.A is a seven-product Tokyo catalog run by builder Makoto Kawai, while Kink's historical snapshot is preserved here alongside current evidence showing a much larger present catalog, including Atomic Spaghetti, Jackalope, Monks, Russian Plague and other newer releases. citeturn738108search2turn795932search1turn795932search3
 
-Phase 40 image work added 11 front-image reference leads. They are provenance records only and remain rights-pending; no Phase 40 asset is approved for public display.
+The Lastgasp Misty Cave received two visual provenance leads this phase, including a distributor/manufacturer image source and an independent Audiofanzine photograph. Both remain reference-only. citeturn795932image0turn795932image2
