@@ -33,7 +33,7 @@ This pass deepens the 1992-2010 boutique corridor with eight reconciliation reco
 
 ### Current lineage position
 
-The research corridor now reaches from 1960s fuzz pioneers through the 1970s/1980s compact-pedal expansion, the 1990s high-gain and early-boutique transition, and into the Internet-era boutique ecosystem of the 2000s. The next useful layer is not simply more famous models. It is the smaller surrounding catalog that explains how these builders grew, changed production methods, and established recognizable first generations.
+The research corridor now reaches from 1960s fuzz pioneers through the 1970s/1980s compact-pedal expansion, the 1990s high-gain and early-boutique transition, and into the Internet-era boutique ecosystem of the 2000s. The next useful layer is the smaller surrounding catalog that explains how these builders grew, changed production methods, and established recognizable first generations.
 
 ### Pass 20 note
 
