@@ -24,10 +24,16 @@ The assistant cannot see an exact platform context/data-use quota or countdown. 
 - Phase 29: Electro-Harmonix, Prescription Electronics, D*A.M., Abominable Electronics; 192 discovery records.
 - Phase 30: SkinPimp, M.A.S.F., T. Jauernig Electronics, Rastop Designs, Compulsive Audio, Main.Ace.FX, GoosoniqueWorx, 1969 Effects, Pigdog; 115 discovery records.
 - Phase 31: AnaSounds, Leila Vintage Electronics, Jamés Pedals, Loophole Pedals, Orion Effekte, G.S. Wyllie; 82 raw discovery records, with duplicate-safe extension merging.
-- Phase 32: Klinger Custom Pedals, KMA Audio Machines, Kittycaster FX; 36 discovery records.
+- Phase 32: Klinger Custom Pedals, KMA Audio Machines, Kittycaster FX; 36 discovery records, now confirmed and wired into the public site.
+- Phase 33: Kinnatone, Kinsman FX, KHDK Electronics, Kingsley, Heavy Electronics, KOMA Elektronik; 43 discovery records.
 
 ## Verified layer currently preserved
 The public verified product layer currently contains six deeply verified records: Fulltone OCD, Fulltone Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword, EAE Halberd. Do not overwrite these with discovery-only claims.
+
+## Thumbnail/media system
+`public/catalog-thumbnails-33.js` is the media registry. `public/catalog-thumbnails-33-runtime.js` overlays the existing image resolver after the main app loads. New images are only eligible for public card rendering when rights status and republishing decision are explicitly cleared. Reference-only image leads remain useful research breadcrumbs but are not silently published.
+
+Current seeded reference leads include Klinger Buzz Fuzz, KMA Wurm, Kittycaster Kittyface, KHDK No.1, and Kingsley Harlot V3. They remain rights-pending unless later cleared.
 
 ## Immediate next queue
 Continue mining historical and boutique builder indexes for uncaptured builders, prioritizing:
@@ -49,3 +55,5 @@ Phase 30 surfaced several strong future lineage cases: SkinPimp's Tone Bender fa
 Phase 31 surfaced a few additional high-value seams: AnaSounds has historical and current catalogs with wooden/bamboo enclosure eras and explicit saturation-family naming; Loophole's history spans modification/rehouse services into original finished pedals, with a documented Grey Matter v1/v2 progression; Orion has a 30-product historical database roster plus a smaller active official catalog; G.S. Wyllie has highly individual cast-enclosure work and explicit historical-derived relationships such as Rising Sun and Wylo; Leila and Jamés are small enough to be good candidates for eventual near-complete product-level research.
 
 Phase 32 surfaced a particularly useful Tone Bender/Buzzaround/Foxx lineage cluster around Klinger Custom Pedals, including manufacturer and collector visual references; KMA provides explicit modern variant families around Wurm/Wurhm/Guardian and Queequeg/Queequeg 2; Kittycaster provides modern classic-derived designs with explicit designer attribution on some products. All remain discovery observations until later product-level verification.
+
+Phase 33 expanded the K-family map with Kinnatone, Kinsman FX, KHDK Electronics, Kingsley, Heavy Electronics, and KOMA Elektronik. KHDK supplies artist-linked dirt models; Kingsley adds tube preamp/overdrive families; Heavy Electronics contributes a compact historical catalog; KOMA preserves a weird early Berlin CV/effects branch. Image leads were captured alongside these records.
