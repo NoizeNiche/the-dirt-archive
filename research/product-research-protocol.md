@@ -19,6 +19,14 @@ When supported, distinguish four levels:
 
 Never collapse variants merely because names overlap, and never separate them solely because collector lore says they are different.
 
+## Comprehensiveness principle
+
+The batch system is an execution method, not a ceiling on research depth. When a builder, family, or historically connected product is under active research, capture as much useful information as the available evidence supports.
+
+Do not stop at the famous models. Include obscure, short-lived, regional, OEM, private-label, rebranded, transitional, retailer-branded and easily confused variants when they can be established. Capture alternate names, model-number variations, collector terminology, introduction and discontinuation evidence, factory and supplier changes, enclosure and artwork changes, control and labeling revisions, production technology changes, successor/predecessor relationships, cross-brand equivalents, and important disputes.
+
+The goal is **high knowledge density**, not maximum word count. A concise set of highly specific identification clues is more valuable than a long generic biography. Deep effort is justified whenever it helps a reader identify, date, distinguish, authenticate, or contextualize an actual pedal.
+
 ## Research unit
 
 Each product should eventually receive, where evidence exists:
@@ -48,7 +56,7 @@ Each product should eventually receive, where evidence exists:
 Research effort scales with historical importance, catalog complexity and identification difficulty.
 
 ### Tier A — Landmark / difficult identification
-Historically important, heavily revised, OEM-connected, commonly confused or otherwise difficult products. Full generation map, detailed external identification clues, lineage mapping, alternate terminology, disputed points and multiple strong sources where available.
+Historically important, heavily revised, OEM-connected, commonly confused or otherwise difficult products. Full generation map, detailed external identification clues, lineage mapping, alternate terminology, disputed points and multiple strong sources where available. For exceptionally rich families, multiple overlapping production sub-eras may be more accurate than a single generation label.
 
 ### Tier B — Significant / moderately complex
 Important products with meaningful production history but fewer difficult variants. Chronology, generation/version notes, identification clues, relationships and solid sources.
@@ -89,7 +97,7 @@ Do not merge records simply because two pedals are similar internally, and do no
 
 ## Cross-linking strategy
 
-As the database matures, related products should become navigational clues rather than isolated essays. Useful links include family members, major branded/OEM equivalents, direct successors/predecessors, original versus reissue branches, visually confusing near-neighbors, and regional/manufacturing branches.
+As the database matures, related products should become navigational clues rather than isolated essays. Useful links include family members, major branded/OEM equivalents, direct successors/predecessors, original versus reissue branches, visually confusing near-neighbors, regional/manufacturing branches, alternate names and model-number variants.
 
 A visitor looking at one pedal should be able to discover the relevant historical branch without already knowing the terminology.
 
@@ -99,18 +107,23 @@ Every product should eventually have a compact front thumbnail where possible. I
 
 Collector, marketplace and editorial images can be excellent identification references but remain non-public until permission/license is established. Discovery status and republication rights are always separate.
 
+## Identity-key discipline
+
+A product must be attached to the correct catalog object. Model names are not guaranteed to be unique across builders or branded OEM branches. Research ingestion should therefore prefer the catalog `pedal_id` plus builder context over model-name-only matching. This prevents two distinct objects such as identically named Sola Sound and Vox records from receiving the same dossier.
+
 ## Batch strategy
 
 Work in manageable batches, prioritizing historically important and highly connected products first. Each batch should:
 
-1. research the individual products;
-2. cross-check names against the live catalog before attaching records;
-3. add structured metadata;
-4. attach source records;
-5. add generation maps when evidence supports them;
-6. capture image leads separately from rights status;
-7. render thumbnails only when explicitly cleared for public use;
-8. update this protocol and `research/catalog-breadcrumb.md`.
+1. research the individual products as deeply as their importance and complexity warrant;
+2. cross-check names and identity against the live catalog before attaching records;
+3. use an unambiguous identity key, preferably `pedal_id`, where model names collide;
+4. add structured metadata;
+5. attach source records;
+6. add generation maps when evidence supports them;
+7. capture image leads separately from rights status;
+8. render thumbnails only when explicitly cleared for public use;
+9. update the breadcrumb with completed range, notable unresolved questions and the next queue.
 
 Do not spend disproportionate time making five famous pedals perfect while leaving the rest blank. Build strong Tier A coverage, establish useful Tier B coverage across major builders/eras, move efficiently through Tier C, then return for deeper cross-linking, image clearance and disputed-history cleanup.
 
@@ -124,4 +137,4 @@ Builder enumeration is paused while product depth advances across the existing c
 - MXR, BOSS, Fulltone, ProCo, Electro-Harmonix and Ibanez/Maxon families
 - then systematic coverage of remaining discovery records in catalog order
 
-The end goal is a database where someone can start with a pedal in hand, narrow down the family and version from visible evidence, understand the historical lineage, and see exactly how confident the Archive is in that identification.
+The end goal is a database where someone can start with a pedal in hand, narrow down the family and version from visible evidence, understand the historical lineage, distinguish commonly confused variants, and see exactly how confident the Archive is in that identification.
