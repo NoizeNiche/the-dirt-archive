@@ -7,20 +7,19 @@ When Darren says "YARP" or the obvious typo "Tarp" in this project context, resu
 ## Current position
 The 2023 census is being widened through dated discovery indexes and primary-source verification. The goal is not merely to collect notable pedals, but to catch obscure builders, bass dirt, micro-builders, small-run products, collaborations and products that disappear from normal roundups.
 
-## Batch 09
-Verified/strong-source leads:
-- Buzzing Bugs Audio Devices BB01 Fuzz Pre-Amp: first full production model in 2023; hybrid transistor/op-amp; three-control fuzz/preamp; top-mounted jacks; true bypass; 9V center-negative.
-- Buzzing Bugs Audio Devices BB02 Percolator Fuzz: silicon-transistor Harmonic Percolator interpretation; two interacting controls; top-mounted jacks; true bypass; 9V center-negative.
-- Bulinski Pedals Filth Foundry: silicon-transistor Fuzz Factory interpretation with broad fuzz/oscillation range.
+## Batch 09–19 progress
+Recent verified/strong-source records include Buzzing Bugs BB01/BB02, Bulinski Filth Foundry, Aclam The Mocker, STOP! Dual Fuzz, Oneder Old Blue, Haggtronix Mothman, Daredevil Ten Tone Anniversary Fuzz, Great Eastern FX Focus Fuzz, Messiah Eddie BoostDrive, Browne Protein/Carbon, BOSS BP-1W, Fender Shields Blender, and the Batch 19 additions below.
 
-Discovery census additions:
-- 1981 Inventions LVL
-- Asheville Guitar Pedals 308 Distortion / Fuzz Driver
-- Azor AP-501 Cattle Fuzz / AP-502 Tiger Overdrive / AP-503 Monkey Leon Drive / AP-506 Snake Distortion
-- Ashdown Engineering Geezer Butler Pedal Of Doom / JM John Myung Double Drive
-- Aguilar Storm King
-- Axiom Effects DP-1 / FP-1 / OP-1
-- Blue Colander Stompboxes, Black Bobbin, Black Mountain and Rockready as new-builder leads
+### Batch 19 additions
+- Bardic Audio Devices Rival — 2023 Mesa Mark V-style preamp/distortion; five-band EQ and dual Gain/Solo switching provide useful identification clues.
+- Messiah Guitars Eddie BoostDrive — 2023 dual boost/drive; original product preserved separately from later Session and related products.
+- PedalPalFX PAL800 Gold Overdrive V4 — manufacturer explicitly documents V4 and its three voicing configurations; V3 remains a separate generation.
+- Electric Eye Audio The Thrasher — standard and Stealth/Black appearance treatments preserved as edition evidence, not assumed circuit generations.
+- Intensive Care Audio Vena Cava — experimental filter/distortion identity preserved rather than forcing a conventional distortion taxonomy.
+- Intensive Care Audio Death Drive — product identity cataloged, exact generation chronology intentionally unresolved.
+
+## Identification rule reinforced
+Do not collapse signature, edition, artwork, enclosure, revision, generation, or predecessor relationships into a single version field. Introduction date, revision date, generation date and edition date remain separate evidence dimensions.
 
 ## Research priorities
 1. Keep sweeping 2023 for OD, distortion and fuzz builders/products.
