@@ -1,0 +1,91 @@
+DISC-1200	BLD-DISC-ARION-01	Chorus/Flanger	Arion DCF-1 Digital Chorus/Flanger
+DISC-1201	BLD-DISC-ARION-01	Delay	Arion DDM-1 Digital Delay
+DISC-1202	BLD-DISC-ARION-01	Delay	Arion DDS-1 Digital Delay/Sampler
+DISC-1203	BLD-DISC-ARION-01	Delay	Arion DDS-4 Digital Delay/Sampler
+DISC-1204	BLD-DISC-ARION-01	Distortion	Arion DMD-1 Digital Metal Distortion
+DISC-1205	BLD-DISC-ARION-01	Reverb	Arion DRS-1 Digital Reverb
+DISC-1206	BLD-DISC-ARION-01	Reverb	Arion DSR-1 Digital Reverb
+DISC-1207	BLD-DISC-ARION-01	Tuner	Arion HU-8400 Chromatic Tuner
+DISC-1208	BLD-DISC-ARION-01	Tuner	Arion HU-8500 Stage Tuner
+DISC-1209	BLD-DISC-ARION-01	Chorus	Arion MCH-2 Bass Chorus
+DISC-1210	BLD-DISC-ARION-01	Distortion	Arion MDI-1 Tube Mania
+DISC-1211	BLD-DISC-ARION-01	Distortion	Arion MDI-2 Bass Distortion
+DISC-1212	BLD-DISC-ARION-01	Distortion	Arion MDS-1 Distortion
+DISC-1213	BLD-DISC-ARION-01	EQ	Arion MEQ-1 Equalizer
+DISC-1214	BLD-DISC-ARION-01	EQ	Arion MEQ-2 Bass Equalizer
+DISC-1215	BLD-DISC-ARION-01	Flanger	Arion MFL-2 Bass Flanger
+DISC-1216	BLD-DISC-ARION-01	Distortion	Arion MMP-1 Metal Plus
+DISC-1217	BLD-DISC-ARION-01	Octave	Arion MOC-1 Octave
+DISC-1218	BLD-DISC-ARION-01	Overdrive	Arion MTE-1 Tubulator
+DISC-1219	BLD-DISC-ARION-01	Power Supply	Arion PS-05 Power Supply
+DISC-1220	BLD-DISC-ARION-01	Power Supply	Arion PSB-06 Power Supply Board
+DISC-1221	BLD-DISC-ARION-01	Delay	Arion SAD-1 Stereo Analog Delay
+DISC-1222	BLD-DISC-ARION-01	Delay	Arion SAD-3 Stereo Analog Delay
+DISC-1223	BLD-DISC-ARION-01	Chorus	Arion SCH-1 Stereo Chorus
+DISC-1224	BLD-DISC-ARION-01	Chorus	Arion SCH-Z Stereo Chorus
+DISC-1225	BLD-DISC-ARION-01	Chorus	Arion SCH-ZD Stereo Chorus
+DISC-1226	BLD-DISC-ARION-01	Compressor	Arion SCO-1 Stereo Compressor
+DISC-1227	BLD-DISC-ARION-01	Distortion	Arion SDI-1 Stereo Distortion
+DISC-1228	BLD-DISC-ARION-01	Chorus	Arion SFC-1 Stereo Fat Chorus
+DISC-1229	BLD-DISC-ARION-01	Flanger	Arion SFL-1 Stereo Flanger
+DISC-1230	BLD-DISC-ARION-01	Distortion	Arion SMM-1 Stereo Metal Master
+DISC-1231	BLD-DISC-ARION-01	Overdrive	Arion SOD-1 Stereo Overdrive
+DISC-1232	BLD-DISC-ARION-01	EQ	Arion SPE-1 Stereo Parametric EQ
+DISC-1233	BLD-DISC-ARION-01	Phaser	Arion SPH-1 Stereo Phaser
+DISC-1234	BLD-DISC-ARION-01	Reverb	Arion SRV-1 Stereo Reverb
+DISC-1235	BLD-DISC-KENMULTI-01	Multi-Effect	Ken Multi Effects 5 - Multiple Effects
+DISC-1236	BLD-DISC-KENMULTI-01	Chorus	Ken Multi MCH-22 Stereo Chorus
+DISC-1237	BLD-DISC-KENMULTI-01	Chorus	Ken Multi MCH-7 Chorus
+DISC-1238	BLD-DISC-KENMULTI-01	Chorus	Ken Multi MCH-8 Bass Chorus
+DISC-1239	BLD-DISC-KENMULTI-01	Chorus	Ken Multi MCH-SS Chorus
+DISC-1240	BLD-DISC-KENMULTI-01	Compressor	Ken Multi MCO-22 Compressor
+DISC-1241	BLD-DISC-KENMULTI-01	Compressor	Ken Multi MCP-28 Bass Compressor
+DISC-1242	BLD-DISC-KENMULTI-01	Compressor	Ken Multi MCP-7 Compressor
+DISC-1243	BLD-DISC-KENMULTI-01	Compressor	Ken Multi MCP-8 Bass Compressor
+DISC-1244	BLD-DISC-KENMULTI-01	Delay	Ken Multi MDD-7 Digital Delay
+DISC-1245	BLD-DISC-KENMULTI-01	Distortion	Ken Multi MDI-22 Distortion
+DISC-1246	BLD-DISC-KENMULTI-01	Delay	Ken Multi MDL-7 Analog Delay
+DISC-1247	BLD-DISC-KENMULTI-01	Reverb	Ken Multi MDR-7 Digital Reverb
+DISC-1248	BLD-DISC-KENMULTI-01	Delay	Ken Multi MDS-22 Digital Delay/Sampler
+DISC-1249	BLD-DISC-KENMULTI-01	Delay	Ken Multi MDS-7 Digital Delay/Sampler
+DISC-1250	BLD-DISC-KENMULTI-01	Distortion	Ken Multi MDT-7 Distortion
+DISC-1251	BLD-DISC-KENMULTI-01	Distortion	Ken Multi MDT-8 Bass Distortion
+DISC-1252	BLD-DISC-KENMULTI-01	Distortion	Ken Multi MDT-SS Distortion
+DISC-1253	BLD-DISC-KENMULTI-01	EQ	Ken Multi MEQ-7 Parametric EQ
+DISC-1254	BLD-DISC-KENMULTI-01	Flanger	Ken Multi MFL-7 Flanger
+DISC-1255	BLD-DISC-KENMULTI-01	Flanger	Ken Multi MFL-8 Bass Flanger
+DISC-1256	BLD-DISC-KENMULTI-01	Fuzz	Ken Multi MFZ-7 Fuzz
+DISC-1257	BLD-DISC-KENMULTI-01	Multi-Effect	Ken Multi MME-7 Multiple Effects
+DISC-1258	BLD-DISC-KENMULTI-01	Distortion	Ken Multi MMM-22 Metal Master
+DISC-1259	BLD-DISC-KENMULTI-01	Noise Gate	Ken Multi MNG-7 Noise Gate
+DISC-1260	BLD-DISC-KENMULTI-01	Octave	Ken Multi MOC-7 Octave
+DISC-1261	BLD-DISC-KENMULTI-01	Overdrive	Ken Multi MOD-7 Overdrive
+DISC-1262	BLD-DISC-KENMULTI-01	Overdrive	Ken Multi MOD-SS Overdrive
+DISC-1263	BLD-DISC-KENMULTI-01	Boost	Ken Multi MPB-7 Power Up Booster
+DISC-1264	BLD-DISC-KENMULTI-01	Phaser	Ken Multi MPH-22 Phaser
+DISC-1265	BLD-DISC-KENMULTI-01	Phaser	Ken Multi MPH-7 Phaser
+DISC-1266	BLD-DISC-KENMULTI-01	Tube Driver	Ken Multi MTO-7 Tube Driver
+DISC-1267	BLD-DISC-KENMULTI-01	Distortion	Ken Multi MUM-7 Ultra Metal
+DISC-1268	BLD-DISC-KENMULTI-01	Auto Wah	Ken Multi MWH-7 Auto Wah
+DISC-1269	BLD-DISC-SYSTECH-01	Flanger	Systech 4000A Flanger
+DISC-1270	BLD-DISC-SYSTECH-01	Flanger	Systech 7012 Flanger
+DISC-1271	BLD-DISC-SYSTECH-01	Phaser	Systech 7026 Dual Phase Shifter
+DISC-1272	BLD-DISC-SYSTECH-01	Other	Systech Envelope & Repeater
+DISC-1273	BLD-DISC-SYSTECH-01	Other	Systech Envelope Computer
+DISC-1274	BLD-DISC-SYSTECH-01	Filter	Systech Envelope Follower
+DISC-1275	BLD-DISC-SYSTECH-01	Flanger	Systech Flanger
+DISC-1276	BLD-DISC-SYSTECH-01	Other	Systech Harmonic Energizer
+DISC-1277	BLD-DISC-SYSTECH-01	Phaser	Systech KUAI Electronic Phase Shifter
+DISC-1278	BLD-DISC-SYSTECH-01	Overdrive	Systech Overdrive
+DISC-1279	BLD-DISC-SYSTECH-01	Phaser	Systech Phase Shifter
+DISC-1280	BLD-DISC-ROLAND-01	Fuzz	Roland pedals AD-50 Double Beat
+DISC-1281	BLD-DISC-ROLAND-01	Fuzz	Roland pedals AF-100 Bee Baa - Fuzz and Treble Booster
+DISC-1282	BLD-DISC-ROLAND-01	Fuzz	Roland pedals AF-60 Bee Gee
+DISC-1283	BLD-DISC-ROLAND-01	Distortion	Roland pedals AG-5 Funny Cat - Harmonic Mover & Soft Distortion Sustainer
+DISC-1284	BLD-DISC-ROLAND-01	Phaser	Roland pedals AP-2 Phase II
+DISC-1285	BLD-DISC-ROLAND-01	Phaser	Roland pedals AP-5 Phase Five
+DISC-1286	BLD-DISC-ROLAND-01	Phaser	Roland pedals AP-7 Jet Phaser
+DISC-1287	BLD-DISC-ROLAND-01	Sustainer	Roland pedals AS-1 Sustainer
+DISC-1288	BLD-DISC-ROLAND-01	Wah	Roland pedals AW-10 Wah Beat
+DISC-1289	BLD-DISC-ROLAND-01	Volume	Roland pedals FV-1 Foot Volume
+DISC-1290	BLD-DISC-ROLAND-01	Volume	Roland pedals FV-2 Foot Volume
