@@ -1,49 +1,43 @@
 # Early Foundational Handoff 67
 
-## Pass 18: boutique expansion, first commercial runs, and 2000s dirt lineage
+## Pass 19: the early-boutique archaeology gets sharper
 
-This pass deepens the late-1990s through 2000s boutique corridor and records the first-sale or early-production evidence that can be anchored without reconstructing circuits. Thirteen reconciliation records were added.
+This pass extends the boutique corridor with an especially useful early anchor: Way Huge’s Red Llama places a recognizable boutique overdrive lineage back in 1992, while Keeley and EarthQuaker records provide hard specimen-level dates for the early 2000s. Seven reconciliation records were added, and a duplicate Tone Reaper entry was corrected into the distinct Dirt Transmitter record.
 
 ### Newly documented
 
-- **Analog Man King of Tone V1 / first 50**: first sold in November 2003, with the initial 50-unit state separated from later production.
-- **Analog Man King of Tone V3**: late-2004 five-knob generation anchored to builder chronology.
-- **Analog Man King of Tone V4**: spring-2006 retail generation separated from its late-2005 development period.
-- **Skreddy Mayonaise 1st edition**: September 2004 first product, establishing the builder's opening catalog state.
-- **Skreddy Screw Driver**: September 2005 original-design milestone following the Mayonaise/Zero period.
-- **Catalinbread Dirty Little Secret**: 2008-2009 early production corridor with later MkII and special editions kept distinct.
-- **MI Audio Crunch Box**: late-2003 design settlement and early-2006 final production release, with the first 500-unit batch documented as a major launch milestone.
-- **HomeBrew Electronics Power Screamer**: first HBE pedal, with 2001 company full-time transition providing an early-2000s boundary rather than a falsely precise release date.
-- **EarthQuaker Devices Hoof**: first full-production run in 2007, including a builder-history first-sale date of March 18, 2007.
-- **EarthQuaker Devices Tone Reaper**: May 2009 period anchor with v1/pre-release specimen evidence retained for generation work.
-- **Devi Ever FX Hyperion**: 2008 period evidence establishing an early retail state for one of the era's distinctive fuzz builders.
-- **Fulltone Full-Drive early silver/aluminum state**: 1995 first-generation specimen evidence separated from later Full-Drive 2 variants.
-- **Fulltone OCD**: 2004 manufacturer-stated birth year, establishing a strong mid-2000s boutique overdrive marker.
+- **Way Huge RL2 Red Llama Overdrive**: 1992-1999 original production state, separated from later Dunlop-era continuations.
+- **Keeley Katana Clean Boost**: 2002 embedded-origin state within the Time Machine Boost, later becoming an independent Keeley product.
+- **Keeley Fuzz Head**: early 2004-2005 production window with documented internal tone-control evolution.
+- **Skreddy Top Fuel**: 2005-2007 BMP-derivative period.
+- **Skreddy Lunar Module**: 2005-2007 early-production family state, with later Deluxe variants kept distinct.
+- **EarthQuaker Devices Dirt Transmitter**: first units began shipping January 2008; original small-enclosure version had only Fuzz, Tone and Level controls.
+- **EarthQuaker Devices Hoof Reaper**: limited first run of about 25 units for Tone Factor in 2010, preserved as a separate edition object.
 
 ### Key research findings
 
-1. **The boutique era has a different archival fingerprint.** Early builders often left a mixture of self-history, dated interviews, first-run anecdotes, surviving specimens, and retailer records rather than conventional factory catalogs.
-2. **First-sale dates and design dates are not interchangeable.** Analog Man's King of Tone and MI Audio's Crunch Box provide especially clear examples where design development predates the commercial retail state.
-3. **Versioning can begin almost immediately.** The King of Tone moved from V1 to V3 and then V4 within a few years, while Fulltone's early Full-Drive states show enclosure and control changes that collectors can encounter today.
-4. **The first commercial-production story matters.** EQD's March 18, 2007 Hoof sale is a useful hard anchor for the moment a one-person experimental shop crossed into a recognizable production line.
-5. **Boutique fuzz was not only vintage recreation.** Skreddy provides a visible progression from Mayonaise, a vintage-recreation first product, to the original-design Screw Driver; EQD and Devi Ever likewise show distinct modern-boutique design identities.
-6. **International boutique builders belong in the same chronology.** MI Audio's Australian Crunch Box is an important counterweight to a U.S.-only view of the 2000s boutique boom.
+1. **The boutique timeline starts earlier than the usual late-1990s shorthand.** Way Huge's 1992 Red Llama is a strong early marker for commercially visible small-builder overdrive before the broader 2000s explosion.
+2. **Design origin, embedded design, and standalone retail are separate archival events.** The Keeley Katana is a good example: its lineage begins inside the Time Machine Boost before becoming an independent Keeley-branded product.
+3. **Specimen-identification evidence is becoming stronger.** EQD's January 2008 Dirt Transmitter shipping date and original three-control enclosure provide exactly the kind of physical-state evidence needed to distinguish early units from later revisions and reissues.
+4. **Limited runs deserve edition records.** The first 2010 Hoof Reaper run was a special Tone Factor Black Friday batch of about 25 units. It should not be normalized into the later recurring model history.
+5. **Skreddy is now traceable as a family tree rather than a loose catalog.** Mayonaise → Zero → Screw Driver → Top Fuel / Lunar Module shows how a boutique builder could move rapidly from historical recreation into increasingly original fuzz/drive designs.
+6. **The archive's reconciliation layer needs collision checks.** A previously repeated Tone Reaper record was replaced with the distinct Dirt Transmitter object, keeping record IDs unique and model history cleaner.
 
 ### Evidence discipline
 
-- **VERIFIED** remains reserved for strong manufacturer or contemporary documentary support.
-- **RESEARCH** is retained where exact first-sale dates, surviving quantities, or generation boundaries depend on specialist records or specimen evidence.
-- Product generations, special editions, branding states, and first-run collectible states stay separate.
-- The archive continues to document the object, not the recipe. No schematics, PCB layouts, complete BOMs, gutshot libraries, or cloning instructions are added.
+- **VERIFIED** remains reserved for manufacturer or contemporary documentary support.
+- **RESEARCH** remains appropriate where exact first-sale boundaries or production quantities are inferred from specialist documentation.
+- Design dates, first shipment dates, retail dates, enclosure generations, special editions, and later reissues are not collapsed into one date field.
+- No schematics, PCB layouts, complete BOMs, gutshot libraries, or cloning instructions are added.
 
 ### Current lineage position
 
-The corridor now has a substantially clearer bridge from the late-1990s DOD/DigiTech and RAT descendants into the Internet-era boutique generation. The major methodological shift is visible: by the 2000s, forums, independent builders, specialty retailers, and builder-authored histories became part of the surviving documentary record alongside traditional manufacturer material.
+The research corridor now has a stronger bridge from the early boutique experiments of the 1990s through the Internet-era builders of the 2000s. The evidence trail increasingly shifts from corporate catalogs to builder-authored timelines, retailer relationships, contemporary specialist databases, dated product pages, and surviving early physical states.
 
-### Pass 18 note
+### Pass 19 note
 
-Extension 118 adds REC-207 through REC-219 and keeps the strongest chronological anchors separate from unresolved specialist dating. The recent-home loader now surfaces King of Tone, Mayonaise, Hoof, Crunch Box, and OCD.
+Extension 119 adds REC-220 through REC-226. The recent-home loader now surfaces Red Llama, Katana, Fuzz Head, Dirt Transmitter, and Hoof Reaper. Reconciliation 14 was corrected to eliminate the duplicate Tone Reaper record.
 
 ### Next target
 
-Continue through **1998-2010** with the second wave of boutique builders and model families: Keeley, Skreddy variants, Catalinbread fuzz/drive expansion, HBE's wider early line, MI Audio Blues Pro and Tube Zone, Devi Ever's early catalog, and the emergence of EarthQuaker's early dirt lineup beyond Hoof and Tone Reaper. In parallel, reconcile the late DOD/DigiTech FX catalog and early modeling-platform records without letting digital context overwhelm dedicated dirt records.
+Continue the 1998-2010 corridor with **MI Audio Blues Pro / Tube Zone, HBE's wider early catalog, Catalinbread's pre-Dirty-Little-Secret models and early variants, Devi Ever's early fuzz family, Keeley Fuzz/drive generations, additional Skreddy first-run states, EQD Dirt Transmitter generations, and early Death By Audio documentation**. In parallel, continue the late DOD/DigiTech FX closeout and first-generation modeling records, keeping dedicated dirt objects separate from platform context.
