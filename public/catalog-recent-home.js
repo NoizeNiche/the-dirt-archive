@@ -1,11 +1,11 @@
 (() => {
   // Rolling homepage activity rail. Keep newest-first and update this list with each meaningful archive release.
   const RECENT_HOME_MODELS = [
-    'Moreschi Octave Fuzz',
-    'Moreschi Wah-Fuzz',
-    'JEN Jumbo Fuzz',
-    'Selmer Fuzz-Wah',
-    'Herald Electronics AM-44A Fuzz Master'
+    'Schaller Fuzz-Sustain',
+    'Schaller Tonverzerrer',
+    'Blackfield Flying Sound',
+    'Blackfield Fuzz',
+    'Moreschi Octave Fuzz'
   ];
 
   function recentHomeRecords() {
