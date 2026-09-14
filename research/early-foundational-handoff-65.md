@@ -1,48 +1,44 @@
-# Early Foundational Handoff 71
+# Early Foundational Handoff 72
 
-## Pass 23: obscure boutique builders and the international experimental-fuzz corridor
+## Pass 24: deeper D*A.M and HBE catalog states
 
-This pass expands the 2004-2010 boutique corridor with eleven reconciliation records centered on D*A*M, Effector 13/Devi Ever, Orion Effekte, T-Pedals, and Keeley. The emphasis is on dated publication evidence, branding transitions, limited runs, prototype chronology, and designer-to-retail relationships.
+This pass pushes the 2004-2010 boutique corridor deeper into two builders whose surviving records are unusually useful for production archaeology: D*A.M and HomeBrew Electronics. Eight reconciliation records were added, emphasizing identifiable model states, closeout generations, dedicated bass dirt, and period production windows.
 
 ### Newly documented
 
-- **D*A*M Meathead**: October 25, 2004 founding anchor plus early one-control silicon fuzz state.
-- **D*A*M Fuzz Sound MkIII**: early Tone Bender-family boutique revival state, retained as research-level chronology.
-- **Effector 13 Truly Beautiful Disaster**: September 22, 2005 original production state, separated from later OohLaLa manufacture.
-- **Effector 13 Tri-Fuzz**: September 24, 2005 original production state.
-- **Effector 13 Synth Mangler**: May 24, 2007 original joystick-controlled fuzz state.
-- **Effector 13 Shoe Gazer**: May 24, 2007 original production state, separated from later Devi Ever/Hand Gazer variants.
-- **Orion Effekte Motor Fuzz**: March 20, 2006 handmade German germanium fuzz state, following Orion's official winter-2005 start.
-- **Orion Effekte Gold Fuzz**: March 20, 2006 limited 100-unit edition, later related to the Fabrik Fuzz name.
-- **T-Pedals T-Fuzz**: late-2002 prototype lineage through the builder's 2006 full-time transition.
-- **T-Pedals / Hiwatt Hi-Fuzz**: 2005 designer-to-brand relationship, keeping Hiwatt's retail identity separate from T-Pedals' own catalog.
-- **Keeley Time Machine Boost**: 2004-2005 two-channel boost state, retained as builder context rather than core dirt.
+- **D*A.M Ram Head**: 2004-2008 production state, a dedicated Ram’s Head-era Big Muff revival object.
+- **D*A.M Ezekiel 25:17**: 2004-2008 dedicated bass distortion state, kept separate from general fuzz models.
+- **D*A.M FUZZrong FR-69 / FR-70**: 2008-2009 generation boundary separating germanium and later silicon-enhanced states.
+- **D*A.M Fuzzaround**: 2008-2009 Buzzaround-family revival state with late-2008 period video evidence.
+- **D*A.M Super Bee**: 2009 standalone germanium production object, separated from the Super Bee mode inside the earlier 1966 model.
+- **D*A.M Grease Box GB-80 / GB-83**: 2009-2010 production-family states preserved as specimen-identification clues.
+- **HomeBrew Electronics Big-D**: September 2005 documented distortion/overdrive state.
+- **HomeBrew Electronics Hematoma**: February 2006 dedicated bass preamp/overdrive state.
 
 ### Key research findings
 
-1. **The early boutique ecosystem was international.** D*A*M in England, Orion in Germany, T-Pedals in Italy, and the U.S. experimental builders all appear in the same mid-2000s documentary layer.
-2. **Experimental controls became a product identity.** Synth Mangler's joystick format and Effector 13's broader experimental catalog show boutique fuzz moving beyond simple tone-control variation.
-3. **Brand ownership and manufacture could split.** Effector 13's later OohLaLa manufacturing relationship is preserved as a different production/branding state rather than being folded into the original objects.
-4. **Limited quantities deserve edition treatment.** Orion's Gold Fuzz is explicitly limited to 100 units, making quantity part of the archival identity.
-5. **Prototype histories need their own clock.** T-Pedals' T-Fuzz starts as a late-2002 prototype concept, while commercial activity and full-time operation arrive later.
-6. **Context products still matter.** Keeley's Time Machine Boost is not dirt for counting purposes, but it helps explain the product lineage surrounding the Katana and early Keeley development.
+1. **D*A.M’s catalog was not simply a Tone Bender-replica shop.** Ram Head, Ezekiel, FUZZrong, Fuzzaround, Super Bee, and Grease Box show a broader range of vintage revival, bass-oriented distortion, and original/modified designs.
+2. **Generation boundaries can be visible in naming.** FUZZrong’s FR-69 and FR-70 designations preserve a clear germanium-to-silicon family boundary without needing circuit reconstruction.
+3. **Dedicated bass dirt deserves its own taxonomy.** Ezekiel 25:17 and HBE Hematoma were designed specifically around low-frequency applications and should not be lost inside general guitar fuzz categories.
+4. **Closeout records are historically valuable.** The 2009 Super Bee and final FR-70 units capture late production moments that may be scarce today.
+5. **Model families often contain hidden state codes.** Grease Box GB-80 and GB-83 demonstrate how builder-specific markings can become specimen identifiers even when the consumer-facing model name remains unchanged.
+6. **The HBE catalog shows how quickly small builders expanded.** By 2005-2006 HBE had distinct distortion, fuzz, octave, and bass products in the same small-company ecosystem.
 
 ### Evidence discipline
 
-- Manufacturer timelines, contemporary specialist documentation, and dated product publications remain distinct evidence classes.
-- Publication dates are not automatically treated as first-sale dates.
-- Branding, license/manufacturing, limited-run quantity, and prototype states remain separate historical layers.
-- Context-only products do not inflate the core fuzz/overdrive/distortion population.
+- Manufacturer statements, specialist publications, period videos, and indexed production windows remain distinct evidence classes.
+- Exact first-sale dates are not inferred merely from publication dates.
+- Model suffixes, production codes, material changes, and closeout states remain separate from circuit claims.
 - No schematics, PCB layouts, complete BOMs, gutshot libraries, or cloning instructions are added.
 
 ### Current lineage position
 
-The archive now has a much denser map of the early boutique ecosystem surrounding the better-known 2000s builders. The evidence trail is shifting from conventional factory catalogs toward builder timelines, specialist databases, retailer announcements, prototype stories, and production-state details.
+The early boutique corridor now includes a much richer set of production states rather than only headline models. D*A.M and HBE demonstrate two complementary paths: highly documented specialist revival work and rapidly expanding small-builder mini-catalogs.
 
-### Pass 23 note
+### Pass 24 note
 
-Extension 123 adds REC-250 through REC-260. Public and research reconciliation-17 indexes contain the new batch. The recent-home loader now surfaces Meathead, Truly Beautiful Disaster, Synth Mangler, Motor Fuzz, and Gold Fuzz.
+Extension 124 adds REC-261 through REC-268. Public and research reconciliation-17 files now contain the complete expanded batch. The recent-home loader should surface Ram Head, Ezekiel 25:17, FUZZrong, Fuzzaround, and Super Bee.
 
 ### Next target
 
-Continue through **1998-2010** with deeper D*A*M Tone Bender-family states, Effector 13/Devi Ever pre-license variants, Orion early-drive/fuzz models, T-Pedals retail objects, Keeley early dirt generations, Black Arts Toneworks first editions, and MI Audio generation boundaries. In parallel, reconcile late DOD/DigiTech FX closeout models and early modeling platforms while preserving the dedicated-dirt boundary.
+Continue through **1998-2010** with Black Arts Toneworks editions, MI Audio Blues Pro/Tube Zone generation boundaries, Orion early drive/fuzz objects, T-Pedals retail models, Keeley fuzz generations, Catalinbread early variants, Devi Ever/OohLaLa manufacturing states, and D*A.M’s remaining early catalog. Parallel DOD/DigiTech closeout and early modeling research remains contextual and separate from dedicated dirt.
