@@ -2,11 +2,10 @@
   const nativeFetch = window.fetch.bind(window);
   const batches = ['discovery-40.tsv'];
   const builders = {
-    'BLD-DISC-40-01':{name:'BearFoot FX',country:'USA',status:'Boutique / historical',description:'St. Louis boutique effects operation built in collaboration with BJF Electronics, preserving a substantial BJF-connected dirt and utility catalog.',primary_source:'https://www.effectsdatabase.com/model/bearfoot'},
-    'BLD-DISC-40-02':{name:'Mad Professor',country:'Finland',status:'Boutique / active',description:'Finnish amplifier and effects company associated with Harri Koski, Jukka Mönkkönen and designer Bjorn Juhl, with a broad boutique pedal catalog.',primary_source:'https://www.effectsdatabase.com/model/madprofessor'},
-    'BLD-DISC-40-03':{name:'One Control',country:'Japan',status:'Boutique / active',description:'Japanese effects and signal-management company run by Tomokaz Kawamura, with a large BJF-designed pedal family and extensive loop/utility ecosystem.',primary_source:'https://www.effectsdatabase.com/model/onecontrol'},
-    'BLD-DISC-40-04':{name:'Spaceman Effects',country:'USA',status:'Boutique / active lineage',description:'Portland, Oregon boutique builder known for limited-run fuzz, boost, overdrive and experimental effects with numerous numbered generations and editions.',primary_source:'https://www.effectsdatabase.com/model/spaceman'},
-    'BLD-DISC-40-05':{name:'Foxpedal',country:'USA',status:'Historical / phasing out',description:'Boutique effects company with a documented 21-product catalog spanning fuzz, overdrive, distortion, boost, delay, reverb and modulation; later catalog history includes a 2023 phasing-out notice.',primary_source:'https://www.effectsdatabase.com/model/foxpedal'}
+    'BLD-DISC-40-01':{name:'Stomp Under Foot',country:'USA',status:'Boutique / active',description:'Matt Pasquerella’s Haverhill, Massachusetts operation, known for extensive Big Muff-related work plus Tone Bender, fuzz and overdrive families.',primary_source:'https://www.effectsdatabase.com/model/stompunderfoot'},
+    'BLD-DISC-40-02':{name:'BJF Electronics (BJFE)',country:'Sweden',status:'Boutique / active lineage',description:'Björn Juhl’s Stockholm company, founded in 1999, whose designs also appear through BearFoot, Mad Professor and One Control relationships.',primary_source:'https://www.effectsdatabase.com/model/bjfe'},
+    'BLD-DISC-40-03':{name:'Pause&Effects',country:'Hungary',status:'Boutique / active',description:'Hungarian hand-built effects operation with vintage-radio enclosure projects, Tone Bender/Fuzz Face/Rangemaster-derived fuzzes and modern utility variants.',primary_source:'https://pauseeffects.com/'},
+    'BLD-DISC-40-04':{name:'Tonecat',country:'Australia',status:'Boutique / active',description:'Melbourne boutique pedal builder with a small current catalog and an explicit focus on character-driven fuzz, overdrive and art-pedal presentation.',primary_source:'https://www.tonecat.life/'}
   };
   let merged=false;
   async function merge(base){
