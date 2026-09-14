@@ -1,43 +1,44 @@
-# Early Foundational Handoff 67
+# Early Foundational Handoff 68
 
-## Pass 19: the early-boutique archaeology gets sharper
+## Pass 20: early boutique evidence, prototype states, and first retail traces
 
-This pass extends the boutique corridor with an especially useful early anchor: Way Huge’s Red Llama places a recognizable boutique overdrive lineage back in 1992, while Keeley and EarthQuaker records provide hard specimen-level dates for the early 2000s. Seven reconciliation records were added, and a duplicate Tone Reaper entry was corrected into the distinct Dirt Transmitter record.
+This pass deepens the 1992-2010 boutique corridor with eight reconciliation records. The strongest evidence comes from contemporary product databases, builder histories, contemporary forum announcements, and surviving importer documentation. Prototype, first commercial, and later revival states remain separate.
 
 ### Newly documented
 
-- **Way Huge RL2 Red Llama Overdrive**: 1992-1999 original production state, separated from later Dunlop-era continuations.
-- **Keeley Katana Clean Boost**: 2002 embedded-origin state within the Time Machine Boost, later becoming an independent Keeley product.
-- **Keeley Fuzz Head**: early 2004-2005 production window with documented internal tone-control evolution.
-- **Skreddy Top Fuel**: 2005-2007 BMP-derivative period.
-- **Skreddy Lunar Module**: 2005-2007 early-production family state, with later Deluxe variants kept distinct.
-- **EarthQuaker Devices Dirt Transmitter**: first units began shipping January 2008; original small-enclosure version had only Fuzz, Tone and Level controls.
-- **EarthQuaker Devices Hoof Reaper**: limited first run of about 25 units for Tone Factor in 2010, preserved as a separate edition object.
+- **Death By Audio Octave Clang**: April 20, 2006 documentary anchor for the original octave-fuzz production state; current V2 is treated as a later return/revision.
+- **Death By Audio Fuzz War**: March 2008 contemporary pre-order/release evidence, anchoring an early retail state.
+- **Devi Ever Soda Meiser**: May 2007 documented retail presence for a distinctive high-gain fuzz.
+- **Devi Ever Torn's Peaker**: May 2007 documented retail presence, with later physical states retained for specimen work.
+- **MI Audio Tube Zone Overdrive**: first commercial MI Audio pedal, with a 1995 design origin separated from the 2002 company/retail milestone.
+- **MI Audio Blues Prototype**: unused Blue Boy PCBs repurposed into bare-aluminium units sold at cost, becoming an unexpectedly collectible prototype-to-production object.
+- **Black Arts Toneworks Pharaoh**: 2009-2010 founding production corridor, with earliest enclosure and first-sale details left specimen-led.
+- **Way Huge Swollen Pickle**: original 1990s production state separated from later Dunlop-era MkII and Smalls descendants.
 
 ### Key research findings
 
-1. **The boutique timeline starts earlier than the usual late-1990s shorthand.** Way Huge's 1992 Red Llama is a strong early marker for commercially visible small-builder overdrive before the broader 2000s explosion.
-2. **Design origin, embedded design, and standalone retail are separate archival events.** The Keeley Katana is a good example: its lineage begins inside the Time Machine Boost before becoming an independent Keeley-branded product.
-3. **Specimen-identification evidence is becoming stronger.** EQD's January 2008 Dirt Transmitter shipping date and original three-control enclosure provide exactly the kind of physical-state evidence needed to distinguish early units from later revisions and reissues.
-4. **Limited runs deserve edition records.** The first 2010 Hoof Reaper run was a special Tone Factor Black Friday batch of about 25 units. It should not be normalized into the later recurring model history.
-5. **Skreddy is now traceable as a family tree rather than a loose catalog.** Mayonaise → Zero → Screw Driver → Top Fuel / Lunar Module shows how a boutique builder could move rapidly from historical recreation into increasingly original fuzz/drive designs.
-6. **The archive's reconciliation layer needs collision checks.** A previously repeated Tone Reaper record was replaced with the distinct Dirt Transmitter object, keeping record IDs unique and model history cleaner.
+1. **The early boutique scene was geographically and documentary diverse.** Australian MI Audio, Brooklyn's Death By Audio, U.S. builders such as Devi Ever and Black Arts Toneworks, and the earlier Way Huge line all belong in the same historical corridor without being flattened into one style.
+2. **Prototype evidence can be more historically valuable than polished catalog data.** MI Audio's Blues Prototype gives the Archive a clean example of an abandoned-board salvage project becoming a recognized production-adjacent collectible.
+3. **Current reissues can distort original chronology.** DBA's current Octave Clang V2 explicitly describes itself as a return after the original disappeared, so the Archive keeps the 2006 state distinct from the present revival.
+4. **Contemporary announcements are legitimate chronology evidence.** The 2008 Fuzz War pre-order announcement establishes a retail-era window even though the surviving current product page does not provide the original launch date.
+5. **First commercial product is an important builder milestone.** MI Audio's Tube Zone was the company's first commercial pedal even though its experimental lineage began years earlier.
+6. **Brand-family separation matters.** Original Way Huge Swollen Pickle units must remain separate from later Dunlop-era descendants; similarly, DBA's original Octave Clang must not be overwritten by the current V2.
 
 ### Evidence discipline
 
-- **VERIFIED** remains reserved for manufacturer or contemporary documentary support.
-- **RESEARCH** remains appropriate where exact first-sale boundaries or production quantities are inferred from specialist documentation.
-- Design dates, first shipment dates, retail dates, enclosure generations, special editions, and later reissues are not collapsed into one date field.
+- **VERIFIED** is used for explicit manufacturer or contemporary documentary support.
+- **RESEARCH** is retained where exact first-sale dates, quantities, or earliest physical states remain uncertain.
+- Design origin, company founding, first commercial sale, first documented publication, later reissue, and revival are separate historical events.
 - No schematics, PCB layouts, complete BOMs, gutshot libraries, or cloning instructions are added.
 
 ### Current lineage position
 
-The research corridor now has a stronger bridge from the early boutique experiments of the 1990s through the Internet-era builders of the 2000s. The evidence trail increasingly shifts from corporate catalogs to builder-authored timelines, retailer relationships, contemporary specialist databases, dated product pages, and surviving early physical states.
+The research corridor now reaches from 1960s fuzz pioneers through the 1970s/1980s compact-pedal expansion, the 1990s high-gain and early-boutique transition, and into the Internet-era boutique ecosystem of the 2000s. The next useful layer is not simply more famous models. It is the smaller surrounding catalog that explains how these builders grew, changed production methods, and established recognizable first generations.
 
-### Pass 19 note
+### Pass 20 note
 
-Extension 119 adds REC-220 through REC-226. The recent-home loader now surfaces Red Llama, Katana, Fuzz Head, Dirt Transmitter, and Hoof Reaper. Reconciliation 14 was corrected to eliminate the duplicate Tone Reaper record.
+Extension 120 contains REC-227 through REC-234. The public reconciliation index was expanded through historical-reconciliation-15.tsv, and the recent-home loader was advanced through extension 120.
 
 ### Next target
 
-Continue the 1998-2010 corridor with **MI Audio Blues Pro / Tube Zone, HBE's wider early catalog, Catalinbread's pre-Dirty-Little-Secret models and early variants, Devi Ever's early fuzz family, Keeley Fuzz/drive generations, additional Skreddy first-run states, EQD Dirt Transmitter generations, and early Death By Audio documentation**. In parallel, continue the late DOD/DigiTech FX closeout and first-generation modeling records, keeping dedicated dirt objects separate from platform context.
+Continue through 1998-2010 with **HBE's wider production catalog, Catalinbread's early dirt models beyond Super Chili Picoso, Keeley early drive/fuzz generations, more Skreddy first-run states, Devi Ever variants, Death By Audio's early catalog beyond Fuzz War/Octave Clang, Black Arts Toneworks early editions, and MI Audio Blues Pro / Tube Zone generation boundaries**. Parallel work should reconcile late DOD/DigiTech FX closeout products and early modeling systems while preserving the dedicated-dirt boundary.
