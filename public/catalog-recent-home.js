@@ -1,4 +1,12 @@
 (() => {
+  // Load the newest preservation extension without requiring an index-file rewrite.
+  if (!document.querySelector('script[data-dirt-extension="83"]')) {
+    const s = document.createElement('script');
+    s.src = 'catalog-extensions-83.js';
+    s.dataset.dirtExtension = '83';
+    document.head.appendChild(s);
+  }
+
   // Rolling homepage activity rail. Keep newest-first and update this list with each meaningful archive release.
   const RECENT_HOME_MODELS = [
     'The Lover 2-Stage Transistor Drive & Fuzz V2 Portrait',
