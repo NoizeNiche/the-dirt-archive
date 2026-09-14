@@ -1,134 +1,97 @@
 # The Dirt Archive — Persistent Research Breadcrumb
 
 ## Current strategy
-The Archive has adopted a breadth-first research methodology. The primary objective is to establish the widest practical **builder census** first, then exhaust each builder's catalog, audit catalog completeness, and only then spend major effort on deep product, generation, variant and specimen archaeology. Existing deep research is retained as a head start, not treated as wasted work.
+The Archive is now operating breadth-first. The priority is to establish the widest practical **creator/builder universe** first, then exhaust each creator's dirt catalog, audit completeness, and only afterward return to deep product, generation, variant and specimen archaeology. Existing deep research is preserved as a head start.
 
 Research progression:
 1. Builder Census — who made dirt pedals?
-2. Builder Catalog — what did each builder make?
+2. Builder Catalog — what did each creator make?
 3. Catalog Completeness Audit — have we probably found everything?
-4. Product Research — what is each product and where does it belong historically?
-5. Generation Research — what meaningful production eras existed?
+4. Product Research — what exactly is each product?
+5. Generation Research — what production eras existed?
 6. Variant Research — what changed in appearance, production identity or electronics?
-7. Specimen Research — what surviving physical examples document those identities?
-8. Lineage / OEM Graph — how do products and companies connect?
-9. Visual Identification — can the Archive help identify a real-world pedal?
+7. Specimen Research — what surviving objects document those identities?
+8. Lineage / OEM Graph — how do creators, factories, brands and products connect?
+9. Visual Identification — can the Archive identify a real-world pedal?
 
 Canonical methodology: `research/research-methodology.md`.
 
 ## Research status vocabulary
-Use explicit research states instead of implying absolute completion:
 - `DISCOVERED` — existence identified.
 - `CATALOGED` — structured record created.
 - `VERIFIED` — credible evidence supports identity and existence.
 - `CATALOG_STABLE` — broad inventory established.
-- `CATALOG_COMPLETE` — systematic completeness audit found no obvious omissions.
+- `CATALOG_COMPLETE` — defined audit found no obvious omissions.
 - `DEEP_RESEARCHED` — substantial historical/product analysis completed.
-- `VARIANT_MAPPED` — meaningful generations and variants mapped.
+- `VARIANT_MAPPED` — meaningful generations/variants mapped.
 - `SPECIMEN_MAPPED` — representative physical examples documented.
-Completion can exist at one level while deeper levels remain unfinished.
 
-## Active work queues
+## Active queues
 ### Queue A — Builder Discovery
-Find relevant historical, current, boutique, regional, OEM, private-label and otherwise significant dirt-pedal builders not yet represented.
+Find historical, current, boutique, regional, OEM, private-label and otherwise significant dirt-pedal creators not yet represented.
 
 ### Queue B — Builder Catalog Completion
-For each identified builder, enumerate as many distinct dirt products as evidence supports. Keep this phase intentionally lighter than variant archaeology.
+For each identified creator, enumerate distinct dirt products. Keep this phase lighter than variant archaeology.
 
 ### Queue C — Completeness Audit
-Challenge apparently complete builder catalogs against manufacturer catalogs/manuals, archived sites, distributor catalogs, advertisements, specialist references, collector databases, museum material, OEM records and reissue documentation.
+Challenge apparently complete catalogs against manufacturer catalogs/manuals, archived sites, distributor catalogs, ads, specialist references, collector databases, museum material, OEM records, interviews and reissue documentation.
 
 ### Queue D — Product Depth
-Deep-research individual products after their builder catalog is stable enough.
+Deep-research products after their creator catalog is stable.
 
 ### Queue E — Variant / Specimen Archaeology
 Map generations, variants, OEM branches and surviving specimens after product identity is established.
 
 ## Current builder-census progress
-- `research/builder-census-01.tsv` through `research/builder-census-16.tsv` now form the active breadth-first discovery corpus.
-- Major coverage now spans historical and current makers across the U.K., U.S.A., Canada, Germany, Italy, France, Spain, Poland, Portugal, Czech Republic, Slovakia, Slovenia, Austria, Belgium, Ireland, Sweden, Norway, Denmark, Greece, Croatia, Bulgaria, Serbia, Romania, Switzerland, Japan, Taiwan, South Korea, China, India, Indonesia, Thailand, Malaysia, Australia, New Zealand, South Africa, Israel, Iran, Brazil, Argentina, Chile, Peru, Mexico and other regional pools.
-- Early tranches emphasized major manufacturers and known boutique builders. Later tranches intentionally targeted obscure historical makers, regional builders and OEM/private-label ecosystems.
-- `builder-census-03.tsv` and later files explicitly distinguish **builder/OEM manufacturer**, **brand/distributor**, **private label**, **designer/lineage**, and **candidate** entities. This distinction is mandatory and prevents badge count from masquerading as factory count.
-- Current independent source pools include Fuzzboxes, Effects Database, ToneHome, Pro Audio KB, BoutiqueGear, Guitar Pedal X, major manufacturer sites, retailer catalogs, regional builder roundups, interviews, manufacturer histories, old advertisements and selected community discovery threads. Discovery sources are not automatic proof of canonical attribution.
-- Census work deliberately preserves low-evidence candidates rather than silently dropping them. Candidate status must remain visible until entity type and dirt relevance are verified.
+Active discovery corpus now includes `builder-census-01.tsv` through `builder-census-18.tsv`.
 
-## New census tranches since the methodology reset
-- `builder-census-13.tsv`: Frantone Electronics, Diamond Pedals, EXAR Electronix, Drunk Beaver Pedals, Onerr Brasil Musical, Dedalo FX, Umbrella Company, 320design, Fjord Fuzz, VS Audio, Tsakalis AudioWorks, Blue Pedals, Jamés Pedals, JAM Pedals and Empress Effects.
-- `builder-census-14.tsv`: Sound Land Co., Ltd., Ceriatone Amplification, GFI System, SEHAT Effectors, Sinvertek, FengzaiPedals, Amuzik, A3 Stompbox, Spicetone Music Technology, LeeHooker, SMR Toys, Tone Electronix / T.X Pedals and True North Pedals.
-- `builder-census-15.tsv`: long-tail candidate tranche from Israel, Thailand, Croatia, Portugal, Romania, Slovakia, Slovenia, Indonesia, South Korea and China, mixing confirmed builders with `CENSUS_ONLY` country-index candidates.
-- `builder-census-16.tsv`: long-tail Europe/Middle East tranche including Balkan Pedals, Ratin Pedals, Gamechanger Audio, CircuitFX, Revolt! and additional country-index candidates in Austria, Belgium, Ireland, Latvia, Lithuania and Thailand.
+Major geographic coverage includes U.S., U.K., Canada, Germany, France, Italy, Spain, Portugal, Poland, Czech Republic, Slovakia, Slovenia, Austria, Belgium, Ireland, Sweden, Norway, Denmark, Greece, Croatia, Bulgaria, Romania, Serbia, Switzerland, Japan, Taiwan, South Korea, China, India, Indonesia, Thailand, Malaysia, Australia, New Zealand, South Africa, Israel, Iran, Brazil, Argentina, Chile, Peru, Mexico and other regional pools.
+
+Recent census tranches:
+- `builder-census-03.tsv`: OEM-aware entity typing introduced. Builder/OEM, brand/distributor, private label and designer/lineage are kept separate.
+- `builder-census-04.tsv`: obscure UK makers and OEM branches, including Kelly Amplification, TVM Manchester, Baldwin-Burns, G. P. Electronics, Barnes & Mullins/Exel, Rangemaster/Dallas, Park, Carlsbro, Sperrin, Rotosound and Vox branches.
+- `builder-census-05.tsv`: Japanese, Korean and New Zealand OEM/brand candidates including J.H. Experience, Zenta, Jansen, Walco, Applied Electronics, Polaris, Axtron, Columbus, Cutec, Profile+, Vision, Luster Proseries, Vesta Fire, Reagun, Nadine's, APEX, Tronix, PSK, RAK, Music-Son, Allsound, MSL, Samson, Excetro, Teisco and Coron-related labels.
+- `builder-census-07.tsv`: German, Italian, regional and modern candidates including Schaller, Blackfield, Kent, Höfner, EF-EL/Calderoni Musica, JEN/EME/Eko, Meazzi, Framus, Roger Mayer, Austone, Vintage Technology, Kaden, Toetags and Veri-Tone.
+- `builder-census-08.tsv`: Canadian and French makers.
+- `builder-census-09.tsv`: Spanish and Polish makers.
+- `builder-census-10.tsv`: Nordic and Greek makers.
+- `builder-census-11.tsv`: Australia/New Zealand and South American/Asian regional candidates.
+- `builder-census-12.tsv`: India, South Africa and Chinese manufacturers/brands.
+- `builder-census-13.tsv`: Frantone, Diamond, EXAR, Drunk Beaver, Onerr, Dedalo, Umbrella Company, 320design, Fjord Fuzz, VS Audio, Tsakalis, Blue Pedals, Jamés, JAM and Empress.
+- `builder-census-14.tsv`: Sound Land, Ceriatone, GFI System, SEHAT, Sinvertek, FengzaiPedals, Amuzik, A3 Stompbox, Spicetone, LeeHooker, SMR Toys, Tone Electronix/T.X Pedals and True North.
+- `builder-census-15.tsv`: long-tail Israel/Thailand/Croatia/Portugal/Romania/Slovakia/Slovenia/Indonesia/South Korea/China candidates.
+- `builder-census-16.tsv`: additional Eastern Europe/Middle East and country-index candidates.
+- `builder-census-17.tsv`: 1981 Inventions, Abasi Concepts, Alexander Pedals, Amptweaker, Animals Pedal, Bananana Effects, Beetronics, Big Ear, Big Joe, CopperSound, Deep Trip, Dr. Scientist, Free The Tone, Gamechanger Audio, Ground Control Audio, Himmelstrutz, Montreal Assembly, Skreddy, Spiral Electric FX and Vemuram.
+- `builder-census-18.tsv`: worldwide manufacturer-directory gap scan adding 3rd Power, 7G FX, 29 Pedals, A Sound Of Failure, A&M Custom Effects, A/DA, ADA Amplification, Acoustic Amplification, Aguilar, Aleks K Production, Alesis, Analog Alien, ARC Effects, Area 51, Audio Sprockets, Authentic Hendrix, BBE, Big Tone Music Brewery, Black Cat, Black Country Customs, Blackhawk Amplifiers, Blakemore, BluGuitar, Bogner, Buffalo FX, BYOC, Center Street Electronics, Chandler, Chase Bliss, Chase Tone, Cicognani, CMAT Mods, CNZ, Coda, Cooper FX, Costalab, Creative Audio Labs, Cusack, Daredevil, Deadbeat, Deep Space Devices, Demeter, Diezel, Dr. No, DryBell, EBS, Effectivity Wonder, Electronic Orange, Electro Faustus, Elektron, Emerson Custom, Escape Plan, Expresso FX, Fire-Eye, Foxrox, Frost Giant and Function F(x).
+
+## Discovery source strategy
+Independent source pools include Fuzzboxes, Effects Database, ToneHome, Pro Audio KB, BoutiqueGear, Guitar Pedal X, large manufacturer sites, retailer directories, regional builder roundups, manufacturer histories, interviews, old advertisements and selected community discovery threads. Discovery sources are candidate-generation tools, not automatic proof of canonical attribution. Current manufacturer directories are especially useful as gap detectors; their listed country may identify brand origin rather than manufacturing location.
 
 ## OEM attribution rule
-A marketed pedal brand, distributor, physical manufacturer, designer, corporate owner and later successor may all be different entities. The census preserves those roles independently. Shared OEM families are grouped at the manufacturing/lineage layer instead of inflating the builder count by treating every badge as a separate factory.
-
-## Current census findings
-- The Effects Database country index alone spans a large number of countries and is useful as a discovery map, but its own documentation notes that country is the brand's origin and may not equal the manufacturing country. This reinforces the need for product-level attribution later.
-- Canada remains one of the richest modern boutique pools, with many dozens of named makers in the country index. Several, such as Diamond, Empress, SolidGoldFX and Dr. Scientist, have strong dirt evidence, while many smaller names remain candidate-only until products are checked.
-- Brazil, Argentina and other Latin American countries have substantial local builder scenes rather than being mere import markets. Onerr, Dedalo and numerous Effects Database country entries establish that regional cataloging is necessary.
-- Indonesia has a surprisingly broad boutique ecosystem. GFI System, SEHAT Effectors, AMTECH-HANDWIRED and Revolt! are confirmed examples; the country index also contains many additional small candidates requiring dirt-specific verification.
-- China combines proprietary boutique makers, OEM manufacturers, mass-market brands and clone-oriented operations. Sound Land is a particularly important manufacturing node because its company history documents Taiwan OEM production for Roland/BOSS effects, while Chinese brands such as Sinvertek and smaller makers need to be classified separately.
-- Eastern and Southern Europe are producing many small candidates. Bulgaria, Croatia, Czech Republic, Estonia, Latvia, Lithuania, Poland, Portugal, Romania, Serbia, Slovakia and Slovenia now have explicit census coverage. Confirmed examples include Balkan Pedals, Dawner Prince, Spicetone, EXAR and Tone Electronix.
-- Israel and Iran are not empty spaces. EC Pedals and Ratin Pedals are documented boutique builders, and both deserve later catalog-completion passes.
-- Thailand has both historical DIY-to-builder lineage, such as CircuitFX, and a large country-index long tail requiring product-by-product confirmation.
-- The census is now producing noticeably more candidates and duplicates than entirely new high-confidence historical manufacturers in several already-swept regions. This suggests we are beginning to approach a useful saturation point, but Queue A is not finished yet.
+A marketed pedal brand, distributor, physical manufacturer, designer, corporate owner and later successor may all be different entities. Preserve those roles independently. Shared OEM families belong in the manufacturing/lineage layer, not as artificial extra factories.
 
 ## Saturation protocol
-Do not declare builder-census exhaustion because one directory looks comprehensive. Continue at least one additional independent sweep for each major region/era class, then reconcile:
-1. Exact-name duplicates and spelling variants.
-2. Brand versus physical manufacturer.
-3. OEM factory versus distributor/private label.
-4. Designer versus manufacturing company.
-5. Modern revival/reissue company versus historical original.
-6. Builders that made only non-dirt effects versus true dirt builders.
-7. Low-evidence candidates versus verified creators.
+Do not declare Queue A exhausted because one directory looks comprehensive. Continue independent geography/era/source sweeps until repeated searches mostly return existing entities, duplicate names, OEM branches or low-evidence candidates. Then perform a dedicated reconciliation pass:
+1. Merge exact-name duplicates and spelling variants.
+2. Separate brands from physical manufacturers.
+3. Separate distributors/private labels from builders.
+4. Separate designers/collaborators from manufacturing companies.
+5. Separate modern revivalists from historical originals.
+6. Remove creators whose work falls entirely outside dirt-pedal scope.
+7. Preserve weak candidates rather than silently deleting them.
+8. Create a clean canonical creator universe with confidence and evidence states.
 
-Queue A should end only when repeated independent searches produce mostly existing entities, duplicate labels, low-evidence candidates, or known OEM branches and very few genuinely new creators.
+## Product-depth work already preserved
+Deep research exists for foundational families and examples including Fuzz Face, Tone Bender, Big Muff, TS808/Tube Screamer, RAT/RAT2/Turbo RAT, Maestro FZ-1/FZ-1A/FZ-1B/FZ-1S/FZ-2/MFZ-1, Shin-Ei/Honey/Univox Super-Fuzz families, MXR M-104, BOSS OD-1/SD-1/OD-2/OD-3/DS-1, Colorsound/Sola Sound families, D*A.M. Tone Bender revivals, EHX products and Catalinbread products. This work is not discarded and will seed Queue D/E after the census is reconciled.
 
-## Completed builder phases
-Phases 1–25 foundational; 26–44 broad builder expansion. Phase 44 completed the current Pearl/Vorg stopping point with five Vorg records. Phase 45–48 added historical Sola Sound/Colorsound/Tone Bender discovery snapshots. Phase 49 added the Catalinbread lineup snapshot.
+## Visual/research architecture
+`catalog-polish.js` provides archive-object presentation. `catalog-visual-references.js` provides an external photo-reference doorway. `catalog-cleared-images.js` holds reusable cleared examples. `catalog-specimen-registry-01.js` through `catalog-specimen-registry-13.js` provide structured specimen records. `catalog-specimen-ui.js` keeps cleared publication assets separate from reference-only imagery. Appearance, production identity and electronics identity remain independent axes.
 
-## Product-depth batches already completed
-- Batch 01: Fuzz Face, Tone Bender, Big Muff Pi, TS808 Tube Screamer, RAT.
-- Batch 02: generation maps for Batch 01.
-- Batch 03: Maestro FZ-1 Fuzz-Tone, Univox U-1095 Super-Fuzz, Shin-Ei Companion FY-2 Fuzz Box, MXR M-104 Distortion+, BOSS DS-1 Distortion, with generation maps.
-- Batch 04: Maestro FZ-1A, Maestro FZ-1B, Tone Bender MK1.5, BOSS OD-1 OverDrive, ProCo Turbo RAT, with generation maps.
-- Batch 05: EHX Deluxe Big Muff Pi, Double Muff, Graphic Fuzz, Little Big Muff Pi, Hot Tubes, with generation maps.
-- Batch 06: BOSS SD-1 Super OverDrive, BOSS OD-2 TURBO OverDrive, BOSS OD-3 OverDrive, ProCo RAT 2, ProCo R2DU Rackmount, with generation maps.
-- Batch 07: Marshall SupaFuzz, Sola Sound Tone Bender Professional MKII, Tone Bender MKIII, Vox Tone Bender Professional MKII, Rotosound Fuzz Box, with generation maps.
-- Batch 08: Maestro FZ-1S Fuzz-Tone, Maestro FZ-2 Fuzz-Tone, Maestro MFZ-1 Fuzz, Vox V828 Tone Bender, Vox V8281 Tone Bender, with generation maps.
-- Batch 09: Honey Baby Crying, Shin-Ei Companion FY-6 Super Fuzz, Companion FY-6 Fuzz Master, Shin-Ei Companion WF-24 8-Tr Fuzz Wah, Univox U-1095 Super-Fuzz, with generation maps.
-- Batch 10: Colorsound Supa Tonebender, Colorsound Tone Bender Jumbo, Colorsound Power Boost, Colorsound Overdriver, with generation maps.
-- Batch 11: Colorsound Fuzz Box, Colorsound Fuzz 4, Colorsound Tone Bender Distortion, Colorsound Wow Fuzz, Colorsound Wah Fuzz, Colorsound Wah plus Fuzz, Colorsound Supa Wah-Fuzz, Colorsound Supa Wah-Fuzz-Swell, with generation maps.
-- Batch 12: Sola Sound Tone Bender MkI, Sola Sound Tone Bender MkII, Sola Sound Tone Bender MkIII, Sola Sound Tone Bender MkIV, Sola Sound Bum Fuzz Unit, with generation maps.
-- Batch 13: Colorsound Bass Fuzz, Colorsound Fuzz Phazer, Colorsound Fuzzphaze, Colorsound Wah-Fuzz-Straight, Sola Sound Wow Fuzz, and Sola Sound Wow Pedal, with generation maps.
-- Batch 14: D*A.M./Sola Sound Tone Bender Mk1.5 Copperhead, Mk1.5 Goldie, Mk1.75 El Diablo, MkII reissue, MkII Green Bastard, MkII Hybrid Squadron, MkII SCB Blue Meanie, MkIV reissue, MkIV Purple People Eater, and MkIV Red Baron, with generation maps.
-- Catalinbread product-depth work: DLS, SFT, RAH, Sabbra Cadabra, Formula 55, Formula 5F6, Galileo, Galileo 4K, DLS Deluxe, Fuzzrite, Fuzzrite Germanium, Fuzzrite Mini, Katzenkönig, Giygas 2K, Naga Viper MKII and related variants, including DLS Red and Karma Suture GE/SI distinctions.
-- ProCo RAT specimen work: 1979 Fringe Logo, 1984 White Face, 1986 Black Face, 1988 RAT2 Flat Top, later sloped RAT2, and 2003 25th Anniversary specimen identities.
-- Big Muff specimen work: Triangle, Ram’s Head, Red/Black, Op-Amp, Tone Bypass, later transistor and Russian/Soviet branches.
+## Important identity findings
+Tone Bender, RAT, Catalinbread and Big Muff research all demonstrate that graphics, enclosure, production, OEM origin and electronics can change independently. The Archive should never flatten those dimensions into a single "version" field. OEM census work also shows that one factory can sit behind many labels, while one brand can use several physical manufacturers across time.
 
-## Visual presentation
-- `catalog-polish.js` adds archive-object numbering, section labels, research presentation polish, focus states and route/top-of-page behavior.
-- `catalog-visual-references.js` adds a photo-reference doorway to every pedal card/detail where an exact owned or cleared photograph is not available. These links intentionally open external image-search results and warn that third-party imagery may be copyrighted.
-- `catalog-cleared-images.js` adds reusable Wikimedia examples for selected catalog objects, including Colorsound Supa Tonebender, MXR M-104 Distortion+, BOSS DS-1, BOSS OD-1, BOSS SD-1, Vox Tone Bender, Ibanez TS-9, TS808, Big Muff Pi, RAT and Fuzz Face.
-- `catalog-specimen-registry-01.js` through `catalog-specimen-registry-13.js` provide structured visual-specimen layers. Each specimen can carry builder, role, era, appearance, variant type, electronics notes, source, credit and rights status. Later registries cover Tone Bender/OEM, Big Muff/Fuzz Face, BOSS/Tube Screamer/RAT, Honey/Shin-Ei/Univox, Colorsound/Sola Sound, Catalinbread, Karma Suture and ProCo RAT revisions.
-- `catalog-specimen-ui.js` renders cleared specimen photos as Archive assets and turns reference-only specimens into non-embedded source cards. Image discovery and image rights remain separate.
-
-## Specimen identity rule
-The Archive treats **appearance**, **production identity**, and **electronics identity** as separate axes. Different graphics or finishes are not automatically different circuits. Visually similar specimens must not be collapsed when evidence indicates different production or electronics identities.
-
-## Research findings that shaped the architecture
-- Tone Bender identification demonstrates that MKI, MK1.5, Professional MKII, British Vox Professional MKII and Italian Vox V828 branches must be related but not flattened. Surviving examples can share exterior expectations while differing in construction history.
-- RAT identification demonstrates that graphic/enclosure revisions can be historically important without constituting a circuit change, while later op-amp production changes belong to electronics identity.
-- Catalinbread demonstrates the same principle in modern production: DLS Red and Fuzzrite Germanium represent documented product/electronics distinctions, while SFT Blackout/Fireworks and commemorative or retailer-exclusive finishes remain appearance specimens unless electrical changes are evidenced. Karma Suture GE/SI are explicit family-level electronics variants.
-- Big Muff demonstrates why the Archive needs family, generation, production branch and specimen layers rather than one universal “Big Muff” identity.
-- OEM census research shows that a historical pedal may have a **manufacturer**, **brand/distributor**, and **designer** that are three different entities. The census must preserve those roles independently before product lineage is inferred.
-- Fuzzboxes research demonstrates that obscure regional makers may have only press evidence and no surviving pedals. These remain valid census candidates without being upgraded to verified product catalogs prematurely.
-
-## Media status
-Cleared Wikimedia examples are actively used for selected catalog objects. External marketplace, specialist-site and manufacturer imagery remains reference-only unless republication rights are explicitly established. The specimen UI does not embed reference-only photos.
-
-## Next queue
-**Current priority is still builder discovery.** Finish the major-country and historical-era saturation sweeps, then perform the first dedicated census reconciliation pass across `builder-census-01.tsv` through `builder-census-16.tsv`. The reconciliation should identify new canonical builders, merge duplicates, classify OEM/private-label relationships, and separate weak candidates from confirmed creators. Only after that reconciliation shows diminishing discovery returns should Queue B begin: builder-by-builder complete product catalogs. Existing deep research remains preserved and becomes the head start for the later catalog-depth phases.
+## Next pickup point
+**Stay in Queue A until saturation.** Continue targeted creator searches, with emphasis on: remaining countries and regional scenes; historical companies that made amplifiers/instruments plus pedals; Japanese/Korean/Taiwanese OEM factories; Latin America; Middle East; Africa; Southeast Asia; Soviet/Eastern Bloc and pre-Internet micro-builders; DIY-to-commercial transitions; private-label and distributor brands. When the new-creator return drops sharply, stop broad expansion and perform the master reconciliation across `builder-census-01.tsv` through `builder-census-18.tsv`. Only after that should Queue B begin creator-by-creator complete catalog enumeration.
 
 ## Editorial rule
-Document the object, not the recipe. Do not publish gutshots, schematics, PCB diagrams or complete circuit recipes. Research depth is encouraged; unsupported certainty is not.
+**Document the object, not the recipe.** Do not publish gutshots, schematics, PCB diagrams or complete circuit recipes. Research depth is encouraged; unsupported certainty is not.
