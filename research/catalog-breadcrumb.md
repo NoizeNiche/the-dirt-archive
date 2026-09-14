@@ -28,8 +28,13 @@ Six deeply verified records remain preserved: Fulltone OCD, Fulltone Full-Drive 
 ## Visual presentation
 - `catalog-polish.js` adds the archive-object numbering, section labels, research presentation polish, stronger focus states and route/top-of-page behavior.
 - `catalog-visual-references.js` adds a photo-reference doorway to every pedal card/detail where an exact owned or cleared photograph is not available. These links intentionally open external image-search results and warn that third-party imagery may be copyrighted.
-- `catalog-cleared-images.js` adds additional reusable Wikimedia examples for selected catalog objects, including Colorsound Supa Tonebender, MXR M-104 Distortion+, BOSS DS-1 Distortion, Vox Tone Bender and Ibanez TS-9.
+- `catalog-cleared-images.js` adds additional reusable Wikimedia examples for selected catalog objects, including Colorsound Supa Tonebender, MXR M-104 Distortion+, BOSS DS-1 Distortion, Vox Tone Bender, Ibanez TS-9 and other cleared examples as individually documented.
+- `catalog-specimen-registry-01.js` and `catalog-specimen-registry-02.js` provide a structured visual-specimen layer. Each specimen can carry role, era, appearance, variant type, electronics notes, source, credit and rights status. Registry-02 currently adds Tone Bender/OEM specimen coverage and deliberately includes multiple records for the same model when construction or appearance differs.
+- `catalog-specimen-ui.js` renders cleared specimen photos as Archive gallery assets, while reference-only specimens become non-embedded source cards with a direct source/specimen link. This prevents third-party photographs from being silently republished while keeping the research trail visible.
 - Image rights remain separate from image discovery. Search/reference images must not be treated as cleared publication assets.
+
+## Specimen identity rule
+The Archive now treats **appearance**, **production identity**, and **electronics identity** as separate axes. A different enclosure color, graphic or finish is not automatically a new circuit. Conversely, two visually similar specimens may represent different electrical variants, production generations, OEM branches or reissues. When evidence supports a distinction, record it at the specimen/generation level rather than flattening it into the model name.
 
 ## Batch 07–14 research notes
 - **Marshall SupaFuzz:** 1966 origin as a Sola Sound-supplied Marshall product. A short-lived early MKI-derived/filter form is separated from the conventional 1966–1968 Professional MKII-era SupaFuzz. Marshall assumed production around 1968 and continued into the early 1970s.
@@ -72,6 +77,15 @@ Six deeply verified records remain preserved: Fulltone OCD, Fulltone Full-Drive 
 - **D*A.M. MKIV reissue:** modern Sola Sound/D*A.M. branch based on the later MKIV platform, with specialized named editions documenting individual transistor-selection and enclosure-stock runs.
 - **Purple People Eater:** 2017 MKIV special edition using an OC75/OC82D/OC75 selection and limited to ten units in each color scheme.
 - **Red Baron:** 2017 MKIV special edition using an OC75/OC82D/OC75 selection; the documented project describes the final run as drawing from remaining MKIV enclosure stock.
+
+## Tone Bender specimen findings
+- Fuzzboxes.org explicitly treats the MKI, MK1.5, Professional MKII, British Vox Professional MKII, Italian Vox V828 grey, and Italian Vox V828 black as distinct identification cases. The MK1.5 is a retrospective name for a two-transistor Sola Sound transition, while the V828 is an Italian-made cousin rather than a missing link in the British sequence.
+- The MK1.5 has a documented rare gold-painted “Goldie” specimen and early examples with a 500k level pot, demonstrating why color and component history should be recorded independently.
+- Professional MKII examples include early short-board MK1.5 conversions and conventional large-board production. Surviving examples can therefore share model naming and appearance while differing in construction history.
+- Fuzzboxes.org notes an unusual Sola Sound MKII anomaly whose internal circuit does not match the enclosure expectation. The identification lesson is fundamental: exterior cosmetics can guide a search, but the exact electronics identity cannot always be proven from the shell alone.
+- The British Vox Professional MKII, Marshall Supa Fuzz, and Rotosound Fuzz Box were Sola Sound OEM products related to the Professional MKII family. The Italian Vox V828 is a separate PCB-built branch related to the MK1.5 topology, with documented two- and later three-transistor variants.
+- MKIII production was also supplied under Vox, Rotosound and Park branding, while later 1970s production moved from germanium toward more consistent silicon devices. These should be represented as related OEM/generation records rather than one universal specification.
+- The research source itself emphasizes that exact specimen identification can require inspection of the internal circuitry. The public Archive will document this historical fact without publishing gutshots, schematics or complete circuit recipes.
 
 ## Identity architecture
 Model names are not always unique across builders or OEM branches. The public catalog now routes pedal detail pages by unique `pedal_id` while preserving name-based compatibility, and research layers prefer builder-plus-model matching. This prevents identically named products from receiving the wrong historical dossier.
