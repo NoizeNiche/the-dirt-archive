@@ -13,7 +13,12 @@
       {id:'BLD-MOD-ALEKS-K-01',name:'Aleks K Production',aliases:'Aleks K',country:'Poland',status:'Current manufacturer',founded:null},
       {id:'BLD-MOD-COLORTONE-01',name:'Colortone',aliases:'ColorTone Fx',country:'Italy',status:'Current boutique manufacturer / successor lineage',founded:null},
       {id:'BLD-MOD-L0REZ-01',name:'L0/Rez',aliases:'L0/Rez Effects',country:'USA',status:'Current boutique manufacturer',founded:null},
-      {id:'BLD-MOD-ANODE-01',name:'Anode Effects',aliases:'Anode',country:'USA',status:'Current boutique manufacturer',founded:null}
+      {id:'BLD-MOD-ANODE-01',name:'Anode Effects',aliases:'Anode',country:'USA',status:'Current boutique manufacturer',founded:null},
+      {id:'BLD-MOD-BROWNE-01',name:'Browne Amplification',aliases:'Browne',country:'USA',status:'Current manufacturer',founded:null},
+      {id:'BLD-MOD-SNOUSE-01',name:'Snouse Electric Company',aliases:'Snouse',country:'USA',status:'Current boutique manufacturer',founded:null},
+      {id:'BLD-MOD-MATTOVERSE-01',name:'Mattoverse Electronics',aliases:'Mattoverse',country:'USA',status:'Current boutique manufacturer',founded:null},
+      {id:'BLD-MOD-EVILEYE-01',name:'Evil Eye FX',aliases:'Evil Eye Effects',country:'USA',status:'Current boutique manufacturer',founded:null},
+      {id:'BLD-MOD-WAMPLER-01',name:'Wampler Pedals',aliases:'Wampler',country:'USA',status:'Current manufacturer',founded:null}
     ];
     const known = new Set(base.builders.map(b => b.builder_id));
     for (const d of defs) if (!known.has(d.id)) { base.builders.push({builder_id:d.id,name:d.name,aliases:d.aliases,country:d.country,status:d.status,founded:d.founded,description:'Modern preservation candidate captured from current/recent revision evidence.',primary_source:'',source_confidence:'Research'}); known.add(d.id); }
