@@ -129,11 +129,51 @@ For every product, track:
 - packaging/catalog image when historically valuable
 - specimen photo vs generic product photo
 - source URL
-- license/permission status
+- original creator/photographer when known
+- license or permission status
 - credit line
 - whether the image may be redistributed on The Dirt Archive
+- whether the archive should instead use a linked external image
+- capture/research date
+- notes about cropping, modification or replacement risk
 
-Priority should be given to Wikimedia Commons/public-domain material, builder-provided photographs, direct permission, properly licensed historical images, and owned photographs. Marketplace images are discovery references unless permission is established.
+**Image workflow rule:** image discovery happens alongside product discovery, but **discovery is not permission**. A picture found on a manufacturer site, forum, marketplace, social account or search result should be recorded as a reference lead. It should not automatically be copied into the public archive.
+
+Priority order for public-use imagery:
+1. The Dirt Archive-owned photographs.
+2. Builder/manufacturer images where permission to reproduce is granted or the terms clearly allow reuse.
+3. Public-domain images.
+4. Creative Commons or similarly licensed images whose exact license has been verified and whose attribution terms are satisfied.
+5. User/collector photographs with explicit permission and an agreed credit line.
+6. Other images retained only as **external reference links** until rights are established.
+
+Credit is editorially required where the source or license calls for it, but **credit is not a substitute for permission or a reuse license**. The archive should preserve the original source URL even when an image is not redistributed.
+
+### Image evidence tiers
+
+`Reference-only`
+
+Image located and useful for identification, but no public reuse permission established. Store source URL and creator information when available; do not copy the image into the site's public assets.
+
+`Licensed`
+
+Reuse rights are explicitly granted by a license such as Creative Commons, subject to its terms. Record the exact license and attribution requirements.
+
+`Permission granted`
+
+Copyright holder has explicitly permitted use. Record who granted permission, date, scope and requested credit.
+
+`Owned`
+
+Photograph is owned by The Dirt Archive or provided by a contributor under terms that transfer/grant the necessary reuse rights.
+
+`Public domain`
+
+Copyright status is established as public domain for the relevant jurisdiction/use.
+
+`Withdrawn`
+
+Previously used or proposed image should no longer be displayed. Preserve the provenance record for historical accountability.
 
 ## Research status ladder
 
@@ -178,13 +218,32 @@ A builder is not considered complete merely because its headline product count h
 
 For dense catalogs, use a two-pass system:
 
-### Pass A — enumeration
-Capture every product name and builder relationship.
+### Pass A — enumeration + media discovery
+Capture every product name and builder relationship, and at the same time capture the best available image lead(s), source URL(s), creator/photographer when known, and rights status.
 
 ### Pass B — deep research
-Research each product individually, beginning with the products where variation, rarity, historical importance or identification value is highest.
+Research each product individually, beginning with the products where variation, rarity, historical importance or identification value is highest. Promote the best image from reference-only to licensed/permission-granted/owned/public-domain when possible.
 
 Do not allow deep research on five famous pedals to block enumeration of the other ninety-five.
+
+## Media manifest rule
+
+Each catalog expansion phase should maintain a companion media manifest rather than burying image information inside prose notes. At minimum, a media record should identify:
+
+- pedal/product ID
+- image role (`front`, `rear`, `side`, `top`, `bottom`, `packaging`, `catalog`, `specimen`)
+- source page URL
+- direct image URL when stable and appropriate
+- creator/photographer
+- source organization/site
+- rights status
+- license or permission reference
+- required credit
+- public-use decision (`display`, `reference-only`, `pending`, `withdrawn`)
+- research date
+- notes
+
+This lets the archive build a visual library without confusing **“we found it”** with **“we are entitled to republish it.”**
 
 ## Known completeness-risk builders
 
