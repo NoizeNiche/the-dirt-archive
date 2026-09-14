@@ -12,8 +12,20 @@
     .research-status .research-badge{margin-top:0}
     .catalog-section-label{display:flex;align-items:center;gap:10px;margin-bottom:12px;font:700 8px Arial,Helvetica,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:#766a5b}
     .catalog-section-label:before{content:"";display:block;width:26px;height:2px;background:#8b2319}
+    .pedal-card{position:relative;overflow:hidden}
+    .pedal-card:after{content:"";position:absolute;inset:0;pointer-events:none;border:1px solid rgba(29,23,18,.05)}
+    .pedal-card:hover .pedal-image{filter:saturate(.92) contrast(1.03)}
+    .pedal-image{transition:filter .16s,transform .16s}
+    .pedal-card:hover .pedal-image{transform:scale(1.012)}
+    .source-row{transition:background .15s,transform .15s}
+    .source-row:hover{background:rgba(221,208,184,.32);transform:translateX(2px)}
+    .source-row a{text-decoration-thickness:1px;text-underline-offset:3px}
+    .search-dialog{border-radius:0}
+    .search-panel input:focus{border-color:#8b2319;box-shadow:inset 0 0 0 1px #8b2319}
+    .main-nav a:focus-visible,.search-button:focus-visible,.builder-card:focus-visible,.pedal-card:focus-visible,.alphabet a:focus-visible,.category-tabs a:focus-visible,.link-list a:focus-visible,.source-row a:focus-visible{outline:2px solid #8b2319;outline-offset:2px}
     ::selection{background:#8b2319;color:#fbf7ef}
     a{-webkit-tap-highlight-color:rgba(139,35,25,.14)}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.pedal-card,.builder-card,.source-row,.pedal-image{transition:none!important}.pedal-card:hover{transform:none}.pedal-card:hover .pedal-image{transform:none;filter:none}}
     @media(max-width:780px){.detail-head:after{display:none}.polish-index{width:24px;height:24px}}
   `;
   document.head.appendChild(style);
