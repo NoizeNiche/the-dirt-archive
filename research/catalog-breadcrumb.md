@@ -12,7 +12,7 @@ This file is the handoff point for future research sessions. Read it before begi
 6. Process the catalog in repeatable batches rather than attempting to finish a handful of famous pedals while leaving the rest untouched.
 
 ## Media rule
-An image source is not automatically a redistribution right. Track discovery/reference status separately from permission/license status. Preferred eventual public-image sources: manufacturer-provided images, direct permission, Wikimedia/public domain, compatible Creative Commons licenses, and Archive-owned photographs. Collector/marketplace images may be retained as identification references until rights are established.
+An image source is not automatically a redistribution right. Track discovery/reference status separately from permission/license and public-republish status. Preferred eventual public-image sources: manufacturer-provided images, direct permission, Wikimedia/public domain, compatible Creative Commons licenses, and Archive-owned photographs. Collector/marketplace images may be retained as identification references until rights are established.
 
 ## Conversation continuity rule
 The assistant cannot see an exact platform context/data-use quota or countdown. Do not claim a precise remaining percentage. Instead, preserve the state here after meaningful phases and keep the next queue explicit so a new conversation can resume without reconstructing research.
@@ -43,29 +43,26 @@ The assistant cannot see an exact platform context/data-use quota or countdown. 
 The public verified product layer currently contains six deeply verified records: Fulltone OCD, Fulltone Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword, EAE Halberd. Do not overwrite these with discovery-only claims.
 
 ## Product-depth system
-`research/product-research-protocol.md` defines the product-depth standard. Product research is attached as a separate `archive_research` object so discovery records remain intact. Batch 01 covers Fuzz Face, Tone Bender, Big Muff Pi, TS808 Tube Screamer and RAT. The runtime now surfaces researched dossiers on pedal pages, including structured generation/version maps, and can promote explicitly cleared thumbnail records onto builder/catalog cards.
+`research/product-research-protocol.md` defines the product-depth standard. Product research is attached as a separate `archive_research` object so discovery records remain intact. Batch 01 covers Fuzz Face, Tone Bender, Big Muff Pi, TS808 Tube Screamer and RAT. Batch 02 is the generation layer for those five records. Batch 03 adds individual research for Maestro FZ-1 Fuzz-Tone, Univox U-1095 Super-Fuzz, Shin-Ei Companion FY-2 Fuzz Box, MXR M-104 Distortion+ and BOSS DS-1 Distortion, with generation maps for each.
 
 ## Thumbnail/media system
 Phase-specific media registries are loaded after the base catalog. New images are only eligible for public card rendering when rights status and republishing decision are explicitly cleared. Reference-only image leads remain useful research breadcrumbs but are not silently published.
 
-Batch 01 reuses five cleared Wikimedia image references for Fuzz Face, Tone Bender, Big Muff Pi, TS808 Tube Screamer and RAT. Future product batches should add image leads during the same research pass and promote only those with compatible licensing, public-domain status, direct permission, builder-provided permission, or Archive-owned photography.
+Batch 01 reuses five cleared Wikimedia image references for Fuzz Face, Tone Bender, Big Muff Pi, TS808 Tube Screamer and RAT. Batch 03 adds cleared Wikimedia references for the MXR M-104 Distortion+ and BOSS DS-1, while the Maestro, Univox and FY-2 leads remain reference-only until republish rights are established.
 
-## Phase 44 notes
-The Pearl/Vorg audit was deliberately kept narrow. Effects Database exposes five Vorg products: F-501 Phase Shifter, F-502 Warp Sound, F-503 Graphic Equalizer, F-504 Flanger Analog Delay Effect and Vorg Wau. Each Vorg record is linked back to Pearl in the database, and the F-502 relationship is especially important because Pearl F-602 Warp Sound and Vorg F-502 Warp Sound are treated as the same Pearl-linked product family. This is enough to preserve the branch without prematurely inventing a separate manufacturing history. The Warp Sound has also been discussed by independent effects historians in connection with Kevin Shields and the MBV/Loveless sound, but that artist-use detail is not being promoted into canonical catalog history without stronger provenance.
-
-## Product Research Batch 01 notes
-- **Dallas-Arbiter Fuzz Face:** introduced in England in 1966; original production continued through the mid-1970s under changing Arbiter/Dallas-Arbiter branding. Fuzzfaced and Fuzzboxes provide strong version and cosmetic chronology. The later Crest/Dallas 1980s reissue and Dunlop production are treated as a separate reissue branch. The new generation map separates early Arbiter/germanium, Dallas-Arbiter, later original UK production, Crest/Dallas reissue and Dunlop production.
-- **Sola Sound Tone Bender:** treated initially as a family-level record because the name spans multiple designs. Fuzzboxes places the MKI in 1964–65 development/launch territory, the MK1.5 in the transitional 1965–66 period, the Professional MKII in 1966–68, and later MKIII/MKIV families through the 1970s. The generation map is intentionally family-level until the separate Tone Bender variants are normalized into their own records.
-- **Electro-Harmonix Big Muff Pi:** manufacturer history anchors the family to 1969 and Mike Matthews/Bob Myer. The generation map now separates Triangle/V1, Ram's Head/V2, Red & Black/V3, Op-Amp/V4 and later Russian/reissue branches. EHX's own version guide supports the major V3 and V4 distinction, while specialist history will be used for finer subtype work.
-- **Ibanez TS808 Tube Screamer:** treated as the foundational late-1970s/early-1980s TS808 model within the Ibanez/Maxon manufacturing lineage. Analog Man's history and Ibanez documentation support the original 808-to-TS9 transition. The generation map keeps the TS808, TS9 and later TS-family branches separate.
-- **ProCo RAT:** 1978 prototype/Bud Box origins followed by commercial production from 1979. JHS and Griffin provide a strong version framework: Bud Box, Big Box V1, Big Box V2/Filter, Small Box, RAT 2 and later variants including Turbo RAT. The archive will split major variants into separate records rather than burying them inside one RAT paragraph.
+## Product Research Batch 03 notes
+- **Maestro FZ-1 Fuzz-Tone:** Gibson/Maestro introduced it in 1962 after acquiring the Snoddy/Hobbs design. The FZ-1 became a landmark product after the 1965 Satisfaction recording. The research layer separates the original FZ-1 from the FZ-1A, FZ-1B, FZ-1S and later reissue branches. Wikimedia Commons provides a usable historical image lead, but its exact file attribution should be checked before final publication.
+- **Univox U-1095 Super-Fuzz:** late-1960s Japanese lineage associated with Honey/Shin-Ei production and Unicord distribution. The stamped-box early generation and later die-cast generation are separated. Audiofanzine is retained only as a reference image because its rights are not cleared for republication.
+- **Shin-Ei Companion FY-2 Fuzz Box:** late-1960s/1970s Shin-Ei fuzz with early germanium and later silicon-era branches and a large OEM/export network. Effects Database, Tone Machines Blog and Shin-Ei's current site provide the starting source set. The archive keeps related Jax, Kimbara, Tempo, Suzuki, Avora, Tele-Star, Thomas and Zenta branding separate until each relationship is individually verified.
+- **MXR M-104 Distortion+:** joined the MXR lineup in 1974 with the Blue Box and Dyna Comp. Original MXR Innovations production is separated from later Dunlop/MXR M-104 and special editions. A 1979 Wikimedia Commons example is a particularly useful cleared front-image reference.
+- **BOSS DS-1 Distortion:** introduced in 1978 and continuously maintained through multiple manufacturing and component eras. The generation map separates early Made-in-Japan production, the Taiwan transition, the 1994 redesign, Y2K-era changes and modern production. A CC BY-SA Wikimedia Commons front image is cleared for the archive.
 
 ## Current product-depth queue
-1. Finish the next 10–25 historically important individual products and keep the generation/source/thumbnail workflow consistent.
-2. Prioritize Maestro Fuzz-Tone, Shin-Ei/Univox Super-Fuzz, additional Tone Bender variants, MXR, BOSS, Fulltone, ProCo and Electro-Harmonix/Ibanez families.
-3. Then move systematically through the remaining catalog in batches, with each batch adding individual historical information and thumbnail coverage where rights permit.
+1. Continue immediately with the next historically important catalog records rather than returning to independent-builder enumeration.
+2. Prioritize additional Tone Bender variants, Maestro FZ-1A/FZ-1B, Shin-Ei/Univox variants, MXR M-104 sub-generations, BOSS OD-1 and DS-1 related records, ProCo RAT variants, and foundational EHX/Ibanez/Maxon products.
+3. Then move systematically through every remaining catalog record in batches, adding individual historical information and thumbnail coverage where rights permit.
 4. Maintain a separate backlog of unresolved OEM/rebrand questions so they do not block product-level progress.
-5. Revisit the broader independent-company queue only after a substantial product-depth tranche is complete.
+5. Revisit the broader independent-company queue only after the catalog has received a substantial product-depth pass.
 
 ## Research rule for the 2,000-ish catalog
 Do not try to write 2,000 bespoke essays. Build structured records with a concise historical summary, identification notes, lineage/relationship notes, generation records when evidence supports them, source links, and one useful front-image lead. Deep dives are reserved for products where version history or historical importance warrants them.
