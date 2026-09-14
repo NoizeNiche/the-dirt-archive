@@ -45,41 +45,44 @@ Deep-research individual products after their builder catalog is stable enough.
 Map generations, variants, OEM branches and surviving specimens after product identity is established.
 
 ## Current builder-census progress
-- `research/builder-census-01.tsv` adds the first systematic census tranche, mixing confirmed historical builders with high-value catalog candidates and several already-known major builders for cross-checking.
-- `research/builder-census-02.tsv` adds a second independent source tranche focused heavily on boutique/current manufacturers and large historical-modern builders.
-- `research/builder-census-03.tsv` adds an OEM-aware tranche that explicitly distinguishes **builder/OEM**, **brand/distributor**, **private label**, and **designer/lineage** entities. This distinction is now mandatory for census work so distributor names are not automatically counted as physical manufacturers.
-- `research/builder-census-04.tsv` adds a further historical tranche from Fuzzboxes focusing on obscure UK makers, regional builders and branded/OEM branches including Kelly Amplification, TVM Manchester, Baldwin-Burns, G. P. Electronics, Barnes & Mullins/Exel, Rangemaster/Dallas, Park, Carlsbro, Sperrin, Rotosound and Vox branches.
-- `research/builder-census-05.tsv` adds Japanese, Korean and New Zealand OEM/brand candidates including J.H. Experience, Zenta, Jansen, Walco, Applied Electronics, Polaris, Axtron, Columbus, Cutec, Profile+, Vision, Luster Proseries, Vesta Fire, Reagun, Nadine's, APEX, Tronix, PSK, RAK, Music-Son, Allsound, MSL, Samson, Excetro, Teisco, JBX and Coron-related labels.
-- `research/builder-census-07.tsv` adds German, Italian, regional and modern candidates including Schaller Electronic, Blackfield Orchester-Elektronik, Kent, Höfner, EF-EL / Calderoni Musica, JEN Elettronica, EME, Eko, Cosmosound, Goldsound, G.I.S., Meazzi, Mac, EUR, Framus, Roger Mayer, Austone, Vintage Technology, Kaden Effects, Toetags Electronics, Veri-Tone and related label/OEM cases.
-- `research/builder-census-08.tsv` adds Canadian and French makers, including 6 Degrees FX, Industrialectric, Sonic Crayon, Southampton Pedals, Stunt Monkey, Tone Hungry Effects, MJM Guitar FX, Radial/Tonebone, Retro-Sonic and a broad group of French boutique/custom builders.
-- `research/builder-census-09.tsv` adds Spanish and Polish makers, including Aclam, Decibelics, Thermion, El Músico Loco, ThunderTomate, DAGPedals, Manlay Sound, Faustone, Exar Electronix, AnalogWise, Chaos FX, Fuzzey, Jean-Paul Electronics, LongAmp, MLC and Occvlt.
-- `research/builder-census-10.tsv` adds Nordic and Greek makers, including Carl Martin, Emma Electronic, Lunastone, Nordvang, Reuss, T-Rex, TC Electronic, SoundBrut, Braking Train, Deaf Audio, Iskrem Electro, Locomofon, Bad Pixel, Rat Pedals, Side Effects, VS Audio and Warlord Custom.
-- `research/builder-census-11.tsv` adds Australia/New Zealand and first South American/Asian regional candidates, including Anarchy Audio, Bondi Effects, MC Systems, Red Sun Music, Crowther Audio, Silverpistol, Red Witch, G2D, Pepers' Pedals, Richón, MUSA, Darta Effects, Iannucci Audio, Vntage Tone, Apollo Approved Audio Devices, AMTECH-HANDWIRED and Watonefx.
-- `research/builder-census-12.tsv` adds India, South Africa and China, including Animal Factory Amplification, Craig Amps, Joyo, Mooer, Mosky, NuX, Caline, Hotone, Flamma and candidate small Chinese clone-focused operations such as 68 Pedals, Ly Rock and DemonFX.
-- `research/builder-census-13.tsv` adds a global tranche with Frantone Electronics, Diamond Pedals, EXAR Electronix, Drunk Beaver Pedals, Onerr Brasil Musical, Dedalo FX, Umbrella Company, 320design, Fjord Fuzz, VS Audio, Tsakalis AudioWorks, Blue Pedals, Jamés Pedals, JAM Pedals and Empress Effects.
-- `research/builder-census-14.tsv` adds additional manufacturing-level and current regional entities including Sound Land Co., Ltd., Ceriatone Amplification, GFI System, SEHAT Effectors, Sinvertek, FengzaiPedals, Amuzik, A3 Stompbox, Spicetone Music Technology, LeeHooker, SMR Toys, Tone Electronix / T.X Pedals and True North Pedals.
-- `research/builder-census-15.tsv` adds long-tail candidates from Israel, Thailand, Croatia, Portugal, Romania, Slovakia, Slovenia, Indonesia, South Korea and China. It deliberately contains both confirmed builders and `CENSUS_ONLY` country-index candidates so breadth is preserved without treating every directory name as a verified dirt manufacturer.
-- Current independent source pools include Fuzzboxes, Effects Database, ToneHome, Pro Audio KB, BoutiqueGear, Guitar Pedal X, major manufacturer sites, retailer catalogs, regional builder roundups, period/collector references, interviews, manufacturer histories and selected community discovery threads. Discovery sources are not automatic proof of canonical attribution.
-- Census work is intentionally producing candidates before canonicalizing them. Entity type and attribution confidence must be resolved before a candidate becomes a formal builder record.
+- `research/builder-census-01.tsv` through `research/builder-census-16.tsv` now form the active breadth-first discovery corpus.
+- Major coverage now spans historical and current makers across the U.K., U.S.A., Canada, Germany, Italy, France, Spain, Poland, Portugal, Czech Republic, Slovakia, Slovenia, Austria, Belgium, Ireland, Sweden, Norway, Denmark, Greece, Croatia, Bulgaria, Serbia, Romania, Switzerland, Japan, Taiwan, South Korea, China, India, Indonesia, Thailand, Malaysia, Australia, New Zealand, South Africa, Israel, Iran, Brazil, Argentina, Chile, Peru, Mexico and other regional pools.
+- Early tranches emphasized major manufacturers and known boutique builders. Later tranches intentionally targeted obscure historical makers, regional builders and OEM/private-label ecosystems.
+- `builder-census-03.tsv` and later files explicitly distinguish **builder/OEM manufacturer**, **brand/distributor**, **private label**, **designer/lineage**, and **candidate** entities. This distinction is mandatory and prevents badge count from masquerading as factory count.
+- Current independent source pools include Fuzzboxes, Effects Database, ToneHome, Pro Audio KB, BoutiqueGear, Guitar Pedal X, major manufacturer sites, retailer catalogs, regional builder roundups, interviews, manufacturer histories, old advertisements and selected community discovery threads. Discovery sources are not automatic proof of canonical attribution.
+- Census work deliberately preserves low-evidence candidates rather than silently dropping them. Candidate status must remain visible until entity type and dirt relevance are verified.
+
+## New census tranches since the methodology reset
+- `builder-census-13.tsv`: Frantone Electronics, Diamond Pedals, EXAR Electronix, Drunk Beaver Pedals, Onerr Brasil Musical, Dedalo FX, Umbrella Company, 320design, Fjord Fuzz, VS Audio, Tsakalis AudioWorks, Blue Pedals, Jamés Pedals, JAM Pedals and Empress Effects.
+- `builder-census-14.tsv`: Sound Land Co., Ltd., Ceriatone Amplification, GFI System, SEHAT Effectors, Sinvertek, FengzaiPedals, Amuzik, A3 Stompbox, Spicetone Music Technology, LeeHooker, SMR Toys, Tone Electronix / T.X Pedals and True North Pedals.
+- `builder-census-15.tsv`: long-tail candidate tranche from Israel, Thailand, Croatia, Portugal, Romania, Slovakia, Slovenia, Indonesia, South Korea and China, mixing confirmed builders with `CENSUS_ONLY` country-index candidates.
+- `builder-census-16.tsv`: long-tail Europe/Middle East tranche including Balkan Pedals, Ratin Pedals, Gamechanger Audio, CircuitFX, Revolt! and additional country-index candidates in Austria, Belgium, Ireland, Latvia, Lithuania and Thailand.
 
 ## OEM attribution rule
 A marketed pedal brand, distributor, physical manufacturer, designer, corporate owner and later successor may all be different entities. The census preserves those roles independently. Shared OEM families are grouped at the manufacturing/lineage layer instead of inflating the builder count by treating every badge as a separate factory.
 
 ## Current census findings
-- Early British research continues to uncover tiny makers documented only by advertisements or testimony. Those entities remain valid census candidates without being upgraded to verified catalogs prematurely.
-- Japanese 1960s-1980s research is revealing multiple OEM networks where one factory may sit behind several labels. Shin-Ei/Teisco and Coron-associated families require explicit factory-vs-brand separation.
-- 1980s Korean and Taiwanese OEM families are similarly label-dense, with PSK and shared DST/ODV families requiring manufacturing attribution before brands are counted as builders.
-- Italian effects history contains several overlapping manufacturing networks, especially JEN/EME/Eko and EF-EL/Calderoni Musica, with Vox, Goldsound, G.I.S., EUR, Meazzi and other marketed identities. Conflicting historical claims remain marked as candidates where evidence is insufficient.
-- German vintage effects deserve dedicated census coverage. Schaller, Höfner, Blackfield and Kent demonstrate that significant dirt products existed outside the better-known British/US ecosystem.
-- Regional production matters: Jansen in New Zealand and small Australian builders show why country filters based only on US/UK manufacturers would miss historically important objects.
-- Spanish, Polish, Nordic and Greek sweeps reveal substantial boutique ecosystems that are largely absent from mainstream US-focused brand lists.
-- Australasia has a deep independent builder scene spanning Australia and New Zealand, including long-running names and many small-batch makers. These should be cataloged independently rather than treated as one regional pool.
-- Latin American and Southeast Asian searches are beginning to expose local manufacturers such as Richón, MUSA, Darta Effects, Iannucci Audio, Vntage Tone, Apollo Approved Audio Devices, AMTECH-HANDWIRED and Watonefx. These regions require further country-by-country sweeps.
-- India has at least one clearly documented modern independent manufacturer in Animal Factory Amplification. Its own site states that the company has operated in Bombay/Mumbai since 2013 and currently sells original dirt pedals.
-- South Africa has at least one clearly documented independent manufacturer in Craig Amps. Its own site states it began in 2001 in Pietermaritzburg and now produces overdrive, fuzz and distortion pedals alongside amplifiers.
-- China requires special census treatment because the ecosystem mixes major manufacturers, proprietary brands, OEM manufacturing and small clone-focused operations. Clone-oriented names should remain candidate entities until physical manufacturing and product ownership are independently established.
-- Recent global searches continue to uncover a mix of established boutique makers and very small country-specific workshops. A useful threshold for leaving Queue A will be when repeated country/source sweeps mostly return existing entities, known duplicates, or low-evidence candidates rather than clearly new creators.
-- Current source work also confirms that some seemingly obscure names are actually manufacturing nodes. Sound Land, for example, documents long-running Taiwan OEM production for Roland/BOSS branded effects, while Ceriatone documents hand-built pedal production in Malaysia. These are more important to the census than another list of retailer-facing badge names.
+- The Effects Database country index alone spans a large number of countries and is useful as a discovery map, but its own documentation notes that country is the brand's origin and may not equal the manufacturing country. This reinforces the need for product-level attribution later.
+- Canada remains one of the richest modern boutique pools, with many dozens of named makers in the country index. Several, such as Diamond, Empress, SolidGoldFX and Dr. Scientist, have strong dirt evidence, while many smaller names remain candidate-only until products are checked.
+- Brazil, Argentina and other Latin American countries have substantial local builder scenes rather than being mere import markets. Onerr, Dedalo and numerous Effects Database country entries establish that regional cataloging is necessary.
+- Indonesia has a surprisingly broad boutique ecosystem. GFI System, SEHAT Effectors, AMTECH-HANDWIRED and Revolt! are confirmed examples; the country index also contains many additional small candidates requiring dirt-specific verification.
+- China combines proprietary boutique makers, OEM manufacturers, mass-market brands and clone-oriented operations. Sound Land is a particularly important manufacturing node because its company history documents Taiwan OEM production for Roland/BOSS effects, while Chinese brands such as Sinvertek and smaller makers need to be classified separately.
+- Eastern and Southern Europe are producing many small candidates. Bulgaria, Croatia, Czech Republic, Estonia, Latvia, Lithuania, Poland, Portugal, Romania, Serbia, Slovakia and Slovenia now have explicit census coverage. Confirmed examples include Balkan Pedals, Dawner Prince, Spicetone, EXAR and Tone Electronix.
+- Israel and Iran are not empty spaces. EC Pedals and Ratin Pedals are documented boutique builders, and both deserve later catalog-completion passes.
+- Thailand has both historical DIY-to-builder lineage, such as CircuitFX, and a large country-index long tail requiring product-by-product confirmation.
+- The census is now producing noticeably more candidates and duplicates than entirely new high-confidence historical manufacturers in several already-swept regions. This suggests we are beginning to approach a useful saturation point, but Queue A is not finished yet.
+
+## Saturation protocol
+Do not declare builder-census exhaustion because one directory looks comprehensive. Continue at least one additional independent sweep for each major region/era class, then reconcile:
+1. Exact-name duplicates and spelling variants.
+2. Brand versus physical manufacturer.
+3. OEM factory versus distributor/private label.
+4. Designer versus manufacturing company.
+5. Modern revival/reissue company versus historical original.
+6. Builders that made only non-dirt effects versus true dirt builders.
+7. Low-evidence candidates versus verified creators.
+
+Queue A should end only when repeated independent searches produce mostly existing entities, duplicate labels, low-evidence candidates, or known OEM branches and very few genuinely new creators.
 
 ## Completed builder phases
 Phases 1–25 foundational; 26–44 broad builder expansion. Phase 44 completed the current Pearl/Vorg stopping point with five Vorg records. Phase 45–48 added historical Sola Sound/Colorsound/Tone Bender discovery snapshots. Phase 49 added the Catalinbread lineup snapshot.
@@ -111,7 +114,7 @@ Phases 1–25 foundational; 26–44 broad builder expansion. Phase 44 completed 
 - `catalog-specimen-ui.js` renders cleared specimen photos as Archive assets and turns reference-only specimens into non-embedded source cards. Image discovery and image rights remain separate.
 
 ## Specimen identity rule
-The Archive treats **appearance**, **production identity**, and **electronics identity** as separate axes. Different graphics or finishes are not automatically different circuits. Visually similar examples must not be collapsed when evidence indicates different production or electronics identities.
+The Archive treats **appearance**, **production identity**, and **electronics identity** as separate axes. Different graphics or finishes are not automatically different circuits. Visually similar specimens must not be collapsed when evidence indicates different production or electronics identities.
 
 ## Research findings that shaped the architecture
 - Tone Bender identification demonstrates that MKI, MK1.5, Professional MKII, British Vox Professional MKII and Italian Vox V828 branches must be related but not flattened. Surviving examples can share exterior expectations while differing in construction history.
@@ -125,7 +128,7 @@ The Archive treats **appearance**, **production identity**, and **electronics id
 Cleared Wikimedia examples are actively used for selected catalog objects. External marketplace, specialist-site and manufacturer imagery remains reference-only unless republication rights are explicitly established. The specimen UI does not embed reference-only photos.
 
 ## Next queue
-**Current priority is builder discovery and saturation testing.** Continue country-by-country and source-family sweeps, especially in underrepresented regions and historical periods. At the same time, begin logging duplicates and likely manufacturing nodes so that eventually we can perform a dedicated census reconciliation pass. Do not shift to exhaustive builder catalogs until new creator discovery has clearly flattened into mostly duplicates, low-evidence candidates, or already-known OEM networks. Existing deep research remains preserved and becomes the head start for the later builder-by-builder catalog phase.
+**Current priority is still builder discovery.** Finish the major-country and historical-era saturation sweeps, then perform the first dedicated census reconciliation pass across `builder-census-01.tsv` through `builder-census-16.tsv`. The reconciliation should identify new canonical builders, merge duplicates, classify OEM/private-label relationships, and separate weak candidates from confirmed creators. Only after that reconciliation shows diminishing discovery returns should Queue B begin: builder-by-builder complete product catalogs. Existing deep research remains preserved and becomes the head start for the later catalog-depth phases.
 
 ## Editorial rule
 Document the object, not the recipe. Do not publish gutshots, schematics, PCB diagrams or complete circuit recipes. Research depth is encouraged; unsupported certainty is not.
