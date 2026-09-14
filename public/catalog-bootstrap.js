@@ -1,6 +1,6 @@
 (() => {
   const nativeFetch = window.fetch.bind(window);
-  const batches = ['discovery-01.tsv','discovery-02.tsv','discovery-03.tsv','discovery-04.tsv','discovery-05.tsv'];
+  const batches = ['discovery-01.tsv','discovery-02.tsv','discovery-03.tsv','discovery-04.tsv','discovery-05.tsv','discovery-06.tsv'];
   const provisionalBuilders = {
     'BLD-DISC-APL-01': {name:'Lectrolab', country:'USA', status:'Historical / rare', description:'Mid-century electronics maker associated with the Fuzz Buzz; Allied marketing/distribution is documented in surviving period material.'},
     'BLD-DISC-APL-02': {name:'Applied Electronics / Applied Audio Products', country:'USA', status:'Historical / OEM attribution', description:'Obscure late-1960s to early-1970s U.S. effects manufacturing lineage associated with several store and house-brand fuzz products.'},
@@ -17,7 +17,12 @@
     'BLD-DISC-EFEL-01': {name:'EF-EL / Calderoni Musica', country:'Italy', status:'Historical / OEM', description:'Italian effects manufacturer associated with Vox-branded and other early transistor fuzz products.'},
     'BLD-DISC-MORESCHI-01': {name:'Cav. Giovanni Moreschi', country:'Italy', status:'Historical / rare', description:'Italian accordion maker that briefly produced guitar effects including the Moreschi Octave Fuzz.'},
     'BLD-DISC-ELECTRONIC-SOUNDS-01': {name:'Electronic Sounds', country:'Italy', status:'Historical / design label', description:'Italian-era Gary Hurst-associated effects label documented in rare UFO-series octave fuzz products.'},
-    'BLD-DISC-PIGDOG-01': {name:'Pigdog', country:'U.K.', status:'Boutique / historical preservation', description:'Small Surrey workshop known for hand-made period-inspired fuzz interpretations.'}
+    'BLD-DISC-PIGDOG-01': {name:'Pigdog', country:'U.K.', status:'Boutique / historical preservation', description:'Small Surrey workshop known for hand-made period-inspired fuzz interpretations.'},
+    'BLD-DISC-GOLDSOUND-01': {name:'Goldsound', country:'Italy', status:'Historical / badge brand', description:'Italian effects badge appearing within the broader Cosmosound / EF-EL production ecosystem.'},
+    'BLD-DISC-COSMOSOUND-01': {name:'Cosmosound', country:'Italy', status:'Historical / brand', description:'Italian effects brand associated with a broader EF-EL / Calderoni Musica production ecosystem and multiple related badges.'},
+    'BLD-DISC-SILVERSOUND-01': {name:'Silversound', country:'Italy', status:'Historical / badge brand', description:'Italian effects badge associated with the Cosmosound / EF-EL product family.'},
+    'BLD-DISC-GIS-01': {name:'G.I.S.', country:'Italy', status:'Historical / badge brand', description:'Italian effects badge associated with the Cosmosound / EF-EL family of dirt and hybrid effects.'},
+    'BLD-DISC-EUR-01': {name:'EUR', country:'Italy', status:'Historical / badge brand', description:'Italian badge appearing on effects in the broader EF-EL / Caldironi Musica ecosystem.'}
   };
   let merged = false;
 
