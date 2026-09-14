@@ -28,9 +28,9 @@ Six deeply verified records remain preserved: Fulltone OCD, Fulltone Full-Drive 
 ## Visual presentation
 - `catalog-polish.js` adds the archive-object numbering, section labels, research presentation polish, stronger focus states and route/top-of-page behavior.
 - `catalog-visual-references.js` adds a photo-reference doorway to every pedal card/detail where an exact owned or cleared photograph is not available. These links intentionally open external image-search results and warn that third-party imagery may be copyrighted.
-- `catalog-cleared-images.js` adds additional reusable Wikimedia examples for selected catalog objects, including Colorsound Supa Tonebender, MXR M-104 Distortion+, BOSS DS-1 Distortion, Vox Tone Bender, Ibanez TS-9 and other cleared examples as individually documented.
-- `catalog-specimen-registry-01.js` and `catalog-specimen-registry-02.js` provide a structured visual-specimen layer. Each specimen can carry role, era, appearance, variant type, electronics notes, source, credit and rights status. Registry-02 currently adds Tone Bender/OEM specimen coverage and deliberately includes multiple records for the same model when construction or appearance differs.
-- `catalog-specimen-ui.js` renders cleared specimen photos as Archive gallery assets, while reference-only specimens become non-embedded source cards with a direct source/specimen link. This prevents third-party photographs from being silently republished while keeping the research trail visible.
+- `catalog-cleared-images.js` adds reusable Wikimedia examples for selected catalog objects, including Colorsound Supa Tonebender, MXR M-104 Distortion+, BOSS DS-1 Distortion, BOSS OD-1, BOSS SD-1, Vox Tone Bender, Ibanez TS-9, TS808, Big Muff Pi, RAT and Fuzz Face.
+- `catalog-specimen-registry-01.js` through `catalog-specimen-registry-05.js` provide structured visual-specimen layers. Each specimen can carry role, era, appearance, variant type, electronics notes, source, credit and rights status. Registry-02 covers Tone Bender/OEM families; Registry-03 covers Big Muff/Fuzz Face variants; Registry-04 covers BOSS/Tube Screamer/RAT references; Registry-05 covers Honey/Shin-Ei/Univox Super-Fuzz family references.
+- `catalog-specimen-ui.js` renders cleared specimen photos as Archive gallery assets, can promote a cleared specimen into the catalog card/detail image when no earlier image exists, and turns reference-only specimens into non-embedded source cards with a direct specimen/source link. This keeps visual research useful without silently republishing third-party photographs.
 - Image rights remain separate from image discovery. Search/reference images must not be treated as cleared publication assets.
 
 ## Specimen identity rule
@@ -59,7 +59,7 @@ The Archive now treats **appearance**, **production identity**, and **electronic
 - **Colorsound Fuzz Box:** 1990s revival-era one-knob fuzz associated with Dick Denney design material; a claimed 1961 board date is not treated as evidence of 1961 commercial production.
 - **Colorsound Wow/Wah Fuzz family:** multiple highly similar early-1970s combination-effect names are retained separately because exact graphics, switch arrangements and enclosure details can distinguish them.
 - **Sola Sound Tone Bender MkI:** developed by Gary Hurst during 1964 and commercially offered in Britain by 1965; earliest wooden examples were followed by folded-steel commercial examples. “MKI” is treated as retrospective collector terminology rather than assumed factory wording.
-- **Sola Sound Tone Bender MkII:** 1966 three-transistor Professional MKII. The short-board/MK1.5 conversions, conventional large-board examples and unusual two-transistor anomaly are preserved as separate identification cases rather than invented official generations.
+- **Sola Sound Tone Bender MkII:** 1966 three-transistor Professional MKII. The short-board/MK1.5 conversions, conventional large-board examples and unusual two-transistor anomaly are preserved as separate identification cases rather than invented generations.
 - **Sola Sound Tone Bender MkIII:** 1968 family containing several materially different implementations, including rare early two-control silicon, three-control germanium, Hastings-era and later silicon/Jumbo-related forms.
 - **Sola Sound Tone Bender MkIV:** introduced around 1970 with changing enclosure graphics and technology through the 1970s. “Bendy” and “Batman” are informal collector descriptors, not assumed official model names. Later production moved toward silicon/Big Muff-influenced fuzz.
 - **Sola Sound Bum Fuzz Unit:** distinct Barnes & Mullins/B&M Fuzz Unit branch from the mid-1970s, later recreated using Edwyn Collins’s personal vintage example. It is not folded into the Tone Bender MKI–MKIV ladder.
@@ -87,6 +87,13 @@ The Archive now treats **appearance**, **production identity**, and **electronic
 - MKIII production was also supplied under Vox, Rotosound and Park branding, while later 1970s production moved from germanium toward more consistent silicon devices. These should be represented as related OEM/generation records rather than one universal specification.
 - The research source itself emphasizes that exact specimen identification can require inspection of the internal circuitry. The public Archive will document this historical fact without publishing gutshots, schematics or complete circuit recipes.
 
+## Current visual research notes
+- Big Muff visual research confirms that the Triangle, Ram’s Head and Russian/Sovtek branches can be treated as distinct specimen families under one broader Big Muff identity, with generation and production lineage kept separate from appearance.
+- Current BOSS visual research now includes reusable Commons references for the OD-1 and SD-1, allowing actual catalog-card imagery where those exact public records are matched.
+- Current Tube Screamer visual research includes a reusable CC-licensed TS-9 reference plus external vintage TS808 examples for period comparison.
+- Current ProCo visual research includes a reusable CC BY 2.0 RAT reference and an external RAT2 specimen. The enclosure-era distinction remains separate from component-level production changes.
+- Super-Fuzz visual research now includes early Honey Baby Crying, Shin-Ei Companion FY-6, Companion/6TR fuzz-wah and Univox U-1095 examples. Because the OEM network spans multiple labels and enclosure forms, these are tracked as related specimens rather than merged into one product record.
+
 ## Identity architecture
 Model names are not always unique across builders or OEM branches. The public catalog now routes pedal detail pages by unique `pedal_id` while preserving name-based compatibility, and research layers prefer builder-plus-model matching. This prevents identically named products from receiving the wrong historical dossier.
 
@@ -97,10 +104,10 @@ The batch system is not a limit on depth. For each builder or family under activ
 Pedal cards now expose a research-status badge when a dossier is attached. Pedal detail pages also receive a compact research-status row with linked source and generation counts where the dossier supplies them. This is intentionally a discovery aid, not a substitute for the underlying research dossier.
 
 ## Media status
-Batch 01 has five cleared Wikimedia images. Batch 03 has cleared Wikimedia references for MXR M-104 Distortion+ and BOSS DS-1. Additional reusable Wikimedia examples are now surfaced for selected exact catalog objects. Maestro, Univox, FY-2, Batches 04–14 and other specialist/marketplace images remain reference-only unless rights are explicitly cleared. Manufacturer and specialist images are not silently republished.
+Cleared Wikimedia examples are now actively used for multiple selected catalog cards and detail plates, including Fuzz Face, Big Muff Pi, RAT, TS808, TS-9, Vox Tone Bender, Colorsound Supa Tonebender, MXR M-104, BOSS DS-1, BOSS OD-1 and BOSS SD-1. External marketplace, specialist-site and manufacturer imagery remains reference-only unless rights are explicitly cleared. The specimen UI does not embed reference-only photos.
 
 ## Next queue
-Continue visual coverage by adding more exact, license-safe examples wherever they can be verified, while keeping the external photo-reference doorway available for every catalog object. In parallel, continue the remaining Colorsound/Sola Sound dirt and combination products, then expand the branded/OEM Tone Bender network and the Shin-Ei/Univox/Honey Super-Fuzz network, followed by remaining Maestro/Italian OEM fuzzes, MXR sub-generations, BOSS SD/DS/OD family, ProCo RAT variants, foundational EHX/Ibanez/Maxon products, then systematic coverage of the remaining catalog.
+Continue adding exact, license-safe examples wherever they can be verified, while keeping the external photo-reference doorway available for every catalog object. Continue the remaining Colorsound/Sola Sound dirt and combination products, then expand the branded/OEM Tone Bender network and Shin-Ei/Univox/Honey Super-Fuzz network with additional specimens and variant evidence. After that, systematically deepen Maestro/Italian OEM fuzzes, MXR sub-generations, BOSS SD/DS/OD family, ProCo RAT variants, foundational EHX/Ibanez/Maxon products, then the remaining catalog.
 
 ## Editorial rule
 Document the object, not the recipe. Do not publish gutshots, schematics, PCB diagrams or complete circuit recipes. Research depth is encouraged; unsupported certainty is not.
