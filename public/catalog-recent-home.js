@@ -1,10 +1,8 @@
 (() => {
-  // Load the newest preservation extension without requiring an index-file rewrite.
-  if (!document.querySelector('script[data-dirt-extension="83"]')) {
-    const s = document.createElement('script');
-    s.src = 'catalog-extensions-83.js';
-    s.dataset.dirtExtension = '83';
-    document.head.appendChild(s);
+  // Ensure the latest modern-preservation extension is available even when index.html is cached by a static host.
+  // The extension wraps fetch(data.json), so loading it here preserves the late-merge architecture used by prior batches.
+  if (!document.querySelector('script[src="catalog-extensions-84.js"]')) {
+    const s = document.createElement('script'); s.src = 'catalog-extensions-84.js'; document.head.appendChild(s);
   }
 
   // Rolling homepage activity rail. Keep newest-first and update this list with each meaningful archive release.
