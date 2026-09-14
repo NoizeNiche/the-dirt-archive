@@ -44,6 +44,13 @@ Deep-research individual products after their builder catalog is stable enough.
 ### Queue E — Variant / Specimen Archaeology
 Map generations, variants, OEM branches and surviving specimens after product identity is established.
 
+## Current builder-census progress
+- `research/builder-census-01.tsv` adds the first systematic census tranche, mixing confirmed historical builders with high-value catalog candidates and several already-known major builders for cross-checking.
+- `research/builder-census-02.tsv` adds a second independent source tranche focused heavily on boutique/current manufacturers and large historical-modern builders.
+- `research/builder-census-03.tsv` adds an OEM-aware tranche that explicitly distinguishes **builder/OEM**, **brand/distributor**, **private label**, and **designer/lineage** entities. This distinction is now mandatory for census work so distributor names are not automatically counted as physical manufacturers.
+- Current independent source pools include Fuzzboxes, Effects Database, Pro Audio KB, BoutiqueGear, Guitar Pedal X and major retailer/manufacturer directories. These are discovery sources, not automatic proof of canonical attribution.
+- Census work is intentionally producing candidates before canonicalizing them. Entity type and attribution confidence must be resolved before a candidate becomes a formal builder record.
+
 ## Completed builder phases
 Phases 1–25 foundational; 26–44 broad builder expansion. Phase 44 completed the current Pearl/Vorg stopping point with five Vorg records. Phase 45–48 added historical Sola Sound/Colorsound/Tone Bender discovery snapshots. Phase 49 added the Catalinbread lineup snapshot.
 
@@ -81,12 +88,13 @@ The Archive treats **appearance**, **production identity**, and **electronics id
 - RAT identification demonstrates that graphic/enclosure revisions can be historically important without constituting a circuit change, while later op-amp production changes belong to electronics identity.
 - Catalinbread demonstrates the same principle in modern production: DLS Red and Fuzzrite Germanium represent documented product/electronics distinctions, while SFT Blackout/Fireworks and commemorative or retailer-exclusive finishes remain appearance specimens unless electrical changes are evidenced. Karma Suture GE/SI are explicit family-level electronics variants.
 - Big Muff demonstrates why the Archive needs family, generation, production branch and specimen layers rather than one universal “Big Muff” identity.
+- OEM census research shows that a historical pedal may have a **manufacturer**, **brand/distributor**, and **designer** that are three different entities. The census must preserve those roles independently before product lineage is inferred.
 
 ## Media status
 Cleared Wikimedia examples are actively used for selected catalog objects. External marketplace, specialist-site and manufacturer imagery remains reference-only unless republication rights are explicitly established. The specimen UI does not embed reference-only photos.
 
 ## Next queue
-**Priority has changed.** Resume builder discovery first. Build the widest practical builder census before investing heavily in more product-level rabbit holes. Then systematically return builder-by-builder to enumerate every dirt product, perform completeness audits, and only afterward resume broad product-depth passes. Existing deep research remains preserved and will serve as a head start when those products are revisited.
+**Current priority is builder discovery.** Continue expanding the builder census using independent historical, current-market, specialist and regional source pools. Convert promising candidates into canonical builder records only after entity type and manufacturer attribution are verified. After the census is broad enough, return builder-by-builder to enumerate every dirt product, perform completeness audits, and only afterward resume broad product-depth passes. Existing deep research remains preserved and will serve as a head start when those products are revisited.
 
 ## Editorial rule
 Document the object, not the recipe. Do not publish gutshots, schematics, PCB diagrams or complete circuit recipes. Research depth is encouraged; unsupported certainty is not.
