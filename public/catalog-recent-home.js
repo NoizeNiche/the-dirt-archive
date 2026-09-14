@@ -1,6 +1,6 @@
 (() => {
   // Ensure the modern-preservation extensions remain available even when index.html is cached by a static host.
-  for (const name of ['catalog-extensions-83.js','catalog-extensions-84.js','catalog-extensions-85.js']) {
+  for (const name of ['catalog-extensions-83.js','catalog-extensions-84.js','catalog-extensions-85.js','catalog-extensions-86.js']) {
     if (!document.querySelector(`script[src="${name}"]`)) { const s=document.createElement('script'); s.src=name; document.head.appendChild(s); }
   }
 
