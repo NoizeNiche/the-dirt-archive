@@ -1,6 +1,6 @@
 (() => {
   const nativeFetch = window.fetch.bind(window);
-  const batches = ['discovery-01.tsv','discovery-02.tsv','discovery-03.tsv','discovery-04.tsv','discovery-05.tsv','discovery-06.tsv','discovery-07.tsv','discovery-08.tsv'];
+  const batches = ['discovery-01.tsv','discovery-02.tsv','discovery-03.tsv','discovery-04.tsv','discovery-05.tsv','discovery-06.tsv','discovery-07.tsv','discovery-08.tsv','discovery-09.tsv'];
   const provisionalBuilders = {
     'BLD-DISC-APL-01': {name:'Lectrolab', country:'USA', status:'Historical / rare', description:'Mid-century electronics maker associated with the Fuzz Buzz; Allied marketing/distribution is documented in surviving period material.'},
     'BLD-DISC-APL-02': {name:'Applied Electronics / Applied Audio Products', country:'USA', status:'Historical / OEM attribution', description:'Obscure late-1960s to early-1970s U.S. effects manufacturing lineage associated with several store and house-brand fuzz products.'},
@@ -48,7 +48,16 @@
     'BLD-DISC-GIGAHEARTS-01': {name:'Gigahearts FX', country:'Unknown', status:'Modern boutique', description:'Modern boutique builder represented here by the Small Cheese fuzz.'},
     'BLD-DISC-MYTHOS-01': {name:'Mythos Pedals', country:'USA', status:'Modern boutique', description:'Nashville boutique builder with a wide fuzz and overdrive catalog.'},
     'BLD-DISC-ORION-01': {name:'Orion Effekte', country:'Germany', status:'Boutique / one-person', description:'Jan van Triest one-person German effects workshop.'},
-    'BLD-DISC-MONTGOMERY-01': {name:'Montgomery Appliances', country:'USA', status:'Boutique / one-person', description:'David Gill one-person workshop with a dense fuzz-oriented catalog.'}
+    'BLD-DISC-MONTGOMERY-01': {name:'Montgomery Appliances', country:'USA', status:'Boutique / one-person', description:'David Gill one-person workshop with a dense fuzz-oriented catalog.'},
+    'BLD-DISC-1969-01': {name:'1969 Effects', country:'France', status:'Boutique / hand-made', description:'French boutique builder represented by hand-made fuzzes rooted in classic 1960s designs.'},
+    'BLD-DISC-UNKNOWN-USA-01': {name:'Unknown U.S. maker', country:'USA', status:'Unresolved', description:'Vintage U.S. fuzz record preserved without a resolved manufacturer attribution.'},
+    'BLD-DISC-PROTRAFFIC-01': {name:"Pro'Traffic", country:'Unknown', status:'Historical / unresolved', description:'Obscure fuzz record preserved through the Tone Bender MkII relationship tree; manufacturer attribution unresolved.'},
+    'BLD-DISC-KLINGER-01': {name:'Klinger Custom Pedals', country:'Australia', status:'Boutique / historical preservation', description:'Melbourne boutique builder represented by the Jimi Fuzz.'},
+    'BLD-DISC-BIGJOHN-01': {name:'Big John Music', country:'Belgium / Netherlands', status:'Boutique / builder lineage', description:'Belgian-founded boutique builder with later Netherlands-based operation.'},
+    'BLD-DISC-AUL-01': {name:'Aul Instruments', country:'USA', status:'Historical / OEM', description:'Historical U.S. instrument/effects maker associated with the 1967 Guild Foxey Lady replacement production for Mike Matthews.'},
+    'BLD-DISC-MGI-01': {name:'MGI', country:'USA', status:'Historical / unresolved', description:'Vintage U.S. badge preserved through the Clark/Wurlitzer/Halifax fuzz relationship cluster.'},
+    'BLD-DISC-VINTAGETECH-01': {name:'Vintage Technology', country:'Unknown', status:'Boutique / historical', description:'Vintage Technology record linked by Effects Database to the Vox/Jen V8161/V8162 branch.'},
+    'BLD-DISC-SUNHAUS-01': {name:'Sunhaus', country:'Australia', status:'Modern boutique / small batch', description:'Melbourne small-batch effects builder represented by the Djandek Geological Fuzz.'}
   };
   let merged = false;
 
