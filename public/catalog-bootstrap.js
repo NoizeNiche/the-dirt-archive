@@ -1,6 +1,6 @@
 (() => {
   const nativeFetch = window.fetch.bind(window);
-  const batches = ['discovery-01.tsv','discovery-02.tsv','discovery-03.tsv','discovery-04.tsv','discovery-05.tsv','discovery-06.tsv','discovery-07.tsv'];
+  const batches = ['discovery-01.tsv','discovery-02.tsv','discovery-03.tsv','discovery-04.tsv','discovery-05.tsv','discovery-06.tsv','discovery-07.tsv','discovery-08.tsv'];
   const provisionalBuilders = {
     'BLD-DISC-APL-01': {name:'Lectrolab', country:'USA', status:'Historical / rare', description:'Mid-century electronics maker associated with the Fuzz Buzz; Allied marketing/distribution is documented in surviving period material.'},
     'BLD-DISC-APL-02': {name:'Applied Electronics / Applied Audio Products', country:'USA', status:'Historical / OEM attribution', description:'Obscure late-1960s to early-1970s U.S. effects manufacturing lineage associated with several store and house-brand fuzz products.'},
@@ -9,7 +9,7 @@
     'BLD-DISC-KUROSAWA-01': {name:'Kurosawa?', country:'Japan', status:'Provisional attribution', description:'Provisional attribution associated with a rare Japanese The Fuzz specimen carrying Kurosawa/PRAT-7 markings.'},
     'BLD-DISC-JP-UNKNOWN-01': {name:'Unknown Japanese maker', country:'Japan', status:'Unresolved', description:'Unknown Japanese fuzz group preserved from Effects Database relationships; exact maker remains unresolved.'},
     'BLD-DISC-UK-UNKNOWN-01': {name:'Unknown U.K. maker', country:'U.K.', status:'Unresolved', description:'Unresolved British fuzz attribution preserved as a discovery record.'},
-    'BLD-DISC-USSR-UNKNOWN-01': {name:'Unknown USSR maker', country:'USSR', status:'Unresolved', description:'Rare Soviet-era effects leads preserved for later specimen and regional research.'},
+    'BLD-DISC-USSR-UNKNOWN-01': {name:'Unknown USSR maker', country:'USSR', status:'Unresolved', description:'Rare Soviet-era effects leads preserved for regional research.'},
     'BLD-DISC-POLAND-UNKNOWN-01': {name:'Unknown Polish maker', country:'Poland', status:'Unresolved', description:'Obscure Polish fuzz records preserved as discovery leads.'},
     'BLD-DISC-GERMANY-UNKNOWN-01': {name:'Unknown German maker', country:'Germany', status:'Unresolved', description:'Obscure German fuzz records preserved as discovery leads.'},
     'BLD-DISC-JANSEN-01': {name:'Jansen', country:'New Zealand', status:'Historical / rare', description:'New Zealand effects maker associated with the Fuzzman and an important regional early-fuzz history.'},
@@ -19,8 +19,8 @@
     'BLD-DISC-ELECTRONIC-SOUNDS-01': {name:'Electronic Sounds', country:'Italy', status:'Historical / design label', description:'Italian-era Gary Hurst-associated effects label documented in rare UFO-series octave fuzz products.'},
     'BLD-DISC-PIGDOG-01': {name:'Pigdog', country:'U.K.', status:'Boutique / historical preservation', description:'Small Surrey workshop known for hand-made period-inspired fuzz interpretations.'},
     'BLD-DISC-GOLDSOUND-01': {name:'Goldsound', country:'Italy', status:'Historical / badge brand', description:'Italian effects badge appearing within the broader Cosmosound / EF-EL production ecosystem.'},
-    'BLD-DISC-COSMOSOUND-01': {name:'Cosmosound', country:'Italy', status:'Historical / brand', description:'Italian effects brand associated with a broader EF-EL / Calderoni Musica production ecosystem and multiple related badges.'},
-    'BLD-DISC-SILVERSOUND-01': {name:'Silversound', country:'Italy', status:'Historical / badge brand', description:'Italian effects badge associated with the Cosmosound / EF-EL product family.'},
+    'BLD-DISC-COSMOSOUND-01': {name:'Cosmosound', country:'Italy', status:'Historical / brand', description:'Italian effects brand associated with a broader EF-EL / Calderoni Musica production ecosystem.'},
+    'BLD-DISC-SILVERSOUND-01': {name:'Silversound', country:'Italy', status:'Historical / badge brand', description:'Italian effects badge associated with the Cosmosound / EF-EL family.'},
     'BLD-DISC-GIS-01': {name:'G.I.S.', country:'Italy', status:'Historical / badge brand', description:'Italian effects badge associated with the Cosmosound / EF-EL family of dirt and hybrid effects.'},
     'BLD-DISC-EUR-01': {name:'EUR', country:'Italy', status:'Historical / badge brand', description:'Italian badge appearing on effects in the broader EF-EL / Calderoni Musica ecosystem.'},
     'BLD-DISC-SHINEI-01': {name:'Shin-Ei', country:'Japan', status:'Historical / manufacturer', description:'Japanese effects manufacturer behind the Companion/FY-series family and many OEM-branded regional examples.'},
@@ -39,33 +39,30 @@
     'BLD-DISC-APOLLO-01': {name:'Apollo', country:'Japan / export brand', status:'Historical / OEM brand', description:'Brand represented by the No. 843 Distorter in the Japanese wedge-fuzz family.'},
     'BLD-DISC-CRESTWOOD-01': {name:'Crestwood', country:'USA / Japan OEM', status:'Historical / importer-brand', description:'Brand represented by a Japanese wedge-fuzz object linked in the Effects Database family tree.'},
     'BLD-DISC-SEKOVA-01': {name:'Sekova', country:'USA / Japan OEM', status:'Historical / importer-brand', description:'Brand associated with the Model No. 59 Distortion Box in the Japanese wedge-fuzz network.'},
-    'BLD-DISC-CSCATHEY-01': {name:'CS. Cathey', country:'Japan', status:'Historical / rare', description:'Obscure Japanese effects series documented in period material with AS-01, AD-02, AB-03 and AO-05 models.'}
+    'BLD-DISC-CSCATHEY-01': {name:'CS. Cathey', country:'Japan', status:'Historical / rare', description:'Obscure Japanese effects series documented in period material with AS-01, AD-02, AB-03 and AO-05 models.'},
+    'BLD-DISC-SMFUZZ-01': {name:'SM Fuzz', country:'U.K.', status:'Boutique / limited', description:'Scott McKeon boutique fuzz project; preserve as a distinct small-builder record.'},
+    'BLD-DISC-WESTMINSTER-01': {name:'Westminster Effects', country:'USA', status:'Modern boutique', description:'Modern boutique effects builder with multiple fuzz and related gain products.'},
+    'BLD-DISC-LEONE-01': {name:'Leone Effects Co.', country:'USA', status:'Modern boutique', description:'Hand-built effects builder represented by the Super Box fuzz series.'},
+    'BLD-DISC-SHOE-01': {name:'Shoe Pedals', country:'USA', status:'Boutique / one-person', description:'One-person operation associated with Christopher Venter and a long-running boutique effects catalog.'},
+    'BLD-DISC-SPIRAL-01': {name:'Spiral Electric FX', country:'USA', status:'Boutique', description:'Boutique builder represented by hybrid germanium/silicon fuzz products.'},
+    'BLD-DISC-GIGAHEARTS-01': {name:'Gigahearts FX', country:'Unknown', status:'Modern boutique', description:'Modern boutique builder represented here by the Small Cheese fuzz.'},
+    'BLD-DISC-MYTHOS-01': {name:'Mythos Pedals', country:'USA', status:'Modern boutique', description:'Nashville boutique builder with a wide fuzz and overdrive catalog.'},
+    'BLD-DISC-ORION-01': {name:'Orion Effekte', country:'Germany', status:'Boutique / one-person', description:'Jan van Triest one-person German effects workshop.'},
+    'BLD-DISC-MONTGOMERY-01': {name:'Montgomery Appliances', country:'USA', status:'Boutique / one-person', description:'David Gill one-person workshop with a dense fuzz-oriented catalog.'}
   };
   let merged = false;
 
   async function loadDiscovery(base) {
-    const texts = await Promise.all(batches.map(name =>
-      nativeFetch(name).then(r => r.ok ? r.text() : '')
-    ));
+    const texts = await Promise.all(batches.map(name => nativeFetch(name).then(r => r.ok ? r.text() : '')));
     base.pedals = base.pedals || [];
     base.builders = base.builders || [];
     const builderIds = new Set(base.builders.map(b => b.builder_id));
     for (const [id, info] of Object.entries(provisionalBuilders)) {
       if (builderIds.has(id)) continue;
-      base.builders.push({
-        builder_id: id,
-        name: info.name,
-        country: info.country,
-        status: info.status,
-        founded: null,
-        description: info.description,
-        primary_source: 'https://www.effectsdatabase.com/type/fuzz'
-      });
+      base.builders.push({builder_id:id,name:info.name,country:info.country,status:info.status,founded:null,description:info.description,primary_source:'https://www.effectsdatabase.com/type/fuzz'});
       builderIds.add(id);
     }
-    const existing = new Set(base.pedals.map(p =>
-      `${p.primary_builder_id}::${String(p.model_name || '').trim().toLowerCase()}`
-    ));
+    const existing = new Set(base.pedals.map(p => `${p.primary_builder_id}::${String(p.model_name || '').trim().toLowerCase()}`));
     for (const text of texts) {
       for (const line of text.split(/\r?\n/)) {
         if (!line.trim()) continue;
@@ -73,19 +70,7 @@
         const key = `${primary_builder_id}::${String(model_name || '').trim().toLowerCase()}`;
         if (!model_name || existing.has(key)) continue;
         existing.add(key);
-        base.pedals.push({
-          pedal_id,
-          primary_builder_id,
-          model_name,
-          primary_category,
-          subcategory: 'Discovery record',
-          introduced_year: null,
-          discontinued_year: null,
-          production_status: 'Discovery',
-          description: 'Imported from the Dirt Archive discovery layer. Historical normalization and deeper research pending.',
-          archive_status: 'Research',
-          confidence: 'Discovery'
-        });
+        base.pedals.push({pedal_id,primary_builder_id,model_name,primary_category,subcategory:'Discovery record',introduced_year:null,discontinued_year:null,production_status:'Discovery',description:'Imported from the Dirt Archive discovery layer. Historical normalization and deeper research pending.',archive_status:'Research',confidence:'Discovery'});
       }
     }
     return base;
@@ -99,10 +84,7 @@
       const base = await response.clone().json();
       const data = await loadDiscovery(base);
       merged = true;
-      return new Response(JSON.stringify(data), {
-        status: 200,
-        headers: {'Content-Type': 'application/json'}
-      });
+      return new Response(JSON.stringify(data), {status:200,headers:{'Content-Type':'application/json'}});
     } catch (err) {
       console.error('Discovery layer failed to load:', err);
       return response;
