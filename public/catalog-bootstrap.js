@@ -1,6 +1,6 @@
 (() => {
   const nativeFetch = window.fetch.bind(window);
-  const batches = ['discovery-01.tsv','discovery-02.tsv','discovery-03.tsv','discovery-04.tsv','discovery-05.tsv','discovery-06.tsv'];
+  const batches = ['discovery-01.tsv','discovery-02.tsv','discovery-03.tsv','discovery-04.tsv','discovery-05.tsv','discovery-06.tsv','discovery-07.tsv'];
   const provisionalBuilders = {
     'BLD-DISC-APL-01': {name:'Lectrolab', country:'USA', status:'Historical / rare', description:'Mid-century electronics maker associated with the Fuzz Buzz; Allied marketing/distribution is documented in surviving period material.'},
     'BLD-DISC-APL-02': {name:'Applied Electronics / Applied Audio Products', country:'USA', status:'Historical / OEM attribution', description:'Obscure late-1960s to early-1970s U.S. effects manufacturing lineage associated with several store and house-brand fuzz products.'},
@@ -22,7 +22,24 @@
     'BLD-DISC-COSMOSOUND-01': {name:'Cosmosound', country:'Italy', status:'Historical / brand', description:'Italian effects brand associated with a broader EF-EL / Calderoni Musica production ecosystem and multiple related badges.'},
     'BLD-DISC-SILVERSOUND-01': {name:'Silversound', country:'Italy', status:'Historical / badge brand', description:'Italian effects badge associated with the Cosmosound / EF-EL product family.'},
     'BLD-DISC-GIS-01': {name:'G.I.S.', country:'Italy', status:'Historical / badge brand', description:'Italian effects badge associated with the Cosmosound / EF-EL family of dirt and hybrid effects.'},
-    'BLD-DISC-EUR-01': {name:'EUR', country:'Italy', status:'Historical / badge brand', description:'Italian badge appearing on effects in the broader EF-EL / Caldironi Musica ecosystem.'}
+    'BLD-DISC-EUR-01': {name:'EUR', country:'Italy', status:'Historical / badge brand', description:'Italian badge appearing on effects in the broader EF-EL / Calderoni Musica ecosystem.'},
+    'BLD-DISC-SHINEI-01': {name:'Shin-Ei', country:'Japan', status:'Historical / manufacturer', description:'Japanese effects manufacturer behind the Companion/FY-series family and many OEM-branded regional examples.'},
+    'BLD-DISC-COMPANION-01': {name:'Companion', country:'Japan / export brand', status:'Historical / OEM brand', description:'Consumer-facing brand associated with the Shin-Ei FY-2 family.'},
+    'BLD-DISC-AVORA-01': {name:'Avora', country:'Japan / export brand', status:'Historical / OEM brand', description:'Rare FY-2-family export badge preserved as a separate branded object.'},
+    'BLD-DISC-JH-EXPERIENCE-01': {name:'J.H. Experience', country:'Japan / export brand', status:'Historical / OEM brand', description:'FY-2-family branded example documented in Effects Database.'},
+    'BLD-DISC-JAX-01': {name:'JAX', country:'Japan / export brand', status:'Historical / OEM brand', description:'Export badge appearing on Shin-Ei-family fuzz products.'},
+    'BLD-DISC-KIMBARA-01': {name:'Kimbara', country:'Japan / export brand', status:'Historical / OEM brand', description:'Export badge appearing on FY-2-family fuzz products.'},
+    'BLD-DISC-SUZUKI-01': {name:'Suzuki', country:'Mexico market / Japan OEM', status:'Historical / regional badge', description:'Rare Suzuki-branded FY-2 example documented as a 1970s Mexico-market pedal.'},
+    'BLD-DISC-TELESTAR-01': {name:'Tele-Star', country:'USA / Japan OEM', status:'Historical / importer-brand', description:'American importer/distributor brand with Japanese-made effects, including FY-2-family and wedge-fuzz examples.'},
+    'BLD-DISC-TEMPO-01': {name:'Tempo', country:'Japan / export brand', status:'Historical / OEM brand', description:'Export badge appearing on Shin-Ei-family fuzz products.'},
+    'BLD-DISC-THOMAS-01': {name:'Thomas', country:'Japan / export brand', status:'Historical / OEM brand', description:'Rare branded FY-2-family example preserved for future specimen research.'},
+    'BLD-DISC-ZENTA-01': {name:'Zenta', country:'Japan / export brand', status:'Historical / OEM brand', description:'OEM-branded FY-2 example documented by Effects Database.'},
+    'BLD-DISC-IDEAL-01': {name:'Ideal', country:'USA / Japan OEM', status:'Historical / importer-brand', description:'American brand associated with a rare Japanese wedge fuzz in the Ideal/Sekova/Greco family.'},
+    'BLD-DISC-GRECO-01': {name:'Greco', country:'Japan', status:'Historical / brand', description:'Japanese guitar/effects brand represented here by the No. 35 Haztone wedge-fuzz family.'},
+    'BLD-DISC-APOLLO-01': {name:'Apollo', country:'Japan / export brand', status:'Historical / OEM brand', description:'Brand represented by the No. 843 Distorter in the Japanese wedge-fuzz family.'},
+    'BLD-DISC-CRESTWOOD-01': {name:'Crestwood', country:'USA / Japan OEM', status:'Historical / importer-brand', description:'Brand represented by a Japanese wedge-fuzz object linked in the Effects Database family tree.'},
+    'BLD-DISC-SEKOVA-01': {name:'Sekova', country:'USA / Japan OEM', status:'Historical / importer-brand', description:'Brand associated with the Model No. 59 Distortion Box in the Japanese wedge-fuzz network.'},
+    'BLD-DISC-CSCATHEY-01': {name:'CS. Cathey', country:'Japan', status:'Historical / rare', description:'Obscure Japanese effects series documented in period material with AS-01, AD-02, AB-03 and AO-05 models.'}
   };
   let merged = false;
 
