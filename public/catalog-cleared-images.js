@@ -24,6 +24,31 @@
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Ibanez_ts9_tube_screamer.jpg',
       page:'https://commons.wikimedia.org/wiki/File:Ibanez_ts9_tube_screamer.jpg',
       credit:'Mataresephotos · CC BY 3.0 US'
+    },
+    'TS808 Tube Screamer': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Ibanez_TS808_Tube_Screamer_%2848588080527%29_cropped.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:Ibanez_TS808_Tube_Screamer_%2848588080527%29_%28cropped%29.jpg',
+      credit:'Guitar Chalk · CC BY 2.0'
+    },
+    'Tube Screamer': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Ibanez_TS808_Tube_Screamer_%2848588080527%29_cropped.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:Ibanez_TS808_Tube_Screamer_%2848588080527%29_%28cropped%29.jpg',
+      credit:'Guitar Chalk · CC BY 2.0'
+    },
+    'Big Muff Pi': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Electro_Harmonix_Big_Muff.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:Electro_Harmonix_Big_Muff.jpg',
+      credit:'Skimel · CC BY-SA 4.0'
+    },
+    'RAT': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Proco-rat.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:Proco-rat.jpg',
+      credit:'Jazzman · Wikimedia Commons · see file page for license'
+    },
+    'Fuzz Face': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Dallas_Arbiter_Fuzz_Face.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:Dallas_Arbiter_Fuzz_Face.jpg',
+      credit:'sploshette · CC BY 2.0'
     }
   };
   const esc=v=>String(v??'').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
