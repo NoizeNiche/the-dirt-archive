@@ -18,7 +18,7 @@ The project emphasizes:
 
 ## Current research program
 
-The fuzz section is the first major research program. The repository now contains a structured discovery census covering foundational vintage fuzz, British OEM relationships, Japanese OEM families, modern boutique builders, and obscure/defunct vintage builders.
+The fuzz section is the first major research program. The repository now contains a structured discovery census covering foundational vintage fuzz, British OEM relationships, Japanese OEM families, modern boutique builders, obscure/defunct vintage builders, and broad modern boutique catalog lineups.
 
 Research files live under `/research` and are deliberately kept separate from the public website assets.
 
@@ -30,8 +30,10 @@ Current phases include:
 - `fuzz-japanese-oem-phase-1.md` — Japanese fuzz families, OEM relationships and rebrand network
 - `fuzz-boutique-preservation-phase-1.md` — boutique/defunct builder preservation research
 - `fuzz-obscure-vintage-phase-2a.md` — Mosrite, Rosac/Sierra, Guild, Maestro, Schaller OEMs, Elka, Baldwin-Burns, JEN/Vox, Kay, Hohner and related historical branches
+- `catalog-completeness-phase-22.md` — Empress, Guild, DenTone, Montgomery Appliances and Blue Skool Records catalog discovery
+- `catalog-completeness-phase-23.md` — EarthQuaker Devices, Death By Audio, Electronic Audio Experiments, Black Arts Toneworks and Fulltone catalog discovery, plus current-product additions
 
-A candidate record is not automatically a verified public archive record. Promotion requires evidence review, naming/relationship review and, where applicable, production-variation research.
+A candidate or discovery record is not automatically a verified public archive record. Promotion requires evidence review, naming/relationship review and, where applicable, production-variation research.
 
 ## Editorial boundary
 
