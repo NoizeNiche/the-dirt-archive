@@ -23,22 +23,17 @@ The assistant cannot see an exact platform context/data-use quota or countdown. 
 - Phase 28: BSM, VFE Pedals, Blackout Effectors, Fredric Effects, Basic Audio; 146 unique discovery records after extension deduplication.
 - Phase 29: Electro-Harmonix, Prescription Electronics, D*A.M., Abominable Electronics; 192 discovery records.
 - Phase 30: SkinPimp, M.A.S.F., T. Jauernig Electronics, Rastop Designs, Compulsive Audio, Main.Ace.FX, GoosoniqueWorx, 1969 Effects, Pigdog; 115 discovery records.
+- Phase 31: AnaSounds, Leila Vintage Electronics, Jamés Pedals, Loophole Pedals, Orion Effekte, G.S. Wyllie; 82 raw discovery records, with duplicate-safe extension merging.
 
 ## Verified layer currently preserved
 The public verified product layer currently contains six deeply verified records: Fulltone OCD, Fulltone Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword, EAE Halberd. Do not overwrite these with discovery-only claims.
 
 ## Immediate next queue
 Priority remaining builder passes from the working audit queue:
-- AnaSounds
-- Leila Vintage Electronics
-- Jamés Pedals
-- Loophole Pedals
 - Klinger Custom Pedals
-- Orion Effekte
-- G.S. Wyllie
 - additional historical boutique builders discovered through Effects Database brand indexes
-
-Then audit large modern builders not yet fully enumerated, using current official catalogs plus historical sources. Electro-Harmonix also remains a separate historical brand/era audit despite its Phase 29 broad enumeration.
+- large modern builders not yet fully enumerated, using current official catalogs plus historical sources
+- Electro-Harmonix historical brand/product-era audit remains separate from the Phase 29 broad enumeration
 
 ## Product research later
 For each builder after enumeration: split model families from editions/versions; identify earliest/latest evidence; document enclosure/artwork/control/label changes; record high-level diagnostic component changes only where historically useful; map OEM, licensing, collaborations, rebrands, and derived designs.
@@ -48,3 +43,5 @@ For each important product, seek at least one front image lead during enumeratio
 
 ## Last phase notes
 Phase 30 surfaced several strong future lineage cases: SkinPimp's Tone Bender family and custom work; T. Jauernig's Greg Koch and T-Rex licensing relationships; GoosoniqueWorx's limited Seventheaven runs; 1969 Effects' Tone Bender MkII relationship; Pigdog's Tone Bender MkI/MkII and custom lineage. These remain discovery observations, not canonical claims.
+
+Phase 31 surfaced a few additional high-value seams: AnaSounds has historical and current catalogs with wooden/bamboo enclosure eras and explicit saturation-family naming; Loophole's history spans modification/rehouse services into original finished pedals, with a documented Grey Matter v1/v2 progression; Orion has a 30-product historical database roster plus a smaller active official catalog; G.S. Wyllie has highly individual cast-enclosure work and explicit historical-derived relationships such as Rising Sun and Wylo; Leila and Jamés are small enough to be good candidates for eventual near-complete product-level research.
