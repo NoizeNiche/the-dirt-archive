@@ -31,6 +31,7 @@ The assistant cannot see an exact platform context/data-use quota or countdown. 
 - Phase 36: British Pedal Company, Jerms, Anarchy Audio Australia, Ananashead FX, Herald Electronics, StoneFly Effects; 79 discovery records and 12 reference-only image leads.
 - Phase 37: Caroline Guitar Company, Rainger FX, Red Panda, Pladask Elektrisk, drolo, JPTR FX; 109 discovery records and 12 reference-only image leads.
 - Phase 38: Shin-Ei, Guyatone, Jen Elettronica, Univox, Maxon; 93 discovery records and 12 reference-only image leads.
+- Phase 39: Mad Professor, BearFoot FX, One Control, Spaceman Effects, Foxpedal; 178 discovery records and 10 reference-only image leads.
 
 ## Verified layer currently preserved
 The public verified product layer currently contains six deeply verified records: Fulltone OCD, Fulltone Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword, EAE Halberd. Do not overwrite these with discovery-only claims.
@@ -38,14 +39,15 @@ The public verified product layer currently contains six deeply verified records
 ## Thumbnail/media system
 Phase-specific media registries are loaded after the base catalog. New images are only eligible for public card rendering when rights status and republishing decision are explicitly cleared. Reference-only image leads remain useful research breadcrumbs but are not silently published.
 
-Current seeded reference leads include the earlier K-family, classic fuzz and boutique examples through Phase 37, plus Phase 38 leads for Shin-Ei Uni-Fuzz, Shin-Ei WF-24, Guyatone FZ-2000, Guyatone TD-1, Jen FZ-III, Jen Cosmic Sound, Univox U-1095, Univox U-250, Univox/Foxx Fuzz-Wah-Volume, and Maxon booster/dirt references. Phase 38 image leads remain rights-pending.
+Current seeded reference leads include the earlier K-family, classic fuzz and boutique examples through Phase 38, plus Phase 39 leads for Mad Professor Fire Red Fuzz, Royal Blue Overdrive, BearFoot Honey Bee/Honey Beest, One Control Baltic Blue Fuzz, Baby Blue OD, Spaceman Sputnik, Gemini III, Foxpedal Defector, and The Kingdom. Phase 39 image leads remain rights-pending.
 
 ## Immediate next queue
 Continue mining the remaining historical and boutique builder universe, prioritizing:
-- Japanese historical manufacturers and OEM/import brands not yet enumerated, including remaining catalog-rich 1960s-80s names.
+- remaining Japanese historical manufacturers and OEM/import brands not yet enumerated, including catalog-rich 1960s-80s names.
 - Australian and New Zealand boutique builders still absent.
 - Smaller European builders and obscure UK historical replicas.
-- Large modern builders with known historical catalogs such as BearFoot FX, Mad Professor, One Control, Stomp Under Foot, and related BJF-connected lineages where not already present.
+- BJF-connected and Nordic lineages not yet fully enumerated, including original BJFe and adjacent collaborations where source evidence supports a distinct builder/catalog record.
+- Large modern builders with known historical catalogs, plus important defunct boutique brands such as Foxpedal that need preservation while evidence remains discoverable.
 - Separate Electro-Harmonix historical brand/product-era audit remains open.
 - Continue discovering visual references during enumeration, but keep public-republish decisions separate from discovery.
 
@@ -55,10 +57,7 @@ For each builder after enumeration: split model families from editions/versions;
 ## Image research later
 For each important product, seek at least one front image lead during enumeration. When feasible add rear/side/top/packaging/catalog leads for historically diagnostic products. Store image page URL, direct image URL when available, photographer/uploader, source type, license/permission status, required credit, and republishing status.
 
-## Phase 38 notes
-Phase 38 expanded the Japanese and Italian historical map. Effects Database currently lists Shin-Ei at 20 products, Guyatone at 26, Jen Elettronica at 13, Univox at 26, and Maxon at 8. Shin-Ei's catalog includes Uni-Fuzz, Uni-Vibe, WF-24 and OB-28 and its database notes the Shōwa date-stamp convention; current Shin-Ei also markets a Companion FY-2 reproduction. Guyatone adds the FS family, FZ-2000, TD-1 and TO-2 among a wider documented catalog. Jen Elettronica's record is especially important for OEM history: it is a Pescara, Italy company whose products include its own FZ-III plus multiple wah/fuzz products, and other historical sources document its contracted production for Vox and subsequent brand relationships. Univox's 26-product record includes U-1095 Super-Fuzz, U-250 Uni-Fuzz and an explicitly documented fOXX OEM Fuzz & Wa & Volume variant. Maxon's current Effects Database snapshot is only eight products, which is treated as a catalog snapshot rather than a claim of total historical output; separate historical image/search evidence shows additional vintage D&S-era products for future research. These remain discovery-level observations pending product-by-product verification.
+## Phase 39 notes
+Phase 39 expanded the BJF-connected and modern boutique map. Effects Database currently lists Mad Professor at 35 products, BearFoot FX at 27, One Control at 53, Spaceman Effects at 42, and Foxpedal at 21. Mad Professor's timeline places pedal production in late 2006 and identifies Harri Koski, Jukka Mönkkönen and designer Bjorn Juhl; its catalog includes Fire Red Fuzz, Sweet Honey Overdrive, Royal Blue Overdrive, Simble Mk2 and a broad supporting lineup. BearFoot is documented as a Donner Rusk collaboration with BJF Electronics, opened in 2011, with a lineup spanning Honey Bee, Honey Beest, Model G/H, Dyna Red, Candy Apple and several fuzz/boost families. One Control's timeline starts in 2010 with the Mosquite Blender and identifies later BJF collaboration work; its 53-product snapshot spans BJF-designed mini pedals, BJFe-derived recreations, loop systems and utility products. Spaceman's 42-product snapshot now captures a particularly rich fuzz/boost/overdrive family including Sputnik I/II/IIb/III, Gemini III/IV, Spacerocket, Rumblefuzz, Titan II, Charon, Polaris, Apollo and multiple harmonic boosters; current Spaceman sources also show distinct handmade and Cadet production paths. Foxpedal's 21-product snapshot includes Defector, Foxtail, Kingdom/Kingdom Combo variants, The City/City V2, The Kingdom, Wrath and several non-dirt products, and Effects Database records an April 2023 company update about phasing out.
 
-## Source notes
-Shin-Ei's Effects Database page lists 20 products and explains its date-stamp convention; Guyatone lists 26 products; Jen Elettronica lists 13; Univox lists 26; Maxon lists 8 in its current Effects Database snapshot. fileciteturn500505view0L179-L192 fileciteturn500505view1L179-L196 fileciteturn500505view2L179-L190 fileciteturn500505view3L179-L186 fileciteturn571772view0L179-L193
-
-The historical relationship notes are supported by the Effects Database entries for Jen, Univox, and Shin-Ei, plus the documented WEM and Tone Bender historical sources used during the same research pass. citeturn362936search0turn362936search2turn362936search5turn139907search1turn254869search1
+Phase 39 image work added 10 front-image reference leads from manufacturer, retailer and marketplace pages. The leads are provenance records only and remain rights-pending; no new Phase 39 image was promoted to public display.
