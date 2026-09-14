@@ -1,0 +1,44 @@
+builder_name	region	era_bucket	dirt_evidence	research_status	source_refs	notes
+John Hornby Skewes	UK	1960s-1970s	Confirmed fuzz products including Zonk Machine, Zonk II and Shatterbox	DISCOVERED	https://fuzzboxes.org/zonkmachine ; https://fuzzboxes.org/zonkii	Distributor/private-label with outsourced production; deserves OEM lineage audit.
+WEM	UK	1960s-1970s	Confirmed Rush Pep Box and Project V fuzz	DISCOVERED	https://fuzzboxes.org/projectv	Major early British effects maker; product catalog needs systematic enumeration.
+Selmer (UK)	UK	1960s-1970s	Confirmed Buzz Tone and later Fuzz-wah	DISCOVERED	https://fuzzboxes.org/buzztone ; https://www.effectsdatabase.com/model/selmer/buzztone	Separate from Selmer US/instrument identities; investigate complete effects range.
+Jennings Electronic Developments	UK	1960s-1970s	Confirmed rotary and treadle fuzz pedals	DISCOVERED	https://fuzzboxes.org/jenningsfuzz	Distinct post-JMI Jennings effects business; likely obscure models beyond fuzz.
+Wilsic Sound	UK	1960s-1970s	Confirmed fuzz products and outsourced Hornby Skewes production	DISCOVERED	https://fuzzboxes.org/zonkii	Important OEM/manufacturer relationship with Hornby Skewes.
+Shatterbox	UK	1960s-1970s	Confirmed Hornby Skewes multi-effect fuzz unit	DISCOVERED	https://fuzzboxes.org/zonkii	Treat as product/brand lead; determine builder attribution before creating canonical builder record.
+Elka	Italy	1960s-1980s	Known Italian electronic instrument/effects maker requiring dirt-product audit	CENSUS_ONLY	https://www.proaudiokb.com/brands	Investigate fuzz/distortion/booster products and relationship to JEN-era Italian manufacturing.
+JEN	Italy	1960s-1980s	Confirmed Italian effects production and Vox-linked products	CENSUS_ONLY	https://www.proaudiokb.com/brands	Requires full effects catalog and OEM/private-label mapping.
+EKO	Italy	1960s-1980s	Italian music electronics maker; effects history requires audit	CENSUS_ONLY	https://www.ekoguitars.it/en/company/	Do not assume every EKO electronic product is a pedal; verify dirt products specifically.
+FBT	Italy	1960s-1980s	Italian electronics maker with guitar/audio equipment; pedal evidence to verify	CENSUS_ONLY	https://www.proaudiokb.com/brands	Potentially relevant to Italian OEM ecosystem; verify before inclusion in main catalog.
+Davoli-Krundaal	Italy	1960s-1970s	Major Italian electronic instrument maker; effects evidence requires audit	CENSUS_ONLY	https://www.proaudiokb.com/brands	Search period catalogs for fuzz/distortion/boost products.
+Framus	Germany	1960s-1970s	Effects/pedal evidence present in archival databases	CENSUS_ONLY	https://www.proaudiokb.com/brands	Separate instrument/amp history from verified dirt pedals.
+Klemt / Echolette	Germany	1960s-1970s	Archival effects evidence exists	CENSUS_ONLY	https://www.proaudiokb.com/brands	Potential effects maker/OEM; requires catalog verification.
+Arion	Japan	1970s-1990s	Archival pedal manufacturer record exists	CENSUS_ONLY	https://www.proaudiokb.com/brands	Audit dirt products and manufacturing relationships.
+Westbury	Japan	1970s-1980s	Archival effects pedal brand record exists	CENSUS_ONLY	https://www.proaudiokb.com/brands	Likely private-label/OEM context; identify factory where evidence supports it.
+Rocktek	Unknown/International	1980s-1990s	Archival guitar effects brand record exists	CENSUS_ONLY	https://www.proaudiokb.com/brands	Origin/manufacturer attribution requires verification.
+Gretsch	USA	1960s-1980s	Archival fuzz pedal records exist	CENSUS_ONLY	https://www.proaudiokb.com/brands	Instrument brand with effects history; investigate OEM relationships.
+Jordan Electronics	USA	1960s	Confirmed fuzz pedal products	CENSUS_ONLY	https://www.proaudiokb.com/brands	Important early US fuzz maker; full dirt catalog needed.
+Foxx	USA	1960s-1970s	Confirmed fuzz/octave pedal record	CENSUS_ONLY	https://www.proaudiokb.com/brands	Investigate complete dirt lineup and production history.
+Mosrite	USA	1960s-1970s	Confirmed fuzz pedal record	CENSUS_ONLY	https://www.proaudiokb.com/brands	Audit fuzz, distortion and private-label relationships.
+Tychobrahe	USA	1960s-1970s	Confirmed pedal effects records	CENSUS_ONLY	https://www.proaudiokb.com/brands	Strong historical importance; catalog from period advertisements and specialist sources.
+Dan Armstrong	USA	1960s-1970s	Confirmed guitar effects pedal products	CENSUS_ONLY	https://www.proaudiokb.com/brands	Includes plug-in effects; distinguish dirt products from other modules.
+Danelectro	USA	1960s and later	Historical fuzz/effects records exist	CENSUS_ONLY	https://www.proaudiokb.com/brands	Separate vintage Danelectro from later reissues and modern pedals.
+DOD	USA	1970s-2000s	Large archival effects catalog	CENSUS_ONLY	https://www.proaudiokb.com/brands	High-priority large-builder census candidate; enumerate all dirt models later.
+DeArmond	USA	1960s	Historical effects evidence exists	CENSUS_ONLY	https://www.proaudiokb.com/brands	Likely OEM-heavy; audit fuzz/boost products and ownership history.
+Guild	USA	1960s-1970s	Archival guitar effects/pedal evidence exists	CENSUS_ONLY	https://www.proaudiokb.com/brands	Investigate effects line and likely OEM manufacturers.
+Kay	USA	1960s-1970s	Archival guitar effects and amplifier brand	CENSUS_ONLY	https://www.proaudiokb.com/brands	Search for dirt pedals and branded effects units.
+Valco	USA	1960s-1970s	Archival effects evidence exists	CENSUS_ONLY	https://www.proaudiokb.com/brands	Potential overlap with Supro/National/Airline families; requires lineage audit.
+Silvertone	USA	1960s-1970s	Archival effects brand/private-label records	CENSUS_ONLY	https://www.proaudiokb.com/brands	Private-label/OEM history is likely central.
+Airline / Montgomery Ward	USA	1960s-1970s	Archival effects/private-label records	CENSUS_ONLY	https://www.proaudiokb.com/brands	Do not merge retailer brand with factory until OEM evidence is established.
+Electro-Harmonix	USA	1960s-present	Major effects manufacturer with extensive dirt catalog	DISCOVERED	https://www.effectsdatabase.com/ ; https://www.proaudiokb.com/brands	Already partially cataloged; return during builder-catalog completion pass.
+Ibanez	Japan	1970s-present	Major effects brand including Tube Screamer family	DISCOVERED	https://www.proaudiokb.com/brands	Already represented; catalog completion and Maxon relationship remain important.
+Maxon	Japan	1970s-present	Major effects manufacturer; Ibanez OEM relationship	DISCOVERED	https://www.proaudiokb.com/brands	Separate builder identity from Ibanez brand records.
+BOSS	Japan	1970s-present	Major effects manufacturer	DISCOVERED	https://www.proaudiokb.com/brands	Already represented; enormous catalog requires breadth-first enumeration.
+MXR	USA	1970s-present	Major effects manufacturer	DISCOVERED	https://www.proaudiokb.com/brands	Already represented; complete dirt inventory still needed.
+ProCo	USA	1970s-present	Major effects manufacturer	DISCOVERED	https://www.proaudiokb.com/brands	Already represented; RAT family deep research retained for later pass.
+Analog Man	USA	1990s-present	Confirmed boutique builder of overdrive/fuzz products	DISCOVERED	https://boutiquegear.com/makers/pedals/	Current boutique builder census candidate; product enumeration later.
+Barber Electronics	USA	1990s-present	Confirmed boutique builder of overdrive/fuzz products	DISCOVERED	https://boutiquegear.com/makers/pedals/	Current boutique builder census candidate.
+Caroline Guitar Company	USA	2000s-present	Confirmed boutique pedal builder including distortion products	DISCOVERED	https://boutiquegear.com/makers/pedals/	Already partially represented; catalog completion later.
+Dwarfcraft Devices	USA	2000s-2020s	Confirmed boutique effects builder	DISCOVERED	https://mynewmicrophone.com/full-list-guitar-effects-pedal-brands-manufacturers/ 	Need dirt-only product inventory; builder may be inactive.
+EarthQuaker Devices	USA	2000s-present	Confirmed builder with dirt products	DISCOVERED	https://mynewmicrophone.com/full-list-guitar-effects-pedal-brands-manufacturers/ 	High-priority current builder; broad catalog requires enumeration.
+King Tone Guitar	USA	1990s-present	Confirmed boutique builder with fuzz/overdrive	DISCOVERED	https://mynewmicrophone.com/full-list-guitar-effects-pedal-brands-manufacturers/ 	High-value vintage-style boutique builder.
+Dusky Electronics	USA	2000s-present	Confirmed builder with fuzz/overdrive/distortion	DISCOVERED	https://mynewmicrophone.com/full-list-guitar-effects-pedal-brands-manufacturers/ 	Current boutique builder; catalog completion later.
