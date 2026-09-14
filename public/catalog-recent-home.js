@@ -1,11 +1,11 @@
 (() => {
   // Rolling homepage activity rail. Keep newest-first and update this list with each meaningful archive release.
   const RECENT_HOME_MODELS = [
-    'Morley Power Wah Fuzz PWF',
-    'Jennings FP.1 Fuzz',
-    'EKO Multitone',
-    'fOXX Clean Machine',
-    'OD-909 Overdrive Pro'
+    'Moreschi Octave Fuzz',
+    'Moreschi Wah-Fuzz',
+    'JEN Jumbo Fuzz',
+    'Selmer Fuzz-Wah',
+    'Herald Electronics AM-44A Fuzz Master'
   ];
 
   function recentHomeRecords() {
@@ -13,7 +13,6 @@
     return wanted.slice(0, 5);
   }
 
-  // Replace only the homepage renderer. All inner routes and archive data handling remain untouched.
   const originalHome = home;
   home = function recentHome() {
     const bs = [...DATA.builders]
