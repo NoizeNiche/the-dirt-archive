@@ -18,7 +18,7 @@ The project emphasizes:
 
 ## Current research program
 
-The fuzz section is the first major research program. The repository now contains a structured discovery census covering foundational vintage fuzz, British OEM relationships, Japanese OEM families, and modern boutique builders.
+The fuzz section is the first major research program. The repository now contains a structured discovery census covering foundational vintage fuzz, British OEM relationships, Japanese OEM families, modern boutique builders, and obscure/defunct vintage builders.
 
 Research files live under `/research` and are deliberately kept separate from the public website assets.
 
@@ -27,6 +27,9 @@ Current phases include:
 - `fuzz-discovery-phase-1.md` — broad builder/model discovery and research priorities
 - `fuzz-census-phase-2-vintage.md` — foundational vintage and OEM research
 - `fuzz-candidates-phase-2.json` — structured candidate records for eventual archive promotion
+- `fuzz-japanese-oem-phase-1.md` — Japanese fuzz families, OEM relationships and rebrand network
+- `fuzz-boutique-preservation-phase-1.md` — boutique/defunct builder preservation research
+- `fuzz-obscure-vintage-phase-2a.md` — Mosrite, Rosac/Sierra, Guild, Maestro, Schaller OEMs, Elka, Baldwin-Burns, JEN/Vox, Kay, Hohner and related historical branches
 
 A candidate record is not automatically a verified public archive record. Promotion requires evidence review, naming/relationship review and, where applicable, production-variation research.
 
@@ -36,7 +39,7 @@ The archive documents historically meaningful distinctions, including component 
 
 ## Site architecture
 
-The public website lives in `/public`. Project documentation, research, database-development files and deployment configuration remain at the repository root.
+The public website lives in `/public`. Project documentation, research/database-development files and deployment configuration remain at the repository root.
 
 ## Long-term structure
 
