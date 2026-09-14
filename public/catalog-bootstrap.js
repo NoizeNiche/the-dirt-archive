@@ -1,28 +1,28 @@
 (() => {
   const nativeFetch = window.fetch.bind(window);
-  const batches = ['discovery-01.tsv','discovery-02.tsv','discovery-03.tsv','discovery-04.tsv','discovery-05.tsv','discovery-06.tsv','discovery-07.tsv','discovery-08.tsv','discovery-09.tsv'];
+  const batches = ['discovery-01.tsv','discovery-02.tsv','discovery-03.tsv','discovery-04.tsv','discovery-05.tsv','discovery-06.tsv','discovery-07.tsv','discovery-08.tsv','discovery-09.tsv','discovery-10.tsv'];
   const provisionalBuilders = {
-    'BLD-DISC-APL-01': {name:'Lectrolab', country:'USA', status:'Historical / rare', description:'Mid-century electronics maker associated with the Fuzz Buzz; Allied marketing/distribution is documented in surviving period material.'},
-    'BLD-DISC-APL-02': {name:'Applied Electronics / Applied Audio Products', country:'USA', status:'Historical / OEM attribution', description:'Obscure late-1960s to early-1970s U.S. effects manufacturing lineage associated with several store and house-brand fuzz products.'},
-    'BLD-DISC-LR-01': {name:'Lou Rose Music Center', country:'USA', status:'Historical / store brand', description:'New Jersey music-store brand associated with the Lou Rose Combo-Fuzz, attributed to Applied Audio Products.'},
-    'BLD-DISC-CONRAD-01': {name:'Conrad', country:'USA', status:'Historical / house brand', description:'Chicago-distributed house brand with surviving late-1960s effects records and unresolved OEM relationships.'},
-    'BLD-DISC-KUROSAWA-01': {name:'Kurosawa?', country:'Japan', status:'Provisional attribution', description:'Provisional attribution associated with a rare Japanese The Fuzz specimen carrying Kurosawa/PRAT-7 markings.'},
-    'BLD-DISC-JP-UNKNOWN-01': {name:'Unknown Japanese maker', country:'Japan', status:'Unresolved', description:'Unknown Japanese fuzz group preserved from Effects Database relationships; exact maker remains unresolved.'},
-    'BLD-DISC-UK-UNKNOWN-01': {name:'Unknown U.K. maker', country:'U.K.', status:'Unresolved', description:'Unresolved British fuzz attribution preserved as a discovery record.'},
-    'BLD-DISC-USSR-UNKNOWN-01': {name:'Unknown USSR maker', country:'USSR', status:'Unresolved', description:'Rare Soviet-era effects leads preserved for regional research.'},
-    'BLD-DISC-POLAND-UNKNOWN-01': {name:'Unknown Polish maker', country:'Poland', status:'Unresolved', description:'Obscure Polish fuzz records preserved as discovery leads.'},
-    'BLD-DISC-GERMANY-UNKNOWN-01': {name:'Unknown German maker', country:'Germany', status:'Unresolved', description:'Obscure German fuzz records preserved as discovery leads.'},
-    'BLD-DISC-JANSEN-01': {name:'Jansen', country:'New Zealand', status:'Historical / rare', description:'New Zealand effects maker associated with the Fuzzman and an important regional early-fuzz history.'},
-    'BLD-DISC-HERALD-01': {name:'Herald Electronics', country:'Japan', status:'Historical / OEM', description:'Japanese effects manufacturer associated with the AM-44A Fuzz Master and multiple regional rebrandings.'},
-    'BLD-DISC-EFEL-01': {name:'EF-EL / Calderoni Musica', country:'Italy', status:'Historical / OEM', description:'Italian effects manufacturer associated with Vox-branded and other early transistor fuzz products.'},
-    'BLD-DISC-MORESCHI-01': {name:'Cav. Giovanni Moreschi', country:'Italy', status:'Historical / rare', description:'Italian accordion maker that briefly produced guitar effects including the Moreschi Octave Fuzz.'},
-    'BLD-DISC-ELECTRONIC-SOUNDS-01': {name:'Electronic Sounds', country:'Italy', status:'Historical / design label', description:'Italian-era Gary Hurst-associated effects label documented in rare UFO-series octave fuzz products.'},
-    'BLD-DISC-PIGDOG-01': {name:'Pigdog', country:'U.K.', status:'Boutique / historical preservation', description:'Small Surrey workshop known for hand-made period-inspired fuzz interpretations.'},
-    'BLD-DISC-GOLDSOUND-01': {name:'Goldsound', country:'Italy', status:'Historical / badge brand', description:'Italian effects badge appearing within the broader Cosmosound / EF-EL production ecosystem.'},
-    'BLD-DISC-COSMOSOUND-01': {name:'Cosmosound', country:'Italy', status:'Historical / brand', description:'Italian effects brand associated with a broader EF-EL / Calderoni Musica production ecosystem.'},
-    'BLD-DISC-SILVERSOUND-01': {name:'Silversound', country:'Italy', status:'Historical / badge brand', description:'Italian effects badge associated with the Cosmosound / EF-EL family.'},
-    'BLD-DISC-GIS-01': {name:'G.I.S.', country:'Italy', status:'Historical / badge brand', description:'Italian effects badge associated with the Cosmosound / EF-EL family of dirt and hybrid effects.'},
-    'BLD-DISC-EUR-01': {name:'EUR', country:'Italy', status:'Historical / badge brand', description:'Italian badge appearing on effects in the broader EF-EL / Calderoni Musica ecosystem.'},
+    'BLD-DISC-GAREN-01': {name:'Garen', country:'France', status:'Historical / rare', description:'Paris-based French electronics maker associated with the 1960s Chambre de Distorsion / Garen Distortion.'},
+    'BLD-DISC-SCHALLER-01': {name:'Schaller', country:'West Germany', status:'Historical / manufacturer', description:'West German effects manufacturer whose fuzz line also appears under several OEM and house-brand names.'},
+    'BLD-DISC-HOFNER-01': {name:'Höfner', country:'West Germany', status:'Historical / brand', description:'German instrument brand represented here by Schaller-built effects sold under Höfner branding.'},
+    'BLD-DISC-KENT-01': {name:'Kent', country:'USA / West Germany OEM', status:'Historical / importer-brand', description:'Brand associated with the Kent 6406 The Angry Fuzz in the Schaller OEM family.'},
+    'BLD-DISC-VANHALL-01': {name:'Van Hall', country:'West Germany', status:'Historical / OEM brand', description:'Brand represented by a silicon Schaller-family fuzz.'},
+    'BLD-DISC-BLACKFIELD-01': {name:'Blackfield', country:'West Germany', status:'Historical / OEM brand', description:'Rare rebrand associated with the Schaller Fuzz family.'},
+    'BLD-DISC-ROSAC-01': {name:'Rosac / Sierra Electronics', country:'USA', status:'Historical / manufacturer', description:'Bakersfield manufacturer descended from the 1969 Sierra Electronics startup after Mosrite bankruptcy, with Ed Sanner design lineage.'},
+    'BLD-DISC-JEN-01': {name:'Jen Elettronica', country:'Italy', status:'Historical / OEM manufacturer', description:'Italian effects manufacturer in Pescara associated with Vox, Luxor and other branded fuzz and wah products.'},
+    'BLD-DISC-ELKA-01': {name:'Elka', country:'Italy', status:'Historical / brand', description:'Italian electronics brand represented here by the Dizzy Tone fuzz and related Italian effects lineage.'},
+    'BLD-DISC-LUXOR-01': {name:'Luxor', country:'Italy / OEM brand', status:'Historical / OEM brand', description:'Italian badge appearing on Jen-built fuzz and fuzz-wah products.'},
+    'BLD-DISC-UNICORD-01': {name:'Unicord', country:'USA / Italian OEM', status:'Historical / importer-brand', description:'American brand associated with Italian-made effects in the Jen production network.'},
+    'BLD-DISC-GOODFUZZY-01': {name:'Good Fuzzy Sounds', country:'Unknown', status:'Modern boutique / obscure', description:'Small-builder fuzz record preserved from the Effects Database Tone Bender relationship network.'},
+    'BLD-DISC-1969-01': {name:'1969 Effects', country:'France', status:'Boutique / hand-made', description:'French boutique builder represented by hand-made fuzzes rooted in classic 1960s designs.'},
+    'BLD-DISC-UNKNOWN-USA-01': {name:'Unknown U.S. maker', country:'USA', status:'Unresolved', description:'Vintage U.S. fuzz record preserved without a resolved manufacturer attribution.'},
+    'BLD-DISC-PROTRAFFIC-01': {name:"Pro'Traffic", country:'Unknown', status:'Historical / unresolved', description:'Obscure fuzz record preserved through the Tone Bender MkII relationship tree; manufacturer attribution unresolved.'},
+    'BLD-DISC-KLINGER-01': {name:'Klinger Custom Pedals', country:'Australia', status:'Boutique / historical preservation', description:'Melbourne boutique builder represented by the Jimi Fuzz.'},
+    'BLD-DISC-BIGJOHN-01': {name:'Big John Music', country:'Belgium / Netherlands', status:'Boutique / builder lineage', description:'European boutique builder represented by a dense effects catalog and later Netherlands operation.'},
+    'BLD-DISC-AUL-01': {name:'Aul Instruments', country:'USA', status:'Historical / OEM', description:'Historical U.S. instrument/effects maker associated with the 1967 Guild Foxey Lady replacement production.'},
+    'BLD-DISC-MGI-01': {name:'MGI', country:'USA', status:'Historical / unresolved', description:'Vintage U.S. badge preserved through the Clark/Wurlitzer/Halifax fuzz relationship cluster.'},
+    'BLD-DISC-VINTAGETECH-01': {name:'Vintage Technology', country:'Unknown', status:'Boutique / historical', description:'Vintage Technology record linked by Effects Database to the Vox/Jen V8161/V8162 branch.'},
+    'BLD-DISC-SUNHAUS-01': {name:'Sunhaus', country:'Australia', status:'Modern boutique / small batch', description:'Melbourne small-batch effects builder represented by the Djandek Geological Fuzz.'},
     'BLD-DISC-SHINEI-01': {name:'Shin-Ei', country:'Japan', status:'Historical / manufacturer', description:'Japanese effects manufacturer behind the Companion/FY-series family and many OEM-branded regional examples.'},
     'BLD-DISC-COMPANION-01': {name:'Companion', country:'Japan / export brand', status:'Historical / OEM brand', description:'Consumer-facing brand associated with the Shin-Ei FY-2 family.'},
     'BLD-DISC-AVORA-01': {name:'Avora', country:'Japan / export brand', status:'Historical / OEM brand', description:'Rare FY-2-family export badge preserved as a separate branded object.'},
@@ -39,7 +39,7 @@
     'BLD-DISC-APOLLO-01': {name:'Apollo', country:'Japan / export brand', status:'Historical / OEM brand', description:'Brand represented by the No. 843 Distorter in the Japanese wedge-fuzz family.'},
     'BLD-DISC-CRESTWOOD-01': {name:'Crestwood', country:'USA / Japan OEM', status:'Historical / importer-brand', description:'Brand represented by a Japanese wedge-fuzz object linked in the Effects Database family tree.'},
     'BLD-DISC-SEKOVA-01': {name:'Sekova', country:'USA / Japan OEM', status:'Historical / importer-brand', description:'Brand associated with the Model No. 59 Distortion Box in the Japanese wedge-fuzz network.'},
-    'BLD-DISC-CSCATHEY-01': {name:'CS. Cathey', country:'Japan', status:'Historical / rare', description:'Obscure Japanese effects series documented in period material with AS-01, AD-02, AB-03 and AO-05 models.'},
+    'BLD-DISC-CSCATHEY-01': {name:'CS. Cathey', country:'Japan', status:'Historical / rare', description:'Obscure Japanese effects series documented in mid-1970s period material with AS-01, AD-02, AB-03 and AO-05 models.'},
     'BLD-DISC-SMFUZZ-01': {name:'SM Fuzz', country:'U.K.', status:'Boutique / limited', description:'Scott McKeon boutique fuzz project; preserve as a distinct small-builder record.'},
     'BLD-DISC-WESTMINSTER-01': {name:'Westminster Effects', country:'USA', status:'Modern boutique', description:'Modern boutique effects builder with multiple fuzz and related gain products.'},
     'BLD-DISC-LEONE-01': {name:'Leone Effects Co.', country:'USA', status:'Modern boutique', description:'Hand-built effects builder represented by the Super Box fuzz series.'},
@@ -49,22 +49,13 @@
     'BLD-DISC-MYTHOS-01': {name:'Mythos Pedals', country:'USA', status:'Modern boutique', description:'Nashville boutique builder with a wide fuzz and overdrive catalog.'},
     'BLD-DISC-ORION-01': {name:'Orion Effekte', country:'Germany', status:'Boutique / one-person', description:'Jan van Triest one-person German effects workshop.'},
     'BLD-DISC-MONTGOMERY-01': {name:'Montgomery Appliances', country:'USA', status:'Boutique / one-person', description:'David Gill one-person workshop with a dense fuzz-oriented catalog.'},
-    'BLD-DISC-1969-01': {name:'1969 Effects', country:'France', status:'Boutique / hand-made', description:'French boutique builder represented by hand-made fuzzes rooted in classic 1960s designs.'},
-    'BLD-DISC-UNKNOWN-USA-01': {name:'Unknown U.S. maker', country:'USA', status:'Unresolved', description:'Vintage U.S. fuzz record preserved without a resolved manufacturer attribution.'},
-    'BLD-DISC-PROTRAFFIC-01': {name:"Pro'Traffic", country:'Unknown', status:'Historical / unresolved', description:'Obscure fuzz record preserved through the Tone Bender MkII relationship tree; manufacturer attribution unresolved.'},
-    'BLD-DISC-KLINGER-01': {name:'Klinger Custom Pedals', country:'Australia', status:'Boutique / historical preservation', description:'Melbourne boutique builder represented by the Jimi Fuzz.'},
-    'BLD-DISC-BIGJOHN-01': {name:'Big John Music', country:'Belgium / Netherlands', status:'Boutique / builder lineage', description:'Belgian-founded boutique builder with later Netherlands-based operation.'},
-    'BLD-DISC-AUL-01': {name:'Aul Instruments', country:'USA', status:'Historical / OEM', description:'Historical U.S. instrument/effects maker associated with the 1967 Guild Foxey Lady replacement production for Mike Matthews.'},
-    'BLD-DISC-MGI-01': {name:'MGI', country:'USA', status:'Historical / unresolved', description:'Vintage U.S. badge preserved through the Clark/Wurlitzer/Halifax fuzz relationship cluster.'},
-    'BLD-DISC-VINTAGETECH-01': {name:'Vintage Technology', country:'Unknown', status:'Boutique / historical', description:'Vintage Technology record linked by Effects Database to the Vox/Jen V8161/V8162 branch.'},
-    'BLD-DISC-SUNHAUS-01': {name:'Sunhaus', country:'Australia', status:'Modern boutique / small batch', description:'Melbourne small-batch effects builder represented by the Djandek Geological Fuzz.'}
+    'BLD-DISC-KAY-01': {name:'Kay', country:'USA / Japan OEM', status:'Historical / brand', description:'American brand associated with the Japanese-made F-1 Fuzz Tone; original manufacturer remains unresolved.'},
+    'BLD-DISC-EXCETRO-01': {name:'Excetro', country:'Japan', status:'Historical / OEM', description:'Japanese OEM badge represented by Wau Wau fuzz-wah and related effects.'}
   };
   let merged = false;
-
   async function loadDiscovery(base) {
     const texts = await Promise.all(batches.map(name => nativeFetch(name).then(r => r.ok ? r.text() : '')));
-    base.pedals = base.pedals || [];
-    base.builders = base.builders || [];
+    base.pedals = base.pedals || []; base.builders = base.builders || [];
     const builderIds = new Set(base.builders.map(b => b.builder_id));
     for (const [id, info] of Object.entries(provisionalBuilders)) {
       if (builderIds.has(id)) continue;
@@ -72,31 +63,21 @@
       builderIds.add(id);
     }
     const existing = new Set(base.pedals.map(p => `${p.primary_builder_id}::${String(p.model_name || '').trim().toLowerCase()}`));
-    for (const text of texts) {
-      for (const line of text.split(/\r?\n/)) {
-        if (!line.trim()) continue;
-        const [pedal_id, primary_builder_id, primary_category, model_name] = line.split('\t');
-        const key = `${primary_builder_id}::${String(model_name || '').trim().toLowerCase()}`;
-        if (!model_name || existing.has(key)) continue;
-        existing.add(key);
-        base.pedals.push({pedal_id,primary_builder_id,model_name,primary_category,subcategory:'Discovery record',introduced_year:null,discontinued_year:null,production_status:'Discovery',description:'Imported from the Dirt Archive discovery layer. Historical normalization and deeper research pending.',archive_status:'Research',confidence:'Discovery'});
-      }
+    for (const text of texts) for (const line of text.split(/\r?\n/)) {
+      if (!line.trim()) continue;
+      const [pedal_id, primary_builder_id, primary_category, model_name] = line.split('\t');
+      const key = `${primary_builder_id}::${String(model_name || '').trim().toLowerCase()}`;
+      if (!model_name || existing.has(key)) continue;
+      existing.add(key);
+      base.pedals.push({pedal_id,primary_builder_id,model_name,primary_category,subcategory:'Discovery record',introduced_year:null,discontinued_year:null,production_status:'Discovery',description:'Imported from the Dirt Archive discovery layer. Historical normalization and deeper research pending.',archive_status:'Research',confidence:'Discovery'});
     }
     return base;
   }
-
   window.fetch = async (input, init) => {
     const response = await nativeFetch(input, init);
     const url = new URL(typeof input === 'string' ? input : input.url, location.href);
     if (!url.pathname.endsWith('/data.json') || merged) return response;
-    try {
-      const base = await response.clone().json();
-      const data = await loadDiscovery(base);
-      merged = true;
-      return new Response(JSON.stringify(data), {status:200,headers:{'Content-Type':'application/json'}});
-    } catch (err) {
-      console.error('Discovery layer failed to load:', err);
-      return response;
-    }
+    try { const base = await response.clone().json(); const data = await loadDiscovery(base); merged = true; return new Response(JSON.stringify(data), {status:200,headers:{'Content-Type':'application/json'}}); }
+    catch (err) { console.error('Discovery layer failed to load:', err); return response; }
   };
 })();
