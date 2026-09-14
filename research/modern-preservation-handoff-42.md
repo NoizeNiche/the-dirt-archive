@@ -4,12 +4,12 @@
 YARP means resume the full Dirt Archive mission without waiting for confirmation. Continue builder-first research, product discovery, production history, variants, generations, editions, lineage, identification clues, source reconciliation, preservation, and GitHub updates. Document the object, not the recipe.
 
 ## Current position
-The 2020-2024 modern gap work is substantially expanded. Batch 41 established the first 2025 census pass. Batch 42 deepens the 2025 fuzz field and adds a second contemporary evidence layer from GPX's monthly and year-end pedal-chain reporting.
+The 2020-2024 modern gap work is substantially expanded. Batch 41 established the first 2025 census pass. Batch 42 now converts the next 2025 fuzz reconciliation layer into public archive records while preserving the rule that existing records are enriched rather than duplicated.
 
 ## Batch 42: 2025 fuzz census enrichment
-The 2025 GPX fuzz field contains 31 products. Batch 41 already captured the major annual award winners. Batch 42's research focus is the remaining longlist/fuzz-field products that provide useful preservation value, especially explicit reissues, named editions, unusual historical lineage, builder-specific variants, and products appearing in contemporary monthly coverage.
+Batch 42 adds 21 records, MOD-0373 through MOD-0393. The batch targets the uncovered 2025 fuzz field and prioritizes explicit generation, edition, transistor, lineage, and unusual architecture identifiers.
 
-Priority uncovered fuzz candidates identified in the GPX 2025 field include:
+Included records:
 - Drunk Beaver Disambiguation MK2 Muff-Rat
 - Drunk Beaver Irpin Bee Baa Fuzz
 - EarthQuaker Devices Barrows Mini TB MKII
@@ -17,43 +17,45 @@ Priority uncovered fuzz candidates identified in the GPX 2025 field include:
 - EarthQuaker Devices Fuzz Master General Legacy Reissue
 - Electronic Audio Experiments Glaive OpAmp Octave Fuzz
 - Emmergy FX Slowdriver FuzzDistortion
-- Farmer Factory Horny 66
+- Farmer Factory Effects Horny 66
 - Fjord Fuzz Thor Wild Self-Oscillating Lightning Storm Fuzz
-- Fredric Effects Demon Fuzz Muff Fuzz
+- Fredric Effects Demon Fuzz MK2
 - Funny Little Boxes Caught By The Fuzz Everyday OpAmp Fuzz
 - Hello Sailor Effects Rebel Rebel CV7001 VTB Fuzz
 - Intensive Care Audio Death Muff
 - Manson Guitar Works Supermassive Black Fuzz
 - Moose Electronics Electric Elk Ram's Head x Black Russian Muff
-- Pasta Pedals FrankenSTEEN
-- Rainger FX Razor Fuzz
+- Pasta Pedals FrankenSTEEN Eau Claire Thunder Muff Fuzz
+- Rainger FX Razor Fuzz with Virtual Pick Overtone Artefacts
 - RhPf Electronics MOSRAWR
-- SoundLad Liverpool Hungry Beaver MK2
+- SoundLad Liverpool Hungry Beaver MK2 Multi-Muff
 - ThorpyFX Hanami Germanium CV-Fuzz
 - ThorpyFX Redacted Germanium Veteran
 
-These should be reconciled against existing Archive records before any new IDs are assigned. The preservation rule is enrichment first, duplication never.
-
 ## Evidence findings
-GPX's 2025 fuzz census reports 31 products and explicitly distinguishes award winners from the broader field. Several products have unusually strong archival identifiers: Rancho de la Luna Edition, Legacy Reissue, MKII products, Germanium variants, and the FrankenSTEEN product's named historical lineage. citeturn0search0
+GPX's 2025 fuzz census provides the primary discovery layer for the batch. Its annual field distinguishes broad finalists from the ten Best of the Best award winners, so census membership is treated as contemporary discovery evidence rather than automatic proof of exact first-release date.
 
-GPX's monthly reporting adds chronology that the annual list alone does not provide. June coverage documents Fjord Fuzz Midnattssol, Fredric Effects Demon Fuzz MK2, Funny Little Boxes Caught By The Fuzz, Rainger Razor Fuzz and SoundLad Hungry Beaver; November coverage documents Drunk Beaver Irpin Bee Baa, EAE Glaive, Intensive Care Audio Death Muff, Manson Supermassive Black Fuzz, Moose Electric Elk, Pasta FrankenSTEEN, Spaceman Sputnik I and ThorpyFX Redacted. citeturn0search5turn0search6
+GPX's year-end pedal-chain reporting adds independent chronology for several records. June coverage includes Emmergy Slowdriver, Funny Little Boxes Caught By The Fuzz and Rainger Razor Fuzz, while May coverage includes ThorpyFX Hanami. November coverage adds Drunk Beaver Irpin Bee Baa, EAE Glaive, Intensive Care Audio Death Muff, Manson Supermassive Black Fuzz, Moose Electric Elk and ThorpyFX Redacted. The year-end chain also records Farmer Factory Horny 66 and other fuzz products.
 
-GPX's year-end chain also independently records products such as EarthQuaker Barrows Fuzz Attacker, Great Eastern Focus Fuzz Deluxe, Intensive Care Audio Death Muff, Redbeard Bearded Vulture, Spaceman Sputnik I, Teaching Machines FuzzBillion and Wampler Cryptid. This is useful chronology/corroboration rather than automatic proof of first-release date. citeturn0search2
+The strongest preservation value in this batch comes from explicit searchable variant states and lineage relationships: MK2, MKII, Rancho de la Luna Edition, Legacy Reissue, Germanium, CV-Fuzz, OpAmp Octave, Multi-Muff, Ram's Head x Black Russian Muff and Eau Claire Thunder lineage. These should remain distinct catalog fields because they materially improve future specimen identification.
 
 ## Archival principles reinforced
 - Annual award pages are census/discovery evidence, not by themselves definitive release-date proof.
 - Monthly/year-end appearances can establish contemporary presence and help bracket chronology.
-- Explicit MKII, Legacy Reissue, Edition, Deluxe and Germanium designations remain independent searchable variant states when evidence supports them.
-- Historical lineage should be recorded at the product level without publishing circuit reconstruction material.
-- Multi-effect and unusual control architectures belong in identification fields when they materially distinguish the specimen.
+- Explicit MKII, Legacy Reissue, Edition, Germanium and named lineage designations remain independent searchable states when evidence supports them.
+- Historical lineage is recorded at the product level without publishing circuit reconstruction material.
+- Existing Archive records are enriched first; duplicate records are avoided.
+
+## GitHub state
+- `research/modern-variant-discovery-42.tsv` created in commit `8b8e1fa87f0394892058b653460b01404323b8a9`.
+- `public/modern-variant-discovery-42.tsv` created in commit `74f1220eeeac2b6fbb35cf88b602e9c6f68523bd`.
+- `public/catalog-extensions-89.js` created in commit `251580bd98e15b33c50f182534cdd72d631d1759`.
+- `public/catalog-recent-home.js` updated to load extension 89 and promote three Batch 42 models in commit `f400f82a029997f28b0423ca3315e707c764373e`.
 
 ## Next target
-Continue reconciling the remaining 2025 fuzz field against the existing Archive, then complete the 2025 distortion and boost/overdrive gap audit. After 2025 is sufficiently reconciled, move into the live 2026 queue, where release chronology must be handled more cautiously because the year is still active. Once 2020-2026 is sufficiently covered, resume backward modern coverage at 2019 and 2018.
+Continue the 2025 reconciliation across distortion and boost/overdrive, checking the actual repository for overlap before assigning IDs. After 2025 is sufficiently reconciled, move into the active 2026 queue. Because 2026 is still in progress, distinguish confirmed releases from previews, prototypes, wishlist entries and contemporary coverage. Once 2020-2026 is sufficiently covered, resume backward modern coverage at 2019 and 2018.
 
 ## Source checkpoints
 - GPX 2025 Best New Fuzz Pedals: https://www.guitarpedalx.com/news/gpx-blog/2025-best-new-fuzz-pedals-of-the-year
 - GPX 2025 Best of the Best Pedals: https://www.guitarpedalx.com/news/gpx-blog/2025-best-of-the-best-pedals-of-the-year
-- GPX 2025 November Pedal-Chain Update: https://www.guitarpedalx.com/news/gpx-blog/2025-november-pedal-chain-update-episode-xi-double-decked
-- GPX 2025 June Pedal-Chain Update: https://www.guitarpedalx.com/news/gpx-blog/2025-june-pedal-chain-update-episode-vi-brit-infusion-lo-fi
 - GPX 2025 End of Year Pedal Chain: https://www.guitarpedalx.com/news/gpx-blog/end-of-year-pedal-chain-update-class-of-2025
