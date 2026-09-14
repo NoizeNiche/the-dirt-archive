@@ -1,0 +1,37 @@
+(() => {
+  const nativeFetch = window.fetch.bind(window);
+  let merged = false;
+  const builders = [
+    {id:'BLD-DISC-MUSITRONICS-01',name:'Musitronics',country:'USA',status:'Historical / manufacturer',desc:'Musitronics Corporation of Rosemont, New Jersey, formed in 1972 by Mike Beigel and Aaron Newman; its lineage grew from Guild synthesizer work into the Mu-Tron effects family.',source:'https://www.effectsdatabase.com/model/musitronics'},
+    {id:'BLD-DISC-MONTGOMERY-01',name:'Montgomery Appliances',country:'USA',status:'Boutique / one-person',desc:'David Gill one-person operation in Montgomery County, Maryland; began building gear in 2007 and later focused heavily on fuzz.',source:'https://www.effectsdatabase.com/model/montgomery'},
+    {id:'BLD-DISC-DENTONE-01',name:'DenTone Electronics',country:'USA',status:'Boutique / one-person',desc:'Dennis Menard one-person, experimental pedal operation in Barre, Vermont, known for hands-on component experimentation and small-run fuzz/boost/drive products.',source:'https://www.effectsdatabase.com/model/dentone'},
+    {id:'BLD-DISC-GOOSONIQUE-01',name:'GoosoniqueWorx',country:'Singapore',status:'Historical / one-person',desc:'Ravi Goose one-man operation in Singapore, evolving from mods and repairs in 2002 into a small catalog of handmade distortion, fuzz, overdrive and utility pedals.',source:'https://www.effectsdatabase.com/model/goosonique'}
+  ];
+  const rows = [
+    ['DISC-0920','Musitronics','Beigel Sound Lab Envelope Controlled Filter','Filter'],['DISC-0921','Gizmo Inc.','Bass Gizmotron','Other'],['DISC-0922','Gizmo Inc.','Gizmotron','Other'],['DISC-0923','Musitronics','Mu-Tron Bi-Phase','Modulation'],['DISC-0924','Musitronics','Mu-Tron C-100 Control Pedal','Utility'],['DISC-0925','Musitronics','Mu-Tron C-200 Volume Wah Pedal','Wah'],['DISC-0926','Musitronics','Mu-Tron Digital Delay Line','Delay'],['DISC-0927','Musitronics','Mu-Tron Flanger','Modulation'],['DISC-0928','Musitronics','Mu-Tron III','Filter'],['DISC-0929','Musitronics','Mu-Tron Micro V','Filter'],['DISC-0930','Musitronics','Mu-Tron Octave Divider','Octaver'],['DISC-0931','Musitronics','Mu-Tron Phasor','Modulation'],['DISC-0932','Musitronics','Mu-Tron Phasor II','Modulation'],['DISC-0933','Musitronics','Mu-Tron VII','Filter'],['DISC-0934','Musitronics','PS-1 Power Supply','Utility'],
+    ['DISC-0935','Montgomery Appliances',"'77 Flanger",'Modulation'],['DISC-0936','Montgomery Appliances','Beast Egg Fuzz','Fuzz'],['DISC-0937','Montgomery Appliances','Buzzaround','Fuzz'],['DISC-0938','Montgomery Appliances','Dreamsicle','Fuzz'],['DISC-0939','Montgomery Appliances','FSH','Fuzz'],['DISC-0940','Montgomery Appliances','Longtail','Fuzz'],['DISC-0941','Montgomery Appliances','MkII Professional','Fuzz'],['DISC-0942','Montgomery Appliances','Model 219 - Cascaded Silicon Fuzztone','Fuzz'],['DISC-0943','Montgomery Appliances','Model One Fuzz','Fuzz'],['DISC-0944','Montgomery Appliances','SD/Pre 3000','Utility'],['DISC-0945','Montgomery Appliances','Supa Bender','Fuzz'],['DISC-0946','Montgomery Appliances','The Badlands - Germanium Fuzz Machine','Fuzz'],['DISC-0947','Montgomery Appliances','Tone Bender MkIII','Fuzz'],['DISC-0948','Montgomery Appliances','Tone Bender Quattro','Fuzz'],['DISC-0949','Montgomery Appliances','VFOD','Overdrive'],
+    ['DISC-0950','DenTone Electronics','900 Pound Violin','Fuzz'],['DISC-0951','DenTone Electronics','Alien Hate Fuzz','Fuzz'],['DISC-0952','DenTone Electronics','BFF Biggest Fattest Fuzz','Fuzz'],['DISC-0953','DenTone Electronics','Black Hole Generator','Fuzz'],['DISC-0954','DenTone Electronics','Bolthead','Fuzz'],['DISC-0955','DenTone Electronics','Buzzaround','Fuzz'],['DISC-0956','DenTone Electronics','CigBooster','Boost'],['DISC-0957','DenTone Electronics','Demented Circus Monkey','Fuzz'],['DISC-0958','DenTone Electronics','Freaktone Fuzz','Fuzz'],['DISC-0959','DenTone Electronics','Fuzzrite','Fuzz'],['DISC-0960','DenTone Electronics','FY-2 Companion Fuzz','Fuzz'],['DISC-0961','DenTone Electronics','Jupiter Rocket','Fuzz'],['DISC-0962','DenTone Electronics','Pinhead','Fuzz'],['DISC-0963','DenTone Electronics','Pinhead 2','Fuzz'],['DISC-0964','DenTone Electronics','Purple Octavepus','Fuzz'],['DISC-0965','DenTone Electronics','Rangemaster','Boost'],['DISC-0966','DenTone Electronics','Rocket - Germanium Boost','Boost'],['DISC-0967','DenTone Electronics','SteamRoller','Overdrive'],['DISC-0968','DenTone Electronics','SupaFuzz','Fuzz'],
+    ['DISC-0969','GoosoniqueWorx','Boosty','Boost'],['DISC-0970','GoosoniqueWorx','Blitzkrieg','Distortion'],['DISC-0971','GoosoniqueWorx','Citrus','Compressor'],['DISC-0972','GoosoniqueWorx','Fudge 73','Fuzz'],['DISC-0973','GoosoniqueWorx','Kult','Overdrive'],['DISC-0974','GoosoniqueWorx','MangoJuice','Distortion'],['DISC-0975','GoosoniqueWorx','Noizetherapy','Other'],['DISC-0976','GoosoniqueWorx','Pixie','Fuzz'],['DISC-0977','GoosoniqueWorx','Seventheaven','Distortion'],['DISC-0978','GoosoniqueWorx','Tremor','Tremolo']
+  ];
+  const idByName = Object.fromEntries(builders.map(b => [b.name,b.id]));
+  function merge(base) {
+    base.builders=base.builders||[]; base.pedals=base.pedals||[]; base.sources=base.sources||[];
+    for (const b of builders) if (!base.builders.some(x => x.builder_id===b.id || String(x.name||'').toLowerCase()===b.name.toLowerCase())) base.builders.push({builder_id:b.id,name:b.name,country:b.country,status:b.status,founded:null,description:b.desc,primary_source:b.source,source_confidence:'High'});
+    for (const [pid,brand,model,cat] of rows) {
+      const bid = brand==='Gizmo Inc.' ? idByName['Musitronics'] : idByName[brand];
+      if (!bid) continue;
+      if (!base.pedals.some(p => p.pedal_id===pid || (p.primary_builder_id===bid && String(p.model_name||'').toLowerCase()===model.toLowerCase()))) {
+        base.pedals.push({pedal_id:pid,primary_builder_id:bid,model_name:model,primary_category:cat,subcategory:'Complete lineup discovery',introduced_year:null,discontinued_year:null,production_status:'Discovery',description:'Captured from a builder-level catalog. Product-level dates, variations, historical context and image rights research pending.',archive_status:'Research',confidence:'Discovery'});
+      }
+    }
+    const sources=[
+      ['https://www.effectsdatabase.com/model/musitronics','Effects Database: Musitronics','Effects Database'],
+      ['https://www.effectsdatabase.com/model/montgomery','Effects Database: Montgomery Appliances','Effects Database'],
+      ['https://www.effectsdatabase.com/model/dentone','Effects Database: DenTone Electronics','Effects Database'],
+      ['https://www.effectsdatabase.com/model/goosonique','Effects Database: GoosoniqueWorx','Effects Database']
+    ];
+    for(const [url,title,org] of sources) if(!base.sources.some(s=>s.url===url)) base.sources.push({source_id:'SRC-'+title.replace(/[^A-Za-z0-9]+/g,'-').toUpperCase(),title,url,source_type:'secondary catalog discovery',author_or_org:org,source_confidence:'High'});
+    return base;
+  }
+  window.fetch=async(input,init)=>{const response=await nativeFetch(input,init);const url=new URL(typeof input==='string'?input:input.url,location.href);if(!url.pathname.endsWith('/data.json')||merged)return response;try{const data=merge(await response.clone().json());merged=true;return new Response(JSON.stringify(data),{status:200,headers:{'Content-Type':'application/json'}});}catch(err){console.error('Catalog extension 66 failed:',err);return response;}};
+})();
