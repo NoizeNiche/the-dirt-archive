@@ -1,15 +1,15 @@
 (() => {
   // Ensure the modern-preservation extensions remain available even when index.html is cached by a static host.
-  for (const name of ['catalog-extensions-83.js','catalog-extensions-84.js','catalog-extensions-85.js','catalog-extensions-86.js','catalog-extensions-87.js']) {
+  for (const name of ['catalog-extensions-83.js','catalog-extensions-84.js','catalog-extensions-85.js','catalog-extensions-86.js','catalog-extensions-87.js','catalog-extensions-88.js']) {
     if (!document.querySelector(`script[src="${name}"]`)) { const s=document.createElement('script'); s.src=name; document.head.appendChild(s); }
   }
 
   const RECENT_HOME_MODELS = [
-    'The Lover 2-Stage Transistor Drive & Fuzz V2 Portrait',
-    'Whoctahell V2 / Custom Shop',
-    'Impossible Colors V2',
-    'VISION V2 in development',
-    'Old Blue Overdrive V2'
+    'Tubesteader Gainlord',
+    'Brothers AM',
+    'The J',
+    'MGAT-5',
+    'Atomic World Ender'
   ];
 
   if (!document.getElementById('dirtArchiveBackgroundStyle')) {
