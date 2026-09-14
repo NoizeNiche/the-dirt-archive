@@ -29,87 +29,32 @@
     @media(max-width:640px){.specimen-gallery{grid-template-columns:1fr 1fr}.specimen-item img{aspect-ratio:1/1}}
   `;
   document.head.appendChild(style);
-
   const esc=v=>String(v??'').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
   const buildUrl=(title,extra='')=>`https://www.google.com/search?tbm=isch&q=${encodeURIComponent(`${title} ${extra} guitar pedal vintage`)}`;
   const specs=()=>Array.isArray(window.DIRT_SPECIMENS)?window.DIRT_SPECIMENS:[];
-  const forTitle=title=>specs().filter(s=>s.title===title);
-  const clearedForTitle=title=>forTitle(title).find(s=>(s.rights||'Reference').toLowerCase()==='cleared');
+  const productFromHash=()=>{const key=decodeURIComponent(location.hash.replace(/^#\/?pedal\//,''));return (window.DATA?.pedals||[]).find(p=>String(p.pedal_id)===key)||null;};
+  const bestFor=(title,builderName)=>{const list=specs().filter(s=>s.title===title);if(!list.length)return [];const tagged=list.filter(s=>s.builder);if(builderName&&tagged.length){const exact=tagged.filter(s=>String(s.builder).toLowerCase()===String(builderName).toLowerCase());if(exact.length)return exact;const generic=list.filter(s=>!s.builder);return generic.length?generic:[];}return list;};
+  const clearedFor=(title,builderName)=>bestFor(title,builderName).find(s=>String(s.rights||'Reference').toLowerCase()==='cleared');
 
-  function applyClearedCardImage(card,title){
+  function applyClearedCardImage(card,title,builderName){
     if(card.querySelector('.pedal-image img')) return false;
-    const s=clearedForTitle(title);
-    const holder=card.querySelector('.pedal-image');
-    if(!s||!holder) return false;
+    const s=clearedFor(title,builderName),holder=card.querySelector('.pedal-image');
+    if(!s||!holder)return false;
     holder.innerHTML=`<img src="${esc(s.src)}" alt="${esc(title)} archival reference photograph" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.innerHTML='<div class=&quot;no-image&quot;><div><strong>${esc(title)}</strong><small>Reference image unavailable</small></div></div>'">`;
     return true;
   }
-
   function applyClearedDetailImage(){
-    const heading=document.querySelector('.detail-title');
-    const plateImage=document.querySelector('.plate-image');
-    if(!heading||!plateImage||plateImage.querySelector('img')) return;
-    const s=clearedForTitle(heading.textContent.trim());
-    if(!s) return;
+    const heading=document.querySelector('.detail-title'),plateImage=document.querySelector('.plate-image');
+    if(!heading||!plateImage||plateImage.querySelector('img'))return;
+    const p=productFromHash(),b=p?window.DATA?.builders?.find(x=>x.builder_id===p.primary_builder_id):null,s=clearedFor(heading.textContent.trim(),b?.name);
+    if(!s)return;
     plateImage.innerHTML=`<img src="${esc(s.src)}" alt="${esc(heading.textContent.trim())} archival reference photograph" referrerpolicy="no-referrer">`;
-    const cap=plateImage.parentElement?.querySelector('.plate-caption');
-    if(cap) cap.innerHTML=`<a href="${esc(s.page||s.src)}" target="_blank" rel="noopener">Archive image source ↗</a><br>${esc(s.credit||'Source credit recorded in registry.')}`;
+    const cap=plateImage.parentElement?.querySelector('.plate-caption');if(cap)cap.innerHTML=`<a href="${esc(s.page||s.src)}" target="_blank" rel="noopener">Archive image source ↗</a><br>${esc(s.credit||'Source credit recorded in registry.')}`;
   }
-
-  function addCardSpecimens(){
-    document.querySelectorAll('.pedal-card').forEach(card=>{
-      const title=card.querySelector('h3')?.textContent?.trim();
-      if(!title) return;
-      const list=forTitle(title);
-      if(!list.length) return;
-      const had=!!card.querySelector('.card-specimen-count');
-      applyClearedCardImage(card,title);
-      if(had) return;
-      const cleared=list.filter(s=>(s.rights||'Reference').toLowerCase()==='cleared').length;
-      const body=card.querySelector('.pedal-body')||card;
-      const el=document.createElement('div');
-      el.className='card-specimen-count';
-      el.innerHTML=`${cleared?'<span class="dot"></span>':''}${list.length} visual specimen${list.length===1?'':'s'} indexed${cleared?` · ${cleared} archive-cleared`:''}`;
-      body.appendChild(el);
-      if(cleared) {
-        const p=document.createElement('div');
-        p.className='card-specimen-primary';
-        p.textContent='Primary cleared specimen shown above';
-        body.appendChild(p);
-      }
-    });
-  }
-
-  function specimenVisual(s,title){
-    const status=(s.rights||'Reference').toLowerCase();
-    if(status==='cleared') return `<a href="${esc(s.src)}" target="_blank" rel="noopener"><img src="${esc(s.src)}" alt="${esc(title)} ${esc(s.role||'specimen')} photograph" loading="lazy" referrerpolicy="no-referrer"></a>`;
-    return `<div class="specimen-reference"><div><strong>External visual reference</strong><span>Photograph retained as an identification lead, not an Archive asset.</span><a href="${esc(s.page||s.src)}" target="_blank" rel="noopener">Open source / specimen ↗</a></div></div>`;
-  }
-
-  function addBlock(){
-    const layout=document.querySelector('.detail-layout');
-    const heading=document.querySelector('.detail-title');
-    if(!layout||!heading||layout.querySelector('.specimen-strip')) return;
-    const title=heading.textContent.trim();
-    const card=layout.querySelector('.plate');
-    if(!card) return;
-    const list=forTitle(title);
-    const gallery=list.length?`<div class="specimen-gallery">${list.map(s=>{
-      const status=(s.rights||'Reference').toLowerCase();
-      const cls=status==='cleared'?'cleared':'reference';
-      const electronics=s.electronics||'';
-      return `<figure class="specimen-item">${specimenVisual(s,title)}<figcaption class="specimen-meta"><div class="specimen-role">${esc(s.role||'Specimen')}${s.era?` · ${esc(s.era)}`:''}</div><div class="specimen-caption">${esc(s.caption||'Visual identification specimen.')}</div>${s.variant_type?`<div class="specimen-attribute"><b>Variant identity</b><br>${esc(s.variant_type)}</div>`:''}${s.appearance?`<div class="specimen-attribute"><b>Appearance</b><br>${esc(s.appearance)}</div>`:''}${electronics?(typeof electronics==='string'?`<div class="specimen-attribute"><b>Electronics</b><br>${esc(electronics)}</div>`:`<div class="specimen-attribute"><b>Semiconductor family</b><br>${esc(electronics.semiconductor_family||'Not specified')}${electronics.notes?`<br>${esc(electronics.notes)}`:''}</div>`):''}<div class="specimen-source"><a href="${esc(s.page||s.src)}" target="_blank" rel="noopener">Source / file page ↗</a><br>${esc(s.credit||'Source credit recorded in registry.')}</div><div class="specimen-status ${cls}">${status==='cleared'?'Rights status: cleared for Archive use':'Rights status: external reference only'}</div></figcaption></figure>`;
-    }).join('')}</div>`:'';
-
-    const strip=document.createElement('div');
-    strip.className='specimen-strip';
-    strip.innerHTML=`<div class="specimen-kicker">Visual specimen index</div><p>${list.length?`This page currently indexes ${list.length} documented visual specimen${list.length===1?'':'s'}. Specimens can represent factory variants, colorways, OEM versions, reissues and unusual production changes.`:'No independently registered specimen image yet. External searches provide a visual reference doorway until a source is documented and rights-reviewed.'}</p>${gallery}<div class="specimen-links"><a href="${buildUrl(title,'front')}" target="_blank" rel="noopener">Front examples ↗</a><a href="${buildUrl(title,'vintage')}" target="_blank" rel="noopener">Vintage examples ↗</a><a href="${buildUrl(title,'variant')}" target="_blank" rel="noopener">Variants ↗</a></div><div class="specimen-plate-note">Identification workflow: compare enclosure shape, graphics, controls, treadle hardware, labeling and known production variants. External photographs are identification aids, not automatically cleared Archive assets. Electronics distinctions are recorded only when supported by source-backed evidence.</div>`;
-    card.appendChild(strip);
-  }
-
+  function addCardSpecimens(){document.querySelectorAll('.pedal-card').forEach(card=>{const title=card.querySelector('h3')?.textContent?.trim(),builderName=card.querySelector('.builder')?.textContent?.trim();if(!title||card.querySelector('.card-specimen-count'))return;const list=bestFor(title,builderName);if(!list.length)return;applyClearedCardImage(card,title,builderName);const cleared=list.filter(s=>String(s.rights||'Reference').toLowerCase()==='cleared').length,body=card.querySelector('.pedal-body')||card,el=document.createElement('div');el.className='card-specimen-count';el.innerHTML=`${cleared?'<span class="dot"></span>':''}${list.length} visual specimen${list.length===1?'':'s'} indexed${cleared?` · ${cleared} archive-cleared`:''}`;body.appendChild(el);if(cleared){const p=document.createElement('div');p.className='card-specimen-primary';p.textContent='Primary cleared specimen shown above';body.appendChild(p);}});}
+  function specimenVisual(s,title){const status=String(s.rights||'Reference').toLowerCase();if(status==='cleared')return `<a href="${esc(s.src)}" target="_blank" rel="noopener"><img src="${esc(s.src)}" alt="${esc(title)} ${esc(s.role||'specimen')} photograph" loading="lazy" referrerpolicy="no-referrer"></a>`;return `<div class="specimen-reference"><div><strong>External visual reference</strong><span>Photograph retained as an identification lead, not an Archive asset.</span><a href="${esc(s.page||s.src)}" target="_blank" rel="noopener">Open source / specimen ↗</a></div></div>`;}
+  function addBlock(){const layout=document.querySelector('.detail-layout'),heading=document.querySelector('.detail-title');if(!layout||!heading||layout.querySelector('.specimen-strip'))return;const title=heading.textContent.trim(),p=productFromHash(),b=p?window.DATA?.builders?.find(x=>x.builder_id===p.primary_builder_id):null,card=layout.querySelector('.plate');if(!card)return;const list=bestFor(title,b?.name);const gallery=list.length?`<div class="specimen-gallery">${list.map(s=>{const status=String(s.rights||'Reference').toLowerCase(),cls=status==='cleared'?'cleared':'reference',e=s.electronics||'';return `<figure class="specimen-item">${specimenVisual(s,title)}<figcaption class="specimen-meta"><div class="specimen-role">${esc(s.role||'Specimen')}${s.era?` · ${esc(s.era)}`:''}</div><div class="specimen-caption">${esc(s.caption||'Visual identification specimen.')}</div>${s.variant_type?`<div class="specimen-attribute"><b>Variant identity</b><br>${esc(s.variant_type)}</div>`:''}${s.appearance?`<div class="specimen-attribute"><b>Appearance</b><br>${esc(s.appearance)}</div>`:''}${e?(typeof e==='string'?`<div class="specimen-attribute"><b>Electronics</b><br>${esc(e)}</div>`:`<div class="specimen-attribute"><b>Semiconductor family</b><br>${esc(e.semiconductor_family||'Not specified')}${e.notes?`<br>${esc(e.notes)}`:''}</div>`):''}<div class="specimen-source"><a href="${esc(s.page||s.src)}" target="_blank" rel="noopener">Source / file page ↗</a><br>${esc(s.credit||'Source credit recorded in registry.')}</div><div class="specimen-status ${cls}">${status==='cleared'?'Rights status: cleared for Archive use':'Rights status: external reference only'}</div></figcaption></figure>`;}).join('')}</div>`:'';const strip=document.createElement('div');strip.className='specimen-strip';strip.innerHTML=`<div class="specimen-kicker">Visual specimen index</div><p>${list.length?`This page currently indexes ${list.length} documented visual specimen${list.length===1?'':'s'}. Specimens can represent factory variants, colorways, OEM versions, reissues and unusual production changes.`:'No independently registered specimen image yet. External searches provide a visual reference doorway until a source is documented and rights-reviewed.'}</p>${gallery}<div class="specimen-links"><a href="${buildUrl(title,'front')}" target="_blank" rel="noopener">Front examples ↗</a><a href="${buildUrl(title,'vintage')}" target="_blank" rel="noopener">Vintage examples ↗</a><a href="${buildUrl(title,'variant')}" target="_blank" rel="noopener">Variants ↗</a></div><div class="specimen-plate-note">Identification workflow: compare enclosure shape, graphics, controls, treadle hardware, labeling and known production variants. External photographs are identification aids, not automatically cleared Archive assets. Electronics distinctions are recorded only when supported by source-backed evidence.</div>`;card.appendChild(strip);}
   function decorate(){applyClearedDetailImage();addCardSpecimens();addBlock();}
   new MutationObserver(()=>setTimeout(decorate,20)).observe(document.getElementById('app')||document.body,{childList:true,subtree:true});
-  window.addEventListener('hashchange',()=>setTimeout(decorate,50));
-  window.addEventListener('load',()=>setTimeout(decorate,120));
-  setTimeout(decorate,220);
+  window.addEventListener('hashchange',()=>setTimeout(decorate,50));window.addEventListener('load',()=>setTimeout(decorate,120));setTimeout(decorate,220);
 })();
