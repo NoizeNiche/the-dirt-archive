@@ -1,44 +1,43 @@
-# Early Foundational Handoff 72
+# Early Foundational Handoff 73
 
-## Pass 24: deeper D*A.M and HBE catalog states
+## Pass 25: international boutique dirt and closeout/specimen evidence
 
-This pass pushes the 2004-2010 boutique corridor deeper into two builders whose surviving records are unusually useful for production archaeology: D*A.M and HomeBrew Electronics. Eight reconciliation records were added, emphasizing identifiable model states, closeout generations, dedicated bass dirt, and period production windows.
+This pass extends the 2004-2010 boutique corridor with seven reconciliation records centered on T-Pedals, Orion Effekte, and HomeBrew Electronics. The emphasis is on documented retail windows, dedicated bass dirt, handmade construction identity, model succession, and period closeout evidence.
 
 ### Newly documented
 
-- **D*A.M Ram Head**: 2004-2008 production state, a dedicated Ram’s Head-era Big Muff revival object.
-- **D*A.M Ezekiel 25:17**: 2004-2008 dedicated bass distortion state, kept separate from general fuzz models.
-- **D*A.M FUZZrong FR-69 / FR-70**: 2008-2009 generation boundary separating germanium and later silicon-enhanced states.
-- **D*A.M Fuzzaround**: 2008-2009 Buzzaround-family revival state with late-2008 period video evidence.
-- **D*A.M Super Bee**: 2009 standalone germanium production object, separated from the Super Bee mode inside the earlier 1966 model.
-- **D*A.M Grease Box GB-80 / GB-83**: 2009-2010 production-family states preserved as specimen-identification clues.
-- **HomeBrew Electronics Big-D**: September 2005 documented distortion/overdrive state.
-- **HomeBrew Electronics Hematoma**: February 2006 dedicated bass preamp/overdrive state.
+- **T-Pedals BassTard Fuzz**: November 29, 2006 published state, a hand-built Italian bass fuzz with two selectable distortion voices.
+- **T-Pedals Buggy Fuzz**: January 8, 2010 published state, a hand-built Italian germanium/silicon hybrid fuzz with three-way voice selection.
+- **Orion Effekte Silver Drive**: March 20, 2006 documented early German boutique overdrive for guitar and bass.
+- **Orion Effekte Western Drive**: April 6, 2009 documented rough/dry overdrive state, kept distinct from Western Drive 2.
+- **Orion Effekte Mufflon Fuzz**: October 12, 2010 documented Ram’s Head Big Muff-based fuzz with Orion three-mode switching.
+- **HomeBrew Electronics ParaDrive Overdrive/Boost**: July 7, 2008 documented dual-function OD/boost state with independent footswitches.
+- **HomeBrew Electronics Germacide**: 2005-2006 closeout/specimen window supported by contemporary February 2006 user discussion describing one of the last units.
 
 ### Key research findings
 
-1. **D*A.M’s catalog was not simply a Tone Bender-replica shop.** Ram Head, Ezekiel, FUZZrong, Fuzzaround, Super Bee, and Grease Box show a broader range of vintage revival, bass-oriented distortion, and original/modified designs.
-2. **Generation boundaries can be visible in naming.** FUZZrong’s FR-69 and FR-70 designations preserve a clear germanium-to-silicon family boundary without needing circuit reconstruction.
-3. **Dedicated bass dirt deserves its own taxonomy.** Ezekiel 25:17 and HBE Hematoma were designed specifically around low-frequency applications and should not be lost inside general guitar fuzz categories.
-4. **Closeout records are historically valuable.** The 2009 Super Bee and final FR-70 units capture late production moments that may be scarce today.
-5. **Model families often contain hidden state codes.** Grease Box GB-80 and GB-83 demonstrate how builder-specific markings can become specimen identifiers even when the consumer-facing model name remains unchanged.
-6. **The HBE catalog shows how quickly small builders expanded.** By 2005-2006 HBE had distinct distortion, fuzz, octave, and bass products in the same small-company ecosystem.
+1. **International boutique chronology is now materially stronger.** Italian T-Pedals and German Orion are no longer isolated single-model entries; their early catalogs show coherent dirt families with different intended uses.
+2. **Bass-specific dirt is a recurring boutique branch.** BassTard and the previously archived Hematoma/Ezekiel states demonstrate that small builders were intentionally targeting low-frequency applications, not merely repackaging guitar fuzzes.
+3. **Handmade construction is itself an archival identity clue.** Orion and T-Pedals documentation repeatedly identifies handmade production in Germany and Italy, respectively.
+4. **Model succession should remain explicit.** Orion’s Western Drive is not the Western Drive 2; the later version changes enclosure size and adds a clipping-character switch.
+5. **Closeout evidence can establish a narrow production boundary even without a formal catalog date.** The Germacide discussion is not promoted to a precise launch year, but it does provide contemporary evidence of early-2006 closeout status.
+6. **Publication dates remain documentary anchors, not automatic first-sale dates.** The pass preserves that distinction throughout.
 
 ### Evidence discipline
 
-- Manufacturer statements, specialist publications, period videos, and indexed production windows remain distinct evidence classes.
-- Exact first-sale dates are not inferred merely from publication dates.
-- Model suffixes, production codes, material changes, and closeout states remain separate from circuit claims.
+- Manufacturer pages, specialist databases, and contemporary forum evidence remain separate evidence classes.
+- VERIFIED is reserved for explicit or strong contemporary documentary support; RESEARCH remains for inferred closeout windows and unresolved first-sale boundaries.
+- Enclosure changes, model successors, material/build identity, bass orientation, and closeout status remain specimen-facing metadata rather than circuit reconstruction.
 - No schematics, PCB layouts, complete BOMs, gutshot libraries, or cloning instructions are added.
 
 ### Current lineage position
 
-The early boutique corridor now includes a much richer set of production states rather than only headline models. D*A.M and HBE demonstrate two complementary paths: highly documented specialist revival work and rapidly expanding small-builder mini-catalogs.
+The boutique corridor now has substantial evidence spanning the U.S., U.K., Australia, Germany, and Italy. The archive is increasingly able to track not only the famous models but also the surrounding mini-catalogs, production methods, limited runs, rebrand states, and end-of-line evidence that determine how surviving specimens should be identified.
 
-### Pass 24 note
+### Pass 25 note
 
-Extension 124 adds REC-261 through REC-268. Public and research reconciliation-17 files now contain the complete expanded batch. The recent-home loader should surface Ram Head, Ezekiel 25:17, FUZZrong, Fuzzaround, and Super Bee.
+Extension 125 adds REC-269 through REC-275. Public and research reconciliation-18 indexes contain the new batch. The recent-home loader now surfaces BassTard Fuzz, Buggy Fuzz, Silver Drive, Western Drive, and Mufflon Fuzz.
 
 ### Next target
 
-Continue through **1998-2010** with Black Arts Toneworks editions, MI Audio Blues Pro/Tube Zone generation boundaries, Orion early drive/fuzz objects, T-Pedals retail models, Keeley fuzz generations, Catalinbread early variants, Devi Ever/OohLaLa manufacturing states, and D*A.M’s remaining early catalog. Parallel DOD/DigiTech closeout and early modeling research remains contextual and separate from dedicated dirt.
+Continue through **1998-2010** with deeper Black Arts Toneworks first editions, MI Audio Blues Pro/Tube Zone generation boundaries, additional Orion and T-Pedals retail objects, Keeley Fuzz/Java production states, Catalinbread early variants, Devi Ever/OohLaLa manufacturing states, D*A.M first-run and Tone Bender-family objects, and the remaining HBE mini-catalog. In parallel, reconcile late DOD/DigiTech closeout products and early digital modeling platforms while preserving the dedicated-dirt boundary.
