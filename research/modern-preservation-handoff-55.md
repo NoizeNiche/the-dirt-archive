@@ -3,33 +3,35 @@
 ## YARP
 YARP means continue the full Dirt Archive mission without waiting for confirmation. Document the object, not the recipe.
 
-## Current position
-The first chronological descent has reached the requested 2000 boundary. The archive is now in the **deepening / reconciliation phase** for the early-2000s layer, where primary builder histories and surviving period evidence are being promoted into the structured archive without inventing dates.
+## Historical reconciliation phase
+The chronological descent has reached the 2000 boundary and is now in the deeper foundational pass. This batch cross-links British, Italian and Japanese/OEM fuzz lineages with early landmark overdrive/distortion families.
 
-## Reconciliation pass 01
-Added `historical-reconciliation-01.tsv` and `public/historical-reconciliation-01.tsv` with 14 evidence records covering Xotic, Analog Man, Catalinbread, EarthQuaker Devices, Electro-Harmonix, Mad Professor and the Damage Control → Strymon company transition.
+## Reconciliation pass 02
+Added `historical-reconciliation-02.tsv` and `public/historical-reconciliation-02.tsv` with 19 specimen-facing historical records covering Arbiter Fuzz Face, Sola Sound Tone Bender Professional MKII, Vox Tone Bender Professional MKII, Marshall Supa Fuzz, Rotosound Fuzz Box, JEN Tone Bender, Vox V828, Teisco TF-1, Univox U-1095, Ace Tone FM-2, Guyatone FS-3, WEM Project V, Park Fuzz Sound, Sola Sound Tone Bender MKIV, Pro Co RAT and BOSS OD-1 plus overlapping generation/transition states.
 
-### Strong chronology anchors
-- Xotic AC Booster: September 2002.
-- Xotic RC Booster: November 2002.
-- Analog Man King of Tone first sold: November 2003.
-- Analog Man King of Tone Version 3: June 2004 documentation.
-- Catalinbread founded in 2003; Super Chili Picoso identified by the builder as the first Catalinbread-branded effect.
-- EarthQuaker Devices Hoof: first full-production run in 2007, with development traced to a 2006 Black Keys performance.
-- Electro-Harmonix Little Big Muff: first few thousand 2006 units documented with an alternate control order, providing a specimen-level production distinction.
-- Electro-Harmonix NYC Big Muff: 2000 reissue identified as Version 9, with later 2007 and 2008 revision changes.
-- Tone Wicker Big Muff: Version 12, dated 2009 in EHX historical material.
-- Mad Professor Sweet Honey Overdrive: 2009 NAMM-era product, with BJF/Björn Juhl design lineage preserved separately.
-- Damage Control Engineering: founded 2004; Strymon officially began in 2009 as a new line from the same engineering team.
+## Major findings
+- Fuzz Face chronology is best represented as overlapping physical states rather than a perfectly linear version ladder. Fuzzboxes documents the August 1966 debut, September production ramp, multiple enclosure states and overlapping germanium/silicon production.
+- Sola Sound's Tone Bender Professional MKII is documented as a 1966-1968 OEM platform supplied to Vox, Marshall and Rotosound. Early short-board conversions are preserved as specimen states.
+- The Italian JEN branch remains separate from British Sola Sound production. JEN-built Tone Bender-family products and the Vox V828 form a distinct Italian production/branding branch.
+- Japanese FY-6-family models such as Teisco TF-1 and Univox U-1095 are preserved as branded/OEM family members rather than collapsed into a generic Super Fuzz entry.
+- Ace Tone FM-2 has a useful period-ad chronology lead with a March 1968 first-ad appearance, stronger than generic later estimates.
+- WEM Project V gives the archive an independent 1969 British fuzz benchmark outside the Tone Bender family.
+- Pro Co RAT and BOSS OD-1 provide important late-1970s distortion/overdrive chronology anchors.
+
+## Evidence rule
+Where surviving evidence supports an era but not a precise assembly boundary, retain a range or specimen state rather than inventing an exact date. Collector terminology is preserved only when it has identification value and evidence supports it.
 
 ## Public catalog status
-The runtime now loads `catalog-extensions-102.js`, which attaches reconciliation evidence to matching existing product records and promotes verified year-only chronology into `introduced_year` only where safe. The dynamic homepage loader now includes extension 102 and highlights King of Tone, Super Chili Picoso, Hoof, BB Preamp and Sweet Honey Overdrive.
+- `research/historical-reconciliation-02.tsv`
+- `public/historical-reconciliation-02.tsv`
+- `public/catalog-extensions-103.js`
+- `public/catalog-recent-home.js` now loads extension 103 and features Fuzz Face, Tone Bender Professional MKII, V828, FM-2 Fuzz Master and RAT.
 
-## Important archive finding
-The early-2000s layer is not merely a weaker version of the 2010s census. It has different evidence characteristics. Builder memory, dated manuals, surviving retailer archives, forum-era documentation and later official histories are often more informative than annual roundup articles. The archive should therefore treat this era as a provenance and specimen-identification problem, not just a chronological list.
+## Open research branch
+PR #2 remains the dedicated Japanese/OEM discovery vehicle. Its research document maps Honey FY-6 → Shin-ei Super Fuzz and the broader Companion, Univox, Teisco, Ace Tone, Guyatone and JEN/Vox network. The branch is intentionally research-first and not every candidate is promoted as verified public catalog data.
 
-## Boundaries
-No schematics, PCB layouts, complete BOMs, gutshot libraries or cloning instructions are being added. Technical details remain restricted to historical, external-identification and production-state information.
+## Boundary
+No schematics, PCB layouts, complete BOMs, gutshot galleries or cloning instructions are published. Technical information remains at the level needed to identify historical production objects and their lineage.
 
-## Next deepening target
-Continue reconciliation through the **2000-2009 layer**, prioritizing primary builder histories, dated manuals, archived catalogs, first-sale evidence, enclosure/control-layout changes, serial-era distinctions and company lineage. After that, begin the **pre-2000 foundational sweep** with the same evidence-ranked methodology.
+## Next target
+Continue the model-by-model Japanese/OEM pass, then expand into additional British, Italian, American and European foundational dirt builders of the 1960s-1990s. Reconcile enclosure changes, branding, manufacturing relationships, production windows and surviving period documentation before promoting research-tier entries.
