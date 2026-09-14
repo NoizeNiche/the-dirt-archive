@@ -1,44 +1,42 @@
-# Early Foundational Handoff 68
+# Early Foundational Handoff 69
 
-## Pass 20: early boutique evidence, prototype states, and first retail traces
+## Pass 21: boutique catalog expansion and specimen-level production boundaries
 
-This pass deepens the 1992-2010 boutique corridor with eight reconciliation records. The strongest evidence comes from contemporary product databases, builder histories, contemporary forum announcements, and surviving importer documentation. Prototype, first commercial, and later revival states remain separate.
+This pass extends the 1998-2010 corridor with seven reconciliation records focused on early Catalinbread, Keeley, Skreddy, and a later EQD lineage correction. The emphasis remains on first production states, documented graphics/build transitions, and separating design-origin dates from retail dates.
 
 ### Newly documented
 
-- **Death By Audio Octave Clang**: April 20, 2006 documentary anchor for the original octave-fuzz production state; current V2 is treated as a later return/revision.
-- **Death By Audio Fuzz War**: March 2008 contemporary pre-order/release evidence, anchoring an early retail state.
-- **Devi Ever Soda Meiser**: May 2007 documented retail presence for a distinctive high-gain fuzz.
-- **Devi Ever Torn's Peaker**: May 2007 documented retail presence, with later physical states retained for specimen work.
-- **MI Audio Tube Zone Overdrive**: first commercial MI Audio pedal, with a 1995 design origin separated from the 2002 company/retail milestone.
-- **MI Audio Blues Prototype**: unused Blue Boy PCBs repurposed into bare-aluminium units sold at cost, becoming an unexpectedly collectible prototype-to-production object.
-- **Black Arts Toneworks Pharaoh**: 2009-2010 founding production corridor, with earliest enclosure and first-sale details left specimen-led.
-- **Way Huge Swollen Pickle**: original 1990s production state separated from later Dunlop-era MkII and Smalls descendants.
+- **Catalinbread Super Chili Picoso**: June 2003 founding retail anchor as the first Catalinbread-branded pedal made for ToneFactor.
+- **Catalinbread SFT**: 2008-2010 early-production corridor, with the company’s documented 2008 decal-to-Lexan and 2010 Lexan-to-silkscreen graphics transitions preserved as future specimen clues.
+- **Catalinbread Merkin Fuzz**: 2008-2009 early-fuzz marker inside the first major Catalinbread expansion wave.
+- **Keeley Java Boost**: 2005 period retail evidence for an early germanium treble-boost product state.
+- **Keeley Compressor October 2005 build state**: context-only generation record documenting the input-sensitivity and top-jack production change; excluded from dirt count.
+- **Skreddy Pig Mine**: January 2009 first outsourced-board assembly milestone, published as a May 2009 product state.
+- **EarthQuaker Devices Dirt Transmitter Legacy Reissue**: 2021 limited 1000-unit reissue kept explicitly separate from the original 2008 three-control production state.
 
 ### Key research findings
 
-1. **The early boutique scene was geographically and documentary diverse.** Australian MI Audio, Brooklyn's Death By Audio, U.S. builders such as Devi Ever and Black Arts Toneworks, and the earlier Way Huge line all belong in the same historical corridor without being flattened into one style.
-2. **Prototype evidence can be more historically valuable than polished catalog data.** MI Audio's Blues Prototype gives the Archive a clean example of an abandoned-board salvage project becoming a recognized production-adjacent collectible.
-3. **Current reissues can distort original chronology.** DBA's current Octave Clang V2 explicitly describes itself as a return after the original disappeared, so the Archive keeps the 2006 state distinct from the present revival.
-4. **Contemporary announcements are legitimate chronology evidence.** The 2008 Fuzz War pre-order announcement establishes a retail-era window even though the surviving current product page does not provide the original launch date.
-5. **First commercial product is an important builder milestone.** MI Audio's Tube Zone was the company's first commercial pedal even though its experimental lineage began years earlier.
-6. **Brand-family separation matters.** Original Way Huge Swollen Pickle units must remain separate from later Dunlop-era descendants; similarly, DBA's original Octave Clang must not be overwritten by the current V2.
+1. **Graphics can become chronology evidence.** Catalinbread explicitly dates its shift from decals to Lexan faceplates in 2008 and from Lexan to two-color silkscreen in 2010, creating future specimen-identification boundaries even where exact model launch dates are broad.
+2. **A builder’s first retail product can be a historical anchor.** Super Chili Picoso gives Catalinbread a hard June 2003 starting point and ties the origin of the company to a specific retailer relationship.
+3. **A production-method change can matter as much as a circuit revision.** Skreddy’s January 2009 move to outsourced board assembly marks an important manufacturing transition that collectors may encounter without it changing the pedal’s public model name.
+4. **Context records should remain separate from dirt counts.** Keeley’s 2005 compressor change is valuable for reconstructing the company’s production chronology, but it does not belong in the core overdrive/distortion/fuzz population.
+5. **Reissues are separate historical objects.** The Dirt Transmitter Legacy Reissue is explicitly limited to 1000 units and restores a discontinued pedal in a four-control format, making it a separate edition from the original small-enclosure three-control state.
 
 ### Evidence discipline
 
-- **VERIFIED** is used for explicit manufacturer or contemporary documentary support.
-- **RESEARCH** is retained where exact first-sale dates, quantities, or earliest physical states remain uncertain.
-- Design origin, company founding, first commercial sale, first documented publication, later reissue, and revival are separate historical events.
+- **VERIFIED** remains reserved for explicit manufacturer or contemporary documentary support.
+- **RESEARCH** remains for broad specialist chronology, exact first-sale gaps, and unresolved specimen boundaries.
+- Build-method changes, graphics transitions, limited reissues, and original production states are preserved as separate layers.
 - No schematics, PCB layouts, complete BOMs, gutshot libraries, or cloning instructions are added.
 
 ### Current lineage position
 
-The research corridor now reaches from 1960s fuzz pioneers through the 1970s/1980s compact-pedal expansion, the 1990s high-gain and early-boutique transition, and into the Internet-era boutique ecosystem of the 2000s. The next useful layer is the smaller surrounding catalog that explains how these builders grew, changed production methods, and established recognizable first generations.
+The boutique corridor now has strong anchor points from Way Huge in 1992, Catalinbread in 2003, Skreddy in 2004, Keeley in the early 2000s, MI Audio in the mid-2000s, and EQD/Devi Ever/Death By Audio in the later 2000s. The documentary record increasingly shifts toward retailer announcements, builder-authored timelines, specialist databases, contemporary video, and production-state clues.
 
-### Pass 20 note
+### Pass 21 note
 
-Extension 120 contains REC-227 through REC-234. The public reconciliation index was expanded through historical-reconciliation-15.tsv, and the recent-home loader was advanced through extension 120.
+Extension 121 contains REC-235 through REC-241. Public and research reconciliation-15 indexes have been extended accordingly. Extension 121 is now the next loaded archive layer.
 
 ### Next target
 
-Continue through 1998-2010 with **HBE's wider production catalog, Catalinbread's early dirt models beyond Super Chili Picoso, Keeley early drive/fuzz generations, more Skreddy first-run states, Devi Ever variants, Death By Audio's early catalog beyond Fuzz War/Octave Clang, Black Arts Toneworks early editions, and MI Audio Blues Pro / Tube Zone generation boundaries**. Parallel work should reconcile late DOD/DigiTech FX closeout products and early modeling systems while preserving the dedicated-dirt boundary.
+Continue through **1998-2010** with HBE’s early dirt catalog, Catalinbread’s SFT/Merkin/early drive chronology, Keeley Fuzz/Java generations, Skreddy first-run and outsourcing states, Devi Ever’s early catalog, Death By Audio’s pre-2010 dirt families, Black Arts Toneworks editions, MI Audio Blues Pro/Tube Zone generations, and late DOD/DigiTech FX closeout products. Keep digital modeling records as contextual platform history rather than allowing them to dilute the dedicated-dirt archive.
