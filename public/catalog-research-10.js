@@ -30,7 +30,7 @@
     },
     'Colorsound / Sola Sound|Colorsound Power Boost': {
       status:'Research verified; landmark early Colorsound overdrive/boost', introduced_year:1969, discontinued_year:1972,
-      summary:'The Colorsound Power Boost was one of the foundational products of the Colorsound line. It began as an 18-volt orange-box design in the late 1960s/around 1970 and was intended as a powerful broad-band boost/preamp capable of pushing an amplifier into overdrive. The original branding and enclosure were later followed by the 9-volt Overdriver branch.',
+      summary:'The Colorsound Power Boost was one of the foundational products of the Colorsound line. It began as an 18-volt orange-box design around 1969–1970 and was intended as a powerful broad-band boost/preamp capable of pushing an amplifier into overdrive. The original branding and enclosure were followed by the 9-volt Overdriver branch.',
       identification_notes:'Original examples are associated with the orange Colorsound enclosure and early graphics, including versions with and without the early “Hit It” arrow graphic. Powering is a significant clue: early Power Boost examples are associated with 18V operation, while later 9V versions exist under Power Boost branding and can be confused with Overdriver-era production.',
       lineage_notes:'The Power Boost is the predecessor to the Colorsound Overdriver naming branch. Rare Vox-branded power-boost examples also exist and should remain separate OEM records.',
       why_it_matters:'It is a landmark early overdrive/boost design and an important bridge between British fuzz-era effects and the loud preamp-style overdrives that followed.',
@@ -43,13 +43,13 @@
       image:{source_page:'https://www.effectsdatabase.com/model/colorsound/powerboost',image_url:null,credit:null,license:null,rights_status:'Specialist image; republication not cleared',republish_status:'Reference Only'}
     },
     'Colorsound / Sola Sound|Colorsound Overdriver': {
-      status:'Research verified; successor/naming branch of Power Boost', introduced_year:1971, discontinued_year:1970,
-      summary:'The Colorsound Overdriver followed the Power Boost naming and enclosure transition, moving the famous broad-band Colorsound boost/drive concept into a grey enclosure and 9-volt format. Historical sources treat the early Overdriver as closely related to, and in substantial respects the same basic design as, the Power Boost while documenting important packaging and power-era changes.',
+      status:'Research verified; successor/naming branch of Power Boost', introduced_year:1971, discontinued_year:null,
+      summary:'The Colorsound Overdriver followed the Power Boost naming and enclosure transition, moving the famous broad-band Colorsound boost/drive concept into a grey enclosure and 9-volt format. Historical sources treat the classic early Overdriver as closely related to, and in substantial respects the same basic design as, the Power Boost while documenting important packaging and power-era changes.',
       identification_notes:'The grey hammerite-style enclosure and Overdriver graphics distinguish the classic version from orange Power Boost examples. Later wide-box and white-label examples belong to subsequent Colorsound production and should be dated from their exterior details rather than treated as one uniform version.',
       lineage_notes:'This is the direct naming successor to the Power Boost branch. Modern Colorsound reissues may add features or alter the preamp implementation, so original production and reissue records must remain separate.',
       why_it_matters:'The Overdriver is one of the canonical early overdrive pedals and an important reference point for the emergence of the overdrive category itself.',
       aliases:'Colorsound Overdriver; Grey Overdriver',
-      uncertainty:'Public specialist sources disagree on exact product-year boundaries. The classic 1971-era transition is well supported, but the full discontinuation chronology of original production is less certain.',
+      uncertainty:'Public specialist sources disagree on exact product-year boundaries. The classic 1971-era transition is well supported, but the full end date of original production is less certain.',
       sources:[
         {title:'Colorsound Overdriver — Effects Database',url:'https://www.effectsdatabase.com/model/colorsound/overdriver',type:'specialist catalog reference',confidence:'High'},
         {title:'Colorsound Overdriver and Power Boost — Kitrae',url:'https://www.kitrae.net/music/Music_mp3_Colorsound_Sound.html',type:'specialist historical research',confidence:'High'},
