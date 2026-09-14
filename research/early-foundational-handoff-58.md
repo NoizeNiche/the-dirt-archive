@@ -6,23 +6,26 @@ Continue the Dirt Archive mission without waiting for confirmation. Preserve bui
 ## Pass 05
 Deepened the early American/British dirt layer with Maestro FZ-1A/FZ-1B, Baldwin-Burns Buzzaround, G. P. Electronics Harmonic Generator, Colorsound/Sola Sound Power Boost and Overdriver, Electro-Harmonix Muff Fuzz and Big Muff Triangle evidence, Ampeg Scrambler, and Jordan Boss Tone.
 
+## Pass 06
+Extended the chronology into the key 1970s-1980s landmark transition zone: DOD 250, MXR Distortion+, Maxon OD808, Ibanez TS808, BOSS OD-1, BOSS DS-1, and Big Muff Triangle/Ram's Head/Red-Black/Op-Amp production states.
+
 ## Added
 - `research/historical-reconciliation-05.tsv`
 - `public/historical-reconciliation-05.tsv`
-- `public/catalog-extensions-106.js`
+- `public/catalog-extensions-107.js`
 
 ## Major findings
-- Maestro FZ-1A is preserved as a distinct 1965-1968 generation with a Kalamazoo-to-Lincolnwood production transition.
-- FZ-1B is separated as the 1968 silicon-era Fuzz-Tone redesign rather than being collapsed into FZ-1A.
-- Buzzaround dating is widened to an evidence-backed 1966-1969 window. The archive explicitly rejects the unsupported internet myth of a separate two-knob model.
-- The G. P. Electronics Harmonic Generator is now preserved as a historical precedent in the Buzzaround lineage, while keeping the relationship at the historical-object level.
-- Colorsound Power Boost and Overdriver are linked as closely related Sola Sound/Colorsound retail states, with enclosure and branding changes treated as identification clues.
-- Muff Fuzz remains a separate Electro-Harmonix predecessor to the Big Muff Pi. Big Muff Triangle evidence is retained as a specimen/generation layer rather than a separate family.
-- Ampeg Scrambler is anchored to 1969; its approximately 2,500-unit figure remains explicitly research-level pending primary corroboration.
-- Jordan Boss Tone is preserved as a direct-plug fuzz module with later Sho-Sound licensed production states, not as a single undifferentiated object.
+- DOD 250 history remains intentionally conservative. JHS places the first Overdrive Preamp in the mid-1970s, while specialist research shows unresolved questions around the earliest BUD-box and serial-number sequence. The archive keeps those claims research-level rather than inventing a clean 1974/1976/1977 boundary.
+- DOD's Fall 1977 advertising provides a strong anchor for the recognizable 200-series die-cast enclosure, making enclosure generation a valuable specimen clue.
+- MXR Distortion+ is anchored to the 1974 early compact-pedal generation. Script-logo and box-logo eras are preserved as specimen clues, with pre-1981 hardware conventions treated as supporting evidence rather than absolute dates.
+- Nisshin Onpa/Maxon and Ibanez are explicitly modeled as manufacturer and retail-brand partners in the 1979 OD808/TS808 emergence, rather than being treated as unrelated Japanese products.
+- Narrow early TS808 examples are preserved as a specimen-facing state because surviving evidence shows enclosure, labeling and power-arrangement differences.
+- BOSS OD-1 is anchored to 1977 and its documented production run through 1985; the archive now has a clean bridge from OD-1 to later BOSS distortion/overdrive history.
+- BOSS DS-1 is anchored to 1978, with Japan-to-Taiwan manufacturing treated as a significant specimen identification boundary while exact factory-change dates remain research-level.
+- Big Muff production is separated into distinct external generations: Triangle-era small enclosure, 1973 Ram's Head transition, later red/black graphic presentation, and the 1978 Op-Amp generation. The family remains unified while individual states remain identifiable.
 
 ## Evidence rule
-When a useful historical claim comes from a specialist secondary source, record the claim and its confidence instead of silently promoting it to fact. Production quantities, exact transition cutoffs, and alleged OEM relationships stay research-level until corroborated.
+Dates from current manufacturer histories are preferred for introduction-year anchors. Specialist historical research is used for enclosure, branding, factory and specimen distinctions. Where those sources disagree, preserve the disagreement and confidence state instead of forcing a single narrative.
 
 ## Next target
-Continue the Japanese/OEM family-by-family reconciliation, then move through the remaining 1970s American and European transition points: DOD 250, MXR Distortion+, Ibanez/Maxon early overdrives, Boss OD-1/DS-1 revisions, and Big Muff national/production variants. Keep the catalog family-first and specimen-aware.
+Continue the Japanese/OEM family-by-family reconciliation, especially late-1960s/1970s Shin-ei, Teisco, Guyatone, Ace Tone and related rebrands. Then reconcile 1970s American dirt families including DOD/Ross, MXR, EH national variants, and move into 1980s landmark transitions such as Tube Screamer TS9, BOSS SD-1, RAT production states, and early digital-era dirt boxes.
