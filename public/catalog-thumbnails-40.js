@@ -1,6 +1,5 @@
 (() => {
   window.DIRT_MEDIA = Object.assign(window.DIRT_MEDIA || {}, {
-    'Stomp Under Foot 1973?': {src:null,page:'https://www.effectsdatabase.com/model/stompunderfoot/bigmuff',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
     'Stomp Under Foot (Vintage series) Green Russian': {src:null,page:'https://www.effectsdatabase.com/model/stompunderfoot',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
     'Stomp Under Foot The Shag MkII - Germanium Tone Bender': {src:null,page:'https://www.effectsdatabase.com/model/stompunderfoot',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
     'BJFE Baby Blue Overdrive': {src:null,page:'https://www.effectsdatabase.com/model/bjfe/babyblue',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
