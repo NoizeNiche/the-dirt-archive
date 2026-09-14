@@ -1,15 +1,15 @@
 (() => {
   // Ensure the modern-preservation extensions remain available even when index.html is cached by a static host.
-  for (const name of ['catalog-extensions-83.js','catalog-extensions-84.js','catalog-extensions-85.js','catalog-extensions-86.js','catalog-extensions-87.js','catalog-extensions-88.js','catalog-extensions-89.js','catalog-extensions-90.js','catalog-extensions-91.js','catalog-extensions-92.js','catalog-extensions-93.js']) {
+  for (const name of ['catalog-extensions-83.js','catalog-extensions-84.js','catalog-extensions-85.js','catalog-extensions-86.js','catalog-extensions-87.js','catalog-extensions-88.js','catalog-extensions-89.js','catalog-extensions-90.js','catalog-extensions-91.js','catalog-extensions-92.js','catalog-extensions-93.js','catalog-extensions-94.js']) {
     if (!document.querySelector(`script[src="${name}"]`)) { const s=document.createElement('script'); s.src=name; document.head.appendChild(s); }
   }
 
   const RECENT_HOME_MODELS = [
-    'JB-2 Angry Driver',
-    'Brothers Analog Gainstage',
-    'Rockaway Archer',
-    'Dracarys',
-    'Fuzz Fiend'
+    'Acapulco Gold',
+    'Kliptonite',
+    'Contraband Fuzz',
+    'BE-OD',
+    'SP1304 Fuzz'
   ];
 
   if (!document.getElementById('dirtArchiveBackgroundStyle')) {
