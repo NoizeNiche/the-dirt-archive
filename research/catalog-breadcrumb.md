@@ -32,7 +32,7 @@ The assistant cannot see an exact platform context/data-use quota or countdown. 
 - Phase 37: Caroline Guitar Company, Rainger FX, Red Panda, Pladask Elektrisk, drolo, JPTR FX; 109 discovery records and 12 reference-only image leads.
 - Phase 38: Shin-Ei, Guyatone, Jen Elettronica, Univox, Maxon; 93 discovery records and 12 reference-only image leads.
 - Phase 39: Mad Professor, BearFoot FX, One Control, Spaceman Effects, Foxpedal; 178 discovery records and 10 reference-only image leads.
-- Phase 40: BJF-connected boutique lineage pass covering BearFoot FX, Mad Professor, One Control, Spaceman Effects and Foxpedal; 178 catalog discovery records and 10 reference-only image leads.
+- Phase 40: Stomp Under Foot, BJF Electronics (BJFE), Pause&Effects, Tonecat; 85 discovery records and 11 reference-only image leads.
 
 ## Verified layer currently preserved
 The public verified product layer currently contains six deeply verified records: Fulltone OCD, Fulltone Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword, EAE Halberd. Do not overwrite these with discovery-only claims.
@@ -40,16 +40,16 @@ The public verified product layer currently contains six deeply verified records
 ## Thumbnail/media system
 Phase-specific media registries are loaded after the base catalog. New images are only eligible for public card rendering when rights status and republishing decision are explicitly cleared. Reference-only image leads remain useful research breadcrumbs but are not silently published.
 
-Current seeded reference leads include the earlier K-family, classic fuzz, Japanese OEM, Australian, European and boutique examples through Phase 39, plus Phase 40 leads for BearFoot Honey Bee and Candy Apple Fuzz, Mad Professor Fire Red Fuzz and Sweet Honey, One Control Baltic Blue Fuzz and Baby Blue OD, Spaceman Spacerocket and Sputnik II, and Foxpedal Defector and The City. Phase 40 image leads remain rights-pending.
+Current seeded reference leads include the earlier K-family, classic fuzz, Japanese OEM, Australian, European and boutique examples through Phase 39, plus Phase 40 leads for Stomp Under Foot Green Russian/Cosmonaut/The Shag MkII, BJFE Baby Blue/Bone Bender/Honey Bee, Pause&Effects Farmako/Fengari/Feta/Strand, and Tonecat Claw & Order. Phase 40 image leads remain rights-pending.
 
 ## Immediate next queue
 Continue mining the remaining historical and boutique builder universe, prioritizing:
-- Stomp Under Foot and other high-value Big Muff / Ram's Head / Civil War / Green Russian specialist builders not yet enumerated.
-- Original BJFe and other BJF-connected builder catalogs where distinct builder/product records can be established.
-- Remaining Japanese historical manufacturers and OEM/import brands, especially catalog-rich 1960s-80s names.
-- Australian and New Zealand boutique builders still absent, plus newer builders such as Tonecat and Space Sounds where source evidence is sufficient.
-- Smaller European builders and obscure UK historical replicas, including boutique Tone Bender specialists such as Pause&Effects and Beanies Fuzz.
-- Large modern builders with known historical catalogs and important discontinued brands that need preservation.
+- remaining Japanese historical manufacturers and OEM/import brands, especially catalog-rich 1960s-80s names not yet represented.
+- additional Australian and New Zealand boutique builders, including current small-batch builders with enough documented product history to justify a full catalog snapshot.
+- smaller European builders and obscure UK historical replicas, especially Tone Bender / Buzzaround / Zonk / Fuzz Face specialists.
+- remaining BJF-connected catalogs and adjacent collaborations only where a distinct builder/brand catalog can be established.
+- major vintage-derived specialists such as Stomp Under Foot for later product-depth work, especially Big Muff version families and Tone Bender-derived products.
+- large modern builders with known historical catalogs and important discontinued brands that need preservation.
 - Separate Electro-Harmonix historical brand/product-era audit remains open.
 - Continue discovering visual references during enumeration, but keep public-republish decisions separate from discovery.
 
@@ -60,6 +60,6 @@ For each builder after enumeration: split model families from editions/versions;
 For each important product, seek at least one front image lead during enumeration. When feasible add rear/side/top/packaging/catalog leads for historically diagnostic products. Store image page URL, direct image URL when available, photographer/uploader, source type, license/permission status, required credit, and republishing status.
 
 ## Phase 40 notes
-Phase 40 focused on the BJF-connected and modern boutique lineage cluster. Effects Database currently lists BearFoot FX at 27 products, Mad Professor at 35, One Control at 53, Spaceman Effects at 42 and Foxpedal at 21. BearFoot is documented as a collaboration between DonnerBox/Donner Rusk and BJF Electronics and opened for business in February 2011; the lineup includes Honey Bee, Honey Beest, Dyna Red, Candy Apple, Gnarwahl, Model G/H/Hs and several booster/OD/fuzz families. Mad Professor is owned by Harri Koski, with Jukka Mönkkönen in production and Bjorn Juhl identified as designer; its timeline places pedal production in late 2006 and the catalog includes Fire Red Fuzz, Little Green Wonder, Royal Blue, Sweet Honey, Simble and a broad non-dirt range. One Control is run by Tomokaz Kawamura; its timeline starts in March 2010 with the Mosquite Blender and identifies BJF collaboration beginning with the BJF Buffer, while the current 53-product snapshot spans BJF-designed pedals, dirt units, loop systems and utility hardware. Spaceman's 42-product snapshot includes multiple fuzz/boost/overdrive generation families such as Sputnik I/II/IIb/III, Gemini III/IV, Spacerocket, Titan II, Charon, Polaris and Apollo, plus experimental and utility products. Foxpedal's 21-product snapshot includes Defector, Foxtail, Kingdom/Kingdom Combo variants, The City/City V2, The Kingdom, Wrath and supporting effects; Effects Database also records the company's 2023 phasing-out update.
+Phase 40 corrected an earlier duplicate-entry mistake before completion. The accidental second pass of the Phase 39 builders was not retained as new research. The real Phase 40 batch instead covers Stomp Under Foot, BJF Electronics (BJFE), Pause&Effects, and Tonecat, using 85 catalog records total. Effects Database currently lists Stomp Under Foot at 30 products and BJF Electronics at 30. citeturn795685search0turn795685search2 Pause&Effects' current catalog contains 23 products, with dedicated Greek Alphabet and Young Artist series pages and vintage-radio projects; its product pages document multiple Tone Bender, Fuzz Face, Rangemaster and related historical-derived families. citeturn963856search0turn963856search2turn963856search5 Tonecat is a new Melbourne builder with a current two-product Effects Database snapshot and a much richer manufacturer/media footprint that should remain open for future discovery as the catalog grows. citeturn795685search1turn793801search0
 
-Phase 40 image work added 10 front-image reference leads from manufacturer, retailer and marketplace pages. A direct image URL was retained only where it was stable enough to be useful as a research lead; rights remain pending and no Phase 40 asset is approved for public display.
+Phase 40 image work added 11 front-image reference leads. They are provenance records only and remain rights-pending; no Phase 40 asset is approved for public display.
