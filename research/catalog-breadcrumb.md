@@ -43,7 +43,7 @@ Deep-research products after their creator catalog is stable.
 Map generations, variants, OEM branches and surviving specimens after product identity is established.
 
 ## Current builder-census progress
-Active discovery corpus now includes `builder-census-01.tsv` through `builder-census-18.tsv`.
+Active discovery corpus now includes `builder-census-01.tsv` through `builder-census-19.tsv`.
 
 Major geographic coverage includes U.S., U.K., Canada, Germany, France, Italy, Spain, Portugal, Poland, Czech Republic, Slovakia, Slovenia, Austria, Belgium, Ireland, Sweden, Norway, Denmark, Greece, Croatia, Bulgaria, Romania, Serbia, Switzerland, Japan, Taiwan, South Korea, China, India, Indonesia, Thailand, Malaysia, Australia, New Zealand, South Africa, Israel, Iran, Brazil, Argentina, Chile, Peru, Mexico and other regional pools.
 
@@ -63,6 +63,7 @@ Recent census tranches:
 - `builder-census-16.tsv`: additional Eastern Europe/Middle East and country-index candidates.
 - `builder-census-17.tsv`: 1981 Inventions, Abasi Concepts, Alexander Pedals, Amptweaker, Animals Pedal, Bananana Effects, Beetronics, Big Ear, Big Joe, CopperSound, Deep Trip, Dr. Scientist, Free The Tone, Gamechanger Audio, Ground Control Audio, Himmelstrutz, Montreal Assembly, Skreddy, Spiral Electric FX and Vemuram.
 - `builder-census-18.tsv`: worldwide manufacturer-directory gap scan adding 3rd Power, 7G FX, 29 Pedals, A Sound Of Failure, A&M Custom Effects, A/DA, ADA Amplification, Acoustic Amplification, Aguilar, Aleks K Production, Alesis, Analog Alien, ARC Effects, Area 51, Audio Sprockets, Authentic Hendrix, BBE, Big Tone Music Brewery, Black Cat, Black Country Customs, Blackhawk Amplifiers, Blakemore, BluGuitar, Bogner, Buffalo FX, BYOC, Center Street Electronics, Chandler, Chase Bliss, Chase Tone, Cicognani, CMAT Mods, CNZ, Coda, Cooper FX, Costalab, Creative Audio Labs, Cusack, Daredevil, Deadbeat, Deep Space Devices, Demeter, Diezel, Dr. No, DryBell, EBS, Effectivity Wonder, Electronic Orange, Electro Faustus, Elektron, Emerson Custom, Escape Plan, Expresso FX, Fire-Eye, Foxrox, Frost Giant and Function F(x).
+- `builder-census-19.tsv`: targeted Effects Database gap scan adding Celmo, Cluster Effects, Effects Bakery, Heptode, Human Gear, JMB.Experience, LNA Guitar Effects, Leqtique, Mazzette, Ovaltone, ProXON Custom Analog Effects, Providence, Shigemori, Sobbat, SP Custom Pickups and historical Singapore micro-builders GoosoniqueWorx and TheBlueArk.
 
 ## Discovery source strategy
 Independent source pools include Fuzzboxes, Effects Database, ToneHome, Pro Audio KB, BoutiqueGear, Guitar Pedal X, large manufacturer sites, retailer directories, regional builder roundups, manufacturer histories, interviews, old advertisements and selected community discovery threads. Discovery sources are candidate-generation tools, not automatic proof of canonical attribution. Current manufacturer directories are especially useful as gap detectors; their listed country may identify brand origin rather than manufacturing location.
@@ -91,7 +92,7 @@ Deep research exists for foundational families and examples including Fuzz Face,
 Tone Bender, RAT, Catalinbread and Big Muff research all demonstrate that graphics, enclosure, production, OEM origin and electronics can change independently. The Archive should never flatten those dimensions into a single "version" field. OEM census work also shows that one factory can sit behind many labels, while one brand can use several physical manufacturers across time.
 
 ## Next pickup point
-**Stay in Queue A until saturation.** Continue targeted creator searches, with emphasis on: remaining countries and regional scenes; historical companies that made amplifiers/instruments plus pedals; Japanese/Korean/Taiwanese OEM factories; Latin America; Middle East; Africa; Southeast Asia; Soviet/Eastern Bloc and pre-Internet micro-builders; DIY-to-commercial transitions; private-label and distributor brands. When the new-creator return drops sharply, stop broad expansion and perform the master reconciliation across `builder-census-01.tsv` through `builder-census-18.tsv`. Only after that should Queue B begin creator-by-creator complete catalog enumeration.
+**Stay in Queue A until saturation.** Continue targeted creator searches, with emphasis on: remaining countries and regional scenes; historical companies that made amplifiers/instruments plus pedals; Japanese/Korean/Taiwanese OEM factories; Latin America; Middle East; Africa; Southeast Asia; Soviet/Eastern Bloc and pre-Internet micro-builders; DIY-to-commercial transitions; private-label and distributor brands. When the new-creator return drops sharply, stop broad expansion and perform the master reconciliation across `builder-census-01.tsv` through `builder-census-19.tsv`. Only after that should Queue B begin creator-by-creator complete catalog enumeration.
 
 ## Editorial rule
 **Document the object, not the recipe.** Do not publish gutshots, schematics, PCB diagrams or complete circuit recipes. Research depth is encouraged; unsupported certainty is not.
