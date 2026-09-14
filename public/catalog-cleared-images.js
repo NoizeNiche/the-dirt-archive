@@ -15,6 +15,11 @@
       page:'https://commons.wikimedia.org/wiki/File:Boss-DS-1.jpg',
       credit:'Matt Eason · CC BY-SA 3.0 / GFDL'
     },
+    'BOSS OD-1 OverDrive': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/BOSS_OD-1.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:BOSS_OD-1.jpg',
+      credit:'zynke · CC BY 2.0'
+    },
     'Vox Tone Bender': {
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Vox_Tone_Bender.jpg',
       page:'https://commons.wikimedia.org/wiki/File:Vox_Tone_Bender.jpg',
