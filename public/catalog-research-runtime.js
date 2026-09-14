@@ -23,10 +23,11 @@
     const article=document.querySelector('.detail-layout article');
     if(!article) return;
     const sourceRows=(r.sources||[]).map(s=>`<div class="source-row"><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)} ↗</a><small>${esc(s.type)} · ${esc(s.confidence)}</small></div>`).join('');
+    const generationRows=(r.generations||[]).map(g=>`<div class="source-row"><strong>${esc(g.label)}</strong><small>${esc(g.years)} · ${esc(g.notes)}</small></div>`).join('');
     const section=document.createElement('section');
     section.className='detail-section';
     section.id='research-dossier';
-    section.innerHTML=`<h2>Research dossier</h2><p>${esc(r.summary||'')}</p>${r.identification_notes?`<h3>Identification notes</h3><p>${esc(r.identification_notes)}</p>`:''}${r.lineage_notes?`<h3>Lineage / relationships</h3><p>${esc(r.lineage_notes)}</p>`:''}${sourceRows?`<h3>Research sources</h3><div class="source-list">${sourceRows}</div>`:''}`;
+    section.innerHTML=`<h2>Research dossier</h2><p>${esc(r.summary||'')}</p>${r.identification_notes?`<h3>Identification notes</h3><p>${esc(r.identification_notes)}</p>`:''}${r.lineage_notes?`<h3>Lineage / relationships</h3><p>${esc(r.lineage_notes)}</p>`:''}${generationRows?`<h3>Generation / version map</h3><div class="source-list">${generationRows}</div>`:''}${sourceRows?`<h3>Research sources</h3><div class="source-list">${sourceRows}</div>`:''}`;
     const about=article.querySelector('.detail-section');
     about?.after(section);
   }
