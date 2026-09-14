@@ -32,6 +32,10 @@ Current phases include:
 - `fuzz-obscure-vintage-phase-2a.md` — Mosrite, Rosac/Sierra, Guild, Maestro, Schaller OEMs, Elka, Baldwin-Burns, JEN/Vox, Kay, Hohner and related historical branches
 - `catalog-completeness-phase-22.md` — Empress, Guild, DenTone, Montgomery Appliances and Blue Skool Records catalog discovery
 - `catalog-completeness-phase-23.md` — EarthQuaker Devices, Death By Audio, Electronic Audio Experiments, Black Arts Toneworks and Fulltone catalog discovery, plus current-product additions
+- `product-depth-phase-24.md` — focused historical research for major boutique dirt families
+- `product-verification-phase-25.md` — evidence review and promotion rules for the strongest P1 families
+
+The first public verification promotion now contains six structured records: Fulltone OCD, Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword and EAE Halberd. Their generation records, source records and selected claim-level evidence are loaded by `public/catalog-verified-25.js`.
 
 A candidate or discovery record is not automatically a verified public archive record. Promotion requires evidence review, naming/relationship review and, where applicable, production-variation research.
 
