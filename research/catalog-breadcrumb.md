@@ -20,18 +20,15 @@ The assistant cannot see an exact platform context/data-use quota or countdown. 
 - Phases 1–25: foundational catalog work, completeness protocol, deep verification layer.
 - Phase 26: 19 builders / 364 discovery records.
 - Phase 27: JHS Pedals, Walrus Audio, Old Blood Noise Endeavors, Fairfield Circuitry, ThorpyFX, Mr. Black; 361 discovery records.
-- Phase 28: BSM, VFE Pedals, Blackout Effectors, Fredric Effects, Basic Audio; 146 discovery records.
+- Phase 28: BSM, VFE Pedals, Blackout Effectors, Fredric Effects, Basic Audio; 146 unique discovery records after the extension's deduplication.
+- Phase 29: Electro-Harmonix, Prescription Electronics, D*A*M, Abominable Electronics; 192 discovery records.
 
 ## Verified layer currently preserved
 The public verified product layer currently contains six deeply verified records: Fulltone OCD, Fulltone Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword, EAE Halberd. Do not overwrite these with discovery-only claims.
 
 ## Immediate next queue
 Priority dense/historically important builder passes:
-- Electro-Harmonix / Electro-Harmonix historical brands and product eras
-- D*A.M.
-- Prescription Electronics
 - SkinPimp
-- Abominable Electronics
 - M.A.S.F.
 - AnaSounds
 - T. Jauernig Electronics
@@ -47,8 +44,9 @@ Priority dense/historically important builder passes:
 - 1969 Effects
 - Orion Effekte
 - G.S. Wyllie
+- Electro-Harmonix historical brand/product-era audit
 
-Then audit the large modern builders not yet fully enumerated, using current official catalogs plus historical sources.
+Then audit large modern builders not yet fully enumerated, using current official catalogs plus historical sources.
 
 ## Product research later
 For each builder after enumeration: split model families from editions/versions; identify earliest/latest evidence; document enclosure/artwork/control/label changes; record high-level diagnostic component changes only where historically useful; map OEM, licensing, collaborations, rebrands, and derived designs.
