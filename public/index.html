@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>The Dirt Archive</title>
+  <meta name="description" content="An independent historical reference for overdrive, distortion and fuzz pedals." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="paper-noise" aria-hidden="true"></div>
+  <header class="masthead">
+    <div class="mastline wrap">
+      <span>INDEPENDENT REFERENCE PROJECT</span>
+      <span>THE DIRT ARCHIVE · OVERDRIVE · DISTORTION · FUZZ</span>
+      <span>ISSUE 01</span>
+    </div>
+    <div class="brandrow wrap">
+      <a class="wordmark" href="#/">
+        <span>THE DIRT</span>
+        <em>ARCHIVE</em>
+      </a>
+      <nav>
+        <a href="#/builders">Builders</a>
+        <a href="#/category/fuzz">Fuzz</a>
+        <a href="#/category/overdrive">Overdrive</a>
+        <a href="#/category/distortion">Distortion</a>
+        <a href="#/about">About</a>
+      </nav>
+      <button id="searchBtn" class="icon-btn" aria-label="Search archive">⌕</button>
+    </div>
+  </header>
+
+  <main id="app" class="wrap"></main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <div><strong>THE DIRT ARCHIVE</strong><br>Independent reference project for pedal history, identification and preservation.</div>
+      <div class="footer-right">Working title · Founding collection · Dirt v0.4</div>
+    </div>
+  </footer>
+
+  <dialog id="searchDialog">
+    <form method="dialog" class="search-panel">
+      <div class="search-head"><h2>Search the Archive</h2><button value="cancel" class="close">×</button></div>
+      <input id="searchInput" type="search" placeholder="Builder, pedal, category, era…" autocomplete="off" />
+      <div id="searchResults" class="search-results"></div>
+    </form>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>
