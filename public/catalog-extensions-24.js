@@ -1,5 +1,5 @@
 (() => {
-  const nativeFetch = window.fetch.bind(window.fetch);
+  const nativeFetch = window.fetch.bind(window);
   const batches = ['discovery-24.tsv'];
   const builders = {
     'BLD-DISC-TOPGEAR-01':['Top Gear','UK','Historical / manufacturer','1970s British effects line designed and manufactured by Len Hawkes at Hawkes Electronics in Sussex.'],
