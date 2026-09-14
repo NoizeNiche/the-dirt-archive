@@ -1,11 +1,11 @@
 (() => {
   // Rolling homepage activity rail. Keep newest-first and update this list with each meaningful archive release.
   const RECENT_HOME_MODELS = [
-    'Höfner Fuzz Tone No. 540',
-    'Bell Electrolabs Fuzz',
-    'Top Gear Fuzz Sustain',
-    'Lemon StudioSound Zuzz Thainer',
-    'Schaller Fuzz-Sustain'
+    'Pugilist Distortion V2',
+    'Santa Ana Overdrive V2',
+    'The Pelt Fuzz V2',
+    'Overdrive Preamp 250-X',
+    'G3 V2'
   ];
 
   // Fixed archival backdrop. The SVG stays stationary while the archive scrolls.
