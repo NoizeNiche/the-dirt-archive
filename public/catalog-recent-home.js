@@ -1,11 +1,11 @@
 (() => {
   // Rolling homepage activity rail. Keep newest-first and update this list with each meaningful archive release.
   const RECENT_HOME_MODELS = [
-    'Schaller Fuzz-Sustain',
-    'Schaller Tonverzerrer',
-    'Blackfield Flying Sound',
-    'Blackfield Fuzz',
-    'Moreschi Octave Fuzz'
+    'Höfner Fuzz Tone No. 540',
+    'Bell Electrolabs Fuzz',
+    'Top Gear Fuzz Sustain',
+    'Lemon StudioSound Zuzz Thainer',
+    'Schaller Fuzz-Sustain'
   ];
 
   function recentHomeRecords() {
