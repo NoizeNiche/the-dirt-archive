@@ -25,6 +25,7 @@
     .specimen-status.reference{color:#8b2319}
     .card-specimen-count{display:block;margin-top:7px;color:#766a5b;font:700 7px Arial,Helvetica,sans-serif;letter-spacing:.09em;text-transform:uppercase}
     .card-specimen-count .dot{display:inline-block;width:4px;height:4px;border-radius:50%;background:#48634d;margin-right:5px;vertical-align:middle}
+    .card-specimen-primary{display:block;margin-top:4px;color:#48634d;font:700 6px Arial,Helvetica,sans-serif;letter-spacing:.09em;text-transform:uppercase}
     @media(max-width:640px){.specimen-gallery{grid-template-columns:1fr 1fr}.specimen-item img{aspect-ratio:1/1}}
   `;
   document.head.appendChild(style);
@@ -33,28 +34,55 @@
   const buildUrl=(title,extra='')=>`https://www.google.com/search?tbm=isch&q=${encodeURIComponent(`${title} ${extra} guitar pedal vintage`)}`;
   const specs=()=>Array.isArray(window.DIRT_SPECIMENS)?window.DIRT_SPECIMENS:[];
   const forTitle=title=>specs().filter(s=>s.title===title);
+  const clearedForTitle=title=>forTitle(title).find(s=>(s.rights||'Reference').toLowerCase()==='cleared');
+
+  function applyClearedCardImage(card,title){
+    if(card.querySelector('.pedal-image img')) return false;
+    const s=clearedForTitle(title);
+    const holder=card.querySelector('.pedal-image');
+    if(!s||!holder) return false;
+    holder.innerHTML=`<img src="${esc(s.src)}" alt="${esc(title)} archival reference photograph" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.innerHTML='<div class=&quot;no-image&quot;><div><strong>${esc(title)}</strong><small>Reference image unavailable</small></div></div>'">`;
+    return true;
+  }
+
+  function applyClearedDetailImage(){
+    const heading=document.querySelector('.detail-title');
+    const plateImage=document.querySelector('.plate-image');
+    if(!heading||!plateImage||plateImage.querySelector('img')) return;
+    const s=clearedForTitle(heading.textContent.trim());
+    if(!s) return;
+    plateImage.innerHTML=`<img src="${esc(s.src)}" alt="${esc(heading.textContent.trim())} archival reference photograph" referrerpolicy="no-referrer">`;
+    const cap=plateImage.parentElement?.querySelector('.plate-caption');
+    if(cap) cap.innerHTML=`<a href="${esc(s.page||s.src)}" target="_blank" rel="noopener">Archive image source ↗</a><br>${esc(s.credit||'Source credit recorded in registry.')}`;
+  }
 
   function addCardSpecimens(){
     document.querySelectorAll('.pedal-card').forEach(card=>{
-      if(card.querySelector('.card-specimen-count')) return;
       const title=card.querySelector('h3')?.textContent?.trim();
       if(!title) return;
       const list=forTitle(title);
       if(!list.length) return;
+      const had=!!card.querySelector('.card-specimen-count');
+      applyClearedCardImage(card,title);
+      if(had) return;
       const cleared=list.filter(s=>(s.rights||'Reference').toLowerCase()==='cleared').length;
       const body=card.querySelector('.pedal-body')||card;
       const el=document.createElement('div');
       el.className='card-specimen-count';
       el.innerHTML=`${cleared?'<span class="dot"></span>':''}${list.length} visual specimen${list.length===1?'':'s'} indexed${cleared?` · ${cleared} archive-cleared`:''}`;
       body.appendChild(el);
+      if(cleared) {
+        const p=document.createElement('div');
+        p.className='card-specimen-primary';
+        p.textContent='Primary cleared specimen shown above';
+        body.appendChild(p);
+      }
     });
   }
 
   function specimenVisual(s,title){
     const status=(s.rights||'Reference').toLowerCase();
-    if(status==='cleared'){
-      return `<a href="${esc(s.src)}" target="_blank" rel="noopener"><img src="${esc(s.src)}" alt="${esc(title)} ${esc(s.role||'specimen')} photograph" loading="lazy" referrerpolicy="no-referrer"></a>`;
-    }
+    if(status==='cleared') return `<a href="${esc(s.src)}" target="_blank" rel="noopener"><img src="${esc(s.src)}" alt="${esc(title)} ${esc(s.role||'specimen')} photograph" loading="lazy" referrerpolicy="no-referrer"></a>`;
     return `<div class="specimen-reference"><div><strong>External visual reference</strong><span>Photograph retained as an identification lead, not an Archive asset.</span><a href="${esc(s.page||s.src)}" target="_blank" rel="noopener">Open source / specimen ↗</a></div></div>`;
   }
 
@@ -79,7 +107,7 @@
     card.appendChild(strip);
   }
 
-  function decorate(){addCardSpecimens();addBlock();}
+  function decorate(){applyClearedDetailImage();addCardSpecimens();addBlock();}
   new MutationObserver(()=>setTimeout(decorate,20)).observe(document.getElementById('app')||document.body,{childList:true,subtree:true});
   window.addEventListener('hashchange',()=>setTimeout(decorate,50));
   window.addEventListener('load',()=>setTimeout(decorate,120));
