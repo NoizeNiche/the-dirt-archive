@@ -48,6 +48,28 @@
     ['GEN-VER-25-019','PED-VER-0006','V2',2021,null,'August 2021 revision with 125B enclosure, removal of NOS germanium, lower current draw, electronic bypass, Voice switch and protection.'],
     ['GEN-VER-25-020','PED-VER-0006','V2.5',2025,null,'January 2025 revision beginning at serial #1684 with revised Pre and Depth tapers and increased maximum gain.']
   ];
+  const runs = [
+    ['RUN-VER-25-001','GEN-VER-25-001',2004,null,'Builder-documented','OCD family begins in 2004; V1.0–V1.8 variations are part of one builder-defined lineage.','https://www.fulltoneusa.com/products/ocd-v2'],
+    ['RUN-VER-25-002','GEN-VER-25-002',null,null,'Serial boundary','Serial 205811+ marks Fulltone’s less-compressed OCD revision.','https://www.fulltoneusa.com/products/ocd-v2'],
+    ['RUN-VER-25-003','GEN-VER-25-003',null,null,'Current limited event','Modern Custom Shop OCD v1.4 reproduction, separate from original 2000s production.','https://www.fulltoneusa.com/collections/ocd/products/custom-shop-ocd-v1-4'],
+    ['RUN-VER-25-004','GEN-VER-25-008',2007,null,'Exact date anchor','First production Hoof sale documented March 18, 2007.','https://www.earthquakerdevices.com/about'],
+    ['RUN-VER-25-005','GEN-VER-25-009',2010,2010,'Exact year / limited run','Approximately 25 Hoof Reapers made for Tone Factor for Black Friday 2010.','https://www.earthquakerdevices.com/blog-posts/fuzzcyclopedia'],
+    ['RUN-VER-25-006','GEN-VER-25-011',2015,null,'Year anchor','First Longsword batch orders began June 17, 2015.','https://www.electronicaudioexperiments.com/blog/2025/6/17/a-decade-of-studying-the-blade'],
+    ['RUN-VER-25-007','GEN-VER-25-016',2021,null,'Month / serial range','V4.5: January 2021, serials #362–3252.','https://www.electronicaudioexperiments.com/pedals/longsword'],
+    ['RUN-VER-25-008','GEN-VER-25-017',2026,null,'Month / serial threshold','V4.6: June 2026, beginning at serial #3253.','https://www.electronicaudioexperiments.com/pedals/longsword'],
+    ['RUN-VER-25-009','GEN-VER-25-018',2019,null,'Season anchor','Halberd V1 released Fall 2019.','https://www.electronicaudioexperiments.com/pedals/halberd'],
+    ['RUN-VER-25-010','GEN-VER-25-019',2021,null,'Month anchor','Halberd V2 released August 2021.','https://www.electronicaudioexperiments.com/pedals/halberd'],
+    ['RUN-VER-25-011','GEN-VER-25-020',2025,null,'Month / serial threshold','Halberd V2.5: January 2025, beginning at serial #1684.','https://www.electronicaudioexperiments.com/pedals/halberd']
+  ];
+  const distinguishers = [
+    ['DST-VER-25-001','GEN-VER-25-002','Serial threshold','Fulltone serial 205811+ identifies the less-compressed OCD revision.','Serial 205811 and higher','Verified','https://www.fulltoneusa.com/products/ocd-v2'],
+    ['DST-VER-25-002','GEN-VER-25-001','Terminology','“v2.01” is collector/user terminology for the serial 205811+ revision, not Fulltone’s official generation name.','Label as collector terminology','Verified','https://www.fulltoneusa.com/products/ocd-v2'],
+    ['DST-VER-25-003','GEN-VER-25-008','Production date','EQD identifies March 18, 2007 as the first production Hoof sale.','March 18, 2007','Verified','https://www.earthquakerdevices.com/about'],
+    ['DST-VER-25-004','GEN-VER-25-009','Limited-run quantity','Approximately 25 Hoof Reapers were made for the 2010 Tone Factor Black Friday sale.','Approx. 25 units','Verified','https://www.earthquakerdevices.com/blog-posts/fuzzcyclopedia'],
+    ['DST-VER-25-005','GEN-VER-25-016','Serial range','Longsword V4.5 covers serials #362–3252.','#362–3252','Verified','https://www.electronicaudioexperiments.com/pedals/longsword'],
+    ['DST-VER-25-006','GEN-VER-25-017','Serial threshold','Longsword V4.6 begins at serial #3253.','#3253+','Verified','https://www.electronicaudioexperiments.com/pedals/longsword'],
+    ['DST-VER-25-007','GEN-VER-25-020','Serial threshold','Halberd V2.5 begins at serial #1684.','#1684+','Verified','https://www.electronicaudioexperiments.com/pedals/halberd']
+  ];
   const claims = [
     ['CLM-VER-25-001','PED-VER-0001','Fulltone states OCD began in 2004 and describes one OCD lineage with V1.0–V1.8 variations.','Verified','High','SRC-VER-25-01'],
     ['CLM-VER-25-002','PED-VER-0001','Fulltone identifies serial 205811 and higher as the less-compressed revision commonly called “v2.01” by users.','Verified','High','SRC-VER-25-01'],
@@ -77,6 +99,8 @@
     }
     for(const [id,url,title,type,org] of sources){ if(!base.sources.some(s=>s.source_id===id)) base.sources.push({source_id:id,url,title,source_type:type,author_or_org:org}); }
     for(const [id,pid,name,start,end,summary] of generations){ if(!base.generations.some(g=>g.generation_id===id)) base.generations.push({generation_id:id,pedal_id:pid,name,start_year:start,end_year:end,summary}); }
+    for(const [id,gid,start,end,dateQuality,summary,url] of runs){ if(!base.runs.some(r=>r.run_id===id)) base.runs.push({run_id:id,generation_id:gid,start_year:start,end_year:end,date_quality:dateQuality,summary,source_url:url}); }
+    for(const [id,gid,type,description,value,status,url] of distinguishers){ if(!base.distinguishers.some(d=>d.distinguisher_id===id)) base.distinguishers.push({distinguisher_id:id,generation_id:gid,type,description,identification_value:value,status,source_url:url}); }
     for(const [id,subject,claim,status,confidence,sourceId] of claims){ const src=base.sources.find(s=>s.source_id===sourceId); if(!base.claims.some(c=>c.claim_id===id)) base.claims.push({claim_id:id,subject_id:subject,claim_text:claim,status,confidence,source_url:src?.url||''}); }
     return base;
   }
