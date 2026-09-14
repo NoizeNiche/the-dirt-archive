@@ -1,15 +1,15 @@
 (() => {
   // Ensure the modern-preservation extensions remain available even when index.html is cached by a static host.
-  for (const name of ['catalog-extensions-83.js','catalog-extensions-84.js','catalog-extensions-85.js','catalog-extensions-86.js','catalog-extensions-87.js','catalog-extensions-88.js','catalog-extensions-89.js','catalog-extensions-90.js','catalog-extensions-91.js','catalog-extensions-92.js']) {
+  for (const name of ['catalog-extensions-83.js','catalog-extensions-84.js','catalog-extensions-85.js','catalog-extensions-86.js','catalog-extensions-87.js','catalog-extensions-88.js','catalog-extensions-89.js','catalog-extensions-90.js','catalog-extensions-91.js','catalog-extensions-92.js','catalog-extensions-93.js']) {
     if (!document.querySelector(`script[src="${name}"]`)) { const s=document.createElement('script'); s.src=name; document.head.appendChild(s); }
   }
 
   const RECENT_HOME_MODELS = [
-    'RevivalDRIVE CUSTOM',
-    'Pelt Fuzz',
-    'Bonsai',
-    'G3',
-    'Plasma Distortion'
+    'JB-2 Angry Driver',
+    'Brothers Analog Gainstage',
+    'Rockaway Archer',
+    'Dracarys',
+    'Fuzz Fiend'
   ];
 
   if (!document.getElementById('dirtArchiveBackgroundStyle')) {
