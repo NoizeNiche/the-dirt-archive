@@ -1,14 +1,15 @@
 (() => {
   window.DIRT_MEDIA = Object.assign(window.DIRT_MEDIA || {}, {
-    'BearFoot FX Honey Bee Overdrive': {src:'https://www.musicstorelive.com/media/catalog/product/b/e/bearfoot-honeybee.jpg',page:'https://www.musicstorelive.com/bearfoot-fx-honey-bee-overdrive',credit:'Music Store Live / source photographer',rights_status:'Reference-only',public_use_decision:'pending'},
-    'BearFoot FX Candy Apple Fuzz': {src:null,page:'https://www.effectsdatabase.com/model/bearfoot/candyapplefuzz',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
-    'Mad Professor Fire Red Fuzz': {src:null,page:'https://www.effectsdatabase.com/model/madprofessor/fireredfuzz',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
-    'Mad Professor Sweet Honey Overdrive': {src:null,page:'https://www.effectsdatabase.com/model/madprofessor/sweethoney',credit:'Mad Professor / manufacturer imagery',rights_status:'Reference-only',public_use_decision:'pending'},
-    'One Control (designed by BJF) Baltic Blue Fuzz': {src:'https://cdn.shopify.com/s/files/1/0916/0836/products/31211_One_Control_Baltic_Blue_a_800x800.jpg?v=1571458013',page:'https://www.one-control.com/',credit:'One Control / source image',rights_status:'Reference-only',public_use_decision:'pending'},
-    'One Control (designed by BJF) Baby Blue OD': {src:null,page:'https://www.effectsdatabase.com/model/onecontrol/babyblueod',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
-    'Spaceman Effects Spacerocket - Intermodulation Octave Fuzz': {src:null,page:'https://www.chicagomusicexchange.com/products/spaceman-effects-spacerocket-fuzz',credit:'Chicago Music Exchange / source photographer',rights_status:'Reference-only',public_use_decision:'pending'},
-    'Spaceman Effects Sputnik II - Deluxe Germanium Fuzz': {src:null,page:'https://www.effectsdatabase.com/model/spaceman/sputnikii',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
-    'Foxpedal Defector - Fuzz + Boost': {src:null,page:'https://www.effectsdatabase.com/model/foxpedal/defector',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
-    'Foxpedal The City - TS-Style Overdrive': {src:null,page:'https://www.effectsdatabase.com/model/foxpedal/thecity',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'}
+    'Stomp Under Foot 1973?': {src:null,page:'https://www.effectsdatabase.com/model/stompunderfoot/bigmuff',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
+    'Stomp Under Foot (Vintage series) Green Russian': {src:null,page:'https://www.effectsdatabase.com/model/stompunderfoot',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
+    'Stomp Under Foot The Shag MkII - Germanium Tone Bender': {src:null,page:'https://www.effectsdatabase.com/model/stompunderfoot',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
+    'BJFE Baby Blue Overdrive': {src:null,page:'https://www.effectsdatabase.com/model/bjfe/babyblue',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
+    'BJFE Bone Bender MkI': {src:null,page:'https://www.effectsdatabase.com/model/bjfe/bonebender',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
+    'BJFE Honey Bee Overdrive': {src:null,page:'https://www.effectsdatabase.com/model/bjfe/honeybee',credit:'Effects Database / source uploader',rights_status:'Reference-only',public_use_decision:'pending'},
+    'Pause&Effects Farmako - Germanium Tone Bender MK1.5 Fuzz': {src:null,page:'https://pauseeffects.com/products/farmako-germanium-tone-bender-mk1-5-fuzz',credit:'Pause&Effects / manufacturer imagery',rights_status:'Reference-only',public_use_decision:'pending'},
+    'Pause&Effects Fengari - Germanium Tone Bender MKII Fuzz': {src:null,page:'https://pauseeffects.com/products/fengari-germanium-tone-bender-mkii-fuzz',credit:'Pause&Effects / manufacturer imagery',rights_status:'Reference-only',public_use_decision:'pending'},
+    'Pause&Effects Feta - Germanium Vox Tone Bender V828 Fuzz': {src:null,page:'https://pauseeffects.com/products/feta-germanium-vox-tone-bender-v828-fuzz',credit:'Pause&Effects / manufacturer imagery',rights_status:'Reference-only',public_use_decision:'pending'},
+    'Pause&Effects Strand': {src:null,page:'https://pauseeffects.com/products/strand',credit:'Pause&Effects / manufacturer imagery',rights_status:'Reference-only',public_use_decision:'pending'},
+    'Tonecat Claw & Order - Mini Overdrive': {src:null,page:'https://www.tonecat.life/',credit:'Tonecat / manufacturer imagery',rights_status:'Reference-only',public_use_decision:'pending'}
   });
 })();
