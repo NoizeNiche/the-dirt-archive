@@ -56,6 +56,11 @@
     ['CLM-VER-25-005','PED-VER-0005','EAE documents Longsword V4.5 as January 2021 serials #362–3252 and V4.6 as June 2026 beginning at serial #3253.','Verified','Very High','SRC-VER-25-08'],
     ['CLM-VER-25-006','PED-VER-0006','EAE documents Halberd V2.5 as January 2025 beginning at serial #1684.','Verified','Very High','SRC-VER-25-10']
   ];
+  const superseded = {
+    'BLD-DISC-FULLTONE-01': n => /ocd|full-?drive\s*2/i.test(n),
+    'BLD-DISC-EQD-01': n => /^(earthquaker devices\s+)?hoof( fuzz)?$|^earthquaker devices\s+hoof reaper$/i.test(n),
+    'BLD-DISC-EAE-01': n => /^(electronic audio experiments\s+)?(longsword|halberd)$/i.test(n)
+  };
   let merged=false;
   async function merge(base){
     base.builders=base.builders||[]; base.pedals=base.pedals||[]; base.generations=base.generations||[]; base.sources=base.sources||[]; base.claims=base.claims||[]; base.runs=base.runs||[]; base.distinguishers=base.distinguishers||[];
@@ -64,6 +69,7 @@
       if(b) Object.assign(b,{name:v.name,country:v.country,status:v.status,description:v.description,primary_source:v.source,source_confidence:'High'});
       else base.builders.push({builder_id:id,name:v.name,country:v.country,status:v.status,founded:null,description:v.description,primary_source:v.source,source_confidence:'High'});
     }
+    base.pedals=base.pedals.filter(p=>!(superseded[p.primary_builder_id]&&superseded[p.primary_builder_id](String(p.model_name||''))));
     for(const r of records){
       const old=base.pedals.find(p=>p.pedal_id===r.id);
       const p={pedal_id:r.id,primary_builder_id:r.builder,model_name:r.name,primary_category:r.category,subcategory:'Verified archive record',introduced_year:r.year,discontinued_year:null,production_status:r.status,description:r.description,archive_status:'Verified',confidence:r.confidence};
