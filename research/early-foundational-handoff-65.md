@@ -1,44 +1,48 @@
-# Early Foundational Handoff 70
+# Early Foundational Handoff 71
 
-## Pass 22: early boutique catalog breadth and branding-state archaeology
+## Pass 23: obscure boutique builders and the international experimental-fuzz corridor
 
-This pass expands the 2004-2010 boutique corridor with eight reconciliation records. The emphasis remains on early retail documentation, branding transitions, and specimen clues that can distinguish original states from later continuations.
+This pass expands the 2004-2010 boutique corridor with eleven reconciliation records centered on D*A*M, Effector 13/Devi Ever, Orion Effekte, T-Pedals, and Keeley. The emphasis is on dated publication evidence, branding transitions, limited runs, prototype chronology, and designer-to-retail relationships.
 
 ### Newly documented
 
-- **HomeBrew Electronics UFO Ultimate Fuzz Octave**: October 2004 documented retail state, adding an early HBE octave-fuzz anchor.
-- **HomeBrew Electronics Germania**: September 2005 documented production state, kept separate from Germania 44.
-- **Death By Audio Supersonic Fuzz Gun**: December 2005 published production state, providing a strong pre-2006 DBA marker.
-- **Effector 13 Rocket**: 2007 precursor branding state later becoming the Devi Ever Rocket, preserved as a separate identity layer.
-- **Devi Ever AE Aenima**: May 2007 documented early production state, with later enclosure/control variants left specimen-led.
-- **Devi Ever Spectacular Aenima**: August 2007 early Spectacular-series state, separated from standard Aenima entries.
-- **Skreddy Pig Mine May 2009 retail state**: documented product publication state linked to the January 2009 outsourced-board production milestone already archived.
-- **Fulltone Ultimate Octave**: October 2004 documented retail identity, with a conflicting 1997-labeled surviving specimen preserved rather than normalized away.
+- **D*A*M Meathead**: October 25, 2004 founding anchor plus early one-control silicon fuzz state.
+- **D*A*M Fuzz Sound MkIII**: early Tone Bender-family boutique revival state, retained as research-level chronology.
+- **Effector 13 Truly Beautiful Disaster**: September 22, 2005 original production state, separated from later OohLaLa manufacture.
+- **Effector 13 Tri-Fuzz**: September 24, 2005 original production state.
+- **Effector 13 Synth Mangler**: May 24, 2007 original joystick-controlled fuzz state.
+- **Effector 13 Shoe Gazer**: May 24, 2007 original production state, separated from later Devi Ever/Hand Gazer variants.
+- **Orion Effekte Motor Fuzz**: March 20, 2006 handmade German germanium fuzz state, following Orion's official winter-2005 start.
+- **Orion Effekte Gold Fuzz**: March 20, 2006 limited 100-unit edition, later related to the Fabrik Fuzz name.
+- **T-Pedals T-Fuzz**: late-2002 prototype lineage through the builder's 2006 full-time transition.
+- **T-Pedals / Hiwatt Hi-Fuzz**: 2005 designer-to-brand relationship, keeping Hiwatt's retail identity separate from T-Pedals' own catalog.
+- **Keeley Time Machine Boost**: 2004-2005 two-channel boost state, retained as builder context rather than core dirt.
 
 ### Key research findings
 
-1. **Boutique catalogs were broad very early.** HBE already had multiple distinct dirt products in the 2004-2005 period, demonstrating that small builders could move quickly from one successful design into recognizable mini-catalogs.
-2. **Branding transitions can be the archival object.** Effector 13 Rocket and later Devi Ever Rocket should not be collapsed when the branding itself is part of the collectible identity.
-3. **DBA's documentary trail reaches well before its best-known later catalog.** The December 2005 Supersonic Fuzz Gun provides an early fixed point before the 2006-2008 expansion documented elsewhere.
-4. **Skreddy production history now has two clocks.** The January 2009 outsourced-board milestone records a manufacturing event, while May 2009 records documented retail presence. Both matter for specimen research.
-5. **Conflicting specimen dates should remain visible.** The Fulltone Ultimate Octave publication date and a surviving 1997-labeled specimen conflict. The archive records both rather than silently choosing one.
-6. **The archive benefits from separating publication date, first sale, manufacturing change, branding change, and surviving-label evidence.** These are different kinds of historical claims and should never be flattened into one date field.
+1. **The early boutique ecosystem was international.** D*A*M in England, Orion in Germany, T-Pedals in Italy, and the U.S. experimental builders all appear in the same mid-2000s documentary layer.
+2. **Experimental controls became a product identity.** Synth Mangler's joystick format and Effector 13's broader experimental catalog show boutique fuzz moving beyond simple tone-control variation.
+3. **Brand ownership and manufacture could split.** Effector 13's later OohLaLa manufacturing relationship is preserved as a different production/branding state rather than being folded into the original objects.
+4. **Limited quantities deserve edition treatment.** Orion's Gold Fuzz is explicitly limited to 100 units, making quantity part of the archival identity.
+5. **Prototype histories need their own clock.** T-Pedals' T-Fuzz starts as a late-2002 prototype concept, while commercial activity and full-time operation arrive later.
+6. **Context products still matter.** Keeley's Time Machine Boost is not dirt for counting purposes, but it helps explain the product lineage surrounding the Katana and early Keeley development.
 
 ### Evidence discipline
 
-- **VERIFIED** is reserved for explicit manufacturer or strong contemporary documentary support.
-- **RESEARCH** remains for branding transitions, conflicting specimen labels, and dates that are anchored by specialist publications rather than explicit first-sale records.
-- Product families, regional labels, branding states, reissues, and manufacturing milestones remain separate evidence layers.
+- Manufacturer timelines, contemporary specialist documentation, and dated product publications remain distinct evidence classes.
+- Publication dates are not automatically treated as first-sale dates.
+- Branding, license/manufacturing, limited-run quantity, and prototype states remain separate historical layers.
+- Context-only products do not inflate the core fuzz/overdrive/distortion population.
 - No schematics, PCB layouts, complete BOMs, gutshot libraries, or cloning instructions are added.
 
 ### Current lineage position
 
-The research corridor now has robust early-boutique anchor points from Way Huge in 1992, Catalinbread in 2003, Skreddy in 2004, HBE and Fulltone in the mid-2000s, and Devi Ever, Death By Audio, Black Arts Toneworks, MI Audio, and EarthQuaker Devices in the later 2000s. The surviving evidence increasingly consists of builder timelines, specialist product pages, contemporary retailer/forum announcements, publication dates, and specimen-level physical clues.
+The archive now has a much denser map of the early boutique ecosystem surrounding the better-known 2000s builders. The evidence trail is shifting from conventional factory catalogs toward builder timelines, specialist databases, retailer announcements, prototype stories, and production-state details.
 
-### Pass 22 note
+### Pass 23 note
 
-Extension 122 adds REC-242 through REC-249. Public and research reconciliation-16 indexes were created. The recent-home loader now surfaces UFO Ultimate Fuzz Octave, Germania, Supersonic Fuzz Gun, Rocket, and Ultimate Octave.
+Extension 123 adds REC-250 through REC-260. Public and research reconciliation-17 indexes contain the new batch. The recent-home loader now surfaces Meathead, Truly Beautiful Disaster, Synth Mangler, Motor Fuzz, and Gold Fuzz.
 
 ### Next target
 
-Continue through **1998-2010** with deeper HBE dirt models, Catalinbread's pre-2011 variants and graphics states, additional Keeley Fuzz/drive generations, Devi Ever's broader early catalog, Death By Audio's 2006-2010 production family, Black Arts Toneworks first editions, MI Audio Blues Pro/Tube Zone generations, and late DOD/DigiTech closeout models. Keep digital modeling records contextual and maintain strict separation between design origin, first sale, first publication, manufacturing change, reissue, and specimen evidence.
+Continue through **1998-2010** with deeper D*A*M Tone Bender-family states, Effector 13/Devi Ever pre-license variants, Orion early-drive/fuzz models, T-Pedals retail objects, Keeley early dirt generations, Black Arts Toneworks first editions, and MI Audio generation boundaries. In parallel, reconcile late DOD/DigiTech FX closeout models and early modeling platforms while preserving the dedicated-dirt boundary.
