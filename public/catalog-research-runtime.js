@@ -1,6 +1,8 @@
 (() => {
   const esc = v => String(v ?? '').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
-  const findResearch = name => (window.DATA?.pedals || []).find(p=>String(p.model_name||'').trim().toLowerCase()===String(name||'').trim().toLowerCase())?.archive_research || null;
+  let catalog=null;
+  const load=()=>catalog||fetch('data.json').then(r=>r.json()).then(d=>(catalog=d));
+  const findResearch = name => (catalog?.pedals || []).find(p=>String(p.model_name||'').trim().toLowerCase()===String(name||'').trim().toLowerCase())?.archive_research || null;
 
   function refreshCards(){
     document.querySelectorAll('.pedal-card').forEach(card => {
@@ -29,8 +31,7 @@
     about?.after(section);
   }
 
-  function refresh(){refreshCards();refreshPedalPage();}
+  function refresh(){load().then(()=>{refreshCards();refreshPedalPage();}).catch(()=>{});}
   window.addEventListener('hashchange',()=>setTimeout(refresh,30));
   setTimeout(refresh,120);
-  setInterval(refresh,1000);
 })();
