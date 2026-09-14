@@ -39,6 +39,10 @@ This pass continues the archive into the mid-1990s through early-2000s boundary.
 
 The research corridor now runs from early Japanese/OEM fuzz networks through 1980s DOD/BOSS/Ibanez compact families, the RAT ecosystem, and into late-1990s/early-2000s digital and boutique-era crossover.
 
+### Pass 16 note
+
+This pass intentionally consolidates several already-researched late-1990s/early-2000s objects into a clean archival extension rather than creating duplicate identities. New extension records use REC-178 through REC-189, while earlier reconciliation passes retain their original record IDs.
+
 ### Next target
 
 Continue through the **1998-2010 corridor**: first-generation boutique fuzz/overdrive companies, ProCo post-Deucetone models, BOSS MT-2/DS-2/OS-2 later regional states, Ibanez TS7 and modern reissues, DOD FX66/legacy closeout models, DigiTech digital stompboxes and modeling processors, and the earliest boutique builders whose histories can be anchored by dated catalogs, archived manufacturer pages, interviews, or contemporary advertising.
