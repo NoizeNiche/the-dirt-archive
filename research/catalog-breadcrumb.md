@@ -22,8 +22,9 @@ Six deeply verified records remain preserved: Fulltone OCD, Fulltone Full-Drive 
 - Batch 10: Colorsound Supa Tonebender, Colorsound Tone Bender Jumbo, Colorsound Power Boost, Colorsound Overdriver, with generation maps.
 - Batch 11: Colorsound Fuzz Box, Colorsound Fuzz 4, Colorsound Tone Bender Distortion, Colorsound Wow Fuzz, Colorsound Wah Fuzz, Colorsound Wah plus Fuzz, Colorsound Supa Wah-Fuzz, Colorsound Supa Wah-Fuzz-Swell, with generation maps.
 - Batch 12: Sola Sound Tone Bender MkI, Sola Sound Tone Bender MkII, Sola Sound Tone Bender MkIII, Sola Sound Tone Bender MkIV, Sola Sound Bum Fuzz Unit, with generation maps.
+- Batch 13: Colorsound Bass Fuzz, Colorsound Fuzz Phazer, Colorsound Fuzzphaze, Colorsound Wah-Fuzz-Straight, Sola Sound Wow Fuzz, and Sola Sound Wow Pedal, with generation maps.
 
-## Batch 07–12 research notes
+## Batch 07–13 research notes
 - **Marshall SupaFuzz:** 1966 origin as a Sola Sound-supplied Marshall product. A short-lived early MKI-derived/filter form is separated from the conventional 1966–1968 Professional MKII-era SupaFuzz. Marshall assumed production around 1968 and continued into the early 1970s.
 - **Sola Sound Tone Bender Professional MKII:** three-transistor Sola Sound model introduced in 1966 and used as the OEM basis for major Vox, Marshall and Rotosound branded products. The canonical Sola Sound record remains separate from those branded variants.
 - **Tone Bender MKIII:** major 1968 redesign with multiple materially different implementations sold under the same broad designation. Sola Sound, Vox, Rotosound and Park forms are retained as related but distinct catalog objects.
@@ -50,6 +51,10 @@ Six deeply verified records remain preserved: Fulltone OCD, Fulltone Full-Drive 
 - **Sola Sound Tone Bender MkIII:** 1968 family containing several materially different implementations, including rare early two-control silicon, three-control germanium, Hastings-era and later silicon/Jumbo-related forms.
 - **Sola Sound Tone Bender MkIV:** introduced around 1970 with changing enclosure graphics and technology through the 1970s. “Bendy” and “Batman” are informal collector descriptors, not assumed official model names. Later production moved toward silicon/Big Muff-influenced fuzz.
 - **Sola Sound Bum Fuzz Unit:** distinct Barnes & Mullins/B&M Fuzz Unit branch from the mid-1970s, later recreated using Edwyn Collins’s personal vintage example. It is not folded into the Tone Bender MKI–MKIV ladder.
+- **Colorsound Bass Fuzz:** later revival-era bass-focused product related to the Big Muff-derived Supa/Jumbo/B&M branch, not a 1970s vintage model under that name.
+- **Colorsound Fuzz Phazer / Fuzzphaze:** rare treadle fuzz/phaser combinations, retained as separate models because their control arrangements differ.
+- **Colorsound Wah-Fuzz-Straight:** named early-1970s combination configuration where the exact printed identity, switch arrangement and enclosure matter.
+- **Sola Sound Wow Fuzz / Wow Pedal:** brand-specific stand-alone records retained alongside Colorsound counterparts to clarify the Sola Sound/Colorsound treadle ecosystem.
 
 ## Identity architecture
 Model names are not always unique across builders or OEM branches. The public catalog now routes pedal detail pages by unique `pedal_id` while preserving name-based compatibility, and research layers prefer builder-plus-model matching. This prevents identically named products from receiving the wrong historical dossier.
@@ -57,11 +62,14 @@ Model names are not always unique across builders or OEM branches. The public ca
 ## Research philosophy
 The batch system is not a limit on depth. For each builder or family under active research, capture obscure, short-lived, regional, OEM, private-label, transitional and commonly confused models when evidence exists. Favor specific identification clues and high knowledge density over generic prose. Tier A families may receive extensive generation maps, terminology notes, lineage mapping and disputed-history notes; straightforward Tier C records should remain efficient.
 
+## Public research UI
+Pedal cards now expose a research-status badge when a dossier is attached. Pedal detail pages also receive a compact research-status row with linked source and generation counts where the dossier supplies them. This is intentionally a discovery aid, not a substitute for the underlying research dossier.
+
 ## Media status
-Batch 01 has five cleared Wikimedia images. Batch 03 has cleared Wikimedia references for MXR M-104 Distortion+ and BOSS DS-1. Maestro, Univox, FY-2, Batches 04–12 image leads are reference-only unless rights are explicitly cleared. Manufacturer and specialist images are not silently republished.
+Batch 01 has five cleared Wikimedia images. Batch 03 has cleared Wikimedia references for MXR M-104 Distortion+ and BOSS DS-1. Maestro, Univox, FY-2, Batches 04–13 image leads are reference-only unless rights are explicitly cleared. Manufacturer and specialist images are not silently republished.
 
 ## Next queue
-Continue with additional Sola Sound/Colorsound dirt and combination products, additional Tone Bender MKIII/MKIV branded versions, the remaining Shin-Ei/Univox/Honey/OEM Super-Fuzz variants, remaining Maestro/Italian OEM fuzzes, MXR sub-generations, BOSS SD/DS/OD family, ProCo RAT variants, foundational EHX/Ibanez/Maxon products, then systematic coverage of the remaining catalog. When a builder or family is under active research, capture obscure, short-lived, regional, OEM, private-label and transitional dirt models when evidence exists. Keep unresolved OEM questions in a separate backlog so uncertainty does not block product coverage.
+Continue with the remaining Colorsound/Sola Sound dirt and combination catalog, especially the D*A.M. Tone Bender reissue branches and remaining dirt-capable Colorsound products. Then continue the Shin-Ei/Univox/Honey/OEM Super-Fuzz network, remaining Maestro/Italian OEM fuzzes, MXR sub-generations, BOSS SD/DS/OD family, ProCo RAT variants, foundational EHX/Ibanez/Maxon products, then systematic coverage of the remaining catalog. When a builder or family is under active research, capture obscure, short-lived, regional, OEM, private-label and transitional dirt models when evidence exists. Keep unresolved OEM questions in a separate backlog so uncertainty does not block product coverage.
 
 ## Editorial rule
 Document the object, not the recipe. Do not publish gutshots, schematics, PCB diagrams or complete circuit recipes. Research depth is encouraged; unsupported certainty is not.
