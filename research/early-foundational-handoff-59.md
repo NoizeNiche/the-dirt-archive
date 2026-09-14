@@ -3,25 +3,29 @@
 ## YARP
 Continue the Dirt Archive mission without waiting for confirmation. Preserve builder, family, retail brand, production state, lineage and specimen evidence. Document the object, not the recipe.
 
-## Pass 06
-Extended the chronology into the major 1970s-1990s transition zone, concentrating on DOD 250, MXR Distortion+, Maxon/Ibanez early overdrive, BOSS OD-1/SD-1/DS-1, Pro Co RAT production states, and Russian/Sovtek Big Muff history.
+## Pass 07
+Deepened the Japanese/OEM fuzz branch around the Honey and Shin-ei FY-6/FY-2 families, Univox import states, UK Shaftesbury branding, Royal, Teisco, Guyatone and Ace Tone.
 
 ## Added
-- `research/historical-reconciliation-06.tsv`
-- `public/historical-reconciliation-06.tsv`
-- `public/catalog-extensions-108.js`
+- `research/historical-reconciliation-07.tsv`
+- `public/historical-reconciliation-07.tsv`
+- `public/catalog-extensions-109.js`
 
 ## Major findings
-- DOD's early Overdrive Preamp is retained as a research-level predecessor because the surviving chronology is not sufficiently clean for a single exact launch year. The recognizable grey-box 250 is anchored to the late 1970s, while the yellow enclosure is treated as a later major production state.
-- MXR Distortion+ is preserved across script-logo and two block-logo periods. The archive treats logo, enclosure and power-interface changes as identification evidence, not absolute serial boundaries.
-- Maxon OD808 and Ibanez TS808 are modeled as linked Japanese manufacturer/retail-brand history. Narrow early TS808 examples are preserved separately from later familiar housings.
-- BOSS OD-1 now has a manufacturer-backed 1977-1985 production window, with the SD-1 explicitly connected as its successor development from 1981 onward.
-- DS-1 is anchored to its 1978 debut. Made-in-Japan and later Made-in-Taiwan states are kept separate, but the Japan-to-Taiwan transition remains research-level pending stronger primary factory documentation.
-- The RAT family gets explicit Bud Box, Big Box Version 1, Big Box Version 2, Small Box White Face, and Small Box Black Face specimen states. Early cosmetic variation is preserved as overlap rather than forced into artificial hard dates.
-- EHX/Sovtek Russian production is now treated as a separate geographic production family, with the Civil War-era Big Muff anchored around 1991 by EHX historical material.
+- Shin-ei's own history gives a strong anchor for the Honey Co. Ltd. FY-6 Baby Crying Fuzz in 1967 and the Shin-ei-labeled FY-6 in 1968.
+- The FY-2 Companion is preserved as a separate model family from the FY-6, with a research-level early germanium state that should be specimen-censused rather than assumed from internet descriptions.
+- Univox U-1093/U-1095 are kept as distinct early/late specimen states, with grey stamped-metal and later die-cast enclosure changes treated as external identification evidence.
+- Shaftesbury Duo Fuzz is now documented as a Rose-Morris UK import/retail state for a Shin-ei-made FY-6-family pedal.
+- Royal TF-1/RF-1 is preserved as a 1969 FY-6-related Japanese object but not promoted to a definitive Shin-ei manufacture claim.
+- Teisco TF-1 remains linked to the FY-6 family and separated from Teisco Fuzz Machine products.
+- Teisco Wau Wau Fuzz joins the early/mid-1970s Japanese wah-fuzz OEM family alongside Ibanez Wau Wau, Guyatone FS-5 and Elk Wau Fuzz, while the precise manufacturer remains probabilistic.
+- Guyatone FS-3 chronology is strong at 1972-1973, but the Honey-board evidence is treated as lineage evidence rather than proof that Honey itself built the 1972 pedal.
+- Guyatone FS-5 receives a Maxon manufacturing lead from period catalog research, retained at research confidence until the chain of custody is independently corroborated.
+- Ace Tone FM-2 now has the stronger 1968 early-documentation anchor from period advertising research. FM-1 and FM-3 remain separate models, with FM-3 treated as a distinct Big Muff-related Japanese branch.
+- Univox U-250 Uni-Fuzz is kept separate from the FY-6 Super-Fuzz family until its manufacturer lineage is reconciled.
 
 ## Evidence rule
-Manufacturer histories establish chronology when available. Specialist specimen research is used for enclosure, logo, control-label, country-of-origin and production-state distinctions. Collector terminology is recorded when useful, but clearly labeled as such.
+The Japanese/OEM market is a network of retail labels, importers, contract manufacturers and copied or shared designs. The archive must not turn family resemblance into automatic OEM attribution. A documented label relationship, period catalog, dated advertisement, enclosure state or surviving specimen can establish a useful relationship without proving every step of manufacture.
 
 ## Next target
-Complete the Japanese/OEM branches around Shin-ei, Teisco, Guyatone and Ace Tone, then expand the American 1970s catalog with Ross, Ampeg, DOD/Ross compact families and deeper Electro-Harmonix national variants. After that, reconcile 1980s landmark families including TS9, SD-1, RAT2, Turbo RAT, DOD FX series and early digital dirt processors.
+Reconcile the remaining FY-6 retail-label network model-by-model, especially Apollo, JAX, Pax, Mica, Kent, Marlboro, Memphis, Bruno, Aria, Avora, Crown, LRE, Hohner, Royal, Tempo and Zenta. Then continue the 1970s/1980s American and Japanese transition map with DOD/Ross, MXR, TS9/OD-2, BOSS revisions, RAT generations and Russian Big Muff states.
