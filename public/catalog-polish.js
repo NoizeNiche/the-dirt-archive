@@ -18,7 +18,6 @@
   `;
   document.head.appendChild(style);
 
-  const slug = v => String(v || '').toLowerCase().replace(/[^a-z0-9]+/g,'-');
   let lastHash = '';
 
   function decorateCards(){
@@ -58,7 +57,7 @@
     decorateSections();
     highlightNav();
     const h = location.hash;
-    if(h !== lastHash){ window.scrollTo({top:0,behavior:'instant'}); lastHash = h; }
+    if(h !== lastHash){ window.scrollTo(0,0); lastHash = h; }
   }
 
   new MutationObserver(decorate).observe(document.getElementById('app') || document.body,{childList:true,subtree:true});
