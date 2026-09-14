@@ -43,7 +43,7 @@ Deep-research products after their creator catalog is stable.
 Map generations, variants, OEM branches and surviving specimens after product identity is established.
 
 ## Current builder-census progress
-Active discovery corpus now includes `builder-census-01.tsv` through `builder-census-20.tsv`.
+Active discovery corpus now includes `builder-census-01.tsv` through `builder-census-21.tsv`.
 
 Major geographic coverage includes U.S., U.K., Canada, Germany, France, Italy, Spain, Portugal, Poland, Czech Republic, Slovakia, Slovenia, Austria, Belgium, Ireland, Sweden, Norway, Denmark, Greece, Croatia, Bulgaria, Romania, Serbia, Switzerland, Japan, Taiwan, South Korea, China, India, Indonesia, Thailand, Malaysia, Australia, New Zealand, South Africa, Israel, Iran, Brazil, Argentina, Chile, Peru, Mexico and other regional pools.
 
@@ -65,6 +65,7 @@ Recent census tranches:
 - `builder-census-18.tsv`: worldwide manufacturer-directory gap scan adding 3rd Power, 7G FX, 29 Pedals, A Sound Of Failure, A&M Custom Effects, A/DA, ADA Amplification, Acoustic Amplification, Aguilar, Aleks K Production, Alesis, Analog Alien, ARC Effects, Area 51, Audio Sprockets, Authentic Hendrix, BBE, Big Tone Music Brewery, Black Cat, Black Country Customs, Blackhawk Amplifiers, Blakemore, BluGuitar, Bogner, Buffalo FX, BYOC, Center Street Electronics, Chandler, Chase Bliss, Chase Tone, Cicognani, CMAT Mods, CNZ, Coda, Cooper FX, Costalab, Creative Audio Labs, Cusack, Daredevil, Deadbeat, Deep Space Devices, Demeter, Diezel, Dr. No, DryBell, EBS, Effectivity Wonder, Electronic Orange, Electro Faustus, Elektron, Emerson Custom, Escape Plan, Expresso FX, Fire-Eye, Foxrox, Frost Giant and Function F(x).
 - `builder-census-19.tsv`: targeted Effects Database gap scan adding Celmo, Cluster Effects, Effects Bakery, Heptode, Human Gear, JMB.Experience, LNA Guitar Effects, Leqtique, Mazzette, Ovaltone, ProXON Custom Analog Effects, Providence, Shigemori, Sobbat, SP Custom Pickups and historical Singapore micro-builders GoosoniqueWorx and TheBlueArk.
 - `builder-census-20.tsv`: targeted Japanese historical/modern gap scan adding Boot-Leg Hand Made Effects, D-Custom, Jersey Girl and KHDK Electronics, each with concrete dirt products.
+- `builder-census-21.tsv`: additional model-level Effects Database archaeology adding Critically Overdriven, Ilitch Electronics, JDM Pedals (Joe Doc Music), JTK Harmonics, My Dad Is Iggy, NFX Pedals, Shin's Music, Systech, Totally Wycked Audio, VTR Effects, Vintage Pedal Workshop and Garen Electronic Music Instruments MFG.
 
 ## Discovery source strategy
 Independent source pools include Fuzzboxes, Effects Database, ToneHome, Pro Audio KB, BoutiqueGear, Guitar Pedal X, large manufacturer sites, retailer directories, regional builder roundups, manufacturer histories, interviews, old advertisements and selected community discovery threads. Discovery sources are candidate-generation tools, not automatic proof of canonical attribution. Current manufacturer directories are especially useful as gap detectors; their listed country may identify brand origin rather than manufacturing location.
@@ -92,8 +93,11 @@ Deep research exists for foundational families and examples including Fuzz Face,
 ## Important identity findings
 Tone Bender, RAT, Catalinbread and Big Muff research all demonstrate that graphics, enclosure, production, OEM origin and electronics can change independently. The Archive should never flatten those dimensions into a single "version" field. OEM census work also shows that one factory can sit behind many labels, while one brand can use several physical manufacturers across time.
 
+## Latest saturation read
+The new-creator return is **not yet low enough to stop**. Effects Database model-level searching is still surfacing real historical and micro-builder entities that broader directories miss. Japan in particular remains a high-yield zone, while obscure 1970s U.S. makers, early French manufacturers, tiny 2000s boutiques and regional Latin American builders are still yielding additions. The next passes should therefore continue mining individual OD/distortion/fuzz product pages and their related-model/OEM links rather than relying only on country or brand indexes.
+
 ## Next pickup point
-**Stay in Queue A until saturation.** Continue targeted creator searches, with emphasis on: remaining countries and regional scenes; historical companies that made amplifiers/instruments plus pedals; Japanese/Korean/Taiwanese OEM factories; Latin America; Middle East; Africa; Southeast Asia; Soviet/Eastern Bloc and pre-Internet micro-builders; DIY-to-commercial transitions; private-label and distributor brands. When the new-creator return drops sharply, stop broad expansion and perform the master reconciliation across `builder-census-01.tsv` through `builder-census-20.tsv`. Only after that should Queue B begin creator-by-creator complete catalog enumeration.
+**Stay in Queue A.** Continue targeted creator searches, especially through Effects Database's individual OD, distortion and fuzz records and their related/OEM trees. Prioritize Japanese/Korean/Taiwanese historical labels, obscure 1960s-1980s European and U.S. makers, 1990s-2010s one-person boutiques, Latin America, Middle East, Africa, Southeast Asia, Soviet/Eastern Bloc, DIY-to-commercial transitions and private-label branches. Once several consecutive sweeps yield mostly duplicates, aliases, known OEM families or candidate-only names, perform the master reconciliation across `builder-census-01.tsv` through `builder-census-21.tsv`. Only after reconciliation should Queue B begin creator-by-creator complete catalog enumeration.
 
 ## Editorial rule
 **Document the object, not the recipe.** Do not publish gutshots, schematics, PCB diagrams or complete circuit recipes. Research depth is encouraged; unsupported certainty is not.
