@@ -8,6 +8,30 @@
     'Schaller Fuzz-Sustain'
   ];
 
+  // Fixed archival backdrop. The SVG stays stationary while the archive scrolls.
+  if (!document.getElementById('dirtArchiveBackgroundStyle')) {
+    const style = document.createElement('style');
+    style.id = 'dirtArchiveBackgroundStyle';
+    style.textContent = `
+      body{
+        background-color:#efe7d8 !important;
+        background-image:url('dirt-archive-background.svg') !important;
+        background-repeat:no-repeat !important;
+        background-position:center center !important;
+        background-size:cover !important;
+        background-attachment:fixed !important;
+      }
+      .site-header{background:rgba(239,231,216,.94) !important}
+      main{background:rgba(239,231,216,.76)}
+      .section,.hero{background:rgba(239,231,216,.2)}
+      @media (max-width:700px){
+        body{background-position:center center !important;background-size:auto 100vh !important}
+        main{background:rgba(239,231,216,.84)}
+      }
+    `;
+    document.head.appendChild(style);
+  }
+
   function recentHomeRecords() {
     const wanted = RECENT_HOME_MODELS.map(name => DATA.pedals.find(p => p.model_name === name)).filter(Boolean);
     return wanted.slice(0, 5);
