@@ -1,11 +1,9 @@
 (() => {
-  // Ensure the latest modern-preservation extension is available even when index.html is cached by a static host.
-  // The extension wraps fetch(data.json), so loading it here preserves the late-merge architecture used by prior batches.
-  if (!document.querySelector('script[src="catalog-extensions-84.js"]')) {
-    const s = document.createElement('script'); s.src = 'catalog-extensions-84.js'; document.head.appendChild(s);
+  // Ensure the modern-preservation extensions remain available even when index.html is cached by a static host.
+  for (const name of ['catalog-extensions-83.js','catalog-extensions-84.js','catalog-extensions-85.js']) {
+    if (!document.querySelector(`script[src="${name}"]`)) { const s=document.createElement('script'); s.src=name; document.head.appendChild(s); }
   }
 
-  // Rolling homepage activity rail. Keep newest-first and update this list with each meaningful archive release.
   const RECENT_HOME_MODELS = [
     'The Lover 2-Stage Transistor Drive & Fuzz V2 Portrait',
     'Whoctahell V2 / Custom Shop',
@@ -14,30 +12,18 @@
     'Old Blue Overdrive V2'
   ];
 
-  // Fixed archival backdrop. The SVG stays stationary while the archive scrolls.
   if (!document.getElementById('dirtArchiveBackgroundStyle')) {
-    const style = document.createElement('style');
-    style.id = 'dirtArchiveBackgroundStyle';
-    style.textContent = `
+    const style=document.createElement('style'); style.id='dirtArchiveBackgroundStyle'; style.textContent=`
       body{background-color:#efe7d8 !important;background-image:url('dirt-archive-background.svg') !important;background-repeat:no-repeat !important;background-position:center center !important;background-size:cover !important;background-attachment:fixed !important}
-      .site-header{background:rgba(239,231,216,.94) !important}
-      main{background:rgba(239,231,216,.76)}
-      .section,.hero{background:rgba(239,231,216,.2)}
-      @media (max-width:700px){body{background-position:center center !important;background-size:auto 100vh !important}main{background:rgba(239,231,216,.84)}}
-    `;
+      .site-header{background:rgba(239,231,216,.94) !important} main{background:rgba(239,231,216,.76)} .section,.hero{background:rgba(239,231,216,.2)}
+      @media (max-width:700px){body{background-position:center center !important;background-size:auto 100vh !important}main{background:rgba(239,231,216,.84)}}`;
     document.head.appendChild(style);
   }
-
-  function recentHomeRecords() {
-    const wanted = RECENT_HOME_MODELS.map(name => DATA.pedals.find(p => p.model_name === name)).filter(Boolean);
-    return wanted.slice(0, 5);
-  }
-
-  const originalHome = home;
-  home = function recentHome() {
-    const bs = [...DATA.builders].filter(b => DATA.pedals.some(p => p.primary_builder_id === b.builder_id && inDirt(p))).sort((a,b) => a.name.localeCompare(b.name)).slice(0,24);
-    const recent = recentHomeRecords();
-    app.innerHTML = `<section class="hero"><div><div class="eyebrow">FOUNDING COLLECTION · DIRT</div><h1>Document<br>the dirt.</h1><p class="hero-copy">An independent reference project for <strong>overdrive, distortion and fuzz</strong>. Browse the builders, follow the lineage, compare production periods, and figure out which version of the box you own.</p><div class="catalog-callout"><div class="callout"><span class="num">${stat('builders')}</span><span class="label">builders represented</span></div><div class="callout"><span class="num">${stat('dirt')}</span><span class="label">dirt records</span></div><div class="callout"><span class="num">${stat('generations')}</span><span class="label">structured generations</span></div></div></div><aside class="hero-side"><div class="big">01</div><div class="label">Founding issue</div><div class="big" style="margin-top:25px;font-size:62px">${stat('sources')}</div><div class="label">source records</div></aside></section><section class="section"><div class="section-head"><h2>Browse by builder</h2><div class="section-note">The builder is the front door</div></div><div class="builder-grid">${bs.map(builderCard).join('')}</div><div style="margin-top:17px"><a class="eyebrow" href="#/builders">View the complete builder index →</a></div></section><section class="section"><div class="section-head"><h2>Recently added / updated</h2><div class="section-note">Latest five archive changes</div></div><div class="pedal-grid">${recent.map(pedalCard).join('')||'<div class="empty">Recent archive activity will appear here.</div>'}</div></section><section class="section"><div class="editorial-grid"><div class="paper-box"><h3>Browse the dirt</h3><p>Start with the kind of dirt you want to explore.</p><div class="link-list"><a href="#/category/fuzz">Fuzz →</a><a href="#/category/overdrive">Overdrive →</a><a href="#/category/distortion">Distortion →</a></div></div><div class="paper-box"><h3>Document the object, not the recipe.</h3><p>Meaningful technical distinctions may be recorded when they help identify a production period. The archive does not publish schematics, PCB layouts, gutshot libraries, complete bills of materials or cloning instructions.</p></div></div></section>`;
+  function recentHomeRecords(){return RECENT_HOME_MODELS.map(name=>DATA.pedals.find(p=>p.model_name===name)).filter(Boolean).slice(0,5)}
+  const originalHome=home;
+  home=function recentHome(){
+    const bs=[...DATA.builders].filter(b=>DATA.pedals.some(p=>p.primary_builder_id===b.builder_id&&inDirt(p))).sort((a,b)=>a.name.localeCompare(b.name)).slice(0,24); const recent=recentHomeRecords();
+    app.innerHTML=`<section class="hero"><div><div class="eyebrow">FOUNDING COLLECTION · DIRT</div><h1>Document<br>the dirt.</h1><p class="hero-copy">An independent reference project for <strong>overdrive, distortion and fuzz</strong>. Browse the builders, follow the lineage, compare production periods, and figure out which version of the box you own.</p><div class="catalog-callout"><div class="callout"><span class="num">${stat('builders')}</span><span class="label">builders represented</span></div><div class="callout"><span class="num">${stat('dirt')}</span><span class="label">dirt records</span></div><div class="callout"><span class="num">${stat('generations')}</span><span class="label">structured generations</span></div></div></div><aside class="hero-side"><div class="big">01</div><div class="label">Founding issue</div><div class="big" style="margin-top:25px;font-size:62px">${stat('sources')}</div><div class="label">source records</div></aside></section><section class="section"><div class="section-head"><h2>Browse by builder</h2><div class="section-note">The builder is the front door</div></div><div class="builder-grid">${bs.map(builderCard).join('')}</div><div style="margin-top:17px"><a class="eyebrow" href="#/builders">View the complete builder index →</a></div></section><section class="section"><div class="section-head"><h2>Recently added / updated</h2><div class="section-note">Latest five archive changes</div></div><div class="pedal-grid">${recent.map(pedalCard).join('')||'<div class="empty">Recent archive activity will appear here.</div>'}</div></section><section class="section"><div class="editorial-grid"><div class="paper-box"><h3>Browse the dirt</h3><p>Start with the kind of dirt you want to explore.</p><div class="link-list"><a href="#/category/fuzz">Fuzz →</a><a href="#/category/overdrive">Overdrive →</a><a href="#/category/distortion">Distortion →</a></div></div><div class="paper-box"><h3>Document the object, not the recipe.</h3><p>Meaningful technical distinctions may be recorded when they help identify a production period. The archive does not publish schematics, PCB layouts, gutshot libraries, complete bills of materials or cloning instructions.</p></div></div></section>`;
   };
-  window.DIRT_ORIGINAL_HOME = originalHome;
+  window.DIRT_ORIGINAL_HOME=originalHome;
 })();
