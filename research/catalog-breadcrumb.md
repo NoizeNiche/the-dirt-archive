@@ -20,36 +20,31 @@ The assistant cannot see an exact platform context/data-use quota or countdown. 
 - Phases 1–25: foundational catalog work, completeness protocol, deep verification layer.
 - Phase 26: 19 builders / 364 discovery records.
 - Phase 27: JHS Pedals, Walrus Audio, Old Blood Noise Endeavors, Fairfield Circuitry, ThorpyFX, Mr. Black; 361 discovery records.
-- Phase 28: BSM, VFE Pedals, Blackout Effectors, Fredric Effects, Basic Audio; 146 unique discovery records after the extension's deduplication.
-- Phase 29: Electro-Harmonix, Prescription Electronics, D*A*M, Abominable Electronics; 192 discovery records.
+- Phase 28: BSM, VFE Pedals, Blackout Effectors, Fredric Effects, Basic Audio; 146 unique discovery records after extension deduplication.
+- Phase 29: Electro-Harmonix, Prescription Electronics, D*A.M., Abominable Electronics; 192 discovery records.
+- Phase 30: SkinPimp, M.A.S.F., T. Jauernig Electronics, Rastop Designs, Compulsive Audio, Main.Ace.FX, GoosoniqueWorx, 1969 Effects, Pigdog; 115 discovery records.
 
 ## Verified layer currently preserved
 The public verified product layer currently contains six deeply verified records: Fulltone OCD, Fulltone Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword, EAE Halberd. Do not overwrite these with discovery-only claims.
 
 ## Immediate next queue
-Priority dense/historically important builder passes:
-- SkinPimp
-- M.A.S.F.
+Priority remaining builder passes from the working audit queue:
 - AnaSounds
-- T. Jauernig Electronics
-- Rastop Designs
-- Compulsive Audio
-- Main.Ace.FX
-- GoosoniqueWorx
 - Leila Vintage Electronics
 - Jamés Pedals
 - Loophole Pedals
-- Pigdog
 - Klinger Custom Pedals
-- 1969 Effects
 - Orion Effekte
 - G.S. Wyllie
-- Electro-Harmonix historical brand/product-era audit
+- additional historical boutique builders discovered through Effects Database brand indexes
 
-Then audit large modern builders not yet fully enumerated, using current official catalogs plus historical sources.
+Then audit large modern builders not yet fully enumerated, using current official catalogs plus historical sources. Electro-Harmonix also remains a separate historical brand/era audit despite its Phase 29 broad enumeration.
 
 ## Product research later
 For each builder after enumeration: split model families from editions/versions; identify earliest/latest evidence; document enclosure/artwork/control/label changes; record high-level diagnostic component changes only where historically useful; map OEM, licensing, collaborations, rebrands, and derived designs.
 
 ## Image research later
 For each important product, seek at least one front image lead during enumeration. When feasible add rear/side/top/packaging/catalog leads for historically diagnostic products. Store image page URL, direct image URL when available, photographer/uploader, source type, license/permission status, required credit, and republishing status.
+
+## Last phase notes
+Phase 30 surfaced several strong future lineage cases: SkinPimp's Tone Bender family and custom work; T. Jauernig's Greg Koch and T-Rex licensing relationships; GoosoniqueWorx's limited Seventheaven runs; 1969 Effects' Tone Bender MkII relationship; Pigdog's Tone Bender MkI/MkII and custom lineage. These remain discovery observations, not canonical claims.
