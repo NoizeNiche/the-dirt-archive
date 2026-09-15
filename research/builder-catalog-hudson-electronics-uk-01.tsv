@@ -1,0 +1,23 @@
+canonical_builder	product_name	dirt_role	catalog_record_state	notes	source_refs
+Hudson Electronics UK	Blackbird - Octave Fuzz	FUZZ_HYBRID	ENUMERATED	Octave fuzz family product.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Bluebird - Germanium Fuzzrite	FUZZ	ENUMERATED	Fuzzrite-family fuzz.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Broadcast - Discrete Class-A Germanium Pre-Amplifier	SCOPE_BOUNDARY	BOUNDARY	Preamp, retain for builder context but outside central dirt count.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Broadcast AP - Ariel Posen signature Preamp	SCOPE_BOUNDARY	BOUNDARY	Signature preamp.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Broadcast AP-II - Ariel Posen signature Dual Preamp	SCOPE_BOUNDARY	BOUNDARY	Dual preamp.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Buzzard	DIRT_CANDIDATE	ENUMERATED	Gain/fuzz-family product; exact category deferred.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Buzzoid	FUZZ	ENUMERATED	Fuzz product.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Full Range Bomb	OVERDRIVE_OR_PREAMP	ENUMERATED	Gain/preamp-oriented dirt product; preserve source wording during later archaeology.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Fuzz (Mk IV)	FUZZ	ENUMERATED	Explicit Mk IV generation label.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Gospel Bomb	DISTORTION	ENUMERATED	Dirt product.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Motorcycle Overdrive	OVERDRIVE	ENUMERATED	Explicit overdrive.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Mr. Soul	OVERDRIVE	ENUMERATED	Dirt product.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Overdrive 999	OVERDRIVE	ENUMERATED	Named overdrive.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Overdrive Eight Fifty	OVERDRIVE	ENUMERATED	Vintage-family inspired overdrive.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Pretty Flamingo	DIRT_CANDIDATE	ENUMERATED	Gain/dirt product; exact category deferred.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Shapes Of Things	DIRT_CANDIDATE	ENUMERATED	Gain/dirt product; exact category deferred.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Sidecar - Germanium Clipping Overdrive	OVERDRIVE	ENUMERATED	Explicit germanium-clipping overdrive.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Soul Bomb	DISTORTION_OR_OVERDRIVE	ENUMERATED	Dirt product; narrow category deferred.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Std Machine	DIRT_CANDIDATE	ENUMERATED	Gain/dirt product; exact category deferred.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Stroll On	FUZZ_OR_OVERDRIVE	ENUMERATED	Dirt-family product; category reconciliation deferred.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	Stroll On Jnr	FUZZ_OR_OVERDRIVE	ENUMERATED	Related Stroll On family state.	https://www.effectsdatabase.com/model/hudson
+Hudson Electronics UK	White Heat	DIRT_CANDIDATE	ENUMERATED	Gain/dirt product; exact category deferred.	https://www.effectsdatabase.com/model/hudson
