@@ -1,0 +1,11 @@
+model_or_family	identity_state	manufacturer_or_builder	relationship_type	status	confidence	primary_source	note
+Shin-Ei Companion FY-6	FY-6	Shin-Ei	ORIGINAL_MARKETED_FAMILY	RESEARCH_VALIDATED	HIGH	https://www.effectsdatabase.com/model/shinei/companion/fy6	Canonical FY-6 family reference; keep distinct from FY-2 despite shared Shin-Ei OEM ecosystem.
+Shin-Ei Companion FY-2	FY-2	Shin-Ei	ORIGINAL_MARKETED_FAMILY	RESEARCH_VALIDATED	HIGH	https://www.effectsdatabase.com/model/jhexperience/fy2	FY-2 is a separate model family with its own OEM-branded states.
+Teisco TF-1	FY-6	Teisco / Shin-Ei OEM ecosystem	BRANDED_VARIANT	RESEARCH_VALIDATED	HIGH	https://www.effectsdatabase.com/model/teisco/tf1	Retain Teisco as marketed identity; do not merge the record into Shin-Ei Companion FY-6 as a duplicate.
+Avora FY-6	FY-6	Japanese OEM ecosystem	REBRAND_FAMILY	RESEARCH_VALIDATED	HIGH	https://www.effectsdatabase.com/model/avora/fy6	Brand-level variant of the FY-6 family.
+Zenta FY-2	FY-2	Japanese OEM ecosystem	REBRAND_FAMILY	RESEARCH_VALIDATED	HIGH	https://www.effectsdatabase.com/model/zenta/fy2	Brand-level variant of FY-2; separate from FY-6 variants.
+J.H. Experience FY-2	FY-2	Japanese OEM ecosystem	REBRAND_FAMILY	RESEARCH_VALIDATED	HIGH	https://www.effectsdatabase.com/model/jhexperience/fy2	OEM-branded FY-2 state.
+J.H. Experience FY-6	FY-6	Japanese OEM ecosystem	REBRAND_FAMILY	RESEARCH_VALIDATED	HIGH	https://www.effectsdatabase.com/model/jhexperience/fy6	OEM-branded FY-6 state; same brand family name does not imply same model.
+Rands FY-6	FY-6	Japanese OEM ecosystem	REBRAND_FAMILY	RESEARCH_VALIDATED	HIGH	https://www.effectsdatabase.com/model/rands/fuzz	Rebranded FY-6 state; retain distinct marketed record.
+Wattson Classic FY-6	FY-6	Wattson Classic Electronics	REVIVAL_REISSUE	RESEARCH_VALIDATED	HIGH	https://www.effectsdatabase.com/interviews/brands/wattson	Modern builder explicitly says FY-6 is the original Shin-Ei part number and describes in-house construction; not vintage OEM production.
+FY-6 vs FY-2	Shared Japanese OEM ecosystem	Shin-Ei and OEM affiliates	FAMILY_RELATIONSHIP	NOT_DUPLICATE	HIGH	https://www.effectsdatabase.com/model/shinei/companion/fy6	Shared ecosystem/family resemblance is not duplicate identity.
