@@ -1,0 +1,24 @@
+canonical_builder	marketed_name	model_or_family	category	era_or_corridor	identity_state	catalog_state	evidence_state	relationship_note	source
+Honey / Shin-Ei / Companion	Honey	Baby Crying FY-6 / Super Fuzz	fuzz	1967 onward	CANONICAL_LINEAGE	BASELINE_MAPPED	VERIFIED	Honey FY-6 is the earliest anchor in the later Super Fuzz family; retain Honey as historical retail/manufacturer name.	https://www.shin-ei.com/
+Honey / Shin-Ei / Companion	Honey	Special Fuzz	fuzz	1960s-1970s	CANONICAL_LINEAGE	BASELINE_MAPPED	EVIDENCE_QUALIFIED	Keep separate from FY-6; historical relationship exists but product identity is distinct.	https://www.shin-ei.com/
+Honey / Shin-Ei / Companion	Honey	Psychedelic Machine	fuzz_hybrid_boundary	1960s	CANONICAL_LINEAGE	BOUNDARY_RECORD	VERIFIED	Hybrid multi-effect; retain as dirt-history boundary rather than counting as a standalone fuzz-only product.	https://www.shin-ei.com/
+Honey / Shin-Ei / Companion	Shin-Ei	FY-6 Super Fuzz	fuzz	1968 onward	CANONICAL_LINEAGE	BASELINE_MAPPED	VERIFIED	Shin-ei-branded continuation/production state of the FY-6 family.	https://www.shin-ei.com/Shin-ei/SHIN-EI-FY6-SUPER-FUZZ
+Honey / Shin-Ei / Companion	Companion	FY-2	fuzz	late 1960s-1970s	CANONICAL_LINEAGE	BASELINE_MAPPED	EVIDENCE_QUALIFIED	Separate Companion product family; early germanium and later silicon production states should remain distinct where evidence supports them.	https://shin-ei.com/COMPANION-FY2-FUZZ-BOX
+Honey / Shin-Ei / Companion	Shin-Ei Companion	FY-6 / Fuzz Master	fuzz	1970s	CANONICAL_LINEAGE	OEM_RECONCILIATION_QUEUE	EVIDENCE_QUALIFIED	Branded/export FY-6 states require model-specific reconciliation before factory attribution is generalized.
+https://www.tonemachinesblog.com/2023/05/super-identity-crisis.html
+JEN Elettronica	JEN	Double Sound	fuzz-wah	late 1960s-1970s	CANONICAL	BASELINE_MAPPED	VERIFIED	Italian-made JEN fuzz/wah; keep Vox-by-JEN marketing as relationship node.	https://www.effectsdatabase.com/model/vox/jen/doublesound
+JEN Elettronica	Vox by JEN	Double Sound	fuzz-wah	late 1960s-1970s	CANONICAL_OEM_RELATIONSHIP	BASELINE_MAPPED	VERIFIED	Vox-branded Italian production state attributed to JEN Electronica in Pescara.	https://www.effectsdatabase.com/model/vox/jen/doublesound
+JEN Elettronica	JEN	Jumbo Fuzz	fuzz	circa 1973-1975	CANONICAL	BASELINE_MAPPED	EVIDENCE_QUALIFIED	Distinct JEN dirt model; related Dallas Arbiter and Sam Ash marketed states should remain separate searchable names.
+https://reverb.com/item/10142176-jen-model-310-014-jumbo-fuzz-1973-made-in-italy
+JEN Elettronica	Dallas Arbiter	Jumbo Fuzz	fuzz	1973 onward	MARKETED_OEM_RELATIONSHIP	RELATIONSHIP_QUEUE	EVIDENCE_QUALIFIED	Retain as marketed relationship to JEN production pending broader catalog reconciliation.
+https://www.reverb.com/item/10142176-jen-model-310-014-jumbo-fuzz-1973-made-in-italy
+Coron Musical Instrument Co.	Coron	Distortion 10	distortion	late 1970s-early 1980s	CANONICAL	BASELINE_MAPPED	VERIFIED	Core Coron model; related OEM labels should not be collapsed into the canonical name.
+https://www.effectsdatabase.com/model/coron/first/distortion
+Coron Musical Instrument Co.	Coron	Distortion 15	distortion	late 1970s-early 1980s	CANONICAL	BASELINE_MAPPED	VERIFIED	Distinct model from Distortion 10; retain separate catalog row.
+https://www.effectsdatabase.com/model/coron/first/distortion
+Coron Musical Instrument Co.	Grant	Coron-related Distortion	DISTORTION	late 1970s-early 1980s	MARKETED_OEM_RELATIONSHIP	RELATIONSHIP_QUEUE	EVIDENCE_QUALIFIED	Effects Database identifies Grant-branded Coron OEM appearances; exact model mapping remains a reconciliation task.
+https://www.effectsdatabase.com/model/coron/first/distortion
+Coron Musical Instrument Co.	Storm	Coron-related Distortion	DISTORTION	late 1970s-early 1980s	MARKETED_OEM_RELATIONSHIP	RELATIONSHIP_QUEUE	EVIDENCE_QUALIFIED	Effects Database identifies Storm-branded Coron OEM appearances; exact model mapping remains a reconciliation task.
+https://www.effectsdatabase.com/model/coron/first/distortion
+Coron Musical Instrument Co.	Asama Engineering	Coron-related Distortion	DISTORTION	late 1970s-early 1980s	MARKETED_OEM_RELATIONSHIP	RELATIONSHIP_QUEUE	EVIDENCE_QUALIFIED	Effects Database identifies Asama-branded Coron OEM appearances; exact model mapping remains a reconciliation task.
+https://www.effectsdatabase.com/model/coron/first/distortion
