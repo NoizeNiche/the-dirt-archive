@@ -1,0 +1,14 @@
+[
+  {"edge_id":"LINEAGE-001","source":"Honey FY-6","target":"Shin-Ei FY-6","relationship":"Successor / historical retail lineage","confidence":"High"},
+  {"edge_id":"LINEAGE-002","source":"Shin-Ei FY-6","target":"Univox Super-Fuzz","relationship":"OEM / marketed lineage","confidence":"High"},
+  {"edge_id":"LINEAGE-003","source":"JEN Fuzz","target":"Vox V828/V8281","relationship":"OEM / contract production lineage","confidence":"High"},
+  {"edge_id":"LINEAGE-004","source":"JEN Fuzz","target":"Elka Fuzz","relationship":"Marketed OEM sibling","confidence":"High"},
+  {"edge_id":"LINEAGE-005","source":"JEN Fuzz","target":"Unicord Fuzz","relationship":"Marketed / distribution lineage","confidence":"High"},
+  {"edge_id":"LINEAGE-006","source":"Coron Distortion 10","target":"Grant Distortion 10","relationship":"OEM / rebrand lineage","confidence":"High"},
+  {"edge_id":"LINEAGE-007","source":"Coron Over Drive","target":"Storm Over Drive","relationship":"OEM / rebrand lineage","confidence":"High"},
+  {"edge_id":"LINEAGE-008","source":"Colorsound Power Boost","target":"Colorsound Overdriver","relationship":"Successor / historical name-state lineage","confidence":"High"},
+  {"edge_id":"LINEAGE-009","source":"Park Fuzz Sound","target":"Sola Sound Tone Bender Fuzz family","relationship":"OEM production lineage","confidence":"High"},
+  {"edge_id":"LINEAGE-010","source":"Carlsbro Fuzz","target":"Sola Sound Tone Bender Fuzz family","relationship":"OEM production lineage","confidence":"High"},
+  {"edge_id":"LINEAGE-011","source":"CSL Super Fuzz","target":"Sola Sound Tone Bender Fuzz family","relationship":"OEM production lineage","confidence":"High"},
+  {"edge_id":"LINEAGE-012","source":"Ibanez SF5","target":"Ibanez FZ5","relationship":"Successor model lineage","confidence":"High"}
+]
