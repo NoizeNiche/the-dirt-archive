@@ -1,0 +1,9 @@
+canonical_builder	builder_role	model_or_family	marketed_brand_or_alias	region	era_bucket	category	status	evidence_grade	relationship_notes	source_trail
+AUL Instruments	PHYSICAL_MANUFACTURER	AUL Fuzz / early Foxey Lady	Mike Matthews; Guild	USA (New York)	1967-1968	fuzz	INDEXED	A	Effects Database and Kit Rae document AUL manufacture for Mike Matthews during the Guild Foxey Lady transition after Mosrite.	effectsdatabase.com; kitrae.net
+AUL Instruments	PHYSICAL_MANUFACTURER	Foxey Lady transition state	Guild	USA (New York)	1967-1968	fuzz	INDEXED_RELATIONSHIP	A	Gray folded-steel AUL production state; distinct from Mosrite-built and later EHX-built Guild Foxey Lady pedals.	effectsdatabase.com; tonemachinesblog.com; kitrae.net
+Guild	MARKETED_BRAND	Foxey Lady	Guild	USA	1967-1970s	fuzz	INDEXED_LINEAGE	A	Retail identity spans Mosrite, AUL Instruments, and Electro-Harmonix manufacturing phases.	effectsdatabase.com; fuzzboxes.org; kitrae.net
+Manny's Music	MARKETED_BRAND_RELATIONSHIP	Manny's Fuzz / early Matthews fuzz	Manny's	USA (New York)	1967-1968?	fuzz	DISCOVERY_ONLY	B	Period/surviving AUL examples with Manny's stickers support a distribution/retail relationship; physical manufacture remains AUL candidate.
+tonemachinesblog.com; fuzzboxes.org
+Mosrite Electronics	PHYSICAL_MANUFACTURER	Fuzzrite-derived Foxey Lady	Guild	USA	mid-1968+	fuzz	INDEXED_LINEAGE	A	Fuzzboxes date-code evidence constrains the Mosrite-built Guild version to mid-1968 or later.	fuzzboxes.org
+Electro-Harmonix	PHYSICAL_MANUFACTURER	Foxey Lady	Guild	USA (New York)	late 1968+	fuzz	INDEXED_LINEAGE	A	Later Guild Foxey Lady production by EHX after Mike Matthews formally launched the company.
+kitrae.net; fuzzboxes.org

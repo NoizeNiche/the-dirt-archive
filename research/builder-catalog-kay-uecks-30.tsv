@@ -1,0 +1,4 @@
+canonical_builder	marketed_model	region	date_preferred	category	identity_status	catalog_status	relationship_notes	evidence
+Kay Musical Instruments / Kay brand	FUZ-1 Fuzz Tone	USA marketed / Japan-made	late 1973-1978	Fuzz	MARKETED_BRAND_ENTITY	EVIDENCE_QUALIFIED	2026 archival research supersedes older 1968-69 date; factory unresolved. Japanese production supported; Uecks domestic-market relationship retained separately.	turn740335search1; turn740335search2; turn740335search9
+Ueki Gakki / Uecks	Uecks Fuzz Tone	Japan	1970s	Fuzz	MARKETED_BRAND_ENTITY_UNRESOLVED_FACTORY	DISCOVERY_PLUS	Uecks is the Japanese-market brand associated with Ueki Gakki; actual OEM factory remains unresolved.	turn740335search1; turn740335search2
+Ueki Gakki / Uecks	Uecks Wah Wah	Japan	1970s	Wah	MARKETED_BRAND_ENTITY	BOUNDARY	Documents the wider Uecks pedal range and supports domestic-market identity; not a core dirt product.	turn740335search2; turn740335search9

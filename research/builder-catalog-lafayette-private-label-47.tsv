@@ -1,0 +1,5 @@
+canonical_builder	identity_status	region	period	model_or_market_state	category	role_or_relationship	confidence	sources
+Lafayette Radio Electronics	CANONICAL_RETAIL_PRIVATE_LABEL	USA	1970	Lafayette Fuzz Sound	fuzz	retail/import/private-label identity	HIGH	Lafayette Spring 1970 catalog; Effects Database LRE Fuzz Sound
+Lafayette Radio Electronics	CANONICAL_RETAIL_PRIVATE_LABEL	USA	1970	Lafayette Super Fuzz	fuzz	retail/import/private-label identity	HIGH	Lafayette Spring 1970 catalog
+Lafayette Radio Electronics	CANONICAL_RETAIL_PRIVATE_LABEL	USA	1970	Lafayette Deluxe AC Super Fuzz	fuzz	retail/import/private-label identity	HIGH	Lafayette Spring 1970 catalog
+Lafayette Radio Electronics	CANONICAL_RETAIL_PRIVATE_LABEL	USA	1970	Lafayette Wah Wah Sound and Volume Control	boundary	catalog-context product	HIGH	Lafayette Spring 1970 catalog

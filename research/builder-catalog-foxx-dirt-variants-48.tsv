@@ -1,0 +1,6 @@
+canonical_builder	identity_status	region	period	model_or_market_state	category	role_or_relationship	confidence	sources
+Ridinger Associates / fOXX	CANONICAL_LINEAGE	USA (California)	early 1970s	fOXX Fuzz & Wa	fuzz-wah	physical builder / marketed brand	HIGH	Effects Database Ibanez Fuzz & Wa; ToneHome fOXX
+Ridinger Associates / fOXX	CANONICAL_LINEAGE	USA (California)	early 1970s	Ibanez Fuzz & Wa	fuzz-wah	Ibanez marketed state made by Foxx	HIGH	Effects Database Ibanez Fuzz & Wa
+Ridinger Associates / fOXX	CANONICAL_LINEAGE	USA (California)	early 1970s	Frogg Fuzz Wa	fuzz-wah	later Foxx/Frogg marketed state	MEDIUM	Effects Database Foxx family index
+Ridinger Associates / fOXX	CANONICAL_LINEAGE	USA (California)	early 1970s	Sears Model 1481 Fuzz & Wa & Volume	fuzz-wah	Sears private-label state	HIGH	Effects Database Sears 1481; ToneHome fOXX
+Ridinger Associates / fOXX	CANONICAL_LINEAGE	USA (California)	early 1970s	Univox Fuzz & Wa & Volume	fuzz-wah	Univox private-label state	HIGH	Effects Database Univox by fOXX

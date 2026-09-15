@@ -1,0 +1,30 @@
+canonical_builder	identity_status	region	era_bucket	model	category	catalog_status	relationship_notes	source_trail
+Roger Mayer Effects	CANONICAL	United Kingdom/USA	1964-present	Classic Fuzz	fuzz	INDEXED_RELATIONSHIP	Mayer states first fuzz guitar-effects design in 1964; later commercial Rocket-series revival is a separate production state.	https://www.roger-mayer.co.uk/guitar_effects.htm; https://www.roger-mayer.co.uk/history.htm
+Roger Mayer Effects	CANONICAL	United Kingdom/USA	1967-1969	Octavia / Octavio wedge	fuzz/octave fuzz	INDEXED_RELATIONSHIP	Mayer's own account distinguishes original recording-era 1967 units from later wedge-shaped 1968-69 examples.	https://www.roger-mayer.co.uk/octavia.htm
+Roger Mayer Effects	CANONICAL	United Kingdom/USA	1967-present	Axis Fuzz	fuzz	INDEXED_RELATIONSHIP	Developed in early 1967 for Jimi Hendrix; later commercial Rocket-series state is separate from the original design period.	https://www.roger-mayer.co.uk/axis.htm; https://www.roger-mayer.co.uk/history.htm
+Roger Mayer Effects	CANONICAL	USA/UK	Late 1970s-present	Rocket Octavia	fuzz/octave fuzz	INDEXED_RELATIONSHIP	Commercial revival/production state; GuitarPlayer places the commercial rocket enclosure around 1978-79, while Mayer describes the commercial revival period in his history.
+https://www.guitarplayer.com/gear/classic-gear-roger-mayers-octavia-pedal; https://www.roger-mayer.co.uk/history.htm
+Roger Mayer Effects	CANONICAL	UK/USA	Early 1980s-present	Metal Fuzz	fuzz	INDEXED_RELATIONSHIP	Early-1980s commercial Rocket-series model documented by GuitarPlayer; exact first-sale date remains open.
+https://www.guitarplayer.com/gear/classic-gear-roger-mayers-octavia-pedal
+Roger Mayer Effects	CANONICAL	UK/USA	Early 1980s-present	Mongoose	fuzz	INDEXED_RELATIONSHIP	Early-1980s commercial Rocket-series model documented by GuitarPlayer and Mayer's history.
+https://www.guitarplayer.com/gear/classic-gear-roger-mayers-octavia-pedal; https://www.roger-mayer.co.uk/history.htm
+Dan Armstrong / Sound Modifiers	CANONICAL_LINEAGE	UK/USA	1970s	Blue Clipper	fuzz/distortion	INDEXED_RELATIONSHIP	Original Sound Modifier fuzz-tone with sustain; production relationship crosses early UK work and later Musitronics states.
+https://www.worldradiohistory.com/UK/Beat-Instrumental/Beat-Instrumental-1976-11-S-OCR.pdf; https://sites.google.com/site/davidmorrinoldsite/home/trouble/troubleeffects/dan-armstrong-blue-clipper
+Dan Armstrong / Sound Modifiers	CANONICAL_LINEAGE	UK/USA	1970s	Green Ringer	octave	INDEXED_RELATIONSHIP	Core Sound Modifier product; not central dirt count but historically relevant octave family member.
+https://www.worldradiohistory.com/UK/Beat-Instrumental/Beat-Instrumental-1976-11-S-OCR.pdf
+Dan Armstrong / Sound Modifiers	CANONICAL_LINEAGE	UK/USA	1970s	Purple Peaker	filter/boost	BOUNDARY	Guitar/keyboard filter and boost; retain as dirt-adjacent boundary record.
+https://www.worldradiohistory.com/UK/Beat-Instrumental/Beat-Instrumental-1976-11-S-OCR.pdf
+Dan Armstrong / Sound Modifiers	CANONICAL_LINEAGE	UK/USA	1970s	Yellow Humper	bass filter/boost	BOUNDARY	Bass-oriented filter/booster; retain as bass-dirt boundary record.
+https://www.worldradiohistory.com/UK/Beat-Instrumental/Beat-Instrumental-1976-11-S-OCR.pdf
+Dan Armstrong / Sound Modifiers	CANONICAL_LINEAGE	UK/USA	1970s	Red Ranger	booster/tone modifier	BOUNDARY	Signal booster/tone modifier; not central fuzz count.
+https://www.worldradiohistory.com/UK/Beat-Instrumental/Beat-Instrumental-1976-11-S-OCR.pdf
+Dan Armstrong / Sound Modifiers	CANONICAL_LINEAGE	UK/USA	1974+	Orange Squeezer	compressor	SCOPE_BOUNDARY	Compression/sustain product; keep outside central dirt count.
+https://www.worldradiohistory.com/UK/Beat-Instrumental/Beat-Instrumental-1976-11-S-OCR.pdf; https://www.worldradiohistory.com/Archive-All-Audio/Polyphony/1981/Polyphony-1981-03.pdf
+Dan Armstrong / Sound Modifiers	CANONICAL_LINEAGE	USA	1981	Blue Clipper	fuzz/distortion	INDEXED_RELATIONSHIP	Polyphony reports Beigel Sound Lab manufacturing the Dan Armstrong line in 1981, establishing a later production state distinct from the original period.
+https://www.worldradiohistory.com/Archive-All-Audio/Polyphony/1981/Polyphony-1981-03.pdf
+Dan Armstrong / Sound Modifiers	CANONICAL_LINEAGE	USA	1981	Green Ringer	octave	INDEXED_RELATIONSHIP	Beigel Sound Lab 1981 production state identified in contemporary trade notice.
+https://www.worldradiohistory.com/Archive-All-Audio/Polyphony/1981/Polyphony-1981-03.pdf
+Dan Armstrong / Sound Modifiers	CANONICAL_LINEAGE	USA	1981	Purple Peaker	filter/boost	BOUNDARY	1981 Beigel production state; remains dirt-adjacent boundary product.
+https://www.worldradiohistory.com/Archive-All-Audio/Polyphony/1981/Polyphony-1981-03.pdf
+Firstman / Hillwood	CANONICAL_LINEAGE	Japan	1978-early 1980s	Multivox Big Jam SE-8 Distortion	distortion	INDEXED_RELATIONSHIP	Effects Database identifies Firstman manufacture for Nihon-Hammond with Multivox distribution; product corridor circa 1978-79, possibly briefly continuing into early 1980s.
+https://www.effectsdatabase.com/model/multivox/bigjam/se8; https://juggbox.blog.jp/archives/cat_217624.html
