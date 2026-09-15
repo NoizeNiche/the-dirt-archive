@@ -1,6 +1,6 @@
-# Early Foundational Handoff 79
+# Early Foundational Handoff 78
 
-## Pass 32: HBE, T-Pedals and Catalinbread second-pass consolidation
+## Pass 31: HBE, T-Pedals and Catalinbread second-pass consolidation
 
 This pass consolidates the 2002-2010 boutique corridor while preserving a separate later bridge lane. Nine records sharpen HomeBrew Electronics and T-Pedals chronology, add an early Catalinbread distortion anchor, and document D*A.M Fuzz Sound succession into later numbered states.
 
@@ -38,7 +38,7 @@ This pass consolidates the 2002-2010 boutique corridor while preserving a separa
 
 The archive now has enough depth to compare **product chronology, physical form, branding, manufacturing context, and edition scarcity** as parallel layers. That is the foundation for reliable historical specimen identification without reducing the archive to circuit analysis.
 
-### Pass 32 note
+### Pass 31 note
 
 Extension 131 adds REC-318 through REC-326. Public and research reconciliation-20 indexes contain the new batch. The recent-home loader now surfaces Lorba Fuzz, FMJ Full Metal Jacket, Nuke Booster, T-Fuzz, and Super Charged Overdrive.
 
