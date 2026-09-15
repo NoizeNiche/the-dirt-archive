@@ -3,6 +3,7 @@
   const normalize = v => String(v ?? '').trim().toLowerCase().replace(/[–—]/g,'-');
   let lineage = null;
   let catalog = null;
+  let lastRoute = '';
 
   const load = () => Promise.all([
     lineage || fetch('lineage.json').then(r=>r.json()).then(d => (lineage = Array.isArray(d) ? d : [])),
@@ -22,11 +23,15 @@
     return normalize(edge.source) === n || normalize(edge.target) === n;
   };
 
-  function refresh(){
+  const render = () => {
     load().then(([edges]) => {
+      const route = location.hash;
       const pedal = currentPedal();
       const name = pedal?.model_name;
-      if(!name || document.getElementById('lineage-map')) return;
+      if(route === lastRoute && document.getElementById('lineage-map')) return;
+      lastRoute = route;
+      document.getElementById('lineage-map')?.remove();
+      if(!name) return;
       const related = edges.filter(e => matches(e,name));
       if(!related.length) return;
       const article = document.querySelector('.detail-layout article');
@@ -44,8 +49,27 @@
       const first = article.querySelector('.detail-section');
       first?.after(section);
     }).catch(()=>{});
-  }
+  };
 
-  window.addEventListener('hashchange',()=>setTimeout(refresh,50));
-  setTimeout(refresh,180);
+  const waitForPage = () => {
+    if(location.hash === lastRoute && document.getElementById('lineage-map')) return;
+    render();
+    if(location.hash.startsWith('#/pedal/')) {
+      setTimeout(() => {
+        if(!document.querySelector('.detail-layout article')) render();
+        else if(!document.getElementById('lineage-map')) render();
+      }, 50);
+      setTimeout(() => {
+        if(location.hash !== lastRoute || (document.querySelector('.detail-layout article') && !document.getElementById('lineage-map'))) render();
+      }, 250);
+    }
+  };
+
+  window.addEventListener('hashchange', waitForPage);
+  window.addEventListener('load', waitForPage);
+  const observer = new MutationObserver(() => {
+    if(location.hash.startsWith('#/pedal/')) waitForPage();
+  });
+  observer.observe(document.getElementById('app') || document.body, {childList:true,subtree:true});
+  waitForPage();
 })();
