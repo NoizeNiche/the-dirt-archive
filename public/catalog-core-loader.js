@@ -30,8 +30,8 @@
       return;
     }
     window.__dirtArchiveRuntimeSettled = true;
-    window.dispatchEvent(new CustomEvent('dirtarchive:runtime-ready'));
     try { window.route(); } catch (error) { console.error('Archive route finalization failed:', error); }
+    window.dispatchEvent(new CustomEvent('dirtarchive:runtime-ready'));
   };
 
   window.addEventListener('load', settleRuntime, {once: true});
