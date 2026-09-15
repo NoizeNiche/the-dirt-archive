@@ -5,7 +5,7 @@
 The master research workflow is **builder-first, then pedal-complete, then pedal-depth**.
 
 ### 1. Builder census comes first
-For the 1966-present scope, identify the widest practical universe of builders, manufacturers, OEM factories, marketed brands, private-label entities, distributors, revival makers, and micro-builders connected to overdrive, distortion, or fuzz.
+For the 1960-present scope, identify the widest practical universe of builders, manufacturers, OEM factories, marketed brands, private-label entities, distributors, revival makers, and micro-builders connected to overdrive, distortion, or fuzz.
 
 Do not assume a marketed brand is the physical manufacturer. Keep builder, designer, manufacturer, OEM, distributor, licensee, collaboration partner, and revival/reissue entity distinct until evidence supports a relationship.
 
@@ -88,6 +88,9 @@ The active builder-first phase now includes `research/builder-master-census-01.t
 Recent runs have mapped indexed catalog baselines for EFX Custom Effects, Boot-Leg Hand Made Effects, Ovaltone, GoosoniqueWorx, Shin's Music, JAM Pedals, Human Gear, Leqtique, Plan-9, Sobbat, Hudson Electronics UK, Pigdog, Schaller, Höfner, EKO, Jennings Electronic Industries, Morley/Tel-Ray, Free The Tone, Providence, SEHAT Effectors and additional historical/regional builders.
 
 A dedicated regional sweep also added builder census records spanning Australia, Brazil, Canada, France, Germany, Greece, Indonesia, Italy, Japan, Malaysia, Norway, Poland, Singapore, Sweden, the United Kingdom and the United States, along with unresolved or micro-builder entities where the surviving documentary trail is thin.
+
+### YARP milestone: Japanese and regional discovery expansion
+A further discovery batch has now added Albit, Limetone Audio, Organic Sounds, RoShi Pedals, MASF Pedals, Tanabe.TV, Weed, Bananana Effects, KATANASOUND, Iannucci Audio and Kappa Electronics as dedicated builder-census targets. These remain discovery or candidate records rather than falsely complete catalogs. Primary manufacturer sources are preferred where available; specialist coverage and community reporting are retained as discovery evidence only.
 
 The current archive deliberately separates present-day storefront snapshots, historical database indexes, OEM/rebrand relationships, and discovery-only leads rather than collapsing them into false single counts. The 1960-2026 sweep therefore grows as a layered geological record: documented builders first, complete catalogs second, deep specimen archaeology later.
 
