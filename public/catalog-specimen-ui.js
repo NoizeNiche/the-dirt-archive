@@ -32,6 +32,7 @@
 
   let repairTimer=null;
   const scheduleRepair=()=>{clearInterval(repairTimer);let attempts=0;repairTimer=setInterval(()=>{attempts++;if(renderGenerationVisuals()||attempts>=30){clearInterval(repairTimer);repairTimer=null;}},100);};
+  window.addEventListener('dirtarchive:runtime-ready',scheduleRepair);
   window.addEventListener('hashchange',scheduleRepair);
   window.addEventListener('load',scheduleRepair);
   setTimeout(scheduleRepair,250);
