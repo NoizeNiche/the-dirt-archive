@@ -22,13 +22,18 @@ const runtimeFiles = [
 for (const path of runtimeFiles) {
   const text = await read(path);
   const observers = (text.match(/new MutationObserver/g) || []).length;
-  if (observers > 0) console.log(`INFO  ${path}: ${observers} MutationObserver instance(s) remain during staged refactor`);
+  if (path.endsWith('catalog-research-ui.js') && observers > 0) failures.push(`${path} still uses MutationObserver`);
+  else if (observers > 0) console.log(`INFO  ${path}: ${observers} MutationObserver instance(s) remain during staged refactor`);
 }
 
 const app = await read('public/app.js');
 if (!/function pedalPage\(/.test(app)) failures.push('app.js lost its canonical pedalPage renderer');
 if (!/window\.addEventListener\('hashchange',route\)/.test(app)) failures.push('app.js lost canonical route change handling');
 if (!/fetch\('data\.json'\)/.test(app)) failures.push('app.js lost its explicit data.json load boundary');
+
+const researchUi = await read('public/catalog-research-ui.js');
+if (!/__dirtArchiveResearchCardWrapped/.test(researchUi)) failures.push('research UI card wrapper is missing');
+if (!/__dirtArchiveResearchPageWrapped/.test(researchUi)) failures.push('research UI page wrapper is missing');
 
 const forbidden = [
   ['public/catalog-identity-routing.js', /pedalPage\s*=\s*function/, 'identity routing still wraps pedalPage'],
