@@ -21,7 +21,19 @@
     return promise;
   }
 
-  window.DIRT_ARCHIVE = Object.assign(window.DIRT_ARCHIVE || {}, {
-    loadArchiveData
-  });
+  window.DIRT_ARCHIVE = Object.assign(window.DIRT_ARCHIVE || {}, {loadArchiveData});
+
+  const settleRuntime = () => {
+    if (window.__dirtArchiveRuntimeSettled) return;
+    if (!Array.isArray(window.DATA?.pedals) || !Array.isArray(window.DATA?.builders) || typeof window.route !== 'function') {
+      setTimeout(settleRuntime, 50);
+      return;
+    }
+    window.__dirtArchiveRuntimeSettled = true;
+    window.dispatchEvent(new CustomEvent('dirtarchive:runtime-ready'));
+    try { window.route(); } catch (error) { console.error('Archive route finalization failed:', error); }
+  };
+
+  window.addEventListener('load', settleRuntime, {once: true});
+  setTimeout(settleRuntime, 0);
 })();
