@@ -1,0 +1,5 @@
+canonical_builder	marketed_name	model_or_family	role	category	era	status	evidence_notes	sources
+Arbiter Electronics	Arbiter England	Fuzz Face	PHYSICAL_MANUFACTURER_MARKETED_BUILDER	FUZZ	1966-1968	VERIFIED_PRODUCT	Early Arbiter product; pre-Dallas branding preserved as distinct production-state corridor.	Fuzzboxes; Melody Maker; Big Muff Page
+Arbiter Electronics	Dallas-Arbiter England	Fuzz Face	CORPORATE_SUCCESSOR_PRODUCTION_STATE	FUZZ	1968-1970s	VERIFIED_RELATIONSHIP	1968 merger changed branding; later production states remain same family, not a new invention.	Fuzzboxes; FuzzFaced
+Arbiter Electronics	Arbiter England	Treble & Bass Face	PHYSICAL_MANUFACTURER_MARKETED_BUILDER	BOOST	1966-1968	EVIDENCE_QUALIFIED	Period June 1967 Melody Maker advertisement confirms product and Arbiter London address; endpoint unresolved.	Melody Maker June 1967; Big Muff Page; Fuzzboxes
+Sato Parts Co.	Sato	Dial knobs	COMPONENT_SUPPLIER	COMPONENT	1966-1968	EVIDENCE_QUALIFIED	Fuzzboxes identifies Sato as supplier of distinctive dial knobs used on early Arbiter pedals; not a pedal manufacturer relationship.	Fuzzboxes
