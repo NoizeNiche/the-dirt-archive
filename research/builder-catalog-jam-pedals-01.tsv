@@ -1,0 +1,35 @@
+canonical_builder	product_name	dirt_role	catalog_record_state	notes	source_refs
+JAM Pedals	Big Chill	SCOPE_BOUNDARY	BOUNDARY	Modulation/product context; outside central dirt count.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Boomster	DIRT_OR_BASS	ENUMERATED	Gain product retained in dirt catalog pending deeper role verification.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	DanComp	SCOPE_BOUNDARY	BOUNDARY	Compressor product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Delay Llama	SCOPE_BOUNDARY	BOUNDARY	Delay product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Delay Llama Supreme	SCOPE_BOUNDARY	BOUNDARY	Delay product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Delay Llama Xtreme	SCOPE_BOUNDARY	BOUNDARY	Delay product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Delay Llama+	SCOPE_BOUNDARY	BOUNDARY	Delay product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Double Dreamer	OVERDRIVE	ENUMERATED	Dual-drive product retained in dirt catalog.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Dyna-ssor	SCOPE_BOUNDARY	BOUNDARY	Compressor/sustainer product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Eureka - Fuzz	FUZZ	ENUMERATED	Explicit fuzz model; Effects Database published Jan 2019 and connects it to NAMM 2018.
+https://www.effectsdatabase.com/model/jampedals/eureka
+JAM Pedals	Fuzz Phrase	FUZZ	ENUMERATED	Explicit fuzz model.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Fuzz Phrase Si	FUZZ	ENUMERATED	Silicon Fuzz Phrase variant.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Harmonious Fall - Tremolo/Chorus/Vibrato	SCOPE_BOUNDARY	BOUNDARY	Modulation product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Harmonious Monk	OVERDRIVE	ENUMERATED	Overdrive/gain family product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Harmonious Monk MkII - Harmonic Tremolo	SCOPE_BOUNDARY	BOUNDARY	Modulation version of Harmonious family; outside central dirt count.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	LucyDreamer	OVERDRIVE	ENUMERATED	Overdrive product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	LucyDreamer Bass	DIRT_OR_BASS	ENUMERATED	Bass overdrive/gain version.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	LucyDreamer Supreme	OVERDRIVE	ENUMERATED	Extended LucyDreamer dirt variant.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Octaurus - Octave Fuzz	FUZZ_HYBRID	ENUMERATED	Explicit octave fuzz.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Pink Flow	DIRT_CANDIDATE	ROLE_REVIEW	Indexed JAM product retained pending narrower dirt classification.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Rattler	DISTORTION	ENUMERATED	RAT-family distortion/gain product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Rattler+	DISTORTION	ENUMERATED	Rattler family revision.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Red Muck	FUZZ	ENUMERATED	Muff-family fuzz product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Retro-Vibe	SCOPE_BOUNDARY	BOUNDARY	Vibe/modulation product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Ripply Fall - Chorus/Vibe/Phaser	SCOPE_BOUNDARY	BOUNDARY	Modulation product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Ripply Fall Bass	SCOPE_BOUNDARY	BOUNDARY	Modulation product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Rooster	OVERDRIVE	ENUMERATED	Overdrive/gain product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Seagull - Cocked Wah	SCOPE_BOUNDARY	BOUNDARY	Filter/wah product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	The Chill - Analog Tremolo	SCOPE_BOUNDARY	BOUNDARY	Tremolo product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	The Ripple	SCOPE_BOUNDARY	BOUNDARY	Modulation product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	TubeDreamer	OVERDRIVE	ENUMERATED	Overdrive product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Wahcko	SCOPE_BOUNDARY	BOUNDARY	Wah product.	https://www.effectsdatabase.com/model/jampedals
+JAM Pedals	Waterfall	SCOPE_BOUNDARY	BOUNDARY	Modulation product.	https://www.effectsdatabase.com/model/jampedals
