@@ -1,0 +1,12 @@
+canonical_builder	product_name	dirt_role	catalog_record_state	period_or_corridor	confidence	notes	evidence
+Dédalo FX	Kamikaze	DISTORTION	CURRENT_VERIFIED	2020s-present	HIGH	Official current catalog identifies Kamikaze as distortion + booster; current product state should remain separate from early Dédalo history.	https://www.dedalofx.com.ar/world/buydirect
+Dédalo FX	B-Saurio	BASS_DISTORTION	CURRENT_VERIFIED	2010s-present	HIGH	Official current catalog identifies B-Saurio as bass distortion.	https://www.dedalofx.com.ar/world/pedals
+Dédalo FX	Revolver	OVERDRIVE	CURRENT_VERIFIED	2010s-present	HIGH	Official catalog identifies Revolver as overdrive + booster. Keep booster function as scope boundary while retaining the dirt product.	https://www.dedalofx.com.ar/world/buydirect
+Dédalo FX	Fuzz-Tortion	FUZZ_DISTORTION	HISTORICAL_ANCHOR	late 1990s-early 2000s	HIGH	Dédalo's official history says the first batch included twenty pedals including fuzz-tortion.
+https://www.dedalofx.com.ar/world/history
+Dédalo FX	Early founder-made effects	DISCOVERY_ARCHAEOLOGY_PENDING	FUZZ_OD_DISTORTION	late 1990s-early 2000s	HIGH	Official history states Miguel built effects for his band in the late 1990s and series production began after Santiago joined in the early 2000s.
+https://www.dedalofx.com.ar/world/history
+Cluster Effects	Cluster Effects	CANONICAL_BUILDER	BUILDER	2000s-present	HIGH	Argentine builder; Argentine foreign-ministry directory describes more than 20 years of analog-effects manufacturing and development.
+https://cancilleria.gob.ar/es/directorios-argentina-creativa/industria-musical/fabricantes-instrumentos-musicales/efectos-cluster
+Cluster Effects	Dirt catalog	CATALOG_COMPLETION_PENDING	FUZZ_OD_DISTORTION	2000s-present	MEDIUM	Builder identity is established but product-by-product dirt enumeration remains incomplete.
+https://cancilleria.gob.ar/es/directorios-argentina-creativa/industria-musical/fabricantes-instrumentos-musicales/efectos-cluster
