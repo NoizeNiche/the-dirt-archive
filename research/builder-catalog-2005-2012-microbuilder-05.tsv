@@ -1,0 +1,74 @@
+builder	model_or_family	category	era_or_corridor	catalog_status	evidence_level	relationship_notes	source_trail
+XAct Tone Solutions (XTS)	Precision Overdrive	OVERDRIVE	2006-2007	ENUMERATED	PRIMARY_BUILDER_PROFILE	Walton's first ground-up pedal after moving beyond modifications; TS-derived but distinct XTS product.	https://www.premierguitar.com/gear/builder-profile-xact-tone-solutions?page=3 ; https://www.effectsdatabase.com/model/xts/precision
+XAct Tone Solutions (XTS)	Atomic Overdrive	OVERDRIVE_DISTORTION	2010	ENUMERATED	SECONDARY_HISTORICAL	High-gain FET design documented in 2010; prototype and V2 states should remain distinct.	https://www.effectsdatabase.com/model/xts/atomic
+XAct Tone Solutions (XTS)	Imperial Overdrive	OVERDRIVE	2011	ENUMERATED	SECONDARY_HISTORICAL	Nashville-oriented low/mid-gain XTS design; documented Nov. 2011.	https://www.effectsdatabase.com/model/xts/imperial
+XAct Tone Solutions (XTS)	Preamp	OVERDRIVE	2011	ENUMERATED	SECONDARY_HISTORICAL	Integrated XTS unit combining Atomic, Precision Multi-Drive and Pegasus Boost; preserve as composite retail model.	https://www.effectsdatabase.com/model/xts/preamp
+XAct Tone Solutions (XTS)	Tejas Overdriver	OVERDRIVE_FUZZ	2009-2011	ENUMERATED	SECONDARY_HISTORICAL	Derived from Tejas Boost platform but adds overdrive and fuzz; chronology needs later catalog reconciliation.	https://www.premierguitar.com/gear/builder-profile-xact-tone-solutions?page=3
+Paul Trombetta Design	Donita	DISTORTION	2005-2009	ENUMERATED	PRIMARY_INTERVIEW	Six-knob high-gain distortion with self-oscillating feedback; later discontinued before Tornita collaboration.
+https://www.premierguitar.com/gear/paul-trombetta-design-tornita-pedal-review
+Paul Trombetta Design	Mini-Bone	FUZZ	2009-2010	ENUMERATED	PRIMARY_INTERVIEW	Dynamic Fuzz Face-style pedal with octave/horn textures; first documented January 2010.
+https://www.effectsdatabase.com/model/trombetta/minibone ; https://www.premierguitar.com/gear/paul-trombetta-design-tornita-pedal-review
+Paul Trombetta Design	Bone Machine	FUZZ_DISTORTION_OD	2010	ENUMERATED	SECONDARY_HISTORICAL	Handwired silicon dirt platform spanning OD, distortion, fuzz and octave textures.
+https://www.effectsdatabase.com/model/trombetta/bonemachine
+Paul Trombetta Design	Tornita!	FUZZ_DISTORTION	2011	ENUMERATED	PRIMARY_INTERVIEW	David Torn collaboration derived from Donita-era concepts; includes momentary/latching feedback controls and foot-adjustable feedback pitch.
+https://www.premierguitar.com/gear/paul-trombetta-design-tornita-pedal-review
+Paul Trombetta Design	Copper Penny Si4	OVERDRIVE	2010s	ENUMERATED	PRIMARY_BUILDER_STOREFRONT	Four-knob dynamic discrete OD; builder describes it as prototype/final design lineage.
+https://www.paultrombettadesign.com/store.html
+Bob Burt Cabinets & Pedals	Bob Burt Overdrive	OVERDRIVE	2008-2010	ENUMERATED	PRIMARY_BUILDER_TIMELINE	Early core product; distribution expanded to Japan in 2009 and production rose substantially.
+https://www.effectsdatabase.com/model/bobburt/overdrive ; https://www.effectsdatabase.com/model/bobburt
+Bob Burt Cabinets & Pedals	Clean Boost	BOOST	2008-2009	BOUNDARY_DIRT_ADJACENT	PRIMARY_BUILDER_TIMELINE	Important early gain-family product but retained as boost rather than central OD count.
+https://www.effectsdatabase.com/model/bobburt
+Bob Burt Cabinets & Pedals	GR8T Distortion	DISTORTION	2011	ENUMERATED	PRIMARY_BUILDER_TIMELINE	Multi-distortion with rotary flavor selection, launched in 2011.
+https://www.effectsdatabase.com/model/bobburt
+Bob Burt Cabinets & Pedals	AH-1 Allen Hinds Signature Distortion	DISTORTION	2010s	ENUMERATED	SECONDARY_INDEX	Signature distortion product in the indexed Bob Burt catalog; exact launch date requires follow-up.
+https://www.effectsdatabase.com/model/bobburt
+Area 51	Area 51 Fuzz	FUZZ	2002-2008	ENUMERATED	PRIMARY_BUILDER_INTERVIEW	Development began about six years before the 2008 publication; inspired by an original Arbiter Fuzz Face and rebuilt for improved consistency.
+https://www.effectsdatabase.com/model/area51/fuzz ; https://www.effectsdatabase.com/interviews/brands/area51
+Area 51	Wah family	WAH_BOUNDARY	2000s	BOUNDARY_NON_DIRT	PRIMARY_BUILDER_INTERVIEW	Builder winds wah inductors in-house; retained separately from central OD/fuzz count.
+https://www.effectsdatabase.com/interviews/brands/area51
+Guitarsystems (Paul Lenders / N.E.R.D.)	FuzzTool	FUZZ	2008	ENUMERATED	SECONDARY_HISTORICAL	Fuzz Face-derived design with expanded impedance, output, bass and protection features; published July 2008.
+https://www.effectsdatabase.com/model/guitarsystems/fuzztool
+Guitarsystems (Paul Lenders / N.E.R.D.)	FuzzTool CS MkII	FUZZ	2008-2012	ENUMERATED	SECONDARY_INDEX	Custom Shop successor/state to FuzzTool; preserve as distinct marketed generation.
+https://www.effectsdatabase.com/model/guitarsystems/fuzztool
+Guitarsystems (Paul Lenders / N.E.R.D.)	FuzzTool Junior	FUZZ	2010s	ENUMERATED	SECONDARY_INDEX	Compact FuzzTool family member.
+https://www.effectsdatabase.com/model/guitarsystems/fuzztool
+Guitarsystems (Paul Lenders / N.E.R.D.)	Tony's BenderTool	FUZZ	2010s	ENUMERATED	SECONDARY_INDEX	Tone Bender-derived family member; exact first-sale date unresolved.
+https://www.effectsdatabase.com/model/guitarsystems
+Shigemori	G.O.T. Bass Drive	OVERDRIVE	2010	ENUMERATED	SECONDARY_HISTORICAL	Part of Shigemori's first documented 2010 pedal batch; bass-oriented dirt retained in central dirt universe.
+https://www.effectsdatabase.com/updates/weekly/20100426
+Shigemori	Mighty Stone	OVERDRIVE_DISTORTION	2010	ENUMERATED	SECONDARY_HISTORICAL	Documented in April 2010 new-brand/new-pedal batch.
+https://www.effectsdatabase.com/updates/weekly/20100426
+Shigemori	Pretone	OVERDRIVE	2010	ENUMERATED	SECONDARY_HISTORICAL	Documented in April 2010 batch; precise function/generation needs further product-level review.
+https://www.effectsdatabase.com/updates/weekly/20100426
+Shigemori	Ruby Stone	OVERDRIVE	2008-2010	ENUMERATED	SECONDARY_HISTORICAL	Ruby Stone and Premium were already publicly demonstrated in 2008; Effects Database publication is 2010.
+https://www.effectsdatabase.com/model/shigemori/rubystone
+Shigemori	Ruby Stone Premium	OVERDRIVE	2008-2010	ENUMERATED	SECONDARY_HISTORICAL	Premium version of Ruby Stone family; early and later voicing states should remain separated when evidence supports them.
+https://www.effectsdatabase.com/model/shigemori/rubystone/premium
+Shigemori	Stone Drive Custom	OVERDRIVE	2010	ENUMERATED	SECONDARY_HISTORICAL	Documented April 2010; Ver.3 adds rear volume boost function.
+https://www.effectsdatabase.com/model/shigemori/stonedrive
+Shigemori	Stone Drive Deluxe	OVERDRIVE	2010	ENUMERATED	SECONDARY_HISTORICAL	Part of April 2010 catalog batch; exact generation history needs follow-up.
+https://www.effectsdatabase.com/updates/weekly/20100426
+Shigemori	Muse	OVERDRIVE	2013	OUTSIDE_CORRIDOR_ANCHOR	SECONDARY_HISTORICAL	Later model retained as a chronology bridge from Ruby Stone family; not used as 2008-2012 count.
+https://www.effectsdatabase.com/model/shigemori/muse
+Celestial Effects	Taurus - Blues Overdrive	OVERDRIVE	2008-2010	ENUMERATED	PRIMARY_DESIGN_TIMELINE	First of the four initial zodiac designs developed from 2008; project pursued toward mass production.
+https://www.effectsdatabase.com/model/celestial
+Celestial Effects	Virgo - Rock Overdrive	OVERDRIVE	2008-2010	ENUMERATED	PRIMARY_DESIGN_TIMELINE	Second initial zodiac design.
+https://www.effectsdatabase.com/model/celestial
+Celestial Effects	Capricorn - Rock Distortion	DISTORTION	2008-2010	ENUMERATED	PRIMARY_DESIGN_TIMELINE	Third initial zodiac design.
+https://www.effectsdatabase.com/model/celestial
+Celestial Effects	Scorpio - Super Boost	BOOST	2008-2010	BOUNDARY_DIRT_ADJACENT	PRIMARY_DESIGN_TIMELINE	Fourth initial zodiac design and important gain-family boundary record.
+https://www.effectsdatabase.com/model/celestial
+Celestial Effects	Aries - Beast Distortion	DISTORTION	2009-2012	ENUMERATED	SECONDARY_INDEX	Indexed Celestial distortion model within the twelve-name brand concept.
+https://www.effectsdatabase.com/model/celestial
+Celestial Effects	Aquarius - Fuzz	FUZZ	2009-2012	ENUMERATED	SECONDARY_INDEX	Indexed Celestial fuzz model.
+https://www.effectsdatabase.com/model/celestial
+Celestial Effects	Cancer - Wah The Fuzz?	FUZZ_HYBRID	2009-2012	ENUMERATED	SECONDARY_INDEX	Hybrid fuzz/wah product retained as dirt-relevant.
+https://www.effectsdatabase.com/model/celestial
+Celestial Effects	Sagittarius - Overdrive Boost	OVERDRIVE	2009-2012	ENUMERATED	SECONDARY_INDEX	Indexed gain-family product.
+https://www.effectsdatabase.com/model/celestial
+Celestial Effects	The Librarian	BOUNDARY_HYBRID	2011-2012	BOUNDARY	SECONDARY_HISTORICAL	Mark Farner-associated product, but exact dirt classification should be handled separately from core zodiac catalog.
+https://www.effectsdatabase.com/model/celestial
+Neo-Classic Effects	741 Overdrive	OVERDRIVE	2010-2011	ENUMERATED	PRIMARY_BUILDER_TIMELINE	Steve Mavronis completed first self-branded prototype in May 2010; revised spare built May 2011; only two copies initially built.
+https://www.effectsdatabase.com/model/neoclassic ; https://www.effectsdatabase.com/model/neoclassic/741overdrive
+Shigemori	Muse	OVERDRIVE	2013	OUTSIDE_CORRIDOR_ANCHOR	SECONDARY_HISTORICAL	Not part of the core batch count; retained for chronological bridge into later Shigemori work.
+https://www.effectsdatabase.com/model/shigemori/muse
