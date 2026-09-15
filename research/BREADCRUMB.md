@@ -96,4 +96,9 @@ The next builder-first run moved directly through the P0 queue instead of stoppi
 
 The catalog files deliberately keep utility products, compressors, buffers, modulation, clean boosts and other non-dirt products as boundary records, while uncertain gain products remain role-review rather than being forced into OD, distortion or fuzz. Product-family continuity and dated first-run evidence are preserved where the source supports them, but individual pedal specimen archaeology remains deferred until the builder universe is substantially mapped.
 
+### YARP milestone: batch sweep into 1960s-2020s catalogs
+The uninterrupted sweep continued across both boutique and historical strata. New catalog baselines were added for **Sobbat (19 indexed products), Hudson Electronics UK (22), Pigdog (16), Schaller (15), and Höfner's documented dirt/OEM family**. Sobbat's indexed line captures Drive Breaker, Fuzz Breaker, bass and octave-fuzz families; Hudson's catalog separates its three Broadcast/AP preamps from the dirt line; Pigdog's 16-product index preserves the small-batch fuzz and Tone Bender-family record while keeping its treble booster and amp unit as boundaries.
+
+Historical Schaller work now treats Fuzz, Fuzz-Sustain and Wha-Wha-Fuzz as the central indexed dirt products while preserving the remaining 15-product Effects Database universe as scope context. Höfner is likewise retained as the marketed/instrument-maker entity, with the No. 539 and Z-series fuzz lineage preserved separately from the later 2009 Höfner Fuzz snapshot. This prevents Schaller-built OEM products from becoming duplicate builder cards while still keeping their branded identities searchable.
+
 The active rule remains: **canonical builder entity first; historical names and relationships attached to that entity; full dirt catalog second; individual pedal archaeology third.**
