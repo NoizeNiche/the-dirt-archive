@@ -42,6 +42,7 @@ try {
     if (!Array.isArray(data[key])) throw new Error(`data.json is missing required array: ${key}`);
   }
   if (!data.pedals.some(p => String(p.model_name || '').toLowerCase() === 'fuzz face')) throw new Error('data.json does not contain the Fuzz Face record');
+  if (!data.pedals.some(p => String(p.model_name || '').toLowerCase() === 'park fuzz sound')) throw new Error('data.json does not contain the Park Fuzz Sound lineage test record');
   console.log('PASS  data structure');
 
   await expectText(page, 'home', '', 'h1', 'Document');
@@ -52,7 +53,8 @@ try {
   await expectText(page, 'pedal detail', '#/pedal/Fuzz%20Face', '.detail-title', 'Fuzz Face');
   if (await page.locator('.research-status').count() !== 1) throw new Error('Pedal detail did not render exactly one research status row');
   console.log('PASS  pedal research status');
-  await page.waitForTimeout(150);
+  await expectText(page, 'lineage test pedal detail', '#/pedal/Park%20Fuzz%20Sound', '.detail-title', 'Park Fuzz Sound');
+  await page.waitForTimeout(200);
   const lineageCount = await page.locator('#lineage-map').count();
   if (lineageCount !== 1) throw new Error(`Pedal detail did not render exactly one lineage section (found ${lineageCount})`);
   console.log('PASS  pedal lineage section');
