@@ -41,9 +41,16 @@ try {
   for (const key of ['builders','pedals','generations','runs','distinguishers','claims','sources']) {
     if (!Array.isArray(data[key])) throw new Error(`data.json is missing required array: ${key}`);
   }
-  if (!data.pedals.some(p => String(p.model_name || '').toLowerCase() === 'fuzz face')) throw new Error('data.json does not contain the Fuzz Face record');
+  const fuzzFace = data.pedals.find(p => String(p.model_name || '').toLowerCase() === 'fuzz face');
+  if (!fuzzFace) throw new Error('data.json does not contain the Fuzz Face record');
   if (!data.pedals.some(p => String(p.model_name || '').toLowerCase() === 'park fuzz sound')) throw new Error('data.json does not contain the Park Fuzz Sound lineage test record');
   console.log('PASS  data structure');
+
+  const fuzzFaceGenerationIds = data.generations.filter(g => g.pedal_id === fuzzFace.pedal_id).map(g => g.generation_id);
+  const fuzzFaceSpecimenText = await page.request.get(`${base}/catalog-specimen-registry-01.js`).then(r => r.text());
+  if (!fuzzFaceSpecimenText.includes("generation_id:'GEN-0001'")) throw new Error('Fuzz Face specimen is not anchored to its documented generation');
+  if (!fuzzFaceGenerationIds.includes('GEN-0001')) throw new Error('Fuzz Face generation GEN-0001 is missing from data.json');
+  console.log('PASS  generation fixture');
 
   await expectText(page, 'home', '', 'h1', 'Document');
   await expectText(page, 'builders index', '#/builders', '.detail-title', 'Builders');
@@ -53,6 +60,11 @@ try {
   await expectText(page, 'pedal detail', '#/pedal/Fuzz%20Face', '.detail-title', 'Fuzz Face');
   if (await page.locator('.research-status').count() !== 1) throw new Error('Pedal detail did not render exactly one research status row');
   console.log('PASS  pedal research status');
+  if (await page.locator('.generation-visual-section').count() !== 1) throw new Error('Fuzz Face did not render the generation guide');
+  if (await page.locator('.generation-visual-row').count() !== fuzzFaceGenerationIds.length) throw new Error('Generation guide row count does not match documented generations');
+  if (await page.locator('.generation-visual-row').first().locator('img.generation-visual').count() !== 1) throw new Error('Fuzz Face first generation does not expose its cleared visual reference');
+  if (await page.locator('.specimen-strip,.specimen-gallery').count() !== 0) throw new Error('Legacy specimen strip/gallery is still rendered');
+  console.log('PASS  generation visual guide');
   await expectText(page, 'lineage test pedal detail', '#/pedal/Park%20Fuzz%20Sound', '.detail-title', 'Park Fuzz Sound');
   await page.waitForTimeout(200);
   const lineageCount = await page.locator('#lineage-map').count();
