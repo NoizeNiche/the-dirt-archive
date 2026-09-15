@@ -50,7 +50,16 @@ try {
   await expectText(page, 'overdrive category', '#/category/overdrive', '.detail-title', 'Overdrive');
   await expectText(page, 'distortion category', '#/category/distortion', '.detail-title', 'Distortion');
   await expectText(page, 'pedal detail', '#/pedal/Fuzz%20Face', '.detail-title', 'Fuzz Face');
+  if (await page.locator('.research-status').count() !== 1) throw new Error('Pedal detail did not render exactly one research status row');
+  console.log('PASS  pedal research status');
   await expectText(page, 'about', '#/about', '.detail-title', 'About');
+
+  await page.goto(`${base}/#/`, {waitUntil:'networkidle', timeout:30000});
+  await page.waitForTimeout(250);
+  const card = page.locator('.pedal-card').filter({hasText:'Fuzz Face'}).first();
+  await card.waitFor({state:'visible', timeout:10000});
+  if (await card.locator('.research-badge').count() !== 1) throw new Error('Fuzz Face card did not render exactly one research badge');
+  console.log('PASS  pedal card research badge');
 
   await page.goto(`${base}/#/builders`, {waitUntil:'networkidle', timeout:30000});
   const builderLink = page.locator('a.builder-feature').first();
