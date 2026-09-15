@@ -13,8 +13,7 @@
     if(builderName && tagged.length){
       const exact = tagged.filter(s => String(s.builder).trim().toLowerCase() === String(builderName).trim().toLowerCase());
       if(exact.length) return exact;
-      const generic = list.filter(s => !s.builder);
-      return generic;
+      return list.filter(s => !s.builder);
     }
     return list;
   };
@@ -39,7 +38,8 @@
     const rows = gens.map(g => {
       const s = firstByGen.get(g.generation_id);
       const years = `${g.start_year || 'Date unknown'}${g.end_year ? `–${g.end_year}` : ''}`;
-      return `<a class="generation-visual-row" href="${esc(s?.page || '#')}" ${s?.page ? 'target="_blank" rel="noopener"' : ''}><div class="generation-visual-slot">${s ? visual(s,g.name) : '<span class="generation-visual-pending"><span>PHOTO</span><small>pending</small></span>'}</div><div class="generation-visual-copy"><div class="generation-visual-years">${esc(years)}</div><h3>${esc(g.name)}</h3><p>${esc(g.summary || g.description || 'Generation research in progress.')}</p>${s?.caption ? `<small>${esc(s.caption)}</small>` : ''}</div></a>`;
+      const media = s ? visual(s,g.name) : '<div class="generation-visual-pending"><span>PHOTO</span><small>pending</small></div>';
+      return `<div class="generation-visual-row"><div class="generation-visual-slot">${media}</div><div class="generation-visual-copy"><div class="generation-visual-years">${esc(years)}</div><h3>${esc(g.name)}</h3><p>${esc(g.summary || g.description || 'Generation research in progress.')}</p>${s?.caption ? `<small>${esc(s.caption)}</small>` : ''}</div></div>`;
     }).join('');
     const section = document.createElement('section');
     section.className = 'generation-visual-section';
@@ -53,8 +53,7 @@
     .generation-visual-section{margin:38px 0 0;padding-top:22px;border-top:3px double #1d1712}
     .generation-visual-intro{max-width:760px;color:#766a5b;font:11px/1.55 Arial,Helvetica,sans-serif}
     .generation-visual-list{display:grid;gap:10px;margin-top:16px}
-    .generation-visual-row{display:grid;grid-template-columns:190px 1fr;gap:18px;align-items:center;border:1px solid #b9aa92;background:#fbf7ef;padding:10px;text-decoration:none;color:inherit}
-    .generation-visual-row:hover{border-color:#8b2319;background:#f7efe1}
+    .generation-visual-row{display:grid;grid-template-columns:190px 1fr;gap:18px;align-items:center;border:1px solid #b9aa92;background:#fbf7ef;padding:10px}
     .generation-visual-slot{min-height:145px;background:#e5dccb;display:flex;align-items:center;justify-content:center}
     .generation-visual-link{display:block;width:100%;height:100%}
     .generation-visual{display:block;width:100%;height:145px;object-fit:contain}
