@@ -1,0 +1,83 @@
+canonical_builder	model	alias_or_variant	category	era_or_corridor	catalog_status	evidence_level	relationship_notes	source_trail
+Electro-Harmonix	LPB-1 Linear Power Booster	LPB-1	BOOST_OVERDRIVE	1968-present	VERIFIED_ANCHOR	PRIMARY	EHX identifies this as its first product, introduced in late 1968; archive keeps boost-to-overdrive boundary explicit.	https://www.ehx.com/the-ehx-story/
+Electro-Harmonix	LPB-2 Linear Power Booster	LPB-2	BOOST_OVERDRIVE	1970s	INDEXED	SECONDARY	Separate model/state from LPB-1; EHX historical index lists LPB-2.	https://www.ehx.com/search/BIG%20MUFF/page/161/
+Electro-Harmonix	Screaming Bird		TREBLE_BOOST	1969-1970s	INDEXED	PRIMARY_ADJACENT	Early EHX treble booster; dirt-relevant but keep booster class explicit.	https://www.ehx.com/search/BIG%20MUFF/page/161/
+Electro-Harmonix	The Mole	Mole Bass Booster	BASS_BOOST	1969-1970s	INDEXED	PRIMARY_ADJACENT	Bass booster; dirt-adjacent scope record rather than central fuzz/OD count.	https://www.ehx.com/search/BIG%20MUFF/page/161/
+Electro-Harmonix	Axis Fuzz	EH Axis Fuzz	FUZZ	1968-1970s	INDEXED	SECONDARY	EHX-era retail identity related to Guild/Foxey Lady supply; do not merge with Roger Mayer Axis Fuzz.	https://www.ehx.com/search/BIG%20MUFF/page/161/ ; https://stringjoy.com/electro-harmonix-history/
+Electro-Harmonix	Foxey Lady	Guild Foxey Lady	FUZZ	late 1960s-1970s	MARKETED_RELATIONSHIP	SECONDARY	Guild marketed node; retain separately from EHX builder while preserving manufacturing relationship.	https://stringjoy.com/electro-harmonix-history/
+Electro-Harmonix	Big Muff Pi	Original / early Muff	FUZZ	1969-present	VERIFIED_ANCHOR	PRIMARY	EHX dates introduction to 1969; exact first-production state requires specimen/catalog reconciliation.	https://www.ehx.com/the-ehx-story/ ; https://www.ehx.com/blog/1970s-ehx-catalog/
+Electro-Harmonix	Big Muff Pi Triangle	Triangle-era Big Muff	FUZZ	1969-1973	INDEXED	SECONDARY	Family/generation node; preserve early triangle enclosure/artwork states separately at specimen layer.	https://djjondent.blogspot.com/2017/10/electro-harmonix-time-line.html
+Electro-Harmonix	Muff Fuzz	EH2008 / EH2009	FUZZ	early 1970s	INDEXED	PRIMARY_ADJACENT	Distinct compact Muff family; EHX historical index lists Muff Fuzz.
+https://www.ehx.com/search/BIG%20MUFF/page/161/
+Electro-Harmonix	Little Big Muff Pi		FUZZ	1970s-present	INDEXED	PRIMARY_ADJACENT	Historical EHX index lists Little Big Muff; later current/reissue states should be distinct.
+https://www.ehx.com/search/BIG%20MUFF/page/161/
+Electro-Harmonix	Deluxe Big Muff Pi		FUZZ	1978-1979+ lineage	INDEXED	PRIMARY_ADJACENT	EHX's historical index dates Deluxe Big Muff to 1979; later Deluxe Big Muff variants remain separate states.
+https://www.ehx.com/search/BIG%20MUFF/page/161/ ; https://www.ehx.com/blog/1970s-ehx-catalog/
+Electro-Harmonix	English Muff'n		OVERDRIVE	2000s	INDEXED	SECONDARY	Tube-style overdrive family; include in lifetime dirt catalog.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Hot Tubes	Hot Tubes Overdrive	OVERDRIVE	1978-present lineage	VERIFIED_ANCHOR	PRIMARY	EHX identifies the original as a 1970s design and current model as a reissue; keep original, tube-era discontinued and later reissue states separate.
+https://www.ehx.com/products/hot-tubes/
+Electro-Harmonix	Hot Tubes Nano	Hot Tubes Nano	OVERDRIVE	2000s	INDEXED	PRIMARY_ADJACENT	Compact reissue/derivative; not the original 1978 enclosure state.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Hot Tubes (original tube-era)	Discontinued tube-era version	OVERDRIVE	2000s-2009	INDEXED	SECONDARY	Keep separate from 1978 original and current compact reissue.
+https://www.ehx.com/products/hot-tubes-2/
+Electro-Harmonix	Lumberjack		OVERDRIVE_DISTORTION	2010s	INDEXED	SECONDARY	Heavy clipping/overdrive product; current/historical shop index.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	East River Drive		OVERDRIVE	2010s-present	INDEXED	PRIMARY_ADJACENT	Current EHX dirt catalog baseline.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Soul Food		OVERDRIVE	2014-present	INDEXED	PRIMARY_ADJACENT	Current EHX dirt catalog baseline.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Bass Soul Food		BASS_OVERDRIVE	2010s-present	INDEXED	PRIMARY_ADJACENT	Bass dirt derivative; preserve as separate model.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Crayon Full-Range Overdrive	Crayon	OVERDRIVE	2010s-present	INDEXED	PRIMARY_ADJACENT	Current official EHX product.
+https://www.ehx.com/
+Electro-Harmonix	Hot Wax	Dual Overdrive	OVERDRIVE	2010s-present	INDEXED	PRIMARY_ADJACENT	Current official EHX dirt product.
+https://www.ehx.com/
+Electro-Harmonix	OD Glove		OVERDRIVE_DISTORTION	2010s-present	INDEXED	PRIMARY_ADJACENT	Current/historical official EHX model.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Flatiron Fuzz		FUZZ	2010s-present	INDEXED	PRIMARY_ADJACENT	Current official EHX fuzz product.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Satisfaction Fuzz		FUZZ	2010s-present	INDEXED	PRIMARY_ADJACENT	Current official EHX fuzz product.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Nano Big Muff Pi		FUZZ	2000s-present	INDEXED	PRIMARY_ADJACENT	Compact Big Muff state; separate from vintage large-enclosure states.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Op-Amp Big Muff Pi		FUZZ	1970s original; modern reissue	INDEXED	SECONDARY	Distinct Big Muff family state; modern reissue is separate edition.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Russian Big Muff Pi	Sovtek / Green Russian family	FUZZ	1990s-present lineage	INDEXED	SECONDARY	Manufacturing/ownership transition requires explicit Soviet/Russian/US reissue relationship mapping.
+https://www.ehx.com/search/BIG%20MUFF/page/161/
+Electro-Harmonix	Green Russian Big Muff Pi		FUZZ	1990s-present lineage	INDEXED	PRIMARY_ADJACENT	Current reissue lineage associated with historical Russian production.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Ram's Head Big Muff	V2-era Big Muff family	FUZZ	1970s; later reissues	INDEXED	SECONDARY	Historical family state; preserve production/reissue separation.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Triangle Big Muff	Triangle reissue/family	FUZZ	1970s; later reissues	INDEXED	PRIMARY_ADJACENT	Historical family state; separate original and later reissue editions.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	U.S. Big Muff Pi		FUZZ	2000s-present	INDEXED	PRIMARY_ADJACENT	Modern US-marketed Big Muff state.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Big Muff Pi with Tone Wicker		FUZZ	2000s-present	INDEXED	PRIMARY_ADJACENT	Expanded-feature Big Muff derivative.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Deluxe Big Muff Pi		FUZZ	2000s-present	INDEXED	PRIMARY_ADJACENT	Modern Deluxe state; do not collapse with 1979 historical Deluxe Big Muff.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Deluxe Big Muff 2	Dual Op-Amp Fuzz	FUZZ	2020s-present	INDEXED	PRIMARY	Current EHX product.
+https://shop.ehx.com/
+Electro-Harmonix	Big Muff Pi 2	Dual Op-Amp Fuzz	FUZZ	2020s-present	INDEXED	PRIMARY	Current EHX product.
+https://shop.ehx.com/
+Electro-Harmonix	Big Muff 2 with Tone Wicker		FUZZ	2020s-present	INDEXED	PRIMARY	Current EHX product.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Bass Big Muff Pi		BASS_FUZZ	2000s-present	INDEXED	PRIMARY_ADJACENT	Bass-specific Big Muff state.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Deluxe Bass Big Muff Pi		BASS_FUZZ	2010s-present	INDEXED	PRIMARY_ADJACENT	Bass-specific Deluxe family.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Deluxe Bass Big Muff 2	Dual Op-Amp Bass Fuzz	BASS_FUZZ	2020s-present	INDEXED	PRIMARY	Current EHX product.
+https://shop.ehx.com/
+Electro-Harmonix	Percolator	EHX Percolator	FUZZ	2020s-present	INDEXED	PRIMARY	Current EHX product; historically associated with Harmonic Percolator concept, but builder lineage should not be overstated without source reconciliation.
+https://shop.ehx.com/
+Electro-Harmonix	Ripped Speaker		FUZZ	2010s-present	INDEXED	PRIMARY_ADJACENT	Current EHX fuzz product.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Spruce Goose		FUZZ	2010s	INDEXED	PRIMARY_ADJACENT	Current/historical EHX fuzz product.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Bender Royale		FUZZ	2020s-present	INDEXED	PRIMARY	Current EHX product.
+https://shop.ehx.com/
+Electro-Harmonix	Hell Melter	Bass/metal distortion	DISTORTION	2020s-present	INDEXED	PRIMARY	Current EHX distortion product.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
+Electro-Harmonix	Pico Triboro Bridge	Overdrive/Distortion/Fuzz	OVERDRIVE_DISTORTION_FUZZ	2020s-present	INDEXED	PRIMARY	Current EHX multi-dirt product.
+https://shop.ehx.com/category/guitar-effects-pedals-all-pedals/
