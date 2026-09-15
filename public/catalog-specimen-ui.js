@@ -28,9 +28,8 @@
 
   const style=document.createElement('style');style.textContent=`.generation-visual-section{margin:38px 0 0;padding-top:22px;border-top:3px double #1d1712}.generation-visual-intro{max-width:760px;color:#766a5b;font:11px/1.55 Arial,Helvetica,sans-serif}.generation-visual-list{display:grid;gap:10px;margin-top:16px}.generation-visual-row{display:grid;grid-template-columns:190px 1fr;gap:18px;align-items:center;border:1px solid #b9aa92;background:#fbf7ef;padding:10px}.generation-visual-slot{min-height:145px;background:#e5dccb;display:flex;align-items:center;justify-content:center}.generation-visual-link{display:block;width:100%;height:100%}.generation-visual{display:block;width:100%;height:145px;object-fit:contain}.generation-visual-pending{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;width:100%;height:145px;background:repeating-linear-gradient(135deg,#eee5d5 0,#eee5d5 8px,#e8decc 8px,#e8decc 16px);color:#8b2319;text-transform:uppercase;text-align:center;text-decoration:none}.generation-visual-pending span{font:700 8px Arial,Helvetica,sans-serif;letter-spacing:.14em}.generation-visual-pending small{font:8px Arial,Helvetica,sans-serif;color:#766a5b;letter-spacing:.08em}.generation-visual-years{font:700 8px Arial,Helvetica,sans-serif;color:#8b2319;letter-spacing:.12em;text-transform:uppercase}.generation-visual-copy h3{margin:5px 0 4px;font:700 19px/1.1 Georgia,'Times New Roman',serif;color:#1d1712}.generation-visual-copy p{margin:0;color:#766a5b;font:10px/1.45 Arial,Helvetica,sans-serif}.generation-visual-copy small{display:block;margin-top:8px;color:#766a5b;font:8px/1.4 Arial,Helvetica,sans-serif}@media(max-width:640px){.generation-visual-row{grid-template-columns:1fr}.generation-visual-slot{min-height:180px}.generation-visual{height:180px}.generation-visual-pending{height:180px}}`;document.head.appendChild(style);
 
-  if(typeof route==='function'&&!window.__dirtArchiveRouteGenerationVisualsWrapped){
-    const originalRoute=route;
-    window.__dirtArchiveRouteGenerationVisualsWrapped=true;
-    window.route=function(){const result=originalRoute();if(location.hash.toLowerCase().startsWith('#/pedal/'))requestAnimationFrame(renderGenerationVisuals);return result;};
-  }
+  const renderLater=()=>setTimeout(renderGenerationVisuals,40);
+  window.addEventListener('hashchange',renderLater);
+  window.addEventListener('load',renderLater);
+  setTimeout(renderGenerationVisuals,250);
 })();
