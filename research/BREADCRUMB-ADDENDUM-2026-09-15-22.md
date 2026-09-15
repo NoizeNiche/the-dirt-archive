@@ -2,24 +2,26 @@
 
 Append-only continuation of `research/BREADCRUMB.md` and prior addenda.
 
-## YARP batch 28 handoff
+## YARP batch 28/29 handoff
 
-Expanded the OEM/lineage audit into the Japanese vintage fuzz ecosystem, concentrating on Teisco, Shin-Ei and related branded products.
+Expanded the OEM/lineage audit into the Japanese vintage fuzz ecosystem, then reconciled the strongest family relationships without collapsing separate marketed identities.
 
 Committed:
 - `research/japanese-oem-lineage-candidates-01.tsv`
+- `research/japanese-oem-family-reconciliation-03.tsv`
 
 ## Historical findings
 
-- Teisco Fuzz Machine is documented as part of a broad early-1970s Japanese OEM family associated with Shin-Ei/Teisco, with linked marketed versions including Ibanez Standard Fuzz No. 59 and multiple distributor brands.
-- Teisco TF-1 Fuzz is documented as a Teisco-branded FY-6 Super Fuzz within the larger Shin-Ei OEM family.
-- Teisco Wau Wau Fuzz is documented as likely Shin-Ei-built and closely related to the Ibanez Wau Wau Fuzz and Guyatone FS-5 Wah-Fuzz; exact builder language remains qualified.
-- Guyatone FS-3 contains a Honey-labeled PCB and a plausible post-Honey continuation/reuse relationship, but the surviving evidence does not justify assigning a specific factory with confidence.
-- Suzuki Fuzz-Tone / Distorsion remains a deliberate mystery/HOLD candidate despite collector evidence associating some Suzuki-branded products with Shin-Ei.
+- Teisco Fuzz Machine remains a distinct marketed identity within the documented early-1970s Standard Fuzz family associated with Shin-Ei/Teisco and multiple distributor brands.
+- Teisco TF-1 is retained as a Teisco-branded FY-6 Super Fuzz family state.
+- Teisco Wau Wau Fuzz is retained as a likely Shin-Ei-built OEM family member alongside the Ibanez Wau Wau Fuzz and Guyatone FS-5, with builder wording kept qualified.
+- Excetro, Bruno, Antoria, Mica and Ibanez Standard Fuzz No.59 are reconciled as related marketed states of the broader Standard Fuzz OEM family where the source supports that relationship.
+- Suzuki Fuzz-Tone remains HOLD_FOR_REVIEW because evidence does not justify a firm Shin-Ei attribution.
+- Guyatone FS-3 remains HOLD_FOR_REVIEW for direct factory attribution despite its historical relationship to the Honey/Shin-Ei ecosystem.
 
 ## Validation posture
 
-High-confidence relationships were logged only where the source explicitly supports an OEM family or branded sibling relationship. Model-specific factory attribution remains qualified where the source itself is uncertain.
+The new reconciliation ledger distinguishes direct OEM/rebrand relationships from broader family relationships and from unresolved factory hypotheses. No blanket Teisco/Shin-Ei merge was made.
 
 No Japanese OEM relationship was promoted into `public/lineage.json` during this batch.
 
@@ -29,8 +31,8 @@ No schematics, PCB layouts, gutshot libraries, complete BOMs, or cloning instruc
 
 ## Current queue
 
-1. Reconcile Teisco/Shin-Ei family entries against the existing duplicate/alias scan.
-2. Audit FY-6, FY-2 and later Shin-Ei-branded variants for model-specific exceptions.
+1. Audit FY-6, FY-2 and later Shin-Ei-branded variants for model-specific exceptions.
+2. Cross-check Japanese OEM family relationships against the repo-wide duplicate/alias scan.
 3. Add only builder-aware public edges once the runtime schema can distinguish builder/model entities.
 4. Continue Japanese and regional builder/product census work.
 
@@ -39,7 +41,8 @@ No schematics, PCB layouts, gutshot libraries, complete BOMs, or cloning instruc
 - https://www.effectsdatabase.com/model/teisco/fuzzmachine
 - https://www.effectsdatabase.com/model/teisco/tf1
 - https://www.effectsdatabase.com/model/teisco/wauwaufuzz
-- https://www.effectsdatabase.com/model/guyatone/fs/3
+- https://www.effectsdatabase.com/model/excetro/fuzzmachine
+- https://www.effectsdatabase.com/model/antoria/fuzzmachine
 - https://www.effectsdatabase.com/model/suzuki/fuzztone
 
 ## Continuity rule
