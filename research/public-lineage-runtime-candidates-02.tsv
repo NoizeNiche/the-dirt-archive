@@ -1,0 +1,16 @@
+edge_id	source_entity	target_entity	relationship_type	public_status	confidence	display_priority	note
+LINEAGE-001	Honey FY-6	Shin-Ei FY-6	SUCCESSOR_MARKETING_LINEAGE	PROMOTE	HIGH	P0	Sequential historical identity; preserve both retail names.
+LINEAGE-002	Shin-Ei FY-6	Univox Super-Fuzz	OEM_MARKET_LINEAGE	PROMOTE	HIGH	P0	Separate retail/import identity inside the FY-6 family.
+LINEAGE-003	JEN Fuzz	Vox V828/V8281	OEM_CONTRACT_LINEAGE	PROMOTE	HIGH	P0	Italian JEN manufacturing state linked to Vox retail models.
+LINEAGE-004	JEN Fuzz	Elka Fuzz	OEM_REBRAND	PROMOTE	HIGH	P1	Separate marketed identity within same Italian OEM corridor.
+LINEAGE-005	JEN Fuzz	Unicord Fuzz	OEM_REBRAND	PROMOTE	HIGH	P1	North American marketed/import identity; keep separate from JEN physical manufacturer.
+LINEAGE-006	Coron Distortion 10	Grant Distortion 10	OEM_REBRAND	PROMOTE	HIGH	P1	Coron family relationship; marketed name remains searchable.
+LINEAGE-007	Coron Over Drive	Storm Over Drive	OEM_REBRAND	PROMOTE	HIGH	P1	Coron family relationship; no duplicate physical builder count.
+LINEAGE-008	Colorsound Power Boost	Colorsound Overdriver	SUCCESSOR_MARKETING_LINEAGE	PROMOTE	HIGH	P0	Power Boost and Overdriver represent distinct historical retail/production states.
+LINEAGE-009	Park Fuzz Sound	Sola Sound Tone Bender Fuzz family	OEM_LINEAGE	PROMOTE	HIGH	P1	Park retail identity linked to Sola Sound production family.
+LINEAGE-010	Carlsbro Fuzz	Sola Sound Tone Bender Fuzz family	OEM_LINEAGE	PROMOTE	HIGH	P1	Carlsbro retail identity linked to Sola Sound production family.
+LINEAGE-011	CSL Super Fuzz	Sola Sound Tone Bender Fuzz family	OEM_LINEAGE	PROMOTE	HIGH	P1	Charles Summerfield retail identity linked to Sola Sound production family.
+LINEAGE-012	Ibanez SF5	Ibanez FZ5	SUCCESSOR_MODEL_LINEAGE	PROMOTE	HIGH	P1	Treat as linked model lineage; do not merge into a single specimen state.
+LINEAGE-013	Teisco Fuzz Machine	Ibanez Standard Fuzz No.59	OEM_FAMILY	HOLD_FOR_REVIEW	MEDIUM	Evidence supports family relationship but not a universal factory attribution.
+LINEAGE-014	Ibanez SoundTank family	Maxon	MANUFACTURING_RELATIONSHIP	HOLD_FOR_REVIEW	MEDIUM	Do not apply blanket Maxon attribution to every SoundTank model.
+LINEAGE-015	Supa Tone Bender	Jumbo Tone Bender	PRODUCT_FAMILY	HOLD_FOR_REVIEW	MEDIUM	Parallel wide-enclosure products; exact succession/variant relationship remains unresolved.
