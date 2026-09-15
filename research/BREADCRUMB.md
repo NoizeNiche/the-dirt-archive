@@ -128,6 +128,16 @@ Important new DOD catalog records include **FX50, FX50B, FX51 Juice Box, FX52 Cl
 
 The DOD evidence trail shows why the archive must distinguish **model existence** from **exact production state**. A 1992 Japanese catalog page, for example, lists FX50B, FX52, FX53, FX55B, FX56, FX57, FX58 and FX59 together, while current DigiTech manuals index later models such as FX66, FX69B, FX70, FX86, FX91, FX92, FX101 and FX102. Official DigiTech history separately explains the FX-series expansion in the 1980s and the later Jason Lamb-era experimental models. This pass therefore improves breadth without pretending the lifetime DOD catalog is finished.
 
+### YARP milestone: ProCo RAT family catalog expansion
+The ProCo pass has now been committed as `research/builder-catalog-proco-02.tsv`. The ledger treats RAT history as a connected family while preserving distinct retail identities and uncertain dates. It indexes the Bud Box/Box Rat development corridor, early V1 visual states, Juggernaut, Big Box V2, Small Box White Face/Black Face/No Brackets states, R2DU, RAT 2, Turbo RAT, Vintage Reissue, BRAT, Roadkill, Deucetone RAT, 25th Silver Anniversary RAT, You Dirty RAT, SOLO, the 1985 Whiteface reissue, FATRAT, Japan-only 40th-anniversary colorway states, and Lil' RAT. Prototype/development records are kept outside the central retail count unless stronger evidence promotes them.
+
+A key archive correction from this pass is the treatment of **BRAT and Roadkill**. They remain separately searchable marketed products, but the ledger records their shared economy-market family relationship rather than counting them as unrelated lineages. The original Juggernaut date remains unresolved because secondary sources disagree, so the archive preserves the conflict instead of forcing a false exact year.
+
+### YARP milestone: Ibanez / Maxon dirt catalog expansion
+A new dedicated ledger, `research/builder-catalog-ibanez-maxon-02.tsv`, now expands the Nisshin Onpa / Maxon side of the Japanese OEM story. It indexes the early D&S and D&S II dirt families, the associated OD-801/OD-802 domestic designations as evidence-qualified relationship records, Ibanez OD-850 and OD-855, Maxon OD-880, Ibanez/Maxon SD-5 Double Sound, the OD808 / TS808 relationship, OD-9 / TS9 successor identities, SD-9 Sonic Distortion, DS830, later nine-series candidates, OOD9 Organic Overdrive as an explicit OD880 update, modern OSD9 and the Fuzz Elements family.
+
+Primary catalog evidence is especially strong for the period corridor around **1978**: the surviving Maxon catalog lists D&S, D&S II, OD880 and SD5, while Ibanez's catalog history provides period support for OD-850 and OD-855. Susumu Tamura's historical account further establishes the Maxon OD808 / Ibanez TS808 relationship and identifies OD9/TS9 and other successors as designs from the same Maxon engineering lineage. The archive intentionally keeps the Maxon and Ibanez retail identities distinct while linking them at the manufacturer/OEM level.
+
 ### Current active queue
 Continue catalog completion on the remaining P0 builders, with special attention to historical paper catalogs and manufacturer archives that can reveal discontinued or regional models. Reconcile suffix variants and OEM/rebrand relationships before promoting any builder from `CENSUS_ONLY` to a stronger catalog status.
 
