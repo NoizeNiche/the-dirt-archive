@@ -8,6 +8,7 @@ Extended the period-manufacturer audit and added a second ledger focused on earl
 
 Committed:
 - `research/period-manufacturer-switch-ledger-02.tsv`
+- `research/uk-oem-period-switch-candidates-01.tsv`
 
 ## Historical findings
 
@@ -17,10 +18,14 @@ The Sola Sound-centered sweep produced several useful archive states:
 - WEM Rush Pep Box: Rush/WEM partnership period followed by WEM production.
 - Carlsbro Fuzz-Tone: a distinct 1966 wedge-shaped early state predates the documented later Sola Sound-supplied three-knob model, making this a likely production-history split rather than a single-builder record.
 - Park Fuzz Sound and Rangemaster Fuzzbug: additional examples of Sola Sound supplying branded third-party fuzz products.
+- B&M Exel Shatterbox to B&M Fuzz Unit: Barnes & Mullins moved from the Exel-era fuzz product into a later Fuzz Unit explicitly supplied by Sola Sound; the earlier Exel factory remains unresolved.
+- Vox Tone Bender Professional MKII and MKIII: Sola Sound supplied Vox-branded production across distinct model-generation periods.
 
 ## Validation posture
 
-The new Carlsbro early-state record remains a research candidate because the surviving evidence does not yet name the early physical builder with sufficient confidence. The stronger Sola Sound relationships remain research-layer validated but are not being forced into the model-name-only public lineage graph, which cannot yet represent builder-to-model edges cleanly.
+The stronger Sola Sound relationships are research-layer validated but are not being forced into the model-name-only public lineage graph. Manufacturer-to-model promotion remains gated until the public schema can represent builder-aware references without ambiguity.
+
+The B&M Exel Shatterbox remains a useful negative case: marketed identity is secure, the later Sola Sound supply is secure, but the earlier physical builder is not.
 
 ## Boundary / safety state
 
@@ -28,19 +33,18 @@ No schematics, PCB layouts, gutshot libraries, complete BOMs, or cloning instruc
 
 ## Current queue
 
-1. Reconcile the Carlsbro early/late manufacturing split against any existing Carlsbro catalog records.
-2. Search Japanese OEM production handovers using the same period-state methodology.
-3. Design or extend a builder-aware public relationship schema before promoting manufacturer-to-model edges.
-4. Continue the 1960-2026 builder/product census and duplicate reconciliation.
+1. Reconcile Carlsbro early/late manufacturing states against catalog records.
+2. Continue Japanese OEM production-handover research using the same period-state methodology.
+3. Extend builder-aware public relationship schema planning before any new manufacturer-to-model promotion.
+4. Continue early UK fuzz/wah-fuzz manufacturer-switch scans.
+5. Continue the 1960-2026 builder/product census and duplicate reconciliation.
 
 ## Sources used this batch
 
-- https://fuzzboxes.org/marshallsupafuzz
-- https://fuzzboxes.org/zonkii
-- https://fuzzboxes.org/pepbox
-- https://fuzzboxes.org/carlsbrofuzztone
+- https://fuzzboxes.org/exelshatterbox
 - https://fuzzboxes.org/parkfuzzsound
-- https://fuzzboxes.org/fuzzbug
+- https://fuzzboxes.org/voxtonebendermkii
+- https://fuzzboxes.org/tonebendermkiii
 
 ## Continuity rule
 
