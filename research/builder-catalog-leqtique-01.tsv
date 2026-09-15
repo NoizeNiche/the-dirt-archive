@@ -1,0 +1,6 @@
+canonical_builder	product_name	dirt_role	catalog_record_state	notes	source_refs
+Leqtique	9/9	DISTORTION	ENUMERATED	Explicit Leqtique high-gain dirt model.	https://www.effectsdatabase.com/model/leqtique
+Leqtique	CLD Caeruleum Lightdrive	OVERDRIVE	VERIFIED_INDEX_ROLE	Published Jan 2012; intended from clean to low-gain and also usable as buffer/clean boost. Shun Nokina design relationship retained.	https://www.effectsdatabase.com/model/leqtique/cld
+Leqtique	MAR Maestro Antique Revised	OVERDRIVE	VERIFIED_INDEX_ROLE	Published Dec 2011; Leqtique version of the earlier Shun Nokina Design Maestro lineage. Effects Database records discontinuation in 2012 due to component availability.	https://www.effectsdatabase.com/model/leqtique/mar
+Leqtique	MAT Maestoso	OVERDRIVE	VERIFIED_INDEX_ROLE	Published Jan 2012; evolved version of MAR.	https://www.effectsdatabase.com/model/leqtique/mat
+Leqtique	ProVoost - Booster	BOOST_SCOPE_BOUNDARY	BOUNDARY	Boost/buffer product retained for builder completeness, excluded from central dirt count.	https://www.effectsdatabase.com/model/leqtique/provoost
