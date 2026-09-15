@@ -4,7 +4,7 @@
   // a circuit variant, and a circuit variant is not automatically a new model.
   window.DIRT_SPECIMENS = [
     {
-      title:'Fuzz Face', role:'Primary example', era:'1966–1967', generation_id:'GEN-0001', rights:'Cleared',
+      title:'Fuzz Face', role:'Primary example', era:'1966–1967', generation_id:'GEN-fuzz-face-01', rights:'Cleared',
       caption:'Early Arbiter-era round enclosure specimen.',
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Dallas_Arbiter_Fuzz_Face.jpg',
       page:'https://commons.wikimedia.org/wiki/File:Dallas_Arbiter_Fuzz_Face.jpg', credit:'sploshette · CC BY 2.0',
