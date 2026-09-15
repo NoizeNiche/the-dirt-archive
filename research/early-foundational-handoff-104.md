@@ -1,38 +1,41 @@
 # Early Foundational Handoff 104
 
-## Pass 56: second-pass modern archaeology, collaboration states, and regional/product revision evidence
+## Pass 57: second-pass specimen archaeology, 2025-2026 production states, and cross-brand dirt collaborations
 
 ### Records added
-- REC-655 EarthQuaker Devices Barrows Fuzz Attacker
-- REC-656 Black Arts Toneworks BAT
-- REC-657 ThorpyFx Judge Dredd Lawbringer
-- REC-658 ThorpyFx Judge Death Deathbringer
-- REC-659 ThorpyFx Rogue Trooper Fallout Cloud
-- REC-660 Kasleder FX The Toad
-- REC-661 Awestruck Amplification Highland Discrete Overdrive
-- REC-662 Vntage Tone Octagrapher-Fuzz II
-- REC-663 Chase Bliss Audio Brothers AM
-- REC-664 EarthQuaker Devices Barrows Fuzz Attacker chronology clarification
+- REC-665 Silktone Expander
+- REC-666 EarthQuaker Devices Chelsea Low End Fuzz Driver
+- REC-667 EarthQuaker Devices Fuzz Master General Legacy Reissue
+- REC-668 DOPHIX MEDICI MORE FUZZ
+- REC-669 Funny Little Boxes Caught By The Fuzz
+- REC-670 Redbeard Effects Bearded Vulture
+- REC-671 Warm Audio Limited Edition Fluff Drive
+- REC-672 Seward Park Electric Arabica
+- REC-673 DOD / Morley Wah-ocTo-Fuzz
+- REC-674 Third Man Hardware / Beetronics Old Zoo Lion Meat
 
 ### Why this pass matters
-Pass 56 changes the research emphasis from simply adding recent products to documenting how modern dirt pedals mutate across editions, collaborations, packaging identities and later documentary evidence. It also adds or strengthens smaller-builder coverage in Hungary, Michigan and Mexico while continuing the 2025-2026 chronology.
+Pass 57 shifts the archive further from simple model collection toward object-state archaeology. Several entries are not new underlying circuit families at all: they are reissues, artist collaborations, limited editions, or commercial translations of an earlier one-off object. The archive records those distinctions rather than flattening everything into model names.
 
 ### Key identification boundaries
-- Barrows has a September 2025 release anchor and a February 2026 company-authored retrospective. Keep the product chronology record and later clarification record distinct.
-- Black Arts Toneworks lists BAT with a June 3, 2025 archive date. Treat this as the product documentary anchor, not a founding-date claim.
-- ThorpyFx’s 2000 AD collaboration produces three identifiable collaboration states: Lawbringer/Gunshot, Deathbringer/Warthog and Rogue Trooper Fallout Cloud. These are edition-level states over existing models.
-- Kasleder’s 2025 Toad is a numbered 250-unit limited run. The historical Cesar Diaz reference is retained as design context, not licensed-provenance evidence.
-- Awestruck Highland has an August 2025 public documentation anchor and a distinctive external control topology: Gain, Level, Tone plus three-way Clip and Body switches.
-- Vntage Tone’s Octagrapher-Fuzz II is retained as a 2025 revised external state. The evidence supports a revision corridor, not a hard original-launch date.
-- Brothers AM is explicitly a Chase Bliss/Analog Man collaboration and should remain separate from the underlying King of Tone lineage.
+- Silktone Expander is a distinct late-2025 dirt model and should not be merged with Fuzz or Fuzz+.
+- EQD Chelsea is a production recreation of James Murphy's individual 1989-purchased fuzz pedal. Preserve the original specimen as a separate lineage object from the commercial Chelsea.
+- Fuzz Master General Legacy Reissue revives a discontinued EQD model. Treat the 2025 reissue as a revival/edition state, not a new model family.
+- DOPHIX MEDICI MORE FUZZ is a Florence-built two-section fuzz with independently usable FUZZ and MORE FUZZ stages plus blend. Later 2026 limited paint/specimen runs should remain separate.
+- Funny Little Boxes Caught By The Fuzz is a new two-knob UK fuzz with a strong first-public-documentation date but no inferred earlier launch date.
+- Redbeard Effects Bearded Vulture is a collaboration identity. Keep Redbeard, ThorpyFX and Benji Webbe roles distinct instead of converting collaboration language into manufacturer ownership.
+- Warm Audio Limited Edition Fluff Drive is a signature production state. Warm Audio remains the manufacturer while Ryan Fluff Bruce is the artist/signature partner.
+- Seward Park Electric Arabica is a current independent builder/model anchor from Seattle. No builder founding date is inferred from the launch source.
+- DOD / Morley Wah-ocTo-Fuzz combines three legacy effect lineages and therefore functions partly as a scope-boundary record. The Morley fuzz lineage and DOD FX35 lineage remain individually searchable.
+- Third Man Hardware / Beetronics Old Zoo Lion Meat is a 333-unit collaboration edition. Keep Beetronics' tuna-can visual lineage and Third Man's artist/brand role distinct.
 
 ### Evidence rule reinforced
-The archive now deliberately distinguishes four clocks that are easy to collapse: product launch, edition/collaboration release, later retrospective documentation, and underlying design lineage. When a later source clarifies an earlier release, keep the later source searchable without rewriting the original documentary event.
+Review dates, public announcements, reissue listings, and current product pages are documentary anchors. They are not automatically first manufacture, first shipment, or company-foundation dates. Where a source describes an original one-off object being recreated, preserve the original specimen and the commercial reproduction as separate historical states.
 
 ### Next target
-Pass 57 should continue the second-pass audit with a bias toward specimen-level evidence: enclosure changes, artwork/printing variants, serial-number ranges, production labels, control-layout changes, packaging, distributor transitions, manufacturing partners, discontinuations and reissues. Continue filling regional gaps where model-level chronology can be supported, especially Africa, South Asia, Southeast Asia, Latin America and Eastern Europe.
+Pass 58 should continue the second-pass audit with emphasis on regional builders and production-state evidence that can identify physical specimens: enclosure formats, control layouts, artwork revisions, serial/date conventions, packaging, manufacturing partners, distribution changes, discontinuation/revival events, and first/last production corridors. Priority regions remain South Asia, Southeast Asia, Latin America, Eastern Europe and Africa, alongside overlooked 2010s models that need stronger version boundaries.
 
 ### Site state
-- Public extension: `public/catalog-extensions-139.js`
-- Homepage loader updated through extension 139.
-- Homepage recent cards prioritize Barrows Fuzz Attacker, Brothers AM, Octagrapher-Fuzz II, Highland Discrete Overdrive and The Toad.
+- Public extension: `public/catalog-extensions-140.js`
+- Homepage loader includes extension 140.
+- Homepage recent cards prioritize Old Zoo Lion Meat, Wah-ocTo-Fuzz, Arabica, Limited Edition Fluff Drive and Bearded Vulture.
