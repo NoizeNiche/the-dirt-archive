@@ -1,0 +1,26 @@
+canonical_builder	model	alias_or_variant	category	era_or_corridor	catalog_status	evidence_level	relationship_notes	source_trail
+ProCo	RAT / Bud Box	Box Rat / Bud Box	DISTORTION	1977-1978	INDEXED_PRIMARY_ADJACENT	Early prototype/custom-production lineage; surviving early states should be tracked separately from later retail RAT	JHS timeline; Griffin Effects history
+ProCo	Dual Bud Box		DISTORTION	1977-1978	CANDIDATE	Early prototype/custom lineage; preserve as a development record pending stronger primary corroboration	JHS timeline
+ProCo	The RAT V1-A	Fringe Logo	DISTORTION	1979	INDEXED_SECONDARY	Fine-grained early production state within the RAT family	JHS timeline
+ProCo	The RAT V1-B	Tone Knob / Fringe Logo	DISTORTION	1979	INDEXED_SECONDARY	Fine-grained early production state within the RAT family	JHS timeline
+ProCo	The RAT V1-C	Tone Control / Metal Knob	DISTORTION	1979	INDEXED_SECONDARY	Fine-grained early production state within the RAT family	JHS timeline
+ProCo	The RAT V1-D	Tone Control	DISTORTION	1979-1981	INDEXED_SECONDARY	Early retail-production state; keep distinct from later Big Box revisions	JHS timeline; Griffin Effects chronology
+ProCo	Juggernaut	Original / reissue	DISTORTION	1979-1983?; 2003 reissue	CONFLICTING_DATES	Dating differs across secondary sources; preserve unresolved original-production corridor rather than forcing a single date	JHS timeline; Griffin Effects; Guitar Center 2026
+ProCo	Big Box RAT V2	Big Box Filter	DISTORTION	1981-1983	INDEXED_SECONDARY	Distinct Big Box production state in the early RAT family	JHS timeline; Griffin Effects chronology
+ProCo	RAT / Small Box	White Face / Black Face / No Brackets	DISTORTION	1984-1988	INDEXED_SECONDARY	Several visual/production states; treat as a family corridor rather than one monolithic revision	JHS timeline; Griffin Effects chronology
+ProCo	R2DU		DISTORTION	1984-1988	INDEXED_SECONDARY	Rack/dual-unit RAT-family product; retain separate retail identity from compact RAT	Griffin Effects chronology
+ProCo	RAT 2	LED / flat-top states	DISTORTION	1987/1988-present lineage	VERIFIED_ANCHOR	Long-running retail model with later enclosure and production states; avoid collapsing all later RAT 2 specimens into one state	JHS timeline; Griffin Effects; Guitar Center 2026
+ProCo	Turbo RAT		DISTORTION	1989-present	VERIFIED_ANCHOR	Separate RAT-family retail model	JHS timeline; Griffin Effects; Guitar Center 2026
+ProCo	Vintage Reissue RAT	Big Box Vintage Reissue	DISTORTION	1991-2005	INDEXED_SECONDARY	Distinct reissue period, separate from original Big Box production	JHS timeline; Griffin Effects chronology
+ProCo	BRAT	V6-A / V6-B	DISTORTION	1997-2001	VERIFIED_ANCHOR	Economy-market RAT-family design; preserve the BRAT retail identity	JHS timeline; Griffin Effects
+ProCo	Roadkill		DISTORTION	1997-2001	VERIFIED_ANCHOR	Economy-market sibling/parallel identity to BRAT; historically marketed separately, but related within the same family corridor	JHS timeline; Griffin Effects
+ProCo	Deucetone RAT	Dual RAT	DISTORTION	2002-present lineage	VERIFIED_ANCHOR	Two independent RAT sides in one chassis; distinct retail model	JHS timeline; Guitar Center 2026
+ProCo	25th Silver Anniversary RAT		DISTORTION	2003	INDEXED_SECONDARY	Anniversary edition within the RAT family	JHS timeline; Griffin Effects
+ProCo	You Dirty RAT	V7	DISTORTION	2004-present	VERIFIED_ANCHOR	Separate RAT-family retail model	JHS timeline; Griffin Effects; Guitar Center 2026
+ProCo	SOLO	V8	DISTORTION	2006-present	INDEXED_SECONDARY	Distinct ProCo dirt model with RAT-family lineage; retain separate retail identity	JHS timeline; Griffin Effects
+ProCo	1985 Whiteface RAT Reissue		DISTORTION	2010	INDEXED_PRIMARY_ADJACENT	Modern reissue of the 1985-era White Face visual/product state	JHS timeline; Griffin Effects
+ProCo	FATRAT	V9	DISTORTION	2014-present	VERIFIED_ANCHOR	Separate modern RAT-family model	JHS timeline; Griffin Effects
+ProCo	IKEBE 40th Anniversary Exclusive Colorways	V4-C / V4-D / V4-E	DISTORTION	2015; Japan-only	LIMITED_EDITION	Regional special colorways associated with the 40th-anniversary corridor; preserve as editions rather than separate core models	JHS timeline
+ProCo	Lil’ RAT	V10	DISTORTION	2021-present	VERIFIED_ANCHOR	Compact current RAT-family model	JHS timeline; Guitar Center 2026
+ProCo	PROTO RATZO	Prototype / experimental	DISTORTION	2006	CANDIDATE	Prototype/experimental historical state; not counted as a standard retail production model without further evidence	JHS timeline
+ProCo	ProCo Preamp Prototype		BOUNDARY_RELATIONSHIP	2002-era	CANDIDATE	Historical development record; retain outside the central retail dirt count pending stronger catalog evidence	JHS timeline
