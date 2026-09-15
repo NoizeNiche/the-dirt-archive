@@ -1,0 +1,41 @@
+canonical_entity	retail_or_marketed_name	relationship_type	state	confidence	notes	evidence
+BOSS	OD-1	ORIGINAL_COMPACT_MODEL	VERIFIED	HIGH	BOSS identifies OD-1 as the first compact pedal introduced in 1977.	https://cdn.roland.com/assets/media/pdf/boss_catalog_2011.pdf
+BOSS	DS-1	ORIGINAL_COMPACT_MODEL	VERIFIED	HIGH	BOSS identifies DS-1 as introduced in 1978 and still in production.	https://www.boss.info/us/products/ds-1/
+BOSS	OD-1 40th Anniversary Box Set	REISSUE_STATE	VERIFIED	HIGH	One-time Japan-made reissue in 2017; keep separate from original production.
+https://www.boss.info/us/whats_new/press_releases/2017/BOSS-ANNOUNCES-COMPACT-PEDAL-40th-ANNIVERSARY-BOX/
+BOSS	DS-1-4A	ANNIVERSARY_STATE	VERIFIED	HIGH	2017 limited anniversary edition; distinct retail state of DS-1.
+https://www.boss.info/us/whats_new/press_releases/2017/BOSS-CELEBRATES-40th-ANNIVERSARY-WITH-LIMITED-EDIT/
+BOSS	DS-1-B50A	ANNIVERSARY_STATE	VERIFIED	HIGH	2023 50th-anniversary limited edition; 7,000 units worldwide.
+https://www.roland.com/us/company/press_releases/2023/BOSS-Commences-50th-Anniversary-Celebration/
+Nisshin Onpa / Maxon	OD808	MANUFACTURER_RETAIL_PAIRING	VERIFIED	HIGH	Maxon/Nisshin documentation ties OD808 to the OEM lineage that became Ibanez TS808.
+https://maxonfx.com/pages/about-maxon-guitar-effects-pedals-maxonfx-com
+Nisshin Onpa / Maxon	TS808	OEM_MARKETED_STATE	VERIFIED	HIGH	Ibanez retail identity made from Maxon/Nisshin manufacture; do not count as an unrelated manufacturer.
+https://maxonfx.com/pages/about-maxon-guitar-effects-pedals-maxonfx-com
+Nisshin Onpa / Maxon	TS-9	OEM_MARKETED_STATE	VERIFIED	HIGH	Maxon states responsibility for many Ibanez products through early 2002; TS-9 belongs to this lineage.
+https://maxonfx.com/pages/about-maxon-guitar-effects-pedals-maxonfx-com
+Nisshin Onpa / Maxon	SoundTank series	OEM_MARKETED_STATE	VERIFIED	HIGH	Maxon explicitly states it was responsible for manufacture of the Ibanez SoundTank series up to early 2002; product-specific exceptions still require audit.
+https://maxonfx.com/pages/about-maxon-guitar-effects-pedals-maxonfx-com
+Nisshin Onpa / Maxon	OD808 / TS808	SAME_DESIGN_CROSS_BRAND	VERIFIED	HIGH	Keep Maxon and Ibanez searchable as separate retail identities linked to the same manufacturer/design lineage.
+https://www.premierguitar.com/gear/state-of-the-stomp-maxons-susumu-tamura-interview
+Sola Sound / Colorsound	Tone Bender MkI	CANONICAL_MODEL_STATE	VERIFIED_SECONDARY	HIGH	1965 foundational Tone Bender state; earliest wooden and later metal enclosure states belong under one family.
+https://www.guitarworld.com/features/the-history-of-the-sola-sound-tone-bender
+Sola Sound / Colorsound	Tone Bender Mk1.5	CANONICAL_MODEL_STATE	VERIFIED_SECONDARY	HIGH	Common collector designation for the transitional two-transistor Tone Bender; preserve as historical state, not necessarily period nomenclature.
+https://www.guitarworld.com/features/the-history-of-the-sola-sound-tone-bender
+Sola Sound / Colorsound	Tone Bender Professional MkII	CANONICAL_MODEL_STATE	VERIFIED_SECONDARY	HIGH	1966 Sola Sound model; Sola Sound also supplied related OEM states for Vox, Marshall and Rotosound.
+https://www.fuzzboxes.org/tonebendermkii
+Sola Sound / Colorsound	Vox Tone Bender Professional MkII	OEM_MARKETED_STATE	VERIFIED_SECONDARY	HIGH	Vox-marketed member of the Sola Sound OEM family; keep retail identity distinct from Sola Sound.
+https://www.guitarworld.com/features/the-history-of-the-sola-sound-tone-bender
+Sola Sound / Colorsound	Marshall Supa Fuzz	OEM_MARKETED_STATE	VERIFIED_SECONDARY	HIGH	Marshall-marketed member of the early MkII family; later Marshall-made variants require separate production-state records.
+https://www.guitarworld.com/features/the-history-of-the-sola-sound-tone-bender
+Sola Sound / Colorsound	Rotosound Fuzz Box	OEM_MARKETED_STATE	VERIFIED_SECONDARY	HIGH	Rotosound-marketed Tone Bender family member supplied by Sola Sound.
+https://www.guitarworld.com/features/the-history-of-the-sola-sound-tone-bender
+Sola Sound / Colorsound	Tone Bender MkIII	CANONICAL_MODEL_STATE	VERIFIED_SECONDARY	HIGH	1968 three-control model; closely related marketed states include Vox, Park and Rotosound.
+https://www.guitarworld.com/features/the-history-of-the-sola-sound-tone-bender
+Sola Sound / Colorsound	Tone Bender MkIV / Tone-Bender Fuzz	CANONICAL_MODEL_STATE	VERIFIED_SECONDARY	MEDIUM	Later enclosure/name state; exact transition should remain production-corridor evidence rather than one hard date.
+https://www.guitarworld.com/features/the-history-of-the-sola-sound-tone-bender
+Sola Sound / Colorsound	Supa Tone Bender	COLORSOUND_LINEAGE_STATE	VERIFIED_SECONDARY	HIGH	1973 Colorsound-era model; despite the shared name it is a distinct later design family and should not be merged with MkI/MkII.
+https://www.guitarcenter.com/riffs/gear-tips/amplifiers--effects/history-tone-bender
+Sola Sound / Colorsound	Jumbo Tone Bender	RENAME_SUCCESSOR_STATE	VERIFIED_SECONDARY	HIGH	1975-era Colorsound name for the Supa Tone Bender family; preserve name and retail state separately from the earlier Tone Benders.
+https://www.guitarcenter.com/riffs/gear-tips/amplifiers--effects/history-tone-bender
+Sola Sound / Colorsound	TB-2W Tone Bender	COLLABORATION_REVIVAL	VERIFIED	HIGH	Modern BOSS/Sola Sound collaboration; new generation/retail state, not an original production continuation.
+https://articles.boss.info/history-in-the-making-the-boss-tb-2w-tone-bender/
