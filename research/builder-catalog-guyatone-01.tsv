@@ -1,0 +1,22 @@
+canonical_builder	model	category	product_family	period_anchor	evidence_state	notes	source_refs
+Guyatone	FZ-2000 Fuzz	fuzz	Fuzz	indexed historical catalog	INDEXED	Listed in Effects Database's 26-product Guyatone universe.	https://www.effectsdatabase.com/model/guyatone
+Guyatone	TD-1 Tube Distortion	distortion	Tube / valve distortion	1980s	INDEXED	Historical Guyatone distortion model; later Nady and Westbury relationships should remain separate marketed records.	https://www.effectsdatabase.com/model/guyatone
+Guyatone	TO-2 Tube Overdrive	overdrive	Tube / valve overdrive	2000s	INDEXED	Effects Database documents Guyatone TO-2 and related Nady/Westbury product relationships.	https://www.effectsdatabase.com/model/guyatone/to2
+Guyatone	FR-3000V Tube Drive Reverb	hybrid_boundary	Tube drive / reverb	indexed historical catalog	BOUNDARY	Retain as a dirt-adjacent hybrid but do not inflate the central dirt count.	https://www.effectsdatabase.com/model/guyatone
+Guyatone	PS-030 Fuzz Distortion	fuzz_distortion	PS-03x Pro series	indexed historical catalog	INDEXED	PS-03x family includes a dedicated fuzz/distortion model.	https://www.effectsdatabase.com/model/guyatone/ps03x
+Guyatone	PS-031 X-I Distortion Pro	distortion	PS-03x Pro series	indexed historical catalog	INDEXED	Dedicated distortion model in PS-03x family.	https://www.effectsdatabase.com/model/guyatone/ps03x
+Guyatone	PS-032 Z-II Overdrive Pro	overdrive	PS-03x Pro series	indexed historical catalog	INDEXED	Dedicated overdrive model in PS-03x family.	https://www.effectsdatabase.com/model/guyatone/ps03x
+Guyatone	PS-033 B-III Distortion For Bass	distortion	PS-03x Pro bass series	indexed historical catalog	INDEXED	Bass dirt is retained within scope.	https://www.effectsdatabase.com/model/guyatone/ps03x
+Guyatone	PS-040 X-II Distortion Performer	distortion	PS-03x Pro series	indexed historical catalog	INDEXED	Dedicated distortion model in PS-03x family.	https://www.effectsdatabase.com/model/guyatone/ps03x
+Guyatone	HD-2 Harmonic Distortion	distortion	Micro Effects	indexed historical catalog	INDEXED	Micro Effects distortion model.	https://www.effectsdatabase.com/model/guyatone/micro/hd2
+Guyatone	MM-2 Metal Master	distortion	Micro Effects	indexed historical catalog	INDEXED	Micro Effects high-gain distortion model.	https://www.effectsdatabase.com/model/guyatone/micro
+Guyatone	OD-2 OverDrive	overdrive	Micro Effects	indexed historical catalog	INDEXED	Micro Effects overdrive model.	https://www.effectsdatabase.com/model/guyatone/micro
+Guyatone	OD-2+ Over Drive	overdrive	Micro Effects	indexed historical catalog	INDEXED	Variant of Micro Effects OD-2.	https://www.effectsdatabase.com/model/guyatone/micro
+Guyatone	SD-2 Sustainer D	fuzz_distortion	Micro Effects	indexed historical catalog	INDEXED	Dirt/sustainer boundary; retain pending deeper role review.	https://www.effectsdatabase.com/model/guyatone/micro
+Guyatone	SHR-2 Stevie Salas Distortion	distortion	Micro Effects signature	indexed historical catalog	INDEXED	Signature distortion product.	https://www.effectsdatabase.com/model/guyatone/micro
+Guyatone	TZ-2 The Fuzz	fuzz	Micro Effects	indexed historical catalog	INDEXED	Guyatone Super Fuzz-family listing.	https://www.effectsdatabase.com/model/guyatone/micro/tz2
+Guyatone	TZm5 Torrid Fuzz	fuzz	Mighty Micro	indexed historical catalog	INDEXED	Later Guyatone fuzz model in Mighty Micro family.	https://www.effectsdatabase.com/model/guyatone/mighty/tz
+Guyatone	FS-3 Fuzz	fuzz	FS series	1972-1973	DOCUMENTARY_INDEX	Effects Database dates the model to 1972-1973 and describes it as an early-1970s Japanese fuzz.	https://www.effectsdatabase.com/model/guyatone/fs/3
+Guyatone	FS-2 Buzz Box	fuzz	FS series	indexed historical family	INDEXED	Named in FS-3 lineage as preceding model.	https://www.effectsdatabase.com/model/guyatone/fs/3
+Guyatone	FS-6 Fuzz Sustainer	fuzz	FS series	indexed historical family	INDEXED	Named in FS-3 lineage as successor model.	https://www.effectsdatabase.com/model/guyatone/fs/3
+Guyatone	Zoom Box	evidence_boundary	reissue / utility	modern reissue	BOUNDARY	Listed in Guyatone product universe; not counted as core dirt without product-depth review.	https://www.effectsdatabase.com/model/guyatone
