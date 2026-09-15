@@ -10,8 +10,12 @@
     window.__dirtArchiveResearchCardWrapped=true;
     pedalCard=function(p){
       const html=originalPedalCard(p);
+      if(html.includes('class="research-badge"')) return html;
+      const close='</div></a>';
+      const index=html.lastIndexOf(close);
+      if(index<0) return html;
       const badge=researchBadge(p);
-      return html.replace(/(<div class="pedal-body">[\s\S]*?)(<\/div><\/a>)$/,`$1${badge}$2`);
+      return html.slice(0,index)+badge+html.slice(index);
     };
   }
 
