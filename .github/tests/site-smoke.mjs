@@ -52,6 +52,10 @@ try {
   await expectText(page, 'pedal detail', '#/pedal/Fuzz%20Face', '.detail-title', 'Fuzz Face');
   if (await page.locator('.research-status').count() !== 1) throw new Error('Pedal detail did not render exactly one research status row');
   console.log('PASS  pedal research status');
+  await page.waitForTimeout(150);
+  const lineageCount = await page.locator('#lineage-map').count();
+  if (lineageCount !== 1) throw new Error(`Pedal detail did not render exactly one lineage section (found ${lineageCount})`);
+  console.log('PASS  pedal lineage section');
   await expectText(page, 'about', '#/about', '.detail-title', 'About');
 
   await page.goto(`${base}/#/`, {waitUntil:'networkidle', timeout:30000});
