@@ -1,0 +1,16 @@
+canonical_builder	product_name	dirt_role	catalog_record_state	notes	source_refs
+Human Gear	Animato	SCOPE_BOUNDARY	BOUNDARY	Modulation product retained for builder completeness.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Animato Forte	SCOPE_BOUNDARY	BOUNDARY	Modulation/product variant retained for completeness.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Fine Active A/B	SCOPE_BOUNDARY	BOUNDARY	Utility switcher/buffer context.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Fine DS	DISTORTION	ENUMERATED	Core Human Gear distortion model.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Fine DS Special	DISTORTION	ENUMERATED	Special Fine DS variant; later generation archaeology deferred.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Fine Fat OD	OVERDRIVE	ENUMERATED	Core overdrive model.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Fine OD	OVERDRIVE	ENUMERATED	Core overdrive model.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Fine OD Special	OVERDRIVE	ENUMERATED	Special Fine OD variant.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Fine Para Box	SCOPE_BOUNDARY	BOUNDARY	Utility/parallel-routing product.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Fine Passive A/B	SCOPE_BOUNDARY	BOUNDARY	Utility switcher product.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Moderato	DIRT_OR_HYBRID	ROLE_REVIEW	Indexed Human Gear product retained pending exact product role verification.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Passionatto	DIRT_OR_HYBRID	ROLE_REVIEW	Indexed product retained pending exact category verification.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Tenuto	DIRT_OR_HYBRID	ROLE_REVIEW	Indexed product retained pending exact category verification.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Vivace	DIRT_OR_HYBRID	ROLE_REVIEW	Indexed product retained pending exact category verification.	https://www.effectsdatabase.com/model/humangear
+Human Gear	Vivace Special	DIRT_OR_HYBRID	ROLE_REVIEW	Indexed variant retained pending exact category verification.	https://www.effectsdatabase.com/model/humangear
