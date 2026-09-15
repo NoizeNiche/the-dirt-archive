@@ -4,23 +4,33 @@ Append-only continuation of `research/BREADCRUMB.md` and prior addenda.
 
 ## YARP batch 23 handoff
 
+Completed the first public lineage runtime smoke audit and found one real integration defect.
+
 Committed:
 - `public/lineage.json`
 - `public/catalog-lineage-runtime.js`
 - `public/index.html`
+- `research/public-lineage-runtime-smoke-audit-01.md`
 
-The public lineage layer is now explicitly loaded by the site shell. `public/lineage.json` contains only the 12 source-validated public lineage edges. `public/catalog-lineage-runtime.js` reads that safe data file and renders a lineage/relationships section on matching pedal pages without exposing research-only review fields.
+## Important runtime fix
 
-The runtime is intentionally additive: the existing catalog identity routing and research dossier layers remain intact, and the lineage renderer does not alter builder IDs, pedal IDs, or canonical catalog records.
+Pedal detail routes are ID-based through `catalog-identity-routing.js`, while `public/lineage.json` uses model names. The original lineage runtime compared the route token directly with model names, which could silently suppress valid lineage sections.
+
+The runtime now loads the public catalog, resolves the current pedal by `pedal_id`, and then matches lineage edges against the resolved `model_name`.
+
+## Public boundary remains intact
+
+The browser layer still reads only `public/lineage.json`. Research candidate files and HOLD_FOR_REVIEW edges remain outside the public runtime.
+
+The existing identity-routing layer was not rewritten. The fix is intentionally isolated to lineage runtime resolution.
 
 ## Current queue
 
-1. Smoke-test the public lineage runtime against representative linked records and an unlinked record.
-2. Audit remaining duplicate/alias candidates across additional completed builder ledgers.
-3. Resolve the highest-value SoundTank and Teisco manufacturer exceptions separately from the public layer.
-4. Promote additional lineage only after source-trail validation.
-5. Continue the 1960-2026 builder/product census in parallel.
+1. Perform a deployed/browser smoke test of at least one pedal with a validated lineage edge and one pedal without one.
+2. Continue the duplicate/alias audit across additional completed builder ledgers.
+3. Resolve model-specific SoundTank and Teisco evidence before considering any new public lineage promotion.
+4. Expand the 1960-2026 builder census in parallel with public-layer stabilization.
 
 ## Continuity rule
 
-Append another dated addendum after the next repository write batch.
+Append-only handoff. Add the next dated breadcrumb after repository writes are complete.
