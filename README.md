@@ -18,31 +18,41 @@ The project emphasizes:
 
 ## Current research program
 
-The fuzz section is the first major research program. The repository now contains a structured discovery census covering foundational vintage fuzz, British OEM relationships, Japanese OEM families, modern boutique builders, obscure/defunct vintage builders, and broad modern boutique catalog lineups.
+The archive now follows a strict **builder-first → canonicalize builders → complete each builder's dirt catalog → research individual pedals deeply** order.
 
-**Research priority is now breadth-first:** builders and their product libraries come first. Detailed work on versions, enclosure changes, production periods, identification characteristics and product genealogy follows after the builder/product universe is substantially mapped.
+First, map the widest practical universe of builders, manufacturers, OEM factories, marketed brands, private-label entities, distributors, revival makers, and micro-builders connected to overdrive, distortion, or fuzz from 1966 onward. Second, reconcile duplicate or related builder names so one historical entity does not appear as several unrelated builders. Third, enumerate that canonical builder's full documented dirt catalog. Fourth, return to each cataloged pedal for generation, production-period, edition and specimen research.
 
 Research files live under `/research` and are deliberately kept separate from the public website assets.
 
-Current phases include:
+The governing workflow is documented in `research/BREADCRUMB.md`.
 
-- `fuzz-discovery-phase-1.md` — broad builder/model discovery and research priorities
-- `fuzz-census-phase-2-vintage.md` — foundational vintage and OEM research
-- `fuzz-candidates-phase-2.json` — structured candidate records for eventual archive promotion
-- `fuzz-japanese-oem-phase-1.md` — Japanese fuzz families, OEM relationships and rebrand network
-- `fuzz-boutique-preservation-phase-1.md` — boutique/defunct builder preservation research
-- `fuzz-obscure-vintage-phase-2a.md` — Mosrite, Rosac/Sierra, Guild, Maestro, Schaller OEMs, Elka, Baldwin-Burns, JEN/Vox, Kay, Hohner and related historical branches
-- `catalog-completeness-phase-22.md` — Empress, Guild, DenTone, Montgomery Appliances and Blue Skool Records catalog discovery
-- `catalog-completeness-phase-23.md` — EarthQuaker Devices, Death By Audio, Electronic Audio Experiments, Black Arts Toneworks and Fulltone catalog discovery, plus current-product additions
-- `product-depth-phase-24.md` — focused historical research for major boutique dirt families
-- `product-verification-phase-25.md` — evidence review and promotion rules for the strongest P1 families
-- `catalog-completeness-phase-26.md` — builder-first expansion covering 19 additional builders and 364 dirt-scope discovery records
+## Builder identity rule
 
-The first public verification promotion contains six structured records: Fulltone OCD, Full-Drive 2, EQD Hoof, EQD Hoof Reaper, EAE Longsword and EAE Halberd. Their generation records, source records and selected claim-level evidence are loaded by `public/catalog-verified-25.js`.
+A builder name appearing more than once is not automatically a duplicate error and is not automatically a separate builder. Before creating or retaining a canonical builder record, determine whether the names represent:
 
-Phase 26 resumes broad catalog construction. Its discovery records are intentionally not promoted as historically verified product histories yet. The purpose is to build the map first, then return to individual boxes systematically.
+- the same builder under a renamed company or successor brand
+- a marketed brand versus the physical manufacturer/OEM
+- a distributor/private-label name versus the factory
+- a collaboration or signature partner
+- an acquisition, ownership or licensing transition
+- a revival/reissue manufacturer of an older design
+- genuinely separate entities that merely share a name
+
+When two names are historically related, keep the **canonical builder entity** as the primary navigation identity and store the former/alternate names and the relationship in the builder lineage. The individual pedal page may then explain the historical name change, OEM relationship, collaboration, acquisition, or production transition relevant to that specific pedal.
+
+Do not create separate builder cards merely because a pedal was marketed under a different historical name.
+
+## Research phases
+
+The repository contains dedicated discovery, builder-census, catalog-completeness, historical-verification and early-foundational handoff files. These are working research artifacts, not claims that every pedal has been found.
+
+The builder census is deliberately broader than the public catalog. It includes obscure micro-builders, regional manufacturers, OEM relationships and unresolved brands so they can be reconciled before being promoted into canonical public records.
+
+## Promotion rule
 
 A candidate or discovery record is not automatically a verified public archive record. Promotion requires evidence review, naming/relationship review and, where applicable, production-variation research.
+
+The public archive should answer **which physical and historical state of this model is this?**, while the builder record answers **who actually built, marketed, owned, licensed, or distributed this product at this point in its history?**
 
 ## Editorial boundary
 
@@ -54,7 +64,8 @@ The public website lives in `/public`. Project documentation, research/database-
 
 ## Long-term structure
 
-Builder / designer entity
+Canonical builder entity
+→ former / alternate / OEM / distributor / collaboration relationships
 → family
 → retail model
 → generation
