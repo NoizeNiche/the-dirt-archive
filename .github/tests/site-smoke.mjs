@@ -5,7 +5,7 @@ const failures = [];
 
 async function expectText(page, name, hash, selector, text) {
   await page.goto(`${base}/${hash}`, {waitUntil:'networkidle', timeout:30000});
-  await page.waitForTimeout(250);
+  await page.waitForTimeout(300);
   const node = page.locator(selector).first();
   await node.waitFor({state:'visible', timeout:10000});
   const actual = await node.textContent();
@@ -33,6 +33,8 @@ try {
     if (!response.ok()) missingScripts.push(`${src} (${response.status()})`);
   }
   if (missingScripts.length) throw new Error(`Missing/broken script files: ${missingScripts.join(', ')}`);
+  const cssResponse = await page.request.get(`${base}/catalog-experience.css`);
+  if (!cssResponse.ok()) throw new Error(`catalog-experience.css returned HTTP ${cssResponse.status()}`);
   console.log(`PASS  script references (${scriptSources.length} checked)`);
 
   const dataResponse = await page.request.get(`${base}/data.json`);
@@ -72,11 +74,27 @@ try {
   console.log('PASS  pedal lineage section');
   await expectText(page, 'about', '#/about', '.detail-title', 'About');
 
+  await expectText(page, 'identification desk', '#/identify', '.detail-title', 'Identify a pedal');
+  if (await page.locator('.identify-results').count() !== 1) throw new Error('Identification desk did not render a candidate results region');
+  if (await page.locator('.identify-result').count() < 1) throw new Error('Identification desk did not produce any candidate records');
+  console.log('PASS  identification desk');
+
+  await expectText(page, 'photo desk', '#/photos', '.detail-title', 'Build the picture');
+  const photoCards = await page.locator('.photo-card').count();
+  const dirtRecords = data.pedals.filter(p => ['Fuzz','Overdrive','Distortion'].includes(p.primary_category)).length;
+  if (photoCards !== dirtRecords) throw new Error(`Photo desk rendered ${photoCards} records, expected ${dirtRecords}`);
+  const photoReady = await page.locator('.photo-card-status.ready').count();
+  if (photoReady < 1) throw new Error('Photo desk did not recognize any archive-ready visual records');
+  console.log(`PASS  photo desk (${photoCards} dirt records enrolled)`);
+
   await page.goto(`${base}/#/`, {waitUntil:'networkidle', timeout:30000});
   await page.waitForTimeout(250);
   const card = page.locator('.pedal-card').filter({hasText:'Fuzz Face'}).first();
   await card.waitFor({state:'visible', timeout:10000});
   if (await card.locator('.research-badge').count() !== 1) throw new Error('Fuzz Face card did not render exactly one research badge');
+  const thumbnailHeight = await card.locator('.pedal-image').evaluate(el => Math.round(el.getBoundingClientRect().height));
+  if (thumbnailHeight > 120) throw new Error(`Pedal thumbnail is not compact enough (${thumbnailHeight}px)`);
+  console.log(`PASS  compact pedal thumbnail (${thumbnailHeight}px)`);
   console.log('PASS  pedal card research badge');
 
   await page.goto(`${base}/#/builders`, {waitUntil:'networkidle', timeout:30000});
