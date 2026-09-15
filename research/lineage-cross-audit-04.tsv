@@ -1,0 +1,21 @@
+source_entity	target_entity	relationship_type	public_status	confidence	notes	evidence
+Sola Sound	Colorsound	OWNED_MARKETING_LINEAGE	PROMOTE	HIGH	Colorsound is the later Sola Sound branded line; retain both searchable identities.	https://www.effectsdatabase.com/model/colorsound
+Colorsound Power Boost	Colorsound Overdriver	RENAME_SUCCESSOR_LINEAGE	PROMOTE	HIGH	Historical evidence supports the Power Boost to Overdriver naming/production transition; do not treat as unrelated products.	https://www.kitrae.net/music/Music_mp3_Colorsound_Sound.html
+Colorsound Supa Tone Bender	Colorsound Jumbo Tone Bender	FAMILY_SUCCESSOR_OR_RENAMED_STATE	HOLD_FOR_REVIEW	MEDIUM	Some sources describe Jumbo as a renamed/reworked Supa-era product while others preserve distinct model identities; retain both until catalog chronology is stronger.
+https://www.guitarcenter.com/riffs/gear-tips/amplifiers--effects/history-tone-bender ; https://www.effectsdatabase.com/model/colorsound
+Sola Sound Tone Bender MkIV	Tone-Bender Fuzz	RETAIL_NAME_TRANSITION	PROMOTE	HIGH	The early-70s Tone-Bender Fuzz follows the MkIV corridor but remains a separate searchable retail state.
+https://www.premierguitar.com/gear/stompbox-classics-tone-bender-part-2
+Colorsound Supa Tone Bender	Colorsound Bass Fuzz	RELATED_PRODUCT_STATE	HOLD_FOR_REVIEW	MEDIUM	Effects Database links the family, but the archive should not imply simple model revision without dated primary evidence.
+https://www.effectsdatabase.com/model/solasound/tonebender/mk3
+DOD	DigiTech	CORPORATE_SUCCESSOR_LINEAGE	PROMOTE	HIGH	Retain DOD as historical builder/brand entity and DigiTech as successor/current corporate lineage.
+https://digitech.com/history/
+BOSS	Roland	CORPORATE_OWNER_LINEAGE	PROMOTE	HIGH	BOSS remains the public product brand while Roland is the corporate lineage.
+https://www.roland.com/global/categories/effects/
+Maxon	Ibanez	OEM_MARKET_LINEAGE	PROMOTE	HIGH	Maxon/Nisshin Onpa manufacturing and Ibanez retail identity remain distinct.
+https://maxonfx.com/pages/about-maxon-guitar-effects-pedals-maxonfx-com
+Ibanez Soundtank	Maxon	MANUFACTURER_NONINHERITANCE	HOLD_FOR_REVIEW	HIGH	Do not inherit the Maxon OEM relationship from earlier Ibanez 9-series automatically to Soundtank; model-specific evidence required.
+https://aionfx.com/project/soundtank/
+Teisco Fuzz Machine	Shin-Ei	FACTORY_ATTRIBUTION	HOLD_FOR_REVIEW	MEDIUM	OEM evidence remains plausible but not universal across labels; keep factory field unresolved pending period documentation.
+https://www.effectsdatabase.com/model/teisco/fuzzmachine
+JEN Fuzz	Vox V828/V8281	OEM_CONTRACT_LINEAGE	PROMOTE	HIGH	Separate Italian manufacturing from UK Sola Sound Vox-branded Tone Bender variants.
+https://www.effectsdatabase.com/model/jen/diecast/fuzz
