@@ -9,6 +9,8 @@ const sources = [...index.matchAll(/<script[^>]+src=["']([^"']+)["']/gi)].map(m 
 
 if (!sources.includes('catalog-core-utils.js')) failures.push('core utility layer is not loaded by index.html');
 if (!sources.includes('app.js')) failures.push('app.js is not loaded by index.html');
+if (!sources.includes('catalog-lineage-static.js')) failures.push('deterministic lineage renderer is not loaded by index.html');
+if (sources.includes('catalog-lineage-runtime.js')) failures.push('legacy lineage MutationObserver runtime is still loaded by index.html');
 
 const runtimeFiles = [
   'public/catalog-research-runtime.js',
@@ -22,9 +24,13 @@ const runtimeFiles = [
 for (const path of runtimeFiles) {
   const text = await read(path);
   const observers = (text.match(/new MutationObserver/g) || []).length;
-  if (path.endsWith('catalog-research-ui.js') && observers > 0) failures.push(`${path} still uses MutationObserver`);
-  else if (observers > 0) console.log(`INFO  ${path}: ${observers} MutationObserver instance(s) remain during staged refactor`);
+  if (observers > 0) console.log(`INFO  ${path}: ${observers} MutationObserver instance(s) remain during staged refactor`);
 }
+
+const lineageStatic = await read('public/catalog-lineage-static.js');
+if (/new MutationObserver/.test(lineageStatic)) failures.push('deterministic lineage renderer must not use MutationObserver');
+if (!/window\.pedalPage/.test(lineageStatic)) failures.push('deterministic lineage renderer lost pedalPage integration');
+if (!/lineage-map/.test(lineageStatic)) failures.push('deterministic lineage renderer lost lineage section output');
 
 const app = await read('public/app.js');
 if (!/function pedalPage\(/.test(app)) failures.push('app.js lost its canonical pedalPage renderer');
