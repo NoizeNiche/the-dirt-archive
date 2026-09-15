@@ -84,4 +84,11 @@ The active builder-first phase now includes `research/builder-master-census-01.t
 
 Pass 59 work has begun from the newest census strata, including historical German, British, Italian and Japanese manufacturers plus current micro-builders. Recent examples include Schaller, Blackfield Orchester-Elektronik, Firstman/Hillwood, JEN Elettronica, Selmer (UK), O.C.E. Pedals, Colortone Pedals, Colombo Audio Electronics, Höfner, and several unresolved marketed-brand/OEM nodes. The newest census rows explicitly include reconciliation-only records for O.C.E. Wrench lineage and Colortone naming, confirming that these should not become duplicate builder cards.
 
+### YARP milestone: EFX Custom Effects catalog baseline
+EFX Custom Effects is now the second major builder to receive a dedicated catalog baseline. The canonical builder is the São Paulo, Brazil entity associated with Eugenio Gregorio. Effects Database documents the business as beginning in 2002 and being formalized in 2009, with 72 indexed products. The current official store separately groups 25 products under distortion, overdrive and fuzz: 12 distortion, 7 fuzz and 6 overdrive.
+
+The new `research/builder-catalog-efx-custom-effects-01.tsv` keeps these evidence layers separate. It maps current dirt products, historically indexed dirt products and relevant octave-fuzz hybrids, while preserving ambiguous names such as Double Trouble and Super Driver as unresolved rather than guessing their roles. Historical `Dangerous Drive SS` and current `Dangerous Drive` are linked as a product-line continuity rather than being treated as unrelated builder records. Clean preamp products such as Classic AC and Orange Juice remain explicit scope-boundary records.
+
+This pass does **not** declare EFX lifetime-catalog complete. The current store is a present-day snapshot and the Effects Database page is a historical/index snapshot, so the archive preserves both rather than manufacturing a single synthetic catalog count.
+
 The active rule remains: **canonical builder entity first; historical names and relationships attached to that entity; full dirt catalog second; individual pedal archaeology third.**
