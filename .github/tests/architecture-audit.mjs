@@ -24,7 +24,7 @@ for (const path of runtimeFiles) {
   const text = await read(path);
   const observers = (text.match(/new MutationObserver/g) || []).length;
   if (observers > 0) {
-    if (path.endsWith('catalog-research-ui.js') || path.endsWith('catalog-specimen-ui.js')) failures.push(`${path} still uses MutationObserver`);
+    if (path.endsWith('catalog-research-ui.js') || path.endsWith('catalog-specimen-ui.js') || path.endsWith('catalog-visual-references.js')) failures.push(`${path} still uses MutationObserver`);
     else console.log(`INFO  ${path}: ${observers} MutationObserver instance(s) remain during staged refactor`);
   }
 }
@@ -41,10 +41,16 @@ for (const n of [35,36,37,38,39,40,41,42]) {
   if (/window\.imageFor\s*=/.test(text)) failures.push(`public/catalog-thumbnails-${n}-runtime.js still implements a duplicate imageFor runtime`);
 }
 
+const visualRefs = await read('public/catalog-visual-references.js');
+if (!/__dirtArchiveVisualCardWrapped/.test(visualRefs)) failures.push('visual reference card wrapper is missing');
+if (!/__dirtArchiveVisualPageWrapped/.test(visualRefs)) failures.push('visual reference page wrapper is missing');
+if (/new MutationObserver/.test(visualRefs)) failures.push('visual reference runtime still uses MutationObserver');
+
 const specimenUi = await read('public/catalog-specimen-ui.js');
 if (!/generation-visual-section/.test(specimenUi)) failures.push('generation guide renderer is missing');
 if (!/generation_id/.test(specimenUi)) failures.push('generation guide is not generation-aware');
 if (/specimen-strip/.test(specimenUi)) failures.push('legacy specimen strip presentation is still present');
+if (/new MutationObserver/.test(specimenUi)) failures.push('specimen UI still uses MutationObserver');
 
 const app = await read('public/app.js');
 if (!/function pedalPage\(/.test(app)) failures.push('app.js lost its canonical pedalPage renderer');
