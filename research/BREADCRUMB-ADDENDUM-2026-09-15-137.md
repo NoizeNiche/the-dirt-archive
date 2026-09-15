@@ -1,19 +1,25 @@
 # YARP Breadcrumb 137
 
 ## Focus
-Expand the hard dirt-device qualification gate into the earliest custom-builder layer.
+Continue the hard dirt-device qualification gate, prioritizing obscure early builders and separating commercial manufacturers from documented custom makers.
 
 ## Confirmed
-- Roger Mayer: verified custom dirt maker. Primary/interview and specialist sources document fuzz boxes he designed and made beginning in 1964, plus later Octavia and Page 1 lineage.
-- Orville 'Red' Rhodes: verified custom dirt maker. Rock & Roll Hall of Fame material identifies the Ventures fuzz as built by Rhodes; historical sources document multiple Rhodes fuzz boxes made for musicians.
+- TVM Manchester Ltd / TVM Sound: verified dirt maker via a surviving 1960s-era TVM Fuzz Box. Company identity as an amplifier and PA manufacturer is established; fuzz production date remains unknown.
+- EF-EL / Calderoni Musica: verified dirt maker via the late-1960s Vox by EF-EL Distortion / fuzz and related Italian products. Customer-brand relationships remain separate.
+- Roger Mayer: verified custom dirt maker. Mayer states he designed his first fuzz guitar effects pedal in 1964, with independent historical support for custom fuzz work for session musicians.
+- Orville 'Red' Rhodes: verified custom dirt maker. Historical research documents multiple Rhodes fuzz boxes made for working musicians, including the Ventures/Nokie Edwards connection.
 
-## Held / separated
-- Paul Lucas / Tridents: documented custom one-off fuzz builder for Jeff Beck in 1964, but retained as research-only pending an explicit archive policy for individual one-off makers.
-- Kelly Amplification: still provisional because the 1966 advertisement establishes a Kelly fuzz box but does not establish whether Kelly physically manufactured it or whether it was a Macari/Sola Sound product.
-- Watkins Electric Music: not added as a separate builder because the Rush Pep Box production evidence belongs to the existing WEM entity already in the census.
+## Provisional
+- Paul Lucas / Tridents remains a provisional custom-maker candidate because the surviving evidence establishes a Jeff Beck one-off fuzz build but not yet a broader independent pedal operation.
 
-## Editorial refinement
-The archive now distinguishes conventional commercial dirt makers from verified custom/historical micro-builders. Both may qualify as builders when actual production is documented, but their production scale and catalog type must remain explicit.
+## Rejected
+- Clifford Musical Supplies remains excluded because retail advertising alone does not establish physical manufacture.
+
+## Editorial consequence
+The census now distinguishes conventional historical manufacturers from custom/micro-builders. A custom maker can qualify when actual dirt-device construction is documented, but the archive will not imply a commercial production line where none is established.
+
+## Relationship rule
+OEM, distributor, retailer, designer, marketed badge, successor, licensee and collaboration relationships remain separate from the builder qualification itself. A pedal can therefore have a verified physical maker even when its marketed identity or full production relationship remains unresolved.
 
 ## Next queue
-Continue screening early British, American and European micro-builders. Prefer evidence that names the maker or documents workshop construction. Do not let a product label, retailer advertisement, importer relationship or circuit similarity create a builder entry by itself.
+Continue screening obscure 1960s-80s makers, especially regional U.S., British, Italian, German and Japanese names. Promote only after actual dirt-device production is established. Once a builder qualifies, shift attention toward its own product inventory rather than endlessly resolving unrelated OEM family trees.
