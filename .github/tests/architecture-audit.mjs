@@ -11,6 +11,7 @@ if (!sources.includes('catalog-core-utils.js')) failures.push('core utility laye
 if (!sources.includes('app.js')) failures.push('app.js is not loaded by index.html');
 if (!sources.includes('catalog-lineage-static.js')) failures.push('deterministic lineage renderer is not loaded by index.html');
 if (sources.includes('catalog-lineage-runtime.js')) failures.push('legacy lineage MutationObserver runtime is still loaded by index.html');
+if (sources.some(src => /catalog-thumbnails-3[5-9]-runtime\.js|catalog-thumbnails-4[0-2]-runtime\.js/.test(src))) failures.push('retired duplicate media runtime files are still referenced by index.html');
 
 const runtimeFiles = [
   'public/catalog-research-runtime.js',
@@ -36,10 +37,6 @@ if (!/lineage-map/.test(lineageStatic)) failures.push('deterministic lineage ren
 
 const mediaCanonical = await read('public/catalog-thumbnails-33-runtime.js');
 if (!/window\.imageFor\s*=/.test(mediaCanonical)) failures.push('canonical media runtime lost imageFor integration');
-for (const n of [35,36,37,38,39,40,41,42]) {
-  const text = await read(`public/catalog-thumbnails-${n}-runtime.js`);
-  if (/window\.imageFor\s*=/.test(text)) failures.push(`public/catalog-thumbnails-${n}-runtime.js still implements a duplicate imageFor runtime`);
-}
 
 const visualRefs = await read('public/catalog-visual-references.js');
 if (!/__dirtArchiveVisualCardWrapped/.test(visualRefs)) failures.push('visual reference card wrapper is missing');
