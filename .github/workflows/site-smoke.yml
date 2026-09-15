@@ -29,13 +29,16 @@ jobs:
       - name: Install Chromium
         run: npx playwright install --with-deps chromium
 
+      - name: Run static architecture audit
+        run: node .github/tests/architecture-audit.mjs
+
       - name: Start static site
         run: |
           python3 -m http.server 4173 --directory public > /tmp/dirt-archive-server.log 2>&1 &
           echo $! > /tmp/dirt-archive-server.pid
           sleep 2
 
-      - name: Run smoke tests
+      - name: Run browser smoke tests
         run: node .github/tests/site-smoke.mjs
 
       - name: Show server log on failure
