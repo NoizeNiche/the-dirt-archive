@@ -5,15 +5,15 @@
   const builderFor=p=>{const builders=Array.isArray(window.DATA?.builders)?window.DATA.builders:[];return p?builders.find(b=>b.builder_id===p.primary_builder_id):null;};
   const generationRecords=p=>{
     if(!p)return [];
-    const structured=Array.isArray(window.DATA?.generations)?window.DATA.generations.filter(g=>g.pedal_id===p.pedal_id):[];
-    if(structured.length)return structured.map((g,i)=>({id:g.generation_id,name:g.name||g.label||`Generation ${i+1}`,start_year:g.start_year,end_year:g.end_year,summary:g.summary||g.description||''}));
     const researched=Array.isArray(p.archive_research?.generations)?p.archive_research.generations:(window.DIRT_RESEARCH_GENERATIONS?.[p.model_name]||[]);
-    return researched.map((g,i)=>{const years=String(g.years||'');const matches=years.match(/(\d{4})\D*(\d{4})?/);return {id:g.generation_id||`GEN-${String(p.model_name||'pedal').toLowerCase().replace(/[^a-z0-9]+/g,'-')}-${String(i+1).padStart(2,'0')}`,name:g.name||g.label||`Generation ${i+1}`,start_year:g.start_year||(matches?Number(matches[1]):null),end_year:g.end_year||(matches&&matches[2]?Number(matches[2]):null),summary:g.summary||g.notes||g.description||''};});
+    if(researched.length)return researched.map((g,i)=>{const years=String(g.years||'');const matches=years.match(/(\d{4})\D*(\d{4})?/);return {id:g.generation_id||`GEN-${String(p.model_name||'pedal').toLowerCase().replace(/[^a-z0-9]+/g,'-')}-${String(i+1).padStart(2,'0')}`,name:g.name||g.label||`Generation ${i+1}`,start_year:g.start_year||(matches?Number(matches[1]):null),end_year:g.end_year||(matches&&matches[2]?Number(matches[2]):null),summary:g.summary||g.notes||g.description||''};});
+    const structured=Array.isArray(window.DATA?.generations)?window.DATA.generations.filter(g=>g.pedal_id===p.pedal_id):[];
+    return structured.map((g,i)=>({id:g.generation_id,name:g.name||g.label||`Generation ${i+1}`,start_year:g.start_year,end_year:g.end_year,summary:g.summary||g.description||''}));
   };
   const recordsFor=(title,builderName)=>{const list=specs().filter(s=>String(s.title||'').trim()===String(title||'').trim());const tagged=list.filter(s=>s.builder);if(builderName&&tagged.length){const exact=tagged.filter(s=>String(s.builder).trim().toLowerCase()===String(builderName).trim().toLowerCase());if(exact.length)return exact;return list.filter(s=>!s.builder);}return list;};
   const cleared=s=>['cleared','licensed','permission granted','owned','public domain','cc-by','cc-by-sa'].includes(String(s?.rights||s?.rights_status||'reference').trim().toLowerCase())&&s?.public_use_decision!=='pending';
   const imageSearch=(title,g)=>`https://www.google.com/search?tbm=isch&q=${encodeURIComponent(`${title} ${g.name||''} ${g.start_year||''} guitar pedal vintage`)}`;
-  const visual=(s,title,g)=>cleared(s)&&s.src?`<a class="generation-visual-link" href="${esc(s.page||s.src)}" target="_blank" rel="noopener"><img class="generation-visual" src="${esc(s.src)}" alt="${esc(title)} ${esc(g.name)} visual reference" loading="lazy" referrerpolicy="no-referrer"></a>`:`<a class="generation-visual-pending" href="${esc(s?.page||imageSearch(title,g))}" target="_blank" rel="noopener"><span>PHOTO</span><small>${s?'external reference':'find a photo'}</small></a>`;
+  const visual=(s,title,g,fallback)=>cleared(s)&&s.src?`<a class="generation-visual-link" href="${esc(s.page||s.src)}" target="_blank" rel="noopener"><img class="generation-visual" src="${esc(s.src)}" alt="${esc(title)} ${esc(g.name)} visual reference" loading="lazy" referrerpolicy="no-referrer"></a>`:fallback?.src?`<a class="generation-visual-link" href="${esc(fallback.page||fallback.src)}" target="_blank" rel="noopener"><img class="generation-visual" src="${esc(fallback.src)}" alt="${esc(title)} ${esc(g.name)} visual reference" loading="lazy" referrerpolicy="no-referrer"></a>`:`<a class="generation-visual-pending" href="${esc(s?.page||imageSearch(title,g))}" target="_blank" rel="noopener"><span>PHOTO</span><small>${s?'external reference':'find a photo'}</small></a>`;
 
   function debugState(){
     const p=pedalFromHash();
@@ -25,12 +25,16 @@
     const p=pedalFromHash();if(!p)return false;
     const gens=generationRecords(p);const heading=document.querySelector('.detail-title');
     if(!heading||!gens.length)return false;
-    if(document.querySelector('.generation-visual-section'))return true;
+    let section=document.querySelector('.generation-visual-section');
     const b=builderFor(p),records=recordsFor(p.model_name,b?.name),firstByGen=new Map();
     records.forEach(s=>{if(s.generation_id&&!firstByGen.has(s.generation_id))firstByGen.set(s.generation_id,s);});
-    const rows=gens.map((g,i)=>{const s=firstByGen.get(g.id)||records.find(r=>!r.generation_id&&i===0);const years=`${g.start_year||'Date unknown'}${g.end_year?`–${g.end_year}`:''}`;return `<div class="generation-visual-row" data-generation-id="${esc(g.id)}"><div class="generation-visual-slot">${s?visual(s,p.model_name,g):`<a class="generation-visual-pending" href="${esc(imageSearch(p.model_name,g))}" target="_blank" rel="noopener"><span>PHOTO</span><small>find a photo</small></a>`}</div><div class="generation-visual-copy"><div class="generation-visual-years">${esc(years)}</div><h3>${esc(g.name)}</h3><p>${esc(g.summary||'Generation research in progress.')}</p>${s?.caption?`<small>${esc(s.caption)}</small>`:''}</div></div>`;}).join('');
-    const section=document.createElement('section');section.className='generation-visual-section';section.innerHTML=`<div class="section-head"><h2>Generation guide</h2><div class="section-note">Visual identification</div></div><p class="generation-visual-intro">Compare the exterior of your pedal against the production generations below. Images appear only when a specimen record has an appropriate public-use status. Every missing generation has a direct photo-search doorway.</p><div class="generation-visual-list">${rows}</div>`;
-    const sections=Array.from(document.querySelectorAll('.archive-section'));const anchor=sections.find(s=>s.textContent.includes('Production History'));if(anchor)anchor.after(section);else heading.parentElement?.after(section);
+    const fallback=typeof window.imageFor==='function'?window.imageFor(p):null;
+    const rows=gens.map((g,i)=>{const s=firstByGen.get(g.id)||records.find(r=>!r.generation_id&&i===0);const years=`${g.start_year||'Date unknown'}${g.end_year?`–${g.end_year}`:''}`;return `<div class="generation-visual-row" data-generation-id="${esc(g.id)}"><div class="generation-visual-slot">${s?visual(s,p.model_name,g,i===0?fallback:null):i===0&&fallback?visual(null,p.model_name,g,fallback):`<a class="generation-visual-pending" href="${esc(imageSearch(p.model_name,g))}" target="_blank" rel="noopener"><span>PHOTO</span><small>find a photo</small></a>`}</div><div class="generation-visual-copy"><div class="generation-visual-years">${esc(years)}</div><h3>${esc(g.name)}</h3><p>${esc(g.summary||'Generation research in progress.')}</p>${s?.caption?`<small>${esc(s.caption)}</small>`:''}</div></div>`;}).join('');
+    if(!section){
+      section=document.createElement('section');section.className='generation-visual-section';
+      const sections=Array.from(document.querySelectorAll('.archive-section'));const anchor=sections.find(s=>s.textContent.includes('Production History'));if(anchor)anchor.after(section);else heading.parentElement?.after(section);
+    }
+    section.innerHTML=`<div class="section-head"><h2>Generation guide</h2><div class="section-note">Visual identification</div></div><p class="generation-visual-intro">Compare the exterior of your pedal against the production generations below. Images appear only when a specimen record has an appropriate public-use status. Every missing generation has a direct photo-search doorway.</p><div class="generation-visual-list">${rows}</div>`;
     return true;
   }
 
