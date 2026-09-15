@@ -24,7 +24,10 @@ SEHAT Effectors	CANONICAL	Indonesia	2010s-present	12 current fuzz-category produ
 EFX Custom Effects	CANONICAL	Brazil	2000s-present	Current store plus historical indexed dirt	INDEXED_BASELINE_MAPPED	P0	São Paulo builder associated with Eugenio Gregorio; current and historical layers separated.	builder-census-23.tsv; builder-catalog-efx-custom-effects-01.tsv
 Plan-9	CANONICAL	Brazil	2000s-present	19 indexed products, mostly dirt	INDEXED_BASELINE_MAPPED	P0	São Paulo builder; all indexed products enumerated.
 builder-census-23.tsv; builder-catalog-plan-9-01.tsv
-Hudson Electronics UK	CANONICAL	United Kingdom	2000s-present	22 indexed products; broad fuzz/OD	INDEXED_BASELINE_MAPPED	P0	Michael Hudson; dirt catalog enumerated, preamps kept as boundaries.
-builder-census-23.tsv; builder-catalog-hudson-electronics-uk-01.tsv
-Pigdog	CANONICAL	United Kingdom	2000s-present	14+ dirt/custom models	INDEXED_BASELINE_MAPPED	P0	Steve Williams; indexed catalog enumerated.
-builder-census-22.tsv; builder-catalog-pigdog-01.tsv
+Hudson Electronics UK	CANONICAL	United Kingdom	2000s-present	22 indexed products; broad fuzz/OD	INDEXED_BASELINE_MAPPED	P0	Michael Hudson; dirt catalog enumerated, preamps kept as boundaries.	builder-census-23.tsv; builder-catalog-hudson-electronics-uk-01.tsv
+Pigdog	CANONICAL	United Kingdom	2000s-present	14+ dirt/custom models	INDEXED_BASELINE_MAPPED	P0	Steve Williams; indexed catalog enumerated.	builder-census-22.tsv; builder-catalog-pigdog-01.tsv
+Sunn Musical Equipment Co.	CANONICAL	USA	1966-1969	Sunn Buzz prototype; SB-1G Buzz	INDEXED_RELATIONSHIP	P0	American amplifier manufacturer with a documented 1966 prototype phase and 1967 SB-1G commercial product; later catalog presence fades by about 1969.	YARP-2026-09-15-batch-115.md
+TVM Manchester Ltd / TVM Sound	CANONICAL_CANDIDATE	United Kingdom	1960s-1970s	TVM Fuzz Box	INDEXED_RELATIONSHIP	P1	Salford amplifier/PA manufacturer; surviving fuzz box appears distinctly 1960s, but production date and wider catalog remain unresolved.	YARP-2026-09-15-batch-108.md
+McPherson	CANONICAL_CANDIDATE	Australia	1964-1965	Custom Australian fuzz box	PROTOTYPE_ONLY	P0	Ron McPherson is repeatedly credited with building a custom fuzz unit for Lindsay Cook/The Mustangs; no confirmed commercial pedal catalog yet.	YARP-2026-09-15-batch-113.md
+Ideal Fuzz Master OEM family	MARKETED_BRAND_UNRESOLVED	Japan / U.S. import	Late 1960s	Ideal Fuzz Master	FACTORY_UNRESOLVED	P0	Ideal is a marketed/distribution node; wedge fuzz shares strong family evidence with Sekova/related Japanese export products. Exact factory remains unresolved; Nisshin Onpa/Maxon is candidate only.	YARP-2026-09-15-batch-114.md
+East Coast Fuzz OEM family	MARKETED_OEM_CLUSTER	USA	1968 onward	Manny's; Orpheum; Clark; related labels	FACTORY_UNRESOLVED	P0	Multiple marketed states with direct 1968 commercial evidence; likely OEM/house-label family, but common physical manufacturer remains unidentified.	YARP-2026-09-15-batch-116.md
