@@ -1,0 +1,5 @@
+canonical_builder	marketed_model	region	date_preferred	category	identity_status	catalog_status	relationship_notes	evidence
+Electro-Harmonix	Lyle L600 Distortion Sustainer	USA	circa 1973-1974	Distortion/Fuzz	CANONICAL_MANUFACTURER	EVIDENCE_QUALIFIED	OEM product made by Electro-Harmonix for L.D. Heater Music Co.; Lyle is marketed brand.	turn740335search0; turn740335search4; turn740335search6
+L.D. Heater Music Co.	Lyle L600 Distortion Sustainer	USA	circa 1973-1974	Distortion/Fuzz	DISTRIBUTOR_PRIVATE_LABEL	EVIDENCE_QUALIFIED	Portland distributor/private-label customer; do not treat as physical manufacturer.	turn740335search0; turn740335search6
+Targ & Dinner Music Company	Marveltone Distortion Sustainer	USA	mid-1970s	Distortion/Fuzz	DISTRIBUTOR_PRIVATE_LABEL	EVIDENCE_QUALIFIED	Chicago wholesaler/distributor associated with Marveltone; Electro-Harmonix manufactured OEM version.	turn740335search5
+David Wexler & Co.	Wabash Distortion Sustainer	USA	mid-1970s	Distortion/Fuzz	DISTRIBUTOR_PRIVATE_LABEL	EVIDENCE_QUALIFIED	Chicago retailer/distributor private label; Electro-Harmonix manufactured OEM version.	turn740335search0; turn740335search5
