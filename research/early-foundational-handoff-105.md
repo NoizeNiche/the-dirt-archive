@@ -10,7 +10,7 @@ The research program is now explicitly organized as:
 The purpose of this reset is to prevent the public site from accumulating duplicate builder cards when the same historical entity appears under a renamed company, shortened brand name, successor name, OEM identity, distributor badge, collaboration label, or repeated census entry.
 
 ### Identity work established
-A dedicated reconciliation file now lives at `research/builder-identity-reconciliation-01.tsv`.
+Dedicated reconciliation files now live at `research/builder-identity-reconciliation-01.tsv` and `research/builder-identity-reconciliation-02.tsv`.
 
 Known repeated or naming-variant cases include:
 - Spicetone Music Technology
@@ -28,8 +28,10 @@ Known repeated or naming-variant cases include:
 - Vemuram / Vemuram Custom Pedals
 - JEN / JEN Elettronica
 - Selmer naming variants
+- Colortone Pedals / Colortone
+- O.C.E. Pedals / Wrench product lineage
 
-The reconciliation file also records cases that must **not** be merged, such as JAM Pedals vs Jamés Pedals, and collaboration relationships such as ThorpyFx/Redbeard Effects and Third Man Hardware/Beetronics.
+The reconciliation files also record cases that must **not** be merged, such as JAM Pedals vs Jamés Pedals, Martian Sound vs Spaceman Effects, Providence vs Free The Tone, and collaboration relationships such as ThorpyFx/Redbeard Effects and Third Man Hardware/Beetronics.
 
 ### Builder-page rule
 The canonical builder entity becomes the navigation identity. Former names, alternate labels, successor relationships, OEM relationships, distributor labels, ownership changes, collaborations, and manufacturing transitions remain part of the builder lineage and can be surfaced on the relevant pedal pages where they explain that pedal's historical identity.
@@ -44,6 +46,14 @@ For large companies and brands, track explicit enumeration status so the archive
 - dirt catalog partially enumerated
 - dirt catalog substantially enumerated
 - dirt catalog audited
+
+### Builder census expansion in this pass
+`research/builder-census-34.tsv` was expanded with a mix of current and historical identity targets. New current/recent builder rows include Martian Sound, Sunhaus, O.C.E. Pedals, Colortone Pedals, Colombo Audio Electronics, Pecked Audio, and Monochrome. The same file also preserves Schaller, Blackfield Orchester-Elektronik, and the unresolved Kay/Uecks manufacturing node so historical and modern builder work remain in the same census framework.
+
+The census rows list dirt-product evidence as inventory leads only. They are not automatically public pedal records. For example, Colombo Audio Electronics exposes a broad Italian-made catalog covering overdrive, distortion and fuzz, while Colortone documents a 2024 Parasite enclosure retool and a 2026 revision without those facts becoming standalone public model records yet.
+
+### Important workflow implication
+Earlier passes sometimes promoted individual pedal records before the builder's complete catalog was mapped. Those records remain valuable and should not be deleted. During later audit work, they must be attached to the correct canonical builder and checked against the complete builder catalog rather than used as a reason to create another builder entity.
 
 ### Existing deep records
 The existing REC-1 through current reconciliation records remain useful and should not be discarded. They are historical work already performed. During later audit passes, attach them to the correct canonical builder rather than recreating them as duplicate builder identities.
@@ -68,7 +78,9 @@ Pass 59 should continue the builder census itself rather than pedal archaeology.
 Priority gaps remain South Asia, Southeast Asia, Latin America, Eastern Europe, Africa, obscure 1960s-1990s manufacturers, Japanese domestic-market brands, OEM/private-label relationships, and micro-builders from the 2000s-2010s.
 
 ### Site state
-- `research/BREADCRUMB.md` now governs the builder-first → canonicalize → catalog-complete → pedal-depth workflow.
-- `research/builder-identity-reconciliation-01.tsv` is the first dedicated canonical identity map.
+- `research/BREADCRUMB.md` governs the builder-first → canonicalize → catalog-complete → pedal-depth workflow.
+- `research/builder-identity-reconciliation-01.tsv` is the first canonical identity map.
+- `research/builder-identity-reconciliation-02.tsv` extends the map with current builder aliases, successor relationships, and collaboration boundaries.
+- `research/builder-census-34.tsv` expands the builder-first universe without creating new public pedal cards.
 - No new public pedal extension is required for this reset pass.
 - Future public additions should use reconciled builder identities rather than introducing another duplicate builder card.
