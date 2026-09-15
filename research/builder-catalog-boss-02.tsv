@@ -1,0 +1,71 @@
+canonical_builder	model	alias_or_variant	category	era_or_corridor	catalog_status	evidence_level	relationship_notes	source_trail
+BOSS	OD-1 OverDrive		OVERDRIVE	1977-1985	INDEXED_PRIMARY	PRIMARY	First BOSS compact pedal; original production must remain distinct from 2017 40th-anniversary reissue.	https://static.roland.com/assets/media/pdf/BOSS_GuitarEffects_GuideBook_Vol17.pdf ; https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	DS-1 Distortion		DISTORTION	1978-present	INDEXED_PRIMARY	PRIMARY	BOSS states this is the world's leading distortion pedal since 1978; long-running production lineage.	https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/distortion/ ; https://cdn.roland.com/assets/media/pdf/boss_catalog_2008.pdf
+BOSS	OD-2 Turbo OverDrive		OVERDRIVE	1985-1995	INDEXED_PRIMARY	PRIMARY	Official BOSS repair-history table gives 1985-1995 production corridor.	https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	OD-2R Turbo OverDrive		OVERDRIVE	1994-1999	INDEXED_PRIMARY	PRIMARY	Remote-switching successor/state; keep separate from OD-2 until exact relationship is modeled.	https://www.boss.info/jp/support/service_repair/1708080000/ ; https://www.boss.info/se/promos/40th_anniversary_compact_pedals/
+BOSS	SD-1 SUPER OverDrive		OVERDRIVE	1981-present	INDEXED_PRIMARY	PRIMARY	Core BOSS overdrive lineage; current production continues, with SD-1W as distinct Waza state.	https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/overdrive/ ; https://static.roland.com/assets/media/pdf/BOSS_GuitarEffects_GuideBook_Vol17.pdf
+BOSS	SD-2 DUAL Overdrive		OVERDRIVE	1993-1998	INDEXED_PRIMARY	PRIMARY	Dual-channel overdrive; official 40th-anniversary chronology gives 1993-1998.	https://www.boss.info/se/promos/40th_anniversary_compact_pedals/
+BOSS	DS-2 TURBO Distortion		DISTORTION	1987-present-lineage	INDEXED_PRIMARY	PRIMARY	Two-mode Turbo distortion family; current BOSS listing and historical catalogs retained.	https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/distortion/ ; https://cdn.roland.com/assets/media/pdf/boss_catalog_2008.pdf
+BOSS	HM-2 Heavy Metal		DISTORTION	1983-1992	INDEXED_PRIMARY	PRIMARY	Official repair-history table gives 1983-1992 production corridor; later HM-2W is a distinct Waza recreation.	https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	HM-3 HYPER Metal		DISTORTION	1993-1999	INDEXED_PRIMARY	PRIMARY	Official repair-history table gives 1993-1999 production corridor; distinct from HM-2.	https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	MZ-2 Digital Metalizer		DISTORTION	1987-1992	INDEXED_PRIMARY	PRIMARY	Digital/analog hybrid-era metal pedal; keep as a scope-marked dirt product distinct from analog-only families.	https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	OS-2 OverDrive/Distortion		OVERDRIVE_DISTORTION	1990-present	INDEXED_PRIMARY	PRIMARY	Parallel-style OD/DS blend family; official repair-history table starts production in 1990 and current BOSS catalog continues it.
+https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/overdrive/ ; https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	PW-2 Power Driver		DISTORTION	1996-1998	INDEXED_PRIMARY	PRIMARY	Discontinued compact dirt model; official repair-history table gives 1996-1998 corridor.
+https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	DN-2 Dyna Drive		OVERDRIVE	2007-2011	INDEXED_PRIMARY	PRIMARY	Dynamic/touch-response overdrive; listed in historical BOSS catalogs and repair-history records.
+https://cdn.roland.com/assets/media/pdf/boss_catalog_2008.pdf ; https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	BC-2 Combo Drive		OVERDRIVE	2011-2016	INDEXED_PRIMARY	PRIMARY	AC-style combo-amp overdrive; separate product from OD/SD families.
+https://www.boss.info/in/categories/stompboxes/distortion_overdrive/ ; https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	BD-2 Blues Driver		OVERDRIVE	1995-present	INDEXED_PRIMARY	PRIMARY	BOSS states continuous production since 1995; BD-2W is distinct Waza state.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/overdrive/ ; https://www.boss.info/se/promos/40th_anniversary_compact_pedals/
+BOSS	ODB-3 Bass OverDrive		BASS_OVERDRIVE	1994-present	INDEXED_PRIMARY	PRIMARY	Bass-specific overdrive with blend; official repair-history table gives 1994 start and current catalog continues it.
+https://www.boss.info/jp/support/service_repair/1708080000/ ; https://cdn.roland.com/assets/media/pdf/boss_catalog_2008.pdf
+BOSS	FZ-2 HYPER Fuzz		FUZZ	1993-1997	INDEXED_PRIMARY	PRIMARY	First BOSS compact fuzz; dual Fuzz I/Fuzz II modes plus Gain Boost. Distinct 1993-1997 historical product.
+https://articles.boss.info/what-the-fuzz-the-origins-of-boss-fuzz-pedals/ ; https://www.boss.info/se/promos/40th_anniversary_compact_pedals/
+BOSS	FZ-3 Fuzz		FUZZ	1997-1999	INDEXED_PRIMARY	PRIMARY	Second BOSS compact fuzz; superseded FZ-2 in 1997 and was discontinued in 1999.
+https://articles.boss.info/what-the-fuzz-the-origins-of-boss-fuzz-pedals/ ; https://www.boss.info/se/promos/40th_anniversary_compact_pedals/
+BOSS	FZ-5 Fuzz		FUZZ	2007-present	INDEXED_PRIMARY	PRIMARY	COSM-based compact fuzz; official current catalog and 2008 catalog confirm.
+https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/fuzz/ ; https://cdn.roland.com/assets/media/pdf/boss_catalog_2008.pdf
+BOSS	FZ-1W Fuzz		FUZZ	2021-present	INDEXED_PRIMARY	PRIMARY	Modern Waza Craft analog fuzz; BOSS states it is a new design rather than a direct copy of an older BOSS model.
+https://articles.boss.info/inside-the-boss-fz-1w-fuzz/ ; https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/fuzz/
+BOSS	TB-2W Tone Bender		FUZZ	2021-limited	INDEXED_PRIMARY	PRIMARY	BOSS/Sola Sound collaboration; retain as collaboration/reissue lineage, not as a generic BOSS-original fuzz.
+https://articles.boss.info/inside-the-boss-fz-1w-fuzz/
+BOSS	MT-2 Metal Zone		DISTORTION	1991-present	INDEXED_PRIMARY	PRIMARY	Major long-running high-gain distortion lineage; official repair-history table starts production in 1991.
+https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/distortion/ ; https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	MD-2 Mega Distortion		DISTORTION	2001-present-lineage	INDEXED_PRIMARY	PRIMARY	Dual Distortion/Gain Boost family; current BOSS catalog and historical repair index retain it.
+https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/distortion/ ; https://cdn.roland.com/assets/media/pdf/boss_catalog_2008.pdf
+BOSS	ML-2 Metal Core		DISTORTION	2007-present	INDEXED_PRIMARY	PRIMARY	Compact high-gain distortion; documented in 2008 catalog and current catalog.
+https://cdn.roland.com/assets/media/pdf/boss_catalog_2008.pdf ; https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/distortion/
+BOSS	ST-2 Power Stack		DISTORTION	2010-present-lineage	INDEXED_PRIMARY	PRIMARY	Amp-stack distortion family; current BOSS category includes it.
+https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/distortion/ ; https://cdn.roland.com/assets/media/pdf/boss_catalog_2012.pdf
+BOSS	DA-2 Adaptive Distortion		DISTORTION	2013-2017	INDEXED_SECONDARY	PRIMARY-ADJACENT	MDP-era compact distortion; discontinued but important in BOSS modern dirt genealogy.
+https://www.boss.info/us/search/?q=distortion ; https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	OD-1X OverDrive		OVERDRIVE	2014-present-lineage	INDEXED_PRIMARY	PRIMARY	MDP-era overdrive; distinct from original OD-1.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/overdrive/ ; https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	DS-1X Distortion		DISTORTION	2014-present-lineage	INDEXED_PRIMARY	PRIMARY	MDP-era distortion; distinct from original DS-1.
+https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/distortion/
+BOSS	OD-200 Hybrid Drive		OVERDRIVE_DISTORTION	2019-present	INDEXED_PRIMARY	PRIMARY	Digital/analog hybrid multi-drive unit; include as dirt-relevant but do not confuse with compact analog lineage.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/overdrive/
+BOSS	JB-2 Angry Driver		OVERDRIVE_DISTORTION	2017-present	INDEXED_PRIMARY	PRIMARY	BOSS/JHS collaboration; preserve collaboration relationship and separate from native BOSS models.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/overdrive/
+BOSS	OD-3 OverDrive		OVERDRIVE	1997-present	INDEXED_PRIMARY	PRIMARY	Long-running modern overdrive; official repair-history table gives 1997 start and current BOSS catalog lists it.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/overdrive/ ; https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	SD-1W SUPER OverDrive		OVERDRIVE	2014-present	INDEXED_PRIMARY	PRIMARY	Waza Craft special edition of SD-1; separate edition/specimen family from standard SD-1.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/overdrive/
+BOSS	BD-2W Blues Driver		OVERDRIVE	2014-present	INDEXED_PRIMARY	PRIMARY	Waza Craft special edition of BD-2; preserve as edition relationship.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/overdrive/
+BOSS	DS-1W Distortion		DISTORTION	2022-present	INDEXED_PRIMARY	PRIMARY	Waza Craft special edition of DS-1; keep distinct from standard DS-1.
+https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/distortion/
+BOSS	DS-1 40th Anniversary	Limited reissue	DISTORTION	2017-limited	INDEXED_PRIMARY	PRIMARY	One-time anniversary reissue; serialized packaging; do not merge with 1978 original production.
+https://www.roland.com/us/company/press_releases/2017/BOSS-ANNOUNCES-COMPACT-PEDAL-40th-ANNIVERSARY-BOX/
+BOSS	HM-2W Heavy Metal	Waza Craft recreation	DISTORTION	2021-present	INDEXED_PRIMARY	PRIMARY	Waza Craft recreation of HM-2; separate modern edition/state.
+https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/distortion/ ; https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	MT-2W Metal Zone	Waza Craft edition	DISTORTION	2018-present	INDEXED_PRIMARY	PRIMARY	Waza Craft edition of MT-2; separate edition lineage.
+https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/distortion/ ; https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	FZ-1W Fuzz	Waza Craft	FUZZ	2021-present	INDEXED_PRIMARY	PRIMARY	Modern analog fuzz; not a direct reissue of FZ-1 or FZ-2.
+https://articles.boss.info/inside-the-boss-fz-1w-fuzz/ ; https://www.boss.info/us/categories/effects_pedals/distortion_overdrive_fuzz/fuzz/
+BOSS	SD-2 / OD-2R / OD-2 lineage	Remote/control-family relationship	OVERDRIVE	1990s	RELATIONSHIP_RECORD	PRIMARY-ADJACENT	Historical family relationship requires model-by-model specimen reconciliation; no circuit reconstruction published.
+https://www.boss.info/se/promos/40th_anniversary_compact_pedals/ ; https://www.boss.info/jp/support/service_repair/1708080000/
+BOSS	HM-2 / HM-3 / MZ-2 family	1990s metal-era relationship	DISTORTION	1983-1999	RELATIONSHIP_RECORD	PRIMARY	Separate retail models and production corridors preserved; do not collapse the metal-era family.
+https://www.boss.info/jp/support/service_repair/1708080000/
