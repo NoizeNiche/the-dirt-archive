@@ -2,12 +2,19 @@
   const esc = v => String(v ?? '').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
   const normalize = v => String(v ?? '').trim().toLowerCase().replace(/[–—]/g,'-');
   let lineage = null;
+  let catalog = null;
 
-  const load = () => lineage || fetch('lineage.json').then(r=>r.json()).then(d => (lineage = Array.isArray(d) ? d : []));
-  const currentName = () => {
+  const load = () => Promise.all([
+    lineage || fetch('lineage.json').then(r=>r.json()).then(d => (lineage = Array.isArray(d) ? d : [])),
+    catalog || fetch('data.json').then(r=>r.json()).then(d => (catalog = d || {}))
+  ]);
+
+  const currentPedal = () => {
     const parts = location.hash.replace(/^#\/?/,'').split('/').filter(Boolean);
     if(parts[0] !== 'pedal' || !parts[1]) return null;
-    return decodeURIComponent(parts[1]);
+    const key = decodeURIComponent(parts[1]);
+    return (catalog?.pedals || []).find(p => String(p.pedal_id) === key)
+      || (catalog?.pedals || []).find(p => normalize(p.model_name) === normalize(key));
   };
 
   const matches = (edge, name) => {
@@ -16,8 +23,9 @@
   };
 
   function refresh(){
-    load().then(edges => {
-      const name = currentName();
+    load().then(([edges]) => {
+      const pedal = currentPedal();
+      const name = pedal?.model_name;
       if(!name || document.getElementById('lineage-map')) return;
       const related = edges.filter(e => matches(e,name));
       if(!related.length) return;
