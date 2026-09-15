@@ -1,0 +1,52 @@
+canonical_builder	marketed_name	model_or_product	category	period_anchor	evidence_state	relationship_notes	source_refs
+Roger Mayer Effects	Roger Mayer	Octavia	fuzz / octave	1967-present	INDEXED	Original Roger Mayer Octavia lineage. Early hand-built Hendrix-era units, later U.S. rocket production and subsequent Classic/Vision/Voodoo TC states should be modeled as generations/editions rather than duplicates.	https://www.roger-mayer.co.uk/history.htm; https://www.effectsdatabase.com/model/rogermayer/rocket/octavia
+Roger Mayer Effects	Roger Mayer	Octavio	fuzz / octave	1969-1970s	INDEXED	Single-enclosure octave/fuzz state related to the limited 1969 run. Preserve as a related historical product state.
+https://www.effectsdatabase.com/model/rogermayer
+Roger Mayer Effects	Roger Mayer	Classic Fuzz	fuzz	1980s-present	INDEXED	Rocket-era Fuzz Face-derived Roger Mayer product. Later production remains the same builder identity.
+https://www.roger-mayer.co.uk/guitar_effects.htm; https://www.effectsdatabase.com/model/rogermayer
+Roger Mayer Effects	Roger Mayer	Axis Fuzz	fuzz	1980s-present	INDEXED	Axis lineage developed for Hendrix in 1967-68 and later commercialized in the Rocket series. Future work should distinguish historical hand-built and commercial states.
+https://www.roger-mayer.co.uk/history.htm; https://www.effectsdatabase.com/model/rogermayer
+Roger Mayer Effects	Roger Mayer	Mongoose Fuzz	fuzz	1985-present	INDEXED	Commercial Rocket-series fuzz developed in 1985. Later Mongoose-X is a related evolution, not a second builder.
+https://www.effectsdatabase.com/model/rogermayer/rocket/mongoose
+Roger Mayer Effects	Roger Mayer	Mongoose-X	fuzz	modern	INDEXED	Later evolution of the Mongoose family; retain family relationship for future variant chronology.
+https://www.effectsdatabase.com/model/rogermayer
+Roger Mayer Effects	Roger Mayer	Metal Fuzz	fuzz / distortion	1980s	INDEXED	Early Rocket-series high-gain model documented alongside Axis and Mongoose.
+https://www.vintageguitar.com/3292/roger-mayer/
+Roger Mayer Effects	Roger Mayer	Voodoo-1	fuzz / distortion	1989-present	INDEXED	Post-1989 British-era Voodoo family anchor.
+https://www.electroharmonix.co.jp/rm/history.html; https://www.effectsdatabase.com/model/rogermayer/voodootc
+Roger Mayer Effects	Roger Mayer	Voodoo-Axe	fuzz	2000s-present	INDEXED	Evolution of the Axis concept with added Fatness control; separate retail model within the same builder family.
+https://www.effectsdatabase.com/model/rogermayer/voodoo/axe
+Roger Mayer Effects	Roger Mayer	Voodoo-Bass	fuzz / bass dirt	2000s-present	INDEXED	Bass dirt product; retain within scope.
+https://www.effectsdatabase.com/model/rogermayer/voodootc
+Roger Mayer Effects	Roger Mayer	Voodoo-Blues	overdrive / fuzz	2000s-present	INDEXED	Hybrid gain product in the Voodoo family.
+https://www.effectsdatabase.com/model/rogermayer/voodootc
+Roger Mayer Effects	Roger Mayer	Spitfire-X	fuzz / distortion	modern	INDEXED	Modern high-gain dirt family member.
+https://www.effectsdatabase.com/model/rogermayer
+Roger Mayer Effects	Roger Mayer	Stone-X	fuzz / distortion	modern	INDEXED	Modern dirt product; catalog relationship retained pending deeper product chronology.
+https://www.effectsdatabase.com/model/rogermayer
+Roger Mayer Effects	Roger Mayer	Metalloid	metal distortion	modern	INDEXED	Modern distortion product in the Roger Mayer catalog.
+https://www.effectsdatabase.com/model/rogermayer
+Roger Mayer Effects	Roger Mayer	Vision Octavia	octave fuzz	2000s-present	INDEXED	Later Vision evolution of the Octavia. Model distinction retained; not a duplicate of original Octavia.
+https://www.effectsdatabase.com/model/rogermayer/vision/octavia
+Roger Mayer Effects	Roger Mayer Voodoo TC	Axis / Mongoose / Octavia / Spitfire / Voodoo Bass / Voodoo Boost / Voodoo Vibe / Voodoo-1	family	2010s	FAMILY_NODE	TC-line packaging family containing multiple named dirt models. Treat the TC version as an edition/production family, not a separate builder.
+https://www.effectsdatabase.com/model/rogermayer/voodootc
+Arion	Arion	DMD-1 Digital Metal Distortion	distortion	1980s-1990s	INDEXED	Arion Japanese/Sri Lankan production corridor. Keep digital-era model distinct from later analog dirt products.
+https://www.effectsdatabase.com/model/arion
+Arion	Arion	MDI-1 Tube Mania	distortion	1980s-1990s	INDEXED	Dirt model with documented Monarch-branded relationship. Keep Monarch as marketed/OEM node pending factory reconciliation.
+https://www.effectsdatabase.com/model/arion/mds1
+Arion	Arion	MDI-2 Bass Distortion	distortion / bass	1980s-1990s	INDEXED	Bass dirt model in Arion family.
+https://www.effectsdatabase.com/model/arion
+Arion	Arion	MDS-1 Distortion	distortion	1980s-1990s	INDEXED	Core analog distortion model. Later comparisons should distinguish labels and production corridors.
+https://www.effectsdatabase.com/model/arion/mds1
+Arion	Arion	MMP-1 Metal Plus	distortion	1980s-1990s	INDEXED	High-gain Arion dirt model.
+https://www.effectsdatabase.com/model/arion
+Arion	Arion	MOC-1 Octave	fuzz / octave	1980s-1990s	INDEXED	Octave effect retained within dirt scope.
+https://www.effectsdatabase.com/model/arion
+Arion	Arion	MTE-1 Tubulator	overdrive	1980s-1990s	INDEXED	Core Arion overdrive model.
+https://www.effectsdatabase.com/model/arion
+Arion	Arion	SDI-1 Stereo Distortion	distortion	1980s-1990s	INDEXED	Stereo distortion model; Sakura-branded relationship should remain separate pending manufacturer confirmation.
+https://www.effectsdatabase.com/model/arion
+Arion	Arion	SMM-1 Stereo Metal Master	distortion	1980s-1990s	INDEXED	Stereo high-gain dirt model.
+https://www.effectsdatabase.com/model/arion
+Arion	Arion	SOD-1 Stereo Overdrive	overdrive	1980s-1990s	INDEXED	Stereo overdrive with two-output design. Retain as distinct model family.
+https://www.effectsdatabase.com/model/arion/sod1
