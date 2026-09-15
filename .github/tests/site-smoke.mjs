@@ -9,7 +9,7 @@ async function expectText(page, name, hash, selector, text) {
   const node = page.locator(selector).first();
   await node.waitFor({state:'visible', timeout:10000});
   const actual = await node.textContent();
-  if (!actual?.includes(text)) throw new Error(`${name}: expected ${selector} to contain "${text}", got "${actual}"`);
+  if (!actual?.includes(text)) throw new Error(`${name}: expected ${selector} to contain \"${text}\", got \"${actual}\"`);
   console.log(`PASS  ${name}`);
 }
 
@@ -28,7 +28,7 @@ try {
   const indexResponse = await page.request.get(`${base}/index.html`);
   if (!indexResponse.ok()) throw new Error(`index.html returned HTTP ${indexResponse.status()}`);
   const indexHtml = await indexResponse.text();
-  const scriptSources = [...indexHtml.matchAll(/<script[^>]+src=["']([^"']+)["']/gi)].map(m => m[1]);
+  const scriptSources = [...indexHtml.matchAll(/<script[^>]+src=[\"']([^\"']+)[\"']/gi)].map(m => m[1]);
   if (!scriptSources.length) throw new Error('No JavaScript files are referenced by index.html');
   const missingScripts = [];
   for (const src of scriptSources) {
@@ -87,7 +87,7 @@ try {
   const lineageCount = await page.locator('#lineage-map').count();
   if (lineageCount !== 1) throw new Error(`Pedal detail did not render exactly one lineage section (found ${lineageCount})`);
   console.log('PASS  pedal lineage section');
-  await expectText(page, 'about', '#/about', '.detail-title', 'About the archive');
+  await expectText(page, 'about', '#/about', '.detail-title', 'The Dirt Archive');
 
   await expectText(page, 'identification desk', '#/identify', '.detail-title', 'Identify a pedal');
   if (await page.locator('.identify-results').count() !== 1) throw new Error('Identification desk did not render a candidate results region');
