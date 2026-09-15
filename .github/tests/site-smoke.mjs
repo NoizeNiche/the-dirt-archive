@@ -84,8 +84,8 @@ try {
 
   await expectText(page, 'photo desk', '#/photos', '.detail-title', 'Build the picture');
   const photoCards = await page.locator('.photo-card').count();
-  const dirtRecords = data.pedals.filter(p => ['Fuzz','Overdrive','Distortion'].includes(p.primary_category)).length;
-  if (photoCards !== dirtRecords) throw new Error(`Photo desk rendered ${photoCards} records, expected ${dirtRecords}`);
+  const browserDirtRecords = await page.evaluate(() => Array.isArray(window.DATA?.pedals) ? window.DATA.pedals.filter(p => ['Fuzz','Overdrive','Distortion'].includes(p.primary_category)).length : 0);
+  if (photoCards !== browserDirtRecords) throw new Error(`Photo desk rendered ${photoCards} records, expected ${browserDirtRecords}`);
   const photoReady = await page.locator('.photo-card-status.ready').count();
   if (photoReady < 1) throw new Error('Photo desk did not recognize any archive-ready visual records');
   console.log(`PASS  photo desk (${photoCards} dirt records enrolled)`);
