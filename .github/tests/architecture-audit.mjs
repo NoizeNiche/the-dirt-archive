@@ -24,7 +24,7 @@ for (const path of runtimeFiles) {
   const text = await read(path);
   const observers = (text.match(/new MutationObserver/g) || []).length;
   if (observers > 0) {
-    if (path.endsWith('catalog-research-ui.js') || path.endsWith('catalog-specimen-ui.js') || path.endsWith('catalog-visual-references.js')) failures.push(`${path} still uses MutationObserver`);
+    if (path.endsWith('catalog-research-ui.js') || path.endsWith('catalog-specimen-ui.js') || path.endsWith('catalog-visual-references.js') || path.endsWith('catalog-research-runtime.js')) failures.push(`${path} still uses MutationObserver`);
     else console.log(`INFO  ${path}: ${observers} MutationObserver instance(s) remain during staged refactor`);
   }
 }
@@ -51,6 +51,11 @@ if (!/generation-visual-section/.test(specimenUi)) failures.push('generation gui
 if (!/generation_id/.test(specimenUi)) failures.push('generation guide is not generation-aware');
 if (/specimen-strip/.test(specimenUi)) failures.push('legacy specimen strip presentation is still present');
 if (/new MutationObserver/.test(specimenUi)) failures.push('specimen UI still uses MutationObserver');
+
+const researchRuntime = await read('public/catalog-research-runtime.js');
+if (!/window\.pedalPage/.test(researchRuntime)) failures.push('research runtime lost deterministic pedalPage integration');
+if (!/research-dossier/.test(researchRuntime)) failures.push('research runtime lost dossier output');
+if (/new MutationObserver/.test(researchRuntime)) failures.push('research runtime still uses MutationObserver');
 
 const app = await read('public/app.js');
 if (!/function pedalPage\(/.test(app)) failures.push('app.js lost its canonical pedalPage renderer');
