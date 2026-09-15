@@ -91,4 +91,9 @@ The new `research/builder-catalog-efx-custom-effects-01.tsv` keeps these evidenc
 
 This pass does **not** declare EFX lifetime-catalog complete. The current store is a present-day snapshot and the Effects Database page is a historical/index snapshot, so the archive preserves both rather than manufacturing a single synthetic catalog count.
 
+### YARP milestone: uninterrupted P0 catalog batch
+The next builder-first run moved directly through the P0 queue instead of stopping after each builder. Dedicated indexed-catalog baselines were added for **Boot-Leg Hand Made Effects (18), Ovaltone (22), GoosoniqueWorx (10), Shin's Music (27), JAM Pedals (33), Human Gear (15), Leqtique (5), and Plan-9 (19)**. The canonical master ledger and completion queue now record these builders as `INDEXED_BASELINE_MAPPED`.
+
+The catalog files deliberately keep utility products, compressors, buffers, modulation, clean boosts and other non-dirt products as boundary records, while uncertain gain products remain role-review rather than being forced into OD, distortion or fuzz. Product-family continuity and dated first-run evidence are preserved where the source supports them, but individual pedal specimen archaeology remains deferred until the builder universe is substantially mapped.
+
 The active rule remains: **canonical builder entity first; historical names and relationships attached to that entity; full dirt catalog second; individual pedal archaeology third.**
