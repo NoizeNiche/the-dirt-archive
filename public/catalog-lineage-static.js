@@ -13,15 +13,15 @@
   };
 
   function renderForPedal(p) {
-    if (!p) return;
-    const article = document.querySelector('.detail-layout article');
-    if (!article || document.getElementById('lineage-map')) return;
+    if (!p || document.getElementById('lineage-map')) return;
     load().then(edges => {
       const related = edges.filter(e => {
         const name = normalize(p.model_name);
         return normalize(e.source) === name || normalize(e.target) === name;
       });
-      if (!related.length) return;
+      if (!related.length || !document.querySelector('.detail-title')) return;
+      const anchor = document.querySelector('.archive-note') || document.querySelector('.archive-section:last-of-type');
+      if (!anchor?.parentNode) return;
       const rows = related.map(e => {
         const source = normalize(e.source) === normalize(p.model_name);
         const counterpart = source ? e.target : e.source;
@@ -32,7 +32,7 @@
       section.className = 'detail-section';
       section.id = 'lineage-map';
       section.innerHTML = `<h2>Lineage & relationships</h2><p>Validated public lineage links. Marketed identities and physical builders remain separate records.</p><div class="source-list">${rows}</div>`;
-      article.querySelector('.detail-section')?.after(section);
+      anchor.parentNode.insertBefore(section, anchor);
     }).catch(() => {});
   }
 
