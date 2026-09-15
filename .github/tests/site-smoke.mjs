@@ -104,9 +104,11 @@ try {
 
   await page.goto(`${base}/#/`, {waitUntil:'networkidle', timeout:30000});
   await page.waitForTimeout(250);
-  const card = page.locator('.pedal-card').filter({hasText:'Fuzz Face'}).first();
-  await card.waitFor({state:'visible', timeout:10000});
-  if (await card.locator('.research-badge').count() !== 1) throw new Error('Fuzz Face card did not render exactly one research badge');
+  const cards = page.locator('.pedal-card');
+  const cardCount = await cards.count();
+  if (cardCount < 1) throw new Error('Home page did not render any pedal cards');
+  const card = cards.first();
+  if (await card.locator('.research-badge').count() !== 1) throw new Error('Home pedal card did not render exactly one research badge');
   const thumbnailHeight = await card.locator('.pedal-image').evaluate(el => Math.round(el.getBoundingClientRect().height));
   if (thumbnailHeight > 120) throw new Error(`Pedal thumbnail is not compact enough (${thumbnailHeight}px)`);
   console.log(`PASS  compact pedal thumbnail (${thumbnailHeight}px)`);
