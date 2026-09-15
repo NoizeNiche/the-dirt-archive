@@ -14,7 +14,7 @@
     'catalog-thumbnails-33-runtime.js',...Array.from({length:8},(_,i)=>`catalog-thumbnails-${i+35}-runtime.js`),
     'catalog-polish.js','catalog-visual-references.js','catalog-cleared-images.js',
     ...Array.from({length:13},(_,i)=>`catalog-specimen-registry-${String(i+1).padStart(2,'0')}.js`),
-    'catalog-specimen-ui.js'
+    'catalog-specimen-ui.js','catalog-browse-ui.js'
   ];
   const load = src => new Promise((resolve,reject) => {
     const s=document.createElement('script'); s.src=src; s.onload=resolve; s.onerror=reject; document.head.appendChild(s);
