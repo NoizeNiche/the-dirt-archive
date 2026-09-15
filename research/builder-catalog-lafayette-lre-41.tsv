@@ -1,0 +1,4 @@
+builder	retail_model	product_role	era	region	identity_status	catalog_status	relationship_notes	sources
+Lafayette Radio Electronics	Fuzz Sound	fuzz	1970-1971	USA	MARKETED_PRIVATE_LABEL	INDEXED_RELATIONSHIP	Cataloged product; retailer/private-label identity, factory unresolved.	Lafayette 713 catalog; Effects Database
+Lafayette Radio Electronics	Super Fuzz	fuzz	1968-1971+	USA	MARKETED_PRIVATE_LABEL	INDEXED_RELATIONSHIP	Early gray LRE version linked to Honey Baby Crying/Super Fuzz family; later states retained separately.	Tone Machines LRE Super Fuzz research
+Lafayette Radio Electronics	Super Drive	boost/drive	1971+	USA	MARKETED_PRIVATE_LABEL	INDEXED_RELATIONSHIP	LRE catalog product related to Uni-Drive corridor; physical maker not promoted without stronger evidence.	Lafayette 713 catalog; Tone Machines LRE research
