@@ -14,7 +14,6 @@ Cluster Effects	Cluster Effects	Argentina	Multiple distortion/OD families	DISCOV
 Hudson Electronics UK	Hudson Electronics; Michael Hudson	United Kingdom	22 indexed products; extensive fuzz/OD	DISCOVERED	P0	Large UK boutique catalog with model-name continuity and production-era questions.	https://www.effectsdatabase.com/model/hudson
 Pigdog	Pigdog; Steve Williams	United Kingdom	14+ indexed dirt/custom models	DISCOVERED	P0	Long-running small UK builder with custom/mod history and many fuzz-family products.	https://www.effectsdatabase.com/model/pigdog
 GuitarSlinger Effects	GuitarSlinger; Alex Beyrodt	Germany	10 indexed products; multiple OD/distortion	DISCOVERED	P1	Clear 2008-2010 chronology and German production anchor.	https://www.effectsdatabase.com/model/guitarslinger
-Tym Guitars	Tym Guitars	Australia	76 indexed total products; extensive dirt catalog	DUPLICATE_CENSUS_ENTRY	P0	Canonical duplicate check required before catalog enumeration. Keep one builder entity and consolidate all evidence.	https://www.effectsdatabase.com/model/tym
 VL Effects	VL Effects; Vincent Loret	France	8 indexed products; OD/fuzz included	DISCOVERED	P1	Very early French boutique timeline beginning in 1982, useful bridge between vintage and boutique eras.	https://www.effectsdatabase.com/model/vl
 Mazzette	Mazzette; Nico	France	Multiple OD/fuzz products	DISCOVERED	P1	Clear 2007 origin and later company formation; good example of builder-history-first reconciliation.	https://www.effectsdatabase.com/model/mazzette
 ProXON Custom Analog Effects	ProXON	France	Broad fuzz/OD/distortion catalog	DISCOVERED	P1	One builder spans all three dirt categories, making a full catalog pass particularly valuable.	https://www.effectsdatabase.com/model/proxon
@@ -29,18 +28,13 @@ Fulltone	Fulltone	USA	Large 1990s-2020s dirt catalog	CENSUS_ONLY	P0	Major boutiq
 Wampler	Wampler; Brian Wampler	USA	Large OD/distortion/fuzz catalog	CENSUS_ONLY	P0	Large modern builder with original designs, artist collaborations and multiple production eras.	https://www.wamplerpedals.com/
 ZVEX Effects	ZVEX; Zachary Vex	USA	Large fuzz/distortion/drive catalog	CENSUS_ONLY	P0	Many artwork and production variants make canonical builder identity especially important.	https://zvex.com/
 J. Rockett Audio Designs	J. Rockett; JRAD	USA	Large OD/distortion catalog	CENSUS_ONLY	P1	Renamed product lines and designer/brand relationships require builder-level reconciliation.	https://rockettpedals.com/
-Keeley Electronics	Keeley Electronics; Robert Keeley	USA	Large OD/distortion/fuzz plus mods	CENSUS_ONLY	P1	Need clean separation between original Keeley designs, modifications, collaborations and rebrands.	https://robertkeeley.com/
+Keeley Electronics	Keeley Electronics; Robert Keeley	USA	Large OD/distortion/fuzz plus mods	CENSUS_ONLY	P1	Need clean separation between original Keeley designs, modified products, collaborations and rebrands.	https://robertkeeley.com/
 Skreddy Pedals	Skreddy; Marc Ahlfs	USA	Large fuzz/drive catalog	DISCOVERED	P1	Deep boutique catalog with many limited runs, revisions and vintage-family names.	https://skreddypedals.com/
 Death By Audio	Death By Audio; DBA	USA	Large fuzz/distortion/experimental dirt catalog	CENSUS_ONLY	P1	Strong boutique catalog where model family and limited-run identity must be reconciled first.	https://deathbyaudio.com/
 Black Arts Toneworks	Black Arts Toneworks; BAT	USA	Fuzz/distortion-focused catalog	DISCOVERED	P1	Strong fuzz/distortion identity plus repeated census appearances; canonicalization should precede deeper product work.	https://www.blackartstoneworks.com/pedal/
 Frantone Electronics	Frantone Electronics; Fran Blanche	USA	Multiple fuzz/drive products	DISCOVERED	P1	Repeated census entry and historically important 1990s boutique builder; complete catalog remains pending.	https://www.effectsdatabase.com/model/frantone
-Drunk Beaver Pedals	Drunk Beaver; Tomasz Gajewski	Poland	Broad distortion/OD/fuzz catalog	DISCOVERED	P1	Important Polish builder with both original and vintage-informed models; strong regional completion target.
-https://drunk-beaver.rocks/collections/pedals
-Gamechanger Audio	Gamechanger Audio	Latvia	Plasma distortion/drive plus wider effects	DISCOVERED	P1	Major Latvian builder with unconventional distortion architecture and growing catalog.
-https://gamechangeraudio.com/products/
-GFI System	GFI System; Henry Widjaja	Indonesia	Drive plus broad effects catalog	DISCOVERED	P1	Important Indonesian builder whose first-drive lineage should be separated from later non-dirt products.
-https://guitar.com/features/industry-insider-gfi-system-jakarta-indonesia/
-SEHAT Effectors	SEHAT Effectors	Indonesia	Multiple fuzz products	DISCOVERED	P1	Substantial Indonesian fuzz catalog, useful for Southeast Asian builder breadth.
-https://sehateffectors.com/product-category/fuzz/
-Ceriatone Amplification	Ceriatone; Nik Azam	Malaysia	Centura and other dirt products	DISCOVERED	P1	Important Malaysian manufacturer; pedal identity needs separation from larger amplifier business.
-https://ceriatone.com/
+Drunk Beaver Pedals	Drunk Beaver; Tomasz Gajewski	Poland	Broad distortion/OD/fuzz catalog	DISCOVERED	P1	Important Polish builder with both original and vintage-informed models; strong regional completion target.	https://drunk-beaver.rocks/collections/pedals
+Gamechanger Audio	Gamechanger Audio	Latvia	Plasma distortion/drive plus wider effects	DISCOVERED	P1	Major Latvian builder with unconventional distortion architecture and growing catalog.	https://gamechangeraudio.com/products/
+GFI System	GFI System; Henry Widjaja	Indonesia	Drive plus broad effects catalog	DISCOVERED	P1	Important Indonesian builder whose first-drive lineage should be separated from later non-dirt products.	https://guitar.com/features/industry-insider-gfi-system-jakarta-indonesia/
+SEHAT Effectors	SEHAT Effectors	Indonesia	Multiple fuzz products	DISCOVERED	P1	Substantial Indonesian fuzz catalog, useful for Southeast Asian builder breadth.	https://sehateffectors.com/product-category/fuzz/
+Ceriatone Amplification	Ceriatone; Nik Azam	Malaysia	Centura and other dirt products	DISCOVERED	P1	Important Malaysian manufacturer; pedal identity needs separation from larger amplifier business.	https://ceriatone.com/
