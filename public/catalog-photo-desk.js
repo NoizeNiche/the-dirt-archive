@@ -3,10 +3,9 @@
   const dirt = p => window.DIRT_CORE?.inDirt ? window.DIRT_CORE.inDirt(p) : ['Fuzz','Overdrive','Distortion'].includes(p?.primary_category);
   const builderName = p => (window.DATA?.builders || []).find(b=>b.builder_id===p?.primary_builder_id)?.name || 'Builder not established';
   const imageFor = p => typeof window.imageFor === 'function' ? window.imageFor(p) : null;
-  const rightsReady = im => !!im;
   const sourceUrl = title => `https://www.google.com/search?tbm=isch&q=${encodeURIComponent(`${title} guitar pedal vintage`)}`;
   const commonsUrl = title => `https://commons.wikimedia.org/w/index.php?search=${encodeURIComponent(title+' guitar pedal')}&title=Special:MediaSearch&type=image`;
-  const manufacturerUrl = title => `https://www.google.com/search?q=${encodeURIComponent(`site:${title.replace(/[^a-z0-9]+/gi,'')}.com ${title}`)}`;
+  const makerUrl = (title,builder) => `https://www.google.com/search?q=${encodeURIComponent(`"${builder}" "${title}" pedal official`)}`;
   const getMediaRecord = p => window.DIRT_MEDIA?.[p?.model_name] || null;
   const status = (p,im) => {
     const m=getMediaRecord(p);
@@ -14,7 +13,7 @@
     if(m) return String(m.public_use_decision||m.rights_status||'Reference lead').replace(/_/g,' ');
     return 'Photo hunt queued';
   };
-  const statusClass = s => s==='Archive-ready'?'ready':s==='Reference lead'?'reference':'';
+  const statusClass = s => s==='Archive-ready'?'ready':s.toLowerCase().includes('reference')?'reference':'';
   let state={query:'',category:'all',coverage:'all'};
 
   function render(){
@@ -37,8 +36,8 @@
 
   function photoCard(p){
     const im=imageFor(p), s=status(p,im), media=im?`<img src="${esc(im.src)}" alt="${esc(p.model_name)} reference photograph" loading="lazy" referrerpolicy="no-referrer">`:`<div class="no-image"><div><strong>${esc(p.model_name)}</strong><small>Photo hunt in progress</small></div></div>`;
-    const google=sourceUrl(p.model_name), commons=commonsUrl(p.model_name), manufacturer=manufacturerUrl(p.model_name);
-    return `<article class="photo-card"><div class="photo-card-media">${media}</div><h3 class="photo-card-title">${esc(p.model_name)}</h3><div class="photo-card-builder">${esc(builderName(p))}</div><div class="photo-card-status ${statusClass(s)}">${esc(s)}</div><small>${esc(p.primary_category||'Dirt')} · ${esc(p.introduced_year||'Date unknown')}</small><div class="photo-card-actions"><a href="${esc(google)}" target="_blank" rel="noopener">Image search ↗</a><a href="${esc(commons)}" target="_blank" rel="noopener">Commons ↗</a><a href="${esc(manufacturer)}" target="_blank" rel="noopener">Maker/source ↗</a><a href="#/pedal/${encodeURIComponent(p.model_name)}">Open record →</a></div></article>`;
+    const google=sourceUrl(p.model_name), commons=commonsUrl(p.model_name), maker=makerUrl(p.model_name,builderName(p));
+    return `<article class="photo-card"><div class="photo-card-media">${media}</div><h3 class="photo-card-title">${esc(p.model_name)}</h3><div class="photo-card-builder">${esc(builderName(p))}</div><div class="photo-card-status ${statusClass(s)}">${esc(s)}</div><small>${esc(p.primary_category||'Dirt')} · ${esc(p.introduced_year||'Date unknown')}</small><div class="photo-card-actions"><a href="${esc(google)}" target="_blank" rel="noopener">Image search ↗</a><a href="${esc(commons)}" target="_blank" rel="noopener">Commons ↗</a><a href="${esc(maker)}" target="_blank" rel="noopener">Maker/source ↗</a><a href="#/pedal/${encodeURIComponent(p.model_name)}">Open record →</a></div></article>`;
   }
 
   function navLink(){
