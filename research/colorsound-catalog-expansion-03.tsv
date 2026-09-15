@@ -1,0 +1,17 @@
+canonical_builder	product_name	dirt_role	catalog_record_state	period_or_corridor	confidence	notes	evidence
+Sola Sound / Colorsound	Tone Bender Fuzz	FUZZ	HISTORICAL_ANCHOR	1970-1976	HIGH	Distinct retail/name state following MKIV-era production; keep enclosure and circuit generations separate from name alone.	https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
+Sola Sound / Colorsound	Supa Tone Bender	FUZZ	VERIFIED_SECONDARY	1973-1978	HIGH	Colorsound-branded wide-case fuzz family; preserve as distinct from Jumbo Tone Bender despite close historical relationship.	https://www.kitrae.net/music/History_of_Big_Muff_Clones.html
+Sola Sound / Colorsound	Jumbo Tone Bender	FUZZ	VERIFIED_SECONDARY	1975-1978	HIGH	Separate product state in wide enclosure; simultaneous production with Supa Tone Bender is documented.	https://www.kitrae.net/music/History_of_Big_Muff_Clones.html
+Sola Sound / Colorsound	Wah Fuzz / Wow Fuzz	FUZZ_WAH	VERIFIED_SECONDARY	1970s	MEDIUM	Treat spelling/name variants as aliases until period advertisements establish exact naming by year.	https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
+Sola Sound / Colorsound	Wah + Fuzz + Swell	FUZZ_WAH	HISTORICAL_CATALOG_ANCHOR	1972	HIGH	Period Sola Sound advertisement documents combined Wah/Fuzz/Swell product in the Colorsound range.
+https://www.worldradiohistory.com/UK/Beat-Instrumental/Beat-Instrumental-1972-03-S-OCR.pdf
+Sola Sound / Colorsound	Power Boost	BOOST_OVERDRIVE	HISTORICAL_ANCHOR	1970-1972	HIGH	Original Colorsound 18V product; later 9V states with Power Boost graphics must remain separate production states.
+https://www.kitrae.net/music/Music_mp3_Colorsound_Sound.html
+Sola Sound / Colorsound	Overdriver	OVERDRIVE	HISTORICAL_ANCHOR	1971-1970s	HIGH	9V successor/name state of Power Boost; factory schematic dated 14.6.71 is documented by historical specialist source.
+https://www.kitrae.net/music/Music_mp3_Colorsound_Sound.html
+Sola Sound / Colorsound	Park Fuzz Sound	FUZZ	OEM_REBRAND	1969-1970s	HIGH	Sola Sound OEM/marketed relationship; do not count as independent physical builder.
+https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
+Sola Sound / Colorsound	Carlsbro Fuzz	FUZZ	OEM_REBRAND	1970s	HIGH	Sola Sound OEM/marketed relationship; preserve Carlsbro retail identity.
+https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
+Sola Sound / Colorsound	CSL Super Fuzz	FUZZ	OEM_REBRAND	mid-1970s	HIGH	Charles Summerfield Ltd marketed state tied to Sola Sound Tone Bender Fuzz/MKIV family.
+https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
