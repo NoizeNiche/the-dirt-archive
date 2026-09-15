@@ -2,14 +2,15 @@
 
 Append-only continuation of `research/BREADCRUMB.md` and prior addenda.
 
-## YARP batch 28/29/30 handoff
+## YARP batch 28/29/30/31 handoff
 
-Expanded the OEM/lineage audit into the Japanese vintage fuzz ecosystem, reconciled the strongest family relationships, and then completed a model-exception pass for the FY-6/FY-2 families.
+Expanded the OEM/lineage audit into the Japanese vintage fuzz ecosystem, reconciled the strongest family relationships, completed a model-exception pass for FY-6/FY-2, and added a focused Univox/Honey/Shin-Ei/Maxon reconciliation ledger.
 
 Committed:
 - `research/japanese-oem-lineage-candidates-01.tsv`
 - `research/japanese-oem-family-reconciliation-03.tsv`
 - `research/fy6-fy2-model-exception-audit-01.tsv`
+- `research/univox-honey-shinei-maxon-reconciliation-01.tsv`
 
 ## Historical findings
 
@@ -21,10 +22,14 @@ Committed:
 - Guyatone FS-3 remains HOLD_FOR_REVIEW for direct factory attribution despite its historical relationship to the Honey/Shin-Ei ecosystem.
 - FY-6 and FY-2 are separate model families despite their shared Shin-Ei/OEM ecosystem. Brand variants such as Teisco TF-1, Avora FY-6, Zenta FY-2, J.H. Experience FY-2/FY-6 and Rands FY-6 are retained as distinct marketed states rather than collapsed duplicates.
 - Wattson Classic FY-6 is classified as a modern revival/reissue state, not as vintage Shin-Ei production.
+- Honey Psychedelic Machine and Honey Baby Crying are retained as early states of the Super-Fuzz lineage, with Honey preserved as its own marketed identity.
+- Univox U-1095 Super-Fuzz is treated as a marketed/OEM state within the Shin-Ei Companion FY-6 ecosystem; Unicord remains a distribution/marketing relationship rather than a physical-builder assignment.
+- Companion WF-8 and Mayfair 6-Tr Fuzz Wah are documented as Shin-Ei OEM family members with multiple marketed labels; their marketed identities remain separate records.
+- Maxon remains a separate Japanese manufacturing line. Shared Japanese provenance or the broader Ibanez/Maxon relationship is not being used to infer Maxon manufacture for Shin-Ei Super-Fuzz-family products.
 
 ## Validation posture
 
-The exception audit confirms that family-level similarity, shared OEM production, and successor/revival relationships must remain separate from duplicate identity. No blanket FY-6/FY-2 merge was made.
+The reconciliation confirms that early-family continuity, OEM production, distributor branding, and later revival relationships must remain distinct dimensions. No blanket Univox/Honey/Shin-Ei/Maxon merge was made.
 
 No Japanese OEM relationship was promoted into `public/lineage.json` during this batch.
 
@@ -41,14 +46,13 @@ No schematics, PCB layouts, gutshot libraries, complete BOMs, or cloning instruc
 
 ## Sources used this batch
 
+- https://www.effectsdatabase.com/model/honey/psychedelicmachine
+- https://www.effectsdatabase.com/model/univox/superfuzz
 - https://www.effectsdatabase.com/model/shinei/companion/fy6
-- https://www.effectsdatabase.com/model/jhexperience/fy2
-- https://www.effectsdatabase.com/model/jhexperience/fy6
-- https://www.effectsdatabase.com/model/teisco/tf1
-- https://www.effectsdatabase.com/model/avora/fy6
-- https://www.effectsdatabase.com/model/zenta/fy2
-- https://www.effectsdatabase.com/model/rands/fuzz
-- https://www.effectsdatabase.com/interviews/brands/wattson
+- https://www.effectsdatabase.com/model/companion/fuzzwah/8tr/2
+- https://www.effectsdatabase.com/model/mayfair/fuzzwah/6tr
+- https://www.effectsdatabase.com/model/guyatone/fs/3
+- https://www.effectsdatabase.com/model/teisco/wauwaufuzz
 
 ## Continuity rule
 
