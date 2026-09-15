@@ -1,0 +1,7 @@
+canonical_builder	product_name	dirt_role	catalog_record_state	notes	source_refs
+Höfner	No. 539 Fuzz/Distortion	FUZZ_HYBRID	ENUMERATED	1960s marketed Höfner dirt product documented as built by Schaller; preserve marketed-brand versus physical-manufacturer relationship.	https://www.effectsdatabase.com/model/hofner/fuzz
+Höfner	No. 540 Fuzz Tone	FUZZ	ENUMERATED	Indexed Höfner fuzz-tone product; exact production relationship requires later archival reconciliation.	https://www.effectsdatabase.com/model/hofner
+Höfner	1 Z	FUZZ_HYBRID	ENUMERATED	Z-series wah/fuzz family state; preserve as a distinct product identity pending generation archaeology.	https://www.effectsdatabase.com/model/hofner
+Höfner	2 Z	FUZZ_HYBRID	ENUMERATED	Late-1960s German wah-fuzz, second Z-series state in indexed evidence.	https://www.effectsdatabase.com/model/hofner/2/z
+Höfner	Wha-Wha-Fuzz	FUZZ_HYBRID	ENUMERATED	Marketed Höfner combination unit related to Schaller Wha-Wha-Fuzz lineage; keep relationship explicit.	https://www.effectsdatabase.com/model/schaller/whawhafuzz
+Höfner	Fuzz	FUZZ	SCOPE_BOUNDARY_OR_LATER	2009-era Höfner Fuzz product reproducing the character of the guitar/bass control-panel fuzz; separate from 1960s-70s metal-cased catalog until chronology is reconciled.	https://www.effectsdatabase.com/model/hofner/2009/fuzz
