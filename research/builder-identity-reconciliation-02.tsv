@@ -1,0 +1,27 @@
+canonical_builder	observed_name	relationship	reconciliation_status	action	notes
+Martian Sound	Spaceman Effects	Founder/designer lineage via Zak Martin	SEPARATE_ENTITIES	Link through person/designer history	Martian Sound is a new brand created by Zak Martin; do not merge its current products into the Spaceman builder record.
+O.C.E. Pedals	Wrench Fuzz	Model/generation relation	SAME_BUILDER	Canonical builder stays O.C.E. Pedals	The Wrench began as an early-2021 Hardware Fuzz run and later became Wrench Fuzz; V2 is a product generation, not another builder.
+Colortone Pedals	Colortone	Shortened marketed name	ALIAS	Keep one builder record	Use Colortone Pedals as canonical builder name and Colortone as alias where useful.
+Chase Bliss Audio / Chase Bliss	Chase Bliss	Current shortened brand name	ALIAS	One builder entity	Do not create a separate builder merely because current pages shorten the formal name.
+JEN Elettronica	JEN	Shortened historical name	ALIAS	One manufacturer/OEM entity	Third-party brand badges such as Vox should remain relationship nodes, not duplicate JEN builders.
+Audio Monk / Nina Electronics	Nina Electronics	Predecessor brand	SUCCESSOR_LINEAGE	One builder lineage	Preserve Nina Electronics as a historical alias and explain the name transition on relevant pedal pages.
+Audio Monk / Nina Electronics	Audio Monk	Successor brand	SUCCESSOR_LINEAGE	One builder lineage	Do not count predecessor and successor as separate contemporary builders.
+ColorTone Fx / Pedal Tank	ColorTone Fx	Predecessor brand	SUCCESSOR_LINEAGE	One builder lineage	Retain former name on historical products where useful.
+ColorTone Fx / Pedal Tank	Pedal Tank	Successor brand	SUCCESSOR_LINEAGE	One builder lineage	Do not split catalog ownership solely because the marketed name changed.
+Providence	Free The Tone	Related corporate/brand lineage	SEPARATE_ENTITIES	Keep both entities linked	The relationship should appear in builder lineage and individual pedal histories rather than by merging the names.
+JAM Pedals	Jamés Pedals	Different builders, similar names	SEPARATE_ENTITIES	Keep separate	JAM Pedals is Greek/Athens; Jamés Pedals is a Swedish historical one-person builder.
+DOD / Morley	DOD	Collaboration partner	SEPARATE_ENTITIES	Keep separate	Wah-ocTo-Fuzz is a cross-brand product state, not a merged DOD/Morley company.
+DOD / Morley	Morley	Collaboration partner	SEPARATE_ENTITIES	Keep separate	Morley/Tel-Ray lineage remains its own historical manufacturer node.
+Third Man Hardware / Beetronics	Third Man Hardware	Collaboration/brand partner	SEPARATE_ENTITIES	Keep separate	Old Zoo Lion Meat should remain cross-linked rather than creating a hybrid canonical manufacturer.
+Third Man Hardware / Beetronics	Beetronics FX	Manufacturer/product lineage	SEPARATE_ENTITIES	Keep separate	Beetronics visual and product lineage remains independently searchable.
+EarthQuaker Devices	EarthQuaker Devices	Repeated census appearance	MERGE	One canonical builder	Continue consolidating repeated census rows before adding more pedal records.
+Spicetone Music Technology	Spicetone Music Technology	Repeated census appearance	MERGE	One canonical builder	Consolidate duplicate census rows and enumerate its entire dirt catalog once.
+CopperSound Pedals	CopperSound Pedals	Repeated census appearance	MERGE	One canonical builder	Consolidate duplicate census rows before pedal-level expansion.
+EBS	EBS	Repeated census appearance	MERGE	One canonical builder	Verify exact in-scope bass dirt products once, then reuse the canonical builder.
+Gamechanger Audio	Gamechanger Audio	Repeated census appearance	MERGE	One canonical builder	Preserve Plasma family under the canonical Latvian builder record.
+Frantone Electronics	Frantone Electronics	Repeated census appearance	MERGE	One canonical builder	Consolidate evidence rather than duplicating the builder.
+A3 Stompbox	A3 Stompbox	Repeated census appearance	MERGE	One canonical builder	Retain product attribution once primary evidence improves.
+FengzaiPedals	FengzaiPedals	Repeated census appearance	MERGE	One canonical builder	One Chinese builder node pending fuller catalog confirmation.
+Amuzik	Amuzik	Repeated census appearance	MERGE	One candidate builder node	Keep manufacturer-attribution uncertainty inside the builder record.
+Systech	Systech	Repeated census appearance	MERGE	One historical builder	Attach Overdrive and related products to a single Systech lineage.
+FBT	FBT	Repeated census appearance	MERGE	One canonical builder	Retain Italian manufacturer role and product evidence once.
