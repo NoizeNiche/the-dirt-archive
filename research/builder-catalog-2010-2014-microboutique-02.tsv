@@ -1,0 +1,46 @@
+builder	model_or_family	category	era_or_corridor	catalog_status	evidence_level	relationship_notes	source_trail
+Dwarfcraft Devices	The Great Destroyer	FUZZ_DISTORTION	2008	ENUMERATED	SPECIALIST_INDEX	Early Dwarfcraft dirt anchor; indexed July/August 2008. Keep separate from later Secret Destroyer.	https://www.effectsdatabase.com/model/dwarfcraft/destroyer
+Dwarfcraft Devices	HAX	FUZZ_HYBRID	2009	ENUMERATED	SPECIALIST_INDEX	Fuzz/ring-mod hybrid indexed July 2009.	https://www.effectsdatabase.com/model/dwarfcraft/hax
+Dwarfcraft Devices	Eau Claire Thunder	FUZZ_DISTORTION	2009	ENUMERATED	SPECIALIST_INDEX	Major early fuzz/distortion family; later Baby Thundaa is a distinct smaller state.	https://www.effectsdatabase.com/model/dwarfcraft/eauclairethunder
+Dwarfcraft Devices	Robot Devil	OCTAVE_FUZZ	2009	ENUMERATED	SPECIALIST_INDEX	Octave-fuzz/oscillation model, separate retail identity.	https://www.effectsdatabase.com/model/dwarfcraft/robotdevil
+Dwarfcraft Devices	The Internet	OVERDRIVE	2010	ENUMERATED	SPECIALIST_INDEX	Analog overdrive with footswitchable gain boost, indexed September 2010.	https://www.effectsdatabase.com/model/dwarfcraft/internet
+Dwarfcraft Devices	The Ronald Raygun: We Will All Be Dirt	FUZZ_DISTORTION	2010	ENUMERATED	TIMELINE_ANCHOR	Dwarfcraft timeline identifies 2010 release; preserve as distinct product/edition state.	https://www.effectsdatabase.com/model/dwarfcraft
+Dwarfcraft Devices	Baby Thundaa / Baby Thunder	FUZZ_DISTORTION	2011	ENUMERATED	SPECIALIST_INDEX	Smaller enclosure/state derived from Eau Claire Thunder; 2011 NAMM-era indexed product. Includes a special nine-unit edition.	https://www.effectsdatabase.com/model/dwarfcraft/babythundaa
+Dwarfcraft Devices	The Secret Destroyer	FUZZ_OSCILLATING	2011	ENUMERATED	SPECIALIST_INDEX	FuzzHugger-exclusive deluxe Great Destroyer variant; retain as separate limited retail state.	https://www.effectsdatabase.com/model/dwarfcraft/secretdestroyer
+Smallsound/Bigsound	Team_Awesome Fuzzmachine	FUZZ_HYBRID	2008+	ENUMERATED	SPECIALIST_INDEX	Core early dirt product; indexed October 2008 and designed with bass use and clean blend in mind.	https://www.effectsdatabase.com/model/smallsoundbigsound/teamawesome
+Smallsound/Bigsound	Year 2525	FUZZ_OSCILLATING	2010	ENUMERATED	SPECIALIST_INDEX	Published July 2010; distinctive fuzz/oscillator product.	https://www.effectsdatabase.com/model/smallsoundbigsound/year2525
+Smallsound/Bigsound	Fuck Overdrive	OVERDRIVE	2011	ENUMERATED	SPECIALIST_INDEX	Published February 2011; warm JFET overdrive with gain range into fuzz.	https://www.effectsdatabase.com/model/smallsoundbigsound/fuckoverdrive
+Smallsound/Bigsound	Poly-Grace	FUZZ_HYBRID	2011	ENUMERATED	SPECIALIST_INDEX	Published August 2011; interactive fuzz with selectable output/speaker-driver behavior.	https://www.effectsdatabase.com/model/smallsoundbigsound/polygrace
+Smallsound/Bigsound	Hawk	FUZZ_OVERDRIVE	2012	ENUMERATED	SPECIALIST_INDEX	Published June 2012; overdrive/fuzz hybrid with gated behavior.	https://www.effectsdatabase.com/model/smallsoundbigsound/hawk
+Fuzzrocious Pedals	Grey Stache	FUZZ	2009+	ENUMERATED	TIMELINE_INTERVIEW	Ryan Ratajski developed the Grey Stache after earlier kit/cloning work; preserve original and later Stache states separately.	https://www.effectsdatabase.com/interviews/brands/fuzzrocious ; https://www.effectsdatabase.com/model/fuzzrocious
+Fuzzrocious Pedals	Green Stache	FUZZ	2010s	ENUMERATED	SPECIALIST_INDEX	Separate Fuzzrocious dirt model in indexed catalog.	https://www.effectsdatabase.com/model/fuzzrocious
+Fuzzrocious Pedals	Oh See Demon	OVERDRIVE_DISTORTION	2011	ENUMERATED	SPECIALIST_INDEX	Published July 2011; standard gain model with later modification/edition relationships.	https://www.effectsdatabase.com/model/fuzzrocious/ohseedemon
+Fuzzrocious Pedals	Terrordactyl	FUZZ_DISTORTION	2011	ENUMERATED	CATALOG_UPDATE	Listed in Effects Database September 2011 weekly additions.	https://www.effectsdatabase.com/updates/weekly/20110912
+Fuzzrocious Pedals	Mail Order Muff	FUZZ	2010s	ENUMERATED	SPECIALIST_INDEX	Indexed catalog model; retain separately from Grey/Green Stache families.	https://www.effectsdatabase.com/model/fuzzrocious
+Fuzzrocious Pedals	Ram The Manparts	FUZZ	2010s	ENUMERATED	SPECIALIST_INDEX	Indexed catalog fuzz model.	https://www.effectsdatabase.com/model/fuzzrocious
+Fuzzrocious Pedals	Rat King	DISTORTION	2010s	ENUMERATED	SPECIALIST_INDEX	Indexed catalog distortion model.	https://www.effectsdatabase.com/model/fuzzrocious
+Crazy Tube Circuits	Black Magic	DISTORTION_FUZZ	2009	ENUMERATED	SPECIALIST_INDEX	Published July 2009; early Athens high-gain JFET dirt anchor.	https://www.effectsdatabase.com/model/crazytube/blackmagic
+Crazy Tube Circuits	Pin Up Fuzz	FUZZ	2011	ENUMERATED	SPECIALIST_INDEX	Published November 2011; MOSFET fuzz with octave/ring-mod option.	https://www.effectsdatabase.com/model/crazytube/pinup
+Crazy Tube Circuits	Motherload	FUZZ_DISTORTION	2010s	ENUMERATED	SECONDARY_INDEX	Indexed core dirt family; exact first-sale date requires follow-up.	https://www.effectsdatabase.com/model/crazytube
+Crazy Tube Circuits	Doctor Boogey	DISTORTION	2010s	ENUMERATED	SECONDARY_INDEX	Indexed gain model; preserve from later Space Charged family.	https://www.effectsdatabase.com/model/crazytube
+Crazy Tube Circuits	Heatseeker	OVERDRIVE_DISTORTION	2010s	ENUMERATED	SECONDARY_INDEX	Indexed gain model; exact launch date unresolved.	https://www.effectsdatabase.com/model/crazytube
+FuzzHugger(fx)	Phantom Octave	OCTAVE_FUZZ	2010	ENUMERATED	PRIMARY_TIMELINE	January 2010 index and contemporaneous press release; fully analog octave/fuzz hybrid.	https://www.effectsdatabase.com/model/fuzzhugger/phantomoctave
+FuzzHugger(fx)	Phantom Ring	FUZZ_HYBRID	2010	ENUMERATED	PRIMARY_TIMELINE	April 2010 index; hand-built analog octave/ring-mod product.	https://www.effectsdatabase.com/model/fuzzhugger/phantomring
+FuzzHugger(fx)	Phantom Arcade	FUZZ_HYBRID	2010	ENUMERATED	SPECIALIST_INDEX	Published July 2010; expands Phantom Ring concept with arcade/oscillation mode.	https://www.effectsdatabase.com/model/fuzzhugger/phantomarcade
+FuzzHugger(fx)	AB-Synth Dream	FUZZ_OSCILLATING	2010	ENUMERATED	SPECIALIST_INDEX	Published September 2010; AB-Synth plus independently switchable Phantom Octave section.	https://www.effectsdatabase.com/model/fuzzhugger/absynth/dream
+Monsterpiece Fuzz	Fuzz MkIII	FUZZ	2009	ENUMERATED	SPECIALIST_INDEX	Published October 2009; one-person limited-basis handmade germanium fuzz.	https://www.effectsdatabase.com/model/monsterpiece/mk3
+Monsterpiece Fuzz	Puma Fuzz	FUZZ	2011	ENUMERATED	SPECIALIST_INDEX	Published May 2011; silicon fuzz with switchable Muff-style tone section.	https://www.effectsdatabase.com/model/monsterpiece/pumafuzz
+Monsterpiece Fuzz	Ge Fuzz	FUZZ	2011	ENUMERATED	SPECIALIST_INDEX	Published May 2011; germanium fuzz with Fuzz Face roots but distinct design.	https://www.effectsdatabase.com/model/monsterpiece/gefuzz
+Monsterpiece Fuzz	Fuzz Mk1.5	FUZZ	2012	ENUMERATED	SPECIALIST_INDEX	Published November 2012; separate Mk1.5 retail state.	https://www.effectsdatabase.com/model/monsterpiece/mk15
+Anarchy Audio	Early production line	DISTORTION	2011+	CANONICAL_BASELINE	PRIMARY_COMPANY	Perth builder established in 2011; current company identifies pedals as designed, hand wired and assembled in Western Australia. Early individual launch dates require deeper catalog pass.
+https://anarchyaudioaustralia.com/ ; https://australianguitarreview.com/featured-builder-anarchy-audio/
+Dr. Scientist	Early gain catalog	OVERDRIVE_DISTORTION	2006-2012	INDEXED_BASELINE_MAPPED	PRIMARY_TIMELINE	Company officially opened in August 2006 after seven-pedal initial lineup; early catalog includes The Elements and other dirt products. Ryan Clarke reports all pedals built/tested by him.
+https://www.effectsdatabase.com/interviews/brands/drscientist ; https://www.drscientist.ca/pedals/the-elements/
+Heavy Electronics	Red Eyes	OVERDRIVE	2007-2010	ENUMERATED	PRIMARY_TIMELINE	Company founded July 2007; Red Eyes is an early gritty overdrive documented in 2008 coverage.
+https://www.effectsdatabase.com/model/heavy ; https://www.premierguitar.com/heavy-electronics
+Heavy Electronics	Radio Havana	DISTORTION_LOFI	2007-2012	ENUMERATED	PRIMARY_TIMELINE	Early core product and top-selling model by 2012; lo-fi distortion/noise-oriented dirt product.
+https://www.effectsdatabase.com/interviews/brands/heavy ; https://www.premierguitar.com/heavy-electronics
+Heavy Electronics	El Oso Bass Distortion	DISTORTION_BASS	2011	ENUMERATED	PRIMARY_TIMELINE	Released in 2011 according to builder timeline.
+https://www.effectsdatabase.com/model/heavy
+Black Arts Toneworks	Pharaoh	FUZZ	2010+	ENUMERATED	PRIMARY_ARCHIVE	Early Pharaoh archive posts exist from 2010; January 11, 2011 production batch confirms active production and dealer expansion.
+https://blackartstoneworks.blogspot.com/2010_05_16_archive.html ; https://www.blackartstoneworks.com/news/page/35/
