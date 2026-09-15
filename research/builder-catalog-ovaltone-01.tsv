@@ -10,7 +10,7 @@ Ovaltone	FU?/ZZ? - Fuzz	FUZZ	ENUMERATED	Explicit fuzz model.	https://www.effects
 Ovaltone	GD-013 - Gravitational Drive Zero-Thirteen	OVERDRIVE	ENUMERATED	Drive model retained in dirt catalog.	https://www.effectsdatabase.com/model/ovaltone
 Ovaltone	Gray Ghost - Distortion Blender for Guitar and Bass	DISTORTION_HYBRID	ENUMERATED	Explicit distortion/blender model for guitar and bass.	https://www.effectsdatabase.com/model/ovaltone
 Ovaltone	Lime Comp	SCOPE_BOUNDARY	BOUNDARY	Compressor product, outside dirt count.	https://www.effectsdatabase.com/model/ovaltone
-Ovaltone	MAGS Marsh Additional Gain Stage	BOOST_SCOPE_BOUNDARY	BOUNDARY	Additional gain stage retained as context, not central dirt count.	https://www.effectsdatabase.com/model/ovaltone
+Ovaltone	MAGS Marsh Additional Gain Stage	DIRT_HYBRID	ENUMERATED	Additional gain stage retained as dirt-adjacent context.	https://www.effectsdatabase.com/model/ovaltone
 Ovaltone	Mud River	DIRT_CANDIDATE	ENUMERATED	Dirt/gain model retained pending narrower role verification.	https://www.effectsdatabase.com/model/ovaltone
 Ovaltone	OD-Five 2 Cross	OVERDRIVE	ENUMERATED	Explicit overdrive family model.	https://www.effectsdatabase.com/model/ovaltone
 Ovaltone	OD-Five 2 eXplosion	OVERDRIVE	ENUMERATED	Explicit overdrive family model.	https://www.effectsdatabase.com/model/ovaltone
