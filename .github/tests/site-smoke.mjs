@@ -87,7 +87,7 @@ try {
   const lineageCount = await page.locator('#lineage-map').count();
   if (lineageCount !== 1) throw new Error(`Pedal detail did not render exactly one lineage section (found ${lineageCount})`);
   console.log('PASS  pedal lineage section');
-  await expectText(page, 'about', '#/about', '.detail-title', 'About');
+  await expectText(page, 'about', '#/about', '.detail-title', 'The Dirt Archive');
 
   await expectText(page, 'identification desk', '#/identify', '.detail-title', 'Identify a pedal');
   if (await page.locator('.identify-results').count() !== 1) throw new Error('Identification desk did not render a candidate results region');
