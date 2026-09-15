@@ -1,49 +1,48 @@
-# Early Foundational Handoff 75
+# Early Foundational Handoff 76
 
-## Pass 27: brand-transition and manufacturing-identity evidence
+## Pass 28: remaining early D*A.M. objects and Catalinbread first-generation boundaries
 
-This pass strengthens one of the archive's most useful emerging themes: a pedal's historical identity can change at the builder, brand, and manufacturing level even when the basic model name survives. Eleven reconciliation records were added across Effector 13, Devi Ever FX, Ooh La La Manufacturing, HomeBrew Electronics, and T-Pedals.
+This pass strengthens the archive's ability to distinguish founding objects, limited custom runs, early model states, and later redesigns across D*A.M. and Catalinbread. Ten reconciliation records were added, with an emphasis on documentary publication dates, first-generation control-count boundaries, limited-run evidence, founding-company chronology, and later redesign separation.
 
 ### Newly documented
 
-- **Effector 13 Rocket**: original 2007 release later carried forward as the Devi Ever Rocket.
-- **Devi Ever FX Rocket**: separate branded state linked directly to the earlier Effector 13 release.
-- **Effector 13 Shoe Gazer**: original May 2007 release state.
-- **Devi Ever FX Shoe Gazer**: later branded state preserved separately from the Effector 13 object.
-- **Ooh La La Manufacturing Synth Mangler**: documented 2008 specimen with serial 45 and hand-painted finish.
-- **Ooh La La Manufacturing Truly Beautiful Disaster**: licensed manufacturing state during the two-year Effector 13 transition window.
-- **HomeBrew Electronics UFO**: October 2004 documented octave-fuzz state, an important early HBE dirt anchor.
-- **HomeBrew Electronics Germania**: September 2005 documented booster/preamp state.
-- **HomeBrew Electronics Germania 44**: separate OC44-related variant state, retained apart from standard Germania.
-- **T-Pedals Daytona Fuzz**: early full-time T-Pedals retail state with Italian hand-built identity.
-- **T-Pedals Watt-Drive**: January 2010 documented overdrive/boost state.
+- **D*A.M. Drag’n’Fly**: September 30, 2005 documented hybrid fuzz state from the early D*A.M. corridor.
+- **D*A.M. Fleshhead**: January 22, 2010 documented production state, reinforced by February/March 2010 period demos.
+- **D*A.M. Head Buzz**: 2009 Hoochies custom ten-unit run, split into five germanium and five silicon variants.
+- **Catalinbread Super Chili Picoso**: June 2003 founding commercial object, made after a ToneFactor request.
+- **Catalinbread Super Chili Picoso early family**: 2003-2008 original-era state kept separate from later Legacy Series presentations.
+- **Catalinbread Hyper Pak Dirty Channel V1**: 2007 one-knob state.
+- **Catalinbread Hyper Pak Dirty Channel V2**: later two-knob state, preserved as a separate generation.
+- **Catalinbread SFT**: June 2009 first documented production state, with bass-oriented origins and later guitar use.
+- **Catalinbread Formula N°5**: original pre-Formula No. 55 family, kept separate from the later from-scratch redesign prompted by parts availability.
+- **Catalinbread Dirty Little Secret**: early V1/prototype production layer kept distinct from MkII and later special editions.
 
 ### Key research findings
 
-1. **Brand lineage can be more important than the model name.** Rocket and Shoe Gazer demonstrate that an archive should preserve the original Effector 13 object separately from later Devi Ever-branded states.
-2. **Manufacturing attribution deserves its own layer.** Ooh La La manufactured examples show how a designer, original brand, and manufacturing company can occupy different positions in the lineage.
-3. **Serial numbers can become evidence without becoming production counts.** A documented Synth Mangler serial 45 is useful as specimen evidence but does not justify claiming that 45 units were made.
-4. **The Truly Beautiful Disaster trail preserves a real transition period.** Devi Ever's account places the Ooh La La licensing period at roughly two years, while later low-serial specimens preserve physical evidence of the manufacturing handoff.
-5. **HBE has a stronger early chronology than a simple product list suggests.** The UFO reaches the documentary record in October 2004, followed by Germania in September 2005 and later Germania 44 variants.
-6. **International boutique construction is part of the object identity.** T-Pedals' Daytona and Watt-Drive preserve a distinctly Italian hand-built, point-to-point production identity that should not be flattened into generic model records.
-7. **The archive is now tracking three different kinds of generation change:** branding changes, manufacturing changes, and retail/model revisions. Those states should remain distinct rather than being forced into one version number.
+1. **D*A.M. early production was broader than the famous Tone Bender replicas.** Drag’n’Fly and Fleshhead show the builder moving between hybrid fuzz concepts and later boutique fuzz objects, while Head Buzz captures custom-order work.
+2. **Head Buzz is a model where the run itself is part of the identity.** The Hoochies order is documented as ten pedals split between two clearly defined transistor-family variants, making it a strong limited-run specimen category.
+3. **Catalinbread has a real founding-object anchor.** The company states that the Super Chili Picoso was its first Catalinbread-branded pedal, created after ToneFactor approached the company in June 2003.
+4. **Control count can define a generation.** Hyper Pak Dirty Channel V1 and V2 provide an unusually clean example of a one-knob to two-knob boundary that can be recognized from the exterior.
+5. **Catalinbread's visual history matters as much as model names.** The builder timeline documents the move from decals to Lexan faceplates in 2008 and the shift toward two-color silk-screen graphics in 2010, creating a useful future overlay for specimen dating.
+6. **Original and redesigned products must remain separate.** Formula N°5's later parts-availability redesign became Formula No. 55; the archive should never treat the later redesign as merely a cosmetic edition of the original.
+7. **The Dirty Little Secret family already contained meaningful early states.** The database identifies a V1 prototype/early state alongside MkII and later edition labels, so the model name alone is not enough for specimen identification.
+8. **Publication and founding dates remain distinct evidence classes.** Documentary dates are preserved as anchors rather than promoted automatically to exact first-sale dates.
 
 ### Evidence discipline
 
-- Effects Database entries, builder statements, period forums, contemporary articles, retailer documentation, and individual specimens remain separate evidence classes.
-- Publication dates and weekly index dates remain documentary anchors, not automatic first-sale dates.
-- Ooh La La manufacturing attribution is documented separately from Devi Ever design authorship.
-- Serial numbers, graphics, control layouts, and construction descriptors are used as specimen-facing clues rather than circuit-reconstruction material.
+- Manufacturer chronology, specialist database records, period video evidence, and specimen records remain separate evidence classes.
+- First-run, limited-run, prototype, graphic, and redesign labels remain separate state types.
+- Enclosure graphics, control count, model naming, production-era references, and limited-run size are specimen-facing clues.
 - No schematics, PCB layouts, complete BOMs, gutshot libraries, or cloning instructions are added.
 
 ### Current lineage position
 
-The boutique corridor now has a particularly useful transition map through the mid-to-late 2000s. Effector 13 → Devi Ever → Ooh La La is no longer merely a company-history footnote; it is becoming a specimen-identification problem with distinct labels and manufacturing states. HBE and T-Pedals broaden the geographic picture and reinforce that handmade boutique production was not a single American phenomenon.
+The archive can now trace a useful continuum from Catalinbread's June 2003 founding object through its 2007-2010 production expansion, while D*A.M. now has a significantly denser map of early hybrid, custom, and boutique fuzz objects. The central question is increasingly not only “what model is this?” but “which physical and historical state of this model is this?”
 
-### Pass 27 note
+### Pass 28 note
 
-Extension 127 adds REC-291 through REC-301. Public and research reconciliation-19 indexes contain the batch. The recent-home loader now surfaces Rocket, Shoe Gazer, UFO Ultimate Fuzz Octave, Germania, and Daytona Fuzz.
+Extension 128 adds REC-302 through REC-311. Public and research reconciliation-19 indexes now contain the expanded batch. The recent-home loader now surfaces Drag’n’Fly, Fleshhead, Head Buzz, Hyper Pak Dirty Channel, and SFT.
 
 ### Next target
 
-Continue through the **1998-2010 boutique corridor** with deeper Ooh La La / Effector 13 transition specimens, remaining D*A.M early models, Catalinbread first-edition graphics, MI Audio Tube Zone and Crunch Box later boundaries, HBE Lorba Fuzz and FMJ chronology, T-Pedals T-Fuzz and Nuke/Overboost, and Black Arts early Pharaoh/LSTR/Coven chronology. Keep the dedicated dirt catalog separate from contextual modeling and non-dirt effects.
+Continue the **1998-2010 boutique corridor** with deeper Ooh La La manufacturing specimens, remaining D*A.M. Tone Bender-family and original-design objects, HBE Lorba/FMJ and early production states, T-Pedals T-Fuzz/Nuke/Overboost, MI Audio later Tube Zone and Crunch Box revisions, Catalinbread graphic transition overlays, and Black Arts Toneworks Pharaoh/LSTR/Coven chronology. Maintain the dedicated dirt boundary around boosts, modeling platforms, and non-dirt context.
