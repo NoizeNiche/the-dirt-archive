@@ -64,7 +64,9 @@ try {
   await expectText(page, 'distortion category', '#/category/distortion', '.detail-title', 'Distortion');
   await expectText(page, 'pedal detail', '#/pedal/Fuzz%20Face', '.detail-title', 'Fuzz Face');
   if (await page.locator('.research-status').count() !== 1) throw new Error('Pedal detail did not render exactly one research status row');
-  console.log('PASS  pedal research status');
+  const browserGenerationCount = await page.evaluate(() => Array.isArray(window.DIRT_RESEARCH_GENERATIONS?.['Fuzz Face']) ? window.DIRT_RESEARCH_GENERATIONS['Fuzz Face'].length : 0);
+  if (browserGenerationCount !== 5) throw new Error(`Browser research layer exposed ${browserGenerationCount} Fuzz Face generations, expected 5`);
+  console.log('PASS  browser research generation map');
   if (await page.locator('.generation-visual-section').count() !== 1) throw new Error('Fuzz Face did not render the generation guide');
   if (await page.locator('.generation-visual-row').count() !== 5) throw new Error('Generation guide did not render the five researched Fuzz Face generations');
   if (await page.locator('.generation-visual-row').first().locator('img.generation-visual').count() !== 1) throw new Error('Fuzz Face first generation does not expose its cleared visual reference');
