@@ -1,87 +1,107 @@
 # The Dirt Archive Research Breadcrumb
 
-## Governing research order
+## Governing research protocol
 
-The master research workflow is builder-first, then pedal-complete, then pedal-depth.
+The Dirt Archive now uses two explicit research protocols.
 
-### 1. Builder census comes first
-For the 1960-present scope, identify the widest practical universe of builders, manufacturers, OEM factories, marketed brands, private-label entities, distributors, revival makers, and micro-builders connected to overdrive, distortion, or fuzz.
+**Protocol A = Builder & Catalog Discovery.** Find as many relevant builders and dirt products as practical in a light-to-medium search, document what can be established quickly, and flag builders with multiple dirt products for later individual pedal-page work.
 
-Do not assume a marketed brand is the physical manufacturer. Keep builder, designer, manufacturer, OEM, distributor, licensee, collaboration partner, and revival/reissue entity distinct until evidence supports a relationship.
+**Protocol B = Deep Builder, OEM & Pedal Archaeology.** Resolve manufacturing relationships, rebrands, OEM/private-label history, lineage, chronology, generations, individual-pedal history, and other deep questions after Protocol A has built the map.
 
-Candidate builders remain discovery-only until the evidence supports canonical attribution.
+The default for broad discovery work is Protocol A.
 
-### 2. Complete each builder's dirt catalog before deep pedal archaeology
-Once a builder enters the census, enumerate every documented overdrive, distortion, and fuzz product that can be tied to that builder or to a clearly documented marketed/OEM lineage.
+### Protocol A — Builder & Catalog Discovery
 
-This cataloging stage is breadth-first. Record model names, aliases, families, product relationships, known years/corridors, category, and source trails. Do not stop after finding the builder's famous pedal.
+Protocol A is breadth-first.
 
-For large builders, use a dedicated catalog-completion queue and explicitly track what has been enumerated versus what remains unresolved.
+1. Search broadly across eras and regions for builders, manufacturers, amplifier companies that made dirt pedals, micro-builders, obscure regional makers, marketed brands, and other relevant product entities.
+2. When a builder or marketed brand is found, enumerate as much of its overdrive, distortion, fuzz, bass-dirt, and relevant dirt-hybrid catalog as can be established in the same light-to-medium pass.
+3. Record builder/marketed brand, model, readily apparent alias, broad category, approximate era/date corridor, region, sources, and evidence state.
+4. Do not stop after the famous pedal. Look for the rest of the builder's dirt line.
+5. If the builder appears to have multiple dirt products, flag it for the individual pedal-page queue. Each discovered pedal will eventually need its own archive location and, later, a representative photo plus concise historical information.
+6. Collect a basic photo lead or quick description during Protocol A when convenient, but do not let photo hunting or individual-pedal archaeology derail the breadth search.
+7. Do not spend the breadth run trying to resolve exact OEM factories, rebrand genealogy, ownership history, designer attribution, prototype versus first-sale distinctions, generation chronology, serial systems, or detailed manufacturing lineage. Flag those questions for Protocol B.
+8. Preserve discovery, evidence-qualified, verified, and unresolved states. Thin evidence should be flagged, not silently upgraded or discarded.
 
-### 3. Only after the builder catalog is substantially mapped, research individual pedals deeply
-Return to each cataloged pedal and collect the historical evidence needed to answer which physical and historical state of this model is this?
+Protocol A succeeds when it materially expands the practical builder/product universe and creates a useful queue for later deep research.
 
-Then research, where evidence exists: first public appearance; prototype/beta/first sale/first shipment/first production distinctions; generations and V1/V2/V3/V4 boundaries; production periods; enclosure and finish changes; artwork and silkscreen changes; control-layout changes; serial/date conventions; packaging and labeling; manufacturing/OEM transitions; distributor or ownership transitions; reissues, revivals and limited editions; artist/signature collaborations; documented production quantities; surviving-specimen evidence.
+### Protocol B — Deep Builder, OEM & Pedal Archaeology
 
-### 4. Promote the public site only after evidence review
-The public archive should be populated from the completed builder/product map, with deeper pedal claims added as evidence is checked.
+Protocol B is depth-first and should normally operate on the queue produced by Protocol A.
 
-A discovery record is not automatically a verified public history. Keep candidate, discovery, verified, and unresolved evidence states distinct.
+It may investigate:
 
-### 5. Maintain the archive hierarchy
-Builder / manufacturer entity
-→ designer / OEM / relationship roles
-→ family
-→ retail model
-→ generation
-→ production period
-→ edition
-→ specimen
-→ claims + evidence
+- physical manufacturer versus marketed brand
+- OEM/subcontract manufacturing
+- rebrands and private labels
+- distributor relationships
+- designer relationships
+- ownership and successor companies
+- collaborations and licensing
+- product-family lineage
+- first public appearance
+- prototype/beta/first sale/first shipment/first production distinctions
+- generation boundaries and V1/V2/V3/V4 states
+- production periods
+- enclosure, finish, artwork, silkscreen and control-layout changes
+- serial/date conventions
+- packaging and labeling
+- OEM transitions
+- reissues, revivals and limited editions
+- artist/signature collaborations
+- documented production quantities
+- surviving-specimen evidence
+- competing historical claims and source reconciliation
 
-### 6. YARP behavior
-When asked to YARP, continue the mission without waiting for confirmation.
+Protocol B is where the archive answers deeper questions such as **who actually made this, what changed, and how are these products related?**
 
-Default sequence:
-1. Expand the builder census.
-2. Choose high-priority builders whose dirt catalogs are not yet complete.
-3. Enumerate their full OD/distortion/fuzz catalogs.
-4. Only then deepen individual pedal records from those completed builder catalogs.
-5. Periodically audit earlier builders for omissions before declaring a census corridor complete.
+### Protocol relationship
 
-Continuous-run rule: when the user says YARP or KEEP GOING, do not stop after one builder or pause for builder-by-builder status announcements. Work in batches across multiple chronological and regional strata, update the repository, and report only after the batch is actually complete.
+**Protocol A discovers the map. Protocol B explains the map.**
 
-Do not let interesting individual pedals hijack the queue if their builder's catalog is not yet substantially enumerated.
+Do not let an interesting relationship or individual pedal hijack a Protocol A run. Log the discovery, flag it, and keep moving through the builder/product universe.
 
-### 7. Scope and evidence boundaries
-The archive covers overdrive, distortion, and fuzz, including historically relevant bass dirt and unusual hybrid products when they materially belong to the dirt story.
+Likewise, a builder with multiple products should be flagged for later individual pedal pages rather than receiving a full deep archaeology pass immediately.
 
-Keep non-dirt effects, DSP-only products, racks, preamps, kits, mods, and accessories as separate scope-boundary records when useful, without inflating the central dirt count.
+### Individual pedal-page queue
+
+Protocol A should identify builders with multiple dirt products and flag them for later page population.
+
+Each eventual individual pedal page should be capable of holding:
+
+- pedal name
+- builder / marketed brand
+- category
+- approximate date or era
+- representative photo
+- concise historical description
+- evidence/source trail
+- confidence / unresolved notes
+
+Protocol B can later expand those pages with deeper chronology, manufacturing relationships, lineage, generation history, and specimen evidence.
+
+### Evidence and archive boundaries
+
+A Protocol A record may be discovery, evidence-qualified, verified, or unresolved. Appearance alone is never enough to establish a factory relationship.
+
+The archive covers overdrive, distortion, and fuzz, including historically relevant bass dirt and unusual hybrids. Non-dirt effects, DSP-only products, racks, preamps, kits, mods, and accessories may be retained as boundary records when historically useful without inflating the central dirt count.
 
 Never publish schematics, PCB layouts, complete BOMs, gutshot libraries, cloning instructions, or circuit-reconstruction material.
 
-### Current correction to the research program
-Earlier passes sometimes moved from builder discovery directly into individual pedal archaeology. That is no longer the default workflow. Existing deep pedal records remain valuable and should not be discarded, but future breadth work must prioritize completing the builder universe and each builder's dirt catalog first.
+### Research ledger
+
+The active builder-first ledger is research/builder-master-census-01.tsv. It separates builder identity status from catalog status so a builder can be recognized without being falsely treated as catalog-complete. Relationship notes may exist as queued or preliminary context, but Protocol A does not require resolving them.
+
+The research repository also contains batch notes and builder catalog files generated during the continuing discovery work. Those records should be treated as research evidence until they pass the appropriate evidence review.
 
 ### Current strategic target
-Build the strongest practical builder/product universe for 1960-2026 before treating the individual-pedal layer as complete. Total completeness is not claimed until the builder census, catalog enumeration, duplicate/OEM reconciliation, and unresolved-candidate queues have been systematically audited.
 
-### YARP milestone: canonical builder master ledger
-The active builder-first phase includes research/builder-master-census-01.tsv. This ledger separates identity status from catalog status, so a builder can be canonicalized without being falsely treated as catalog-complete. It also records lineage notes for aliases, successor names, OEM relationships, collaborations, revival identities, and unresolved factory attribution.
+Build the strongest practical builder/product universe for 1960-2026 before treating the individual-pedal layer as complete. Use Protocol A to expand and organize the universe. Use Protocol B to resolve the deep historical questions and populate richer individual pedal histories after the breadth map exists.
 
-### Recent continuous-run batches
-Recent runs have mapped indexed catalog baselines for EFX Custom Effects, Boot-Leg Hand Made Effects, Ovaltone, GoosoniqueWorx, Shin's Music, JAM Pedals, Human Gear, Leqtique, Plan-9, Sobbat, Hudson Electronics UK, Pigdog, Schaller, Höfner, EKO, Jennings Electronic Industries, Morley/Tel-Ray, Free The Tone, Providence, SEHAT Effectors, Guyatone, Shin-Ei, Univox, Ace Tone, Elk and additional historical/regional builders.
+### Operating command
 
-A dedicated regional sweep also added builder census records spanning Australia, Brazil, Canada, France, Germany, Greece, Indonesia, Italy, Japan, Malaysia, Norway, Poland, Singapore, Sweden, the United Kingdom and the United States, along with unresolved or micro-builder entities where the surviving documentary trail is thin.
+When the user says **Protocol A**, continue a sustained light-to-medium discovery run across multiple chronological and regional strata. Find builders, enumerate their dirt catalogs, add or update research records, and flag multi-product builders for later individual pedal pages. Do not pause for builder-by-builder confirmation.
 
-### YARP milestone: 2026-09-15 batches 06-42
-Batches 06-08 established the Honey/Shin-Ei/Companion lineage, JEN and Coron baselines, the British/European bridge, and FY-6 export reconciliation. Batch 09 separately mapped the FY-2 export network. Batch 10 documented Mexican regional derivatives and a separate Suzuki Fuzz-Tone lineage, reinforcing the rule that visual similarity is not enough for OEM attribution. Batches 11-13 expanded JEN and the Maestro FZ-1A-derived Japanese export fringe around Herald, Apollo, Melos, Mica, Monacor, Olson, Royal and Mirano. Batch 14 expanded historical builders including Herald, Earth Sound Research, Bell Electrolabs, Gretsch, Kay/Uecks, JEN FZ-III and Firstman/Hillwood. Batch 15 upgraded Blackfield, Lemon StudioSound, Top Gear, fOXX/Ridinger, Moreschi, Earth Sound Research and Bell with stronger catalog or designer evidence. Batch 16 expanded Bell's period catalog, separated Gretsch Playboy/JEN OEM products from unresolved Expandafuzz attribution, added Moreschi Octave Fuzz and the Electronic Sounds Hurst lineage, and clarified Blackfield's separate Flying Sound product family.
+When the user says **Protocol B**, switch to deep research on the selected queue, concentrating on relationships, OEM/rebrand history, lineage, chronology, generations, manufacturing states, and individual-pedal archaeology.
 
-Batches 17-18 added Roger Mayer and Dan Armstrong/Sound Modifiers lineage records. Batch 19 expanded the Caldironi Musica/Meazzi/G.I.S./Goldsound/Cosmosound Italian OEM corridor and Montarbo Sinphoton. Batches 20-21 added French Garen, Selmer Buzz Tone, Astro Tone/Sam Ash, Manny's/East Coast fuzz, East German Böhm/VEB Klingenthal, and British sustain/compressor boundary records. Batch 22 upgraded AUL Instruments and the transitional Guild Foxey Lady lineage. Batch 23 added the CSL/Sola Sound retail bridge. Batch 24 reconciled Höfner's 1967 No. 540 Fuzz Tone and No. 539 Distortion against the Schaller OEM relationship. Batches 25-27 added InterFax, Ridinger, Arbiter, Guild/AUL and Vox production-state relationships. Batches 28-33 expanded Kay/Uecks, Firstman/Hillwood/Multivox, Electronic Sounds/Gary Hurst, Big Muff private labels, Standard Fuzz, Antoria and related Japanese export records. Batches 34-35 added Tesla AYZ-025 and Soviet Kazan records. Batches 36-39 added EBS and the BJFE/Björn Juhl, Mad Professor and BearFoot later Scandinavian-oriented production layers.
-
-Batch 40 mapped Jordan Electronics/Victoreen and the Jordan Juniors dirt catalog. Batch 41 reconciled Lafayette Radio Electronics as a retailer/private-label/export identity, including Fuzz Sound, Super Fuzz and Super Drive. Batch 42 added Ampeg Scrambler SC-1 as a core 1969 dirt product and kept later Ampeg effects as separate boundary/revival states.
-
-The current branch therefore contains a growing multi-region builder/product map while preserving unresolved factory identities instead of forcing false certainty. The active next move remains catalog completion and OEM/rebrand reconciliation before broad specimen archaeology.
-
-### Active next move
-Continue the continuous YARP run across remaining P0/P1 incomplete builders, with emphasis on historically obscure British, German, Italian, American, Japanese, Scandinavian, Eastern European and other regional makers. Expand full dirt catalogs before deep individual-pedal records, then audit OEM/rebrand overlaps and unresolved factory identities. Keep discovery, evidence-qualified, verified, and unresolved states distinct.
+When no protocol is specified, use **Protocol A** for broad discovery work.
