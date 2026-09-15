@@ -1,0 +1,19 @@
+canonical_builder	product_name	dirt_role	catalog_record_state	notes	source_refs
+Boot-Leg Hand Made Effects	ADB-1.0 ESP Andora's Box	DIRT_OR_HYBRID	ENUMERATED	Indexed builder product; retain in complete catalog while exact dirt role is deferred.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	B&L-1.0 Buff & Loop	SCOPE_BOUNDARY	BOUNDARY	Loop/buffer product retained for builder completeness, excluded from central dirt count.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	BLN-1.0 Blues#Nine	OVERDRIVE	ENUMERATED	Gain product in indexed Boot-Leg catalog.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	COM-1.0 Cool-Man	SCOPE_BOUNDARY	BOUNDARY	Indexed product retained; exact effect role is not dirt-confirmed.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	COM-2.0 Cool-Man II	SCOPE_BOUNDARY	BOUNDARY	Indexed product retained; exact effect role is not dirt-confirmed.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	CPX-1.0 Comp-DX	SCOPE_BOUNDARY	BOUNDARY	Compressor product; outside central dirt count.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	DBX-1.0 Deep Box	DIRT_CANDIDATE	ROLE_REVIEW	Indexed product retained for later product-level category verification.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	DMR-1.0 Dr. Mid Rich	DIRT_CANDIDATE	ROLE_REVIEW	Indexed gain product; exact OD/distortion boundary deferred.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	DSP-1.0 Dee Spider	DIRT_CANDIDATE	ROLE_REVIEW	Indexed gain product; exact OD/distortion boundary deferred.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	GHP-1.0 Gain Helper	OVERDRIVE	VERIFIED_INDEX_ROLE	Published 2005; described as a gain/overdrive pedal with sound between fuzz and overdrive.	https://www.effectsdatabase.com/model/bootleg/ghp10
+Boot-Leg Hand Made Effects	HZM-1.0 Hizumi	DISTORTION	ENUMERATED	Indexed dirt model.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	HZM-1.2 Hizumi	DISTORTION	ENUMERATED	Revision of Hizumi family; generation boundary deferred.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	HZM-2.0 Hizumi Quattro Valvole	DISTORTION	ENUMERATED	Later Hizumi-family dirt model.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	JBK-1.0 Jaw Breaker	DISTORTION	ENUMERATED	Indexed gain/distortion model.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	JZF-1.0 Jazz Fuzz	FUZZ	ENUMERATED	Explicit fuzz model.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	RRP-1.0 Rock'n Roll Party	DISTORTION	DIRT_CANDIDATE	Indexed gain product; retain pending product-level role check.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	RRP-2.0 Rock'n Roll Party	DISTORTION	DIRT_CANDIDATE	Revision of Rock'n Roll Party; generation boundary deferred.	https://www.effectsdatabase.com/model/bootleg
+Boot-Leg Hand Made Effects	SPL-1.0 Spiral	DISTORTION	DIRT_CANDIDATE	Indexed product retained pending narrower role confirmation.	https://www.effectsdatabase.com/model/bootleg
