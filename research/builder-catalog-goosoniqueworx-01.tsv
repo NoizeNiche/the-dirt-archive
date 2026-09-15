@@ -1,0 +1,11 @@
+canonical_builder	product_name	dirt_role	catalog_record_state	notes	source_refs
+GoosoniqueWorx	Boosty	BOOST_SCOPE_BOUNDARY	BOUNDARY	Boost product retained for builder completeness, excluded from central dirt count.	https://www.effectsdatabase.com/model/goosonique
+GoosoniqueWorx	Blitzkrieg	DIRT_CANDIDATE	ENUMERATED	Indexed dirt/gain product; exact role deferred.	https://www.effectsdatabase.com/model/goosonique
+GoosoniqueWorx	Citrus	SCOPE_BOUNDARY	BOUNDARY	Effects Database lists Citrus as compressor context; excluded from central dirt count.	https://www.effectsdatabase.com/model/goosonique
+GoosoniqueWorx	Fudge 73	FUZZ	ENUMERATED	Triangle Muff-family fuzz, documented as discontinued.	https://www.effectsdatabase.com/model/goosonique
+GoosoniqueWorx	Kult	DISTORTION	ENUMERATED	High-gain dual-channel pedal in later catalog.	https://www.effectsdatabase.com/model/goosonique
+GoosoniqueWorx	MangoJuice	DISTORTION	VERIFIED_INDEX_ROLE	First pedal, an FET-based distortion, early 2004.	https://www.effectsdatabase.com/model/goosonique
+GoosoniqueWorx	Noizetherapy	DIRT_CANDIDATE	ENUMERATED	Indexed dirt/gain product; deeper identity deferred.	https://www.effectsdatabase.com/model/goosonique
+GoosoniqueWorx	Pixie	FUZZ	VERIFIED_INDEX_ROLE	Hybrid fuzz; 2005 local-sale product and later discontinued.	https://www.effectsdatabase.com/model/goosonique
+GoosoniqueWorx	Seventheaven	DISTORTION	VERIFIED_INDEX_ROLE	J-FET high-gain family; first silver version delivered 18 Aug 2008, 50 handmade pieces; black version relaunched Nov 2009 with 100 pieces.	https://www.effectsdatabase.com/model/goosonique
+GoosoniqueWorx	Tremor	SCOPE_BOUNDARY	BOUNDARY	Tremolo product retained for builder completeness, outside dirt count.	https://www.effectsdatabase.com/model/goosonique
