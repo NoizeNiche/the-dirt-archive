@@ -1,0 +1,45 @@
+canonical_builder	product_name	alias_or_relation	dirt_role	catalog_record_state	period_or_corridor	confidence	notes	evidence
+BOSS	OD-1	OverDrive	OVERDRIVE	HISTORICAL_ANCHOR	1977-present	HIGH	One of the first three BOSS compact pedals introduced in 1977; retain as original retail model, not a generic family name.	https://articles.boss.info/all-about-the-ds-1-the-benchmark-boss-distortion/
+BOSS	DS-1	Distortion	DISTORTION	HISTORICAL_ANCHOR	1978-present	HIGH	Introduced in 1978 and continuously documented by BOSS as a long-running compact distortion.	https://www.boss.info/us/products/ds-1/
+BOSS	SD-1	SUPER OverDrive	OVERDRIVE	CURRENT_HISTORICAL	1981-present	HIGH	Current BOSS catalog retains SD-1; historical catalog lineage should remain separate from OD-1 despite shared compact format.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/overdrive/
+BOSS	DS-2	TURBO Distortion	DISTORTION	CURRENT_HISTORICAL	1987-present	HIGH	Current BOSS catalog retains DS-2; keep as distinct model from DS-1 despite shared distortion family.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/distortion/
+BOSS	OS-2	OverDrive/Distortion	OVERDRIVE_DISTORTION	CURRENT_HISTORICAL	1990s-present	HIGH	Official BOSS page identifies separate overdrive and distortion paths with parallel blend behavior.
+https://www.boss.info/us/products/os-2/
+BOSS	HM-2	Heavy Metal	DISTORTION	HISTORICAL_ANCHOR	1983-1992	MEDIUM	Historical model retained; exact regional and enclosure chronology remains a later specimen-archaeology task.
+https://articles.boss.info/what-the-fuzz-the-origins-of-boss-fuzz-pedals/
+BOSS	MT-2	Metal Zone	DISTORTION	CURRENT_HISTORICAL	1990s-present	HIGH	Current BOSS distortion catalog retains MT-2 and its Waza successor as separate states.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/distortion/
+BOSS	MD-2	Mega Distortion	DISTORTION	CURRENT_HISTORICAL	2000s-present	HIGH	Current official catalog identifies MD-2 as a distinct high-gain compact model.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/distortion/
+BOSS	OD-2	Turbo OverDrive	OVERDRIVE	CATALOG_COMPLETION_PENDING	1980s-1990s	MEDIUM	Needs period-catalog and production-state reconciliation before promotion beyond baseline.
+https://articles.boss.info/all-about-the-ds-1-the-benchmark-boss-distortion/
+BOSS	OD-2R	Turbo OverDrive / successor state	OVERDRIVE	CATALOG_COMPLETION_PENDING	1990s	MEDIUM	Retain as separate retail designation until OD-2/OD-2R chronology is fully reconciled.
+https://www.boss.info/us/support/owners_manuals/
+BOSS	BD-2	Blues Driver	OVERDRIVE	HISTORICAL_ANCHOR	1995-present	HIGH	Official BOSS states continuous production since 1995.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/overdrive/
+BOSS	OD-3	OverDrive	OVERDRIVE	CURRENT_HISTORICAL	1997-present	HIGH	Distinct later overdrive model; do not merge with OD-1 merely because of naming.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/overdrive/
+BOSS	FZ-2	Hyper Fuzz	FUZZ	HISTORICAL_ANCHOR	1993-1997	HIGH	BOSS identifies FZ-2 as its first compact-format fuzz; discontinued in 1997.
+https://articles.boss.info/what-the-fuzz-the-origins-of-boss-fuzz-pedals/
+BOSS	FZ-3	Fuzz	FUZZ	HISTORICAL_ANCHOR	1997-1999	HIGH	BOSS describes FZ-3 as the 1997 successor to FZ-2; discontinued in 1999.
+https://articles.boss.info/what-the-fuzz-the-origins-of-boss-fuzz-pedals/
+BOSS	FZ-5	Fuzz	FUZZ	CURRENT_HISTORICAL	2007-present	HIGH	Current BOSS catalog lists FZ-5; official article distinguishes its history from FZ-2 and FZ-3.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/distortion/
+BOSS	FZ-1W	Fuzz WAZA CRAFT	FUZZ	CURRENT_HISTORICAL	2021-present	HIGH	Current Waza Craft fuzz model; BOSS describes it as a new lineage influenced by the earlier BOSS fuzz history and Tone Bender collaboration work.
+https://www.boss.info/us/categories/effects_pedals/waza_craft/
+BOSS	DS-1W	Distortion WAZA CRAFT	DISTORTION	CURRENT_HISTORICAL	2020s-present	HIGH	Waza Craft successor/state of DS-1; never collapse into original DS-1 production state.
+https://www.boss.info/us/categories/effects_pedals/waza_craft/
+BOSS	SD-1W	SUPER OverDrive WAZA CRAFT	OVERDRIVE	CURRENT_HISTORICAL	2020s-present	HIGH	Waza Craft state of SD-1; preserve as a distinct production/edition record.
+https://www.boss.info/us/categories/effects_pedals/waza_craft/
+BOSS	BD-2W	Blues Driver WAZA CRAFT	OVERDRIVE	CURRENT_HISTORICAL	2010s-present	HIGH	Waza Craft state of BD-2; preserve separately from original BD-2 production.
+https://www.boss.info/us/categories/effects_pedals/waza_craft/
+BOSS	JB-2	Angry Driver / JHS collaboration	OVERDRIVE_DISTORTION	COLLABORATION_RECORD	2017-present	HIGH	Official BOSS catalog identifies JB-2 as a BOSS/JHS collaboration; relationship must not be mistaken for a BOSS-only lineage.
+https://www.boss.info/global/categories/effects_pedals/distortion_overdrive_fuzz/distortion/
+BOSS	ODB-3	Bass OverDrive	BASS_OVERDRIVE	CURRENT_HISTORICAL	1990s-present	HIGH	Official BOSS product-search material identifies ODB-3 as a distinct bass overdrive.
+https://www.boss.info/us/search/?q=overdrive
+BOSS	PW-2	Power Driver	DISTORTION_DRIVE	CATALOG_COMPLETION_PENDING	1990s	MEDIUM	Candidate dirt model to reconcile through period catalogs before marking lifecycle complete.
+https://www.boss.info/us/support/owners_manuals/
+BOSS	DN-2	Dyna Drive	OVERDRIVE	HISTORICAL_MODEL	2007-2012	MEDIUM	Current search no longer treats it as a current model; retain as historical digital/MDP-era dirt object rather than omit.
+https://www.boss.info/us/search/?q=overdrive
