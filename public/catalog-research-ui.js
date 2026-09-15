@@ -11,7 +11,7 @@
     pedalCard=function(p){
       const html=originalPedalCard(p);
       const badge=researchBadge(p);
-      return html.replace('</div></a>',`${badge}</div></a>`);
+      return html.replace(/(<div class="pedal-body">[\s\S]*?)(<\/div><\/a>)$/,`$1${badge}$2`);
     };
   }
 
