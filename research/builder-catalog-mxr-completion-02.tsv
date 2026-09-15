@@ -1,0 +1,33 @@
+canonical_builder	model	alias_or_variant	category	era_or_corridor	catalog_status	evidence_level	relationship_notes	source_trail
+MXR	Distortion+	M104	DISTORTION	1970s-present	VERIFIED_ANCHOR	PRIMARY	Foundational MXR dirt model; original MXR production and Dunlop-era continuation must remain distinct.	https://www.jimdunlop.com/mxr-distortion/ ; https://lifestyle.jimdunlop.com/mxr-a-short-history/
+MXR	Blue Box Octave Fuzz	M103	FUZZ	1970s-present	VERIFIED_ANCHOR	PRIMARY	Foundational MXR fuzz; original production and later reissue states remain separate.	https://www.jimdunlop.com/mxr-blue-box-fuzz/ ; https://lifestyle.jimdunlop.com/mxr-a-short-history/
+MXR	Dyna Comp	M102	COMPRESSOR_SUSTAIN	1970s-present	BOUNDARY_RECORD	PRIMARY	Important dirt-adjacent MXR product because contemporary catalogs describe it alongside Distortion+ as sustain/gain-chain equipment; keep outside central dirt count.
+https://lifestyle.jimdunlop.com/mxr-a-short-history/
+MXR	Micro Amp	M133	BOOST_OVERDRIVE	1970s-present	BOUNDARY_RECORD	PRIMARY	Gain/boost product; searchable but separate from central OD/distortion/fuzz count.
+https://www.jimdunlop.com/products/electronics/mxr/
+MXR	Distortion II	M145	DISTORTION	1980s-1990s	INDEXED	SECONDARY	Historical MXR/Dunlop dirt model; needs exact production corridor and revision reconciliation.
+https://www.jimdunlop.com/products/electronics/mxr/
+MXR	Doubleshot Distortion	M151	DISTORTION	2000s	INDEXED	PRIMARY_ADJACENT	Modern MXR distortion product; preserve as separate model.
+https://www.jimdunlop.com/products/electronics/mxr/
+MXR	Distortion III	M115	DISTORTION	2000s-present	INDEXED	PRIMARY_ADJACENT	Modern MXR distortion model.
+https://www.jimdunlop.com/products/electronics/mxr/
+MXR	Custom Badass '78 Distortion	M78	DISTORTION	2010s-present	INDEXED	PRIMARY	Dunlop-era MXR design explicitly identified in MXR history as a modern classic.
+https://lifestyle.jimdunlop.com/mxr-a-short-history/ ; https://www.jimdunlop.com/products/electronics/mxr/
+MXR	Super Badass Distortion	M75	DISTORTION	2010s-present	INDEXED	PRIMARY_ADJACENT	Current MXR distortion product.
+https://www.jimdunlop.com/products/electronics/mxr/
+MXR	Badass '77 Distortion	CSP202	DISTORTION	2010s-present	INDEXED	PRIMARY_ADJACENT	Custom Shop/anniversary-era distortion state; retain as separate edition.
+https://www.jimdunlop.com/products/electronics/mxr/
+MXR	Badass Modified OD	M77	OVERDRIVE	2010s-present	INDEXED	PRIMARY	Current MXR overdrive model.
+https://www.jimdunlop.com/products/electronics/mxr/
+MXR	Fullbore Metal	M116	DISTORTION	2010s-present	INDEXED	PRIMARY_ADJACENT	High-gain MXR distortion model.
+https://www.jimdunlop.com/products/electronics/mxr/
+MXR	5150 Overdrive	EVH 5150 Overdrive; non-MXR brand relationship	OVERDRIVE	2010s-present	BOUNDARY_RELATIONSHIP	PRIMARY	Do not file as MXR simply because Dunlop distributes EVH effects; keep builder/brand identity separate.
+https://www.jimdunlop.com/products/electronics/mxr/
+MXR	Randy Rhoads Distortion+	RR104	DISTORTION	2020s	SIGNATURE_EDITION	PRIMARY	Special edition based on examination/specification of Randy Rhoads's vintage Distortion+; distinct from ordinary M104 catalog state.
+https://www.jimdunlop.com/mxr-randy-rhoads-distortion/
+MXR	Randy Rhoads Special Edition Distortion+	Special Edition	DISTORTION	2020s	SIGNATURE_EDITION	PRIMARY	Separate special-edition enclosure/booklet state; do not collapse with RR104.
+https://www.jimdunlop.com/randy-rhoads-mxr-special-edition-distortion/
+MXR	Distortion+ 75th/anniversary states	Historical/special editions	DISTORTION	2000s-2020s	CANDIDATE_QUEUE	SECONDARY	Potential anniversary/reissue states require catalog and packaging reconciliation.
+https://www.jimdunlop.com/products/electronics/mxr/
+MXR	Blue Box reissue	Current M103	FUZZ	1980s-present	REISSUE_LINEAGE	PRIMARY	Dunlop-era resurrection of core MXR product; historical MXR and later production must remain distinct.
+https://lifestyle.jimdunlop.com/mxr-a-short-history/ ; https://www.jimdunlop.com/mxr-blue-box-fuzz/
