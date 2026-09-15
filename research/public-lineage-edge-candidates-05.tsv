@@ -1,0 +1,24 @@
+source_entity	target_entity	relationship_type	public_status	confidence	public_note	evidence
+Honey FY-6	Shin-Ei FY-6	SUCCESSOR_MARKETING_LINEAGE	PROMOTE	HIGH	1967 Honey FY-6 and 1968 Shin-Ei FY-6 are sequential historical identities in the same family.	https://shin-ei.com/
+Shin-Ei FY-6	Univox Super-Fuzz	OEM_MARKET_LINEAGE	PROMOTE	HIGH	Univox remains a separate retail identity within the Shin-Ei FY-6 family.
+https://www.effectsdatabase.com/model/shinei/companion
+JEN Fuzz	Vox V828/V8281	OEM_CONTRACT_LINEAGE	PROMOTE	HIGH	Italian JEN production linked to the Vox V828/V8281 retail family; retail identities stay separate.
+https://www.effectsdatabase.com/model/jen/diecast/fuzz
+JEN	Vox V846 / Thomas Cry Baby	MANUFACTURING_RELATIONSHIP	PROMOTE	HIGH	JEN manufacturing relationships are shown separately from US Thomas production states.
+https://www.voxshowroom.com/us/misc/jenwah.html
+Power Boost	Overdriver	RETAIL_SUCCESSOR_LINEAGE	PROMOTE	HIGH	Colorsound Power Boost and Overdriver form a documented early-1970s retail/voltage/name transition within the same builder lineage.
+https://www.kitrae.net/music/Music_mp3_Colorsound_Sound.html
+Sola Sound	Colorsound	BRAND_LINEAGE	PROMOTE	HIGH	Colorsound is preserved as a marketed brand within the Sola Sound lineage.
+https://www.kitrae.net/music/Music_mp3_Colorsound_Sound.html
+Sola Sound	CSL Super Fuzz	OEM_MARKET_RELATIONSHIP	PROMOTE	HIGH	CSL Super Fuzz is documented as a Sola Sound OEM-labeled product state.
+https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
+Sola Sound	Park Fuzz Sound	OEM_MARKET_RELATIONSHIP	PROMOTE	HIGH	Park Fuzz Sound is retained as a marketed OEM state rather than an independent physical manufacturer.
+https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
+Sola Sound	Carlsbro Fuzz	OEM_MARKET_RELATIONSHIP	PROMOTE	HIGH	Carlsbro Fuzz is retained as a marketed OEM state rather than an independent physical manufacturer.
+https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
+Teisco Fuzz Machine	Ibanez Standard Fuzz No.59	OEM_FAMILY	HOLD_FOR_REVIEW	MEDIUM	Shared-family evidence exists, but factory chronology is not strong enough to publish as a universal attribution.
+https://www.effectsdatabase.com/model/teisco/fuzzmachine
+SoundTank TS5	Maxon/Nisshin Onpa	MANUFACTURER_EXCEPTION	HOLD_FOR_REVIEW	MEDIUM	TS5 is documented as Taiwan/Daphon-made rather than Nisshin-made; do not inherit the broader Ibanez/Maxon relationship automatically.
+https://www.premierguitar.com/gear/tube-screamer-history?rebelltitem=14
+SoundTank SF5	FZ5	RETAIL_SUCCESSOR_LINEAGE	PROMOTE	HIGH	FZ5 is documented as a later retail state/name in the same 60's Fuzz family.
+https://www.kitrae.net/music/History_of_Big_Muff_Clones.html
