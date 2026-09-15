@@ -2,8 +2,23 @@
   const esc = v => String(v ?? '').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
   const normalize = v => String(v ?? '').trim().toLowerCase().replace(/[–—]/g,'-');
   let lineage = null;
+  let lineagePromise = null;
 
-  const load = () => lineage || fetch('lineage.json').then(r=>r.json()).then(d => (lineage = Array.isArray(d) ? d : []));
+  const load = () => {
+    if (lineagePromise) return lineagePromise;
+    if (lineage) return Promise.resolve(lineage);
+    lineagePromise = fetch('lineage.json').then(r => {
+      if (!r.ok) throw new Error(`Lineage data request failed: HTTP ${r.status}`);
+      return r.json();
+    }).then(d => {
+      lineage = Array.isArray(d) ? d : [];
+      return lineage;
+    }).catch(error => {
+      lineagePromise = null;
+      throw error;
+    });
+    return lineagePromise;
+  };
   const findPedal = key => {
     const catalog = window.DATA || {};
     const decoded = decodeURIComponent(String(key || ''));
@@ -15,11 +30,12 @@
   function renderForPedal(p) {
     if (!p || document.getElementById('lineage-map')) return;
     load().then(edges => {
+      if (!document.querySelector('.detail-title') || document.getElementById('lineage-map')) return;
       const related = edges.filter(e => {
         const name = normalize(p.model_name);
         return normalize(e.source) === name || normalize(e.target) === name;
       });
-      if (!related.length || !document.querySelector('.detail-title')) return;
+      if (!related.length) return;
       const anchor = document.querySelector('.archive-note') || document.querySelector('.archive-section:last-of-type');
       if (!anchor?.parentNode) return;
       const rows = related.map(e => {
