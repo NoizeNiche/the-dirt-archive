@@ -1,0 +1,43 @@
+name: Site smoke tests
+
+on:
+  push:
+    branches: [main, foundation-audit]
+  pull_request:
+    branches: [main]
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Playwright
+        run: npm install --no-save playwright@1.55.0
+
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Start static site
+        run: |
+          python3 -m http.server 4173 --directory public > /tmp/dirt-archive-server.log 2>&1 &
+          echo $! > /tmp/dirt-archive-server.pid
+          sleep 2
+
+      - name: Run smoke tests
+        run: node .github/tests/site-smoke.mjs
+
+      - name: Show server log on failure
+        if: failure()
+        run: cat /tmp/dirt-archive-server.log || true
