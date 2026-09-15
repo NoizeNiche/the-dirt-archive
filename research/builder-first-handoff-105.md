@@ -36,10 +36,24 @@ Historical naming should normally be displayed inside builder/pedal lineage rath
 When a builder changed names, ownership, manufacturing location, or commercial identity, the relevant historical explanation belongs on the affected pedal pages and lineage records. The builder index should remain canonical and navigable.
 
 ### Current state
-- Builder identity reconciliation exists at `research/builder-identity-reconciliation-01.tsv`.
+- Builder identity reconciliation exists at `research/builder-identity-reconciliation-01.tsv` and `research/builder-identity-reconciliation-02.tsv`.
 - Builder-first research order exists at `research/BREADCRUMB.md`.
 - Builder completion queue exists at `research/builder-completion-queue-01.tsv`.
+- Canonical builder master ledger now exists at `research/builder-master-census-01.tsv`.
 - No additional individual-pedal record is being treated as the next automatic unit of work merely because it is interesting.
 
+### Pass 59 progress
+The latest builder-census strata were audited and promoted into the canonical master ledger as a first consolidated identity layer. Important newly consolidated/flagged cases include:
+- Schaller and Blackfield Orchester-Elektronik as separate historical German manufacturer nodes, with the documented OEM relationship preserved rather than merged.
+- Kay / Uecks as an unresolved marketed/factory lineage, without assigning a physical factory prematurely.
+- Martian Sound kept separate from Spaceman Effects while preserving Zak Martin's designer/creator lineage.
+- O.C.E. Pedals retained as one builder with Hardware Fuzz → Wrench Fuzz → Wrench Fuzz V2 treated as product generations, not builder duplication.
+- Colortone Pedals retained as the canonical builder with Colortone as an alias.
+- Höfner kept as a marketed/instrument-maker entity while Schaller manufacturing involvement remains a relationship node.
+- Firstman / Hillwood reconciled as one Japanese manufacturer/brand lineage, with Multivox retained as a separate customer/marketing entity.
+- JEN Elettronica, Selmer (UK), Morley/Tel-Ray and related historical manufacturer nodes retained with OEM/brand distinctions intact.
+
+This pass does **not** declare any of those builders catalog-complete. Identity normalization and catalog enumeration remain separate statuses by design.
+
 ### Next target
-Continue the queue builder-by-builder. For each builder, produce a canonical identity record and full OD/distortion/fuzz product inventory first. Periodically audit earlier census files for duplicates, aliases, OEM relationships, and omitted catalog products before declaring a builder complete.
+Continue the queue builder-by-builder. For each builder, produce a canonical identity record and full OD/distortion/fuzz product inventory first. Start with the highest-value incomplete catalogs, while continuing periodic duplicate/alias/OEM audits across the older census strata. Only after a builder's dirt catalog is substantially mapped should its individual pedals return to the deep archaeology queue.
