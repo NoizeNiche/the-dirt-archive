@@ -1,0 +1,79 @@
+builder	model_or_family	category	era_or_corridor	catalog_status	evidence_level	relationship_notes	source_trail
+Anasounds	Feed Me	FUZZ	2014-2015	ENUMERATED	PRIMARY_COMPANY_HISTORY	Anasounds history says the company/product project was formed in 2014 and identifies Feed Me among the first products; Feed Me is the first fuzz in the range. Preserve later Mk states separately.	https://anasounds.com/about-us/tone-quest/ ; https://anasounds.com/products/origins-pedals/feed-me/
+Anasounds	Centaur	OVERDRIVE	2014-2015	ENUMERATED	PRIMARY_COMPANY_HISTORY	Listed among the first Anasounds products in the 2014 company-origin story; later current documentation exists as the same named family.	https://anasounds.com/about-us/tone-quest/
+Anasounds	Cerberus	OVERDRIVE	2014	ENUMERATED	PRIMARY_COMPANY_HISTORY	Anasounds says the 2014 overdrive study produced Cerberus and calls it the first true engineering/original creation.	https://anasounds.com/about-us/tone-quest/ ; https://anasounds.com/produit/cerberus/
+Anasounds	Phase Lag	BOUNDARY_NON_DIRT	2014	BOUNDARY	PRIMARY_COMPANY_HISTORY	First-product group but phase effect, retained only as a catalog boundary.	https://anasounds.com/about-us/tone-quest/
+SviSound	OverZoid oz01	OVERDRIVE	2014	ENUMERATED	SECONDARY_HISTORICAL	Effects Database published the product Aug. 4, 2014; builder documentation establishes OverZoid family variants and later successor relationships.
+https://www.effectsdatabase.com/model/svisound/overzoid ; https://svisound.com/reviews-artists
+SviSound	MetalZoid	DISTORTION	2014	ENUMERATED	SECONDARY_HISTORICAL	Listed in the Aug. 2014 weekly archive as a new SviSound high-gain distortion model.
+https://www.effectsdatabase.com/updates/weekly/20140811
+SviSound	Si Fuzz	FUZZ	2014	ENUMERATED	SECONDARY_HISTORICAL	Listed in the Aug. 11, 2014 weekly archive as SviSound Si Fuzz.
+https://www.effectsdatabase.com/updates/weekly/20140811
+SviSound	Ge Boost	BOOST	2014	BOUNDARY	SECONDARY_HISTORICAL	Gain-adjacent product listed in 2014; kept outside central dirt count unless later evidence ties it directly to a dirt family.
+https://www.effectsdatabase.com/updates/weekly/20140811
+Tone Hungry Effects	Hunger Bender	FUZZ	2014	ENUMERATED	SECONDARY_HISTORICAL	Effects Database publication Mar. 27, 2014; MKIII Tone Bender-inspired with tested NOS germanium transistors. Keep inspiration separate from manufacturer attribution.
+https://www.effectsdatabase.com/model/tonehungry/hungerbender
+Tone Hungry Effects	Hot Molasses	OVERDRIVE_FUZZ	2014	ENUMERATED	SECONDARY_HISTORICAL	2014 weekly archive identifies Hot Molasses as an overdrive/fuzz product; preserve alongside Hunger Bender and Treble Master.
+https://www.effectsdatabase.com/updates/weekly/20140331
+Tone Hungry Effects	Treble Master	BOOST	2014	BOUNDARY	SECONDARY_HISTORICAL	Rangemaster-style treble boost in 2014 archive; historically dirt-adjacent but excluded from core dirt count.
+https://www.effectsdatabase.com/updates/weekly/20140331
+Pepper Pedals	Ancho	FUZZ	2014	ENUMERATED	SECONDARY_HISTORICAL	IC Muff-style fuzz listed in Aug. 4, 2014 weekly archive.
+https://www.effectsdatabase.com/updates/weekly/20140804
+Pepper Pedals	Chimayo	OVERDRIVE	2014	ENUMERATED	SECONDARY_HISTORICAL	Overdrive 250 listed in Aug. 4, 2014 weekly archive.
+https://www.effectsdatabase.com/updates/weekly/20140804
+Pepper Pedals	Pimiento	OVERDRIVE	2014	ENUMERATED	SECONDARY_HISTORICAL	Overdrive product listed in Aug. 4, 2014 weekly archive.
+https://www.effectsdatabase.com/updates/weekly/20140804
+Black Cat	Monster K-Fuzz	OCTAVE_FUZZ	2014	ENUMERATED	SECONDARY_HISTORICAL	Published July 31, 2014. Black Cat says the Custom K-Fuzz became a regular line product with added voicing, diode-selection and input-gain controls; production remained labor-intensive.
+https://www.effectsdatabase.com/model/blackcat/kfuzz/monster
+VauxFlores	Gold Standard	FUZZ	2013-2014	ENUMERATED	PRIMARY_COMPANY_PRODUCT	Builder describes it as a collaboration with Liz Meredith, based on Number 24; Pedal of the Day dates the move to Baltimore and describes it as hand-built in small batches.
+https://vauxflores.com/electronics/gold-standard/ ; https://www.pedal-of-the-day.com/2014/05/11/vaux-flores-gold-standard-fuzz/
+VauxFlores	Number 24	FUZZ	2013-2014	ENUMERATED	SECONDARY_HISTORICAL	Gold Standard is explicitly based on Number 24; retain as distinct retail family member.
+https://vauxflores.com/electronics/gold-standard/ ; https://www.effectsdatabase.com/model/vauxflores
+VauxFlores	Number 23	FUZZ	2014	ENUMERATED	SECONDARY_INDEX	2014-era indexed fuzz family; exact first-sale date requires later chronology pass.
+https://www.effectsdatabase.com/model/vauxflores
+VauxFlores	Platano Verde	FUZZ_DISTORTION	2014	ENUMERATED	SECONDARY_INDEX	2014-era indexed dirt family; exact first-sale date requires later chronology pass.
+https://www.effectsdatabase.com/model/vauxflores
+Walker A&E	Black Guts	FUZZ	2014	ENUMERATED	SECONDARY_HISTORICAL	Listed in the Aug. 4, 2014 weekly archive with multiple Walker A&E products, indicating a broader contemporary catalog rather than a one-off listing.
+https://www.effectsdatabase.com/updates/weekly/20140804
+Walker A&E	Cold Shot	OVERDRIVE	2014	ENUMERATED	SECONDARY_HISTORICAL	Listed in the same Aug. 4, 2014 batch as a dirt product.
+https://www.effectsdatabase.com/updates/weekly/20140804
+Walker A&E	Crotaline	DISTORTION	2014	ENUMERATED	SECONDARY_HISTORICAL	Listed in the Aug. 4, 2014 batch; maintain as distinct model pending deeper chronology.
+https://www.effectsdatabase.com/updates/weekly/20140804
+Walker A&E	Firebird	FUZZ_DISTORTION	2014	ENUMERATED	SECONDARY_HISTORICAL	Listed in Aug. 4, 2014 archive; exact topology/history intentionally not inferred from model name.
+https://www.effectsdatabase.com/updates/weekly/20140804
+Walker A&E	King Bee	OVERDRIVE	2014	ENUMERATED	SECONDARY_HISTORICAL	Listed in Aug. 4, 2014 archive; exact first-sale date unresolved.
+https://www.effectsdatabase.com/updates/weekly/20140804
+Walker A&E	Selfburner	FUZZ_DISTORTION	2014	ENUMERATED	SECONDARY_HISTORICAL	Listed in Aug. 4, 2014 archive; retain as separate product until catalog reconciliation.
+https://www.effectsdatabase.com/updates/weekly/20140804
+Aural Dream	Bold Distortion	DISTORTION	2014	ENUMERATED	SECONDARY_HISTORICAL	First indexed in the March 2014 weekly archive; preserve publication date as documentary anchor, not proof of exact launch date.
+https://www.effectsdatabase.com/updates/weekly/20140331
+Aural Dream	Compelling Drive	OVERDRIVE	2014	ENUMERATED	SECONDARY_HISTORICAL	Same March 31, 2014 documentary cluster.
+https://www.effectsdatabase.com/updates/weekly/20140331
+Aural Dream	Intense Distortion	DISTORTION	2014	ENUMERATED	SECONDARY_HISTORICAL	Same March 31, 2014 documentary cluster.
+https://www.effectsdatabase.com/updates/weekly/20140331
+Aural Dream	Purely Fuzz	FUZZ	2014	ENUMERATED	SECONDARY_HISTORICAL	Same March 31, 2014 documentary cluster.
+https://www.effectsdatabase.com/updates/weekly/20140331
+Aural Dream	Warm Drive	OVERDRIVE	2014	ENUMERATED	SECONDARY_HISTORICAL	Same March 31, 2014 documentary cluster.
+https://www.effectsdatabase.com/updates/weekly/20140331
+Animal Factory Amplification	Chemical Burn	OCTAVE_FUZZ	2014-2015	ENUMERATED	SECONDARY_HISTORICAL	Documented in the Jan. 20, 2014 new-brand archive and again in the Jan. 2015 catalog as an octave-fuzz model; preserve first documentation versus later listing.
+https://www.effectsdatabase.com/updates/weekly/20140120 ; https://www.effectsdatabase.com/blog?page=65
+AnaSounds	Feed Me	FUZZ	2015	DUPLICATE_RECONCILIATION	PRIMARY_COMPANY_HISTORY	Same builder/product already captured above; 2015 Effects Database publication is documentary confirmation, not a separate model.
+https://www.effectsdatabase.com/model/anasounds/feedme ; https://anasounds.com/products/origins-pedals/feed-me/
+Clarenzio	Brine	DISTORTION	2015	ENUMERATED	SECONDARY_HISTORICAL	Feb. 16, 2015 weekly archive lists Brìne as a distortion; preserve accent/spelling in display metadata as source permits.
+https://www.effectsdatabase.com/blog?page=64
+Clarenzio	Sandroun	OVERDRIVE	2015	ENUMERATED	SECONDARY_HISTORICAL	Feb. 16, 2015 weekly archive lists Sandroun as tube overdrive.
+https://www.effectsdatabase.com/blog?page=64
+Clarenzio	Spenador	OVERDRIVE	2015	ENUMERATED	SECONDARY_HISTORICAL	Feb. 16, 2015 weekly archive lists Spètnador as overdrive; exact normalized spelling should follow source record during later entity cleanup.
+https://www.effectsdatabase.com/blog?page=64
+Clarenzio	Stremne	FUZZ	2015	ENUMERATED	SECONDARY_HISTORICAL	Feb. 16, 2015 weekly archive lists Strèmne as fuzz.
+https://www.effectsdatabase.com/blog?page=64
+Dolphin's Sound	David	DISTORTION	2015	ENUMERATED	SECONDARY_HISTORICAL	Feb. 16, 2015 archive lists David as distortion under the newly documented brand.
+https://www.effectsdatabase.com/blog?page=64
+Dolphin's Sound	Nettuno	FUZZ	2015	ENUMERATED	SECONDARY_HISTORICAL	Same Feb. 2015 archive; retain as distinct fuzz model.
+https://www.effectsdatabase.com/blog?page=64
+Dolphin's Sound	Purgatorio	OVERDRIVE	2015	ENUMERATED	SECONDARY_HISTORICAL	Listed in Sept. 2015 archive as Purgatorio Overdrive, extending the early Dolphin's Sound dirt family.
+https://www.effectsdatabase.com/blog?page=60
+L0/Rez	Cement Lunch	OVERDRIVE	2015	ENUMERATED	SECONDARY_HISTORICAL	Listed Sept. 28, 2015 as a new-brand overdrive model; exact builder origin requires later identity pass.
+https://www.effectsdatabase.com/blog?page=60
+L0/Rez	Mona Lisa	OVERDRIVE	2015	ENUMERATED	SECONDARY_HISTORICAL	Same Sept. 28, 2015 new-brand archive; exact first-sale chronology unresolved.
+https://www.effectsdatabase.com/blog?page=60
