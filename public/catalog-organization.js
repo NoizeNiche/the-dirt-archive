@@ -7,14 +7,17 @@
     {family:'Shin-Ei production network', names:['Shin-Ei','Companion','Avora','J.H. Experience','JAX','Kimbara','Suzuki','Tele-Star','Tempo','Thomas','Zenta']},
     {family:'Maxon / Hoshino Tube Screamer lineage', names:['Maxon','Ibanez / Hoshino']}
   ];
+  const relationshipNames = new Set(familyRules.flatMap(r=>r.names).map(x=>x.toLowerCase()));
   const groupFor = b => {
-    const s = String(b.status || '').toLowerCase();
-    if (/oem|importer|export brand|regional badge|brand/.test(s)) return 'Brands, Licensing & Production Relationships';
-    if (/historical/.test(s) && !/manufacturer/.test(s)) return 'Historical / Defunct Builders';
-    if (/modern boutique|boutique|one-person|small batch|hand-made/.test(s)) return 'Independent / Boutique Builders';
-    if (/diy|kit|small-run/.test(s)) return 'DIY / Kit / Small-Run';
-    if (/manufacturer/.test(s)) return 'Major Manufacturers';
-    return 'Historical / Defunct Builders';
+    const name=String(b.name||'').trim().toLowerCase();
+    const text=`${b.status||''} ${b.description||''}`.toLowerCase();
+    if (relationshipNames.has(name) || /oem|importer|export brand|regional badge|brand/.test(text)) return 'Brands, Licensing & Production Relationships';
+    if (/diy|kit|small-run/.test(text)) return 'DIY / Kit / Small-Run';
+    if (/modern boutique|boutique|one-person|small batch|hand-made/.test(text)) return 'Independent / Boutique Builders';
+    if (/manufacturer/.test(text) && !/historical/.test(text)) return 'Major Manufacturers';
+    if (/manufacturer/.test(text)) return 'Historical / Defunct Builders';
+    if (/historical|defunct|rare|unresolved/.test(text)) return 'Historical / Defunct Builders';
+    return 'Independent / Boutique Builders';
   };
   const familyFor = name => {
     const n = String(name || '').trim().toLowerCase();
