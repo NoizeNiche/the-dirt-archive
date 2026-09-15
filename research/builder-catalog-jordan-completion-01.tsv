@@ -1,0 +1,14 @@
+canonical_builder	marketed_name	model_or_product	category	period_anchor	evidence_state	relationship_notes	source_refs
+Jordan Electronics	Jordan	Boss Tone Model 1000 v1	fuzz	1966	DOCUMENTARY_INDEX	Earliest documented Boss Tone state. 1966 advertising and surviving examples establish an early version before the later Pasadena and Sho-Sound states. Treat as a production state, not a separate builder.	https://www.tonemachinesblog.com/2011/10/jordan-boss-tone-1967.html; https://www.tonemachinesblog.com/2025/02/earliest-jordan-boss-tone-advertisement.html
+Jordan Electronics	Jordan	Boss Tone Model 1000 v2	fuzz	1967-1968	INDEXED	Effects Database identifies a Pasadena Jordan Electronics v2 state. Keep enclosure/circuit differences for later archaeology.
+https://www.effectsdatabase.com/model/jordan/bosstone
+Jordan Electronics	Jordan / Sho-Sound	Boss Tone Model 1000 v3	fuzz	1968-1970s	INDEXED	Nashville Sho-Sound v3 is a marketed/licensed state associated with Jordan. Do not count Sho-Sound as a separate physical manufacturer without evidence.
+https://www.effectsdatabase.com/model/jordan/bosstone
+Jordan Electronics	Jordan	Boss Tone / BossTone family	fuzz	1966-1970s	FAMILY_NODE	Family node retained to prevent v1/v2/v3 from becoming false duplicate products.
+https://www.effectsdatabase.com/model/jordan/bosstone
+Jordan Electronics	Jordan	Boss Boost Model 3000	boost / boundary	1966-1970s	INDEXED	Jordan Juniors companion product. Kept outside central OD/fuzz/distortion count but retained for historical context.
+https://www.effectsdatabase.com/model/jordan/bossboost
+Jordan Electronics	Jordan	Vico Vibe	vibe / boundary	1960s	BOUNDARY	Non-dirt Jordan Juniors product. Retained only as a scope-boundary relationship.
+https://www.effectsdatabase.com/model/jordan/mahoney/vicovibe
+Jordan Electronics	Sho-Sound	Sho-Sound Boss Tone	fuzz	late 1960s-1970s	MARKETED_OEM_RELATIONSHIP	Licensed/badged Nashville identity. Preserve as a searchable marketed record linked to Jordan rather than duplicating the builder.
+https://www.tonemachinesblog.com/2011/10/jordan-boss-tone-1967.html; https://www.effectsdatabase.com/model/jordan/bosstone
