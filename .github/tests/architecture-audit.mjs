@@ -12,20 +12,25 @@ if (!sources.includes('app.js')) failures.push('app.js is not loaded by index.ht
 if (!sources.includes('catalog-lineage-static.js')) failures.push('deterministic lineage renderer is not loaded by index.html');
 if (sources.includes('catalog-lineage-runtime.js')) failures.push('legacy lineage MutationObserver runtime is still loaded by index.html');
 if (sources.some(src => /catalog-thumbnails-3[5-9]-runtime\.js|catalog-thumbnails-4[0-2]-runtime\.js/.test(src))) failures.push('retired duplicate media runtime files are still referenced by index.html');
+if (!sources.includes('catalog-identification-desk.js')) failures.push('identification desk is not loaded by index.html');
+if (!sources.includes('catalog-photo-desk.js')) failures.push('photo desk is not loaded by index.html');
+if (!index.includes('catalog-experience.css')) failures.push('experience stylesheet is not loaded by index.html');
 
 const runtimeFiles = [
   'public/catalog-research-runtime.js',
   'public/catalog-research-ui.js',
   'public/catalog-visual-references.js',
   'public/catalog-polish.js',
-  'public/catalog-specimen-ui.js'
+  'public/catalog-specimen-ui.js',
+  'public/catalog-identification-desk.js',
+  'public/catalog-photo-desk.js'
 ];
 
 for (const path of runtimeFiles) {
   const text = await read(path);
   const observers = (text.match(/new MutationObserver/g) || []).length;
   if (observers > 0) {
-    if (path.endsWith('catalog-research-ui.js') || path.endsWith('catalog-specimen-ui.js') || path.endsWith('catalog-visual-references.js') || path.endsWith('catalog-research-runtime.js')) failures.push(`${path} still uses MutationObserver`);
+    if (path.endsWith('catalog-research-ui.js') || path.endsWith('catalog-specimen-ui.js') || path.endsWith('catalog-visual-references.js') || path.endsWith('catalog-research-runtime.js') || path.endsWith('catalog-identification-desk.js') || path.endsWith('catalog-photo-desk.js')) failures.push(`${path} still uses MutationObserver`);
     else console.log(`INFO  ${path}: ${observers} MutationObserver instance(s) remain during staged refactor`);
   }
 }
@@ -57,6 +62,16 @@ const researchRuntime = await read('public/catalog-research-runtime.js');
 if (!/window\.pedalPage/.test(researchRuntime)) failures.push('research runtime lost deterministic pedalPage integration');
 if (!/research-dossier/.test(researchRuntime)) failures.push('research runtime lost dossier output');
 if (/new MutationObserver/.test(researchRuntime)) failures.push('research runtime still uses MutationObserver');
+
+const identify = await read('public/catalog-identification-desk.js');
+if (!/IDENTIFICATION DESK/.test(identify)) failures.push('identification desk title is missing');
+if (!/Candidate records/.test(identify)) failures.push('identification desk candidate output is missing');
+if (/new MutationObserver/.test(identify)) failures.push('identification desk still uses MutationObserver');
+
+const photos = await read('public/catalog-photo-desk.js');
+if (!/PHOTO DESK/.test(photos)) failures.push('photo desk title is missing');
+if (!/Every record/.test(photos)) failures.push('photo desk all-record output is missing');
+if (/new MutationObserver/.test(photos)) failures.push('photo desk still uses MutationObserver');
 
 const app = await read('public/app.js');
 if (!/function pedalPage\(/.test(app)) failures.push('app.js lost its canonical pedalPage renderer');
