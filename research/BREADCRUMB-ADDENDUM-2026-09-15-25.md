@@ -2,13 +2,14 @@
 
 Append-only continuation of `research/BREADCRUMB.md` and prior addenda.
 
-## YARP batch 32/33/34/35/36 handoff
+## YARP batch 32/33/34/35/36/37 handoff
 
 Extended the duplicate/alias and OEM reconciliation into European vintage dirt.
 
 Committed:
 - `research/european-oem-reconciliation-01.tsv`
 - `research/italian-vox-jen-eme-production-switch-01.tsv`
+- `research/italian-vox-jen-eme-expansion-02.tsv`
 
 ## Historical findings
 
@@ -18,6 +19,7 @@ Committed:
 - Vox V828/V8281 is retained as an Italian path distinct from the British Sola Sound route.
 - New source validation identifies an earlier Italian V828 manufacturing state by EME (Elettronica Musicale Europea), followed by later JEN production. This is now recorded as a period-specific manufacturing transition rather than a single-builder attribution.
 - Thomas Organ's North American V828 marketed/distribution path remains separate from the physical Italian builder record.
+- Vox 9-3700 Fuzz-Wah is a documented physical-manufacturer exception: the surviving base-plate evidence identifies Thomas Organ in California, so the broader JEN relationship for Vox effects is not inherited automatically.
 - Later Vox V829 is treated as a successor/revival state, not as a continuation of the original V828 manufacturing record.
 
 ## Validation posture
@@ -42,6 +44,7 @@ No schematics, PCB layouts, gutshot libraries, complete BOMs, or cloning instruc
 - https://fuzzboxes.org/transitionaltonebender
 - https://www.voxshowroom.com/us/misc/v828.html
 - https://www.voxshowroom.com/us/misc/v829.html
+- https://www.voxshowroom.com/us/misc/fuzzwah.html
 - https://www.effectsdatabase.com/model/jen/fuzz
 - https://www.effectsdatabase.com/model/elka/fuzz
 - https://www.effectsdatabase.com/model/unicord/fuzz
