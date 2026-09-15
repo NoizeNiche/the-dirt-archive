@@ -64,6 +64,8 @@ Default sequence:
 4. Only then deepen individual pedal records from those completed builder catalogs.
 5. Periodically audit earlier builders for omissions before declaring a census corridor complete.
 
+**Continuous-run rule:** when the user says YARP or KEEP GOING, do not stop after one builder or pause for builder-by-builder status announcements. Work in batches across multiple chronological and regional strata, update the repository, and report only after the batch is actually complete.
+
 Do not let interesting individual pedals hijack the queue if their builder's catalog is not yet substantially enumerated.
 
 ### 7. Scope and evidence boundaries
@@ -77,28 +79,16 @@ Never publish schematics, PCB layouts, complete BOMs, gutshot libraries, cloning
 Earlier passes sometimes moved from builder discovery directly into individual pedal archaeology. **That is no longer the default workflow.** Existing deep pedal records remain valuable and should not be discarded, but future breadth work must prioritize completing the builder universe and each builder's dirt catalog first.
 
 ### Current strategic target
-Build the strongest practical builder/product universe for **1966-2026** before treating the individual-pedal layer as complete. Total completeness is not claimed until the builder census, catalog enumeration, duplicate/OEM reconciliation, and unresolved-candidate queues have been systematically audited.
+Build the strongest practical builder/product universe for **1960-2026** before treating the individual-pedal layer as complete. Total completeness is not claimed until the builder census, catalog enumeration, duplicate/OEM reconciliation, and unresolved-candidate queues have been systematically audited.
 
 ### YARP milestone: canonical builder master ledger
 The active builder-first phase now includes `research/builder-master-census-01.tsv`. This ledger separates **identity status** from **catalog status**, so a builder can be canonicalized without being falsely treated as catalog-complete. It also records lineage notes for aliases, successor names, OEM relationships, collaborations, revival identities, and unresolved factory attribution.
 
-Pass 59 work has begun from the newest census strata, including historical German, British, Italian and Japanese manufacturers plus current micro-builders. Recent examples include Schaller, Blackfield Orchester-Elektronik, Firstman/Hillwood, JEN Elettronica, Selmer (UK), O.C.E. Pedals, Colortone Pedals, Colombo Audio Electronics, Höfner, and several unresolved marketed-brand/OEM nodes. The newest census rows explicitly include reconciliation-only records for O.C.E. Wrench lineage and Colortone naming, confirming that these should not become duplicate builder cards.
+### Recent continuous-run batches
+Recent runs have mapped indexed catalog baselines for EFX Custom Effects, Boot-Leg Hand Made Effects, Ovaltone, GoosoniqueWorx, Shin's Music, JAM Pedals, Human Gear, Leqtique, Plan-9, Sobbat, Hudson Electronics UK, Pigdog, Schaller, Höfner, EKO, Jennings Electronic Industries, Morley/Tel-Ray, Free The Tone, Providence, SEHAT Effectors and additional historical/regional builders.
 
-### YARP milestone: EFX Custom Effects catalog baseline
-EFX Custom Effects is now the second major builder to receive a dedicated catalog baseline. The canonical builder is the São Paulo, Brazil entity associated with Eugenio Gregorio. Effects Database documents the business as beginning in 2002 and being formalized in 2009, with 72 indexed products. The current official store separately groups 25 products under distortion, overdrive and fuzz: 12 distortion, 7 fuzz and 6 overdrive.
+A dedicated regional sweep also added builder census records spanning Australia, Brazil, Canada, France, Germany, Greece, Indonesia, Italy, Japan, Malaysia, Norway, Poland, Singapore, Sweden, the United Kingdom and the United States, along with unresolved or micro-builder entities where the surviving documentary trail is thin.
 
-The new `research/builder-catalog-efx-custom-effects-01.tsv` keeps these evidence layers separate. It maps current dirt products, historically indexed dirt products and relevant octave-fuzz hybrids, while preserving ambiguous names such as Double Trouble and Super Driver as unresolved rather than guessing their roles. Historical `Dangerous Drive SS` and current `Dangerous Drive` are linked as a product-line continuity rather than being treated as unrelated builder records. Clean preamp products such as Classic AC and Orange Juice remain explicit scope-boundary records.
-
-This pass does **not** declare EFX lifetime-catalog complete. The current store is a present-day snapshot and the Effects Database page is a historical/index snapshot, so the archive preserves both rather than manufacturing a single synthetic catalog count.
-
-### YARP milestone: uninterrupted P0 catalog batch
-The next builder-first run moved directly through the P0 queue instead of stopping after each builder. Dedicated indexed-catalog baselines were added for **Boot-Leg Hand Made Effects (18), Ovaltone (22), GoosoniqueWorx (10), Shin's Music (27), JAM Pedals (33), Human Gear (15), Leqtique (5), and Plan-9 (19)**. The canonical master ledger and completion queue now record these builders as `INDEXED_BASELINE_MAPPED`.
-
-The catalog files deliberately keep utility products, compressors, buffers, modulation, clean boosts and other non-dirt products as boundary records, while uncertain gain products remain role-review rather than being forced into OD, distortion or fuzz. Product-family continuity and dated first-run evidence are preserved where the source supports them, but individual pedal specimen archaeology remains deferred until the builder universe is substantially mapped.
-
-### YARP milestone: batch sweep into 1960s-2020s catalogs
-The uninterrupted sweep continued across both boutique and historical strata. New catalog baselines were added for **Sobbat (19 indexed products), Hudson Electronics UK (22), Pigdog (16), Schaller (15), and Höfner's documented dirt/OEM family**. Sobbat's indexed line captures Drive Breaker, Fuzz Breaker, bass and octave-fuzz families; Hudson's catalog separates its three Broadcast/AP preamps from the dirt line; Pigdog's 16-product index preserves the small-batch fuzz and Tone Bender-family record while keeping its treble booster and amp unit as boundaries.
-
-Historical Schaller work now treats Fuzz, Fuzz-Sustain and Wha-Wha-Fuzz as the central indexed dirt products while preserving the remaining 15-product Effects Database universe as scope context. Höfner is likewise retained as the marketed/instrument-maker entity, with the No. 539 and Z-series fuzz lineage preserved separately from the later 2009 Höfner Fuzz snapshot. This prevents Schaller-built OEM products from becoming duplicate builder cards while still keeping their branded identities searchable.
+The current archive deliberately separates present-day storefront snapshots, historical database indexes, OEM/rebrand relationships, and discovery-only leads rather than collapsing them into false single counts. The 1960-2026 sweep therefore grows as a layered geological record: documented builders first, complete catalogs second, deep specimen archaeology later.
 
 The active rule remains: **canonical builder entity first; historical names and relationships attached to that entity; full dirt catalog second; individual pedal archaeology third.**
