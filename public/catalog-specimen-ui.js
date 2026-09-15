@@ -7,7 +7,7 @@
     if(!p)return [];
     const structured=Array.isArray(window.DATA?.generations)?window.DATA.generations.filter(g=>g.pedal_id===p.pedal_id):[];
     if(structured.length)return structured.map((g,i)=>({id:g.generation_id,name:g.name||g.label||`Generation ${i+1}`,start_year:g.start_year,end_year:g.end_year,summary:g.summary||g.description||''}));
-    const researched=Array.isArray(p.archive_research?.generations)?p.archive_research.generations:[];
+    const researched=Array.isArray(p.archive_research?.generations)?p.archive_research.generations:(window.DIRT_RESEARCH_GENERATIONS?.[p.model_name]||[]);
     return researched.map((g,i)=>{const years=String(g.years||'');const matches=years.match(/(\d{4})\D*(\d{4})?/);return {id:g.generation_id||`GEN-${String(p.model_name||'pedal').toLowerCase().replace(/[^a-z0-9]+/g,'-')}-${String(i+1).padStart(2,'0')}`,name:g.name||g.label||`Generation ${i+1}`,start_year:g.start_year||(matches?Number(matches[1]):null),end_year:g.end_year||(matches&&matches[2]?Number(matches[2]):null),summary:g.summary||g.notes||g.description||''};});
   };
   const recordsFor=(title,builderName)=>{const list=specs().filter(s=>String(s.title||'').trim()===String(title||'').trim());const tagged=list.filter(s=>s.builder);if(builderName&&tagged.length){const exact=tagged.filter(s=>String(s.builder).trim().toLowerCase()===String(builderName).trim().toLowerCase());if(exact.length)return exact;return list.filter(s=>!s.builder);}return list;};
