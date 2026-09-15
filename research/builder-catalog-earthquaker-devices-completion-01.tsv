@@ -1,0 +1,19 @@
+canonical_builder	product_name	dirt_role	catalog_record_state	notes	source_refs
+EarthQuaker Devices	Acapulco Gold	DISTORTION	ENUMERATED	Power-amp-style distortion family.	https://www.earthquakerdevices.com/overdrive
+EarthQuaker Devices	Plumes	OVERDRIVE	ENUMERATED	Core overdrive family; later artwork/reissue states require specimen reconciliation.	https://www.earthquakerdevices.com/overdrive
+EarthQuaker Devices	Blumes	OVERDRIVE	ENUMERATED	Low-frequency variant of the Plumes family; keep as distinct retail model.	https://www.earthquakerdevices.com/overdrive
+EarthQuaker Devices	Special Cranker	OVERDRIVE	ENUMERATED	Current overdrive family.	https://www.earthquakerdevices.com/overdrive
+EarthQuaker Devices	Zoar	DISTORTION	ENUMERATED	Current distortion family.	https://www.earthquakerdevices.com/overdrive
+EarthQuaker Devices	Westwood	OVERDRIVE	ENUMERATED	Historical/current overdrive family; legacy status must remain separate from new releases.	https://www.earthquakerdevices.com/devices
+EarthQuaker Devices	Palisades	OVERDRIVE	ENUMERATED	Historical multi-voice overdrive; legacy product.	https://www.earthquakerdevices.com/devices
+EarthQuaker Devices	Talons	OVERDRIVE_DISTORTION	ENUMERATED	Historical gain family; exact category retained broadly pending deeper audit.	https://www.earthquakerdevices.com/devices
+EarthQuaker Devices	Hoof	FUZZ	ENUMERATED	Core hybrid fuzz family.	https://www.earthquakerdevices.com/fuzz
+EarthQuaker Devices	Hizumitas	FUZZ	ENUMERATED	Signature fuzz family.	https://www.earthquakerdevices.com/fuzz
+EarthQuaker Devices	Barrows	FUZZ	ENUMERATED	Current fuzz family member.	https://www.earthquakerdevices.com/fuzz
+EarthQuaker Devices	Bellows	FUZZ_DRIVER	ENUMERATED	Legacy/reissue fuzz-driver family.	https://www.earthquakerdevices.com/fuzz
+EarthQuaker Devices	Fuzz Master General	FUZZ	ENUMERATED	Legacy reissue; preserve as distinct historical/reissue product state.	https://www.earthquakerdevices.com/fuzz
+EarthQuaker Devices	Octave Fuzz Blaster	FUZZ_OCTAVE	ENUMERATED	Limited edition octave fuzz state.	https://www.earthquakerdevices.com/fuzz
+EarthQuaker Devices	Gary	FUZZ_OVERDRIVE	ENUMERATED	Hybrid automatic fuzz/dynamic overdrive, current catalog.	https://www.earthquakerdevices.com/devices
+EarthQuaker Devices	Life Pedal	DISTORTION_OCTAVE	ENUMERATED	Sunn O))) collaboration family; preserve edition lineage.	https://www.earthquakerdevices.com/devices
+EarthQuaker Devices	Life Pedal V3	DISTORTION_OCTAVE	CANDIDATE	Specific revision naming requires explicit historical promotion later.	https://www.earthquakerdevices.com/devices
+EarthQuaker Devices	Swiss Things	SCOPE_BOUNDARY	BOUNDARY	Signal-routing utility, retain in builder context only.	https://www.earthquakerdevices.com/devices
