@@ -1,0 +1,5 @@
+builder	retail_model	product_role	era	region	identity_status	catalog_status	relationship_notes	sources
+Jordan Electronics	Boss Tone	fuzz	1966-1970s	USA	CANONICAL	INDEXED_BASELINE_MAPPED	Jordan/Victoreen original; distinguish Alhambra, Pasadena and later Nashville/Sho-Sound states.	JHS Jordan history; Vintage Guitar; Effects Database
+Jordan Electronics	Boss Boost	boost/dirt boundary	1966-1970s	USA	CANONICAL	INDEXED_BASELINE_MAPPED	Part of documented 1966 Jordan Juniors group.	Tone Machines Jordan Juniors; JHS Jordan history
+Jordan Electronics	Vico Vibe	boundary non-dirt	1966+	USA	CANONICAL	BOUNDARY	Jordan Juniors member, retained for catalog context.	Tone Machines Jordan Juniors
+Sho-Sound	Boss Tone	licensed/marketed fuzz state	1970s	USA	MARKETED_STATE	INDEXED_RELATIONSHIP	Nashville/Sho-Bud branding; factory attribution unresolved.	Effects Database; Guitar World
