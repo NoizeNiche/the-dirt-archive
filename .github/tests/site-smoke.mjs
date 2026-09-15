@@ -1,19 +1,20 @@
 import { chromium } from 'playwright';
 
 const base = 'http://127.0.0.1:4173';
-const checks = [
-  {name:'home', hash:'', selector:'h1', text:'Document'},
-  {name:'builders index', hash:'#/builders', selector:'.detail-title', text:'Builders'},
-  {name:'fuzz category', hash:'#/category/fuzz', selector:'.detail-title', text:'Fuzz'},
-  {name:'overdrive category', hash:'#/category/overdrive', selector:'.detail-title', text:'Overdrive'},
-  {name:'distortion category', hash:'#/category/distortion', selector:'.detail-title', text:'Distortion'},
-  {name:'pedal detail', hash:'#/pedal/Fuzz%20Face', selector:'.detail-title', text:'Fuzz Face'},
-  {name:'about', hash:'#/about', selector:'.detail-title', text:'About'}
-];
+const failures = [];
+
+async function expectText(page, name, hash, selector, text) {
+  await page.goto(`${base}/${hash}`, {waitUntil:'networkidle', timeout:30000});
+  await page.waitForTimeout(250);
+  const node = page.locator(selector).first();
+  await node.waitFor({state:'visible', timeout:10000});
+  const actual = await node.textContent();
+  if (!actual?.includes(text)) throw new Error(`${name}: expected ${selector} to contain "${text}", got "${actual}"`);
+  console.log(`PASS  ${name}`);
+}
 
 const browser = await chromium.launch({headless:true});
 const page = await browser.newPage();
-const failures = [];
 
 page.on('pageerror', error => failures.push(`pageerror: ${error.message}`));
 page.on('console', message => {
@@ -21,30 +22,55 @@ page.on('console', message => {
 });
 
 try {
-  for (const check of checks) {
-    const url = `${base}/${check.hash}`;
-    await page.goto(url, {waitUntil:'networkidle', timeout:30000});
-    await page.waitForTimeout(250);
-    const node = page.locator(check.selector).first();
-    await node.waitFor({state:'visible', timeout:10000});
-    const text = await node.textContent();
-    if (!text?.includes(check.text)) {
-      throw new Error(`Expected ${check.selector} to contain "${check.text}", got "${text}"`);
-    }
-    console.log(`PASS  ${check.name}`);
+  const indexResponse = await page.request.get(`${base}/index.html`);
+  if (!indexResponse.ok()) throw new Error(`index.html returned HTTP ${indexResponse.status()}`);
+  const indexHtml = await indexResponse.text();
+  const scriptSources = [...indexHtml.matchAll(/<script[^>]+src=["']([^"']+)["']/gi)].map(m => m[1]);
+  if (!scriptSources.length) throw new Error('No JavaScript files are referenced by index.html');
+  const missingScripts = [];
+  for (const src of scriptSources) {
+    const response = await page.request.get(`${base}/${src}`);
+    if (!response.ok()) missingScripts.push(`${src} (${response.status()})`);
   }
+  if (missingScripts.length) throw new Error(`Missing/broken script files: ${missingScripts.join(', ')}`);
+  console.log(`PASS  script references (${scriptSources.length} checked)`);
+
+  const dataResponse = await page.request.get(`${base}/data.json`);
+  if (!dataResponse.ok()) throw new Error(`data.json returned HTTP ${dataResponse.status()}`);
+  const data = await dataResponse.json();
+  for (const key of ['builders','pedals','generations','runs','distinguishers','claims','sources']) {
+    if (!Array.isArray(data[key])) throw new Error(`data.json is missing required array: ${key}`);
+  }
+  if (!data.pedals.some(p => String(p.model_name || '').toLowerCase() === 'fuzz face')) throw new Error('data.json does not contain the Fuzz Face record');
+  console.log('PASS  data structure');
+
+  await expectText(page, 'home', '', 'h1', 'Document');
+  await expectText(page, 'builders index', '#/builders', '.detail-title', 'Builders');
+  await expectText(page, 'fuzz category', '#/category/fuzz', '.detail-title', 'Fuzz');
+  await expectText(page, 'overdrive category', '#/category/overdrive', '.detail-title', 'Overdrive');
+  await expectText(page, 'distortion category', '#/category/distortion', '.detail-title', 'Distortion');
+  await expectText(page, 'pedal detail', '#/pedal/Fuzz%20Face', '.detail-title', 'Fuzz Face');
+  await expectText(page, 'about', '#/about', '.detail-title', 'About');
+
+  await page.goto(`${base}/#/builders`, {waitUntil:'networkidle', timeout:30000});
+  const builderLink = page.locator('a.builder-feature').first();
+  await builderLink.waitFor({state:'visible', timeout:10000});
+  const builderName = (await builderLink.locator('h2').textContent())?.trim();
+  if (!builderName) throw new Error('Builders page did not expose a builder destination');
+  await builderLink.click();
+  await page.waitForTimeout(250);
+  const builderTitle = await page.locator('.detail-title').first().textContent();
+  if (!builderTitle?.trim()) throw new Error('Builder detail route did not render a title');
+  console.log(`PASS  builder detail (${builderName})`);
 
   await page.goto(`${base}/#/`, {waitUntil:'networkidle', timeout:30000});
-  const searchButton = page.locator('#searchBtn');
-  await searchButton.click();
+  await page.locator('#searchBtn').click();
   await page.locator('#searchDialog').waitFor({state:'visible', timeout:5000});
-  const searchInput = page.locator('#searchInput');
-  await searchInput.fill('Fuzz Face');
-  await page.waitForTimeout(100);
+  await page.locator('#searchInput').fill('Fuzz Face');
+  await page.waitForTimeout(150);
   const results = await page.locator('#searchResults').textContent();
   if (!results?.includes('Fuzz Face')) throw new Error('Search did not return Fuzz Face');
   console.log('PASS  search');
-
   await page.locator('.close').click();
   await page.locator('#searchDialog').waitFor({state:'hidden', timeout:5000});
   console.log('PASS  search close');
