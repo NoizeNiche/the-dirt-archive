@@ -1,0 +1,16 @@
+source_entity	target_entity	relationship_type	public_status	confidence	public_note	evidence
+Honey FY-6	Shin-Ei FY-6	SUCCESSOR_MARKETING_LINEAGE	PROMOTE	HIGH	1967 Honey and 1968 Shin-Ei FY-6 states should be shown as sequential historical identities.	https://shin-ei.com/
+Shin-Ei FY-6	Univox Super-Fuzz	OEM_MARKET_LINEAGE	PROMOTE	HIGH	Keep Univox as a separate retail identity within the FY-6 family.
+https://www.effectsdatabase.com/model/shinei/companion
+JEN Fuzz	Vox V828/V8281	OEM_CONTRACT_LINEAGE	PROMOTE	HIGH	Link the Italian JEN retail state to the Vox V828/V8281 family without collapsing retail names.
+https://www.effectsdatabase.com/model/jen/diecast/fuzz
+JEN	Vox V846 / Thomas Cry Baby	MANUFACTURING_RELATIONSHIP	PROMOTE	HIGH	JEN production should be displayed as a manufacturing relationship; US Thomas production remains distinct.
+https://www.voxshowroom.com/us/misc/jenwah.html
+Teisco Fuzz Machine	Ibanez Standard Fuzz No.59	OEM_FAMILY	HOLD_FOR_REVIEW	MEDIUM	Show as an evidence-qualified family edge until factory chronology is reconciled across sources.
+https://www.effectsdatabase.com/model/teisco/fuzzmachine
+Coron Distortion 10	Grant Distortion 10	OEM_REBRAND	PROMOTE	HIGH	Separate marketed identity, same documented Coron family.
+https://www.effectsdatabase.com/model/coron/first/distortion10
+Coron Over Drive	Storm Over Drive	OEM_REBRAND	PROMOTE	HIGH	Separate marketed identity, same Coron manufacturer family.
+https://www.effectsdatabase.com/model/storm/coron/overdrive
+Sobbat DB-2	Sobbat DB-4	PRODUCT_FAMILY	PROMOTE	HIGH	Family edge only; do not imply DB-4 is a revision of DB-2.
+https://www.effectsdatabase.com/model/sobbat/db2 ; https://www.effectsdatabase.com/model/sobbat/db4
