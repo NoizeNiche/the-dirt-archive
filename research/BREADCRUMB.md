@@ -92,6 +92,9 @@ A dedicated regional sweep also added builder census records spanning Australia,
 ### YARP milestone: Japanese and regional discovery expansion
 A further discovery batch has now added Albit, Limetone Audio, Organic Sounds, RoShi Pedals, MASF Pedals, Tanabe.TV, Weed, Bananana Effects, KATANASOUND, Iannucci Audio and Kappa Electronics as dedicated builder-census targets. These remain discovery or candidate records rather than falsely complete catalogs. Primary manufacturer sources are preferred where available; specialist coverage and community reporting are retained as discovery evidence only.
 
+### YARP milestone: early British fuzz census expansion
+A new historical batch adds dedicated builder/census targets for G. P. Electronics, WEM, Rotosound, Baldwin-Burns/Burns London, Selmer (UK), John Hornby Skewes, Wilsic Sound, Barnes & Mullins/Exel, Park and Marshall Amplification. The associated catalog layer records early British fuzz products and, crucially, their changing manufacturer/marketing relationships: Sola Sound supply to Rotosound and Park, Sola Sound then Wilsic Sound production for Zonk II, and the early Sola Sound-supplied versus later Marshall-manufactured Supa Fuzz phases. The Harmonic Generator is retained as an early antecedent record with a deliberately cautious attribution state because original surviving evidence is extremely thin.
+
 The current archive deliberately separates present-day storefront snapshots, historical database indexes, OEM/rebrand relationships, and discovery-only leads rather than collapsing them into false single counts. The 1960-2026 sweep therefore grows as a layered geological record: documented builders first, complete catalogs second, deep specimen archaeology later.
 
 The active rule remains: **canonical builder entity first; historical names and relationships attached to that entity; full dirt catalog second; individual pedal archaeology third.**
