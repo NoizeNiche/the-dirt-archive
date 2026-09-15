@@ -31,6 +31,14 @@ if (/new MutationObserver/.test(lineageStatic)) failures.push('deterministic lin
 if (!/window\.pedalPage/.test(lineageStatic)) failures.push('deterministic lineage renderer lost pedalPage integration');
 if (!/lineage-map/.test(lineageStatic)) failures.push('deterministic lineage renderer lost lineage section output');
 
+const mediaCanonical = await read('public/catalog-thumbnails-33-runtime.js');
+if (!/window\.imageFor\s*=/.test(mediaCanonical)) failures.push('canonical media runtime lost imageFor integration');
+const duplicateMediaRuntimes = [35, 36, 37, 38, 39, 40, 41, 42].map(n => `public/catalog-thumbnails-${n}-runtime.js`);
+for (const path of duplicateMediaRuntimes) {
+  const text = await read(path);
+  if (/window\.imageFor\s*=/.test(text)) failures.push(`${path} still implements a duplicate imageFor runtime`);
+}
+
 const app = await read('public/app.js');
 if (!/function pedalPage\(/.test(app)) failures.push('app.js lost its canonical pedalPage renderer');
 if (!/window\.addEventListener\('hashchange',route\)/.test(app)) failures.push('app.js lost canonical route change handling');
@@ -39,16 +47,7 @@ if (!/fetch\('data\.json'\)/.test(app)) failures.push('app.js lost its explicit 
 const researchUi = await read('public/catalog-research-ui.js');
 if (!/__dirtArchiveResearchCardWrapped/.test(researchUi)) failures.push('research UI card wrapper is missing');
 if (!/__dirtArchiveResearchPageWrapped/.test(researchUi)) failures.push('research UI page wrapper is missing');
-
-const forbidden = [
-  ['public/catalog-identity-routing.js', /pedalPage\s*=\s*function/, 'identity routing still wraps pedalPage'],
-  ['public/catalog-identity-routing.js', /pedalCard\s*=\s*function/, 'identity routing still wraps pedalCard']
-];
-for (const [path, pattern, message] of forbidden) {
-  const text = await read(path);
-  if (!pattern.test(text)) continue;
-  console.log(`INFO  ${message}`);
-}
+if (/new MutationObserver/.test(researchUi)) failures.push('research UI still uses MutationObserver');
 
 if (failures.length) {
   console.error('\nArchitecture audit failures:');
