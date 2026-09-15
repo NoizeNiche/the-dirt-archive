@@ -39,8 +39,9 @@ When a builder changed names, ownership, manufacturing location, or commercial i
 - Builder identity reconciliation exists at `research/builder-identity-reconciliation-01.tsv` and `research/builder-identity-reconciliation-02.tsv`.
 - Builder-first research order exists at `research/BREADCRUMB.md`.
 - Builder completion queue exists at `research/builder-completion-queue-01.tsv`.
-- Canonical builder master ledger now exists at `research/builder-master-census-01.tsv`.
-- No additional individual-pedal record is being treated as the next automatic unit of work merely because it is interesting.
+- Canonical builder master ledger exists at `research/builder-master-census-01.tsv`.
+- Tym Guitars now has a dedicated 76-product indexed-catalog inventory at `research/builder-catalog-tym-guitars-01.tsv`.
+- No individual pedal has been promoted to deep archaeology merely because it is interesting.
 
 ### Pass 59 progress
 The latest builder-census strata were audited and promoted into the canonical master ledger as a first consolidated identity layer. Important newly consolidated/flagged cases include:
@@ -53,7 +54,14 @@ The latest builder-census strata were audited and promoted into the canonical ma
 - Firstman / Hillwood reconciled as one Japanese manufacturer/brand lineage, with Multivox retained as a separate customer/marketing entity.
 - JEN Elettronica, Selmer (UK), Morley/Tel-Ray and related historical manufacturer nodes retained with OEM/brand distinctions intact.
 
-This pass does **not** declare any of those builders catalog-complete. Identity normalization and catalog enumeration remain separate statuses by design.
+### Tym Guitars catalog-completion pass
+The Effects Database baseline currently lists **76 Tym Guitars products**. The new catalog inventory enumerates all 76 names in that indexed baseline. Of those, 69 are retained as dirt or dirt-adjacent products for the working catalog and 7 boost-only products are retained as scope-boundary records so the builder's broader catalog is not silently lost.
+
+The builder chronology is now kept separate from the product list: Effects Database's Tim Brennan interview says the business was founded in 1997, first pedals appeared in 1998, and the line was substantially redone around 2008. Tym's own 2013 history describes an earlier seriously marketed pedal generation beginning around 2002. These are chronology anchors, not a synthetic single launch date.
+
+Several useful family signals are now captured without prematurely doing version archaeology: the Cerberus series sits in the late-1990s history; the Big Mud/Mudd cluster contains multiple explicit named states; Tymexar has multiple distortion states; Overdrive Preamp/666 is documented as a DOD 250-derived product; This Machine Kills Fascists exists as separate distortion and fuzz versions; Fuzzerator is a later Big Mud-family state; and signature/limited products such as Fuzz Munchkin, Tatanka, Dead Meadow, Beauty & Ruin, Engine of Ruin, Seaweed Fuzz, Club 76 and Stranded are retained as separate catalog identities pending deeper history.
+
+This pass therefore changes Tym Guitars from `NOT_ENUMERATED` to `INDEXED_BASELINE_MAPPED` in the master ledger. It does **not** declare the builder's lifetime catalog exhaustive, and it does not begin specimen/generation archaeology yet.
 
 ### Next target
-Continue the queue builder-by-builder. For each builder, produce a canonical identity record and full OD/distortion/fuzz product inventory first. Start with the highest-value incomplete catalogs, while continuing periodic duplicate/alias/OEM audits across the older census strata. Only after a builder's dirt catalog is substantially mapped should its individual pedals return to the deep archaeology queue.
+Move to the next high-value incomplete builder, preferably EFX Custom Effects or another P0 catalog with a large, regionally important dirt footprint. Continue the same pattern: canonical identity → full indexed/catalog enumeration → relationship reconciliation → only then individual pedal archaeology. Periodically audit older census strata for duplicate names and omitted catalogs before declaring a builder corridor complete.
