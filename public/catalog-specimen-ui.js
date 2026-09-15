@@ -1,7 +1,7 @@
 (() => {
   const esc=v=>String(v??'').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
   const specs=()=>Array.isArray(window.DIRT_SPECIMENS)?window.DIRT_SPECIMENS:[];
-  const pedalFromHash=()=>{const raw=location.hash.replace(/^#\/?pedal\//,'');const key=decodeURIComponent(raw);const pedals=Array.isArray(window.DATA?.pedals)?window.DATA.pedals:[];return pedals.find(p=>String(p.pedal_id)===key)||pedals.find(p=>String(p.model_name||'').trim().toLowerCase()===key.trim().toLowerCase())||null;};
+  const pedalFromHash=()=>{const raw=location.hash.replace(/^#\/?pedal\//,'');let key=raw;try{key=decodeURIComponent(raw)}catch{}const pedals=Array.isArray(window.DATA?.pedals)?window.DATA.pedals:[];return pedals.find(p=>String(p.pedal_id)===key)||pedals.find(p=>String(p.model_name||'').trim().toLowerCase()===key.trim().toLowerCase())||null;};
   const builderFor=p=>{const builders=Array.isArray(window.DATA?.builders)?window.DATA.builders:[];return p?builders.find(b=>b.builder_id===p.primary_builder_id):null;};
   const generationRecords=p=>{
     if(!p)return [];
@@ -14,6 +14,12 @@
   const cleared=s=>['cleared','licensed','permission granted','owned','public domain','cc-by','cc-by-sa'].includes(String(s?.rights||s?.rights_status||'reference').trim().toLowerCase())&&s?.public_use_decision!=='pending';
   const imageSearch=(title,g)=>`https://www.google.com/search?tbm=isch&q=${encodeURIComponent(`${title} ${g.name||''} ${g.start_year||''} guitar pedal vintage`)}`;
   const visual=(s,title,g)=>cleared(s)&&s.src?`<a class="generation-visual-link" href="${esc(s.page||s.src)}" target="_blank" rel="noopener"><img class="generation-visual" src="${esc(s.src)}" alt="${esc(title)} ${esc(g.name)} visual reference" loading="lazy" referrerpolicy="no-referrer"></a>`:`<a class="generation-visual-pending" href="${esc(s?.page||imageSearch(title,g))}" target="_blank" rel="noopener"><span>PHOTO</span><small>${s?'external reference':'find a photo'}</small></a>`;
+
+  function debugState(){
+    const p=pedalFromHash();
+    return {hash:location.hash,pedal:p?.model_name||null,generationCount:generationRecords(p).length,structuredCount:Array.isArray(window.DATA?.generations)?window.DATA.generations.filter(g=>g.pedal_id===p?.pedal_id).length:0,researchGlobalCount:Array.isArray(window.DIRT_RESEARCH_GENERATIONS?.[p?.model_name])?window.DIRT_RESEARCH_GENERATIONS[p.model_name].length:0,headingPresent:!!document.querySelector('.detail-title'),guidePresent:!!document.querySelector('.generation-visual-section'),specimenCount:specs().filter(s=>String(s.title||'').trim()===String(p?.model_name||'').trim()).length};
+  }
+  window.DIRT_GENERATION_GUIDE_DEBUG=debugState;
 
   function renderGenerationVisuals(){
     const p=pedalFromHash();if(!p)return false;
