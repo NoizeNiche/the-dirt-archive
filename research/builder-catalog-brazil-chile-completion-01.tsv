@@ -1,0 +1,28 @@
+canonical_builder	product_name	dirt_role	catalog_record_state	period_or_corridor	confidence	notes	evidence
+Fuhrmann	Bass Fuzz	BASS_FUZZ	VERIFIED_SECONDARY	2000s-2010s	HIGH	Effects Database indexes the Bass Fuzz as a Fuhrmann product; retain as dedicated bass-dirt record.	https://www.effectsdatabase.com/model/fuhrmann/bassfuzz
+Fuhrmann	Big Fuzz	FUZZ	VERIFIED_SECONDARY	2010s	MEDIUM	Effects Database catalog lists Big Fuzz; exact launch date remains open.	https://www.effectsdatabase.com/model/fuhrmann
+Fuhrmann	Classic Fuzz	FUZZ	VERIFIED_SECONDARY	2010s	MEDIUM	Effects Database catalog lists Classic Fuzz; chronology remains open.	https://www.effectsdatabase.com/model/fuhrmann
+Fuhrmann	Classic 800	OVERDRIVE_DISTORTION	VERIFIED_SECONDARY	2012+	HIGH	Effects Database documents the Classic 800 and dated 2012 product-launch material.	https://www.effectsdatabase.com/model/fuhrmann/classic800
+Fuhrmann	High Gain	DISTORTION	VERIFIED_SECONDARY	2010s	HIGH	Effects Database indexes High Gain and dated 2011 material.	https://www.effectsdatabase.com/model/fuhrmann/highgain
+Fuhrmann	Punch Box	DISTORTION	VERIFIED_SECONDARY	2011+	HIGH	Effects Database documents Punch Box and 2011 review/demo trail.	https://www.effectsdatabase.com/model/fuhrmann/punchbox
+Fuhrmann	Super Metal Drive	DISTORTION	VERIFIED_SECONDARY	2011-2015	HIGH	Effects Database documents SM02 Super Metal Drive 2 and 2011/2015 catalog-era references.	https://www.effectsdatabase.com/model/fuhrmann/metaldrive/super
+Fuhrmann	Power Drive	OVERDRIVE	CATALOG_INDEXED	2010s	MEDIUM	Listed in Fuhrmann's 39-product Effects Database catalog; product-specific chronology pending.	https://www.effectsdatabase.com/model/fuhrmann
+Fuhrmann	Lead Drive	OVERDRIVE	CATALOG_INDEXED	2010s	MEDIUM	Listed in Fuhrmann's catalog; product-specific chronology pending.	https://www.effectsdatabase.com/model/fuhrmann
+Fuhrmann	Metal Drive	DISTORTION	CATALOG_INDEXED	2010s	MEDIUM	Listed in Fuhrmann's catalog; distinguish from Super Metal Drive.	https://www.effectsdatabase.com/model/fuhrmann
+Fuhrmann	Dual High Gain	DISTORTION	CATALOG_INDEXED	2010s	MEDIUM	Listed in Fuhrmann catalog; dual-channel identity needs product-page recovery.	https://www.effectsdatabase.com/model/fuhrmann
+Fuhrmann	Rocking Tube	OVERDRIVE	CATALOG_INDEXED	2010s	MEDIUM	Listed as high-voltage overdrive; retain as separate model.	https://www.effectsdatabase.com/model/fuhrmann
+Fuhrmann	Tube Drive	OVERDRIVE	CATALOG_INDEXED	2010s	MEDIUM	Listed in Fuhrmann catalog; product-specific evidence pending.	https://www.effectsdatabase.com/model/fuhrmann
+Fuhrmann	Battle Power - De Ros signature	DISTORTION	CATALOG_INDEXED	2010s	MEDIUM	Artist-signature high-gain pedal listed in Fuhrmann catalog; keep signature state separate.	https://www.effectsdatabase.com/model/fuhrmann
+NIG	FZD Multi Fuzz and Vintage Distortion	FUZZ_DISTORTION	VERIFIED_SECONDARY	2007+	HIGH	Effects Database dates publication to 2007 and documents the two-effect retail model.	https://www.effectsdatabase.com/model/nig/fzd
+NIG	FZD-AT Andy Timmons signature	FUZZ_DISTORTION	SIGNATURE_LIMITED	2016-era launch; 2025 index	HIGH	Limited signature edition of FZD; retain as separate edition rather than separate base family.	https://www.effectsdatabase.com/model/nig/fzd/at
+NIG	Bass Plus - Felipe Andreoli signature	BASS_OVERDRIVE	VERIFIED_SECONDARY	2014+	HIGH	Effects Database dates the product to August 2014 and identifies it as a NIG overdrive/bass-drive product.	https://www.effectsdatabase.com/model/nig/pocket/bassplus
+GNI	PFT Fuzz Tortion	FUZZ_DISTORTION	VERIFIED_SECONDARY	2010+	HIGH	Effects Database documents GNI PFT Fuzz Tortion and identifies it as designed and assembled in Brazil.	https://www.effectsdatabase.com/model/gni/pocket/pft
+GNI	DD-1 Dual Drive	OVERDRIVE	VERIFIED_SECONDARY	2016+	HIGH	Effects Database documents the Dual Drive as a two-stage overdrive product and a 2016 GNI/NIG model.	https://www.effectsdatabase.com/model/gni/dd1
+Richón	Ketchup Overdrive	OVERDRIVE	HISTORICAL_CATALOG_ANCHOR	2007-2015	HIGH	BioBioChile reports Richón began formal work in 2007 and identifies Ketchup Overdrive among the seven-pedal line available in 2015.
+https://www.biobiochile.cl/noticias/2015/10/25/richon-los-amplificadores-y-pedales-de-guitarra-chilenos-hechos-a-la-medida.shtml
+Richón	Mustard Distortion	DISTORTION	HISTORICAL_CATALOG_ANCHOR	2007-2015	HIGH	2015 BioBioChile profile explicitly identifies Mustard Distortion.
+https://www.biobiochile.cl/noticias/2015/10/25/richon-los-amplificadores-y-pedales-de-guitarra-chilenos-hechos-a-la-medida.shtml
+Richón	BBQ Boost/Distortion	BOOST_DISTORTION	HISTORICAL_CATALOG_ANCHOR	2007-2015	HIGH	2015 BioBioChile profile explicitly identifies the BBQ Boost/Distortion.
+https://www.biobiochile.cl/noticias/2015/10/25/richon-los-amplificadores-y-pedales-de-guitarra-chilenos-hechos-a-la-medida.shtml
+Richón	Remaining historical seven-pedal line	CATALOG_COMPLETION_PENDING	FUZZ_OD_DISTORTION	2007-2015	MEDIUM	2015 profile states the line had seven products and included overdrives, distortions, boosters and fuzz, but the remaining names were not recovered in this pass.
+https://www.biobiochile.cl/noticias/2015/10/25/richon-los-amplificadores-y-pedales-de-guitarra-chilenos-hechos-a-la-medida.shtml
