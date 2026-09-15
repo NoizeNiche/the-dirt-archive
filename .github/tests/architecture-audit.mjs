@@ -79,8 +79,8 @@ if (!/window\.addEventListener\('hashchange',route\)/.test(app)) failures.push('
 if (!/fetch\('data\.json'\)/.test(app)) failures.push('app.js lost its explicit data.json load boundary');
 
 const researchUi = await read('public/catalog-research-ui.js');
-if (!/__dirtArchiveResearchCardWrapped/.test(researchUi)) failures.push('research UI card wrapper is missing');
-if (!/__dirtArchiveResearchPageWrapped/.test(researchUi)) failures.push('research UI page wrapper is missing');
+const researchUsesDeterministicApi = /window\.DIRT_RESEARCH_UI\s*=\s*\{[^}]*ensureCardBadges[^}]*ensurePageStatus[^}]*schedule/s.test(researchUi);
+if (!researchUsesDeterministicApi) failures.push('research UI no longer exposes its deterministic settling API');
 if (/new MutationObserver/.test(researchUi)) failures.push('research UI still uses MutationObserver');
 
 if (failures.length) {
