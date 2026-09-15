@@ -1,0 +1,62 @@
+builder	model_or_family	category	era_or_corridor	catalog_status	evidence_level	relationship_notes	source_trail
+Abominable Electronics	Hail Satan	DISTORTION_FUZZ	2014-2016	ENUMERATED	SECONDARY_HISTORICAL	Early documented flagship dirt product; 2014 demo trail predates Effects Database publication. Preserve later Deluxe/Russian/Hail Santa states separately.	https://www.effectsdatabase.com/model/abominable/hailsatan ; https://www.effectsdatabase.com/model/abominable
+Abominable Electronics	Demon Lung	FUZZ	2015-2016	ENUMERATED	SECONDARY_INDEX	Indexed as hyper-fuzz clone; exact first-release date remains to be refined.	https://www.effectsdatabase.com/model/abominable
+Abominable Electronics	Don't Shred on Me / Deluxe	DISTORTION_FUZZ	2015-2016	ENUMERATED	SECONDARY_INDEX	Two catalog states retained separately because Deluxe is a distinct product state.	https://www.effectsdatabase.com/model/abominable
+Abominable Electronics	God Botherer	FUZZ_HYBRID	2016	ENUMERATED	SECONDARY_INDEX	Fuzz/phaser hybrid; retain in dirt-adjacent catalog.	https://www.effectsdatabase.com/model/abominable
+Abominable Electronics	Oppressive Cult Destroyer	FUZZ_DISTORTION	2015-2016	ENUMERATED	SECONDARY_INDEX	Mapped flagship-style dirt family; exact first-sale date unresolved.	https://www.effectsdatabase.com/model/abominable
+Abominable Electronics	Toke Machine	OCTAVE_FUZZ	2015-2016	ENUMERATED	SECONDARY_INDEX	Octave fuzz product.	https://www.effectsdatabase.com/model/abominable
+Abominable Electronics	Yeti Fuzz	FUZZ	2015-2016	ENUMERATED	SECONDARY_INDEX	Vintage-germanium-oriented fuzz product.	https://www.effectsdatabase.com/model/abominable
+IdiotBox	-D4 Distortion	DISTORTION	2012-2016	ENUMERATED	SECONDARY_HISTORICAL	Published May 14, 2012; later reissue is separate from original record.	https://www.effectsdatabase.com/model/idiotbox/d4
+IdiotBox	Death Ray Frequency Mangler	FUZZ_HYBRID	2012	ENUMERATED	SECONDARY_HISTORICAL	Published March 31, 2012; glitch/frequency-divider hybrid with filtered-fuzz behavior.	https://www.effectsdatabase.com/model/idiotbox/deathray
+IdiotBox	Blower Box	BASS_DISTORTION	2014-2015	ENUMERATED	SECONDARY_HISTORICAL	First very limited run of 15 documented; later recognized as broad bass OD/distortion rather than only a Voivod-specific tone.	https://www.effectsdatabase.com/model/idiotbox/blowerbox
+IdiotBox	Static Fuzz	FUZZ	2014-2015	ENUMERATED	SECONDARY_HISTORICAL	Documented product/video trail from 2014; Effects Database publication March 24, 2015.	https://www.effectsdatabase.com/model/idiotbox/staticfuzz
+KMA Audio Machines	Fuzzly Bear	FUZZ	2015	ENUMERATED	SECONDARY_HISTORICAL	Published March 26, 2015; Jordan Bosstone-influenced design. Builder states pedals were designed, assembled, silkscreened, tested and numbered by hand while using externally manufactured PCBs.	https://www.effectsdatabase.com/model/kma/fuzzlybear
+KMA Audio Machines	Dead Stag	DISTORTION_FUZZ	2016	ENUMERATED	SECONDARY_HISTORICAL	Published September 21, 2016; Muff-family evolution with active EQ and parametric mids.	https://www.effectsdatabase.com/model/kma/deadstag
+KMA Audio Machines	Wurm	DISTORTION	2017	ENUMERATED	SECONDARY_HISTORICAL	Published January 30, 2017; HM-2 MIJ-inspired distortion, distinct from later Wurhm limited edition.
+https://www.effectsdatabase.com/model/kma/wurm
+KMA Audio Machines	Logan / Transcend Drive	OVERDRIVE	2016-2017	ENUMERATED	SECONDARY_INDEX	Indexed dirt model; exact first release date requires chronological follow-up.
+https://www.effectsdatabase.com/model/kma
+KMA Audio Machines	Minos	FUZZ	2016-2017	ENUMERATED	SECONDARY_INDEX	Germanium fuzz model in indexed KMA catalog.
+https://www.effectsdatabase.com/model/kma
+Greer Amplification	Lightspeed	OVERDRIVE	2013-2015	ENUMERATED	SECONDARY_HISTORICAL	Published August 20, 2013; original Greer platform with documented development by iterative listening and small changes.
+https://www.effectsdatabase.com/model/greer/lightspeed
+Greer Amplification	390 Vintage OD Preamp	OVERDRIVE	2014	ENUMERATED	SECONDARY_HISTORICAL	Published March 9, 2014; DOD 250-inspired starting point but builder explicitly describes circuit changes, so do not merge with DOD.
+https://www.effectsdatabase.com/model/greer/390
+Greer Amplification	Southland Harmonic Overdrive	OVERDRIVE	2014-2015	ENUMERATED	SECONDARY_HISTORICAL	Published September 24, 2014; developed on the Lightspeed platform with more gain and a second clipping stage.
+https://www.effectsdatabase.com/model/greer/southland
+Spruce Effects	Salt Water Fuzz	FUZZ	2005-2016	ENUMERATED	PRIMARY_INTERVIEW_PLUS_SECONDARY	Builder Brian says first pedal was built in 2005; later boutique development led to Spruce Effects and a fuzz-focused catalog. Exact commercial release dates require further chronology.
+https://reverb.com/news/the-fuzz-that-broke-the-brand-a-conversation-with-spruce-effects ; https://www.effectsdatabase.com/model/spruce
+Spruce Effects	Old Growth Fuzz	FUZZ	2010s	ENUMERATED	SECONDARY_INDEX	Mapped early/mid-period fuzz product; exact first-sale date unresolved.
+https://www.effectsdatabase.com/model/spruce
+Spruce Effects	Lichen Fuzz / Lichen Fuzz Overgrowth	FUZZ	2010s	ENUMERATED	SECONDARY_INDEX	Two related product states retained separately.
+https://www.effectsdatabase.com/model/spruce
+Spruce Effects	Giganteum Drive	OVERDRIVE	2010s	ENUMERATED	SECONDARY_INDEX	Mapped Spruce dirt product.
+https://www.effectsdatabase.com/model/spruce
+Spruce Effects	Treemolo Fuzz	FUZZ_HYBRID	2017	ENUMERATED	SECONDARY_HISTORICAL	Published March 6, 2017; Tone Mob/Spruce collaboration combining fuzz and tremolo.
+https://www.effectsdatabase.com/model/spruce/treemolofuzz
+Daredevil Pedals	'77 IC Op-Amp Fuzz	FUZZ_DISTORTION	2013-2015	ENUMERATED	SECONDARY_HISTORICAL	Published January 4, 2014; Chicago Music Exchange exclusive. Preserve as collaboration/exclusive retail state.
+https://www.effectsdatabase.com/model/daredevil/opamp/77
+Daredevil Pedals	Nova Fuzz	FUZZ	2014	ENUMERATED	SECONDARY_HISTORICAL	Published June 16, 2014; original silicon design, distinct from Big Muff-derived catalog items.
+https://www.effectsdatabase.com/model/daredevil/nova
+Daredevil Pedals	Model 2015 Chicago Big Fuzz	FUZZ	2015	ENUMERATED	SECONDARY_INDEX	Indexed 2015 Chicago product; retain city/exclusive naming as marketed identity.
+https://www.effectsdatabase.com/model/daredevil
+Daredevil Pedals	Northern Creeper	FUZZ	2015-2016	ENUMERATED	SECONDARY_INDEX	Mapped dirt product in 2015-2016 catalog corridor.
+https://www.effectsdatabase.com/model/daredevil
+Daredevil Pedals	Knuckle Duster	OVERDRIVE	2015-2017	ENUMERATED	SECONDARY_INDEX	Mapped overdrive product; exact first-release date requires follow-up.
+https://www.effectsdatabase.com/model/daredevil
+Daredevil Pedals	Premium Hand-Crafted Transistor Overdrive	OVERDRIVE	2017	ENUMERATED	SECONDARY_HISTORICAL	Published February 9, 2017; separate from later Premium OD V2 states.
+https://www.effectsdatabase.com/model/daredevil/premiumod
+Vein-Tap	Angel Of Blues	OVERDRIVE	2015-2016	ENUMERATED	SECONDARY_INDEX	Mapped catalog overdrive.
+https://www.effectsdatabase.com/model/veintap
+Vein-Tap	Angel of Doom	FUZZ	2015-2016	ENUMERATED	SECONDARY_INDEX	Mapped fuzz product.
+https://www.effectsdatabase.com/model/veintap
+Vein-Tap	Angel Of Rock	DISTORTION	2015-2016	ENUMERATED	SECONDARY_INDEX	Mapped distortion product.
+https://www.effectsdatabase.com/model/veintap
+Vein-Tap	Holy Ghost Fuzz and Boost	FUZZ_BOOST	2015-2016	ENUMERATED	SECONDARY_INDEX	Hybrid fuzz/boost product.
+https://www.effectsdatabase.com/model/veintap
+Vein-Tap	Saint Doom	FUZZ	2015-2016	ENUMERATED	SECONDARY_INDEX	Silicon fuzz product.
+https://www.effectsdatabase.com/model/veintap
+Vein-Tap	Dark Triad	OVERDRIVE_DISTORTION	2016	ENUMERATED	SECONDARY_HISTORICAL	Published April 6, 2016 with a documented April 24 release-date target; three-band EQ and selectable clipping states.
+https://www.effectsdatabase.com/model/veintap/darktriad
+Vein-Tap	Holy Roar	DISTORTION_BOOST	2016	ENUMERATED	SECONDARY_HISTORICAL	Published July 15, 2016; JTM45-based distortion with separate boost channel.
+https://www.effectsdatabase.com/model/veintap/holyroar
