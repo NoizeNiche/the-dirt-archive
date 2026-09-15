@@ -78,3 +78,10 @@ Earlier passes sometimes moved from builder discovery directly into individual p
 
 ### Current strategic target
 Build the strongest practical builder/product universe for **1966-2026** before treating the individual-pedal layer as complete. Total completeness is not claimed until the builder census, catalog enumeration, duplicate/OEM reconciliation, and unresolved-candidate queues have been systematically audited.
+
+### YARP milestone: canonical builder master ledger
+The active builder-first phase now includes `research/builder-master-census-01.tsv`. This ledger separates **identity status** from **catalog status**, so a builder can be canonicalized without being falsely treated as catalog-complete. It also records lineage notes for aliases, successor names, OEM relationships, collaborations, revival identities, and unresolved factory attribution.
+
+Pass 59 work has begun from the newest census strata, including historical German, British, Italian and Japanese manufacturers plus current micro-builders. Recent examples include Schaller, Blackfield Orchester-Elektronik, Firstman/Hillwood, JEN Elettronica, Selmer (UK), O.C.E. Pedals, Colortone Pedals, Colombo Audio Electronics, Höfner, and several unresolved marketed-brand/OEM nodes. The newest census rows explicitly include reconciliation-only records for O.C.E. Wrench lineage and Colortone naming, confirming that these should not become duplicate builder cards.
+
+The active rule remains: **canonical builder entity first; historical names and relationships attached to that entity; full dirt catalog second; individual pedal archaeology third.**
