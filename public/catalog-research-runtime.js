@@ -1,7 +1,9 @@
 (() => {
   const esc = v => String(v ?? '').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
   let catalog=null;
+  let lineage=null;
   const load=()=>catalog||fetch('data.json').then(r=>r.json()).then(d=>(catalog=d));
+  const loadLineage=()=>lineage||fetch('lineage.json').then(r=>r.json()).then(d=>(lineage=Array.isArray(d)?d:[]));
 
   const currentPedal = () => {
     const parts=location.hash.replace(/^#\/?/,'').split('/').filter(Boolean);
@@ -28,6 +30,33 @@
     });
   }
 
+  const normalize=v=>String(v??'').trim().toLowerCase().replace(/[–—]/g,'-');
+  const lineageMatches=(edge,name)=>normalize(edge.source)===normalize(name)||normalize(edge.target)===normalize(name);
+
+  function refreshPedalLineage(){
+    if(document.getElementById('lineage-map')) return;
+    const heading=document.querySelector('.detail-title');
+    const article=document.querySelector('.detail-layout article');
+    if(!heading||!article) return;
+    const name=heading.textContent.trim();
+    loadLineage().then(edges=>{
+      const related=edges.filter(e=>lineageMatches(e,name));
+      if(!related.length) return;
+      const rows=related.map(e=>{
+        const source=normalize(e.source)===normalize(name);
+        const counterpart=source?e.target:e.source;
+        const arrow=source?'→':'←';
+        return `<div class="source-row"><strong>${esc(arrow)} ${esc(counterpart)}</strong><small>${esc(e.relationship)} · confidence ${esc(e.confidence)}</small></div>`;
+      }).join('');
+      const section=document.createElement('section');
+      section.className='detail-section';
+      section.id='lineage-map';
+      section.innerHTML=`<h2>Lineage & relationships</h2><p>Validated public lineage links. Marketed identities and physical builders remain separate records.</p><div class="source-list">${rows}</div>`;
+      const about=article.querySelector('.detail-section');
+      about?.after(section);
+    }).catch(()=>{});
+  }
+
   function refreshPedalPage(){
     const heading=document.querySelector('.detail-title');
     if(!heading || document.getElementById('research-dossier')) return;
@@ -46,7 +75,7 @@
     about?.after(section);
   }
 
-  function refresh(){load().then(()=>{refreshCards();refreshPedalPage();}).catch(()=>{});}
+  function refresh(){load().then(()=>{refreshCards();refreshPedalPage();refreshPedalLineage();}).catch(()=>{});}
   window.addEventListener('hashchange',()=>setTimeout(refresh,30));
   setTimeout(refresh,120);
 })();
