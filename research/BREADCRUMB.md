@@ -110,4 +110,25 @@ The same batch added a Japanese export/OEM fringe layer around Honey, Rands, Sha
 
 The current archive deliberately separates present-day storefront snapshots, historical database indexes, OEM/rebrand relationships, and discovery-only leads rather than collapsing them into false single counts. The 1960-2026 sweep therefore grows as a layered geological record: documented builders first, complete catalogs second, deep specimen archaeology later.
 
+### YARP milestone: foundational P0 builder completion batch 02
+A new breadth-first research batch has begun structured completion work on **DOD, BOSS, Electro-Harmonix, MXR and ProCo**. These are major historical builders and are intentionally retained as active completion targets rather than falsely marked complete.
+
+- **DOD:** 250 Overdrive Preamp is established as the primary historical anchor; official DigiTech history also identifies the FX69 Grunge, Death Metal, Carcosa Fuzz and FX10 BiFET Preamp among notable DOD products. The 250's 1974 introduction and later 50th Anniversary edition are separated.
+- **BOSS:** OD-1 (1977) is established as the first BOSS compact effect, followed by DS-1 (1978); the initial dirt family now has an explicit completion queue covering OD-2, SD-1, DS-2, HM-2, OS-2, BD-2, MT-2, MD-2 and later fuzz/bass/dirt models. Anniversary OD-1 reissue states remain separate from original production.
+- **Electro-Harmonix:** LPB-1 (1968), Big Muff Pi (1969), and Hot Tubes (1978 original) are now explicit historical anchors. The current official dirt-category catalog has been captured as a baseline, while historical production eras and later reissues remain to be reconciled.
+- **MXR:** Distortion+ and Blue Box are established as foundational dirt entries. Original MXR production and the later Jim Dunlop acquisition/revival are retained as separate ownership/production states.
+- **ProCo:** the RAT family is treated as a true product family rather than a single model. The working chronology includes Bud Box, Big Box V1/V2, Small Box, R2DU, RAT 2, Turbo RAT, Vintage Reissue, Brat, Roadkill, Deucetone, You Dirty RAT, SOLO, FATRAT, anniversary/reissue states and Lil' RAT. Secondary chronology is retained as evidence trails and not as permission to publish circuit reconstruction material.
+
+The supporting batch file is `research/builder-completion-batch-02-foundational-american-japanese.md`. The active next move is **catalog completion**, not individual specimen archaeology: enumerate missing dirt models from historical catalogs and manufacturer archives, then reconcile OEM/rebrand overlaps against builders already in the census.
+
+### YARP milestone: DOD dirt catalog expansion batch
+A dedicated DOD catalog pass has now been committed as `research/builder-catalog-dod-completion-02.tsv`. It expands the previously sparse DOD baseline into a structured model list spanning the 250 lineage, FX-series overdrive/fuzz/distortion models, bass dirt, the late-1990s FX100/FX101/FX102 group, the YJM308 signature model, and boundary/candidate records. Period advertising, current DOD/DigiTech manuals, historical catalog indexes, and specialist historical sources were cross-checked.
+
+Important new DOD catalog records include **FX50, FX50B, FX51 Juice Box, FX52 Classic Fuzz, FX53 Classic Tube, FX54 Attacker, FX55/55B/55C, FX56/56B, FX57, FX58 Metal Maniac, FX59 Thrash Master, FX66 Flashback Fuzz, FX69/69B Grunge, FX70/70C, FX70P/MF70 Big Pig, FX76 Punkifier, FX86/86B Death Metal, FX91 Bass Overdrive, FX92 Bass Grunge, FX100 Integrated Tube Even Harmonic Overdrive, FX101 Grind, FX102 Mystic Blues Overdrive and YJM308.** The batch also records FX16 Ultimate Destroyer as a catalog candidate requiring further verification.
+
+The DOD evidence trail shows why the archive must distinguish **model existence** from **exact production state**. A 1992 Japanese catalog page, for example, lists FX50B, FX52, FX53, FX55B, FX56, FX57, FX58 and FX59 together, while current DigiTech manuals index later models such as FX66, FX69B, FX70, FX86, FX91, FX92, FX101 and FX102. Official DigiTech history separately explains the FX-series expansion in the 1980s and the later Jason Lamb-era experimental models. This pass therefore improves breadth without pretending the lifetime DOD catalog is finished.
+
+### Current active queue
+Continue catalog completion on the remaining P0 builders, with special attention to historical paper catalogs and manufacturer archives that can reveal discontinued or regional models. Reconcile suffix variants and OEM/rebrand relationships before promoting any builder from `CENSUS_ONLY` to a stronger catalog status.
+
 The active rule remains: **canonical builder entity first; historical names and relationships attached to that entity; full dirt catalog second; individual pedal archaeology third.**
