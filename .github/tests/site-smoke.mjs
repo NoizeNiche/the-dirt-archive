@@ -16,7 +16,10 @@ async function expectText(page, name, hash, selector, text) {
 const browser = await chromium.launch({headless:true});
 const page = await browser.newPage();
 
-page.on('pageerror', error => failures.push(`pageerror: ${error.message}`));
+page.on('pageerror', error => {
+  const stack = error.stack ? `\n${error.stack.split('\n').slice(0,5).join('\n')}` : '';
+  failures.push(`pageerror: ${error.message}${stack}`);
+});
 page.on('console', message => {
   if (message.type() === 'error') failures.push(`console: ${message.text()}`);
 });
