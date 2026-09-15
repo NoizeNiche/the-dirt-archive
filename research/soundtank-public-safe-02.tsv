@@ -1,0 +1,11 @@
+source_entity	target_entity	relationship_type	public_status	confidence	public_note	evidence
+Ibanez SoundTank family	1989 SoundTank catalog	CATALOG_CORRIDOR	PROMOTE	HIGH	Official Ibanez catalog archive confirms a dedicated 1989 SoundTank catalog state.	https://www.ibanez.com/usa/support/catalogs/
+Ibanez CR5	SoundTank metal-enclosure corridor	PRODUCTION_STATE	PROMOTE	HIGH	CR5 belongs to the original metal-enclosure SoundTank catalog corridor; do not inherit later plastic-era assumptions.	https://www.ibanez.com/usa/support/catalogs/
+Ibanez TM5	SoundTank metal-enclosure corridor	PRODUCTION_STATE	PROMOTE	HIGH	TM5 is documented in the early SoundTank catalog corridor.	https://www.ibanez.com/usa/support/catalogs/
+Ibanez SF5	SoundTank metal-enclosure corridor	PRODUCTION_STATE	PROMOTE	HIGH	SF5 60's Fuzz is documented in the early SoundTank corridor.	https://www.ibanez.com/usa/support/catalogs/
+Ibanez SF5	Ibanez FZ5	SUCCESSOR_MODEL_LINEAGE	PROMOTE	HIGH	Treat the SF5/FZ5 names as a linked model lineage, not as unrelated fuzz families.
+https://www.effectsdatabase.com/model/ibanez/soundtank/sf5
+Ibanez TS5	SoundTank family	MODEL_SPECIFIC_EXCEPTION	PROMOTE	HIGH	TS5 must be kept model-specific; do not infer Maxon manufacture from the broader Ibanez/Maxon relationship.
+https://www.effectsdatabase.com/model/ibanez/soundtank/ts5
+Ibanez SoundTank family	Maxon	MANUFACTURING_RELATIONSHIP	HOLD_FOR_REVIEW	MEDIUM	Corporate histories conflict with specialist/model-specific evidence; no blanket public attribution.
+https://maxonfx.com/pages/about-maxon-guitar-effects-pedals-maxonfx-com ; https://aionfx.com/project/stratus-classic-overdrive/
