@@ -15,8 +15,6 @@ if (sources.includes('catalog-lineage-runtime.js')) failures.push('legacy lineag
 const runtimeFiles = [
   'public/catalog-research-runtime.js',
   'public/catalog-research-ui.js',
-  'public/catalog-lineage-runtime.js',
-  'public/catalog-specimen-ui.js',
   'public/catalog-visual-references.js',
   'public/catalog-polish.js'
 ];
@@ -24,7 +22,8 @@ const runtimeFiles = [
 for (const path of runtimeFiles) {
   const text = await read(path);
   const observers = (text.match(/new MutationObserver/g) || []).length;
-  if (observers > 0) console.log(`INFO  ${path}: ${observers} MutationObserver instance(s) remain during staged refactor`);
+  if (path.endsWith('catalog-research-ui.js') && observers > 0) failures.push(`${path} still uses MutationObserver`);
+  else if (observers > 0) console.log(`INFO  ${path}: ${observers} MutationObserver instance(s) remain during staged refactor`);
 }
 
 const lineageStatic = await read('public/catalog-lineage-static.js');
