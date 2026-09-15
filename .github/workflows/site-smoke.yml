@@ -36,7 +36,18 @@ jobs:
         run: |
           python3 -m http.server 4173 --directory public > /tmp/dirt-archive-server.log 2>&1 &
           echo $! > /tmp/dirt-archive-server.pid
-          sleep 2
+          for attempt in 1 2 3 4 5 6 7 8 9 10; do
+            if curl --fail --silent --show-error http://127.0.0.1:4173/index.html > /dev/null; then
+              echo "Static site is ready on attempt ${attempt}."
+              break
+            fi
+            if [ "$attempt" = "10" ]; then
+              echo "Static site failed to become ready."
+              cat /tmp/dirt-archive-server.log || true
+              exit 1
+            fi
+            sleep 1
+          done
 
       - name: Run browser smoke tests
         run: node .github/tests/site-smoke.mjs
