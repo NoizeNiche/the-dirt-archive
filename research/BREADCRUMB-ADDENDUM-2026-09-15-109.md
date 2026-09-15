@@ -1,25 +1,27 @@
 # YARP Breadcrumb 109
 
 ## Purpose
-Overlooked American and Italian manufacturing-lineage pass, with strict cross-reference and duplicate suppression. The principal new promotion is InterFax Electronics / Ed Giese; MET is retained only as a research-only predecessor/infrastructure node.
+Overlooked American, Italian and German manufacturing-lineage pass, with strict cross-reference and duplicate suppression.
 
 ## Cross-reference / dedupe decisions
 
-- **InterFax Electronics / Ed Giese** was not found in the reviewed Dirt Archive census/search layer. The HP-1 Harmonic Percolator is directly documented as an InterFax product, so it is promoted as a distinct historical builder identity.
-- **Harmonic Percolator reproductions** by Chuck Collins / Theremaniacs and later builders are not counted as original InterFax products or builders. They remain successor/reproduction relationships.
-- **Micro Electro Tecnica (MET)** is not promoted to confirmed commercial dirt-pedal builder status. Sandro Marchetti's historical interview establishes MET as an early technical/manufacturing lineage associated with Carlo Baldoni and the later Logan/G.I.S./EF-EL ecosystem, but the currently reviewed evidence does not tie a specific commercial dirt pedal to MET with sufficient confidence.
-- **Caldironi / G.I.S. / Goldsound / Cosmosound / EF-EL / Meazzi** remain relationship identities already represented in the archive. New evidence was used only to strengthen the lineage graph, not to create duplicate manufacturers.
-- **Fi-Sonic, Claybridge, Tym Guitars, FBT and existing U.S. micro-builders** were checked conceptually against the current census corridor and were not duplicated in this pass.
+- **InterFax Electronics / Ed Giese** remains a distinct historical builder for the HP-1 Harmonic Percolator.
+- **Micro Electro Tecnica (MET)** remains research-only as historical manufacturing infrastructure until a specific commercial dirt product can be tied to it securely.
+- **Kent Model 6406 The Angry Fuzz** is retained as a research-only marketed/product identity. It is documented as German-made and released in 1971, but the physical factory remains unresolved.
+- **Eurotec** is not a new manufacturer. It is treated as a late-1970s Sola/Colorsound marketed/product-format identity.
+- **Futuristic Sounds Sustain / Orange Sustain / Dharma Sound Sustainer** remain relationship/OEM candidates rather than separate builders.
+- **FBT FF III** remains under the existing JEN lineage as a marketed identity, not an independent Italian factory.
+- **Kent is not merged with Schaller.** The Schaller hypothesis is explicitly unresolved until stronger evidence appears.
 
-## New research records
+## New / updated research records
 
-- `research/builder-discovery-batch-2026-09-15-67.tsv`: BUILDER-100 through BUILDER-101.
-- `research/variation-flags-batch-2026-09-15-09.tsv`: VAR-075 through VAR-078.
+- `research/builder-discovery-batch-2026-09-15-67.tsv`: BUILDER-100 through BUILDER-102.
+- `research/variation-flags-batch-2026-09-15-09.tsv`: extended through VAR-084.
 
 ## Evidence notes
 
-Effects Database and ToneHome both identify InterFax / Ed Giese in Milwaukee, Wisconsin as the maker of the HP-1 Harmonic Percolator, a very small-run 1970s fuzz/distortion pedal. ToneHome also notes multiple versions, so the archive preserves version uncertainty as variation research rather than fabricating a complete production chronology. A separate historical interview with Sandro Marchetti connects MET of Carlo Baldoni to early electronics work and the later Italian Logan/G.I.S./EF-EL ecosystem, but that evidence is better treated as manufacturing-lineage context than a confirmed separate dirt-pedal builder record.
+ToneHome documents Kent Model 6406 The Angry Fuzz as made in Germany and officially released at Musikmesse Frankfurt in 1971. ToneHome also documents Eurotec as a late-1970s Sola/Colorsound brand, while its Futuristic Sounds page links a late-1970s sustainer family across multiple marketed identities. JEN references support treating FBT FF III as a JEN-produced branded relationship. Höfner Wha-Wha-Fuzz is explicitly identified as Schaller-manufactured, but Kent's factory remains unresolved. These distinctions are now preserved as evidence-qualified relationships instead of duplicate builder entries.
 
 ## Next queue
 
-Continue builder-first through overlooked U.S. micro-manufacturers and Italian private-label/OEM corridors, then return to complete Firstman/Hillwood and Pearl chronology work. Maintain explicit separation among builder, marketed identity, designer, OEM, distributor, successor/reissue and specimen. No brand name alone should create a new manufacturer record.
+Return to the highest-value historical gaps: Firstman/Hillwood chronology, Pearl period catalogs, Arion model-by-model production origins, and the unresolved Kent/Blackfield/German manufacturer network. Continue builder-first, with every new label checked against existing manufacturer, OEM, distributor, marketed-brand, designer, successor/reissue and variation records before promotion.
