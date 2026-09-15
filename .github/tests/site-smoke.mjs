@@ -67,12 +67,18 @@ try {
   const browserGenerationCount = await page.evaluate(() => Array.isArray(window.DIRT_RESEARCH_GENERATIONS?.['Fuzz Face']) ? window.DIRT_RESEARCH_GENERATIONS['Fuzz Face'].length : 0);
   if (browserGenerationCount !== 5) throw new Error(`Browser research layer exposed ${browserGenerationCount} Fuzz Face generations, expected 5`);
   console.log('PASS  browser research generation map');
-  if (await page.locator('.generation-visual-section').count() !== 1) {
+  const generationSectionCount = await page.locator('.generation-visual-section').count();
+  if (generationSectionCount !== 1) {
     const debug = await page.evaluate(() => typeof window.DIRT_GENERATION_GUIDE_DEBUG === 'function' ? window.DIRT_GENERATION_GUIDE_DEBUG() : {debugUnavailable:true,hash:location.hash,headingPresent:!!document.querySelector('.detail-title')});
     console.log(`DEBUG generation guide: ${JSON.stringify(debug)}`);
     throw new Error('Fuzz Face did not render the generation guide');
   }
-  if (await page.locator('.generation-visual-row').count() !== 5) throw new Error('Generation guide did not render the five researched Fuzz Face generations');
+  const generationRowCount = await page.locator('.generation-visual-row').count();
+  if (generationRowCount !== 5) {
+    const debug = await page.evaluate(() => ({guideRows:document.querySelectorAll('.generation-visual-row').length,guideHtml:document.querySelector('.generation-visual-section')?.outerHTML.slice(0,4000)||null,state:typeof window.DIRT_GENERATION_GUIDE_DEBUG === 'function' ? window.DIRT_GENERATION_GUIDE_DEBUG() : null}));
+    console.log(`DEBUG generation rows: ${JSON.stringify(debug)}`);
+    throw new Error(`Generation guide rendered ${generationRowCount} rows, expected five researched Fuzz Face generations`);
+  }
   if (await page.locator('.generation-visual-row').first().locator('img.generation-visual').count() !== 1) throw new Error('Fuzz Face first generation does not expose its cleared visual reference');
   if (await page.locator('.specimen-strip,.specimen-gallery').count() !== 0) throw new Error('Legacy specimen strip/gallery is still rendered');
   console.log('PASS  generation visual guide');
