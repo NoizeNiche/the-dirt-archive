@@ -46,6 +46,10 @@ if (!/__dirtArchiveVisualCardWrapped/.test(visualRefs)) failures.push('visual re
 if (!/__dirtArchiveVisualPageWrapped/.test(visualRefs)) failures.push('visual reference page wrapper is missing');
 if (/new MutationObserver/.test(visualRefs)) failures.push('visual reference runtime still uses MutationObserver');
 
+const recentHome = await read('public/catalog-recent-home.js');
+if (/catalog-extensions-8[3-9]\.js/.test(recentHome) || /catalog-extensions-1(?:[0-3]\d|4[0])\.js/.test(recentHome)) failures.push('home runtime must not inject late extension scripts after app bootstrap');
+if (/new Function\s*\(/.test(recentHome)) failures.push('home runtime must not evaluate generated JavaScript dynamically');
+
 const specimenUi = await read('public/catalog-specimen-ui.js');
 if (!/generation-visual-section/.test(specimenUi)) failures.push('generation guide renderer is missing');
 if (!/generation_id/.test(specimenUi)) failures.push('generation guide is not generation-aware');
