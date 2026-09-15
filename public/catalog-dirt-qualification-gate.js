@@ -3,6 +3,8 @@
   let merged=false;
   const qualified=[
     {builder_id:'BLD-QUAL-GP-01',name:'G. P. Electronics',country:'United Kingdom (Devon)',status:'Verified dirt maker',founded:1964,dirt_count:1,description:'Early British fuzz maker documented for the Harmonic Generator, with construction carried out at the G. P. Electronics workshop.',dirt_evidence:'Harmonic Generator',qualification:'verified_dirt_maker'},
+    {builder_id:'BLD-QUAL-ROGERMAYER-01',name:'Roger Mayer',country:'United Kingdom',status:'Verified custom dirt maker',founded:1964,dirt_count:2,description:'Early British custom effects maker documented for 1964 fuzz boxes and the Octavia lineage.',dirt_evidence:'1964 custom fuzz boxes; Octavia',qualification:'verified_custom_dirt_maker'},
+    {builder_id:'BLD-QUAL-REDRHODES-01',name:"Orville 'Red' Rhodes",country:'USA (California)',status:'Verified custom dirt maker',founded:1961,dirt_count:1,description:'California electronics technician and musician documented as the maker of multiple early Rhodes fuzz boxes for professional players.',dirt_evidence:'Rhodes Fuzz Box',qualification:'verified_custom_dirt_maker'},
     {builder_id:'BLD-QUAL-SEAMOON-01',name:'Seamoon Inc.',country:'USA (California)',status:'Verified dirt maker',founded:1973,dirt_count:1,description:'Berkeley effects maker documented for the Fresh Fuzz; original builder identity is kept separate from later tribute/reissue products.',dirt_evidence:'Fresh Fuzz',qualification:'verified_dirt_maker'},
     {builder_id:'BLD-QUAL-CARLSBRO-01',name:'Carlsbro',country:'United Kingdom',status:'Verified dirt maker',founded:1966,dirt_count:1,description:'British amplifier maker documented for the original 1966 Fuzz-Tone; later fuzz production involved Sola Sound.',dirt_evidence:'Fuzz-Tone',qualification:'verified_dirt_maker'},
     {builder_id:'BLD-QUAL-ROSAC-01',name:'Rosac / Sierra Electronics',country:'USA (California)',status:'Verified dirt maker',founded:1968,dirt_count:3,description:'Bakersfield effects maker documented for Nu-Fuzz, Nu-Wa-Fuzz and related dirt products.',dirt_evidence:'Nu-Fuzz; Nu-Wa-Fuzz; Nu-Fuzz Distortion Blender',qualification:'verified_dirt_maker'},
@@ -12,6 +14,8 @@
   ];
   const aliases={
     'g. p. electronics':'BLD-QUAL-GP-01',
+    'roger mayer':'BLD-QUAL-ROGERMAYER-01',
+    "orville 'red' rhodes":'BLD-QUAL-REDRHODES-01',
     'rosac / sierra electronics':'BLD-QUAL-ROSAC-01',
     'aul instruments':'BLD-QUAL-AUL-01',
     'chunk systems':'BLD-QUAL-CHUNK-01',
@@ -29,7 +33,7 @@
         const key=String(q.name).trim().toLowerCase();
         const existing=byName.get(key)||base.builders.find(b=>aliases[key]===b.builder_id);
         if(existing){
-          existing.qualification='verified_dirt_maker';
+          existing.qualification=q.qualification;
           existing.status=q.status;
           existing.dirt_evidence=q.dirt_evidence;
           existing.dirt_count=Math.max(Number(existing.dirt_count||0),Number(q.dirt_count||0));
