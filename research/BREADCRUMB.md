@@ -108,8 +108,6 @@ A subsequent batch mapped the **Coron Musical Instrument Co.** dirt family, incl
 
 The same batch added a Japanese export/OEM fringe layer around Honey, Rands, Shaftesbury, Zenta, Royal, Mirano, Melos and Conrad. These are intentionally mixed evidence states: some are documented relationships, while others remain discovery candidates pending primary-source reconciliation. The archive does not convert a visually similar pedal into a factory attribution merely because the family resemblance is strong.
 
-The current archive deliberately separates present-day storefront snapshots, historical database indexes, OEM/rebrand relationships, and discovery-only leads rather than collapsing them into false single counts. The 1960-2026 sweep therefore grows as a layered geological record: documented builders first, complete catalogs second, deep specimen archaeology later.
-
 ### YARP milestone: foundational P0 builder completion batch 02
 A new breadth-first research batch has begun structured completion work on **DOD, BOSS, Electro-Harmonix, MXR and ProCo**. These are major historical builders and are intentionally retained as active completion targets rather than falsely marked complete.
 
@@ -149,7 +147,7 @@ Recent continuous-run work added structured catalog ledgers for Fulltone, Wample
 Supporting files include `research/YARP-2026-09-14-batch-03.md`, `research/YARP-2026-09-14-batch-04.md`, `research/canonical-relationship-index-01.tsv`, and `research/YARP-2026-09-14-batch-05.md`.
 
 ### YARP milestone: normalized lineage / next-generation handoff
-The current research handoff is now centered on a normalized alias/product relationship layer and Japanese OEM/export census. The next batch should prioritize Shin-Ei, JEN, Coron, Nisshin Onpa/Maxon, Honey, Teisco, Greco, Univox, Shaftesbury, Zenta, Rands, Royal, Mirano, Melos and Conrad, while also auditing remaining P0/P1 builders whose catalog status is still DISCOVERED, CENSUS_ONLY or otherwise incomplete.
+The current research handoff is now centered on a normalized alias/product relationship layer and Japanese OEM/export census. The next batch should prioritize Shin-Ei, JEN, Coron, Nisshin Onpa/Maxon, Honey, Teisco, Greco, Univox, Shaftesbury, Rands, Zenta, Royal, Mirano, Melos and Conrad, while also auditing remaining P0/P1 builders whose catalog status is still DISCOVERED, CENSUS_ONLY or otherwise incomplete.
 
 The lineage layer should remain append-only and evidence-qualified. Model names and marketed aliases can be normalized for search without erasing historical retail identity. Public lineage UI should expose only evidence-reviewed relationships; discovery hypotheses and unresolved factory attributions remain internal research states.
 
@@ -158,5 +156,8 @@ The Japanese OEM/export pass confirms several important cautions for the next ca
 
 Current evidence trail for this pass includes Vox Showroom V828 history, Fuzzboxes' model-specific Tone Bender documentation, Effects Database, and the 2026 Tone Machines Blog research on Shaftesbury. Do not promote the EME/JEN conflict or other low-confidence factory hypotheses into canonical builder attribution until model-specific documentary evidence is reconciled.
 
+### YARP milestone: 2026-09-15 batches 06-07
+Batch 06 added a structured Honey/Shin-Ei/Companion lineage pass plus JEN Elettronica and Coron catalog baselines, with explicit separation of manufacturer, marketed label, OEM relationship, revival and uncertain attribution. Batch 07 extends that work into the FY-6 export web and adjacent British/European catalog layer, adding Univox/Unicord, LRE, Tempo, Crown, Apollo, J.H. Experience, Shaftesbury/Rose-Morris, Teisco Wau Wau, WEM, Rotosound, Park, Selmer (UK), John Hornby Skewes and Firstman/Hillwood as documented or evidence-qualified targets. The supporting files are `research/YARP-2026-09-15-batch-06.md`, `research/YARP-2026-09-15-batch-07.md` and `research/builder-catalog-bridge-batch-07.tsv`.
+
 ### Active next move
-Continue the continuous YARP run with the Japanese OEM/export census and remaining P0/P1 catalog-completion targets. Build breadth first, update the relevant research ledgers and breadcrumb, then return to individual pedal archaeology only after builder/product coverage is substantially mapped.
+Continue the continuous YARP run with model-by-model Japanese FY-6/FY-2 export reconciliation and the remaining British/European P0/P1 builder catalog-completion targets. Keep the archive breadth-first, retain unresolved factory claims as internal evidence states, update the builder/product ledgers, and return to individual specimen archaeology only after builder/product coverage is substantially mapped.
