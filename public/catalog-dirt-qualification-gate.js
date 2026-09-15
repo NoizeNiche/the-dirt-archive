@@ -2,6 +2,7 @@
   const nativeFetch=window.fetch.bind(window);
   let merged=false;
   const qualified=[
+    {builder_id:'BLD-QUAL-GP-01',name:'G. P. Electronics',country:'United Kingdom (Devon)',status:'Verified dirt maker',founded:1964,dirt_count:1,description:'Early British fuzz maker documented for the Harmonic Generator, with construction carried out at the G. P. Electronics workshop.',dirt_evidence:'Harmonic Generator',qualification:'verified_dirt_maker'},
     {builder_id:'BLD-QUAL-SEAMOON-01',name:'Seamoon Inc.',country:'USA (California)',status:'Verified dirt maker',founded:1973,dirt_count:1,description:'Berkeley effects maker documented for the Fresh Fuzz; original builder identity is kept separate from later tribute/reissue products.',dirt_evidence:'Fresh Fuzz',qualification:'verified_dirt_maker'},
     {builder_id:'BLD-QUAL-CARLSBRO-01',name:'Carlsbro',country:'United Kingdom',status:'Verified dirt maker',founded:1966,dirt_count:1,description:'British amplifier maker documented for the original 1966 Fuzz-Tone; later fuzz production involved Sola Sound.',dirt_evidence:'Fuzz-Tone',qualification:'verified_dirt_maker'},
     {builder_id:'BLD-QUAL-ROSAC-01',name:'Rosac / Sierra Electronics',country:'USA (California)',status:'Verified dirt maker',founded:1968,dirt_count:3,description:'Bakersfield effects maker documented for Nu-Fuzz, Nu-Wa-Fuzz and related dirt products.',dirt_evidence:'Nu-Fuzz; Nu-Wa-Fuzz; Nu-Fuzz Distortion Blender',qualification:'verified_dirt_maker'},
@@ -10,6 +11,7 @@
     {builder_id:'BLD-QUAL-MONTARBO-01',name:'Montarbo',country:'Italy',status:'Verified dirt maker',founded:null,dirt_count:1,description:'Italian manufacturer documented for the Sinfhoton fuzz/distortion.',dirt_evidence:'Sinfhoton fuzz/distortion',qualification:'verified_dirt_maker'}
   ];
   const aliases={
+    'g. p. electronics':'BLD-QUAL-GP-01',
     'rosac / sierra electronics':'BLD-QUAL-ROSAC-01',
     'aul instruments':'BLD-QUAL-AUL-01',
     'chunk systems':'BLD-QUAL-CHUNK-01',
