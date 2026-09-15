@@ -1,0 +1,13 @@
+source_entity	target_entity	edge_type	status	confidence	notes	evidence
+Honey FY-6 Baby Crying Fuzz	Shin-Ei FY-6 Super Fuzz	successor_marketing_state	PUBLIC_SAFE_CANDIDATE	HIGH	Shin-Ei's own history states Honey FY-6 released 1967 and Shin-Ei branded FY-6 in 1968.	https://www.shin-ei.com/Shin-ei/SHIN-EI-FY6-SUPER-FUZZ
+Shin-Ei FY-6 Super Fuzz	Companion FY-6 Super Fuzz	marketed_brand_state	PUBLIC_SAFE_CANDIDATE	HIGH	Same FY-6 product family but distinct market naming. Effects Database lists both in Shin-Ei Companion family.	https://www.effectsdatabase.com/model/shinei/companion
+Shin-Ei WF-8	Companion WF-8 8-Tr Fuzz Wah	marketed_brand_state	PUBLIC_SAFE_CANDIDATE	HIGH	Use as a market-name edge, not a separate physical-builder edge.	https://www.effectsdatabase.com/model/shinei/companion/wf8
+Shin-Ei WF-24	Companion WF-24 8-Tr Fuzz Wah	marketed_brand_state	PUBLIC_SAFE_CANDIDATE	HIGH	Wide-format WF-24 belongs to the Shin-Ei/Companion fuzz-wah family.	https://www.effectsdatabase.com/model/shinei/companion/wf24
+Teisco Fuzz Machine	Ibanez Standard Fuzz No. 59	OEM_market_alias	PUBLIC_SAFE_CANDIDATE	HIGH	Effects Database explicitly groups the Ibanez No.59 label in the Teisco Fuzz Machine family.	https://www.effectsdatabase.com/model/teisco/fuzzmachine
+Teisco Fuzz Machine	Antoria Fuzz Machine	OEM_market_alias	PUBLIC_SAFE_CANDIDATE	HIGH	Antoria page places it in the same Standard Fuzz OEM family.	https://www.effectsdatabase.com/model/antoria/fuzzmachine
+Teisco Fuzz Machine	Aria Diamond Fuzz	OEM_market_alias	PUBLIC_SAFE_CANDIDATE	HIGH	Retain the marketed identity while linking to the shared product family.	https://www.effectsdatabase.com/model/teisco/fuzzmachine
+JEN Fuzz	Vox V828 Tone Bender	manufacturer_lineage	PUBLIC_SAFE_CANDIDATE	HIGH	Effects Database identifies Jen Fuzz as sharing the V828/V8281 design and Jen manufacture.	https://www.effectsdatabase.com/model/jen/diecast/fuzz
+JEN Fuzz	Elka Fuzz	OEM_market_alias	PUBLIC_SAFE_CANDIDATE	HIGH	Same Italian Jen family; keep market identity distinct.	https://www.effectsdatabase.com/model/elka/fuzz
+JEN Fuzz	Unicord Fuzz	OEM_market_alias	PUBLIC_SAFE_CANDIDATE	HIGH	Unicord market name identified as Jen-built for North America.	https://www.effectsdatabase.com/model/unicord/fuzz
+Coron Distortion	KMD Distortion	OEM_market_alias	PUBLIC_SAFE_CANDIDATE	HIGH	KMD Distortion is explicitly identified as KMD by Coron.
+https://www.effectsdatabase.com/model/kmd/coron/distortion
