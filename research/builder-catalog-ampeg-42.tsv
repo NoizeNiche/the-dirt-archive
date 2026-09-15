@@ -1,0 +1,4 @@
+builder	retail_model	product_role	era	region	identity_status	catalog_status	relationship_notes	sources
+Ampeg	Scrambler SC-1	fuzz/distortion/octave	1969	USA	CANONICAL	INDEXED_BASELINE_MAPPED	Original short-run production; commonly cited 2,000-2,500 units is secondary estimate only.	Ampeg history; Tone Machines; MusicRadar
+Ampeg	Scrambler reissue	revival fuzz/distortion	2005	USA	REVIVAL_STATE	INDEXED_RELATIONSHIP	Later reissue must remain separate from 1969 production.	Tone Machines; MusicRadar
+Ampeg	Phazzer	boundary non-dirt	1970s	USA	CANONICAL	BOUNDARY	Historical Ampeg effect, retained for builder catalog context rather than dirt count.	Ampeg historical references
