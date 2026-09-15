@@ -46,10 +46,10 @@ try {
   if (!data.pedals.some(p => String(p.model_name || '').toLowerCase() === 'park fuzz sound')) throw new Error('data.json does not contain the Park Fuzz Sound lineage test record');
   console.log('PASS  data structure');
 
-  const fuzzFaceGenerationIds = data.generations.filter(g => g.pedal_id === fuzzFace.pedal_id).map(g => g.generation_id);
+  const fuzzResearch = await page.request.get(`${base}/catalog-research-02.js`).then(r => r.text());
+  if (!fuzzResearch.includes("'Fuzz Face': [")) throw new Error('Fuzz Face researched generation map is missing');
   const fuzzFaceSpecimenText = await page.request.get(`${base}/catalog-specimen-registry-01.js`).then(r => r.text());
-  if (!fuzzFaceSpecimenText.includes("generation_id:'GEN-0001'")) throw new Error('Fuzz Face specimen is not anchored to its documented generation');
-  if (!fuzzFaceGenerationIds.includes('GEN-0001')) throw new Error('Fuzz Face generation GEN-0001 is missing from data.json');
+  if (!fuzzFaceSpecimenText.includes("generation_id:'GEN-fuzz-face-01'")) throw new Error('Fuzz Face specimen is not anchored to the first researched generation');
   console.log('PASS  generation fixture');
 
   await expectText(page, 'home', '', 'h1', 'Document');
@@ -61,7 +61,7 @@ try {
   if (await page.locator('.research-status').count() !== 1) throw new Error('Pedal detail did not render exactly one research status row');
   console.log('PASS  pedal research status');
   if (await page.locator('.generation-visual-section').count() !== 1) throw new Error('Fuzz Face did not render the generation guide');
-  if (await page.locator('.generation-visual-row').count() !== fuzzFaceGenerationIds.length) throw new Error('Generation guide row count does not match documented generations');
+  if (await page.locator('.generation-visual-row').count() !== 5) throw new Error('Generation guide did not render the five researched Fuzz Face generations');
   if (await page.locator('.generation-visual-row').first().locator('img.generation-visual').count() !== 1) throw new Error('Fuzz Face first generation does not expose its cleared visual reference');
   if (await page.locator('.specimen-strip,.specimen-gallery').count() !== 0) throw new Error('Legacy specimen strip/gallery is still rendered');
   console.log('PASS  generation visual guide');
