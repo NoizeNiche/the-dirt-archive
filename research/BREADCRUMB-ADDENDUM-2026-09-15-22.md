@@ -2,15 +2,16 @@
 
 Append-only continuation of `research/BREADCRUMB.md` and prior addenda.
 
-## YARP batch 28/29/30/31 handoff
+## YARP batch 28/29/30/31/32 handoff
 
-Expanded the OEM/lineage audit into the Japanese vintage fuzz ecosystem, reconciled the strongest family relationships, completed a model-exception pass for FY-6/FY-2, and added a focused Univox/Honey/Shin-Ei/Maxon reconciliation ledger.
+Expanded the OEM/lineage audit into the Japanese vintage fuzz ecosystem, reconciled the strongest family relationships, completed model-exception passes for FY-6/FY-2 and Univox/Honey/Shin-Ei/Maxon, and added a focused Maxon/Ibanez manufacturing-exception ledger.
 
 Committed:
 - `research/japanese-oem-lineage-candidates-01.tsv`
 - `research/japanese-oem-family-reconciliation-03.tsv`
 - `research/fy6-fy2-model-exception-audit-01.tsv`
 - `research/univox-honey-shinei-maxon-reconciliation-01.tsv`
+- `research/maxon-ibanez-model-exception-audit-02.tsv`
 
 ## Historical findings
 
@@ -26,10 +27,11 @@ Committed:
 - Univox U-1095 Super-Fuzz is treated as a marketed/OEM state within the Shin-Ei Companion FY-6 ecosystem; Unicord remains a distribution/marketing relationship rather than a physical-builder assignment.
 - Companion WF-8 and Mayfair 6-Tr Fuzz Wah are documented as Shin-Ei OEM family members with multiple marketed labels; their marketed identities remain separate records.
 - Maxon remains a separate Japanese manufacturing line. Shared Japanese provenance or the broader Ibanez/Maxon relationship is not being used to infer Maxon manufacture for Shin-Ei Super-Fuzz-family products.
+- The Tube Screamer family now has an explicit manufacturing exception map: original TS-808/TS-9 production is tied to Nisshin Onpa/Maxon, while TS-5 was made in Taiwan by Daphon; later Taiwan-made TS-7 is not automatically assigned to Maxon; TS-9 reissue manufacture is split at the early-2002 end of Maxon's Ibanez production.
 
 ## Validation posture
 
-The reconciliation confirms that early-family continuity, OEM production, distributor branding, and later revival relationships must remain distinct dimensions. No blanket Univox/Honey/Shin-Ei/Maxon merge was made.
+The reconciliation confirms that early-family continuity, OEM production, distributor branding, and later revival relationships must remain distinct dimensions. Model-specific manufacturing exceptions are now explicitly documented where primary or high-quality historical sources support them.
 
 No Japanese OEM relationship was promoted into `public/lineage.json` during this batch.
 
@@ -43,16 +45,13 @@ No schematics, PCB layouts, gutshot libraries, complete BOMs, or cloning instruc
 2. Continue model-specific exception work for later Shin-Ei-branded and OEM variants.
 3. Add only builder-aware public edges once the runtime schema can distinguish builder/model entities.
 4. Continue Japanese and regional builder/product census work.
+5. Start a comparable model-exception audit for the next major OEM family, prioritizing European and American branded/OEM overlaps.
 
 ## Sources used this batch
 
-- https://www.effectsdatabase.com/model/honey/psychedelicmachine
-- https://www.effectsdatabase.com/model/univox/superfuzz
-- https://www.effectsdatabase.com/model/shinei/companion/fy6
-- https://www.effectsdatabase.com/model/companion/fuzzwah/8tr/2
-- https://www.effectsdatabase.com/model/mayfair/fuzzwah/6tr
-- https://www.effectsdatabase.com/model/guyatone/fs/3
-- https://www.effectsdatabase.com/model/teisco/wauwaufuzz
+- https://maxonfx.com/pages/about-maxon-guitar-effects-pedals-maxonfx-com
+- https://www.premierguitar.com/gear/tube-screamer-history
+- https://www.ibanez.com/usa/products/detail/ts808_99.html
 
 ## Continuity rule
 
