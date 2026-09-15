@@ -1,0 +1,12 @@
+entity_a	entity_b	relationship	status	confidence	notes	evidence
+Honey FY-6	Shin-Ei FY-6	successor_marketing_lineage	PROMOTE	HIGH	Use as sequential historical identity; do not merge into one retail record.	https://shin-ei.com/
+Shin-Ei FY-6	Univox Super-Fuzz	oem_market_lineage	PROMOTE	HIGH	Univox remains a distinct marketed/import identity.	https://www.effectsdatabase.com/model/shinei/companion
+Teisco Fuzz Machine	Ibanez Standard Fuzz No.59	oem_family	HOLD_FOR_REVIEW	MEDIUM	Strong shared-object evidence; exact factory chronology remains contradictory.	https://www.effectsdatabase.com/model/teisco/fuzzmachine
+Teisco Fuzz Machine	Antoria Fuzz Machine	marketed_alias_family	HOLD_FOR_REVIEW	MEDIUM	Preserve as an alias/family edge, not proof of a single factory for every specimen.	https://www.effectsdatabase.com/model/antoria/fuzzmachine
+Teisco Fuzz Machine	Bruno Fuzz Machine	marketed_alias_family	HOLD_FOR_REVIEW	MEDIUM	Family evidence exists; factory attribution remains model-specific.	https://www.effectsdatabase.com/model/teisco/fuzzmachine
+JEN Fuzz	Vox V828/V8281	oem_contract_lineage	PROMOTE	HIGH	Italian JEN production relationship can be displayed at family level.	https://www.effectsdatabase.com/model/jen/diecast/fuzz
+JEN Fuzz	Elka Fuzz	marketed_oem_sibling	PROMOTE	HIGH	Same documented Italian JEN family; preserve Elka retail identity.	https://www.effectsdatabase.com/model/elka/fuzz
+JEN Fuzz	Nova Tone Bender	marketed_oem_sibling	PROMOTE	HIGH	Same documented Italian JEN family; preserve Nova retail identity.	https://www.effectsdatabase.com/model/nova/tonebender
+JEN Fuzz	Unicord Fuzz	marketed_oem_distribution	PROMOTE	HIGH	North American Unicord identity remains separate.	https://www.effectsdatabase.com/model/unicord/fuzz
+Ibanez SoundTank	Maxon	manufacturer_relationship	HOLD_FOR_REVIEW	MEDIUM	Maxon official history claims broad Ibanez/SoundTank manufacturing responsibility, while specialist evidence disputes blanket attribution. Keep manufacturer model-specific.
+https://maxonfx.com/pages/about-maxon-guitar-effects-pedals-maxonfx-com
