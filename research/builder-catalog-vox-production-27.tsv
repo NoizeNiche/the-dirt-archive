@@ -1,0 +1,7 @@
+canonical_builder	marketed_name	model_or_family	role	category	era	status	evidence_notes	sources
+Sola Sound	Sola Sound / Vox Sound Equipment Ltd.	Wow Fuzz / Wah-Fuzz	OEM_MANUFACTURER_RELATIONSHIP	FUZZ_WAH	1970	EVIDENCE_QUALIFIED	Early Sola-marketed product carries Vox distribution relationship; model-specific attribution preserved.	VoxSupreme; FuzzFaced
+Vox Sound Limited	Vox	Wow Fuzz	MARKETED_PRODUCTION_STATE	FUZZ_WAH	1970-1971	EVIDENCE_QUALIFIED	Documented Erith-marked state before Vox production moved to Hastings.	VoxSupreme
+Vox Sound Limited	Vox	Wow Fuzz / Wah-Fuzz	MARKETED_PRODUCTION_STATE	FUZZ_WAH	1971-1973	EVIDENCE_QUALIFIED	Hastings-marked state after move from Erith; physical Sola Sound relationship remains documented.	VoxSupreme; Tone Bender Blog
+Sola Sound	Vox / Dallas Arbiter	Wow Fuzz / Wah-Fuzz	OEM_MANUFACTURER	FUZZ_WAH	1970s	EVIDENCE_QUALIFIED	Sola Sound/Colorsound-made product appears in Dallas-Arbiter/Vox catalog corridor.	VoxSupreme; FuzzFaced
+Thomas Organ Company	Vox	9-3700 Fuzz-Wah	PHYSICAL_MANUFACTURER_MARKETED_BUILDER	FUZZ_WAH	1970-1973	EVIDENCE_QUALIFIED	Vox Showroom reports California manufacture based on base-plate marking and catalog chronology; retain as model-specific relationship.	Vox Showroom
+JEN Elettronica	Vox	Stereo Fuzz Wah / related Italian Vox fuzz-wah family	OEM_MANUFACTURER	FUZZ_WAH	1970s	RELATIONSHIP_ONLY	JEN production is established for multiple Italian Vox pedal families; do not inherit attribution for 9-3700 without model-specific proof.	Vox Showroom; FuzzFaced
