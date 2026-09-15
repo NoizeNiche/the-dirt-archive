@@ -1,0 +1,16 @@
+canonical_builder	product_name	dirt_role	catalog_record_state	notes	source_refs
+Schaller	Fuzz	FUZZ	ENUMERATED	Indexed Schaller fuzz; historical West German fuzz with documented OEM/brand relationships to Höfner, Kent, Van Hall and Blackfield. Preserve source claims for later verification.	https://www.effectsdatabase.com/model/schaller/fuzz
+Schaller	Fuzz-Sustain	FUZZ_HYBRID	ENUMERATED	1970s fuzz/sustain expression-style product; related names include Höfner Fuzz-Sustain and Allsound variants.	https://www.effectsdatabase.com/model/schaller/fuzzsustain
+Schaller	Wha-Wha-Fuzz	FUZZ_HYBRID	ENUMERATED	Combination wah/fuzz product with explicit V1/V2 records in Effects Database; shown at 1971 Musikmesse according to indexed history.	https://www.effectsdatabase.com/model/schaller/whawhafuzz
+Schaller	Treble-Bass Boost	BOOST_SCOPE_BOUNDARY	BOUNDARY	Boost product retained for builder completeness, outside central dirt count.	https://www.effectsdatabase.com/model/schaller
+Schaller	Treble/Bass-Boost	BOOST_SCOPE_BOUNDARY	BOUNDARY	Second indexed spelling/state retained as historical naming evidence.	https://www.effectsdatabase.com/model/schaller
+Schaller	Double Pedal	SCOPE_BOUNDARY	BOUNDARY	Non-dirt combined product; retained only for catalog context.	https://www.effectsdatabase.com/model/schaller
+Schaller	Echo-Sound	SCOPE_BOUNDARY	BOUNDARY	Non-dirt echo product.	https://www.effectsdatabase.com/model/schaller
+Schaller	Jet Noiser	SCOPE_BOUNDARY	BOUNDARY	Non-dirt effect.	https://www.effectsdatabase.com/model/schaller
+Schaller	Phaser	SCOPE_BOUNDARY	BOUNDARY	Non-dirt modulation product.	https://www.effectsdatabase.com/model/schaller
+Schaller	Rotor Sound	SCOPE_BOUNDARY	BOUNDARY	Non-dirt modulation product.	https://www.effectsdatabase.com/model/schaller
+Schaller	TR-68 Tremolo	SCOPE_BOUNDARY	BOUNDARY	Non-dirt modulation product.	https://www.effectsdatabase.com/model/schaller
+Schaller	Volume	SCOPE_BOUNDARY	BOUNDARY	Volume pedal.	https://www.effectsdatabase.com/model/schaller
+Schaller	F-121 Foot Volume Controller	SCOPE_BOUNDARY	BOUNDARY	Volume controller.	https://www.effectsdatabase.com/model/schaller
+Schaller	Wha-Wha Yoy-Yoy/Bow-Wow	SCOPE_BOUNDARY	BOUNDARY	Wah-only product, separate from Wha-Wha-Fuzz.	https://www.effectsdatabase.com/model/schaller
+Schaller	Mechanical Tremolo	SCOPE_BOUNDARY	BOUNDARY	Mechanical tremolo product.	https://www.effectsdatabase.com/model/schaller
