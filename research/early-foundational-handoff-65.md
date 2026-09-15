@@ -1,43 +1,46 @@
-# Early Foundational Handoff 77
+# Early Foundational Handoff 78
 
-## Pass 30: D*A.M. Meathead and Catalinbread bridge/specimen states
+## Pass 31: HBE, T-Pedals and Catalinbread early anchors, plus D*A.M bridge states
 
-This pass adds six records that sharpen two recurring archive problems: physical-generation clues inside a stable model name, and later bridge objects that help connect an early boutique lineage without backdating them into the core period.
+This pass continues the 2002-2010 boutique corridor while preserving a separate later bridge lane. The new records strengthen HomeBrew Electronics and T-Pedals chronology, add an early Catalinbread distortion anchor, and document D*A.M Fuzz Sound succession into its later numbered states.
 
 ### Newly documented
 
-- **D*A.M Meathead Deluxe**: October 2010 documented state, with period evidence for both small-box and large-box specimens.
-- **Catalinbread Sagrado Poblano Picoso**: September 2005 documented extended-frequency boost state developed from Super Chili Picoso bass-player requests.
-- **Catalinbread Serrano Picoso**: August 2007 documented mini boost/preamp state.
-- **Catalinbread Silver Kiss**: June 2007 original documented release state, kept separate from Mk2 and later reissues.
-- **D*A.M TB-00 Tone Bender**: 2012 bridge record connecting later D*A.M Tone Bender revival work to the earlier corridor.
-- **D*A.M MkI**: 2013 bridge record documenting a Linzi Haynes collaboration and the reuse/provenance of enclosures originally associated with a TB-00 prototype run.
+- **HomeBrew Electronics Lorba Fuzz**: August 14, 2007 documented fuzz state, with Jordan Boss Tone family lineage preserved as contextual relationship.
+- **HomeBrew Electronics FMJ Full Metal Jacket**: January 27, 2008 documented dedicated distortion state.
+- **T-Pedals Nuke Booster**: November 29, 2006 documented Italian point-to-point boost/preamp, retained outside the core dirt count.
+- **T-Pedals T-Fuzz**: late-2002 prototype lineage anchor from the builder timeline, kept separate from formal retail chronology.
+- **Catalinbread Super Charged Overdrive**: September 21, 2005 documented early commercial dirt anchor, following the founding Super Chili Picoso era.
+- **D*A.M Fuzz Sound MkIII**: July 29, 2009 documented production state, explicitly not a direct Sola Sound MkIII replica.
+- **D*A.M Fuzz Sound MkIV**: 2011 bridge state tied to FS-75 numbering and changed labeling/LED presentation.
+- **D*A.M FS-75 Fuzz Sound Jr.**: 2012-2013 compact limited bridge state.
+- **D*A.M FZ-673**: March 2011 ten-unit limited bridge with unusually explicit unit-count and auction documentation.
 
 ### Key research findings
 
-1. **Enclosure size can be a generation clue even when the retail name is unchanged.** Meathead Deluxe has documented small-box and large-box specimens in the 2008-2010 period, but the archive does not invent a precise switchover date.
-2. **Bass-oriented boost products form a recurring boutique branch.** Sagrado Poblano Picoso demonstrates how an early guitar boost spawned a dedicated extended-frequency variant after bass-player requests.
-3. **Miniaturization is itself a historical state.** Serrano Picoso gives Catalinbread a 2007 mini-format object distinct from the larger early Super Chili Picoso family.
-4. **Reissues and redesigns must be held apart from original releases.** Silver Kiss has later Mk2 and reissue states that should not overwrite the 2007 object.
-5. **Bridge records are useful when clearly labeled.** TB-00 and MkI sit outside the strict 1998-2010 core, but they help explain later D*A.M lineage and preserve prototype-enclosure provenance without back-projecting later objects into earlier years.
-6. **The archive's state taxonomy is widening in a controlled way.** We now have founding objects, prototypes, first batches, limited runs, enclosure states, control-count generations, graphic states, manufacturing-attribution states, and later bridge records as separate evidence types.
+1. **HBE's early catalog now has both fuzz and high-gain distortion anchors.** Lorba establishes a 2007 fuzz state and FMJ anchors 2008 distortion production.
+2. **Prototype chronology and retail chronology remain different evidence types.** T-Pedals' late-2002 T-Fuzz prototype history predates the company's 2006 full-time retail phase and is not promoted to a false launch date.
+3. **Catalinbread's early dirt family is broader than the founding boost.** Super Charged Overdrive provides a 2005 commercial overdrive anchor following Super Chili Picoso and preceding the later 2008-2010 expansion wave.
+4. **D*A.M's Tone Bender-family naming evolved over time.** The 2009 Fuzz Sound MkIII is explicitly described as D*A.M's own interpretation, while the 2011 MkIV state introduces FS-75-era numbering and physical labeling changes.
+5. **Later bridge records can illuminate production archaeology.** FS-75 Jr and FZ-673 are outside the core period but preserve unusually specific limited-run and specimen clues that help define D*A.M's later manufacturing culture.
+6. **The boost boundary remains intentional.** Nuke Booster is documented because it illuminates T-Pedals' production identity and timeline, but it remains dirt-adjacent rather than inflating the OD/fuzz/distortion count.
 
 ### Evidence discipline
 
-- Publication dates, period videos, builder statements, weekly catalog indexes, and individual specimens remain separate evidence classes.
-- Enclosure observations are not converted into exact production boundaries without direct evidence.
-- Later bridge records remain explicitly outside the core period.
-- Boost/preamp objects remain cataloged as dirt-adjacent context unless they meet the archive's dedicated OD/fuzz/distortion inclusion rule.
+- Specialist database publication/submission dates, builder timelines, and later documentary records remain distinct evidence classes.
+- Prototype states are never converted into retail launch claims without direct evidence.
+- Later D*A.M bridge records remain explicitly outside the 1998-2010 core.
+- Family resemblance and vintage lineage are recorded as relationships, not as claims of identical circuitry or manufacturing.
 - No schematics, PCB layouts, complete BOMs, gutshot libraries, or cloning instructions are added.
 
 ### Current lineage position
 
-The D*A.M. and Catalinbread sections now contain both model chronology and physical-specimen clues. The result is a more useful bridge between catalog history and actual collector identification: a pedal can now be located by name, approximate date, control layout, enclosure state, branding, and documented production context without requiring circuit reconstruction.
+The early boutique corridor now spans founding boosts, overdrives, fuzzes, high-gain distortions, prototypes, first batches, manufacturing transitions, enclosure states, and later bridge objects. The strongest recurring lesson is that **chronology should be layered, not flattened**: a prototype date, a first catalog appearance, a retail date, a branding change, and a later revision can all belong to the same product family without being the same historical object.
 
-### Pass 30 note
+### Pass 31 note
 
-Extension 130 adds REC-312 through REC-317. Public and research reconciliation-19 indexes contain the expanded batch. The recent-home loader should surface Meathead Deluxe, Sagrado Poblano Picoso, Serrano Picoso, Silver Kiss, plus the latest bridge records where the home surface permits.
+Extension 131 adds REC-318 through REC-326. Public and research reconciliation-20 indexes contain the new batch. The recent-home loader now surfaces Lorba Fuzz, FMJ Full Metal Jacket, Nuke Booster, T-Fuzz, and Super Charged Overdrive.
 
 ### Next target
 
-Continue the **1998-2010 boutique corridor** with deeper HBE Lorba/FMJ chronology, T-Pedals T-Fuzz/Nuke/Overboost, MI Audio later Tube Zone/Crunch Box boundaries, Black Arts Pharaoh/LSTR/Coven, remaining D*A.M. early objects, Ooh La La manufacturing specimens, and Catalinbread graphic-era overlays. Keep later bridge records explicitly labeled and maintain the dedicated dirt boundary around pure boosts and unrelated modeling products.
+Continue through the **1998-2010 boutique corridor** with deeper Black Arts Toneworks Pharaoh-era chronology, remaining Catalinbread first-generation variants, MI Audio Tube Zone revisions, Ooh La La manufacturing specimens, HBE remaining dirt models, T-Pedals retail fuzz/overdrive gaps, and D*A.M early production states that still lack specimen-level evidence. Preserve later bridge records and contextual modeling as separate lanes.
