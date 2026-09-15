@@ -1,0 +1,15 @@
+name	entity_type	region	era_bucket	dirt_evidence	research_status	priority	relationship_notes	source_refs
+Recovery Effects	Builder	USA	2011-present	Sound Destruction Device; Couple Skate; later Skyline	CANONICAL_BASELINE	P0	Early destructive/experimental dirt builder; preserve later MkII states separately.	https://www.effectsdatabase.com/model/recovery/sdd ; https://www.effectsdatabase.com/model/recovery/coupleskate
+Kor Pedals	Builder / brand	Italy	2011-2016+	Trilogy; Oracle; Eden Drive; Eden Drive Boost; DP9; Gusdrive; Leadstar and other gain products	CANONICAL_BASELINE	P0	Italian builder/brand with 2011 video evidence and 2013 indexed catalog cluster.	https://www.effectsdatabase.com/model/kor ; https://www.effectsdatabase.com/updates/weekly/20130708
+Keisman Pedals	Builder / brand	USA?	2013+	Early Bird; Velvet Drive; Thunderbird; Midnight Drive; Anvil Fuzz; Juggy Boost	DISCOVERED_BASELINE	P1	2013 weekly overview captures a multi-model catalog; exact builder geography and full chronology need follow-up.	https://www.effectsdatabase.com/updates/weekly/20130708
+Master Effects	Builder	Canada	2014+	Happy Trails; Occam's Razor; Teh Brootz; Wolfy	CANONICAL_BASELINE	P1	Calgary-based company; 2014 weekly catalog snapshot supplies initial dirt universe.	https://www.effectsdatabase.com/model/master ; https://www.effectsdatabase.com/updates/weekly/20140331
+Masterbuilt Amplification	Builder / brand	Unknown	2013+	Dark Side of the Fuzz; Stone Groove; Tritone Heavy Metal Distortion; Vicious boost	DISCOVERED_BASELINE	P1	2013 weekly overview captures initial indexed catalog; manufacturing identity requires further builder research.
+https://www.effectsdatabase.com/updates/weekly/20130708
+Tone Hungry Effects	Builder	Canada	2014+	Hunger Bender; Treble Master; Hot Molasses	CANONICAL_BASELINE	P1	Canadian small-batch builder. Hunger Bender and Treble Master both published March 27 2014.
+https://www.effectsdatabase.com/model/tonehungry/hungerbender ; https://www.effectsdatabase.com/model/tonehungry/treblemaster
+Oddfellow Effects	Builder	USA	2014-present	Caveman Drive; later Bishop	DISCOVERED_BASELINE	P1	Caveman has explicit v2 index state; Bishop is later continuity evidence.
+https://www.effectsdatabase.com/model/oddfellow/cavemandrive ; https://www.effectsdatabase.com/model/oddfellow/bishop
+Old Blood Noise Endeavors	Builder	USA	2014-present	Haunt; later Fault/Alpha Haunt and other dirt hybrids	CANONICAL_BASELINE	P0	Company states it has been around since 2014; Haunt is an early documented core fuzz product.
+https://oldbloodnoise.com/about-obne-contact ; https://www.effectsdatabase.com/model/oldbloodnoise/haunt
+Magnetic Effects	Builder	UK	2013-present	Isotope; Solar Bender MkII; later White Atom and Satellite/Sändare	CANONICAL_BASELINE	P1	2013 catalog snapshot anchors earlier dirt products; later name change Satellite to Sändare is separate relationship evidence.
+https://www.effectsdatabase.com/updates/weekly/20130708 ; https://www.effectsdatabase.com/model/magneticeffects/whiteatom/v3
