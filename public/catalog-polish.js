@@ -104,6 +104,14 @@
     resultsEl.innerHTML = hits.map(({p,builderName})=>`<a class="search-result" href="#/pedal/${encodeURIComponent(p.pedal_id || p.model_name || '')}"><strong>${esc(p.model_name || 'Untitled record')}</strong><small>${esc(builderName || 'Builder not established')} · ${esc(p.primary_category || 'Dirt')}</small></a>`).join('');
   }
 
+  function resetSearchDialog(dlg){
+    if(!dlg) return;
+    try { if(typeof dlg.close === 'function' && dlg.open) dlg.close(); } catch(_) {}
+    dlg.removeAttribute('open');
+    dlg.style.removeProperty('display');
+    dlg.style.removeProperty('visibility');
+  }
+
   function openSearch(dlg,input){
     try {
       if(typeof dlg.showModal === 'function' && !dlg.open) dlg.showModal();
@@ -130,8 +138,13 @@
     });
     input.addEventListener('input', () => renderSearch(input.value));
     dlg.addEventListener('click', event => {
-      if(event.target === dlg && typeof dlg.close === 'function') dlg.close();
+      if(event.target === dlg) resetSearchDialog(dlg);
+      if(event.target.closest('.close')) {
+        event.preventDefault();
+        resetSearchDialog(dlg);
+      }
     });
+    dlg.addEventListener('cancel', () => resetSearchDialog(dlg));
     renderSearch(input.value);
   }
 
