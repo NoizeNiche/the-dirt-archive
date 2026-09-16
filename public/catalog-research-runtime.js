@@ -21,12 +21,15 @@
   };
 
   const ensureCardBadges = () => {
+    let added = 0;
     document.querySelectorAll('.pedal-card').forEach(card => {
       if (card.querySelector('.research-badge')) return;
       const body = card.querySelector('.pedal-body');
       if (!body) return;
       body.insertAdjacentHTML('beforeend', researchBadge(targetForCard(card)));
+      added += 1;
     });
+    return added;
   };
 
   const ensurePageStatus = () => {
@@ -71,9 +74,10 @@
     const tick = () => {
       attempts += 1;
       settle();
-      const cards = document.querySelectorAll('.pedal-card').length;
+      const cards = [...document.querySelectorAll('.pedal-card')];
+      const allBadged = cards.length > 0 && cards.every(card => card.querySelector('.research-badge'));
       const pedal = location.hash.toLowerCase().includes('/pedal/');
-      if (cards || pedal || attempts >= 30) {
+      if (allBadged || pedal || attempts >= 30) {
         timer = null;
         return;
       }
