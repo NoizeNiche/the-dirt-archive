@@ -64,14 +64,14 @@ DISC-0062	Basic Audio	Basic Audio Fuzz Mutant	0
 DISC-0063	Basic Audio	Basic Audio Fuzzmondo	0	
 DISC-0064	Basic Audio	Basic Audio Fuzzstainer	0	
 DISC-0065	Basic Audio	Basic Audio Gnarly Fuzz	0	
-DISC-0066	Basic Audio	Basic Audio Lucky Number	6	Wikimedia Commons
+DISC-0066	Basic Audio	Basic Audio Lucky Number	0	
 DISC-0067	Basic Audio	Basic Audio Marq Won	0	
 DISC-0068	Basic Audio	Basic Audio Messenger Fuzz	0	
 DISC-0069	Basic Audio	Basic Audio Pale Rider	0	
 DISC-0070	Basic Audio	Basic Audio Pep Fuzz	0	
 DISC-0071	Basic Audio	Basic Audio Scarab	0	
 DISC-0072	Basic Audio	Basic Audio Scarab Deluxe	0	
-DISC-0073	Basic Audio	Basic Audio Solar Myth	6	Wikimedia Commons
+DISC-0073	Basic Audio	Basic Audio Solar Myth	0	
 DISC-0074	Basic Audio	Basic Audio Spooky Tooth	0	
 DISC-0075	Basic Audio	Basic Audio SquareWave+	0	
 DISC-0076	Basic Audio	Basic Audio Tri/Ram Muff	0	
@@ -532,8 +532,8 @@ DISC-0683		Black Cat Psychedelic Machine	0
 DISC-0684		Black Cat RGDP - Really Great Dirt Pedal	0	
 DISC-0685		Black Cat Ring Modulator	0	
 DISC-0686		Black Cat Stereo Vibe	0	
-DISC-0687		Black Cat Super Fuzz	6	Wikimedia Commons
-DISC-0688		Black Cat The Ferritt	6	Wikimedia Commons
+DISC-0687		Black Cat Super Fuzz	0	
+DISC-0688		Black Cat The Ferritt	0	
 DISC-0689		Black Cat Vibe (desktop)	0	
 DISC-0690		Black Cat Vibe (pedal)	0	
 DISC-0691		Black Cat Vibe 2000	0	
@@ -560,7 +560,7 @@ DISC-0711		BSM Powderfinger	0
 DISC-0712		BSM RB Special Looper	0	
 DISC-0713		BSM RG Rory Gallagher Treble Booster	0	
 DISC-0714		BSM RM Early Days	0	
-DISC-0715		BSM RM Majestic	0	
+DISC-0715		BSM RM Majestic	5	Wikimedia Commons
 DISC-0716		BSM RM Treble-Booster	0	
 DISC-0717		BSM RM Velvet	0	
 DISC-0718		BSM RM-M Metal Treble-Booster	0	
@@ -686,7 +686,7 @@ DISC-0838		Mad Professor Fuzz32	0
 DISC-0839		Mad Professor Golden Cello	0	
 DISC-0840		Mad Professor Kosmos - Ambient Reverbs & Delays	0	
 DISC-0841		Mad Professor Little Green Wonder	0	
-DISC-0842		Mad Professor Little Tweedy Drive	0	
+DISC-0842		Mad Professor Little Tweedy Drive	2	Wikimedia Commons
 DISC-0843		Mad Professor Loud 'n Proud	0	
 DISC-0844		Mad Professor Mellow Yellow Tremolo	0	
 DISC-0845		Mad Professor Mighty Red Distortion	0	
@@ -758,7 +758,7 @@ DISC-1103		JAM Pedals Delay Llama	0
 DISC-1104		JAM Pedals Delay Llama Supreme	0	
 DISC-1105		JAM Pedals Delay Llama Xtreme	0	
 DISC-1106		JAM Pedals Delay Llama+	0	
-DISC-1107		JAM Pedals Double Dreamer	6	Wikimedia Commons
+DISC-1107		JAM Pedals Double Dreamer	0	
 DISC-1108		JAM Pedals Dyna-ssor	0	
 DISC-1109		JAM Pedals Eureka - Fuzz	0	
 DISC-1110		JAM Pedals Fuzz Phrase	0	
@@ -927,9 +927,9 @@ DISC-1295		The Marksman Fuzz	0
 DISC-1296		The Knoz Machine Fuzz	0	
 DISC-1297		Ahab Overdrive	0	
 DISC-1298		Tall	0	
-DISC-1299		Deep	0	
-DISC-1300		Wide	0	
-DISC-1301		Far	0	
+DISC-1299		Deep	6	Wikimedia Commons
+DISC-1300		Wide	6	Wikimedia Commons
+DISC-1301		Far	6	Wikimedia Commons
 DISC-1302		Sirens v.2	0	
 DISC-1303		Free Shit	0	
 DISC-1304		Bloodline	0	
@@ -996,7 +996,7 @@ DISC-0901		Stomp Under Foot Greasy Creek Fuzz Machine	0
 DISC-0902		Stomp Under Foot Halo Bender	0	
 DISC-0903		Stomp Under Foot Hellephant	0	
 DISC-0904		Stomp Under Foot Mean Green Machine	0	
-DISC-0905		Stomp Under Foot Mountain Goat	6	Wikimedia Commons
+DISC-0905		Stomp Under Foot Mountain Goat	0	
 DISC-0906		Stomp Under Foot Mud Creek - Dual Fuzz Machine	0	
 DISC-0907		Stomp Under Foot Rhinosaur	0	
 DISC-0908		Stomp Under Foot Screaming Panda	0	
@@ -1525,7 +1525,7 @@ DISC-1250		Smitty Pedals Smitty Bender MkI	0
 DISC-1251		Smitty Pedals Smitty Bender MkIII	0	
 DISC-1252		Smitty Pedals Smitty Bender Pro MkII	0	
 DISC-1253		Smitty Pedals Smitty Fuzz	0	
-DISC-1254		Smitty Pedals SmittyDriver	0	
+DISC-1254		Smitty Pedals SmittyDriver	1	Wikimedia Commons
 DISC-1255		Smitty Pedals Square Wave	0	
 DISC-1256		Smitty Pedals Suppa Bender	0	
 DISC-1257		Smitty Pedals Suppa Octave	0	
@@ -1774,7 +1774,7 @@ DISC-1454		Lovepedal Fuzz50 Royale	0
 DISC-1455		Lovepedal Joker - Boost	0	
 DISC-1456		Lovepedal JTM	0	
 DISC-1457		Lovepedal Jubilee Plus Boost	0	
-DISC-1458		Lovepedal Kalamazoo	0	
+DISC-1458		Lovepedal Kalamazoo	1	Wikimedia Commons
 DISC-1459		Lovepedal Karl Fuzz	0	
 DISC-1460		Lovepedal Les Lius	0	
 DISC-1461		Lovepedal Mk-Red - King Of Dirt	0	
@@ -1928,7 +1928,7 @@ DISC-1608		Z. Vex Vextron Mastotron	0
 DISC-1609		Z. Vex Woolly Mammoth	0	
 DISC-1610		Z. Vex Woolly Mammoth 7	0	
 DISC-1611		Z. Vex Vexter Box Of Metal	0	
-DISC-1612		Z. Vex Vexter Fuzz Factory	1	Wikimedia Commons
+DISC-1612		Z. Vex Vexter Fuzz Factory	0	
 DISC-1613		Z. Vex Vexter Woolly Mammoth	0	
 DISC-1614		Boss x JHS Pedals JB-2 Angry Driver	0	
 DISC-1615		Electro-Harmonix x JHS Pedals Big Muff Pi 2 - Dual Op-Amp Fuzz	0	
@@ -2387,9 +2387,9 @@ DISC-2067		Demon Fuzz	0
 DISC-2068		Dresden - Synth Fuzz	0	
 DISC-2069		Foxrite	0	
 DISC-2070		Green Russian Big Muff	0	
-DISC-2071		Grumbly Wolf	0	
-DISC-2072		Harmonic Percolator	6	Wikimedia Commons
-DISC-2073		Husk(er)y Wolf	6	Wikimedia Commons
+DISC-2071		Grumbly Wolf	6	Wikimedia Commons
+DISC-2072		Harmonic Percolator	3	Wikimedia Commons
+DISC-2073		Husk(er)y Wolf	0	
 DISC-2074		Mutant Fuzz - Os Mutantes (Regulus VIII) Fuzz	0	
 DISC-2075		Standard Fuzz Machine	0	
 DISC-2076		Super Unpleasant Companion	0	
@@ -2509,7 +2509,7 @@ DISC-2201		Electro-Harmonix LPB-1 Linear Power Booster	0
 DISC-2202		Electro-Harmonix LPB-2 Linear Power Booster	0	
 DISC-2203		Electro-Harmonix Memory Man - Solid State Echo / Analog Delay Line	0	
 DISC-2204		Electro-Harmonix Memory Man - Solid State Echo / Chorus	0	
-DISC-2205		Electro-Harmonix Micro Synthesizer	0	
+DISC-2205		Electro-Harmonix Micro Synthesizer	4	Wikimedia Commons
 DISC-2206		Electro-Harmonix Mini Q-Tron	0	
 DISC-2207		Electro-Harmonix Mini-Mixer	0	
 DISC-2208		Electro-Harmonix Mini-Synthesizer	0	
@@ -2633,9 +2633,9 @@ DISC-2326		Face Plant	0
 DISC-2327		SkinBender Mk I	0	
 DISC-2328		SkinBender Mk II	0	
 DISC-2329		SkinBender Mk III	0	
-DISC-2330		Biloma	0	
+DISC-2330		Biloma	5	Wikimedia Commons
 DISC-2331		Bloody Emily	0	
-DISC-2332		Epilepsy	0	
+DISC-2332		Epilepsy	6	Wikimedia Commons
 DISC-2333		Halothan	0	
 DISC-2334		Homicide Noodle	0	
 DISC-2335		Kidnapper - Octave Fuzz	0	
@@ -2748,7 +2748,7 @@ DISC-2440		AnaSounds Centaur - Vintage Overdrive	0
 DISC-2441		AnaSounds Cerberus - Overdrive	0	
 DISC-2442		AnaSounds Cerberus mkII - Overdrive	0	
 DISC-2443		AnaSounds Element Spring Reverb	0	
-DISC-2444		AnaSounds Extended Savage	0	
+DISC-2444		AnaSounds Extended Savage	6	Wikimedia Commons
 DISC-2445		AnaSounds Feed Me - Fuzz	0	
 DISC-2446		AnaSounds Feed Me Mk3 - Fuzz	0	
 DISC-2447		AnaSounds Feed Me mkII - Fuzz	0	
@@ -2832,7 +2832,7 @@ DISC-3105		Klinger Custom Pedals Jimi Fuzz	0
 DISC-3106		Klinger Custom Pedals Psychedelic Fuzz Machine	0	
 DISC-3107		Klinger Custom Pedals Brown Sound	0	
 DISC-3108		Klinger Custom Pedals Fuzz/Boost	0	
-DISC-3110		KMA Audio Machines AB/Y	2	Wikimedia Commons
+DISC-3110		KMA Audio Machines AB/Y	0	
 DISC-3111		KMA Audio Machines Astrospurt - Junction Gate Field-Effect Phaser	0	
 DISC-3112		KMA Audio Machines Belfry - Buffer	0	
 DISC-3113		KMA Audio Machines Chief Disrupter - Fundamental Fuzz/Distortion	0	
@@ -3291,7 +3291,7 @@ DISC-3884		Univox UTR-5 Uni-Tron 5	0
 DISC-3885		Univox UW-2 Uni-Wah	0	
 DISC-3886		Maxon Apex808 Overdrive	0	
 DISC-3887		Maxon GA-10 Micro Teacher Mini Amp	0	
-DISC-3888		Maxon MB-10 Bass Booster	1	Wikimedia Commons
+DISC-3888		Maxon MB-10 Bass Booster	0	
 DISC-3889		Maxon MB-20 Power Booster	0	
 DISC-3890		Maxon MB-30 Treble Booster	0	
 DISC-3891		Maxon MB-40 Distortion Booster	0	
@@ -3483,7 +3483,7 @@ DISC-4083		Stomp Under Foot Cosmonaut	0
 DISC-4084		Stomp Under Foot Demogorgon	0	
 DISC-4085		Stomp Under Foot Dire Wolf	0	
 DISC-4086		Stomp Under Foot Dirt Preacher	0	
-DISC-4087		Stomp Under Foot Dirty Rooster	0	
+DISC-4087		Stomp Under Foot Dirty Rooster	4	Wikimedia Commons
 DISC-4088		Stomp Under Foot Elk Big Mag Sustainar	0	
 DISC-4089		Stomp Under Foot Full Powered Halo	0	
 DISC-4090		Stomp Under Foot Greasy Creek Fuzz Machine	0	
@@ -3521,7 +3521,7 @@ DISC-4121		BJFE Little Green Wonder Overdrive	0
 DISC-4122		BJFE Little Red Trebler	0	
 DISC-4123		BJFE Mint Green Mini Vibe	0	
 DISC-4124		BJFE Model D	0	
-DISC-4125		BJFE Model G	3	Wikimedia Commons
+DISC-4125		BJFE Model G	0	
 DISC-4126		BJFE Model H	0	
 DISC-4127		BJFE Model R	0	
 DISC-4128		BJFE Pale Green Compressor	0	
@@ -3727,10 +3727,10 @@ DISC-4327		Vorg F-502 Warp Sound	0
 DISC-4328		Vorg F-503 Graphic Equalizer	0	
 DISC-4329		Vorg F-504 Flanger Analog Delay Effect	0	
 DISC-4330		Vorg Wau	0	
-PED-DISC-45-01		Colorsound Supa Tonebender	0	
+PED-DISC-45-01		Colorsound Supa Tonebender	2	Wikimedia Commons
 PED-DISC-45-02		Colorsound Tone Bender Jumbo	0	
-PED-DISC-45-03		Colorsound Power Boost	0	
-PED-DISC-45-04		Colorsound Overdriver	0	
+PED-DISC-45-03		Colorsound Power Boost	2	Wikimedia Commons
+PED-DISC-45-04		Colorsound Overdriver	1	Wikimedia Commons
 PED-DISC-45-05		Colorsound Fuzz Box	0	
 PED-DISC-45-06		Colorsound Fuzz 4	0	
 PED-DISC-45-07		Colorsound Tone Bender Distortion	0	
@@ -3739,7 +3739,7 @@ PED-DISC-45-09		Colorsound Wah Fuzz	0
 PED-DISC-45-10		Colorsound Wah plus Fuzz	0	
 PED-DISC-45-11		Colorsound Supa Wah-Fuzz	0	
 PED-DISC-45-12		Colorsound Supa Wah-Fuzz-Swell	0	
-PED-DISC-46-01	Sola Sound	Sola Sound Tone Bender MkI	6	Wikimedia Commons
+PED-DISC-46-01	Sola Sound	Sola Sound Tone Bender MkI	0	
 PED-DISC-46-02	Sola Sound	Sola Sound Tone Bender MkII	0	
 PED-DISC-46-03	Sola Sound	Sola Sound Tone Bender MkIII	0	
 PED-DISC-46-04	Sola Sound	Sola Sound Tone Bender MkIV	0	

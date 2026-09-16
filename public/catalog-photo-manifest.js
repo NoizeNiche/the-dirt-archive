@@ -911,61 +911,12 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-0065"
   },
   "DISC-0066": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lucky_Bag_%28IA_luckybag1957unse%29.pdf/page1-1280px-Lucky_Bag_%28IA_luckybag1957unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Lucky_Bag_(IA_luckybag1957unse).pdf",
+    "src": null,
+    "page": "",
     "credit": "",
-    "license": "Public domain",
-    "source": "Wikimedia Commons",
-    "gallery": [
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lucky_Bag_%28IA_luckybag1957unse%29.pdf/page1-1280px-Lucky_Bag_%28IA_luckybag1957unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Lucky_Bag_(IA_luckybag1957unse).pdf",
-        "title": "Lucky Bag (IA luckybag1957unse).pdf",
-        "credit": "",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/840A_Class_XD_Amplifier_White_Paper.pdf/page1-960px-840A_Class_XD_Amplifier_White_Paper.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:840A_Class_XD_Amplifier_White_Paper.pdf",
-        "title": "840A Class XD Amplifier White Paper.pdf",
-        "credit": "Matthew Bramble, Douglas Self",
-        "license": "CC BY-SA 3.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Adam_Hochschild%2C_Co-Founder%2C_Mother_Jones.webm/1280px--Adam_Hochschild%2C_Co-Founder%2C_Mother_Jones.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-        "page": "https://commons.wikimedia.org/wiki/File:Adam_Hochschild,_Co-Founder,_Mother_Jones.webm",
-        "title": "Adam Hochschild, Co-Founder, Mother Jones.webm",
-        "credit": "Wikimedia Foundation (unless otherwise noted)",
-        "license": "CC BY-SA 3.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Enhancing_the_situational_awareness_of_airfield_local_controllers_%28IA_enhancingsituati109454779%29.pdf/page1-960px-Enhancing_the_situational_awareness_of_airfield_local_controllers_%28IA_enhancingsituati109454779%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Enhancing_the_situational_awareness_of_airfield_local_controllers_(IA_enhancingsituati109454779).pdf",
-        "title": "Enhancing the situational awareness of airfield local controllers (IA enhancingsituati109454779).pdf",
-        "credit": "Mowery, Samuel P.",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Ford%2C_Kissinger%2C_Schlesinger%2C_Bipartisan_Congressional_Leadership_-_June_6%2C_1975%28Gerald_Ford_Library%29%281553113%29.pdf/page1-960px-Ford%2C_Kissinger%2C_Schlesinger%2C_Bipartisan_Congressional_Leadership_-_June_6%2C_1975%28Gerald_Ford_Library%29%281553113%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Ford,_Kissinger,_Schlesinger,_Bipartisan_Congressional_Leadership_-_June_6,_1975(Gerald_Ford_Library)(1553113).pdf",
-        "title": "Ford, Kissinger, Schlesinger, Bipartisan Congressional Leadership - June 6, 1975(Gerald Ford Library)(1553113).pdf",
-        "credit": "Unknown author Unknown author  or not provided",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Gerald_Ford_Papers-_Final_Issues_for_Decision%2C_Army_Corps_of_Engineers-_New_York_City_%281%29%28Gerald_Ford_Library%29%281554451%29.pdf/page1-960px-Gerald_Ford_Papers-_Final_Issues_for_Decision%2C_Army_Corps_of_Engineers-_New_York_City_%281%29%28Gerald_Ford_Library%29%281554451%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Gerald_Ford_Papers-_Final_Issues_for_Decision,_Army_Corps_of_Engineers-_New_York_City_(1)(Gerald_Ford_Library)(1554451).pdf",
-        "title": "Gerald Ford Papers- Final Issues for Decision, Army Corps of Engineers- New York City (1)(Gerald Ford Library)(1554451).pdf",
-        "credit": "Unknown author Unknown author  or not provided",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      }
-    ],
+    "license": "",
+    "source": "",
+    "gallery": [],
     "builder": "Basic Audio",
     "model": "Basic Audio Lucky Number",
     "pedal_id": "DISC-0066"
@@ -1037,61 +988,12 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-0072"
   },
   "DISC-0073": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_157-jn-9586_624938_427e-02-part_2_of_3.pdf/page1-1280px-Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_157-jn-9586_624938_427e-02-part_2_of_3.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Documents_about_Martin_Luther_King,_Jr.,_Executive_Order_14176,_157-jn-9586_624938_427e-02-part_2_of_3.pdf",
-    "credit": "Federal Government of the United States  (Q48525)",
-    "license": "Public domain",
-    "source": "Wikimedia Commons",
-    "gallery": [
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_157-jn-9586_624938_427e-02-part_2_of_3.pdf/page1-1280px-Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_157-jn-9586_624938_427e-02-part_2_of_3.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Documents_about_Martin_Luther_King,_Jr.,_Executive_Order_14176,_157-jn-9586_624938_427e-02-part_2_of_3.pdf",
-        "title": "Documents about Martin Luther King, Jr., Executive Order 14176, 157-jn-9586 624938 427e-02-part 2 of 3.pdf",
-        "credit": "Federal Government of the United States  (Q48525)",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Educational_Film_Magazine_%28Jan-Jun_1919%29_%28IA_educationalfilmm01city%29.pdf/page1-960px-Educational_Film_Magazine_%28Jan-Jun_1919%29_%28IA_educationalfilmm01city%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Educational_Film_Magazine_(Jan-Jun_1919)_(IA_educationalfilmm01city).pdf",
-        "title": "Educational Film Magazine (Jan-Jun 1919) (IA educationalfilmm01city).pdf",
-        "credit": "City News Publishing Co.",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/English_version_Konzept_Wikipedia_f%C3%BCr_Kinder.pdf/page1-960px-English_version_Konzept_Wikipedia_f%C3%BCr_Kinder.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:English_version_Konzept_Wikipedia_f%C3%BCr_Kinder.pdf",
-        "title": "English version Konzept Wikipedia für Kinder.pdf",
-        "credit": "Michael Schulte and Ziko van Dijk",
-        "license": "CC BY-SA 4.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Menzel_-_The_World_of_Flying_Saucers.pdf/page1-960px-Menzel_-_The_World_of_Flying_Saucers.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Menzel_-_The_World_of_Flying_Saucers.pdf",
-        "title": "Menzel - The World of Flying Saucers.pdf",
-        "credit": "Donald H. Menzel and Lyle G. Boyd",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Reading_for_Philosophical_Inquiry%2C_A_Brief_Introduction_to_Philosophical_Thinking.pdf/page1-960px-Reading_for_Philosophical_Inquiry%2C_A_Brief_Introduction_to_Philosophical_Thinking.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Reading_for_Philosophical_Inquiry,_A_Brief_Introduction_to_Philosophical_Thinking.pdf",
-        "title": "Reading for Philosophical Inquiry, A Brief Introduction to Philosophical Thinking.pdf",
-        "credit": "Lee Archie and John G. Archie",
-        "license": "CC BY-SA 3.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/The_Military_Chaplains%27_Review_%28IA_militarychaplain17unse%29.pdf/page1-500px-The_Military_Chaplains%27_Review_%28IA_militarychaplain17unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:The_Military_Chaplains%27_Review_(IA_militarychaplain17unse).pdf",
-        "title": "The Military Chaplains' Review (IA militarychaplain17unse).pdf",
-        "credit": "",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      }
-    ],
+    "src": null,
+    "page": "",
+    "credit": "",
+    "license": "",
+    "source": "",
+    "gallery": [],
     "builder": "Basic Audio",
     "model": "Basic Audio Solar Myth",
     "pedal_id": "DISC-0073"
@@ -6157,121 +6059,23 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-0686"
   },
   "DISC-0687": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Alexander_County_Nurseries_-_1925_%28catalog%29._%28IA_CAT31315656%29.pdf/page1-500px-Alexander_County_Nurseries_-_1925_%28catalog%29._%28IA_CAT31315656%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Alexander_County_Nurseries_-_1925_(catalog)._(IA_CAT31315656).pdf",
-    "credit": "Alexander County Nurseries \n Henry G. Gilbert Nursery and Seed Trade Catalog Collection",
-    "license": "Public domain",
-    "source": "Wikimedia Commons",
-    "gallery": [
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Alexander_County_Nurseries_-_1925_%28catalog%29._%28IA_CAT31315656%29.pdf/page1-500px-Alexander_County_Nurseries_-_1925_%28catalog%29._%28IA_CAT31315656%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Alexander_County_Nurseries_-_1925_(catalog)._(IA_CAT31315656).pdf",
-        "title": "Alexander County Nurseries - 1925 (catalog). (IA CAT31315656).pdf",
-        "credit": "Alexander County Nurseries \n Henry G. Gilbert Nursery and Seed Trade Catalog Collection",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Annual_catalogue_-_fruits%2C_ornamentals%2C_seeds_and_plants_%28IA_annualcataloguef1934bent%29.pdf/page1-500px-Annual_catalogue_-_fruits%2C_ornamentals%2C_seeds_and_plants_%28IA_annualcataloguef1934bent%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Annual_catalogue_-_fruits,_ornamentals,_seeds_and_plants_(IA_annualcataloguef1934bent).pdf",
-        "title": "Annual catalogue - fruits, ornamentals, seeds and plants (IA annualcataloguef1934bent).pdf",
-        "credit": "Benton County Nursery Co \n Henry G. Gilbert Nursery and Seed Trade Catalog Collection",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Bountiful_Ridge_Nurseries_-_our_complete_catalog_and_planting_guide_for_fall_1953_and_spring_1954_%28IA_bountifulridgenu19boun_22%29.pdf/page1-960px-Bountiful_Ridge_Nurseries_-_our_complete_catalog_and_planting_guide_for_fall_1953_and_spring_1954_%28IA_bountifulridgenu19boun_22%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Bountiful_Ridge_Nurseries_-_our_complete_catalog_and_planting_guide_for_fall_1953_and_spring_1954_(IA_bountifulridgenu19boun_22).pdf",
-        "title": "Bountiful Ridge Nurseries - our complete catalog and planting guide for fall 1953 and spring 1954 (IA bountifulridgenu19boun 22).pdf",
-        "credit": "Bountiful Ridge Nurseries \n Henry G. Gilbert Nursery and Seed Trade Catalog Collection",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Dependable_trees_fruits%2C_shrubs%2C_vines%2C_plants_and_seeds_-_wholesale_prices_direct_from_growers_to_planters_-_Benton_County_Nursery_Co._%28IA_CAT31326773%29.pdf/page1-500px-Dependable_trees_fruits%2C_shrubs%2C_vines%2C_plants_and_seeds_-_wholesale_prices_direct_from_growers_to_planters_-_Benton_County_Nursery_Co._%28IA_CAT31326773%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Dependable_trees_fruits,_shrubs,_vines,_plants_and_seeds_-_wholesale_prices_direct_from_growers_to_planters_-_Benton_County_Nursery_Co._(IA_CAT31326773).pdf",
-        "title": "Dependable trees fruits, shrubs, vines, plants and seeds - wholesale prices direct from growers to planters - Benton County Nursery Co. (IA CAT31326773).pdf",
-        "credit": "Benton County Nursery Co \n Henry G. Gilbert Nursery and Seed Trade Catalog Collection",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Gleanings_in_bee_culture_%28IA_CAT93976214281%29.pdf/page1-500px-Gleanings_in_bee_culture_%28IA_CAT93976214281%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Gleanings_in_bee_culture_(IA_CAT93976214281).pdf",
-        "title": "Gleanings in bee culture (IA CAT93976214281).pdf",
-        "credit": "",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/07-07-1983_%28case_file_153815%29_-_DPLA_-_84f24299e6d10baea746da18c54137ce.pdf/page1-960px-07-07-1983_%28case_file_153815%29_-_DPLA_-_84f24299e6d10baea746da18c54137ce.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:07-07-1983_(case_file_153815)_-_DPLA_-_84f24299e6d10baea746da18c54137ce.pdf",
-        "title": "07-07-1983 (case file 153815) - DPLA - 84f24299e6d10baea746da18c54137ce.pdf",
-        "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1981-1/20/1989",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      }
-    ],
+    "src": null,
+    "page": "",
+    "credit": "",
+    "license": "",
+    "source": "",
+    "gallery": [],
     "builder": "",
     "model": "Black Cat Super Fuzz",
     "pedal_id": "DISC-0687"
   },
   "DISC-0688": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Cornell_University_Library_digitization_%28IA_cu31924022164341%29.pdf/page1-500px-Cornell_University_Library_digitization_%28IA_cu31924022164341%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Cornell_University_Library_digitization_(IA_cu31924022164341).pdf",
-    "credit": "Copinger, Walter Arthur, 1847-1910",
-    "license": "Public domain",
-    "source": "Wikimedia Commons",
-    "gallery": [
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Cornell_University_Library_digitization_%28IA_cu31924022164341%29.pdf/page1-500px-Cornell_University_Library_digitization_%28IA_cu31924022164341%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Cornell_University_Library_digitization_(IA_cu31924022164341).pdf",
-        "title": "Cornell University Library digitization (IA cu31924022164341).pdf",
-        "credit": "Copinger, Walter Arthur, 1847-1910",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Mr._Sprouts%2C_his_opinions_%28IA_mrsproutshisopin00whi%29.pdf/page1-500px-Mr._Sprouts%2C_his_opinions_%28IA_mrsproutshisopin00whi%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Mr._Sprouts,_his_opinions_(IA_mrsproutshisopin00whi).pdf",
-        "title": "Mr. Sprouts, his opinions (IA mrsproutshisopin00whi).pdf",
-        "credit": "Whiteing, Richard, 1840-1928",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Mr._Sprouts_his_opinions_%28IA_mrsproutshisopin00whit%29.pdf/page1-500px-Mr._Sprouts_his_opinions_%28IA_mrsproutshisopin00whit%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Mr._Sprouts_his_opinions_(IA_mrsproutshisopin00whit).pdf",
-        "title": "Mr. Sprouts his opinions (IA mrsproutshisopin00whit).pdf",
-        "credit": "Whiteing, Richard, 1840-1928",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Sally_Cary%3B_a_long_hidden_romance_of_Washington%27s_life_%28IA_sallycarylonghid00cary%29.pdf/page1-500px-Sally_Cary%3B_a_long_hidden_romance_of_Washington%27s_life_%28IA_sallycarylonghid00cary%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Sally_Cary;_a_long_hidden_romance_of_Washington%27s_life_(IA_sallycarylonghid00cary).pdf",
-        "title": "Sally Cary; a long hidden romance of Washington's life (IA sallycarylonghid00cary).pdf",
-        "credit": "Cary, Wilson Miles, 1838-1914 \n Harrison, Fairfax, 1869-1938, ed",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Scientific_American_-_Series_1_-_Volume_011_-_Issue_37.pdf/page1-1280px-Scientific_American_-_Series_1_-_Volume_011_-_Issue_37.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Scientific_American_-_Series_1_-_Volume_011_-_Issue_37.pdf",
-        "title": "Scientific American - Series 1 - Volume 011 - Issue 37.pdf",
-        "credit": "",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/The_law_of_contracts_%28IA_cu31924018824320%29.pdf/page1-500px-The_law_of_contracts_%28IA_cu31924018824320%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:The_law_of_contracts_(IA_cu31924018824320).pdf",
-        "title": "The law of contracts (IA cu31924018824320).pdf",
-        "credit": "Parsons, Theophilus, 1797-1882",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      }
-    ],
+    "src": null,
+    "page": "",
+    "credit": "",
+    "license": "",
+    "source": "",
+    "gallery": [],
     "builder": "",
     "model": "Black Cat The Ferritt",
     "pedal_id": "DISC-0688"
@@ -6563,12 +6367,53 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-0714"
   },
   "DISC-0715": {
-    "src": null,
-    "page": "",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/The_Billboard_1907-07-20-_Vol_19_Iss_29_%28IA_sim_billboard_1907-07-20_19_29%29.pdf/page1-1280px-The_Billboard_1907-07-20-_Vol_19_Iss_29_%28IA_sim_billboard_1907-07-20_19_29%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Billboard_1907-07-20-_Vol_19_Iss_29_(IA_sim_billboard_1907-07-20_19_29).pdf",
     "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "license": "Public domain",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/The_Billboard_1907-07-20-_Vol_19_Iss_29_%28IA_sim_billboard_1907-07-20_19_29%29.pdf/page1-1280px-The_Billboard_1907-07-20-_Vol_19_Iss_29_%28IA_sim_billboard_1907-07-20_19_29%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Billboard_1907-07-20-_Vol_19_Iss_29_(IA_sim_billboard_1907-07-20_19_29).pdf",
+        "title": "The Billboard 1907-07-20- Vol 19 Iss 29 (IA sim billboard 1907-07-20 19 29).pdf",
+        "credit": "",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Billboard_1908-10-10-_Vol_20_Iss_41_%28IA_sim_billboard_1908-10-10_20_41%29.pdf/page1-1280px-The_Billboard_1908-10-10-_Vol_20_Iss_41_%28IA_sim_billboard_1908-10-10_20_41%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Billboard_1908-10-10-_Vol_20_Iss_41_(IA_sim_billboard_1908-10-10_20_41).pdf",
+        "title": "The Billboard 1908-10-10- Vol 20 Iss 41 (IA sim billboard 1908-10-10 20 41).pdf",
+        "credit": "",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/The_Billboard_1916-06-17-_Vol_28_Iss_25_%28IA_sim_billboard_1916-06-17_28_25%29.pdf/page1-1280px-The_Billboard_1916-06-17-_Vol_28_Iss_25_%28IA_sim_billboard_1916-06-17_28_25%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Billboard_1916-06-17-_Vol_28_Iss_25_(IA_sim_billboard_1916-06-17_28_25).pdf",
+        "title": "The Billboard 1916-06-17- Vol 28 Iss 25 (IA sim billboard 1916-06-17 28 25).pdf",
+        "credit": "",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/The_Billboard_1922-10-14-_Vol_34_Iss_41_%28IA_sim_billboard_1922-10-14_34_41%29.pdf/page1-1280px-The_Billboard_1922-10-14-_Vol_34_Iss_41_%28IA_sim_billboard_1922-10-14_34_41%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Billboard_1922-10-14-_Vol_34_Iss_41_(IA_sim_billboard_1922-10-14_34_41).pdf",
+        "title": "The Billboard 1922-10-14- Vol 34 Iss 41 (IA sim billboard 1922-10-14 34 41).pdf",
+        "credit": "",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/The_Billboard_1923-02-03-_Vol_35_Iss_5_%28IA_sim_billboard_1923-02-03_35_5%29.pdf/page1-1280px-The_Billboard_1923-02-03-_Vol_35_Iss_5_%28IA_sim_billboard_1923-02-03_35_5%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Billboard_1923-02-03-_Vol_35_Iss_5_(IA_sim_billboard_1923-02-03_35_5).pdf",
+        "title": "The Billboard 1923-02-03- Vol 35 Iss 5 (IA sim billboard 1923-02-03 35 5).pdf",
+        "credit": "",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "BSM RM Majestic",
     "pedal_id": "DISC-0715"
@@ -7949,12 +7794,29 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-0841"
   },
   "DISC-0842": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Mad_Professor_pedalboard.jpg/1280px-Mad_Professor_pedalboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mad_Professor_pedalboard.jpg",
+    "credit": "Skimel",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Mad_Professor_pedalboard.jpg/1280px-Mad_Professor_pedalboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Mad_Professor_pedalboard.jpg",
+        "title": "Mad Professor pedalboard.jpg",
+        "credit": "Skimel",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Heights_%28Assumption_College%29_1962.pdf/page1-1280px-Heights_%28Assumption_College%29_1962.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Heights_(Assumption_College)_1962.pdf",
+        "title": "Heights (Assumption College) 1962.pdf",
+        "credit": "Assumption College",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Mad Professor Little Tweedy Drive",
     "pedal_id": "DISC-0842"
@@ -8741,61 +8603,12 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-1106"
   },
   "DISC-1107": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Kin_Wikipedia_25_15_9x16_Caption.webm/960px--Kin_Wikipedia_25_15_9x16_Caption.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-    "page": "https://commons.wikimedia.org/wiki/File:Kin_Wikipedia_25_15_9x16_Caption.webm",
-    "credit": "Wikimedia Foundation; see  #Attributions  for for full credits in the collapsed table below this infobox.",
-    "license": "CC BY-SA 4.0",
-    "source": "Wikimedia Commons",
-    "gallery": [
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Kin_Wikipedia_25_15_9x16_Caption.webm/960px--Kin_Wikipedia_25_15_9x16_Caption.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-        "page": "https://commons.wikimedia.org/wiki/File:Kin_Wikipedia_25_15_9x16_Caption.webm",
-        "title": "Kin Wikipedia 25 15 9x16 Caption.webm",
-        "credit": "Wikimedia Foundation; see  #Attributions  for for full credits in the collapsed table below this infobox.",
-        "license": "CC BY-SA 4.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Kin_Wikipedia_25_15_9x16_Clean.webm/960px--Kin_Wikipedia_25_15_9x16_Clean.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-        "page": "https://commons.wikimedia.org/wiki/File:Kin_Wikipedia_25_15_9x16_Clean.webm",
-        "title": "Kin Wikipedia 25 15 9x16 Clean.webm",
-        "credit": "Wikimedia Foundation; see  #Attributions  for for full credits in the collapsed table below this infobox.",
-        "license": "CC BY-SA 4.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Kin_Wikipedia_25_30%22_AI_9x16_Caption.webm/960px--Kin_Wikipedia_25_30%22_AI_9x16_Caption.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-        "page": "https://commons.wikimedia.org/wiki/File:Kin_Wikipedia_25_30%22_AI_9x16_Caption.webm",
-        "title": "Kin Wikipedia 25 30\" AI 9x16 Caption.webm",
-        "credit": "Wikimedia Foundation; see  #Attributions  for for full credits in the collapsed table below this infobox.",
-        "license": "CC BY-SA 4.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Kin_Wikipedia_25_ANTHEM_9x16_Caption.webm/960px--Kin_Wikipedia_25_ANTHEM_9x16_Caption.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-        "page": "https://commons.wikimedia.org/wiki/File:Kin_Wikipedia_25_ANTHEM_9x16_Caption.webm",
-        "title": "Kin Wikipedia 25 ANTHEM 9x16 Caption.webm",
-        "credit": "Wikimedia Foundation; full credits list available in the collapsed table below this infobox.",
-        "license": "CC BY-SA 4.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kin_Wikipedia_25_Anthem_15%22_16x9.webm/1280px--Kin_Wikipedia_25_Anthem_15%22_16x9.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-        "page": "https://commons.wikimedia.org/wiki/File:Kin_Wikipedia_25_Anthem_15%22_16x9.webm",
-        "title": "Kin Wikipedia 25 Anthem 15\" 16x9.webm",
-        "credit": "Wikimedia Foundation; see  #Attributions  for for full credits in the collapsed table below this infobox.",
-        "license": "CC BY-SA 4.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kin_Wikipedia_25_Anthem_15%22_16x9_Caption.webm/1280px--Kin_Wikipedia_25_Anthem_15%22_16x9_Caption.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-        "page": "https://commons.wikimedia.org/wiki/File:Kin_Wikipedia_25_Anthem_15%22_16x9_Caption.webm",
-        "title": "Kin Wikipedia 25 Anthem 15\" 16x9 Caption.webm",
-        "credit": "Wikimedia Foundation; see  #Attributions  for for full credits in the collapsed table below this infobox.",
-        "license": "CC BY-SA 4.0",
-        "source": "Wikimedia Commons"
-      }
-    ],
+    "src": null,
+    "page": "",
+    "credit": "",
+    "license": "",
+    "source": "",
+    "gallery": [],
     "builder": "",
     "model": "JAM Pedals Double Dreamer",
     "pedal_id": "DISC-1107"
@@ -10649,34 +10462,181 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-1298"
   },
   "DISC-1299": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Deep_Impact_HRI.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Deep_Impact_HRI.jpeg",
+    "credit": "NASA/JPL-Caltech/UMD",
+    "license": "Public domain",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Deep_Impact_HRI.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Deep_Impact_HRI.jpeg",
+        "title": "Deep Impact HRI.jpeg",
+        "credit": "NASA/JPL-Caltech/UMD",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Deep_Purple_-_MN_Gredos_-_01.jpg/1280px-Deep_Purple_-_MN_Gredos_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Deep_Purple_-_MN_Gredos_-_01.jpg",
+        "title": "Deep Purple - MN Gredos - 01.jpg",
+        "credit": "Carlos Delgado",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Deep_Purple_-_MN_Gredos_-_02.jpg/1280px-Deep_Purple_-_MN_Gredos_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Deep_Purple_-_MN_Gredos_-_02.jpg",
+        "title": "Deep Purple - MN Gredos - 02.jpg",
+        "credit": "Carlos Delgado",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Deep_Purple_-_MN_Gredos_-_08.jpg/1280px-Deep_Purple_-_MN_Gredos_-_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Deep_Purple_-_MN_Gredos_-_08.jpg",
+        "title": "Deep Purple - MN Gredos - 08.jpg",
+        "credit": "Carlos Delgado",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Deep_River_Indiana_20250921_e.jpg/1280px-Deep_River_Indiana_20250921_e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Deep_River_Indiana_20250921_e.jpg",
+        "title": "Deep River Indiana 20250921 e.jpg",
+        "credit": "Jstuby",
+        "license": "CC0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Hubble_Extreme_Deep_Field_%28full_resolution%29.png/1280px-Hubble_Extreme_Deep_Field_%28full_resolution%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Hubble_Extreme_Deep_Field_(full_resolution).png",
+        "title": "Hubble Extreme Deep Field (full resolution).png",
+        "credit": "NASA; ESA; G. Illingworth, D. Magee, and P. Oesch, University of California, Santa Cruz; R. Bouwens, Leiden University; and the HUDF09 Team",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Deep",
     "pedal_id": "DISC-1299"
   },
   "DISC-1300": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/3_ways_to_look_at_the_World_Wide_Web.webm/1280px--3_ways_to_look_at_the_World_Wide_Web.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+    "page": "https://commons.wikimedia.org/wiki/File:3_ways_to_look_at_the_World_Wide_Web.webm",
+    "credit": "Renepick",
+    "license": "CC BY-SA 3.0",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/3_ways_to_look_at_the_World_Wide_Web.webm/1280px--3_ways_to_look_at_the_World_Wide_Web.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+        "page": "https://commons.wikimedia.org/wiki/File:3_ways_to_look_at_the_World_Wide_Web.webm",
+        "title": "3 ways to look at the World Wide Web.webm",
+        "credit": "Renepick",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Design-principles_of_the_World_Wide_Web.webm/1280px--Design-principles_of_the_World_Wide_Web.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+        "page": "https://commons.wikimedia.org/wiki/File:Design-principles_of_the_World_Wide_Web.webm",
+        "title": "Design-principles of the World Wide Web.webm",
+        "credit": "Renepick",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Herjangsfjorden_%26_Ofotfjorden%2C_wide%2C_2009_09.jpg/1280px-Herjangsfjorden_%26_Ofotfjorden%2C_wide%2C_2009_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Herjangsfjorden_%26_Ofotfjorden,_wide,_2009_09.jpg",
+        "title": "Herjangsfjorden & Ofotfjorden, wide, 2009 09.jpg",
+        "credit": "Ximonic , Simo Räsänen",
+        "license": "GFDL",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Motivation_for_creating_the_World_Wide_Web.webm/1280px--Motivation_for_creating_the_World_Wide_Web.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+        "page": "https://commons.wikimedia.org/wiki/File:Motivation_for_creating_the_World_Wide_Web.webm",
+        "title": "Motivation for creating the World Wide Web.webm",
+        "credit": "Renepick",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Problems_with_the_Question_of_%22How_big_is_the_World_Wide_Web%22.webm/1280px--Problems_with_the_Question_of_%22How_big_is_the_World_Wide_Web%22.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+        "page": "https://commons.wikimedia.org/wiki/File:Problems_with_the_Question_of_%22How_big_is_the_World_Wide_Web%22.webm",
+        "title": "Problems with the Question of \"How big is the World Wide Web\".webm",
+        "credit": "Renepick",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Tim_Berners-Lee%E2%80%99s_proposal_for_a_World_Wide_Web_hypertext_proposal%2C_notice_board%2C_CERN.jpg/1280px-Tim_Berners-Lee%E2%80%99s_proposal_for_a_World_Wide_Web_hypertext_proposal%2C_notice_board%2C_CERN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Tim_Berners-Lee%E2%80%99s_proposal_for_a_World_Wide_Web_hypertext_proposal,_notice_board,_CERN.jpg",
+        "title": "Tim Berners-Lee’s proposal for a World Wide Web hypertext proposal, notice board, CERN.jpg",
+        "credit": "Mramoeba",
+        "license": "CC0",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Wide",
     "pedal_id": "DISC-1300"
   },
   "DISC-1301": {
-    "src": null,
-    "page": "",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Far_North_Territorial_Authority.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Far_North_Territorial_Authority.PNG",
     "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "license": "Public domain",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Far_North_Territorial_Authority.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Far_North_Territorial_Authority.PNG",
+        "title": "Far North Territorial Authority.PNG",
+        "credit": "",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Far_North_district_in_NZ_2017.svg/1280px-Far_North_district_in_NZ_2017.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Far_North_district_in_NZ_2017.svg",
+        "title": "Far North district in NZ 2017.svg",
+        "credit": "Furfur",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Gg-far-north-visit-3-feb-2012-waitangi-2012-001.jpg/1280px-Gg-far-north-visit-3-feb-2012-waitangi-2012-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Gg-far-north-visit-3-feb-2012-waitangi-2012-001.jpg",
+        "title": "Gg-far-north-visit-3-feb-2012-waitangi-2012-001.jpg",
+        "credit": "New Zealand Government, Office of the Governor-General",
+        "license": "CC BY 4.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Parliamentary_party_on_tour_of_Far_North_in_Austin_cars_%28government_cars%29_-_countryside%28GN03641%29.jpg/1280px-Parliamentary_party_on_tour_of_Far_North_in_Austin_cars_%28government_cars%29_-_countryside%28GN03641%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Parliamentary_party_on_tour_of_Far_North_in_Austin_cars_(government_cars)_-_countryside(GN03641).jpg",
+        "title": "Parliamentary party on tour of Far North in Austin cars (government cars) - countryside(GN03641).jpg",
+        "credit": "State Government Photographer",
+        "license": "CC0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Parliamentary_party_on_tour_of_Far_North_in_Austin_cars_%28government_cars%29_-_shows_men_bathing_in_river%28GN04391%29.jpg/1280px-Parliamentary_party_on_tour_of_Far_North_in_Austin_cars_%28government_cars%29_-_shows_men_bathing_in_river%28GN04391%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Parliamentary_party_on_tour_of_Far_North_in_Austin_cars_(government_cars)_-_shows_men_bathing_in_river(GN04391).jpg",
+        "title": "Parliamentary party on tour of Far North in Austin cars (government cars) - shows men bathing in river(GN04391).jpg",
+        "credit": "State Government Photographer",
+        "license": "CC0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/FAR_Rabat_2011.jpg/1280px-FAR_Rabat_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:FAR_Rabat_2011.jpg",
+        "title": "FAR Rabat 2011.jpg",
+        "credit": "Mustapha Ennaimi",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Far",
     "pedal_id": "DISC-1301"
@@ -11408,61 +11368,12 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-0904"
   },
   "DISC-0905": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Intermountain_reporter_-_U.S._Dept._of_Agriculture%2C_Forest_Service._%28IA_CAT89927134052%29.pdf/page1-960px-Intermountain_reporter_-_U.S._Dept._of_Agriculture%2C_Forest_Service._%28IA_CAT89927134052%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Intermountain_reporter_-_U.S._Dept._of_Agriculture,_Forest_Service._(IA_CAT89927134052).pdf",
-    "credit": "United States. Forest Service. Rocky Mountain Region",
-    "license": "Public domain",
-    "source": "Wikimedia Commons",
-    "gallery": [
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Intermountain_reporter_-_U.S._Dept._of_Agriculture%2C_Forest_Service._%28IA_CAT89927134052%29.pdf/page1-960px-Intermountain_reporter_-_U.S._Dept._of_Agriculture%2C_Forest_Service._%28IA_CAT89927134052%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Intermountain_reporter_-_U.S._Dept._of_Agriculture,_Forest_Service._(IA_CAT89927134052).pdf",
-        "title": "Intermountain reporter - U.S. Dept. of Agriculture, Forest Service. (IA CAT89927134052).pdf",
-        "credit": "United States. Forest Service. Rocky Mountain Region",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Bierce_-_Collected_Works_-_Volume_12.djvu/page1-1280px-Bierce_-_Collected_Works_-_Volume_12.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Bierce_-_Collected_Works_-_Volume_12.djvu",
-        "title": "Bierce - Collected Works - Volume 12.djvu",
-        "credit": "Bierce, Ambrose, 1842-1914",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Clearing_land_%28IA_CAT87203314%29.pdf/page1-960px-Clearing_land_%28IA_CAT87203314%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Clearing_land_(IA_CAT87203314).pdf",
-        "title": "Clearing land (IA CAT87203314).pdf",
-        "credit": "Strait, Earl Devere,",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Distribution_of_mammals%2C_reptiles%2C_and_amphibians_by_BLM_physiographic_regions_and_A.W._Kuchler%27s_associations_for_the_eleven_western_states_-_USACE-p16021coll3-165.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Distribution_of_mammals,_reptiles,_and_amphibians_by_BLM_physiographic_regions_and_A.W._Kuchler%27s_associations_for_the_eleven_western_states_-_USACE-p16021coll3-165.pdf",
-        "title": "Distribution of mammals, reptiles, and amphibians by BLM physiographic regions and A.W. Kuchler's associations for the eleven western states - USACE-p16021coll3-165.pdf",
-        "credit": "United States. Bureau of Land Management",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Extension_service_review_%28IA_CAT10252415155%29.pdf/page1-1280px-Extension_service_review_%28IA_CAT10252415155%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Extension_service_review_(IA_CAT10252415155).pdf",
-        "title": "Extension service review (IA CAT10252415155).pdf",
-        "credit": "United States. Extension Service \n United States. Federal Extension Service",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Poetical_Works_by_Jonathan_E._Hoag_%281923%29.djvu/page1-500px-Poetical_Works_by_Jonathan_E._Hoag_%281923%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Poetical_Works_by_Jonathan_E._Hoag_(1923).djvu",
-        "title": "Poetical Works by Jonathan E. Hoag (1923).djvu",
-        "credit": "Jonathan E Hoag",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      }
-    ],
+    "src": null,
+    "page": "",
+    "credit": "",
+    "license": "",
+    "source": "",
+    "gallery": [],
     "builder": "",
     "model": "Stomp Under Foot Mountain Goat",
     "pedal_id": "DISC-0905"
@@ -17276,12 +17187,21 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-1253"
   },
   "DISC-1254::::Smitty Pedals SmittyDriver": {
-    "src": null,
-    "page": "",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Aurora_%28IA_aurora1969nort%29.pdf/page1-960px-Aurora_%28IA_aurora1969nort%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Aurora_(IA_aurora1969nort).pdf",
     "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "license": "Public domain",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Aurora_%28IA_aurora1969nort%29.pdf/page1-960px-Aurora_%28IA_aurora1969nort%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Aurora_(IA_aurora1969nort).pdf",
+        "title": "Aurora (IA aurora1969nort).pdf",
+        "credit": "",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Smitty Pedals SmittyDriver",
     "pedal_id": "DISC-1254"
@@ -20015,12 +19935,21 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-1457"
   },
   "DISC-1458": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Ginda_Bestari_-_overdrive_on_electric_guitar_%28Lovepedal_Kalamazoo%2C_Providence_Stampede_OD%29.webm/1280px--Ginda_Bestari_-_overdrive_on_electric_guitar_%28Lovepedal_Kalamazoo%2C_Providence_Stampede_OD%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+    "page": "https://commons.wikimedia.org/wiki/File:Ginda_Bestari_-_overdrive_on_electric_guitar_(Lovepedal_Kalamazoo,_Providence_Stampede_OD).webm",
+    "credit": "Ginda Bestari Music Channel",
+    "license": "CC BY-SA 3.0",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Ginda_Bestari_-_overdrive_on_electric_guitar_%28Lovepedal_Kalamazoo%2C_Providence_Stampede_OD%29.webm/1280px--Ginda_Bestari_-_overdrive_on_electric_guitar_%28Lovepedal_Kalamazoo%2C_Providence_Stampede_OD%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+        "page": "https://commons.wikimedia.org/wiki/File:Ginda_Bestari_-_overdrive_on_electric_guitar_(Lovepedal_Kalamazoo,_Providence_Stampede_OD).webm",
+        "title": "Ginda Bestari - overdrive on electric guitar (Lovepedal Kalamazoo, Providence Stampede OD).webm",
+        "credit": "Ginda Bestari Music Channel",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Lovepedal Kalamazoo",
     "pedal_id": "DISC-1458"
@@ -21709,21 +21638,12 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-1611"
   },
   "DISC-1612": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Vexter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Vexter.jpg",
-    "credit": "NIRVANA2764  at  English Wikipedia",
-    "license": "Public domain",
-    "source": "Wikimedia Commons",
-    "gallery": [
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Vexter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Vexter.jpg",
-        "title": "Vexter.jpg",
-        "credit": "NIRVANA2764  at  English Wikipedia",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      }
-    ],
+    "src": null,
+    "page": "",
+    "credit": "",
+    "license": "",
+    "source": "",
+    "gallery": [],
     "builder": "",
     "model": "Z. Vex Vexter Fuzz Factory",
     "pedal_id": "DISC-1612"
@@ -26767,12 +26687,61 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-2070"
   },
   "DISC-2071": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/A_prodigal_in_love_-_a_novel_%28IA_prodigalinloveno00wolfrich%29.pdf/page1-500px-A_prodigal_in_love_-_a_novel_%28IA_prodigalinloveno00wolfrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:A_prodigal_in_love_-_a_novel_(IA_prodigalinloveno00wolfrich).pdf",
+    "credit": "Wolf, Emma, 1865-1932",
+    "license": "Public domain",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/A_prodigal_in_love_-_a_novel_%28IA_prodigalinloveno00wolfrich%29.pdf/page1-500px-A_prodigal_in_love_-_a_novel_%28IA_prodigalinloveno00wolfrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:A_prodigal_in_love_-_a_novel_(IA_prodigalinloveno00wolfrich).pdf",
+        "title": "A prodigal in love - a novel (IA prodigalinloveno00wolfrich).pdf",
+        "credit": "Wolf, Emma, 1865-1932",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Autumns_on_the_Spey._With_four_illustrations_by_Wolf_%28IA_cu31924003429291%29.pdf/page1-500px-Autumns_on_the_Spey._With_four_illustrations_by_Wolf_%28IA_cu31924003429291%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Autumns_on_the_Spey._With_four_illustrations_by_Wolf_(IA_cu31924003429291).pdf",
+        "title": "Autumns on the Spey. With four illustrations by Wolf (IA cu31924003429291).pdf",
+        "credit": "Knox, Arthur Edward",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/The_two-legged_wolf%2C_a_romance_%28IA_twoleggedwolfrom00karaiala%29.pdf/page1-500px-The_two-legged_wolf%2C_a_romance_%28IA_twoleggedwolfrom00karaiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:The_two-legged_wolf,_a_romance_(IA_twoleggedwolfrom00karaiala).pdf",
+        "title": "The two-legged wolf, a romance (IA twoleggedwolfrom00karaiala).pdf",
+        "credit": "Karazin, N. N. (Nikolai Nikolaevich), 1842-1908 \n Lanin, Boris",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Wolf_breed_%28IA_wolfbreed00gregrich%29.pdf/page1-500px-Wolf_breed_%28IA_wolfbreed00gregrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Wolf_breed_(IA_wolfbreed00gregrich).pdf",
+        "title": "Wolf breed (IA wolfbreed00gregrich).pdf",
+        "credit": "Gregory, Jackson, 1882-1943",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Brehm%27s_Life_of_animals_-_a_complete_natural_history_for_popular_home_instruction_and_for_the_use_of_schools._Mammalia_%281896%29_%2820404394612%29.jpg/1280px-Brehm%27s_Life_of_animals_-_a_complete_natural_history_for_popular_home_instruction_and_for_the_use_of_schools._Mammalia_%281896%29_%2820404394612%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Brehm%27s_Life_of_animals_-_a_complete_natural_history_for_popular_home_instruction_and_for_the_use_of_schools._Mammalia_(1896)_(20404394612).jpg",
+        "title": "Brehm's Life of animals - a complete natural history for popular home instruction and for the use of schools. Mammalia (1896) (20404394612).jpg",
+        "credit": "Internet Archive Book Images",
+        "license": "No restrictions",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/DETECTION_OF_LEAD_IN_THE_DC_DRINKING_WATER_SYSTEM_%28IA_gov.gpo.fdsys.CHRG-108shrg94604%29.pdf/page1-960px-DETECTION_OF_LEAD_IN_THE_DC_DRINKING_WATER_SYSTEM_%28IA_gov.gpo.fdsys.CHRG-108shrg94604%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:DETECTION_OF_LEAD_IN_THE_DC_DRINKING_WATER_SYSTEM_(IA_gov.gpo.fdsys.CHRG-108shrg94604).pdf",
+        "title": "DETECTION OF LEAD IN THE DC DRINKING WATER SYSTEM (IA gov.gpo.fdsys.CHRG-108shrg94604).pdf",
+        "credit": "Committee on Environment and Public Works",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Grumbly Wolf",
     "pedal_id": "DISC-2071"
@@ -26807,30 +26776,6 @@ window.DIRT_PHOTO_MANIFEST = {
         "credit": "Oldangelmidnight  from Northampton, MA",
         "license": "CC BY-SA 2.0",
         "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Photocatalytic_activity_of_graphene_oxide%E2%80%93TiO2_thin_films_sensitized_by_natural_dyes_extracted_from_Bactris_guineensis.pdf/page1-960px-Photocatalytic_activity_of_graphene_oxide%E2%80%93TiO2_thin_films_sensitized_by_natural_dyes_extracted_from_Bactris_guineensis.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Photocatalytic_activity_of_graphene_oxide%E2%80%93TiO2_thin_films_sensitized_by_natural_dyes_extracted_from_Bactris_guineensis.pdf",
-        "title": "Photocatalytic activity of graphene oxide–TiO2 thin films sensitized by natural dyes extracted from Bactris guineensis.pdf",
-        "credit": "Vallejo, William; Rueda, Angie; Díaz-Uribe, Carlos; Grande, Carlos; Quintana, Patricia",
-        "license": "CC BY 4.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Victoria_Daily_Times_%281922-06-22%29_%28IA_victoriadailytimes19220622%29.pdf/page1-1280px-Victoria_Daily_Times_%281922-06-22%29_%28IA_victoriadailytimes19220622%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Victoria_Daily_Times_(1922-06-22)_(IA_victoriadailytimes19220622).pdf",
-        "title": "Victoria Daily Times (1922-06-22) (IA victoriadailytimes19220622).pdf",
-        "credit": "",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Weymouth_Gazette_1913_April_%28IA_WeymouthGazette191304%29.pdf/page1-1280px-Weymouth_Gazette_1913_April_%28IA_WeymouthGazette191304%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Weymouth_Gazette_1913_April_(IA_WeymouthGazette191304).pdf",
-        "title": "Weymouth Gazette 1913 April (IA WeymouthGazette191304).pdf",
-        "credit": "",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
       }
     ],
     "builder": "",
@@ -26838,61 +26783,12 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-2072"
   },
   "DISC-2073": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/A_new_dictionary_of_heraldry_..._-_and_a_concise_account_of_the_most_noted_orders_of_knighthood_that_are_or_have_been%2C_and_of_honours_and_dignities_ecclesiastical%2C_civil%2C_or_%28IA_newdictionaryofh00coat%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:A_new_dictionary_of_heraldry_..._-_and_a_concise_account_of_the_most_noted_orders_of_knighthood_that_are_or_have_been,_and_of_honours_and_dignities_ecclesiastical,_civil,_or_(IA_newdictionaryofh00coat).pdf",
-    "credit": "Coats, James. 4n",
-    "license": "Public domain",
-    "source": "Wikimedia Commons",
-    "gallery": [
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/A_new_dictionary_of_heraldry_..._-_and_a_concise_account_of_the_most_noted_orders_of_knighthood_that_are_or_have_been%2C_and_of_honours_and_dignities_ecclesiastical%2C_civil%2C_or_%28IA_newdictionaryofh00coat%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:A_new_dictionary_of_heraldry_..._-_and_a_concise_account_of_the_most_noted_orders_of_knighthood_that_are_or_have_been,_and_of_honours_and_dignities_ecclesiastical,_civil,_or_(IA_newdictionaryofh00coat).pdf",
-        "title": "A new dictionary of heraldry ... - and a concise account of the most noted orders of knighthood that are or have been, and of honours and dignities ecclesiastical, civil, or (IA newdictionaryofh00coat).pdf",
-        "credit": "Coats, James. 4n",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Burke%27s_picture_primer%2C_or%2C_Spelling_and_reading_taught_in_an_easy_and_familiar_manner_-_with_numerous_cuts_%28IA_22435913.3939.emory.edu%29.pdf/page1-500px-Burke%27s_picture_primer%2C_or%2C_Spelling_and_reading_taught_in_an_easy_and_familiar_manner_-_with_numerous_cuts_%28IA_22435913.3939.emory.edu%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Burke%27s_picture_primer,_or,_Spelling_and_reading_taught_in_an_easy_and_familiar_manner_-_with_numerous_cuts_(IA_22435913.3939.emory.edu).pdf",
-        "title": "Burke's picture primer, or, Spelling and reading taught in an easy and familiar manner - with numerous cuts (IA 22435913.3939.emory.edu).pdf",
-        "credit": "Burke, Boykin &amp; Company, publisher",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Pioneer_recollections%3B_semi-historic_side_lights_on_the_early_days_of_Lansing_%28IA_pioneerrecollect00mevi%29.pdf/page1-500px-Pioneer_recollections%3B_semi-historic_side_lights_on_the_early_days_of_Lansing_%28IA_pioneerrecollect00mevi%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Pioneer_recollections;_semi-historic_side_lights_on_the_early_days_of_Lansing_(IA_pioneerrecollect00mevi).pdf",
-        "title": "Pioneer recollections; semi-historic side lights on the early days of Lansing (IA pioneerrecollect00mevi).pdf",
-        "credit": "Mevis, Daniel S. (Daniel Stafford), b.1837",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_English_spelling_book_%28microform%29_-_accompanied_by_a_progressive_series_of_easy_and_familiar_lessons%2C_intended_as_an_introduction_to_the_reading_and_spelling_of_the_English_language_%28IA_cihm_52396%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:The_English_spelling_book_(microform)_-_accompanied_by_a_progressive_series_of_easy_and_familiar_lessons,_intended_as_an_introduction_to_the_reading_and_spelling_of_the_English_language_(IA_cihm_52396).pdf",
-        "title": "The English spelling book (microform) - accompanied by a progressive series of easy and familiar lessons, intended as an introduction to the reading and spelling of the English language (IA cihm 52396).pdf",
-        "credit": "Mavor, William Fordyce, 1758-1837",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Including_you_and_me_%28IA_includingyoume00gill%29.pdf/page1-500px-Including_you_and_me_%28IA_includingyoume00gill%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Including_you_and_me_(IA_includingyoume00gill).pdf",
-        "title": "Including you and me (IA includingyoume00gill).pdf",
-        "credit": "Gillilan, Strickland W., 1869- [from old catalog]",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ovouao%D1%82IKOV_%D0%92paxu%2C_Sive_nomenclatura._1684_%28IA_bim_early-english-books-1641-1700_ovouaoikov-paxu-sive-_gregory-francis_1684%29.pdf/page1-500px-Ovouao%D1%82IKOV_%D0%92paxu%2C_Sive_nomenclatura._1684_%28IA_bim_early-english-books-1641-1700_ovouaoikov-paxu-sive-_gregory-francis_1684%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Ovouao%D1%82IKOV_%D0%92paxu,_Sive_nomenclatura._1684_(IA_bim_early-english-books-1641-1700_ovouaoikov-paxu-sive-_gregory-francis_1684).pdf",
-        "title": "OvouaoтIKOV Вpaxu, Sive nomenclatura. 1684 (IA bim early-english-books-1641-1700 ovouaoikov-paxu-sive- gregory-francis 1684).pdf",
-        "credit": "Gregory, Francis.",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      }
-    ],
+    "src": null,
+    "page": "",
+    "credit": "",
+    "license": "",
+    "source": "",
+    "gallery": [],
     "builder": "",
     "model": "Husk(er)y Wolf",
     "pedal_id": "DISC-2073"
@@ -28207,12 +28103,45 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-2204"
   },
   "DISC-2205": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/EH_Micro_Synthesizer.jpg/1280px-EH_Micro_Synthesizer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:EH_Micro_Synthesizer.jpg",
+    "credit": "Karl Jonsson",
+    "license": "CC BY 2.0",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/EH_Micro_Synthesizer.jpg/1280px-EH_Micro_Synthesizer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:EH_Micro_Synthesizer.jpg",
+        "title": "EH Micro Synthesizer.jpg",
+        "credit": "Karl Jonsson",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Pedal_Board_-_0708....jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Pedal_Board_-_0708....jpg",
+        "title": "Pedal Board - 0708....jpg",
+        "credit": "_endless_",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Pedalboard_2010_p1%2Bp2_%28by_endless_%29.jpg/1280px-Pedalboard_2010_p1%2Bp2_%28by_endless_%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Pedalboard_2010_p1%2Bp2_(by_endless_).jpg",
+        "title": "Pedalboard 2010 p1+p2 (by endless ).jpg",
+        "credit": "_endless_",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Pedalboard_2010_p1_%28by_endless_%29.jpg/1280px-Pedalboard_2010_p1_%28by_endless_%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Pedalboard_2010_p1_(by_endless_).jpg",
+        "title": "Pedalboard 2010 p1 (by endless ).jpg",
+        "credit": "_endless_",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Electro-Harmonix Micro Synthesizer",
     "pedal_id": "DISC-2205"
@@ -29571,12 +29500,53 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-2329"
   },
   "DISC-2330": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Duodeno_Biliary_Fistula_08786.jpg/1280px-Duodeno_Biliary_Fistula_08786.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Duodeno_Biliary_Fistula_08786.jpg",
+    "credit": "Nevit Dilmen  (  talk  )",
+    "license": "CC BY-SA 3.0",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Duodeno_Biliary_Fistula_08786.jpg/1280px-Duodeno_Biliary_Fistula_08786.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Duodeno_Biliary_Fistula_08786.jpg",
+        "title": "Duodeno Biliary Fistula 08786.jpg",
+        "credit": "Nevit Dilmen  (  talk  )",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Encyclopdie_d%27histoire_naturelle._%28IA_encyclopdiedhistchen%29.pdf/page1-960px-Encyclopdie_d%27histoire_naturelle._%28IA_encyclopdiedhistchen%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Encyclopdie_d%27histoire_naturelle._(IA_encyclopdiedhistchen).pdf",
+        "title": "Encyclopdie d'histoire naturelle. (IA encyclopdiedhistchen).pdf",
+        "credit": "Chenu",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Iconographie_du_r%C3%A8gne_animal_de_G._Cuvier%2C_ou%2C_Repr%C3%A9sentation_d%27apr%C3%A8s_nature_de_l%27une_des_esp%C3%A8ces_les_plus_et_souvent_non_encore_figur%C3%A9es_de_chaque_genre_d%27animaux_%28IA_iconographiedur2182944gu%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Iconographie_du_r%C3%A8gne_animal_de_G._Cuvier,_ou,_Repr%C3%A9sentation_d%27apr%C3%A8s_nature_de_l%27une_des_esp%C3%A8ces_les_plus_et_souvent_non_encore_figur%C3%A9es_de_chaque_genre_d%27animaux_(IA_iconographiedur2182944gu).pdf",
+        "title": "Iconographie du règne animal de G. Cuvier, ou, Représentation d'après nature de l'une des espèces les plus et souvent non encore figurées de chaque genre d'animaux (IA iconographiedur2182944gu).pdf",
+        "credit": "Guérin-Méneville, F.-E. (Félix-Edouard), 1799-1874 \n Cuvier, Georges, baron, 1769-1832. Règne animal \n Donckier, Henri, former owner. DSI \n Schaus, William, 1859- , former owner. DSI \n United States. Dept. of Agriculture Library, former owner. DSI",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Il_Paese_-_giornale_della_Democrazia_friulana_n._82_%281915%29_%28IA_IlPaese-82-1915%29.pdf/page1-1280px-Il_Paese_-_giornale_della_Democrazia_friulana_n._82_%281915%29_%28IA_IlPaese-82-1915%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Il_Paese_-_giornale_della_Democrazia_friulana_n._82_(1915)_(IA_IlPaese-82-1915).pdf",
+        "title": "Il Paese - giornale della Democrazia friulana n. 82 (1915) (IA IlPaese-82-1915).pdf",
+        "credit": "",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Post_hospitalization_outcomes_studies_-_final_report_%28IA_posthospitalizat00univ_1%29.pdf/page1-1280px-Post_hospitalization_outcomes_studies_-_final_report_%28IA_posthospitalizat00univ_1%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Post_hospitalization_outcomes_studies_-_final_report_(IA_posthospitalizat00univ_1).pdf",
+        "title": "Post hospitalization outcomes studies - final report (IA posthospitalizat00univ 1).pdf",
+        "credit": "University of Minnesota. Division of Health Services Research and Policy \n United States. Health Care Financing Administration \n United States. Agency for Health Care Policy and Research",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Biloma",
     "pedal_id": "DISC-2330"
@@ -29593,12 +29563,61 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-2331"
   },
   "DISC-2332": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cerebral_Atrophy_Partial_Epilepsy_Right_Hemiplegia.jpg/1280px-Cerebral_Atrophy_Partial_Epilepsy_Right_Hemiplegia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cerebral_Atrophy_Partial_Epilepsy_Right_Hemiplegia.jpg",
+    "credit": "Paul-Marie-Léon Regnard",
+    "license": "Public domain",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cerebral_Atrophy_Partial_Epilepsy_Right_Hemiplegia.jpg/1280px-Cerebral_Atrophy_Partial_Epilepsy_Right_Hemiplegia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Cerebral_Atrophy_Partial_Epilepsy_Right_Hemiplegia.jpg",
+        "title": "Cerebral Atrophy Partial Epilepsy Right Hemiplegia.jpg",
+        "credit": "Paul-Marie-Léon Regnard",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Overlapping_clinical_phenotypes_in_genes_associated_with_monogenic_forms_of_autism_spectrum_disorder_%28ASD%29%2C_dystonia%2C_epilepsy_and_schizophrenia.svg/1280px-Overlapping_clinical_phenotypes_in_genes_associated_with_monogenic_forms_of_autism_spectrum_disorder_%28ASD%29%2C_dystonia%2C_epilepsy_and_schizophrenia.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Overlapping_clinical_phenotypes_in_genes_associated_with_monogenic_forms_of_autism_spectrum_disorder_(ASD),_dystonia,_epilepsy_and_schizophrenia.svg",
+        "title": "Overlapping clinical phenotypes in genes associated with monogenic forms of autism spectrum disorder (ASD), dystonia, epilepsy and schizophrenia.svg",
+        "credit": "Mario Marcolongo",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/In_Spite_of_Epilepsy_-_Caius_Julius_C%C3%A6sar.jpg/1280px-In_Spite_of_Epilepsy_-_Caius_Julius_C%C3%A6sar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:In_Spite_of_Epilepsy_-_Caius_Julius_C%C3%A6sar.jpg",
+        "title": "In Spite of Epilepsy - Caius Julius Cæsar.jpg",
+        "credit": "Matthew Woods",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/In_Spite_of_Epilepsy_-_Lady_Byron.jpg/1280px-In_Spite_of_Epilepsy_-_Lady_Byron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:In_Spite_of_Epilepsy_-_Lady_Byron.jpg",
+        "title": "In Spite of Epilepsy - Lady Byron.jpg",
+        "credit": "Matthew Woods",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/In_Spite_of_Epilepsy_-_Lord_Byron.jpg/1280px-In_Spite_of_Epilepsy_-_Lord_Byron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:In_Spite_of_Epilepsy_-_Lord_Byron.jpg",
+        "title": "In Spite of Epilepsy - Lord Byron.jpg",
+        "credit": "Matthew Woods",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/In_Spite_of_Epilepsy_-_Margarita_Cogni.jpg/1280px-In_Spite_of_Epilepsy_-_Margarita_Cogni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:In_Spite_of_Epilepsy_-_Margarita_Cogni.jpg",
+        "title": "In Spite of Epilepsy - Margarita Cogni.jpg",
+        "credit": "Matthew Woods",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Epilepsy",
     "pedal_id": "DISC-2332"
@@ -30836,12 +30855,61 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-2443"
   },
   "DISC-2444": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/A_history_of_California_and_an_extended_history_of_its_southern_coast_counties%2C_also_containing_biographies_of_well-known_citizens_of_the_past_and_present_%28IA_historyofcalifor02guin%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:A_history_of_California_and_an_extended_history_of_its_southern_coast_counties,_also_containing_biographies_of_well-known_citizens_of_the_past_and_present_(IA_historyofcalifor02guin).pdf",
+    "credit": "Guinn, James Miller, 1834-1918",
+    "license": "Public domain",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/A_history_of_California_and_an_extended_history_of_its_southern_coast_counties%2C_also_containing_biographies_of_well-known_citizens_of_the_past_and_present_%28IA_historyofcalifor02guin%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:A_history_of_California_and_an_extended_history_of_its_southern_coast_counties,_also_containing_biographies_of_well-known_citizens_of_the_past_and_present_(IA_historyofcalifor02guin).pdf",
+        "title": "A history of California and an extended history of its southern coast counties, also containing biographies of well-known citizens of the past and present (IA historyofcalifor02guin).pdf",
+        "credit": "Guinn, James Miller, 1834-1918",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/An_historical_account_of_the_discovery_and_education_of_a_savage_man_-_or%2C_Of_the_first_developments%2C_physical_and_moral%2C_of_the_young_savage_caught_in_the_woods_near_Aveyron_in_the_year_1798_%28IA_b28747379%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:An_historical_account_of_the_discovery_and_education_of_a_savage_man_-_or,_Of_the_first_developments,_physical_and_moral,_of_the_young_savage_caught_in_the_woods_near_Aveyron_in_the_year_1798_(IA_b28747379).pdf",
+        "title": "An historical account of the discovery and education of a savage man - or, Of the first developments, physical and moral, of the young savage caught in the woods near Aveyron in the year 1798 (IA b28747379).pdf",
+        "credit": "Itard, Jean Marc Gaspard, 1775-1838. n 50037689 n 50037689",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Border_wars_of_Texas%3B_being_an_authentic_and_popular_account%2C_in_chronological_order%2C_of_the_long_and_bitter_conflict_waged_between_savage_Indian_tribes_and_the_pioneer_settlers_of_Texas_%28IA_borderwarsoftexa00des%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Border_wars_of_Texas;_being_an_authentic_and_popular_account,_in_chronological_order,_of_the_long_and_bitter_conflict_waged_between_savage_Indian_tribes_and_the_pioneer_settlers_of_Texas_(IA_borderwarsoftexa00des).pdf",
+        "title": "Border wars of Texas; being an authentic and popular account, in chronological order, of the long and bitter conflict waged between savage Indian tribes and the pioneer settlers of Texas (IA borderwarsoftexa00des).pdf",
+        "credit": "De Shields, James T",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Contributions_of_a_venerable_savage_to_the_ancient_history_of_the_Hawaiian_Islands._%28IA_contributionsofv00remy%29.pdf/page1-500px-Contributions_of_a_venerable_savage_to_the_ancient_history_of_the_Hawaiian_Islands._%28IA_contributionsofv00remy%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Contributions_of_a_venerable_savage_to_the_ancient_history_of_the_Hawaiian_Islands._(IA_contributionsofv00remy).pdf",
+        "title": "Contributions of a venerable savage to the ancient history of the Hawaiian Islands. (IA contributionsofv00remy).pdf",
+        "credit": "Remy, Jules, 1826-1893 \n Brigham, William Tufts, 1841-1926 tr",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Genetic_theory_of_reality%2C_being_the_outcome_of_genetic_logic_as_issuing_in_the_aesthetic_theory_of_reality_called_pancalism%2C_with_an_extended_glossary_of_terms_%28IA_genetictheoryofr01bald%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Genetic_theory_of_reality,_being_the_outcome_of_genetic_logic_as_issuing_in_the_aesthetic_theory_of_reality_called_pancalism,_with_an_extended_glossary_of_terms_(IA_genetictheoryofr01bald).pdf",
+        "title": "Genetic theory of reality, being the outcome of genetic logic as issuing in the aesthetic theory of reality called pancalism, with an extended glossary of terms (IA genetictheoryofr01bald).pdf",
+        "credit": "Baldwin, James Mark, 1861-1934",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Pharmacologia_-_being_an_extended_inquiry_into_the_operations_of_medicinal_bodies_upon_which_are_founded_the_theory_and_art_of_prescribing_%28IA_b33488034_0002%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Pharmacologia_-_being_an_extended_inquiry_into_the_operations_of_medicinal_bodies_upon_which_are_founded_the_theory_and_art_of_prescribing_(IA_b33488034_0002).pdf",
+        "title": "Pharmacologia - being an extended inquiry into the operations of medicinal bodies upon which are founded the theory and art of prescribing (IA b33488034 0002).pdf",
+        "credit": "Paris, John Ayrton, 1785-1856",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "AnaSounds Extended Savage",
     "pedal_id": "DISC-2444"
@@ -31769,29 +31837,12 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-3108"
   },
   "DISC-3110": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Symbola_philologorum_Bonnensium_in_honorem_Friderici_Ritschelii_collecta_%28IA_bub_gb_SxTZnSDuxywC%29.pdf/page1-500px-Symbola_philologorum_Bonnensium_in_honorem_Friderici_Ritschelii_collecta_%28IA_bub_gb_SxTZnSDuxywC%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Symbola_philologorum_Bonnensium_in_honorem_Friderici_Ritschelii_collecta_(IA_bub_gb_SxTZnSDuxywC).pdf",
+    "src": null,
+    "page": "",
     "credit": "",
-    "license": "Public domain",
-    "source": "Wikimedia Commons",
-    "gallery": [
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Symbola_philologorum_Bonnensium_in_honorem_Friderici_Ritschelii_collecta_%28IA_bub_gb_SxTZnSDuxywC%29.pdf/page1-500px-Symbola_philologorum_Bonnensium_in_honorem_Friderici_Ritschelii_collecta_%28IA_bub_gb_SxTZnSDuxywC%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Symbola_philologorum_Bonnensium_in_honorem_Friderici_Ritschelii_collecta_(IA_bub_gb_SxTZnSDuxywC).pdf",
-        "title": "Symbola philologorum Bonnensium in honorem Friderici Ritschelii collecta (IA bub gb SxTZnSDuxywC).pdf",
-        "credit": "",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/On_certain_discrete_inequalities_and_their_continuous_analogs_%28IA_jresv70Bn3p221%29.pdf/page1-960px-On_certain_discrete_inequalities_and_their_continuous_analogs_%28IA_jresv70Bn3p221%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:On_certain_discrete_inequalities_and_their_continuous_analogs_(IA_jresv70Bn3p221).pdf",
-        "title": "On certain discrete inequalities and their continuous analogs (IA jresv70Bn3p221).pdf",
-        "credit": "Pfeffer, Allen M.",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      }
-    ],
+    "license": "",
+    "source": "",
+    "gallery": [],
     "builder": "",
     "model": "KMA Audio Machines AB/Y",
     "pedal_id": "DISC-3110"
@@ -36844,21 +36895,12 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-3887"
   },
   "DISC-3888": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Red_Witch_%26_Demeter.jpg/1280px-Red_Witch_%26_Demeter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Red_Witch_%26_Demeter.jpg",
-    "credit": "RIchie Adiyat",
-    "license": "CC BY-SA 2.0",
-    "source": "Wikimedia Commons",
-    "gallery": [
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Red_Witch_%26_Demeter.jpg/1280px-Red_Witch_%26_Demeter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Red_Witch_%26_Demeter.jpg",
-        "title": "Red Witch & Demeter.jpg",
-        "credit": "RIchie Adiyat",
-        "license": "CC BY-SA 2.0",
-        "source": "Wikimedia Commons"
-      }
-    ],
+    "src": null,
+    "page": "",
+    "credit": "",
+    "license": "",
+    "source": "",
+    "gallery": [],
     "builder": "",
     "model": "Maxon MB-10 Bass Booster",
     "pedal_id": "DISC-3888"
@@ -38965,12 +39007,45 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-4086"
   },
   "DISC-4087": {
-    "src": null,
-    "page": "",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/American_agriculturist_%28IA_americanagricul139%29.pdf/page1-1280px-American_agriculturist_%28IA_americanagricul139%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:American_agriculturist_(IA_americanagricul139).pdf",
     "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "license": "Public domain",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/American_agriculturist_%28IA_americanagricul139%29.pdf/page1-1280px-American_agriculturist_%28IA_americanagricul139%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:American_agriculturist_(IA_americanagricul139).pdf",
+        "title": "American agriculturist (IA americanagricul139).pdf",
+        "credit": "",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/William_Faulkner_-_As_I_Lay_Dying_%281987_printing%29.pdf/page1-500px-William_Faulkner_-_As_I_Lay_Dying_%281987_printing%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:William_Faulkner_-_As_I_Lay_Dying_(1987_printing).pdf",
+        "title": "William Faulkner - As I Lay Dying (1987 printing).pdf",
+        "credit": "William Faulkner",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Zora_Neale_Hurston_-_Stephen_Kelen-d%27Oxylion_presents_Polk_County.pdf/page1-1280px-Zora_Neale_Hurston_-_Stephen_Kelen-d%27Oxylion_presents_Polk_County.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Zora_Neale_Hurston_-_Stephen_Kelen-d%27Oxylion_presents_Polk_County.pdf",
+        "title": "Zora Neale Hurston - Stephen Kelen-d'Oxylion presents Polk County.pdf",
+        "credit": "Zora Neale Hurston",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Zora_Neale_Hurston_-_The_Mule-Bone.pdf/page1-1280px-Zora_Neale_Hurston_-_The_Mule-Bone.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Zora_Neale_Hurston_-_The_Mule-Bone.pdf",
+        "title": "Zora Neale Hurston - The Mule-Bone.pdf",
+        "credit": "Langston Hughes    /    Zora Neale Hurston",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Stomp Under Foot Dirty Rooster",
     "pedal_id": "DISC-4087"
@@ -39383,37 +39458,12 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-4124"
   },
   "DISC-4125": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Le_dictionnaire_de_l%27Acad%C3%A9mie_fran%C3%A7oise_.._%28IA_bub_gb_VEw4AQAAMAAJ%29.pdf/page1-500px-Le_dictionnaire_de_l%27Acad%C3%A9mie_fran%C3%A7oise_.._%28IA_bub_gb_VEw4AQAAMAAJ%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Le_dictionnaire_de_l%27Acad%C3%A9mie_fran%C3%A7oise_.._(IA_bub_gb_VEw4AQAAMAAJ).pdf",
-    "credit": "Académie française \n Coignard, Anne-Geneviève. Book producer",
-    "license": "Public domain",
-    "source": "Wikimedia Commons",
-    "gallery": [
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Le_dictionnaire_de_l%27Acad%C3%A9mie_fran%C3%A7oise_.._%28IA_bub_gb_VEw4AQAAMAAJ%29.pdf/page1-500px-Le_dictionnaire_de_l%27Acad%C3%A9mie_fran%C3%A7oise_.._%28IA_bub_gb_VEw4AQAAMAAJ%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Le_dictionnaire_de_l%27Acad%C3%A9mie_fran%C3%A7oise_.._(IA_bub_gb_VEw4AQAAMAAJ).pdf",
-        "title": "Le dictionnaire de l'Académie françoise .. (IA bub gb VEw4AQAAMAAJ).pdf",
-        "credit": "Académie française \n Coignard, Anne-Geneviève. Book producer",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bakst_%28IA_bakst00levi%29.pdf/page1-1280px-Bakst_%28IA_bakst00levi%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Bakst_(IA_bakst00levi).pdf",
-        "title": "Bakst (IA bakst00levi).pdf",
-        "credit": "Levinson, André, 1887-1933",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/The_mysteries_of_opium_reveal%27d_%28IA_b30512438_0001%29.pdf/page1-1280px-The_mysteries_of_opium_reveal%27d_%28IA_b30512438_0001%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:The_mysteries_of_opium_reveal%27d_(IA_b30512438_0001).pdf",
-        "title": "The mysteries of opium reveal'd (IA b30512438 0001).pdf",
-        "credit": "Jones, John, 1645-1709",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      }
-    ],
+    "src": null,
+    "page": "",
+    "credit": "",
+    "license": "",
+    "source": "",
+    "gallery": [],
     "builder": "",
     "model": "BJFE Model G",
     "pedal_id": "DISC-4125"
@@ -41674,12 +41724,29 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "DISC-4330"
   },
   "PED-DISC-45-01": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sola_Sound_Colorsound_Supa_Tonebender%2C_from_1974.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Sola_Sound_Colorsound_Supa_Tonebender,_from_1974.png",
+    "credit": "DominicMason",
+    "license": "CC BY 3.0",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sola_Sound_Colorsound_Supa_Tonebender%2C_from_1974.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Sola_Sound_Colorsound_Supa_Tonebender,_from_1974.png",
+        "title": "Sola Sound Colorsound Supa Tonebender, from 1974.png",
+        "credit": "DominicMason",
+        "license": "CC BY 3.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Pedals_%282006-04-03%29_by_Johann_Burkard.jpg/1280px-Pedals_%282006-04-03%29_by_Johann_Burkard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Pedals_(2006-04-03)_by_Johann_Burkard.jpg",
+        "title": "Pedals (2006-04-03) by Johann Burkard.jpg",
+        "credit": "Johann",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Colorsound Supa Tonebender",
     "pedal_id": "PED-DISC-45-01"
@@ -41696,23 +41763,49 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "PED-DISC-45-02"
   },
   "PED-DISC-45-03": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_28.jpg/1280px-Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_28.jpg",
+    "credit": "Andy Mabbett",
+    "license": "CC BY-SA 4.0",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_28.jpg/1280px-Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_28.jpg",
+        "title": "Pink Floyd Their Mortal Remains - 2017-10-13 - Andy Mabbett - 28.jpg",
+        "credit": "Andy Mabbett",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_28_%28cropped_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_28_(cropped_1).jpg",
+        "title": "Pink Floyd Their Mortal Remains - 2017-10-13 - Andy Mabbett - 28 (cropped 1).jpg",
+        "credit": "Andy Mabbett",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Colorsound Power Boost",
     "pedal_id": "PED-DISC-45-03"
   },
   "PED-DISC-45-04": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": [],
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Pedals_%282006-04-03%29_by_Johann_Burkard.jpg/1280px-Pedals_%282006-04-03%29_by_Johann_Burkard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pedals_(2006-04-03)_by_Johann_Burkard.jpg",
+    "credit": "Johann",
+    "license": "CC BY 2.0",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Pedals_%282006-04-03%29_by_Johann_Burkard.jpg/1280px-Pedals_%282006-04-03%29_by_Johann_Burkard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Pedals_(2006-04-03)_by_Johann_Burkard.jpg",
+        "title": "Pedals (2006-04-03) by Johann Burkard.jpg",
+        "credit": "Johann",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      }
+    ],
     "builder": "",
     "model": "Colorsound Overdriver",
     "pedal_id": "PED-DISC-45-04"
@@ -41806,61 +41899,12 @@ window.DIRT_PHOTO_MANIFEST = {
     "pedal_id": "PED-DISC-45-12"
   },
   "PED-DISC-46-01": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Gods_love%2C_..._1651_%28IA_bim_early-english-books-1641-1700_gods-love-_quarles-john_1651%29.pdf/page1-500px-Gods_love%2C_..._1651_%28IA_bim_early-english-books-1641-1700_gods-love-_quarles-john_1651%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Gods_love,_..._1651_(IA_bim_early-english-books-1641-1700_gods-love-_quarles-john_1651).pdf",
-    "credit": "Quarles, John.",
-    "license": "Public domain",
-    "source": "Wikimedia Commons",
-    "gallery": [
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Gods_love%2C_..._1651_%28IA_bim_early-english-books-1641-1700_gods-love-_quarles-john_1651%29.pdf/page1-500px-Gods_love%2C_..._1651_%28IA_bim_early-english-books-1641-1700_gods-love-_quarles-john_1651%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Gods_love,_..._1651_(IA_bim_early-english-books-1641-1700_gods-love-_quarles-john_1651).pdf",
-        "title": "Gods love, ... 1651 (IA bim early-english-books-1641-1700 gods-love- quarles-john 1651).pdf",
-        "credit": "Quarles, John.",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/New_method_for_the_melodeon%2C_harmonium_and_other_instruments_of_the_organ_class_-_selected_mainly_from_Zundel%27s_Melodeon_instructor_%28IA_newmethodformelo00zund%29.pdf/page1-1280px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:New_method_for_the_melodeon,_harmonium_and_other_instruments_of_the_organ_class_-_selected_mainly_from_Zundel%27s_Melodeon_instructor_(IA_newmethodformelo00zund).pdf",
-        "title": "New method for the melodeon, harmonium and other instruments of the organ class - selected mainly from Zundel's Melodeon instructor (IA newmethodformelo00zund).pdf",
-        "credit": "",
-        "license": "Wikimedia Commons",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/The_Billboard_1906-04-14-_Vol_18_Iss_15_%28IA_sim_billboard_1906-04-14_18_15%29.pdf/page1-1280px-The_Billboard_1906-04-14-_Vol_18_Iss_15_%28IA_sim_billboard_1906-04-14_18_15%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:The_Billboard_1906-04-14-_Vol_18_Iss_15_(IA_sim_billboard_1906-04-14_18_15).pdf",
-        "title": "The Billboard 1906-04-14- Vol 18 Iss 15 (IA sim billboard 1906-04-14 18 15).pdf",
-        "credit": "",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Digest_%28IA_CAT11090696023%29.pdf/page1-960px-The_Digest_%28IA_CAT11090696023%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:The_Digest_(IA_CAT11090696023).pdf",
-        "title": "The Digest (IA CAT11090696023).pdf",
-        "credit": "United States. Department of Agriculture. Press Service",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Editor_and_Publisher_1911-09-30-_Vol_11_Iss_14_%28IA_sim_editor-publisher_1911-09-30_11_14%29.pdf/page1-1280px-The_Editor_and_Publisher_1911-09-30-_Vol_11_Iss_14_%28IA_sim_editor-publisher_1911-09-30_11_14%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:The_Editor_and_Publisher_1911-09-30-_Vol_11_Iss_14_(IA_sim_editor-publisher_1911-09-30_11_14).pdf",
-        "title": "The Editor and Publisher 1911-09-30- Vol 11 Iss 14 (IA sim editor-publisher 1911-09-30 11 14).pdf",
-        "credit": "",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/The_birds_of_Scotland%2C_and_other_poems_%28IA_birdsofscotlando00grah%29.pdf/page1-500px-The_birds_of_Scotland%2C_and_other_poems_%28IA_birdsofscotlando00grah%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:The_birds_of_Scotland,_and_other_poems_(IA_birdsofscotlando00grah).pdf",
-        "title": "The birds of Scotland, and other poems (IA birdsofscotlando00grah).pdf",
-        "credit": "Grahame, James, 1765-1811",
-        "license": "Public domain",
-        "source": "Wikimedia Commons"
-      }
-    ],
+    "src": null,
+    "page": "",
+    "credit": "",
+    "license": "",
+    "source": "",
+    "gallery": [],
     "builder": "Sola Sound",
     "model": "Sola Sound Tone Bender MkI",
     "pedal_id": "PED-DISC-46-01"
