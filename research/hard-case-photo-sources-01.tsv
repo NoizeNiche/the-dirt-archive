@@ -1,0 +1,23 @@
+pedal_id	builder	model	source_type	source_url	research_note
+PED-0006	Sola Sound	Tone Bender Professional MKII	Effects Database	https://www.effectsdatabase.com/model/solasound/tonebender/mk2	Use for vintage Sola Sound visual references; separate from Vox-branded MKII.
+PED-0007	Vox	Tone Bender Professional MKII	Effects Database	https://www.effectsdatabase.com/model/vox/tonebender/mk2	Dedicated Vox MKII record; match enclosure, branding and control layout.
+PED-0008	Vox	Tone Bender MKIII	Effects Database	https://www.effectsdatabase.com/model/vox/colorsound/tonebender/mk3	Contains early/late model distinctions and image references.
+PED-0009	Sola Sound	Tone Bender MKIV	Effects Database	https://www.effectsdatabase.com/model/solasound/tonebender/mk4	Use for core MKIV visual record; cross-check early and later graphics.
+PED-0010	Rotosound	Rotosound Fuzz Box	Fuzzboxes.org	https://fuzzboxes.org/rotosoundfuzzbox	Deep historical page documents cast-metal blue/gold/silver and pressed-steel generations plus Jennings-branded period.
+PED-0011	Park	Park Fuzz Sound	Effects Database	https://www.effectsdatabase.com/model/park/fuzzsound	Dedicated page has multiple vintage photo references and 2-knob/3-knob labels.
+PED-0012	Marshall	Marshall SupaFuzz	Effects Database	https://www.effectsdatabase.com/model/marshall/supafuzz	Dedicated page links multiple vintage visual examples and period demonstrations.
+PED-0013	Carlsbro	Carlsbro Fuzz-Tone	Effects Database	https://www.effectsdatabase.com/model/carlsbro/fuzztone	Dedicated page credits multiple photos by Bazguitar plus a 1966 advertisement.
+PED-0014	Electro-Harmonix	Triangle Big Muff Pi	Effects Database	https://www.effectsdatabase.com/model/eh/bigmuffpi	Parent Big Muff record identifies Triangle generation; harvest page imagery with generation labels.
+PED-0015	Electro-Harmonix	Ram's Head Big Muff Pi	Effects Database	https://www.effectsdatabase.com/model/eh/bigmuffpi	Use Ram's Head-specific image groups and related specimen references.
+PED-0016	Electro-Harmonix	Op-Amp Big Muff Pi	Effects Database	https://www.effectsdatabase.com/model/eh/bigmuffpi	Use Op-Amp generation imagery and date-specific specimen searches.
+PED-0017	Electro-Harmonix	Sovtek / Russian Big Muff Pi	Effects Database	https://www.effectsdatabase.com/model/eh/sovtek/bigmuffpi	Explicitly separates yellow/grey, green and black Russian visual generations.
+PED-0018	Ibanez / Hoshino	TS808 Tube Screamer	Effects Database	https://www.effectsdatabase.com/model/ibanez/808/ts808	Dedicated TS808 page shows narrow-box, wide-box and reissue image groups.
+PED-0019	Ibanez / Hoshino	TS9 Tube Screamer	Effects Database	https://www.effectsdatabase.com/model/ibanez/9/ts9	Use original TS9 imagery and separate gold/anniversary/reissue states.
+PED-0020	Ibanez / Hoshino	TS10 Tube Screamer	Effects Database	https://www.effectsdatabase.com/model/ibanez/10/ts10	Dedicated TS10 record; collect front, back, labels and dated specimens where possible.
+PED-0021	Ibanez / Hoshino	TS5 Tube Screamer	Effects Database	https://www.effectsdatabase.com/model/ibanez/soundtank/ts5	Dedicated TS5 page plus 1990s Soundtank context and demo imagery.
+PED-0022	Ibanez / Hoshino	TS7 Tube Screamer	Effects Database	https://www.effectsdatabase.com/model/ibanez/tonelok/ts7	Dedicated TS7 record; distinguish Tone-Lok enclosure from earlier Tube Screamers.
+PED-0023	ProCo	RAT2	Effects Database	https://www.effectsdatabase.com/model/proco/rat/2	Dedicated RAT2 record; visually separate later LED/switching production from original RAT.
+PED-0024	ProCo	Turbo RAT	Effects Database	https://www.effectsdatabase.com/model/proco/rat/turbo	Dedicated Turbo RAT page; harvest exact front-panel imagery and period specimens.
+PED-0025	ProCo	You Dirty RAT	Effects Database	https://www.effectsdatabase.com/model/proco/rat/dirty	Dedicated You Dirty RAT page; preserve its own enclosure/label identity.
+PED-0026	ProCo	Vintage RAT	Effects Database	https://www.effectsdatabase.com/model/proco/rat	Parent RAT record contains early big-box and small-box visual history.
+PED-0027	ProCo	1985 Whiteface RAT	Effects Database	https://www.effectsdatabase.com/model/proco/rat/whiteface/1985	Dedicated original/reissue comparison target; do not merge limited reissue with vintage Whiteface specimens.
