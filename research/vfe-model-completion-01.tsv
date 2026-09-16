@@ -1,0 +1,26 @@
+queue_id	builder	model	category_or_boundary	status	priority	source_refs	research_notes
+VFE-0001	VFE Pedals	5:00 Fuzz	fuzz	DISCOVERY_SEED	P0	Effects Database; official site	Complete model-level research; distinguish early and later physical states if documented.
+VFE-0002	VFE Pedals	Alpha Dog	distortion	DISCOVERY_SEED	P0	Effects Database; official site	Map all dated/revision states and exterior photography.
+VFE-0003	VFE Pedals	Blues King	overdrive	DISCOVERY_SEED	P0	Effects Database; official site	Search original, later and assembled-product states.
+VFE-0004	VFE Pedals	Cocktail Fuzz	fuzz	DISCOVERY_SEED	P1	Effects Database; official site	Look for discontinued-era imagery and naming variants.
+VFE-0005	VFE Pedals	Dark Horse	distortion	DISCOVERY_SEED	P0	Effects Database; official site	Preserve generation-specific enclosure/graphics states.
+VFE-0006	VFE Pedals	Distortion²	distortion	DISCOVERY_SEED	P0	Effects Database; official site	Track superscript/ASCII naming aliases for search reconciliation.
+VFE-0007	VFE Pedals	Distortion³	distortion	DISCOVERY_SEED	P0	Effects Database; official site	Track superscript/ASCII naming aliases for search reconciliation.
+VFE-0008	VFE Pedals	Dragon	overdrive/distortion	DISCOVERY_SEED	P1	Effects Database; official site	Model-family archaeology; identify any revision markers.
+VFE-0009	VFE Pedals	El Raton	distortion	DISCOVERY_SEED	P0	Effects Database; official site	Search Spanish/English naming and discontinued-market photography.
+VFE-0010	VFE Pedals	Fiery Red Horse	overdrive	DISCOVERY_SEED	P1	Effects Database; official site	Map predecessor/successor relationships and visual generations.
+VFE-0011	VFE Pedals	Fuzz Duo	fuzz	DISCOVERY_SEED	P0	Effects Database; official site	Two-channel physical layout is key identification metadata.
+VFE-0012	VFE Pedals	Ice Scream	overdrive	DISCOVERY_SEED	P1	Effects Database; official site	Document current/legacy physical states if both exist.
+VFE-0013	VFE Pedals	Old School	overdrive/distortion	DISCOVERY_SEED	P1	Effects Database; official site	Search historical catalog/dealer imagery.
+VFE-0014	VFE Pedals	Pale Horse	overdrive	DISCOVERY_SEED	P0	Effects Database; official site	Map revision states and image references.
+VFE-0015	VFE Pedals	Proto OD II	overdrive	DISCOVERY_SEED	P0	Effects Database; official site	Preserve numbered prototype-generation naming.
+VFE-0016	VFE Pedals	Proto OD III	overdrive	DISCOVERY_SEED	P0	Effects Database; official site	Preserve numbered prototype-generation naming.
+VFE-0017	VFE Pedals	Red Wolf	distortion	DISCOVERY_SEED	P0	Effects Database; official site	Locate product-family and physical-generation evidence.
+VFE-0018	VFE Pedals	The Scream	overdrive	DISCOVERY_SEED	P0	Effects Database; official site	Track successor/reissue naming if documented.
+VFE-0019	VFE Pedals	The Triplet	boost/drive	BOUNDARY_RECORD	P1	Effects Database; official site	Keep as gain-boundary record until dirt scope classification is verified.
+VFE-0020	VFE Pedals	Vomit Hound	fuzz/distortion	DISCOVERY_SEED	P0	Effects Database; official site	Strong fuzz/distortion target; search historical dealer imagery.
+VFE-0021	VFE Pedals	White Horse	overdrive	DISCOVERY_SEED	P0	Effects Database; official site	Map original/later production states.
+VFE-0022	VFE Pedals	Woodchipper	fuzz/distortion	DISCOVERY_SEED	P0	Effects Database; official site	Locate original and later physical states.
+VFE-0023	VFE Pedals	Tiamat	overdrive	DISCOVERY_SEED	P0	https://www.vfepedals.com/shop	2026 assembled-product state; keep distinct from DIY/file artifacts.
+VFE-0024	VFE Pedals	RUP mkII	distortion	DISCOVERY_SEED	P0	https://www.vfepedals.com/shop	Explicit mkII state; preserve as separate historical record.
+VFE-0025	VFE Pedals	Killer Rabbit	stereo distortion	DISCOVERY_SEED	P0	https://www.vfepedals.com/shop	2026 stereo format; investigate predecessor and enclosure history.
