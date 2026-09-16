@@ -73,11 +73,20 @@ try {
   await expectText(page, 'fuzz category', '#/category/fuzz', '.detail-title', 'Fuzz');
   await expectText(page, 'overdrive category', '#/category/overdrive', '.detail-title', 'Overdrive');
   await expectText(page, 'distortion category', '#/category/distortion', '.detail-title', 'Distortion');
+  await expectText(page, 'era index', '#/era', '.detail-title', 'Eras');
+  const eraCards = page.locator('a.builder-card[href^="#/era/"]');
+  if (await eraCards.count() < 1) throw new Error('Era index did not render any production decade links');
+  const firstEraHref = await eraCards.first().getAttribute('href');
+  if (!firstEraHref) throw new Error('Era index did not expose a usable decade link');
+  await expectText(page, 'era detail', firstEraHref.slice(1), '.detail-title', 'Eras');
+  if (await page.locator('.pedal-card').count() < 1) throw new Error('Selected era did not render any pedal records');
+  console.log('PASS  era browse');
+
   await expectText(page, 'pedal detail', '#/pedal/Fuzz%20Face', '.detail-title', 'Fuzz Face');
   if (await page.locator('.research-status').count() !== 1) throw new Error('Pedal detail did not render exactly one research status row');
-  if (await page.locator('.detail-layout .plate').count() !== 1) throw new Error('Pedal detail did not render its primary object plate');
-  if (await page.locator('.detail-layout .plate').locator('img').count() !== 1) throw new Error('Pedal detail primary object plate is missing its photograph');
-  if (await page.locator('.detail-layout > :scope > .meta-strip, .detail-layout > .meta-strip').count() !== 0) throw new Error('Pedal detail still renders the retired vertical metadata strip');
+  if (await page.locator('.plate').count() !== 1) throw new Error('Pedal detail did not render its primary object plate');
+  if (await page.locator('.plate').locator('img').count() !== 1) throw new Error('Pedal detail primary object plate is missing its photograph');
+  if (await page.locator('.meta-strip').count() !== 0) throw new Error('Pedal detail still renders the retired vertical metadata strip');
   console.log('PASS  pedal page presentation');
 
   const browserGenerationCount = await page.evaluate(() => Array.isArray(window.DIRT_RESEARCH_GENERATIONS?.['Fuzz Face']) ? window.DIRT_RESEARCH_GENERATIONS['Fuzz Face'].length : 0);
