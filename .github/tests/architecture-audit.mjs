@@ -20,7 +20,6 @@ if (!index.includes('catalog-experience.css')) failures.push('experience stylesh
 
 const runtimeFiles = [
   'public/catalog-research-runtime.js',
-  'public/catalog-research-ui.js',
   'public/catalog-polish.js',
   'public/catalog-specimen-ui.js',
   'public/catalog-identification-desk.js',
@@ -31,7 +30,7 @@ for (const path of runtimeFiles) {
   const text = await read(path);
   const observers = (text.match(/new MutationObserver/g) || []).length;
   if (observers > 0) {
-    if (path.endsWith('catalog-research-ui.js') || path.endsWith('catalog-specimen-ui.js') || path.endsWith('catalog-research-runtime.js') || path.endsWith('catalog-identification-desk.js') || path.endsWith('catalog-photo-desk.js')) failures.push(`${path} still uses MutationObserver`);
+    if (path.endsWith('catalog-specimen-ui.js') || path.endsWith('catalog-research-runtime.js') || path.endsWith('catalog-identification-desk.js') || path.endsWith('catalog-photo-desk.js')) failures.push(`${path} still uses MutationObserver`);
     else console.log(`INFO  ${path}: ${observers} MutationObserver instance(s) remain during staged refactor`);
   }
 }
@@ -62,6 +61,7 @@ if (/new MutationObserver/.test(specimenUi)) failures.push('specimen UI still us
 const researchRuntime = await read('public/catalog-research-runtime.js');
 if (!/window\.pedalPage/.test(researchRuntime)) failures.push('research runtime lost deterministic pedalPage integration');
 if (!/research-dossier/.test(researchRuntime)) failures.push('research runtime lost dossier output');
+if (!/window\.DIRT_RESEARCH_UI\s*=\s*\{[^}]*ensureCardBadges[^}]*ensurePageStatus[^}]*schedule/s.test(researchRuntime)) failures.push('research runtime no longer exposes its deterministic settling API');
 if (/new MutationObserver/.test(researchRuntime)) failures.push('research runtime still uses MutationObserver');
 
 const identify = await read('public/catalog-identification-desk.js');
@@ -74,10 +74,11 @@ if (!/PHOTO DESK/.test(photos)) failures.push('photo desk title is missing');
 if (!/Every record/.test(photos)) failures.push('photo desk all-record output is missing');
 if (/new MutationObserver/.test(photos)) failures.push('photo desk still uses MutationObserver');
 
-const researchUi = await read('public/catalog-research-ui.js');
-const researchUsesDeterministicApi = /window\.DIRT_RESEARCH_UI\s*=\s*\{[^}]*ensureCardBadges[^}]*ensurePageStatus[^}]*schedule/s.test(researchUi);
-if (!researchUsesDeterministicApi) failures.push('research UI no longer exposes its deterministic settling API');
-if (/new MutationObserver/.test(researchUi)) failures.push('research UI still uses MutationObserver');
+if (sources.includes('catalog-research-ui.js')) {
+  const researchShim = await read('public/catalog-research-ui.js');
+  if (!/Compatibility shim/.test(researchShim)) failures.push('research compatibility file no longer identifies itself as a shim');
+  if (!/DIRT_RESEARCH_UI\?\.schedule/.test(researchShim)) failures.push('research compatibility shim no longer delegates to canonical runtime');
+}
 
 if (failures.length) {
   console.error('\nArchitecture audit failures:');
