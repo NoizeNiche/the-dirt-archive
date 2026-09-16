@@ -78,7 +78,7 @@ try {
   if (await eraCards.count() < 1) throw new Error('Era index did not render any production decade links');
   const firstEraHref = await eraCards.first().getAttribute('href');
   if (!firstEraHref) throw new Error('Era index did not expose a usable decade link');
-  await expectText(page, 'era detail', firstEraHref.slice(1), '.detail-title', 'Eras');
+  await expectText(page, 'era detail', firstEraHref, '.detail-title', 'Eras');
   if (await page.locator('.pedal-card').count() < 1) throw new Error('Selected era did not render any pedal records');
   console.log('PASS  era browse');
 
