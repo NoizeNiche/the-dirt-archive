@@ -18,6 +18,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 CENSUS = ROOT / "research" / "builder-master-census-01.tsv"
+BREADTH_QUEUES = sorted((ROOT / "research").glob("modern-breadth-builder-seed-*.tsv"))
 OUT = ROOT / "public" / "catalog-builder-logo-manifest.js"
 STATUS = ROOT / "research" / "catalog-builder-logo-status-01.tsv"
 API = "https://commons.wikimedia.org/w/api.php"
@@ -40,14 +41,35 @@ def tokens(name: str) -> list[str]:
     return [t for t in raw if len(t) >= 3 and t not in stop]
 
 
+def load_builder_rows() -> list[dict]:
+    merged: dict[str, dict] = {}
+    sources = [CENSUS, *BREADTH_QUEUES]
+    for path in sources:
+        if not path.exists():
+            continue
+        try:
+            with path.open("r", encoding="utf-8") as f:
+                for row in csv.DictReader(f, delimiter="\t"):
+                    name = (row.get("canonical_builder") or row.get("builder") or "").strip()
+                    if not name:
+                        continue
+                    source_refs = row.get("source_refs") or row.get("discovery_sources") or ""
+                    merged.setdefault(name, {"canonical_builder": name, "source_refs": source_refs})
+                    if source_refs and not merged[name].get("source_refs"):
+                        merged[name]["source_refs"] = source_refs
+        except Exception as exc:
+            print(f"Skipping builder source {path.name}: {exc}")
+    return list(merged.values())
+
+
 def source_urls(row: dict) -> list[str]:
     raw = str(row.get("source_refs") or "")
-    return [x.strip() for x in re.split(r"[; ]+", raw) if x.strip().startswith(("http://", "https://"))]
+    return [x.strip() for x in re.split(r"[;, ]+", raw) if x.strip().startswith(("http://", "https://"))]
 
 
 def official_page_hits(name: str, row: dict) -> list[dict]:
     hits: list[dict] = []
-    for url in source_urls(row)[:4]:
+    for url in source_urls(row)[:5]:
         try:
             html = http_text(url)
         except Exception:
@@ -64,7 +86,7 @@ def official_page_hits(name: str, row: dict) -> list[dict]:
                 continue
             hay = " ".join([tag, attrs.get("alt", ""), attrs.get("title", ""), src]).lower()
             hits.append({"src": urljoin(base, src), "page": url, "context": hay, "domain": urlparse(url).netloc})
-        time.sleep(0.08)
+        time.sleep(0.05)
     return hits
 
 
@@ -99,7 +121,7 @@ def search_commons(name: str) -> list[dict]:
             meta = info.get("extmetadata") or {}
             label = str(meta.get("ImageDescription", {}).get("value", ""))
             hits.append({"src": thumb, "page": pageurl, "context": f"{title} {label}", "domain": "commons.wikimedia.org"})
-        time.sleep(0.08)
+        time.sleep(0.05)
     return hits
 
 
@@ -126,13 +148,7 @@ def score(name: str, hit: dict, official_domains: set[str]) -> int:
 
 
 def main() -> None:
-    rows = []
-    with CENSUS.open("r", encoding="utf-8") as f:
-        for row in csv.DictReader(f, delimiter="\t"):
-            name = (row.get("canonical_builder") or "").strip()
-            if name:
-                rows.append(row)
-
+    rows = load_builder_rows()
     manifest: dict[str, dict] = {}
     status_rows = [["builder", "status", "image_url", "source_page", "source_type", "note"]]
 
@@ -145,12 +161,7 @@ def main() -> None:
         best = ranked[0] if ranked and score(name, ranked[0], official_domains) >= 14 else None
         if best:
             source_type = "Official builder page" if best.get("domain") in official_domains else "Wikimedia Commons"
-            manifest[name] = {
-                "src": best["src"],
-                "page": best["page"],
-                "source_type": source_type,
-                "query": name + " logo",
-            }
+            manifest[name] = {"src": best["src"], "page": best["page"], "source_type": source_type, "query": name + " logo"}
             status_rows.append([name, "FOUND", best["src"], best["page"], source_type, "Logo candidate selected by source/domain/context scoring; review attribution before treating as definitive brand mark."])
         else:
             status_rows.append([name, "UNRESOLVED", "", "", "Official page + Wikimedia Commons", "No sufficiently strong logo candidate found in the automated pass."])
@@ -158,7 +169,7 @@ def main() -> None:
     OUT.write_text("window.DIRT_BUILDER_LOGOS=" + json.dumps(manifest, ensure_ascii=False, indent=2) + ";\n", encoding="utf-8")
     with STATUS.open("w", encoding="utf-8", newline="") as f:
         csv.writer(f, delimiter="\t", lineterminator="\n").writerows(status_rows)
-    print(f"Harvested {len(manifest)} builder logo references from {len(rows)} census builders")
+    print(f"Harvested {len(manifest)} builder logo references from {len(rows)} combined census/breadth builders")
 
 
 if __name__ == "__main__":
