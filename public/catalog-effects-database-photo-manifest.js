@@ -1,0 +1,1 @@
+window.DIRT_EDB_PHOTO_MANIFEST = {};

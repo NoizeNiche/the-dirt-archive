@@ -3,7 +3,7 @@ PED-0001	Dallas-Arbiter	Fuzz Face	6	Wikimedia Commons
 PED-0002	Sola Sound	Tone Bender	6	Wikimedia Commons
 PED-0003	Electro-Harmonix	Big Muff Pi	6	Wikimedia Commons
 PED-0004	Ibanez / Hoshino	Tube Screamer	6	Wikimedia Commons
-PED-0005	ProCo	RAT	6	Wikimedia Commons
+PED-0005	ProCo	RAT	0	
 PED-0006	Sola Sound	Tone Bender Professional MKII	0	
 PED-0007	Vox	Tone Bender Professional MKII	0	
 PED-0008	Vox	Tone Bender MKIII	0	
@@ -26,3 +26,3820 @@ PED-0024	ProCo	Turbo RAT	0
 PED-0025	ProCo	You Dirty RAT	0	
 PED-0026	ProCo	Vintage RAT	0	
 PED-0027	ProCo	1985 Whiteface RAT	0	
+DISC-0028	D*A*M	Colorsound Fuzz Box (D*A*M reissue)	0	
+DISC-0029	D*A*M	Colorsound Wow Fuzz (D*A*M/Castledine Reissue)	0	
+DISC-0030	D*A*M	D*A*M 1965 - Tone Bender MkI Replica	0	
+DISC-0031	D*A*M	D*A*M 1966 - Tone Bender Replica	0	
+DISC-0032	D*A*M	D*A*M Drag'n'Fly - Hybrid Fuzz Tones	0	
+DISC-0033	D*A*M	D*A*M Ezekiel 25:17 - Low Frequency Distortion Generator	0	
+DISC-0034	D*A*M	D*A*M Fleshhead	0	
+DISC-0035	D*A*M	D*A*M FS-75 Fuzz Sound Jr.	0	
+DISC-0036	D*A*M	D*A*M Fuzz Sound MkIII	0	
+DISC-0037	D*A*M	D*A*M Fuzz Sound MkIV	0	
+DISC-0038	D*A*M	D*A*M Fuzzaround	0	
+DISC-0039	D*A*M	D*A*M FUZZrong	0	
+DISC-0040	D*A*M	D*A*M FZ-673	0	
+DISC-0041	D*A*M	D*A*M Grease Box - Solid State Pre-Amplified Germanium Overdrive	0	
+DISC-0042	D*A*M	D*A*M Head Buzz	0	
+DISC-0043	D*A*M	D*A*M Meathead - Silicon Fuzz Machine	0	
+DISC-0044	D*A*M	D*A*M Meathead Deluxe - Silicon Fuzz Machine	0	
+DISC-0045	D*A*M	D*A*M MkI	0	
+DISC-0046	D*A*M	D*A*M Professional MKII - Tone Bender MkII Replica	0	
+DISC-0047	D*A*M	D*A*M Ram Head	0	
+DISC-0048	D*A*M	D*A*M Red Rooster - Germanium Booster	0	
+DISC-0049	D*A*M	D*A*M Sonic Titan - Power Amp Distortion	0	
+DISC-0050	D*A*M	D*A*M Super Bee - Germanium Fuzz Tones	0	
+DISC-0051	D*A*M	D*A*M TB-00 Tone Bender	0	
+DISC-0052	D*A*M	D*A*M ZU-65 Zoot Unit	0	
+DISC-0053	D*A*M	Sola Sound Tone Bender Mk1.5 (D*A*M reissue) Goldie	0	
+DISC-0054	D*A*M	Sola Sound Tone Bender MkII (D*A.M reissue)	0	
+DISC-0055	D*A*M	Sola Sound Tone Bender MkII SCB (D*A.M reissue) Blue Meanie	0	
+DISC-0056	Basic Audio	Basic Audio Alter-Destiny - Hybrid Muff	0	
+DISC-0057	Basic Audio	Basic Audio Bye-Bias Fuzz	0	
+DISC-0058	Basic Audio	Basic Audio Electric Mud	0	
+DISC-0059	Basic Audio	Basic Audio Foxey Lady	0	
+DISC-0060	Basic Audio	Basic Audio Foxey Lady MkI	0	
+DISC-0061	Basic Audio	Basic Audio Futureman	0	
+DISC-0062	Basic Audio	Basic Audio Fuzz Mutant	0	
+DISC-0063	Basic Audio	Basic Audio Fuzzmondo	0	
+DISC-0064	Basic Audio	Basic Audio Fuzzstainer	0	
+DISC-0065	Basic Audio	Basic Audio Gnarly Fuzz	0	
+DISC-0066	Basic Audio	Basic Audio Lucky Number	6	Wikimedia Commons
+DISC-0067	Basic Audio	Basic Audio Marq Won	0	
+DISC-0068	Basic Audio	Basic Audio Messenger Fuzz	0	
+DISC-0069	Basic Audio	Basic Audio Pale Rider	0	
+DISC-0070	Basic Audio	Basic Audio Pep Fuzz	0	
+DISC-0071	Basic Audio	Basic Audio Scarab	0	
+DISC-0072	Basic Audio	Basic Audio Scarab Deluxe	0	
+DISC-0073	Basic Audio	Basic Audio Solar Myth	6	Wikimedia Commons
+DISC-0074	Basic Audio	Basic Audio Spooky Tooth	0	
+DISC-0075	Basic Audio	Basic Audio SquareWave+	0	
+DISC-0076	Basic Audio	Basic Audio Tri/Ram Muff	0	
+DISC-0077	Basic Audio	Basic Audio Warp	0	
+DISC-0078	Basic Audio	Basic Audio Wildcat	0	
+DISC-0079	Basic Audio	Basic Audio Zippy Fuzz	0	
+DISC-0080	Basic Audio	Basic Audio Zonk (Si)	0	
+DISC-0081	Monsterpiece Fuzz	Monsterpiece Fuzz Angry Dick 2000	0	
+DISC-0082	Monsterpiece Fuzz	Monsterpiece Fuzz C.O.D.	0	
+DISC-0083	Monsterpiece Fuzz	Monsterpiece Fuzz Classic	0	
+DISC-0084	Monsterpiece Fuzz	Monsterpiece Fuzz Classic Jr. Fuzz	0	
+DISC-0085	Monsterpiece Fuzz	Monsterpiece Fuzz Ge Fuzz	0	
+DISC-0086	Monsterpiece Fuzz	Monsterpiece Fuzz HB Hybrid Fuzz	0	
+DISC-0087	Monsterpiece Fuzz	Monsterpiece Fuzz MD Monster Drive - Treble Booster	0	
+DISC-0088	Monsterpiece Fuzz	Monsterpiece Fuzz Mk1.5	0	
+DISC-0089	Monsterpiece Fuzz	Monsterpiece Fuzz MkI	0	
+DISC-0090	Monsterpiece Fuzz	Monsterpiece Fuzz MkII	0	
+DISC-0091	Monsterpiece Fuzz	Monsterpiece Fuzz MkIII	0	
+DISC-0092	Monsterpiece Fuzz	Monsterpiece Fuzz NPN Fuzz	0	
+DISC-0093	Monsterpiece Fuzz	Monsterpiece Fuzz NPN Jr. Fuzz	0	
+DISC-0094	Monsterpiece Fuzz	Monsterpiece Fuzz PNP Fuzz	0	
+DISC-0095	Monsterpiece Fuzz	Monsterpiece Fuzz PNP Jr. Fuzz	0	
+DISC-0096	Monsterpiece Fuzz	Monsterpiece Fuzz Puma Fuzz	0	
+DISC-0097	Monsterpiece Fuzz	Monsterpiece Fuzz SS (Scratchy Snatch)	0	
+DISC-0098	Monsterpiece Fuzz	Monsterpiece Fuzz STUD Overdrive	0	
+DISC-0099	Monsterpiece Fuzz	Monsterpiece Fuzz Supa Fuzz	0	
+DISC-0100	Monsterpiece Fuzz	Monsterpiece Fuzz Two-Headed Monster	0	
+DISC-0101	Blackout Effectors	Blackout Effectors A Seriously Special Twosome Dual Fuzz	0	
+DISC-0102	Blackout Effectors	Blackout Effectors A Very Special Twosome Dual Fuzz	0	
+DISC-0103	Blackout Effectors	Blackout Effectors Blunderbuss - Hybrid Fuzz	0	
+DISC-0104	Blackout Effectors	Blackout Effectors Crystal Dagger	0	
+DISC-0105	Blackout Effectors	Blackout Effectors Fix'D Fuzz	0	
+DISC-0106	Blackout Effectors	Blackout Effectors Fix'D Fuzz Deluxe	0	
+DISC-0107	Blackout Effectors	Blackout Effectors FUBÄR	0	
+DISC-0108	Blackout Effectors	Blackout Effectors Fuzz Bear	0	
+DISC-0109	Blackout Effectors	Blackout Effectors Musket Fuzz	0	
+DISC-0110	Blackout Effectors	Blackout Effectors Special Twosome Deluxe	0	
+DISC-0111	Blackout Effectors	Blackout Effectors Twosome Dual Fuzz	0	
+DISC-0112	Stomp Under Foot	Stomp Under Foot (Vintage series) Green Russian	0	
+DISC-0113	Stomp Under Foot	Stomp Under Foot / Black Book Fuzz Honey	0	
+DISC-0114	Stomp Under Foot	Stomp Under Foot Alabaster Fuzz	0	
+DISC-0115	Stomp Under Foot	Stomp Under Foot Civil Unrest	0	
+DISC-0116	Stomp Under Foot	Stomp Under Foot Cosmonaut	0	
+DISC-0117	Stomp Under Foot	Stomp Under Foot Demogorgon	0	
+DISC-0118	Stomp Under Foot	Stomp Under Foot Dire Wolf	0	
+DISC-0119	Stomp Under Foot	Stomp Under Foot Dirt Preacher	0	
+DISC-0120	Stomp Under Foot	Stomp Under Foot Dirty Rooster	0	
+DISC-0121	Stomp Under Foot	Stomp Under Foot Elk Big Mag Sustainar	0	
+DISC-0122	Stomp Under Foot	Stomp Under Foot Full Powered Halo	0	
+DISC-0123	Stomp Under Foot	Stomp Under Foot Greasy Creek Fuzz Machine	0	
+DISC-0124	Stomp Under Foot	Stomp Under Foot Halo Bender	0	
+DISC-0125	Stomp Under Foot	Stomp Under Foot Hellephant	0	
+DISC-0126	Stomp Under Foot	Stomp Under Foot Mean Green Machine	0	
+DISC-0127	Stomp Under Foot	Stomp Under Foot Mountain Goat	0	
+DISC-0128	Stomp Under Foot	Stomp Under Foot Mud Creek - Dual Fuzz Machine	0	
+DISC-0129	Stomp Under Foot	Stomp Under Foot Rhinosaur	0	
+DISC-0130	Stomp Under Foot	Stomp Under Foot Screaming Panda	0	
+DISC-0131	Stomp Under Foot	Stomp Under Foot Serenity Overdrive	0	
+DISC-0132	Stomp Under Foot	Stomp Under Foot Silver Foxx	0	
+DISC-0133	Stomp Under Foot	Stomp Under Foot Skinner Box	0	
+DISC-0134	Stomp Under Foot	Stomp Under Foot Son Of A Bee	0	
+DISC-0135	Stomp Under Foot	Stomp Under Foot Sonic Generator	0	
+DISC-0136	Stomp Under Foot	Stomp Under Foot Sonic Warfare	0	
+DISC-0137	Stomp Under Foot	Stomp Under Foot Supa Dirty Rooster	0	
+DISC-0138	Stomp Under Foot	Stomp Under Foot The Shag MkII - Germanium Tone Bender	0	
+DISC-0139	Stomp Under Foot	Stomp Under Foot The Shag MkIII - Tone Bender	0	
+DISC-0140	Stomp Under Foot	Stomp Under Foot Vintage Pumpkin Pi	0	
+DISC-0141	Stomp Under Foot	Stomp Under Foot Windhand Fuzz	0	
+DISC-0142	Stomp Under Foot	Stomp Under Foot 1971 Triangle Big Muff	0	
+DISC-0143	Stomp Under Foot	Stomp Under Foot 1973 Ram's Head Big Muff	0	
+DISC-0144	Stomp Under Foot	Stomp Under Foot 2247 Ram's Head Big Muff	0	
+DISC-0145	Stomp Under Foot	Stomp Under Foot Astoria - David Gilmour Style Muff	0	
+DISC-0146	Stomp Under Foot	Stomp Under Foot Civil War Big Muff	0	
+DISC-0147	Stomp Under Foot	Stomp Under Foot Creator	0	
+DISC-0148	Stomp Under Foot	Stomp Under Foot Foxey Lady	0	
+DISC-0149	Stomp Under Foot	Stomp Under Foot Green Russian Muff	0	
+DISC-0150	Stomp Under Foot	Stomp Under Foot Modified Muff	0	
+DISC-0151	Stomp Under Foot	Stomp Under Foot Op Amp Big Muff	0	
+DISC-0152	Stomp Under Foot	Stomp Under Foot Pumpkin Pi	0	
+DISC-0153	Stomp Under Foot	Stomp Under Foot Ram's Head Big Muff	0	
+DISC-0154	Stomp Under Foot	Stomp Under Foot Red Army Overdrive	0	
+DISC-0155	Stomp Under Foot	Stomp Under Foot Red Menace	0	
+DISC-0156	Stomp Under Foot	Stomp Under Foot The Amherst '76 Ram's Head	0	
+DISC-0157	Stomp Under Foot	Stomp Under Foot The PI	0	
+DISC-0158	Stomp Under Foot	Stomp Under Foot Tri-Dirty Booster	0	
+DISC-0159	Stomp Under Foot	Stomp Under Foot Tri-Muff	0	
+DISC-0160	Stomp Under Foot	Stomp Under Foot Violet Menace	0	
+DISC-0161	Stomp Under Foot	Stomp Under Foot Violet Ram's Head Big Muff	0	
+DISC-0162		Lectrolab Fuzz Buzz	0	
+DISC-0163		Applied Rogue Fuzz	0	
+DISC-0164		Applied Banshee Fuzz	0	
+DISC-0165		Lou Rose Combo-Fuzz	0	
+DISC-0166		Conrad Fuzzy Fury	0	
+DISC-0167		Conrad Sky Hawk - Fuzz and Treble Booster	0	
+DISC-0168		Conrad Buzz Box & Volume Expander	0	
+DISC-0169		Conrad Bass Hawk	0	
+DISC-0170		The Fuzz	0	
+DISC-0171		Fuzzie	0	
+DISC-0172		Crazy Face	0	
+DISC-0173		Crazy Tone	0	
+DISC-0174		Big Mag Sustainar	0	
+DISC-0175		Rangemaster Fuzzbug	0	
+DISC-0176		Viola	0	
+DISC-0177		Vita	0	
+DISC-0178		Booster	0	
+DISC-0179		Supa Fuzz	0	
+DISC-0180		Transfuzz	0	
+DISC-0181		Fuzzy - Pep Fuzz	0	
+DISC-0182		Maximal Fuzz	0	
+DISC-0183		Jansen Fuzzman	0	
+DISC-0184		Herald Electronics AM-44A Fuzz Master	0	
+DISC-0185		Vox (by EF-EL) Distortion	0	
+DISC-0186		Moreschi Octave Fuzz	0	
+DISC-0187		Electronic Sounds UFO Octa-Fuzz	0	
+DISC-0188		Pigdog Fuzz 1.5	0	
+DISC-0189		Goldsound Fuzz	0	
+DISC-0190		Cosmosound E-8 Wild Sound	0	
+DISC-0191		Silversound SE/60	0	
+DISC-0192		G.I.S. Distortion	0	
+DISC-0193		EUR Distortion Whau-Whau	0	
+DISC-0194		Goldsound Distortion Whau-Whau	0	
+DISC-0195		Goldsound Distortion Whau-Whau Repeat	0	
+DISC-0196		Shin-Ei Companion FY-2 Fuzz Box	0	
+DISC-0197		Companion FY-2 Fuzz Box	0	
+DISC-0198		Avora FY-2 Fuzz Box	0	
+DISC-0199		J.H. Experience FY-2 Fuzz Box	0	
+DISC-0200		JAX FY-2 Fuzz Box	0	
+DISC-0201		Kimbara FY-2 Fuzz Box	0	
+DISC-0202		Suzuki FY-2 Fuzz	0	
+DISC-0203		Tele-Star FY-2 Fuzz Box	0	
+DISC-0204		Tempo TR-2 Fuzz	0	
+DISC-0205		Thomas FY-2 Fuzz Box	0	
+DISC-0206		Zenta FY-2 Fuzz Box	0	
+DISC-0207		Ideal Fuzz Master	0	
+DISC-0208		Greco No. 35 Haztone	0	
+DISC-0209		Apollo No. 843 Distorter	0	
+DISC-0210		Crestwood Fuzz	0	
+DISC-0211		Sekova Model No. 59 Distortion Box	0	
+DISC-0212		Tele-Star Fuzz	0	
+DISC-0213		CS. Cathey AS-01 Sustainer	0	
+DISC-0214		CS. Cathey AD-02 Distortion Box	0	
+DISC-0215		CS. Cathey AB-03	0	
+DISC-0216		CS. Cathey AO-05	0	
+DISC-0217		SM Fuzz	0	
+DISC-0218		Westminster Effects Wycliffe - Fuzz	0	
+DISC-0219		Leone Effects Co. Super Box - Fuzz Machine	0	
+DISC-0220		Shoe Pedals fuzz catalog	0	
+DISC-0221		Spiral Electric FX Ge Fuzz	0	
+DISC-0222		Gigahearts FX Small Cheese	0	
+DISC-0223		Mythos Pedals High Road Mini - Joey Landreth signature Fuzz	0	
+DISC-0224		Orion Effekte Ramlon Fuzz	0	
+DISC-0225		Montgomery Appliances Beast Egg Fuzz	0	
+DISC-0226		Montgomery Appliances Buzzaround	0	
+DISC-0227		Montgomery Appliances Dreamsicle	0	
+DISC-0228		Montgomery Appliances FSH	0	
+DISC-0229		Montgomery Appliances Longtail	0	
+DISC-0230		Montgomery Appliances MkII Professional	0	
+DISC-0231		Montgomery Appliances Model 219 - Cascaded Silicon Fuzztone	0	
+DISC-0232		Montgomery Appliances Model One Fuzz	0	
+DISC-0233		Montgomery Appliances Supa Bender	0	
+DISC-0234		Montgomery Appliances The Badlands - Germanium Fuzz Machine	0	
+DISC-0235		Montgomery Appliances Tone Bender MkIII	0	
+DISC-0236		Montgomery Appliances Tone Bender Quattro	0	
+DISC-0237		1969 Effects Bone Blender	0	
+DISC-0238		1969 Effects Scarlet Storm	0	
+DISC-0239		Orbit Fuzz Tone	0	
+DISC-0240		Pro'Traffic Fuzz Unit	0	
+DISC-0241		Klinger Custom Pedals Jimi Fuzz	0	
+DISC-0242		Big John Hairy Balls	0	
+DISC-0243		Aul Instruments Fuzz	0	
+DISC-0244		MGI Fuzz	0	
+DISC-0245		Vintage Technology Banana Fuzz	0	
+DISC-0246		Sunhaus Djandek - Geological Fuzz	0	
+DISC-0251		Kay F-1 Fuzz Tone	0	
+DISC-0252		Uecks Fuzz Tone	0	
+DISC-0253		Excetro Wau Wau Fuzz	0	
+DISC-0254		Excetro Wau Wau Machine	0	
+DISC-0255		Jen Fuzz	0	
+DISC-0256		Jen Tone Bender	0	
+DISC-0257		Elka Fuzz	0	
+DISC-0258		Luxor Fuzz	0	
+DISC-0259		Unicord Fuzz	0	
+DISC-0260		Good Fuzzy Sounds Bad Nite Fuzz	0	
+DISC-0261		Walco Fuzz Tone Generator	0	
+DISC-0262		Vintage Tone Project Classic 60's Fuzz	0	
+DISC-0263		IDEEN Tech True Friend Fuzz	0	
+DISC-0264		Devi Ever FX VF Vintage Fuzz Master	0	
+DISC-0265		Area 51 Fuzz	0	
+DISC-0267		Schaller Fuzz	0	
+DISC-0268		Schaller Verzerrer	0	
+DISC-0269		Höfner No. 539 Fuzz/Distortion	0	
+DISC-0270		Kent 6400 Distorter	0	
+DISC-0271		Van Hall Fuzz	0	
+DISC-0272		Blackfield Fuzz	0	
+DISC-0273		Sears Fuzz-Tone Control	0	
+DISC-0277		Clark SS-600 Fuzz Tone	0	
+DISC-0278		Orpheum Fuzz	0	
+DISC-0279		Mica-Tone Fuzz	0	
+DISC-0280		Garen Distortion	0	
+DISC-0286		Nova Tone Bender	0	
+DISC-0287		Hohner MF-50 Master Fuzz Control	0	
+DISC-0289		Guyatone FS-3 Fuzz	0	
+DISC-0290		Guyatone TZm5 Torrid Fuzz	0	
+DISC-0291		Wattson Classic Electronics Fuzz FY-2	0	
+DISC-0293		Ghost Effects Shin-Ei Companion Fuzz FY-2	0	
+DISC-0294		Fredric Effects Unpleasant Companion	0	
+DISC-0295		Pigeon FX Companion FY-2 Fuzz	0	
+DISC-0296		Electronic Orange Superfuzz	0	
+DISC-0297		Schaller Fuzz-Sustain	0	
+DISC-0298		Höfner Fuzz-Sustain	0	
+DISC-0299		Allsound SC-30 Fuzz-Sustain	0	
+DISC-0300		Kent 6406 The Angry Fuzz	0	
+DISC-0301		Schaller Wha-Wha-Fuzz	0	
+DISC-0302		Höfner Wha-Wha-Fuzz	0	
+DISC-0303		Jen Jumbo Fuzz	0	
+DISC-0304		Unicord Jumbo Fuzz	0	
+DISC-0305		Jen Fuzzola	0	
+DISC-0306		Dallas-Arbiter Jumbo Fuzz	0	
+DISC-0307		Roadrunner Supersonic Fuzz	0	
+DISC-0308		Sears Model #1481 Fuzz & Wah & Volume Control Pedal	0	
+DISC-0309		General Guitar Gadgets Shin-Ei Companion Fuzz Replica	0	
+DISC-0310		Wattson Classic Electronics Gemini	0	
+DISC-0311		Squirrel Audio Fuzzy Squirrel	0	
+DISC-0312		AnaSounds Feed Me - Fuzz	0	
+DISC-0535		Fuzzrocious 420 Fuzz	0	
+DISC-0536		Fuzzrocious Afterlife - Reverb	0	
+DISC-0537		Fuzzrocious Anomalies	0	
+DISC-0538		Fuzzrocious Baxstabber - Baxandall EQ/Preamp/Tone Shaper	0	
+DISC-0539		Fuzzrocious Blast Furnace - Gated Fuzz with Momentary Delay	0	
+DISC-0540		Fuzzrocious Broke Dick Peanut Gallery	0	
+DISC-0541		Fuzzrocious Cat King	0	
+DISC-0542		Fuzzrocious Cat Tail	0	
+DISC-0543		Fuzzrocious Cicada Fuzz	0	
+DISC-0544		Fuzzrocious Dark Driving	0	
+DISC-0545		Fuzzrocious Darkest Driving	0	
+DISC-0546		Fuzzrocious Demon King	0	
+DISC-0547		Fuzzrocious Empty Glass - Collaboration with Daughters	0	
+DISC-0548		Fuzzrocious Feed Me	0	
+DISC-0549		Fuzzrocious Green Stache	0	
+DISC-0550		Fuzzrocious Grey Stache	0	
+DISC-0551		Fuzzrocious Grey Stache Plus	0	
+DISC-0552		Fuzzrocious Heliotropic	0	
+DISC-0553		Fuzzrocious K-A-E-D-E-N Drive	0	
+DISC-0554		Fuzzrocious LunaReclipse	0	
+DISC-0555		Fuzzrocious M.O.T.H. - Multi Overdrive Tremolo Hex	0	
+DISC-0556		Fuzzrocious Mail Order Muff	0	
+DISC-0557		Fuzzrocious Momster	0	
+DISC-0558		Fuzzrocious Octave Jawn	0	
+DISC-0559		Fuzzrocious Oh See Demon	0	
+DISC-0560		Fuzzrocious Pedals Afterlife v2 - Reverb	0	
+DISC-0561		Fuzzrocious Pedals Grey Stache / Heliotropic	0	
+DISC-0562		Fuzzrocious Pedals Knob Jawn - Octaver	0	
+DISC-0563		Fuzzrocious Pedals Playing Mantis	0	
+DISC-0564		Fuzzrocious Ram The Manparts	0	
+DISC-0565		Fuzzrocious Rat King	0	
+DISC-0566		Fuzzrocious Rat Tail	0	
+DISC-0567		Fuzzrocious Terrordactyl	0	
+DISC-0568		Fuzzrocious The Octavus	0	
+DISC-0569		Fuzzrocious The Overdose	0	
+DISC-0570		Fuzzrocious There Is No Dana... Only Zuul	0	
+DISC-0571		Fuzzrocious Tremorlo	0	
+DISC-0572		Fuzzrocious Tremorslo	0	
+DISC-0573		Fuzzrocious TS El Oso	0	
+DISC-0574		Fuzzrocious Walking Delay	0	
+DISC-0575		Fuzzrocious + Electro-Faustus EF110G Maggotor Gated Fuzz	0	
+DISC-0576		Electro-Faustus / Fuzzrocious Greyfly	0	
+DISC-0577		Fuzzrocious / Tone Mob Typhon	0	
+DISC-0578		BMF Effects Aries Fuzz	0	
+DISC-0579		BMF Effects Decho Box	0	
+DISC-0580		BMF Effects El Jefe	0	
+DISC-0581		BMF Effects Fat Bastard	0	
+DISC-0582		BMF Effects GB Boost - Germanium Booster	0	
+DISC-0583		BMF Effects Ge Spot F2	0	
+DISC-0584		BMF Effects Ge Spot MkI	0	
+DISC-0585		BMF Effects Holy Balls	0	
+DISC-0586		BMF Effects Liquid Sky	0	
+DISC-0587		BMF Effects Liquid Sky Deluxe - Dual Chorus	0	
+DISC-0588		BMF Effects Little Red Compressor	0	
+DISC-0589		BMF Effects Purple Nurple	0	
+DISC-0590		BMF Effects Rocket 88 - Fuzz	0	
+DISC-0591		BMF Effects Sisyphuzz - Silicon Fuzz	0	
+DISC-0592		BMF Effects Son of Bastard - Clean Boost	0	
+DISC-0593		BMF Effects Squawk Box - Fixed Wah	0	
+DISC-0594		BMF Effects The Great Wide Open	0	
+DISC-0595		Devi Ever FX '90	0	
+DISC-0596		Devi Ever FX 05/25 Punch Love	0	
+DISC-0597		Devi Ever FX 33 Silver Crank	0	
+DISC-0598		Devi Ever FX AE Aenima	0	
+DISC-0599		Devi Ever FX Bass Fuzz	0	
+DISC-0600		Devi Ever FX BDSM - Big Distortion Sound Machine	0	
+DISC-0601		Devi Ever FX Beautiful Disaster	0	
+DISC-0602		Devi Ever FX Bi-Fuzz	0	
+DISC-0603		Devi Ever FX BIT Legend Of Fuzz	0	
+DISC-0604		Devi Ever FX Bit Mangler	0	
+DISC-0605		Devi Ever FX Black Spider	0	
+DISC-0606		Devi Ever FX BS	0	
+DISC-0607		Devi Ever FX Cherry Pop	0	
+DISC-0608		Devi Ever FX DB Dark Boost	0	
+DISC-0609		Devi Ever FX Devi Special	0	
+DISC-0610		Devi Ever FX Devine Hammer	0	
+DISC-0611		Devi Ever FX Devistortion	0	
+DISC-0612		Devi Ever FX DF Disaster Fuzz	0	
+DISC-0613		Devi Ever FX Disaster Fuzz	0	
+DISC-0614		Devi Ever FX DN Destructo Noctavia	0	
+DISC-0615		Devi Ever FX Dream Mangler	0	
+DISC-0616		Devi Ever FX Drone Fuck Drone	0	
+DISC-0617		Devi Ever FX EB Electric Brown	0	
+DISC-0618		Devi Ever FX Eye of God	0	
+DISC-0619		Devi Ever FX Fortune	0	
+DISC-0620		Devi Ever FX Fuzz	0	
+DISC-0621		Devi Ever FX God Zilla	0	
+DISC-0622		Devi Ever FX GZ Goddess Zero	0	
+DISC-0623		Devi Ever FX Heaven's Gate	0	
+DISC-0624		Devi Ever FX Helios	0	
+DISC-0625		Devi Ever FX Heroin Lifestyle	0	
+DISC-0626		Devi Ever FX Hounds Tooth	0	
+DISC-0627		Devi Ever FX Hyperion	0	
+DISC-0628		Devi Ever FX Hyperion 2	0	
+DISC-0629		Devi Ever FX Hypnomangler	0	
+DISC-0630		Devi Ever FX KF Krackle Fuzz	0	
+DISC-0631		Devi Ever FX KP Karaoke Party	0	
+DISC-0632		Devi Ever FX Little Shit	0	
+DISC-0633		Devi Ever FX Love Fuzz	0	
+DISC-0634		Devi Ever FX LP Let's Play	0	
+DISC-0635		Devi Ever FX Mega Bit	0	
+DISC-0636		Devi Ever FX Mirro Safety Bag Fuzz	0	
+DISC-0637		Devi Ever FX ND Never Drive	0	
+DISC-0638		Devi Ever FX Noise Floor	0	
+DISC-0639		Devi Ever FX OK	0	
+DISC-0640		Devi Ever FX PEEP	0	
+DISC-0641		Devi Ever FX PEEPlug	0	
+DISC-0642		Devi Ever FX Punch Hate	0	
+DISC-0643		Devi Ever FX Punch Love	0	
+DISC-0644		Devi Ever FX Rocket	0	
+DISC-0645		Devi Ever FX Ruby	0	
+DISC-0646		Devi Ever FX Ruiner	0	
+DISC-0647		Devi Ever FX Shoe Gazer	0	
+DISC-0648		Devi Ever FX Silver Rose	0	
+DISC-0649		Devi Ever FX SM Soda Meiser	0	
+DISC-0650		Devi Ever FX Soda Might	0	
+DISC-0651		Devi Ever FX Stimulus Fuzz	0	
+DISC-0652		Devi Ever FX Stone Fuzz	0	
+DISC-0653		Devi Ever FX Sucka Punch	0	
+DISC-0654		Devi Ever FX Super Massive Black Hole	0	
+DISC-0655		Devi Ever FX The Ion	0	
+DISC-0656		Devi Ever FX The Wolf - Bass Fuzz	0	
+DISC-0657		Devi Ever FX Torn's Peaker / Aenima	0	
+DISC-0658		Devi Ever FX TP Torn's Peaker	0	
+DISC-0659		Devi Ever FX Truly Beautiful Disaster	0	
+DISC-0660		Devi Ever FX Truly Beautiful Legend Of Fuzz	0	
+DISC-0661		Devi Ever FX US	0	
+DISC-0663		Devi Ever FX Vintage Fuzz Master	0	
+DISC-0664		Devi Ever FX War Horse	0	
+DISC-0665		Devi Ever FX White Spider	0	
+DISC-0666		Devi Ever FX Year of the Rat	0	
+DISC-0667		Devi Ever FX ZG Zero Good	0	
+DISC-0668		Devi Ever Soda Meiser 4K	0	
+DISC-0313		Basic Audio Alter-Destiny - Hybrid Muff	0	
+DISC-0314		Basic Audio Bye-Bias Fuzz	0	
+DISC-0315		Basic Audio Electric Mud	0	
+DISC-0316		Basic Audio Foxey Lady	0	
+DISC-0317		Basic Audio Foxey Lady MkI	0	
+DISC-0318		Basic Audio Futureman	0	
+DISC-0319		Basic Audio Fuzz Mutant	0	
+DISC-0320		Basic Audio Fuzzmondo	0	
+DISC-0321		Basic Audio Fuzzstainer	0	
+DISC-0322		Basic Audio Gnarly Fuzz	0	
+DISC-0323		Basic Audio Lucky Number	0	
+DISC-0324		Basic Audio Marq Won	0	
+DISC-0325		Basic Audio Messenger Fuzz	0	
+DISC-0326		Basic Audio Pale Rider	0	
+DISC-0327		Basic Audio Peak Freq.	0	
+DISC-0328		Basic Audio Pep Fuzz	0	
+DISC-0329		Basic Audio Scarab	0	
+DISC-0330		Basic Audio Scarab Deluxe	0	
+DISC-0331		Basic Audio Solar Myth	0	
+DISC-0332		Basic Audio Spooky Tooth	0	
+DISC-0333		Basic Audio SquareWave+	0	
+DISC-0334		Basic Audio Throbby - Tremolo	0	
+DISC-0335		Basic Audio Tri/Ram Muff	0	
+DISC-0336		Basic Audio Warp	0	
+DISC-0337		Basic Audio Wildcat	0	
+DISC-0338		Basic Audio Zippy Fuzz	0	
+DISC-0339		Basic Audio Zonk (Si)	0	
+DISC-0340		Fredric Effects Accomplished Badger	0	
+DISC-0341		Fredric Effects Atomic Clock	0	
+DISC-0342		Fredric Effects Blue Monarch	0	
+DISC-0343		Fredric Effects BugCrusher - Analogue Sample Rate Reducer	0	
+DISC-0344		Fredric Effects Demon Fuzz	0	
+DISC-0345		Fredric Effects Do The Weasel Stomp!	0	
+DISC-0346		Fredric Effects Dresden - Synth Fuzz	0	
+DISC-0347		Fredric Effects Foxrite	0	
+DISC-0348		Fredric Effects Golden Eagle	0	
+DISC-0349		Fredric Effects Green Russian Big Muff	0	
+DISC-0350		Fredric Effects Grumbly Wolf	0	
+DISC-0351		Fredric Effects Harmonic Percolator	0	
+DISC-0352		Fredric Effects Husk(er)y Wolf	0	
+DISC-0353		Fredric Effects I Got Me A Pocket Weasel	0	
+DISC-0354		Fredric Effects Liquid Fox	0	
+DISC-0355		Fredric Effects Mutant Fuzz - Os Mutantes (Regulus VIII) Fuzz	0	
+DISC-0356		Fredric Effects Scrambled Brainz	0	
+DISC-0357		Fredric Effects Standard Fuzz Machine	0	
+DISC-0358		Fredric Effects Super Unpleasant Companion	0	
+DISC-0359		Fredric Effects Telstar Ring Modulator	0	
+DISC-0361		Fredric Effects Utility Perkolator	0	
+DISC-0362		Fredric Effects Verzerrer	0	
+DISC-0363		Fredric Effects West-Germany Vintage Tremolo	0	
+DISC-0364		Fredric Effects Zombie Klon	0	
+DISC-0365		Abominable Electronics Anxious Echo - Fuzz & Delay	0	
+DISC-0366		Abominable Electronics Cat Dirt Mini - Killer Acid Artwork	0	
+DISC-0367		Abominable Electronics Cenote - Reverb & Fuzz	0	
+DISC-0368		Abominable Electronics Demon Lung - Hyper Fuzz Clone	0	
+DISC-0369		Abominable Electronics Don't Shred on Me	0	
+DISC-0370		Abominable Electronics Don't Shred on Me Deluxe	0	
+DISC-0371		Abominable Electronics God Botherer - Fuzz Phaser	0	
+DISC-0372		Abominable Electronics Hail Satan - Distortion / Fuzz	0	
+DISC-0373		Abominable Electronics Hail Satan Deluxe - Distortion / Fuzz	0	
+DISC-0374		Abominable Electronics Hellmouth	0	
+DISC-0375		Abominable Electronics Oppressive Cult Destroyer	0	
+DISC-0376		Abominable Electronics Sunnbather - Beta Bass Preamp	0	
+DISC-0377		Abominable Electronics Throne Torcher - HM-2 Clone with Extras	0	
+DISC-0378		Abominable Electronics Toke Machine - Octave Fuzz	0	
+DISC-0379		Abominable Electronics Unholy Grail - Delay / Boost Pedal	0	
+DISC-0380		Abominable Electronics x Mid-Fi Electronics Skullmulcher	0	
+DISC-0381		Abominable Electronics Yeti Fuzz - Vintage Germanium Fuzz Pedal	0	
+DISC-0382		M.A.S.F. Biloma	0	
+DISC-0383		M.A.S.F. Bloody Emily	0	
+DISC-0384		M.A.S.F. Epilepsy	0	
+DISC-0385		M.A.S.F. Halothan	0	
+DISC-0386		M.A.S.F. Homicide Noodle	0	
+DISC-0387		M.A.S.F. Kidnapper - Octave Fuzz	0	
+DISC-0388		M.A.S.F. Lavender Head	0	
+DISC-0389		M.A.S.F. Live Convulsion	0	
+DISC-0390		M.A.S.F. Ma.S Model OSC01 Noise Machine	0	
+DISC-0391		M.A.S.F. Ma.S Model OSC02 Noise Machine	0	
+DISC-0392		M.A.S.F. Ma.S Model OSC03 Noise Machine	0	
+DISC-0393		M.A.S.F. Paranoid	0	
+DISC-0394		M.A.S.F. PJ Fuzz	0	
+DISC-0395		M.A.S.F. SCM	0	
+DISC-0396		M.A.S.F. Starry Wisdom - Bass Fuzz	0	
+DISC-0397		M.A.S.F. Swan Song	0	
+DISC-0398		M.A.S.F. Thornoscillator	0	
+DISC-0669		Black Cat Bass Octave Fuzz	0	
+DISC-0670		Black Cat D&S	0	
+DISC-0671		Black Cat D-II Distortion	0	
+DISC-0672		Black Cat Fuzz Platform	0	
+DISC-0673		Black Cat Mini-Trem	0	
+DISC-0674		Black Cat Mini-Vibe	0	
+DISC-0675		Black Cat Mona Wah	0	
+DISC-0676		Black Cat Monster K-Fuzz	0	
+DISC-0677		Black Cat Monster K-Fuzz Stompbox	0	
+DISC-0678		Black Cat N-Fuzz	0	
+DISC-0679		Black Cat OD-1 Freddy Fuzz	0	
+DISC-0680		Black Cat OD-Boost	0	
+DISC-0681		Black Cat OD-Fuzz	0	
+DISC-0682		Black Cat OD-Fuzz (CME Edition)	0	
+DISC-0683		Black Cat Psychedelic Machine	0	
+DISC-0684		Black Cat RGDP - Really Great Dirt Pedal	0	
+DISC-0685		Black Cat Ring Modulator	0	
+DISC-0686		Black Cat Stereo Vibe	0	
+DISC-0687		Black Cat Super Fuzz	6	Wikimedia Commons
+DISC-0688		Black Cat The Ferritt	6	Wikimedia Commons
+DISC-0689		Black Cat Vibe (desktop)	0	
+DISC-0690		Black Cat Vibe (pedal)	0	
+DISC-0691		Black Cat Vibe 2000	0	
+DISC-0692		Black Cat Wee Buzz	0	
+DISC-0693		BSM Albuquerque	0	
+DISC-0694		BSM Ambassador	0	
+DISC-0695		BSM AP-WA Andy Powell (Wishbone Ash) Treble Booster	0	
+DISC-0696		BSM BM-Q Special Treble-Booster	0	
+DISC-0697		BSM BM-Q Treble-Booster	0	
+DISC-0698		BSM CM 71/73	0	
+DISC-0699		BSM DM-T Treble-Booster	0	
+DISC-0700		BSM FassBender Fuzz Machine	0	
+DISC-0701		BSM Fireball Treble-Booster	0	
+DISC-0702		BSM FuzzBender Fuzz Machine	0	
+DISC-0703		BSM Galaxy 1011	0	
+DISC-0704		BSM HS Hornby-Skewes Treble Booster	0	
+DISC-0705		BSM HS-C Custom Hornby-Skewes Treble Booster	0	
+DISC-0706		BSM HS-S Silicon Hornby-Skewes Treble Booster	0	
+DISC-0707		BSM J-Fuzz	0	
+DISC-0708		BSM Mk2 Treble-Booster	0	
+DISC-0709		BSM OR Treble-Booster	0	
+DISC-0710		BSM Overdrive Supreme	0	
+DISC-0711		BSM Powderfinger	0	
+DISC-0712		BSM RB Special Looper	0	
+DISC-0713		BSM RG Rory Gallagher Treble Booster	0	
+DISC-0714		BSM RM Early Days	0	
+DISC-0715		BSM RM Majestic	0	
+DISC-0716		BSM RM Treble-Booster	0	
+DISC-0717		BSM RM Velvet	0	
+DISC-0718		BSM RM-M Metal Treble-Booster	0	
+DISC-0719		BSM RMG	0	
+DISC-0720		BSM RPA California	0	
+DISC-0721		BSM RPA Major Ritchie Blackmore Pre Amp	0	
+DISC-0722		BSM RPA Ritchie Blackmore Pre Amp	0	
+DISC-0723		BSM RW-F Ron Wood Faces	0	
+DISC-0724		BSM Spectrum Fuzz Booster	0	
+DISC-0725		BSM Studio '75	0	
+DISC-0726		BSM VX-C Classic Treble & Bass Booster	0	
+DISC-0727		BSM VX-T Treble-Booster	0	
+DISC-0728		Lovepedal 1/2 Watt Amp	0	
+DISC-0729		Lovepedal 8823 - High Headroom Overdrive	0	
+DISC-0730		Lovepedal Amp 50	0	
+DISC-0731		Lovepedal Amp Eleven	0	
+DISC-0732		Lovepedal Babyface Tremolo	0	
+DISC-0733		Lovepedal Beardsman - Bi-Chorus with Dual Oscillators	0	
+DISC-0734		Lovepedal Believe	0	
+DISC-0735		Lovepedal Black Beauty Balance	0	
+DISC-0736		Lovepedal Bonetender	0	
+DISC-0737		Lovepedal Box Of Awesome	0	
+DISC-0738		Lovepedal Box Of Awesome 2	0	
+DISC-0739		Lovepedal Bullnose Billet	0	
+DISC-0740		Lovepedal Butterfly Kiss - Custom Chorus	0	
+DISC-0741		Lovepedal COT-50 Church Of Tone Plexi	0	
+DISC-0742		Lovepedal Dan Bulldog Buffer	0	
+DISC-0743		Lovepedal Death of a Vox	0	
+DISC-0744		Lovepedal DL-1 Digital Delay	0	
+DISC-0745		Lovepedal Dragon Fuzz	0	
+DISC-0746		Lovepedal Dual Purple Plexi	0	
+DISC-0747		Lovepedal Echo Baby	0	
+DISC-0748		Lovepedal Echo Daddy	0	
+DISC-0749		Lovepedal Echophonic Jr.	0	
+DISC-0750		Lovepedal Englishman	0	
+DISC-0751		Lovepedal Englishwoman	0	
+DISC-0752		Lovepedal ET-ST Eternity Stack	0	
+DISC-0753		Lovepedal Eternity Overdrive	0	
+DISC-0754		Lovepedal Fuzz50 Royale	0	
+DISC-0755		Lovepedal Gen5 Echo	0	
+DISC-0756		Lovepedal Hi Volt	0	
+DISC-0757		Lovepedal High Power Tweed Twin	0	
+DISC-0758		Lovepedal Joker - Boost	0	
+DISC-0759		Lovepedal Joker - Octaver	0	
+DISC-0760		Lovepedal JTM	0	
+DISC-0761		Lovepedal Jubilee Plus Boost	0	
+DISC-0762		Lovepedal Kalamazoo	0	
+DISC-0763		Lovepedal Karl Fuzz	0	
+DISC-0764		Lovepedal Les Lius	0	
+DISC-0765		Lovepedal Line Driver / Mini Buffer	0	
+DISC-0766		Lovepedal MAGICboy Vibe Unit	0	
+DISC-0767		Lovepedal Mk-Red - King Of Dirt	0	
+DISC-0768		Lovepedal Mk12 Bender	0	
+DISC-0769		Lovepedal Monkey Fist Fuzz	0	
+DISC-0770		Lovepedal OD Eleven	0	
+DISC-0771		Lovepedal Pickle Vibe	0	
+DISC-0772		Lovepedal Princetone Reverb	0	
+DISC-0773		Lovepedal ProValve	0	
+DISC-0774		Lovepedal ProValve 2	0	
+DISC-0775		Lovepedal Purple Plexi	0	
+DISC-0776		Lovepedal RedHead - High Gain	0	
+DISC-0777		Lovepedal Rubber Chicken	0	
+DISC-0778		Lovepedal Shampooie - Trem O Verb	0	
+DISC-0779		Lovepedal Silicon Fuzzmaster	0	
+DISC-0780		Lovepedal Steel Stringer	0	
+DISC-0781		Lovepedal Super Sic Tone	0	
+DISC-0782		Lovepedal Super Six	0	
+DISC-0783		Lovepedal SuperLead	0	
+DISC-0784		Lovepedal Tchula	0	
+DISC-0785		Lovepedal TremElo	0	
+DISC-0786		Lovepedal Valve Reamer	0	
+DISC-0787		Lovepedal Vibronaut - Photocell Vibe	0	
+DISC-0788		Lovepedal Vintage / Modern	0	
+DISC-0789		Lovepedal Woodrow	0	
+DISC-0790		Mythos Pedals 1347 Silicon Fuzz	0	
+DISC-0791		Mythos Pedals 210 Double Drive Deluxe	0	
+DISC-0792		Mythos Pedals Air Lane Drive - Dual Overdrive	0	
+DISC-0793		Mythos Pedals Argo - Octave Fuzz	0	
+DISC-0794		Mythos Pedals Argo Boost Deluxe - Octave Fuzz + Boost	0	
+DISC-0795		Mythos Pedals Argonaut - Octave Up	0	
+DISC-0796		Mythos Pedals AU-79 Fuzz	0	
+DISC-0797		Mythos Pedals Big Puft - Fuzz	0	
+DISC-0798		Mythos Pedals Buffer	0	
+DISC-0799		Mythos Pedals Cestus - Clean Booster	0	
+DISC-0800		Mythos Pedals Chupacabra - Overdrive/Fuzz	0	
+DISC-0801		Mythos Pedals Dædalus - Overdrive	0	
+DISC-0802		Mythos Pedals Erlking - Overdrive	0	
+DISC-0803		Mythos Pedals Extra Hot "Extra Spicy" - Dual Overdrive	0	
+DISC-0804		Mythos Pedals GE Mjolnir	0	
+DISC-0805		Mythos Pedals Golden Fleece - Fuzz	0	
+DISC-0806		Mythos Pedals Hephaestus - Variable Voltage Fuzz	0	
+DISC-0807		Mythos Pedals Herculean - Overdrive	0	
+DISC-0808		Mythos Pedals Herculean Deluxe - Overdrive	0	
+DISC-0809		Mythos Pedals High Road - Joey Landreth signature Fuzz	0	
+DISC-0811		Mythos Pedals Lark - Rhett Shull Overdrive & Tremolo	0	
+DISC-0812		Mythos Pedals Luxury Drive - Boost	0	
+DISC-0813		Mythos Pedals Mjolnir - Overdrive	0	
+DISC-0814		Mythos Pedals Mjolnir Buffer	0	
+DISC-0815		Mythos Pedals NV-9 Envy - Pro Overdrive	0	
+DISC-0816		Mythos Pedals Olympus Overdrive	0	
+DISC-0817		Mythos Pedals Oracle Analog Echo	0	
+DISC-0818		Mythos Pedals Positron Collider Fuzz	0	
+DISC-0819		Mythos Pedals Positron Fuzz - Cascading Amplifier Distortion	0	
+DISC-0820		Mythos Pedals Runestone Overdrive	0	
+DISC-0821		Mythos Pedals SusMaryOsep!	0	
+DISC-0822		Mythos Pedals The Fates - BBD Chorus	0	
+DISC-0823		Mythos Pedals The Victor - Distortion	0	
+DISC-0824		Mythos Pedals Wildwood Mjolnir	0	
+DISC-0825		Mad Professor "1" - Reverb/Distortion	0	
+DISC-0826		Mad Professor Amber Overdrive	0	
+DISC-0827		Mad Professor Big Tweedy Drive	0	
+DISC-0828		Mad Professor BlueBerry Bass Overdrive	0	
+DISC-0829		Mad Professor Bluebird Overdrive/Delay	0	
+DISC-0830		Mad Professor Deep Blue Delay	0	
+DISC-0831		Mad Professor Deep Blue Delay Deluxe	0	
+DISC-0832		Mad Professor Double Moon - Chorus / Flanger / Vibrato	0	
+DISC-0833		Mad Professor Dual Blue Delay	0	
+DISC-0834		Mad Professor Electric Blue Chorus	0	
+DISC-0835		Mad Professor Evolution Orange Underdrive	0	
+DISC-0836		Mad Professor Fire Red Fuzz	0	
+DISC-0837		Mad Professor Forest Green Compressor	0	
+DISC-0838		Mad Professor Fuzz32	0	
+DISC-0839		Mad Professor Golden Cello	0	
+DISC-0840		Mad Professor Kosmos - Ambient Reverbs & Delays	0	
+DISC-0841		Mad Professor Little Green Wonder	0	
+DISC-0842		Mad Professor Little Tweedy Drive	0	
+DISC-0843		Mad Professor Loud 'n Proud	0	
+DISC-0844		Mad Professor Mellow Yellow Tremolo	0	
+DISC-0845		Mad Professor Mighty Red Distortion	0	
+DISC-0846		Mad Professor Royal Blue Overdrive	0	
+DISC-0847		Mad Professor Ruby Red Booster	0	
+DISC-0848		Mad Professor Silver Spring Reverb	0	
+DISC-0849		Mad Professor Simble Mk2 - Overdrive	0	
+DISC-0850		Mad Professor Sky Blue Overdrive	0	
+DISC-0851		Mad Professor Snow White Auto Wah	0	
+DISC-0852		Mad Professor Snow White Bass Auto Wah	0	
+DISC-0853		Mad Professor Stone Grey Distortion	0	
+DISC-0854		Mad Professor Super Black - Preamp / Overdrive	0	
+DISC-0855		Mad Professor Super Black Mini - Preamp / Overdrive	0	
+DISC-0856		Mad Professor Supreme - Dual Channel Overdrive	0	
+DISC-0857		Mad Professor Sweet Honey Deluxe Overdrive	0	
+DISC-0858		Mad Professor Sweet Honey Overdrive	0	
+DISC-0859		Mad Professor Tiny Orange Phaser	0	
+DISC-1000		T-Pedals BassTard Fuzz	0	
+DISC-1001		T-Pedals Buggy Fuzz	0	
+DISC-1002		T-Pedals Daytona Fuzz	0	
+DISC-1003		T-Pedals Hi-Fuzz	0	
+DISC-1004		T-Pedals Metak Boost	0	
+DISC-1005		T-Pedals Metak Fuzztron	0	
+DISC-1006		T-Pedals Nuke Booster	0	
+DISC-1007		T-Pedals Overboost	0	
+DISC-1008		T-Pedals Strobot	0	
+DISC-1009		T-Pedals Super Hoffman	0	
+DISC-1010		T-Pedals T-Fuzz	0	
+DISC-1011		T-Pedals Watt-Drive	0	
+DISC-1012		Metal Pedals American Overdrive	0	
+DISC-1013		Metal Pedals Amp Blaster	0	
+DISC-1014		Metal Pedals Big Rocker	0	
+DISC-1015		Metal Pedals Black Gravity	0	
+DISC-1016		Metal Pedals Blue Crunch	0	
+DISC-1017		Metal Pedals Bomb Shell - Distortion	0	
+DISC-1018		Metal Pedals Demon Drive	0	
+DISC-1019		Metal Pedals Dirty Bitch	0	
+DISC-1020		Metal Pedals Fuzstortion	0	
+DISC-1021		Metal Pedals Green Box	0	
+DISC-1022		Metal Pedals Hard Core - Distortion/Overdrive	0	
+DISC-1023		Metal Pedals Hard Core XXX - Distortion	0	
+DISC-1024		Metal Pedals JH-3 Johnny Hiland signature Overdrive/Distortion	0	
+DISC-1025		Metal Pedals LimCom Plus	0	
+DISC-1026		Metal Pedals Mad Bull - Overdrive/Distortion	0	
+DISC-1027		Metal Pedals Pro Country	0	
+DISC-1028		Metal Pedals Pushover	0	
+DISC-1029		Metal Pedals Raw Hide - Overdrive	0	
+DISC-1030		Metal Pedals Screaming Whore	0	
+DISC-1031		Metal Pedals Screaming Whore II	0	
+DISC-1032		Metal Pedals Snake Bite	0	
+DISC-1033		Metal Pedals The Rancher	0	
+DISC-1034		Metal Pedals Ultra-Boost	0	
+DISC-1035		Metal Pedals Ultra-Man	0	
+DISC-1036		Heavy Electronics Ascend	0	
+DISC-1037		Heavy Electronics Descend	0	
+DISC-1038		Heavy Electronics El Oso - Bass Distortion	0	
+DISC-1039		Heavy Electronics Grind Fuzz	0	
+DISC-1040		Heavy Electronics Hwy-77	0	
+DISC-1041		Heavy Electronics Push	0	
+DISC-1042		Heavy Electronics Radio Havana	0	
+DISC-1043		Heavy Electronics Red Eyes	0	
+DISC-1044		Heavy Electronics Rodeo Loop	0	
+DISC-1045		Heavy Electronics Saturn - Modulation Driver	0	
+DISC-1046		Heavy Electronics Sonic Oppressor	0	
+DISC-1100		JAM Pedals Big Chill	0	
+DISC-1101		JAM Pedals Boomster	0	
+DISC-1102		JAM Pedals DanComp	0	
+DISC-1103		JAM Pedals Delay Llama	0	
+DISC-1104		JAM Pedals Delay Llama Supreme	0	
+DISC-1105		JAM Pedals Delay Llama Xtreme	0	
+DISC-1106		JAM Pedals Delay Llama+	0	
+DISC-1107		JAM Pedals Double Dreamer	6	Wikimedia Commons
+DISC-1108		JAM Pedals Dyna-ssor	0	
+DISC-1109		JAM Pedals Eureka - Fuzz	0	
+DISC-1110		JAM Pedals Fuzz Phrase	0	
+DISC-1111		JAM Pedals Fuzz Phrase Si	0	
+DISC-1112		JAM Pedals Harmonious Fall - Tremolo/Chorus/Vibrato	0	
+DISC-1113		JAM Pedals Harmonious Monk	0	
+DISC-1114		JAM Pedals Harmonious Monk MkII - Harmonic Tremolo	0	
+DISC-1115		JAM Pedals LucyDreamer	0	
+DISC-1116		JAM Pedals LucyDreamer Bass	0	
+DISC-1117		JAM Pedals LucyDreamer Supreme	0	
+DISC-1118		JAM Pedals Octaurus - Octave Fuzz	0	
+DISC-1119		JAM Pedals Pink Flow	0	
+DISC-1120		JAM Pedals Rattler	0	
+DISC-1121		JAM Pedals Rattler+	0	
+DISC-1122		JAM Pedals Red Muck	0	
+DISC-1123		JAM Pedals Retro-Vibe	0	
+DISC-1124		JAM Pedals Ripply Fall - Chorus/Vibe/Phaser	0	
+DISC-1125		JAM Pedals Ripply Fall Bass	0	
+DISC-1126		JAM Pedals Rooster	0	
+DISC-1127		JAM Pedals Seagull - Cocked Wah	0	
+DISC-1128		JAM Pedals The Chill - Analog Tremolo	0	
+DISC-1129		JAM Pedals The Ripple	0	
+DISC-1130		JAM Pedals TubeDreamer	0	
+DISC-1131		JAM Pedals Wahcko	0	
+DISC-1132		JAM Pedals Waterfall	0	
+DISC-1133		PiggyFX Bass Boar	0	
+DISC-1134		PiggyFX Black Pig - High Gain Distortion	0	
+DISC-1135		PiggyFX Brown Pig	0	
+DISC-1136		PiggyFX D.U.I.	0	
+DISC-1137		PiggyFX Flash Drive	0	
+DISC-1138		PiggyFX Lard	0	
+DISC-1139		PiggyFX Oinkomp	0	
+DISC-1140		PiggyFX SchweineFleisch	0	
+DISC-1141		PiggyFX Space Hog	0	
+DISC-1142		PiggyFX Tank	0	
+DISC-1143		PiggyFX Wild Boar	0	
+DISC-1144		Holowon Effects Amp Drive	0	
+DISC-1145		Holowon Effects Atom Filter	0	
+DISC-1146		Holowon Effects Black Distorter	0	
+DISC-1147		Holowon Effects Control Box	0	
+DISC-1148		Holowon Effects Effects Alt Switch	0	
+DISC-1149		Holowon Effects Super Tone Sweep	0	
+DISC-1150		Holowon Effects Umiom - Distortion	0	
+DISC-1151		Holowon Effects Europa	0	
+DISC-1152		Holowon Effects Faygun - Fuzz	0	
+DISC-1153		Holowon Effects Furr Fuzz	0	
+DISC-1154		Holowon Effects Fuzzrite Clone	0	
+DISC-1155		Holowon Effects FX-1 Single Channel Effects Loop	0	
+DISC-1156		Holowon Effects FX-2 Dual Channel Effects Loop	0	
+DISC-1157		Holowon Effects FX-3 Triple Channel Effects Loop	0	
+DISC-1158		Holowon Effects Gamplore	0	
+DISC-1159		Holowon Effects Glow Bar	0	
+DISC-1160		Holowon Effects Golden God	0	
+DISC-1161		Holowon Effects Ion Drive	0	
+DISC-1162		Holowon Effects Photo Hammer	0	
+DISC-1163		Holowon Effects Pink Rubber Mad Man	0	
+DISC-1164		Holowon Effects Pulse Coil	0	
+DISC-1165		Holowon Effects Rubber Magnet	0	
+DISC-1166		Holowon Effects Selactro	0	
+DISC-1167		Holowon Effects Short Fuse	0	
+DISC-1168		Holowon Effects Solvent Blender	0	
+DISC-1169		Holowon Effects Spacematic Warmer	0	
+DISC-1170		Holowon Effects Static Egg	0	
+DISC-1171		Holowon Effects Sterkte!	0	
+DISC-1172		Holowon Effects Tape Soup - True Pitch Shifting Vibe	0	
+DISC-1173		Holowon Effects Thermal Wave	0	
+DISC-1174		Holowon Effects Tin Man	0	
+DISC-1175		Holowon Effects Velcro Fuzz	0	
+DISC-1176		Holowon Effects Vexort Tone Controller	0	
+DISC-1200		Arion DCF-1 Digital Chorus/Flanger	0	
+DISC-1201		Arion DDM-1 Digital Delay	0	
+DISC-1202		Arion DDS-1 Digital Delay/Sampler	0	
+DISC-1203		Arion DDS-4 Digital Delay/Sampler	0	
+DISC-1204		Arion DMD-1 Digital Metal Distortion	0	
+DISC-1205		Arion DRS-1 Digital Reverb	0	
+DISC-1206		Arion DSR-1 Digital Reverb	0	
+DISC-1207		Arion HU-8400 Chromatic Tuner	0	
+DISC-1208		Arion HU-8500 Stage Tuner	0	
+DISC-1209		Arion MCH-2 Bass Chorus	0	
+DISC-1210		Arion MDI-1 Tube Mania	0	
+DISC-1211		Arion MDI-2 Bass Distortion	0	
+DISC-1212		Arion MDS-1 Distortion	0	
+DISC-1213		Arion MEQ-1 Equalizer	0	
+DISC-1214		Arion MEQ-2 Bass Equalizer	0	
+DISC-1215		Arion MFL-2 Bass Flanger	0	
+DISC-1216		Arion MMP-1 Metal Plus	0	
+DISC-1217		Arion MOC-1 Octave	0	
+DISC-1218		Arion MTE-1 Tubulator	0	
+DISC-1219		Arion PS-05 Power Supply	0	
+DISC-1220		Arion PSB-06 Power Supply Board	0	
+DISC-1221		Arion SAD-1 Stereo Analog Delay	0	
+DISC-1222		Arion SAD-3 Stereo Analog Delay	0	
+DISC-1223		Arion SCH-1 Stereo Chorus	0	
+DISC-1224		Arion SCH-Z Stereo Chorus	0	
+DISC-1225		Arion SCH-ZD Stereo Chorus	0	
+DISC-1226		Arion SCO-1 Stereo Compressor	0	
+DISC-1227		Arion SDI-1 Stereo Distortion	0	
+DISC-1228		Arion SFC-1 Stereo Fat Chorus	0	
+DISC-1229		Arion SFL-1 Stereo Flanger	0	
+DISC-1230		Arion SMM-1 Stereo Metal Master	0	
+DISC-1231		Arion SOD-1 Stereo Overdrive	0	
+DISC-1232		Arion SPE-1 Stereo Parametric EQ	0	
+DISC-1233		Arion SPH-1 Stereo Phaser	0	
+DISC-1234		Arion SRV-1 Stereo Reverb	0	
+DISC-1235		Ken Multi Effects 5 - Multiple Effects	0	
+DISC-1236		Ken Multi MCH-22 Stereo Chorus	0	
+DISC-1237		Ken Multi MCH-7 Chorus	0	
+DISC-1238		Ken Multi MCH-8 Bass Chorus	0	
+DISC-1239		Ken Multi MCH-SS Chorus	0	
+DISC-1240		Ken Multi MCO-22 Compressor	0	
+DISC-1241		Ken Multi MCP-28 Bass Compressor	0	
+DISC-1242		Ken Multi MCP-7 Compressor	0	
+DISC-1243		Ken Multi MCP-8 Bass Compressor	0	
+DISC-1244		Ken Multi MDD-7 Digital Delay	0	
+DISC-1245		Ken Multi MDI-22 Distortion	0	
+DISC-1246		Ken Multi MDL-7 Analog Delay	0	
+DISC-1247		Ken Multi MDR-7 Digital Reverb	0	
+DISC-1248		Ken Multi MDS-22 Digital Delay/Sampler	0	
+DISC-1249		Ken Multi MDS-7 Digital Delay/Sampler	0	
+DISC-1250		Ken Multi MDT-7 Distortion	0	
+DISC-1251		Ken Multi MDT-8 Bass Distortion	0	
+DISC-1252		Ken Multi MDT-SS Distortion	0	
+DISC-1253		Ken Multi MEQ-7 Parametric EQ	0	
+DISC-1254		Ken Multi MFL-7 Flanger	0	
+DISC-1255		Ken Multi MFL-8 Bass Flanger	0	
+DISC-1256		Ken Multi MFZ-7 Fuzz	0	
+DISC-1257		Ken Multi MME-7 Multiple Effects	0	
+DISC-1258		Ken Multi MMM-22 Metal Master	0	
+DISC-1259		Ken Multi MNG-7 Noise Gate	0	
+DISC-1260		Ken Multi MOC-7 Octave	0	
+DISC-1261		Ken Multi MOD-7 Overdrive	0	
+DISC-1262		Ken Multi MOD-SS Overdrive	0	
+DISC-1263		Ken Multi MPB-7 Power Up Booster	0	
+DISC-1264		Ken Multi MPH-22 Phaser	0	
+DISC-1265		Ken Multi MPH-7 Phaser	0	
+DISC-1266		Ken Multi MTO-7 Tube Driver	0	
+DISC-1267		Ken Multi MUM-7 Ultra Metal	0	
+DISC-1268		Ken Multi MWH-7 Auto Wah	0	
+DISC-1269		Systech 4000A Flanger	0	
+DISC-1270		Systech 7012 Flanger	0	
+DISC-1271		Systech 7026 Dual Phase Shifter	0	
+DISC-1272		Systech Envelope & Repeater	0	
+DISC-1273		Systech Envelope Computer	0	
+DISC-1274		Systech Envelope Follower	0	
+DISC-1275		Systech Flanger	0	
+DISC-1276		Systech Harmonic Energizer	0	
+DISC-1277		Systech KUAI Electronic Phase Shifter	0	
+DISC-1278		Systech Overdrive	0	
+DISC-1279		Systech Phase Shifter	0	
+DISC-1280		Roland pedals AD-50 Double Beat	0	
+DISC-1281		Roland pedals AF-100 Bee Baa - Fuzz and Treble Booster	0	
+DISC-1282		Roland pedals AF-60 Bee Gee	0	
+DISC-1283		Roland pedals AG-5 Funny Cat - Harmonic Mover & Soft Distortion Sustainer	0	
+DISC-1284		Roland pedals AP-2 Phase II	0	
+DISC-1285		Roland pedals AP-5 Phase Five	0	
+DISC-1286		Roland pedals AP-7 Jet Phaser	0	
+DISC-1287		Roland pedals AS-1 Sustainer	0	
+DISC-1288		Roland pedals AW-10 Wah Beat	0	
+DISC-1289		Roland pedals FV-1 Foot Volume	0	
+DISC-1290		Roland pedals FV-2 Foot Volume	0	
+DISC-1291		The Faceless Fuzz	0	
+DISC-1292		Firebox Treble Booster	0	
+DISC-1293		Twin Step Fuzz	0	
+DISC-1294		High Note Octave Fuzz	0	
+DISC-1295		The Marksman Fuzz	0	
+DISC-1296		The Knoz Machine Fuzz	0	
+DISC-1297		Ahab Overdrive	0	
+DISC-1298		Tall	0	
+DISC-1299		Deep	0	
+DISC-1300		Wide	0	
+DISC-1301		Far	0	
+DISC-1302		Sirens v.2	0	
+DISC-1303		Free Shit	0	
+DISC-1304		Bloodline	0	
+DISC-1305		Fever Dream	0	
+DISC-1306		The Green Thing	0	
+DISC-1307		Black Fudge	0	
+DISC-1308		Fat Bald Guy	0	
+DISC-1309		Mister Vermin	0	
+DISC-1310		Ram's Head Big Muff Clone	0	
+DISC-1311		Squeezey Compressor	0	
+DISC-1312		Angry Bear	0	
+DISC-1313		Octave Up Harmonizer	0	
+DISC-1314		Mööse Pie	0	
+DISC-1315		TS-808	0	
+DISC-1316		The Pyramid Principle	0	
+DISC-1317		The Pained Guy	0	
+DISC-1318		Purple Bear	0	
+DISC-1319		Angry Green Bear	0	
+DISC-1320		Legitimate Beef	0	
+DISC-1321		The Otterdrive	0	
+DISC-1322		Gray Speck	0	
+DISC-0860		BJFE Arctic White Fuzz	0	
+DISC-0861		BJFE Baby Blue Overdrive	0	
+DISC-0862		BJFE Baby Pink Booster	0	
+DISC-0863		BJFE Bone Bender MkI	0	
+DISC-0864		BJFE Bone Bender MkII	0	
+DISC-0865		BJFE Candy Apple Fuzz	0	
+DISC-0866		BJFE Dyna Red Distortion	0	
+DISC-0867		BJFE Emerald Green Distortion Machine	0	
+DISC-0868		BJFE Face 109 Fuzz	0	
+DISC-0869		BJFE Fuzz 68	0	
+DISC-0870		BJFE Honey Bee Overdrive	0	
+DISC-0871		BJFE Little Green Emphaser	0	
+DISC-0872		BJFE Little Green Wonder Overdrive	0	
+DISC-0873		BJFE Little Red Trebler	0	
+DISC-0874		BJFE Mint Green Mini Vibe	0	
+DISC-0875		BJFE Model D	0	
+DISC-0876		BJFE Model G	0	
+DISC-0877		BJFE Model H	0	
+DISC-0878		BJFE Model R	0	
+DISC-0879		BJFE Pale Green Compressor	0	
+DISC-0880		BJFE Payphone Green Overdrive Distortion	0	
+DISC-0881		BJFE Pine Green Compressor	0	
+DISC-0882		BJFE Pink Purple Fuzz	0	
+DISC-0883		BJFE Red Rooster Booster	0	
+DISC-0884		BJFE Sea Blue EQ	0	
+DISC-0885		BJFE Silver Lawn Overdrive	0	
+DISC-0886		BJFE Snow White Fuzz	0	
+DISC-0887		BJFE Sparkle Face	0	
+DISC-0888		BJFE Square Wave	0	
+DISC-0889		BJFE VCF	0	
+DISC-0890		Stomp Under Foot (Vintage series) Green Russian	0	
+DISC-0891		Stomp Under Foot / Black Book Fuzz Honey	0	
+DISC-0892		Stomp Under Foot Alabaster Fuzz	0	
+DISC-0893		Stomp Under Foot Civil Unrest	0	
+DISC-0894		Stomp Under Foot Cosmonaut	0	
+DISC-0895		Stomp Under Foot Demogorgon	0	
+DISC-0896		Stomp Under Foot Dire Wolf	0	
+DISC-0897		Stomp Under Foot Dirt Preacher	0	
+DISC-0898		Stomp Under Foot Dirty Rooster	0	
+DISC-0899		Stomp Under Foot Elk Big Mag Sustainar	0	
+DISC-0900		Stomp Under Foot Full Powered Halo	0	
+DISC-0901		Stomp Under Foot Greasy Creek Fuzz Machine	0	
+DISC-0902		Stomp Under Foot Halo Bender	0	
+DISC-0903		Stomp Under Foot Hellephant	0	
+DISC-0904		Stomp Under Foot Mean Green Machine	0	
+DISC-0905		Stomp Under Foot Mountain Goat	6	Wikimedia Commons
+DISC-0906		Stomp Under Foot Mud Creek - Dual Fuzz Machine	0	
+DISC-0907		Stomp Under Foot Rhinosaur	0	
+DISC-0908		Stomp Under Foot Screaming Panda	0	
+DISC-0909		Stomp Under Foot Serenity Overdrive	0	
+DISC-0910		Stomp Under Foot Silver Foxx	0	
+DISC-0911		Stomp Under Foot Skinner Box	0	
+DISC-0912		Stomp Under Foot Son Of A Bee	0	
+DISC-0913		Stomp Under Foot Sonic Generator	0	
+DISC-0914		Stomp Under Foot Sonic Warfare	0	
+DISC-0915		Stomp Under Foot Supa Dirty Rooster	0	
+DISC-0916		Stomp Under Foot The Shag MkII - Germanium Tone Bender	0	
+DISC-0917		Stomp Under Foot The Shag MkIII - Tone Bender	0	
+DISC-0918		Stomp Under Foot Vintage Pumpkin Pi	0	
+DISC-0919		Stomp Under Foot Windhand Fuzz	0	
+DISC-0920		Origin Effects BassRIG '64 Black Panel	0	
+DISC-0921		Origin Effects BassRIG Fifteen - Reactive Bass Preamp with Classic Amp Topology	0	
+DISC-0922		Origin Effects BassRIG Super Vintage	0	
+DISC-0923		Origin Effects Cali76 Bass Compressor	0	
+DISC-0924		Origin Effects Cali76 Compact	0	
+DISC-0925		Origin Effects Cali76 Compact Bass	0	
+DISC-0926		Origin Effects Cali76 Compact Deluxe	0	
+DISC-0927		Origin Effects Cali76 Compressor Stacked Edition	0	
+DISC-0928		Origin Effects Cali76 FET Compressor	0	
+DISC-0929		Origin Effects Cali76 Limiting Amplifier - Studio Grade FET Compressor	0	
+DISC-0930		Origin Effects Cali76 Stacked Compressor	0	
+DISC-0931		Origin Effects DCX Bass - Tone Shaper & Drive	0	
+DISC-0932		Origin Effects DCX Boost - Tone Shaper & Drive	0	
+DISC-0933		Origin Effects Deluxe 61 Bias Tremolo	0	
+DISC-0934		Origin Effects Deluxe55 - Tweed Recreation	0	
+DISC-0935		Origin Effects EQ Deluxe - Studio Equaliser & Drive	0	
+DISC-0936		Origin Effects Halcyon Blue - Bluesbreaker Overdrive	0	
+DISC-0937		Origin Effects Halcyon Gold Overdrive	0	
+DISC-0938		Origin Effects Halcyon Green - Classic Overdrive	0	
+DISC-0939		Origin Effects M-EQ Driver - Mid Booster & Drive	0	
+DISC-0940		Origin Effects Magma57 - Amp Vibrato & Drive	0	
+DISC-0941		Origin Effects RD Compact Hot Rod	0	
+DISC-0942		Origin Effects RevivalDRIVE - Ghosting Overdrive / Unabridged Amp Tone	0	
+DISC-0943		Origin Effects RevivalDRIVE Compact	0	
+DISC-0944		Origin Effects RevivalDRIVE Hot Rod Edition	0	
+DISC-0945		Origin Effects RevivalTREM - Bias Tremolo	0	
+DISC-0946		Origin Effects SlideRIG Compact	0	
+DISC-0947		Origin Effects SlideRIG Compact Deluxe	0	
+DISC-0948		Origin Effects SlideRIG Dual Chained Limiting Amplifier - Studio Grade FET Compressor	0	
+DISC-0949		Thorpy FX x Origin Effects (Thorogin Effects) FolkedUp - Acoustic Fuzz & Capo	0	
+DISC-0950		Fuhrmann AB Double Bypass	0	
+DISC-0951		Fuhrmann AB Loop Selector	0	
+DISC-0952		Fuhrmann Analog Delay	0	
+DISC-0953		Fuhrmann Analog Echo	0	
+DISC-0954		Fuhrmann Bass Compressor	0	
+DISC-0955		Fuhrmann Bass Fuzz	0	
+DISC-0956		Fuhrmann Battle Power - De Ros signature Hyper Gain Pedal	0	
+DISC-0957		Fuhrmann Big Fuzz	0	
+DISC-0958		Fuhrmann Buffer & Boost	0	
+DISC-0959		Fuhrmann Cabinet Simulator	0	
+DISC-0960		Fuhrmann Chorus	0	
+DISC-0961		Fuhrmann Classic 800	0	
+DISC-0962		Fuhrmann Classic Fuzz	0	
+DISC-0963		Fuhrmann Compressor	0	
+DISC-0964		Fuhrmann Cool Chorus	0	
+DISC-0965		Fuhrmann Double AB Selector	0	
+DISC-0966		Fuhrmann Dual High Gain	0	
+DISC-0967		Fuhrmann Envelope Filter	0	
+DISC-0968		Fuhrmann High Gain	0	
+DISC-0969		Fuhrmann Hot Rod	0	
+DISC-0970		Fuhrmann Lead Drive	0	
+DISC-0971		Fuhrmann Metal Drive	0	
+DISC-0972		Fuhrmann Modulation Delay	0	
+DISC-0973		Fuhrmann Mosfet Boost	0	
+DISC-0974		Fuhrmann Noise Gate	0	
+DISC-0975		Fuhrmann Octave Down	0	
+DISC-0976		Fuhrmann PB800 Pedalboard	0	
+DISC-0977		Fuhrmann Phaser	0	
+DISC-0978		Fuhrmann Phaser II	0	
+DISC-0979		Fuhrmann Power Drive	0	
+DISC-0980		Fuhrmann Power Supply	0	
+DISC-0981		Fuhrmann Punch Box	0	
+DISC-0982		Fuhrmann Rocking Tube - High Voltage Overdrive	0	
+DISC-0983		Fuhrmann Smooth Tremolo	0	
+DISC-0984		Fuhrmann Super Metal Drive	0	
+DISC-0985		Fuhrmann Tremolo	0	
+DISC-0986		Fuhrmann Tube Drive	0	
+DISC-0987		Fuhrmann Vibe & Vib	0	
+DISC-0988		Fuhrmann Vintage Chorus	0	
+DISC-0989		George Dennis GD-10 Stereo Volume pedal	0	
+DISC-0990		George Dennis GD-100 Wizard Rock Distortion/Volume pedal	0	
+DISC-0991		George Dennis GD-110 Wizard Blues Distortion/Volume pedal	0	
+DISC-0992		George Dennis GD-120 Tremolo-Volume pedal	0	
+DISC-0993		George Dennis GD-125 Tremolo Ping Pong	0	
+DISC-0994		George Dennis GD-130 Delay-Reverb-Panning-Hold	0	
+DISC-0995		George Dennis GD-135 The Tube	0	
+DISC-0996		George Dennis GD-20 Mono Volume pedal	0	
+DISC-0997		George Dennis GD-200 Distorted Mind Rock	0	
+DISC-0998		George Dennis GD-210 Distorted Mind Blues	0	
+DISC-0999		George Dennis GD-220 Tremolo	0	
+DISC-1000		George Dennis GD-230 King Bee	0	
+DISC-1001		George Dennis GD-25 Panorama-Stereo-Volume	0	
+DISC-1002		George Dennis GD-290 Chorus-Flanger	0	
+DISC-1003		George Dennis GD-295 Phaser	0	
+DISC-1004		George Dennis GD-30 Wah-Wah	0	
+DISC-1005		George Dennis GD-300 Talking Box	0	
+DISC-1006		George Dennis GD-35 Wah-Wah FTB	0	
+DISC-1007		George Dennis GD-40 Wah-Wah Switch+	0	
+DISC-1008		George Dennis GD-45 Wah-Wah Switch FTB	0	
+DISC-1009		George Dennis GD-50 Elite Wah	0	
+DISC-1010		George Dennis GD-55 Wah-Overdrive	0	
+DISC-1011		George Dennis GD-60 Wah-Volume-Switch	0	
+DISC-1012		George Dennis GD-65 Parametric Wah-Volume	0	
+DISC-1013		George Dennis GD-80 Sustainer Distortion	0	
+DISC-1014		George Dennis GD-90 Stereo Chorus-Flanger-Volume	0	
+DISC-1015		George Dennis GD-95 Stereo Phaser Volume	0	
+DISC-1016		George Dennis GD-95 Super Phaser Volume	0	
+DISC-1017		George Dennis GDWZ Wizard	0	
+DISC-1018		George Dennis Sustainer Volume	0	
+DISC-1019		VFE Pedals 5:00 Fuzz	0	
+DISC-1020		VFE Pedals Alpha Dog	0	
+DISC-1021		VFE Pedals Blueprint	0	
+DISC-1022		VFE Pedals Blues King	0	
+DISC-1023		VFE Pedals Bumble Bee	0	
+DISC-1024		VFE Pedals Choral Reef	0	
+DISC-1025		VFE Pedals Cocktail Fuzz	0	
+DISC-1026		VFE Pedals Dark Horse	0	
+DISC-1027		VFE Pedals Distortion²	0	
+DISC-1028		VFE Pedals Distortion³	0	
+DISC-1029		VFE Pedals Dragon - Dynamic Overdrive	0	
+DISC-1030		VFE Pedals Echo Ohce	0	
+DISC-1031		VFE Pedals El Raton	0	
+DISC-1032		VFE Pedals Enterprise	0	
+DISC-1033		VFE Pedals Fiery Red Horse	0	
+DISC-1034		VFE Pedals Focus - Mid Boost	0	
+DISC-1035		VFE Pedals Fuzz Duo	0	
+DISC-1036		VFE Pedals Ice Scream - Mid-boosting OD	0	
+DISC-1037		VFE Pedals Killer Rabbit	0	
+DISC-1038		VFE Pedals Killer Rabbit Stereo - Stereo Fuzz/Dist/OD	0	
+DISC-1039		VFE Pedals Klein Bottle - Filter / Mixer / Looper	0	
+DISC-1040		VFE Pedals Klein Bottle Stereo	0	
+DISC-1041		VFE Pedals Leader of the Pack	0	
+DISC-1042		VFE Pedals Mini Mu	0	
+DISC-1043		VFE Pedals Mobius Strip	0	
+DISC-1044		VFE Pedals Old School	0	
+DISC-1045		VFE Pedals Pale Horse	0	
+DISC-1046		VFE Pedals Pinball - Tilt Equalizer	0	
+DISC-1047		VFE Pedals Proto OD II	0	
+DISC-1048		VFE Pedals Proto OD III	0	
+DISC-1049		VFE Pedals Red Wolf - Vintage Distortion	0	
+DISC-1050		VFE Pedals Rocket EQ	0	
+DISC-1051		VFE Pedals RUP - Rainbows, Unicorns, Puppies (Radical Ultrasonic Processor)	0	
+DISC-1052		VFE Pedals Standout - Mid Booster	0	
+DISC-1053		VFE Pedals The Scream	0	
+DISC-1054		VFE Pedals The Triplet	0	
+DISC-1055		VFE Pedals Tremulator	0	
+DISC-1056		VFE Pedals Triumvirate	0	
+DISC-1057		VFE Pedals Vomit Hound	0	
+DISC-1058		VFE Pedals White Horse	0	
+DISC-1059		VFE Pedals Woodchipper	0	
+DISC-1060		VFE Pedals Yellow Submarine	0	
+DISC-1061		KMA Audio Machines AB/Y	0	
+DISC-1062		KMA Audio Machines Astrospurt - Junction Gate Field-Effect Phaser	0	
+DISC-1063		KMA Audio Machines Belfry - Buffer	0	
+DISC-1064		KMA Audio Machines Chief Disrupter - Fundamental Fuzz/Distortion	0	
+DISC-1065		KMA Audio Machines Cirrus - Spatial Temporal Modifier	0	
+DISC-1066		KMA Audio Machines Dead Stag	0	
+DISC-1067		KMA Audio Machines Endgame - Duality Calibrator	0	
+DISC-1068		KMA Audio Machines Fuzzly Bear	0	
+DISC-1069		KMA Audio Machines Guardian of the Wurm - Metal Distortion with Noise Gate	0	
+DISC-1070		KMA Audio Machines Horizont - Interdimensional Multispatial JFET Phaser	0	
+DISC-1071		KMA Audio Machines Logan - Transcend Drive	0	
+DISC-1072		KMA Audio Machines Mandrake - Octo-Shrieker	0	
+DISC-1073		KMA Audio Machines Minos - Germanium Fuzz	0	
+DISC-1074		KMA Audio Machines Moai Maea	0	
+DISC-1075		KMA Audio Machines Pylon - ATB Noise Gate	0	
+DISC-1076		KMA Audio Machines Queequeg - Sub Generator	0	
+DISC-1077		KMA Audio Machines Queequeg 2 - Sub Generator	0	
+DISC-1078		KMA Audio Machines SAM - Supply Aid Machine	0	
+DISC-1079		KMA Audio Machines Stereo AB/Y	0	
+DISC-1080		KMA Audio Machines Strokkur - Germanium Treble Booster	0	
+DISC-1081		KMA Audio Machines Sweet Sinner - Germanium Treble Booster	0	
+DISC-1082		KMA Audio Machines Tyler - The Frequency Splitter	0	
+DISC-1083		KMA Audio Machines Wurhm - Limited Edition HM Distortion	0	
+DISC-1084		KMA Audio Machines Wurm - Distortion	0	
+DISC-1085		Dazatronyx Class A Germanium Amplifier	0	
+DISC-1086		Dazatronyx Effects Loop	0	
+DISC-1087		Dazatronyx Fetish Booster	0	
+DISC-1088		Dazatronyx Fetish Buffer	0	
+DISC-1089		Dazatronyx Germanium Fuzz	0	
+DISC-1090		Dazatronyx Optical Tremolo	0	
+DISC-1091		Dazatronyx Professor Boogie	0	
+DISC-1092		Dazatronyx Stereo Panning Optical Tremolo	0	
+DISC-1093		Dazatronyx THD Metal Distortion & Hybrid Germanium Fuzz	0	
+DISC-1094		Dazatronyx Tsuchi Fuzz	0	
+DISC-1095		Dazatronyx TSX Overdrive	0	
+DISC-1096		Velvet Pedals Compressor	0	
+DISC-1097		Velvet Pedals English Channel	0	
+DISC-1098		Velvet Pedals Face Fuzz	0	
+DISC-1099		Velvet Pedals Katana	0	
+DISC-1100		Velvet Pedals Matchbox DC30	0	
+DISC-1101		Velvet Pedals Minotaur	0	
+DISC-1102		Velvet Pedals Professional Spring Reverb	0	
+DISC-1103		Velvet Pedals Thor	0	
+DISC-1104		Velvet Pedals Umble	0	
+DISC-1000		Empress Effects ABY Switcher	0	
+DISC-1001		Empress Effects Bass Compressor	0	
+DISC-1002		Empress Effects Bass ParaEq	0	
+DISC-1003		Empress Effects Buffer	0	
+DISC-1004		Empress Effects Buffer+	0	
+DISC-1005		Empress Effects Buffer+ Stereo	0	
+DISC-1006		Empress Effects Buffer++	0	
+DISC-1007		Empress Effects Compressor	0	
+DISC-1008		Empress Effects Compressor MkII	0	
+DISC-1009		Empress Effects Distortion	0	
+DISC-1010		Empress Effects Drive	0	
+DISC-1011		Empress Effects EchoSystem - Dual Engine Delay	0	
+DISC-1012		Empress Effects Fuzz	0	
+DISC-1013		Empress Effects Germ Drive	0	
+DISC-1014		Empress Effects Heavy	0	
+DISC-1015		Empress Effects Heavy Menace - Distortion	0	
+DISC-1016		Empress Effects Multidrive	0	
+DISC-1017		Empress Effects Nebulus - Chorus / Vibrato / Flanger	0	
+DISC-1018		Empress Effects ParaEq MkII	0	
+DISC-1019		Empress Effects ParaEq MkII Deluxe	0	
+DISC-1020		Empress Effects ParaEq w/ Boost	0	
+DISC-1021		Empress Effects Phaser	0	
+DISC-1022		Empress Effects Reverb	0	
+DISC-1023		Empress Effects Super Delay	0	
+DISC-1024		Empress Effects Super Delay Vintage Modified	0	
+DISC-1025		Empress Effects Tape Delay	0	
+DISC-1026		Empress Effects Tremolo	0	
+DISC-1027		Empress Effects Tremolo 2	0	
+DISC-1028		Empress Effects Tremolo 2 - 10th Anniversary Edition	0	
+DISC-1029		Empress Effects ZOIA	0	
+DISC-1030		Guild (by Applied) Fuzz Box	0	
+DISC-1031		Guild (by Applied) FW-3 Distortion Wah Volume	0	
+DISC-1032		Guild (by Applied) SP-5 Siren and Surf & Turf Pedal	0	
+DISC-1033		Guild (by Applied) Stinger - Gain Pedal	0	
+DISC-1034		Guild (by Applied) VW-1 Volume Wah	0	
+DISC-1035		Guild (by Aria) MM-500 Tweedy Bird	0	
+DISC-1036		Guild (by fOXX) VW-400 Wah & Volume	0	
+DISC-1037		Guild (by Top Gear) Grizzly Fuzz	0	
+DISC-1038		Guild (by Top Gear) Roadrunner	0	
+DISC-1039		Guild Brian May Power Booster	0	
+DISC-1040		Guild Brian May Treble Booster	0	
+DISC-1041		Guild Foxey Lady - Distortion & Sustain Unit	0	
+DISC-1042		Guild RV-1 Rotoverb	0	
+DISC-1043		Guild Timbre Generator	0	
+DISC-1044		Guild Trioct	0	
+DISC-1045		DenTone Electronics 900 Pound Violin	0	
+DISC-1046		DenTone Electronics Alien Hate Fuzz	0	
+DISC-1047		DenTone Electronics BFF Biggest Fattest Fuzz	0	
+DISC-1048		DenTone Electronics Black Hole Generator	0	
+DISC-1049		DenTone Electronics Bolthead	0	
+DISC-1050		DenTone Electronics Buzzaround	0	
+DISC-1051		DenTone Electronics CigBooster	0	
+DISC-1052		DenTone Electronics Demented Circus Monkey	0	
+DISC-1053		DenTone Electronics Freaktone Fuzz	0	
+DISC-1054		DenTone Electronics Fuzzrite	0	
+DISC-1055		DenTone Electronics FY-2 Companion Fuzz	0	
+DISC-1056		DenTone Electronics Jupiter Rocket	0	
+DISC-1057		DenTone Electronics Pinhead	0	
+DISC-1058		DenTone Electronics Pinhead 2	0	
+DISC-1059		DenTone Electronics Purple Octavepus	0	
+DISC-1060		DenTone Electronics Rangemaster	0	
+DISC-1061		DenTone Electronics Rocket - Germanium Boost	0	
+DISC-1062		DenTone Electronics SteamRoller	0	
+DISC-1063		DenTone Electronics SupaFuzz	0	
+DISC-1064		Montgomery Appliances '77 Flanger	0	
+DISC-1073		Montgomery Appliances SD/Pre 3000	0	
+DISC-1078		Montgomery Appliances VFOD	0	
+DISC-1079		Blue Skool Records Au Fuzz	0	
+DISC-1080		Blue Skool Records Black Boost	0	
+DISC-1081		Blue Skool Records Domino Effect	0	
+DISC-1082		Blue Skool Records Fuzz 408	0	
+DISC-1083		Blue Skool Records Phozz	0	
+DISC-1084		Blue Skool Records Phuket Phozz	0	
+DISC-1085		Blue Skool Records Pink Beaver	0	
+DISC-1086		Blue Skool Records Red Box	0	
+DISC-1087		Blue Skool Records Space Fuzz	0	
+DISC-1088		Blue Skool Records Universal Drive	0	
+DISC-1089		EarthQuaker Devices Time Shadows	0	
+DISC-1090		EarthQuaker Devices Acapulco Gold - Power Amp Distortion	0	
+DISC-1091		EarthQuaker Devices Afterneath - Otherworldly Reverberation Machine	0	
+DISC-1092		EarthQuaker Devices Amp Hammer	0	
+DISC-1093		EarthQuaker Devices Amp Hammer II	0	
+DISC-1094		EarthQuaker Devices Aqueduct Vibrato	0	
+DISC-1095		EarthQuaker Devices Arpanoid - Polyphonic Pitch Arpeggiator	0	
+DISC-1096		EarthQuaker Devices Arrows - Preamp Booster	0	
+DISC-1097		EarthQuaker Devices Astral Destiny - Octal Octave Reverberation Odyssey	0	
+DISC-1098		EarthQuaker Devices Aurelius - Tri-Voice Chorus	0	
+DISC-1099		EarthQuaker Devices Avalanche Run - Stereo Delay and Reverb	0	
+DISC-1100		EarthQuaker Devices Barrows - Fuzz	0	
+DISC-1101		EarthQuaker Devices Bellows - Fuzzdriver	0	
+DISC-1102		EarthQuaker Devices Bit Commander	0	
+DISC-1103		EarthQuaker Devices Black Ash Endangered Fuzz	0	
+DISC-1104		EarthQuaker Devices Black Eye - Clean Boost	0	
+DISC-1105		EarthQuaker Devices Blaster Fuzz	0	
+DISC-1106		EarthQuaker Devices Blumes - Low Signal Shredder	0	
+DISC-1107		EarthQuaker Devices Bows - Germanium Preamp Booster	0	
+DISC-1108		EarthQuaker Devices Chelsea - Low End Fuzz Driver	0	
+DISC-1109		EarthQuaker Devices Chrysalis	0	
+DISC-1110		EarthQuaker Devices Cloven Hoof	0	
+DISC-1111		EarthQuaker Devices Cloven Hoof Reaper	0	
+DISC-1112		EarthQuaker Devices Crimson Drive - Germanium Overdrive	0	
+DISC-1113		EarthQuaker Devices Data Corrupter - Modulated Monophonic PLL Harmonizer	0	
+DISC-1114		EarthQuaker Devices Gary Automatic Pulse Modulation Fuzz	0	
+DISC-1115		EarthQuaker Devices Dirt Transmitter	0	
+DISC-1116		EarthQuaker Devices Disaster Transport - Modulated Delay Machine	0	
+DISC-1117		EarthQuaker Devices Disaster Transport Jr.	0	
+DISC-1118		EarthQuaker Devices Disaster Transport SR - Advanced Modulated Delay and Reverb Machine	0	
+DISC-1119		EarthQuaker Devices Dispatch Master	0	
+DISC-1120		EarthQuaker Devices Dream Crusher	0	
+DISC-1121		EarthQuaker Devices Dunes - Mini Mega Ultimate Overdrive	0	
+DISC-1122		EarthQuaker Devices Easy Listening - Analog Amp Simulator	0	
+DISC-1123		EarthQuaker Devices Erupter Perfect Fuzz	0	
+DISC-1124		EarthQuaker Devices Fantastic Beast Fuzz	0	
+DISC-1125		EarthQuaker Devices Fuzz Master General	0	
+DISC-1126		EarthQuaker Devices Ghost Disaster - Black Hole Ambience Generator	0	
+DISC-1127		EarthQuaker Devices Ghost Echo - Reverb	0	
+DISC-1128		EarthQuaker Devices Grand Orbiter - Phase Machine	0	
+DISC-1129		EarthQuaker Devices Gray Channel - Dynamic Dirt Doubler	0	
+DISC-1130		EarthQuaker Devices Hizumitas - Fuzz Sustainar	0	
+DISC-1131		EarthQuaker Devices Hoof Fuzz	0	
+DISC-1132		EarthQuaker Devices Hoof Reaper	0	
+DISC-1133		EarthQuaker Devices Hummingbird Repeat Percussions	0	
+DISC-1134		EarthQuaker Devices Interstellar Orbiter - Dual Resonant Filter	0	
+DISC-1135		EarthQuaker Devices Ledges - Tri-Dimensional Reverberation	0	
+DISC-1136		EarthQuaker Devices Levitation - Reverberation Machine	0	
+DISC-1137		EarthQuaker Devices Monarch - Overdrive	0	
+DISC-1138		EarthQuaker Devices Night Wire - Dynamic Harmonic Tremolo	0	
+DISC-1139		EarthQuaker Devices Organizer	0	
+DISC-1140		EarthQuaker Devices Palisades	0	
+DISC-1141		EarthQuaker Devices Pitch Bay - Dirty Polyphonic Harmonizer	0	
+DISC-1142		EarthQuaker Devices Plumes - Small Signal Shredder	0	
+DISC-1143		EarthQuaker Devices Pulse Machine	0	
+DISC-1144		EarthQuaker Devices Pyramids - Stereo Flanging Device	0	
+DISC-1145		EarthQuaker Devices Rainbow Machine	0	
+DISC-1146		EarthQuaker Devices Rippler Tremolo	0	
+DISC-1147		EarthQuaker Devices Royal Drive	0	
+DISC-1148		EarthQuaker Devices Scrolls - Bass Odyssey Analog Bass Preamp	0	
+DISC-1149		EarthQuaker Devices Sea Machine	0	
+DISC-1150		EarthQuaker Devices Silos - Digital Delay	0	
+DISC-1151		EarthQuaker Devices Sound Shank	0	
+DISC-1152		EarthQuaker Devices Space Spiral - Modulated Delay	0	
+DISC-1153		EarthQuaker Devices Spatial Delivery - Envelope Filter with Sample & Hold	0	
+DISC-1154		EarthQuaker Devices Speaker Cranker	0	
+DISC-1155		EarthQuaker Devices Special Cranker - Silicon/Germanium Distortion	0	
+DISC-1156		EarthQuaker Devices Spectre Overdrive	0	
+DISC-1157		EarthQuaker Devices Spires - Fuzz Doubler	0	
+DISC-1158		EarthQuaker Devices Stealth Fuzz	0	
+DISC-1159		EarthQuaker Devices Sunn O))) HalfLife - Octave Distortion + Booster	0	
+DISC-1160		EarthQuaker Devices Sunn O))) Life Pedal - Octave Distortion + Booster	0	
+DISC-1161		EarthQuaker Devices Swiss Things - Pedalboard Reconciler	0	
+DISC-1162		EarthQuaker Devices Talons	0	
+DISC-1163		EarthQuaker Devices Tentacle - Analog Octave Up	0	
+DISC-1164		EarthQuaker Devices Terminal - Destructive Fuzz Device	0	
+DISC-1165		EarthQuaker Devices The Depths - Optical Vibe Machine	0	
+DISC-1166		EarthQuaker Devices The Warden - Optical Compressor	0	
+DISC-1167		EarthQuaker Devices Tone Job	0	
+DISC-1168		EarthQuaker Devices Tone Reaper	0	
+DISC-1169		EarthQuaker Devices Towers - Stereo Reverberant Filter	0	
+DISC-1170		EarthQuaker Devices Transmisser - Resonant Reverberations	0	
+DISC-1171		EarthQuaker Devices Tusk Fuzz	0	
+DISC-1172		EarthQuaker Devices Westwood - Translucent Drive Manipulator	0	
+DISC-1173		EarthQuaker Devices White Light Overdrive	0	
+DISC-1174		EarthQuaker Devices x Dr. Z ZEQD-Pre Tube Preamp	0	
+DISC-1175		EarthQuaker Devices Zap Machine	0	
+DISC-1176		EarthQuaker Devices Zoar - Dynamic Audio Grinder	0	
+DISC-1177		Death By Audio (Destroyer series) Dream Station - Stereo Reverb & Delay	0	
+DISC-1178		Death By Audio (Destroyer series) Moonbeam Phaser - Dual Analog Stereo Phaser	0	
+DISC-1179		Death By Audio (Destroyer series) Thee Treble Overload - Stereo Treble Boost & Distortion	0	
+DISC-1180		Death By Audio + EarthQuaker Devices Time Shadows	0	
+DISC-1181		Death By Audio Absolute Destruction	0	
+DISC-1182		Death By Audio Apocalypse	0	
+DISC-1183		Death By Audio Bass War - Bass Fuzz	0	
+DISC-1184		Death By Audio Crash Modulator	0	
+DISC-1185		Death By Audio Crossover Fuzz	0	
+DISC-1186		Death By Audio Deep Animation - Filter/Overdrive	0	
+DISC-1187		Death By Audio Disturbance - Lockable LFO Modulator	0	
+DISC-1188		Death By Audio Echo Dream	0	
+DISC-1189		Death By Audio Echo Dream 2	0	
+DISC-1190		Death By Audio Echo Master - Lo-Fi Vocal Echo with Effects Loop	0	
+DISC-1191		Death By Audio Evil Filter	0	
+DISC-1192		Death By Audio Evil Fuzz	0	
+DISC-1193		Death By Audio Exit Index - Analog Warped Tremolo & Distortion	0	
+DISC-1194		Death By Audio Fuzz War	0	
+DISC-1195		Death By Audio Germanium Filter	0	
+DISC-1196		Death By Audio Ghost Delay - 3 Stage Digital Echo	0	
+DISC-1197		Death By Audio Infinity Verb - Infinite Stereo Reverb	0	
+DISC-1198		Death By Audio Interstellar Overdriver	0	
+DISC-1199		Death By Audio Interstellar Overdriver Supreme	0	
+DISC-1200		Death By Audio Kill Kill Filter	0	
+DISC-1201		Death By Audio Micro Dream	0	
+DISC-1202		Death By Audio Micro Harmonic Transformer	0	
+DISC-1203		Death By Audio Micro Ringer	0	
+DISC-1204		Death By Audio Octave Clang	0	
+DISC-1205		Death By Audio Octave Clang v2	0	
+DISC-1206		Death By Audio Psychedelic Lightmare - Light-Responsive Reverb/Tremolo	0	
+DISC-1207		Death By Audio Reverberation Machine	0	
+DISC-1208		Death By Audio Robot	0	
+DISC-1209		Death By Audio ROOMS	0	
+DISC-1210		Death By Audio SE-1 Space Ensemble - Vocal Effect	0	
+DISC-1211		Death By Audio Sound Saw	0	
+DISC-1212		Death By Audio Soundwave Breakdown	0	
+DISC-1213		Death By Audio Space Bender - Chorus Modulator	0	
+DISC-1214		Death By Audio Supersonic Fuzz Gun	0	
+DISC-1215		Death By Audio Thee Ffuzz Warr Overload	0	
+DISC-1216		Death By Audio Total Sonic Annihilation	0	
+DISC-1217		Death By Audio Total Sonic Annihilation 2	0	
+DISC-1218		Death By Audio Waveformer Destroyer	0	
+DISC-1219		Death By Audio Waveformer Destroyer Mk2	0	
+DISC-1220		Death By Audio x Levitation Phosphene Scream	0	
+DISC-1221		Death By Audio x Levitation Speed Tripper	0	
+DISC-1222		Chase Bliss Audio (x Electronic Audio Experiments) Big Time - Analog/Digital Echo	0	
+DISC-1223		Electronic Audio Experiments µ Blaster - FET Boost/Overdrive	0	
+DISC-1224		Electronic Audio Experiments Citadel - JFET Master Lead	0	
+DISC-1225		Electronic Audio Experiments Dagger	0	
+DISC-1226		Electronic Audio Experiments Dude Incredible - Tube Voice / Fuzz	0	
+DISC-1227		Electronic Audio Experiments Glaive	0	
+DISC-1228		Electronic Audio Experiments Greathammer - Solidstate Bass Drive	0	
+DISC-1229		Electronic Audio Experiments Halberd - Discrete Transistor Overdrive	0	
+DISC-1230		Electronic Audio Experiments Limelight - Dual Channel Overdrive	0	
+DISC-1231		Electronic Audio Experiments Longsword	0	
+DISC-1232		Electronic Audio Experiments Model feT - Model T Preamp	0	
+DISC-1233		Electronic Audio Experiments Prismatic Wall	0	
+DISC-1234		Electronic Audio Experiments Sending - Analog Delay	0	
+DISC-1235		Electronic Audio Experiments Surveyor	0	
+DISC-1236		Electronic Audio Experiments The Bard	0	
+DISC-1237		Electronic Audio Experiments x Benson Amps Halberd + Germanium Boost	0	
+DISC-1238		Electronic Audio Experiments x Mask Audio Electronics Eldritch Blast - Fuzz	0	
+DISC-1239		Electronic Audio Experiments x Obstructures 0xEAE Bass Driver	0	
+DISC-1240		Electronic Audio Experiments x Obstructures 0xEAE Boost	0	
+DISC-1241		Electronic Audio Experiments x Obstructures 0xEAE Fuzz	0	
+DISC-1242		Electronic Audio Experiments x Pile Mirror House v2 - Pitch Shifting Modulator	0	
+DISC-1243		Electronic Audio Experiments Scattering	0	
+DISC-1244		Black Arts Toneworks Black Forest	0	
+DISC-1245		Black Arts Toneworks Black Shadow	0	
+DISC-1246		Black Arts Toneworks Black Sheep	0	
+DISC-1247		Black Arts Toneworks Coven	0	
+DISC-1248		Black Arts Toneworks Crown Of Horns - Distortion	0	
+DISC-1249		Black Arts Toneworks Destroyer	0	
+DISC-1250		Black Arts Toneworks Fnord!	0	
+DISC-1251		Black Arts Toneworks LSTR	0	
+DISC-1252		Black Arts Toneworks Oath	0	
+DISC-1253		Black Arts Toneworks Pharaoh - Fuzz	0	
+DISC-1254		Black Arts Toneworks Pharaoh - Fuzz Supreme	0	
+DISC-1255		Black Arts Toneworks Quantum Mystic Overdrive	0	
+DISC-1256		Black Arts Toneworks Revelation	0	
+DISC-1257		Black Arts Toneworks Ritual - Fuzz	0	
+DISC-1258		Black Arts Toneworks Sarcophagus Fuzz	0	
+DISC-1259		Black Arts Toneworks Witch Burner	0	
+DISC-1260		Fulltone '69	0	
+DISC-1261		Fulltone '69 MkII	0	
+DISC-1262		Fulltone '69 Slight Return	0	
+DISC-1263		Fulltone '70	0	
+DISC-1264		Fulltone '70 BC-108C	0	
+DISC-1265		Fulltone 2B	0	
+DISC-1266		Fulltone Bass-Drive	0	
+DISC-1267		Fulltone CF-1 Choralflange	0	
+DISC-1268		Fulltone CFV-2 ChoralFlange	0	
+DISC-1269		Fulltone Clyde Deluxe Wah	0	
+DISC-1270		Fulltone Clyde Wah	0	
+DISC-1271		Fulltone CT-1 Catalyst	0	
+DISC-1272		Fulltone Custom Shop Hi-Mu	0	
+DISC-1273		Fulltone Custom Shop Queen Bee	0	
+DISC-1274		Fulltone Custom Shop Ranger - Germanium Treble Booster / Rangemaster	0	
+DISC-1275		Fulltone Custom Shop Supa-Wah - 5-Voice Wah-Wah	0	
+DISC-1276		Fulltone Deja' Vibe 2	0	
+DISC-1277		Fulltone DP-1 Distortion Pro	0	
+DISC-1278		Fulltone FB-1 Fat-Boost	0	
+DISC-1279		Fulltone FB-2 Fat-Boost	0	
+DISC-1280		Fulltone FB-3 Fat-Boost	0	
+DISC-1281		Fulltone FD-1 Full-Drive1	0	
+DISC-1282		Fulltone FD-2v2 Full-Drive 2 v2	0	
+DISC-1283		Fulltone FPS-1 adapter	0	
+DISC-1284		Fulltone Full-Drive	0	
+DISC-1285		Fulltone Full-Drive 2	0	
+DISC-1286		Fulltone Full-Drive 3	0	
+DISC-1287		Fulltone GT-500 Discrete Booster / Distortion	0	
+DISC-1288		Fulltone Mas Malo - Distortion/Fuzz	0	
+DISC-1289		Fulltone MDV-2 Deja' Vibe	0	
+DISC-1290		Fulltone MDV-3 Deja' Vibe	0	
+DISC-1291		Fulltone Mini Deja' Vibe	0	
+DISC-1292		Fulltone OCD Ge - Germanium OCD	0	
+DISC-1293		Fulltone OCD Obsessive Compulsive Drive	0	
+DISC-1294		Fulltone OF-1 Octafuzz	0	
+DISC-1295		Fulltone OF-2 Octafuzz	0	
+DISC-1296		Fulltone PlimSoul	0	
+DISC-1297		Fulltone PlimSoul MkII	0	
+DISC-1298		Fulltone RTO Robin Trower Overdrive	0	
+DISC-1299		Fulltone SB-2 Soul-Bender	0	
+DISC-1300		Fulltone Secret Freq.	0	
+DISC-1301		Fulltone Soul-Bender	0	
+DISC-1302		Fulltone SSTE Solid State Tape Echo	0	
+DISC-1303		Fulltone ST-1 Supa-Trem	0	
+DISC-1304		Fulltone ST-2 Supa-Trem2	0	
+DISC-1305		Fulltone ST-Jr Supa-Trem Jr	0	
+DISC-1306		Fulltone TTE Tube Tape Echo	0	
+DISC-1307		Fulltone Ultimate Octave	0	
+DISC-1308		Fulltone WahFull	0	
+DISC-1309		Death By Audio Amp Crash	0	
+DISC-1223		Top Gear Bass Boost	0	
+DISC-1224		Top Gear Equaliser	0	
+DISC-1225		Top Gear Flanger	0	
+DISC-1226		Top Gear Four Channel Mixer	0	
+DISC-1227		Top Gear Funky Fazer	0	
+DISC-1228		Top Gear Fuzz	0	
+DISC-1229		Top Gear Fuzz Sustain	0	
+DISC-1230		Top Gear Mini Mixer	0	
+DISC-1231		Top Gear Octave Divider	0	
+DISC-1232		Top Gear Phaser	0	
+DISC-1233		Top Gear Rotator	0	
+DISC-1234		Top Gear Sound Rotator	0	
+DISC-1235		Top Gear Sustain	0	
+DISC-1236		Top Gear TG-55 Synthesiser	0	
+DISC-1237		Top Gear Treble Boost	0	
+DISC-1238		Top Gear Vol	0	
+DISC-1239		Top Gear Wah	0	
+DISC-1240		Top Gear Wah Volume	0	
+DISC-1241		Smitty Pedals Bass Compadre	0	
+DISC-1242		Smitty Pedals Compadre	0	
+DISC-1243		Smitty Pedals Fuzz Ranger	0	
+DISC-1244		Smitty Pedals Fuzz-Tone	0	
+DISC-1245		Smitty Pedals Holy Smit	0	
+DISC-1246		Smitty Pedals Hybrid Fuzz	0	
+DISC-1247		Smitty Pedals Maelstrom	0	
+DISC-1248		Smitty Pedals Octavulator	0	
+DISC-1249		Smitty Pedals Smitty Bender Mk1.5	0	
+DISC-1250		Smitty Pedals Smitty Bender MkI	0	
+DISC-1251		Smitty Pedals Smitty Bender MkIII	0	
+DISC-1252		Smitty Pedals Smitty Bender Pro MkII	0	
+DISC-1253		Smitty Pedals Smitty Fuzz	0	
+DISC-1254		Smitty Pedals SmittyDriver	0	
+DISC-1255		Smitty Pedals Square Wave	0	
+DISC-1256		Smitty Pedals Suppa Bender	0	
+DISC-1257		Smitty Pedals Suppa Octave	0	
+DISC-1258		Smitty Pedals T-Boost	0	
+DISC-1259		Frantone Acoust-A-Boost	0	
+DISC-1260		Frantone Auto-Looper	0	
+DISC-1261		Frantone Bassweet Germanium Fuzztone	0	
+DISC-1262		Frantone Brooklyn Overdrive	0	
+DISC-1263		Frantone Cream Puff	0	
+DISC-1264		Frantone Glacier Hyper Modulator	0	
+DISC-1265		Frantone Hep Cat	0	
+DISC-1266		Frantone Hi-Ball Selectable Overdrive	0	
+DISC-1267		Frantone Ingot Effects Loop Switcher	0	
+DISC-1268		Frantone Lo-Tone Classic Fuzz	0	
+DISC-1269		Frantone Peach Fuzz	0	
+DISC-1270		Frantone Sandwich Optical Compressor	0	
+DISC-1271		Frantone Sputnik	0	
+DISC-1272		Frantone The Boobox Signal Router	0	
+DISC-1273		Frantone The Sweet Germanium Fuzztone	0	
+DISC-1274		Frantone Thunderhead Bass Booster	0	
+DISC-1275		Frantone Universal Translator	0	
+DISC-1276		Frantone Vibutron	0	
+DISC-1277		EC Pedals Angry Ape Gate Controlled Bass Fuzz	0	
+DISC-1278		EC Pedals Eyeball Compressor	0	
+DISC-1279		EC Pedals Hot Rodded Booster	0	
+DISC-1280		EC Pedals Michael Benson Signature FuzzDriver	0	
+DISC-1281		EC Pedals Muff Head	0	
+DISC-1282		EC Pedals Murinae	0	
+DISC-1283		EC Pedals Night Journey Reverb	0	
+DISC-1284		EC Pedals Orphaned Bass Drive	0	
+DISC-1285		EC Pedals Orphaned Drive	0	
+DISC-1286		EC Pedals Overlord Sweet Overdrive	0	
+DISC-1287		EC Pedals Overlord Bass Overdrive	0	
+DISC-1288		EC Pedals Primestortion	0	
+DISC-1289		EC Pedals Rusty Cooley Overdrive	0	
+DISC-1290		EC Pedals Super Switcher	0	
+DISC-1291		EC Pedals SuperSwitcher II	0	
+DISC-1292		EC Pedals The Mystical Sustainer	0	
+DISC-1293		EC Pedals Time Traveler Delay	0	
+DISC-1294		EC Pedals Zombie Distortion	0	
+DISC-1250		Analog Man Astro Tone	0	
+DISC-1251		Analog Man Beano Boost	0	
+DISC-1252		Analog Man King Of Tone	0	
+DISC-1253		Analog Man Peppermint Fuzz	0	
+DISC-1254		Analog Man Prince Of Tone	0	
+DISC-1255		Analog Man Sun Face	0	
+DISC-1256		Analog Man Sun Lion	0	
+DISC-1257		Analog Man SunBender	0	
+DISC-1258		Barber Electronics 1/2 Gainer	0	
+DISC-1259		Barber Electronics Burn Unit	0	
+DISC-1260		Barber Electronics Burn Unit 2	0	
+DISC-1261		Barber Electronics Compact Burn Unit	0	
+DISC-1262		Barber Electronics Compact Direct Drive	0	
+DISC-1263		Barber Electronics Deep Fryer	0	
+DISC-1264		Barber Electronics Direct Drive	0	
+DISC-1265		Barber Electronics Direct Drive LG	0	
+DISC-1266		Barber Electronics Direct Drive SS	0	
+DISC-1267		Barber Electronics Dirty Bomb	0	
+DISC-1268		Barber Electronics Exacta	0	
+DISC-1269		Barber Electronics Gain-Changer	0	
+DISC-1270		Barber Electronics GCX Gain-Changer Expanded	0	
+DISC-1271		Barber Electronics L.T.D.	0	
+DISC-1272		Barber Electronics Silver L.T.D.	0	
+DISC-1273		Barber Electronics Small Fry Burn Unit	0	
+DISC-1274		Barber Electronics Tone Pump	0	
+DISC-1275		Barber Electronics Tone Pump EQ	0	
+DISC-1276		Barber Electronics Tone Pump II	0	
+DISC-1277		Barber Electronics Trifecta	0	
+DISC-1278		Barber Electronics unLimiTeD	0	
+DISC-1279		Barber Electronics unLTD - 2 Channel Overdrive	0	
+DISC-1280		BMF Effects Aries Fuzz	0	
+DISC-1281		BMF Effects El Jefe	0	
+DISC-1282		BMF Effects Fat Bastard	0	
+DISC-1283		BMF Effects GB Boost - Germanium Booster	0	
+DISC-1284		BMF Effects Ge Spot F2	0	
+DISC-1285		BMF Effects Ge Spot MkI	0	
+DISC-1286		BMF Effects Purple Nurple	0	
+DISC-1287		BMF Effects Rocket 88 - Fuzz	0	
+DISC-1288		BMF Effects Sisyphuzz - Silicon Fuzz	0	
+DISC-1289		BMF Effects The Great Wide Open	0	
+DISC-1290		Catalinbread Antichthon	0	
+DISC-1291		Catalinbread Antichthon Deluxe	0	
+DISC-1292		Catalinbread Blood Donor	0	
+DISC-1293		Catalinbread CB Distortion	0	
+DISC-1294		Catalinbread CB Fuzz	0	
+DISC-1295		Catalinbread CB Overdrive	0	
+DISC-1296		Catalinbread Carbide	0	
+DISC-1297		Catalinbread Clean Little Secret	0	
+DISC-1298		Catalinbread Dirty Little Secret	0	
+DISC-1299		Catalinbread Dirty Little Secret Deluxe	0	
+DISC-1300		Catalinbread Dreamcoat	0	
+DISC-1301		Catalinbread Formula 51	0	
+DISC-1302		Catalinbread Formula 5F6	0	
+DISC-1303		Catalinbread Formula No. 55	0	
+DISC-1304		Catalinbread Formula N°5	0	
+DISC-1305		Catalinbread Fuzzrite	0	
+DISC-1306		Catalinbread Fuzzrite Germanium	0	
+DISC-1307		Catalinbread Fuzzrite Mini	0	
+DISC-1308		Catalinbread Giygas	0	
+DISC-1309		Catalinbread Giygas 2K	0	
+DISC-1310		Catalinbread Karma Suture (Germanium)	0	
+DISC-1311		Catalinbread Karma Suture (Silicon)	0	
+DISC-1312		Catalinbread Katzenkönig	0	
+DISC-1313		Catalinbread Manx Loaghtan Fuzz	0	
+DISC-1314		Catalinbread Merkin	0	
+DISC-1315		Catalinbread Naga Viper	0	
+DISC-1316		Catalinbread Octapussy	0	
+DISC-1317		Catalinbread Ottava Magus	0	
+DISC-1318		Catalinbread Ottava Magus II	0	
+DISC-1319		Catalinbread Perseus	0	
+DISC-1320		Catalinbread Perseus DIO	0	
+DISC-1321		Catalinbread Sabbra Cadabra	0	
+DISC-1322		Catalinbread SFT	0	
+DISC-1323		Catalinbread SideArm	0	
+DISC-1324		Catalinbread Silver Kiss	0	
+DISC-1325		Catalinbread Skewer - Hornby-Skewes Treble Booster	0	
+DISC-1326		Devi Ever FX '90	0	
+DISC-1327		Devi Ever FX 33 Silver Crank	0	
+DISC-1328		Devi Ever FX Beautiful Disaster	0	
+DISC-1329		Devi Ever FX Bi-Fuzz	0	
+DISC-1330		Devi Ever FX BIT Legend Of Fuzz	0	
+DISC-1331		Devi Ever FX Bit Mangler	0	
+DISC-1332		Devi Ever FX Black Spider	0	
+DISC-1333		Devi Ever FX DB Dark Boost	0	
+DISC-1334		Devi Ever FX Devistortion	0	
+DISC-1335		Devi Ever FX DF Disaster Fuzz	0	
+DISC-1336		Devi Ever FX Disaster Fuzz	0	
+DISC-1337		Devi Ever FX DN Destructo Noctavia	0	
+DISC-1338		Devi Ever FX Dream Mangler	0	
+DISC-1339		Devi Ever FX EB Electric Brown	0	
+DISC-1340		Devi Ever FX Fuzz	0	
+DISC-1341		Devi Ever FX God Zilla	0	
+DISC-1342		Devi Ever FX GZ Goddess Zero	0	
+DISC-1343		Devi Ever FX Heaven's Gate	0	
+DISC-1344		Devi Ever FX Helios	0	
+DISC-1345		Devi Ever FX Hyperion	0	
+DISC-1346		Devi Ever FX Hyperion 2	0	
+DISC-1347		Devi Ever FX KF Krackle Fuzz	0	
+DISC-1348		Devi Ever FX Little Shit	0	
+DISC-1349		Devi Ever FX Love Fuzz	0	
+DISC-1350		Devi Ever FX Mega Bit	0	
+DISC-1351		Devi Ever FX Never Drive	0	
+DISC-1352		Devi Ever FX Punch Love	0	
+DISC-1353		Devi Ever FX Punch Hate	0	
+DISC-1354		Devi Ever FX Rocket	0	
+DISC-1355		Devi Ever FX Shoe Gazer	0	
+DISC-1356		Devi Ever FX Soda Meiser	0	
+DISC-1357		Devi Ever FX Stimulus Fuzz	0	
+DISC-1358		Devi Ever FX Stone Fuzz	0	
+DISC-1359		Devi Ever FX Torn's Peaker	0	
+DISC-1360		Devi Ever FX Vintage Fuzz Master	0	
+DISC-1361		Devi Ever FX War Horse	0	
+DISC-1362		Devi Ever FX Year of the Rat	0	
+DISC-1363		Devi Ever FX Zero Good	0	
+DISC-1364		Fuzzrocious 420 Fuzz	0	
+DISC-1365		Fuzzrocious Blast Furnace	0	
+DISC-1366		Fuzzrocious Broke Dick Peanut Gallery	0	
+DISC-1367		Fuzzrocious Cat King	0	
+DISC-1368		Fuzzrocious Cicada Fuzz	0	
+DISC-1369		Fuzzrocious Dark Driving	0	
+DISC-1370		Fuzzrocious Darkest Driving	0	
+DISC-1371		Fuzzrocious Demon King	0	
+DISC-1372		Fuzzrocious Feed Me	0	
+DISC-1373		Fuzzrocious Green Stache	0	
+DISC-1374		Fuzzrocious Grey Stache	0	
+DISC-1375		Fuzzrocious Grey Stache Plus	0	
+DISC-1376		Fuzzrocious Heliotropic	0	
+DISC-1377		Fuzzrocious Mail Order Muff	0	
+DISC-1378		Fuzzrocious Momster	0	
+DISC-1379		Fuzzrocious Octave Jawn	0	
+DISC-1380		Fuzzrocious Oh See Demon	0	
+DISC-1381		Fuzzrocious Playing Mantis	0	
+DISC-1382		Fuzzrocious Ram The Manparts	0	
+DISC-1383		Fuzzrocious Rat King	0	
+DISC-1384		Fuzzrocious Rat Tail	0	
+DISC-1385		Fuzzrocious The Octavus	0	
+DISC-1386		Fuzzrocious The Overdose	0	
+DISC-1387		Fuzzrocious TS El Oso	0	
+DISC-1388		Guyatone FZ-2000 Fuzz	0	
+DISC-1389		Guyatone TD-1 Tube Distortion	0	
+DISC-1390		Guyatone TO-2 Tube Overdrive	0	
+DISC-1391		Guyatone FS-1 Bazz Box	0	
+DISC-1392		Guyatone FS-1 Buzz Box	0	
+DISC-1393		Guyatone FS-2 Buzz Box	0	
+DISC-1394		Guyatone FS-3 Fuzz	0	
+DISC-1395		Guyatone TZm5 Torrid Fuzz	0	
+DISC-1396		Rockett Pedals Archer Select	0	
+DISC-1397		Rockett Pedals Blue Note Select	0	
+DISC-1398		Rockett Pedals Broverdrive	0	
+DISC-1399		Rockett Pedals HRM	0	
+DISC-1400		Rockett Pedals HRM Hot Rubber Monkey v2	0	
+DISC-1401		Rockett Pedals Melody	0	
+DISC-1402		Rockett Pedals El Hombre	0	
+DISC-1403		Rockett Pedals PXO	0	
+DISC-1404		Rockett Pedals Animal Overdrive	0	
+DISC-1405		Rockett Pedals 68 Stiff Arm Overdrive	0	
+DISC-1406		Rockett Pedals AC 63	0	
+DISC-1407		Rockett Pedals Flex Drive	0	
+DISC-1408		Rockett Pedals Chicken Soup Overdrive	0	
+DISC-1409		Rockett Pedals Blue Note Overdrive	0	
+DISC-1410		Rockett Pedals Lemon Aid	0	
+DISC-1411		Rockett Pedals Mini Touch Overdrive	0	
+DISC-1412		Keeley Electronics 1962	0	
+DISC-1413		Keeley Electronics 537 FET Distortion	0	
+DISC-1414		Keeley Electronics Aria	0	
+DISC-1415		Keeley Electronics Awful Waffle Slime Blaster	0	
+DISC-1416		Keeley Electronics Black Glass OC44	0	
+DISC-1417		Keeley Electronics Black Glass OC81D	0	
+DISC-1418		Keeley Electronics Black Silk	0	
+DISC-1419		Keeley Electronics Blacktop	0	
+DISC-1420		Keeley Electronics Bootlegger Overdrive	0	
+DISC-1421		Keeley Electronics D&M Drive	0	
+DISC-1422		Keeley Electronics DS-9 Distortion	0	
+DISC-1423		Keeley Electronics El Rey Dorado	0	
+DISC-1424		Keeley Electronics Electric Mudd	0	
+DISC-1425		Keeley Electronics Filaments	0	
+DISC-1426		Keeley Electronics Fuzz	0	
+DISC-1427		Keeley Electronics Fuzz Bender	0	
+DISC-1428		Keeley Electronics Fuzz Head	0	
+DISC-1429		Keeley Electronics Fuzzy Pizdets	0	
+DISC-1430		Keeley Electronics Germanium Super Phat Mod	0	
+DISC-1431		Keeley Electronics Holy Fuzz	0	
+DISC-1432		Keeley Electronics Java Boost	0	
+DISC-1433		Keeley Electronics Katana Blues Drive	0	
+DISC-1434		Keeley Electronics KO-ALS Distortion	0	
+DISC-1435		Keeley Electronics Loomer	0	
+DISC-1436		Keeley Electronics Luna Overdrive	0	
+DISC-1437		Keeley Electronics Luna Overdrive II	0	
+DISC-1438		Keeley Electronics Moon	0	
+DISC-1439		Keeley Electronics Muse Driver	0	
+DISC-1440		Keeley Electronics Noble Screamer	0	
+DISC-1441		Keeley Electronics Oxblood Overdrive	0	
+DISC-1442		Keeley Electronics Octa Psi	0	
+DISC-1443		Keeley Electronics Psi Fuzz	0	
+DISC-1444		Keeley Electronics Red Dirt Overdrive	0	
+DISC-1445		Keeley Electronics Red Dirt Overdrive Mini	0	
+DISC-1446		Keeley Electronics Rotten Apple Fuzz	0	
+DISC-1447		Keeley Electronics Sfocato	0	
+DISC-1448		Keeley Electronics Silver Bullet Fuzz	0	
+DISC-1449		Lovepedal 8823	0	
+DISC-1450		Lovepedal COT-50 Church Of Tone Plexi	0	
+DISC-1451		Lovepedal Dragon Fuzz	0	
+DISC-1452		Lovepedal Dual Purple Plexi	0	
+DISC-1453		Lovepedal Eternity Overdrive	0	
+DISC-1454		Lovepedal Fuzz50 Royale	0	
+DISC-1455		Lovepedal Joker - Boost	0	
+DISC-1456		Lovepedal JTM	0	
+DISC-1457		Lovepedal Jubilee Plus Boost	0	
+DISC-1458		Lovepedal Kalamazoo	0	
+DISC-1459		Lovepedal Karl Fuzz	0	
+DISC-1460		Lovepedal Les Lius	0	
+DISC-1461		Lovepedal Mk-Red - King Of Dirt	0	
+DISC-1462		Lovepedal Mk12 Bender	0	
+DISC-1463		Lovepedal Monkey Fist Fuzz	0	
+DISC-1464		Lovepedal OD Eleven	0	
+DISC-1465		Lovepedal Purple Plexi	0	
+DISC-1466		Lovepedal RedHead - High Gain	0	
+DISC-1467		Lovepedal Silicon Fuzzmaster	0	
+DISC-1468		Lovepedal Steel Stringer	0	
+DISC-1469		Lovepedal Super Sic Tone	0	
+DISC-1470		Lovepedal Super Six	0	
+DISC-1471		Lovepedal SuperLead	0	
+DISC-1472		Lovepedal Tchula	0	
+DISC-1473		Lovepedal Valve Reamer	0	
+DISC-1474		Lovepedal Woodrow	0	
+DISC-1475		Malekko Heavy Industry Diabolik	0	
+DISC-1476		Malekko Heavy Industry Downer	0	
+DISC-1477		Malekko Heavy Industry 213 Plus Ultra	0	
+DISC-1478		Menatone Blue Collar	0	
+DISC-1479		Menatone Blue Overdrive	0	
+DISC-1480		Menatone Chawbox	0	
+DISC-1481		Menatone Dirty Blonde	0	
+DISC-1482		Menatone Dumbstruck	0	
+DISC-1483		Menatone Fargen Amps VOS	0	
+DISC-1484		Menatone Hindenburg	0	
+DISC-1485		Menatone Howie	0	
+DISC-1486		Menatone Kar Krash	0	
+DISC-1487		Menatone King of the Britains	0	
+DISC-1488		Menatone MenaWatt	0	
+DISC-1489		Menatone Ms. Foxy Brown	0	
+DISC-1490		Menatone None More Black	0	
+DISC-1491		Menatone PiG	0	
+DISC-1492		Menatone PoPo Fuzz	0	
+DISC-1493		Menatone Red Overdrive	0	
+DISC-1494		Menatone Red Snapper	0	
+DISC-1495		Menatone Shut Up & Drive	0	
+DISC-1496		Menatone The Bark 'n The Bite	0	
+DISC-1497		Menatone The Dirty B	0	
+DISC-1498		Menatone The Great White Buffalo	0	
+DISC-1499		Menatone The King	0	
+DISC-1500		Menatone The Law - Fuzz	0	
+DISC-1501		Menatone The Law Bender	0	
+DISC-1502		Menatone The Thundering Revival	0	
+DISC-1503		Menatone Top Boost In A Can	0	
+DISC-1504		Menatone Workingman's Blue	0	
+DISC-1505		Menatone Wreck'T	0	
+DISC-1506		MI Audio Blue Boy	0	
+DISC-1507		MI Audio Blue Boy Deluxe	0	
+DISC-1508		MI Audio Blues Pro Overdrive	0	
+DISC-1509		MI Audio Boost 'n' Buff	0	
+DISC-1510		MI Audio Classic Distortion	0	
+DISC-1511		MI Audio Crunch Box	0	
+DISC-1512		MI Audio G.I. Fuzz	0	
+DISC-1513		MI Audio Neo Fuzz	0	
+DISC-1514		MI Audio Pollyanna Octave	0	
+DISC-1515		MI Audio Tube Zone Overdrive	0	
+DISC-1516		MI Audio Super Blues Pro	0	
+DISC-1517		MI Audio Super Crunch Box	0	
+DISC-1518		MI Audio Megalith Delta	0	
+DISC-1519		Moody Sounds Moody Fuzz	0	
+DISC-1520		Moody Sounds Hjärt Müller Bass Drive	0	
+DISC-1521		Moody Sounds Zeygot Fuzz	0	
+DISC-1522		Smallsound/Bigsound Buzzz	0	
+DISC-1523		Smallsound/Bigsound Fuck Overdrive	0	
+DISC-1524		Smallsound/Bigsound Hawk	0	
+DISC-1525		Smallsound/Bigsound Mini Fuck Overdrive	0	
+DISC-1526		Smallsound/Bigsound Pretty Years	0	
+DISC-1527		Smallsound/Bigsound Sparkle Motion	0	
+DISC-1528		Smallsound/Bigsound Team_Awesome Fuzzmachine	0	
+DISC-1529		Smallsound/Bigsound Year 2525	0	
+DISC-1530		Smallsound/Bigsound Year 4545	0	
+DISC-1531		Systech Overdrive	0	
+DISC-1532		Systech Overdrive A	0	
+DISC-1533		Systech Harmonic Energizer	0	
+DISC-1534		T-Pedals BassTard Fuzz	0	
+DISC-1535		T-Pedals Buggy Fuzz	0	
+DISC-1536		T-Pedals Daytona Fuzz	0	
+DISC-1537		T-Pedals Hi-Fuzz	0	
+DISC-1538		T-Pedals Metak Boost	0	
+DISC-1539		T-Pedals Metak Fuzztron	0	
+DISC-1540		T-Pedals Nuke Booster	0	
+DISC-1541		T-Pedals Overboost	0	
+DISC-1542		T-Pedals Super Hoffman	0	
+DISC-1543		T-Pedals T-Fuzz	0	
+DISC-1544		T-Pedals Watt-Drive	0	
+DISC-1545		Wampler Pedals Phenom	0	
+DISC-1546		Wampler Pedals Triumph	0	
+DISC-1547		Wampler Pedals Belle Overdrive	0	
+DISC-1548		Wampler Pedals Black '65 Overdrive	0	
+DISC-1549		Wampler Pedals Hot Wired	0	
+DISC-1550		Wampler Pedals cataPulp	0	
+DISC-1551		Wampler Pedals Clarksdale	0	
+DISC-1552		Wampler Pedals Cranked AC	0	
+DISC-1553		Wampler Pedals Cranked OD	0	
+DISC-1554		Wampler Pedals Cryptid Fuzz	0	
+DISC-1555		Wampler Pedals Dracarys	0	
+DISC-1556		Wampler Pedals Ecstasy Overdrive	0	
+DISC-1557		Wampler Pedals Euphoria Overdrive	0	
+DISC-1558		Wampler Pedals Fearbox	0	
+DISC-1559		Wampler Pedals Fuzztration	0	
+DISC-1560		Wampler Pedals Gearbox	0	
+DISC-1561		Wampler Pedals Golden Jubilee	0	
+DISC-1562		Wampler Pedals Mad Dog	0	
+DISC-1563		Wampler Pedals Leviathan Fuzz	0	
+DISC-1564		Wampler Pedals Mofetta	0	
+DISC-1565		Wampler Pedals Moxie Overdrive	0	
+DISC-1566		Wampler Pedals Paisley Drive	0	
+DISC-1567		Wampler Pedals Paisley Drive Deluxe	0	
+DISC-1568		Wampler Pedals Pantheon Deluxe	0	
+DISC-1569		Wampler Pedals Pantheon	0	
+DISC-1570		Wampler Pedals Pinnacle	0	
+DISC-1571		Wampler Pedals Pinnacle Deluxe	0	
+DISC-1572		Wampler Pedals Plexi Drive Mini	0	
+DISC-1573		Wampler Pedals Plexi-Drive	0	
+DISC-1574		Wampler Pedals Plexi-Drive Deluxe	0	
+DISC-1575		Wampler Pedals PlexTortion	0	
+DISC-1576		Wampler Pedals Ratsbane	0	
+DISC-1577		Wampler Pedals SLOstortion	0	
+DISC-1578		Wampler Pedals Sovereign Distortion	0	
+DISC-1579		Wampler Pedals Super Plextortion	0	
+DISC-1580		Wampler Pedals TCD	0	
+DISC-1581		Wampler Pedals Tumnus	0	
+DISC-1582		Wampler Pedals Tumnus Deluxe	0	
+DISC-1583		Wampler Pedals Tumnus Germanium	0	
+DISC-1584		Wampler Pedals Tumnus Germanium Deluxe	0	
+DISC-1585		Wampler Pedals Tweed '57	0	
+DISC-1586		Wampler Pedals Underdog	0	
+DISC-1587		Wampler Pedals Velvet Fuzz	0	
+DISC-1588		Z. Vex '59 Sound	0	
+DISC-1589		Z. Vex Box Of Metal	0	
+DISC-1590		Z. Vex Box Of Rock	0	
+DISC-1591		Z. Vex Double Rock!	0	
+DISC-1592		Z. Vex Fat Fuzz Factory	0	
+DISC-1593		Z. Vex Fat Fuzz Probe	0	
+DISC-1594		Z. Vex Fuzz Factory	0	
+DISC-1595		Z. Vex Fuzz Factory 7	0	
+DISC-1596		Z. Vex Fuzz Probe	0	
+DISC-1597		Z. Vex Fuzzolo	0	
+DISC-1598		Z. Vex Jonny Octave	0	
+DISC-1599		Z. Vex Jonny Overload	0	
+DISC-1600		Z. Vex Machine	0	
+DISC-1601		Z. Vex Mastotron	0	
+DISC-1602		Z. Vex Octane	0	
+DISC-1603		Z. Vex Octane 2	0	
+DISC-1604		Z. Vex Octane 3	0	
+DISC-1605		Z. Vex Super Hard-On	0	
+DISC-1606		Z. Vex Super-Duper 2-in-1	0	
+DISC-1607		Z. Vex Vextron Distortron	0	
+DISC-1608		Z. Vex Vextron Mastotron	0	
+DISC-1609		Z. Vex Woolly Mammoth	0	
+DISC-1610		Z. Vex Woolly Mammoth 7	0	
+DISC-1611		Z. Vex Vexter Box Of Metal	0	
+DISC-1612		Z. Vex Vexter Fuzz Factory	1	Wikimedia Commons
+DISC-1613		Z. Vex Vexter Woolly Mammoth	0	
+DISC-1614		Boss x JHS Pedals JB-2 Angry Driver	0	
+DISC-1615		Electro-Harmonix x JHS Pedals Big Muff Pi 2 - Dual Op-Amp Fuzz	0	
+DISC-1616		Electro-Harmonix x JHS Pedals Lizard Queen - Octave Fuzz	0	
+DISC-1617		Jet City Amplification Boost Overdrive	0	
+DISC-1618		JHS Pedals + PaxAM + Ryan Adams VCR - High Grade Volume/Chorus/Reverb	0	
+DISC-1619		JHS Pedals + The Beach Boys Good Vibrations - Chorus/Vibrato	0	
+DISC-1620		JHS Pedals + The Beach Boys Punchline - Bass Station	0	
+DISC-1621		JHS Pedals / Keeley Steak & Eggs	0	
+DISC-1622		JHS Pedals 4 Wheeler - Bass Fuzz	0	
+DISC-1623		JHS Pedals 424 Gain Stage - LoFi Fuzz	0	
+DISC-1624		JHS Pedals 73 Rams Head Replica	0	
+DISC-1625		JHS Pedals 808	0	
+DISC-1626		JHS Pedals A/B / Tuner Mute Box	0	
+DISC-1627		JHS Pedals A/B Selector Box (A or B)	0	
+DISC-1628		JHS Pedals A/B/Y Box	0	
+DISC-1629		JHS Pedals Active A/B/Y	0	
+DISC-1630		JHS Pedals All American Distortion	0	
+DISC-1631		JHS Pedals Alpine Reverb	0	
+DISC-1632		JHS Pedals Angry Charlie Channel Drive	0	
+DISC-1633		JHS Pedals Artificial Blonde - Madison Cunningham signature Vibrato	0	
+DISC-1634		JHS Pedals Astro Mess Fuzz	0	
+DISC-1635		JHS Pedals Banana Boost	0	
+DISC-1636		JHS Pedals Bass Bomb Boost	0	
+DISC-1637		JHS Pedals Bonsai - 9-Way Screamer	0	
+DISC-1638		JHS Pedals Boss RC-2 Remote Switch	0	
+DISC-1639		JHS Pedals Buffered Splitter	0	
+DISC-1640		JHS Pedals Bun Runner - Dual Fuzz Utility	0	
+DISC-1641		JHS Pedals Calhoun - Mike Campbell Limited Edition Signature 2-in-1 Pedal	0	
+DISC-1642		JHS Pedals Charlie Brown Channel Drive	0	
+DISC-1643		JHS Pedals Cheese Ball	0	
+DISC-1644		JHS Pedals Colour Box	0	
+DISC-1645		JHS Pedals Coyote - Octave Fuzz	0	
+DISC-1646		JHS Pedals Double Barrel - Dual Overdrive	0	
+DISC-1647		JHS Pedals Double Dragon - Dual Octaver	0	
+DISC-1648		JHS Pedals Feedback Looper	0	
+DISC-1649		JHS Pedals Firefly Fuzz	0	
+DISC-1650		JHS Pedals Flight Delay - Reverse/Analog/Digital Delay	0	
+DISC-1651		JHS Pedals Fumble - Dumble Preamp	0	
+DISC-1652		JHS Pedals Haunting Mids	0	
+DISC-1653		JHS Pedals Honey Comb - Tremolo	0	
+DISC-1654		JHS Pedals Honey Comb Deluxe - Dual Tremolo	0	
+DISC-1655		JHS Pedals Klon Clone	0	
+DISC-1656		JHS Pedals Kodiak - Tap Tempo Tremolo	0	
+DISC-1657		JHS Pedals Lime Aid - Bass Compressor/Enhancer	0	
+DISC-1658		JHS Pedals Little Black Amp Box	0	
+DISC-1659		JHS Pedals Little Black Buffer	0	
+DISC-1660		JHS Pedals Low Drive - Bass Overdrive	0	
+DISC-1661		JHS Pedals Lucky Cat - Tap Tempo Delay	0	
+DISC-1662		JHS Pedals Mini A/B Box	0	
+DISC-1663		JHS Pedals Mini Bomb - Clean Boost	0	
+DISC-1664		JHS Pedals Mini Foot Fuzz	0	
+DISC-1665		JHS Pedals Mini Tap Tempo	0	
+DISC-1666		JHS Pedals Mini True Bypass Looper / A.B. Box	0	
+DISC-1667		JHS Pedals Moonshine Overdrive	0	
+DISC-1668		JHS Pedals Morning Glory - Transparent Overdrive	0	
+DISC-1669		JHS Pedals Morning Glory Clean - Transparent Overdrive	0	
+DISC-1670		JHS Pedals Mr. Magic - Booster / Buffer / Enhancer	0	
+DISC-1671		JHS Pedals Muffuletta	0	
+DISC-1672		JHS Pedals Mute Switch	0	
+DISC-1673		JHS Pedals NOTADÜMBLË	0	
+DISC-1674		JHS Pedals NOTADÜMBLË v2	0	
+DISC-1675		JHS Pedals NOTAKLÖN	0	
+DISC-1676		JHS Pedals Overdrive Preamp	0	
+DISC-1677		JHS Pedals PackRat - 9-Mode Rat Distortion	0	
+DISC-1678		JHS Pedals Panda-Monium - Bass Preamp/Overdrive/Fuzz	0	
+DISC-1679		JHS Pedals Panther - Analog Tap Tempo Delay	0	
+DISC-1680		JHS Pedals Panther Cub - Analog Tap Tempo Delay	0	
+DISC-1681		JHS Pedals PG-14 Paul Gilbert signature Distortion	0	
+DISC-1682		JHS Pedals Pink Panther - Tap Tempo Delay	0	
+DISC-1683		JHS Pedals Pollinator Fuzz Box	0	
+DISC-1684		JHS Pedals Pulp 'n Peel	0	
+DISC-1685		JHS Pedals Ruby Red - Butch Walker Signature 2-in-1 Overdrive/Fuzz/Boost	0	
+DISC-1686		JHS Pedals Space Commander - Boost / Chorus / Reverb	0	
+DISC-1687		JHS Pedals Spring Tank - Reverb	0	
+DISC-1688		JHS Pedals State Line	0	
+DISC-1689		JHS Pedals Stutter Switch	0	
+DISC-1690		JHS Pedals Summing Amp	0	
+DISC-1691		JHS Pedals Super Wah - Bass Wah	0	
+DISC-1692		JHS Pedals SuperBolt	0	
+DISC-1693		JHS Pedals Sweet Tea	0	
+DISC-1694		JHS Pedals Switchback	0	
+DISC-1695		JHS Pedals The AT - Andy Timmons Signature Overdrive	0	
+DISC-1696		JHS Pedals The AT+ - Andy Timmons signature Overdrive Plus	0	
+DISC-1697		JHS Pedals The Clover - Preamp	0	
+DISC-1698		JHS Pedals The Crayon	0	
+DISC-1699		JHS Pedals The Emperor - Chorus/Vibrato	0	
+DISC-1700		JHS Pedals The Hard Drive - Modern Distortion	0	
+DISC-1701		JHS Pedals The Kilt - StuG signature Overdrive	0	
+DISC-1702		JHS Pedals The Milkman - Boost/Echo	0	
+DISC-1703		JHS Pedals The Prestige	0	
+DISC-1704		JHS Pedals The Violet Distortion - Lari Basilio Signature Distortion/Overdrive	0	
+DISC-1705		JHS Pedals Tidewater - Tremolo	0	
+DISC-1706		JHS Pedals Twin Twelve Channel Drive	0	
+DISC-1707		JHS Pedals Unicorn - Tap Tempo Uni-Vibe	0	
+DISC-1708		JHS Pedals Volture - Voltage Sag Utility	0	
+DISC-1709		JHS Pedals Warble-Tron	0	
+DISC-1710		JHS Pedals Whitey Tighty - Compressor	0	
+DISC-1711		Third Man Hardware x JHS Pedals Troika - Analog Delay & Microphone Preamp	0	
+DISC-1712		Walrus Audio (Monarch series) Highpoint - Analog Optical Compressor	0	
+DISC-1713		Walrus Audio (Monarch series) Mantle - Analog Bass Preamp + D.I.	0	
+DISC-1714		Walrus Audio (Monarch series) Meraki - Stereo Analog Delay	0	
+DISC-1715		Walrus Audio 385 Overdrive	0	
+DISC-1716		Walrus Audio 385 Overdrive MKII	0	
+DISC-1717		Walrus Audio Aetos - Clean Power Supply	0	
+DISC-1718		Walrus Audio Ages - Five-State Overdrive	0	
+DISC-1719		Walrus Audio ARP-87 - Multi-Delay	0	
+DISC-1720		Walrus Audio Badwater - Bass Pre-amp and D.I.	0	
+DISC-1721		Walrus Audio Bellwether - Analog Delay	0	
+DISC-1722		Walrus Audio Contraband - Fuzz	0	
+DISC-1723		Walrus Audio Deep Six - Compressor	0	
+DISC-1724		Walrus Audio DEFCON4 - Ryan Adams Preamp / EQ / Boost	0	
+DISC-1725		Walrus Audio Descent - Reverb	0	
+DISC-1726		Walrus Audio DFX-1 Percussion Processing Unit	0	
+DISC-1727		Walrus Audio EB-10 Preamp / EQ / Boost Utility	0	
+DISC-1728		Walrus Audio Emissary - Parallel Boost	0	
+DISC-1729		Walrus Audio Eons - Five-State Fuzz	0	
+DISC-1730		Walrus Audio Eras - Five-State Distortion	0	
+DISC-1731		Walrus Audio Fable - Granular Soundscape Generator	0	
+DISC-1732		Walrus Audio Fathom - Multi-Function Reverb	0	
+DISC-1733		Walrus Audio Forte - Volume	0	
+DISC-1734		Walrus Audio Gibbous - Buffered Blend	0	
+DISC-1735		Walrus Audio Harvester - High Gain Overdrive	0	
+DISC-1736		Walrus Audio Iron Horse - Distortion	0	
+DISC-1737		Walrus Audio Iron Horse v2 - LM308 Distortion	0	
+DISC-1738		Walrus Audio Iron Horse v3 - LM308 Distortion	0	
+DISC-1739		Walrus Audio Janus - Fuzz & Tremolo	0	
+DISC-1740		Walrus Audio Jarvis - Strymon/Eventide Remote	0	
+DISC-1741		Walrus Audio Julia - Chorus	0	
+DISC-1742		Walrus Audio Julia v2 - Analog Chorus/Vibrato	0	
+DISC-1743		Walrus Audio Julianna - Deluxe Chorus/Vibrato	0	
+DISC-1744		Walrus Audio Jupiter - Multi-Clip Fuzz	0	
+DISC-1745		Walrus Audio Jupiter v2 - Fuzz	0	
+DISC-1746		Walrus Audio Kangra - Filter Fuzz	0	
+DISC-1747		Walrus Audio Lillian - Multi-Stage Analog Phaser	0	
+DISC-1748		Walrus Audio Lore - Reverse Soundscape Generator	0	
+DISC-1749		Walrus Audio Lüm - Texture Engine	0	
+DISC-1750		Walrus Audio Luminary - Quad Octave Generator	0	
+DISC-1751		Walrus Audio Mayflower - Mid-Range Overdrive	0	
+DISC-1752		Walrus Audio Melee - Wall of Noise	0	
+DISC-1753		Walrus Audio Messner Overdrive	0	
+DISC-1754		Walrus Audio Messner X - Overdrive	0	
+DISC-1755		Walrus Audio Mira - Optical Compressor	0	
+DISC-1756		Walrus Audio Monument - Tap Tempo Harmonic Tremolo	0	
+DISC-1757		Walrus Audio Monumental - Harmonic Stereo Tremolo	0	
+DISC-1758		Walrus Audio Ox - Tap Tempo Switch	0	
+DISC-1759		Walrus Audio Phoenix - Clean Power Supply	0	
+DISC-1760		Walrus Audio Plainsman - Dual Stage Clean Boost	0	
+DISC-1761		Walrus Audio Polychrome - Analog Flanger	0	
+DISC-1762		Walrus Audio Presidio - Buffer	0	
+DISC-1763		Walrus Audio Projector - Overdrive	0	
+DISC-1764		Walrus Audio Qi Etherealizer	0	
+DISC-1765		Walrus Audio RED - High-Gain Distortion	0	
+DISC-1766		Walrus Audio Scout - Patchbay	0	
+DISC-1767		Walrus Audio Silt - Harmonic Fuzz	0	
+DISC-1768		Walrus Audio Slö - Multi Texture Reverb	0	
+DISC-1769		Walrus Audio Slöer - Stereo Ambient Reverb	0	
+DISC-1770		Walrus Audio Slötvå - Multi Texture Reverb	0	
+DISC-1771		Walrus Audio Space Pilgrim	0	
+DISC-1772		Walrus Audio Transit - True Bypass Looper	0	
+DISC-1773		Walrus Audio Transit 1 - True Bypass Looper	0	
+DISC-1774		Walrus Audio Tusk - ABY Switch	0	
+DISC-1775		Walrus Audio Vanguard - Dual Phase	0	
+DISC-1776		Walrus Audio Voyager - Overdrive	0	
+DISC-1777		Walrus Audio Voyager Mk II - Overdrive	0	
+DISC-1778		Walrus Audio Warhorn - Mid-Range Overdrive	0	
+DISC-1779		Walrus Audio Wayfarer - Expression Pedal	0	
+DISC-1780		Walrus Audio Xero - Polylooper	0	
+DISC-1781		Old Blood Noise Endeavors Alpha Haunt	0	
+DISC-1782		Old Blood Noise Endeavors Bathing - Liminal Delay	0	
+DISC-1783		Old Blood Noise Endeavors Beam Splitter - Automatic Triple Tracker Distortion	0	
+DISC-1784		Old Blood Noise Endeavors BL-13 Octave	0	
+DISC-1785		Old Blood Noise Endeavors BL-37 Reverb	0	
+DISC-1786		Old Blood Noise Endeavors BL-44 Reverse - Variable-Clock Reverser	0	
+DISC-1787		Old Blood Noise Endeavors BL-52 Phase Repeater	0	
+DISC-1788		Old Blood Noise Endeavors BL-82 Chorus	0	
+DISC-1789		Old Blood Noise Endeavors Black Fountain - Oil Can Delay	0	
+DISC-1790		Old Blood Noise Endeavors Black Fountain Stereo	0	
+DISC-1791		Old Blood Noise Endeavors Black Fountain v2 - Oil Can Delay	0	
+DISC-1792		Old Blood Noise Endeavors Black Fountain v3 - Oil Can Delay + Tap Tempo	0	
+DISC-1793		Old Blood Noise Endeavors Blackcap - Harmonic Tremolo	0	
+DISC-1794		Old Blood Noise Endeavors Dark Light - Dual Reverb	0	
+DISC-1795		Old Blood Noise Endeavors Dark Star - Pad Reverb	0	
+DISC-1796		Old Blood Noise Endeavors Dark Star v3 - Stereo Reverb	0	
+DISC-1797		Old Blood Noise Endeavors Dweller - Phase Repeater	0	
+DISC-1798		Old Blood Noise Endeavors Excess - Distortion Chorus/Delay	0	
+DISC-1799		Old Blood Noise Endeavors Excess v2 - Distorting Modulator	0	
+DISC-1800		Old Blood Noise Endeavors Expression Ramper	0	
+DISC-1801		Old Blood Noise Endeavors Expression Ramper X3	0	
+DISC-1802		Old Blood Noise Endeavors Expression Slider	0	
+DISC-1803		Old Blood Noise Endeavors Fault - Overdrive / Distortion	0	
+DISC-1804		Old Blood Noise Endeavors Fault v2 - Overdrive / Distortion	0	
+DISC-1805		Old Blood Noise Endeavors Flat Light - Textural Flange Shifter	0	
+DISC-1806		Old Blood Noise Endeavors Float - Dual Filter	0	
+DISC-1807		Old Blood Noise Endeavors Haunt - Fuzz	0	
+DISC-1808		Old Blood Noise Endeavors MAW XLR	0	
+DISC-1809		Old Blood Noise Endeavors Minim - Immediate Ambient Machine	0	
+DISC-1810		Old Blood Noise Endeavors Mondegreen	0	
+DISC-1811		Old Blood Noise Endeavors MTET MIDI to Expression Translator	0	
+DISC-1812		Old Blood Noise Endeavors Pardner Fuzz	0	
+DISC-1813		Old Blood Noise Endeavors Procession - Reverb	0	
+DISC-1814		Old Blood Noise Endeavors Reflector	0	
+DISC-1815		Old Blood Noise Endeavors Setback - Reverse Delay	0	
+DISC-1816		Old Blood Noise Endeavors Signal Blender	0	
+DISC-1817		Old Blood Noise Endeavors Split & Meld Utility Device	0	
+DISC-1818		Old Blood Noise Endeavors Sunlight - Dynamic Freeze Reverb	0	
+DISC-1819		Old Blood Noise Endeavors Sunlight Stereo - Stereo Modulated Reverb	0	
+DISC-1820		Old Blood Noise Endeavors Utility 1: Headphone Amp	0	
+DISC-1821		Old Blood Noise Endeavors Utility 2: AB/Y Switcher	0	
+DISC-1822		Old Blood Noise Endeavors Utility 3: EQ + Buffer	0	
+DISC-1823		Old Blood Noise Endeavors Visitor - Parallel Multi-Modulator	0	
+DISC-1824		Old Blood Noise Endeavors Whitecap - Tap Tempo Tremolo	0	
+DISC-1825		Old Blood Noise Endeavors x 29 Pedals Signal Blender Stereo	0	
+DISC-1826		Old Blood Noise Endeavors x Black Bobbin Boost - Dual Clean Boost	0	
+DISC-1827		Old Blood Noise Endeavors x Chvrches Screen Violence - Stereo Saturated Modulated Reverb	0	
+DISC-1828		Old Blood Noise Endeavors x Datachoir Rêver - Reverse Reverb + Delay	0	
+DISC-1829		Old Blood Noise Endeavors x Emily Hopkins Parting - Glitch Device	0	
+DISC-1830		Fairfield Circuitry 20% More - Slew Limiting Distortion	0	
+DISC-1831		Fairfield Circuitry Barbershop	0	
+DISC-1832		Fairfield Circuitry Four Eyes Fuzz	0	
+DISC-1833		Fairfield Circuitry Hors d'Oeuvre? - Active Feedback Loop	0	
+DISC-1834		Fairfield Circuitry Long Life	0	
+DISC-1835		Fairfield Circuitry Meet Maude - Analog Delay	0	
+DISC-1836		Fairfield Circuitry Modèle B	0	
+DISC-1837		Fairfield Circuitry Operator!?	0	
+DISC-1838		Fairfield Circuitry Placeholder - Bucket Brigade Reverb Placeholder	0	
+DISC-1839		Fairfield Circuitry Randy's Revenge	0	
+DISC-1840		Fairfield Circuitry Roger That - FM Modulator/Demodulator	0	
+DISC-1841		Fairfield Circuitry Shallow Water - K-Field Modulator	0	
+DISC-1842		Fairfield Circuitry The Accountant Compressor	0	
+DISC-1843		Fairfield Circuitry The Unpleasant Surprise	0	
+DISC-1844		Fairfield Circuitry ~900 - Four Knob Fuzz	0	
+DISC-1845		Thorpy FX Camoflange - Flanger	0	
+DISC-1846		Thorpy FX EAO Christmas 2024	0	
+DISC-1847		Thorpy FX EAO Pink	0	
+DISC-1848		Thorpy FX ER-2 Uni-Vibe	0	
+DISC-1849		Thorpy FX Fallout Cloud - Fuzz	0	
+DISC-1850		Thorpy FX FLIR - Buffer / Line Driver	0	
+DISC-1851		Thorpy FX Gunshot - Overdrive	0	
+DISC-1852		Thorpy FX Hanami - Germanium Fuzz	0	
+DISC-1853		Thorpy FX Have Blue - Germanium Boost	0	
+DISC-1854		Thorpy FX Heavy Water - Dual High-Headroom Boost	0	
+DISC-1855		Thorpy FX KUDU - Overdrive	0	
+DISC-1856		Thorpy FX Muffroom Cloud - Fuzz	0	
+DISC-1857		Thorpy FX Peacekeeper - Low Gain Overdrive	0	
+DISC-1858		Thorpy FX Peace²keeper GE Low-Gain Edition	0	
+DISC-1859		Thorpy Fx Project Aerogel - Limited Edition Classic Overdrive	0	
+DISC-1860		Thorpy FX Pulse Doppler - Analog Phaser/Vibrato/Trem	0	
+DISC-1861		Thorpy FX Pumpkin Cloud - Fuzz	0	
+DISC-1862		Thorpy FX Scarlet Tunic - Analog Amp Emulator	0	
+DISC-1863		Thorpy FX Secret Project 5 / Project (Redacted)	0	
+DISC-1864		Thorpy FX Six Zero - Vintage Fuzz Trem	0	
+DISC-1865		Thorpy FX SuperScuzz - Christmas 2025 Limited Edition Project	0	
+DISC-1866		Thorpy FX Tacit Blue - Germanium Fuzz	0	
+DISC-1867		Thorpy FX Team Medic - Buffer, EQ, Boost and Boost +	0	
+DISC-1868		Thorpy FX The Boneyard - Germanium Fuzz	0	
+DISC-1869		Thorpy FX The Bunker - Drive	0	
+DISC-1870		Thorpy FX The Chain Home - Tremolo	0	
+DISC-1871		Thorpy FX The Dane - Pete Honoré Signature Dual Drive & Boost	0	
+DISC-1872		Thorpy FX The Dane MkII - Pete Honoré Signature Dual Drive & Boost	0	
+DISC-1873		Thorpy FX The Deep Oggin - Chorus/Vibrato	0	
+DISC-1874		Thorpy FX The Electric Lightning - Chris Buck signature Valve Overdrive	0	
+DISC-1875		Thorpy FX The Fat General - Parallel Compressor	0	
+DISC-1876		Thorpy FX The Field Marshal - Big Cheese Fuzz MkII	0	
+DISC-1877		Thorpy FX The Fuzz Remains - DIY Fuzz Kit	0	
+DISC-1878		Thorpy FX The Old Timer - 3-in-1 Octafuzz / Fuzz & Uni-Vibe	0	
+DISC-1879		Thorpy FX The Veteran - Fuzz + Boost	0	
+DISC-1880		Thorpy FX The Veteran Si - Fuzz + Boost	0	
+DISC-1881		Thorpy FX The WOPR	0	
+DISC-1882		Thorpy FX Warthog - Distortion	0	
+DISC-1883		Thorpy FX x Lazy J The J - Analog Amp Emulator	0	
+DISC-1884		Thorpy FX x Origin Effects (Thorogin Effects) FolkedUp - Acoustic Fuzz & Capo	0	
+DISC-1885		Mr. Black Ambience - Echoverb	0	
+DISC-1886		Mr. Black Analog Chorus/Vibrato	0	
+DISC-1887		Mr. Black Analog Chorus/Vibrato Deluxe	0	
+DISC-1888		Mr. Black Barbeque - Fuzz	0	
+DISC-1889		Mr. Black BB-74x	0	
+DISC-1890		Mr. Black Beerwiser - King of Vibratos	0	
+DISC-1891		Mr. Black Big Payback Compressor	0	
+DISC-1892		Mr. Black Black Fuzz	0	
+DISC-1893		Mr. Black Black Ltd. Ambience - Modulated Multi-Tap Echo with Reverb	0	
+DISC-1894		Mr. Black Black Ltd. Bass OD	0	
+DISC-1895		Mr. Black Black Ltd. Classic 88	0	
+DISC-1896		Mr. Black Black Ltd. Darling Fuzz	0	
+DISC-1897		Mr. Black Black Ltd. Digi-Delay	0	
+DISC-1898		Mr. Black Black Ltd. Distortion	0	
+DISC-1899		Mr. Black Black Ltd. Double Tracker	0	
+DISC-1900		Mr. Black Black Ltd. DoubleTracker Stereo	0	
+DISC-1901		Mr. Black Black Ltd. Echo Repeater	0	
+DISC-1902		Mr. Black Black LTD. Necropolis - Ethereal Reverberator	0	
+DISC-1903		Mr. Black Black Ltd. Octave II	0	
+DISC-1904		Mr. Black Black Ltd. Overdriver	0	
+DISC-1905		Mr. Black Black Ltd. Phaser Vibe	0	
+DISC-1906		Mr. Black Black LTD. Plates	0	
+DISC-1907		Mr. Black Black Ltd. Power Drive	0	
+DISC-1908		Mr. Black Black Ltd. Treble Booster	0	
+DISC-1909		Mr. Black Black Ltd. Vintage Chorus	0	
+DISC-1910		Mr. Black Black Ltd. Voltage Comp.	0	
+DISC-1911		Mr. Black BloodMoon	0	
+DISC-1912		Mr. Black BloodMoon Blood & Chrome	0	
+DISC-1913		Mr. Black Boost Drive One-Hundred	0	
+DISC-1914		Mr. Black Boost Tiger	0	
+DISC-1915		Mr. Black Dark Echo	0	
+DISC-1916		Mr. Black Dark Echo Special	0	
+DISC-1917		Mr. Black Deluxe DeluxePlus	0	
+DISC-1918		Mr. Black DeluxePlus	0	
+DISC-1919		Mr. Black DeluxePlus Plus	0	
+DISC-1920		Mr. Black Deuce Coupe	0	
+DISC-1921		Mr. Black Doomstick Fuzz	0	
+DISC-1922		Mr. Black Doomstick II Fuzz	0	
+DISC-1923		Mr. Black Double Chorus	0	
+DISC-1924		Mr. Black DoubleTracker Stereo	0	
+DISC-1925		Mr. Black Downward Spiral - Modulated Delay with Pitch Shift Down	0	
+DISC-1926		Mr. Black DR-54 Custom	0	
+DISC-1927		Mr. Black Drunken Monkey - Envelope Vibrato	0	
+DISC-1928		Mr. Black Electronic Instrument Pre-Amp	0	
+DISC-1929		Mr. Black Eterna	0	
+DISC-1930		Mr. Black FwonkBeta - Purple Funk Generator	0	
+DISC-1931		Mr. Black GilaMondo - 8-Stage Phase Shift	0	
+DISC-1932		Mr. Black Gold Drive "One Hundred"	0	
+DISC-1933		Mr. Black Goodfella	0	
+DISC-1934		Mr. Black Heaven's Gate	0	
+DISC-1935		Mr. Black High-Five - Instant Power Chord Generator	0	
+DISC-1936		Mr. Black Jalapeño - Overdrive	0	
+DISC-1937		Mr. Black JD-255x	0	
+DISC-1938		Mr. Black JD-800 Lead	0	
+DISC-1939		Mr. Black JDD-3000 Digital Delay	0	
+DISC-1940		Mr. Black JDD-3000+ - Digital Delay+	0	
+DISC-1941		Mr. Black JDS-50 Overdrive	0	
+DISC-1942		Mr. Black Mini Echo-Delay	0	
+DISC-1943		Mr. Black Mini Flanger	0	
+DISC-1944		Mr. Black Mini Octaves	0	
+DISC-1945		Mr. Black Mini Phaser	0	
+DISC-1946		Mr. Black Mini Reverb	0	
+DISC-1947		Mr. Black Mini Tremolo	0	
+DISC-1948		Mr. Black Mini Vintage Chorus	0	
+DISC-1949		Mr. Black Mod.One	0	
+DISC-1950		Mr. Black Nacho Cheese - Compressor	0	
+DISC-1951		Mr. Black OD-503 Mini Amplifier Overdrive	0	
+DISC-1952		Mr. Black Orro - Overdrive	0	
+DISC-1953		Mr. Black Pana-Trem - True-Stereo Harmonic Tremolo & Panner	0	
+DISC-1954		Mr. Black Phase 10	0	
+DISC-1955		Mr. Black Salt & Vinegar - Spring Reverb & Tremolo	0	
+DISC-1956		Mr. Black Shepard's End - Infinite Flanger	0	
+DISC-1957		Mr. Black SludgeMaster	0	
+DISC-1958		Mr. Black Snake Drive	0	
+DISC-1959		Mr. Black Sour Cream & Onion - Overdrive	0	
+DISC-1960		Mr. Black SS-850 Solid State Echo Chamber	0	
+DISC-1961		Mr. Black Stereo Vintage Ensemble	0	
+DISC-1962		Mr. Black Super Swell - Classic Spring Reverb	0	
+DISC-1963		Mr. Black Super-Extra Five Thousand - Clean Boost & Amplifier Overdrive	0	
+DISC-1964		Mr. Black SuperMoon - Modulated Reverberator	0	
+DISC-1965		Mr. Black SuperMoon Eclipse - Stereo Reverberator	0	
+DISC-1966		Mr. Black SuperMoon Mini - Mini Modulated Reverberator	0	
+DISC-1967		Mr. Black Tapex 2 - Stereophonic Tape Echo	0	
+DISC-1968		Mr. Black Thunderclaw	0	
+DISC-1969		Mr. Black TrancePortal - Shimmer Echo	0	
+DISC-1970		Mr. Black TunnelWorm TZF	0	
+DISC-1971		Mr. Black Twin Lazers - Dual Phase Modulator	0	
+DISC-1972		Mr. Black Vintage Ensemble	0	
+DISC-1973		Mr. Black Vintage Overdrive	0	
+DISC-1974		Mr. Black White Widow - Distortion	0	
+DISC-1975		Albuquerque	0	
+DISC-1976		Ambassador	0	
+DISC-1977		AP-WA Andy Powell (Wishbone Ash) Treble Booster	0	
+DISC-1978		BM-Q Special Treble-Booster	0	
+DISC-1979		BM-Q Treble-Booster	0	
+DISC-1980		CM 71/73	0	
+DISC-1981		DM-T Treble-Booster	0	
+DISC-1982		Fireball Treble-Booster	0	
+DISC-1983		HS Hornby-Skewes Treble Booster	0	
+DISC-1984		HS-C Custom Hornby-Skewes Treble Booster	0	
+DISC-1985		HS-S Silicon Hornby-Skewes Treble Booster	0	
+DISC-1986		Mk2 Treble-Booster	0	
+DISC-1987		OR Treble-Booster	0	
+DISC-1988		RB Special Looper	0	
+DISC-1989		RG Rory Gallagher Treble Booster	0	
+DISC-1990		RM Early Days	0	
+DISC-1991		RM Majestic	0	
+DISC-1992		RM Treble-Booster	0	
+DISC-1993		RM Velvet	0	
+DISC-1994		RM-M Metal Treble-Booster	0	
+DISC-1995		RMG	0	
+DISC-1996		RPA California	0	
+DISC-1997		RPA Major Ritchie Blackmore Pre Amp	0	
+DISC-1998		RPA Ritchie Blackmore Pre Amp	0	
+DISC-1999		RW-F Ron Wood Faces	0	
+DISC-2000		VX-C Classic Treble & Bass Booster	0	
+DISC-2001		VX-T Treble-Booster	0	
+DISC-2002		Spectrum Fuzz Booster	0	
+DISC-2003		Galaxy 1011	0	
+DISC-2004		Powderfinger	0	
+DISC-2005		FassBender Fuzz Machine	0	
+DISC-2006		FuzzBender Fuzz Machine	0	
+DISC-2007		J-Fuzz	0	
+DISC-2008		Overdrive Supreme	0	
+DISC-2009		Studio '75	0	
+DISC-2010		5:00 Fuzz	0	
+DISC-2011		Cocktail Fuzz	0	
+DISC-2012		Fuzz Duo	0	
+DISC-2013		Killer Rabbit - Dynamic Fuzz/Distortion/Overdrive	0	
+DISC-2014		Killer Rabbit Stereo - Stereo Fuzz/Dist/OD	0	
+DISC-2015		Triumvirate	0	
+DISC-2016		Vomit Hound	0	
+DISC-2017		Alpha Dog	0	
+DISC-2018		Blues King	0	
+DISC-2019		Dragon - Dynamic Overdrive	0	
+DISC-2020		El Raton	0	
+DISC-2021		Enterprise	0	
+DISC-2022		Fiery Red Horse	0	
+DISC-2023		Ice Scream - Mid-boosting OD	0	
+DISC-2024		Old School	0	
+DISC-2025		Pale Horse	0	
+DISC-2026		Proto OD II	0	
+DISC-2027		Proto OD III	0	
+DISC-2028		The Scream	0	
+DISC-2029		White Horse	0	
+DISC-2030		Yellow Submarine	0	
+DISC-2031		Distortion²	0	
+DISC-2032		Distortion³	0	
+DISC-2033		Red Wolf - Vintage Distortion	0	
+DISC-2034		Focus - Mid Boost	0	
+DISC-2035		Standout - Mid Booster	0	
+DISC-2036		Choral Reef	0	
+DISC-2037		Mobius Strip	0	
+DISC-2038		Tremulator	0	
+DISC-2039		Woodchipper	0	
+DISC-2040		Echo Ohce	0	
+DISC-2041		Klein Bottle - Filter / Mixer / Looper	0	
+DISC-2042		Klein Bottle Stereo	0	
+DISC-2043		RUP - Rainbows, Unicorns, Puppies (Radical Ultrasonic Processor)	0	
+DISC-2044		Blueprint	0	
+DISC-2045		Mini Mu	0	
+DISC-2046		Pinball - Tilt Equalizer	0	
+DISC-2047		Rocket EQ	0	
+DISC-2048		Leader of the Pack	0	
+DISC-2049		The Triplet	0	
+DISC-2050		A Seriously Special Twosome Dual Fuzz	0	
+DISC-2051		A Very Special Twosome Dual Fuzz	0	
+DISC-2052		Blunderbuss - Hybrid Fuzz	0	
+DISC-2053		Fix'D Fuzz	0	
+DISC-2054		Fix'D Fuzz Deluxe	0	
+DISC-2055		FUBÄR	0	
+DISC-2056		Fuzz Bear	0	
+DISC-2057		Musket Fuzz	0	
+DISC-2058		Special Twosome Deluxe	0	
+DISC-2059		Twosome Dual Fuzz	0	
+DISC-2060		Dual Gain Mantra - Overdrive	0	
+DISC-2061		Mantra - Overdrive	0	
+DISC-2062		Gravity Boost	0	
+DISC-2063		Cadavernous - Pandimensional Reverberator	0	
+DISC-2064		Sibling - Analog OTA Phaser	0	
+DISC-2065		Whetstone - Analog Phaser	0	
+DISC-2066		Crystal Dagger	0	
+DISC-2067		Demon Fuzz	0	
+DISC-2068		Dresden - Synth Fuzz	0	
+DISC-2069		Foxrite	0	
+DISC-2070		Green Russian Big Muff	0	
+DISC-2071		Grumbly Wolf	0	
+DISC-2072		Harmonic Percolator	6	Wikimedia Commons
+DISC-2073		Husk(er)y Wolf	6	Wikimedia Commons
+DISC-2074		Mutant Fuzz - Os Mutantes (Regulus VIII) Fuzz	0	
+DISC-2075		Standard Fuzz Machine	0	
+DISC-2076		Super Unpleasant Companion	0	
+DISC-2077		Unpleasant Companion	0	
+DISC-2078		Utility Perkolator	0	
+DISC-2079		Verzerrer	0	
+DISC-2080		Accomplished Badger	0	
+DISC-2081		Blue Monarch	0	
+DISC-2082		Golden Eagle	0	
+DISC-2083		Zombie Klon	0	
+DISC-2084		Atomic Clock	0	
+DISC-2085		BugCrusher - Analogue Sample Rate Reducer	0	
+DISC-2086		Do The Weasel Stomp!	0	
+DISC-2087		Scrambled Brainz	0	
+DISC-2088		Telstar Ring Modulator	0	
+DISC-2089		West-Germany Vintage Tremolo	0	
+DISC-2090		I Got Me A Pocket Weasel	0	
+DISC-2091		Liquid Fox	0	
+DISC-2092		Alter-Destiny - Hybrid Muff	0	
+DISC-2093		Bye-Bias Fuzz	0	
+DISC-2094		Electric Mud	0	
+DISC-2095		Foxey Lady	0	
+DISC-2096		Foxey Lady MkI	0	
+DISC-2097		Futureman	0	
+DISC-2098		Fuzz Mutant	0	
+DISC-2099		Fuzzmondo	0	
+DISC-2100		Fuzzstainer	0	
+DISC-2101		Gnarly Fuzz	0	
+DISC-2102		Lucky Number	0	
+DISC-2103		Marq Won	0	
+DISC-2104		Messenger Fuzz	0	
+DISC-2105		Pale Rider	0	
+DISC-2106		Peak Freq.	0	
+DISC-2107		Pep Fuzz	0	
+DISC-2108		Scarab	0	
+DISC-2109		Scarab Deluxe	0	
+DISC-2110		Solar Myth	0	
+DISC-2111		Spooky Tooth	0	
+DISC-2112		SquareWave+	0	
+DISC-2113		Tri/Ram Muff	0	
+DISC-2114		Warp	0	
+DISC-2115		Wildcat	0	
+DISC-2116		Zippy Fuzz	0	
+DISC-2117		Zonk (Si)	0	
+DISC-2118		Throbby - Tremolo	0	
+DISC-2131		Electro-Harmonix 16 Second Digital Delay	0	
+DISC-2132		Electro-Harmonix 2880 Super Multi-Track Looper	0	
+DISC-2133		Electro-Harmonix 45000 - Multi-Track Looping Recorder	0	
+DISC-2134		Electro-Harmonix 45000 Foot Controller	0	
+DISC-2135		Electro-Harmonix 5x Junction Mixer	0	
+DISC-2136		Electro-Harmonix 64 Second Digital Looping Recorder	0	
+DISC-2137		Electro-Harmonix 95000 Performance Loop Laboratory	0	
+DISC-2138		Electro-Harmonix Ambitron - Mono to Stereo Exciter	0	
+DISC-2139		Electro-Harmonix Attack Decay - Tape Reverse Simulator	0	
+DISC-2140		Electro-Harmonix Attack Equalizer	0	
+DISC-2141		Electro-Harmonix Axis	0	
+DISC-2142		Electro-Harmonix Bad Stone - Phase Shifter	0	
+DISC-2143		Electro-Harmonix Bad Stone - Phase Shifter Pedal	0	
+DISC-2144		Electro-Harmonix Bass Balls - Twin Dynamic Filters for Bass Guitar	0	
+DISC-2145		Electro-Harmonix Bass Micro Synthesizer	0	
+DISC-2146		Electro-Harmonix Bass Mono Synth	0	
+DISC-2147		Electro-Harmonix Big Muff Pi	0	
+DISC-2148		Electro-Harmonix Big Muff Pi Crying Tone Pedal	0	
+DISC-2149		Electro-Harmonix Black Finger - Distortion-Free Guitar Sustainer	0	
+DISC-2150		Electro-Harmonix Clap Track	0	
+DISC-2151		Electro-Harmonix Clockworks - Rhythm Generator / Synthesizer	0	
+DISC-2152		Electro-Harmonix Clone Theory	0	
+DISC-2153		Electro-Harmonix Crash Pad - Electronic Crash Drum	0	
+DISC-2154		Electro-Harmonix Crying Tone	0	
+DISC-2155		Electro-Harmonix Deluxe Big Muff Pi	0	
+DISC-2156		Electro-Harmonix Deluxe Electric Mistress	0	
+DISC-2157		Electro-Harmonix Deluxe Memory Man - Solid State Echo / Analog Delay Line	0	
+DISC-2158		Electro-Harmonix Deluxe Octave Multiplexer	0	
+DISC-2159		Electro-Harmonix Digital Delay with Magna Storage and Echo-Chorus	0	
+DISC-2160		Electro-Harmonix Doctor Q - Envelope Follower	0	
+DISC-2161		Electro-Harmonix Double Muff	0	
+DISC-2162		Electro-Harmonix DRM15 Digital Rhythm Matrix model 01	0	
+DISC-2163		Electro-Harmonix DRM16 Digital Rhythm Matrix model 01	0	
+DISC-2164		Electro-Harmonix DRM32 Digital Rhythm Matrix model 03	0	
+DISC-2165		Electro-Harmonix Echo 600	0	
+DISC-2166		Electro-Harmonix Echoflanger	0	
+DISC-2167		Electro-Harmonix Effects Interface - Hardware Plugin	0	
+DISC-2168		Electro-Harmonix Ego - Microphone Booster	0	
+DISC-2169		Electro-Harmonix Electric Mistress	0	
+DISC-2170		Electro-Harmonix Electronic Metronome	0	
+DISC-2171		Electro-Harmonix Flanger Hoax	0	
+DISC-2172		Electro-Harmonix Freedom Pre-Amp	0	
+DISC-2173		Electro-Harmonix Frequency Analyzer - Ring Modulator	0	
+DISC-2174		Electro-Harmonix Full Double Tracking Effect	0	
+DISC-2175		Electro-Harmonix Fuzz Wah	0	
+DISC-2176		Electro-Harmonix Golden Throat Deluxe - Mouth Tube with Amplifier	0	
+DISC-2177		Electro-Harmonix Golden Throat II Mouth Tube	0	
+DISC-2178		Electro-Harmonix Golden Throat Mouth Tube	0	
+DISC-2179		Electro-Harmonix Graphic Fuzz	0	
+DISC-2180		Electro-Harmonix Hare-Lip Microphone Echo	0	
+DISC-2181		Electro-Harmonix Headphone Amp	0	
+DISC-2182		Electro-Harmonix Headphone Amplifier	0	
+DISC-2183		Electro-Harmonix HOG 2 Foot Controller	0	
+DISC-2184		Electro-Harmonix HOG 2 Guitar Synthesizer	0	
+DISC-2185		Electro-Harmonix HOG Guitar Synthesizer	0	
+DISC-2186		Electro-Harmonix Hog's Foot	0	
+DISC-2187		Electro-Harmonix Holier Grail	0	
+DISC-2188		Electro-Harmonix Holiest Grail	0	
+DISC-2189		Electro-Harmonix Holy Grail	0	
+DISC-2190		Electro-Harmonix Hot Foot - Universal Pedal	0	
+DISC-2191		Electro-Harmonix Hot Foot Pan - Universal Pan Pedal	0	
+DISC-2192		Electro-Harmonix Hot Tubes - Tube Amp Overdrive Simulator	0	
+DISC-2193		Electro-Harmonix Instant Replay	0	
+DISC-2194		Electro-Harmonix Knock Out Attack Equalizer	0	
+DISC-2195		Electro-Harmonix Linear Stereo Booster-1	0	
+DISC-2196		Electro-Harmonix Linear Stereo Booster-2	0	
+DISC-2197		Electro-Harmonix Little Big Muff Pi	0	
+DISC-2198		Electro-Harmonix Little Muff Pi	0	
+DISC-2199		Electro-Harmonix Low Frequency Compressor	0	
+DISC-2200		Electro-Harmonix LPB-1 Bass Booster	0	
+DISC-2201		Electro-Harmonix LPB-1 Linear Power Booster	0	
+DISC-2202		Electro-Harmonix LPB-2 Linear Power Booster	0	
+DISC-2203		Electro-Harmonix Memory Man - Solid State Echo / Analog Delay Line	0	
+DISC-2204		Electro-Harmonix Memory Man - Solid State Echo / Chorus	0	
+DISC-2205		Electro-Harmonix Micro Synthesizer	0	
+DISC-2206		Electro-Harmonix Mini Q-Tron	0	
+DISC-2207		Electro-Harmonix Mini-Mixer	0	
+DISC-2208		Electro-Harmonix Mini-Synthesizer	0	
+DISC-2209		Electro-Harmonix Mini-Synthesizer w/ Echo and Glide Bar	0	
+DISC-2210		Electro-Harmonix Mole Bass Booster	0	
+DISC-2211		Electro-Harmonix MOP-D10 Isolated Power Supply	0	
+DISC-2212		Electro-Harmonix Muff Fuzz	0	
+DISC-2213		Electro-Harmonix Muff Fuzz Crying Tone	0	
+DISC-2214		Electro-Harmonix Oceans Abyss - Advanced Reverb Laboratory	0	
+DISC-2215		Electro-Harmonix Octave Multiplexer	0	
+DISC-2216		Electro-Harmonix Octave Multiplexer Pedal	0	
+DISC-2217		Electro-Harmonix Pan Pedal	0	
+DISC-2218		Electro-Harmonix Panic Button	0	
+DISC-2219		Electro-Harmonix POG III - Polyphonic Octave Generator	0	
+DISC-2220		Electro-Harmonix POG Polyphonic Octave Generator	0	
+DISC-2221		Electro-Harmonix Poly Flange	0	
+DISC-2222		Electro-Harmonix Poly Phase - Phase Shift with Envelope Control	0	
+DISC-2223		Electro-Harmonix Polyrhythm	0	
+DISC-2224		Electro-Harmonix Pulsar	0	
+DISC-2225		Electro-Harmonix Pulse Modulator	0	
+DISC-2226		Electro-Harmonix Q-Tron - Envelope Controlled Filter	0	
+DISC-2227		Electro-Harmonix Q-Tron+ Envelope Filter + FX Loop	0	
+DISC-2228		Electro-Harmonix Queen Triggered Wah	0	
+DISC-2229		Electro-Harmonix Rhythm-12	0	
+DISC-2230		Electro-Harmonix Rolling Thunder	0	
+DISC-2231		Electro-Harmonix RTG Random Tone Generator	0	
+DISC-2232		Electro-Harmonix Screaming Bird	0	
+DISC-2233		Electro-Harmonix Screaming Tree	0	
+DISC-2234		Electro-Harmonix Sequencer Drum	0	
+DISC-2235		Electro-Harmonix Slap-Back Echo	0	
+DISC-2236		Electro-Harmonix Small Clone - Full-Chorus	0	
+DISC-2237		Electro-Harmonix Small Stone - Phase Shifter	0	
+DISC-2238		Electro-Harmonix Solid State Reverb	0	
+DISC-2239		Electro-Harmonix Sonic Boomer	0	
+DISC-2240		Electro-Harmonix Soul Preacher - Compressor/Sustainer	0	
+DISC-2241		Electro-Harmonix Space Drum	0	
+DISC-2242		Electro-Harmonix Stereo Memory Man - Stereo Echo/Chorus	0	
+DISC-2243		Electro-Harmonix Stereo Poly Chorus - Analog Flange Chorus	0	
+DISC-2244		Electro-Harmonix Stereo Pulse Modulator	0	
+DISC-2245		Electro-Harmonix Stereo Slap-Back Echo	0	
+DISC-2246		Electro-Harmonix Stereo Tone Expander	0	
+DISC-2247		Electro-Harmonix SU-2001 The Screw Upper	0	
+DISC-2248		Electro-Harmonix Super Replay	0	
+DISC-2249		Electro-Harmonix Super Space Drum	0	
+DISC-2250		Electro-Harmonix Super Switcher - Programmable Effects Hub	0	
+DISC-2251		Electro-Harmonix Switch Blade	0	
+DISC-2252		Electro-Harmonix Talking Pedal	0	
+DISC-2253		Electro-Harmonix Ten Band Graphic Equalizer	0	
+DISC-2254		Electro-Harmonix The Silencer - Line Noise Eliminator	0	
+DISC-2255		Electro-Harmonix The Worm	0	
+DISC-2256		Electro-Harmonix Triple Foot Controller	0	
+DISC-2257		Electro-Harmonix Volume Pedal	0	
+DISC-2258		Electro-Harmonix White Finger	0	
+DISC-2259		Electro-Harmonix x JHS Pedals Big Muff Pi 2 - Dual Op-Amp Fuzz	0	
+DISC-2260		Electro-Harmonix Y-Triggered Filter	0	
+DISC-2261		Electro-Harmonix Zipper - Envelope Follower	0	
+DISC-2262		Mike Matthews' Red Army Over Drive	0	
+DISC-2263		Mike Matthews' Soul Kiss	0	
+DISC-2264		Prescription Electronics C.O.B. Clean Octave Blend	0	
+DISC-2265		Prescription Electronics Depth Charge	0	
+DISC-2266		Prescription Electronics Dual-Tone	0	
+DISC-2267		Prescription Electronics Experience	0	
+DISC-2268		Prescription Electronics Face Lift	0	
+DISC-2269		Prescription Electronics Frantic Fuzz	0	
+DISC-2270		Prescription Electronics Germ	0	
+DISC-2271		Prescription Electronics Outbox	0	
+DISC-2272		Prescription Electronics Rx Overdriver	0	
+DISC-2273		Prescription Electronics Static	0	
+DISC-2274		Prescription Electronics Supernatural	0	
+DISC-2275		Prescription Electronics Throb Tremolo	0	
+DISC-2276		Prescription Electronics Vibe-Unit	0	
+DISC-2277		Prescription Electronics Yardbox	0	
+DISC-2278		Colorsound Fuzz Box (D*A*M reissue)	0	
+DISC-2279		Colorsound Wow Fuzz (D*A*M/Castledine Reissue)	0	
+DISC-2280		D*A*M 1965 - Tone Bender MkI Replica	0	
+DISC-2281		D*A*M 1966 - Tone Bender Replica	0	
+DISC-2282		D*A*M Drag'n'Fly - Hybrid Fuzz Tones	0	
+DISC-2283		D*A*M Ezekiel 25:17 - Low Frequency Distortion Generator	0	
+DISC-2284		D*A*M Fleshhead	0	
+DISC-2285		D*A*M FS-75 Fuzz Sound Jr.	0	
+DISC-2286		D*A*M Fuzz Sound MkIII	0	
+DISC-2287		D*A*M Fuzz Sound MkIV	0	
+DISC-2288		D*A*M Fuzzaround	0	
+DISC-2289		D*A*M FUZZrong	0	
+DISC-2290		D*A*M FZ-673	0	
+DISC-2291		D*A*M Grease Box - Solid State Pre-Amplified Germanium Overdrive	0	
+DISC-2292		D*A*M Head Buzz	0	
+DISC-2293		D*A*M Meathead - Silicon Fuzz Machine	0	
+DISC-2294		D*A*M Meathead Deluxe - Silicon Fuzz Machine	0	
+DISC-2295		D*A*M MkI	0	
+DISC-2296		D*A*M Professional MKII - Tone Bender MkII Replica	0	
+DISC-2297		D*A*M Ram Head	0	
+DISC-2298		D*A*M Red Rooster - Germanium Booster	0	
+DISC-2299		D*A*M Sonic Titan - Power Amp Distortion	0	
+DISC-2300		D*A*M Super Bee - Germanium Fuzz Tones	0	
+DISC-2301		D*A*M TB-00 Tone Bender	0	
+DISC-2302		D*A*M ZU-65 Zoot Unit	0	
+DISC-2303		Sola Sound Tone Bender Mk1.5 (D*A*M reissue) Goldie	0	
+DISC-2304		Sola Sound Tone Bender MkII (D*A*M reissue)	0	
+DISC-2305		Sola Sound Tone Bender MkII SCB (D*A*M reissue) Blue Meanie	0	
+DISC-2306		Abominable Electronics Anxious Echo - Fuzz & Delay	0	
+DISC-2307		Abominable Electronics Cat Dirt Mini - Killer Acid Artwork	0	
+DISC-2308		Abominable Electronics Cenote - Reverb & Fuzz	0	
+DISC-2309		Abominable Electronics Demon Lung - Hyper Fuzz Clone	0	
+DISC-2310		Abominable Electronics Don't Shred on Me	0	
+DISC-2311		Abominable Electronics Don't Shred on Me Deluxe	0	
+DISC-2312		Abominable Electronics God Botherer - Fuzz Phaser	0	
+DISC-2313		Abominable Electronics Hail Satan - Distortion / Fuzz	0	
+DISC-2314		Abominable Electronics Hail Satan Deluxe - Distortion / Fuzz	0	
+DISC-2315		Abominable Electronics Hellmouth	0	
+DISC-2316		Abominable Electronics Oppressive Cult Destroyer	0	
+DISC-2317		Abominable Electronics Sunnbather - Beta Bass Preamp	0	
+DISC-2318		Abominable Electronics Throne Torcher - HM-2 Clone with Extras	0	
+DISC-2319		Abominable Electronics Toke Machine - Octave Fuzz	0	
+DISC-2320		Abominable Electronics Unholy Grail - Delay / Boost Pedal	0	
+DISC-2321		Abominable Electronics x Mid-Fi Electronics Skullmulcher	0	
+DISC-2322		Abominable Electronics Yeti Fuzz - Vintage Germanium Fuzz Pedal	0	
+DISC-2324		3OD	0	
+DISC-2325		Buzzaround	0	
+DISC-2326		Face Plant	0	
+DISC-2327		SkinBender Mk I	0	
+DISC-2328		SkinBender Mk II	0	
+DISC-2329		SkinBender Mk III	0	
+DISC-2330		Biloma	0	
+DISC-2331		Bloody Emily	0	
+DISC-2332		Epilepsy	0	
+DISC-2333		Halothan	0	
+DISC-2334		Homicide Noodle	0	
+DISC-2335		Kidnapper - Octave Fuzz	0	
+DISC-2336		Lavender Head	0	
+DISC-2337		Live Convulsion	0	
+DISC-2338		Ma.S Model OSC01 Noise Machine	0	
+DISC-2339		Ma.S Model OSC02 Noise Machine	0	
+DISC-2340		Ma.S Model OSC03 Noise Machine	0	
+DISC-2341		Paranoid	0	
+DISC-2342		PJ Fuzz	0	
+DISC-2343		SCM	0	
+DISC-2344		Starry Wisdom - Bass Fuzz	0	
+DISC-2345		Swan Song	0	
+DISC-2346		Thornoscillator	0	
+DISC-2347		"F"-Bomb	0	
+DISC-2348		1-800-GAIN	0	
+DISC-2349		Amalgam - Smooth Overdrive	0	
+DISC-2350		Atomic FET-Boy	0	
+DISC-2351		Bombastortion - Jeff Kollman Signature Distortion	0	
+DISC-2352		D'Luxury Twin-Rate Tremolo	0	
+DISC-2353		DGTM Diabolical Gristle Tone Manipulator	0	
+DISC-2354		Double DGTM	0	
+DISC-2355		Gristle King	0	
+DISC-2356		Jubilee - Distortion and Boost	0	
+DISC-2357		Kollmanation - Jeff Kollman Signature Drive/Boost	0	
+DISC-2358		Luxury Drive	0	
+DISC-2359		Luxury Overdrive	0	
+DISC-2360		Mr. Spanky - Compressor	0	
+DISC-2361		Orateur - Classic Overdrive	0	
+DISC-2362		Parallel Dementia	0	
+DISC-2363		Plexian Herb	0	
+DISC-2364		Ricochet - Simulated Tape Echo	0	
+DISC-2365		Sweet POI Overdrive	0	
+DISC-2366		The Luxury Twin-Rate Tremolo	0	
+DISC-2367		Tiki Tongue - Dual True Vibrato	0	
+DISC-2368		Viscosilator - Dual Overdrive	0	
+DISC-2369		393 Distortion	0	
+DISC-2370		4007 Distortion	0	
+DISC-2371		60's Fuzz	0	
+DISC-2372		Bass Distortion-Envelope	0	
+DISC-2373		Bass Distortion-EQ	0	
+DISC-2374		Bass Ring Modulator	0	
+DISC-2375		Bass Super Divider	0	
+DISC-2376		Envelope Filter	0	
+DISC-2377		Fuzz + Octave	0	
+DISC-2378		Gypsy Phaser	0	
+DISC-2379		Optical Compressor	0	
+DISC-2380		Phaser	0	
+DISC-2381		Super Divider	0	
+DISC-2382		Tremolo	0	
+DISC-2383		Tweedy	0	
+DISC-2384		RDM04 Tube Head	0	
+DISC-2385		AB Switch	0	
+DISC-2386		Analog Phaser	0	
+DISC-2387		Dimed Boogie Distortion	0	
+DISC-2388		Face-Off Fuzz	0	
+DISC-2389		Hair Band Distortion	0	
+DISC-2390		Heavenly Boost	0	
+DISC-2391		Jimi - Octave Fuzz	0	
+DISC-2392		Lil' Box Of Dirt	0	
+DISC-2393		Line Chauffeur	0	
+DISC-2394		Loop Switcher	0	
+DISC-2395		Micro Dimed Boogie	0	
+DISC-2396		Nobility Booster	0	
+DISC-2397		Sustained Fury	0	
+DISC-2398		Texas Holdem	0	
+DISC-2399		The Squeeze	0	
+DISC-2400		Thor's Hammer	0	
+DISC-2401		Tone Oracle	0	
+DISC-2402		Valve Howler	0	
+DISC-2403		Valve Howler Jr.	0	
+DISC-2404		Awdrey-Gore	0	
+DISC-2405		Fuck Face	0	
+DISC-2406		Full Nude	0	
+DISC-2407		Jasper	0	
+DISC-2408		Ortenzia	0	
+DISC-2409		The Sag	0	
+DISC-2410		Boosty	0	
+DISC-2411		Blitzkrieg	0	
+DISC-2412		Citrus	0	
+DISC-2413		Fudge 73	0	
+DISC-2414		Kult	0	
+DISC-2415		MangoJuice	0	
+DISC-2416		Noizetherapy	0	
+DISC-2417		Pixie	0	
+DISC-2418		Seventheaven	0	
+DISC-2419		Tremor	0	
+DISC-2420		Blonde Boost	0	
+DISC-2421		Bone Blender	0	
+DISC-2422		Scarlet Storm	0	
+DISC-2423		Amp Unit	0	
+DISC-2424		Dirty 8	0	
+DISC-2425		Driver - Competition Special Treble Booster	0	
+DISC-2426		Electric Eye	0	
+DISC-2427		Fuzz 1.5	0	
+DISC-2428		Fuzzbound	0	
+DISC-2429		Heavy Load	0	
+DISC-2430		JuJu	0	
+DISC-2431		Loony	0	
+DISC-2432		Loony II	0	
+DISC-2433		Low Pro MkII	0	
+DISC-2434		MkI	0	
+DISC-2435		Professional MkII	0	
+DISC-2436		Spectrafuzz	0	
+DISC-2437		Supa Pro	0	
+DISC-2438		Tin Pan "Two Transistors" - Tone Bender Mk1.5	0	
+DISC-2438		AnaSounds Bitoun Fuzz	0	
+DISC-2439		AnaSounds Bumper - Buffer	0	
+DISC-2440		AnaSounds Centaur - Vintage Overdrive	0	
+DISC-2441		AnaSounds Cerberus - Overdrive	0	
+DISC-2442		AnaSounds Cerberus mkII - Overdrive	0	
+DISC-2443		AnaSounds Element Spring Reverb	0	
+DISC-2444		AnaSounds Extended Savage	0	
+DISC-2445		AnaSounds Feed Me - Fuzz	0	
+DISC-2446		AnaSounds Feed Me Mk3 - Fuzz	0	
+DISC-2447		AnaSounds Feed Me mkII - Fuzz	0	
+DISC-2448		AnaSounds Freq Up - Custom Boost	0	
+DISC-2449		AnaSounds Lazy Comp	0	
+DISC-2450		AnaSounds Phase Lag - OTA Phaser	0	
+DISC-2451		AnaSounds Phase Lag mkII - OTA Phaser	0	
+DISC-2452		AnaSounds Retarded - Lo-Fi Tape Echo	0	
+DISC-2453		AnaSounds Savage & High Voltage - Limited Edition	0	
+DISC-2454		AnaSounds Savage - Centaur Reissue	0	
+DISC-2455		AnaSounds Savage MkII - Centaur Reissue	0	
+DISC-2456		AnaSounds Utopia - Tape Echo with Modulation	0	
+DISC-2457		Third Man Hardware x Anasounds La Grotte - Spring Reverb	0	
+DISC-2458		Leila Vintage Electronics KoaDrive	0	
+DISC-2459		Leila Vintage Electronics Mark II Fuzz	0	
+DISC-2460		Leila Vintage Electronics Pulse Trem	0	
+DISC-2461		Leila Vintage Electronics Soft Delay	0	
+DISC-2462		Leila Vintage Electronics SparkleComp	0	
+DISC-2463		Jamés Pedals Ass Kickin' Overdrive	0	
+DISC-2464		Jamés Pedals Blender	0	
+DISC-2465		Jamés Pedals Fuzzy Pie - Bass Fuzz	0	
+DISC-2466		Jamés Pedals Hey B-ABY!	0	
+DISC-2467		Jamés Pedals Treble Booster MkII	0	
+DISC-2468		Jamés Pedals Treble Booster MkIII	0	
+DISC-2469		Jamés Pedals Trebletastic Overdrive	0	
+DISC-2470		Loophole Pedals Grey Matter - Dual Overdrive / Distortion	0	
+DISC-2471		Loophole Pedals GREY MATTER Limited Cerakote Edition	0	
+DISC-2472		Loophole Pedals GREY MATTER v2	0	
+DISC-2473		Loophole Pedals GREY MATTER v2 Blackout Edition	0	
+DISC-2474		Loophole Pedals Signal Blender	0	
+DISC-2475		Loophole Pedals Nine Lives Boost	0	
+DISC-2476		Loophole Pedals Chromium 2 Knob Clean Boost	0	
+DISC-2477		Loophole Pedals Maestro Parametric Filter MPF-1 Custom Shop	0	
+DISC-2478		Loophole Pedals LoFi Handset Mic	0	
+DISC-2479		Loophole Pedals Mini Expression Pedal	0	
+DISC-2480		Orion Effekte 10 + 10	0	
+DISC-2481		Orion Effekte 10 Fuzz	0	
+DISC-2482		Orion Effekte Blackmail - Distortion/Sustainer	0	
+DISC-2483		Orion Effekte De Luxe Motor Fuzz	0	
+DISC-2484		Orion Effekte Distortion General	0	
+DISC-2485		Orion Effekte Elektro Booster	0	
+DISC-2486		Orion Effekte Elektro Booster mini	0	
+DISC-2487		Orion Effekte Fabrik Fuzz	0	
+DISC-2488		Orion Effekte Gold Fuzz	0	
+DISC-2489		Orion Effekte Kafka Reverb	0	
+DISC-2490		Orion Effekte Lemming Fuzz - Locas in Love signature pedal	0	
+DISC-2491		Orion Effekte Minus Booster	0	
+DISC-2492		Orion Effekte Minus Booster II	0	
+DISC-2493		Orion Effekte Minus Booster II mini	0	
+DISC-2494		Orion Effekte Minus Booster Mini	0	
+DISC-2495		Orion Effekte Motor Fuzz	0	
+DISC-2496		Orion Effekte Mufflon Fuzz	0	
+DISC-2497		Orion Effekte Null Booster	0	
+DISC-2498		Orion Effekte Null Booster/Buffer mini	0	
+DISC-2499		Orion Effekte OH! Drive	0	
+DISC-2500		Orion Effekte Ramlon Fuzz	0	
+DISC-2501		Orion Effekte Russlon Fuzz	0	
+DISC-2502		Orion Effekte Silver Drive	0	
+DISC-2503		Orion Effekte Twangtone Dakota Drive	0	
+DISC-2504		Orion Effekte Twangtone Dakota Drive +	0	
+DISC-2505		Orion Effekte Twangtone Dakota Red	0	
+DISC-2506		Orion Effekte Twangtone Dakota Red II	0	
+DISC-2507		Orion Effekte Western Drive	0	
+DISC-2508		Orion Effekte Western Drive 2	0	
+DISC-2509		Orion Effekte Wildkraut Fuzz	0	
+DISC-2510		G.S. Wyllie Fuzzmite	0	
+DISC-2511		G.S. Wyllie IronStone	0	
+DISC-2512		G.S. Wyllie Moonrock	0	
+DISC-2513		G.S. Wyllie Over-Tron	0	
+DISC-2514		G.S. Wyllie OZO Dynamic Alien Octaver	0	
+DISC-2515		G.S. Wyllie Rising Sun	0	
+DISC-2516		G.S. Wyllie Wylo	0	
+DISC-2517		G.S. Wyllie Wylo Delux	0	
+DISC-2518		G.S. Wyllie X-Fuzz	0	
+DISC-2519		G.S. Wyllie Xylo	0	
+DISC-3101		Klinger Custom Pedals MkI Fuzz	0	
+DISC-3102		Klinger Custom Pedals Bender MkII	0	
+DISC-3103		Klinger Custom Pedals Chroma Zone Fuzz	0	
+DISC-3104		Klinger Custom Pedals Buzz Fuzz	1	Archive registry
+DISC-3105		Klinger Custom Pedals Jimi Fuzz	0	
+DISC-3106		Klinger Custom Pedals Psychedelic Fuzz Machine	0	
+DISC-3107		Klinger Custom Pedals Brown Sound	0	
+DISC-3108		Klinger Custom Pedals Fuzz/Boost	0	
+DISC-3110		KMA Audio Machines AB/Y	2	Wikimedia Commons
+DISC-3111		KMA Audio Machines Astrospurt - Junction Gate Field-Effect Phaser	0	
+DISC-3112		KMA Audio Machines Belfry - Buffer	0	
+DISC-3113		KMA Audio Machines Chief Disrupter - Fundamental Fuzz/Distortion	0	
+DISC-3114		KMA Audio Machines Cirrus - Spatial Temporal Modifier	0	
+DISC-3115		KMA Audio Machines Dead Stag	0	
+DISC-3116		KMA Audio Machines Endgame - Duality Calibrator	0	
+DISC-3117		KMA Audio Machines Fuzzly Bear	0	
+DISC-3118		KMA Audio Machines Guardian of the Wurm - Metal Distortion with Noise Gate	0	
+DISC-3119		KMA Audio Machines Horizont - Interdimensional Multispatial JFET Phaser	0	
+DISC-3120		KMA Audio Machines Logan - Transcend Drive	0	
+DISC-3121		KMA Audio Machines Mandrake - Octo-Shrieker	0	
+DISC-3122		KMA Audio Machines Minos - Germanium Fuzz	0	
+DISC-3123		KMA Audio Machines Moai Maea	0	
+DISC-3124		KMA Audio Machines Pylon - ATB Noise Gate	0	
+DISC-3125		KMA Audio Machines Queequeg - Sub Generator	0	
+DISC-3126		KMA Audio Machines Queequeg 2 - Sub Generator	0	
+DISC-3127		KMA Audio Machines SAM - Supply Aid Machine	0	
+DISC-3128		KMA Audio Machines Stereo AB/Y	0	
+DISC-3129		KMA Audio Machines Strokkur - Germanium Treble Booster	0	
+DISC-3130		KMA Audio Machines Sweet Sinner - Gemanium Treble Booster	0	
+DISC-3131		KMA Audio Machines Tyler - The Frequency Splitter	0	
+DISC-3132		KMA Audio Machines Wurhm - Limited Edition HM Distortion	0	
+DISC-3133		KMA Audio Machines Wurm - Distortion	0	
+DISC-3140		Kittycaster FX Double Date	0	
+DISC-3141		Kittycaster FX Mohair Fuzztortion	0	
+DISC-3142		Kittycaster FX Meerkat - Wide Range Boost	0	
+DISC-3143		Kittycaster FX Kittyface BC183L Silicon	1	Archive registry
+DISC-3301		Kinnatone Squatch Stank Fuzz	0	
+DISC-3302		Kinsman FX KAC001 Analogue Delay	0	
+DISC-3303		Kinsman FX KAC002 Hi-Gain Lead	0	
+DISC-3304		Kinsman FX KAC003 Dynamic Overdrive	0	
+DISC-3305		Kinsman FX KAC004 Analogue Chorus	0	
+DISC-3306		Kinsman FX KAC005 Crunch Distortion	0	
+DISC-3307		KHDK Electronics No. 1 - Overdrive	0	
+DISC-3308		KHDK Electronics No. 2 - Clean Boost	0	
+DISC-3309		KHDK Electronics Ghoul Screamer	0	
+DISC-3310		KHDK Electronics Dark Blood	0	
+DISC-3311		KHDK Electronics Unicorn Blood - Octave Fuzz	0	
+DISC-3312		KHDK Electronics Ghoul JR - Mini Overdrive	0	
+DISC-3313		KHDK Electronics Abyss - Bass Overdrive	0	
+DISC-3314		KHDK Electronics Annihilator - Octaver, Clean Boost & Blender	0	
+DISC-3315		KHDK Electronics Annihilator II - Doyle Wolfgang von Frankenstein Limited Edition	0	
+DISC-3316		KHDK Electronics LCFR - Nergal Signature Overdrive	0	
+DISC-3317		KHDK Electronics Mad Monarch - Gary Holt Signature Preamp/Drive	0	
+DISC-3318		KHDK Electronics The Gary Holt Paranormal Parametric EQ Overdrive	0	
+DISC-3319		KHDK Electronics Scuzz Box	0	
+DISC-3320		Kingsley Bard - Tube Tremolo	0	
+DISC-3321		Kingsley Constable - Valve Preamplifier	0	
+DISC-3322		Kingsley Harlot - Tube Overdrive	0	
+DISC-3323		Kingsley Jester - Overdrive/Boost	0	
+DISC-3324		Kingsley Jouster - Double Drive	0	
+DISC-3325		Kingsley Juggler - Tube Pre-Amp	0	
+DISC-3326		Kingsley Minstrel - Overdrive	0	
+DISC-3327		Kingsley Page - Tube Boost	0	
+DISC-3328		Kingsley Squire - Tube Preamp	0	
+DISC-3329		Heavy Electronics Ascend	0	
+DISC-3330		Heavy Electronics Descend	0	
+DISC-3331		Heavy Electronics El Oso - Bass Distortion	0	
+DISC-3332		Heavy Electronics Grind Fuzz	0	
+DISC-3333		Heavy Electronics Hwy-77	0	
+DISC-3334		Heavy Electronics Push	0	
+DISC-3335		Heavy Electronics Radio Havana	0	
+DISC-3336		Heavy Electronics Red Eyes	0	
+DISC-3337		Heavy Electronics Rodeo Loop	0	
+DISC-3338		Heavy Electronics Saturn - Modulation Driver	0	
+DISC-3339		Heavy Electronics Sonic Oppressor	0	
+DISC-3340		KOMA Elektronik RH301 Rhythm Workstation / Utility Tool	0	
+DISC-3341		KOMA Elektronik BD101 Analog Delay & Gate	0	
+DISC-3342		KOMA Elektronik FT201 Voltage Controlled Vactrol State Variable Filter	0	
+DISC-3343		KOMA Elektronik SH103	0	
+DISC-3401		Mojo Hand FX 1978 - OpAmp Fuzz	0	
+DISC-3402		Mojo Hand FX 1979 Fuzz	0	
+DISC-3403		Mojo Hand FX 770 Flanger	0	
+DISC-3404		Mojo Hand FX Analogue Filter 442	0	
+DISC-3405		Mojo Hand FX Analogue Filter 442 Red	0	
+DISC-3406		Mojo Hand FX Analogue Filter 443	0	
+DISC-3407		Mojo Hand FX Bayou Trem	0	
+DISC-3408		Mojo Hand FX Bluebonnet - Overdrive	0	
+DISC-3409		Mojo Hand FX BMP-1 Fuzz	0	
+DISC-3410		Mojo Hand FX BMP-2 Fuzz	0	
+DISC-3411		Mojo Hand FX Buzzaround	0	
+DISC-3412		Mojo Hand FX C-1 - Buffer	0	
+DISC-3413		Mojo Hand FX Clarity - Transparent Compressor	0	
+DISC-3414		Mojo Hand FX Clementine - Compressor	0	
+DISC-3415		Mojo Hand FX Colossus Fuzz	0	
+DISC-3416		Mojo Hand FX Copperhead Dual Boost	0	
+DISC-3417		Mojo Hand FX Cream Pie Deluxe	0	
+DISC-3418		Mojo Hand FX Crosstown - Fuzz	0	
+DISC-3419		Mojo Hand FX Dewdrop	0	
+DISC-3420		Mojo Hand FX DMBL	0	
+DISC-3421		Mojo Hand FX Dream Mender - Vintage Echo/Chorus/Vibrato	0	
+DISC-3422		Mojo Hand FX El Guapo - Fuzz	0	
+DISC-3423		Mojo Hand FX Extra Special - Howard Inspired Overdrive	0	
+DISC-3424		Mojo Hand FX Goliath	0	
+DISC-3425		Mojo Hand FX GRRRocker - Overdrive	0	
+DISC-3426		Mojo Hand FX Gyro	0	
+DISC-3427		Mojo Hand FX Harvey - DC Drive	0	
+DISC-3428		Mojo Hand FX Huckleberry	0	
+DISC-3429		Mojo Hand FX Iron Bell Fuzz	0	
+DISC-3430		Mojo Hand FX Juju Boost	0	
+DISC-3431		Mojo Hand FX Little Wonder - Envelope Filter	0	
+DISC-3432		Mojo Hand FX Luna Vibe	0	
+DISC-3433		Mojo Hand FX Magistrate	0	
+DISC-3434		Mojo Hand FX Magpie - Low Gain Overdrive	0	
+DISC-3435		Mojo Hand FX Membrane	0	
+DISC-3436		Mojo Hand FX Mirror Ball - Modulated Delay	0	
+DISC-3437		Mojo Hand FX Mr O - Phase Shifter	0	
+DISC-3438		Mojo Hand FX Mule	0	
+DISC-3439		Mojo Hand FX Mystick Octavius	0	
+DISC-3440		Mojo Hand FX Nebula - 2 Stage Phaser	0	
+DISC-3441		Mojo Hand FX Nebula IV - 4 Stage Phaser	0	
+DISC-3442		Mojo Hand FX Nebula Redux - 2 Stage Phaser	0	
+DISC-3443		Mojo Hand FX Octaverse - Reverse Octave Delay	0	
+DISC-3444		Mojo Hand FX Odessa - Dual Channel Overdrive	0	
+DISC-3445		Mojo Hand FX One Ton Bee Fuzz	0	
+DISC-3446		Mojo Hand FX Park Theatre - Theatre Reverb / Delay	0	
+DISC-3447		Mojo Hand FX Pompeii - Fuzz	0	
+DISC-3448		Mojo Hand FX Recoil Delay	0	
+DISC-3449		Mojo Hand FX Rock City - Dual Overdrive	0	
+DISC-3450		Mojo Hand FX Rook - Overdrive	0	
+DISC-3451		Mojo Hand FX Rook Royale	0	
+DISC-3452		Mojo Hand FX Rounder - Fuzz	0	
+DISC-3453		Mojo Hand FX RVT - Vintage Reverb/Vibrato/Tremolo	0	
+DISC-3454		Mojo Hand FX Sacred Cow	0	
+DISC-3455		Mojo Hand FX Sericon - Highly Tweakable Klone	0	
+DISC-3456		Mojo Hand FX SMPLoFi	0	
+DISC-3457		Mojo Hand FX Socrates	0	
+DISC-3458		Mojo Hand FX Speakeasy - EP-Style Preamp	0	
+DISC-3459		Mojo Hand FX Stylus - LoFi Modulator	0	
+DISC-3460		Mojo Hand FX Sugar Baby	0	
+DISC-3461		Mojo Hand FX Superlative - Supro Inspired Overdrive	0	
+DISC-3462		Mojo Hand FX Swim Team - Chorus/Flanger	0	
+DISC-3463		Mojo Hand FX Villanova	0	
+DISC-3464		Mojo Hand FX Wonder Filter	0	
+DISC-3465		Mojo Hand FX Zephyr	0	
+DISC-3466		DenTone Electronics 900 Pound Violin	0	
+DISC-3467		DenTone Electronics Alien Hate Fuzz	0	
+DISC-3468		DenTone Electronics BFF Biggest Fattest Fuzz	0	
+DISC-3469		DenTone Electronics Black Hole Generator	0	
+DISC-3470		DenTone Electronics Bolthead	0	
+DISC-3471		DenTone Electronics Buzzaround	0	
+DISC-3472		DenTone Electronics CigBooster	0	
+DISC-3473		DenTone Electronics Demented Circus Monkey	0	
+DISC-3474		DenTone Electronics Freaktone Fuzz	0	
+DISC-3475		DenTone Electronics Fuzzrite	0	
+DISC-3476		DenTone Electronics FY-2 Companion Fuzz	0	
+DISC-3477		DenTone Electronics Jupiter Rocket	0	
+DISC-3478		DenTone Electronics Pinhead	0	
+DISC-3479		DenTone Electronics Pinhead 2	0	
+DISC-3480		DenTone Electronics Purple Octavepus	0	
+DISC-3481		DenTone Electronics Rangemaster	0	
+DISC-3482		DenTone Electronics Rocket - Germanium Boost	0	
+DISC-3483		DenTone Electronics SteamRoller	0	
+DISC-3484		DenTone Electronics SupaFuzz	0	
+DISC-3485		Erafuzz "RAM"	0	
+DISC-3486		Erafuzz Buzzaround - Germanium Fuzz Replica	0	
+DISC-3487		Erafuzz Civil War - Silicon Fuzz Machine	0	
+DISC-3488		Erafuzz LeBasse - Silicon Bass Fuzz Machine	0	
+DISC-3489		Erafuzz Octavo Stone - Silicon Fuzz Octave Machine	0	
+DISC-3490		Erafuzz Rangemaster Duellum - Tone Booster	0	
+DISC-3491		Erafuzz Revolution - Silicon Fuzz Machine	0	
+DISC-3492		Erafuzz Sacred Resonance - Fuzz Fusion Machine	0	
+DISC-3493		Erafuzz The Grand Dragon - Silicon Fuzz Guitar Pedal	0	
+DISC-3494		Erafuzz The Italian V - 1966 Tone Bender Replica	0	
+DISC-3495		Ghost Effects Aston Community Center Treble Booster	0	
+DISC-3496		Ghost Effects Buzzaround	0	
+DISC-3497		Ghost Effects Dizzytone	0	
+DISC-3498		Ghost Effects Doom Bender MkI	0	
+DISC-3499		Ghost Effects FZ-1 Fuzz-Tone	0	
+DISC-3500		Ghost Effects Ghost Bender Mk1.5	0	
+DISC-3501		Ghost Effects Ghost Bender MkI	0	
+DISC-3502		Ghost Effects Ghost Bender MkII	0	
+DISC-3503		Ghost Effects Ghost Bender MkIII	0	
+DISC-3504		Ghost Effects Ghost Face	0	
+DISC-3505		Ghost Effects Harbinger	0	
+DISC-3506		Ghost Effects Lunar Incantation	0	
+DISC-3507		Ghost Effects Mind Rocker	0	
+DISC-3508		Ghost Effects Shin-Ei Companion Fuzz FY-2	0	
+DISC-3509		Ghost Effects Silicon Pep Box	0	
+DISC-3510		Ghost Effects Sounds Of Today	0	
+DISC-3511		Ghost Effects Treble Booster	0	
+DISC-3512		Ghost Effects Warmjet V	0	
+DISC-3513		Ghost Effects Zonk Machine	0	
+DISC-3601		British Pedal Company Rangemaster Varitone	0	
+DISC-3602		British Pedal Company BPC PepBox	0	
+DISC-3603		British Pedal Company MKI Tone Bender	0	
+DISC-3604		British Pedal Company MKI.5 Tone Bender	0	
+DISC-3605		British Pedal Company Professional MKII Tone Bender OC81D	0	
+DISC-3606		British Pedal Company Professional MKII Tone Bender OC75	0	
+DISC-3607		British Pedal Company Buzzaround	0	
+DISC-3608		British Pedal Company Zonk Machine	0	
+DISC-3609		British Pedal Company Shatterbox	0	
+DISC-3610		British Pedal Company Dallas Rangemaster	0	
+DISC-3611		British Pedal Company NOS Dallas Rangemaster	0	
+DISC-3612		British Pedal Company Compact Series BPC PEP BOX	0	
+DISC-3613		British Pedal Company Compact Series MKI Tone Bender	0	
+DISC-3614		British Pedal Company Compact Series MKII Tone Bender	0	
+DISC-3615		British Pedal Company Compact Series NOS Rangemaster	0	
+DISC-3616		British Pedal Company Compact Series Rangemaster	0	
+DISC-3617		British Pedal Company Compact Series Zonk Machine	0	
+DISC-3618		British Pedal Company Wooden Case Prototype MKI Tone Bender	0	
+DISC-3619		British Pedal Company Britsound MKIII Fuzz	0	
+DISC-3620		British Pedal Company Rangemaster Fuzzbug MKI.5	0	
+DISC-3621		British Pedal Company Rangemaster Fuzzbug MKII	0	
+DISC-3622		British Pedal Company MULLARD LOADED OC44 Dallas Rangemaster	0	
+DISC-3623		British Pedal Company MULLARD LOADED OC71 Dallas Rangemaster	0	
+DISC-3624		British Pedal Company Compact Series Dallas Brit Face Fuzz Black	0	
+DISC-3625		British Pedal Company Compact Series Dallas Brit Face Fuzz Silver	0	
+DISC-3626		British Pedal Company Special Edition King of Fuzz Tone Bender MKII	0	
+DISC-3627		British Pedal Company Lemon Boost	0	
+DISC-3628		British Pedal Company Special Edition Master Built MKI Tone Bender	0	
+DISC-3629		British Pedal Company BPC Blackface Overdrive Pedal	0	
+DISC-3630		British Pedal Company BPC Silverface Overdrive Pedal	0	
+DISC-3631		British Pedal Company Rory Gallagher Ltd Edition Relic Rangemaster	0	
+DISC-3632		Jerms FZ-1	0	
+DISC-3633		Jerms FZ-1A	0	
+DISC-3634		Jerms RightFuzz - Silicon Fuzzrite	0	
+DISC-3635		Jerms Tone Bender MkI	0	
+DISC-3636		Jerms Vox Tone Bender	0	
+DISC-3637		Anarchy Audio Australia Baa Bzz	0	
+DISC-3638		Anarchy Audio Australia Chaos Star	0	
+DISC-3639		Anarchy Audio Australia Deadwoods - Chainsaw Fuzz	0	
+DISC-3640		Anarchy Audio Australia Esquilax	0	
+DISC-3641		Anarchy Audio Australia Flutterby - Optical Tremolo	0	
+DISC-3642		Anarchy Audio Australia Gain of Tones	0	
+DISC-3643		Anarchy Audio Australia Gold Class - Overdrive	0	
+DISC-3644		Anarchy Audio Australia Hereafter	0	
+DISC-3645		Anarchy Audio Australia Reignmaker	0	
+DISC-3646		Anarchy Audio Australia Sentinel	0	
+DISC-3647		Anarchy Audio Australia Vagiant	0	
+DISC-3648		Ananashead FX 2399 Echo	0	
+DISC-3649		Ananashead FX 828 Fuzz	0	
+DISC-3650		Ananashead FX Blend Bass Drive	0	
+DISC-3651		Ananashead FX Bolt - Low Gain Overdrive	0	
+DISC-3652		Ananashead FX Byrd Song - Treble Booster	0	
+DISC-3653		Ananashead FX Cream Amp	0	
+DISC-3654		Ananashead FX DS308	0	
+DISC-3655		Ananashead FX Germanium Fuzz	0	
+DISC-3656		Ananashead FX Gray Drive	0	
+DISC-3657		Ananashead FX GT73	0	
+DISC-3658		Ananashead FX Main Fuzz	0	
+DISC-3659		Ananashead FX MARK1 - Tone Bender MkI	0	
+DISC-3660		Ananashead FX MARK2 - Tone Bender Professional MkII	0	
+DISC-3661		Ananashead FX MARK3 Tone Bender MkIII	0	
+DISC-3662		Ananashead FX Meteorite	0	
+DISC-3663		Ananashead FX Optotrem	0	
+DISC-3664		Ananashead FX Range Booster	0	
+DISC-3665		Ananashead FX Range Booster Silicon	0	
+DISC-3666		Ananashead FX Silicon Fuzz	0	
+DISC-3667		Ananashead FX Small Amp	0	
+DISC-3668		Ananashead FX Spirit Fuzz	0	
+DISC-3669		Ananashead FX Super Fuzz	0	
+DISC-3670		Ananashead FX Sustainer Circle Face + Boostdriver	0	
+DISC-3671		Ananashead FX Sustainer Civil War / Tall Font	0	
+DISC-3672		Ananashead FX Sustainer Opamp	0	
+DISC-3673		Ananashead FX Tweed Drive	0	
+DISC-3674		Ananashead FX V2 Superfuzz	0	
+DISC-3675		Ananashead FX Vega Booster	0	
+DISC-3676		Herald Electronics AM-44A Fuzz Master	0	
+DISC-3677		StoneFly Effects Grizzly Fuzz	0	
+DISC-3678		StoneFly Effects Stone Skull	0	
+DISC-3679		StoneFly Effects Two Headed Werewolf Fuzz	0	
+DISC-3701		Caroline Guitar Company Aaron Graves Overdrive	0	
+DISC-3702		Caroline Guitar Company Alpha Gain - Maximum Testostertone	0	
+DISC-3703		Caroline Guitar Company Alpha Gain II - Full Throttle	0	
+DISC-3704		Caroline Guitar Company Ambulance - Rescue Buffer	0	
+DISC-3705		Caroline Guitar Company Arigato - Phaser / Vibrato	0	
+DISC-3706		Caroline Guitar Company Canadian Bacon - Pizza Eh?	0	
+DISC-3707		Caroline Guitar Company Crom - The Riddle Of Steel	0	
+DISC-3708		Caroline Guitar Company Hawaiian Pizza - Sweet and Savory	0	
+DISC-3709		Caroline Guitar Company Haymaker - Dynamic Drive	0	
+DISC-3710		Caroline Guitar Company Icarus Boost	0	
+DISC-3711		Caroline Guitar Company Kilobyte - Lo-Fi Delay	0	
+DISC-3712		Caroline Guitar Company Kilobyte-2000 - Lo-Fi Delay with Tap Tempo and Effects Loop	0	
+DISC-3713		Caroline Guitar Company Megabyte - Lo-Fi Delay Computer	0	
+DISC-3714		Caroline Guitar Company Météore - Lo-Fi Reverb	0	
+DISC-3715		Caroline Guitar Company Olympia Fuzz	0	
+DISC-3716		Caroline Guitar Company Parabola - Solid State Tremolo	0	
+DISC-3717		Caroline Guitar Company Shigeharu - Germanium Octave	0	
+DISC-3718		Caroline Guitar Company Shigeharu Fuzz	0	
+DISC-3719		Caroline Guitar Company Shigeharu Mk II - IC Fuzz + Octave	0	
+DISC-3720		Caroline Guitar Company Somersault - Lo-Fi Modulator	0	
+DISC-3721		Caroline Guitar Company The Blues - Expensive Amplifier Overdrive	0	
+DISC-3722		Caroline Guitar Company Wave Cannon	0	
+DISC-3723		Caroline Guitar Company Wave Cannon MkII Superdistorter	0	
+DISC-3724		Caroline Guitar Company Wave Cannon Zero	0	
+DISC-3725		Rainger FX Colorsound Freakenbender - a Tone Bender by Rainger FX	0	
+DISC-3726		Rainger FX Air Space Invader	0	
+DISC-3727		Rainger FX Air Space Invader 2	0	
+DISC-3728		Rainger FX Air Traffic Controller	0	
+DISC-3729		Rainger FX Bleep Fuzz	0	
+DISC-3730		Rainger FX Break Box - Distortion	0	
+DISC-3731		Rainger FX Compactotron	0	
+DISC-3732		Rainger FX Deep Space Pulsar	0	
+DISC-3733		Rainger FX Dr. Freakenstein	0	
+DISC-3734		Rainger FX Dr. Freakenstein Bass	0	
+DISC-3735		Rainger FX Dr. Freakenstein Chop Fuzzz	0	
+DISC-3736		Rainger FX Dr. Freakenstein Dwarf Bass	0	
+DISC-3737		Rainger FX Dr. Freakenstein's Dwarf	0	
+DISC-3738		Rainger FX Drone Rainger - Digital Delay	0	
+DISC-3739		Rainger FX Echo-X - Digital Delay	0	
+DISC-3740		Rainger FX El Distorto	0	
+DISC-3741		Rainger FX Flanger-X	0	
+DISC-3742		Rainger FX Freakbass Alpha	0	
+DISC-3743		Rainger FX Igor Expression Pad	0	
+DISC-3744		Rainger FX Kil Switch	0	
+DISC-3745		Rainger FX Minibar - Liquid Analyser	0	
+DISC-3746		Rainger FX Minidrone	0	
+DISC-3747		Rainger FX Minor Concussion - Volume Dipper	0	
+DISC-3748		Rainger FX Pull Focus - Gated Distortion with Reverb / Chorus	0	
+DISC-3749		Rainger FX Razor Fuzz	0	
+DISC-3750		Rainger FX Reverb-X - Digital Reverb	0	
+DISC-3751		Rainger FX Snare Trap	0	
+DISC-3752		Rainger FX Son of Freakenstein	0	
+DISC-3753		Red Panda Bitcrusher	0	
+DISC-3754		Red Panda Bitmap	0	
+DISC-3755		Red Panda Bitmap 2 - Reduction And Modulation	0	
+DISC-3756		Red Panda Buffer	0	
+DISC-3757		Red Panda Context - Reverb	0	
+DISC-3758		Red Panda Context 2 - Reverb	0	
+DISC-3759		Red Panda Mixer	0	
+DISC-3760		Red Panda Particle - Granular Delay / Pitch	0	
+DISC-3761		Red Panda Particle 2 - Granular Delay / Pitch Shifter	0	
+DISC-3762		Red Panda Radius - Ring Modulator / Frequency Shifter	0	
+DISC-3763		Red Panda Raster	0	
+DISC-3764		Red Panda Raster 2 - Digital Delay / Pitch Shifter	0	
+DISC-3765		Red Panda RD-1 Pitch Delay	0	
+DISC-3766		Red Panda Subdivision	0	
+DISC-3767		Red Panda Tensor - Reverse/Tape Stop Effects	0	
+DISC-3768		Pladask Elektrisk Draume	0	
+DISC-3769		Pladask Elektrisk Vrang - Analog Distortion	0	
+DISC-3770		Pladask Elektrisk Baklengs - Granular Glitch Delay	0	
+DISC-3771		Pladask Elektrisk Flettverk - Experimental Touch-Plate Synth / Processor	0	
+DISC-3772		Pladask Elektrisk Feber - Ring / SSB / Phase / Tremolo Modulator	0	
+DISC-3773		Pladask Elektrisk Fabrikat - Granular Multi-Effect / Sample Playback Processor	0	
+DISC-3774		Pladask Elektrisk Stereo Blomar / Falma - Granular Pitch / Octave Shifter + Random Modulation	0	
+DISC-3775		Pladask Elektrisk Tåken - Arrhythmic Asynchronous Dual-Head Delay	0	
+DISC-3776		Pladask Elektrisk Etterslep - Granular / Tapped Delay Time Processor	0	
+DISC-3777		Pladask Elektrisk Romferd - Self-Modulation Chorus / Ambience	0	
+DISC-3778		drolo Lilac Cloud	0	
+DISC-3779		drolo Giant Hogweed Fuzz	0	
+DISC-3780		drolo Kiwami	0	
+DISC-3781		drolo Moon Rabbit	0	
+DISC-3782		drolo Molecular Disruption Device	0	
+DISC-3783		drolo Molecular Disruptor V3	0	
+DISC-3784		drolo Stamme[n]	0	
+DISC-3785		drolo Strands	0	
+DISC-3786		drolo Stretch Weaver	0	
+DISC-3787		drolo Twin Peaks Tremolo	0	
+DISC-3788		drolo Bipolar Bear	0	
+DISC-3789		drolo Iketara Iku	0	
+DISC-3790		JPTR FX Warlow - Fuzz Monstrosity	0	
+DISC-3791		JPTR FX Warlow mini	0	
+DISC-3792		JPTR FX ULTRA Warlow - Ultra Fuzz Monstrosity	0	
+DISC-3793		JPTR FX DELUXE Jive - Reel Saturator Overdrive	0	
+DISC-3794		JPTR FX DELUXE Jive - 10 YRS EDT	0	
+DISC-3795		JPTR FX Silvermachine - Dual-gain-stage Fuzz Pedal	0	
+DISC-3796		JPTR FX Katastrophe - Sludgefest Dominator Distortion Pre Amp	0	
+DISC-3797		JPTR FX MISPRINT KATASTROPHE	0	
+DISC-3798		JPTR FX Bleach - Seattle Guitar Destroyer	0	
+DISC-3799		JPTR FX Bleach - 10 YRS EDT	0	
+DISC-3800		JPTR FX Super Weirdo - Fuzz Modulator Pedal	0	
+DISC-3801		JPTR FX Super Weirdo - 10 YRS EDT	0	
+DISC-3802		JPTR FX High Voltage TITAN Boost	0	
+DISC-3803		JPTR FX TITAN 250	0	
+DISC-3804		JPTR FX TITAN 250 ALT VERSION	0	
+DISC-3805		JPTR FX Kaleidoscope ULTRA	0	
+DISC-3806		JPTR FX Kaleidoscope ULTRA - 10 YRS EDT	0	
+DISC-3807		JPTR FX Fernweh - Vintage-Voiced Dual Delay Pedal	0	
+DISC-3808		JPTR FX Fernweh - 10 YRS EDT	0	
+DISC-3809		JPTR FX / Orion Effekte Electro Booster	0	
+DISC-3801		Shin-Ei AF-17 Anti-Feedback System	0	
+DISC-3802		Shin-Ei CB-38 Cry Box	0	
+DISC-3803		Shin-Ei Distortion Wah	0	
+DISC-3804		Shin-Ei ER-23 Echo Reverb Master	0	
+DISC-3805		Shin-Ei ER-50 Electronic Echo	0	
+DISC-3806		Shin-Ei MB-27 Mute Box	0	
+DISC-3807		Shin-Ei ME-7 Multi-Effect Wah	0	
+DISC-3808		Shin-Ei OB-28 Octave Box	0	
+DISC-3809		Shin-Ei PT-18 Phase Tone	0	
+DISC-3810		Shin-Ei RM-23 Reverb Mixer	0	
+DISC-3811		Shin-Ei RM-29 Resly Machine	0	
+DISC-3812		Shin-Ei RT-18 Resly Tone	0	
+DISC-3813		Shin-Ei SC-34 Space Creator	0	
+DISC-3814		Shin-Ei Uni-Fuzz	0	
+DISC-3815		Shin-Ei Uni-Vibe	0	
+DISC-3816		Shin-Ei VC-15 Vibra Chorus	0	
+DISC-3817		Shin-Ei Wah King	0	
+DISC-3818		Shin-Ei Wah Wah (1969)	0	
+DISC-3819		Shin-Ei WF-24 Fuzz Wah Pedal	0	
+DISC-3820		Shin-Ei WT-2 Wah Wah	0	
+DISC-3821		Guya PF-201 Cry-Max Wau-Swell Pedal	0	
+DISC-3822		Guyatone AC-105 Power Supply	0	
+DISC-3823		Guyatone AC-2 Power Supply	0	
+DISC-3824		Guyatone CBu1 Cooler Booster	0	
+DISC-3825		Guyatone CC-1 Double Chorus	0	
+DISC-3826		Guyatone DD-1 Digital Delay	0	
+DISC-3827		Guyatone EM-606 Echo Chamber	0	
+DISC-3828		Guyatone EM-66 Echo Chamber	0	
+DISC-3829		Guyatone EM-77 Echo Chamber	0	
+DISC-3830		Guyatone EM-78 Echo Chamber	0	
+DISC-3831		Guyatone EM-808 Echo Machine - Long Life Tape Echo	0	
+DISC-3832		Guyatone EM-808D Echo Machine - Long Life Tape Echo	0	
+DISC-3833		Guyatone EM-88 Echo Chamber	0	
+DISC-3834		Guyatone FR-3000V Tube Drive Reverb	0	
+DISC-3835		Guyatone FZ-2000 Fuzz	0	
+DISC-3836		Guyatone GPX-5 Guitar Pickup Amplifier	0	
+DISC-3837		Guyatone GST-C04 Ultrem Optical Tremolo	0	
+DISC-3838		Guyatone GST-U05 Ultron Optical Auto Wah	0	
+DISC-3839		Guyatone PB-3 Loop Gang - AB Parallel Box	0	
+DISC-3840		Guyatone RTE-3000 Tape Echo	0	
+DISC-3841		Guyatone TD-1 Tube Distortion	0	
+DISC-3842		Guyatone TE-20 Tape Echo	0	
+DISC-3843		Guyatone TO-2 Tube Overdrive	0	
+DISC-3844		Guyatone WR6 Wah Rocker - Auto Wah	0	
+DISC-3845		Guyatone Zoom Box (reissue)	0	
+DISC-3846		HIP (by Guyatone) HTD-1 Tube Distortion	0	
+DISC-3847		Jen Cosmic Sound	0	
+DISC-3848		Jen Crier	0	
+DISC-3849		Jen Cry Baby	0	
+DISC-3850		Jen Double Sound	0	
+DISC-3851		Jen FZ-III Fuzz	0	
+DISC-3852		Jen GS-3000 Syntar	0	
+DISC-3853		Jen Mister Cry Baby	0	
+DISC-3854		Jen Super Cry Baby	0	
+DISC-3855		Jen Super Double Sound	0	
+DISC-3856		Jen Super Mister Cry Baby	0	
+DISC-3857		Jen TD-1 Platinum Drive	0	
+DISC-3858		Jen Variospectra	0	
+DISC-3859		Jen Volume	0	
+DISC-3860		Univox (by fOXX) Fuzz & Wa & Volume	0	
+DISC-3861		Univox (by fOXX) Wa & Volume	0	
+DISC-3862		Univox CO-105 Uni-Comp	0	
+DISC-3863		Univox EC-100 Echo Chamber	0	
+DISC-3864		Univox EC-80A Echo Chamber	0	
+DISC-3865		Univox EM-200 Echo-Tech	0	
+DISC-3866		Univox EX-110 Noise Clamp	0	
+DISC-3867		Univox FCM-41 Micro-41 4 Channel Mixer	0	
+DISC-3868		Univox FL-1000 Flanger/Delay	0	
+DISC-3869		Univox MR-12 Micro Rhythmer 12	0	
+DISC-3870		Univox MR-8 Micro Rhythmer	0	
+DISC-3871		Univox MU-1000 Effectmatic	0	
+DISC-3872		Univox MU-1500 Funky Filter	0	
+DISC-3873		Univox PHZ II Micro Fazer	0	
+DISC-3874		Univox PHZ-1 Phazer	0	
+DISC-3875		Univox SQ-150 Square Wave	0	
+DISC-3876		Univox U-1095 Super-Fuzz	0	
+DISC-3877		Univox U-250 Uni-Fuzz	0	
+DISC-3878		Univox U-915 Uni-Vibe	0	
+DISC-3879		Univox U3R Pro Verb	0	
+DISC-3880		Univox UD-50 Uni-Drive - Volume Harmonic Booster	0	
+DISC-3881		Univox UEQ-1 Graphic Equalizer / Reverberation	0	
+DISC-3882		Univox UEQ-2 Equalizer	0	
+DISC-3883		Univox UEQ-375 Impersonator	0	
+DISC-3884		Univox UTR-5 Uni-Tron 5	0	
+DISC-3885		Univox UW-2 Uni-Wah	0	
+DISC-3886		Maxon Apex808 Overdrive	0	
+DISC-3887		Maxon GA-10 Micro Teacher Mini Amp	0	
+DISC-3888		Maxon MB-10 Bass Booster	1	Wikimedia Commons
+DISC-3889		Maxon MB-20 Power Booster	0	
+DISC-3890		Maxon MB-30 Treble Booster	0	
+DISC-3891		Maxon MB-40 Distortion Booster	0	
+DISC-3892		Maxon SE-600 Final Echo	0	
+DISC-3893		Maxon UE-300 Multi-Effects	0	
+DISC-3901		Mad Professor "1" - Reverb/Distortion	0	
+DISC-3902		Mad Professor Amber Overdrive	0	
+DISC-3903		Mad Professor Big Tweedy Drive	0	
+DISC-3904		Mad Professor BlueBerry Bass Overdrive	0	
+DISC-3905		Mad Professor Bluebird Overdrive/Delay	0	
+DISC-3906		Mad Professor Deep Blue Delay	0	
+DISC-3907		Mad Professor Deep Blue Delay Deluxe	0	
+DISC-3908		Mad Professor Double Moon - Chorus / Flanger / Vibrato	0	
+DISC-3909		Mad Professor Dual Blue Delay	0	
+DISC-3910		Mad Professor Electric Blue Chorus	0	
+DISC-3911		Mad Professor Evolution Orange Underdrive	0	
+DISC-3912		Mad Professor Fire Red Fuzz	0	
+DISC-3913		Mad Professor Forest Green Compressor	0	
+DISC-3914		Mad Professor Fuzz32	0	
+DISC-3915		Mad Professor Golden Cello	0	
+DISC-3916		Mad Professor Kosmos - Ambient Reverbs & Delays	0	
+DISC-3917		Mad Professor Little Green Wonder	0	
+DISC-3918		Mad Professor Little Tweedy Drive	0	
+DISC-3919		Mad Professor Loud 'n Proud	0	
+DISC-3920		Mad Professor Mellow Yellow Tremolo	0	
+DISC-3921		Mad Professor Mighty Red Distortion	0	
+DISC-3922		Mad Professor Royal Blue Overdrive	0	
+DISC-3923		Mad Professor Ruby Red Booster	0	
+DISC-3924		Mad Professor Silver Spring Reverb	0	
+DISC-3925		Mad Professor Simble Mk2 - Overdrive	0	
+DISC-3926		Mad Professor Sky Blue Overdrive	0	
+DISC-3927		Mad Professor Snow White Auto Wah	0	
+DISC-3928		Mad Professor Snow White Bass Auto Wah	0	
+DISC-3929		Mad Professor Stone Grey Distortion	0	
+DISC-3930		Mad Professor Super Black - Preamp / Overdrive	0	
+DISC-3931		Mad Professor Super Black Mini - Preamp / Overdrive	0	
+DISC-3932		Mad Professor Supreme - Dual Channel Overdrive	0	
+DISC-3933		Mad Professor Sweet Honey Deluxe Overdrive	0	
+DISC-3934		Mad Professor Sweet Honey Overdrive	0	
+DISC-3935		Mad Professor Tiny Orange Phaser	0	
+DISC-3936		Bearfoot FX Arctic White Fuzz	0	
+DISC-3937		Bearfoot FX Baby Pink Booster	0	
+DISC-3938		Bearfoot FX BlueBerry Bass Overdrive	0	
+DISC-3939		Bearfoot FX Burgundy Bosshorn Fuzz	0	
+DISC-3940		Bearfoot FX Candiru Apple Fuzz - Silicon Gated Fuzz	0	
+DISC-3941		Bearfoot FX Candy Apple Fuzz	0	
+DISC-3942		Bearfoot FX Dyna Red Distortion	0	
+DISC-3943		Bearfoot FX Dyna Red Hot Distortion	0	
+DISC-3944		Bearfoot FX Emerald Green Distortion Machine	0	
+DISC-3945		Bearfoot FX Ever Green Compressor	0	
+DISC-3946		Bearfoot FX Gated Apple Fuzz	0	
+DISC-3947		Bearfoot FX Gnarwahl Fuzz +	0	
+DISC-3948		Bearfoot FX Honey Bee Overdrive	0	
+DISC-3949		Bearfoot FX Honey Beest Overdrive	0	
+DISC-3950		Bearfoot FX Little Red Trebler	0	
+DISC-3951		Bearfoot FX Mint Green Mini Vibe	0	
+DISC-3952		Bearfoot FX Model G	0	
+DISC-3953		Bearfoot FX Model H	0	
+DISC-3954		Bearfoot FX Model Hs	0	
+DISC-3955		Bearfoot FX Pale Green Compressor	0	
+DISC-3956		Bearfoot FX Pink Purple Fuzz	0	
+DISC-3957		Bearfoot FX Red Rooster Booster	0	
+DISC-3958		Bearfoot FX Sea Blue EQ	0	
+DISC-3959		Bearfoot FX Sparkling Yellow OD 1	0	
+DISC-3960		Bearfoot FX Sparkling Yellow OD 2	0	
+DISC-3961		Bearfoot FX Sparkling Yellow OD 3	0	
+DISC-3962		Bearfoot FX Uber Bee OD	0	
+DISC-3963		One Control (designed by BJF) Anodized Brown Distortion	0	
+DISC-3964		One Control (designed by BJF) Baby Blue OD	0	
+DISC-3965		One Control (designed by BJF) Baltic Blue Fuzz	0	
+DISC-3966		One Control (designed by BJF) BJF Buffer	0	
+DISC-3967		One Control (designed by BJF) Butter Yellow Auto Quack - Envelope Filter	0	
+DISC-3968		One Control (designed by BJF) Cranberry OverDrive	0	
+DISC-3969		One Control (designed by BJF) Crimson Red Bass Preamp	0	
+DISC-3970		One Control (designed by BJF) Dimension Blue Monger	0	
+DISC-3971		One Control (designed by BJF) Fluorescent Orange Amp In A Box	0	
+DISC-3972		One Control (designed by BJF) Golden Acorn Overdrive Special	0	
+DISC-3973		One Control (designed by BJF) Granith Grey Booster	0	
+DISC-3974		One Control (designed by BJF) Honey Bee OD	0	
+DISC-3975		One Control (designed by BJF) Hooker's Green Bass Machine	0	
+DISC-3976		One Control (designed by BJF) Lemon Yellow Compressor	0	
+DISC-3977		One Control (designed by BJF) Lingonberry OverDrive	0	
+DISC-3978		One Control (designed by BJF) Little Copper Chorus	0	
+DISC-3979		One Control (designed by BJF) Little Green Emphaser	0	
+DISC-3980		One Control (designed by BJF) Marigold Orange OverDrive	0	
+DISC-3981		One Control (designed by BJF) Persian Green Screamer	0	
+DISC-3982		One Control (designed by BJF) Prussian Blue Reverb	0	
+DISC-3983		One Control (designed by BJF) Purple Humper - Midrange Booster	0	
+DISC-3984		One Control (designed by BJF) Purple Plexifier	0	
+DISC-3985		One Control (designed by BJF) Rocket Grey Fuzz	0	
+DISC-3986		One Control (designed by BJF) Sea Turquoise Delay	0	
+DISC-3987		One Control (designed by BJF) Sonic Blue Twanger	0	
+DISC-3988		One Control (designed by BJF) Sonic Silver Peg - SVT Amplifier Emulator	0	
+DISC-3989		One Control (designed by BJF) Strawberry Red Over Drive	0	
+DISC-3990		One Control (designed by BJF) Super Apricot OD	0	
+DISC-3991		One Control (designed by BJF) Tiger Lily Tremolo	0	
+DISC-3992		One Control (Minimal series) 1LoopBox	0	
+DISC-3993		One Control (Minimal series) AB Box	0	
+DISC-3994		One Control (Minimal series) BJF Buffer Split	0	
+DISC-3995		One Control AB Box with 2 DC Out	0	
+DISC-3996		One Control Black Loop - 2LOOP with 2DC OUT	0	
+DISC-3997		One Control Chamaeleo Tail Loop - 4Programmable & 4Loop with Tuner Out	0	
+DISC-3998		One Control Iguana Tail Loop - 5loop with Tuner Out	0	
+DISC-3999		One Control Iguana Tail Loop 2 - 5loop with Tuner Out	0	
+DISC-4000		One Control Komodo Dragon Tail Loop	0	
+DISC-4001		One Control Micro Distro - Tiny Power Distributor	0	
+DISC-4002		One Control Mosquite Blender	0	
+DISC-4003		One Control Mosquite Blender Expressio with BJF Buffer	0	
+DISC-4004		One Control OC10 Crocodile Tail Loop	0	
+DISC-4005		One Control OC6 Caiman Tail Loop	0	
+DISC-4006		One Control Pedal Board Junction Box	0	
+DISC-4007		One Control Rebel Red Distortion	0	
+DISC-4008		One Control Silver Bee OD	0	
+DISC-4009		One Control Viviparous Tail Loop	0	
+DISC-4010		One Control White Loop - Flash Loop with 2 DC Out	0	
+DISC-4011		One Control Xenagama Tail Loop - 3Loop with Tuner Out	0	
+DISC-4012		One Control Xenagama Tail Loop 2 - 3Loop with Tuner Out	0	
+DISC-4013		One Control Zephyren - Booster	0	
+DISC-4014		One Control Zephyren - Plexifier	0	
+DISC-4015		One Control Zephyren Reverb	0	
+DISC-4016		Spaceman Aphelion - Harmonic Overdrive	0	
+DISC-4017		Spaceman Apollo VII - Overdrive	0	
+DISC-4018		Spaceman Apollo VIIb Overdrive	0	
+DISC-4019		Spaceman Artemis - Modulated Filter	0	
+DISC-4020		Spaceman Atlas III - Preamp Booster	0	
+DISC-4021		Spaceman Atlas IV - Preamp Booster	0	
+DISC-4022		Spaceman Aurora - Flanger	0	
+DISC-4023		Spaceman Charon - Germanium-Silicon Hybrid Fuzz	0	
+DISC-4024		Spaceman Cosmic Call - Galactic Transmitter	0	
+DISC-4025		Spaceman Delta II - Harmonic Tremolo	0	
+DISC-4026		Spaceman Equinox - EQ	0	
+DISC-4027		Spaceman Explorer - 6-Stage Phaser	0	
+DISC-4028		Spaceman Explorer Deluxe - 6 Stage Optical Phaser	0	
+DISC-4029		Spaceman Gemini III - Dual Fuzz Generator	0	
+DISC-4030		Spaceman Gemini IV - Dual Fuzz Generator	0	
+DISC-4031		Spaceman Ixion - Optical Compressor	0	
+DISC-4032		Spaceman Mercury III - Harmonic Boost	0	
+DISC-4033		Spaceman Mercury IV - Germanium Harmonic Boost	0	
+DISC-4034		Spaceman Meridian - Time Modulator	0	
+DISC-4035		Spaceman Mission Control - Expressive Audio System	0	
+DISC-4036		Spaceman Nebula - Fuzz/Octave Blender	0	
+DISC-4037		Spaceman Orion - Analog Spring Reverb	0	
+DISC-4038		Spaceman Polaris - Resonant Overdrive	0	
+DISC-4039		Spaceman PX250 - Passive Signal Selector	0	
+DISC-4040		Spaceman Redstone - Germanium Preamp	0	
+DISC-4041		Spaceman Rumblefuzz	0	
+DISC-4042		Spaceman Rumblefuzz II	0	
+DISC-4043		Spaceman Saturn V - Harmonic Booster	0	
+DISC-4044		Spaceman Saturn VI - Harmonic Booster	0	
+DISC-4045		Spaceman Sonic Void	0	
+DISC-4046		Spaceman Spacerocket - Intermodulation Octave Fuzz	0	
+DISC-4047		Spaceman Spacerocket II - Octave Fuzz	0	
+DISC-4048		Spaceman Sputnik	0	
+DISC-4049		Spaceman Sputnik I - Silicon Fuzz	0	
+DISC-4050		Spaceman Sputnik II - Deluxe Germanium Fuzz	0	
+DISC-4051		Spaceman Sputnik IIb - Deluxe Germanium Fuzz	0	
+DISC-4052		Spaceman Sputnik III - Germanium Fuzz	0	
+DISC-4053		Spaceman Titan II - Fuzz Machine	0	
+DISC-4054		Spaceman Top Secret Fuzz	0	
+DISC-4055		Spaceman Voyager 1 - Optical Analog Tremolo	0	
+DISC-4056		Spaceman Voyager II - Optical Tremolo	0	
+DISC-4057		Spaceman Wow Signal - Alien Fuzz Communicator	0	
+DISC-4058		Foxpedal Defector - Fuzz + Boost	0	
+DISC-4059		Foxpedal Ebenezer - Clean MOSFET Boost	0	
+DISC-4060		Foxpedal Foxtail - Articulate Overdrive	0	
+DISC-4061		Foxpedal K-Buffer	0	
+DISC-4062		Foxpedal Killface - Bass Overdrive	0	
+DISC-4063		Foxpedal Kingdom Combo	0	
+DISC-4064		Foxpedal Kingdom Combo V2	0	
+DISC-4065		Foxpedal Magnifica Reverb	0	
+DISC-4066		Foxpedal Magnifica Reverb Deluxe	0	
+DISC-4067		Foxpedal Magnifica Reverb Plus	0	
+DISC-4068		Foxpedal Novaplex - Delay	0	
+DISC-4069		Foxpedal Quiver - Harmonic Tremolo	0	
+DISC-4070		Foxpedal Refinery - Compressor	0	
+DISC-4071		Foxpedal Slow Hound - Creamy Overdrive / Solo Boost	0	
+DISC-4072		Foxpedal The City - TS-Style Overdrive	0	
+DISC-4073		Foxpedal The City V2 - Drive + Boost	0	
+DISC-4074		Foxpedal The Kingdom - Transparent Overdrive	0	
+DISC-4075		Foxpedal The Wave - Dual Delay / Reverb / Modulation	0	
+DISC-4076		Foxpedal Vixen - Dimensional Overdrive	0	
+DISC-4077		Foxpedal Wave SE	0	
+DISC-4078		Foxpedal Wrath - Distortion	0	
+DISC-4079		Stomp Under Foot (Vintage series) Green Russian	0	
+DISC-4080		Stomp Under Foot / Black Book Fuzz Honey	0	
+DISC-4081		Stomp Under Foot Alabaster Fuzz	0	
+DISC-4082		Stomp Under Foot Civil Unrest	0	
+DISC-4083		Stomp Under Foot Cosmonaut	0	
+DISC-4084		Stomp Under Foot Demogorgon	0	
+DISC-4085		Stomp Under Foot Dire Wolf	0	
+DISC-4086		Stomp Under Foot Dirt Preacher	0	
+DISC-4087		Stomp Under Foot Dirty Rooster	0	
+DISC-4088		Stomp Under Foot Elk Big Mag Sustainar	0	
+DISC-4089		Stomp Under Foot Full Powered Halo	0	
+DISC-4090		Stomp Under Foot Greasy Creek Fuzz Machine	0	
+DISC-4091		Stomp Under Foot Halo Bender	0	
+DISC-4092		Stomp Under Foot Hellephant	0	
+DISC-4093		Stomp Under Foot Mean Green Machine	0	
+DISC-4094		Stomp Under Foot Mountain Goat	0	
+DISC-4095		Stomp Under Foot Mud Creek - Dual Fuzz Machine	0	
+DISC-4096		Stomp Under Foot Rhinosaur	0	
+DISC-4097		Stomp Under Foot Screaming Panda	0	
+DISC-4098		Stomp Under Foot Serenity Overdrive	0	
+DISC-4099		Stomp Under Foot Silver Foxx	0	
+DISC-4100		Stomp Under Foot Skinner Box	0	
+DISC-4101		Stomp Under Foot Son Of A Bee	0	
+DISC-4102		Stomp Under Foot Sonic Generator	0	
+DISC-4103		Stomp Under Foot Sonic Warfare	0	
+DISC-4104		Stomp Under Foot Supa Dirty Rooster	0	
+DISC-4105		Stomp Under Foot The Shag MkII - Germanium Tone Bender	0	
+DISC-4106		Stomp Under Foot The Shag MkIII - Tone Bender	0	
+DISC-4107		Stomp Under Foot Vintage Pumpkin Pi	0	
+DISC-4108		Stomp Under Foot Windhand Fuzz	0	
+DISC-4109		BJFE Arctic White Fuzz	0	
+DISC-4110		BJFE Baby Blue Overdrive	0	
+DISC-4111		BJFE Baby Pink Booster	0	
+DISC-4112		BJFE Bone Bender MkI	0	
+DISC-4113		BJFE Bone Bender MkII	0	
+DISC-4114		BJFE Candy Apple Fuzz	0	
+DISC-4115		BJFE Dyna Red Distortion	0	
+DISC-4116		BJFE Emerald Green Distortion Machine	0	
+DISC-4117		BJFE Face 109 Fuzz	0	
+DISC-4118		BJFE Fuzz 68	0	
+DISC-4119		BJFE Honey Bee Overdrive	0	
+DISC-4120		BJFE Little Green Emphaser	0	
+DISC-4121		BJFE Little Green Wonder Overdrive	0	
+DISC-4122		BJFE Little Red Trebler	0	
+DISC-4123		BJFE Mint Green Mini Vibe	0	
+DISC-4124		BJFE Model D	0	
+DISC-4125		BJFE Model G	3	Wikimedia Commons
+DISC-4126		BJFE Model H	0	
+DISC-4127		BJFE Model R	0	
+DISC-4128		BJFE Pale Green Compressor	0	
+DISC-4129		BJFE Payphone Green Overdrive Distortion	0	
+DISC-4130		BJFE Pine Green Compressor	0	
+DISC-4131		BJFE Pink Purple Fuzz	0	
+DISC-4132		BJFE Red Rooster Booster	0	
+DISC-4133		BJFE Sea Blue EQ	0	
+DISC-4134		BJFE Silver Lawn Overdrive	0	
+DISC-4135		BJFE Snow White Fuzz	0	
+DISC-4136		BJFE Sparkle Face	0	
+DISC-4137		BJFE Square Wave	0	
+DISC-4138		BJFE VCF	0	
+DISC-4139		Pause&Effects Aeras - Bass Octave Fuzz	0	
+DISC-4140		Pause&Effects Camping de Luxe	0	
+DISC-4141		Pause&Effects Camping Record	0	
+DISC-4142		Pause&Effects Dahlia - Germanium Tone Bender MKII Fuzz	0	
+DISC-4143		Pause&Effects Delaney - Germanium Treble Booster	0	
+DISC-4144		Pause&Effects Farmako - Germanium Tone Bender MK1.5 Fuzz	0	
+DISC-4145		Pause&Effects Faros - Silicon Fuzz Face	0	
+DISC-4146		Pause&Effects Fengari - Germanium Tone Bender MKII Fuzz	0	
+DISC-4147		Pause&Effects Feta - Germanium Vox Tone Bender V828 Fuzz	0	
+DISC-4148		Pause&Effects Filos - Germanium Tone Bender MKIII Fuzz	0	
+DISC-4149		Pause&Effects Helium - Octave Fuzz	0	
+DISC-4150		Pause&Effects Ichos - Power Boost / Overdriver	0	
+DISC-4151		Pause&Effects Micro - Marshall Bluesbreaker MKI	0	
+DISC-4152		Pause&Effects Orionton (Terta version)	0	
+DISC-4153		Pause&Effects Orionton (Videoton version)	0	
+DISC-4154		Pause&Effects Psychi - Germanium clipping distortion	0	
+DISC-4155		Pause&Effects Rio - Germanium Treble Booster	0	
+DISC-4156		Pause&Effects Strand	0	
+DISC-4157		Pause&Effects Thalassa - Germanium Clipping Overdrive	0	
+DISC-4158		Pause&Effects Yefira - Germanium overdrive	0	
+DISC-4159		Pause&Effects Leah - Modded Germanium Fuzz Face	0	
+DISC-4160		Pause&Effects Farmako - Germanium Tone Bender MK1.5 Fuzz (B-stock/variant)	0	
+DISC-4161		Pause&Effects Aeras - Octave/Bass Fuzz (red enclosure one-off)	0	
+DISC-4162		Tonecat BlankSlate Overdrive	0	
+DISC-4163		Tonecat Claw & Order - Mini Overdrive	0	
+DISC-4164		Ace Tone EC-1 Echo Chamber	0	
+DISC-4165		Ace Tone EC-10 Professional Echo - Echo Chamber	0	
+DISC-4166		Ace Tone EC-20 Echo Chamber	0	
+DISC-4167		Ace Tone EXP-4 Expander	0	
+DISC-4168		Ace Tone FM-1 Fuzz Master	0	
+DISC-4169		Ace Tone FM-2 Fuzz Master	0	
+DISC-4170		Ace Tone FM-3 Fuzz Master	0	
+DISC-4171		Ace Tone FW-1 Twin Ace	0	
+DISC-4172		Ace Tone LH-100 Stereo Phasor	0	
+DISC-4173		Ace Tone QH-100 Graphic Equalizer	0	
+DISC-4174		Ace Tone WM-1 Wah Master	0	
+DISC-4175		Dazatronyx Class A Germanium Amplifier	0	
+DISC-4176		Dazatronyx Effects Loop	0	
+DISC-4177		Dazatronyx Fetish Booster	0	
+DISC-4178		Dazatronyx Fetish Buffer	0	
+DISC-4179		Dazatronyx Germanium Fuzz	0	
+DISC-4180		Dazatronyx Optical Tremolo	0	
+DISC-4181		Dazatronyx Professor Boogie	0	
+DISC-4182		Dazatronyx Stereo Panning Optical Tremolo	0	
+DISC-4183		Dazatronyx THD Metal Distortion & Hybrid Germanium Fuzz	0	
+DISC-4184		Dazatronyx Tsuchi Fuzz	0	
+DISC-4185		Dazatronyx TSX Overdrive	0	
+DISC-4186		L.A.L. 45 Yongo Shiki Kebadate Hizumaseki Super Fuzz	0	
+DISC-4187		L.A.L. 46 Yontuku Shiki Kebadate Hizumaseki Sooper Fuzz	0	
+DISC-4188		L.A.L. 86 Hachiroku Shiki Kebadate Hizumaseki Oscillo Fuzz	0	
+DISC-4189		L.A.L. 87 Hachinana Shiki Kebadate Hizumaseki Moduloscillo Fuzz	0	
+DISC-4190		L.A.L. 88 Hachihachi Shiki Kebadate Hizumaseki Super Oscillo Fuzz	0	
+DISC-4191		L.A.L. AN Angel Ring - Clean Boost	0	
+DISC-4192		L.A.L. AX Tone Axe - Frequency Divider + Manual Jetlizer & Fuzz w/ Gate	0	
+DISC-4193		L.A.L. CP Cyber Psychic Parametric Oscillo Filter	0	
+DISC-4194		L.A.L. DV Devil Tail - Deathtortion	0	
+DISC-4195		L.A.L. GM Green Monster Septic Fuzz	0	
+DISC-4196		L.A.L. GM2 Green Monster Septic Fuzz	0	
+DISC-4197		L.A.L. GMR Gomorrah - Input Sensitive Subharmonic Fuzz	0	
+DISC-4198		L.A.L. Lluna Oscillo Fuzz Drive with Voltage Dropper	0	
+DISC-4199		L.A.L. MC Misty Cave - Analog Resonance Echo	0	
+DISC-4200		L.A.L. MNP2 Multi Noise Processor 2	0	
+DISC-4201		L.A.L. OC Octavella - Upper Octave Feedback Fuzz	0	
+DISC-4202		L.A.L. RC Rattle Crow Restive Filter	0	
+DISC-4203		L.A.L. RP Ripplet Input Sensitive Tremolo	0	
+DISC-4204		L.A.L. SKR 1950's Japanese Sakura Booster	0	
+DISC-4205		L.A.L. SPK Sick Pitch King	0	
+DISC-4206		L.A.L. SPK2 Sick Pitch King Jr. - Oscillo Ring Modulator	0	
+DISC-4207		L.A.L. SS Sandstorm - Envelope Noise Generator	0	
+DISC-4208		L.A.L. ST Steroid O.D. - Overload Unit	0	
+DISC-4209		L.A.L. TB Thunder Box Donsharizer	0	
+DISC-4210		L.A.L. TH Theremin	0	
+DISC-4211		L.A.L. TP Toxic Plant - Disharmonic Distortion	0	
+DISC-4212		Lastgasp Art Laboratories FLK Flikrrr - Flickering Tremolo	0	
+DISC-4213		A.Y.A Bass Fuzz	0	
+DISC-4214		A.Y.A BM-Fuzz 70	0	
+DISC-4215		A.Y.A BM-Fuzz 80	0	
+DISC-4216		A.Y.A Drivesta	0	
+DISC-4217		A.Y.A Frontgate Bass Drive	0	
+DISC-4218		A.Y.A R-Comp	0	
+DISC-4219		A.Y.A Warm Chorus	0	
+DISC-4220		Kink Guitar Pedals Absolution Fuzz	0	
+DISC-4221		Kink Guitar Pedals Charlie Fuzz	0	
+DISC-4222		Kink Guitar Pedals Defender Of The Hate+	0	
+DISC-4223		Kink Guitar Pedals Femtaur	0	
+DISC-4224		Kink Guitar Pedals Oath Of The Goat	0	
+DISC-4225		Kink Guitar Pedals Politically Correct Boost	0	
+DISC-4226		Kink Guitar Pedals Straya Drive	0	
+DISC-4227		Kink Guitar Pedals Trem-endous Gain v1	0	
+DISC-4228		Honey Baby Crying	0	
+DISC-4229		Honey Special Fuzz	0	
+DISC-4230		Honey HA-9P Super Effect	0	
+DISC-4231		Honey Psychedelic Machine	0	
+DISC-4232		Sekova 6-Tr Fuzz-Wah	0	
+DISC-4233		Sekova Model No. 59 Distortion Box	0	
+DISC-4234		Sekova Model No. 89 Super Effect	0	
+DISC-4235		Sekova Model No. 99 Deluxe Alternado Fuzz Tone Expander Unit	0	
+DISC-4236		Sekova Octave Box	0	
+DISC-4237		Sekova SE-2001 Power Booster	0	
+DISC-4238		Sekova SE-2002 Power Booster	0	
+DISC-4239		Sekova SE-2003 Bizzy Bass Booster	0	
+DISC-4240		Sekova SE-2005 Tinny Treble Booster	0	
+DISC-4241		Sekova SE-2006 Tinny Treble Booster	0	
+DISC-4242		Sekova SE-2007 Microphone Booster	0	
+DISC-4243		Sekova SE-2008 Frizzy Fuzz	0	
+DISC-4244		Sekova SE-2009 Frizzy Fuzz	0	
+DISC-4245		Sekova SE-2011 Bass Booster	0	
+DISC-4246		Sekova SE-2012 Treble Booster	0	
+DISC-4247		Sekova SE-2013 Power Booster	0	
+DISC-4248		Sekova SE-2014 Fuzz	0	
+DISC-4249		Sekova SE-2015 Big Muff	0	
+DISC-4250		Sekova Sweep PH-II Phase Shifter	0	
+DISC-4251		Sekova Wah Wah	0	
+DISC-4252		Greco Blubber Crying Baby Machine	0	
+DISC-4253		Greco Crier	0	
+DISC-4254		Greco Cry-Tone	0	
+DISC-4255		Greco Double Sound	0	
+DISC-4256		Greco HA-9P Super Effect	0	
+DISC-4257		Greco Mr. Crier	0	
+DISC-4258		Greco no. 35 Haztone - Fuzz Booster	0	
+DISC-4259		Greco PT-900 Phase Tone	0	
+DISC-4260		Greco PT-950 Pedal Phaser	0	
+DISC-4261		Greco SD-100 Fuzz	0	
+DISC-4262		Pearl AD-08 Analog Delay	0	
+DISC-4263		Pearl CH-02 Chorus	0	
+DISC-4264		Pearl CO-04 Compressor	0	
+DISC-4265		Pearl DS-06 Distortion	0	
+DISC-4266		Pearl FG-01 Flanger	0	
+DISC-4267		Pearl GE-09 9 Band Graphic EQ	0	
+DISC-4268		Pearl OC-07 Octaver	0	
+DISC-4269		Pearl OD-05 Overdrive	0	
+DISC-4270		Pearl PE-10 Dual Band Parametric Equalizer	0	
+DISC-4271		Pearl PH-03 Phaser	0	
+DISC-4272		Pearl SU-19 Stereo Noise Suppressor	0	
+DISC-4273		Pearl TH-20 Thriller	0	
+DISC-4274		Pearl AD-33 Analog Delay	0	
+DISC-4275		Pearl CE-22 Chorus Ensemble	0	
+DISC-4276		Pearl PH-44 Phaser	0	
+DISC-4277		Ideal Fuzz Master	0	
+DISC-4278		Elk Big Muff Sustainar	0	
+DISC-4279		Elk EM-10 Echo Chamber	0	
+DISC-4280		Elk EM-11 Professional Echo - Echo Machine	0	
+DISC-4281		Elk EM-3 Echo Machine	0	
+DISC-4282		Elk EM-4 Echo Machine	0	
+DISC-4283		Elk EM-5 Echo Chamber	0	
+DISC-4284		Elk ES-960 Super Fuzz Sustainar	0	
+DISC-4285		Elk SFS-1 Super Fuzz Sustainar (reissue)	0	
+DISC-4286		Elk Twin-Tone 250 Delay Machine	0	
+DISC-4287		Elk WF-1100 Wau Fuzz	0	
+DISC-4288		Elk WS-1400 Wau & Sustainer	0	
+DISC-4289		Teisco Boost	0	
+DISC-4290		Teisco Delay	0	
+DISC-4291		Teisco Distortion	0	
+DISC-4292		Teisco Fuzz	0	
+DISC-4293		Teisco Fuzz Machine	0	
+DISC-4294		Teisco Interface Pedal	0	
+DISC-4295		Teisco Overdrive	0	
+DISC-4296		Teisco SR-73 Sound Repeater	0	
+DISC-4297		Teisco SR-74 Sound Repeater	0	
+DISC-4298		Teisco TF-1 Fuzz	0	
+DISC-4299		Teisco TW-1 Wah Wah	0	
+DISC-4300		Teisco Wau Wau Fuzz	0	
+DISC-4301		Aria ADD-100 Digital Delay	0	
+DISC-4302		Aria AQT-25 Chromatic Auto Tuner	0	
+DISC-4303		Aria ATM-1 Multi Effect with Wah Pedal	0	
+DISC-4304		Aria AVP-100 Mono Volume Pedal	0	
+DISC-4305		Aria AVP-100 Stereo Volume Pedal	0	
+DISC-4306		Aria AWP-1 Wah Pedal	0	
+DISC-4307		Aria AWP-100 Wah-Pedal	0	
+DISC-4308		Aria AWV-100 Wah-Volume	0	
+DISC-4309		Aria Cruncher	0	
+DISC-4310		Aria EM-30 Echo Chamber	0	
+DISC-4311		Aria EM-35 Echo Chamber	0	
+DISC-4312		Aria EQ-500 Graphic Equalizer	0	
+DISC-4313		Aria FW-1 Fuzz Wah Machine	0	
+DISC-4314		Aria Pro II LA-40 Loco Boy Micro Amp	0	
+DISC-4315		Aria PS-108 Power Supply	0	
+DISC-4316		Aria RP-2 Fuzz Wah Wah	0	
+DISC-4317		Aria TD-1 Platinum Drive	0	
+DISC-4318		Aria VP-10 Volume Pedal	0	
+DISC-4319		Aria Weeper	0	
+DISC-4320		Aria XMPA Pre Amp	0	
+DISC-4321		Mirano EF-1 Exciting Fuzz	0	
+DISC-4322		Mirano FP-1 Fuzz Pet	0	
+DISC-4323		Mirano PB-1 Power Booster	0	
+DISC-4324		Mirano PB-100 Power Booster	0	
+DISC-4325		Maccanbell Big Muff Sustainar	0	
+DISC-4326		Vorg F-501 Phase Shifter	0	
+DISC-4327		Vorg F-502 Warp Sound	0	
+DISC-4328		Vorg F-503 Graphic Equalizer	0	
+DISC-4329		Vorg F-504 Flanger Analog Delay Effect	0	
+DISC-4330		Vorg Wau	0	
+PED-DISC-45-01		Colorsound Supa Tonebender	0	
+PED-DISC-45-02		Colorsound Tone Bender Jumbo	0	
+PED-DISC-45-03		Colorsound Power Boost	0	
+PED-DISC-45-04		Colorsound Overdriver	0	
+PED-DISC-45-05		Colorsound Fuzz Box	0	
+PED-DISC-45-06		Colorsound Fuzz 4	0	
+PED-DISC-45-07		Colorsound Tone Bender Distortion	0	
+PED-DISC-45-08		Colorsound Wow Fuzz	0	
+PED-DISC-45-09		Colorsound Wah Fuzz	0	
+PED-DISC-45-10		Colorsound Wah plus Fuzz	0	
+PED-DISC-45-11		Colorsound Supa Wah-Fuzz	0	
+PED-DISC-45-12		Colorsound Supa Wah-Fuzz-Swell	0	
+PED-DISC-46-01	Sola Sound	Sola Sound Tone Bender MkI	6	Wikimedia Commons
+PED-DISC-46-02	Sola Sound	Sola Sound Tone Bender MkII	0	
+PED-DISC-46-03	Sola Sound	Sola Sound Tone Bender MkIII	0	
+PED-DISC-46-04	Sola Sound	Sola Sound Tone Bender MkIV	0	
+PED-DISC-46-05	Sola Sound	Sola Sound Bum Fuzz Unit	0	
+PED-DISC-47-01		Colorsound Bass Fuzz	0	
+PED-DISC-47-02		Colorsound Fuzz Phazer	0	
+PED-DISC-47-03		Colorsound Fuzzphaze	0	
+PED-DISC-47-04		Colorsound Wah-Fuzz-Straight	0	
+PED-DISC-47-05		Sola Sound Wow Fuzz	0	
+PED-DISC-47-06		Sola Sound Wow Pedal	0	
+PED-DISC-48-01		Sola Sound Tone Bender Mk1.5 (D*A.M reissue) Copperhead	0	
+PED-DISC-48-02		Sola Sound Tone Bender Mk1.5 (D*A.M reissue) Goldie	0	
+PED-DISC-48-03		Sola Sound Tone Bender Mk1.75 (D*A.M Reissue) El Diablo	0	
+PED-DISC-48-04		Sola Sound Tone Bender MkII (D*A.M reissue)	0	
+PED-DISC-48-05		Sola Sound Tone Bender MkII (D*A.M reissue) Green Bastard	0	
+PED-DISC-48-06		Sola Sound Tone Bender MkII (D*A.M reissue) Hybrid Squadron	0	
+PED-DISC-48-07		Sola Sound Tone Bender MkII SCB (D*A.M reissue) Blue Meanie	0	
+PED-DISC-48-08		Sola Sound Tone Bender MkIV (D*A.M reissue)	0	
+PED-DISC-48-09		Sola Sound Tone Bender MkIV (D*A.M reissue) The Purple People Eater	0	
+PED-DISC-48-10		Sola Sound Tone Bender MkIV (D*A.M reissue) The Red Baron	0	
+PED-CAT-001		Dirty Little Secret	0	
+PED-CAT-002		SFT	0	
+PED-CAT-003		RAH	0	
+PED-CAT-004		Sabbra Cadabra	0	
+PED-CAT-005		Formula 55	0	
+PED-CAT-006		Formula 5F6	0	
+PED-CAT-007		Galileo	0	
+PED-CAT-008		Galileo 4K	0	
+PED-CAT-009		Dirty Little Secret Deluxe	0	
+PED-CAT-010		Clean Little Secret	0	
+PED-CAT-011		Little Secret	0	
+PED-CAT-012		Fuzzrite	0	
+PED-CAT-013		Epoch Bias	0	
+PED-CAT-014		Epoch Boost	0	
+PED-CAT-015		Fuzzrite Germanium	0	
+PED-CAT-016		Katzenkönig	0	
+PED-CAT-017		Giygas 2K Fuzz	0	
+PED-CAT-018		Fuzzrite Mini	0	
+PED-CAT-019		Epoch Boost Mini	0	
+PED-CAT-020		Naga Viper MKII	0	
+PED-CAT-021		Crooner Preamp	0	
+PED-CAT-022		Airstrip Console Pre	0	
+PED-CAT-023		Airstrip Console Pre (Red)	0	
+PED-CAT-024		Dirty Little Soda (DLS Red)	0	
+PED-CAT-025		Karma Suture GE	0	
+PED-CAT-026		Karma Suture SI	0	
+DISC-0501		Dr. Screamer	0	
+DISC-0502		Dr. Fuzz	0	
+DISC-0503		Darklighter	0	
+DISC-0504		Knightfall	0	
+DISC-0505		Grand Tarkin	0	
+DISC-0506		OD-909 Overdrive Pro	0	
+DISC-0507		Gainer	0	
+DISC-0261		fOXX Clean Machine	0	
+DISC-0262		EKO Multitone	0	
+DISC-0263		Jennings FP.1 Fuzz	0	
+DISC-0264		Morley Power Wah Fuzz PWF	0	
+DISC-0522		JEN Harmon Booster	0	
+DISC-0524		Selmer Fuzz-Wah	0	
+DISC-0526		Moreschi Wah-Fuzz	0	
+DISC-0532		Schaller Tonverzerrer	0	
+DISC-0533		Blackfield Flying Sound	0	
+DISC-0541		Höfner Fuzz Tone No. 540	0	
+DISC-0542		Höfner Distortion No. 539	0	
+DISC-0543		Bell Electrolabs Fuzz	0	
+DISC-0544		Bell Electrolabs Sustain	0	
+DISC-0545		Top Gear Fuzz	0	
+DISC-0546		Top Gear Fuzz Sustain	0	
+DISC-0547		Lemon StudioSound Zuzz Thainer	0	
+DISC-0551		Firstman / Hillwood Multivox Big Jam Distortion	0	
+DISC-0933		Guild (by Applied) Stinger Gain Pedal	0	
+DISC-0941		Guild Foxey Lady Distortion & Sustain Unit	0	
+DISC-0945		MJM 2-Knob Brit Bender Original Fuzz	0	
+DISC-0946		MJM 3-Knob Brit Bender Fuzz	0	
+DISC-0947		MJM Blues Devil	0	
+DISC-0948		MJM China Fuzz	0	
+DISC-0949		MJM Dallas Boost	0	
+DISC-0950		MJM Foxey Fuzz	0	
+DISC-0951		MJM Luxora Overdrive	0	
+DISC-0952		MJM King Buzz	0	
+DISC-0953		MJM London Fuzz Germanium	0	
+DISC-0954		MJM London Fuzz II Silicon	0	
+DISC-0955		MJM Phantom Overdrive	0	
+DISC-0956		MJM RM Boost	0	
+DISC-0957		MJM Roctavios	0	
+DISC-0958		MJM Sixties Vibe	0	
+DISC-0959		MJM Ulysses Wah	0	
+DISC-0960		DMB Pedals Americana	0	
+DISC-0961		DMB Pedals Bumble Bass Fuzz	0	
+DISC-0962		DMB Pedals Cosmic Boost	0	
+DISC-0963		DMB Pedals Cosmic Crunch	0	
+DISC-0964		DMB Pedals Foxy Pirate	0	
+DISC-0965		DMB Pedals Lexi	0	
+DISC-0966		DMB Pedals Loopy	0	
+DISC-0967		DMB Pedals Lunar Echo	0	
+DISC-0968		DMB Pedals Spankenstein Compressor	0	
+DISC-0969		DMB Pedals Stellar Drive	0	
+DISC-0970		DMB Pedals Tap That	0	
+DISC-0971		DMB Pedals The Volumizer	0	
+DISC-0972		DMB Pedals Tweakin Tweed	0	
+DISC-0973		DMB Pedals Union Jack Looper	0	
+DISC-0974		DMB Pedals Whiskey Bender	0	
+DISC-1014		MJM Brit Bender	0	
