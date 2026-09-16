@@ -1,4 +1,4 @@
-name: Build Effects Database master index with Reader
+name: Build Effects Database master index with browser
 on:
   workflow_dispatch:
   push:
@@ -14,98 +14,88 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Install dependencies
-        run: python -m pip install --upgrade requests python-docx
-      - name: Extract every product from every category page
+      - name: Install browser and document packages
+        run: |
+          python -m pip install --upgrade playwright python-docx
+          python -m playwright install --with-deps chromium
+      - name: Extract every product page directly
         run: |
           cat > /tmp/build.py <<'PY'
           from collections import OrderedDict
           from pathlib import Path
-          from urllib.parse import quote
-          from concurrent.futures import ThreadPoolExecutor, as_completed
-          import re, time, requests
+          import re,time
+          from playwright.sync_api import sync_playwright,TimeoutError as PWTimeout
           from docx import Document
           from docx.shared import Pt, Inches
           from docx.enum.text import WD_ALIGN_PARAGRAPH
 
           C=OrderedDict([
-            ('Overdrive','https://www.effectsdatabase.com/type/overdrive/pedal'),
-            ('Distortion','https://www.effectsdatabase.com/type/distortion/pedal'),
-            ('Fuzz','https://www.effectsdatabase.com/type/fuzz/pedal')])
-          EXPECTED={'Overdrive':5414,'Distortion':3455,'Fuzz':4211}
-          LAST_PAGE={'Overdrive':54,'Distortion':34,'Fuzz':42}
+            ('Overdrive','https://www.effectsdatabase.com/type/overdrive/pedal',54),
+            ('Distortion','https://www.effectsdatabase.com/type/distortion/pedal',34),
+            ('Fuzz','https://www.effectsdatabase.com/type/fuzz/pedal',42)])
+          EXPECT={'Overdrive':5414,'Distortion':3455,'Fuzz':4211}
           OUT=Path('research/effectsdatabase-master-extract'); OUT.mkdir(parents=True,exist_ok=True)
 
-          def reader_url(target):
-              return 'https://r.jina.ai/'+quote(target,safe=":/?#[]@!$&'()*+,;=%")
-
-          def fetch(target):
-              s=requests.Session(); s.headers.update({'User-Agent':'Mozilla/5.0','Accept':'text/markdown,text/plain,*/*','X-Return-Format':'markdown'})
-              u=reader_url(target)
-              for attempt in range(10):
-                  try:
-                      r=s.get(u,timeout=120)
-                      if r.status_code==200 and r.text: return r.text
-                      if r.status_code in (429,500,502,503,504): time.sleep(min(30,2**attempt)); continue
-                      r.raise_for_status()
-                  except requests.RequestException:
-                      if attempt==9: raise
-                      time.sleep(min(30,2**attempt))
-              raise RuntimeError('Reader failed: '+u)
-
-          def parse(text):
-              rows=[]
-              for raw in text.splitlines():
-                  line=' '.join(raw.strip().split())
-                  m=re.match(r'^(\d+)\.\s+(.*)$',line)
-                  if not m: continue
-                  rest=m.group(2).strip()
-                  if rest.lower().startswith('browse by type'): continue
-                  # Capture the last /model/ URL on the numbered line. This handles pedal names containing brackets/parentheses.
-                  um=list(re.finditer(r'(?:https?://www\.effectsdatabase\.com)?/model/[^\s>]+',rest))
-                  if not um: continue
-                  u=um[-1].group(0).rstrip('),.;')
-                  if not u.startswith('http'): u='https://www.effectsdatabase.com'+u
-                  name_part=rest[:um[-1].start()].strip()
-                  name_part=re.sub(r'\]\($','',name_part).strip()
-                  if name_part.startswith('['): name_part=name_part[1:]
-                  if name_part.endswith(']'): name_part=name_part[:-1]
-                  name_part=name_part.strip()
-                  if name_part: rows.append((name_part,u))
+          def page_rows(page):
+              # Product index rows are numbered list items containing /model/ links.
+              data=page.locator('li').evaluate_all("""
+              els => els.map(li => {
+                const t=(li.innerText||'').trim().replace(/\\s+/g,' ');
+                const m=t.match(/^(\\d+)\\.\\s+(.*)$/);
+                if(!m) return null;
+                const a=li.querySelector('a[href*='/model/']');
+                if(!a) return null;
+                return {n:Number(m[1]),name:(a.innerText||'').trim().replace(/\\s+/g,' '),href:a.href};
+              }).filter(Boolean)
+              """)
+              # Above CSS quoting can vary by browser parser; use a generic href check as fallback.
+              if not data:
+                  data=page.locator('li').evaluate_all("""
+                  els => els.map(li => { const t=(li.innerText||'').trim().replace(/\\s+/g,' '); const m=t.match(/^(\\d+)\\.\\s+(.*)$/); const a=li.querySelector('a'); return (m&&a&&a.href.includes('/model/')) ? {n:Number(m[1]),name:(a.innerText||'').trim().replace(/\\s+/g,' '),href:a.href} : null; }).filter(Boolean)
+                  """)
               out=[]; seen=set()
-              for x in rows:
-                  if x[1] not in seen: seen.add(x[1]); out.append(x)
+              for x in data:
+                  key=x['href']
+                  if key not in seen: seen.add(key); out.append((x['name'],x['href']))
               return out
 
-          def extract_page(args):
-              cat,base,page=args
-              text=fetch(base if page==0 else f'{base}?page={page}')
-              rows=parse(text)
-              print(f'{cat} page {page}: {len(rows)} products; first={rows[0] if rows else None}; last={rows[-1] if rows else None}', flush=True)
-              if not rows: raise RuntimeError(f'{cat}: page {page} has zero product links')
-              return page,rows
+          def load(page,url):
+              last=None
+              for attempt in range(5):
+                  try:
+                      resp=page.goto(url,wait_until='domcontentloaded',timeout=90000)
+                      page.wait_for_timeout(700)
+                      if resp and resp.status>=400: raise RuntimeError(f'HTTP {resp.status}')
+                      return
+                  except (PWTimeout,RuntimeError) as e:
+                      last=e; time.sleep(2+attempt)
+              raise last
 
           all_data=OrderedDict()
-          for cat,base in C.items():
-              tasks=[(cat,base,p) for p in range(LAST_PAGE[cat]+1)]
-              pages={}
-              with ThreadPoolExecutor(max_workers=3) as ex:
-                  futs=[ex.submit(extract_page,t) for t in tasks]
-                  for f in as_completed(futs):
-                      page,rows=f.result(); pages[page]=rows
-              records=[]
-              for page in range(LAST_PAGE[cat]+1): records.extend(pages[page])
-              expected=EXPECTED[cat]
-              if len(records)!=expected:
-                  raise RuntimeError(f'{cat}: expected exactly {expected} products, extracted {len(records)}')
-              hrefs=[href for _,href in records]
-              if len(set(hrefs))!=len(hrefs): raise RuntimeError(f'{cat}: duplicate model URL found')
-              all_data[cat]=records
-              (OUT/f'{cat.lower()}-all.txt').write_text('\n'.join(name for name,_ in records)+'\n',encoding='utf-8')
-              (OUT/f'{cat.lower()}-all.tsv').write_text('\n'.join(f'{i}\t{name}\t{href}' for i,(name,href) in enumerate(records,1))+'\n',encoding='utf-8')
+          with sync_playwright() as pw:
+              browser=pw.chromium.launch(headless=True)
+              ctx=browser.new_context(user_agent='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/153 Safari/537.36',locale='en-US',viewport={'width':1440,'height':1200})
+              page=ctx.new_page()
+              for cat,(base,last_page) in C.items():
+                  records=[]
+                  for q in range(last_page+1):
+                      url=base if q==0 else f'{base}?page={q}'
+                      load(page,url)
+                      rows=page_rows(page)
+                      print(f'{cat} page {q}: {len(rows)} products; first={rows[0] if rows else None}; last={rows[-1] if rows else None}',flush=True)
+                      if not rows: raise RuntimeError(f'{cat}: page {q} empty')
+                      records.extend(rows)
+                  # Validate the complete concatenated category, not the per-page row numbers.
+                  if len(records)!=EXPECT[cat]:
+                      raise RuntimeError(f'{cat}: expected {EXPECT[cat]}, extracted {len(records)}')
+                  hrefs=[h for _,h in records]
+                  if len(set(hrefs))!=len(hrefs): raise RuntimeError(f'{cat}: duplicate model URL in full index')
+                  all_data[cat]=records
+                  (OUT/f'{cat.lower()}-all.txt').write_text('\n'.join(n for n,_ in records)+'\n',encoding='utf-8')
+                  (OUT/f'{cat.lower()}-all.tsv').write_text('\n'.join(f'{i}\t{n}\t{h}' for i,(n,h) in enumerate(records,1))+'\n',encoding='utf-8')
+              browser.close()
 
-          total=sum(len(v) for v in all_data.values())
-          assert total==13080
+          total=sum(len(v) for v in all_data.values()); assert total==13080
           doc=Document(); s=doc.sections[0]; s.top_margin=Inches(.5); s.bottom_margin=Inches(.5); s.left_margin=Inches(.55); s.right_margin=Inches(.55)
           p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; r=p.add_run('EFFECTS DATABASE MASTER DIRT PEDAL INDEX'); r.bold=True; r.font.size=Pt(20)
           p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; r=p.add_run('Complete Overdrive / Distortion / Fuzz listing'); r.italic=True; r.font.size=Pt(11)
@@ -121,7 +111,7 @@ jobs:
                   p=doc.add_paragraph(); p.paragraph_format.space_after=Pt(0); p.add_run(f'{i}. ').bold=True; p.add_run(name)
           doc.save('research/effectsdatabase-master-dirt-pedal-index.docx')
           (OUT/'master.tsv').write_text('\n'.join(f'{cat}\t{i}\t{name}\t{href}' for cat,recs in all_data.items() for i,(name,href) in enumerate(recs,1))+'\n',encoding='utf-8')
-          print('FINAL', {k:len(v) for k,v in all_data.items()}, total)
+          print('FINAL VERIFIED COUNTS', {k:len(v) for k,v in all_data.items()},'TOTAL',total)
           PY
           python /tmp/build.py
       - name: Verify exact totals and DOCX integrity
@@ -137,7 +127,7 @@ jobs:
           with zipfile.ZipFile('research/effectsdatabase-master-dirt-pedal-index.docx') as z: assert z.testzip() is None
           print('VERIFIED COMPLETE MASTER INDEX',total)
           PY
-      - name: Commit and upload complete master index
+      - name: Commit complete master index
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
