@@ -28,9 +28,9 @@ jobs:
           from docx.shared import Pt, Inches
           from docx.enum.text import WD_ALIGN_PARAGRAPH
           C=OrderedDict([
-            ('Overdrive','https://www.effectsdatabase.com/type/overdrive/pedal',53,5365),
-            ('Distortion','https://www.effectsdatabase.com/type/distortion/pedal',33,3390),
-            ('Fuzz','https://www.effectsdatabase.com/type/fuzz/pedal',41,4126),
+            ('Overdrive',('https://www.effectsdatabase.com/type/overdrive/pedal',53,5365)),
+            ('Distortion',('https://www.effectsdatabase.com/type/distortion/pedal',33,3390)),
+            ('Fuzz',('https://www.effectsdatabase.com/type/fuzz/pedal',41,4126)),
           ])
           OUT=Path('/tmp/out'); OUT.mkdir()
           def parse(text):
@@ -67,7 +67,7 @@ jobs:
             url=base if p==0 else f'{base}?page={p}'
             rows=parse(get(url)); print(cat,p,len(rows),flush=True); return p,rows
           data=OrderedDict()
-          for cat,base,last,expected in C.values():
+          for cat,(base,last,expected) in C.items():
             pages={}
             with ThreadPoolExecutor(max_workers=12) as ex:
               fs=[ex.submit(one,cat,base,p) for p in range(last+1)]
