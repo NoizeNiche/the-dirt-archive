@@ -28,9 +28,10 @@ jobs:
           from docx.enum.text import WD_ALIGN_PARAGRAPH
 
           C=OrderedDict([
-            ('Overdrive','https://www.effectsdatabase.com/type/overdrive/pedal',54,5414),
-            ('Distortion','https://www.effectsdatabase.com/type/distortion/pedal',34,3455),
-            ('Fuzz','https://www.effectsdatabase.com/type/fuzz/pedal',42,4211)])
+            ('Overdrive',('https://www.effectsdatabase.com/type/overdrive/pedal',54,5414)),
+            ('Distortion',('https://www.effectsdatabase.com/type/distortion/pedal',34,3455)),
+            ('Fuzz',('https://www.effectsdatabase.com/type/fuzz/pedal',42,4211)),
+          ])
           OUT=Path('research/effectsdatabase-master-extract'); OUT.mkdir(parents=True,exist_ok=True)
 
           def fetch(target):
@@ -53,7 +54,6 @@ jobs:
                   m=re.match(r'^(\d+)\.\s+(.*)$',line)
                   if not m: continue
                   rest=m.group(2).strip()
-                  # Find model URL first, then derive the displayed link text from everything before ](.
                   u=re.search(r'(?:https?://www\.effectsdatabase\.com)?/model/[^\s)]+',rest)
                   if not u: continue
                   href=u.group(0).rstrip('),.;')
@@ -69,7 +69,9 @@ jobs:
               return out
 
           def one(args):
-              cat,base,q=args; target=base if q==0 else f'{base}?page={q}'; text=fetch(target); rows=parse(text)
+              cat,base,q=args
+              target=base if q==0 else f'{base}?page={q}'
+              text=fetch(target); rows=parse(text)
               print(f'{cat} page {q}: {len(rows)} rows; first={rows[0] if rows else None}; last={rows[-1] if rows else None}',flush=True)
               if not rows: raise RuntimeError(f'{cat} page {q} empty')
               return q,rows
@@ -83,7 +85,6 @@ jobs:
                       q,rows=f.result(); pages[q]=rows
               records=[]
               for q in range(last+1): records.extend(pages[q])
-              # Reader can cache the first page for a malformed query. Detect duplicate first-page runs by URL/name and fail rather than publishing bad data.
               if len(records)!=expected: raise RuntimeError(f'{cat}: expected {expected}, extracted {len(records)}')
               hrefs=[h for _,h in records]
               if len(set(hrefs))!=len(hrefs): raise RuntimeError(f'{cat}: duplicate model URL')
