@@ -11,6 +11,7 @@ if (!sources.includes('catalog-core-utils.js')) failures.push('core utility laye
 if (!sources.includes('app.js')) failures.push('app.js is not loaded by index.html');
 if (!sources.includes('catalog-lineage-static.js')) failures.push('deterministic lineage renderer is not loaded by index.html');
 if (sources.includes('catalog-lineage-runtime.js')) failures.push('legacy lineage MutationObserver runtime is still loaded by index.html');
+if (sources.includes('catalog-thumbnails-33-runtime.js')) failures.push('redundant media resolver runtime is still loaded by index.html');
 if (sources.some(src => /catalog-thumbnails-3[5-9]-runtime\.js|catalog-thumbnails-4[0-2]-runtime\.js/.test(src))) failures.push('retired duplicate media runtime files are still referenced by index.html');
 if (!sources.includes('catalog-identification-desk.js')) failures.push('identification desk is not loaded by index.html');
 if (!sources.includes('catalog-photo-desk.js')) failures.push('photo desk is not loaded by index.html');
@@ -40,8 +41,13 @@ if (/new MutationObserver/.test(lineageStatic)) failures.push('deterministic lin
 if (!/window\.pedalPage/.test(lineageStatic)) failures.push('deterministic lineage renderer lost pedalPage integration');
 if (!/lineage-map/.test(lineageStatic)) failures.push('deterministic lineage renderer lost lineage section output');
 
-const mediaCanonical = await read('public/catalog-thumbnails-33-runtime.js');
-if (!/window\.imageFor\s*=/.test(mediaCanonical)) failures.push('canonical media runtime lost imageFor integration');
+const app = await read('public/app.js');
+if (!/function imageFor\(/.test(app)) failures.push('app.js lost canonical imageFor renderer');
+if (!/DIRT_CLEARED_IMAGES/.test(app)) failures.push('app.js canonical imageFor no longer consumes cleared media');
+if (!/DIRT_MEDIA/.test(app)) failures.push('app.js canonical imageFor no longer consumes media registry');
+if (!/function pedalPage\(/.test(app)) failures.push('app.js lost its canonical pedalPage renderer');
+if (!/window\.addEventListener\('hashchange',route\)/.test(app)) failures.push('app.js lost canonical route change handling');
+if (!/fetch\('data\.json'\)/.test(app)) failures.push('app.js lost its explicit data.json load boundary');
 
 const visualRefs = await read('public/catalog-visual-references.js');
 if (!/__dirtArchiveVisualCardWrapped/.test(visualRefs)) failures.push('visual reference card wrapper is missing');
@@ -72,11 +78,6 @@ const photos = await read('public/catalog-photo-desk.js');
 if (!/PHOTO DESK/.test(photos)) failures.push('photo desk title is missing');
 if (!/Every record/.test(photos)) failures.push('photo desk all-record output is missing');
 if (/new MutationObserver/.test(photos)) failures.push('photo desk still uses MutationObserver');
-
-const app = await read('public/app.js');
-if (!/function pedalPage\(/.test(app)) failures.push('app.js lost its canonical pedalPage renderer');
-if (!/window\.addEventListener\('hashchange',route\)/.test(app)) failures.push('app.js lost canonical route change handling');
-if (!/fetch\('data\.json'\)/.test(app)) failures.push('app.js lost its explicit data.json load boundary');
 
 const researchUi = await read('public/catalog-research-ui.js');
 const researchUsesDeterministicApi = /window\.DIRT_RESEARCH_UI\s*=\s*\{[^}]*ensureCardBadges[^}]*ensurePageStatus[^}]*schedule/s.test(researchUi);
