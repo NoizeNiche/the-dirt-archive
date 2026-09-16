@@ -12,6 +12,7 @@ if (!sources.includes('app.js')) failures.push('app.js is not loaded by index.ht
 if (!sources.includes('catalog-lineage-static.js')) failures.push('deterministic lineage renderer is not loaded by index.html');
 if (sources.includes('catalog-lineage-runtime.js')) failures.push('legacy lineage MutationObserver runtime is still loaded by index.html');
 if (sources.includes('catalog-thumbnails-33-runtime.js')) failures.push('redundant media resolver runtime is still loaded by index.html');
+if (sources.includes('catalog-visual-references.js')) failures.push('retired visual reference wrapper is still loaded by index.html');
 if (sources.some(src => /catalog-thumbnails-3[5-9]-runtime\.js|catalog-thumbnails-4[0-2]-runtime\.js/.test(src))) failures.push('retired duplicate media runtime files are still referenced by index.html');
 if (!sources.includes('catalog-identification-desk.js')) failures.push('identification desk is not loaded by index.html');
 if (!sources.includes('catalog-photo-desk.js')) failures.push('photo desk is not loaded by index.html');
@@ -20,7 +21,6 @@ if (!index.includes('catalog-experience.css')) failures.push('experience stylesh
 const runtimeFiles = [
   'public/catalog-research-runtime.js',
   'public/catalog-research-ui.js',
-  'public/catalog-visual-references.js',
   'public/catalog-polish.js',
   'public/catalog-specimen-ui.js',
   'public/catalog-identification-desk.js',
@@ -31,7 +31,7 @@ for (const path of runtimeFiles) {
   const text = await read(path);
   const observers = (text.match(/new MutationObserver/g) || []).length;
   if (observers > 0) {
-    if (path.endsWith('catalog-research-ui.js') || path.endsWith('catalog-specimen-ui.js') || path.endsWith('catalog-visual-references.js') || path.endsWith('catalog-research-runtime.js') || path.endsWith('catalog-identification-desk.js') || path.endsWith('catalog-photo-desk.js')) failures.push(`${path} still uses MutationObserver`);
+    if (path.endsWith('catalog-research-ui.js') || path.endsWith('catalog-specimen-ui.js') || path.endsWith('catalog-research-runtime.js') || path.endsWith('catalog-identification-desk.js') || path.endsWith('catalog-photo-desk.js')) failures.push(`${path} still uses MutationObserver`);
     else console.log(`INFO  ${path}: ${observers} MutationObserver instance(s) remain during staged refactor`);
   }
 }
@@ -48,11 +48,6 @@ if (!/DIRT_MEDIA/.test(app)) failures.push('app.js canonical imageFor no longer 
 if (!/function pedalPage\(/.test(app)) failures.push('app.js lost its canonical pedalPage renderer');
 if (!/window\.addEventListener\('hashchange',route\)/.test(app)) failures.push('app.js lost canonical route change handling');
 if (!/fetch\('data\.json'\)/.test(app)) failures.push('app.js lost its explicit data.json load boundary');
-
-const visualRefs = await read('public/catalog-visual-references.js');
-if (!/__dirtArchiveVisualCardWrapped/.test(visualRefs)) failures.push('visual reference card wrapper is missing');
-if (!/__dirtArchiveVisualPageWrapped/.test(visualRefs)) failures.push('visual reference page wrapper is missing');
-if (/new MutationObserver/.test(visualRefs)) failures.push('visual reference runtime still uses MutationObserver');
 
 const recentHome = await read('public/catalog-recent-home.js');
 if (/catalog-extensions-8[3-9]\.js/.test(recentHome) || /catalog-extensions-1(?:[0-3]\d|4[0])\.js/.test(recentHome)) failures.push('home runtime must not inject late extension scripts after app bootstrap');
