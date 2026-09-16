@@ -6,6 +6,8 @@ on:
     paths-ignore:
       - 'public/catalog-photo-manifest.js'
       - 'research/catalog-photo-harvest-status-01.tsv'
+      - 'public/catalog-effects-database-photo-manifest.js'
+      - 'research/catalog-effects-database-photo-status-01.tsv'
       - 'public/catalog-variant-photo-manifest.js'
       - 'research/catalog-variant-photo-status-01.tsv'
       - 'public/catalog-hardcase-photo-manifest.js'
@@ -29,6 +31,8 @@ jobs:
           python-version: '3.12'
       - name: Harvest core and visible-catalog photo references
         run: python scripts/photo_harvest.py
+      - name: Harvest Effects Database product photos
+        run: python scripts/effects_database_photo_harvest.py
       - name: Harvest documented production-variant photos
         run: python scripts/variant_photo_harvest.py
       - name: Harvest hard-case specialist-source photos
@@ -38,5 +42,5 @@ jobs:
       - name: Commit manifests
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: 'chore: refresh pedal, variant, hard-case, and builder-logo manifests'
-          file_pattern: 'public/catalog-photo-manifest.js research/catalog-photo-harvest-status-01.tsv public/catalog-variant-photo-manifest.js research/catalog-variant-photo-status-01.tsv public/catalog-hardcase-photo-manifest.js research/catalog-hardcase-photo-status-01.tsv public/catalog-builder-logo-manifest.js research/catalog-builder-logo-status-01.tsv'
+          commit_message: 'chore: refresh pedal, EDB, variant, hard-case, and builder-logo manifests'
+          file_pattern: 'public/catalog-photo-manifest.js research/catalog-photo-harvest-status-01.tsv public/catalog-effects-database-photo-manifest.js research/catalog-effects-database-photo-status-01.tsv public/catalog-variant-photo-manifest.js research/catalog-variant-photo-status-01.tsv public/catalog-hardcase-photo-manifest.js research/catalog-hardcase-photo-status-01.tsv public/catalog-builder-logo-manifest.js research/catalog-builder-logo-status-01.tsv'
