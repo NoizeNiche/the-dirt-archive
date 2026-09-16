@@ -1,0 +1,100 @@
+name: Build complete Effects Database pedal-name index v4
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: python -m pip install --upgrade requests python-docx
+      - name: Extract all pages
+        run: |
+          cat > /tmp/build.py <<'PY'
+          from collections import OrderedDict
+          from pathlib import Path
+          from concurrent.futures import ThreadPoolExecutor, as_completed
+          import re,time,requests,zipfile
+          from docx import Document
+          from docx.shared import Pt, Inches
+          from docx.enum.text import WD_ALIGN_PARAGRAPH
+          C=OrderedDict([
+            ('Overdrive','https://www.effectsdatabase.com/type/overdrive/pedal',53,5365),
+            ('Distortion','https://www.effectsdatabase.com/type/distortion/pedal',33,3390),
+            ('Fuzz','https://www.effectsdatabase.com/type/fuzz/pedal',41,4126),
+          ])
+          OUT=Path('/tmp/out'); OUT.mkdir()
+          def parse(text):
+            active=False; rows=[]
+            for raw in text.splitlines():
+              line=' '.join(raw.strip().split())
+              if 'Gear in this category' in line: active=True; continue
+              if not active: continue
+              if re.match(r'^\*\s+(?:«|‹|\d|…)',line):
+                if rows: break
+                continue
+              m=re.match(r'^(\d+)\.\s+(.*)$',line)
+              if not m: continue
+              num=int(m.group(1)); rest=m.group(2).strip()
+              if rest.startswith('[') and '](' in rest: name=rest[1:rest.find('](')]
+              else: name=rest
+              if name: rows.append((num,name.strip()))
+            if not rows: raise ValueError('no catalog rows')
+            nums=[n for n,_ in rows]
+            if nums!=list(range(nums[0],nums[0]+len(nums))): raise ValueError('bad numbering')
+            return rows
+          def get(url):
+            last=None
+            for a in range(5):
+              try:
+                r=requests.post('https://r.jina.ai/',data={'url':url},timeout=(10,35),headers={'User-Agent':'The-Dirt-Archive/4.0','Accept':'text/markdown,text/plain,*/*'})
+                if r.status_code==200 and r.text:
+                  parse(r.text); return r.text
+                last=RuntimeError('HTTP '+str(r.status_code))
+              except Exception as e: last=e
+              time.sleep(min(6,2**a))
+            raise RuntimeError(f'{url}: {last}')
+          def one(cat,base,p):
+            url=base if p==0 else f'{base}?page={p}'
+            rows=parse(get(url)); print(cat,p,len(rows),flush=True); return p,rows
+          data=OrderedDict()
+          for cat,base,last,expected in C.values():
+            pages={}
+            with ThreadPoolExecutor(max_workers=12) as ex:
+              fs=[ex.submit(one,cat,base,p) for p in range(last+1)]
+              for f in as_completed(fs):
+                p,rows=f.result(); pages[p]=rows
+            allrows=[x for p in range(last+1) for x in pages[p]]
+            nums=[n for n,_ in allrows]
+            if nums!=list(range(1,expected+1)): raise RuntimeError(f'{cat} count/sequence mismatch {len(allrows)} / {nums[-1] if nums else None}')
+            names=[n for _,n in allrows]; data[cat]=names
+            (OUT/f'{cat.lower()}.txt').write_text('\n'.join(names)+'\n',encoding='utf-8')
+          total=sum(len(v) for v in data.values()); assert total==12881
+          doc=Document(); s=doc.sections[0]; s.top_margin=s.bottom_margin=Inches(.45); s.left_margin=s.right_margin=Inches(.55)
+          p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; r=p.add_run('EFFECTS DATABASE MASTER DIRT PEDAL INDEX'); r.bold=True; r.font.size=Pt(20)
+          p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; p.add_run('Overdrive / Distortion / Fuzz pedal names').italic=True
+          doc.add_paragraph('Source: Effects Database (effectsdatabase.com)')
+          doc.add_paragraph('Extraction date: September 16, 2026')
+          doc.add_page_break(); doc.add_heading('MASTER COUNTS',1)
+          for cat,names in data.items(): doc.add_paragraph(f'{cat}: {len(names):,}')
+          doc.add_paragraph(f'TOTAL: {total:,}')
+          for cat,names in data.items():
+            doc.add_page_break(); doc.add_heading(cat.upper(),1)
+            for i,name in enumerate(names,1):
+              p=doc.add_paragraph(); p.paragraph_format.space_after=Pt(0); p.add_run(f'{i}. ').bold=True; p.add_run(name)
+          path='/tmp/out/effectsdatabase-master-dirt-pedal-index.docx'; doc.save(path)
+          with zipfile.ZipFile(path) as z: assert z.testzip() is None
+          print('VERIFIED', {k:len(v) for k,v in data.items()}, total)
+          PY
+          python /tmp/build.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: effects-database-master-dirt-pedal-index-v4
+          path: /tmp/out/
+          retention-days: 30
