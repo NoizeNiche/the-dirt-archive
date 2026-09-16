@@ -104,6 +104,19 @@
     resultsEl.innerHTML = hits.map(({p,builderName})=>`<a class="search-result" href="#/pedal/${encodeURIComponent(p.pedal_id || p.model_name || '')}"><strong>${esc(p.model_name || 'Untitled record')}</strong><small>${esc(builderName || 'Builder not established')} · ${esc(p.primary_category || 'Dirt')}</small></a>`).join('');
   }
 
+  function openSearch(dlg,input){
+    try {
+      if(typeof dlg.showModal === 'function' && !dlg.open) dlg.showModal();
+    } catch(error) {
+      console.warn('Native search dialog open failed; using attribute fallback.', error);
+    }
+    if(!dlg.open) dlg.setAttribute('open','');
+    dlg.style.display='block';
+    dlg.style.visibility='visible';
+    renderSearch(input.value);
+    requestAnimationFrame(() => input.focus());
+  }
+
   function wireSearch(){
     const btn = document.getElementById('searchBtn');
     const dlg = document.getElementById('searchDialog');
@@ -113,10 +126,7 @@
     btn.dataset.dirtSearchBound = '1';
     btn.addEventListener('click', event => {
       event.preventDefault();
-      if(typeof dlg.showModal === 'function') dlg.showModal();
-      else dlg.setAttribute('open','open');
-      renderSearch(input.value);
-      queueMicrotask(() => input.focus());
+      openSearch(dlg,input);
     });
     input.addEventListener('input', () => renderSearch(input.value));
     dlg.addEventListener('click', event => {
