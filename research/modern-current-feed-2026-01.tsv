@@ -1,0 +1,13 @@
+date_seen	builder	model	category	discovery_status	source	source_note
+2026-08-10	Catalinbread	Crooner - CB-Range Discrete Console Pre	preamp/drive boundary	CURRENT_DISCOVERY	https://www.effectsdatabase.com/blog	New 2026 EDB addition; retain as dirt-adjacent until category is fully reconciled.
+2026-08-10	Cornerstone	Centurio - Dual Overdrive	overdrive	CURRENT_DISCOVERY	https://www.effectsdatabase.com/blog	New 2026 product; modern dirt queue.
+2026-08-10	Crazy Tube Circuits	White Whale Junior	dirt candidate	CURRENT_DISCOVERY	https://www.effectsdatabase.com/blog	New 2026 product; product-level category verification required.
+2026-08-10	Gamechanger Audio	Gamechanger Plus Pedal II	dirt/hybrid candidate	CURRENT_DISCOVERY	https://www.effectsdatabase.com/blog	New 2026 product; preserve digital/hybrid role boundaries.
+2026-08-10	Greer Amps	Mori Drive	overdrive	CURRENT_DISCOVERY	https://www.effectsdatabase.com/blog	New 2026 product; add to modern builder catalog.
+2026-08-10	Keeley Electronics	Tube Drive	overdrive	CURRENT_DISCOVERY	https://www.effectsdatabase.com/blog	New 2026 product; add to current-product snapshot.
+2026-08-10	Warm Audio	Dirty Boy Jr. Booster	boost/drive boundary	CURRENT_DISCOVERY	https://www.effectsdatabase.com/blog	New 2026 product; keep separate from dedicated fuzz/OD entries.
+2026-08-10	Warm Audio	Dirty Boy Jr. Fuzz	fuzz	CURRENT_DISCOVERY	https://www.effectsdatabase.com/blog	New 2026 product; modern dirt queue.
+2026-08-10	Warm Audio	Dirty Boy Jr. Overdrive	overdrive	CURRENT_DISCOVERY	https://www.effectsdatabase.com/blog	New 2026 product; modern dirt queue.
+2026-06-22	Drug Effects	brand-level discovery	modern effects brand	DISCOVERY	https://www.effectsdatabase.com/blog	New brand detected by EDB weekly update; requires builder census and catalog sweep.
+2026-06-22	EarthQuaker Devices	Sunn O))) HalfLife - Octave Distortion + Booster	distortion/octave	INDEXED_CURRENT	https://www.effectsdatabase.com/blog	New 2026 product; collaboration lineage and booster role should be preserved.
+2026-06-22	Electro-Harmonix	Percolator - Harmonic Saturator / Overdrive / Fuzz	overdrive/fuzz	CURRENT_DISCOVERY	https://www.effectsdatabase.com/blog	New 2026 product; distinct modern EHX product despite historical Percolator lineage.
