@@ -1,7 +1,7 @@
 (() => {
   // Full-catalog photo presentation layer.
-  // The GitHub Actions harvester writes catalog-photo-manifest.js with the best
-  // discoverable image candidates and provenance. This layer presents them on cards.
+  // Combines the general photo manifest with the Effects Database reference
+  // layer so obscure/current products get a second path to documented imagery.
   const MAX_IMAGES=6;
   const style=document.createElement('style');
   style.textContent=`
@@ -20,30 +20,40 @@
   `;
   document.head.appendChild(style);
 
-  const sleep=ms=>new Promise(r=>setTimeout(r,ms));
-  const esc=v=>String(v??'').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
   let manifestPromise;
-
-  function loadManifest(){
-    if(window.DIRT_PHOTO_MANIFEST) return Promise.resolve();
+  function loadScripts(){
     if(manifestPromise) return manifestPromise;
     manifestPromise=new Promise(resolve=>{
-      const s=document.createElement('script');
-      s.src='/catalog-photo-manifest.js?v='+Date.now();
-      s.onload=resolve;s.onerror=resolve;
-      document.head.appendChild(s);
+      const names=['/catalog-photo-manifest.js','/catalog-effects-database-photo-manifest.js'];
+      let left=names.length;
+      names.forEach(name=>{
+        const s=document.createElement('script');
+        s.src=name+'?v='+Date.now();
+        s.onload=s.onerror=()=>{if(--left===0)resolve()};
+        document.head.appendChild(s);
+      });
     });
     return manifestPromise;
+  }
+
+  function combinedEntry(model){
+    const core=(window.DIRT_PHOTO_MANIFEST||{})[model]||{};
+    const edb=(window.DIRT_EDB_PHOTO_MANIFEST||{})[model]||{};
+    const gallery=[];
+    for(const item of [core,...(core.gallery||[]),edb,...(edb.gallery||[])]){
+      if(!item?.src) continue;
+      if(gallery.some(x=>x.src===item.src)) continue;
+      gallery.push({...item});
+      if(gallery.length>=MAX_IMAGES) break;
+    }
+    if(!gallery.length) return null;
+    return {...(edb.src?edb:core),src:gallery[0].src,page:gallery[0].page||edb.page||core.page||'',credit:gallery[0].credit||edb.credit||core.credit||'',license:gallery[0].license||edb.license||core.license||'',gallery};
   }
 
   function resolver(){
     if(window.__DIRT_PHOTO_RESOLVER) return;
     const previous=window.imageFor;
-    window.imageFor=p=>{
-      const hit=(window.DIRT_PHOTO_MANIFEST||{})[p?.model_name];
-      if(hit?.src) return hit;
-      return previous?previous(p):null;
-    };
+    window.imageFor=p=>combinedEntry(p?.model_name)||(previous?previous(p):null);
     window.__DIRT_PHOTO_RESOLVER=true;
   }
 
@@ -72,9 +82,9 @@
   }
 
   async function run(){
-    await loadManifest();
+    await loadScripts();
     resolver();
-    document.querySelectorAll('.pedal-card').forEach(card=>{const title=card.querySelector('h3')?.textContent?.trim();if(title)render(card,title,(window.DIRT_PHOTO_MANIFEST||{})[title]);});
+    document.querySelectorAll('.pedal-card').forEach(card=>{const title=card.querySelector('h3')?.textContent?.trim();if(title)render(card,title,combinedEntry(title));});
   }
 
   const observer=new MutationObserver(()=>{clearTimeout(window.__DIRT_PHOTO_TIMER);window.__DIRT_PHOTO_TIMER=setTimeout(run,90);});
