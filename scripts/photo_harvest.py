@@ -9,9 +9,6 @@ DATA=json.loads((PUBLIC/'data.json').read_text(encoding='utf-8'))
 pedals=list(DATA.get('pedals',[]))
 builders={b.get('builder_id'):b.get('name','') for b in DATA.get('builders',[])}
 
-# Include discovered records. Preserve duplicate pedal IDs by making a stable
-# builder/model fallback key rather than allowing a later discovery row to
-# silently overwrite an earlier photo record.
 seen={(str(p.get('primary_builder_id')),str(p.get('model_name','')).strip().lower()) for p in pedals}
 for path in sorted(PUBLIC.glob('discovery-*.tsv')):
     for line in path.read_text(encoding='utf-8',errors='ignore').splitlines():
@@ -29,8 +26,7 @@ def acceptable(value): return bool(value) and not BAD_RE.search(str(value))
 
 def source_id(p):
     pid=str(p.get('pedal_id') or '').strip(); builder=builders.get(p.get('primary_builder_id'),''); model=str(p.get('model_name') or '').strip()
-    if pid: return pid
-    return f'{builder}::{model}'
+    return pid or f'{builder}::{model}'
 
 existing={}
 for path in PUBLIC.glob('catalog-thumbnails-*.js'):
