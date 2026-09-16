@@ -35,6 +35,21 @@
       page:'https://commons.wikimedia.org/wiki/File:Boss_SD-1_Super_Overdrive.jpg',
       credit:'Kuriosatempel · CC BY-SA 4.0; photo credited on Commons to Johan Rosén'
     },
+    'BOSS HM-2 Heavy Metal': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Boss_HM-2_Heavy_Metal.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:Boss_HM-2_Heavy_Metal.jpg',
+      credit:'Styroks · public domain dedication'
+    },
+    'BOSS MT-2 Metal Zone': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Boss_MT-2_Metal_Zone.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:Boss_MT-2_Metal_Zone.jpg',
+      credit:'Kuriosatempel · CC BY-SA 4.0; photo credited on Commons to Johan Rosén'
+    },
+    'DOD Grunge Distortion': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/DOD-GrungeDistortion.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:DOD-GrungeDistortion.jpg',
+      credit:'Styroks · CC BY-SA 4.0'
+    },
     'Vox Tone Bender': {
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Vox_Tone_Bender.jpg',
       page:'https://commons.wikimedia.org/wiki/File:Vox_Tone_Bender.jpg',
