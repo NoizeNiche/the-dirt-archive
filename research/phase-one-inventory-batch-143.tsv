@@ -1,0 +1,10 @@
+builder	model	category	light_description	photo_source	status
+YUKI	3OD / Three EQ Overdrive	Overdrive	Japanese handmade three-band EQ overdrive; current Yuki catalog model.	https://aya.la.coocan.jp/yuki_product.html ; https://www.musicland.co.jp/fs/musiclandkey/c/ef-yuki	CENTRAL
+YUKI	DAW	Overdrive	Yuki overdrive sibling to CAW; current catalog model.	https://www.musicland.co.jp/fs/musiclandkey/c/ef-yuki	CENTRAL
+YUKI	Blues1903	Overdrive	Chicago-blues-oriented Japanese handmade overdrive; named for 1903.	https://aya.la.coocan.jp/yuki_product.html	CENTRAL
+YUKI	THE FUZZ	Fuzz	Japanese handmade fuzz using documented Roederstein/Vishay MKT1813 capacitors and three-mode switching.	https://www.kikutani.co.jp/items/the-fuzz/ ; https://www.music-plant.com/webshop/products/detail.php?product_id=112306	CENTRAL
+YUKI	初月 -UIZUKI-	Overdrive/Distortion	2026 bass British-stack-style distortion to overdrive; current Yuki Bass Sound System family dirt model.	https://bassmagazine.jp/gear/202602-yuki-uizuki/ ; https://kikutani.co.jp/news/brand/yuki/	CENTRAL
+YUKI	十五夜 -JUGOYA-	Fuzz/Distortion	2026 bass-focused fuzz/distortion with dry/fuzz blend; released August 15 2026.	https://store.ishibashi.co.jp/view/item/000000161898 ; https://kikutani.co.jp/news/brand/yuki/	CENTRAL
+YUKI	究極	Bass preamp	Bass preamp/drive-adjacent product; retained outside central dirt pending clearer category boundary.	https://kikutani.co.jp/news/brand/yuki/	RELATIONSHIP_ONLY
+YUKI	十六夜 -IZAYOI-	Bass preamp	Bass Sound System preamp rather than central dirt pedal.	https://kikutani.co.jp/news/brand/yuki/	RELATIONSHIP_ONLY
+YUKI	弓張月 -YUMIHARIZUKI-	Bass preamp/DI	Bass junction box and DI/preamp product rather than central dirt.	https://www.musicland.co.jp/fs/musiclandkey/c/ef-yuki ; https://kikutani.co.jp/news/brand/yuki/	RELATIONSHIP_ONLY
