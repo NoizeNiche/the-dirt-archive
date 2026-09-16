@@ -16,9 +16,19 @@ The project emphasizes:
 - preservation of information about obscure and discontinued builders
 - quarterly research releases rather than a promise of total completeness
 
+## Public archive path
+
+For now, the public archive has one simple path:
+
+**Builder → Pedals → Photos → Information on the pedal**
+
+That is the primary visitor experience. The interface should stay focused on that path while the research database continues to grow behind it.
+
+The public catalog should not be overloaded with secondary browse systems yet. Category explorers, advanced identification tools, generation browsers and similar features can remain deferred until the core builder → pedal → photo → information structure is solid.
+
 ## Current research program
 
-The archive now follows a strict **builder-first → canonicalize builders → complete each builder's dirt catalog → research individual pedals deeply** order.
+The archive follows a strict **builder-first → canonicalize builders → complete each builder's dirt catalog → research individual pedals deeply** order.
 
 First, map the widest practical universe of builders, manufacturers, OEM factories, marketed brands, private-label entities, distributors, revival makers, and micro-builders connected to overdrive, distortion, or fuzz from 1966 onward. Second, reconcile duplicate or related builder names so one historical entity does not appear as several unrelated builders. Third, enumerate that canonical builder's full documented dirt catalog. Fourth, return to each cataloged pedal for generation, production-period, edition and specimen research.
 
