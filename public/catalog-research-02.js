@@ -35,6 +35,8 @@
       {label:'Turbo RAT and other variants',years:'1989–present',notes:'Turbo RAT, Vintage Reissue, BRAT, Deucetone, You Dirty RAT, FATRAT, Lil RAT and other variants should become separate records.'}
     ]
   };
+
+  window.DIRT_RESEARCH_GENERATIONS = generations;
   let merged=false;
   function apply(base){
     base.pedals=base.pedals||[];

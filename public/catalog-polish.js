@@ -31,6 +31,8 @@
   document.head.appendChild(style);
 
   let lastHash = '';
+  let attempts = 0;
+  let timer = null;
 
   function decorateCards(){
     document.querySelectorAll('.pedal-card').forEach((card, i) => {
@@ -62,6 +64,9 @@
     else if(hash.includes('/category/overdrive')) document.querySelector('.main-nav a[href="#/category/overdrive"]')?.classList.add('active');
     else if(hash.includes('/category/distortion')) document.querySelector('.main-nav a[href="#/category/distortion"]')?.classList.add('active');
     else if(hash.includes('/builders') || hash.includes('/builder/')) document.querySelector('.main-nav a[href="#/builders"]')?.classList.add('active');
+    else if(hash.includes('/identify')) document.querySelector('.main-nav a[href="#/identify"]')?.classList.add('active');
+    else if(hash.includes('/photos')) document.querySelector('.main-nav a[href="#/photos"]')?.classList.add('active');
+    else if(hash.includes('/about')) document.querySelector('.main-nav a[href="#/about"]')?.classList.add('active');
   }
 
   function decorate(){
@@ -70,10 +75,22 @@
     highlightNav();
     const h = location.hash;
     if(h !== lastHash){ window.scrollTo(0,0); lastHash = h; }
+    const ready = !!document.querySelector('#app > *');
+    if(ready){attempts=0;timer=null;return;}
+    if(attempts>=30){attempts=0;timer=null;return;}
+    attempts += 1;
+    timer = setTimeout(decorate,100);
   }
 
-  new MutationObserver(decorate).observe(document.getElementById('app') || document.body,{childList:true,subtree:true});
-  window.addEventListener('hashchange',()=>setTimeout(decorate,25));
-  window.addEventListener('load',()=>setTimeout(decorate,80));
-  setTimeout(decorate,140);
+  function schedule(){
+    attempts=0;
+    if(timer) clearTimeout(timer);
+    decorate();
+  }
+
+  document.addEventListener('DOMContentLoaded',schedule,{once:true});
+  window.addEventListener('load',schedule,{once:true});
+  window.addEventListener('hashchange',schedule);
+  window.addEventListener('dirtarchive:runtime-ready',schedule);
+  schedule();
 })();

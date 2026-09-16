@@ -1,38 +1,15 @@
 (() => {
   const esc=v=>String(v??'').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
-  function decorate(){
-    const data=window.DATA||null;
-    if(!data?.pedals)return;
-    document.querySelectorAll('.pedal-card').forEach(card=>{
-      if(card.querySelector('.research-badge'))return;
-      const id=card.getAttribute('data-pedal-id');
-      const title=card.querySelector('h3')?.textContent?.trim();
-      const p=data.pedals.find(x=>(id&&String(x.pedal_id)===String(id))||String(x.model_name||'').trim()===title);
-      if(!p)return;
-      const r=p.archive_research;
-      const label=r?.status?.toLowerCase().includes('verified')?'RESEARCH VERIFIED':r?'RESEARCHED':'DISCOVERY';
-      const badge=document.createElement('span');
-      badge.className='research-badge';
-      badge.textContent=label;
-      card.querySelector('.pedal-body')?.appendChild(badge);
-    });
-    const detail=document.querySelector('.detail-head');
-    if(detail&&!detail.querySelector('.research-status')){
-      const hash=location.hash.replace(/^#\/?/,'').split('/');
-      if(hash[0]==='pedal'&&hash[1]){
-        const p=data.pedals.find(x=>String(x.pedal_id)===decodeURIComponent(hash[1])||String(x.model_name||'')===decodeURIComponent(hash[1]));
-        if(p){
-          const r=p.archive_research;
-          const row=document.createElement('div');
-          row.className='research-status';
-          row.innerHTML=`<span class="research-badge">${esc(r?'RESEARCH DOSSIER':'DISCOVERY RECORD')}</span><span>${r?.sources?.length||0} linked sources · ${r?.generations?.length||0} documented generations</span>`;
-          detail.appendChild(row);
-        }
-      }
-    }
-  }
-  const observer=new MutationObserver(decorate);
-  observer.observe(document.body,{childList:true,subtree:true});
-  window.addEventListener('hashchange',()=>setTimeout(decorate,20));
-  window.addEventListener('load',()=>setTimeout(decorate,50));
+  const researchFor=p=>p?.archive_research||null;
+  const researchLabel=p=>{const r=researchFor(p);return r?.status?.toLowerCase().includes('verified')?'RESEARCH VERIFIED':r?'RESEARCHED':'DISCOVERY'};
+  const researchBadge=p=>`<span class="research-badge">${researchLabel(p)}</span>`;
+  const researchStatus=p=>{const r=researchFor(p);return `<div class="research-status">${researchBadge(p)}<span>${r?.sources?.length||0} linked sources · ${r?.generations?.length||0} documented generations</span></div>`};
+  const targetForCard=card=>{const id=card?.dataset?.pedalId;const title=card?.querySelector('h3')?.textContent?.trim();return (DATA.pedals||[]).find(p=>id&&String(p.pedal_id)===String(id))||(DATA.pedals||[]).find(p=>title&&String(p.model_name||'').trim()===title)||null;};
+  const ensureCardBadges=()=>{document.querySelectorAll('.pedal-card').forEach(card=>{if(card.querySelector('.research-badge'))return;const body=card.querySelector('.pedal-body');if(!body)return;const target=targetForCard(card);body.insertAdjacentHTML('beforeend',researchBadge(target));});};
+  const ensurePageStatus=()=>{const key=decodeURIComponent(location.hash.replace(/^#\/?/,'').split('/').filter(Boolean).slice(1,2)[0]||'');if(!key)return;const target=(DATA.pedals||[]).find(p=>String(p.pedal_id)===key)||(DATA.pedals||[]).find(p=>String(p.model_name||'')===key);const detail=document.querySelector('.detail-head');if(detail&&target&&!detail.querySelector('.research-status'))detail.insertAdjacentHTML('beforeend',researchStatus(target));};
+  let pageAttempts=0,pageTimer=null;
+  const settle=()=>{ensureCardBadges();ensurePageStatus();const cards=document.querySelectorAll('.pedal-card').length;const pedal=location.hash.toLowerCase().includes('/pedal/');if(cards||pedal){pageAttempts=0;pageTimer=null;return;}if(pageAttempts>=100){pageAttempts=0;pageTimer=null;return;}pageAttempts+=1;pageTimer=setTimeout(settle,100);};
+  const schedule=()=>{pageAttempts=0;if(pageTimer)clearTimeout(pageTimer);settle();};
+  document.addEventListener('DOMContentLoaded',schedule,{once:true});window.addEventListener('load',schedule,{once:true});window.addEventListener('hashchange',schedule);window.addEventListener('dirtarchive:runtime-ready',schedule);schedule();
+  window.DIRT_RESEARCH_UI={ensureCardBadges,ensurePageStatus,schedule};
 })();
