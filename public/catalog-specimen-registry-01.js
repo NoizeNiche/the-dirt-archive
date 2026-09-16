@@ -4,18 +4,18 @@
   // a circuit variant, and a circuit variant is not automatically a new model.
   window.DIRT_SPECIMENS = [
     {
-      title:'Fuzz Face', role:'Primary example', era:'1966–1967', rights:'Cleared',
+      title:'Fuzz Face', role:'Primary example', era:'1966–1967', generation_id:'GEN-fuzz-face-01', rights:'Cleared',
       caption:'Early Arbiter-era round enclosure specimen.',
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Dallas_Arbiter_Fuzz_Face.jpg',
       page:'https://commons.wikimedia.org/wiki/File:Dallas_Arbiter_Fuzz_Face.jpg', credit:'sploshette · CC BY 2.0',
       variant:'Arbiter / early germanium', electronics:{semiconductor_family:'Germanium', notes:'Early production family; component details should be tied to the documented generation rather than inferred from color.'}
     },
     {
-      title:'Tone Bender', role:'Reference specimen', era:'1960s', rights:'Cleared',
-      caption:'British Tone Bender family specimen for enclosure and graphic identification.',
+      title:'Tone Bender', role:'Reference specimen', era:'1966', generation_id:'GEN-tone-bender-04', rights:'Cleared',
+      caption:'1966 Vox-branded Tone Bender specimen. Cataloged as the Italian V828 branch rather than being assumed to be a Sola Sound MK1.5 or British Professional MKII.',
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/1966_VOX_TONE_BENDER_FUZZ.jpg',
-      page:'https://commons.wikimedia.org/wiki/File:1966_VOX_TONE_BENDER_FUZZ.jpg', credit:'Wikimedia Commons · CC BY 2.0',
-      variant:'OEM / Vox-branded family', electronics:{semiconductor_family:'Germanium / generation dependent', notes:'Do not treat the family name alone as proof of a single component set.'}
+      page:'https://commons.wikimedia.org/wiki/File:1966_VOX_TONE_BENDER_FUZZ.jpg', credit:'sploshette · CC BY 2.0',
+      variant:'Vox V828 / Italian grey', electronics:{semiconductor_family:'Two-transistor fuzz', notes:'Wikimedia identifies this as a 1966 Vox Tone Bender; specialist histories distinguish the Italian V828 from the Sola Sound MK1.5 and Professional MKII.'}
     },
     {
       title:'Big Muff Pi', role:'Primary example', era:'NYC era', rights:'Cleared',
@@ -25,25 +25,39 @@
       variant:'NYC Big Muff family', electronics:{semiconductor_family:'Silicon', notes:'Generation-specific component substitutions belong in the generation record, not the colorway label.'}
     },
     {
-      title:'TS808 Tube Screamer', role:'Primary example', era:'1979–1981', rights:'Cleared',
+      title:'TS808 Tube Screamer', role:'Primary example', era:'1979–1981', generation_id:'GEN-ts808-01', rights:'Cleared',
       caption:'Original-style TS808 enclosure and control layout reference.',
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Ibanez_TS808_Tube_Screamer_%2848588080527%29_cropped.jpg',
       page:'https://commons.wikimedia.org/wiki/File:Ibanez_TS808_Tube_Screamer_%2848588080527%29_%28cropped%29.jpg', credit:'Guitar Chalk · CC BY 2.0',
       variant:'TS808 / early compact', electronics:{semiconductor_family:'Op-amp overdrive', notes:'Component changes should be recorded by production generation where documented.'}
     },
     {
+      title:'Ibanez TS-9 Tube Screamer', role:'Primary example', era:'1981–1985', rights:'Cleared',
+      caption:'Exterior TS-9 reference photograph.',
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Ibanez_ts9_tube_screamer.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:Ibanez_ts9_tube_screamer.jpg', credit:'Mataresephotos · CC BY 3.0 US',
+      variant:'TS-9', electronics:{semiconductor_family:'Op-amp overdrive', notes:'Use the exterior for identification; component claims belong in separately sourced generation research.'}
+    },
+    {
       title:'RAT', role:'Primary example', era:'Original production', rights:'Cleared',
       caption:'ProCo RAT enclosure specimen for visual identification.',
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Proco-rat.jpg',
-      page:'https://commons.wikimedia.org/wiki/File:Proco-rat.jpg', credit:'Jazzman · Wikimedia Commons · see file page for license',
+      page:'https://commons.wikimedia.org/wiki/File:Proco-rat.jpg', credit:'Jazzman · Wikimedia Commons · CC BY-SA 3.0',
       variant:'Original RAT family', electronics:{semiconductor_family:'Silicon', notes:'RAT revisions and production changes must remain generation-specific.'}
+    },
+    {
+      title:'RAT2', role:'Primary example', era:'1988–present', generation_id:'GEN-rat-05', rights:'Cleared',
+      caption:'RAT 2 exterior reference. The image is a retouched derivative published under CC BY 2.0.',
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/ProCo_Rat_2.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:ProCo_Rat_2.jpg', credit:'GreyCat · CC BY 2.0 · derivative of Michael Morel photograph',
+      variant:'RAT 2', electronics:{semiconductor_family:'Silicon', notes:'Later RAT 2 production includes further changes; exterior appearance should be paired with dated production evidence.'}
     },
     {
       title:'MXR M-104 Distortion+', role:'Primary example', era:'1979', rights:'Cleared',
       caption:'1979 Distortion+ specimen.',
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/1979_MXR_Distortion_%2B.jpg',
-      page:'https://commons.wikimedia.org/wiki/File:1979_MXR_Distortion_%2B.jpg', credit:'Wikimedia Commons · licensed image, see file page',
-      variant:'Vintage M-104', electronics:{semiconductor_family:'Silicon diode clipping', notes:'Specific diode or transistor substitutions should be documented only with source-backed evidence.'}
+      page:'https://commons.wikimedia.org/wiki/File:1979_MXR_Distortion_%2B.jpg', credit:'Wikimedia Commons · see file page for license',
+      variant:'1979 block logo / battery-only', electronics:{semiconductor_family:'Silicon diode clipping', notes:'The file description identifies the specimen as an original 1979 block-logo unit with no LED and battery-only operation.'}
     },
     {
       title:'BOSS DS-1 Distortion', role:'Primary example', era:'Original production', rights:'Cleared',
@@ -51,6 +65,13 @@
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Boss-DS-1.jpg',
       page:'https://commons.wikimedia.org/wiki/File:Boss-DS-1.jpg', credit:'Matt Eason · CC BY-SA 3.0 / GFDL',
       variant:'Classic orange', electronics:{semiconductor_family:'Silicon distortion', notes:'Color is an appearance attribute; production/electronics revisions are tracked separately.'}
+    },
+    {
+      title:'BOSS OD-1 OverDrive', role:'Primary example', era:'Original production', rights:'Cleared',
+      caption:'BOSS OD-1 exterior reference.',
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/BOSS_OD-1.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:BOSS_OD-1.jpg', credit:'zynke · CC BY 2.0',
+      variant:'OD-1', electronics:{semiconductor_family:'Analog overdrive', notes:'Exterior reference only; production revisions should be tied to documented serial and date evidence.'}
     },
     {
       title:'Vox Tone Bender', role:'Primary example', era:'British OEM branch', rights:'Cleared',
@@ -63,7 +84,7 @@
       title:'Colorsound Supa Tonebender', role:'Primary example', era:'1970s', rights:'Cleared',
       caption:'Supa Tonebender specimen from the 1970s.',
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Sola_Sound_Colorsound_Supa_Tonebender,_from_1974.png',
-      page:'https://commons.wikimedia.org/wiki/File:Sola_Sound_Colorsound_Supa_Tonebender,_from_1974.png', credit:'Wikimedia Commons · licensed image, see file page',
+      page:'https://commons.wikimedia.org/wiki/File:Sola_Sound_Colorsound_Supa_Tonebender,_from_1974.png', credit:'Wikimedia Commons · see file page for license',
       variant:'1974 specimen', electronics:{semiconductor_family:'Silicon', notes:'Supa Tonebender family; distinguish documented production variants from cosmetic changes.'}
     },
     {

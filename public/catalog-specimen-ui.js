@@ -1,60 +1,48 @@
 (() => {
-  const style=document.createElement('style');
-  style.textContent=`
-    .specimen-strip{margin-top:12px;border-top:3px double #1d1712;padding-top:12px}
-    .specimen-kicker{font:700 8px Arial,Helvetica,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:#8b2319;margin-bottom:7px}
-    .specimen-strip p{margin:0 0 10px;color:#766a5b;font:10px/1.45 Arial,Helvetica,sans-serif}
-    .specimen-links{display:flex;flex-wrap:wrap;gap:7px}
-    .specimen-links a{display:inline-flex;align-items:center;padding:7px 9px;border:1px solid #b9aa92;background:#fbf7ef;font:700 8px Arial,Helvetica,sans-serif;letter-spacing:.07em;text-transform:uppercase}
-    .specimen-links a:hover{background:#1d1712;color:#fbf7ef;border-color:#1d1712}
-    .specimen-gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin:12px 0 2px}
-    .specimen-item{margin:0;border:1px solid #b9aa92;background:#fbf7ef}
-    .specimen-item img{display:block;width:100%;aspect-ratio:4/3;object-fit:contain;background:#e5dccb}
-    .specimen-reference{min-height:150px;display:flex;align-items:center;justify-content:center;padding:18px;text-align:center;background:repeating-linear-gradient(135deg,#eee5d5 0,#eee5d5 8px,#e8decc 8px,#e8decc 16px)}
-    .specimen-reference strong{display:block;font:700 8px/1.4 Arial,Helvetica,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:#8b2319}
-    .specimen-reference span{display:block;margin-top:6px;font:9px/1.45 Georgia,'Times New Roman',serif;color:#1d1712}
-    .specimen-reference a{display:inline-block;margin-top:9px;font:700 7px Arial,Helvetica,sans-serif;letter-spacing:.1em;text-transform:uppercase}
-    .specimen-meta{padding:8px 9px 9px;border-top:1px solid #b9aa92}
-    .specimen-role{font:700 7px/1.2 Arial,Helvetica,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:#8b2319}
-    .specimen-caption{margin-top:4px;font:9px/1.35 Georgia,'Times New Roman',serif;color:#1d1712}
-    .specimen-attribute{margin-top:6px;padding-top:6px;border-top:1px dotted #b9aa92;font:7px/1.4 Arial,Helvetica,sans-serif;color:#766a5b}
-    .specimen-attribute b{color:#1d1712;letter-spacing:.06em;text-transform:uppercase}
-    .specimen-source{margin-top:7px;font:7px/1.3 Arial,Helvetica,sans-serif;color:#766a5b}
-    .specimen-status{margin-top:6px;font:700 6px/1.2 Arial,Helvetica,sans-serif;letter-spacing:.09em;text-transform:uppercase}
-    .specimen-status.cleared{color:#48634d}
-    .specimen-status.reference{color:#8b2319}
-    .card-specimen-count{display:block;margin-top:7px;color:#766a5b;font:700 7px Arial,Helvetica,sans-serif;letter-spacing:.09em;text-transform:uppercase}
-    .card-specimen-count .dot{display:inline-block;width:4px;height:4px;border-radius:50%;background:#48634d;margin-right:5px;vertical-align:middle}
-    .card-specimen-primary{display:block;margin-top:4px;color:#48634d;font:700 6px Arial,Helvetica,sans-serif;letter-spacing:.09em;text-transform:uppercase}
-    @media(max-width:640px){.specimen-gallery{grid-template-columns:1fr 1fr}.specimen-item img{aspect-ratio:1/1}}
-  `;
-  document.head.appendChild(style);
   const esc=v=>String(v??'').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
-  const buildUrl=(title,extra='')=>`https://www.google.com/search?tbm=isch&q=${encodeURIComponent(`${title} ${extra} guitar pedal vintage`)}`;
   const specs=()=>Array.isArray(window.DIRT_SPECIMENS)?window.DIRT_SPECIMENS:[];
-  const productFromHash=()=>{const key=decodeURIComponent(location.hash.replace(/^#\/?pedal\//,''));return (window.DATA?.pedals||[]).find(p=>String(p.pedal_id)===key)||null;};
-  const bestFor=(title,builderName)=>{const list=specs().filter(s=>s.title===title);if(!list.length)return [];const tagged=list.filter(s=>s.builder);if(builderName&&tagged.length){const exact=tagged.filter(s=>String(s.builder).toLowerCase()===String(builderName).toLowerCase());if(exact.length)return exact;const generic=list.filter(s=>!s.builder);return generic.length?generic:[];}return list;};
-  const clearedFor=(title,builderName)=>bestFor(title,builderName).find(s=>String(s.rights||'Reference').toLowerCase()==='cleared');
+  const pedalFromHash=()=>{const raw=location.hash.replace(/^#\/?pedal\//,'');let key=raw;try{key=decodeURIComponent(raw)}catch{}const pedals=Array.isArray(window.DATA?.pedals)?window.DATA.pedals:[];return pedals.find(p=>String(p.pedal_id)===key)||pedals.find(p=>String(p.model_name||'').trim().toLowerCase()===key.trim().toLowerCase())||null;};
+  const builderFor=p=>{const builders=Array.isArray(window.DATA?.builders)?window.DATA.builders:[];return p?builders.find(b=>b.builder_id===p.primary_builder_id):null;};
+  const generationRecords=p=>{
+    if(!p)return [];
+    const researched=Array.isArray(p.archive_research?.generations)?p.archive_research.generations:(window.DIRT_RESEARCH_GENERATIONS?.[p.model_name]||[]);
+    if(researched.length)return researched.map((g,i)=>{const years=String(g.years||'');const matches=years.match(/(\d{4})\D*(\d{4})?/);return {id:g.generation_id||`GEN-${String(p.model_name||'pedal').toLowerCase().replace(/[^a-z0-9]+/g,'-')}-${String(i+1).padStart(2,'0')}`,name:g.name||g.label||`Generation ${i+1}`,start_year:g.start_year||(matches?Number(matches[1]):null),end_year:g.end_year||(matches&&matches[2]?Number(matches[2]):null),summary:g.summary||g.notes||g.description||''};});
+    const structured=Array.isArray(window.DATA?.generations)?window.DATA.generations.filter(g=>g.pedal_id===p.pedal_id):[];
+    return structured.map((g,i)=>({id:g.generation_id,name:g.name||g.label||`Generation ${i+1}`,start_year:g.start_year,end_year:g.end_year,summary:g.summary||g.description||''}));
+  };
+  const recordsFor=(title,builderName)=>{const list=specs().filter(s=>String(s.title||'').trim()===String(title||'').trim());const tagged=list.filter(s=>s.builder);if(builderName&&tagged.length){const exact=tagged.filter(s=>String(s.builder).trim().toLowerCase()===String(builderName).trim().toLowerCase());if(exact.length)return exact;return list.filter(s=>!s.builder);}return list;};
+  const cleared=s=>['cleared','licensed','permission granted','owned','public domain','cc-by','cc-by-sa'].includes(String(s?.rights||s?.rights_status||'reference').trim().toLowerCase())&&s?.public_use_decision!=='pending';
+  const imageSearch=(title,g)=>`https://www.google.com/search?tbm=isch&q=${encodeURIComponent(`${title} ${g.name||''} ${g.start_year||''} guitar pedal vintage`)}`;
+  const visual=(s,title,g)=>cleared(s)&&s.src?`<a class="generation-visual-link" href="${esc(s.page||s.src)}" target="_blank" rel="noopener"><img class="generation-visual" src="${esc(s.src)}" alt="${esc(title)} ${esc(g.name)} visual reference" loading="lazy" referrerpolicy="no-referrer"></a>`:`<a class="generation-visual-pending" href="${esc(s?.page||imageSearch(title,g))}" target="_blank" rel="noopener"><span>PHOTO</span><small>${s?'external reference':'find a photo'}</small></a>`;
 
-  function applyClearedCardImage(card,title,builderName){
-    if(card.querySelector('.pedal-image img')) return false;
-    const s=clearedFor(title,builderName),holder=card.querySelector('.pedal-image');
-    if(!s||!holder)return false;
-    holder.innerHTML=`<img src="${esc(s.src)}" alt="${esc(title)} archival reference photograph" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.innerHTML='<div class=&quot;no-image&quot;><div><strong>${esc(title)}</strong><small>Reference image unavailable</small></div></div>'">`;
+  function debugState(){
+    const p=pedalFromHash();
+    return {hash:location.hash,pedal:p?.model_name||null,generationCount:generationRecords(p).length,structuredCount:Array.isArray(window.DATA?.generations)?window.DATA.generations.filter(g=>g.pedal_id===p?.pedal_id).length:0,researchGlobalCount:Array.isArray(window.DIRT_RESEARCH_GENERATIONS?.[p?.model_name])?window.DIRT_RESEARCH_GENERATIONS[p.model_name].length:0,headingPresent:!!document.querySelector('.detail-title'),guidePresent:!!document.querySelector('.generation-visual-section'),specimenCount:specs().filter(s=>String(s.title||'').trim()===String(p?.model_name||'').trim()).length};
+  }
+  window.DIRT_GENERATION_GUIDE_DEBUG=debugState;
+
+  function renderGenerationVisuals(){
+    const p=pedalFromHash();if(!p)return false;
+    const gens=generationRecords(p);const heading=document.querySelector('.detail-title');
+    if(!heading||!gens.length)return false;
+    let section=document.querySelector('.generation-visual-section');
+    const b=builderFor(p),records=recordsFor(p.model_name,b?.name),firstByGen=new Map();
+    records.forEach(s=>{if(s.generation_id&&!firstByGen.has(s.generation_id))firstByGen.set(s.generation_id,s);});
+    const rows=gens.map((g)=>{const s=firstByGen.get(g.id);const years=`${g.start_year||'Date unknown'}${g.end_year?`–${g.end_year}`:''}`;return `<div class="generation-visual-row" data-generation-id="${esc(g.id)}"><div class="generation-visual-slot">${s?visual(s,p.model_name,g):`<a class="generation-visual-pending" href="${esc(imageSearch(p.model_name,g))}" target="_blank" rel="noopener"><span>PHOTO</span><small>find a photo</small></a>`}</div><div class="generation-visual-copy"><div class="generation-visual-years">${esc(years)}</div><h3>${esc(g.name)}</h3><p>${esc(g.summary||'Generation research in progress.')}</p>${s?.caption?`<small>${esc(s.caption)}</small>`:''}</div></div>`;}).join('');
+    if(!section){
+      section=document.createElement('section');section.className='generation-visual-section';
+      const sections=Array.from(document.querySelectorAll('.archive-section'));const anchor=sections.find(s=>s.textContent.includes('Production History'));if(anchor)anchor.after(section);else heading.parentElement?.after(section);
+    }
+    section.innerHTML=`<div class="section-head"><h2>Generation guide</h2><div class="section-note">Visual identification</div></div><p class="generation-visual-intro">Compare the exterior of your pedal against the production generations below. Images appear only when a specimen record is tied to that exact generation and has an appropriate public-use status. Every missing generation has a direct photo-search doorway.</p><div class="generation-visual-list">${rows}</div>`;
     return true;
   }
-  function applyClearedDetailImage(){
-    const heading=document.querySelector('.detail-title'),plateImage=document.querySelector('.plate-image');
-    if(!heading||!plateImage||plateImage.querySelector('img'))return;
-    const p=productFromHash(),b=p?window.DATA?.builders?.find(x=>x.builder_id===p.primary_builder_id):null,s=clearedFor(heading.textContent.trim(),b?.name);
-    if(!s)return;
-    plateImage.innerHTML=`<img src="${esc(s.src)}" alt="${esc(heading.textContent.trim())} archival reference photograph" referrerpolicy="no-referrer">`;
-    const cap=plateImage.parentElement?.querySelector('.plate-caption');if(cap)cap.innerHTML=`<a href="${esc(s.page||s.src)}" target="_blank" rel="noopener">Archive image source ↗</a><br>${esc(s.credit||'Source credit recorded in registry.')}`;
-  }
-  function addCardSpecimens(){document.querySelectorAll('.pedal-card').forEach(card=>{const title=card.querySelector('h3')?.textContent?.trim(),builderName=card.querySelector('.builder')?.textContent?.trim();if(!title||card.querySelector('.card-specimen-count'))return;const list=bestFor(title,builderName);if(!list.length)return;applyClearedCardImage(card,title,builderName);const cleared=list.filter(s=>String(s.rights||'Reference').toLowerCase()==='cleared').length,body=card.querySelector('.pedal-body')||card,el=document.createElement('div');el.className='card-specimen-count';el.innerHTML=`${cleared?'<span class="dot"></span>':''}${list.length} visual specimen${list.length===1?'':'s'} indexed${cleared?` · ${cleared} archive-cleared`:''}`;body.appendChild(el);if(cleared){const p=document.createElement('div');p.className='card-specimen-primary';p.textContent='Primary cleared specimen shown above';body.appendChild(p);}});}
-  function specimenVisual(s,title){const status=String(s.rights||'Reference').toLowerCase();if(status==='cleared')return `<a href="${esc(s.src)}" target="_blank" rel="noopener"><img src="${esc(s.src)}" alt="${esc(title)} ${esc(s.role||'specimen')} photograph" loading="lazy" referrerpolicy="no-referrer"></a>`;return `<div class="specimen-reference"><div><strong>External visual reference</strong><span>Photograph retained as an identification lead, not an Archive asset.</span><a href="${esc(s.page||s.src)}" target="_blank" rel="noopener">Open source / specimen ↗</a></div></div>`;}
-  function addBlock(){const layout=document.querySelector('.detail-layout'),heading=document.querySelector('.detail-title');if(!layout||!heading||layout.querySelector('.specimen-strip'))return;const title=heading.textContent.trim(),p=productFromHash(),b=p?window.DATA?.builders?.find(x=>x.builder_id===p.primary_builder_id):null,card=layout.querySelector('.plate');if(!card)return;const list=bestFor(title,b?.name);const gallery=list.length?`<div class="specimen-gallery">${list.map(s=>{const status=String(s.rights||'Reference').toLowerCase(),cls=status==='cleared'?'cleared':'reference',e=s.electronics||'';return `<figure class="specimen-item">${specimenVisual(s,title)}<figcaption class="specimen-meta"><div class="specimen-role">${esc(s.role||'Specimen')}${s.era?` · ${esc(s.era)}`:''}</div><div class="specimen-caption">${esc(s.caption||'Visual identification specimen.')}</div>${s.variant_type?`<div class="specimen-attribute"><b>Variant identity</b><br>${esc(s.variant_type)}</div>`:''}${s.appearance?`<div class="specimen-attribute"><b>Appearance</b><br>${esc(s.appearance)}</div>`:''}${e?(typeof e==='string'?`<div class="specimen-attribute"><b>Electronics</b><br>${esc(e)}</div>`:`<div class="specimen-attribute"><b>Semiconductor family</b><br>${esc(e.semiconductor_family||'Not specified')}${e.notes?`<br>${esc(e.notes)}`:''}</div>`):''}<div class="specimen-source"><a href="${esc(s.page||s.src)}" target="_blank" rel="noopener">Source / file page ↗</a><br>${esc(s.credit||'Source credit recorded in registry.')}</div><div class="specimen-status ${cls}">${status==='cleared'?'Rights status: cleared for Archive use':'Rights status: external reference only'}</div></figcaption></figure>`;}).join('')}</div>`:'';const strip=document.createElement('div');strip.className='specimen-strip';strip.innerHTML=`<div class="specimen-kicker">Visual specimen index</div><p>${list.length?`This page currently indexes ${list.length} documented visual specimen${list.length===1?'':'s'}. Specimens can represent factory variants, colorways, OEM versions, reissues and unusual production changes.`:'No independently registered specimen image yet. External searches provide a visual reference doorway until a source is documented and rights-reviewed.'}</p>${gallery}<div class="specimen-links"><a href="${buildUrl(title,'front')}" target="_blank" rel="noopener">Front examples ↗</a><a href="${buildUrl(title,'vintage')}" target="_blank" rel="noopener">Vintage examples ↗</a><a href="${buildUrl(title,'variant')}" target="_blank" rel="noopener">Variants ↗</a></div><div class="specimen-plate-note">Identification workflow: compare enclosure shape, graphics, controls, treadle hardware, labeling and known production variants. External photographs are identification aids, not automatically cleared Archive assets. Electronics distinctions are recorded only when supported by source-backed evidence.</div>`;card.appendChild(strip);}
-  function decorate(){applyClearedDetailImage();addCardSpecimens();addBlock();}
-  new MutationObserver(()=>setTimeout(decorate,20)).observe(document.getElementById('app')||document.body,{childList:true,subtree:true});
-  window.addEventListener('hashchange',()=>setTimeout(decorate,50));window.addEventListener('load',()=>setTimeout(decorate,120));setTimeout(decorate,220);
+
+  const style=document.createElement('style');style.textContent=`.generation-visual-section{margin:38px 0 0;padding-top:22px;border-top:3px double #1d1712}.generation-visual-intro{max-width:760px;color:#766a5b;font:11px/1.55 Arial,Helvetica,sans-serif}.generation-visual-list{display:grid;gap:10px;margin-top:16px}.generation-visual-row{display:grid;grid-template-columns:190px 1fr;gap:18px;align-items:center;border:1px solid #b9aa92;background:#fbf7ef;padding:10px}.generation-visual-slot{min-height:145px;background:#e5dccb;display:flex;align-items:center;justify-content:center}.generation-visual-link{display:block;width:100%;height:100%}.generation-visual{display:block;width:100%;height:145px;object-fit:contain}.generation-visual-pending{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;width:100%;height:145px;background:repeating-linear-gradient(135deg,#eee5d5 0,#eee5d5 8px,#e8decc 8px,#e8decc 16px);color:#8b2319;text-transform:uppercase;text-align:center;text-decoration:none}.generation-visual-pending span{font:700 8px Arial,Helvetica,sans-serif;letter-spacing:.14em}.generation-visual-pending small{font:8px Arial,Helvetica,sans-serif;color:#766a5b;letter-spacing:.08em}.generation-visual-years{font:700 8px Arial,Helvetica,sans-serif;color:#8b2319;letter-spacing:.12em;text-transform:uppercase}.generation-visual-copy h3{margin:5px 0 4px;font:700 19px/1.1 Georgia,'Times New Roman',serif;color:#1d1712}.generation-visual-copy p{margin:0;color:#766a5b;font:10px/1.45 Arial,Helvetica,sans-serif}.generation-visual-copy small{display:block;margin-top:8px;color:#766a5b;font:8px/1.4 Arial,Helvetica,sans-serif}@media(max-width:640px){.generation-visual-row{grid-template-columns:1fr}.generation-visual-slot{min-height:180px}.generation-visual{height:180px}.generation-visual-pending{height:180px}}`;document.head.appendChild(style);
+
+  let repairTimer=null;
+  const scheduleRepair=()=>{clearInterval(repairTimer);let attempts=0;repairTimer=setInterval(()=>{attempts++;if(renderGenerationVisuals()||attempts>=30){clearInterval(repairTimer);repairTimer=null;}},100);};
+  window.addEventListener('dirtarchive:runtime-ready',scheduleRepair);
+  window.addEventListener('hashchange',scheduleRepair);
+  window.addEventListener('load',scheduleRepair);
+  setTimeout(scheduleRepair,250);
 })();

@@ -22,6 +22,12 @@
     .source-row a{text-decoration-thickness:1px;text-underline-offset:3px}
     .search-dialog{border-radius:0}
     .search-panel input:focus{border-color:#8b2319;box-shadow:inset 0 0 0 1px #8b2319}
+    .search-results{max-height:55vh;overflow:auto}
+    .search-result{display:block;padding:10px 12px;border-bottom:1px dotted #b9aa92;color:#1d1712;text-decoration:none}
+    .search-result:hover{background:#f4ecdf}
+    .search-result strong{display:block;font:700 11px/1.25 Georgia,serif}
+    .search-result small{display:block;margin-top:3px;font:8px/1.4 Arial,Helvetica,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#766a5b}
+    .search-empty{padding:14px 12px;color:#766a5b;font:9px/1.5 Arial,Helvetica,sans-serif}
     .main-nav a:focus-visible,.search-button:focus-visible,.builder-card:focus-visible,.pedal-card:focus-visible,.alphabet a:focus-visible,.category-tabs a:focus-visible,.link-list a:focus-visible,.source-row a:focus-visible{outline:2px solid #8b2319;outline-offset:2px}
     ::selection{background:#8b2319;color:#fbf7ef}
     a{-webkit-tap-highlight-color:rgba(139,35,25,.14)}
@@ -31,6 +37,8 @@
   document.head.appendChild(style);
 
   let lastHash = '';
+  let attempts = 0;
+  let timer = null;
 
   function decorateCards(){
     document.querySelectorAll('.pedal-card').forEach((card, i) => {
@@ -62,18 +70,107 @@
     else if(hash.includes('/category/overdrive')) document.querySelector('.main-nav a[href="#/category/overdrive"]')?.classList.add('active');
     else if(hash.includes('/category/distortion')) document.querySelector('.main-nav a[href="#/category/distortion"]')?.classList.add('active');
     else if(hash.includes('/builders') || hash.includes('/builder/')) document.querySelector('.main-nav a[href="#/builders"]')?.classList.add('active');
+    else if(hash.includes('/identify')) document.querySelector('.main-nav a[href="#/identify"]')?.classList.add('active');
+    else if(hash.includes('/photos')) document.querySelector('.main-nav a[href="#/photos"]')?.classList.add('active');
+    else if(hash.includes('/about')) document.querySelector('.main-nav a[href="#/about"]')?.classList.add('active');
+  }
+
+  function searchRecords(query){
+    const q = String(query || '').trim().toLowerCase();
+    const pedals = Array.isArray(window.DATA?.pedals) ? window.DATA.pedals : [];
+    const builders = Array.isArray(window.DATA?.builders) ? window.DATA.builders : [];
+    if(!q) return [];
+    const builderNames = new Map(builders.map(b => [b.builder_id, b.name]));
+    const ranked = [];
+    for(const p of pedals){
+      const builderName = builderNames.get(p.primary_builder_id) || '';
+      const hay = `${p.model_name || ''} ${builderName} ${p.primary_category || ''}`.toLowerCase();
+      if(!hay.includes(q)) continue;
+      const exact = String(p.model_name || '').toLowerCase() === q;
+      const starts = String(p.model_name || '').toLowerCase().startsWith(q);
+      ranked.push({p,builderName,score:exact?0:(starts?1:2)});
+    }
+    ranked.sort((a,b)=>a.score-b.score || String(a.p.model_name).localeCompare(String(b.p.model_name)));
+    return ranked.slice(0,24);
+  }
+
+  function renderSearch(query){
+    const resultsEl = document.getElementById('searchResults');
+    if(!resultsEl) return;
+    const q = String(query || '').trim();
+    if(!q){ resultsEl.innerHTML='<div class="search-empty">Type a builder, pedal, or category.</div>'; return; }
+    const hits = searchRecords(q);
+    if(!hits.length){ resultsEl.innerHTML='<div class="search-empty">No archive records matched that search.</div>'; return; }
+    resultsEl.innerHTML = hits.map(({p,builderName})=>`<a class="search-result" href="#/pedal/${encodeURIComponent(p.pedal_id || p.model_name || '')}"><strong>${esc(p.model_name || 'Untitled record')}</strong><small>${esc(builderName || 'Builder not established')} · ${esc(p.primary_category || 'Dirt')}</small></a>`).join('');
+  }
+
+  function resetSearchDialog(dlg){
+    if(!dlg) return;
+    try { if(typeof dlg.close === 'function' && dlg.open) dlg.close(); } catch(_) {}
+    dlg.removeAttribute('open');
+    dlg.style.removeProperty('display');
+    dlg.style.removeProperty('visibility');
+  }
+
+  function openSearch(dlg,input){
+    try {
+      if(typeof dlg.showModal === 'function' && !dlg.open) dlg.showModal();
+    } catch(error) {
+      console.warn('Native search dialog open failed; using attribute fallback.', error);
+    }
+    if(!dlg.open) dlg.setAttribute('open','');
+    dlg.style.display='block';
+    dlg.style.visibility='visible';
+    renderSearch(input.value);
+    requestAnimationFrame(() => input.focus());
+  }
+
+  function wireSearch(){
+    const btn = document.getElementById('searchBtn');
+    const dlg = document.getElementById('searchDialog');
+    const input = document.getElementById('searchInput');
+    if(!btn || !dlg || !input) return;
+    if(btn.dataset.dirtSearchBound === '1') return;
+    btn.dataset.dirtSearchBound = '1';
+    btn.addEventListener('click', event => {
+      event.preventDefault();
+      openSearch(dlg,input);
+    });
+    input.addEventListener('input', () => renderSearch(input.value));
+    dlg.addEventListener('click', event => {
+      if(event.target === dlg) resetSearchDialog(dlg);
+      if(event.target.closest('.close')) {
+        event.preventDefault();
+        resetSearchDialog(dlg);
+      }
+    });
+    dlg.addEventListener('cancel', () => resetSearchDialog(dlg));
+    renderSearch(input.value);
   }
 
   function decorate(){
     decorateCards();
     decorateSections();
     highlightNav();
+    wireSearch();
     const h = location.hash;
     if(h !== lastHash){ window.scrollTo(0,0); lastHash = h; }
+    const ready = !!document.querySelector('#app > *');
+    if(ready){attempts=0;timer=null;return;}
+    if(attempts>=30){attempts=0;timer=null;return;}
+    attempts += 1;
+    timer = setTimeout(decorate,100);
   }
 
-  new MutationObserver(decorate).observe(document.getElementById('app') || document.body,{childList:true,subtree:true});
-  window.addEventListener('hashchange',()=>setTimeout(decorate,25));
-  window.addEventListener('load',()=>setTimeout(decorate,80));
-  setTimeout(decorate,140);
+  function schedule(){
+    attempts=0;
+    if(timer) clearTimeout(timer);
+    decorate();
+  }
+
+  document.addEventListener('DOMContentLoaded',schedule,{once:true});
+  window.addEventListener('load',schedule,{once:true});
+  window.addEventListener('hashchange',schedule);
+  window.addEventListener('dirtarchive:runtime-ready',schedule);
+  schedule();
 })();
