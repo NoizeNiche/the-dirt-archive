@@ -50,6 +50,11 @@
       page:'https://commons.wikimedia.org/wiki/File:Electro_Harmonix_Big_Muff.jpg',
       credit:'Skimel · CC BY-SA 4.0'
     },
+    'Big Muff Pi Russian': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Electro-Harmonix_Big_Muff_Pi_(Russian_Sovtek_version).jpg',
+      page:'https://commons.wikimedia.org/wiki/File:Electro-Harmonix_Big_Muff_Pi_(Russian_Sovtek_version).jpg',
+      credit:'Wikimedia Commons · CC BY-SA 2.0'
+    },
     'RAT': {
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Proco-rat.jpg',
       page:'https://commons.wikimedia.org/wiki/File:Proco-rat.jpg',
