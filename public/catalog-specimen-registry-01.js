@@ -11,11 +11,11 @@
       variant:'Arbiter / early germanium', electronics:{semiconductor_family:'Germanium', notes:'Early production family; component details should be tied to the documented generation rather than inferred from color.'}
     },
     {
-      title:'Tone Bender', role:'Reference specimen', era:'1960s', rights:'Cleared',
-      caption:'British Tone Bender family specimen for enclosure and graphic identification.',
+      title:'Tone Bender', role:'Reference specimen', era:'1966', generation_id:'GEN-tone-bender-04', rights:'Cleared',
+      caption:'1966 Vox-branded Tone Bender specimen. Cataloged as the Italian V828 branch rather than being assumed to be a Sola Sound MK1.5 or British Professional MKII.',
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/1966_VOX_TONE_BENDER_FUZZ.jpg',
-      page:'https://commons.wikimedia.org/wiki/File:1966_VOX_TONE_BENDER_FUZZ.jpg', credit:'Wikimedia Commons · CC BY 2.0',
-      variant:'OEM / Vox-branded family', electronics:{semiconductor_family:'Germanium / generation dependent', notes:'Do not treat the family name alone as proof of a single component set.'}
+      page:'https://commons.wikimedia.org/wiki/File:1966_VOX_TONE_BENDER_FUZZ.jpg', credit:'sploshette · CC BY 2.0',
+      variant:'Vox V828 / Italian grey', electronics:{semiconductor_family:'Two-transistor fuzz', notes:'Wikimedia identifies this as a 1966 Vox Tone Bender; specialist histories distinguish the Italian V828 from the Sola Sound MK1.5 and Professional MKII.'}
     },
     {
       title:'Big Muff Pi', role:'Primary example', era:'NYC era', rights:'Cleared',
@@ -25,7 +25,7 @@
       variant:'NYC Big Muff family', electronics:{semiconductor_family:'Silicon', notes:'Generation-specific component substitutions belong in the generation record, not the colorway label.'}
     },
     {
-      title:'TS808 Tube Screamer', role:'Primary example', era:'1979–1981', rights:'Cleared',
+      title:'TS808 Tube Screamer', role:'Primary example', era:'1979–1981', generation_id:'GEN-ts808-tube-screamer-01', rights:'Cleared',
       caption:'Original-style TS808 enclosure and control layout reference.',
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Ibanez_TS808_Tube_Screamer_%2848588080527%29_cropped.jpg',
       page:'https://commons.wikimedia.org/wiki/File:Ibanez_TS808_Tube_Screamer_%2848588080527%29_%28cropped%29.jpg', credit:'Guitar Chalk · CC BY 2.0',
