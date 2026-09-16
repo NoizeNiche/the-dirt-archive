@@ -1,4 +1,4 @@
-name: Build Effects Database master index with browser
+name: Build Effects Database master index with Reader
 on:
   workflow_dispatch:
   push:
@@ -14,17 +14,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Install browser and Python packages
-        run: |
-          python -m pip install --upgrade playwright python-docx
-          python -m playwright install --with-deps chromium
-      - name: Extract all three category indexes
+      - name: Install dependencies
+        run: python -m pip install --upgrade requests python-docx
+      - name: Extract all three Effects Database indexes
         run: |
           cat > /tmp/build.py <<'PY'
           from collections import OrderedDict
           from pathlib import Path
-          import re,time
-          from playwright.sync_api import sync_playwright,TimeoutError as PlaywrightTimeoutError
+          from urllib.parse import quote
+          import re,time,requests
           from docx import Document
           from docx.shared import Pt,Inches
           from docx.enum.text import WD_ALIGN_PARAGRAPH
@@ -35,58 +33,61 @@ jobs:
             ('Fuzz','https://www.effectsdatabase.com/type/fuzz/pedal')])
           E={'Overdrive':5414,'Distortion':3455,'Fuzz':4211}
           OUT=Path('research/effectsdatabase-master-extract'); OUT.mkdir(parents=True,exist_ok=True)
+          S=requests.Session(); S.headers.update({'User-Agent':'The-Dirt-Archive/1.0','Accept':'text/markdown,text/plain,*/*','X-Return-Format':'markdown'})
 
-          def extract(page):
-              rows=page.locator('li').evaluate_all("""
-              els => els.map(li => {
-                const text=(li.innerText||'').trim().replace(/\\s+/g,' ');
-                const m=text.match(/^(\\d+)\\.\\s+/);
-                if(!m) return null;
-                const a=li.querySelector('a');
-                return a ? {n:Number(m[1]),name:(a.innerText||'').trim().replace(/\\s+/g,' '),href:a.href} : null;
-              }).filter(Boolean)
-              """)
-              out=[]; seen=set()
+          def reader_url(target):
+              safe=quote(target,safe=":/?#[]@!$&'()*+,;=%")
+              return 'https://r.jina.ai/'+safe
+
+          def fetch(target):
+              u=reader_url(target)
+              for attempt in range(6):
+                  r=S.get(u,timeout=120)
+                  if r.status_code==200 and r.text:
+                      return r.text
+                  if r.status_code in (429,500,502,503,504):
+                      wait=5*(attempt+1); print('retry',r.status_code,'sleep',wait,u); time.sleep(wait); continue
+                  r.raise_for_status()
+              raise RuntimeError('Reader failed after retries: '+u)
+
+          def parse(text):
+              pos=text.lower().find('gear in this category')
+              block=text[pos:] if pos>=0 else text
+              rows=[]
+              for raw in block.splitlines():
+                  line=' '.join(raw.strip().split())
+                  m=re.match(r'^(\d+)\.\s+\[([^\]]+)\]\([^\n]*\)$',line)
+                  if m: rows.append((int(m.group(1)),m.group(2).strip())); continue
+                  m=re.match(r'^(\d+)\.\s+(.+)$',line)
+                  if m:
+                      name=m.group(2).strip()
+                      if name and not name.lower().startswith('page ') and ' products' not in name.lower(): rows.append((int(m.group(1)),name))
+              seen=set(); out=[]
               for x in rows:
-                  t=(int(x['n']),x['name'],x['href'])
-                  if t not in seen: seen.add(t); out.append(t)
+                  if x not in seen: seen.add(x); out.append(x)
               return out
 
-          def open_page(page,url):
-              for attempt in range(4):
-                  try:
-                      resp=page.goto(url,wait_until='domcontentloaded',timeout=90000)
-                      page.wait_for_timeout(900)
-                      if resp and resp.status>=400: raise RuntimeError(f'HTTP {resp.status}')
-                      return
-                  except (PlaywrightTimeoutError,RuntimeError) as exc:
-                      if attempt==3: raise
-                      print('RETRY',attempt+1,url,exc); time.sleep(2)
+          all_data=OrderedDict()
+          for cat,base in C.items():
+              expected=E[cat]; rec=[]
+              for page in range(0,((expected-1)//100)+1):
+                  target=base if page==0 else f'{base}?page={page}'
+                  text=fetch(target); rows=parse(text)
+                  print(cat,'page',page,'rows',len(rows),'first',rows[0] if rows else None,'last',rows[-1] if rows else None)
+                  if not rows: raise RuntimeError(f'{cat}: empty page {page}')
+                  rec.extend(rows)
+                  time.sleep(3.2)
+              seen=set(); final=[]
+              for x in sorted(rec,key=lambda x:x[0]):
+                  if x not in seen: seen.add(x); final.append(x)
+              nums=[n for n,_ in final]
+              if len(final)!=expected or nums!=list(range(1,expected+1)):
+                  raise RuntimeError(f'{cat}: expected {expected} sequential records; got {len(final)}')
+              all_data[cat]=final
+              (OUT/f'{cat.lower()}-all.txt').write_text('\n'.join(n for _,n in final)+'\n',encoding='utf-8')
+              (OUT/f'{cat.lower()}-all.tsv').write_text('\n'.join(f'{n}\t{name}' for n,name in final)+'\n',encoding='utf-8')
 
-          data=OrderedDict()
-          with sync_playwright() as p:
-              browser=p.chromium.launch(headless=True)
-              ctx=browser.new_context(user_agent='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/153 Safari/537.36',locale='en-US',viewport={'width':1440,'height':1200})
-              page=ctx.new_page()
-              for cat,base in C.items():
-                  rec=[]; max_page=(E[cat]-1)//100
-                  for q in range(max_page+1):
-                      url=base if q==0 else f'{base}?page={q}'
-                      open_page(page,url); rows=extract(page)
-                      print(cat,'page',q,'rows',len(rows),'first',rows[0] if rows else None,'last',rows[-1] if rows else None)
-                      if not rows: raise RuntimeError(f'{cat}: empty page {q}')
-                      rec.extend(rows)
-                  seen=set(); final=[]
-                  for x in sorted(rec,key=lambda x:x[0]):
-                      if x not in seen: seen.add(x); final.append(x)
-                  if len(final)!=E[cat] or [n for n,_,_ in final]!=list(range(1,E[cat]+1)):
-                      raise RuntimeError(f'{cat}: expected {E[cat]} sequential records, got {len(final)}')
-                  data[cat]=final
-                  (OUT/f'{cat.lower()}-all.txt').write_text('\n'.join(name for _,name,_ in final)+'\n',encoding='utf-8')
-                  (OUT/f'{cat.lower()}-all.tsv').write_text('\n'.join(f'{n}\t{name}\t{href}' for n,name,href in final)+'\n',encoding='utf-8')
-              browser.close()
-
-          total=sum(len(v) for v in data.values()); assert total==13080
+          total=sum(len(v) for v in all_data.values()); assert total==13080
           doc=Document(); s=doc.sections[0]; s.top_margin=Inches(.5); s.bottom_margin=Inches(.5); s.left_margin=Inches(.55); s.right_margin=Inches(.55)
           p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; r=p.add_run('EFFECTS DATABASE MASTER DIRT PEDAL INDEX'); r.bold=True; r.font.size=Pt(20)
           p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; r=p.add_run('Complete Overdrive / Distortion / Fuzz listing'); r.italic=True; r.font.size=Pt(11)
@@ -94,31 +95,31 @@ jobs:
           p=doc.add_paragraph(); p.add_run('Extraction date: ').bold=True; p.add_run('2026-09-16')
           p=doc.add_paragraph(); p.add_run('Content: ').bold=True; p.add_run('Pedal names only, in Effects Database index order.')
           doc.add_page_break(); doc.add_heading('MASTER COUNTS',1)
-          for cat,recs in data.items(): doc.add_paragraph(f'{cat}: {len(recs):,}')
+          for cat,recs in all_data.items(): doc.add_paragraph(f'{cat}: {len(recs):,}')
           doc.add_paragraph(f'TOTAL: {total:,}')
-          for cat,recs in data.items():
+          for cat,recs in all_data.items():
               doc.add_page_break(); doc.add_heading(cat.upper(),1)
-              for n,name,_ in recs:
+              for n,name in recs:
                   p=doc.add_paragraph(); p.paragraph_format.space_after=Pt(0); p.add_run(f'{n}. ').bold=True; p.add_run(name)
           doc.save('research/effectsdatabase-master-dirt-pedal-index.docx')
-          Path(OUT/'master.tsv').write_text('\n'.join(f'{cat}\t{n}\t{name}\t{href}' for cat,recs in data.items() for n,name,href in recs)+'\n',encoding='utf-8')
-          print('MASTER TOTAL',total)
+          Path(OUT/'master.tsv').write_text('\n'.join(f'{cat}\t{n}\t{name}' for cat,recs in all_data.items() for n,name in recs)+'\n',encoding='utf-8')
+          print('FINAL', {k:len(v) for k,v in all_data.items()},total)
           PY
           python /tmp/build.py
-      - name: Verify master index
+      - name: Verify exact totals and continuous numbering
         run: |
           python - <<'PY'
           from pathlib import Path
           import zipfile
-          e={'overdrive':5414,'distortion':3455,'fuzz':4211}; total=0
-          for c,n in e.items():
+          exp={'overdrive':5414,'distortion':3455,'fuzz':4211}; total=0
+          for c,n in exp.items():
               rows=[x for x in Path(f'research/effectsdatabase-master-extract/{c}-all.txt').read_text().splitlines() if x]
               assert len(rows)==n,(c,len(rows),n); total+=len(rows)
           assert total==13080
           with zipfile.ZipFile('research/effectsdatabase-master-dirt-pedal-index.docx') as z: assert z.testzip() is None
-          print('VERIFIED',total)
+          print('VERIFIED COMPLETE MASTER INDEX',total)
           PY
-      - name: Commit and upload complete index
+      - name: Commit and upload complete master index
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
