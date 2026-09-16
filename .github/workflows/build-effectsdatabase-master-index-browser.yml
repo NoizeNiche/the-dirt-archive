@@ -23,71 +23,58 @@ jobs:
           cat > /tmp/build.py <<'PY'
           from collections import OrderedDict
           from pathlib import Path
-          import re,time
-          from playwright.sync_api import sync_playwright,TimeoutError as PWTimeout
+          import time
+          from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
           from docx import Document
           from docx.shared import Pt, Inches
           from docx.enum.text import WD_ALIGN_PARAGRAPH
 
           C=OrderedDict([
-            ('Overdrive','https://www.effectsdatabase.com/type/overdrive/pedal',54),
-            ('Distortion','https://www.effectsdatabase.com/type/distortion/pedal',34),
-            ('Fuzz','https://www.effectsdatabase.com/type/fuzz/pedal',42)])
-          EXPECT={'Overdrive':5414,'Distortion':3455,'Fuzz':4211}
+            ('Overdrive','https://www.effectsdatabase.com/type/overdrive/pedal',54,5414),
+            ('Distortion','https://www.effectsdatabase.com/type/distortion/pedal',34,3455),
+            ('Fuzz','https://www.effectsdatabase.com/type/fuzz/pedal',42,4211)])
           OUT=Path('research/effectsdatabase-master-extract'); OUT.mkdir(parents=True,exist_ok=True)
 
           def page_rows(page):
-              # Product index rows are numbered list items containing /model/ links.
               data=page.locator('li').evaluate_all("""
               els => els.map(li => {
                 const t=(li.innerText||'').trim().replace(/\\s+/g,' ');
                 const m=t.match(/^(\\d+)\\.\\s+(.*)$/);
-                if(!m) return null;
-                const a=li.querySelector('a[href*='/model/']');
-                if(!a) return null;
-                return {n:Number(m[1]),name:(a.innerText||'').trim().replace(/\\s+/g,' '),href:a.href};
+                const a=li.querySelector(\"a[href*=\\\"/model/\\\"]\");
+                return (m&&a) ? {n:Number(m[1]),name:(a.innerText||'').trim().replace(/\\s+/g,' '),href:a.href} : null;
               }).filter(Boolean)
               """)
-              # Above CSS quoting can vary by browser parser; use a generic href check as fallback.
-              if not data:
-                  data=page.locator('li').evaluate_all("""
-                  els => els.map(li => { const t=(li.innerText||'').trim().replace(/\\s+/g,' '); const m=t.match(/^(\\d+)\\.\\s+(.*)$/); const a=li.querySelector('a'); return (m&&a&&a.href.includes('/model/')) ? {n:Number(m[1]),name:(a.innerText||'').trim().replace(/\\s+/g,' '),href:a.href} : null; }).filter(Boolean)
-                  """)
               out=[]; seen=set()
               for x in data:
-                  key=x['href']
-                  if key not in seen: seen.add(key); out.append((x['name'],x['href']))
+                  if x['href'] not in seen:
+                      seen.add(x['href']); out.append((x['name'],x['href']))
               return out
 
           def load(page,url):
-              last=None
-              for attempt in range(5):
+              for attempt in range(6):
                   try:
-                      resp=page.goto(url,wait_until='domcontentloaded',timeout=90000)
-                      page.wait_for_timeout(700)
-                      if resp and resp.status>=400: raise RuntimeError(f'HTTP {resp.status}')
+                      r=page.goto(url,wait_until='domcontentloaded',timeout=90000)
+                      page.wait_for_timeout(900)
+                      if r and r.status>=400: raise RuntimeError(f'HTTP {r.status}')
                       return
                   except (PWTimeout,RuntimeError) as e:
-                      last=e; time.sleep(2+attempt)
-              raise last
+                      if attempt==5: raise
+                      print('retry',attempt+1,url,e,flush=True); time.sleep(2+attempt)
 
           all_data=OrderedDict()
           with sync_playwright() as pw:
               browser=pw.chromium.launch(headless=True)
               ctx=browser.new_context(user_agent='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/153 Safari/537.36',locale='en-US',viewport={'width':1440,'height':1200})
               page=ctx.new_page()
-              for cat,(base,last_page) in C.items():
+              for cat,(base,last_page,expected) in C.items():
                   records=[]
                   for q in range(last_page+1):
                       url=base if q==0 else f'{base}?page={q}'
-                      load(page,url)
-                      rows=page_rows(page)
+                      load(page,url); rows=page_rows(page)
                       print(f'{cat} page {q}: {len(rows)} products; first={rows[0] if rows else None}; last={rows[-1] if rows else None}',flush=True)
                       if not rows: raise RuntimeError(f'{cat}: page {q} empty')
                       records.extend(rows)
-                  # Validate the complete concatenated category, not the per-page row numbers.
-                  if len(records)!=EXPECT[cat]:
-                      raise RuntimeError(f'{cat}: expected {EXPECT[cat]}, extracted {len(records)}')
+                  if len(records)!=expected: raise RuntimeError(f'{cat}: expected {expected}, extracted {len(records)}')
                   hrefs=[h for _,h in records]
                   if len(set(hrefs))!=len(hrefs): raise RuntimeError(f'{cat}: duplicate model URL in full index')
                   all_data[cat]=records
