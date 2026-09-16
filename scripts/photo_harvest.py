@@ -9,6 +9,9 @@ DATA=json.loads((PUBLIC/'data.json').read_text(encoding='utf-8'))
 pedals=list(DATA.get('pedals',[]))
 builders={b.get('builder_id'):b.get('name','') for b in DATA.get('builders',[])}
 
+# Include discovered records. Preserve duplicate pedal IDs by making a stable
+# builder/model fallback key rather than allowing a later discovery row to
+# silently overwrite an earlier photo record.
 seen={(str(p.get('primary_builder_id')),str(p.get('model_name','')).strip().lower()) for p in pedals}
 for path in sorted(PUBLIC.glob('discovery-*.tsv')):
     for line in path.read_text(encoding='utf-8',errors='ignore').splitlines():
@@ -24,6 +27,11 @@ for path in sorted(PUBLIC.glob('discovery-*.tsv')):
 BAD_RE=re.compile(r'\b(inside|internals?|pcb|circuit[-_ ]board|gutshot|schematic|audio|\.ogg|\.mp3|logo|icon|avatar|banner|sprite|favicon|placeholder|loading)\b',re.I)
 def acceptable(value): return bool(value) and not BAD_RE.search(str(value))
 
+def source_id(p):
+    pid=str(p.get('pedal_id') or '').strip(); builder=builders.get(p.get('primary_builder_id'),''); model=str(p.get('model_name') or '').strip()
+    if pid: return pid
+    return f'{builder}::{model}'
+
 existing={}
 for path in PUBLIC.glob('catalog-thumbnails-*.js'):
     text=path.read_text(encoding='utf-8',errors='ignore')
@@ -31,7 +39,7 @@ for path in PUBLIC.glob('catalog-thumbnails-*.js'):
         key,url=m.group(1),m.group(2)
         if acceptable(url): existing.setdefault(key,url)
 
-UA='The-Dirt-Archive/1.3 (historical reference; photo research)'
+UA='The-Dirt-Archive/1.4 (historical reference; photo research)'
 def get_json(url):
     req=Request(url,headers={'User-Agent':UA,'Accept':'application/json'})
     with urlopen(req,timeout=20) as r: return json.loads(r.read().decode('utf-8'))
@@ -57,8 +65,7 @@ def commons(query):
 
 def score(item,model,builder):
     t=(item.get('title') or '').lower()
-    mt=re.sub(r'[^a-z0-9 ]',' ',model.lower()).split()
-    bt=re.sub(r'[^a-z0-9 ]',' ',builder.lower()).split()
+    mt=re.sub(r'[^a-z0-9 ]',' ',model.lower()).split(); bt=re.sub(r'[^a-z0-9 ]',' ',builder.lower()).split()
     stop={'guitar','pedal','effects','effect','fx','the','and','for','overdrive','distortion','fuzz'}
     s=sum((6 if len(x)>=6 else 4) for x in mt if x not in stop and x in t)
     s+=sum(3 for x in bt if len(x)>3 and x in t)
@@ -70,7 +77,7 @@ def identity_score(item,model,builder):
     if model and model.lower()==t.strip().lower(): s+=10
     return s
 
-manifest={}; rows=[]
+manifest={}; rows=[]; used_keys=set()
 for i,p in enumerate(pedals,1):
     model=str(p.get('model_name') or '').strip(); builder=builders.get(p.get('primary_builder_id'),'')
     hits=[]
@@ -80,12 +87,15 @@ for i,p in enumerate(pedals,1):
         if len([x for x in hits if identity_score(x,model,builder)>=6])>=6: break
         time.sleep(.05)
     hits=sorted((x for x in hits if acceptable(x.get('title','')) and acceptable(x.get('src',''))),key=lambda x:identity_score(x,model,builder),reverse=True)[:6]
-    if model in existing:
-        lead={'src':existing[model],'page':'','title':model,'credit':'Existing Dirt Archive media registry','license':'Reference-only','source':'Archive registry'}
+    legacy=existing.get(model)
+    if legacy:
+        lead={'src':legacy,'page':'','title':model,'credit':'Existing Dirt Archive media registry','license':'Reference-only','source':'Archive registry'}
         hits=[lead]+[x for x in hits if x['src']!=lead['src']]
     entry={'src':hits[0]['src'],'page':hits[0].get('page',''),'credit':hits[0].get('credit',''),'license':hits[0].get('license',''),'source':hits[0].get('source',''),'gallery':hits[:6]} if hits else {'src':None,'page':'','credit':'','license':'','source':'','gallery':[]}
-    key=str(p.get('pedal_id') or f'{builder}::{model}')
-    manifest[key]=dict(entry,builder=builder,model=model,pedal_id=key)
+    key=source_id(p)
+    if key in used_keys: key=f'{key}::{builder}::{model}'
+    used_keys.add(key)
+    manifest[key]=dict(entry,builder=builder,model=model,pedal_id=str(p.get('pedal_id') or ''))
     rows.append((p.get('pedal_id',''),builder,model,len(hits),entry['source']))
     if i%50==0: print(f'processed {i}/{len(pedals)}')
 
