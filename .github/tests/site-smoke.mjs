@@ -58,12 +58,28 @@ try {
   console.log('PASS  generation fixture');
 
   await expectText(page, 'home', '', 'h1', 'Document');
+  const homeIdentify = page.locator('a.hero-action-primary[href="#/identify"]');
+  await homeIdentify.waitFor({state:'visible', timeout:5000});
+  const homePhotos = page.locator('a.hero-action-secondary[href="#/photos"]');
+  await homePhotos.waitFor({state:'visible', timeout:5000});
+  console.log('PASS  home visitor actions');
+
+  const homePhotoShelf = page.locator('.photo-shelf-card');
+  if (await homePhotoShelf.count() < 1) throw new Error('Home page did not expose an archive-ready photo reference shelf');
+  if (await homePhotoShelf.first().locator('img').count() !== 1) throw new Error('Home photo shelf contains a card without a visual reference');
+  console.log(`PASS  home photo shelf (${await homePhotoShelf.count()} cards)`);
+
   await expectText(page, 'builders index', '#/builders', '.detail-title', 'Builders');
   await expectText(page, 'fuzz category', '#/category/fuzz', '.detail-title', 'Fuzz');
   await expectText(page, 'overdrive category', '#/category/overdrive', '.detail-title', 'Overdrive');
   await expectText(page, 'distortion category', '#/category/distortion', '.detail-title', 'Distortion');
   await expectText(page, 'pedal detail', '#/pedal/Fuzz%20Face', '.detail-title', 'Fuzz Face');
   if (await page.locator('.research-status').count() !== 1) throw new Error('Pedal detail did not render exactly one research status row');
+  if (await page.locator('.detail-layout .plate').count() !== 1) throw new Error('Pedal detail did not render its primary object plate');
+  if (await page.locator('.detail-layout .plate').locator('img').count() !== 1) throw new Error('Pedal detail primary object plate is missing its photograph');
+  if (await page.locator('.detail-layout > :scope > .meta-strip, .detail-layout > .meta-strip').count() !== 0) throw new Error('Pedal detail still renders the retired vertical metadata strip');
+  console.log('PASS  pedal page presentation');
+
   const browserGenerationCount = await page.evaluate(() => Array.isArray(window.DIRT_RESEARCH_GENERATIONS?.['Fuzz Face']) ? window.DIRT_RESEARCH_GENERATIONS['Fuzz Face'].length : 0);
   if (browserGenerationCount !== 5) throw new Error(`Browser research layer exposed ${browserGenerationCount} Fuzz Face generations, expected 5`);
   console.log('PASS  browser research generation map');
@@ -80,6 +96,8 @@ try {
     throw new Error(`Generation guide rendered ${generationRowCount} rows, expected five researched Fuzz Face generations`);
   }
   if (await page.locator('.generation-visual-row').first().locator('img.generation-visual').count() !== 1) throw new Error('Fuzz Face first generation does not expose its cleared visual reference');
+  const visualWidth = await page.locator('.generation-visual-row').first().locator('img.generation-visual').evaluate(el => Math.round(el.getBoundingClientRect().width));
+  if (visualWidth < 140) throw new Error(`Generation visual is too small for identification use (${visualWidth}px)`);
   if (await page.locator('.specimen-strip,.specimen-gallery').count() !== 0) throw new Error('Legacy specimen strip/gallery is still rendered');
   console.log('PASS  generation visual guide');
   await expectText(page, 'lineage test pedal detail', '#/pedal/Park%20Fuzz%20Sound', '.detail-title', 'Park Fuzz Sound');
