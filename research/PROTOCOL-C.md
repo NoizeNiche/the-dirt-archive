@@ -252,6 +252,8 @@ Current products are moving targets. For products sold in 2025-2026:
 
 A current storefront should never overwrite a historical production state.
 
+The current-product sweep must also maintain `research/modern-current-feed-2026-01.tsv`. New-product notices from Effects Database weekly updates, official manufacturer announcements, NAMM coverage, dealer launches, and comparable current sources should be logged there as dated discovery events before being absorbed into builder/catalog ledgers.
+
 ## 12. Boundary handling
 
 The Dirt Archive remains centered on dirt.
@@ -294,6 +296,8 @@ The modern archive should therefore grow outward continuously while the vintage 
 The next continuous research batches should prioritize builders and products from the 1990s-2026 period that are absent from, or only weakly represented in, `builder-master-census-01.tsv` and the builder completion queues.
 
 The research objective is not a short list of famous boutique brands. It is a large, evidence-qualified universe of identifiable builders and products, including the obscure products that make the archive useful as a reference rather than a hall of famous hits.
+
+The immediate catalog batch sequence should begin with modern builders having large or unusually variant-rich indexes, then move through smaller regional and experimental builders. EAE, Fairfield Circuitry, Mid-Fi Electronics, Old Blood Noise Endeavors, Chase Bliss Audio, Wren and Cuff, Caroline Guitar Company, Mythos Pedals, Alexander Pedals, ThorpyFX, Rainger FX, Bondi Effects, Jackson Audio, and similar targets are examples of the intended lane, not a closed list.
 
 Supporting discovery sources:
 - https://www.effectsdatabase.com/
