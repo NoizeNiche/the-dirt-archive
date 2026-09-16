@@ -10,6 +10,8 @@ on:
       - 'research/catalog-variant-photo-status-01.tsv'
       - 'public/catalog-hardcase-photo-manifest.js'
       - 'research/catalog-hardcase-photo-status-01.tsv'
+      - 'public/catalog-builder-logo-manifest.js'
+      - 'research/catalog-builder-logo-status-01.tsv'
   schedule:
     - cron: '17 6 * * 0'
   workflow_dispatch:
@@ -31,8 +33,10 @@ jobs:
         run: python scripts/variant_photo_harvest.py
       - name: Harvest hard-case specialist-source photos
         run: python scripts/hard_case_photo_harvest.py
+      - name: Harvest builder logo references
+        run: python scripts/builder_logo_harvest.py
       - name: Commit manifests
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: 'chore: refresh pedal, variant, and hard-case photo manifests'
-          file_pattern: 'public/catalog-photo-manifest.js research/catalog-photo-harvest-status-01.tsv public/catalog-variant-photo-manifest.js research/catalog-variant-photo-status-01.tsv public/catalog-hardcase-photo-manifest.js research/catalog-hardcase-photo-status-01.tsv'
+          commit_message: 'chore: refresh pedal, variant, hard-case, and builder-logo manifests'
+          file_pattern: 'public/catalog-photo-manifest.js research/catalog-photo-harvest-status-01.tsv public/catalog-variant-photo-manifest.js research/catalog-variant-photo-status-01.tsv public/catalog-hardcase-photo-manifest.js research/catalog-hardcase-photo-status-01.tsv public/catalog-builder-logo-manifest.js research/catalog-builder-logo-status-01.tsv'
