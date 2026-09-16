@@ -1,7 +1,4 @@
 (() => {
-  // Full-catalog photo presentation layer.
-  // Combines the general photo manifest with the Effects Database reference
-  // layer so obscure/current products get a second path to documented imagery.
   const MAX_IMAGES=6;
   const style=document.createElement('style');
   style.textContent=`
@@ -19,77 +16,29 @@
     @media(max-width:700px){.photo-harvest-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
   `;
   document.head.appendChild(style);
-
   let manifestPromise;
+  const BAD_RE=/\b(inside|internals?|pcb|circuit[-_ ]board|gutshot|schematic|audio|\.ogg|\.mp3|logo|icon|avatar|banner|sprite|favicon|placeholder|loading)\b/i;
+  function usable(x){return x?.src&&!BAD_RE.test(`${x.src||''} ${x.title||''}`)}
   function loadScripts(){
-    if(manifestPromise) return manifestPromise;
-    manifestPromise=new Promise(resolve=>{
-      const names=['/catalog-photo-manifest.js','/catalog-effects-database-photo-manifest.js'];
-      let left=names.length;
-      names.forEach(name=>{
-        const s=document.createElement('script');
-        s.src=name+'?v='+Date.now();
-        s.onload=s.onerror=()=>{if(--left===0)resolve()};
-        document.head.appendChild(s);
-      });
-    });
+    if(manifestPromise)return manifestPromise;
+    manifestPromise=new Promise(resolve=>{const names=['/catalog-photo-manifest.js','/catalog-effects-database-photo-manifest.js'];let left=names.length;names.forEach(name=>{const s=document.createElement('script');s.src=name+'?v='+Date.now();s.onload=s.onerror=()=>{if(--left===0)resolve()};document.head.appendChild(s)});});
     return manifestPromise;
   }
-
   function combinedEntry(model){
-    const core=(window.DIRT_PHOTO_MANIFEST||{})[model]||{};
-    const edb=(window.DIRT_EDB_PHOTO_MANIFEST||{})[model]||{};
-    const gallery=[];
-    for(const item of [core,...(core.gallery||[]),edb,...(edb.gallery||[])]){
-      if(!item?.src) continue;
-      if(gallery.some(x=>x.src===item.src)) continue;
-      gallery.push({...item});
-      if(gallery.length>=MAX_IMAGES) break;
-    }
-    if(!gallery.length) return null;
-    return {...(edb.src?edb:core),src:gallery[0].src,page:gallery[0].page||edb.page||core.page||'',credit:gallery[0].credit||edb.credit||core.credit||'',license:gallery[0].license||edb.license||core.license||'',gallery};
+    const core=(window.DIRT_PHOTO_MANIFEST||{})[model]||{}; const edb=(window.DIRT_EDB_PHOTO_MANIFEST||{})[model]||{}; const gallery=[];
+    for(const item of [core,...(core.gallery||[]),edb,...(edb.gallery||[])]){if(!usable(item))continue;if(gallery.some(x=>x.src===item.src))continue;gallery.push({...item});if(gallery.length>=MAX_IMAGES)break}
+    if(!gallery.length)return null; const lead=gallery[0]; return {src:lead.src,page:lead.page||edb.page||core.page||'',credit:lead.credit||edb.credit||core.credit||'',license:lead.license||edb.license||core.license||'',gallery};
   }
-
-  function resolver(){
-    if(window.__DIRT_PHOTO_RESOLVER) return;
-    const previous=window.imageFor;
-    window.imageFor=p=>combinedEntry(p?.model_name)||(previous?previous(p):null);
-    window.__DIRT_PHOTO_RESOLVER=true;
-  }
-
   function render(card,title,entry){
-    const gallery=(entry?.gallery||[]).filter(x=>x?.src).slice(0,MAX_IMAGES);
-    if(!gallery.length && entry?.src) gallery.push(entry);
-    if(!gallery.length) return;
+    const gallery=(entry?.gallery||[]).filter(usable).slice(0,MAX_IMAGES); if(!gallery.length&&entry?.src&&usable(entry))gallery.push(entry); if(!gallery.length)return;
     const holder=card.querySelector('.pedal-image');
-    if(holder && !holder.querySelector('img')){
-      const im=gallery[0];
-      holder.classList.add('photo-harvest-lead');
-      holder.innerHTML='';
-      const a=document.createElement('a');a.href=im.page||im.src;a.target='_blank';a.rel='noopener noreferrer';
-      const img=document.createElement('img');img.src=im.src;img.alt=`${title} reference photograph`;img.loading='lazy';img.referrerPolicy='no-referrer';
-      img.onerror=()=>{a.remove();};a.appendChild(img);holder.appendChild(a);
-      const badge=document.createElement('span');badge.className='photo-harvest-badge';badge.textContent='PHOTO REFERENCE';holder.appendChild(badge);
-    }
-    let wrap=card.querySelector('.photo-harvest');
-    if(!wrap){wrap=document.createElement('div');wrap.className='photo-harvest';card.querySelector('.pedal-body')?.appendChild(wrap);}
-    wrap.innerHTML='';
-    const head=document.createElement('div');head.className='photo-harvest-head';head.innerHTML=`<span class="photo-harvest-label">PHOTO ARCHIVE</span><span class="photo-harvest-status">${gallery.length} reference${gallery.length===1?'':'s'}</span>`;wrap.appendChild(head);
-    const grid=document.createElement('div');grid.className='photo-harvest-grid';
-    gallery.forEach((im,i)=>{const a=document.createElement('a');a.href=im.page||im.src;a.target='_blank';a.rel='noopener noreferrer';a.title=`${im.title||title} · ${im.license||''}`;const img=document.createElement('img');img.src=im.src;img.alt=`${title} reference photograph ${i+1}`;img.loading='lazy';img.referrerPolicy='no-referrer';img.onerror=()=>a.remove();a.appendChild(img);grid.appendChild(a);});
-    wrap.appendChild(grid);
-    const note=document.createElement('div');note.className='photo-harvest-note';note.textContent='Collected reference photography. Source and license metadata are preserved with the record; discovery does not automatically grant republication permission.';wrap.appendChild(note);
+    if(holder&&!holder.querySelector('img')){const im=gallery[0];holder.classList.add('photo-harvest-lead');holder.innerHTML='';const a=document.createElement('a');a.href=im.page||im.src;a.target='_blank';a.rel='noopener noreferrer';const img=document.createElement('img');img.src=im.src;img.alt=`${title} reference photograph`;img.loading='lazy';img.referrerPolicy='no-referrer';img.onerror=()=>{a.remove()};a.appendChild(img);holder.appendChild(a);const badge=document.createElement('span');badge.className='photo-harvest-badge';badge.textContent='PHOTO REFERENCE';holder.appendChild(badge)}
+    let wrap=card.querySelector('.photo-harvest'); if(!wrap){wrap=document.createElement('div');wrap.className='photo-harvest';card.querySelector('.pedal-body')?.appendChild(wrap)} wrap.innerHTML='';
+    const head=document.createElement('div');head.className='photo-harvest-head';head.innerHTML=`<span class="photo-harvest-label">PHOTO ARCHIVE</span><span class="photo-harvest-status">${gallery.length} exterior reference${gallery.length===1?'':'s'}</span>`;wrap.appendChild(head);
+    const grid=document.createElement('div');grid.className='photo-harvest-grid';gallery.forEach((im,i)=>{const a=document.createElement('a');a.href=im.page||im.src;a.target='_blank';a.rel='noopener noreferrer';a.title=`${im.title||title} · ${im.license||''}`;const img=document.createElement('img');img.src=im.src;img.alt=`${title} exterior reference photograph ${i+1}`;img.loading='lazy';img.referrerPolicy='no-referrer';img.onerror=()=>a.remove();a.appendChild(img);grid.appendChild(a)});wrap.appendChild(grid);
+    const note=document.createElement('div');note.className='photo-harvest-note';note.textContent='Exterior reference photography only. Source and rights metadata remain attached to the research record; discovery does not grant republication permission.';wrap.appendChild(note);
   }
-
-  async function run(){
-    await loadScripts();
-    resolver();
-    document.querySelectorAll('.pedal-card').forEach(card=>{const title=card.querySelector('h3')?.textContent?.trim();if(title)render(card,title,combinedEntry(title));});
-  }
-
-  const observer=new MutationObserver(()=>{clearTimeout(window.__DIRT_PHOTO_TIMER);window.__DIRT_PHOTO_TIMER=setTimeout(run,90);});
-  observer.observe(document.getElementById('app')||document.body,{childList:true,subtree:true});
-  window.addEventListener('hashchange',()=>setTimeout(run,120));
-  window.addEventListener('load',()=>setTimeout(run,180));
-  setTimeout(run,100);
+  async function run(){await loadScripts();window.imageFor=window.imageFor||((p)=>combinedEntry(p?.model_name));document.querySelectorAll('.pedal-card').forEach(card=>{const title=card.querySelector('h3')?.textContent?.trim();if(title)render(card,title,combinedEntry(title))})}
+  const observer=new MutationObserver(()=>{clearTimeout(window.__DIRT_PHOTO_TIMER);window.__DIRT_PHOTO_TIMER=setTimeout(run,90)});observer.observe(document.getElementById('app')||document.body,{childList:true,subtree:true});
+  window.addEventListener('hashchange',()=>setTimeout(run,120));window.addEventListener('load',()=>setTimeout(run,180));setTimeout(run,100);
 })();
