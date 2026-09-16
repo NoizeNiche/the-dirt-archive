@@ -50,6 +50,11 @@
       page:'https://commons.wikimedia.org/wiki/File:DOD-GrungeDistortion.jpg',
       credit:'Styroks · CC BY-SA 4.0'
     },
+    'Blackout Effectors Musket Fuzz': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Blackout_Effectors_Musket_fuzz.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:Blackout_Effectors_Musket_fuzz.jpg',
+      credit:'Oldangelmidnight · CC BY-SA 2.0'
+    },
     'Vox Tone Bender': {
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Vox_Tone_Bender.jpg',
       page:'https://commons.wikimedia.org/wiki/File:Vox_Tone_Bender.jpg',
