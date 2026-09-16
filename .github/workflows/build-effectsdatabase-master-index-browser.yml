@@ -40,60 +40,68 @@ jobs:
           def fetch(target):
               s=requests.Session(); s.headers.update({'User-Agent':'Mozilla/5.0','Accept':'text/markdown,text/plain,*/*','X-Return-Format':'markdown'})
               u=reader_url(target)
-              last=None
               for attempt in range(10):
                   try:
-                      r=s.get(u,timeout=120); last=r.status_code
+                      r=s.get(u,timeout=120)
                       if r.status_code==200 and r.text: return r.text
                       if r.status_code in (429,500,502,503,504): time.sleep(min(30,2**attempt)); continue
                       r.raise_for_status()
                   except requests.RequestException:
                       if attempt==9: raise
                       time.sleep(min(30,2**attempt))
-              raise RuntimeError(f'Reader failed status={last}: {u}')
+              raise RuntimeError('Reader failed: '+u)
 
           def parse(text):
               rows=[]
-              # Only take numbered Markdown links to actual Effects Database model pages.
-              rx=re.compile(r'^\s*\d+\.\s+\[([^\]]+)\]\((https?://[^)]+/model/[^)]*)\)\s*$')
+              # Jina returns each index item as a numbered Markdown link. Use the final ]( boundary,
+              # so pedal names containing brackets are still captured. Accept absolute or relative model URLs.
               for raw in text.splitlines():
                   line=' '.join(raw.strip().split())
-                  m=rx.match(line)
-                  if m: rows.append((m.group(1).strip(),m.group(2)))
-              return rows
+                  m=re.match(r'^(\d+)\.\s+(.*)$',line)
+                  if not m: continue
+                  rest=m.group(2).strip(); number=int(m.group(1))
+                  cut=rest.rfind('](')
+                  if cut>=1 and rest.endswith(')'):
+                      name=rest[:cut].strip(); href=rest[cut+2:-1].strip()
+                      if name.startswith('['): name=name[1:]
+                      if '/model/' in href and name and name.lower()!='browse by type':
+                          rows.append((name,href,number))
+                          continue
+                  # Fallback for non-Markdown link rendering.
+                  if '/model/' in rest:
+                      href_start=rest.rfind('('); href_end=rest.rfind(')')
+                      if href_start>=0 and href_end>href_start:
+                          name=rest[:href_start].strip(' []'); href=rest[href_start+1:href_end]
+                          rows.append((name,href,number))
+              # Keep page order exactly as rendered, while dropping exact duplicate link rows.
+              seen=set(); out=[]
+              for name,href,num in rows:
+                  key=(name,href)
+                  if key not in seen: seen.add(key); out.append((name,href))
+              return out
 
           all_data=OrderedDict()
           for cat,base in C.items():
               site_text=fetch(base)
               m=re.search(r'Gear in this category\s*\((\d+)\)',site_text,re.I)
               expected=int(m.group(1)) if m else EXPECTED[cat]
-              if expected!=EXPECTED[cat]: print('NOTICE',cat,'live total',expected,'previous total',EXPECTED[cat])
-              first=None; records=[]; pages=[]; seen_page_fingerprints=set()
+              records=[]; seen_pages=set(); page0=None
               for page in range(0,80):
                   url=base if page==0 else f'{base}?page={page}'
-                  rows=parse(site_text if page==0 else fetch(url))
-                  names=[name for name,_ in rows]
+                  text=site_text if page==0 else fetch(url)
+                  rows=parse(text); names=tuple(x[0] for x in rows)
                   print(cat,'page',page,'product_rows',len(rows),'first',rows[0] if rows else None,'last',rows[-1] if rows else None)
                   if not rows: raise RuntimeError(f'{cat}: page {page} has zero product links')
-                  fp=tuple(names)
-                  if page>0 and fp in seen_page_fingerprints:
-                      print(cat,'page',page,'repeats an earlier page; stopping')
+                  if page==0: page0=names
+                  if page>0 and (names==page0 or names in seen_pages):
+                      print(cat,'page',page,'repeats an earlier product page; stopping')
                       break
-                  seen_page_fingerprints.add(fp)
-                  if page==0: first=fp
-                  elif fp==first:
-                      print(cat,'page',page,'repeats page 0; stopping')
-                      break
-                  records.extend(rows); pages.append(page)
-                  if len(records)>=expected:
-                      # Do not stop blindly: require the next page to repeat or be empty. This protects against unusual final-page sizing.
-                      continue
+                  seen_pages.add(names); records.extend(rows)
               if len(records)!=expected:
-                  raise RuntimeError(f'{cat}: expected exactly {expected} products, extracted {len(records)} across pages {pages}')
+                  raise RuntimeError(f'{cat}: expected exactly {expected} products, extracted {len(records)}')
               all_data[cat]=records
               (OUT/f'{cat.lower()}-all.txt').write_text('\n'.join(name for name,_ in records)+'\n',encoding='utf-8')
               (OUT/f'{cat.lower()}-all.tsv').write_text('\n'.join(f'{i}\t{name}\t{href}' for i,(name,href) in enumerate(records,1))+'\n',encoding='utf-8')
-              (OUT/f'{cat.lower()}-pages.txt').write_text('\n'.join(str(p) for p in pages)+'\n',encoding='utf-8')
 
           total=sum(len(v) for v in all_data.values()); assert total==sum(EXPECTED.values()),total
           doc=Document(); s=doc.sections[0]; s.top_margin=Inches(.5); s.bottom_margin=Inches(.5); s.left_margin=Inches(.55); s.right_margin=Inches(.55)
