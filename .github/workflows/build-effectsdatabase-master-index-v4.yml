@@ -1,6 +1,9 @@
 name: Build complete Effects Database pedal-name index v4
 
 on:
+  push:
+    paths:
+      - '.github/workflows/build-effectsdatabase-master-index-v4.yml'
   workflow_dispatch:
 
 permissions:
