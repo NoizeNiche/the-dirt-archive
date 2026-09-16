@@ -1,87 +1,54 @@
 # The Dirt Archive
 
-Independent historical reference project for overdrive, distortion and fuzz pedals.
+Independent historical reference project for guitar dirt pedals.
 
-## Current scope
+## Current priority
 
-The Dirt Archive is currently focused on dirt pedals: fuzz, overdrive and distortion.
-
-The project emphasizes:
-
-- builder-first browsing
-- product and production history
-- generation, edition and production-period distinctions
-- practical identification clues
-- source-backed historical claims
-- preservation of information about obscure and discontinued builders
-- quarterly research releases rather than a promise of total completeness
-
-## Public archive path
-
-For now, the public archive has one simple path:
+The public archive has one job right now:
 
 **Builder → Pedals → Photos → Information on the pedal**
 
-That is the primary visitor experience. The interface should stay focused on that path while the research database continues to grow behind it.
+That is the core path for the site and the core priority for research.
 
-The public catalog should not be overloaded with secondary browse systems yet. Category explorers, advanced identification tools, generation browsers and similar features can remain deferred until the core builder → pedal → photo → information structure is solid.
+### Builder
 
-## Current research program
+Identify the builder correctly and keep the public builder identity clean. Historical aliases, OEM relationships, distributors, collaborations, and successor identities can remain in the research layer when needed for accuracy.
 
-The archive follows a strict **builder-first → canonicalize builders → complete each builder's dirt catalog → research individual pedals deeply** order.
+### Pedals
 
-First, map the widest practical universe of builders, manufacturers, OEM factories, marketed brands, private-label entities, distributors, revival makers, and micro-builders connected to overdrive, distortion, or fuzz from 1966 onward. Second, reconcile duplicate or related builder names so one historical entity does not appear as several unrelated builders. Third, enumerate that canonical builder's full documented dirt catalog. Fourth, return to each cataloged pedal for generation, production-period, edition and specimen research.
+Collect the documented pedals associated with each builder, with exact model/product names. Important model variants should only be separated when they are meaningful to understanding or identifying the pedal.
 
-Research files live under `/research` and are deliberately kept separate from the public website assets.
+### Photos
 
-The governing workflow is documented in `research/BREADCRUMB.md`.
+Collect exterior/reference photographs of the actual pedals. Use multiple photographs when they help establish the object or distinguish an important version. Preserve source, credit, and licensing information where available.
 
-## Builder identity rule
+The public archive does not publish gutshots, PCB photographs, schematics, complete bills of materials, cloning instructions, or circuit-reconstruction material.
 
-A builder name appearing more than once is not automatically a duplicate error and is not automatically a separate builder. Before creating or retaining a canonical builder record, determine whether the names represent:
+### Information on the pedal
 
-- the same builder under a renamed company or successor brand
-- a marketed brand versus the physical manufacturer/OEM
-- a distributor/private-label name versus the factory
-- a collaboration or signature partner
-- an acquisition, ownership or licensing transition
-- a revival/reissue manufacturer of an older design
-- genuinely separate entities that merely share a name
+Collect the information a visitor needs to understand the pedal and its history:
 
-When two names are historically related, keep the **canonical builder entity** as the primary navigation identity and store the former/alternate names and the relationship in the builder lineage. The individual pedal page may then explain the historical name change, OEM relationship, collaboration, acquisition, or production transition relevant to that specific pedal.
+- what it is
+- when it was made, when known
+- short historical background
+- useful identification details
+- documented production/model differences that materially help identify it
+- reliable source/evidence trails
 
-Do not create separate builder cards merely because a pedal was marketed under a different historical name.
+## Research priority rule
 
-## Research phases
+Every research task should directly improve one of the four layers above. Site machinery, elaborate secondary browse systems, advanced identification tools, exhaustive taxonomy, and other feature work are deferred unless they are required to support the core archive.
 
-The repository contains dedicated discovery, builder-census, catalog-completeness, historical-verification and early-foundational handoff files. These are working research artifacts, not claims that every pedal has been found.
+The underlying research files may remain richer when necessary for accurate attribution and source tracking. The public experience should remain simple.
 
-The builder census is deliberately broader than the public catalog. It includes obscure micro-builders, regional manufacturers, OEM relationships and unresolved brands so they can be reconciled before being promoted into canonical public records.
+## Guiding question
 
-## Promotion rule
+> Does this directly help us build Builder → Pedals → Photos → Information?
 
-A candidate or discovery record is not automatically a verified public archive record. Promotion requires evidence review, naming/relationship review and, where applicable, production-variation research.
+If not, it waits.
 
-The public archive should answer **which physical and historical state of this model is this?**, while the builder record answers **who actually built, marketed, owned, licensed, or distributed this product at this point in its history?**
+## Research notes
 
-## Editorial boundary
+The governing research workflow remains documented in `research/BREADCRUMB.md`.
 
-The archive documents historically meaningful distinctions, including component changes when they materially help identify a production period. It does not publish gutshot galleries, schematics, PCB layouts, complete bills of materials, cloning instructions, or circuit-reconstruction material.
-
-## Site architecture
-
-The public website lives in `/public`. Project documentation, research/database-development files and deployment configuration remain at the repository root.
-
-## Long-term structure
-
-Canonical builder entity
-→ former / alternate / OEM / distributor / collaboration relationships
-→ family
-→ retail model
-→ generation
-→ production period
-→ edition
-→ specimen
-→ claims + evidence
-
-The archive is curated. It does not promise to catalog every pedal ever made.
+The active public-archive priority is documented in `research/CURRENT_PRIORITY.md`.
