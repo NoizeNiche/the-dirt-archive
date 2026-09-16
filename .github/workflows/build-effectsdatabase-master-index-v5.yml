@@ -1,0 +1,168 @@
+name: Build complete Effects Database pedal-name index v5
+
+on:
+  push:
+    paths:
+      - '.github/workflows/build-effectsdatabase-master-index-v5.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install --upgrade requests python-docx
+      - name: Extract every pedal index page
+        run: |
+          cat > /tmp/build.py <<'PY'
+          from concurrent.futures import ThreadPoolExecutor, as_completed
+          from collections import OrderedDict
+          from pathlib import Path
+          import re, time, requests, zipfile
+          from docx import Document
+          from docx.shared import Pt, Inches
+          from docx.enum.text import WD_ALIGN_PARAGRAPH
+
+          C=OrderedDict([
+            ('Overdrive','https://www.effectsdatabase.com/type/overdrive/pedal',53,5365),
+            ('Distortion','https://www.effectsdatabase.com/type/distortion/pedal',33,3390),
+            ('Fuzz','https://www.effectsdatabase.com/type/fuzz/pedal',41,4126),
+          ])
+          OUT=Path('/tmp/out'); OUT.mkdir()
+
+          def parse(text):
+              rows=[]
+              for raw in text.splitlines():
+                  line=' '.join(raw.strip().split())
+                  m=re.match(r'^(\d+)\.\s+(.*)$',line)
+                  if not m: continue
+                  n=int(m.group(1)); rest=m.group(2).strip()
+                  if rest.startswith('[') and '](' in rest:
+                      name=rest[1:rest.find('](')]
+                  else:
+                      name=re.sub(r'\s+\[[^\]]+\]\([^)]*\).*$', '', rest).strip()
+                  if name and not name.lower().startswith('page '): rows.append((n,name))
+              nums=[n for n,_ in rows]
+              if len(rows)<20 or nums!=list(range(nums[0],nums[0]+len(rows))):
+                  raise ValueError(f'bad catalog parse: {len(rows)} rows')
+              return rows
+
+          def fetch(url):
+              encoded=url
+              last=None
+              for a in range(8):
+                  try:
+                      r=requests.get('https://r.jina.ai/'+encoded,timeout=(10,45),headers={'User-Agent':'The-Dirt-Archive/5.0','Accept':'text/markdown,text/plain,*/*'})
+                      if r.status_code==200 and r.text:
+                          parse(r.text)
+                          return r.text
+                      last=RuntimeError(f'HTTP {r.status_code}')
+                  except Exception as e:
+                      last=e
+                  time.sleep(min(10,2**a))
+              raise RuntimeError(f'{url}: {last}')
+
+          def one(cat,base,p):
+              url=base if p==0 else f'{base}?page={p}'
+              rows=parse(fetch(url))
+              print(f'{cat} page {p}: {len(rows)} rows',flush=True)
+              return p,rows
+
+          data=OrderedDict()
+          jobs=[]
+          for cat,base,last,expected in C.values():
+              for p in range(last+1): jobs.append((cat,base,p,expected))
+          pages={c:{} for c in C}
+          with ThreadPoolExecutor(max_workers=24) as ex:
+              fs=[ex.submit(one,cat,base,p) for cat,base,p,_ in jobs]
+              for f in as_completed(fs):
+                  catp,rows=f.result()
+                  p=catp
+                  # future doesn't carry category, recover by matching unique page result from closure impossible
+                  # use a second implementation below instead
+          PY
+          cat > /tmp/build2.py <<'PY'
+          from concurrent.futures import ThreadPoolExecutor, as_completed
+          from collections import OrderedDict
+          from pathlib import Path
+          import re,time,requests,zipfile
+          from docx import Document
+          from docx.shared import Pt, Inches
+          from docx.enum.text import WD_ALIGN_PARAGRAPH
+          C=OrderedDict([
+            ('Overdrive',('https://www.effectsdatabase.com/type/overdrive/pedal',53,5365)),
+            ('Distortion',('https://www.effectsdatabase.com/type/distortion/pedal',33,3390)),
+            ('Fuzz',('https://www.effectsdatabase.com/type/fuzz/pedal',41,4126)),
+          ])
+          OUT=Path('/tmp/out2'); OUT.mkdir()
+          def parse(text):
+            rows=[]
+            for raw in text.splitlines():
+              line=' '.join(raw.strip().split())
+              m=re.match(r'^(\d+)\.\s+(.*)$',line)
+              if not m: continue
+              n=int(m.group(1)); rest=m.group(2).strip()
+              name=rest[1:rest.find('](')] if rest.startswith('[') and '](' in rest else rest
+              if name and not name.lower().startswith('page '): rows.append((n,name.strip()))
+            if not rows: raise ValueError('no catalog rows')
+            nums=[n for n,_ in rows]
+            if nums!=list(range(nums[0],nums[0]+len(rows))): raise ValueError(f'bad numbering {nums[:3]}...{nums[-3:]}')
+            return rows
+          def fetch(url):
+            last=None
+            for a in range(7):
+              try:
+                r=requests.get('https://r.jina.ai/'+url,timeout=(8,50),headers={'User-Agent':'The-Dirt-Archive/5.0','Accept':'text/markdown,text/plain,*/*'})
+                if r.status_code==200 and r.text:
+                  try: parse(r.text); return r.text
+                  except Exception as e: last=e
+                else: last=RuntimeError('HTTP '+str(r.status_code))
+              except Exception as e: last=e
+              time.sleep(min(8,2**a))
+            raise RuntimeError(f'{url}: {last}')
+          def one(cat,base,p):
+            url=base if p==0 else f'{base}?page={p}'
+            rows=parse(fetch(url)); return cat,p,rows
+          pages={cat:{} for cat in C}
+          all_jobs=[(cat,base,p) for cat,(base,last,expected) in C.items() for p in range(last+1)]
+          with ThreadPoolExecutor(max_workers=24) as ex:
+            futs=[ex.submit(one,*j) for j in all_jobs]
+            for f in as_completed(futs):
+              cat,p,rows=f.result(); pages[cat][p]=rows; print(f'{cat} page {p}: {len(rows)}',flush=True)
+          data=OrderedDict()
+          for cat,(base,last,expected) in C.items():
+            recs=[x for p in range(last+1) for x in pages[cat][p]]
+            nums=[n for n,_ in recs]
+            if nums!=list(range(1,expected+1)): raise RuntimeError(f'{cat}: expected 1..{expected}, got {len(recs)} ending {nums[-1] if nums else None}')
+            data[cat]=[n for _,n in recs]
+            (OUT/f'{cat.lower()}.txt').write_text('\n'.join(data[cat])+'\n',encoding='utf-8')
+          total=sum(map(len,data.values()))
+          assert total==12881
+          doc=Document(); s=doc.sections[0]; s.top_margin=s.bottom_margin=Inches(.45); s.left_margin=s.right_margin=Inches(.55)
+          p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; r=p.add_run('EFFECTS DATABASE MASTER DIRT PEDAL INDEX'); r.bold=True; r.font.size=Pt(20)
+          p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; p.add_run('Complete Overdrive / Distortion / Fuzz pedal-name list').italic=True
+          doc.add_paragraph('Source: Effects Database (effectsdatabase.com)')
+          doc.add_paragraph('Extraction date: September 16, 2026')
+          doc.add_page_break(); doc.add_heading('MASTER COUNTS',1)
+          for cat,names in data.items(): doc.add_paragraph(f'{cat}: {len(names):,}')
+          doc.add_paragraph(f'TOTAL: {total:,}')
+          for cat,names in data.items():
+            doc.add_page_break(); doc.add_heading(cat.upper(),1)
+            for i,name in enumerate(names,1):
+              p=doc.add_paragraph(); p.paragraph_format.space_after=Pt(0); p.add_run(f'{i}. ').bold=True; p.add_run(name)
+          path=OUT/'effectsdatabase-master-dirt-pedal-index.docx'; doc.save(path)
+          with zipfile.ZipFile(path) as z: assert z.testzip() is None
+          print('VERIFIED', {k:len(v) for k,v in data.items()}, total)
+          PY
+          python /tmp/build2.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: effects-database-master-dirt-pedal-index-v5
+          path: /tmp/out2/
+          retention-days: 30
