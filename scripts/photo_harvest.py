@@ -35,7 +35,7 @@ for path in PUBLIC.glob('catalog-thumbnails-*.js'):
         key,url=m.group(1),m.group(2)
         if acceptable(url): existing.setdefault(key,url)
 
-UA='The-Dirt-Archive/1.4 (historical reference; photo research)'
+UA='The-Dirt-Archive/1.5 (historical reference; photo research)'
 def get_json(url):
     req=Request(url,headers={'User-Agent':UA,'Accept':'application/json'})
     with urlopen(req,timeout=20) as r: return json.loads(r.read().decode('utf-8'))
@@ -73,6 +73,24 @@ def identity_score(item,model,builder):
     if model and model.lower()==t.strip().lower(): s+=10
     return s
 
+def normalized_tokens(value):
+    stop={'guitar','pedal','effects','effect','fx','the','and','for','with','overdrive','distortion','fuzz','amp','audio'}
+    return [x for x in re.sub(r'[^a-z0-9]+',' ',str(value).lower()).split() if len(x)>=3 and x not in stop]
+
+def legacy_relevant(model,builder,url):
+    if not acceptable(url): return False
+    hay=re.sub(r'[^a-z0-9]+',' ',str(url).lower())
+    mt=normalized_tokens(model)
+    bt=normalized_tokens(builder)
+    model_hits=sum(1 for token in mt if token in hay)
+    builder_hits=sum(1 for token in bt if token in hay)
+    # Reuse an old registry image only when the URL itself carries meaningful
+    # identity evidence. This prevents a generic family thumbnail from being
+    # silently attached to a specific historical variant.
+    if model_hits >= 2: return True
+    if model_hits >= 1 and builder_hits >= 1: return True
+    return False
+
 manifest={}; rows=[]; used_keys=set()
 for i,p in enumerate(pedals,1):
     model=str(p.get('model_name') or '').strip(); builder=builders.get(p.get('primary_builder_id'),'')
@@ -84,7 +102,7 @@ for i,p in enumerate(pedals,1):
         time.sleep(.05)
     hits=sorted((x for x in hits if acceptable(x.get('title','')) and acceptable(x.get('src',''))),key=lambda x:identity_score(x,model,builder),reverse=True)[:6]
     legacy=existing.get(model)
-    if legacy:
+    if legacy and legacy_relevant(model,builder,legacy):
         lead={'src':legacy,'page':'','title':model,'credit':'Existing Dirt Archive media registry','license':'Reference-only','source':'Archive registry'}
         hits=[lead]+[x for x in hits if x['src']!=lead['src']]
     entry={'src':hits[0]['src'],'page':hits[0].get('page',''),'credit':hits[0].get('credit',''),'license':hits[0].get('license',''),'source':hits[0].get('source',''),'gallery':hits[:6]} if hits else {'src':None,'page':'','credit':'','license':'','source':'','gallery':[]}
