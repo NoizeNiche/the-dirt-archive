@@ -9,10 +9,12 @@
     ],
     'Tone Bender': [
       {label:'MKI',years:'1964–1965',notes:'Gary Hurst-developed three-transistor British fuzz. Early examples include wood and later folded-steel wedge enclosures.'},
-      {label:'MK1.5 / transitional',years:'1965–1966',notes:'Two-transistor cast-aluminium version. The MK1.5 name is retrospective and was not printed as a formal model designation.'},
+      {label:'MK1.5 / transitional',years:'1965–1966',notes:'Two-transistor cast-aluminium Sola Sound version. The MK1.5 name is retrospective and was not printed as a formal model designation.'},
       {label:'Professional MKII',years:'1966–1968',notes:'Three-transistor Sola Sound generation. Sola Sound also supplied closely related OEM versions to other brands.'},
+      {label:'Vox v828 (Italian grey)',years:'1966–1968',notes:'Italian-built Vox model V828. It is related visually and historically to the Tone Bender family but should not be treated as the Sola Sound MK1.5 or MKII; surviving examples use a two-transistor PCB design.'},
+      {label:'Vox Professional MKII',years:'1967–1968',notes:'British Vox-branded branch of the Professional MKII, broadly based on the Sola Sound version. Early examples can show Sola Sound graphics covered and overprinted for Vox.'},
       {label:'MKIII family',years:'late 1960s–1970s',notes:'Later Tone Bender family with multiple enclosure, control, graphics and technology variations.'},
-      {label:'MKIV / later Sola Sound family',years:'1970s',notes:'Later British Tone Bender products continued the family with changing graphics and internal construction.'}
+      {label:'MKIV / later Sola Sound family',years:'1970s',notes:'Later British Tone Bender products continued the family with changing graphics and production details.'}
     ],
     'Big Muff Pi': [
       {label:'Triangle / V1',years:'1969–1973',notes:'First Big Muff generation. Plain enclosure and triangular control layout are major external identifiers.'},
