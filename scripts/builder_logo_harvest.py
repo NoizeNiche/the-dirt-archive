@@ -22,10 +22,12 @@ BREADTH_QUEUES = sorted((ROOT / "research").glob("modern-breadth-builder-seed-*.
 OUT = ROOT / "public" / "catalog-builder-logo-manifest.js"
 STATUS = ROOT / "research" / "catalog-builder-logo-status-01.tsv"
 API = "https://commons.wikimedia.org/w/api.php"
+BAD = re.compile(r"\b(?:album|person|guitar|photo|pedal|stompbox|event|poster|building|banner|favicon|icon|avatar|pcb|schematic)\b", re.I)
+LOGO_HINT = re.compile(r"\b(?:logo|wordmark|logotype|brand[- ]?mark|brand identity)\b", re.I)
 
 
 def http_text(url: str) -> str:
-    req = Request(url, headers={"User-Agent": "The-Dirt-Archive/1.0 (builder logo research)"})
+    req = Request(url, headers={"User-Agent": "The-Dirt-Archive/1.1 (builder logo research)"})
     with urlopen(req, timeout=20) as r:
         raw = r.read()
         return raw.decode("utf-8", errors="replace")
@@ -43,8 +45,7 @@ def tokens(name: str) -> list[str]:
 
 def load_builder_rows() -> list[dict]:
     merged: dict[str, dict] = {}
-    sources = [CENSUS, *BREADTH_QUEUES]
-    for path in sources:
+    for path in [CENSUS, *BREADTH_QUEUES]:
         if not path.exists():
             continue
         try:
@@ -54,9 +55,10 @@ def load_builder_rows() -> list[dict]:
                     if not name:
                         continue
                     source_refs = row.get("source_refs") or row.get("discovery_sources") or ""
-                    merged.setdefault(name, {"canonical_builder": name, "source_refs": source_refs})
-                    if source_refs and not merged[name].get("source_refs"):
-                        merged[name]["source_refs"] = source_refs
+                    rec = merged.setdefault(name, {"canonical_builder": name, "source_refs": ""})
+                    if source_refs:
+                        old = rec.get("source_refs", "")
+                        rec["source_refs"] = ";".join(dict.fromkeys([x for x in [old, source_refs] if x]))
         except Exception as exc:
             print(f"Skipping builder source {path.name}: {exc}")
     return list(merged.values())
@@ -64,21 +66,22 @@ def load_builder_rows() -> list[dict]:
 
 def source_urls(row: dict) -> list[str]:
     raw = str(row.get("source_refs") or "")
-    return [x.strip() for x in re.split(r"[;, ]+", raw) if x.strip().startswith(("http://", "https://"))]
+    return [x.strip() for x in re.findall(r"https?://[^\s,;]+", raw)]
 
 
 def official_page_hits(name: str, row: dict) -> list[dict]:
     hits: list[dict] = []
-    for url in source_urls(row)[:5]:
+    for url in source_urls(row)[:8]:
         try:
-            html = http_text(url)
+            page = http_text(url)
         except Exception:
             continue
         base = url
-        og = re.findall(r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]+content=["\']([^"\']+)', html, flags=re.I)
-        for image_url in og:
-            hits.append({"src": urljoin(base, unescape(image_url)), "page": url, "context": "og:image", "domain": urlparse(url).netloc})
-        for m in re.finditer(r'<img\b[^>]*>', html, flags=re.I):
+        meta = re.findall(r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]+content=["\']([^"\']+)', page, flags=re.I)
+        for image_url in meta:
+            full = urljoin(base, unescape(image_url))
+            hits.append({"src": full, "page": url, "context": "og:image logo", "domain": urlparse(url).netloc})
+        for m in re.finditer(r'<img\b[^>]*>', page, flags=re.I):
             tag = m.group(0)
             attrs = dict((k.lower(), unescape(v1 or v2 or "")) for k, v1, v2 in re.findall(r'([A-Za-z_:][-A-Za-z0-9_:]*)\s*=\s*(?:"([^"]*)"|\'([^\']*)\')', tag))
             src = attrs.get("src") or attrs.get("data-src") or attrs.get("data-lazy-src")
@@ -91,20 +94,13 @@ def official_page_hits(name: str, row: dict) -> list[dict]:
 
 
 def search_commons(name: str) -> list[dict]:
-    queries = [f"{name} logo", f"{name} brand", name]
+    queries = [f"{name} logo", f"{name} wordmark", f"{name} brand", name]
     hits: list[dict] = []
     seen = set()
     for q in queries:
         url = API + "?" + "&".join([
-            "action=query",
-            "generator=search",
-            f"gsrsearch={quote(q)}",
-            "gsrnamespace=6",
-            "gsrlimit=8",
-            "prop=imageinfo",
-            "iiprop=url|extmetadata",
-            "iiurlwidth=700",
-            "format=json",
+            "action=query", "generator=search", f"gsrsearch={quote(q)}", "gsrnamespace=6", "gsrlimit=8",
+            "prop=imageinfo", "iiprop=url|extmetadata", "iiurlwidth=700", "format=json",
         ])
         try:
             data = http_json(url)
@@ -129,21 +125,22 @@ def score(name: str, hit: dict, official_domains: set[str]) -> int:
     hay = " ".join([hit.get("context", ""), hit.get("src", "")]).lower()
     ts = tokens(name)
     s = 0
-    if "logo" in hay:
-        s += 18
-    if "wordmark" in hay:
-        s += 14
+    if LOGO_HINT.search(hay):
+        s += 24
     if "brand" in hay:
-        s += 5
+        s += 6
     for t in ts:
         if t in hay:
             s += 4
     if hit.get("domain") in official_domains:
         s += 15
-    bad = ["album", "person", "guitar", "photo", "pedal", "stompbox", "event", "poster", "building", "banner", "favicon", "icon", "avatar"]
-    for b in bad:
-        if b in hay:
-            s -= 5
+    if BAD.search(hay):
+        s -= 12
+    ext = Path(urlparse(hit.get("src", "")).path).suffix.lower()
+    if ext == ".svg":
+        s += 4
+    if any(x in hay for x in ("logo", "wordmark", "logotype")):
+        s += 8
     return s
 
 
@@ -158,13 +155,24 @@ def main() -> None:
         official_domains = {h["domain"] for h in official if h.get("domain") and h.get("domain") != "commons.wikimedia.org"}
         all_hits = official + search_commons(name)
         ranked = sorted(all_hits, key=lambda h: score(name, h, official_domains), reverse=True)
-        best = ranked[0] if ranked and score(name, ranked[0], official_domains) >= 14 else None
+        best = ranked[0] if ranked and score(name, ranked[0], official_domains) >= 22 else None
         if best:
             source_type = "Official builder page" if best.get("domain") in official_domains else "Wikimedia Commons"
-            manifest[name] = {"src": best["src"], "page": best["page"], "source_type": source_type, "query": name + " logo"}
-            status_rows.append([name, "FOUND", best["src"], best["page"], source_type, "Logo candidate selected by source/domain/context scoring; review attribution before treating as definitive brand mark."])
+            manifest[name] = {
+                "src": best["src"],
+                "page": best["page"],
+                "source_type": source_type,
+                "query": name + " logo",
+            }
+            status_rows.append([
+                name, "FOUND", best["src"], best["page"], source_type,
+                "Candidate passed logo-context, identity, and source scoring; review attribution before treating as definitive brand mark.",
+            ])
         else:
-            status_rows.append([name, "UNRESOLVED", "", "", "Official page + Wikimedia Commons", "No sufficiently strong logo candidate found in the automated pass."])
+            status_rows.append([
+                name, "UNRESOLVED", "", "", "Official page + Wikimedia Commons",
+                "No sufficiently strong logo/wordmark candidate found in the automated pass.",
+            ])
 
     OUT.write_text("window.DIRT_BUILDER_LOGOS=" + json.dumps(manifest, ensure_ascii=False, indent=2) + ";\n", encoding="utf-8")
     with STATUS.open("w", encoding="utf-8", newline="") as f:
