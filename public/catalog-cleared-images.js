@@ -55,10 +55,15 @@
       page:'https://commons.wikimedia.org/wiki/File:Proco-rat.jpg',
       credit:'Jazzman · Wikimedia Commons · see file page for license'
     },
-    'Fuzz Face': {
-      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Dallas_Arbiter_Fuzz_Face.jpg',
-      page:'https://commons.wikimedia.org/wiki/File:Dallas_Arbiter_Fuzz_Face.jpg',
-      credit:'sploshette · CC BY 2.0'
+    'RAT2': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/ProCo_Rat_2.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:ProCo_Rat_2.jpg',
+      credit:'GreyCat · CC BY 2.0 · retouched from Michael Morel photograph'
+    },
+    'Maestro FZ-1A Fuzz-Tone': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Gibson_maestro_fuzz_tone_1_752.jpg',
+      page:'https://commons.wikimedia.org/wiki/File:Gibson_maestro_fuzz_tone_1_752.jpg',
+      credit:'Red Rooster · Wikimedia Commons · unrestricted redistribution/commercial-use permission stated on file page'
     }
   };
 
