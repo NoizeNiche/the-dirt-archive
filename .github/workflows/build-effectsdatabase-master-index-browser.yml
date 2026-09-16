@@ -22,9 +22,10 @@ jobs:
           from collections import OrderedDict
           from pathlib import Path
           from urllib.parse import quote
-          import re,time,requests
+          from concurrent.futures import ThreadPoolExecutor, as_completed
+          import re, time, requests
           from docx import Document
-          from docx.shared import Pt,Inches
+          from docx.shared import Pt, Inches
           from docx.enum.text import WD_ALIGN_PARAGRAPH
 
           C=OrderedDict([
@@ -32,6 +33,7 @@ jobs:
             ('Distortion','https://www.effectsdatabase.com/type/distortion/pedal'),
             ('Fuzz','https://www.effectsdatabase.com/type/fuzz/pedal')])
           EXPECTED={'Overdrive':5414,'Distortion':3455,'Fuzz':4211}
+          LAST_PAGE={'Overdrive':54,'Distortion':34,'Fuzz':42}
           OUT=Path('research/effectsdatabase-master-extract'); OUT.mkdir(parents=True,exist_ok=True)
 
           def reader_url(target):
@@ -53,57 +55,57 @@ jobs:
 
           def parse(text):
               rows=[]
-              # Jina returns each index item as a numbered Markdown link. Use the final ]( boundary,
-              # so pedal names containing brackets are still captured. Accept absolute or relative model URLs.
               for raw in text.splitlines():
                   line=' '.join(raw.strip().split())
                   m=re.match(r'^(\d+)\.\s+(.*)$',line)
                   if not m: continue
-                  rest=m.group(2).strip(); number=int(m.group(1))
-                  cut=rest.rfind('](')
-                  if cut>=1 and rest.endswith(')'):
-                      name=rest[:cut].strip(); href=rest[cut+2:-1].strip()
-                      if name.startswith('['): name=name[1:]
-                      if '/model/' in href and name and name.lower()!='browse by type':
-                          rows.append((name,href,number))
-                          continue
-                  # Fallback for non-Markdown link rendering.
-                  if '/model/' in rest:
-                      href_start=rest.rfind('('); href_end=rest.rfind(')')
-                      if href_start>=0 and href_end>href_start:
-                          name=rest[:href_start].strip(' []'); href=rest[href_start+1:href_end]
-                          rows.append((name,href,number))
-              # Keep page order exactly as rendered, while dropping exact duplicate link rows.
-              seen=set(); out=[]
-              for name,href,num in rows:
-                  key=(name,href)
-                  if key not in seen: seen.add(key); out.append((name,href))
+                  rest=m.group(2).strip()
+                  if rest.lower().startswith('browse by type'): continue
+                  # Capture the last /model/ URL on the numbered line. This handles pedal names containing brackets/parentheses.
+                  um=list(re.finditer(r'(?:https?://www\.effectsdatabase\.com)?/model/[^\s>]+',rest))
+                  if not um: continue
+                  u=um[-1].group(0).rstrip('),.;')
+                  if not u.startswith('http'): u='https://www.effectsdatabase.com'+u
+                  name_part=rest[:um[-1].start()].strip()
+                  name_part=re.sub(r'\]\($','',name_part).strip()
+                  if name_part.startswith('['): name_part=name_part[1:]
+                  if name_part.endswith(']'): name_part=name_part[:-1]
+                  name_part=name_part.strip()
+                  if name_part: rows.append((name_part,u))
+              out=[]; seen=set()
+              for x in rows:
+                  if x[1] not in seen: seen.add(x[1]); out.append(x)
               return out
+
+          def extract_page(args):
+              cat,base,page=args
+              text=fetch(base if page==0 else f'{base}?page={page}')
+              rows=parse(text)
+              print(f'{cat} page {page}: {len(rows)} products; first={rows[0] if rows else None}; last={rows[-1] if rows else None}', flush=True)
+              if not rows: raise RuntimeError(f'{cat}: page {page} has zero product links')
+              return page,rows
 
           all_data=OrderedDict()
           for cat,base in C.items():
-              site_text=fetch(base)
-              m=re.search(r'Gear in this category\s*\((\d+)\)',site_text,re.I)
-              expected=int(m.group(1)) if m else EXPECTED[cat]
-              records=[]; seen_pages=set(); page0=None
-              for page in range(0,80):
-                  url=base if page==0 else f'{base}?page={page}'
-                  text=site_text if page==0 else fetch(url)
-                  rows=parse(text); names=tuple(x[0] for x in rows)
-                  print(cat,'page',page,'product_rows',len(rows),'first',rows[0] if rows else None,'last',rows[-1] if rows else None)
-                  if not rows: raise RuntimeError(f'{cat}: page {page} has zero product links')
-                  if page==0: page0=names
-                  if page>0 and (names==page0 or names in seen_pages):
-                      print(cat,'page',page,'repeats an earlier product page; stopping')
-                      break
-                  seen_pages.add(names); records.extend(rows)
+              tasks=[(cat,base,p) for p in range(LAST_PAGE[cat]+1)]
+              pages={}
+              with ThreadPoolExecutor(max_workers=3) as ex:
+                  futs=[ex.submit(extract_page,t) for t in tasks]
+                  for f in as_completed(futs):
+                      page,rows=f.result(); pages[page]=rows
+              records=[]
+              for page in range(LAST_PAGE[cat]+1): records.extend(pages[page])
+              expected=EXPECTED[cat]
               if len(records)!=expected:
                   raise RuntimeError(f'{cat}: expected exactly {expected} products, extracted {len(records)}')
+              hrefs=[href for _,href in records]
+              if len(set(hrefs))!=len(hrefs): raise RuntimeError(f'{cat}: duplicate model URL found')
               all_data[cat]=records
               (OUT/f'{cat.lower()}-all.txt').write_text('\n'.join(name for name,_ in records)+'\n',encoding='utf-8')
               (OUT/f'{cat.lower()}-all.tsv').write_text('\n'.join(f'{i}\t{name}\t{href}' for i,(name,href) in enumerate(records,1))+'\n',encoding='utf-8')
 
-          total=sum(len(v) for v in all_data.values()); assert total==sum(EXPECTED.values()),total
+          total=sum(len(v) for v in all_data.values())
+          assert total==13080
           doc=Document(); s=doc.sections[0]; s.top_margin=Inches(.5); s.bottom_margin=Inches(.5); s.left_margin=Inches(.55); s.right_margin=Inches(.55)
           p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; r=p.add_run('EFFECTS DATABASE MASTER DIRT PEDAL INDEX'); r.bold=True; r.font.size=Pt(20)
           p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; r=p.add_run('Complete Overdrive / Distortion / Fuzz listing'); r.italic=True; r.font.size=Pt(11)
