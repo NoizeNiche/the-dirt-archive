@@ -1,0 +1,80 @@
+builder	model	category	status	era_source	primary_discovery_source	relationship_or_variant_note
+Electronic Audio Experiments	µ Blaster	boost/overdrive	INDEXED	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Include as dirt-adjacent boundary with overdrive role.
+Electronic Audio Experiments	Citadel - JFET Master Lead	distortion/overdrive	INDEXED	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Modern EAE core dirt product.
+Electronic Audio Experiments	Dagger	overdrive/distortion	INDEXED	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Core dirt product; exact category should follow product documentation.
+Electronic Audio Experiments	Dude Incredible	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Core dirt product.
+Electronic Audio Experiments	Glaive	distortion	INDEXED	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Modern dirt product; retain any version states later found.
+Electronic Audio Experiments	Greathammer - Solidstate Bass Drive	bass overdrive/distortion	INDEXED	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Bass dirt belongs in archive dirt scope.
+Electronic Audio Experiments	Halberd - Discrete Transistor Overdrive	overdrive	INDEXED	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Core EAE overdrive family; watch for version/revision states.
+Electronic Audio Experiments	Limelight - Dual Channel Overdrive	overdrive	INDEXED	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Dual-channel dirt product.
+Electronic Audio Experiments	Longsword	distortion	INDEXED	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Core distortion family.
+Electronic Audio Experiments	Model feT - Model T Preamp	preamp/drive boundary	BOUNDARY	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Keep searchable but exclude from central dirt count unless dirt role is established.
+Electronic Audio Experiments	Prismatic Wall	fuzz/distortion candidate	CANDIDATE	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Needs model-level category verification before promotion.
+Electronic Audio Experiments	Surveyor	overdrive/distortion candidate	CANDIDATE	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Capture as candidate pending product-specific evidence.
+Electronic Audio Experiments	The Bard	boost/drive boundary	BOUNDARY	2010s-present	https://www.effectsdatabase.com/model/electronicaudioexperiments	Retain while determining whether central dirt classification is warranted.
+Electronic Audio Experiments	x Benson Amps Halberd + Germanium Boost	overdrive/boost	COLLABORATION	2020s	https://www.effectsdatabase.com/model/electronicaudioexperiments	Cross-builder collaboration; preserve EAE and Benson identities.
+Electronic Audio Experiments	x Mask Audio Electronics Eldritch Blast	fuzz	COLLABORATION	2020s	https://www.effectsdatabase.com/model/electronicaudioexperiments	Cross-builder fuzz collaboration.
+Electronic Audio Experiments	x Obstructures 0xEAE Bass Driver	bass dirt	COLLABORATION	2020s	https://www.effectsdatabase.com/model/electronicaudioexperiments	Cross-builder bass dirt collaboration.
+Electronic Audio Experiments	x Obstructures 0xEAE Boost	boost	BOUNDARY	2020s	https://www.effectsdatabase.com/model/electronicaudioexperiments	Keep outside central dirt count unless overdrive role is established.
+Electronic Audio Experiments	x Obstructures 0xEAE Fuzz	fuzz	COLLABORATION	2020s	https://www.effectsdatabase.com/model/electronicaudioexperiments	Cross-builder fuzz collaboration.
+Fairfield Circuitry	20% More - Slew Limiting Distortion	distortion	INDEXED	2010s-present	https://www.effectsdatabase.com/model/fairfield	Dedicated distortion model.
+Fairfield Circuitry	Barbershop	overdrive	INDEXED	2010s-present	https://www.effectsdatabase.com/model/fairfield	Core Fairfield overdrive family.
+Fairfield Circuitry	Four Eyes Fuzz	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/fairfield	Core fuzz product.
+Fairfield Circuitry	Long Life	dirt candidate	CANDIDATE	2010s-present	https://www.effectsdatabase.com/model/fairfield	Capture before classification is finalized.
+Fairfield Circuitry	Modèle B	dirt candidate	CANDIDATE	2010s-present	https://www.effectsdatabase.com/model/fairfield	Needs product-level category verification.
+Fairfield Circuitry	The Unpleasant Surprise	fuzz/distortion	INDEXED	2010s-present	https://www.effectsdatabase.com/model/fairfield	Core Fairfield dirt product.
+Fairfield Circuitry	~900 - Four Knob Fuzz	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/fairfield	Preserve tilde naming exactly; likely important for searches.
+Mid-Fi Electronics	Abominable x Mid-Fi Electronics Skullmulcher	fuzz	COLLABORATION	2000s-present	https://www.effectsdatabase.com/model/midfi	Cross-builder collaboration.
+Mid-Fi Electronics	Demo Tape Fuzz	fuzz	INDEXED	2000s-present	https://www.effectsdatabase.com/model/midfi	Obscure modern fuzz; photo priority.
+Mid-Fi Electronics	Fuzz Wall	fuzz	INDEXED	2000s-present	https://www.effectsdatabase.com/model/midfi	Core dirt product.
+Mid-Fi Electronics	Magick I - Overdrive	overdrive	INDEXED	2000s-present	https://www.effectsdatabase.com/model/midfi	Core overdrive.
+Mid-Fi Electronics	Overdrive	overdrive	INDEXED	2000s-present	https://www.effectsdatabase.com/model/midfi	Generic model name; canonical identity needs builder-qualified indexing.
+Mid-Fi Electronics	Peace Gun	dirt candidate	CANDIDATE	2000s-present	https://www.effectsdatabase.com/model/midfi	Capture now and classify from model page.
+Mid-Fi Electronics	Psych Byke	distortion/fuzz candidate	CANDIDATE	2000s-present	https://www.effectsdatabase.com/model/midfi	Modern obscure product requiring product-level verification.
+Old Blood Noise Endeavors	Alpha Haunt	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/oldbloodnoise	Multiple production states likely worth photo/revision sweep.
+Old Blood Noise Endeavors	Beam Splitter - Automatic Triple Tracker Distortion	distortion	INDEXED	2020s	https://www.effectsdatabase.com/model/oldbloodnoise	Modern multi-voice distortion product.
+Old Blood Noise Endeavors	Excess - Distortion Chorus/Delay	distortion/hybrid	INDEXED	2010s-present	https://www.effectsdatabase.com/model/oldbloodnoise	Hybrid dirt product; keep linked to non-dirt functions.
+Old Blood Noise Endeavors	Excess v2 - Distorting Modulator	distortion/hybrid	VARIANT	2020s	https://www.effectsdatabase.com/model/oldbloodnoise	Separate v2 production state.
+Old Blood Noise Endeavors	Fault - Overdrive / Distortion	overdrive/distortion	INDEXED	2010s-present	https://www.effectsdatabase.com/model/oldbloodnoise	Core dirt family.
+Old Blood Noise Endeavors	Fault v2 - Overdrive / Distortion	overdrive/distortion	VARIANT	2020s	https://www.effectsdatabase.com/model/oldbloodnoise	Separate v2 production state.
+Old Blood Noise Endeavors	Haunt - Fuzz	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/oldbloodnoise	Core fuzz family.
+Old Blood Noise Endeavors	Pardner Fuzz	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/oldbloodnoise	Obscure/limited product; photo priority.
+Chase Bliss Audio	Automatone (x Benson Amps) Preamp MkII	overdrive/preamp	COLLABORATION	2020s	https://www.effectsdatabase.com/model/chasebliss	Cross-builder collaboration and significant hardware format.
+Chase Bliss Audio	Bliss Factory	fuzz	COLLABORATION	2020s	https://www.effectsdatabase.com/model/chasebliss	ZVEX collaboration lineage; preserve both builder identities.
+Chase Bliss Audio	Brothers - Analog Gainstage	boost/drive/fuzz	INDEXED	2010s	https://www.effectsdatabase.com/model/chasebliss/brothers	Hybrid dirt system with multiple gain roles.
+Chase Bliss Audio	Brothers AM	boost/drive/fuzz	VARIANT	2020s	https://www.effectsdatabase.com/model/chasebliss	Analog Man collaboration/variant; do not merge with original Brothers.
+Chase Bliss Audio	Condor - Analog EQ / Pre / Filter	boost/preamp/overdrive	BOUNDARY	2010s	https://www.effectsdatabase.com/model/chasebliss/condor	EDB identifies switchable clean/overdrive; retain as dirt-adjacent boundary.
+Chase Bliss Audio	Condor HiFi	boost/preamp/overdrive	VARIANT	2020s	https://www.effectsdatabase.com/model/chasebliss	Separate product state.
+Chase Bliss Audio	Dirt Bird	fuzz/overdrive	INDEXED	2010s-present	https://www.effectsdatabase.com/model/chasebliss	Explicit dirt product; priority for specimen photography.
+Wren and Cuff	47/73 Classic	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Modern recreation/family state; variant trail required.
+Wren and Cuff	Ace Octave Fuzz - FM-2 Professional	fuzz/octave	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Modern boutique interpretation; retain as separate W&C model.
+Wren and Cuff	ANNA - Claudio Sanchez signature	OD/fuzz	SIGNATURE	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Signature collaboration/product state.
+Wren and Cuff	BM-20 De La Riva	fuzz/distortion	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Document photography and release history.
+Wren and Cuff	Box Of War	fuzz/distortion	INDEXED	2000s-present	https://www.effectsdatabase.com/model/wrencuff	Long-running W&C dirt family.
+Wren and Cuff	Eye See '78	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Vintage-inspired but modern production state.
+Wren and Cuff	Eye See '78 OG	fuzz	VARIANT	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Separate OG production state.
+Wren and Cuff	Eye See Pi	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Core fuzz product.
+Wren and Cuff	Fade Font 1994	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Modern model with historically referential naming.
+Wren and Cuff	Garbage Face - J Mascis signature Boost/Fuzz	boost/fuzz	SIGNATURE	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Signature product; preserve boost/fuzz hybrid role.
+Wren and Cuff	Garbage Face Jr. - J Mascis signature	fuzz	SIGNATURE	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Separate product from original Garbage Face.
+Wren and Cuff	Gray Box Tone Mangler	fuzz/distortion	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Obscure modern product; photo priority.
+Wren and Cuff	Irkalla - Distortion/Fuzz	distortion/fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Core dirt product with dated NAMM trail.
+Wren and Cuff	Mercy Phuk - Colossal Overdrive	overdrive	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Core overdrive.
+Wren and Cuff	MkII - 3 Transistor Hand Selected Germanium Fuzz	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Do not publish circuit details; document object-level variants only.
+Wren and Cuff	Pickle Pie Hella Fuzz	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Core fuzz.
+Wren and Cuff	Pickle Pie Hella Fuzz B	fuzz	VARIANT	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Separate B production state.
+Wren and Cuff	Red Fish Octave and Fuzz	fuzz/octave	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Core hybrid dirt.
+Wren and Cuff	Smallfoot Box of War	fuzz/distortion	VARIANT	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Compact variant of Box Of War family.
+Wren and Cuff	Smallfoot Caprid	fuzz/distortion	VARIANT	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Compact production state.
+Wren and Cuff	Smallfoot Eye See Pi	fuzz	VARIANT	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Compact production state.
+Wren and Cuff	Smallfoot The White Elk	fuzz	VARIANT	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Compact production state.
+Wren and Cuff	Super Russian - Distortion / Germanium Buffer Boost	distortion/boost	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Hybrid dirt product.
+Wren and Cuff	Tall Font Russian	distortion/fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Distinct enclosure/product state.
+Wren and Cuff	The Caprid - Legendary Distortion	distortion	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Core distortion family.
+Wren and Cuff	The Good One - Dirty Guts Vintage Sustainer	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Object-level historical recreation; no gutshots in archive.
+Wren and Cuff	The White Elk - Super Fuzz Sustainer	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Core fuzz family.
+Wren and Cuff	Tri-Pie 70'	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Historical-inspired modern production state.
+Wren and Cuff	Two-Five - Twenty-Five Volt Overdrive	overdrive	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Core overdrive family.
+Wren and Cuff	UB-Stone - Shinichi Ubukata Signature Fuzz	fuzz	SIGNATURE	2020s	https://www.effectsdatabase.com/model/wrencuff	Signature product; retain artist relationship.
+Wren and Cuff	Violet World	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Obscure product; photo priority.
+Wren and Cuff	Your Face - Custom Fuzz	fuzz	INDEXED	2010s-present	https://www.effectsdatabase.com/model/wrencuff	Custom product state.
