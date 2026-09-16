@@ -5,7 +5,7 @@
 - Added Providence as a major Japanese manufacturer/builder lineage with a documented history beginning in 1998 with overdrive and a broad dirt catalog.
 - Added Leqtique / Shun Nokina Design as a Japanese design lineage with a substantial overdrive/distortion catalog spanning historical and current EVR-era products.
 - Added TRIAL as a Japanese handmade effects lineage with documented overdrive, distortion and fuzz production.
-- Added 37 inventory records across the three lineages.
+- Added 35 inventory records across the three lineages.
 - Added census addendum 177.
 
 ## Evidence basis
