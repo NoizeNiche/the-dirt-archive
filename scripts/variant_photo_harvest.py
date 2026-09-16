@@ -7,6 +7,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PUBLIC = ROOT / 'public'
 TARGETS = ROOT / 'research' / 'photo-variant-targets-01.tsv'
 UA = 'The-Dirt-Archive/1.0 (historical reference; variant photo research)'
+GENERIC = {'the','and','for','with','from','vintage','original','period','family','historical','photo','gallery','pedal','fuzz','overdrive','distortion','sound','box','version','enclosure'}
 
 
 def fetch_html(url):
@@ -19,36 +20,62 @@ def clean(s):
     return html.unescape(re.sub(r'\s+', ' ', s or '')).strip()
 
 
-def extract_images(page_url, text):
+def tokens(label, parent):
+    words = re.findall(r'[a-z0-9]+', f'{parent} {label}'.lower())
+    return [w for w in words if len(w) > 2 and w not in GENERIC]
+
+
+def extract_images(page_url, text, label, parent):
     found = []
-    # OpenGraph and Twitter cards are usually the cleanest lead images.
+    target_tokens = tokens(label, parent)
+
     for pat in [
         r'<meta[^>]+property=[\"\']og:image[\"\'][^>]+content=[\"\']([^\"\']+)',
         r'<meta[^>]+name=[\"\']twitter:image[\"\'][^>]+content=[\"\']([^\"\']+)',
         r'<meta[^>]+content=[\"\']([^\"\']+)[\"\'][^>]+property=[\"\']og:image[\"\']',
     ]:
-        found += re.findall(pat, text, flags=re.I)
+        found += [{'src': x, 'context': label} for x in re.findall(pat, text, flags=re.I)]
 
-    for m in re.finditer(r'<img\b[^>]*?(?:src|data-src|data-lazy-src)=[\"\']([^\"\']+)', text, flags=re.I):
-        found.append(m.group(1))
-    for m in re.finditer(r'<img\b[^>]*?srcset=[\"\']([^\"\']+)', text, flags=re.I):
-        for part in m.group(1).split(','):
-            found.append(part.strip().split(' ')[0])
+    for m in re.finditer(r'<img\b([^>]*?)(?:src|data-src|data-lazy-src)=[\"\']([^\"\']+)', text, flags=re.I):
+        attrs, src = m.group(1), m.group(2)
+        alt = re.search(r'alt=[\"\']([^\"\']*)', attrs, flags=re.I)
+        title = re.search(r'title=[\"\']([^\"\']*)', attrs, flags=re.I)
+        context = clean(f'{alt.group(1) if alt else ""} {title.group(1) if title else ""} {src}')
+        found.append({'src': src, 'context': context})
 
-    out=[]
-    for raw in found:
-        u = urljoin(page_url, html.unescape(raw))
+    for m in re.finditer(r'<img\b([^>]*?)srcset=[\"\']([^\"\']+)', text, flags=re.I):
+        attrs, srcset = m.group(1), m.group(2)
+        alt = re.search(r'alt=[\"\']([^\"\']*)', attrs, flags=re.I)
+        base_context = clean(alt.group(1) if alt else '')
+        for part in srcset.split(','):
+            found.append({'src': part.strip().split(' ')[0], 'context': base_context})
+
+    scored=[]
+    seen=set()
+    for item in found:
+        u = urljoin(page_url, html.unescape(item['src']))
         p = urlparse(u)
-        if p.scheme not in ('http','https'):
+        if p.scheme not in ('http','https') or u in seen:
             continue
         low = u.lower()
-        if any(x in low for x in ['logo','icon','avatar','sprite','tracking','favicon']):
+        if any(x in low for x in ['logo','icon','avatar','sprite','tracking','favicon','banner','button']):
             continue
         if not re.search(r'\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$', low):
             continue
-        if u not in [x['src'] for x in out]:
-            out.append({'src': u, 'page': page_url})
-    return out[:12]
+        seen.add(u)
+        context = item.get('context','').lower()
+        score = 0
+        for tok in target_tokens:
+            if tok in context:
+                score += 5
+        if any(x in context for x in ['image:', 'pedal', 'tone bender', 'big muff', 'tube screamer', 'rat', 'fuzz']):
+            score += 2
+        if 'og:image' in item.get('context','').lower():
+            score += 1
+        scored.append((score, {'src':u, 'page':page_url, 'context':clean(context)}))
+
+    scored.sort(key=lambda x: x[0], reverse=True)
+    return [item for _, item in scored[:12]]
 
 
 def write_manifest(rows):
@@ -81,7 +108,7 @@ def main():
         for idx, row in enumerate(csv.DictReader(f, delimiter='\t'), 1):
             try:
                 text = fetch_html(row['source_url'])
-                photos = extract_images(row['source_url'], text)
+                photos = extract_images(row['source_url'], text, row['variant_label'], row['parent_model'])
             except Exception as exc:
                 photos=[]
             row['photos']=photos
