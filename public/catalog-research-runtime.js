@@ -100,6 +100,7 @@
   window.addEventListener('load', schedule, {once:true});
   window.addEventListener('hashchange', schedule);
   window.addEventListener('dirtarchive:runtime-ready', schedule);
+  window.addEventListener('dirtarchive:home-rendered', schedule);
 
   window.DIRT_RESEARCH_UI = {ensureCardBadges, ensurePageStatus, schedule};
   schedule();
