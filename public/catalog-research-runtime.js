@@ -4,15 +4,6 @@
   const findPedal = key => (window.DATA?.pedals || []).find(p => String(p.pedal_id) === String(key))
     || (window.DATA?.pedals || []).find(p => String(p.model_name || '') === String(key));
 
-  function wrapCard(){
-    if(typeof window.pedalCard !== 'function' || window.__dirtArchiveResearchDataCardWrapped) return;
-    const original = window.pedalCard;
-    window.__dirtArchiveResearchDataCardWrapped = true;
-    window.pedalCard = function(p){
-      return original(p);
-    };
-  }
-
   function renderDossier(p){
     const r = researchFor(p);
     if(!r || document.getElementById('research-dossier')) return;
@@ -44,6 +35,5 @@
     };
   }
 
-  wrapCard();
   wrapPage();
 })();
