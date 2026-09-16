@@ -19,12 +19,12 @@
       page:'https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=863802&shop=0', credit:'Ikebe Gakki · external identification reference', rights:'Reference'
     },
     {
-      title:'Big Muff Pi', role:'EHX / Sovtek specimen', era:'1990s Russian branch',
+      title:'Big Muff Pi', role:'EHX / Sovtek specimen', era:'1990s Russian branch', generation_id:'GEN-big-muff-pi-05',
       variant_type:'Country / manufacturer lineage variant', appearance:'Military-green metal enclosure with dark Big Muff graphics and Soviet/Russian markings.',
       electronics:'Russian-production Big Muff branch; retain separate from NYC USA generations and identify individual production revisions where documented.',
       caption:'Russian/Sovtek branch specimen. Country-of-origin, enclosure, labeling and production lineage distinguish this family from the classic NYC versions.',
-      src:'https://i.ebayimg.com/images/g/r0AAAOSwGDhnvIFl/s-l1200.jpg',
-      page:'https://www.ebay.com/itm/205313121267', credit:'eBay listing · external identification reference', rights:'Reference'
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Electro-Harmonix_Big_Muff_Pi_(Russian_Sovtek_version).jpg',
+      page:'https://commons.wikimedia.org/wiki/File:Electro-Harmonix_Big_Muff_Pi_(Russian_Sovtek_version).jpg', credit:'Wikimedia Commons · CC BY-SA 2.0', rights:'Cleared'
     },
     {
       title:'Fuzz Face', role:'Red vintage specimen', era:'1968',
