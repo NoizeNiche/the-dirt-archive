@@ -8,7 +8,6 @@ on:
 
 permissions:
   contents: write
-  actions: read
 
 jobs:
   build:
@@ -25,22 +24,24 @@ jobs:
       - name: Install dependencies
         run: python -m pip install --upgrade requests beautifulsoup4 python-docx
 
-      - name: Extract all Effects Database category pages
+      - name: Extract every Effects Database record
         run: |
           python - <<'PY'
           from pathlib import Path
           from collections import OrderedDict
+          import re
+          import time
           import requests
           from bs4 import BeautifulSoup
           from docx import Document
           from docx.shared import Pt, Inches
           from docx.enum.text import WD_ALIGN_PARAGRAPH
-          from docx.enum.section import WD_SECTION
-          import time
 
-          UA = 'Mozilla/5.0 (compatible; The-Dirt-Archive/1.0; archival index extraction)'
           session = requests.Session()
-          session.headers.update({'User-Agent': UA, 'Accept-Language': 'en-US,en;q=0.9'})
+          session.headers.update({
+              'User-Agent': 'Mozilla/5.0 (compatible; The-Dirt-Archive/1.0; archival index extraction)',
+              'Accept-Language': 'en-US,en;q=0.9',
+          })
 
           categories = OrderedDict([
               ('Overdrive', 'https://www.effectsdatabase.com/type/overdrive/pedal'),
@@ -52,86 +53,81 @@ jobs:
           out.mkdir(parents=True, exist_ok=True)
           all_data = OrderedDict()
 
-          for category, base in categories.items():
-              entries = OrderedDict()
-              empty = 0
-              for page in range(1, 101):
-                  url = base if page == 1 else f'{base}?page={page}'
-                  r = session.get(url, timeout=30)
-                  r.raise_for_status()
-                  soup = BeautifulSoup(r.text, 'html.parser')
-                  found = 0
-                  for a in soup.select('a[href^="/model/"]'):
-                      name = ' '.join(a.get_text(' ', strip=True).split())
-                      href = a.get('href')
-                      if not name or not href:
-                          continue
-                      # Product rows are numbered entries. Header navigation also uses /model/ URLs,
-                      # but those are not contiguous product rows and are excluded by the visible numbering.
-                      parent_text = a.parent.get_text(' ', strip=True) if a.parent else ''
-                      import re
-                      if not re.match(r'^\d+\.\s*$', ''):
-                          pass
-                      entries[href] = name
-                      found += 1
-                  # Keep only product links discovered in the page's numbered content by filtering
-                  # to the block after the search box when possible.
-                  # If no new product names arrive for two consecutive pages, the pagination is exhausted.
-                  prev_len = len(entries)
-                  if found == 0:
-                      empty += 1
-                  else:
-                      empty = 0
-                  if empty >= 2:
-                      break
-                  time.sleep(0.15)
+          def extract_page(url):
+              r = session.get(url, timeout=45)
+              if r.status_code == 404:
+                  return None
+              r.raise_for_status()
+              soup = BeautifulSoup(r.text, 'html.parser')
+              rows = []
+              seen = set()
+              # On Effects Database, category records are rendered as numbered list items.
+              for li in soup.find_all('li'):
+                  txt = ' '.join(li.get_text(' ', strip=True).split())
+                  m = re.match(r'^(\d+)\.\s+(.*)$', txt)
+                  if not m:
+                      continue
+                  a = li.find('a', href=re.compile(r'^/model/'))
+                  if not a:
+                      continue
+                  name = ' '.join(a.get_text(' ', strip=True).split())
+                  href = a.get('href')
+                  if not name or not href or href in seen:
+                      continue
+                  # Make sure this is actually the numbered product text, not an unrelated nested link.
+                  if m.group(2).strip() != name and not m.group(2).strip().endswith(name):
+                      continue
+                  seen.add(href)
+                  rows.append((int(m.group(1)), name, 'https://www.effectsdatabase.com' + href))
+              return rows
 
-              # Re-fetch and extract strictly from numbered visible rows to avoid navigation links.
-              clean = OrderedDict()
+          for category, base in categories.items():
+              records = []
+              last_max = 0
               for page in range(1, 101):
                   url = base if page == 1 else f'{base}?page={page}'
                   try:
-                      r = session.get(url, timeout=30)
-                      r.raise_for_status()
-                  except Exception:
-                      continue
-                  soup = BeautifulSoup(r.text, 'html.parser')
-                  text = soup.get_text('\n', strip=True)
-                  # Product anchors are adjacent to numbered row text; capture anchors whose preceding
-                  # text node/block begins with a numeric index.
-                  for a in soup.select('a[href^="/model/"]'):
-                      name = ' '.join(a.get_text(' ', strip=True).split())
-                      if not name:
-                          continue
-                      # Find nearest ancestor whose text contains a numbered entry like "201. Name".
-                      node = a
-                      numeric = False
-                      for _ in range(4):
-                          node = getattr(node, 'parent', None)
-                          if node is None: break
-                          t = ' '.join(node.get_text(' ', strip=True).split())
-                          import re
-                          if re.search(r'\b\d+\.\s*' + re.escape(name) + r'\b', t):
-                              numeric = True
-                              break
-                      if numeric:
-                          clean[a['href']] = name
-                  time.sleep(0.08)
+                      rows = extract_page(url)
+                  except Exception as exc:
+                      print(f'ERROR {category} page {page}: {exc}')
+                      raise
+                  if rows is None or not rows:
+                      print(f'{category}: end at page {page}')
+                      break
+                  new_rows = [r for r in rows if r[0] > last_max]
+                  # Guard against repeated/cached last page.
+                  if not new_rows:
+                      print(f'{category}: no new numbered records at page {page}; stopping')
+                      break
+                  records.extend(new_rows)
+                  last_max = max(r[0] for r in new_rows)
+                  print(f'{category}: page {page}, +{len(new_rows)}, through #{last_max}')
+                  time.sleep(0.15)
+              # De-duplicate by URL while preserving original database ordering.
+              by_url = OrderedDict()
+              for num, name, href in records:
+                  by_url[href] = (num, name, href)
+              final = list(by_url.values())
+              all_data[category] = final
+              (out / f'{category.lower()}-all.tsv').write_text(
+                  '\n'.join(f'{num}\t{name}\t{href}' for num, name, href in final) + '\n',
+                  encoding='utf-8'
+              )
+              print(f'{category}: FINAL {len(final)} records; last site number {max((x[0] for x in final), default=0)}')
 
-              # Fallback to entries if the strict filter missed anything; preserve page encounter order.
-              if len(clean) < max(1, int(len(entries) * 0.9)):
-                  clean = entries
-              all_data[category] = list(clean.values())
-              (out / f'{category.lower()}-all.txt').write_text('\n'.join(clean.values()) + '\n', encoding='utf-8')
-              print(f'{category}: {len(clean)} entries')
+          # Hard sanity checks against the scale of the live database.
+          expected_min = {'Overdrive': 5000, 'Distortion': 3000, 'Fuzz': 4000}
+          for category, minimum in expected_min.items():
+              if len(all_data[category]) < minimum:
+                  raise RuntimeError(f'{category} extraction suspiciously short: {len(all_data[category])} < {minimum}')
 
-          # Build master document.
+          # Build one giant master DOCX with the three requested sections.
           doc = Document()
           sec = doc.sections[0]
-          sec.top_margin = Inches(0.65)
-          sec.bottom_margin = Inches(0.65)
-          sec.left_margin = Inches(0.7)
-          sec.right_margin = Inches(0.7)
+          sec.top_margin = Inches(0.6)
+          sec.bottom_margin = Inches(0.6)
+          sec.left_margin = Inches(0.65)
+          sec.right_margin = Inches(0.65)
 
           p = doc.add_paragraph()
           p.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -140,67 +136,68 @@ jobs:
           r.font.size = Pt(20)
           p = doc.add_paragraph()
           p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-          r = p.add_run('Complete category extraction: Overdrive / Distortion / Fuzz')
-          r.font.size = Pt(11)
+          r = p.add_run('Complete Overdrive / Distortion / Fuzz index')
           r.italic = True
+          r.font.size = Pt(11)
           p = doc.add_paragraph()
           p.add_run('Source: ').bold = True
-          p.add_run('Effects Database (effectsdatabase.com)')
+          p.add_run('Effects Database, effectsdatabase.com')
           p = doc.add_paragraph()
           p.add_run('Extraction date: ').bold = True
           p.add_run(time.strftime('%Y-%m-%d'))
           p = doc.add_paragraph()
-          p.add_run('Method: ').bold = True
-          p.add_run('Page-by-page extraction of the live category indexes. Product names are retained as displayed by Effects Database; duplicate product URLs encountered across pages are collapsed.')
+          p.add_run('Record handling: ').bold = True
+          p.add_run('Every numbered record returned by each category index page is retained in database order. The displayed pedal name is preserved. Duplicate product URLs within a category are collapsed only when the same record is repeated by pagination.')
 
           doc.add_page_break()
-          doc.add_heading('Contents / Record Counts', level=1)
-          for category, names in all_data.items():
-              doc.add_paragraph(f'{category}: {len(names):,} records')
+          doc.add_heading('MASTER COUNTS', level=1)
+          total = 0
+          for category, records in all_data.items():
+              doc.add_paragraph(f'{category}: {len(records):,}')
+              total += len(records)
+          doc.add_paragraph(f'TOTAL: {total:,}')
 
-          for category, names in all_data.items():
+          for category, records in all_data.items():
               doc.add_page_break()
               doc.add_heading(category.upper(), level=1)
-              for i, name in enumerate(names, 1):
-                  p = doc.add_paragraph(style='List Number')
+              for site_num, name, href in records:
+                  p = doc.add_paragraph()
                   p.paragraph_format.space_after = Pt(0)
+                  r = p.add_run(f'{site_num}. ')
+                  r.bold = True
                   p.add_run(name)
 
           doc.save('research/effectsdatabase-master-dirt-pedal-index.docx')
-
-          # Save a machine-readable combined copy too, for archival verification.
-          lines = []
-          for category, names in all_data.items():
-              for i, name in enumerate(names, 1):
-                  lines.append(f'{category}\t{i}\t{name}')
-          (out / 'master.tsv').write_text('\n'.join(lines) + '\n', encoding='utf-8')
+          Path('research/effectsdatabase-master-extract/master.tsv').write_text(
+              '\n'.join(f'{category}\t{num}\t{name}\t{href}' for category, records in all_data.items() for num, name, href in records) + '\n',
+              encoding='utf-8'
+          )
           print('FINAL COUNTS:', {k: len(v) for k, v in all_data.items()})
           PY
 
-      - name: Verify extracted totals and document
+      - name: Verify the master document
         run: |
           test -s research/effectsdatabase-master-dirt-pedal-index.docx
-          test -s research/effectsdatabase-master-extract/master.tsv
           python - <<'PY'
           from pathlib import Path
           import zipfile
-          doc = Path('research/effectsdatabase-master-dirt-pedal-index.docx')
-          with zipfile.ZipFile(doc) as z:
+          p = Path('research/effectsdatabase-master-dirt-pedal-index.docx')
+          with zipfile.ZipFile(p) as z:
               assert 'word/document.xml' in z.namelist()
-          lines = Path('research/effectsdatabase-master-extract/master.tsv').read_text(encoding='utf-8').splitlines()
-          print('MASTER RECORDS:', len(lines))
-          assert len(lines) > 10000, 'Refusing to publish a non-exhaustive-looking extraction'
+          rows = Path('research/effectsdatabase-master-extract/master.tsv').read_text(encoding='utf-8').splitlines()
+          print('MASTER ROWS:', len(rows))
+          assert len(rows) > 12000
           PY
 
-      - name: Commit generated master index to repository
+      - name: Commit master index into the archive
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add research/effectsdatabase-master-dirt-pedal-index.docx research/effectsdatabase-master-extract/*.txt research/effectsdatabase-master-extract/master.tsv
-          git commit -m 'Add complete Effects Database dirt pedal index' || exit 0
+          git add research/effectsdatabase-master-dirt-pedal-index.docx research/effectsdatabase-master-extract/
+          git commit -m 'Add exhaustive Effects Database dirt pedal index' || exit 0
           git push
 
-      - name: Upload master document as workflow artifact
+      - name: Upload document artifact
         uses: actions/upload-artifact@v4
         with:
           name: effects-database-master-dirt-pedal-index
