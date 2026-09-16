@@ -9,23 +9,24 @@ VAR-0007	Tone Bender MKIII	Vox Hastings MKIII	https://www.effectsdatabase.com/mo
 VAR-0008	Tone Bender MKIV	Sola Sound early white/orange 'bendy' graphic	https://fuzzboxes.org/tonebendermkiv	Fuzzboxes.org	Early MKIV graphic period target.
 VAR-0009	Tone Bender MKIV	Sola Sound later 'Batman' graphic	https://fuzzboxes.org/tonebendermkiv	Fuzzboxes.org	Later MKIV graphic period target.
 VAR-0010	Rotosound Fuzz Box	RotoSound Fuzz Box MkIII	https://www.effectsdatabase.com/model/rotosound/fuzzbox/mk3	Effects Database	Dedicated MkIII page with image gallery.
-VAR-0011	Park Fuzz Sound	Vintage Sola Sound/Colorsound Park Fuzz Sound	https://www.effectsdatabase.com/model/park/fuzzsound	Effects Database	Vintage Park lineage and related-version evidence.
-VAR-0012	Park Fuzz Sound	Park by Colby Amplification / EarthQuaker Devices reissue	https://www.effectsdatabase.com/model/park/colby/fuzzsound	Effects Database	2015-era reissue; visually distinct from vintage Park.
-VAR-0013	Park Fuzz Sound	Park Custom Shop Fuzz Sound	https://www.effectsdatabase.com/model/park/customshop/fuzzsound	Effects Database	2026 Custom Shop version; preserve as separate modern visual state.
-VAR-0014	Marshall SupaFuzz	Marshall Supa Fuzz early Sola Sound-supplied period	https://www.effectsdatabase.com/model/marshall/supafuzz	Effects Database	Source page contains multiple period demonstrations and image references.
-VAR-0015	Marshall SupaFuzz	Marshall Supa Fuzz later Marshall-produced appearance	https://knowyourvintageguitars.be/products/marshall-supa-fuzz	Collector/dealer archive	Visual reference for later 1960s appearance and packaging.
-VAR-0016	Carlsbro Fuzz-Tone	Carlsbro Fuzz-Tone vintage gallery	https://www.effectsdatabase.com/model/carlsbro/fuzztone	Effects Database	Multiple documented photos on dedicated historical page.
-VAR-0017	Big Muff Pi	Triangle Big Muff V1	https://www.effectsdatabase.com/model/eh/bigmuffpi	Effects Database	Parent family source; variant photo hunt should preserve early triangle enclosure states.
-VAR-0018	Big Muff Pi	Triangle Big Muff 1971 three-knob layout	https://www.effectsdatabase.com/model/eh/bigmuffpi	Effects Database	Distinct control-layout state referenced by Effects Database related-family records.
-VAR-0019	Big Muff Pi	Ram's Head 1970s large enclosure	https://www.effectsdatabase.com/model/eh/bigmuffpi	Effects Database	Separate major visual generation from Triangle.
-VAR-0020	Big Muff Pi	Op-Amp 1978 silver/black graphic	https://www.effectsdatabase.com/model/eh/bigmuffpi	Effects Database	Dedicated 1978 visual generation target.
-VAR-0021	Big Muff Pi	Sovtek/Russian green enclosure	https://www.effectsdatabase.com/model/eh/bigmuffpi	Effects Database	Russian lineage should be represented independently of NYC production.
-VAR-0022	Tube Screamer	TS808 narrow-box / Flying Fingers vintage	https://www.effectsdatabase.com/model/ibanez/808/ts808	Effects Database	Dedicated page documents narrow and wide box image groups.
-VAR-0023	Tube Screamer	TS808 wide-box vintage/reissue	https://www.effectsdatabase.com/model/ibanez/808/ts808	Effects Database	Visually distinct enclosure width state.
-VAR-0024	Tube Screamer	TS808 35th Anniversary narrow-box reissue	https://www.effectsdatabase.com/model/ibanez/808/ts808/35th	Effects Database	Limited modern reissue, serialised 2014-era visual target.
-VAR-0025	Tube Screamer	TS9 original 1980s green enclosure	https://www.effectsdatabase.com/model/ibanez/9/ts9	Effects Database	Original TS9 visual state and later reissue distinction.
-VAR-0026	RAT	RAT2	https://www.effectsdatabase.com/model/proco/rat	Effects Database	Major production variant to keep visually distinct from earlier RATs.
-VAR-0027	RAT	Turbo RAT	https://www.effectsdatabase.com/model/proco/rat/turbo	Effects Database	Dedicated variant page with historical video/image references.
-VAR-0028	RAT	You Dirty RAT	https://www.effectsdatabase.com/model/proco/rat/dirty	Effects Database	Dedicated variant page; germanium-clipping model should retain its own visual identity.
-VAR-0029	RAT	1985 Whiteface RAT	https://www.effectsdatabase.com/model/proco/rat	Effects Database	Whiteface period requires dedicated specimen hunting.
-VAR-0030	RAT	Vintage Big Box RAT	https://www.effectsdatabase.com/model/proco/rat	Effects Database	Early enclosure generation to be separated from later small-box RAT2.
+VAR-0011	Rotosound Fuzz Box	RotoSound Fuzz Box full historical version gallery	https://fuzzboxes.org/rotosoundfuzzbox	Fuzzboxes.org	Contains cast-metal blue/gold, silver, pressed-steel two-knob/three-knob and Jennings-branded historical states.
+VAR-0012	Park Fuzz Sound	Vintage Sola Sound/Colorsound Park Fuzz Sound	https://www.effectsdatabase.com/model/park/fuzzsound	Effects Database	Vintage Park lineage and related-version evidence.
+VAR-0013	Park Fuzz Sound	Park by Colby Amplification / EarthQuaker Devices reissue	https://www.effectsdatabase.com/model/park/colby/fuzzsound	Effects Database	2015-era reissue; visually distinct from vintage Park.
+VAR-0014	Park Fuzz Sound	Park Custom Shop Fuzz Sound	https://www.effectsdatabase.com/model/park/customshop/fuzzsound	Effects Database	2026 Custom Shop version; preserve as separate modern visual state.
+VAR-0015	Marshall SupaFuzz	Marshall Supa Fuzz early Sola Sound-supplied period	https://www.effectsdatabase.com/model/marshall/supafuzz	Effects Database	Source page contains multiple dated demonstrations and image references.
+VAR-0016	Marshall SupaFuzz	Marshall Supa Fuzz later Marshall-produced appearance	https://knowyourvintageguitars.be/products/marshall-supa-fuzz	Collector/dealer archive	Visual reference for later 1960s appearance and packaging.
+VAR-0017	Carlsbro Fuzz-Tone	Carlsbro Fuzz-Tone vintage gallery	https://www.effectsdatabase.com/model/carlsbro/fuzztone	Effects Database	Multiple documented photos on dedicated historical page.
+VAR-0018	Big Muff Pi	Triangle Big Muff V1	https://reverb.com/uk/p/electro-harmonix-big-muff-pi-v1-triangle	Reverb	Specific Triangle V1 specimen photo target.
+VAR-0019	Big Muff Pi	Triangle Big Muff family	https://www.effectsdatabase.com/model/eh/bigmuffpi	Effects Database	Use family page to discover multiple Triangle specimens; do not assume every returned image is Triangle.
+VAR-0020	Big Muff Pi	Ram's Head 1970s large enclosure	https://www.effectsdatabase.com/model/dam/ramhead	Effects Database	Dedicated Ram Head page; pair with vintage EHX specimen searches for original appearance.
+VAR-0021	Big Muff Pi	Op-Amp 1978 silver/black graphic	https://www.effectsdatabase.com/model/eh/nano/bigmuffpi/opamp	Effects Database	Dedicated Op-Amp family/reissue page; original-period specimens require separate vintage sourcing.
+VAR-0022	Big Muff Pi	Sovtek/Russian historical family	https://www.effectsdatabase.com/model/eh/sovtek/bigmuffpi	Effects Database	Dedicated Russian family page with grey, yellow, green and black historical/reissue image groups.
+VAR-0023	Tube Screamer	TS808 narrow-box / Flying Fingers vintage	https://www.effectsdatabase.com/model/ibanez/808/ts808	Effects Database	Dedicated page documents narrow and wide box image groups.
+VAR-0024	Tube Screamer	TS808 wide-box vintage/reissue	https://www.effectsdatabase.com/model/ibanez/808/ts808	Effects Database	Visually distinct enclosure width state.
+VAR-0025	Tube Screamer	TS808 35th Anniversary narrow-box reissue	https://www.effectsdatabase.com/model/ibanez/808/ts808/35th	Effects Database	Limited modern reissue, serialised 2014-era visual target.
+VAR-0026	Tube Screamer	TS9 original 1980s green enclosure	https://www.effectsdatabase.com/model/ibanez/9/ts9	Effects Database	Original TS9 visual state and later reissue distinction.
+VAR-0027	RAT	RAT2	https://www.effectsdatabase.com/model/proco/rat	Effects Database	Major production variant to keep visually distinct from earlier RATs.
+VAR-0028	RAT	Turbo RAT	https://www.effectsdatabase.com/model/proco/rat/turbo	Effects Database	Dedicated variant page with historical video/image references.
+VAR-0029	RAT	You Dirty RAT	https://www.effectsdatabase.com/model/proco/rat/dirty	Effects Database	Dedicated variant page; germanium-clipping model should retain its own visual identity.
+VAR-0030	RAT	1985 Whiteface RAT	https://www.effectsdatabase.com/model/proco/rat/whiteface/1985	Effects Database	Dedicated Whiteface page with original/reissue image grouping.
+VAR-0031	RAT	Vintage Big Box RAT	https://www.effectsdatabase.com/model/proco/rat	Effects Database	Early enclosure generation to be separated from later small-box RAT2.
