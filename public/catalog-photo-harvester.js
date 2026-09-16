@@ -3,7 +3,7 @@
   // It discovers multiple Wikimedia Commons images per pedal at runtime,
   // while keeping image discovery separate from the Archive's cleared-media registry.
   const MAX_IMAGES = 6;
-  const CACHE_KEY = 'dirt-archive-photo-harvest-v2';
+  const CACHE_KEY = 'dirt-archive-photo-harvest-v3';
   const inflight = new Map();
   let cache = {};
   try { cache = JSON.parse(localStorage.getItem(CACHE_KEY) || '{}'); } catch (_) { cache = {}; }
@@ -35,13 +35,13 @@
     try { localStorage.setItem(CACHE_KEY, JSON.stringify(cache)); } catch (_) {}
   }
 
-  async function searchCommons(title){
-    const key=normalize(title);
+  async function searchCommons(queryText){
+    const key=normalize(queryText);
     if(cache[key]) return cache[key];
     if(inflight.has(key)) return inflight.get(key);
     const p=(async()=>{
       try{
-        const q=encodeURIComponent(`${title} guitar pedal`);
+        const q=encodeURIComponent(queryText);
         const url=`https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${q}&gsrnamespace=6&gsrlimit=${MAX_IMAGES}&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=640&format=json&origin=*`;
         const res=await fetch(url,{credentials:'omit'});
         if(!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -142,8 +142,10 @@
     if(card.dataset.photoHarvested || card.dataset.photoHarvestBusy) return;
     const title=card.querySelector('h3')?.textContent?.trim();
     if(!title) return;
+    const builder=card.querySelector('.builder')?.textContent?.trim() || '';
     card.dataset.photoHarvestBusy='1';
-    const items=await searchCommons(title);
+    const query=builder ? `${builder} ${title} guitar pedal` : `${title} guitar pedal`;
+    const items=await searchCommons(query);
     render(card,title,items);
     card.dataset.photoHarvested='1';
     delete card.dataset.photoHarvestBusy;
