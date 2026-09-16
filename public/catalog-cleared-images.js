@@ -79,6 +79,11 @@
       src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Gibson_maestro_fuzz_tone_1_752.jpg',
       page:'https://commons.wikimedia.org/wiki/File:Gibson_maestro_fuzz_tone_1_752.jpg',
       credit:'Red Rooster · Wikimedia Commons · unrestricted redistribution/commercial-use permission stated on file page'
+    },
+    'Kay Fuzz Tone': {
+      src:'https://commons.wikimedia.org/wiki/Special:Redirect/file/Kay_Fuzz_Tone_(small).png',
+      page:'https://commons.wikimedia.org/wiki/File:Kay_Fuzz_Tone_(small).png',
+      credit:'Guitarpop · CC BY 2.0 · derivative of Johann Burkard photograph'
     }
   };
 
