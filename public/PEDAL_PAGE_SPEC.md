@@ -1,29 +1,41 @@
-# Pedal Page Presentation Spec
+# The Dirt Archive · Public Structure
 
-The individual pedal page is being rebuilt as an editorial archive record rather than a database dump.
+The public archive stays deliberately simple for now:
 
-## Page structure
+**Builder → Pedals → Photos → Information on the pedal**
 
-1. Breadcrumb / category
-2. Pedal name
-3. Builder and established production period
-4. Primary reference photograph / object plate
-5. The Short Version
-6. History
-7. How to Identify It
-8. Production History
-9. Notable Differences
-10. Documentation & Evidence
+## 1. Builder
 
-## Presentation rules
+The first public level is the builder.
 
-- Remove the vertical metadata/information strip beneath the object image.
-- Keep useful factual information in the main body where it has context.
-- Do not expose schematics, PCB layouts, gutshot libraries, complete bills of materials, or cloning instructions.
-- Distinguish established facts from interpretation and unresolved research.
-- Preserve structured research data behind the page even when its old visual treatment is removed.
-- Favor readable prose, tables where comparison genuinely helps, and concise evidence notes.
+A builder page should show the builder name and its catalog of documented pedals. Historical aliases and relationships can remain in the underlying research data, but they should not create a maze of separate public destinations at this stage.
 
-## Browse philosophy
+## 2. Pedals
 
-A visitor should not need to know the builder before finding a pedal. Builder, category, era, generation and identification characteristics should eventually be independent browse paths.
+Selecting a builder opens that builder's pedal catalog.
+
+Each catalog entry is a specific pedal/model record. The list should be easy to scan and image-led where photography is available.
+
+## 3. Photos
+
+Selecting a pedal opens its photographic record.
+
+Photography is the visual anchor of the archive. Use the best available exterior/reference photographs that are appropriate for public display, with source/credit information preserved where applicable.
+
+Do not publish gutshots, PCB layouts, schematics, circuit diagrams, or other internal reconstruction material.
+
+## 4. Information on the pedal
+
+The pedal page then contains the useful historical and identification information for that specific pedal.
+
+For now, keep this to the information needed to understand the object and its documented history. Detailed database-style navigation, independent category trees, advanced identification tools, generation explorers, and other secondary browse systems are intentionally deferred.
+
+## Presentation rule
+
+The visitor experience should feel like walking through a museum:
+
+**Builder → pedal → photographs → information.**
+
+Nothing else is required in the primary path right now.
+
+The research database can remain richer behind the scenes. The public interface should remain simple until the core archive is solid.
