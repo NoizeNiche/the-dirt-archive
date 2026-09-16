@@ -3,7 +3,7 @@
   // It discovers multiple Wikimedia Commons images per pedal at runtime,
   // while keeping image discovery separate from the Archive's cleared-media registry.
   const MAX_IMAGES = 6;
-  const CACHE_KEY = 'dirt-archive-photo-harvest-v1';
+  const CACHE_KEY = 'dirt-archive-photo-harvest-v2';
   const inflight = new Map();
   let cache = {};
   try { cache = JSON.parse(localStorage.getItem(CACHE_KEY) || '{}'); } catch (_) { cache = {}; }
@@ -19,6 +19,9 @@
     .photo-harvest-grid img{width:100%;height:100%;display:block;object-fit:cover}
     .photo-harvest-note{margin-top:6px;font:8px/1.35 Arial,Helvetica,sans-serif;color:#766a5b}
     .photo-harvest-note a{color:inherit}
+    .photo-harvest-lead{position:relative}
+    .photo-harvest-lead img{width:100%;height:100%;display:block;object-fit:contain}
+    .photo-harvest-badge{position:absolute;left:7px;bottom:7px;background:#fbf7ef;padding:5px 6px;border:1px solid #b9aa92;font:700 7px/1 Arial,Helvetica,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#1d1712}
     @media (max-width:700px){.photo-harvest-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
   `;
   document.head.appendChild(style);
@@ -69,11 +72,38 @@
     return /^https:\/\/(commons\.wikimedia\.org|upload\.wikimedia\.org)\//i.test(src || '');
   }
 
+  function promoteLead(card,title,usable){
+    if(!usable.length) return;
+    const holder=card.querySelector('.pedal-image');
+    if(!holder || holder.querySelector('img')) return;
+    const im=usable[0];
+    holder.classList.add('photo-harvest-lead');
+    holder.innerHTML='';
+    const a=document.createElement('a');
+    a.href=im.page;
+    a.target='_blank';
+    a.rel='noopener noreferrer';
+    a.title=`${im.title || title} · ${im.license || 'Wikimedia Commons'}`;
+    const img=document.createElement('img');
+    img.src=im.src;
+    img.alt=`${title} reference photograph`;
+    img.loading='lazy';
+    img.referrerPolicy='no-referrer';
+    img.addEventListener('error',()=>{ holder.classList.remove('photo-harvest-lead'); holder.innerHTML=`<div class="no-image"><div><strong>${esc(title)}</strong><small>Archive photography pending</small></div></div>`; });
+    a.appendChild(img);
+    holder.appendChild(a);
+    const badge=document.createElement('span');
+    badge.className='photo-harvest-badge';
+    badge.textContent='PUBLIC PHOTO REFERENCE';
+    holder.appendChild(badge);
+  }
+
   function render(card,title,items){
     if(card.querySelector('.photo-harvest')) return;
+    const usable=items.filter(x=>validImageSource(x.src)).slice(0,MAX_IMAGES);
+    promoteLead(card,title,usable);
     const wrap=document.createElement('div');
     wrap.className='photo-harvest';
-    const usable=items.filter(x=>validImageSource(x.src)).slice(0,MAX_IMAGES);
     wrap.innerHTML=`<div class="photo-harvest-head"><span class="photo-harvest-label">PHOTO ARCHIVE</span><span class="photo-harvest-status">${usable.length ? `${usable.length} public-media result${usable.length===1?'':'s'}` : 'no Commons match'}</span></div>`;
     if(usable.length){
       const grid=document.createElement('div');
@@ -83,6 +113,7 @@
         a.href=im.page;
         a.target='_blank';
         a.rel='noopener noreferrer';
+        a.title=`${im.title || title} · ${im.license || 'Wikimedia Commons'}`;
         const img=document.createElement('img');
         img.src=im.src;
         img.alt=`${title} reference photograph ${i+1}`;
@@ -95,7 +126,7 @@
       wrap.appendChild(grid);
       const note=document.createElement('div');
       note.className='photo-harvest-note';
-      note.innerHTML='Discovery images from Wikimedia Commons. Open an image for its source page, photographer/creator and license information. These references are not automatically promoted into cleared Archive media.';
+      note.innerHTML='Public-media discovery references from Wikimedia Commons. Open an image for its source page, photographer/creator and license information. These references remain separate from cleared Archive media.';
       wrap.appendChild(note);
     } else {
       const note=document.createElement('div');
