@@ -1,11 +1,27 @@
 window.DIRT_PHOTO_MANIFEST = {
   "Fuzz Face": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/FuzzFace_Effect_Pedal.jpg/960px-FuzzFace_Effect_Pedal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:FuzzFace_Effect_Pedal.jpg",
-    "credit": "Djdaedalus  at  en.wikipedia",
-    "license": "CC BY-SA 3.0",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Dallas_Arbiter_Fuzz_Face.jpg/960px-Dallas_Arbiter_Fuzz_Face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Dallas_Arbiter_Fuzz_Face.jpg",
+    "credit": "sploshette",
+    "license": "CC BY 2.0",
     "source": "Wikimedia Commons",
     "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Dallas_Arbiter_Fuzz_Face.jpg/960px-Dallas_Arbiter_Fuzz_Face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Dallas_Arbiter_Fuzz_Face.jpg",
+        "title": "Dallas Arbiter Fuzz Face.jpg",
+        "credit": "sploshette",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Arbiter_Fuzz_Face_%28reissued_model%29_-_circuit_board_%282005-03-10_19.33.04_by_germanium%29.jpg/960px-Arbiter_Fuzz_Face_%28reissued_model%29_-_circuit_board_%282005-03-10_19.33.04_by_germanium%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Arbiter_Fuzz_Face_(reissued_model)_-_circuit_board_(2005-03-10_19.33.04_by_germanium).jpg",
+        "title": "Arbiter Fuzz Face (reissued model) - circuit board (2005-03-10 19.33.04 by germanium).jpg",
+        "credit": "germanium  from Eichwalde, Germany",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
       {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/FuzzFace_Effect_Pedal.jpg/960px-FuzzFace_Effect_Pedal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:FuzzFace_Effect_Pedal.jpg",
@@ -23,63 +39,95 @@ window.DIRT_PHOTO_MANIFEST = {
         "source": "Wikimedia Commons"
       },
       {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_29.jpg/960px-Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_29.jpg",
-        "title": "Pink Floyd Their Mortal Remains - 2017-10-13 - Andy Mabbett - 29.jpg",
-        "credit": "Andy Mabbett",
+        "src": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Wah_after_(1)_and_before_(2)_a_fuzz_face_-_very_different_sound.ogg",
+        "title": "Wah after (1) and before (2) a fuzz face - very different sound.ogg",
+        "credit": "Skimel",
         "license": "CC BY-SA 4.0",
         "source": "Wikimedia Commons"
       },
       {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_29_%28cropped_2%29.jpg/960px-Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_29_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Pink_Floyd_Their_Mortal_Remains_-_2017-10-13_-_Andy_Mabbett_-_29_(cropped_2).jpg",
-        "title": "Pink Floyd Their Mortal Remains - 2017-10-13 - Andy Mabbett - 29 (cropped 2).jpg",
-        "credit": "Andy Mabbett",
-        "license": "CC BY-SA 4.0",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Matts_Fuzz_Face_Guitar_Pedal_%28photo_by_Jason_Gessner%29.jpg/960px-Matts_Fuzz_Face_Guitar_Pedal_%28photo_by_Jason_Gessner%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Matts_Fuzz_Face_Guitar_Pedal_(photo_by_Jason_Gessner).jpg",
+        "title": "Matts Fuzz Face Guitar Pedal (photo by Jason Gessner).jpg",
+        "credit": "jason gessner",
+        "license": "CC BY-SA 2.0",
         "source": "Wikimedia Commons"
       }
     ]
   },
   "Tone Bender": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/A_dictionary_of_foreign_musical_terms_and_handbook_of_orchestral_instruments_%28IA_dictionaryoffore00wottrich%29.pdf/page1-500px-A_dictionary_of_foreign_musical_terms_and_handbook_of_orchestral_instruments_%28IA_dictionaryoffore00wottrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:A_dictionary_of_foreign_musical_terms_and_handbook_of_orchestral_instruments_(IA_dictionaryoffore00wottrich).pdf",
-    "credit": "Wotton, Tom S",
-    "license": "Public domain",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sola_Sound_Colorsound_Supa_Tonebender%2C_1974%2C_internals.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Sola_Sound_Colorsound_Supa_Tonebender,_1974,_internals.png",
+    "credit": "DominicMason",
+    "license": "CC BY 3.0",
     "source": "Wikimedia Commons",
     "gallery": [
       {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/A_dictionary_of_foreign_musical_terms_and_handbook_of_orchestral_instruments_%28IA_dictionaryoffore00wottrich%29.pdf/page1-500px-A_dictionary_of_foreign_musical_terms_and_handbook_of_orchestral_instruments_%28IA_dictionaryoffore00wottrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:A_dictionary_of_foreign_musical_terms_and_handbook_of_orchestral_instruments_(IA_dictionaryoffore00wottrich).pdf",
-        "title": "A dictionary of foreign musical terms and handbook of orchestral instruments (IA dictionaryoffore00wottrich).pdf",
-        "credit": "Wotton, Tom S",
-        "license": "Public domain",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sola_Sound_Colorsound_Supa_Tonebender%2C_1974%2C_internals.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Sola_Sound_Colorsound_Supa_Tonebender,_1974,_internals.png",
+        "title": "Sola Sound Colorsound Supa Tonebender, 1974, internals.png",
+        "credit": "DominicMason",
+        "license": "CC BY 3.0",
         "source": "Wikimedia Commons"
       },
       {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/New_method_for_the_melodeon%2C_harmonium_and_other_instruments_of_the_organ_class_-_selected_mainly_from_Zundel%27s_Melodeon_instructor_%28IA_newmethodformelo00zund%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:New_method_for_the_melodeon,_harmonium_and_other_instruments_of_the_organ_class_-_selected_mainly_from_Zundel%27s_Melodeon_instructor_(IA_newmethodformelo00zund).pdf",
-        "title": "New method for the melodeon, harmonium and other instruments of the organ class - selected mainly from Zundel's Melodeon instructor (IA newmethodformelo00zund).pdf",
-        "credit": "",
-        "license": "Wikimedia Commons",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sola_Sound_Colorsound_Supa_Tonebender%2C_from_1974.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Sola_Sound_Colorsound_Supa_Tonebender,_from_1974.png",
+        "title": "Sola Sound Colorsound Supa Tonebender, from 1974.png",
+        "credit": "DominicMason",
+        "license": "CC BY 3.0",
         "source": "Wikimedia Commons"
       },
       {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/The_complete_melodeon_instructor%2C_in_seven_parts._-_Designed_as_a_thorough_instruction_book_for_the_melodeon%2C_seraphine%2C_eolican%2C_melopean%2C_organ%2C_or_any_similar_instrument_%28IA_completemelodeon00zund%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:The_complete_melodeon_instructor,_in_seven_parts._-_Designed_as_a_thorough_instruction_book_for_the_melodeon,_seraphine,_eolican,_melopean,_organ,_or_any_similar_instrument_(IA_completemelodeon00zund).pdf",
-        "title": "The complete melodeon instructor, in seven parts. - Designed as a thorough instruction book for the melodeon, seraphine, eolican, melopean, organ, or any similar instrument (IA completemelodeon00zund).pdf",
-        "credit": "Zundel, John, 1815-1882",
-        "license": "Public domain",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/1966_VOX_TONE_BENDER_FUZZ.jpg/960px-1966_VOX_TONE_BENDER_FUZZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:1966_VOX_TONE_BENDER_FUZZ.jpg",
+        "title": "1966 VOX TONE BENDER FUZZ.jpg",
+        "credit": "sploshette",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Vox_Tone_Bender.jpg/960px-Vox_Tone_Bender.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Vox_Tone_Bender.jpg",
+        "title": "Vox Tone Bender.jpg",
+        "credit": "Johann  from Munich, Germany",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Vox_Tone_Bender_%28inside%29.jpg/960px-Vox_Tone_Bender_%28inside%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Vox_Tone_Bender_(inside).jpg",
+        "title": "Vox Tone Bender (inside).jpg",
+        "credit": "Johann  from Munich, Germany",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Keeley_Fuzz_Bender.jpg/960px-Keeley_Fuzz_Bender.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Keeley_Fuzz_Bender.jpg",
+        "title": "Keeley Fuzz Bender.jpg",
+        "credit": "Skimel",
+        "license": "CC BY-SA 4.0",
         "source": "Wikimedia Commons"
       }
     ]
   },
   "Big Muff Pi": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Dunlop_Fuzz_Face_and_Electro-Harmonix_Big_Muff.jpg/960px-Dunlop_Fuzz_Face_and_Electro-Harmonix_Big_Muff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Dunlop_Fuzz_Face_and_Electro-Harmonix_Big_Muff.jpg",
-    "credit": "Roadside Guitars",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Electro-Harmonix_Big_Muff_Pi_%28Russian_Sovtek_version%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Electro-Harmonix_Big_Muff_Pi_(Russian_Sovtek_version).jpg",
+    "credit": "Sander van Malssen  from Rotterdam, Netherlands",
     "license": "CC BY-SA 2.0",
     "source": "Wikimedia Commons",
     "gallery": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Electro-Harmonix_Big_Muff_Pi_%28Russian_Sovtek_version%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Electro-Harmonix_Big_Muff_Pi_(Russian_Sovtek_version).jpg",
+        "title": "Electro-Harmonix Big Muff Pi (Russian Sovtek version).jpg",
+        "credit": "Sander van Malssen  from Rotterdam, Netherlands",
+        "license": "CC BY-SA 2.0",
+        "source": "Wikimedia Commons"
+      },
       {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Dunlop_Fuzz_Face_and_Electro-Harmonix_Big_Muff.jpg/960px-Dunlop_Fuzz_Face_and_Electro-Harmonix_Big_Muff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:Dunlop_Fuzz_Face_and_Electro-Harmonix_Big_Muff.jpg",
@@ -105,38 +153,79 @@ window.DIRT_PHOTO_MANIFEST = {
         "source": "Wikimedia Commons"
       },
       {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Electro-Harmonix_2.jpg/960px-Electro-Harmonix_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Electro-Harmonix_2.jpg",
-        "title": "Electro-Harmonix 2.jpg",
-        "credit": "RIchie Adiyat",
-        "license": "CC BY-SA 2.0",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Electro_Harmonix_Little_Big_Muff_and_Micro_Metal_Muff_2813.JPG/960px-Electro_Harmonix_Little_Big_Muff_and_Micro_Metal_Muff_2813.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Electro_Harmonix_Little_Big_Muff_and_Micro_Metal_Muff_2813.JPG",
+        "title": "Electro Harmonix Little Big Muff and Micro Metal Muff 2813.JPG",
+        "credit": "Sky99",
+        "license": "CC BY-SA 3.0",
         "source": "Wikimedia Commons"
       },
       {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/EHX%2C_Danelectro%2C_Modtone_and_DIY_pedals_on_display_at_flea_market_in_Nantes_%28France%29.jpg/960px-EHX%2C_Danelectro%2C_Modtone_and_DIY_pedals_on_display_at_flea_market_in_Nantes_%28France%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:EHX,_Danelectro,_Modtone_and_DIY_pedals_on_display_at_flea_market_in_Nantes_(France).jpg",
-        "title": "EHX, Danelectro, Modtone and DIY pedals on display at flea market in Nantes (France).jpg",
-        "credit": "Skimel",
-        "license": "CC BY-SA 4.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Effects_pedals_Kasey_Underwood.jpg/960px-Effects_pedals_Kasey_Underwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Effects_pedals_Kasey_Underwood.jpg",
-        "title": "Effects pedals Kasey Underwood.jpg",
-        "credit": "Brownsnake84",
-        "license": "CC BY-SA 4.0",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/TwoBigMuffsoriginal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:TwoBigMuffsoriginal.jpg",
+        "title": "TwoBigMuffsoriginal.jpg",
+        "credit": "NIRVANA2764  at  English Wikipedia",
+        "license": "CC BY-SA 3.0",
         "source": "Wikimedia Commons"
       }
     ]
   },
   "Tube Screamer": {
-    "src": null,
-    "page": "",
-    "credit": "",
-    "license": "",
-    "source": "",
-    "gallery": []
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ibanez_TS-808_Tube_Screamer_Overdrive_Pro_%28True_bypass_Mod_and_Tone_Mod%29.jpg/960px-Ibanez_TS-808_Tube_Screamer_Overdrive_Pro_%28True_bypass_Mod_and_Tone_Mod%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ibanez_TS-808_Tube_Screamer_Overdrive_Pro_(True_bypass_Mod_and_Tone_Mod).jpg",
+    "credit": "Andrés Galeotti",
+    "license": "CC BY 2.0",
+    "source": "Wikimedia Commons",
+    "gallery": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ibanez_TS-808_Tube_Screamer_Overdrive_Pro_%28True_bypass_Mod_and_Tone_Mod%29.jpg/960px-Ibanez_TS-808_Tube_Screamer_Overdrive_Pro_%28True_bypass_Mod_and_Tone_Mod%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Ibanez_TS-808_Tube_Screamer_Overdrive_Pro_(True_bypass_Mod_and_Tone_Mod).jpg",
+        "title": "Ibanez TS-808 Tube Screamer Overdrive Pro (True bypass Mod and Tone Mod).jpg",
+        "credit": "Andrés Galeotti",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ibanez_TS808_Tube_Screamer_%2848588080527%29_%28cropped%29.jpg/960px-Ibanez_TS808_Tube_Screamer_%2848588080527%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Ibanez_TS808_Tube_Screamer_(48588080527)_(cropped).jpg",
+        "title": "Ibanez TS808 Tube Screamer (48588080527) (cropped).jpg",
+        "credit": "Guitar Chalk",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ibanez_TS9_Tube_Screamer_effect_pedal%2C_closeup_of_PCB_%2814292856879%29.jpg/960px-Ibanez_TS9_Tube_Screamer_effect_pedal%2C_closeup_of_PCB_%2814292856879%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Ibanez_TS9_Tube_Screamer_effect_pedal,_closeup_of_PCB_(14292856879).jpg",
+        "title": "Ibanez TS9 Tube Screamer effect pedal, closeup of PCB (14292856879).jpg",
+        "credit": "Mercado Viagens  from Brasil",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ibanez_TS9_Tube_Screamer_effect_pedal%2C_closeup_of_PCB_%2814292867930%29.jpg/960px-Ibanez_TS9_Tube_Screamer_effect_pedal%2C_closeup_of_PCB_%2814292867930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Ibanez_TS9_Tube_Screamer_effect_pedal,_closeup_of_PCB_(14292867930).jpg",
+        "title": "Ibanez TS9 Tube Screamer effect pedal, closeup of PCB (14292867930).jpg",
+        "credit": "Mercado Viagens  from Brasil",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Ibanez_TS9_Tube_Screamer_effect_pedal%2C_closeup_of_PCB_%2814478282874%29.jpg/960px-Ibanez_TS9_Tube_Screamer_effect_pedal%2C_closeup_of_PCB_%2814478282874%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Ibanez_TS9_Tube_Screamer_effect_pedal,_closeup_of_PCB_(14478282874).jpg",
+        "title": "Ibanez TS9 Tube Screamer effect pedal, closeup of PCB (14478282874).jpg",
+        "credit": "Mercado Viagens  from Brasil",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ibanez_Tube_Screamer_Mini.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Ibanez_Tube_Screamer_Mini.jpeg",
+        "title": "Ibanez Tube Screamer Mini.jpeg",
+        "credit": "Jeff Robbins  from Seekonk, MA, USA",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   },
   "RAT": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/GuitarEffect_Distorsion_Proco_TurboRat_1207.jpg/960px-GuitarEffect_Distorsion_Proco_TurboRat_1207.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -151,6 +240,22 @@ window.DIRT_PHOTO_MANIFEST = {
         "title": "GuitarEffect Distorsion Proco TurboRat 1207.jpg",
         "credit": "Sky99",
         "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Guitar_Effects_-_Electro_Harmonix_Small_Stone%2C_ProCo_RAT%2C_Ibanez_Digital_Stereo_Chorus%2C_Seiko_Tune_Master_%282002-03-01_by_Michel_Curi%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Guitar_Effects_-_Electro_Harmonix_Small_Stone,_ProCo_RAT,_Ibanez_Digital_Stereo_Chorus,_Seiko_Tune_Master_(2002-03-01_by_Michel_Curi).jpg",
+        "title": "Guitar Effects - Electro Harmonix Small Stone, ProCo RAT, Ibanez Digital Stereo Chorus, Seiko Tune Master (2002-03-01 by Michel Curi).jpg",
+        "credit": "Michel Curi",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/ProCo_RAT_2_%283103571019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:ProCo_RAT_2_(3103571019).jpg",
+        "title": "ProCo RAT 2 (3103571019).jpg",
+        "credit": "Roadside Guitars",
+        "license": "CC BY-SA 2.0",
         "source": "Wikimedia Commons"
       },
       {
@@ -175,22 +280,6 @@ window.DIRT_PHOTO_MANIFEST = {
         "title": "Proco-rat.jpg",
         "credit": "Jazzman",
         "license": "CC BY-SA 3.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Ibanez%2C_Proco%2C_Radial.jpg/960px-Ibanez%2C_Proco%2C_Radial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Ibanez,_Proco,_Radial.jpg",
-        "title": "Ibanez, Proco, Radial.jpg",
-        "credit": "RIchie Adiyat",
-        "license": "CC BY-SA 2.0",
-        "source": "Wikimedia Commons"
-      },
-      {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Compound_Recordings_Pedal_collection_%28a_part%29.jpg/960px-Compound_Recordings_Pedal_collection_%28a_part%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Compound_Recordings_Pedal_collection_(a_part).jpg",
-        "title": "Compound Recordings Pedal collection (a part).jpg",
-        "credit": "Roadside Guitars",
-        "license": "CC BY-SA 2.0",
         "source": "Wikimedia Commons"
       }
     ]
