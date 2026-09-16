@@ -1,0 +1,22 @@
+builder	model	category	light_description	photo_source	status
+VEMURAM	Jan Ray	Overdrive	Signature Vemuram overdrive built around the brand's Blackface-era Fender Magic 6 concept; long-running core model with extensive surviving specimen photography.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	Galea	Overdrive	Medium-gain Vemuram overdrive with a documented Tweed Deluxe/Tone-Master-inspired concept; preserved as a historical core model.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	Karen	Overdrive	Higher-gain Vemuram drive inspired by late-1970s/early-1980s Marshall-style amplification.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	Rage e	Overdrive	Early Vemuram overdrive/distortion model; retained as a historical core dirt product and later discontinued model.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	SHANKS ODS-1	Overdrive	John Shanks collaboration with broad transparent-drive range; documented as a core Vemuram overdrive and current catalog model.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	Butter Machine	Distortion	Michael Landau collaboration developed as a dedicated Vemuram distortion voice; current product and specimen records survive.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	Oz	Fuzz	Oz Noy collaboration using vintage silicon transistors; documented as a distinct Vemuram fuzz family.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	Myriad Fuzz	Fuzz	Josh Smith collaboration using a germanium/silicon hybrid approach; core Vemuram fuzz model with extensive surviving product records.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	Myriad	Fuzz	Expanded Myriad fuzz format with loop/dry-mix functionality; preserved as a distinct historical product identity from Myriad Fuzz.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	Shanks II	Fuzz	John Shanks fuzz combining Fuzz Face, Tonebender and Buzzaround-type tonal references; distinct historical model.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	Shanks 4K	Fuzz	John Shanks germanium fuzz designed around 1960s Fuzz Face-like overdrive boost and thick fuzz textures; two-germanium-transistor historical model.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	DJ1 Darryl Jones Bass Overdrive	Overdrive	Darryl Jones signature bass overdrive documented as a distinct Vemuram dirt product; preserved separately from the booster catalog.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	Las Lunas	Distortion	2026 Vemuram distortion developed around late-1970s/early-1980s rock drive sounds, with three-band passive EQ and two distortion characters.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	SPIRITONE	Overdrive	2026 Char collaboration overdrive combining research into Char-associated Klon, CE-1 and Copicat-inspired drive/boost behavior; two switchable voices.	https://www.vemuram.com/products.html	INVENTORY
+VEMURAM	Jan Ray for Mateus Asato	Overdrive	Limited Jan Ray artist variation associated with Mateus Asato; retained as a relationship/signature variant rather than a new conceptual family.	https://www.ishibashi.co.jp/maker/691/	RELATIONSHIP_ONLY
+VEMURAM	Jan Ray for TF	Overdrive	Limited Jan Ray artist variation associated with Tim/TF-era collaboration records; preserved as a signature variant.	https://www.ishibashi.co.jp/maker/691/	RELATIONSHIP_ONLY
+VEMURAM	Jan Ray EXP-Mod	Overdrive	Modified Jan Ray signature/specimen variant; retained as a relationship record rather than separate core model.	https://www.ishibashi.co.jp/maker/691/	RELATIONSHIP_ONLY
+VEMURAM	Shanks 3K	Booster/Fuzz	John Shanks-era hybrid booster/fuzz design; historical dealer sources classify it as a booster while later descriptions document RangeMaster/Tonebender-type dirt lineage, so it remains relationship-only pending category reconciliation.	https://www.ksound.jp/shops/list/list00254.html	RELATIONSHIP_ONLY
+VEMURAM	Budi	Booster	Clean booster; excluded from central dirt because its primary identity is boost.	https://www.ksound.jp/shops/list/list00254.html	RELATIONSHIP_ONLY
+VEMURAM	Budi-G	Booster	Gritty-gain booster; excluded from central dirt because its primary identity is boost.	https://www.vemuram.com/products.html	RELATIONSHIP_ONLY
+VEMURAM	Neoplex	Booster	Echoplex-style preamp/boost pedal; excluded from central dirt.	https://www.ksound.jp/shops/list/list00254.html	RELATIONSHIP_ONLY
