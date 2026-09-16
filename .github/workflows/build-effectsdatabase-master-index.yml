@@ -15,15 +15,12 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
       - name: Install dependencies
         run: python -m pip install --upgrade requests python-docx
-
       - name: Extract every Effects Database record
         run: |
           python - <<'PY'
@@ -33,187 +30,83 @@ jobs:
           from docx import Document
           from docx.shared import Pt, Inches
           from docx.enum.text import WD_ALIGN_PARAGRAPH
-
-          session = requests.Session()
-          session.headers.update({
-              'User-Agent': 'The-Dirt-Archive/1.0',
-              'Accept': 'text/markdown,text/plain;q=0.9,*/*;q=0.8',
-              'Accept-Language': 'en-US,en;q=0.9',
-          })
-
-          categories = OrderedDict([
-              ('Overdrive', 'https://www.effectsdatabase.com/type/overdrive/pedal'),
-              ('Distortion', 'https://www.effectsdatabase.com/type/distortion'),
-              ('Fuzz', 'https://www.effectsdatabase.com/type/fuzz/pedal'),
-          ])
-
-          out = Path('research/effectsdatabase-master-extract')
-          out.mkdir(parents=True, exist_ok=True)
-          all_data = OrderedDict()
-
-          def fetch_via_reader(target_url):
-              # POST preserves query strings in the Jina Reader request. A GET to
-              # r.jina.ai/https://... can otherwise normalize/ignore ?page=N.
-              r = session.post('https://r.jina.ai/', data={'url': target_url}, timeout=90)
-              r.raise_for_status()
-              return r.text
-
-          def parse_reader(text):
-              # Prefer the category block headed "Gear in this category".
-              pos = text.lower().find('gear in this category')
-              if pos >= 0:
-                  block = text[pos:]
-                  # Cut obvious later sections/footers when present.
-                  cut = len(block)
-                  for marker in ('\n## Related', '\n## Links', '\n## Footer', '\n### Related', '\n### Links'):
-                      j = block.find(marker)
-                      if j >= 0:
-                          cut = min(cut, j)
-                  block = block[:cut]
-              else:
-                  block = text
-
-              rows = []
-              # Markdown list form emitted by Reader.
-              rx_md = re.compile(r'^(\d+)\.\s+\[([^\]]+)\]\([^\n]*\)$')
-              # Plain numbered fallback.
-              rx_plain = re.compile(r'^(\d+)\.\s+(.+)$')
+          session=requests.Session()
+          session.headers.update({'User-Agent':'The-Dirt-Archive/1.0','Accept':'text/markdown,text/plain;q=0.9,*/*;q=0.8','Accept-Language':'en-US,en;q=0.9'})
+          categories=OrderedDict([('Overdrive','https://www.effectsdatabase.com/type/overdrive/pedal'),('Distortion','https://www.effectsdatabase.com/type/distortion'),('Fuzz','https://www.effectsdatabase.com/type/fuzz/pedal')])
+          expected_totals={'Overdrive':5414,'Distortion':3455,'Fuzz':4211}
+          out=Path('research/effectsdatabase-master-extract'); out.mkdir(parents=True,exist_ok=True)
+          all_data=OrderedDict()
+          def fetch(url):
+              r=session.get('https://r.jina.ai/'+url,timeout=90); r.raise_for_status(); return r.text
+          def parse(text):
+              pos=text.lower().find('gear in this category'); block=text[pos:] if pos>=0 else text
+              rows=[]
               for raw in block.splitlines():
-                  line = ' '.join(raw.strip().split())
-                  if not line:
-                      continue
-                  m = rx_md.match(line)
+                  line=' '.join(raw.strip().split())
+                  m=re.match(r'^(\d+)\.\s+\[([^\]]+)\]\([^\n]*\)$',line)
+                  if not m: m=re.match(r'^(\d+)\.\s+(.+)$',line)
                   if m:
-                      rows.append((int(m.group(1)), m.group(2).strip()))
-                      continue
-                  m = rx_plain.match(line)
-                  if m:
-                      name = m.group(2).strip()
-                      # Avoid treating page metadata/counts as product records.
-                      if not name.startswith(('page ', 'Page ')) and 'records' not in name.lower():
-                          rows.append((int(m.group(1)), name))
-              # Deduplicate while retaining encounter order.
-              seen = set(); clean = []
-              for n, name in rows:
-                  if (n, name) not in seen:
-                      seen.add((n, name)); clean.append((n, name))
+                      name=m.group(2).strip()
+                      if name and not name.lower().startswith('page '): rows.append((int(m.group(1)),name))
+              seen=set(); clean=[]
+              for x in rows:
+                  if x not in seen: seen.add(x); clean.append(x)
               return clean
-
-          def category_count(text):
-              m = re.search(r'Gear in this category\s*\((\d+)\)', text, re.I)
-              return int(m.group(1)) if m else None
-
-          for category, base in categories.items():
-              # First page tells us the live total when available.
-              first_text = fetch_via_reader(base)
-              expected = category_count(first_text)
-              print(f'{category}: site-reported total = {expected}')
-
-              records = []
-              page = 0
-              while True:
-                  url = base if page == 0 else f'{base}?page={page}'
-                  text = first_text if page == 0 else fetch_via_reader(url)
-                  rows = parse_reader(text)
-                  print(f'{category}: page_index={page}, rows={len(rows)}, first={rows[0] if rows else None}, last={rows[-1] if rows else None}')
-                  if not rows:
-                      break
-                  nums = [n for n, _ in rows]
-                  if page > 0 and max(nums) <= max((n for n, _ in records), default=0):
-                      print(f'{category}: repeated page detected; stopping')
-                      break
+          for cat,base in categories.items():
+              records=[]
+              for page in range(1,100):
+                  offset=(page-1)*100
+                  url=base if page==1 else f'{base}?from={offset}&page={page}'
+                  rows=parse(fetch(url))
+                  print(f'{cat}: page {page}, rows={len(rows)}, range={(rows[0],rows[-1]) if rows else None}')
+                  if not rows: raise RuntimeError(f'{cat}: empty page {page}')
                   records.extend(rows)
-                  current_max = max(n for n, _ in records)
-                  if expected and current_max >= expected:
-                      break
-                  # If the page contains fewer than 100 numbered records and the expected total is unknown,
-                  # treat it as the last page.
-                  if not expected and len(rows) < 100:
-                      break
-                  page += 1
-                  if page >= 100:
-                      raise RuntimeError(f'{category}: exceeded pagination safety limit')
-                  time.sleep(0.35)
-
-              seen = set(); final=[]
-              for n,name in records:
-                  if (n,name) not in seen:
-                      seen.add((n,name)); final.append((n,name))
-              all_data[category] = final
-              last = max((n for n,_ in final), default=0)
-              if expected and last != expected:
-                  raise RuntimeError(f'{category}: expected site total {expected}, extracted through {last} ({len(final)} unique rows)')
-              if expected and len(final) != expected:
-                  # Usually counts equal the last site number, but this guards against missing/repeated rows.
-                  raise RuntimeError(f'{category}: expected {expected} rows, got {len(final)} unique rows')
-              (out / f'{category.lower()}-all.tsv').write_text(
-                  '\n'.join(f'{n}\t{name}' for n,name in final) + '\n', encoding='utf-8')
-              print(f'{category}: FINAL rows={len(final)}, last_site_number={last}')
-
-          # Build the giant master DOCX.
-          doc = Document()
-          sec = doc.sections[0]
-          sec.top_margin = Inches(0.55); sec.bottom_margin = Inches(0.55)
-          sec.left_margin = Inches(0.6); sec.right_margin = Inches(0.6)
-          p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-          r = p.add_run('EFFECTS DATABASE MASTER DIRT PEDAL INDEX'); r.bold=True; r.font.size=Pt(20)
-          p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER
-          r=p.add_run('Complete Overdrive / Distortion / Fuzz listing'); r.italic=True; r.font.size=Pt(11)
+                  if max(n for n,_ in records)>=expected_totals[cat]: break
+                  time.sleep(0.2)
+              seen=set(); final=[]
+              for x in records:
+                  if x not in seen: seen.add(x); final.append(x)
+              final.sort(key=lambda x:x[0])
+              if len(final)!=expected_totals[cat] or final[-1][0]!=expected_totals[cat]:
+                  raise RuntimeError(f'{cat}: extracted {len(final)}, last={final[-1][0] if final else None}, expected={expected_totals[cat]}')
+              all_data[cat]=final
+              (out/f'{cat.lower()}-all.tsv').write_text('\n'.join(f'{n}\t{name}' for n,name in final)+'\n',encoding='utf-8')
+          doc=Document(); s=doc.sections[0]; s.top_margin=Inches(.5); s.bottom_margin=Inches(.5); s.left_margin=Inches(.55); s.right_margin=Inches(.55)
+          p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; r=p.add_run('EFFECTS DATABASE MASTER DIRT PEDAL INDEX'); r.bold=True; r.font.size=Pt(20)
+          p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; r=p.add_run('Every listed Overdrive, Distortion, and Fuzz pedal'); r.italic=True; r.font.size=Pt(11)
           p=doc.add_paragraph(); p.add_run('Source: ').bold=True; p.add_run('Effects Database (effectsdatabase.com)')
-          p=doc.add_paragraph(); p.add_run('Extraction date: ').bold=True; p.add_run(time.strftime('%Y-%m-%d'))
-          p=doc.add_paragraph(); p.add_run('Method: ').bold=True; p.add_run('Page-by-page extraction of every numbered record from the live category indexes. Names are retained as displayed by the database. No 100-entry sampling is used.')
-
-          doc.add_page_break(); doc.add_heading('MASTER COUNTS', level=1)
-          total=0
-          for category, records in all_data.items():
-              count=len(records); total += count
-              doc.add_paragraph(f'{category}: {count:,}')
-          doc.add_paragraph(f'TOTAL: {total:,}')
-
-          for category, records in all_data.items():
-              doc.add_page_break(); doc.add_heading(category.upper(), level=1)
-              for n,name in records:
-                  p=doc.add_paragraph(); p.paragraph_format.space_after=Pt(0)
-                  rr=p.add_run(f'{n}. '); rr.bold=True; p.add_run(name)
-
+          p=doc.add_paragraph(); p.add_run('Content: ').bold=True; p.add_run('Pedal names only')
+          doc.add_page_break(); doc.add_heading('MASTER COUNTS',level=1)
+          for cat,recs in all_data.items(): doc.add_paragraph(f'{cat}: {len(recs):,}')
+          doc.add_paragraph(f'TOTAL: {sum(len(v) for v in all_data.values()):,}')
+          for cat,recs in all_data.items():
+              doc.add_page_break(); doc.add_heading(cat.upper(),level=1)
+              for n,name in recs:
+                  p=doc.add_paragraph(); p.paragraph_format.space_after=Pt(0); p.add_run(f'{n}. ').bold=True; p.add_run(name)
           doc.save('research/effectsdatabase-master-dirt-pedal-index.docx')
-          Path('research/effectsdatabase-master-extract/master.tsv').write_text(
-              '\n'.join(f'{category}\t{n}\t{name}' for category, records in all_data.items() for n,name in records) + '\n',
-              encoding='utf-8')
-          print('FINAL COUNTS:', {k:len(v) for k,v in all_data.items()})
+          Path('research/effectsdatabase-master-extract/master.tsv').write_text('\n'.join(f'{cat}\t{n}\t{name}' for cat,recs in all_data.items() for n,name in recs)+'\n',encoding='utf-8')
+          print('FINAL COUNTS:',{k:len(v) for k,v in all_data.items()})
           PY
-
-      - name: Verify all three category totals
+      - name: Verify complete totals
         run: |
           python - <<'PY'
           from pathlib import Path
           import zipfile
-          files = {
-            'Overdrive': ('research/effectsdatabase-master-extract/overdrive-all.tsv', 5000),
-            'Distortion': ('research/effectsdatabase-master-extract/distortion-all.tsv', 3000),
-            'Fuzz': ('research/effectsdatabase-master-extract/fuzz-all.tsv', 4000),
-          }
-          total = 0
-          for name,(path,minimum) in files.items():
-              rows = [x for x in Path(path).read_text(encoding='utf-8').splitlines() if x.strip()]
-              print(name, len(rows))
-              assert len(rows) >= minimum
-              total += len(rows)
-          assert total > 12000
-          with zipfile.ZipFile('research/effectsdatabase-master-dirt-pedal-index.docx') as z:
-              assert 'word/document.xml' in z.namelist()
-          print('TOTAL', total)
+          exp={'overdrive':5414,'distortion':3455,'fuzz':4211}; total=0
+          for cat,n in exp.items():
+              rows=[x for x in Path(f'research/effectsdatabase-master-extract/{cat}-all.tsv').read_text(encoding='utf-8').splitlines() if x]
+              assert len(rows)==n,(cat,len(rows),n); total+=len(rows)
+          assert total==13080
+          with zipfile.ZipFile('research/effectsdatabase-master-dirt-pedal-index.docx') as z: assert z.testzip() is None
+          print('VERIFIED TOTAL',total)
           PY
-
-      - name: Commit master index to The Dirt Archive
+      - name: Commit complete master index
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.name 'github-actions[bot]'; git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add research/effectsdatabase-master-dirt-pedal-index.docx research/effectsdatabase-master-extract/
-          git commit -m 'Add complete Effects Database dirt pedal index' || exit 0
+          git commit -m 'Add complete Effects Database pedal-name index' || exit 0
           git push
-
-      - name: Upload master DOCX
+      - name: Upload master document
         uses: actions/upload-artifact@v4
         with:
           name: effects-database-master-dirt-pedal-index
