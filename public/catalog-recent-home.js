@@ -23,7 +23,6 @@
       document.head.appendChild(style);
     }
     window.home=safeHome;
-    window.DIRT_ORIGINAL_HOME=safeHome;
     const page=location.hash.replace(/^#\/?/,'').split('/').filter(Boolean)[0];
     if(!page&&document.getElementById('app')) safeHome();
   };
