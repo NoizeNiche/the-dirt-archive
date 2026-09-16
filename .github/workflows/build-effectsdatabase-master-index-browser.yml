@@ -30,9 +30,10 @@ jobs:
           from docx.enum.text import WD_ALIGN_PARAGRAPH
 
           C=OrderedDict([
-            ('Overdrive','https://www.effectsdatabase.com/type/overdrive/pedal',54,5414),
-            ('Distortion','https://www.effectsdatabase.com/type/distortion/pedal',34,3455),
-            ('Fuzz','https://www.effectsdatabase.com/type/fuzz/pedal',42,4211)])
+            ('Overdrive',('https://www.effectsdatabase.com/type/overdrive/pedal',54,5414)),
+            ('Distortion',('https://www.effectsdatabase.com/type/distortion/pedal',34,3455)),
+            ('Fuzz',('https://www.effectsdatabase.com/type/fuzz/pedal',42,4211)),
+          ])
           OUT=Path('research/effectsdatabase-master-extract'); OUT.mkdir(parents=True,exist_ok=True)
 
           def page_rows(page):
@@ -46,8 +47,7 @@ jobs:
               """)
               out=[]; seen=set()
               for x in data:
-                  if x['href'] not in seen:
-                      seen.add(x['href']); out.append((x['name'],x['href']))
+                  if x['href'] not in seen: seen.add(x['href']); out.append((x['name'],x['href']))
               return out
 
           def load(page,url):
