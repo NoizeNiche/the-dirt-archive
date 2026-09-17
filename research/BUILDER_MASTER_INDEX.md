@@ -5,12 +5,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **116 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **150 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **143 block files** are currently present: Blocks 001-069, 071-141, and 143-145.
+- **159 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **193 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **144 block files** are currently present: Blocks 001-069, 071-141, and 143-146.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 116 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 159 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -140,6 +140,49 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 114 | JPTR FX | 144 |  |
 | 115 | Black Mass Electronics | 145 |  |
 | 116 | Hungry Robot | 145 |  |
+| 117 | A Sound Of Failure | 146 |  |
+| 118 | A&M Custom Effects | 146 |  |
+| 119 | A.Y.A | 146 |  |
+| 120 | A/DA | 146 | Analog/Digital Associates |
+| 121 | Abasi Concepts | 146 | Abasi |
+| 122 | AbbyTone | 146 |  |
+| 123 | ABL Pedals | 146 |  |
+| 124 | Abominable Electronics | 146 |  |
+| 125 | AboveGroundFX | 146 |  |
+| 126 | Absolutely Analog | 146 |  |
+| 127 | AC Efectos | 146 |  |
+| 128 | AC Noises | 146 |  |
+| 129 | Acorn Amps | 146 |  |
+| 130 | Acid Age Electronics | 146 |  |
+| 131 | Acid Fuzz | 146 |  |
+| 132 | Accel Audio | 146 |  |
+| 133 | Acoustic Imaginearing | 146 |  |
+| 134 | AD Pedals | 146 |  |
+| 135 | Add+ Pedals | 146 |  |
+| 136 | Addrock Musical Products | 146 | Addrock |
+| 137 | ADV Systems | 146 |  |
+| 138 | Advance Tube Technology | 146 |  |
+| 139 | Adventure Audio | 146 |  |
+| 140 | AED | 146 |  |
+| 141 | Aether Electronic | 146 |  |
+| 142 | AGR Pedals | 146 |  |
+| 143 | Aguilar | 146 |  |
+| 144 | Airis Effects | 146 |  |
+| 145 | AJ Peat | 146 |  |
+| 146 | AJcustom | 146 |  |
+| 147 | Akai | 146 |  |
+| 148 | Alairex | 146 |  |
+| 149 | Alber | 146 |  |
+| 150 | Alcove | 146 |  |
+| 151 | Alden | 146 |  |
+| 152 | Aleatorik | 146 |  |
+| 153 | Aleks K Production | 146 |  |
+| 154 | Alen Geere | 146 |  |
+| 155 | Alien Amplification | 146 |  |
+| 156 | Alien Rabbit | 146 |  |
+| 157 | All-Pedal | 146 |  |
+| 158 | AMT Electronics | 146 |  |
+| 159 | Ampeg | 146 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
