@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–057 are stored under `research/builders/`.
+- Fresh research Blocks 001–058 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -72,12 +72,13 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 055 covers BIXONIC — Bright International Corp. / BIXONIC Inc.; relaunched under Kikusui Electronics Corp., using BIXONIC's official Story/history, New Arrival material, EXP2000DR product page, and Axentrix II/product announcements. The historical EXPANDORA family and AXENTRIX A1 span Overdrive, Distortion, and Fuzz; EXP2000DR and AXENTRIX II are conservatively recorded under Distortion and Fuzz only.
 - Block 056 covers McGregor Pedals — Garth McGregor Heslop, using McGregor Pedals' official catalog, individual product pages, and official press page. The verified set spans Overdrive, Distortion, and Fuzz; Crunch Plus is both Overdrive and Distortion, The Cozmic Fuzzball is Distortion/Fuzz, and The Classic Fuzz remains Fuzz only.
 - Block 057 covers Stomp Under Foot — Matt Pasquerella, using the current Stomp Under Foot catalog plus Premier Guitar, Guitar Pedal X, and Effects Database for historical/product-level corroboration. The block spans Overdrive, Distortion, and Fuzz; Full Powered Halo is explicitly both Overdrive and Distortion, Skinner Box remains Distortion despite lower-gain overdrive capability, and fuzz-family products are not inflated into additional categories.
+- Block 058 covers Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez, using Dirty Boy Co.'s official effects catalog and product pages plus Warm Audio's official Dirty Boy Jr. materials and authoritative collaboration coverage. The block spans Overdrive and Fuzz; PREAMP and Dirty Boy Jr. Overdrive are explicit Overdrive identities, AFRO FUZZ, The Magical MYSTERY FUZZ, and Dirty Boy Jr. Fuzz are explicit Fuzz identities, and no standalone Distortion identity is promoted.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`2b82554db81be87539b00f340e1845caf3690878`
+`2140b6450bd644217c705bba4b078e7ecd52c954`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
