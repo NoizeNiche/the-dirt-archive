@@ -12,8 +12,8 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Repository reset is the current source of truth.
 - Permanent project boot instructions, archive governance, and current-state tracking are active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–092 are stored under `research/builders/`.
-- Blocks 001–060 remain preserved as repository research files; Blocks 061–092 are summarized below for quick continuity.
+- Fresh research Blocks 001–093 are stored under `research/builders/`.
+- Blocks 001–060 remain preserved as repository research files; Blocks 061–093 are summarized below for quick continuity.
 - Block 061: Skreddy Pedals. Manufacturer-supported Overdrive/Fuzz census; conservative Distortion handling; non-dirt utilities and amp-emulator platforms excluded.
 - Block 062: Keeley Electronics. Current and historical Overdrive, Distortion, and Fuzz identities; explicit overlaps retained; cosmetic/B-stock/limited variants consolidated.
 - Block 063: Wampler Pedals. Manufacturer-supported Overdrive, Distortion, and Fuzz census; explicit overlaps retained; weak historical leads not promoted.
@@ -46,20 +46,21 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 090: Radial Engineering / Tonebone. Continuous Tonebone/Bones builder lineage within Radial. Overdrive includes Regency Overdrive and Boost, Bones Texas Dual Mode Overdrive, Bassbone OD, and Bones Hollywood Distortion & Overdrive. Distortion includes Bones London Dual-Mode Distortion, Bones Hollywood Distortion & Overdrive, Hot British / Hot-British V9, Classic / Classic V9, Tonebone Classic, Tonebone Trimode, and Tonebone Plexitube. No standalone Radial/Tonebone fuzz identity was established with sufficient product-level evidence. Classic V9 and Hot-British V9 are consolidated with their established Tonebone lineages.
 - Block 091: Mid-Fi Electronics. Mid-Fi Electronics / Doug Tuttle is treated as an unrepresented builder identity with a primarily fuzz-oriented standalone dirt catalog. Overdrive includes Magick "i", Hieracium, Full Frequency Overdrive, Yard Sale, and historical Overdrive. No standalone Distortion identity was established with sufficiently explicit builder-level product-category wording. Fuzz includes Rise/OverRun, Cocoon, House Amp, Faulty Channel, Demo Tape Fuzz, Another/An-other (Fuzz Version), Country Fuzz, Peace Gun, Psych Byke, Glitch Computer, Random Number Generator, Fuzz Wall, What?, Clari(not) Fuzz, and Yard Sale. Yard Sale is the explicit Overdrive + Fuzz overlap; historical Overdrive is documented as the predecessor to Magick "i". Variant and one-off handling remains conservative.
 - Block 092: VFE Pedals. VFE Pedals / Peter Rutter is treated as an unrepresented builder identity with a broad standalone dirt catalog. Overdrive includes Tiamat, Blues King, Dragon, Dragon Hound, Merman, Pale Horse, The Scream, Distortion3, and historical Proto OD. Distortion includes RUP mkII, Killer Rabbit, Alpha Dog, Dark Horse, Distortion3, Dragon Hound, Fiery Red Horse, The Triplet, and Triumvirate. Fuzz includes Killer Rabbit, Fiery Red Horse, Fuzz Duo, and Woodchipper. Killer Rabbit is the explicit three-category overlap; Distortion3 and Dragon Hound are Overdrive + Distortion; Fiery Red Horse is Fuzz + Distortion. Tiamat, RUP mkII, and Killer Rabbit are current 2026 products/pre-orders; historical named products are consolidated across normal revisions. Fuzz Cocktail remains an unpromoted idea.
+- Block 093: Empress Effects. Empress Effects Inc. is treated as an unrepresented builder identity with a compact standalone dirt catalog. Overdrive includes Drive, Germ Drive, and Multidrive. Distortion includes Heavy, Heavy Menace, Distortion, and Multidrive. Fuzz includes Fuzz and Multidrive. Multidrive is the explicit three-category overlap. Heavy and Heavy Menace are Distortion only; Heavy Menace Limited Edition is consolidated with Heavy Menace as a colourway. ZOIA modules and factory patches remain excluded as modular/multi-effect functions rather than standalone dirt pedals.
 
-## Block 092 details
-VFE Pedals / Peter Rutter is treated as an unrepresented builder identity in the active census. VFE's own catalog explicitly separates Overdrive, Distortion, and Fuzz and lists Blues King, Alpha Dog, Dark Horse, Distortion3, Dragon, Dragon Hound, Fiery Red Horse, Fuzz Duo, Merman, Pale Horse, The Scream, The Triplet, Triumvirate, and Woodchipper. Current VFE product pages additionally document Tiamat as its final/definitive overdrive, RUP mkII as a multiband distortion, and Killer Rabbit as a stereo distortion machine containing overdrive, distortion, and fuzz circuits. Killer Rabbit is therefore recorded in all three target categories; Distortion3 and Dragon Hound in Overdrive + Distortion; Fiery Red Horse in Fuzz + Distortion. Proto OD is retained as a historical named predecessor to Pale Horse. Fuzz Cocktail and other tinkering/educational/Eurorack projects remain excluded.
+## Block 093 details
+Empress Effects Inc. is treated as an unrepresented builder identity in the active census. Empress's official catalog and product pages explicitly support Drive and Germ Drive as Overdrive, Heavy and Heavy Menace as Distortion, Distortion as Distortion, Fuzz as Fuzz, and Multidrive as a pedal combining Overdrive, Distortion, and Fuzz in parallel. Heavy Menace remains a current distortion product, while Germ Drive, Distortion, Fuzz, and Multidrive are listed by Empress as discontinued. Heavy Menace Limited Edition is a colourway and is consolidated. ZOIA's OD, distortion, and fuzz modules, ZOIA factory patches, and overdriven reverb modes remain outside the standalone dirt census.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`f1649b469fffcd2700435f98110ce74630fa1404`
+`be801221febe3f73045465caad6b916fc8d9f0cc`
 
 ## Last checkpoint files
-- `CURRENT_STATE.md` updated in commit `daf727c5b383c4ebd150429cd2fcd570c20eb7e4`
-- `research/builders/BLOCK-2026-09-17-092.md` content SHA: `d998677aa4860839732becf862685e8b4c62d4e3`
-- `CURRENT_STATE.md` content SHA: `ceaffffe5685cfc950ebf1736637586ff93f7182`
+- `CURRENT_STATE.md` updated in commit `02dcecacdcd633f4fbd3894012fc310b52579025`
+- `research/builders/BLOCK-2026-09-17-093.md` content SHA: `d012380deb224f93392835948a386d893cf7ea4d`
+- `CURRENT_STATE.md` content SHA: `a1b3ce8db1a6929d7a9f150264cbe8e7826d6158`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
