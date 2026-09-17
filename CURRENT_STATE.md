@@ -25,18 +25,18 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 055.
+Research blocks stored under `research/builders/` now run through Block 056.
 
-Latest addition in Block 055:
-- BIXONIC — Bright International Corp. / BIXONIC Inc.; relaunched under Kikusui Electronics Corp.
+Latest addition in Block 056:
+- McGregor Pedals — Garth McGregor Heslop
 
 Recent blocks:
-- Block 050: Blackout Effectors — Kyle Tompkins
 - Block 051: Blackhawk Amplifiers — Brooks Blackhawk
 - Block 052: MI Audio / MI Effects — Michael Ibrahim
 - Block 053: Audiolithe — Christophe & Gaëtan
 - Block 054: Barbarossa — Newtool
 - Block 055: BIXONIC — Bright International Corp. / BIXONIC Inc.; relaunched under Kikusui Electronics Corp.
+- Block 056: McGregor Pedals — Garth McGregor Heslop
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -81,15 +81,16 @@ Block 052 records MI Audio / MI Effects — Michael Ibrahim dirt products using 
 Block 053 records Audiolithe — Christophe & Gaëtan dirt products using Audiolithe's official catalog and individual product pages, with Guitar Pedal X used to corroborate builder identity and the historical product range. The block includes explicit Overdrive and Fuzz relationships and deliberately leaves Distortion empty because no standalone finished pedal is explicitly categorized that way by the manufacturer.
 Block 054 records Barbarossa — Newtool dirt products using Newtool's official Barbarossa catalog and site, plus Birdland Guitars' distributor documentation for the historical WIVERN. The block includes explicit Overdrive and Distortion relationships; GARGOYLE and CRONUS are recorded in both categories, WIVERN is retained as historical Overdrive, and no Fuzz identity is promoted.
 Block 055 records BIXONIC dirt products using BIXONIC's official Story/history, New Arrival material, official EXP2000DR page, and official Axentrix II/product announcements. The block records the historical EXPANDORA family and AXENTRIX A1 across Overdrive, Distortion, and Fuzz; EXP2000DR and AXENTRIX II are conservatively recorded under Distortion and Fuzz only.
+Block 056 records McGregor Pedals — Garth McGregor Heslop dirt products using McGregor Pedals' official catalog, individual product pages, and official press page. The block includes explicit Overdrive, Distortion, and Fuzz relationships; Crunch Plus is both Overdrive and Distortion, The Cozmic Fuzzball is Distortion/Fuzz, and The Classic Fuzz remains Fuzz only.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 055.
+Added and re-read Builder → Pedals research Block 056.
 
 Research block commit:
-`66a77fca4bb1285a4566733573ed1950c4dfeab1`
+`5fe7329fde30028f8f6e636f4c38e450742d9e35`
 
 Research block content SHA:
-`f7f7660602b2a751b25de29c05fc72671805eab3`
+`764dfebe3abf720a94b6b767fc664043c243fca8`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
