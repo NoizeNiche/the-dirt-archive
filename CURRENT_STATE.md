@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 088**.
+Research blocks stored under `research/builders/` now run through **Block 089**.
 
 Latest addition:
-- Block 088: Visual Sound / Truetone
+- Block 089: Danelectro
 
 Recent blocks:
-- Block 078: MESA/Boogie
 - Block 079: TC Electronic
 - Block 080: Strymon
 - Block 081: Marshall Amplification
@@ -42,46 +41,63 @@ Recent blocks:
 - Block 086: MOOER Audio
 - Block 087: NUX Audio
 - Block 088: Visual Sound / Truetone
+- Block 089: Danelectro
 
-Blocks 001–087 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–088 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 088 summary
-Visual Sound / Truetone is treated as one continuous builder/company lineage because Truetone's own history states that Visual Sound became Truetone in 2015. The block records the standalone dirt products associated with that lineage.
+### Block 089 summary
+Danelectro is treated as an unrepresented builder/brand identity with a broad documented standalone dirt-pedal catalog spanning current vintage-series products and historical Cool Cat, FAB, mini, Paisley, Wasabi, and related stompbox lines.
 
 Overdrive:
-- Jekyll & Hyde
-- Route 66 American Overdrive
-- Open Road
-- VS-XO
-- Route 808
-- Double Trouble
-- Drivetrain / GarageTone Drivetrain
-- Custom Shop Overdrive
-- Route 66
+- The Breakdown
+- Daddy O
+- Cool Cat Drive
+- Cool Cat Transparent Overdrive
+- FAB Overdrive
+- Pastrami Overdrive
+- Blue Paisley PureDrive
+- Wasabi Overdrive
+- Cash Cow Overdrive
+- Pride of Texas Overdrive
 
 Distortion:
-- Jekyll & Hyde
-- Son of Hyde
-- GarageTone Chainsaw Distortion
-- Vans Warped Distortion
+- Roebuck
+- Nichols 1966
+- Cool Cat Distortion
+- Cool Cat Metal
+- Cool Cat Metal II
+- FAB Distortion
+- FAB Metal
+- Fab Tone / FAB Tone Distortion
+- T-Bone Distortion
+- Grilled Cheese Distortion
+- Black Coffee Metal Distortion
+- French Toast Octave Distortion
+- Wasabi Distortion
+- Black Paisley Liquid Metal
 
 Fuzz:
-- Angry Fuzz
+- Eisenhower Fuzz
+- 3699 fUZZ
+- Nichols 1966
+- Cool Cat Fuzz
+- FAB Fuzz
+- French Toast
 
-Jekyll & Hyde is the explicit Overdrive + Distortion overlap. Route 66 is counted only as Overdrive because its second channel is compression. Double Trouble and VS-XO remain Overdrive-only because both channels are overdrive. Angry Fuzz remains Fuzz despite its integrated octave circuit. Vans Warped Distortion remains a separate limited-edition named product. Visual Blues and Visual Metal are retained only as unpromoted historical leads because category evidence was insufficient for confident inclusion.
+Nichols 1966 is the clearest category-boundary case, explicitly described by Danelectro as a fuzz/distortion hybrid. French Toast is recorded as Fuzz + Distortion because authoritative catalog coverage identifies it as an octave-fuzz/octave-distortion product. The Breakdown remains Overdrive only, while Roebuck remains Distortion only, following the builder's primary product identities.
 
-V1/V2/V3 revisions are consolidated where they represent the same named product family. Route 808 and Double Trouble remain separate named products because they were distinct standalone designs, while GarageTone Drivetrain and GarageTone Chainsaw Distortion remain separate named GarageTone products.
+Cool Cat V2 revisions are consolidated with their underlying product identities. Current vintage-series revivals remain distinct named products. Historical mini “food” pedals remain separate named stompbox identities.
 
-Non-dirt effects, compressor channels, clean boost, buffer, power products, accessories, and other out-of-scope products remain excluded. No modeled multi-effects identities are created.
+Non-dirt effects, amplifier products, boost-only products, modeled/multi-effect products, and insufficiently documented historical leads remain excluded.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 088.
+Added, tightened, and re-read Builder → Pedals research Block 089.
 
 Research block commit:
-`d3c250fe9de57f275f39ec867dffe1fb42347eb6`
+`2a0f79372a8377154a528d7e65134afdfc193ae7`
 
 Research block content SHA:
-`61ea34ab05579e54ae65b5a7d772403880bae2c5`
+`fd94bab6bbb95ab4a6b547556333bdbbdb858d55`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
