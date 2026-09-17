@@ -13,9 +13,33 @@ jobs:
       - name: Scrape Effects Database
         run: |
           python - <<'PY'
-          import re, requests, time
-          from bs4 import BeautifulSoup
+          import html
+          import requests
+          from html.parser import HTMLParser
           from pathlib import Path
+
+          class LinkParser(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.in_model = False
+                  self.parts = []
+                  self.found = []
+              def handle_starttag(self, tag, attrs):
+                  if tag == 'a':
+                      d = dict(attrs)
+                      if '/model/' in d.get('href',''):
+                          self.in_model = True
+                          self.parts = []
+              def handle_data(self, data):
+                  if self.in_model:
+                      self.parts.append(data)
+              def handle_endtag(self, tag):
+                  if tag == 'a' and self.in_model:
+                      text = html.unescape(' '.join(''.join(self.parts).split()))
+                      if text and text not in self.found:
+                          self.found.append(text)
+                      self.in_model = False
+                      self.parts = []
 
           cats = {
             'Overdrive': 'https://www.effectsdatabase.com/type/overdrive/pedal',
@@ -24,6 +48,7 @@ jobs:
           }
           out = Path('effectsdatabase_pedal_names.txt')
           lines = []
+          headers = {'User-Agent':'Mozilla/5.0 (compatible; DirtArchive/1.0)'}
           for cat, base in cats.items():
             lines += [f'## {cat}', '']
             page = 0
@@ -31,25 +56,21 @@ jobs:
             while True:
               url = base if page == 0 else f'{base}?page={page}'
               print('GET', url, flush=True)
-              r = requests.get(url, timeout=30, headers={'User-Agent':'Mozilla/5.0'})
+              r = requests.get(url, timeout=30, headers=headers)
               r.raise_for_status()
-              soup = BeautifulSoup(r.text, 'html.parser')
-              found = []
-              for a in soup.find_all('a', href=True):
-                txt = ' '.join(a.get_text(' ', strip=True).split())
-                href = a['href']
-                if '/model/' in href and txt and txt not in found:
-                  found.append(txt)
+              p = LinkParser(); p.feed(r.text)
+              found = p.found
               if not found:
                 break
               new = [x for x in found if x not in seen]
+              if not new:
+                break
               for x in new:
                 seen.add(x); lines.append(x)
               print(f'{cat} page {page}: {len(found)} names, {len(seen)} total', flush=True)
               if len(found) < 50:
                 break
               page += 1
-              time.sleep(.1)
               if page > 200:
                 raise RuntimeError('pagination guard')
             lines.append('')
