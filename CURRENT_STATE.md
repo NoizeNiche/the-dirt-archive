@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 080**.
+Research blocks stored under `research/builders/` now run through **Block 081**.
 
 Latest addition:
-- Block 080: Strymon
+- Block 081: Marshall Amplification
 
 Recent blocks:
-- Block 070: Xotic Effects / Xotic California
 - Block 071: Maxon / Nisshin Onpa
 - Block 072: DOD Electronics / DOD
 - Block 073: DigiTech
@@ -42,42 +41,52 @@ Recent blocks:
 - Block 078: MESA/Boogie
 - Block 079: TC Electronic
 - Block 080: Strymon
+- Block 081: Marshall Amplification
 
-Blocks 001–079 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–080 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 080 summary
-Strymon is treated as an unrepresented builder identity with five clearly documented core dirt products: Sunset Dual Overdrive, Riverside Drive & Distortion, Fairfax Class A Output Stage Drive, Canoga Vintage Silicon Fuzz, and Deco Tape Saturation & Doubletracker.
+### Block 081 summary
+Marshall Amplification is treated as an unrepresented builder identity with current and historical dirt products across Overdrive, Distortion, and Fuzz.
 
 Overdrive:
-- Sunset Dual Overdrive
-- Riverside Drive & Distortion
-- Fairfax Class A Output Stage Drive
-- Deco Tape Saturation & Doubletracker
+- 1959 Overdrive Pedal
+- JCM800 Overdrive Pedal
+- JCM900 Overdrive Pedal
+- DSL Overdrive Pedal
+- JVM Overdrive Pedal
+- Bluesbreaker Vintage Reissue Pedal
+- Guv'nor Vintage Reissue Pedal
+- Drivemaster Vintage Reissue Pedal
+- Bluesbreaker II BB-2
+- Guv'nor Plus GV-2
+- Jackhammer JH-1
 
 Distortion:
-- Riverside Drive & Distortion
-- Canoga Vintage Silicon Fuzz
+- Drivemaster Vintage Reissue Pedal
+- Shredmaster Vintage Reissue Pedal
+- Guv'nor Plus GV-2
+- Jackhammer JH-1
 
 Fuzz:
-- Canoga Vintage Silicon Fuzz
+- Supa Fuzz
 
-Sunset is recorded as Overdrive only because Strymon explicitly presents it as a dual overdrive pedal; its hard circuit approaching fuzz at maximum gain does not create a second category. Riverside is recorded as Overdrive + Distortion because the product title and manufacturer documentation explicitly span both. Fairfax is recorded as Overdrive only from Strymon's drive/overdrive presentation. Canoga is recorded as Fuzz + Distortion because Strymon explicitly identifies it as a vintage silicon fuzz that can also work as distortion when driven harder. Deco is included under Overdrive because Strymon currently places Deco V2 in its Drive catalog and explicitly describes transparent tape overdrive, while V2 preserves the original sound and functions.
+Drivemaster is recorded as Overdrive + Distortion because Marshall's current pedal catalog uses both terms for the named pedal. Shredmaster is Distortion from Marshall's explicit high-gain distortion presentation. Jackhammer is Overdrive + Distortion because the manufacturer-authored JH-1 manual explicitly documents separate Overdrive and Distortion modes. Guv'nor Plus is retained as Overdrive + Distortion based on authoritative historical product classification and its documented expanded gain range. Bluesbreaker II is Overdrive only; its separate Boost mode is outside the target taxonomy.
 
-Deco V2 is consolidated with the Deco functional identity. Sunset circuit selections, Riverside gain architecture, firmware/preset variations, and cosmetic/hardware revisions do not create additional dirt identities.
+Marshall's current catalog contains nine active pedal products: five Overdrive Pedal models and four Vintage Reissue models. Historical identities added from authoritative Marshall/product documentation include Bluesbreaker II, Guv'nor Plus, Jackhammer, and Supa Fuzz. The original Guv'nor, Bluesbreaker, Drivemaster, and Shredmaster reissues are not duplicated as separate functional identities from their originals. Drivemaster remains distinct from Guv'nor because it is a separately named product.
 
-No separate historical Strymon dirt identity was established in the reviewed manufacturer material beyond the documented Deco/Riverside/Sunset/Fairfax/Canoga products. Boost-only and non-dirt Strymon products remain outside the target census.
+Supa Fuzz is retained as the historical standalone Marshall Fuzz identity. No current Marshall-branded standalone Fuzz product was established in the reviewed current catalog. Park-branded and other separate-brand products remain outside the Marshall builder relationship.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 080.
+Added and re-read Builder → Pedals research Block 081.
 
 Research block commit:
-`4b1a6fef47b7e7441e039667a59f9dfce1e35d97`
+`93ff335e978004bad70163c513bb0647fd14d71c`
 
 Research block content SHA:
-`25faf4ba088cee5024f47bc455c25fab7a34caf0`
+`3f38c71db32311e6df15f7aeb5884669776b14c1`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
 
 ## Must not touch
-Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website/UI architecture.
+Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website architecture.
