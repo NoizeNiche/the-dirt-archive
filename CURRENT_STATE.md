@@ -25,45 +25,22 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 014.
+Research blocks stored under `research/builders/` now run through Block 015.
 
-Builders covered so far:
-- Fulltone
-- MXR
-- Maxon
-- DOD
-- EarthQuaker Devices
-- Wampler Pedals
-- JHS Pedals
-- Walrus Audio
-- Catalinbread Effects
-- Xotic Effects / Xotic California
-- Ibanez
-- ZVEX Effects
-- Analog Man
-- BOSS
-- ProCo Sound
-- Keeley Electronics
-- Friedman Amplification
-- Pigtronix
-- Death By Audio
-- Lovepedal / Sean Michael
-- Electro-Harmonix
-- Greer Amps
-- Benson Amps
-- ThorpyFX
+The repository currently records a growing set of established and boutique builders. The latest additions are Barber Electronics and Black Arts Toneworks.
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
+Block 015 records Barber Electronics and Black Arts Toneworks dirt products using manufacturer catalogs and official product pages.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 014.
+Added and re-read Builder → Pedals research Block 015.
 
 Research block commit:
-`f5330492761cae7e74d6b8462de0ecd7af72d134`
+`43f33944d69f14469a58cdf4220b0c804a434927`
 
 ## Next action
-Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
+Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
 
 ## Must not touch
 Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website architecture.
