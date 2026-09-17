@@ -25,10 +25,10 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 063**.
+Research blocks stored under `research/builders/` now run through **Block 064**.
 
 Latest addition:
-- Block 063: Wampler Pedals — Brian Wampler
+- Block 064: Walrus Audio
 
 Recent blocks:
 - Block 055: BIXONIC — Bright International Corp. / BIXONIC Inc.; relaunched under Kikusui Electronics Corp.
@@ -40,84 +40,52 @@ Recent blocks:
 - Block 061: Skreddy Pedals — Marc Ahlfs
 - Block 062: Keeley Electronics — Robert Keeley
 - Block 063: Wampler Pedals — Brian Wampler
+- Block 064: Walrus Audio
 
-Blocks 001–062 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–063 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 063 summary
-Wampler's manufacturer material identifies Brian Wampler as founder, CEO, and chief engineer and says Wampler produces overdrive, distortion, and fuzz pedals. The current manufacturer site maintains separate Overdrive, Distortion, and Fuzz groupings plus an official archive of discontinued product manuals.
+### Block 064 summary
+Walrus Audio's official catalog maintains an explicit Overdrive, Fuzz, & Distortion family, plus current individual product pages, an official manuals archive, and a discontinued-pedal archive. The block records only manufacturer-supported builder/product relationships and keeps secondary effects, B-stock pages, and cosmetic/limited-edition variants out of the core identity set.
 
 Overdrive:
-- Golden Jubilee
-- Brent Mason: ReWired
-- Germanium Tumnus Deluxe
-- Mofetta
-- Moxie
-- Belle Overdrive
-- Pantheon Deluxe
-- Ratsbane
-- Andy Wood: Gearbox
-- Germanium Tumnus
-- Plexi Drive Mini
-- Triumph Overdrive
-- Pantheon Overdrive
-- Tumnus
-- Brad Paisley: Paisley Deluxe
-- Euphoria Overdrive
-- Tom Quayle: Dual Fusion
-- Plexi Drive Deluxe
-- Brad Paisley: Paisley Drive
-- Black '65
-- Clarksdale Overdrive
-- Hot Wired
-- Low Blow Bass Overdrive
-- Plexi-Drive
-- Thirty Something
-- Tweed '57
-- UnderDog
+- Voyager Preamp/Overdrive MKII
+- 385 Overdrive MKII
+- Ages Five-State Overdrive
+- 385 Overdrive
+- Warhorn Mid-Range Overdrive
+- Voyager Preamp/Overdrive
+- Mayflower Mid-Range Overdrive
+- Messner Stage-One Overdrive
+- Fundamental Series Drive
+- Badwater Bass Pre-amp and D.I.
 
 Distortion:
-- Golden Jubilee
-- the Compulsion Drive (tcd)
-- Brent Mason: ReWired
-- Mofetta
-- Pantheon Deluxe
-- Ratsbane
-- Andy Wood: Gearbox
-- Plexi Drive Mini
-- Phenom Distortion
-- Pinnacle Deluxe v2
-- Dracarys Distortion
-- cataPulp
-- Hot Wired
-- Low Blow Bass Overdrive
-- Pinnacle Standard
-- Plextortion
-- SLOstortion
-- Sovereign Distortion
-- Triple Wreck
+- Iron Horse LM308 Distortion
+- Eras Five-State Distortion
+- Melee: Wall of Noise
+- Fundamental Series Distortion
 
 Fuzz:
-- Cryptid Fuzz
-- Ratsbane
-- Velvet Fuzz
-- Fuzztration
-- Leviathan Fuzz
-- Triple Wreck
+- Silt Harmonic Fuzz
+- Eons Five-State Fuzz
+- Janus Fuzz/Tremolo with Joystick Control
+- Kangra Filter Fuzz
+- Jupiter Multi-Clip Fuzz V2
+- Fundamental Series Fuzz
+- Contraband Fuzz
 
-Category overlaps were kept explicit and conservative. Golden Jubilee, Brent Mason: ReWired, Mofetta, Pantheon Deluxe, Andy Wood: Gearbox, Plexi Drive Mini, Hot Wired, and Low Blow are Overdrive + Distortion. Ratsbane is Overdrive + Distortion + Fuzz. Triple Wreck is Distortion + Fuzz. Brad Paisley: Paisley Deluxe remains Overdrive only because its manufacturer description/manual identify two overdrive channels despite combined-category placement. Leviathan Fuzz remains Fuzz only because distortion-like control behavior is not treated as a separate manufacturer category.
+Category handling is conservative. 385 Overdrive MKII remains Overdrive despite distortion-esque high-gain behavior; Iron Horse remains Distortion despite manufacturer language about clear overdriven settings; Melee is Distortion + its non-target reverb section; Silt, Janus, Kangra, Jupiter, Eons, and Contraband remain Fuzz without category inflation from generic drive or distortion language. The original 385 and later 385 MKII are retained as distinct named identities because Walrus explicitly describes the MKII as a reworked version of the original 385. Jupiter V2 and limited/blemished editions are consolidated under the underlying Jupiter identity. Mayflower, Messner, Contraband, Melee, and other finish-specific editions are likewise consolidated.
 
-The Fearbox is consolidated under Andy Wood: Gearbox because the manufacturer presents it as a limited Halloween take on that design rather than a separate base pedal identity. Black '65 Limited Edition and Tweed '57 Limited Edition are consolidated under their underlying Overdrive identities. SuperPlex, Cranked AC, and Cranked OD remain verification leads rather than categorized core identities because the manufacturer-originated material reviewed did not provide sufficiently explicit target-category wording.
-
-Boost-only / preamp utilities, compressors, delay/reverb/echo, modulation/chorus, utilities, and non-pedal products remain outside the target dirt census. Generic gain, saturation, crunch, clipping, and distortion-like wording is not enough to create an additional category without explicit manufacturer support.
+Boost-only, compressor/EQ, delay/reverb, modulation, amp/cab simulation, switching/utility, accessories, and other non-target products remain excluded.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 063.
+Added and re-read Builder → Pedals research Block 064.
 
 Research block commit:
-`88c751222ceb2b41c2d96235e06deccbb4628e59`
+`be94091add0c73a0bae5ec90fad7dda018178e46`
 
 Research block content SHA:
-`93b979ca3eb17a7d5cc4fd5bf7456d282ce2784f`
+`TBD — verify from repository re-read`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
