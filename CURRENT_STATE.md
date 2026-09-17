@@ -25,17 +25,17 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 039.
+Research blocks stored under `research/builders/` now run through Block 040.
 
-Latest addition in Block 039:
-- Tech 21 NYC — B. Andrew Barta
+Latest addition in Block 040:
+- Way Huge Electronics — George Tripps
 
 Recent blocks:
-- Block 035: Daredevil Pedals — Johnny Wator
 - Block 036: Dr. Scientist Sounds
 - Block 037: OKKO FX — Heiko Lauenroth
 - Block 038: SolidGoldFX — Greg Djerrahian
 - Block 039: Tech 21 NYC — B. Andrew Barta
+- Block 040: Way Huge Electronics — George Tripps
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -64,12 +64,13 @@ Block 036 records Dr. Scientist Sounds dirt products using the current official 
 Block 037 records OKKO FX — Heiko Lauenroth dirt products using OKKO's current official catalog, individual official product pages, and official business/legal pages. Non-dirt products and boost-only identities remain outside the categorized census.
 Block 038 records SolidGoldFX — Greg Djerrahian dirt products using SolidGoldFX's official About page, current catalog, dirt collection, and individual official product pages. The block conservatively documents overdrive and fuzz identities and does not invent a standalone distortion category.
 Block 039 records Tech 21 NYC — B. Andrew Barta dirt products using Tech 21's official About page, archive, support material, individual product pages, and manuals. The block deliberately excludes generic SansAmp/amp-emulator products and ambiguous multi-effect platforms from the core dirt census.
+Block 040 records Way Huge Electronics — George Tripps dirt products using Way Huge/Jim Dunlop manufacturer material, official Jim Dunlop manuals, and authoritative current catalog material. Category overlaps were kept conservative and unsupported duplicate identities were removed during verification.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 039.
+Added, tightened, and re-read Builder → Pedals research Block 040.
 
 Research block commit:
-`2c8f9653b986dea998f643e800a80f3cd2f55c5e`
+`bf0d9d8d6604a1fdee689eee4533b806be4dc99b`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
