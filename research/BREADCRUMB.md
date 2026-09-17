@@ -12,8 +12,8 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Repository reset is the current source of truth.
 - Permanent project boot instructions, archive governance, and current-state tracking are active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–088 are stored under `research/builders/`.
-- Blocks 001–060 remain preserved as repository research files; Blocks 061–088 are summarized below for quick continuity.
+- Fresh research Blocks 001–089 are stored under `research/builders/`.
+- Blocks 001–060 remain preserved as repository research files; Blocks 061–089 are summarized below for quick continuity.
 - Block 061: Skreddy Pedals. Manufacturer-supported Overdrive/Fuzz census; conservative Distortion handling; non-dirt utilities and amp-emulator platforms excluded.
 - Block 062: Keeley Electronics. Current and historical Overdrive, Distortion, and Fuzz identities; explicit overlaps retained; cosmetic/B-stock/limited variants consolidated.
 - Block 063: Wampler Pedals. Manufacturer-supported Overdrive, Distortion, and Fuzz census; explicit overlaps retained; weak historical leads not promoted.
@@ -42,20 +42,21 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 086: MOOER Audio. Blues Crab, Blues Mood, Green Mile, Rumble Drive, Ultra Drive, and Greenwood Overdrive; Black Secret, Hustle Drive, Cruncher, Blade, Solo, Rage Machine, Ultra Drive MKII, Thunderball, and Eight Hands Distortion; Triangle Buff, MooerFog/Fog, Thunderball, Blue Faze, and Grey Faze Fuzz. Thunderball is the explicit Fuzz + Distortion overlap. Ultra Drive and Ultra Drive MKII remain separate named identities because the historical catalog distinguishes the original Overdrive from the later MKII Distortion. Micro Preamp models, multi-effects modules, boosts, and non-dirt products remain excluded.
 - Block 087: NUX Audio. Broad Overdrive catalog spanning current Queen of Tone, Horseman, Morning Star, Tube Man MKII, Drive Core Deluxe MKII, ’59 Bassguy, ’63 Diamond, ‘6ixty5ive OD, Steel Singer Drive, XTC OD, plus historical Ace of Tone, Drive Core, Drive Core Deluxe, BC-2, Scream Bass, OD-2, OD-3, and Mini Supa Drive. Distortion includes Fireman, Plexi Crunch, REC TO Distortion, Brownie, and historical Metal Core, Metal Core Deluxe, DS-3, HG-5, HG-6, MX-6, and Mini Distortion. Fuzz includes the historical FZ-2 Vintage Fuzz. NUX product-level categories are treated as authoritative where explicit; modeled/multi-effects and preamp identities remain excluded.
 - Block 088: Visual Sound / Truetone. Continuous builder/company lineage from Visual Sound to Truetone. Overdrive includes Jekyll & Hyde, Route 66 American Overdrive, Open Road, VS-XO, Route 808, Double Trouble, Drivetrain / GarageTone Drivetrain, Custom Shop Overdrive, and Route 66; Distortion includes Jekyll & Hyde, Son of Hyde, GarageTone Chainsaw Distortion, and Vans Warped Distortion; Fuzz includes Angry Fuzz. Jekyll & Hyde is the explicit Overdrive + Distortion overlap. Route 66 compression is excluded; Double Trouble and VS-XO remain Overdrive-only; Visual Blues and Visual Metal remain unpromoted historical leads due insufficient category evidence.
+- Block 089: Danelectro. Broad historical and current dirt catalog. Overdrive includes The Breakdown, Daddy O, Cool Cat Drive, Cool Cat Transparent Overdrive, FAB Overdrive, Pastrami Overdrive, Blue Paisley PureDrive, Wasabi Overdrive, Cash Cow Overdrive, and Pride of Texas Overdrive. Distortion includes Roebuck, Nichols 1966, Cool Cat Distortion, Cool Cat Metal, Cool Cat Metal II, FAB Distortion, FAB Metal, Fab Tone / FAB Tone Distortion, T-Bone Distortion, Grilled Cheese Distortion, Black Coffee Metal Distortion, French Toast Octave Distortion, Wasabi Distortion, and Black Paisley Liquid Metal. Fuzz includes Eisenhower Fuzz, 3699 fUZZ, Nichols 1966, Cool Cat Fuzz, FAB Fuzz, and French Toast. Nichols 1966 is the explicit Distortion + Fuzz hybrid case; French Toast is Fuzz + Distortion. Cool Cat V2 revisions are consolidated; non-dirt and boost-only products remain excluded.
 
-## Block 088 details
-Visual Sound / Truetone is treated as an unrepresented builder/company lineage in the active census. Truetone's own history states that Visual Sound became Truetone in 2015. Official archive pages and manuals support Jekyll & Hyde, Route 66, Open Road, VS-XO, Son of Hyde, Angry Fuzz, GarageTone Drivetrain, Route 808, Double Trouble, Vans Warped Distortion, and GarageTone Chainsaw. The builder's documented product-level taxonomy supports the target categories used in the block. V1/V2/V3 revisions are consolidated where they remain the same named product family. Visual Blues and Visual Metal are not promoted because the reviewed primary material does not establish their target category strongly enough.
+## Block 089 details
+Danelectro is treated as an unrepresented builder/brand identity in the active census. Danelectro's current product pages support Nichols 1966, The Breakdown, Eisenhower Fuzz, 3699 fUZZ, and Roebuck, while authoritative historical catalog coverage supports the Cool Cat, FAB, mini “food,” Paisley, Wasabi, and related stompbox families. The taxonomy was tightened during review so The Breakdown remains Overdrive only and Roebuck remains Distortion only. Nichols 1966 remains Distortion + Fuzz because Danelectro explicitly describes it as a fuzz/distortion hybrid. French Toast remains Fuzz + Distortion because authoritative catalog coverage identifies it as an octave-fuzz/octave-distortion product. Variant revisions are consolidated unless they represent distinct named products.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`d3c250fe9de57f275f39ec867dffe1fb42347eb6`
+`2a0f79372a8377154a528d7e65134afdfc193ae7`
 
 ## Last checkpoint files
-- `CURRENT_STATE.md` updated in commit `7822ed25457d95934ba4939f134814ebd3eae621`
-- `research/builders/BLOCK-2026-09-17-088.md` content SHA: `61ea34ab05579e54ae65b5a7d772403880bae2c5`
-- `CURRENT_STATE.md` content SHA: `08d0e46e07ed32a936aa6f4407185e0f6841191e`
+- `CURRENT_STATE.md` updated in commit `b786b424ce65feb73dd9a9cf8bd5ebe9b17dfc09`
+- `research/builders/BLOCK-2026-09-17-089.md` content SHA: `fd94bab6bbb95ab4a6b547556333bdbbdb858d55`
+- `CURRENT_STATE.md` content SHA: `eb5d43be1db220cf8f7e5aed47dbcc255dea14a5`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
