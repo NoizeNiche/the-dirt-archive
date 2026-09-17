@@ -25,10 +25,10 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 073**.
+Research blocks stored under `research/builders/` now run through **Block 074**.
 
 Latest addition:
-- Block 073: DigiTech
+- Block 074: Ramble FX
 
 Recent blocks:
 - Block 064: Walrus Audio
@@ -41,43 +41,37 @@ Recent blocks:
 - Block 071: Maxon / Nisshin Onpa
 - Block 072: DOD Electronics / DOD
 - Block 073: DigiTech
+- Block 074: Ramble FX
 
-Blocks 001–072 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–073 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 073 summary
-DigiTech is treated as a separate builder/brand from DOD and HardWire according to the manufacturer's own brand presentation. The current DigiTech site maintains manuals and legacy product records, while current shop material does not surface a current DigiTech-branded standalone dirt pedal comparable to the DOD products.
+### Block 074 summary
+Ramble FX is treated as a distinct historical builder identity with a compact dirt catalog. Surviving product references support three core dirt products: Kismet, Marvel Drive, and Twin Bender.
 
 Overdrive:
-- Screamin' Blues Overdrive / Distortion
-- Redline Modified Overdrive
-- X-Series Tone Driver
-- X-Series Bass Driver
+- Kismet
+- Marvel Drive
 
 Distortion:
-- Screamin' Blues Overdrive / Distortion
-- X-Series Bass Driver
-- Hot Head Distortion
-- DigiTech Grunge
-- DigiTech Death Metal
-- X-Series Distortion Factory DF-7
-- X-Series Hot Rod Distortion
-- X-Series Metal Master
+- Kismet
 
 Fuzz:
-- none explicitly categorized as a DigiTech-branded standalone fuzz pedal in the reviewed material
+- Twin Bender
 
-The main overlaps are Screamin' Blues as Overdrive + Distortion and X-Series Bass Driver as Overdrive + Distortion. Redline Modified Overdrive and Tone Driver remain Overdrive only. Hot Head, DigiTech Grunge, DigiTech Death Metal, DF-7, Hot Rod, and Metal Master remain Distortion only. Multi-effects models and the DOD/Morley Wah-ocTo-Fuzz collaboration are not promoted into the DigiTech builder record.
+Kismet is recorded as Overdrive + Distortion because product references explicitly identify it as an analog Overdrive/Distortion design with a broad gain range. Marvel Drive is recorded as Overdrive only because surviving product-category references consistently present it as a Plexi-style overdrive/drive product; aggressive gain is not treated as a separate Distortion identity. Twin Bender is recorded as Fuzz only because its surviving manual/product references explicitly identify the Tone Bender-based fuzz architecture.
 
-DigiTech-branded Grunge is kept distinct from the DOD Grunge identity already recorded in Block 072. HardWire products are also kept outside DigiTech because the manufacturer presents HardWire as a separate product brand. Cosmetic and minor hardware variations are consolidated unless the manufacturer assigns a distinct functional model name.
+Marvel Drive V1/V2/V3 are consolidated under one functional product identity, with Marvel Drive 3 retained as the named later model. Twin Bender MK I.V / II / V3 variants are consolidated under Twin Bender. Kismet presets and MIDI control remain secondary control features rather than new dirt identities.
+
+An ambiguous “Rainier” listing was deliberately excluded because the reviewed references did not provide sufficiently strong Ramble FX product-level evidence to establish the model identity. Ramble FX is treated as historical/discontinued, but its dirt products remain in scope because the archive includes historical builders.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 073.
+Added and re-read Builder → Pedals research Block 074.
 
 Research block commit:
-`f6ca8767c9a0c2e4b4fe40c50afd2231086e04b1`
+`9e058503392c86761c68e47f6a1fa94d891504ce`
 
 Research block content SHA:
-`6948398258677b3cd4c5418d2a48c40760ce6d53`
+`fa2f0b0a414cccacdedf19adb2bbf436517bc575`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
