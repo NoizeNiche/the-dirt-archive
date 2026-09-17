@@ -5,12 +5,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **159 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **193 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **144 block files** are currently present: Blocks 001-069, 071-141, and 143-146.
+- **179 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **213 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **145 block files** are currently present: Blocks 001-069, 071-141, and 143-147.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 159 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 179 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -183,6 +183,26 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 157 | All-Pedal | 146 |  |
 | 158 | AMT Electronics | 146 |  |
 | 159 | Ampeg | 146 |  |
+| 160 | Amplified Nation | 147 |  |
+| 161 | AmpMojo | 147 |  |
+| 162 | Amsterdam Cream | 147 |  |
+| 163 | AMtech Handwired | 147 |  |
+| 164 | amukaT | 147 | amukaT Gadgets |
+| 165 | Amzel Electronics | 147 |  |
+| 166 | Anarchy Audio Australia | 147 |  |
+| 167 | Anode Effects | 147 |  |
+| 168 | Analog Fox | 147 |  |
+| 169 | Analog King | 147 |  |
+| 170 | Analog Music Company | 147 | Analog Music Co. / AMCO |
+| 171 | Analog Noir | 147 |  |
+| 172 | Analog Sound | 147 |  |
+| 173 | Artisanal Effects | 147 |  |
+| 174 | ARC Effects | 147 |  |
+| 175 | Arcane Analog | 147 |  |
+| 176 | Ashdown Engineering | 147 |  |
+| 177 | Asheville Guitar Pedals | 147 |  |
+| 178 | Astral ToneWorx | 147 |  |
+| 179 | Atlas Pedal | 147 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
@@ -217,4 +237,4 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Immediate next-work rule
 
-Do not use a new builder number merely because a new research block is created. Before adding a builder, cross-reference the canonical list above. Existing builders get missing pedal records added to their existing canonical identity. New builders receive the next unused canonical builder number.
+Do not use a new builder number merely because a new research block is created. Before adding a builder, cross-reference the canonical builder list above. Existing builders get missing pedal records added to their existing canonical identity. New builders receive the next unused canonical builder number.
