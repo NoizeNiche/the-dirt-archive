@@ -32,11 +32,14 @@ The following builders are being prioritized because current first-party pages o
 | Black Arts Toneworks | high | BAT; Priestess; Raw Heart OD; Skyboost; Fnord; Black Forest; Black Shadow; Black Sheep; Coven; Crown Of Horns; Destroyer; LSTR; Oath; Pharaoh; Pharaoh Supreme; Quantum Mystic; Revelation; Ritual; Sarcophagus; Witch Burner | https://www.blackartstoneworks.com/pedal/ |
 | ZVEX Effects | high | Fuzz Factory; Fuzz Factory Vexter; Fuzz Factory 7 USA Vexter; Fuzz Probe Vexter | https://www.zvex.com/guitar-pedals |
 | Analog Man | high | King Of Tone; Prince Of Tone; Astro Tone | https://www.analogman.com/ |
+| Walrus Audio | high | Voyager Preamp/Overdrive; Warhorn; 385 Overdrive; Iron Horse; Jupiter Fuzz; Eons Five-State Fuzz; Eras Five-State Distortion; Ages Five-State Overdrive; Silt Harmonic Fuzz; Janus Fuzz/Tremolo; Fundamental Fuzz | https://www.walrusaudio.com/collections/overdrive-fuzz-distortion |
+| Spaceman Effects | high | Titan II; Apollo VIIb; Saturn V; Saturn VI | https://spacemaneffects.com/ |
+| PastFX | high | Punkifriar PX76 Overdrive/Distortion/Fuzz | https://www.pastfx.com/ |
 
 ## Current Web Verification Notes
 
 ### EarthQuaker Devices
-The current official Devices page exposes a substantial dirt catalog including Hoof, Hoof Reaper, Erupter, Park Fuzz, Hizumitas, Chelsea, Special Cranker, Acapulco Gold, Plumes, Zoar, Sunn O))) Life Pedal, Sunn O))) HalfLife, Blumes, Gary and Barrows. The official site also identifies EarthQuaker as an Akron, Ohio builder and documents its current product categories. Source: https://www.earthquakerdevices.com/devices
+The current official Devices page exposes a substantial dirt catalog including Hoof, Hoof Reaper, Erupter, Park Fuzz, Hizumitas, Chelsea, Special Cranker, Acapulco Gold, Plumes, Zoar, Sunn O))) Life Pedal, Sunn O))) HalfLife, Blumes, Gary and Barrows. The official site identifies EarthQuaker as an Akron, Ohio builder. Sources: https://www.earthquakerdevices.com/devices and https://www.earthquakerdevices.com/about
 
 ### Wren and Cuff
 The official current products page exposes numerous fuzz, distortion, and drive products, including multiple versions of Caprid, Eye See '78, Garbage Face, Pickle Pie, Russian-derived products, Your Face variants, Ace Octave Fuzz, and others. Source: https://www.wrenandcuff.com/products
@@ -45,7 +48,7 @@ The official current products page exposes numerous fuzz, distortion, and drive 
 Current official pages confirm Fuzz War, Bass War, Apocalypse, Absolute Destruction, Supersonic Fuzz Gun, and Germanium Filter as dirt-oriented products. Sources: https://deathbyaudio.com/collections/fuzz and individual product pages.
 
 ### Basic Audio
-The current official store identifies Basic Audio as a one-person shop and displays a large catalog including multiple fuzz and overdrive products. Source: https://www.basicaudio.net/
+The current official store identifies Basic Audio as a one-person shop and displays a large catalog including multiple fuzz and overdrive products. Sources: https://www.basicaudio.net/ and product pages.
 
 ### Fuzzrocious
 The current official product page currently lists multiple dirt products including Grey Stache, Heliotropic, 420 Fuzz v2, Cat King, Dark Driving v3, M.O.T.H., and others. Source: https://fuzzrociouspedals.com/?product_cat=current
@@ -58,6 +61,15 @@ The official site identifies ZVEX as a maker of guitar and bass effects since 19
 
 ### Analog Man
 Current first-party pages confirm King Of Tone and Prince Of Tone as overdrive products and Astro Tone as a fuzz product. Sources: https://analogman.com/kingtone.htm and https://www.analogman.com/astrotone.htm
+
+### Walrus Audio
+The current official dirt collection lists multiple overdrive, distortion, and fuzz products, including Voyager, 385, Iron Horse, Eons, Eras, Ages, Silt, and Janus. The site's comparison article also groups Voyager, Warhorn, 385, Iron Horse, and Jupiter as dirt/drive products. Sources: https://www.walrusaudio.com/collections/overdrive-fuzz-distortion and https://www.walrusaudio.com/blogs/news/dirt-drive-distortion-comparison
+
+### Spaceman Effects
+Current first-party pages confirm Titan II as a fuzz/distortion/overdrive pedal, Apollo VIIb as a preamp/overdrive, and Saturn V/VI as harmonic-boost/overdrive devices. Source: https://spacemaneffects.com/
+
+### PastFX
+The official current shop documents the Punkifriar PX76 as an overdrive/distortion/fuzz pedal based on the discontinued DOD FX76 Punkifier. Source: https://www.pastfx.com/index.php/effects/analog-delays/13-shop?start=20
 
 ## Existing Historical Discovery Pool
 
