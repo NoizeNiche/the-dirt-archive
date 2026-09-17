@@ -25,26 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 122**.
+Research blocks stored under `research/builders/` now run through **Block 123**.
 
 Latest addition:
-- Block 122: Crazy Tube Circuits
+- Block 123: Beetronics FX
 
 Recent blocks:
-- Block 117: JHS Pedals
 - Block 118: Analog Man
 - Block 119: Benson Amps
 - Block 120: Greer Amps
 - Block 121: Suhr
 - Block 122: Crazy Tube Circuits
+- Block 123: Beetronics FX
 
-Blocks 001–121 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
-
-### Block 116 summary
-Catalinbread Effects spans all three target categories. SFT and Crooner Preamp are explicit Overdrive + Distortion + Fuzz overlaps; Katzenkönig is Distortion + Fuzz. Boost-first and multi-effects products stay outside the dirt census.
-
-### Block 117 summary
-JHS Pedals has a very broad dirt catalog spanning Overdrive, Distortion, and Fuzz. Key explicit multi-category products include Kilt V2/Kilt 10, 424 Gain Stage, PackRat, Colour Box, and historical All American Distortion. Ordinary high-gain operating ranges are not promoted into extra categories without explicit product-level support.
+Blocks 001–122 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 118 summary
 Analog Man spans all three target categories. King Of Tone and Prince Of Tone are Overdrive + Distortion through explicit modes; Sun Face, Astro Tone, Peppermint Fuzz, and Sun Lion are recorded as fuzz identities. Third-party modifications and boost-first products remain outside the builder/product census.
@@ -182,32 +176,48 @@ Fuzz:
 - Starlight — historical/discontinued
 - Triptychon
 
-Key overlaps:
-- Space Charged V2 = Overdrive + Distortion.
-- Ziggy V2 = Overdrive + Distortion.
-- Motherload = Overdrive + Distortion + Fuzz.
-- Venus = Overdrive + Distortion; the archive does not promote its "within the realm of fuzz" description into a separate Fuzz identity.
-- Starlight = Overdrive + Distortion + Fuzz; the builder/designer explicitly describes its gain progression through all three.
-- Limelight = Distortion + Fuzz.
+Key overlaps: Space Charged V2 = Overdrive + Distortion; Ziggy V2 = Overdrive + Distortion; Motherload = Overdrive + Distortion + Fuzz; Venus = Overdrive + Distortion; Starlight = Overdrive + Distortion + Fuzz; Limelight = Distortion + Fuzz.
 
-Key restraint:
-- Orama's amp-style drive section is not promoted to Overdrive because Crazy Tube Circuits explicitly distinguishes it from a typical overdrive; the dedicated fuzz section is retained as Fuzz.
-- Triptychon is retained as Fuzz while its separate drive section is not promoted to Overdrive because the builder explicitly says that section is not a typical overdrive.
-- Constellation OC41, OC45, and CV7003 editions are consolidated as one Constellation fuzz lineage.
-- Unobtanium and Unobtanium RAW remain named lineage products; ordinary revisions and cosmetic variants are not multiplied.
-- Killer V, Memphis, Cyclone, TI:ME, Sidekick, White Whale, Mirage, Splash, Super Conductor, and other modulation/time-based/boost-first products remain outside the dirt census.
-- No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+Key restraint: Orama's amp-style drive section is not promoted to Overdrive because the builder distinguishes it from a typical overdrive; Triptychon likewise keeps its separate drive section outside the Overdrive label. Constellation editions are consolidated. Motherload remains one two-circuit product. Routine versions, cosmetics, and boost-only products remain outside separate dirt identities. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+
+### Block 123 summary
+Beetronics FX is a previously uncovered builder with a clearly documented Overdrive + Fuzz catalog.
+
+Overdrive:
+- Fatbee
+- Overhive
+- Wannabee / Beelateral Buzz
+- Royal Jelly
+- Nectar Tone Sweetener
+
+Distortion:
+- None established in this block
+
+Fuzz:
+- Octahive V2
+- Abelha Tropical Fuzz
+- Vezzpa Octave Stinger
+- Swarm Fuzz Harmonizer
+- Royal Jelly
+- Nectar Tone Sweetener
+- Tuna Fuzz
+
+Key overlaps:
+- Royal Jelly = Overdrive + Fuzz; Beetronics explicitly describes it as a blend of overdrive and fuzz.
+- Nectar Tone Sweetener = Overdrive + Fuzz; Beetronics explicitly provides smooth overdrive and saturated fuzz modes.
+
+Key restraint: Beetronics generic mentions of distortion are not enough to establish a separate Distortion category. Octahive V2, Vezzpa, Swarm, and Abelha remain Fuzz despite octave/harmonizer modes. Wannabee remains Overdrive only. Limited editions, custom-shop units, artwork, and enclosure variants are consolidated rather than multiplied. Tuna Fuzz remains one fuzz identity despite its unusual can enclosure. Modulation/time-based and boost-first products remain outside scope. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
 ## Last completed research action
-Added and saved Builder → Pedals research Block 122: Crazy Tube Circuits.
+Added and saved Builder → Pedals research Block 123: Beetronics FX.
 
 Research block commit:
-`bf1bf044652c466ccefda039c30d0d4c4bbe9fdb`
+`2563cd194568648a5fb8c594fc464dd376a6e842`
 
 ## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-122.md` saved
-- `CURRENT_STATE.md` updated through Block 122
-- `research/BREADCRUMB.md` updated through Block 122
+- `research/builders/BLOCK-2026-09-17-123.md` saved
+- `CURRENT_STATE.md` updated through Block 123
+- `research/BREADCRUMB.md` updated through Block 123
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
