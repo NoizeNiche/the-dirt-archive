@@ -25,20 +25,7 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks added:
-- `research/builders/BLOCK-2026-09-16-001.md`
-- `research/builders/BLOCK-2026-09-16-002.md`
-- `research/builders/BLOCK-2026-09-16-003.md`
-- `research/builders/BLOCK-2026-09-16-004.md`
-- `research/builders/BLOCK-2026-09-16-005.md`
-- `research/builders/BLOCK-2026-09-16-006.md`
-- `research/builders/BLOCK-2026-09-16-007.md`
-- `research/builders/BLOCK-2026-09-16-008.md`
-- `research/builders/BLOCK-2026-09-16-009.md`
-- `research/builders/BLOCK-2026-09-16-010.md`
-- `research/builders/BLOCK-2026-09-16-011.md`
-- `research/builders/BLOCK-2026-09-16-012.md`
-- `research/builders/BLOCK-2026-09-16-013.md`
+Research blocks stored under `research/builders/` now run through Block 014.
 
 Builders covered so far:
 - Fulltone
@@ -62,29 +49,21 @@ Builders covered so far:
 - Death By Audio
 - Lovepedal / Sean Michael
 - Electro-Harmonix
+- Greer Amps
+- Benson Amps
+- ThorpyFX
 
-Block 001 records Fulltone, MXR, Maxon, and DOD.
-Block 002 records EarthQuaker Devices and Wampler Pedals.
-Block 003 records JHS Pedals and Walrus Audio.
-Block 004 records Catalinbread Effects and Xotic Effects / Xotic California.
-Block 005 records Ibanez and ZVEX Effects.
-Block 006 records Analog Man dirt products from the manufacturer's official pages and manuals.
-Block 007 records BOSS current and historical dirt products from official BOSS/Roland catalogs, manuals, and historical catalog material.
-Block 008 records ProCo Sound and Keeley Electronics dirt products, with product names checked against manufacturer or authoritative catalog material.
-Block 009 records Friedman Amplification and Pigtronix dirt products, with product names checked against current manufacturer catalogs and product documentation.
-Block 010 records Death By Audio and Lovepedal / Sean Michael dirt products, with product names checked against manufacturer or authoritative product documentation.
-Block 011 tightens Friedman Amplification and Pigtronix coverage, including historical Friedman dirt identities and explicit Pigtronix classifications.
-Block 012 consolidates ProCo Sound and Catalinbread Effects identities encountered in the fresh census.
-Block 013 records Electro-Harmonix current and historical overdrive, distortion, and fuzz identities using EHX catalog, support, search, and dealer-catalog material.
+Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
+Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
 
 ## Last completed research action
-Added Builder → Pedals research Block 013 for Electro-Harmonix.
+Added and re-read Builder → Pedals research Block 014.
 
 Research block commit:
-`a31b1ee69765d7e361400dd166021f6ba0a31c33`
+`f5330492761cae7e74d6b8462de0ecd7af72d134`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
 
 ## Must not touch
-Do not revive the discarded historical research corpus or expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website architecture.
+Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website architecture.
