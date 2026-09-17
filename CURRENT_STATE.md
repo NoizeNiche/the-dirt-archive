@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 078**.
+Research blocks stored under `research/builders/` now run through **Block 079**.
 
 Latest addition:
-- Block 078: MESA/Boogie
+- Block 079: TC Electronic
 
 Recent blocks:
-- Block 068: Foxgear
 - Block 069: Lovepedal
 - Block 070: Xotic Effects / Xotic California
 - Block 071: Maxon / Nisshin Onpa
@@ -42,45 +41,53 @@ Recent blocks:
 - Block 076: Blackstar Amplification
 - Block 077: Bogner Amplification
 - Block 078: MESA/Boogie
+- Block 079: TC Electronic
 
-Blocks 001–077 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–078 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 078 summary
-MESA/Boogie is treated as an unrepresented builder identity with nine clearly documented core dirt products: Cleo, DynaPlex, Gold Mine, Grid Slammer, Flux-Drive, Flux-Five, Throttle Box, Throttle Box EQ, and Tone-Burst.
+### Block 079 summary
+TC Electronic is treated as an unrepresented builder identity with a broad documented dirt catalog spanning current/recent products and historical designs.
 
 Overdrive:
-- Cleo
-- DynaPlex
-- Gold Mine
-- Grid Slammer
-- Flux-Drive
-- Flux-Five
-- Throttle Box
-- Throttle Box EQ
-- Tone-Burst
+- MojoMojo Overdrive
+- MojoMojo Paul Gilbert Signature Overdrive
+- Zeus Drive
+- El Cambo Overdrive
+- Cinders Overdrive
+- Tube Pilot Overdrive
+- Vintage Overdrive
+- VPD1 Vintage Pre-Drive
+- Nova Drive
 
 Distortion:
-- Flux-Drive
-- Throttle Box
-- Throttle Box EQ
+- Dark Matter Distortion
+- Eyemaster Metal Distortion
+- Grand Magus Distortion
+- Magus Pro
+- Fangs Metal Distortion
+- Röttweiler Distortion
+- Vintage Distortion
+- Vintage Dual Distortion
+- Nova Drive
 
 Fuzz:
-- none identified in reviewed manufacturer material
+- Honey Pot Fuzz
+- Rusty Fuzz
 
-Cleo, DynaPlex, Gold Mine, and Grid Slammer are explicitly documented as overdrive products. Flux-Drive is explicitly presented by MESA as an Overdrive/Distortion pedal and therefore receives both categories. Flux-Five is explicitly described as an overdrive version of the Flux-Drive platform. Throttle Box is explicitly identified as a high-gain distortion pedal while MESA also describes its lower-gain platform with overdrive language, so it receives both categories. Throttle Box EQ explicitly describes stinging overdrive while extending the Throttle Box gain platform; authoritative product coverage identifies it as distortion, so both categories are retained. Tone-Burst is explicitly described by MESA as Boost/Overdrive and is therefore included under Overdrive.
+Nova Drive is recorded as Overdrive + Distortion because TC Electronic's manufacturer-authored manual documents separate overdrive and distortion sections and TC introduced it as an overdrive/distortion pedal. The Vintage Overdrive, Vintage Distortion, and Vintage Dual Distortion products are retained as distinct historical identities because the manufacturer-authored Vintage Pedals manual names them separately. VPD1 is retained separately as a vintage pre-drive with an explicit overdrive drive section.
 
-Flux-Five and Throttle Box EQ remain separate named products because MESA presents them as expanded platforms with additional EQ and switching features. Tone-Burst remains an Overdrive identity despite appearing in the Boost Pedals section. Cosmetic finishes, production revisions, and presentation variants are consolidated.
+Honey Pot Fuzz and Rusty Fuzz remain Fuzz only. Their broad gain ranges and overdrive/distortion-like sounds are treated as operating range rather than additional target identities. Grand Magus, Fangs, Röttweiler, Dark Matter, Eyemaster, and Magus Pro remain Distortion identities from explicit product/category naming.
 
-No standalone MESA/Boogie Fuzz identity was established in the reviewed manufacturer catalog, product pages, and manuals.
+MojoMojo Paul Gilbert Signature remains separate from standard MojoMojo because it is a distinct named signature product. Cosmetic editions, TonePrint variations, presentation variants, and stock status do not create additional functional dirt identities. Boost-only and utility products remain excluded.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 078.
+Added and re-read Builder → Pedals research Block 079.
 
 Research block commit:
-`a782762f96a13cf5e26e8d55825a53018cee6aaa`
+`a595837bd5e86ba425b030896b97f2cf87051544`
 
 Research block content SHA:
-`af7df7058fe8ea9b71168659366ff1d67d29e62c`
+`283505d9a6c44f9facef697f8170bfa80f9736a1`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
