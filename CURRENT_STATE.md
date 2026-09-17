@@ -35,6 +35,7 @@ Research blocks added:
 - `research/builders/BLOCK-2026-09-16-007.md`
 - `research/builders/BLOCK-2026-09-16-008.md`
 - `research/builders/BLOCK-2026-09-16-009.md`
+- `research/builders/BLOCK-2026-09-16-010.md`
 
 Builders covered so far:
 - Fulltone
@@ -55,6 +56,8 @@ Builders covered so far:
 - Keeley Electronics
 - Friedman Amplification
 - Pigtronix
+- Death By Audio
+- Lovepedal / Sean Michael
 
 Block 001 records Fulltone, MXR, Maxon, and DOD.
 Block 002 records EarthQuaker Devices and Wampler Pedals.
@@ -65,12 +68,13 @@ Block 006 records Analog Man dirt products from the manufacturer's official page
 Block 007 records BOSS current and historical dirt products from official BOSS/Roland catalogs, manuals, and historical catalog material.
 Block 008 records ProCo Sound and Keeley Electronics dirt products, with product names checked against manufacturer or authoritative catalog material.
 Block 009 records Friedman Amplification and Pigtronix dirt products, with product names checked against current manufacturer catalogs and product documentation.
+Block 010 records Death By Audio and Lovepedal / Sean Michael dirt products, with product names checked against manufacturer or authoritative product documentation.
 
 ## Last completed research action
-Added Builder → Pedals research Block 009.
+Added Builder → Pedals research Block 010.
 
 Research block commit:
-`f8277a713ca6d55d8ade9da514ec65eb1f4e747d`
+`ae310d2ccf999f562f89b0a32e4b9813ecdf76a4`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
