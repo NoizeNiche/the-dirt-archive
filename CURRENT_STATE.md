@@ -25,18 +25,19 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 030.
+Research blocks stored under `research/builders/` now run through Block 031.
 
-Latest addition in Block 030:
-- Source Audio
+Latest additions in Block 031:
+- Lichtlaerm Audio
+- Does It Doom?
 
-Previous recent blocks:
-- Block 025: Suhr, Jackson Audio
+Recent blocks:
 - Block 026: JAM Pedals, Mad Professor Amplification
 - Block 027: KHDK Electronics, Stone Deaf FX
 - Block 028: Vemuram
 - Block 029: Origin Effects, Vertex Effects
 - Block 030: Source Audio
+- Block 031: Lichtlaerm Audio, Does It Doom?
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -56,12 +57,13 @@ Block 027 records KHDK Electronics and Stone Deaf FX dirt products using current
 Block 028 records Vemuram dirt products using Vemuram's official site plus current/authoritative distributor catalog material because the official product index is dynamically rendered.
 Block 029 records Origin Effects and Vertex Effects dirt products using current manufacturer catalogs and official product pages/documentation, with official discontinued-product material used for legacy identities.
 Block 030 records Source Audio dirt products using the current manufacturer catalog and official product documentation.
+Block 031 records Lichtlaerm Audio and Does It Doom? dirt products using current manufacturer catalogs and official product pages, with uncertain Does It Doom? classifications deliberately left in a verification queue rather than forced into categories.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 030.
+Added and re-read Builder → Pedals research Block 031.
 
 Research block commit:
-`1a02b78431575029e7d13539b6e004f4277c55cc`
+`475e385ebbf0d07bec7bd69cb7a435188982292c`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
