@@ -31,6 +31,7 @@ Research blocks added:
 - `research/builders/BLOCK-2026-09-16-003.md`
 - `research/builders/BLOCK-2026-09-16-004.md`
 - `research/builders/BLOCK-2026-09-16-005.md`
+- `research/builders/BLOCK-2026-09-16-006.md`
 
 Builders covered so far:
 - Fulltone
@@ -45,18 +46,20 @@ Builders covered so far:
 - Xotic Effects / Xotic California
 - Ibanez
 - ZVEX Effects
+- Analog Man
 
-Block 001 records relevant overdrive, distortion, and fuzz products for Fulltone, MXR, Maxon, and DOD.
-Block 002 records relevant overdrive, distortion, and fuzz products for EarthQuaker Devices and Wampler Pedals.
-Block 003 records relevant overdrive, distortion, and fuzz products for JHS Pedals and Walrus Audio.
-Block 004 records relevant overdrive, distortion, and fuzz products for Catalinbread Effects and Xotic Effects / Xotic California.
-Block 005 records relevant dirt products for Ibanez and ZVEX Effects, using official current catalogs and consolidating obvious presentation variants where appropriate.
+Block 001 records Fulltone, MXR, Maxon, and DOD.
+Block 002 records EarthQuaker Devices and Wampler Pedals.
+Block 003 records JHS Pedals and Walrus Audio.
+Block 004 records Catalinbread Effects and Xotic Effects / Xotic California.
+Block 005 records Ibanez and ZVEX Effects.
+Block 006 records Analog Man dirt products from the manufacturer's official pages and manuals.
 
 ## Last completed research action
-Added and committed Builder → Pedals research Block 005.
+Added and committed Builder → Pedals research Block 006.
 
 Research block commit:
-`3a328441fcc2565c04b0e7325576650483294bfc`
+`e4d7c21d3a960bc502aa2857fe840ee1f4d55af1`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
