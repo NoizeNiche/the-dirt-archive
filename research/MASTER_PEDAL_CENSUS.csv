@@ -12,16 +12,12 @@ Amptweaker,Big Rock Pro,Distortion
 Amptweaker,Big Rock Pro,Overdrive
 Amptweaker,Big Rock Pro II,Distortion
 Amptweaker,Big Rock Pro II,Overdrive
-Amptweaker,BigRock Pro / BigRock Pro II,Distortion
-Amptweaker,BigRock Pro / BigRock Pro II,Overdrive
 Amptweaker,BluesFuzz,Fuzz
-Amptweaker,BluesFuzz / BluesFuzz Limited / BluesFuzz Jr / Bass BluesFuzz Jr,Fuzz
 Amptweaker,BluesFuzz Jr,Fuzz
 Amptweaker,Fat Metal,Distortion
 Amptweaker,Fat Metal Pro,Distortion
 Amptweaker,Fat Metal Pro II,Distortion
 Amptweaker,Fat Rock,Distortion
-Amptweaker,FatMetal / FatMetal Pro / FatMetal Pro II,Distortion
 Amptweaker,FatRock Distortion,Distortion
 Amptweaker,Tight Drive,Overdrive
 Amptweaker,Tight Drive Jr,Overdrive
@@ -35,14 +31,9 @@ Amptweaker,Tight Rock,Overdrive
 Amptweaker,Tight Rock Jr,Distortion
 Amptweaker,Tight Rock Jr,Overdrive
 Amptweaker,TightBoost,Overdrive
-Amptweaker,TightDrive / TightDrive Pro / TightDrive Jr / Bass TightDrive / Bass TightDrive Jr,Overdrive
 Amptweaker,TightFuzz,Fuzz
 Amptweaker,TightFuzz Jr,Fuzz
 Amptweaker,TightFuzz Pro,Fuzz
-Amptweaker,TightFuzz / TightFuzz Pro / TightFuzz Jr / Bass TightFuzz / Bass TightFuzz Jr / Tim Lefebvre Signature TightFuzz,Fuzz
-Amptweaker,TightMetal Pro / TightMetal Pro II,Distortion
-Amptweaker,TightMetal / TightMetal Pro / TightMetal Pro II / TightMetal Jr / Bass TightMetal Jr / TightMetal ST / limited TightMetal editions,Distortion
-Amptweaker,TightRock / TightRock Jr / Performance Series Tight Rock,Distortion
 Analog Alien,Alien Bass Station,Distortion
 Analog Alien,Alien Bass Station,Fuzz
 Analog Alien,Alien Bass Station,Overdrive
@@ -58,7 +49,6 @@ Analog Alien,FuzzBubble-45,Overdrive
 Analog Alien,Joe Walsh Double Classic,Overdrive
 Analog Alien,Rumble Seat,Overdrive
 Analog Man,Astro Tone,Fuzz
-Analog Man,Astro Tone Fuzz,Fuzz
 Analog Man,King Of Tone,Distortion
 Analog Man,King Of Tone,Overdrive
 Analog Man,Peppermint Fuzz,Fuzz
@@ -66,12 +56,11 @@ Analog Man,Prince Of Tone,Distortion
 Analog Man,Prince Of Tone,Overdrive
 Analog Man,Sun Face,Fuzz
 Analog Man,Sun Lion,Fuzz
-Analog Man,Sun Lion — combined Sun Face fuzz + boost pedal,Fuzz
 Animal Factory Amplification,Baron Samedi,Fuzz
 Animal Factory Amplification,Chemical Burn,Fuzz
 Animal Factory Amplification,Dirty Mirror,Fuzz
-Animal Factory Amplification,Godeater,Distortion
 Animal Factory Amplification,Godeater+,Distortion
+Animal Factory Amplification,Godeater,Distortion
 Animal Factory Amplification,Godeater,Fuzz
 Animal Factory Amplification,Ozymandias,Distortion
 Animal Factory Amplification,Ozymandias,Overdrive
@@ -91,16 +80,13 @@ Barbarossa,GARGOYLE,Distortion
 Barbarossa,GARGOYLE,Overdrive
 Barbarossa,No verified Barbarossa fuzz identity promoted in this block,Fuzz
 Barbarossa,URANUS,Overdrive
-Barbarossa,WIVERN (historical / discontinued),Overdrive
 Barber Electronics,1/2 Gainer,Overdrive
 Barber Electronics,B-Custom Cool,Overdrive
 Barber Electronics,B-Custom Dual Discrete,Overdrive
 Barber Electronics,B-Custom Super Sport,Overdrive
 Barber Electronics,Burn Unit,Distortion
 Barber Electronics,Burn Unit,Overdrive
-Barber Electronics,Burn Unit / Burn Unit 2 / Burn Unit EQ / Compact Burn Unit,Overdrive
 Barber Electronics,Burn Unit lineage,Distortion
-Barber Electronics,Compact Direct Drive / Direct Drive lineage,Overdrive
 Barber Electronics,Deep Fryer,Overdrive
 Barber Electronics,Direct Drive Compact / Direct Drive v4,Distortion
 Barber Electronics,Direct Drive Compact / Direct Drive v4,Overdrive
@@ -112,11 +98,9 @@ Barber Electronics,FWW BUSS HG,Distortion
 Barber Electronics,FWW BUSS HG,Overdrive
 Barber Electronics,FWW Plus,Distortion
 Barber Electronics,FWW Plus,Overdrive
-Barber Electronics,Gain Changer / Gain Changer SR,Overdrive
 Barber Electronics,Gain Changer lineage,Distortion
 Barber Electronics,Gain Changer SR,Distortion
 Barber Electronics,Gain Changer SR,Overdrive
-Barber Electronics,LTD / Silver LTD lineage,Overdrive
 Barber Electronics,LTD SR,Distortion
 Barber Electronics,LTD SR,Overdrive
 Barber Electronics,LTD v2,Distortion
@@ -128,11 +112,9 @@ Barber Electronics,Pepsiman,Overdrive
 Barber Electronics,Small Fry,Distortion
 Barber Electronics,Small Fry,Overdrive
 Barber Electronics,Small Fry Burn Unit,Overdrive
-Barber Electronics,Tone Pump / Tone Pump EQ / Tone Pump II,Overdrive
 Barber Electronics,Trifecta,Fuzz
 Barber Electronics,UnLimiTeD,Distortion
 Barber Electronics,UnLimiTeD,Overdrive
-Barber Electronics,unLimiTeD / unLTD 2-Channel Overdrive,Overdrive
 Basic Audio,Alter-Destiny,Fuzz
 Basic Audio,Blender,Fuzz
 Basic Audio,Bye-Bias,Fuzz
@@ -181,7 +163,6 @@ Beetronics FX,Royal Jelly,Overdrive
 Beetronics FX,Swarm Fuzz Harmonizer,Fuzz
 Beetronics FX,Tuna Fuzz,Fuzz
 Beetronics FX,Vezzpa Octave Stinger,Fuzz
-Beetronics FX,Wannabee / Beelateral Buzz,Overdrive
 Benson Amps,Deep Sea Diver Fuzz-Echo,Fuzz
 Benson Amps,Germanium Fuzz,Fuzz
 Benson Amps,Germanium Fuzz,Overdrive
@@ -237,24 +218,17 @@ BIXONIC,AXENTRIX II,Distortion
 BIXONIC,AXENTRIX II,Fuzz
 BIXONIC,EXP2000DR,Distortion
 BIXONIC,EXP2000DR,Fuzz
-BIXONIC,EXPANDORA family (EXP-2000 / EXP-2001 / EXP-2000R historical identity),Distortion
-BIXONIC,EXPANDORA family (EXP-2000 / EXP-2001 / EXP-2000R historical identity),Fuzz
-BIXONIC,EXPANDORA family (EXP-2000 / EXP-2001 / EXP-2000R historical identity),Overdrive
 BJFE / BJF Electronics,Arctic Light Fuzz,Fuzz
 BJFE / BJF Electronics,Arctic White Fuzz (AWF),Fuzz
-BJFE / BJF Electronics,Baby Blue Overdrive (BBOD),Overdrive
 BJFE / BJF Electronics,Big Purple Fuzz,Fuzz
 BJFE / BJF Electronics,BlueBerry Bass Overdrive (3BOD),Overdrive
 BJFE / BJF Electronics,Candy Apple Fuzz (CAF),Fuzz
-BJFE / BJF Electronics,Cliff Hanger,Distortion
-BJFE / BJF Electronics,Cliff Hanger II,Distortion
 BJFE / BJF Electronics,Concreto Distortion,Distortion
 BJFE / BJF Electronics,Cranberry Over Drive,Overdrive
 BJFE / BJF Electronics,Dyna Blue Distortion,Distortion
 BJFE / BJF Electronics,Dyna Red Distortion (DRD),Distortion
 BJFE / BJF Electronics,Emerald Green Distortion Machine (EGDM),Distortion
 BJFE / BJF Electronics,Folk Fuzz,Fuzz
-BJFE / BJF Electronics,Folk Fuzz 3.5%,Fuzz
 BJFE / BJF Electronics,Honey Bee Overdrive (HBOD),Overdrive
 BJFE / BJF Electronics,Lingonberry Over Drive,Overdrive
 BJFE / BJF Electronics,Little Green Wonder (LGW),Overdrive
@@ -262,14 +236,9 @@ BJFE / BJF Electronics,Mighty Blue Overdrive,Overdrive
 BJFE / BJF Electronics,Mighty Red Distortion (MRD),Distortion
 BJFE / BJF Electronics,Model R,Distortion
 BJFE / BJF Electronics,Pink Purple Fuzz (PPF),Fuzz
-BJFE / BJF Electronics,Rebel Red Distortion,Distortion
-BJFE / BJF Electronics,Saffron Yellow Overdrive (SYOD),Overdrive
 BJFE / BJF Electronics,Smokey Orange Fuzz,Fuzz
-BJFE / BJF Electronics,Snow White Fuzz,Fuzz
-BJFE / BJF Electronics,Sparkling Red Fuzz,Fuzz
 BJFE / BJF Electronics,Sparkling Yellow Overdrive (SYOD),Overdrive
 BJFE / BJF Electronics,Sparkling Yellow Overdrive Version 2 (SYOD V.2),Overdrive
-BJFE / BJF Electronics,Sun Burst Fuzz,Fuzz
 Black Arts Toneworks,BAT,Distortion
 Black Arts Toneworks,BAT,Overdrive
 Black Arts Toneworks,Black Forest,Distortion
@@ -334,7 +303,6 @@ Blackhawk Amplifiers,Triangle Fuzz,Fuzz
 Blackhawk Amplifiers,Uruk-Hai MKII {Parallel} Drive & Fuzz,Distortion
 Blackhawk Amplifiers,Uruk-Hai MKII {Parallel} Drive & Fuzz,Fuzz
 Blackhawk Amplifiers,Uruk-Hai MKII {Parallel} Drive & Fuzz,Overdrive
-Blackhawk Amplifiers,Valhalla Deluxe / Valhalla V3/V4/V5 family identity,Fuzz
 Blackhawk Amplifiers,Valhalla Fuzz,Fuzz
 Blackhawk Amplifiers,Valkyrie Drive,Overdrive
 Blackhawk Amplifiers,Windhand LBM Fuzz,Distortion
@@ -349,14 +317,10 @@ BlackOutEffectors,Fix'd Fuzz,Fuzz
 BlackOutEffectors,Fix'd Fuzz,Overdrive
 BlackOutEffectors,Fix'd Fuzz Deluxe,Fuzz
 BlackOutEffectors,Fix'd Fuzz Deluxe,Overdrive
-BlackOutEffectors,Fix'd Fuzz / Fix'd Fuzz V3,Fuzz
-BlackOutEffectors,Fix'd Fuzz / Fix'd Fuzz V3,Overdrive
 BlackOutEffectors,FUBÄR,Fuzz
-BlackOutEffectors,FUBÄR Fuzz,Fuzz
 BlackOutEffectors,Fuzz Bear,Fuzz
 BlackOutEffectors,Mantra Overdrive,Overdrive
 BlackOutEffectors,Musket Fuzz,Fuzz
-BlackOutEffectors,Musket Fuzz / Musket Fuzz V2,Fuzz
 BlackOutEffectors,None established under the archive's conservative rule,Distortion
 BlackOutEffectors,None promoted as a standalone manufacturer-supported identity in this block,Distortion
 BlackOutEffectors,Special Twosome Deluxe,Fuzz
@@ -420,11 +384,9 @@ Caroline Guitar Company,CROM,Overdrive
 Caroline Guitar Company,Hawaiian Pizza,Distortion
 Caroline Guitar Company,Hawaiian Pizza,Fuzz
 Caroline Guitar Company,Hawaiian Pizza,Overdrive
-Caroline Guitar Company,Haymaker,Overdrive
 Caroline Guitar Company,Icarus V2,Distortion
 Caroline Guitar Company,Icarus V2,Fuzz
 Caroline Guitar Company,Icarus V2,Overdrive
-Caroline Guitar Company,Icarus V2 / Icarus,Overdrive
 Caroline Guitar Company,Olympia,Distortion
 Caroline Guitar Company,Olympia,Fuzz
 Caroline Guitar Company,Olympia,Overdrive
@@ -434,13 +396,9 @@ Caroline Guitar Company,Shigeharu,Overdrive
 Caroline Guitar Company,The Blues,Distortion
 Caroline Guitar Company,The Blues,Fuzz
 Caroline Guitar Company,The Blues,Overdrive
-Caroline Guitar Company,Wave Cannon / Cannonball,Distortion
-Caroline Guitar Company,Wave Cannon / Cannonball,Fuzz
-Caroline Guitar Company,Wave Cannon / Cannonball,Overdrive
 Caroline Guitar Company,Wave Cannon MKII,Distortion
 Caroline Guitar Company,Wave Cannon MKII,Fuzz
 Caroline Guitar Company,Wave Cannon MKII,Overdrive
-Caroline Guitar Company,Wave Cannon MKII / Superdistorter,Distortion
 Caroline Guitar Company,Wave Cannon Zero,Distortion
 Caroline Guitar Company,Wave Cannon Zero,Fuzz
 Caroline Guitar Company,Wave Cannon Zero,Overdrive
@@ -464,7 +422,6 @@ Catalinbread Effects,Formula 5F6,Distortion
 Catalinbread Effects,Formula 5F6,Overdrive
 Catalinbread Effects,Formula No. 5,Distortion
 Catalinbread Effects,Formula No. 5,Overdrive
-Catalinbread Effects,Formula No. 55 / Formula 55,Overdrive
 Catalinbread Effects,Fuzzrite,Fuzz
 Catalinbread Effects,Fuzzrite Germanium,Fuzz
 Catalinbread Effects,Fuzzrite Germanium White,Fuzz
@@ -497,7 +454,6 @@ Catalinbread Effects,Naga Viper,Overdrive
 Catalinbread Effects,Octapussy,Fuzz
 Catalinbread Effects,Perseus DIO,Fuzz
 Catalinbread Effects,Perseus DIO (dry distortion section only; octave-down function excluded from census categorying),Distortion
-Catalinbread Effects,Perseus / Perseus DIO lineage,Fuzz
 Catalinbread Effects,RAH,Distortion
 Catalinbread Effects,RAH,Overdrive
 Catalinbread Effects,Sabbra Cadabra,Distortion
@@ -510,14 +466,8 @@ Catalinbread Effects,SideArm Overdrive,Overdrive
 Catalinbread Effects,Silver Kiss Overdrive,Overdrive
 Catalinbread Effects,Silver Kiss Overdrive (2007 Reissue),Overdrive
 Catalinbread Effects,StarCrash Fuzz,Fuzz
-Chase Bliss,Bliss Factory,Fuzz
-Chase Bliss,Brothers,Fuzz
-Chase Bliss,Brothers,Overdrive
 Chase Bliss,Brothers AM,Distortion
 Chase Bliss,Brothers AM,Overdrive
-Chase Bliss,Condor HiFi,Overdrive
-Chase Bliss,Preamp MKII,Fuzz
-Chase Bliss,Preamp MKII,Overdrive
 Crazy Tube Circuits,Blackface Stardust V2,Distortion
 Crazy Tube Circuits,Blackface Stardust V2,Fuzz
 Crazy Tube Circuits,Blackface Stardust V2,Overdrive
@@ -559,8 +509,8 @@ Crazy Tube Circuits,Space Charged V2,Fuzz
 Crazy Tube Circuits,Space Charged V2,Overdrive
 Crazy Tube Circuits,Stardust v3,Distortion
 Crazy Tube Circuits,Stardust v3,Fuzz
-Crazy Tube Circuits,Stardust v3,Overdrive
 Crazy Tube Circuits,Stardust V3,Overdrive
+Crazy Tube Circuits,Stardust v3,Overdrive
 Crazy Tube Circuits,Starlight,Distortion
 Crazy Tube Circuits,Starlight,Fuzz
 Crazy Tube Circuits,Starlight,Overdrive
@@ -585,8 +535,8 @@ Crazy Tube Circuits,White Whale v2,Overdrive
 Crazy Tube Circuits,Ziggy v2,Distortion
 Crazy Tube Circuits,Ziggy V2,Distortion
 Crazy Tube Circuits,Ziggy v2,Fuzz
-Crazy Tube Circuits,Ziggy V2,Overdrive
 Crazy Tube Circuits,Ziggy v2,Overdrive
+Crazy Tube Circuits,Ziggy V2,Overdrive
 Danelectro,3699 fUZZ,Fuzz
 Danelectro,Black Coffee Metal Distortion,Distortion
 Danelectro,Black Paisley Liquid Metal,Distortion
@@ -629,9 +579,7 @@ Daredevil Pedals,DRIVE-Bi,Distortion
 Daredevil Pedals,Fearless Distortion,Distortion
 Daredevil Pedals,L.S.D,Fuzz
 Daredevil Pedals,Logan Square Destroyer,Fuzz
-Daredevil Pedals,Necros Fuzz / Distortion,Distortion
 Daredevil Pedals,Northern Creeper,Fuzz
-Daredevil Pedals,NORTHERN CREEPER Fuzz,Fuzz
 Daredevil Pedals,Nova,Fuzz
 Daredevil Pedals,OP Amp Fuzz V5,Fuzz
 Daredevil Pedals,Premium Overdrive,Overdrive
@@ -680,7 +628,6 @@ Death By Audio,Octave Clang V2,Fuzz
 Death By Audio,Reverberation Machine (fuzz content not treated as a standalone category; reverb excluded),Fuzz
 Death By Audio,Sonic Incinerator,Distortion
 Death By Audio,Supersonic Fuzz Gun,Fuzz
-Death By Audio,Thee Fuzz War Overload / Fuzz Warr Overload lineage,Distortion
 Death By Audio,Thee Treble Overload,Distortion
 Death By Audio,Thee Treble Overload,Fuzz
 Death By Audio,Thee Treble Overload,Overdrive
@@ -803,7 +750,6 @@ EarthQuaker Devices,Dirt Transmitter,Fuzz
 EarthQuaker Devices,Dirt Transmitter — Fuzz Driver,Fuzz
 EarthQuaker Devices,Dirt Transmitter Legacy Reissue — consolidated with Dirt Transmitter,Fuzz
 EarthQuaker Devices,Dirt Transmitter Legacy Reissue — Fuzz Driver,Fuzz
-EarthQuaker Devices,Dream Crusher,Fuzz
 EarthQuaker Devices,Dunes,Overdrive
 EarthQuaker Devices,Dunes — Mini Mega Ultimate Overdrive,Distortion
 EarthQuaker Devices,Dunes — Mini Mega Ultimate Overdrive,Overdrive
@@ -843,10 +789,8 @@ EarthQuaker Devices,Sound Shank,Fuzz
 EarthQuaker Devices,Sound Shank — Germanium Fuzz,Fuzz
 EarthQuaker Devices,Speaker Cranker,Overdrive
 EarthQuaker Devices,Speaker Cranker — Overdrive,Distortion
-EarthQuaker Devices,Speaker Cranker — Overdrive,Overdrive
 EarthQuaker Devices,Special Cranker,Overdrive
 EarthQuaker Devices,Special Cranker — Overdrive,Distortion
-EarthQuaker Devices,Special Cranker — Overdrive,Overdrive
 EarthQuaker Devices,Spires,Fuzz
 EarthQuaker Devices,Spires — Fuzz Doubler,Fuzz
 EarthQuaker Devices,Sunn O))) HalfLife,Distortion
@@ -865,7 +809,6 @@ EarthQuaker Devices,Talons — High Gain Overdrive,Overdrive
 EarthQuaker Devices,Terminal,Fuzz
 EarthQuaker Devices,Terminal — Destructive Fuzz Device,Fuzz
 EarthQuaker Devices,Tone Reaper,Fuzz
-EarthQuaker Devices,Westwood,Overdrive
 EarthQuaker Devices,Westwood — Translucent Drive Manipulator,Distortion
 EarthQuaker Devices,Westwood — Translucent Drive Manipulator,Overdrive
 EarthQuaker Devices,White Light,Overdrive
@@ -897,7 +840,6 @@ Electro-Harmonix,Germanium 4 Big Muff Pi,Overdrive
 Electro-Harmonix,Germanium OD,Overdrive
 Electro-Harmonix,Green Russian Big Muff Pi,Fuzz
 Electro-Harmonix,Hell Melter,Distortion
-Electro-Harmonix,Hot Tubes / Hot Tubes Reissue where explicitly cataloged as a dirt product,Distortion
 Electro-Harmonix,Hot Tubes Nano,Overdrive
 Electro-Harmonix,Hot Wax Dual Overdrive,Overdrive
 Electro-Harmonix,J Mascis Ram's Head Big Muff Pi,Fuzz
@@ -926,14 +868,7 @@ Electro-Harmonix,Sovtek Deluxe Big Muff Pi,Fuzz
 Electro-Harmonix,Spruce Goose,Overdrive
 Electro-Harmonix,Triangle Big Muff Pi,Fuzz
 Electro-Harmonix,Tube Zipper,Overdrive
-Electronic Audio Experiments,0xEAE Boost,Overdrive
-Electronic Audio Experiments,0xEAE Fuzz,Fuzz
 Electronic Audio Experiments,Citadel,Overdrive
-Electronic Audio Experiments,Dagger,Overdrive
-Electronic Audio Experiments,Dude Incredible / Percolate channel,Fuzz
-Electronic Audio Experiments,Dude Incredible / Tube Voice channel,Distortion
-Electronic Audio Experiments,Dude Incredible / Tube Voice channel,Overdrive
-Electronic Audio Experiments,Eldritch Blast,Fuzz
 Electronic Audio Experiments,Glaive,Fuzz
 Electronic Audio Experiments,Greathammer,Overdrive
 Electronic Audio Experiments,Halberd,Overdrive
@@ -954,7 +889,6 @@ Empress Effects,Multidrive,Overdrive
 Fairfield Circuitry,20% More,Distortion
 Fairfield Circuitry,~900,Fuzz
 Fairfield Circuitry,Barbershop — consolidated across V1 / Millennium Edition,Overdrive
-Fairfield Circuitry,Four Eyes,Fuzz
 Fairfield Circuitry,Modèle B,Overdrive
 Fairfield Circuitry,The Unpleasant Surprise,Fuzz
 Fender,Compugilist Compressor/Distortion,Distortion
@@ -977,17 +911,12 @@ Fender,The Pelt Fuzz,Fuzz
 Fender,The Trapper Dual Fuzz,Fuzz
 Fender,Yngwie Malmsteen Overdrive Pedal,Overdrive
 Fjord Fuzz,Berserk — consolidated identity across V1/V2/V3,Fuzz
-Fjord Fuzz,Bifrost,Fuzz
 Fjord Fuzz,Bjørn,Fuzz
 Fjord Fuzz,Bufo,Fuzz
 Fjord Fuzz,Dovre,Fuzz
-Fjord Fuzz,Embla,Fuzz
-Fjord Fuzz,Embla,Overdrive
 Fjord Fuzz,Fjord-Fuzz Super-Fuzz,Fuzz
-Fjord Fuzz,Freia,Fuzz
 Fjord Fuzz,Gjallarhorn,Fuzz
 Fjord Fuzz,Hedda,Fuzz
-Fjord Fuzz,Kvasir,Fuzz
 Fjord Fuzz,Måne,Fuzz
 Fjord Fuzz,Midgard,Fuzz
 Fjord Fuzz,Midnattsol,Fuzz
@@ -1021,8 +950,6 @@ Friedman Amplification,Smallbox Overdrive Pedal,Distortion
 Friedman Amplification,Smallbox Overdrive Pedal,Overdrive
 Fulltone,69 Pedal mkII,Fuzz
 Fulltone,70 Pedal-BC,Fuzz
-Fulltone,Bass-Drive,Overdrive
-Fulltone,Distortion Pro,Distortion
 Fulltone,Full-Drive,Overdrive
 Fulltone,Full-Drive1,Distortion
 Fulltone,Full-Drive1,Overdrive
@@ -1031,8 +958,6 @@ Fulltone,Full-Drive2 v2,Distortion
 Fulltone,Full-Drive2 v2,Overdrive
 Fulltone,Full-Drive3,Distortion
 Fulltone,Full-Drive3,Overdrive
-Fulltone,GT-500,Distortion
-Fulltone,GT-500,Overdrive
 Fulltone,Hi-Mu,Distortion
 Fulltone,Hi-Mu,Overdrive
 Fulltone,Limited Edition OCD,Distortion
@@ -1041,7 +966,6 @@ Fulltone,Mas Malo,Distortion
 Fulltone,Mas Malo,Fuzz
 Fulltone,Mas Malo,Overdrive
 Fulltone,OCD,Distortion
-Fulltone,OCD,Overdrive
 Fulltone,OCD-Germanium,Distortion
 Fulltone,OCD-Germanium,Overdrive
 Fulltone,OCDv2,Distortion
@@ -1112,11 +1036,9 @@ HardWire,none identified,Overdrive
 HardWire,SC-2 Valve Distortion,Distortion
 HardWire,TL-2 Metal Distortion,Distortion
 Himmelstrutz Elektro Art,FETTO 9.0,Distortion
-Himmelstrutz Elektro Art,FETTO 9.0 / 11.1,Overdrive
 Himmelstrutz Elektro Art,FETTO Apache,Overdrive
 Himmelstrutz Elektro Art,FETTO C-Luxe,Overdrive
 Himmelstrutz Elektro Art,FETTO Custom,Distortion
-Himmelstrutz Elektro Art,FETTO Custom,Overdrive
 Himmelstrutz Elektro Art,FETTO Jr,Overdrive
 Himmelstrutz Elektro Art,FETTO Maximus,Overdrive
 Himmelstrutz Elektro Art,FETTO Nord+,Overdrive
@@ -1125,46 +1047,31 @@ Himmelstrutz Elektro Art,FETTO SC,Overdrive
 Himmelstrutz Elektro Art,FETTO Standard,Distortion
 Himmelstrutz Elektro Art,FETTO Standard,Overdrive
 Himmelstrutz Elektro Art,FITZO+,Overdrive
-Himmelstrutz Elektro Art,FITZO,Overdrive
 Himmelstrutz Elektro Art,FUGAZI,Distortion
 Himmelstrutz Elektro Art,FUGAZI Jr,Distortion
-Himmelstrutz Elektro Art,GRAMPS,Distortion
 Himmelstrutz Elektro Art,GRAMPS+,Distortion
+Himmelstrutz Elektro Art,GRAMPS,Distortion
 Himmelstrutz Elektro Art,GRAMPS+,Fuzz
 Himmelstrutz Elektro Art,GRAMPS,Fuzz
 Himmelstrutz Elektro Art,TÔNKer,Overdrive
-Himmelstrutz Elektro Art,Under Over,Overdrive
-Hudson Electronics,Blackbird,Fuzz
-Hudson Electronics,Bluebird,Fuzz
 Hudson Electronics,Broadcast,Distortion
 Hudson Electronics,Broadcast,Fuzz
 Hudson Electronics,Broadcast,Overdrive
 Hudson Electronics,Broadcast-AP,Overdrive
-Hudson Electronics,Buzzard,Fuzz
 Hudson Electronics,Buzzoid,Fuzz
-Hudson Electronics,Full Range Bomb,Fuzz
-Hudson Electronics,Fuzz (MKIV Tone Bender),Fuzz
 Hudson Electronics,Motorcycle — limited collaboration with Joe's Pedals,Overdrive
-Hudson Electronics,Mr Soul,Fuzz
-Hudson Electronics,Overdrive 999,Overdrive
 Hudson Electronics,Overdrive Eight Fifty,Fuzz
-Hudson Electronics,Pretty Flamingo,Fuzz
 Hudson Electronics,Shapes Of Things,Fuzz
 Hudson Electronics,Sidecar,Distortion
 Hudson Electronics,Sidecar,Fuzz
 Hudson Electronics,Sidecar,Overdrive
-Hudson Electronics,Soul Bomb,Fuzz
-Hudson Electronics,Soul Face,Fuzz
 Hudson Electronics,Standard Machine,Fuzz
-Hudson Electronics,Stroll On,Fuzz
 Hudson Electronics,Stroll On Jnr,Fuzz
-Hudson Electronics,White Heat,Fuzz
 IdiotBox Effects,Black Fortress Bass Distortion,Distortion
 IdiotBox Effects,Black Fortress Bass Distortion,Fuzz
 IdiotBox Effects,Blackout,Fuzz
 IdiotBox Effects,Blasteroid Fuzz,Fuzz
 IdiotBox Effects,Blower Box Bass Distortion,Distortion
-IdiotBox Effects,Blower Box Bass Distortion / Blower Box lineage,Distortion
 IdiotBox Effects,Blower Box Deluxe,Distortion
 IdiotBox Effects,Cool Buzz Bass Fuzz,Fuzz
 IdiotBox Effects,-D4 Distortion Reissue,Distortion
@@ -1256,7 +1163,6 @@ JHS Pedals,4 Wheeler,Fuzz
 JHS Pedals,424 Gain Stage,Distortion
 JHS Pedals,424 Gain Stage,Overdrive
 JHS Pedals,73 Rams Head,Fuzz
-JHS Pedals,All American Distortion,Distortion
 JHS Pedals,Angry Charlie V3,Overdrive
 JHS Pedals,AT+,Overdrive
 JHS Pedals,AT Mini,Overdrive
@@ -1267,20 +1173,13 @@ JHS Pedals,Charlie Brown,Overdrive
 JHS Pedals,Charlie Brown V4,Overdrive
 JHS Pedals,Cheese Ball,Distortion
 JHS Pedals,Cheese Ball,Fuzz
-JHS Pedals,Cheese Ball is explicitly identified by JHS as Distortion / Fuzz,Distortion
-JHS Pedals,Cheese Ball is explicitly identified by JHS as Distortion / Fuzz,Fuzz
 JHS Pedals,Colour Box V2,Distortion
 JHS Pedals,Colour Box V2,Fuzz
-JHS Pedals,Colour Box V2 / Colour Box 10,Distortion
-JHS Pedals,Colour Box V2 / Colour Box 10,Fuzz
 JHS Pedals,Colour Box V2 — preamp with dirt-oriented use and placement in the JHS fuzz/distortion collection,Overdrive
 JHS Pedals,Coyote,Distortion
 JHS Pedals,Coyote,Fuzz
 JHS Pedals,Crayon,Distortion
 JHS Pedals,Crayon,Fuzz
-JHS Pedals,Crayon is explicitly identified by JHS as Preamp / Distortion / Fuzz,Distortion
-JHS Pedals,Crayon is explicitly identified by JHS as Preamp / Distortion / Fuzz,Fuzz
-JHS Pedals,Crayon — preamp / distortion / fuzz,Overdrive
 JHS Pedals,Crimson,Fuzz
 JHS Pedals,Double Barrel,Overdrive
 JHS Pedals,Double Dragon,Distortion
@@ -1297,17 +1196,12 @@ JHS Pedals,"JHS's own collection places products into broad categories; where an
 JHS Pedals,Kilt 10,Distortion
 JHS Pedals,Kilt 10,Fuzz
 JHS Pedals,Kilt 10,Overdrive
-JHS Pedals,Kilt V2,Distortion
-JHS Pedals,Kilt V2,Fuzz
 JHS Pedals,Kilt V2,Overdrive
-JHS Pedals,Kilt V2 / Kilt 10,Distortion
-JHS Pedals,Kilt V2 / Kilt 10,Fuzz
 JHS Pedals,Mini Foot Fuzz,Fuzz
 JHS Pedals,Moonshine,Overdrive
 JHS Pedals,Moonshine V2,Overdrive
 JHS Pedals,Morning Glory,Overdrive
 JHS Pedals,Morning Glory Clean,Overdrive
-JHS Pedals,Morning Glory / Morning Glory V4,Overdrive
 JHS Pedals,Morning Glory V4,Overdrive
 JHS Pedals,Muffuletta,Distortion
 JHS Pedals,Muffuletta,Fuzz
@@ -1315,7 +1209,6 @@ JHS Pedals,Notadümb̈le V2,Overdrive
 JHS Pedals,Notadümbळë V2,Overdrive
 JHS Pedals,Notadümblo V2,Overdrive
 JHS Pedals,Notaklön,Overdrive
-JHS Pedals,Notaklön / Notaklön Splatter / Notaklön Pink,Overdrive
 JHS Pedals,Notaklön Splatter,Overdrive
 JHS Pedals,PackRat,Distortion
 JHS Pedals,PackRat,Fuzz
@@ -1434,12 +1327,6 @@ KHDK Electronics,Totality — dual-path overdrive for guitar and bass,Distortion
 KHDK Electronics,Totality — dual-path overdrive for guitar and bass,Overdrive
 KHDK Electronics,Unicorn Blood II — octave fuzz,Fuzz
 KHDK Electronics,Unicorn Blood — octave fuzz,Fuzz
-Lichtlaerm Audio,Altar — boost / fuzz / distortion,Distortion
-Lichtlaerm Audio,Altar — boost / fuzz / distortion,Fuzz
-Lichtlaerm Audio,Altar — boost / fuzz / distortion,Overdrive
-Lichtlaerm Audio,Aquaria — transparent overdrive / dynamic boost / EQ,Distortion
-Lichtlaerm Audio,Aquaria — transparent overdrive / dynamic boost / EQ,Fuzz
-Lichtlaerm Audio,Aquaria — transparent overdrive / dynamic boost / EQ,Overdrive
 Lichtlaerm Audio,Gehenna — metal distortion / preamp,Distortion
 Lichtlaerm Audio,Gehenna — metal distortion / preamp,Fuzz
 Lichtlaerm Audio,Gehenna — metal distortion / preamp,Overdrive
@@ -1471,11 +1358,9 @@ Lovepedal,COT 50 / Church of Tone 50,Overdrive
 Lovepedal,Dover Drive,Overdrive
 Lovepedal,Eternity,Overdrive
 Lovepedal,Eternity Burst,Overdrive
-Lovepedal,Eternity Overdrive,Overdrive
 Lovepedal,FAB 50,Fuzz
 Lovepedal,FAB 50,Overdrive
 Lovepedal,Kalamazoo,Overdrive
-Lovepedal,Kalamazoo Overdrive,Overdrive
 Lovepedal,Mosferatu,Overdrive
 Lovepedal,none separately promoted beyond Tiki Drive,Distortion
 Lovepedal,Purple Plexi,Overdrive
@@ -1498,7 +1383,6 @@ Mad Professor Amplification,Loud 'n Proud,Fuzz
 Mad Professor Amplification,Loud 'n Proud,Overdrive
 Mad Professor Amplification,Mighty Red Distortion,Distortion
 Mad Professor Amplification,Royal Blue Overdrive,Overdrive
-Mad Professor Amplification,Simble / Simble Overdrive Mk2,Overdrive
 Mad Professor Amplification,Sky Blue Overdrive,Overdrive
 Mad Professor Amplification,Stone Grey Distortion,Distortion
 Mad Professor Amplification,Supreme,Overdrive
@@ -1536,12 +1420,10 @@ Mask Audio Electronics,LARAN (prebuilt),Fuzz
 Mask Audio Electronics,LARAN (prebuilt),Overdrive
 Mask Audio Electronics,Little Acorn,Fuzz
 Mask Audio Electronics,MAYBE,Fuzz
-Mask Audio Electronics,NO. (historical / discontinued),Fuzz
 Mask Audio Electronics,PART GARDEN,Fuzz
 Mask Audio Electronics,Part Garden,Overdrive
 Mask Audio Electronics,Screws,Fuzz
 Mask Audio Electronics,TRUST YOURSELF,Distortion
-Mask Audio Electronics,YES! (historical / discontinued),Fuzz
 Maxon,D&S,Distortion
 Maxon,D&S II,Distortion
 Maxon,Distortion and Sustainer (D&S),Distortion
@@ -1782,37 +1664,24 @@ Mr. Black,Bass OD Mk. II,Distortion
 Mr. Black,Bass OD Mk. II,Overdrive
 Mr. Black,BB-74x,Distortion
 Mr. Black,BB-74x,Overdrive
-Mr. Black,Black LTD. Bass OD,Overdrive
-Mr. Black,Black LTD. Darling Fuzz,Fuzz
-Mr. Black,Black LTD. Distortion,Distortion
-Mr. Black,Black LTD. Overdriver,Overdrive
-Mr. Black,Black LTD. Overdriver Mk. II,Overdrive
-Mr. Black,Classic 88,Overdrive
-Mr. Black,Darling Fuzz / Black Fuzz lineage consolidated,Fuzz
 Mr. Black,Deuce Coupe,Distortion
 Mr. Black,Deuce Coupe,Overdrive
 Mr. Black,Deuce Coupe - Old School Laser,Distortion
 Mr. Black,Deuce Coupe - Old School Laser,Overdrive
 Mr. Black,Doomstick Fuzz,Fuzz
-Mr. Black,Doomstick II Fuzz,Fuzz
-Mr. Black,"Gold Drive ""One Hundred""",Overdrive
 Mr. Black,Jalapeño,Overdrive
-Mr. Black,JDS-50,Overdrive
-Mr. Black,OD-503 Mini Amplifier Overdrive,Overdrive
 Mr. Black,Orro,Overdrive
 Mr. Black,SludgeMaster,Distortion
 Mr. Black,SludgeMaster,Fuzz
 Mr. Black,SludgeMaster,Overdrive
 Mr. Black,Snake Drive,Overdrive
 Mr. Black,Sour Cream & Onion,Overdrive
-Mr. Black,Super-Extra Five Thousand,Overdrive
 Mr. Black,ThunderClaw,Distortion
 Mr. Black,ThunderClaw,Overdrive
 Mr. Black,ThunderClaw - Scorpion Milk,Distortion
 Mr. Black,ThunderClaw - Scorpion Milk,Overdrive
 Mr. Black,Vintage Overdrive,Distortion
 Mr. Black,Vintage Overdrive,Overdrive
-Mr. Black,White Widow,Distortion
 MXR,Bass Distortion+,Distortion
 MXR,Bass Distortion,Distortion
 MXR,Bass Fuzz Deluxe,Fuzz
@@ -1862,8 +1731,6 @@ Mythos Pedals,1347 Silicon Fuzz,Distortion
 Mythos Pedals,1347 Silicon Fuzz,Fuzz
 Mythos Pedals,1N34A Mjolnir - Gold,Overdrive
 Mythos Pedals,1N34A Mjolnir - Silver,Overdrive
-Mythos Pedals,210 Double Drive Deluxe,Fuzz
-Mythos Pedals,210 Double Drive Deluxe,Overdrive
 Mythos Pedals,Argo Boost Deluxe,Fuzz
 Mythos Pedals,Argo Octave Fuzz,Distortion
 Mythos Pedals,Argo Octave Fuzz,Fuzz
@@ -1876,24 +1743,19 @@ Mythos Pedals,Chupacabra CMOS Overdrive,Overdrive
 Mythos Pedals,D-Style Herculean Overdrive,Overdrive
 Mythos Pedals,Envy Pro Overdrive,Overdrive
 Mythos Pedals,Erlking Overdrive,Overdrive
-Mythos Pedals,Extra Hot Dual Overdrive,Overdrive
 Mythos Pedals,Extra Hot “Extra Spicy” Dual Overdrive,Overdrive
-Mythos Pedals,"Extra Hot ""Extra Spicy"" Dual Overdrive",Overdrive
 Mythos Pedals,GE Mjolnir,Overdrive
 Mythos Pedals,Golden Fleece Fuzz,Distortion
 Mythos Pedals,Golden Fleece Fuzz,Fuzz
 Mythos Pedals,Hephaestus Fuzz,Distortion
 Mythos Pedals,Hephaestus Fuzz,Fuzz
 Mythos Pedals,Herculean Deluxe Overdrive,Overdrive
-Mythos Pedals,Herculean / Herculean V2,Overdrive
 Mythos Pedals,High Road Fuzz Mini,Distortion
 Mythos Pedals,High Road Fuzz Mini,Fuzz
 Mythos Pedals,High Road Fuzz Mini — limited / exclusive,Fuzz
 Mythos Pedals,Joey Landreth Mjolnir Overdrive,Overdrive
 Mythos Pedals,Mjolnir Overdrive,Overdrive
 Mythos Pedals,Olympus Overdrive,Overdrive
-Mythos Pedals,Positron Fuzz / Positron Collider lineage,Fuzz
-Mythos Pedals,SusMaryOsep,Overdrive
 Mythos Pedals,The Victor Distortion,Distortion
 Mythos Pedals,Wildwood Mjolnir,Overdrive
 NUX Audio / NUX,’59 Bassguy,Overdrive
@@ -1927,7 +1789,6 @@ NUX Audio / NUX,Steel Singer Drive,Overdrive
 NUX Audio / NUX,Tube Man MKII,Overdrive
 NUX Audio / NUX,XTC OD,Overdrive
 OKKO FX,BFGRMWB,Fuzz
-OKKO FX,BFGRMWB / Big Fucking Green Russian Muff With Benefits,Fuzz
 OKKO FX,Black Beast,Distortion
 OKKO FX,Black Beast,Fuzz
 OKKO FX,DIABLO,Overdrive
@@ -1937,7 +1798,6 @@ OKKO FX,DIABLO DUAL — 2-channel overdrive / distortion,Distortion
 OKKO FX,DIABLO GH Signature,Overdrive
 OKKO FX,DIRTY DIABLO,Distortion
 OKKO FX,HOLY GRIT,Fuzz
-OKKO FX,HOLY GRIT,Overdrive
 OKKO FX,Holy Grit,Overdrive
 OKKO FX,MOTÖRBASS,Distortion
 OKKO FX,The Dynamist,Overdrive
@@ -1984,12 +1844,12 @@ Pigtronix,Octava,Fuzz
 Pigtronix,Octava,Overdrive
 Pigtronix,Philosopher's Gold,Distortion
 Pigtronix,Philosopher’s Gold,Distortion
-Pigtronix,Philosopher's Gold,Overdrive
 Pigtronix,Philosopher’s Gold,Overdrive
+Pigtronix,Philosopher's Gold,Overdrive
 Pigtronix,Philosopher’s Tone 2,Distortion
 Pigtronix,Philosopher's Tone 2,Distortion
-Pigtronix,Philosopher’s Tone 2,Overdrive
 Pigtronix,Philosopher's Tone 2,Overdrive
+Pigtronix,Philosopher’s Tone 2,Overdrive
 Pigtronix,PolySaturator,Distortion
 Pigtronix,PolySaturator,Overdrive
 Pigtronix,Star Eater,Distortion
@@ -2127,7 +1987,6 @@ SolidGoldFX,If 6 Was 9 BC183 MKII,Fuzz
 SolidGoldFX,Imperial MKII,Fuzz
 SolidGoldFX,Lysis MKII,Fuzz
 SolidGoldFX,"No standalone current SolidGoldFX product is forced into the distortion category in this block. The current official dirt catalog is explicit about its principal overdrive and fuzz classifications, while fuzz products are not relabeled as distortion merely because their descriptions discuss saturation or distortion",Distortion
-Spaceman Effects,Aphelion,Overdrive
 Spaceman Effects,Apollo VIIb,Distortion
 Spaceman Effects,Apollo VIIb,Fuzz
 Spaceman Effects,Apollo VIIb,Overdrive
@@ -2136,26 +1995,21 @@ Spaceman Effects,Apollo VIIb Cadet,Fuzz
 Spaceman Effects,Apollo VIIb Cadet,Overdrive
 Spaceman Effects,Charon,Fuzz
 Spaceman Effects,Charon v2 Mod,Fuzz
-Spaceman Effects,Gemini III,Fuzz
 Spaceman Effects,Gemini IV,Fuzz
 Spaceman Effects,None established as a standalone core distortion identity,Distortion
 Spaceman Effects,Polaris,Overdrive
-Spaceman Effects,Rumblefuzz,Fuzz
 Spaceman Effects,Rumblefuzz II,Distortion
 Spaceman Effects,Rumblefuzz II,Fuzz
 Spaceman Effects,Rumblefuzz II,Overdrive
-Spaceman Effects,Saturn V,Overdrive
 Spaceman Effects,Saturn VI,Distortion
 Spaceman Effects,Saturn VI,Fuzz
 Spaceman Effects,Saturn VI,Overdrive
-Spaceman Effects,Spacerocket,Fuzz
 Spaceman Effects,Spacerocket II,Distortion
 Spaceman Effects,Spacerocket II,Fuzz
 Spaceman Effects,Spacerocket II,Overdrive
 Spaceman Effects,Sputnik I,Distortion
 Spaceman Effects,Sputnik I,Fuzz
 Spaceman Effects,Sputnik I,Overdrive
-Spaceman Effects,Sputnik IIb,Fuzz
 Spaceman Effects,Sputnik III,Fuzz
 Spaceman Effects,Titan II,Distortion
 Spaceman Effects,Titan II,Fuzz
@@ -2201,17 +2055,12 @@ Stomp Under Foot,Tri-Muff,Fuzz
 Stomp Under Foot,Violet Menace,Fuzz
 Stomp Under Foot,Windhand Fuzz,Fuzz
 Stone Deaf FX,Fig Fumb,Fuzz
-Stone Deaf FX,Kliptonite,Fuzz
-Stone Deaf FX,Kliptonite,Overdrive
-Stone Deaf FX,PDF-1,Distortion
 Stone Deaf FX,PDF-1X Ghost,Distortion
 Stone Deaf FX,PDF-1X Ghost,Overdrive
 Stone Deaf FX,PDF-2,Distortion
 Stone Deaf FX,PDF-2,Fuzz
 Stone Deaf FX,PDF-2,Overdrive
 Stone Deaf FX,Rise & Shine,Fuzz
-Stone Deaf FX,Trashy Blonde,Distortion
-Stone Deaf FX,Trashy Blonde,Overdrive
 Stone Deaf FX,Warp Drive,Distortion
 Strymon,Canoga Vintage Silicon Fuzz,Distortion
 Strymon,Canoga Vintage Silicon Fuzz,Fuzz
@@ -2286,7 +2135,6 @@ Tech 21 NYC,XXL Guitar,Distortion
 Tech 21 NYC,XXL Guitar,Fuzz
 Tech 21 NYC,XXL Original,Distortion
 Tech 21 NYC,XXL Original,Fuzz
-ThorpyFX,Boneyard,Fuzz
 ThorpyFX,Bunker,Overdrive
 ThorpyFX,BUNKER — Plexi Overdrive,Distortion
 ThorpyFX,BUNKER — Plexi Overdrive,Fuzz
@@ -2299,11 +2147,9 @@ ThorpyFX,ELECTRIC LIGHTNING — Valve Overdrive,Distortion
 ThorpyFX,ELECTRIC LIGHTNING — Valve Overdrive,Fuzz
 ThorpyFX,ELECTRIC LIGHTNING — Valve Overdrive,Overdrive
 ThorpyFX,Fallout Cloud,Fuzz
-ThorpyFX,Field Marshal,Fuzz
 ThorpyFX,FIELD MARSHAL — Fuzz,Distortion
 ThorpyFX,FIELD MARSHAL — Fuzz,Fuzz
 ThorpyFX,FIELD MARSHAL — Fuzz,Overdrive
-ThorpyFX,Gunshot,Overdrive
 ThorpyFX,Hanami,Fuzz
 ThorpyFX,Kudu,Overdrive
 ThorpyFX,Old Timer,Fuzz
@@ -2313,7 +2159,6 @@ ThorpyFX,SCARLET TUNIC — Amp Emulator with drive/gain function,Fuzz
 ThorpyFX,SCARLET TUNIC — Amp Emulator with drive/gain function,Overdrive
 ThorpyFX,Shaftesbury Duo Fuzz — standard / Heritage versions consolidated,Fuzz
 ThorpyFX,Six Zero,Fuzz
-ThorpyFX,The Dane,Overdrive
 ThorpyFX,THE DANE — Dual Drive Boost,Distortion
 ThorpyFX,THE DANE — Dual Drive Boost,Fuzz
 ThorpyFX,THE DANE — Dual Drive Boost,Overdrive
@@ -2326,13 +2171,9 @@ ThorpyFX,The KUDU — Overdrive,Overdrive
 ThorpyFX,THE OLD TIMER — 3-in-1 pedal with drive section,Distortion
 ThorpyFX,THE OLD TIMER — 3-in-1 pedal with drive section,Fuzz
 ThorpyFX,THE OLD TIMER — 3-in-1 pedal with drive section,Overdrive
-ThorpyFX,Veteran,Fuzz
 ThorpyFX,Warthog,Distortion
 ThorpyFX,Warthog,Fuzz
 ThorpyFX,Warthog,Overdrive
-ThorpyFX,WARTHOG — Distortion,Distortion
-ThorpyFX,WARTHOG — Distortion,Fuzz
-ThorpyFX,WARTHOG — Distortion,Overdrive
 ThorpyFX,WOPR,Fuzz
 Vemuram,Butter Machine — Michael Landau Signature Distortion,Distortion
 Vemuram,DJ1 — overdrive / distortion bass-effects identity,Distortion
@@ -2419,38 +2260,30 @@ VOX,VFZ-1 Fuzz,Fuzz
 VOX,VFZ-1 Fuzz,Overdrive
 VOX,VOX 7001 Distortion,Distortion
 Walrus Audio,385 Overdrive,Overdrive
-Walrus Audio,385 Overdrive / 385 Overdrive MKII,Overdrive
 Walrus Audio,385 Overdrive MKII,Overdrive
 Walrus Audio,385 Overdrive MKII — Overdrive,Distortion
 Walrus Audio,385 Overdrive MKII — Overdrive,Fuzz
-Walrus Audio,385 Overdrive MKII — Overdrive,Overdrive
 Walrus Audio,Ages Five-State Overdrive,Overdrive
 Walrus Audio,Ages Five-State Overdrive — Overdrive,Distortion
 Walrus Audio,Ages Five-State Overdrive — Overdrive,Fuzz
-Walrus Audio,Ages Five-State Overdrive — Overdrive,Overdrive
 Walrus Audio,Badwater Bass Pre-amp and D.I,Overdrive
 Walrus Audio,Contraband Fuzz,Fuzz
 Walrus Audio,Eons Five-State Fuzz,Fuzz
 Walrus Audio,Eons Five-State Fuzz — Fuzz,Distortion
-Walrus Audio,Eons Five-State Fuzz — Fuzz,Fuzz
 Walrus Audio,Eons Five-State Fuzz — Fuzz,Overdrive
 Walrus Audio,Eras Five-State Distortion,Distortion
-Walrus Audio,Eras Five-State Distortion — Distortion,Distortion
 Walrus Audio,Eras Five-State Distortion — Distortion,Fuzz
 Walrus Audio,Eras Five-State Distortion — Distortion,Overdrive
 Walrus Audio,Fundamental Series Distortion,Distortion
 Walrus Audio,Fundamental Series Drive,Overdrive
 Walrus Audio,Fundamental Series Fuzz,Fuzz
 Walrus Audio,Iron Horse LM308 Distortion,Distortion
-Walrus Audio,Iron Horse LM308 Distortion — Distortion,Distortion
 Walrus Audio,Iron Horse LM308 Distortion — Distortion,Fuzz
 Walrus Audio,Iron Horse LM308 Distortion — Distortion,Overdrive
 Walrus Audio,Janus Fuzz/Tremolo,Fuzz
 Walrus Audio,Janus Fuzz/Tremolo with Joystick Control,Fuzz
 Walrus Audio,Janus Fuzz/Tremolo with Joystick Control — Fuzz,Distortion
-Walrus Audio,Janus Fuzz/Tremolo with Joystick Control — Fuzz,Fuzz
 Walrus Audio,Janus Fuzz/Tremolo with Joystick Control — Fuzz,Overdrive
-Walrus Audio,Jupiter Multi-Clip Fuzz / Jupiter Multi-Clip Fuzz V2,Fuzz
 Walrus Audio,Jupiter Multi-Clip Fuzz V2,Fuzz
 Walrus Audio,Kangra Filter Fuzz,Fuzz
 Walrus Audio,Mayflower Mid-Range Overdrive,Overdrive
@@ -2461,14 +2294,11 @@ Walrus Audio,Melee: Wall of Noise — Distortion + Reverb,Overdrive
 Walrus Audio,Messner Stage-One Overdrive,Overdrive
 Walrus Audio,Silt Harmonic Fuzz,Fuzz
 Walrus Audio,Silt Harmonic Fuzz — Fuzz,Distortion
-Walrus Audio,Silt Harmonic Fuzz — Fuzz,Fuzz
 Walrus Audio,Silt Harmonic Fuzz — Fuzz,Overdrive
 Walrus Audio,Voyager Preamp/Overdrive,Overdrive
 Walrus Audio,Voyager Preamp/Overdrive MKII,Overdrive
 Walrus Audio,Voyager Preamp/Overdrive MKII — Overdrive,Distortion
 Walrus Audio,Voyager Preamp/Overdrive MKII — Overdrive,Fuzz
-Walrus Audio,Voyager Preamp/Overdrive MKII — Overdrive,Overdrive
-Walrus Audio,Voyager Preamp/Overdrive / Voyager Preamp/Overdrive MKII,Overdrive
 Walrus Audio,Warhorn Mid-Range Overdrive,Overdrive
 Wampler Pedals,Andy Wood: Gearbox,Distortion
 Wampler Pedals,Andy Wood: Gearbox,Overdrive
@@ -2477,12 +2307,10 @@ Wampler Pedals,Belle Overdrive,Overdrive
 Wampler Pedals,Black '65,Overdrive
 Wampler Pedals,Black ’65 Limited Edition,Distortion
 Wampler Pedals,Black ’65 Limited Edition,Overdrive
-Wampler Pedals,Black '65 / Tweed '57,Overdrive
 Wampler Pedals,Brad Paisley: Paisley Deluxe,Distortion
 Wampler Pedals,Brad Paisley: Paisley Deluxe,Overdrive
 Wampler Pedals,Brad Paisley: Paisley Drive,Distortion
 Wampler Pedals,Brad Paisley: Paisley Drive,Overdrive
-Wampler Pedals,Brad Paisley: Paisley Drive / Paisley Deluxe,Overdrive
 Wampler Pedals,Brent Mason: Hot Wired v2,Distortion
 Wampler Pedals,Brent Mason: Hot Wired v2,Overdrive
 Wampler Pedals,Brent Mason: ReWired,Distortion
@@ -2490,8 +2318,6 @@ Wampler Pedals,Brent Mason: ReWired,Overdrive
 Wampler Pedals,cataPulp,Distortion
 Wampler Pedals,cataPulp,Overdrive
 Wampler Pedals,Clarksdale,Overdrive
-Wampler Pedals,Clarksdale Overdrive,Overdrive
-Wampler Pedals,Cranked OD / Cranked AC and OD,Overdrive
 Wampler Pedals,Cryptid Fuzz,Fuzz
 Wampler Pedals,Dracarys Distortion,Distortion
 Wampler Pedals,Dracarys Distortion,Overdrive
@@ -2519,18 +2345,15 @@ Wampler Pedals,Pantheon Deluxe,Distortion
 Wampler Pedals,Pantheon Deluxe,Overdrive
 Wampler Pedals,Pantheon Overdrive,Distortion
 Wampler Pedals,Pantheon Overdrive,Overdrive
-Wampler Pedals,Pantheon / Pantheon Deluxe,Overdrive
 Wampler Pedals,Phenom Distortion,Distortion
 Wampler Pedals,Phenom Distortion,Overdrive
 Wampler Pedals,Pinnacle Deluxe v2,Distortion
 Wampler Pedals,Pinnacle Deluxe v2,Overdrive
-Wampler Pedals,Pinnacle / Pinnacle Deluxe / Pinnacle Deluxe v2,Distortion
 Wampler Pedals,Pinnacle Standard,Distortion
 Wampler Pedals,Plexi-Drive,Overdrive
 Wampler Pedals,Plexi Drive Deluxe,Overdrive
 Wampler Pedals,Plexi Drive Mini,Distortion
 Wampler Pedals,Plexi Drive Mini,Overdrive
-Wampler Pedals,Plexi Drive / Plexi Drive Deluxe / Plexi Drive Mini,Overdrive
 Wampler Pedals,Plextortion,Distortion
 Wampler Pedals,Plextortion,Overdrive
 Wampler Pedals,Ratsbane,Distortion
@@ -2538,7 +2361,6 @@ Wampler Pedals,Ratsbane,Fuzz
 Wampler Pedals,Ratsbane,Overdrive
 Wampler Pedals,SLOstortion,Distortion
 Wampler Pedals,Sovereign Distortion,Distortion
-Wampler Pedals,Super Plex / SuperPlex,Overdrive
 Wampler Pedals,tcd,Distortion
 Wampler Pedals,tcd,Overdrive
 Wampler Pedals,the Compulsion Drive (tcd),Distortion
@@ -2554,7 +2376,6 @@ Wampler Pedals,Tumnus,Distortion
 Wampler Pedals,Tumnus,Overdrive
 Wampler Pedals,Tumnus Deluxe,Distortion
 Wampler Pedals,Tumnus Deluxe,Overdrive
-Wampler Pedals,Tumnus / Tumnus Deluxe / Germanium Tumnus / Germanium Tumnus Deluxe,Overdrive
 Wampler Pedals,Tweed '57,Overdrive
 Wampler Pedals,Tweed ’57 Limited Edition,Distortion
 Wampler Pedals,Tweed ’57 Limited Edition,Overdrive
