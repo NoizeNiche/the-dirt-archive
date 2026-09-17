@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 083**.
+Research blocks stored under `research/builders/` now run through **Block 084**.
 
 Latest addition:
-- Block 083: HardWire
+- Block 084: VOX
 
 Recent blocks:
-- Block 073: DigiTech
 - Block 074: Ramble FX
 - Block 075: Voodoo Lab
 - Block 076: Blackstar Amplification
@@ -42,34 +41,55 @@ Recent blocks:
 - Block 081: Marshall Amplification
 - Block 082: Orange Amplification
 - Block 083: HardWire
+- Block 084: VOX
 
-Blocks 001–082 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–083 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 083 summary
-HardWire is treated as an unrepresented builder/product-line identity in the active census, distinct from the previously documented DigiTech builder identity even though current manufacturer documentation is hosted in DigiTech's support ecosystem.
+### Block 084 summary
+VOX is treated as an unrepresented builder/brand identity with a broad documented dirt catalog spanning current and historical Overdrive, Distortion, and Fuzz products.
 
 Overdrive:
-- CM-2 Tube Overdrive
+- Copperhead Drive
+- Mystic Edge
+- Cutting Edge
+- Silk Drive
+- Fuel Injector
+- VFZ-1 Fuzz
+- Big Ben Overdrive
+- Straight 6 Drive
+- V810 Valvetone
+- Ice 9 Overdrive
 
 Distortion:
-- SC-2 Valve Distortion
-- TL-2 Metal Distortion
+- Copperhead Drive
+- Mystic Edge
+- Cutting Edge
+- V8 Distortion
+- Bulldog Distortion
+- Satchurator
+- VOX 7001 Distortion
 
 Fuzz:
-- none identified
+- VFZ-1 Fuzz
+- Trike Fuzz
+- V828 Tone Bender
+- V829 Tone Bender
+- V830 Distortion Booster
 
-CM-2 is Overdrive only from explicit product naming and manufacturer documentation. SC-2 and TL-2 are Distortion only from explicit product naming. Their respective voicing/control modes are internal functions rather than separate identities. No HardWire Fuzz identity was established in the reviewed manufacturer catalog/manual material.
+Copperhead Drive, Mystic Edge, and Cutting Edge are recorded as Overdrive + Distortion because VOX describes these Valvenergy pedals as valve distortion pedals that provide genuine overdrive and distortion tones. VFZ-1 is recorded as Fuzz + Overdrive because VOX explicitly documents its Crunch switch as producing lower-gain overdrive tones. Silk Drive and Fuel Injector remain Overdrive only. V8 Distortion and Bulldog Distortion remain Distortion only despite lower-gain or fuzz-like tonal ranges.
 
-HardWire remains separate from DigiTech because the pedals were explicitly branded and marketed as HardWire products, while DigiTech documentation now hosts the manuals and FAQ material. Non-dirt HardWire pedals remain excluded.
+Historical VOX identities include Big Ben Overdrive, Straight 6 Drive, V810 Valvetone, Ice 9 Overdrive, Trike Fuzz, V828 Tone Bender, V829 Tone Bender, V830 Distortion Booster, Satchurator, and VOX 7001 Distortion. V828 and V829 remain distinct named VOX Tone Bender products from different eras. V830 is retained as Fuzz because VOX archival material identifies “Distortion Booster” as period VOX terminology for fuzz and documents its Drive control as adjusting fuzz intensity.
+
+The current 2026 VOX catalog also includes VFZ-1 Fuzz and the excluded VTB-1 Treble Booster. VFZ-1 is included in the dirt census; VTB-1 remains excluded as boost-only. ToneLab and StompLab modeled drive/fuzz effects remain excluded as virtual models inside multi-effects products, not standalone physical VOX pedal identities. Amplifiers and other non-dirt effects remain outside scope.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 083.
+Added and re-read Builder → Pedals research Block 084.
 
 Research block commit:
-`6cd0cc436d6dd5c235331e354b774b018911c4ee`
+`23044dbb442d89d10a173adcd4042bf78d5233b6`
 
 Research block content SHA:
-`88c4823d421ee16d63bd9a6f4dad79884462372c`
+`c4155754a0c948e17338ecaebd18a40273b05d41`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
