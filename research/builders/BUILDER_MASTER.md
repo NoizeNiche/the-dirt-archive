@@ -35,6 +35,8 @@ The following builders are being prioritized because current first-party pages o
 | Walrus Audio | high | Voyager Preamp/Overdrive; Warhorn; 385 Overdrive; Iron Horse; Jupiter Fuzz; Eons Five-State Fuzz; Eras Five-State Distortion; Ages Five-State Overdrive; Silt Harmonic Fuzz; Janus Fuzz/Tremolo; Fundamental Fuzz | https://www.walrusaudio.com/collections/overdrive-fuzz-distortion |
 | Spaceman Effects | high | Titan II; Apollo VIIb; Saturn V; Saturn VI | https://spacemaneffects.com/ |
 | PastFX | high | Punkifriar PX76 Overdrive/Distortion/Fuzz | https://www.pastfx.com/ |
+| JHS Pedals | high | Coyote; Double Dragon; EHX by JHS Big Muff 2; Kilt; Kilt 10; Muffuletta; PackRat; Hard Drive; Violet; Cheese Ball; Crayon; 3 Series Fuzz; 3 Series Distortion; Colour Box; AT Mini; Notadumble V2; Morning Glory; 424 Gain Stage; Notaklon; Bonsai; AT+; Angry Charlie V3; Charlie Brown V4; Moonshine V2; PG-14; 3 Series Overdrive | https://jhspedals.info/ |
+| ThorpyFX | high | Bunker; Electric Lightning; The Dane; Scarlet Tunic; The Kudu; The Old Timer; Warthog | https://thorpyfx.com/collections/all/overdrive |
 
 ## Current Web Verification Notes
 
@@ -63,13 +65,19 @@ The official site identifies ZVEX as a maker of guitar and bass effects since 19
 Current first-party pages confirm King Of Tone and Prince Of Tone as overdrive products and Astro Tone as a fuzz product. Sources: https://analogman.com/kingtone.htm and https://www.analogman.com/astrotone.htm
 
 ### Walrus Audio
-The current official dirt collection lists multiple overdrive, distortion, and fuzz products, including Voyager, 385, Iron Horse, Eons, Eras, Ages, Silt, and Janus. The site's comparison article also groups Voyager, Warhorn, 385, Iron Horse, and Jupiter as dirt/drive products. Sources: https://www.walrusaudio.com/collections/overdrive-fuzz-distortion and https://www.walrusaudio.com/blogs/news/dirt-drive-distortion-comparison
+The current official dirt collection lists multiple overdrive, distortion, and fuzz products, including Voyager, 385, Iron Horse, Eons, Eras, Ages, Silt, and Janus. The site's comparison article groups Voyager, Warhorn, 385, Iron Horse, and Jupiter as dirt/drive products. Sources: https://www.walrusaudio.com/collections/overdrive-fuzz-distortion and https://www.walrusaudio.com/blogs/news/dirt-drive-distortion-comparison
 
 ### Spaceman Effects
 Current first-party pages confirm Titan II as a fuzz/distortion/overdrive pedal, Apollo VIIb as a preamp/overdrive, and Saturn V/VI as harmonic-boost/overdrive devices. Source: https://spacemaneffects.com/
 
 ### PastFX
 The official current shop documents the Punkifriar PX76 as an overdrive/distortion/fuzz pedal based on the discontinued DOD FX76 Punkifier. Source: https://www.pastfx.com/index.php/effects/analog-delays/13-shop?start=20
+
+### JHS Pedals
+The current official catalog has a dedicated Fuzz / Distortion section with multiple products including Muffuletta, PackRat, Cheese Ball, Crayon, 3 Series Fuzz, 3 Series Distortion, Kilt 10, Double Dragon, Coyote and others. Its Overdrive collection also includes AT Mini, Notadumble V2, Morning Glory, 424 Gain Stage, Notaklon, Bonsai, AT+, Angry Charlie V3, Charlie Brown V4, Moonshine V2, PG-14 and 3 Series Overdrive. Sources: https://jhspedals.info/collections/fuzz-distortion and https://jhspedals.info/collections/overdrive-distortions
+
+### ThorpyFX
+The current official catalog identifies multiple overdrive/distortion products including Bunker, Electric Lightning, The Dane, Scarlet Tunic, The Kudu, The Old Timer, and Warthog. Source: https://thorpyfx.com/collections/all/overdrive
 
 ## Existing Historical Discovery Pool
 
