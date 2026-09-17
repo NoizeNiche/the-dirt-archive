@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 076**.
+Research blocks stored under `research/builders/` now run through **Block 077**.
 
 Latest addition:
-- Block 076: Blackstar Amplification
+- Block 077: Bogner Amplification
 
 Recent blocks:
-- Block 066: MXR — Dunlop Manufacturing, Inc.
 - Block 067: Pigtronix
 - Block 068: Foxgear
 - Block 069: Lovepedal
@@ -42,51 +41,41 @@ Recent blocks:
 - Block 074: Ramble FX
 - Block 075: Voodoo Lab
 - Block 076: Blackstar Amplification
+- Block 077: Bogner Amplification
 
-Blocks 001–075 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–076 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 076 summary
-Blackstar Amplification is treated as an unrepresented builder identity with a substantial historical dirt catalog spanning the HT, LT, and Dept. 10 pedal families.
+### Block 077 summary
+Bogner Amplification is treated as an unrepresented builder identity with seven clearly documented core dirt products: Ecstasy Blue, Ecstasy Red, Uberschall, Wessex, Burnley, La Grange, and Oxford.
 
 Overdrive:
-- HT-DRIVE
-- HT-DUAL
-- HT-METAL
-- LT-DRIVE
-- LT-DUAL
-- Dept. 10 Dual Drive
-- Dept. 10 Dual Distortion
+- Ecstasy Blue
+- Ecstasy Red
+- Wessex
+- La Grange
 
 Distortion:
-- HT-DIST
-- HT-DISTX
-- HT-DUAL
-- HT-METAL
-- LT-DIST
-- LT-DUAL
-- LT-METAL
-- Dept. 10 Dual Drive
-- Dept. 10 Dual Distortion
+- Ecstasy Red
+- Uberschall
+- Burnley
 
 Fuzz:
-- none identified in reviewed manufacturer material
+- Oxford
 
-Blackstar's official HT-series catalog identifies HT-DRIVE as Pure Valve Overdrive, HT-DIST as Pure Valve Distortion, HT-DISTX as an ultra-high-gain filth pedal, HT-DUAL as a valve distortion pedal with Channel 1 usable as boost or overdrive and Channel 2 providing distortion, and HT-METAL as a valve distortion pedal with a Clean/Overdrive switch. The official LT-series catalog identifies LT-DRIVE as drive, LT-DIST and LT-METAL as distortion products, and LT-DUAL as a two-channel distortion pedal whose Channel 1 runs from clean to boost to overdrive. The current Dept. 10 manufacturer pages identify Dual Drive as a valve overdrive pedal / preamp and Dual Distortion as a valve distortion pedal that also functions as an overdrive pedal / preamp.
+Ecstasy Blue is recorded as Overdrive from product-level overdrive descriptions. Ecstasy Red is recorded as Overdrive + Distortion because surviving product material explicitly identifies it as an Overdrive/Distortion pedal and describes its range from vintage overdrive through high gain. Wessex is recorded as Overdrive, and La Grange as Overdrive, based on product-level descriptions. Uberschall and Burnley are recorded as Distortion because their documented product identities are distortion pedals. Oxford is recorded as Fuzz because its product identity is explicitly a fuzz pedal, even though its Gain control can reach amp-like breakup.
 
-Category handling remains conservative. HT-DIST, HT-DISTX, LT-DIST, and LT-METAL are not given secondary Overdrive identities from generic gain-control or saturation language alone. HT-DUAL, HT-METAL, LT-DUAL, Dept. 10 Dual Drive, and Dept. 10 Dual Distortion receive both Overdrive and Distortion because the manufacturer provides explicit product-level overdrive and distortion modes or descriptions.
+Ecstasy Blue Mini and Ecstasy Red Mini are consolidated with the corresponding Ecstasy identities. Burnley V2 and Wessex V2 are treated as revisions rather than separate dirt products. Booster functions and other secondary controls remain outside the target taxonomy.
 
-HT-DISTX remains distinct from HT-DIST because Blackstar gave it a separate product name and positioned it as the higher-gain filth model. HT-DUAL and LT-DUAL remain distinct named two-channel products. Dept. 10 Dual Drive and Dual Distortion remain separate named products. HT-BOOST and Dept. 10 Boost are excluded because they are boost products, even though their gain stages can push an amplifier into overdrive or distortion.
-
-No standalone Blackstar-branded Fuzz identity was established in the reviewed manufacturer catalogs and manuals, so none is promoted into the census.
+Current production status for the Bogner pedal range is not asserted because reviewed current manufacturer material is incomplete and current availability records are inconsistent. Historical Bogner dirt products remain in scope.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 076.
+Added and re-read Builder → Pedals research Block 077.
 
 Research block commit:
-`86b1a267cd9f18823533f7ceadda95b266d7575f`
+`e62a6df0caacaa41033dd974a2c4060541788899`
 
 Research block content SHA:
-`ae6b5fb9d6414cc400c8df99366263812875d820`
+`f1d5e2b95d5c09ef85a8d2e08b7df4b2d0c0a4d4`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
