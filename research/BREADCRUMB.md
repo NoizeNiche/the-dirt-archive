@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–102 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–103 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 095: Mask Audio Electronics
 - 096: Death By Audio
 - 097: Fjord Fuzz
 - 098: EarthQuaker Devices
@@ -23,31 +22,43 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 100: Electronic Audio Experiments
 - 101: Black Arts Toneworks
 - 102: Fairfield Circuitry
+- 103: Spaceman Effects
 
-## Block 102 — Fairfield Circuitry
-Fairfield Circuitry, Hull, Québec.
+## Block 103 — Spaceman Effects
+Spaceman Effects, Portland, Oregon.
 
 Overdrive:
-- Barbershop — consolidated across V1 / Millennium Edition
-- Modèle B — named Barbershop-based product
+- Apollo VIIb — current PDX Custom / Cadet versions consolidated
+- Polaris — current/legacy versions consolidated
+- Aphelion — historical / discontinued
+- Saturn V — historical / discontinued
 
 Distortion:
-- 20% More
+- None established as a standalone core identity
 
 Fuzz:
-- ~900
-- The Unpleasant Surprise
-- Four Eyes — historical / discontinued
+- Sputnik I
+- Sputnik IIb — historical / discontinued
+- Sputnik III — current/legacy versions consolidated
+- Gemini IV
+- Gemini III — historical / discontinued
+- Spacerocket II
+- Spacerocket — historical / discontinued
+- Rumblefuzz II
+- Rumblefuzz — historical / discontinued
+- Charon
+- Charon v2 Mod
+- Titan II — historical / discontinued
 
-Key restraint: Fairfield's own site explicitly labels Barbershop an Overdrive, 20% More a Slew Limiting Distortion, and ~900 plus The Unpleasant Surprise as fuzz products. Fairfield also identifies the discontinued Four Eyes as the fuzz lineage behind ~900. The Barbershop V1 and Millennium Edition are consolidated because Fairfield says the circuit topology was unchanged; Modèle B remains separate because Fairfield sells it as its own named pedal.
+Key restraint: Spaceman explicitly identifies Apollo VIIb as Preamp/Overdrive, Polaris as Resonant Overdrive, Aphelion as Harmonic Overdrive, and Saturn V as low-gain overdrive. Sputnik, Gemini, Spacerocket, Rumblefuzz, Charon, and Titan products are retained as Fuzz identities. Fuzz products are not duplicated into Overdrive or Distortion merely because their gain controls can reach those sounds. Atlas IV and Saturn VI remain excluded as boost-first products. Gemini III and Gemini IV are retained separately because Spaceman presents Gemini IV as a redesigned and expanded successor rather than a simple version label.
 
 ## Last research commit
-`0dabfd6e67c43de7770d2480d6f65a46cb0265da`
+`d8e1a3728ea46da54aaeddfa5f772aff7ff1d383`
 
 ## Last checkpoint
-- `CURRENT_STATE.md` updated in commit `82360eae03872b44fef35cfe192f5c6b8ebc6e85`
-- `research/builders/BLOCK-2026-09-17-102.md` content SHA: `f464c33c21ff761b42ab02d327000fb3ff7fd688`
-- `CURRENT_STATE.md` content SHA: `594f7007b701632c39862fc5d2d31e21c266b943`
+- `CURRENT_STATE.md` updated in commit `010604d2b671618c8eda4c9f1c386ef2e246a64b`
+- `research/builders/BLOCK-2026-09-17-103.md` content SHA: `17e58fa061faa390dc943adc40121b10495fdc0b`
+- `CURRENT_STATE.md` content SHA: `1d7920837acb822201297a2d4065ee482140af17`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
