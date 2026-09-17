@@ -47,6 +47,11 @@ The following builders are being prioritized because current first-party pages o
 | Fulltone | high | OCDv2; OCD-Germanium; Full-Drive1; Full-Drive2 v2; Full-Drive3; PlimSoul mkII; 69 Pedal mkII; 70 Pedal-BC; Octafuzz 2; Ultimate Octave; Queen Bee; Hi-Mu | https://www.fulltoneusa.com/products/ |
 | Keeley Electronics | high | Tube Drive; Manis Overdrive; Oxblood; Oxblood Germanium; Blues Disorder; Super Bass; SUNS Ultravoid Fuzz; El Rey Dorado | https://robertkeeley.com/product-category/distortion-drive-boost-fuzz/ |
 | Love Pedal | high | Tchula; 200lbs; Purple Plexi; Eternity Burst; Hermida Zendrive; Dover Drive; Amp Eleven; Hermida EPH3; Kalamazoo | https://www.lovepedal.com/pedals/ |
+| Maestro | high | FZ-1 Fuzz-Tone; FZ-1A Fuzz-Tone; FZ-1B Fuzz-Tone; FZ-1S Fuzz-Tone; FZ-2 Fuzz-Tone; FP-1 Fuzz Phazzer; FP-2 Fuzz Phazzer; FP-3 Fuzz Phazzer | https://www.maestroelectronics.com/en-US/Page/maestro-timeline |
+| Sola Sound / Colorsound | high | Tone Bender MkI; Tone Bender Mk1.5; Tone Bender MkII; Tone Bender MkIII; Tone Bender MkIV; Supa Tone Bender; Colorsound Bass Fuzz; Colorsound Tone Bender Jumbo | https://www.solasound.co.uk/ |
+| Shin-Ei | high | Companion FY-2; FY-6 Super Fuzz; Psychedelic Machine Vibe-Fuzz-Octave; Super Fuzz; Special Fuzz 260 | https://www.shin-ei.com/ |
+| Ibanez | high | Overdrive; Overdrive II; TS-808 Tube Screamer; TS-9 Tube Screamer; DS-1 Distortion; FZ-7 Fuzz; DS7 Distortion; PD7 Phat-Hed Bass Overdrive | https://www.ibanez.com/usa/support/catalogs/ |
+| Maxon | high | D&S Distortion & Sustainer; DS830 Distortion Master; OD-9; OD808; OD820; OSD-9; ST9Pro+; SD-9; FW10; FWA10; FEA10; FF10; FV10; RTO700; RTD800 | https://www.maxonfx.com/ |
 
 ## Current Web Verification Notes
 
@@ -121,6 +126,21 @@ Love Pedal's official pedal index exposes multiple dirt products including Tchul
 
 ### Fulltone historical/current identity note
 Fulltone's present official site identifies the current operation as Fulltone USA and states that Brad Jackson licensed Fulltone Musical Products in 2023, with Fulltone USA launching at Winter NAMM 2024. For the first-pass builder census, Fulltone remains the recognizable builder identity while the later deep-dive layer can distinguish historical Fulltone and current Fulltone USA production as needed. Source: https://www.fulltoneusa.com/pages/about
+
+### Maestro
+Maestro's official timeline confirms the FZ-1 Fuzz-Tone as a 1962 introduction and documents the FZ-1A era and the brand's broader effects history. Effects Database currently indexes numerous Maestro effects, including FZ-1, FZ-1S, FZ-2 and the FP-1/FP-2/FP-3 Fuzz Phazzer family. For the first pass, the FZ-series names are retained as separate recognized model names rather than splitting serial-number or cosmetic variants. Sources: https://www.maestroelectronics.com/en-US/Page/maestro-timeline and https://www.effectsdatabase.com/model/maestro
+
+### Sola Sound / Colorsound
+Historical research confirms a substantial Tone Bender family under the Sola Sound/Colorsound identity, including MkI, Mk1.5, MkII, MkIII, MkIV and Supa Tone Bender, with Colorsound Bass Fuzz and Tone Bender Jumbo also documented. The purpose here is catalog identification only; circuit lineage and detailed manufacturing relationships remain deferred to pedal deep dives. Sources: https://www.effectsdatabase.com/model/solasound/tonebender/mk3 and https://sugareelicks.com/pedal/sola-sound-colorsound-supa-tone-bender/
+
+### Shin-Ei
+Shin-Ei's current official site exposes several fuzz-oriented products including Companion FY-2, FY-6 Super Fuzz and Special Fuzz 260, and documents the Psychedelic Machine as a combination of vintage fuzz, vibe and octave effects. The site also describes the original Honey FY-6 as the 1967 source product for its reproduction. Sources: https://www.shin-ei.com/ and https://shin-ei.com/
+
+### Ibanez
+Ibanez's official catalog archive preserves historical catalogs across decades, while independent historical documentation records the early Overdrive and Overdrive II preceding the Tube Screamer line. The current Ibanez product search also maintains separate product-type categories for overdrive, distortion and fuzz. Sources: https://www.ibanez.com/usa/support/catalogs/, https://www.ibanez.com/usa/products/search/electronics/list/, and https://www.vintageguitar.com/1762/ibanez-overdrives/
+
+### Maxon
+Maxon is retained as a high-priority builder with a large dirt-product footprint. A current catalog index lists OD-9, OD808, OD820, OSD-9, D&S Distortion & Sustainer, DS830 Distortion Master, SD-9, FW10, FWA10, FEA10, FF10, FV10 and additional overdrive/distortion models. Primary Maxon site verification should be completed during the next Maxon-specific pass rather than treating the secondary catalog index as the final source. Source: https://www.maxonfx.com/ and current catalog index at https://onethousandpedals.com/brand/maxon
 
 ## Existing Historical Discovery Pool
 
