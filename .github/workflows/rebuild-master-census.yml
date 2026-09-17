@@ -22,13 +22,13 @@ jobs:
 
       - name: Commit generated census
         run: |
-          if git diff --quiet -- research/MASTER_PEDAL_CENSUS.csv; then
+          git add research/MASTER_PEDAL_CENSUS.csv
+          if git diff --cached --quiet -- research/MASTER_PEDAL_CENSUS.csv; then
             echo "Master census is already up to date."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add research/MASTER_PEDAL_CENSUS.csv
           git commit -m "data: generate master pedal census"
           git push
