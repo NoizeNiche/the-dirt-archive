@@ -25,10 +25,10 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 062**.
+Research blocks stored under `research/builders/` now run through **Block 063**.
 
 Latest addition:
-- Block 062: Keeley Electronics — Robert Keeley
+- Block 063: Wampler Pedals — Brian Wampler
 
 Recent blocks:
 - Block 055: BIXONIC — Bright International Corp. / BIXONIC Inc.; relaunched under Kikusui Electronics Corp.
@@ -39,72 +39,85 @@ Recent blocks:
 - Block 060: Prescription Electronics — Jack Brossart / Prescription Electronics Inc.
 - Block 061: Skreddy Pedals — Marc Ahlfs
 - Block 062: Keeley Electronics — Robert Keeley
+- Block 063: Wampler Pedals — Brian Wampler
 
-Blocks 001–061 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–062 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 062 summary
-Keeley Electronics' manufacturer material identifies Robert Keeley and describes the company as having begun with him and grown into its current Oklahoma City operation. The current manufacturer shop exposes a dedicated “Distortion, Drive, Boost & Fuzz” product bucket with multiple current dirt products, and individual manufacturer pages were used for category-overlap and legacy verification.
+### Block 063 summary
+Wampler's manufacturer material identifies Brian Wampler as founder, CEO, and chief engineer and says Wampler produces overdrive, distortion, and fuzz pedals. The current manufacturer site maintains separate Overdrive, Distortion, and Fuzz groupings plus an official archive of discontinued product manuals.
 
 Overdrive:
-- Tube Drive Twin Triode Dual Overdrive
-- Red Nectar Compressor and Overdrive
-- Manis Overdrive
-- Mk3 Driver — Andy Timmons Full Range Overdrive
-- Noble Screamer Overdrive and Boost
-- Blues Disorder Overdrive and Distortion
-- Super Rodent Overdrive and Distortion
-- SUPER BASS Overdrive and Distortion
-- D&M Drive
-- DDR — Drive Delay Reverb
-- DCR Drive Chorus Rotary
-- Aria Compressor Drive
-- El Rey Dorado
-- Super Phat Mod
-- Keeley Oxblood Overdrive
-- Red Dirt Overdrive
-- Red Dirt Germanium Overdrive
-- 1962 British Overdrive
-- 1962X 2-Mode Limited British Overdrive
-- Sweet Spot Johnny Hiland Super Drive Overdrive
-- Katana Blues Drive
-- Drive For a Cure
+- Golden Jubilee
+- Brent Mason: ReWired
+- Germanium Tumnus Deluxe
+- Mofetta
+- Moxie
+- Belle Overdrive
+- Pantheon Deluxe
+- Ratsbane
+- Andy Wood: Gearbox
+- Germanium Tumnus
+- Plexi Drive Mini
+- Triumph Overdrive
+- Pantheon Overdrive
+- Tumnus
+- Brad Paisley: Paisley Deluxe
+- Euphoria Overdrive
+- Tom Quayle: Dual Fusion
+- Plexi Drive Deluxe
+- Brad Paisley: Paisley Drive
+- Black '65
+- Clarksdale Overdrive
+- Hot Wired
+- Low Blow Bass Overdrive
+- Plexi-Drive
+- Thirty Something
+- Tweed '57
+- UnderDog
 
 Distortion:
-- SUPER BASS Overdrive and Distortion
-- Blues Disorder Overdrive and Distortion
-- Super Rodent Overdrive and Distortion
-- Angry Orange Distortion and Fuzz
-- OCTA PSI Transfigurating Fuzz
-- Filaments High Gain Distortion
-- Noble Screamer Overdrive and Boost
-- Synth-1 Reverse Attack Fuzz Wave Generator
+- Golden Jubilee
+- the Compulsion Drive (tcd)
+- Brent Mason: ReWired
+- Mofetta
+- Pantheon Deluxe
+- Ratsbane
+- Andy Wood: Gearbox
+- Plexi Drive Mini
+- Phenom Distortion
+- Pinnacle Deluxe v2
+- Dracarys Distortion
+- cataPulp
+- Hot Wired
+- Low Blow Bass Overdrive
+- Pinnacle Standard
+- Plextortion
+- SLOstortion
+- Sovereign Distortion
+- Triple Wreck
 
 Fuzz:
-- OCTA PSI Transfigurating Fuzz
-- Angry Orange Distortion and Fuzz
-- SUNS Ultravoid Fuzz
-- Fuzz Bender
-- Moon Op Amp Fuzz
-- Loomer
-- Dark Side
-- Monterey Rotary Fuzz Vibe
-- Synth-1 Reverse Attack Fuzz Wave Generator
-- Mk3 Driver — Andy Timmons Full Range Overdrive
-- Germanium Super Phat Mod
-- Fuzz Head
+- Cryptid Fuzz
+- Ratsbane
+- Velvet Fuzz
+- Fuzztration
+- Leviathan Fuzz
+- Triple Wreck
 
-Category overlaps were kept explicit and conservative. Noble Screamer, Blues Disorder, Super Rodent, and SUPER BASS are Overdrive + Distortion. Angry Orange is Distortion + Fuzz. OCTA PSI is Fuzz + Distortion. Mk3 Driver is Overdrive + Fuzz because the manufacturer explicitly documents square-wave fuzz/germanium fuzz-generator behavior. Synth-1 is Fuzz + Distortion based on the manufacturer title/description. Germanium Super Phat Mod is Overdrive + Fuzz. Cosmetic editions, B-stock pages, and substantially identical limited finishes are not split into duplicate identities.
+Category overlaps were kept explicit and conservative. Golden Jubilee, Brent Mason: ReWired, Mofetta, Pantheon Deluxe, Andy Wood: Gearbox, Plexi Drive Mini, Hot Wired, and Low Blow are Overdrive + Distortion. Ratsbane is Overdrive + Distortion + Fuzz. Triple Wreck is Distortion + Fuzz. Brad Paisley: Paisley Deluxe remains Overdrive only because its manufacturer description/manual identify two overdrive channels despite combined-category placement. Leviathan Fuzz remains Fuzz only because distortion-like control behavior is not treated as a separate manufacturer category.
 
-Boost-only, compressor-only, delay/reverb, modulation-first, utility, repair/service, apparel, and accessory products remain outside the target dirt census. The block deliberately avoids promoting generic saturation/crunch language into Distortion without explicit manufacturer support.
+The Fearbox is consolidated under Andy Wood: Gearbox because the manufacturer presents it as a limited Halloween take on that design rather than a separate base pedal identity. Black '65 Limited Edition and Tweed '57 Limited Edition are consolidated under their underlying Overdrive identities. SuperPlex, Cranked AC, and Cranked OD remain verification leads rather than categorized core identities because the manufacturer-originated material reviewed did not provide sufficiently explicit target-category wording.
+
+Boost-only / preamp utilities, compressors, delay/reverb/echo, modulation/chorus, utilities, and non-pedal products remain outside the target dirt census. Generic gain, saturation, crunch, clipping, and distortion-like wording is not enough to create an additional category without explicit manufacturer support.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 062.
+Added and re-read Builder → Pedals research Block 063.
 
 Research block commit:
-`1006c9e3258da0e04f5b382a1758d1b55d54527c`
+`88c751222ceb2b41c2d96235e06deccbb4628e59`
 
 Research block content SHA:
-`0b76c114c32e4c85b76c7333b3b634fea41bb3e4`
+`93b979ca3eb17a7d5cc4fd5bf7456d282ce2784f`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
