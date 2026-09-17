@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–043 are stored under `research/builders/`.
+- Fresh research Blocks 001–044 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -58,12 +58,13 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 041 covers Analog Alien — Jack & Joe Napoli, using Analog Alien's official catalog, individual product pages, manuals, and company material. The block preserves only explicit manufacturer-supported dirt classifications and does not split the 2026 Rumble Seat redesign into a duplicate pedal identity.
 - Block 042 covers IdiotBox Effects — Atarimatt, using IdiotBox Effects' official About page, current catalog, individual product pages, and Retired Designs page. Current and clearly documented retired dirt identities were included; boost-only, noise, modulation, octave-only, and ambiguous mystery products were left outside the categorized census.
 - Block 043 covers Amptweaker — James Brown / Jack Thompson, using Amptweaker's current catalog/history, current product pages/manuals, and manufacturer-originated historical announcements and archival material. Distinct Jr, Pro, Bass, and fuzz identities were included where documented, while limited/cosmetic editions were not split into duplicate census entries.
+- Block 044 covers Basic Audio — one-man shop, using Basic Audio's current official catalog and individual official product pages. The block is strongly fuzz-oriented, includes explicitly documented overdrive identities, and avoids promoting insufficiently documented catalog names into additional categories.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`5dd9f545b80d9009c34111aa77c4f9868c01a4d1`
+`24a4a00f2d1eb4224c26ae4fca54af1fbb155f0c`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
