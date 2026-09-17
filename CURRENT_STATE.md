@@ -25,10 +25,10 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 050.
+Research blocks stored under `research/builders/` now run through Block 051.
 
-Latest addition in Block 050:
-- Blackout Effectors — Kyle Tompkins
+Latest addition in Block 051:
+- Blackhawk Amplifiers — Brooks Blackhawk
 
 Recent blocks:
 - Block 046: Sitek Guitar Electronics — Andrzej “Andy” Sitek & Hania Sitek
@@ -36,6 +36,7 @@ Recent blocks:
 - Block 048: Big John Effects — Jan Detremerie, Stijn Vandebril, and Arnoud Faber
 - Block 049: Big Knob Pedals — Gary Kibler
 - Block 050: Blackout Effectors — Kyle Tompkins
+- Block 051: Blackhawk Amplifiers — Brooks Blackhawk
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -75,15 +76,13 @@ Block 047 records Subdecay — Brian Marshall dirt products using Subdecay's off
 Block 048 records Big John Effects — Jan Detremerie, Stijn Vandebril, and Arnoud Faber dirt products using the builder's official company history, current product pages, and owner manual. The block includes explicit historical and current overdrive, distortion, and fuzz identities while excluding insufficiently documented pre-order/prototype designs and non-target preamp/utility products.
 Block 049 records Big Knob Pedals — Gary Kibler dirt products using the builder's official About page, current pedal catalog, individual official product pages where available, and authoritative historical corroboration. The block includes explicit Overdrive, Distortion, and Fuzz relationships, treats Muff as a fuzz-family category for the archive taxonomy, and excludes non-dirt effects and unsupported historical identities.
 Block 050 records Blackout Effectors — Kyle Tompkins dirt products using manufacturer-originated archived product descriptions and manuals where recoverable, plus authoritative product archives and a period builder interview. The block records explicit overdrive and fuzz relationships, deliberately leaves Distortion empty rather than inferring it, and excludes boost-only and non-dirt effects.
+Block 051 records Blackhawk Amplifiers — Brooks Blackhawk dirt products using the builder's official About page, current product catalog, current individual product pages, and authoritative corroboration. The block includes explicit Drive/Overdrive, Distortion, and Fuzz relationships, consolidates ordinary revisions and finishes, and excludes boost-only, preamp-only, and non-dirt products.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 050.
+Added and re-read Builder → Pedals research Block 051.
 
 Research block commit:
-`a5d9141c7c1194975bdaeb4b227f09e354eb5142`
-
-Research block content SHA:
-`aa26b1d29f11d23bd989360d450b05565c631309`
+`7162039ae2d3de7ba316d9f2d262703291b6befa`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
