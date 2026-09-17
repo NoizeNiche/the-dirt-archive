@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **267 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **305 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **158 block files** are currently present: Blocks 001-069, 071-141, and 143-160.
+- **285 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **325 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **160 block files** are currently present: Blocks 001-069, 071-141, and 143-162.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 267 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 285 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -137,7 +137,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 110 | CopperSound Pedals | 143 | CopperSound |
 | 111 | Alexander Pedals | 143 | Alexander |
 | 112 | Bondi Effects | 022 |  |
-| 113 | Browne Amplification | 144 | Browne |
+| 113 | Browne Amplification | 144, 162 | Browne |
 | 114 | JPTR FX | 144 |  |
 | 115 | Black Mass Electronics | 145 |  |
 | 116 | Hungry Robot | 145 |  |
@@ -292,6 +292,24 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 265 | BoX | 160 |  |
 | 266 | BR Tech | 160 |  |
 | 267 | Bowman Audio Endeavors | 160 |  |
+| 268 | Braking Train Pedals | 161 |  |
+| 269 | Brantone Electronics | 161 |  |
+| 270 | Breakfast Audio | 161 |  |
+| 271 | BreakFuzz | 161 |  |
+| 272 | Brière Pedals | 161 |  |
+| 273 | Brimstone Audio | 161 |  |
+| 274 | British Pedal Company | 161 |  |
+| 275 | Brotech Electronics | 161 |  |
+| 276 | Broughton Audio | 161, 162 |  |
+| 277 | Bruce Bennett Music Labs | 162 |  |
+| 278 | Brunetti | 162 |  |
+| 279 | BSM | 162 |  |
+| 280 | BSQ Effects | 162 |  |
+| 281 | Budda | 162 |  |
+| 282 | Buffalo FX | 162 |  |
+| 283 | BuGGFX Pedals | 162 |  |
+| 284 | Build Your Own Clone | 162 | BYOC |
+| 285 | Byron Amplification | 162 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
@@ -301,6 +319,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 - **Beetronics FX** -> Blocks 020, 123
 - **Black Arts Toneworks** -> Blocks 101, 134, 159
 - **BlackOutEffectors** -> Blocks 050, 113
+- **Browne Amplification** -> Blocks 144, 162
 - **Catalinbread Effects** -> Blocks 004, 116, 132
 - **Crazy Tube Circuits** -> Blocks 017, 122
 - **Death By Audio** -> Blocks 010, 096, 135
