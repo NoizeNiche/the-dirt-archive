@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–117 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–118 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 110: Mr. Black
 - 111: Chase Bliss
 - 112: Hudson Electronics UK
 - 113: BlackOutEffectors
@@ -23,6 +22,7 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 115: OKKO FX
 - 116: Catalinbread Effects
 - 117: JHS Pedals
+- 118: Analog Man
 
 ## Block 116 — Catalinbread Effects
 Catalinbread Effects, Nic Harris / Catalinbread team.
@@ -140,15 +140,49 @@ Key overlaps:
 - Cheese Ball = Distortion + Fuzz. JHS explicitly titles it Distortion / Fuzz.
 - All American Distortion = Overdrive + Distortion + Fuzz historically. JHS explicitly describes its range from clean/grit and heavy overdrive through compressed sustaining fuzz.
 
-Key restraint: 3 Series Distortion remains Distortion-only despite documented heavy-overdrive and fuzz tones. 3 Series Fuzz remains Fuzz-only despite documented distortion and pushed-amp overdrive tones. Coyote remains Fuzz because its primary identity is octave fuzz. Double Dragon is excluded because its primary identity is an octave device. PackRat White is consolidated into PackRat. Muffuletta modes are not split into separate pedals. DIY kits, buffers, utilities, modulation, delay, reverb, and other non-target products remain outside scope.
+Key restraint: 3 Series Distortion remains Distortion-only despite documented heavy-overdrive and fuzz tones. 3 Series Fuzz remains Fuzz-only despite documented distortion and pushed-amp overdrive sounds. Coyote remains Fuzz because its primary identity is octave fuzz. Double Dragon is excluded because its primary identity is an octave device. PackRat White is consolidated into PackRat. Muffuletta modes are not split into separate pedals. DIY kits, buffers, utilities, modulation, delay, reverb, and other non-target products remain outside the dirt census.
+
+## Block 118 — Analog Man
+Analog Man / Mike Piera is a previously uncovered builder with a focused but historically significant dirt catalog. The builder's own site documents handmade Sun Face, Astro Tone, Peppermint Fuzz, Sun Lion, King Of Tone, and Prince Of Tone products.
+
+Overdrive:
+- King Of Tone — current
+- Prince Of Tone — current
+
+Distortion:
+- King Of Tone — current; explicit Distortion mode
+- Prince Of Tone — current; explicit Distortion mode
+
+Fuzz:
+- Sun Face — current
+- Astro Tone — current; Fuzz product
+- Peppermint Fuzz — current/legacy; Fuzz product
+- Sun Lion — current; Fuzz/Booster combination
+
+Key overlaps:
+- King Of Tone = Overdrive + Distortion. Analog Man's current product page and V4 manual explicitly provide separate OD and DISTORTION modes for each side.
+- Prince Of Tone = Overdrive + Distortion. Analog Man's manual explicitly lists Normal Overdrive and Distortion modes, with Boost treated as outside the target taxonomy.
+
+Key restraint:
+- King Of Tone Ver. 2 / Ver. 3 / Ver. 4 are treated as one King Of Tone lineage rather than separate dirt identities.
+- Prince Of Tone remains one product despite its internal mode choices.
+- Sun Face germanium/silicon transistor options are not split into separate pedals.
+- Peppermint Fuzz / Dark Peppermint Fuzz are consolidated as one Peppermint Fuzz identity.
+- Sun Lion is recorded as Fuzz because Analog Man explicitly describes it as the combination of Sun Face fuzz and Beano Boost; the Beano side is outside the target taxonomy.
+- Astro Tone remains Fuzz only. Analog Man describes it as a fuzz and notes that it can sit somewhere between fuzz and distortion; that operating range is not enough to create a separate Distortion entry.
+- Sun Bender / early three-transistor Tonebender work is not added as a separate current product because Analog Man's own history says those versions were stopped rather than maintaining a clean independent product listing.
+- Modified Boss, DOD, MXR, Ibanez, and other third-party pedals are not counted as Analog Man-built product identities.
+- Beano Boost, Bad Bob, and other boost-first products remain outside the dirt taxonomy.
+- Comprossor, Juicer, Chorus, delay, buffers, switchboxes, and other non-target products remain outside scope.
+- No components, schematics, cloning, PCB, BOM, or internal-build information are recorded.
 
 ## Last research commit
-`93144559b2668dd8ffb85cb86f7717705a5dcee2`
+`5cb6a2ea465f1185b13d6aae47f3f0505be241ce`
 
 ## Last checkpoint
-- `CURRENT_STATE.md` updated through Block 117
-- `research/builders/BLOCK-2026-09-17-117.md` saved and verified
-- `CURRENT_STATE.md` now records Block 117 and points to Block 118
+- `research/builders/BLOCK-2026-09-17-118.md` saved and verified
+- `CURRENT_STATE.md` updated through Block 118
+- `research/BREADCRUMB.md` updated through Block 118
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
