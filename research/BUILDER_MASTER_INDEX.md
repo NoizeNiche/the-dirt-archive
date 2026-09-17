@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **230 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **264 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **154 block files** are currently present: Blocks 001-069, 071-141, and 143-156.
+- **243 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **277 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **155 block files** are currently present: Blocks 001-069, 071-141, and 143-157.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 230 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 243 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -255,6 +255,19 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 228 | BearFoot FX | 156 |  |
 | 229 | BECOS FX | 156 |  |
 | 230 | Beta Aivin | 156 |  |
+| 231 | BFFX Boutique Pedals | 157 |  |
+| 232 | Bias | 157 |  |
+| 233 | Big Bite Fx | 157 |  |
+| 234 | Big Ear NYC | 157 |  |
+| 235 | Big Game Pedals | 157 |  |
+| 236 | Big Lloyde | 157 |  |
+| 237 | Big Monk Electronic Device Co. | 157 |  |
+| 238 | Big Tone Music Brewery | 157 |  |
+| 239 | Big White Monkey Amps | 157 |  |
+| 240 | Bigfoot Engineering | 157 |  |
+| 241 | Bigfoot F.X. | 157 |  |
+| 242 | BigNoise Amplification | 157 |  |
+| 243 | Billionaire (by Danelectro) | 157 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
