@@ -14,24 +14,25 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–065 are stored under `research/builders/`.
-- Blocks 001–064 remain the established prior research stream in the repository.
+- Fresh research Blocks 001–066 are stored under `research/builders/`.
+- Blocks 001–065 remain the established prior research stream in the repository.
 - Block 061 covers Skreddy Pedals — Marc Ahlfs, using Skreddy Pedals' official About page, current Overdrive/Fuzz/all-products indexes, Big Muff and ToneBender variant indexes, and individual manufacturer product pages/manuals. The block records 13 current Overdrive identities; explicit Distortion identities are kept conservative because the current manufacturer site has no separate Distortion category; and current manufacturer Fuzz material supplies the fuzz-family identities. Non-dirt utilities, modulation, delay, boost-only products, and amp-emulator platforms are excluded.
 - Block 062 covers Keeley Electronics — Robert Keeley, using Keeley Electronics' official About page, current shop/product index, current Distortion/Drive/Boost/Fuzz category, and individual manufacturer product/archive pages. The block records current and clearly documented historical Overdrive, Distortion, and Fuzz identities, keeps explicit category overlaps, and consolidates cosmetic, B-stock, and closely related limited-edition variants.
 - Block 063 covers Wampler Pedals — Brian Wampler, using Wampler's official About page, current Distortion/Overdrive and Fuzz catalog/tag indexes, official Downloads/manual archive, and individual manufacturer product pages/manuals. The block records current and clearly documented historical Overdrive, Distortion, and Fuzz identities, keeps explicit category overlaps, consolidates limited/cosmetic editions, and leaves weakly supported historical names as verification leads rather than forcing them into the census.
 - Block 064 covers Walrus Audio, using Walrus Audio's official About page, current Overdrive/Fuzz/Distortion catalog, current Fuzz collection, official manuals archive, official discontinued-pedal collection, and manufacturer-authored product/release pages. The block records explicitly supported Overdrive, Distortion, and Fuzz identities, keeps category handling conservative, distinguishes the original 385 from the later 385 MKII, and consolidates cosmetic/B-stock/limited-edition variants.
 - Block 065 covers ZVEX Effects — Zachary Vex, using ZVEX's official Guitar Pedals catalog, current individual product pages, manufacturer Terms/product trademark material, manufacturer artist/product references, and the manufacturer-authored Box of Metal instruction manual. The block follows ZVEX's current Distortion and Fuzz taxonomy, records no explicit Overdrive identities, keeps Box of Metal as a historical Distortion identity, and consolidates Vexter/cosmetic/custom variants without inflating the product census.
+- Block 066 covers MXR — Dunlop Manufacturing, Inc., using Dunlop's official MXR brand/catalog pages, MXR legacy catalog, individual manufacturer product pages, official manuals, and manufacturer-authored MXR history/product material. The block records a broad manufacturer-supported Overdrive, Distortion, and Fuzz census, keeps functional category overlaps such as Duke of Tone and Raijin Drive explicit, consolidates version/finish editions, and leaves Jail Guitar Doors Drive as a verification lead because product-level target-category wording was insufficient.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`4e6bec9158968c7a1fe796d6972f878e9f443efd`
+`3d950fe61a2529c25dc5c2f786ccc7a1b06989ee`
 
 ## Last checkpoint files
-- `CURRENT_STATE.md` updated in commit `9b3375450a88b52b2a50b3fe00be9ee61ec739b7`
-- `research/builders/BLOCK-2026-09-17-065.md` content SHA: `b9e3426ac847fd375b2ef5c8522b7284ad0b5a16`
-- `CURRENT_STATE.md` content SHA: `b159249dcdd9a15e72e81b829b98cfa30234ac7f`
+- `CURRENT_STATE.md` updated in commit `3f446ad31e35b42c1375205abd9ce97799943c9a`
+- `research/builders/BLOCK-2026-09-17-066.md` content SHA: `34c979e7edc4056867cf14780011684aae5b5cbe`
+- `CURRENT_STATE.md` content SHA: `ff360eb48347200bb5a1201a4ee3bf03beb99e4f`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
