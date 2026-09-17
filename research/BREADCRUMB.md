@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–122 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–123 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 114: Mythos Pedals
 - 115: OKKO FX
 - 116: Catalinbread Effects
 - 117: JHS Pedals
@@ -24,6 +23,7 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 120: Greer Amps
 - 121: Suhr
 - 122: Crazy Tube Circuits
+- 123: Beetronics FX
 
 ## Block 118 — Analog Man
 Analog Man / Mike Piera.
@@ -193,13 +193,41 @@ Key overlaps:
 
 Key restraint: Orama's amp-style drive section is not promoted to Overdrive because the builder distinguishes it from a typical overdrive; Triptychon likewise keeps its separate drive section outside the Overdrive label. Constellation editions are consolidated. Motherload remains one two-circuit product. Routine versions, cosmetics, and boost-only products remain outside separate dirt identities. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
+## Block 123 — Beetronics FX
+Beetronics FX is a previously uncovered builder with a clearly documented Overdrive + Fuzz catalog.
+
+Overdrive:
+- Fatbee
+- Overhive
+- Wannabee / Beelateral Buzz
+- Royal Jelly
+- Nectar Tone Sweetener
+
+Distortion:
+- None established in this block
+
+Fuzz:
+- Octahive V2
+- Abelha Tropical Fuzz
+- Vezzpa Octave Stinger
+- Swarm Fuzz Harmonizer
+- Royal Jelly
+- Nectar Tone Sweetener
+- Tuna Fuzz
+
+Key overlaps:
+- Royal Jelly = Overdrive + Fuzz
+- Nectar Tone Sweetener = Overdrive + Fuzz
+
+Key restraint: Beetronics generic mentions of distortion are not enough to establish a separate Distortion category. Octahive V2, Vezzpa, Swarm, and Abelha remain Fuzz despite octave/harmonizer modes. Wannabee remains Overdrive only. Limited editions, custom-shop units, artwork, and enclosure variants are consolidated rather than multiplied. Tuna Fuzz remains one fuzz identity despite its unusual can enclosure. Modulation/time-based and boost-first products remain outside scope. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+
 ## Last research commit
-`bf1bf044652c466ccefda039c30d0d4c4bbe9fdb`
+`2563cd194568648a5fb8c594fc464dd376a6e842`
 
 ## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-122.md` saved
-- `CURRENT_STATE.md` updated through Block 122
-- `research/BREADCRUMB.md` updated through Block 122
+- `research/builders/BLOCK-2026-09-17-123.md` saved
+- `CURRENT_STATE.md` updated through Block 123
+- `research/BREADCRUMB.md` updated through Block 123
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
