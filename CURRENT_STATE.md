@@ -25,49 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 099**.
+Research blocks stored under `research/builders/` now run through **Block 100**.
 
 Latest addition:
-- Block 099: Caroline Guitar Company
+- Block 100: Electronic Audio Experiments
 
 Recent blocks:
-- Block 094: Dwarfcraft Devices
 - Block 095: Mask Audio Electronics
 - Block 096: Death By Audio
 - Block 097: Fjord Fuzz
 - Block 098: EarthQuaker Devices
 - Block 099: Caroline Guitar Company
+- Block 100: Electronic Audio Experiments
 
-Blocks 001–098 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
-
-### Block 097 summary
-Fjord Fuzz / Daniel Thornhill is treated as a previously uncovered builder identity based in Bergen, Norway.
-
-Overdrive:
-- Embla — historical / discontinued identity
-
-Distortion:
-- None established with sufficient product-level evidence
-
-Fuzz:
-- Odin
-- Midgard
-- Thor
-- Midnattsol
-- Dovre
-- Hedda
-- Måne
-- SOL
-- Embla
-- Bifrost
-- Gjallarhorn
-- Berserk
-- Freia
-- Kvasir
-- Mjølner
-- Bjørn
-- Bufo
-- Fjord-Fuzz Super-Fuzz
+Blocks 001–099 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 098 summary
 EarthQuaker Devices is treated as a previously uncovered builder with a broad dirt history across current and legacy products.
@@ -114,8 +85,10 @@ Fuzz:
 - Tone Reaper — historical / discontinued
 - Dream Crusher — historical / discontinued
 
+Gary and Black Ash are the clearest explicit Overdrive + Fuzz overlaps. The Life Pedal remains Distortion despite its octave-fuzz-inspired stage.
+
 ### Block 099 summary
-Caroline Guitar Company is treated as a previously uncovered builder with a mixed historical dirt catalog. Caroline's own catalog and historical pages explicitly identify overdrive, distortion, and fuzz products. The archive keeps hybrid product identity intact and does not turn ordinary gain-range descriptions into extra categories.
+Caroline Guitar Company is treated as a previously uncovered builder with a mixed historical dirt catalog.
 
 Overdrive:
 - Aaron Graves Overdrive
@@ -137,21 +110,48 @@ Fuzz:
 - Olympia — historical / discontinued
 - Wave Cannon / Cannonball — historical identity
 
-Wave Cannon/Cannonball is retained across all three target categories because Caroline's own historical comparison and Cannonball material explicitly describe its overdrive, distortion, and fuzzy Havoc behavior. CROM is retained in both Fuzz and Distortion because Caroline explicitly calls it a “fuzzstortion.” Hawaiian Pizza, Shigeharu, and Olympia remain Fuzz identities even where Caroline describes drive-like operating ranges. Icarus is retained as Overdrive because the official page explicitly identifies rich overdrive, alongside buffer/boost functions that remain outside the target categories.
+Wave Cannon/Cannonball is retained across all three target categories because Caroline's own historical material explicitly describes overdrive and distortion tones plus fuzzy Havoc behavior. CROM is retained in both Fuzz and Distortion because Caroline calls it a “fuzzstortion.” Hawaiian Pizza and Shigeharu remain Fuzz identities despite drive-like ranges; Icarus remains Overdrive because Caroline explicitly identifies rich overdrive.
 
-Météore, Kilobyte/Megabyte delays, Arigato, Somersault, Parabola, and other modulation/delay/reverb products remain excluded. Limited colorways and special variants are consolidated with the underlying pedal identity.
+### Block 100 summary
+Electronic Audio Experiments is treated as a previously uncovered builder with a substantial lineup across Overdrive, Distortion, and Fuzz. EAE's current catalog and Legacy pages explicitly identify its dirt products, and its own drive guide explains that the category boundaries are deliberately blurry. The archive still uses the manufacturer's named product identity rather than automatically counting every gain range as a separate category.
+
+Overdrive:
+- Halberd
+- Citadel
+- Model feT
+- Limelight
+- The Bard
+- Dagger — historical / discontinued
+- 0xEAE Boost — historical / discontinued collaboration
+- Dude Incredible / Tube Voice channel — historical / discontinued
+- Greathammer
+
+Distortion:
+- Longsword
+- Surveyor
+- Dude Incredible / Tube Voice channel — historical / discontinued
+
+Fuzz:
+- Glaive
+- 0xEAE Fuzz — historical / discontinued collaboration
+- Eldritch Blast — historical / discontinued collaboration
+- Dude Incredible / Percolate channel — historical / discontinued
+
+The clearest hybrid case is Dude Incredible, which EAE documents as a box combining an IVP-style transformer-loaded overdrive channel with a Percolator-style fuzz channel. Longsword and Surveyor are retained as Distortion identities. Halberd, Citadel, Model feT, Limelight, Bard, Dagger, 0xEAE Boost, and Greathammer are retained as Overdrive identities. Glaive, 0xEAE Fuzz, Eldritch Blast, and the Percolate side of Dude Incredible are retained as Fuzz identities.
+
+Beholder, Sending, Hypersleep, Mirror House, Scattering, Prismatic Wall, µ Blaster, 0xEAE Bass Driver, and other reverb/delay/modulation/boost/amp-oriented products remain excluded where their primary identity is outside the three target categories. B-stock, color, and ordinary revision differences are consolidated; Glaive and 0xEAE Fuzz remain separate named products because EAE presents Glaive as a new product built from the earlier circuit lineage rather than as a simple version number.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 099.
+Added and re-read Builder → Pedals research Block 100.
 
 Research block commit:
-`72a1fd4fa202d07029301b390c369c9e2b12300c`
+`c61281d84e8a1ac5b5c122b553d1fb5a0e2b5ec0`
 
 Research block content SHA:
-`b33f13093f0c4084533dbdc056888052029ef89c`
+`d1e...`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
