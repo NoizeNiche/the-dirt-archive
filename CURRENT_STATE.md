@@ -25,43 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 124**.
+Research blocks stored under `research/builders/` now run through **Block 125**.
 
 Latest addition:
-- Block 124: Mad Professor Amplification
+- Block 125: Barber Electronics
 
 Recent blocks:
-- Block 119: Benson Amps
 - Block 120: Greer Amps
 - Block 121: Suhr
 - Block 122: Crazy Tube Circuits
 - Block 123: Beetronics FX
 - Block 124: Mad Professor Amplification
+- Block 125: Barber Electronics
 
-Blocks 001–123 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
-
-### Block 119 summary
-Benson Amps is a previously uncovered builder with a compact but clear dirt catalog.
-
-Overdrive:
-- Preamp Pedal
-- Germanium Preamp Pedal
-- Germanium Fuzz — current/legacy; explicit overdrive + fuzz documentation
-
-Distortion:
-- Portable Distortion 424 MKII
-
-Fuzz:
-- Preamp Pedal
-- Germanium Preamp Pedal
-- Germanium Fuzz — current/legacy
-- Stonk Box — current/legacy
-- Störkn B0kš
-- Deep Sea Diver Fuzz-Echo
-
-Key overlaps: Preamp Pedal = Overdrive + Fuzz; Germanium Preamp Pedal = Overdrive + Fuzz; Germanium Fuzz = Overdrive + Fuzz.
-
-Key restraint: 424 MKII remains Distortion only; Stonk Box, Störkn B0kš, and Deep Sea Diver remain Fuzz; Germanium Boost and other non-target products remain outside scope.
+Blocks 001–124 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 120 summary
 Greer Amps is a previously uncovered builder with a broad dirt catalog spanning Overdrive, Distortion, and Fuzz, including current and historical products.
@@ -138,7 +115,7 @@ Key overlap: Eclipse = Overdrive + Distortion.
 Key restraint: Riot remains Distortion only despite its ability to push an amp into natural overdrive; Rufus and Thornicus remain Fuzz only. Named Reloaded versions are retained as lineage products, while minor hardware and finish changes are consolidated. Boost, compression, modulation, delay, buffers, and tone tools remain outside scope.
 
 ### Block 122 summary
-Crazy Tube Circuits is a previously uncovered builder with a broad dirt catalog that includes current and historical Overdrive, Distortion, and Fuzz products.
+Crazy Tube Circuits is a previously uncovered builder with a broad dirt catalog spanning Overdrive, Distortion, and Fuzz, including current and historical products.
 
 Overdrive:
 - Stardust V3
@@ -171,7 +148,7 @@ Fuzz:
 
 Key overlaps: Space Charged V2 = Overdrive + Distortion; Ziggy V2 = Overdrive + Distortion; Motherload = Overdrive + Distortion + Fuzz; Venus = Overdrive + Distortion; Starlight = Overdrive + Distortion + Fuzz; Limelight = Distortion + Fuzz.
 
-Key restraint: Orama's amp-style drive section is not promoted to Overdrive because the builder distinguishes it from a typical overdrive; Triptychon likewise keeps its separate drive section outside the Overdrive label. Constellation editions are consolidated. Motherload remains one two-circuit product. Routine versions, cosmetics, and boost-only products remain outside separate dirt identities. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+Key restraint: Orama's amp-style drive section is not promoted to Overdrive because the builder distinguishes it from a typical overdrive; Triptychon likewise keeps its separate drive section outside the Overdrive label. Constellation editions are consolidated. Motherload remains one two-circuit product. Routine versions, cosmetics, and boost-only products remain outside separate dirt identities.
 
 ### Block 123 summary
 Beetronics FX is a previously uncovered builder with a clearly documented Overdrive + Fuzz catalog.
@@ -229,21 +206,54 @@ Fuzz:
 - Fire Red Fuzz — historical/discontinued
 - Loud 'n Proud — historical/discontinued
 
-Key overlap:
-- Loud 'n Proud = Overdrive + Fuzz. Mad Professor explicitly combines a medium-gain Marshall-style overdrive circuit with a dedicated vintage germanium-style fuzz section.
+Key overlap: Loud 'n Proud = Overdrive + Fuzz.
 
-Key restraint: Amber and Albert's remain Overdrive only despite fuzz-like behavior at high settings. Bluebird and Blueberry Bass remain Overdrive only despite higher settings producing distortion. Royal Blue remains Overdrive only despite its range into distortion. Super Black is excluded as an amp-in-a-box product even though it contains a separate Sweet Honey overdrive circuit. Evolution Orange Underdrive, Simble Predrive, Ruby Red Booster, and non-dirt effects remain outside scope. Routine handwired/factory versions, reissues, and minor variants are consolidated into product lineages. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+Key restraint: Amber and Albert's remain Overdrive only despite fuzz-like behavior at high settings. Bluebird and Blueberry Bass remain Overdrive only despite higher settings producing distortion. Royal Blue remains Overdrive only despite its range into distortion. Super Black is excluded as an amp-in-a-box product even though it contains a separate Sweet Honey overdrive circuit. Evolution Orange Underdrive, Simble Predrive, Ruby Red Booster, and non-dirt effects remain outside scope.
+
+### Block 125 summary
+Barber Electronics is a previously uncovered builder with a large historical/current catalog centered on Overdrive, plus clear Distortion and Fuzz identities.
+
+Overdrive:
+- Midnight Standard — current
+- Gain Changer / Gain Changer SR — current lineage
+- Compact Direct Drive / Direct Drive lineage — current/historical
+- LTD / Silver LTD lineage — historical/discontinued
+- 1/2 Gainer — historical/discontinued
+- unLimiTeD / unLTD 2-Channel Overdrive — historical/discontinued
+- Burn Unit / Burn Unit 2 / Burn Unit EQ / Compact Burn Unit — historical/current lineage
+- Small Fry Burn Unit — historical/discontinued
+- Tone Pump / Tone Pump EQ / Tone Pump II — historical lineage
+- Deep Fryer — historical/limited
+- B-Custom Cool — historical/custom-shop
+- B-Custom Super Sport — historical/custom-shop
+- B-Custom Dual Discrete — historical/custom-shop
+- FWW BUSS — current
+- FWW BUSS HG — current
+- FWW Plus — current
+
+Distortion:
+- Dirty Bomb — historical/discontinued
+- Burn Unit lineage
+- Gain Changer lineage
+
+Fuzz:
+- Exacta — current
+- Trifecta — historical/discontinued
+
+Key overlaps: Burn Unit = Overdrive + Distortion; Gain Changer = Overdrive + Distortion.
+
+Key restraint: Direct Drive, LTD, Burn Unit, Tone Pump, and related versions are treated as lineages rather than multiplied by routine revisions. B-Custom Dual Discrete is a custom combination of existing Barber overdrives, not a unique core dirt design. Exacta and Trifecta remain Fuzz only. Dirty Bomb remains Distortion only. Deep Fryer remains Overdrive only despite reports of heavier drive at high settings. FWW BUSS, FWW BUSS HG, and FWW Plus remain Overdrive entries. Barb EQ, Linden EQ, Launch Pad, Tone Press, and other non-dirt Barber products remain outside scope.
 
 ## Last completed research action
-Added and saved Builder → Pedals research Block 124: Mad Professor Amplification.
+Added and saved Builder → Pedals research Block 125: Barber Electronics.
 
 Research block commit:
-`322c510c339830460d8d7f785e4f828279688d72`
+`97c1a100e2f14710b127d985f848ff5ef76ca4d3`
 
 ## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-124.md` saved
-- `CURRENT_STATE.md` updated through Block 124
-- `research/BREADCRUMB.md` updated through Block 124
+- `research/builders/BLOCK-2026-09-17-125.md` saved
+- `CURRENT_STATE.md` updated through Block 125
+- `research/BREADCRUMB.md` updated through Block 125
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
