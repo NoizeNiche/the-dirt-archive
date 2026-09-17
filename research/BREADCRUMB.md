@@ -12,8 +12,8 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Repository reset is the current source of truth.
 - Permanent project boot instructions, archive governance, and current-state tracking are active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–095 are stored under `research/builders/`.
-- Blocks 001–060 remain preserved as repository research files; Blocks 061–095 are summarized below for quick continuity.
+- Fresh research Blocks 001–096 are stored under `research/builders/`.
+- Blocks 001–060 remain preserved as repository research files; Blocks 061–096 are summarized below for quick continuity.
 - Block 061: Skreddy Pedals. Manufacturer-supported Overdrive/Fuzz census; conservative Distortion handling; non-dirt utilities and amp-emulator platforms excluded.
 - Block 062: Keeley Electronics. Current and historical Overdrive, Distortion, and Fuzz identities; explicit overlaps retained; cosmetic/B-stock/limited variants consolidated.
 - Block 063: Wampler Pedals. Manufacturer-supported Overdrive, Distortion, and Fuzz census; explicit overlaps retained; weak historical leads not promoted.
@@ -49,16 +49,18 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 093: Empress Effects. Empress Effects Inc. is treated as an unrepresented builder identity with a compact standalone dirt catalog. Overdrive includes Drive, Germ Drive, and Multidrive. Distortion includes Heavy, Heavy Menace, Distortion, and Multidrive. Fuzz includes Fuzz and Multidrive. Multidrive is the explicit three-category overlap. Heavy and Heavy Menace are Distortion only; Heavy Menace Limited Edition is consolidated with Heavy Menace as a colourway. ZOIA modules and factory patches remain excluded as modular/multi-effect functions rather than standalone dirt pedals.
 - Block 094: Dwarfcraft Devices. Dwarfcraft Devices is treated as an unrepresented builder identity with a historically broad and highly experimental standalone dirt catalog. Overdrive includes Gears, The Internet, Spectacular Aenima, and Robot Devil. Distortion includes Abaddon, Baby Thundaa / Baby Thunder, Eau Claire Thunder, The Internet, and The Great Destroyer. Fuzz includes Baby Thundaa / Baby Thunder, Bit Mangler, Dream Mangler, Eau Claire Thunder, HAX, Hair of the Dog, Necromancer, Reese Lightning, Robot Devil, Rot Yr Brain, SheFuzz / formerly Shiva, Silver Rose v2, Spectacular Aenima, Surrender Dorothy, The Great Destroyer, The Secret Destroyer, and Zhago. The strongest documented overlaps are The Internet (OD + Distortion), Robot Devil (Fuzz + OD), Spectacular Aenima (OD + Fuzz), Baby Thundaa / Baby Thunder (Fuzz + Distortion), Eau Claire Thunder (Fuzz + Distortion), and The Great Destroyer (Fuzz + Distortion). Pure synth, oscillator, pitch, modulation, utility, and other non-dirt products remain excluded.
 - Block 095: Mask Audio Electronics. Official MAE catalog and product pages identify a strongly fuzz-oriented physical pedal lineup and a clear Rat-style Trust Yourself distortion. Overdrive includes Germanium Part Garden, Part Garden, and LARAN (prebuilt). Distortion includes TRUST YOURSELF. Fuzz includes Germanium Part Garden, Little Acorn, MAYBE, CLUBBER LANG, Hot Water, BSRI x MAE | MAYBE THE REAL TREASURE..., CIVIL MATH, BLACK MATH, PART GARDEN, CASCADER, Screws, LARAN (prebuilt), and historical/discontinued YES!, NO., and Ears Come To Die. DIY-only projects, ALONE/NECKBRACE modulation, SEND-IN MODS, and the unresolved ??? listing remain excluded. Germanium Part Garden and Part Garden are explicit Overdrive + Fuzz overlaps; LARAN (prebuilt) is retained in both because the official page describes a mild-overdrive to full-fuzz range.
+- Block 096: Death By Audio. Official Death By Audio material identifies Oliver Ackermann as founder and documents distinct Overdrive, Distortion, and Fuzz collections. Overdrive includes Interstellar Overdriver. Distortion includes Germanium Filter and Absolute Destruction. Fuzz includes Fuzz War, Bass War, Supersonic Fuzz Gun, Apocalypse, Octave Clang V2, Crossover Fuzz, and Absolute Destruction. Fuzz War, Bass War, Supersonic Fuzz Gun, Apocalypse, Octave Clang V2, and Crossover Fuzz remain Fuzz-only despite neighboring gain ranges; Absolute Destruction is retained in both Distortion and Fuzz. Evil Filter, Echo Dream 2, Time Shadows II, Amp Crash, Thee Treble Overload, and other non-target/multifunction products remain excluded, while Armageddon and Waveformer Destroyer remain unpromoted historical leads pending direct verification.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`9953b35b3f7cda161d407900ab235772202ef1ab`
+`c53c180adbd887caf2691fcb101f095c72a5d654`
 
 ## Last checkpoint files
-- `CURRENT_STATE.md` updated in commit `7778187a756edea25e9e9bd2971c04abbaedc3e4`
-- `research/builders/BLOCK-2026-09-17-095.md` content SHA: `39f1fab1c65102f280e75c9b796a9da15bda1f78`
+- `CURRENT_STATE.md` updated in commit `789efb98ee208f9b5faeb0918b9629c0715e378d`
+- `research/builders/BLOCK-2026-09-17-096.md` content SHA: `8984e595d87613b1b85da0f5506fadc3dace18da`
+- `CURRENT_STATE.md` content SHA: `ddc81c430b6b1dfe3de39b77bfea45e1c9e944e6`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
