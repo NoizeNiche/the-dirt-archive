@@ -5,12 +5,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **179 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **213 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **145 block files** are currently present: Blocks 001-069, 071-141, and 143-147.
+- **191 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **225 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **146 block files** are currently present: Blocks 001-069, 071-141, and 143-148.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 179 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 191 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -203,6 +203,18 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 177 | Asheville Guitar Pedals | 147 |  |
 | 178 | Astral ToneWorx | 147 |  |
 | 179 | Atlas Pedal | 147 |  |
+| 180 | Audile | 148 |  |
+| 181 | Audio Kitchen | 148 |  |
+| 182 | Audio Matrix | 148 |  |
+| 183 | Audio Monk | 148 |  |
+| 184 | Aul Instruments | 148 |  |
+| 185 | Aural Dream | 148 |  |
+| 186 | Auralux | 148 |  |
+| 187 | Austone Electronics | 148 |  |
+| 188 | Audible Disease | 148 |  |
+| 189 | AWOL Pedals | 148 |  |
+| 190 | AXiom Effects | 148 |  |
+| 191 | Axis Guitar Effects | 148 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
