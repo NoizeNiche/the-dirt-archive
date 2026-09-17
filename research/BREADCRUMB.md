@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–035 are stored under `research/builders/`.
+- Fresh research Blocks 001–036 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -50,12 +50,13 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 033 covers Foxrox Electronics and Pete Cornish / Pete Cornish Effects using current and historical manufacturer catalog/product pages and official product documentation.
 - Block 034 covers Himmelstrutz Elektro Art — Joakim Hedeby, using Himmelstrutz's official download archive, owner manuals, and historical manufacturer documentation. Unclear identities remain verification leads rather than forced classifications.
 - Block 035 covers Daredevil Pedals — Johnny Wator, using Daredevil's official catalog/product pages and authoritative distributor/historical catalog references. Boost-only products remain outside the categorized dirt census, and British Black Belt remains a verification lead rather than a forced classification.
+- Block 036 covers Dr. Scientist Sounds using the current official catalog and individual official product pages. The block conservatively excludes non-dirt products and does not promote unsupported historical names.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`58dd31cdb274d55e556aea5d101a665faf0f41a6`
+`574ed1f8881804a1d49af16a3027d4259763d361`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
