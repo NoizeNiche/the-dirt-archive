@@ -25,19 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 015.
+Research blocks stored under `research/builders/` now run through Block 016.
 
-The repository currently records a growing set of established and boutique builders. The latest additions are Barber Electronics and Black Arts Toneworks.
+The latest additions are Wren and Cuff, Menatone, and Caroline Guitar Company.
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
 Block 015 records Barber Electronics and Black Arts Toneworks dirt products using manufacturer catalogs and official product pages.
+Block 016 records Wren and Cuff, Menatone, and Caroline Guitar Company dirt products using manufacturer catalogs and official product pages/documentation.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 015.
+Added and re-read Builder → Pedals research Block 016.
 
 Research block commit:
-`43f33944d69f14469a58cdf4220b0c804a434927`
+`5e5dfc93e069c85f8ab7fd024c79d476b68d87a0`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
