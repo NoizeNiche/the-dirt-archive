@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–115 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–116 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 108: Stone Deaf FX
 - 109: ThorpyFX
 - 110: Mr. Black
 - 111: Chase Bliss
@@ -23,76 +22,102 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 113: BlackOutEffectors
 - 114: Mythos Pedals
 - 115: OKKO FX
+- 116: Catalinbread Effects
 
 ## Block 114 — Mythos Pedals
-Mythos Pedals, Zach Broyles / Mythos team. The official About page says Mythos began in 2010 and is operated by a small team outside Nashville. The current catalog separates Overdrive, Fuzz, Boost, Octave, Modulation, Utility, and Limited & Exclusive products, with a separate Retired Models collection.
+Mythos Pedals, Zach Broyles / Mythos team.
 
 Overdrive:
-- Erlking Overdrive — current
-- Mjolnir Overdrive — current
-- Envy Pro Overdrive — current
-- Chupacabra CMOS Overdrive — current
-- Herculean Deluxe Overdrive — current
-- Olympus Overdrive — current
-- Extra Hot Dual Overdrive — current / dealer-exclusive
-- Extra Hot "Extra Spicy" Dual Overdrive — current / limited-exclusive
-- Herculean / Herculean V2 — historical lineage
-- 210 Double Drive Deluxe — historical / retired
-- SusMaryOsep — historical / retired collaboration
+- Erlking Overdrive
+- Mjolnir Overdrive
+- Envy Pro Overdrive
+- Chupacabra CMOS Overdrive
+- Herculean Deluxe Overdrive
+- Olympus Overdrive
+- Extra Hot Dual Overdrive
+- Extra Hot "Extra Spicy" Dual Overdrive
+- Herculean / Herculean V2 lineage
+- 210 Double Drive Deluxe
+- SusMaryOsep
 
 Distortion:
-- The Victor Distortion — limited / historical-current release
-- Golden Fleece Fuzz — current
+- The Victor Distortion
+- Golden Fleece Fuzz
 
 Fuzz:
-- Golden Fleece Fuzz — current
-- Big Puft Fuzz Device — current lineage
-- Hephaestus Fuzz — current
-- Argo Octave Fuzz — current
-- Argo Boost Deluxe — current
-- 1347 Silicon Fuzz — limited / current
-- AU-79 Fuzz — limited / exclusive
-- High Road Fuzz Mini — limited / exclusive
-- Positron Fuzz / Positron Collider lineage — current + historical predecessor consolidated
-- 210 Double Drive Deluxe — historical / retired
+- Golden Fleece Fuzz
+- Big Puft Fuzz Device
+- Hephaestus Fuzz
+- Argo Octave Fuzz
+- Argo Boost Deluxe
+- 1347 Silicon Fuzz
+- AU-79 Fuzz
+- High Road Fuzz Mini
+- Positron Fuzz / Positron Collider lineage
+- 210 Double Drive Deluxe
 
-Key restraint: Golden Fleece is explicitly described by Mythos as blending Fuzz, Distortion, and Overdrive. 210 Double Drive Deluxe is Overdrive + Fuzz. AU-79 is Fuzz + Overdrive because Mythos explicitly calls it an overdrive-meets-fuzz design. Argo Boost Deluxe is recorded only as Fuzz because its other function is Boost. SusMaryOsep is Overdrive-only within scope because its other sections are treble boost and echo. Big Puft, Positron, Chupacabra, Herculean Deluxe, and Extra Hot remain in their builder-stated primary categories despite mentioning distortion or fuzz-like ranges.
-
-Mjolnir editions, Golden Fleece versions, Big Puft colorways, Positron's older Collider form, blemished listings, and routine dealer/finish variants are consolidated rather than counted as separate pedals. Boost-first, octave-up, modulation, delay, utility, and accessory products remain outside the target census.
+Key restraint: Golden Fleece explicitly blends Fuzz, Distortion, and Overdrive. 210 Double Drive Deluxe is Overdrive + Fuzz, and AU-79 is Fuzz + Overdrive. Ordinary fuzzy or distorted ranges do not create extra categories when Mythos keeps the primary product identity as Overdrive or Fuzz.
 
 ## Block 115 — OKKO FX
-OKKO FX, Leipzig, Germany. The official site says OKKO has made pedals since 2003 and that its pedals are handbuilt in Leipzig. The current catalog contains multiple Overdrive and Distortion products plus Holy Grit and the current BFGRMWB fuzz release; specialist historical catalog evidence establishes Black Beast as a Fuzz + Distortion hybrid and preserves the original TwinSonic.
+OKKO FX is a previously uncovered builder with a substantial drive catalog. The block records clearly documented overdrive, distortion, and fuzz products and consolidates ordinary lineage variants rather than multiplying them by enclosure or revision.
+
+## Block 116 — Catalinbread Effects
+Catalinbread Effects is a previously uncovered builder founded in 2003 by Nic Harris; its About page says the company moved to Portland in 2006 and now manufactures more than 30 unique pedals by hand. The current catalog separates a Foundation Overdrive Series from a broader Boost, Fuzz & Distortion Series and also maintains retired-pedal references.
 
 Overdrive:
-- DIABLO DUAL — current
-- DIABLO GH Signature — current
-- TWINSONIC MKII — current
-- The Dynamist — current
-- TwinSonic — historical lineage
-- DIABLO — historical/current lineage consolidated with the Diablo family
-- Holy Grit — current hybrid Overdrive + Fuzz
+- Dirty Little Secret
+- Dirty Little Secret Deluxe
+- SFT
+- RAH
+- Sabbra Cadabra
+- Formula No. 55 / Formula 55
+- Formula 5F6
+- Formula 51
+- Galileo
+- Galileo 4K
+- Little Secret
+- Knight School Overdrive
+- SideArm Overdrive
+- Silver Kiss Overdrive (2007 Reissue)
+- Maxon 40th Anniversary Catalinbread Modified Overdrive (OD808-40C)
+- Misnomer (Cabinet Series)
 
 Distortion:
-- DIABLO DUAL — current
-- MOTÖRBASS — current
-- Black Beast — historical, explicitly documented as Fuzz + Distortion
+- SFT
+- Katzenkönig
+- Carbide Distortion
+- Crooner Preamp
 
 Fuzz:
-- HOLY GRIT — current hybrid Overdrive + Fuzz
-- BFGRMWB / Big Fucking Green Russian Muff With Benefits — current
-- Black Beast — historical hybrid Fuzz + Distortion
+- SFT
+- Katzenkönig
+- Crooner Preamp
+- Fuzzrite
+- Fuzzrite Germanium
+- Fuzzrite Mini
+- Giygas 2K Fuzz
+- Manx Loaghtan Fuzz
+- Merkin Fuzz
+- Karma Suture GE
+- Karma Suture SI
+- Octapussy
+- Antichthon
+- Perseus / Perseus DIO lineage
 
-Key restraint: DIABLO DUAL is explicitly an Overdrive + Distortion product; HOLY GRIT is explicitly an Overdrive + Fuzz hybrid; and Black Beast is documented as Fuzz + Distortion. TwinSonic MKII is presented by OKKO as two overdrive circuits, even though the combined gain can reach vintage distortion or fuzz territory, so it remains Overdrive-only. The Dynamist is retained as Overdrive because it is presented as the evolved Diablo Dual / dual-FET overdrive. Diablo GH remains Overdrive despite its independent clean boost because Boost is outside scope. BFGRMWB remains Fuzz-only.
+Key overlaps:
+- SFT = Overdrive + Distortion + Fuzz. Catalinbread explicitly describes clean to overdrive, high-gain distortion, and huge fuzz sounds.
+- Katzenkönig = Distortion + Fuzz. Catalinbread explicitly describes a Tone Bender MkII fuzz combined with RAT-style distortion.
+- Crooner Preamp = Overdrive + Distortion + Fuzz. Catalinbread explicitly states that its gain range includes clean boost, overdrive, distortion, and full-throated fuzz.
 
-Normal anniversary, enclosure, color, and dealer variations are consolidated. DIABLO 20th Anniversary is treated as part of the Diablo lineage. Dirty Diablo is treated as a Diablo-family variation unless future evidence establishes a materially independent product identity. TwinSonic and TwinSonic MKII are retained as one lineage. Compressor, buffer, and other non-target products remain excluded.
+Key restraint: Formula 51, Manx Loaghtan, Giygas, Silver Kiss, and similar products remain in their stated primary dirt categories even when they can reach heavier saturation. Boost-first products such as Naga Viper and Epoch Boost remain outside scope. Catalinbread Bitters remains outside the dirt census because it is a multi-effects processor. SFT Blackout, SFT Fireworks, Katzenkönig Fireworks, B-stock/finish variants, and ordinary graphics are consolidated. Blood Donor is not counted separately because Catalinbread's own release notice describes it as a revamped and fine-tuned Katzenkönig.
 
 ## Last research commit
-`fea040e07c037193a5e85aa4e1ac4ae124a064c5`
+`2da7d9f29efbf9b2be3030d1831faf4ab2db3578`
 
 ## Last checkpoint
-- `CURRENT_STATE.md` updated through Block 115
-- `research/builders/BLOCK-2026-09-17-115.md` saved and verified
-- `CURRENT_STATE.md` now records Block 115 and points to Block 116
+- `CURRENT_STATE.md` updated through Block 116
+- `research/builders/BLOCK-2026-09-17-116.md` saved and verified
+- `CURRENT_STATE.md` now records Block 116 and points to Block 117
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
