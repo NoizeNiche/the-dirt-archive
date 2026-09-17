@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–111 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–112 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 104: Old Blood Noise Endeavors
 - 105: Fulltone
 - 106: Dr. Scientist
 - 107: IdiotBox Effects
@@ -23,41 +22,7 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 109: ThorpyFX
 - 110: Mr. Black
 - 111: Chase Bliss
-
-## Block 110 — Mr. Black
-Mr. Black, Jack Deville / Jack Deville LTD.
-
-Overdrive:
-- Deuce Coupe — current/reintroduced lineage
-- Bass OD Mk. II
-- BB-74x
-- Vintage Overdrive
-- Black LTD. Bass OD — historical / limited
-- Black LTD. Overdriver — historical / limited
-- Black LTD. Overdriver Mk. II — historical / limited
-- Classic 88 — historical / limited
-- Gold Drive "One Hundred" — historical / limited
-- Jalapeño — historical
-- JDS-50 — historical / discontinued
-- OD-503 Mini Amplifier Overdrive — historical / mini series
-- Orro
-- Snake Drive — historical
-- Sour Cream & Onion — historical
-- Super-Extra Five Thousand — historical / limited, clean boost + amplifier overdrive
-
-Distortion:
-- ThunderClaw
-- White Widow — historical / discontinued
-- Black LTD. Distortion — historical / limited
-
-Fuzz:
-- SludgeMaster
-- Black LTD. Darling Fuzz — historical / limited
-- Darling Fuzz / Black Fuzz lineage consolidated
-- Doomstick Fuzz / Doomstick II Fuzz lineage consolidated
-- Barbeque Fuzz — historical
-
-Key restraint: Mr. Black's current official catalog establishes Deuce Coupe and Bass OD Mk. II as Overdrive, SludgeMaster as Fuzz, and ThunderClaw as Distortion. Historical Mr. Black pages and established references add older Overdriver, Classic 88, Gold Drive "One Hundred", JDS-50, Orro, Darling Fuzz, Doomstick, Barbeque Fuzz, White Widow, and other named dirt products. Boost-first products, modulation/reverb/delay, octave-only, and utility products remain excluded. Doomstick and Doomstick II are treated as one fuzz lineage rather than separate entries unless a materially distinct named product is established.
+- 112: Hudson Electronics UK
 
 ## Block 111 — Chase Bliss
 Chase Bliss, Joel Korte / Chase Bliss team.
@@ -78,13 +43,53 @@ Fuzz:
 
 Key restraint: Chase Bliss explicitly gives Brothers AM Overdrive and Distortion modes. The original Brothers pedal contains drive and fuzz circuits in two independent channels. Preamp MKII combines a drive/preamp section with two fuzz modes, while Condor HiFi explicitly includes an Overdrive section. Bliss Factory is explicitly a germanium fuzz. Clean, boost sections, and the company's larger modulation/delay/reverb/sampler catalog remain outside the target categories.
 
+## Block 112 — Hudson Electronics UK
+Hudson Electronics UK, Michael Hudson.
+
+Overdrive:
+- Broadcast — current
+- Sidecar — current
+- Broadcast-AP — current/legacy signature model
+- Motorcycle — limited collaboration with Joe's Pedals
+- Overdrive 999 — historical / discontinued
+
+Distortion:
+- Broadcast — current
+- Sidecar — current
+
+Fuzz:
+- Broadcast — current
+- Sidecar — current
+- Fuzz (MKIV Tone Bender) — historical / archived
+- White Heat — historical / archived
+- Full Range Bomb — historical / archived
+- Soul Bomb — historical / archived
+- Pretty Flamingo — historical / archived
+- Blackbird — historical / archived
+- Buzzard — historical / archived
+- Bluebird — historical / archived
+- Overdrive Eight Fifty — historical, lower-confidence classification
+- Standard Machine — historical
+- Shapes Of Things — historical
+- Buzzoid — historical
+- Stroll On — historical / archived
+- Stroll On Jnr — historical
+- Soul Face — historical / archived
+- Mr Soul — historical / archived
+
+Key restraint: Broadcast and Sidecar are explicitly documented by Hudson as spanning overdrive, distortion, and fuzz behavior. Broadcast-AP is kept Overdrive-only because Hudson explicitly describes clean boost through medium-gain overdrive and only notes fuzzy overload at maximum gain. Motorcycle is treated as an Overdrive product because Hudson describes it as a modified Sidecar overdrive and a revisit of the historical Overdrive 999.
+
+Pretty Flamingo remains Fuzz-only even though Hudson mentions lighter overdrive/distortion tones. Buzzard remains Fuzz-only despite the phrase "dense, chewy distortion." Full Range Bomb and Soul Bomb are Fuzz entries with boost sections; boost is outside scope. Broadcast AP-II remains uncategorized because its official description establishes a dual preamplifier and heavily distorted range but not a separate named target dirt identity strongly enough for conservative classification.
+
+Normal Broadcast retail/color variants and other ordinary editions are consolidated. Hudson's official archived catalog supplies the historical product pool; Effects Database and Premier Guitar are used only as supporting sources for a few surviving historical identities, especially Overdrive Eight Fifty, Standard Machine, Buzzoid, and launch-era fuzz products.
+
 ## Last research commit
-`9ffcb23795979272782eca3ed1672128fa609ec8`
+`0c2dde79096feb4fb6b4ef909eaea1974952aa26`
 
 ## Last checkpoint
-- `CURRENT_STATE.md` updated through Block 111
-- `research/builders/BLOCK-2026-09-17-111.md` saved and verified
-- `CURRENT_STATE.md` now records Block 111 and points to Block 112
+- `CURRENT_STATE.md` updated through Block 112
+- `research/builders/BLOCK-2026-09-17-112.md` saved and verified
+- `CURRENT_STATE.md` now records Block 112 and points to Block 113
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
