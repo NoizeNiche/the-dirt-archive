@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **243 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **277 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **155 block files** are currently present: Blocks 001-069, 071-141, and 143-157.
+- **257 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **295 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **157 block files** are currently present: Blocks 001-069, 071-141, and 143-159.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 243 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 257 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -40,7 +40,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 013 | Big Knob Pedals | 049 |  |
 | 014 | BIXONIC | 055 |  |
 | 015 | BJFE / BJF Electronics | 032 | BJFE / BJF Electronics |
-| 016 | Black Arts Toneworks | 101, 134 |  |
+| 016 | Black Arts Toneworks | 101, 134, 159 |  |
 | 017 | Blackhawk Amplifiers | 051 |  |
 | 018 | BlackOutEffectors | 050, 113 | Blackout Effectors |
 | 019 | Blackstar Amplification | 076 |  |
@@ -268,6 +268,20 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 241 | Bigfoot F.X. | 157 |  |
 | 242 | BigNoise Amplification | 157 |  |
 | 243 | Billionaire (by Danelectro) | 157 |  |
+| 244 | Biltworth | 158 |  |
+| 245 | Bispell Audio | 158 |  |
+| 246 | Biyang | 158 |  |
+| 247 | Bizarre Engineering | 158 |  |
+| 248 | Black CAT Amps | 159 |  |
+| 249 | Black Cat Pedals | 159 |  |
+| 250 | Black Country Customs | 159 |  |
+| 251 | Blackbox Music Electronics | 159 |  |
+| 252 | Blackstone Appliances | 159 |  |
+| 253 | Blakemore Effects | 159 |  |
+| 254 | BLAMMO! Electronics | 159 |  |
+| 255 | BMF Effects | 159 |  |
+| 256 | Bob Burt Cabinets & Pedals | 159 |  |
+| 257 | Boo Instruments | 159 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
@@ -275,7 +289,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 - **Analog Man** -> Blocks 006, 118
 - **Barber Electronics** -> Blocks 015, 125
 - **Beetronics FX** -> Blocks 020, 123
-- **Black Arts Toneworks** -> Blocks 101, 134
+- **Black Arts Toneworks** -> Blocks 101, 134, 159
 - **BlackOutEffectors** -> Blocks 050, 113
 - **Catalinbread Effects** -> Blocks 004, 116, 132
 - **Crazy Tube Circuits** -> Blocks 017, 122
