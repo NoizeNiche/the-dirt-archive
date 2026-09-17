@@ -25,17 +25,17 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 043.
+Research blocks stored under `research/builders/` now run through Block 044.
 
-Latest addition in Block 043:
-- Amptweaker — James Brown / Jack Thompson
+Latest addition in Block 044:
+- Basic Audio — one-man shop
 
 Recent blocks:
-- Block 039: Tech 21 NYC — B. Andrew Barta
 - Block 040: Way Huge Electronics — George Tripps
 - Block 041: Analog Alien — Jack & Joe Napoli
 - Block 042: IdiotBox Effects — Atarimatt
 - Block 043: Amptweaker — James Brown / Jack Thompson
+- Block 044: Basic Audio — one-man shop
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -68,12 +68,13 @@ Block 040 records Way Huge Electronics — George Tripps dirt products using Way
 Block 041 records Analog Alien — Jack & Joe Napoli dirt products using Analog Alien's official catalog, individual product pages, manuals, and company material. The block preserves only explicit manufacturer-supported dirt classifications and does not split the 2026 Rumble Seat redesign into a duplicate pedal identity.
 Block 042 records IdiotBox Effects — Atarimatt dirt products using IdiotBox Effects' official About page, current catalog, individual product pages, and Retired Designs page. The block includes current and clearly documented retired dirt identities while excluding boost-only, noise, modulation, octave-only, and ambiguous mystery products.
 Block 043 records Amptweaker — James Brown / Jack Thompson dirt products using Amptweaker's current catalog/history, current product pages/manuals, and manufacturer-originated historical announcements and archival material. The block includes distinct historical Jr, Pro, Bass, and fuzz product identities while avoiding duplicate limited/cosmetic editions.
+Block 044 records Basic Audio dirt products using the builder's current official catalog and individual official product pages. The block is strongly fuzz-oriented, includes explicitly documented overdrive identities, and deliberately avoids promoting insufficiently documented catalog names into additional categories.
 
 ## Last completed research action
-Added, corrected, and re-read Builder → Pedals research Block 043.
+Added and re-read Builder → Pedals research Block 044.
 
 Research block commit:
-`5dd9f545b80d9009c34111aa77c4f9868c01a4d1`
+`24a4a00f2d1eb4224c26ae4fca54af1fbb155f0c`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
