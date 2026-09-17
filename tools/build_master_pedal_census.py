@@ -41,6 +41,7 @@ ANNOTATION_MARKERS = (
     "authoritative", "documentation", "manufacturer", "official", "lineage",
     "family", "product family", "product relationship", "described as",
     "identified as", "documentation.", "source", "sources", "catalog",
+    "derived", "variant", "editions", "reviewed material", "same product",
 )
 
 
@@ -102,11 +103,8 @@ def category_from_heading(heading: str) -> list[str]:
 
 
 def strip_embedded_annotations(text: str) -> str:
-    # Remove ChatGPT/web citation tokens that were accidentally retained in
-    # some older research bullets. These are not product-name content.
     text = re.sub(r"(?:cite|filecite|url|video|entity).*?", "", text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def clean_pedal_text(text: str) -> str | None:
@@ -122,9 +120,20 @@ def clean_pedal_text(text: str) -> str | None:
     if any(marker in lower for marker in note_markers):
         return None
 
-    # Some historical blocks contain bullets like:
-    # "BigRock Pro - explicit Rock overdrive/distortion lineage."
-    # Keep the named product portion and discard the annotation tail.
+    # Older blocks occasionally combined several product names into one
+    # explanatory bullet. Those rows are not individual pedal identities and
+    # should not pollute the master census. The individual product names are
+    # already present in surrounding bullets when they were actually cataloged.
+    if " / " in text:
+        slash_lower = lower
+        if any(marker in slash_lower for marker in ANNOTATION_MARKERS):
+            return None
+        # Long slash-separated strings are typically grouped lineage notes.
+        if text.count(" / ") >= 2:
+            return None
+
+    # Strip a descriptive tail after a dash when the tail is annotation rather
+    # than part of the marketed product name.
     for dash in (" - ", " — ", " – "):
         if dash not in text:
             continue
@@ -133,8 +142,21 @@ def clean_pedal_text(text: str) -> str | None:
         if any(marker in right_lower for marker in ANNOTATION_MARKERS):
             text = left.strip()
             break
+        # Common compound descriptions such as "combined Sun Face fuzz +
+        # boost pedal" are also annotations, not part of the product name.
+        if re.search(r"\bcombined\b.*\bpedal\b", right_lower):
+            text = left.strip()
+            break
 
-    return text.replace("**", "").replace("__", "").strip(" .;") or None
+    text = text.replace("**", "").replace("__", "").strip(" .;")
+    return text or None
+
+
+def canonical_key(text: str) -> str:
+    """Normalize harmless naming differences for duplicate elimination."""
+    value = norm(text)
+    # Parenthetical marketing model code remains useful and is therefore kept.
+    return value
 
 
 def extract_rows() -> tuple[list[tuple[str, str, str]], int]:
@@ -220,7 +242,46 @@ def extract_rows() -> tuple[list[tuple[str, str, str]], int]:
                 for pedal_type in active_types:
                     rows.add((current_builder, pedal, pedal_type))
 
-    ordered = sorted(rows, key=lambda row: (norm(row[0]), norm(row[1]), row[2]))
+    # Remove normalized duplicate naming variants when one is simply a longer
+    # category suffix of another exact product name for the same builder/type.
+    grouped: dict[tuple[str, str], list[str]] = {}
+    for builder, pedal, pedal_type in rows:
+        grouped.setdefault((norm(builder), pedal_type), []).append(pedal)
+
+    drop: set[tuple[str, str, str]] = set()
+    generic_suffixes = (" fuzz", " overdrive", " distortion", " drive")
+    for (builder_key, pedal_type), pedals in grouped.items():
+        by_key = {canonical_key(p): p for p in pedals}
+        for pedal in pedals:
+            key = canonical_key(pedal)
+            for suffix in generic_suffixes:
+                if key.endswith(suffix):
+                    base = key[: -len(suffix)].strip()
+                    if base in by_key:
+                        drop.add((by_key.get(builder_key, ""), pedal, pedal_type))
+                        break
+
+    # The drop set above needs the actual builder spelling. Recompute safely.
+    clean_rows: set[tuple[str, str, str]] = set()
+    for row in rows:
+        builder, pedal, pedal_type = row
+        remove = False
+        key = canonical_key(pedal)
+        for suffix in generic_suffixes:
+            if key.endswith(suffix):
+                base = key[: -len(suffix)].strip()
+                sibling_keys = {
+                    canonical_key(p)
+                    for b, p, t in rows
+                    if norm(b) == norm(builder) and t == pedal_type
+                }
+                if base in sibling_keys:
+                    remove = True
+                    break
+        if not remove:
+            clean_rows.add(row)
+
+    ordered = sorted(clean_rows, key=lambda row: (norm(row[0]), norm(row[1]), row[2]))
     return ordered, builder_sections
 
 
