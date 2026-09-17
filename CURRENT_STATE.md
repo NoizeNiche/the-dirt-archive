@@ -25,141 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 112**.
+Research blocks stored under `research/builders/` now run through **Block 113**.
 
 Latest addition:
-- Block 112: Hudson Electronics UK
+- Block 113: BlackOutEffectors
 
 Recent blocks:
-- Block 107: IdiotBox Effects
 - Block 108: Stone Deaf FX
 - Block 109: ThorpyFX
 - Block 110: Mr. Black
 - Block 111: Chase Bliss
 - Block 112: Hudson Electronics UK
+- Block 113: BlackOutEffectors
 
-Blocks 001–111 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
-
-### Block 105 summary
-Fulltone is a previously uncovered builder with a long-running dirt catalog spanning current and historical products.
-
-Overdrive:
-- OCD — current lineage, including OCDv2 / Limited Edition / OCD-Germanium family consolidated
-- Full-Drive1
-- Full-Drive2 — historical lineage, including MOSFET editions consolidated
-- Full-Drive2 v2
-- Full-Drive3
-- PlimSoul mkII
-- GT-500 — historical / discontinued
-- Bass-Drive — historical / discontinued
-- Full-Drive — original historical identity
-
-Distortion:
-- OCD
-- OCD-Germanium
-- Full-Drive2 v2
-- PlimSoul mkII
-- Hi-Mu
-- Mas Malo
-- GT-500 — historical / discontinued
-- Distortion Pro — historical / discontinued
-
-Fuzz:
-- 69 Pedal mkII
-- 70 Pedal-BC
-- Queen Bee
-- Mas Malo
-- Soul-Bender v2
-- Ultimate Octave
-- Octafuzz 2 — historical / discontinued
-
-The clearest hybrid cases are OCD/OCD-Germanium, Full-Drive2 v2, PlimSoul mkII, Mas Malo, and the historical GT-500. Fuzz products remain Fuzz-only unless Fulltone explicitly presents a second target dirt identity.
-
-### Block 106 summary
-Dr. Scientist is a previously uncovered builder whose official site identifies it as a boutique pedal maker that began in 2005 and hand-makes pedals in British Columbia, Canada. The current catalog clearly establishes The Elements as Overdrive + Distortion, Dungeon Crawler as Distortion, and Frazz Dazzler as Fuzz.
-
-Overdrive:
-- The Elements
-
-Distortion:
-- The Elements
-- Dungeon Crawler
-
-Fuzz:
-- Frazz Dazzler
-
-BitQuest and BitQuest Eurorack are excluded because they are broad multi-effect systems with fuzz as only one component. BoostBot and other non-target effects remain outside the dirt census. Gain range alone does not create extra categories.
-
-### Block 107 summary
-IdiotBox Effects is a previously uncovered builder led by Atarimatt. The current official catalog has a dedicated Fuzz/Distortion/Overdrive category and a broad set of individual dirt products.
-
-Overdrive:
-- Han-Taun Overdrive
-- Power Drive
-- Trench Cannon
-- Necrofier Echo Drive
-- repo man
-- No Moon
-- No Moon 2 — coming soon
-
-Distortion:
-- Blower Box Bass Distortion / Blower Box lineage
-- Blower Box Deluxe
-- Dungeon Master
-- Heavy Weapon
-- No Moon
-- No Moon 2 — coming soon
-- Death Master
-- Trash Compactor
-- Black Fortress Bass Distortion
-- -D4 Distortion Reissue
-- Landphil Bass Distortion
-- Wild Kyle
-- REDRUM V2
-- Nihilizer — limited historical collaboration
-
-Fuzz:
-- Dungeon Master
-- Ron Fucking Swanson Super Fuzz
-- No Moon
-- No Moon 2 — coming soon
-- Tractor Beam
-- Black Fortress Bass Distortion
-- Monster Fuzz
-- Blackout
-- DeathRay
-- Static Fuzz
-- WHORES. Fuzz Freq V.2
-- Blasteroid Fuzz
-- Cool Buzz Bass Fuzz
-- Lost Ark
-- Hobo Santa Fuzz
-
-The strongest hybrid cases are No Moon / No Moon 2, which explicitly combine Muff, Screamer, and RAT-style circuits. Dungeon Master combines fuzz and HM-2-style distortion functions, while Black Fortress combines HM-2-style distortion with a parallel octave fuzz. Boost-first, noise, modulation, utility, and mystery products remain excluded.
-
-### Block 108 summary
-Stone Deaf FX is a UK builder founded by Luke Hilton. Current Stone Deaf product pages and collections establish a substantial dirt catalog, with historical specialist coverage used only for older products.
-
-Overdrive:
-- PDF-2
-- PDF-1X Ghost
-- Kliptonite — historical / discontinued
-- Trashy Blonde — historical / discontinued
-
-Distortion:
-- PDF-2
-- PDF-1X Ghost
-- Warp Drive — current/legacy lineage
-- Trashy Blonde — historical / discontinued
-- PDF-1 — historical / discontinued
-
-Fuzz:
-- PDF-2
-- Kliptonite — historical / discontinued
-- Fig Fumb — current/legacy lineage
-- Rise & Shine — current/legacy lineage
-
-PDF-2 is the strongest hybrid case, explicitly spanning overdrive, distortion, and fuzz. PDF-1X Ghost is Overdrive + Distortion. Kliptonite is Overdrive + Fuzz, and Trashy Blonde is Overdrive + Distortion. Normal LTD/colorway variants are consolidated.
+Blocks 001–112 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 109 summary
 ThorpyFX is a previously uncovered British builder founded by Adrian Thorpe. ThorpyFX's official About page says the company launched in 2014 and released the Gunshot in April 2015; the company describes its pedals as hand-built in Britain.
@@ -228,7 +107,7 @@ Fuzz:
 - Doomstick Fuzz / Doomstick II Fuzz lineage consolidated
 - Barbeque Fuzz — historical
 
-Mr. Black's official site currently identifies the Deuce Coupe and Bass OD Mk. II as overdrive products, SludgeMaster as high-gain fuzz, and ThunderClaw as high-gain distortion. Historical Mr. Black product pages and established references add the older Overdriver, Classic 88, Gold Drive "One Hundred", JDS-50, Orro, Darling Fuzz, Doomstick, Barbeque Fuzz, White Widow, and other named dirt products.
+Mr. Black's official site currently identifies the Deuce Coupe and Bass OD Mk. II as overdrive products, SludgeMaster as high-gain fuzz, and ThunderClaw as high-gain distortion. Historical Mr. Black pages and established references add the older Overdriver, Classic 88, Gold Drive "One Hundred", JDS-50, Orro, Darling Fuzz, Doomstick, Barbeque Fuzz, White Widow, and other named dirt products.
 
 The archive keeps boost-first products such as Boost Tiger, Treble Booster, Boost Drive One-Hundred, and Black LTD. Power Drive outside the target categories. Modulation, reverb, delay, octave-only, and utility products are also excluded. Doomstick and Doomstick II are treated as one fuzz lineage rather than separate entries unless a materially distinct named product is established.
 
@@ -251,7 +130,7 @@ Fuzz:
 
 The strongest target dirt cases are Brothers AM, which explicitly provides Overdrive and Distortion modes; Brothers, which combines drive and fuzz circuits; Preamp MKII, which combines a drive/preamp section with two fuzz modes; Condor HiFi, which explicitly includes an Overdrive section; and Bliss Factory, which is explicitly a germanium fuzz. The archive does not treat the added treble booster circuits as target dirt categories and does not turn compressor or incidental clipping behavior into extra entries.
 
-Chase Bliss's much larger modulation, delay, reverb, looping, sampling, and effects catalog remains outside the target census. Clean is excluded because its primary identity is compressor/limiter even though it can be pushed toward overdrive and fuzz-like behavior. Normal current/legacy relationships are consolidated without inventing variant duplicates.
+Chase Bliss's larger modulation, delay, reverb, looping, sampling, and effects catalog remains outside the target census. Clean is excluded because its primary identity is compressor/limiter even though it can be pushed toward overdrive and fuzz-like behavior. Normal current/legacy relationships are consolidated without inventing variant duplicates.
 
 ### Block 112 summary
 Hudson Electronics UK is a previously uncovered builder with a current catalog centered on the Broadcast family and Sidecar, plus a substantial official archive of older fuzz and overdrive pedals. Hudson's current product pages repeatedly identify Michael Hudson as the hand-builder, and the official archived catalog preserves 15 older named products.
@@ -293,14 +172,41 @@ Pretty Flamingo remains Fuzz-only even though Hudson says lighter overdrive/dist
 
 The archived catalog confirms the historical dirt pool; Effects Database is used only to strengthen a few surviving product identifications, especially Overdrive Eight Fifty, Standard Machine, and Hudson's historical model index. No components, schematics, cloning, or internal-build information are recorded.
 
+### Block 113 summary
+BlackOutEffectors is a previously uncovered builder with a compact, fuzz-heavy catalog and a smaller overdrive footprint. The surviving BlackOutEffectors site identifies the company as a boutique effects manufacturer founded in 2008, with the company beginning in Vancouver and moving to Asheville in 2009. The historical catalog is strongly associated with founder/designer Kyle Tompkins.
+
+Overdrive:
+- Mantra Overdrive — historical / established catalog product
+- Fix'd Fuzz / Fix'd Fuzz V3 — fuzz-based hybrid with explicit light-overdrive range
+- Fix'd Fuzz Deluxe — historical / deluxe hybrid; builder explicitly describes boost + overdrive alongside fuzz
+
+Distortion:
+- None established under the archive's conservative rule
+
+Fuzz:
+- Fix'd Fuzz / Fix'd Fuzz V3 — historical/current catalog lineage
+- Fix'd Fuzz Deluxe — historical / deluxe hybrid
+- Musket Fuzz / Musket Fuzz V2 — historical/current catalog lineage
+- FUBÄR Fuzz — historical / limited
+- Blunderbuss Fuzz — historical / special-run hybrid fuzz
+- Twosome Dual Fuzz — historical; dual fuzz combining the Musket and Fix'd Fuzz Deluxe concepts
+- Crystal Dagger — historical; octave-fuzz section combined with ring modulation / phasing functions
+- Fuzz Bear — historical / limited
+
+The strongest overlap is Fix'd Fuzz, which BlackOutEffectors explicitly describes as a fuzz box with boost and overdrive capability. Fix'd Fuzz Deluxe is similarly an explicit fuzz + boost + overdrive hybrid. Mantra remains Overdrive-only because the builder labels it that way. Musket, Blunderbuss, Crystal Dagger, FUBÄR, Twosome, and Fuzz Bear remain Fuzz entries. The archive does not promote aggressive clipping into Distortion merely because secondary databases sometimes categorize a product more broadly.
+
+Normal revisions and limited graphics/dealer runs are consolidated. Fix'd Fuzz/V3 and Musket/V2 remain single product lineages. Twosome special editions remain one Twosome lineage. Crystal Dagger remains Fuzz despite its octave/ring-mod/phaser functions. Gravity Boost and other boost-first products, plus Sibling, Whetstone, and Cadavernous, remain outside the target census.
+
+The surviving BlackOutEffectors catalog is treated as a historical reference source rather than proof of uninterrupted current production. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 112.
+Added and re-read Builder → Pedals research Block 113.
 
 Research block commit:
-`0c2dde79096feb4fb6b4ef909eaea1974952aa26`
+`c492829eb6e8941dcae2040f2f97e6e40a796d75`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
