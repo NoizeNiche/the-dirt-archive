@@ -22,7 +22,9 @@ The website currently loads the master catalog plus the active scrape census fil
 
 Multiple rows can represent one pedal when the cataloged pedal belongs to more than one dirt type.
 
-The canonical builder index currently contains **267 canonical builder identities** through Block 160. **Block 161 adds nine new builder identities, pending their insertion into the master index**. The research block set now runs through **Block 161**. The research blocks are historical working material and remain separate from the site's four-part information architecture.
+The canonical builder index now contains **285 canonical builder identities** through Block 162. **Block 161 added nine new builder identities and Block 162 added nine new builder identities; all are now merged into the canonical builder index.** Browne Amplification, an existing builder, was expanded under its existing identity. The research block set now runs through **Block 162**.
+
+Block 162 adds **111 company/pedal/type rows** in `research/SCRAPE_B_BLOCK_162_ADDENDUM.csv`. The primary `research/SCRAPE_B_CENSUS.csv` and `research/MASTER_PEDAL_CENSUS.csv` have not yet been rewritten to merge those 111 rows; the addendum is the authoritative Block 162 delta until that consolidation is performed.
 
 ## Website
 `index.html` is now the actual catalog page, not an under-construction placeholder.
@@ -55,4 +57,4 @@ Do not create additional website relationships or tracking systems unless the pr
 The repository's builder research and master builder index are retained as working material, but they are not part of the public site's information architecture.
 
 ## Next action
-Continue the Scrape B company -> pedal collection alphabetically after Broughton Audio. Before adding another builder, merge the nine Block 161 builders into the canonical builder index so future passes do not create duplicate identities.
+Consolidate the Block 162 census addendum into `research/SCRAPE_B_CENSUS.csv` and then continue the Scrape B company -> pedal collection alphabetically after Byron Amplification. Reuse canonical builder identities when a builder already exists; new builders receive the next unused ID.
