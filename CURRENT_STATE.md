@@ -25,20 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 121**.
+Research blocks stored under `research/builders/` now run through **Block 122**.
 
 Latest addition:
-- Block 121: Suhr
+- Block 122: Crazy Tube Circuits
 
 Recent blocks:
-- Block 116: Catalinbread Effects
 - Block 117: JHS Pedals
 - Block 118: Analog Man
 - Block 119: Benson Amps
 - Block 120: Greer Amps
 - Block 121: Suhr
+- Block 122: Crazy Tube Circuits
 
-Blocks 001–120 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–121 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 116 summary
 Catalinbread Effects spans all three target categories. SFT and Crooner Preamp are explicit Overdrive + Distortion + Fuzz overlaps; Katzenkönig is Distortion + Fuzz. Boost-first and multi-effects products stay outside the dirt census.
@@ -73,11 +73,7 @@ Key overlaps:
 - Germanium Preamp Pedal = Overdrive + Fuzz; Benson explicitly describes it as overdrive/boost/fuzz.
 - Germanium Fuzz = Overdrive + Fuzz; the authoritative Mixwave Benson guide explicitly describes clean boost, overdrive, and fuzz.
 
-Key restraint:
-- Portable Distortion 424 MKII remains Distortion only; its lower-gain/boost behavior is treated as operating range rather than a separate target identity.
-- Stonk Box, Störkn B0kš, and Deep Sea Diver remain Fuzz.
-- Germanium Boost and other non-target products remain outside scope.
-- No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+Key restraint: 424 MKII remains Distortion only; Stonk Box, Störkn B0kš, and Deep Sea Diver remain Fuzz; Germanium Boost and other non-target products remain outside scope.
 
 ### Block 120 summary
 Greer Amps is a previously uncovered builder with a broad dirt catalog spanning Overdrive, Distortion, and Fuzz, including current and historical products.
@@ -125,24 +121,12 @@ Fuzz:
 - Ghetto Stomp — historical
 - Tarpit — historical
 
-Key overlaps:
-- Peacemaker = Overdrive + Distortion; Greer explicitly describes it as drive-meets-distortion.
-- Ghetto Stomp = Overdrive + Distortion + Fuzz; historical documentation describes natural amp-breakup overdrive and explicitly places it in the fuzz/distortion range.
-- No.9 Drive and Distortion = Overdrive + Distortion; its product identity explicitly includes both.
-- Little Samson = Overdrive + Distortion; Greer describes lower-gain chunky drive and higher-gain distortion.
-- Fuzzy Wooly Bear = Overdrive + Fuzz; authoritative cataloging calls it a fuzz/overdrive pedal.
-- Batch O' Ass = Distortion + Fuzz; contemporary documentation describes it as distortion bordering on fuzz.
+Key overlaps: Peacemaker = Overdrive + Distortion; Ghetto Stomp = Overdrive + Distortion + Fuzz; No.9 Drive and Distortion = Overdrive + Distortion; Little Samson = Overdrive + Distortion; Fuzzy Wooly Bear = Overdrive + Fuzz; Batch O' Ass = Distortion + Fuzz.
 
-Key restraint:
-- Current boost/preamp-first products such as Moonshot Germanium Pre, Sonic Boom, Sure Shot Clipping Boost, and Special Request stay outside the dirt census.
-- Super Hornet's octave function does not become a separate category.
-- Ghetto Stomp hand-painted and powder-coated versions are consolidated as one lineage.
-- Fuzzy Wooly Bear germanium/silicon options are not split into separate products.
-- Finish variants and routine revisions are not multiplied into separate identities.
-- No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+Key restraint: boost/preamp-first products, octave behavior, finish/enclosure changes, and routine transistor options are not multiplied into separate dirt identities.
 
 ### Block 121 summary
-Suhr is a previously uncovered builder with a clearly divided pedal catalog covering Overdrive, Distortion, and Fuzz. Suhr's own catalog explicitly identifies Eclipse as a dual-channel overdrive/distortion, Shiba Drive as overdrive, Riot as distortion, and Rufus/Thornicus as fuzz. citeturn571468search0turn571468search1turn571468search3turn571468search9
+Suhr is a previously uncovered builder with a clearly divided pedal catalog covering Overdrive, Distortion, and Fuzz.
 
 Overdrive:
 - Shiba Drive
@@ -162,20 +146,68 @@ Fuzz:
 - Thornicus Fuzz
 
 Key overlap:
-- Eclipse = Overdrive + Distortion; Suhr explicitly describes it as a dual-channel overdrive/distortion. citeturn571468search1turn571468search9
+- Eclipse = Overdrive + Distortion.
+
+Key restraint: Riot remains Distortion only despite its ability to push an amp into natural overdrive; Rufus and Thornicus remain Fuzz only. Named Reloaded versions are retained as lineage products, while minor hardware and finish changes are consolidated. Boost, compression, modulation, delay, buffers, and tone tools remain outside scope.
+
+### Block 122 summary
+Crazy Tube Circuits is a previously uncovered builder with a broad dirt catalog that includes current and historical Overdrive, Distortion, and Fuzz products.
+
+Overdrive:
+- Stardust V3
+- Crossfire
+- Space Charged V2
+- Falcon
+- Ziggy V2
+- Unobtanium
+- Unobtanium RAW — limited/current lineage
+- Hi-Power
+- Venus
+- Heatseeker
+- Starlight — historical/discontinued
+
+Distortion:
+- Space Charged V2
+- Ziggy V2
+- Motherload
+- Venus
+- Starlight — historical/discontinued
+- Limelight — historical/current lineage
+
+Fuzz:
+- Orama
+- Motherload
+- Limelight — historical/current lineage
+- Constellation — historical/limited
+- Starlight — historical/discontinued
+- Triptychon
+
+Key overlaps:
+- Space Charged V2 = Overdrive + Distortion.
+- Ziggy V2 = Overdrive + Distortion.
+- Motherload = Overdrive + Distortion + Fuzz.
+- Venus = Overdrive + Distortion; the archive does not promote its "within the realm of fuzz" description into a separate Fuzz identity.
+- Starlight = Overdrive + Distortion + Fuzz; the builder/designer explicitly describes its gain progression through all three.
+- Limelight = Distortion + Fuzz.
 
 Key restraint:
-- Riot remains Distortion only even though Suhr says its output can push an amplifier into natural overdrive; this is treated as operating behavior rather than a separate target identity. citeturn571468search12turn571468search24
-- Rufus and Thornicus remain Fuzz only; the archive does not promote heavier fuzz behavior into Distortion without explicit product-level support.
-- Riot/Riot Reloaded and Rufus/Rufus Reloaded are treated as named lineages rather than multiplying minor hardware or finish revisions.
-- Brighton Treble Boost, Dual Boost, Koko Boost, compression, modulation, delay, buffers, and tone tools remain outside the dirt census.
+- Orama's amp-style drive section is not promoted to Overdrive because Crazy Tube Circuits explicitly distinguishes it from a typical overdrive; the dedicated fuzz section is retained as Fuzz.
+- Triptychon is retained as Fuzz while its separate drive section is not promoted to Overdrive because the builder explicitly says that section is not a typical overdrive.
+- Constellation OC41, OC45, and CV7003 editions are consolidated as one Constellation fuzz lineage.
+- Unobtanium and Unobtanium RAW remain named lineage products; ordinary revisions and cosmetic variants are not multiplied.
+- Killer V, Memphis, Cyclone, TI:ME, Sidekick, White Whale, Mirage, Splash, Super Conductor, and other modulation/time-based/boost-first products remain outside the dirt census.
 - No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
 ## Last completed research action
-Added and saved Builder → Pedals research Block 121: Suhr.
+Added and saved Builder → Pedals research Block 122: Crazy Tube Circuits.
 
 Research block commit:
-`2ae7ac26a5ad9b2011e14b551a4ef4a8e8e5c0ac`
+`bf1bf044652c466ccefda039c30d0d4c4bbe9fdb`
+
+## Last checkpoint
+- `research/builders/BLOCK-2026-09-17-122.md` saved
+- `CURRENT_STATE.md` updated through Block 122
+- `research/BREADCRUMB.md` updated through Block 122
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
