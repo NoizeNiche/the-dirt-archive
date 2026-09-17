@@ -44,17 +44,14 @@ jobs:
 
           def parse(text):
               rows = []
+              # The catalog links are the authoritative entries. Scan every
+              # markdown link to a /model/ URL in document order. Using a greedy
+              # bracket match preserves names containing ']' characters.
               for line in text.splitlines():
-                  m = re.match(r'^\s*\d+\.\s+(.*)$', line)
-                  if not m:
-                      continue
-                  rest = m.group(1).strip()
-                  if rest.startswith('['):
-                      end = rest.find('](')
-                      if end > 1 and '/model/' in rest[end+2:]:
-                          name = html.unescape(rest[1:end]).strip()
-                          if name:
-                              rows.append(name)
+                  for m in re.finditer(r'\[([^\n]*)\]\((https?://www\.effectsdatabase\.com/model/[^)\n]+)\)', line):
+                      name = html.unescape(m.group(1)).strip()
+                      if name:
+                          rows.append(name)
               return rows
 
           all_lines = []
