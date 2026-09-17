@@ -11,7 +11,7 @@ Default branch: `main`
 The active work is the builder census: identify builders and document the overdrive, distortion, and fuzz pedals they make or made. Do not move into the later photo or pedal-information phases yet.
 
 ## Canonical source of truth
-`research/BUILDER_MASTER_INDEX.md` is now the canonical builder identity ledger for this phase.
+`research/BUILDER_MASTER_INDEX.md` is the canonical builder identity ledger for this phase.
 
 A research block is a chronological checkpoint, not a builder ID. Multiple blocks can refer to the same builder, but the canonical builder count is taken only from the master index.
 
@@ -56,17 +56,25 @@ The master index records the block mapping. The major repeated groups include:
 - Way Huge: 040, 140
 - ZVEX Effects: 065, 141
 
+## Current workflow direction
+The important job is now **collect -> compare -> consolidate -> organize**.
+
+The research corpus should make it easy to compare the entire accumulated builder/pedal list against every newly researched builder and pedal, so duplicate work is caught before another block is created.
+
+Do not spend the active phase building evidence, verification, confidence, or lead-tracking systems. Those are outside the purpose of this census.
+
 ## Latest corrective work
 1. Added `research/BUILDER_MASTER_INDEX.md` with the 106 canonical builder identities and live block mappings.
 2. Made the master index the no-duplicate gate in `START_HERE.md` and `ARCHIVE_GOVERNANCE.md`.
 3. Removed duplicate Fairfield Circuitry Block 142 from the live block set.
 4. Corrected this state file so the checkpoint no longer stops at Block 128.
+5. Simplified the governance so the active phase stays focused on the actual builder/pedal census.
 
 ## Next action
-Do **not** automatically create another block by number. First select a builder that is absent from `research/BUILDER_MASTER_INDEX.md`. If a builder is already present, extend its canonical record rather than creating another builder block.
+Do **not** automatically create another block by number. First select a builder that is absent from `research/BUILDER_MASTER_INDEX.md`. Before adding pedal names, compare them against the accumulated census and add only what is missing.
 
 ## Website
 The website remains a simple `UNDER CONSTRUCTION` page. No visual correctness claim is made without an actual browser/render inspection.
 
 ## Must not touch during this phase
-Do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website/UI architecture unless the repository state explicitly changes the mission.
+Do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, or unrelated website/UI architecture unless the repository state explicitly changes the mission.
