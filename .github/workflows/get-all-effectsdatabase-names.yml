@@ -14,67 +14,61 @@ jobs:
         run: |
           python - <<'PY'
           import html
+          import re
           import requests
-          from html.parser import HTMLParser
           from pathlib import Path
-
-          class LinkParser(HTMLParser):
-              def __init__(self):
-                  super().__init__()
-                  self.in_model = False
-                  self.parts = []
-                  self.found = []
-              def handle_starttag(self, tag, attrs):
-                  if tag == 'a':
-                      d = dict(attrs)
-                      if '/model/' in d.get('href',''):
-                          self.in_model = True
-                          self.parts = []
-              def handle_data(self, data):
-                  if self.in_model:
-                      self.parts.append(data)
-              def handle_endtag(self, tag):
-                  if tag == 'a' and self.in_model:
-                      text = html.unescape(' '.join(''.join(self.parts).split()))
-                      if text and text not in self.found:
-                          self.found.append(text)
-                      self.in_model = False
-                      self.parts = []
 
           cats = {
             'Overdrive': 'https://www.effectsdatabase.com/type/overdrive/pedal',
             'Distortion': 'https://www.effectsdatabase.com/type/distortion/pedal',
             'Fuzz': 'https://www.effectsdatabase.com/type/fuzz/pedal',
           }
+
           out = Path('effectsdatabase_pedal_names.txt')
           lines = []
-          headers = {'User-Agent':'Mozilla/5.0 (compatible; DirtArchive/1.0)'}
+          session = requests.Session()
+          session.headers.update({'User-Agent':'Mozilla/5.0 (compatible; DirtArchive/1.0)'})
+
           for cat, base in cats.items():
             lines += [f'## {cat}', '']
             page = 0
             seen = set()
             while True:
-              url = base if page == 0 else f'{base}?page={page}'
-              print('GET', url, flush=True)
-              r = requests.get(url, timeout=30, headers=headers)
+              target = base if page == 0 else f'{base}?page={page}'
+              url = 'https://r.jina.ai/' + target
+              print('GET', target, flush=True)
+              r = session.get(url, timeout=60)
               r.raise_for_status()
-              p = LinkParser(); p.feed(r.text)
-              found = p.found
+              text = r.text
+
+              # Jina presents the catalog as numbered markdown links like:
+              # 101. [Pedal Name](https://www.effectsdatabase.com/model/...)
+              found = []
+              for m in re.finditer(r'^\s*\d+\.\s+\[([^\]]+)\]\([^)]*/model/[^)]*\)\s*$', text, re.M):
+                name = html.unescape(' '.join(m.group(1).split())).strip()
+                if name and name not in found:
+                  found.append(name)
+
+              # Fallback for plain markdown links without a numeric prefix.
               if not found:
-                break
+                for m in re.finditer(r'\[([^\]]+)\]\(https?://www\.effectsdatabase\.com/model/[^)]+\)', text):
+                  name = html.unescape(' '.join(m.group(1).split())).strip()
+                  if name and name not in found:
+                    found.append(name)
+
               new = [x for x in found if x not in seen]
-              if not new:
+              print(f'{cat} page {page}: {len(found)} found, {len(new)} new, {len(seen)+len(new)} total', flush=True)
+              if not found or not new:
                 break
-              for x in new:
-                seen.add(x); lines.append(x)
-              print(f'{cat} page {page}: {len(found)} names, {len(seen)} total', flush=True)
-              if len(found) < 50:
-                break
+              seen.update(new)
+              lines.extend(new)
               page += 1
               if page > 200:
                 raise RuntimeError('pagination guard')
+
+            print(f'{cat} TOTAL {len(seen)}', flush=True)
             lines.append('')
-            print(cat, 'TOTAL', len(seen), flush=True)
+
           out.write_text('\n'.join(lines), encoding='utf-8')
           print('WROTE', out, 'bytes', out.stat().st_size, flush=True)
           PY
