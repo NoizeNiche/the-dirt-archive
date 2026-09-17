@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–031 are stored under `research/builders/`.
+- Fresh research Blocks 001–032 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -46,12 +46,13 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 029 covers Origin Effects and Vertex Effects.
 - Block 030 covers Source Audio.
 - Block 031 covers Lichtlaerm Audio and Does It Doom?, with uncertain Does It Doom? classifications deliberately left in a verification queue rather than forced into categories.
+- Block 032 covers BJFE / BJF Electronics — Björn Juhl, using the BJFE/BearFoot archival registry and product-description archive, cross-checked against official One Control pages that explicitly identify Björn Juhl/BJF/BJFE relationships.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`475e385ebbf0d07bec7bd69cb7a435188982292c`
+`46704d5ab18eacccedb1b69480c38a3e5197a57c`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
