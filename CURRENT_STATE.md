@@ -11,67 +11,50 @@ Default branch: `main`
 The active work is the builder census: identify builders and document the overdrive, distortion, and fuzz pedals they make or made. Do not move into the later photo or pedal-information phases yet.
 
 ## Canonical source of truth
-`research/BUILDER_MASTER_INDEX.md` is the canonical builder identity ledger for this phase.
+`research/BUILDER_MASTER_INDEX.md` remains the canonical builder identity ledger.
 
-A research block is a chronological checkpoint, not a builder ID. Multiple blocks can refer to the same builder, but the canonical builder count is taken only from the master index.
+`research/MASTER_PEDAL_CENSUS.csv` is now the canonical accumulated pedal table for the current Builder -> Pedals phase. Its core fields are deliberately simple: **Builder, Pedal, Type**.
 
-## Corrected live census checkpoint
-- **106 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+A research block is a chronological checkpoint, not a builder ID. Multiple blocks can refer to the same builder.
+
+## Current census checkpoint
 - **140 block files** are currently present under `research/builders/`.
-- **141 builder mentions** occur in those blocks because Block 033 contains two builders.
-- The 141 mentions collapse to **106 canonical identities**, so there are **35 duplicate/alias mentions** to identities already represented elsewhere.
+- **231 builder sections** are parsed from those blocks because many blocks contain more than one builder section.
+- The generated master pedal census currently contains **2,466 builder/pedal/type rows**.
+- Those rows currently cover **103 builder names** with target overdrive, distortion, or fuzz entries.
 - Live blocks are **001-069 and 071-141**.
-- **Block 070 is absent.** It is not a builder and must not be treated as a gap that creates a new builder.
+- **Block 070 is absent.** It is not a builder and must not be treated as a missing builder.
 - **Block 142 was Fairfield Circuitry and was removed as a duplicate** because Fairfield Circuitry is already represented by Block 102.
 
-## Confirmed duplicate builder groups
-The master index records the block mapping. The major repeated groups include:
+## Master pedal census
+`research/MASTER_PEDAL_CENSUS.csv` is generated from the live research blocks by `tools/build_master_pedal_census.py` and rebuilt automatically by `.github/workflows/rebuild-master-census.yml`.
 
-- Amptweaker: 043, 127
-- Analog Man: 006, 118
-- Barber Electronics: 015, 125
-- Beetronics FX: 020, 123
-- Black Arts Toneworks: 101, 134
-- BlackOutEffectors: 050, 113
-- Catalinbread Effects: 004, 116, 132
-- Crazy Tube Circuits: 017, 122
-- Death By Audio: 010, 096, 135
-- Dr. Scientist Sounds: 036, 037, 106
-- EarthQuaker Devices: 002, 098, 129
-- Electronic Audio Experiments: 018, 100
-- Friedman Amplification: 009, 011, 126
-- Fulltone: 001, 105
-- Greer Amps: 014, 120
-- IdiotBox Effects: 042, 107
-- JHS Pedals: 003, 117, 130
-- Keeley Electronics: 062, 133
-- Mythos Pedals: 023, 114
-- Old Blood Noise Endeavors: 019, 104
-- ProCo Sound: 008, 012, 138
-- Spaceman Effects: 103, 136
-- Suhr: 025, 121
-- ThorpyFX: 109, 137
-- Walrus Audio: 064, 131
-- Wampler Pedals: 063, 128
-- Way Huge: 040, 140
-- ZVEX Effects: 065, 141
+The table intentionally contains only:
+
+`Builder | Pedal | Type`
+
+Type is limited to **Overdrive**, **Distortion**, and **Fuzz**. A pedal can have more than one row when it belongs to more than one of those categories.
+
+Grouped research notes, explanatory prose, embedded citation tokens, and “no product” placeholder statements are removed during generation so the master table stays focused on actual named pedal products.
 
 ## Current workflow direction
 The important job is now **collect -> compare -> consolidate -> organize**.
 
-The research corpus should make it easy to compare the entire accumulated builder/pedal list against every newly researched builder and pedal, so duplicate work is caught before another block is created.
+The master pedal census is the comparison point for all future pedal research. New builders and pedals should be compared against the accumulated master tables before additional research blocks are created.
 
 Do not spend the active phase building evidence, verification, confidence, or lead-tracking systems. Those are outside the purpose of this census.
 
 ## Latest corrective work
-1. Added `research/BUILDER_MASTER_INDEX.md` with the 106 canonical builder identities and live block mappings.
+1. Added `research/BUILDER_MASTER_INDEX.md` with the working canonical builder identities.
 2. Made the master index the no-duplicate gate in `START_HERE.md` and `ARCHIVE_GOVERNANCE.md`.
 3. Removed duplicate Fairfield Circuitry Block 142 from the live block set.
-4. Corrected this state file so the checkpoint no longer stops at Block 128.
-5. Simplified the governance so the active phase stays focused on the actual builder/pedal census.
+4. Simplified the governance so the active phase stays focused on the actual builder/pedal census.
+5. Created `research/MASTER_PEDAL_CENSUS.csv` from the accumulated research blocks.
+6. Added `tools/build_master_pedal_census.py` so the census is regenerated from the live blocks instead of manually retyped.
+7. Added `.github/workflows/rebuild-master-census.yml` so the master pedal table rebuilds automatically after research changes.
 
 ## Next action
-Do **not** automatically create another block by number. First select a builder that is absent from `research/BUILDER_MASTER_INDEX.md`. Before adding pedal names, compare them against the accumulated census and add only what is missing.
+Do not automatically create another block by number. Use the master builder and pedal tables first. Select the next builder that is not already represented, research its target dirt products, compare those products against `research/MASTER_PEDAL_CENSUS.csv`, and add only genuinely new product identities.
 
 ## Website
 The website remains a simple `UNDER CONSTRUCTION` page. No visual correctness claim is made without an actual browser/render inspection.
