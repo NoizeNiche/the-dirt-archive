@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–044 are stored under `research/builders/`.
+- Fresh research Blocks 001–045 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -59,12 +59,13 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 042 covers IdiotBox Effects — Atarimatt, using IdiotBox Effects' official About page, current catalog, individual product pages, and Retired Designs page. Current and clearly documented retired dirt identities were included; boost-only, noise, modulation, octave-only, and ambiguous mystery products were left outside the categorized census.
 - Block 043 covers Amptweaker — James Brown / Jack Thompson, using Amptweaker's current catalog/history, current product pages/manuals, and manufacturer-originated historical announcements and archival material. Distinct Jr, Pro, Bass, and fuzz identities were included where documented, while limited/cosmetic editions were not split into duplicate census entries.
 - Block 044 covers Basic Audio — one-man shop, using Basic Audio's current official catalog and individual official product pages. The block is strongly fuzz-oriented, includes explicitly documented overdrive identities, and avoids promoting insufficiently documented catalog names into additional categories.
+- Block 045 covers Animal Factory Amplification — Aditya Nandwana, using the builder's official founder/team material, current pedal catalog, current product pages, and manufacturer-authored historical product announcements. Physical pedal identities span fuzz, overdrive, and distortion; the separate Eurorack/module catalog is excluded.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`24a4a00f2d1eb4224c26ae4fca54af1fbb155f0c`
+`b78c7972a0ea7809f5080b5221ed79b411288319`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
