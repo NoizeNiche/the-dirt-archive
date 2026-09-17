@@ -22,7 +22,7 @@ The website currently loads the master catalog plus the active scrape census fil
 
 Multiple rows can represent one pedal when the cataloged pedal belongs to more than one dirt type.
 
-The current builder research index contains **267 canonical builder identities**, with **305 builder mentions across 158 research blocks** after the latest Scrape B continuation. The research blocks are historical working material and remain separate from the site's four-part information architecture.
+The canonical builder index currently contains **267 canonical builder identities** through Block 160. **Block 161 adds nine new builder identities, pending their insertion into the master index**. The research block set now runs through **Block 161**. The research blocks are historical working material and remain separate from the site's four-part information architecture.
 
 ## Website
 `index.html` is now the actual catalog page, not an under-construction placeholder.
@@ -55,4 +55,4 @@ Do not create additional website relationships or tracking systems unless the pr
 The repository's builder research and master builder index are retained as working material, but they are not part of the public site's information architecture.
 
 ## Next action
-Continue the Scrape B company -> pedal collection alphabetically after Bowman Audio Endeavors. Keep cross-referencing the canonical builder index so existing builders receive missing pedal records rather than duplicate identities.
+Continue the Scrape B company -> pedal collection alphabetically after Broughton Audio. Before adding another builder, merge the nine Block 161 builders into the canonical builder index so future passes do not create duplicate identities.
