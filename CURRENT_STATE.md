@@ -25,18 +25,18 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 059.
+Research blocks stored under `research/builders/` now run through Block 060.
 
-Latest addition in Block 059:
-- Mojo Hand FX — founded by Brad Fee; acquired by Cusack Music in 2015 and continued under Cusack Music
+Latest addition in Block 060:
+- Prescription Electronics — Jack Brossart / Prescription Electronics Inc.
 
 Recent blocks:
-- Block 054: Barbarossa — Newtool
 - Block 055: BIXONIC — Bright International Corp. / BIXONIC Inc.; relaunched under Kikusui Electronics Corp.
 - Block 056: McGregor Pedals — Garth McGregor Heslop
 - Block 057: Stomp Under Foot — Matt Pasquerella
 - Block 058: Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez
 - Block 059: Mojo Hand FX — founded by Brad Fee; acquired by Cusack Music in 2015 and continued under Cusack Music
+- Block 060: Prescription Electronics — Jack Brossart / Prescription Electronics Inc.
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -85,15 +85,16 @@ Block 056 records McGregor Pedals — Garth McGregor Heslop dirt products using 
 Block 057 records Stomp Under Foot — Matt Pasquerella dirt products using the current Stomp Under Foot catalog plus Premier Guitar, Guitar Pedal X, and Effects Database for historical/product-level corroboration. The block spans Overdrive, Distortion, and Fuzz; Full Powered Halo is explicitly both Overdrive and Distortion, Skinner Box remains Distortion despite lower-gain overdrive capability, and fuzz-family products are not inflated into additional categories.
 Block 058 records Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez, using Dirty Boy Co.'s official effects catalog and product pages plus Warm Audio's official Dirty Boy Jr. materials and authoritative collaboration coverage. The block spans Overdrive and Fuzz; PREAMP and Dirty Boy Jr. Overdrive are explicit Overdrive identities, AFRO FUZZ, The Magical MYSTERY FUZZ, and Dirty Boy Jr. Fuzz are explicit Fuzz identities, and no standalone Distortion identity is promoted.
 Block 059 records Mojo Hand FX — founded by Brad Fee; acquired by Cusack Music in 2015 and continued under Cusack Music, using Mojo Hand FX's official About page, current catalog, fuzz catalog, product pages, and discontinued-product material, with Effects Database, Reverb, Barefoot Buttons, Premier Guitar, and other authoritative historical corroboration where needed. The block spans Overdrive, Distortion, and Fuzz. Overdrive includes Rook, Rook Royale, DMBL, Extra Special, Magpie, Sacred Cow, Odessa, Rock City, Sericon, Kensrue Rook, BlueBonnet, and historical Superlative; Distortion includes Socrates and Magistrate; Fuzz includes Iron Bell, Crosstown, Crosstown Rasta, Colossus, 1979, 1979 Baja, One Ton Bee, El Guapo, and historical Zephyr, Rounder, and Pompeii. The block deliberately avoids category inflation from “almost distortion” or “almost overdrive” descriptions.
+Block 060 records Prescription Electronics — Jack Brossart / Prescription Electronics Inc., using manufacturer-era product descriptions where recoverable, the 2019 reissue report, Effects Database, Aion FX documentation, Premier Guitar, Jedistar, and historical product listings. The block spans Overdrive, Distortion, and Fuzz. Overdrive includes RX Overdriver, Germ, Yardbox, and Dual-Tone; Distortion includes Germ and Dual-Tone; Fuzz includes Experience, C.O.B. (Clean Octave Blend), Yardbox, Face Lift, Frantic Fuzz, Supernatural, and Depth Charge. Vibe-Unit, Throb, Outbox, Static, and non-target behaviors were excluded rather than forced into the dirt taxonomy.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 059.
+Added and re-read Builder → Pedals research Block 060.
 
 Research block commit:
-`5fcc4b8d41788c33a049ffe910690c7383aa8f65`
+`d17a2beb87ab321db2531beae97164021561dca0`
 
 Research block content SHA:
-`96f2aa97103b47f48ba6e939f7bef317e0d0adf3`
+`57ee9f8b8de3599a986e210463ec17d53d92c0f1`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
