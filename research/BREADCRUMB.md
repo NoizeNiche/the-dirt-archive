@@ -12,8 +12,8 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Repository reset is the current source of truth.
 - Permanent project boot instructions, archive governance, and current-state tracking are active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–094 are stored under `research/builders/`.
-- Blocks 001–060 remain preserved as repository research files; Blocks 061–094 are summarized below for quick continuity.
+- Fresh research Blocks 001–095 are stored under `research/builders/`.
+- Blocks 001–060 remain preserved as repository research files; Blocks 061–095 are summarized below for quick continuity.
 - Block 061: Skreddy Pedals. Manufacturer-supported Overdrive/Fuzz census; conservative Distortion handling; non-dirt utilities and amp-emulator platforms excluded.
 - Block 062: Keeley Electronics. Current and historical Overdrive, Distortion, and Fuzz identities; explicit overlaps retained; cosmetic/B-stock/limited variants consolidated.
 - Block 063: Wampler Pedals. Manufacturer-supported Overdrive, Distortion, and Fuzz census; explicit overlaps retained; weak historical leads not promoted.
@@ -48,20 +48,17 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 092: VFE Pedals. VFE Pedals / Peter Rutter is treated as an unrepresented builder identity with a broad standalone dirt catalog. Overdrive includes Tiamat, Blues King, Dragon, Dragon Hound, Merman, Pale Horse, The Scream, Distortion3, and historical Proto OD. Distortion includes RUP mkII, Killer Rabbit, Alpha Dog, Dark Horse, Distortion3, Dragon Hound, Fiery Red Horse, The Triplet, and Triumvirate. Fuzz includes Killer Rabbit, Fiery Red Horse, Fuzz Duo, and Woodchipper. Killer Rabbit is the explicit three-category overlap; Distortion3 and Dragon Hound are Overdrive + Distortion; Fiery Red Horse is Fuzz + Distortion. Tiamat, RUP mkII, and Killer Rabbit are current 2026 products/pre-orders; historical named products are consolidated across normal revisions. Fuzz Cocktail remains an unpromoted idea.
 - Block 093: Empress Effects. Empress Effects Inc. is treated as an unrepresented builder identity with a compact standalone dirt catalog. Overdrive includes Drive, Germ Drive, and Multidrive. Distortion includes Heavy, Heavy Menace, Distortion, and Multidrive. Fuzz includes Fuzz and Multidrive. Multidrive is the explicit three-category overlap. Heavy and Heavy Menace are Distortion only; Heavy Menace Limited Edition is consolidated with Heavy Menace as a colourway. ZOIA modules and factory patches remain excluded as modular/multi-effect functions rather than standalone dirt pedals.
 - Block 094: Dwarfcraft Devices. Dwarfcraft Devices is treated as an unrepresented builder identity with a historically broad and highly experimental standalone dirt catalog. Overdrive includes Gears, The Internet, Spectacular Aenima, and Robot Devil. Distortion includes Abaddon, Baby Thundaa / Baby Thunder, Eau Claire Thunder, The Internet, and The Great Destroyer. Fuzz includes Baby Thundaa / Baby Thunder, Bit Mangler, Dream Mangler, Eau Claire Thunder, HAX, Hair of the Dog, Necromancer, Reese Lightning, Robot Devil, Rot Yr Brain, SheFuzz / formerly Shiva, Silver Rose v2, Spectacular Aenima, Surrender Dorothy, The Great Destroyer, The Secret Destroyer, and Zhago. The strongest documented overlaps are The Internet (OD + Distortion), Robot Devil (Fuzz + OD), Spectacular Aenima (OD + Fuzz), Baby Thundaa / Baby Thunder (Fuzz + Distortion), Eau Claire Thunder (Fuzz + Distortion), and The Great Destroyer (Fuzz + Distortion). Pure synth, oscillator, pitch, modulation, utility, and other non-dirt products remain excluded.
-
-## Block 094 details
-Dwarfcraft Devices is treated as an unrepresented builder identity in the active census. Effects Database records 46 Dwarfcraft products overall, but many are filters, pitch effects, oscillators, synth devices, modulation, delay/reverb, utilities, or other non-dirt machines. The dirt census promotes only products with sufficiently explicit Overdrive, Distortion, or Fuzz identity. Gears is explicitly described as an overdrive; The Internet as an overdrive with an additional distortion stage; Spectacular Aenima is categorized as Overdrive while its product description also calls it a fuzz pedal; and Robot Devil is a fuzz pedal whose description explicitly includes overdrive territory. Abaddon is explicitly categorized as Distortion. Baby Thundaa / Baby Thunder is explicitly described as full-frequency fuzz/distortion, while Eau Claire Thunder is a fuzz pedal described as a distortion-and-sustain pedal. The Great Destroyer is cataloged as Fuzz and described as a distortion pedal. The historical fuzz set includes Bit Mangler, Dream Mangler, HAX, Hair of the Dog, Necromancer, Reese Lightning, Rot Yr Brain, SheFuzz / formerly Shiva, Silver Rose v2, Surrender Dorothy, The Secret Destroyer, and Zhago. Shiva is consolidated into SheFuzz because the builder explicitly states that the earlier name was changed. The Hurricane remains an unpromoted historical lead because reviewed material did not establish a target dirt category strongly enough.
+- Block 095: Mask Audio Electronics. Official MAE catalog and product pages identify a strongly fuzz-oriented physical pedal lineup and a clear Rat-style Trust Yourself distortion. Overdrive includes Germanium Part Garden, Part Garden, and LARAN (prebuilt). Distortion includes TRUST YOURSELF. Fuzz includes Germanium Part Garden, Little Acorn, MAYBE, CLUBBER LANG, Hot Water, BSRI x MAE | MAYBE THE REAL TREASURE..., CIVIL MATH, BLACK MATH, PART GARDEN, CASCADER, Screws, LARAN (prebuilt), and historical/discontinued YES!, NO., and Ears Come To Die. DIY-only projects, ALONE/NECKBRACE modulation, SEND-IN MODS, and the unresolved ??? listing remain excluded. Germanium Part Garden and Part Garden are explicit Overdrive + Fuzz overlaps; LARAN (prebuilt) is retained in both because the official page describes a mild-overdrive to full-fuzz range.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`48c6953c4ce9159d9f912e52a85375c9ae7f584f`
+`9953b35b3f7cda161d407900ab235772202ef1ab`
 
 ## Last checkpoint files
-- `CURRENT_STATE.md` updated in commit `f5e386ce92a0ef4c100f18c80b717e63f801e2d8`
-- `research/builders/BLOCK-2026-09-17-094.md` content SHA: `079fd235f92ac1778758e463871739d8091195c5`
-- `CURRENT_STATE.md` content SHA: `6d5d216a634cacd99b0dde3696ff9fbdca8314ba`
+- `CURRENT_STATE.md` updated in commit `7778187a756edea25e9e9bd2971c04abbaedc3e4`
+- `research/builders/BLOCK-2026-09-17-095.md` content SHA: `39f1fab1c65102f280e75c9b796a9da15bda1f78`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
