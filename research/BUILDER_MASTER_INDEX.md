@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **319 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **359 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **166 block files** are currently present: Blocks 001-069, 071-141, and 143-169.
+- **328 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **368 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **167 block files** are currently present: Blocks 001-069, 071-141, and 143-170.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 319 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 328 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -344,6 +344,15 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 317 | Cusack Music | 167 |  |
 | 318 | CUVAVE / M-VAVE | 168 | CUVAVE / M-VAVE |
 | 319 | COG Effects | 169 | COG Effects |
+| 320 | Carcharias Effects | 170 |  |
+| 321 | Chaos Custom Shop / Chaos FX | 170 | Chaos FX / Chaos Custom Shop |
+| 322 | CroyTone Audio Technologies | 170 | CroyTone Audio |
+| 323 | CTech / CB Labs | 170 | CB Labs / CTech |
+| 324 | Cultco | 170 |  |
+| 325 | Cunningham Amps | 170 |  |
+| 326 | Custom 77 | 170 | Custom77 |
+| 327 | Cutec | 170 |  |
+| 328 | Critically Overdriven | 170 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
