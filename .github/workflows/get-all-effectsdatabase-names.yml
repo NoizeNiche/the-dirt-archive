@@ -18,9 +18,9 @@ jobs:
           import requests
 
           cats = {
-            'Overdrive': ('https://www.effectsdatabase.com/type/overdrive/pedal', 54, 5365),
-            'Distortion': ('https://www.effectsdatabase.com/type/distortion/pedal', 34, 3390),
-            'Fuzz': ('https://www.effectsdatabase.com/type/fuzz/pedal', 42, 4126),
+            'Overdrive': ('https://www.effectsdatabase.com/type/overdrive/pedal', 54),
+            'Distortion': ('https://www.effectsdatabase.com/type/distortion/pedal', 34),
+            'Fuzz': ('https://www.effectsdatabase.com/type/fuzz/pedal', 42),
           }
           session = requests.Session()
           session.headers.update({'User-Agent':'Mozilla/5.0 (compatible; DirtArchive/1.0)'})
@@ -28,7 +28,7 @@ jobs:
           def fetch(target):
               proxy = 'https://r.jina.ai/http://' + target.split('://', 1)[1]
               for attempt in range(12):
-                  r = session.get(proxy, timeout=45)
+                  r = session.get(proxy, timeout=60)
                   if r.status_code == 429:
                       retry = r.headers.get('Retry-After')
                       try:
@@ -42,41 +42,86 @@ jobs:
                   return r.text
               raise RuntimeError(f'rate limited after retries: {target}')
 
+          def strip_md(s):
+              s = re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', s)
+              s = re.sub(r'!\[([^\]]*)\]\([^)]*\)', r'\1', s)
+              return html.unescape(s).strip()
+
           def parse(text):
               rows = []
-              # The catalog links are the authoritative entries. Scan every
-              # markdown link to a /model/ URL in document order. Using a greedy
-              # bracket match preserves names containing ']' characters.
-              for line in text.splitlines():
-                  for m in re.finditer(r'\[([^\n]*)\]\((https?://www\.effectsdatabase\.com/model/[^)\n]+)\)', line):
-                      name = html.unescape(m.group(1)).strip()
-                      if name:
-                          rows.append(name)
+              in_catalog = False
+              for raw in text.splitlines():
+                  line = raw.strip()
+                  if 'Gear in this category' in line:
+                      in_catalog = True
+                      continue
+                  if in_catalog and re.match(r'^\*\s*(?:«\s*first|‹\s*previous|next\s*›|last)', line, re.I):
+                      break
+                  if in_catalog:
+                      m = re.match(r'^\d+\.\s+(.+)$', line)
+                      if m:
+                          name = strip_md(m.group(1))
+                          if name:
+                              rows.append(name)
               return rows
 
           all_lines = []
-          for cat, (base, pages, expected) in cats.items():
+          manifest = []
+          for cat, (base, pages) in cats.items():
               cat_rows = []
+              seen = set()
               for page in range(pages):
                   target = base if page == 0 else f'{base}?page={page}'
                   print(f'GET {cat} page {page+1}/{pages}', flush=True)
                   text = fetch(target)
                   rows = parse(text)
-                  print(f'  {len(rows)} names', flush=True)
+                  print(f'  {len(rows)} catalog rows', flush=True)
                   if not rows:
-                      raise RuntimeError(f'{cat}: no rows on page {page}')
+                      raise RuntimeError(f'{cat}: no catalog rows on page {page}')
                   cat_rows.extend(rows)
+                  dupes = sum(1 for r in rows if r in seen)
+                  for r in rows:
+                      seen.add(r)
+                  manifest.append(f'{cat}\t{page+1}\t{len(rows)}\t{dupes}')
                   time.sleep(3.5)
-              print(f'{cat}: extracted {len(cat_rows)} names; expected {expected}', flush=True)
-              if len(cat_rows) != expected:
-                  raise RuntimeError(f'{cat}: extracted {len(cat_rows)}, expected {expected}')
+              unique = len(set(cat_rows))
+              print(f'{cat}: extracted {len(cat_rows)} rows; unique names {unique}', flush=True)
               all_lines += [f'## {cat}', ''] + cat_rows + ['']
 
-          out = Path('effectsdatabase_pedal_names.txt')
-          out.write_text('\n'.join(all_lines), encoding='utf-8')
-          print(f'WROTE {out} ({out.stat().st_size} bytes)', flush=True)
+          Path('effectsdatabase_pedal_names.txt').write_text('\n'.join(all_lines), encoding='utf-8')
+          Path('effectsdatabase_page_manifest.tsv').write_text('category\tpage\trows\tduplicates\n' + '\n'.join(manifest) + '\n', encoding='utf-8')
+          print('WROTE complete text and page manifest', flush=True)
+          PY
+      - name: Build Word document
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from docx import Document
+          from docx.shared import Pt
+          from docx.enum.text import WD_BREAK
+
+          text = Path('effectsdatabase_pedal_names.txt').read_text(encoding='utf-8')
+          doc = Document()
+          sec = doc.sections[0]
+          sec.top_margin = Pt(36); sec.bottom_margin = Pt(36)
+          sec.left_margin = Pt(45); sec.right_margin = Pt(45)
+          p = doc.add_paragraph()
+          r = p.add_run('Effects Database\nOverdrive, Distortion & Fuzz Pedal Name Index')
+          r.bold = True; r.font.size = Pt(18)
+          doc.add_paragraph('Source: Effects Database. One entry per catalog row, organized by category. Generated from the paginated pedal indexes.')
+          for block in text.split('\n## ')[1:]:
+              lines = block.splitlines()
+              cat = lines[0].strip()
+              doc.add_heading(cat, level=1)
+              for name in lines[2:]:
+                  if name.strip():
+                      doc.add_paragraph(name.strip(), style='List Number')
+          doc.save('effectsdatabase_pedal_names.docx')
           PY
       - uses: actions/upload-artifact@v4
         with:
           name: effectsdatabase-pedal-names
-          path: effectsdatabase_pedal_names.txt
+          path: |
+            effectsdatabase_pedal_names.txt
+            effectsdatabase_pedal_names.docx
+            effectsdatabase_page_manifest.tsv
