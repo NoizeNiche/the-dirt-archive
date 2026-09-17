@@ -29,6 +29,7 @@ Research blocks added:
 - `research/builders/BLOCK-2026-09-16-001.md`
 - `research/builders/BLOCK-2026-09-16-002.md`
 - `research/builders/BLOCK-2026-09-16-003.md`
+- `research/builders/BLOCK-2026-09-16-004.md`
 
 Builders covered so far:
 - Fulltone
@@ -39,16 +40,19 @@ Builders covered so far:
 - Wampler Pedals
 - JHS Pedals
 - Walrus Audio
+- Catalinbread Effects
+- Xotic Effects / Xotic California
 
 Block 001 records relevant overdrive, distortion, and fuzz products for Fulltone, MXR, Maxon, and DOD.
 Block 002 records relevant overdrive, distortion, and fuzz products for EarthQuaker Devices and Wampler Pedals.
-Block 003 records relevant overdrive, distortion, and fuzz products for JHS Pedals and Walrus Audio, including current and official rare/discontinued catalog entries where verified.
+Block 003 records relevant overdrive, distortion, and fuzz products for JHS Pedals and Walrus Audio.
+Block 004 records relevant overdrive, distortion, and fuzz products for Catalinbread Effects and Xotic Effects / Xotic California, including current and official legacy products where verified.
 
 ## Last completed research action
-Added and committed Builder → Pedals research Block 003.
+Added and committed Builder → Pedals research Block 004.
 
 Research block commit:
-`4e50849c95b7894687b0e6b8f13f41b6eca6b47b`
+`2c2fcb25730621d98f1fa63bd48b9e52c3909561`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
