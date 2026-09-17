@@ -25,11 +25,11 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 026.
+Research blocks stored under `research/builders/` now run through Block 027.
 
-Latest additions in Block 026:
-- JAM Pedals
-- Mad Professor Amplification
+Latest additions in Block 027:
+- KHDK Electronics
+- Stone Deaf FX
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -45,12 +45,13 @@ Block 023 records Mythos Pedals and Hudson Electronics dirt products using curre
 Block 024 records Seymour Duncan and J. Rockett Audio Designs dirt products using current manufacturer catalogs and official manufacturer documentation, with authoritative legacy references where needed.
 Block 025 records Suhr and Jackson Audio dirt products using current manufacturer catalogs and official product pages/documentation.
 Block 026 records JAM Pedals and Mad Professor Amplification dirt products using current manufacturer catalogs and official product pages/documentation, with official discontinued pages used for legacy identities.
+Block 027 records KHDK Electronics and Stone Deaf FX dirt products using current manufacturer catalogs and official product pages/documentation.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 026.
+Added and re-read Builder → Pedals research Block 027.
 
 Research block commit:
-`20daecac941a35b22ad08c11df64ec03b21b87fe`
+`0272906894d77dac7d676562b50de69b6a14f6b5`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
