@@ -36,6 +36,9 @@ Research blocks added:
 - `research/builders/BLOCK-2026-09-16-008.md`
 - `research/builders/BLOCK-2026-09-16-009.md`
 - `research/builders/BLOCK-2026-09-16-010.md`
+- `research/builders/BLOCK-2026-09-16-011.md`
+- `research/builders/BLOCK-2026-09-16-012.md`
+- `research/builders/BLOCK-2026-09-16-013.md`
 
 Builders covered so far:
 - Fulltone
@@ -58,6 +61,7 @@ Builders covered so far:
 - Pigtronix
 - Death By Audio
 - Lovepedal / Sean Michael
+- Electro-Harmonix
 
 Block 001 records Fulltone, MXR, Maxon, and DOD.
 Block 002 records EarthQuaker Devices and Wampler Pedals.
@@ -69,12 +73,15 @@ Block 007 records BOSS current and historical dirt products from official BOSS/R
 Block 008 records ProCo Sound and Keeley Electronics dirt products, with product names checked against manufacturer or authoritative catalog material.
 Block 009 records Friedman Amplification and Pigtronix dirt products, with product names checked against current manufacturer catalogs and product documentation.
 Block 010 records Death By Audio and Lovepedal / Sean Michael dirt products, with product names checked against manufacturer or authoritative product documentation.
+Block 011 tightens Friedman Amplification and Pigtronix coverage, including historical Friedman dirt identities and explicit Pigtronix classifications.
+Block 012 consolidates ProCo Sound and Catalinbread Effects identities encountered in the fresh census.
+Block 013 records Electro-Harmonix current and historical overdrive, distortion, and fuzz identities using EHX catalog, support, search, and dealer-catalog material.
 
 ## Last completed research action
-Added Builder → Pedals research Block 010.
+Added Builder → Pedals research Block 013 for Electro-Harmonix.
 
 Research block commit:
-`ae310d2ccf999f562f89b0a32e4b9813ecdf76a4`
+`a31b1ee69765d7e361400dd166021f6ba0a31c33`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
