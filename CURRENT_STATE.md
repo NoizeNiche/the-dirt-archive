@@ -25,65 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 100**.
+Research blocks stored under `research/builders/` now run through **Block 101**.
 
 Latest addition:
-- Block 100: Electronic Audio Experiments
+- Block 101: Black Arts Toneworks
 
 Recent blocks:
-- Block 095: Mask Audio Electronics
 - Block 096: Death By Audio
 - Block 097: Fjord Fuzz
 - Block 098: EarthQuaker Devices
 - Block 099: Caroline Guitar Company
 - Block 100: Electronic Audio Experiments
+- Block 101: Black Arts Toneworks
 
-Blocks 001–099 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
-
-### Block 098 summary
-EarthQuaker Devices is treated as a previously uncovered builder with a broad dirt history across current and legacy products.
-
-Overdrive:
-- Blumes
-- Gary
-- Plumes
-- Special Cranker
-- Gray Channel — historical / discontinued
-- Dunes — historical / discontinued
-- Monarch — historical / discontinued
-- Palisades — historical / discontinued
-- Speaker Cranker — historical / discontinued
-- Talons — historical / discontinued
-- Westwood — historical / discontinued
-- White Light — historical / discontinued
-
-Distortion:
-- Acapulco Gold
-- Gary
-- Sunn O))) HalfLife
-- Sunn O))) Life Pedal / Life Pedal V2 — consolidated identity
-- Zoar
-
-Fuzz:
-- Barrows
-- Bellows — historical / discontinued
-- Black Ash — historical / discontinued
-- Chelsea
-- Cloven Hoof — historical / discontinued
-- Dirt Transmitter — historical / discontinued
-- Erupter — historical / discontinued
-- Fuzz Master General — historical / discontinued
-- Gary
-- Hizumitas
-- Hoof
-- Hoof Reaper — historical / discontinued
-- Park Fuzz Sound — historical / discontinued
-- Rancho de la Luna Dirt Transmitter — historical / discontinued
-- Sound Shank — historical / discontinued
-- Spires — historical / discontinued
-- Terminal — historical / discontinued
-- Tone Reaper — historical / discontinued
-- Dream Crusher — historical / discontinued
+Blocks 001–100 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 099 summary
 Caroline Guitar Company is treated as a previously uncovered builder with a mixed historical dirt catalog.
@@ -108,10 +63,8 @@ Fuzz:
 - Olympia — historical / discontinued
 - Wave Cannon / Cannonball — historical identity
 
-Wave Cannon/Cannonball is retained across all three target categories because Caroline's own historical material explicitly describes overdrive and distortion tones plus fuzzy Havoc behavior. CROM is retained in both Fuzz and Distortion because Caroline calls it a “fuzzstortion.” Hawaiian Pizza and Shigeharu remain Fuzz identities despite drive-like ranges; Icarus remains Overdrive because Caroline explicitly identifies rich overdrive.
-
 ### Block 100 summary
-Electronic Audio Experiments is treated as a previously uncovered builder with a substantial lineup across Overdrive, Distortion, and Fuzz. EAE's current catalog and Legacy pages explicitly identify its dirt products, and its own drive guide explains that the category boundaries are deliberately blurry. The archive still uses the manufacturer's named product identity rather than automatically counting every gain range as a separate category.
+Electronic Audio Experiments is treated as a previously uncovered builder with a substantial lineup across Overdrive, Distortion, and Fuzz.
 
 Overdrive:
 - Halberd
@@ -135,21 +88,55 @@ Fuzz:
 - Eldritch Blast — historical / discontinued collaboration
 - Dude Incredible / Percolate channel — historical / discontinued
 
-The clearest hybrid case is Dude Incredible, which EAE documents as a box combining an IVP-style transformer-loaded overdrive channel with a Percolator-style fuzz channel. Longsword and Surveyor are retained as Distortion identities. Halberd, Citadel, Model feT, Limelight, Bard, Dagger, 0xEAE Boost, and Greathammer are retained as Overdrive identities. Glaive, 0xEAE Fuzz, Eldritch Blast, and the Percolate side of Dude Incredible are retained as Fuzz identities.
+The archive follows EAE's explicit product identities and does not turn every gain range into a separate category. Dude Incredible is one named pedal containing an overdrive/distortion Tube Voice side and a Percolator-style fuzz side.
 
-Beholder, Sending, Hypersleep, Mirror House, Scattering, Prismatic Wall, µ Blaster, 0xEAE Bass Driver, and other reverb/delay/modulation/boost/amp-oriented products remain excluded where their primary identity is outside the three target categories. B-stock, color, and ordinary revision differences are consolidated; Glaive and 0xEAE Fuzz remain separate named products because EAE presents Glaive as a new product built from the earlier circuit lineage rather than as a simple version number.
+### Block 101 summary
+Black Arts Toneworks is a previously uncovered builder with a broad dirt history dominated by fuzz and heavy gain.
+
+Overdrive:
+- Black Forest
+- Quantum Mystic
+- Witch Burner MkII
+- Raw Heart OD
+- Tres Diablos Ruidosos
+- Coven
+- BAT — historical / discontinued
+
+Distortion:
+- BAT — historical / discontinued
+- Raw Heart OD
+- Revelation — historical / discontinued
+- Tres Diablos Ruidosos
+- Priestess
+
+Fuzz:
+- Pharaoh
+- Pharaoh Supreme
+- Son of Pharaoh
+- LSTR
+- Black Sheep
+- Priestess
+- Crown of Horns — historical / discontinued
+- FNORD
+- Destroyer
+- Sarcophagus
+- Rabid Mammal
+- Coven
+- Tres Diablos Ruidosos
+
+The strongest hybrid cases are Raw Heart OD (Overdrive + Distortion), Coven (Overdrive + Fuzz), and Tres Diablos Ruidosos (Overdrive + Distortion + Fuzz). Priestess is retained as Fuzz; Pharaoh-family pedals remain Fuzz when BAT describes lighter drive sounds as part of their operating range. Skyboost remains excluded as a boost-first product.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 100.
+Added and re-read Builder → Pedals research Block 101.
 
 Research block commit:
-`91ff22bb80ea26d6f58cb610aa2a8aee64778c06`
+`fbec4ec08d12a05c13392ed0729b1f9341a503bd`
 
 Research block content SHA:
-`100e24f2ec3601a24f9a6ee678e0ad3d238545fc`
+`e2d01cba89ce06244d80cbedf041d1ab606f8a36`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
