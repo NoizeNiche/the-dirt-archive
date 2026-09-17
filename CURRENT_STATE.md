@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 077**.
+Research blocks stored under `research/builders/` now run through **Block 078**.
 
 Latest addition:
-- Block 077: Bogner Amplification
+- Block 078: MESA/Boogie
 
 Recent blocks:
-- Block 067: Pigtronix
 - Block 068: Foxgear
 - Block 069: Lovepedal
 - Block 070: Xotic Effects / Xotic California
@@ -42,40 +41,46 @@ Recent blocks:
 - Block 075: Voodoo Lab
 - Block 076: Blackstar Amplification
 - Block 077: Bogner Amplification
+- Block 078: MESA/Boogie
 
-Blocks 001–076 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–077 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 077 summary
-Bogner Amplification is treated as an unrepresented builder identity with seven clearly documented core dirt products: Ecstasy Blue, Ecstasy Red, Uberschall, Wessex, Burnley, La Grange, and Oxford.
+### Block 078 summary
+MESA/Boogie is treated as an unrepresented builder identity with ten clearly documented core dirt products: Cleo, DynaPlex, Gold Mine, Grid Slammer, Flux-Drive, Flux-Five, Throttle Box, Throttle Box EQ, Tone-Burst, and the associated MESA Drive/Boost family identities documented in the manufacturer archive.
 
 Overdrive:
-- Ecstasy Blue
-- Ecstasy Red
-- Wessex
-- La Grange
+- Cleo
+- DynaPlex
+- Gold Mine
+- Grid Slammer
+- Flux-Drive
+- Flux-Five
+- Throttle Box
+- Throttle Box EQ
+- Tone-Burst
 
 Distortion:
-- Ecstasy Red
-- Uberschall
-- Burnley
+- Flux-Drive
+- Throttle Box
+- Throttle Box EQ
 
 Fuzz:
-- Oxford
+- none identified in reviewed manufacturer material
 
-Ecstasy Blue is recorded as Overdrive from product-level overdrive descriptions. Ecstasy Red is recorded as Overdrive + Distortion because surviving product material explicitly identifies it as an Overdrive/Distortion pedal and describes its range from vintage overdrive through high gain. Wessex is recorded as Overdrive, and La Grange as Overdrive, based on product-level descriptions. Uberschall and Burnley are recorded as Distortion because their documented product identities are distortion pedals. Oxford is recorded as Fuzz because its product identity is explicitly a fuzz pedal, even though its Gain control can reach amp-like breakup.
+Cleo, DynaPlex, Gold Mine, and Grid Slammer are explicitly documented as overdrive products. Flux-Drive is explicitly presented by MESA as an Overdrive/Distortion pedal and therefore receives both categories. Flux-Five is explicitly described as an overdrive version of the Flux-Drive platform. Throttle Box is explicitly identified as a high-gain distortion pedal while MESA also describes its lower-gain platform with overdrive language, so it receives both categories. Throttle Box EQ explicitly describes stinging overdrive while extending the Throttle Box gain platform; authoritative product coverage identifies it as distortion, so both categories are retained. Tone-Burst is explicitly described by MESA as Boost/Overdrive and is therefore included under Overdrive.
 
-Ecstasy Blue Mini and Ecstasy Red Mini are consolidated with the corresponding Ecstasy identities. Burnley V2 and Wessex V2 are treated as revisions rather than separate dirt products. Booster functions and other secondary controls remain outside the target taxonomy.
+Flux-Five and Throttle Box EQ remain separate named products because MESA presents them as expanded platforms with additional EQ and switching features. Tone-Burst remains an Overdrive identity despite appearing in the Boost Pedals section. Cosmetic finishes, production revisions, and presentation variants are consolidated.
 
-Current production status for the Bogner pedal range is not asserted because reviewed current manufacturer material is incomplete and current availability records are inconsistent. Historical Bogner dirt products remain in scope.
+No standalone MESA/Boogie Fuzz identity was established in the reviewed manufacturer catalog, product pages, and manuals.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 077.
+Added and re-read Builder → Pedals research Block 078.
 
 Research block commit:
-`e62a6df0caacaa41033dd974a2c4060541788899`
+`6b0059bbae4b04680693f9c9428592f8664c0d70`
 
 Research block content SHA:
-`51f69c4d9a833a67cba07a1c9b26d0055e52789b`
+`5de3a0aacb2ef89d4e42f448d376042c253ef6ca`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
