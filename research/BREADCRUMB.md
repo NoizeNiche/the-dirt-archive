@@ -52,12 +52,12 @@ Fuzz:
 Key restraint: EAE itself notes that boost, overdrive, distortion, and fuzz overlap heavily, so the archive uses explicit product identity instead of counting every gain range as a separate category. Dude Incredible is retained as one pedal with two explicit dirt channels: an overdrive/distortion Tube Voice side and a Percolator-style fuzz side. Longsword and Surveyor remain Distortion; Halberd, Citadel, Model feT, Limelight, Bard, Dagger, 0xEAE Boost, and Greathammer remain Overdrive; Glaive, 0xEAE Fuzz, Eldritch Blast, and the Percolate side of Dude Incredible remain Fuzz.
 
 ## Last research commit
-`c61281d84e8a1ac5b5c122b553d1fb5a0e2b5ec0`
+`91ff22bb80ea26d6f58cb610aa2a8aee64778c06`
 
 ## Last checkpoint
-- `CURRENT_STATE.md` updated in commit `70c319d8b2f3dd1913fff68e56bf41f115b76a84`
-- `research/builders/BLOCK-2026-09-17-100.md` content SHA: `d1e...`
-- `CURRENT_STATE.md` content SHA: `87ffaa5c54d02d3548b1b3187da5e01515a17ff0`
+- `CURRENT_STATE.md` updated in commit `5ce9ce2ee6d07b2b32974a88378759d205914c94`
+- `research/builders/BLOCK-2026-09-17-100.md` content SHA: `100e24f2ec3601a24f9a6ee678e0ad3d238545fc`
+- `CURRENT_STATE.md` content SHA: `d8d9390590f32949405f7ee894271c30115e790b`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
