@@ -10,273 +10,63 @@ Default branch: `main`
 
 The active work is the builder census: identify builders and document the overdrive, distortion, and fuzz pedals they make or made. Do not move into the later photo or pedal-information phases yet.
 
-## Repository state at this checkpoint
-The durable instruction layer is active in the repository and is the source of truth for project continuity.
+## Canonical source of truth
+`research/BUILDER_MASTER_INDEX.md` is now the canonical builder identity ledger for this phase.
 
-Current root files:
-- `START_HERE.md`
-- `ARCHIVE_GOVERNANCE.md`
-- `CURRENT_STATE.md`
-- `index.html`
-- `research/`
+A research block is a chronological checkpoint, not a builder ID. Multiple blocks can refer to the same builder, but the canonical builder count is taken only from the master index.
 
-The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository tooling does not provide direct visual inspection of the rendered browser page, so live visual correctness must not be claimed unless a separate browser/render check is actually available.
+## Corrected live census checkpoint
+- **106 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **140 block files** are currently present under `research/builders/`.
+- **141 builder mentions** occur in those blocks because Block 033 contains two builders.
+- The 141 mentions collapse to **106 canonical identities**, so there are **35 duplicate/alias mentions** to identities already represented elsewhere.
+- Live blocks are **001-069 and 071-141**.
+- **Block 070 is absent.** It is not a builder and must not be treated as a gap that creates a new builder.
+- **Block 142 was Fairfield Circuitry and was removed as a duplicate** because Fairfield Circuitry is already represented by Block 102.
 
-## Research completed in this phase
-Fresh Builder -> Pedals census is underway.
+## Confirmed duplicate builder groups
+The master index records the block mapping. The major repeated groups include:
 
-Research blocks stored under `research/builders/` now run through **Block 128**.
+- Amptweaker: 043, 127
+- Analog Man: 006, 118
+- Barber Electronics: 015, 125
+- Beetronics FX: 020, 123
+- Black Arts Toneworks: 101, 134
+- BlackOutEffectors: 050, 113
+- Catalinbread Effects: 004, 116, 132
+- Crazy Tube Circuits: 017, 122
+- Death By Audio: 010, 096, 135
+- Dr. Scientist Sounds: 036, 037, 106
+- EarthQuaker Devices: 002, 098, 129
+- Electronic Audio Experiments: 018, 100
+- Friedman Amplification: 009, 011, 126
+- Fulltone: 001, 105
+- Greer Amps: 014, 120
+- IdiotBox Effects: 042, 107
+- JHS Pedals: 003, 117, 130
+- Keeley Electronics: 062, 133
+- Mythos Pedals: 023, 114
+- Old Blood Noise Endeavors: 019, 104
+- ProCo Sound: 008, 012, 138
+- Spaceman Effects: 103, 136
+- Suhr: 025, 121
+- ThorpyFX: 109, 137
+- Walrus Audio: 064, 131
+- Wampler Pedals: 063, 128
+- Way Huge: 040, 140
+- ZVEX Effects: 065, 141
 
-Latest addition:
-- Block 128: Wampler Pedals
-
-Recent blocks:
-- Block 122: Crazy Tube Circuits
-- Block 123: Beetronics FX
-- Block 124: Mad Professor Amplification
-- Block 125: Barber Electronics
-- Block 126: Friedman Amplification
-- Block 127: Amptweaker
-- Block 128: Wampler Pedals
-
-Blocks 001-127 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
-
-### Block 122 summary
-Crazy Tube Circuits is a previously uncovered builder with a broad dirt catalog spanning Overdrive, Distortion, and Fuzz, including current and historical products.
-
-Overdrive:
-- Stardust V3
-- Crossfire
-- Space Charged V2
-- Falcon
-- Ziggy V2
-- Unobtanium
-- Unobtanium RAW - limited/current lineage
-- Hi-Power
-- Venus
-- Heatseeker
-- Starlight - historical/discontinued
-
-Distortion:
-- Space Charged V2
-- Ziggy V2
-- Motherload
-- Venus
-- Starlight - historical/discontinued
-- Limelight - historical/current lineage
-
-Fuzz:
-- Orama
-- Motherload
-- Limelight - historical/current lineage
-- Constellation - historical/limited
-- Starlight - historical/discontinued
-- Triptychon
-
-Key overlaps: Space Charged V2 = Overdrive + Distortion; Ziggy V2 = Overdrive + Distortion; Motherload = Overdrive + Distortion + Fuzz; Venus = Overdrive + Distortion; Starlight = Overdrive + Distortion + Fuzz; Limelight = Distortion + Fuzz.
-
-Key restraint: Orama's amp-style drive section is not promoted to Overdrive because the builder distinguishes it from a typical overdrive; Triptychon likewise keeps its separate drive section outside the Overdrive label. Constellation editions are consolidated. Motherload remains one two-circuit product. Routine versions, cosmetics, and boost-only products remain outside separate dirt identities.
-
-### Block 123 summary
-Beetronics FX is a previously uncovered builder with a clearly documented Overdrive + Fuzz catalog.
-
-Overdrive:
-- Fatbee
-- Overhive
-- Wannabee / Beelateral Buzz
-- Royal Jelly
-- Nectar Tone Sweetener
-
-Distortion:
-- None established in this block
-
-Fuzz:
-- Octahive V2
-- Abelha Tropical Fuzz
-- Vezzpa Octave Stinger
-- Swarm Fuzz Harmonizer
-- Royal Jelly
-- Nectar Tone Sweetener
-- Tuna Fuzz
-
-Key overlaps: Royal Jelly = Overdrive + Fuzz; Nectar Tone Sweetener = Overdrive + Fuzz.
-
-Key restraint: Beetronics generic mentions of distortion are not enough to establish a separate Distortion category. Octahive V2, Vezzpa, Swarm, and Abelha remain Fuzz despite octave/harmonizer modes. Wannabee remains Overdrive only. Limited editions, custom-shop units, artwork, and enclosure variants are consolidated rather than multiplied. Tuna Fuzz remains one fuzz identity despite its unusual can enclosure. Modulation/time-based and boost-first products remain outside scope.
-
-### Block 124 summary
-Mad Professor Amplification is a previously uncovered builder with a large historical/current Overdrive catalog plus dedicated Distortion and Fuzz products.
-
-Overdrive:
-- Albert's Overdrive - historical/discontinued
-- Amber Overdrive - historical/discontinued
-- Big Tweedy Drive - historical/discontinued
-- Blueberry Bass Overdrive - historical/discontinued
-- Bluebird Overdrive - historical/discontinued
-- Golden Cello - historical/discontinued
-- The Green Wonder - current
-- Little Green Wonder - current/handwired lineage
-- Little Tweedy Drive - historical/discontinued
-- Loud 'n Proud - historical/discontinued
-- Royal Blue Overdrive - current/handwired lineage
-- Simble / Simble Overdrive Mk2 - original lineage + current Mk2
-- Sky Blue Overdrive - historical/handwired lineage
-- Supreme - historical/limited/current-return lineage
-- Sweet Honey Overdrive - current/handwired lineage
-- Sweet Honey Overdrive Deluxe - historical/discontinued
-- Twimble - historical/discontinued
-
-Distortion:
-- Mighty Red Distortion - historical/discontinued
-- Stone Grey Distortion - historical/discontinued
-
-Fuzz:
-- Fire Red Fuzz - historical/discontinued
-- Loud 'n Proud - historical/discontinued
-
-Key overlap: Loud 'n Proud = Overdrive + Fuzz.
-
-Key restraint: Amber and Albert's remain Overdrive only despite fuzz-like behavior at high settings. Bluebird and Blueberry Bass remain Overdrive only despite higher settings producing distortion. Royal Blue remains Overdrive only despite its range into distortion. Super Black is excluded as an amp-in-a-box product even though it contains a separate Sweet Honey overdrive circuit. Evolution Orange Underdrive, Simble Predrive, Ruby Red Booster, and non-dirt effects remain outside scope.
-
-### Block 125 summary
-Barber Electronics is a previously uncovered builder with a large historical/current catalog centered on Overdrive, plus clear Distortion and Fuzz identities.
-
-Overdrive:
-- Midnight Standard - current
-- Gain Changer / Gain Changer SR - current lineage
-- Compact Direct Drive / Direct Drive lineage - current/historical
-- LTD / Silver LTD lineage - historical/discontinued
-- 1/2 Gainer - historical/discontinued
-- unLimiTeD / unLTD 2-Channel Overdrive - historical/discontinued
-- Burn Unit / Burn Unit 2 / Burn Unit EQ / Compact Burn Unit - historical/current lineage
-- Small Fry Burn Unit - historical/discontinued
-- Tone Pump / Tone Pump EQ / Tone Pump II - historical lineage
-- Deep Fryer - historical/limited
-- B-Custom Cool - historical/custom-shop
-- B-Custom Super Sport - historical/custom-shop
-- B-Custom Dual Discrete - historical/custom-shop
-- FWW BUSS - current
-- FWW BUSS HG - current
-- FWW Plus - current
-
-Distortion:
-- Dirty Bomb - historical/discontinued
-- Burn Unit lineage
-- Gain Changer lineage
-
-Fuzz:
-- Exacta - current
-- Trifecta - historical/discontinued
-
-Key overlaps: Burn Unit = Overdrive + Distortion; Gain Changer = Overdrive + Distortion.
-
-Key restraint: Direct Drive, LTD, Burn Unit, Tone Pump, and related versions are treated as lineages rather than multiplied by routine revisions. B-Custom Dual Discrete is a custom combination of existing Barber overdrives, not a unique core dirt design. Exacta and Trifecta remain Fuzz only. Dirty Bomb remains Distortion only. Deep Fryer remains Overdrive only despite reports of heavier drive at high settings. FWW BUSS, FWW BUSS HG, and FWW Plus remain Overdrive entries. Barb EQ, Linden EQ, Launch Pad, Tone Press, and other non-dirt Barber products remain outside scope.
-
-### Block 126 summary
-Friedman Amplification is a previously uncovered builder with a clearly documented current Overdrive catalog plus historical high-voltage tube dirt pedals.
-
-Overdrive:
-- BE-OD - current
-- BE-OD Deluxe - current
-- Dirty Shirley Pedal - current
-- Golden Pearl - current
-- Smallbox Overdrive Pedal - current
-- Motor City Drive - historical/discontinued
-
-Distortion:
-- None established in this block
-
-Fuzz:
-- Fuzz Fiend - historical/discontinued
-
-Key overlaps: none established under the builder-label rule.
-
-Key restraint: Friedman consistently names BE-OD, BE-OD Deluxe, Dirty Shirley, Golden Pearl, and Smallbox as Overdrive products, even when their gain ranges become aggressive. Motor City Drive remains Overdrive based on historical documentation. Fuzz Fiend remains Fuzz because Friedman's own official demo explicitly identifies it as a tube fuzz pedal. Third-party use of the word distortion is not enough to create a separate Friedman Distortion category. Sir Compre, Buxom Boost, IR-D, IR-J, IR-X, Gold-72 Wah, and other non-target products remain outside scope. Routine editions, finish changes, and standard packaging differences are not multiplied into separate dirt identities.
-
-### Block 127 summary
-Amptweaker is a previously uncovered builder with a dirt catalog spanning Overdrive, Distortion, and Fuzz. The official current catalog lists Tight Drive, Tight Rock, Tight Metal, Big Rock Pro II, and Fat Metal Pro II; historical documentation establishes the broader TightDrive, TightMetal, TightRock, BigRock, FatRock, TightFuzz, and BluesFuzz families.
-
-Overdrive:
-- TightDrive / TightDrive Pro / TightDrive Jr / Bass TightDrive / Bass TightDrive Jr - current/historical TightDrive lineage
-- BigRock Pro / BigRock Pro II - historical/current BigRock lineage
-
-Distortion:
-- TightMetal / TightMetal Pro / TightMetal Pro II / TightMetal Jr / Bass TightMetal Jr / TightMetal ST / limited TightMetal editions - TightMetal distortion lineage
-- TightRock / TightRock Jr / Performance Series Tight Rock - TightRock distortion lineage
-- BigRock Pro / BigRock Pro II - Rock overdrive/distortion lineage
-- FatRock Distortion - historical
-- FatMetal / FatMetal Pro / FatMetal Pro II - FatMetal distortion lineage
-
-Fuzz:
-- TightFuzz / TightFuzz Pro / TightFuzz Jr / Bass TightFuzz / Bass TightFuzz Jr / Tim Lefebvre Signature TightFuzz - TightFuzz family
-- BluesFuzz / BluesFuzz Limited / BluesFuzz Jr / Bass BluesFuzz Jr - BluesFuzz family
-
-Key overlap: BigRock Pro / BigRock Pro II = Overdrive + Distortion.
-
-Key restraint: TightDrive and Bass TightDrive remain Overdrive despite heavy-gain language. TightRock and TightMetal remain Distortion because their named product identities and manuals explicitly call them distortion pedals. FatMetal remains Distortion despite broad gain range. TightFuzz and BluesFuzz remain Fuzz despite lower-gain, boost, EQ, or attack modes. TightMetal limited editions, Jr versions, Pro versions, and Bass versions are consolidated into the TightMetal lineage; TightRock variants are consolidated into TightRock; TightFuzz variants are consolidated into TightFuzz; BluesFuzz Limited and Jr variants are consolidated into BluesFuzz. DepthFinder, DeFizzerator, Curveball, PressuRizer, TightBoost, and SwirlPool remain outside the dirt census. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
-
-### Block 128 summary
-Wampler Pedals is a previously uncovered builder with a substantial documented dirt catalog spanning Overdrive, Distortion, and Fuzz. Wampler's current catalog separates Distortion / Overdrive and Fuzz, while its official downloads page preserves a dedicated discontinued-product list.
-
-Overdrive:
-- Tumnus / Tumnus Deluxe / Germanium Tumnus / Germanium Tumnus Deluxe
-- Pantheon / Pantheon Deluxe
-- Belle Overdrive
-- Moxie
-- Triumph Overdrive
-- Plexi Drive / Plexi Drive Deluxe / Plexi Drive Mini
-- Brad Paisley: Paisley Drive / Paisley Deluxe
-- Brent Mason: Hot Wired v2
-- Tom Quayle: Dual Fusion
-- Thirty Something
-- Black '65 / Tweed '57
-- Clarksdale
-- cataPulp
-- Low Blow
-- UnderDog
-- Cranked OD / Cranked AC and OD
-- Super Plex / SuperPlex
-- Plextortion
-
-Distortion:
-- Pinnacle / Pinnacle Deluxe / Pinnacle Deluxe v2
-- Sovereign Distortion
-- Dracarys Distortion
-- Phenom Distortion
-- Triple Wreck
-- SLOstortion
-- The Doctor
-
-Fuzz:
-- Velvet Fuzz
-- Cryptid Fuzz
-- Fuzztration
-- Leviathan Fuzz
-- Ratsbane
-
-Explicit overlaps:
-- Ratsbane = Overdrive + Distortion + Fuzz
-- Golden Jubilee = Overdrive + Distortion
-- Brent Mason: ReWired = Overdrive + Distortion
-- Andy Wood: Gearbox = Overdrive + Distortion
-- The Fearbox = Overdrive + Distortion
-- Mofetta = Overdrive + Distortion
-- tcd / The Compulsion Drive = Overdrive + Distortion
-
-Key restraint: ordinary revisions are consolidated into lineages; gain range alone does not create a new category; Ratsbane is retained as a three-way overlap because Wampler's own current taxonomy and product description support all three dirt types. Paisley Deluxe remains primarily Overdrive for the conservative census despite a current catalog distortion tag because its product description explicitly presents its two channels as overdrive. Boost, compression, modulation, delay/reverb, EQ, and utility products remain outside scope. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
-
-## Last completed research action
-Added and saved Builder -> Pedals research Block 128: Wampler Pedals.
-
-Research block commit:
-`cd996580fa870df781dde0ddeb8e8f0dc7c43e6d`
-
-## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-128.md` saved
-- `CURRENT_STATE.md` updated through Block 128
-- `research/BREADCRUMB.md` updated through Block 128
+## Latest corrective work
+1. Added `research/BUILDER_MASTER_INDEX.md` with the 106 canonical builder identities and live block mappings.
+2. Made the master index the no-duplicate gate in `START_HERE.md` and `ARCHIVE_GOVERNANCE.md`.
+3. Removed duplicate Fairfield Circuitry Block 142 from the live block set.
+4. Corrected this state file so the checkpoint no longer stops at Block 128.
 
 ## Next action
-Continue the fresh Builder -> Pedals census. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
+Do **not** automatically create another block by number. First select a builder that is absent from `research/BUILDER_MASTER_INDEX.md`. If a builder is already present, extend its canonical record rather than creating another builder block.
 
-## Must not touch
-Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website architecture.
+## Website
+The website remains a simple `UNDER CONSTRUCTION` page. No visual correctness claim is made without an actual browser/render inspection.
+
+## Must not touch during this phase
+Do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website/UI architecture unless the repository state explicitly changes the mission.
