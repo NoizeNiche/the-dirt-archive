@@ -33,6 +33,7 @@ MANUAL_ALIASES = {
     "Way Huge / George Tripps": "Way Huge",
     "LICHTLÆRM AUDIO": "Lichtlaerm Audio",
     "Xotic California / Xotic Effects": "Xotic Effects",
+    "Maxon / Nisshin Onpa": "Maxon",
 }
 
 
@@ -70,18 +71,15 @@ def load_builder_aliases() -> dict[str, str]:
 
 
 def resolve_builder(observed: str, aliases: dict[str, str]) -> str:
-    cleaned = observed.strip()
+    cleaned = observed.strip().strip("*")
     key = norm(cleaned)
     if key in aliases:
         return aliases[key]
 
-    # Handle display forms where a canonical name leads the string.
     for alias_key, canonical in aliases.items():
         if key.startswith(alias_key + " ") or key.startswith(alias_key + "/"):
             return canonical
 
-    # This is a real builder name encountered in the research collection but
-    # not yet added to the older builder index. Keep it as-is in the census.
     return cleaned
 
 
@@ -104,7 +102,6 @@ def clean_pedal_text(text: str) -> str | None:
         return None
 
     lower = text.lower()
-    # These are explanatory bullets embedded in a product section, not names.
     note_markers = (
         " is an overdrive",
         " is a distortion",
@@ -115,9 +112,8 @@ def clean_pedal_text(text: str) -> str | None:
     if any(marker in lower for marker in note_markers):
         return None
 
-    # Most blocks use an em/en dash to append a generic function description.
-    # Remove that description when it is plainly descriptive, while preserving
-    # cases where the right side is actually part of the marketed product name.
+    # Strip a trailing descriptive function after an em/en dash when it is
+    # clearly a descriptor rather than part of the marketed product name.
     for dash in (" — ", " – "):
         if dash not in text:
             continue
@@ -146,34 +142,71 @@ def extract_rows() -> tuple[list[tuple[str, str, str]], int]:
         current_builder = ""
         active_types: list[str] = []
         collecting = False
+        awaiting_builder_name = False
 
         for raw in lines:
             line = raw.strip()
 
-            # The Builder / brand field is more reliable than relying on a
-            # particular heading style. It also catches blocks containing more
-            # than one builder.
+            # Newer blocks use:
+            #   ## Builder
+            #   **Builder Name**
+            if awaiting_builder_name and line:
+                observed = line.strip().strip("*")
+                current_builder = resolve_builder(observed, aliases)
+                builder_sections += 1
+                active_types = []
+                collecting = False
+                awaiting_builder_name = False
+                continue
+
+            if re.match(r"^##\s+Builder\s*$", line, re.I):
+                awaiting_builder_name = True
+                current_builder = ""
+                active_types = []
+                collecting = False
+                continue
+
+            # Earlier blocks use a numbered builder heading and also carry a
+            # Builder / brand field. The explicit field wins when present.
             builder_match = re.match(r"^Builder\s*/\s*brand:\s*(.+?)\s*$", line, re.I)
             if builder_match:
                 current_builder = resolve_builder(builder_match.group(1), aliases)
                 builder_sections += 1
                 active_types = []
                 collecting = False
+                awaiting_builder_name = False
                 continue
 
-            if line.startswith("## Block boundary"):
-                current_builder = ""
+            numbered_match = re.match(r"^##\s+\d+\.\s+(.+?)\s*$", line)
+            if numbered_match:
+                current_builder = resolve_builder(numbered_match.group(1), aliases)
+                builder_sections += 1
                 active_types = []
                 collecting = False
+                awaiting_builder_name = False
                 continue
 
-            heading_match = re.match(r"^###\s+(.+?)\s*$", line)
-            if heading_match and current_builder:
-                active_types = category_from_heading(heading_match.group(1))
+            # A block can contain either level-2 or level-3 category headings.
+            heading_match = re.match(r"^#{2,3}\s+(.+?)\s*$", line)
+            if heading_match and current_builder and not awaiting_builder_name:
+                heading = heading_match.group(1).strip()
+                # These headings are structural, not product categories.
+                if heading.lower() in {"builder", "verification basis", "category-overlap decisions", "historical / variant handling", "exclusions", "primary source urls", "checkpoint", "notes", "sources"}:
+                    active_types = []
+                    collecting = False
+                    continue
+                active_types = category_from_heading(heading)
                 collecting = bool(active_types)
                 continue
 
-            if line.startswith("Sources:") or line.startswith("Notes:") or line.startswith("### Notes"):
+            if line.startswith("## Block boundary") or line.startswith("## Checkpoint"):
+                current_builder = ""
+                active_types = []
+                collecting = False
+                awaiting_builder_name = False
+                continue
+
+            if line.startswith("Sources:") or line.startswith("## Primary source URLs") or line.startswith("### Notes") or line.startswith("Notes:") or line.startswith("Verification notes:"):
                 collecting = False
                 continue
 
