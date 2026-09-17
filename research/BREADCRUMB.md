@@ -4,46 +4,42 @@
 September 17, 2026
 
 ## Active mission
-**Builder -> Pedals. THAT'S IT.**
+**Company -> Pedal -> Pedal Info -> Photo**
 
-Fresh builder/product census only. Record builder names and their overdrive, distortion, and fuzz pedals. The key workflow is to collect the data, compare it against the accumulated census, consolidate duplicates, and keep expanding.
+That is the website's entire information structure. Keep collecting companies and the pedals they make, then add pedal information and pedal photos to those records.
 
-## Canonical data state
-`research/BUILDER_MASTER_INDEX.md` is the canonical builder identity ledger.
+## Current catalog
+`research/MASTER_PEDAL_CENSUS.csv` is the accumulated pedal catalog currently used by the website.
 
-`research/MASTER_PEDAL_CENSUS.csv` is the canonical accumulated pedal table for the current phase. It uses only **Builder | Pedal | Type**, with Type limited to Overdrive, Distortion, and Fuzz.
+Current checkpoint:
+- **2,466 company/pedal/type rows**
+- **103 companies** currently represented by pedal entries
+- **140 live research block files** remain in the repository as working material
+- The website uses the catalog directly and does not depend on the research blocks for page rendering
 
-Current live checkpoint:
-- **140 live block files**
-- **231 builder sections** parsed from those blocks
-- **2,466 master census rows**
-- **103 builder names** currently represented in the pedal census
-- Live blocks: **001-069 and 071-141**
-- **Block 070 is absent**
-- **Block 142 (Fairfield Circuitry) was removed as a duplicate** because Fairfield Circuitry is already represented by Block 102
+## Website state
+`index.html` is the working public catalog page.
 
-## Duplicate prevention
-A research block is a chronological checkpoint, not a builder ID. Before creating any new builder block, check `research/BUILDER_MASTER_INDEX.md` by current name, historical name, alias, alternate spelling, and known successor/predecessor name.
+It currently provides:
+- Company list
+- Company filtering
+- Pedal list
+- Company/pedal search
+- Pedal detail view
+- Pedal Info area
+- Photo of Pedal area
+- Desktop and mobile layouts
 
-Before adding pedals, compare the new pedal names against `research/MASTER_PEDAL_CENSUS.csv` and add only the missing products.
+`.github/workflows/deploy-pages.yml` is the only website automation. The previous automatic census-rewrite and research-export workflows were removed so website changes do not cause the catalog to be rewritten behind the scenes.
 
-## Master census generation
-`tools/build_master_pedal_census.py` reads the accumulated builder blocks and produces the master pedal table. `.github/workflows/rebuild-master-census.yml` rebuilds it automatically when the live research collection changes.
+## Data rule
+Every new company gets stored in the catalog.
 
-The generator removes grouped research notes, explanatory prose, embedded citation tokens, and placeholder statements that do not name a pedal. The research blocks themselves remain intact as working notes.
+Every pedal that company makes gets stored under that company.
 
-## Corrective work completed
-- Added the canonical master builder index.
-- Made the master index the no-duplicate gate in `START_HERE.md`.
-- Added the canonical identity and census workflow rules to `ARCHIVE_GOVERNANCE.md`.
-- Corrected `CURRENT_STATE.md` to the live census checkpoint.
-- Removed the duplicate Fairfield Circuitry Block 142.
-- Removed unnecessary evidence and verification bureaucracy from the project rules.
-- Created the accumulated master pedal census from all current research blocks.
-- Added automatic rebuilding of the master pedal census.
+Every pedal record can then receive its information and photo.
+
+Do not build extra website relationships, evidence systems, confidence systems, lead systems, or other tracking layers unless the project explicitly changes direction.
 
 ## Next action
-Do not infer the next builder from the next block number. Use the master builder and pedal tables to choose the next unrepresented builder and to compare every newly found pedal against the accumulated census before adding more research.
-
-## Hard scope boundary
-No photos. No biographies. No deep history. No components. No schematics. No PCB work. No BOMs. No internal imagery. No cloning information. No unrelated website/UI architecture.
+Continue the company -> pedal collection. Compare new work against the existing catalog so we add missing companies and pedals instead of creating duplicate records.
