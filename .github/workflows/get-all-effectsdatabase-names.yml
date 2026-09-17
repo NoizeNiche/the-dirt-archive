@@ -1,0 +1,63 @@
+name: Get all Effects Database pedal names
+
+on:
+  push:
+    paths:
+      - '.github/workflows/get-all-effectsdatabase-names.yml'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scrape Effects Database
+        run: |
+          python - <<'PY'
+          import re, requests, time
+          from bs4 import BeautifulSoup
+          from pathlib import Path
+
+          cats = {
+            'Overdrive': 'https://www.effectsdatabase.com/type/overdrive/pedal',
+            'Distortion': 'https://www.effectsdatabase.com/type/distortion/pedal',
+            'Fuzz': 'https://www.effectsdatabase.com/type/fuzz/pedal',
+          }
+          out = Path('effectsdatabase_pedal_names.txt')
+          lines = []
+          for cat, base in cats.items():
+            lines += [f'## {cat}', '']
+            page = 0
+            seen = set()
+            while True:
+              url = base if page == 0 else f'{base}?page={page}'
+              print('GET', url, flush=True)
+              r = requests.get(url, timeout=30, headers={'User-Agent':'Mozilla/5.0'})
+              r.raise_for_status()
+              soup = BeautifulSoup(r.text, 'html.parser')
+              found = []
+              for a in soup.find_all('a', href=True):
+                txt = ' '.join(a.get_text(' ', strip=True).split())
+                href = a['href']
+                if '/model/' in href and txt and txt not in found:
+                  found.append(txt)
+              if not found:
+                break
+              new = [x for x in found if x not in seen]
+              for x in new:
+                seen.add(x); lines.append(x)
+              print(f'{cat} page {page}: {len(found)} names, {len(seen)} total', flush=True)
+              if len(found) < 50:
+                break
+              page += 1
+              time.sleep(.1)
+              if page > 200:
+                raise RuntimeError('pagination guard')
+            lines.append('')
+            print(cat, 'TOTAL', len(seen), flush=True)
+          out.write_text('\n'.join(lines), encoding='utf-8')
+          print('WROTE', out, 'bytes', out.stat().st_size, flush=True)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: effectsdatabase-pedal-names
+          path: effectsdatabase_pedal_names.txt
