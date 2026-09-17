@@ -16,14 +16,16 @@ The research phase is a fresh builder/product census. Record builder names and t
 - The website remains a simple construction page for now.
 - Fresh research Block 001 is stored at `research/builders/BLOCK-2026-09-16-001.md`.
 - Fresh research Block 002 is stored at `research/builders/BLOCK-2026-09-16-002.md`.
+- Fresh research Block 003 is stored at `research/builders/BLOCK-2026-09-16-003.md`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
-- Block 002 covers EarthQuaker Devices and Wampler Pedals, including current and official legacy/discontinued catalog entries where verified.
+- Block 002 covers EarthQuaker Devices and Wampler Pedals.
+- Block 003 covers JHS Pedals and Walrus Audio, including current and official rare/discontinued catalog entries where verified.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`fedb428a2ec275ffbf79bae2e3ce3090b3019cc4`
+`4e50849c95b7894687b0e6b8f13f41b6eca6b47b`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prioritize another multi-pedal builder or builder group. Verify product names against primary or authoritative catalog sources before recording them.
