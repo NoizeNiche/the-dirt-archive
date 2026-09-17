@@ -14,73 +14,20 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–060 are stored under `research/builders/`.
-- Block 001 covers Fulltone, MXR, Maxon, and DOD.
-- Block 002 covers EarthQuaker Devices and Wampler Pedals.
-- Block 003 covers JHS Pedals and Walrus Audio.
-- Block 004 covers Catalinbread Effects and Xotic Effects / Xotic California.
-- Block 005 covers Ibanez and ZVEX Effects.
-- Block 006 covers Analog Man.
-- Block 007 covers BOSS.
-- Block 008 covers ProCo Sound and Keeley Electronics.
-- Block 009 covers Friedman Amplification and Pigtronix.
-- Block 010 covers Death By Audio and Lovepedal / Sean Michael.
-- Block 011 tightens Friedman Amplification and Pigtronix coverage.
-- Block 012 consolidates ProCo Sound and Catalinbread Effects identities.
-- Block 013 covers Electro-Harmonix.
-- Block 014 covers Greer Amps, Benson Amps, and ThorpyFX.
-- Block 015 covers Barber Electronics and Black Arts Toneworks.
-- Block 016 covers Wren and Cuff, Menatone, and Caroline Guitar Company.
-- Block 017 covers Crazy Tube Circuits, Mr. Black, and Spaceman Effects.
-- Block 018 covers Electronic Audio Experiments, Browne Amplification, and Black Mass Electronics.
-- Block 019 covers Old Blood Noise Endeavors, Fairfield Circuitry, and Fuzzrocious Pedals.
-- Block 020 covers Beetronics, KMA Machines, and Alexander Pedals.
-- Block 021 covers Zander Circuitry, Dawner Prince Electronics, and Land Devices.
-- Block 022 covers 1981 Inventions and Bondi Effects.
-- Block 023 covers Mythos Pedals and Hudson Electronics.
-- Block 024 covers Seymour Duncan and J. Rockett Audio Designs.
-- Block 025 covers Suhr and Jackson Audio.
-- Block 026 covers JAM Pedals and Mad Professor Amplification.
-- Block 027 covers KHDK Electronics and Stone Deaf FX.
-- Block 028 covers Vemuram.
-- Block 029 covers Origin Effects and Vertex Effects.
-- Block 030 covers Source Audio.
-- Block 031 covers Lichtlaerm Audio and Does It Doom?, with uncertain Does It Doom? classifications deliberately left in a verification queue rather than forced into categories.
-- Block 032 covers BJFE / BJF Electronics — Björn Juhl, using the BJFE/BearFoot archival registry, product-description archive, and official One Control corroboration.
-- Block 033 covers Foxrox Electronics and Pete Cornish / Pete Cornish Effects using current and historical manufacturer catalog/product pages and official product documentation.
-- Block 034 covers Himmelstrutz Elektro Art — Joakim Hedeby, using Himmelstrutz's official download archive, owner manuals, and historical manufacturer documentation. Unclear identities remain verification leads rather than forced classifications.
-- Block 035 covers Daredevil Pedals — Johnny Wator, using Daredevil's official catalog/product pages and authoritative distributor/historical catalog references. Boost-only products remain outside the categorized dirt census, and British Black Belt remains a verification lead rather than a forced classification.
-- Block 036 covers Dr. Scientist Sounds using the current official catalog and individual official product pages. The block conservatively excludes non-dirt products and does not promote unsupported historical names.
-- Block 037 covers OKKO FX — Heiko Lauenroth, using OKKO's current official catalog, individual official product pages, and official business/legal pages. Non-dirt products and boost-only identities remain outside the categorized census.
-- Block 038 covers SolidGoldFX — Greg Djerrahian dirt products using SolidGoldFX's official About page, current catalog, dirt collection, and individual official product pages. The block conservatively documents overdrive and fuzz identities and does not invent a standalone distortion category.
-- Block 039 covers Tech 21 NYC — B. Andrew Barta, using Tech 21's official About page, archive, support material, individual product pages, and manuals. Generic SansAmp/amp-emulator products and ambiguous multi-effect platforms were deliberately left outside the core categorized dirt census.
-- Block 040 covers Way Huge Electronics — George Tripps, using Way Huge/Jim Dunlop manufacturer material, official Jim Dunlop manuals, and authoritative current catalog material. Category overlaps were kept conservative and unsupported duplicate identities were removed during verification.
-- Block 041 covers Analog Alien — Jack & Joe Napoli, using Analog Alien's official catalog, individual product pages, manuals, and company material. The block preserves only explicit manufacturer-supported dirt classifications and does not split the 2026 Rumble Seat redesign into a duplicate pedal identity.
-- Block 042 covers IdiotBox Effects — Atarimatt, using IdiotBox Effects' official About page, current catalog, individual product pages, and Retired Designs page. Current and clearly documented retired dirt identities were included; boost-only, noise, modulation, octave-only, and ambiguous mystery products were left outside the categorized census.
-- Block 043 covers Amptweaker — James Brown / Jack Thompson, using Amptweaker's current catalog/history, current product pages/manuals, and manufacturer-originated historical announcements and archival material. Distinct Jr, Pro, Bass, and fuzz identities were included where documented, while limited/cosmetic editions were not split into duplicate census entries.
-- Block 044 covers Basic Audio — one-man shop, using Basic Audio's current official catalog and individual official product pages. The block is strongly fuzz-oriented, includes explicitly documented overdrive identities, and avoids promoting insufficiently documented catalog names into additional categories.
-- Block 045 covers Animal Factory Amplification — Aditya Nandwana, using the builder's official founder/team material, current pedal catalog, current product pages, and manufacturer-authored historical product announcements. Physical pedal identities span fuzz, overdrive, and distortion; the separate Eurorack/module catalog is excluded.
-- Block 046 covers Sitek Guitar Electronics — Andrzej “Andy” Sitek & Hania Sitek, using the builder's official About page, current pedal catalog, and individual official product pages. Explicit overdrive, distortion, and fuzz identities were included; booster-only, buffer, and modulation products were excluded and descriptive gain ranges were not used to inflate categories.
-- Block 047 covers Subdecay — Brian Marshall, using Subdecay's official founder material, current effects catalog, individual official product pages, and manufacturer documentation. Current and clearly documented discontinued overdrive/fuzz identities plus the Vector multi-dirt pedal were included; synth, modulation, filter, reverb, delay, and utility products were excluded.
-- Block 048 covers Big John Effects — Jan Detremerie, Stijn Vandebril, and Arnoud Faber, using the builder's official company history, current product pages, and owner manual. Explicit overdrive, distortion, and fuzz identities were included; insufficiently documented pre-order/prototype products and non-target preamp/utility products were excluded.
-- Block 049 covers Big Knob Pedals — Gary Kibler, using the builder's official About page, current pedal catalog, individual official product pages where available, and authoritative historical corroboration. Explicit overdrive, distortion, and fuzz relationships were included; Muff products were normalized into the archive's Fuzz category and non-dirt effects were excluded.
-- Block 050 covers Blackout Effectors — Kyle Tompkins, using manufacturer-originated archived product descriptions and manuals where recoverable, plus authoritative product archives and a period builder interview. Explicit overdrive and fuzz relationships were included; Distortion was deliberately left empty rather than inferred, and boost-only/non-dirt effects were excluded.
-- Block 051 covers Blackhawk Amplifiers — Brooks Blackhawk, using the builder's official About page, current product catalog, current individual product pages, and authoritative corroboration. Explicit overdrive, distortion, and fuzz relationships were included; ordinary revisions and finishes were consolidated, and boost-only, preamp-only, and non-dirt products were excluded.
-- Block 052 covers MI Audio / MI Effects — Michael Ibrahim, using MI Audio's official company history, current effects catalog, official product pages/manuals where available, and authoritative historical corroboration for discontinued identities. Explicit Overdrive, Distortion, and Fuzz identities were included; booster, octave, compressor, delay, and amplifier products were excluded.
-- Block 053 covers Audiolithe — Christophe & Gaëtan, using Audiolithe's official catalog and individual product pages, with Guitar Pedal X used to corroborate builder identity and the historical product range. Explicit Overdrive and Fuzz identities were included; no standalone Distortion identity was promoted without explicit manufacturer support.
-- Block 054 covers Barbarossa — Newtool, using Newtool's official Barbarossa catalog and site, plus Birdland Guitars' distributor documentation for the historical WIVERN. Explicit Overdrive and Distortion identities were included; GARGOYLE and CRONUS are recorded in both categories, WIVERN is retained as historical Overdrive, and no Fuzz identity was promoted.
-- Block 055 covers BIXONIC — Bright International Corp. / BIXONIC Inc.; relaunched under Kikusui Electronics Corp., using BIXONIC's official Story/history, New Arrival material, EXP2000DR product page, and Axentrix II/product announcements. The historical EXPANDORA family and AXENTRIX A1 span Overdrive, Distortion, and Fuzz; EXP2000DR and AXENTRIX II are conservatively recorded under Distortion and Fuzz only.
-- Block 056 covers McGregor Pedals — Garth McGregor Heslop, using McGregor Pedals' official catalog, individual product pages, and official press page. The verified set spans Overdrive, Distortion, and Fuzz; Crunch Plus is both Overdrive and Distortion, The Cozmic Fuzzball is Distortion/Fuzz, and The Classic Fuzz remains Fuzz only.
-- Block 057 covers Stomp Under Foot — Matt Pasquerella, using the current Stomp Under Foot catalog plus Premier Guitar, Guitar Pedal X, and Effects Database for historical/product-level corroboration. The block spans Overdrive, Distortion, and Fuzz; Full Powered Halo is explicitly both Overdrive and Distortion, Skinner Box remains Distortion despite lower-gain overdrive capability, and fuzz-family products are not inflated into additional categories.
-- Block 058 covers Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez, using Dirty Boy Co.'s official effects catalog and product pages plus Warm Audio's official Dirty Boy Jr. materials and authoritative collaboration coverage. The block spans Overdrive and Fuzz; PREAMP and Dirty Boy Jr. Overdrive are explicit Overdrive identities, AFRO FUZZ, The Magical MYSTERY FUZZ, and Dirty Boy Jr. Fuzz are explicit Fuzz identities, and no standalone Distortion identity is promoted.
-- Block 059 covers Mojo Hand FX — founded by Brad Fee; acquired by Cusack Music in 2015 and continued under Cusack Music, using Mojo Hand FX's official About page, current catalog, fuzz catalog, product pages, and discontinued-product material, with Effects Database, Reverb, Barefoot Buttons, Premier Guitar, and other authoritative historical corroboration where needed. The block spans Overdrive, Distortion, and Fuzz; Overdrive includes Rook, Rook Royale, DMBL, Extra Special, Magpie, Sacred Cow, Odessa, Rock City, Sericon, Kensrue Rook, BlueBonnet, and historical Superlative; Distortion includes Socrates and Magistrate; Fuzz includes Iron Bell, Crosstown, Crosstown Rasta, Colossus, 1979, 1979 Baja, One Ton Bee, El Guapo, and historical Zephyr, Rounder, and Pompeii. Category inflation from “almost distortion” or “almost overdrive” descriptions was deliberately avoided.
-- Block 060 covers Prescription Electronics — Jack Brossart / Prescription Electronics Inc., using manufacturer-era product descriptions where recoverable, the 2019 reissue report, Effects Database, Aion FX documentation, Premier Guitar, Jedistar, and historical product listings. The block spans Overdrive, Distortion, and Fuzz; Overdrive includes RX Overdriver, Germ, Yardbox, and Dual-Tone; Distortion includes Germ and Dual-Tone; Fuzz includes Experience, C.O.B. (Clean Octave Blend), Yardbox, Face Lift, Frantic Fuzz, Supernatural, and Depth Charge. Vibe-Unit, Throb, Outbox, Static, and non-target behaviors were excluded rather than forced into the dirt taxonomy.
+- Fresh research Blocks 001–061 are stored under `research/builders/`.
+- Blocks 001–060 remain the established prior research stream in the repository.
+- Block 061 covers Skreddy Pedals — Marc Ahlfs, using Skreddy Pedals' official About page, current Overdrive/Fuzz/all-products indexes, Big Muff and ToneBender variant indexes, and individual manufacturer product pages/manuals. The block records 13 current Overdrive identities; explicit Distortion identities are kept conservative because the current manufacturer site has no separate Distortion category; and current manufacturer Fuzz material supplies the fuzz-family identities. Non-dirt utilities, modulation, delay, boost-only products, and amp-emulator platforms are excluded.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`d17a2beb87ab321db2531beae97164021561dca0`
+`4adec17d593de69bed6ddc9b878e4acf291b2f6a`
+
+## Last checkpoint files
+- `CURRENT_STATE.md` updated in commit `ebec0e15744cf4d5c7c886b9992ee615743a62bc`
+- `research/builders/BLOCK-2026-09-17-061.md` content SHA: `f66d76f5b33dc160b652015830b7e034d9c4520e`
+- `CURRENT_STATE.md` content SHA: `643a43b14f0b4ac93d0e94dae9c397caa5ba29ed`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
