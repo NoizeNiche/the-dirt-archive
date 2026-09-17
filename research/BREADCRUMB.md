@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–050 are stored under `research/builders/`.
+- Fresh research Blocks 001–051 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -65,12 +65,13 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 048 covers Big John Effects — Jan Detremerie, Stijn Vandebril, and Arnoud Faber, using the builder's official company history, current product pages, and owner manual. Explicit overdrive, distortion, and fuzz identities were included; insufficiently documented pre-order/prototype products and non-target preamp/utility products were excluded.
 - Block 049 covers Big Knob Pedals — Gary Kibler, using the builder's official About page, current pedal catalog, individual official product pages where available, and authoritative historical corroboration. Explicit overdrive, distortion, and fuzz identities were included; Muff products were normalized into the archive's Fuzz category and non-dirt effects were excluded.
 - Block 050 covers Blackout Effectors — Kyle Tompkins, using manufacturer-originated archived product descriptions and manuals where recoverable, plus authoritative product archives and a period builder interview. Explicit overdrive and fuzz identities were included; Distortion was deliberately left empty rather than inferred, and boost-only/non-dirt effects were excluded.
+- Block 051 covers Blackhawk Amplifiers — Brooks Blackhawk, using the builder's official About page, current product catalog, current individual product pages, and authoritative corroboration. Explicit overdrive, distortion, and fuzz identities were included; ordinary revisions and finishes were consolidated, and boost-only, preamp-only, and non-dirt products were excluded.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`a5d9141c7c1194975bdaeb4b227f09e354eb5142`
+`7162039ae2d3de7ba316d9f2d262703291b6befa`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
