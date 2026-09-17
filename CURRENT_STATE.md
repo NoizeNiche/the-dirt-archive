@@ -23,13 +23,14 @@ Current root files:
 The website remains a simple `UNDER CONSTRUCTION` page. The source file has been confirmed in GitHub. GitHub repository tooling does not provide direct visual inspection of the rendered browser page, so live visual correctness must not be claimed unless a separate browser/render check is actually available.
 
 ## Research completed in this phase
-Fresh Builder → Pedals census has begun.
+Fresh Builder → Pedals census is underway.
 
 Research blocks added:
 - `research/builders/BLOCK-2026-09-16-001.md`
 - `research/builders/BLOCK-2026-09-16-002.md`
 - `research/builders/BLOCK-2026-09-16-003.md`
 - `research/builders/BLOCK-2026-09-16-004.md`
+- `research/builders/BLOCK-2026-09-16-005.md`
 
 Builders covered so far:
 - Fulltone
@@ -42,17 +43,20 @@ Builders covered so far:
 - Walrus Audio
 - Catalinbread Effects
 - Xotic Effects / Xotic California
+- Ibanez
+- ZVEX Effects
 
 Block 001 records relevant overdrive, distortion, and fuzz products for Fulltone, MXR, Maxon, and DOD.
 Block 002 records relevant overdrive, distortion, and fuzz products for EarthQuaker Devices and Wampler Pedals.
 Block 003 records relevant overdrive, distortion, and fuzz products for JHS Pedals and Walrus Audio.
-Block 004 records relevant overdrive, distortion, and fuzz products for Catalinbread Effects and Xotic Effects / Xotic California, including current and official legacy products where verified.
+Block 004 records relevant overdrive, distortion, and fuzz products for Catalinbread Effects and Xotic Effects / Xotic California.
+Block 005 records relevant dirt products for Ibanez and ZVEX Effects, using official current catalogs and consolidating obvious presentation variants where appropriate.
 
 ## Last completed research action
-Added and committed Builder → Pedals research Block 004.
+Added and committed Builder → Pedals research Block 005.
 
 Research block commit:
-`2c2fcb25730621d98f1fa63bd48b9e52c3909561`
+`3a328441fcc2565c04b0e7325576650483294bfc`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
