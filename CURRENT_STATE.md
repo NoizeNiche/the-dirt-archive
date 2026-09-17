@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 086**.
+Research blocks stored under `research/builders/` now run through **Block 087**.
 
 Latest addition:
-- Block 086: MOOER Audio
+- Block 087: NUX Audio
 
 Recent blocks:
-- Block 076: Blackstar Amplification
 - Block 077: Bogner Amplification
 - Block 078: MESA/Boogie
 - Block 079: TC Electronic
@@ -42,50 +41,61 @@ Recent blocks:
 - Block 084: VOX
 - Block 085: Fender
 - Block 086: MOOER Audio
+- Block 087: NUX Audio
 
-Blocks 001–085 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–086 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 086 summary
-MOOER Audio is treated as an unrepresented builder/brand identity with a substantial documented standalone dirt-pedal catalog, especially within the Micro Series.
+### Block 087 summary
+NUX Audio is treated as an unrepresented builder/brand identity with a broad documented standalone dirt-pedal catalog spanning current and historical NUX stompbox lines.
 
 Overdrive:
-- Blues Crab
-- Blues Mood
-- Green Mile
-- Rumble Drive
-- Ultra Drive
-- Greenwood
+- Queen of Tone
+- Horseman
+- Morning Star
+- Tube Man MKII
+- Drive Core Deluxe MKII
+- ’59 Bassguy
+- ’63 Diamond
+- ‘6ixty5ive OD
+- Steel Singer Drive
+- XTC OD
+- Ace of Tone
+- Drive Core
+- Drive Core Deluxe
+- BC-2 Vintage Blues Core
+- Scream Bass / Bass Overdrive
+- OD-2 Vintage Overdrive
+- OD-3 Overdrive
+- Mini Supa Drive
 
 Distortion:
-- Black Secret
-- Hustle Drive
-- Cruncher
-- Blade
-- Solo
-- Rage Machine
-- Ultra Drive MKII
-- Thunderball
-- Eight Hands
+- Fireman
+- Plexi Crunch
+- REC TO Distortion
+- Brownie
+- Metal Core
+- Metal Core Deluxe
+- DS-3 Classic Distortion
+- HG-5 Modern High Gain
+- HG-6 High Gain Distortion
+- MX-6 Extreme Distortion
+- Mini Distortion
 
 Fuzz:
-- Triangle Buff
-- MooerFog / Fog
-- Thunderball
-- Blue Faze
-- Grey Faze
+- FZ-2 Vintage Fuzz
 
-Thunderball is recorded as Fuzz + Distortion because authoritative MOOER Micro Series coverage identifies it as Bass Fuzz/Distortion. Ultra Drive and Ultra Drive MKII remain separate named identities because the historical catalog distinguishes the original Ultra Drive Overdrive from the later MKII Distortion. Hustle Drive remains Distortion only because MOOER explicitly labels it as a Distortion Pedal despite its lower-gain drive behavior.
+NUX product-level category labels are treated as authoritative where explicit. Scream Bass remains Overdrive even though its published range reaches fuzz; Horseman remains Overdrive even though NUX discusses distortion operation. Drive Core Deluxe/MKII and Tube Man/MKII are consolidated as product families rather than multiplied into unnecessary variant identities. Metal Core Deluxe MKII is excluded because NUX currently presents it as a preamp product rather than a target-category distortion pedal.
 
-MOOER Micro Preamp digital amp-model products, Red Truck/Black Truck multi-effects, Pure Boost/Flex Boost, and non-dirt products remain excluded. Modeled drive effects inside multi-effects products are not treated as separate physical pedal identities.
+NUX MG, Mighty, Cerberus, Amp Academy, Solid Studio, and other multi-effects/modeling/preamp products remain excluded from the standalone dirt census. Modeled drive, distortion, and fuzz effects inside digital products are not treated as separate physical NUX pedal identities. Boost-only and non-dirt products remain outside scope.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 086.
+Added and re-read Builder → Pedals research Block 087.
 
 Research block commit:
-`b6ef7b8aaf124dcf97bfe2062100ffbd38a0927f`
+`4dbe35c2cee6cc231c578d64b57c9e86a80c2f30`
 
 Research block content SHA:
-`8c9183d0ec05e4e71d808ec1cad388bb7b19df4e`
+`af9b4ad0abeac70af65cc830d537aab56ba73c7e`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
