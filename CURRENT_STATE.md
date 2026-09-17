@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 071**.
+Research blocks stored under `research/builders/` now run through **Block 072**.
 
 Latest addition:
-- Block 071: Maxon / Nisshin Onpa
+- Block 072: DOD Electronics / DOD
 
 Recent blocks:
-- Block 062: Keeley Electronics — Robert Keeley
 - Block 063: Wampler Pedals — Brian Wampler
 - Block 064: Walrus Audio
 - Block 065: ZVEX Effects — Zachary Vex
@@ -41,68 +40,63 @@ Recent blocks:
 - Block 069: Lovepedal
 - Block 070: Xotic Effects / Xotic California
 - Block 071: Maxon / Nisshin Onpa
+- Block 072: DOD Electronics / DOD
 
-Blocks 001–070 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–071 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 071 summary
-Maxon / Nisshin Onpa was previously unrepresented in the active repository. Maxon is kept as a separate builder identity from the earlier Ibanez block even where historical product lineage is shared.
+### Block 072 summary
+DOD is treated as its own builder identity, distinct from the separately presented DigiTech brand. The current manufacturer history and product documentation support a broad DOD dirt lineage spanning the original 250 family, current/reissued products, and historical FX-series models.
 
 Overdrive:
-- OD808
-- OD-9
-- OD820 Overdrive Pro+
-- OD808X
-- OD-9 Pro+
-- OOD-9 Organic Overdrive
-- OSD-9 Overdrive / Soft Distortion
-- RTO700 Real Tube Overdrive
-- ST9Pro+ Super Tube Overdrive Pro+
-- TBO-9 True Tube Booster / Overdrive
-- TOD-9 True Tube Overdrive
-- RTD800 Real Tube Distortion
-- ROD881 Real Overdrive / Distortion
-- ST-9 Super Tube Screamer
-- SD-9 Sonic Distortion / Overdrive
-- SM-9Pro Super Metal Pro+
+- Overdrive Preamp 250
+- Overdrive Preamp 250-X
+- Looking Glass
+- Badder Monkey
+- FX50-B Overdrive Plus
+- FX51 Juice Box Overdrive
+- FX91 Bass Overdrive
+- FX100 Even Harmonic Overdrive
+- FX101 Grind Rectifying Overdrive
+- FX102 Mystic Blues Overdrive
+- YJM 308 Overdrive Preamp
 
 Distortion:
-- OSD-9
-- D&S
-- D&S II
-- DS830 Distortion Master
-- SD-9M Sonic Distortion Master
-- SSD-9 Super Sonic Distortion
-- SM-9Pro+ Super Metal Pro+
-- RTD800 Real Tube Distortion
-- ROD881 Real Overdrive / Distortion
-- SD-9 Sonic Distortion
-- SM-9 Super Metal
+- Overdrive Preamp 250
+- Gonkulator
+- Gunslinger
+- Boneshaker
+- FX55C Supra Distortion
+- FX56 American Metal
+- FX57 Hard Rock Distortion
+- FX58 Metal Maniac
+- FX59 Thrash Master
+- FX69B Grunge
+- FX70 Metal X
+- FX76 Punkifier
+- FX86 Death Metal Distortion
+- D&S / D&S II Distortion & Sustainer
+- Performer 555 Distortion
+- FX33 Buzz Box
 
 Fuzz:
-- Fuzz Elements Air
-- Fuzz Elements Earth
-- Fuzz Elements Ether
-- Fuzz Elements Fire
-- Fuzz Elements Wind
-- Fuzz Elements Water
-- Fuzz Elements Void
+- Carcosa Fuzz
+- Chthonic Fuzz
+- FX33 Buzz Box
+- FX52 Classic Fuzz
+- FX66 Flashback Fuzz
 
-The main category overlaps are OSD-9 as Overdrive + Distortion; RTD800 as Overdrive + Distortion because its documentation describes independent overdrive and distortion circuits; and ROD881 as Overdrive + Distortion from its explicit product naming. TBO-9 remains Overdrive because booster functionality is secondary and the manufacturer explicitly identifies the pedal as booster / overdrive. The Fuzz Elements products remain Fuzz only, with no Distortion category inferred from technical wording.
+The principal overlap is Overdrive Preamp 250 as Overdrive + Distortion because the current manufacturer page simultaneously identifies it as an Overdrive Preamp and as Distortion + Boost. FX33 Buzz Box is recorded as Distortion + Fuzz because its documented DOD Grunge distortion path is combined with an octave-fuzz function. Other current products such as 250-X, Looking Glass, and Badder Monkey remain Overdrive only despite broad gain ranges. Gonkulator, Gunslinger, and Boneshaker remain Distortion only, with their ring-modulation, EQ, and boost functions treated as secondary/non-target functions.
 
-Current versus historical model identities follow named Maxon products and revisions. OD-9 Pro+, OD808X, ST9Pro+, SD-9M, and SM-9Pro+ remain distinct from their earlier named counterparts. Cosmetic and minor presentation variations are consolidated.
-
-Godlyke references are treated as authoritative archival references where used, not as evidence of a current 2026 U.S. distribution relationship. Maxon remains the builder identity. Same-name or historically related Ibanez products are not merged into this block.
-
-Boost-only, modulation, delay, reverb, EQ, compressor, gate, interface, and other non-target products remain outside the census. Generic gain, clipping, saturation, or distortion language does not create another category without explicit product-level support.
+Historical FX-series identities are kept where DOD's own manuals or authoritative DOD catalog archives explicitly document the target category. Cosmetic, anniversary, and minor revision differences are consolidated unless DOD gives the product a distinct functional identity. DOD remains separate from DigiTech-branded products and from already represented builders.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 071.
+Added and re-read Builder → Pedals research Block 072.
 
 Research block commit:
-`bb3c63323f4c188587c229609dcb9eb5e48a28e5`
+`6e3d03ac7c4508abe47f7e14e090255fbbef3e93`
 
 Research block content SHA:
-`3fb907a8d2328c9ce75e23ca6154d3406188e2f4`
+`6bf81572e9e74919d31a70f7cbf7f4fadb4d8c1f`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
