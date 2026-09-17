@@ -1,14 +1,14 @@
 # The Dirt Archive: Governing Reference
 
-**Status:** Canonical operating guidance  
-**Applies to:** Every research, data, content, image, code, validation, and deployment operation performed for this repository.  
+**Status:** Canonical operating guidance
+**Applies to:** Every research, data, content, image, code, validation, and deployment operation performed for this repository.
 **Repository:** `NoizeNiche/the-dirt-archive`
 
 ## 1. Mission
 
-The Dirt Archive is an independent historical reference for guitar dirt pedals, beginning with **overdrive, distortion, and fuzz**. Its purpose is to document builders, their pedals, product variations, exterior/reference photography, historical context, identification information, and source provenance.
+The Dirt Archive is a practical visual reference for guitar dirt pedals, beginning with **overdrive, distortion, and fuzz**.
 
-The archive should feel like a **museum catalog**: useful, visually clear, historically careful, and transparent about evidence and uncertainty.
+The archive is intentionally narrow. The goal is to let a visitor identify **who made the pedal, what dirt pedals they made, and what the pedal looks like**. Deeper historical research belongs to later individual pedal deep dives, not the initial builder catalog.
 
 ## 2. Governing Priority
 
@@ -18,14 +18,85 @@ Every operation follows this hierarchy:
 
 This order is not optional.
 
-1. Establish the builder.
-2. Associate the builder's pedals.
-3. Attach appropriate exterior/reference photographs and credits.
-4. Research and present information about each pedal.
+1. Establish the builder name.
+2. Associate the builder's dirt pedals.
+3. Attach a clear exterior/reference photograph that lets the visitor identify the pedal.
+4. Add only the concise information needed to identify or understand that pedal at the catalog level.
 
-Do not invert this hierarchy merely because a pedal or image is easier to find first.
+## 3. Scope: What We DO NOT Do in the Builder Pass
 
-## 3. The Single Source of Truth
+The builder catalog is deliberately limited.
+
+**Do not go deeply into:**
+
+- family history
+- detailed company history
+- manufacturing history
+- factory history
+- ownership chains
+- employee histories
+- corporate relationships
+- elaborate OEM histories
+- circuit history
+- component analysis
+- schematics
+- PCB analysis
+- gutshots
+- long biographies
+- exhaustive chronology
+- detailed explanations of why related companies or products are connected
+- any other research that goes materially beyond identifying the builder, their dirt pedals, and the pedal's appearance
+
+Those subjects may be appropriate for later **individual pedal deep dives**. They are not requirements for the first-pass builder archive.
+
+Do not spend time turning a builder profile into a historical essay. Keep the builder record functional and catalog-focused.
+
+## 4. Builder Discovery Standard
+
+Continue searching the web for builders that produced dirt pedals, with particular attention to builders that produced **more than one dirt pedal**.
+
+The purpose of this research pass is discovery and useful catalog coverage, not exhaustive historical scholarship.
+
+Keep researching builder candidates until the discovered builder/pedal coverage is substantial enough to make the archive a useful broad reference. Do not stop merely because a small initial group of builders has been found.
+
+Prioritize builders with multiple identifiable dirt pedals so that the archive develops meaningful builder catalogs rather than a long list of one-off records.
+
+## 5. Builder-First Research
+
+For each builder candidate:
+
+1. Establish the most recognizable builder name for the archive.
+2. Determine which dirt pedals are associated with that builder.
+3. Add the pedals to that builder's catalog.
+4. Find a clear exterior/reference photograph for each pedal.
+5. Add only concise pedal-level identification information for the initial catalog.
+6. Preserve alternative names and attribution details for possible future deep dives without allowing them to clutter the main builder catalog.
+7. Move on to the next builder candidate.
+
+Do not repeatedly re-research settled builder history. Research effort should go toward discovering builders, matching their dirt pedals, locating useful photos, and filling the minimum information needed for the catalog.
+
+## 6. Canonical Naming and Product Grouping
+
+The archive uses the **most recognized name** as the primary public-facing identity when multiple names refer to what is effectively the same product.
+
+Examples of situations that should generally be grouped under one recognized product identity include:
+
+- the same pedal sold under different brand names
+- the same product released with different badges or labels
+- the same product manufactured by multiple companies
+- private-label or distributor versions of the same pedal
+- alternate historical names for the same underlying product
+
+For the initial builder catalog:
+
+- **Lump the names together under the most recognized name.**
+- Do not create separate public pedal entries merely because the same pedal appeared under another brand or manufacturer name.
+- Preserve the alternate names, manufacturers, and branding information as hidden/background metadata, research notes, or future deep-dive material.
+- Do not spend builder-pass research time resolving every manufacturing or corporate relationship.
+
+This grouping rule is specifically intended to keep the first-pass archive clean and useful. Detailed variant, OEM, badge-engineering, and manufacturing relationships belong in later individual pedal deep dives.
+
+## 7. The Single Source of Truth
 
 The repository must have **one canonical production catalog**.
 
@@ -33,45 +104,28 @@ Rules:
 
 - Public records come from canonical data only.
 - Runtime code must never invent catalog records.
-- Discovery files must never be silently merged into production.
+- Discovery material must never be silently merged into production.
 - Provisional data must never masquerade as verified data.
 - Derived files, indexes, manifests, search indexes, and generated assets are subordinate to canonical data.
 - Every derived artifact must be reproducible from canonical data.
 - If a record is not in the canonical catalog, it is not a published archive record.
 
-## 4. Separation of Research, Catalog, and Presentation
+## 8. Separation of Research, Catalog, and Presentation
 
 Keep three conceptual layers separate:
 
 ### Raw research
-Things found during investigation, including leads, candidate builders, possible matches, conflicting claims, and incomplete information.
+Web findings, candidate builders, alternate names, possible matches, conflicting attributions, and leads.
 
 ### Verified catalog
-Records that have enough evidence to be published, with explicit research state and source provenance.
+The simple builder and pedal records that are sufficiently established for public display.
 
 ### Public presentation
 The website's rendering of the verified catalog.
 
 The website must render the data; it must not manufacture certainty or create hidden records.
 
-## 5. Builder-First Research
-
-Research should proceed builder-first whenever practical.
-
-For each builder:
-
-1. Establish a canonical builder identity.
-2. Record known aliases and naming variations.
-3. Research the builder sufficiently to establish the relevant historical context.
-4. Match all known pedals in the supplied corpus to that builder.
-5. Create every corresponding pedal card.
-6. Research and document each pedal.
-7. Attach appropriate photographs and credits.
-8. Validate the complete builder block before moving on.
-
-Do not repeatedly re-research settled builder history merely for the sake of activity. Concentrate effort on unresolved identities, pedal matching, evidence, images, and missing fields.
-
-## 6. Stable Identifiers
+## 9. Stable Identifiers
 
 Every builder and pedal must have a stable unique ID.
 
@@ -80,64 +134,55 @@ Example format:
 - `BLD-000001`
 - `PED-000001`
 
-IDs must not change because of sorting, renaming, restructuring, or presentation changes.
+IDs must not change because of sorting, renaming, restructuring, grouping, or presentation changes.
 
-Names and aliases may change. IDs do not.
+Names may change. Aliases may expand. IDs do not.
 
-## 7. Canonical Record Expectations
+## 10. Builder Record: Keep It Simple
 
-A builder record should support, as applicable:
+A builder record should normally contain only what is useful for the first-pass catalog:
 
 - stable ID
-- canonical name
-- aliases / historical names
-- country or location
-- operating era / status when supportable
-- concise profile
-- source list
+- recognizable/canonical builder name
+- relevant aliases or alternate names for search/reference
+- concise identity/profile information
+- dirt pedals associated with the builder
+- source links supporting the builder/pedal associations
 - research state
-- notes on uncertainty or attribution conflicts
 
-A pedal record should support, as applicable:
+Do not require an extensive builder biography.
+
+## 11. Pedal Record: Keep It Simple
+
+A first-pass pedal record should normally contain:
 
 - stable ID
 - builder ID
-- canonical product/model name
-- aliases
-- category
-- approximate production dates or era when supportable
-- variants / generations
-- concise description
-- identification notes
-- historical notes
-- source list
-- photo records
+- recognizable/canonical product/model name
+- alternate names stored for background/reference use
+- dirt category: overdrive, distortion, fuzz, or appropriate combination
+- a clear exterior/reference photo
+- source link(s)
+- concise identification information
 - research state
-- uncertainty / conflict notes
 
-Do not force unsupported fields to look complete. Use `unknown`, `unconfirmed`, or an explicit null/empty value as appropriate to the schema.
+Do not require deep historical analysis in the first-pass catalog.
 
-## 8. Evidence and Provenance
+## 12. Evidence and Provenance
 
-The archive must preserve the trail from claim to source.
+Even though the public information is intentionally brief, source provenance still matters.
 
-For meaningful historical or identification claims, capture source information such as:
+For each builder/pedal association and each useful photograph, preserve the source URL and relevant credit information.
 
-- source URL
-- source title or description when useful
-- source type when useful
-- relevant evidence / note
-- access date when useful
+Use the supplied source links whenever they provide useful information or imagery.
 
-Prefer primary and contemporary sources where available, while recognizing that collector archives, specialist references, catalogs, advertisements, retailer archives, and other secondary sources can be valuable evidence.
+Do not silently convert a guess into a catalog fact.
 
-Never silently turn an inference into a fact.
+Where an attribution is uncertain, mark it as uncertain rather than inventing certainty.
 
-If sources disagree, preserve the disagreement and identify the competing claims rather than inventing certainty.
+## 13. Uncertainty Is Data
 
-## 9. Uncertainty Is Data
-
-A historical archive must be comfortable saying:
+The archive may use simple states such as:
 
 - Unknown
 - Unconfirmed
@@ -146,49 +191,24 @@ A historical archive must be comfortable saying:
 - Attribution disputed
 - Source conflict
 
-Do not guess simply to make a record look complete.
+Do not spend excessive research time eliminating every uncertainty during the builder pass. Record the uncertainty and keep moving when the pedal can still be usefully cataloged.
 
-When an attribution is uncertain, state what is known, what is uncertain, and what evidence supports each side.
+## 14. Photographs
 
-## 10. Duplicate Prevention
+The photograph has one primary job in the first-pass archive:
 
-Do not silently merge records.
+> **Show the visitor what pedal it is.**
 
-Potential duplicates should be flagged and investigated.
+Prefer clear exterior/reference views that make the pedal visually identifiable.
 
-The system should be able to identify suspicious similarities such as:
-
-- normalized name matches
-- same builder plus similar model names
-- aliases that appear to represent the same product
-- variant/generation records that may have been duplicated
-
-A duplicate decision must be explicit and traceable.
-
-## 11. Builder Identity and Aliases
-
-A builder may appear under many names over time.
-
-Keep one canonical builder identity while preserving relevant aliases and historical names.
-
-Do not create multiple builder entities merely because a source uses a different spelling, suffix, distributor name, or historical presentation unless evidence indicates they are actually distinct entities.
-
-OEM, distributor, badge-engineered, and private-label relationships must be documented rather than flattened into a guess.
-
-## 12. Photographs
-
-Photography is part of the catalog record, not an afterthought.
-
-Use appropriate exterior/reference imagery, such as:
+Useful image types include:
 
 - front
 - rear
 - side
-- box / packaging
-- catalog or advertisement imagery
-- clearly identified variant views
-
-Every image record should retain provenance, including source URL and credit information where applicable.
+- box / packaging when helpful
+- catalog or advertisement imagery when it clearly identifies the pedal
+- clearly identified variant views when needed for recognition
 
 **Do not publish:**
 
@@ -198,11 +218,31 @@ Every image record should retain provenance, including source URL and credit inf
 - circuit diagrams
 - internal forensic imagery
 
-unless a future project scope explicitly changes this rule.
+Do not blindly mirror third-party images into the repository. Preserve source URLs and credits, and only locally host images when there is a clear basis for doing so.
 
-Do not blindly mirror third-party images into the repository. Prefer linking or embedding from the original source when redistribution rights are not established. Locally hosted images should have a clear basis for use.
+## 15. No Deep-Dive Research During the Builder Pass
 
-## 13. The Website
+When research uncovers interesting relationships, unusual manufacturing details, alternate branding, historical rabbit holes, or disputed family/company connections, do not chase them indefinitely.
+
+Capture the useful name/source relationship in background notes and move on.
+
+The correct question for the first-pass catalog is:
+
+> **Who is the recognized builder, what dirt pedals belong in their catalog, and what image lets the visitor identify each pedal?**
+
+Everything beyond that should be considered future deep-dive material unless it is necessary to avoid a basic identification error.
+
+## 16. Duplicate and Variant Handling
+
+Do not allow alternate branding to create unnecessary duplicate public entries.
+
+When multiple names clearly refer to the same product, group them under the most recognized product identity for the initial catalog.
+
+Potentially distinct products should still be flagged for review rather than silently merged.
+
+Detailed variant/generation distinctions can be preserved for later pedal-specific research.
+
+## 17. The Website
 
 The frontend should be simple, deterministic, and subordinate to the data.
 
@@ -216,12 +256,12 @@ Avoid:
 - hidden bootstrap records
 - provisional builders injected by JavaScript
 - multiple competing production datasets
-- special-case patches that obscure the underlying data problem
-- frontend logic that silently fills historical gaps with guesses
+- special-case patches that obscure underlying data problems
+- frontend logic that silently fills gaps with guesses
 
-The public interface should feel like a vintage catalog / museum reference, not a database administration panel.
+The public interface should feel like a clean vintage catalog / museum reference, not a database administration panel.
 
-## 14. Validation Is Mandatory
+## 18. Validation Is Mandatory
 
 Every material catalog change should be checked for integrity before publication.
 
@@ -231,18 +271,17 @@ At minimum, validation should cover:
 - unique pedal IDs
 - valid builder references
 - no orphaned pedal records
-- required fields present according to schema
 - valid record structures
-- no unintended duplicate records
 - source records linked correctly
 - photo records linked to real pedals
 - no broken internal references
+- no unintended duplicate public records
 
 If validation fails, the build should fail rather than publishing a broken catalog.
 
-## 15. Research States
+## 19. Research States
 
-Records should have an explicit, machine-readable research state.
+Records should have an explicit machine-readable research state.
 
 Suggested states include:
 
@@ -256,22 +295,23 @@ Suggested states include:
 
 The exact enum may evolve, but the principle does not: **never confuse discovery with completion.**
 
-## 16. Research Queue vs Published Archive
+## 20. Research Queue vs Published Archive
 
 Keep unresolved work separate from public production data.
 
 Research queues may contain:
 
-- unresolved builders
+- candidate builders
 - unresolved builder/pedal matches
+- alternate branding that needs later review
 - missing photographs
 - conflicting sources
-- missing fields
 - duplicate candidates
+- future deep-dive topics
 
-The public catalog must not treat queue entries as verified records.
+The public catalog must contain only the concise records selected for publication.
 
-## 17. Canonical Import / Backup
+## 21. Canonical Import / Backup
 
 Maintain a simple, inspectable master representation that can be backed up and transformed independently of the website.
 
@@ -279,86 +319,85 @@ The website is replaceable.
 
 **The catalog is the treasure.**
 
-Any future frontend, static-site generator, search engine, or deployment should be able to rebuild from the canonical data without requiring manual reconstruction.
+Any future frontend, static-site generator, search engine, or deployment should be able to rebuild from canonical data without manual reconstruction.
 
-## 18. Checkpoints and Safe Progress
+## 22. Checkpoints and Safe Progress
 
 Do not make a giant irreversible leap with thousands of records.
 
-Use durable checkpoints:
-
-- schema established
-- first builder validated
-- small builder batch validated
-- larger batch validated
-- production milestones validated
+Use durable checkpoints so builder and pedal work remains inspectable and recoverable.
 
 Each meaningful checkpoint should leave the repository in a buildable, inspectable state.
 
 Never sacrifice data integrity merely to increase the visible record count quickly.
 
-## 19. Change Discipline
+## 23. Change Discipline
 
 Before modifying an existing structure:
 
-1. Identify the current source of truth.
-2. Determine what depends on it.
-3. Make the smallest coherent change.
-4. Validate the result.
-5. Commit a state that can be understood later.
+1. Consult this governing document.
+2. Identify the current source of truth.
+3. Determine what depends on it.
+4. Make the smallest coherent change.
+5. Validate the result.
+6. Commit a state that can be understood later.
 
-Do not patch around an architectural mistake indefinitely. When a structural problem is discovered, fix the underlying model and migrate cleanly.
+Do not patch around an architectural mistake indefinitely. Fix the underlying structure cleanly.
 
-## 20. What We Learned From the First Build
+## 24. Lessons From the First Build
 
 The first build accumulated too many interacting mechanisms: discovery datasets, runtime bootstrap logic, research extensions, photo manifests, builder manifests, and other layers that could drift apart.
 
-The central lessons are:
+The practical lessons are:
 
 - One canonical catalog beats many clever layers.
-- Research, production data, and presentation must remain separate.
-- Builder identity must come before pedal association.
-- Provenance must travel with the record.
-- Uncertainty must be explicit.
+- Builder identity comes first.
+- Research the builder's dirt-pedal catalog, not their entire life story.
+- Prioritize builders with multiple dirt pedals.
+- The public record should answer **who made it, what it is, and what it looks like**.
+- Group alternate brand/manufacturer names under the most recognized product identity during the initial catalog pass.
+- Save alternate names and deeper relationships for later pedal deep dives.
+- Provenance still matters even when the displayed text is brief.
 - Stable IDs are essential.
-- Images need first-class provenance.
+- Images are first-class records.
 - Runtime code should render truth, not manufacture completeness.
 - Validation must happen before publication.
-- Duplicate detection should flag, not silently merge.
-- The website should be replaceable without losing the archive.
-- Progress should be checkpointed so a later mistake cannot erase the entire working structure.
+- The website should be replaceable without losing the catalog.
+- Checkpoint the work so a later mistake cannot erase the entire working structure.
 
-## 21. Mandatory Operating Rule for Every Operation
+## 25. Mandatory Operating Rule for Every Operation
 
 Before performing **any** operation on The Dirt Archive, consult this document and ask:
 
-> **Does this operation preserve the governing priority, canonical source of truth, evidence trail, stable identity, explicit uncertainty, image provenance, and validation requirements?**
+> **Does this operation stay focused on Builder → Pedals → Photos → Information, avoid unnecessary deep-dive history, preserve the recognized-name grouping rule, preserve source provenance, and protect the canonical catalog?**
 
 If not, change the operation before executing it.
 
-When in doubt, choose the path that preserves data, provenance, reversibility, and inspectability.
+When in doubt, choose the path that preserves data, provenance, simplicity, reversibility, and inspectability while keeping the first-pass archive focused.
 
-## 22. Non-Negotiable Summary
+## 26. Non-Negotiable Summary
 
 **Builder → Pedals → Photos → Information**
+
+**Focus on builders with multiple dirt pedals.**
+
+**Do not turn the builder pass into a history project.**
+
+**Use the most recognized product name for the initial catalog.**
+
+**Store alternate names/manufacturers for later deep dives.**
+
+**Show a photo that lets the visitor identify the pedal.**
+
+**Keep source provenance.**
+
+**No gutshots, schematics, or PCB diagrams.**
 
 **One canonical catalog.**
 
 **Stable IDs.**
 
-**Evidence attached to claims.**
-
-**Uncertainty made visible.**
-
-**No silent merging.**
-
-**No runtime invention.**
-
-**No gutshots, schematics, or PCB diagrams.**
-
 **Validate before publishing.**
-
-**Research separately from production.**
 
 **Protect the catalog above the website.**
 
