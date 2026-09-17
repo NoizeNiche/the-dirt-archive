@@ -25,17 +25,17 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 049.
+Research blocks stored under `research/builders/` now run through Block 050.
 
-Latest addition in Block 049:
-- Big Knob Pedals — Gary Kibler
+Latest addition in Block 050:
+- Blackout Effectors — Kyle Tompkins
 
 Recent blocks:
-- Block 045: Animal Factory Amplification — Aditya Nandwana
 - Block 046: Sitek Guitar Electronics — Andrzej “Andy” Sitek & Hania Sitek
 - Block 047: Subdecay — Brian Marshall
 - Block 048: Big John Effects — Jan Detremerie, Stijn Vandebril, and Arnoud Faber
 - Block 049: Big Knob Pedals — Gary Kibler
+- Block 050: Blackout Effectors — Kyle Tompkins
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -74,15 +74,13 @@ Block 046 records Sitek Guitar Electronics — Andrzej “Andy” Sitek & Hania 
 Block 047 records Subdecay — Brian Marshall dirt products using Subdecay's official founder material, current effects catalog, individual official product pages, and manufacturer documentation. The block includes current and clearly documented discontinued overdrive/fuzz identities plus the Vector multi-dirt pedal, while excluding synth, modulation, filter, reverb, delay, and utility products.
 Block 048 records Big John Effects — Jan Detremerie, Stijn Vandebril, and Arnoud Faber dirt products using the builder's official company history, current product pages, and owner manual. The block includes explicit historical and current overdrive, distortion, and fuzz identities while excluding insufficiently documented pre-order/prototype designs and non-target preamp/utility products.
 Block 049 records Big Knob Pedals — Gary Kibler dirt products using the builder's official About page, current pedal catalog, individual official product pages where available, and authoritative historical corroboration. The block includes explicit Overdrive, Distortion, and Fuzz relationships, treats Muff as a fuzz-family category for the archive taxonomy, and excludes non-dirt effects and unsupported historical identities.
+Block 050 records Blackout Effectors — Kyle Tompkins dirt products using manufacturer-originated archived product descriptions and manuals where recoverable, plus authoritative product archives and a period builder interview. The block records explicit overdrive and fuzz relationships, deliberately leaves Distortion empty rather than inferring it, and excludes boost-only and non-dirt effects.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 049.
+Added and re-read Builder → Pedals research Block 050.
 
 Research block commit:
-`b88248a3f5b8af54a6555c4941c78a37210647a5`
-
-Research block content SHA:
-`aa26b1d29f11d23bd989360d450b05565c631309`
+`a5d9141c7c1194975bdaeb4b227f09e354eb5142`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
