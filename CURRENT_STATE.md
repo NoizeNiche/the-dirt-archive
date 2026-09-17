@@ -25,18 +25,18 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 034.
+Research blocks stored under `research/builders/` now run through Block 035.
 
-Latest addition in Block 034:
-- Himmelstrutz Elektro Art — Joakim Hedeby
+Latest addition in Block 035:
+- Daredevil Pedals — Johnny Wator
 
 Recent blocks:
-- Block 029: Origin Effects, Vertex Effects
 - Block 030: Source Audio
 - Block 031: Lichtlaerm Audio, Does It Doom?
 - Block 032: BJFE / BJF Electronics — Björn Juhl
 - Block 033: Foxrox Electronics, Pete Cornish / Pete Cornish Effects
 - Block 034: Himmelstrutz Elektro Art — Joakim Hedeby
+- Block 035: Daredevil Pedals — Johnny Wator
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -60,12 +60,13 @@ Block 031 records Lichtlaerm Audio and Does It Doom? dirt products using current
 Block 032 records BJFE / BJF Electronics — Björn Juhl dirt products using the BJFE/BearFoot archival registry and product-description archive, cross-checked against official One Control pages that explicitly identify Björn Juhl/BJF/BJFE relationships.
 Block 033 records Foxrox Electronics and Pete Cornish / Pete Cornish Effects dirt products using current and historical manufacturer catalog/product pages and official product documentation.
 Block 034 records Himmelstrutz Elektro Art dirt products using Himmelstrutz's official download archive, owner manuals, and historical manufacturer documentation. Unclear identities remain verification leads rather than forced classifications.
+Block 035 records Daredevil Pedals — Johnny Wator dirt products using Daredevil's official catalog/product pages and authoritative distributor/historical catalog references. Boost-only products remain outside the categorized dirt census, and British Black Belt remains a verification lead rather than a forced classification.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 034.
+Added and re-read Builder → Pedals research Block 035.
 
 Research block commit:
-`86b50ebe96bc5e94811cf0cdffcb2904841a2dca`
+`4569f733994bafad6c942501c7aed7650f634102`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
