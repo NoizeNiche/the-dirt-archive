@@ -1,4 +1,4 @@
-# The Dirt Archive — Current State
+# The Dirt Archive - Current State
 
 ## Repository
 `NoizeNiche/the-dirt-archive`
@@ -6,7 +6,7 @@
 Default branch: `main`
 
 ## Current mission
-**Builder → Pedals. THAT’S IT.**
+**Builder -> Pedals. THAT'S IT.**
 
 The active work is the builder census: identify builders and document the overdrive, distortion, and fuzz pedals they make or made. Do not move into the later photo or pedal-information phases yet.
 
@@ -23,72 +23,22 @@ Current root files:
 The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository tooling does not provide direct visual inspection of the rendered browser page, so live visual correctness must not be claimed unless a separate browser/render check is actually available.
 
 ## Research completed in this phase
-Fresh Builder → Pedals census is underway.
+Fresh Builder -> Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 125**.
+Research blocks stored under `research/builders/` now run through **Block 126**.
 
 Latest addition:
-- Block 125: Barber Electronics
+- Block 126: Friedman Amplification
 
 Recent blocks:
-- Block 120: Greer Amps
 - Block 121: Suhr
 - Block 122: Crazy Tube Circuits
 - Block 123: Beetronics FX
 - Block 124: Mad Professor Amplification
 - Block 125: Barber Electronics
+- Block 126: Friedman Amplification
 
-Blocks 001–124 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
-
-### Block 120 summary
-Greer Amps is a previously uncovered builder with a broad dirt catalog spanning Overdrive, Distortion, and Fuzz, including current and historical products.
-
-Overdrive:
-- Mori Drive
-- Lightspeed Organic Overdrive
-- Southland Harmonic Overdrive
-- Mizuki Blue
-- Tomahawk Deluxe Drive
-- Black Mountain Crunch Drive
-- Royal Velvet
-- SOMA 63 Vintage Preamp
-- Supa Cobra Overdrive
-- Peacemaker
-- 390 Vintage OD/Preamp — historical/limited
-- Brown Bomber — historical
-- Burning Goat — historical/current lineage
-- Ghetto Stomp — historical
-- No.9 Drive and Distortion — historical
-- Relic Drive — historical
-- Tone Smuggler — historical
-- Little Samson — historical collaboration
-- Fuzzy Wooly Bear — historical
-
-Distortion:
-- Gorilla Warfare MKII
-- Peacemaker
-- Ghetto Stomp
-- No.9 Drive and Distortion
-- Sucker Punch Distortion — historical/discontinued
-- Little Samson — historical collaboration
-- Green Giant — historical
-- Hammer — historical/discontinued
-- Sweetback Driver — historical
-- Batch O' Ass — historical
-
-Fuzz:
-- Super Hornet
-- Black Fuzz — historical/legacy
-- Razor Burn — historical
-- SOUL THRUST FUZZ UNIT — historical/custom shop
-- Fuzzy Wooly Bear — historical
-- Batch O' Ass — historical
-- Ghetto Stomp — historical
-- Tarpit — historical
-
-Key overlaps: Peacemaker = Overdrive + Distortion; Ghetto Stomp = Overdrive + Distortion + Fuzz; No.9 Drive and Distortion = Overdrive + Distortion; Little Samson = Overdrive + Distortion; Fuzzy Wooly Bear = Overdrive + Fuzz; Batch O' Ass = Distortion + Fuzz.
-
-Key restraint: boost/preamp-first products, octave behavior, finish/enclosure changes, and routine transistor options are not multiplied into separate dirt identities.
+Blocks 001-125 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 121 summary
 Suhr is a previously uncovered builder with a clearly divided pedal catalog covering Overdrive, Distortion, and Fuzz.
@@ -102,12 +52,12 @@ Overdrive:
 Distortion:
 - Riot
 - Riot Mini
-- Riot Reloaded — legacy/discontinued
+- Riot Reloaded - legacy/discontinued
 - Eclipse
 
 Fuzz:
 - Rufus Fuzz
-- Rufus Reloaded Fuzz — legacy
+- Rufus Reloaded Fuzz - legacy
 - Thornicus Fuzz
 
 Key overlap: Eclipse = Overdrive + Distortion.
@@ -124,26 +74,26 @@ Overdrive:
 - Falcon
 - Ziggy V2
 - Unobtanium
-- Unobtanium RAW — limited/current lineage
+- Unobtanium RAW - limited/current lineage
 - Hi-Power
 - Venus
 - Heatseeker
-- Starlight — historical/discontinued
+- Starlight - historical/discontinued
 
 Distortion:
 - Space Charged V2
 - Ziggy V2
 - Motherload
 - Venus
-- Starlight — historical/discontinued
-- Limelight — historical/current lineage
+- Starlight - historical/discontinued
+- Limelight - historical/current lineage
 
 Fuzz:
 - Orama
 - Motherload
-- Limelight — historical/current lineage
-- Constellation — historical/limited
-- Starlight — historical/discontinued
+- Limelight - historical/current lineage
+- Constellation - historical/limited
+- Starlight - historical/discontinued
 - Triptychon
 
 Key overlaps: Space Charged V2 = Overdrive + Distortion; Ziggy V2 = Overdrive + Distortion; Motherload = Overdrive + Distortion + Fuzz; Venus = Overdrive + Distortion; Starlight = Overdrive + Distortion + Fuzz; Limelight = Distortion + Fuzz.
@@ -180,31 +130,31 @@ Key restraint: Beetronics generic mentions of distortion are not enough to estab
 Mad Professor Amplification is a previously uncovered builder with a large historical/current Overdrive catalog plus dedicated Distortion and Fuzz products.
 
 Overdrive:
-- Albert's Overdrive — historical/discontinued
-- Amber Overdrive — historical/discontinued
-- Big Tweedy Drive — historical/discontinued
-- Blueberry Bass Overdrive — historical/discontinued
-- Bluebird Overdrive — historical/discontinued
-- Golden Cello — historical/discontinued
-- The Green Wonder — current
-- Little Green Wonder — current/handwired lineage
-- Little Tweedy Drive — historical/discontinued
-- Loud 'n Proud — historical/discontinued
-- Royal Blue Overdrive — current/handwired lineage
-- Simble / Simble Overdrive Mk2 — original lineage + current Mk2
-- Sky Blue Overdrive — historical/handwired lineage
-- Supreme — historical/limited/current-return lineage
-- Sweet Honey Overdrive — current/handwired lineage
-- Sweet Honey Overdrive Deluxe — historical/discontinued
-- Twimble — historical/discontinued
+- Albert's Overdrive - historical/discontinued
+- Amber Overdrive - historical/discontinued
+- Big Tweedy Drive - historical/discontinued
+- Blueberry Bass Overdrive - historical/discontinued
+- Bluebird Overdrive - historical/discontinued
+- Golden Cello - historical/discontinued
+- The Green Wonder - current
+- Little Green Wonder - current/handwired lineage
+- Little Tweedy Drive - historical/discontinued
+- Loud 'n Proud - historical/discontinued
+- Royal Blue Overdrive - current/handwired lineage
+- Simble / Simble Overdrive Mk2 - original lineage + current Mk2
+- Sky Blue Overdrive - historical/handwired lineage
+- Supreme - historical/limited/current-return lineage
+- Sweet Honey Overdrive - current/handwired lineage
+- Sweet Honey Overdrive Deluxe - historical/discontinued
+- Twimble - historical/discontinued
 
 Distortion:
-- Mighty Red Distortion — historical/discontinued
-- Stone Grey Distortion — historical/discontinued
+- Mighty Red Distortion - historical/discontinued
+- Stone Grey Distortion - historical/discontinued
 
 Fuzz:
-- Fire Red Fuzz — historical/discontinued
-- Loud 'n Proud — historical/discontinued
+- Fire Red Fuzz - historical/discontinued
+- Loud 'n Proud - historical/discontinued
 
 Key overlap: Loud 'n Proud = Overdrive + Fuzz.
 
@@ -214,49 +164,70 @@ Key restraint: Amber and Albert's remain Overdrive only despite fuzz-like behavi
 Barber Electronics is a previously uncovered builder with a large historical/current catalog centered on Overdrive, plus clear Distortion and Fuzz identities.
 
 Overdrive:
-- Midnight Standard — current
-- Gain Changer / Gain Changer SR — current lineage
-- Compact Direct Drive / Direct Drive lineage — current/historical
-- LTD / Silver LTD lineage — historical/discontinued
-- 1/2 Gainer — historical/discontinued
-- unLimiTeD / unLTD 2-Channel Overdrive — historical/discontinued
-- Burn Unit / Burn Unit 2 / Burn Unit EQ / Compact Burn Unit — historical/current lineage
-- Small Fry Burn Unit — historical/discontinued
-- Tone Pump / Tone Pump EQ / Tone Pump II — historical lineage
-- Deep Fryer — historical/limited
-- B-Custom Cool — historical/custom-shop
-- B-Custom Super Sport — historical/custom-shop
-- B-Custom Dual Discrete — historical/custom-shop
-- FWW BUSS — current
-- FWW BUSS HG — current
-- FWW Plus — current
+- Midnight Standard - current
+- Gain Changer / Gain Changer SR - current lineage
+- Compact Direct Drive / Direct Drive lineage - current/historical
+- LTD / Silver LTD lineage - historical/discontinued
+- 1/2 Gainer - historical/discontinued
+- unLimiTeD / unLTD 2-Channel Overdrive - historical/discontinued
+- Burn Unit / Burn Unit 2 / Burn Unit EQ / Compact Burn Unit - historical/current lineage
+- Small Fry Burn Unit - historical/discontinued
+- Tone Pump / Tone Pump EQ / Tone Pump II - historical lineage
+- Deep Fryer - historical/limited
+- B-Custom Cool - historical/custom-shop
+- B-Custom Super Sport - historical/custom-shop
+- B-Custom Dual Discrete - historical/custom-shop
+- FWW BUSS - current
+- FWW BUSS HG - current
+- FWW Plus - current
 
 Distortion:
-- Dirty Bomb — historical/discontinued
+- Dirty Bomb - historical/discontinued
 - Burn Unit lineage
 - Gain Changer lineage
 
 Fuzz:
-- Exacta — current
-- Trifecta — historical/discontinued
+- Exacta - current
+- Trifecta - historical/discontinued
 
 Key overlaps: Burn Unit = Overdrive + Distortion; Gain Changer = Overdrive + Distortion.
 
 Key restraint: Direct Drive, LTD, Burn Unit, Tone Pump, and related versions are treated as lineages rather than multiplied by routine revisions. B-Custom Dual Discrete is a custom combination of existing Barber overdrives, not a unique core dirt design. Exacta and Trifecta remain Fuzz only. Dirty Bomb remains Distortion only. Deep Fryer remains Overdrive only despite reports of heavier drive at high settings. FWW BUSS, FWW BUSS HG, and FWW Plus remain Overdrive entries. Barb EQ, Linden EQ, Launch Pad, Tone Press, and other non-dirt Barber products remain outside scope.
 
+### Block 126 summary
+Friedman Amplification is a previously uncovered builder with a clearly documented current Overdrive catalog plus historical high-voltage tube dirt pedals.
+
+Overdrive:
+- BE-OD - current
+- BE-OD Deluxe - current
+- Dirty Shirley Pedal - current
+- Golden Pearl - current
+- Smallbox Overdrive Pedal - current
+- Motor City Drive - historical/discontinued
+
+Distortion:
+- None established in this block
+
+Fuzz:
+- Fuzz Fiend - historical/discontinued
+
+Key overlaps: none established under the builder-label rule.
+
+Key restraint: Friedman consistently names BE-OD, BE-OD Deluxe, Dirty Shirley, Golden Pearl, and Smallbox as Overdrive products, even when their gain ranges become aggressive. Motor City Drive remains Overdrive based on historical documentation. Fuzz Fiend remains Fuzz because Friedman's own official demo explicitly identifies it as a tube fuzz pedal. Third-party use of the word distortion is not enough to create a separate Friedman Distortion category. Sir Compre, Buxom Boost, IR-D, IR-J, IR-X, Gold-72 Wah, and other non-target products remain outside scope. Routine editions, finish changes, and standard packaging differences are not multiplied into separate dirt identities.
+
 ## Last completed research action
-Added and saved Builder → Pedals research Block 125: Barber Electronics.
+Added and saved Builder -> Pedals research Block 126: Friedman Amplification.
 
 Research block commit:
-`97c1a100e2f14710b127d985f848ff5ef76ca4d3`
+`37fd6fe2857ed98ba4c0194f496cb0432dd8b756`
 
 ## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-125.md` saved
-- `CURRENT_STATE.md` updated through Block 125
-- `research/BREADCRUMB.md` updated through Block 125
+- `research/builders/BLOCK-2026-09-17-126.md` saved
+- `CURRENT_STATE.md` updated through Block 126
+- `research/BREADCRUMB.md` updated through Block 126
 
 ## Next action
-Continue the fresh Builder → Pedals census. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
+Continue the fresh Builder -> Pedals census. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
 
 ## Must not touch
 Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website architecture.
