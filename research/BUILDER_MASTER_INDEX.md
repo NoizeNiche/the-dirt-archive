@@ -15,9 +15,9 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 ## Rules
 
 1. Before starting a new block, search this index by builder name, alias, brand spelling, and known successor/predecessor name.
-2. If the builder is already listed, do not create another builder block. Add missing pedal evidence to the existing canonical builder record instead.
+2. If the builder is already listed, do not create another builder block. Add missing pedal records to the existing canonical builder record instead.
 3. A different product brand, OEM relationship, distributor relationship, collaboration, or naming transition is not automatically a new builder.
-4. Same-name builders that are independently evidenced remain separate until identity evidence proves otherwise.
+4. Keep genuinely different builders separate. Do not merge them merely because their names are similar.
 5. Cosmetic editions and ordinary product revisions do not create new builder identities.
 
 ## Canonical builders
