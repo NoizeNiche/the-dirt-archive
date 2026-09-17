@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 075**.
+Research blocks stored under `research/builders/` now run through **Block 076**.
 
 Latest addition:
-- Block 075: Voodoo Lab
+- Block 076: Blackstar Amplification
 
 Recent blocks:
-- Block 065: ZVEX Effects — Zachary Vex
 - Block 066: MXR — Dunlop Manufacturing, Inc.
 - Block 067: Pigtronix
 - Block 068: Foxgear
@@ -42,38 +41,52 @@ Recent blocks:
 - Block 073: DigiTech
 - Block 074: Ramble FX
 - Block 075: Voodoo Lab
+- Block 076: Blackstar Amplification
 
-Blocks 001–074 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–075 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 075 summary
-Voodoo Lab is treated as an unrepresented builder identity with five clearly documented dirt products in the reviewed manufacturer material: GIGGITY, Sparkle Drive, Sparkle Drive MOD, Superfuzz, and Proctavia.
+### Block 076 summary
+Blackstar Amplification is treated as an unrepresented builder identity with a substantial historical dirt catalog spanning the HT, LT, and Dept. 10 pedal families.
 
 Overdrive:
-- GIGGITY
-- Sparkle Drive MOD
-- Sparkle Drive
+- HT-DRIVE
+- HT-DUAL
+- HT-METAL
+- LT-DRIVE
+- LT-DUAL
+- Dept. 10 Dual Drive
+- Dept. 10 Dual Distortion
 
 Distortion:
-- Sparkle Drive MOD
+- HT-DIST
+- HT-DISTX
+- HT-DUAL
+- HT-METAL
+- LT-DIST
+- LT-DUAL
+- LT-METAL
+- Dept. 10 Dual Drive
+- Dept. 10 Dual Distortion
 
 Fuzz:
-- Superfuzz
-- Proctavia
+- none identified in reviewed manufacturer material
 
-GIGGITY is recorded as Overdrive because Voodoo Lab explicitly presents it as Analog Overdrive + Preamp. Sparkle Drive MOD is recorded as Overdrive + Distortion because the manufacturer explicitly describes its selectable circuits as overdrive/distortion circuits while retaining the original Sparkle Drive overdrive tones. Sparkle Drive is recorded as historical Overdrive because Voodoo Lab explicitly identifies it as an overdrive pedal. Superfuzz is recorded as Fuzz from the manufacturer's explicit classic-fuzz description. Proctavia is recorded as historical Fuzz because the manufacturer explicitly identifies it as a fuzz/octave pedal.
+Blackstar's official HT-series catalog identifies HT-DRIVE as Pure Valve Overdrive, HT-DIST as Pure Valve Distortion, HT-DISTX as an ultra-high-gain filth pedal, HT-DUAL as a valve distortion pedal with Channel 1 usable as boost or overdrive and Channel 2 providing distortion, and HT-METAL as a valve distortion pedal with a Clean/Overdrive switch. The official LT-series catalog identifies LT-DRIVE as drive, LT-DIST and LT-METAL as distortion products, and LT-DUAL as a two-channel distortion pedal whose Channel 1 runs from clean to boost to overdrive. The current Dept. 10 manufacturer pages identify Dual Drive as a valve overdrive pedal / preamp and Dual Distortion as a valve distortion pedal that also functions as an overdrive pedal / preamp.
 
-Sparkle Drive MOD remains separate from Sparkle Drive because the manufacturer presents it as a distinct named product with additional selectable circuits. Proctavia's octave function and GIGGITY's preamp function remain secondary features rather than separate target identities.
+Category handling remains conservative. HT-DIST, HT-DISTX, LT-DIST, and LT-METAL are not given secondary Overdrive identities from generic gain-control or saturation language alone. HT-DUAL, HT-METAL, LT-DUAL, Dept. 10 Dual Drive, and Dept. 10 Dual Distortion receive both Overdrive and Distortion because the manufacturer provides explicit product-level overdrive and distortion modes or descriptions.
 
-Voodoo Lab's Legacy index is used to distinguish historical Sparkle Drive and Proctavia from the current Effects catalog, which currently highlights GIGGITY, Sparkle Drive MOD, and Superfuzz. Non-dirt products and weakly categorized utility/preamp identities are excluded from the target census.
+HT-DISTX remains distinct from HT-DIST because Blackstar gave it a separate product name and positioned it as the higher-gain filth model. HT-DUAL and LT-DUAL remain distinct named two-channel products. Dept. 10 Dual Drive and Dual Distortion remain separate named products. HT-BOOST and Dept. 10 Boost are excluded because they are boost products, even though their gain stages can push an amplifier into overdrive or distortion.
+
+No standalone Blackstar-branded Fuzz identity was established in the reviewed manufacturer catalogs and manuals, so none is promoted into the census.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 075.
+Added and re-read Builder → Pedals research Block 076.
 
 Research block commit:
-`6f69884d13e19d24c1c2c3c55d1de1f4bcd63662`
+`86b1a267cd9f18823533f7ceadda95b266d7575f`
 
 Research block content SHA:
-`bac7619cde27e4e673f57db152e1130a20819407`
+`ae6b5fb9d6414cc400c8df99366263812875d820`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
