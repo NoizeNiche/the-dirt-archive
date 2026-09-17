@@ -11,13 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001-128 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001-130 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 118: Analog Man
-- 119: Benson Amps
-- 120: Greer Amps
 - 121: Suhr
 - 122: Crazy Tube Circuits
 - 123: Beetronics FX
@@ -26,64 +23,57 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 126: Friedman Amplification
 - 127: Amptweaker
 - 128: Wampler Pedals
+- 129: EarthQuaker Devices
+- 130: JHS Pedals
 
-## Block 128 - Wampler Pedals
-Wampler Pedals is a previously uncovered builder with a substantial documented dirt catalog spanning Overdrive, Distortion, and Fuzz. Wampler's current catalog separates Distortion / Overdrive and Fuzz, while its official downloads page preserves a dedicated discontinued-product list.
+## Block 129 - EarthQuaker Devices
+Documented EQD's current and historical Overdrive, Distortion, and Fuzz catalog using EQD's Distortion & Overdrive, Fuzz, Devices, Legacy, and product/manual sources. Explicit hybrids retained include Gary = Fuzz + Overdrive and Black Ash = Fuzz + Overdrive. Life Pedal / HalfLife remain Distortion with boost excluded. Ordinary variants and editions are consolidated into lineages.
+
+## Block 130 - JHS Pedals
+Documented the current JHS dirt catalog from JHS's own Overdrive and Fuzz / Distortion collections plus individual product pages.
 
 Overdrive:
-- Tumnus / Tumnus Deluxe / Germanium Tumnus / Germanium Tumnus Deluxe
-- Pantheon / Pantheon Deluxe
-- Belle Overdrive
-- Moxie
-- Triumph Overdrive
-- Plexi Drive / Plexi Drive Deluxe / Plexi Drive Mini
-- Brad Paisley: Paisley Drive / Paisley Deluxe
-- Brent Mason: Hot Wired v2
-- Tom Quayle: Dual Fusion
-- Thirty Something
-- Black '65 / Tweed '57
-- Clarksdale
-- cataPulp
-- Low Blow
-- UnderDog
-- Cranked OD / Cranked AC and OD
-- Super Plex / SuperPlex
-- Plextortion
+- AT Mini
+- Notadümbлë V2
+- Morning Glory lineage
+- Kilt lineage
+- Notaklön lineage
+- Bonsai
+- AT+
+- 3 Series Screamer
+- Charlie Brown V4
+- Moonshine V2
+- PG-14
+- 3 Series Overdrive
 
 Distortion:
-- Pinnacle / Pinnacle Deluxe / Pinnacle Deluxe v2
-- Sovereign Distortion
-- Dracarys Distortion
-- Phenom Distortion
-- Triple Wreck
-- SLOstortion
-- The Doctor
+- Kilt
+- Violet
+- Hard Drive
+- PackRat
+- Cheese Ball
+- 3 Series Distortion
+- Colour Box V2
 
 Fuzz:
-- Velvet Fuzz
-- Cryptid Fuzz
-- Fuzztration
-- Leviathan Fuzz
-- Ratsbane
+- Kilt
+- Muffuletta
+- PackRat
+- Cheese Ball
+- 3 Series Fuzz
+- Colour Box V2
 
-Explicit overlaps:
-- Ratsbane = Overdrive + Distortion + Fuzz
-- Golden Jubilee = Overdrive + Distortion
-- Brent Mason: ReWired = Overdrive + Distortion
-- Andy Wood: Gearbox = Overdrive + Distortion
-- The Fearbox = Overdrive + Distortion
-- Mofetta = Overdrive + Distortion
-- tcd / The Compulsion Drive = Overdrive + Distortion
+Key overlaps: Kilt = Overdrive + Distortion + Fuzz; PackRat = Overdrive + Distortion + Fuzz; Violet = Overdrive + Distortion; Cheese Ball = Distortion + Fuzz; Muffuletta = Fuzz + Distortion; Colour Box V2 = Overdrive + Distortion + Fuzz.
 
-Key restraint: ordinary revisions are consolidated into lineages; gain range alone does not create a new category; Ratsbane is retained as a three-way overlap because Wampler's own current taxonomy and product description support all three dirt types. Paisley Deluxe remains primarily Overdrive for the conservative census despite a current catalog distortion tag because its product description explicitly presents its two channels as overdrive. Boost, compression, modulation, delay/reverb, EQ, and utility products remain outside scope. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+Key restraint: routine revisions and special finishes are consolidated into lineages. Double Dragon is excluded from the dirt categories because JHS identifies it as a Lo-Fi Octave Device rather than a standalone target dirt pedal. DIY kits, JHS Mods, hand-painted variants, utility products, and non-dirt effects remain outside scope.
 
 ## Last research commit
-`cd996580fa870df781dde0ddeb8e8f0dc7c43e6d`
+`2a022feca34046559eb71cd7748d837f2a971952`
 
 ## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-128.md` saved
-- `CURRENT_STATE.md` must be updated through Block 128
-- `research/BREADCRUMB.md` updated through Block 128
+- `research/builders/BLOCK-2026-09-17-130.md` saved
+- `research/BREADCRUMB.md` updated through Block 130
+- `CURRENT_STATE.md` still needs its checkpoint text advanced from Block 128
 
 ## Next action
 Continue the fresh Builder -> Pedals census only. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
