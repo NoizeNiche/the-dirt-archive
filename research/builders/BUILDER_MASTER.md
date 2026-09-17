@@ -45,6 +45,8 @@ The following builders are being prioritized because current first-party pages o
 | Xotic Effects | high | SL Drive; AC Booster V2; BB Preamp V1.5; Soul Driven; RC Booster V2; RC Booster Classic; Bass BB Preamp V1.5; Bass RC Booster V2 | https://xotic.us/effects/ |
 | Foxrox Electronics | high | Hot Silicon Fuzz; Hot Silicon2 Fuzz; Festival Overdrive; FR 100 Overdrive; ZIM Dual Drive; Captain Coconut 2 | https://www.foxroxelectronics.com/Classics.html |
 | Fulltone | high | OCDv2; OCD-Germanium; Full-Drive1; Full-Drive2 v2; Full-Drive3; PlimSoul mkII; 69 Pedal mkII; 70 Pedal-BC; Octafuzz 2; Ultimate Octave; Queen Bee; Hi-Mu | https://www.fulltoneusa.com/products/ |
+| Keeley Electronics | high | Tube Drive; Manis Overdrive; Oxblood; Oxblood Germanium; Blues Disorder; Super Bass; SUNS Ultravoid Fuzz; El Rey Dorado | https://robertkeeley.com/product-category/distortion-drive-boost-fuzz/ |
+| Love Pedal | high | Tchula; 200lbs; Purple Plexi; Eternity Burst; Hermida Zendrive; Dover Drive; Amp Eleven; Hermida EPH3; Kalamazoo | https://www.lovepedal.com/pedals/ |
 
 ## Current Web Verification Notes
 
@@ -110,6 +112,15 @@ Foxrox's official site documents Hot Silicon Fuzz, Hot Silicon2 Fuzz, Festival O
 
 ### Fulltone
 Fulltone's current official catalog exposes multiple overdrive, distortion and fuzz products, including OCDv2, OCD-Germanium, Full-Drive1, Full-Drive2 v2, Full-Drive3, PlimSoul mkII, 69 Pedal mkII, 70 Pedal-BC, Octafuzz 2, Ultimate Octave, Queen Bee and Hi-Mu. Sources: https://www.fulltoneusa.com/products/ and https://www.fulltoneusa.com/collections/overdrive
+
+### Keeley Electronics
+Keeley's official dirt-category pages currently expose multiple dirt products including Tube Drive, Manis Overdrive, Oxblood, Blues Disorder, Super Bass, SUNS Ultravoid Fuzz and custom-shop/limited dirt offerings. Dedicated product pages also confirm the Oxblood and Manis as overdrive/dirt products. Sources: https://robertkeeley.com/product-category/distortion-drive-boost-fuzz/, https://robertkeeley.com/product/keeley-oxblood-overdrive/, https://robertkeeley.com/product/manis-overdrive/, https://robertkeeley.com/product/blues-disorder-overdrive-and-distortion/, https://robertkeeley.com/product/super-bass-overdrive-and-distortion/
+
+### Love Pedal
+Love Pedal's official pedal index exposes multiple dirt products including Tchula, 200lbs, Purple Plexi, Eternity Burst, Hermida Zendrive, Dover Drive, Amp Eleven and Hermida EPH3. The Kalamazoo is separately documented as an overdrive. Sources: https://www.lovepedal.com/pedals/, https://www.lovepedal.com/pedals/kalamazoo/, https://www.lovepedal.com/pedals/amp-eleven/
+
+### Fulltone historical/current identity note
+Fulltone's present official site identifies the current operation as Fulltone USA and states that Brad Jackson licensed Fulltone Musical Products in 2023, with Fulltone USA launching at Winter NAMM 2024. For the first-pass builder census, Fulltone remains the recognizable builder identity while the later deep-dive layer can distinguish historical Fulltone and current Fulltone USA production as needed. Source: https://www.fulltoneusa.com/pages/about
 
 ## Existing Historical Discovery Pool
 
