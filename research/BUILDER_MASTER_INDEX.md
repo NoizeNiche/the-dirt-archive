@@ -5,12 +5,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **210 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **244 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **151 block files** are currently present: Blocks 001-069, 071-141, and 143-153.
+- **213 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **247 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **152 block files** are currently present: Blocks 001-069, 071-141, and 143-154.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 210 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 213 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -234,6 +234,9 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 208 | AVIA | 153 |  |
 | 209 | Award-Session | 153 |  |
 | 210 | Awestruck Amplification | 153 |  |
+| 211 | Axcess by Giannini | 154 |  |
+| 212 | Axess Electronics | 154 |  |
+| 213 | Axewerx | 154 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
