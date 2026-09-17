@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 068**.
+Research blocks stored under `research/builders/` now run through **Block 069**.
 
 Latest addition:
-- Block 068: Foxgear
+- Block 069: Lovepedal
 
 Recent blocks:
-- Block 059: Mojo Hand FX — founded by Brad Fee; acquired by Cusack Music in 2015 and continued under Cusack Music
 - Block 060: Prescription Electronics — Jack Brossart / Prescription Electronics Inc.
 - Block 061: Skreddy Pedals — Marc Ahlfs
 - Block 062: Keeley Electronics — Robert Keeley
@@ -41,41 +40,54 @@ Recent blocks:
 - Block 066: MXR — Dunlop Manufacturing, Inc.
 - Block 067: Pigtronix
 - Block 068: Foxgear
+- Block 069: Lovepedal
 
-Blocks 001–067 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–068 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 068 summary
-The official Fox Gear Distribution site presents Foxgear as one of its product brands and separately presents Gurus and Baroni-Lab. The Foxgear product list and manufacturer manuals support a focused dirt census.
+### Block 069 summary
+Lovepedal's official site currently exposes a broad set of current, small-batch, and historical dirt products. The block keeps category handling conservative and follows manufacturer product names or explicit descriptions.
 
 Overdrive:
-- Fenix
-- Cream
+- 200lbs of Gold
+- Purple Plexi
+- Eternity Burst
+- Zendrive
+- Dover Drive
+- Amp Eleven
+- Kalamazoo
+- Super Six
+- 5E3 Deluxe
+- Tchula
+- COT 50 / Church of Tone 50
+- Eternity Overdrive
+- Amp 50
+- Mosferatu
+- Zendrive 2
+- Tiki Drive
 
 Distortion:
-- Fenix
-- Ryder
-- Muffin
-- Bass Muffin
-- Sinister
-- Rats
+- Tiki Drive
 
 Fuzz:
-- Manic
+- 200lbs of Gold
+- FAB 50
 
-Fenix is explicitly an overdrive/distortion pedal and is recorded in both categories. Cream is explicitly Screaming Overdrive. Ryder, Muffin, Bass Muffin, Sinister, and Rats are explicitly documented as distortion products. Manic is explicitly a Vintage Fuzz / Vintage Fuzz Face design. No additional historical Foxgear dirt identities were promoted because the reviewed manufacturer material did not provide sufficiently strong product-level evidence to build a reliable separate discontinued census.
+The main overlaps are 200lbs of Gold as Overdrive + Fuzz and Tiki Drive as Overdrive + Distortion. Dover Drive remains Overdrive despite Fuzz Face-like upper-range language. Other high-gain descriptions remain within Overdrive unless Lovepedal explicitly describes the product as another target category.
 
-Ryder and Rats remain separate named functional products, while Bass Muffin remains separate from Muffin because it is a dedicated bass product with its own product identity and blend control. Gurus products such as Sexy Drive MK II and Ninja are not merged into Foxgear because the official site presents Gurus as a separate brand.
+Lovepedal variants, finishes, NOS/old-school builds, and small-batch cosmetic differences are consolidated when the underlying named product is the same. Eternity Burst and Zendrive 2 remain separate named identities because Lovepedal gives them distinct product names. COT50 Eternity Stack is not promoted as a new dirt identity because it contains already-recorded COT50 and Eternity Overdrive products.
 
-Boost, compressor, modulation, delay, reverb, interface, power, amp, and other non-target products remain outside the target dirt census. Generic gain, saturation, clipping, or THD language does not create additional categories without explicit manufacturer support.
+Hermida Audio Zendrive and Dover Drive are recorded here only because the Lovepedal manufacturer site presents those products within its current Lovepedal catalog. This block does not create a separate Hermida builder block from the reviewed material.
+
+Boost-only functions, filter/delay products, and other non-target products remain outside the dirt census.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 068.
+Added and re-read Builder → Pedals research Block 069.
 
 Research block commit:
-`77ed6864005467b5e4c064cc56a9e4090775e054`
+`abec60d333c3b2910c0429c0f7f2f79ae39590b5`
 
 Research block content SHA:
-`11b1d1fe1bcaa6b559b754bf687113be4aa9061c`
+`d64e7c8028be545de1ad7754e24e7ec990034189`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
