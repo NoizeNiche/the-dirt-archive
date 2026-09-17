@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **300 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **340 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **162 block files** are currently present: Blocks 001-069, 071-141, and 143-164.
+- **305 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **345 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **163 block files** are currently present: Blocks 001-069, 071-141, and 143-166.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 300 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 305 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -325,6 +325,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 298 | California Valveworks | 164 |  |
 | 299 | Caline | 164 |  |
 | 300 | Camuro | 164 | CAMURO Custom Built Pedals And Mods |
+| 301 | Century | 166 | Century series SXX-0 |
+| 302 | César Diaz | 166 | Cesar Diaz |
+| 303 | ChadderBox Effects | 166 | ChadderBox |
+| 304 | Champion City Effects | 166 |  |
+| 305 | Champion Leccy | 166 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
