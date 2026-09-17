@@ -37,6 +37,12 @@ The following builders are being prioritized because current first-party pages o
 | PastFX | high | Punkifriar PX76 Overdrive/Distortion/Fuzz | https://www.pastfx.com/ |
 | JHS Pedals | high | Coyote; Double Dragon; EHX by JHS Big Muff 2; Kilt; Kilt 10; Muffuletta; PackRat; Hard Drive; Violet; Cheese Ball; Crayon; 3 Series Fuzz; 3 Series Distortion; Colour Box; AT Mini; Notadumble V2; Morning Glory; 424 Gain Stage; Notaklon; Bonsai; AT+; Angry Charlie V3; Charlie Brown V4; Moonshine V2; PG-14; 3 Series Overdrive | https://jhspedals.info/ |
 | ThorpyFX | high | Bunker; Electric Lightning; The Dane; Scarlet Tunic; The Kudu; The Old Timer; Warthog | https://thorpyfx.com/collections/all/overdrive |
+| Wampler Pedals | high | Cryptid Fuzz; Mofetta; Moxie; Phenom Distortion; Belle Overdrive; tcd; Brent Mason: ReWired; Golden Jubilee | https://www.wamplerpedals.com/products/ |
+| Stone Deaf FX | high | PDF-2; PDF-1X Ghost; Warp Drive; Fig Fumb; Rise & Shine; Trashy Blonde; Kliptonite | https://www.stonedeaffx.com/ |
+| Barber Electronics | high | Gain Changer SR; Midnight Standard; FWW Plus; other overdrive products | https://www.barberelectronics.com/ |
+| Caroline Guitar Company | high | Wave Cannon Zero; CROM; The Blues; Shigeharu; Wave Cannon MKII; Aaron Graves Overdrive | https://carolineguitar.com/product-category/pedals/ |
+| Catalinbread Effects | high | Dirty Little Secret; SFT; RAH; Sabbra Cadabra; Formula 55; Formula 5F6; Galileo; Dirty Little Secret Deluxe; Fuzzrite; Fuzzrite Germanium; Katzenkönig; Giygas 2K Fuzz | https://catalinbread.com/collections/boost-fuzz-distortion-series |
+| Xotic Effects | high | SL Drive; AC Booster V2; BB Preamp V1.5; Soul Driven; RC Booster V2; RC Booster Classic; Bass BB Preamp V1.5; Bass RC Booster V2 | https://xotic.us/effects/ |
 
 ## Current Web Verification Notes
 
@@ -78,6 +84,24 @@ The current official catalog has a dedicated Fuzz / Distortion section with mult
 
 ### ThorpyFX
 The current official catalog identifies multiple overdrive/distortion products including Bunker, Electric Lightning, The Dane, Scarlet Tunic, The Kudu, The Old Timer, and Warthog. Source: https://thorpyfx.com/collections/all/overdrive
+
+### Wampler Pedals
+Wampler's current official product catalog includes dirt products such as Cryptid Fuzz, Mofetta, Moxie, Phenom Distortion, Belle Overdrive, tcd, Brent Mason: ReWired, and Golden Jubilee. Sources: https://www.wamplerpedals.com/ and https://www.wamplerpedals.com/products/
+
+### Stone Deaf FX
+Stone Deaf's current site identifies products across overdrive, distortion, and fuzz, including PDF-2, PDF-1X Ghost, Warp Drive, Fig Fumb, Rise & Shine, Trashy Blonde, and Kliptonite. Its story page describes the company as active since 2010 with overdrive, fuzz and distortion among its core pedal areas. Sources: https://www.stonedeaffx.com/ and https://www.stonedeaffx.com/es/pages/our-story
+
+### Barber Electronics
+Barber's current product pages document multiple overdrive products including Gain Changer SR, Midnight Standard, and FWW Plus. Sources: https://www.barberelectronics.com/gainchanger, https://www.barberelectronics.com/midnightstandard, https://www.barberelectronics.com/fwwplus
+
+### Caroline Guitar Company
+Caroline's current pedal catalog includes multiple dirt products including Aaron Graves Overdrive, Wave Cannon Zero, CROM, The Blues, Shigeharu, and Wave Cannon MKII. The official site describes the company as a small-batch pedal operation in Columbia, South Carolina. Sources: https://carolineguitar.com/product-category/pedals/ and https://carolineguitar.com/about/
+
+### Catalinbread Effects
+Catalinbread's current collections expose multiple overdrive, fuzz, and distortion products, including Dirty Little Secret, SFT, RAH, Sabbra Cadabra, Formula 55, Formula 5F6, Galileo, Dirty Little Secret Deluxe, Fuzzrite, Fuzzrite Germanium, Katzenkönig, Giygas 2K Fuzz, and Fuzzrite Mini. Sources: https://catalinbread.com/collections/foundation-overdrive-series and https://catalinbread.com/collections/boost-fuzz-distortion-series
+
+### Xotic Effects
+Xotic's current official effects catalog lists multiple drive products including SL Drive, AC Booster V2, BB Preamp V1.5, Soul Driven, RC Booster V2, RC Booster Classic, Bass BB Preamp V1.5, and Bass RC Booster V2. Source: https://xotic.us/effects/
 
 ## Existing Historical Discovery Pool
 
