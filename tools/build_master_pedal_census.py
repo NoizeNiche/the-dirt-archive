@@ -127,6 +127,10 @@ def clean_pedal_text(text: str) -> str | None:
     if any(marker in lower for marker in note_markers):
         return None
 
+    # A research label such as "Burn Unit lineage" is not a pedal identity.
+    if re.search(r"\blineage\b", lower):
+        return None
+
     if " / " in text:
         slash_lower = lower
         if any(marker in slash_lower for marker in ANNOTATION_MARKERS):
@@ -237,8 +241,6 @@ def extract_rows() -> tuple[list[tuple[str, str, str]], int]:
                 for pedal_type in active_types:
                     rows.add((current_builder, pedal, pedal_type))
 
-    # Remove simple duplicate naming variants when a name only adds a generic
-    # category word to an otherwise identical product name for the same builder/type.
     generic_suffixes = (" fuzz", " overdrive", " distortion", " drive")
     existing_keys = {(norm(b), pedal_type, canonical_key(pedal)) for b, pedal, pedal_type in rows}
     clean_rows: set[tuple[str, str, str]] = set()
