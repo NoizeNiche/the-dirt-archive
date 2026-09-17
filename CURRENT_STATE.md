@@ -25,39 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 106**.
+Research blocks stored under `research/builders/` now run through **Block 107**.
 
 Latest addition:
-- Block 106: Dr. Scientist
+- Block 107: IdiotBox Effects
 
 Recent blocks:
-- Block 101: Black Arts Toneworks
 - Block 102: Fairfield Circuitry
 - Block 103: Spaceman Effects
 - Block 104: Old Blood Noise Endeavors
 - Block 105: Fulltone
 - Block 106: Dr. Scientist
+- Block 107: IdiotBox Effects
 
-Blocks 001–105 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
-
-### Block 104 summary
-Old Blood Noise Endeavors (OBNE) is a previously uncovered builder with a current catalog spanning Overdrive, Distortion, and Fuzz.
-
-Overdrive:
-- Fault V2
-- Beam Splitter V2
-
-Distortion:
-- Fault V2
-- Beam Splitter V2
-- Excess V2
-
-Fuzz:
-- Haunt Fuzz
-- Alpha Haunt
-- Pardner
-
-OBNE explicitly presents Fault V2 as Overdrive + Distortion. Beam Splitter V2 uses three overdrive voices while the product is also presented as trereo distortion, so it is retained in both categories as one named pedal. Excess V2 is a dedicated distortion paired with modulation/delay functions. Haunt, Alpha Haunt, and Pardner are explicitly fuzz products. Screen Violence, Dark Star, Black Bobbin Boost, and other non-target or boost-first products remain excluded.
+Blocks 001–106 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 105 summary
 Fulltone is a previously uncovered builder with a long-running dirt catalog spanning current and historical products.
@@ -111,17 +92,66 @@ The Elements is explicitly described by Dr. Scientist as a dual-channel overdriv
 
 BitQuest and BitQuest Eurorack are excluded because they are broad multi-effect systems with fuzz as only one component. BoostBot is excluded as a clean boost/utility product, and Sunny Day Delay, Dusk, Phreak, Spectrum Analyzer, and other non-target effects remain outside the dirt census. Gain range alone does not create extra categories.
 
+### Block 107 summary
+IdiotBox Effects is a previously uncovered builder led by Atarimatt, who says on the official About page that he has made effects and noiseboxes full-time under the IdiotBox name since 2011. The current official catalog has a dedicated Fuzz/Distortion/Overdrive category and a broad set of individual dirt products.
+
+Overdrive:
+- Han-Taun Overdrive
+- Power Drive
+- Trench Cannon
+- Necrofier Echo Drive
+- repo man
+- No Moon
+- No Moon 2 — coming soon
+
+Distortion:
+- Blower Box Bass Distortion / Blower Box lineage
+- Blower Box Deluxe
+- Dungeon Master
+- Heavy Weapon
+- No Moon
+- No Moon 2 — coming soon
+- Death Master
+- Trash Compactor
+- Black Fortress Bass Distortion
+- -D4 Distortion Reissue
+- Landphil Bass Distortion
+- Wild Kyle
+- REDRUM V2
+- Nihilizer — limited historical collaboration
+
+Fuzz:
+- Dungeon Master
+- Ron Fucking Swanson Super Fuzz
+- No Moon
+- No Moon 2 — coming soon
+- Tractor Beam
+- Black Fortress Bass Distortion
+- Monster Fuzz
+- Blackout
+- DeathRay
+- Static Fuzz
+- WHORES. Fuzz Freq V.2
+- Blasteroid Fuzz
+- Cool Buzz Bass Fuzz
+- Lost Ark
+- Hobo Santa Fuzz
+
+The strongest hybrid cases are No Moon / No Moon 2, which explicitly combine Muff, Screamer, and RAT-style circuits in one pedal. Dungeon Master explicitly combines Muff/SuperFuzz and HM-2-style distortion functions, while Black Fortress combines HM-2-style distortion with a parallel octave fuzz. Power Drive remains Overdrive despite its voltage-starved fuzz behavior, and -D4 remains Distortion despite lower-gain overdrive behavior.
+
+Aquabox, Dead Space Invader, Orange Cycle, Mad Doctor Deluxe, Energizer, Dragon Sound Tone Booster, TK-421 Modification, End Of Line, and other non-target or utility products remain excluded. Mystery products remain excluded because their dirt identity is intentionally unspecified. Normal colorway/version changes are consolidated unless the builder presents a distinct named product identity.
+
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 106.
+Added and re-read Builder → Pedals research Block 107.
 
 Research block commit:
-`bd9bf8e3a96bac0e885b5dbaefbb8a20cf9b44c7`
+`522e7973a904c96d24d856ca9386394fadcf729b`
 
 Research block content SHA:
-`832a2eb489a3b1d9e523030dbb869d28c1d9326f`
+`b7e1d0f2b3cf4d2d16ddc7a91d9d9b6e1a6a0a72`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
