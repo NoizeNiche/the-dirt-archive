@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 067**.
+Research blocks stored under `research/builders/` now run through **Block 068**.
 
 Latest addition:
-- Block 067: Pigtronix
+- Block 068: Foxgear
 
 Recent blocks:
-- Block 058: Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez
 - Block 059: Mojo Hand FX — founded by Brad Fee; acquired by Cusack Music in 2015 and continued under Cusack Music
 - Block 060: Prescription Electronics — Jack Brossart / Prescription Electronics Inc.
 - Block 061: Skreddy Pedals — Marc Ahlfs
@@ -41,45 +40,42 @@ Recent blocks:
 - Block 065: ZVEX Effects — Zachary Vex
 - Block 066: MXR — Dunlop Manufacturing, Inc.
 - Block 067: Pigtronix
+- Block 068: Foxgear
 
-Blocks 001–066 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–067 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 067 summary
-Pigtronix identifies itself as a boutique pedal maker and maintains current and legacy product/support indexes. Manufacturer product pages and manuals explicitly support Overdrive, Distortion, and Fuzz identities.
+### Block 068 summary
+The official Fox Gear Distribution site presents Foxgear as one of its product brands and separately presents Gurus and Baroni-Lab. The Foxgear product list and manufacturer manuals support a focused dirt census.
 
 Overdrive:
-- Gamma Drive
-- Philosopher's Tone 2
-- Philosopher's Gold
-- Disnortion
+- Fenix
+- Cream
 
 Distortion:
-- Gamma Drive
-- Philosopher's Tone 2
-- Philosopher's Gold
-- Octava
-- Star Eater
+- Fenix
+- Ryder
+- Muffin
+- Bass Muffin
+- Sinister
+- Rats
 
 Fuzz:
-- Gas Giant
-- Star Eater
-- Octava
-- Disnortion
+- Manic
 
-The main category overlaps recorded are Gamma Drive as Overdrive + Distortion; Philosopher's Tone 2 as Overdrive + Distortion; Philosopher's Gold as Overdrive + Distortion; Disnortion as Overdrive + Fuzz; and Octava and Star Eater as Fuzz + Distortion based on Pigtronix product function/category fields.
+Fenix is explicitly an overdrive/distortion pedal and is recorded in both categories. Cream is explicitly Screaming Overdrive. Ryder, Muffin, Bass Muffin, Sinister, and Rats are explicitly documented as distortion products. Manic is explicitly a Vintage Fuzz / Vintage Fuzz Face design. No additional historical Foxgear dirt identities were promoted because the reviewed manufacturer material did not provide sufficiently strong product-level evidence to build a reliable separate discontinued census.
 
-Historical FAT Drive, Bass FAT Drive, XL FAT Drive, and PolySaturator remain verification leads rather than categorized identities because the reviewed current/legacy Pigtronix material did not provide sufficiently strong product-level target-category evidence without relying on secondary sources.
+Ryder and Rats remain separate named functional products, while Bass Muffin remains separate from Muffin because it is a dedicated bass product with its own product identity and blend control. Gurus products such as Sexy Drive MK II and Ninja are not merged into Foxgear because the official site presents Gurus as a separate brand.
 
-Compressor-only Philosopher's Tone, Class A Boost, Gatekeeper, delay/reverb, modulation, synth, looper, ring-modulator, and other non-dirt products remain outside the target census. Generic gain, saturation, crunch, and distortion-like wording does not create an additional category unless Pigtronix explicitly supplies target-category support.
+Boost, compressor, modulation, delay, reverb, interface, power, amp, and other non-target products remain outside the target dirt census. Generic gain, saturation, clipping, or THD language does not create additional categories without explicit manufacturer support.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 067.
+Added and re-read Builder → Pedals research Block 068.
 
 Research block commit:
-`62bbdbd60eca735946183390c3c421eca1f42da0`
+`77ed6864005467b5e4c064cc56a9e4090775e054`
 
 Research block content SHA:
-`c5592e75f8331bfcaa2072d3a5d97113db587b67`
+`11b1d1fe1bcaa6b559b754bf687113be4aa9061c`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
