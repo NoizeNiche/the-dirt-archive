@@ -14,8 +14,8 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–070 are stored under `research/builders/`.
-- Blocks 001–069 remain the established prior research stream in the repository.
+- Fresh research Blocks 001–071 are stored under `research/builders/`.
+- Blocks 001–070 remain the established prior research stream in the repository.
 - Block 061 covers Skreddy Pedals — Marc Ahlfs, using Skreddy Pedals' official About page, current Overdrive/Fuzz/all-products indexes, Big Muff and ToneBender variant indexes, and individual manufacturer product pages/manuals. The block records 13 current Overdrive identities; explicit Distortion identities are kept conservative because the current manufacturer site has no separate Distortion category; and current manufacturer Fuzz material supplies the fuzz-family identities. Non-dirt utilities, modulation, delay, boost-only products, and amp-emulator platforms are excluded.
 - Block 062 covers Keeley Electronics — Robert Keeley, using Keeley Electronics' official About page, current shop/product index, current Distortion/Drive/Boost/Fuzz category, and individual manufacturer product/archive pages. The block records current and clearly documented historical Overdrive, Distortion, and Fuzz identities, keeps explicit category overlaps, and consolidates cosmetic, B-stock, and closely related limited-edition variants.
 - Block 063 covers Wampler Pedals — Brian Wampler, using Wampler's official About page, current Distortion/Overdrive and Fuzz catalog/tag indexes, official Downloads/manual archive, and individual manufacturer product pages/manuals. The block records current and clearly documented historical Overdrive, Distortion, and Fuzz identities, keeps explicit category overlaps, consolidates limited/cosmetic editions, and leaves weakly supported historical names as verification leads rather than forcing them into the census.
@@ -26,17 +26,18 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 068 covers Foxgear, using Fox Gear Distribution's official home page, Fox Gear Product List, Manuals archive, individual Foxgear product pages, and manufacturer-authored Foxgear manuals. The block records Fenix and Cream as Overdrive, Fenix/Ryder/Muffin/Bass Muffin/Sinister/Rats as Distortion, and Manic as Fuzz. It keeps Ryder separate from Rats, Bass Muffin separate from Muffin, and Gurus/Baroni-Lab products separate from Foxgear because the official site presents them as separate brands.
 - Block 069 covers Lovepedal, using Lovepedal's official home page, current Pedals and New Products indexes, History page, individual product pages, and press archive. The block records a broad manufacturer-supported Overdrive census including current, small-batch, and historical identities; 200lbs of Gold as Overdrive + Fuzz; Tiki Drive as Overdrive + Distortion; and FAB 50 as historical Fuzz. It keeps generic high-gain or low-distortion language from creating unsupported additional categories and consolidates cosmetic/small-batch variants.
 - Block 070 covers Xotic Effects / Xotic California, using Xotic's official About Us page, Effects catalog, Manuals archive, current product pages, and legacy manuals. The block records a strong Overdrive set, SL Drive as current Overdrive + Distortion, AC Booster as historical Overdrive + Distortion, and no explicitly categorized Fuzz identities in the reviewed manufacturer material. It keeps boost/buffer products outside the target taxonomy and consolidates cosmetic/anniversary editions.
+- Block 071 covers Maxon / Nisshin Onpa, using Maxon's official effects catalog and product material, Nisshin Onpa / Maxon manufacturer documentation, and authoritative archival Maxon documentation where current manufacturer pages no longer surface older products. The block records a broad Overdrive set, explicit Distortion identities, and the seven Fuzz Elements products. It keeps OSD-9, RTD800, and ROD881 as Overdrive + Distortion, keeps Maxon separate from the earlier Ibanez block despite historical lineage, and does not infer extra categories from generic gain or distortion language.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`cc6143fa06fb67938a361df15ed3216cae409aa1`
+`bb3c63323f4c188587c229609dcb9eb5e48a28e5`
 
 ## Last checkpoint files
-- `CURRENT_STATE.md` updated in commit `b75cb8aff4f77f0ef0e31a0eb615ed71b4d83798`
-- `research/builders/BLOCK-2026-09-17-070.md` content SHA: `ea99a612e031f2dc5a22c070b7ec882a5bd600a9`
-- `CURRENT_STATE.md` content SHA: `929f4a6cf94793996e4b30109762bae81d04ecb6`
+- `CURRENT_STATE.md` updated in commit `265c942c2e8feb4b4f6d4424f1cd2ec889881ac3`
+- `research/builders/BLOCK-2026-09-17-071.md` content SHA: `3fb907a8d2328c9ce75e23ca6154d3406188e2f4`
+- `CURRENT_STATE.md` content SHA: `8fbae6a6454c49c5fd639204632d4ee30edfae0c`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
