@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 070**.
+Research blocks stored under `research/builders/` now run through **Block 071**.
 
 Latest addition:
-- Block 070: Xotic Effects / Xotic California
+- Block 071: Maxon / Nisshin Onpa
 
 Recent blocks:
-- Block 061: Skreddy Pedals — Marc Ahlfs
 - Block 062: Keeley Electronics — Robert Keeley
 - Block 063: Wampler Pedals — Brian Wampler
 - Block 064: Walrus Audio
@@ -41,49 +40,69 @@ Recent blocks:
 - Block 068: Foxgear
 - Block 069: Lovepedal
 - Block 070: Xotic Effects / Xotic California
+- Block 071: Maxon / Nisshin Onpa
 
-Blocks 001–069 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–070 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 070 summary
-Xotic's official About Us, Effects catalog, Manuals archive, current product pages, and legacy manuals support a strong Overdrive census plus a small, explicitly documented Distortion set.
+### Block 071 summary
+Maxon / Nisshin Onpa was previously unrepresented in the active repository. Maxon is kept as a separate builder identity from the earlier Ibanez block even where historical product lineage is shared.
 
 Overdrive:
-- SL Drive
-- AC Booster V2
-- BB Preamp V1.5
-- Soul Driven
-- Bass BB Preamp V1.5
-- BB Preamp
-- AC Booster
-- BB Plus
-- BB Preamp MB
-- BB Preamp Comp
-- AC Booster Comp
-- BB Preamp AT
-- Soul Driven AH
-- Bass BB Preamp
+- OD808
+- OD-9
+- OD820 Overdrive Pro+
+- OD808X
+- OD-9 Pro+
+- OOD-9 Organic Overdrive
+- OSD-9 Overdrive / Soft Distortion
+- RTO700 Real Tube Overdrive
+- ST9Pro+ Super Tube Overdrive Pro+
+- TBO-9 True Tube Booster / Overdrive
+- TOD-9 True Tube Overdrive
+- RTD800 Real Tube Distortion
+- ROD881 Real Overdrive / Distortion
+- ST-9 Super Tube Screamer
+- SD-9 Sonic Distortion / Overdrive
+- SM-9Pro Super Metal Pro+
 
 Distortion:
-- SL Drive
-- AC Booster
+- OSD-9
+- D&S
+- D&S II
+- DS830 Distortion Master
+- SD-9M Sonic Distortion Master
+- SSD-9 Super Sonic Distortion
+- SM-9Pro+ Super Metal Pro+
+- RTD800 Real Tube Distortion
+- ROD881 Real Overdrive / Distortion
+- SD-9 Sonic Distortion
+- SM-9 Super Metal
 
 Fuzz:
-- none explicitly categorized by Xotic in the reviewed manufacturer material
+- Fuzz Elements Air
+- Fuzz Elements Earth
+- Fuzz Elements Ether
+- Fuzz Elements Fire
+- Fuzz Elements Wind
+- Fuzz Elements Water
+- Fuzz Elements Void
 
-The key overlap decisions are SL Drive as Overdrive + Distortion because Xotic's current catalog explicitly labels it “DISTORTION / OVERDRIVE,” and the original AC Booster as historical Overdrive + Distortion because its official page says its gain range can make it work as a distortion pedal at maximum gain. AC Booster V2 is kept as Overdrive only because its current manufacturer page frames it as a wide-range overdrive and does not automatically inherit the older product's separate distortion wording.
+The main category overlaps are OSD-9 as Overdrive + Distortion; RTD800 as Overdrive + Distortion because its documentation describes independent overdrive and distortion circuits; and ROD881 as Overdrive + Distortion from its explicit product naming. TBO-9 remains Overdrive because booster functionality is secondary and the manufacturer explicitly identifies the pedal as booster / overdrive. The Fuzz Elements products remain Fuzz only, with no Distortion category inferred from technical wording.
 
-BB Preamp family products remain Overdrive identities rather than being split into additional Distortion identities merely because Xotic describes broad gain ranges or aggressive sounds. RC Booster products, EP Booster, Super Sweet Booster, Super Clean Buffer, AH Booster, and other boost/buffer products remain outside the target dirt census. No Fuzz identity was inferred without explicit manufacturer classification.
+Current versus historical model identities follow named Maxon products and revisions. OD-9 Pro+, OD808X, ST9Pro+, SD-9M, and SM-9Pro+ remain distinct from their earlier named counterparts. Cosmetic and minor presentation variations are consolidated.
 
-Current versus legacy status follows Xotic's own catalog. Functional named products such as BB Preamp V1.5 versus original BB Preamp and AC Booster V2 versus original AC Booster remain distinct; cosmetic and anniversary editions are consolidated.
+Godlyke references are treated as authoritative archival references where used, not as evidence of a current 2026 U.S. distribution relationship. Maxon remains the builder identity. Same-name or historically related Ibanez products are not merged into this block.
+
+Boost-only, modulation, delay, reverb, EQ, compressor, gate, interface, and other non-target products remain outside the census. Generic gain, clipping, saturation, or distortion language does not create another category without explicit product-level support.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 070.
+Added and re-read Builder → Pedals research Block 071.
 
 Research block commit:
-`cc6143fa06fb67938a361df15ed3216cae409aa1`
+`bb3c63323f4c188587c229609dcb9eb5e48a28e5`
 
 Research block content SHA:
-`ea99a612e031f2dc5a22c070b7ec882a5bd600a9`
+`3fb907a8d2328c9ce75e23ca6154d3406188e2f4`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
