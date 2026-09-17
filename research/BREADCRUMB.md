@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–123 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–124 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 115: OKKO FX
 - 116: Catalinbread Effects
 - 117: JHS Pedals
 - 118: Analog Man
@@ -24,6 +23,7 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 121: Suhr
 - 122: Crazy Tube Circuits
 - 123: Beetronics FX
+- 124: Mad Professor Amplification
 
 ## Block 118 — Analog Man
 Analog Man / Mike Piera.
@@ -221,13 +221,48 @@ Key overlaps:
 
 Key restraint: Beetronics generic mentions of distortion are not enough to establish a separate Distortion category. Octahive V2, Vezzpa, Swarm, and Abelha remain Fuzz despite octave/harmonizer modes. Wannabee remains Overdrive only. Limited editions, custom-shop units, artwork, and enclosure variants are consolidated rather than multiplied. Tuna Fuzz remains one fuzz identity despite its unusual can enclosure. Modulation/time-based and boost-first products remain outside scope. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
+## Block 124 — Mad Professor Amplification
+Mad Professor Amplification is a previously uncovered builder with a large historical/current Overdrive catalog plus dedicated Distortion and Fuzz products.
+
+Overdrive:
+- Albert's Overdrive — historical/discontinued
+- Amber Overdrive — historical/discontinued
+- Big Tweedy Drive — historical/discontinued
+- Blueberry Bass Overdrive — historical/discontinued
+- Bluebird Overdrive — historical/discontinued
+- Golden Cello — historical/discontinued
+- The Green Wonder — current
+- Little Green Wonder — current/handwired lineage
+- Little Tweedy Drive — historical/discontinued
+- Loud 'n Proud — historical/discontinued
+- Royal Blue Overdrive — current/handwired lineage
+- Simble / Simble Overdrive Mk2 — original lineage + current Mk2
+- Sky Blue Overdrive — historical/handwired lineage
+- Supreme — historical/limited/current-return lineage
+- Sweet Honey Overdrive — current/handwired lineage
+- Sweet Honey Overdrive Deluxe — historical/discontinued
+- Twimble — historical/discontinued
+
+Distortion:
+- Mighty Red Distortion — historical/discontinued
+- Stone Grey Distortion — historical/discontinued
+
+Fuzz:
+- Fire Red Fuzz — historical/discontinued
+- Loud 'n Proud — historical/discontinued
+
+Key overlap:
+- Loud 'n Proud = Overdrive + Fuzz
+
+Key restraint: Amber and Albert's remain Overdrive only despite fuzz-like behavior at high settings. Bluebird and Blueberry Bass remain Overdrive only despite higher settings producing distortion. Royal Blue remains Overdrive only despite its range into distortion. Super Black is excluded as an amp-in-a-box product even though it contains a separate Sweet Honey overdrive circuit. Evolution Orange Underdrive, Simble Predrive, Ruby Red Booster, and non-dirt effects remain outside scope. Routine handwired/factory versions, reissues, and minor variants are consolidated into product lineages. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+
 ## Last research commit
-`2563cd194568648a5fb8c594fc464dd376a6e842`
+`322c510c339830460d8d7f785e4f828279688d72`
 
 ## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-123.md` saved
-- `CURRENT_STATE.md` updated through Block 123
-- `research/BREADCRUMB.md` updated through Block 123
+- `research/builders/BLOCK-2026-09-17-124.md` saved
+- `CURRENT_STATE.md` updated through Block 124
+- `research/BREADCRUMB.md` updated through Block 124
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
