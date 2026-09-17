@@ -25,20 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 120**.
+Research blocks stored under `research/builders/` now run through **Block 121**.
 
 Latest addition:
-- Block 120: Greer Amps
+- Block 121: Suhr
 
 Recent blocks:
-- Block 115: OKKO FX
 - Block 116: Catalinbread Effects
 - Block 117: JHS Pedals
 - Block 118: Analog Man
 - Block 119: Benson Amps
 - Block 120: Greer Amps
+- Block 121: Suhr
 
-Blocks 001–119 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–120 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 116 summary
 Catalinbread Effects spans all three target categories. SFT and Crooner Preamp are explicit Overdrive + Distortion + Fuzz overlaps; Katzenkönig is Distortion + Fuzz. Boost-first and multi-effects products stay outside the dirt census.
@@ -141,11 +141,41 @@ Key restraint:
 - Finish variants and routine revisions are not multiplied into separate identities.
 - No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
+### Block 121 summary
+Suhr is a previously uncovered builder with a clearly divided pedal catalog covering Overdrive, Distortion, and Fuzz. Suhr's own catalog explicitly identifies Eclipse as a dual-channel overdrive/distortion, Shiba Drive as overdrive, Riot as distortion, and Rufus/Thornicus as fuzz. citeturn571468search0turn571468search1turn571468search3turn571468search9
+
+Overdrive:
+- Shiba Drive
+- Shiba Drive Reloaded
+- Kiko Loureiro Signature Shiba Drive Reloaded
+- Eclipse
+
+Distortion:
+- Riot
+- Riot Mini
+- Riot Reloaded — legacy/discontinued
+- Eclipse
+
+Fuzz:
+- Rufus Fuzz
+- Rufus Reloaded Fuzz — legacy
+- Thornicus Fuzz
+
+Key overlap:
+- Eclipse = Overdrive + Distortion; Suhr explicitly describes it as a dual-channel overdrive/distortion. citeturn571468search1turn571468search9
+
+Key restraint:
+- Riot remains Distortion only even though Suhr says its output can push an amplifier into natural overdrive; this is treated as operating behavior rather than a separate target identity. citeturn571468search12turn571468search24
+- Rufus and Thornicus remain Fuzz only; the archive does not promote heavier fuzz behavior into Distortion without explicit product-level support.
+- Riot/Riot Reloaded and Rufus/Rufus Reloaded are treated as named lineages rather than multiplying minor hardware or finish revisions.
+- Brighton Treble Boost, Dual Boost, Koko Boost, compression, modulation, delay, buffers, and tone tools remain outside the dirt census.
+- No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+
 ## Last completed research action
-Added and saved Builder → Pedals research Block 120: Greer Amps.
+Added and saved Builder → Pedals research Block 121: Suhr.
 
 Research block commit:
-`a407205759b2521af591b58ab3978de3c2a87404`
+`2ae7ac26a5ad9b2011e14b551a4ef4a8e8e5c0ac`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
