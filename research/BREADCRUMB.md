@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–120 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–121 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 112: Hudson Electronics UK
 - 113: BlackOutEffectors
 - 114: Mythos Pedals
 - 115: OKKO FX
@@ -24,6 +23,7 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 118: Analog Man
 - 119: Benson Amps
 - 120: Greer Amps
+- 121: Suhr
 
 ## Block 118 — Analog Man
 Analog Man / Mike Piera.
@@ -126,13 +126,38 @@ Key overlaps:
 
 Key restraint: current boost/preamp-first products such as Moonshot Germanium Pre, Sonic Boom, Sure Shot Clipping Boost, and Special Request stay outside the dirt census. Super Hornet's octave function does not become a separate category. Ghetto Stomp finish/enclosure versions and Fuzzy Wooly Bear transistor options are consolidated. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
+## Block 121 — Suhr
+Suhr.
+
+Overdrive:
+- Shiba Drive
+- Shiba Drive Reloaded
+- Kiko Loureiro Signature Shiba Drive Reloaded
+- Eclipse
+
+Distortion:
+- Riot
+- Riot Mini
+- Riot Reloaded — legacy/discontinued
+- Eclipse
+
+Fuzz:
+- Rufus Fuzz
+- Rufus Reloaded Fuzz — legacy
+- Thornicus Fuzz
+
+Key overlap:
+- Eclipse = Overdrive + Distortion; Suhr explicitly describes it as a dual-channel overdrive/distortion. citeturn571468search1turn571468search9
+
+Key restraint: Riot remains Distortion only even though Suhr says its output can push an amplifier into natural overdrive. Rufus and Thornicus remain Fuzz only. Named Reloaded versions are retained as lineage products, while minor hardware/finish changes are consolidated. Boost, compression, modulation, delay, buffers, and tone tools remain outside scope. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+
 ## Last research commit
-`a407205759b2521af591b58ab3978de3c2a87404`
+`2ae7ac26a5ad9b2011e14b551a4ef4a8e8e5c0ac`
 
 ## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-120.md` saved and verified
-- `CURRENT_STATE.md` updated through Block 120
-- `research/BREADCRUMB.md` updated through Block 120
+- `research/builders/BLOCK-2026-09-17-121.md` saved
+- `CURRENT_STATE.md` updated through Block 121
+- `research/BREADCRUMB.md` updated through Block 121
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
