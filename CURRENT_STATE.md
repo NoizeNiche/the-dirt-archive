@@ -25,205 +25,67 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 118**.
+Research blocks stored under `research/builders/` now run through **Block 119**.
 
 Latest addition:
-- Block 118: Analog Man
+- Block 119: Benson Amps
 
 Recent blocks:
-- Block 113: BlackOutEffectors
 - Block 114: Mythos Pedals
 - Block 115: OKKO FX
 - Block 116: Catalinbread Effects
 - Block 117: JHS Pedals
 - Block 118: Analog Man
+- Block 119: Benson Amps
 
-Blocks 001–117 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
-
-### Block 114 summary
-Mythos Pedals spans all three target categories. The clearest hybrid is Golden Fleece, explicitly described by Mythos as blending fuzz, distortion, and overdrive. 210 Double Drive Deluxe is Overdrive + Fuzz, and AU-79 is Fuzz + Overdrive. The archive does not turn ordinary fuzzy or distorted operating ranges into extra categories when Mythos keeps the product identity as Overdrive or Fuzz.
-
-### Block 115 summary
-OKKO FX is a previously uncovered builder with a substantial drive catalog. The block records clearly documented overdrive, distortion, and fuzz products and consolidates ordinary lineage variants rather than multiplying them by enclosure or revision.
+Blocks 001–118 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 116 summary
-Catalinbread Effects is a previously uncovered builder founded in 2003 by Nic Harris, with the company moving to Portland in 2006 and currently stating that it manufactures more than 30 unique pedals by hand.
-
-Overdrive:
-- Dirty Little Secret
-- Dirty Little Secret Deluxe
-- SFT
-- RAH
-- Sabbra Cadabra
-- Formula No. 55 / Formula 55
-- Formula 5F6
-- Formula 51
-- Galileo
-- Galileo 4K
-- Little Secret
-- Knight School Overdrive
-- SideArm Overdrive
-- Silver Kiss Overdrive (2007 Reissue)
-- Maxon 40th Anniversary Catalinbread Modified Overdrive (OD808-40C)
-- Misnomer (Cabinet Series)
-
-Distortion:
-- SFT
-- Katzenkönig
-- Carbide Distortion
-- Crooner Preamp
-
-Fuzz:
-- SFT
-- Katzenkönig
-- Crooner Preamp
-- Fuzzrite
-- Fuzzrite Germanium
-- Fuzzrite Mini
-- Giygas 2K Fuzz
-- Manx Loaghtan Fuzz
-- Merkin Fuzz
-- Karma Suture GE
-- Karma Suture SI
-- Octapussy
-- Antichthon
-- Perseus / Perseus DIO lineage
-
-Key overlaps:
-- SFT = Overdrive + Distortion + Fuzz; Catalinbread explicitly describes the full progression in the current SFT documentation.
-- Katzenkönig = Distortion + Fuzz; Catalinbread explicitly describes a Tone Bender MkII fuzz combined with RAT-style distortion.
-- Crooner Preamp = Overdrive + Distortion + Fuzz; Catalinbread explicitly states that its gain range includes clean boost, overdrive, distortion, and full-throated fuzz.
-
-Key restraint:
-- Formula 51, Manx Loaghtan, Giygas, Silver Kiss, and similar products remain in their stated primary dirt categories even when they can reach heavier saturation.
-- Boost-first products such as Naga Viper and Epoch Boost stay out of scope.
-- Catalinbread Bitters stays outside the dirt census because its primary identity is a multi-effects processor with distortion, phaser, and digital sound-mangling functions.
-- SFT Blackout, SFT Fireworks, Katzenkönig Fireworks, ordinary B-stock/finish variants, and other routine graphics are consolidated.
-- Blood Donor is not counted separately because Catalinbread's own release notice describes it as a revamped and fine-tuned Katzenkönig rather than a cleanly separate dirt identity.
-- No components, schematics, cloning, PCB, BOM, or internal-build information are recorded.
+Catalinbread Effects spans all three target categories. SFT and Crooner Preamp are explicit Overdrive + Distortion + Fuzz overlaps; Katzenkönig is Distortion + Fuzz. Boost-first and multi-effects products stay outside the dirt census.
 
 ### Block 117 summary
-JHS Pedals is a previously uncovered builder with a very broad dirt catalog. The current official catalog separates Overdrive, Fuzz/Distortion, Preamp, and other effect families, while the official history preserves older product lineages and the Legends of Fuzz series.
-
-Overdrive:
-- AT Mini
-- Notadümblo V2
-- Morning Glory Clean
-- 424 Gain Stage
-- Kilt 10
-- Notaklön
-- Morning Glory V4
-- Bonsai
-- Kilt V2
-- AT+
-- Angry Charlie V3
-- The Violet
-- 3 Series Screamer
-- Charlie Brown V4
-- Moonshine V2
-- PG-14
-- 3 Series Overdrive
-- SuperBolt lineage
-- Twin Twelve lineage
-- Double Barrel lineage
-- Charlie Brown historical lineage
-- Moonshine historical lineage
-- Morning Glory historical/current lineage
-- State Line — historical limited
-- Steak and Eggs Overdrive/Compressor — historical collaboration; Overdrive retained
-
-Distortion:
-- Hard Drive
-- 3 Series Distortion
-- The Violet
-- 424 Gain Stage
-- Kilt V2 / Kilt 10
-- PackRat
-- Colour Box V2 / Colour Box 10
-- Crayon
-- All American Distortion — historical lineage
-- Cheese Ball
-
-Fuzz:
-- Kilt V2 / Kilt 10
-- Muffuletta
-- 3 Series Fuzz
-- Colour Box V2 / Colour Box 10
-- Crayon
-- Cheese Ball
-- Coyote
-- EHX by JHS Big Muff 2
-- Bender
-- Pollinator
-- Smiley
-- Crimson
-- Firefly
-- 4 Wheeler
-- Mini Foot Fuzz
-- Bun Runner
-- 73 Rams Head
-- Supreme
-
-Key overlaps:
-- Kilt V2 / Kilt 10 = Overdrive + Distortion + Fuzz. JHS explicitly describes the Kilt as a dirt box covering all three target identities.
-- 424 Gain Stage = Overdrive + Distortion + Fuzz. JHS titles the product Preamp / Distortion / Overdrive and explicitly mentions smashed-out fuzz.
-- PackRat = Overdrive + Distortion + Fuzz. JHS describes the RAT family as spanning overdrive through distortion and all the way to fuzz.
-- Colour Box V2 / Colour Box 10 = Overdrive + Distortion + Fuzz. JHS explicitly titles the product Preamp / EQ / Overdrive / Distortion / Fuzz / DI Box.
-- Crayon = Distortion + Fuzz. JHS explicitly titles the product Preamp / Distortion / Fuzz.
-- Cheese Ball = Distortion + Fuzz. JHS explicitly titles it Distortion / Fuzz.
-- All American Distortion = Overdrive + Distortion + Fuzz historically. JHS explicitly describes its range from clean/grit and heavy overdrive through compressed sustaining fuzz.
-
-Key restraint:
-- 3 Series Distortion remains Distortion-only despite its documented ability to reach heavy overdrive and fuzz tones.
-- 3 Series Fuzz remains Fuzz-only despite documented distortion and pushed-amp overdrive sounds.
-- Coyote remains Fuzz because JHS presents it as an octave-fuzz product; octave behavior is not promoted into a separate dirt category.
-- Double Dragon is excluded because its primary identity is an octave device even though its upper octave can produce distortion.
-- PackRat White is consolidated into the PackRat lineage rather than counted as a separate circuit identity.
-- Muffuletta modes are not split into separate pedals; it is one JHS product containing multiple analog Muff-family voices.
-- Bonsai is kept as one pedal despite its multiple Tube Screamer-style modes.
-- Legends of Fuzz products are retained as distinct named fuzz products because JHS presents that series as individual historic fuzz circuits.
-- DIY kits, buffers, utilities, modulation, delay, reverb, and other non-target products remain outside scope.
-- No components, schematics, cloning, PCB, BOM, or internal-build information are recorded.
+JHS Pedals has a very broad dirt catalog spanning Overdrive, Distortion, and Fuzz. Key explicit multi-category products include Kilt V2/Kilt 10, 424 Gain Stage, PackRat, Colour Box, and historical All American Distortion. Ordinary high-gain operating ranges are not promoted into extra categories without explicit product-level support.
 
 ### Block 118 summary
-Analog Man is a previously uncovered builder with a focused but historically significant dirt catalog. The builder's own site documents handmade Sun Face, Astro Tone, Peppermint Fuzz, Sun Lion, King Of Tone, and Prince Of Tone products.
+Analog Man spans all three target categories. King Of Tone and Prince Of Tone are Overdrive + Distortion through explicit modes; Sun Face, Astro Tone, Peppermint Fuzz, and Sun Lion are recorded as fuzz identities. Third-party modifications and boost-first products remain outside the builder/product census.
+
+### Block 119 summary
+Benson Amps is a previously uncovered builder with a compact but clear dirt catalog.
 
 Overdrive:
-- King Of Tone — current
-- Prince Of Tone — current
+- Preamp Pedal
+- Germanium Preamp Pedal
+- Germanium Fuzz — current/legacy; explicit overdrive + fuzz documentation
 
 Distortion:
-- King Of Tone — current; explicit Distortion mode
-- Prince Of Tone — current; explicit Distortion mode
+- Portable Distortion 424 MKII
 
 Fuzz:
-- Sun Face — current
-- Astro Tone — current; Fuzz product
-- Peppermint Fuzz — current/legacy; Fuzz product
-- Sun Lion — current; Fuzz/Booster combination
+- Preamp Pedal
+- Germanium Preamp Pedal
+- Germanium Fuzz — current/legacy
+- Stonk Box — current/legacy
+- Störkn B0kš
+- Deep Sea Diver Fuzz-Echo
 
 Key overlaps:
-- King Of Tone = Overdrive + Distortion. Analog Man's current product page and V4 manual explicitly provide separate OD and DISTORTION modes for each side.
-- Prince Of Tone = Overdrive + Distortion. Analog Man's manual explicitly lists Normal Overdrive and Distortion modes, with Boost treated as outside the target taxonomy.
+- Preamp Pedal = Overdrive + Fuzz; Benson explicitly calls it a clean boost/overdrive/fuzz pedal.
+- Germanium Preamp Pedal = Overdrive + Fuzz; Benson explicitly describes it as overdrive/boost/fuzz.
+- Germanium Fuzz = Overdrive + Fuzz; the authoritative Mixwave Benson guide explicitly describes clean boost, overdrive, and fuzz.
 
 Key restraint:
-- King Of Tone Ver. 2 / Ver. 3 / Ver. 4 are treated as one King Of Tone lineage rather than separate dirt identities.
-- Prince Of Tone remains one product despite its internal mode choices.
-- Sun Face germanium/silicon transistor options are not split into separate pedals.
-- Peppermint Fuzz / Dark Peppermint Fuzz are consolidated as one Peppermint Fuzz identity.
-- Sun Lion is recorded as Fuzz because Analog Man explicitly describes it as the combination of Sun Face fuzz and Beano Boost; the Beano side is outside the target taxonomy.
-- Astro Tone remains Fuzz only. Analog Man describes it as a fuzz and notes that it can sit somewhere between fuzz and distortion; that operating range is not enough to create a separate Distortion entry.
-- Sun Bender / early three-transistor Tonebender work is not added as a separate current product because Analog Man's own history says those versions were stopped rather than maintaining a clean independent product listing.
-- Modified Boss, DOD, MXR, Ibanez, and other third-party pedals are not counted as Analog Man-built product identities.
-- Beano Boost, Bad Bob, and other boost-first products remain outside the dirt taxonomy.
-- Comprossor, Juicer, Chorus, delay, buffers, switchboxes, and other non-target products remain outside scope.
-- No components, schematics, cloning, PCB, BOM, or internal-build information are recorded.
+- Portable Distortion 424 MKII remains Distortion only; its lower-gain/boost behavior is treated as operating range rather than a separate target identity.
+- Stonk Box and Störkn B0kš remain Fuzz only.
+- Deep Sea Diver Fuzz-Echo remains Fuzz only; echo is outside scope.
+- Germanium Boost stays outside the dirt census as a boost-first product.
+- Florist, Delay, Surf's Up, amps, plugins, and other non-target products remain outside scope.
+- No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
 ## Last completed research action
-Added and saved Builder → Pedals research Block 118: Analog Man.
+Added and saved Builder → Pedals research Block 119: Benson Amps.
 
 Research block commit:
-`e43c9b04f2faa39500944d1d173b67c72c2f7d5c`
+`8fde0745606ef2c5876dd859ceb8c4c780edd366`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
