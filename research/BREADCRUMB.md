@@ -11,7 +11,7 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–124 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–125 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
@@ -24,6 +24,7 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 122: Crazy Tube Circuits
 - 123: Beetronics FX
 - 124: Mad Professor Amplification
+- 125: Barber Electronics
 
 ## Block 118 — Analog Man
 Analog Man / Mike Piera.
@@ -254,15 +255,51 @@ Fuzz:
 Key overlap:
 - Loud 'n Proud = Overdrive + Fuzz
 
-Key restraint: Amber and Albert's remain Overdrive only despite fuzz-like behavior at high settings. Bluebird and Blueberry Bass remain Overdrive only despite higher settings producing distortion. Royal Blue remains Overdrive only despite its range into distortion. Super Black is excluded as an amp-in-a-box product even though it contains a separate Sweet Honey overdrive circuit. Evolution Orange Underdrive, Simble Predrive, Ruby Red Booster, and non-dirt effects remain outside scope. Routine handwired/factory versions, reissues, and minor variants are consolidated into product lineages. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+Key restraint: Amber and Albert's remain Overdrive only despite fuzz-like behavior at high settings. Bluebird and Blueberry Bass remain Overdrive only despite higher settings producing distortion. Royal Blue remains Overdrive only despite its range into distortion. Super Black is excluded as an amp-in-a-box product even though it contains a separate Sweet Honey overdrive circuit. Evolution Orange Underdrive, Simble Predrive, Ruby Red Booster, and non-dirt effects remain outside scope. Routine handwired/factory versions, reissues, and minor variants are consolidated into product lineages.
+
+## Block 125 — Barber Electronics
+Barber Electronics is a previously uncovered builder with a large historical/current catalog centered on Overdrive, plus clear Distortion and Fuzz identities.
+
+Overdrive:
+- Midnight Standard — current
+- Gain Changer / Gain Changer SR — current lineage
+- Compact Direct Drive / Direct Drive lineage — current/historical
+- LTD / Silver LTD lineage — historical/discontinued
+- 1/2 Gainer — historical/discontinued
+- unLimiTeD / unLTD 2-Channel Overdrive — historical/discontinued
+- Burn Unit / Burn Unit 2 / Burn Unit EQ / Compact Burn Unit — historical/current lineage
+- Small Fry Burn Unit — historical/discontinued
+- Tone Pump / Tone Pump EQ / Tone Pump II — historical lineage
+- Deep Fryer — historical/limited
+- B-Custom Cool — historical/custom-shop
+- B-Custom Super Sport — historical/custom-shop
+- B-Custom Dual Discrete — historical/custom-shop
+- FWW BUSS — current
+- FWW BUSS HG — current
+- FWW Plus — current
+
+Distortion:
+- Dirty Bomb — historical/discontinued
+- Burn Unit lineage
+- Gain Changer lineage
+
+Fuzz:
+- Exacta — current
+- Trifecta — historical/discontinued
+
+Key overlaps:
+- Burn Unit = Overdrive + Distortion
+- Gain Changer = Overdrive + Distortion
+
+Key restraint: Direct Drive, LTD, Burn Unit, Tone Pump, and related versions are treated as lineages rather than multiplied by routine revisions. B-Custom Dual Discrete is a custom combination of existing Barber overdrives, not a unique core dirt design. Exacta and Trifecta remain Fuzz only. Dirty Bomb remains Distortion only. Deep Fryer remains Overdrive only despite reports of heavier drive at high settings. FWW BUSS, FWW BUSS HG, and FWW Plus remain Overdrive entries. Barb EQ, Linden EQ, Launch Pad, Tone Press, and other non-dirt Barber products remain outside scope. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
 ## Last research commit
-`322c510c339830460d8d7f785e4f828279688d72`
+`97c1a100e2f14710b127d985f848ff5ef76ca4d3`
 
 ## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-124.md` saved
-- `CURRENT_STATE.md` updated through Block 124
-- `research/BREADCRUMB.md` updated through Block 124
+- `research/builders/BLOCK-2026-09-17-125.md` saved
+- `CURRENT_STATE.md` updated through Block 125
+- `research/BREADCRUMB.md` updated through Block 125
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
