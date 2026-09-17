@@ -25,20 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 109**.
+Research blocks stored under `research/builders/` now run through **Block 110**.
 
 Latest addition:
-- Block 109: ThorpyFX
+- Block 110: Mr. Black
 
 Recent blocks:
-- Block 104: Old Blood Noise Endeavors
 - Block 105: Fulltone
 - Block 106: Dr. Scientist
 - Block 107: IdiotBox Effects
 - Block 108: Stone Deaf FX
 - Block 109: ThorpyFX
+- Block 110: Mr. Black
 
-Blocks 001–108 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–109 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 105 summary
 Fulltone is a previously uncovered builder with a long-running dirt catalog spanning current and historical products.
@@ -195,14 +195,54 @@ The strongest multi-category cases are Warthog and Cogmeister. ThorpyFX explicit
 
 2000 AD special editions of Gunshot, Warthog, and Fallout Cloud are consolidated into their underlying pedal identities rather than counted as separate variant entries.
 
+### Block 110 summary
+Mr. Black is the pedal line of Jack Deville LTD., founded in early 2012 as a special division of Jack Deville LTD. The current catalog and historical Mr. Black references establish a multi-era dirt lineup.
+
+Overdrive:
+- Deuce Coupe — current/reintroduced lineage
+- Bass OD Mk. II
+- BB-74x
+- Vintage Overdrive
+- Black LTD. Bass OD — historical / limited
+- Black LTD. Overdriver — historical / limited
+- Black LTD. Overdriver Mk. II — historical / limited
+- Classic 88 — historical / limited
+- Gold Drive "One Hundred" — historical / limited
+- Jalapeño — historical
+- JDS-50 — historical / discontinued
+- OD-503 Mini Amplifier Overdrive — historical / mini series
+- Orro
+- Snake Drive — historical
+- Sour Cream & Onion — historical
+- Super-Extra Five Thousand — historical / limited, clean boost + amplifier overdrive
+
+Distortion:
+- ThunderClaw
+- White Widow — historical / discontinued
+- Black LTD. Distortion — historical / limited
+
+Fuzz:
+- SludgeMaster
+- Black LTD. Darling Fuzz — historical / limited
+- Darling Fuzz / Black Fuzz lineage consolidated
+- Doomstick Fuzz / Doomstick II Fuzz lineage consolidated
+- Barbeque Fuzz — historical
+
+Mr. Black's official site currently identifies the Deuce Coupe and Bass OD Mk. II as overdrive products, SludgeMaster as high-gain fuzz, and ThunderClaw as high-gain distortion. Historical Mr. Black product pages and established references add the older Overdriver, Classic 88, Gold Drive "One Hundred", JDS-50, Orro, Darling Fuzz, Doomstick, Barbeque Fuzz, White Widow, and other named dirt products.
+
+The archive keeps boost-first products such as Boost Tiger, Treble Booster, Boost Drive One-Hundred, and Black LTD. Power Drive outside the target categories. Modulation, reverb, delay, octave-only, and utility products are also excluded. Doomstick and Doomstick II are treated as one fuzz lineage rather than separate entries unless a materially distinct named product is established.
+
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 109.
+Added and re-read Builder → Pedals research Block 110.
 
 Research block commit:
-`8be06a995cafe929a1f5c22d52eae32e563d04a2`
+`52783b1e6678ae90c145b6d0a043c7bbc0e52801`
+
+Research block content SHA:
+`ab9b30fb51d523aa64f7596f768ba87b0f71f87d`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
