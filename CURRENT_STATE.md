@@ -25,18 +25,18 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 058.
+Research blocks stored under `research/builders/` now run through Block 059.
 
-Latest addition in Block 058:
-- Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez
+Latest addition in Block 059:
+- Mojo Hand FX — founded by Brad Fee; acquired by Cusack Music in 2015 and continued under Cusack Music
 
 Recent blocks:
-- Block 053: Audiolithe — Christophe & Gaëtan
 - Block 054: Barbarossa — Newtool
 - Block 055: BIXONIC — Bright International Corp. / BIXONIC Inc.; relaunched under Kikusui Electronics Corp.
 - Block 056: McGregor Pedals — Garth McGregor Heslop
 - Block 057: Stomp Under Foot — Matt Pasquerella
 - Block 058: Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez
+- Block 059: Mojo Hand FX — founded by Brad Fee; acquired by Cusack Music in 2015 and continued under Cusack Music
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -84,15 +84,16 @@ Block 055 records BIXONIC dirt products using BIXONIC's official Story/history, 
 Block 056 records McGregor Pedals — Garth McGregor Heslop dirt products using McGregor Pedals' official catalog, individual product pages, and official press page. The block includes explicit Overdrive, Distortion, and Fuzz relationships; Crunch Plus is both Overdrive and Distortion, The Cozmic Fuzzball is Distortion/Fuzz, and The Classic Fuzz remains Fuzz only.
 Block 057 records Stomp Under Foot — Matt Pasquerella dirt products using the current Stomp Under Foot catalog plus Premier Guitar, Guitar Pedal X, and Effects Database for historical/product-level corroboration. The block spans Overdrive, Distortion, and Fuzz; Full Powered Halo is explicitly both Overdrive and Distortion, Skinner Box remains Distortion despite lower-gain overdrive capability, and fuzz-family products are not inflated into additional categories.
 Block 058 records Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez, using Dirty Boy Co.'s official effects catalog and product pages plus Warm Audio's official Dirty Boy Jr. materials and authoritative collaboration coverage. The block spans Overdrive and Fuzz; PREAMP and Dirty Boy Jr. Overdrive are explicit Overdrive identities, AFRO FUZZ, The Magical MYSTERY FUZZ, and Dirty Boy Jr. Fuzz are explicit Fuzz identities, and no standalone Distortion identity is promoted.
+Block 059 records Mojo Hand FX — founded by Brad Fee; acquired by Cusack Music in 2015 and continued under Cusack Music, using Mojo Hand FX's official About page, current catalog, fuzz catalog, product pages, and discontinued-product material, with Effects Database, Reverb, Barefoot Buttons, Premier Guitar, and other authoritative historical corroboration where needed. The block spans Overdrive, Distortion, and Fuzz. Overdrive includes Rook, Rook Royale, DMBL, Extra Special, Magpie, Sacred Cow, Odessa, Rock City, Sericon, Kensrue Rook, BlueBonnet, and historical Superlative; Distortion includes Socrates and Magistrate; Fuzz includes Iron Bell, Crosstown, Crosstown Rasta, Colossus, 1979, 1979 Baja, One Ton Bee, El Guapo, and historical Zephyr, Rounder, and Pompeii. The block deliberately avoids category inflation from “almost distortion” or “almost overdrive” descriptions.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 058.
+Added and re-read Builder → Pedals research Block 059.
 
 Research block commit:
-`2140b6450bd644217c705bba4b078e7ecd52c954`
+`5fcc4b8d41788c33a049ffe910690c7383aa8f65`
 
 Research block content SHA:
-`3732570a17c49d5cbc6ed96c3c99e5fde364a4ad`
+`96f2aa97103b47f48ba6e939f7bef317e0d0adf3`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
