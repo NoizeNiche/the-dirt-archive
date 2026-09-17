@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–101 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–102 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 094: Dwarfcraft Devices
 - 095: Mask Audio Electronics
 - 096: Death By Audio
 - 097: Fjord Fuzz
@@ -23,50 +22,32 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 099: Caroline Guitar Company
 - 100: Electronic Audio Experiments
 - 101: Black Arts Toneworks
+- 102: Fairfield Circuitry
 
-## Block 101 — Black Arts Toneworks
-Black Arts Toneworks (BAT), Mark Wentz / Black Arts Toneworks.
+## Block 102 — Fairfield Circuitry
+Fairfield Circuitry, Hull, Québec.
 
 Overdrive:
-- Black Forest
-- Quantum Mystic
-- Witch Burner MkII
-- Raw Heart OD
-- Tres Diablos Ruidosos
-- Coven
-- BAT — historical / discontinued
+- Barbershop — consolidated across V1 / Millennium Edition
+- Modèle B — named Barbershop-based product
 
 Distortion:
-- BAT — historical / discontinued
-- Raw Heart OD
-- Revelation — historical / discontinued
-- Tres Diablos Ruidosos
-- Priestess
+- 20% More
 
 Fuzz:
-- Pharaoh
-- Pharaoh Supreme
-- Son of Pharaoh
-- LSTR
-- Black Sheep
-- Priestess
-- Crown of Horns — historical / discontinued
-- FNORD
-- Destroyer
-- Sarcophagus
-- Rabid Mammal
-- Coven
-- Tres Diablos Ruidosos
+- ~900
+- The Unpleasant Surprise
+- Four Eyes — historical / discontinued
 
-Key restraint: Raw Heart OD is explicitly an Overdrive/Distortion design, Coven combines the Pharaoh Fuzz and Black Forest Overdrive, and Tres Diablos Ruidosos explicitly spans edgy OD, distortion, and oversaturated fuzz. Pharaoh-family products are not duplicated into additional categories merely because they can reach lighter drive settings.
+Key restraint: Fairfield's own site explicitly labels Barbershop an Overdrive, 20% More a Slew Limiting Distortion, and ~900 plus The Unpleasant Surprise as fuzz products. Fairfield also identifies the discontinued Four Eyes as the fuzz lineage behind ~900. The Barbershop V1 and Millennium Edition are consolidated because Fairfield says the circuit topology was unchanged; Modèle B remains separate because Fairfield sells it as its own named pedal.
 
 ## Last research commit
-`fbec4ec08d12a05c13392ed0729b1f9341a503bd`
+`0dabfd6e67c43de7770d2480d6f65a46cb0265da`
 
 ## Last checkpoint
-- `CURRENT_STATE.md` updated in commit `ea7b426d4359bb0dcd637009539f17d1dd876a35`
-- `research/builders/BLOCK-2026-09-17-101.md` content SHA: `e2d01cba89ce06244d80cbedf041d1ab606f8a36`
-- `CURRENT_STATE.md` content SHA: `07ad741589a80872ea787dfb1196f54d5fde08e6`
+- `CURRENT_STATE.md` updated in commit `82360eae03872b44fef35cfe192f5c6b8ebc6e85`
+- `research/builders/BLOCK-2026-09-17-102.md` content SHA: `f464c33c21ff761b42ab02d327000fb3ff7fd688`
+- `CURRENT_STATE.md` content SHA: `594f7007b701632c39862fc5d2d31e21c266b943`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
