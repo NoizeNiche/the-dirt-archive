@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **372 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **413 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **173 block files** are currently present: Blocks 001-069, 071-141, and 143-175.
+- **377 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **418 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **174 block files** are currently present: Blocks 001-069, 071-141, and 143-176.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 372 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 377 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -398,6 +398,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 370 | Cluster Effects | 175 |  |
 | 371 | Cranetortoise by Albit | 175 |  |
 | 372 | Couch Electronics | 175 |  |
+| 373 | CAST Engineering | 176 |  |
+| 374 | Crazy Rock'n'Roll Effecter | 176 | C.R.E. / Crazy Rock'n'roll Effecter |
+| 375 | Creber Instruments | 176 |  |
+| 376 | Crimsontone | 176 | Crimsontone Amps |
+| 377 | Cryptid Effects | 176 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
