@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–046 are stored under `research/builders/`.
+- Fresh research Blocks 001–047 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -53,7 +53,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 036 covers Dr. Scientist Sounds using the current official catalog and individual official product pages. The block conservatively excludes non-dirt products and does not promote unsupported historical names.
 - Block 037 covers OKKO FX — Heiko Lauenroth, using OKKO's current official catalog, individual official product pages, and official business/legal pages. Non-dirt products and boost-only identities remain outside the categorized census.
 - Block 038 covers SolidGoldFX — Greg Djerrahian, using SolidGoldFX's official About page, current catalog, dirt collection, and individual official product pages. The block conservatively documents overdrive and fuzz identities and does not invent a standalone distortion category.
-- Block 039 covers Tech 21 NYC — B. Andrew Barta, using Tech 21's official About page, archive, support material, individual product pages, and manuals. Generic SansAmp/amp-emulator products and ambiguous multi-effect platforms were deliberately left outside the core categorized dirt census.
+- Block 039 covers Tech 21 NYC — B. Andrew Barta, using Tech 21's official About page, archive, support material, individual product pages, and manuals. Generic SansAmp/amp-emulator products and ambiguous multi-effect platforms were deliberately left outside the core dirt census.
 - Block 040 covers Way Huge Electronics — George Tripps, using Way Huge/Jim Dunlop manufacturer material, official Jim Dunlop manuals, and authoritative current catalog material. Category overlaps were kept conservative and unsupported duplicate identities were removed during verification.
 - Block 041 covers Analog Alien — Jack & Joe Napoli, using Analog Alien's official catalog, individual product pages, manuals, and company material. The block preserves only explicit manufacturer-supported dirt classifications and does not split the 2026 Rumble Seat redesign into a duplicate pedal identity.
 - Block 042 covers IdiotBox Effects — Atarimatt, using IdiotBox Effects' official About page, current catalog, individual product pages, and Retired Designs page. Current and clearly documented retired dirt identities were included; boost-only, noise, modulation, octave-only, and ambiguous mystery products were left outside the categorized census.
@@ -61,12 +61,13 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 044 covers Basic Audio — one-man shop, using Basic Audio's current official catalog and individual official product pages. The block is strongly fuzz-oriented, includes explicitly documented overdrive identities, and avoids promoting insufficiently documented catalog names into additional categories.
 - Block 045 covers Animal Factory Amplification — Aditya Nandwana, using the builder's official founder/team material, current pedal catalog, current product pages, and manufacturer-authored historical product announcements. Physical pedal identities span fuzz, overdrive, and distortion; the separate Eurorack/module catalog is excluded.
 - Block 046 covers Sitek Guitar Electronics — Andrzej “Andy” Sitek & Hania Sitek, using the builder's official About page, current pedal catalog, and individual official product pages. Explicit overdrive, distortion, and fuzz identities were included; booster-only, buffer, and modulation products were excluded and descriptive gain ranges were not used to inflate categories.
+- Block 047 covers Subdecay — Brian Marshall, using Subdecay's official founder material, current effects catalog, individual official product pages, and manufacturer documentation. Current and clearly documented discontinued overdrive/fuzz identities plus the Vector multi-dirt pedal were included; synth, modulation, filter, reverb, delay, and utility products were excluded.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`993c9bab63d592fc88edec8a384b9523fc582095`
+`a7fa74c5d049a2724fbf464279a00f215884177e`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
@@ -75,7 +76,7 @@ Continue the fresh Builder → Pedals census only. When external research access
 No photos. No biographies. No deep history. No components. No schematics. No PCB work. No BOMs. No internal imagery. No cloning information. No variant rabbit holes. No unrelated website/UI architecture.
 
 ## Resume rule
-A new session should read `START_HERE.md`, `ARCHIVE_GOVERNANCE.md`, `CURRENT_STATE.md`, and this file before doing anything else. The repository is the durable memory and source of truth.
+A new session should read `START_HERE.md`, `ARCHIVE_GOVERNANCE.md`, `CURRENT_STATE.md`, and this file before doing anything else. The repository is the durable memory and source of truth for project continuity.
 
 ## Verification rule
 After any change, verify the resulting repository contents and, where tooling permits, the actual live/rendered result. Never equate a successful commit with proof the live site is correct.
