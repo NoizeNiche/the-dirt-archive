@@ -25,18 +25,18 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 029.
+Research blocks stored under `research/builders/` now run through Block 030.
 
-Latest addition in Block 029:
-- Vemuram
+Latest addition in Block 030:
+- Source Audio
 
 Previous recent blocks:
-- Block 024: Seymour Duncan, J. Rockett Audio Designs
 - Block 025: Suhr, Jackson Audio
 - Block 026: JAM Pedals, Mad Professor Amplification
 - Block 027: KHDK Electronics, Stone Deaf FX
 - Block 028: Vemuram
 - Block 029: Origin Effects, Vertex Effects
+- Block 030: Source Audio
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -55,12 +55,13 @@ Block 026 records JAM Pedals and Mad Professor Amplification dirt products using
 Block 027 records KHDK Electronics and Stone Deaf FX dirt products using current manufacturer catalogs and official product pages/documentation.
 Block 028 records Vemuram dirt products using Vemuram's official site plus current/authoritative distributor catalog material because the official product index is dynamically rendered.
 Block 029 records Origin Effects and Vertex Effects dirt products using current manufacturer catalogs and official product pages/documentation, with official discontinued-product material used for legacy identities.
+Block 030 records Source Audio dirt products using the current manufacturer catalog and official product documentation.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 029.
+Added and re-read Builder → Pedals research Block 030.
 
 Research block commit:
-`417262f7efdead5d132ce0bc5f4720c14b4247e0`
+`1a02b78431575029e7d13539b6e004f4277c55cc`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
