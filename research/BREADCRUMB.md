@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–017 are stored under `research/builders/`.
+- Fresh research Blocks 001–018 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -32,12 +32,13 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 015 covers Barber Electronics and Black Arts Toneworks.
 - Block 016 covers Wren and Cuff, Menatone, and Caroline Guitar Company.
 - Block 017 covers Crazy Tube Circuits, Mr. Black, and Spaceman Effects.
+- Block 018 covers Electronic Audio Experiments, Browne Amplification, and Black Mass Electronics.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`8ebc2d45c994526dca7a088a1996317a3605dfad`
+`4d761461fee22ecee738b902d6a9580af2e31254`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prioritize another multi-pedal builder or builder group not already covered. Verify product names against primary or authoritative catalog sources before recording them.
