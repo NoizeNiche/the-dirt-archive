@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 072**.
+Research blocks stored under `research/builders/` now run through **Block 073**.
 
 Latest addition:
-- Block 072: DOD Electronics / DOD
+- Block 073: DigiTech
 
 Recent blocks:
-- Block 063: Wampler Pedals — Brian Wampler
 - Block 064: Walrus Audio
 - Block 065: ZVEX Effects — Zachary Vex
 - Block 066: MXR — Dunlop Manufacturing, Inc.
@@ -41,62 +40,44 @@ Recent blocks:
 - Block 070: Xotic Effects / Xotic California
 - Block 071: Maxon / Nisshin Onpa
 - Block 072: DOD Electronics / DOD
+- Block 073: DigiTech
 
-Blocks 001–071 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–072 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 072 summary
-DOD is treated as its own builder identity, distinct from the separately presented DigiTech brand. The current manufacturer history and product documentation support a broad DOD dirt lineage spanning the original 250 family, current/reissued products, and historical FX-series models.
+### Block 073 summary
+DigiTech is treated as a separate builder/brand from DOD and HardWire according to the manufacturer's own brand presentation. The current DigiTech site maintains manuals and legacy product records, while current shop material does not surface a current DigiTech-branded standalone dirt pedal comparable to the DOD products.
 
 Overdrive:
-- Overdrive Preamp 250
-- Overdrive Preamp 250-X
-- Looking Glass
-- Badder Monkey
-- FX50-B Overdrive Plus
-- FX51 Juice Box Overdrive
-- FX91 Bass Overdrive
-- FX100 Even Harmonic Overdrive
-- FX101 Grind Rectifying Overdrive
-- FX102 Mystic Blues Overdrive
-- YJM 308 Overdrive Preamp
+- Screamin' Blues Overdrive / Distortion
+- Redline Modified Overdrive
+- X-Series Tone Driver
+- X-Series Bass Driver
 
 Distortion:
-- Overdrive Preamp 250
-- Gonkulator
-- Gunslinger
-- Boneshaker
-- FX55C Supra Distortion
-- FX56 American Metal
-- FX57 Hard Rock Distortion
-- FX58 Metal Maniac
-- FX59 Thrash Master
-- FX69B Grunge
-- FX70 Metal X
-- FX76 Punkifier
-- FX86 Death Metal Distortion
-- D&S / D&S II Distortion & Sustainer
-- Performer 555 Distortion
-- FX33 Buzz Box
+- Screamin' Blues Overdrive / Distortion
+- X-Series Bass Driver
+- Hot Head Distortion
+- DigiTech Grunge
+- DigiTech Death Metal
+- X-Series Distortion Factory DF-7
+- X-Series Hot Rod Distortion
+- X-Series Metal Master
 
 Fuzz:
-- Carcosa Fuzz
-- Chthonic Fuzz
-- FX33 Buzz Box
-- FX52 Classic Fuzz
-- FX66 Flashback Fuzz
+- none explicitly categorized as a DigiTech-branded standalone fuzz pedal in the reviewed material
 
-The principal overlap is Overdrive Preamp 250 as Overdrive + Distortion because the current manufacturer page simultaneously identifies it as an Overdrive Preamp and as Distortion + Boost. FX33 Buzz Box is recorded as Distortion + Fuzz because its documented DOD Grunge distortion path is combined with an octave-fuzz function. Other current products such as 250-X, Looking Glass, and Badder Monkey remain Overdrive only despite broad gain ranges. Gonkulator, Gunslinger, and Boneshaker remain Distortion only, with their ring-modulation, EQ, and boost functions treated as secondary/non-target functions.
+The main overlaps are Screamin' Blues as Overdrive + Distortion and X-Series Bass Driver as Overdrive + Distortion. Redline Modified Overdrive and Tone Driver remain Overdrive only. Hot Head, DigiTech Grunge, DigiTech Death Metal, DF-7, Hot Rod, and Metal Master remain Distortion only. Multi-effects models and the DOD/Morley Wah-ocTo-Fuzz collaboration are not promoted into the DigiTech builder record.
 
-Historical FX-series identities are kept where DOD's own manuals or authoritative DOD catalog archives explicitly document the target category. Cosmetic, anniversary, and minor revision differences are consolidated unless DOD gives the product a distinct functional identity. DOD remains separate from DigiTech-branded products and from already represented builders.
+DigiTech-branded Grunge is kept distinct from the DOD Grunge identity already recorded in Block 072. HardWire products are also kept outside DigiTech because the manufacturer presents HardWire as a separate product brand. Cosmetic and minor hardware variations are consolidated unless the manufacturer assigns a distinct functional model name.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 072.
+Added and re-read Builder → Pedals research Block 073.
 
 Research block commit:
-`6e3d03ac7c4508abe47f7e14e090255fbbef3e93`
+`f6ca8767c9a0c2e4b4fe40c50afd2231086e04b1`
 
 Research block content SHA:
-`6bf81572e9e74919d31a70f7cbf7f4fadb4d8c1f`
+`6948398258677b3cd4c5418d2a48c40760ce6d53`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
