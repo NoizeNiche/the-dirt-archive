@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **257 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **295 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **157 block files** are currently present: Blocks 001-069, 071-141, and 143-159.
+- **267 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **305 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **158 block files** are currently present: Blocks 001-069, 071-141, and 143-160.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 257 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 267 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -282,6 +282,16 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 255 | BMF Effects | 159 |  |
 | 256 | Bob Burt Cabinets & Pedals | 159 |  |
 | 257 | Boo Instruments | 159 |  |
+| 258 | Bookworm Effects | 160 |  |
+| 259 | Boorocks | 160 |  |
+| 260 | Boot-Leg Hand Made Effects | 160 |  |
+| 261 | Bootlegger Guitar | 160 |  |
+| 262 | Boulevard | 160 |  |
+| 263 | Boulevard Effects | 160 |  |
+| 264 | Bouteek | 160 |  |
+| 265 | BoX | 160 |  |
+| 266 | BR Tech | 160 |  |
+| 267 | Bowman Audio Endeavors | 160 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
