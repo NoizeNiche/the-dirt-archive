@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 084**.
+Research blocks stored under `research/builders/` now run through **Block 085**.
 
 Latest addition:
-- Block 084: VOX
+- Block 085: Fender
 
 Recent blocks:
-- Block 074: Ramble FX
 - Block 075: Voodoo Lab
 - Block 076: Blackstar Amplification
 - Block 077: Bogner Amplification
@@ -42,54 +41,50 @@ Recent blocks:
 - Block 082: Orange Amplification
 - Block 083: HardWire
 - Block 084: VOX
+- Block 085: Fender
 
-Blocks 001–083 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–084 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 084 summary
-VOX is treated as an unrepresented builder/brand identity with a broad documented dirt catalog spanning current and historical Overdrive, Distortion, and Fuzz products.
+### Block 085 summary
+Fender is treated as an unrepresented builder identity with a substantial documented dirt catalog spanning historical and current Overdrive, Distortion, and Fuzz products.
 
 Overdrive:
-- Copperhead Drive
-- Mystic Edge
-- Cutting Edge
-- Silk Drive
-- Fuel Injector
-- VFZ-1 Fuzz
-- Big Ben Overdrive
-- Straight 6 Drive
-- V810 Valvetone
-- Ice 9 Overdrive
+- Santa Ana Overdrive
+- Smolder Acoustic Overdrive
+- Hammertone Overdrive
+- Fender Drive Pedal
+- Yngwie Malmsteen Overdrive Pedal
 
 Distortion:
-- Copperhead Drive
-- Mystic Edge
-- Cutting Edge
-- V8 Distortion
-- Bulldog Distortion
-- Satchurator
-- VOX 7001 Distortion
+- Pugilist Distortion
+- Full Moon Distortion
+- MTG Tube Distortion Pedal
+- MTG:LA Tube Distortion
+- Compugilist Compressor/Distortion
+- Hammertone Distortion
+- Hammertone Metal
+- Fender Distortion Pedal
+- Fender Blender
 
 Fuzz:
-- VFZ-1 Fuzz
-- Trike Fuzz
-- V828 Tone Bender
-- V829 Tone Bender
-- V830 Distortion Booster
+- The Pelt Fuzz
+- The Trapper Dual Fuzz
+- Hammertone Fuzz
+- Fender Shields Blender
+- Fender Fuzz Wah Pedal
 
-Copperhead Drive, Mystic Edge, and Cutting Edge are recorded as Overdrive + Distortion because VOX describes these Valvenergy pedals as valve distortion pedals that provide genuine overdrive and distortion tones. VFZ-1 is recorded as Fuzz + Overdrive because VOX explicitly documents its Crunch switch as producing lower-gain overdrive tones. Silk Drive and Fuel Injector remain Overdrive only. V8 Distortion and Bulldog Distortion remain Distortion only despite lower-gain or fuzz-like tonal ranges.
+Santa Ana, Pugilist, and Pelt V2 revisions are consolidated with their underlying product identities. Fender Blender Custom is consolidated with Fender Blender. Fender Shields Blender remains a distinct named product because Fender presents it as a separate signature fuzz pedal despite its direct lineage from the vintage Blender circuit.
 
-Historical VOX identities include Big Ben Overdrive, Straight 6 Drive, V810 Valvetone, Ice 9 Overdrive, Trike Fuzz, V828 Tone Bender, V829 Tone Bender, V830 Distortion Booster, Satchurator, and VOX 7001 Distortion. V828 and V829 remain distinct named VOX Tone Bender products from different eras. V830 is retained as Fuzz because VOX archival material identifies “Distortion Booster” as period VOX terminology for fuzz and documents its Drive control as adjusting fuzz intensity.
-
-The current 2026 VOX catalog also includes VFZ-1 Fuzz and the excluded VTB-1 Treble Booster. VFZ-1 is included in the dirt census; VTB-1 remains excluded as boost-only. ToneLab and StompLab modeled drive/fuzz effects remain excluded as virtual models inside multi-effects products, not standalone physical VOX pedal identities. Amplifiers and other non-dirt effects remain outside scope.
+Fender's historical archive and launch material explicitly support the Drive, Distortion, Yngwie Malmsteen Overdrive, Blender, and Fuzz Wah identities. Fender's current catalog and product pages support the Pugilist, Santa Ana, Pelt, Full Moon, MTG, Compugilist, Smolder, Trapper, Hammertone, and Shields Blender products. Imported 1986–1987 Fender-logo effects are excluded because Fender's own historical material states they were not actually built by Fender. Boost-only products and modeled multi-effects identities remain outside scope.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 084.
+Added and re-read Builder → Pedals research Block 085.
 
 Research block commit:
-`23044dbb442d89d10a173adcd4042bf78d5233b6`
+`fa6a98e5098b925b61b020ecc76f0671f14ced07`
 
 Research block content SHA:
-`c4155754a0c948e17338ecaebd18a40273b05d41`
+`bcf7f26f4623e693b108a6efdbbac23464ef2ff8`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
