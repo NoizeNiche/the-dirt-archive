@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 065**.
+Research blocks stored under `research/builders/` now run through **Block 066**.
 
 Latest addition:
-- Block 065: ZVEX Effects — Zachary Vex
+- Block 066: MXR — Dunlop Manufacturing, Inc.
 
 Recent blocks:
-- Block 056: McGregor Pedals — Garth McGregor Heslop
 - Block 057: Stomp Under Foot — Matt Pasquerella
 - Block 058: Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez
 - Block 059: Mojo Hand FX — founded by Brad Fee; acquired by Cusack Music in 2015 and continued under Cusack Music
@@ -41,26 +40,76 @@ Recent blocks:
 - Block 063: Wampler Pedals — Brian Wampler
 - Block 064: Walrus Audio
 - Block 065: ZVEX Effects — Zachary Vex
+- Block 066: MXR — Dunlop Manufacturing, Inc.
 
-Blocks 001–064 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–065 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 065 summary
-ZVEX's current Guitar Pedals catalog explicitly exposes Distortion and Fuzz filters but no Overdrive filter. Current Distortion identities recorded are Box of Rock, Distortron, Double Rock, Basstortion, and '59 Sound. Historical Box of Metal is retained as Distortion based on the manufacturer-authored instruction manual. Current Fuzz identities recorded are Fuzz Factory, Fuzz Factory 7, Fat Fuzz Factory, Woolly Mammoth, Woolly Mammoth 7, Mastotron, Fuzz Probe, Fuzzolo, Machine, and Octane 3.
+### Block 066 summary
+The official Dunlop site carries the MXR catalog and identifies MXR as a Dunlop Manufacturing, Inc. trademark. The current catalog and official legacy catalog provide a broad manufacturer-supported dirt census.
 
-No explicit manufacturer-categorized Overdrive identity was found in the reviewed ZVEX catalog. The block therefore does not promote Box of Rock, '59 Sound, Distortron, or related products into Overdrive based only on amp-like breakup or gain language.
+Overdrive:
+- Wylde Audio Zakk Sabbath Overdrive
+- GT-OD
+- Super Badass Dynamic O.D.
+- Duke of Tone Overdrive
+- Timmy Overdrive
+- Wylde Audio Overdrive
+- EVH 5150 Overdrive
+- Raw Dawg Overdrive
+- Tom Morello Power 50 Overdrive
+- Sugar Drive
+- Fat Sugar Drive
+- Yngwie Malmsteen Overdrive
+- Custom Badass Modified O.D.
+- Dookie Drive
+- Jail Guitar Doors Overdrive
+- Double-Double Overdrive
+- CAE Boost/Overdrive
+- Gran Torino Boost Overdrive
+- FOD Drive
+- Raijin Drive
+- Bass Overdrive
 
-Vexter editions, anniversary editions, custom-art products, and other cosmetic variants are consolidated under the underlying product identity where ZVEX states the parts are identical or the item is presented as the same pedal. Functional named models such as Fuzz Factory 7, Fat Fuzz Factory, and Woolly Mammoth 7 remain distinct identities.
+Distortion:
+- Randy Rhoads Distortion+
+- Distortion+
+- Distortion III
+- Super Badass Distortion
+- Fullbore Metal Distortion
+- Custom Badass '78 Distortion
+- Bass Distortion+
+- Bass Distortion
+- Duke of Tone Overdrive
+- Prime Distortion
+- Dime Distortion
+- Raijin Drive
 
-Boost-only, octave-only, modulation, phaser, tremolo, sampler, meter, step-sequencer, utility, and custom/prototype items remain outside the target dirt census.
+Fuzz:
+- Blue Box Fuzz
+- Slash Octave Fuzz
+- Bass Fuzz Deluxe
+- Super Badass Variac Fuzz
+- Classic 108 Fuzz Mini
+- Classic 108 Fuzz
+- Octavio Fuzz
+- Hybrid Fuzz
+- Sub Machine Fuzz
+- Sub Octave Bass Fuzz
+
+The main category overlaps recorded are Duke of Tone Overdrive as Overdrive + Distortion and Raijin Drive as Overdrive + Distortion. Distortion+, Distortion III, and Super Badass Distortion remain Distortion despite lower-gain overdrive ranges. EVH 5150 Overdrive and Dookie Drive remain Overdrive despite broader gain language. Fuzz products remain Fuzz without promotion into other categories based on octave, saturation, or generic drive language.
+
+Dookie Drive V2/V3/V4 and 30th Anniversary are consolidated under Dookie Drive. Randy Rhoads special-edition treatment is consolidated with the base Randy Rhoads Distortion+ identity. Sugar Drive and Fat Sugar Drive remain distinct functional named models. Classic 108 Fuzz and Classic 108 Fuzz Mini remain distinct named models because the Mini is an independently named smaller-footprint product.
+
+Boost-only, compressor, EQ, gate, tuner, power, modulation, delay, reverb, talk-box, synth, octave-only, and non-MXR Dunlop brands remain outside the target dirt census. Jail Guitar Doors Drive is retained only as a verification lead because the manufacturer page reviewed does not provide sufficiently explicit target-category wording.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 065.
+Added and re-read Builder → Pedals research Block 066.
 
 Research block commit:
-`4e6bec9158968c7a1fe796d6972f878e9f443efd`
+`3d950fe61a2529c25dc5c2f786ccc7a1b06989ee`
 
 Research block content SHA:
-`b9e3426ac847fd375b2ef5c8522b7284ad0b5a16`
+`34c979e7edc4056867cf14780011684aae5b5cbe`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
