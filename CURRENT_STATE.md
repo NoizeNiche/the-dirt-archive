@@ -25,20 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 113**.
+Research blocks stored under `research/builders/` now run through **Block 114**.
 
 Latest addition:
-- Block 113: BlackOutEffectors
+- Block 114: Mythos Pedals
 
 Recent blocks:
-- Block 108: Stone Deaf FX
 - Block 109: ThorpyFX
 - Block 110: Mr. Black
 - Block 111: Chase Bliss
 - Block 112: Hudson Electronics UK
 - Block 113: BlackOutEffectors
+- Block 114: Mythos Pedals
 
-Blocks 001–112 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–113 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 109 summary
 ThorpyFX is a previously uncovered British builder founded by Adrian Thorpe. ThorpyFX's official About page says the company launched in 2014 and released the Gunshot in April 2015; the company describes its pedals as hand-built in Britain.
@@ -199,14 +199,52 @@ Normal revisions and limited graphics/dealer runs are consolidated. Fix'd Fuzz/V
 
 The surviving BlackOutEffectors catalog is treated as a historical reference source rather than proof of uninterrupted current production. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
+### Block 114 summary
+Mythos Pedals is a previously uncovered builder founded by Zach Broyles in 2010. The official Mythos About page describes a small team operating outside Nashville, and the current catalog separates Overdrive, Fuzz, Boost, Octave, Modulation, Utility, and Limited & Exclusive products, with a separate Retired Models collection.
+
+Overdrive:
+- Erlking Overdrive — current
+- Mjolnir Overdrive — current
+- Envy Pro Overdrive — current
+- Chupacabra CMOS Overdrive — current
+- Herculean Deluxe Overdrive — current
+- Olympus Overdrive — current
+- Extra Hot Dual Overdrive — current / dealer-exclusive
+- Extra Hot "Extra Spicy" Dual Overdrive — current / limited-exclusive
+- Herculean / Herculean V2 — historical lineage
+- 210 Double Drive Deluxe — historical / retired
+- SusMaryOsep — historical / retired collaboration
+
+Distortion:
+- The Victor Distortion — limited / historical-current release
+- Golden Fleece Fuzz — current, because Mythos explicitly describes it as blending fuzz, distortion, and overdrive
+
+Fuzz:
+- Golden Fleece Fuzz — current
+- Big Puft Fuzz Device — current lineage
+- Hephaestus Fuzz — current
+- Argo Octave Fuzz — current
+- Argo Boost Deluxe — current
+- 1347 Silicon Fuzz — limited / current
+- AU-79 Fuzz — limited / exclusive
+- High Road Fuzz Mini — limited / exclusive
+- Positron Fuzz / Positron Collider lineage — current + historical predecessor consolidated
+- 210 Double Drive Deluxe — historical / retired
+
+The strongest hybrid is Golden Fleece, which Mythos directly describes as blending Fuzz, Distortion, and Overdrive. 210 Double Drive Deluxe is Overdrive + Fuzz because Mythos describes its range from slight boost and sweet overdrive crunch to gnarly fuzz tones. AU-79 is Fuzz + Overdrive because Mythos's FAQ describes it as an overdrive-meets-fuzz design. Argo Boost Deluxe remains Fuzz-only within the target taxonomy because its second role is Boost, which is outside scope.
+
+SusMaryOsep is Overdrive-only within scope: its dirt section is a Herculean-based Overdrive while its other section is a treble booster and its third section is echo. Herculean Deluxe and Extra Hot remain Overdrive-only even when their gain range can approach fuzz-like textures. Big Puft and Positron remain Fuzz-only even though Mythos mentions distortion at parts of their ranges. The Victor is the builder's explicit named Distortion release.
+
+Mjolnir editions such as 1N34A Gold/Silver, GE Mjolnir, Joey Landreth Mjolnir, and Wildwood Mjolnir are consolidated into the Mjolnir Overdrive lineage rather than counted as separate pedals. Golden Fleece versions, Big Puft colorways, Positron's older Collider form, blemished sale listings, and routine dealer/finish variants are likewise consolidated. Boost-first, octave-up, modulation, delay, utility, and accessory products remain outside the target census. No component, schematic, cloning, PCB, BOM, or internal-build information is recorded.
+
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 113.
+Added and re-read Builder → Pedals research Block 114.
 
 Research block commit:
-`c492829eb6e8941dcae2040f2f97e6e40a796d75`
+`4b06afdaa7c813af4a30dc07c84b01cbdee13be2`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
