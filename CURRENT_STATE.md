@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 092**.
+Research blocks stored under `research/builders/` now run through **Block 093**.
 
 Latest addition:
-- Block 092: VFE Pedals
+- Block 093: Empress Effects
 
 Recent blocks:
-- Block 082: Orange Amplification
 - Block 083: HardWire
 - Block 084: VOX
 - Block 085: Fender
@@ -42,54 +41,42 @@ Recent blocks:
 - Block 090: Radial Engineering / Tonebone
 - Block 091: Mid-Fi Electronics
 - Block 092: VFE Pedals
+- Block 093: Empress Effects
 
-Blocks 001–091 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–092 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 092 summary
-VFE Pedals / Peter Rutter is treated as an unrepresented builder identity with a broad standalone dirt catalog spanning Overdrive, Distortion, and Fuzz. VFE's own catalog explicitly separates the three target categories and documents several multi-category products.
+### Block 093 summary
+Empress Effects Inc. is treated as an unrepresented builder identity with a compact standalone dirt catalog spanning Overdrive, Distortion, and Fuzz.
 
 Overdrive:
-- Tiamat
-- Blues King
-- Dragon
-- Dragon Hound
-- Merman
-- Pale Horse
-- The Scream
-- Distortion3
-- Proto OD
+- Drive
+- Germ Drive
+- Multidrive
 
 Distortion:
-- RUP mkII
-- Killer Rabbit
-- Alpha Dog
-- Dark Horse
-- Distortion3
-- Dragon Hound
-- Fiery Red Horse
-- The Triplet
-- Triumvirate
+- Heavy
+- Heavy Menace
+- Distortion
+- Multidrive
 
 Fuzz:
-- Killer Rabbit
-- Fiery Red Horse
-- Fuzz Duo
-- Woodchipper
+- Fuzz
+- Multidrive
 
-Killer Rabbit is the explicit three-category overlap. Distortion3 and Dragon Hound are Overdrive + Distortion. Fiery Red Horse is Fuzz + Distortion.
+Multidrive is the explicit three-category overlap. Heavy and Heavy Menace are retained as Distortion only. Heavy Menace Limited Edition is consolidated into Heavy Menace as a colourway, not a separate dirt identity.
 
-Tiamat is a current limited pre-order overdrive that VFE presents as its final/definitive overdrive design. RUP mkII is a current multiband distortion. Killer Rabbit is a current stereo distortion machine with independent overdrive, distortion, and fuzz circuits. VFE's Motherload catalog provides the historical product taxonomy for Blues King, Alpha Dog, Dark Horse, Dragon, Dragon Hound, Fiery Red Horse, Fuzz Duo, Merman, Pale Horse, Proto OD, The Scream, The Triplet, Triumvirate, and Woodchipper.
+Drive is a current Empress overdrive product. Heavy and Heavy Menace are current distortion products. Germ Drive, Distortion, Fuzz, and Multidrive are listed by Empress as discontinued products. Product-level naming is followed conservatively, and generic saturation/breakup language does not create extra categories.
 
-Pale Horse, Dragon, Triumvirate, Fiery Red Horse, and related revisions are consolidated into their named product identities. Proto OD is retained as a historical named predecessor to the Pale Horse lineage. Fuzz Cocktail remains an unpromoted idea rather than a catalog product. Non-dirt effects and educational/Eurorack experiments remain excluded.
+ZOIA's OD, distortion, and fuzz modules are excluded because ZOIA is a modular multi-effect platform rather than a standalone named dirt pedal. Reverb algorithms with overdriven modes are likewise excluded from the standalone dirt census.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 092.
+Added and re-read Builder → Pedals research Block 093.
 
 Research block commit:
-`f1649b469fffcd2700435f98110ce74630fa1404`
+`be801221febe3f73045465caad6b916fc8d9f0cc`
 
 Research block content SHA:
-`d998677aa4860839732becf862685e8b4c62d4e3`
+`d012380deb224f93392835948a386d893cf7ea4d`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
