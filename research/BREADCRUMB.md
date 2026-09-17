@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–052 are stored under `research/builders/`.
+- Fresh research Blocks 001–053 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -67,12 +67,13 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 050 covers Blackout Effectors — Kyle Tompkins, using manufacturer-originated archived product descriptions and manuals where recoverable, plus authoritative product archives and a period builder interview. Explicit overdrive and fuzz identities were included; Distortion was deliberately left empty rather than inferred, and boost-only/non-dirt effects were excluded.
 - Block 051 covers Blackhawk Amplifiers — Brooks Blackhawk, using the builder's official About page, current product catalog, current individual product pages, and authoritative corroboration. Explicit overdrive, distortion, and fuzz identities were included; ordinary revisions and finishes were consolidated, and boost-only, preamp-only, and non-dirt products were excluded.
 - Block 052 covers MI Audio / MI Effects — Michael Ibrahim, using MI Audio's official company history, current effects catalog, official product pages/manuals where available, and authoritative historical corroboration for discontinued identities. Explicit overdrive, distortion, and fuzz identities were included; booster, octave, compressor, delay, and amplifier products were excluded.
+- Block 053 covers Audiolithe — Christophe & Gaëtan, using Audiolithe's official catalog and individual product pages, with Guitar Pedal X used to corroborate builder identity and the historical product range. Explicit Overdrive and Fuzz identities were included; no standalone Distortion identity was promoted without explicit manufacturer support.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`adaddd5e0e627bb5c22806419c7a7e1a24b8a8eb`
+`6b57d649e4d648821a03b9136ee9f78c0d5b2b56`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
