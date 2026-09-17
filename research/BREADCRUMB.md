@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–116 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–117 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 109: ThorpyFX
 - 110: Mr. Black
 - 111: Chase Bliss
 - 112: Hudson Electronics UK
@@ -23,46 +22,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 114: Mythos Pedals
 - 115: OKKO FX
 - 116: Catalinbread Effects
-
-## Block 114 — Mythos Pedals
-Mythos Pedals, Zach Broyles / Mythos team.
-
-Overdrive:
-- Erlking Overdrive
-- Mjolnir Overdrive
-- Envy Pro Overdrive
-- Chupacabra CMOS Overdrive
-- Herculean Deluxe Overdrive
-- Olympus Overdrive
-- Extra Hot Dual Overdrive
-- Extra Hot "Extra Spicy" Dual Overdrive
-- Herculean / Herculean V2 lineage
-- 210 Double Drive Deluxe
-- SusMaryOsep
-
-Distortion:
-- The Victor Distortion
-- Golden Fleece Fuzz
-
-Fuzz:
-- Golden Fleece Fuzz
-- Big Puft Fuzz Device
-- Hephaestus Fuzz
-- Argo Octave Fuzz
-- Argo Boost Deluxe
-- 1347 Silicon Fuzz
-- AU-79 Fuzz
-- High Road Fuzz Mini
-- Positron Fuzz / Positron Collider lineage
-- 210 Double Drive Deluxe
-
-Key restraint: Golden Fleece explicitly blends Fuzz, Distortion, and Overdrive. 210 Double Drive Deluxe is Overdrive + Fuzz, and AU-79 is Fuzz + Overdrive. Ordinary fuzzy or distorted ranges do not create extra categories when Mythos keeps the primary product identity as Overdrive or Fuzz.
-
-## Block 115 — OKKO FX
-OKKO FX is a previously uncovered builder with a substantial drive catalog. The block records clearly documented overdrive, distortion, and fuzz products and consolidates ordinary lineage variants rather than multiplying them by enclosure or revision.
+- 117: JHS Pedals
 
 ## Block 116 — Catalinbread Effects
-Catalinbread Effects is a previously uncovered builder founded in 2003 by Nic Harris; its About page says the company moved to Portland in 2006 and now manufactures more than 30 unique pedals by hand. The current catalog separates a Foundation Overdrive Series from a broader Boost, Fuzz & Distortion Series and also maintains retired-pedal references.
+Catalinbread Effects, Nic Harris / Catalinbread team.
 
 Overdrive:
 - Dirty Little Secret
@@ -104,20 +67,88 @@ Fuzz:
 - Antichthon
 - Perseus / Perseus DIO lineage
 
-Key overlaps:
-- SFT = Overdrive + Distortion + Fuzz. Catalinbread explicitly describes clean to overdrive, high-gain distortion, and huge fuzz sounds.
-- Katzenkönig = Distortion + Fuzz. Catalinbread explicitly describes a Tone Bender MkII fuzz combined with RAT-style distortion.
-- Crooner Preamp = Overdrive + Distortion + Fuzz. Catalinbread explicitly states that its gain range includes clean boost, overdrive, distortion, and full-throated fuzz.
+Key restraint: SFT and Crooner Preamp explicitly cover Overdrive + Distortion + Fuzz; Katzenkönig explicitly combines Distortion + Fuzz. Boost-first products and multi-effects products remain outside the dirt census.
 
-Key restraint: Formula 51, Manx Loaghtan, Giygas, Silver Kiss, and similar products remain in their stated primary dirt categories even when they can reach heavier saturation. Boost-first products such as Naga Viper and Epoch Boost remain outside scope. Catalinbread Bitters remains outside the dirt census because it is a multi-effects processor. SFT Blackout, SFT Fireworks, Katzenkönig Fireworks, B-stock/finish variants, and ordinary graphics are consolidated. Blood Donor is not counted separately because Catalinbread's own release notice describes it as a revamped and fine-tuned Katzenkönig.
+## Block 117 — JHS Pedals
+JHS Pedals, Josh Scott / JHS team. The current official catalog separates Overdrive, Fuzz/Distortion, Preamp, and other effect families; the official history preserves older product lineages and the Legends of Fuzz series.
+
+Overdrive:
+- AT Mini
+- Notadümblo V2
+- Morning Glory Clean
+- 424 Gain Stage
+- Kilt 10
+- Notaklön
+- Morning Glory V4
+- Bonsai
+- Kilt V2
+- AT+
+- Angry Charlie V3
+- The Violet
+- 3 Series Screamer
+- Charlie Brown V4
+- Moonshine V2
+- PG-14
+- 3 Series Overdrive
+- SuperBolt lineage
+- Twin Twelve lineage
+- Double Barrel lineage
+- Charlie Brown historical lineage
+- Moonshine historical lineage
+- Morning Glory historical/current lineage
+- State Line — historical limited
+- Steak and Eggs Overdrive/Compressor — historical collaboration; Overdrive retained
+
+Distortion:
+- Hard Drive
+- 3 Series Distortion
+- The Violet
+- 424 Gain Stage
+- Kilt V2 / Kilt 10
+- PackRat
+- Colour Box V2 / Colour Box 10
+- Crayon
+- All American Distortion — historical lineage
+- Cheese Ball
+
+Fuzz:
+- Kilt V2 / Kilt 10
+- Muffuletta
+- 3 Series Fuzz
+- Colour Box V2 / Colour Box 10
+- Crayon
+- Cheese Ball
+- Coyote
+- EHX by JHS Big Muff 2
+- Bender
+- Pollinator
+- Smiley
+- Crimson
+- Firefly
+- 4 Wheeler
+- Mini Foot Fuzz
+- Bun Runner
+- 73 Rams Head
+- Supreme
+
+Key overlaps:
+- Kilt V2 / Kilt 10 = Overdrive + Distortion + Fuzz. JHS explicitly describes the Kilt as a dirt box covering all three target identities.
+- 424 Gain Stage = Overdrive + Distortion + Fuzz. JHS titles the product Preamp / Distortion / Overdrive and explicitly mentions smashed-out fuzz.
+- PackRat = Overdrive + Distortion + Fuzz. JHS describes the RAT family as spanning overdrive through distortion and all the way to fuzz.
+- Colour Box V2 / Colour Box 10 = Overdrive + Distortion + Fuzz. JHS explicitly titles the product Preamp / EQ / Overdrive / Distortion / Fuzz / DI Box.
+- Crayon = Distortion + Fuzz. JHS explicitly titles the product Preamp / Distortion / Fuzz.
+- Cheese Ball = Distortion + Fuzz. JHS explicitly titles it Distortion / Fuzz.
+- All American Distortion = Overdrive + Distortion + Fuzz historically. JHS explicitly describes its range from clean/grit and heavy overdrive through compressed sustaining fuzz.
+
+Key restraint: 3 Series Distortion remains Distortion-only despite documented heavy-overdrive and fuzz tones. 3 Series Fuzz remains Fuzz-only despite documented distortion and pushed-amp overdrive tones. Coyote remains Fuzz because its primary identity is octave fuzz. Double Dragon is excluded because its primary identity is an octave device. PackRat White is consolidated into PackRat. Muffuletta modes are not split into separate pedals. DIY kits, buffers, utilities, modulation, delay, reverb, and other non-target products remain outside scope.
 
 ## Last research commit
-`2da7d9f29efbf9b2be3030d1831faf4ab2db3578`
+`93144559b2668dd8ffb85cb86f7717705a5dcee2`
 
 ## Last checkpoint
-- `CURRENT_STATE.md` updated through Block 116
-- `research/builders/BLOCK-2026-09-17-116.md` saved and verified
-- `CURRENT_STATE.md` now records Block 116 and points to Block 117
+- `CURRENT_STATE.md` updated through Block 117
+- `research/builders/BLOCK-2026-09-17-117.md` saved and verified
+- `CURRENT_STATE.md` now records Block 117 and points to Block 118
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
