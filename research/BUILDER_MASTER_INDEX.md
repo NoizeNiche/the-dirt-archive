@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **290 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **330 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **161 block files** are currently present: Blocks 001-069, 071-141, and 143-163.
+- **300 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **340 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **162 block files** are currently present: Blocks 001-069, 071-141, and 143-164.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 290 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 300 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -315,6 +315,16 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 288 | Buzzing Bugs Audio Devices | 163 | Buzzing Bugs FX |
 | 289 | BYW Audio | 163 |  |
 | 290 | BZZT Electronics | 163 | B*Z*Z*T |
+| 291 | C.I.C | 164 |  |
+| 292 | C14 Devices | 164 |  |
+| 293 | C.Q.O. | 164 |  |
+| 294 | Cactus | 164 |  |
+| 295 | Cajita Stompboxes | 164 | Cajita / Pedales Cajita |
+| 296 | Calangary Pedals | 164 |  |
+| 297 | California (by Eleca) | 164 |  |
+| 298 | California Valveworks | 164 |  |
+| 299 | Caline | 164 |  |
+| 300 | Camuro | 164 | CAMURO Custom Built Pedals And Mods |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
