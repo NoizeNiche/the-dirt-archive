@@ -5,12 +5,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **196 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **230 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **147 block files** are currently present: Blocks 001-069, 071-141, and 143-149.
+- **202 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **236 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **148 block files** are currently present: Blocks 001-069, 071-141, and 143-150.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 196 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 202 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -220,6 +220,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 194 | Avora | 149 |  |
 | 195 | Azor | 149 | AZOR |
 | 196 | Azur | 149 |  |
+| 197 | Atmosfera 6 | 150 |  |
+| 198 | Attic Audio | 150 |  |
+| 199 | Audio Aesthetic | 150 |  |
+| 200 | Audio Surplus Effects | 150 |  |
+| 201 | Audiofab | 150 |  |
+| 202 | Audiostorm | 150 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
