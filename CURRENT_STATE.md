@@ -25,12 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 019.
+Research blocks stored under `research/builders/` now run through Block 020.
 
-Latest additions in Block 019:
-- Old Blood Noise Endeavors (OBNE)
-- Fairfield Circuitry
-- Fuzzrocious Pedals
+Latest additions in Block 020:
+- Beetronics
+- KMA Machines
+- Alexander Pedals
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -39,12 +39,13 @@ Block 016 records Wren and Cuff, Menatone, and Caroline Guitar Company dirt prod
 Block 017 records Crazy Tube Circuits, Mr. Black, and Spaceman Effects dirt products using manufacturer catalogs and official product pages.
 Block 018 records Electronic Audio Experiments, Browne Amplification, and Black Mass Electronics dirt products using manufacturer catalogs and official product pages.
 Block 019 records Old Blood Noise Endeavors, Fairfield Circuitry, and Fuzzrocious Pedals dirt products using manufacturer catalogs and official product pages.
+Block 020 records Beetronics, KMA Machines, and Alexander Pedals dirt products using manufacturer catalogs and official product pages/support material.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 019.
+Added and re-read Builder → Pedals research Block 020.
 
 Research block commit:
-`66c4f0e276efc9d201f9e67d4de768ff6cafb7ce`
+`4eb89c62366f8a34718d401693bfeb17ea2cbee9`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
