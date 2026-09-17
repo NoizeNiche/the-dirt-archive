@@ -22,9 +22,11 @@ The website currently loads the master catalog plus the active scrape census fil
 
 Multiple rows can represent one pedal when the cataloged pedal belongs to more than one dirt type.
 
-The canonical builder index now contains **285 canonical builder identities** through Block 162. **Block 161 added nine new builder identities and Block 162 added nine new builder identities; all are now merged into the canonical builder index.** Browne Amplification, an existing builder, was expanded under its existing identity. The research block set now runs through **Block 162**.
+The canonical builder index now contains **290 canonical builder identities** through Block 163. **Block 161 added nine new builder identities, Block 162 added nine new builder identities, and Block 163 added five new builder identities; all are now merged into the canonical builder index.** Browne Amplification, an existing builder, was expanded under its existing identity.
 
-Block 162 adds **111 company/pedal/type rows** in `research/SCRAPE_B_BLOCK_162_ADDENDUM.csv`. The primary `research/SCRAPE_B_CENSUS.csv` and `research/MASTER_PEDAL_CENSUS.csv` have not yet been rewritten to merge those 111 rows; the addendum is the authoritative Block 162 delta until that consolidation is performed.
+Block 162 contributed **111 company/pedal/type rows** and Block 163 contributed **16 company/pedal/type rows**. Those rows are now consolidated into `research/SCRAPE_B_CENSUS.csv`.
+
+The primary `research/MASTER_PEDAL_CENSUS.csv` remains at its prior consolidated checkpoint of **2,466 company/pedal/type rows across 103 companies**. The master catalog is intentionally separate from the active Scrape B working census until a later consolidation step.
 
 ## Website
 `index.html` is now the actual catalog page, not an under-construction placeholder.
@@ -57,4 +59,4 @@ Do not create additional website relationships or tracking systems unless the pr
 The repository's builder research and master builder index are retained as working material, but they are not part of the public site's information architecture.
 
 ## Next action
-Consolidate the Block 162 census addendum into `research/SCRAPE_B_CENSUS.csv` and then continue the Scrape B company -> pedal collection alphabetically after Byron Amplification. Reuse canonical builder identities when a builder already exists; new builders receive the next unused ID.
+Scrape B now reaches the end of the currently identified B-section builder list through BZZT Electronics. New B-section discoveries can be appended later if stronger evidence surfaces. Otherwise the alphabetical company -> pedal collection can move to the C-section.
