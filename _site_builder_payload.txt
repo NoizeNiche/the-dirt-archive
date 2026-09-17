@@ -1,1 +1,0 @@
-The site page is built directly from research/MASTER_PEDAL_CENSUS.csv. This file is temporary and will be removed after the page commit is installed.
