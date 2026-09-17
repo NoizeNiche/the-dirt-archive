@@ -25,17 +25,17 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 041.
+Research blocks stored under `research/builders/` now run through Block 042.
 
-Latest addition in Block 041:
-- Analog Alien — Jack & Joe Napoli
+Latest addition in Block 042:
+- IdiotBox Effects — Atarimatt
 
 Recent blocks:
-- Block 037: OKKO FX — Heiko Lauenroth
 - Block 038: SolidGoldFX — Greg Djerrahian
 - Block 039: Tech 21 NYC — B. Andrew Barta
 - Block 040: Way Huge Electronics — George Tripps
 - Block 041: Analog Alien — Jack & Joe Napoli
+- Block 042: IdiotBox Effects — Atarimatt
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -66,12 +66,13 @@ Block 038 records SolidGoldFX — Greg Djerrahian dirt products using SolidGoldF
 Block 039 records Tech 21 NYC — B. Andrew Barta dirt products using Tech 21's official About page, archive, support material, individual product pages, and manuals. The block deliberately excludes generic SansAmp/amp-emulator products and ambiguous multi-effect platforms from the core dirt census.
 Block 040 records Way Huge Electronics — George Tripps dirt products using Way Huge/Jim Dunlop manufacturer material, official Jim Dunlop manuals, and authoritative current catalog material. Category overlaps were kept conservative and unsupported duplicate identities were removed during verification.
 Block 041 records Analog Alien — Jack & Joe Napoli dirt products using Analog Alien's official catalog, individual product pages, manuals, and company material. The block preserves only explicit manufacturer-supported dirt classifications and does not split the 2026 Rumble Seat redesign into a duplicate pedal identity.
+Block 042 records IdiotBox Effects — Atarimatt dirt products using IdiotBox Effects' official About page, current catalog, individual product pages, and Retired Designs page. The block includes current and clearly documented retired dirt identities while excluding boost-only, noise, modulation, octave-only, and ambiguous mystery products.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 041.
+Added and re-read Builder → Pedals research Block 042.
 
 Research block commit:
-`882da7c05f1c25426e35b9890245e3937949dd44`
+`613f5680065915fdb2e00345f94806b338b0ca22`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
