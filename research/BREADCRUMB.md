@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–014 are stored under `research/builders/`.
+- Fresh research Blocks 001–015 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -29,15 +29,16 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 012 consolidates ProCo Sound and Catalinbread Effects identities.
 - Block 013 covers Electro-Harmonix.
 - Block 014 covers Greer Amps, Benson Amps, and ThorpyFX.
+- Block 015 covers Barber Electronics and Black Arts Toneworks.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`f5330492761cae7e74d6b8462de0ecd7af72d134`
+`43f33944d69f14469a58cdf4220b0c804a434927`
 
 ## Next action
-Continue the fresh Builder → Pedals census only. Prioritize another multi-pedal builder or builder group. Verify product names against primary or authoritative catalog sources before recording them.
+Continue the fresh Builder → Pedals census only. Prioritize another multi-pedal builder or builder group not already covered. Verify product names against primary or authoritative catalog sources before recording them.
 
 ## Hard scope boundary
 No photos. No biographies. No deep history. No components. No schematics. No PCB work. No BOMs. No internal imagery. No cloning information. No variant rabbit holes. No unrelated website/UI architecture.
