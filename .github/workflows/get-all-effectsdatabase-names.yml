@@ -42,31 +42,33 @@ jobs:
                   return r.text
               raise RuntimeError(f'rate limited after retries: {target}')
 
-          def strip_md(s):
-              s = re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', s)
+          def clean_name(s):
               s = re.sub(r'!\[([^\]]*)\]\([^)]*\)', r'\1', s)
+              s = re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', s)
+              s = re.sub(r'\s+', ' ', s)
               return html.unescape(s).strip()
 
           def parse(text):
               rows = []
-              in_catalog = False
+              started = False
               for raw in text.splitlines():
                   line = raw.strip()
-                  if 'Gear in this category' in line:
-                      in_catalog = True
+                  if not started:
+                      if 'Search the database' in line or 'Gear in this category' in line:
+                          started = True
                       continue
-                  if in_catalog and re.match(r'^\*\s*(?:«\s*first|‹\s*previous|next\s*›|last)', line, re.I):
+                  if re.match(r'^\*\s*(?:«\s*first|‹\s*previous|next\s*›|last)', line, re.I):
                       break
-                  if in_catalog:
-                      m = re.match(r'^\d+\.\s+(.+)$', line)
-                      if m:
-                          name = strip_md(m.group(1))
-                          if name:
-                              rows.append(name)
+                  m = re.match(r'^\d+\.\s+(.+)$', line)
+                  if m:
+                      name = clean_name(m.group(1))
+                      if name and not name.startswith('http'):
+                          rows.append(name)
               return rows
 
           all_lines = []
           manifest = []
+          total = 0
           for cat, (base, pages) in cats.items():
               cat_rows = []
               seen = set()
@@ -77,6 +79,12 @@ jobs:
                   rows = parse(text)
                   print(f'  {len(rows)} catalog rows', flush=True)
                   if not rows:
+                      # Diagnostic output for an unexpected page format, without
+                      # dumping the entire source into the log.
+                      sample = '\n'.join(text.splitlines()[-180:])
+                      print('--- PAGE TAIL ---')
+                      print(sample[:12000])
+                      print('--- END PAGE TAIL ---')
                       raise RuntimeError(f'{cat}: no catalog rows on page {page}')
                   cat_rows.extend(rows)
                   dupes = sum(1 for r in rows if r in seen)
@@ -86,11 +94,12 @@ jobs:
                   time.sleep(3.5)
               unique = len(set(cat_rows))
               print(f'{cat}: extracted {len(cat_rows)} rows; unique names {unique}', flush=True)
+              total += len(cat_rows)
               all_lines += [f'## {cat}', ''] + cat_rows + ['']
 
           Path('effectsdatabase_pedal_names.txt').write_text('\n'.join(all_lines), encoding='utf-8')
           Path('effectsdatabase_page_manifest.tsv').write_text('category\tpage\trows\tduplicates\n' + '\n'.join(manifest) + '\n', encoding='utf-8')
-          print('WROTE complete text and page manifest', flush=True)
+          print(f'WROTE {total} catalog rows', flush=True)
           PY
       - name: Build Word document
         run: |
@@ -98,7 +107,6 @@ jobs:
           from pathlib import Path
           from docx import Document
           from docx.shared import Pt
-          from docx.enum.text import WD_BREAK
 
           text = Path('effectsdatabase_pedal_names.txt').read_text(encoding='utf-8')
           doc = Document()
