@@ -61,7 +61,7 @@ Key restraint: Embla is retained in both Overdrive and Fuzz because the builder 
 - `CURRENT_STATE.md` updated in commit `fed591ba129056cdb336b166fcf20bbb67d346c7`
 - `research/builders/BLOCK-2026-09-17-097.md` content SHA: `a40b4865e9e3aa5e5a9bc20e77ab55bbb980a6b3`
 - `CURRENT_STATE.md` content SHA: `ac60335398de1e2aaa038b340cb0c2aa6c392539`
-- `research/BREADCRUMB.md` content SHA: `REPLACED_BY_THIS_COMMIT`
+- `research/BREADCRUMB.md` content SHA: `f7bd64e953b70ebbfd00357ebaf8f97f517c2734`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources.
