@@ -9,17 +9,19 @@ September 16, 2026
 The research phase is a fresh builder/product census. Record builder names and their overdrive, distortion, and fuzz pedals. Keep builder-to-pedal relationships explicit and verifiable.
 
 ## Completed at this checkpoint
-- Repository reset is being treated as the current source of truth.
-- Permanent project boot instructions were added.
-- Permanent archive governance was restored.
-- Durable current-state tracking was added.
+- Repository reset is the current source of truth.
+- Permanent project boot instructions are active.
+- Permanent archive governance is active.
+- Durable current-state tracking is active.
 - The website remains a simple construction page for now.
+- Fresh research Block 001 has been added at `research/builders/BLOCK-2026-09-16-001.md`.
+- Block 001 covers Fulltone, MXR, Maxon, and DOD with relevant overdrive, distortion, and fuzz product names and source references.
 
-## Previous accumulated research
-Do not automatically revive the old research batches, master lists, or breadcrumb history from earlier project iterations. They are not the active starting dataset for this reset unless explicitly reintroduced and verified.
+## Research posture
+This is the first fresh research block after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Next action
-Continue with fresh Builder → Pedals research only. Prioritize multi-pedal builders. Record only builder names and relevant OD/distortion/fuzz pedal names in the research layer.
+Continue the fresh Builder → Pedals census only. Prioritize another multi-pedal builder or builder group. Verify product names against primary or authoritative catalog sources before recording them.
 
 ## Hard scope boundary
 No photos. No biographies. No deep history. No components. No schematics. No PCB work. No BOMs. No internal imagery. No cloning information. No variant rabbit holes. No unrelated website/UI architecture.
