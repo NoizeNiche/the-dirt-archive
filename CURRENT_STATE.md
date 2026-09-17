@@ -25,25 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 094**.
+Research blocks stored under `research/builders/` now run through **Block 095**.
 
 Latest addition:
-- Block 094: Dwarfcraft Devices
+- Block 095: Mask Audio Electronics — Alec Breslow
 
 Recent blocks:
-- Block 084: VOX
-- Block 085: Fender
-- Block 086: MOOER Audio
-- Block 087: NUX Audio
-- Block 088: Visual Sound / Truetone
-- Block 089: Danelectro
 - Block 090: Radial Engineering / Tonebone
 - Block 091: Mid-Fi Electronics
 - Block 092: VFE Pedals
 - Block 093: Empress Effects
 - Block 094: Dwarfcraft Devices
+- Block 095: Mask Audio Electronics
 
-Blocks 001–093 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–094 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 094 summary
 Dwarfcraft Devices is treated as an unrepresented builder identity with a historically broad and highly experimental standalone dirt catalog. Product-level category labels and builder/retailer descriptions were combined conservatively because Dwarfcraft frequently crosses the fuzz, distortion, and overdrive boundary.
@@ -84,17 +79,49 @@ The strongest documented overlaps are The Internet (Overdrive + Distortion), Rob
 
 Dwarfcraft's catalog also contains many pure experimental effects. Synths, oscillators, pitch shifters, filters, modulation, delay/reverb, utility products, and other non-dirt designs remain excluded even when they can generate harsh or noisy sounds. Shiva is consolidated into SheFuzz because Dwarfcraft explicitly states that She Fuzz used to be called Shiva. Normal revisions and cosmetic editions do not create extra identities.
 
+### Block 095 summary
+Mask Audio Electronics is treated as a previously uncovered builder identity in the fresh census. The official MAE catalog separates production pedals from DIY Projects and documents a strongly fuzz-oriented pedal lineup with one clear Rat-style distortion identity and several products whose manufacturer descriptions explicitly include overdrive territory.
+
+Overdrive:
+- Germanium Part Garden
+- Part Garden
+- LARAN (prebuilt)
+
+Distortion:
+- TRUST YOURSELF
+
+Fuzz:
+- Germanium Part Garden
+- Little Acorn
+- MAYBE
+- CLUBBER LANG
+- Hot Water
+- BSRI x MAE | MAYBE THE REAL TREASURE...
+- CIVIL MATH
+- BLACK MATH
+- PART GARDEN
+- CASCADER
+- Screws
+- LARAN (prebuilt)
+- YES! (historical / discontinued)
+- NO. (historical / discontinued)
+- Ears Come To Die (historical limited-edition Fuzz Lab)
+
+Germanium Part Garden and Part Garden are retained in both Overdrive and Fuzz because MAE explicitly describes both functions. LARAN (prebuilt) is retained in both because the official product page describes it as a fuzz with a range from mild crisp overdrive to full-on fuzz. TRUST YOURSELF is retained under Distortion because the MAE page identifies its Rat basis and independent pedal-reference material classifies it as a RAT-style distortion. MAYBE, Cascader, and the BSRI collaboration remain Fuzz-only despite descriptions of distortion/overdrive territory because MAE presents those as operating ranges around a fuzz identity rather than separate named distortion products.
+
+DIY-only projects and kits, modulation products such as ALONE and NECKBRACE, SEND-IN MODS, and the unresolved `???` listing remain excluded. Former production identities documented through current MAE DIY pages, including YES!, NO., and the limited-edition Ears Come To Die fuzz, are retained as historical pedal identities without separately counting the DIY listings.
+
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 094.
+Added and re-read Builder → Pedals research Block 095.
 
 Research block commit:
-`48c6953c4ce9159d9f912e52a85375c9ae7f584f`
+`9953b35b3f7cda161d407900ab235772202ef1ab`
 
 Research block content SHA:
-`079fd235f92ac1778758e463871739d8091195c5`
+`39f1fab1c65102f280e75c9b796a9da15bda1f78`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
 
 ## Must not touch
-Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website architecture.
+Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website/UI architecture.
