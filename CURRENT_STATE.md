@@ -25,20 +25,45 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 104**.
+Research blocks stored under `research/builders/` now run through **Block 105**.
 
 Latest addition:
-- Block 104: Old Blood Noise Endeavors
+- Block 105: Fulltone
 
 Recent blocks:
-- Block 099: Caroline Guitar Company
 - Block 100: Electronic Audio Experiments
 - Block 101: Black Arts Toneworks
 - Block 102: Fairfield Circuitry
 - Block 103: Spaceman Effects
 - Block 104: Old Blood Noise Endeavors
+- Block 105: Fulltone
 
-Blocks 001–103 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–104 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+
+### Block 100 summary
+Electronic Audio Experiments is treated as a previously uncovered builder with a substantial lineup across Overdrive, Distortion, and Fuzz.
+
+Overdrive:
+- Halberd
+- Citadel
+- Model feT
+- Limelight
+- The Bard
+- Dagger — historical / discontinued
+- 0xEAE Boost — historical / discontinued collaboration
+- Dude Incredible / Tube Voice channel — historical / discontinued
+- Greathammer
+
+Distortion:
+- Longsword
+- Surveyor
+- Dude Incredible / Tube Voice channel — historical / discontinued
+
+Fuzz:
+- Glaive
+- 0xEAE Fuzz — historical / discontinued collaboration
+- Eldritch Blast — historical / discontinued collaboration
+- Dude Incredible / Percolate channel — historical / discontinued
 
 ### Block 101 summary
 Black Arts Toneworks is a previously uncovered builder with a broad dirt history dominated by fuzz and heavy gain.
@@ -138,19 +163,56 @@ Fuzz:
 - Alpha Haunt
 - Pardner
 
-OBNE explicitly presents Fault V2 as Overdrive + Distortion. Beam Splitter V2 uses three overdrive voices while the product is also presented as a trereo distortion, so it is retained in both categories as one named pedal. Excess V2 is a dedicated distortion paired with modulation/delay functions. Haunt, Alpha Haunt, and Pardner are explicitly fuzz products. Screen Violence, Dark Star, Black Bobbin Boost, and other non-target or boost-first products remain excluded.
+OBNE explicitly presents Fault V2 as Overdrive + Distortion. Beam Splitter V2 uses three overdrive voices while the product is also presented as trereo distortion, so it is retained in both categories as one named pedal. Excess V2 is a dedicated distortion paired with modulation/delay functions. Haunt, Alpha Haunt, and Pardner are explicitly fuzz products. Screen Violence, Dark Star, Black Bobbin Boost, and other non-target or boost-first products remain excluded.
+
+### Block 105 summary
+Fulltone is a previously uncovered builder with a long-running dirt catalog spanning current and historical products. Fulltone's current site separates Overdrive, Distortion, and Fuzz collections, while current product pages and historical product documentation establish the older GT-500, Distortion Pro, Bass-Drive, and original Full-Drive identities.
+
+Overdrive:
+- OCD — current lineage, including OCDv2 / Limited Edition / OCD-Germanium family consolidated
+- Full-Drive1
+- Full-Drive2 — historical lineage, including MOSFET editions consolidated
+- Full-Drive2 v2
+- Full-Drive3
+- PlimSoul mkII
+- GT-500 — historical / discontinued
+- Bass-Drive — historical / discontinued
+- Full-Drive — original historical identity
+
+Distortion:
+- OCD
+- OCD-Germanium
+- Full-Drive2 v2
+- PlimSoul mkII
+- Hi-Mu
+- Mas Malo
+- GT-500 — historical / discontinued
+- Distortion Pro — historical / discontinued
+
+Fuzz:
+- 69 Pedal mkII
+- 70 Pedal-BC
+- Queen Bee
+- Mas Malo
+- Soul-Bender v2
+- Ultimate Octave
+- Octafuzz 2 — historical / discontinued
+
+The clearest hybrid cases are OCD/OCD-Germanium, Full-Drive2 v2, PlimSoul mkII, Mas Malo, and the historical GT-500. Fulltone explicitly treats several current products as both Overdrive and Distortion or Distortion and Fuzz. Fuzz products such as the 69, 70, Soul-Bender, and Ultimate Octave remain Fuzz-only even when their controls can produce harder or lower-gain textures.
+
+Boost-first products such as Ranger and 2B Booster remain excluded. Normal OCD and Full-Drive revisions are consolidated where Fulltone itself treats them as the same family, while distinct named redesigns remain separate. Weakly supported historical one-offs were not added.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 104.
+Added and re-read Builder → Pedals research Block 105.
 
 Research block commit:
-`3f6c4a6af446139bd926a687ba46d63a8a11b366`
+`fe1fd5ebd377e49163ae2dede233e1452f6df9fd`
 
 Research block content SHA:
-`1d81e2c228ea1f7fdc3fd08acb0778a8312f0a42`
+`0f3ce077e57fd96ecb1ebc475b895da82bc99e7b`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
