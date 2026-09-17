@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 090**.
+Research blocks stored under `research/builders/` now run through **Block 091**.
 
 Latest addition:
-- Block 090: Radial Engineering / Tonebone
+- Block 091: Mid-Fi Electronics
 
 Recent blocks:
-- Block 080: Strymon
 - Block 081: Marshall Amplification
 - Block 082: Orange Amplification
 - Block 083: HardWire
@@ -42,42 +41,52 @@ Recent blocks:
 - Block 088: Visual Sound / Truetone
 - Block 089: Danelectro
 - Block 090: Radial Engineering / Tonebone
+- Block 091: Mid-Fi Electronics
 
-Blocks 001–089 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–090 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 090 summary
-Radial Engineering / Tonebone is treated as one continuous builder/product lineage for the pedal census. The block records a focused standalone dirt catalog centered on the Tonebone and later Bones lines, plus Bassbone OD.
+### Block 091 summary
+Mid-Fi Electronics / Doug Tuttle is treated as an unrepresented builder identity with a primarily fuzz-oriented standalone dirt-pedal catalog and several explicit Overdrive products.
 
 Overdrive:
-- Regency Overdrive and Boost
-- Bones Texas Dual Mode Overdrive
-- Bassbone OD
-- Bones Hollywood Distortion & Overdrive
+- Magick "i"
+- Hieracium
+- Full Frequency Overdrive
+- Yard Sale
+- Historical Overdrive
 
 Distortion:
-- Bones London Dual-Mode Distortion
-- Bones Hollywood Distortion & Overdrive
-- Hot British / Hot-British V9
-- Classic / Classic V9
-- Tonebone Classic
-- Tonebone Trimode
-- Tonebone Plexitube
+- No standalone Mid-Fi Electronics product established with sufficiently explicit builder-level Distortion identity.
 
 Fuzz:
-- No standalone Radial/Tonebone fuzz identity established with sufficient product-level evidence.
+- Rise/OverRun
+- Cocoon
+- House Amp
+- Faulty Channel
+- Demo Tape Fuzz
+- Another/An-other (Fuzz Version)
+- Country Fuzz
+- Peace Gun
+- Psych Byke
+- Glitch Computer
+- Random Number Generator
+- Fuzz Wall
+- What?
+- Clari(not) Fuzz
+- Yard Sale
 
-Bones Hollywood is the explicit Overdrive + Distortion overlap. Regency remains Overdrive despite its separate clean boost. Bones Texas remains Overdrive despite high-gain settings because Radial explicitly classifies it as Overdrive. Tonebone Classic, Trimode, Hot British, and Plexitube remain Distortion-focused because Radial's product identities are distortion pedals even when their gain ranges enter overdrive territory. Bassbone OD is included because Radial explicitly identifies its onboard dirt section as overdrive.
+Yard Sale is the explicit Overdrive + Fuzz overlap. Magick "i" is the developed successor to the historical Overdrive product. Mid-Fi's named product taxonomy is followed conservatively, so aggressive or blown-out fuzz tones do not automatically create separate Distortion identities.
 
-Classic V9 and Hot-British V9 are consolidated into their established Tonebone lineages rather than treated as independent underlying designs. Later Bones Hollywood and Bones London remain distinct named products because Radial marketed them as separate compact designs. JDX Direct-Drive, JDX 500, acoustic/instrument preamps, DI products, switchers, buffers, boost-only products, and non-dirt effects remain excluded.
+Rise/OverRun is recorded as Fuzz because its documented core is a gritty fuzz foundation feeding reactive filters. House Amp and Faulty Channel remain Fuzz despite broken-amp or broken-mixer character. Another/An-other Clean and Clari(not) Clean are excluded; the explicitly named Fuzz versions are retained.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 090.
+Added and re-read Builder → Pedals research Block 091.
 
 Research block commit:
-`de7ffdd51c5c2e46afc3272efba4958a3362dc93`
+`718940a13547617e433eac141bc3c9d141dbef0e`
 
 Research block content SHA:
-`28bfab04f81dc4e3ef0b68cab690c2523ae58318`
+`da0949dbebaf307cdebb4c9b914aab000394233e`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
