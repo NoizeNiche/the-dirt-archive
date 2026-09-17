@@ -25,9 +25,9 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 036.
+Research blocks stored under `research/builders/` now run through Block 036. An accidental duplicate Block 037 file was created during tool cleanup and remains pending deletion; it is not part of the census and must not be treated as research progress.
 
-Latest addition in Block 036:
+Latest valid addition in Block 036:
 - Dr. Scientist Sounds
 
 Recent blocks:
@@ -70,7 +70,7 @@ Research block commit:
 `3fd19c2721e6e084116547571d7ea53480338a1f`
 
 ## Next action
-Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
+Delete the accidental duplicate Block 037 file, then continue the fresh Builder → Pedals census with a genuinely new builder.
 
 ## Must not touch
 Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website architecture.
