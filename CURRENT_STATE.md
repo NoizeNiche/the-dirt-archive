@@ -85,7 +85,7 @@ Research block commit:
 `be94091add0c73a0bae5ec90fad7dda018178e46`
 
 Research block content SHA:
-`TBD — verify from repository re-read`
+`183c560c09b99387e4f0ca6a24aa84665ea8e5ee`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
