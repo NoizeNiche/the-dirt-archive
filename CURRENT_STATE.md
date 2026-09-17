@@ -25,20 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 111**.
+Research blocks stored under `research/builders/` now run through **Block 112**.
 
 Latest addition:
-- Block 111: Chase Bliss
+- Block 112: Hudson Electronics UK
 
 Recent blocks:
-- Block 106: Dr. Scientist
 - Block 107: IdiotBox Effects
 - Block 108: Stone Deaf FX
 - Block 109: ThorpyFX
 - Block 110: Mr. Black
 - Block 111: Chase Bliss
+- Block 112: Hudson Electronics UK
 
-Blocks 001–110 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–111 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 105 summary
 Fulltone is a previously uncovered builder with a long-running dirt catalog spanning current and historical products.
@@ -253,14 +253,54 @@ The strongest target dirt cases are Brothers AM, which explicitly provides Overd
 
 Chase Bliss's much larger modulation, delay, reverb, looping, sampling, and effects catalog remains outside the target census. Clean is excluded because its primary identity is compressor/limiter even though it can be pushed toward overdrive and fuzz-like behavior. Normal current/legacy relationships are consolidated without inventing variant duplicates.
 
+### Block 112 summary
+Hudson Electronics UK is a previously uncovered builder with a current catalog centered on the Broadcast family and Sidecar, plus a substantial official archive of older fuzz and overdrive pedals. Hudson's current product pages repeatedly identify Michael Hudson as the hand-builder, and the official archived catalog preserves 15 older named products.
+
+Overdrive:
+- Broadcast — current
+- Sidecar — current
+- Broadcast-AP — current/legacy signature model
+- Motorcycle — limited collaboration with Joe's Pedals
+- Overdrive 999 — historical / discontinued
+
+Distortion:
+- Broadcast — current
+- Sidecar — current
+
+Fuzz:
+- Broadcast — current
+- Sidecar — current
+- Fuzz (MKIV Tone Bender) — historical / archived
+- White Heat — historical / archived
+- Full Range Bomb — historical / archived
+- Soul Bomb — historical / archived
+- Pretty Flamingo — historical / archived
+- Blackbird — historical / archived
+- Buzzard — historical / archived
+- Bluebird — historical / archived
+- Overdrive Eight Fifty — historical, lower-confidence classification from specialist catalog evidence
+- Standard Machine — historical
+- Shapes Of Things — historical
+- Buzzoid — historical
+- Stroll On — historical / archived
+- Stroll On Jnr — historical
+- Soul Face — historical / archived
+- Mr Soul — historical / archived
+
+The strongest overlaps are Broadcast and Sidecar. Hudson explicitly documents Broadcast as transparent overdrive at lower gain and heavier distorted sounds at high gain, while the Broadcast family documentation reaches fuzz. Hudson explicitly says Sidecar covers classic overdrive and distortion and, at extreme settings, fuzz. Broadcast-AP is kept Overdrive-only because Hudson explicitly describes its clean-boost-to-medium-gain-overdrive range but does not establish a separate target distortion identity. Motorcycle is an overdrive revisit of the historical Overdrive 999.
+
+Pretty Flamingo remains Fuzz-only even though Hudson says lighter overdrive/distortion tones are available because the builder presents it as a 1967-style fuzz. Buzzard likewise stays Fuzz-only despite the mention of dense, chewy distortion, because it is presented as a fuzz design. Full Range Bomb and Soul Bomb include fuzz alongside boost, but boost is outside the archive's target categories. Broadcast AP-II is not categorized for now because Hudson presents it as a dual preamplifier with broad gain and heavily distorted sounds, but the surviving official description does not establish a separate named target dirt identity strongly enough. Normal Broadcast retail/color variants are consolidated.
+
+The archived catalog confirms the historical dirt pool; Effects Database is used only to strengthen a few surviving product identifications, especially Overdrive Eight Fifty, Standard Machine, and Hudson's historical model index. No components, schematics, cloning, or internal-build information are recorded.
+
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 111.
+Added and re-read Builder → Pedals research Block 112.
 
 Research block commit:
-`9ffcb23795979272782eca3ed1672128fa609ec8`
+`0c2dde79096feb4fb6b4ef909eaea1974952aa26`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
