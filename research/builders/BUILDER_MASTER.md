@@ -36,13 +36,15 @@ The following builders are being prioritized because current first-party pages o
 | Spaceman Effects | high | Titan II; Apollo VIIb; Saturn V; Saturn VI | https://spacemaneffects.com/ |
 | PastFX | high | Punkifriar PX76 Overdrive/Distortion/Fuzz | https://www.pastfx.com/ |
 | JHS Pedals | high | Coyote; Double Dragon; EHX by JHS Big Muff 2; Kilt; Kilt 10; Muffuletta; PackRat; Hard Drive; Violet; Cheese Ball; Crayon; 3 Series Fuzz; 3 Series Distortion; Colour Box; AT Mini; Notadumble V2; Morning Glory; 424 Gain Stage; Notaklon; Bonsai; AT+; Angry Charlie V3; Charlie Brown V4; Moonshine V2; PG-14; 3 Series Overdrive | https://jhspedals.info/ |
-| ThorpyFX | high | Bunker; Electric Lightning; The Dane; Scarlet Tunic; The Kudu; The Old Timer; Warthog | https://thorpyfx.com/collections/all/overdrive |
+| ThorpyFX | high | Bunker; Electric Lightning; The Dane; Scarlet Tunic; The Kudu; The Old Timer; Warthog; Field Marshal; WOPR; Gunshot; Peacekeeper; Fallout Cloud; Six Zero | https://thorpyfx.com/en-us/collections/thorpyfx-pedals |
 | Wampler Pedals | high | Cryptid Fuzz; Mofetta; Moxie; Phenom Distortion; Belle Overdrive; tcd; Brent Mason: ReWired; Golden Jubilee | https://www.wamplerpedals.com/products/ |
 | Stone Deaf FX | high | PDF-2; PDF-1X Ghost; Warp Drive; Fig Fumb; Rise & Shine; Trashy Blonde; Kliptonite | https://www.stonedeaffx.com/ |
 | Barber Electronics | high | Gain Changer SR; Midnight Standard; FWW Plus; other overdrive products | https://www.barberelectronics.com/ |
 | Caroline Guitar Company | high | Wave Cannon Zero; CROM; The Blues; Shigeharu; Wave Cannon MKII; Aaron Graves Overdrive | https://carolineguitar.com/product-category/pedals/ |
-| Catalinbread Effects | high | Dirty Little Secret; SFT; RAH; Sabbra Cadabra; Formula 55; Formula 5F6; Galileo; Dirty Little Secret Deluxe; Fuzzrite; Fuzzrite Germanium; Katzenkönig; Giygas 2K Fuzz | https://catalinbread.com/collections/boost-fuzz-distortion-series |
+| Catalinbread Effects | high | Dirty Little Secret; SFT; RAH; Sabbra Cadabra; Formula 55; Formula 5F6; Galileo; Dirty Little Secret Deluxe; Fuzzrite; Fuzzrite Germanium; Katzenkönig; Giygas 2K Fuzz; Fuzzrite Mini | https://catalinbread.com/collections/boost-fuzz-distortion-series |
 | Xotic Effects | high | SL Drive; AC Booster V2; BB Preamp V1.5; Soul Driven; RC Booster V2; RC Booster Classic; Bass BB Preamp V1.5; Bass RC Booster V2 | https://xotic.us/effects/ |
+| Foxrox Electronics | high | Hot Silicon Fuzz; Hot Silicon2 Fuzz; Festival Overdrive; FR 100 Overdrive; ZIM Dual Drive; Captain Coconut 2 | https://www.foxroxelectronics.com/Classics.html |
+| Fulltone | high | OCDv2; OCD-Germanium; Full-Drive1; Full-Drive2 v2; Full-Drive3; PlimSoul mkII; 69 Pedal mkII; 70 Pedal-BC; Octafuzz 2; Ultimate Octave; Queen Bee; Hi-Mu | https://www.fulltoneusa.com/products/ |
 
 ## Current Web Verification Notes
 
@@ -83,7 +85,7 @@ The official current shop documents the Punkifriar PX76 as an overdrive/distorti
 The current official catalog has a dedicated Fuzz / Distortion section with multiple products including Muffuletta, PackRat, Cheese Ball, Crayon, 3 Series Fuzz, 3 Series Distortion, Kilt 10, Double Dragon, Coyote and others. Its Overdrive collection also includes AT Mini, Notadumble V2, Morning Glory, 424 Gain Stage, Notaklon, Bonsai, AT+, Angry Charlie V3, Charlie Brown V4, Moonshine V2, PG-14 and 3 Series Overdrive. Sources: https://jhspedals.info/collections/fuzz-distortion and https://jhspedals.info/collections/overdrive-distortions
 
 ### ThorpyFX
-The current official catalog identifies multiple overdrive/distortion products including Bunker, Electric Lightning, The Dane, Scarlet Tunic, The Kudu, The Old Timer, and Warthog. Source: https://thorpyfx.com/collections/all/overdrive
+The current official catalog lists Field Marshal fuzz, WOPR fuzz and boost, Warthog distortion, Peacekeeper low-gain overdrive, Gunshot overdrive, Scarlet Tunic amp emulator, The Kudu overdrive and other products. Source: https://thorpyfx.com/en-us/collections/thorpyfx-pedals
 
 ### Wampler Pedals
 Wampler's current official product catalog includes dirt products such as Cryptid Fuzz, Mofetta, Moxie, Phenom Distortion, Belle Overdrive, tcd, Brent Mason: ReWired, and Golden Jubilee. Sources: https://www.wamplerpedals.com/ and https://www.wamplerpedals.com/products/
@@ -102,6 +104,12 @@ Catalinbread's current collections expose multiple overdrive, fuzz, and distorti
 
 ### Xotic Effects
 Xotic's current official effects catalog lists multiple drive products including SL Drive, AC Booster V2, BB Preamp V1.5, Soul Driven, RC Booster V2, RC Booster Classic, Bass BB Preamp V1.5, and Bass RC Booster V2. Source: https://xotic.us/effects/
+
+### Foxrox Electronics
+Foxrox's official site documents Hot Silicon Fuzz, Hot Silicon2 Fuzz, Festival Overdrive, FR 100 Overdrive and the configurable ZIM family, including ZIM Dual Drive and Mini ZIM. The classics page also records production dates for several legacy products. Sources: https://www.foxroxelectronics.com/Classics.html, https://www.foxroxelectronics.com/FR100overdrive.html, https://www.foxroxelectronics.com/zim-dual-drive.html
+
+### Fulltone
+Fulltone's current official catalog exposes multiple overdrive, distortion and fuzz products, including OCDv2, OCD-Germanium, Full-Drive1, Full-Drive2 v2, Full-Drive3, PlimSoul mkII, 69 Pedal mkII, 70 Pedal-BC, Octafuzz 2, Ultimate Octave, Queen Bee and Hi-Mu. Sources: https://www.fulltoneusa.com/products/ and https://www.fulltoneusa.com/collections/overdrive
 
 ## Existing Historical Discovery Pool
 
