@@ -177,7 +177,7 @@ Research block commit:
 `90c618d42998df14542463991127d34b003a24be`
 
 Research block content SHA:
-`6a1c7ce4ce5c01ca4cbbef1c4f6f99e5b64178e1`
+`a40b4865e9e3aa5e5a9bc20e77ab55bbb980a6b3`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
