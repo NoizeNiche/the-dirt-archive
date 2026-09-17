@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **328 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **368 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **167 block files** are currently present: Blocks 001-069, 071-141, and 143-170.
+- **365 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **406 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **171 block files** are currently present: Blocks 001-069, 071-141, and 143-174.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 328 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 365 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -354,6 +354,43 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 327 | Cutec | 170 |  |
 | 328 | Critically Overdriven | 170 |  |
 
+| 329 | Cave Pedals | 171 |  |
+| 330 | Casey Gooby | 171 |  |
+| 331 | Carl Martin | 171 |  |
+| 332 | Cedar Custom Effects | 171 |  |
+| 333 | Chicago Stompworks | 171 |  |
+| 334 | Chowny Bass | 171 |  |
+| 335 | Coffin Case | 171 |  |
+| 336 | ColdCraft Effects | 171 |  |
+| 337 | Creation Audio Labs | 171 |  |
+| 338 | Crews Maniac Sound | 171 |  |
+| 339 | Cameltone Electronics | 172 |  |
+| 340 | Cause & Effect Pedals (CE Pedals) | 172 | Cause & Effect Pedals |
+| 341 | Cat Box Customs | 172 | CatBox Customs |
+| 342 | Cat's Eye ESP | 172 |  |
+| 343 | CatastroFX | 172 |  |
+| 344 | Cathouse Pedals | 172 |  |
+| 345 | Caveman Audio / Skrydstrup | 173 |  |
+| 346 | CBC Pedals | 173 |  |
+| 347 | ClinchFX | 173 |  |
+| 348 | Colorsound / Sola Sound | 173 |  |
+| 349 | Concrete Sound Lab | 173 |  |
+| 350 | Creepy Fingers Effects | 173 | Creepy Fingers |
+| 351 | Critter Electronics | 173 |  |
+| 352 | Carlin | 174 |  |
+| 353 | Carlsbro | 174 |  |
+| 354 | Carvin | 174 |  |
+| 355 | Casimir Effects Pedals | 174 |  |
+| 356 | Chandler | 174 |  |
+| 357 | Chandler Limited | 174 |  |
+| 358 | Center Street Electronics | 174 |  |
+| 359 | CheeseBlocks Effects | 174 |  |
+| 360 | ChiralityAudio | 174 | Chirality Audio |
+| 361 | Chocolate Electronics | 174 |  |
+| 362 | Cleveland Music Co. | 174 |  |
+| 363 | CNZ Audio | 174 | CNZ |
+| 364 | Chesapeake Effects | 174 |  |
+| 365 | Chuck Pedals | 174 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
@@ -385,6 +422,8 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 - **Wampler Pedals** -> Blocks 063, 128
 - **Way Huge** -> Blocks 040, 140
 - **ZVEX Effects** -> Blocks 065, 141
+
+- **Cat's Eye ESP** -> Blocks 172, 173 (same canonical builder; Block 173 is an expansion, not a new identity)
 
 ## Immediate next-work rule
 
