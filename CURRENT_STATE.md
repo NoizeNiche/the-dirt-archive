@@ -25,17 +25,17 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 046.
+Research blocks stored under `research/builders/` now run through Block 047.
 
-Latest addition in Block 046:
-- Sitek Guitar Electronics — Andrzej “Andy” Sitek & Hania Sitek
+Latest addition in Block 047:
+- Subdecay — Brian Marshall
 
 Recent blocks:
-- Block 042: IdiotBox Effects — Atarimatt
 - Block 043: Amptweaker — James Brown / Jack Thompson
 - Block 044: Basic Audio — one-man shop
 - Block 045: Animal Factory Amplification — Aditya Nandwana
 - Block 046: Sitek Guitar Electronics — Andrzej “Andy” Sitek & Hania Sitek
+- Block 047: Subdecay — Brian Marshall
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -71,12 +71,13 @@ Block 043 records Amptweaker — James Brown / Jack Thompson dirt products using
 Block 044 records Basic Audio dirt products using the builder's current official catalog and individual official product pages. The block is strongly fuzz-oriented, includes explicitly documented overdrive identities, and deliberately avoids promoting insufficiently documented catalog names into additional categories.
 Block 045 records Animal Factory Amplification — Aditya Nandwana dirt products using the builder's official founder/team material, current pedal catalog, current product pages, and manufacturer-authored historical product announcements. The block includes physical pedal identities spanning fuzz, overdrive, and distortion while deliberately excluding the separate Eurorack/module catalog.
 Block 046 records Sitek Guitar Electronics — Andrzej “Andy” Sitek & Hania Sitek dirt products using the builder's official About page, current pedal catalog, and individual official product pages. The block includes explicit overdrive, distortion, and fuzz identities while excluding booster-only, buffer, and modulation products and avoiding category inflation from descriptive gain ranges.
+Block 047 records Subdecay — Brian Marshall dirt products using Subdecay's official founder material, current effects catalog, individual official product pages, and manufacturer documentation. The block includes current and clearly documented discontinued overdrive/fuzz identities plus the Vector multi-dirt pedal, while excluding synth, modulation, filter, reverb, delay, and utility products.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 046.
+Added and re-read Builder → Pedals research Block 047.
 
 Research block commit:
-`993c9bab63d592fc88edec8a384b9523fc582095`
+`a7fa74c5d049a2724fbf464279a00f215884177e`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
