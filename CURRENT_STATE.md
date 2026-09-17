@@ -13,17 +13,22 @@ The site is a simple guitar-pedal catalog with one purpose:
 That is the product structure. Nothing else is part of the website's job right now.
 
 ## Catalog data
-`research/MASTER_PEDAL_CENSUS.csv` is the current accumulated pedal catalog used by the website.
+`research/MASTER_PEDAL_CENSUS.csv` is the accumulated primary pedal catalog.
 
-The working catalog currently contains **2,466 company/pedal/type rows covering 103 companies with dirt-pedal entries**. Multiple rows can represent one pedal when the cataloged pedal belongs to more than one dirt type.
+The website currently loads the master catalog plus the active scrape census files:
+- `research/MASTER_PEDAL_CENSUS.csv`
+- `research/SCRAPE_A_CENSUS.csv`
+- `research/SCRAPE_B_CENSUS.csv`
 
-The current research blocks remain historical working material. They are not a second website database.
+Multiple rows can represent one pedal when the cataloged pedal belongs to more than one dirt type.
+
+The current builder research index contains **243 canonical builder identities**, with **277 builder mentions across 155 research blocks** after the latest Scrape B continuation. The research blocks are historical working material and remain separate from the site's four-part information architecture.
 
 ## Website
 `index.html` is now the actual catalog page, not an under-construction placeholder.
 
 The page:
-- loads the master catalog
+- loads the catalog CSV sources
 - lists companies alphabetically
 - shows each company's pedals
 - searches companies and pedals
@@ -31,8 +36,6 @@ The page:
 - shows the pedal's dirt type in the record
 - opens a pedal detail view with dedicated **Pedal Info** and **Photo of Pedal** areas
 - works on desktop and mobile layouts
-
-The website reads the catalog directly from `research/MASTER_PEDAL_CENSUS.csv`.
 
 ## Data rule from here forward
 When a new company is researched, store the company.
