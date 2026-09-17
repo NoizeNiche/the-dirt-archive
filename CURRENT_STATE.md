@@ -36,11 +36,13 @@ Builders covered in Block 001:
 
 The block records relevant overdrive, distortion, and fuzz products with source references. It is a verified seed, not a claim of exhaustive lifetime coverage for those builders.
 
-## Last completed action
+## Last completed research action
 Added and committed the first fresh Builder → Pedals research block.
 
-Latest recorded commit:
+Research block commit:
 `c97cbad4cc03d01bfdfc7a1d2452eafdbfffc187`
+
+Subsequent checkpoint commits update the durable state and breadcrumb files only.
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
