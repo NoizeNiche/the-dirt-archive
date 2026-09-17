@@ -25,20 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 107**.
+Research blocks stored under `research/builders/` now run through **Block 108**.
 
 Latest addition:
-- Block 107: IdiotBox Effects
+- Block 108: Stone Deaf FX
 
 Recent blocks:
-- Block 102: Fairfield Circuitry
 - Block 103: Spaceman Effects
 - Block 104: Old Blood Noise Endeavors
 - Block 105: Fulltone
 - Block 106: Dr. Scientist
 - Block 107: IdiotBox Effects
+- Block 108: Stone Deaf FX
 
-Blocks 001–106 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–107 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 105 summary
 Fulltone is a previously uncovered builder with a long-running dirt catalog spanning current and historical products.
@@ -141,17 +141,43 @@ The strongest hybrid cases are No Moon / No Moon 2, which explicitly combine Muf
 
 Aquabox, Dead Space Invader, Orange Cycle, Mad Doctor Deluxe, Energizer, Dragon Sound Tone Booster, TK-421 Modification, End Of Line, and other non-target or utility products remain excluded. Mystery products remain excluded because their dirt identity is intentionally unspecified. Normal colorway/version changes are consolidated unless the builder presents a distinct named product identity.
 
+### Block 108 summary
+Stone Deaf FX is a UK builder founded by Luke Hilton. Current Stone Deaf product pages and collections establish a substantial dirt catalog, while historical industry coverage documents earlier products such as Kliptonite, Trashy Blonde, and the original PDF-1.
+
+Overdrive:
+- PDF-2
+- PDF-1X Ghost
+- Kliptonite — historical / discontinued
+- Trashy Blonde — historical / discontinued
+
+Distortion:
+- PDF-2
+- PDF-1X Ghost
+- Warp Drive — current/legacy lineage
+- Trashy Blonde — historical / discontinued
+- PDF-1 — historical / discontinued
+
+Fuzz:
+- PDF-2
+- Kliptonite — historical / discontinued
+- Fig Fumb — current/legacy lineage
+- Rise & Shine — current/legacy lineage
+
+The strongest hybrid case is PDF-2, which Stone Deaf currently describes as offering overdrive, distortion, and fuzz in one pedal. PDF-1X Ghost is explicitly Overdrive / Distortion. Kliptonite is documented as one-part overdrive and one-part fuzz. Trashy Blonde is documented as a Marshall-style overdrive with a dedicated distortion mode. Warp Drive is a dedicated high-gain distortion, while Fig Fumb and Rise & Shine are explicitly fuzz products.
+
+PDF-1 remains historically useful but is kept under Distortion rather than being inflated into multiple categories merely from descriptions of lower-gain or fuzz-capable behavior. Boost, filter, octave, tremolo, and expression-only products remain outside the three target categories. Fig Fumb LTD and Warp Drive LTD are consolidated into their main product lineages rather than becoming variant duplicates.
+
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 107.
+Added and re-read Builder → Pedals research Block 108.
 
 Research block commit:
-`522e7973a904c96d24d856ca9386394fadcf729b`
+`53ea649dacf3970f6d6840cc3b71ef0bb5a070ea`
 
 Research block content SHA:
-`00f97e7f2409102b953c0e0bf8dc355e4e2321d5`
+`<stored in Block 108 file>`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
