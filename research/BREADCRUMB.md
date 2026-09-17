@@ -14,7 +14,7 @@ That is the website's entire information structure. Keep collecting companies an
 Current checkpoint:
 - **2,466 company/pedal/type rows**
 - **103 companies** currently represented by pedal entries
-- **140 live research block files** remain in the repository as working material
+- **157 live research block files** remain in the repository as working material
 - The website uses the catalog directly and does not depend on the research blocks for page rendering
 
 ## Website state
@@ -42,4 +42,4 @@ Every pedal record can then receive its information and photo.
 Do not build extra website relationships, evidence systems, confidence systems, lead systems, or other tracking layers unless the project explicitly changes direction.
 
 ## Next action
-Continue the company -> pedal collection. Compare new work against the existing catalog so we add missing companies and pedals instead of creating duplicate records.
+Continue the Scrape B company -> pedal collection alphabetically after Boo Instruments. Compare new work against the existing catalog so we add missing companies and pedals instead of creating duplicate records.
