@@ -25,17 +25,17 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 042.
+Research blocks stored under `research/builders/` now run through Block 043.
 
-Latest addition in Block 042:
-- IdiotBox Effects — Atarimatt
+Latest addition in Block 043:
+- Amptweaker — James Brown / Jack Thompson
 
 Recent blocks:
-- Block 038: SolidGoldFX — Greg Djerrahian
 - Block 039: Tech 21 NYC — B. Andrew Barta
 - Block 040: Way Huge Electronics — George Tripps
 - Block 041: Analog Alien — Jack & Joe Napoli
 - Block 042: IdiotBox Effects — Atarimatt
+- Block 043: Amptweaker — James Brown / Jack Thompson
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -67,12 +67,13 @@ Block 039 records Tech 21 NYC — B. Andrew Barta dirt products using Tech 21's 
 Block 040 records Way Huge Electronics — George Tripps dirt products using Way Huge/Jim Dunlop manufacturer material, official Jim Dunlop manuals, and authoritative current catalog material. Category overlaps were kept conservative and unsupported duplicate identities were removed during verification.
 Block 041 records Analog Alien — Jack & Joe Napoli dirt products using Analog Alien's official catalog, individual product pages, manuals, and company material. The block preserves only explicit manufacturer-supported dirt classifications and does not split the 2026 Rumble Seat redesign into a duplicate pedal identity.
 Block 042 records IdiotBox Effects — Atarimatt dirt products using IdiotBox Effects' official About page, current catalog, individual product pages, and Retired Designs page. The block includes current and clearly documented retired dirt identities while excluding boost-only, noise, modulation, octave-only, and ambiguous mystery products.
+Block 043 records Amptweaker — James Brown / Jack Thompson dirt products using Amptweaker's current catalog/history, current product pages/manuals, and manufacturer-originated historical announcements and archival material. The block includes distinct historical Jr, Pro, Bass, and fuzz product identities while avoiding duplicate limited/cosmetic editions.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 042.
+Added, corrected, and re-read Builder → Pedals research Block 043.
 
 Research block commit:
-`613f5680065915fdb2e00345f94806b338b0ca22`
+`5dd9f545b80d9009c34111aa77c4f9868c01a4d1`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
