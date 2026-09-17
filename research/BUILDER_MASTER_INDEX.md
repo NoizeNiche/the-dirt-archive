@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **365 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **406 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **171 block files** are currently present: Blocks 001-069, 071-141, and 143-174.
+- **372 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **413 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **172 block files** are currently present: Blocks 001-069, 071-141, and 143-175.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 365 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 372 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -391,6 +391,13 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 363 | CNZ Audio | 174 | CNZ |
 | 364 | Chesapeake Effects | 174 |  |
 | 365 | Chuck Pedals | 174 |  |
+| 366 | Citadel Electronics | 175 |  |
+| 367 | Copilot FX | 175 |  |
+| 368 | Chunk Systems | 175 |  |
+| 369 | Cornell Amplification | 175 |  |
+| 370 | Cluster Effects | 175 |  |
+| 371 | Cranetortoise by Albit | 175 |  |
+| 372 | Couch Electronics | 175 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
