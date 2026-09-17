@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 064**.
+Research blocks stored under `research/builders/` now run through **Block 065**.
 
 Latest addition:
-- Block 064: Walrus Audio
+- Block 065: ZVEX Effects — Zachary Vex
 
 Recent blocks:
-- Block 055: BIXONIC — Bright International Corp. / BIXONIC Inc.; relaunched under Kikusui Electronics Corp.
 - Block 056: McGregor Pedals — Garth McGregor Heslop
 - Block 057: Stomp Under Foot — Matt Pasquerella
 - Block 058: Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez
@@ -41,51 +40,27 @@ Recent blocks:
 - Block 062: Keeley Electronics — Robert Keeley
 - Block 063: Wampler Pedals — Brian Wampler
 - Block 064: Walrus Audio
+- Block 065: ZVEX Effects — Zachary Vex
 
-Blocks 001–063 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–064 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 064 summary
-Walrus Audio's official catalog maintains an explicit Overdrive, Fuzz, & Distortion family, plus current individual product pages, an official manuals archive, and a discontinued-pedal archive. The block records only manufacturer-supported builder/product relationships and keeps secondary effects, B-stock pages, and cosmetic/limited-edition variants out of the core identity set.
+### Block 065 summary
+ZVEX's current Guitar Pedals catalog explicitly exposes Distortion and Fuzz filters but no Overdrive filter. Current Distortion identities recorded are Box of Rock, Distortron, Double Rock, Basstortion, and '59 Sound. Historical Box of Metal is retained as Distortion based on the manufacturer-authored instruction manual. Current Fuzz identities recorded are Fuzz Factory, Fuzz Factory 7, Fat Fuzz Factory, Woolly Mammoth, Woolly Mammoth 7, Mastotron, Fuzz Probe, Fuzzolo, Machine, and Octane 3.
 
-Overdrive:
-- Voyager Preamp/Overdrive MKII
-- 385 Overdrive MKII
-- Ages Five-State Overdrive
-- 385 Overdrive
-- Warhorn Mid-Range Overdrive
-- Voyager Preamp/Overdrive
-- Mayflower Mid-Range Overdrive
-- Messner Stage-One Overdrive
-- Fundamental Series Drive
-- Badwater Bass Pre-amp and D.I.
+No explicit manufacturer-categorized Overdrive identity was found in the reviewed ZVEX catalog. The block therefore does not promote Box of Rock, '59 Sound, Distortron, or related products into Overdrive based only on amp-like breakup or gain language.
 
-Distortion:
-- Iron Horse LM308 Distortion
-- Eras Five-State Distortion
-- Melee: Wall of Noise
-- Fundamental Series Distortion
+Vexter editions, anniversary editions, custom-art products, and other cosmetic variants are consolidated under the underlying product identity where ZVEX states the parts are identical or the item is presented as the same pedal. Functional named models such as Fuzz Factory 7, Fat Fuzz Factory, and Woolly Mammoth 7 remain distinct identities.
 
-Fuzz:
-- Silt Harmonic Fuzz
-- Eons Five-State Fuzz
-- Janus Fuzz/Tremolo with Joystick Control
-- Kangra Filter Fuzz
-- Jupiter Multi-Clip Fuzz V2
-- Fundamental Series Fuzz
-- Contraband Fuzz
-
-Category handling is conservative. 385 Overdrive MKII remains Overdrive despite distortion-esque high-gain behavior; Iron Horse remains Distortion despite manufacturer language about clear overdriven settings; Melee is Distortion + its non-target reverb section; Silt, Janus, Kangra, Jupiter, Eons, and Contraband remain Fuzz without category inflation from generic drive or distortion language. The original 385 and later 385 MKII are retained as distinct named identities because Walrus explicitly describes the MKII as a reworked version of the original 385. Jupiter V2 and limited/blemished editions are consolidated under the underlying Jupiter identity. Mayflower, Messner, Contraband, Melee, and other finish-specific editions are likewise consolidated.
-
-Boost-only, compressor/EQ, delay/reverb, modulation, amp/cab simulation, switching/utility, accessories, and other non-target products remain excluded.
+Boost-only, octave-only, modulation, phaser, tremolo, sampler, meter, step-sequencer, utility, and custom/prototype items remain outside the target dirt census.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 064.
+Added and re-read Builder → Pedals research Block 065.
 
 Research block commit:
-`be94091add0c73a0bae5ec90fad7dda018178e46`
+`4e6bec9158968c7a1fe796d6972f878e9f443efd`
 
 Research block content SHA:
-`183c560c09b99387e4f0ca6a24aa84665ea8e5ee`
+`b9e3426ac847fd375b2ef5c8522b7284ad0b5a16`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
