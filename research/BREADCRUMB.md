@@ -39,12 +39,12 @@ The research phase is a fresh builder/product census. Record builder names and t
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`6b0059bbae4b04680693f9c9428592f8664c0d70`
+`a782762f96a13cf5e26e8d55825a53018cee6aaa`
 
 ## Last checkpoint files
-- `CURRENT_STATE.md` updated in commit `01161946d3b5a33136785d2c40f9d6c7cd7d7d2e`
-- `research/builders/BLOCK-2026-09-17-078.md` content SHA: `5de3a0aacb2ef89d4e42f448d376042c253ef6ca`
-- `CURRENT_STATE.md` content SHA: `e188d1584eaca6231e8306e04919bf934dd874d8`
+- `CURRENT_STATE.md` updated in commit `4c00542f96912930a58f1e7acd3b8b5f0f83a1ef`
+- `research/builders/BLOCK-2026-09-17-078.md` content SHA: `af7df7058fe8ea9b71168659366ff1d67d29e62c`
+- `CURRENT_STATE.md` content SHA: `9c6c4ba8018416614b4a08da762db9b8bff3ab03`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
