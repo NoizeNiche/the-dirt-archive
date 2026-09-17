@@ -25,20 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 117**.
+Research blocks stored under `research/builders/` now run through **Block 118**.
 
 Latest addition:
-- Block 117: JHS Pedals
+- Block 118: Analog Man
 
 Recent blocks:
-- Block 112: Hudson Electronics UK
 - Block 113: BlackOutEffectors
 - Block 114: Mythos Pedals
 - Block 115: OKKO FX
 - Block 116: Catalinbread Effects
 - Block 117: JHS Pedals
+- Block 118: Analog Man
 
-Blocks 001–116 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–117 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 114 summary
 Mythos Pedals spans all three target categories. The clearest hybrid is Golden Fleece, explicitly described by Mythos as blending fuzz, distortion, and overdrive. 210 Double Drive Deluxe is Overdrive + Fuzz, and AU-79 is Fuzz + Overdrive. The archive does not turn ordinary fuzzy or distorted operating ranges into extra categories when Mythos keeps the product identity as Overdrive or Fuzz.
@@ -185,11 +185,45 @@ Key restraint:
 - DIY kits, buffers, utilities, modulation, delay, reverb, and other non-target products remain outside scope.
 - No components, schematics, cloning, PCB, BOM, or internal-build information are recorded.
 
+### Block 118 summary
+Analog Man is a previously uncovered builder with a focused but historically significant dirt catalog. The builder's own site documents handmade Sun Face, Astro Tone, Peppermint Fuzz, Sun Lion, King Of Tone, and Prince Of Tone products.
+
+Overdrive:
+- King Of Tone — current
+- Prince Of Tone — current
+
+Distortion:
+- King Of Tone — current; explicit Distortion mode
+- Prince Of Tone — current; explicit Distortion mode
+
+Fuzz:
+- Sun Face — current
+- Astro Tone — current; Fuzz product
+- Peppermint Fuzz — current/legacy; Fuzz product
+- Sun Lion — current; Fuzz/Booster combination
+
+Key overlaps:
+- King Of Tone = Overdrive + Distortion. Analog Man's current product page and V4 manual explicitly provide separate OD and DISTORTION modes for each side.
+- Prince Of Tone = Overdrive + Distortion. Analog Man's manual explicitly lists Normal Overdrive and Distortion modes, with Boost treated as outside the target taxonomy.
+
+Key restraint:
+- King Of Tone Ver. 2 / Ver. 3 / Ver. 4 are treated as one King Of Tone lineage rather than separate dirt identities.
+- Prince Of Tone remains one product despite its internal mode choices.
+- Sun Face germanium/silicon transistor options are not split into separate pedals.
+- Peppermint Fuzz / Dark Peppermint Fuzz are consolidated as one Peppermint Fuzz identity.
+- Sun Lion is recorded as Fuzz because Analog Man explicitly describes it as the combination of Sun Face fuzz and Beano Boost; the Beano side is outside the target taxonomy.
+- Astro Tone remains Fuzz only. Analog Man describes it as a fuzz and notes that it can sit somewhere between fuzz and distortion; that operating range is not enough to create a separate Distortion entry.
+- Sun Bender / early three-transistor Tonebender work is not added as a separate current product because Analog Man's own history says those versions were stopped rather than maintaining a clean independent product listing.
+- Modified Boss, DOD, MXR, Ibanez, and other third-party pedals are not counted as Analog Man-built product identities.
+- Beano Boost, Bad Bob, and other boost-first products remain outside the dirt taxonomy.
+- Comprossor, Juicer, Chorus, delay, buffers, switchboxes, and other non-target products remain outside scope.
+- No components, schematics, cloning, PCB, BOM, or internal-build information are recorded.
+
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 117.
+Added and saved Builder → Pedals research Block 118: Analog Man.
 
 Research block commit:
-`93144559b2668dd8ffb85cb86f7717705a5dcee2`
+`e43c9b04f2faa39500944d1d173b67c72c2f7d5c`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
