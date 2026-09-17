@@ -46,7 +46,7 @@ Recent blocks:
 Blocks 001–077 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 078 summary
-MESA/Boogie is treated as an unrepresented builder identity with ten clearly documented core dirt products: Cleo, DynaPlex, Gold Mine, Grid Slammer, Flux-Drive, Flux-Five, Throttle Box, Throttle Box EQ, Tone-Burst, and the associated MESA Drive/Boost family identities documented in the manufacturer archive.
+MESA/Boogie is treated as an unrepresented builder identity with nine clearly documented core dirt products: Cleo, DynaPlex, Gold Mine, Grid Slammer, Flux-Drive, Flux-Five, Throttle Box, Throttle Box EQ, and Tone-Burst.
 
 Overdrive:
 - Cleo
@@ -77,10 +77,10 @@ No standalone MESA/Boogie Fuzz identity was established in the reviewed manufact
 Added and re-read Builder → Pedals research Block 078.
 
 Research block commit:
-`6b0059bbae4b04680693f9c9428592f8664c0d70`
+`a782762f96a13cf5e26e8d55825a53018cee6aaa`
 
 Research block content SHA:
-`5de3a0aacb2ef89d4e42f448d376042c253ef6ca`
+`af7df7058fe8ea9b71168659366ff1d67d29e62c`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
