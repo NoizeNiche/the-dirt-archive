@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 081**.
+Research blocks stored under `research/builders/` now run through **Block 082**.
 
 Latest addition:
-- Block 081: Marshall Amplification
+- Block 082: Orange Amplification
 
 Recent blocks:
-- Block 071: Maxon / Nisshin Onpa
 - Block 072: DOD Electronics / DOD
 - Block 073: DigiTech
 - Block 074: Ramble FX
@@ -42,48 +41,37 @@ Recent blocks:
 - Block 079: TC Electronic
 - Block 080: Strymon
 - Block 081: Marshall Amplification
+- Block 082: Orange Amplification
 
-Blocks 001–080 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–081 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 081 summary
-Marshall Amplification is treated as an unrepresented builder identity with current and historical dirt products across Overdrive, Distortion, and Fuzz.
+### Block 082 summary
+Orange Amplification is treated as an unrepresented builder identity with a focused documented dirt catalog spanning Overdrive, Distortion, and Fuzz.
 
 Overdrive:
-- 1959 Overdrive Pedal
-- JCM800 Overdrive Pedal
-- JCM900 Overdrive Pedal
-- DSL Overdrive Pedal
-- JVM Overdrive Pedal
-- Bluesbreaker Vintage Reissue Pedal
-- Guv'nor Vintage Reissue Pedal
-- Drivemaster Vintage Reissue Pedal
-- Bluesbreaker II BB-2
-- Guv'nor Plus GV-2
-- Jackhammer JH-1
+- Getaway Driver
+- Guitar Butler
+- Bax Bangeetar
 
 Distortion:
-- Drivemaster Vintage Reissue Pedal
-- Shredmaster Vintage Reissue Pedal
-- Guv'nor Plus GV-2
-- Jackhammer JH-1
+- Bax Bangeetar
+- Bass Butler
 
 Fuzz:
-- Supa Fuzz
+- Fur Coat
 
-Drivemaster is recorded as Overdrive + Distortion because Marshall's current pedal catalog uses both terms for the named pedal. Shredmaster is Distortion from Marshall's explicit high-gain distortion presentation. Jackhammer is Overdrive + Distortion because the manufacturer-authored JH-1 manual explicitly documents separate Overdrive and Distortion modes. Guv'nor Plus is retained as Overdrive + Distortion based on authoritative historical product classification and its documented expanded gain range. Bluesbreaker II is Overdrive only; its separate Boost mode is outside the target taxonomy.
+Bax Bangeetar is recorded as Overdrive + Distortion because Orange explicitly describes its gain structure as producing both overdriven and distorted tones. Getaway Driver is Overdrive from its explicit product naming. Guitar Butler is Overdrive because Orange/support material describes its Dirty channel as a classic overdrive channel. Bass Butler is Distortion because Orange explicitly describes its guitar-style channel as distortion. Fur Coat is Fuzz from Orange's explicit vintage-fuzz product presentation.
 
-Marshall's current catalog contains nine active pedal products: five Overdrive Pedal models and four Vintage Reissue models. Historical identities added from authoritative Marshall/product documentation include Bluesbreaker II, Guv'nor Plus, Jackhammer, and Supa Fuzz. The original Guv'nor, Bluesbreaker, Drivemaster, and Shredmaster reissues are not duplicated as separate functional identities from their originals. Drivemaster remains distinct from Guv'nor because it is a separately named product.
-
-Supa Fuzz is retained as the historical standalone Marshall Fuzz identity. No current Marshall-branded standalone Fuzz product was established in the reviewed current catalog. Park-branded and other separate-brand products remain outside the Marshall builder relationship.
+No separate historical Orange dirt pedal identity was promoted from the reviewed manufacturer material. Orange states that Bax Bangeetar was its first pedal since the 1960s, so speculative early pedal names were not added without stronger product-level evidence. Amplifiers, Terror Stamp, boost-only/utility products, and non-dirt pedals remain excluded. Product variants and regional/availability presentations do not create additional identities.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 081.
+Added and re-read Builder → Pedals research Block 082.
 
 Research block commit:
-`93ff335e978004bad70163c513bb0647fd14d71c`
+`eff3f03986cb35c1f4cbbecc56b8ef8962839967`
 
 Research block content SHA:
-`3f38c71db32311e6df15f7aeb5884669776b14c1`
+`cb1face2138c2d13e30b5340eb8c54df217feedc`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
