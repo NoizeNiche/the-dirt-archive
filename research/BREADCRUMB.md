@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–105 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–106 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 098: EarthQuaker Devices
 - 099: Caroline Guitar Company
 - 100: Electronic Audio Experiments
 - 101: Black Arts Toneworks
@@ -23,49 +22,30 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 103: Spaceman Effects
 - 104: Old Blood Noise Endeavors
 - 105: Fulltone
+- 106: Dr. Scientist
 
-## Block 105 — Fulltone
-Fulltone, Mike Fuller / Fulltone USA.
+## Block 106 — Dr. Scientist
+Dr. Scientist, Ryan Clarke / Tanya Clarke / Neil Graham.
 
 Overdrive:
-- OCD — current lineage, including OCDv2 / Limited Edition / OCD-Germanium family consolidated
-- Full-Drive1
-- Full-Drive2 — historical lineage, including MOSFET editions consolidated
-- Full-Drive2 v2
-- Full-Drive3
-- PlimSoul mkII
-- GT-500 — historical / discontinued
-- Bass-Drive — historical / discontinued
-- Full-Drive — original historical identity
+- The Elements
 
 Distortion:
-- OCD
-- OCD-Germanium
-- Full-Drive2 v2
-- PlimSoul mkII
-- Hi-Mu
-- Mas Malo
-- GT-500 — historical / discontinued
-- Distortion Pro — historical / discontinued
+- The Elements
+- Dungeon Crawler
 
 Fuzz:
-- 69 Pedal mkII
-- 70 Pedal-BC
-- Queen Bee
-- Mas Malo
-- Soul-Bender v2
-- Ultimate Octave
-- Octafuzz 2 — historical / discontinued
+- Frazz Dazzler
 
-Key restraint: Fulltone's current catalog explicitly separates Overdrive, Distortion, and Fuzz collections. OCD/OCD-Germanium, Full-Drive2 v2, PlimSoul mkII, and Mas Malo receive multiple target categories where Fulltone explicitly presents them that way. The historical GT-500 is retained as Overdrive + Distortion because its two dirt circuits were explicitly documented. Fuzz products are not duplicated into Overdrive or Distortion merely because their controls can reach neighboring gain ranges.
+Key restraint: Dr. Scientist explicitly identifies The Elements as a dual-channel Overdrive/Distortion, Dungeon Crawler as a MOSFET-based Distortion, and Frazz Dazzler as a dual-channel Fuzz. BitQuest and BitQuest Eurorack remain excluded because fuzz is only one part of a broader multi-effect system. BoostBot and other non-target effects remain excluded. Gain-range descriptions do not create extra categories.
 
 ## Last research commit
-`fe1fd5ebd377e49163ae2dede233e1452f6df9fd`
+`bd9bf8e3a96bac0e885b5dbaefbb8a20cf9b44c7`
 
 ## Last checkpoint
-- `CURRENT_STATE.md` updated in commit `2a10df2b552cd411a0197fd66cf43f4745090f68`
-- `research/builders/BLOCK-2026-09-17-105.md` content SHA: `0f3ce077e57fd96ecb1ebc475b895da82bc99e7b`
-- `CURRENT_STATE.md` content SHA: `69140446c4ca547c1c46d5912c9d1284e6a2b673`
+- `CURRENT_STATE.md` updated in commit `e25b3867e143571d4ccd13b8eef8c3e47dda76e2`
+- `research/builders/BLOCK-2026-09-17-106.md` content SHA: `832a2eb489a3b1d9e523030dbb869d28c1d9326f`
+- `CURRENT_STATE.md` content SHA: `a89d261db5631683d406209722b63d2d1f3414a7`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
