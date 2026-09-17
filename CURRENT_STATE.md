@@ -25,20 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 102**.
+Research blocks stored under `research/builders/` now run through **Block 103**.
 
 Latest addition:
-- Block 102: Fairfield Circuitry
+- Block 103: Spaceman Effects
 
 Recent blocks:
-- Block 097: Fjord Fuzz
 - Block 098: EarthQuaker Devices
 - Block 099: Caroline Guitar Company
 - Block 100: Electronic Audio Experiments
 - Block 101: Black Arts Toneworks
 - Block 102: Fairfield Circuitry
+- Block 103: Spaceman Effects
 
-Blocks 001–101 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–102 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 100 summary
 Electronic Audio Experiments is treated as a previously uncovered builder with a substantial lineup across Overdrive, Distortion, and Fuzz.
@@ -116,21 +116,47 @@ Fuzz:
 - The Unpleasant Surprise
 - Four Eyes — historical / discontinued
 
-Fairfield's own site explicitly labels Barbershop an Overdrive, 20% More a Slew Limiting Distortion, and ~900 plus The Unpleasant Surprise as fuzz products. Fairfield also identifies the discontinued Four Eyes as the fuzz lineage behind ~900. The Barbershop V1 and Millennium Edition are consolidated because Fairfield says the circuit topology was unchanged; Modèle B remains a separate named product because Fairfield sells it as its own pedal even though it uses the Barbershop circuit.
+Fairfield's own site explicitly labels Barbershop an Overdrive, 20% More a Slew Limiting Distortion, and ~900 plus The Unpleasant Surprise as fuzz products. Fairfield also identifies the discontinued Four Eyes as the fuzz lineage behind ~900. The Barbershop V1 and Millennium Edition are consolidated because Fairfield says the circuit topology was unchanged; Modèle B remains a separate named product because Fairfield sells it as its own pedal even though it uses the same circuit.
 
-Accountant, Meet Maude, Randy's Revenge, Shallow Water, Roger That, Hors d'Oeuvre?, Long Life, Board Member, and other compressor/delay/modulation/EQ/utility products remain excluded. Broad gain range alone does not create additional dirt categories.
+### Block 103 summary
+Spaceman Effects is a previously uncovered builder with a compact overdrive catalog and a broader fuzz catalog documented through current and legacy official pages.
+
+Overdrive:
+- Apollo VIIb — current PDX Custom / Cadet versions consolidated
+- Polaris — current/legacy versions consolidated
+- Aphelion — historical / discontinued
+- Saturn V — historical / discontinued
+
+Distortion:
+- None established as a standalone core identity
+
+Fuzz:
+- Sputnik I
+- Sputnik IIb — historical / discontinued
+- Sputnik III — current/legacy versions consolidated
+- Gemini IV
+- Gemini III — historical / discontinued
+- Spacerocket II
+- Spacerocket — historical / discontinued
+- Rumblefuzz II
+- Rumblefuzz — historical / discontinued
+- Charon
+- Charon v2 Mod
+- Titan II — historical / discontinued
+
+Spaceman explicitly identifies Apollo VIIb as Preamp/Overdrive, Polaris as Resonant Overdrive, Aphelion as Harmonic Overdrive, and Saturn V as low-gain overdrive as well as a boost. The fuzz catalog includes Sputnik, Gemini, Spacerocket, Rumblefuzz, Charon, and Titan products. Fuzz products are not duplicated into Overdrive or Distortion just because their gain controls reach those areas. Boost-first products such as Atlas IV and Saturn VI remain excluded.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 102.
+Added and re-read Builder → Pedals research Block 103.
 
 Research block commit:
-`0dabfd6e67c43de7770d2480d6f65a46cb0265da`
+`d8e1a3728ea46da54aaeddfa5f772aff7ff1d383`
 
 Research block content SHA:
-`64a1ceff1c5b94d52bd4f1adf9b3bfbf15e4f6d0`
+`17e58fa061faa390dc943adc40121b10495fdc0b`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
