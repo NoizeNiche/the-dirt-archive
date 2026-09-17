@@ -14,16 +14,18 @@ That is the website's entire information structure. Keep collecting companies an
 Current master-catalog checkpoint:
 - **2,466 company/pedal/type rows** are currently consolidated in the primary census
 - **103 companies** are currently represented by pedal entries
-- **Block 162 adds 111 additional company/pedal/type rows** in `research/SCRAPE_B_BLOCK_162_ADDENDUM.csv`, pending consolidation into the primary census
+- Block 162 contributed **111 rows** to the Scrape B census
+- Block 163 contributed **16 rows** to the Scrape B census
+- Blocks 162-163 are now consolidated into `research/SCRAPE_B_CENSUS.csv`
 
 Current Builder -> Pedals research checkpoint:
-- **285 canonical builder identities are in the master index through Block 162**
-- **Block 161 added 9 new canonical identities and Block 162 added 9 new canonical identities**
-- **Browne Amplification was expanded under its existing canonical identity (ID 113)**
-- **160 live research blocks** are now present: Blocks 001-069, 071-141, and 143-162
+- **290 canonical builder identities are in the master index through Block 163**
+- **Block 161 added 9 new canonical identities, Block 162 added 9, and Block 163 added 5**
+- **Broughton Audio and Browne Amplification were expanded under their existing canonical identities**
+- **161 live research blocks** are now present: Blocks 001-069, 071-141, and 143-163
 - Block 070 is absent; Block 142 was removed as a duplicate
 
-The website uses the primary catalog directly and does not depend on the research blocks for page rendering. The Block 162 addendum is research bookkeeping until its rows are consolidated into the primary scrape census.
+The website uses the primary catalog plus the active scrape census files directly and does not depend on the research blocks for page rendering.
 
 ## Website state
 `index.html` is the working public catalog page.
@@ -50,4 +52,4 @@ Every pedal record can then receive its information and photo.
 Do not build extra website relationships, evidence systems, confidence systems, lead systems, or other tracking layers unless the project explicitly changes direction.
 
 ## Next action
-Consolidate the Block 162 census addendum into `research/SCRAPE_B_CENSUS.csv`, then continue the Scrape B company -> pedal collection alphabetically after Byron Amplification. Reuse canonical builder identities when a builder already exists; new builders receive the next unused ID.
+Scrape B now reaches the end of the currently identified B-section builder list through BZZT Electronics. New B-section discoveries can be appended later if stronger evidence surfaces. Otherwise move the alphabetical company -> pedal research to the C-section.
