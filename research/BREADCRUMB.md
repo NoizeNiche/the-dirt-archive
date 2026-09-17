@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001-126 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001-127 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 117: JHS Pedals
 - 118: Analog Man
 - 119: Benson Amps
 - 120: Greer Amps
@@ -25,11 +24,7 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 124: Mad Professor Amplification
 - 125: Barber Electronics
 - 126: Friedman Amplification
-
-## Block 117 - JHS Pedals
-JHS Pedals spans all three target categories with a large current and historical catalog.
-
-Key restraint: routine revisions, mode choices, octave behavior, and non-target products remain consolidated or excluded where they do not establish a separate named dirt identity.
+- 127: Amptweaker
 
 ## Block 118 - Analog Man
 Analog Man / Mike Piera.
@@ -260,7 +255,7 @@ Fuzz:
 Key overlap:
 - Loud 'n Proud = Overdrive + Fuzz
 
-Key restraint: Amber and Albert's remain Overdrive only despite fuzz-like behavior at high settings. Bluebird and Blueberry Bass remain Overdrive only despite higher settings producing distortion. Royal Blue remains Overdrive only despite its range into distortion. Super Black is excluded as an amp-in-a-box product even though it contains a separate Sweet Honey overdrive circuit. Evolution Orange Underdrive, Simble Predrive, Ruby Red Booster, and non-dirt effects remain outside scope. Routine handwired/factory versions, reissues, and minor variants are consolidated into product lineages.
+Key restraint: Amber and Albert's remain Overdrive only despite fuzz-like behavior at high settings. Bluebird and Blueberry Bass remain Overdrive only despite higher settings producing distortion. Royal Blue remains Overdrive only despite its range into distortion. Super Black is excluded as an amp-in-a-box product even though it contains a separate Sweet Honey overdrive circuit. Evolution Orange Underdrive, Simble Predrive, Ruby Red Booster, and non-dirt effects remain outside scope. Routine handwired/factory versions, reissues, and minor variants are consolidated into product lineages. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
 ## Block 125 - Barber Electronics
 Barber Electronics is a previously uncovered builder with a large historical/current catalog centered on Overdrive, plus clear Distortion and Fuzz identities.
@@ -317,15 +312,38 @@ Fuzz:
 
 Key overlaps: none established under the builder-label rule.
 
-Key restraint: Friedman consistently names BE-OD, BE-OD Deluxe, Dirty Shirley, Golden Pearl, and Smallbox as Overdrive products, even when their gain ranges become aggressive. Motor City Drive remains Overdrive based on historical documentation. Fuzz Fiend remains Fuzz because Friedman's own official demo explicitly identifies it as a tube fuzz pedal. Third-party use of the word distortion is not enough to create a separate Friedman Distortion category. Sir Compre, Buxom Boost, IR-D, IR-J, IR-X, Gold-72 Wah, and other non-target products remain outside scope. Routine editions, finish changes, and standard packaging differences are not multiplied into separate dirt identities.
+Key restraint: Friedman consistently names BE-OD, BE-OD Deluxe, Dirty Shirley, Golden Pearl, and Smallbox as Overdrive products, even when their gain ranges become aggressive. Motor City Drive remains Overdrive based on historical documentation. Fuzz Fiend remains Fuzz because Friedman's own official demo explicitly identifies it as a tube fuzz pedal. Third-party use of the word distortion is not enough to create a separate Friedman Distortion category. Sir Compre, Buxom Boost, IR-D, IR-J, IR-X, Gold-72 Wah, and other non-target products remain outside scope. Routine editions, finish changes, and standard packaging differences are not multiplied into separate dirt identities. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+
+## Block 127 - Amptweaker
+Amptweaker is a previously uncovered builder with a dirt catalog spanning Overdrive, Distortion, and Fuzz. The official current catalog lists Tight Drive, Tight Rock, Tight Metal, Big Rock Pro II, and Fat Metal Pro II; historical documentation establishes the broader TightDrive, TightMetal, TightRock, BigRock, FatRock, TightFuzz, and BluesFuzz families.
+
+Overdrive:
+- TightDrive / TightDrive Pro / TightDrive Jr / Bass TightDrive / Bass TightDrive Jr - current/historical TightDrive lineage
+- BigRock Pro / BigRock Pro II - historical/current BigRock lineage
+
+Distortion:
+- TightMetal / TightMetal Pro / TightMetal Pro II / TightMetal Jr / Bass TightMetal Jr / TightMetal ST / limited TightMetal editions - TightMetal distortion lineage
+- TightRock / TightRock Jr / Performance Series Tight Rock - TightRock distortion lineage
+- BigRock Pro / BigRock Pro II - Rock overdrive/distortion lineage
+- FatRock Distortion - historical
+- FatMetal / FatMetal Pro / FatMetal Pro II - FatMetal distortion lineage
+
+Fuzz:
+- TightFuzz / TightFuzz Pro / TightFuzz Jr / Bass TightFuzz / Bass TightFuzz Jr / Tim Lefebvre Signature TightFuzz - TightFuzz family
+- BluesFuzz / BluesFuzz Limited / BluesFuzz Jr / Bass BluesFuzz Jr - BluesFuzz family
+
+Key overlap:
+- BigRock Pro / BigRock Pro II = Overdrive + Distortion
+
+Key restraint: TightDrive and Bass TightDrive remain Overdrive despite heavy-gain language. TightRock and TightMetal remain Distortion because their named product identities and manuals explicitly call them distortion pedals. FatMetal remains Distortion despite broad gain range. TightFuzz and BluesFuzz remain Fuzz despite lower-gain, boost, EQ, or attack modes. TightMetal limited editions, Jr versions, Pro versions, and Bass versions are consolidated into the TightMetal lineage; TightRock variants are consolidated into TightRock; TightFuzz variants are consolidated into TightFuzz; BluesFuzz Limited and Jr variants are consolidated into BluesFuzz. DepthFinder, DeFizzerator, Curveball, PressuRizer, TightBoost, and SwirlPool remain outside the dirt census. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
 ## Last research commit
-`37fd6fe2857ed98ba4c0194f496cb0432dd8b756`
+`afda147c6594f229c9efa3d3a564d5a8eb28132f`
 
 ## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-126.md` saved
-- `CURRENT_STATE.md` updated through Block 126
-- `research/BREADCRUMB.md` updated through Block 126
+- `research/builders/BLOCK-2026-09-17-127.md` saved
+- `CURRENT_STATE.md` updated through Block 127
+- `research/BREADCRUMB.md` updated through Block 127
 
 ## Next action
 Continue the fresh Builder -> Pedals census only. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
