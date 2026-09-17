@@ -8,7 +8,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 - **372 canonical builder identities** are represented by the current live Builder -> Pedals block set.
 - **413 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **172 block files** are currently present: Blocks 001-069, 071-141, and 143-175.
+- **173 block files** are currently present: Blocks 001-069, 071-141, and 143-175.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
 - The current builder mentions collapse to 372 canonical identities after duplicate/alias consolidation.
