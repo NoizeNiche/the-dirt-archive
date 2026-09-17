@@ -25,18 +25,18 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 057.
+Research blocks stored under `research/builders/` now run through Block 058.
 
-Latest addition in Block 057:
-- Stomp Under Foot — Matt Pasquerella
+Latest addition in Block 058:
+- Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez
 
 Recent blocks:
-- Block 052: MI Audio / MI Effects — Michael Ibrahim
 - Block 053: Audiolithe — Christophe & Gaëtan
 - Block 054: Barbarossa — Newtool
 - Block 055: BIXONIC — Bright International Corp. / BIXONIC Inc.; relaunched under Kikusui Electronics Corp.
 - Block 056: McGregor Pedals — Garth McGregor Heslop
 - Block 057: Stomp Under Foot — Matt Pasquerella
+- Block 058: Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -83,15 +83,16 @@ Block 054 records Barbarossa — Newtool dirt products using Newtool's official 
 Block 055 records BIXONIC dirt products using BIXONIC's official Story/history, New Arrival material, official EXP2000DR page, and official Axentrix II/product announcements. The block records the historical EXPANDORA family and AXENTRIX A1 across Overdrive, Distortion, and Fuzz; EXP2000DR and AXENTRIX II are conservatively recorded under Distortion and Fuzz only.
 Block 056 records McGregor Pedals — Garth McGregor Heslop dirt products using McGregor Pedals' official catalog, individual product pages, and official press page. The block includes explicit Overdrive, Distortion, and Fuzz relationships; Crunch Plus is both Overdrive and Distortion, The Cozmic Fuzzball is Distortion/Fuzz, and The Classic Fuzz remains Fuzz only.
 Block 057 records Stomp Under Foot — Matt Pasquerella dirt products using the current Stomp Under Foot catalog plus Premier Guitar, Guitar Pedal X, and Effects Database for historical/product-level corroboration. The block spans Overdrive, Distortion, and Fuzz; Full Powered Halo is explicitly both Overdrive and Distortion, Skinner Box remains Distortion despite lower-gain overdrive capability, and fuzz-family products are not inflated into additional categories.
+Block 058 records Dirty Boy Pedals / Dirty Boy Co. — Alex Saraceno; revived under Danny Gomez, using Dirty Boy Co.'s official effects catalog and product pages plus Warm Audio's official Dirty Boy Jr. materials and authoritative collaboration coverage. The block spans Overdrive and Fuzz; PREAMP and Dirty Boy Jr. Overdrive are explicit Overdrive identities, AFRO FUZZ, The Magical MYSTERY FUZZ, and Dirty Boy Jr. Fuzz are explicit Fuzz identities, and no standalone Distortion identity is promoted.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 057.
+Added and re-read Builder → Pedals research Block 058.
 
 Research block commit:
-`2b82554db81be87539b00f340e1845caf3690878`
+`2140b6450bd644217c705bba4b078e7ecd52c954`
 
 Research block content SHA:
-`f4b29e06b5ed039d6c03b55760566419c87a964c`
+`3732570a17c49d5cbc6ed96c3c99e5fde364a4ad`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
