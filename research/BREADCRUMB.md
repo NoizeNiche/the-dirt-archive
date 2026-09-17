@@ -8,14 +8,16 @@ September 17, 2026
 
 Fresh builder/product census only. Record builder names and their overdrive, distortion, and fuzz pedals. The key workflow is to collect the data, compare it against the accumulated census, consolidate duplicates, and keep expanding.
 
-## Canonical builder state
-`research/BUILDER_MASTER_INDEX.md` is the canonical identity ledger for this phase.
+## Canonical data state
+`research/BUILDER_MASTER_INDEX.md` is the canonical builder identity ledger.
+
+`research/MASTER_PEDAL_CENSUS.csv` is the canonical accumulated pedal table for the current phase. It uses only **Builder | Pedal | Type**, with Type limited to Overdrive, Distortion, and Fuzz.
 
 Current live checkpoint:
-- **106 canonical builder identities**
-- **141 builder mentions**
 - **140 live block files**
-- **35 duplicate/alias mentions** that collapse into the 106 canonical identities
+- **231 builder sections** parsed from those blocks
+- **2,466 master census rows**
+- **103 builder names** currently represented in the pedal census
 - Live blocks: **001-069 and 071-141**
 - **Block 070 is absent**
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** because Fairfield Circuitry is already represented by Block 102
@@ -23,39 +25,12 @@ Current live checkpoint:
 ## Duplicate prevention
 A research block is a chronological checkpoint, not a builder ID. Before creating any new builder block, check `research/BUILDER_MASTER_INDEX.md` by current name, historical name, alias, alternate spelling, and known successor/predecessor name.
 
-If the builder is already present, do not create a second builder census block. Extend the existing canonical builder record instead.
+Before adding pedals, compare the new pedal names against `research/MASTER_PEDAL_CENSUS.csv` and add only the missing products.
 
-Before adding pedals, compare the new pedal names against the accumulated census and add only the missing products.
+## Master census generation
+`tools/build_master_pedal_census.py` reads the accumulated builder blocks and produces the master pedal table. `.github/workflows/rebuild-master-census.yml` rebuilds it automatically when the live research collection changes.
 
-## Confirmed repeated builder groups
-- Amptweaker: 043, 127
-- Analog Man: 006, 118
-- Barber Electronics: 015, 125
-- Beetronics FX: 020, 123
-- Black Arts Toneworks: 101, 134
-- BlackOutEffectors: 050, 113
-- Catalinbread Effects: 004, 116, 132
-- Crazy Tube Circuits: 017, 122
-- Death By Audio: 010, 096, 135
-- Dr. Scientist Sounds: 036, 037, 106
-- EarthQuaker Devices: 002, 098, 129
-- Electronic Audio Experiments: 018, 100
-- Friedman Amplification: 009, 011, 126
-- Fulltone: 001, 105
-- Greer Amps: 014, 120
-- IdiotBox Effects: 042, 107
-- JHS Pedals: 003, 117, 130
-- Keeley Electronics: 062, 133
-- Mythos Pedals: 023, 114
-- Old Blood Noise Endeavors: 019, 104
-- ProCo Sound: 008, 012, 138
-- Spaceman Effects: 103, 136
-- Suhr: 025, 121
-- ThorpyFX: 109, 137
-- Walrus Audio: 064, 131
-- Wampler Pedals: 063, 128
-- Way Huge: 040, 140
-- ZVEX Effects: 065, 141
+The generator removes grouped research notes, explanatory prose, embedded citation tokens, and placeholder statements that do not name a pedal. The research blocks themselves remain intact as working notes.
 
 ## Corrective work completed
 - Added the canonical master builder index.
@@ -64,9 +39,11 @@ Before adding pedals, compare the new pedal names against the accumulated census
 - Corrected `CURRENT_STATE.md` to the live census checkpoint.
 - Removed the duplicate Fairfield Circuitry Block 142.
 - Removed unnecessary evidence and verification bureaucracy from the project rules.
+- Created the accumulated master pedal census from all current research blocks.
+- Added automatic rebuilding of the master pedal census.
 
 ## Next action
-Do not infer the next builder from the next block number. Select the next builder only from names absent from the canonical master index. Then compare that builder's pedal list against the accumulated census before adding anything new.
+Do not infer the next builder from the next block number. Use the master builder and pedal tables to choose the next unrepresented builder and to compare every newly found pedal against the accumulated census before adding more research.
 
 ## Hard scope boundary
 No photos. No biographies. No deep history. No components. No schematics. No PCB work. No BOMs. No internal imagery. No cloning information. No unrelated website/UI architecture.
