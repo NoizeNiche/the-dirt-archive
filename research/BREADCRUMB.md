@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–025 are stored under `research/builders/`.
+- Fresh research Blocks 001–026 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -40,12 +40,13 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 023 covers Mythos Pedals and Hudson Electronics.
 - Block 024 covers Seymour Duncan and J. Rockett Audio Designs.
 - Block 025 covers Suhr and Jackson Audio.
+- Block 026 covers JAM Pedals and Mad Professor Amplification.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`28de596611c881bc6feead25cc4d5d231f61467d`
+`20daecac941a35b22ad08c11df64ec03b21b87fe`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prioritize another multi-pedal builder or builder group not already covered. Verify product names against primary or authoritative catalog sources before recording them.
