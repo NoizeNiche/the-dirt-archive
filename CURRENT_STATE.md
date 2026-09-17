@@ -25,18 +25,18 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 036. An accidental duplicate Block 037 file was created during tool cleanup and remains pending deletion; it is not part of the census and must not be treated as research progress.
+Research blocks stored under `research/builders/` now run through Block 037.
 
-Latest valid addition in Block 036:
-- Dr. Scientist Sounds
+Latest addition in Block 037:
+- OKKO FX — Heiko Lauenroth
 
 Recent blocks:
-- Block 031: Lichtlaerm Audio, Does It Doom?
 - Block 032: BJFE / BJF Electronics — Björn Juhl
 - Block 033: Foxrox Electronics, Pete Cornish / Pete Cornish Effects
 - Block 034: Himmelstrutz Elektro Art — Joakim Hedeby
 - Block 035: Daredevil Pedals — Johnny Wator
 - Block 036: Dr. Scientist Sounds
+- Block 037: OKKO FX — Heiko Lauenroth
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -62,15 +62,16 @@ Block 033 records Foxrox Electronics and Pete Cornish / Pete Cornish Effects dir
 Block 034 records Himmelstrutz Elektro Art dirt products using Himmelstrutz's official download archive, owner manuals, and historical manufacturer documentation. Unclear identities remain verification leads rather than forced classifications.
 Block 035 records Daredevil Pedals — Johnny Wator dirt products using Daredevil's official catalog/product pages and authoritative distributor/historical catalog references. Boost-only products remain outside the categorized dirt census, and British Black Belt remains a verification lead rather than a forced classification.
 Block 036 records Dr. Scientist Sounds dirt products using the current official catalog and individual official product pages. The block conservatively excludes non-dirt products and does not promote unsupported historical names.
+Block 037 records OKKO FX — Heiko Lauenroth dirt products using OKKO's current official catalog, individual official product pages, and official business/legal pages. Non-dirt products and boost-only identities remain outside the categorized census.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 036.
+Added and re-read Builder → Pedals research Block 037.
 
 Research block commit:
-`3fd19c2721e6e084116547571d7ea53480338a1f`
+`4c09ae9c490e7c61d3696716d7d2822821fd4d1b`
 
 ## Next action
-Delete the accidental duplicate Block 037 file, then continue the fresh Builder → Pedals census with a genuinely new builder.
+Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
 
 ## Must not touch
 Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website architecture.
