@@ -14,8 +14,8 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–080 are stored under `research/builders/`.
-- Blocks 001–079 remain the established prior research stream in the repository.
+- Fresh research Blocks 001–081 are stored under `research/builders/`.
+- Blocks 001–080 remain the established prior research stream in the repository.
 - Block 061 covers Skreddy Pedals — Marc Ahlfs, using Skreddy Pedals' official About page, current Overdrive/Fuzz/all-products indexes, Big Muff and ToneBender variant indexes, and individual manufacturer product pages/manuals. The block records 13 current Overdrive identities; explicit Distortion identities are kept conservative because the current manufacturer site has no separate Distortion category; and current manufacturer Fuzz material supplies the fuzz-family identities. Non-dirt utilities, modulation, delay, boost-only products, and amp-emulator platforms are excluded.
 - Block 062 covers Keeley Electronics — Robert Keeley, using Keeley Electronics' official About page, current shop/product index, current Distortion/Drive/Boost/Fuzz category, and individual manufacturer product/archive pages. The block records current and clearly documented historical Overdrive, Distortion, and Fuzz identities, keeps explicit category overlaps, and consolidates cosmetic, B-stock, and closely related limited-edition variants.
 - Block 063 covers Wampler Pedals — Brian Wampler, using Wampler's official About page, current Distortion/Overdrive and Fuzz catalog/tag indexes, official Downloads/manual archive, and individual manufacturer product pages/manuals. The block records current and clearly documented historical Overdrive, Distortion, and Fuzz identities, keeps explicit category overlaps, consolidates limited/cosmetic editions, and leaves weakly supported historical names as verification leads rather than forcing them into the census.
@@ -36,17 +36,18 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 078 covers MESA/Boogie, using MESA/Boogie's official Drive Pedals catalog, individual product pages, manuals archive, manufacturer-authored launch material, Boost Pedals catalog, and specialist product documentation where manufacturer category wording is less direct. The block records Cleo, DynaPlex, Gold Mine, Grid Slammer, Flux-Drive, Flux-Five, Throttle Box, Throttle Box EQ, and Tone-Burst as Overdrive; Flux-Drive, Throttle Box, and Throttle Box EQ as Distortion; and no standalone MESA/Boogie Fuzz identity. Tone-Burst is included under Overdrive because MESA explicitly identifies it as Boost/Overdrive. Flux-Five and Throttle Box EQ remain distinct named products, while cosmetic and production variants are consolidated.
 - Block 079 covers TC Electronic, using TC Electronic's official current product catalog, individual product pages, manufacturer-authored Vintage Pedals, VPD1, and NOVA Drive manuals, and authoritative product documentation for older TC Electronic dirt models. The block records MojoMojo Overdrive, MojoMojo Paul Gilbert Signature, Zeus Drive, El Cambo, Cinders, Tube Pilot, Vintage Overdrive, VPD1, and Nova Drive as Overdrive; Dark Matter, Eyemaster, Grand Magus, Magus Pro, Fangs, Röttweiler, Vintage Distortion, Vintage Dual Distortion, and Nova Drive as Distortion; and Honey Pot Fuzz and Rusty Fuzz as Fuzz. Nova Drive is the explicit Overdrive + Distortion overlap. Historical/manual-supported identities are retained, while boost-only utilities, TonePrint presets, and non-dirt effects remain excluded.
 - Block 080 covers Strymon, using Strymon's official current Drive product category, individual product pages, and manufacturer-authored product/manual/support material for Sunset, Riverside, Fairfax, Canoga, and Deco V2. The block records Sunset Dual Overdrive, Riverside Drive & Distortion, Fairfax Class A Output Stage Drive, and Deco Tape Saturation & Doubletracker as Overdrive; Riverside Drive & Distortion and Canoga Vintage Silicon Fuzz as Distortion; and Canoga Vintage Silicon Fuzz as Fuzz. Canoga receives both Distortion and Fuzz because Strymon explicitly says it works as a fuzz or distortion. Deco V2 is consolidated with Deco; boost-only utilities and non-dirt products remain excluded.
+- Block 081 covers Marshall Amplification, using Marshall's official current Pedals catalog, individual current Overdrive Pedal and Vintage Reissue product pages, manufacturer-authored pedal-history material, the manufacturer-authored/preserved Jackhammer and Bluesbreaker II manuals, and authoritative historical product classification for the Guv'nor Plus. The block records 1959, JCM800, JCM900, DSL, JVM, Bluesbreaker, Guv'nor, Drivemaster, Bluesbreaker II, Guv'nor Plus, and Jackhammer as Overdrive; Drivemaster, Shredmaster, Guv'nor Plus, and Jackhammer as Distortion; and Supa Fuzz as Fuzz. Drivemaster, Guv'nor Plus, and Jackhammer are the explicit Overdrive + Distortion overlaps. The original/reissue relationship is consolidated except where separately named models such as Drivemaster, Guv'nor Plus, and Bluesbreaker II represent distinct product identities. Boost-only modes, DRP-1, Park-branded products, and weak historical series references remain excluded.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`4b1a6fef47b7e7441e039667a59f9dfce1e35d97`
+`93ff335e978004bad70163c513bb0647fd14d71c`
 
 ## Last checkpoint files
-- `CURRENT_STATE.md` updated in commit `25bb03304f74db22ae83ec6bd917e092320ec665`
-- `research/builders/BLOCK-2026-09-17-080.md` content SHA: `25faf4ba088cee5024f47bc455c25fab7a34caf0`
-- `CURRENT_STATE.md` content SHA: `799e364561ef16e27c7f87f417d78a40885c3dd0`
+- `CURRENT_STATE.md` updated in commit `aa93838658f8cfe2e53566c0c330fb9cdda187fc`
+- `research/builders/BLOCK-2026-09-17-081.md` content SHA: `3f38c71db32311e6df15f7aeb5884669776b14c1`
+- `CURRENT_STATE.md` content SHA: `f027f8710f337e2ebcd22ffbe5fb225122f2d877`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
