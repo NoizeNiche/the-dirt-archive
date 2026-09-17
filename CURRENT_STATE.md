@@ -33,6 +33,7 @@ Research blocks added:
 - `research/builders/BLOCK-2026-09-16-005.md`
 - `research/builders/BLOCK-2026-09-16-006.md`
 - `research/builders/BLOCK-2026-09-16-007.md`
+- `research/builders/BLOCK-2026-09-16-008.md`
 
 Builders covered so far:
 - Fulltone
@@ -49,6 +50,8 @@ Builders covered so far:
 - ZVEX Effects
 - Analog Man
 - BOSS
+- ProCo Sound
+- Keeley Electronics
 
 Block 001 records Fulltone, MXR, Maxon, and DOD.
 Block 002 records EarthQuaker Devices and Wampler Pedals.
@@ -57,12 +60,13 @@ Block 004 records Catalinbread Effects and Xotic Effects / Xotic California.
 Block 005 records Ibanez and ZVEX Effects.
 Block 006 records Analog Man dirt products from the manufacturer's official pages and manuals.
 Block 007 records BOSS current and historical dirt products from official BOSS/Roland catalogs, manuals, and historical catalog material.
+Block 008 records ProCo Sound and Keeley Electronics dirt products, with product names checked against manufacturer or authoritative catalog material.
 
 ## Last completed research action
-Added and verified Builder → Pedals research Block 007.
+Added and corrected Builder → Pedals research Block 008.
 
 Research block commit:
-`ccbd8375e7dae1d20645905af7f3d06e3aaf08e6`
+`8dae07021030fad1adac09a1b960d11db3acf33b`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
