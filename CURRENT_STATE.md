@@ -25,11 +25,11 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 023.
+Research blocks stored under `research/builders/` now run through Block 024.
 
-Latest additions in Block 023:
-- Mythos Pedals
-- Hudson Electronics
+Latest additions in Block 024:
+- Seymour Duncan
+- J. Rockett Audio Designs
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -42,12 +42,13 @@ Block 020 records Beetronics, KMA Machines, and Alexander Pedals dirt products u
 Block 021 records Zander Circuitry, Dawner Prince Electronics, and Land Devices dirt products using manufacturer catalogs and official product pages.
 Block 022 records 1981 Inventions and Bondi Effects dirt products using manufacturer catalogs and official product pages.
 Block 023 records Mythos Pedals and Hudson Electronics dirt products using current manufacturer catalogs and official product pages.
+Block 024 records Seymour Duncan and J. Rockett Audio Designs dirt products using current manufacturer catalogs and official manufacturer documentation, with authoritative legacy references where needed.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 023.
+Added and re-read Builder → Pedals research Block 024.
 
 Research block commit:
-`eb9e0639b0f713252b7b3a69f716cb78b3d375ce`
+`983214240a2910a48513d6b2338ebe9334d6f32e`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
