@@ -25,18 +25,19 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 032.
+Research blocks stored under `research/builders/` now run through Block 033.
 
-Latest addition in Block 032:
-- BJFE / BJF Electronics — Björn Juhl
+Latest addition in Block 033:
+- Foxrox Electronics — Dave Fox
+- Pete Cornish / Pete Cornish Effects
 
 Recent blocks:
-- Block 027: KHDK Electronics, Stone Deaf FX
 - Block 028: Vemuram
 - Block 029: Origin Effects, Vertex Effects
 - Block 030: Source Audio
 - Block 031: Lichtlaerm Audio, Does It Doom?
 - Block 032: BJFE / BJF Electronics — Björn Juhl
+- Block 033: Foxrox Electronics, Pete Cornish / Pete Cornish Effects
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -58,12 +59,13 @@ Block 029 records Origin Effects and Vertex Effects dirt products using current 
 Block 030 records Source Audio dirt products using the current manufacturer catalog and official product documentation.
 Block 031 records Lichtlaerm Audio and Does It Doom? dirt products using current manufacturer catalogs and official product pages, with uncertain Does It Doom? classifications deliberately left in a verification queue rather than forced into categories.
 Block 032 records BJFE / BJF Electronics — Björn Juhl dirt products using the BJFE/BearFoot archival registry and product-description archive, cross-checked against official One Control pages that explicitly identify Björn Juhl/BJF/BJFE relationships.
+Block 033 records Foxrox Electronics and Pete Cornish / Pete Cornish Effects dirt products using current and historical manufacturer catalog/product pages and official product documentation.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 032.
+Added and re-read Builder → Pedals research Block 033.
 
 Research block commit:
-`46704d5ab18eacccedb1b69480c38a3e5197a57c`
+`44b5e764e02ac80797b5b50d72f47a65d1cb724f`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
