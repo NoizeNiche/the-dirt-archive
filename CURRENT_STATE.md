@@ -68,7 +68,7 @@ Block 037 records OKKO FX — Heiko Lauenroth dirt products using OKKO's current
 Added and re-read Builder → Pedals research Block 037.
 
 Research block commit:
-`4c09ae9c490e7c61d3696716d7d2822821fd4d1b`
+`e232b7e2413009e3b552abc216e66845db0e494e`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
