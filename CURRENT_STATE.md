@@ -25,20 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 096**.
+Research blocks stored under `research/builders/` now run through **Block 097**.
 
 Latest addition:
-- Block 096: Death By Audio — Oliver Ackermann
+- Block 097: Fjord Fuzz — Daniel Thornhill
 
 Recent blocks:
-- Block 091: Mid-Fi Electronics
 - Block 092: VFE Pedals
 - Block 093: Empress Effects
 - Block 094: Dwarfcraft Devices
 - Block 095: Mask Audio Electronics
 - Block 096: Death By Audio
+- Block 097: Fjord Fuzz
 
-Blocks 001–095 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–096 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 094 summary
 Dwarfcraft Devices is treated as an unrepresented builder identity with a historically broad and highly experimental standalone dirt catalog. Product-level category labels and builder/retailer descriptions were combined conservatively because Dwarfcraft frequently crosses the fuzz, distortion, and overdrive boundary.
@@ -107,7 +107,7 @@ Fuzz:
 - NO. (historical / discontinued)
 - Ears Come To Die (historical limited-edition Fuzz Lab)
 
-Germanium Part Garden and Part Garden are retained in both Overdrive and Fuzz because MAE explicitly describes both functions. LARAN (prebuilt) is retained in both because the official product page describes it as a fuzz with a range from mild crisp overdrive to full-on fuzz. TRUST YOURSELF is retained under Distortion because the MAE page identifies its Rat basis and independent pedal-reference material classifies it as a RAT-style distortion. MAYBE, Cascader, and the BSRI collaboration remain Fuzz-only despite descriptions of distortion/overdrive territory because MAE presents those as operating ranges around a fuzz identity rather than separate named distortion products.
+Germanium Part Garden and Part Garden are retained in both Overdrive and Fuzz because MAE explicitly describes both functions. LARAN (prebuilt) is retained in both because the official product page describes a mild-overdrive to full-fuzz range. TRUST YOURSELF is retained under Distortion because the MAE page identifies its Rat basis and independent pedal-reference material classifies it as a RAT-style distortion. MAYBE, Cascader, and the BSRI collaboration remain Fuzz-only despite descriptions of distortion/overdrive territory because MAE presents those as operating ranges around a fuzz identity rather than separate named distortion products.
 
 DIY-only projects and kits, modulation products such as ALONE and NECKBRACE, SEND-IN MODS, and the unresolved `???` listing remain excluded. Former production identities documented through current MAE DIY pages, including YES!, NO., and the limited-edition Ears Come To Die fuzz, are retained as historical pedal identities without separately counting the DIY listings.
 
@@ -134,17 +134,50 @@ Interstellar Overdriver is explicitly identified by Death By Audio as a true ove
 
 Evil Filter, Echo Dream 2, Time Shadows II, Amp Crash, Thee Treble Overload, Space Bender, Moonbeam Phaser, Reverberation Machine, Rooms, vocal effects, utilities, and other non-target products remain excluded. Historical leads such as Armageddon and Waveformer Destroyer were not promoted because the reviewed current manufacturer material did not establish sufficiently direct product-level target-category evidence.
 
+### Block 097 summary
+Fjord Fuzz is treated as a previously uncovered builder identity in the fresh census, centered on Daniel Thornhill and based in Bergen, Norway. The official site maintains dedicated Fuzz and Main Line-Up sections, while the builder's own product pages and official videos document current and recent fuzz products. Specialist historical coverage was used only to corroborate older products that are no longer prominently exposed in the current storefront.
+
+Overdrive:
+- Embla — historical / discontinued identity
+
+Distortion:
+- None established with sufficient product-level evidence
+
+Fuzz:
+- Odin
+- Midgard
+- Thor
+- Midnattsol
+- Dovre
+- Hedda
+- Måne
+- SOL
+- Embla — historical / discontinued identity
+- Bifrost — historical / discontinued identity
+- Gjallarhorn — historical identity
+- Berserk — consolidated identity across V1/V2/V3
+- Freia — historical / discontinued identity
+- Kvasir — historical / discontinued identity
+- Mjølner — historical identity
+- Bjørn — historical identity
+- Bufo — historical identity
+- Fjord-Fuzz Super-Fuzz — historical identity
+
+The clearest explicit Overdrive + Fuzz case is Embla: the builder describes it as a fuzz designed to behave like an overdrive. The current Odin, Midgard, Thor, and Midnattsol pages/catalog sections explicitly establish fuzz identities. Dovre, Måne, and Freia are also explicitly documented by Fjord Fuzz as fuzz-focused products, with reverb/filter/vibe functions kept outside the dirt census. No standalone Distortion identity was established strongly enough to promote.
+
+Frei/Frei 2, Loke, FJÆR, Mime, Njord, and Frøy remain excluded because their primary identities are modulation, delay, reverb, or related non-dirt functions. Neighboring drive ranges inside fuzz products are not promoted into additional dirt categories unless the builder establishes the target function as part of the product identity. Normal revisions and finishes are consolidated.
+
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 096.
+Added and re-read Builder → Pedals research Block 097.
 
 Research block commit:
-`c53c180adbd887caf2691fcb101f095c72a5d654`
+`90c618d42998df14542463991127d34b003a24be`
 
 Research block content SHA:
-`8984e595d87613b1b85da0f5506fadc3dace18da`
+`6a1c7ce4ce5c01ca4cbbef1c4f6f99e5b64178e1`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
