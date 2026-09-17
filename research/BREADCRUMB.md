@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–020 are stored under `research/builders/`.
+- Fresh research Blocks 001–025 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -35,12 +35,17 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 018 covers Electronic Audio Experiments, Browne Amplification, and Black Mass Electronics.
 - Block 019 covers Old Blood Noise Endeavors, Fairfield Circuitry, and Fuzzrocious Pedals.
 - Block 020 covers Beetronics, KMA Machines, and Alexander Pedals.
+- Block 021 covers Zander Circuitry, Dawner Prince Electronics, and Land Devices.
+- Block 022 covers 1981 Inventions and Bondi Effects.
+- Block 023 covers Mythos Pedals and Hudson Electronics.
+- Block 024 covers Seymour Duncan and J. Rockett Audio Designs.
+- Block 025 covers Suhr and Jackson Audio.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`4eb89c62366f8a34718d401693bfeb17ea2cbee9`
+`28de596611c881bc6feead25cc4d5d231f61467d`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prioritize another multi-pedal builder or builder group not already covered. Verify product names against primary or authoritative catalog sources before recording them.
