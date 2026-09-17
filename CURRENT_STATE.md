@@ -25,20 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 095**.
+Research blocks stored under `research/builders/` now run through **Block 096**.
 
 Latest addition:
-- Block 095: Mask Audio Electronics — Alec Breslow
+- Block 096: Death By Audio — Oliver Ackermann
 
 Recent blocks:
-- Block 090: Radial Engineering / Tonebone
 - Block 091: Mid-Fi Electronics
 - Block 092: VFE Pedals
 - Block 093: Empress Effects
 - Block 094: Dwarfcraft Devices
 - Block 095: Mask Audio Electronics
+- Block 096: Death By Audio
 
-Blocks 001–094 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–095 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 094 summary
 Dwarfcraft Devices is treated as an unrepresented builder identity with a historically broad and highly experimental standalone dirt catalog. Product-level category labels and builder/retailer descriptions were combined conservatively because Dwarfcraft frequently crosses the fuzz, distortion, and overdrive boundary.
@@ -75,7 +75,7 @@ Fuzz:
 - The Secret Destroyer
 - Zhago
 
-The strongest documented overlaps are The Internet (Overdrive + Distortion), Robot Devil (Fuzz + Overdrive), Spectacular Aenima (Overdrive + Fuzz), Baby Thundaa / Baby Thunder (Fuzz + Distortion), Eau Claire Thunder (Fuzz + Distortion), and The Great Destroyer (Fuzz + Distortion).
+The strongest documented overlaps are The Internet (OD + Distortion), Robot Devil (Fuzz + OD), Spectacular Aenima (OD + Fuzz), Baby Thundaa / Baby Thunder (Fuzz + Distortion), Eau Claire Thunder (Fuzz + Distortion), and The Great Destroyer (Fuzz + Distortion).
 
 Dwarfcraft's catalog also contains many pure experimental effects. Synths, oscillators, pitch shifters, filters, modulation, delay/reverb, utility products, and other non-dirt designs remain excluded even when they can generate harsh or noisy sounds. Shiva is consolidated into SheFuzz because Dwarfcraft explicitly states that She Fuzz used to be called Shiva. Normal revisions and cosmetic editions do not create extra identities.
 
@@ -111,17 +111,43 @@ Germanium Part Garden and Part Garden are retained in both Overdrive and Fuzz be
 
 DIY-only projects and kits, modulation products such as ALONE and NECKBRACE, SEND-IN MODS, and the unresolved `???` listing remain excluded. Former production identities documented through current MAE DIY pages, including YES!, NO., and the limited-edition Ears Come To Die fuzz, are retained as historical pedal identities without separately counting the DIY listings.
 
+### Block 096 summary
+Death By Audio is treated as a previously uncovered builder identity in the fresh census. The manufacturer's current site documents distinct Overdrive, Distortion, and Fuzz collections and directly identifies Oliver Ackermann as founder. The reviewed dirt catalog is strongly fuzz-oriented, with one explicit standalone overdrive, two explicit distortion identities, and a set of fuzz pedals whose neighboring gain ranges are not promoted into extra categories without direct product-level support.
+
+Overdrive:
+- Interstellar Overdriver
+
+Distortion:
+- Germanium Filter
+- Absolute Destruction
+
+Fuzz:
+- Fuzz War
+- Bass War
+- Supersonic Fuzz Gun
+- Apocalypse
+- Octave Clang V2
+- Crossover Fuzz
+- Absolute Destruction
+
+Interstellar Overdriver is explicitly identified by Death By Audio as a true overdrive pedal. Germanium Filter is presented as “TRUE VINTAGE DISTORTION,” while Absolute Destruction explicitly includes both thick fuzz and crushing distortion, so Absolute Destruction is retained in both Distortion and Fuzz. Fuzz War, Bass War, Supersonic Fuzz Gun, Apocalypse, Octave Clang V2, and Crossover Fuzz remain Fuzz-only even where the manufacturer describes booster, overdrive, or distortion territory as part of their operating range.
+
+Evil Filter, Echo Dream 2, Time Shadows II, Amp Crash, Thee Treble Overload, Space Bender, Moonbeam Phaser, Reverberation Machine, Rooms, vocal effects, utilities, and other non-target products remain excluded. Historical leads such as Armageddon and Waveformer Destroyer were not promoted because the reviewed current manufacturer material did not establish sufficiently direct product-level target-category evidence.
+
+## Research posture
+This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
+
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 095.
+Added and re-read Builder → Pedals research Block 096.
 
 Research block commit:
-`9953b35b3f7cda161d407900ab235772202ef1ab`
+`c53c180adbd887caf2691fcb101f095c72a5d654`
 
 Research block content SHA:
-`39f1fab1c65102f280e75c9b796a9da15bda1f78`
+`8984e595d87613b1b85da0f5506fadc3dace18da`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
 
 ## Must not touch
-Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website/UI architecture.
+Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website architecture.
