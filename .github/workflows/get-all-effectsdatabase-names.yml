@@ -10,66 +10,70 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Scrape Effects Database
+      - name: Scrape all catalog pages in parallel
         run: |
           python - <<'PY'
           import html, re, time
-          import requests
+          from concurrent.futures import ThreadPoolExecutor, as_completed
           from pathlib import Path
+          import requests
 
           cats = {
-            'Overdrive': 'https://www.effectsdatabase.com/type/overdrive/pedal',
-            'Distortion': 'https://www.effectsdatabase.com/type/distortion/pedal',
-            'Fuzz': 'https://www.effectsdatabase.com/type/fuzz/pedal',
+            'Overdrive': ('https://www.effectsdatabase.com/type/overdrive/pedal', 54, 5365),
+            'Distortion': ('https://www.effectsdatabase.com/type/distortion/pedal', 34, 3390),
+            'Fuzz': ('https://www.effectsdatabase.com/type/fuzz/pedal', 42, 4126),
           }
-          out = Path('effectsdatabase_pedal_names.txt')
-          session = requests.Session()
-          session.headers.update({'User-Agent':'Mozilla/5.0'})
 
-          def get_page(target):
+          def fetch(item):
+              cat, base, page = item
+              target = base if page == 0 else f'{base}?page={page}'
               proxy = 'https://r.jina.ai/http://' + target.split('://',1)[1]
               last = None
               for attempt in range(4):
                   try:
-                      r = session.get(proxy, timeout=20)
+                      r = requests.get(proxy, timeout=25, headers={'User-Agent':'Mozilla/5.0'})
                       r.raise_for_status()
-                      return r.text
-                  except Exception as e:
-                      last = e
-                      print('retry', attempt+1, target, repr(e), flush=True)
-                      time.sleep(1 + attempt)
-              raise last
-
-          lines = []
-          for cat, base in cats.items():
-              lines += [f'## {cat}', '']
-              page = 0
-              seen = set()
-              while True:
-                  target = base if page == 0 else f'{base}?page={page}'
-                  print('GET', target, flush=True)
-                  text = get_page(target)
-                  found = []
-                  for m in re.finditer(r'^\s*\d+\.\s+\[([^\]]+)\]\([^\n]*?/model/[^\n]*?\)\s*$', text, re.M):
-                      name = html.unescape(' '.join(m.group(1).split())).strip()
-                      if name and name not in found:
-                          found.append(name)
-                  if not found:
-                      for m in re.finditer(r'\[([^\]]+)\]\(https?://www\.effectsdatabase\.com/model/[^)]+\)', text):
+                      text = r.text
+                      found = []
+                      for m in re.finditer(r'^\s*\d+\.\s+\[([^\]]+)\]\([^\n]*?/model/[^\n]*?\)\s*$', text, re.M):
                           name = html.unescape(' '.join(m.group(1).split())).strip()
                           if name and name not in found:
                               found.append(name)
-                  new = [x for x in found if x not in seen]
-                  print(f'{cat} page {page}: {len(found)} found, {len(new)} new', flush=True)
-                  if not new:
-                      break
-                  seen.update(new)
-                  lines.extend(new)
-                  page += 1
-                  if page > 200:
-                      raise RuntimeError('pagination guard')
-              print(f'{cat} TOTAL {len(seen)}', flush=True)
-              lines.append('')
+                      if not found:
+                          for m in re.finditer(r'\[([^\]]+)\]\(https?://www\.effectsdatabase\.com/model/[^)]+\)', text):
+                              name = html.unescape(' '.join(m.group(1).split())).strip()
+                              if name and name not in found:
+                                  found.append(name)
+                      return cat, page, found
+                  except Exception as e:
+                      last = e
+                      time.sleep(1 + attempt)
+              raise RuntimeError(f'{cat} page {page}: {last!r}')
+
+          results = {cat: {} for cat in cats}
+          jobs = [(cat, spec[0], page) for cat, spec in cats.items() for page in range(spec[1])]
+          with ThreadPoolExecutor(max_workers=8) as ex:
+              futures = [ex.submit(fetch, j) for j in jobs]
+              for i, fut in enumerate(as_completed(futures), 1):
+                  cat, page, found = fut.result()
+                  results[cat][page] = found
+                  print(f'{i}/{len(jobs)} {cat} page {page}: {len(found)} names', flush=True)
+
+          lines = []
+          for cat, (base, pages, expected) in cats.items():
+              names = []
+              for page in range(pages):
+                  if page not in results[cat] or not results[cat][page]:
+                      raise RuntimeError(f'{cat}: missing page {page}')
+                  names.extend(results[cat][page])
+              # Preserve catalog ordering and remove only exact duplicates.
+              ordered = list(dict.fromkeys(names))
+              print(f'{cat}: extracted {len(ordered)} unique names; expected {expected}', flush=True)
+              if len(ordered) != expected:
+                  raise RuntimeError(f'{cat}: extracted {len(ordered)}, expected {expected}')
+              lines += [f'## {cat}', ''] + ordered + ['']
+
+          out = Path('effectsdatabase_pedal_names.txt')
           out.write_text('\n'.join(lines), encoding='utf-8')
           print('WROTE', out, 'bytes', out.stat().st_size, flush=True)
           PY
