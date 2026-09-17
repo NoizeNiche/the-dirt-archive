@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–113 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–114 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 106: Dr. Scientist
 - 107: IdiotBox Effects
 - 108: Stone Deaf FX
 - 109: ThorpyFX
@@ -23,54 +22,15 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 111: Chase Bliss
 - 112: Hudson Electronics UK
 - 113: BlackOutEffectors
-
-## Block 112 — Hudson Electronics UK
-Hudson Electronics UK, Michael Hudson.
-
-Overdrive:
-- Broadcast — current
-- Sidecar — current
-- Broadcast-AP — current/legacy signature model
-- Motorcycle — limited collaboration with Joe's Pedals
-- Overdrive 999 — historical / discontinued
-
-Distortion:
-- Broadcast — current
-- Sidecar — current
-
-Fuzz:
-- Broadcast — current
-- Sidecar — current
-- Fuzz (MKIV Tone Bender) — historical / archived
-- White Heat — historical / archived
-- Full Range Bomb — historical / archived
-- Soul Bomb — historical / archived
-- Pretty Flamingo — historical / archived
-- Blackbird — historical / archived
-- Buzzard — historical / archived
-- Bluebird — historical / archived
-- Overdrive Eight Fifty — historical, lower-confidence classification
-- Standard Machine — historical
-- Shapes Of Things — historical
-- Buzzoid — historical
-- Stroll On — historical / archived
-- Stroll On Jnr — historical
-- Soul Face — historical / archived
-- Mr Soul — historical / archived
-
-Key restraint: Broadcast and Sidecar are explicitly documented by Hudson as spanning overdrive, distortion, and fuzz behavior. Broadcast-AP is kept Overdrive-only because Hudson explicitly describes clean boost through medium-gain overdrive and only notes fuzzy overload at maximum gain. Motorcycle is treated as an Overdrive product because Hudson describes it as a modified Sidecar overdrive and a revisit of the historical Overdrive 999.
-
-Pretty Flamingo remains Fuzz-only even though Hudson mentions lighter overdrive/distortion tones. Buzzard remains Fuzz-only despite the phrase "dense, chewy distortion." Full Range Bomb and Soul Bomb are Fuzz entries with boost sections; boost is outside scope. Broadcast AP-II remains uncategorized because its official description establishes a dual preamplifier and heavily distorted range but not a separate named target dirt identity strongly enough for conservative classification.
-
-Normal Broadcast retail/color variants and other ordinary editions are consolidated. Hudson's official archived catalog supplies the historical product pool; Effects Database and Premier Guitar are used only as supporting sources for a few surviving historical identities.
+- 114: Mythos Pedals
 
 ## Block 113 — BlackOutEffectors
-BlackOutEffectors is a previously uncovered builder with a compact, fuzz-heavy catalog and a smaller overdrive footprint. The surviving BlackOutEffectors site identifies the company as a boutique effects manufacturer founded in 2008, with the company beginning in Vancouver and moving to Asheville in 2009. The historical catalog is strongly associated with founder/designer Kyle Tompkins.
+BlackOutEffectors is a previously uncovered builder with a compact, fuzz-heavy catalog and a smaller overdrive footprint.
 
 Overdrive:
 - Mantra Overdrive — historical / established catalog product
 - Fix'd Fuzz / Fix'd Fuzz V3 — fuzz-based hybrid with explicit light-overdrive range
-- Fix'd Fuzz Deluxe — historical / deluxe hybrid; builder explicitly describes boost + overdrive alongside fuzz
+- Fix'd Fuzz Deluxe — historical / deluxe hybrid; explicit boost + overdrive alongside fuzz
 
 Distortion:
 - None established under the archive's conservative rule
@@ -81,21 +41,55 @@ Fuzz:
 - Musket Fuzz / Musket Fuzz V2 — historical/current catalog lineage
 - FUBÄR Fuzz — historical / limited
 - Blunderbuss Fuzz — historical / special-run hybrid fuzz
-- Twosome Dual Fuzz — historical; dual fuzz combining the Musket and Fix'd Fuzz Deluxe concepts
+- Twosome Dual Fuzz — historical; dual fuzz combining Musket and Fix'd Fuzz Deluxe concepts
 - Crystal Dagger — historical; octave-fuzz section combined with ring modulation / phasing functions
 - Fuzz Bear — historical / limited
 
-Key restraint: BlackOutEffectors explicitly labels Mantra as Overdrive and describes Fix'd Fuzz products as fuzz devices with boost/overdrive stages. The surviving builder catalog does not establish a separate Distortion product identity strongly enough for this census, so Musket, Blunderbuss, and the other aggressive fuzz products remain Fuzz-only. Secondary databases sometimes use broader distortion categories, but those are not promoted when they conflict with the builder's own identity.
+Key restraint: BlackOutEffectors explicitly labels Mantra as Overdrive and describes Fix'd Fuzz products as fuzz devices with boost/overdrive stages. The surviving builder catalog does not establish a separate Distortion product identity strongly enough for this census, so aggressive fuzz products remain Fuzz-only.
 
-Normal revisions and closely related limited runs are consolidated. Fix'd Fuzz/V3 and Musket/V2 remain single product lineages. Twosome special editions remain one Twosome lineage. Crystal Dagger stays Fuzz despite its octave/ring-mod/phaser functions. Gravity Boost and other boost-first products, plus Sibling, Whetstone, and Cadavernous, remain outside the target census.
+## Block 114 — Mythos Pedals
+Mythos Pedals, Zach Broyles / Mythos team. The official About page says Mythos began in 2010 and is operated by a small team outside Nashville. The current catalog separates Overdrive, Fuzz, Boost, Octave, Modulation, Utility, and Limited & Exclusive products, with a separate Retired Models collection.
+
+Overdrive:
+- Erlking Overdrive — current
+- Mjolnir Overdrive — current
+- Envy Pro Overdrive — current
+- Chupacabra CMOS Overdrive — current
+- Herculean Deluxe Overdrive — current
+- Olympus Overdrive — current
+- Extra Hot Dual Overdrive — current / dealer-exclusive
+- Extra Hot "Extra Spicy" Dual Overdrive — current / limited-exclusive
+- Herculean / Herculean V2 — historical lineage
+- 210 Double Drive Deluxe — historical / retired
+- SusMaryOsep — historical / retired collaboration
+
+Distortion:
+- The Victor Distortion — limited / historical-current release
+- Golden Fleece Fuzz — current
+
+Fuzz:
+- Golden Fleece Fuzz — current
+- Big Puft Fuzz Device — current lineage
+- Hephaestus Fuzz — current
+- Argo Octave Fuzz — current
+- Argo Boost Deluxe — current
+- 1347 Silicon Fuzz — limited / current
+- AU-79 Fuzz — limited / exclusive
+- High Road Fuzz Mini — limited / exclusive
+- Positron Fuzz / Positron Collider lineage — current + historical predecessor consolidated
+- 210 Double Drive Deluxe — historical / retired
+
+Key restraint: Golden Fleece is explicitly described by Mythos as blending Fuzz, Distortion, and Overdrive. 210 Double Drive Deluxe is Overdrive + Fuzz. AU-79 is Fuzz + Overdrive because Mythos explicitly calls it an overdrive-meets-fuzz design. Argo Boost Deluxe is recorded only as Fuzz because its other function is Boost. SusMaryOsep is Overdrive-only within scope because its other sections are treble boost and echo. Big Puft, Positron, Chupacabra, Herculean Deluxe, and Extra Hot remain in their builder-stated primary categories despite mentioning distortion or fuzz-like ranges.
+
+Mjolnir editions, Golden Fleece versions, Big Puft colorways, Positron's older Collider form, blemished listings, and routine dealer/finish variants are consolidated rather than counted as separate pedals. Boost-first, octave-up, modulation, delay, utility, and accessory products remain outside the target census.
 
 ## Last research commit
-`c492829eb6e8941dcae2040f2f97e6e40a796d75`
+`4b06afdaa7c813af4a30dc07c84b01cbdee13be2`
 
 ## Last checkpoint
-- `CURRENT_STATE.md` updated through Block 113
-- `research/builders/BLOCK-2026-09-17-113.md` saved and verified
-- `CURRENT_STATE.md` now records Block 113 and points to Block 114
+- `CURRENT_STATE.md` updated through Block 114
+- `research/builders/BLOCK-2026-09-17-114.md` saved and verified
+- `CURRENT_STATE.md` now records Block 114 and points to Block 115
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
