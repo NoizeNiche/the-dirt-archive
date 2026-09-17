@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–114 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–115 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 107: IdiotBox Effects
 - 108: Stone Deaf FX
 - 109: ThorpyFX
 - 110: Mr. Black
@@ -23,29 +22,7 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 112: Hudson Electronics UK
 - 113: BlackOutEffectors
 - 114: Mythos Pedals
-
-## Block 113 — BlackOutEffectors
-BlackOutEffectors is a previously uncovered builder with a compact, fuzz-heavy catalog and a smaller overdrive footprint.
-
-Overdrive:
-- Mantra Overdrive — historical / established catalog product
-- Fix'd Fuzz / Fix'd Fuzz V3 — fuzz-based hybrid with explicit light-overdrive range
-- Fix'd Fuzz Deluxe — historical / deluxe hybrid; explicit boost + overdrive alongside fuzz
-
-Distortion:
-- None established under the archive's conservative rule
-
-Fuzz:
-- Fix'd Fuzz / Fix'd Fuzz V3 — historical/current catalog lineage
-- Fix'd Fuzz Deluxe — historical / deluxe hybrid
-- Musket Fuzz / Musket Fuzz V2 — historical/current catalog lineage
-- FUBÄR Fuzz — historical / limited
-- Blunderbuss Fuzz — historical / special-run hybrid fuzz
-- Twosome Dual Fuzz — historical; dual fuzz combining Musket and Fix'd Fuzz Deluxe concepts
-- Crystal Dagger — historical; octave-fuzz section combined with ring modulation / phasing functions
-- Fuzz Bear — historical / limited
-
-Key restraint: BlackOutEffectors explicitly labels Mantra as Overdrive and describes Fix'd Fuzz products as fuzz devices with boost/overdrive stages. The surviving builder catalog does not establish a separate Distortion product identity strongly enough for this census, so aggressive fuzz products remain Fuzz-only.
+- 115: OKKO FX
 
 ## Block 114 — Mythos Pedals
 Mythos Pedals, Zach Broyles / Mythos team. The official About page says Mythos began in 2010 and is operated by a small team outside Nashville. The current catalog separates Overdrive, Fuzz, Boost, Octave, Modulation, Utility, and Limited & Exclusive products, with a separate Retired Models collection.
@@ -83,16 +60,42 @@ Key restraint: Golden Fleece is explicitly described by Mythos as blending Fuzz,
 
 Mjolnir editions, Golden Fleece versions, Big Puft colorways, Positron's older Collider form, blemished listings, and routine dealer/finish variants are consolidated rather than counted as separate pedals. Boost-first, octave-up, modulation, delay, utility, and accessory products remain outside the target census.
 
+## Block 115 — OKKO FX
+OKKO FX, Leipzig, Germany. The official site says OKKO has made pedals since 2003 and that its pedals are handbuilt in Leipzig. The current catalog contains multiple Overdrive and Distortion products plus Holy Grit and the current BFGRMWB fuzz release; specialist historical catalog evidence establishes Black Beast as a Fuzz + Distortion hybrid and preserves the original TwinSonic.
+
+Overdrive:
+- DIABLO DUAL — current
+- DIABLO GH Signature — current
+- TWINSONIC MKII — current
+- The Dynamist — current
+- TwinSonic — historical lineage
+- DIABLO — historical/current lineage consolidated with the Diablo family
+- Holy Grit — current hybrid Overdrive + Fuzz
+
+Distortion:
+- DIABLO DUAL — current
+- MOTÖRBASS — current
+- Black Beast — historical, explicitly documented as Fuzz + Distortion
+
+Fuzz:
+- HOLY GRIT — current hybrid Overdrive + Fuzz
+- BFGRMWB / Big Fucking Green Russian Muff With Benefits — current
+- Black Beast — historical hybrid Fuzz + Distortion
+
+Key restraint: DIABLO DUAL is explicitly an Overdrive + Distortion product; HOLY GRIT is explicitly an Overdrive + Fuzz hybrid; and Black Beast is documented as Fuzz + Distortion. TwinSonic MKII is presented by OKKO as two overdrive circuits, even though the combined gain can reach vintage distortion or fuzz territory, so it remains Overdrive-only. The Dynamist is retained as Overdrive because it is presented as the evolved Diablo Dual / dual-FET overdrive. Diablo GH remains Overdrive despite its independent clean boost because Boost is outside scope. BFGRMWB remains Fuzz-only.
+
+Normal anniversary, enclosure, color, and dealer variations are consolidated. DIABLO 20th Anniversary is treated as part of the Diablo lineage. Dirty Diablo is treated as a Diablo-family variation unless future evidence establishes a materially independent product identity. TwinSonic and TwinSonic MKII are retained as one lineage. Compressor, buffer, and other non-target products remain excluded.
+
 ## Last research commit
-`4b06afdaa7c813af4a30dc07c84b01cbdee13be2`
+`fea040e07c037193a5e85aa4e1ac4ae124a064c5`
 
 ## Last checkpoint
-- `CURRENT_STATE.md` updated through Block 114
-- `research/builders/BLOCK-2026-09-17-114.md` saved and verified
-- `CURRENT_STATE.md` now records Block 114 and points to Block 115
+- `CURRENT_STATE.md` updated through Block 115
+- `research/builders/BLOCK-2026-09-17-115.md` saved and verified
+- `CURRENT_STATE.md` now records Block 115 and points to Block 116
 
 ## Next action
-Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
+Continue the fresh Builder → Pedals census only. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
 
 ## Hard scope boundary
 No photos. No biographies. No deep history. No components. No schematics. No PCB work. No BOMs. No internal imagery. No cloning information. No variant rabbit holes. No unrelated website/UI architecture.
