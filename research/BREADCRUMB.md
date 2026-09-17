@@ -6,7 +6,7 @@ September 17, 2026
 ## Active mission
 **Builder -> Pedals. THAT'S IT.**
 
-Fresh builder/product census only. Record builder names and their overdrive, distortion, and fuzz pedals. Keep builder-to-pedal relationships explicit and verifiable.
+Fresh builder/product census only. Record builder names and their overdrive, distortion, and fuzz pedals. The key workflow is to collect the data, compare it against the accumulated census, consolidate duplicates, and keep expanding.
 
 ## Canonical builder state
 `research/BUILDER_MASTER_INDEX.md` is the canonical identity ledger for this phase.
@@ -24,6 +24,8 @@ Current live checkpoint:
 A research block is a chronological checkpoint, not a builder ID. Before creating any new builder block, check `research/BUILDER_MASTER_INDEX.md` by current name, historical name, alias, alternate spelling, and known successor/predecessor name.
 
 If the builder is already present, do not create a second builder census block. Extend the existing canonical builder record instead.
+
+Before adding pedals, compare the new pedal names against the accumulated census and add only the missing products.
 
 ## Confirmed repeated builder groups
 - Amptweaker: 043, 127
@@ -58,12 +60,13 @@ If the builder is already present, do not create a second builder census block. 
 ## Corrective work completed
 - Added the canonical master builder index.
 - Made the master index the no-duplicate gate in `START_HERE.md`.
-- Added the canonical identity rule and current checkpoint to `ARCHIVE_GOVERNANCE.md`.
+- Added the canonical identity and census workflow rules to `ARCHIVE_GOVERNANCE.md`.
 - Corrected `CURRENT_STATE.md` to the live census checkpoint.
 - Removed the duplicate Fairfield Circuitry Block 142.
+- Removed unnecessary evidence and verification bureaucracy from the project rules.
 
 ## Next action
-Do not infer the next builder from the next block number. Select the next builder only from names absent from the canonical master index.
+Do not infer the next builder from the next block number. Select the next builder only from names absent from the canonical master index. Then compare that builder's pedal list against the accumulated census before adding anything new.
 
 ## Hard scope boundary
-No photos. No biographies. No deep history. No components. No schematics. No PCB work. No BOMs. No internal imagery. No cloning information. No variant rabbit holes. No unrelated website/UI architecture.
+No photos. No biographies. No deep history. No components. No schematics. No PCB work. No BOMs. No internal imagery. No cloning information. No unrelated website/UI architecture.
