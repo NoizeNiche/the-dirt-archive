@@ -22,9 +22,9 @@ The website currently loads the catalog plus the active scrape census files:
 
 Multiple rows can represent one pedal when the cataloged pedal belongs to more than one dirt type.
 
-The canonical builder index is now at **305 canonical builder identities through Block 166**. Block 166 established five new canonical builder identities and adds verified pedal records for Century, César Diaz, ChadderBox Effects, Champion City Effects, and Champion Leccy. Existing builders continue to be expanded under their existing identities rather than duplicated.
+The canonical builder index remains at **305 canonical builder identities through Block 166** in `research/BUILDER_MASTER_INDEX.md`. Scrape C Block 167 establishes **12 additional verified canonical builder identities, 306-317**, covering Ceriatone through Cusack Music. Existing builders continue to be expanded under their existing identities rather than duplicated. The master index itself remains at the Block 166 checkpoint and needs its next canonical-index consolidation.
 
-Block 164 contributed **90 company/pedal/type rows** to the C-section working census. Block 165 contributed **17 verified company/pedal/type rows**. Block 166 contributes **21 verified company/pedal/type rows** in `research/SCRAPE_C_BLOCK_166_ADDENDUM.csv`, and those rows have now been consolidated into `research/SCRAPE_C_CENSUS.csv`.
+Block 164 contributed **90 company/pedal/type rows**. Block 165 contributed **17 verified company/pedal/type rows**. Block 166 contributed **21 verified company/pedal/type rows**, which were consolidated into `research/SCRAPE_C_CENSUS.csv`. Block 167 contributes **45 verified company/pedal/type rows**, and those rows have now been consolidated into `research/SCRAPE_C_CENSUS.csv`.
 
 The primary `research/MASTER_PEDAL_CENSUS.csv` remains at its prior consolidated checkpoint of **2,466 company/pedal/type rows across 103 companies**. The master catalog is intentionally separate from the active Scrape B and C working censuses until a later consolidation step.
 
@@ -59,4 +59,4 @@ Do not create additional website relationships or tracking systems unless the pr
 The repository's builder research and master builder index are retained as working material, but they are not part of the public site's information architecture.
 
 ## Next action
-Continue Scrape C alphabetically after Champion Leccy. Before adding any new canonical builder identity, cross-reference the master builder index. Keep the C-section working census in `research/SCRAPE_C_CENSUS.csv` until later consolidation.
+Update the canonical builder index for Block 167, then continue Scrape C alphabetically after Cusack Music. Before adding any new canonical builder identity, cross-reference the master builder index. Keep the C-section working census in `research/SCRAPE_C_CENSUS.csv` until later consolidation.
