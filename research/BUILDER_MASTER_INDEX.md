@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **305 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **345 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **163 block files** are currently present: Blocks 001-069, 071-141, and 143-166.
+- **319 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **359 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **166 block files** are currently present: Blocks 001-069, 071-141, and 143-169.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 305 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 319 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -330,6 +330,20 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 303 | ChadderBox Effects | 166 | ChadderBox |
 | 304 | Champion City Effects | 166 |  |
 | 305 | Champion Leccy | 166 |  |
+| 306 | Ceriatone | 167 |  |
+| 307 | Chase Tone | 167 |  |
+| 308 | Chicago Iron | 167 |  |
+| 309 | Cicognani Engineering | 167 |  |
+| 310 | CKK Electronic | 167 |  |
+| 311 | CMAT Mods | 167 |  |
+| 312 | Coda Effects | 167 |  |
+| 313 | Coffee Shop Pedals | 167 |  |
+| 314 | Collision Devices | 167 |  |
+| 315 | Cornerstone Music Gear | 167 |  |
+| 316 | Crowther Audio | 167 |  |
+| 317 | Cusack Music | 167 |  |
+| 318 | CUVAVE / M-VAVE | 168 | CUVAVE / M-VAVE |
+| 319 | COG Effects | 169 | COG Effects |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
