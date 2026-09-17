@@ -25,20 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 114**.
+Research blocks stored under `research/builders/` now run through **Block 115**.
 
 Latest addition:
-- Block 114: Mythos Pedals
+- Block 115: OKKO FX
 
 Recent blocks:
-- Block 109: ThorpyFX
 - Block 110: Mr. Black
 - Block 111: Chase Bliss
 - Block 112: Hudson Electronics UK
 - Block 113: BlackOutEffectors
 - Block 114: Mythos Pedals
+- Block 115: OKKO FX
 
-Blocks 001–113 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–114 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 109 summary
 ThorpyFX is a previously uncovered British builder founded by Adrian Thorpe. ThorpyFX's official About page says the company launched in 2014 and released the Gunshot in April 2015; the company describes its pedals as hand-built in Britain.
@@ -168,7 +168,7 @@ Fuzz:
 
 The strongest overlaps are Broadcast and Sidecar. Hudson explicitly documents Broadcast as transparent overdrive at lower gain and heavier distorted sounds at high gain, while the Broadcast family documentation reaches fuzz. Hudson explicitly says Sidecar covers classic overdrive and distortion and, at extreme settings, fuzz. Broadcast-AP is kept Overdrive-only because Hudson explicitly describes its clean-boost-to-medium-gain-overdrive range but does not establish a separate target distortion identity. Motorcycle is an overdrive revisit of the historical Overdrive 999.
 
-Pretty Flamingo remains Fuzz-only even though Hudson says lighter overdrive/distortion tones are available because the builder presents it as a 1967-style fuzz. Buzzard likewise stays Fuzz-only despite the mention of dense, chewy distortion, because it is presented as a fuzz design. Full Range Bomb and Soul Bomb include fuzz alongside boost, but boost is outside the archive's target categories. Broadcast AP-II is not categorized for now because Hudson presents it as a dual preamplifier with broad gain and heavily distorted sounds, but the surviving official description does not establish a separate named target dirt identity strongly enough. Normal Broadcast retail/color variants are consolidated.
+Pretty Flamingo remains Fuzz-only even though Hudson says lighter overdrive/distortion tones are available because the builder presents it as a 1967-style fuzz. Buzzard likewise stays Fuzz-only despite the phrase dense, chewy distortion, because it is presented as a fuzz design. Full Range Bomb and Soul Bomb include fuzz alongside boost, but boost is outside the archive's target categories. Broadcast AP-II is not categorized for now because Hudson presents it as a dual preamplifier with broad gain and heavily distorted sounds, but the surviving official description does not establish a separate named target dirt identity strongly enough. Normal Broadcast retail/color variants are consolidated.
 
 The archived catalog confirms the historical dirt pool; Effects Database is used only to strengthen a few surviving product identifications, especially Overdrive Eight Fifty, Standard Machine, and Hudson's historical model index. No components, schematics, cloning, or internal-build information are recorded.
 
@@ -237,14 +237,40 @@ SusMaryOsep is Overdrive-only within scope: its dirt section is a Herculean-base
 
 Mjolnir editions such as 1N34A Gold/Silver, GE Mjolnir, Joey Landreth Mjolnir, and Wildwood Mjolnir are consolidated into the Mjolnir Overdrive lineage rather than counted as separate pedals. Golden Fleece versions, Big Puft colorways, Positron's older Collider form, blemished sale listings, and routine dealer/finish variants are likewise consolidated. Boost-first, octave-up, modulation, delay, utility, and accessory products remain outside the target census. No component, schematic, cloning, PCB, BOM, or internal-build information is recorded.
 
+### Block 115 summary
+OKKO FX is a previously uncovered German pedal builder based in Leipzig. OKKO's official site states the company has made pedals since 2003 and that its pedals are handbuilt there. The current catalog contains multiple Overdrive and Distortion products plus Holy Grit and the current BFGRMWB fuzz release; specialist historical catalog evidence establishes Black Beast as a Fuzz + Distortion hybrid and preserves the original TwinSonic.
+
+Overdrive:
+- DIABLO DUAL — current
+- DIABLO GH Signature — current
+- TWINSONIC MKII — current
+- The Dynamist — current
+- TwinSonic — historical lineage
+- DIABLO — historical/current lineage consolidated with the Diablo family
+- Holy Grit — current hybrid Overdrive + Fuzz
+
+Distortion:
+- DIABLO DUAL — current
+- MOTÖRBASS — current
+- Black Beast — historical, explicitly documented as Fuzz + Distortion
+
+Fuzz:
+- HOLY GRIT — current hybrid Overdrive + Fuzz
+- BFGRMWB / Big Fucking Green Russian Muff With Benefits — current
+- Black Beast — historical hybrid Fuzz + Distortion
+
+The clearest overlaps are DIABLO DUAL (Overdrive + Distortion), HOLY GRIT (Overdrive + Fuzz), and Black Beast (Fuzz + Distortion). OKKO explicitly presents TwinSonic MKII as two overdrive circuits and The Dynamist as the evolved Diablo Dual concept, so their access to more saturated tones does not create additional target categories. Diablo GH remains Overdrive despite its independent clean boost because Boost is outside scope. The current BFGRMWB is retained as Fuzz only.
+
+Normal anniversary, enclosure, color, and dealer variations are consolidated. DIABLO 20th Anniversary is treated as part of the Diablo lineage, and Dirty Diablo is treated as a Diablo-family variation rather than a separate product lineage unless future evidence establishes a materially independent design identity. TwinSonic and TwinSonic MKII are retained as one lineage. Compressor, buffer, and other non-target products remain excluded. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 114.
+Added and re-read Builder → Pedals research Block 115.
 
 Research block commit:
-`4b06afdaa7c813af4a30dc07c84b01cbdee13be2`
+`fea040e07c037193a5e85aa4e1ac4ae124a064c5`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
