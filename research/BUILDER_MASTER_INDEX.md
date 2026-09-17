@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **285 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **325 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **160 block files** are currently present: Blocks 001-069, 071-141, and 143-162.
+- **290 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **330 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **161 block files** are currently present: Blocks 001-069, 071-141, and 143-163.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 285 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 290 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -310,6 +310,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 283 | BuGGFX Pedals | 162 |  |
 | 284 | Build Your Own Clone | 162 | BYOC |
 | 285 | Byron Amplification | 162 |  |
+| 286 | Bulinski Effect Pedals | 163 | Bulinski Pedals / Bulinski |
+| 287 | Bruno | 163 | Bruno Guitars |
+| 288 | Buzzing Bugs Audio Devices | 163 | Buzzing Bugs FX |
+| 289 | BYW Audio | 163 |  |
+| 290 | BZZT Electronics | 163 | B*Z*Z*T |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
