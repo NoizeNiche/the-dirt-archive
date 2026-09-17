@@ -25,13 +25,12 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 079**.
+Research blocks stored under `research/builders/` now run through **Block 080**.
 
 Latest addition:
-- Block 079: TC Electronic
+- Block 080: Strymon
 
 Recent blocks:
-- Block 069: Lovepedal
 - Block 070: Xotic Effects / Xotic California
 - Block 071: Maxon / Nisshin Onpa
 - Block 072: DOD Electronics / DOD
@@ -42,55 +41,43 @@ Recent blocks:
 - Block 077: Bogner Amplification
 - Block 078: MESA/Boogie
 - Block 079: TC Electronic
+- Block 080: Strymon
 
-Blocks 001–078 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–079 remain recorded in `research/builders/` and in the prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
-### Block 079 summary
-TC Electronic is treated as an unrepresented builder identity with a broad documented dirt catalog spanning current/recent products and historical designs.
+### Block 080 summary
+Strymon is treated as an unrepresented builder identity with five clearly documented core dirt products: Sunset Dual Overdrive, Riverside Drive & Distortion, Fairfax Class A Output Stage Drive, Canoga Vintage Silicon Fuzz, and Deco Tape Saturation & Doubletracker.
 
 Overdrive:
-- MojoMojo Overdrive
-- MojoMojo Paul Gilbert Signature Overdrive
-- Zeus Drive
-- El Cambo Overdrive
-- Cinders Overdrive
-- Tube Pilot Overdrive
-- Vintage Overdrive
-- VPD1 Vintage Pre-Drive
-- Nova Drive
+- Sunset Dual Overdrive
+- Riverside Drive & Distortion
+- Fairfax Class A Output Stage Drive
+- Deco Tape Saturation & Doubletracker
 
 Distortion:
-- Dark Matter Distortion
-- Eyemaster Metal Distortion
-- Grand Magus Distortion
-- Magus Pro
-- Fangs Metal Distortion
-- Röttweiler Distortion
-- Vintage Distortion
-- Vintage Dual Distortion
-- Nova Drive
+- Riverside Drive & Distortion
+- Canoga Vintage Silicon Fuzz
 
 Fuzz:
-- Honey Pot Fuzz
-- Rusty Fuzz
+- Canoga Vintage Silicon Fuzz
 
-Nova Drive is recorded as Overdrive + Distortion because TC Electronic's manufacturer-authored manual documents separate overdrive and distortion sections and TC introduced it as an overdrive/distortion pedal. The Vintage Overdrive, Vintage Distortion, and Vintage Dual Distortion products are retained as distinct historical identities because the manufacturer-authored Vintage Pedals manual names them separately. VPD1 is retained separately as a vintage pre-drive with an explicit overdrive drive section.
+Sunset is recorded as Overdrive only because Strymon explicitly presents it as a dual overdrive pedal; its hard circuit approaching fuzz at maximum gain does not create a second category. Riverside is recorded as Overdrive + Distortion because the product title and manufacturer documentation explicitly span both. Fairfax is recorded as Overdrive only from Strymon's drive/overdrive presentation. Canoga is recorded as Fuzz + Distortion because Strymon explicitly identifies it as a vintage silicon fuzz that can also work as distortion when driven harder. Deco is included under Overdrive because Strymon currently places Deco V2 in its Drive catalog and explicitly describes transparent tape overdrive, while V2 preserves the original sound and functions.
 
-Honey Pot Fuzz and Rusty Fuzz remain Fuzz only. Their broad gain ranges and overdrive/distortion-like sounds are treated as operating range rather than additional target identities. Grand Magus, Fangs, Röttweiler, Dark Matter, Eyemaster, and Magus Pro remain Distortion identities from explicit product/category naming.
+Deco V2 is consolidated with the Deco functional identity. Sunset circuit selections, Riverside gain architecture, firmware/preset variations, and cosmetic/hardware revisions do not create additional dirt identities.
 
-MojoMojo Paul Gilbert Signature remains separate from standard MojoMojo because it is a distinct named signature product. Cosmetic editions, TonePrint variations, presentation variants, and stock status do not create additional functional dirt identities. Boost-only and utility products remain excluded.
+No separate historical Strymon dirt identity was established in the reviewed manufacturer material beyond the documented Deco/Riverside/Sunset/Fairfax/Canoga products. Boost-only and non-dirt Strymon products remain outside the target census.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 079.
+Added and re-read Builder → Pedals research Block 080.
 
 Research block commit:
-`a595837bd5e86ba425b030896b97f2cf87051544`
+`4b1a6fef47b7e7441e039667a59f9dfce1e35d97`
 
 Research block content SHA:
-`283505d9a6c44f9facef697f8170bfa80f9736a1`
+`0ad0e5a7a2c7e7f1c2f4f8f7d0db7f0e8a9e79a4`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
 
 ## Must not touch
-Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website architecture.
+Do not revive discarded research merely because it exists in older history, and do not expand into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, variant rabbit holes, or unrelated website/UI architecture.
