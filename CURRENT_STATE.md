@@ -25,44 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder -> Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 126**.
+Research blocks stored under `research/builders/` now run through **Block 127**.
 
 Latest addition:
-- Block 126: Friedman Amplification
+- Block 127: Amptweaker
 
 Recent blocks:
-- Block 121: Suhr
 - Block 122: Crazy Tube Circuits
 - Block 123: Beetronics FX
 - Block 124: Mad Professor Amplification
 - Block 125: Barber Electronics
 - Block 126: Friedman Amplification
+- Block 127: Amptweaker
 
-Blocks 001-125 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
-
-### Block 121 summary
-Suhr is a previously uncovered builder with a clearly divided pedal catalog covering Overdrive, Distortion, and Fuzz.
-
-Overdrive:
-- Shiba Drive
-- Shiba Drive Reloaded
-- Kiko Loureiro Signature Shiba Drive Reloaded
-- Eclipse
-
-Distortion:
-- Riot
-- Riot Mini
-- Riot Reloaded - legacy/discontinued
-- Eclipse
-
-Fuzz:
-- Rufus Fuzz
-- Rufus Reloaded Fuzz - legacy
-- Thornicus Fuzz
-
-Key overlap: Eclipse = Overdrive + Distortion.
-
-Key restraint: Riot remains Distortion only despite its ability to push an amp into natural overdrive; Rufus and Thornicus remain Fuzz only. Named Reloaded versions are retained as lineage products, while minor hardware and finish changes are consolidated. Boost, compression, modulation, delay, buffers, and tone tools remain outside scope.
+Blocks 001-126 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 122 summary
 Crazy Tube Circuits is a previously uncovered builder with a broad dirt catalog spanning Overdrive, Distortion, and Fuzz, including current and historical products.
@@ -215,16 +191,38 @@ Key overlaps: none established under the builder-label rule.
 
 Key restraint: Friedman consistently names BE-OD, BE-OD Deluxe, Dirty Shirley, Golden Pearl, and Smallbox as Overdrive products, even when their gain ranges become aggressive. Motor City Drive remains Overdrive based on historical documentation. Fuzz Fiend remains Fuzz because Friedman's own official demo explicitly identifies it as a tube fuzz pedal. Third-party use of the word distortion is not enough to create a separate Friedman Distortion category. Sir Compre, Buxom Boost, IR-D, IR-J, IR-X, Gold-72 Wah, and other non-target products remain outside scope. Routine editions, finish changes, and standard packaging differences are not multiplied into separate dirt identities.
 
+### Block 127 summary
+Amptweaker is a previously uncovered builder with a dirt catalog spanning Overdrive, Distortion, and Fuzz. The official current catalog lists Tight Drive, Tight Rock, Tight Metal, Big Rock Pro II, and Fat Metal Pro II; historical documentation establishes the broader TightDrive, TightMetal, TightRock, BigRock, FatRock, TightFuzz, and BluesFuzz families.
+
+Overdrive:
+- TightDrive / TightDrive Pro / TightDrive Jr / Bass TightDrive / Bass TightDrive Jr - current/historical TightDrive lineage
+- BigRock Pro / BigRock Pro II - historical/current BigRock lineage
+
+Distortion:
+- TightMetal / TightMetal Pro / TightMetal Pro II / TightMetal Jr / Bass TightMetal Jr / TightMetal ST / limited TightMetal editions - TightMetal distortion lineage
+- TightRock / TightRock Jr / Performance Series Tight Rock - TightRock distortion lineage
+- BigRock Pro / BigRock Pro II - Rock overdrive/distortion lineage
+- FatRock Distortion - historical
+- FatMetal / FatMetal Pro / FatMetal Pro II - FatMetal distortion lineage
+
+Fuzz:
+- TightFuzz / TightFuzz Pro / TightFuzz Jr / Bass TightFuzz / Bass TightFuzz Jr / Tim Lefebvre Signature TightFuzz - TightFuzz family
+- BluesFuzz / BluesFuzz Limited / BluesFuzz Jr / Bass BluesFuzz Jr - BluesFuzz family
+
+Key overlap: BigRock Pro / BigRock Pro II = Overdrive + Distortion. Amptweaker's historical manual identifies the design as Rock overdrive/distortion, and the original product presentation describes it as a distortion box spanning driven rock tones.
+
+Key restraint: TightDrive and Bass TightDrive remain Overdrive despite heavy-gain language. TightRock and TightMetal remain Distortion because their named product identities and manuals explicitly call them distortion pedals. FatMetal remains Distortion despite broad gain range. TightFuzz and BluesFuzz remain Fuzz despite lower-gain, boost, EQ, or attack modes. TightMetal limited editions, Jr versions, Pro versions, and Bass versions are consolidated into the TightMetal lineage; TightRock variants are consolidated into TightRock; TightFuzz variants are consolidated into TightFuzz; BluesFuzz Limited and Jr variants are consolidated into BluesFuzz. DepthFinder, DeFizzerator, Curveball, PressuRizer, TightBoost, and SwirlPool remain outside the dirt census. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+
 ## Last completed research action
-Added and saved Builder -> Pedals research Block 126: Friedman Amplification.
+Added and saved Builder -> Pedals research Block 127: Amptweaker.
 
 Research block commit:
-`37fd6fe2857ed98ba4c0194f496cb0432dd8b756`
+`afda147c6594f229c9efa3d3a564d5a8eb28132f`
 
 ## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-126.md` saved
-- `CURRENT_STATE.md` updated through Block 126
-- `research/BREADCRUMB.md` updated through Block 126
+- `research/builders/BLOCK-2026-09-17-127.md` saved
+- `CURRENT_STATE.md` updated through Block 127
+- `research/BREADCRUMB.md` updated through Block 127
 
 ## Next action
 Continue the fresh Builder -> Pedals census. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
