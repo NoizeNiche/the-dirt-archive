@@ -1,7 +1,0 @@
-builder	model	category	light_description	photo_source	status
-AKG SOUND DESIGN	TSpecial	Overdrive	Japanese handmade overdrive based on the Overdrive Special drive channel; current builder pedal.	https://www.akgsound.com/product/105 ; https://store.ishibashi.co.jp/view/item/000000029142	CENTRAL
-AKG SOUND DESIGN	Magnus	Fuzz	Transparent-style fuzz with broad headroom; usable as a clean booster at lower gain.	https://www.akgsound.com/product/129 ; https://www.akgsound.com/pickup/normal	CENTRAL
-AKG SOUND DESIGN	TSpecial (JRC4558)	Overdrive	JRC4558 component variant of TSpecial; treated as a production variant rather than separate conceptual model.	https://www.akgsound.com/pickup/normal	RELATIONSHIP_ONLY
-AKG SOUND DESIGN	Magnus (NTE103A)	Fuzz	Germanium-transistor Magnus variant with lower gain; treated as a production/component variant.	https://www.akgsound.com/product/124	RELATIONSHIP_ONLY
-AKG SOUND DESIGN	Magnus (NTE103B)	Fuzz	Germanium-transistor Magnus variant with higher gain; treated as a production/component variant.	https://www.akgsound.com/pickup/normal	RELATIONSHIP_ONLY
-AKG SOUND DESIGN	Magnus White	Fuzz	Current white-enclosure Magnus retail state; not a separate model.	https://www.akgsound.com/product/129	RELATIONSHIP_ONLY

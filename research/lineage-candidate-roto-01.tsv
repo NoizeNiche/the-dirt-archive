@@ -1,3 +1,0 @@
-edge_id	source_entity	target_entity	relationship_type	time_scope	validation_status	confidence	primary_source	note
-LINEAGE-013	Sola Sound / Rotosound Fuzz Box	Rotosound Fuzz Box	OEM_MANUFACTURING	1966-early 1970s	PROMOTE_CANDIDATE	HIGH	https://fuzzboxes.org/rotosoundfuzzbox	Sola Sound supplied Rotosound-branded Fuzz Boxes across multiple construction/circuit periods; retain Rotosound as marketed identity.
-LINEAGE-014	Jennings Electronic Industries / Jennings Fuzz	Rotosound Fuzz	REBRAND_MANUFACTURING	Nov 1968-1969	PROMOTE_CANDIDATE	HIGH	https://fuzzboxes.org/rotosoundfuzzbox	Fuzzboxes documents a short Jennings partnership beginning November 1968 in which Jennings fuzzes were rebranded for Rotosound; keep this as a separate period-specific manufacturing relationship.

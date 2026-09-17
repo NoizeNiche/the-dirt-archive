@@ -1,8 +1,0 @@
-/* Static archive background: the site content scrolls over a fixed paper/stripe field. */
-html,body{min-height:100%;}
-body{background-color:#efe7d8;background-image:url('dirt-archive-background.jpg');background-size:cover;background-position:center bottom;background-repeat:no-repeat;background-attachment:fixed;}
-body:after{content:"";position:fixed;inset:0;pointer-events:none;background:rgba(239,231,216,.34);z-index:-1;}
-.site-header{background:rgba(239,231,216,.93);}
-main.wrap{background:rgba(239,231,216,.70);}
-.site-footer{position:relative;}
-@media (max-width:900px){body{background-position:center bottom;}main.wrap{background:rgba(239,231,216,.78);}}

@@ -1,9 +1,0 @@
-candidate_id	source_entity	target_entity	relationship_type	status	confidence	evidence	note
-OEMSW-001	Rotosound Fuzz Box	Sola Sound	PERIOD_MANUFACTURER	RESEARCH_VALIDATED	HIGH	https://fuzzboxes.org/rotosoundfuzzbox	Use only for the documented Sola Sound-supplied production period; later Jennings-made examples remain separate.
-OEMSW-002	Rotosound Fuzz Box	Jennings / JEI	PERIOD_MANUFACTURER	RESEARCH_VALIDATED	HIGH	https://fuzzboxes.org/rotosoundfuzzbox	Short Jennings-manufactured period begins in November 1968 according to surviving historical evidence summarized by Fuzzboxes.
-OEMSW-003	Marshall SupaFuzz	Sola Sound	PERIOD_MANUFACTURER	RESEARCH_VALIDATED	HIGH	https://fuzzboxes.org/marshallsupafuzz	Early SupaFuzzes were supplied by Sola Sound through 1968.
-OEMSW-004	Marshall SupaFuzz	Marshall	PERIOD_MANUFACTURER	RESEARCH_VALIDATED	HIGH	https://fuzzboxes.org/marshallsupafuzz	Marshall took over production in 1968 and continued the model into the 1970s.
-OEMSW-005	John Hornby Skewes Zonk II	Sola Sound	PERIOD_MANUFACTURER	RESEARCH_VALIDATED	HIGH	https://fuzzboxes.org/zonkii	Some early cast-enclosure and Tone Bender MKII Zonk II examples were supplied by Sola Sound.
-OEMSW-006	John Hornby Skewes Zonk II	Wilsic Sound	PERIOD_MANUFACTURER	RESEARCH_VALIDATED	HIGH	https://fuzzboxes.org/zonkii	Later folded-aluminium Zonk II PCBs identify Wilsic Sound as builder for Hornby Skewes.
-OEMSW-007	WEM Rush Pep Box	Pepe Rush / Rush Electronics	ORIGINAL_ORIGIN	RESEARCH_CANDIDATE	MEDIUM	https://fuzzboxes.org/pepbox	Pre-partnership manufacture is historically reported but no surviving pre-WEM example is known.
-OEMSW-008	WEM Rush Pep Box	WEM	MANUFACTURING_SWITCH	RESEARCH_VALIDATED	HIGH	https://fuzzboxes.org/pepbox	WEM later took over production, with long-red WEM-built enclosures documenting the later phase.

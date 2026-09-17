@@ -1,4 +1,0 @@
-canonical_builder	model	role	category	known_years_or_corridor	evidence_state	relationship_notes	source_trail
-Amplifier Corporation of America	Fuzz King	physical manufacturer / own-market product	fuzz	summer 1967	VERIFIED_FOR_EXISTENCE;DATE_QUALIFIED	Released through Merson/Unicord. Effects Database and specialist research identify it as an ACA product.	Effects Database ACA Fuzz King; Tone Machines Blog Fuzz King research
-Lafayette Radio Electronics	Fuzz Sound	retail/private-label state	fuzz	fall 1967	VERIFIED_RELATIONSHIP	Lafayette catalog markets the ACA Fuzz King as Fuzz Sound. Preserve Lafayette as retailer/private-label node, not factory.	1970 Lafayette catalog; Tone Machines Blog Fuzz King research
-Merson/Unicord	Fuzz King distribution	distribution state	fuzz	summer 1967 onward	VERIFIED_RELATIONSHIP	Marketing/distribution relationship associated with ACA Fuzz King; not a separate manufacturer.	Effects Database ACA Fuzz King

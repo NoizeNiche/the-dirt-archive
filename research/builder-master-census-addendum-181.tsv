@@ -1,2 +1,0 @@
-canonical_builder	identity_status	region	era_bucket	dirt_catalog_signal	catalog_status	priority	relationship_notes	source_files
-Providence	CANONICAL_CANDIDATE	Japan	1998-present	FDT-1F; BASS DRIVER; SDT-1; additional Providence generation states	PARTIAL_BASELINE_MAPPED	Batch 90 extends the Providence family audit with historically preserved generations and a bass-oriented dirt product. Some apparent model-name duplication is flagged for later family/generation normalization.	https://www.effectsdatabase.com/model/providence ; phase-one-inventory-batch-90.tsv

@@ -1,7 +1,0 @@
-source_entity	target_entity	relationship_type	status	confidence	note	evidence
-Colorsound Power Boost	Colorsound Overdriver	RETAIL_SUCCESSOR	PROMOTE	HIGH	Original Power Boost and later Overdriver are distinct named/voltage-era retail states within the same product lineage.	https://www.kitrae.net/music/Music_mp3_Colorsound_Sound.html
-Colorsound Power Boost	Vox Power Boost	OEM_MARKET_VARIANT	PROMOTE	MEDIUM	A Vox-marketed Power Boost state is documented as a distinct enclosure/market variant; retain as separate retail identity.	https://www.kitrae.net/music/Music_mp3_Colorsound_Sound.html
-CSL Super Fuzz	Colorsound Tone Bender Fuzz / MkIV family	OEM_MARKET_LINEAGE	PROMOTE	HIGH	CSL Super Fuzz is documented as a Sola Sound OEM label version of the MkIV/Tone Bender Fuzz family.	https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
-Park Fuzz Sound	Colorsound Tone Bender Fuzz / MkIV family	OEM_MARKET_LINEAGE	PROMOTE	HIGH	Park-branded version is documented as Sola Sound OEM production.	https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
-Carlsbro Fuzz	Colorsound Tone Bender Fuzz / MkIV family	OEM_MARKET_LINEAGE	PROMOTE	HIGH	Carlsbro-branded version is documented as Sola Sound OEM production.	https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
-Supa Tone Bender	Jumbo Tone Bender	FAMILY_RELATIONSHIP	HOLD_FOR_REVIEW	MEDIUM	Keep related but do not label one a direct revision/successor of the other without stronger dated catalog evidence.	https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html

@@ -1,6 +1,0 @@
-canonical_builder	marketed_name	model	category	period_anchor	evidence_state	relationship_notes	source_refs
-Univox	Univox	U-1095 Super-Fuzz	fuzz	late 1960s-early 1970s	INDEXED	Univox-marketed Super-Fuzz is preserved as its own retail identity; production/distribution relationships remain separate from builder identity.	https://www.effectsdatabase.com/model/univox/superfuzz
-Univox	Univox	U-250 Uni-Fuzz	fuzz	1960s-1970s	INDEXED	Uni-Fuzz sits in the related Shin-Ei/Companion Super Fuzz family.	https://www.effectsdatabase.com/model/univox/unifuzz
-Univox	Univox (by fOXX)	Fuzz & Wah & Volume	fuzz-wah	1970s	MARKETED_RELATIONSHIP	Effects Database indexes this as a Univox-branded product made by fOXX; retain fOXX as manufacturing lineage rather than collapsing Univox and fOXX.	https://www.effectsdatabase.com/model/univox
-Univox	Univox	U-250 family	fuzz	1960s-1970s	FAMILY_NODE	The Univox catalog indexes 26 products, with U-1095 and U-250 the core fuzz identities and other products kept as non-dirt boundaries.	https://www.effectsdatabase.com/model/univox
-Univox	Unicord / Gulf + Western distribution lineage	Super-Fuzz	fuzz	late 1960s-early 1970s	RELATIONSHIP_NODE	U-1095 page describes Univox-branded Super-Fuzz as built under Univox by Unicord; keep manufacturer/distributor role distinct.	https://www.effectsdatabase.com/model/univox/superfuzz
