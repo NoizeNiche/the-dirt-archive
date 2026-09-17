@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–106 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–107 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 099: Caroline Guitar Company
 - 100: Electronic Audio Experiments
 - 101: Black Arts Toneworks
 - 102: Fairfield Circuitry
@@ -23,29 +22,62 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 104: Old Blood Noise Endeavors
 - 105: Fulltone
 - 106: Dr. Scientist
+- 107: IdiotBox Effects
 
-## Block 106 — Dr. Scientist
-Dr. Scientist, Ryan Clarke / Tanya Clarke / Neil Graham.
+## Block 107 — IdiotBox Effects
+IdiotBox Effects, Atarimatt.
 
 Overdrive:
-- The Elements
+- Han-Taun Overdrive
+- Power Drive
+- Trench Cannon
+- Necrofier Echo Drive
+- repo man
+- No Moon
+- No Moon 2 — coming soon
 
 Distortion:
-- The Elements
-- Dungeon Crawler
+- Blower Box Bass Distortion / Blower Box lineage
+- Blower Box Deluxe
+- Dungeon Master
+- Heavy Weapon
+- No Moon
+- No Moon 2 — coming soon
+- Death Master
+- Trash Compactor
+- Black Fortress Bass Distortion
+- -D4 Distortion Reissue
+- Landphil Bass Distortion
+- Wild Kyle
+- REDRUM V2
+- Nihilizer — limited historical collaboration
 
 Fuzz:
-- Frazz Dazzler
+- Dungeon Master
+- Ron Fucking Swanson Super Fuzz
+- No Moon
+- No Moon 2 — coming soon
+- Tractor Beam
+- Black Fortress Bass Distortion
+- Monster Fuzz
+- Blackout
+- DeathRay
+- Static Fuzz
+- WHORES. Fuzz Freq V.2
+- Blasteroid Fuzz
+- Cool Buzz Bass Fuzz
+- Lost Ark
+- Hobo Santa Fuzz
 
-Key restraint: Dr. Scientist explicitly identifies The Elements as a dual-channel Overdrive/Distortion, Dungeon Crawler as a MOSFET-based Distortion, and Frazz Dazzler as a dual-channel Fuzz. BitQuest and BitQuest Eurorack remain excluded because fuzz is only one part of a broader multi-effect system. BoostBot and other non-target effects remain excluded. Gain-range descriptions do not create extra categories.
+Key restraint: No Moon / No Moon 2 are retained in all three target categories because IdiotBox explicitly describes their separate Muff, Screamer, and RAT-style circuits. Dungeon Master is retained as Fuzz + Distortion because its official description combines Muff/SuperFuzz and HM-2-style distortion functions. Black Fortress is Distortion + Fuzz because it combines an HM-2-style distortion section with a parallel octave fuzz. Power Drive remains Overdrive despite voltage-starved fuzz behavior, and -D4 remains Distortion despite lower-gain overdrive behavior.
 
 ## Last research commit
-`bd9bf8e3a96bac0e885b5dbaefbb8a20cf9b44c7`
+`522e7973a904c96d24d856ca9386394fadcf729b`
 
 ## Last checkpoint
-- `CURRENT_STATE.md` updated in commit `e25b3867e143571d4ccd13b8eef8c3e47dda76e2`
-- `research/builders/BLOCK-2026-09-17-106.md` content SHA: `832a2eb489a3b1d9e523030dbb869d28c1d9326f`
-- `CURRENT_STATE.md` content SHA: `a89d261db5631683d406209722b63d2d1f3414a7`
+- `CURRENT_STATE.md` updated in commit `cd3edd8fb837e0ec195b545a697b3345f356dea8`
+- `research/builders/BLOCK-2026-09-17-107.md` content SHA: `00f97e7f2409102b953c0e0bf8dc355e4e2321d5`
+- `CURRENT_STATE.md` content SHA: `e08a95dd5d82551d3a6da8a1e98a1f552fe79565`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
