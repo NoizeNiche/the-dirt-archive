@@ -12,8 +12,8 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Repository reset is the current source of truth.
 - Permanent project boot instructions, archive governance, and current-state tracking are active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–085 are stored under `research/builders/`.
-- Blocks 001–060 remain preserved as repository research files; Blocks 061–085 are summarized below for quick continuity.
+- Fresh research Blocks 001–086 are stored under `research/builders/`.
+- Blocks 001–060 remain preserved as repository research files; Blocks 061–086 are summarized below for quick continuity.
 - Block 061: Skreddy Pedals. Manufacturer-supported Overdrive/Fuzz census; conservative Distortion handling; non-dirt utilities and amp-emulator platforms excluded.
 - Block 062: Keeley Electronics. Current and historical Overdrive, Distortion, and Fuzz identities; explicit overlaps retained; cosmetic/B-stock/limited variants consolidated.
 - Block 063: Wampler Pedals. Manufacturer-supported Overdrive, Distortion, and Fuzz census; explicit overlaps retained; weak historical leads not promoted.
@@ -39,20 +39,24 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 083: HardWire. CM-2 Tube Overdrive; SC-2 Valve Distortion; TL-2 Metal Distortion; no HardWire Fuzz. HardWire remains separate from DigiTech despite current DigiTech-hosted documentation.
 - Block 084: VOX. Copperhead Drive, Mystic Edge, Cutting Edge, Silk Drive, Fuel Injector, and VFZ-1 Fuzz recorded as Overdrive where supported; Copperhead Drive, Mystic Edge, and Cutting Edge also Distortion; V8 Distortion, Bulldog Distortion, Satchurator, and VOX 7001 Distortion recorded as Distortion; VFZ-1, Trike Fuzz, V828 Tone Bender, V829 Tone Bender, and V830 Distortion Booster recorded as Fuzz. Historical Overdrive identities include Big Ben Overdrive, Straight 6 Drive, V810 Valvetone, and Ice 9 Overdrive.
 - Block 085: Fender. Santa Ana Overdrive, Smolder Acoustic Overdrive, Hammertone Overdrive; historical Fender Drive Pedal and Yngwie Malmsteen Overdrive Pedal; Pugilist, Full Moon, MTG Tube, MTG:LA, Compugilist, Hammertone Distortion, Hammertone Metal, Fender Distortion Pedal, and Fender Blender as Distortion; The Pelt, The Trapper Dual Fuzz, Hammertone Fuzz, Fender Shields Blender, and Fender Fuzz Wah as Fuzz. V2 revisions are consolidated with their underlying products; Fender Blender Custom is consolidated with Fender Blender; imported 1986–1987 Fender-logo effects are excluded where Fender itself says they were not built by Fender.
+- Block 086: MOOER Audio. Blues Crab, Blues Mood, Green Mile, Rumble Drive, Ultra Drive, and Greenwood Overdrive; Black Secret, Hustle Drive, Cruncher, Blade, Solo, Rage Machine, Ultra Drive MKII, Thunderball, and Eight Hands Distortion; Triangle Buff, MooerFog/Fog, Thunderball, Blue Faze, and Grey Faze Fuzz. Thunderball is the explicit Fuzz + Distortion overlap. Ultra Drive and Ultra Drive MKII remain separate named identities because the historical catalog distinguishes the original Overdrive from the later MKII Distortion. Micro Preamp models, multi-effects modules, boosts, and non-dirt products remain excluded.
 
 ## Block 085 details
 Fender is treated as an unrepresented builder identity in the active census. Fender's current catalog/support pages document the modern dirt family, including Santa Ana, Pugilist, Pelt, Full Moon, MTG Tube, MTG:LA, Compugilist, Smolder, Trapper, and the Hammertone dirt pedals; Fender's historical archive and articles document Blender, Fuzz Wah, the Competition-series Drive/Distortion, and Yngwie Malmsteen Overdrive. Fender's 2023 newsroom describes Shields Blender as Fender's signature fuzz pedal built around the vintage Blender circuit. The census keeps primary product naming authoritative, so Smolder and Compugilist are not split into extra categories merely because their descriptions contain generic distortion/compression language.
+
+## Block 086 details
+MOOER Audio is treated as an unrepresented builder/brand identity in the active census. MOOER's current product pages explicitly categorize Blues Crab, Blues Mood, Green Mile, Black Secret, Hustle Drive, Cruncher, Blade, Solo, Rage Machine, and Ultra Drive MKII within the target dirt taxonomy; historical Micro Series catalog coverage adds Rumble Drive, Ultra Drive, Greenwood, Thunderball, Eight Hands, Triangle Buff, MooerFog/Fog, Blue Faze, and Grey Faze. Thunderball is recorded as Fuzz + Distortion because authoritative MOOER catalog coverage identifies it as Bass Fuzz/Distortion. Ultra Drive and Ultra Drive MKII remain separate named identities because the historical catalog distinguishes the original Ultra Drive Overdrive from the later MKII Distortion. Hustle Drive remains Distortion only because MOOER explicitly labels it as a Distortion Pedal despite its lower-gain drive behavior. Micro Preamp digital amp-model products, Red Truck/Black Truck multi-effects, Pure Boost/Flex Boost, and non-dirt products remain excluded.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`fa6a98e5098b925b61b020ecc76f0671f14ced07`
+`b6ef7b8aaf124dcf97bfe2062100ffbd38a0927f`
 
 ## Last checkpoint files
-- `CURRENT_STATE.md` updated in commit `f534987a814c14f513e7864da5b1e98b0dbcc766`
-- `research/builders/BLOCK-2026-09-17-085.md` content SHA: `bcf7f26f4623e693b108a6efdbbac23464ef2ff8`
-- `CURRENT_STATE.md` content SHA: `dd539cb119e94dfd4dcd719a018d5efbc5f7c97e`
+- `CURRENT_STATE.md` updated in commit `1f51116cfb94d41cb9a03efcd3cfd13b9efc112f`
+- `research/builders/BLOCK-2026-09-17-086.md` content SHA: `8c9183d0ec05e4e71d808ec1cad388bb7b19df4e`
+- `CURRENT_STATE.md` content SHA: `d15e7170b3165da87022c5d806ef3890059518ff`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
