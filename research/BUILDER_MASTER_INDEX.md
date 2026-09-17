@@ -5,12 +5,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **106 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **141 builder mentions** exist across the live blocks because Block 033 contains two builders.
-- **140 block files** are currently present: Blocks 001-069 and 071-141.
+- **111 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **146 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **141 block files** are currently present: Blocks 001-069, 071-141, and 143.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The 141 builder mentions collapse to 106 canonical identities, leaving **35 duplicate/alias mentions** to the same builder identities.
+- The current builder mentions collapse to 111 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -130,6 +130,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 104 | Xotic Effects | 139 |  |
 | 105 | Zander Circuitry | 021 |  |
 | 106 | ZVEX Effects | 065, 141 |  |
+| 107 | Aclam Guitars | 143 |  |
+| 108 | Animals Pedal | 143 |  |
+| 109 | Anasounds | 143 |  |
+| 110 | CopperSound Pedals | 143 | CopperSound |
+| 111 | Alexander Pedals | 143 | Alexander |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
@@ -164,4 +169,4 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Immediate next-work rule
 
-Do not continue to Block 142 as a new builder. Block 142 was Fairfield Circuitry and was removed because Fairfield already exists as the canonical Block 102 identity. The next block number is not the next builder number. The next builder must be selected only after it is absent from this master index.
+Do not use a new builder number merely because a new research block is created. Before adding a builder, cross-reference the canonical list above. Existing builders get missing pedal records added to their existing canonical identity. New builders receive the next unused canonical builder number.
