@@ -25,10 +25,10 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder -> Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 127**.
+Research blocks stored under `research/builders/` now run through **Block 128**.
 
 Latest addition:
-- Block 127: Amptweaker
+- Block 128: Wampler Pedals
 
 Recent blocks:
 - Block 122: Crazy Tube Circuits
@@ -37,8 +37,9 @@ Recent blocks:
 - Block 125: Barber Electronics
 - Block 126: Friedman Amplification
 - Block 127: Amptweaker
+- Block 128: Wampler Pedals
 
-Blocks 001-126 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001-127 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 122 summary
 Crazy Tube Circuits is a previously uncovered builder with a broad dirt catalog spanning Overdrive, Distortion, and Fuzz, including current and historical products.
@@ -209,20 +210,70 @@ Fuzz:
 - TightFuzz / TightFuzz Pro / TightFuzz Jr / Bass TightFuzz / Bass TightFuzz Jr / Tim Lefebvre Signature TightFuzz - TightFuzz family
 - BluesFuzz / BluesFuzz Limited / BluesFuzz Jr / Bass BluesFuzz Jr - BluesFuzz family
 
-Key overlap: BigRock Pro / BigRock Pro II = Overdrive + Distortion. Amptweaker's historical manual identifies the design as Rock overdrive/distortion, and the original product presentation describes it as a distortion box spanning driven rock tones.
+Key overlap: BigRock Pro / BigRock Pro II = Overdrive + Distortion.
 
 Key restraint: TightDrive and Bass TightDrive remain Overdrive despite heavy-gain language. TightRock and TightMetal remain Distortion because their named product identities and manuals explicitly call them distortion pedals. FatMetal remains Distortion despite broad gain range. TightFuzz and BluesFuzz remain Fuzz despite lower-gain, boost, EQ, or attack modes. TightMetal limited editions, Jr versions, Pro versions, and Bass versions are consolidated into the TightMetal lineage; TightRock variants are consolidated into TightRock; TightFuzz variants are consolidated into TightFuzz; BluesFuzz Limited and Jr variants are consolidated into BluesFuzz. DepthFinder, DeFizzerator, Curveball, PressuRizer, TightBoost, and SwirlPool remain outside the dirt census. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
+### Block 128 summary
+Wampler Pedals is a previously uncovered builder with a substantial documented dirt catalog spanning Overdrive, Distortion, and Fuzz. Wampler's current catalog separates Distortion / Overdrive and Fuzz, while its official downloads page preserves a dedicated discontinued-product list.
+
+Overdrive:
+- Tumnus / Tumnus Deluxe / Germanium Tumnus / Germanium Tumnus Deluxe
+- Pantheon / Pantheon Deluxe
+- Belle Overdrive
+- Moxie
+- Triumph Overdrive
+- Plexi Drive / Plexi Drive Deluxe / Plexi Drive Mini
+- Brad Paisley: Paisley Drive / Paisley Deluxe
+- Brent Mason: Hot Wired v2
+- Tom Quayle: Dual Fusion
+- Thirty Something
+- Black '65 / Tweed '57
+- Clarksdale
+- cataPulp
+- Low Blow
+- UnderDog
+- Cranked OD / Cranked AC and OD
+- Super Plex / SuperPlex
+- Plextortion
+
+Distortion:
+- Pinnacle / Pinnacle Deluxe / Pinnacle Deluxe v2
+- Sovereign Distortion
+- Dracarys Distortion
+- Phenom Distortion
+- Triple Wreck
+- SLOstortion
+- The Doctor
+
+Fuzz:
+- Velvet Fuzz
+- Cryptid Fuzz
+- Fuzztration
+- Leviathan Fuzz
+- Ratsbane
+
+Explicit overlaps:
+- Ratsbane = Overdrive + Distortion + Fuzz
+- Golden Jubilee = Overdrive + Distortion
+- Brent Mason: ReWired = Overdrive + Distortion
+- Andy Wood: Gearbox = Overdrive + Distortion
+- The Fearbox = Overdrive + Distortion
+- Mofetta = Overdrive + Distortion
+- tcd / The Compulsion Drive = Overdrive + Distortion
+
+Key restraint: ordinary revisions are consolidated into lineages; gain range alone does not create a new category; Ratsbane is retained as a three-way overlap because Wampler's own current taxonomy and product description support all three dirt types. Paisley Deluxe remains primarily Overdrive for the conservative census despite a current catalog distortion tag because its product description explicitly presents its two channels as overdrive. Boost, compression, modulation, delay/reverb, EQ, and utility products remain outside scope. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+
 ## Last completed research action
-Added and saved Builder -> Pedals research Block 127: Amptweaker.
+Added and saved Builder -> Pedals research Block 128: Wampler Pedals.
 
 Research block commit:
-`afda147c6594f229c9efa3d3a564d5a8eb28132f`
+`cd996580fa870df781dde0ddeb8e8f0dc7c43e6d`
 
 ## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-127.md` saved
-- `CURRENT_STATE.md` updated through Block 127
-- `research/BREADCRUMB.md` updated through Block 127
+- `research/builders/BLOCK-2026-09-17-128.md` saved
+- `CURRENT_STATE.md` updated through Block 128
+- `research/BREADCRUMB.md` updated through Block 128
 
 ## Next action
 Continue the fresh Builder -> Pedals census. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
