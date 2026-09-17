@@ -25,23 +25,23 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 097**.
+Research blocks stored under `research/builders/` now run through **Block 098**.
 
 Latest addition:
-- Block 097: Fjord Fuzz — Daniel Thornhill
+- Block 098: EarthQuaker Devices
 
 Recent blocks:
-- Block 092: VFE Pedals
 - Block 093: Empress Effects
 - Block 094: Dwarfcraft Devices
 - Block 095: Mask Audio Electronics
 - Block 096: Death By Audio
 - Block 097: Fjord Fuzz
+- Block 098: EarthQuaker Devices
 
-Blocks 001–096 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–097 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 094 summary
-Dwarfcraft Devices is treated as an unrepresented builder identity with a historically broad and highly experimental standalone dirt catalog. Product-level category labels and builder/retailer descriptions were combined conservatively because Dwarfcraft frequently crosses the fuzz, distortion, and overdrive boundary.
+Dwarfcraft Devices is treated as an unrepresented builder identity with a historically broad and highly experimental standalone dirt catalog.
 
 Overdrive:
 - Gears
@@ -75,12 +75,8 @@ Fuzz:
 - The Secret Destroyer
 - Zhago
 
-The strongest documented overlaps are The Internet (OD + Distortion), Robot Devil (Fuzz + OD), Spectacular Aenima (OD + Fuzz), Baby Thundaa / Baby Thunder (Fuzz + Distortion), Eau Claire Thunder (Fuzz + Distortion), and The Great Destroyer (Fuzz + Distortion).
-
-Dwarfcraft's catalog also contains many pure experimental effects. Synths, oscillators, pitch shifters, filters, modulation, delay/reverb, utility products, and other non-dirt designs remain excluded even when they can generate harsh or noisy sounds. Shiva is consolidated into SheFuzz because Dwarfcraft explicitly states that She Fuzz used to be called Shiva. Normal revisions and cosmetic editions do not create extra identities.
-
 ### Block 095 summary
-Mask Audio Electronics is treated as a previously uncovered builder identity in the fresh census. The official MAE catalog separates production pedals from DIY Projects and documents a strongly fuzz-oriented pedal lineup with one clear Rat-style distortion identity and several products whose manufacturer descriptions explicitly include overdrive territory.
+Mask Audio Electronics is treated as a previously uncovered builder identity with a strongly fuzz-oriented physical pedal lineup.
 
 Overdrive:
 - Germanium Part Garden
@@ -107,12 +103,8 @@ Fuzz:
 - NO. (historical / discontinued)
 - Ears Come To Die (historical limited-edition Fuzz Lab)
 
-Germanium Part Garden and Part Garden are retained in both Overdrive and Fuzz because MAE explicitly describes both functions. LARAN (prebuilt) is retained in both because the official product page describes a mild-overdrive to full-fuzz range. TRUST YOURSELF is retained under Distortion because the MAE page identifies its Rat basis and independent pedal-reference material classifies it as a RAT-style distortion. MAYBE, Cascader, and the BSRI collaboration remain Fuzz-only despite descriptions of distortion/overdrive territory because MAE presents those as operating ranges around a fuzz identity rather than separate named distortion products.
-
-DIY-only projects and kits, modulation products such as ALONE and NECKBRACE, SEND-IN MODS, and the unresolved `???` listing remain excluded. Former production identities documented through current MAE DIY pages, including YES!, NO., and the limited-edition Ears Come To Die fuzz, are retained as historical pedal identities without separately counting the DIY listings.
-
 ### Block 096 summary
-Death By Audio is treated as a previously uncovered builder identity in the fresh census. The manufacturer's current site documents distinct Overdrive, Distortion, and Fuzz collections and directly identifies Oliver Ackermann as founder. The reviewed dirt catalog is strongly fuzz-oriented, with one explicit standalone overdrive, two explicit distortion identities, and a set of fuzz pedals whose neighboring gain ranges are not promoted into extra categories without direct product-level support.
+Death By Audio is treated as a previously uncovered builder identity with a strongly fuzz-oriented standalone dirt catalog.
 
 Overdrive:
 - Interstellar Overdriver
@@ -130,12 +122,8 @@ Fuzz:
 - Crossover Fuzz
 - Absolute Destruction
 
-Interstellar Overdriver is explicitly identified by Death By Audio as a true overdrive pedal. Germanium Filter is presented as “TRUE VINTAGE DISTORTION,” while Absolute Destruction explicitly includes both thick fuzz and crushing distortion, so Absolute Destruction is retained in both Distortion and Fuzz. Fuzz War, Bass War, Supersonic Fuzz Gun, Apocalypse, Octave Clang V2, and Crossover Fuzz remain Fuzz-only even where the manufacturer describes booster, overdrive, or distortion territory as part of their operating range.
-
-Evil Filter, Echo Dream 2, Time Shadows II, Amp Crash, Thee Treble Overload, Space Bender, Moonbeam Phaser, Reverberation Machine, Rooms, vocal effects, utilities, and other non-target products remain excluded. Historical leads such as Armageddon and Waveformer Destroyer were not promoted because the reviewed current manufacturer material did not establish sufficiently direct product-level target-category evidence.
-
 ### Block 097 summary
-Fjord Fuzz is treated as a previously uncovered builder identity in the fresh census, centered on Daniel Thornhill and based in Bergen, Norway. The official site maintains dedicated Fuzz and Main Line-Up sections, while the builder's own product pages and official videos document current and recent fuzz products. Specialist historical coverage was used only to corroborate older products that are no longer prominently exposed in the current storefront.
+Fjord Fuzz / Daniel Thornhill is treated as a previously uncovered builder identity based in Bergen, Norway.
 
 Overdrive:
 - Embla — historical / discontinued identity
@@ -152,32 +140,79 @@ Fuzz:
 - Hedda
 - Måne
 - SOL
-- Embla — historical / discontinued identity
-- Bifrost — historical / discontinued identity
-- Gjallarhorn — historical identity
-- Berserk — consolidated identity across V1/V2/V3
-- Freia — historical / discontinued identity
-- Kvasir — historical / discontinued identity
-- Mjølner — historical identity
-- Bjørn — historical identity
-- Bufo — historical identity
-- Fjord-Fuzz Super-Fuzz — historical identity
+- Embla
+- Bifrost
+- Gjallarhorn
+- Berserk
+- Freia
+- Kvasir
+- Mjølner
+- Bjørn
+- Bufo
+- Fjord-Fuzz Super-Fuzz
 
-The clearest explicit Overdrive + Fuzz case is Embla: the builder describes it as a fuzz designed to behave like an overdrive. The current Odin, Midgard, Thor, and Midnattsol pages/catalog sections explicitly establish fuzz identities. Dovre, Måne, and Freia are also explicitly documented by Fjord Fuzz as fuzz-focused products, with reverb/filter/vibe functions kept outside the dirt census. No standalone Distortion identity was established strongly enough to promote.
+Embla is the clearest explicit Overdrive + Fuzz case. Neighboring drive ranges inside fuzz products were not promoted into extra categories without separate product-level support.
 
-Frei/Frei 2, Loke, FJÆR, Mime, Njord, and Frøy remain excluded because their primary identities are modulation, delay, reverb, or related non-dirt functions. Neighboring drive ranges inside fuzz products are not promoted into additional dirt categories unless the builder establishes the target function as part of the product identity. Normal revisions and finishes are consolidated.
+### Block 098 summary
+EarthQuaker Devices is a previously uncovered builder with a broad dirt history across current and legacy products. The official EarthQuaker catalog separates Distortion & Overdrive from Fuzz, while the Legacy section identifies products that are no longer in production. Product identity is kept separate from mere gain range.
+
+Overdrive:
+- Blumes
+- Gary
+- Plumes
+- Special Cranker
+- Gray Channel — historical / discontinued
+- Dunes — historical / discontinued
+- Monarch — historical / discontinued
+- Palisades — historical / discontinued
+- Speaker Cranker — historical / discontinued
+- Talons — historical / discontinued
+- Westwood — historical / discontinued
+- White Light — historical / discontinued
+
+Distortion:
+- Acapulco Gold
+- Gary
+- Sunn O))) HalfLife
+- Sunn O))) Life Pedal / Life Pedal V2 — consolidated identity
+- Zoar
+
+Fuzz:
+- Barrows
+- Bellows — historical / discontinued
+- Black Ash — historical / discontinued
+- Chelsea
+- Cloven Hoof — historical / discontinued
+- Dirt Transmitter — historical / discontinued
+- Erupter — historical / discontinued
+- Fuzz Master General — historical / discontinued
+- Gary
+- Hizumitas
+- Hoof
+- Hoof Reaper — historical / discontinued
+- Park Fuzz Sound — historical / discontinued
+- Rancho de la Luna Dirt Transmitter — historical / discontinued
+- Sound Shank — historical / discontinued
+- Spires — historical / discontinued
+- Terminal — historical / discontinued
+- Tone Reaper — historical / discontinued
+- Dream Crusher — historical / discontinued
+
+Gary and Black Ash are the clearest explicit Overdrive + Fuzz overlaps. Chelsea, Bellows, Hoof and similar products remain Fuzz-only when EarthQuaker describes the gain range as part of a fuzz/driver identity. Sunn O))) Life Pedal remains Distortion even though EarthQuaker describes an octave-fuzz-inspired stage inside it. Older revisions and legacy reissues are consolidated with their underlying product identities.
+
+Tentacle, Arrows, Bows, Tone Job, ZEQD-Pre, pitch/synth effects, modulation, delay, reverb, compression, routing, and other non-target products remain excluded.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 097.
+Added and re-read Builder → Pedals research Block 098.
 
 Research block commit:
-`90c618d42998df14542463991127d34b003a24be`
+`b3afbb18c321d361b7f000c4ac2564bfa9eb6a7c`
 
 Research block content SHA:
-`a40b4865e9e3aa5e5a9bc20e77ab55bbb980a6b3`
+`b33f13093f0c4084533dbdc056888052029ef89c`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
