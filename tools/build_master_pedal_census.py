@@ -36,6 +36,13 @@ MANUAL_ALIASES = {
     "Maxon / Nisshin Onpa": "Maxon",
 }
 
+ANNOTATION_MARKERS = (
+    "explicitly", "explicit", "historical/current", "historical", "current",
+    "authoritative", "documentation", "manufacturer", "official", "lineage",
+    "family", "product family", "product relationship", "described as",
+    "identified as", "documentation.", "source", "sources", "catalog",
+)
+
 
 def norm(value: str) -> str:
     value = value.strip().lower().replace("’", "'").replace("æ", "ae")
@@ -44,7 +51,6 @@ def norm(value: str) -> str:
 
 
 def load_builder_aliases() -> dict[str, str]:
-    """Load canonical names and observed aliases from the builder index."""
     aliases: dict[str, str] = {}
     table_re = re.compile(
         r"^\|\s*(\d+)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]*)\|\s*$"
@@ -84,7 +90,6 @@ def resolve_builder(observed: str, aliases: dict[str, str]) -> str:
 
 
 def category_from_heading(heading: str) -> list[str]:
-    """Normalize a dirt category heading to one or more archive types."""
     lower = heading.lower()
     types: list[str] = []
     if "fuzz" in lower:
@@ -96,40 +101,40 @@ def category_from_heading(heading: str) -> list[str]:
     return types
 
 
+def strip_embedded_annotations(text: str) -> str:
+    # Remove ChatGPT/web citation tokens that were accidentally retained in
+    # some older research bullets. These are not product-name content.
+    text = re.sub(r"(?:cite|filecite|url|video|entity).*?", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
 def clean_pedal_text(text: str) -> str | None:
-    text = text.strip()
+    text = strip_embedded_annotations(text.strip())
     if not text or text.startswith(("http://", "https://")):
         return None
 
     lower = text.lower()
     note_markers = (
-        " is an overdrive",
-        " is a distortion",
-        " is a fuzz",
-        " not fuzz",
-        " recorded below",
+        " is an overdrive", " is a distortion", " is a fuzz",
+        " not fuzz", " recorded below", " should not be confused",
     )
     if any(marker in lower for marker in note_markers):
         return None
 
-    # Strip a trailing descriptive function after an em/en dash when it is
-    # clearly a descriptor rather than part of the marketed product name.
-    for dash in (" — ", " – "):
+    # Some historical blocks contain bullets like:
+    # "BigRock Pro - explicit Rock overdrive/distortion lineage."
+    # Keep the named product portion and discard the annotation tail.
+    for dash in (" - ", " — ", " – "):
         if dash not in text:
             continue
         left, right = text.split(dash, 1)
         right_lower = right.lower()
-        descriptor_words = (
-            "overdrive", "distortion", "fuzz", "drive", "booster",
-            "power amp", "low signal", "dynamic", "germanium fuzz",
-            "octave distortion", "fuzz driver", "fuzz tone", "fuzz blaster",
-            "sustainer", "natural overdrive", "grinder", "dirt doubler",
-        )
-        if any(word in right_lower for word in descriptor_words):
+        if any(marker in right_lower for marker in ANNOTATION_MARKERS):
             text = left.strip()
-        break
+            break
 
-    return text.replace("**", "").replace("__", "").strip() or None
+    return text.replace("**", "").replace("__", "").strip(" .;") or None
 
 
 def extract_rows() -> tuple[list[tuple[str, str, str]], int]:
@@ -147,9 +152,6 @@ def extract_rows() -> tuple[list[tuple[str, str, str]], int]:
         for raw in lines:
             line = raw.strip()
 
-            # Newer blocks use:
-            #   ## Builder
-            #   **Builder Name**
             if awaiting_builder_name and line:
                 observed = line.strip().strip("*")
                 current_builder = resolve_builder(observed, aliases)
@@ -166,8 +168,6 @@ def extract_rows() -> tuple[list[tuple[str, str, str]], int]:
                 collecting = False
                 continue
 
-            # Earlier blocks use a numbered builder heading and also carry a
-            # Builder / brand field. The explicit field wins when present.
             builder_match = re.match(r"^Builder\s*/\s*brand:\s*(.+?)\s*$", line, re.I)
             if builder_match:
                 current_builder = resolve_builder(builder_match.group(1), aliases)
@@ -186,24 +186,27 @@ def extract_rows() -> tuple[list[tuple[str, str, str]], int]:
                 awaiting_builder_name = False
                 continue
 
-            # A block can contain either level-2 or level-3 category headings.
-            heading_match = re.match(r"^#{2,3}\s+(.+?)\s*$", line)
-            if heading_match and current_builder and not awaiting_builder_name:
-                heading = heading_match.group(1).strip()
-                # These headings are structural, not product categories.
-                if heading.lower() in {"builder", "verification basis", "category-overlap decisions", "historical / variant handling", "exclusions", "primary source urls", "checkpoint", "notes", "sources"}:
-                    active_types = []
-                    collecting = False
-                    continue
-                active_types = category_from_heading(heading)
-                collecting = bool(active_types)
-                continue
-
             if line.startswith("## Block boundary") or line.startswith("## Checkpoint"):
                 current_builder = ""
                 active_types = []
                 collecting = False
                 awaiting_builder_name = False
+                continue
+
+            heading_match = re.match(r"^#{2,3}\s+(.+?)\s*$", line)
+            if heading_match and current_builder and not awaiting_builder_name:
+                heading = heading_match.group(1).strip()
+                structural = {
+                    "builder", "verification basis", "category-overlap decisions",
+                    "historical / variant handling", "exclusions", "primary source urls",
+                    "checkpoint", "notes", "sources",
+                }
+                if heading.lower() in structural:
+                    active_types = []
+                    collecting = False
+                    continue
+                active_types = category_from_heading(heading)
+                collecting = bool(active_types)
                 continue
 
             if line.startswith("Sources:") or line.startswith("## Primary source URLs") or line.startswith("### Notes") or line.startswith("Notes:") or line.startswith("Verification notes:"):
