@@ -25,23 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 123**.
+Research blocks stored under `research/builders/` now run through **Block 124**.
 
 Latest addition:
-- Block 123: Beetronics FX
+- Block 124: Mad Professor Amplification
 
 Recent blocks:
-- Block 118: Analog Man
 - Block 119: Benson Amps
 - Block 120: Greer Amps
 - Block 121: Suhr
 - Block 122: Crazy Tube Circuits
 - Block 123: Beetronics FX
+- Block 124: Mad Professor Amplification
 
-Blocks 001–122 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
-
-### Block 118 summary
-Analog Man spans all three target categories. King Of Tone and Prince Of Tone are Overdrive + Distortion through explicit modes; Sun Face, Astro Tone, Peppermint Fuzz, and Sun Lion are recorded as fuzz identities. Third-party modifications and boost-first products remain outside the builder/product census.
+Blocks 001–123 remain recorded in `research/builders/` and prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 119 summary
 Benson Amps is a previously uncovered builder with a compact but clear dirt catalog.
@@ -62,10 +59,7 @@ Fuzz:
 - Störkn B0kš
 - Deep Sea Diver Fuzz-Echo
 
-Key overlaps:
-- Preamp Pedal = Overdrive + Fuzz; Benson explicitly calls it a clean boost/overdrive/fuzz pedal.
-- Germanium Preamp Pedal = Overdrive + Fuzz; Benson explicitly describes it as overdrive/boost/fuzz.
-- Germanium Fuzz = Overdrive + Fuzz; the authoritative Mixwave Benson guide explicitly describes clean boost, overdrive, and fuzz.
+Key overlaps: Preamp Pedal = Overdrive + Fuzz; Germanium Preamp Pedal = Overdrive + Fuzz; Germanium Fuzz = Overdrive + Fuzz.
 
 Key restraint: 424 MKII remains Distortion only; Stonk Box, Störkn B0kš, and Deep Sea Diver remain Fuzz; Germanium Boost and other non-target products remain outside scope.
 
@@ -139,8 +133,7 @@ Fuzz:
 - Rufus Reloaded Fuzz — legacy
 - Thornicus Fuzz
 
-Key overlap:
-- Eclipse = Overdrive + Distortion.
+Key overlap: Eclipse = Overdrive + Distortion.
 
 Key restraint: Riot remains Distortion only despite its ability to push an amp into natural overdrive; Rufus and Thornicus remain Fuzz only. Named Reloaded versions are retained as lineage products, while minor hardware and finish changes are consolidated. Boost, compression, modulation, delay, buffers, and tone tools remain outside scope.
 
@@ -202,22 +195,55 @@ Fuzz:
 - Nectar Tone Sweetener
 - Tuna Fuzz
 
-Key overlaps:
-- Royal Jelly = Overdrive + Fuzz; Beetronics explicitly describes it as a blend of overdrive and fuzz.
-- Nectar Tone Sweetener = Overdrive + Fuzz; Beetronics explicitly provides smooth overdrive and saturated fuzz modes.
+Key overlaps: Royal Jelly = Overdrive + Fuzz; Nectar Tone Sweetener = Overdrive + Fuzz.
 
-Key restraint: Beetronics generic mentions of distortion are not enough to establish a separate Distortion category. Octahive V2, Vezzpa, Swarm, and Abelha remain Fuzz despite octave/harmonizer modes. Wannabee remains Overdrive only. Limited editions, custom-shop units, artwork, and enclosure variants are consolidated rather than multiplied. Tuna Fuzz remains one fuzz identity despite its unusual can enclosure. Modulation/time-based and boost-first products remain outside scope. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
+Key restraint: Beetronics generic mentions of distortion are not enough to establish a separate Distortion category. Octahive V2, Vezzpa, Swarm, and Abelha remain Fuzz despite octave/harmonizer modes. Wannabee remains Overdrive only. Limited editions, custom-shop units, artwork, and enclosure variants are consolidated rather than multiplied. Tuna Fuzz remains one fuzz identity despite its unusual can enclosure. Modulation/time-based and boost-first products remain outside scope.
+
+### Block 124 summary
+Mad Professor Amplification is a previously uncovered builder with a large historical/current Overdrive catalog plus dedicated Distortion and Fuzz products.
+
+Overdrive:
+- Albert's Overdrive — historical/discontinued
+- Amber Overdrive — historical/discontinued
+- Big Tweedy Drive — historical/discontinued
+- Blueberry Bass Overdrive — historical/discontinued
+- Bluebird Overdrive — historical/discontinued
+- Golden Cello — historical/discontinued
+- The Green Wonder — current
+- Little Green Wonder — current/handwired lineage
+- Little Tweedy Drive — historical/discontinued
+- Loud 'n Proud — historical/discontinued
+- Royal Blue Overdrive — current/handwired lineage
+- Simble / Simble Overdrive Mk2 — original lineage + current Mk2
+- Sky Blue Overdrive — historical/handwired lineage
+- Supreme — historical/limited/current-return lineage
+- Sweet Honey Overdrive — current/handwired lineage
+- Sweet Honey Overdrive Deluxe — historical/discontinued
+- Twimble — historical/discontinued
+
+Distortion:
+- Mighty Red Distortion — historical/discontinued
+- Stone Grey Distortion — historical/discontinued
+
+Fuzz:
+- Fire Red Fuzz — historical/discontinued
+- Loud 'n Proud — historical/discontinued
+
+Key overlap:
+- Loud 'n Proud = Overdrive + Fuzz. Mad Professor explicitly combines a medium-gain Marshall-style overdrive circuit with a dedicated vintage germanium-style fuzz section.
+
+Key restraint: Amber and Albert's remain Overdrive only despite fuzz-like behavior at high settings. Bluebird and Blueberry Bass remain Overdrive only despite higher settings producing distortion. Royal Blue remains Overdrive only despite its range into distortion. Super Black is excluded as an amp-in-a-box product even though it contains a separate Sweet Honey overdrive circuit. Evolution Orange Underdrive, Simble Predrive, Ruby Red Booster, and non-dirt effects remain outside scope. Routine handwired/factory versions, reissues, and minor variants are consolidated into product lineages. No components, schematics, cloning, PCB, BOM, or internal-build information is recorded.
 
 ## Last completed research action
-Added and saved Builder → Pedals research Block 123: Beetronics FX.
+Added and saved Builder → Pedals research Block 124: Mad Professor Amplification.
 
 Research block commit:
-`2563cd194568648a5fb8c594fc464dd376a6e842`
+`322c510c339830460d8d7f785e4f828279688d72`
 
 ## Last checkpoint
-- `research/builders/BLOCK-2026-09-17-123.md` saved
-- `CURRENT_STATE.md` updated through Block 123
-- `research/BREADCRUMB.md` updated through Block 123
+- `research/builders/BLOCK-2026-09-17-124.md` saved
+- `CURRENT_STATE.md` updated through Block 124
+- `research/BREADCRUMB.md` updated through Block 124
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another previously uncovered multi-pedal builder or builder group and verify product names against primary or authoritative catalog sources.
