@@ -25,20 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 110**.
+Research blocks stored under `research/builders/` now run through **Block 111**.
 
 Latest addition:
-- Block 110: Mr. Black
+- Block 111: Chase Bliss
 
 Recent blocks:
-- Block 105: Fulltone
 - Block 106: Dr. Scientist
 - Block 107: IdiotBox Effects
 - Block 108: Stone Deaf FX
 - Block 109: ThorpyFX
 - Block 110: Mr. Black
+- Block 111: Chase Bliss
 
-Blocks 001–109 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
+Blocks 001–110 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 105 summary
 Fulltone is a previously uncovered builder with a long-running dirt catalog spanning current and historical products.
@@ -232,17 +232,35 @@ Mr. Black's official site currently identifies the Deuce Coupe and Bass OD Mk. I
 
 The archive keeps boost-first products such as Boost Tiger, Treble Booster, Boost Drive One-Hundred, and Black LTD. Power Drive outside the target categories. Modulation, reverb, delay, octave-only, and utility products are also excluded. Doomstick and Doomstick II are treated as one fuzz lineage rather than separate entries unless a materially distinct named product is established.
 
+### Block 111 summary
+Chase Bliss is a previously uncovered builder founded by Joel Korte. The official About page says the company began in 2013. The current catalog includes Brothers AM, while Chase Bliss's official manuals and legacy catalog document Brothers, Bliss Factory, Condor HiFi, and Preamp MKII as historical dirt-focused products.
+
+Overdrive:
+- Brothers AM — current
+- Brothers — historical / discontinued
+- Condor HiFi — historical / discontinued
+- Preamp MKII — historical / discontinued
+
+Distortion:
+- Brothers AM — current
+
+Fuzz:
+- Brothers — historical / discontinued
+- Bliss Factory — historical / discontinued
+- Preamp MKII — historical / discontinued
+
+The strongest target dirt cases are Brothers AM, which explicitly provides Overdrive and Distortion modes; Brothers, which combines drive and fuzz circuits; Preamp MKII, which combines a drive/preamp section with two fuzz modes; Condor HiFi, which explicitly includes an Overdrive section; and Bliss Factory, which is explicitly a germanium fuzz. The archive does not treat the added treble booster circuits as target dirt categories and does not turn compressor or incidental clipping behavior into extra entries.
+
+Chase Bliss's much larger modulation, delay, reverb, looping, sampling, and effects catalog remains outside the target census. Clean is excluded because its primary identity is compressor/limiter even though it can be pushed toward overdrive and fuzz-like behavior. Normal current/legacy relationships are consolidated without inventing variant duplicates.
+
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 110.
+Added and re-read Builder → Pedals research Block 111.
 
 Research block commit:
-`52783b1e6678ae90c145b6d0a043c7bbc0e52801`
-
-Research block content SHA:
-`ab9b30fb51d523aa64f7596f768ba87b0f71f87d`
+`9ffcb23795979272782eca3ed1672128fa609ec8`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
