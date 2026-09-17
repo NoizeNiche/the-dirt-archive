@@ -5,12 +5,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **203 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **237 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **149 block files** are currently present: Blocks 001-069, 071-141, and 143-151.
+- **206 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **240 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **150 block files** are currently present: Blocks 001-069, 071-141, and 143-152.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 203 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 206 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -227,6 +227,9 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 201 | Audiofab | 150 |  |
 | 202 | Audiostorm | 150 |  |
 | 203 | Audiobox | 151 |  |
+| 204 | Audio! Audio! | 152 |  |
+| 205 | Audio-Phonic | 152 |  |
+| 206 | Audio Squared | 152 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
