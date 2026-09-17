@@ -11,11 +11,10 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 ## Repository continuity
 - `CURRENT_STATE.md` is the durable state file.
 - Research blocks are stored under `research/builders/`.
-- Blocks 001–112 are preserved; do not regenerate or discard them merely to continue.
+- Blocks 001–113 are preserved; do not regenerate or discard them merely to continue.
 - Older pre-reset research remains excluded unless explicitly reintroduced and re-verified.
 
 ## Recent completed blocks
-- 105: Fulltone
 - 106: Dr. Scientist
 - 107: IdiotBox Effects
 - 108: Stone Deaf FX
@@ -23,25 +22,7 @@ Fresh builder/product census only. Record builder names and their overdrive, dis
 - 110: Mr. Black
 - 111: Chase Bliss
 - 112: Hudson Electronics UK
-
-## Block 111 — Chase Bliss
-Chase Bliss, Joel Korte / Chase Bliss team.
-
-Overdrive:
-- Brothers AM — current
-- Brothers — historical / discontinued
-- Condor HiFi — historical / discontinued
-- Preamp MKII — historical / discontinued
-
-Distortion:
-- Brothers AM — current
-
-Fuzz:
-- Brothers — historical / discontinued
-- Bliss Factory — historical / discontinued
-- Preamp MKII — historical / discontinued
-
-Key restraint: Chase Bliss explicitly gives Brothers AM Overdrive and Distortion modes. The original Brothers pedal contains drive and fuzz circuits in two independent channels. Preamp MKII combines a drive/preamp section with two fuzz modes, while Condor HiFi explicitly includes an Overdrive section. Bliss Factory is explicitly a germanium fuzz. Clean, boost sections, and the company's larger modulation/delay/reverb/sampler catalog remain outside the target categories.
+- 113: BlackOutEffectors
 
 ## Block 112 — Hudson Electronics UK
 Hudson Electronics UK, Michael Hudson.
@@ -81,15 +62,40 @@ Key restraint: Broadcast and Sidecar are explicitly documented by Hudson as span
 
 Pretty Flamingo remains Fuzz-only even though Hudson mentions lighter overdrive/distortion tones. Buzzard remains Fuzz-only despite the phrase "dense, chewy distortion." Full Range Bomb and Soul Bomb are Fuzz entries with boost sections; boost is outside scope. Broadcast AP-II remains uncategorized because its official description establishes a dual preamplifier and heavily distorted range but not a separate named target dirt identity strongly enough for conservative classification.
 
-Normal Broadcast retail/color variants and other ordinary editions are consolidated. Hudson's official archived catalog supplies the historical product pool; Effects Database and Premier Guitar are used only as supporting sources for a few surviving historical identities, especially Overdrive Eight Fifty, Standard Machine, Buzzoid, and launch-era fuzz products.
+Normal Broadcast retail/color variants and other ordinary editions are consolidated. Hudson's official archived catalog supplies the historical product pool; Effects Database and Premier Guitar are used only as supporting sources for a few surviving historical identities.
+
+## Block 113 — BlackOutEffectors
+BlackOutEffectors is a previously uncovered builder with a compact, fuzz-heavy catalog and a smaller overdrive footprint. The surviving BlackOutEffectors site identifies the company as a boutique effects manufacturer founded in 2008, with the company beginning in Vancouver and moving to Asheville in 2009. The historical catalog is strongly associated with founder/designer Kyle Tompkins.
+
+Overdrive:
+- Mantra Overdrive — historical / established catalog product
+- Fix'd Fuzz / Fix'd Fuzz V3 — fuzz-based hybrid with explicit light-overdrive range
+- Fix'd Fuzz Deluxe — historical / deluxe hybrid; builder explicitly describes boost + overdrive alongside fuzz
+
+Distortion:
+- None established under the archive's conservative rule
+
+Fuzz:
+- Fix'd Fuzz / Fix'd Fuzz V3 — historical/current catalog lineage
+- Fix'd Fuzz Deluxe — historical / deluxe hybrid
+- Musket Fuzz / Musket Fuzz V2 — historical/current catalog lineage
+- FUBÄR Fuzz — historical / limited
+- Blunderbuss Fuzz — historical / special-run hybrid fuzz
+- Twosome Dual Fuzz — historical; dual fuzz combining the Musket and Fix'd Fuzz Deluxe concepts
+- Crystal Dagger — historical; octave-fuzz section combined with ring modulation / phasing functions
+- Fuzz Bear — historical / limited
+
+Key restraint: BlackOutEffectors explicitly labels Mantra as Overdrive and describes Fix'd Fuzz products as fuzz devices with boost/overdrive stages. The surviving builder catalog does not establish a separate Distortion product identity strongly enough for this census, so Musket, Blunderbuss, and the other aggressive fuzz products remain Fuzz-only. Secondary databases sometimes use broader distortion categories, but those are not promoted when they conflict with the builder's own identity.
+
+Normal revisions and closely related limited runs are consolidated. Fix'd Fuzz/V3 and Musket/V2 remain single product lineages. Twosome special editions remain one Twosome lineage. Crystal Dagger stays Fuzz despite its octave/ring-mod/phaser functions. Gravity Boost and other boost-first products, plus Sibling, Whetstone, and Cadavernous, remain outside the target census.
 
 ## Last research commit
-`0c2dde79096feb4fb6b4ef909eaea1974952aa26`
+`c492829eb6e8941dcae2040f2f97e6e40a796d75`
 
 ## Last checkpoint
-- `CURRENT_STATE.md` updated through Block 112
-- `research/builders/BLOCK-2026-09-17-112.md` saved and verified
-- `CURRENT_STATE.md` now records Block 112 and points to Block 113
+- `CURRENT_STATE.md` updated through Block 113
+- `research/builders/BLOCK-2026-09-17-113.md` saved and verified
+- `CURRENT_STATE.md` now records Block 113 and points to Block 114
 
 ## Next action
 Continue the fresh Builder → Pedals census only. Prefer another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
