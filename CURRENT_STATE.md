@@ -85,8 +85,6 @@ Fuzz:
 - Tone Reaper — historical / discontinued
 - Dream Crusher — historical / discontinued
 
-Gary and Black Ash are the clearest explicit Overdrive + Fuzz overlaps. The Life Pedal remains Distortion despite its octave-fuzz-inspired stage.
-
 ### Block 099 summary
 Caroline Guitar Company is treated as a previously uncovered builder with a mixed historical dirt catalog.
 
@@ -151,7 +149,7 @@ Research block commit:
 `c61281d84e8a1ac5b5c122b553d1fb5a0e2b5ec0`
 
 Research block content SHA:
-`d1e...`
+`b33f13093f0c4084533dbdc056888052029ef89c`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
