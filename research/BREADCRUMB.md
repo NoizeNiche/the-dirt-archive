@@ -14,7 +14,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Permanent archive governance is active.
 - Durable current-state tracking is active.
 - The website remains a simple construction page for now.
-- Fresh research Blocks 001–049 are stored under `research/builders/`.
+- Fresh research Blocks 001–050 are stored under `research/builders/`.
 - Block 001 covers Fulltone, MXR, Maxon, and DOD.
 - Block 002 covers EarthQuaker Devices and Wampler Pedals.
 - Block 003 covers JHS Pedals and Walrus Audio.
@@ -46,7 +46,7 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 029 covers Origin Effects and Vertex Effects.
 - Block 030 covers Source Audio.
 - Block 031 covers Lichtlaerm Audio and Does It Doom?, with uncertain Does It Doom? classifications deliberately left in a verification queue rather than forced into categories.
-- Block 032 covers BJFE / BJF Electronics — Björn Juhl, using the BJFE/BearFoot archival registry and product-description archive, cross-checked against official One Control pages that explicitly identify Björn Juhl/BJF/BJFE relationships.
+- Block 032 covers BJFE / BJF Electronics — Björn Juhl, using the BJFE/BearFoot archival registry, product-description archive, and official One Control corroboration.
 - Block 033 covers Foxrox Electronics and Pete Cornish / Pete Cornish Effects using current and historical manufacturer catalog/product pages and official product documentation.
 - Block 034 covers Himmelstrutz Elektro Art — Joakim Hedeby, using Himmelstrutz's official download archive, owner manuals, and historical manufacturer documentation. Unclear identities remain verification leads rather than forced classifications.
 - Block 035 covers Daredevil Pedals — Johnny Wator, using Daredevil's official catalog/product pages and authoritative distributor/historical catalog references. Boost-only products remain outside the categorized dirt census, and British Black Belt remains a verification lead rather than a forced classification.
@@ -64,12 +64,13 @@ The research phase is a fresh builder/product census. Record builder names and t
 - Block 047 covers Subdecay — Brian Marshall, using Subdecay's official founder material, current effects catalog, individual official product pages, and manufacturer documentation. Current and clearly documented discontinued overdrive/fuzz identities plus the Vector multi-dirt pedal were included; synth, modulation, filter, reverb, delay, and utility products were excluded.
 - Block 048 covers Big John Effects — Jan Detremerie, Stijn Vandebril, and Arnoud Faber, using the builder's official company history, current product pages, and owner manual. Explicit overdrive, distortion, and fuzz identities were included; insufficiently documented pre-order/prototype products and non-target preamp/utility products were excluded.
 - Block 049 covers Big Knob Pedals — Gary Kibler, using the builder's official About page, current pedal catalog, individual official product pages where available, and authoritative historical corroboration. Explicit overdrive, distortion, and fuzz identities were included; Muff products were normalized into the archive's Fuzz category and non-dirt effects were excluded.
+- Block 050 covers Blackout Effectors — Kyle Tompkins, using manufacturer-originated archived product descriptions and manuals where recoverable, plus authoritative product archives and a period builder interview. Explicit overdrive and fuzz identities were included; Distortion was deliberately left empty rather than inferred, and boost-only/non-dirt effects were excluded.
 
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not being treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last research commit
-`b88248a3f5b8af54a6555c4941c78a37210647a5`
+`a5d9141c7c1194975bdaeb4b227f09e354eb5142`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
