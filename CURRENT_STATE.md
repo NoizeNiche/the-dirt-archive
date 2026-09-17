@@ -146,10 +146,10 @@ This is the fresh research stream after the reset. The old accumulated research 
 Added and re-read Builder → Pedals research Block 100.
 
 Research block commit:
-`c61281d84e8a1ac5b5c122b553d1fb5a0e2b5ec0`
+`91ff22bb80ea26d6f58cb610aa2a8aee64778c06`
 
 Research block content SHA:
-`b33f13093f0c4084533dbdc056888052029ef89c`
+`100e24f2ec3601a24f9a6ee678e0ad3d238545fc`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
