@@ -16,9 +16,10 @@ Current master-catalog checkpoint:
 - **103 companies** currently represented by pedal entries
 
 Current Builder -> Pedals research checkpoint:
-- **267 canonical builder identities**
-- **305 builder mentions** across **158 live research blocks**
-- Blocks 001-069, 071-141, and 143-160 are present
+- **267 canonical builder identities are in the master index through Block 160**
+- **Block 161 adds 9 new builder identities, pending master-index insertion**
+- **158 prior live research blocks are indexed, with Block 161 now added as the newest working block**
+- Blocks 001-069, 071-141, and 143-161 are present
 - Block 070 is absent; Block 142 was removed as a duplicate
 
 The website uses the catalog directly and does not depend on the research blocks for page rendering.
@@ -48,4 +49,4 @@ Every pedal record can then receive its information and photo.
 Do not build extra website relationships, evidence systems, confidence systems, lead systems, or other tracking layers unless the project explicitly changes direction.
 
 ## Next action
-Continue the Scrape B company -> pedal collection alphabetically after Bowman Audio Endeavors. Compare new work against the existing catalog so we add missing companies and pedals instead of creating duplicate records.
+Continue the Scrape B company -> pedal collection alphabetically after Broughton Audio. Before adding another builder, insert the nine Block 161 builders into the canonical builder index so future passes do not create duplicate identities.
