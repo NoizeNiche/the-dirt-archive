@@ -25,45 +25,20 @@ The website remains a simple `UNDER CONSTRUCTION` page. GitHub repository toolin
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through **Block 103**.
+Research blocks stored under `research/builders/` now run through **Block 104**.
 
 Latest addition:
-- Block 103: Spaceman Effects
+- Block 104: Old Blood Noise Endeavors
 
 Recent blocks:
-- Block 098: EarthQuaker Devices
 - Block 099: Caroline Guitar Company
 - Block 100: Electronic Audio Experiments
 - Block 101: Black Arts Toneworks
 - Block 102: Fairfield Circuitry
 - Block 103: Spaceman Effects
+- Block 104: Old Blood Noise Endeavors
 
-Blocks 001–102 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
-
-### Block 100 summary
-Electronic Audio Experiments is treated as a previously uncovered builder with a substantial lineup across Overdrive, Distortion, and Fuzz.
-
-Overdrive:
-- Halberd
-- Citadel
-- Model feT
-- Limelight
-- The Bard
-- Dagger — historical / discontinued
-- 0xEAE Boost — historical / discontinued collaboration
-- Dude Incredible / Tube Voice channel — historical / discontinued
-- Greathammer
-
-Distortion:
-- Longsword
-- Surveyor
-- Dude Incredible / Tube Voice channel — historical / discontinued
-
-Fuzz:
-- Glaive
-- 0xEAE Fuzz — historical / discontinued collaboration
-- Eldritch Blast — historical / discontinued collaboration
-- Dude Incredible / Percolate channel — historical / discontinued
+Blocks 001–103 remain recorded in `research/builders/` and in prior checkpoint history. Do not regenerate or discard them merely to continue the census.
 
 ### Block 101 summary
 Black Arts Toneworks is a previously uncovered builder with a broad dirt history dominated by fuzz and heavy gain.
@@ -146,17 +121,36 @@ Fuzz:
 
 Spaceman explicitly identifies Apollo VIIb as Preamp/Overdrive, Polaris as Resonant Overdrive, Aphelion as Harmonic Overdrive, and Saturn V as low-gain overdrive as well as a boost. The fuzz catalog includes Sputnik, Gemini, Spacerocket, Rumblefuzz, Charon, and Titan products. Fuzz products are not duplicated into Overdrive or Distortion just because their gain controls reach those areas. Boost-first products such as Atlas IV and Saturn VI remain excluded.
 
+### Block 104 summary
+Old Blood Noise Endeavors (OBNE) is a previously uncovered builder with a current catalog spanning Overdrive, Distortion, and Fuzz.
+
+Overdrive:
+- Fault V2
+- Beam Splitter V2
+
+Distortion:
+- Fault V2
+- Beam Splitter V2
+- Excess V2
+
+Fuzz:
+- Haunt Fuzz
+- Alpha Haunt
+- Pardner
+
+OBNE explicitly presents Fault V2 as Overdrive + Distortion. Beam Splitter V2 uses three overdrive voices while the product is also presented as a trereo distortion, so it is retained in both categories as one named pedal. Excess V2 is a dedicated distortion paired with modulation/delay functions. Haunt, Alpha Haunt, and Pardner are explicitly fuzz products. Screen Violence, Dark Star, Black Bobbin Boost, and other non-target or boost-first products remain excluded.
+
 ## Research posture
 This is the fresh research stream after the reset. The old accumulated research batches, master lists, and breadcrumb history are not treated as the active starting dataset unless explicitly reintroduced and verified.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 103.
+Added and re-read Builder → Pedals research Block 104.
 
 Research block commit:
-`d8e1a3728ea46da54aaeddfa5f772aff7ff1d383`
+`3f6c4a6af446139bd926a687ba46d63a8a11b366`
 
 Research block content SHA:
-`17e58fa061faa390dc943adc40121b10495fdc0b`
+`1d81e2c228ea1f7fdc3fd08acb0778a8312f0a42`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
