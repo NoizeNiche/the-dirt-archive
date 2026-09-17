@@ -47,9 +47,9 @@ This is the fresh research stream after the reset. The old accumulated research 
 `6cd0cc436d6dd5c235331e354b774b018911c4ee`
 
 ## Last checkpoint files
-- `CURRENT_STATE.md` updated in commit `7008895e2dab44205fa7d7fc1d6c277ff929b092`
+- `CURRENT_STATE.md` updated in commit `3b79b17661ad7fca1c4e083b9d7bb4d3170acba4`
 - `research/builders/BLOCK-2026-09-17-083.md` content SHA: `88c4823d421ee16d63bd9a6f4dad79884462372c`
-- `CURRENT_STATE.md` content SHA: `a4f605dde35f6b6ac3906dc08709c0fd90e37bf9`
+- `CURRENT_STATE.md` content SHA: `cc72d51cd876d542b5db2139b5682a19697cfe4a`
 
 ## Next action
 Continue the fresh Builder → Pedals census only. When external research access is available, prioritize another multi-pedal builder or builder group not already represented and verify product names against primary or authoritative catalog sources. Do not promote unverified leads into the categorized census.
