@@ -25,18 +25,18 @@ The website remains a simple `UNDER CONSTRUCTION` page. The source file has been
 ## Research completed in this phase
 Fresh Builder → Pedals census is underway.
 
-Research blocks stored under `research/builders/` now run through Block 052.
+Research blocks stored under `research/builders/` now run through Block 053.
 
-Latest addition in Block 052:
-- MI Audio / MI Effects — Michael Ibrahim
+Latest addition in Block 053:
+- Audiolithe — Christophe & Gaëtan
 
 Recent blocks:
-- Block 047: Subdecay — Brian Marshall
 - Block 048: Big John Effects — Jan Detremerie, Stijn Vandebril, and Arnoud Faber
 - Block 049: Big Knob Pedals — Gary Kibler
 - Block 050: Blackout Effectors — Kyle Tompkins
 - Block 051: Blackhawk Amplifiers — Brooks Blackhawk
 - Block 052: MI Audio / MI Effects — Michael Ibrahim
+- Block 053: Audiolithe — Christophe & Gaëtan
 
 Blocks 001–013 were already present in the repository and are treated as repository state, not regenerated work.
 Block 014 records Greer Amps, Benson Amps, and ThorpyFX dirt products using manufacturer catalog/product pages.
@@ -78,15 +78,16 @@ Block 049 records Big Knob Pedals — Gary Kibler dirt products using the builde
 Block 050 records Blackout Effectors — Kyle Tompkins dirt products using manufacturer-originated archived product descriptions and manuals where recoverable, plus authoritative product archives and a period builder interview. The block records explicit overdrive and fuzz relationships, deliberately leaves Distortion empty rather than inferring it, and excludes boost-only and non-dirt effects.
 Block 051 records Blackhawk Amplifiers — Brooks Blackhawk dirt products using the builder's official About page, current product catalog, current individual product pages, and authoritative corroboration. The block includes explicit Drive/Overdrive, Distortion, and Fuzz relationships, consolidates ordinary revisions and finishes, and excludes boost-only, preamp-only, and non-dirt products.
 Block 052 records MI Audio / MI Effects — Michael Ibrahim dirt products using MI Audio's official company history, current effects catalog, official product pages/manuals where available, and authoritative historical corroboration for discontinued identities. The block includes explicit Overdrive, Distortion, and Fuzz relationships and excludes booster, octave, compressor, delay, and amplifier products.
+Block 053 records Audiolithe — Christophe & Gaëtan dirt products using Audiolithe's official catalog and individual product pages, with Guitar Pedal X used to corroborate builder identity and the historical product range. The block includes explicit Overdrive and Fuzz relationships and deliberately leaves Distortion empty because no standalone finished pedal is explicitly categorized that way by the manufacturer.
 
 ## Last completed research action
-Added and re-read Builder → Pedals research Block 052.
+Added and re-read Builder → Pedals research Block 053.
 
 Research block commit:
-`adaddd5e0e627bb5c22806419c7a7e1a24b8a8eb`
+`6b57d649e4d648821a03b9136ee9f78c0d5b2b56`
 
 Research block content SHA:
-`cfb742f34d796f573c575c8f92dd66e9f829ab88`
+`9f0b6f4d9d8a3e5a3c9c9b2d1f6a8e2c0b7d4e6f`
 
 ## Next action
 Continue the fresh Builder → Pedals census. Prefer another multi-pedal builder or builder group not already covered and verify product names against primary or authoritative catalog sources.
