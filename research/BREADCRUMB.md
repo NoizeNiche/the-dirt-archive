@@ -221,3 +221,7 @@ The next exact-order unresolved target is **Adventure Audio - Demogorgon Fuzz**.
 Batch 024 processed the next 10 incomplete PRP1 records in exact website order, from **Adventure Audio - Demogorgon Fuzz** through **Aguilar - Storm King - Micro Bass Distortion/Fuzz**. **Adventure Audio - Demogorgon Fuzz** received a confirmed exact-model photograph from Rich Tone Music and its research record, photo manifest, public index, and tracker were synchronized, moving it to fully complete. **Aguilar - Storm King - Micro Bass Distortion/Fuzz** was the only record in the batch missing Pedal Info research; a new PRP1 record was added from Aguilar's official product documentation and supporting historical coverage. The remaining records were rechecked against their available research and exact-model visual references. No substitute, inferred image, or guessed image URL was promoted. The Storm King record remains **Picture: NEEDED / PRP Complete: NEEDED**.
 
 The next exact-order unresolved target is **AGR Pedals - FZR912 - Muff Fuzz Deluxe**.
+
+## PRP1 consistency repair after batch 024
+
+The existing **Barber Electronics - Small Fry** research record introduced by a concurrent repository update was reconciled into the canonical PRP data layer. Its research record is now linked from **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Because the exact Small Fry image was not separately archived under this catalog identity, the picture remains **NEEDED** and no photo was inferred from the Burn Unit alias.

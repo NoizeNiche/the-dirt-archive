@@ -1549,5 +1549,12 @@
     "image": null,
     "source_page": "https://aguilaramp.com/en-int/products/storm-king-distortion-bass-pedal",
     "research_record": "./research/pedals/Aguilar/Storm King - Micro Bass Distortion/Fuzz.md"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "Small Fry",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/barber/smallfry",
+    "research_record": "./research/pedals/Barber Electronics/Small Fry.md"
   }
 ]
