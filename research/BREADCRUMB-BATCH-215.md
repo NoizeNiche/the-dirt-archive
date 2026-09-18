@@ -8,8 +8,9 @@ September 17, 2026
 
 ## Haul
 - **17 distinct builders**
-- **350 new company/pedal/type rows**
-- Active Scrape C grew from **1105** to **1455 rows**
+- **350 raw company/pedal/type records staged**
+- **348 net new live rows after duplicate-name cleanup**
+- Active Scrape C grew from **1,105** to **1,453 rows**
 - Canonical builder identities grew from **493 to 495**
 - New canonical builders:
   - **494 J. Rockett Audio Designs**
@@ -54,6 +55,7 @@ Primary/authoritative sources consulted in this haul included:
 - JHS Pedals current all-products and fuzz/distortion collections
 
 ## Cleanup performed
+- Consolidated two JHS **The Violet** rows into the canonical **Violet** identity; the 350-row raw haul therefore produced 348 net new live rows.
 - Excluded the prior HardWire placeholder rows with no identified pedal.
 - Removed obvious prose/notes that had accidentally entered the JHS pedal field.
 - Normalized the EHX-by-JHS Big Muff name, Notadümblë V2 spelling, and Violet naming into single pedal identities for the active census.
