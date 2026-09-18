@@ -194,11 +194,11 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## 13. Current checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 150
-- Pedals with confirmed pictures: 126
-- Fully complete PRP pedals: 126
-- Remaining incomplete pedals: 3695
-- Researched but waiting only for a confirmed picture: 24
+- Pedals with research information: 159
+- Pedals with confirmed pictures: 135
+- Fully complete PRP pedals: 135
+- Remaining incomplete pedals: 3686
+- Researched but waiting only for a confirmed picture: 25
 - Current PRP1 target: **Acid Fuzz - Mk1.5**
 
 PRP1 batch 003 covered ten unresolved parent records in exact website order, from AC Noises - Urla through Aclam Guitars - Go Rocky Go. One exact model photo was added for Acid Fuzz - Italian Fuzz from the builder's documented Vintage Series example. Unverified photo candidates remain unfilled rather than using substitutions.
