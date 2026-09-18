@@ -40,6 +40,6 @@ Triplex is a simple three-control distortion with Sweep providing the main tonal
 2. Effects Database — 2011 AC Efectos introduction: https://www.effectsdatabase.com/updates/weekly/20110425
 
 ## Photo
-- **Exact pedal photograph:** Effects Database photograph of Triplex Distortion.
-- **Source page:** https://www.effectsdatabase.com/model/ac/triplex
-- **Direct image:** Not retained because the image URL was not exposed as a stable direct file.
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** https://www.effectsdatabase.com/model/ac/triplex
+- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
