@@ -95,6 +95,21 @@ Current checkpoint: 148 researched, 104 pictured, 109 fully complete, 3,712 rema
 The complete operating guide is research/PRP_RULES.md.
 
 
+
+## Current site-priority override
+
+The active Builder -> Pedals and PRP rules remain preserved, but the immediate project priority is now the **site foundation and functionality audit**.
+
+PRP is paused until:
+- catalog model/version/variation relationships are reliable
+- photo routing is reliable
+- public pedal pages are clear and simple
+- navigation/search behavior is stable
+- deployment validation catches data wiring errors
+
+The working site architecture is documented in SITE_ARCHITECTURE.md.
+
+
 ## Faceted filter design
 
 The left-hand archive navigation is intended to work as a **progressive, faceted filter system** rather than a single-choice menu.
