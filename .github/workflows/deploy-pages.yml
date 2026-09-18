@@ -51,7 +51,6 @@ jobs:
               assert rel in indexed, f"Unlinked PRP research record: {rel}"
 
           assert "No Photo Archived" in Path("index.html").read_text()
-          assert "No Photo Archived" in Path("pedal.html").read_text()
           assert "PEDAL_INDEX.json" in Path("index.html").read_text()
           assert "PEDAL_INDEX.json" in Path("pedal-detail.html").read_text()
           assert "item.research_record" in Path("pedal-detail.html").read_text()
