@@ -12,6 +12,17 @@ The site is a simple guitar-pedal catalog with one purpose:
 
 That is the product structure. Nothing else is part of the website's job right now.
 
+## Landing page navigation
+
+The landing page is intentionally organized around the three dirt families:
+**Overdrive / Distortion / Fuzz**.
+
+The long scrolling builder sidebar has been removed. Visitors pick a dirt type first, then use a compact builder selector. The main pedal area updates to show the matching pedals.
+
+Every pedal card is a real link to pedal.html, with the builder and pedal passed in the URL. Each pedal therefore has its own shareable page while the archive continues to use the same CSV catalog underneath.
+
+The individual pedal page currently displays the verified builder, pedal identity, and dirt classification. The Pedal Info and Photo areas are deliberately ready for later documented content rather than filled with guessed information.
+
 ## Catalog data
 `research/MASTER_PEDAL_CENSUS.csv` is the accumulated primary pedal catalog.
 
