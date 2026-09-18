@@ -77,6 +77,10 @@ Anecdotal user reports are mixed in emphasis: some players describe it as a usef
 2. **Version policy:** No numbered V1/V2 or factory MOD was verified for the Bass TightDrive Jr. in this pass. Keep this as one parent record unless builder documentation later establishes a meaningful production revision.
 3. **Color policy:** The green enclosure is recorded as the documented production appearance, but no separate colorway variant is being created from cosmetic differences alone.
 
+## Photo source
+- TalkBass, SPECTOR Owners Club, post dated May 4, 2023, showing an Amptweaker Bass TightDrive Jr.: https://www.talkbass.com/threads/spector%C2%AE-owners-club.1066466/page-4737/
+- Direct image: https://www.talkbass.com/attachments/img_0797-jpeg.5052266/
+
 ## Sources checked
 1. Amptweaker official YouTube — Bass JR Series announcement/demo, June 16, 2016:
    https://www.youtube.com/watch?v=ZoPcZjKiU84
