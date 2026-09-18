@@ -1068,9 +1068,10 @@
   {
     "builder": "AC Noises",
     "pedal": "Urla",
-    "image": null,
-    "source_page": "https://modulargrid.net/p/ac-noises-urla",
-    "research_record": "./research/pedals/AC Noises/Urla.md"
+    "image": "https://www.stars-music.com/medias/ac-noises/cropped-urla-cmos-fuzz-dual-resonant-filter-190162.webp",
+    "source_page": "https://www.stars-music.com/ac-noises-urla-cmos-fuzz-dual-resonant-filter_190162.html",
+    "research_record": "./research/pedals/AC Noises/Urla.md",
+    "image_source_page": "https://www.stars-music.com/ac-noises-urla-cmos-fuzz-dual-resonant-filter_190162.html"
   },
   {
     "builder": "AC Noises",
