@@ -78,5 +78,13 @@
     "source": "Reverb product image",
     "source_page": "https://reverb.com/uk/p/amptweaker-blues-fuzz",
     "research_record": "./research/pedals/Amptweaker/BluesFuzz.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "BluesFuzz Jr",
+    "image": "https://img.imuso.co.uk/products/amptweaker-bluesfuzz-jr-1-73106.webp",
+    "source": "iMuso product image",
+    "source_page": "https://www.imuso.co.uk/itm/amptweaker-bluesfuzz-jr",
+    "research_record": "./research/pedals/Amptweaker/BluesFuzz_Jr.md"
   }
 ]
