@@ -136,3 +136,8 @@ A PRP batch is not considered live until the GitHub Pages publishing run succeed
 ## PRP1 batch 004 checkpoint
 
 PRP1 batch 004 covered the next ten unresolved parent records in exact catalog order, from **Acid Fuzz - Mk1.5** through **Aclam Guitars - The Woman Tone**. Exact photos were archived for NKT275 Acid Fuzz Face, Cinnamon Drive, Cinnamon Drive - Dreamer Edition, Dr. Robert, Go Rocky Go, Go Rocky Go - White Album Edition, The Mocker, The Windmiller Preamp, and The Woman Tone. Research records were added for The Mocker, The Windmiller Preamp, and The Woman Tone, and Dr. Robert was updated for the documented V3 changes. **Acid Fuzz - Mk1.5** remains the next unresolved target because no exact safe direct image file was confirmed.
+
+## PRP1 batch 005 checkpoint
+
+PRP1 batch 005 covered the next ten catalog records in exact order, from **Acid Fuzz - Mk1.5** through **AD Pedals - Aerodynamic overdrive**. Exact photos were archived for seven Acorn Amps pedals, Acoustic Imaginearing QuantumDrive, and AD Pedals Aerodynamic overdrive. New research records were added for the nine previously unresearched pedals in that run. **Acid Fuzz - Mk1.5** remains photo-pending because no exact safe direct image file was confirmed.
+
