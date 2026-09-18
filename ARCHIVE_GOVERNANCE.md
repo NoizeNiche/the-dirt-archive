@@ -54,14 +54,14 @@ That benchmark means:
 
 ## Landing page navigation
 
-The landing page is intentionally organized around the three dirt families:
-**Overdrive / Distortion / Fuzz**.
+The landing page uses a compact library layout:
+**Search → Dirt Type → Builder → Pedal**.
 
-The long scrolling builder sidebar has been removed. Visitors pick a dirt type first, then use a compact builder selector. The main pedal area updates to show the matching pedals.
+The search field lives at the top of the left-hand navigation panel, above the builder menu, so someone looking for a specific pedal can search immediately.
 
-Every pedal card is a real link to pedal.html, with the builder and pedal passed in the URL. Each pedal therefore has its own shareable page while the archive continues to use the same CSV catalog underneath.
+The dirt menu has **All Pedals / Overdrive / Distortion / Fuzz**. Choosing a dirt type changes the builder list to builders carrying that type. Builders remain alphabetical in a scrollable panel. Clicking a builder changes the main pedal area on the right.
 
-The individual pedal page currently displays the verified builder, pedal identity, and dirt classification. The Pedal Info and Photo areas are deliberately ready for later documented content rather than filled with guessed information.
+Pedal cards are real links to pedal.html with the builder and pedal passed in the URL, giving every cataloged pedal an individual page.
 
 ## Canonical builder identity rule
 `research/BUILDER_MASTER_INDEX.md` is the authoritative builder list for the active census.
