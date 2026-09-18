@@ -183,14 +183,12 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 
 ## 13. Current checkpoint
 
-As of the latest saved checkpoint:
-
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 114
-- Pedals with confirmed pictures: 88
-- Fully complete PRP pedals: 88
-- Remaining incomplete pedals: 3,733
-- Researched but waiting only for a picture: 26
-- Next PRP target: Abominable Electronics - Hellmouth
+- Pedals with research information: 124
+- Pedals with confirmed pictures: 94
+- Fully complete PRP pedals: 94
+- Remaining incomplete pedals: 3,727
+- Researched but waiting only for a picture: 30
+- Next PRP target: AC Noises - Arpiona
 
-These numbers must be recalculated from the tracker after meaningful PRP batches rather than assumed from memory.
+These numbers must be recalculated from research/PRP_TRACKER.csv after meaningful PRP batches rather than assumed from memory.
