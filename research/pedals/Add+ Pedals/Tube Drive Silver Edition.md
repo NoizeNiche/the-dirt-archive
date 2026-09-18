@@ -36,5 +36,7 @@ The model is cataloged as an overdrive and is discussed by owners in the context
 2. TurkRock owner discussion mentioning Add+ Tube Drive Silver Edition: https://turkrock.com/konu/dijital-amfiye-pedal-baglamak.97743/post-1201420
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database catalog listing.
+- **Archive status:** **Photo Archived**
+- **Exact-model source:** https://reverb.com/item/3711194-add-tube-drive-silver-edition
+- **Image asset:** https://rvb-img.reverb.com/i/s--qoIOzxcF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tjxrnzleqztsvv2xli8c.jpg
+- **Image match:** Reverb listing explicitly identifies the model as ADD+ Tube Drive Silver Edition; the archived image shows the distinctive Silver Edition front panel.
