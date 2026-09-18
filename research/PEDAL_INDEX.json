@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-009",
+  "version": "2026-09-18-prp1-batch-010",
   "count": 3821,
   "pedals": [
     {
@@ -105,7 +105,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "https://files.effectsdatabase.com/gear/thumbs/soundoffailure_deathdriver_001.jpg",
       "source_page": "https://www.effectsdatabase.com/model/soundoffailure/deathdriver",
       "research_record": "./research/pedals/A Sound Of Failure/Death Driver.md"
     },
