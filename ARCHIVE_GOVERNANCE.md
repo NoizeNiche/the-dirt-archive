@@ -82,24 +82,58 @@ Do not silently invent a design decision just to keep moving. If a foreseeable a
 
 When the user has explicitly answered a design decision, treat that answer as the source of truth and record the resulting decision in the project documentation when it affects the site's architecture.
 
-## Pedal Research Phase foundation
+## Pedal Research Phase rules
 
-After the Builder → Pedals census is complete through Z, the project enters a separate **Pedal Research Phase**.
+PRP is worked in verified batches of 10 pedals, or as many as can be responsibly completed in one pass. Each pedal still receives its own individual research record.
 
-This phase is deliberately **one pedal at a time**. Every cataloged pedal gets its own research pass and its own documented record.
+PRP follows the actual pedal list shown on the website in exact A-to-Z order. Start with the first incomplete pedal and continue downward. Do not jump ahead because a later builder is easier to research.
 
-The foundational research fields are:
-- **Colorways**: documented color/finish variants where meaningful
-- **Versions**: distinct named or documented versions/revisions
-- **Version changes**: what changed between versions, when the evidence supports it
-- **Transistor type**: the transistor technology/type used, without turning the archive into a component inventory
-- **Diode type**: the diode technology/type used, without turning the archive into a component inventory
-- **Sound description**: a concise **2–3 sentence** description of the pedal's audible character, based on documented product information and/or reliable listening references
+A pedal is PRP Complete only when it has both:
+- pedal information
+- a confirmed picture of that exact pedal/version
 
-The purpose is to turn each basic catalog entry into a useful pedal reference page while preserving the core archive structure:
-**Builder → Pedal → Pedal Info → Photo**.
+Research fields:
+- What this pedal is
+- Colorways
+- Versions and factory options
+- Version changes
+- Transistor
+- Diode
+- Sound
 
-The Pedal Research Phase may add research metadata to existing pedal records, but it does not replace the canonical builder/pedal census or retroactively change the active A → Z census mission.
+The sound description should normally be 2-3 sentences.
+
+Do not guess technical information. State unknown when exact transistor or diode details are not publicly documented. Keep factory facts separate from DIY builds, clones, mods, and forum experiments.
+
+Picture rule:
+- prefer builder/manufacturer photos and reliable exact-model references
+- do not substitute a different pedal, materially different version, clone, or unclear seller photo
+- when no exact picture can be verified, leave it unlinked and show No Photo Archived
+
+Public individual pedal pages must not display:
+- Research confidence
+- Photo
+- Sources checked
+
+The public individual-pedal layout is fixed to the current DRV benchmark:
+- permanent archive navigation on the left
+- Archive Home
+- search
+- Dirt Type choices
+- scrollable alphabetical builder list
+- pedal name and builder
+- pedal information as the main content
+- dedicated 3:4 photo area
+- No Photo Archived when needed
+- desktop/mobile support
+
+The PRP tracker is the completion scoreboard. It must contain one row per unique Builder + Pedal in the live website catalog, with Pedal Info, Picture, and PRP Complete status.
+
+The site's current pedal lookup file is research/PEDAL_INDEX.json. Picture and research connections are in research/pedals/PEDAL_IMAGES.json.
+
+Before publishing a PRP batch, verify every research record, every picture connection, the tracker counts, broken links, duplicates, and the final website version. Confirm that GitHub Pages publishing succeeds before calling the batch live.
+
+The complete operating guide is research/PRP_RULES.md.
 
 ## Faceted filter design
 
@@ -128,7 +162,7 @@ The search field lives at the top of the left-hand navigation panel, above the b
 
 The dirt menu has **All Pedals / Overdrive / Distortion / Fuzz**. Choosing a dirt type changes the builder list to builders carrying that type. Builders remain alphabetical in a scrollable panel. Clicking a builder changes the main pedal area on the right.
 
-Pedal cards are real links to pedal.html with the builder and pedal passed in the URL, giving every cataloged pedal an individual page.
+Pedal cards open pedal-detail.html with the builder and pedal passed in the URL; pedal.html remains only as a redirect for older links, giving every cataloged pedal an individual page.
 
 ## Canonical builder identity rule
 `research/BUILDER_MASTER_INDEX.md` is the authoritative builder list for the active census.
@@ -175,8 +209,6 @@ This is a product census. We are cataloging what was made, not litigating whethe
 
 Source URLs may be retained simply because they help locate or recheck a product. They are reference links, not a separate classification system.
 
-## Do not expand scope during this phase
-Do not spend time on photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, or unrelated website/UI architecture unless the repository state explicitly changes the mission.
 
 ## Data principles
 The builder/product relationship is the primary unit of work.
