@@ -442,6 +442,15 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 414 | Coffin Gear / Coffin Case | 183 | Coffin Gear / Coffin Case |
 | 415 | Coggins Audio / Dinosaural | 183 | Coggins Audio / Dinosaural |
 | 416 | Colombo Audio Electronics | 183 |  |
+| 417 | ColorTone Fx / Pedal Tank | 184 | ColorTone Fx / Pedal Tank |
+| 418 | Colortone Pedals | 184 |  |
+| 419 | Columbus | 184 |  |
+| 420 | Commune | 184 |  |
+| 421 | Commune/ECA (Empire Custom Amplification) | 184 | Commune/ECA |
+| 422 | Companion | 184 | Shin-Ei / Companion |
+| 423 | Collins | 184 | Collins XXX-1 Pro Series |
+| 424 | Colfax Recorders | 184 |  |
+| 425 | Cole Music Co. | 184 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
