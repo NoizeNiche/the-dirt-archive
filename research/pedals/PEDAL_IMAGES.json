@@ -153,6 +153,14 @@
   },
   {
     "builder": "Amptweaker",
+    "pedal": "Tight Metal Jr",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://www.pitbullaudio.com/amptweaker-tight-metal-jr-distortion-guitar-effects-pedal.html",
+    "research_record": "./research/pedals/Amptweaker/Tight_Metal_Jr.md"
+  },
+  {
+    "builder": "Amptweaker",
     "pedal": "Tight Metal Pro",
     "image": "https://images.guitarguitar.co.uk/cdn/large/170/PX230801410810004f.jpg",
     "source": "Direct photograph of exact pedal",
@@ -185,11 +193,27 @@
   },
   {
     "builder": "Amptweaker",
+    "pedal": "TightBoost",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://www.effectsdatabase.com/model/amptweaker/tightboost",
+    "research_record": "./research/pedals/Amptweaker/TightBoost.md"
+  },
+  {
+    "builder": "Amptweaker",
     "pedal": "TightFuzz",
     "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_tightfuzzmm.jpg",
     "source": "Sound House exact-model product photo",
     "source_page": "https://www.soundhouse.co.jp/products/detail/item/241266/",
     "research_record": "./research/pedals/Amptweaker/TightFuzz.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "TightFuzz Jr",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://www.musictalk.com.sg/amptweaker-pedal-tight-fuzz-jr.html",
+    "research_record": "./research/pedals/Amptweaker/TightFuzz_Jr.md"
   },
   {
     "builder": "Amptweaker",
@@ -217,6 +241,14 @@
   },
   {
     "builder": "Analog Alien",
+    "pedal": "Alien Twister",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://www.allmusicinc.com/products/analog-alien-alien-twister-fuzz-buffer-electric-guitar-effect-pedal",
+    "research_record": "./research/pedals/Analog Alien/Alien_Twister.md"
+  },
+  {
+    "builder": "Analog Alien",
     "pedal": "Bucket Seat",
     "image": "https://media.sweetwater.com/m/products/image/708969bce4ANKNYGwJEQ4kLKh5FBfuT0jFVd3iVt.jpg",
     "source": "Sweetwater exact-model photograph",
@@ -230,6 +262,14 @@
     "source": "Analog Alien official product photograph",
     "source_page": "https://analogalien.com/product/fuzzbubble-45-overdrive-fuzz-pedal/",
     "research_record": "./research/pedals/Analog Alien/FuzzBubble_45.md"
+  },
+  {
+    "builder": "Analog Man",
+    "pedal": "Astro Tone",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://midwoodguitarstudio.com/products/analogman-astro-tone-fuzz-pedal-black",
+    "research_record": "./research/pedals/Analog Man/Astro_Tone.md"
   },
   {
     "builder": "Analog Man",
@@ -249,62 +289,6 @@
   },
   {
     "builder": "Analog Man",
-    "pedal": "Sun Lion",
-    "image": "https://spicersmusic.com/cdn/shop/files/IMG_9123.jpg?v=1755190319&width=2000",
-    "source": "Spicer's Music direct photograph",
-    "source_page": "https://spicersmusic.com/products/analog-man-sun-lion",
-    "research_record": "./research/pedals/Analog Man/Sun_Lion.md"
-  },
-  {
-    "builder": "Animal Factory Amplification",
-    "pedal": "Baron Samedi",
-    "image": "https://www.schneiderskeller.co.uk/cdn/shop/files/180351_animal_factory_amplification_baron_samedi_pedal_1803511_1920x1920_cdb3ab46-195d-40e9-bdff-05807439627a.webp?v=1762277631&width=416",
-    "source": "SchneidersKeller direct photograph",
-    "source_page": "https://www.schneiderskeller.co.uk/products/animal-factory-amplification-baron-samedi",
-    "research_record": "./research/pedals/Animal Factory Amplification/Baron_Samedi.md"
-  },
-  {
-    "builder": "Amptweaker",
-    "pedal": "Tight Metal Jr",
-    "image": null,
-    "source": "Exact direct pedal photograph pending",
-    "source_page": "https://www.pitbullaudio.com/amptweaker-tight-metal-jr-distortion-guitar-effects-pedal.html",
-    "research_record": "./research/pedals/Amptweaker/Tight_Metal_Jr.md"
-  },
-  {
-    "builder": "Amptweaker",
-    "pedal": "TightBoost",
-    "image": null,
-    "source": "Exact direct pedal photograph pending",
-    "source_page": "https://www.effectsdatabase.com/model/amptweaker/tightboost",
-    "research_record": "./research/pedals/Amptweaker/TightBoost.md"
-  },
-  {
-    "builder": "Amptweaker",
-    "pedal": "TightFuzz Jr",
-    "image": null,
-    "source": "Exact direct pedal photograph pending",
-    "source_page": "https://www.musictalk.com.sg/amptweaker-pedal-tight-fuzz-jr.html",
-    "research_record": "./research/pedals/Amptweaker/TightFuzz_Jr.md"
-  },
-  {
-    "builder": "Analog Alien",
-    "pedal": "Alien Twister",
-    "image": null,
-    "source": "Exact direct pedal photograph pending",
-    "source_page": "https://www.allmusicinc.com/products/analog-alien-alien-twister-fuzz-buffer-electric-guitar-effect-pedal",
-    "research_record": "./research/pedals/Analog Alien/Alien_Twister.md"
-  },
-  {
-    "builder": "Analog Man",
-    "pedal": "Astro Tone",
-    "image": null,
-    "source": "Exact direct pedal photograph pending",
-    "source_page": "https://midwoodguitarstudio.com/products/analogman-astro-tone-fuzz-pedal-black",
-    "research_record": "./research/pedals/Analog Man/Astro_Tone.md"
-  },
-  {
-    "builder": "Analog Man",
     "pedal": "Prince Of Tone",
     "image": null,
     "source": "Exact direct pedal photograph pending",
@@ -318,6 +302,22 @@
     "source": "Exact direct pedal photograph pending",
     "source_page": "https://analogman.com/sunface.htm",
     "research_record": "./research/pedals/Analog Man/Sun_Face.md"
+  },
+  {
+    "builder": "Analog Man",
+    "pedal": "Sun Lion",
+    "image": "https://spicersmusic.com/cdn/shop/files/IMG_9123.jpg?v=1755190319&width=2000",
+    "source": "Spicer's Music direct photograph",
+    "source_page": "https://spicersmusic.com/products/analog-man-sun-lion",
+    "research_record": "./research/pedals/Analog Man/Sun_Lion.md"
+  },
+  {
+    "builder": "Animal Factory Amplification",
+    "pedal": "Baron Samedi",
+    "image": "https://www.schneiderskeller.co.uk/cdn/shop/files/180351_animal_factory_amplification_baron_samedi_pedal_1803511_1920x1920_cdb3ab46-195d-40e9-bdff-05807439627a.webp?v=1762277631&width=416",
+    "source": "SchneidersKeller direct photograph",
+    "source_page": "https://www.schneiderskeller.co.uk/products/animal-factory-amplification-baron-samedi",
+    "research_record": "./research/pedals/Animal Factory Amplification/Baron_Samedi.md"
   },
   {
     "builder": "Animal Factory Amplification",
@@ -337,19 +337,19 @@
   },
   {
     "builder": "Animal Factory Amplification",
-    "pedal": "Godeater+",
-    "image": null,
-    "source": "Exact direct pedal photograph pending",
-    "source_page": "https://animalfactoryamplification.com/product/godeater/",
-    "research_record": "./research/pedals/Animal Factory Amplification/Godeater_Plus.md"
-  },
-  {
-    "builder": "Animal Factory Amplification",
     "pedal": "Godeater",
     "image": "https://rvb-img.reverb.com/i/s--LSmdg1ie--/quality=medium-low,height=800,width=800,fit=contain/x1na7ijdgesu2joh1m0l.jpg",
     "source": "Reverb direct photograph",
     "source_page": "https://reverb.com/item/55213391-animal-factory-amplification-godeater-distortion-pedal",
     "research_record": "./research/pedals/Animal Factory Amplification/Godeater.md"
+  },
+  {
+    "builder": "Animal Factory Amplification",
+    "pedal": "Godeater+",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://animalfactoryamplification.com/product/godeater/",
+    "research_record": "./research/pedals/Animal Factory Amplification/Godeater_Plus.md"
   },
   {
     "builder": "Animal Factory Amplification",
@@ -502,5 +502,13 @@
     "source": "Big City Music direct photograph",
     "source_page": "https://www.bigcitymusic.com/products/dirty-bomb",
     "research_record": "./research/pedals/Barber Electronics/Dirty_Bomb.md"
+  },
+  {
+    "builder": "Basic Audio",
+    "pedal": "Alter-Destiny",
+    "image": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1588267734218-NJU89QSGW3P07HMHQX90/DSCF2362-2.jpg",
+    "source": "Basic Audio official product photograph",
+    "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-n6nrp-7mca3",
+    "research_record": "./research/pedals/Basic Audio/Alter-Destiny.md"
   }
 ]
