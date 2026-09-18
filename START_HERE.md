@@ -45,13 +45,13 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **168** have pedal information researched
-- **138** have confirmed pictures
-- **138** are fully complete
-- **3,684** remain incomplete
-- **31** are researched but currently waiting only for a confirmed picture
+- **171** have pedal information researched
+- **139** have confirmed pictures
+- **139** are fully complete
+- **3,682** remain incomplete
+- **32** are researched but currently waiting only for a confirmed picture
 - **PRP status:** Active, PRP1 photo-recovery pass
-- **Current PRP1 target:** ADA Amps - MP-1 Channel
+- **Current PRP1 target:** Add+ Pedals - Ratortion 3 v2
 - PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
@@ -121,3 +121,8 @@ ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation. Ne
 
 ## PRP1 batch 008 checkpoint
 ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation from Chicago Music Exchange. The tracker, public index, and photo manifest were updated together. Next exact-order unresolved target: Add+ Pedals - Der Fuzzer.
+
+
+## PRP1 batch 009 checkpoint
+Batch 009 completed the next ten exact-order PRP1 records from **Add+ Pedals - Der Fuzzer** through **Add+ Pedals - Ratortion 3**. The first seven records already had research and were checked for photo recovery; three new research records were added for Ratortion, Ratortion 2, and Ratortion 3. The exact Add+ Pi picture was confirmed and connected to the public index and photo manifest. Records without a safely archived direct exact-model image remain photo-pending.
+The next exact-order unresolved target is **Add+ Pedals - Ratortion 3 v2**.
