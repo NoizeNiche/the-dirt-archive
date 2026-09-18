@@ -276,3 +276,10 @@ The next exact-order unresolved target is **Add+ Pedals - Ratortion 3 v2**.
 ## PRP1 batch 010 checkpoint
 Batch 010 worked the next ten exact-order PRP1 records from **A Sound Of Failure - Death Driver** through **AC Efectos - Triplex Distortion**. An exact Effects Database photograph was confirmed and archived for **Death Driver**, moving that pedal to fully complete. The remaining nine records in this photo-recovery window remain incomplete where no safe direct exact-model image asset was confirmed.
 The next exact-order unresolved target is **A.Y.A - Bass Fuzz**.
+
+
+## PRP1 batch 012 checkpoint
+
+Batch 012 audited the next 10 incomplete PRP1 records in exact website order, from **A.Y.A - Bass Fuzz** through **Accel Audio - OD-SS Express Overdrive**. All ten already had Pedal Info research records. Exact-model photo recovery was checked across the full batch; no new direct image asset met the archive's exact-photo standard, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. The A.Y.A Bass Fuzz search did confirm additional current visual evidence, including a live used-market listing for the Bass Fuzz family, but that evidence is not being substituted for a safely archived exact image asset.
+
+The next exact-order unresolved target is **Accel Audio - Stompzilla Fuzz**.
