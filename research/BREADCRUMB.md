@@ -26,7 +26,7 @@ Current Builder -> Pedals research checkpoint:
 - **216 live research blocks** are now present: Blocks 001-069, 071-141, and 143-215
 - Block 070 is absent; Block 142 was removed as a duplicate
 
-The website uses the primary catalog plus the active scrape census files directly and does not depend on the research blocks for page rendering.
+The website uses `research/PEDAL_INDEX.json` as its public runtime catalog source. Research blocks remain working material and are not part of page rendering.
 
 ## Block 215
 Batch 215 staged 350 raw records across 17 builders; 348 net new live rows remain after cleanup, moving the live alphabetic checkpoint from Empress Effects through JHS Pedals. Canonical builder IDs 494-495 were added for J. Rockett Audio Designs and Jackson Audio.
@@ -63,6 +63,8 @@ Public pedal pages do not show:
 - Photo
 - Sources checked
 
+The main catalog now renders the first 72 matching cards at a time and uses Load More for larger result sets, so filtering/search does not rebuild thousands of card elements at once.
+
 
 ## Site architecture checkpoint — September 18, 2026
 
@@ -76,6 +78,7 @@ Current architecture decisions:
 - Colorway galleries and future best-demo links are optional structured metadata.
 - The individual pedal page remains simple and approachable.
 - Future PRP2 depth is deferred.
+- Site cache/version marker is `2026-09-18-site-architecture-003` for the current functionality pass.
 
 
 ## Current PRP checkpoint
@@ -125,6 +128,6 @@ Do not resume from conversation memory when the repository says otherwise.
 
 ## Publishing
 
-.github/workflows/deploy-pages.yml is the website's automatic publishing system.
+`.github/workflows/deploy-pages.yml` is the website's automatic publishing system.
 
-A PRP batch is not considered live until the GitHub Pages publishing run succeeds.
+A PRP batch is not considered live until the GitHub Pages publishing run succeeds. The current site-functionality commit is `a9573f127c35d5c9f1eb97ca7f39065874300c16`; its Pages run is currently in progress and must finish successfully before this functionality pass is considered live.
