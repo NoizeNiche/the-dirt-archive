@@ -1380,5 +1380,21 @@
     "source_page": "https://www.effectsdatabase.com/model/addrock/geraniumfuzz",
     "research_record": "./research/pedals/Addrock Musical Products/Geranium Fuzz.md",
     "image_source_page": "https://reverb.com/item/1742410-addrock-geranium-fuzz"
+  },
+  {
+    "builder": "Addrock Musical Products",
+    "pedal": "Hism Scism",
+    "image": "https://rvb-img.reverb.com/i/s--QvEfuoM3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/d3c694a8-8362-4daf-960e-5c5dd24ab972.jpg",
+    "image_source_page": "https://reverb.com/item/94436181-addrock-hism-scism-silicon-fuzz-pedal",
+    "research_record": "./research/pedals/Addrock Musical Products/Hism Scism.md",
+    "source_page": "https://reverb.com/item/94436181-addrock-hism-scism-silicon-fuzz-pedal"
+  },
+  {
+    "builder": "Addrock Musical Products",
+    "pedal": "Ol' Yeller",
+    "image": "https://rvb-img.reverb.com/i/s--1m-e8PnW--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cyujsgwhc8a9ukfacuk3.jpg",
+    "image_source_page": "https://reverb.com/item/72179537-addrock-ol-yeller",
+    "research_record": "./research/pedals/Addrock Musical Products/Ol' Yeller.md",
+    "source_page": "https://reverb.com/item/72179537-addrock-ol-yeller"
   }
 ]
