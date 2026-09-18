@@ -97,11 +97,11 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 198
-- Pedals with confirmed pictures: 153
-- Fully complete PRP pedals: 153
-- Remaining incomplete pedals: 3672
-- Researched but waiting only for a confirmed picture: 45
+- Pedals with research information: 202
+- Pedals with confirmed pictures: 154
+- Fully complete PRP pedals: 154
+- Remaining incomplete pedals: 3667
+- Researched but waiting only for a confirmed picture: 48
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **Adventure Audio - Demogorgon Fuzz**
 
@@ -326,3 +326,8 @@ Batch 018 processed the next 10 incomplete PRP1 records in exact catalog order, 
 ## PRP1 batch 019 checkpoint
 
 Batch 019 processed the next 10 incomplete PRP1 records in exact catalog order, from Adventure Audio - Demogorgon Fuzz through AGR Pedals - DS2610 - Vintage Distortion. Four exact photos were recovered and synchronized for Adventure Audio Dream Reaper, Fuzz Peaks, Fuzz Peaks II, and Thaw. New research records were added for Aether Electronic Lenore, AGR Pedals Cuervo Muerto - Silicon Fuzz Bender, and AGR Pedals DS2610 - Vintage Distortion. Version-specific images for Demogorgon and Glacial Zenith were not promoted because the catalog records do not establish those exact revisions.
+
+
+## PRP1 batch 020 checkpoint
+
+Batch 020 processed the next 10 incomplete PRP1 records in exact catalog order, from Adventure Audio - Demogorgon Fuzz through Aguilar - Fuzzistor - Bass Fuzz. Four new research records were added for AGR Pedals FZR912 - Muff Fuzz Deluxe, AGR Pedals OD85 - Full Range Overdrive, Aguilar Agro - Bass Overdrive, and Aguilar Fuzzistor - Bass Fuzz. An exact original-model photo was recovered and synchronized for Aguilar Fuzzistor. The AGRO V2 image was deliberately not attached to the base AGRO record.
