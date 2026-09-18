@@ -40,3 +40,7 @@ The Dreamer Edition is built around the Cinnamon Drive's flexible, amp-like resp
 
 ## Sources checked
 1. Aclam Guitars — Cinnamon Drive Dreamer Edition: https://www.aclamguitars.com/store/cinnamon-drive-dreamer.html
+## Photo
+- **Verified photo:** Aclam Cinnamon Drive - Dreamer Edition.
+- **Photo source:** Aclam Guitars official product page.
+- **Archive status:** **Exact edition photo archived**
