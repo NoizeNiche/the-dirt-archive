@@ -6,11 +6,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **475 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-200.
+- **477 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-201.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder table is reconciled through **ID 475 / Block 200**.
+- The current builder table is reconciled through **ID 477 / Block 201**.
 
 ## Rules
 
@@ -500,6 +500,8 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 473 | Chamber Of Sounds | 199 |  |
 | 474 | Chris Custom | 199 |  |
 | 475 | Circuit Rider Effects | 200 |  |
+| 476 | Cool Bear Effects | 201 |  |
+| 477 | CircuitFX | 201 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
