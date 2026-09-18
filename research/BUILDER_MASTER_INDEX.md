@@ -6,8 +6,8 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **453 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-191.
+- **459 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-192.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
 - The current builder table is reconciled through **ID 440 / Block 187**.
@@ -478,6 +478,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 451 | Cobrahawk | 191 |  |
 | 452 | Code | 191 |  |
 | 453 | Codtone | 191 |  |
+| 454 | Carlson | 192 | Carlson / Daphon OEM lineage |
+| 455 | Carruthers | 192 | Alleged maker of Dyna-Soar pedals |
+| 456 | Chucktone Effects | 192 |  |
+| 457 | Clay Jones | 192 |  |
+| 458 | Chord (by Daphon) | 192 | Chord / Daphon / AVSL |
+| 459 | Chiu Luen | 192 | Chiu Luen (DongGuan) Electronics |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
