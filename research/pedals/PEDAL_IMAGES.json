@@ -262,5 +262,85 @@
     "source": "SchneidersKeller direct photograph",
     "source_page": "https://www.schneiderskeller.co.uk/products/animal-factory-amplification-baron-samedi",
     "research_record": "./research/pedals/Animal Factory Amplification/Baron_Samedi.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Tight Metal Jr",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://www.pitbullaudio.com/amptweaker-tight-metal-jr-distortion-guitar-effects-pedal.html",
+    "research_record": "./research/pedals/Amptweaker/Tight_Metal_Jr.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "TightBoost",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://www.effectsdatabase.com/model/amptweaker/tightboost",
+    "research_record": "./research/pedals/Amptweaker/TightBoost.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "TightFuzz Jr",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://www.musictalk.com.sg/amptweaker-pedal-tight-fuzz-jr.html",
+    "research_record": "./research/pedals/Amptweaker/TightFuzz_Jr.md"
+  },
+  {
+    "builder": "Analog Alien",
+    "pedal": "Alien Twister",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://www.allmusicinc.com/products/analog-alien-alien-twister-fuzz-buffer-electric-guitar-effect-pedal",
+    "research_record": "./research/pedals/Analog Alien/Alien_Twister.md"
+  },
+  {
+    "builder": "Analog Man",
+    "pedal": "Astro Tone",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://midwoodguitarstudio.com/products/analogman-astro-tone-fuzz-pedal-black",
+    "research_record": "./research/pedals/Analog Man/Astro_Tone.md"
+  },
+  {
+    "builder": "Analog Man",
+    "pedal": "Prince Of Tone",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://analogman.com/princeof.htm",
+    "research_record": "./research/pedals/Analog Man/Prince_Of_Tone.md"
+  },
+  {
+    "builder": "Analog Man",
+    "pedal": "Sun Face",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://analogman.com/sunface.htm",
+    "research_record": "./research/pedals/Analog Man/Sun_Face.md"
+  },
+  {
+    "builder": "Animal Factory Amplification",
+    "pedal": "Chemical Burn",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://animalfactoryamplification.com/product/chemical-burn/",
+    "research_record": "./research/pedals/Animal Factory Amplification/Chemical_Burn.md"
+  },
+  {
+    "builder": "Animal Factory Amplification",
+    "pedal": "Dirty Mirror",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://www.schneidersladen.de/en/animal-factory-amplification-dirty-mirror.html",
+    "research_record": "./research/pedals/Animal Factory Amplification/Dirty_Mirror.md"
+  },
+  {
+    "builder": "Animal Factory Amplification",
+    "pedal": "Godeater+",
+    "image": null,
+    "source": "Exact direct pedal photograph pending",
+    "source_page": "https://animalfactoryamplification.com/product/godeater/",
+    "research_record": "./research/pedals/Animal Factory Amplification/Godeater_Plus.md"
   }
 ]
