@@ -6,11 +6,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **502 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-218.
+- **586 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-224.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder table is reconciled through **ID 502 / Block 218**.
+- The current builder table is reconciled through **ID 586 / Deep Dives 220-224**.
 
 ## Rules
 
@@ -587,6 +587,39 @@ The final alphabet-wide discovery sweep added **56 new canonical builder identit
 | 556 | WMD Devices | 219 |  |
 | 557 | Xvive Audio | 219 |  |
 | 558 | Yamaha | 219 |  |
+
+## Deep-dive builder additions — Blocks 220-224
+
+The five deep discovery dives added **28 new canonical builder identities**, IDs **559-586**, and **86 net-new company/pedal/type rows** after duplicate/alias gating against the live index and census.
+
+| 559 | Baddy One Shoe Pedals | 220 |  |
+| 560 | D&M | 220 |  |
+| 561 | DW Labs | 220 |  |
+| 562 | Fuhrmann | 220 |  |
+| 563 | GuitarSlinger Effects | 220 |  |
+| 564 | Tribute Audio Designs | 220 |  |
+| 565 | Tone Hungry Effects | 221 |  |
+| 566 | SBGO Effects | 221 |  |
+| 567 | Drunk Beaver | 221 |  |
+| 568 | Effectrode | 221 |  |
+| 569 | Frank Marino Audio | 221 |  |
+| 570 | Mystic Effects Co | 221 |  |
+| 571 | Pigdog Pedals | 222 |  |
+| 572 | ReevesElectro | 222 |  |
+| 573 | Universal Amplifier Corp | 222 |  |
+| 574 | Dan Drive Pedal Solutions | 222 |  |
+| 575 | BAE Audio | 222 |  |
+| 576 | Union Tube & Transistor | 222 |  |
+| 577 | Dr. Z Amplification | 223 |  |
+| 578 | Demedash Effects | 223 |  |
+| 579 | Cascade Pedals | 223 |  |
+| 580 | Silktone | 223 |  |
+| 581 | Ratin Pedals | 223 |  |
+| 582 | Tallon Electric | 223 |  |
+| 583 | TONECAT | 224 |  |
+| 584 | Alameda Guitars | 224 |  |
+| 585 | Revv Amplification | 224 |  |
+| 586 | DryBell | 224 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
