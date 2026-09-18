@@ -71,9 +71,10 @@
   {
     "builder": "A Sound Of Failure",
     "pedal": "Death Driver",
-    "image": null,
+    "image": "https://files.effectsdatabase.com/gear/thumbs/soundoffailure_deathdriver_001.jpg",
     "source_page": "https://www.effectsdatabase.com/model/soundoffailure/deathdriver",
-    "research_record": "./research/pedals/A Sound Of Failure/Death Driver.md"
+    "research_record": "./research/pedals/A Sound Of Failure/Death Driver.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/soundoffailure/deathdriver"
   },
   {
     "builder": "A.Y.A",
