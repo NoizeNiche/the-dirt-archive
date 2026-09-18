@@ -98,14 +98,14 @@ Before publishing a batch:
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 168
-- Pedals with confirmed pictures: 137
-- Fully complete PRP pedals: 137
-- Remaining incomplete pedals: 3684
-- Researched but waiting only for a confirmed picture: 32
+- Pedals with confirmed pictures: 138
+- Fully complete PRP pedals: 138
+- Remaining incomplete pedals: 3683
+- Researched but waiting only for a confirmed picture: 31
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: ADA Amps - MP-1 Channel
 
-PRP1 batch 006 covered the next ten catalog records in exact order, from **Acid Fuzz - Mk1.5** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
+PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 The next session must read research/PRP_RULES.md, CURRENT_STATE.md, research/BREADCRUMB.md, and research/PRP_TRACKER.csv before continuing.
 
@@ -223,7 +223,7 @@ The Dirt Archive should document useful pedal identity, variations, appearance, 
 A future showcase/blog-style layer may be added for curated historical topics, such as fuzz showcases or builder/pedal features. This is intentionally deferred until the core archive works well.
 
 ## Next action
-Continue PRP1 from the first incomplete pedal in exact website order. The current target is Acid Fuzz - Mk1.5. Keep the site foundation regression checks in force and do not call a PRP batch live until its GitHub Pages deployment succeeds.
+Continue PRP1 from the first incomplete pedal in exact website order. The current target is ADA Amps - MP-1 Channel. Keep the site foundation regression checks in force and do not call a PRP batch live until its GitHub Pages deployment succeeds.
 
 
 ## Site architecture checkpoint — September 18, 2026
@@ -258,4 +258,8 @@ The target visual direction is a literal empty metal pedalboard inspired by a Pe
 
 
 ## PRP1 batch 007 checkpoint
-Acid Fuzz - Mk1.5 is now fully complete after an exact Effects Database photograph was confirmed and connected. The tracker, public index, and photo manifest were updated together. The next exact-order unresolved target is ADA Amps - MP-1 Channel.
+ADA Amps - MP-1 Channel is now fully complete after an exact Effects Database photograph was confirmed and connected. The tracker, public index, and photo manifest were updated together. The next exact-order unresolved target is ADA Amps - MP-1 Channel.
+
+
+## PRP1 batch 008 checkpoint
+ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation from Chicago Music Exchange. The tracker, public index, and photo manifest were updated together. Next exact-order unresolved target: Add+ Pedals - Der Fuzzer.
