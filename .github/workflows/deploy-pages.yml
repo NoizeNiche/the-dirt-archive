@@ -38,24 +38,62 @@ jobs:
 
           catalog = json.loads(Path("research/PEDAL_INDEX.json").read_text())
           manifest = json.loads(Path("research/pedals/PEDAL_IMAGES.json").read_text())
-          indexed = {entry.get("research_record") for entry in manifest if entry.get("research_record")}
+
+          pedals = catalog.get("pedals", [])
+          assert catalog.get("count") == len(pedals), "Pedal index count mismatch"
+
+          def key(entry, builder_key, pedal_key):
+              return (entry.get(builder_key), entry.get(pedal_key))
+
+          catalog_keys = [key(x, "company", "pedal") for x in pedals]
+          manifest_keys = [key(x, "builder", "pedal") for x in manifest]
+          assert len(catalog_keys) == len(set(catalog_keys)), "Duplicate Builder + Pedal entries in pedal index"
+          assert len(manifest_keys) == len(set(manifest_keys)), "Duplicate Builder + Pedal entries in photo manifest"
+
+          catalog_by_key = {key(x, "company", "pedal"): x for x in pedals}
+          manifest_by_key = {key(x, "builder", "pedal"): x for x in manifest}
+
+          index_records = {x.get("research_record") for x in pedals if x.get("research_record")}
+          manifest_records = {x.get("research_record") for x in manifest if x.get("research_record")}
+          assert index_records == manifest_records, "Pedal index and photo manifest research records disagree"
 
           for entry in manifest:
               rr = entry.get("research_record")
               if rr:
                   path = Path(rr.lstrip("./"))
                   assert path.exists(), f"Missing PRP research file: {rr}"
+              k = key(entry, "builder", "pedal")
+              assert k in catalog_by_key, f"Manifest entry missing from pedal index: {k}"
+              public = catalog_by_key[k]
+              assert entry.get("image") == public.get("image"), f"Photo mismatch between manifest and pedal index: {k}"
+
+          for entry in pedals:
+              rr = entry.get("research_record")
+              if rr:
+                  path = Path(rr.lstrip("./"))
+                  assert path.exists(), f"Missing PRP research file: {rr}"
+              if entry.get("catalog_role") == "variation":
+                  parent_key = (entry.get("company"), entry.get("parent_pedal"))
+                  assert parent_key in catalog_by_key, f"Variation has no parent pedal: {key(entry, 'company', 'pedal')}"
+                  assert catalog_by_key[parent_key].get("catalog_role") != "variation", f"Variation parent is itself a variation: {key(entry, 'company', 'pedal')}"
+              if entry.get("version_of"):
+                  assert entry.get("version_of") in {x.get("company") + "\u0000" + x.get("pedal") for x in pedals}, f"Version parent missing: {key(entry, 'company', 'pedal')}"
 
           for path in Path("research/pedals").rglob("*.md"):
               rel = "./" + path.as_posix()
-              assert rel in indexed, f"Unlinked PRP research record: {rel}"
+              assert rel in manifest_records, f"Unlinked PRP research record: {rel}"
+
+          tracker_path = Path("research/PRP_TRACKER.csv")
+          tracker_lines = [x for x in tracker_path.read_text().splitlines()[1:] if x.strip()]
+          assert len(tracker_lines) == len(pedals), "PRP tracker row count does not match pedal index"
+          tracker_pairs = [tuple(x.strip().strip('"') for x in line.split(",")[:2]) for line in tracker_lines]
+          assert len(tracker_pairs) == len(set(tracker_pairs)), "Duplicate Builder + Pedal entries in PRP tracker"
 
           assert "No Photo Archived" in Path("index.html").read_text()
           assert "PEDAL_INDEX.json" in Path("index.html").read_text()
           assert "PEDAL_INDEX.json" in Path("pedal-detail.html").read_text()
           assert "item.research_record" in Path("pedal-detail.html").read_text()
-          assert catalog.get("count") == len(catalog.get("pedals", [])), "Pedal index count mismatch"
-          print("PRP manifest verified: {} research records; pedal index verified: {} pedals".format(len(indexed), catalog.get("count")))
+          print("Site data verified: {} pedals; {} research records; {} manifest entries".format(len(pedals), len(index_records), len(manifest)))
           PY
 
       - name: Upload site
