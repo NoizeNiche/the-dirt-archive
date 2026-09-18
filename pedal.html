@@ -72,7 +72,7 @@ main{padding:20px 0 60px}
 </main>
 
 <script>
-const DATA_VERSION='2026-09-18-prp-067';
+const DATA_VERSION='2026-09-18-prp-068';
 const DATA=[
   './research/MASTER_PEDAL_CENSUS.csv',
   './research/SCRAPE_A_CENSUS.csv',
@@ -116,13 +116,23 @@ function esc(x){
 
 function renderMarkdown(md){
   const lines=md.split(/\r?\n/);
-  let html='',inList=false;
+  const hidden=new Set(['research confidence','photo','sources checked']);
+  let html='',inList=false,skip=false;
   const inline=s=>esc(s)
+    .replace(/\s*\[\d+\]/g,'')
     .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
-    .replace(/\`(.+?)\`/g,'<code>$1</code>');
+    .replace(/\x60(.+?)\x60/g,'<code>$1</code>');
   for(const line of lines){
+    if(/^## /.test(line)){
+      if(inList){html+='</ul>';inList=false}
+      const heading=line.slice(3).trim().toLowerCase();
+      skip=hidden.has(heading);
+      if(skip)continue;
+      html+='<h2>'+inline(line.slice(3))+'</h2>';
+      continue;
+    }
+    if(skip)continue;
     if(/^### /.test(line)){if(inList){html+='</ul>';inList=false}html+='<h3>'+inline(line.slice(4))+'</h3>';continue}
-    if(/^## /.test(line)){if(inList){html+='</ul>';inList=false}html+='<h2>'+inline(line.slice(3))+'</h2>';continue}
     if(/^# /.test(line)){if(inList){html+='</ul>';inList=false}html+='<h2>'+inline(line.slice(2))+'</h2>';continue}
     if(/^- /.test(line)){if(!inList){html+='<ul>';inList=true}html+='<li>'+inline(line.slice(2))+'</li>';continue}
     if(!line.trim()){if(inList){html+='</ul>';inList=false}continue}
@@ -131,9 +141,7 @@ function renderMarkdown(md){
   }
   if(inList)html+='</ul>';
   return html;
-}
-
-const params=new URLSearchParams(location.search);
+}const params=new URLSearchParams(location.search);
 const wantedBuilder=params.get('builder')||'';
 const wantedPedal=params.get('pedal')||'';
 

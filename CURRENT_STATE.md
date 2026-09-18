@@ -92,14 +92,14 @@ Research is being done **one pedal at a time**. Each researched pedal receives a
 - a concise 2–3 sentence sound description
 - research confidence and source notes
 
-The research phase currently contains **74 completed pedal research records**.
+The research phase currently contains **0 pedals with research information**.
 
 Research is documented one pedal at a time, but the actual work is collected and verified in batches of 10 pedals, or as many as can be responsibly completed in a pass, before publishing.
 
 The latest completed PRP record is:
 - `research/pedals/Basic Audio/Fuzz Mutant.md`
 
-The current PRP run has covered Basic Audio from Alter-Destiny through Fuzz Mutant. This batch added 10 dedicated research records, exact pedal photographs, colorway/version notes where evidence supported them, factory-vs-DIY component separation, sound notes, and confidence notes.
+The current PRP run has covered Basic Audio from Alter-Destiny through Fuzz Mutant. This batch added 10 dedicated research records and exact pedal photographs, with colorway/version notes where evidence supported them, factory-vs-DIY component separation, and sound notes.
 
 Important: the archive's catalog name **Bass BluesFuzz** is retained. Current sources identify the surviving bass model as **Bass BluesFuzz Jr.**, so the research record documents that identity relationship rather than silently changing the catalog.
 
@@ -120,6 +120,22 @@ The page:
 - opens a pedal detail view with dedicated **Pedal Info** and **Photo of Pedal** areas
 - works on desktop and mobile layouts
 
+## PRP progress checklist
+
+The website currently contains **3,821 unique pedals** after combining and deduplicating all live catalog lists.
+
+Current PRP progress:
+- **0** have pedal information researched.
+- **0** have a confirmed pedal picture.
+- **0** are fully checked off because they have **both**.
+- **3,821** still need a complete PRP entry.
+- **10** are researched but currently waiting only for a confirmed picture.
+
+The complete checklist is stored in:
+- research/PRP_TRACKER.csv
+
+A pedal is marked **PRP Complete** only when both the pedal information and the picture are present. This count will be updated as each PRP batch is completed, and progress will be reported periodically.
+
 ## Data rule from here forward
 When a new company is researched, store the company.
 
@@ -129,7 +145,7 @@ When pedal information is added, store it with that pedal.
 
 When a pedal photo is added, store it with that pedal.
 
-Do not create additional website relationships or tracking systems unless the project explicitly asks for them.
+The PRP tracker is the one explicit exception: it exists only to show which cataloged pedals have both required PRP inputs.
 
 ## Hosting
 `.github/workflows/deploy-pages.yml` is the only website automation. It is responsible for publishing the static site through GitHub Pages.
