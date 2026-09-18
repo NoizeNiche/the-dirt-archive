@@ -6,11 +6,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **493 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **495 canonical builder identities** are represented by the current live Builder -> Pedals block set.
 - The live research set currently includes Blocks 001-069, 071-141, and 143-214.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder table is reconciled through **ID 493 / Block 214**.
+- The current builder table is reconciled through **ID 495 / Block 215**.
 
 ## Rules
 
@@ -518,6 +518,8 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 491 | CrazyTone | 211 | Historical branded/OEM |
 | 492 | C.Q.O. | 212 | Historical branded/OEM |
 | 493 | Circle Of Tone | 213 |  |
+| 494 | J. Rockett Audio Designs | 215 |  |
+| 495 | Jackson Audio | 215 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
