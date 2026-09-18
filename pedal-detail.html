@@ -164,7 +164,7 @@ function esc(x){
   return String(x).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'","&#039;");
 }
 function isCatalogEntry(x){return x.catalog_role!=='variation'}
-function entryKey(x){return x.company+'\\u0000'+x.pedal}
+function entryKey(x){return x.company+'\u0000'+x.pedal}
 function detailUrl(x,variation){
   const url=new URL('./pedal-detail.html',location.href);
   url.searchParams.set('builder',x.company);
@@ -240,7 +240,7 @@ function showPhoto(item,label){
   const box=$('photoBox');
   const fallbackLabel=label?'No Photo Archived · '+label:'No Photo Archived';
   if(item && item.image){
-    box.innerHTML='<img src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" style="width:100%;height:100%;object-fit:contain;border-radius:12px" referrerpolicy="no-referrer" onerror="this.remove();document.getElementById(\'photoBox\').innerHTML=\'<span>\'+\''+fallbackLabel.replaceAll("'","&#039;")+\'</span>\'">';
+    box.innerHTML='<img src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" style="width:100%;height:100%;object-fit:contain;border-radius:12px" referrerpolicy="no-referrer" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><span hidden>'+esc(fallbackLabel)+'</span>';
     box.style.padding='10px';
   }else{
     box.innerHTML='<span>'+esc(fallbackLabel)+'</span>';
