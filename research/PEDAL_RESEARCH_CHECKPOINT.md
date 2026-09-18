@@ -3,7 +3,7 @@
 ## Status
 **Phase:** Pedal Research Phase underway  
 **Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
-**Research progress:** 23 pedals researched; five builder discovery dives completed
+**Research progress:** 33 pedals researched; five builder discovery dives completed
 
 ## Completed
 1. **Amptweaker — Bass BluesFuzz**
@@ -190,6 +190,59 @@ Every completed PRP information update must be pushed to the live site's source 
    - Parent record contains the 2011 full-size legacy generation and later compact Performance Series generation.
    - Pink charity edition recorded as cosmetic/historical only.
 
+24. **Amptweaker — Tight Rock Jr**
+   - Research record: `research/pedals/Amptweaker/Tight_Rock_Jr.md`
+   - 2016 compact JR distortion/overdrive with Fat/Normal/Tight, Plexi/Normal/Smooth and adjustable gate.
+   - No verified factory MOD or numbered revision.
+
+25. **Amptweaker — TightBoost**
+   - Research record: `research/pedals/Amptweaker/TightBoost.md`
+   - 2010 lower-gain TightDrive-family boost/overdrive with parked-wah-style Mid circuit and selectable frequencies.
+   - No verified factory MOD or numbered revision.
+
+26. **Amptweaker — TightFuzz**
+   - Research record: `research/pedals/Amptweaker/TightFuzz.md`
+   - 2012 full-size fuzz with Germanium/Silicon selection, auto-bias, 60s/70s voicing and Edge/Smooth.
+   - Builder-documented **Boost MOD** recorded as a factory modification.
+   - Aion trace documents 2SD1616 silicon and AC127 germanium on a traced production specimen.
+
+27. **Amptweaker — TightFuzz Jr**
+   - Research record: `research/pedals/Amptweaker/TightFuzz_Jr.md`
+   - 2017 compact JR fuzz with 60s/70s/Now, Germanium/Silicon, 3-position Fat/Normal/Tight and auto-bias.
+   - No verified factory MOD or numbered revision.
+
+28. **Amptweaker — TightFuzz Pro**
+   - Research record: `research/pedals/Amptweaker/TightFuzz_Pro.md`
+   - 2015 Pro fuzz with 3-band EQ, dual boost, octave-up, three loops, gate and More Fuzz.
+   - No verified numbered factory revision.
+
+29. **Analog Alien — Alien Bass Station**
+   - Research record: `research/pedals/Analog Alien/Alien_Bass_Station.md`
+   - 2014 three-section bass multi-effect: Limiter/Compressor, Amp Generator and Gamma Fuzz.
+   - No verified factory MOD or numbered revision.
+
+30. **Analog Alien — Alien Tone Dragon**
+   - Research record: `research/pedals/Analog Alien/Alien_Tone_Dragon.md`
+   - Late-2023 three-section boost + Dragon Fire overdrive/fuzz + active EQ pedal.
+   - No verified factory MOD or numbered revision.
+
+31. **Analog Alien — Alien Twister**
+   - Research record: `research/pedals/Analog Alien/Alien_Twister.md`
+   - 2012 fuzz/distortion/overdrive with Input, Output and Stab plus footswitchable buffer.
+   - **SRV-45 Alien Twister** retained as an alias of this same parent.
+   - No verified factory MOD or numbered revision.
+
+32. **Analog Alien — Bucket Seat**
+   - Research record: `research/pedals/Analog Alien/Bucket_Seat.md`
+   - 2015–2016 single-effect Rumble Drive-based overdrive.
+   - Separate parent from Rumble Seat despite shared circuit lineage.
+   - No verified factory MOD or numbered revision.
+
+33. **Analog Alien — FuzzBubble-45**
+   - Research record: `research/pedals/Analog Alien/FuzzBubble_45.md`
+   - 2010 dual-circuit parent with separate Pete overdrive and Jimi fuzz sections.
+   - No verified factory MOD or numbered revision.
+
 ## Research order
 Proceed through the catalog one pedal at a time. Use the canonical catalog entry as the identity anchor, preserve the archive's existing builder/pedal names, and document aliases or version relationships inside the research record rather than silently renaming catalog data.
 
@@ -204,4 +257,4 @@ Proceed through the catalog one pedal at a time. Use the canonical catalog entry
 - Sources checked
 
 ## Next pedal
-**Amptweaker — Tight Rock Jr**
+**Analog Man — Astro Tone**
