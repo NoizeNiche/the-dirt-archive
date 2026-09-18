@@ -226,7 +226,7 @@ function renderMarkdown(md){
     }
     if(skip)continue;
     if(/^### /.test(line)){if(inList){html+='</ul>';inList=false}html+='<h3>'+inline(line.slice(4))+'</h3>';continue}
-    if(/^# /.test(line)){if(inList){html+='</ul>';inList=false}html+='<h2>'+inline(line.slice(2))+'</h2>';continue}
+    if(/^# /.test(line)){if(inList){html+='</ul>';inList=false}continue}
     if(/^- /.test(line)){if(!inList){html+='<ul>';inList=true}html+='<li>'+inline(line.slice(2))+'</li>';continue}
     if(!line.trim()){if(inList){html+='</ul>';inList=false}continue}
     if(inList){html+='</ul>';inList=false}
