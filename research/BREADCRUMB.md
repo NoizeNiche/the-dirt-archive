@@ -84,11 +84,11 @@ Current architecture decisions:
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 171
+- Pedals with research information: 181
 - Pedals with confirmed pictures: 142
 - Fully complete PRP pedals: 142
 - Remaining incomplete pedals: 3679
-- Researched but waiting only for a confirmed picture: 29
+- Researched but waiting only for a confirmed picture: 39
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **Add+ Pedals - Ratortion 3 v2**
 
@@ -174,3 +174,10 @@ Batch 012 audited the next 10 incomplete PRP1 records in exact catalog order, fr
 ## PRP1 batch 013 checkpoint
 
 Batch 013 audited the next 10 incomplete PRP1 records in exact catalog order, from **Accel Audio - Stompzilla Fuzz** through **Add+ Pedals - Ratortion 3**. **Add+ Pedals - Ratortion 3** received a confirmed exact-model photo from a Reverb listing, and its research record, photo manifest, public index, and tracker were synchronized. The other nine records remain photo-pending. Next exact-order unresolved target: **Add+ Pedals - Ratortion 3 v2**.
+
+
+## PRP1 batch 014 checkpoint
+
+Batch 014 researched the next 10 incomplete PRP1 records in exact catalog order, from **Add+ Pedals - Ratortion 3 v2** through **Addrock Musical Products - Geranium Fuzz**. New research records were added for all ten and synchronized into the photo manifest, public pedal index, and tracker. No new exact-model photo asset was safely archived during this research pass, so all ten remain picture-pending.
+
+The next exact-order unresolved target remains **Add+ Pedals - Ratortion 3 v2** until the photo requirement is satisfied.
