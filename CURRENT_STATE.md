@@ -97,12 +97,12 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 114
-- Pedals with confirmed pictures: 88
-- Fully complete PRP pedals: 88
-- Remaining incomplete pedals: 3,733
-- Researched but waiting only for a picture: 26
-- Next PRP target: Abominable Electronics - Hellmouth
+- Pedals with research information: 147
+- Pedals with confirmed pictures: 108
+- Fully complete PRP pedals: 108
+- Remaining incomplete pedals: 3,713
+- Researched but waiting only for a picture: 39
+- PRP status: Paused while the site foundation is repaired
 
 The next session must read research/PRP_RULES.md, CURRENT_STATE.md, research/BREADCRUMB.md, and research/PRP_TRACKER.csv before continuing.
 
