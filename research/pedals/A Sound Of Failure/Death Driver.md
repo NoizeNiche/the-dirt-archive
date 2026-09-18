@@ -42,3 +42,8 @@ Death Driver is intentionally rough and amp-like rather than polished, with asym
 ## Sources checked
 1. Effects Database — A Sound Of Failure Death Driver: https://www.effectsdatabase.com/model/soundoffailure/deathdriver
 2. Effects Database — weekly brand introduction: https://www.effectsdatabase.com/updates/weekly/20231204
+
+## Photo
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** https://www.effectsdatabase.com/model/soundoffailure/deathdriver
+- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
