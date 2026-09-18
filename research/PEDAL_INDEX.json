@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp-075",
+  "version": "2026-09-18-prp-076",
   "count": 3821,
   "pedals": [
     {
@@ -109,8 +109,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/aya/bassfuzz",
+      "research_record": "./research/pedals/A.Y.A/Bass Fuzz.md"
     },
     {
       "company": "A.Y.A",
@@ -118,9 +118,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://makeshop-multi-images.akamaized.net/1484music/itemimages/0000000648842_4593KMC.jpg",
+      "source_page": "https://store.ishibashi.co.jp/view/item/000000064884",
+      "research_record": "./research/pedals/A.Y.A/BM-Fuzz 70.md"
     },
     {
       "company": "A.Y.A",
@@ -128,9 +128,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://media.karousell.com/media/photos/products/2024/7/24/aya_tokyo_japan_bm_fuzz_80_nos_1721794138_fe25f058.jpg",
+      "source_page": "https://www.carousell.sg/p/aya-tokyo-japan-bm-80s-fuzz-nos-guitar-pedal-effects-1316109267/",
+      "research_record": "./research/pedals/A.Y.A/BM-Fuzz 80.md"
     },
     {
       "company": "A.Y.A",
@@ -138,9 +138,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.ikebe-gakki.com/Contents/ProductImages/0/782326_LL.jpg",
+      "source_page": "https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=782326&shop=0",
+      "research_record": "./research/pedals/A.Y.A/Drivesta.md"
     },
     {
       "company": "A.Y.A",
@@ -148,9 +148,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://rvb-img.reverb.com/i/s--XR2n-LqN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zqe7hhgb6o7hfw9ys8jp.jpg",
+      "source_page": "https://reverb.com/au/item/73614456-a-y-a-frontgate-bass-drive-sn-1562-09-20",
+      "research_record": "./research/pedals/A.Y.A/Frontgate Bass Drive.md"
     },
     {
       "company": "A/DA",
@@ -158,9 +158,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://media.guitarcenter.com/is/image/MMGS7/J02006000000000-00-2000x2000.jpg",
+      "source_page": "https://www.guitarcenter.com/ADA-Signal-Processors/APP-1-2-Channel-Preamp-Guitar-Effects-Pedal-with-D-Torsion-Core-Effects-Loop-and-Boost-1379343501295.gc",
+      "research_record": "./research/pedals/A/DA/APP-1 Pedal Preamp with D-Torsion Core.md"
     },
     {
       "company": "A/DA",
@@ -169,9 +169,9 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.fullcompass.com/common/products/sm/333323.jpg",
+      "source_page": "https://www.fullcompass.com/prod/558032-a-da-amplification-discontinued-final-phase-reissue-of-a-da-final-phase-guitar-pedal",
+      "research_record": "./research/pedals/A/DA/Final Phase.md"
     },
     {
       "company": "A/DA",
@@ -179,9 +179,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.chicagomusicexchange.com/cdn/shop/products/a-da-effects-and-pedals-distortion-a-da-mp-1-channel-preamp-pedal-adamp1pedal-17184952549511.jpg?v=1649590319&width=1946",
+      "source_page": "https://www.chicagomusicexchange.com/products/ada-mp-1-channel-preamp-pedal-8749",
+      "research_record": "./research/pedals/A/DA/MP-1 Channel.md"
     },
     {
       "company": "A&M Custom Effects",
@@ -190,8 +190,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
+      "research_record": "./research/pedals/A&M Custom Effects/Crash Central - Crunch Distortion.md"
     },
     {
       "company": "A&M Custom Effects",
@@ -200,8 +200,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/am/crazyboy",
+      "research_record": "./research/pedals/A&M Custom Effects/Crazyboy - Double Fuzz.md"
     },
     {
       "company": "A&M Custom Effects",
