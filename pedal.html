@@ -9,7 +9,7 @@
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
 a{color:inherit}
-.wrap{width:min(1080px,calc(100% - 28px));margin:auto}
+.wrap{width:min(1480px,calc(100% - 28px));margin:auto}
 header{padding:26px 0 20px;border-bottom:1px solid var(--line);background:rgba(243,240,232,.95);backdrop-filter:blur(12px)}
 .back{display:inline-flex;align-items:center;gap:7px;text-decoration:none;font-size:.72rem;font-weight:950;text-transform:uppercase;letter-spacing:.07em;margin-bottom:24px}
 .back:hover{text-decoration:underline}
@@ -17,19 +17,19 @@ header{padding:26px 0 20px;border-bottom:1px solid var(--line);background:rgba(2
 h1{margin:0;font-size:clamp(2.5rem,7vw,5.8rem);line-height:.88;letter-spacing:-.065em}
 .sub{margin:12px 0 0;color:var(--muted);font-size:.85rem;font-weight:800}
 main{padding:20px 0 60px}
-.grid{display:grid;grid-template-columns:1.05fr .95fr;gap:16px}
+.grid{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:18px;align-items:start}
 .panel{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:16px}
 .label{font-size:.68rem;font-weight:900;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:10px}
 .info{background:#fff;border:1px solid var(--line);border-radius:14px;padding:17px;min-height:180px;line-height:1.65}
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:18px}
 .chip{font-size:.62rem;font-weight:900;text-transform:uppercase;letter-spacing:.06em;padding:5px 8px;border-radius:999px;background:#eee9df}
-.photo{min-height:420px;display:grid;place-items:center;text-align:center;border:2px dashed #bdb5a8;border-radius:14px;background:#f7f4ee;color:var(--muted);font-weight:850;padding:20px}
-.research{background:#fff;border:1px solid var(--line);border-radius:14px;padding:17px;line-height:1.6}.research h2,.research h3{margin:18px 0 8px;line-height:1.1}.research h2:first-child{margin-top:0}.research p{margin:9px 0}.research ul{margin:8px 0 12px;padding-left:20px}.research li{margin:5px 0}.research code{background:#eee9df;padding:1px 4px;border-radius:4px}.note{margin:12px 0 0;color:var(--muted);font-size:.76rem;line-height:1.5}
+.photo{aspect-ratio:3 / 4;min-height:0;width:100%;display:grid;place-items:center;text-align:center;border:2px dashed #bdb5a8;border-radius:14px;background:#f7f4ee;color:var(--muted);font-weight:850;padding:20px}
+.grid > .panel:last-child{position:sticky;top:18px;align-self:start}.research{background:#fff;border:1px solid var(--line);border-radius:14px;padding:17px;line-height:1.6}.research h2,.research h3{margin:18px 0 8px;line-height:1.1}.research h2:first-child{margin-top:0}.research p{margin:9px 0}.research ul{margin:8px 0 12px;padding-left:20px}.research li{margin:5px 0}.research code{background:#eee9df;padding:1px 4px;border-radius:4px}.note{margin:12px 0 0;color:var(--muted);font-size:.76rem;line-height:1.5}
 .actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
 .action{display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--ink);border-radius:999px;background:#fff;padding:10px 14px;text-decoration:none;font-size:.72rem;font-weight:950;text-transform:uppercase;letter-spacing:.05em}
 .action.primary{background:var(--accent)}
 .empty{padding:80px 20px;text-align:center}
-@media(max-width:760px){.grid{grid-template-columns:1fr}.photo{min-height:300px}}
+@media(max-width:760px){.grid{grid-template-columns:1fr}.grid > .panel:last-child{position:static}.photo{aspect-ratio:3 / 4;min-height:0;max-width:420px;margin-inline:auto}}
 </style>
 </head>
 <body>
@@ -72,7 +72,7 @@ main{padding:20px 0 60px}
 </main>
 
 <script>
-const DATA_VERSION='2026-09-18-prp-065';
+const DATA_VERSION='2026-09-18-prp-066';
 const DATA=[
   './research/MASTER_PEDAL_CENSUS.csv',
   './research/SCRAPE_A_CENSUS.csv',
