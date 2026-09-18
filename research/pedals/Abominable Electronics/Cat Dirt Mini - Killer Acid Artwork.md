@@ -39,3 +39,6 @@ The documented difference for this archive entry is artwork rather than a new ci
 ## Sound
 Cat Dirt Mini is primarily a clean-to-lightly-dirty boost, with a little extra sparkle and output rather than the thick saturation of a dedicated distortion pedal. Pushed harder, it can add a modest amount of overdrive while still behaving more like a tone-and-level enhancer than a full fuzz or distortion box. [2]
 
+## Sources checked
+1. Abominable Electronics — Cat Dirt Mini: https://www.abominablepedals.com/products/cat-dirt-mini-pedal-killer-acid-collab
+2. Reverb — Cat Dirt Mini: https://reverb.com/item/66232866-cat-dirt-mini-boost-pedal-by-abominable-electronics
