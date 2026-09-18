@@ -65,15 +65,15 @@ Public pedal pages do not show:
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **138** have pedal information researched
-- **103** have confirmed pictures
-- **103** are fully complete
-- **3,718** remain incomplete
-- **35** are researched but currently waiting only for a confirmed picture
-- **Next research target:** Aclam Guitars - Cinnamon Drive
+- **148** have pedal information researched
+- **104** have confirmed pictures
+- **109** are fully complete
+- **3,712** remain incomplete
+- **39** are researched but currently waiting only for a confirmed picture
+- **Next research target:** Aclam Guitars - The Mocker
 - Earlier researched/photo-missing pedals remain in the photo-recovery queue.
 
-This pass continued the Acid Fuzz section in exact site order. Acid Fuzz Selmer Buzz Tone, Sonic Boom, The Zoink Machine, and Zonk Machine - Vintage Series Re-build were researched and recorded. No exact pedal photographs were confirmed, so all four remain explicitly marked No Photo Archived rather than using substitutes. Professional MkII was also reconciled so its research record is connected correctly and its unverified photo remains open.
+This pass completed the next ten research targets in exact site order: five Acid Fuzz pedals already had exact pictures and were reconciled as complete, and five Aclam Guitars pedals received their individual research records. The Aclam photo gaps remain open rather than using substitutes.
 
 ## Current PRP data files
 
