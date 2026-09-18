@@ -97,11 +97,11 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 147
-- Pedals with confirmed pictures: 117
-- Fully complete PRP pedals: 117
-- Remaining incomplete pedals: 3704
-- Researched but waiting only for a confirmed picture: 30
+- Pedals with research information: 150
+- Pedals with confirmed pictures: 126
+- Fully complete PRP pedals: 126
+- Remaining incomplete pedals: 3695
+- Researched but waiting only for a confirmed picture: 24
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: Acid Fuzz - Mk1.5
 
