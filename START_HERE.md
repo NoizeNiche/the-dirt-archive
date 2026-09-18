@@ -43,7 +43,7 @@ A **research block is not a builder ID**. Multiple blocks may contain the same b
 If the builder is already present, do not start a new builder census block. Add missing pedal records to the existing canonical builder record instead.
 
 ## Active census checkpoint
-The current live block set contains **140 block files** representing **141 builder mentions** because Block 033 contains two builders. Those mentions collapse to **106 canonical builder identities** in the master index. Block 070 is absent. Block 142, Fairfield Circuitry, was removed because Fairfield is already represented by Block 102.
+The current live block set contains **212 block files** representing the active Builder -> Pedals research sequence through Block 214. The canonical builder index currently contains **493 builder identities**. Block 070 is absent. Block 142, Fairfield Circuitry, was removed as a duplicate because Fairfield is already represented elsewhere. Scrape C is the active alphabetic working census, and its current live layer contains **1,105 company/pedal/type rows**.
 
 ## Scope boundary
 Do not expand the active scope into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, or unrelated website architecture unless the repository state explicitly changes the scope.
