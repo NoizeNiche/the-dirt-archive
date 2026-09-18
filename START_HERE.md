@@ -124,7 +124,10 @@ The active Scrape C census is now at **1,453 live company/pedal/type rows** afte
 The active Scrape C census is now at **2,044 live company/pedal/type rows** after Batch 216. The current alphabetic checkpoint is **after Phaez Amplification**. Canonical IDs 496-502 were added for Katanasound, KMA Machines, Leqtique, Limetone Audio, Organic Sounds, Ovaltone, and Phaez Amplification.
 
 ## Current scrape checkpoint
-The active Scrape C census is now at **2352 live company/pedal/type rows** after Batch 217. The current alphabetic checkpoint is **after ThorpyFX**. No new canonical builder identity was required in this haul.
+The active Scrape C census is now at **2681 live company/pedal/type rows** after Batch 217. The current alphabetic checkpoint is **after ThorpyFX**. No new canonical builder identity was required in this haul.
+
+## Current scrape checkpoint
+Batch 218 is complete. Active Scrape C now contains **2681 live company/pedal/type rows** across **290 builder names**. The canonical builder index remains at **502 identities**. The alphabetic checkpoint is **after ZVEX Effects**.
 
 ## No-duplicate gate
 `research/BUILDER_MASTER_INDEX.md` is the canonical builder identity gate for this phase.
