@@ -208,3 +208,24 @@ A future showcase/blog-style layer may be added for curated historical topics, s
 
 ## Next action
 The next PRP target is **Abominable Electronics — Hellmouth**, followed by the next nine unresearched pedals in the site’s A-to-Z order.
+
+
+## Site architecture checkpoint — September 18, 2026
+
+PRP is intentionally paused while the site foundation is audited and strengthened.
+
+Completed foundation work in this checkpoint:
+- Established the distinction between a public pedal model/version and a cosmetic variation.
+- DRV MOD 1 (WHITE) is now represented as a colorway variation of DRV MOD 1 rather than a second main catalog card.
+- The public archive hides variation records from the main card grid while keeping them available to the parent pedal page.
+- Searches can match a known variation name back to its parent model without creating a second card.
+- Individual pedal pages now have explicit areas for Pedal Info, Versions, Colorways & Editions, and future YouTube demos.
+- Old direct links to a colorway variation can resolve into the parent pedal page.
+- Public pedal pages no longer expose PRP identity/source administration wording.
+- PEDAL_INDEX.json is the public runtime source for catalog and primary photo data.
+- PEDAL_IMAGES.json remains the internal research/photo manifest and is now validated against PEDAL_INDEX.json.
+- Deployment validation was strengthened to check catalog identities, research links, photo agreement, variation parents, version parents, and tracker consistency.
+- The 10 previously unlinked PRP research records were added to the photo/research manifest.
+
+The target visual direction is a literal empty metal pedalboard inspired by a Pedal Train Pro-style board. Visual redesign will follow the functionality audit rather than precede it.
+
