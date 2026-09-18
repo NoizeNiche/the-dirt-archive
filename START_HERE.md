@@ -32,36 +32,16 @@ Do not silently invent a design decision just to keep moving. If a foreseeable a
 
 When the user has explicitly answered a design decision, treat that answer as the source of truth and record the resulting decision in the project documentation when it affects the site's architecture.
 
+
 ## Current project priority
 
-The Builder -> Pedals census is complete. The current project priority is now the Pedal Research Phase (PRP).
+**Site foundation and functionality audit.** PRP is paused until the public catalog, pedal pages, data relationships, photo handling, version/variation behavior, navigation, and GitHub Pages deployment are reliable.
 
-PRP works from the actual live website pedal list in exact A-to-Z order. Start with the first incomplete pedal in the tracker and continue downward.
+The intended public experience is a welcoming historical/reference archive for guitar dirt pedals. The main archive shows one entry per pedal model or materially distinct version. Cosmetic variations such as colorways, retailer finishes, event artwork, and similar editions belong inside the relevant model/version rather than becoming separate main catalog cards.
 
-PRP is performed in verified batches of 10 pedals, or as many as can be responsibly completed in one pass. Every pedal gets its own research record.
+The individual pedal page should remain simple and useful, with the primary photograph, Pedal Info, Versions when applicable, Colorways & Editions, What it sounds like, and eventually one best representative YouTube demo.
 
-A pedal is complete only when both pedal information and a confirmed picture of that exact pedal/version exist.
-
-Research fields are:
-- What this pedal is
-- Colorways
-- Versions and factory options
-- Version changes
-- Transistor
-- Diode
-- Sound
-
-Do not guess technical details. Unknown is a valid answer. Keep factory information separate from DIY, clone, mod, and forum-build information.
-
-When an exact picture cannot be confirmed, do not substitute another pedal. The website shows No Photo Archived and the tracker remains incomplete.
-
-Public individual pedal pages use the DRV benchmark layout: permanent left-side archive navigation, Archive Home, search, Dirt Type choices, a scrollable alphabetical builder list, pedal information, and a dedicated 3:4 photo area.
-
-Public pedal pages do not show Research confidence, Photo, or Sources checked sections.
-
-The current progress scoreboard is stored in research/PRP_TRACKER.csv. The site's single pedal lookup file is research/PEDAL_INDEX.json. Picture/research connections are stored in research/pedals/PEDAL_IMAGES.json.
-
-Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
+See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
