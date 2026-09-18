@@ -98,12 +98,12 @@ Before publishing a batch:
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 181
-- Pedals with confirmed pictures: 142
-- Fully complete PRP pedals: 142
-- Remaining incomplete pedals: 3679
-- Researched but waiting only for a confirmed picture: 39
+- Pedals with confirmed pictures: 147
+- Fully complete PRP pedals: 147
+- Remaining incomplete pedals: 3674
+- Researched but waiting only for a confirmed picture: 34
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **Add+ Pedals - Ratortion 3 v2**
+- Current PRP1 target: **Add+ Pedals - Super Drive**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -297,3 +297,10 @@ The next exact-order unresolved target is **Add+ Pedals - Ratortion 3 v2**.
 Batch 014 researched the next 10 incomplete PRP1 records in exact catalog order, from **Add+ Pedals - Ratortion 3 v2** through **Addrock Musical Products - Geranium Fuzz**. New research records were added for all ten and synchronized into the photo manifest, public pedal index, and tracker. No new exact-model photo asset was safely archived during this research pass, so all ten remain picture-pending.
 
 The next exact-order unresolved target remains **Add+ Pedals - Ratortion 3 v2** until the photo requirement is satisfied.
+
+
+## PRP1 batch 015 checkpoint
+
+Batch 015 audited the next 10 unresolved PRP1 records in exact catalog order, from **Add+ Pedals - Ratortion 3 v2** through **Addrock Musical Products - Geranium Fuzz**. Exact-model photos were recovered and synchronized for **Ratortion 3 v2, Shredder, Tube Drive Silver Edition, Boostmaster, and Geranium Fuzz**. **Super Drive, Super Drive 2, Tiger Shark, Tube Drive, and Tube Drive 2** remain photo-pending because no new safe direct exact-model image asset was confirmed during this pass.
+
+The next exact-order unresolved target is **Add+ Pedals - Super Drive**.
