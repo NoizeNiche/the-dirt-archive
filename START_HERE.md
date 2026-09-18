@@ -33,88 +33,47 @@ Do not silently invent a design decision just to keep moving. If a foreseeable a
 When the user has explicitly answered a design decision, treat that answer as the source of truth and record the resulting decision in the project documentation when it affects the site's architecture.
 
 ## Current project priority
-**Builder → Pedals. THAT’S IT.**
 
-Collect builder names and the overdrive, distortion, and fuzz pedals those builders make or made. The goal is a comprehensive census, so the research system must make it easy to compare everything already collected against everything newly found.
+The Builder -> Pedals census is complete. The current project priority is now the Pedal Research Phase (PRP).
 
-## Scrape / Continue protocol
+PRP works from the actual live website pedal list in exact A-to-Z order. Start with the first incomplete pedal in the tracker and continue downward.
 
-A **Scrape** is a bulk research haul, not a single-builder lookup.
+PRP is performed in verified batches of 10 pedals, or as many as can be responsibly completed in one pass. Every pedal gets its own research record.
 
-Whenever the user says **“Scrape”** or **“Continue”** after a haul, the next operation must:
-- continue from the exact saved alphabetic checkpoint
-- research **at least 10 distinct companies/builders** in the haul, unless fewer than 10 qualifying unprocessed companies remain in the entire project
-- gather as many verified overdrive, distortion, and fuzz pedal records as practical from those builders rather than stopping at the minimum
-- use multiple source/catalog searches where useful, prioritizing primary or authoritative product catalogs and historical references
-- check the canonical builder index and active scrape census before writing records so existing builders and pedals are expanded rather than duplicated
-- write the new records into the active scrape census used by the website
-- update the breadcrumb/current-state checkpoint and commit a recoverable state before the haul is considered complete
-- immediately leave the project positioned for the next alphabetic haul
+A pedal is complete only when both pedal information and a confirmed picture of that exact pedal/version exist.
 
-The goal is to move continuously from **A through Z** with high-throughput bulk scrapes. The **10-company minimum is a hard floor for every haul**, not a target.
+Research fields are:
+- What this pedal is
+- Colorways
+- Versions and factory options
+- Version changes
+- Transistor
+- Diode
+- Sound
 
-## Research benchmark
+Do not guess technical details. Unknown is a valid answer. Keep factory information separate from DIY, clone, mod, and forum-build information.
 
-The performance of the latest bulk scrape is the **minimum operating benchmark for every future scrape through Z**.
+When an exact picture cannot be confirmed, do not substitute another pedal. The website shows No Photo Archived and the tracker remains incomplete.
 
-That benchmark means:
-- do not stop at the first useful result or first few companies
-- use broad, repeated searches and multiple relevant source/catalog channels when needed
-- target **10+ distinct companies/builders per haul** and gather as many qualifying dirt-pedal records as practical
-- mine both current and historical product catalogs when they support the Builder -> Pedals scope
-- cross-check the canonical builder index and active scrape census before every write
-- when a source or tool limits the amount of research that can be returned at once, split the work into additional passes rather than lowering the research standard
-- treat duplicate checks, alias reconciliation, and product-family cleanup as part of the scrape itself
-- do not declare the haul complete merely because the minimum company count has been reached; continue while meaningful unprocessed material is readily available
-- leave the repository in a state where the next alphabetic haul can begin immediately
+Public individual pedal pages use the DRV benchmark layout: permanent left-side archive navigation, Archive Home, search, Dirt Type choices, a scrollable alphabetical builder list, pedal information, and a dedicated 3:4 photo area.
 
-**The standard is throughput + breadth + deduplication + durable checkpointing.**
+Public pedal pages do not show Research confidence, Photo, or Sources checked sections.
 
-## Landing page navigation
+The current progress scoreboard is stored in research/PRP_TRACKER.csv. The site's single pedal lookup file is research/PEDAL_INDEX.json. Picture/research connections are stored in research/pedals/PEDAL_IMAGES.json.
 
-The landing page uses a compact library layout:
-**Search → Dirt Type → Builder → Pedal**.
+Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
 
-The single search field lives at the top of the left-hand navigation panel, above the builder menu, so someone looking for a specific pedal can search immediately. The dirt menu has **All Pedals / Overdrive / Distortion / Fuzz**. Choosing a dirt type changes the builder list to builders carrying that type. Builders remain alphabetical in a scrollable panel. Clicking a builder changes the main pedal area on the right.
+## Current PRP checkpoint
 
-Pedal cards are real links to `pedal.html` with the builder and pedal passed in the URL, giving every cataloged pedal an individual page.
+- Unique pedals: 3,821
+- Researched: 114
+- Confirmed pictures: 88
+- Fully complete: 88
+- Remaining: 3,733
+- Researched but picture missing: 26
+- Next pedal: Abominable Electronics - Hellmouth
 
-## Faceted filter design
-
-The left-hand archive navigation is intended to work as a **progressive, faceted filter system** rather than a single-choice menu.
-
-A visitor may combine clues such as:
-- search text
-- dirt type
-- builder
-- transistor type
-- diode type
-- other deliberately supported metadata filters
-
-All selected filters narrow the same result set in the main pedal area. Search and filters must work together rather than behaving as separate modes.
-
-Filter options should be presented with useful result counts where practical, so visitors can see how much each choice narrows the archive before clicking.
-
-The core use case is a visitor remembering incomplete information about a pedal and using several clues to rediscover it.
-
-## Pedal Research Phase foundation
-
-After the Builder → Pedals census is complete through Z, the project enters a separate **Pedal Research Phase**.
-
-This phase is deliberately **one pedal at a time**. Every cataloged pedal gets its own research pass and its own documented record.
-
-The foundational research fields are:
-- **Colorways**: documented color/finish variants where meaningful
-- **Versions**: distinct named or documented versions/revisions
-- **Version changes**: what changed between versions, when the evidence supports it
-- **Transistor type**: the transistor technology/type used, without turning the archive into a component inventory
-- **Diode type**: the diode technology/type used, without turning the archive into a component inventory
-- **Sound description**: a concise **2–3 sentence** description of the pedal's audible character, based on documented product information and/or reliable listening references
-
-The purpose is to turn each basic catalog entry into a useful pedal reference page while preserving the core archive structure:
-**Builder → Pedal → Pedal Info → Photo**.
-
-The Pedal Research Phase may add research metadata to existing pedal records, but it does not replace the canonical builder/pedal census or retroactively change the active A → Z census mission.
+After every 10-pedal batch, update CURRENT_STATE.md and research/BREADCRUMB.md with the new counts and next pedal.
 
 ## Current scrape checkpoint
 
