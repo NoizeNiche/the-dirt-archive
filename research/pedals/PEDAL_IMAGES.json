@@ -16,9 +16,13 @@
   {
     "builder": "1981 Inventions",
     "pedal": "DRV MOD 1 (WHITE)",
-    "image": "https://1981inventions.com/cdn/shop/files/2883610B-D039-461A-B639-E988A20C3CAB.jpg?v=1787878144&width=533",
+    "image": null,
     "source_page": "https://1981inventions.com/products/drv-mod-1",
-    "research_record": "./research/pedals/1981 Inventions/DRV MOD 1 (WHITE).md"
+    "research_record": "./research/pedals/1981 Inventions/DRV MOD 1 (WHITE).md",
+    "catalog_role": "variation",
+    "parent_pedal": "DRV MOD 1",
+    "variation_type": "colorway",
+    "variation_name": "White"
   },
   {
     "builder": "1981 Inventions",
