@@ -1,7 +1,7 @@
 # The Dirt Archive - Research Breadcrumb
 
 ## Checkpoint
-September 17, 2026
+September 18, 2026
 
 ## Active mission
 **Company -> Pedal -> Pedal Info -> Photo**
@@ -65,15 +65,15 @@ Public pedal pages do not show:
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **134** have pedal information researched
+- **138** have pedal information researched
 - **103** have confirmed pictures
 - **103** are fully complete
 - **3,718** remain incomplete
-- **31** are researched but currently waiting only for a confirmed picture
-- **Next research target:** AboveGroundFX - El Griton Overdrive
+- **35** are researched but currently waiting only for a confirmed picture
+- **Next research target:** Aclam Guitars - Cinnamon Drive
 - Earlier researched/photo-missing pedals remain in the photo-recovery queue.
 
-This pass focused on the first ten open PRP photo targets in exact site order. Verified exact photos were added for Abasi Concepts - Pathos Distortion and AbbyTone - Screwed Driver. The remaining photo gaps stay open rather than using substitutes.
+This pass continued the Acid Fuzz section in exact site order. Acid Fuzz Selmer Buzz Tone, Sonic Boom, The Zoink Machine, and Zonk Machine - Vintage Series Re-build were researched and recorded. No exact pedal photographs were confirmed, so all four remain explicitly marked No Photo Archived rather than using substitutes. Professional MkII was also reconciled so its research record is connected correctly and its unverified photo remains open.
 
 ## Current PRP data files
 
