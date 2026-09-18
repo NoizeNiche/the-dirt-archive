@@ -74,17 +74,33 @@ PRP is done in verified batches of 10 pedals, or as many as can be responsibly c
 A pedal is only checked off when it has both pedal information and a confirmed picture of that exact pedal/version.
 
 Current numbers:
-- 3,821 unique pedals
-- 114 researched
-- 88 confirmed pictures
-- 88 fully complete
-- 3,733 remaining incomplete
-- 26 researched but waiting only for a picture
+- **3,821** unique pedals
+- **124** researched
+- **94** confirmed pictures
+- **94** fully complete
+- **3,727** remaining incomplete
+- **30** researched but waiting only for a confirmed picture
 
 Current position:
-- Latest research record: research/pedals/Abominable Electronics/Hail Satan Deluxe.md
-- Next pedal: Abominable Electronics - Hellmouth
+- Latest research record: research/pedals/AC Efectos/Triplex Distortion.md
+- Next pedal: **AC Noises - Arpiona**
 
+## Current PRP data files
+
+research/PEDAL_INDEX.json
+- single pedal lookup file used by the website
+
+research/pedals/PEDAL_IMAGES.json
+- picture and research-record connections
+
+research/PRP_TRACKER.csv
+- one row per unique Builder + Pedal
+- Pedal Info status
+- Picture status
+- PRP Complete status
+
+research/PRP_RULES.md
+- permanent PRP operating rules
 ## Current PRP data files
 
 research/PEDAL_INDEX.json
