@@ -91,22 +91,6 @@ research/PRP_TRACKER.csv
 
 research/PRP_RULES.md
 - permanent PRP operating rules
-## Current PRP data files
-
-research/PEDAL_INDEX.json
-- single pedal lookup file used by the website
-
-research/pedals/PEDAL_IMAGES.json
-- picture and research-record connections
-
-research/PRP_TRACKER.csv
-- one row per unique Builder + Pedal
-- Pedal Info status
-- Picture status
-- PRP Complete status
-
-research/PRP_RULES.md
-- permanent PRP operating rules
 
 ## Resume instructions
 
@@ -129,8 +113,3 @@ Do not resume from conversation memory when the repository says otherwise.
 .github/workflows/deploy-pages.yml is the website's automatic publishing system.
 
 A PRP batch is not considered live until the GitHub Pages publishing run succeeds.
-
-
-## Current PRP checkpoint
-Last completed batch: AC Noises → Acid Fuzz Acid Fuzzer MkI.
-Next PRP starting point: Acid Fuzz — Italian Fuzz.
