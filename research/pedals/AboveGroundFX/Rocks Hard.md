@@ -40,6 +40,6 @@ The available documentation establishes Rocks Hard as a dedicated distortion rat
 2. Effects Database — 2010 weekly overview: https://www.effectsdatabase.com/updates/weekly/20100621
 
 ## Photo
-- **Exact pedal photograph:** Summer NAMM 2010 photograph is documented by Effects Database, but the stable direct image file could not be verified.
-- **Source page:** https://www.effectsdatabase.com/model/aboveground/rockshard
-
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** https://www.effectsdatabase.com/model/aboveground/rockshard
+- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
