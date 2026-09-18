@@ -17,6 +17,24 @@ Research and record only:
 
 The purpose of this phase is to build the largest usable census possible.
 
+## Scrape definition and throughput rule
+
+A **Scrape** is one completed bulk pass through the builder alphabet.
+
+A scrape must:
+1. cover **at least 10 distinct companies/builders**, unless fewer than 10 qualifying unprocessed companies remain in the entire alphabetic run
+2. collect as many qualifying dirt-pedal records as the available evidence supports, rather than stopping once the minimum company count is reached
+3. continue from the exact previous checkpoint and move alphabetically toward Z
+4. use the canonical builder index and active scrape census as duplicate gates before adding anything
+5. update the active scrape census, breadcrumb, current state, and any necessary builder-index assignments
+6. leave a durable committed checkpoint that makes the next scrape immediately resumable
+
+### Meaning of “Continue”
+
+When the user says **“Continue”** after a completed scrape, treat it as an instruction to execute the **next full bulk scrape automatically**. Do not interpret it as a request for a small follow-up lookup. The next scrape begins at the saved alphabetic checkpoint and maintains the same throughput standard until Z is reached.
+
+The objective is high-throughput completion of the full **A → Z builder census**. Ten companies is the minimum floor for a haul, not the desired stopping point.
+
 ## Canonical builder identity rule
 `research/BUILDER_MASTER_INDEX.md` is the authoritative builder list for the active census.
 
