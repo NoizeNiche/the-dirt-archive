@@ -78,7 +78,7 @@ Current architecture decisions:
 - Colorway galleries and future best-demo links are optional structured metadata.
 - The individual pedal page remains simple and approachable.
 - Future PRP2 depth is deferred.
-- Site cache/version marker is `2026-09-18-site-architecture-003` for the current functionality pass.
+- Site cache/version marker is `2026-09-18-site-architecture-004` for the current visual/functionality pass.
 
 
 ## Current PRP checkpoint
