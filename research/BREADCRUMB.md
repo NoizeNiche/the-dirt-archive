@@ -31,6 +31,8 @@ The website uses the primary catalog plus the active scrape census files directl
 ## Block 215
 Batch 215 staged 350 raw records across 17 builders; 348 net new live rows remain after cleanup, moving the live alphabetic checkpoint from Empress Effects through JHS Pedals. Canonical builder IDs 494-495 were added for J. Rockett Audio Designs and Jackson Audio.
 
+The active Scrape C census now contains **2,044 company/pedal/type rows** across 261 builder identities represented in the live working layer.
+
 ## Block 216
 Batch 216 added 26 builders and 591 net-new company/pedal/type rows, moving the active checkpoint from JHS Pedals through Phaez Amplification. Canonical builder IDs 496-502 were added for Katanasound, KMA Machines, Leqtique, Limetone Audio, Organic Sounds, Ovaltone, and Phaez Amplification.
 
