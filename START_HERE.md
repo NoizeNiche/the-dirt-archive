@@ -45,16 +45,14 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **159** have pedal information researched
-- **135** have confirmed pictures
-- **135** are fully complete
-- **3,686** remain incomplete
-- **25** are researched but currently waiting only for a confirmed picture
+- **168** have pedal information researched
+- **136** have confirmed pictures
+- **136** are fully complete
+- **3,685** remain incomplete
+- **33** are researched but currently waiting only for a confirmed picture
 - **PRP status:** Active, PRP1 photo-recovery pass
 - **Current PRP1 target:** Acid Fuzz - Mk1.5
-- Batch 005 added nine researched records with exact photos and left Mk1.5 photo-pending because an exact safe direct image was not confirmed.
-
-This pass reconciled five existing Acid Fuzz research records and added five Aclam Guitars research records in exact site order. No unverified photos were substituted for the Aclam entries.
+- PRP1 batch 006 covered the next ten catalog records in exact order, from **Acid Fuzz - Mk1.5** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
 
