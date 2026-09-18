@@ -1,28 +1,31 @@
 Builder,Pedal,Type
+C.Giant,OD-1 Warm Blues - Overdrive/Distortion,Distortion
+C.Giant,OD-1 Warm Blues - Overdrive/Distortion,Overdrive
 C.I.C,MOD-7 Overdrive,Overdrive
-C14 Devices,Tone Chaser,Overdrive
 C.Q.O.,Super Distortion,Distortion
+C14 Devices,Tone Chaser,Overdrive
+Cactus,MTL-5 Ultra Metal,Distortion
 Cactus,OVD-5 Overdrive,Overdrive
-Cajita Stompboxes,Fuzz Womut,Fuzz
-Cajita Stompboxes,Fuzz RBmuff - TBmuff,Fuzz
-Cajita Stompboxes,Distorsión RAT 6 6 modos,Distortion
-Cajita Stompboxes,Distorsión Marshall CR800 JCM + booster,Distortion
-Cajita Stompboxes,TS09 TS08 Overdrive Tube Screamer,Overdrive
-Cajita Stompboxes,Preamp 5150 tipo Peavey,Distortion
-Cajita Stompboxes,Dr Boogie VN Hi Gain Mesa Boogie,Distortion
-Cajita Stompboxes,Dr Boogie Distorsion Hi Gain Mesa,Distortion
-Cajita Stompboxes,FBASSDRIVE,Overdrive
 Cajita Stompboxes,Bdi.ts with Overdrive,Overdrive
 Cajita Stompboxes,BRIT30 preamplificador tipo Vox AC30 overdrive,Overdrive
-Cajita Stompboxes,Overdrive Shoc más booster,Overdrive
-Cajita Stompboxes,Preamp Overdrive Matchbox,Overdrive
+Cajita Stompboxes,Distorsión Marshall CR800 JCM + booster,Distortion
+Cajita Stompboxes,Distorsión RAT 6 6 modos,Distortion
+Cajita Stompboxes,Dr Boogie Distorsion Hi Gain Mesa,Distortion
+Cajita Stompboxes,Dr Boogie VN Hi Gain Mesa Boogie,Distortion
+Cajita Stompboxes,FBASSDRIVE,Overdrive
+Cajita Stompboxes,Fuzz RBmuff - TBmuff,Fuzz
+Cajita Stompboxes,Fuzz Womut,Fuzz
 Cajita Stompboxes,Overdrive Bb.pre,Overdrive
+Cajita Stompboxes,Overdrive Shoc más booster,Overdrive
+Cajita Stompboxes,Preamp 5150 tipo Peavey,Distortion
+Cajita Stompboxes,Preamp Overdrive Matchbox,Overdrive
+Cajita Stompboxes,TS09 TS08 Overdrive Tube Screamer,Overdrive
 Cajita Stompboxes,VMT Distorsion de Bajo con Blend,Distortion
 Calangary Pedals,Kalagondang Fuzz,Fuzz
 Calangary Pedals,Zaladin Fuzz,Fuzz
-California (by Eleca),COD-1 Over Drive,Overdrive
 California (by Eleca),CDT-1 Distortion,Distortion
 California (by Eleca),CHM-1 Heavy Metal,Distortion
+California (by Eleca),COD-1 Over Drive,Overdrive
 California Valveworks,The Bone Tender,Fuzz
 Caline,CP-11 Puffer Fuzz,Fuzz
 Caline,CP-12 Pure Sky,Overdrive
@@ -33,14 +36,24 @@ Caline,CP-21 Rock Face,Distortion
 Caline,CP-25 Highway Man OD,Overdrive
 Caline,CP-27 Sand Storm,Distortion
 Caline,CP-30 Red Devil - Heavy Metal,Distortion
-Caline,CP-32 Clear Veil,Overdrive
 Caline,CP-32 Clear Veil,Fuzz
+Caline,CP-32 Clear Veil,Overdrive
 Caline,CP-34 Headroom - Vintage Distortion,Distortion
 Caline,CP-42 Candy Floss Fuzz,Fuzz
 Caline,CP-43 Pegasus,Overdrive
 Caline,CP-46 Fuzzy Bear,Fuzz
 Caline,CP-49 Midlander,Overdrive
 Caline,CP-50 Central Station / Leon Drive,Overdrive
+Caline,CP-501 Osmium - High-Gain Distortion,Distortion
+Caline,CP-501S Sathanas Distortion,Distortion
+Caline,CP-502 Mellow Drive,Overdrive
+Caline,CP-503 Queen Bee Overdrive,Overdrive
+Caline,CP-504 M:Fuzz,Fuzz
+Caline,CP-509 Stack Attack - Preamp Overdrive & Compressor,Overdrive
+Caline,CP-510 Jaguar - Classic High Gain Distortion,Distortion
+Caline,CP-511 Enchanted Tone - Highly Prized Overdrive,Overdrive
+Caline,CP-515 Carmilla - Hi Gain Distortion Machine,Distortion
+Caline,CP-516 Orange Burst,Fuzz
 Caline,CP-53 Fuzzy Faace - Voodoo Octave,Fuzz
 Caline,CP-54 The Big Orange - Crushing Overdrive,Overdrive
 Caline,CP-56 Midlander / The Mayday - AC Tone,Overdrive
@@ -57,122 +70,428 @@ Caline,CP-79 Wolf Pack / King Of Ga-Ga - Boost/Overdrive,Overdrive
 Caline,CP-82 The Broadsword Bass Fuzz + Boost,Fuzz
 Caline,CP-84 Honeycomb Tone - Overdrive,Overdrive
 Caline,CP-99 Medusa - Overdrive,Overdrive
-Caline,DCP-02 Brutus,Overdrive
 Caline,DCP-02 Brutus,Distortion
+Caline,DCP-02 Brutus,Overdrive
 Caline,DCP-04 Easy Driver,Distortion
 Caline,DCP-05 Key West,Overdrive
 Caline,DCP-06 Sundance Special,Overdrive
 Caline,DCP-07 Brigade,Overdrive
-Caline,DCP-08 Nightwolf,Overdrive
 Caline,DCP-08 Nightwolf,Fuzz
+Caline,DCP-08 Nightwolf,Overdrive
 Caline,DCP-09 Tiger Shark,Distortion
 Caline,DCP-11 Andes,Overdrive
-Caline,CP-501 Osmium - High-Gain Distortion,Distortion
-Caline,CP-501S Sathanas Distortion,Distortion
-Caline,CP-502 Mellow Drive,Overdrive
-Caline,CP-503 Queen Bee Overdrive,Overdrive
-Caline,CP-504 M:Fuzz,Fuzz
-Caline,CP-509 Stack Attack - Preamp Overdrive & Compressor,Overdrive
-Caline,CP-510 Jaguar - Classic High Gain Distortion,Distortion
-Caline,CP-511 Enchanted Tone - Highly Prized Overdrive,Overdrive
-Caline,CP-515 Carmilla - Hi Gain Distortion Machine,Distortion
-Caline,CP-516 Orange Burst,Fuzz
 Caline,G-001 Tiger Eye Distortion,Distortion
 Caline,G-002 Green Mamba Overdrive,Overdrive
 Caline,G-014 Nasty Bear Fuzz,Fuzz
-Camuro,Baci Overdrive/Distortion,Overdrive
+Cameltone Electronics,Big Stuff,Fuzz
+Cameltone Electronics,Freak Scene,Fuzz
+Cameltone Electronics,The Nard,Distortion
+Cameltone Electronics,The Nard,Overdrive
 Camuro,Baci Overdrive/Distortion,Distortion
+Camuro,Baci Overdrive/Distortion,Overdrive
 Camuro,Caboolture Twin-Stage Overdrive,Overdrive
 Camuro,FAT BABY Preamp/Overdrive,Overdrive
-Camuro,Naturale,Overdrive
 Camuro,Fuzz Rosso,Fuzz
-Camuro,Naked Machine,Overdrive
-Camuro,Naked Machine,Distortion
 Camuro,hachi “8” Classic Modern Fuzz/Bosster,Fuzz
-Century,Century SHM-8 Heavy Metal,Distortion
+Camuro,Naked Machine,Distortion
+Camuro,Naked Machine,Overdrive
+Camuro,Naturale,Overdrive
+Canned Monsters,Frenzy Moss,Fuzz
+Canned Monsters,Moonbark Overdrive MK2,Overdrive
+Canvas Analog Devices,The Metamorphosis,Overdrive
+Captain FX,Yeti Fuzz,Fuzz
+Carcharias Effects,Uncle 125 Bass Overdrive,Overdrive
+Carella Guitars,Kung Fuzz,Fuzz
+Carella Guitars,Leopard,Overdrive
+Carella Guitars,Overdistover,Distortion
+Carella Guitars,Overdistover,Overdrive
+Carella Guitars,Overtube,Overdrive
+Carella Guitars,Real Tube,Distortion
+Carl Martin,AC-Tone Single,Overdrive
+Carl Martin,DC-Drive,Overdrive
+Carl Martin,Greg Howe's Lick Box,Distortion
+Carl Martin,Greg Howe's Lick Box,Overdrive
+Carl Martin,Heavy Drive,Distortion
+Carl Martin,Panama,Distortion
+Carl Martin,Panama,Overdrive
+Carl Martin,PlexiRanger,Overdrive
+Carl Martin,PlexiTone Lo-Gain,Overdrive
+Carl Martin,PlexiTone Single,Distortion
+Carl Martin,PlexiTone Single,Overdrive
+Carl Martin,PlexiTone,Distortion
+Carl Martin,PlexiTone,Overdrive
+Carl Martin,Purple Moon,Fuzz
+Carl Martin,The Fuzz,Fuzz
+Carl Martin,TOD,Overdrive
+Carlin,Carlin Compressor/Fuzz,Fuzz
+Carlsbro,Carlsbro Fuzz-Tone,Fuzz
+Carlsbro,Carlsbro Fuzz,Fuzz
+Carlsbro,Carlsbro Suzz,Distortion
+Carlson,E20MT Heavy Metal,Distortion
+Carmedon Electronics,Alpha Centauri,Overdrive
+Caroline Guitar Company,CROM,Distortion
+Caroline Guitar Company,CROM,Fuzz
+Caroline Guitar Company,Hawaiian Pizza,Fuzz
+Caroline Guitar Company,Haymaker,Overdrive
+Caroline Guitar Company,Icarus V2 / Icarus,Overdrive
+Caroline Guitar Company,Olympia,Fuzz
+Caroline Guitar Company,Shigeharu,Fuzz
+Caroline Guitar Company,The Blues,Overdrive
+Caroline Guitar Company,Wave Cannon / Cannonball,Distortion
+Caroline Guitar Company,Wave Cannon / Cannonball,Fuzz
+Caroline Guitar Company,Wave Cannon / Cannonball,Overdrive
+Caroline Guitar Company,Wave Cannon MKII / Superdistorter,Distortion
+Carruthers,Dyna-Soar Lite,Fuzz
+Carruthers,Dyna-Soar,Fuzz
+Carvin,Carvin TO-1 Tube Overdrive,Overdrive
+Carvin,Carvin UD-1 Ultra Distortion,Distortion
+Carvin,Carvin VLD1 Steve Vai Legacy Drive Preamp,Overdrive
+Case Study Effects Co.,Aspen One - Boost + Overdrive,Overdrive
+Case Study Effects Co.,Aspen Overdrive,Overdrive
+Case Study Effects Co.,Germanium Aspen Overdrive,Overdrive
+Case Study Effects Co.,Lastlight Overdrive,Overdrive
+Casey Gooby,Bag Of Dicks,Fuzz
+Casey Gooby,Organ Donor,Fuzz
+Casimir Effects Pedals,Entropy Fuzz,Fuzz
+CAST Engineering,Gypsy Haze,Fuzz
+CAST Engineering,Mike Zito Peace Drive,Overdrive
+CAST Engineering,Texas Flood,Overdrive
+CastleRock,CastleRock Bass Overdrive,Overdrive
+CastleRock,CastleRock Distortion,Distortion
+CastleRock,CastleRock Metal Driver,Distortion
+CastleRock,CastleRock Overdrive,Overdrive
+Caswell Modern Electronics (CME),Boost 90 Clean Drive,Overdrive
+Caswell Modern Electronics (CME),Boost 98 Bass Drive,Overdrive
+Caswell Modern Electronics (CME),Shark Mouth - Bass Synth Fuzz,Fuzz
+Cat Box Customs,Bean Machine V2,Fuzz
+Cat Box Customs,Bean Machine,Fuzz
+Cat Box Customs,Fuzz Club,Fuzz
+CAT Sound,Classic,Distortion
+CAT Sound,Dancing - Distortion,Distortion
+CAT Sound,DriveCenter Bass,Overdrive
+CAT Sound,DriveCenter,Overdrive
+Cat's Eye ESP,Hop Hed Fuzztone,Fuzz
+Cat's Eye ESP,Hybrid Fuzz,Fuzz
+Cat's Eye ESP,Mista' Fuzz,Fuzz
+Cat's Eye ESP,Mutha' Fuzz,Distortion
+Cat's Eye ESP,Mutha' Fuzz,Fuzz
+Catalinbread Effects,Carbide Distortion,Distortion
+Catalinbread Effects,Dirty Little Secret,Overdrive
+Catalinbread Effects,Fuzzrite Germanium,Fuzz
+Catalinbread Effects,Fuzzrite Mini,Fuzz
+Catalinbread Effects,Fuzzrite,Fuzz
+Catalinbread Effects,Giygas 2K Fuzz,Fuzz
+Catalinbread Effects,Karma Suture GE,Fuzz
+Catalinbread Effects,Katzenkönig,Distortion
+Catalinbread Effects,Knight School Overdrive,Overdrive
+Catalinbread Effects,RAH,Overdrive
+Catalinbread Effects,SFT,Overdrive
+CatastroFX,Deface Mk.III,Fuzz
+CatastroFX,Outbreak,Overdrive
+Cathouse Pedals,Fuzzy Tongue,Fuzz
+Cathouse Pedals,Rat Fink,Distortion
+Cathouse Pedals,The Bender,Fuzz
+Cathouse Pedals,The Screamer,Distortion
+Cathouse Pedals,The Screamer,Overdrive
+Cause & Effect Pedals (CE Pedals),FET Dream,Distortion
+Cause & Effect Pedals (CE Pedals),FET Dream,Overdrive
+Caustic FX,Snowstorm,Distortion
+Cave Passive Pedals,60's Break Up,Overdrive
+Cave Passive Pedals,B-Drive Grunt,Overdrive
+Cave Passive Pedals,Blue Juice,Overdrive
+Cave Passive Pedals,Grunt MkII,Overdrive
+Cave Passive Pedals,Grunt,Overdrive
+Cave Passive Pedals,Mini Miff,Fuzz
+Cave Passive Pedals,Mini Miff,Overdrive
+Cave Passive Pedals,Super Grunt,Overdrive
+Cave Passive Pedals,The Wasp MkII,Fuzz
+Cave Passive Pedals,The Wasp,Fuzz
+Cave Pedals,FETish,Fuzz
+Cave Pedals,FETish,Overdrive
+Cave Pedals,Quad,Overdrive
+Caveman Audio / Skrydstrup,ODR1,Fuzz
+Caveman Audio / Skrydstrup,ODR1,Overdrive
+Caveman Audio / Skrydstrup,ODR2,Overdrive
+CBC Pedals,Ampeg Scrambler,Fuzz
+CBC Pedals,Foxx Tone Machine,Fuzz
+CBC Pedals,FY-2 Companion,Fuzz
+CBC Pedals,Harmonic Percolator,Fuzz
+CBC Pedals,Hop Hed Fuzztone,Fuzz
+CBC Pedals,Hybrid Fuzz,Fuzz
+CBC Pedals,Mista' Fuzz,Fuzz
+CBC Pedals,Mutha' Fuzz,Distortion
+CBC Pedals,The Drive / Zendrive circuit,Overdrive
+CBC Pedals,The Drive,Overdrive
+CBC Pedals,The Superfuzz,Fuzz
+CBS-Arbiter,CBS-Arbiter Doubler,Fuzz
+CBS-Arbiter,CBS-Arbiter Fuzz Face,Fuzz
+CBS-Arbiter,CBS-Arbiter Fuzz King,Fuzz
+CBS-Arbiter,CBS-Arbiter Fuzz Phazer,Fuzz
+CBS-Arbiter,CBS-Arbiter Wah-Fuzz-Swell,Fuzz
+CDB Pedals,Darkwater,Distortion
+CDB Pedals,Darkwater,Overdrive
+Cedar Custom Effects,Cedar Drive,Overdrive
+Celebrity Pedals,Adam Driver,Overdrive
+Celebrity Pedals,Distorsean Paul,Distortion
+Celebrity Pedals,Djent Reznor,Overdrive
+Celebrity Pedals,Fuzzbulla,Fuzz
+Celebrity Pedals,Fuzztin Bieber,Fuzz
+Celestial Effects,Aquarius,Fuzz
+Celestial Effects,Aries - Beast Distortion,Distortion
+Celestial Effects,Aries - Beast Distortion,Overdrive
+Celestial Effects,Cancer - Wah The Fuzz?,Fuzz
+Celestial Effects,Cancer - Wah The Fuzz?,Overdrive
+Celestial Effects,Capricorn - Rock Distortion,Distortion
+Celestial Effects,Capricorn - Rock Distortion,Overdrive
+Celestial Effects,Sagittarius - Overdrive Boost,Overdrive
+Celestial Effects,Taurus - Blues Overdrive,Overdrive
+Celestial Effects,Virgo - Rock Overdrive,Overdrive
+Celmo,Pimento Sardine Overdrive,Overdrive
+Celmo,Sardine Can,Overdrive
+Center Street Electronics,Drone Station Fuzz,Fuzz
+Center Street Electronics,Drone Station Fuzz,Overdrive
+Center Street Electronics,Druid Fuzz,Fuzz
+Center Street Electronics,God Hates Fuzz,Fuzz
+Center Street Electronics,Godly Red,Distortion
+Center Street Electronics,Godly Red,Fuzz
+Center Street Electronics,Godly Red,Overdrive
+Center Street Electronics,Rasputin Fuzz,Fuzz
+Center Street Electronics,The Murphy,Overdrive
 Century,Century SDI-1 Distortion,Distortion
+Century,Century SHM-8 Heavy Metal,Distortion
+Ceriatone,Centura Professional Overdrive,Overdrive
+Ceriatone,Horse Breaker,Overdrive
 César Diaz,Diaz Texas Square Face,Fuzz
-ChadderBox Effects,Loud/Louder,Overdrive
 ChadderBox Effects,Loud/Louder,Distortion
+ChadderBox Effects,Loud/Louder,Overdrive
+Chamber Of Sounds,Green Genie,Fuzz
 Champion City Effects,Cosmic Owl,Distortion
 Champion City Effects,Cosmonaut,Distortion
 Champion City Effects,El Gato Malo,Distortion
+Champion City Effects,Ezekiel,Distortion
 Champion City Effects,Ezekiel,Fuzz
 Champion City Effects,Ezekiel,Overdrive
-Champion City Effects,Ezekiel,Distortion
 Champion City Effects,Mjolnir Heavy Distortion,Distortion
-Champion Leccy,The Dunsh,Fuzz
-Champion Leccy,The Dunsh,Distortion
-Champion Leccy,The Gett,Fuzz
+Champion Leccy,Canny Fettle Boost,Distortion
+Champion Leccy,Canny Fettle Boost,Overdrive
 Champion Leccy,Evil Twin,Distortion
 Champion Leccy,Evil Twin,Fuzz
-Champion Leccy,Canny Fettle Boost,Overdrive
-Champion Leccy,Canny Fettle Boost,Distortion
 Champion Leccy,The Divvy,Fuzz
 Champion Leccy,The Divvy,Overdrive
-Ceriatone,Centura Professional Overdrive,Overdrive
-Ceriatone,Horse Breaker,Overdrive
-Chase Tone,Fuzz Fella Blue BC108C,Fuzz
-Chase Tone,Fuzz Fella Blue BC108C,Overdrive
+Champion Leccy,The Dunsh,Distortion
+Champion Leccy,The Dunsh,Fuzz
+Champion Leccy,The Fat Gett,Fuzz
+Champion Leccy,The Gett,Fuzz
+Chancho Electronics,Plumbus Fuzz,Fuzz
+Chandler Limited,Germanium Drive,Distortion
+Chandler Limited,Germanium Drive,Overdrive
+Chandler,Chandler Tube Driver,Overdrive
+Chaos Custom Shop / Chaos FX,C.Drive,Overdrive
+Chaos Custom Shop / Chaos FX,Fuzz Machine,Fuzz
+Chaos Custom Shop / Chaos FX,K.O. Drive,Overdrive
+Chaos Custom Shop / Chaos FX,Lugola Fuzz,Fuzz
+Chaos Custom Shop / Chaos FX,X.Drive Distortion,Distortion
+Chapter 53 Boutique Effects,Fuzzmaster,Fuzz
+Charlie Paolo Custom Effects,Bloodstone Overdrive,Overdrive
+Charlie Paolo Custom Effects,Obsidian Fuzz,Fuzz
+Charlie Paolo Custom Effects,Sapphire - Transparent Overdrive,Overdrive
+Charlie Paolo Custom Effects,Toothaker Distortion,Distortion
+Charlie Pedals,Theophane,Fuzz
+Charlie Pedals,Troubadour 2023,Fuzz
+Charlie Pedals,Troubadour MKI.5,Fuzz
+Chase Bliss Audio,Bliss Factory,Fuzz
+Chase Bliss Audio,Brothers - Analog Gainstage,Distortion
+Chase Bliss Audio,Brothers - Analog Gainstage,Fuzz
+Chase Bliss Audio,Brothers AM,Distortion
+Chase Bliss Audio,Brothers AM,Overdrive
+Chase Bliss Audio,Brothers,Fuzz
+Chase Bliss Audio,Brothers,Overdrive
+Chase Bliss Audio,Condor - Analog EQ / Pre / Filter,Overdrive
+Chase Bliss Audio,Condor Hifi - Analog EQ / Pre / Filter,Overdrive
+Chase Bliss Audio,Dirt Bird,Distortion
+Chase Bliss Audio,Preamp MKII,Fuzz
+Chase Bliss Audio,Preamp MKII,Overdrive
+Chase Tone,'68 Red Velvet Fuzz,Fuzz
+Chase Tone,Black Stardust BC109 Silicon Fuzz,Fuzz
 Chase Tone,Blue Stardust BC108 Silicon Fuzz,Fuzz
 Chase Tone,Blue Stardust BC108 Silicon Fuzz,Overdrive
+Chase Tone,Candy Apple Red Glazed Germanium Fuzz Face,Fuzz
+Chase Tone,Fuzz Fella Blue BC108C,Fuzz
+Chase Tone,Fuzz Fella Blue BC108C,Overdrive
+Chase Tone,Metallic Blue Stardust Hi-Octave Fuzz,Fuzz
 Chase Tone,Purple Stardust Hi-Octave Fuzz,Fuzz
+Chase Tone,Red Stardust Germanium Fuzz,Fuzz
+Chase Tone,Silver Stardust BC183/2L Silicon Fuzz,Fuzz
+Chaser,HM-3 Heavy Metal,Distortion
+CheeseBlocks Effects,Phoenix Fuzz,Fuzz
+CheeseBlocks Effects,THE Cheese Distortion,Distortion
+Chellee Guitars,Odelya,Overdrive
+Chellee Guitars,Odie - Classic Overdrive,Overdrive
+Chellee Guitars,Odie - Modified Overdrive,Overdrive
+Chellee Guitars,Odie - Overdrive,Overdrive
+Chellee Guitars,Ponyboy - Overdrive,Overdrive
+Chellee Guitars,Sir Robin - Overdrive,Overdrive
+Chemistry Design Werks,Gigawatt - Overdrive & Delay,Overdrive
+Cherry Music,Mighty Sound M1 Distortion,Distortion
+Cherry Music,Mighty Sound M2 Overdrive,Overdrive
+Cherry Music,Mighty Sound M3 Fuzz,Fuzz
+Chesapeake Effects,Flagship Overdrive,Overdrive
 Chicago Iron,Octavian,Fuzz
+Chicago Stompworks,Black Fudge,Fuzz
+Chicago Stompworks,Fat Bald Guy,Fuzz
+Chicago Stompworks,Gray Speck,Overdrive
+Chicago Stompworks,Greeny,Fuzz
+Chicago Stompworks,Legitimate Beef,Overdrive
+ChiralityAudio,Black Swan,Distortion
+ChiralityAudio,Black Swan,Fuzz
+ChiralityAudio,Splinter,Overdrive
+Chiu Luen,CL-1 Distortion,Distortion
+Chiu Luen,CL-3 Clean/Distortion/Reverb/Chorus,Distortion
+Chiu Luen,CL-4 Distortion/Reverb,Distortion
+Chiu Luen,CL-5 Distortion,Distortion
+Chocolate Electronics,Chocolate Crunch,Overdrive
+Chocolate Electronics,Chocolate Drive,Overdrive
+Chocolate Electronics,Fuzzy Overdrive,Fuzz
+Chocolate Electronics,Fuzzy Overdrive,Overdrive
+Chocolate Electronics,Melty Overdrive,Overdrive
+Chord (by Daphon),BOD-50 Bass Overdrive,Overdrive
+Chord (by Daphon),DS-50 Distortion,Distortion
+Chord (by Daphon),HM-50 Heavy Metal,Distortion
+Chord (by Daphon),MT-50 Metal Driver,Distortion
+Chord (by Daphon),OD-50 Overdrive,Overdrive
+Chord (by Daphon),SD-50 Super Distortion,Distortion
+Chord (by Tom's Line),OD50 Overdrive/Distortion,Distortion
+Chord (by Tom's Line),OD50 Overdrive/Distortion,Overdrive
+Chowny Bass,Fuzzster Bass Fuzz,Fuzz
+Chris Custom,Crusher - Hi Gain Distortion,Distortion
+Chris Custom,DF-1 Dr.Fuzz,Fuzz
+Chris Custom,Dr.Drive,Overdrive
+Chris Custom,Dr.Muff,Fuzz
+Chris Custom,Dr.Scream,Overdrive
+Chris Custom,Dr.Silvery,Overdrive
+Chris Custom,Fratz,Distortion
+Chris Custom,Fratz,Overdrive
+Chris Custom,Loud Crusher,Distortion
+Chuck Pedals,Arcadiator,Fuzz
+Chuck Pedals,Diver,Fuzz
+Chuck Pedals,VTO,Overdrive
+Chucktone Effects,Overdrive 809,Overdrive
+Chunk Systems,Brown Dog,Fuzz
+Chunk Systems,FZ002,Fuzz
+Ciclar,Arquera Overdrive,Overdrive
+Ciclar,Motoquera Fuzz,Fuzz
 Cicognani Engineering,Double Decker,Overdrive
 Cicognani Engineering,Speciale DD 1959,Overdrive
 Cicognani Engineering,Triple Decker,Overdrive
+Circle Of Tone,Blues Overdrive,Overdrive
+Circle Of Tone,Distortion,Distortion
+Circle Of Tone,FUZZ,Fuzz
+Circle Of Tone,OVERDRIVE,Overdrive
+Circle Of Tone,Quad Damage,Distortion
+Circle Of Tone,Quad Damage,Overdrive
+Circuit Rider Effects,SiClops,Overdrive
+Circuitbenders,Black Box Audio Destructor,Distortion
+Circuitbenders,Demon Seed,Distortion
+Circuitbenders,Demon Seed,Fuzz
+CircuitFX,Cruncher,Overdrive
+CircuitFX,Soldano SuperCharger,Overdrive
+Circuitous FX,FZ-BRK,Fuzz
+Circular Time Hardware,Acetone Fuzz,Fuzz
+Circus Freak Music,The Bearded Lady Fuzztone,Fuzz
+Circus Freak Music,The Pickled Punk,Distortion
+Circus Freak Music,The Tattooed Lady,Overdrive
+Citadel Electronics,Overtuber,Overdrive
+Citadel Electronics,Particle Drive,Distortion
+Citadel Electronics,Particle Drive,Overdrive
+Citadel Electronics,Plutonium Overdrive,Distortion
+Citadel Electronics,Plutonium Overdrive,Fuzz
+Citadel Electronics,Plutonium Overdrive,Overdrive
+Citadel Electronics,Vector,Fuzz
+CKK Electronic,Destruction Drive - Aggressive High-Gain Distortion,Distortion
+CKK Electronic,Flaming Lips - US Style Distortion with Fat Boost,Distortion
 CKK Electronic,Gambler,Overdrive
+CKK Electronic,Honey Jar - Overdrive,Overdrive
+CKK Electronic,Lunar Drive - Vintage Amp Tone Overdrive,Overdrive
 CKK Electronic,Royal Fuzz,Fuzz
-CMAT Mods,Brownie,Distortion
+CKK Electronic,Scream Drive - Two Gain Stage Classic Overdrive,Overdrive
+Clarenzio,Brìne - Distortion,Distortion
+Clarenzio,Cativèria - Tube Distortion,Distortion
+Clarenzio,Sandroun - Tube Overdrive,Overdrive
+Clarenzio,Spètnador - Overdrive,Overdrive
+Clarenzio,Strèmne - Fuzz,Fuzz
+Clarenzio,Stùrloun - Tube Distortion,Distortion
+Clark Amplification,Gainster,Overdrive
+Classic Audio Effects,Stumphouse Drive,Overdrive
+Clay Jones,CJOD Overdrive,Overdrive
+Claybridge Sound Systems / Claybridge Audio,Fuzzmaster MKIV,Fuzz
+Claybridge Sound Systems / Claybridge Audio,Fuzzmaster,Fuzz
+Clayton,X-Treme DS-160 Distortion,Distortion
+Clayton,X-Treme MT-170 Metal Driver,Distortion
+Clayton,X-Treme OD-160 Overdrive,Overdrive
+Clear Sound,Super Fuzz,Fuzz
+Cleveland Music Co.,Bleepcakes Overfuzz,Fuzz
+Cleveland Music Co.,Bleepcakes Overfuzz,Overdrive
+Cleveland Music Co.,EastSide Overdrive,Overdrive
+Cleveland Music Co.,Flats Distortion,Distortion
+Cleveland Music Co.,Midgeapocalypse Vintage Fuzz,Fuzz
+Cleveland Music Co.,Old Stone Overdrive,Overdrive
+Cleveland Music Co.,Smuffle Fuzz,Fuzz
+Cleveland Music Co.,Superior Overdrive,Overdrive
+Cleveland Music Co.,The Heights Dynadrive,Overdrive
+Cleveland Music Co.,WestSide Overdrive,Overdrive
+Cleveland Music Co.,Woollybear Fuzz,Fuzz
+ClinchFX,Blue Classic,Distortion
+ClinchFX,Blue Classic,Overdrive
+Clone Bro,Taurus,Overdrive
+Clone Bro,Tone King,Overdrive
+Cloud 9,DS-50 Distortion + Sustain,Distortion
+Cloud 9,TS-30 Tube Sound Overdrive,Overdrive
+Cluster Effects,Dragon-71,Distortion
 CMAT Mods,Black Plague,Distortion
+CMAT Mods,Brownie,Distortion
+CMAT Mods,Butah,Overdrive
 CMAT Mods,Ratified,Distortion
+CMAT Mods,Signa Comp-Drive,Overdrive
 CMAT Mods,Signa Drive,Overdrive
 CMAT Mods,Super Signa Drive,Overdrive
-CMAT Mods,Butah,Overdrive
+CMAT Mods,Tube Slammer Deluxe,Overdrive
 CMAT Mods,Tube Slammer,Overdrive
+CMC Audio,Bi Filter Fuzz,Fuzz
+CMC Audio,PROTO TYPE V2,Overdrive
+CMI,CMI Fuzz Unit,Fuzz
+CMI,Wah Fuzz Swell,Fuzz
+CNZ Audio,GDS-20 Distortion,Distortion
+CNZ Audio,SCM-20 Crossfire Metal,Distortion
+CNZ Audio,SDU-20 Dumble Overdrive,Overdrive
+CNZ Audio,SFZ-20 Fuzz,Fuzz
+CNZ Audio,SOD-20 Overdrive,Overdrive
+CNZ Audio,VBL-20 Bluesy Overdrive,Overdrive
+CNZ Audio,VDU-20 Dumbled Drive,Overdrive
+Cobrahawk,B12 Fuzz,Fuzz
+Cobrahawk,B12 Go Fuzz Yourself (Paul),Fuzz
+Cobrahawk,JRC4558 OD-8 Overdrive,Overdrive
 Coda Effects,Black Hole,Distortion
 Coda Effects,Dolmen Fuzz,Fuzz
-Coffee Shop Pedals,Portafilter Dual Overdrive,Overdrive
+Code,CDO2 Stereo Distortion O.D.,Distortion
+Code,CDO2 Stereo Distortion O.D.,Overdrive
+Code,CMM2 Stereo Metal Mate,Distortion
+Codtone,Ben Drive,Overdrive
+Codtone,Frank 'n' Beans,Fuzz
+Codtone,Fuzz for Bass,Fuzz
+Codtone,Russian Bikini Ranger,Fuzz
 Coffee Shop Pedals,Affogato Fuzz,Fuzz
 Coffee Shop Pedals,Donut Hole Overdrive,Overdrive
-Collision Devices,TARS,Fuzz
-Collision Devices,TARS,Distortion
-Collision Devices,Snack Fuzz,Fuzz
-Collision Devices,Snack Fuzz,Distortion
-Collision Devices,Singularity,Fuzz
-Collision Devices,Singularity,Distortion
-Collision Devices,Black Hole Symmetry,Fuzz
-Cornerstone Music Gear,Centurio,Overdrive
-Cornerstone Music Gear,Colosseum,Overdrive
-Cornerstone Music Gear,Nero,Fuzz
-Cornerstone Music Gear,Nero,Overdrive
-Cornerstone Music Gear,Antique V3,Overdrive
-Cornerstone Music Gear,Imperium V2,Overdrive
-Cornerstone Music Gear,Gladio SC,Overdrive
-Crowther Audio,Hot Cake,Overdrive
-Cusack Music,Carolina Reaper,Overdrive
-Cusack Music,Carolina Reaper,Fuzz
-Cusack Music,Screamer V2,Overdrive
-Cusack Music,Screamer Fuzz V3,Overdrive
-Cusack Music,Screamer Fuzz V3,Fuzz
-Cusack Music,Screamer Fuzz Germanium,Overdrive
-Cusack Music,Screamer Fuzz Germanium,Fuzz
-Cusack Music,Screamer Bass Fuzz,Overdrive
-Cusack Music,Screamer Bass Fuzz,Fuzz
-CUVAVE / M-VAVE,DIST British,Distortion
-CUVAVE / M-VAVE,Distortion SC1,Distortion
-CUVAVE / M-VAVE,FUZZ,Fuzz
-CUVAVE / M-VAVE,Overdrive Blues,Overdrive
-CUVAVE / M-VAVE,Overdrive TS,Overdrive
-CUVAVE / M-VAVE,Overdrive DB,Overdrive
-CUVAVE / M-VAVE,Overdrive AMP,Overdrive
-CUVAVE / M-VAVE,DIST-MT1,Distortion
+Coffee Shop Pedals,Portafilter Dual Overdrive,Overdrive
+Coffin Case,Batula Fuzz,Fuzz
+Coffin Case,Blood Drive,Distortion
+Coffin Gear / Coffin Case,Batula Fuzz,Fuzz
+Coffin Gear / Coffin Case,BDFX-1 Blood Drive,Distortion
 COG Effects,Darklighter,Overdrive
 COG Effects,Dual Knightfall,Distortion
 COG Effects,Grand Tarkin Bass Fuzz,Fuzz
 COG Effects,Grand Tarkin Mk2,Fuzz
-COG Effects,Knightfall,Distortion
 COG Effects,Knightfall 66,Overdrive
+COG Effects,Knightfall,Distortion
 COG Effects,Mini 66 Bass Overdrive,Overdrive
 COG Effects,Rogue One Fuzz Octave,Fuzz
 COG Effects,Tarkin Fuzz,Fuzz
@@ -180,325 +499,154 @@ COG Effects,Tarkin Mk2,Fuzz
 COG Effects,TK-421 Distortion,Distortion
 COG Effects,TK-421-X Bass Distortion,Distortion
 COG Effects,Wet Nuns Fuzz,Fuzz
-Carcharias Effects,Uncle 125 Bass Overdrive,Overdrive
-Chaos Custom Shop / Chaos FX,C.Drive,Overdrive
-Chaos Custom Shop / Chaos FX,Fuzz Machine,Fuzz
-Chaos Custom Shop / Chaos FX,Lugola Fuzz,Fuzz
-Chaos Custom Shop / Chaos FX,K.O. Drive,Overdrive
-Chaos Custom Shop / Chaos FX,X.Drive Distortion,Distortion
-CroyTone Audio Technologies,Hae Fuzz,Fuzz
-CroyTone Audio Technologies,Suzumebachi Fuzz,Fuzz
-CroyTone Audio Technologies,Camper Fuzz,Fuzz
-CTech / CB Labs,PRX-901 Amp Emulator,Overdrive
-CTech / CB Labs,PRX-902 Amp Emulator,Overdrive
-Cultco,001 Medium Overdrive,Overdrive
-Cunningham Amps,MK 1.6 Fuzz,Fuzz
-Cunningham Amps,Dual Range Fuzz,Fuzz
-Cunningham Amps,Octave Fuzz,Fuzz
-Cunningham Amps,Zonk/MK1 Fuzz,Fuzz
-Cunningham Amps,MKII Professional Fuzz,Fuzz
-Cunningham Amps,Gypsy Eyes Fuzz,Fuzz
-Cunningham Amps,Supa Fuzz,Fuzz
-Cunningham Amps,Nick Perri Signature MK1 Fuzz,Fuzz
-Custom 77,Push Me Pull Me,Overdrive
-Cutec,OD-01 Over Drive,Overdrive
-Critically Overdriven,E.O.D.,Overdrive
-Cave Pedals,FETish,Overdrive
-Cave Pedals,FETish,Fuzz
-Cave Pedals,Quad,Overdrive
-Casey Gooby,Bag Of Dicks,Fuzz
-Casey Gooby,Organ Donor,Fuzz
-Carl Martin,AC-Tone Single,Overdrive
-Carl Martin,DC-Drive,Overdrive
-Carl Martin,Greg Howe's Lick Box,Overdrive
-Carl Martin,Greg Howe's Lick Box,Distortion
-Carl Martin,Panama,Overdrive
-Carl Martin,Panama,Distortion
-Carl Martin,PlexiRanger,Overdrive
-Carl Martin,PlexiTone,Overdrive
-Carl Martin,PlexiTone,Distortion
-Carl Martin,PlexiTone Lo-Gain,Overdrive
-Carl Martin,PlexiTone Single,Overdrive
-Carl Martin,PlexiTone Single,Distortion
-Carl Martin,Purple Moon,Fuzz
-Carl Martin,The Fuzz,Fuzz
-Carl Martin,Heavy Drive,Distortion
-Carl Martin,TOD,Overdrive
-Cedar Custom Effects,Cedar Drive,Overdrive
-Chicago Stompworks,Gray Speck,Overdrive
-Chicago Stompworks,Greeny,Fuzz
-Chicago Stompworks,Fat Bald Guy,Fuzz
-Chicago Stompworks,Legitimate Beef,Overdrive
-Chicago Stompworks,Black Fudge,Fuzz
-Chowny Bass,Fuzzster Bass Fuzz,Fuzz
-Coffin Case,Blood Drive,Distortion
-Coffin Case,Batula Fuzz,Fuzz
-ColdCraft Effects,Sweet Cream OD,Overdrive
-ColdCraft Effects,Fiesta Fuzz Mini,Fuzz
-ColdCraft Effects,Ramrod Distortion,Distortion
-ColdCraft Effects,Sweet Kiwi MkII,Overdrive
-ColdCraft Effects,Sweet Kiwi MkII,Fuzz
-ColdCraft Effects,Black Shuck OD/Distortion,Overdrive
-ColdCraft Effects,Black Shuck OD/Distortion,Distortion
-ColdCraft Effects,Cascade MkII,Overdrive
+Coggins Audio / Dinosaural,Cogmeister,Distortion
+Coggins Audio / Dinosaural,Cogmeister,Fuzz
+Coggins Audio / Dinosaural,Cogmeister,Overdrive
+Coggins Audio / Dinosaural,Dan Solo Mid Booster / Drive,Overdrive
+Coggins Audio / Dinosaural,Dinosaural OPA-101 Overdriven Pre-amp,Overdrive
+Coggins Audio / Dinosaural,Dinosaural Tube Bender,Overdrive
+Coggins Audio / Dinosaural,Hypoid Drive,Distortion
+Coggins Audio / Dinosaural,Hypoid Drive,Fuzz
+Coggins Audio / Dinosaural,Hypoid Drive,Overdrive
 ColdCraft Effects,Black Dynamite MkII,Overdrive
+ColdCraft Effects,Black Lime IC Fuzz,Fuzz
+ColdCraft Effects,Black Shuck OD/Distortion,Distortion
+ColdCraft Effects,Black Shuck OD/Distortion,Overdrive
+ColdCraft Effects,Cascade MkII,Overdrive
+ColdCraft Effects,Fiesta Fuzz Mini,Fuzz
 ColdCraft Effects,Fiesta Fuzz MkII,Fuzz
 ColdCraft Effects,Fusion Fuzz,Fuzz
-Creation Audio Labs,Holy Fire Classic,Overdrive
-Creation Audio Labs,Holy Fire Classic,Distortion
-Creation Audio Labs,Holy Fire 9,Overdrive
-Creation Audio Labs,Holy Fire 9,Distortion
-Creation Audio Labs,Grizzly Bass,Overdrive
-Creation Audio Labs,Grizzly Bass,Distortion
-Crews Maniac Sound,Genius Over Drive,Overdrive
-Crews Maniac Sound,Quadrive,Overdrive
-Crews Maniac Sound,Valve Drive,Overdrive
-Crews Maniac Sound,Taco Fuzz,Fuzz
-Cameltone Electronics,The Nard,Overdrive
-Cameltone Electronics,The Nard,Distortion
-Cameltone Electronics,Big Stuff,Fuzz
-Cameltone Electronics,Freak Scene,Fuzz
-Cause & Effect Pedals (CE Pedals),FET Dream,Overdrive
-Cause & Effect Pedals (CE Pedals),FET Dream,Distortion
-Cat Box Customs,Bean Machine,Fuzz
-Cat Box Customs,Bean Machine V2,Fuzz
-Cat Box Customs,Fuzz Club,Fuzz
-Cat's Eye ESP,Mista' Fuzz,Fuzz
-Cat's Eye ESP,Mutha' Fuzz,Fuzz
-CatastroFX,Deface Mk.III,Fuzz
-CatastroFX,Outbreak,Overdrive
-Cathouse Pedals,Fuzzy Tongue,Fuzz
-Cathouse Pedals,Rat Fink,Distortion
-Cathouse Pedals,The Bender,Fuzz
-Cathouse Pedals,The Screamer,Overdrive
-Cathouse Pedals,The Screamer,Distortion
-Caveman Audio / Skrydstrup,ODR1,Overdrive
-Caveman Audio / Skrydstrup,ODR1,Fuzz
-Caveman Audio / Skrydstrup,ODR2,Overdrive
-CBC Pedals,The Drive,Overdrive
-CBC Pedals,The Superfuzz,Fuzz
-CBC Pedals,FY-2 Companion,Fuzz
-CBC Pedals,Foxx Tone Machine,Fuzz
-CBC Pedals,Harmonic Percolator,Fuzz
-CBC Pedals,Ampeg Scrambler,Fuzz
-CBC Pedals,The Drive / Zendrive circuit,Overdrive
-Cat's Eye ESP,Mutha' Fuzz,Distortion
-Cat's Eye ESP,Hop Hed Fuzztone,Fuzz
-Cat's Eye ESP,Hybrid Fuzz,Fuzz
-ClinchFX,Blue Classic,Overdrive
-ClinchFX,Blue Classic,Distortion
+ColdCraft Effects,Ramrod Distortion,Distortion
+ColdCraft Effects,Sweet Cream OD,Overdrive
+ColdCraft Effects,Sweet Kiwi MkII,Fuzz
+ColdCraft Effects,Sweet Kiwi MkII,Overdrive
+Cole Music Co.,ParaDrive Parametric Overdrive,Overdrive
+Coleman,Angry Dragon mkII - Germanium Fuzz,Fuzz
+Coleman,Astro Fuzz - Hybrid Germanium Silicon Fuzz,Fuzz
+Colfax Recorders,Porcelain Fuzz,Fuzz
+Colfax Recorders,Zephyr Overdrive,Overdrive
+Collateral FX,P004 Icarus,Overdrive
+Collateral FX,P005 Continuum OD,Overdrive
+Collateral FX,P008 Golden Ratio Fuzz,Fuzz
+Collateral FX,P010 Year of Rat 1985,Distortion
+Collateral FX,P010 Year of Rat 1985,Overdrive
+Collateral FX,P011 Chili Pre,Overdrive
+Collateral FX,P012 Constellation OD,Overdrive
+Collateral FX,P013 Black Hole Sunn,Overdrive
+Collateral FX,P014 Red Giant,Distortion
+Collateral FX,P014 Red Giant,Overdrive
+Collateral FX,P015 White Russian Distortion/Fuzz,Distortion
+Collateral FX,P015 White Russian Distortion/Fuzz,Fuzz
+Collateral FX,P016 Foxey Face Fuzz,Fuzz
+Collateral FX,P017 Unchained Overdrive/Distortion,Distortion
+Collateral FX,P017 Unchained Overdrive/Distortion,Overdrive
+Collateral FX,P019 Slow Distortion/Fuzz,Distortion
+Collateral FX,P019 Slow Distortion/Fuzz,Fuzz
+Collateral FX,P021 Parsec Overdrive,Overdrive
+Collateral FX,P022 Drive for the Dead Overdrive,Overdrive
+Collateral FX,P023 The Bendz Fuzz,Fuzz
+Collateral FX,P024 Sirius Dual Overdrive,Overdrive
+Collateral FX,P026 Banana Fuzz,Fuzz
+Collateral FX,P027 Element 118 Fuzz,Fuzz
+Collateral FX,P028 Palindrome Dual Overdrive,Overdrive
+Collateral FX,P029 Ring System Overdrive/Distortion,Distortion
+Collateral FX,P029 Ring System Overdrive/Distortion,Overdrive
+Collateral FX,P031 Zeugma Fuzz,Fuzz
+Collateral FX,P032 Touchstone Overdrive,Overdrive
+Collins,CDT-1 Distortion,Distortion
+Collins,COD-1 Pro Over Drive,Overdrive
+Collins,CSD-1 Pro Super Dust,Fuzz
+Collision Devices,Black Hole Symmetry,Fuzz
+Collision Devices,FZ - Gated Fuzz / Distortion,Distortion
+Collision Devices,FZ - Gated Fuzz / Distortion,Fuzz
+Collision Devices,Singularity,Distortion
+Collision Devices,Singularity,Fuzz
+Collision Devices,Snack Fuzz,Distortion
+Collision Devices,Snack Fuzz,Fuzz
+Collision Devices,TARS,Distortion
+Collision Devices,TARS,Fuzz
+Colombo Audio Electronics,22 Overdrive/Distortion,Distortion
+Colombo Audio Electronics,22 Overdrive/Distortion,Overdrive
+Colombo Audio Electronics,57 Turbo Drive,Overdrive
+Colombo Audio Electronics,Blackface Idol,Overdrive
+Colombo Audio Electronics,Bricks,Distortion
+Colombo Audio Electronics,Bricks,Fuzz
+Colombo Audio Electronics,Eruption,Distortion
+Colombo Audio Electronics,Eruption,Overdrive
+Colombo Audio Electronics,Father of Loud,Distortion
+Colombo Audio Electronics,Father of Loud,Overdrive
+Colombo Audio Electronics,Ignition,Overdrive
+Colombo Audio Electronics,Kensington Star,Overdrive
+Colombo Audio Electronics,Kensington,Overdrive
+Colombo Audio Electronics,Lead Trilogy,Distortion
+Colombo Audio Electronics,Mr. Deaky,Distortion
+Colombo Audio Electronics,Muff Blaster,Distortion
+Colombo Audio Electronics,Muff Blaster,Fuzz
+Colombo Audio Electronics,Naoto,Distortion
+Colombo Audio Electronics,Naoto,Overdrive
+Colombo Audio Electronics,November Child,Distortion
+Colombo Audio Electronics,November Child,Overdrive
+Colombo Audio Electronics,Over Drive,Overdrive
+Colombo Audio Electronics,Plexi Breed,Distortion
+Colombo Audio Electronics,Plexi Breed,Overdrive
+Colombo Audio Electronics,Pulse Driver,Overdrive
+Colombo Audio Electronics,Rocker 83,Distortion
+Colombo Audio Electronics,Rocker 83,Overdrive
+Colombo Audio Electronics,Southern Stalker,Overdrive
+Colombo Audio Electronics,The One,Distortion
+Colombo Audio Electronics,The One,Overdrive
+Colombo Audio Electronics,Utopia Overdrive,Distortion
+Colombo Audio Electronics,Utopia Overdrive,Overdrive
+Colombo Audio Electronics,Via Lattea,Overdrive
+Color Audio,Cassette Preamp,Fuzz
+Color Audio,Cassette Preamp,Overdrive
+Colorsound / Sola Sound,B&M Champion Fuzz Unit,Fuzz
+Colorsound / Sola Sound,B&M Champion Wah Fuzz,Fuzz
+Colorsound / Sola Sound,B&M Fuzz Unit,Fuzz
+Colorsound / Sola Sound,Colorsound Supa Wah-Fuzz-Swell,Fuzz
+Colorsound / Sola Sound,Eurotec Black Box Fuzz Module,Fuzz
+Colorsound / Sola Sound,G.B. Fuzz Unit,Fuzz
+Colorsound / Sola Sound,G.B. Fuzz,Fuzz
 Colorsound / Sola Sound,Overdriver,Overdrive
-Colorsound / Sola Sound,Tone Bender,Fuzz
+Colorsound / Sola Sound,Pro Traffic Fuzz Unit,Fuzz
+Colorsound / Sola Sound,Sola Sound Bum Fuzz Unit,Fuzz
+Colorsound / Sola Sound,Sola Sound Tone Bender,Fuzz
 Colorsound / Sola Sound,Tone Bender MKII,Fuzz
 Colorsound / Sola Sound,Tone Bender MKIII,Fuzz
-Colorsound / Sola Sound,Sola Sound Tone Bender,Fuzz
-Concrete Sound Lab,SLAB,Overdrive
-Concrete Sound Lab,SLAB,Fuzz
-Creepy Fingers Effects,Blacklight Fuzz,Fuzz
-Creepy Fingers Effects,Crazy Creepy,Fuzz
-Creepy Fingers Effects,The Balch,Fuzz
-Creepy Fingers Effects,Blue Mood,Fuzz
-Creepy Fingers Effects,Modern Sound,Fuzz
-Creepy Fingers Effects,Shatterbox,Fuzz
-Creepy Fingers Effects,Fuzzfreak,Fuzz
-Creepy Fingers Effects,Creepyface,Fuzz
-Creepy Fingers Effects,Brummie,Fuzz
-Creepy Fingers Effects,Hold Tight,Fuzz
-Creepy Fingers Effects,Fuzz Nugget,Fuzz
-Creepy Fingers Effects,Lonely Heart,Fuzz
-Creepy Fingers Effects,Harakiri,Fuzz
-Critter Electronics,CRR Klone,Overdrive
-Critter Electronics,CFR Klone,Overdrive
-Critter Electronics,CFR Klone,Distortion
-Critter Electronics,1978R Distortion,Distortion
-Critter Electronics,Model III Overdrive,Overdrive
-Critter Electronics,1972,Fuzz
-Critter Electronics,American Fuzz,Fuzz
-Carlin,Carlin Compressor/Fuzz,Fuzz
-Carlsbro,Carlsbro Fuzz-Tone,Fuzz
-Carlsbro,Carlsbro Suzz,Distortion
-Carvin,Carvin TO-1 Tube Overdrive,Overdrive
-Carvin,Carvin UD-1 Ultra Distortion,Distortion
-Carvin,Carvin VLD1 Steve Vai Legacy Drive Preamp,Overdrive
-Casimir Effects Pedals,Entropy Fuzz,Fuzz
-Chandler,Chandler Tube Driver,Overdrive
-Chandler Limited,Germanium Drive,Overdrive
-Chandler Limited,Germanium Drive,Distortion
-Center Street Electronics,Druid Fuzz,Fuzz
-Center Street Electronics,Godly Red,Overdrive
-Center Street Electronics,Godly Red,Distortion
-Center Street Electronics,Godly Red,Fuzz
-Center Street Electronics,Rasputin Fuzz,Fuzz
-Center Street Electronics,The Murphy,Overdrive
-Center Street Electronics,Drone Station Fuzz,Overdrive
-Center Street Electronics,Drone Station Fuzz,Fuzz
-Center Street Electronics,God Hates Fuzz,Fuzz
-CheeseBlocks Effects,Phoenix Fuzz,Fuzz
-CheeseBlocks Effects,THE Cheese Distortion,Distortion
-ChiralityAudio,Splinter,Overdrive
-ChiralityAudio,Black Swan,Fuzz
-ChiralityAudio,Black Swan,Distortion
-Chocolate Electronics,Fuzzy Overdrive,Overdrive
-Chocolate Electronics,Fuzzy Overdrive,Fuzz
-Chocolate Electronics,Chocolate Crunch,Overdrive
-Chocolate Electronics,Melty Overdrive,Overdrive
-Chocolate Electronics,Chocolate Drive,Overdrive
-Cleveland Music Co.,Flats Distortion,Distortion
-Cleveland Music Co.,The Heights Dynadrive,Overdrive
-Cleveland Music Co.,EastSide Overdrive,Overdrive
-Cleveland Music Co.,Superior Overdrive,Overdrive
-Cleveland Music Co.,Smuffle Fuzz,Fuzz
-Cleveland Music Co.,WestSide Overdrive,Overdrive
-Cleveland Music Co.,Midgeapocalypse Vintage Fuzz,Fuzz
-Cleveland Music Co.,Old Stone Overdrive,Overdrive
-Cleveland Music Co.,Woollybear Fuzz,Fuzz
-Cleveland Music Co.,Bleepcakes Overfuzz,Fuzz
-Cleveland Music Co.,Bleepcakes Overfuzz,Overdrive
-CNZ Audio,GDS-20 Distortion,Distortion
-CNZ Audio,SOD-20 Overdrive,Overdrive
-CNZ Audio,SFZ-20 Fuzz,Fuzz
-CNZ Audio,SCM-20 Crossfire Metal,Distortion
-CNZ Audio,SDU-20 Dumble Overdrive,Overdrive
-CNZ Audio,VBL-20 Bluesy Overdrive,Overdrive
-CNZ Audio,VDU-20 Dumbled Drive,Overdrive
-Chesapeake Effects,Flagship Overdrive,Overdrive
-Chuck Pedals,Arcadiator,Fuzz
-Chuck Pedals,Diver,Fuzz
-Chuck Pedals,VTO,Overdrive
-Citadel Electronics,Particle Drive,Overdrive
-Citadel Electronics,Particle Drive,Distortion
-Citadel Electronics,Overtuber,Overdrive
-Citadel Electronics,Plutonium Overdrive,Overdrive
-Citadel Electronics,Plutonium Overdrive,Distortion
-Citadel Electronics,Plutonium Overdrive,Fuzz
-Copilot FX,Mantis,Fuzz
-Copilot FX,Orbit,Fuzz
-Copilot FX,Terra,Fuzz
-Copilot FX,Trek,Fuzz
-Chunk Systems,FZ002,Fuzz
-Chunk Systems,Brown Dog,Fuzz
-Cornell Amplification,The 1st Fuzz,Fuzz
-Cornell Amplification,Over Drive Special,Overdrive
-Cluster Effects,Dragon-71,Distortion
-Cranetortoise by Albit,AD-1 Crunch + Atom Distortion,Distortion
-Cranetortoise by Albit,DD-1 Dual Distortion,Distortion
-Cranetortoise by Albit,DD-1B Dual Distortion for Bass,Distortion
-Cranetortoise by Albit,FD-1 Exciting Fuzz Drive,Fuzz
-Cranetortoise by Albit,FD-2 Low Noise Fat Distortion,Distortion
-Cranetortoise by Albit,HM-1 High Gain Distortion,Distortion
-Cranetortoise by Albit,OD-1 Over Drive Booster with Loud Circuit,Overdrive
-Cranetortoise by Albit,SD-1 Skunk Distortion,Distortion
-Couch Electronics,Blue Whale Overdrive,Overdrive
-Couch Electronics,Baker's Dozen Overdrive,Overdrive
-CAST Engineering,Texas Flood,Overdrive
-CAST Engineering,Mike Zito Peace Drive,Overdrive
-CAST Engineering,Gypsy Haze,Fuzz
-Crazy Rock'n'Roll Effecter,THE FOXY BLOW,Distortion
-Crazy Rock'n'Roll Effecter,Nasty Drive,Overdrive
-Crazy Rock'n'Roll Effecter,TONE BENDER M.K Ⅰ. Ⅴ,Fuzz
-Crazy Rock'n'Roll Effecter,SWAG FACE,Fuzz
-Creber Instruments,Classic Fuzz,Fuzz
-Crimsontone,Nero Overdrive,Overdrive
-Crimsontone,Rosso Fuzz,Fuzz
-Crimsontone,Rosso Fuzz,Overdrive
-Cryptid Effects,Indrid Cold,Fuzz
-Cryptid Effects,Siam Howler,Fuzz
-Coolsound,A117 Rough OVD,Overdrive
-Coolsound,A127 Dirty Bass,Distortion
-Crock,CM-2 Crock Metal,Distortion
-Crock,DS-2 Distortion,Distortion
-Crock,DS-4 Supra Distortion,Distortion
-Crock,OD-2 Over Drive Plus,Overdrive
-Crock,SD-2 Super Over Drive,Overdrive
-Crock,SM-2 Super Metal,Distortion
-Crock,SM-3 Super Metal,Distortion
-Crock,TM-2 Thrash Master,Distortion
-CrockettDial Productions,The Kwaker,Fuzz
-Crotronics,Lost Temper,Fuzz
-Crotronics,Firestarter,Fuzz
-Crust Pedals,Hudson Broadcast Clone,Overdrive
-Classic Audio Effects,Stumphouse Drive,Overdrive
+Colorsound / Sola Sound,Tone Bender,Fuzz
+ColorTone Fx / Pedal Tank,Gainer,Overdrive
+ColorTone Fx / Pedal Tank,OD-909 Overdrive Pro,Overdrive
+Colortone Pedals,Parasite Overdrive,Overdrive
+Columbus,DST-5 Distortion,Distortion
+Columbus,MTL-5 Ultra Metal,Distortion
+Columbus,OVD-5 Overdrive,Overdrive
+Columbus,TDR-5 Tube Driver,Overdrive
 Comet Effects,Hyperdrive,Overdrive
+Commune,Senturion Crazy Booster,Fuzz
+Commune,Senturion Modern Factor,Overdrive
+Commune,Senturion Preamp 500,Overdrive
+Commune/ECA (Empire Custom Amplification),Screem Mk-II,Overdrive
+Commune/ECA (Empire Custom Amplification),Screem,Overdrive
 Comodoro Pedales,Botfly Fuzz,Fuzz
 Comodoro Pedales,Percolator Fuzz,Fuzz
 Comodoro Pedales,Rat Bass,Distortion
-Crucial Audio,Das Götterdämmerung,Fuzz
-Crucial Audio,Das Götterdämmerung,Distortion
-Custom Analog Pedals,Purple Fuzzy Drive,Fuzz
-Custom Analog Pedals,Purple Fuzzy Drive,Overdrive
-Citadel Electronics,Vector,Fuzz
-Circuitous FX,FZ-BRK,Fuzz
-Circus Freak Music,The Bearded Lady Fuzztone,Fuzz
-Circus Freak Music,The Pickled Punk,Distortion
-Circus Freak Music,The Tattooed Lady,Overdrive
-Cosmic Terror,Sonic Doom,Fuzz
-Cosmic Terror,The Butcher,Fuzz
-Cosmic Terror,Low Frequency Destroyer,Distortion
-Cosmic Terror,Low Frequency Destroyer,Fuzz
-Cosmic Terror,Centerror,Overdrive
-Cosmic Terror,Sonic Rat,Distortion
-Cosmic Terror,Cult OD,Overdrive
-Cosmic Terror,Cosmic Drive,Overdrive
-Cosmic Terror,Droog,Overdrive
-Celmo,Pimento Sardine Overdrive,Overdrive
-Celmo,Sardine Can,Overdrive
-Coopersonic,Deluxe Dual Valve Overdrive,Overdrive
-Coopersonic,Deluxe Valve Overdrive,Overdrive
-Coopersonic,Dirtbox,Overdrive
-Coopersonic,Dirtbox,Distortion
-Coopersonic,Dirtbox,Fuzz
-Coopersonic,Mini Tube Overdrive,Overdrive
-Coopersonic,Pig Fuzz,Fuzz
-Coopersonic,The Germaniac - Vintage Fuzz,Fuzz
-Coopersonic,Twin Tube Overdrive,Overdrive
-Coopersonic,Valveslapper,Overdrive
-Coopersonic,Dual-Valve Distortion (Regular),Distortion
-Coopersonic,Dual-Valve Distortion (Regular),Fuzz
-Coopersonic,Dual-Valve Distortion (Deluxe),Distortion
-Coopersonic,Dual-Valve Distortion (Deluxe),Fuzz
-Copper Gear,Brontide Device,Distortion
-Copper Gear,Distorta Obscura,Fuzz
-Copper Gear,Distorta Obscura,Distortion
-Copper Gear,Distorta Destructo,Fuzz
-Copper Gear,Distorta Destructo,Distortion
-Copper Gear,Distorta Azura,Fuzz
-Copper Gear,Black Howler,Fuzz
-CostaLab,Dual Drive,Overdrive
-CostaLab,Dual Drive,Distortion
-CostaLab,Natural Drive,Overdrive
-CostaLab,Natural Drive,Distortion
-CostaLab,Natural Drive MKII,Overdrive
-CostaLab,Natural Drive MKII,Distortion
-CostaLab,Moon Drive,Fuzz
-CostaLab,Moon Drive,Distortion
-CostaLab,Sun Drive,Fuzz
-CostaLab,Sun Drive,Distortion
-CostaLab,Custom Muff Classic,Fuzz
-CostaLab,Custom Muff Classic,Distortion
-CostaLab,Custom Muff EVO,Fuzz
-CostaLab,Custom Muff EVO,Distortion
-CostaLab,Good Devil,Overdrive
-CostaLab,Good Devil,Distortion
-CostaLab,Bad Angel,Distortion
-Charlie Paolo Custom Effects,Bloodstone Overdrive,Overdrive
-Charlie Paolo Custom Effects,Obsidian Fuzz,Fuzz
-Charlie Paolo Custom Effects,Sapphire - Transparent Overdrive,Overdrive
-Charlie Paolo Custom Effects,Toothaker Distortion,Distortion
-Ciclar,Motoquera Fuzz,Fuzz
-Ciclar,Arquera Overdrive,Overdrive
-Claybridge Sound Systems / Claybridge Audio,Fuzzmaster,Fuzz
-Claybridge Sound Systems / Claybridge Audio,Fuzzmaster MKIV,Fuzz
-Clark Amplification,Gainster,Overdrive
+Companion,FY-2 Fuzz Box,Fuzz
+Companion,FY-6 Super Fuzz,Fuzz
 Compulsive Audio,Dimed Boogie,Distortion
 Compulsive Audio,Face-Off Fuzz,Fuzz
 Compulsive Audio,Hair Band Distortion,Distortion
 Compulsive Audio,Jimi - Octave Fuzz,Fuzz
 Compulsive Audio,Texas Holdem ZZ,Overdrive
 Compulsive Audio,Thor's Hammer,Distortion
+Compulsive Audio,Tone Oracle,Overdrive
 Compulsive Audio,Valve Howler Jr.,Overdrive
+Concrete Sound Lab,SLAB,Fuzz
+Concrete Sound Lab,SLAB,Overdrive
 Conrad,Conrad Buzz Box & Volume Expander,Fuzz
 Conrad,Conrad Fuzzy Fury,Fuzz
 Conrad,Conrad Sky Hawk - Fuzz and Treble Booster,Fuzz
+Cool Bear Effects,Grizzly Bear,Distortion
+Cool Bear Effects,Grizzly Bear,Overdrive
 Coolmusic,C-DI01 Insane Distortion,Distortion
 Coolmusic,C-DI02 Classic Distortion,Distortion
 Coolmusic,C-FC1 Fuzzster,Fuzz
@@ -511,596 +659,448 @@ Coolpedals,Dirty Devil,Overdrive
 Coolpedals,Steam Machine,Distortion
 Coolpedals,Steam Machine,Overdrive
 Coolpedals,Strutter,Overdrive
+Coolsound,A117 Rough OVD,Overdrive
+Coolsound,A127 Dirty Bass,Distortion
+Coopersonic,Deluxe Dual Valve Overdrive,Overdrive
+Coopersonic,Deluxe Valve Overdrive,Overdrive
+Coopersonic,Dirtbox,Distortion
+Coopersonic,Dirtbox,Fuzz
+Coopersonic,Dirtbox,Overdrive
+Coopersonic,Dual-Valve Distortion (Deluxe),Distortion
+Coopersonic,Dual-Valve Distortion (Deluxe),Fuzz
+Coopersonic,Dual-Valve Distortion (Regular),Distortion
+Coopersonic,Dual-Valve Distortion (Regular),Fuzz
+Coopersonic,Mini Tube Overdrive,Overdrive
+Coopersonic,Pig Fuzz,Fuzz
+Coopersonic,The Germaniac - Vintage Fuzz,Fuzz
+Coopersonic,Twin Tube Overdrive,Overdrive
+Coopersonic,Valveslapper,Overdrive
+Copilot FX,Mantis,Fuzz
+Copilot FX,Orbit,Fuzz
+Copilot FX,Terra,Fuzz
+Copilot FX,Trek,Fuzz
+Copper Gear,Black Howler,Fuzz
+Copper Gear,Brontide Device,Distortion
+Copper Gear,Distorta Azura,Fuzz
+Copper Gear,Distorta Destructo,Distortion
+Copper Gear,Distorta Destructo,Fuzz
+Copper Gear,Distorta Obscura,Distortion
+Copper Gear,Distorta Obscura,Fuzz
+CopperSound Pedals,Foxcatcher - Overdrive & Boost,Overdrive
+CopperSound Pedals,Ion Warped Fuzz,Fuzz
+CopperSound Pedals,Mustard Gas - Lo-Fi / Fuzz,Fuzz
+CopperSound Pedals,Mystique Germanium Fuzz & Boost,Fuzz
+CopperSound Pedals,Renegade Multi-Bias Fuzz,Fuzz
 Cordovox,DS-8 Mouse,Distortion
 Cordovox,DS-9 Distortion,Distortion
 Cordovox,FZ-7 Fuzz,Fuzz
 Cordovox,OD-7 Overdrive,Overdrive
 Cordovox,OD-8 X-Drive,Overdrive
-Coron,Coron Distortion,Distortion
-Coron,Coron Over Drive,Overdrive
-Coron,Coron Octaver 2,Fuzz
+Cornell Amplification,Over Drive Special,Overdrive
+Cornell Amplification,The 1st Fuzz,Fuzz
+Cornerstone Music Gear,Antique V3,Overdrive
+Cornerstone Music Gear,Centurio,Overdrive
+Cornerstone Music Gear,Colosseum,Overdrive
+Cornerstone Music Gear,Gladio - Double Preamp,Overdrive
+Cornerstone Music Gear,Gladio SC,Overdrive
+Cornerstone Music Gear,Imperium V2,Overdrive
+Cornerstone Music Gear,Nero,Fuzz
+Cornerstone Music Gear,Nero,Overdrive
+Cornerstone Music Gear,Sparkle - Dynamic Overdrive,Overdrive
+Cornerstone Music Gear,Sparkle,Overdrive
 Coron,Coron Distortion 10,Distortion
 Coron,Coron Distortion 15,Distortion
+Coron,Coron Distortion,Distortion
+Coron,Coron Octaver 2,Fuzz
+Coron,Coron Over Drive,Overdrive
 Coron,D-500 Distortion,Distortion
 Coron,DT-510 Distortion,Distortion
 Coron,HD-520 Heavy Distortion,Distortion
 Coron,HM-520 Heavy Metal Turbo,Distortion
 Coron,HO-320 Heavy Over Drive,Overdrive
 Coron,O-300 Over Drive,Overdrive
+Correct Sound,Black Sunn,Distortion
+Correct Sound,Eclipse,Distortion
+Correct Sound,Eclipse,Fuzz
+Correct Sound,Eclipse,Overdrive
+Correct Sound,M1 Tube Preamp,Distortion
+Correct Sound,M1 Tube Preamp,Fuzz
+Correct Sound,Mad Hatter - High Precision Distortion Machine,Distortion
+Correct Sound,Mad Hatter - High Precision Distortion Machine,Fuzz
+Correct Sound,Tube Beta Hybrid Mk-II,Distortion
+Correct Sound,Tube Beta Hybrid Mk-II,Overdrive
+Cortez,Cortez Overdrive,Overdrive
 Cosmic Sound FX,The Fuzz Machine,Fuzz
 Cosmic Sound FX,The Ladyland Fuzz,Fuzz
 Cosmic Sound FX,The MkII,Fuzz
+Cosmic Terror,Centerror,Overdrive
+Cosmic Terror,Cosmic Drive,Overdrive
+Cosmic Terror,Cult OD,Overdrive
+Cosmic Terror,Droog,Overdrive
+Cosmic Terror,Low Frequency Destroyer,Distortion
+Cosmic Terror,Low Frequency Destroyer,Fuzz
+Cosmic Terror,Sonic Doom,Fuzz
+Cosmic Terror,Sonic Rat,Distortion
+Cosmic Terror,The Butcher,Fuzz
 Cosmodio Instruments,Glitch Witch - Auto-Modulated Logic Fuzz,Fuzz
 Cosmodio Instruments,Pet Yeti,Distortion
 Cosmodio Instruments,Pet Yeti,Fuzz
 Cosmosound,CSE-14 Distortion/Volume,Distortion
 Cosmosound,CSE-3 Wah-Wah Distortion,Distortion
-Cosmosound,Distortion Whau-Whau,Distortion
 Cosmosound,Distortion Whau-Whau Repeat,Distortion
+Cosmosound,Distortion Whau-Whau,Distortion
 Cosmosound,E-6 Powerful Sound,Distortion
 Cosmosound,E-7 Fearfully-Sound,Distortion
 Cosmosound,E-8 Wild Sound,Fuzz
-Canned Monsters,Frenzy Moss,Fuzz
-Canned Monsters,Moonbark Overdrive MK2,Overdrive
-Caswell Modern Electronics (CME),Boost 90 Clean Drive,Overdrive
-Caswell Modern Electronics (CME),Boost 98 Bass Drive,Overdrive
-CastleRock,CastleRock Overdrive,Overdrive
-CastleRock,CastleRock Distortion,Distortion
-CastleRock,CastleRock Metal Driver,Distortion
-CastleRock,CastleRock Bass Overdrive,Overdrive
-CBS-Arbiter,CBS-Arbiter Doubler,Fuzz
-CBS-Arbiter,CBS-Arbiter Fuzz Face,Fuzz
-CBS-Arbiter,CBS-Arbiter Fuzz King,Fuzz
-CBS-Arbiter,CBS-Arbiter Fuzz Phazer,Fuzz
-CBS-Arbiter,CBS-Arbiter Wah-Fuzz-Swell,Fuzz
-Celestial Effects,Aquarius,Fuzz
-Celestial Effects,Aries - Beast Distortion,Distortion
-Celestial Effects,Aries - Beast Distortion,Overdrive
-Celestial Effects,Cancer - Wah The Fuzz?,Fuzz
-Celestial Effects,Cancer - Wah The Fuzz?,Overdrive
-Celestial Effects,Capricorn - Rock Distortion,Distortion
-Celestial Effects,Capricorn - Rock Distortion,Overdrive
-Celestial Effects,Sagittarius - Overdrive Boost,Overdrive
-Celestial Effects,Taurus - Blues Overdrive,Overdrive
-Celestial Effects,Virgo - Rock Overdrive,Overdrive
-Celebrity Pedals,Fuzztin Bieber,Fuzz
-Celebrity Pedals,Fuzzbulla,Fuzz
-Celebrity Pedals,Adam Driver,Overdrive
-Celebrity Pedals,Distorsean Paul,Distortion
-Celebrity Pedals,Djent Reznor,Overdrive
-Coffin Gear / Coffin Case,BDFX-1 Blood Drive,Distortion
-Coffin Gear / Coffin Case,Batula Fuzz,Fuzz
-Coggins Audio / Dinosaural,Dinosaural Tube Bender,Overdrive
-Coggins Audio / Dinosaural,Dinosaural OPA-101 Overdriven Pre-amp,Overdrive
-Coggins Audio / Dinosaural,Cogmeister,Overdrive
-Coggins Audio / Dinosaural,Cogmeister,Fuzz
-Coggins Audio / Dinosaural,Cogmeister,Distortion
-Coggins Audio / Dinosaural,Hypoid Drive,Overdrive
-Coggins Audio / Dinosaural,Hypoid Drive,Fuzz
-Coggins Audio / Dinosaural,Hypoid Drive,Distortion
-Coggins Audio / Dinosaural,Dan Solo Mid Booster / Drive,Overdrive
-Colombo Audio Electronics,The One,Overdrive
-Colombo Audio Electronics,The One,Distortion
-Colombo Audio Electronics,Over Drive,Overdrive
-Colombo Audio Electronics,Mr. Deaky,Distortion
-Colombo Audio Electronics,Eruption,Overdrive
-Colombo Audio Electronics,Eruption,Distortion
-Colombo Audio Electronics,Plexi Breed,Overdrive
-Colombo Audio Electronics,Plexi Breed,Distortion
-Colombo Audio Electronics,Rocker 83,Overdrive
-Colombo Audio Electronics,Rocker 83,Distortion
-Colombo Audio Electronics,22 Overdrive/Distortion,Overdrive
-Colombo Audio Electronics,22 Overdrive/Distortion,Distortion
-Colombo Audio Electronics,Bricks,Distortion
-Colombo Audio Electronics,Bricks,Fuzz
-Colombo Audio Electronics,Pulse Driver,Overdrive
-Colombo Audio Electronics,Southern Stalker,Overdrive
-Colombo Audio Electronics,Lead Trilogy,Distortion
-Colombo Audio Electronics,Naoto,Overdrive
-Colombo Audio Electronics,Naoto,Distortion
-Colombo Audio Electronics,Muff Blaster,Distortion
-Colombo Audio Electronics,Muff Blaster,Fuzz
-Colombo Audio Electronics,Utopia Overdrive,Overdrive
-Colombo Audio Electronics,Utopia Overdrive,Distortion
-Colombo Audio Electronics,57 Turbo Drive,Overdrive
-Colombo Audio Electronics,November Child,Overdrive
-Colombo Audio Electronics,November Child,Distortion
-Colombo Audio Electronics,Via Lattea,Overdrive
-Colombo Audio Electronics,Father of Loud,Overdrive
-Colombo Audio Electronics,Father of Loud,Distortion
-Colombo Audio Electronics,Ignition,Overdrive
-Colombo Audio Electronics,Blackface Idol,Overdrive
-Colombo Audio Electronics,Kensington,Overdrive
-Colombo Audio Electronics,Kensington Star,Overdrive
-ColorTone Fx / Pedal Tank,Gainer,Overdrive
-ColorTone Fx / Pedal Tank,OD-909 Overdrive Pro,Overdrive
-Colortone Pedals,Parasite Overdrive,Overdrive
-Columbus,DST-5 Distortion,Distortion
-Columbus,MTL-5 Ultra Metal,Distortion
-Columbus,OVD-5 Overdrive,Overdrive
-Columbus,TDR-5 Tube Driver,Overdrive
-Commune,Senturion Crazy Booster,Fuzz
-Commune,Senturion Modern Factor,Overdrive
-Commune,Senturion Preamp 500,Overdrive
-Commune/ECA (Empire Custom Amplification),Screem,Overdrive
-Commune/ECA (Empire Custom Amplification),Screem Mk-II,Overdrive
-Companion,FY-2 Fuzz Box,Fuzz
-Companion,FY-6 Super Fuzz,Fuzz
-Collins,COD-1 Pro Over Drive,Overdrive
-Collins,CSD-1 Pro Super Dust,Fuzz
-Colfax Recorders,Zephyr Overdrive,Overdrive
-Colfax Recorders,Porcelain Fuzz,Fuzz
-Cole Music Co.,ParaDrive Parametric Overdrive,Overdrive
-Collins,CDT-1 Distortion,Distortion
-Coleman,Angry Dragon mkII - Germanium Fuzz,Fuzz
-Coleman,Astro Fuzz - Hybrid Germanium Silicon Fuzz,Fuzz
-Crate,CC-2681 Distortion,Distortion
-Cruzer (by Crafter),EF-DT Distortion,Distortion
-Cruzer (by Crafter),EF-OD Over Drive,Overdrive
-Crown,Fuzz and Treble Booster,Fuzz
-Crown,FW-3 Distortion Wah Volume,Distortion
-Crown,Super Fuzz,Fuzz
-Crown,W-Fuzz - 8-Transistor Fuzz-Wah,Fuzz
-C.Giant,OD-1 Warm Blues - Overdrive/Distortion,Overdrive
-C.Giant,OD-1 Warm Blues - Overdrive/Distortion,Distortion
-Captain FX,Yeti Fuzz,Fuzz
-CAT Sound,Classic,Distortion
-CAT Sound,Dancing - Distortion,Distortion
-CAT Sound,DriveCenter,Overdrive
-CAT Sound,DriveCenter Bass,Overdrive
-Cave Passive Pedals,60's Break Up,Overdrive
-Cave Passive Pedals,Blue Juice,Overdrive
-Cave Passive Pedals,Grunt,Overdrive
-Cave Passive Pedals,Grunt MkII,Overdrive
-Cave Passive Pedals,Super Grunt,Overdrive
-Cave Passive Pedals,The Wasp,Fuzz
-Cave Passive Pedals,The Wasp MkII,Fuzz
-Cave Passive Pedals,Mini Miff,Fuzz
-Cave Passive Pedals,Mini Miff,Overdrive
-Case Study Effects Co.,Aspen One - Boost + Overdrive,Overdrive
-Case Study Effects Co.,Aspen Overdrive,Overdrive
-Case Study Effects Co.,Germanium Aspen Overdrive,Overdrive
-Case Study Effects Co.,Lastlight Overdrive,Overdrive
-Chellee Guitars,Odelya,Overdrive
-Chellee Guitars,Odie - Classic Overdrive,Overdrive
-Chellee Guitars,Odie - Modified Overdrive,Overdrive
-Chellee Guitars,Odie - Overdrive,Overdrive
-Chellee Guitars,Ponyboy - Overdrive,Overdrive
-Chellee Guitars,Sir Robin - Overdrive,Overdrive
-Chemistry Design Werks,Gigawatt - Overdrive & Delay,Overdrive
-Clone Bro,Tone King,Overdrive
-Clone Bro,Taurus,Overdrive
-Custom Audio Electronics,Freddy Fuzz,Fuzz
-Custom Guitar Innovations,2 In 1 Fuzz Pedal,Fuzz
-Custom Guitar Innovations,Experience Fuzz,Fuzz
-Custom Guitar Innovations,Fuzz Boost,Fuzz
-Custom Guitar Innovations,Octavio,Fuzz
-Custom Tones,Ethos Overdrive,Overdrive
-Colorsound / Sola Sound,B&M Champion Fuzz Unit,Fuzz
-Colorsound / Sola Sound,B&M Champion Wah Fuzz,Fuzz
-Chapter 53 Boutique Effects,Fuzzmaster,Fuzz
-Chord (by Tom's Line),OD50 Overdrive/Distortion,Overdrive
-Chord (by Tom's Line),OD50 Overdrive/Distortion,Distortion
-Clear Sound,Super Fuzz,Fuzz
-Cloud 9,DS-50 Distortion + Sustain,Distortion
-Cloud 9,TS-30 Tube Sound Overdrive,Overdrive
-Carella Guitars,Kung Fuzz,Fuzz
-Carella Guitars,Leopard,Overdrive
-Carella Guitars,Overdistover,Overdrive
-Carella Guitars,Overdistover,Distortion
-Carella Guitars,Overtube,Overdrive
-Carella Guitars,Real Tube,Distortion
-Chase Tone,'68 Red Velvet Fuzz,Fuzz
-Chase Tone,Black Stardust BC109 Silicon Fuzz,Fuzz
-Chase Tone,Candy Apple Red Glazed Germanium Fuzz Face,Fuzz
-Chase Tone,Metallic Blue Stardust Hi-Octave Fuzz,Fuzz
-Chase Tone,Red Stardust Germanium Fuzz,Fuzz
-Chase Tone,Silver Stardust BC183/2L Silicon Fuzz,Fuzz
-Cornerstone Music Gear,Gladio - Double Preamp,Overdrive
-Cornerstone Music Gear,Sparkle - Dynamic Overdrive,Overdrive
-Caswell Modern Electronics (CME),Shark Mouth - Bass Synth Fuzz,Fuzz
-Cyclone,DI-10 Distortion,Distortion
-Cyclone,OD-30 Overdrive,Overdrive
-Cyclone,TS-5 Tube Stack,Distortion
+CostaLab,Bad Angel,Distortion
+CostaLab,Custom Muff Classic,Distortion
+CostaLab,Custom Muff Classic,Fuzz
+CostaLab,Custom Muff EVO,Distortion
+CostaLab,Custom Muff EVO,Fuzz
+CostaLab,Dual Drive,Distortion
+CostaLab,Dual Drive,Overdrive
+CostaLab,Good Devil,Distortion
+CostaLab,Good Devil,Overdrive
+CostaLab,Moon Drive,Distortion
+CostaLab,Moon Drive,Fuzz
+CostaLab,Natural Drive MKII,Distortion
+CostaLab,Natural Drive MKII,Overdrive
+CostaLab,Natural Drive,Distortion
+CostaLab,Natural Drive,Overdrive
+CostaLab,Sun Drive,Distortion
+CostaLab,Sun Drive,Fuzz
+Couch Electronics,Baker's Dozen Overdrive,Overdrive
+Couch Electronics,Blue Whale Overdrive,Overdrive
+Coura,Gainor,Distortion
+Coura,Raizor,Distortion
 Craftros Pedals,Musica Rev.D,Overdrive
-Crazybox Pedals,The Box - Massive High Gain Distortion,Distortion
-Crazybox Pedals,The Tone Box - Vargas Blus Band Dual Overdrive,Overdrive
-Chaser,HM-3 Heavy Metal,Distortion
-CMI,CMI Fuzz Unit,Fuzz
-CMI,Wah Fuzz Swell,Fuzz
-Cobrahawk,B12 Fuzz,Fuzz
-Cobrahawk,B12 Go Fuzz Yourself (Paul),Fuzz
-Cobrahawk,JRC4558 OD-8 Overdrive,Overdrive
-Code,CDO2 Stereo Distortion O.D.,Overdrive
-Code,CDO2 Stereo Distortion O.D.,Distortion
-Code,CMM2 Stereo Metal Mate,Distortion
-Codtone,Ben Drive,Overdrive
-Codtone,Frank 'n' Beans,Fuzz
-Codtone,Fuzz for Bass,Fuzz
-Codtone,Russian Bikini Ranger,Fuzz
-Carlsbro,Carlsbro Fuzz,Fuzz
-Carlson,E20MT Heavy Metal,Distortion
-Carruthers,Dyna-Soar,Fuzz
-Carruthers,Dyna-Soar Lite,Fuzz
-Chucktone Effects,Overdrive 809,Overdrive
-Clay Jones,CJOD Overdrive,Overdrive
-Chord (by Daphon),BOD-50 Bass Overdrive,Overdrive
-Chord (by Daphon),DS-50 Distortion,Distortion
-Chord (by Daphon),HM-50 Heavy Metal,Distortion
-Chord (by Daphon),MT-50 Metal Driver,Distortion
-Chord (by Daphon),OD-50 Overdrive,Overdrive
-Chord (by Daphon),SD-50 Super Distortion,Distortion
-Chiu Luen,CL-1 Distortion,Distortion
-Chiu Luen,CL-3 Clean/Distortion/Reverb/Chorus,Distortion
-Chiu Luen,CL-4 Distortion/Reverb,Distortion
-Chiu Luen,CL-5 Distortion,Distortion
-Collision Devices,FZ - Gated Fuzz / Distortion,Fuzz
-Collision Devices,FZ - Gated Fuzz / Distortion,Distortion
-Clarenzio,Brìne - Distortion,Distortion
-Clarenzio,Cativèria - Tube Distortion,Distortion
-Clarenzio,Sandroun - Tube Overdrive,Overdrive
-Clarenzio,Spètnador - Overdrive,Overdrive
-Clarenzio,Strèmne - Fuzz,Fuzz
-Clarenzio,Stùrloun - Tube Distortion,Distortion
-Crossfire,CF-DO2 Dual-Injection After Burner,Distortion
-Crossfire,DST-301 Distortion,Distortion
-Crossfire,FUZ-510 R-Fuzz,Fuzz
-Crossfire,OVD-302 Overdrive,Overdrive
-Crysta Professional,DS-1 Distortion,Distortion
-Crysta Professional,OD-1 Overdrive,Overdrive
-Crestwood,Crestwood 6-Tr Fuzz Wah,Fuzz
-Crestwood,Crestwood 8-Tr Fuzz Wah Pedal,Fuzz
-Crestwood,Crestwood Fuzz,Fuzz
-CSL,CSL Super Fuzz,Fuzz
-CSL,CSL Wah Fuzz,Fuzz
-CS.Cathey,AB-03 Distortion Booster,Distortion
-CS.Cathey,AD-02 Distortion Box,Distortion
-CSR,Metal Rocker,Distortion
-Champion Leccy,The Fat Gett,Fuzz
-CopperSound Pedals,Foxcatcher - Overdrive & Boost,Overdrive
-CopperSound Pedals,Mustard Gas - Lo-Fi / Fuzz,Fuzz
-CopperSound Pedals,Ion Warped Fuzz,Fuzz
-CopperSound Pedals,Renegade Multi-Bias Fuzz,Fuzz
-CopperSound Pedals,Mystique Germanium Fuzz & Boost,Fuzz
-CKK Electronic,Destruction Drive - Aggressive High-Gain Distortion,Distortion
-CKK Electronic,Flaming Lips - US Style Distortion with Fat Boost,Distortion
-CKK Electronic,Honey Jar - Overdrive,Overdrive
-CKK Electronic,Lunar Drive - Vintage Amp Tone Overdrive,Overdrive
-CKK Electronic,Scream Drive - Two Gain Stage Classic Overdrive,Overdrive
-Circular Time Hardware,Acetone Fuzz,Fuzz
-Clayton,X-Treme DS-160 Distortion,Distortion
-Clayton,X-Treme MT-170 Metal Driver,Distortion
-Clayton,X-Treme OD-160 Overdrive,Overdrive
-Crest Audio,Fuzz Face,Fuzz
-CMAT Mods,Signa Comp-Drive,Overdrive
-CMAT Mods,Tube Slammer Deluxe,Overdrive
-Crushsound,Farmer's Mill,Distortion
-Crushsound,Farmer's Mill,Fuzz
-Crushsound,Farmer's Mill,Overdrive
-Crazy Tube Circuits,Black Magic,Distortion
-Crazy Tube Circuits,Black Magic,Fuzz
+Cranetortoise by Albit,AD-1 Crunch + Atom Distortion,Distortion
+Cranetortoise by Albit,DD-1 Dual Distortion,Distortion
+Cranetortoise by Albit,DD-1B Dual Distortion for Bass,Distortion
+Cranetortoise by Albit,FB-1 Fuzz Drive Booster,Fuzz
+Cranetortoise by Albit,FD-1 Exciting Fuzz Drive,Fuzz
+Cranetortoise by Albit,FD-2 Low Noise Fat Distortion,Distortion
+Cranetortoise by Albit,HM-1 High Gain Distortion,Distortion
+Cranetortoise by Albit,OD-1 Over Drive Booster with Loud Circuit,Overdrive
+Cranetortoise by Albit,SD-1 Skunk Distortion,Distortion
+Cranetortoise by Albit,SW-1 Switching Distortion,Distortion
+Cranetortoise by Albit,SW-1B Switching Distortion,Distortion
+Crate,CC-2681 Distortion,Distortion
+Crazy Rock'n'Roll Effecter,Nasty Drive,Overdrive
+Crazy Rock'n'Roll Effecter,SWAG FACE,Fuzz
+Crazy Rock'n'Roll Effecter,THE FOXY BLOW,Distortion
+Crazy Rock'n'Roll Effecter,TONE BENDER M.K Ⅰ. Ⅴ,Fuzz
 Crazy Tube Circuits,Black Magic MkII,Distortion
 Crazy Tube Circuits,Black Magic MkII,Overdrive
+Crazy Tube Circuits,Black Magic,Distortion
+Crazy Tube Circuits,Black Magic,Fuzz
 Crazy Tube Circuits,Constellation of Fuzz,Fuzz
+Crazy Tube Circuits,Falcon - Overdrive,Overdrive
+Crazy Tube Circuits,Heatseeker,Overdrive
+Crazy Tube Circuits,Hi-Power,Overdrive
+Crazy Tube Circuits,Locomotive - 12AY7 Bass Overdrive,Overdrive
 Crazy Tube Circuits,Motherload - Fuzz/Distortion,Distortion
 Crazy Tube Circuits,Motherload - Fuzz/Distortion,Fuzz
 Crazy Tube Circuits,Motherload - Fuzz/Distortion,Overdrive
 Crazy Tube Circuits,Orama - Dual Drive,Fuzz
 Crazy Tube Circuits,Orama - Dual Drive,Overdrive
 Crazy Tube Circuits,Pin Up Fuzz,Fuzz
-Crazy Tube Circuits,Space Charged - Tube Overdrive/Distortion,Overdrive
 Crazy Tube Circuits,Space Charged - Tube Overdrive/Distortion,Distortion
-Crazy Tube Circuits,Space Charged V2 - Tube Overdrive/Distortion,Overdrive
+Crazy Tube Circuits,Space Charged - Tube Overdrive/Distortion,Overdrive
 Crazy Tube Circuits,Space Charged V2 - Tube Overdrive/Distortion,Distortion
-Crazy Tube Circuits,Stardust,Overdrive
+Crazy Tube Circuits,Space Charged V2 - Tube Overdrive/Distortion,Overdrive
 Crazy Tube Circuits,Stardust v2 (Blackface),Overdrive
+Crazy Tube Circuits,Stardust V3,Overdrive
+Crazy Tube Circuits,Stardust,Overdrive
 Crazy Tube Circuits,Starlight,Distortion
 Crazy Tube Circuits,Starlight,Fuzz
 Crazy Tube Circuits,Triptychon - Octave Fuzz / Drive / Treble Boost,Fuzz
 Crazy Tube Circuits,Triptychon - Octave Fuzz / Drive / Treble Boost,Overdrive
-Crazy Tube Circuits,Venus - Tube Overdrive,Overdrive
 Crazy Tube Circuits,Unobtanium - Klon + Dumble,Overdrive
-Crazy Tube Circuits,Falcon - Overdrive,Overdrive
-Crazy Tube Circuits,Locomotive - 12AY7 Bass Overdrive,Overdrive
-Crowella Effects,Animated,Overdrive
-Crowella Effects,Animated,Distortion
-Crowella Effects,Defector,Overdrive
-Crowella Effects,Voskhod,Distortion
-Caustic FX,Snowstorm,Distortion
-Chamber Of Sounds,Green Genie,Fuzz
-Chris Custom,Crusher - Hi Gain Distortion,Distortion
-Chris Custom,DF-1 Dr.Fuzz,Fuzz
-Chris Custom,Dr.Drive,Overdrive
-Chris Custom,Dr.Muff,Fuzz
-Chris Custom,Dr.Scream,Overdrive
-Chris Custom,Dr.Silvery,Overdrive
-Chris Custom,Fratz,Distortion
-Chris Custom,Fratz,Overdrive
-Chris Custom,Loud Crusher,Distortion
-Circuit Rider Effects,SiClops,Overdrive
-Cool Bear Effects,Grizzly Bear,Distortion
-Cool Bear Effects,Grizzly Bear,Overdrive
-CircuitFX,Cruncher,Overdrive
-CircuitFX,Soldano SuperCharger,Overdrive
-CDB Pedals,Darkwater,Distortion
-CDB Pedals,Darkwater,Overdrive
-CMC Audio,PROTO TYPE V2,Overdrive
-CMC Audio,Bi Filter Fuzz,Fuzz
-Circuitbenders,Demon Seed,Distortion
-Circuitbenders,Demon Seed,Fuzz
-Circuitbenders,Black Box Audio Destructor,Distortion
-Collateral FX,P032 Touchstone Overdrive,Overdrive
-Collateral FX,P031 Zeugma Fuzz,Fuzz
-Collateral FX,P029 Ring System Overdrive/Distortion,Overdrive
-Collateral FX,P029 Ring System Overdrive/Distortion,Distortion
-Collateral FX,P028 Palindrome Dual Overdrive,Overdrive
-Collateral FX,P027 Element 118 Fuzz,Fuzz
-Collateral FX,P026 Banana Fuzz,Fuzz
-Collateral FX,P024 Sirius Dual Overdrive,Overdrive
-Collateral FX,P023 The Bendz Fuzz,Fuzz
-Collateral FX,P022 Drive for the Dead Overdrive,Overdrive
-Collateral FX,P021 Parsec Overdrive,Overdrive
-Collateral FX,P019 Slow Distortion/Fuzz,Distortion
-Collateral FX,P019 Slow Distortion/Fuzz,Fuzz
-Collateral FX,P017 Unchained Overdrive/Distortion,Overdrive
-Collateral FX,P017 Unchained Overdrive/Distortion,Distortion
-Collateral FX,P016 Foxey Face Fuzz,Fuzz
-Collateral FX,P015 White Russian Distortion/Fuzz,Distortion
-Collateral FX,P015 White Russian Distortion/Fuzz,Fuzz
-Collateral FX,P014 Red Giant,Overdrive
-Collateral FX,P014 Red Giant,Distortion
-Collateral FX,P013 Black Hole Sunn,Overdrive
-Collateral FX,P012 Constellation OD,Overdrive
-Collateral FX,P011 Chili Pre,Overdrive
-Collateral FX,P010 Year of Rat 1985,Overdrive
-Collateral FX,P010 Year of Rat 1985,Distortion
-Collateral FX,P008 Golden Ratio Fuzz,Fuzz
-Collateral FX,P005 Continuum OD,Overdrive
-Collateral FX,P004 Icarus,Overdrive
-Charlie Pedals,Troubadour MKI.5,Fuzz
-Charlie Pedals,Troubadour 2023,Fuzz
-Charlie Pedals,Theophane,Fuzz
-Chancho Electronics,Plumbus Fuzz,Fuzz
-Correct Sound,Mad Hatter - High Precision Distortion Machine,Distortion
-Correct Sound,Mad Hatter - High Precision Distortion Machine,Fuzz
-Correct Sound,M1 Tube Preamp,Distortion
-Correct Sound,M1 Tube Preamp,Fuzz
-Correct Sound,Tube Beta Hybrid Mk-II,Overdrive
-Correct Sound,Tube Beta Hybrid Mk-II,Distortion
-Correct Sound,Black Sunn,Distortion
-Correct Sound,Eclipse,Overdrive
-Correct Sound,Eclipse,Distortion
-Correct Sound,Eclipse,Fuzz
-Cornerstone Music Gear,Sparkle,Overdrive
-Color Audio,Cassette Preamp,Overdrive
-Color Audio,Cassette Preamp,Fuzz
-Coura,Raizor,Distortion
-Coura,Gainor,Distortion
-Cherry Music,Mighty Sound M1 Distortion,Distortion
-Cherry Music,Mighty Sound M2 Overdrive,Overdrive
-Cherry Music,Mighty Sound M3 Fuzz,Fuzz
-Chase Bliss Audio,Brothers - Analog Gainstage,Distortion
-Chase Bliss Audio,Brothers - Analog Gainstage,Fuzz
-Chase Bliss Audio,Brothers AM,Distortion
-Chase Bliss Audio,Brothers AM,Overdrive
-Chase Bliss Audio,Dirt Bird,Distortion
-Chase Bliss Audio,Bliss Factory,Fuzz
-Chase Bliss Audio,Condor - Analog EQ / Pre / Filter,Overdrive
-Chase Bliss Audio,Condor Hifi - Analog EQ / Pre / Filter,Overdrive
-Cave Passive Pedals,B-Drive Grunt,Overdrive
-Colorsound / Sola Sound,B&M Fuzz Unit,Fuzz
-Colorsound / Sola Sound,G.B. Fuzz,Fuzz
-Colorsound / Sola Sound,G.B. Fuzz Unit,Fuzz
-Colorsound / Sola Sound,Pro Traffic Fuzz Unit,Fuzz
-Colorsound / Sola Sound,Eurotec Black Box Fuzz Module,Fuzz
-Colorsound / Sola Sound,Sola Sound Bum Fuzz Unit,Fuzz
-Colorsound / Sola Sound,Colorsound Supa Wah-Fuzz-Swell,Fuzz
-Cranetortoise by Albit,FB-1 Fuzz Drive Booster,Fuzz
-Cranetortoise by Albit,SW-1 Switching Distortion,Distortion
-Cranetortoise by Albit,SW-1B Switching Distortion,Distortion
+Crazy Tube Circuits,Unobtanium RAW,Overdrive
+Crazy Tube Circuits,Venus - Tube Overdrive,Overdrive
+Crazy Tube Circuits,Ziggy V2,Distortion
+Crazy Tube Circuits,Ziggy V2,Overdrive
+Crazybox Pedals,The Box - Massive High Gain Distortion,Distortion
+Crazybox Pedals,The Tone Box - Vargas Blus Band Dual Overdrive,Overdrive
+CrazyTone,Crazytone Fuzz,Fuzz
+Creation Audio Labs,Grizzly Bass,Distortion
+Creation Audio Labs,Grizzly Bass,Overdrive
+Creation Audio Labs,Holy Fire 9,Distortion
+Creation Audio Labs,Holy Fire 9,Overdrive
+Creation Audio Labs,Holy Fire Classic,Distortion
+Creation Audio Labs,Holy Fire Classic,Overdrive
+Creber Instruments,Classic Fuzz,Fuzz
+Creepy Fingers Effects,Blacklight Fuzz,Fuzz
+Creepy Fingers Effects,Blue Mood,Fuzz
+Creepy Fingers Effects,Brummie,Fuzz
+Creepy Fingers Effects,Crazy Creepy,Fuzz
+Creepy Fingers Effects,Creepyface,Fuzz
+Creepy Fingers Effects,Fuzz Nugget,Fuzz
+Creepy Fingers Effects,Fuzzfreak,Fuzz
+Creepy Fingers Effects,Harakiri,Fuzz
+Creepy Fingers Effects,Hold Tight,Fuzz
+Creepy Fingers Effects,Lonely Heart,Fuzz
+Creepy Fingers Effects,Modern Sound,Fuzz
+Creepy Fingers Effects,Shatterbox,Fuzz
+Creepy Fingers Effects,The Balch,Fuzz
+Crest Audio,Fuzz Face,Fuzz
+Crestwood,Crestwood 6-Tr Fuzz Wah,Fuzz
+Crestwood,Crestwood 8-Tr Fuzz Wah Pedal,Fuzz
+Crestwood,Crestwood Fuzz,Fuzz
 Crews Maniac Sound,Addict OD,Overdrive
 Crews Maniac Sound,DIS-01 Distortion,Distortion
+Crews Maniac Sound,Genius Over Drive,Overdrive
+Crews Maniac Sound,Quadrive,Overdrive
 Crews Maniac Sound,SVD-001 Classic Overdrive,Overdrive
-Crews Maniac Sound,VD-38 Real Valve Drive,Overdrive
-ColdCraft Effects,Black Lime IC Fuzz,Fuzz
-Cactus,MTL-5 Ultra Metal,Distortion
+Crews Maniac Sound,Taco Fuzz,Fuzz
 Crews Maniac Sound,Texas Tornado,Overdrive
-Canvas Analog Devices,The Metamorphosis,Overdrive
-Carmedon Electronics,Alpha Centauri,Overdrive
-Cortez,Cortez Overdrive,Overdrive
-CrazyTone,Crazytone Fuzz,Fuzz
-Circle Of Tone,FUZZ,Fuzz
-Circle Of Tone,OVERDRIVE,Overdrive
-Circle Of Tone,Distortion,Distortion
-Circle Of Tone,Blues Overdrive,Overdrive
-Circle Of Tone,Quad Damage,Overdrive
-Circle Of Tone,Quad Damage,Distortion
-Caroline Guitar Company,The Blues,Overdrive
-Caroline Guitar Company,Haymaker,Overdrive
-Caroline Guitar Company,Icarus V2 / Icarus,Overdrive
-Caroline Guitar Company,Wave Cannon / Cannonball,Overdrive
-Caroline Guitar Company,Wave Cannon / Cannonball,Distortion
-Caroline Guitar Company,Wave Cannon / Cannonball,Fuzz
-Caroline Guitar Company,Wave Cannon MKII / Superdistorter,Distortion
-Caroline Guitar Company,CROM,Distortion
-Caroline Guitar Company,CROM,Fuzz
-Caroline Guitar Company,Hawaiian Pizza,Fuzz
-Caroline Guitar Company,Shigeharu,Fuzz
-Caroline Guitar Company,Olympia,Fuzz
-Catalinbread Effects,SFT,Overdrive
-Catalinbread Effects,Dirty Little Secret,Overdrive
-Catalinbread Effects,RAH,Overdrive
-Catalinbread Effects,Katzenkönig,Distortion
-Catalinbread Effects,Carbide Distortion,Distortion
-Catalinbread Effects,Fuzzrite,Fuzz
-Catalinbread Effects,Fuzzrite Germanium,Fuzz
-Catalinbread Effects,Fuzzrite Mini,Fuzz
-Catalinbread Effects,Giygas 2K Fuzz,Fuzz
-Catalinbread Effects,Knight School Overdrive,Overdrive
-Catalinbread Effects,Karma Suture GE,Fuzz
-Chase Bliss Audio,Brothers,Overdrive
-Chase Bliss Audio,Brothers,Fuzz
-Chase Bliss Audio,Preamp MKII,Overdrive
-Chase Bliss Audio,Preamp MKII,Fuzz
-Crazy Tube Circuits,Stardust V3,Overdrive
-Crazy Tube Circuits,Ziggy V2,Overdrive
-Crazy Tube Circuits,Ziggy V2,Distortion
-Crazy Tube Circuits,Unobtanium RAW,Overdrive
-Crazy Tube Circuits,Hi-Power,Overdrive
-Crazy Tube Circuits,Heatseeker,Overdrive
-Compulsive Audio,Tone Oracle,Overdrive
-CBC Pedals,Mista' Fuzz,Fuzz
-CBC Pedals,Mutha' Fuzz,Distortion
-CBC Pedals,Hop Hed Fuzztone,Fuzz
-CBC Pedals,Hybrid Fuzz,Fuzz
-Danelectro,The Breakdown,Overdrive
-Danelectro,Daddy O,Overdrive
-Danelectro,Roebuck,Distortion
-Danelectro,Nichols 1966,Distortion
-Danelectro,Nichols 1966,Fuzz
-Danelectro,Eisenhower Fuzz,Fuzz
+Crews Maniac Sound,Valve Drive,Overdrive
+Crews Maniac Sound,VD-38 Real Valve Drive,Overdrive
+Crimsontone,Nero Overdrive,Overdrive
+Crimsontone,Rosso Fuzz,Fuzz
+Crimsontone,Rosso Fuzz,Overdrive
+Critically Overdriven,E.O.D.,Overdrive
+Critter Electronics,1972,Fuzz
+Critter Electronics,1978R Distortion,Distortion
+Critter Electronics,American Fuzz,Fuzz
+Critter Electronics,CFR Klone,Distortion
+Critter Electronics,CFR Klone,Overdrive
+Critter Electronics,CRR Klone,Overdrive
+Critter Electronics,Model III Overdrive,Overdrive
+Crock,CM-2 Crock Metal,Distortion
+Crock,DS-2 Distortion,Distortion
+Crock,DS-4 Supra Distortion,Distortion
+Crock,OD-2 Over Drive Plus,Overdrive
+Crock,SD-2 Super Over Drive,Overdrive
+Crock,SM-2 Super Metal,Distortion
+Crock,SM-3 Super Metal,Distortion
+Crock,TM-2 Thrash Master,Distortion
+CrockettDial Productions,The Kwaker,Fuzz
+Crossfire,CF-DO2 Dual-Injection After Burner,Distortion
+Crossfire,DST-301 Distortion,Distortion
+Crossfire,FUZ-510 R-Fuzz,Fuzz
+Crossfire,OVD-302 Overdrive,Overdrive
+Crotronics,Firestarter,Fuzz
+Crotronics,Lost Temper,Fuzz
+Crowella Effects,Animated,Distortion
+Crowella Effects,Animated,Overdrive
+Crowella Effects,Defector,Overdrive
+Crowella Effects,Voskhod,Distortion
+Crown,Fuzz and Treble Booster,Fuzz
+Crown,FW-3 Distortion Wah Volume,Distortion
+Crown,Super Fuzz,Fuzz
+Crown,W-Fuzz - 8-Transistor Fuzz-Wah,Fuzz
+Crowther Audio,Hot Cake,Overdrive
+CroyTone Audio Technologies,Camper Fuzz,Fuzz
+CroyTone Audio Technologies,Hae Fuzz,Fuzz
+CroyTone Audio Technologies,Suzumebachi Fuzz,Fuzz
+Crucial Audio,Das Götterdämmerung,Distortion
+Crucial Audio,Das Götterdämmerung,Fuzz
+Crushsound,Farmer's Mill,Distortion
+Crushsound,Farmer's Mill,Fuzz
+Crushsound,Farmer's Mill,Overdrive
+Crust Pedals,Hudson Broadcast Clone,Overdrive
+Cruzer (by Crafter),EF-DT Distortion,Distortion
+Cruzer (by Crafter),EF-OD Over Drive,Overdrive
+Cryptid Effects,Indrid Cold,Fuzz
+Cryptid Effects,Siam Howler,Fuzz
+Crysta Professional,DS-1 Distortion,Distortion
+Crysta Professional,OD-1 Overdrive,Overdrive
+CS.Cathey,AB-03 Distortion Booster,Distortion
+CS.Cathey,AD-02 Distortion Box,Distortion
+CSL,CSL Super Fuzz,Fuzz
+CSL,CSL Wah Fuzz,Fuzz
+CSR,Metal Rocker,Distortion
+CTech / CB Labs,PRX-901 Amp Emulator,Overdrive
+CTech / CB Labs,PRX-902 Amp Emulator,Overdrive
+Cultco,001 Medium Overdrive,Overdrive
+Cunningham Amps,Dual Range Fuzz,Fuzz
+Cunningham Amps,Gypsy Eyes Fuzz,Fuzz
+Cunningham Amps,MK 1.6 Fuzz,Fuzz
+Cunningham Amps,MKII Professional Fuzz,Fuzz
+Cunningham Amps,Nick Perri Signature MK1 Fuzz,Fuzz
+Cunningham Amps,Octave Fuzz,Fuzz
+Cunningham Amps,Supa Fuzz,Fuzz
+Cunningham Amps,Zonk/MK1 Fuzz,Fuzz
+Cusack Music,Carolina Reaper,Fuzz
+Cusack Music,Carolina Reaper,Overdrive
+Cusack Music,Screamer Bass Fuzz,Fuzz
+Cusack Music,Screamer Bass Fuzz,Overdrive
+Cusack Music,Screamer Fuzz Germanium,Fuzz
+Cusack Music,Screamer Fuzz Germanium,Overdrive
+Cusack Music,Screamer Fuzz V3,Fuzz
+Cusack Music,Screamer Fuzz V3,Overdrive
+Cusack Music,Screamer V2,Overdrive
+Custom 77,Push Me Pull Me,Overdrive
+Custom Analog Pedals,Purple Fuzzy Drive,Fuzz
+Custom Analog Pedals,Purple Fuzzy Drive,Overdrive
+Custom Audio Electronics,Freddy Fuzz,Fuzz
+Custom Guitar Innovations,2 In 1 Fuzz Pedal,Fuzz
+Custom Guitar Innovations,Experience Fuzz,Fuzz
+Custom Guitar Innovations,Fuzz Boost,Fuzz
+Custom Guitar Innovations,Octavio,Fuzz
+Custom Tones,Ethos Overdrive,Overdrive
+Cutec,OD-01 Over Drive,Overdrive
+CUVAVE / M-VAVE,DIST British,Distortion
+CUVAVE / M-VAVE,DIST-MT1,Distortion
+CUVAVE / M-VAVE,Distortion SC1,Distortion
+CUVAVE / M-VAVE,FUZZ,Fuzz
+CUVAVE / M-VAVE,Overdrive AMP,Overdrive
+CUVAVE / M-VAVE,Overdrive Blues,Overdrive
+CUVAVE / M-VAVE,Overdrive DB,Overdrive
+CUVAVE / M-VAVE,Overdrive TS,Overdrive
+Cyclone,DI-10 Distortion,Distortion
+Cyclone,OD-30 Overdrive,Overdrive
+Cyclone,TS-5 Tube Stack,Distortion
 Danelectro,3699 fUZZ,Fuzz
-Danelectro,Cool Cat Drive,Overdrive
-Danelectro,Cool Cat Transparent Overdrive,Overdrive
 Danelectro,Cool Cat Distortion,Distortion
+Danelectro,Cool Cat Drive,Overdrive
 Danelectro,Cool Cat Fuzz,Fuzz
-Danelectro,FAB Overdrive,Overdrive
+Danelectro,Cool Cat Transparent Overdrive,Overdrive
+Danelectro,Daddy O,Overdrive
+Danelectro,Eisenhower Fuzz,Fuzz
 Danelectro,FAB Distortion,Distortion
 Danelectro,FAB Fuzz,Fuzz
-Daredevil Pedals,Deep Dish-tortion,Distortion
-Daredevil Pedals,Necros Fuzz / Distortion,Distortion
-Daredevil Pedals,REAL COOL FUZZ,Fuzz
-Daredevil Pedals,NORTHERN CREEPER Fuzz,Fuzz
-Daredevil Pedals,Ten Tone Anniversary Fuzz,Fuzz
-Daredevil Pedals,DAISHO,Fuzz
-Daredevil Pedals,Premium Overdrive,Overdrive
-Daredevil Pedals,Fearless Distortion,Distortion
-Daredevil Pedals,Supernova Fuzz,Fuzz
+Danelectro,FAB Overdrive,Overdrive
+Danelectro,Nichols 1966,Distortion
+Danelectro,Nichols 1966,Fuzz
+Danelectro,Roebuck,Distortion
+Danelectro,The Breakdown,Overdrive
 Daredevil Pedals,Almighty Bass,Fuzz
 Daredevil Pedals,Chicago Way,Fuzz
 Daredevil Pedals,Chicago Way,Overdrive
-Death By Audio,Fuzz War,Fuzz
-Death By Audio,Fuzz War,Distortion
-Death By Audio,Bass War,Fuzz
-Death By Audio,Bass War,Distortion
-Death By Audio,Apocalypse,Fuzz
-Death By Audio,Apocalypse,Distortion
+Daredevil Pedals,DAISHO,Fuzz
+Daredevil Pedals,Deep Dish-tortion,Distortion
+Daredevil Pedals,Fearless Distortion,Distortion
+Daredevil Pedals,Necros Fuzz / Distortion,Distortion
+Daredevil Pedals,NORTHERN CREEPER Fuzz,Fuzz
+Daredevil Pedals,Premium Overdrive,Overdrive
+Daredevil Pedals,REAL COOL FUZZ,Fuzz
+Daredevil Pedals,Supernova Fuzz,Fuzz
+Daredevil Pedals,Ten Tone Anniversary Fuzz,Fuzz
 Death By Audio,Absolute Destruction,Distortion
 Death By Audio,Absolute Destruction,Fuzz
+Death By Audio,Apocalypse,Distortion
+Death By Audio,Apocalypse,Fuzz
+Death By Audio,Bass War,Distortion
+Death By Audio,Bass War,Fuzz
+Death By Audio,Fuzz War,Distortion
+Death By Audio,Fuzz War,Fuzz
 Death By Audio,Interstellar Overdriver,Overdrive
-Death By Audio,Octave Clang,Fuzz
 Death By Audio,Octave Clang,Distortion
+Death By Audio,Octave Clang,Fuzz
 Death By Audio,Thee Treble Overload,Overdrive
-DigiTech,Screamin' Blues Overdrive / Distortion,Overdrive
-DigiTech,Screamin' Blues Overdrive / Distortion,Distortion
-DigiTech,Redline Modified Overdrive,Overdrive
-DigiTech,X-Series Tone Driver,Overdrive
-DigiTech,X-Series Bass Driver,Overdrive
-DigiTech,X-Series Bass Driver,Distortion
-DigiTech,Hot Head Distortion,Distortion
-DigiTech,DigiTech Grunge,Distortion
 DigiTech,DigiTech Death Metal,Distortion
+DigiTech,DigiTech Grunge,Distortion
+DigiTech,Hot Head Distortion,Distortion
+DigiTech,Redline Modified Overdrive,Overdrive
+DigiTech,Screamin' Blues Overdrive / Distortion,Distortion
+DigiTech,Screamin' Blues Overdrive / Distortion,Overdrive
+DigiTech,X-Series Bass Driver,Distortion
+DigiTech,X-Series Bass Driver,Overdrive
 DigiTech,X-Series Distortion Factory DF-7,Distortion
 DigiTech,X-Series Hot Rod Distortion,Distortion
 DigiTech,X-Series Metal Master,Distortion
-Dirty Boy,PREAMP,Overdrive
+DigiTech,X-Series Tone Driver,Overdrive
 Dirty Boy,AFRO FUZZ,Fuzz
-Dirty Boy,The Magical MYSTERY FUZZ,Fuzz
-Dirty Boy,JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive,Overdrive
 Dirty Boy,JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz,Fuzz
-DOD Electronics,Overdrive Preamp 250,Overdrive
-DOD Electronics,Overdrive Preamp 250,Distortion
-DOD Electronics,Overdrive Preamp 250-X,Overdrive
-DOD Electronics,Looking Glass,Overdrive
+Dirty Boy,JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive,Overdrive
+Dirty Boy,PREAMP,Overdrive
+Dirty Boy,The Magical MYSTERY FUZZ,Fuzz
 DOD Electronics,Badder Monkey,Overdrive
+DOD Electronics,Boneshaker,Distortion
 DOD Electronics,Carcosa Fuzz,Fuzz
 DOD Electronics,Chthonic Fuzz,Fuzz
-DOD Electronics,Gonkulator,Distortion
-DOD Electronics,Gunslinger,Distortion
-DOD Electronics,Boneshaker,Distortion
-DOD Electronics,FX52 Classic Fuzz,Fuzz
-DOD Electronics,FX66 Flashback Fuzz,Fuzz
 DOD Electronics,FX33 Buzz Box,Distortion
 DOD Electronics,FX33 Buzz Box,Fuzz
+DOD Electronics,FX52 Classic Fuzz,Fuzz
 DOD Electronics,FX55C Supra Distortion,Distortion
-Dr. Scientist Sounds,The Elements,Overdrive
-Dr. Scientist Sounds,The Elements,Distortion
+DOD Electronics,FX66 Flashback Fuzz,Fuzz
+DOD Electronics,Gonkulator,Distortion
+DOD Electronics,Gunslinger,Distortion
+DOD Electronics,Looking Glass,Overdrive
+DOD Electronics,Overdrive Preamp 250-X,Overdrive
+DOD Electronics,Overdrive Preamp 250,Distortion
+DOD Electronics,Overdrive Preamp 250,Overdrive
+Dr. Scientist Sounds,BitQuest,Fuzz
 Dr. Scientist Sounds,Dungeon Crawler,Distortion
 Dr. Scientist Sounds,Frazz Dazzler,Fuzz
-Dr. Scientist Sounds,BitQuest,Fuzz
-Dwarfcraft Devices,Gears,Overdrive
-Dwarfcraft Devices,The Internet,Overdrive
-Dwarfcraft Devices,The Internet,Distortion
-Dwarfcraft Devices,Spectacular Aenima,Overdrive
-Dwarfcraft Devices,Spectacular Aenima,Fuzz
-Dwarfcraft Devices,Robot Devil,Fuzz
-Dwarfcraft Devices,Robot Devil,Overdrive
+Dr. Scientist Sounds,The Elements,Distortion
+Dr. Scientist Sounds,The Elements,Overdrive
 Dwarfcraft Devices,Abaddon,Distortion
-Dwarfcraft Devices,Baby Thundaa / Baby Thunder,Fuzz
 Dwarfcraft Devices,Baby Thundaa / Baby Thunder,Distortion
-Dwarfcraft Devices,Eau Claire Thunder,Fuzz
-Dwarfcraft Devices,Eau Claire Thunder,Distortion
+Dwarfcraft Devices,Baby Thundaa / Baby Thunder,Fuzz
 Dwarfcraft Devices,Bit Mangler,Fuzz
 Dwarfcraft Devices,Dream Mangler,Fuzz
-Dwarfcraft Devices,The Great Destroyer,Fuzz
-Dwarfcraft Devices,The Great Destroyer,Distortion
+Dwarfcraft Devices,Eau Claire Thunder,Distortion
+Dwarfcraft Devices,Eau Claire Thunder,Fuzz
+Dwarfcraft Devices,Gears,Overdrive
+Dwarfcraft Devices,Robot Devil,Fuzz
+Dwarfcraft Devices,Robot Devil,Overdrive
 Dwarfcraft Devices,Silver Rose v2,Fuzz
+Dwarfcraft Devices,Spectacular Aenima,Fuzz
+Dwarfcraft Devices,Spectacular Aenima,Overdrive
 Dwarfcraft Devices,Surrender Dorothy,Fuzz
+Dwarfcraft Devices,The Great Destroyer,Distortion
+Dwarfcraft Devices,The Great Destroyer,Fuzz
+Dwarfcraft Devices,The Internet,Distortion
+Dwarfcraft Devices,The Internet,Overdrive
 EarthQuaker Devices,Acapulco Gold,Distortion
-EarthQuaker Devices,Blumes,Overdrive
-EarthQuaker Devices,Plumes,Overdrive
-EarthQuaker Devices,Special Cranker,Overdrive
-EarthQuaker Devices,Zoar,Distortion
-EarthQuaker Devices,Sunn O))) HalfLife,Distortion
-EarthQuaker Devices,Gary,Overdrive
-EarthQuaker Devices,Gary,Fuzz
 EarthQuaker Devices,Barrows,Fuzz
+EarthQuaker Devices,Blumes,Overdrive
 EarthQuaker Devices,Chelsea,Fuzz
-EarthQuaker Devices,Hizumitas,Fuzz
-EarthQuaker Devices,Hoof,Fuzz
 EarthQuaker Devices,Dirt Transmitter,Fuzz
+EarthQuaker Devices,Dunes,Overdrive
 EarthQuaker Devices,Erupter,Fuzz
 EarthQuaker Devices,Fuzz Master General,Fuzz
-EarthQuaker Devices,Hoof Reaper,Fuzz
-EarthQuaker Devices,Park Fuzz Sound,Fuzz
-EarthQuaker Devices,Spires,Fuzz
-EarthQuaker Devices,Terminal,Fuzz
-EarthQuaker Devices,Dunes,Overdrive
+EarthQuaker Devices,Gary,Fuzz
+EarthQuaker Devices,Gary,Overdrive
 EarthQuaker Devices,Gray Channel,Overdrive
+EarthQuaker Devices,Hizumitas,Fuzz
+EarthQuaker Devices,Hoof Reaper,Fuzz
+EarthQuaker Devices,Hoof,Fuzz
 EarthQuaker Devices,Palisades,Overdrive
+EarthQuaker Devices,Park Fuzz Sound,Fuzz
+EarthQuaker Devices,Plumes,Overdrive
+EarthQuaker Devices,Special Cranker,Overdrive
+EarthQuaker Devices,Spires,Fuzz
+EarthQuaker Devices,Sunn O))) HalfLife,Distortion
 EarthQuaker Devices,Talons,Overdrive
+EarthQuaker Devices,Terminal,Fuzz
 EarthQuaker Devices,Westwood,Overdrive
+EarthQuaker Devices,Zoar,Distortion
+Electro-Harmonix,Bass Big Muff Pi,Fuzz
+Electro-Harmonix,Bass Soul Food,Overdrive
+Electro-Harmonix,Bender Royale,Fuzz
+Electro-Harmonix,Big Muff Pi,Fuzz
 Electro-Harmonix,Crayon Full-Range Overdrive,Overdrive
 Electro-Harmonix,East River Drive,Overdrive
+Electro-Harmonix,Flatiron Fuzz,Fuzz
+Electro-Harmonix,Green Russian Big Muff Pi,Fuzz
+Electro-Harmonix,Hell Melter,Distortion
 Electro-Harmonix,Hot Tubes Nano,Overdrive
 Electro-Harmonix,Hot Wax Dual Overdrive,Overdrive
-Electro-Harmonix,Soul Food,Overdrive
-Electro-Harmonix,Bass Soul Food,Overdrive
-Electro-Harmonix,OD Glove MOSFET Overdrive / Distortion,Overdrive
-Electro-Harmonix,Metal Muff with Top Boost,Distortion
-Electro-Harmonix,Nano Metal Muff,Distortion
-Electro-Harmonix,Hell Melter,Distortion
-Electro-Harmonix,Mainframe,Distortion
-Electro-Harmonix,Pocket Metal Muff,Distortion
-Electro-Harmonix,Big Muff Pi,Fuzz
-Electro-Harmonix,Little Big Muff Pi,Fuzz
-Electro-Harmonix,Nano Big Muff Pi,Fuzz
-Electro-Harmonix,Bass Big Muff Pi,Fuzz
-Electro-Harmonix,Triangle Big Muff Pi,Fuzz
-Electro-Harmonix,Ram's Head Big Muff Pi,Fuzz
-Electro-Harmonix,Op-Amp Big Muff Pi,Fuzz
-Electro-Harmonix,Green Russian Big Muff Pi,Fuzz
 Electro-Harmonix,J Mascis Ram's Head Big Muff Pi,Fuzz
-Electro-Harmonix,Bender Royale,Fuzz
-Electro-Harmonix,Flatiron Fuzz,Fuzz
-Electro-Harmonix,Satisfaction Plus,Fuzz
+Electro-Harmonix,Little Big Muff Pi,Fuzz
+Electro-Harmonix,Mainframe,Distortion
+Electro-Harmonix,Metal Muff with Top Boost,Distortion
+Electro-Harmonix,Nano Big Muff Pi,Fuzz
+Electro-Harmonix,Nano Metal Muff,Distortion
+Electro-Harmonix,OD Glove MOSFET Overdrive / Distortion,Overdrive
+Electro-Harmonix,Op-Amp Big Muff Pi,Fuzz
+Electro-Harmonix,Pocket Metal Muff,Distortion
+Electro-Harmonix,Ram's Head Big Muff Pi,Fuzz
 Electro-Harmonix,Ripped Speaker Fuzz,Fuzz
+Electro-Harmonix,Satisfaction Plus,Fuzz
+Electro-Harmonix,Soul Food,Overdrive
+Electro-Harmonix,Triangle Big Muff Pi,Fuzz
 Empress Effects,Distortion,Distortion
 Empress Effects,Drive,Overdrive
 Empress Effects,Fuzz,Fuzz
 Empress Effects,Germ Drive,Overdrive
-Empress Effects,Heavy,Distortion
 Empress Effects,Heavy Menace,Distortion
+Empress Effects,Heavy,Distortion
 Empress Effects,Multidrive,Distortion
 Empress Effects,Multidrive,Fuzz
 Empress Effects,Multidrive,Overdrive
@@ -1162,10 +1162,10 @@ Foxrox Electronics,Mini ZIM,Overdrive
 Foxrox Electronics,ZIM Dual Drive,Distortion
 Foxrox Electronics,ZIM Dual Drive,Fuzz
 Foxrox Electronics,ZIM Dual Drive,Overdrive
-Friedman Amplification,BE-OD,Distortion
-Friedman Amplification,BE-OD,Overdrive
 Friedman Amplification,BE-OD Deluxe,Distortion
 Friedman Amplification,BE-OD Deluxe,Overdrive
+Friedman Amplification,BE-OD,Distortion
+Friedman Amplification,BE-OD,Overdrive
 Friedman Amplification,Dirty Shirley Pedal,Distortion
 Friedman Amplification,Dirty Shirley Pedal,Overdrive
 Friedman Amplification,Fuzz Fiend,Fuzz
@@ -1191,9 +1191,9 @@ Fulltone,Limited Edition OCD,Overdrive
 Fulltone,Mas Malo,Distortion
 Fulltone,Mas Malo,Fuzz
 Fulltone,Mas Malo,Overdrive
-Fulltone,OCD,Distortion
 Fulltone,OCD-Germanium,Distortion
 Fulltone,OCD-Germanium,Overdrive
+Fulltone,OCD,Distortion
 Fulltone,OCDv2,Distortion
 Fulltone,OCDv2,Overdrive
 Fulltone,Octafuzz 2,Fuzz
@@ -1270,17 +1270,17 @@ Himmelstrutz Elektro Art,FETTO SC,Overdrive
 Himmelstrutz Elektro Art,FETTO Standard,Distortion
 Himmelstrutz Elektro Art,FETTO Standard,Overdrive
 Himmelstrutz Elektro Art,FITZO+,Overdrive
-Himmelstrutz Elektro Art,FUGAZI,Distortion
 Himmelstrutz Elektro Art,FUGAZI Jr,Distortion
+Himmelstrutz Elektro Art,FUGAZI,Distortion
 Himmelstrutz Elektro Art,GRAMPS,Distortion
 Himmelstrutz Elektro Art,GRAMPS,Fuzz
 Himmelstrutz Elektro Art,GRAMPS+,Distortion
 Himmelstrutz Elektro Art,GRAMPS+,Fuzz
 Himmelstrutz Elektro Art,TÔNKer,Overdrive
+Hudson Electronics,Broadcast-AP,Overdrive
 Hudson Electronics,Broadcast,Distortion
 Hudson Electronics,Broadcast,Fuzz
 Hudson Electronics,Broadcast,Overdrive
-Hudson Electronics,Broadcast-AP,Overdrive
 Hudson Electronics,Buzzoid,Fuzz
 Hudson Electronics,Motorcycle — limited collaboration with Joe's Pedals,Overdrive
 Hudson Electronics,Shapes Of Things,Fuzz
@@ -1336,15 +1336,15 @@ IdiotBox Effects,Lost Ark,Fuzz
 IdiotBox Effects,Monster Fuzz,Fuzz
 IdiotBox Effects,Necrofier Echo Drive,Overdrive
 IdiotBox Effects,Nihilizer,Distortion
-IdiotBox Effects,No Moon,Distortion
-IdiotBox Effects,No Moon,Fuzz
-IdiotBox Effects,No Moon,Overdrive
-IdiotBox Effects,No Moon 2,Distortion
-IdiotBox Effects,No Moon 2,Fuzz
-IdiotBox Effects,No Moon 2,Overdrive
 IdiotBox Effects,No Moon 2 — coming soon,Distortion
 IdiotBox Effects,No Moon 2 — coming soon,Fuzz
 IdiotBox Effects,No Moon 2 — coming soon,Overdrive
+IdiotBox Effects,No Moon 2,Distortion
+IdiotBox Effects,No Moon 2,Fuzz
+IdiotBox Effects,No Moon 2,Overdrive
+IdiotBox Effects,No Moon,Distortion
+IdiotBox Effects,No Moon,Fuzz
+IdiotBox Effects,No Moon,Overdrive
 IdiotBox Effects,Power Drive,Overdrive
 IdiotBox Effects,PowerBoost (retired),Overdrive
 IdiotBox Effects,REDRUM V2,Distortion
@@ -1371,8 +1371,8 @@ Jackson Audio,FUZZ - Modular Fuzz,Fuzz
 Jackson Audio,Goat Head,Fuzz
 Jackson Audio,Golden Boy Mini Overdrive,Overdrive
 Jackson Audio,Golden Boy Transparent Overdrive,Overdrive
-Jackson Audio,Modern Fuzz,Fuzz
 Jackson Audio,Modern Fuzz Deluxe,Fuzz
+Jackson Audio,Modern Fuzz,Fuzz
 Jackson Audio,Page MK II,Fuzz
 Jackson Audio,The Optimist Dual Overdrive & EQ,Overdrive
 JAM Pedals,Black Fuzz Phrase LTD,Fuzz
@@ -1383,22 +1383,22 @@ JAM Pedals,Fuzz Phrase ltd,Fuzz
 JAM Pedals,Fuzz Phrase Si,Fuzz
 JAM Pedals,Lucydreamer,Distortion
 JAM Pedals,Lucydreamer,Overdrive
-JAM Pedals,Octaurus,Fuzz
 JAM Pedals,Octaurus NOS,Fuzz
-JAM Pedals,Rattler,Distortion
-JAM Pedals,Rattler,Overdrive
+JAM Pedals,Octaurus,Fuzz
 JAM Pedals,Rattler Bass / Rattler Bass MKII,Distortion
 JAM Pedals,Rattler Bass / Rattler Bass MKII,Overdrive
 JAM Pedals,Rattler ltd,Distortion
 JAM Pedals,Rattler ltd,Overdrive
 JAM Pedals,Rattler MKII,Distortion
 JAM Pedals,Rattler MKII,Overdrive
-JAM Pedals,Red Muck,Distortion
-JAM Pedals,Red Muck,Overdrive
+JAM Pedals,Rattler,Distortion
+JAM Pedals,Rattler,Overdrive
 JAM Pedals,Red Muck Bass,Distortion
 JAM Pedals,Red Muck Bass,Overdrive
 JAM Pedals,Red Muck mk.2,Distortion
 JAM Pedals,Red Muck mk.2,Overdrive
+JAM Pedals,Red Muck,Distortion
+JAM Pedals,Red Muck,Overdrive
 JAM Pedals,Tiny Pond?,Distortion
 JAM Pedals,Tiny Pond?,Overdrive
 JAM Pedals,TubeDreamer,Distortion
@@ -1440,17 +1440,15 @@ JHS Pedals,Morning Glory V4,Overdrive
 JHS Pedals,Muffuletta,Distortion
 JHS Pedals,Muffuletta,Fuzz
 JHS Pedals,Notadümblë V2,Overdrive
-JHS Pedals,Notaklön,Overdrive
 JHS Pedals,Notaklön Splatter,Overdrive
-JHS Pedals,PackRat,Distortion
-JHS Pedals,PackRat,Fuzz
+JHS Pedals,Notaklön,Overdrive
 JHS Pedals,PackRat White,Distortion
 JHS Pedals,PackRat White,Fuzz
+JHS Pedals,PackRat,Distortion
+JHS Pedals,PackRat,Fuzz
 JHS Pedals,PG-14,Overdrive
 JHS Pedals,State Line,Overdrive
 JHS Pedals,Steak and Eggs Overdrive/Compressor,Overdrive
-JHS Pedals,The Violet,Distortion
-JHS Pedals,The Violet,Overdrive
 JHS Pedals,Violet,Distortion
 JHS Pedals,Violet,Fuzz
 JHS Pedals,Violet,Overdrive
