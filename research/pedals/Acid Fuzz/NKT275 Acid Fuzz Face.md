@@ -31,6 +31,7 @@ This is the classic two-transistor Fuzz Face family: thick, blooming fuzz with a
 ## Sources checked
 1. Effects Database — https://www.effectsdatabase.com/model/acidfuzz/fuzzface
 2. Acid Fuzz — https://www.acidfuzz.com/products/acid-fuzz-face-nkt-275-germanium-limited-teardrop-edition
-
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Verified photo:** Exact Acid Fuzz NKT275 Acid Fuzz Face limited teardrop edition.
+- **Photo source:** Acid Fuzz official product page.
+- **Archive status:** **Exact model photo archived**
