@@ -57,14 +57,3 @@ It currently provides:
 
 `.github/workflows/deploy-pages.yml` is the only website automation. The previous automatic census-rewrite and research-export workflows were removed so website changes do not cause the catalog to be rewritten behind the scenes.
 
-## Data rule
-Every new company gets stored in the catalog.
-
-Every pedal that company makes gets stored under that company.
-
-Every pedal record can then receive its information and photo.
-
-Do not build extra website relationships, evidence systems, confidence systems, lead systems, or other tracking layers unless the project explicitly changes direction.
-
-## Next action
-Continue Scrape C alphabetically after **ZVEX Effects**. Reuse canonical builder identities when a builder already exists; new builders receive the next unused ID. Keep the active Scrape C census in `research/SCRAPE_C_CENSUS.csv` until later consolidation.
