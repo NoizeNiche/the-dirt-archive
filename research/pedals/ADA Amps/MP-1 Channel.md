@@ -44,4 +44,6 @@ The Clean and Distortion voicings give the pedal two distinct preamp characters,
 3. Chicago Music Exchange — A/DA MP-1 Channel Preamp Pedal: https://www.chicagomusicexchange.com/products/ada-mp-1-channel-preamp-pedal-8749
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** **Confirmed**
+- **Image source:** https://www.chicagomusicexchange.com/products/ada-mp-1-channel-preamp-pedal-8749
+- **Image:** https://www.chicagomusicexchange.com/cdn/shop/products/a-da-effects-and-pedals-distortion-a-da-mp-1-channel-preamp-pedal-adamp1pedal-17184952549511.jpg?v=1649590319&width=1946
