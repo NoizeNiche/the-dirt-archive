@@ -122,17 +122,17 @@
   {
     "builder": "Amptweaker",
     "pedal": "Tight Drive",
-    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://en.audiofanzine.com/overdrive-pedal/amptweaker/tightdrive/",
-    "source": "Exact-model source-page capture",
-    "source_page": "https://en.audiofanzine.com/overdrive-pedal/amptweaker/tightdrive/",
+    "image": "https://www.fullcompass.com/common/products/sm/513892.jpg",
+    "source": "Direct photograph of exact pedal",
+    "source_page": "https://www.fullcompass.com",
     "research_record": "./research/pedals/Amptweaker/Tight_Drive.md"
   },
   {
     "builder": "Amptweaker",
     "pedal": "Tight Drive Jr",
-    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.effectsdatabase.com/model/amptweaker/tightdrive/jr",
-    "source": "Exact-model source-page capture",
-    "source_page": "https://www.effectsdatabase.com/model/amptweaker/tightdrive/jr",
+    "image": "https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg",
+    "source": "Direct photograph of exact pedal",
+    "source_page": "https://reverb.com",
     "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md"
   },
   {
@@ -153,51 +153,35 @@
   },
   {
     "builder": "Amptweaker",
-    "pedal": "Tight Metal Jr",
-    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.effectsdatabase.com/model/amptweaker/tightmetal/jr",
-    "source": "Exact-model source-page capture",
-    "source_page": "https://www.effectsdatabase.com/model/amptweaker/tightmetal/jr",
-    "research_record": "./research/pedals/Amptweaker/Tight_Metal_Jr.md"
-  },
-  {
-    "builder": "Amptweaker",
     "pedal": "Tight Metal Pro",
-    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.pitbullaudio.com/amptweaker-tight-metal-pro-distortion-pedal-with-3-effects-loops.html",
-    "source": "Exact-model source-page capture",
-    "source_page": "https://www.pitbullaudio.com/amptweaker-tight-metal-pro-distortion-pedal-with-3-effects-loops.html",
+    "image": "https://images.guitarguitar.co.uk/cdn/large/170/PX230801410810004f.jpg",
+    "source": "Direct photograph of exact pedal",
+    "source_page": "https://www.guitarguitar.co.uk/product/px230801410810004--amptweaker-tight-metal-pro-pedal-pre-owned",
     "research_record": "./research/pedals/Amptweaker/Tight_Metal_Pro.md"
   },
   {
     "builder": "Amptweaker",
     "pedal": "Tight Metal Pro II",
-    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.zzounds.com/item--AMPTMPRO2",
-    "source": "Exact-model source-page capture",
+    "image": "https://cf1.zzounds.com/media/productmedia/fit%2C2018by3200/quality%2C85/DSC_7146_821608-820c41dc58fd9ac756ca4451ea9cf781.jpg",
+    "source": "Direct photograph of exact pedal",
     "source_page": "https://www.zzounds.com/item--AMPTMPRO2",
     "research_record": "./research/pedals/Amptweaker/Tight_Metal_Pro_II.md"
   },
   {
     "builder": "Amptweaker",
     "pedal": "Tight Rock",
-    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://amptweaker.com/product/tight-rock/",
-    "source": "Exact-model source-page capture",
-    "source_page": "https://amptweaker.com/product/tight-rock/",
+    "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_tightrockdistortionff_la_2.jpg",
+    "source": "Direct photograph of exact pedal",
+    "source_page": "https://www.soundhouse.co.jp/products/detail/item/241268/",
     "research_record": "./research/pedals/Amptweaker/Tight_Rock.md"
   },
   {
     "builder": "Amptweaker",
     "pedal": "Tight Rock Jr",
-    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://reverb.com/item/92068883-amptweaker-tight-rock-jr-og-red",
-    "source": "Reverb exact-model photograph source page",
+    "image": "https://rvb-img.reverb.com/i/s--1lVdlucH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bpva2q0dheknjhz5xluf.jpg",
+    "source": "Direct photograph of exact pedal",
     "source_page": "https://reverb.com/item/92068883-amptweaker-tight-rock-jr-og-red",
     "research_record": "./research/pedals/Amptweaker/Tight_Rock_Jr.md"
-  },
-  {
-    "builder": "Amptweaker",
-    "pedal": "TightBoost",
-    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.effectsdatabase.com/model/amptweaker/tightboost",
-    "source": "Effects Database exact-model photo/source page",
-    "source_page": "https://www.effectsdatabase.com/model/amptweaker/tightboost",
-    "research_record": "./research/pedals/Amptweaker/TightBoost.md"
   },
   {
     "builder": "Amptweaker",
@@ -209,26 +193,18 @@
   },
   {
     "builder": "Amptweaker",
-    "pedal": "TightFuzz Jr",
-    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.musictalk.com.sg/amptweaker-pedal-tight-fuzz-jr.html",
-    "source": "MusicTalk exact-model product/source capture",
-    "source_page": "https://www.musictalk.com.sg/amptweaker-pedal-tight-fuzz-jr.html",
-    "research_record": "./research/pedals/Amptweaker/TightFuzz_Jr.md"
-  },
-  {
-    "builder": "Amptweaker",
     "pedal": "TightFuzz Pro",
-    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.pitbullaudio.com/amptweaker-tight-fuzz-pro-distortion-guitar-effects-pedal.html",
-    "source": "Pitbull Audio exact-model photo/source capture",
+    "image": "https://www.pitbullaudio.com/media/catalog/product/1/9/19_25.jpg?bg-color=255%2C255%2C255&fit=bounds&height=&optimize=medium&width=800",
+    "source": "Direct photograph of exact pedal",
     "source_page": "https://www.pitbullaudio.com/amptweaker-tight-fuzz-pro-distortion-guitar-effects-pedal.html",
     "research_record": "./research/pedals/Amptweaker/TightFuzz_Pro.md"
   },
   {
     "builder": "Analog Alien",
     "pedal": "Alien Bass Station",
-    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicagomusicexchange.com/products/analog-alien-alien-bass-station-2026219",
-    "source": "Chicago Music Exchange exact-model photograph/source capture",
-    "source_page": "https://www.chicagomusicexchange.com/products/analog-alien-alien-bass-station-2026219",
+    "image": "https://www.ikebe-gakki.com/Contents/ProductImages/0/722634_LL.jpg",
+    "source": "Direct photograph of exact pedal",
+    "source_page": "https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=722634&shop=0",
     "research_record": "./research/pedals/Analog Alien/Alien_Bass_Station.md"
   },
   {
@@ -238,14 +214,6 @@
     "source": "Chicago Music Exchange exact-model photograph",
     "source_page": "https://www.chicagomusicexchange.com/products/analog-alien-alien-tone-dragon-overdriveboost-pedal-2054215",
     "research_record": "./research/pedals/Analog Alien/Alien_Tone_Dragon.md"
-  },
-  {
-    "builder": "Analog Alien",
-    "pedal": "Alien Twister",
-    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.allmusicinc.com/products/analog-alien-alien-twister-fuzz-buffer-electric-guitar-effect-pedal",
-    "source": "All Music exact-model photograph/source capture",
-    "source_page": "https://www.allmusicinc.com/products/analog-alien-alien-twister-fuzz-buffer-electric-guitar-effect-pedal",
-    "research_record": "./research/pedals/Analog Alien/Alien_Twister.md"
   },
   {
     "builder": "Analog Alien",
