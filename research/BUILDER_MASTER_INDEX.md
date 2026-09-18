@@ -451,6 +451,10 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 423 | Collins | 184 | Collins XXX-1 Pro Series |
 | 424 | Colfax Recorders | 184 |  |
 | 425 | Cole Music Co. | 184 |  |
+| 426 | Coleman | 185 |  |
+| 427 | Crate | 185 |  |
+| 428 | Cruzer (by Crafter) | 185 | Crafter / Cruzer |
+| 429 | Crown | 185 | Crown / historical OEM |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
