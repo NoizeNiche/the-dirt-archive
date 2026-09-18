@@ -90,7 +90,7 @@ Work in verified batches of 10 pedals, or as many as can be responsibly complete
 
 A pedal is PRP Complete only when it has both pedal information and a confirmed picture of that exact pedal/version.
 
-Current checkpoint: 148 researched, 104 pictured, 109 fully complete, 3,712 remaining. 39 researched pedals are still waiting for confirmed pictures. Next research target: Aclam Guitars - The Mocker.
+Current checkpoint: 147 researched, 108 pictured, 108 fully complete, 3,713 remaining. 39 researched pedals are still waiting for confirmed pictures. PRP is paused while the site foundation is repaired.
 
 The complete operating guide is research/PRP_RULES.md.
 
