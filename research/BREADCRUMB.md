@@ -139,5 +139,5 @@ PRP1 batch 004 covered the next ten unresolved parent records in exact catalog o
 
 ## PRP1 batch 005 checkpoint
 
-PRP1 batch 005 covered the next ten catalog records in exact order, from **Acid Fuzz - Mk1.5** through **AD Pedals - Aerodynamic overdrive**. Exact photos were archived for seven Acorn Amps pedals, Acoustic Imaginearing QuantumDrive, and AD Pedals Aerodynamic overdrive. New research records were added for the nine previously unresearched pedals in that run. **Acid Fuzz - Mk1.5** remains photo-pending because no exact safe direct image file was confirmed.
+PRP1 batch 006 covered the next ten catalog records in exact order, from **Acid Fuzz - Mk1.5** through **Add+ Pedals - Pi**. New research records were added for ADA Amps MP-1 Channel and eight Add+ Pedals products. An exact Effects Database photo was archived for Add+ Blues Player. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
