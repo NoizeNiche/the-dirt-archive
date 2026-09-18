@@ -197,12 +197,12 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 171
-- Pedals with confirmed pictures: 141
-- Fully complete PRP pedals: 141
-- Remaining incomplete pedals: 3680
-- Researched but waiting only for a confirmed picture: 30
+- Pedals with confirmed pictures: 142
+- Fully complete PRP pedals: 142
+- Remaining incomplete pedals: 3679
+- Researched but waiting only for a confirmed picture: 29
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **A.Y.A - Bass Fuzz**
+- Current PRP1 target: **Add+ Pedals - Ratortion 3 v2**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -233,3 +233,7 @@ The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
 
 ## PRP1 batch 012 checkpoint
 Batch 012 audited the next 10 incomplete PRP1 records in exact website order, from **A.Y.A - Bass Fuzz** through **Accel Audio - OD-SS Express Overdrive**. All ten already had research records. Exact-model photo recovery was checked across the batch, but no new direct image asset met the exact-photo standard. All ten remain Picture: NEEDED and PRP Complete: NEEDED. Next target: **Accel Audio - Stompzilla Fuzz**.
+
+
+## PRP1 batch 013 checkpoint
+Batch 013 audited the next 10 incomplete PRP1 records in exact website order, from **Accel Audio - Stompzilla Fuzz** through **Add+ Pedals - Ratortion 3**. One exact-model photo was recovered for **Add+ Pedals - Ratortion 3** from a Reverb listing and synchronized across the research record, photo manifest, public index, and tracker. The other nine remain photo-pending. Next target: **Add+ Pedals - Ratortion 3 v2**.
