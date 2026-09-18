@@ -45,7 +45,7 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **172** have pedal information researched
+- **171** have pedal information researched
 - **141** have confirmed pictures
 - **141** are fully complete
 - **3,680** remain incomplete
