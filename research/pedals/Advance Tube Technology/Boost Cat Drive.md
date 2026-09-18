@@ -4,34 +4,39 @@
 - **Archive parent:** Boost Cat Drive
 - **Builder:** Advance Tube Technology
 - **Catalog type:** Overdrive
-- **Identity:** Advance Tube Technology overdrive listed in the historical Effects Database catalog. [1]
+- **Identity:** Cat's Series booster/overdrive from Advance Tube Technology. [1][2]
 
 ## What this pedal is
-Boost Cat Drive is cataloged as an overdrive by Effects Database. The surviving catalog evidence confirms the model identity and builder, but does not preserve enough factory-specific circuit documentation to responsibly identify its topology or component set. [1]
+Boost Cat Drive is a high-quality discrete booster designed around selected semiconductors and passive components rather than operational ICs. Its documented response is highly linear, with very low output impedance and enough gain to serve as a clean volume lift, buffer, or preamp. [1][2]
 
 ## Colorways
 - Exact production colorway history was not reliably documented.
 
 ## Versions and factory options
-### Boost Cat Drive
-- Overdrive pedal.
-- No numbered factory revision was verified.
+- Cat's Series booster
+- discrete circuit, no operational integrated circuits
+- polypropylene and silver-mica capacitors
+- selected semiconductors
+- low output impedance [1]
+- Contemporary user documentation reports approximately +2 dB at minimum and up to +37 dB at maximum. [2]
 
 ## Version changes
-No reliable factory change history was established.
+No numbered factory revision was verified.
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
+- Circuit is documented as using selected discrete semiconductors and no op amp. [1]
 
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 
 ## Sound
-The archive can safely identify Boost Cat Drive as an overdrive, but the surviving documentation does not support a more specific tonal or circuit claim. No circuit family is inferred from the model name.
+Boost Cat Drive is intended to preserve a linear response while adding controllable level rather than imposing a strong tonal coloration. Its low output impedance also makes it useful as a buffer, and documented use includes pushing tube amplifiers or placing the unit at the front of a long effects chain. [1][2]
 
 ## Sources checked
-1. Effects Database — Advance Tube Technology Boost Cat Drive: https://www.effectsdatabase.com/model/advancetubetechnology/boostcatdrive
+1. Effects Database — Advance Tube Technology Boost Cat Drive: https://www.effectsdatabase.com/model/avt/boostcatdrive
+2. Accordo — Boost Cat Drive review: https://www.accordo.it/article/viewPub/31894
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database model record.
+- **Exact-model reference checked:** Effects Database and Accordo above.
