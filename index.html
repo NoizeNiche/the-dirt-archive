@@ -528,7 +528,11 @@ function render(){
   renderBuilders();
 
   const visible=filteredItems();
-  const builderCount=new Set(visible.map(x=>x.company)).size;
+
+  // The builder total describes the current archive filter context,
+  // not the single builder selected for the result view.
+  const builderContext=items.filter(x=>typeMatches(x)&&searchMatches(x));
+  const builderCount=new Set(builderContext.map(x=>x.company)).size;
 
   let title='All Pedals';
   if(selectedType!=='All')title=selectedType;
