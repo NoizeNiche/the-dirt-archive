@@ -329,6 +329,22 @@ main{padding:24px 0 72px}
   background:rgba(255,253,250,.55)
 }
 .empty strong{display:block;color:var(--ink);font-size:1.1rem;margin-bottom:5px}
+.loadMoreWrap{display:flex;justify-content:center;padding:18px 0 4px}
+.loadMore{
+  border:1px solid var(--ink);
+  border-radius:999px;
+  background:var(--card);
+  color:var(--ink);
+  padding:10px 16px;
+  font-size:.7rem;
+  font-weight:950;
+  text-transform:uppercase;
+  letter-spacing:.07em;
+  cursor:pointer;
+  transition:.15s ease
+}
+.loadMore:hover{background:var(--ink);color:#fff}
+.loadMore:focus{outline:0;box-shadow:0 0 0 3px rgba(223,255,56,.25)}
 
 @media(max-width:1000px){
   .headerRow{align-items:start;flex-direction:column}
@@ -402,14 +418,19 @@ main{padding:24px 0 72px}
         </div>
         <div class="rule"></div>
         <div class="grid" id="grid"></div>
+        <div class="loadMoreWrap" id="loadMoreWrap" hidden>
+          <button class="loadMore" id="loadMore" type="button">Load more pedals</button>
+        </div>
       </div>
     </section>
   </div>
 </main>
 
 <script>
-const DATA_VERSION='2026-09-18-site-architecture-002';
-const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;let items=[];let allItems=[];
+const DATA_VERSION='2026-09-18-site-architecture-003';
+const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;
+const PAGE_SIZE=72;
+let items=[];let allItems=[];let shownCount=PAGE_SIZE;
 let pedalImages=new Map();
 let variationSearchText=new Map();
 const initialParams=new URLSearchParams(location.search);
@@ -520,6 +541,7 @@ function renderTypeMenu(){
   document.querySelectorAll('[data-type]').forEach(btn=>btn.onclick=()=>{
     selectedType=btn.dataset.type;
     selectedBuilder='';
+    shownCount=PAGE_SIZE;
     syncUrl();
     render();
   });
@@ -541,6 +563,7 @@ function renderBuilders(){
   $('builders').innerHTML=html;
   document.querySelectorAll('[data-builder]').forEach(btn=>btn.onclick=()=>{
     selectedBuilder=btn.dataset.builder||'';
+    shownCount=PAGE_SIZE;
     syncUrl();
     render();
   });
@@ -552,6 +575,7 @@ function render(){
   renderBuilders();
 
   const visible=filteredItems();
+  const pageItems=visible.slice(0,shownCount);
 
   // The builder total describes the current archive filter context,
   // not the single builder selected for the result view.
@@ -565,10 +589,12 @@ function render(){
   if(q)title='Search: '+q;
 
   $('title').textContent=title;
-  $('meta').textContent=visible.length.toLocaleString()+' pedal'+(visible.length===1?'':'s')+' · '+builderCount.toLocaleString()+' builder'+(builderCount===1?'':'s');
+  $('meta').textContent=(visible.length
+    ? 'Showing '+Math.min(shownCount,visible.length).toLocaleString()+' of '+visible.length.toLocaleString()
+    : '0')+' pedal'+(visible.length===1?'':'s')+' · '+builderCount.toLocaleString()+' builder'+(builderCount===1?'':'s');
 
-  $('grid').innerHTML=visible.length
-    ? visible.map(x=>
+  $('grid').innerHTML=pageItems.length
+    ? pageItems.map(x=>
       (()=>{
         const img=pedalImages.get(x.company+'\u0000'+x.pedal);
         const media=img && img.image
@@ -585,13 +611,25 @@ function render(){
       })()
     ).join('')
     : '<div class="empty"><strong>No pedals found</strong>Try another search, dirt type, or builder.</div>';
+
+  const canLoadMore=visible.length>shownCount;
+  $('loadMoreWrap').hidden=!canLoadMore;
+  $('loadMore').textContent=canLoadMore
+    ? 'Load more pedals ('+Math.min(PAGE_SIZE,visible.length-shownCount).toLocaleString()+')'
+    : 'Load more pedals';
 }
 
 $('search').value=q;
 $('search').oninput=e=>{
   q=e.target.value.trim();
   selectedBuilder='';
+  shownCount=PAGE_SIZE;
   syncUrl();
+  render();
+};
+
+$('loadMore').onclick=()=>{
+  shownCount+=PAGE_SIZE;
   render();
 };
 
