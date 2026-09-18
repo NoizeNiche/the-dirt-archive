@@ -90,7 +90,9 @@ Work in verified batches of 10 pedals, or as many as can be responsibly complete
 
 A pedal is PRP Complete only when it has both pedal information and a confirmed picture of that exact pedal/version.
 
-Current PRP checkpoint: 159 researched, 135 pictured, 135 fully complete, 3,686 remaining. 25 researched pedals are still waiting for confirmed pictures. PRP1 is active in the photo-recovery pass, with Acid Fuzz - Mk1.5 remaining as the current photo-recovery holdout.
+Current PRP checkpoint: 168 researched, 136 pictured, 136 fully complete, 3,685 remaining. 33 researched pedals are still waiting for confirmed pictures. PRP1 is active in the photo-recovery pass, with Acid Fuzz - Mk1.5 remaining as the current photo-recovery holdout.
+
+PRP1 batch 006 covered the next ten catalog records in exact order, from **Acid Fuzz - Mk1.5** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 The complete operating guide is research/PRP_RULES.md.
 
@@ -98,9 +100,11 @@ The complete operating guide is research/PRP_RULES.md.
 
 ## Current site-priority override
 
-The active Builder -> Pedals and PRP rules remain preserved, but the immediate project priority is now the **site foundation and functionality audit**.
+The active Builder -> Pedals and PRP rules remain preserved. The current priority is **PRP1 photo recovery and pedal research**, with the site foundation regression checks kept in force.
 
-PRP is paused until:
+PRP is active again. Continue from the saved PRP checkpoint and do not call a batch live until the repository validation and GitHub Pages publishing run succeed.
+
+The site foundation requirements remain:
 - catalog model/version/variation relationships are reliable
 - photo routing is reliable
 - public pedal pages are clear and simple
