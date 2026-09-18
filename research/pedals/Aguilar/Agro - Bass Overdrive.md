@@ -45,5 +45,5 @@ AGRO ranges from warm, tube-like bass overdrive to heavier distortion while reta
 3. Chicago Music Exchange — Aguilar AGRO V2: https://www.chicagomusicexchange.com/products/aguilar-agro-v2-bass-overdrive-pedal-1661670
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Base AGRO documentation and V2 distinction above. A V2 image was deliberately not assigned to the base record.
+- **Archive status:** **Confirmed exact-model image attached**
+- **Image source:** Thomann UK product listing for the original black AGRO enclosure: https://www.thomann.co.uk/aguilar_agro_pedal.htm
