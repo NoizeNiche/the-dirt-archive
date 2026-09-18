@@ -97,13 +97,13 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 171
-- Pedals with confirmed pictures: 139
-- Fully complete PRP pedals: 139
-- Remaining incomplete pedals: 3682
-- Researched but waiting only for a confirmed picture: 32
+- Pedals with research information: 172
+- Pedals with confirmed pictures: 140
+- Fully complete PRP pedals: 140
+- Remaining incomplete pedals: 3681
+- Researched but waiting only for a confirmed picture: 31
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: A Sound Of Failure - Death Driver
+- Current PRP1 target: A.Y.A - Bass Fuzz
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -267,3 +267,8 @@ ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation fro
 ## PRP1 batch 009 checkpoint
 Batch 009 completed the next ten exact-order PRP1 records from **Add+ Pedals - Der Fuzzer** through **Add+ Pedals - Ratortion 3**. The first seven records already had research and were checked for photo recovery; three new research records were added for Ratortion, Ratortion 2, and Ratortion 3. The exact Add+ Pi picture was confirmed and connected to the public index and photo manifest. Records without a safely archived direct exact-model image remain photo-pending.
 The next exact-order unresolved target is **Add+ Pedals - Ratortion 3 v2**.
+
+
+## PRP1 batch 010 checkpoint
+Batch 010 worked the next ten exact-order PRP1 records from **A Sound Of Failure - Death Driver** through **AC Efectos - Triplex Distortion**. An exact Effects Database photograph was confirmed and archived for **Death Driver**, moving that pedal to fully complete. The remaining nine records in this photo-recovery window remain incomplete where no safe direct exact-model image asset was confirmed.
+The next exact-order unresolved target is **A.Y.A - Bass Fuzz**.
