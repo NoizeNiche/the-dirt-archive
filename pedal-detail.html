@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Pedal · The Dirt Archive</title>
+<style>
+:root{--bg:#f3f0e8;--panel:#fffdf8;--ink:#111;--muted:#716c63;--line:#d9d2c7;--accent:#dfff38}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+a{color:inherit}
+.pageLayout{display:grid;grid-template-columns:280px minmax(0,1fr);gap:18px;align-items:start}
+.pageSidebar{
+  position:sticky;top:18px;max-height:calc(100vh - 36px);overflow:hidden;
+  padding:12px;border-radius:22px;background:#171716;color:#f7f5ef;
+  box-shadow:0 20px 50px rgba(0,0,0,.12)
+}
+.pageSidebarTop{padding:8px 8px 14px}
+.pageHome{display:block;text-decoration:none;border:1px solid #4c4b46;border-radius:11px;background:#dfff38;color:#111;padding:10px 11px;font-size:.68rem;font-weight:950;text-transform:uppercase;letter-spacing:.06em;margin-bottom:10px}
+.pageHome:hover{filter:brightness(.97)}
+.pageNavLabel{font-size:.61rem;font-weight:950;letter-spacing:.11em;text-transform:uppercase;color:#a8a69f;margin:4px 0 8px}
+.pageSearchWrap{position:relative}
+.pageSearch{width:100%;border:1px solid #4c4b46;border-radius:12px;background:#242421;color:#fff;padding:11px 11px 11px 34px;outline:0;font-size:.76rem}
+.pageSearch::placeholder{color:#94928b}
+.pageSearch:focus{border-color:#dfff38;box-shadow:0 0 0 3px rgba(223,255,56,.12)}
+.pageSearchIcon{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:#96938b;font-size:.9rem;pointer-events:none}
+.pageNavSection{padding:0 8px}
+.pageTypeGrid{display:grid;grid-template-columns:1fr 1fr;gap:5px}
+.pageTypeLink,.pageBuilderLink{
+  display:block;text-decoration:none;border:1px solid #44433e;border-radius:10px;background:#242421;color:#f6f4ee;
+  padding:9px 9px;font-size:.66rem;font-weight:950;text-transform:uppercase;letter-spacing:.04em
+}
+.pageTypeLink:hover,.pageBuilderLink:hover{background:#2a2a26;border-color:#77736b}
+.pageTypeLink.active,.pageBuilderLink.active{background:#dfff38;border-color:#dfff38;color:#111}
+.pageBuilderPanel{margin-top:16px}
+.pageBuilderList{overflow:auto;max-height:calc(100vh - 310px);padding-right:4px}
+.pageBuilderList::-webkit-scrollbar{width:7px}
+.pageBuilderList::-webkit-scrollbar-thumb{background:#3b3a36;border-radius:99px}
+.pageBuilderList::-webkit-scrollbar-track{background:transparent}
+.pageBuilderLink{text-transform:none;font-size:.73rem;font-weight:780;letter-spacing:0;padding:8px 9px}
+.pageBuilderLink strong{float:right;color:#8f8d86;font-weight:900}
+.pageBuilderLink.active strong{color:#111}
+.pageMain{min-width:0}
+.wrap{width:min(1480px,calc(100% - 28px));margin:auto}
+header{padding:26px 0 20px;border-bottom:1px solid var(--line);background:rgba(243,240,232,.95);backdrop-filter:blur(12px)}
+.back{display:inline-flex;align-items:center;gap:7px;text-decoration:none;font-size:.72rem;font-weight:950;text-transform:uppercase;letter-spacing:.07em;margin-bottom:24px}
+.back:hover{text-decoration:underline}
+.crumb{color:var(--muted);font-size:.72rem;font-weight:900;text-transform:uppercase;letter-spacing:.08em;margin-bottom:9px}
+h1{margin:0;font-size:clamp(2.5rem,7vw,5.8rem);line-height:.88;letter-spacing:-.065em}
+.sub{margin:12px 0 0;color:var(--muted);font-size:.85rem;font-weight:800}
+main{padding:20px 0 60px}
+.grid{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:18px;align-items:start}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:16px}
+.label{font-size:.68rem;font-weight:900;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:10px}
+.info{background:#fff;border:1px solid var(--line);border-radius:14px;padding:17px;min-height:180px;line-height:1.65}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:18px}
+.chip{font-size:.62rem;font-weight:900;text-transform:uppercase;letter-spacing:.06em;padding:5px 8px;border-radius:999px;background:#eee9df}
+.photo{aspect-ratio:3 / 4;min-height:0;width:100%;display:grid;place-items:center;text-align:center;border:2px dashed #bdb5a8;border-radius:14px;background:#f7f4ee;color:var(--muted);font-weight:850;padding:20px}
+.grid > .panel:last-child{position:sticky;top:18px;align-self:start}.research{background:#fff;border:1px solid var(--line);border-radius:14px;padding:17px;line-height:1.6}.research h2,.research h3{margin:18px 0 8px;line-height:1.1}.research h2:first-child{margin-top:0}.research p{margin:9px 0}.research ul{margin:8px 0 12px;padding-left:20px}.research li{margin:5px 0}.research code{background:#eee9df;padding:1px 4px;border-radius:4px}.note{margin:12px 0 0;color:var(--muted);font-size:.76rem;line-height:1.5}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+.action{display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--ink);border-radius:999px;background:#fff;padding:10px 14px;text-decoration:none;font-size:.72rem;font-weight:950;text-transform:uppercase;letter-spacing:.05em}
+.action.primary{background:var(--accent)}
+.empty{padding:80px 20px;text-align:center}
+@media(max-width:1000px){.pageLayout{grid-template-columns:1fr}.pageSidebar{position:static;max-height:none}.pageBuilderList{max-height:260px}}
+@media(max-width:760px){.grid{grid-template-columns:1fr}.grid > .panel:last-child{position:static}.photo{aspect-ratio:3 / 4;min-height:0;max-width:420px;margin-inline:auto}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <a class="back" href="./index.html">← Back to the archive</a>
+    <div class="crumb" id="crumb">Loading record…</div>
+    <h1 id="name">Pedal</h1>
+    <p class="sub" id="builder"></p>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="pageLayout">
+    <aside class="pageSidebar">
+      <div class="pageSidebarTop">
+        <a class="pageHome" href="./index.html">← Archive Home</a>
+        <div class="pageNavLabel">Search</div>
+        <div class="pageSearchWrap">
+          <span class="pageSearchIcon">⌕</span>
+          <input id="pageSearch" class="pageSearch" type="search" placeholder="Search pedal or builder…" aria-label="Search pedal or builder">
+        </div>
+      </div>
+
+      <div class="pageNavSection">
+        <div class="pageNavLabel">Dirt type</div>
+        <div class="pageTypeGrid" id="pageTypeMenu"></div>
+      </div>
+
+      <div class="pageNavSection pageBuilderPanel">
+        <div class="pageNavLabel">Builders</div>
+        <div class="pageBuilderList" id="pageBuilders"></div>
+      </div>
+    </aside>
+
+    <div class="pageMain">
+      <div id="empty" class="panel empty" hidden>
+        <h2>Pedal not found</h2>
+        <p>The link does not match a cataloged pedal record.</p>
+        <a class="action primary" href="./index.html">Browse the archive</a>
+      </div>
+
+      <div id="record" class="grid" hidden>
+        <section class="panel">
+      <div class="label">Dirt type</div>
+      <div class="chips" id="types"></div>
+
+      <div class="label">PRP research</div>
+      <div class="research" id="research"><p>Loading research record…</p></div>
+      <p class="note">The page reads the PRP research record directly, so documented updates appear here as the archive is researched.</p>
+
+      <div class="actions">
+        <a class="action primary" id="builderLink" href="./index.html">More from this builder</a>
+        <a class="action" href="./index.html">Browse all pedals</a>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="label">Photo</div>
+      <div class="photo"><span id="photoFallback">No Photo Archived</span></div><a class="note" id="photoSource" href="#" target="_blank" rel="noopener" hidden>Photo source</a>
+    </section>
+  </div>
+  </div>
+</main>
+
+<script>
+const DATA_VERSION='2026-09-18-prp-070';
+const DATA=[
+  './research/MASTER_PEDAL_CENSUS.csv',
+  './research/SCRAPE_A_CENSUS.csv',
+  './research/SCRAPE_B_CENSUS.csv',
+  './research/SCRAPE_C_CENSUS.csv'
+];
+const IMAGE_DATA='./research/pedals/PEDAL_IMAGES.json?v='+DATA_VERSION;
+
+function renderPageNav(items){
+  const builders=[...new Set(items.map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
+  const search=$('pageSearch');
+  if(search){
+    search.value='';
+    search.onkeydown=e=>{
+      if(e.key!=='Enter')return;
+      const q=e.target.value.trim();
+      const url=new URL('./index.html',location.href);
+      if(q)url.searchParams.set('q',q);
+      location.href=url.href;
+    };
+  }
+  const types=[['All','All Pedals'],['Overdrive','Overdrive'],['Distortion','Distortion'],['Fuzz','Fuzz']];
+  $('pageTypeMenu').innerHTML=types.map(([t,label])=>{
+    const url=new URL('./index.html',location.href);
+    if(t!=='All')url.searchParams.set('type',t);
+    return '<a class="pageTypeLink '+(t==='All'?'active':'')+'" href="'+url.href+'">'+label+'</a>';
+  }).join('');
+  $('pageBuilders').innerHTML=
+    '<a class="pageBuilderLink active" href="./index.html">All builders<strong>'+builders.length+'</strong></a>'+
+    builders.map(name=>{
+      const url=new URL('./index.html',location.href);
+      url.searchParams.set('builder',name);
+      return '<a class="pageBuilderLink '+(name===wantedBuilder?'active':'')+'" href="'+url.href+'">'+esc(name)+'<strong>'+items.filter(x=>x.company===name).length+'</strong></a>';
+    }).join('');
+}
+
+function csv(s){
+  let out=[],r=[],f='',quote=false;
+  for(let i=0;i<s.length;i++){
+    const c=s[i],n=s[i+1];
+    if(quote){
+      if(c==='"'&&n==='"'){f+='"';i++}
+      else if(c==='"')quote=false;
+      else f+=c;
+    }else if(c==='"')quote=true;
+    else if(c===','){r.push(f);f=''}
+    else if(c==='\n'){r.push(f.replace(/\r$/,''));out.push(r);r=[];f=''}
+    else f+=c;
+  }
+  if(f||r.length){r.push(f.replace(/\r$/,''));out.push(r)}
+  const h=out.shift()||[];
+  return out.filter(x=>x.some(Boolean)).map(x=>Object.fromEntries(h.map((k,i)=>[k,(x[i]||'').trim()])));
+}
+
+function group(rows){
+  const m=new Map();
+  for(const x of rows){
+    if(!x.Builder||!x.Pedal)continue;
+    const key=x.Builder+'\u0000'+x.Pedal;
+    if(!m.has(key))m.set(key,{company:x.Builder,pedal:x.Pedal,types:new Set});
+    if(x.Type)m.get(key).types.add(x.Type);
+  }
+  return [...m.values()].map(x=>({...x,types:[...x.types].sort()}));
+}
+
+function esc(x){
+  return String(x).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'","&#039;");
+}
+
+function renderMarkdown(md){
+  const lines=md.split(/\r?\n/);
+  const hidden=new Set(['research confidence','photo','sources checked']);
+  let html='',inList=false,skip=false;
+  const inline=s=>esc(s)
+    .replace(/\s*\[\d+\]/g,'')
+    .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
+    .replace(/\x60(.+?)\x60/g,'<code>$1</code>');
+  for(const line of lines){
+    if(/^## /.test(line)){
+      if(inList){html+='</ul>';inList=false}
+      const heading=line.slice(3).trim().toLowerCase();
+      skip=hidden.has(heading);
+      if(skip)continue;
+      html+='<h2>'+inline(line.slice(3))+'</h2>';
+      continue;
+    }
+    if(skip)continue;
+    if(/^### /.test(line)){if(inList){html+='</ul>';inList=false}html+='<h3>'+inline(line.slice(4))+'</h3>';continue}
+    if(/^# /.test(line)){if(inList){html+='</ul>';inList=false}html+='<h2>'+inline(line.slice(2))+'</h2>';continue}
+    if(/^- /.test(line)){if(!inList){html+='<ul>';inList=true}html+='<li>'+inline(line.slice(2))+'</li>';continue}
+    if(!line.trim()){if(inList){html+='</ul>';inList=false}continue}
+    if(inList){html+='</ul>';inList=false}
+    html+='<p>'+inline(line)+'</p>';
+  }
+  if(inList)html+='</ul>';
+  return html;
+}const params=new URLSearchParams(location.search);
+const wantedBuilder=params.get('builder')||'';
+const wantedPedal=params.get('pedal')||'';
+
+Promise.all([
+  Promise.all(DATA.map(u=>fetch(u,{cache:'no-store'}).then(r=>{
+    if(!r.ok)throw Error(r.status);
+    return r.text();
+  }))),
+  fetch(IMAGE_DATA,{cache:'no-store'}).then(r=>{
+    if(!r.ok)throw Error(r.status);
+    return r.json();
+  })
+])
+.then(([ts,imageRecords])=>{
+  const items=group(ts.flatMap(csv));
+  renderPageNav(items);
+  const item=items.find(x=>x.company===wantedBuilder&&x.pedal===wantedPedal);
+  const imageRecord=imageRecords.find(x=>x.builder===wantedBuilder&&x.pedal===wantedPedal);
+  if(!item){document.title='Pedal not found · The Dirt Archive';document.getElementById('empty').hidden=false;return}
+
+  document.title=item.pedal+' · The Dirt Archive';
+  document.getElementById('record').hidden=false;
+  document.getElementById('crumb').textContent=item.company;
+  document.getElementById('name').textContent=item.pedal;
+  document.getElementById('builder').textContent='The Dirt Archive pedal record';
+  document.getElementById('types').innerHTML=item.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('');
+
+  const imageBox=document.querySelector('.photo');
+  const fallback=document.getElementById('photoFallback');
+  if(imageRecord && imageRecord.image){
+    imageBox.innerHTML='<img src="'+esc(imageRecord.image)+'" alt="'+esc(item.company+' '+item.pedal)+' pedal" style="width:100%;height:100%;object-fit:contain;border-radius:12px" referrerpolicy="no-referrer" onerror="this.remove();document.getElementById(\'photoFallback\').hidden=false">';
+    imageBox.style.padding='10px';
+    const source=document.getElementById('photoSource');
+    source.href=imageRecord.source_page;
+    source.hidden=false;
+  }else{
+    fallback.hidden=false;
+  }
+
+  const researchEl=document.getElementById('research');
+  if(imageRecord&&imageRecord.research_record){
+    fetch(imageRecord.research_record,{cache:'no-store'})
+      .then(r=>{if(!r.ok)throw Error(r.status);return r.text()})
+      .then(md=>{researchEl.innerHTML=renderMarkdown(md)})
+      .catch(e=>{
+        researchEl.innerHTML='<p>PRP record could not be loaded.</p>';
+        console.error(e);
+      });
+  }else{
+    researchEl.innerHTML='<p>PRP research has not been added for this pedal yet.</p>';
+  }
+
+  const link=new URL('./index.html',location.href);
+  link.searchParams.set('builder',item.company);
+  document.getElementById('builderLink').href=link.href;
+})
+.catch(e=>{
+  document.getElementById('empty').hidden=false;
+  document.getElementById('empty').querySelector('p').textContent='The catalog data could not be loaded.';
+  console.error(e);
+});
+</script>
+</body>
+</html>
