@@ -196,7 +196,7 @@ For now, keep the main navigation intentionally simple:
 More advanced faceted discovery can be revisited later. The underlying data should be structured so future search can use researched metadata without requiring a complete rebuild.
 
 ### Visual direction
-The target visual identity is a literal **empty Pedal Train Pro-style pedalboard**: the website should feel like the archive is living on a physical metal pedalboard, with the catalog occupying that space. This is a design direction, not permission to start coding the visual redesign before the functional architecture is settled.
+The target visual identity is a literal **empty metal pedalboard inspired by a Pedal Train Pro-style board**. The current site now implements that visual direction with a dark board surface, metal rail treatment, hardware-like details, and catalog cards placed on the board rather than on a paper-library background.
 
 ### Photo direction
 Photography is a high-priority part of the presentation. Exact, verified pedal photography should be attached to the correct model/version, and multiple colorway photos should be supported within the relevant version page.
@@ -208,7 +208,7 @@ The Dirt Archive should document useful pedal identity, variations, appearance, 
 A future showcase/blog-style layer may be added for curated historical topics, such as fuzz showcases or builder/pedal features. This is intentionally deferred until the core archive works well.
 
 ## Next action
-Continue the site functionality audit. Do not resume PRP until the catalog model/version/variation behavior, photo routing, navigation, search, and GitHub Pages deployment have been tested end-to-end.
+Complete the site functionality audit and verify the new pedalboard visual shell on GitHub Pages. Do not resume PRP until the catalog model/version/variation behavior, photo routing, navigation, search, visual shell, and GitHub Pages deployment have been tested end-to-end.
 
 
 ## Site architecture checkpoint — September 18, 2026
@@ -234,6 +234,8 @@ The target visual direction is a literal empty metal pedalboard inspired by a Pe
 - The main catalog no longer renders all 3,820 public cards into the DOM at once.
 - Search, dirt-type changes, and builder changes reset the result window to the first 72 cards.
 - Load-more pagination keeps the full catalog searchable while reducing the amount of HTML rebuilt on each filter/search action.
-- The site cache/version marker is now `2026-09-18-site-architecture-003` on the index and pedal-detail pages.
-- The latest GitHub Pages run for commit `a9573f1` is in progress; deployment is not yet counted as verified until that run completes successfully.
+- The site cache/version marker is now `2026-09-18-site-architecture-004` on the index and pedal-detail pages.
+- The main archive and pedal-detail pages now use the physical pedalboard visual shell.
+- The catalog still uses 72-card progressive loading.
+- The latest GitHub Pages deployment must be verified before this visual pass is counted as live.
 
