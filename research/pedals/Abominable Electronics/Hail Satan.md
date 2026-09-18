@@ -41,3 +41,7 @@ The core documented feature set is stable across the standard Hail Satan family,
 ## Sound
 Hail Satan takes the thick Muff-style wall of fuzz and pushes it toward a rougher, crunchier voice with more mids available. The red-LED mode is louder and more aggressive than the standard silicon clipping, making the second footswitch function as a tonal and gain jump rather than simply an on/off feature. [1][2]
 
+## Sources checked
+1. Effects Database — Hail Satan: https://www.effectsdatabase.com/model/abominable/hailsatan
+2. Abominable Electronics — Hail Santa splatter variant: https://www.abominablepedals.com/products/hail-santa-hail-satan-muff
+3. Abominable Electronics — About: https://www.abominablepedals.com/pages/about-us
