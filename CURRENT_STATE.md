@@ -250,4 +250,5 @@ The target visual direction is a literal empty metal pedalboard inspired by a Pe
 - The main archive and pedal-detail pages now use the physical pedalboard visual shell.
 - The catalog still uses 72-card progressive loading.
 - The latest GitHub Pages deployment must be verified before this visual pass is counted as live.
+- A deployment-time browser audit now opens every researched parent pedal page (currently 146 parent pages), verifies the Pedal Info content loads, verifies the detail record is visible, checks the information container has usable dimensions, and checks text/background contrast.
 
