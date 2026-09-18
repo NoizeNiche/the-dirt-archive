@@ -38,5 +38,7 @@ Addrock positions the Geranium Fuzz around the warm, vintage character associate
 2. Reddit owner discussion referencing the Geranium Fuzz: https://www.reddit.com/r/guitarpedals/comments/mky4w4/dug_out_from_storage_reassembled_10_years_later/
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database page above.
+- **Archive status:** **Photo Archived**
+- **Exact-model source:** https://reverb.com/item/1742410-addrock-geranium-fuzz
+- **Image asset:** https://rvb-img.reverb.com/image/upload/s--IjycEqvj--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1456226055/f6h83f51fzcl2nmzspwd.jpg
+- **Image match:** Reverb listing explicitly identifies the model as Addrock Geranium Fuzz; the photographed pedal matches the documented orange enclosure and four-control layout.
