@@ -407,8 +407,8 @@ main{padding:24px 0 72px}
 </main>
 
 <script>
-const DATA_VERSION='2026-09-18-prp-081';
-const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;let items=[];
+const DATA_VERSION='2026-09-18-site-architecture-001';
+const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;let items=[];let allItems=[];
 let pedalImages=new Map();
 const initialParams=new URLSearchParams(location.search);
 let selectedType=initialParams.get('type')||'All';
@@ -472,10 +472,16 @@ function typeMatches(x){
   return selectedType==='All'||x.types.includes(selectedType)
 }
 
+function isCatalogEntry(x){return x.catalog_role!=='variation'}
 function searchMatches(x){
   if(!q)return true;
   const needle=q.toLowerCase();
-  return x.company.toLowerCase().includes(needle)||x.pedal.toLowerCase().includes(needle);
+  if(x.company.toLowerCase().includes(needle)||x.pedal.toLowerCase().includes(needle))return true;
+  const parentKey=x.company+'\\u0000'+x.pedal;
+  return allItems.some(v=>v.catalog_role==='variation'&&v.parent_pedal===x.pedal&&v.company===x.company&&(
+    (v.variation_name||'').toLowerCase().includes(needle)||
+    (v.pedal||'').toLowerCase().includes(needle)
+  ));
 }
 
 function builderRows(){
@@ -597,8 +603,9 @@ fetch(DATA_INDEX,{cache:'no-store'})
   return r.json();
 })
 .then(data=>{
-  items=data.pedals||[];
-  pedalImages=new Map(items.map(x=>[x.company+'\u0000'+x.pedal,x]));
+  allItems=data.pedals||[];
+  items=allItems.filter(isCatalogEntry);
+  pedalImages=new Map(allItems.map(x=>[x.company+'\u0000'+x.pedal,x]));
   render();
   syncUrl();
 }).catch(e=>{
