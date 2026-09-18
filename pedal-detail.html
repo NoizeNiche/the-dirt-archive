@@ -63,6 +63,16 @@ main{padding:20px 0 60px}
 .actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
 .action{display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--ink);border-radius:999px;background:#fff;padding:10px 14px;text-decoration:none;font-size:.72rem;font-weight:950;text-transform:uppercase;letter-spacing:.05em}
 .action.primary{background:var(--accent)}
+.variantSection{margin-top:20px;padding-top:18px;border-top:1px solid var(--line)}
+.variantGrid,.colorwayGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.variantCard,.colorwayCard{display:block;border:1px solid var(--line);border-radius:12px;background:#fff;text-decoration:none;overflow:hidden}
+.variantCard:hover,.colorwayCard:hover{border-color:#aaa49a;box-shadow:0 8px 18px rgba(0,0,0,.06)}
+.variantThumb,.colorwayThumb{display:grid;place-items:center;aspect-ratio:4/3;background:#f1eee7;color:#9a958b;font-size:.58rem;font-weight:900;text-align:center;text-transform:none}
+.variantThumb img,.colorwayThumb img{width:100%;height:100%;object-fit:contain}
+.variantName,.colorwayName{display:block;padding:9px 10px;font-size:.68rem;font-weight:900;line-height:1.15}
+.demoBox{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px;border:1px solid var(--line);border-radius:12px;background:#fff}
+.demoBox .action{margin:0;white-space:nowrap}
+@media(max-width:760px){.variantGrid,.colorwayGrid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 .empty{padding:80px 20px;text-align:center}
 @media(max-width:1000px){.pageLayout{grid-template-columns:1fr}.pageSidebar{position:static;max-height:none}.pageBuilderList{max-height:260px}}
 @media(max-width:760px){.grid{grid-template-columns:1fr}.grid > .panel:last-child{position:static}.photo{aspect-ratio:3 / 4;min-height:0;max-width:420px;margin-inline:auto}}
@@ -113,9 +123,18 @@ main{padding:20px 0 60px}
       <div class="label">Dirt type</div>
       <div class="chips" id="types"></div>
 
-      <div class="label">PRP research</div>
-      <div class="research" id="research"><p>Loading research record…</p></div>
-      <p class="note">The page reads the PRP research record directly, so documented updates appear here as the archive is researched.</p>
+      <div class="label">Pedal Info</div>
+      <div class="research" id="research"><p>Loading pedal information…</p></div>
+
+      <div class="variantSection" id="versionsSection" hidden>
+        <div class="label">Versions</div>
+        <div class="variantGrid" id="versions"></div>
+      </div>
+
+      <div class="variantSection" id="demoSection" hidden>
+        <div class="label">Watch &amp; Listen</div>
+        <div class="demoBox" id="demo"></div>
+      </div>
 
       <div class="actions">
         <a class="action primary" id="builderLink" href="./index.html">More from this builder</a>
@@ -125,17 +144,43 @@ main{padding:20px 0 60px}
 
     <section class="panel">
       <div class="label">Photo</div>
-      <div class="photo"><span id="photoFallback">No Photo Archived</span></div><a class="note" id="photoSource" href="#" target="_blank" rel="noopener" hidden>Photo source</a>
+      <div class="photo" id="photoBox"><span id="photoFallback">No Photo Archived</span></div>
+      <div class="variantSection" id="colorwaysSection" hidden>
+        <div class="label">Colorways &amp; Editions</div>
+        <div class="colorwayGrid" id="colorways"></div>
+      </div>
+      <div class="note" id="variationNotice" hidden></div>
     </section>
   </div>
   </div>
 </main>
 
 <script>
-const DATA_VERSION='2026-09-18-prp-081';
+const DATA_VERSION='2026-09-18-site-architecture-001';
 const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;
-const $=id=>document.getElementById(id);function renderPageNav(items){
-  const builders=[...new Set(items.map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
+const $=id=>document.getElementById(id);
+
+function esc(x){
+  return String(x).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'","&#039;");
+}
+function isCatalogEntry(x){return x.catalog_role!=='variation'}
+function entryKey(x){return x.company+'\\u0000'+x.pedal}
+function detailUrl(x,variation){
+  const url=new URL('./pedal-detail.html',location.href);
+  url.searchParams.set('builder',x.company);
+  url.searchParams.set('pedal',x.pedal);
+  if(variation)url.searchParams.set('variation',variation);
+  url.searchParams.set('v',DATA_VERSION);
+  return url.href;
+}
+
+const params=new URLSearchParams(location.search);
+const wantedBuilder=params.get('builder')||'';
+const wantedPedal=params.get('pedal')||'';
+let wantedVariation=params.get('variation')||'';
+
+function renderPageNav(items){
+  const builders=[...new Set(items.filter(isCatalogEntry).map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
   const search=$('pageSearch');
   if(search){
     search.value='';
@@ -158,46 +203,13 @@ const $=id=>document.getElementById(id);function renderPageNav(items){
     builders.map(name=>{
       const url=new URL('./index.html',location.href);
       url.searchParams.set('builder',name);
-      return '<a class="pageBuilderLink '+(name===wantedBuilder?'active':'')+'" href="'+url.href+'">'+esc(name)+'<strong>'+items.filter(x=>x.company===name).length+'</strong></a>';
+      return '<a class="pageBuilderLink '+(name===wantedBuilder?'active':'')+'" href="'+url.href+'">'+esc(name)+'<strong>'+items.filter(x=>isCatalogEntry(x)&&x.company===name).length+'</strong></a>';
     }).join('');
-}
-
-function csv(s){
-  let out=[],r=[],f='',quote=false;
-  for(let i=0;i<s.length;i++){
-    const c=s[i],n=s[i+1];
-    if(quote){
-      if(c==='"'&&n==='"'){f+='"';i++}
-      else if(c==='"')quote=false;
-      else f+=c;
-    }else if(c==='"')quote=true;
-    else if(c===','){r.push(f);f=''}
-    else if(c==='\n'){r.push(f.replace(/\r$/,''));out.push(r);r=[];f=''}
-    else f+=c;
-  }
-  if(f||r.length){r.push(f.replace(/\r$/,''));out.push(r)}
-  const h=out.shift()||[];
-  return out.filter(x=>x.some(Boolean)).map(x=>Object.fromEntries(h.map((k,i)=>[k,(x[i]||'').trim()])));
-}
-
-function group(rows){
-  const m=new Map();
-  for(const x of rows){
-    if(!x.Builder||!x.Pedal)continue;
-    const key=x.Builder+'\u0000'+x.Pedal;
-    if(!m.has(key))m.set(key,{company:x.Builder,pedal:x.Pedal,types:new Set});
-    if(x.Type)m.get(key).types.add(x.Type);
-  }
-  return [...m.values()].map(x=>({...x,types:[...x.types].sort()}));
-}
-
-function esc(x){
-  return String(x).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'","&#039;");
 }
 
 function renderMarkdown(md){
   const lines=md.split(/\r?\n/);
-  const hidden=new Set(['research confidence','photo','sources checked']);
+  const hidden=new Set(['research confidence','photo','sources checked','prp identity']);
   let html='',inList=false,skip=false;
   const inline=s=>esc(s)
     .replace(/\s*\[\d+\]/g,'')
@@ -222,66 +234,140 @@ function renderMarkdown(md){
   }
   if(inList)html+='</ul>';
   return html;
-}const params=new URLSearchParams(location.search);
-const wantedBuilder=params.get('builder')||'';
-const wantedPedal=params.get('pedal')||'';
+}
+
+function showPhoto(item,label){
+  const box=$('photoBox');
+  const fallbackLabel=label?'No Photo Archived · '+label:'No Photo Archived';
+  if(item && item.image){
+    box.innerHTML='<img src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" style="width:100%;height:100%;object-fit:contain;border-radius:12px" referrerpolicy="no-referrer" onerror="this.remove();document.getElementById(\'photoBox\').innerHTML=\'<span>\'+\''+fallbackLabel.replaceAll("'","&#039;")+\'</span>\'">';
+    box.style.padding='10px';
+  }else{
+    box.innerHTML='<span>'+esc(fallbackLabel)+'</span>';
+    box.style.padding='20px';
+  }
+}
+
+function renderColorways(item, colorways){
+  if(!colorways.length){$('colorwaysSection').hidden=true;return}
+  $('colorwaysSection').hidden=false;
+  $('colorways').innerHTML=colorways.map((v,i)=>{
+    const name=v.variation_name||v.pedal||('Variation '+(i+1));
+    const media=v.image
+      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+name)+'" loading="lazy" referrerpolicy="no-referrer">'
+      : '<span>No Photo Archived</span>';
+    return '<button class="colorwayCard" type="button" data-variation="'+esc(name)+'">'+
+      '<span class="colorwayThumb">'+media+'</span><span class="colorwayName">'+esc(name)+'</span>'+
+    '</button>';
+  }).join('');
+  const buttons=[...document.querySelectorAll('[data-variation]')];
+  buttons.forEach(btn=>{
+    btn.onclick=()=>{
+      const name=btn.dataset.variation;
+      const v=colorways.find(x=>(x.variation_name||x.pedal)===name);
+      showPhoto(v||item,name);
+      wantedVariation=name;
+      buttons.forEach(b=>b.style.outline='');
+      btn.style.outline='2px solid #111';
+    };
+  });
+  if(wantedVariation){
+    const active=buttons.find(b=>b.dataset.variation===wantedVariation);
+    if(active)active.click();
+  }
+}
+
+function renderVersions(item, versions){
+  if(!versions.length){$('versionsSection').hidden=true;return}
+  $('versionsSection').hidden=false;
+  $('versions').innerHTML=versions.map(v=>{
+    const label=v.version_label||v.pedal;
+    const media=v.image
+      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+label)+'" loading="lazy" referrerpolicy="no-referrer">'
+      : '<span>No Photo Archived</span>';
+    return '<a class="variantCard" href="'+detailUrl(v)+'">'+
+      '<span class="variantThumb">'+media+'</span><span class="variantName">'+esc(label)+'</span>'+
+    '</a>';
+  }).join('');
+}
+
+function renderDemo(item){
+  const demo=item.youtube_demo;
+  if(!demo || !demo.url){$('demoSection').hidden=true;return}
+  $('demoSection').hidden=false;
+  $('demo').innerHTML='<span>'+esc(demo.title||'Best representative demo')+'</span>'+
+    '<a class="action primary" href="'+esc(demo.url)+'" target="_blank" rel="noopener">Watch demo ↗</a>';
+}
 
 fetch(DATA_INDEX,{cache:'no-store'})
-.then(r=>{
-  if(!r.ok)throw Error(r.status);
-  return r.json();
-})
+.then(r=>{if(!r.ok)throw Error(r.status);return r.json()})
 .then(data=>{
-  const items=data.pedals||[];
-  renderPageNav(items);
-  const item=items.find(x=>x.company===wantedBuilder&&x.pedal===wantedPedal);
-  const imageRecord=item||null;
-  if(!item){
+  const allItems=data.pedals||[];
+  renderPageNav(allItems);
+
+  let requested=allItems.find(x=>x.company===wantedBuilder&&x.pedal===wantedPedal);
+  if(!requested){
     document.title='Pedal not found · The Dirt Archive';
-    document.getElementById('empty').hidden=false;
+    $('empty').hidden=false;
     return;
   }
 
-  document.title=item.pedal+' · The Dirt Archive';
-  document.getElementById('record').hidden=false;
-  document.getElementById('crumb').textContent=item.company;
-  document.getElementById('name').textContent=item.pedal;
-  document.getElementById('builder').textContent='The Dirt Archive pedal record';
-  document.getElementById('types').innerHTML=item.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('');
-
-  const imageBox=document.querySelector('.photo');
-  const fallback=document.getElementById('photoFallback');
-  if(imageRecord && imageRecord.image){
-    imageBox.innerHTML='<img src="'+esc(imageRecord.image)+'" alt="'+esc(item.company+' '+item.pedal)+' pedal" style="width:100%;height:100%;object-fit:contain;border-radius:12px" referrerpolicy="no-referrer" onerror="this.remove();document.getElementById(\'photoFallback\').hidden=false">';
-    imageBox.style.padding='10px';
-    const source=document.getElementById('photoSource');
-    source.href=imageRecord.source_page||'#';
-    source.hidden=!imageRecord.source_page;
-  }else{
-    fallback.hidden=false;
+  let item=requested;
+  let redirectedFromVariation=false;
+  if(requested.catalog_role==='variation' && requested.parent_pedal){
+    const parent=allItems.find(x=>x.company===requested.company&&x.pedal===requested.parent_pedal&&isCatalogEntry(x));
+    if(parent){
+      item=parent;
+      wantedVariation=requested.variation_name||requested.pedal;
+      redirectedFromVariation=true;
+      const u=new URL(location.href);
+      u.searchParams.set('builder',item.company);
+      u.searchParams.set('pedal',item.pedal);
+      if(wantedVariation)u.searchParams.set('variation',wantedVariation);
+      history.replaceState({},'',u.href);
+    }
   }
 
-  const researchEl=document.getElementById('research');
+  document.title=item.pedal+' · The Dirt Archive';
+  $('record').hidden=false;
+  $('crumb').textContent=item.company;
+  $('name').textContent=item.pedal;
+  $('builder').textContent='The Dirt Archive pedal record';
+  $('types').innerHTML=(item.types||[]).map(t=>'<span class="chip">'+esc(t)+'</span>').join('');
+  showPhoto(item);
+
+  const colorways=allItems.filter(x=>x.catalog_role==='variation'&&x.company===item.company&&x.parent_pedal===item.pedal);
+  const versions=allItems.filter(x=>isCatalogEntry(x)&&x.version_of===entryKey(item));
+
+  if(redirectedFromVariation){
+    $('variationNotice').hidden=false;
+    $('variationNotice').textContent='Showing '+wantedVariation+' as a variation of '+item.pedal+'.';
+  }
+
+  renderColorways(item,colorways);
+  renderVersions(item,versions);
+  renderDemo(item);
+
+  const researchEl=$('research');
   if(item.research_record){
     fetch(item.research_record,{cache:'no-store'})
       .then(r=>{if(!r.ok)throw Error(r.status);return r.text()})
       .then(md=>{researchEl.innerHTML=renderMarkdown(md)})
-      .catch(e=>{
-        researchEl.innerHTML='<p>PRP record could not be loaded.</p>';
-        console.error(e);
-      });
+      .catch(e=>{researchEl.innerHTML='<p>Pedal information could not be loaded.</p>';console.error(e)})
   }else{
-    researchEl.innerHTML='<p>PRP research has not been added for this pedal yet.</p>';
+    researchEl.innerHTML='<p>Pedal information has not been added yet.</p>';
   }
 
   const link=new URL('./index.html',location.href);
   link.searchParams.set('builder',item.company);
-  document.getElementById('builderLink').href=link.href;
-}).catch(e=>{
-  document.getElementById('empty').hidden=false;
-  document.getElementById('empty').querySelector('p').textContent='The catalog data could not be loaded.';
+  $('builderLink').href=link.href;
+})
+.catch(e=>{
+  $('empty').hidden=false;
+  $('empty').querySelector('p').textContent='The catalog data could not be loaded.';
   console.error(e);
 });
+</script>
 </script>
 </body>
 </html>
