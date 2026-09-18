@@ -97,11 +97,11 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 205
+- Pedals with research information: 215
 - Pedals with confirmed pictures: 155
 - Fully complete PRP pedals: 155
 - Remaining incomplete pedals: 3666
-- Researched but waiting only for a confirmed picture: 50
+- Researched but waiting only for a confirmed picture: 60
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **AGR Pedals - FZR912 - Muff Fuzz Deluxe**
 
@@ -362,3 +362,8 @@ The next exact-order unresolved target is **AGR Pedals - FZR912 - Muff Fuzz Delu
 ## PRP1 consistency repair after batch 024
 
 The existing **Barber Electronics - Small Fry** research record introduced by a concurrent repository update was reconciled into the canonical PRP data layer. Its research record is now linked from **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Because the exact Small Fry image was not separately archived under this catalog identity, the picture remains **NEEDED** and no photo was inferred from the Burn Unit alias.
+
+
+## PRP1 consistency repair after batch 024
+
+The Barber Electronics research records added by the concurrent **PRP1 batch 021** work were reconciled into the canonical data layer so the deployment verifier can see every research file. Ten additional Barber records were linked across **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Their Pedal Info status is now **DONE**; their pictures remain **NEEDED** until an exact-model image is independently verified. This repair does not change the PRP work-order checkpoint, which remains **AGR Pedals - FZR912 - Muff Fuzz Deluxe**.

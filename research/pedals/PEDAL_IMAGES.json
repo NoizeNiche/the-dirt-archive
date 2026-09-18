@@ -1556,5 +1556,75 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/barber/smallfry",
     "research_record": "./research/pedals/Barber Electronics/Small Fry.md"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "Exacta",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Barber Electronics/Exacta.md"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "FWW BUSS",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Barber Electronics/FWW BUSS.md"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "FWW BUSS HG",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Barber Electronics/FWW BUSS HG.md"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "FWW Plus",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Barber Electronics/FWW Plus.md"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "Gain Changer SR",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Barber Electronics/Gain Changer SR.md"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "LTD SR",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Barber Electronics/LTD SR.md"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "LTD v2",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Barber Electronics/LTD v2.md"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "Midnight Standard",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Barber Electronics/Midnight Standard.md"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "Pepsiman",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Barber Electronics/Pepsiman.md"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "Small Fry Burn Unit",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Barber Electronics/Small Fry Burn Unit.md"
   }
 ]
