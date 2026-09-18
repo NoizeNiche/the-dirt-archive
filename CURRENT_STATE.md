@@ -92,8 +92,12 @@ Research is being done **one pedal at a time**. Each researched pedal receives a
 - a concise 2–3 sentence sound description
 - research confidence and source notes
 
-The first research record is:
-- `research/pedals/Amptweaker/Bass_BluesFuzz.md`
+The research phase currently contains **64 completed pedal research records**.
+
+The latest completed PRP record is:
+- `research/pedals/Basic Audio/Alter-Destiny.md`
+
+The research run has already covered the catalog sequence through Barber Electronics and has now begun Basic Audio. Alter-Destiny was researched with colorway/version review, factory-vs-DIY component separation, sound notes, confidence notes, and an exact-pedal photograph.
 
 Important: the archive's catalog name **Bass BluesFuzz** is retained. Current sources identify the surviving bass model as **Bass BluesFuzz Jr.**, so the research record documents that identity relationship rather than silently changing the catalog.
 
