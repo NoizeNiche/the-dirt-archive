@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **395 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **436 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **178 block files** are currently present: Blocks 001-069, 071-141, and 143-180.
+- **399 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **440 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **179 block files** are currently present: Blocks 001-069, 071-141, and 143-181.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 395 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 399 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -421,6 +421,10 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 393 | Copper Gear | 180 | CopperGear |
 | 394 | CostaLab | 180 | CostaLab |
 | 395 | Charlie Paolo Custom Effects | 180 |  |
+| 396 | Ciclar | 181 |  |
+| 397 | Claybridge Sound Systems / Claybridge Audio | 181 | Claybridge Sound Systems / Claybridge / Claybridge Audio |
+| 398 | Clark Amplification | 181 | Clark |
+| 399 | Compulsive Audio | 181 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
