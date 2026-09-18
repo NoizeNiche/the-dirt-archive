@@ -7,6 +7,18 @@ The current active phase is deliberately narrower:
 
 **Builder → Pedals. THAT’S IT.**
 
+## Filter metadata boundary
+
+The website may eventually expose **component-type metadata as filters**, without expanding the archive into component-level documentation.
+
+Allowed filter metadata includes:
+- **Transistor Type** (for example, Germanium, Silicon, MOSFET, JFET)
+- **Diode Type** (for example, Germanium, Silicon, LED, Schottky)
+
+Do **not** turn these filters into component inventories. Do not catalog transistor or diode part numbers, schematics, component values, BOMs, or other circuit-level documentation as part of this filter feature.
+
+These fields are metadata used to narrow pedal results. The filter system should remain separate from the Builder → Pedal core identity.
+
 ## Current-phase scope
 Research and record only:
 - builder names
