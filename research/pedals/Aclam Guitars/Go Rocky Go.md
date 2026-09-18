@@ -40,3 +40,7 @@ The clean mode keeps the character of the Vox Conqueror preamp, while the distor
 ## Sources checked
 1. Aclam Guitars — Go Rocky Go: https://www.aclamguitars.com/store/go-rocky-go.html
 2. Aclam Guitars — Go Rocky Go White Album Edition: https://www.aclamguitars.com/go-rocky-go-white-album-edition
+## Photo
+- **Verified photo:** Aclam Go Rocky Go standard production model.
+- **Photo source:** Aclam Guitars official product page.
+- **Archive status:** **Exact model photo archived**
