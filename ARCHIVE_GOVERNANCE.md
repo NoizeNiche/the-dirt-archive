@@ -82,6 +82,25 @@ Do not silently invent a design decision just to keep moving. If a foreseeable a
 
 When the user has explicitly answered a design decision, treat that answer as the source of truth and record the resulting decision in the project documentation when it affects the site's architecture.
 
+## Pedal Research Phase foundation
+
+After the Builder → Pedals census is complete through Z, the project enters a separate **Pedal Research Phase**.
+
+This phase is deliberately **one pedal at a time**. Every cataloged pedal gets its own research pass and its own documented record.
+
+The foundational research fields are:
+- **Colorways**: documented color/finish variants where meaningful
+- **Versions**: distinct named or documented versions/revisions
+- **Version changes**: what changed between versions, when the evidence supports it
+- **Transistor type**: the transistor technology/type used, without turning the archive into a component inventory
+- **Diode type**: the diode technology/type used, without turning the archive into a component inventory
+- **Sound description**: a concise **2–3 sentence** description of the pedal's audible character, based on documented product information and/or reliable listening references
+
+The purpose is to turn each basic catalog entry into a useful pedal reference page while preserving the core archive structure:
+**Builder → Pedal → Pedal Info → Photo**.
+
+The Pedal Research Phase may add research metadata to existing pedal records, but it does not replace the canonical builder/pedal census or retroactively change the active A → Z census mission.
+
 ## Faceted filter design
 
 The left-hand archive navigation is intended to work as a **progressive, faceted filter system** rather than a single-choice menu.
