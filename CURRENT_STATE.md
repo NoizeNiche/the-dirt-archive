@@ -331,3 +331,10 @@ Batch 019 processed the next 10 incomplete PRP1 records in exact catalog order, 
 ## PRP1 batch 020 checkpoint
 
 Batch 020 processed the next 10 incomplete PRP1 records in exact catalog order, from Adventure Audio - Demogorgon Fuzz through Aguilar - Fuzzistor - Bass Fuzz. Four new research records were added for AGR Pedals FZR912 - Muff Fuzz Deluxe, AGR Pedals OD85 - Full Range Overdrive, Aguilar Agro - Bass Overdrive, and Aguilar Fuzzistor - Bass Fuzz. An exact original-model photo was recovered and synchronized for Aguilar Fuzzistor. The AGRO V2 image was deliberately not attached to the base AGRO record.
+
+
+## PRP1 batch 021 checkpoint
+
+Batch 021 audited the next 10 incomplete PRP1 records in exact website order, from **A.Y.A - Bass Fuzz** through **Accel Audio - OD-SS Express Overdrive**. All ten already had Pedal Info research records. The photo-recovery pass rechecked exact-model evidence across the full batch, including current/historical visual references for A.Y.A Bass Fuzz, A&M Custom Effects, AboveGroundFX, Absolutely Analog, AC Efectos, and Accel Audio. No new direct image asset met the archive's exact-photo standard, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. No substitute, inferred image, or guessed image URL was promoted.
+
+The next exact-order unresolved target is **Accel Audio - Stompzilla Fuzz**.
