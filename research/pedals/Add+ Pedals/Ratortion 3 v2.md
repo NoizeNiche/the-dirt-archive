@@ -46,5 +46,7 @@ Ratortion 3 v2 spans lower-gain overdrive through heavier distortion and can mov
 2. Add+ Pedals official Ratortion page: https://addpluspedals.com/ratortion.php
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database page above contains an exact-model photo and links to the official Add+ Ratortion 3 v2 page, but a direct image asset was not safely archived during this pass.
+- **Archive status:** **Photo Archived**
+- **Exact-model source:** https://addpluspedals.com/ratortion.php
+- **Image asset:** https://addpluspedals.com/assets/images/ratortion3v2.jpg
+- **Image match:** Official Add+ Pedals image showing the Ratortion 3 V2 enclosure and control layout.
