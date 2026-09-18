@@ -45,7 +45,7 @@ The core use case is a visitor remembering incomplete information about a pedal 
 
 After the Builder → Pedals census is complete through Z, the project enters a separate **Pedal Research Phase**.
 
-This phase is deliberately **one pedal at a time**. Every cataloged pedal gets its own research pass and its own documented record.
+Research is still documented **one pedal at a time**, with every pedal receiving its own research record, but the work is collected and verified in **batches of 10 pedals (or as many as can be responsibly completed in a pass)** before publishing.
 
 The foundational research fields are:
 - **Colorways**: documented color/finish variants where meaningful
@@ -92,18 +92,18 @@ Research is being done **one pedal at a time**. Each researched pedal receives a
 - a concise 2–3 sentence sound description
 - research confidence and source notes
 
-The research phase currently contains **64 completed pedal research records**.
+The research phase currently contains **74 completed pedal research records**.
 
 The latest completed PRP record is:
-- `research/pedals/Basic Audio/Alter-Destiny.md`
+- `research/pedals/Basic Audio/Fuzz Mutant.md`
 
-The research run has already covered the catalog sequence through Barber Electronics and has now begun Basic Audio. Alter-Destiny was researched with colorway/version review, factory-vs-DIY component separation, sound notes, confidence notes, and an exact-pedal photograph.
+The current PRP run has covered Basic Audio from Alter-Destiny through Fuzz Mutant. This batch added 10 dedicated research records, exact pedal photographs, colorway/version notes where evidence supported them, factory-vs-DIY component separation, sound notes, and confidence notes.
 
 Important: the archive's catalog name **Bass BluesFuzz** is retained. Current sources identify the surviving bass model as **Bass BluesFuzz Jr.**, so the research record documents that identity relationship rather than silently changing the catalog.
 
 ## Final builder discovery checkpoint
 
-Blocks 219-224 comprise the final A-Z sweep plus five deeper discovery passes. They added **84 builders in total after the original 502 checkpoint**, taking the canonical index to **586**, and added **259 company/pedal/type rows** to the active Scrape C layer. The one-pedal-at-a-time Pedal Research Phase can now resume.
+Blocks 219-224 comprise the final A-Z sweep plus five deeper discovery passes. They added **84 builders in total after the original 502 checkpoint**, taking the canonical index to **586**, and added **259 company/pedal/type rows** to the active Scrape C layer. The Pedal Research Phase can now continue in verified 10-pedal batches.
 
 ## Website
 `index.html` is now the actual catalog page, not an under-construction placeholder.
@@ -156,4 +156,4 @@ That benchmark means:
 Every **Scrape** or **Continue** command means a full bulk haul of **at least 10 distinct companies/builders**, with as many qualifying dirt-pedal rows as practical. Continue from the saved alphabetic checkpoint, deduplicate against the canonical builder index and active scrape census, update the live scrape data and durable checkpoints, and keep moving until Z. Ten companies is a hard minimum, not a stopping target.
 
 ## Next action
-The final A-Z sweep and five deep discovery passes are checkpointed through **Dive 224**. Resume the planned one-pedal-at-a-time **Pedal Research Phase**, beginning with the next unique pedal after the existing Amptweaker research record.
+The next PRP target begins with **Basic Audio — Fuzz Right**, followed by the next nine unresearched pedals in catalog order, unless the batch reaches a builder boundary sooner.
