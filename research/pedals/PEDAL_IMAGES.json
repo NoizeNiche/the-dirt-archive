@@ -2,9 +2,10 @@
   {
     "builder": "1981 Inventions",
     "pedal": "DRV",
-    "image": null,
+    "image": "https://www.cottonwoodmusicemporium.com/cdn/shop/files/medium_510fd0b7-2032-4d08-b8ac-404e919b0b8d_5000x.jpg?v=1765303337",
     "source_page": "https://1981inventions.com/collections/drv",
-    "research_record": "./research/pedals/1981 Inventions/DRV.md"
+    "research_record": "./research/pedals/1981 Inventions/DRV.md",
+    "image_source_page": "https://www.cottonwoodmusicemporium.com/products/1981-inventions-drv-black-pink"
   },
   {
     "builder": "1981 Inventions",
@@ -55,9 +56,10 @@
   {
     "builder": "1981 Inventions",
     "pedal": "LVL",
-    "image": null,
+    "image": "https://rvb-img.reverb.com/i/s--G4-8Vm_q--/quality%3Dmedium-low%2Cheight%3D128%2Cwidth%3D128%2Cfit%3Dcover%2Cgravity%3Dbottom%2Ctrim.top%3D487%2Ctrim.left%3D0%2Ctrim.width%3D2803%2Ctrim.height%3D2802/a5ff13a8-98b7-45ec-a407-646cd7618c27.jpg",
     "source_page": "https://1981inventions.com/products/forget-lvl",
-    "research_record": "./research/pedals/1981 Inventions/LVL.md"
+    "research_record": "./research/pedals/1981 Inventions/LVL.md",
+    "image_source_page": "https://reverb.com/"
   },
   {
     "builder": "6 Degrees FX",
@@ -178,18 +180,20 @@
   {
     "builder": "ABL Pedals",
     "pedal": "The Szczur",
-    "image": null,
+    "image": "https://files.effectsdatabase.com/gear/thumbs/abl_szczur_001.jpg",
     "source": null,
     "source_page": "https://www.ablpedals.com/pedals/p/the-szczur",
-    "research_record": "./research/pedals/ABL Pedals/The Szczur.md"
+    "research_record": "./research/pedals/ABL Pedals/The Szczur.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/abl/szczur"
   },
   {
     "builder": "ABL Pedals",
     "pedal": "The Toor",
-    "image": null,
+    "image": "https://images.squarespace-cdn.com/content/v1/619cc4f7fcf654494fb46708/5ffc73aa-b5e1-4c9f-bf9b-b9ea8a9839f6/Toor%2Bon%2Bbench%2Bedit.jpg",
     "source": null,
     "source_page": "https://www.ablpedals.com/",
-    "research_record": "./research/pedals/ABL Pedals/The Toor.md"
+    "research_record": "./research/pedals/ABL Pedals/The Toor.md",
+    "image_source_page": "https://www.ablpedals.com/pedals/p/the-toor"
   },
   {
     "builder": "Abominable Electronics",
