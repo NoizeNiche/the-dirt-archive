@@ -202,7 +202,7 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 - Remaining incomplete pedals: 3667
 - Researched but waiting only for a confirmed picture: 48
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **Accel Audio - Stompzilla Fuzz**
+- Current PRP1 target: **Add+ Pedals - Super Drive 2**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -262,3 +262,10 @@ The next exact-order unresolved target remains **Add+ Pedals - Super Drive**.
 Batch 021 audited the next 10 incomplete PRP1 records in exact website order, from **A.Y.A - Bass Fuzz** through **Accel Audio - OD-SS Express Overdrive**. All ten already had Pedal Info research records. The photo-recovery pass rechecked exact-model evidence across the full batch. No new direct image asset met the archive's exact-photo standard, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. No substitute, inferred image, or guessed image URL was promoted.
 
 The next exact-order unresolved target is **Accel Audio - Stompzilla Fuzz**.
+
+
+## PRP1 batch 022 checkpoint
+
+Batch 022 audited the next 10 incomplete PRP1 records in exact website order, from **Accel Audio - Stompzilla Fuzz** through **Add+ Pedals - Super Drive**. All ten have Pedal Info research records. Exact-model photo evidence was rechecked across the batch, including the surviving Effects Database catalog evidence for the Add+ Pedals models. No new direct image asset met the archive's exact-photo standard, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. No substitute, inferred image, or guessed image URL was promoted.
+
+The next exact-order unresolved target is **Add+ Pedals - Super Drive 2**.
