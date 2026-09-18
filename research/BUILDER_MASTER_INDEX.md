@@ -6,11 +6,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **492 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-212.
+- **493 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-213.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder table is reconciled through **ID 492 / Block 212**.
+- The current builder table is reconciled through **ID 493 / Block 213**.
 
 ## Rules
 
@@ -512,6 +512,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 485 | Color Audio | 205 |  |
 | 486 | Coura | 205 |  |
 | 487 | Cherry Music | 206 |  |
+| 488 | Canvas Analog Devices | 210 |  |
+| 489 | Carmedon Electronics | 210 |  |
+| 490 | Cortez | 211 | Historical branded/OEM |
+| 491 | CrazyTone | 211 | Historical branded/OEM |
+| 492 | C.Q.O. | 212 | Historical branded/OEM |
+| 493 | Circle Of Tone | 213 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
@@ -551,11 +557,3 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 ## Immediate next-work rule
 
 Do not use a new builder number merely because a new research block is created. Before adding a builder, cross-reference the canonical builder list above. Existing builders get missing pedal records added to their existing canonical identity. New builders receive the next unused canonical builder number.
-
-| 488 | Canvas Analog Devices | 210 |  |
-| 489 | Carmedon Electronics | 210 |  |
-
-| 490 | Cortez | 211 | Historical branded/OEM |
-| 491 | CrazyTone | 211 | Historical branded/OEM |
-
-| 492 | C.Q.O. | 212 | Historical branded/OEM |
