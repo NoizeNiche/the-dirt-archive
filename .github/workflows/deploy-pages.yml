@@ -83,11 +83,15 @@ jobs:
               rel = "./" + path.as_posix()
               assert rel in manifest_records, f"Unlinked PRP research record: {rel}"
 
+          import csv
+
           tracker_path = Path("research/PRP_TRACKER.csv")
-          tracker_lines = [x for x in tracker_path.read_text().splitlines()[1:] if x.strip()]
-          assert len(tracker_lines) == len(pedals), "PRP tracker row count does not match pedal index"
-          tracker_pairs = [tuple(x.strip().strip('"') for x in line.split(",")[:2]) for line in tracker_lines]
+          with tracker_path.open(newline="", encoding="utf-8") as handle:
+              tracker_rows = list(csv.DictReader(handle))
+          assert len(tracker_rows) == len(pedals), "PRP tracker row count does not match pedal index"
+          tracker_pairs = [(x.get("Builder"), x.get("Pedal")) for x in tracker_rows]
           assert len(tracker_pairs) == len(set(tracker_pairs)), "Duplicate Builder + Pedal entries in PRP tracker"
+          assert set(tracker_pairs) == set(catalog_keys), "PRP tracker and pedal index Builder + Pedal identities disagree"
 
           assert "No Photo Archived" in Path("index.html").read_text()
           assert "PEDAL_INDEX.json" in Path("index.html").read_text()
