@@ -46,10 +46,10 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 ## Current PRP checkpoint
 - **3,821** unique pedals
 - **172** have pedal information researched
-- **140** have confirmed pictures
-- **140** are fully complete
-- **3,681** remain incomplete
-- **31** are researched but currently waiting only for a confirmed picture
+- **141** have confirmed pictures
+- **141** are fully complete
+- **3,680** remain incomplete
+- **30** are researched but currently waiting only for a confirmed picture
 - **PRP status:** Active, PRP1 photo-recovery pass
 - **Current PRP1 target:** A.Y.A - Bass Fuzz
 - PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
@@ -131,3 +131,9 @@ The next exact-order unresolved target is **Add+ Pedals - Ratortion 3 v2**.
 ## PRP1 batch 010 checkpoint
 Batch 010 worked the next ten exact-order PRP1 records from **A Sound Of Failure - Death Driver** through **AC Efectos - Triplex Distortion**. An exact Effects Database photograph was confirmed and archived for **Death Driver**, moving that pedal to fully complete. The remaining nine records in this photo-recovery window remain incomplete where no safe direct exact-model image asset was confirmed.
 The next exact-order unresolved target is **A.Y.A - Bass Fuzz**.
+
+
+## PRP1 batch 011 checkpoint
+Batch 011 expanded the photo-recovery sweep through the next 20 unresolved catalog records, from **A.Y.A - Bass Fuzz** through **Add+ Pedals - Ratortion 2**. An exact direct image asset was confirmed for **AC Noises - Urla** from Stars Music and connected to the research record, photo manifest, public index, and tracker. **A.Y.A - Bass Fuzz** received stronger historical and exact-model visual evidence, but no direct image asset was safely archived, so it remains photo-pending.
+The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
+
