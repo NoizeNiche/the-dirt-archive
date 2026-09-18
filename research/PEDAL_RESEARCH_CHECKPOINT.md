@@ -50,6 +50,24 @@ PRP should continue asking project-level questions when an unresolved taxonomy o
    - No verified numbered factory revision or additional factory MOD found in this pass.
    - Transistor and diode types remain unknown pending Bass TightDrive Jr.-specific technical evidence.
 
+## Approved PRP pedal-page template
+
+The Bass TightDrive Jr. detail-page layout is the approved visual template for **every researched parent pedal** on The Dirt Archive.
+
+Each parent pedal page should preserve this structure:
+- builder name / breadcrumb at the top
+- large parent pedal name
+- dirt type
+- a substantial **PRP research / Pedal Info** area containing the documented information for that exact parent pedal
+- a dedicated **Photo** area displaying the verified photograph for that parent pedal
+- source link for the photograph
+- clear links back to the builder's pedals and the full archive
+- documented versions / factory variations presented within the parent record rather than creating unnecessary duplicate parent cards
+
+The content changes from pedal to pedal; the page structure and visual treatment do not. Cosmetic differences alone must never force a new parent-page design or parent record.
+
+When a parent pedal has documented V1/V2/etc. versions, those versions should be readable from the parent record and linked as appropriate while remaining subordinate to the parent pedal unless the evidence establishes that the later product is a genuinely separate pedal.
+
 ## PRP image and live-site rule
 
 Every parent pedal researched during PRP must also receive a verified pedal photograph suitable for the catalog card. The image is attached to the **parent pedal**, not separately to every cosmetic variant, unless a later documented version has a materially different identity that warrants its own parent record.
