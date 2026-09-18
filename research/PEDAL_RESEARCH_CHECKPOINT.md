@@ -3,7 +3,7 @@
 ## Status
 **Phase:** Pedal Research Phase underway  
 **Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
-**Research progress:** 3 pedals researched; five builder discovery dives completed
+**Research progress:** 13 pedals researched; five builder discovery dives completed
 
 ## Completed
 1. **Amptweaker — Bass BluesFuzz**
@@ -96,6 +96,48 @@ Do not use AI-generated pedal images as documentary photographs. Do not substitu
 For each researched parent pedal, the PRP image record must retain the image URL, source page, and research-record path.
 
 Every completed PRP information update must be pushed to the live site's source immediately. The intended unit of work is: **research record + image record + website update + checkpoint**, so the public site stays synchronized as the research advances rather than waiting for a later batch.
+
+4. **Amptweaker — Bass TightFuzz**
+   - Research record: `research/pedals/Amptweaker/Bass_TightFuzz.md`
+   - Bass-specific TightFuzz with lower-frequency Tone/Tight/Edge response, Dry Low, Germanium/Silicon selection, auto-bias, and factory effects loop.
+   - No separate numbered factory revision verified.
+
+5. **Amptweaker — Bass TightFuzz Jr**
+   - Research record: `research/pedals/Amptweaker/Bass_TightFuzz_Jr.md`
+   - Separate 2017 JR parent with Dry Low, Germanium/Silicon, Fat/Normal/Tight, and 60s/70s/Now controls.
+   - No separate numbered factory revision verified.
+
+6. **Amptweaker — Bass TightMetal Jr**
+   - Research record: `research/pedals/Amptweaker/Bass_TightMetal_Jr.md`
+   - 2016 bass JR high-gain distortion with Dry Low, Fat/Normal/Tight, Thrash/Normal/Smooth, and adjustable gate.
+
+7. **Amptweaker — Bass TightRock Jr**
+   - Research record: `research/pedals/Amptweaker/Bass_TightRock_Jr.md`
+   - 2016 bass JR rock distortion with Dry Low, bass-shifted Tone/Tight, Fat/Normal/Tight, and Plexi/Normal/Smooth.
+
+8. **Amptweaker — Big Rock Pro**
+   - Research record: `research/pedals/Amptweaker/Big_Rock_Pro.md`
+   - Full-size Pro rock dirt pedal with dual boost staging, three-band EQ, multiple loops, Mid Boost, Fat controls, and gate.
+
+9. **Amptweaker — Big Rock Pro II**
+   - Research record: `research/pedals/Amptweaker/Big_Rock_Pro_II.md`
+   - Separate later Pro platform with Depth Finder, DeFizzerator, cab simulation, DI, headphone output, and expanded routing.
+
+10. **Amptweaker — BluesFuzz**
+   - Research record: `research/pedals/Amptweaker/BluesFuzz.md`
+   - 49-unit limited BluesFuzz with low-gain germanium output transistor and builder-installed Boost Switch MOD.
+
+11. **Amptweaker — BluesFuzz Jr**
+   - Research record: `research/pedals/Amptweaker/BluesFuzz_Jr.md`
+   - 2017 JR descendant with low-gain germanium, Mid, Boost, and compact JR format.
+
+12. **Amptweaker — Fat Metal**
+   - Research record: `research/pedals/Amptweaker/Fat_Metal.md`
+   - Warmer, thicker high-gain sibling to TightMetal with Black Gain, Thrash, SideTrak, and retuned gate.
+
+13. **Amptweaker — Fat Metal Pro**
+   - Research record: `research/pedals/Amptweaker/Fat_Metal_Pro.md`
+   - Separate 2016 Pro platform with dual boost staging, expanded EQ, three loops, Black Gain, and Chomp/gate functions.
 
 ## Research order
 Proceed through the catalog one pedal at a time. Use the canonical catalog entry as the identity anchor, preserve the archive's existing builder/pedal names, and document aliases or version relationships inside the research record rather than silently renaming catalog data.
