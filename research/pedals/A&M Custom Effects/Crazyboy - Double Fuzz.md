@@ -41,3 +41,8 @@ CrazyBoy gives two contrasting fuzz responses in one box. The Germanium side is 
 
 ## Sources checked
 1. Effects Database — A&M Custom Effects Crazyboy - Double Fuzz: https://www.effectsdatabase.com/model/am/crazyboy
+
+## Photo
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** https://www.effectsdatabase.com/model/am/crazyboy
+- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
