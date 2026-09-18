@@ -425,6 +425,14 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 397 | Claybridge Sound Systems / Claybridge Audio | 181 | Claybridge Sound Systems / Claybridge / Claybridge Audio |
 | 398 | Clark Amplification | 181 | Clark |
 | 399 | Compulsive Audio | 181 |  |
+| 400 | Conrad | 182 |  |
+| 401 | Coolmusic | 182 |  |
+| 402 | Coolpedals | 182 |  |
+| 403 | Cordovox | 182 |  |
+| 404 | Coron | 182 |  |
+| 405 | Cosmic Sound FX | 182 |  |
+| 406 | Cosmodio Instruments | 182 |  |
+| 407 | Cosmosound | 182 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
