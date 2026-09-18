@@ -140,6 +140,86 @@
     "research_record": "./research/pedals/A&M Custom Effects/Crazyboy - Double Fuzz.md"
   },
   {
+    "builder": "A&M Custom Effects",
+    "pedal": "Metal Maniac - Mega Distortion",
+    "image": null,
+    "source": null,
+    "source_page": "https://www.effectsdatabase.com/model/am/metalmaniac",
+    "research_record": "./research/pedals/A&M Custom Effects/Metal Maniac - Mega Distortion.md"
+  },
+  {
+    "builder": "A&M Custom Effects",
+    "pedal": "Twin Pro - Overdrive",
+    "image": null,
+    "source": null,
+    "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
+    "research_record": "./research/pedals/A&M Custom Effects/Twin Pro - Overdrive.md"
+  },
+  {
+    "builder": "Abasi Concepts",
+    "pedal": "Pathos Distortion",
+    "image": null,
+    "source": null,
+    "source_page": "https://abasiconcepts.com/en-sg/products/pathos",
+    "research_record": "./research/pedals/Abasi Concepts/Pathos Distortion.md"
+  },
+  {
+    "builder": "AbbyTone",
+    "pedal": "Screwed Driver",
+    "image": null,
+    "source": null,
+    "source_page": "https://www.effectsdatabase.com/model/abbytone/screweddriver",
+    "research_record": "./research/pedals/AbbyTone/Screwed Driver.md"
+  },
+  {
+    "builder": "ABL Pedals",
+    "pedal": "The Szczur",
+    "image": null,
+    "source": null,
+    "source_page": "https://www.ablpedals.com/pedals/p/the-szczur",
+    "research_record": "./research/pedals/ABL Pedals/The Szczur.md"
+  },
+  {
+    "builder": "ABL Pedals",
+    "pedal": "The Toor",
+    "image": null,
+    "source": null,
+    "source_page": "https://www.ablpedals.com/",
+    "research_record": "./research/pedals/ABL Pedals/The Toor.md"
+  },
+  {
+    "builder": "Abominable Electronics",
+    "pedal": "Cat Dirt Mini - Killer Acid Artwork",
+    "image": null,
+    "source": null,
+    "source_page": "https://www.abominablepedals.com/collections/all",
+    "research_record": "./research/pedals/Abominable Electronics/Cat Dirt Mini - Killer Acid Artwork.md"
+  },
+  {
+    "builder": "Abominable Electronics",
+    "pedal": "Demon Lung",
+    "image": null,
+    "source": null,
+    "source_page": "https://www.abominablepedals.com/products/demon-lung-hyper-fuzz",
+    "research_record": "./research/pedals/Abominable Electronics/Demon Lung.md"
+  },
+  {
+    "builder": "Abominable Electronics",
+    "pedal": "Hail Satan",
+    "image": null,
+    "source": null,
+    "source_page": "https://www.effectsdatabase.com/model/abominable/hailsatan",
+    "research_record": "./research/pedals/Abominable Electronics/Hail Satan.md"
+  },
+  {
+    "builder": "Abominable Electronics",
+    "pedal": "Hail Satan Deluxe",
+    "image": null,
+    "source": null,
+    "source_page": "https://www.abominablepedals.com/products/hail-satan-deluxe",
+    "research_record": "./research/pedals/Abominable Electronics/Hail Satan Deluxe.md"
+  },
+  {
     "builder": "Amptweaker",
     "pedal": "Bass BluesFuzz Jr",
     "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_bluesfuzzjrmm.jpg",
