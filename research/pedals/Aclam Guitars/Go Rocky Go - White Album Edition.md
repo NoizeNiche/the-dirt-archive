@@ -42,3 +42,7 @@ Because Aclam states the circuit is unchanged, the White Album Edition has the s
 ## Sources checked
 1. Aclam Guitars — Go Rocky Go White Album Edition: https://www.aclamguitars.com/go-rocky-go-white-album-edition
 2. Aclam Guitars — Go Rocky Go: https://www.aclamguitars.com/store/go-rocky-go.html
+## Photo
+- **Verified photo:** Exact Aclam Go Rocky Go - White Album Edition.
+- **Photo source:** External retailer product image showing the named White Album Edition; Aclam's official product page was used to confirm the edition and its same-circuit relationship to Go Rocky Go.
+- **Archive status:** **Exact edition photo archived**
