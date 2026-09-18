@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-004",
+  "version": "2026-09-18-prp1-batch-005",
   "count": 3821,
   "pedals": [
     {
@@ -692,9 +692,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/5715508e-e8a1-45e7-a91b-e9aebf4fcdd0/Ep%252Bfuzz%252Bv2.jpg",
+      "source_page": "https://www.acornamps.com/gear/epstein",
+      "research_record": "./research/pedals/Acorn Amps/Epstein Didn't Kill Himself Fuzz.md"
     },
     {
       "company": "Acorn Amps",
@@ -702,9 +702,9 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/f583585f-0471-416d-ae33-f4bcdd7cec29/EIDlit.jpg",
+      "source_page": "https://www.acornamps.com/gear/epstein-isnt-dead-op-amp-boostdistortion",
+      "research_record": "./research/pedals/Acorn Amps/Epstein Isn't Dead Op-Amp Boost-Distortion.md"
     },
     {
       "company": "Acorn Amps",
@@ -712,9 +712,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/1700075944859-2PAW2Z6559A1JFTNRROG/newkakarotorangeLitcropped.jpg",
+      "source_page": "https://www.acornamps.com/gear/kakarot-fuzz",
+      "research_record": "./research/pedals/Acorn Amps/Kakarot Fuzz.md"
     },
     {
       "company": "Acorn Amps",
@@ -722,9 +722,9 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/1700076843823-RBFQCSQW91ITEYNV0OYR/newMKLitcropped.jpg",
+      "source_page": "https://www.acornamps.com/gear/mind-killer",
+      "research_record": "./research/pedals/Acorn Amps/Mind Killer Dual Distortion.md"
     },
     {
       "company": "Acorn Amps",
@@ -732,9 +732,9 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/1700078249997-HVJMGWWSR0LSF7UY7AU3/newSSDDcropped.jpg",
+      "source_page": "https://www.acornamps.com/gear/solid-state-amppreamp-pedal",
+      "research_record": "./research/pedals/Acorn Amps/Solid State Amp-Preamp.md"
     },
     {
       "company": "Acorn Amps",
@@ -742,9 +742,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/1700074166873-LK4LW5X6WBD5BM7QC435/newTMALitcropped.jpg",
+      "source_page": "https://www.acornamps.com/gear/tma-1-fuzz",
+      "research_record": "./research/pedals/Acorn Amps/TMA-1 Fuzz.md"
     },
     {
       "company": "Acorn Amps",
@@ -752,9 +752,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/2a5bc3b5-2cf3-49c3-b595-f8e1c2bef046/MagicEraser_231023_121308.jpg",
+      "source_page": "https://www.acornamps.com/gear/vegeta-drive",
+      "research_record": "./research/pedals/Acorn Amps/Vegeta Drive.md"
     },
     {
       "company": "Acoustic Imaginearing",
@@ -763,9 +763,9 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://rvb-img.reverb.com/i/s--_shxmvb0--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/yet9orua3ajy6iayqjni.jpg",
+      "source_page": "https://www.acousticimaginearing.com/",
+      "research_record": "./research/pedals/Acoustic Imaginearing/QuantumDrive.md"
     },
     {
       "company": "AD Pedals",
@@ -773,9 +773,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://files.effectsdatabase.com/gear/thumbs/adpedals_aerodynamic_001.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/adpedals/aerodynamic",
+      "research_record": "./research/pedals/AD Pedals/Aerodynamic overdrive.md"
     },
     {
       "company": "ADA Amps",
