@@ -45,4 +45,7 @@ Germanium mode is documented as producing a more fuzz-like response, while MOSFE
 3. Effects Database — Add+ 2011 weekly catalog listing: https://www.effectsdatabase.com/updates/weekly/20110404
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** **Photo Archived**
+- **Exact-model source:** https://reverb.com/en-cy/item/1423011-add-ratortion-3-overdrive-distortion
+- **Image asset:** https://rvb-img.reverb.com/image/upload/s---AWPd2wZ--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1449637705/wzg18csfwj7z7knsatuj.jpg
+- **Image match:** The Reverb listing identifies the pedal as **ADD+ Ratortion 3**, in a black finish. The archived image is the listing's first exact-model product photograph.
