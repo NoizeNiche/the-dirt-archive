@@ -38,5 +38,13 @@
     "source": "Sound House product image",
     "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255395/",
     "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz_Jr.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Bass TightMetal Jr",
+    "image": "https://www.musicstorelive.com/media/catalog/product/a/m/amptwkr-bass-tm-jr-1.jpg?bg-color=255%2C255%2C255&canvas=700%3A700&fit=bounds&height=700&optimize=medium&width=700",
+    "source": "MusicStoreLive product image",
+    "source_page": "https://www.musicstorelive.com/amptweaker-bass-tightmetal-jr-distortion-bass-guitar-effects-pedal.html",
+    "research_record": "./research/pedals/Amptweaker/Bass_TightMetal_Jr.md"
   }
 ]
