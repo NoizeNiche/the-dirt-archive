@@ -23,6 +23,16 @@ Work strictly from the top of the site's pedal list to the bottom.
 
 The PRP tracker is the source of truth for where the work stands.
 
+## 2A. Model / version / variation handling
+
+PRP follows the **public catalog entries**, not every raw Builder + Pedal census row.
+
+- A normal model or materially distinct public version is a PRP target.
+- A record with catalog_role = variation is a subordinate variation and is **not** an independent main-catalog PRP target.
+- Cosmetic variations such as colorways, retailer finishes, event artwork, and similar editions should be documented under their parent model/version.
+- A materially different version such as V2 may remain a separate public page and its own PRP target.
+- Existing variation records must not be promoted into separate public cards simply because they exist as separate raw catalog rows.
+
 ## 3. Batch size
 
 PRP is performed in batches of 10 pedals, or as many as can be responsibly completed in one pass.
