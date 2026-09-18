@@ -114,12 +114,13 @@ Blocks 219-224 comprise the final A-Z sweep plus five deeper discovery passes. T
 `index.html` is now the actual catalog page, not an under-construction placeholder.
 
 The page:
-- loads the catalog CSV sources
-- lists companies alphabetically
+- loads `research/PEDAL_INDEX.json` as the public catalog source
+- lists builders alphabetically
 - shows each company's pedals
 - searches companies and pedals
 - groups repeated company/pedal rows into one pedal card
 - shows the pedal's dirt type in the record
+- limits the initial catalog render to a 72-card window and lets the visitor load more results as needed
 - opens a pedal detail view with dedicated **Pedal Info** and **Photo of Pedal** areas
 - works on desktop and mobile layouts
 
@@ -228,4 +229,11 @@ Completed foundation work in this checkpoint:
 - The 10 previously unlinked PRP research records were added to the photo/research manifest.
 
 The target visual direction is a literal empty metal pedalboard inspired by a Pedal Train Pro-style board. Visual redesign will follow the functionality audit rather than precede it.
+
+### Latest functionality audit checkpoint
+- The main catalog no longer renders all 3,820 public cards into the DOM at once.
+- Search, dirt-type changes, and builder changes reset the result window to the first 72 cards.
+- Load-more pagination keeps the full catalog searchable while reducing the amount of HTML rebuilt on each filter/search action.
+- The site cache/version marker is now `2026-09-18-site-architecture-003` on the index and pedal-detail pages.
+- The latest GitHub Pages run for commit `a9573f1` is in progress; deployment is not yet counted as verified until that run completes successfully.
 
