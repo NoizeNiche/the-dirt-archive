@@ -126,3 +126,8 @@ ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation fro
 ## PRP1 batch 009 checkpoint
 Batch 009 completed the next ten exact-order PRP1 records from **Add+ Pedals - Der Fuzzer** through **Add+ Pedals - Ratortion 3**. The first seven records already had research and were checked for photo recovery; three new research records were added for Ratortion, Ratortion 2, and Ratortion 3. The exact Add+ Pi picture was confirmed and connected to the public index and photo manifest. Records without a safely archived direct exact-model image remain photo-pending.
 The next exact-order unresolved target is **Add+ Pedals - Ratortion 3 v2**.
+
+
+## PRP1 batch 010 checkpoint
+Batch 010 worked the next ten exact-order PRP1 records from **A Sound Of Failure - Death Driver** through **AC Efectos - Triplex Distortion**. An exact Effects Database photograph was confirmed and archived for **Death Driver**, moving that pedal to fully complete. The remaining nine records in this photo-recovery window remain incomplete where no safe direct exact-model image asset was confirmed.
+The next exact-order unresolved target is **A.Y.A - Bass Fuzz**.
