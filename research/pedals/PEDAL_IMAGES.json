@@ -30,5 +30,13 @@
     "source": "Music Store product/demo image",
     "source_page": "https://www.musicstore.com/fr_FR/EUR/Amptweaker-Bass-TightFuzz-aus-der-Demo/art-BAS0009785-000",
     "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Bass TightFuzz Jr",
+    "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_basstightfuzzjrkk.jpg",
+    "source": "Sound House product image",
+    "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255395/",
+    "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz_Jr.md"
   }
 ]
