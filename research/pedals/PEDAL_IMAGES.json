@@ -1124,9 +1124,10 @@
   {
     "builder": "Acid Fuzz",
     "pedal": "Mk1.5",
-    "image": null,
+    "image": "https://files.effectsdatabase.com/gear/thumbs/acidfuzz_mk15_001.jpg",
     "source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk15",
-    "research_record": "./research/pedals/Acid Fuzz/Mk1.5.md"
+    "research_record": "./research/pedals/Acid Fuzz/Mk1.5.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk15"
   },
   {
     "builder": "Acid Fuzz",
