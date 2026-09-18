@@ -40,3 +40,8 @@ Metal Maniac is built for thick, forceful high-gain distortion rather than low-g
 
 ## Sources checked
 1. Effects Database — A&M Custom Effects Metal Maniac - Mega Distortion: https://www.effectsdatabase.com/model/am/metalmaniac
+
+## Photo
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** https://www.effectsdatabase.com/model/am/metalmaniac
+- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
