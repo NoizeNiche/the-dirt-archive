@@ -207,7 +207,7 @@ The Dirt Archive should document useful pedal identity, variations, appearance, 
 A future showcase/blog-style layer may be added for curated historical topics, such as fuzz showcases or builder/pedal features. This is intentionally deferred until the core archive works well.
 
 ## Next action
-The next PRP target is **Abominable Electronics — Hellmouth**, followed by the next nine unresearched pedals in the site’s A-to-Z order.
+Continue the site functionality audit. Do not resume PRP until the catalog model/version/variation behavior, photo routing, navigation, search, and GitHub Pages deployment have been tested end-to-end.
 
 
 ## Site architecture checkpoint — September 18, 2026
