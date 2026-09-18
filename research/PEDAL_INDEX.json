@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-006",
+  "version": "2026-09-18-prp1-batch-007",
   "count": 3821,
   "pedals": [
     {
@@ -536,7 +536,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://files.effectsdatabase.com/gear/thumbs/acidfuzz_mk15_001.jpg",
       "source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk15",
       "research_record": "./research/pedals/Acid Fuzz/Mk1.5.md"
     },
