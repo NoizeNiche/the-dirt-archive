@@ -995,5 +995,40 @@
     "image": null,
     "source_page": "https://www.acidfuzz.com/products/zonk-machine-vintage-series-re-build",
     "research_record": "./research/pedals/Acid Fuzz/Zonk Machine - Vintage Series Re-build.md"
+  },
+  {
+    "builder": "Aclam Guitars",
+    "pedal": "Cinnamon Drive",
+    "image": null,
+    "source_page": "https://www.aclamguitars.com/store/cinnamon-drive.html",
+    "research_record": "./research/pedals/Aclam Guitars/Cinnamon Drive.md"
+  },
+  {
+    "builder": "Aclam Guitars",
+    "pedal": "Cinnamon Drive - Dreamer Edition",
+    "image": null,
+    "source_page": "https://www.aclamguitars.com/store/cinnamon-drive-dreamer.html",
+    "research_record": "./research/pedals/Aclam Guitars/Cinnamon Drive - Dreamer Edition.md"
+  },
+  {
+    "builder": "Aclam Guitars",
+    "pedal": "Dr. Robert",
+    "image": null,
+    "source_page": "https://www.aclamguitars.com/",
+    "research_record": "./research/pedals/Aclam Guitars/Dr. Robert.md"
+  },
+  {
+    "builder": "Aclam Guitars",
+    "pedal": "Go Rocky Go",
+    "image": null,
+    "source_page": "https://www.aclamguitars.com/store/go-rocky-go.html",
+    "research_record": "./research/pedals/Aclam Guitars/Go Rocky Go.md"
+  },
+  {
+    "builder": "Aclam Guitars",
+    "pedal": "Go Rocky Go - White Album Edition",
+    "image": null,
+    "source_page": "https://www.aclamguitars.com/go-rocky-go-white-album-edition",
+    "research_record": "./research/pedals/Aclam Guitars/Go Rocky Go - White Album Edition.md"
   }
 ]
