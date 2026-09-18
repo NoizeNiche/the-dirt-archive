@@ -1225,8 +1225,10 @@
   {
     "builder": "ADA Amps",
     "pedal": "MP-1 Channel",
-    "source_page": "https://www.electroharmonix.co.jp/ada/mp1channel.html",
-    "research_record": "./research/pedals/ADA Amps/MP-1 Channel.md"
+    "source_page": "https://www.chicagomusicexchange.com/products/ada-mp-1-channel-preamp-pedal-8749",
+    "research_record": "./research/pedals/ADA Amps/MP-1 Channel.md",
+    "image": "https://www.chicagomusicexchange.com/cdn/shop/products/a-da-effects-and-pedals-distortion-a-da-mp-1-channel-preamp-pedal-adamp1pedal-17184952549511.jpg?v=1649590319&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/ada-mp-1-channel-preamp-pedal-8749"
   },
   {
     "builder": "Add+ Pedals",
