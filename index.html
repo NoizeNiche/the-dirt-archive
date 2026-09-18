@@ -469,6 +469,7 @@ function syncUrl(){
 
 function slugParams(x){
   const p=new URLSearchParams({builder:x.company,pedal:x.pedal});
+  p.set('v',DATA_VERSION);
   return './pedal.html?'+p.toString();
 }
 
