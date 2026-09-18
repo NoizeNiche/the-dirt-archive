@@ -35,6 +35,23 @@ When the user says **“Continue”** after a completed scrape, treat it as an i
 
 The objective is high-throughput completion of the full **A → Z builder census**. Ten companies is the minimum floor for a haul, not the desired stopping point.
 
+## Research benchmark
+
+The performance of the latest bulk scrape is the **minimum operating benchmark for every future scrape through Z**.
+
+That benchmark means:
+- do not stop at the first useful result or first few companies
+- use broad, repeated searches and multiple relevant source/catalog channels when needed
+- target **10+ distinct companies/builders per haul** and gather as many qualifying dirt-pedal records as practical
+- mine both current and historical product catalogs when they support the Builder -> Pedals scope
+- cross-check the canonical builder index and active scrape census before every write
+- when a source or tool limits the amount of research that can be returned at once, split the work into additional passes rather than lowering the research standard
+- treat duplicate checks, alias reconciliation, and product-family cleanup as part of the scrape itself
+- do not declare the haul complete merely because the minimum company count has been reached; continue while meaningful unprocessed material is readily available
+- leave the repository in a state where the next alphabetic haul can begin immediately
+
+**The standard is throughput + breadth + deduplication + durable checkpointing.**
+
 ## Canonical builder identity rule
 `research/BUILDER_MASTER_INDEX.md` is the authoritative builder list for the active census.
 
