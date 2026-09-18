@@ -160,5 +160,51 @@ That benchmark means:
 ## Scrape protocol now in force
 Every **Scrape** or **Continue** command means a full bulk haul of **at least 10 distinct companies/builders**, with as many qualifying dirt-pedal rows as practical. Continue from the saved alphabetic checkpoint, deduplicate against the canonical builder index and active scrape census, update the live scrape data and durable checkpoints, and keep moving until Z. Ten companies is a hard minimum, not a stopping target.
 
+## Site architecture direction - September 18, 2026
+
+The current priority is **site functionality and information architecture**, not additional PRP. PRP is paused until the site foundation is reliable.
+
+The intended experience is a welcoming historical/reference archive for guitar dirt pedals. The goal is useful discovery and identification, not an ultra-specialized component-forensics database.
+
+### Public catalog structure
+- The main archive shows **one entry per pedal model**.
+- Colorways and cosmetic variations are not separate main-catalog pedal entries.
+- A version with meaningful functional/design changes, such as **V2**, is treated as its own pedal/version page.
+- Each version page may contain its own colorway gallery beneath the primary pedal photograph.
+- The parent/original pedal page should remain simple. Its **Versions / Variants** area can show thumbnail examples and link to separate pages for genuinely distinct versions.
+- A colorway such as **DRV MOD 1 (WHITE)** belongs to the **DRV MOD 1** model as a variation, not as a separate main catalog pedal.
+- Special event artwork, retailer-exclusive finishes, and similar cosmetic editions belong under their parent version when the underlying pedal is the same.
+- Artist/signature models that are treated as distinct products deserve their own pedal pages.
+- The archive should retain alternate names where useful, but this remains a low-priority feature for now.
+
+### Pedal page direction
+Keep the existing page simple and approachable. Core content remains:
+- pedal name and builder
+- primary pedal photograph
+- basic pedal information
+- versions / variants
+- **What it sounds like**
+- one best representative YouTube demo
+
+PRP2 may later add a deeper technical layer without making the normal page overwhelming.
+
+### Discovery direction
+For now, keep the main navigation intentionally simple:
+**Search -> Dirt Type -> Builder -> Pedal**
+
+More advanced faceted discovery can be revisited later. The underlying data should be structured so future search can use researched metadata without requiring a complete rebuild.
+
+### Visual direction
+The target visual identity is a literal **empty Pedal Train Pro-style pedalboard**: the website should feel like the archive is living on a physical metal pedalboard, with the catalog occupying that space. This is a design direction, not permission to start coding the visual redesign before the functional architecture is settled.
+
+### Photo direction
+Photography is a high-priority part of the presentation. Exact, verified pedal photography should be attached to the correct model/version, and multiple colorway photos should be supported within the relevant version page.
+
+### Content boundary
+The Dirt Archive should document useful pedal identity, variations, appearance, sound, and practical distinguishing information without attempting to replace specialist deep-dive archives that focus on microscopic circuit revisions, serial-number archaeology, or exhaustive component-level analysis.
+
+### Future editorial layer
+A future showcase/blog-style layer may be added for curated historical topics, such as fuzz showcases or builder/pedal features. This is intentionally deferred until the core archive works well.
+
 ## Next action
 The next PRP target is **Abominable Electronics — Hellmouth**, followed by the next nine unresearched pedals in the site’s A-to-Z order.
