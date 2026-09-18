@@ -1305,5 +1305,75 @@
     "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/3",
     "research_record": "./research/pedals/Add+ Pedals/Ratortion 3.md",
     "image_source_page": "https://reverb.com/en-cy/item/1423011-add-ratortion-3-overdrive-distortion"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Ratortion 3 v2",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/3/2",
+    "research_record": "./research/pedals/Add+ Pedals/Ratortion 3 v2.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Shredder",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/addplus/shredder",
+    "research_record": "./research/pedals/Add+ Pedals/Shredder.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Super Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/addplus/superdrive",
+    "research_record": "./research/pedals/Add+ Pedals/Super Drive.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Super Drive 2",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/addplus/superdrive/2",
+    "research_record": "./research/pedals/Add+ Pedals/Super Drive 2.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Tiger Shark",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/addplus/tigershark",
+    "research_record": "./research/pedals/Add+ Pedals/Tiger Shark.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Tube Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/addplus/tubedrive",
+    "research_record": "./research/pedals/Add+ Pedals/Tube Drive.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Tube Drive 2",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/addplus/tubedrive/2",
+    "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Tube Drive Silver Edition",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/updates/weekly/20110404",
+    "research_record": "./research/pedals/Add+ Pedals/Tube Drive Silver Edition.md"
+  },
+  {
+    "builder": "Addrock Musical Products",
+    "pedal": "Boostmaster",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/addrock/boostmaster",
+    "research_record": "./research/pedals/Addrock Musical Products/Boostmaster.md"
+  },
+  {
+    "builder": "Addrock Musical Products",
+    "pedal": "Geranium Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/addrock/geraniumfuzz",
+    "research_record": "./research/pedals/Addrock Musical Products/Geranium Fuzz.md"
   }
 ]
