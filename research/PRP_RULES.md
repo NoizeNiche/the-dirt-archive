@@ -197,10 +197,10 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 172
-- Pedals with confirmed pictures: 140
-- Fully complete PRP pedals: 140
-- Remaining incomplete pedals: 3681
-- Researched but waiting only for a confirmed picture: 31
+- Pedals with confirmed pictures: 141
+- Fully complete PRP pedals: 141
+- Remaining incomplete pedals: 3680
+- Researched but waiting only for a confirmed picture: 30
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **A.Y.A - Bass Fuzz**
 
@@ -223,3 +223,9 @@ The next exact-order unresolved target is **Add+ Pedals - Ratortion 3 v2**.
 ## PRP1 batch 010 checkpoint
 Batch 010 worked the next ten exact-order PRP1 records from **A Sound Of Failure - Death Driver** through **AC Efectos - Triplex Distortion**. An exact Effects Database photograph was confirmed and archived for **Death Driver**, moving that pedal to fully complete. The remaining nine records in this photo-recovery window remain incomplete where no safe direct exact-model image asset was confirmed.
 The next exact-order unresolved target is **A.Y.A - Bass Fuzz**.
+
+
+## PRP1 batch 011 checkpoint
+Batch 011 expanded the photo-recovery sweep through the next 20 unresolved catalog records, from **A.Y.A - Bass Fuzz** through **Add+ Pedals - Ratortion 2**. An exact direct image asset was confirmed for **AC Noises - Urla** from Stars Music and connected to the research record, photo manifest, public index, and tracker. **A.Y.A - Bass Fuzz** received stronger historical and exact-model visual evidence, but no direct image asset was safely archived, so it remains photo-pending.
+The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
+
