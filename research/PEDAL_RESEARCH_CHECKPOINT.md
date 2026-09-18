@@ -28,4 +28,4 @@ Proceed through the catalog one pedal at a time. Use the canonical catalog entry
 - Sources checked
 
 ## Next pedal
-**Amptweaker — Bass BluesFuzz Jr.** if treated as a distinct catalog entry; otherwise continue to the next unique pedal after reconciling the existing Amptweaker rows.
+**Amptweaker — Bass TightDrive**
