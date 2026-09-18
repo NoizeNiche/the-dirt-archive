@@ -3,7 +3,7 @@
 ## Status
 **Phase:** Pedal Research Phase underway  
 **Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
-**Research progress:** 53 pedals researched; 43 exact pedal photos attached; 10 exact-photo records pending direct image files
+**Research progress:** 63 pedals researched; 53 exact pedal photos attached; 10 exact-photo records pending direct image files
 
 ## Completed
 1. **Amptweaker — Bass BluesFuzz**
@@ -296,6 +296,56 @@ Every completed PRP information update must be pushed to the live site's source 
    - 2009-era distortion/overdrive parent with documented move from early modification-based design to later fully original redesign after about a decade.
    - Later design uses CNC-machined titanium-gray aluminum enclosure, point-to-point wiring and 9V operation.
 
+54. **Barbarossa — GARGOYLE**
+   - Research record: research/pedals/Barbarossa/GARGOYLE.md
+   - Documented production distortion/overdrive with Level, Tone and Drive, point-to-point wiring and CNC-machined aluminum enclosure.
+   - No numbered factory revision verified.
+
+55. **Barbarossa — URANUS**
+   - Research record: research/pedals/Barbarossa/URANUS.md
+   - One parent containing the builder-documented URANUS OLD MODEL and later production generation.
+   - Old model is explicitly described by Barbarossa as a modified overdrive model; later production uses the current three-control machined-enclosure format.
+
+56. **Barber Electronics — 1/2 Gainer**
+   - Research record: research/pedals/Barber Electronics/1_2_Gainer.md
+   - Dual-channel low-gain overdrive derived from the LTD family, with independent gain/volume and shared Tone/Midrange Character.
+   - No numbered factory revision verified.
+
+57. **Barber Electronics — B-Custom Cool**
+   - Research record: research/pedals/Barber Electronics/B-Custom_Cool.md
+   - Parent includes the documented prototype-to-production development for the Monster Mike Welch project.
+   - Production adds EQ and Smooth/Crunchy switching plus internal voicing trims.
+
+58. **Barber Electronics — B-Custom Dual Discrete**
+   - Research record: research/pedals/Barber Electronics/B-Custom_Dual_Discrete.md
+   - Factory-custom dual enclosure using customer-selected Barber circuits.
+   - Configuration differences are kept inside the parent rather than treated as V1/V2.
+
+59. **Barber Electronics — B-Custom Super Sport**
+   - Research record: research/pedals/Barber Electronics/B-Custom_Super_Sport.md
+   - British-voiced medium/high-gain overdrive derived from Direct Drive Super Sport.
+   - Five internal voicing controls documented; no numbered factory revision verified.
+
+60. **Barber Electronics — Burn Unit**
+   - Research record: research/pedals/Barber Electronics/Burn_Unit.md
+   - Original four-knob Burn Unit documented with later evolution inside the parent.
+   - Burn Unit 2, Burn Unit EQ and Compact Burn Unit remain separate named parents.
+
+61. **Barber Electronics — Deep Fryer**
+   - Research record: research/pedals/Barber Electronics/Deep_Fryer.md
+   - Explicit V1 and V2 production generations.
+   - V2 adds a second independently adjustable drive channel and channel selection.
+
+62. **Barber Electronics — Direct Drive Compact / Direct Drive v4**
+   - Research record: research/pedals/Barber Electronics/Direct_Drive_Compact_V4.md
+   - Barber-designated v4 update from 2020.
+   - Service schematic explicitly documents 1N4148 silicon diodes.
+
+63. **Barber Electronics — Dirty Bomb**
+   - Research record: research/pedals/Barber Electronics/Dirty_Bomb.md
+   - High-gain FET-based distortion with three-position midrange control and internal bass boost.
+   - No numbered factory revision verified.
+
 ## Research order
 Proceed through the catalog one pedal at a time. Use the canonical catalog entry as the identity anchor, preserve the archive's existing builder/pedal names, and document aliases or version relationships inside the research record rather than silently renaming catalog data.
 
@@ -310,7 +360,7 @@ Proceed through the catalog one pedal at a time. Use the canonical catalog entry
 - Sources checked
 
 ## Next pedal
-**Barbarossa — GARGOYLE**
+**Barber Electronics — Exacta**
 
 ## Current photo-audit backlog
 The PRP image rule is strict: the image must itself be a photograph/render of the exact pedal, not a screenshot of a product/source page. The following researched parents currently have a research record but no attached exact image file: Amptweaker — Tight Metal Jr; Amptweaker — TightBoost; Amptweaker — TightFuzz Jr; Analog Alien — Alien Twister; Analog Man — Astro Tone; Analog Man — Prince Of Tone; Analog Man — Sun Face; Animal Factory Amplification — Chemical Burn; Animal Factory Amplification — Dirty Mirror; Animal Factory Amplification — Godeater+.
