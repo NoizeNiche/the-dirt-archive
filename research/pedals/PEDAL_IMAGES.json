@@ -1396,5 +1396,37 @@
     "image_source_page": "https://reverb.com/item/72179537-addrock-ol-yeller",
     "research_record": "./research/pedals/Addrock Musical Products/Ol' Yeller.md",
     "source_page": "https://reverb.com/item/72179537-addrock-ol-yeller"
+  },
+  {
+    "builder": "Adventure Audio",
+    "pedal": "Dream Reaper",
+    "image": "https://www.chicagomusicexchange.com/cdn/shop/products/adventure-audio-effects-and-pedals-fuzz-adventure-audio-dream-reaper-fuzz-modulation-machine-dreamu3-17794996666503.jpg?v=1649589960&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/adventure-audio-dream-reaper-fuzz-modulation-machine-1169088",
+    "source_page": "https://www.chicagomusicexchange.com/products/adventure-audio-dream-reaper-fuzz-modulation-machine-1169088",
+    "research_record": "./research/pedals/Adventure Audio/Dream Reaper.md"
+  },
+  {
+    "builder": "Adventure Audio",
+    "pedal": "Fuzz Peaks",
+    "image": "https://rvb-img.reverb.com/i/s--K5ULJTe1--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kvxbppwvuc1i4i9mrtkn.jpg",
+    "image_source_page": "https://reverb.com/au/item/459082-adventure-audio-fuzz-peaks",
+    "source_page": "https://reverb.com/au/item/459082-adventure-audio-fuzz-peaks",
+    "research_record": "./research/pedals/Adventure Audio/Fuzz Peaks.md"
+  },
+  {
+    "builder": "Adventure Audio",
+    "pedal": "Fuzz Peaks II",
+    "image": "https://rvb-img.reverb.com/image/upload/s--DDynb3KV--/f_auto%2Ct_large/v1647988180/fbnr2fnl1le99qdr4iuo.jpg",
+    "image_source_page": "https://reverb.com/item/52377521-adventure-audio-fuzz-peaks-v2",
+    "source_page": "https://reverb.com/item/52377521-adventure-audio-fuzz-peaks-v2",
+    "research_record": "./research/pedals/Adventure Audio/Fuzz Peaks II.md"
+  },
+  {
+    "builder": "Adventure Audio",
+    "pedal": "Thaw",
+    "image": "https://www.chicagomusicexchange.com/cdn/shop/products/adventure-audio-effects-and-pedals-fuzz-adventure-audio-thaw-fuzz-aathaw-28193866973319.jpg?v=1652059916&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/adventure-audio-thaw-fuzz-849007",
+    "source_page": "https://www.chicagomusicexchange.com/products/adventure-audio-thaw-fuzz-849007",
+    "research_record": "./research/pedals/Adventure Audio/Thaw.md"
   }
 ]
