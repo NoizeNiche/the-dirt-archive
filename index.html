@@ -5,100 +5,383 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>The Dirt Archive</title>
 <style>
-:root{--bg:#f3f0e8;--panel:#fffdf8;--ink:#111;--muted:#716c63;--line:#d9d2c7;--accent:#dfff38}
+:root{
+  --bg:#ebe7dd;
+  --paper:#f8f5ee;
+  --card:#fffdfa;
+  --ink:#11110f;
+  --muted:#77736a;
+  --line:#d5d0c6;
+  --acid:#dfff38;
+  --deep:#171716;
+  --deep2:#22221f;
+}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+body{
+  margin:0;
+  background:
+    radial-gradient(circle at 15% 8%,rgba(223,255,56,.09),transparent 25%),
+    linear-gradient(180deg,#eeeae1 0%,var(--bg) 100%);
+  color:var(--ink);
+  font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif
+}
 button,input{font:inherit}
 button{color:inherit}
-.wrap{width:min(1440px,calc(100% - 28px));margin:auto}
-header{padding:26px 0 18px;border-bottom:1px solid var(--line);position:sticky;top:0;background:rgba(243,240,232,.95);backdrop-filter:blur(12px);z-index:5}
-.top{display:flex;justify-content:space-between;gap:20px;align-items:end}
-.brand{margin:0;font-size:clamp(2.4rem,6vw,5.5rem);line-height:.88;letter-spacing:-.065em;text-transform:uppercase;font-weight:950}
-.tag{margin:8px 0 0;color:var(--muted);font-size:.8rem;font-weight:800;text-transform:uppercase;letter-spacing:.08em}
-.stats{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:18px}
-.stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px}
-.stat b{display:block;font-size:1.4rem;letter-spacing:-.04em}
-.stat span{font-size:.68rem;color:var(--muted);font-weight:900;text-transform:uppercase;letter-spacing:.08em}
-main{padding:20px 0 60px}
-.layout{display:grid;grid-template-columns:290px 1fr;gap:16px;align-items:start}
-.panel{background:var(--panel);border:1px solid var(--line);border-radius:18px}
-.menu{padding:12px;position:sticky;top:165px;max-height:calc(100vh - 185px);overflow:hidden}
-.searchBox{display:grid;gap:6px}
-.menuLabel,.sectionLabel{font-size:.68rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
-.search{width:100%;border:2px solid var(--ink);border-radius:12px;background:#fff;padding:13px 14px;outline:0}
-.search:focus{box-shadow:0 0 0 4px var(--accent)}
-.typeMenu{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:8px}
-.typeButton{border:1px solid var(--line);background:#fff;border-radius:10px;padding:9px 10px;font-size:.7rem;font-weight:950;text-transform:uppercase;letter-spacing:.05em;cursor:pointer}
-.typeButton:hover{border-color:#999286}
-.typeButton.active{background:var(--accent);border-color:var(--ink)}
-.builderHead{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:16px;padding:0 2px 7px;border-bottom:1px solid var(--line)}
-.builderCount{font-size:.65rem;color:var(--muted);font-weight:900}
-.builderList{overflow:auto;max-height:calc(100vh - 380px);padding-top:7px}
-.builder{width:100%;border:0;background:transparent;text-align:left;padding:8px 9px;border-radius:9px;cursor:pointer;display:flex;justify-content:space-between;gap:8px;font-weight:760}
-.builder:hover{background:#eee9df}
-.builder.active{background:var(--accent)}
-.builder .count{color:var(--muted);font-size:.68rem;font-weight:900}
-.allBuilder{margin-bottom:5px;font-weight:900;border-bottom:1px solid var(--line);padding-bottom:10px;border-radius:0}
-.results{padding:16px}
-.resulthead{display:flex;justify-content:space-between;gap:12px;align-items:end;margin-bottom:14px}
-.title{margin:0;font-size:clamp(1.5rem,3vw,2.5rem);letter-spacing:-.05em}
-.meta{color:var(--muted);font-size:.8rem;font-weight:800}
-.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
-.card{display:block;border:1px solid var(--line);background:#fff;border-radius:14px;padding:14px;text-align:left;text-decoration:none;cursor:pointer}
-.card:hover{border-color:#999286;box-shadow:0 8px 18px rgba(0,0,0,.07);transform:translateY(-1px)}
-.name{display:block;font-weight:850;letter-spacing:-.02em;margin-bottom:10px}
-.builderName{display:block;color:var(--muted);font-size:.68rem;font-weight:900;text-transform:uppercase;letter-spacing:.07em;margin-top:-4px;margin-bottom:10px}
-.chips{display:flex;flex-wrap:wrap;gap:5px}
-.chip{font-size:.62rem;font-weight:900;text-transform:uppercase;letter-spacing:.06em;padding:4px 7px;border-radius:999px;background:#eee9df}
-.empty{grid-column:1/-1;text-align:center;padding:60px 20px;color:var(--muted)}
-.hint{margin:8px 2px 0;color:var(--muted);font-size:.7rem;line-height:1.45}
-@media(max-width:900px){
-  .layout{grid-template-columns:1fr}
-  .menu{position:static;max-height:none}
-  .builderList{max-height:260px}
-  .grid{grid-template-columns:repeat(2,1fr)}
-  .stats{grid-template-columns:repeat(3,1fr)}
+a{color:inherit}
+.wrap{width:min(1480px,calc(100% - 32px));margin:auto}
+.siteHeader{padding:28px 0 24px;border-bottom:1px solid var(--line)}
+.headerRow{display:flex;justify-content:space-between;align-items:flex-end;gap:28px}
+.brandBlock{min-width:0}
+.brand{
+  margin:0;
+  font-size:clamp(3rem,8vw,7rem);
+  line-height:.82;
+  letter-spacing:-.075em;
+  text-transform:uppercase;
+  font-weight:950
 }
-@media(max-width:600px){
-  .top{flex-direction:column;align-items:stretch}
-  .stats{grid-template-columns:repeat(2,1fr)}
+.kicker{
+  margin:13px 0 0;
+  color:var(--muted);
+  font-size:.75rem;
+  font-weight:900;
+  text-transform:uppercase;
+  letter-spacing:.1em
+}
+.headerNote{
+  max-width:390px;
+  color:var(--muted);
+  font-size:.83rem;
+  line-height:1.5;
+  text-align:right
+}
+.headerNote strong{color:var(--ink)}
+
+main{padding:24px 0 72px}
+.layout{display:grid;grid-template-columns:310px minmax(0,1fr);gap:18px;align-items:start}
+
+.sidebar{
+  position:sticky;
+  top:18px;
+  max-height:calc(100vh - 36px);
+  overflow:hidden;
+  padding:12px;
+  border-radius:22px;
+  background:var(--deep);
+  color:#f7f5ef;
+  box-shadow:0 20px 50px rgba(0,0,0,.12)
+}
+.sidebarTop{padding:10px 10px 14px}
+.sidebarEyebrow{
+  font-size:.64rem;
+  font-weight:950;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:#a8a69f;
+  margin-bottom:8px
+}
+.searchWrap{position:relative}
+.search{
+  width:100%;
+  border:1px solid #4c4b46;
+  border-radius:13px;
+  background:#242421;
+  color:#fff;
+  padding:13px 14px 13px 40px;
+  outline:0
+}
+.search::placeholder{color:#94928b}
+.search:focus{border-color:var(--acid);box-shadow:0 0 0 3px rgba(223,255,56,.12)}
+.searchIcon{
+  position:absolute;
+  left:14px;
+  top:50%;
+  transform:translateY(-50%);
+  color:#96938b;
+  font-size:.95rem;
+  pointer-events:none
+}
+
+.navSection{padding:0 10px}
+.navHeading{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:10px;
+  color:#a8a69f;
+  font-size:.62rem;
+  font-weight:950;
+  text-transform:uppercase;
+  letter-spacing:.11em;
+  margin:4px 0 9px
+}
+.typeGrid{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+.typeButton{
+  min-height:44px;
+  border:1px solid #44433e;
+  border-radius:11px;
+  background:#242421;
+  color:#f6f4ee;
+  padding:9px 10px;
+  text-align:left;
+  font-size:.7rem;
+  font-weight:950;
+  text-transform:uppercase;
+  letter-spacing:.05em;
+  cursor:pointer;
+  transition:.15s ease
+}
+.typeButton:hover{border-color:#76736b;background:#2a2a26}
+.typeButton.active{
+  background:var(--acid);
+  border-color:var(--acid);
+  color:#111
+}
+.typeSub{
+  display:block;
+  margin-top:3px;
+  font-size:.57rem;
+  font-weight:800;
+  opacity:.58;
+  letter-spacing:.03em;
+  text-transform:none
+}
+.builderPanel{margin-top:17px}
+.builderList{
+  overflow:auto;
+  max-height:calc(100vh - 365px);
+  padding-right:4px
+}
+.builderList::-webkit-scrollbar{width:7px}
+.builderList::-webkit-scrollbar-thumb{background:#3b3a36;border-radius:99px}
+.builderList::-webkit-scrollbar-track{background:transparent}
+.builder{
+  width:100%;
+  border:0;
+  border-radius:10px;
+  background:transparent;
+  color:#f1efea;
+  padding:8px 9px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  cursor:pointer;
+  text-align:left;
+  font-size:.76rem;
+  font-weight:780
+}
+.builder:hover{background:#292926}
+.builder.active{background:var(--acid);color:#111}
+.builderName{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.builderCount{
+  flex:0 0 auto;
+  color:#8f8d86;
+  font-size:.62rem;
+  font-weight:900
+}
+.builder.active .builderCount{color:#3b3b37}
+.allBuilder{
+  margin-bottom:5px;
+  padding-bottom:11px;
+  border-bottom:1px solid #34332f;
+  border-radius:0 0 10px 10px
+}
+.menuFooter{
+  margin:10px 2px 0;
+  padding:8px 2px 0;
+  border-top:1px solid #34332f;
+  color:#85827a;
+  font-size:.6rem;
+  font-weight:800;
+  line-height:1.45
+}
+
+.content{min-width:0}
+.heroPanel{
+  padding:20px 20px 18px;
+  border:1px solid var(--line);
+  border-radius:22px;
+  background:rgba(248,245,238,.86);
+  box-shadow:0 16px 35px rgba(0,0,0,.045)
+}
+.heroRow{display:flex;justify-content:space-between;align-items:end;gap:20px}
+.heroEyebrow{
+  color:var(--muted);
+  font-size:.65rem;
+  font-weight:950;
+  text-transform:uppercase;
+  letter-spacing:.12em;
+  margin-bottom:7px
+}
+.title{
+  margin:0;
+  font-size:clamp(2rem,4vw,4rem);
+  line-height:.9;
+  letter-spacing:-.06em
+}
+.meta{color:var(--muted);font-size:.72rem;font-weight:900;text-align:right}
+.rule{height:1px;background:var(--line);margin-top:18px}
+.grid{
+  margin-top:14px;
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:10px
+}
+.card{
+  display:block;
+  min-height:138px;
+  position:relative;
+  overflow:hidden;
+  border:1px solid var(--line);
+  border-radius:16px;
+  background:var(--card);
+  padding:15px;
+  text-align:left;
+  text-decoration:none;
+  transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease
+}
+.card::after{
+  content:"↗";
+  position:absolute;
+  right:13px;
+  bottom:11px;
+  color:#b1ada3;
+  font-size:.95rem;
+  transition:.15s ease
+}
+.card:hover{
+  transform:translateY(-2px);
+  border-color:#aaa49a;
+  box-shadow:0 15px 28px rgba(0,0,0,.08)
+}
+.card:hover::after{color:var(--ink);transform:translate(2px,-2px)}
+.cardTop{display:flex;justify-content:space-between;gap:8px;align-items:start}
+.cardTypeCount{
+  font-size:.57rem;
+  color:#aaa59b;
+  font-weight:950;
+  text-transform:uppercase;
+  letter-spacing:.08em
+}
+.name{
+  display:block;
+  max-width:88%;
+  margin:0 0 9px;
+  font-size:1rem;
+  line-height:1.04;
+  font-weight:900;
+  letter-spacing:-.03em
+}
+.builderNameCard{
+  display:block;
+  color:var(--muted);
+  font-size:.62rem;
+  font-weight:900;
+  text-transform:uppercase;
+  letter-spacing:.08em;
+  margin-top:3px
+}
+.chips{display:flex;flex-wrap:wrap;gap:5px;margin-top:13px}
+.chip{
+  font-size:.57rem;
+  font-weight:950;
+  text-transform:uppercase;
+  letter-spacing:.07em;
+  padding:4px 7px;
+  border-radius:999px;
+  background:#eeebe3
+}
+.empty{
+  grid-column:1/-1;
+  padding:75px 24px;
+  border:1px dashed #bab4a9;
+  border-radius:16px;
+  color:var(--muted);
+  text-align:center;
+  background:rgba(255,253,250,.55)
+}
+.empty strong{display:block;color:var(--ink);font-size:1.1rem;margin-bottom:5px}
+
+@media(max-width:1000px){
+  .headerRow{align-items:start;flex-direction:column}
+  .headerNote{text-align:left;max-width:600px}
+  .layout{grid-template-columns:1fr}
+  .sidebar{position:static;max-height:none}
+  .builderList{max-height:280px}
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:640px){
+  .wrap{width:min(100% - 20px,1480px)}
+  .siteHeader{padding-top:20px}
+  .brand{font-size:clamp(2.8rem,17vw,5rem)}
   .grid{grid-template-columns:1fr}
-  .resulthead{align-items:start;flex-direction:column}
+  .heroPanel{padding:16px}
+  .heroRow{align-items:start;flex-direction:column}
+  .meta{text-align:left}
 }
 </style>
 </head>
 <body>
-<header>
+<header class="siteHeader">
   <div class="wrap">
-    <div class="top">
-      <div>
+    <div class="headerRow">
+      <div class="brandBlock">
         <h1 class="brand">The Dirt Archive</h1>
-        <p class="tag">Company → Pedal → Pedal Info → Photo</p>
+        <p class="kicker">Company → Pedal → Pedal Info → Photo</p>
       </div>
+      <div class="headerNote"><strong>A working census of guitar dirt boxes.</strong><br>Browse by dirt type, drill into a builder, or search for the exact pedal you have in mind.</div>
     </div>
-    <div class="stats" id="stats"></div>
   </div>
 </header>
 
 <main class="wrap">
   <div class="layout">
-    <aside class="panel menu">
-      <div class="searchBox">
-        <label class="menuLabel" for="search">Search the archive</label>
-        <input id="search" class="search" type="search" placeholder="Search for a pedal…">
+    <aside class="sidebar">
+      <div class="sidebarTop">
+        <div class="sidebarEyebrow">Archive navigation</div>
+        <div class="searchWrap">
+          <span class="searchIcon">⌕</span>
+          <input id="search" class="search" type="search" placeholder="Search pedal or builder…" aria-label="Search pedal or builder">
+        </div>
       </div>
 
-      <div class="builderHead">
-        <div class="sectionLabel">Dirt Type</div>
-        <div class="builderCount" id="builderCount"></div>
+      <div class="navSection">
+        <div class="navHeading">
+          <span>Dirt type</span>
+          <span id="builderCount"></span>
+        </div>
+        <div class="typeGrid" id="typeMenu"></div>
       </div>
-      <div class="typeMenu" id="typeMenu"></div>
-      <p class="hint">Choose a dirt family, then pick a builder. The pedal list on the right updates instantly.</p>
 
-      <div class="builderHead">
-        <div class="sectionLabel">Builders</div>
-        <div class="builderCount" id="bu<script>
+      <div class="navSection builderPanel">
+        <div class="navHeading">
+          <span>Builders</span>
+          <span id="builderListCount"></span>
+        </div>
+        <div class="builderList" id="builders"></div>
+        <div class="menuFooter">Builders are alphabetized within the selected dirt family.</div>
+      </div>
+    </aside>
+
+    <section class="content">
+      <div class="heroPanel">
+        <div class="heroRow">
+          <div>
+            <div class="heroEyebrow">Pedal index</div>
+            <h2 class="title" id="title">All Pedals</h2>
+          </div>
+          <div class="meta" id="meta">Loading…</div>
+        </div>
+        <div class="rule"></div>
+        <div class="grid" id="grid"></div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<script>
 const DATA=[
   './research/MASTER_PEDAL_CENSUS.csv',
   './research/SCRAPE_A_CENSUS.csv',
@@ -164,7 +447,9 @@ function slugParams(x){
   return './pedal.html?'+p.toString();
 }
 
-function typeMatches(x){return selectedType==='All'||x.types.includes(selectedType)}
+function typeMatches(x){
+  return selectedType==='All'||x.types.includes(selectedType)
+}
 
 function searchMatches(x){
   if(!q)return true;
@@ -176,8 +461,7 @@ function builderRows(){
   const map=new Map();
   for(const x of items){
     if(!typeMatches(x))continue;
-    const visibleForSearch=searchMatches(x);
-    if(q&&!visibleForSearch)continue;
+    if(q&&!searchMatches(x))continue;
     map.set(x.company,(map.get(x.company)||0)+1);
   }
   return [...map.entries()].sort((a,b)=>a[0].localeCompare(b[0]));
@@ -192,9 +476,21 @@ function filteredItems(){
 }
 
 function renderTypeMenu(){
-  const types=['All','Overdrive','Distortion','Fuzz'];
-  $('typeMenu').innerHTML=types.map(t=>
-    '<button class="typeButton '+(selectedType===t?'active':'')+'" data-type="'+t+'">'+(t==='All'?'All Pedals':t)+'</button>'
+  const counts={All:new Set(items.map(x=>x.company+'\u0000'+x.pedal)).size};
+  for(const t of ['Overdrive','Distortion','Fuzz']){
+    counts[t]=new Set(items.filter(x=>x.types.includes(t)).map(x=>x.company+'\u0000'+x.pedal)).size;
+  }
+  const types=[
+    ['All','Everything in the archive'],
+    ['Overdrive',counts.Overdrive+' pedals'],
+    ['Distortion',counts.Distortion+' pedals'],
+    ['Fuzz',counts.Fuzz+' pedals']
+  ];
+  $('typeMenu').innerHTML=types.map(([t,sub])=>
+    '<button class="typeButton '+(selectedType===t?'active':'')+'" data-type="'+t+'">'+
+      (t==='All'?'All Pedals':t)+
+      '<span class="typeSub">'+sub+'</span>'+
+    '</button>'
   ).join('');
   document.querySelectorAll('[data-type]').forEach(btn=>btn.onclick=()=>{
     selectedType=btn.dataset.type;
@@ -206,16 +502,18 @@ function renderTypeMenu(){
 
 function renderBuilders(){
   const rows=builderRows();
-  $('builderCount').textContent=rows.length+' shown';
+  $('builderCount').textContent=rows.length+' builders';
   $('builderListCount').textContent=rows.length;
 
-  const allCount=filteredItems().length;
-  const allButton='<button class="builder allBuilder '+(!selectedBuilder?'active':'')+'" data-builder=""><span>All builders</span><span class="count">'+allCount+'</span></button>';
-  const list=rows.map(([name,count])=>
-    '<button class="builder '+(selectedBuilder===name?'active':'')+'" data-builder="'+esc(name)+'"><span>'+esc(name)+'</span><span class="count">'+count+'</span></button>'
+  const allCount=items.filter(typeMatches).length;
+  let html='<button class="builder allBuilder '+(!selectedBuilder?'active':'')+'" data-builder=""><span class="builderName">All builders</span><span class="builderCount">'+allCount+'</span></button>';
+  html+=rows.map(([name,count])=>
+    '<button class="builder '+(selectedBuilder===name?'active':'')+'" data-builder="'+esc(name)+'">'+
+      '<span class="builderName">'+esc(name)+'</span>'+
+      '<span class="builderCount">'+count+'</span>'+
+    '</button>'
   ).join('');
-  $('builders').innerHTML=allButton+list;
-
+  $('builders').innerHTML=html;
   document.querySelectorAll('[data-builder]').forEach(btn=>btn.onclick=()=>{
     selectedBuilder=btn.dataset.builder||'';
     syncUrl();
@@ -244,27 +542,20 @@ function render(){
     ? visible.map(x=>
       '<a class="card" href="'+slugParams(x)+'">'+
         '<span class="name">'+esc(x.pedal)+'</span>'+
-        '<span class="builderName">'+esc(x.company)+'</span>'+
+        '<span class="builderNameCard">'+esc(x.company)+'</span>'+
         '<span class="chips">'+x.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('')+'</span>'+
       '</a>'
     ).join('')
-    : '<div class="empty">No pedals match those selections.</div>';
-
-  const pedalKeys=new Set(items.map(x=>x.company+'\u0000'+x.pedal));
-  const counts={Overdrive:new Set(),Distortion:new Set(),Fuzz:new Set()};
-  for(const x of items)for(const t of x.types)if(counts[t])counts[t].add(x.company+'\u0000'+x.pedal);
-  const companies=new Set(items.map(x=>x.company));
-  $('stats').innerHTML=[
-    ['Companies',companies.size],
-    ['Pedals',pedalKeys.size],
-    ['Overdrive',counts.Overdrive.size],
-    ['Distortion',counts.Distortion.size],
-    ['Fuzz',counts.Fuzz.size]
-  ].map(x=>'<div class="stat"><b>'+x[1].toLocaleString()+'</b><span>'+x[0]+'</span></div>').join('');
+    : '<div class="empty"><strong>No pedals found</strong>Try another search, dirt type, or builder.</div>';
 }
 
 $('search').value=q;
-$('search').oninput=e=>{q=e.target.value.trim();selectedBuilder='';syncUrl();render()};
+$('search').oninput=e=>{
+  q=e.target.value.trim();
+  selectedBuilder='';
+  syncUrl();
+  render();
+};
 
 Promise.all(
   DATA.map(u=>fetch(u).then(r=>{
@@ -279,7 +570,9 @@ Promise.all(
 })
 .catch(e=>{
   $('meta').textContent='Catalog unavailable';
-  $('grid').innerHTML='<div class="empty">The catalog data could not be loaded.</div>';
+  $('grid').innerHTML='<div class="empty"><strong>Catalog unavailable</strong>The archive data could not be loaded.</div>';
   console.error(e);
 });
 </script>
+</body>
+</html>
