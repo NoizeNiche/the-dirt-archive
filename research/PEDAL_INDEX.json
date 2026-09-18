@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-025",
+  "version": "2026-09-18-prp1-batch-026",
   "count": 3821,
   "pedals": [
     {
@@ -1206,9 +1206,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_25/252224/18175177_800.jpg",
       "source_page": "https://aguilaramp.com/en-int/products/agro-bass-overdrive-pedal",
-      "research_record": "./research/pedals/Aguilar/Agro - Bass Overdrive.md"
+      "research_record": "./research/pedals/Aguilar/Agro - Bass Overdrive.md",
+      "image_source_page": "https://www.thomann.co.uk/aguilar_agro_pedal.htm"
     },
     {
       "company": "Aguilar",
@@ -1227,9 +1228,10 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://www.chicagomusicexchange.com/cdn/shop/products/aguilar-effects-and-pedals-bass-pedals-aguilar-storm-king-bass-distortion-fuzz-pedal-stormking-29974900899975.jpg?v=1668098296&width=1445",
       "source_page": "https://aguilaramp.com/en-int/products/storm-king-distortion-bass-pedal",
-      "research_record": "./research/pedals/Aguilar/Storm King - Micro Bass Distortion/Fuzz.md"
+      "research_record": "./research/pedals/Aguilar/Storm King - Micro Bass Distortion/Fuzz.md",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/aguilar-storm-king-bass-distortionfuzz-pedal-1614304"
     },
     {
       "company": "Airis Effects",
