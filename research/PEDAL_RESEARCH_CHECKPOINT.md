@@ -50,6 +50,20 @@ PRP should continue asking project-level questions when an unresolved taxonomy o
    - No verified numbered factory revision or additional factory MOD found in this pass.
    - Transistor and diode types remain unknown pending Bass TightDrive Jr.-specific technical evidence.
 
+## PRP batch-size standard
+
+To increase research throughput without sacrificing record quality, the normal PRP working pass is now **10 pedals**.
+
+Each pedal remains an atomic research unit:
+**research → verify identity/versions → collect exact-pedal photo → update image record → update pedal record/page → checkpoint**.
+
+The ten-pedal batch is a throughput target, not permission to lower evidence standards. A difficult pedal may take longer, and a pedal with unresolved identity, version, or component evidence should be marked accordingly rather than rushed.
+
+Site synchronization:
+- Each completed pedal is incorporated into the live site's source during the PRP pass.
+- Research records remain individual files so later corrections can be made to one pedal without disturbing the rest of the batch.
+- The public site should never require a later bulk cleanup to make already-researched pedal information appear.
+
 ## Approved PRP pedal-page template
 
 The Bass TightDrive Jr. detail-page layout is the approved visual template for **every researched parent pedal** on The Dirt Archive.
