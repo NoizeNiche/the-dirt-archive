@@ -230,5 +230,37 @@
     "source": "Analog Alien official product photograph",
     "source_page": "https://analogalien.com/product/fuzzbubble-45-overdrive-fuzz-pedal/",
     "research_record": "./research/pedals/Analog Alien/FuzzBubble_45.md"
+  },
+  {
+    "builder": "Analog Man",
+    "pedal": "King Of Tone",
+    "image": "https://waltgracevintage.com/cdn/shop/products/IMG_8181_grande.jpg?v=1610473365",
+    "source": "Walt Grace Vintage direct photograph",
+    "source_page": "https://waltgracevintage.com/products/analog-man-king-of-tone-v4",
+    "research_record": "./research/pedals/Analog Man/King_Of_Tone.md"
+  },
+  {
+    "builder": "Analog Man",
+    "pedal": "Peppermint Fuzz",
+    "image": "https://www.truetonemusic.com/cdn/shop/files/1-Img6112_700x700.jpg?v=1714068797",
+    "source": "TrueTone Music direct photograph",
+    "source_page": "https://www.truetonemusic.com/products/analog-man-peppermint-fuzz",
+    "research_record": "./research/pedals/Analog Man/Peppermint_Fuzz.md"
+  },
+  {
+    "builder": "Analog Man",
+    "pedal": "Sun Lion",
+    "image": "https://spicersmusic.com/cdn/shop/files/IMG_9123.jpg?v=1755190319&width=2000",
+    "source": "Spicer's Music direct photograph",
+    "source_page": "https://spicersmusic.com/products/analog-man-sun-lion",
+    "research_record": "./research/pedals/Analog Man/Sun_Lion.md"
+  },
+  {
+    "builder": "Animal Factory Amplification",
+    "pedal": "Baron Samedi",
+    "image": "https://www.schneiderskeller.co.uk/cdn/shop/files/180351_animal_factory_amplification_baron_samedi_pedal_1803511_1920x1920_cdb3ab46-195d-40e9-bdff-05807439627a.webp?v=1762277631&width=416",
+    "source": "SchneidersKeller direct photograph",
+    "source_page": "https://www.schneiderskeller.co.uk/products/animal-factory-amplification-baron-samedi",
+    "research_record": "./research/pedals/Animal Factory Amplification/Baron_Samedi.md"
   }
 ]
