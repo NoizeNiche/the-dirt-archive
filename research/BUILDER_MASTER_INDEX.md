@@ -6,11 +6,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **487 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-209.
+- **491 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-211.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder table is reconciled through **ID 487 / Block 209**.
+- The current builder table is reconciled through **ID 491 / Block 211**.
 
 ## Rules
 
@@ -554,3 +554,6 @@ Do not use a new builder number merely because a new research block is created. 
 
 | 488 | Canvas Analog Devices | 210 |  |
 | 489 | Carmedon Electronics | 210 |  |
+
+| 490 | Cortez | 211 | Historical branded/OEM |
+| 491 | CrazyTone | 211 | Historical branded/OEM |
