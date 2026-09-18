@@ -19,6 +19,22 @@ Then inspect the actual repository state and determine what is complete, what th
 
 Collect builder names and the overdrive, distortion, and fuzz pedals those builders make or made. The goal is a comprehensive census, so the research system must make it easy to compare everything already collected against everything newly found.
 
+## Scrape / Continue protocol
+
+A **Scrape** is a bulk research haul, not a single-builder lookup.
+
+Whenever the user says **“Scrape”** or **“Continue”** after a haul, the next operation must:
+- continue from the exact saved alphabetic checkpoint
+- research **at least 10 distinct companies/builders** in the haul, unless fewer than 10 qualifying unprocessed companies remain in the entire project
+- gather as many verified overdrive, distortion, and fuzz pedal records as practical from those builders rather than stopping at the minimum
+- use multiple source/catalog searches where useful, prioritizing primary or authoritative product catalogs and historical references
+- check the canonical builder index and active scrape census before writing records so existing builders and pedals are expanded rather than duplicated
+- write the new records into the active scrape census used by the website
+- update the breadcrumb/current-state checkpoint and commit a recoverable state before the haul is considered complete
+- immediately leave the project positioned for the next alphabetic haul
+
+The goal is to move continuously from **A through Z** with high-throughput bulk scrapes. The **10-company minimum is a hard floor for every haul**, not a target.
+
 ## No-duplicate gate
 `research/BUILDER_MASTER_INDEX.md` is the canonical builder identity gate for this phase.
 
