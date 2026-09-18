@@ -62,4 +62,4 @@ Do not create additional website relationships or tracking systems unless the pr
 The repository's builder research and master builder index are retained as working material, but they are not part of the public site's information architecture.
 
 ## Next action
-Continue Scrape C by checking the remaining C-section candidates and alphabetic backfills after Block 207. The canonical builder index is reconciled through Block 206, and the C-section working census remains in `research/SCRAPE_C_CENSUS.csv` until later consolidation.
+Continue Scrape C by checking the remaining C-section candidates and alphabetic backfills after Block 207. The canonical builder index is reconciled through Block 207, and the C-section working census remains in `research/SCRAPE_C_CENSUS.csv` until later consolidation.
