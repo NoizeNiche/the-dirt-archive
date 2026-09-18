@@ -19,6 +19,9 @@ The website currently loads the catalog plus the active scrape census files:
 - `research/MASTER_PEDAL_CENSUS.csv`
 - `research/SCRAPE_A_CENSUS.csv`
 - `research/SCRAPE_B_CENSUS.csv`
+- `research/SCRAPE_C_CENSUS.csv`
+
+Active scrape censuses are live website inputs. Newly verified builders and pedals should appear on the site as soon as their scrape census is updated, rather than waiting for a later master-census consolidation.
 
 Multiple rows can represent one pedal when the cataloged pedal belongs to more than one dirt type.
 
