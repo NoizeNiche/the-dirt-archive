@@ -334,7 +334,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 308 | Chicago Iron | 167 |  |
 | 309 | Cicognani Engineering | 167 |  |
 | 310 | CKK Electronic | 167 |  |
-| 311 | CMAT Mods | 167 |  |
+| 311 | CMAT Mods | 167, 195 |  |
 | 312 | Coda Effects | 167 |  |
 | 313 | Coffee Shop Pedals | 167 |  |
 | 314 | Collision Devices | 167 |  |
