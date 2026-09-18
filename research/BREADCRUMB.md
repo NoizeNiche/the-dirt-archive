@@ -85,14 +85,14 @@ Current architecture decisions:
 
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 147
-- Pedals with confirmed pictures: 116
-- Fully complete PRP pedals: 116
-- Remaining incomplete pedals: 3,705
-- Researched but waiting only for a confirmed picture: 31
+- Pedals with confirmed pictures: 117
+- Fully complete PRP pedals: 117
+- Remaining incomplete pedals: 3704
+- Researched but waiting only for a confirmed picture: 30
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **A Sound Of Failure - Death Driver**
+- Current PRP1 target: **Acid Fuzz - Mk1.5**
 
-PRP1 batch 002 continued photo recovery in exact catalog order. Four later incomplete targets now have verified exact photos and are complete: **Abominable Electronics - Cat Dirt Mini - Killer Acid Artwork, Demon Lung, Hail Satan, and Hail Satan Deluxe**. Death Driver remains first in unresolved order because the accessible Effects Database page proves and displays the exact pedal image, but this pass did not produce a safe direct image file URL suitable for the archive. No unrelated substitute was attached.
+PRP1 batch 003 covered the next ten unresolved parent records in exact catalog order, from **AC Noises - Urla** through **Aclam Guitars - Go Rocky Go**. One new exact model photo was archived for **Acid Fuzz - Italian Fuzz**, using the builder's documented Italian Fuzz Vintage Series example. The other photo targets remain open where a safe direct image file was not confirmed. The next unresolved target is **Acid Fuzz - Mk1.5**.
 
 ## Current PRP data files
 
