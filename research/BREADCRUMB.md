@@ -63,6 +63,21 @@ Public pedal pages do not show:
 - Photo
 - Sources checked
 
+
+## Site architecture checkpoint — September 18, 2026
+
+PRP is paused while the site foundation is audited. Do not continue pedal research until the core catalog/data relationships and page behavior are reliable.
+
+Current architecture decisions:
+- Main archive shows one card per pedal model or materially distinct public version.
+- Colorways/cosmetic variations live inside their parent model/version and do not become separate main cards.
+- V2-style materially different versions can have their own page and can be linked from the parent page.
+- Primary photos live in PEDAL_INDEX.json for public runtime use.
+- Colorway galleries and future best-demo links are optional structured metadata.
+- The individual pedal page remains simple and approachable.
+- Future PRP2 depth is deferred.
+
+
 ## Current PRP checkpoint
 - **3,821** unique pedals
 - **148** have pedal information researched
