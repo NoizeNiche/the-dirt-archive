@@ -12,11 +12,11 @@ That is the website's entire information structure. Keep collecting companies an
 `research/MASTER_PEDAL_CENSUS.csv` is the accumulated pedal catalog currently used by the website.
 
 Current master-catalog checkpoint:
-- **2,470 company/pedal/type rows** are currently consolidated in the primary census
-- **105 companies** are currently represented by pedal entries
+- **2,466 company/pedal/type rows** are currently consolidated in the primary census
+- **103 companies** are currently represented by pedal entries
 - Block 162 contributed **111 rows** to the Scrape B census
 - Block 163 contributed **16 rows** to the Scrape B census
-- Blocks 164-210 are stored in the active Scrape C census
+- Blocks 164-211 are stored in the active Scrape C census
 - Blocks 162-163 are consolidated into `research/SCRAPE_B_CENSUS.csv`
 - Block 164 is stored in `research/SCRAPE_C_CENSUS.csv`
 
@@ -24,7 +24,7 @@ Current Builder -> Pedals research checkpoint:
 - **491 canonical builder identities are in the master index through Block 211**
 - **Block 161 added 9 new canonical identities, Block 162 added 9, Block 163 added 5, and Block 164 added 10**
 - Existing builders are expanded under their existing canonical identities rather than duplicated
-- **164 live research blocks** are now present: Blocks 001-069, 071-141, and 143-211
+- **209 live research blocks** are now present: Blocks 001-069, 071-141, and 143-211
 - Block 070 is absent; Block 142 was removed as a duplicate
 
 The website uses the primary catalog plus the active scrape census files directly and does not depend on the research blocks for page rendering.
