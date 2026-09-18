@@ -1517,9 +1517,10 @@
   {
     "builder": "Adventure Audio",
     "pedal": "Demogorgon Fuzz",
-    "image": null,
-    "source_page": null,
-    "research_record": "./research/pedals/Adventure Audio/Demogorgon Fuzz.md"
+    "image": "https://cdn11.bigcommerce.com/s-qzsvj0y9o3/images/stencil/1280x1280/products/44864/213796/YOTHER122852__50559.1674652804.jpg?c=1",
+    "source_page": "https://www.effectsdatabase.com/model/adventure/demogorgon",
+    "research_record": "./research/pedals/Adventure Audio/Demogorgon Fuzz.md",
+    "image_source_page": "https://richtonemusic.co.uk/adventure-audio-demogorgon-2nd-hand/"
   },
   {
     "builder": "Adventure Audio",
@@ -1541,5 +1542,12 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/avt/virusdrive",
     "research_record": "./research/pedals/Advance Tube Technology/Virus Drive.md"
+  },
+  {
+    "builder": "Aguilar",
+    "pedal": "Storm King - Micro Bass Distortion/Fuzz",
+    "image": null,
+    "source_page": "https://aguilaramp.com/en-int/products/storm-king-distortion-bass-pedal",
+    "research_record": "./research/pedals/Aguilar/Storm King - Micro Bass Distortion/Fuzz.md"
   }
 ]

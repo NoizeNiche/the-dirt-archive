@@ -97,13 +97,13 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 202
-- Pedals with confirmed pictures: 154
-- Fully complete PRP pedals: 154
-- Remaining incomplete pedals: 3667
-- Researched but waiting only for a confirmed picture: 48
+- Pedals with research information: 204
+- Pedals with confirmed pictures: 155
+- Fully complete PRP pedals: 155
+- Remaining incomplete pedals: 3665
+- Researched but waiting only for a confirmed picture: 49
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **Adventure Audio - Demogorgon Fuzz**
+- Current PRP1 target: **AGR Pedals - FZR912 - Muff Fuzz Deluxe**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -351,3 +351,9 @@ The next exact-order unresolved target is **Add+ Pedals - Super Drive 2**.
 Batch 023 audited the next 10 incomplete PRP1 records in exact website order, from **Add+ Pedals - Super Drive 2** through **Advance Tube Technology - Virus Drive**. The first nine records already had Pedal Info research and were rechecked against their historical/catalog sources. **Advance Tube Technology - Virus Drive** was the only record in the batch missing its research record; a new PRP1 record was added using the surviving Advance Tube Technology manufacturer documentation and Effects Database catalog evidence. Exact-model photo evidence was rechecked across the batch, including Add+ catalog references, Addrock, ADV Systems, and Advance Tube Technology sources. No new direct image asset met the archive's exact-photo standard, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. No substitute, inferred image, or guessed image URL was promoted.
 
 The next exact-order unresolved target is **Adventure Audio - Demogorgon Fuzz**.
+
+## PRP1 batch 024 checkpoint
+
+Batch 024 processed the next 10 incomplete PRP1 records in exact website order, from **Adventure Audio - Demogorgon Fuzz** through **Aguilar - Storm King - Micro Bass Distortion/Fuzz**. **Adventure Audio - Demogorgon Fuzz** received a confirmed exact-model photograph from Rich Tone Music and its research record, photo manifest, public index, and tracker were synchronized, moving it to fully complete. **Aguilar - Storm King - Micro Bass Distortion/Fuzz** was the only record in the batch missing Pedal Info research; a new PRP1 record was added from Aguilar's official product documentation and supporting historical coverage. The remaining records were rechecked against their available research and exact-model visual references. No substitute, inferred image, or guessed image URL was promoted. The Storm King record remains **Picture: NEEDED / PRP Complete: NEEDED**.
+
+The next exact-order unresolved target is **AGR Pedals - FZR912 - Muff Fuzz Deluxe**.
