@@ -1436,5 +1436,26 @@
     "image_source_page": "https://www.chicagomusicexchange.com/products/aguilar-fuzzistor-1673034",
     "source_page": "https://www.chicagomusicexchange.com/products/aguilar-fuzzistor-1673034",
     "research_record": "./research/pedals/Aguilar/Fuzzistor - Bass Fuzz.md"
+  },
+  {
+    "builder": "AGR Pedals",
+    "pedal": "FZR912 - Muff Fuzz Deluxe",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/AGR Pedals/FZR912 - Muff Fuzz Deluxe.md"
+  },
+  {
+    "builder": "AGR Pedals",
+    "pedal": "OD85 - Full Range Overdrive",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/AGR Pedals/OD85 - Full Range Overdrive.md"
+  },
+  {
+    "builder": "Aguilar",
+    "pedal": "Agro - Bass Overdrive",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Aguilar/Agro - Bass Overdrive.md"
   }
 ]
