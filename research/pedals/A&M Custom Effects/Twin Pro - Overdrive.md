@@ -40,3 +40,5 @@ No reliable numbered hardware revision sequence was found. Twin Pro remains one 
 ## Sound
 Twin Pro is aimed at warm, familiar overdrive rather than extreme gain. The WRATH switch changes the character of the circuit, giving the otherwise simple Volume/Tone/Gain layout another tonal direction for blues and classic-rock applications. [1]
 
+## Sources checked
+1. Effects Database — A&M Custom Effects Twin Pro - Overdrive: https://www.effectsdatabase.com/model/am/twinpro
