@@ -198,34 +198,38 @@
   {
     "builder": "Abominable Electronics",
     "pedal": "Cat Dirt Mini - Killer Acid Artwork",
-    "image": null,
+    "image": "https://www.abominablepedals.com/cdn/shop/products/catdirt_yellow_1024x1024.png?v=1582518355",
     "source": null,
     "source_page": "https://www.abominablepedals.com/collections/all",
-    "research_record": "./research/pedals/Abominable Electronics/Cat Dirt Mini - Killer Acid Artwork.md"
+    "research_record": "./research/pedals/Abominable Electronics/Cat Dirt Mini - Killer Acid Artwork.md",
+    "image_source_page": "https://www.abominablepedals.com/products/cat-dirt-mini-pedal-killer-acid-collab"
   },
   {
     "builder": "Abominable Electronics",
     "pedal": "Demon Lung",
-    "image": null,
+    "image": "https://www.abominablepedals.com/cdn/shop/files/demonlung2025_1200x1200.png?v=1749051758",
     "source": null,
     "source_page": "https://www.abominablepedals.com/products/demon-lung-hyper-fuzz",
-    "research_record": "./research/pedals/Abominable Electronics/Demon Lung.md"
+    "research_record": "./research/pedals/Abominable Electronics/Demon Lung.md",
+    "image_source_page": "https://www.abominablepedals.com/products/demon-lung-hyper-fuzz"
   },
   {
     "builder": "Abominable Electronics",
     "pedal": "Hail Satan",
-    "image": null,
+    "image": "https://files.effectsdatabase.com/gear/thumbs/abominable_hailsatan_001.jpg",
     "source": null,
     "source_page": "https://www.effectsdatabase.com/model/abominable/hailsatan",
-    "research_record": "./research/pedals/Abominable Electronics/Hail Satan.md"
+    "research_record": "./research/pedals/Abominable Electronics/Hail Satan.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/abominable/hailsatan"
   },
   {
     "builder": "Abominable Electronics",
     "pedal": "Hail Satan Deluxe",
-    "image": null,
+    "image": "https://www.abominablepedals.com/cdn/shop/files/hsd2025_1200x1200.png?v=1749052094",
     "source": null,
     "source_page": "https://www.abominablepedals.com/products/hail-satan-deluxe",
-    "research_record": "./research/pedals/Abominable Electronics/Hail Satan Deluxe.md"
+    "research_record": "./research/pedals/Abominable Electronics/Hail Satan Deluxe.md",
+    "image_source_page": "https://www.abominablepedals.com/products/hail-satan-deluxe"
   },
   {
     "builder": "Abominable Electronics",
