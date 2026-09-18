@@ -82,6 +82,24 @@ Do not silently invent a design decision just to keep moving. If a foreseeable a
 
 When the user has explicitly answered a design decision, treat that answer as the source of truth and record the resulting decision in the project documentation when it affects the site's architecture.
 
+## Faceted filter design
+
+The left-hand archive navigation is intended to work as a **progressive, faceted filter system** rather than a single-choice menu.
+
+A visitor may combine clues such as:
+- search text
+- dirt type
+- builder
+- transistor type
+- diode type
+- other deliberately supported metadata filters
+
+All selected filters narrow the same result set in the main pedal area. Search and filters must work together rather than behaving as separate modes.
+
+Filter options should be presented with useful result counts where practical, so visitors can see how much each choice narrows the archive before clicking.
+
+The core use case is a visitor remembering incomplete information about a pedal and using several clues to rediscover it.
+
 ## Landing page navigation
 
 The landing page uses a compact library layout:
