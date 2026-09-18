@@ -196,7 +196,7 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 172
+- Pedals with research information: 171
 - Pedals with confirmed pictures: 141
 - Fully complete PRP pedals: 141
 - Remaining incomplete pedals: 3680
