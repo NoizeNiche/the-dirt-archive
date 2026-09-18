@@ -1428,5 +1428,13 @@
     "image_source_page": "https://www.chicagomusicexchange.com/products/adventure-audio-thaw-fuzz-849007",
     "source_page": "https://www.chicagomusicexchange.com/products/adventure-audio-thaw-fuzz-849007",
     "research_record": "./research/pedals/Adventure Audio/Thaw.md"
+  },
+  {
+    "builder": "Aguilar",
+    "pedal": "Fuzzistor - Bass Fuzz",
+    "image": "https://www.chicagomusicexchange.com/cdn/shop/products/aguilar-effects-and-pedals-fuzz-aguilar-fuzzistor-u4498932802-30163686654087.jpg?v=1673465172&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/aguilar-fuzzistor-1673034",
+    "source_page": "https://www.chicagomusicexchange.com/products/aguilar-fuzzistor-1673034",
+    "research_record": "./research/pedals/Aguilar/Fuzzistor - Bass Fuzz.md"
   }
 ]
