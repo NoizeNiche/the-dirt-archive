@@ -89,6 +89,18 @@ If the builder is already present, do not start a new builder census block. Add 
 ## Active census checkpoint
 The current live block set contains **212 block files** representing the active Builder -> Pedals research sequence through Block 214. The canonical builder index currently contains **493 builder identities**. Block 070 is absent. Block 142, Fairfield Circuitry, was removed as a duplicate because Fairfield is already represented elsewhere. Scrape C is the active alphabetic working census, and its current live layer contains **1,105 company/pedal/type rows**.
 
+## Filter metadata boundary
+
+The website may eventually expose **component-type metadata as filters**, without expanding the archive into component-level documentation.
+
+Allowed filter metadata includes:
+- **Transistor Type** (for example, Germanium, Silicon, MOSFET, JFET)
+- **Diode Type** (for example, Germanium, Silicon, LED, Schottky)
+
+Do **not** turn these filters into component inventories. Do not catalog transistor or diode part numbers, schematics, component values, BOMs, or other circuit-level documentation as part of this filter feature.
+
+These fields are metadata used to narrow pedal results. The filter system should remain separate from the Builder → Pedal core identity.
+
 ## Scope boundary
 Do not expand the active scope into photos, biographies, deep history, components, schematics, PCB work, BOMs, gutshots/internal imagery, cloning information, or unrelated website architecture unless the repository state explicitly changes the scope.
 
