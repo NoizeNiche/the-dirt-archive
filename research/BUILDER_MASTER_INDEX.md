@@ -6,8 +6,8 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **459 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-192.
+- **466 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-193.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
 - The current builder table is reconciled through **ID 440 / Block 187**.
@@ -484,6 +484,13 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 457 | Clay Jones | 192 |  |
 | 458 | Chord (by Daphon) | 192 | Chord / Daphon / AVSL |
 | 459 | Chiu Luen | 192 | Chiu Luen (DongGuan) Electronics |
+| 460 | Clarenzio | 193 |  |
+| 461 | Crossfire | 193 | Historical branded/OEM |
+| 462 | Crysta Professional | 193 | Historical branded/OEM |
+| 463 | Crestwood | 193 | Historical Shin-Ei/OEM brand |
+| 464 | CSL | 193 | Charles Summerfield Ltd / Colorsound-branded |
+| 465 | CS.Cathey | 193 | Cathey Co., Ltd. |
+| 466 | CSR | 193 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
