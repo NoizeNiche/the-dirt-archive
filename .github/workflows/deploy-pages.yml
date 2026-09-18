@@ -29,11 +29,14 @@ jobs:
         run: |
           test -f index.html
           test -f pedal.html
+          test -f pedal-detail.html
+          test -f research/PEDAL_INDEX.json
           test -f research/pedals/PEDAL_IMAGES.json
           python - <<'PY'
           import json
           from pathlib import Path
 
+          catalog = json.loads(Path("research/PEDAL_INDEX.json").read_text())
           manifest = json.loads(Path("research/pedals/PEDAL_IMAGES.json").read_text())
           indexed = {entry.get("research_record") for entry in manifest if entry.get("research_record")}
 
@@ -49,8 +52,11 @@ jobs:
 
           assert "No Photo Archived" in Path("index.html").read_text()
           assert "No Photo Archived" in Path("pedal.html").read_text()
-          assert "imageRecord&&imageRecord.research_record" in Path("pedal.html").read_text()
-          print(f"PRP manifest verified: {len(indexed)} research records")
+          assert "PEDAL_INDEX.json" in Path("index.html").read_text()
+          assert "PEDAL_INDEX.json" in Path("pedal-detail.html").read_text()
+          assert "item.research_record" in Path("pedal-detail.html").read_text()
+          assert catalog.get("count") == len(catalog.get("pedals", [])), "Pedal index count mismatch"
+          print("PRP manifest verified: {} research records; pedal index verified: {} pedals".format(len(indexed), catalog.get("count")))
           PY
 
       - name: Upload site
