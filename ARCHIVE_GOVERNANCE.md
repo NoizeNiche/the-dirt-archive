@@ -226,3 +226,8 @@ After every operation:
 
 ## Durable checkpoints
 The repository is the durable project memory. Every meaningful stopping point must leave enough state for a new ChatGPT/Codex session to resume without relying on conversation history.
+
+
+## PRP1 batch 026 checkpoint
+
+Batch 026 performed another exact-order photo-recovery audit across the first 10 incomplete tracker records, from **A.Y.A - Bass Fuzz** through **Accel Audio - OD-SS Express Overdrive**. All ten already have Pedal Info research and their canonical research links remain intact. The A.Y.A Bass Fuzz search was strengthened with current and historical references, but the available current **BASS FUZZ II** listing was not promoted to the base-model image because its model designation is explicitly different. No new direct exact-model image asset met the archive's photo standard in this 10-pedal window, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. The work-order correction is explicit: the next exact-order unresolved target remains **A.Y.A - Bass Fuzz**, because the PRP tracker is the source of truth for the first incomplete record.
