@@ -100,8 +100,8 @@ Current PRP checkpoint:
 - Pedals with research information: 215
 - Pedals with confirmed pictures: 155
 - Fully complete PRP pedals: 155
-- Remaining incomplete pedals: 3661
-- Researched but waiting only for a confirmed picture: 60
+- Remaining incomplete pedals: 3659
+- Researched but waiting only for a confirmed picture: 58
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **AGR Pedals - FZR912 - Muff Fuzz Deluxe**
 
@@ -380,4 +380,4 @@ Batch 025 processed the next 10 incomplete PRP1 records in exact website order, 
 
 ## PRP1 batch 026 checkpoint
 
-Batch 026 performed another exact-order photo-recovery audit across the first 10 incomplete tracker records, from **A.Y.A - Bass Fuzz** through **Accel Audio - OD-SS Express Overdrive**. All ten already have Pedal Info research and their canonical research links remain intact. The A.Y.A Bass Fuzz search was strengthened with current and historical references, but the available current **BASS FUZZ II** listing was not promoted to the base-model image because its model designation is explicitly different. No new direct exact-model image asset met the archive's photo standard in this 10-pedal window, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. The work-order correction is explicit: the next exact-order unresolved target remains **A.Y.A - Bass Fuzz**, because the PRP tracker is the source of truth for the first incomplete record.
+Batch 026 continued the exact-order photo-recovery pass from **AGR Pedals - FZR912 - Muff Fuzz Deluxe** through **AJcustom - Distortion**. Two exact-model photos were independently confirmed and promoted: the original black **Aguilar - Agro - Bass Overdrive** from Thomann UK and **Aguilar - Storm King - Micro Bass Distortion/Fuzz** from Chicago Music Exchange. **FZR912 - Muff Fuzz Deluxe** and **OD85 - Full Range Overdrive** remain photo-pending because the accessible Effects Database records show exact-model imagery, but a safe direct image asset could not be independently archived from those records. No substitute or guessed image URL was promoted. The next exact-order unresolved target remains **AGR Pedals - FZR912 - Muff Fuzz Deluxe**.
