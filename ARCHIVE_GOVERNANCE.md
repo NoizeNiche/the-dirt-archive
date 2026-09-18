@@ -193,9 +193,9 @@ The research system should make those comparisons easy and immediate.
 ## Current canonical checkpoint
 As of Batch 217:
 - **502 canonical builder identities** are represented.
-- **215 live research blocks** are present through Block 217, with Block 070 absent and Block 142 removed as a duplicate.
-- The canonical builder index is reconciled through **ID 502 / Block 217**.
-- The active Scrape C checkpoint is **after ThorpyFX**, with **2352 live company/pedal/type rows**.
+- **216 live research blocks** are present through Block 217, with Block 070 absent and Block 142 removed as a duplicate.
+- The canonical builder index is reconciled through **ID 502 / Block 218**.
+- The active Scrape C checkpoint is **after ZVEX Effects**, with **2352 live company/pedal/type rows**.
 
 ## Workflow discipline
 Before an operation:
