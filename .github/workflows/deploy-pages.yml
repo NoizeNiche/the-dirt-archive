@@ -29,11 +29,33 @@ jobs:
         with:
           enablement: true
 
-      - name: Verify site files
+      - name: Verify site files and PRP links
         run: |
           test -f index.html
           test -f pedal.html
           test -f research/pedals/PEDAL_IMAGES.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          manifest = json.loads(Path("research/pedals/PEDAL_IMAGES.json").read_text())
+          indexed = {entry.get("research_record") for entry in manifest if entry.get("research_record")}
+
+          for entry in manifest:
+              rr = entry.get("research_record")
+              if rr:
+                  path = Path(rr.lstrip("./"))
+                  assert path.exists(), f"Missing PRP research file: {rr}"
+
+          for path in Path("research/pedals").rglob("*.md"):
+              rel = "./" + path.as_posix()
+              assert rel in indexed, f"Unlinked PRP research record: {rel}"
+
+          assert "No Photo Archived" in Path("index.html").read_text()
+          assert "No Photo Archived" in Path("pedal.html").read_text()
+          assert "imageRecord&&imageRecord.research_record" in Path("pedal.html").read_text()
+          print(f"PRP manifest verified: {len(indexed)} research records")
+          PY
 
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
