@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <title>The Dirt Archive</title>
 <style>
 :root{
@@ -404,7 +407,7 @@ main{padding:24px 0 72px}
 </main>
 
 <script>
-const DATA_VERSION='2026-09-18-prp-068';
+const DATA_VERSION='2026-09-18-prp-070';
 const IMAGE_DATA='./research/pedals/PEDAL_IMAGES.json?v='+DATA_VERSION;
 const DATA=[
   './research/MASTER_PEDAL_CENSUS.csv?v='+DATA_VERSION,
@@ -470,7 +473,7 @@ function syncUrl(){
 function slugParams(x){
   const p=new URLSearchParams({builder:x.company,pedal:x.pedal});
   p.set('v',DATA_VERSION);
-  return './pedal.html?'+p.toString();
+  return './pedal-detail.html?'+p.toString();
 }
 
 function typeMatches(x){
