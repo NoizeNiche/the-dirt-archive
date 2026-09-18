@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-001",
+  "version": "2026-09-18-prp1-batch-002",
   "count": 3821,
   "pedals": [
     {
@@ -278,9 +278,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "https://www.abominablepedals.com/cdn/shop/products/catdirt_yellow_1024x1024.png?v=1582518355",
       "source_page": "https://www.abominablepedals.com/collections/all",
-      "research_record": "./research/pedals/Abominable Electronics/Cat Dirt Mini - Killer Acid Artwork.md"
+      "research_record": "./research/pedals/Abominable Electronics/Cat Dirt Mini - Killer Acid Artwork.md",
+      "image_source_page": "https://www.abominablepedals.com/products/cat-dirt-mini-pedal-killer-acid-collab"
     },
     {
       "company": "Abominable Electronics",
@@ -288,9 +289,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://www.abominablepedals.com/cdn/shop/files/demonlung2025_1200x1200.png?v=1749051758",
       "source_page": "https://www.abominablepedals.com/products/demon-lung-hyper-fuzz",
-      "research_record": "./research/pedals/Abominable Electronics/Demon Lung.md"
+      "research_record": "./research/pedals/Abominable Electronics/Demon Lung.md",
+      "image_source_page": "https://www.abominablepedals.com/products/demon-lung-hyper-fuzz"
     },
     {
       "company": "Abominable Electronics",
@@ -299,9 +301,10 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://files.effectsdatabase.com/gear/thumbs/abominable_hailsatan_001.jpg",
       "source_page": "https://www.effectsdatabase.com/model/abominable/hailsatan",
-      "research_record": "./research/pedals/Abominable Electronics/Hail Satan.md"
+      "research_record": "./research/pedals/Abominable Electronics/Hail Satan.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/abominable/hailsatan"
     },
     {
       "company": "Abominable Electronics",
@@ -310,9 +313,10 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://www.abominablepedals.com/cdn/shop/files/hsd2025_1200x1200.png?v=1749052094",
       "source_page": "https://www.abominablepedals.com/products/hail-satan-deluxe",
-      "research_record": "./research/pedals/Abominable Electronics/Hail Satan Deluxe.md"
+      "research_record": "./research/pedals/Abominable Electronics/Hail Satan Deluxe.md",
+      "image_source_page": "https://www.abominablepedals.com/products/hail-satan-deluxe"
     },
     {
       "company": "Abominable Electronics",
