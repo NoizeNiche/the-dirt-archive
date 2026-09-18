@@ -105,7 +105,7 @@ Current PRP checkpoint:
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: Acid Fuzz - Mk1.5
 
-PRP1 batch 003 covered the next ten unresolved parent records in exact website order, from AC Noises - Urla through Aclam Guitars - Go Rocky Go. Most remain photo-pending because a safe direct image file was not confirmed. One new exact model photo was archived for Acid Fuzz - Italian Fuzz using the builder's documented Italian Fuzz Vintage Series example. The next unresolved target is Acid Fuzz - Mk1.5.
+PRP1 batch 004 covered the next ten unresolved parent records in exact catalog order, from Acid Fuzz - Mk1.5 through Aclam Guitars - The Woman Tone. Exact photos were archived for NKT275 Acid Fuzz Face, Cinnamon Drive, Cinnamon Drive - Dreamer Edition, Dr. Robert, Go Rocky Go, Go Rocky Go - White Album Edition, The Mocker, The Windmiller Preamp, and The Woman Tone. Research records were added for The Mocker, The Windmiller Preamp, and The Woman Tone, and Dr. Robert was updated for the documented V3 changes. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed. The next unresolved target remains Acid Fuzz - Mk1.5.
 
 The next session must read research/PRP_RULES.md, CURRENT_STATE.md, research/BREADCRUMB.md, and research/PRP_TRACKER.csv before continuing.
 
