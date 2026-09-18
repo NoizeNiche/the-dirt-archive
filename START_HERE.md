@@ -97,6 +97,25 @@ Filter options should be presented with useful result counts where practical, so
 
 The core use case is a visitor remembering incomplete information about a pedal and using several clues to rediscover it.
 
+## Pedal Research Phase foundation
+
+After the Builder → Pedals census is complete through Z, the project enters a separate **Pedal Research Phase**.
+
+This phase is deliberately **one pedal at a time**. Every cataloged pedal gets its own research pass and its own documented record.
+
+The foundational research fields are:
+- **Colorways**: documented color/finish variants where meaningful
+- **Versions**: distinct named or documented versions/revisions
+- **Version changes**: what changed between versions, when the evidence supports it
+- **Transistor type**: the transistor technology/type used, without turning the archive into a component inventory
+- **Diode type**: the diode technology/type used, without turning the archive into a component inventory
+- **Sound description**: a concise **2–3 sentence** description of the pedal's audible character, based on documented product information and/or reliable listening references
+
+The purpose is to turn each basic catalog entry into a useful pedal reference page while preserving the core archive structure:
+**Builder → Pedal → Pedal Info → Photo**.
+
+The Pedal Research Phase may add research metadata to existing pedal records, but it does not replace the canonical builder/pedal census or retroactively change the active A → Z census mission.
+
 ## No-duplicate gate
 `research/BUILDER_MASTER_INDEX.md` is the canonical builder identity gate for this phase.
 
