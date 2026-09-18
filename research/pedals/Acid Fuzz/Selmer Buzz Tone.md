@@ -36,4 +36,7 @@ This is a loud, wide-range, amp-pushing dirt box with a strong vintage transisto
 4. Acid Fuzz — Selmer Buzz Tone Re-build: https://www.acidfuzz.com/products/selmer-buzz-tone-re-build
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** **Verified exact pedal photograph**
+- **Image source:** Acid Fuzz official product page
+- **Direct image:** https://www.acidfuzz.com/cdn/shop/products/Selmer_Buzz_Tone_6de2291f221f4938810c9cec4eab83f2_orig_grande.jpg?v=1515818430
+- **Source page:** https://www.acidfuzz.com/products/selmer-buzz-tone
