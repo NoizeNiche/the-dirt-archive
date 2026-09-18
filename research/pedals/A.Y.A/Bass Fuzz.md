@@ -47,3 +47,11 @@ Bass Fuzz is a straightforward, compact fuzz intended to add aggressive harmonic
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/aya/bassfuzz
 - **Exact-model visual reference:** A Mercari listing was found showing the A.Y.A Tokyo Japan Bass Fuzz enclosure and its Fuzz/Volume layout; no direct image asset was safely archived from that listing.
 - **Archive note:** The visual reference supports exact model identity, but the public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
+
+
+## PRP1 photo-recovery audit — September 18, 2026
+
+A current used-market listing for **A.Y.A Bass Fuzz II** was rechecked during PRP1 photo recovery. Because that listing explicitly identifies the pedal as **BASS FUZZ II**, its photograph is not used as the base **Bass Fuzz** image. Separate historical references continue to identify the base A.Y.A Bass Fuzz, including an owner reference describing a 30-unit limited run, but no safe direct exact-model image asset for the base identity was archived during this pass. [5][6]
+
+5. eBay — A.Y.A Bass Fuzz BASS FUZZII, current listing: https://www.ebay.com/itm/198645645124
+6. MION Upcycle — A.Y.A Tokyo Japan BASS FUZZ listing: https://kaitori.mion.tokyo/%E6%A5%BD%E5%99%A8%E8%B2%B7%E5%8F%96%E9%87%91%E9%A1%8D/
