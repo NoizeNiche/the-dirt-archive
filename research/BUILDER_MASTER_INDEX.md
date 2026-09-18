@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **390 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **431 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **177 block files** are currently present: Blocks 001-069, 071-141, and 143-179.
+- **395 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **436 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **178 block files** are currently present: Blocks 001-069, 071-141, and 143-180.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 390 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 395 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -416,6 +416,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 388 | Circuitous FX | 179 |  |
 | 389 | Circus Freak Music | 179 | Circus Freak Stomp Boxes |
 | 390 | Cosmic Terror | 179 | Cosmic Terror Effects / Cosmicterrorcabs |
+| 391 | Celmo | 180 |  |
+| 392 | Coopersonic | 180 |  |
+| 393 | Copper Gear | 180 | CopperGear |
+| 394 | CostaLab | 180 | CostaLab |
+| 395 | Charlie Paolo Custom Effects | 180 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
