@@ -84,13 +84,13 @@ Current architecture decisions:
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 188
+- Pedals with research information: 195
 - Pedals with confirmed pictures: 149
 - Fully complete PRP pedals: 149
 - Remaining incomplete pedals: 3672
-- Researched but waiting only for a confirmed picture: 39
+- Researched but waiting only for a confirmed picture: 46
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **Advance Tube Technology - Boost Cat Drive**
+- Current PRP1 target: **Adventure Audio - Demogorgon Fuzz**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
