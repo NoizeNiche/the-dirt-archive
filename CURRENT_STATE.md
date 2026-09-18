@@ -79,6 +79,24 @@ Block 164 contributed **90 company/pedal/type rows**. Block 165 contributed **17
 
 The primary `research/MASTER_PEDAL_CENSUS.csv` remains at its prior consolidated checkpoint of **2,466 company/pedal/type rows across 103 companies**. The active `research/SCRAPE_C_CENSUS.csv` now contains **2681 company/pedal/type rows** and is the live working layer for the current alphabetic scrape. The master catalog is intentionally separate from the active Scrape B and C working censuses until a later consolidation step.
 
+## Pedal Research Phase checkpoint
+
+The Builder -> Pedals census has reached the end of the alphabet at **ZVEX Effects** in Block 218. The project is now entering the planned **Pedal Research Phase**.
+
+Research is being done **one pedal at a time**. Each researched pedal receives a dedicated record covering:
+- colorways
+- versions
+- documented version changes
+- transistor type
+- diode type
+- a concise 2–3 sentence sound description
+- research confidence and source notes
+
+The first research record is:
+- `research/pedals/Amptweaker/Bass_BluesFuzz.md`
+
+Important: the archive's catalog name **Bass BluesFuzz** is retained. Current sources identify the surviving bass model as **Bass BluesFuzz Jr.**, so the research record documents that identity relationship rather than silently changing the catalog.
+
 ## Website
 `index.html` is now the actual catalog page, not an under-construction placeholder.
 
