@@ -1155,5 +1155,70 @@
     "image": "https://www.aclamguitars.com/store/3902-aclam_product/the-woman-tone.jpg",
     "source_page": "https://www.aclamguitars.com/store/the-woman-tone.html",
     "research_record": "./research/pedals/Aclam Guitars/The Woman Tone.md"
+  },
+  {
+    "builder": "Acorn Amps",
+    "pedal": "Epstein Didn't Kill Himself Fuzz",
+    "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/5715508e-e8a1-45e7-a91b-e9aebf4fcdd0/Ep%252Bfuzz%252Bv2.jpg",
+    "source_page": "https://www.acornamps.com/gear/epstein",
+    "research_record": "./research/pedals/Acorn Amps/Epstein Didn't Kill Himself Fuzz.md"
+  },
+  {
+    "builder": "Acorn Amps",
+    "pedal": "Epstein Isn't Dead Op-Amp Boost/Distortion",
+    "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/f583585f-0471-416d-ae33-f4bcdd7cec29/EIDlit.jpg",
+    "source_page": "https://www.acornamps.com/gear/epstein-isnt-dead-op-amp-boostdistortion",
+    "research_record": "./research/pedals/Acorn Amps/Epstein Isn't Dead Op-Amp Boost-Distortion.md"
+  },
+  {
+    "builder": "Acorn Amps",
+    "pedal": "Kakarot Fuzz",
+    "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/1700075944859-2PAW2Z6559A1JFTNRROG/newkakarotorangeLitcropped.jpg",
+    "source_page": "https://www.acornamps.com/gear/kakarot-fuzz",
+    "research_record": "./research/pedals/Acorn Amps/Kakarot Fuzz.md"
+  },
+  {
+    "builder": "Acorn Amps",
+    "pedal": "Mind Killer Dual Distortion",
+    "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/1700076843823-RBFQCSQW91ITEYNV0OYR/newMKLitcropped.jpg",
+    "source_page": "https://www.acornamps.com/gear/mind-killer",
+    "research_record": "./research/pedals/Acorn Amps/Mind Killer Dual Distortion.md"
+  },
+  {
+    "builder": "Acorn Amps",
+    "pedal": "Solid State Amp/Preamp",
+    "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/1700078249997-HVJMGWWSR0LSF7UY7AU3/newSSDDcropped.jpg",
+    "source_page": "https://www.acornamps.com/gear/solid-state-amppreamp-pedal",
+    "research_record": "./research/pedals/Acorn Amps/Solid State Amp-Preamp.md"
+  },
+  {
+    "builder": "Acorn Amps",
+    "pedal": "TMA-1 Fuzz",
+    "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/1700074166873-LK4LW5X6WBD5BM7QC435/newTMALitcropped.jpg",
+    "source_page": "https://www.acornamps.com/gear/tma-1-fuzz",
+    "research_record": "./research/pedals/Acorn Amps/TMA-1 Fuzz.md"
+  },
+  {
+    "builder": "Acorn Amps",
+    "pedal": "Vegeta Drive",
+    "image": "https://images.squarespace-cdn.com/content/v1/579a694129687f6efd6fc60d/2a5bc3b5-2cf3-49c3-b595-f8e1c2bef046/MagicEraser_231023_121308.jpg",
+    "source_page": "https://www.acornamps.com/gear/vegeta-drive",
+    "research_record": "./research/pedals/Acorn Amps/Vegeta Drive.md"
+  },
+  {
+    "builder": "Acoustic Imaginearing",
+    "pedal": "QuantumDrive",
+    "image": "https://rvb-img.reverb.com/i/s--_shxmvb0--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/yet9orua3ajy6iayqjni.jpg",
+    "source_page": "https://www.acousticimaginearing.com/",
+    "research_record": "./research/pedals/Acoustic Imaginearing/QuantumDrive.md",
+    "image_source_page": "https://reverb.com/item/81350286-acoustic-imaginearing-quantum-drive"
+  },
+  {
+    "builder": "AD Pedals",
+    "pedal": "Aerodynamic overdrive",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/adpedals_aerodynamic_001.jpg",
+    "source_page": "https://www.effectsdatabase.com/model/adpedals/aerodynamic",
+    "research_record": "./research/pedals/AD Pedals/Aerodynamic overdrive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/adpedals/aerodynamic"
   }
 ]
