@@ -31,4 +31,6 @@ The Mk1.5 occupies the two-transistor Tone Bender/Fuzz Face family, with a stron
 2. Acid Fuzz — https://www.acidfuzz.com/collections/all
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** **Confirmed**
+- **Image source:** https://www.effectsdatabase.com/model/acidfuzz/mk15
+- **Image:** https://files.effectsdatabase.com/gear/thumbs/acidfuzz_mk15_001.jpg
