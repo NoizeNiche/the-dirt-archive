@@ -97,13 +97,13 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 188
+- Pedals with research information: 195
 - Pedals with confirmed pictures: 149
 - Fully complete PRP pedals: 149
 - Remaining incomplete pedals: 3672
-- Researched but waiting only for a confirmed picture: 39
+- Researched but waiting only for a confirmed picture: 46
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **Advance Tube Technology - Boost Cat Drive**
+- Current PRP1 target: **Adventure Audio - Demogorgon Fuzz**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -316,3 +316,8 @@ The next exact-order unresolved target remains **Add+ Pedals - Super Drive**.
 ## PRP1 batch 017 checkpoint
 
 Batch 017 processed the next 10 incomplete PRP1 records in exact catalog order, from Add+ Pedals - Super Drive through Advance Tube Technology - Over Cat Drive. New research records were added for Advance Tube Technology - Boost Cat Drive and Over Cat Drive. No new photo was promoted without a safe exact-model image match.
+
+
+## PRP1 batch 018 checkpoint
+
+Batch 018 processed the next 10 incomplete PRP1 records in exact catalog order, from Advance Tube Technology - Boost Cat Drive through AED - Blue Bee. The two Advance Tube Technology records were deepened with additional historical documentation, and seven new research records were added for Adventure Audio Demogorgon Fuzz, Dream Reaper, Fuzz Peaks, Fuzz Peaks II, Glacial Zenith - Overdrive, Thaw, and AED Blue Bee. No photo was promoted without a safe exact-model image asset.
