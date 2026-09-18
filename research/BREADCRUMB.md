@@ -43,17 +43,84 @@ Batch 218 continued the alphabetic scrape from Vemuram through ZVEX Effects, cov
 Batch 217 added 17 builders and 308 net-new company/pedal/type rows, moving the active alphabetic checkpoint from Phaez Amplification through ThorpyFX. No new canonical builder identity was required.
 
 ## Website state
-`index.html` is the working public catalog page.
 
-It currently provides:
-- Company list
-- Company filtering
-- Pedal list
-- Company/pedal search
-- Pedal detail view
-- Pedal Info area
-- Photo of Pedal area
-- Desktop and mobile layouts
+index.html is the working public catalog page.
 
-`.github/workflows/deploy-pages.yml` is the only website automation. The previous automatic census-rewrite and research-export workflows were removed so website changes do not cause the catalog to be rewritten behind the scenes.
+The individual pedal page benchmark is the current DRV page:
+- permanent left-side archive navigation
+- Archive Home
+- search
+- Dirt Type choices
+- scrollable alphabetical builder list
+- pedal name and builder
+- pedal information as the main content
+- dedicated 3:4 photo area
+- No Photo Archived when an exact photo is not confirmed
+- clean desktop and mobile behavior
+
+Public pedal pages do not show:
+- Research confidence
+- Photo
+- Sources checked
+
+## Current PRP checkpoint
+
+PRP is the active mission.
+
+Work follows the actual website pedal list in exact A-to-Z order. Start with the first incomplete pedal and continue straight downward.
+
+PRP is done in verified batches of 10 pedals, or as many as can be responsibly completed in one pass. Each pedal receives its own individual research record.
+
+A pedal is only checked off when it has both pedal information and a confirmed picture of that exact pedal/version.
+
+Current numbers:
+- 3,821 unique pedals
+- 114 researched
+- 88 confirmed pictures
+- 88 fully complete
+- 3,733 remaining incomplete
+- 26 researched but waiting only for a picture
+
+Current position:
+- Latest research record: research/pedals/Abominable Electronics/Hail Satan Deluxe.md
+- Next pedal: Abominable Electronics - Hellmouth
+
+## Current PRP data files
+
+research/PEDAL_INDEX.json
+- single pedal lookup file used by the website
+
+research/pedals/PEDAL_IMAGES.json
+- picture and research-record connections
+
+research/PRP_TRACKER.csv
+- one row per unique Builder + Pedal
+- Pedal Info status
+- Picture status
+- PRP Complete status
+
+research/PRP_RULES.md
+- permanent PRP operating rules
+
+## Resume instructions
+
+At the start of the next PRP session:
+1. Read START_HERE.md.
+2. Read ARCHIVE_GOVERNANCE.md.
+3. Read CURRENT_STATE.md.
+4. Read research/BREADCRUMB.md.
+5. Read research/PRP_RULES.md.
+6. Read research/PRP_TRACKER.csv.
+7. Inspect the actual repository.
+8. Find the first incomplete pedal in website order.
+9. Work the next 10.
+10. Recheck every new record, picture connection, tracker row, and website connection before publishing.
+
+Do not resume from conversation memory when the repository says otherwise.
+
+## Publishing
+
+.github/workflows/deploy-pages.yml is the website's automatic publishing system.
+
+A PRP batch is not considered live until the GitHub Pages publishing run succeeds.
 
