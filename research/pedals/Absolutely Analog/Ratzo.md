@@ -39,3 +39,7 @@ Ratzo follows the familiar RAT family path from lower-gain, amp-like drive into 
 1. Effects Database related RAT listings: https://www.effectsdatabase.com/model/proco/rat
 2. Gilmourish — Classic tone: Time: https://www.gilmourish.com/?p=1320
 
+## Photo
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** https://www.effectsdatabase.com/model/proco/rat
+- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
