@@ -39,3 +39,5 @@ No reliable numbered hardware revision sequence was found. Crash Central remains
 ## Sound
 Crash Central is aimed at heavier rock and metal distortion rather than low-gain overdrive. The three main controls cover the basic gain/EQ/output functions, while the ROUGH switch changes the feel enough that A&M described it as offering a second character from the same pedal. [1]
 
+## Sources checked
+1. Effects Database — A&M Custom Effects Crash Central - Crunch Distortion: https://www.effectsdatabase.com/model/am/crashcentral
