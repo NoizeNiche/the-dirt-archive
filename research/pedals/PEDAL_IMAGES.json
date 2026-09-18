@@ -1116,9 +1116,10 @@
   {
     "builder": "Acid Fuzz",
     "pedal": "Italian Fuzz",
-    "image": null,
+    "image": "https://www.acidfuzz.com/cdn/shop/products/Italian_Fuzz_Vintage_Series_1794291fb8ab4bdb9cd4ba64d07c565d_orig_grande.jpg?v=1515819465",
     "source_page": "https://www.acidfuzz.com/collections/all",
-    "research_record": "./research/pedals/Acid Fuzz/Italian Fuzz.md"
+    "research_record": "./research/pedals/Acid Fuzz/Italian Fuzz.md",
+    "image_source_page": "https://www.acidfuzz.com/products/italian-fuzz-vintage-series"
   },
   {
     "builder": "Acid Fuzz",
