@@ -66,14 +66,15 @@ Read research/PRP_RULES.md before doing PRP work. That file is the permanent ope
 ## Current PRP checkpoint
 
 - Unique pedals: 3,821
-- Researched: 114
-- Confirmed pictures: 88
-- Fully complete: 88
-- Remaining: 3,733
-- Researched but picture missing: 26
-- Next pedal: Abominable Electronics - Hellmouth
+- Researched: 124
+- Confirmed pictures: 94
+- Fully complete: 94
+- Remaining: 3,727
+- Researched but picture missing: 30
+- Next pedal: AC Noises - Arpiona
 
-After every 10-pedal batch, update CURRENT_STATE.md and research/BREADCRUMB.md with the new counts and next pedal.
+Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
+
 
 ## Current scrape checkpoint
 
