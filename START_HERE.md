@@ -79,6 +79,24 @@ The single search field lives at the top of the left-hand navigation panel, abov
 
 Pedal cards are real links to `pedal.html` with the builder and pedal passed in the URL, giving every cataloged pedal an individual page.
 
+## Faceted filter design
+
+The left-hand archive navigation is intended to work as a **progressive, faceted filter system** rather than a single-choice menu.
+
+A visitor may combine clues such as:
+- search text
+- dirt type
+- builder
+- transistor type
+- diode type
+- other deliberately supported metadata filters
+
+All selected filters narrow the same result set in the main pedal area. Search and filters must work together rather than behaving as separate modes.
+
+Filter options should be presented with useful result counts where practical, so visitors can see how much each choice narrows the archive before clicking.
+
+The core use case is a visitor remembering incomplete information about a pedal and using several clues to rediscover it.
+
 ## No-duplicate gate
 `research/BUILDER_MASTER_INDEX.md` is the canonical builder identity gate for this phase.
 
