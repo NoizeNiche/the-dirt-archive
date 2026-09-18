@@ -125,10 +125,10 @@ The page:
 The website currently contains **3,821 unique pedals** after combining and deduplicating all live catalog lists.
 
 Current PRP progress:
-- **0** have pedal information researched.
-- **0** have a confirmed pedal picture.
-- **0** are fully checked off because they have **both**.
-- **3,821** still need a complete PRP entry.
+- **74** have pedal information researched.
+- **64** have a confirmed pedal picture.
+- **64** are fully checked off because they have **both**.
+- **3,757** still need a complete PRP entry.
 - **10** are researched but currently waiting only for a confirmed picture.
 
 The complete checklist is stored in:
