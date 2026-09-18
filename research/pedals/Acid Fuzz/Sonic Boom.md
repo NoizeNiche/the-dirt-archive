@@ -47,4 +47,7 @@ Sonic Boom is less a single fuzz sound than a small psychedelic effects rig in a
 5. Reverb — Acid Fuzz Sonic Boom Germanium, silver hammered: https://reverb.com/item/63246803-acid-fuzz-sonic-boom-germanium-as-new-nos-silver-hammered
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** **Verified exact pedal photograph**
+- **Image source:** Acid Fuzz official product page
+- **Direct image:** https://www.acidfuzz.com/cdn/shop/products/Sonic_Boom_p2p_1966f8e93a24444f87d8b8101952f115_orig_grande.jpg?v=1774752691
+- **Source page:** https://www.acidfuzz.com/products/sonic-boom-p2p
