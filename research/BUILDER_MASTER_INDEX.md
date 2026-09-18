@@ -7,10 +7,10 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 ## Current live census
 
 - **502 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-217.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-218.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder table is reconciled through **ID 502 / Block 217**.
+- The current builder table is reconciled through **ID 502 / Block 218**.
 
 ## Rules
 
