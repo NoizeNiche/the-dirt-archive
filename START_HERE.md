@@ -14,6 +14,24 @@ Before doing project work, read these files in this order:
 
 Then inspect the actual repository state and determine what is complete, what the current mission is, what the exact next action is, and what must not be touched.
 
+## Highest-priority design clarification rule
+
+For any website/UI/design/build task, **clarifying questions that could materially affect the result must be resolved before implementation**.
+
+Before writing or changing site code, actively check for questions about:
+- layout and visual hierarchy
+- navigation and filtering behavior
+- what a click should do
+- what belongs in the main content area versus menus
+- mobile/responsive behavior
+- URL, page, or linking behavior
+- data fields the interface depends on
+- future extensibility when the choice would make later rework likely
+
+Do not silently invent a design decision just to keep moving. If a foreseeable ambiguity could cause a substantial redo, **stop and ask the user first**. This rule takes priority over speed or convenience.
+
+When the user has explicitly answered a design decision, treat that answer as the source of truth and record the resulting decision in the project documentation when it affects the site's architecture.
+
 ## Current project priority
 **Builder → Pedals. THAT’S IT.**
 
