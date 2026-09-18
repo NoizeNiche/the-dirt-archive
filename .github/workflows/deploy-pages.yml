@@ -101,26 +101,27 @@ jobs:
           PY
 
 
-      - name: Browser smoke test for live data and visual readability
+      - name: Browser audit for all researched pedal pages
         run: |
           python -m http.server 4173 >/tmp/dirt-archive-http.log 2>&1 &
           SERVER_PID=$!
           trap 'kill $SERVER_PID' EXIT
+
           npm install --no-save playwright
           npx playwright install --with-deps chromium
+
           node - <<'JS'
           const { chromium } = require('playwright');
 
           function rgb(value) {
-            const m = value.match(/rgba?\(([^)]+)\)/);
+            const m = value && value.match(/rgba?\(([^)]+)\)/);
             if (!m) return null;
-            const parts = m[1].split(',').map(x => Number.parseFloat(x.trim()));
-            return parts.slice(0,3);
+            return m[1].split(',').slice(0,3).map(x => Number.parseFloat(x.trim()));
           }
 
-          function luminance(rgb) {
-            if (!rgb) return 0;
-            return rgb.map(v => {
+          function luminance(values) {
+            if (!values) return 0;
+            return values.map(v => {
               v /= 255;
               return v <= 0.03928 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4);
             }).reduce((a,v,i) => a + v * [0.2126,0.7152,0.0722][i], 0);
@@ -132,20 +133,18 @@ jobs:
 
             const catalogResponse = await page.request.get('http://127.0.0.1:4173/research/PEDAL_INDEX.json');
             if (!catalogResponse.ok()) throw new Error('Could not load the pedal index for browser audit.');
-            const catalog = await catalogResponse.json();
 
+            const catalog = await catalogResponse.json();
             const researchedParents = (catalog.pedals || []).filter(
               x => x.research_record && x.catalog_role !== 'variation'
             );
-
-            console.log('Auditing researched parent pedal pages:', researchedParents.length);
-
-
 
             await page.goto('http://127.0.0.1:4173/index.html', {waitUntil:'networkidle'});
             const cardCount = await page.locator('#grid .card').count();
             if (cardCount > 72) throw new Error('Catalog rendered more than the intended 72-card window.');
             if (await page.locator('.boardRail').count()) throw new Error('Obsolete pedalboard rail elements remain on the page.');
+
+            console.log('Auditing', researchedParents.length, 'researched parent pedal pages.');
 
             for (const entry of researchedParents) {
               const url =
@@ -157,7 +156,8 @@ jobs:
               await page.goto(url, {waitUntil:'domcontentloaded'});
               await page.waitForFunction(() => {
                 const el = document.querySelector('#research');
-                return el && el.textContent.trim().length > 40 &&
+                return el &&
+                  el.textContent.trim().length > 40 &&
                   !/loading pedal information|could not be loaded/i.test(el.textContent);
               }, null, {timeout:10000});
 
@@ -172,14 +172,14 @@ jobs:
                   background: style.backgroundColor,
                   width: rect.width,
                   height: rect.height,
-                  recordVisible: record && !record.hidden
+                  recordVisible: !!record && !record.hidden
                 };
               });
 
               if (!result.recordVisible) {
-                throw new Error('Pedal detail record did not become visible: ' + entry.company + ' / ' + entry.pedal);
+                throw new Error('Pedal detail record is hidden: ' + entry.company + ' / ' + entry.pedal);
               }
-              if (result.text.length < 40) {
+              if (result.text.length <= 40) {
                 throw new Error('Pedal Info is unexpectedly short: ' + entry.company + ' / ' + entry.pedal);
               }
               if (result.width < 200 || result.height < 40) {
@@ -191,7 +191,7 @@ jobs:
               const contrast = (Math.max(fg,bg)+0.05)/(Math.min(fg,bg)+0.05);
               if (contrast < 4.5) {
                 throw new Error(
-                  'Pedal Info text/background contrast is below the readability threshold for ' +
+                  'Pedal Info text/background contrast is below threshold for ' +
                   entry.company + ' / ' + entry.pedal + ': ' + contrast.toFixed(2)
                 );
               }
@@ -199,50 +199,12 @@ jobs:
               console.log('PASS', entry.company, '/', entry.pedal);
             }
 
-
-            const cardCount = await page.locator('#grid .card').count();
-            if (cardCount > 72) throw new Error('Catalog rendered more than the intended 72-card window.');
-            if (await page.locator('.boardRail').count()) throw new Error('Obsolete pedalboard rail elements remain on the page.');
-
-            await page.goto(
-              'http://127.0.0.1:4173/pedal-detail.html?builder=1981%20Inventions&pedal=DRV%20MOD%201',
-              {waitUntil:'networkidle'}
-            );
-            await page.waitForFunction(() => {
-              const el=document.querySelector('#research');
-              return el && el.textContent.trim().length > 100;
-            });
-
-            const checks = await page.evaluate(() => {
-              const el=document.querySelector('#research');
-              const cs=getComputedStyle(el);
-              const rect=el.getBoundingClientRect();
-              return {
-                text:el.textContent.trim(),
-                color:cs.color,
-                background:cs.backgroundColor,
-                width:rect.width,
-                height:rect.height
-              };
-            });
-
-            if (!checks.text.includes('What this pedal is')) {
-              throw new Error('Known researched pedal did not render its Pedal Info content.');
-            }
-            if (checks.width < 200 || checks.height < 80) {
-              throw new Error('Pedal Info container collapsed unexpectedly.');
-            }
-
-            const fg=luminance(rgb(checks.color));
-            const bg=luminance(rgb(checks.background));
-            const contrast=(Math.max(fg,bg)+0.05)/(Math.min(fg,bg)+0.05);
-            if (contrast < 4.5) {
-              throw new Error('Pedal Info text/background contrast is below the readability threshold: '+contrast.toFixed(2));
-            }
-
             await browser.close();
-            console.log('Browser smoke test passed:', checks);
-          })().catch(err=>{ console.error(err); process.exit(1); });
+            console.log('All researched pedal pages passed the browser audit.');
+          })().catch(err => {
+            console.error(err);
+            process.exit(1);
+          });
           JS
 
       - name: Upload site
