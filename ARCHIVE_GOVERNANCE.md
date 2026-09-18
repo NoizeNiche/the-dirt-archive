@@ -84,56 +84,16 @@ When the user has explicitly answered a design decision, treat that answer as th
 
 ## Pedal Research Phase rules
 
-PRP is worked in verified batches of 10 pedals, or as many as can be responsibly completed in one pass. Each pedal still receives its own individual research record.
+PRP follows the actual pedal list shown on the website in exact A-to-Z order.
 
-PRP follows the actual pedal list shown on the website in exact A-to-Z order. Start with the first incomplete pedal and continue downward. Do not jump ahead because a later builder is easier to research.
+Work in verified batches of 10 pedals, or as many as can be responsibly completed in one pass. Each pedal gets its own research record.
 
-A pedal is PRP Complete only when it has both:
-- pedal information
-- a confirmed picture of that exact pedal/version
+A pedal is PRP Complete only when it has both pedal information and a confirmed picture of that exact pedal/version.
 
-Research fields:
-- What this pedal is
-- Colorways
-- Versions and factory options
-- Version changes
-- Transistor
-- Diode
-- Sound
-
-The sound description should normally be 2-3 sentences.
-
-Do not guess technical information. State unknown when exact transistor or diode details are not publicly documented. Keep factory facts separate from DIY builds, clones, mods, and forum experiments.
-
-Picture rule:
-- prefer builder/manufacturer photos and reliable exact-model references
-- do not substitute a different pedal, materially different version, clone, or unclear seller photo
-- when no exact picture can be verified, leave it unlinked and show No Photo Archived
-
-Public individual pedal pages must not display:
-- Research confidence
-- Photo
-- Sources checked
-
-The public individual-pedal layout is fixed to the current DRV benchmark:
-- permanent archive navigation on the left
-- Archive Home
-- search
-- Dirt Type choices
-- scrollable alphabetical builder list
-- pedal name and builder
-- pedal information as the main content
-- dedicated 3:4 photo area
-- No Photo Archived when needed
-- desktop/mobile support
-
-The PRP tracker is the completion scoreboard. It must contain one row per unique Builder + Pedal in the live website catalog, with Pedal Info, Picture, and PRP Complete status.
-
-The site's current pedal lookup file is research/PEDAL_INDEX.json. Picture and research connections are in research/pedals/PEDAL_IMAGES.json.
-
-Before publishing a PRP batch, verify every research record, every picture connection, the tracker counts, broken links, duplicates, and the final website version. Confirm that GitHub Pages publishing succeeds before calling the batch live.
+Current checkpoint: 124 researched, 94 pictured, 94 fully complete, 3,727 remaining. Next pedal: AC Noises - Arpiona.
 
 The complete operating guide is research/PRP_RULES.md.
+
 
 ## Faceted filter design
 
