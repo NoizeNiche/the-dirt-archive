@@ -6,8 +6,8 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **444 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-188.
+- **445 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-189.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
 - The current builder table is reconciled through **ID 440 / Block 187**.
@@ -469,6 +469,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 442 | Chord (by Tom's Line) | 188 | Tom's Line / Chord |
 | 443 | Clear Sound | 188 |  |
 | 444 | Cloud 9 | 188 |  |
+| 445 | Carella Guitars | 189 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
