@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-site-architecture-001",
+  "version": "2026-09-18-site-architecture-002",
   "count": 3821,
   "pedals": [
     {
@@ -518,8 +518,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.acidfuzz.com/collections/all",
+      "research_record": "./research/pedals/Acid Fuzz/Italian Fuzz.md"
     },
     {
       "company": "Acid Fuzz",
@@ -528,8 +528,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk15",
+      "research_record": "./research/pedals/Acid Fuzz/Mk1.5.md"
     },
     {
       "company": "Acid Fuzz",
@@ -538,8 +538,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.acidfuzz.com/products/acid-fuzz-face-nkt-275-germanium",
+      "research_record": "./research/pedals/Acid Fuzz/NKT275 Acid Fuzz Face.md"
     },
     {
       "company": "Acid Fuzz",
