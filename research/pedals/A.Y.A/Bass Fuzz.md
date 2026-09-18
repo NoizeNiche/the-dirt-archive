@@ -36,3 +36,7 @@ No numbered factory revision was verified. The archive keeps Bass Fuzz as one pa
 ## Sound
 Bass Fuzz is a straightforward, compact fuzz intended to add aggressive harmonic grit without a complicated control set. The small control layout suggests a direct approach: set the amount of fuzz, set the output level, and let the character of the bass and amplifier provide much of the final tone. [1]
 
+## Sources checked
+1. Effects Database — A.Y.A Bass Fuzz: https://www.effectsdatabase.com/model/aya/bassfuzz
+2. Effects Database — A.Y.A brand index: https://www.effectsdatabase.com/model/aya
+3. A.Y.A Tokyo Japan product site: https://aya.la.coocan.jp/products_jap.html
