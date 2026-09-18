@@ -62,5 +62,13 @@
     "source": "Audiofanzine image",
     "source_page": "https://fr.audiofanzine.com/saturation-multiple-ou-autre-saturation-pour-guitare/amptweaker/bigrock-pro/",
     "research_record": "./research/pedals/Amptweaker/Big_Rock_Pro.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Big Rock Pro II",
+    "image": "https://www.visionguitar.com/cdn/shop/products/Big-Rock-Pro-II-top_x700.jpg?v=1636914648",
+    "source": "Vision Guitar product image",
+    "source_page": "https://www.visionguitar.com/products/amptweaker-big-rock-pro-ii-distortion-pedal",
+    "research_record": "./research/pedals/Amptweaker/Big_Rock_Pro_II.md"
   }
 ]
