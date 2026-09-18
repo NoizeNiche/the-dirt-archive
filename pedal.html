@@ -24,7 +24,7 @@ main{padding:20px 0 60px}
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:18px}
 .chip{font-size:.62rem;font-weight:900;text-transform:uppercase;letter-spacing:.06em;padding:5px 8px;border-radius:999px;background:#eee9df}
 .photo{min-height:420px;display:grid;place-items:center;text-align:center;border:2px dashed #bdb5a8;border-radius:14px;background:#f7f4ee;color:var(--muted);font-weight:850;padding:20px}
-.note{margin:12px 0 0;color:var(--muted);font-size:.76rem;line-height:1.5}
+.research{background:#fff;border:1px solid var(--line);border-radius:14px;padding:17px;line-height:1.6}.research h2,.research h3{margin:18px 0 8px;line-height:1.1}.research h2:first-child{margin-top:0}.research p{margin:9px 0}.research ul{margin:8px 0 12px;padding-left:20px}.research li{margin:5px 0}.research code{background:#eee9df;padding:1px 4px;border-radius:4px}.note{margin:12px 0 0;color:var(--muted);font-size:.76rem;line-height:1.5}
 .actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
 .action{display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--ink);border-radius:999px;background:#fff;padding:10px 14px;text-decoration:none;font-size:.72rem;font-weight:950;text-transform:uppercase;letter-spacing:.05em}
 .action.primary{background:var(--accent)}
@@ -54,9 +54,9 @@ main{padding:20px 0 60px}
       <div class="label">Dirt type</div>
       <div class="chips" id="types"></div>
 
-      <div class="label">Pedal info</div>
-      <div class="info" id="info"></div>
-      <p class="note">The archive is building this record in stages. Verified pedal identity and dirt classification are shown now; deeper documented information can be added here as research is completed.</p>
+      <div class="label">PRP research</div>
+      <div class="research" id="research"><p>Loading research record…</p></div>
+      <p class="note">The page reads the PRP research record directly, so documented updates appear here as the archive is researched.</p>
 
       <div class="actions">
         <a class="action primary" id="builderLink" href="./index.html">More from this builder</a>
@@ -72,12 +72,14 @@ main{padding:20px 0 60px}
 </main>
 
 <script>
+const DATA_VERSION='2026-09-18-prp';
 const DATA=[
   './research/MASTER_PEDAL_CENSUS.csv',
   './research/SCRAPE_A_CENSUS.csv',
   './research/SCRAPE_B_CENSUS.csv',
   './research/SCRAPE_C_CENSUS.csv'
 ];
+const IMAGE_DATA='./research/pedals/PEDAL_IMAGES.json?v='+DATA_VERSION;
 
 function csv(s){
   let out=[],r=[],f='',quote=false;
@@ -112,6 +114,25 @@ function esc(x){
   return String(x).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'","&#039;");
 }
 
+function renderMarkdown(md){
+  const lines=md.split(/\r?\n/);
+  let html='',inList=false;
+  const inline=s=>esc(s)
+    .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
+    .replace(/\`(.+?)\`/g,'<code>$1</code>');
+  for(const line of lines){
+    if(/^### /.test(line)){if(inList){html+='</ul>';inList=false}html+='<h3>'+inline(line.slice(4))+'</h3>';continue}
+    if(/^## /.test(line)){if(inList){html+='</ul>';inList=false}html+='<h2>'+inline(line.slice(3))+'</h2>';continue}
+    if(/^# /.test(line)){if(inList){html+='</ul>';inList=false}html+='<h2>'+inline(line.slice(2))+'</h2>';continue}
+    if(/^- /.test(line)){if(!inList){html+='<ul>';inList=true}html+='<li>'+inline(line.slice(2))+'</li>';continue}
+    if(!line.trim()){if(inList){html+='</ul>';inList=false}continue}
+    if(inList){html+='</ul>';inList=false}
+    html+='<p>'+inline(line)+'</p>';
+  }
+  if(inList)html+='</ul>';
+  return html;
+}
+
 const params=new URLSearchParams(location.search);
 const wantedBuilder=params.get('builder')||'';
 const wantedPedal=params.get('pedal')||'';
@@ -123,6 +144,11 @@ Promise.all(DATA.map(u=>fetch(u).then(r=>{
 .then(ts=>{
   const items=group(ts.flatMap(csv));
   const item=items.find(x=>x.company===wantedBuilder&&x.pedal===wantedPedal);
+  const imageRecords=await fetch(IMAGE_DATA,{cache:'no-store'}).then(r=>{
+    if(!r.ok)throw Error(r.status);
+    return r.json();
+  });
+  const imageRecord=imageRecords.find(x=>x.builder===wantedBuilder&&x.pedal===wantedPedal);
   if(!item){document.title='Pedal not found · The Dirt Archive';document.getElementById('empty').hidden=false;return}
 
   document.title=item.pedal+' · The Dirt Archive';
@@ -131,7 +157,21 @@ Promise.all(DATA.map(u=>fetch(u).then(r=>{
   document.getElementById('name').textContent=item.pedal;
   document.getElementById('builder').textContent='The Dirt Archive pedal record';
   document.getElementById('types').innerHTML=item.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('');
-  document.getElementById('info').textContent='This is the '+item.pedal+' record from '+item.company+'. The current catalog confirms the builder, pedal identity, and dirt classification shown on this page. Additional documented pedal information can be added to this record as the archive develops.';
+  const imageBox=document.querySelector('.photo');
+  if(imageRecord){
+    imageBox.innerHTML='<img src="'+esc(imageRecord.image)+'" alt="'+esc(item.company+' '+item.pedal)+' pedal" style="width:100%;height:100%;object-fit:contain;border-radius:12px" referrerpolicy="no-referrer">';
+    imageBox.style.padding='10px';
+  }
+  const researchEl=document.getElementById('research');
+  if(imageRecord&&imageRecord.research_record){
+    const md=await fetch(imageRecord.research_record,{cache:'no-store'}).then(r=>{
+      if(!r.ok)throw Error(r.status);
+      return r.text();
+    });
+    researchEl.innerHTML=renderMarkdown(md);
+  }else{
+    researchEl.innerHTML='<p>PRP research has not been added for this pedal yet.</p>';
+  }
   const link=new URL('./index.html',location.href);
   link.searchParams.set('builder',item.company);
   document.getElementById('builderLink').href=link.href;
