@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-008",
+  "version": "2026-09-18-prp1-batch-009",
   "count": 3821,
   "pedals": [
     {
@@ -864,7 +864,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://media.mydukkan.com/image/33527/thmb_900x900_ADD.ADDPi33527.jpg",
       "source_page": "https://www.effectsdatabase.com/model/addplus/pi",
       "research_record": "./research/pedals/Add+ Pedals/Pi.md"
     },
@@ -875,8 +875,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion",
+      "research_record": "./research/pedals/Add+ Pedals/Ratortion.md"
     },
     {
       "company": "Add+ Pedals",
@@ -885,8 +885,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/2",
+      "research_record": "./research/pedals/Add+ Pedals/Ratortion 2.md"
     },
     {
       "company": "Add+ Pedals",
@@ -895,8 +895,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/3",
+      "research_record": "./research/pedals/Add+ Pedals/Ratortion 3.md"
     },
     {
       "company": "Add+ Pedals",
