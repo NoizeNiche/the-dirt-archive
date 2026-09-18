@@ -1278,6 +1278,29 @@
     "builder": "Add+ Pedals",
     "pedal": "Pi",
     "source_page": "https://www.effectsdatabase.com/model/addplus/pi",
-    "research_record": "./research/pedals/Add+ Pedals/Pi.md"
+    "research_record": "./research/pedals/Add+ Pedals/Pi.md",
+    "image": "https://media.mydukkan.com/image/33527/thmb_900x900_ADD.ADDPi33527.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/addplus/pi"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Ratortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion",
+    "research_record": "./research/pedals/Add+ Pedals/Ratortion.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Ratortion 2",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/2",
+    "research_record": "./research/pedals/Add+ Pedals/Ratortion 2.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Ratortion 3",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/3",
+    "research_record": "./research/pedals/Add+ Pedals/Ratortion 3.md"
   }
 ]
