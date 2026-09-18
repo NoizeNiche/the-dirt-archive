@@ -346,7 +346,7 @@ Every completed PRP information update must be pushed to the live site's source 
    - High-gain FET-based distortion with three-position midrange control and internal bass boost.
    - No numbered factory revision verified.
 
-64. **Barber Electronics — Pepsiman photo/technical verification**
+64. **Barber Electronics — Exacta**
    - Research record: research/pedals/Barber Electronics/Exacta.md
    - Triangle/Tonebender fuzz with EQ and Sludge switching; purple photo attached.
 
@@ -401,7 +401,7 @@ Proceed through the catalog one pedal at a time. Use the canonical catalog entry
 - Sources checked
 
 ## Next pedal
-**Barber Electronics — Exacta**
+**Barber Electronics — Pepsiman photo/technical verification**
 
 ## Current photo-audit backlog
 The PRP image rule is strict: the image must itself be a photograph/render of the exact pedal, not a screenshot of a product/source page. The following researched parents currently have a research record but no attached exact image file: Amptweaker — Tight Metal Jr; Amptweaker — TightBoost; Amptweaker — TightFuzz Jr; Analog Alien — Alien Twister; Analog Man — Astro Tone; Analog Man — Prince Of Tone; Analog Man — Sun Face; Animal Factory Amplification — Chemical Burn; Animal Factory Amplification — Dirty Mirror; Animal Factory Amplification — Godeater+.
