@@ -342,5 +342,85 @@
     "source": "Exact direct pedal photograph pending",
     "source_page": "https://animalfactoryamplification.com/product/godeater/",
     "research_record": "./research/pedals/Animal Factory Amplification/Godeater_Plus.md"
+  },
+  {
+    "builder": "Animal Factory Amplification",
+    "pedal": "Godeater",
+    "image": "https://rvb-img.reverb.com/i/s--LSmdg1ie--/quality=medium-low,height=800,width=800,fit=contain/x1na7ijdgesu2joh1m0l.jpg",
+    "source": "Reverb direct photograph",
+    "source_page": "https://reverb.com/item/55213391-animal-factory-amplification-godeater-distortion-pedal",
+    "research_record": "./research/pedals/Animal Factory Amplification/Godeater.md"
+  },
+  {
+    "builder": "Animal Factory Amplification",
+    "pedal": "Ozymandias",
+    "image": "https://rvb-img.reverb.com/i/s--ZSUlvMqY--/quality=medium-low,height=800,width=800,fit=contain/ocjmimpx2iozdgloitrx.jpg",
+    "source": "Reverb direct photograph",
+    "source_page": "https://reverb.com/uk/item/93238243-animal-factory-ozymandias-dual-overdrive-pedal-demo",
+    "research_record": "./research/pedals/Animal Factory Amplification/Ozymandias.md"
+  },
+  {
+    "builder": "Animal Factory Amplification",
+    "pedal": "Pit Viper",
+    "image": "https://schneidersladen.de/media/f9/67/74/1771439396/animal_factory_amplification_animal_factory_amplification_pit_viper_pedal_v2_200098_1.webp?ts=1771439396",
+    "source": "SchneidersLaden direct photograph",
+    "source_page": "https://schneidersladen.de/en/animal-factory-amplification-pit-viper-pedal-v2",
+    "research_record": "./research/pedals/Animal Factory Amplification/Pit_Viper.md"
+  },
+  {
+    "builder": "Audiolithe",
+    "pedal": "Chaosculpt Bass",
+    "image": "https://theguitardivision.com/photos/products/small/chaosculpt-bass-audiolithe_639120385530942238.jpg",
+    "source": "The Guitar Division direct photograph",
+    "source_page": "https://theguitardivision.com/en/audiolithe/chaosculpt-bass-1437.html",
+    "research_record": "./research/pedals/Audiolithe/Chaosculpt_Bass.md"
+  },
+  {
+    "builder": "Audiolithe",
+    "pedal": "Doomer Fuzz",
+    "image": "https://theguitardivision.com/photos/products/small/doomer-fuzz-audiolithe_639119640804780571.jpg",
+    "source": "The Guitar Division direct photograph",
+    "source_page": "https://theguitardivision.com/en/audiolithe/doomer-fuzz-v2-430.html",
+    "research_record": "./research/pedals/Audiolithe/Doomer_Fuzz.md"
+  },
+  {
+    "builder": "Audiolithe",
+    "pedal": "Extinction Drive",
+    "image": "https://theguitardivision.com/photos/products/small/extinction-drive-audiolithe_639120388690656448.jpg",
+    "source": "The Guitar Division direct photograph",
+    "source_page": "https://theguitardivision.com/en/audiolithe/extinction-drive-935.html",
+    "research_record": "./research/pedals/Audiolithe/Extinction_Drive.md"
+  },
+  {
+    "builder": "Audiolithe",
+    "pedal": "La Montagne",
+    "image": "https://theguitardivision.com/photos/products/small/la-montagne-audiolithe_638863013274583168.jpg",
+    "source": "The Guitar Division direct photograph",
+    "source_page": "https://theguitardivision.com/en/audiolithe/la-montagne-936.html",
+    "research_record": "./research/pedals/Audiolithe/La_Montagne.md"
+  },
+  {
+    "builder": "Audiolithe",
+    "pedal": "The Empress Bass",
+    "image": "https://theguitardivision.com/photos/products/small/the-empress-bass-audiolithe_639120390903482047.jpg",
+    "source": "The Guitar Division direct photograph",
+    "source_page": "https://theguitardivision.com/en/audiolithe/the-empress-bass-1880.html",
+    "research_record": "./research/pedals/Audiolithe/The_Empress_Bass.md"
+  },
+  {
+    "builder": "Barbarossa",
+    "pedal": "CHIMAERA",
+    "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/u/ubilliquitous/20201018/20201018103440.jpg",
+    "source": "Barbarossa Chimaera review direct photograph",
+    "source_page": "https://ubilliquitous.hatenablog.com/entry/2020/10/20/121825",
+    "research_record": "./research/pedals/Barbarossa/Chimaera.md"
+  },
+  {
+    "builder": "Barbarossa",
+    "pedal": "CRONUS",
+    "image": "https://www.ikebe-gakki.com/Contents/ProductImages/0/856327_LL.jpg",
+    "source": "Ikebe direct photograph",
+    "source_page": "https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=856327&shop=0",
+    "research_record": "./research/pedals/Barbarossa/Cronus.md"
   }
 ]
