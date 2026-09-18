@@ -140,3 +140,7 @@ Do not resume from conversation memory when the repository says otherwise.
 
 A PRP batch is not considered live until the GitHub Pages publishing run succeeds.
 
+
+## Current PRP checkpoint
+Last completed batch: AC Noises → Acid Fuzz Acid Fuzzer MkI.
+Next PRP starting point: Acid Fuzz — Italian Fuzz.
