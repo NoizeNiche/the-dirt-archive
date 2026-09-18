@@ -1220,5 +1220,61 @@
     "source_page": "https://www.effectsdatabase.com/model/adpedals/aerodynamic",
     "research_record": "./research/pedals/AD Pedals/Aerodynamic overdrive.md",
     "image_source_page": "https://www.effectsdatabase.com/model/adpedals/aerodynamic"
+  },
+  {
+    "builder": "ADA Amps",
+    "pedal": "MP-1 Channel",
+    "source_page": "https://www.electroharmonix.co.jp/ada/mp1channel.html",
+    "research_record": "./research/pedals/ADA Amps/MP-1 Channel.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Blues Player",
+    "source_page": "https://www.effectsdatabase.com/model/addplus/bluesplayer",
+    "research_record": "./research/pedals/Add+ Pedals/Blues Player.md",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/addplus_bluesplayer_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/addplus/bluesplayer"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Der Fuzzer",
+    "source_page": "https://www.effectsdatabase.com/model/addplus/derfuzzer",
+    "research_record": "./research/pedals/Add+ Pedals/Der Fuzzer.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Distortion",
+    "source_page": "https://www.effectsdatabase.com/model/addplus/distortion",
+    "research_record": "./research/pedals/Add+ Pedals/Distortion.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Fuzz Face",
+    "source_page": "https://www.effectsdatabase.com/model/addplus/fuzzface",
+    "research_record": "./research/pedals/Add+ Pedals/Fuzz Face.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Fuzz Machine",
+    "source_page": "https://www.effectsdatabase.com/model/addplus/fuzzmachine",
+    "research_record": "./research/pedals/Add+ Pedals/Fuzz Machine.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Great White",
+    "source_page": "https://www.effectsdatabase.com/model/addplus/greatwhite",
+    "research_record": "./research/pedals/Add+ Pedals/Great White.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Great White 2",
+    "source_page": "https://www.effectsdatabase.com/model/addplus/greatwhite/2",
+    "research_record": "./research/pedals/Add+ Pedals/Great White 2.md"
+  },
+  {
+    "builder": "Add+ Pedals",
+    "pedal": "Pi",
+    "source_page": "https://www.effectsdatabase.com/model/addplus/pi",
+    "research_record": "./research/pedals/Add+ Pedals/Pi.md"
   }
 ]

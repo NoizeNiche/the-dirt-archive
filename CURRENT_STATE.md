@@ -97,15 +97,15 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 159
-- Pedals with confirmed pictures: 135
-- Fully complete PRP pedals: 135
-- Remaining incomplete pedals: 3686
-- Researched but waiting only for a confirmed picture: 25
+- Pedals with research information: 168
+- Pedals with confirmed pictures: 136
+- Fully complete PRP pedals: 136
+- Remaining incomplete pedals: 3685
+- Researched but waiting only for a confirmed picture: 33
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: Acid Fuzz - Mk1.5
 
-PRP1 batch 004 covered the next ten unresolved parent records in exact catalog order, from Acid Fuzz - Mk1.5 through Aclam Guitars - The Woman Tone. Exact photos were archived for NKT275 Acid Fuzz Face, Cinnamon Drive, Cinnamon Drive - Dreamer Edition, Dr. Robert, Go Rocky Go, Go Rocky Go - White Album Edition, The Mocker, The Windmiller Preamp, and The Woman Tone. Research records were added for The Mocker, The Windmiller Preamp, and The Woman Tone, and Dr. Robert was updated for the documented V3 changes. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed. The next unresolved target remains Acid Fuzz - Mk1.5.
+PRP1 batch 006 covered the next ten catalog records in exact order, from **Acid Fuzz - Mk1.5** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 The next session must read research/PRP_RULES.md, CURRENT_STATE.md, research/BREADCRUMB.md, and research/PRP_TRACKER.csv before continuing.
 

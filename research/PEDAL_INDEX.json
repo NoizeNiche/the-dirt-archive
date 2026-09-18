@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-005",
+  "version": "2026-09-18-prp1-batch-006",
   "count": 3821,
   "pedals": [
     {
@@ -785,8 +785,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.electroharmonix.co.jp/ada/mp1channel.html",
+      "research_record": "./research/pedals/ADA Amps/MP-1 Channel.md"
     },
     {
       "company": "Add+ Pedals",
@@ -794,9 +794,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://files.effectsdatabase.com/gear/thumbs/addplus_bluesplayer_001.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/addplus/bluesplayer",
+      "research_record": "./research/pedals/Add+ Pedals/Blues Player.md"
     },
     {
       "company": "Add+ Pedals",
@@ -805,8 +805,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/addplus/derfuzzer",
+      "research_record": "./research/pedals/Add+ Pedals/Der Fuzzer.md"
     },
     {
       "company": "Add+ Pedals",
@@ -815,8 +815,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/addplus/distortion",
+      "research_record": "./research/pedals/Add+ Pedals/Distortion.md"
     },
     {
       "company": "Add+ Pedals",
@@ -825,8 +825,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/addplus/fuzzface",
+      "research_record": "./research/pedals/Add+ Pedals/Fuzz Face.md"
     },
     {
       "company": "Add+ Pedals",
@@ -835,8 +835,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/addplus/fuzzmachine",
+      "research_record": "./research/pedals/Add+ Pedals/Fuzz Machine.md"
     },
     {
       "company": "Add+ Pedals",
@@ -845,8 +845,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/addplus/greatwhite",
+      "research_record": "./research/pedals/Add+ Pedals/Great White.md"
     },
     {
       "company": "Add+ Pedals",
@@ -855,8 +855,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/addplus/greatwhite/2",
+      "research_record": "./research/pedals/Add+ Pedals/Great White 2.md"
     },
     {
       "company": "Add+ Pedals",
@@ -865,8 +865,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/addplus/pi",
+      "research_record": "./research/pedals/Add+ Pedals/Pi.md"
     },
     {
       "company": "Add+ Pedals",

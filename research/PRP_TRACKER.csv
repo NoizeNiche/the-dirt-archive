@@ -74,15 +74,15 @@ Acorn Amps,TMA-1 Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Acorn Amps/TMA-1 Fuz
 Acorn Amps,Vegeta Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Acorn Amps/Vegeta Drive.md
 Acoustic Imaginearing,QuantumDrive,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Acoustic Imaginearing/QuantumDrive.md
 AD Pedals,Aerodynamic overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/AD Pedals/Aerodynamic overdrive.md
-ADA Amps,MP-1 Channel,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Add+ Pedals,Blues Player,Overdrive,NEEDED,NEEDED,NEEDED,
-Add+ Pedals,Der Fuzzer,Fuzz,NEEDED,NEEDED,NEEDED,
-Add+ Pedals,Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-Add+ Pedals,Fuzz Face,Fuzz,NEEDED,NEEDED,NEEDED,
-Add+ Pedals,Fuzz Machine,Fuzz,NEEDED,NEEDED,NEEDED,
-Add+ Pedals,Great White,Overdrive,NEEDED,NEEDED,NEEDED,
-Add+ Pedals,Great White 2,Overdrive,NEEDED,NEEDED,NEEDED,
-Add+ Pedals,Pi,Fuzz,NEEDED,NEEDED,NEEDED,
+ADA Amps,MP-1 Channel,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/ADA Amps/MP-1 Channel.md
+Add+ Pedals,Blues Player,Overdrive,DONE,DONE,DONE,./research/pedals/Add+ Pedals/Blues Player.md
+Add+ Pedals,Der Fuzzer,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Der Fuzzer.md
+Add+ Pedals,Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Distortion.md
+Add+ Pedals,Fuzz Face,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Fuzz Face.md
+Add+ Pedals,Fuzz Machine,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Fuzz Machine.md
+Add+ Pedals,Great White,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Great White.md
+Add+ Pedals,Great White 2,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Great White 2.md
+Add+ Pedals,Pi,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Pi.md
 Add+ Pedals,Ratortion,Distortion,NEEDED,NEEDED,NEEDED,
 Add+ Pedals,Ratortion 2,Distortion,NEEDED,NEEDED,NEEDED,
 Add+ Pedals,Ratortion 3,Distortion,NEEDED,NEEDED,NEEDED,
