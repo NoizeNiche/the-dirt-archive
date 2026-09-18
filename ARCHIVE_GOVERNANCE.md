@@ -197,7 +197,7 @@ As of Batch 216:
 - Block 070 is absent.
 - Block 142 was Fairfield Circuitry and was removed as a duplicate because Fairfield already exists as Block 102.
 - The canonical builder index is reconciled through **ID 502 / Block 216**.
-- The active Scrape C checkpoint is **after Phaez Amplification**, with **2044 live company/pedal/type rows**.
+- The active Scrape C checkpoint is **after Phaez Amplification**, with **2,044 live company/pedal/type rows**.
 
 ## Workflow discipline
 Before an operation:
