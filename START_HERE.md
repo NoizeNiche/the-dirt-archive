@@ -52,6 +52,15 @@ That benchmark means:
 
 **The standard is throughput + breadth + deduplication + durable checkpointing.**
 
+## Landing page navigation
+
+The landing page uses a compact library layout:
+**Search → Dirt Type → Builder → Pedal**.
+
+The single search field lives at the top of the left-hand navigation panel, above the builder menu, so someone looking for a specific pedal can search immediately. The dirt menu has **All Pedals / Overdrive / Distortion / Fuzz**. Choosing a dirt type changes the builder list to builders carrying that type. Builders remain alphabetical in a scrollable panel. Clicking a builder changes the main pedal area on the right.
+
+Pedal cards are real links to `pedal.html` with the builder and pedal passed in the URL, giving every cataloged pedal an individual page.
+
 ## No-duplicate gate
 `research/BUILDER_MASTER_INDEX.md` is the canonical builder identity gate for this phase.
 
