@@ -132,8 +132,9 @@ main{padding:20px 0 60px}
 </main>
 
 <script>
-const DATA_VERSION='2026-09-18-prp-071';
-const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;function renderPageNav(items){
+const DATA_VERSION='2026-09-18-prp-072';
+const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;
+const $=id=>document.getElementById(id);function renderPageNav(items){
   const builders=[...new Set(items.map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
   const search=$('pageSearch');
   if(search){
