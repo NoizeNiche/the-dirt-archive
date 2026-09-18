@@ -42,6 +42,5 @@ Storm King moves from warm, tube-like saturation into cutting distortion and the
 4. Sound House — Storm King introduction: https://www.soundhouse.co.jp/en/news/detail?NewsNo=18218
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Aguilar official product page above.
-- **Archive note:** The official product page clearly confirms the exact model and provides factory photography, but a direct image asset was not safely archived into the site's manifest during this pass.
+- **Archive status:** **Confirmed exact-model image attached**
+- **Image source:** Chicago Music Exchange product listing for the Aguilar Storm King: https://www.chicagomusicexchange.com/products/aguilar-storm-king-bass-distortionfuzz-pedal-1614304
