@@ -38,3 +38,5 @@ No reliable numbered hardware revision sequence was found. The archive keeps Met
 ## Sound
 Metal Maniac is built for thick, forceful high-gain distortion rather than low-gain breakup. A&M describes it as tube-like and unusually powerful, with enough gain to cover heavy rhythm and saturated lead territory. [1]
 
+## Sources checked
+1. Effects Database — A&M Custom Effects Metal Maniac - Mega Distortion: https://www.effectsdatabase.com/model/am/metalmaniac
