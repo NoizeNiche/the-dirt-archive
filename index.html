@@ -572,9 +572,9 @@ function render(){
     ? visible.map(x=>
       (()=>{
         const img=pedalImages.get(x.company+'\u0000'+x.pedal);
-        const media=img
+        const media=img && img.image
           ? '<img class="cardImage" src="'+esc(img.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" referrerpolicy="no-referrer">'
-          : '<div class="cardPlaceholder">Photo added during PRP</div>';
+          : '<div class="cardPlaceholder">Exact pedal photo pending</div>';
         return '<a class="card" href="'+slugParams(x)+'">'+
           media+
           '<span class="cardBody">'+
