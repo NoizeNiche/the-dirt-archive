@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **377 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **418 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **174 block files** are currently present: Blocks 001-069, 071-141, and 143-176.
+- **382 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **423 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **175 block files** are currently present: Blocks 001-069, 071-141, and 143-177.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 377 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 382 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -403,6 +403,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 375 | Creber Instruments | 176 |  |
 | 376 | Crimsontone | 176 | Crimsontone Amps |
 | 377 | Cryptid Effects | 176 |  |
+| 378 | Coolsound | 177 | Coolsound-Lab |
+| 379 | Crock | 177 |  |
+| 380 | CrockettDial Productions | 177 |  |
+| 381 | Crotronics | 177 |  |
+| 382 | Crust Pedals | 177 | CrustPedals |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
