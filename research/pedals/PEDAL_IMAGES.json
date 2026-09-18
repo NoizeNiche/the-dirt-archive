@@ -102,5 +102,85 @@
     "source": "Reverb product image",
     "source_page": "https://reverb.com/item/16791001-amptweaker-fat-metal-pro",
     "research_record": "./research/pedals/Amptweaker/Fat_Metal_Pro.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Fat Metal Pro II",
+    "image": "https://modulargrid.net/img/modcache/31933.f.jpg",
+    "source": "ModularGrid exact-model photograph",
+    "source_page": "https://modulargrid.net/p/other-unknown-amptweaker-fat-metal-pro-ii",
+    "research_record": "./research/pedals/Amptweaker/Fat_Metal_Pro_II.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Fat Rock",
+    "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_fatrockmm_la.jpg",
+    "source": "Sound House product photograph",
+    "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255405/",
+    "research_record": "./research/pedals/Amptweaker/Fat_Rock.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Tight Drive",
+    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://en.audiofanzine.com/overdrive-pedal/amptweaker/tightdrive/",
+    "source": "Exact-model source-page capture",
+    "source_page": "https://en.audiofanzine.com/overdrive-pedal/amptweaker/tightdrive/",
+    "research_record": "./research/pedals/Amptweaker/Tight_Drive.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Tight Drive Jr",
+    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.effectsdatabase.com/model/amptweaker/tightdrive/jr",
+    "source": "Exact-model source-page capture",
+    "source_page": "https://www.effectsdatabase.com/model/amptweaker/tightdrive/jr",
+    "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Tight Drive Pro",
+    "image": "https://topshelfinstruments.com.au/cdn/shop/products/IMG_9173015_1100x.jpg?v=1603932447",
+    "source": "Topshelf Instruments exact-model photograph",
+    "source_page": "https://topshelfinstruments.com.au/products/amptweaker-tight-drive-pro-overdrive-pedal",
+    "research_record": "./research/pedals/Amptweaker/Tight_Drive_Pro.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Tight Metal",
+    "image": "https://www.musicland.co.jp/shop/item/musiclandkey/picture/goods/48656_thumbnail.jpg",
+    "source": "Musicland Key exact-model photograph",
+    "source_page": "https://www.musicland.co.jp/fs/musiclandkey/amptwkr-tight-metal",
+    "research_record": "./research/pedals/Amptweaker/Tight_Metal.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Tight Metal Jr",
+    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.effectsdatabase.com/model/amptweaker/tightmetal/jr",
+    "source": "Exact-model source-page capture",
+    "source_page": "https://www.effectsdatabase.com/model/amptweaker/tightmetal/jr",
+    "research_record": "./research/pedals/Amptweaker/Tight_Metal_Jr.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Tight Metal Pro",
+    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.pitbullaudio.com/amptweaker-tight-metal-pro-distortion-pedal-with-3-effects-loops.html",
+    "source": "Exact-model source-page capture",
+    "source_page": "https://www.pitbullaudio.com/amptweaker-tight-metal-pro-distortion-pedal-with-3-effects-loops.html",
+    "research_record": "./research/pedals/Amptweaker/Tight_Metal_Pro.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Tight Metal Pro II",
+    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.zzounds.com/item--AMPTMPRO2",
+    "source": "Exact-model source-page capture",
+    "source_page": "https://www.zzounds.com/item--AMPTMPRO2",
+    "research_record": "./research/pedals/Amptweaker/Tight_Metal_Pro_II.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Tight Rock",
+    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://amptweaker.com/product/tight-rock/",
+    "source": "Exact-model source-page capture",
+    "source_page": "https://amptweaker.com/product/tight-rock/",
+    "research_record": "./research/pedals/Amptweaker/Tight_Rock.md"
   }
 ]
