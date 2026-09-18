@@ -202,7 +202,7 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 - Remaining incomplete pedals: 3681
 - Researched but waiting only for a confirmed picture: 31
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **A Sound Of Failure - Death Driver**
+- Current PRP1 target: **A.Y.A - Bass Fuzz**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
