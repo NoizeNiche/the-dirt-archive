@@ -3,7 +3,7 @@
 ## Status
 **Phase:** Builder discovery deep dives completed; Pedal Research Phase ready to resume  
 **Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
-**Research progress:** 1 pedal researched; five builder discovery dives completed
+**Research progress:** 2 pedals researched; five builder discovery dives completed
 
 ## Completed
 1. **Amptweaker — Bass BluesFuzz**
@@ -13,6 +13,13 @@
    - Diode type remains unknown.
    - Colorway research remains incomplete.
    - Sound description documented.
+
+2. **Amptweaker — Bass TightDrive**
+   - Research record: `research/pedals/Amptweaker/Bass_TightDrive.md`
+   - Original full-size bass TightDrive introduced in 2010.
+   - Factory Dry Low MOD documented as a variant/modification of the parent record.
+   - Bass TightDrive Jr. explicitly kept as a separate parent pedal for later research.
+   - Transistor and diode types remain unknown pending Bass-specific circuit evidence.
 
 ## Research order
 Proceed through the catalog one pedal at a time. Use the canonical catalog entry as the identity anchor, preserve the archive's existing builder/pedal names, and document aliases or version relationships inside the research record rather than silently renaming catalog data.
@@ -28,4 +35,5 @@ Proceed through the catalog one pedal at a time. Use the canonical catalog entry
 - Sources checked
 
 ## Next pedal
-**Amptweaker — Bass TightDrive**
+**Next pedal**
+**Amptweaker — Bass TightDrive Jr.**
