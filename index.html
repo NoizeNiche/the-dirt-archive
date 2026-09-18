@@ -96,9 +96,11 @@ const DATA=[
 ];
 
 let items=[];
-let selectedType='All';
-let selectedBuilder='';
-let q='';
+const initialParams=new URLSearchParams(location.search);
+let selectedType=initialParams.get('type')||'All';
+let selectedBuilder=initialParams.get('builder')||'';
+let q=initialParams.get('q')||'';
+if(!['All','Overdrive','Distortion','Fuzz'].includes(selectedType))selectedType='All';
 
 const $=id=>document.getElementById(id);
 
@@ -173,6 +175,7 @@ function renderTypeMenu(){
   document.querySelectorAll('[data-type]').forEach(btn=>btn.onclick=()=>{
     selectedType=btn.dataset.type;
     selectedBuilder='';
+    syncUrl();
     render();
   });
 }
@@ -186,6 +189,15 @@ function renderBuilderSelect(){
   $('builderSelect').value=selectedBuilder;
 }
 
+function syncUrl(){
+  const p=new URLSearchParams();
+  if(selectedType!=='All')p.set('type',selectedType);
+  if(selectedBuilder)p.set('builder',selectedBuilder);
+  if(q)p.set('q',q);
+  const target=p.toString()?('./index.html?'+p.toString()):'./index.html';
+  history.replaceState({},'',target);
+}
+
 function filteredItems(){
   return items.filter(x=>
     typeMatches(x)&&
@@ -195,6 +207,7 @@ function filteredItems(){
 }
 
 function render(){
+  if(selectedBuilder && !getBuilders().includes(selectedBuilder))selectedBuilder='';
   renderTypeMenu();
   renderBuilderSelect();
 
@@ -237,8 +250,8 @@ function render(){
   ].map(x=>'<div class="stat"><b>'+x[1].toLocaleString()+'</b><span>'+x[0]+'</span></div>').join('');
 }
 
-$('search').oninput=e=>{q=e.target.value.trim();render()};
-$('builderSelect').onchange=e=>{selectedBuilder=e.target.value;render()};
+$('search').oninput=e=>{q=e.target.value.trim();syncUrl();render()};
+$('builderSelect').onchange=e=>{selectedBuilder=e.target.value;syncUrl();render()};
 
 Promise.all(
   DATA.map(u=>fetch(u).then(r=>{
@@ -249,6 +262,7 @@ Promise.all(
 .then(ts=>{
   items=group(ts.flatMap(csv));
   render();
+  syncUrl();
 })
 .catch(e=>{
   $('meta').textContent='Catalog unavailable';
