@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-011",
+  "version": "2026-09-18-prp1-batch-023",
   "count": 3821,
   "pedals": [
     {
@@ -1076,7 +1076,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Advance Tube Technology/Virus Drive.md"
     },
     {
       "company": "Adventure Audio",

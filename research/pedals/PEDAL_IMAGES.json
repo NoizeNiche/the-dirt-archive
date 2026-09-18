@@ -1534,5 +1534,12 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Aether Electronic/Lenore.md"
+  },
+  {
+    "builder": "Advance Tube Technology",
+    "pedal": "Virus Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/avt/virusdrive",
+    "research_record": "./research/pedals/Advance Tube Technology/Virus Drive.md"
   }
 ]

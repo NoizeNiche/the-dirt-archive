@@ -196,13 +196,13 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 202
+- Pedals with research information: 203
 - Pedals with confirmed pictures: 154
 - Fully complete PRP pedals: 154
-- Remaining incomplete pedals: 3667
-- Researched but waiting only for a confirmed picture: 48
+- Remaining incomplete pedals: 3666
+- Researched but waiting only for a confirmed picture: 49
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **Add+ Pedals - Super Drive 2**
+- Current PRP1 target: **Adventure Audio - Demogorgon Fuzz**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -269,3 +269,9 @@ The next exact-order unresolved target is **Accel Audio - Stompzilla Fuzz**.
 Batch 022 audited the next 10 incomplete PRP1 records in exact website order, from **Accel Audio - Stompzilla Fuzz** through **Add+ Pedals - Super Drive**. All ten have Pedal Info research records. Exact-model photo evidence was rechecked across the batch, including the surviving Effects Database catalog evidence for the Add+ Pedals models. No new direct image asset met the archive's exact-photo standard, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. No substitute, inferred image, or guessed image URL was promoted.
 
 The next exact-order unresolved target is **Add+ Pedals - Super Drive 2**.
+
+## PRP1 batch 023 checkpoint
+
+Batch 023 audited the next 10 incomplete PRP1 records in exact website order, from **Add+ Pedals - Super Drive 2** through **Advance Tube Technology - Virus Drive**. The first nine records already had Pedal Info research and were rechecked against their historical/catalog sources. **Advance Tube Technology - Virus Drive** was the only record in the batch missing its research record; a new PRP1 record was added using the surviving Advance Tube Technology manufacturer documentation and Effects Database catalog evidence. Exact-model photo evidence was rechecked across the batch, including Add+ catalog references, Addrock, ADV Systems, and Advance Tube Technology sources. No new direct image asset met the archive's exact-photo standard, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. No substitute, inferred image, or guessed image URL was promoted.
+
+The next exact-order unresolved target is **Adventure Audio - Demogorgon Fuzz**.
