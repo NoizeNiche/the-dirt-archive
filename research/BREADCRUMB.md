@@ -64,26 +64,16 @@ Public pedal pages do not show:
 - Sources checked
 
 ## Current PRP checkpoint
-
-PRP is the active mission.
-
-Work follows the actual website pedal list in exact A-to-Z order. Start with the first incomplete pedal and continue straight downward.
-
-PRP is done in verified batches of 10 pedals, or as many as can be responsibly completed in one pass. Each pedal receives its own individual research record.
-
-A pedal is only checked off when it has both pedal information and a confirmed picture of that exact pedal/version.
-
-Current numbers:
 - **3,821** unique pedals
-- **124** researched
-- **94** confirmed pictures
-- **94** fully complete
-- **3,727** remaining incomplete
-- **30** researched but waiting only for a confirmed picture
+- **134** have pedal information researched
+- **103** have confirmed pictures
+- **103** are fully complete
+- **3,718** remain incomplete
+- **31** are researched but currently waiting only for a confirmed picture
+- **Next research target:** AboveGroundFX - El Griton Overdrive
+- Earlier researched/photo-missing pedals remain in the photo-recovery queue.
 
-Current position:
-- Latest research record: research/pedals/AC Efectos/Triplex Distortion.md
-- Next pedal: **AC Noises - Arpiona**
+This pass focused on the first ten open PRP photo targets in exact site order. Verified exact photos were added for Abasi Concepts - Pathos Distortion and AbbyTone - Screwed Driver. The remaining photo gaps stay open rather than using substitutes.
 
 ## Current PRP data files
 
