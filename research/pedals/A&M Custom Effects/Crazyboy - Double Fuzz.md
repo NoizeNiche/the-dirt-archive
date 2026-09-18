@@ -39,3 +39,5 @@ No reliable numbered hardware revision sequence was found. The defining identity
 ## Sound
 CrazyBoy gives two contrasting fuzz responses in one box. The Germanium side is intended to provide the softer, older-style fuzz character, while the Silicon side is designed to be more direct and aggressive; the A/B switch makes the contrast immediate without changing the pedal chain. [1]
 
+## Sources checked
+1. Effects Database — A&M Custom Effects Crazyboy - Double Fuzz: https://www.effectsdatabase.com/model/am/crazyboy
