@@ -37,7 +37,7 @@ The active Scrape C census now contains **2681 company/pedal/type rows** across 
 Batch 216 added 26 builders and 591 net-new company/pedal/type rows, moving the active checkpoint from JHS Pedals through Phaez Amplification. Canonical builder IDs 496-502 were added for Katanasound, KMA Machines, Leqtique, Limetone Audio, Organic Sounds, Ovaltone, and Phaez Amplification.
 
 ## Block 218
-Batch 218 continued the alphabetic scrape from Vemuram through ZVEX Effects, covering 12 builders and adding 329 net-new company/pedal/type rows. The 502-builder canonical index was expanded rather than duplicated. The active checkpoint is now after ZVEX Effects.
+Batch 218 continued the alphabetic scrape from Vemuram through ZVEX Effects, covering 12 builders and adding 319 net-new company/pedal/type rows. The 502-builder canonical index was expanded rather than duplicated. The active checkpoint is now after ZVEX Effects.
 
 ## Block 217
 Batch 217 added 17 builders and 308 net-new company/pedal/type rows, moving the active alphabetic checkpoint from Phaez Amplification through ThorpyFX. No new canonical builder identity was required.
@@ -85,14 +85,14 @@ Current architecture decisions:
 
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 168
-- Pedals with confirmed pictures: 137
-- Fully complete PRP pedals: 137
-- Remaining incomplete pedals: 3684
-- Researched but waiting only for a confirmed picture: 32
+- Pedals with confirmed pictures: 138
+- Fully complete PRP pedals: 138
+- Remaining incomplete pedals: 3683
+- Researched but waiting only for a confirmed picture: 31
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **ADA Amps - MP-1 Channel**
 
-PRP1 batch 006 covered the next ten catalog records in exact order, from **Acid Fuzz - Mk1.5** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
+PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 ## Current PRP data files
 
@@ -135,13 +135,17 @@ A PRP batch is not considered live until the GitHub Pages publishing run succeed
 
 ## PRP1 batch 004 checkpoint
 
-PRP1 batch 004 covered the next ten unresolved parent records in exact catalog order, from **Acid Fuzz - Mk1.5** through **Aclam Guitars - The Woman Tone**. Exact photos were archived for NKT275 Acid Fuzz Face, Cinnamon Drive, Cinnamon Drive - Dreamer Edition, Dr. Robert, Go Rocky Go, Go Rocky Go - White Album Edition, The Mocker, The Windmiller Preamp, and The Woman Tone. Research records were added for The Mocker, The Windmiller Preamp, and The Woman Tone, and Dr. Robert was updated for the documented V3 changes. **Acid Fuzz - Mk1.5** remains the next unresolved target because no exact safe direct image file was confirmed.
+PRP1 batch 004 covered the next ten unresolved parent records in exact catalog order, from **ADA Amps - MP-1 Channel** through **Aclam Guitars - The Woman Tone**. Exact photos were archived for NKT275 Acid Fuzz Face, Cinnamon Drive, Cinnamon Drive - Dreamer Edition, Dr. Robert, Go Rocky Go, Go Rocky Go - White Album Edition, The Mocker, The Windmiller Preamp, and The Woman Tone. Research records were added for The Mocker, The Windmiller Preamp, and The Woman Tone, and Dr. Robert was updated for the documented V3 changes. **ADA Amps - MP-1 Channel** remains the next unresolved target because no exact safe direct image file was confirmed.
 
 ## PRP1 batch 005 checkpoint
 
-PRP1 batch 006 covered the next ten catalog records in exact order, from **Acid Fuzz - Mk1.5** through **Add+ Pedals - Pi**. New research records were added for ADA Amps MP-1 Channel and eight Add+ Pedals products. An exact Effects Database photo was archived for Add+ Blues Player. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
+PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for ADA Amps MP-1 Channel and eight Add+ Pedals products. An exact Effects Database photo was archived for Add+ Blues Player. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 
 
 ## PRP1 batch 007 checkpoint
-Acid Fuzz - Mk1.5 is now fully complete after exact photo confirmation from Effects Database. The tracker, public index, and photo manifest were updated together. The next exact-order unresolved target is ADA Amps - MP-1 Channel.
+ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation from Effects Database. The tracker, public index, and photo manifest were updated together. The next exact-order unresolved target is ADA Amps - MP-1 Channel.
+
+
+## PRP1 batch 008 checkpoint
+ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation from Chicago Music Exchange. The tracker, public index, and photo manifest were updated together. Next exact-order unresolved target: Add+ Pedals - Der Fuzzer.
