@@ -86,5 +86,13 @@
     "source": "iMuso product image",
     "source_page": "https://www.imuso.co.uk/itm/amptweaker-bluesfuzz-jr",
     "research_record": "./research/pedals/Amptweaker/BluesFuzz_Jr.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Fat Metal",
+    "image": "https://images.squarespace-cdn.com/content/v1/5a962cdc3c3a538b735ef674/1756021293449-ABTAGJGOLR92M6XGW6UD/AE3240B9-6A7C-4135-BB52-2C4E78EC0952.jpeg",
+    "source": "GuitarSofa used-pedal image",
+    "source_page": "https://www.guitarsofa.com/effects/amptweaker-fat-metal",
+    "research_record": "./research/pedals/Amptweaker/Fat_Metal.md"
   }
 ]
