@@ -6,12 +6,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **399 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **440 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **179 block files** are currently present: Blocks 001-069, 071-141, and 143-181.
+- **433 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-186.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 399 canonical identities after duplicate/alias consolidation.
+- The current builder table is reconciled through **ID 433 / Block 186**.
 
 ## Rules
 
@@ -455,6 +454,10 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 427 | Crate | 185 |  |
 | 428 | Cruzer (by Crafter) | 185 | Crafter / Cruzer |
 | 429 | Crown | 185 | Crown / historical OEM |
+| 430 | C.Giant | 186 |  |
+| 431 | Captain FX | 186 |  |
+| 432 | CAT Sound | 186 |  |
+| 433 | Cave Passive Pedals | 186 | Cave |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
