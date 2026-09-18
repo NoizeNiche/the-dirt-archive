@@ -50,6 +50,21 @@ PRP should continue asking project-level questions when an unresolved taxonomy o
    - No verified numbered factory revision or additional factory MOD found in this pass.
    - Transistor and diode types remain unknown pending Bass TightDrive Jr.-specific technical evidence.
 
+## PRP image and live-site rule
+
+Every parent pedal researched during PRP must also receive a verified pedal photograph suitable for the catalog card. The image is attached to the **parent pedal**, not separately to every cosmetic variant, unless a later documented version has a materially different identity that warrants its own parent record.
+
+The preferred image source order is:
+1. builder/manufacturer image or official builder media
+2. reputable retailer/archive image clearly showing the exact pedal
+3. established pedal database or historical reference image
+
+Do not use AI-generated pedal images as documentary photographs. Do not substitute an unrelated model, a guitar version for a bass version, or a different revision simply because it looks similar.
+
+For each researched parent pedal, the PRP image record must retain the image URL, source page, and research-record path.
+
+Every completed PRP information update must be pushed to the live site's source immediately. The intended unit of work is: **research record + image record + website update + checkpoint**, so the public site stays synchronized as the research advances rather than waiting for a later batch.
+
 ## Research order
 Proceed through the catalog one pedal at a time. Use the canonical catalog entry as the identity anchor, preserve the archive's existing builder/pedal names, and document aliases or version relationships inside the research record rather than silently renaming catalog data.
 
