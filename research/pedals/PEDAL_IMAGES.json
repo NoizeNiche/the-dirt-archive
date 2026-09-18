@@ -1457,5 +1457,82 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Aguilar/Agro - Bass Overdrive.md"
+  },
+  {
+    "builder": "ADV Systems",
+    "pedal": "#distortion",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/ADV Systems/#distortion.md"
+  },
+  {
+    "builder": "ADV Systems",
+    "pedal": "#overdrive",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/ADV Systems/#overdrive.md"
+  },
+  {
+    "builder": "AED",
+    "pedal": "Blue Bee",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/AED/Blue Bee.md"
+  },
+  {
+    "builder": "AGR Pedals",
+    "pedal": "Cuervo Muerto - Silicon Fuzz Bender",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/AGR Pedals/Cuervo Muerto - Silicon Fuzz Bender.md"
+  },
+  {
+    "builder": "AGR Pedals",
+    "pedal": "DS2610 - Vintage Distortion",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/AGR Pedals/DS2610 - Vintage Distortion.md"
+  },
+  {
+    "builder": "Addrock Musical Products",
+    "pedal": "Not So Ol' Yeller",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Addrock Musical Products/Not So Ol' Yeller.md"
+  },
+  {
+    "builder": "Advance Tube Technology",
+    "pedal": "Boost Cat Drive",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Advance Tube Technology/Boost Cat Drive.md"
+  },
+  {
+    "builder": "Advance Tube Technology",
+    "pedal": "Over Cat Drive",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Advance Tube Technology/Over Cat Drive.md"
+  },
+  {
+    "builder": "Adventure Audio",
+    "pedal": "Demogorgon Fuzz",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Adventure Audio/Demogorgon Fuzz.md"
+  },
+  {
+    "builder": "Adventure Audio",
+    "pedal": "Glacial Zenith - Overdrive",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Adventure Audio/Glacial Zenith - Overdrive.md"
+  },
+  {
+    "builder": "Aether Electronic",
+    "pedal": "Lenore",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Aether Electronic/Lenore.md"
   }
 ]
