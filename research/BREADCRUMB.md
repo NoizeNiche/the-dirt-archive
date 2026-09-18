@@ -82,16 +82,17 @@ Current architecture decisions:
 
 
 ## Current PRP checkpoint
-- **3,821** unique pedals
-- **147** have pedal information researched
-- **108** have confirmed pictures
-- **108** are fully complete
-- **3,713** remain incomplete
-- **39** are researched but currently waiting only for a confirmed picture
-- **PRP status:** Paused while the site foundation is repaired
-- Earlier researched/photo-missing pedals remain in the photo-recovery queue.
 
-This pass completed the next ten research targets in exact site order: five Acid Fuzz pedals already had exact pictures and were reconciled as complete, and five Aclam Guitars pedals received their individual research records. The Aclam photo gaps remain open rather than using substitutes.
+- Unique pedals in website catalog: 3,821
+- Pedals with research information: 147
+- Pedals with confirmed pictures: 112
+- Fully complete PRP pedals: 112
+- Remaining incomplete pedals: 3,709
+- Researched but waiting only for a picture: 35
+- PRP status: Active, PRP1 photo-recovery pass
+- Current PRP1 target: Death Driver
+
+PRP1 batch 001 audited the first ten incomplete parent pedals in exact catalog order. Exact photos were verified and connected for 1981 Inventions — DRV, 1981 Inventions — LVL, ABL Pedals — The Szczur, and ABL Pedals — The Toor. Six of the ten remain photo-pending because an exact documentary photo was not confirmed without substitution. The next unresolved target is **A Sound Of Failure — Death Driver**.
 
 ## Current PRP data files
 
