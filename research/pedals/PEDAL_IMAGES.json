@@ -54,5 +54,13 @@
     "source": "Ecole-Guitare-Lyon product/review image",
     "source_page": "https://ecole-guitare-lyon.com/la-pedale-deffet-amptweaker-bass-tightrock-jr-photos-tests-avis/",
     "research_record": "./research/pedals/Amptweaker/Bass_TightRock_Jr.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Big Rock Pro",
+    "image": "https://medias.audiofanzine.com/images/normal/amptweaker-bigrock-pro-5656086.jpg",
+    "source": "Audiofanzine image",
+    "source_page": "https://fr.audiofanzine.com/saturation-multiple-ou-autre-saturation-pour-guitare/amptweaker/bigrock-pro/",
+    "research_record": "./research/pedals/Amptweaker/Big_Rock_Pro.md"
   }
 ]
