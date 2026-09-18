@@ -1,9 +1,9 @@
 # The Dirt Archive — Pedal Research Phase Checkpoint
 
 ## Status
-**Phase:** Final A-Z builder discovery sweep completed; Pedal Research Phase paused  
-**Builder census:** Complete through Block 219 / 558 canonical builders  
-**Research progress:** 1 pedal researched
+**Phase:** Builder discovery deep dives completed; Pedal Research Phase ready to resume  
+**Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
+**Research progress:** 1 pedal researched; five builder discovery dives completed
 
 ## Completed
 1. **Amptweaker — Bass BluesFuzz**
