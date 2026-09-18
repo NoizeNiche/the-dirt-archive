@@ -82,10 +82,10 @@ Add+ Pedals,Fuzz Face,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Fuzz
 Add+ Pedals,Fuzz Machine,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Fuzz Machine.md
 Add+ Pedals,Great White,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Great White.md
 Add+ Pedals,Great White 2,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Great White 2.md
-Add+ Pedals,Pi,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Pi.md
-Add+ Pedals,Ratortion,Distortion,NEEDED,NEEDED,NEEDED,
-Add+ Pedals,Ratortion 2,Distortion,NEEDED,NEEDED,NEEDED,
-Add+ Pedals,Ratortion 3,Distortion,NEEDED,NEEDED,NEEDED,
+Add+ Pedals,Pi,Fuzz,DONE,DONE,DONE,./research/pedals/Add+ Pedals/Pi.md
+Add+ Pedals,Ratortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Ratortion.md
+Add+ Pedals,Ratortion 2,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Ratortion 2.md
+Add+ Pedals,Ratortion 3,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Add+ Pedals/Ratortion 3.md
 Add+ Pedals,Ratortion 3 v2,Distortion,NEEDED,NEEDED,NEEDED,
 Add+ Pedals,Shredder,Distortion,NEEDED,NEEDED,NEEDED,
 Add+ Pedals,Super Drive,Overdrive,NEEDED,NEEDED,NEEDED,
