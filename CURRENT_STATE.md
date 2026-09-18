@@ -98,16 +98,20 @@ Before publishing a batch:
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 172
-- Pedals with confirmed pictures: 140
-- Fully complete PRP pedals: 140
-- Remaining incomplete pedals: 3681
-- Researched but waiting only for a confirmed picture: 31
+- Pedals with confirmed pictures: 141
+- Fully complete PRP pedals: 141
+- Remaining incomplete pedals: 3680
+- Researched but waiting only for a confirmed picture: 30
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: A.Y.A - Bass Fuzz
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 The next session must read research/PRP_RULES.md, CURRENT_STATE.md, research/BREADCRUMB.md, and research/PRP_TRACKER.csv before continuing.
+
+## PRP1 batch 011 checkpoint
+Batch 011 expanded the photo-recovery sweep through the next 20 unresolved catalog records, from **A.Y.A - Bass Fuzz** through **Add+ Pedals - Ratortion 2**. An exact direct image asset was confirmed for **AC Noises - Urla** from Stars Music and connected to the research record, photo manifest, public index, and tracker. **A.Y.A - Bass Fuzz** received stronger historical and exact-model visual evidence, but no direct image asset was safely archived, so it remains photo-pending.
+The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
 
 ## Final builder discovery checkpoint
 
