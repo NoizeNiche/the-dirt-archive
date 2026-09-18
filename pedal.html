@@ -66,7 +66,7 @@ main{padding:20px 0 60px}
 
     <section class="panel">
       <div class="label">Photo</div>
-      <div class="photo">Pedal photograph goes here.<br>This space is reserved for the image belonging to this exact record.</div>
+      <div class="photo"><span id="photoFallback">Pedal photograph goes here.<br>This space is reserved for the image belonging to this exact record.</span></div><a class="note" id="photoSource" href="#" target="_blank" rel="noopener" hidden>Photo source</a>
     </section>
   </div>
 </main>
@@ -137,17 +137,19 @@ const params=new URLSearchParams(location.search);
 const wantedBuilder=params.get('builder')||'';
 const wantedPedal=params.get('pedal')||'';
 
-Promise.all(DATA.map(u=>fetch(u).then(r=>{
-  if(!r.ok)throw Error(r.status);
-  return r.text();
-})))
-.then(ts=>{
-  const items=group(ts.flatMap(csv));
-  const item=items.find(x=>x.company===wantedBuilder&&x.pedal===wantedPedal);
-  const imageRecords=await fetch(IMAGE_DATA,{cache:'no-store'}).then(r=>{
+Promise.all([
+  Promise.all(DATA.map(u=>fetch(u,{cache:'no-store'}).then(r=>{
+    if(!r.ok)throw Error(r.status);
+    return r.text();
+  }))),
+  fetch(IMAGE_DATA,{cache:'no-store'}).then(r=>{
     if(!r.ok)throw Error(r.status);
     return r.json();
-  });
+  })
+])
+.then(([ts,imageRecords])=>{
+  const items=group(ts.flatMap(csv));
+  const item=items.find(x=>x.company===wantedBuilder&&x.pedal===wantedPedal);
   const imageRecord=imageRecords.find(x=>x.builder===wantedBuilder&&x.pedal===wantedPedal);
   if(!item){document.title='Pedal not found · The Dirt Archive';document.getElementById('empty').hidden=false;return}
 
@@ -157,21 +159,29 @@ Promise.all(DATA.map(u=>fetch(u).then(r=>{
   document.getElementById('name').textContent=item.pedal;
   document.getElementById('builder').textContent='The Dirt Archive pedal record';
   document.getElementById('types').innerHTML=item.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('');
+
   const imageBox=document.querySelector('.photo');
   if(imageRecord){
-    imageBox.innerHTML='<img src="'+esc(imageRecord.image)+'" alt="'+esc(item.company+' '+item.pedal)+' pedal" style="width:100%;height:100%;object-fit:contain;border-radius:12px" referrerpolicy="no-referrer">';
+    imageBox.innerHTML='<img src="'+esc(imageRecord.image)+'" alt="'+esc(item.company+' '+item.pedal)+' pedal" style="width:100%;height:100%;object-fit:contain;border-radius:12px" referrerpolicy="no-referrer" onerror="this.remove();document.getElementById(\'photoFallback\').hidden=false">';
     imageBox.style.padding='10px';
+    const source=document.getElementById('photoSource');
+    source.href=imageRecord.source_page;
+    source.hidden=false;
   }
+
   const researchEl=document.getElementById('research');
   if(imageRecord&&imageRecord.research_record){
-    const md=await fetch(imageRecord.research_record,{cache:'no-store'}).then(r=>{
-      if(!r.ok)throw Error(r.status);
-      return r.text();
-    });
-    researchEl.innerHTML=renderMarkdown(md);
+    fetch(imageRecord.research_record,{cache:'no-store'})
+      .then(r=>{if(!r.ok)throw Error(r.status);return r.text()})
+      .then(md=>{researchEl.innerHTML=renderMarkdown(md)})
+      .catch(e=>{
+        researchEl.innerHTML='<p>PRP record could not be loaded.</p>';
+        console.error(e);
+      });
   }else{
     researchEl.innerHTML='<p>PRP research has not been added for this pedal yet.</p>';
   }
+
   const link=new URL('./index.html',location.href);
   link.searchParams.set('builder',item.company);
   document.getElementById('builderLink').href=link.href;
