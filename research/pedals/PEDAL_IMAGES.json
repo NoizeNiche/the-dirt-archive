@@ -960,5 +960,40 @@
     "source": "Basic Audio official product photograph",
     "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-l5lts-pjhh6",
     "research_record": "./research/pedals/Basic Audio/Oscix.md"
+  },
+  {
+    "builder": "Acid Fuzz",
+    "pedal": "Professional MkII",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk2",
+    "research_record": "./research/pedals/Acid Fuzz/Professional MkII.md"
+  },
+  {
+    "builder": "Acid Fuzz",
+    "pedal": "Selmer Buzz Tone",
+    "image": null,
+    "source_page": "https://www.acidfuzz.com/products/selmer-buzz-tone",
+    "research_record": "./research/pedals/Acid Fuzz/Selmer Buzz Tone.md"
+  },
+  {
+    "builder": "Acid Fuzz",
+    "pedal": "Sonic Boom",
+    "image": null,
+    "source_page": "https://www.acidfuzz.com/products/sonic-boom-p2p",
+    "research_record": "./research/pedals/Acid Fuzz/Sonic Boom.md"
+  },
+  {
+    "builder": "Acid Fuzz",
+    "pedal": "The Zoink Machine",
+    "image": null,
+    "source_page": "https://www.acidfuzz.com/products/the-zoink-machine",
+    "research_record": "./research/pedals/Acid Fuzz/The Zoink Machine.md"
+  },
+  {
+    "builder": "Acid Fuzz",
+    "pedal": "Zonk Machine - Vintage Series Re-build",
+    "image": null,
+    "source_page": "https://www.acidfuzz.com/products/zonk-machine-vintage-series-re-build",
+    "research_record": "./research/pedals/Acid Fuzz/Zonk Machine - Vintage Series Re-build.md"
   }
 ]
