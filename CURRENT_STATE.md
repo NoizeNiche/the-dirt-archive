@@ -152,4 +152,4 @@ That benchmark means:
 Every **Scrape** or **Continue** command means a full bulk haul of **at least 10 distinct companies/builders**, with as many qualifying dirt-pedal rows as practical. Continue from the saved alphabetic checkpoint, deduplicate against the canonical builder index and active scrape census, update the live scrape data and durable checkpoints, and keep moving until Z. Ten companies is a hard minimum, not a stopping target.
 
 ## Next action
-Continue from the alphabetic checkpoint after **ZVEX Effects**, carrying the bulk-haul standard forward through the remaining alphabet until Z.
+The final A-Z builder discovery sweep is checkpointed in **Block 219**. Resume the planned one-pedal-at-a-time **Pedal Research Phase**, beginning with the next unique pedal after the existing Amptweaker research record.
