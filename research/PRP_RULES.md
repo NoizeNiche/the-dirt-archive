@@ -184,11 +184,11 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## 13. Current checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 124
-- Pedals with confirmed pictures: 94
-- Fully complete PRP pedals: 94
-- Remaining incomplete pedals: 3,727
-- Researched but waiting only for a picture: 30
-- Next PRP target: AC Noises - Arpiona
+- Pedals with research information: 134
+- Pedals with confirmed pictures: 103
+- Fully complete PRP pedals: 103
+- Remaining incomplete pedals: 3,718
+- Researched but waiting only for a picture: 31
+- Next research target: AboveGroundFX - El Griton Overdrive
 
-These numbers must be recalculated from research/PRP_TRACKER.csv after meaningful PRP batches rather than assumed from memory.
+The current photo-recovery queue begins with the earliest researched pedals that still lack exact confirmed pictures. Do not substitute another model or materially different version simply to fill a photo slot.
