@@ -37,4 +37,6 @@ The circuit is intended to deliver the thick, vocal, mid-forward character of th
 4. YouTube — Acid Fuzz 1966 Italian demonstration
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Verified photo:** Acid Fuzz Italian Fuzz Vintage Series
+- **Photo source:** https://www.acidfuzz.com/products/italian-fuzz-vintage-series
+- **Archive status:** **Exact model photo archived**
