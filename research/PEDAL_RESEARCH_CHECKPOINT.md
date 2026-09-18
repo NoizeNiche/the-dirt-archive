@@ -3,7 +3,7 @@
 ## Status
 **Phase:** Pedal Research Phase underway  
 **Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
-**Research progress:** 13 pedals researched; five builder discovery dives completed
+**Research progress:** 23 pedals researched; five builder discovery dives completed
 
 ## Completed
 1. **Amptweaker — Bass BluesFuzz**
@@ -139,6 +139,57 @@ Every completed PRP information update must be pushed to the live site's source 
    - Research record: `research/pedals/Amptweaker/Fat_Metal_Pro.md`
    - Separate 2016 Pro platform with dual boost staging, expanded EQ, three loops, Black Gain, and Chomp/gate functions.
 
+14. **Amptweaker — Fat Metal Pro II**
+   - Research record: `research/pedals/Amptweaker/Fat_Metal_Pro_II.md`
+   - Separate Pro II parent with controlled low-end high gain, Depth Finder, DeFizzerator, balanced DI, cab sim, headphone output, three loops, and dual boost controls.
+   - No verified numbered factory revision found.
+
+15. **Amptweaker — Fat Rock**
+   - Research record: `research/pedals/Amptweaker/Fat_Rock.md`
+   - Parent identity reconciled with the catalog alias **FatRock Distortion**.
+   - Lower-frequency variation of TightRock with fixed front-end Fat boost and added low-end emphasis.
+   - Pink charity finish recorded as cosmetic history only.
+
+16. **Amptweaker — Tight Drive**
+   - Research record: `research/pedals/Amptweaker/Tight_Drive.md`
+   - Foundational full-size Tight Drive, first Amptweaker product, introduced at NAMM 2010.
+   - Aion technical trace kept separate from factory component claims.
+
+17. **Amptweaker — Tight Drive Jr**
+   - Research record: `research/pedals/Amptweaker/Tight_Drive_Jr.md`
+   - 2016 compact JR parent with 3-position Fat/Normal/Tight, Plexi/Normal/Smooth, and manual gate.
+   - No verified numbered factory revision.
+
+18. **Amptweaker — Tight Drive Pro**
+   - Research record: `research/pedals/Amptweaker/Tight_Drive_Pro.md`
+   - 2014 Pro parent with dual pre/post boosts, 3-band EQ, Mid Boost, gate, and three loops.
+   - No verified numbered factory revision.
+
+19. **Amptweaker — Tight Metal**
+   - Research record: `research/pedals/Amptweaker/Tight_Metal.md`
+   - Original 2011 full-size high-gain parent; later JR/Pro/Pro II models remain separate parents.
+   - Prototype finish changes are treated as development/style history, not versions.
+
+20. **Amptweaker — Tight Metal Jr**
+   - Research record: `research/pedals/Amptweaker/Tight_Metal_Jr.md`
+   - 2016 compact JR distortion.
+   - Misery Index Limited Edition documented as a factory cosmetic special edition, not a separate version.
+
+21. **Amptweaker — Tight Metal Pro**
+   - Research record: `research/pedals/Amptweaker/Tight_Metal_Pro.md`
+   - 2013 Pro expansion with dual boost staging, expanded EQ, gate/Chomp, and three loops.
+   - No verified numbered factory revision.
+
+22. **Amptweaker — Tight Metal Pro II**
+   - Research record: `research/pedals/Amptweaker/Tight_Metal_Pro_II.md`
+   - Major 2020/2021 Pro II redesign with Depth Finder, DeFizzerator, DI, cab sim, headphone output, and three loops.
+   - No verified numbered factory revision.
+
+23. **Amptweaker — Tight Rock**
+   - Research record: `research/pedals/Amptweaker/Tight_Rock.md`
+   - Parent record contains the 2011 full-size legacy generation and later compact Performance Series generation.
+   - Pink charity edition recorded as cosmetic/historical only.
+
 ## Research order
 Proceed through the catalog one pedal at a time. Use the canonical catalog entry as the identity anchor, preserve the archive's existing builder/pedal names, and document aliases or version relationships inside the research record rather than silently renaming catalog data.
 
@@ -153,4 +204,4 @@ Proceed through the catalog one pedal at a time. Use the canonical catalog entry
 - Sources checked
 
 ## Next pedal
-**Amptweaker — Bass TightFuzz**
+**Amptweaker — Tight Rock Jr**
