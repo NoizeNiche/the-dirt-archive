@@ -40,3 +40,8 @@ Bass Fuzz is a straightforward, compact fuzz intended to add aggressive harmonic
 1. Effects Database — A.Y.A Bass Fuzz: https://www.effectsdatabase.com/model/aya/bassfuzz
 2. Effects Database — A.Y.A brand index: https://www.effectsdatabase.com/model/aya
 3. A.Y.A Tokyo Japan product site: https://aya.la.coocan.jp/products_jap.html
+
+## Photo
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** https://www.effectsdatabase.com/model/aya/bassfuzz
+- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
