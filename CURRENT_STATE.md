@@ -94,6 +94,8 @@ Research is being done **one pedal at a time**. Each researched pedal receives a
 
 The research phase currently contains **74 completed pedal research records**.
 
+Research is documented one pedal at a time, but the actual work is collected and verified in batches of 10 pedals, or as many as can be responsibly completed in a pass, before publishing.
+
 The latest completed PRP record is:
 - `research/pedals/Basic Audio/Fuzz Mutant.md`
 
