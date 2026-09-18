@@ -6,11 +6,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **471 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-197.
+- **472 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-198.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder table is reconciled through **ID 471 / Block 197**.
+- The current builder table is reconciled through **ID 472 / Block 198**.
 
 ## Rules
 
@@ -496,6 +496,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 469 | Crest Audio | 194 | Historical branded/OEM |
 | 470 | Crushsound | 196 |  |
 | 471 | Crowella Effects | 197 |  |
+| 472 | Caustic FX | 198 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
