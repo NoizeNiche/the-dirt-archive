@@ -164,3 +164,8 @@ The next exact-order unresolved target is **A.Y.A - Bass Fuzz**.
 Batch 011 expanded the photo-recovery sweep through the next 20 unresolved catalog records, from **A.Y.A - Bass Fuzz** through **Add+ Pedals - Ratortion 2**. An exact direct image asset was confirmed for **AC Noises - Urla** from Stars Music and connected to the research record, photo manifest, public index, and tracker. **A.Y.A - Bass Fuzz** received stronger historical and exact-model visual evidence, but no direct image asset was safely archived, so it remains photo-pending.
 The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
 
+
+
+## PRP1 batch 012 checkpoint
+
+Batch 012 audited the next 10 incomplete PRP1 records in exact catalog order, from **A.Y.A - Bass Fuzz** through **Accel Audio - OD-SS Express Overdrive**. All ten already had research records. Exact-model photo recovery was checked across the batch, but no new direct image asset met the archive standard, so the ten remain photo-pending. The next exact-order unresolved target is **Accel Audio - Stompzilla Fuzz**.
