@@ -184,11 +184,11 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## 13. Current checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 134
-- Pedals with confirmed pictures: 103
-- Fully complete PRP pedals: 103
-- Remaining incomplete pedals: 3,718
-- Researched but waiting only for a picture: 31
-- Next research target: AboveGroundFX - El Griton Overdrive
+- Pedals with research information: 148
+- Pedals with confirmed pictures: 104
+- Fully complete PRP pedals: 109
+- Remaining incomplete pedals: 3,712
+- Researched but waiting only for a picture: 39
+- Next research target: Aclam Guitars - The Mocker
 
-The current photo-recovery queue begins with the earliest researched pedals that still lack exact confirmed pictures. Do not substitute another model or materially different version simply to fill a photo slot.
+The current photo-recovery queue remains open for earlier researched pedals without exact confirmed pictures. Do not substitute another model or materially different version simply to fill a photo slot.
