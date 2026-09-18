@@ -6,12 +6,12 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **387 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- **428 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
-- **176 block files** are currently present: Blocks 001-069, 071-141, and 143-178.
+- **390 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- **431 builder mentions** exist across the live blocks because some blocks contain more than one builder and several builders have repeat blocks.
+- **177 block files** are currently present: Blocks 001-069, 071-141, and 143-179.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder mentions collapse to 387 canonical identities after duplicate/alias consolidation.
+- The current builder mentions collapse to 390 canonical identities after duplicate/alias consolidation.
 
 ## Rules
 
@@ -413,6 +413,9 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 385 | Comodoro Pedales | 178 |  |
 | 386 | Crucial Audio | 178 |  |
 | 387 | Custom Analog Pedals | 178 |  |
+| 388 | Circuitous FX | 179 |  |
+| 389 | Circus Freak Music | 179 | Circus Freak Stomp Boxes |
+| 390 | Cosmic Terror | 179 | Cosmic Terror Effects / Cosmicterrorcabs |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
@@ -446,6 +449,8 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 - **ZVEX Effects** -> Blocks 065, 141
 
 - **Cat's Eye ESP** -> Blocks 172, 173 (same canonical builder; Block 173 is an expansion, not a new identity)
+
+- **Citadel Electronics** -> Blocks 175, 179 (Block 179 expands existing ID 366 with the Vector fuzz)
 
 ## Immediate next-work rule
 
