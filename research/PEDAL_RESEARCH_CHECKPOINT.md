@@ -1,8 +1,8 @@
 # The Dirt Archive — Pedal Research Phase Checkpoint
 
 ## Status
-**Phase:** Pedal Research Phase  
-**Builder census:** Complete through ZVEX Effects / Block 218  
+**Phase:** Final A-Z builder discovery sweep completed; Pedal Research Phase paused  
+**Builder census:** Complete through Block 219 / 558 canonical builders  
 **Research progress:** 1 pedal researched
 
 ## Completed
