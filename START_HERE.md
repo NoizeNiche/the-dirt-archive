@@ -64,14 +64,16 @@ The current progress scoreboard is stored in research/PRP_TRACKER.csv. The site'
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
 
 ## Current PRP checkpoint
+- **3,821** unique pedals
+- **134** have pedal information researched
+- **103** have confirmed pictures
+- **103** are fully complete
+- **3,718** remain incomplete
+- **31** are researched but currently waiting only for a confirmed picture
+- **Next research target:** AboveGroundFX - El Griton Overdrive
+- Earlier researched/photo-missing pedals remain in the photo-recovery queue.
 
-- Unique pedals: 3,821
-- Researched: 124
-- Confirmed pictures: 94
-- Fully complete: 94
-- Remaining: 3,727
-- Researched but picture missing: 30
-- Next pedal: AC Noises - Arpiona
+The current pass checked the first ten open photo-recovery targets in site order and added exact verified pictures for Abasi Concepts - Pathos Distortion and AbbyTone - Screwed Driver. Do not substitute unverified or materially different pedal images.
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
 
