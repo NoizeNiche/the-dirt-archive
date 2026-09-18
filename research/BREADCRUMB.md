@@ -84,11 +84,11 @@ Current architecture decisions:
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 198
-- Pedals with confirmed pictures: 153
-- Fully complete PRP pedals: 153
-- Remaining incomplete pedals: 3672
-- Researched but waiting only for a confirmed picture: 45
+- Pedals with research information: 202
+- Pedals with confirmed pictures: 154
+- Fully complete PRP pedals: 154
+- Remaining incomplete pedals: 3667
+- Researched but waiting only for a confirmed picture: 48
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **Adventure Audio - Demogorgon Fuzz**
 
