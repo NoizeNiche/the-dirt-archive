@@ -3,7 +3,7 @@
 ## Status
 **Phase:** Pedal Research Phase underway  
 **Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
-**Research progress:** 33 pedals researched; five builder discovery dives completed
+**Research progress:** 43 pedals researched; 33 exact pedal photos attached; 10 exact-photo records pending direct image files
 
 ## Completed
 1. **Amptweaker — Bass BluesFuzz**
@@ -257,4 +257,9 @@ Proceed through the catalog one pedal at a time. Use the canonical catalog entry
 - Sources checked
 
 ## Next pedal
-**Analog Man — Astro Tone**
+**Animal Factory Amplification — Godeater**
+
+## Current photo-audit backlog
+The PRP image rule is strict: the image must itself be a photograph/render of the exact pedal, not a screenshot of a product/source page. The following researched parents currently have a research record but no attached exact image file: Amptweaker — Tight Metal Jr; Amptweaker — TightBoost; Amptweaker — TightFuzz Jr; Analog Alien — Alien Twister; Analog Man — Astro Tone; Analog Man — Prince Of Tone; Analog Man — Sun Face; Animal Factory Amplification — Chemical Burn; Animal Factory Amplification — Dirty Mirror; Animal Factory Amplification — Godeater+.
+
+The site intentionally shows an honest photo-pending state for these records until an exact direct image file is found.
