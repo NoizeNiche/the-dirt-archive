@@ -1,7 +1,7 @@
 # The Dirt Archive — Pedal Research Phase Checkpoint
 
 ## Status
-**Phase:** Builder discovery deep dives completed; Pedal Research Phase ready to resume  
+**Phase:** Pedal Research Phase underway  
 **Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
 **Research progress:** 2 pedals researched; five builder discovery dives completed
 
@@ -35,5 +35,4 @@ Proceed through the catalog one pedal at a time. Use the canonical catalog entry
 - Sources checked
 
 ## Next pedal
-**Next pedal**
 **Amptweaker — Bass TightDrive Jr.**
