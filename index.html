@@ -382,11 +382,12 @@ main{padding:24px 0 72px}
 </main>
 
 <script>
+const DATA_VERSION='2026-09-18-final-discovery';
 const DATA=[
-  './research/MASTER_PEDAL_CENSUS.csv',
-  './research/SCRAPE_A_CENSUS.csv',
-  './research/SCRAPE_B_CENSUS.csv',
-  './research/SCRAPE_C_CENSUS.csv'
+  './research/MASTER_PEDAL_CENSUS.csv?v='+DATA_VERSION,
+  './research/SCRAPE_A_CENSUS.csv?v='+DATA_VERSION,
+  './research/SCRAPE_B_CENSUS.csv?v='+DATA_VERSION,
+  './research/SCRAPE_C_CENSUS.csv?v='+DATA_VERSION
 ];
 
 let items=[];
@@ -558,7 +559,7 @@ $('search').oninput=e=>{
 };
 
 Promise.all(
-  DATA.map(u=>fetch(u).then(r=>{
+  DATA.map(u=>fetch(u,{cache:'no-store'}).then(r=>{
     if(!r.ok)throw Error(r.status);
     return r.text();
   }))
