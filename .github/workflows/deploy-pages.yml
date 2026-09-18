@@ -29,6 +29,12 @@ jobs:
         with:
           enablement: true
 
+      - name: Verify site files
+        run: |
+          test -f index.html
+          test -f pedal.html
+          test -f research/pedals/PEDAL_IMAGES.json
+
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:
