@@ -35,5 +35,7 @@ Shredder is cataloged as distortion and is associated with the aggressive amp-st
 2. Reverb — ADD+ Shredder (based on shredmaster): https://reverb.com/item/61270798-add-shredder-based-on-shredmaster
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Reverb listing above.
+- **Archive status:** **Photo Archived**
+- **Exact-model source:** https://www.mydukkan.com/add-shredder-distortion-pedali-u-27520
+- **Image asset:** https://media.mydukkan.com/image/18710/ADDShredder0.jpg
+- **Image match:** MyDukkan product image showing the ADD+ Shredder enclosure, controls, and branding.
