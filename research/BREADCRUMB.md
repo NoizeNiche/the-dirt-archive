@@ -132,3 +132,7 @@ Do not resume from conversation memory when the repository says otherwise.
 `.github/workflows/deploy-pages.yml` is the website's automatic publishing system.
 
 A PRP batch is not considered live until the GitHub Pages publishing run succeeds. The current site-functionality commit is `a9573f127c35d5c9f1eb97ca7f39065874300c16`; its Pages run is currently in progress and must finish successfully before this functionality pass is considered live.
+
+## PRP1 batch 004 checkpoint
+
+PRP1 batch 004 covered the next ten unresolved parent records in exact catalog order, from **Acid Fuzz - Mk1.5** through **Aclam Guitars - The Woman Tone**. Exact photos were archived for NKT275 Acid Fuzz Face, Cinnamon Drive, Cinnamon Drive - Dreamer Edition, Dr. Robert, Go Rocky Go, Go Rocky Go - White Album Edition, The Mocker, The Windmiller Preamp, and The Woman Tone. Research records were added for The Mocker, The Windmiller Preamp, and The Woman Tone, and Dr. Robert was updated for the documented V3 changes. **Acid Fuzz - Mk1.5** remains the next unresolved target because no exact safe direct image file was confirmed.
