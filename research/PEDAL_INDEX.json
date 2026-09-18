@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp-076",
+  "version": "2026-09-18-prp-077",
   "count": 3821,
   "pedals": [
     {
@@ -311,9 +311,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.abominablepedals.com/cdn/shop/files/hellmouth2024_1200x1200.png?v=1702582154",
+      "source_page": "https://www.abominablepedals.com/products/hellmouth-throwback-art-limited-to-125",
+      "research_record": "./research/pedals/Abominable Electronics/Hellmouth.md"
     },
     {
       "company": "Abominable Electronics",
@@ -322,9 +322,9 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.chicagomusicexchange.com/cdn/shop/products/abominable-electronics-effects-and-pedals-overdrive-and-boost-abominable-electronics-oppressive-cult-destroyer-u3513196612-28643339436167.jpg?v=1645614845&width=1946",
+      "source_page": "https://www.chicagomusicexchange.com/products/abominable-electronics-oppressive-cult-destroyer-1344213",
+      "research_record": "./research/pedals/Abominable Electronics/Oppressive Cult Destroyer.md"
     },
     {
       "company": "Abominable Electronics",
@@ -332,9 +332,9 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.abominablepedals.com/cdn/shop/files/throne2024_1200x1200.png?v=1702582270",
+      "source_page": "https://www.abominablepedals.com/products/throne-torcher",
+      "research_record": "./research/pedals/Abominable Electronics/Throne Torcher.md"
     },
     {
       "company": "Abominable Electronics",
@@ -342,9 +342,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://rvb-img.reverb.com/i/s--jR1hsiI2--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/2a55b249-0458-4491-8c62-b529e54728d7.jpeg",
+      "source_page": "https://reverb.com/item/95602021-abominable-electronics-toke-machine",
+      "research_record": "./research/pedals/Abominable Electronics/Toke Machine.md"
     },
     {
       "company": "Abominable Electronics",
@@ -352,9 +352,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://files.effectsdatabase.com/gear/thumbs/abominable_yeti_001.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/abominable/yeti",
+      "research_record": "./research/pedals/Abominable Electronics/Yeti Fuzz.md"
     },
     {
       "company": "AboveGroundFX",
@@ -363,8 +363,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/aboveground/elgriton",
+      "research_record": "./research/pedals/AboveGroundFX/El Griton Overdrive.md"
     },
     {
       "company": "AboveGroundFX",
@@ -373,8 +373,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
+      "research_record": "./research/pedals/AboveGroundFX/Rocks Hard.md"
     },
     {
       "company": "Absolutely Analog",
@@ -383,8 +383,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/proco/rat",
+      "research_record": "./research/pedals/Absolutely Analog/Ratzo.md"
     },
     {
       "company": "AC Efectos",
@@ -392,9 +392,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://files.effectsdatabase.com/gear/thumbs/ac_green808_001.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/ac/green808",
+      "research_record": "./research/pedals/AC Efectos/Green 808 Overdrive.md"
     },
     {
       "company": "AC Efectos",
@@ -403,8 +403,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/ac/triplex",
+      "research_record": "./research/pedals/AC Efectos/Triplex Distortion.md"
     },
     {
       "company": "AC Noises",
