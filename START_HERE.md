@@ -45,13 +45,13 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **171** have pedal information researched
-- **139** have confirmed pictures
-- **139** are fully complete
-- **3,682** remain incomplete
-- **32** are researched but currently waiting only for a confirmed picture
+- **172** have pedal information researched
+- **140** have confirmed pictures
+- **140** are fully complete
+- **3,681** remain incomplete
+- **31** are researched but currently waiting only for a confirmed picture
 - **PRP status:** Active, PRP1 photo-recovery pass
-- ****Current PRP1 target:** A Sound Of Failure - Death Driver
+- **Current PRP1 target:** A.Y.A - Bass Fuzz
 - PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
