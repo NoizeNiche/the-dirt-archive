@@ -85,12 +85,12 @@ Current architecture decisions:
 
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 171
-- Pedals with confirmed pictures: 141
-- Fully complete PRP pedals: 141
-- Remaining incomplete pedals: 3680
-- Researched but waiting only for a confirmed picture: 30
+- Pedals with confirmed pictures: 142
+- Fully complete PRP pedals: 142
+- Remaining incomplete pedals: 3679
+- Researched but waiting only for a confirmed picture: 29
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **A.Y.A - Bass Fuzz**
+- Current PRP1 target: **Add+ Pedals - Ratortion 3 v2**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -169,3 +169,8 @@ The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
 ## PRP1 batch 012 checkpoint
 
 Batch 012 audited the next 10 incomplete PRP1 records in exact catalog order, from **A.Y.A - Bass Fuzz** through **Accel Audio - OD-SS Express Overdrive**. All ten already had research records. Exact-model photo recovery was checked across the batch, but no new direct image asset met the archive standard, so the ten remain photo-pending. The next exact-order unresolved target is **Accel Audio - Stompzilla Fuzz**.
+
+
+## PRP1 batch 013 checkpoint
+
+Batch 013 audited the next 10 incomplete PRP1 records in exact catalog order, from **Accel Audio - Stompzilla Fuzz** through **Add+ Pedals - Ratortion 3**. **Add+ Pedals - Ratortion 3** received a confirmed exact-model photo from a Reverb listing, and its research record, photo manifest, public index, and tracker were synchronized. The other nine records remain photo-pending. Next exact-order unresolved target: **Add+ Pedals - Ratortion 3 v2**.
