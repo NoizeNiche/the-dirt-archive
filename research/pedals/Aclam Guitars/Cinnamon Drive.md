@@ -41,3 +41,7 @@ Cinnamon Drive starts around clean boost and low-gain overdrive, then adds a sec
 ## Sources checked
 1. Aclam Guitars — Cinnamon Drive: https://www.aclamguitars.com/cinnamon-drive
 2. Aclam Guitars — Cinnamon Drive store page: https://www.aclamguitars.com/store/cinnamon-drive.html
+## Photo
+- **Verified photo:** Aclam Cinnamon Drive production model.
+- **Photo source:** Aclam Guitars official product page.
+- **Archive status:** **Exact model photo archived**
