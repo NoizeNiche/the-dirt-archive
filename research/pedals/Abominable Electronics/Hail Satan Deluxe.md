@@ -45,3 +45,6 @@ The major Deluxe evolution is documented through switching improvements and cosm
 ## Sound
 The Deluxe is designed to make the Muff-style foundation considerably more adjustable, from deep and scooped to mid-forward and cutting. The Clean Blend helps preserve the dry signal while the Highs and Mids controls shape the upper and middle frequencies, and the Normal/Russian switch gives two broad voicing families from the same box. [1][2]
 
+## Sources checked
+1. Abominable Electronics — Hail Satan Deluxe: https://www.abominablepedals.com/products/hail-satan-deluxe
+2. Effects Database — Hail Satan Deluxe: https://www.effectsdatabase.com/model/abominable/hailsatan/deluxe
