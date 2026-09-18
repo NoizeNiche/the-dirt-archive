@@ -527,6 +527,67 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 500 | Organic Sounds | 216 |  |
 | 501 | Ovaltone | 216 |  |
 | 502 | Phaez Amplification | 216 |  |
+## Final A-Z sweep additions — Block 219
+
+The final alphabet-wide discovery sweep added **56 new canonical builder identities**, IDs **503-558**, after duplicate/alias gating against the existing index. The sweep also expanded the live census with **173 net-new company/pedal/type rows**.
+
+| 503 | 6 Degrees FX | 219 |  |
+| 504 | ADA Amps | 219 |  |
+| 505 | BBE | 219 |  |
+| 506 | Behringer | 219 |  |
+| 507 | Big Ear | 219 | BIG EAR / Big Ear NYC |
+| 508 | Big Joe Stomp Box Company | 219 |  |
+| 509 | Darkglass Electronics | 219 |  |
+| 510 | DeadastronautFX | 219 |  |
+| 511 | Decibelics | 219 |  |
+| 512 | Deep Trip | 219 |  |
+| 513 | Demeter | 219 |  |
+| 514 | Demon Pedals | 219 |  |
+| 515 | Devi Ever : FX | 219 | Devi Ever FX |
+| 516 | Diamond | 219 |  |
+| 517 | Diezel Amplification | 219 |  |
+| 518 | DLS Effect | 219 |  |
+| 519 | Dophix | 219 |  |
+| 520 | Dr. No Effects | 219 |  |
+| 521 | Dreadbox | 219 |  |
+| 522 | EWS | 219 |  |
+| 523 | F-Pedals | 219 | F-Pedals |
+| 524 | Flattley | 219 |  |
+| 525 | Fortin | 219 |  |
+| 526 | Foxpedal | 219 |  |
+| 527 | Frantone Electronics | 219 |  |
+| 528 | Fuzzrocious Pedals | 219 |  |
+| 529 | Gamechanger Audio | 219 |  |
+| 530 | Greenhouse Effects | 219 |  |
+| 531 | Guyatone | 219 |  |
+| 532 | Henretta Engineering | 219 |  |
+| 533 | Horizon Devices | 219 |  |
+| 534 | King Tone Guitar | 219 | KingTone |
+| 535 | Lunastone Pedals | 219 |  |
+| 536 | MadeByMike | 219 |  |
+| 537 | Menatone | 219 |  |
+| 538 | Nobels | 219 |  |
+| 539 | Outlaw Effects | 219 |  |
+| 540 | Pettyjohn Electronics | 219 |  |
+| 541 | Rainger FX | 219 |  |
+| 542 | Retro Mechanical Labs | 219 |  |
+| 543 | Reuss Musical Instruments | 219 |  |
+| 544 | Rockbox | 219 |  |
+| 545 | Rocktron | 219 |  |
+| 546 | Roger Mayer | 219 |  |
+| 547 | RYRA | 219 |  |
+| 548 | Shin's Music | 219 |  |
+| 549 | Sinvertek | 219 |  |
+| 550 | Smallsound/Bigsound | 219 |  |
+| 551 | Supro | 219 |  |
+| 552 | Tone City | 219 |  |
+| 553 | Toneczar | 219 |  |
+| 554 | Vertex Effects | 219 |  |
+| 555 | Vick Audio | 219 |  |
+| 556 | WMD Devices | 219 |  |
+| 557 | Xvive Audio | 219 |  |
+| 558 | Yamaha | 219 |  |
+
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
