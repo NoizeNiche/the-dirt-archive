@@ -191,13 +191,13 @@ The useful questions are:
 The research system should make those comparisons easy and immediate.
 
 ## Current canonical checkpoint
-As of Batch 215:
-- **495 canonical builder identities** are represented.
-- **213 live research blocks** are present: Blocks 001-069, 071-141, and 143-215.
+As of Batch 216:
+- **502 canonical builder identities** are represented.
+- **214 live research blocks** are present: Blocks 001-069, 071-141, and 143-216.
 - Block 070 is absent.
 - Block 142 was Fairfield Circuitry and was removed as a duplicate because Fairfield already exists as Block 102.
-- The canonical builder index is reconciled through **ID 495 / Block 215**.
-- The active Scrape C checkpoint is **after JHS Pedals**, with **1,453 live company/pedal/type rows**.
+- The canonical builder index is reconciled through **ID 502 / Block 216**.
+- The active Scrape C checkpoint is **after Phaez Amplification**, with **2044 live company/pedal/type rows**.
 
 ## Workflow discipline
 Before an operation:
