@@ -7,10 +7,10 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 ## Current live census
 
 - **487 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-207.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-208.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder table is reconciled through **ID 487 / Block 207**.
+- The current builder table is reconciled through **ID 487 / Block 208**.
 
 ## Rules
 
@@ -317,7 +317,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 291 | C.I.C | 164 |  |
 | 292 | C14 Devices | 164 |  |
 | 293 | C.Q.O. | 164 |  |
-| 294 | Cactus | 164 |  |
+| 294 | Cactus | 164, 208 |  |
 | 295 | Cajita Stompboxes | 164 | Cajita / Pedales Cajita |
 | 296 | Calangary Pedals | 164 |  |
 | 297 | California (by Eleca) | 164 |  |
@@ -360,9 +360,9 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 333 | Chicago Stompworks | 171 |  |
 | 334 | Chowny Bass | 171 |  |
 | 335 | Coffin Case | 171 |  |
-| 336 | ColdCraft Effects | 171 |  |
+| 336 | ColdCraft Effects | 171, 208 |  |
 | 337 | Creation Audio Labs | 171 |  |
-| 338 | Crews Maniac Sound | 171 |  |
+| 338 | Crews Maniac Sound | 171, 208 |  |
 | 339 | Cameltone Electronics | 172 |  |
 | 340 | Cause & Effect Pedals (CE Pedals) | 172 | Cause & Effect Pedals |
 | 341 | Cat Box Customs | 172 | CatBox Customs |
@@ -395,7 +395,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 368 | Chunk Systems | 175 |  |
 | 369 | Cornell Amplification | 175 |  |
 | 370 | Cluster Effects | 175 |  |
-| 371 | Cranetortoise by Albit | 175 |  |
+| 371 | Cranetortoise by Albit | 175, 208 |  |
 | 372 | Couch Electronics | 175 |  |
 | 373 | CAST Engineering | 176 |  |
 | 374 | Crazy Rock'n'Roll Effecter | 176 | C.R.E. / Crazy Rock'n'roll Effecter |
