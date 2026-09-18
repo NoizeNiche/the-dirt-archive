@@ -80,12 +80,12 @@ Current architecture decisions:
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **148** have pedal information researched
-- **104** have confirmed pictures
-- **109** are fully complete
-- **3,712** remain incomplete
+- **147** have pedal information researched
+- **108** have confirmed pictures
+- **108** are fully complete
+- **3,713** remain incomplete
 - **39** are researched but currently waiting only for a confirmed picture
-- **Next research target:** Aclam Guitars - The Mocker
+- **PRP status:** Paused while the site foundation is repaired
 - Earlier researched/photo-missing pedals remain in the photo-recovery queue.
 
 This pass completed the next ten research targets in exact site order: five Acid Fuzz pedals already had exact pictures and were reconciled as complete, and five Aclam Guitars pedals received their individual research records. The Aclam photo gaps remain open rather than using substitutes.
