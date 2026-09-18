@@ -1104,5 +1104,26 @@
     "image": "https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg",
     "source_page": "https://reverb.com/item/35379122-acid-fuzz-acid-fuzzer-mki-mini-tone-bender",
     "research_record": "./research/pedals/Acid Fuzz/Acid Fuzzer MkI.md"
+  },
+  {
+    "builder": "Acid Fuzz",
+    "pedal": "Italian Fuzz",
+    "image": null,
+    "source_page": "https://www.acidfuzz.com/collections/all",
+    "research_record": "./research/pedals/Acid Fuzz/Italian Fuzz.md"
+  },
+  {
+    "builder": "Acid Fuzz",
+    "pedal": "Mk1.5",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk15",
+    "research_record": "./research/pedals/Acid Fuzz/Mk1.5.md"
+  },
+  {
+    "builder": "Acid Fuzz",
+    "pedal": "NKT275 Acid Fuzz Face",
+    "image": null,
+    "source_page": "https://www.acidfuzz.com/products/acid-fuzz-face-nkt-275-germanium",
+    "research_record": "./research/pedals/Acid Fuzz/NKT275 Acid Fuzz Face.md"
   }
 ]
