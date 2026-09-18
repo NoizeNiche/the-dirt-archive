@@ -203,3 +203,55 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 - Researched but waiting only for a confirmed picture: 48
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **Accel Audio - Stompzilla Fuzz**
+
+PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
+
+
+## Latest checkpoint
+PRP1 batch 007 completed ADA Amps - MP-1 Channel after confirming an exact Effects Database photograph. Next target: ADA Amps - MP-1 Channel.
+
+
+## PRP1 batch 008 checkpoint
+ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation from Chicago Music Exchange. The tracker, public index, and photo manifest were updated together. Next exact-order unresolved target: Add+ Pedals - Der Fuzzer.
+
+
+## PRP1 batch 009 checkpoint
+Batch 009 completed the next ten exact-order PRP1 records from **Add+ Pedals - Der Fuzzer** through **Add+ Pedals - Ratortion 3**. The first seven records already had research and were checked for photo recovery; three new research records were added for Ratortion, Ratortion 2, and Ratortion 3. The exact Add+ Pi picture was confirmed and connected to the public index and photo manifest. Records without a safely archived direct exact-model image remain photo-pending.
+The next exact-order unresolved target is **Add+ Pedals - Ratortion 3 v2**.
+
+
+## PRP1 batch 010 checkpoint
+Batch 010 worked the next ten exact-order PRP1 records from **A Sound Of Failure - Death Driver** through **AC Efectos - Triplex Distortion**. An exact Effects Database photograph was confirmed and archived for **Death Driver**, moving that pedal to fully complete. The remaining nine records in this photo-recovery window remain incomplete where no safe direct exact-model image asset was confirmed.
+The next exact-order unresolved target is **A.Y.A - Bass Fuzz**.
+
+
+## PRP1 batch 011 checkpoint
+Batch 011 expanded the photo-recovery sweep through the next 20 unresolved catalog records, from **A.Y.A - Bass Fuzz** through **Add+ Pedals - Ratortion 2**. An exact direct image asset was confirmed for **AC Noises - Urla** from Stars Music and connected to the research record, photo manifest, public index, and tracker. **A.Y.A - Bass Fuzz** received stronger historical and exact-model visual evidence, but no direct image asset was safely archived, so it remains photo-pending.
+The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
+
+
+
+## PRP1 batch 012 checkpoint
+Batch 012 audited the next 10 incomplete PRP1 records in exact website order, from **A.Y.A - Bass Fuzz** through **Accel Audio - OD-SS Express Overdrive**. All ten already had research records. Exact-model photo recovery was checked across the batch, but no new direct image asset met the exact-photo standard. All ten remain Picture: NEEDED and PRP Complete: NEEDED. Next target: **Accel Audio - Stompzilla Fuzz**.
+
+
+## PRP1 batch 013 checkpoint
+Batch 013 audited the next 10 incomplete PRP1 records in exact website order, from **Accel Audio - Stompzilla Fuzz** through **Add+ Pedals - Ratortion 3**. One exact-model photo was recovered for **Add+ Pedals - Ratortion 3** from a Reverb listing and synchronized across the research record, photo manifest, public index, and tracker. The other nine remain photo-pending. Next target: **Add+ Pedals - Ratortion 3 v2**.
+
+
+## PRP1 batch 014 checkpoint
+Batch 014 researched the next 10 incomplete PRP1 records in exact website order, from **Add+ Pedals - Ratortion 3 v2** through **Addrock Musical Products - Geranium Fuzz**. New research records were added for all ten and synchronized across the research manifest, public index, and tracker. No new exact-model photo asset was safely archived in this pass, so all ten remain Picture: NEEDED and PRP Complete: NEEDED. Next target: **Add+ Pedals - Ratortion 3 v2**.
+
+
+## PRP1 batch 015 checkpoint
+
+Batch 015 audited the next 10 unresolved PRP1 records in exact catalog order, from **Add+ Pedals - Ratortion 3 v2** through **Addrock Musical Products - Geranium Fuzz**. Exact-model photos were recovered and synchronized for **Ratortion 3 v2, Shredder, Tube Drive Silver Edition, Boostmaster, and Geranium Fuzz**. **Super Drive, Super Drive 2, Tiger Shark, Tube Drive, and Tube Drive 2** remain photo-pending because no new safe direct exact-model image asset was confirmed during this pass.
+
+The next exact-order unresolved target is **Add+ Pedals - Super Drive**.
+
+
+## PRP1 batch 016 checkpoint
+
+Batch 016 processed the next 10 incomplete PRP1 records in exact catalog order, from **Add+ Pedals - Super Drive** through **ADV Systems - #overdrive**. New research records were added for **Addrock Hism Scism, Addrock Not So Ol' Yeller, Addrock Ol' Yeller, ADV Systems #distortion, and ADV Systems #overdrive**. Exact photos were recovered for **Addrock Hism Scism** and **Addrock Ol' Yeller** and synchronized across the research records, photo manifest, public index, and tracker. The remaining eight records remain incomplete where no safe direct exact-model image asset was confirmed.
+
+The next exact-order unresolved target remains **Add+ Pedals - Super Drive**.
