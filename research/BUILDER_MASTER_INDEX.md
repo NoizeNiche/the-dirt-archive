@@ -6,8 +6,8 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **466 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-193.
+- **469 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-194.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
 - The current builder table is reconciled through **ID 440 / Block 187**.
@@ -491,6 +491,9 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 464 | CSL | 193 | Charles Summerfield Ltd / Colorsound-branded |
 | 465 | CS.Cathey | 193 | Cathey Co., Ltd. |
 | 466 | CSR | 193 |  |
+| 467 | Circular Time Hardware | 194 |  |
+| 468 | Clayton | 194 |  |
+| 469 | Crest Audio | 194 | Historical branded/OEM |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
