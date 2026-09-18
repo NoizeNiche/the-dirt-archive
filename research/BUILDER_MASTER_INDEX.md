@@ -6,8 +6,8 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **448 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-190.
+- **453 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-191.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
 - The current builder table is reconciled through **ID 440 / Block 187**.
@@ -473,6 +473,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 446 | Cyclone | 190 | Historical branded/OEM |
 | 447 | Craftros Pedals | 190 |  |
 | 448 | Crazybox Pedals | 190 |  |
+| 449 | Chaser | 191 | Historical branded/OEM |
+| 450 | CMI | 191 | Cleartone Musical Instruments; Marshall-owned brand |
+| 451 | Cobrahawk | 191 |  |
+| 452 | Code | 191 |  |
+| 453 | Codtone | 191 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
