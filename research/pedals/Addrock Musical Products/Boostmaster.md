@@ -37,5 +37,7 @@ Boostmaster is designed to move between a full-range boost and a sweeter treble-
 1. Effects Database — Addrock Boostmaster: https://www.effectsdatabase.com/model/addrock/boostmaster
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database page above.
+- **Archive status:** **Photo Archived**
+- **Exact-model source:** https://reverb.com/item/71081327-addrock-boostmaster-red
+- **Image asset:** https://rvb-img.reverb.com/i/s--cPJtDBfl--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y7ha5ajkqtrfut0qr7gu.jpg
+- **Image match:** Reverb listing identifies the pedal as an Addrock BoostMaster in red and shows the three-control/range-switch layout.
