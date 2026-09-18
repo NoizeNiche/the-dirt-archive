@@ -94,5 +94,13 @@
     "source": "GuitarSofa used-pedal image",
     "source_page": "https://www.guitarsofa.com/effects/amptweaker-fat-metal",
     "research_record": "./research/pedals/Amptweaker/Fat_Metal.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Fat Metal Pro",
+    "image": "https://rvb-img.reverb.com/i/s--v7ENKDWT--/quality=medium-low,height=800,width=800,fit=contain/frer9lwrdofzybebfwdv.jpg",
+    "source": "Reverb product image",
+    "source_page": "https://reverb.com/item/16791001-amptweaker-fat-metal-pro",
+    "research_record": "./research/pedals/Amptweaker/Fat_Metal_Pro.md"
   }
 ]
