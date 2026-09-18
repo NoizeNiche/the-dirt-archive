@@ -46,13 +46,13 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 ## Current PRP checkpoint
 - **3,821** unique pedals
 - **168** have pedal information researched
-- **137** have confirmed pictures
-- **137** are fully complete
+- **138** have confirmed pictures
+- **138** are fully complete
 - **3,684** remain incomplete
-- **32** are researched but currently waiting only for a confirmed picture
+- **31** are researched but currently waiting only for a confirmed picture
 - **PRP status:** Active, PRP1 photo-recovery pass
 - **Current PRP1 target:** ADA Amps - MP-1 Channel
-- PRP1 batch 006 covered the next ten catalog records in exact order, from **Acid Fuzz - Mk1.5** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
+- PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
 
@@ -116,4 +116,8 @@ The repository is the project memory. When conversation history conflicts with t
 
 
 ## Latest PRP1 checkpoint
-Acid Fuzz - Mk1.5 is now fully complete after exact photo confirmation. Next target: ADA Amps - MP-1 Channel.
+ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation. Next target: ADA Amps - MP-1 Channel.
+
+
+## PRP1 batch 008 checkpoint
+ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation from Chicago Music Exchange. The tracker, public index, and photo manifest were updated together. Next exact-order unresolved target: Add+ Pedals - Der Fuzzer.
