@@ -6,11 +6,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **482 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-203.
+- **484 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-204.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder table is reconciled through **ID 482 / Block 203**.
+- The current builder table is reconciled through **ID 484 / Block 204**.
 
 ## Rules
 
@@ -338,7 +338,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 312 | Coda Effects | 167 |  |
 | 313 | Coffee Shop Pedals | 167 |  |
 | 314 | Collision Devices | 167 |  |
-| 315 | Cornerstone Music Gear | 167 |  |
+| 315 | Cornerstone Music Gear | 167, 204 |  |
 | 316 | Crowther Audio | 167 |  |
 | 317 | Cusack Music | 167 |  |
 | 318 | CUVAVE / M-VAVE | 168 | CUVAVE / M-VAVE |
@@ -507,6 +507,8 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 480 | Circuitbenders | 202 |  |
 | 481 | Collateral FX | 203 |  |
 | 482 | Charlie Pedals | 203 |  |
+| 483 | Chancho Electronics | 204 |  |
+| 484 | Correct Sound | 204 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
