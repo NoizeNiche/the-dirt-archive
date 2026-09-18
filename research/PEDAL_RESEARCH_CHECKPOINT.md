@@ -3,7 +3,7 @@
 ## Status
 **Phase:** Pedal Research Phase underway  
 **Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
-**Research progress:** 2 pedals researched; five builder discovery dives completed
+**Research progress:** 3 pedals researched; five builder discovery dives completed
 
 ## Completed
 1. **Amptweaker — Bass BluesFuzz**
@@ -44,6 +44,12 @@ Identity handling:
 
 PRP should continue asking project-level questions when an unresolved taxonomy or evidence rule could materially affect the archive, rather than silently making a structural assumption.
 
+3. **Amptweaker — Bass TightDrive Jr.**
+   - Research record: `research/pedals/Amptweaker/Bass_TightDrive_Jr.md`
+   - 2016 Bass JR overdrive with bass-shifted Tone/Tight response and built-in Dry Low blend.
+   - No verified numbered factory revision or additional factory MOD found in this pass.
+   - Transistor and diode types remain unknown pending Bass TightDrive Jr.-specific technical evidence.
+
 ## Research order
 Proceed through the catalog one pedal at a time. Use the canonical catalog entry as the identity anchor, preserve the archive's existing builder/pedal names, and document aliases or version relationships inside the research record rather than silently renaming catalog data.
 
@@ -58,4 +64,4 @@ Proceed through the catalog one pedal at a time. Use the canonical catalog entry
 - Sources checked
 
 ## Next pedal
-**Amptweaker — Bass TightDrive Jr.**
+**Amptweaker — Bass TightFuzz**
