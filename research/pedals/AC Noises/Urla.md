@@ -5,7 +5,7 @@
 - **Identity:** CMOS fuzz followed by a synth-based dual resonant filter.
 
 ## What this pedal is
-Urla combines a CMOS fuzz with a dual resonant filter. The filter section provides resonant shaping and expression control, making the unit a fuzz/filter/synth-like instrument rather than a conventional dirt box. [1][2]
+Urla combines a CMOS fuzz with a dual resonant filter. AC Noises describes the fuzz as a digital-logic CMOS circuit with a square-wave output and a JFET-based Blend control, followed by a dual high-pass/low-pass resonant filter modeled on the Korg MS-20. Stars Music independently confirms the same signal-chain architecture, expression-pedal filter control, relay true bypass, and 9V center-negative operation. [1][2][3]
 
 ## Colorways
 - Documented finish: yellow enclosure with skull artwork.
@@ -32,8 +32,10 @@ Urla is aggressive, gated and experimental, with the CMOS fuzz feeding a resonan
 1. AC Noises — https://acnoises.com/products/urla-cmos-fuzz-dual-resonant-filter
 2. ModularGrid — https://modulargrid.net/p/ac-noises-urla
 3. AC Noises — https://acnoises.us/en-us/pages/about-us
+4. Stars Music — https://www.stars-music.com/ac-noises-urla-cmos-fuzz-dual-resonant-filter_190162.html
 
 ## Photo
-- **Exact pedal photograph:** No direct image URL retained from a verified source.
-- **Source page:** https://modulargrid.net/p/ac-noises-urla
-- **Archive status:** **No Photo Archived**
+- **Archive status:** **Confirmed**
+- **Image source:** Stars Music exact AC Noises Urla product photograph.
+- **Image URL:** https://www.stars-music.com/medias/ac-noises/cropped-urla-cmos-fuzz-dual-resonant-filter-190162.webp
+- **Source page:** https://www.stars-music.com/ac-noises-urla-cmos-fuzz-dual-resonant-filter_190162.html
