@@ -551,3 +551,6 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 ## Immediate next-work rule
 
 Do not use a new builder number merely because a new research block is created. Before adding a builder, cross-reference the canonical builder list above. Existing builders get missing pedal records added to their existing canonical identity. New builders receive the next unused canonical builder number.
+
+| 488 | Canvas Analog Devices | 210 |  |
+| 489 | Carmedon Electronics | 210 |  |
