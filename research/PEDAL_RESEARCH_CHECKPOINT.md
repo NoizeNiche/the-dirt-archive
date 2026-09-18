@@ -3,7 +3,7 @@
 ## Status
 **Phase:** Pedal Research Phase underway  
 **Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
-**Research progress:** 63 pedals researched; 53 exact pedal photos attached; 10 exact-photo records pending direct image files
+**Research progress:** 72 pedals researched; 62 exact pedal photos attached; 11 exact-photo records pending direct image files
 
 ## Completed
 1. **Amptweaker — Bass BluesFuzz**
@@ -345,6 +345,47 @@ Every completed PRP information update must be pushed to the live site's source 
    - Research record: research/pedals/Barber Electronics/Dirty_Bomb.md
    - High-gain FET-based distortion with three-position midrange control and internal bass boost.
    - No numbered factory revision verified.
+
+64. **Barber Electronics — Pepsiman photo/technical verification**
+   - Research record: research/pedals/Barber Electronics/Exacta.md
+   - Triangle/Tonebender fuzz with EQ and Sludge switching; purple photo attached.
+
+65. **Barber Electronics — FWW BUSS**
+   - Research record: research/pedals/Barber Electronics/FWW BUSS.md
+   - Burn Unit / Direct Drive Super Sport dual-voice overdrive; white photo attached.
+
+66. **Barber Electronics — FWW BUSS HG**
+   - Research record: research/pedals/Barber Electronics/FWW BUSS HG.md
+   - Higher-gain BUSS; blue photo attached.
+
+67. **Barber Electronics — FWW Plus**
+   - Research record: research/pedals/Barber Electronics/FWW Plus.md
+   - OD-1-derived boost/overdrive; gold photo attached.
+
+68. **Barber Electronics — Gain Changer SR**
+   - Research record: research/pedals/Barber Electronics/Gain Changer SR.md
+   - Compact LTD/LTD SR/unLimiTeD family combination; olive photo attached.
+
+69. **Barber Electronics — LTD SR**
+   - Research record: research/pedals/Barber Electronics/LTD SR.md
+   - Flat-response LTD variant; exact black photo attached.
+
+70. **Barber Electronics — LTD v2**
+   - Research record: research/pedals/Barber Electronics/LTD v2.md
+   - 2008–2012 production window; thicker LTD voice; exact black photo attached.
+
+71. **Barber Electronics — Midnight Standard**
+   - Research record: research/pedals/Barber Electronics/Midnight Standard.md
+   - Current Bluesbreaker-style model; black/blue photo attached.
+
+72. **Barber Electronics — Pepsiman**
+   - Research record: research/pedals/Barber Electronics/Pepsiman.md
+   - Catalog identity retained, but exact photo and authoritative technical evidence remain unresolved.
+
+73. **Barber Electronics — Small Fry**
+   - Research record: research/pedals/Barber Electronics/Small Fry.md
+   - Small Fry Burn Unit identity; red photo attached.
+
 
 ## Research order
 Proceed through the catalog one pedal at a time. Use the canonical catalog entry as the identity anchor, preserve the archive's existing builder/pedal names, and document aliases or version relationships inside the research record rather than silently renaming catalog data.
