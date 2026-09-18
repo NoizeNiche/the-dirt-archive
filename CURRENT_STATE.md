@@ -110,6 +110,18 @@ The next session must read research/PRP_RULES.md, CURRENT_STATE.md, research/BRE
 
 Blocks 219-224 comprise the final A-Z sweep plus five deeper discovery passes. They added **84 builders in total after the original 502 checkpoint**, taking the canonical index to **586**, and added **259 company/pedal/type rows** to the active Scrape C layer. The Pedal Research Phase can now continue in verified 10-pedal batches.
 
+## Change-safety rule
+
+Major visual changes are now treated as **UI-only unless explicitly approved otherwise**. Before publishing a major visual pass:
+- preserve the existing data-loading and catalog logic
+- verify the known researched pedal smoke-test record still renders its Pedal Info
+- verify the research text has readable foreground/background contrast
+- verify the catalog still loads and respects its pagination window
+- verify deprecated visual elements are actually removed rather than left interacting with content
+- do not count a visual pass as complete until the browser smoke test in `.github/workflows/deploy-pages.yml` passes
+
+This is specifically intended to prevent a CSS redesign from silently making existing research appear missing or unreadable. A major visual change should be called out before implementation when it can affect layout, inherited styles, data visibility, or page behavior.
+
 ## Website
 `index.html` is now the actual catalog page, not an under-construction placeholder.
 
