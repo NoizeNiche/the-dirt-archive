@@ -45,3 +45,7 @@ The 2020 redesign is a documented hardware/control change, not just a new artwor
 ## Sound
 Demon Lung is aimed at the dense, aggressive side of fuzz, with two fuzz modes giving contrasting versions of the FZ-2-inspired voice. The added Mids control on the later version makes it easier to keep the huge, heavy fuzz audible rather than letting it disappear into a deep mid scoop. [1]
 
+## Sources checked
+1. Abominable Electronics — Demon Lung: https://www.abominablepedals.com/products/demon-lung-hyper-fuzz
+2. Effects Database — Demon Lung: https://www.effectsdatabase.com/model/abominable/demonlung
+3. Abominable Electronics — 4/20 Demon Lung throwback: https://www.abominablepedals.com/products/preorder-4-20-limited-edition-demon-lung-throwback
