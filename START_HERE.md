@@ -65,15 +65,15 @@ Read research/PRP_RULES.md before doing PRP work. That file is the permanent ope
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **134** have pedal information researched
-- **103** have confirmed pictures
-- **103** are fully complete
-- **3,718** remain incomplete
-- **31** are researched but currently waiting only for a confirmed picture
-- **Next research target:** AboveGroundFX - El Griton Overdrive
+- **148** have pedal information researched
+- **104** have confirmed pictures
+- **109** are fully complete
+- **3,712** remain incomplete
+- **39** are researched but currently waiting only for a confirmed picture
+- **Next research target:** Aclam Guitars - The Mocker
 - Earlier researched/photo-missing pedals remain in the photo-recovery queue.
 
-The current pass checked the first ten open photo-recovery targets in site order and added exact verified pictures for Abasi Concepts - Pathos Distortion and AbbyTone - Screwed Driver. Do not substitute unverified or materially different pedal images.
+This pass reconciled five existing Acid Fuzz research records and added five Aclam Guitars research records in exact site order. No unverified photos were substituted for the Aclam entries.
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
 
