@@ -97,11 +97,11 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 181
-- Pedals with confirmed pictures: 147
-- Fully complete PRP pedals: 147
-- Remaining incomplete pedals: 3674
-- Researched but waiting only for a confirmed picture: 34
+- Pedals with research information: 186
+- Pedals with confirmed pictures: 149
+- Fully complete PRP pedals: 149
+- Remaining incomplete pedals: 3672
+- Researched but waiting only for a confirmed picture: 37
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **Add+ Pedals - Super Drive**
 
@@ -304,3 +304,10 @@ The next exact-order unresolved target remains **Add+ Pedals - Ratortion 3 v2** 
 Batch 015 audited the next 10 unresolved PRP1 records in exact catalog order, from **Add+ Pedals - Ratortion 3 v2** through **Addrock Musical Products - Geranium Fuzz**. Exact-model photos were recovered and synchronized for **Ratortion 3 v2, Shredder, Tube Drive Silver Edition, Boostmaster, and Geranium Fuzz**. **Super Drive, Super Drive 2, Tiger Shark, Tube Drive, and Tube Drive 2** remain photo-pending because no new safe direct exact-model image asset was confirmed during this pass.
 
 The next exact-order unresolved target is **Add+ Pedals - Super Drive**.
+
+
+## PRP1 batch 016 checkpoint
+
+Batch 016 processed the next 10 incomplete PRP1 records in exact catalog order, from **Add+ Pedals - Super Drive** through **ADV Systems - #overdrive**. New research records were added for **Addrock Hism Scism, Addrock Not So Ol' Yeller, Addrock Ol' Yeller, ADV Systems #distortion, and ADV Systems #overdrive**. Exact photos were recovered for **Addrock Hism Scism** and **Addrock Ol' Yeller** and synchronized across the research records, photo manifest, public index, and tracker. The remaining eight records remain incomplete where no safe direct exact-model image asset was confirmed.
+
+The next exact-order unresolved target remains **Add+ Pedals - Super Drive**.
