@@ -85,14 +85,14 @@ Current architecture decisions:
 
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 147
-- Pedals with confirmed pictures: 112
-- Fully complete PRP pedals: 112
-- Remaining incomplete pedals: 3,709
-- Researched but waiting only for a picture: 35
+- Pedals with confirmed pictures: 116
+- Fully complete PRP pedals: 116
+- Remaining incomplete pedals: 3,705
+- Researched but waiting only for a confirmed picture: 31
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: Death Driver
+- Current PRP1 target: **A Sound Of Failure - Death Driver**
 
-PRP1 batch 001 audited the first ten incomplete parent pedals in exact catalog order. Exact photos were verified and connected for 1981 Inventions — DRV, 1981 Inventions — LVL, ABL Pedals — The Szczur, and ABL Pedals — The Toor. Six of the ten remain photo-pending because an exact documentary photo was not confirmed without substitution. The next unresolved target is **A Sound Of Failure — Death Driver**.
+PRP1 batch 002 continued photo recovery in exact catalog order. Four later incomplete targets now have verified exact photos and are complete: **Abominable Electronics - Cat Dirt Mini - Killer Acid Artwork, Demon Lung, Hail Satan, and Hail Satan Deluxe**. Death Driver remains first in unresolved order because the accessible Effects Database page proves and displays the exact pedal image, but this pass did not produce a safe direct image file URL suitable for the archive. No unrelated substitute was attached.
 
 ## Current PRP data files
 
