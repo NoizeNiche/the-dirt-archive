@@ -46,5 +46,13 @@
     "source": "MusicStoreLive product image",
     "source_page": "https://www.musicstorelive.com/amptweaker-bass-tightmetal-jr-distortion-bass-guitar-effects-pedal.html",
     "research_record": "./research/pedals/Amptweaker/Bass_TightMetal_Jr.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Bass TightRock Jr",
+    "image": "https://ecole-guitare-lyon.com/wp-content/uploads/2026/06/amptweaker-bass-tightrock-jr-th-1.webp",
+    "source": "Ecole-Guitare-Lyon product/review image",
+    "source_page": "https://ecole-guitare-lyon.com/la-pedale-deffet-amptweaker-bass-tightrock-jr-photos-tests-avis/",
+    "research_record": "./research/pedals/Amptweaker/Bass_TightRock_Jr.md"
   }
 ]
