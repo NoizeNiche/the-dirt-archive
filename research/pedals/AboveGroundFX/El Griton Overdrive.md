@@ -41,7 +41,6 @@ AboveGroundFX's stated priority was the sound of the classic circuit it was payi
 2. AboveGroundFX product link archived by Effects Database: https://www.abovegroundfx.com/Store/Entries/2010/6/15_El_Griton_Overdrive.html
 
 ## Photo
-- **Exact pedal photograph:** Effects Database / surviving product photograph.
-- **Direct image:** Not retained because the source's image URL could not be verified as a stable direct file.
-- **Source page:** https://www.effectsdatabase.com/model/aboveground/elgriton
-
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** https://www.effectsdatabase.com/model/aboveground/elgriton
+- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
