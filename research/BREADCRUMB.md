@@ -16,15 +16,14 @@ Current master-catalog checkpoint:
 - **103 companies** are currently represented by pedal entries
 - Block 162 contributed **111 rows** to the Scrape B census
 - Block 163 contributed **16 rows** to the Scrape B census
-- Blocks 164-212 are stored in the active Scrape C census
+- Blocks 164-213 are stored in the active Scrape C census
 - Blocks 162-163 are consolidated into `research/SCRAPE_B_CENSUS.csv`
-- Block 164 is stored in `research/SCRAPE_C_CENSUS.csv`
 
 Current Builder -> Pedals research checkpoint:
-- **492 canonical builder identities are in the master index through Block 212**
+- **493 canonical builder identities are in the master index through Block 213**
 - **Block 161 added 9 new canonical identities, Block 162 added 9, Block 163 added 5, and Block 164 added 10**
 - Existing builders are expanded under their existing canonical identities rather than duplicated
-- **210 live research blocks** are now present: Blocks 001-069, 071-141, and 143-212
+- **211 live research blocks** are now present: Blocks 001-069, 071-141, and 143-213
 - Block 070 is absent; Block 142 was removed as a duplicate
 
 The website uses the primary catalog plus the active scrape census files directly and does not depend on the research blocks for page rendering.
