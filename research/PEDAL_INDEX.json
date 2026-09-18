@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-010",
+  "version": "2026-09-18-prp1-batch-011",
   "count": 3821,
   "pedals": [
     {
@@ -455,8 +455,8 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": "https://modulargrid.net/p/ac-noises-urla",
+      "image": "https://www.stars-music.com/medias/ac-noises/cropped-urla-cmos-fuzz-dual-resonant-filter-190162.webp",
+      "source_page": "https://www.stars-music.com/ac-noises-urla-cmos-fuzz-dual-resonant-filter_190162.html",
       "research_record": "./research/pedals/AC Noises/Urla.md"
     },
     {
