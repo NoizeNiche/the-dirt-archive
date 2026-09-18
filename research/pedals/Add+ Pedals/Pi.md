@@ -35,8 +35,10 @@ No reliable numbered circuit revision was established in the available documenta
 The Pi is described as a stable, modern-sounding fuzz whose core character changes less with pickup type than many vintage-style fuzzes. The three-control layout centers the effect around sustain amount, tone shaping and output level rather than a multi-mode architecture. [1]
 
 ## Sources checked
-1. Equipboard — Add+ Pi Fuzz: https://equipboard.com/items/add-analog-delay
-2. Effects Database — Add+ Pi: https://www.effectsdatabase.com/model/addplus/pi
+1. Effects Database — Add+ Pi: https://www.effectsdatabase.com/model/addplus/pi
+2. MyDukkan — exact Add+ Pi product image: https://media.mydukkan.com/image/33527/thmb_900x900_ADD.ADDPi33527.jpg
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** **Confirmed**
+- **Image source:** MyDukkan exact Add+ Pi product image.
+- **Image URL:** https://media.mydukkan.com/image/33527/thmb_900x900_ADD.ADDPi33527.jpg
