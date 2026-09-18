@@ -40,4 +40,7 @@ The Vintage Series Zonk is designed to be aggressive, dynamic and highly respons
 3. Guitar Pedal X — Zonk Machine-style fuzz history and Acid Fuzz Zoink context: https://www.guitarpedalx.com/news/12-of-the-best-compact-enclosure-zonk-machine-style-fuzz-pedals
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** **Verified exact pedal photograph**
+- **Image source:** Acid Fuzz official product page
+- **Direct image:** https://www.acidfuzz.com/cdn/shop/products/Zonk_Machine_Vintage_Series_Re-build_c9d710a57bc146dba49681c09451f526_orig_grande.jpg?v=1515817726
+- **Source page:** https://www.acidfuzz.com/products/zonk-machine-vintage-series-re-build
