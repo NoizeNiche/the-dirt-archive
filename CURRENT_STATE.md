@@ -98,14 +98,14 @@ Before publishing a batch:
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 147
-- Pedals with confirmed pictures: 116
-- Fully complete PRP pedals: 116
-- Remaining incomplete pedals: 3,705
-- Researched but waiting only for a confirmed picture: 31
+- Pedals with confirmed pictures: 117
+- Fully complete PRP pedals: 117
+- Remaining incomplete pedals: 3704
+- Researched but waiting only for a confirmed picture: 30
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: A Sound Of Failure - Death Driver
+- Current PRP1 target: Acid Fuzz - Mk1.5
 
-PRP1 batch 002 continued the photo recovery pass across the ten next incomplete parent records in exact catalog order. Four later targets received verified exact photos: Abominable Electronics - Cat Dirt Mini - Killer Acid Artwork, Demon Lung, Hail Satan, and Hail Satan Deluxe. Death Driver remains the first unresolved PRP target because the available documentary source proves the exact pedal image exists, but a safe direct image file URL was not obtained in this pass. No substitute photo was used.
+PRP1 batch 003 covered the next ten unresolved parent records in exact website order, from AC Noises - Urla through Aclam Guitars - Go Rocky Go. Most remain photo-pending because a safe direct image file was not confirmed. One new exact model photo was archived for Acid Fuzz - Italian Fuzz using the builder's documented Italian Fuzz Vintage Series example. The next unresolved target is Acid Fuzz - Mk1.5.
 
 The next session must read research/PRP_RULES.md, CURRENT_STATE.md, research/BREADCRUMB.md, and research/PRP_TRACKER.csv before continuing.
 
@@ -223,7 +223,7 @@ The Dirt Archive should document useful pedal identity, variations, appearance, 
 A future showcase/blog-style layer may be added for curated historical topics, such as fuzz showcases or builder/pedal features. This is intentionally deferred until the core archive works well.
 
 ## Next action
-Continue PRP1 from the first incomplete pedal in exact website order. The current target remains Death Driver. Keep the site foundation regression checks in force and do not call a PRP batch live until its GitHub Pages deployment succeeds.
+Continue PRP1 from the first incomplete pedal in exact website order. The current target is Acid Fuzz - Mk1.5. Keep the site foundation regression checks in force and do not call a PRP batch live until its GitHub Pages deployment succeeds.
 
 
 ## Site architecture checkpoint — September 18, 2026
