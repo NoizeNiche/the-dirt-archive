@@ -98,11 +98,14 @@ Before publishing a batch:
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 147
-- Pedals with confirmed pictures: 108
-- Fully complete PRP pedals: 108
-- Remaining incomplete pedals: 3,713
-- Researched but waiting only for a picture: 39
-- PRP status: Paused while the site foundation is repaired
+- Pedals with confirmed pictures: 112
+- Fully complete PRP pedals: 112
+- Remaining incomplete pedals: 3,709
+- Researched but waiting only for a picture: 35
+- PRP status: Active, PRP1 photo-recovery pass
+- Current PRP1 target: Death Driver
+
+PRP1 batch 001 audited the first ten incomplete parent pedals in exact catalog order. Verified exact photos were added for 1981 Inventions — DRV, 1981 Inventions — LVL, ABL Pedals — The Szczur, and ABL Pedals — The Toor. The remaining six targets in that batch retain their NEEDED picture status because an exact photo was not confirmed. The next unresolved target is Death Driver.
 
 The next session must read research/PRP_RULES.md, CURRENT_STATE.md, research/BREADCRUMB.md, and research/PRP_TRACKER.csv before continuing.
 
@@ -220,7 +223,7 @@ The Dirt Archive should document useful pedal identity, variations, appearance, 
 A future showcase/blog-style layer may be added for curated historical topics, such as fuzz showcases or builder/pedal features. This is intentionally deferred until the core archive works well.
 
 ## Next action
-Complete the site functionality audit and verify the new pedalboard visual shell on GitHub Pages. Do not resume PRP until the catalog model/version/variation behavior, photo routing, navigation, search, visual shell, and GitHub Pages deployment have been tested end-to-end.
+Continue PRP1 from the first incomplete pedal in exact website order. The current target is Death Driver. Keep the site foundation regression checks in force and do not call a PRP batch live until its GitHub Pages deployment succeeds.
 
 
 ## Site architecture checkpoint — September 18, 2026
