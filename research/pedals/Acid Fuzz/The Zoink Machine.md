@@ -41,4 +41,7 @@ The Zoink is tight, articulate and unusually good at keeping chords intelligible
 3. Reverb — Acid Fuzz The Zoink Machine, DBII tuning: https://reverb.com/item/98974495-acid-fuzz-the-zoink-machine
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** **Verified exact pedal photograph**
+- **Image source:** Acid Fuzz official product page
+- **Direct image:** https://www.acidfuzz.com/cdn/shop/products/The_Zoink_Machine_ed1785a6c53c400e80450bb71f166e56_orig_grande.jpg?v=1515796833
+- **Source page:** https://www.acidfuzz.com/products/the-zoink-machine
