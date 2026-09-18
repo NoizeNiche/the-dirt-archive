@@ -53,7 +53,7 @@ h1{margin:0;font-size:clamp(2.5rem,7vw,5.8rem);line-height:.88;letter-spacing:-.
 .sub{margin:12px 0 0;color:var(--muted);font-size:.85rem;font-weight:800}
 main{padding:20px 0 60px}
 .grid{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:18px;align-items:start}
-.panel{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:16px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:16px}.grid[hidden],#empty[hidden]{display:none!important}
 .label{font-size:.68rem;font-weight:900;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:10px}
 .info{background:#fff;border:1px solid var(--line);border-radius:14px;padding:17px;min-height:180px;line-height:1.65}
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:18px}
@@ -132,16 +132,8 @@ main{padding:20px 0 60px}
 </main>
 
 <script>
-const DATA_VERSION='2026-09-18-prp-070';
-const DATA=[
-  './research/MASTER_PEDAL_CENSUS.csv',
-  './research/SCRAPE_A_CENSUS.csv',
-  './research/SCRAPE_B_CENSUS.csv',
-  './research/SCRAPE_C_CENSUS.csv'
-];
-const IMAGE_DATA='./research/pedals/PEDAL_IMAGES.json?v='+DATA_VERSION;
-
-function renderPageNav(items){
+const DATA_VERSION='2026-09-18-prp-071';
+const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;function renderPageNav(items){
   const builders=[...new Set(items.map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
   const search=$('pageSearch');
   if(search){
@@ -233,22 +225,21 @@ function renderMarkdown(md){
 const wantedBuilder=params.get('builder')||'';
 const wantedPedal=params.get('pedal')||'';
 
-Promise.all([
-  Promise.all(DATA.map(u=>fetch(u,{cache:'no-store'}).then(r=>{
-    if(!r.ok)throw Error(r.status);
-    return r.text();
-  }))),
-  fetch(IMAGE_DATA,{cache:'no-store'}).then(r=>{
-    if(!r.ok)throw Error(r.status);
-    return r.json();
-  })
-])
-.then(([ts,imageRecords])=>{
-  const items=group(ts.flatMap(csv));
+fetch(DATA_INDEX,{cache:'no-store'})
+.then(r=>{
+  if(!r.ok)throw Error(r.status);
+  return r.json();
+})
+.then(data=>{
+  const items=data.pedals||[];
   renderPageNav(items);
   const item=items.find(x=>x.company===wantedBuilder&&x.pedal===wantedPedal);
-  const imageRecord=imageRecords.find(x=>x.builder===wantedBuilder&&x.pedal===wantedPedal);
-  if(!item){document.title='Pedal not found · The Dirt Archive';document.getElementById('empty').hidden=false;return}
+  const imageRecord=item||null;
+  if(!item){
+    document.title='Pedal not found · The Dirt Archive';
+    document.getElementById('empty').hidden=false;
+    return;
+  }
 
   document.title=item.pedal+' · The Dirt Archive';
   document.getElementById('record').hidden=false;
@@ -263,15 +254,15 @@ Promise.all([
     imageBox.innerHTML='<img src="'+esc(imageRecord.image)+'" alt="'+esc(item.company+' '+item.pedal)+' pedal" style="width:100%;height:100%;object-fit:contain;border-radius:12px" referrerpolicy="no-referrer" onerror="this.remove();document.getElementById(\'photoFallback\').hidden=false">';
     imageBox.style.padding='10px';
     const source=document.getElementById('photoSource');
-    source.href=imageRecord.source_page;
-    source.hidden=false;
+    source.href=imageRecord.source_page||'#';
+    source.hidden=!imageRecord.source_page;
   }else{
     fallback.hidden=false;
   }
 
   const researchEl=document.getElementById('research');
-  if(imageRecord&&imageRecord.research_record){
-    fetch(imageRecord.research_record,{cache:'no-store'})
+  if(item.research_record){
+    fetch(item.research_record,{cache:'no-store'})
       .then(r=>{if(!r.ok)throw Error(r.status);return r.text()})
       .then(md=>{researchEl.innerHTML=renderMarkdown(md)})
       .catch(e=>{
@@ -285,8 +276,7 @@ Promise.all([
   const link=new URL('./index.html',location.href);
   link.searchParams.set('builder',item.company);
   document.getElementById('builderLink').href=link.href;
-})
-.catch(e=>{
+}).catch(e=>{
   document.getElementById('empty').hidden=false;
   document.getElementById('empty').querySelector('p').textContent='The catalog data could not be loaded.';
   console.error(e);

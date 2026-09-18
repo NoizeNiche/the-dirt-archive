@@ -407,16 +407,8 @@ main{padding:24px 0 72px}
 </main>
 
 <script>
-const DATA_VERSION='2026-09-18-prp-070';
-const IMAGE_DATA='./research/pedals/PEDAL_IMAGES.json?v='+DATA_VERSION;
-const DATA=[
-  './research/MASTER_PEDAL_CENSUS.csv?v='+DATA_VERSION,
-  './research/SCRAPE_A_CENSUS.csv?v='+DATA_VERSION,
-  './research/SCRAPE_B_CENSUS.csv?v='+DATA_VERSION,
-  './research/SCRAPE_C_CENSUS.csv?v='+DATA_VERSION
-];
-
-let items=[];
+const DATA_VERSION='2026-09-18-prp-071';
+const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;let items=[];
 let pedalImages=new Map();
 const initialParams=new URLSearchParams(location.search);
 let selectedType=initialParams.get('type')||'All';
@@ -599,25 +591,17 @@ $('search').oninput=e=>{
   render();
 };
 
-Promise.all([
-  Promise.all(DATA.map(u=>fetch(u,{cache:'no-store'}).then(r=>{
-    if(!r.ok)throw Error(r.status);
-    return r.text();
-  }))),
-  fetch(IMAGE_DATA,{cache:'no-store'}).then(r=>{
-    if(!r.ok)throw Error(r.status);
-    return r.json();
-  })
-])
-.then(([ts,imageRecords])=>{
-  pedalImages=new Map(
-    imageRecords.map(x=>[x.builder+'\u0000'+x.pedal,x])
-  );
-  items=group(ts.flatMap(csv));
+fetch(DATA_INDEX,{cache:'no-store'})
+.then(r=>{
+  if(!r.ok)throw Error(r.status);
+  return r.json();
+})
+.then(data=>{
+  items=data.pedals||[];
+  pedalImages=new Map(items.map(x=>[x.company+'\u0000'+x.pedal,x]));
   render();
   syncUrl();
-})
-.catch(e=>{
+}).catch(e=>{
   $('meta').textContent='Catalog unavailable';
   $('grid').innerHTML='<div class="empty"><strong>Catalog unavailable</strong>The archive data could not be loaded.</div>';
   console.error(e);
