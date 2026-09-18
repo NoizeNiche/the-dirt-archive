@@ -3,7 +3,7 @@
 ## Status
 **Phase:** Pedal Research Phase underway  
 **Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
-**Research progress:** 43 pedals researched; 33 exact pedal photos attached; 10 exact-photo records pending direct image files
+**Research progress:** 53 pedals researched; 43 exact pedal photos attached; 10 exact-photo records pending direct image files
 
 ## Completed
 1. **Amptweaker — Bass BluesFuzz**
@@ -243,6 +243,59 @@ Every completed PRP information update must be pushed to the live site's source 
    - 2010 dual-circuit parent with separate Pete overdrive and Jimi fuzz sections.
    - No verified factory MOD or numbered revision.
 
+44. **Animal Factory Amplification — Godeater**
+   - Research record: `research/pedals/Animal Factory Amplification/Godeater.md`
+   - Documented original, 2020 Edition, and builder-designated v3 production generations.
+   - 2020 changed clipping switches to pots, added dry output, relay switching and improved dry/wet level consistency.
+   - v3 added balanced output and a new output mixer stage.
+   - Exact transistor remains unknown; diode/LED clipping technology is documented.
+
+45. **Animal Factory Amplification — Ozymandias**
+   - Research record: `research/pedals/Animal Factory Amplification/Ozymandias.md`
+   - Current 2024 production realization of the older Ozymandias concept, with CROOK and FLAIL channels, series/parallel routing, buffers, MIDI and 22V internal operation.
+   - Historical FLAIL lineage to Pit Viper documented without conflating the products.
+
+46. **Animal Factory Amplification — Pit Viper**
+   - Research record: `research/pedals/Animal Factory Amplification/Pit_Viper.md`
+   - 2015 parent with builder-designated 2019 revision/v2.
+   - 2019 revision added MODE and MIDS switches while retaining the base circuit and added laser-etched black finish.
+   - Hard/soft clipping technology documented; exact diode type unknown.
+
+47. **Audiolithe — Chaosculpt Bass**
+   - Research record: `research/pedals/Audiolithe/Chaosculpt_Bass.md`
+   - Bass fuzz with X-FREQ/MIX crossover blend and active 3-band EQ plus BITE.
+   - No verified numbered factory revision.
+
+48. **Audiolithe — Doomer Fuzz**
+   - Research record: `research/pedals/Audiolithe/Doomer_Fuzz.md`
+   - Current v2 parent with two-stage fuzz, ROAR gain/volume boost, TONE tilt EQ, ANGER mids, SCOOP and impedance adaptation.
+   - Exact v1→v2 circuit changes remain undocumented.
+
+49. **Audiolithe — Extinction Drive**
+   - Research record: `research/pedals/Audiolithe/Extinction_Drive.md`
+   - Dual saturation channels: ENGAGE overdrive and BLAST low-fuzz/high-octave/boost stage.
+   - No verified numbered factory revision.
+
+50. **Audiolithe — La Montagne**
+   - Research record: `research/pedals/Audiolithe/La_Montagne.md`
+   - Compact two-stage fuzz with MORE Off/Mid/High, tilt TONE, SCOOP and impedance adaptation.
+   - No verified numbered factory revision.
+
+51. **Audiolithe — The Empress Bass**
+   - Research record: `research/pedals/Audiolithe/The_Empress_Bass.md`
+   - Bass overdrive using X-FREQ/MIX crossover blend, active 3-band EQ and BITE.
+   - No verified numbered factory revision.
+
+52. **Barbarossa — CHIMAERA**
+   - Research record: `research/pedals/Barbarossa/Chimaera.md`
+   - 2008 flagship modern overdrive with Level/Tone/Drive, point-to-point wiring and CNC-machined aluminum enclosure.
+   - Bordeaux-red matte finish documented as standard construction; no verified numbered revision.
+
+53. **Barbarossa — CRONUS**
+   - Research record: `research/pedals/Barbarossa/Cronus.md`
+   - 2009-era distortion/overdrive parent with documented move from early modification-based design to later fully original redesign after about a decade.
+   - Later design uses CNC-machined titanium-gray aluminum enclosure, point-to-point wiring and 9V operation.
+
 ## Research order
 Proceed through the catalog one pedal at a time. Use the canonical catalog entry as the identity anchor, preserve the archive's existing builder/pedal names, and document aliases or version relationships inside the research record rather than silently renaming catalog data.
 
@@ -257,7 +310,7 @@ Proceed through the catalog one pedal at a time. Use the canonical catalog entry
 - Sources checked
 
 ## Next pedal
-**Animal Factory Amplification — Godeater**
+**Barbarossa — GARGOYLE**
 
 ## Current photo-audit backlog
 The PRP image rule is strict: the image must itself be a photograph/render of the exact pedal, not a screenshot of a product/source page. The following researched parents currently have a research record but no attached exact image file: Amptweaker — Tight Metal Jr; Amptweaker — TightBoost; Amptweaker — TightFuzz Jr; Analog Alien — Alien Twister; Analog Man — Astro Tone; Analog Man — Prince Of Tone; Analog Man — Sun Face; Animal Factory Amplification — Chemical Burn; Animal Factory Amplification — Dirty Mirror; Animal Factory Amplification — Godeater+.
