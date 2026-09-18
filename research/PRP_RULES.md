@@ -197,15 +197,19 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 168
-- Pedals with confirmed pictures: 137
-- Fully complete PRP pedals: 137
-- Remaining incomplete pedals: 3684
-- Researched but waiting only for a confirmed picture: 32
+- Pedals with confirmed pictures: 138
+- Fully complete PRP pedals: 138
+- Remaining incomplete pedals: 3683
+- Researched but waiting only for a confirmed picture: 31
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **ADA Amps - MP-1 Channel**
 
-PRP1 batch 006 covered the next ten catalog records in exact order, from **Acid Fuzz - Mk1.5** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
+PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 
 ## Latest checkpoint
-PRP1 batch 007 completed Acid Fuzz - Mk1.5 after confirming an exact Effects Database photograph. Next target: ADA Amps - MP-1 Channel.
+PRP1 batch 007 completed ADA Amps - MP-1 Channel after confirming an exact Effects Database photograph. Next target: ADA Amps - MP-1 Channel.
+
+
+## PRP1 batch 008 checkpoint
+ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation from Chicago Music Exchange. The tracker, public index, and photo manifest were updated together. Next exact-order unresolved target: Add+ Pedals - Der Fuzzer.
