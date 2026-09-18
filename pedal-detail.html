@@ -76,10 +76,54 @@ main{padding:20px 0 60px}
 .empty{padding:80px 20px;text-align:center}
 @media(max-width:1000px){.pageLayout{grid-template-columns:1fr}.pageSidebar{position:static;max-height:none}.pageBuilderList{max-height:260px}}
 @media(max-width:760px){.grid{grid-template-columns:1fr}.grid > .panel:last-child{position:static}.photo{aspect-ratio:3 / 4;min-height:0;max-width:420px;margin-inline:auto}}
+
+/* Pedalboard visual pass */
+:root{--board-wall:#171716;--board-dark:#222320;--board-mid:#30312e;--accent:#dfff38}
+body{
+  color:#f5f3ec;
+  background:
+    radial-gradient(circle at 18% 0%,rgba(223,255,56,.08),transparent 24%),
+    linear-gradient(180deg,#20211f 0,#131412 100%);
+}
+body::before{
+  content:"";position:fixed;inset:0;pointer-events:none;opacity:.22;
+  background-image:radial-gradient(rgba(255,255,255,.06) .8px,transparent .8px),radial-gradient(rgba(0,0,0,.25) .7px,transparent .7px);
+  background-position:0 0,9px 12px;background-size:18px 18px,19px 19px;
+}
+.siteHeaderDetail{padding:22px 0 18px;border-bottom:1px solid #3c3d39;background:linear-gradient(180deg,#1c1d1a,#151614)}
+.crumb{color:#92918a}.sub{color:#9c9a92}h1{color:#f6f4ee}
+main{padding:18px 0 60px}
+.boardSurface{
+  position:relative;overflow:hidden;padding:28px;border:1px solid #10110f;border-radius:14px 14px 22px 22px;
+  background:repeating-linear-gradient(0deg,#30312e 0,#30312e 31px,#262725 31px,#262725 62px);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.08),inset 0 -10px 24px rgba(0,0,0,.35),0 28px 70px rgba(0,0,0,.35)
+}
+.boardSurface::before,.boardSurface::after{content:"";position:absolute;top:0;bottom:0;width:15px;z-index:0;background:linear-gradient(90deg,#121311,#4b4c49 50%,#161715);box-shadow:inset 0 0 0 1px #090a08}
+.boardSurface::before{left:0}.boardSurface::after{right:0}
+.boardRail{position:absolute;left:18px;right:18px;height:10px;z-index:0;opacity:.82;border-radius:6px;background:linear-gradient(180deg,#9a9b96 0,#696a66 48%,#484946 100%);border:1px solid #252623;box-shadow:0 2px 0 #10110f,0 5px 9px rgba(0,0,0,.4)}
+.boardRail::before,.boardRail::after{content:"";position:absolute;top:-1px;width:13px;height:10px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#c7c8c2 0 18%,#696a66 20% 55%,#242522 58% 100%);border:1px solid #222320}
+.boardRail::before{left:18px}.boardRail::after{right:18px}
+.railA{top:92px}.railB{top:235px}.railC{top:378px}.railD{top:521px}
+.pageLayout{z-index:2}
+.pageSidebar{border:1px solid #090a08;border-radius:12px;background:linear-gradient(180deg,#151614,#0d0e0d);box-shadow:0 14px 24px rgba(0,0,0,.35),inset 0 1px 0 rgba(255,255,255,.04)}
+.pageHome{border-color:#5a5b56}.pageNavLabel{color:#92918a}.pageSearch{background:#20211f;border-color:#4a4b47}
+.pageTypeLink,.pageBuilderLink{background:#242522;border-color:#444541}
+.pageTypeLink:hover,.pageBuilderLink:hover{background:#2c2d2a;border-color:#777873}
+.pageTypeLink.active,.pageBuilderLink.active{background:var(--accent);border-color:var(--accent)}
+.panel{border-color:#555751;background:linear-gradient(180deg,#ecebe5,#d5d5ce);box-shadow:0 10px 20px rgba(0,0,0,.25),inset 0 1px 0 rgba(255,255,255,.45)}
+.label{color:#686a64}.chip{background:#b7b8b1;color:#31322f}
+.research{background:#f5f4ef;border-color:#a6a79f}.photo{border-color:#858780;background:linear-gradient(135deg,#c1c2bc,#eeeeea);color:#666861}
+.action{background:#e7e6df;border-color:#33342f}.action.primary{background:var(--accent)}
+.variantCard,.colorwayCard{background:#eeeeea;border-color:#8f9089;color:#111}
+.variantThumb,.colorwayThumb{background:#c6c7c1;color:#666861}
+.demoBox{background:#efeee9;border-color:#999a93}
+@media(max-width:1000px){.boardSurface{padding:18px}.boardRail{display:none}}
+@media(max-width:760px){.boardSurface{padding:10px}}
+
 </style>
 </head>
 <body>
-<header>
+<header class="siteHeaderDetail">
   <div class="wrap">
     <a class="back" href="./index.html">← Back to the archive</a>
     <div class="crumb" id="crumb">Loading record…</div>
@@ -89,6 +133,8 @@ main{padding:20px 0 60px}
 </header>
 
 <main class="wrap">
+  <div class="boardSurface">
+    <div class="boardRail railA"></div><div class="boardRail railB"></div><div class="boardRail railC"></div><div class="boardRail railD"></div>
   <div class="pageLayout">
     <aside class="pageSidebar">
       <div class="pageSidebarTop">
@@ -153,10 +199,11 @@ main{padding:20px 0 60px}
     </section>
   </div>
   </div>
+  </div>
 </main>
 
 <script>
-const DATA_VERSION='2026-09-18-site-architecture-003';
+const DATA_VERSION='2026-09-18-site-architecture-004';
 const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;
 const $=id=>document.getElementById(id);
 
