@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-003",
+  "version": "2026-09-18-prp1-batch-004",
   "count": 3821,
   "pedals": [
     {
@@ -546,7 +546,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://www.acidfuzz.com/cdn/shop/products/Acid_Fuzz_Face_NKT_275_Germanium_limited_teardrop_edition_35d906dad1b6405c9dbf02e3dd365c99_orig_200x200.jpg?v=1515817390",
       "source_page": "https://www.acidfuzz.com/products/acid-fuzz-face-nkt-275-germanium",
       "research_record": "./research/pedals/Acid Fuzz/NKT275 Acid Fuzz Face.md"
     },
@@ -607,7 +607,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "https://www.aclamguitars.com/store/3431-aclam_product/cinnamon-drive.jpg",
       "source_page": "https://www.aclamguitars.com/store/cinnamon-drive.html",
       "research_record": "./research/pedals/Aclam Guitars/Cinnamon Drive.md"
     },
@@ -618,7 +618,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "https://www.aclamguitars.com/store/3600-aclam_product/cinnamon-drive-dreamer.jpg",
       "source_page": "https://www.aclamguitars.com/store/cinnamon-drive-dreamer.html",
       "research_record": "./research/pedals/Aclam Guitars/Cinnamon Drive - Dreamer Edition.md"
     },
@@ -628,7 +628,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "https://www.aclamguitars.com/store/3709-aclam_product/dr-robert.jpg",
       "source_page": "https://www.aclamguitars.com/",
       "research_record": "./research/pedals/Aclam Guitars/Dr. Robert.md"
     },
@@ -640,7 +640,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "https://www.aclamguitars.com/store/3664-aclam_product/go-rocky-go.jpg",
       "source_page": "https://www.aclamguitars.com/store/go-rocky-go.html",
       "research_record": "./research/pedals/Aclam Guitars/Go Rocky Go.md"
     },
@@ -652,7 +652,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "https://gsus4.com.au/cdn/shop/files/aclam-go-rocky-go-white-album-edition-vox-conqueror-preamp-pedal-the-white-album-amp-in-a-box-copy-aclam-go-rocky-whiteedition-gsus4-6453982_700x700.jpg?v=1788822068",
       "source_page": "https://www.aclamguitars.com/go-rocky-go-white-album-edition",
       "research_record": "./research/pedals/Aclam Guitars/Go Rocky Go - White Album Edition.md"
     },
@@ -662,9 +662,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.aclamguitars.com/store/3888-aclam_product/the-mocker.jpg",
+      "source_page": "https://www.aclamguitars.com/store/the-mocker.html",
+      "research_record": "./research/pedals/Aclam Guitars/The Mocker.md"
     },
     {
       "company": "Aclam Guitars",
@@ -672,9 +672,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.aclamguitars.com/store/3432-aclam_product/the-windmiller.jpg",
+      "source_page": "https://www.aclamguitars.com/store/the-windmiller.html",
+      "research_record": "./research/pedals/Aclam Guitars/The Windmiller Preamp.md"
     },
     {
       "company": "Aclam Guitars",
@@ -682,9 +682,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.aclamguitars.com/store/3902-aclam_product/the-woman-tone.jpg",
+      "source_page": "https://www.aclamguitars.com/store/the-woman-tone.html",
+      "research_record": "./research/pedals/Aclam Guitars/The Woman Tone.md"
     },
     {
       "company": "Acorn Amps",
