@@ -245,14 +245,15 @@ main{padding:24px 0 72px}
   text-decoration:none;
   transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease
 }
-.cardImage{
+.cardMedia{display:block;width:100%;aspect-ratio:4/2.45;background:#eeebe3;border-bottom:1px solid var(--line);position:relative}
+.cardMedia .cardImage{
   display:block;
   width:100%;
   aspect-ratio:4/2.45;
   object-fit:cover;
   background:#eeebe3;
-  border-bottom:1px solid var(--line)
 }
+.cardMedia .cardPlaceholder{border-bottom:0}
 .cardBody{padding:14px 15px 15px}
 .cardPlaceholder{
   display:grid;
@@ -410,6 +411,7 @@ main{padding:24px 0 72px}
 const DATA_VERSION='2026-09-18-site-architecture-002';
 const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;let items=[];let allItems=[];
 let pedalImages=new Map();
+let variationSearchText=new Map();
 const initialParams=new URLSearchParams(location.search);
 let selectedType=initialParams.get('type')||'All';
 let selectedBuilder=initialParams.get('builder')||'';
@@ -477,10 +479,7 @@ function searchMatches(x){
   if(!q)return true;
   const needle=q.toLowerCase();
   if(x.company.toLowerCase().includes(needle)||x.pedal.toLowerCase().includes(needle))return true;
-  return allItems.some(v=>v.catalog_role==='variation'&&v.parent_pedal===x.pedal&&v.company===x.company&&(
-    (v.variation_name||'').toLowerCase().includes(needle)||
-    (v.pedal||'').toLowerCase().includes(needle)
-  ));
+  return (variationSearchText.get(x.company+'\\u0000'+x.pedal)||'').includes(needle);
 }
 
 function builderRows(){
@@ -573,7 +572,7 @@ function render(){
       (()=>{
         const img=pedalImages.get(x.company+'\u0000'+x.pedal);
         const media=img && img.image
-          ? '<img class="cardImage" src="'+esc(img.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" referrerpolicy="no-referrer">'
+          ? '<div class="cardMedia"><img class="cardImage" src="'+esc(img.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" referrerpolicy="no-referrer" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><div class="cardPlaceholder" hidden>No Photo Archived</div></div>'
           : '<div class="cardPlaceholder">No Photo Archived</div>';
         return '<a class="card" href="'+slugParams(x)+'">'+
           media+
@@ -605,6 +604,12 @@ fetch(DATA_INDEX,{cache:'no-store'})
   allItems=data.pedals||[];
   items=allItems.filter(isCatalogEntry);
   pedalImages=new Map(allItems.map(x=>[x.company+'\u0000'+x.pedal,x]));
+  variationSearchText=new Map();
+  for(const v of allItems.filter(x=>x.catalog_role==='variation')){
+    const k=v.company+'\u0000'+v.parent_pedal;
+    const text=(v.variation_name||'')+' '+(v.pedal||'');
+    variationSearchText.set(k,((variationSearchText.get(k)||'')+' '+text).toLowerCase());
+  }
   render();
   syncUrl();
 }).catch(e=>{
