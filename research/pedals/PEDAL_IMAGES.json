@@ -4,20 +4,23 @@
     "pedal": "Bass BluesFuzz Jr",
     "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_bluesfuzzjrmm.jpg",
     "source": "Sound House product image",
-    "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255397/"
+    "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255397/",
+    "research_record": "./research/pedals/Amptweaker/Bass_BluesFuzz.md"
   },
   {
     "builder": "Amptweaker",
     "pedal": "Bass TightDrive",
     "image": "https://www.amazona.de/wp-content/uploads/2030/04/amptweaker-bass-tightdrive-04-632x900.jpg",
     "source": "AMAZONA Bass TightDrive review image",
-    "source_page": "https://www.amazona.de/test-amptweaker-bass-tightdrive-bass-overdrive-pedal/"
+    "source_page": "https://www.amazona.de/test-amptweaker-bass-tightdrive-bass-overdrive-pedal/",
+    "research_record": "./research/pedals/Amptweaker/Bass_TightDrive.md"
   },
   {
     "builder": "Amptweaker",
     "pedal": "Bass TightDrive Jr",
     "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/at_basstightdrivejrf.jpg",
     "source": "Sound House product image",
-    "source_page": "https://www.soundhouse.co.jp/products/detail/item/228011/"
+    "source_page": "https://www.soundhouse.co.jp/products/detail/item/228011/",
+    "research_record": "./research/pedals/Amptweaker/Bass_TightDrive_Jr.md"
   }
 ]
