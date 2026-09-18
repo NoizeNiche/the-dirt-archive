@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp-079",
+  "version": "2026-09-18-prp-080",
   "count": 3821,
   "pedals": [
     {
@@ -552,7 +552,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://www.acidfuzz.com/cdn/shop/products/Selmer_Buzz_Tone_6de2291f221f4938810c9cec4eab83f2_orig_grande.jpg?v=1515818430",
       "source_page": "https://www.acidfuzz.com/products/selmer-buzz-tone",
       "research_record": "./research/pedals/Acid Fuzz/Selmer Buzz Tone.md"
     },
@@ -562,7 +562,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://www.acidfuzz.com/cdn/shop/products/Sonic_Boom_p2p_1966f8e93a24444f87d8b8101952f115_orig_grande.jpg?v=1774752691",
       "source_page": "https://www.acidfuzz.com/products/sonic-boom-p2p",
       "research_record": "./research/pedals/Acid Fuzz/Sonic Boom.md"
     },
@@ -572,7 +572,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://www.acidfuzz.com/cdn/shop/products/The_Zoink_Machine_ed1785a6c53c400e80450bb71f166e56_orig_grande.jpg?v=1515796833",
       "source_page": "https://www.acidfuzz.com/products/the-zoink-machine",
       "research_record": "./research/pedals/Acid Fuzz/The Zoink Machine.md"
     },
@@ -582,7 +582,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://www.acidfuzz.com/cdn/shop/products/Zonk_Machine_Vintage_Series_Re-build_c9d710a57bc146dba49681c09451f526_orig_grande.jpg?v=1515817726",
       "source_page": "https://www.acidfuzz.com/products/zonk-machine-vintage-series-re-build",
       "research_record": "./research/pedals/Acid Fuzz/Zonk Machine - Vintage Series Re-build.md"
     },
