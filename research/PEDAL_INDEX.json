@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp-071",
+  "version": "2026-09-18-prp-073",
   "count": 3821,
   "pedals": [
     {
@@ -4975,9 +4975,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574394149144-8L0MKI1O8H38Q07GW8A6/IMG_0802-Edit.jpg",
+      "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma",
+      "research_record": "./research/pedals/Basic Audio/Fuzz Right.md"
     },
     {
       "company": "Basic Audio",
@@ -4985,9 +4985,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574298948871-J9X3GYFFYXAPHSQIEJMK/DSCF8930.jpg",
+      "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-gbrkf-xtz42",
+      "research_record": "./research/pedals/Basic Audio/Gnarly.md"
     },
     {
       "company": "Basic Audio",
@@ -4995,9 +4995,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1576108963099-JXBX7ENI50D5FDLV1H9U/DSCF1999-Edit.jpg",
+      "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt-w9pdt-t8hj3",
+      "research_record": "./research/pedals/Basic Audio/Gypsy fuzz.md"
     },
     {
       "company": "Basic Audio",
@@ -5005,9 +5005,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1579140864022-IU04IOMCXZP1MH9ILEFP/DSCF0491.jpg",
+      "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-xww4t-6pcam",
+      "research_record": "./research/pedals/Basic Audio/Kay Fuzz.md"
     },
     {
       "company": "Basic Audio",
@@ -5015,9 +5015,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574294298111-UT2A5C11G1TIHIXSR0WU/DSCF2450-Edit.jpg",
+      "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s",
+      "research_record": "./research/pedals/Basic Audio/Knight fuzz.md"
     },
     {
       "company": "Basic Audio",
@@ -5025,9 +5025,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1576073447620-S1U8D651BTXFI3O3DJA2/DSCF8920.jpg",
+      "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s-szwyc",
+      "research_record": "./research/pedals/Basic Audio/Low Volt.md"
     },
     {
       "company": "Basic Audio",
@@ -5035,9 +5035,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574290859790-MJK2K569HWAVUSAMMW0N/DSCF2059-Edit.jpg",
+      "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya",
+      "research_record": "./research/pedals/Basic Audio/Marq Won.md"
     },
     {
       "company": "Basic Audio",
@@ -5045,9 +5045,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1588256031041-TS10T3FO53J8O5Q3ISQ1/DSCF2705-Edit.jpg",
+      "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-2tw4r-68csr",
+      "research_record": "./research/pedals/Basic Audio/Nonts.md"
     },
     {
       "company": "Basic Audio",
@@ -5055,9 +5055,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574294407676-RJ3QR91B9F13NULI45OJ/DSCF5864-Edit.jpg",
+      "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-gbrkf-4zapa",
+      "research_record": "./research/pedals/Basic Audio/Orpheum.md"
     },
     {
       "company": "Basic Audio",
@@ -5065,9 +5065,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1650847714009-V81QID62II24NWUIZTQ6/DSCF6453_1.jpg",
+      "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-l5lts-pjhh6",
+      "research_record": "./research/pedals/Basic Audio/Oscix.md"
     },
     {
       "company": "Basic Audio",
