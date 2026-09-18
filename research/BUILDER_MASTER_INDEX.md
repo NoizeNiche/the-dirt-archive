@@ -6,11 +6,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **486 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-205.
+- **487 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-206.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder table is reconciled through **ID 486 / Block 205**.
+- The current builder table is reconciled through **ID 487 / Block 206**.
 
 ## Rules
 
@@ -47,7 +47,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 021 | BOSS | 007 |  |
 | 022 | Caroline Guitar Company | 099 |  |
 | 023 | Catalinbread Effects | 004, 116, 132 | Catalinbread |
-| 024 | Chase Bliss | 111 |  |
+| 024 | Chase Bliss | 111, 206 |  |
 | 025 | Crazy Tube Circuits | 017, 122, 197 |  |
 | 026 | Danelectro | 089 |  |
 | 027 | Daredevil Pedals | 035 |  |
@@ -457,7 +457,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 430 | C.Giant | 186 |  |
 | 431 | Captain FX | 186 |  |
 | 432 | CAT Sound | 186 |  |
-| 433 | Cave Passive Pedals | 186 | Cave |
+| 433 | Cave Passive Pedals | 186, 206 | Cave |
 | 434 | Case Study Effects Co. | 187 |  |
 | 435 | Chellee Guitars | 187 |  |
 | 436 | Chemistry Design Werks | 187 |  |
@@ -511,6 +511,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 484 | Correct Sound | 204 |  |
 | 485 | Color Audio | 205 |  |
 | 486 | Coura | 205 |  |
+| 487 | Cherry Music | 206 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
