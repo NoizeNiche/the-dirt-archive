@@ -119,12 +119,12 @@ AGR Pedals,OD85 - Full Range Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/p
 Aguilar,Agro - Bass Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Aguilar/Agro - Bass Overdrive.md
 Aguilar,Fuzzistor - Bass Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Aguilar/Fuzzistor - Bass Fuzz.md
 Aguilar,Storm King - Micro Bass Distortion/Fuzz,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Aguilar/Storm King - Micro Bass Distortion/Fuzz.md
-Airis Effects,Solar Flare Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Airis Effects,The Savage Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-AJ Peat,Dirty Buzzard - Overdrive,Fuzz & Distortion,NEEDED,NEEDED,NEEDED,
-AJ Peat,Fat Peacock - Distortion w/ Boost,Distortion,NEEDED,NEEDED,NEEDED,
-AJ Peat,Screaming Flamingo - Overdrive/Distortion,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-AJcustom,Distortion,Distortion,NEEDED,NEEDED,NEEDED,
+Airis Effects,Solar Flare Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Airis Effects/Solar Flare Overdrive.md
+Airis Effects,The Savage Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Airis Effects/The Savage Drive.md
+AJ Peat,Dirty Buzzard - Overdrive,Fuzz & Distortion,DONE,DONE,DONE,./research/pedals/AJ Peat/Dirty Buzzard - Overdrive.md
+AJ Peat,Fat Peacock - Distortion w/ Boost,Distortion,DONE,DONE,DONE,./research/pedals/AJ Peat/Fat Peacock - Distortion w Boost.md
+AJ Peat,Screaming Flamingo - Overdrive/Distortion,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/AJ Peat/Screaming Flamingo - Overdrive-Distortion.md
+AJcustom,Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/AJcustom/Distortion.md
 Akai,Blues Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
 Akai,Tri-Mode Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Akai,Tri-Mode Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,

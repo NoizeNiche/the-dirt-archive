@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-024",
+  "version": "2026-09-18-prp1-batch-025",
   "count": 3821,
   "pedals": [
     {
@@ -1187,7 +1187,7 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
+      "source_page": "https://www.effectsdatabase.com/model/agrpedals/fzr912",
       "research_record": "./research/pedals/AGR Pedals/FZR912 - Muff Fuzz Deluxe.md"
     },
     {
@@ -1197,7 +1197,7 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
+      "source_page": "https://www.effectsdatabase.com/model/agrpedals/od85",
       "research_record": "./research/pedals/AGR Pedals/OD85 - Full Range Overdrive.md"
     },
     {
@@ -1207,7 +1207,7 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
+      "source_page": "https://aguilaramp.com/en-int/products/agro-bass-overdrive-pedal",
       "research_record": "./research/pedals/Aguilar/Agro - Bass Overdrive.md"
     },
     {
@@ -1237,9 +1237,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/airis/solarflare",
+      "research_record": "./research/pedals/Airis Effects/Solar Flare Overdrive.md",
+      "image_source_page": "https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black"
     },
     {
       "company": "Airis Effects",
@@ -1247,9 +1248,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://rvb-img.reverb.com/i/s--KaeQ-vJK--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/pik27qakygzwbpokegok.jpg",
+      "source_page": "https://www.airiseffects.com/store/p211/savage.html",
+      "research_record": "./research/pedals/Airis Effects/The Savage Drive.md",
+      "image_source_page": "https://reverb.com/item/68284135-airis-effects-savage-drive-2020-black-skull-graphic"
     },
     {
       "company": "AJ Peat",
@@ -1257,9 +1259,10 @@
       "types": [
         "Fuzz & Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://ajpeat.com/cdn/shop/products/aj-peat-2017-products-buzzard-small.jpg?v=1495484751&width=1946",
+      "source_page": "https://ajpeat.com/products/dirty-buzzard",
+      "research_record": "./research/pedals/AJ Peat/Dirty Buzzard - Overdrive.md",
+      "image_source_page": "https://ajpeat.com/products/dirty-buzzard"
     },
     {
       "company": "AJ Peat",
@@ -1267,9 +1270,10 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://ajpeat.com/cdn/shop/products/aj-peat-2017-products-peacock-small.jpg?v=1495485537&width=1946",
+      "source_page": "https://ajpeat.com/products/fat-peacock",
+      "research_record": "./research/pedals/AJ Peat/Fat Peacock - Distortion w Boost.md",
+      "image_source_page": "https://ajpeat.com/products/fat-peacock"
     },
     {
       "company": "AJ Peat",
@@ -1278,9 +1282,10 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://cdn11.bigcommerce.com/s-unms814wvl/images/stencil/1280x1280/products/180/457/pedals_0043_Layer_3__06217.1655913180.jpg?c=1",
+      "source_page": "https://ajpeat.com/products/screaming-flamingo",
+      "research_record": "./research/pedals/AJ Peat/Screaming Flamingo - Overdrive-Distortion.md",
+      "image_source_page": "https://fulleffectdistro.com/products/aj-peat-screaming-flamingo-overdrive-distortion"
     },
     {
       "company": "AJcustom",
@@ -1289,8 +1294,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/ajcustom/distortion",
+      "research_record": "./research/pedals/AJcustom/Distortion.md"
     },
     {
       "company": "Akai",
