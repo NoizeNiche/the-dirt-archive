@@ -400,18 +400,6 @@ main{padding:20px 0 72px}
   box-shadow:inset 0 0 0 1px #090a08;
 }
 .boardSurface::before{left:0}.boardSurface::after{right:0}
-.boardRail{
-  position:absolute;left:18px;right:18px;height:10px;z-index:0;opacity:.82;
-  border-radius:6px;background:linear-gradient(180deg,#9a9b96 0,#696a66 48%,#484946 100%);
-  border:1px solid #252623;box-shadow:0 2px 0 #10110f,0 5px 9px rgba(0,0,0,.4);
-}
-.boardRail::before,.boardRail::after{
-  content:"";position:absolute;top:-1px;width:13px;height:10px;border-radius:50%;
-  background:radial-gradient(circle at 35% 30%,#c7c8c2 0 18%,#696a66 20% 55%,#242522 58% 100%);
-  border:1px solid #222320;
-}
-.boardRail::before{left:18px}.boardRail::after{right:18px}
-.railA{top:92px}.railB{top:235px}.railC{top:378px}.railD{top:521px}
 .layout{position:relative;z-index:2}
 .sidebar{
   border:1px solid #080908;border-radius:12px;background:linear-gradient(180deg,#151614,#0d0e0d);
@@ -459,7 +447,6 @@ main{padding:20px 0 72px}
 
 <main class="wrap">
   <div class="boardSurface">
-    <div class="boardRail railA"></div><div class="boardRail railB"></div><div class="boardRail railC"></div><div class="boardRail railD"></div>
   <div class="layout">
     <aside class="sidebar">
       <div class="sidebarTop">
