@@ -433,6 +433,15 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 405 | Cosmic Sound FX | 182 |  |
 | 406 | Cosmodio Instruments | 182 |  |
 | 407 | Cosmosound | 182 |  |
+| 408 | Canned Monsters | 183 |  |
+| 409 | Caswell Modern Electronics (CME) | 183 |  |
+| 410 | CastleRock | 183 | Castle Rock |
+| 411 | CBS-Arbiter | 183 | CBS-Arbiter / Electronic Sounds |
+| 412 | Celestial Effects | 183 |  |
+| 413 | Celebrity Pedals | 183 |  |
+| 414 | Coffin Gear / Coffin Case | 183 | Coffin Gear / Coffin Case |
+| 415 | Coggins Audio / Dinosaural | 183 | Coggins Audio / Dinosaural |
+| 416 | Colombo Audio Electronics | 183 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
