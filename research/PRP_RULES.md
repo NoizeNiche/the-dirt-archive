@@ -196,11 +196,11 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 203
-- Pedals with confirmed pictures: 154
-- Fully complete PRP pedals: 154
-- Remaining incomplete pedals: 3666
-- Researched but waiting only for a confirmed picture: 49
+- Pedals with research information: 220
+- Pedals with confirmed pictures: 160
+- Fully complete PRP pedals: 160
+- Remaining incomplete pedals: 3661
+- Researched but waiting only for a confirmed picture: 60
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **Adventure Audio - Demogorgon Fuzz**
 
@@ -295,3 +295,8 @@ The Barber Electronics research records added by the concurrent **PRP1 batch 021
 ## PRP1 consistency repair follow-up
 
 The deployment verifier exposed one invalid Barber tracker link: **Small Fry Burn Unit** did not have a corresponding research file. That catalog row has been returned to **Pedal Info: NEEDED**, with no research or photo connection claimed. The nine actual Barber research files remain linked; the PRP work-order checkpoint remains **AGR Pedals - FZR912 - Muff Fuzz Deluxe**.
+
+
+## PRP1 batch 025 checkpoint
+
+Batch 025 processed the next 10 incomplete PRP1 records in exact website order, from **AGR Pedals - FZR912 - Muff Fuzz Deluxe** through **AJcustom - Distortion**. Existing research for FZR912, OD85, AGRO, and Storm King was rechecked and canonical source links were synchronized. New research records were added for **Airis Effects - Solar Flare Overdrive**, **Airis Effects - The Savage Drive**, **AJ Peat - Dirty Buzzard - Overdrive**, **AJ Peat - Fat Peacock - Distortion w/ Boost**, **AJ Peat - Screaming Flamingo - Overdrive/Distortion**, and **AJcustom - Distortion**. Exact-model photos were recovered and synchronized for Solar Flare, The Savage Drive, Dirty Buzzard, Fat Peacock, and Screaming Flamingo. **AJcustom Distortion** remains photo-pending because no direct exact-model image asset was safely archived. The first four AGR/Aguilar records also remain photo-pending, so the next exact-order unresolved target remains **AGR Pedals - FZR912 - Muff Fuzz Deluxe**.

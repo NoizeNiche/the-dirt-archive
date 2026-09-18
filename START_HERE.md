@@ -45,13 +45,13 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **171** have pedal information researched
-- **141** have confirmed pictures
-- **141** are fully complete
-- **3,680** remain incomplete
-- **30** are researched but currently waiting only for a confirmed picture
+- **220** have pedal information researched
+- **160** have confirmed pictures
+- **160** are fully complete
+- **3,661** remain incomplete
+- **60** are researched but currently waiting only for a confirmed picture
 - **PRP status:** Active, PRP1 photo-recovery pass
-- **Current PRP1 target:** A.Y.A - Bass Fuzz
+- **Current PRP1 target:** AGR Pedals - FZR912 - Muff Fuzz Deluxe
 - PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
