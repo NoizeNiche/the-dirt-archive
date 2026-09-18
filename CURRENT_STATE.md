@@ -92,12 +92,12 @@ Research is being done **one pedal at a time**. Each researched pedal receives a
 - a concise 2–3 sentence sound description
 - research confidence and source notes
 
-The research phase currently contains **0 pedals with research information**.
+The research phase currently contains **94 pedals with research information**.
 
 Research is documented one pedal at a time, but the actual work is collected and verified in batches of 10 pedals, or as many as can be responsibly completed in a pass, before publishing.
 
 The latest completed PRP record is:
-- `research/pedals/Basic Audio/Fuzz Mutant.md`
+- `research/pedals/A Sound Of Failure/Death Driver.md`
 
 The current PRP run has covered Basic Audio from Alter-Destiny through Fuzz Mutant. This batch added 10 dedicated research records and exact pedal photographs, with colorway/version notes where evidence supported them, factory-vs-DIY component separation, and sound notes.
 
@@ -125,10 +125,10 @@ The page:
 The website currently contains **3,821 unique pedals**.
 
 Current PRP progress:
-- **84** have pedal information researched.
-- **74** have a confirmed pedal picture.
-- **74** are fully checked off because they have **both**.
-- **3,747** still need a complete PRP entry.
+- **94** have pedal information researched.
+- **84** have a confirmed pedal picture.
+- **84** are fully checked off because they have **both**.
+- **3,737** still need a complete PRP entry.
 - **10** are researched but currently waiting only for a confirmed picture.
 
 The complete checklist is stored in:
@@ -174,4 +174,4 @@ That benchmark means:
 Every **Scrape** or **Continue** command means a full bulk haul of **at least 10 distinct companies/builders**, with as many qualifying dirt-pedal rows as practical. Continue from the saved alphabetic checkpoint, deduplicate against the canonical builder index and active scrape census, update the live scrape data and durable checkpoints, and keep moving until Z. Ten companies is a hard minimum, not a stopping target.
 
 ## Next action
-The next PRP target begins with **Basic Audio — Fuzz Right**, followed by the next nine unresearched pedals in catalog order, unless the batch reaches a builder boundary sooner.
+The next PRP target is **A.Y.A. — Bass Fuzz**, followed by the next nine unresearched pedals in the site’s A-to-Z order.

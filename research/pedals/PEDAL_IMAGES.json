@@ -1,5 +1,75 @@
 [
   {
+    "builder": "1981 Inventions",
+    "pedal": "DRV",
+    "image": null,
+    "source_page": "https://1981inventions.com/collections/drv",
+    "research_record": "./research/pedals/1981 Inventions/DRV.md"
+  },
+  {
+    "builder": "1981 Inventions",
+    "pedal": "DRV MOD 1",
+    "image": "https://1981inventions.com/cdn/shop/files/2883610B-D039-461A-B639-E988A20C3CAB.jpg?v=1787878144&width=533",
+    "source_page": "https://1981inventions.com/products/drv-mod-1",
+    "research_record": "./research/pedals/1981 Inventions/DRV MOD 1.md"
+  },
+  {
+    "builder": "1981 Inventions",
+    "pedal": "DRV MOD 1 (WHITE)",
+    "image": "https://1981inventions.com/cdn/shop/files/2883610B-D039-461A-B639-E988A20C3CAB.jpg?v=1787878144&width=533",
+    "source_page": "https://1981inventions.com/products/drv-mod-1",
+    "research_record": "./research/pedals/1981 Inventions/DRV MOD 1 (WHITE).md"
+  },
+  {
+    "builder": "1981 Inventions",
+    "pedal": "DRV MOD 2",
+    "image": "https://1981inventions.com/cdn/shop/files/DSCF5433.jpg?v=1783896116&width=1946",
+    "source_page": "https://1981inventions.com/products/drv-mod-2",
+    "research_record": "./research/pedals/1981 Inventions/DRV MOD 2.md"
+  },
+  {
+    "builder": "1981 Inventions",
+    "pedal": "DRV MOD 2 HYPERFADE",
+    "image": "https://1981inventions.com/cdn/shop/files/DSCF5535.jpg?v=1784417360&width=1946",
+    "source_page": "https://1981inventions.com/products/drv-mod-2-hyperfade",
+    "research_record": "./research/pedals/1981 Inventions/DRV MOD 2 HYPERFADE.md"
+  },
+  {
+    "builder": "1981 Inventions",
+    "pedal": "DRV2",
+    "image": "https://1981inventions.com/cdn/shop/files/1981drv.jpg?v=1764378620&width=1946",
+    "source_page": "https://1981inventions.com/products/drv2-no3-clear-knob",
+    "research_record": "./research/pedals/1981 Inventions/DRV2.md"
+  },
+  {
+    "builder": "1981 Inventions",
+    "pedal": "Forget and Not Slow Down LVL",
+    "image": "https://1981inventions.com/cdn/shop/files/DSCF58942.jpg?v=1788558906&width=1946",
+    "source_page": "https://1981inventions.com/products/forget-lvl",
+    "research_record": "./research/pedals/1981 Inventions/Forget and Not Slow Down LVL.md"
+  },
+  {
+    "builder": "1981 Inventions",
+    "pedal": "LVL",
+    "image": null,
+    "source_page": "https://1981inventions.com/products/forget-lvl",
+    "research_record": "./research/pedals/1981 Inventions/LVL.md"
+  },
+  {
+    "builder": "6 Degrees FX",
+    "pedal": "Amplitude Eleven",
+    "image": "https://rvb-img.reverb.com/i/s--mEzNv7en--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ysq2jsvoly3i9hdmegqp.jpg",
+    "source_page": "https://www.effectsdatabase.com/model/6degreesfx/amplitudeeleven",
+    "research_record": "./research/pedals/6 Degrees FX/Amplitude Eleven.md"
+  },
+  {
+    "builder": "A Sound Of Failure",
+    "pedal": "Death Driver",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/soundoffailure/deathdriver",
+    "research_record": "./research/pedals/A Sound Of Failure/Death Driver.md"
+  },
+  {
     "builder": "Amptweaker",
     "pedal": "Bass BluesFuzz Jr",
     "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_bluesfuzzjrmm.jpg",
