@@ -6,11 +6,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **470 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-196.
+- **471 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, and 143-197.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder table is reconciled through **ID 440 / Block 187**.
+- The current builder table is reconciled through **ID 471 / Block 197**.
 
 ## Rules
 
@@ -48,7 +48,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 022 | Caroline Guitar Company | 099 |  |
 | 023 | Catalinbread Effects | 004, 116, 132 | Catalinbread |
 | 024 | Chase Bliss | 111 |  |
-| 025 | Crazy Tube Circuits | 017, 122 |  |
+| 025 | Crazy Tube Circuits | 017, 122, 197 |  |
 | 026 | Danelectro | 089 |  |
 | 027 | Daredevil Pedals | 035 |  |
 | 028 | Death By Audio | 010, 096, 135 |  |
@@ -495,6 +495,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 468 | Clayton | 194 |  |
 | 469 | Crest Audio | 194 | Historical branded/OEM |
 | 470 | Crushsound | 196 |  |
+| 471 | Crowella Effects | 197 |  |
 ## Confirmed duplicate / merge groups in the live blocks
 
 - **Amptweaker** -> Blocks 043, 127
