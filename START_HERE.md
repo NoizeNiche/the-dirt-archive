@@ -116,6 +116,10 @@ The purpose is to turn each basic catalog entry into a useful pedal reference pa
 
 The Pedal Research Phase may add research metadata to existing pedal records, but it does not replace the canonical builder/pedal census or retroactively change the active A → Z census mission.
 
+## Current scrape checkpoint
+
+The active Scrape C census is now at **1,453 live company/pedal/type rows** after Batch 215. The current alphabetic checkpoint is **after JHS Pedals**. Batch 215 added 17 builders, including canonical IDs 494-495 for J. Rockett Audio Designs and Jackson Audio. Two duplicate JHS Violet naming rows were consolidated during cleanup.
+
 ## No-duplicate gate
 `research/BUILDER_MASTER_INDEX.md` is the canonical builder identity gate for this phase.
 
@@ -124,7 +128,7 @@ A **research block is not a builder ID**. Multiple blocks may contain the same b
 If the builder is already present, do not start a new builder census block. Add missing pedal records to the existing canonical builder record instead.
 
 ## Active census checkpoint
-The current live block set contains **212 block files** representing the active Builder -> Pedals research sequence through Block 214. The canonical builder index currently contains **493 builder identities**. Block 070 is absent. Block 142, Fairfield Circuitry, was removed as a duplicate because Fairfield is already represented elsewhere. Scrape C is the active alphabetic working census, and its current live layer contains **1,105 company/pedal/type rows**.
+The current live block set contains **213 block files** representing the active Builder -> Pedals research sequence through Block 215. The canonical builder index currently contains **495 builder identities**. Block 070 is absent. Block 142, Fairfield Circuitry, was removed as a duplicate because Fairfield is already represented elsewhere. Scrape C is the active alphabetic working census, and its current live layer contains **1,453 company/pedal/type rows**.
 
 ## Filter metadata boundary
 
