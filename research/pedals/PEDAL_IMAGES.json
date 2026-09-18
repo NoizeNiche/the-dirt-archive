@@ -182,5 +182,85 @@
     "source": "Exact-model source-page capture",
     "source_page": "https://amptweaker.com/product/tight-rock/",
     "research_record": "./research/pedals/Amptweaker/Tight_Rock.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Tight Rock Jr",
+    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://reverb.com/item/92068883-amptweaker-tight-rock-jr-og-red",
+    "source": "Reverb exact-model photograph source page",
+    "source_page": "https://reverb.com/item/92068883-amptweaker-tight-rock-jr-og-red",
+    "research_record": "./research/pedals/Amptweaker/Tight_Rock_Jr.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "TightBoost",
+    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.effectsdatabase.com/model/amptweaker/tightboost",
+    "source": "Effects Database exact-model photo/source page",
+    "source_page": "https://www.effectsdatabase.com/model/amptweaker/tightboost",
+    "research_record": "./research/pedals/Amptweaker/TightBoost.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "TightFuzz",
+    "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_tightfuzzmm.jpg",
+    "source": "Sound House exact-model product photo",
+    "source_page": "https://www.soundhouse.co.jp/products/detail/item/241266/",
+    "research_record": "./research/pedals/Amptweaker/TightFuzz.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "TightFuzz Jr",
+    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.musictalk.com.sg/amptweaker-pedal-tight-fuzz-jr.html",
+    "source": "MusicTalk exact-model product/source capture",
+    "source_page": "https://www.musictalk.com.sg/amptweaker-pedal-tight-fuzz-jr.html",
+    "research_record": "./research/pedals/Amptweaker/TightFuzz_Jr.md"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "TightFuzz Pro",
+    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.pitbullaudio.com/amptweaker-tight-fuzz-pro-distortion-guitar-effects-pedal.html",
+    "source": "Pitbull Audio exact-model photo/source capture",
+    "source_page": "https://www.pitbullaudio.com/amptweaker-tight-fuzz-pro-distortion-guitar-effects-pedal.html",
+    "research_record": "./research/pedals/Amptweaker/TightFuzz_Pro.md"
+  },
+  {
+    "builder": "Analog Alien",
+    "pedal": "Alien Bass Station",
+    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicagomusicexchange.com/products/analog-alien-alien-bass-station-2026219",
+    "source": "Chicago Music Exchange exact-model photograph/source capture",
+    "source_page": "https://www.chicagomusicexchange.com/products/analog-alien-alien-bass-station-2026219",
+    "research_record": "./research/pedals/Analog Alien/Alien_Bass_Station.md"
+  },
+  {
+    "builder": "Analog Alien",
+    "pedal": "Alien Tone Dragon",
+    "image": "https://www.chicagomusicexchange.com/cdn/shop/files/analog-alien-effects-and-pedals-overdrive-and-boost-analog-alien-alien-tone-dragon-overdrive-boost-pedal-analog-alien-alien-tone-dragon-overdrive-boost-pedal-aa-atd-1053200262.jpg?v=1768864535&width=1946",
+    "source": "Chicago Music Exchange exact-model photograph",
+    "source_page": "https://www.chicagomusicexchange.com/products/analog-alien-alien-tone-dragon-overdriveboost-pedal-2054215",
+    "research_record": "./research/pedals/Analog Alien/Alien_Tone_Dragon.md"
+  },
+  {
+    "builder": "Analog Alien",
+    "pedal": "Alien Twister",
+    "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.allmusicinc.com/products/analog-alien-alien-twister-fuzz-buffer-electric-guitar-effect-pedal",
+    "source": "All Music exact-model photograph/source capture",
+    "source_page": "https://www.allmusicinc.com/products/analog-alien-alien-twister-fuzz-buffer-electric-guitar-effect-pedal",
+    "research_record": "./research/pedals/Analog Alien/Alien_Twister.md"
+  },
+  {
+    "builder": "Analog Alien",
+    "pedal": "Bucket Seat",
+    "image": "https://media.sweetwater.com/m/products/image/708969bce4ANKNYGwJEQ4kLKh5FBfuT0jFVd3iVt.jpg",
+    "source": "Sweetwater exact-model photograph",
+    "source_page": "https://www.sweetwater.com/store/detail/BucketSeat--analog-alien-bucket-seat-overdrive-pedal",
+    "research_record": "./research/pedals/Analog Alien/Bucket_Seat.md"
+  },
+  {
+    "builder": "Analog Alien",
+    "pedal": "FuzzBubble-45",
+    "image": "https://analogalien.com/wp-content/uploads/2019/05/fuzzbubble45-analogalien-5-scaled.jpg",
+    "source": "Analog Alien official product photograph",
+    "source_page": "https://analogalien.com/product/fuzzbubble-45-overdrive-fuzz-pedal/",
+    "research_record": "./research/pedals/Analog Alien/FuzzBubble_45.md"
   }
 ]
