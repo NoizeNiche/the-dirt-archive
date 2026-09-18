@@ -477,7 +477,6 @@ function searchMatches(x){
   if(!q)return true;
   const needle=q.toLowerCase();
   if(x.company.toLowerCase().includes(needle)||x.pedal.toLowerCase().includes(needle))return true;
-  const parentKey=x.company+'\\u0000'+x.pedal;
   return allItems.some(v=>v.catalog_role==='variation'&&v.parent_pedal===x.pedal&&v.company===x.company&&(
     (v.variation_name||'').toLowerCase().includes(needle)||
     (v.pedal||'').toLowerCase().includes(needle)
