@@ -237,10 +237,32 @@ main{padding:24px 0 72px}
   border:1px solid var(--line);
   border-radius:16px;
   background:var(--card);
-  padding:15px;
+  padding:0;
   text-align:left;
   text-decoration:none;
   transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease
+}
+.cardImage{
+  display:block;
+  width:100%;
+  aspect-ratio:4/2.45;
+  object-fit:cover;
+  background:#eeebe3;
+  border-bottom:1px solid var(--line)
+}
+.cardBody{padding:14px 15px 15px}
+.cardPlaceholder{
+  display:grid;
+  place-items:center;
+  width:100%;
+  aspect-ratio:4/2.45;
+  background:#eeebe3;
+  color:#9a958b;
+  border-bottom:1px solid var(--line);
+  font-size:.62rem;
+  font-weight:900;
+  text-transform:uppercase;
+  letter-spacing:.07em
 }
 .card::after{
   content:"↗";
@@ -383,6 +405,7 @@ main{padding:24px 0 72px}
 
 <script>
 const DATA_VERSION='2026-09-18-final-discovery';
+const IMAGE_DATA='./research/pedals/PEDAL_IMAGES.json?v='+DATA_VERSION;
 const DATA=[
   './research/MASTER_PEDAL_CENSUS.csv?v='+DATA_VERSION,
   './research/SCRAPE_A_CENSUS.csv?v='+DATA_VERSION,
@@ -391,6 +414,7 @@ const DATA=[
 ];
 
 let items=[];
+let pedalImages=new Map();
 const initialParams=new URLSearchParams(location.search);
 let selectedType=initialParams.get('type')||'All';
 let selectedBuilder=initialParams.get('builder')||'';
@@ -545,11 +569,20 @@ function render(){
 
   $('grid').innerHTML=visible.length
     ? visible.map(x=>
-      '<a class="card" href="'+slugParams(x)+'">'+
-        '<span class="name">'+esc(x.pedal)+'</span>'+
-        '<span class="builderNameCard">'+esc(x.company)+'</span>'+
-        '<span class="chips">'+x.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('')+'</span>'+
-      '</a>'
+      (()=>{
+        const img=pedalImages.get(x.company+'\u0000'+x.pedal);
+        const media=img
+          ? '<img class="cardImage" src="'+esc(img.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" referrerpolicy="no-referrer">'
+          : '<div class="cardPlaceholder">Photo added during PRP</div>';
+        return '<a class="card" href="'+slugParams(x)+'">'+
+          media+
+          '<span class="cardBody">'+
+            '<span class="name">'+esc(x.pedal)+'</span>'+
+            '<span class="builderNameCard">'+esc(x.company)+'</span>'+
+            '<span class="chips">'+x.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('')+'</span>'+
+          '</span>'+
+        '</a>';
+      })()
     ).join('')
     : '<div class="empty"><strong>No pedals found</strong>Try another search, dirt type, or builder.</div>';
 }
@@ -562,13 +595,20 @@ $('search').oninput=e=>{
   render();
 };
 
-Promise.all(
-  DATA.map(u=>fetch(u,{cache:'no-store'}).then(r=>{
+Promise.all([
+  Promise.all(DATA.map(u=>fetch(u,{cache:'no-store'}).then(r=>{
     if(!r.ok)throw Error(r.status);
     return r.text();
-  }))
-)
-.then(ts=>{
+  }))),
+  fetch(IMAGE_DATA,{cache:'no-store'}).then(r=>{
+    if(!r.ok)throw Error(r.status);
+    return r.json();
+  })
+])
+.then(([ts,imageRecords])=>{
+  pedalImages=new Map(
+    imageRecords.map(x=>[x.builder+'\u0000'+x.pedal,x])
+  );
   items=group(ts.flatMap(csv));
   render();
   syncUrl();
