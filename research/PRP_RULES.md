@@ -471,3 +471,17 @@ The original remote image URL is preserved as `image_source_url` and the product
 The cache workflow may retry external retrievals, but a failed retrieval must never create a local placeholder and must never replace a verified exact image with a different model or version.
 
 The PRP tracker continues to define picture completion from the catalog's image state. Once the local migration is complete, `Picture: DONE` means an exact local archived image exists and passes the deployment image-file audit.
+
+
+## 5B. How new PRP photos are collected
+
+When a qualifying exact-model photograph is found during PRP:
+
+1. Keep the source/product page reference for provenance.
+2. Treat the source image URL as a migration input, not as the desired permanent runtime dependency.
+3. Let the local image-cache workflow retrieve the image into the canonical per-pedal directory.
+4. Do not call the pedal photo fully synchronized for deployment until the local cached file exists and passes the image-file validation.
+5. For a colorway/edition, attach the photo to the existing variation relationship so its local file lands under the parent pedal's `variants/` directory.
+6. For a materially distinct public version, use a separate pedal identity and its own `primary.webp`.
+
+The source URL may remain in `image_source_url` for provenance after the local file is archived.
