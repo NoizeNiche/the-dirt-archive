@@ -2026,5 +2026,85 @@
     "source_page": "https://www.effectsdatabase.com/model/amptweaker/bluesfuzz/bass",
     "research_record": "./research/pedals/PRP Batch 048/Bass BluesFuzz.md",
     "photo_status": "NEEDED"
+  },
+  {
+    "builder": "Amsterdam Cream",
+    "pedal": "Big Eye Fuzz",
+    "image": null,
+    "source_page": "https://amsterdamcream.com/post/74580352500/big-eye-fuzz",
+    "research_record": "./research/pedals/PRP Batch 049/Big Eye Fuzz.md",
+    "photo_status": "NEEDED"
+  },
+  {
+    "builder": "Amsterdam Cream",
+    "pedal": "Original Distortion",
+    "image": null,
+    "source_page": "https://amsterdamcream.com/",
+    "research_record": "./research/pedals/PRP Batch 049/Original Distortion.md",
+    "photo_status": "NEEDED"
+  },
+  {
+    "builder": "Amsterdam Cream",
+    "pedal": "Plain Drive",
+    "image": null,
+    "source_page": "https://amsterdamcream.com/",
+    "research_record": "./research/pedals/PRP Batch 049/Plain Drive.md",
+    "photo_status": "NEEDED"
+  },
+  {
+    "builder": "AMT Electronics",
+    "pedal": "B-1 BG-Sharp",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/b1",
+    "research_record": "./research/pedals/PRP Batch 049/B-1 BG-Sharp.md",
+    "photo_status": "NEEDED"
+  },
+  {
+    "builder": "AMT Electronics",
+    "pedal": "BS British Sound",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/amt/bs",
+    "research_record": "./research/pedals/PRP Batch 049/BS British Sound.md",
+    "photo_status": "NEEDED"
+  },
+  {
+    "builder": "AMT Electronics",
+    "pedal": "CS California Sound",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/amt/cs",
+    "research_record": "./research/pedals/PRP Batch 049/CS California Sound.md",
+    "photo_status": "NEEDED"
+  },
+  {
+    "builder": "AMT Electronics",
+    "pedal": "DM-3 DistMachine",
+    "image": null,
+    "source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
+    "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md",
+    "photo_status": "NEEDED"
+  },
+  {
+    "builder": "AMT Electronics",
+    "pedal": "M-1 JM-800",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/m1",
+    "research_record": "./research/pedals/PRP Batch 049/M-1 JM-800.md",
+    "photo_status": "NEEDED"
+  },
+  {
+    "builder": "AMT Electronics",
+    "pedal": "R-1 Rectifier",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/r1",
+    "research_record": "./research/pedals/PRP Batch 049/R-1 Rectifier.md",
+    "photo_status": "NEEDED"
+  },
+  {
+    "builder": "AMT Electronics",
+    "pedal": "Rammstein RD Distortion Combo Emulator",
+    "image": null,
+    "source_page": "https://amtelectronics.com/",
+    "research_record": "./research/pedals/PRP Batch 049/Rammstein RD Distortion Combo Emulator.md",
+    "photo_status": "NEEDED"
   }
 ]
