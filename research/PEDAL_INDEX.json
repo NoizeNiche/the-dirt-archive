@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-106",
+  "version": "2026-09-19-prp1-batch-107",
   "count": 3821,
   "pedals": [
     {
@@ -8475,8 +8475,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://cdn1.soniccircus.com/uploads/Bogner-La-Grange-Pedal-Manual.pdf",
+      "research_record": "./research/pedals/PRP Batch 107/La Grange.md"
     },
     {
       "company": "Bogner Amplification",
@@ -8485,8 +8485,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.sweetwater.com/store/detail/Oxford--bogner-oxford-fuzz-pedal",
+      "research_record": "./research/pedals/PRP Batch 107/Oxford.md"
     },
     {
       "company": "Bogner Amplification",
@@ -8507,8 +8507,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://manualzilla.com/doc/5946316/uberschall-pedal-manual",
+      "research_record": "./research/pedals/PRP Batch 107/Uberschall.md"
     },
     {
       "company": "Bogner Amplification",
@@ -8517,8 +8517,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.sweetwater.com/store/detail/Wessex--bogner-wessex-overdrive-pedal",
+      "research_record": "./research/pedals/PRP Batch 107/Wessex.md"
     },
     {
       "company": "Bondi Effects",
@@ -8527,8 +8527,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bondi/delmar",
+      "research_record": "./research/pedals/PRP Batch 107/Del Mar Overdrive mk1.md"
     },
     {
       "company": "Bondi Effects",
@@ -8537,8 +8537,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://bondieffects.com/products/del-mar-overdrive-mk2",
+      "research_record": "./research/pedals/PRP Batch 107/Del Mar Overdrive mk2.md"
     },
     {
       "company": "Bondi Effects",
@@ -8547,8 +8547,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://bondieffects.com/products/sick-as-high-shredroom-graphite",
+      "research_record": "./research/pedals/PRP Batch 107/Sick As High Shredroom.md"
     },
     {
       "company": "Bondi Effects",
@@ -8557,8 +8557,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://bondieffects.com/products/sick-as-high-shredroom-graphite",
+      "research_record": "./research/pedals/PRP Batch 107/Sick As High Shredroom Editions.md"
     },
     {
       "company": "Bondi Effects",
@@ -8567,8 +8567,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://bondieffects.com/products/sick-as-overdrive-mkiii",
+      "research_record": "./research/pedals/PRP Batch 107/Sick As Overdrive.md"
     },
     {
       "company": "Bondi Effects",
@@ -8577,8 +8577,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/3338487-bondi-effects-sick-as-overdrive-mk2",
+      "research_record": "./research/pedals/PRP Batch 107/Sick As Overdrive mk2.md"
     },
     {
       "company": "Boo Instruments",
