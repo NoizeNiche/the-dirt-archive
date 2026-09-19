@@ -510,17 +510,17 @@ Basic Audio,Super Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Super F
 Basic Audio,Tri-Ram Muff,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Tri-Ram Muff.md
 Basic Audio,Zippy,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Zippy.md
 Basic Audio,Zonk,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Zonk.md
-BBE,G Screamer,Overdrive,NEEDED,NEEDED,NEEDED,
+BBE,G Screamer,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/BBE/G Screamer.md
 BBE,Green Screamer,Overdrive,NEEDED,NEEDED,NEEDED,
-BearFoot FX,Arctic White Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-BearFoot FX,BlueBerry Bass Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-BearFoot FX,Bone Bender MKI Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-BearFoot FX,Burgundy BossHorn Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-BearFoot FX,Candy Apple Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-BearFoot FX,Dyna Red Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-BearFoot FX,Emerald Green Distortion Machine,Distortion,NEEDED,NEEDED,NEEDED,
-BearFoot FX,Emerald Green Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-BearFoot FX,Honey Bee Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
+BearFoot FX,Arctic White Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BearFoot FX/Arctic White Fuzz.md
+BearFoot FX,BlueBerry Bass Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/BearFoot FX/BlueBerry Bass Overdrive.md
+BearFoot FX,Bone Bender MKI Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BearFoot FX/Bone Bender MKI Fuzz.md
+BearFoot FX,Burgundy BossHorn Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BearFoot FX/Burgundy BossHorn Fuzz.md
+BearFoot FX,Candy Apple Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BearFoot FX/Candy Apple Fuzz.md
+BearFoot FX,Dyna Red Distortion,Distortion,DONE,DONE,DONE,./research/pedals/BearFoot FX/Dyna Red Distortion.md
+BearFoot FX,Emerald Green Distortion Machine,Distortion,DONE,DONE,DONE,./research/pedals/BearFoot FX/Emerald Green Distortion Machine.md
+BearFoot FX,Emerald Green Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/BearFoot FX/Emerald Green Overdrive.md
+BearFoot FX,Honey Bee Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/BearFoot FX/Honey Bee Overdrive.md
 BearFoot FX,Honey Bee Overdrive Plus,Overdrive,NEEDED,NEEDED,NEEDED,
 BearFoot FX,Honey Beest,Overdrive,NEEDED,NEEDED,NEEDED,
 BearFoot FX,Pink Purple Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
