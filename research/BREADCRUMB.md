@@ -466,3 +466,12 @@ Batch 049 processed the next ten incomplete records in exact website order: **Am
 - **Live tracker counts:** 3821 total / 351 researched / 192 pictured / 192 complete / 3629 incomplete.
 - **Waiting on photos:** 159 researched pedals.
 - **Next exact-order active target:** **Atlas Pedal - Bracton OverDrive**.
+
+
+## Current live checkpoint override - PRP1 batch 066
+
+Batch 066 is the latest PRP1 synchronization checkpoint. The batch covered the next 10 missing Pedal Info records in exact tracker order from **Axcess by Giannini - DS-101 Distortion** through **AXiom Effects - Fuzz Preamp FP-1**. All ten research records, public index entries, photo manifest entries, and tracker rows are synchronized.
+
+Exact photos are attached for **DS-101, DS-102, FZ-110, OD-102, OBViouS Boost/OD, and Glass Drive**. **MD-102, Gain Chain, DP-1, and FP-1** remain photo-pending and continue to use **No Photo Archived**.
+
+The actual tracker totals are **3,821 total / 421 researched / 197 pictured / 197 complete / 3,624 incomplete**, with **224** researched pedals waiting only for a confirmed picture. The next active missing-information target is **Axis Guitar Effects - Axis Face MkII**. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later photo recovery.

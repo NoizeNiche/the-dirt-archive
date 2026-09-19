@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-065",
+  "version": "2026-09-18-prp1-batch-066",
   "count": 3821,
   "pedals": [
     {
@@ -3796,9 +3796,9 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://files.effectsdatabase.com/gear/thumbs/giannini-axcess_ds-101_001.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/ds101",
+      "research_record": "./research/pedals/Axcess by Giannini/DS-101 Distortion.md"
     },
     {
       "company": "Axcess by Giannini",
@@ -3806,9 +3806,9 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://files.effectsdatabase.com/gear/thumbs/giannini-axcess_ds-102_001.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/ds102",
+      "research_record": "./research/pedals/Axcess by Giannini/DS-102 Distortion 2.md"
     },
     {
       "company": "Axcess by Giannini",
@@ -3816,9 +3816,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://files.effectsdatabase.com/gear/thumbs/giannini-axcess_fz-110_001.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/fz110",
+      "research_record": "./research/pedals/Axcess by Giannini/FZ-110 Fuzz.md"
     },
     {
       "company": "Axcess by Giannini",
@@ -3827,8 +3827,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/md102",
+      "research_record": "./research/pedals/Axcess by Giannini/MD-102 Mystic Drive.md"
     },
     {
       "company": "Axcess by Giannini",
@@ -3836,9 +3836,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://files.effectsdatabase.com/gear/thumbs/giannini-axcess_od-102_001.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/od102",
+      "research_record": "./research/pedals/Axcess by Giannini/OD-102 Over Drive.md"
     },
     {
       "company": "Axess Electronics",
@@ -3846,9 +3846,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://axesselectronics.com/cdn/shop/files/axess-electronics-axsgtr-OBVS-obvious-transparent-boost-overdrive-guitar-pedal-F-DSC_0106_1500x.jpg?v=1782244139",
+      "source_page": "https://axesselectronics.com/products/obvious-boost-overdrive-black",
+      "research_record": "./research/pedals/Axess Electronics/OBViouS Boost-OD.md"
     },
     {
       "company": "Axewerx",
@@ -3857,8 +3857,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://axewerx.com/shop/products/pedals/the-gain-chain.html",
+      "research_record": "./research/pedals/Axewerx/Gain Chain.md"
     },
     {
       "company": "Axewerx",
@@ -3868,9 +3868,9 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://d1wqzb5bdbcre6.cloudfront.net/314f61db339444596012da2381347a10af01d3cbf83de782bbd227cc04a01b58/68747470733a2f2f66696c65732e7374726970652e636f6d2f6c696e6b732f4d44423859574e6a6446387855315678545731535630354b593156565531497866475a7358327870646d5666595852766257566d5747355661544e78553055326148646d635759795347396a30304757694d6f736b45/6d65726368616e745f69643d616363745f315355714d6d52574e4a63555553523126636c69656e743d5041594d454e545f50414745",
+      "source_page": "https://axewerx.com/shop/products/pedals/the-glass-drive.html",
+      "research_record": "./research/pedals/Axewerx/Glass Drive.md"
     },
     {
       "company": "AXiom Effects",
@@ -3879,8 +3879,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://axiomeffects.com/collections/frontpage/products/axiom-distortion-preamp-dp-1",
+      "research_record": "./research/pedals/AXiom Effects/Distortion Preamp DP-1.md"
     },
     {
       "company": "AXiom Effects",
@@ -3889,8 +3889,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://axiomeffects.com/products/fuzz-preamp-fp-1",
+      "research_record": "./research/pedals/AXiom Effects/Fuzz Preamp FP-1.md"
     },
     {
       "company": "AXiom Effects",

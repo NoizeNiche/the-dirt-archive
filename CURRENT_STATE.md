@@ -97,13 +97,13 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 277
-- Pedals with confirmed pictures: 167
-- Fully complete PRP pedals: 167
-- Remaining incomplete pedals: 3654
-- Researched but waiting only for a confirmed picture: 110
-- PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **AMT Electronics - S-1**
+- Pedals with research information: 421
+- Pedals with confirmed pictures: 197
+- Fully complete PRP pedals: 197
+- Remaining incomplete pedals: 3624
+- Researched but waiting only for a confirmed picture: 224
+- PRP status: Active, PRP1 research and photo synchronization pass
+- Current PRP1 target: **Axis Guitar Effects - Axis Face MkII**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -567,3 +567,12 @@ The first three already had canonical Pedal Info records from Batch 058 and were
 **Live tracker counts:** 3821 total / 351 researched / 192 pictured / 192 complete / 3629 incomplete, with **159** researched pedals waiting only for confirmed photos.
 
 **Next exact-order active target:** **Atlas Pedal - Bracton OverDrive**.
+
+
+## PRP1 batch 066 checkpoint
+
+Batch 066 processed the next 10 missing Pedal Info records in exact tracker order: **Axcess by Giannini - DS-101 Distortion; Axcess by Giannini - DS-102 Distortion 2; Axcess by Giannini - FZ-110 Fuzz; Axcess by Giannini - MD-102 Mystic Drive; Axcess by Giannini - OD-102 Over Drive; Axess Electronics - OBViouS Boost/OD; Axewerx - Gain Chain; Axewerx - Glass Drive; AXiom Effects - Distortion Preamp DP-1; AXiom Effects - Fuzz Preamp FP-1**.
+
+All 10 now have individual Pedal Info research records and are synchronized into the public pedal index, research/photo manifest, and tracker. Exact photos were attached for **DS-101, DS-102, FZ-110, OD-102, OBViouS Boost/OD, and Glass Drive**. The remaining photo-pending records are **MD-102, Gain Chain, DP-1, and FP-1**.
+
+Current tracker totals after Batch 066: **3,821 total / 421 researched / 197 pictured / 197 complete / 3,624 incomplete**, with **224** researched pedals waiting only for a confirmed picture. The next active missing-information target is **Axis Guitar Effects - Axis Face MkII**.

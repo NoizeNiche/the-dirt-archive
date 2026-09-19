@@ -407,3 +407,11 @@ Proceed through the catalog one pedal at a time. Use the canonical catalog entry
 The PRP image rule is strict: the image must itself be a photograph/render of the exact pedal, not a screenshot of a product/source page. The following researched parents currently have a research record but no attached exact image file: Amptweaker — Tight Metal Jr; Amptweaker — TightBoost; Amptweaker — TightFuzz Jr; Analog Alien — Alien Twister; Analog Man — Astro Tone; Analog Man — Prince Of Tone; Analog Man — Sun Face; Animal Factory Amplification — Chemical Burn; Animal Factory Amplification — Dirty Mirror; Animal Factory Amplification — Godeater+.
 
 The site intentionally shows an honest photo-pending state for these records until an exact direct image file is found.
+
+## PRP1 batch 066 checkpoint
+
+Batch 066 added Pedal Info research for the next 10 exact-order records: **Axcess by Giannini DS-101, DS-102, FZ-110, MD-102, OD-102; Axess Electronics OBViouS Boost/OD; Axewerx Gain Chain and Glass Drive; AXiom Effects DP-1 and FP-1**.
+
+Six exact-model photos were attached to the public catalog: **DS-101, DS-102, FZ-110, OD-102, OBViouS Boost/OD, and Glass Drive**. Four remain photo-pending because no stable archive asset was promoted: **MD-102, Gain Chain, DP-1, and FP-1**.
+
+Next active missing-information target: **Axis Guitar Effects - Axis Face MkII**.

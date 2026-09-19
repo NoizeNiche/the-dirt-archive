@@ -3079,5 +3079,81 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/bd108",
     "research_record": "./research/pedals/Axcess by Giannini/BD-108 Blues Drive.md"
+  },
+  {
+    "builder": "Axcess by Giannini",
+    "pedal": "DS-101 Distortion",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/giannini-axcess_ds-101_001.jpg",
+    "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/ds101",
+    "research_record": "./research/pedals/Axcess by Giannini/DS-101 Distortion.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/giannini/axcess/ds101"
+  },
+  {
+    "builder": "Axcess by Giannini",
+    "pedal": "DS-102 Distortion 2",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/giannini-axcess_ds-102_001.jpg",
+    "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/ds102",
+    "research_record": "./research/pedals/Axcess by Giannini/DS-102 Distortion 2.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/giannini/axcess/ds102"
+  },
+  {
+    "builder": "Axcess by Giannini",
+    "pedal": "FZ-110 Fuzz",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/giannini-axcess_fz-110_001.jpg",
+    "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/fz110",
+    "research_record": "./research/pedals/Axcess by Giannini/FZ-110 Fuzz.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/giannini/axcess/fz110"
+  },
+  {
+    "builder": "Axcess by Giannini",
+    "pedal": "MD-102 Mystic Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/md102",
+    "research_record": "./research/pedals/Axcess by Giannini/MD-102 Mystic Drive.md"
+  },
+  {
+    "builder": "Axcess by Giannini",
+    "pedal": "OD-102 Over Drive",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/giannini-axcess_od-102_001.jpg",
+    "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/od102",
+    "research_record": "./research/pedals/Axcess by Giannini/OD-102 Over Drive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/giannini/axcess/od102"
+  },
+  {
+    "builder": "Axess Electronics",
+    "pedal": "OBViouS Boost/OD",
+    "image": "https://axesselectronics.com/cdn/shop/files/axess-electronics-axsgtr-OBVS-obvious-transparent-boost-overdrive-guitar-pedal-F-DSC_0106_1500x.jpg?v=1782244139",
+    "source_page": "https://axesselectronics.com/products/obvious-boost-overdrive-black",
+    "research_record": "./research/pedals/Axess Electronics/OBViouS Boost-OD.md",
+    "image_source_page": "https://axesselectronics.com/products/obvious-boost-overdrive-black"
+  },
+  {
+    "builder": "Axewerx",
+    "pedal": "Gain Chain",
+    "image": null,
+    "source_page": "https://axewerx.com/shop/products/pedals/the-gain-chain.html",
+    "research_record": "./research/pedals/Axewerx/Gain Chain.md"
+  },
+  {
+    "builder": "Axewerx",
+    "pedal": "Glass Drive",
+    "image": "https://d1wqzb5bdbcre6.cloudfront.net/314f61db339444596012da2381347a10af01d3cbf83de782bbd227cc04a01b58/68747470733a2f2f66696c65732e7374726970652e636f6d2f6c696e6b732f4d44423859574e6a6446387855315678545731535630354b593156565531497866475a7358327870646d5666595852766257566d5747355661544e78553055326148646d635759795347396a30304757694d6f736b45/6d65726368616e745f69643d616363745f315355714d6d52574e4a63555553523126636c69656e743d5041594d454e545f50414745",
+    "source_page": "https://axewerx.com/shop/products/pedals/the-glass-drive.html",
+    "research_record": "./research/pedals/Axewerx/Glass Drive.md",
+    "image_source_page": "https://axewerx.com/shop/products/pedals/the-glass-drive.html"
+  },
+  {
+    "builder": "AXiom Effects",
+    "pedal": "Distortion Preamp DP-1",
+    "image": null,
+    "source_page": "https://axiomeffects.com/collections/frontpage/products/axiom-distortion-preamp-dp-1",
+    "research_record": "./research/pedals/AXiom Effects/Distortion Preamp DP-1.md"
+  },
+  {
+    "builder": "AXiom Effects",
+    "pedal": "Fuzz Preamp FP-1",
+    "image": null,
+    "source_page": "https://axiomeffects.com/products/fuzz-preamp-fp-1",
+    "research_record": "./research/pedals/AXiom Effects/Fuzz Preamp FP-1.md"
   }
 ]
