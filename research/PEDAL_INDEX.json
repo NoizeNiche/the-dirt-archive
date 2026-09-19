@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-097",
+  "version": "2026-09-19-prp1-batch-098",
   "count": 3821,
   "pedals": [
     {
@@ -116,9 +116,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://i.ebayimg.com/thumbs/images/g/uN0AAeSwEu1ql-~g/s-l500.jpg",
       "source_page": "https://www.effectsdatabase.com/model/aya/bassfuzz",
-      "research_record": "./research/pedals/A.Y.A/Bass Fuzz.md"
+      "research_record": "./research/pedals/A.Y.A/Bass Fuzz.md",
+      "image_source_page": "https://www.ebay.com/itm/198645645124"
     },
     {
       "company": "A.Y.A",
@@ -457,7 +458,9 @@
         "Fuzz"
       ],
       "source_page": "https://www.stars-music.com/ac-noises-urla-cmos-fuzz-dual-resonant-filter_190162.html",
-      "research_record": "./research/pedals/AC Noises/Urla.md"
+      "research_record": "./research/pedals/AC Noises/Urla.md",
+      "image": "https://aifineguitars.com/cdn/shop/files/xftk2ga7qf52jamwh0lo_800x.jpg?v=1704829199",
+      "image_source_page": "https://aifineguitars.com/products/ac-noises-urla"
     },
     {
       "company": "AC Noises",

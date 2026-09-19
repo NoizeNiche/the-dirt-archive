@@ -627,3 +627,11 @@ Batch 097 added 10 researched pedal records in exact order, from **BBE - Green S
 Current tracker flags: **735 researched / 276 pictured / 276 complete / 3545 incomplete / 459 researched-photo-pending**.
 
 Next exact-order target: **Black Cat Pedals - OD-Boost**.
+
+## PRP1 Batch 098
+
+Batch 098 recovered confirmed photos for **A.Y.A - Bass Fuzz** and **AC Noises - Urla** while preserving the other eight photo-pending records. Public data version: **2026-09-19-prp1-batch-098**.
+
+Current tracker flags: **735 researched / 278 pictured / 278 complete / 3543 incomplete / 457 researched-photo-pending**.
+
+Next exact-order target: **A&M Custom Effects - Crash Central - Crunch Distortion**.

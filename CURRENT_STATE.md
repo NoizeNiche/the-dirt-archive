@@ -891,3 +891,13 @@ All ten now have individual Pedal Info research records and were synchronized ac
 **Current PRP1 target:** **Black Cat Pedals - OD-Boost**.
 
 **Public data version:** 2026-09-19-prp1-batch-097.
+
+## PRP1 Batch 098 checkpoint
+
+Batch 098 was a photo-recovery pass against the exact tracker frontier. Confirmed exact-model photos were added for **A.Y.A - Bass Fuzz** (documented Bass Fuzz II listing) and **AC Noises - Urla**. The remaining eight frontier records were checked for photos but no sufficiently stable exact-model image was promoted.
+
+**Current tracker flags:** **735 researched / 278 pictured / 278 fully complete / 3543 incomplete**, with **457** researched pedals waiting only for confirmed pictures.
+
+**Current PRP1 target:** **A&M Custom Effects - Crash Central - Crunch Distortion**.
+
+**Public data version:** 2026-09-19-prp1-batch-098.
