@@ -45,6 +45,13 @@ async function recoverEntry(browser, entry) {
   const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
   try {
     await page.goto(entry.image_source_page, { waitUntil: 'domcontentloaded', timeout: 12000 });
+    // Give lazy-loaded galleries a chance to populate, then return to the
+    // top so image src/currentSrc values are materialized in the DOM.
+    await page.waitForTimeout(1200);
+    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+    await page.waitForTimeout(1200);
+    await page.evaluate(() => window.scrollTo(0, 0));
+    await page.waitForTimeout(400);
 
     const title = await page.title().catch(() => '');
     const h1 = await page.locator('h1').first().textContent().catch(() => '');
@@ -63,13 +70,25 @@ async function recoverEntry(browser, entry) {
       if (value) candidates.push(new URL(value, entry.image_source_page).href);
     }
 
-    const imageData = await page.locator('img').evaluateAll(images => images.flatMap(img => [
-      img.currentSrc || '',
-      img.src || '',
-      img.getAttribute('data-src') || '',
-      img.getAttribute('data-lazy-src') || '',
-      img.getAttribute('srcset') || '',
-    ]).filter(Boolean));
+    const imageData = await page.evaluate(() => {
+      const urls = [];
+      for (const el of document.querySelectorAll('img, source')) {
+        urls.push(
+          el.currentSrc || '',
+          el.src || '',
+          el.getAttribute('data-src') || '',
+          el.getAttribute('data-lazy-src') || '',
+          el.getAttribute('data-original') || '',
+          el.getAttribute('srcset') || ''
+        );
+      }
+      for (const el of document.querySelectorAll('[style*="background"]')) {
+        const css = getComputedStyle(el).backgroundImage || '';
+        const match = css.match(/url\(["']?([^"')]+)["']?\)/i);
+        if (match) urls.push(match[1]);
+      }
+      return urls.filter(Boolean);
+    });
     for (const raw of imageData) {
       for (const part of raw.split(/\s+/)) {
         if (/^https?:/i.test(part)) candidates.push(part);
@@ -100,7 +119,7 @@ async function recoverEntry(browser, entry) {
         const type = (response.headers()['content-type'] || '').toLowerCase();
         if (!response.ok() || !type.startsWith('image/')) continue;
         const bytes = await response.body();
-        if (bytes.length < 10000) continue;
+        if (bytes.length < 3000) continue;
         selected = candidate;
         selectedBytes = bytes;
         break;
