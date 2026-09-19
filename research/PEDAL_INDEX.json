@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-059",
+  "version": "2026-09-18-prp1-batch-060",
   "count": 3821,
   "pedals": [
     {
@@ -3132,8 +3132,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.atlaspedal.com/bracton-overdrive",
+      "research_record": "./research/pedals/Atlas Pedal/Bracton OverDrive.md"
     },
     {
       "company": "Atlas Pedal",
@@ -3142,8 +3142,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.atlaspedal.com/sutherland-overdrive",
+      "research_record": "./research/pedals/Atlas Pedal/Sutherland OverDrive.md"
     },
     {
       "company": "Atmosfera 6",
@@ -3152,8 +3152,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/84883929-atmosfera-6-belmez-occult-fuzz-device",
+      "research_record": "./research/pedals/Atmosfera 6/BELMEZ Occult Fuzz Device.md"
     },
     {
       "company": "Atmosfera 6",
@@ -3162,8 +3162,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/uk/item/84885282-atmosfera-6-belmez-witches-occult-fuzz",
+      "research_record": "./research/pedals/Atmosfera 6/BELMEZ WITCHES Occult Fuzz.md"
     },
     {
       "company": "Atmosfera 6",
@@ -3172,8 +3172,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/atmosfera6/spaceordie",
+      "research_record": "./research/pedals/Atmosfera 6/SPACE OR DIE Variable Octave Generator.md"
     },
     {
       "company": "Atmosfera 6",
@@ -3183,8 +3183,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/atmosfera6/terrorcosmico",
+      "research_record": "./research/pedals/Atmosfera 6/TERROR COSMICO.md"
     },
     {
       "company": "Atmosfera 6",
@@ -3194,8 +3194,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/87142969-atmosfera6-thulsa-doom-hyborean-fuzz-blood-red",
+      "research_record": "./research/pedals/Atmosfera 6/Thulsa Doom Hyborean Fuzz.md"
     },
     {
       "company": "Attic Audio",
@@ -3205,8 +3205,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.guitarworld.com/gear/effects-pedals/attic-audio-putty-saturation-preamp-review",
+      "research_record": "./research/pedals/Attic Audio/PUTTY Saturation Preamp.md"
     },
     {
       "company": "Audible Disease",
@@ -3215,8 +3215,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/audibledisease/fr1",
+      "research_record": "./research/pedals/Audible Disease/FR-1 Fracture.md"
     },
     {
       "company": "Audile",
@@ -3226,8 +3226,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/audile/toad/bass",
+      "research_record": "./research/pedals/Audile/Bass TOAD - Tone Overdrive And Distortion for Bass.md"
     },
     {
       "company": "Audile",

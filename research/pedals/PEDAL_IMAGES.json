@@ -2657,5 +2657,75 @@
     "source_page": "https://astraltoneworx.com/product/krampus-doom-fuzz/",
     "research_record": "./research/pedals/PRP Batch 059/Krampus - Doom Fuzz.md",
     "image_source_page": "https://astraltoneworx.com/product/krampus-doom-fuzz/"
+  },
+  {
+    "builder": "Atlas Pedal",
+    "pedal": "Bracton OverDrive",
+    "image": null,
+    "source_page": "https://www.atlaspedal.com/bracton-overdrive",
+    "research_record": "./research/pedals/Atlas Pedal/Bracton OverDrive.md"
+  },
+  {
+    "builder": "Atlas Pedal",
+    "pedal": "Sutherland OverDrive",
+    "image": null,
+    "source_page": "https://www.atlaspedal.com/sutherland-overdrive",
+    "research_record": "./research/pedals/Atlas Pedal/Sutherland OverDrive.md"
+  },
+  {
+    "builder": "Atmosfera 6",
+    "pedal": "BELMEZ Occult Fuzz Device",
+    "image": null,
+    "source_page": "https://reverb.com/item/84883929-atmosfera-6-belmez-occult-fuzz-device",
+    "research_record": "./research/pedals/Atmosfera 6/BELMEZ Occult Fuzz Device.md"
+  },
+  {
+    "builder": "Atmosfera 6",
+    "pedal": "BELMEZ WITCHES Occult Fuzz",
+    "image": null,
+    "source_page": "https://reverb.com/uk/item/84885282-atmosfera-6-belmez-witches-occult-fuzz",
+    "research_record": "./research/pedals/Atmosfera 6/BELMEZ WITCHES Occult Fuzz.md"
+  },
+  {
+    "builder": "Atmosfera 6",
+    "pedal": "SPACE OR DIE Variable Octave Generator",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/atmosfera6/spaceordie",
+    "research_record": "./research/pedals/Atmosfera 6/SPACE OR DIE Variable Octave Generator.md"
+  },
+  {
+    "builder": "Atmosfera 6",
+    "pedal": "TERROR COSMICO",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/atmosfera6/terrorcosmico",
+    "research_record": "./research/pedals/Atmosfera 6/TERROR COSMICO.md"
+  },
+  {
+    "builder": "Atmosfera 6",
+    "pedal": "Thulsa Doom Hyborean Fuzz",
+    "image": null,
+    "source_page": "https://reverb.com/item/87142969-atmosfera6-thulsa-doom-hyborean-fuzz-blood-red",
+    "research_record": "./research/pedals/Atmosfera 6/Thulsa Doom Hyborean Fuzz.md"
+  },
+  {
+    "builder": "Attic Audio",
+    "pedal": "PUTTY Saturation Preamp",
+    "image": null,
+    "source_page": "https://www.guitarworld.com/gear/effects-pedals/attic-audio-putty-saturation-preamp-review",
+    "research_record": "./research/pedals/Attic Audio/PUTTY Saturation Preamp.md"
+  },
+  {
+    "builder": "Audible Disease",
+    "pedal": "FR-1 Fracture",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/audibledisease/fr1",
+    "research_record": "./research/pedals/Audible Disease/FR-1 Fracture.md"
+  },
+  {
+    "builder": "Audile",
+    "pedal": "Bass TOAD - Tone Overdrive And Distortion for Bass",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/audile/toad/bass",
+    "research_record": "./research/pedals/Audile/Bass TOAD - Tone Overdrive And Distortion for Bass.md"
   }
 ]
