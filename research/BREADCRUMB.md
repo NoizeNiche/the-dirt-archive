@@ -567,3 +567,8 @@ All ten received individual Pedal Info research records and were synchronized wi
 **Tracker totals after Batch 077:** **3,821 total / 531 researched / 260 pictured / 260 complete / 3,561 incomplete**, with **271** researched pedals waiting only for confirmed pictures.
 
 **Next regression/research target:** **Beetronics FX - Octahive V2**.
+
+
+## Batch 077 verification repair
+
+The new live-archive verification caught a false tooling failure: **scripts/hourly-site-health.js** parsed PRP_TRACKER.csv with a raw comma split and therefore misread a legitimate quoted pedal name containing a comma. The health checker was repaired with quote-aware CSV parsing. No catalog identity was changed or removed.
