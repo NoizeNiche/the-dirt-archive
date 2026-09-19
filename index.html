@@ -229,8 +229,8 @@ main{padding:24px 0 72px}
 .grid{
   margin-top:14px;
   display:grid;
-  grid-template-columns:repeat(3,minmax(0,1fr));
-  gap:10px
+  grid-template-columns:repeat(5,minmax(0,1fr));
+  gap:9px
 }
 .card{
   display:block;
@@ -346,13 +346,19 @@ main{padding:24px 0 72px}
 .loadMore:hover{background:var(--ink);color:#fff}
 .loadMore:focus{outline:0;box-shadow:0 0 0 3px rgba(223,255,56,.25)}
 
+@media(min-width:1600px){
+  .grid{grid-template-columns:repeat(6,minmax(0,1fr))}
+}
+@media(max-width:1180px){
+  .grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+}
 @media(max-width:1000px){
   .headerRow{align-items:start;flex-direction:column}
   .headerNote{text-align:left;max-width:600px}
   .layout{grid-template-columns:1fr}
   .sidebar{position:static;max-height:none}
   .builderList{max-height:280px}
-  .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .grid{grid-template-columns:repeat(3,minmax(0,1fr))}
 }
 @media(max-width:640px){
   .wrap{width:min(100% - 20px,1480px)}
@@ -702,7 +708,7 @@ $('loadMore').onclick=()=>{
   render();
 };
 
-fetch(DATA_INDEX,{cache:'no-store'})
+fetch(DATA_INDEX,{cache:'default'})
 .then(r=>{
   if(!r.ok)throw Error(r.status);
   return r.json();
