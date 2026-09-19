@@ -930,3 +930,8 @@ All ten now have individual Pedal Info research records synchronized into **PEDA
 **Next exact-order missing-information target:** **BOSS - ML-2 Metal Core**.
 
 **Parked/non-blocking:** **A.Y.A - Bass Fuzz** remains available for later exact-photo recovery.
+
+
+## Local pedal image architecture - September 19, 2026
+
+Pedal photos are being migrated from externally hosted runtime URLs to a canonical local archive structure. Each model/version owns **assets/pedals/{builder}/{pedal}/primary.webp**; subordinate colorways/editions belong under that parent in **variants/{variant}.webp**. The catalog keeps the original source URL separately as **image_source_url** for provenance, while **image** becomes the local runtime path. Materially distinct public versions keep separate pedal directories. The durable schema is documented in **research/PEDAL_IMAGE_ARCHITECTURE.md**.
