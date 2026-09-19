@@ -35,15 +35,17 @@ PRP follows the **public catalog entries**, not every raw Builder + Pedal census
 
 ## 3. Batch size
 
-PRP is performed in batches of 10 pedals, or as many as can be responsibly completed in one pass.
+PRP is performed in practical working batches, not a fixed number of pedals.
+
+Continue through the live catalog in exact order for as many pedals as can be responsibly researched and synchronized without making the working set too large to verify safely. A batch may contain fewer than 10 pedals or substantially more than 10 pedals.
 
 Each pedal still receives its own individual research record.
 
 The normal cycle is:
 
-Research 10 -> attach/verify pictures -> update tracker -> verify entire batch -> publish -> move to next 10
+Research a manageable working set -> attach/verify pictures -> update tracker -> verify the whole working set -> publish -> continue from the next exact-order incomplete pedal.
 
-Do not stop at one pedal unless the batch genuinely cannot continue.
+Do not let one difficult pedal block later records. A photo-pending or otherwise unresolved record should be parked in its current state and the pass should continue downward in exact catalog order.
 
 ## 4. What makes a pedal complete
 
