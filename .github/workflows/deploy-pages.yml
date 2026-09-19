@@ -318,8 +318,8 @@ jobs:
             // No-research / no-photo fallback.
             await page.goto(
               'http://127.0.0.1:4173/pedal-detail.html?builder=' +
-              encodeURIComponent('Atlas Pedal') + '&pedal=' +
-              encodeURIComponent('Bracton OverDrive'),
+              encodeURIComponent('AXiom Effects') + '&pedal=' +
+              encodeURIComponent('Overdrive Preamp OP-1'),
               {waitUntil:'networkidle'}
             );
             if (!(await page.locator('#research').textContent()).includes('Pedal information has not been added yet.')) {
