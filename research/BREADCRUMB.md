@@ -484,3 +484,14 @@ Batch 067 is the latest PRP1 synchronization checkpoint. The batch covered the n
 Exact photos are attached for **Axis Guitar Effects - Skrambler, AXL - DP-1 Distortion, and Azor - AP-507 Dog Distortion Guitar Effect Pedal**. The other seven remain photo-pending and continue to use **No Photo Archived**.
 
 Actual tracker totals are **3,821 total / 431 researched / 200 pictured / 200 complete / 3,621 incomplete**, with **231** researched pedals waiting only for confirmed pictures. The next active missing-information target is **Azor - Distortion Effect Pedal**. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later photo recovery.
+
+## PRP1 batch 068 checkpoint
+
+Batch 068 processed the next 10 missing Pedal Info records in exact website/tracker order: **Azor - Distortion Effect Pedal; Azor - Fuzz Effect Pedal; Azor - Overdrive Effect Pedal; Azur - FUZZ Effect Pedal; Azur - LEON DRIVE Effect Pedal; Azur - OVERDRIVE Effect Pedal; B.C. Rich - DMD-1 Digital Metal Distortion; B.K. Butler - Tube Driver; B85 Audio - Bass Overdrive; B85 Audio - Fuzz Machine**.
+
+All ten now have individual Pedal Info research records and are synchronized into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. Exact photos were attached for **Azor - Fuzz Effect Pedal (AP-303)** and **Azor - Overdrive Effect Pedal (AP-308)**. The other eight remain photo-pending and continue to use **No Photo Archived**.
+
+The Azur records are intentionally kept under the cataloged **Azur** builder spelling. Retail evidence exists for the exact FUZZ, LEON DRIVE, and OVERDRIVE names, but the checked sources do not establish a separate factory lineage or justify silently merging them with Azor products.
+
+**Current tracker totals after Batch 068:** **3,821 total / 441 researched / 202 pictured / 202 fully complete / 3,619 incomplete**, with **239** researched pedals waiting only for a confirmed picture. The next exact-order missing-information target is **B85 Audio - Germanium Overdrive**. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later exact-photo recovery.
+

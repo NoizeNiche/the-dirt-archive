@@ -405,3 +405,14 @@ The latest durable PRP1 checkpoint is **Batch 058**. The active queue now points
 ## Current live checkpoint override - PRP1 batch 059
 
 The latest durable PRP1 checkpoint is **Batch 059**. The active queue now points to **Atlas Pedal - Bracton OverDrive**. Current tracker totals are **3,821 total / 351 researched / 192 pictured / 192 complete / 3,629 incomplete**, with **159** researched pedals waiting only for confirmed photos. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later exact-photo recovery.
+
+## PRP1 batch 068 checkpoint
+
+Batch 068 processed the next 10 missing Pedal Info records in exact website/tracker order: **Azor - Distortion Effect Pedal; Azor - Fuzz Effect Pedal; Azor - Overdrive Effect Pedal; Azur - FUZZ Effect Pedal; Azur - LEON DRIVE Effect Pedal; Azur - OVERDRIVE Effect Pedal; B.C. Rich - DMD-1 Digital Metal Distortion; B.K. Butler - Tube Driver; B85 Audio - Bass Overdrive; B85 Audio - Fuzz Machine**.
+
+All ten now have individual Pedal Info research records and are synchronized into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. Exact photos were attached for **Azor - Fuzz Effect Pedal (AP-303)** and **Azor - Overdrive Effect Pedal (AP-308)**. The other eight remain photo-pending and continue to use **No Photo Archived**.
+
+The Azur records are intentionally kept under the cataloged **Azur** builder spelling. Retail evidence exists for the exact FUZZ, LEON DRIVE, and OVERDRIVE names, but the checked sources do not establish a separate factory lineage or justify silently merging them with Azor products.
+
+**Current tracker totals after Batch 068:** **3,821 total / 441 researched / 202 pictured / 202 fully complete / 3,619 incomplete**, with **239** researched pedals waiting only for a confirmed picture. The next exact-order missing-information target is **B85 Audio - Germanium Overdrive**. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later exact-photo recovery.
+

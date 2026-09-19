@@ -3229,5 +3229,77 @@
     "source_page": "https://azorpedal.com",
     "research_record": "./research/pedals/Azor/AP-507 Dog Distortion Guitar Effect Pedal.md",
     "image_source_page": "https://azorpedal.com"
+  },
+  {
+    "builder": "Azor",
+    "pedal": "Distortion Effect Pedal",
+    "image": null,
+    "source_page": "https://azorpedal.com",
+    "research_record": "./research/pedals/Azor/Distortion Effect Pedal.md"
+  },
+  {
+    "builder": "Azor",
+    "pedal": "Fuzz Effect Pedal",
+    "image": "https://cdn.shopifycdn.net/s/files/1/0269/4633/8890/files/AP-303_1024x1024.jpg?v=1639444140",
+    "source_page": "https://azorpedal.com/products/azor-ap-303-fuzz-mini-guitar-effect-pedal-aluminium-alloy",
+    "research_record": "./research/pedals/Azor/Fuzz Effect Pedal.md",
+    "image_source_page": "https://azorpedal.com/products/azor-ap-303-fuzz-mini-guitar-effect-pedal-aluminium-alloy"
+  },
+  {
+    "builder": "Azor",
+    "pedal": "Overdrive Effect Pedal",
+    "image": "https://cdn.shopifycdn.net/s/files/1/0269/4633/8890/files/AP-308_1024x1024.jpg?v=1639444659",
+    "source_page": "https://azorpedal.com/products/azor-ap-308-classical-overdrive-guitar-effect-pedal-true-bypass-blue",
+    "research_record": "./research/pedals/Azor/Overdrive Effect Pedal.md",
+    "image_source_page": "https://azorpedal.com/products/azor-ap-308-classical-overdrive-guitar-effect-pedal-true-bypass-blue"
+  },
+  {
+    "builder": "Azur",
+    "pedal": "FUZZ Effect Pedal",
+    "image": null,
+    "source_page": "https://www.guitarcenter.com/Used/Azur/Used-Azur-FUZZ-Effect-Pedal-122302829.gc",
+    "research_record": "./research/pedals/Azur/FUZZ Effect Pedal.md"
+  },
+  {
+    "builder": "Azur",
+    "pedal": "LEON DRIVE Effect Pedal",
+    "image": null,
+    "source_page": "https://www.guitarcenter.com/Azur/",
+    "research_record": "./research/pedals/Azur/LEON DRIVE Effect Pedal.md"
+  },
+  {
+    "builder": "Azur",
+    "pedal": "OVERDRIVE Effect Pedal",
+    "image": null,
+    "source_page": "https://www.guitarcenter.com/Used/Azur/Used-Azur-OVERDRIVE-Effect-Pedal-122721837.gc",
+    "research_record": "./research/pedals/Azur/OVERDRIVE Effect Pedal.md"
+  },
+  {
+    "builder": "B.C. Rich",
+    "pedal": "DMD-1 Digital Metal Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bcrich/dmd1",
+    "research_record": "./research/pedals/B.C. Rich/DMD-1 Digital Metal Distortion.md"
+  },
+  {
+    "builder": "B.K. Butler",
+    "pedal": "Tube Driver",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/butler/tubedriver",
+    "research_record": "./research/pedals/B.K. Butler/Tube Driver.md"
+  },
+  {
+    "builder": "B85 Audio",
+    "pedal": "Bass Overdrive",
+    "image": null,
+    "source_page": "https://www.b85audio.cz/bass-overdrive/",
+    "research_record": "./research/pedals/B85 Audio/Bass Overdrive.md"
+  },
+  {
+    "builder": "B85 Audio",
+    "pedal": "Fuzz Machine",
+    "image": null,
+    "source_page": "https://www.b85audio.cz/fuzz-machine/",
+    "research_record": "./research/pedals/B85 Audio/Fuzz Machine.md"
   }
 ]

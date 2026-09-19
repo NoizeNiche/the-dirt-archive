@@ -387,16 +387,16 @@ AXL,TOD-9 Tube Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/AXL/TOD-
 Axtar,DIS-5 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Axtar/DIS-5 Distortion.md
 Azor,AP-302 Distortion Guitar Effect Pedal,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Azor/AP-302 Distortion Guitar Effect Pedal.md
 Azor,AP-507 Dog Distortion Guitar Effect Pedal,Distortion,DONE,DONE,DONE,./research/pedals/Azor/AP-507 Dog Distortion Guitar Effect Pedal.md
-Azor,Distortion Effect Pedal,Distortion,NEEDED,NEEDED,NEEDED,
-Azor,Fuzz Effect Pedal,Fuzz,NEEDED,NEEDED,NEEDED,
-Azor,Overdrive Effect Pedal,Overdrive,NEEDED,NEEDED,NEEDED,
-Azur,FUZZ Effect Pedal,Fuzz,NEEDED,NEEDED,NEEDED,
-Azur,LEON DRIVE Effect Pedal,Overdrive,NEEDED,NEEDED,NEEDED,
-Azur,OVERDRIVE Effect Pedal,Overdrive,NEEDED,NEEDED,NEEDED,
-B.C. Rich,DMD-1 Digital Metal Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-B.K. Butler,Tube Driver,Overdrive,NEEDED,NEEDED,NEEDED,
-B85 Audio,Bass Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-B85 Audio,Fuzz Machine,Fuzz,NEEDED,NEEDED,NEEDED,
+Azor,Distortion Effect Pedal,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Azor/Distortion Effect Pedal.md
+Azor,Fuzz Effect Pedal,Fuzz,DONE,DONE,DONE,./research/pedals/Azor/Fuzz Effect Pedal.md
+Azor,Overdrive Effect Pedal,Overdrive,DONE,DONE,DONE,./research/pedals/Azor/Overdrive Effect Pedal.md
+Azur,FUZZ Effect Pedal,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Azur/FUZZ Effect Pedal.md
+Azur,LEON DRIVE Effect Pedal,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Azur/LEON DRIVE Effect Pedal.md
+Azur,OVERDRIVE Effect Pedal,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Azur/OVERDRIVE Effect Pedal.md
+B.C. Rich,DMD-1 Digital Metal Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/B.C. Rich/DMD-1 Digital Metal Distortion.md
+B.K. Butler,Tube Driver,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/B.K. Butler/Tube Driver.md
+B85 Audio,Bass Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/B85 Audio/Bass Overdrive.md
+B85 Audio,Fuzz Machine,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/B85 Audio/Fuzz Machine.md
 B85 Audio,Germanium Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
 B85 Audio,Germanium Overdrive Deluxe,Overdrive,NEEDED,NEEDED,NEEDED,
 B85 Audio,Gut Ripper,Distortion,NEEDED,NEEDED,NEEDED,
