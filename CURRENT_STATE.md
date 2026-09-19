@@ -543,3 +543,16 @@ All ten now have individual Pedal Info research records synchronized into PEDAL_
 **Next exact-order unresolved target:** **Arcane Analog - BC108 Fuzz Face**.
 
 **Parked/non-blocking:** **A.Y.A - Bass Fuzz** remains picture-pending and parked for later recovery.
+
+
+## PRP1 batch 058 checkpoint
+
+Batch 058 processed the next ten PRP1 records in exact website order: **Arcane Analog - ARCANE ANALOG FF66 FUZZ FACE**, **BC108 Fuzz Face**, **BUZZAROUND OC45 / OC45 / OC43**, **BUZZSAW**, **Facebender / Rangbender**, **NKT775 WHITE FUZZ FACE**, **OC42 MK1.5 Tonebender**, **Overdrive Overload**, **TONE BENDERS (MK1 // MK1.5 // MK2 // MK3 // MK4)**, and **Artisanal Effects - Artisanal Cheese (Big Cheese)**.
+
+All ten now have individual Pedal Info research records synchronized into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. Exact-model images were promoted for **ARCANE ANALOG FF66 FUZZ FACE**, **BUZZAROUND OC45 / OC45 / OC43**, **BUZZSAW**, **Facebender / Rangbender**, **NKT775 WHITE FUZZ FACE**, **OC42 MK1.5 Tonebender**, and **Artisanal Cheese (Big Cheese)**. **BC108 Fuzz Face**, **Overdrive Overload**, and the combined **TONE BENDERS** family remain photo-pending because no single stable exact-model asset met the archive rule for those catalog identities.
+
+**Live tracker counts:** 3821 total / 344 researched / 185 pictured / 185 complete / 3636 incomplete, with **159** researched pedals waiting only for confirmed photos.
+
+**Next exact-order unresolved target:** **Arcane Analog - BC108 Fuzz Face**.
+
+**Parked/non-blocking:** **A.Y.A - Bass Fuzz** remains picture-pending and parked for later recovery.
