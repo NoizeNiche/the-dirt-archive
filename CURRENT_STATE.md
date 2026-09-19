@@ -776,3 +776,14 @@ Current tracker checkpoint:
 - Current PRP1 target: **Big Game Pedals - Nothing Is Dead Fuzz**
 
 The public catalog data is synchronized through **PRP1 batch 081**. The deployment browser audit should use the next still-unresearched tracker record as its no-research regression target.
+
+
+## PRP1 mission reminder and batch 082 checkpoint
+
+**Mission:** systematically work through the authoritative pedal universe in exact builder/pedal order, researching and populating the archive's pedal records while preserving the site's UI/behavior and keeping the research records, pedal index, photo manifest, tracker, and deployed site synchronized. PRP1 is not a one-pedal-at-a-time crawl: process multiple exact-order records per batch, scrape as much reliable information as possible from primary and strong secondary sources, commit the batch, verify the commit/deployment, then continue. Do not invent technical details or force questionable photos into the archive. The governing archive order remains **Builder → Pedals → Photos → Information on the pedal**; the PRP1 pass is currently focused on efficiently filling the pedal-information layer and then resolving photos.
+
+**Batch 082 completed:** 10 additional pedals researched and synchronized: Big Game Pedals - Nothing Is Dead Fuzz; Big Game Pedals - Solace State; Big Joe Stomp Box Company - B-301 Tube; B-309 Texas Screamer; B-502 Empire; R-402 Classic; R-403 Vintage; R-404 Vintage II; Big John Effects - Dirty Sandwich; Big John Effects - Granny Puker.
+
+**Running PRP1 count:** 581 pedals now have research records, 277 have confirmed photos, and 277 are fully complete. **304 are researched/photo-pending. 3,544 remain incomplete.** Total catalog remains 3,821. Batch 082 adds 10 researched records to the running count.
+
+**Next exact-order target:** Big John Effects - Hairy Balls, followed by the remaining Big John Effects records.
