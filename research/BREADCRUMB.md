@@ -360,3 +360,7 @@ Batch 048 processed the next three incomplete records in exact website order: **
 - Incomplete: 3654
 - Researched but photo-pending: 100
 - Next exact-order incomplete target: **Amsterdam Cream - Big Eye Fuzz**
+
+## PRP1 batch 049 checkpoint
+
+Batch 049 processed the next ten incomplete records in exact website order: **Amsterdam Cream - Big Eye Fuzz**, **Original Distortion**, **Plain Drive**, then **AMT Electronics - B-1 BG-Sharp**, **BS British Sound**, **CS California Sound**, **DM-3 DistMachine**, **M-1 JM-800**, **R-1 Rectifier**, and **Rammstein RD Distortion Combo Emulator**. All ten received individual research records and were connected to PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. No exact photo was safely confirmed for these models, so all ten remain photo-pending. The next exact-order incomplete target is **AMT Electronics - S-1**.
