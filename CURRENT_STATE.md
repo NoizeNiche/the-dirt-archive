@@ -917,3 +917,16 @@ All ten are now linked across **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and *
 **Current PRP1 target:** **Blackhawk Amplifiers - Balrog Distortion MKII**.
 
 **Public data version:** 2026-09-19-prp1-batch-099.
+
+
+## PRP1 Batch 110 checkpoint
+
+Batch 110 completed the next ten missing Pedal Info records in exact tracker order: **BOSS - BD-2W Blues Driver; DS-1 Distortion; DS-1W Distortion; DS-1X Distortion; DS-2 TURBO Distortion; FZ-1W Fuzz; FZ-5 Fuzz; HM-2W Heavy Metal; JB-2 Angry Driver; and MD-2 Mega Distortion**.
+
+All ten now have individual Pedal Info research records synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Exact photos were archived for **BD-2W, DS-1, DS-1W, DS-1X, FZ-1W, HM-2W, and MD-2**. **DS-2, FZ-5, and JB-2** remain **Picture: NEEDED / PRP Complete: NEEDED** because no stable direct exact-model image asset was promoted in this pass.
+
+**Tracker totals after Batch 110:** **3,821 total / 855 researched / 285 pictured / 285 fully complete / 3,536 incomplete**, with **570 researched pedals waiting only for a confirmed picture**.
+
+**Next exact-order missing-information target:** **BOSS - ML-2 Metal Core**.
+
+**Parked/non-blocking:** **A.Y.A - Bass Fuzz** remains available for later exact-photo recovery.
