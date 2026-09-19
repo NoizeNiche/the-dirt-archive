@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '17 6 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -22,6 +25,17 @@ jobs:
 
       - name: Install image tooling
         run: python -m pip install --disable-pip-version-check pillow
+
+      - name: Install browser tooling
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+
+      - name: Recover verified page images
+        env:
+          PHOTO_BROWSER_CACHE_LIMIT: "24"
+          PHOTO_BROWSER_CACHE_CONCURRENCY: "3"
+        run: node scripts/browser-photo-cache.mjs
 
       - name: Download and cache verified pedal images
         env:
