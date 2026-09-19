@@ -693,3 +693,8 @@ Current tracker checkpoint:
 - Current PRP1 target: **Beetronics FX - Octahive V2**
 
 The site's public data-version markers are now **2026-09-19-prp1-batch-077**. The deployment browser audit's no-research fallback is now **Beetronics FX - Octahive V2**, which remains unresearched in the tracker.
+
+
+## PRP1 / hourly health-check repair - batch 077 follow-up
+
+The live-archive verification for the Batch 077 checkpoint exposed a false failure in **scripts/hourly-site-health.js**. The checker was splitting PRP_TRACKER.csv with a plain comma split, so legitimate quoted pedal names containing commas could not match their catalog identities. The checker now uses a quote-aware CSV line parser. This is a tooling fix only; no pedal catalog identity was removed or renamed.
