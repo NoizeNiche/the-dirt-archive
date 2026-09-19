@@ -1,12 +1,6 @@
 name: Cache pedal images
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'research/PEDAL_INDEX.json'
-      - 'research/pedals/PEDAL_IMAGES.json'
-      - '.github/workflows/cache-pedal-images.yml'
   schedule:
     - cron: '17 6 * * *'
   workflow_dispatch:
