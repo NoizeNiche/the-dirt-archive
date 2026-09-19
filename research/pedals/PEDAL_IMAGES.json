@@ -6236,5 +6236,75 @@
     "image": null,
     "source_page": "https://reverb.com/item/3338487-bondi-effects-sick-as-overdrive-mk2",
     "research_record": "./research/pedals/PRP Batch 107/Sick As Overdrive mk2.md"
+  },
+  {
+    "builder": "Boo Instruments",
+    "pedal": "BOO Overdrive",
+    "image": null,
+    "source_page": "https://booinstruments.com/guitar-effects/distortion-overdrive-pedal-pro-guitar/",
+    "research_record": "./research/pedals/PRP Batch 108/BOO Overdrive.md"
+  },
+  {
+    "builder": "Boo Instruments",
+    "pedal": "KC Klon Centaur",
+    "image": null,
+    "source_page": "https://booinstruments.com/guitar-effects/kc-klon-centaur/",
+    "research_record": "./research/pedals/PRP Batch 108/KC Klon Centaur.md"
+  },
+  {
+    "builder": "Boo Instruments",
+    "pedal": "TS808 Overdrive (TS O/D)",
+    "image": null,
+    "source_page": "https://booinstruments.com/ts808-row-landing/",
+    "research_record": "./research/pedals/PRP Batch 108/TS808 Overdrive TS OD.md"
+  },
+  {
+    "builder": "Bookworm Effects",
+    "pedal": "BigWig Bass Driver",
+    "image": null,
+    "source_page": "https://www.youtube.com/watch?v=M7_AbjGdUiU",
+    "research_record": "./research/pedals/PRP Batch 108/BigWig Bass Driver.md"
+  },
+  {
+    "builder": "Boorocks",
+    "pedal": "DUSH Distortion DS-1",
+    "image": null,
+    "source_page": "https://www.soundhouse.co.jp/products/detail/item/175628/",
+    "research_record": "./research/pedals/PRP Batch 108/DUSH Distortion DS-1.md"
+  },
+  {
+    "builder": "Boorocks",
+    "pedal": "KUMI Distortion AK-1",
+    "image": null,
+    "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/175627/",
+    "research_record": "./research/pedals/PRP Batch 108/KUMI Distortion AK-1.md"
+  },
+  {
+    "builder": "Boorocks",
+    "pedal": "LEON Multi-Driver MD-1",
+    "image": null,
+    "source_page": "https://manualzilla.com/doc/6597212/leon-multi-driver-md-1",
+    "research_record": "./research/pedals/PRP Batch 108/LEON Multi-Driver MD-1.md"
+  },
+  {
+    "builder": "Boorocks",
+    "pedal": "ZEAL Fuzz FZ-1",
+    "image": null,
+    "source_page": "https://www.mh-friends.com/shop/index.cgi?No=721750",
+    "research_record": "./research/pedals/PRP Batch 108/ZEAL Fuzz FZ-1.md"
+  },
+  {
+    "builder": "Boot-Leg Hand Made Effects",
+    "pedal": "BLN-1.0 Blues#Nine",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bootleg/bln10",
+    "research_record": "./research/pedals/PRP Batch 108/BLN-1.0 Blues Nine.md"
+  },
+  {
+    "builder": "Boot-Leg Hand Made Effects",
+    "pedal": "HZM-1.0 Hizumi",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bootleg/hzm10",
+    "research_record": "./research/pedals/PRP Batch 108/HZM-1.0 Hizumi.md"
   }
 ]
