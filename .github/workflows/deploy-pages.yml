@@ -4,6 +4,8 @@ name: Deploy The Dirt Archive
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -11,12 +13,9 @@ permissions:
   pages: write
   id-token: write
 
-
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  validate:
+    name: Validate site
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -133,6 +132,7 @@ jobs:
           assert "No Photo Archived" in home and "No Photo Archived" in detail, "No Photo Archived fallback is missing"
           assert "PEDAL_INDEX.json" in home and "PEDAL_INDEX.json" in detail, "Catalog data source missing from site"
           assert "item.research_record" in detail, "Pedal detail research binding is missing"
+          assert r"variationSearchText.get(x.company+'\u0000'+x.pedal)" in home, "Variation search fixed key is missing"
           assert r"variationSearchText.get(x.company+'\\u0000'+x.pedal)" not in home, "Variation search null-key bug remains"
           assert "playwright" in workflow_text.lower(), "Browser audit is missing from deployment workflow"
 
@@ -181,28 +181,6 @@ jobs:
               x => x.research_record && x.catalog_role !== 'variation'
             );
 
-            // Every cataloged image URL must still resolve as an image before deployment.
-            const picturedEntries = (catalog.pedals || []).filter(x => x.image);
-            let cursor = 0;
-            const imageFailures = [];
-            async function checkImageUrls() {
-              while (cursor < picturedEntries.length) {
-                const entry = picturedEntries[cursor++];
-                try {
-                  const res = await page.request.get(entry.image, {timeout:10000});
-                  const contentType = (res.headers()['content-type'] || '').toLowerCase();
-                  if (!res.ok() || !contentType.startsWith('image/')) {
-                    imageFailures.push(entry.company + ' / ' + entry.pedal + ' -> ' + res.status() + ' ' + contentType);
-                  }
-                } catch (err) {
-                  imageFailures.push(entry.company + ' / ' + entry.pedal + ' -> ' + err.message);
-                }
-              }
-            }
-            await Promise.all(Array.from({length:8}, () => checkImageUrls()));
-            if (imageFailures.length) throw new Error('Pictured image URL failures: ' + imageFailures.join(' | '));
-            console.log('Verified', picturedEntries.length, 'pictured catalog image URLs.');
-
             // Landing page: catalog window, core controls, and link structure.
             await page.goto('http://127.0.0.1:4173/index.html', {waitUntil:'networkidle'});
             const initialCardCount = await page.locator('#grid .card').count();
@@ -248,7 +226,7 @@ jobs:
             }
 
             // Combined URL facets must work together.
-            await page.goto('http://127.0.0.1:4173/index.html?type=Fuzz&builder=Artisanal%20Effects&q=cheese', {waitUntil:'networkidle'});
+            await page.goto('http://127.0.0.1:4173/index.html?type=Fuzz&builder=Artisanal%20Effects&q=cheddar', {waitUntil:'networkidle'});
             const combinedTexts = await page.locator('#grid .card').allTextContents();
             if (!combinedTexts.some(x => /Cheddar Source/i.test(x))) {
               throw new Error('Combined type + builder + search filters did not return Cheddar Source.');
@@ -346,6 +324,7 @@ jobs:
             // Every researched parent pedal still needs a readable detail page.
             await page.setViewportSize({width:1440,height:1000});
             console.log('Auditing', researchedParents.length, 'researched parent pedal pages.');
+            const photoFailures = [];
             for (const entry of researchedParents) {
               const url =
                 'http://127.0.0.1:4173/pedal-detail.html?builder=' +
@@ -379,12 +358,36 @@ jobs:
               if (result.text.length <= 40) throw new Error('Pedal Info is unexpectedly short: ' + entry.company + ' / ' + entry.pedal);
               if (result.width < 200 || result.height < 40) throw new Error('Pedal Info container collapsed: ' + entry.company + ' / ' + entry.pedal);
 
+              await page.waitForFunction(() => {
+                const imgs = [...document.querySelectorAll('#photoBox img, #colorways img')];
+                return imgs.every(img => img.complete);
+              }, null, {timeout:10000});
+
+              const photoResult = await page.evaluate(() => {
+                const main = document.querySelector('#photoBox img');
+                const colorwayImages = [...document.querySelectorAll('#colorways img')];
+                return {
+                  mainLoaded: !!main && !main.hidden && main.complete && main.naturalWidth > 0,
+                  colorwayFailures: colorwayImages.filter(img => !img.complete || img.naturalWidth <= 0).length
+                };
+              });
+              if (entry.image && !photoResult.mainLoaded) {
+                photoFailures.push('Main photo: ' + entry.company + ' / ' + entry.pedal);
+              }
+              if (photoResult.colorwayFailures) {
+                photoFailures.push('Colorway photos (' + photoResult.colorwayFailures + '): ' + entry.company + ' / ' + entry.pedal);
+              }
+
               const fg = luminance(rgb(result.color));
               const bg = luminance(rgb(result.background));
               const contrast = (Math.max(fg,bg)+0.05)/(Math.min(fg,bg)+0.05);
               if (contrast < 4.5) {
                 throw new Error('Pedal Info text/background contrast is below threshold for ' + entry.company + ' / ' + entry.pedal + ': ' + contrast.toFixed(2));
               }
+            }
+
+            if (photoFailures.length) {
+              throw new Error('Browser photo rendering failures:\n' + photoFailures.join('\n'));
             }
 
             if (consoleErrors.length) throw new Error('Browser console errors: ' + consoleErrors.join(' | '));
@@ -397,6 +400,18 @@ jobs:
             process.exit(1);
           });
           JS
+
+  deploy:
+    name: Deploy Pages
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: validate
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Upload site
         uses: actions/upload-pages-artifact@v4

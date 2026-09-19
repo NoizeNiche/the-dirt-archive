@@ -39,3 +39,7 @@ LVL is voiced for light, controlled breakup and works especially well as a stage
 ## Sources checked
 1. 1981 Inventions — LVL / Forget LVL information: https://1981inventions.com/products/forget-lvl
 2. Effects Database — LVL: https://www.effectsdatabase.com/model/1981inventions/lvl
+## Photo
+- **Archive status:** **Exact Photo Archived**
+- **Image source:** Musicland KEY product photograph of the standard 1981 Inventions LVL.
+- **Source page:** https://www.musicland.co.jp/fs/musiclandkey/1981inv-lvl
