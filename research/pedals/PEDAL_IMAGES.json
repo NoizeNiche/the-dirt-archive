@@ -2593,5 +2593,61 @@
     "source_page": "https://artisanaleffects.com/products/artisanal-cheese-big-cheese",
     "research_record": "./research/pedals/PRP Batch 058/Artisanal Cheese (Big Cheese).md",
     "image_source_page": "https://artisanaleffects.com/products/artisanal-cheese-big-cheese"
+  },
+  {
+    "builder": "Artisanal Effects",
+    "pedal": "Cheddar Source",
+    "image": "https://artisanaleffects.com/cdn/shop/files/PhotoRoom_000_20231026_092448.jpg?v=1698330597&width=1946",
+    "source_page": "https://artisanaleffects.com/products/cheddar-source-cheese-source-tm-replica",
+    "research_record": "./research/pedals/PRP Batch 059/Cheddar Source.md",
+    "image_source_page": "https://artisanaleffects.com/products/cheddar-source-cheese-source-tm-replica"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "John Myung Double Drive",
+    "image": "https://ashdownmusic.com/cdn/shop/products/JMDoubleDriveFrontWEB.jpg?v=1628002635&width=1500",
+    "source_page": "https://ashdownmusic.com/collections/signature-series/products/john-myung-double-drive-pedal",
+    "research_record": "./research/pedals/PRP Batch 059/John Myung Double Drive.md",
+    "image_source_page": "https://ashdownmusic.com/collections/signature-series/products/john-myung-double-drive-pedal"
+  },
+  {
+    "builder": "Asheville Guitar Pedals",
+    "pedal": "Fuzz Driver Distortion",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/ashevillegp_fuzzdriver_001.jpg",
+    "source_page": "https://www.effectsdatabase.com/model/ashevillegp/fuzzdriver",
+    "research_record": "./research/pedals/PRP Batch 059/Fuzz Driver Distortion.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/ashevillegp/fuzzdriver"
+  },
+  {
+    "builder": "Asheville Guitar Pedals",
+    "pedal": "Purr Machine Mini Fuzz Overdriver",
+    "image": "https://rvb-img.reverb.com/i/s--oiUsZm4Y--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kh1kb9chvjin9p3ov8d3.jpg",
+    "source_page": "https://reverb.com/item/85723050-1-of-10-purr-minis-hand-made-asheville-guitar-pedals-purr-machine-mini-2024",
+    "research_record": "./research/pedals/PRP Batch 059/Purr Machine Mini Fuzz Overdriver.md",
+    "image_source_page": "https://reverb.com/item/85723050-1-of-10-purr-minis-hand-made-asheville-guitar-pedals-purr-machine-mini-2024"
+  },
+  {
+    "builder": "Asheville Guitar Pedals",
+    "pedal": "Rat King",
+    "image": "https://rvb-img.reverb.com/i/s--R9Ok8B28--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/a7bc35c8-94df-4de1-852a-00e1225e5486.jpg",
+    "source_page": "https://reverb.com/item/96732158-asheville-guitar-pedals-rat-king-2025-white",
+    "research_record": "./research/pedals/PRP Batch 059/Rat King.md",
+    "image_source_page": "https://reverb.com/item/96732158-asheville-guitar-pedals-rat-king-2025-white"
+  },
+  {
+    "builder": "Astral ToneWorx",
+    "pedal": "666 The Beast",
+    "image": "https://astraltoneworx.com/wp-content/uploads/2025/08/20220605_141225_4ee39841-dc87-4925-8871-65c434781a37.jpg",
+    "source_page": "https://astraltoneworx.com/product/666-the-beast-high-gain-distortion/",
+    "research_record": "./research/pedals/PRP Batch 059/666 The Beast.md",
+    "image_source_page": "https://astraltoneworx.com/product/666-the-beast-high-gain-distortion/"
+  },
+  {
+    "builder": "Astral ToneWorx",
+    "pedal": "Krampus — Doom Fuzz",
+    "image": "https://astraltoneworx.com/wp-content/uploads/2025/08/20190615_215401-scaled.jpg",
+    "source_page": "https://astraltoneworx.com/product/krampus-doom-fuzz/",
+    "research_record": "./research/pedals/PRP Batch 059/Krampus - Doom Fuzz.md",
+    "image_source_page": "https://astraltoneworx.com/product/krampus-doom-fuzz/"
   }
 ]
