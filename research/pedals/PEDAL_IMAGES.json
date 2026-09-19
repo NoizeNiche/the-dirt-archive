@@ -6026,5 +6026,75 @@
     "image": null,
     "source_page": "https://www.blammoelectronics.com/product-page/buzzaround",
     "research_record": "./research/pedals/PRP Batch 104/Buzzaround.md"
+  },
+  {
+    "builder": "BLAMMO! Electronics",
+    "pedal": "Deth Pedal",
+    "image": null,
+    "source_page": "https://www.blammoelectronics.com/product-page/deth-pedal",
+    "research_record": "./research/pedals/PRP Batch 105/Deth Pedal.md"
+  },
+  {
+    "builder": "BLAMMO! Electronics",
+    "pedal": "Fuzz Detonator",
+    "image": null,
+    "source_page": "https://www.blammoelectronics.com/product-page/fuzz-detonator",
+    "research_record": "./research/pedals/PRP Batch 105/Fuzz Detonator.md"
+  },
+  {
+    "builder": "BLAMMO! Electronics",
+    "pedal": "L.A. Square Face",
+    "image": null,
+    "source_page": "https://reverb.com/item/81060477-blammo-electronics-la-square-face-fuzz-hybrid-germanium-silicon",
+    "research_record": "./research/pedals/PRP Batch 105/L.A. Square Face.md"
+  },
+  {
+    "builder": "BLAMMO! Electronics",
+    "pedal": "Payola Drive",
+    "image": null,
+    "source_page": "https://www.blammoelectronics.com/product-page/payola-drive",
+    "research_record": "./research/pedals/PRP Batch 105/Payola Drive.md"
+  },
+  {
+    "builder": "BLAMMO! Electronics",
+    "pedal": "Skrambler",
+    "image": null,
+    "source_page": "https://www.blammoelectronics.com/product-page/skrambler",
+    "research_record": "./research/pedals/PRP Batch 105/Skrambler.md"
+  },
+  {
+    "builder": "BLAMMO! Electronics",
+    "pedal": "SLOB",
+    "image": null,
+    "source_page": "https://www.blammoelectronics.com/product-page/the-slob",
+    "research_record": "./research/pedals/PRP Batch 105/SLOB.md"
+  },
+  {
+    "builder": "BLAMMO! Electronics",
+    "pedal": "TNYDUMBLE",
+    "image": null,
+    "source_page": "https://www.blammoelectronics.com/product-page/tnydumble",
+    "research_record": "./research/pedals/PRP Batch 105/TNYDUMBLE.md"
+  },
+  {
+    "builder": "BMF Effects",
+    "pedal": "Marc F'N Ford Overdrive/Boost",
+    "image": null,
+    "source_page": "https://www.bmfeffects.com/products/marc-fn-ford-overdrive-boost",
+    "research_record": "./research/pedals/PRP Batch 105/Marc F'N Ford Overdrive Boost.md"
+  },
+  {
+    "builder": "BMF Effects",
+    "pedal": "Purple Nurple Overdrive",
+    "image": null,
+    "source_page": "https://www.bmfeffects.com/products/purple-nurple-overdrive",
+    "research_record": "./research/pedals/PRP Batch 105/Purple Nurple Overdrive.md"
+  },
+  {
+    "builder": "BMF Effects",
+    "pedal": "Rocket 88 Overdrive",
+    "image": null,
+    "source_page": "https://reverb.com/item/76398570-bmf-effects-rocket-88-overdrive",
+    "research_record": "./research/pedals/PRP Batch 105/Rocket 88 Overdrive.md"
   }
 ]
