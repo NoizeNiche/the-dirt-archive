@@ -34,6 +34,7 @@ jobs:
           python - <<'PY'
           import csv
           import json
+          import os
           import re
           from pathlib import Path
 
@@ -171,11 +172,11 @@ jobs:
               print(f"Photo cache pending for {len(external)} pictured entries; waiting for the local cache commit.")
               for item in external[:12]:
                   print(f" - {item}")
-              with open("$GITHUB_OUTPUT", "a", encoding="utf-8") as handle:
+              with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
                   handle.write("ready=false\n")
           else:
               print("All pictured catalog images are local.")
-              with open("$GITHUB_OUTPUT", "a", encoding="utf-8") as handle:
+              with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
                   handle.write("ready=true\n")
           PY
 
