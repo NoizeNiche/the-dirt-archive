@@ -3009,5 +3009,75 @@
     "image": null,
     "source_page": "https://auxiliaryworkshop.com/",
     "research_record": "./research/pedals/Auxiliary Workshop/The Devils Handshake.md"
+  },
+  {
+    "builder": "AVIA",
+    "pedal": "SD-2 Super Over Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/avia/sd2",
+    "research_record": "./research/pedals/AVIA/SD-2 Super Over Drive.md"
+  },
+  {
+    "builder": "Avora",
+    "pedal": "FY-6 Super Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/avora/fy6",
+    "research_record": "./research/pedals/Avora/FY-6 Super Fuzz.md"
+  },
+  {
+    "builder": "Award-Session",
+    "pedal": "JD10 Compact Jerry Donahue Sessionmaster",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/awardsession/jd10",
+    "research_record": "./research/pedals/Award-Session/JD10 Compact Jerry Donahue Sessionmaster.md"
+  },
+  {
+    "builder": "Award-Session",
+    "pedal": "JD10 MkII Direct Recording Guitar Amp Emulator",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/awardsession/jd10/mk2",
+    "research_record": "./research/pedals/Award-Session/JD10 MkII Direct Recording Guitar Amp Emulator.md"
+  },
+  {
+    "builder": "Award-Session",
+    "pedal": "JD20 Jerry Donahue Twin Channel Direct Recording Guitar PreAmp And Overdrive/Distortion Pedal",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/awardsession/jd20",
+    "research_record": "./research/pedals/Award-Session/JD20 Jerry Donahue Twin Channel Direct Recording Guitar PreAmp And Overdrive/Distortion Pedal.md"
+  },
+  {
+    "builder": "Award-Session",
+    "pedal": "SP75 Sessionette:75 Guitar Amp Sound",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/awardsession/sp75",
+    "research_record": "./research/pedals/Award-Session/SP75 Sessionette:75 Guitar Amp Sound.md"
+  },
+  {
+    "builder": "Awestruck Amplification",
+    "pedal": "Highland",
+    "image": null,
+    "source_page": "https://www.awestruckamps.com/product/highland/",
+    "research_record": "./research/pedals/Awestruck Amplification/Highland.md"
+  },
+  {
+    "builder": "Awestruck Amplification",
+    "pedal": "Metro",
+    "image": null,
+    "source_page": "https://www.awestruckamps.com/product/metro-organic-overdrive/",
+    "research_record": "./research/pedals/Awestruck Amplification/Metro.md"
+  },
+  {
+    "builder": "AWOL Pedals",
+    "pedal": "Virus Fuzz",
+    "image": null,
+    "source_page": "https://awolpedals.com/products/virus-fuzz",
+    "research_record": "./research/pedals/AWOL Pedals/Virus Fuzz.md"
+  },
+  {
+    "builder": "Axcess by Giannini",
+    "pedal": "BD-108 Blues Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/bd108",
+    "research_record": "./research/pedals/Axcess by Giannini/BD-108 Blues Drive.md"
   }
 ]

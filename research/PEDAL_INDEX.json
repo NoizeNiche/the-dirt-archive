@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-064",
+  "version": "2026-09-18-prp1-batch-065",
   "count": 3821,
   "pedals": [
     {
@@ -3694,8 +3694,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/avia/sd2",
+      "research_record": "./research/pedals/AVIA/SD-2 Super Over Drive.md"
     },
     {
       "company": "Avora",
@@ -3704,8 +3704,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/avora/fy6",
+      "research_record": "./research/pedals/Avora/FY-6 Super Fuzz.md"
     },
     {
       "company": "Award-Session",
@@ -3714,8 +3714,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/awardsession/jd10",
+      "research_record": "./research/pedals/Award-Session/JD10 Compact Jerry Donahue Sessionmaster.md"
     },
     {
       "company": "Award-Session",
@@ -3725,8 +3725,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/awardsession/jd10/mk2",
+      "research_record": "./research/pedals/Award-Session/JD10 MkII Direct Recording Guitar Amp Emulator.md"
     },
     {
       "company": "Award-Session",
@@ -3736,8 +3736,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/awardsession/jd20",
+      "research_record": "./research/pedals/Award-Session/JD20 Jerry Donahue Twin Channel Direct Recording Guitar PreAmp And Overdrive/Distortion Pedal.md"
     },
     {
       "company": "Award-Session",
@@ -3747,8 +3747,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/awardsession/sp75",
+      "research_record": "./research/pedals/Award-Session/SP75 Sessionette:75 Guitar Amp Sound.md"
     },
     {
       "company": "Awestruck Amplification",
@@ -3757,8 +3757,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.awestruckamps.com/product/highland/",
+      "research_record": "./research/pedals/Awestruck Amplification/Highland.md"
     },
     {
       "company": "Awestruck Amplification",
@@ -3767,8 +3767,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.awestruckamps.com/product/metro-organic-overdrive/",
+      "research_record": "./research/pedals/Awestruck Amplification/Metro.md"
     },
     {
       "company": "AWOL Pedals",
@@ -3777,8 +3777,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://awolpedals.com/products/virus-fuzz",
+      "research_record": "./research/pedals/AWOL Pedals/Virus Fuzz.md"
     },
     {
       "company": "Axcess by Giannini",
@@ -3787,8 +3787,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/bd108",
+      "research_record": "./research/pedals/Axcess by Giannini/BD-108 Blues Drive.md"
     },
     {
       "company": "Axcess by Giannini",
