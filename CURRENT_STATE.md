@@ -698,3 +698,22 @@ The site's public data-version markers are now **2026-09-19-prp1-batch-077**. Th
 ## PRP1 / hourly health-check repair - batch 077 follow-up
 
 The live-archive verification for the Batch 077 checkpoint exposed a false failure in **scripts/hourly-site-health.js**. The checker was splitting PRP_TRACKER.csv with a plain comma split, so legitimate quoted pedal names containing commas could not match their catalog identities. The checker now uses a quote-aware CSV line parser. This is a tooling fix only; no pedal catalog identity was removed or renamed.
+
+
+## Current PRP1 checkpoint - batch 078
+
+Batch 078 processed the next ten unfinished catalog records in exact tracker order: **Beetronics FX - Octahive V2; Overhive; Royal Jelly; Swarm Fuzz Harmonizer; Tuna Fuzz; Vezzpa Octave Stinger; Behringer - Bass Brassmaster; Fuzz Bender; OD300; and SF300 Super Fuzz**.
+
+All ten now have individual Pedal Info research records and were synchronized with **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Exact photos were attached for **Octahive V2, Overhive, Royal Jelly, Swarm Fuzz Harmonizer, Tuna Fuzz, Vezzpa Octave Stinger, Bass Brassmaster, Fuzz Bender, and SF300 Super Fuzz**. **OD300** remains photo-pending because the official product imagery is currently delivered through a TIFF/proxy endpoint that was not promoted to the archive's stable direct-image standard.
+
+Current tracker checkpoint:
+- Unique pedals in website catalog: **3,821**
+- Pedals with research information: **541**
+- Pedals with confirmed pictures: **269**
+- Fully complete PRP pedals: **269**
+- Remaining incomplete pedals: **3,552**
+- Researched but waiting only for a confirmed picture: **272**
+- PRP status: Active, PRP1 research and photo synchronization pass
+- Current PRP1 target: **Behringer - UZ400 Ultra Fuzz**
+
+The site's public data-version markers are now **2026-09-19-prp1-batch-078**. The deployment browser audit's no-research fallback is now **Behringer - UZ400 Ultra Fuzz**, which remains unresearched in the tracker.
