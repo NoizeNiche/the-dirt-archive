@@ -6376,5 +6376,82 @@
     "image": null,
     "source_page": "https://www.boss.info/global/products/bd-2/",
     "research_record": "./research/pedals/PRP Batch 109/BD-2 Blues Driver.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "BD-2W Blues Driver",
+    "image": "https://thumbs.static-thomann.de/thumb//bdbmagic/pics/prod/345722.jpg",
+    "source_page": "https://www.boss.info/us/products/bd-2w/",
+    "research_record": "./research/pedals/PRP Batch 110/BD-2W Blues Driver.md",
+    "image_source_page": "https://www.thomannmusic.com/boss_bd_2w_blues_driver.htm"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "DS-1 Distortion",
+    "image": "https://www.alamomusic.com/cdn/shop/files/6475aecc-ea51-55e0-bced-c94cae3f023a_1024x1024.jpg?v=1689706930",
+    "source_page": "https://www.boss.info/us/products/ds-1/",
+    "research_record": "./research/pedals/PRP Batch 110/DS-1 Distortion.md",
+    "image_source_page": "https://www.alamomusic.com/products/boss-ds-1-distortion-guitar-pedal"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "DS-1W Distortion",
+    "image": "https://thumbs.static-thomann.de/thumb//bdbmagic/pics/prod/552256.jpg",
+    "source_page": "https://www.boss.info/us/products/ds-1w/",
+    "research_record": "./research/pedals/PRP Batch 110/DS-1W Distortion.md",
+    "image_source_page": "https://www.thomannmusic.com/boss_ds_1w_distortion.htm"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "DS-1X Distortion",
+    "image": "https://media.guitarcenter.com/is/image/MMGS7/J05907000000000-00-720x720.jpg",
+    "source_page": "https://www.boss.info/global/products/ds-1x/",
+    "research_record": "./research/pedals/PRP Batch 110/DS-1X Distortion.md",
+    "image_source_page": "https://www.guitarcenter.com/Boss/DS-1X-Distortion-Guitar-Effects-Pedal-1390232632954.gc"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "DS-2 TURBO Distortion",
+    "image": null,
+    "source_page": "https://www.boss.info/us/products/ds-2/",
+    "research_record": "./research/pedals/PRP Batch 110/DS-2 TURBO Distortion.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "FZ-1W Fuzz",
+    "image": "https://m.cosmosmusicmall.com/web/product/big/202204/47dd5bd972a3191c01efa4d5ebb175b9.jpg",
+    "source_page": "https://www.boss.info/us/products/fz-1w/",
+    "research_record": "./research/pedals/PRP Batch 110/FZ-1W Fuzz.md",
+    "image_source_page": "https://m.cosmosmusicmall.com/product/boss-fz-1w-waza-craft-fuzz/"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "FZ-5 Fuzz",
+    "image": null,
+    "source_page": "https://www.boss.info/us/products/fz-5/",
+    "research_record": "./research/pedals/PRP Batch 110/FZ-5 Fuzz.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "HM-2W Heavy Metal",
+    "image": "https://thumbs.static-thomann.de/thumb//bdbmagic/pics/prod/522244.jpg",
+    "source_page": "https://www.boss.info/global/products/hm-2w/",
+    "research_record": "./research/pedals/PRP Batch 110/HM-2W Heavy Metal.md",
+    "image_source_page": "https://www.thomann.de/de/boss_hm_2w_heavy_metal_distortion.htm"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "JB-2 Angry Driver",
+    "image": null,
+    "source_page": "https://www.boss.info/us/products/jb-2/",
+    "research_record": "./research/pedals/PRP Batch 110/JB-2 Angry Driver.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "MD-2 Mega Distortion",
+    "image": "https://specialtytraders.com/cdn/shop/files/418522.jpg?v=1767147463&width=1946",
+    "source_page": "https://www.boss.info/us/products/md-2/",
+    "research_record": "./research/pedals/PRP Batch 110/MD-2 Mega Distortion.md",
+    "image_source_page": "https://specialtytraders.com/products/boss-md-2-mega-distortion"
   }
 ]
