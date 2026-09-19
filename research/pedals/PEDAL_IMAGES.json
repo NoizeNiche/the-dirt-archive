@@ -2002,5 +2002,29 @@
     "source_page": "https://amplifiednation.com/product/bigger-bloom-overdrive/",
     "research_record": "./research/pedals/PRP Batch 047/Bigger Bloom Overdrive.md",
     "photo_status": "NEEDED"
+  },
+  {
+    "builder": "AmpMojo",
+    "pedal": "Skate Fuzz (SKUZZ)",
+    "image": null,
+    "source_page": "https://www.ampmojo.com/product-page/skate-fuzz-skuzz",
+    "research_record": "./research/pedals/PRP Batch 048/Skate Fuzz (SKUZZ).md",
+    "photo_status": "NEEDED"
+  },
+  {
+    "builder": "AmpMojo",
+    "pedal": "Sol Drive",
+    "image": null,
+    "source_page": "https://www.ampmojo.com/sol-drive",
+    "research_record": "./research/pedals/PRP Batch 048/Sol Drive.md",
+    "photo_status": "NEEDED"
+  },
+  {
+    "builder": "Amptweaker",
+    "pedal": "Bass BluesFuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/amptweaker/bluesfuzz/bass",
+    "research_record": "./research/pedals/PRP Batch 048/Bass BluesFuzz.md",
+    "photo_status": "NEEDED"
   }
 ]
