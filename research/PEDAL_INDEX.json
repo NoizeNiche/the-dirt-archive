@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-138",
+  "version": "2026-09-19-prp1-batch-140",
   "count": 3821,
   "pedals": [
     {
@@ -11612,8 +11612,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp11",
+      "research_record": "./research/pedals/PRP Batch 140/cp-11-puffer-fuzz.md"
     },
     {
       "company": "Caline",
@@ -11622,8 +11622,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp12",
+      "research_record": "./research/pedals/PRP Batch 140/cp-12-pure-sky.md"
     },
     {
       "company": "Caline",
@@ -11632,8 +11632,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp15",
+      "research_record": "./research/pedals/PRP Batch 140/cp-15-tantrum-heavy-metal.md"
     },
     {
       "company": "Caline",
@@ -11642,8 +11642,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp18",
+      "research_record": "./research/pedals/PRP Batch 140/cp-18-orange-burst-overdrive.md"
     },
     {
       "company": "Caline",
@@ -11652,8 +11652,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp20",
+      "research_record": "./research/pedals/PRP Batch 140/cp-20-crazy-cacti.md"
     },
     {
       "company": "Caline",
@@ -11662,8 +11662,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp21",
+      "research_record": "./research/pedals/PRP Batch 140/cp-21-rock-face.md"
     },
     {
       "company": "Caline",
@@ -11672,8 +11672,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp25",
+      "research_record": "./research/pedals/PRP Batch 140/cp-25-highway-man-od.md"
     },
     {
       "company": "Caline",
@@ -11682,8 +11682,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp27",
+      "research_record": "./research/pedals/PRP Batch 140/cp-27-sand-storm.md"
     },
     {
       "company": "Caline",
@@ -11692,8 +11692,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp30",
+      "research_record": "./research/pedals/PRP Batch 140/cp-30-red-devil-heavy-metal.md"
     },
     {
       "company": "Caline",
@@ -11703,8 +11703,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/p/caline-cp-32-clear-veil-overdrive-slash-fuzz",
+      "research_record": "./research/pedals/PRP Batch 140/cp-32-clear-veil.md"
     },
     {
       "company": "Caline",
