@@ -440,14 +440,14 @@ Batch 072 completed ten exact-order PRP targets. Seven exact-model photos were a
 ## Latest PRP1 checkpoint - batch 073
 Batch 073 completed ten exact-order PRP targets. Six exact-model photos were archived; four remain photo-pending. The next target is **Baroni Lab - GD Drive**.
 
-## Latest PRP1 checkpoint — BYOC Fuzz Clone
+## Latest PRP1 checkpoint — BYOC Li'l Gray OD
 
-PRP is continuing in practical working sets rather than a fixed pedal count. The latest completed pass added **10 consecutive exact-order research records**: **Build Your Own Clone - B.G. Fuzz; Bass Overdrive; Bender Clone; Blue Overdrive; British Blues Overdrive; Classic Overdrive; Crown Jewel; E.S.V. Fuzz; El Distorto Segundo; and Fuzz Clone**.
+PRP is continuing in practical working sets, with no fixed pedal-count ceiling. The latest completed pass added **10 consecutive exact-order research records**: **Build Your Own Clone - Green Pony; Leeds Fuzz; Li'l Beaver (NYC); Li'l Beaver (Opamp); Li'l Beaver (Ram's Head); Li'l Beaver (Russian); Li'l Beaver (Triangle); Li'l Breaker; Li'l Fuzz; and Li'l Gray OD**.
 
-All ten now have individual Pedal Info research records synchronized into the canonical catalog, photo/research manifest, and PRP tracker. No questionable photo was promoted. BYOC kit-specific component details were recorded as kit options where documented, rather than being presented as universal factory parts.
+All ten now have individual Pedal Info research records synchronized into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. Sparse historical BYOC entries were kept conservative rather than assigning unsupported circuit details.
 
-**Verified tracker totals:** **3821 total / 995 researched / 300 pictured / 300 complete / 3521 incomplete / 695 researched-photo-pending**.
+**Verified tracker totals:** **3821 total / 1005 researched / 300 pictured / 300 complete / 3521 incomplete / 705 researched-photo-pending**.
 
-**Next exact-order research target:** **Build Your Own Clone - Green Pony**.
+**Next exact-order research target:** **Build Your Own Clone - Li'l Modified Overdrive**.
 
-**Public data version:** 2026-09-19-prp1-byoc-fuzz-clone.
+**Public data version:** 2026-09-19-prp1-byoc-li-l-gray-od.

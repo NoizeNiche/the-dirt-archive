@@ -1060,3 +1060,17 @@ All ten now have individual Pedal Info research records synchronized into the ca
 ## PRP1 BYOC Fuzz Clone reconciliation — September 19, 2026
 
 The live tracker was re-counted after the research commit. The next exact-order research target is **Build Your Own Clone - Green Pony**.
+
+
+## Latest PRP1 checkpoint — BYOC Li'l Gray OD
+
+PRP is continuing in practical working sets, with no fixed pedal-count ceiling. The latest completed pass added **10 consecutive exact-order research records**: **Build Your Own Clone - Green Pony; Leeds Fuzz; Li'l Beaver (NYC); Li'l Beaver (Opamp); Li'l Beaver (Ram's Head); Li'l Beaver (Russian); Li'l Beaver (Triangle); Li'l Breaker; Li'l Fuzz; and Li'l Gray OD**.
+
+All ten now have individual Pedal Info research records synchronized into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. Sparse historical BYOC entries were kept conservative rather than assigning unsupported circuit details.
+
+**Verified tracker totals:** **3821 total / 1005 researched / 300 pictured / 300 complete / 3521 incomplete / 705 researched-photo-pending**.
+
+**Next exact-order research target:** **Build Your Own Clone - Li'l Modified Overdrive**.
+
+**Public data version:** 2026-09-19-prp1-byoc-li-l-gray-od.
+
