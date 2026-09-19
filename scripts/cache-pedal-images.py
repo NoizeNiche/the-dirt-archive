@@ -8,6 +8,8 @@ import re
 import sys
 import time
 import urllib.request
+import urllib.parse
+import html
 from pathlib import Path
 
 from PIL import Image, ImageOps
@@ -49,6 +51,56 @@ def rel_path(path):
 
 def is_local(value):
     return isinstance(value, str) and bool(re.match(r"^\.?/assets/pedals/", value, re.I))
+
+
+def fetch_page(url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (compatible; The Dirt Archive image cache/1.0)",
+        "Accept": "text/html,application/xhtml+xml",
+    }
+    request = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(request, timeout=15) as response:
+        return response.read(2_000_000).decode("utf-8", errors="ignore")
+
+
+def image_candidates_from_page(page_url):
+    try:
+        source_html = fetch_page(page_url)
+    except Exception:
+        return []
+
+    candidates = []
+    patterns = [
+        r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']twitter:image["\']',
+        r'<link[^>]+rel=["\']image_src["\'][^>]+href=["\']([^"\']+)["\']',
+    ]
+    for pattern in patterns:
+        for match in re.findall(pattern, source_html, flags=re.I):
+            candidates.append(html.unescape(urllib.parse.urljoin(page_url, match)))
+
+    # JSON-LD product images are useful when the page does not expose og:image.
+    for raw in re.findall(r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>', source_html, flags=re.I | re.S):
+        try:
+            data = json.loads(html.unescape(raw))
+        except Exception:
+            continue
+        nodes = data if isinstance(data, list) else [data]
+        for node in nodes:
+            if not isinstance(node, dict):
+                continue
+            image = node.get("image")
+            values = image if isinstance(image, list) else [image]
+            for value in values:
+                if isinstance(value, dict):
+                    value = value.get("url") or value.get("contentUrl")
+                if isinstance(value, str) and value:
+                    candidates.append(html.unescape(urllib.parse.urljoin(page_url, value)))
+
+    # Preserve order while removing duplicates.
+    return list(dict.fromkeys(candidates))
 
 
 def fetch_image(url, referer=None):
@@ -104,18 +156,27 @@ def cache_entry_prepare(entry):
 
 
 def download_to_target(entry, target, source_url):
-    data = fetch_image(
-        source_url,
-        entry.get("image_source_page") or entry.get("source_page"),
-    )
-    with Image.open(io.BytesIO(data)) as source:
-        img = ImageOps.exif_transpose(source)
-        if img.width <= 0 or img.height <= 0:
-            raise RuntimeError("invalid image dimensions")
-        img = img.convert("RGBA" if "A" in img.getbands() else "RGB")
-        img.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
-        img.save(target, "WEBP", quality=88, method=6)
-    return rel_path(target)
+    sources = [source_url]
+    page_url = entry.get("image_source_page") or entry.get("source_page")
+    if page_url and page_url.startswith(("http://", "https://")):
+        sources += image_candidates_from_page(page_url)
+
+    errors = []
+    for candidate in list(dict.fromkeys(sources)):
+        try:
+            data = fetch_image(candidate, page_url)
+            with Image.open(io.BytesIO(data)) as source:
+                img = ImageOps.exif_transpose(source)
+                if img.width <= 0 or img.height <= 0:
+                    raise RuntimeError("invalid image dimensions")
+                img = img.convert("RGBA" if "A" in img.getbands() else "RGB")
+                img.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
+                img.save(target, "WEBP", quality=88, method=6)
+            return rel_path(target), candidate
+        except Exception as exc:
+            errors.append(f"{candidate}: {exc}")
+    raise RuntimeError(" | ".join(errors[:4]))
+
 
 
 def main():
@@ -155,8 +216,8 @@ def main():
             builder = entry.get("company") or entry.get("builder")
             pedal = entry.get("pedal")
             try:
-                local = future.result()
-                entry["image_source_url"] = source
+                local, fetched_source = future.result()
+                entry["image_source_url"] = fetched_source
                 entry["image"] = local
                 cached.append((builder, pedal, local))
             except Exception as exc:
