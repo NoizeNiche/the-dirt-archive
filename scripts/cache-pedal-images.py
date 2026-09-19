@@ -60,16 +60,16 @@ def fetch_image(url, referer=None):
         headers["Referer"] = referer
     request = urllib.request.Request(url, headers=headers)
     last_error = None
-    for attempt in range(3):
+    for attempt in range(2):
         try:
-            with urllib.request.urlopen(request, timeout=45) as response:
+            with urllib.request.urlopen(request, timeout=15) as response:
                 data = response.read()
                 if len(data) > MAX_BYTES:
                     raise RuntimeError("image exceeds 25 MB download limit")
                 return data
         except Exception as exc:
             last_error = exc
-            if attempt < 2:
+            if attempt < 1:
                 time.sleep(2 ** attempt)
     raise RuntimeError(str(last_error))
 
@@ -145,7 +145,7 @@ def main():
             downloads.append((entry, target, source))
 
     # Eight workers gives a controlled speedup without hammering source hosts.
-    with ThreadPoolExecutor(max_workers=8) as executor:
+    with ThreadPoolExecutor(max_workers=12) as executor:
         futures = {
             executor.submit(download_to_target, entry, target, source): (entry, target, source)
             for entry, target, source in downloads
