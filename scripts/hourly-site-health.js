@@ -26,11 +26,30 @@ async function jsonFetch(url, options={}) {
 function readJson(rel){ return JSON.parse(fs.readFileSync(path.join(ROOT, rel), 'utf8')); }
 function gitShow(rel, rev){ return cp.execFileSync('git', ['show', `${rev}:${rel}`], {encoding:'utf8'}); }
 function key(x){ return `${x.company}\u0000${x.pedal}`; }
+function parseCsvLine(line){
+  const cells=[];
+  let cell='';
+  let quoted=false;
+  for(let i=0;i<line.length;i++){
+    const ch=line[i];
+    if(ch==='"'){
+      if(quoted && line[i+1]==='"'){ cell+='"'; i++; }
+      else quoted=!quoted;
+    } else if(ch===',' && !quoted){
+      cells.push(cell);
+      cell='';
+    } else {
+      cell+=ch;
+    }
+  }
+  cells.push(cell);
+  return cells;
+}
 function trackerMap(text){
   const lines=text.trimEnd().split(/\r?\n/);
-  const head=lines.shift().split(',');
+  const head=parseCsvLine(lines.shift());
   return new Map(lines.map(line=>{
-    const cells=line.split(',');
+    const cells=parseCsvLine(line);
     const row={}; head.forEach((h,i)=>row[h]=cells[i]??'');
     return [`${row.Builder}\u0000${row.Pedal}`, row];
   }));
