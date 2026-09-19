@@ -38,3 +38,7 @@ The white MOD 1 has the warmer, thicker and clearer V1 character described by 19
 ## Sources checked
 1. 1981 Inventions — DRV MOD 1 (WHITE): https://1981inventions.com/products/drv-mod-1
 2. 1981 Inventions — pedal collection: https://1981inventions.com/collections/pedals
+## Photo
+- **Archive status:** **Exact Photo Archived**
+- **Image source:** 1981 Inventions official DRV MOD 1 (WHITE) product photograph.
+- **Source page:** https://1981inventions.com/products/drv-mod-1

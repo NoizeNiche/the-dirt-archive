@@ -29,14 +29,18 @@ jobs:
           test -f pedal-detail.html
           test -f research/PEDAL_INDEX.json
           test -f research/pedals/PEDAL_IMAGES.json
+          test -f research/PRP_TRACKER.csv
+
           python - <<'PY'
+          import csv
           import json
+          import re
           from pathlib import Path
 
-          catalog = json.loads(Path("research/PEDAL_INDEX.json").read_text())
-          manifest = json.loads(Path("research/pedals/PEDAL_IMAGES.json").read_text())
-
+          catalog = json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8"))
+          manifest = json.loads(Path("research/pedals/PEDAL_IMAGES.json").read_text(encoding="utf-8"))
           pedals = catalog.get("pedals", [])
+
           assert catalog.get("count") == len(pedals), "Pedal index count mismatch"
 
           def key(entry, builder_key, pedal_key):
@@ -46,6 +50,7 @@ jobs:
           manifest_keys = [key(x, "builder", "pedal") for x in manifest]
           assert len(catalog_keys) == len(set(catalog_keys)), "Duplicate Builder + Pedal entries in pedal index"
           assert len(manifest_keys) == len(set(manifest_keys)), "Duplicate Builder + Pedal entries in photo manifest"
+          assert len(manifest) == len({x for x in manifest_keys}), "Photo manifest identity count mismatch"
 
           catalog_by_key = {key(x, "company", "pedal"): x for x in pedals}
           manifest_by_key = {key(x, "builder", "pedal"): x for x in manifest}
@@ -54,7 +59,9 @@ jobs:
           manifest_records = {x.get("research_record") for x in manifest if x.get("research_record")}
           assert index_records == manifest_records, "Pedal index and photo manifest research records disagree"
 
+          missing_image_keys = []
           for entry in manifest:
+              assert "image" in entry, f"Manifest entry lacks explicit image field: {key(entry, 'builder', 'pedal')}"
               rr = entry.get("research_record")
               if rr:
                   path = Path(rr.lstrip("./"))
@@ -62,7 +69,7 @@ jobs:
               k = key(entry, "builder", "pedal")
               assert k in catalog_by_key, f"Manifest entry missing from pedal index: {k}"
               public = catalog_by_key[k]
-              assert entry.get("image") == public.get("image"), f"Photo mismatch between manifest and pedal index: {k}"
+              assert (entry.get("image") or None) == (public.get("image") or None), f"Photo mismatch between manifest and pedal index: {k}"
 
           for entry in pedals:
               rr = entry.get("research_record")
@@ -76,11 +83,8 @@ jobs:
               if entry.get("version_of"):
                   assert entry.get("version_of") in {x.get("company") + "\u0000" + x.get("pedal") for x in pedals}, f"Version parent missing: {key(entry, 'company', 'pedal')}"
 
-          for path in Path("research/pedals").rglob("*.md"):
-              rel = "./" + path.as_posix()
-              assert rel in manifest_records, f"Unlinked PRP research record: {rel}"
-
-          import csv
+          linked_records = {"./" + path.as_posix() for path in Path("research/pedals").rglob("*.md")}
+          assert linked_records == manifest_records, "Research record files and manifest links are not in one-to-one sync"
 
           tracker_path = Path("research/PRP_TRACKER.csv")
           with tracker_path.open(newline="", encoding="utf-8") as handle:
@@ -90,11 +94,49 @@ jobs:
           assert len(tracker_pairs) == len(set(tracker_pairs)), "Duplicate Builder + Pedal entries in PRP tracker"
           assert set(tracker_pairs) == set(catalog_keys), "PRP tracker and pedal index Builder + Pedal identities disagree"
 
-          assert "No Photo Archived" in Path("index.html").read_text()
-          assert "PEDAL_INDEX.json" in Path("index.html").read_text()
-          assert "PEDAL_INDEX.json" in Path("pedal-detail.html").read_text()
-          assert "item.research_record" in Path("pedal-detail.html").read_text()
-          print("Site data verified: {} pedals; {} research records; {} manifest entries".format(len(pedals), len(index_records), len(manifest)))
+          for row in tracker_rows:
+              k = (row.get("Builder"), row.get("Pedal"))
+              public = catalog_by_key[k]
+              expected_info = bool(public.get("research_record"))
+              expected_picture = bool(public.get("image"))
+              expected_complete = expected_info and expected_picture
+              actual_info = row.get("Pedal Info") == "DONE"
+              actual_picture = row.get("Picture") == "DONE"
+              actual_complete = row.get("PRP Complete") == "DONE"
+              assert actual_info == expected_info, f"Tracker Pedal Info mismatch: {k}"
+              assert actual_picture == expected_picture, f"Tracker Picture mismatch: {k}"
+              assert actual_complete == expected_complete, f"Tracker PRP Complete mismatch: {k}"
+              assert (row.get("Research Record") or "") == (public.get("research_record") or ""), f"Tracker research record mismatch: {k}"
+
+          researched = sum(bool(x.get("research_record")) for x in pedals)
+          pictured = sum(bool(x.get("image")) for x in pedals)
+          complete = sum(bool(x.get("research_record")) and bool(x.get("image")) for x in pedals)
+          incomplete = len(pedals) - complete
+          photo_pending = researched - complete
+
+          tracker_researched = sum(x.get("Pedal Info") == "DONE" for x in tracker_rows)
+          tracker_pictured = sum(x.get("Picture") == "DONE" for x in tracker_rows)
+          tracker_complete = sum(x.get("PRP Complete") == "DONE" for x in tracker_rows)
+
+          assert tracker_researched == researched, "Tracker researched count mismatch"
+          assert tracker_pictured == pictured, "Tracker pictured count mismatch"
+          assert tracker_complete == complete, "Tracker complete count mismatch"
+          assert photo_pending == 159, f"Unexpected researched/photo-pending count: {photo_pending}"
+
+          home = Path("index.html").read_text(encoding="utf-8")
+          detail = Path("pedal-detail.html").read_text(encoding="utf-8")
+          workflow_text = Path(".github/workflows/deploy-pages.yml").read_text(encoding="utf-8")
+          version_match = re.search(r'const DATA_VERSION\s*=\s*[\'"]([^\'"]+)[\'"]', home)
+          detail_version_match = re.search(r'const DATA_VERSION\s*=\s*[\'"]([^\'"]+)[\'"]', detail)
+          assert version_match and version_match.group(1) == catalog.get("version"), "index.html DATA_VERSION is stale"
+          assert detail_version_match and detail_version_match.group(1) == catalog.get("version"), "pedal-detail.html DATA_VERSION is stale"
+          assert "No Photo Archived" in home and "No Photo Archived" in detail, "No Photo Archived fallback is missing"
+          assert "PEDAL_INDEX.json" in home and "PEDAL_INDEX.json" in detail, "Catalog data source missing from site"
+          assert "item.research_record" in detail, "Pedal detail research binding is missing"
+          assert "variationSearchText.get(x.company+'\\u0000'+x.pedal)" not in home, "Variation search null-key bug remains"
+          assert "playwright" in workflow_text.lower(), "Browser audit is missing from deployment workflow"
+
+          print(f"Site data verified: {len(pedals)} pedals; {researched} researched; {pictured} pictured; {complete} complete; {incomplete} incomplete; {photo_pending} photo-pending.")
           PY
 
 
@@ -127,29 +169,189 @@ jobs:
           (async()=>{
             const browser = await chromium.launch({headless:true});
             const page = await browser.newPage({ viewport:{width:1440,height:1000} });
+            const consoleErrors=[];
+            const pageErrors=[];
+            page.on('console', msg => { if (msg.type()==='error') consoleErrors.push(msg.text()); });
+            page.on('pageerror', err => pageErrors.push(String(err)));
 
             const catalogResponse = await page.request.get('http://127.0.0.1:4173/research/PEDAL_INDEX.json');
             if (!catalogResponse.ok()) throw new Error('Could not load the pedal index for browser audit.');
-
             const catalog = await catalogResponse.json();
             const researchedParents = (catalog.pedals || []).filter(
               x => x.research_record && x.catalog_role !== 'variation'
             );
 
+            // Every cataloged image URL must still resolve as an image before deployment.
+            const picturedEntries = (catalog.pedals || []).filter(x => x.image);
+            let cursor = 0;
+            const imageFailures = [];
+            async function checkImageUrls() {
+              while (cursor < picturedEntries.length) {
+                const entry = picturedEntries[cursor++];
+                try {
+                  const res = await page.request.get(entry.image, {timeout:10000});
+                  const contentType = (res.headers()['content-type'] || '').toLowerCase();
+                  if (!res.ok() || !contentType.startsWith('image/')) {
+                    imageFailures.push(entry.company + ' / ' + entry.pedal + ' -> ' + res.status() + ' ' + contentType);
+                  }
+                } catch (err) {
+                  imageFailures.push(entry.company + ' / ' + entry.pedal + ' -> ' + err.message);
+                }
+              }
+            }
+            await Promise.all(Array.from({length:8}, () => checkImageUrls()));
+            if (imageFailures.length) throw new Error('Pictured image URL failures: ' + imageFailures.join(' | '));
+            console.log('Verified', picturedEntries.length, 'pictured catalog image URLs.');
+
+            // Landing page: catalog window, core controls, and link structure.
             await page.goto('http://127.0.0.1:4173/index.html', {waitUntil:'networkidle'});
-            const cardCount = await page.locator('#grid .card').count();
-            if (cardCount > 72) throw new Error('Catalog rendered more than the intended 72-card window.');
+            const initialCardCount = await page.locator('#grid .card').count();
+            if (initialCardCount > 72) throw new Error('Catalog rendered more than the intended 72-card window.');
             if (await page.locator('.boardRail').count()) throw new Error('Obsolete pedalboard rail elements remain on the page.');
+            if (await page.locator('#search').count() !== 1) throw new Error('Search control missing.');
+            if (await page.locator('[data-type]').count() < 4) throw new Error('Dirt type controls missing.');
+            if (await page.locator('[data-builder]').count() < 2) throw new Error('Builder controls missing.');
+            const firstHref = await page.locator('#grid .card').first().getAttribute('href');
+            if (!firstHref || !firstHref.includes('pedal-detail.html?builder=')) throw new Error('Catalog card does not link to pedal-detail.html.');
+            if (initialCardCount === 72 && await page.locator('#loadMoreWrap').isHidden() === false) {
+              await page.locator('#loadMore').click();
+              await page.waitForTimeout(50);
+              const expanded = await page.locator('#grid .card').count();
+              if (expanded <= initialCardCount) throw new Error('Load More did not increase the catalog window.');
+            }
 
+            // Search must include variation/colorway names.
+            await page.goto('http://127.0.0.1:4173/index.html', {waitUntil:'networkidle'});
+            await page.locator('#search').fill('White');
+            if (await page.locator('#grid .card').filter({hasText:'DRV MOD 1'}).count() === 0) {
+              throw new Error('Variation/colorway search did not find DRV MOD 1 (WHITE).');
+            }
+
+            // Type filter must constrain all visible cards.
+            await page.goto('http://127.0.0.1:4173/index.html', {waitUntil:'networkidle'});
+            await page.locator('[data-type="Fuzz"]').click();
+            const fuzzCards = await page.locator('#grid .card').count();
+            if (!fuzzCards) throw new Error('Fuzz filter returned no cards.');
+            for (const chipText of await page.locator('#grid .card .chips').allTextContents()) {
+              if (!chipText.includes('Fuzz')) throw new Error('Dirt type filter leaked a non-Fuzz card.');
+            }
+
+            // Builder filter must constrain all visible cards.
+            await page.goto('http://127.0.0.1:4173/index.html', {waitUntil:'networkidle'});
+            const builderButton = page.locator('[data-builder="Artisanal Effects"]');
+            if (await builderButton.count() !== 1) throw new Error('Known builder filter button missing.');
+            await builderButton.click();
+            const builderTexts = await page.locator('#grid .builderNameCard').allTextContents();
+            if (!builderTexts.length) throw new Error('Builder filter returned no pedals.');
+            if (builderTexts.some(x => x.trim() !== 'Artisanal Effects')) {
+              throw new Error('Builder filter returned a pedal from another builder.');
+            }
+
+            // Combined URL facets must work together.
+            await page.goto('http://127.0.0.1:4173/index.html?type=Fuzz&builder=Artisanal%20Effects&q=cheese', {waitUntil:'networkidle'});
+            const combinedTexts = await page.locator('#grid .card').allTextContents();
+            if (!combinedTexts.some(x => /Cheddar Source/i.test(x))) {
+              throw new Error('Combined type + builder + search filters did not return Cheddar Source.');
+            }
+
+            // Researched detail record, photo rendering, and contrast.
+            await page.goto(
+              'http://127.0.0.1:4173/pedal-detail.html?builder=' +
+              encodeURIComponent('Artisanal Effects') + '&pedal=' +
+              encodeURIComponent('Cheddar Source'),
+              {waitUntil:'domcontentloaded'}
+            );
+            await page.waitForFunction(() => {
+              const el = document.querySelector('#research');
+              return el && el.textContent.trim().length > 40 && !/loading pedal information|could not be loaded/i.test(el.textContent);
+            }, null, {timeout:10000});
+            const researchedResult = await page.evaluate(() => {
+              const el = document.querySelector('#research');
+              const record = document.querySelector('#record');
+              const style = getComputedStyle(el);
+              const rect = el.getBoundingClientRect();
+              const img = document.querySelector('#photoBox img');
+              return {
+                text: el.textContent.trim(),
+                color: style.color,
+                background: style.backgroundColor,
+                width: rect.width,
+                height: rect.height,
+                recordVisible: !!record && !record.hidden,
+                photoLoaded: !!img && img.complete && img.naturalWidth > 0,
+                photoAlt: img ? img.alt : ''
+              };
+            });
+            if (!researchedResult.recordVisible || researchedResult.text.length <= 40) throw new Error('Researched pedal detail did not render Pedal Info.');
+            if (researchedResult.width < 200 || researchedResult.height < 40) throw new Error('Pedal Info container collapsed.');
+            const fg = luminance(rgb(researchedResult.color));
+            const bg = luminance(rgb(researchedResult.background));
+            const contrast = (Math.max(fg,bg)+0.05)/(Math.min(fg,bg)+0.05);
+            if (contrast < 4.5) throw new Error('Pedal Info text/background contrast is below 4.5.');
+            if (!researchedResult.photoLoaded) throw new Error('Exact Cheddar Source photo did not load.');
+            if (!researchedResult.photoAlt.includes('Cheddar Source')) throw new Error('Pedal photo alt text is missing the pedal identity.');
+
+            // No-research / no-photo fallback.
+            await page.goto(
+              'http://127.0.0.1:4173/pedal-detail.html?builder=' +
+              encodeURIComponent('Atlas Pedal') + '&pedal=' +
+              encodeURIComponent('Bracton OverDrive'),
+              {waitUntil:'networkidle'}
+            );
+            if (!(await page.locator('#research').textContent()).includes('Pedal information has not been added yet.')) {
+              throw new Error('No-research detail fallback is missing.');
+            }
+
+            await page.goto(
+              'http://127.0.0.1:4173/pedal-detail.html?builder=' +
+              encodeURIComponent('Arcane Analog') + '&pedal=' +
+              encodeURIComponent('BC108 Fuzz Face'),
+              {waitUntil:'networkidle'}
+            );
+            if (!(await page.locator('#photoBox').textContent()).includes('No Photo Archived')) {
+              throw new Error('No-photo detail fallback is missing.');
+            }
+
+            // Variation deep-link must resolve to its parent and preserve the variation notice.
+            await page.goto(
+              'http://127.0.0.1:4173/pedal-detail.html?builder=' +
+              encodeURIComponent('1981 Inventions') + '&pedal=' +
+              encodeURIComponent('DRV MOD 1 (WHITE)'),
+              {waitUntil:'networkidle'}
+            );
+            if ((await page.locator('#name').textContent()).trim() !== 'DRV MOD 1') {
+              throw new Error('Variation deep-link did not resolve to its parent pedal.');
+            }
+            if (!(await page.locator('#variationNotice').textContent()).includes('White')) {
+              throw new Error('Variation deep-link did not preserve the White colorway notice.');
+            }
+
+            // Legacy pedal.html redirect must land on the canonical detail page.
+            await page.goto(
+              'http://127.0.0.1:4173/pedal.html?builder=' +
+              encodeURIComponent('Artisanal Effects') + '&pedal=' +
+              encodeURIComponent('Cheddar Source'),
+              {waitUntil:'networkidle'}
+            );
+            if (!page.url().includes('/pedal-detail.html')) throw new Error('Legacy pedal.html did not redirect.');
+
+            // Mobile behavior: no horizontal page overflow.
+            await page.setViewportSize({width:390,height:900});
+            await page.goto('http://127.0.0.1:4173/pedal-detail.html?builder=' +
+              encodeURIComponent('Artisanal Effects') + '&pedal=' +
+              encodeURIComponent('Cheddar Source'), {waitUntil:'networkidle'});
+            const overflow = await page.evaluate(() => document.documentElement.scrollWidth > window.innerWidth + 1);
+            if (overflow) throw new Error('Mobile detail page has horizontal overflow.');
+
+            // Every researched parent pedal still needs a readable detail page.
+            await page.setViewportSize({width:1440,height:1000});
             console.log('Auditing', researchedParents.length, 'researched parent pedal pages.');
-
             for (const entry of researchedParents) {
               const url =
                 'http://127.0.0.1:4173/pedal-detail.html?builder=' +
                 encodeURIComponent(entry.company) +
                 '&pedal=' +
                 encodeURIComponent(entry.pedal);
-
               await page.goto(url, {waitUntil:'domcontentloaded'});
               await page.waitForFunction(() => {
                 const el = document.querySelector('#research');
@@ -173,31 +375,23 @@ jobs:
                 };
               });
 
-              if (!result.recordVisible) {
-                throw new Error('Pedal detail record is hidden: ' + entry.company + ' / ' + entry.pedal);
-              }
-              if (result.text.length <= 40) {
-                throw new Error('Pedal Info is unexpectedly short: ' + entry.company + ' / ' + entry.pedal);
-              }
-              if (result.width < 200 || result.height < 40) {
-                throw new Error('Pedal Info container collapsed: ' + entry.company + ' / ' + entry.pedal);
-              }
+              if (!result.recordVisible) throw new Error('Pedal detail record is hidden: ' + entry.company + ' / ' + entry.pedal);
+              if (result.text.length <= 40) throw new Error('Pedal Info is unexpectedly short: ' + entry.company + ' / ' + entry.pedal);
+              if (result.width < 200 || result.height < 40) throw new Error('Pedal Info container collapsed: ' + entry.company + ' / ' + entry.pedal);
 
               const fg = luminance(rgb(result.color));
               const bg = luminance(rgb(result.background));
               const contrast = (Math.max(fg,bg)+0.05)/(Math.min(fg,bg)+0.05);
               if (contrast < 4.5) {
-                throw new Error(
-                  'Pedal Info text/background contrast is below threshold for ' +
-                  entry.company + ' / ' + entry.pedal + ': ' + contrast.toFixed(2)
-                );
+                throw new Error('Pedal Info text/background contrast is below threshold for ' + entry.company + ' / ' + entry.pedal + ': ' + contrast.toFixed(2));
               }
-
-              console.log('PASS', entry.company, '/', entry.pedal);
             }
 
+            if (consoleErrors.length) throw new Error('Browser console errors: ' + consoleErrors.join(' | '));
+            if (pageErrors.length) throw new Error('Browser page errors: ' + pageErrors.join(' | '));
+
             await browser.close();
-            console.log('All researched pedal pages passed the browser audit.');
+            console.log('Expanded browser audit passed: catalog controls, combined filters, pagination, detail records, photos, fallbacks, variations, legacy redirects, mobile layout, and all researched parent pages.');
           })().catch(err => {
             console.error(err);
             process.exit(1);
