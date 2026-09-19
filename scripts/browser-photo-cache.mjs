@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { chromium } from 'playwright';
 
 const ROOT = process.cwd();
@@ -13,7 +14,11 @@ function key(builder, pedal) {
 }
 
 function slug(value) {
-  return String(value || '').trim().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') || 'unknown';
+  const raw = String(value || '').trim().toLowerCase();
+  const normalized = raw.replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') || 'unknown';
+  if (normalized.length <= 90) return normalized;
+  const digest = crypto.createHash('sha1').update(raw).digest('hex').slice(0, 10);
+  return normalized.slice(0, 79).replace(/-+$/g, '') + '-' + digest;
 }
 
 function target(entry) {
