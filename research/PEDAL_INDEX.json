@@ -9833,8 +9833,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.broughtonaudio.com/archive",
+      "research_record": "./research/pedals/PRP Batch 119/broughton-audio-scorpion.md",
+      "image_source_page": "https://www.broughtonaudio.com/archive",
+      "image_source_url": "https://www.broughtonaudio.com/archive"
     },
     {
       "company": "Broughton Audio",
@@ -9843,8 +9845,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.broughtonaudio.com/archive?page=3",
+      "research_record": "./research/pedals/PRP Batch 119/broughton-audio-scorpion-deluxe.md",
+      "image_source_page": "https://www.broughtonaudio.com/archive?page=3",
+      "image_source_url": "https://www.broughtonaudio.com/archive?page=3"
     },
     {
       "company": "Broughton Audio",
@@ -9854,8 +9858,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.broughtonaudio.com/archive?page=2",
+      "research_record": "./research/pedals/PRP Batch 119/broughton-audio-sentinel.md",
+      "image_source_page": "https://www.broughtonaudio.com/archive?page=2",
+      "image_source_url": "https://www.broughtonaudio.com/archive?page=2"
     },
     {
       "company": "Broughton Audio",
@@ -9864,8 +9870,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.broughtonaudio.com/archive?page=2",
+      "research_record": "./research/pedals/PRP Batch 119/broughton-audio-silver-deluxe.md",
+      "image_source_page": "https://www.broughtonaudio.com/archive?page=2",
+      "image_source_url": "https://www.broughtonaudio.com/archive?page=2"
     },
     {
       "company": "Broughton Audio",
