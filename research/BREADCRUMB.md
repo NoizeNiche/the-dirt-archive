@@ -656,3 +656,14 @@ Batch 110 completed the next ten exact-order missing Pedal Info records from **B
 **Current tracker totals:** **3,821 total / 855 researched / 285 pictured / 285 complete / 3,536 incomplete**, with **570** researched pedals waiting only for a confirmed picture.
 
 **Next exact-order missing-information target:** **BOSS - ML-2 Metal Core**.
+
+## PRP1 Batch 112 checkpoint
+
+Batch 112 completed an exact-order photo-recovery pass across **A&M Custom Effects - Crash Central - Crunch Distortion; Crazyboy - Double Fuzz; Metal Maniac - Mega Distortion; Twin Pro - Overdrive; AboveGroundFX - El Griton Overdrive; Rocks Hard; Absolutely Analog - Ratzo; AC Efectos - Triplex Distortion; Accel OD-SS Express Overdrive; and Accel Stompzilla Fuzz**. Existing research records were verified against the current catalog and exact-model visual evidence was rechecked. No new direct image asset met the local archival standard, so all ten remain photo-pending.
+
+**Current tracker totals:** **3,821 total / 865 researched / 295 pictured / 295 complete / 3,526 incomplete / 570 researched-photo-pending**.
+
+**Next exact-order target:** **A&M Custom Effects - Crash Central - Crunch Distortion**.
+
+**Public data version:** **2026-09-19-prp1-batch-112**.
+
