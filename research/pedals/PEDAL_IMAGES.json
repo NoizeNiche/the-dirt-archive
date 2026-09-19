@@ -4969,5 +4969,85 @@
     "source": "verified research source",
     "source_page": "https://bixonic-sound.com/products/exp2000dr",
     "research_record": "./research/pedals/PRP Batch 088/EXP2000DR Clean & Drive.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "Baby Boom DS-10 Max Distortion",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/ds10",
+    "research_record": "./research/pedals/PRP Batch 089/Baby Boom DS-10 Max Distortion.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "Baby Boom FZ-10 Fuzz Star",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/fz10",
+    "research_record": "./research/pedals/PRP Batch 089/Baby Boom FZ-10 Fuzz Star.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "Baby Boom OD-19 Overdrive",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/od19",
+    "research_record": "./research/pedals/PRP Batch 089/Baby Boom OD-19 Overdrive.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "BL-12 Blues",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/bl12",
+    "research_record": "./research/pedals/PRP Batch 089/BL-12 Blues.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "BL-8 Blue",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/bl8",
+    "research_record": "./research/pedals/PRP Batch 089/BL-8 Blue.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "BO-1 Bass Over Drive",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/bo1",
+    "research_record": "./research/pedals/PRP Batch 089/BO-1 Bass Over Drive.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "DS-1 Distortion",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/ds1",
+    "research_record": "./research/pedals/PRP Batch 089/DS-1 Distortion.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "DS-12 Distortion",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds12",
+    "research_record": "./research/pedals/PRP Batch 089/DS-12 Distortion.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "DS-3 Distortion",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/ds3",
+    "research_record": "./research/pedals/PRP Batch 089/DS-3 Distortion.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "DS-7 Distortion",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds7",
+    "research_record": "./research/pedals/PRP Batch 089/DS-7 Distortion.md"
   }
 ]

@@ -841,3 +841,12 @@ The public catalog data is synchronized through **PRP1 batch 081**. The deployme
 **Running PRP1 count:** 653 researched, 277 pictured, 277 fully complete, 376 researched/photo-pending, 3544 incomplete. Total catalog: 3821.
 
 **Next exact-order target:** Biyang - Baby Boom DS-10 Max Distortion.
+
+
+## PRP1 Batch 089 checkpoint
+
+**Batch 089 completed:** 10 additional pedals researched and synchronized in exact tracker order: **Biyang - Baby Boom DS-10 Max Distortion; Baby Boom FZ-10 Fuzz Star; Baby Boom OD-19 Overdrive; BL-12 Blues; BL-8 Blue; BO-1 Bass Over Drive; DS-1 Distortion; DS-12 Distortion; DS-3 Distortion; DS-7 Distortion**. All 10 remain photo-pending with **No Photo Archived** because no stable exact-model direct image asset was promoted in this pass.
+
+**Running PRP1 count:** 663 researched, 277 pictured, 277 fully complete, 386 researched/photo-pending, 3544 incomplete. Total catalog: 3821.
+
+**Next exact-order target:** Biyang - DS-8 Mouse.
