@@ -45,15 +45,14 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **501** have pedal information researched
-- **234** have confirmed pictures
-- **234** are fully complete
-- **3,587** remain incomplete
-- **267** are researched but currently waiting only for a confirmed picture
+- **672** have pedal information researched
+- **277** have confirmed pictures
+- **277** are fully complete
+- **3,544** remain incomplete
+- **395** are researched but currently waiting only for a confirmed picture
 - **PRP status:** Active, PRP1 research and photo synchronization pass
-- **Current PRP1 target:** Basic Audio - Sharp Tooth
-- **PRP1 batch 074:** Ten records from Baroni Lab GD Drive through Basic Audio Scarab Deluxe were researched and synchronized; seven exact photos were archived and three remain photo-pending.
-- **Next exact-order missing-information target:** Basic Audio - Sharp Tooth
+- **Current PRP1 target:** **Biyang - OTD-100 Distortion**
+- **Latest synchronized batch:** PRP1 batch 090
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
 
@@ -179,3 +178,16 @@ Batch 073 completed ten exact-order PRP targets with synchronized research recor
 
 ## PRP1 batch 074 checkpoint
 Batch 074 completed ten exact-order PRP targets with synchronized research records, photo manifest entries, public index entries, and tracker status. The next target is **Basic Audio - Sharp Tooth**.
+
+
+## PRP1 batch 090 checkpoint
+
+Batch 090 completed the next ten unfinished records in exact tracker order: **Biyang - DS-8 Mouse; DS-9 Distortion; FZ-12 Fuzz; FZ-7 Fuzz; Junky Drive; Metal-End; NM-2 New Metal; OD-12 X-Drive; OD-7 Overdrive; and OD-8 X-Drive**.
+
+All ten now have individual Pedal Info research records and were synchronized across **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. No exact-model image met the stable archival-image standard in this pass, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+**Live tracker totals after Batch 090:** **3,821 total / 672 researched / 277 pictured / 277 fully complete / 3,544 incomplete**, with **395** researched pedals waiting only for confirmed pictures.
+
+**Next exact-order missing-information target:** **Biyang - OTD-100 Distortion**.
+
+**Parked/non-blocking:** **A.Y.A - Bass Fuzz** remains picture-pending for later exact-photo recovery.
