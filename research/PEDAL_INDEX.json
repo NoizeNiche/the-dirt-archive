@@ -1,6 +1,6 @@
 {
   "version": "2026-09-19-prp1-batch-044",
-  "count": 3831,
+  "count": 3821,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -1337,8 +1337,7 @@
       ],
       "image": "https://files.effectsdatabase.com/gear/thumbs/alairex_halo_001.jpg",
       "source_page": "https://www.effectsdatabase.com/model/alairex/halo",
-      "research_record": "./research/pedals/Alairex/H.A.L.O. - Harmonic Amp-Like Overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alairex/halo"
+      "research_record": "./research/pedals/Alairex/H.A.L.O. - Harmonic Amp-Like Overdrive.md"
     },
     {
       "company": "Alairex",
@@ -1348,8 +1347,7 @@
       ],
       "image": "https://files.effectsdatabase.com/gear/thumbs/alairex_halo-jr-namm2013_001.jpg",
       "source_page": "https://www.effectsdatabase.com/model/alairex/halo/jr",
-      "research_record": "./research/pedals/Alairex/H.A.L.O. Jr..md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alairex/halo/jr"
+      "research_record": "./research/pedals/Alairex/H.A.L.O. Jr..md"
     },
     {
       "company": "Alameda Guitars",
@@ -1359,8 +1357,7 @@
       ],
       "image": "https://alamedaguitars.com/wp-content/uploads/2026/08/FuzzooGlam01.jpg",
       "source_page": "https://alamedaguitars.com/fuzzoo/",
-      "research_record": "./research/pedals/Alameda Guitars/Fuzzoo.md",
-      "image_source_page": "https://alamedaguitars.com/fuzzoo/"
+      "research_record": "./research/pedals/Alameda Guitars/Fuzzoo.md"
     },
     {
       "company": "Alber",
@@ -1431,106 +1428,6 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/alber/zn/od6",
       "research_record": "./research/pedals/Alber/OD-6 Over Drive.md"
-    },
-    {
-      "company": "Alairex",
-      "pedal": "H.A.L.O. - Harmonic Amp-Like Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "Alairex",
-      "pedal": "H.A.L.O. Jr.",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "Alameda Guitars",
-      "pedal": "Fuzzoo",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "Alber",
-      "pedal": "FU-10",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "Alber",
-      "pedal": "FU-1000",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "Alber",
-      "pedal": "FU-1000P",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "Alber",
-      "pedal": "GA-104 Gain",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "Alber",
-      "pedal": "GA-1040 Gain",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "Alber",
-      "pedal": "GA-1040P Gain",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "Alber",
-      "pedal": "OD-6 Over Drive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
     },
     {
       "company": "Alber",
