@@ -611,3 +611,11 @@ All ten now have individual Pedal Info research records and were synchronized ac
 
 ## PRP1 batch 090 verification correction
 The repository-level tracker calculation after Batch 090 is **3,821 total / 672 researched / 278 pictured / 277 complete / 3,544 incomplete**, with **395** researched pedals waiting only for pictures. The 278 pictured count includes one legacy record, **Animals Pedal - In Oct,3 Foxes talking of dreamy FUZZ**, whose picture flag is still NEEDED in the tracker, so it is intentionally not counted as PRP Complete.
+
+## PRP1 Batch 096
+
+Batch 096 added 10 researched pedal records in exact order, from **Black Arts Toneworks - Tres Diablos Ruidosos** through **Black Cat Pedals - N-Fuzz**. All 10 remain photo-pending. Public data version: **2026-09-19-prp1-batch-096**.
+
+Current tracker flags: **725 researched / 276 pictured / 276 complete / 3544 incomplete / 449 researched-photo-pending**.
+
+Next exact-order target: **Black Cat Pedals - OD-1 Freddy Fuzz**.
