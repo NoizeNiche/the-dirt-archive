@@ -960,10 +960,10 @@ BSM,FuzzBender Fuzz Machine,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 
 BSM,J-Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 117/bsm-j-fuzz.md
 BSM,Overdrive Supreme,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 117/bsm-overdrive-supreme.md
 BSM,Spectrum Fuzz Booster,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 117/bsm-spectrum-fuzz-booster.md
-BSQ Effects,BO-2 Bulls On - Overdrive/Compressor,Overdrive,NEEDED,NEEDED,NEEDED,
-BSQ Effects,DM-2 Dynamite - Overdrive/Compressor,Overdrive,NEEDED,NEEDED,NEEDED,
-BSQ Effects,MS-2 Mean Street - Distortion + Booster,Distortion,NEEDED,NEEDED,NEEDED,
-BSQ Effects,SB-1 Scuttle Buttin' - Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
+BSQ Effects,BO-2 Bulls On - Overdrive/Compressor,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 118/bsq-effects-bo-2-bulls-on-overdrive-compressor.md
+BSQ Effects,DM-2 Dynamite - Overdrive/Compressor,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 118/bsq-effects-dm-2-dynamite-overdrive-compressor.md
+BSQ Effects,MS-2 Mean Street - Distortion + Booster,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 118/bsq-effects-ms-2-mean-street-distortion-booster.md
+BSQ Effects,SB-1 Scuttle Buttin' - Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 118/bsq-effects-sb-1-scuttle-buttin-overdrive.md
 Budda,Om Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
 Budda,Phatbass,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
 Budda,Phatman,Overdrive,NEEDED,NEEDED,NEEDED,
