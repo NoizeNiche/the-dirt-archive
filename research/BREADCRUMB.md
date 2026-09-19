@@ -375,3 +375,21 @@ Batch 049 processed the next ten incomplete records in exact website order: **Am
 - **Waiting on photos:** 119 researched pedals.
 - **Next exact-order incomplete target:** **Analog King — Fuzz Machine - Germanium Fuzz + Overdrive**.
 - **Parked/non-blocking:** A.Y.A — Bass Fuzz remains picture-pending.
+
+
+## PRP1 batch 052
+
+- **Window:** Analog Noir — Tone Bender MK1.5 / Tone Bender MKII; Tone Bender MKI; Tone Bender MKI / Rangemaster Treble Booster; Zonk Machine; Analog Sound — Atomic Overdrive; Double Trouble Overdrive; Scream For Cream OD; Smooth O' Drive; The Boogie Man.
+- **Action:** Added 9 Pedal Info research records and synchronized the canonical PRP data files. No exact-model direct image asset met the stable archival-photo standard.
+- **Counts:** 3,821 total / 306 researched / 168 pictured / 168 complete / 3,653 incomplete.
+- **Next exact-order incomplete target:** **Anarchy Audio Australia — Baa Bzz**.
+- **Parked/non-blocking:** A.Y.A — Bass Fuzz remains picture-pending.
+
+## PRP1 batch 053
+
+- **Window:** Anarchy Audio Australia — Baa Bzz.
+- **Action:** Added the individual Pedal Info research record and synchronized the canonical PRP data files.
+- **Photo status:** Exact retail imagery was confirmed visually, but no stable direct image asset was independently isolated, so Picture remains NEEDED.
+- **Counts:** 3,821 total / 307 researched / 168 pictured / 168 complete / 3,653 incomplete.
+- **Next exact-order incomplete target:** **Anarchy Audio Australia — Deadwoods - Chainsaw Fuzz**.
+- **Parked/non-blocking:** A.Y.A — Bass Fuzz remains picture-pending.
