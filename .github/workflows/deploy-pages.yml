@@ -133,7 +133,7 @@ jobs:
           assert "No Photo Archived" in home and "No Photo Archived" in detail, "No Photo Archived fallback is missing"
           assert "PEDAL_INDEX.json" in home and "PEDAL_INDEX.json" in detail, "Catalog data source missing from site"
           assert "item.research_record" in detail, "Pedal detail research binding is missing"
-          assert "variationSearchText.get(x.company+'\\u0000'+x.pedal)" not in home, "Variation search null-key bug remains"
+          assert r"variationSearchText.get(x.company+'\\u0000'+x.pedal)" not in home, "Variation search null-key bug remains"
           assert "playwright" in workflow_text.lower(), "Browser audit is missing from deployment workflow"
 
           print(f"Site data verified: {len(pedals)} pedals; {researched} researched; {pictured} pictured; {complete} complete; {incomplete} incomplete; {photo_pending} photo-pending.")
