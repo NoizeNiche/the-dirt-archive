@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-060",
+  "version": "2026-09-18-prp1-batch-061",
   "count": 3821,
   "pedals": [
     {
@@ -3237,8 +3237,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://audile.au/toad/",
+      "research_record": "./research/pedals/Audile/TOAD - Tone Overdrive And Distortion.md"
     },
     {
       "company": "Audio Aesthetic",
@@ -3247,8 +3247,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.audio-aesthetic.com/product-page/midnight-drive",
+      "research_record": "./research/pedals/Audio Aesthetic/Midnight Drive.md"
     },
     {
       "company": "Audio Kitchen",
@@ -3257,8 +3257,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.audiokitchen.co.uk/",
+      "research_record": "./research/pedals/Audio Kitchen/Fake Plastic Trees.md"
     },
     {
       "company": "Audio Kitchen",
@@ -3267,8 +3267,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.audiokitchen.co.uk/products/the-big-trees/",
+      "research_record": "./research/pedals/Audio Kitchen/The Big Trees.md"
     },
     {
       "company": "Audio Kitchen",
@@ -3277,8 +3277,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/audiokitchen/flyingsquirrel",
+      "research_record": "./research/pedals/Audio Kitchen/The Flying Squirrel.md"
     },
     {
       "company": "Audio Matrix",
@@ -3287,8 +3287,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/audiomatrix/miniboogee",
+      "research_record": "./research/pedals/Audio Matrix/Mini Boogee - Mini Matrix.md"
     },
     {
       "company": "Audio Monk",
@@ -3297,8 +3297,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/audiomonk/fuzzbeard",
+      "research_record": "./research/pedals/Audio Monk/Fuzzbeard.md"
     },
     {
       "company": "Audio Monk",
@@ -3307,8 +3307,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/audiomonk",
+      "research_record": "./research/pedals/Audio Monk/Fuzzpotion - Bass Fuzz.md"
     },
     {
       "company": "Audio Monk",
@@ -3318,8 +3318,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/audiomonk/rubiedrive",
+      "research_record": "./research/pedals/Audio Monk/Rubie Drive.md"
     },
     {
       "company": "Audio Squared",
@@ -3328,8 +3328,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/audiosquared/majorfuzz",
+      "research_record": "./research/pedals/Audio Squared/Major Fuzz.md"
     },
     {
       "company": "Audio Surplus Effects",

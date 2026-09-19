@@ -2727,5 +2727,75 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/audile/toad/bass",
     "research_record": "./research/pedals/Audile/Bass TOAD - Tone Overdrive And Distortion for Bass.md"
+  },
+  {
+    "builder": "Audile",
+    "pedal": "TOAD - Tone Overdrive And Distortion",
+    "image": null,
+    "source_page": "https://audile.au/toad/",
+    "research_record": "./research/pedals/Audile/TOAD - Tone Overdrive And Distortion.md"
+  },
+  {
+    "builder": "Audio Aesthetic",
+    "pedal": "Midnight Drive",
+    "image": null,
+    "source_page": "https://www.audio-aesthetic.com/product-page/midnight-drive",
+    "research_record": "./research/pedals/Audio Aesthetic/Midnight Drive.md"
+  },
+  {
+    "builder": "Audio Kitchen",
+    "pedal": "Fake Plastic Trees",
+    "image": null,
+    "source_page": "https://www.audiokitchen.co.uk/",
+    "research_record": "./research/pedals/Audio Kitchen/Fake Plastic Trees.md"
+  },
+  {
+    "builder": "Audio Kitchen",
+    "pedal": "The Big Trees",
+    "image": null,
+    "source_page": "https://www.audiokitchen.co.uk/products/the-big-trees/",
+    "research_record": "./research/pedals/Audio Kitchen/The Big Trees.md"
+  },
+  {
+    "builder": "Audio Kitchen",
+    "pedal": "The Flying Squirrel",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/audiokitchen/flyingsquirrel",
+    "research_record": "./research/pedals/Audio Kitchen/The Flying Squirrel.md"
+  },
+  {
+    "builder": "Audio Matrix",
+    "pedal": "Mini Boogee / Mini Matrix",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/audiomatrix/miniboogee",
+    "research_record": "./research/pedals/Audio Matrix/Mini Boogee - Mini Matrix.md"
+  },
+  {
+    "builder": "Audio Monk",
+    "pedal": "Fuzzbeard",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/audiomonk/fuzzbeard",
+    "research_record": "./research/pedals/Audio Monk/Fuzzbeard.md"
+  },
+  {
+    "builder": "Audio Monk",
+    "pedal": "Fuzzpotion - Bass Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/audiomonk",
+    "research_record": "./research/pedals/Audio Monk/Fuzzpotion - Bass Fuzz.md"
+  },
+  {
+    "builder": "Audio Monk",
+    "pedal": "Rubie Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/audiomonk/rubiedrive",
+    "research_record": "./research/pedals/Audio Monk/Rubie Drive.md"
+  },
+  {
+    "builder": "Audio Squared",
+    "pedal": "Major Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/audiosquared/majorfuzz",
+    "research_record": "./research/pedals/Audio Squared/Major Fuzz.md"
   }
 ]
