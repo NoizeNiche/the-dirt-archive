@@ -2797,5 +2797,75 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/audiosquared/majorfuzz",
     "research_record": "./research/pedals/Audio Squared/Major Fuzz.md"
+  },
+  {
+    "builder": "Audio Surplus Effects",
+    "pedal": "Burden",
+    "image": null,
+    "source_page": "https://reverb.com/item/53422633-audio-surplus-effects-burden-doom-drone-sludge-fuzz-distortion",
+    "research_record": "./research/pedals/Audio Surplus Effects/Burden.md"
+  },
+  {
+    "builder": "Audio Surplus Effects",
+    "pedal": "Dornenkrone",
+    "image": null,
+    "source_page": "https://audiosurpluseffects.bigcartel.com/product/dornenkrone",
+    "research_record": "./research/pedals/Audio Surplus Effects/Dornenkrone.md"
+  },
+  {
+    "builder": "Audio Surplus Effects",
+    "pedal": "Lurid Machine",
+    "image": null,
+    "source_page": "https://audiosurpluseffects.bigcartel.com/product/lurid-machine",
+    "research_record": "./research/pedals/Audio Surplus Effects/Lurid Machine.md"
+  },
+  {
+    "builder": "Audio Surplus Effects",
+    "pedal": "Massenpanik",
+    "image": null,
+    "source_page": "https://audiosurpluseffects.bigcartel.com/product/massenpanik",
+    "research_record": "./research/pedals/Audio Surplus Effects/Massenpanik.md"
+  },
+  {
+    "builder": "Audio Surplus Effects",
+    "pedal": "Ok Doomer",
+    "image": null,
+    "source_page": "https://reverb.com/item/84497231-audio-surplus-effects-ok-doomer",
+    "research_record": "./research/pedals/Audio Surplus Effects/Ok Doomer.md"
+  },
+  {
+    "builder": "Audio Surplus Effects",
+    "pedal": "Radio Trash Unrealistic Overdrive",
+    "image": null,
+    "source_page": "https://audiosurpluseffects.bigcartel.com/product/radio-trash-unrealistic-overdrive",
+    "research_record": "./research/pedals/Audio Surplus Effects/Radio Trash Unrealistic Overdrive.md"
+  },
+  {
+    "builder": "Audio-Phonic",
+    "pedal": "R4 Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/audiophonic/r4",
+    "research_record": "./research/pedals/Audio-Phonic/R4 Fuzz.md"
+  },
+  {
+    "builder": "Audio-Phonic",
+    "pedal": "Twin-Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/audiophonic/twinfuzz",
+    "research_record": "./research/pedals/Audio-Phonic/Twin-Fuzz.md"
+  },
+  {
+    "builder": "Audio! Audio!",
+    "pedal": "SD-1 Superdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/audioaudio/superdrive",
+    "research_record": "./research/pedals/Audio! Audio!/SD-1 Superdrive.md"
+  },
+  {
+    "builder": "Audiobox",
+    "pedal": "Crunch Box",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/audiobox/crunchbox",
+    "research_record": "./research/pedals/Audiobox/Crunch Box.md"
   }
 ]
