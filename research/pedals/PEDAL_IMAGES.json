@@ -2867,5 +2867,77 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/audiobox/crunchbox",
     "research_record": "./research/pedals/Audiobox/Crunch Box.md"
+  },
+  {
+    "builder": "Audiofab",
+    "pedal": "Chonky Boi",
+    "image": "https://images.squarespace-cdn.com/content/v1/50591569c4aa7e7ffccb9263/1776956083761-6RW3HTCGVXTRQ1YT2KET/Chonky-Boi-front-new_processed.webp",
+    "source_page": "https://audiofab.com/products/chonky-boi",
+    "research_record": "./research/pedals/Audiofab/Chonky Boi.md",
+    "image_source_page": "https://audiofab.com/products/chonky-boi"
+  },
+  {
+    "builder": "Audiofab",
+    "pedal": "Valve Warper",
+    "image": "https://images.squarespace-cdn.com/content/v1/50591569c4aa7e7ffccb9263/1776955908602-KP5D15GCSJIT52GVL6W8/Valve-Warper-front-new_processed.webp",
+    "source_page": "https://audiofab.com/products/valve-warper",
+    "research_record": "./research/pedals/Audiofab/Valve Warper.md",
+    "image_source_page": "https://audiofab.com/products/valve-warper"
+  },
+  {
+    "builder": "Audiostorm",
+    "pedal": "ADNA",
+    "image": null,
+    "source_page": "https://audiostorm.uk/retired-products/",
+    "research_record": "./research/pedals/Audiostorm/ADNA.md"
+  },
+  {
+    "builder": "Audiostorm",
+    "pedal": "F258 Drive",
+    "image": null,
+    "source_page": "https://audiostorm.uk/retired-products/",
+    "research_record": "./research/pedals/Audiostorm/F258 Drive.md"
+  },
+  {
+    "builder": "Audiostorm",
+    "pedal": "Grand Classic Distortion",
+    "image": null,
+    "source_page": "https://audiostorm.uk/product/grand-classic/",
+    "research_record": "./research/pedals/Audiostorm/Grand Classic Distortion.md"
+  },
+  {
+    "builder": "Audiostorm",
+    "pedal": "Otherworld Overdrive",
+    "image": null,
+    "source_page": "https://audiostorm.uk/product/otherworld/",
+    "research_record": "./research/pedals/Audiostorm/Otherworld Overdrive.md"
+  },
+  {
+    "builder": "Audiostorm",
+    "pedal": "Quad Screamer Overdrive",
+    "image": null,
+    "source_page": "https://audiostorm.uk/product/quad-screamer/",
+    "research_record": "./research/pedals/Audiostorm/Quad Screamer Overdrive.md"
+  },
+  {
+    "builder": "Aul Instruments",
+    "pedal": "Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/aul/fuzz",
+    "research_record": "./research/pedals/Aul Instruments/Fuzz.md"
+  },
+  {
+    "builder": "Aural Dream",
+    "pedal": "Bold Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/auraldream/distortion/bold",
+    "research_record": "./research/pedals/Aural Dream/Bold Distortion.md"
+  },
+  {
+    "builder": "Aural Dream",
+    "pedal": "Compelling Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/auraldream/drive/compelling",
+    "research_record": "./research/pedals/Aural Dream/Compelling Drive.md"
   }
 ]

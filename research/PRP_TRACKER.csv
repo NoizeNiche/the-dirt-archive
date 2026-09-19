@@ -332,21 +332,21 @@ Audio-Phonic,R4 Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Audio-Phonic/R4 F
 Audio-Phonic,Twin-Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Audio-Phonic/Twin-Fuzz.md
 Audio! Audio!,SD-1 Superdrive,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Audio! Audio!/SD-1 Superdrive.md
 Audiobox,Crunch Box,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Audiobox/Crunch Box.md
-Audiofab,Chonky Boi,Distortion,NEEDED,NEEDED,NEEDED,
-Audiofab,Valve Warper,Overdrive,NEEDED,NEEDED,NEEDED,
+Audiofab,Chonky Boi,Distortion,DONE,DONE,DONE,./research/pedals/Audiofab/Chonky Boi.md
+Audiofab,Valve Warper,Overdrive,DONE,DONE,DONE,./research/pedals/Audiofab/Valve Warper.md
 Audiolithe,Chaosculpt Bass,Fuzz,DONE,DONE,DONE,./research/pedals/Audiolithe/Chaosculpt_Bass.md
 Audiolithe,Doomer Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Audiolithe/Doomer_Fuzz.md
 Audiolithe,Extinction Drive,Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Audiolithe/Extinction_Drive.md
 Audiolithe,La Montagne,Fuzz,DONE,DONE,DONE,./research/pedals/Audiolithe/La_Montagne.md
 Audiolithe,The Empress Bass,Overdrive,DONE,DONE,DONE,./research/pedals/Audiolithe/The_Empress_Bass.md
-Audiostorm,ADNA,Overdrive,NEEDED,NEEDED,NEEDED,
-Audiostorm,F258 Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-Audiostorm,Grand Classic Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-Audiostorm,Otherworld Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Audiostorm,Quad Screamer Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Aul Instruments,Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Aural Dream,Bold Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-Aural Dream,Compelling Drive,Overdrive,NEEDED,NEEDED,NEEDED,
+Audiostorm,ADNA,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Audiostorm/ADNA.md
+Audiostorm,F258 Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Audiostorm/F258 Drive.md
+Audiostorm,Grand Classic Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Audiostorm/Grand Classic Distortion.md
+Audiostorm,Otherworld Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Audiostorm/Otherworld Overdrive.md
+Audiostorm,Quad Screamer Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Audiostorm/Quad Screamer Overdrive.md
+Aul Instruments,Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Aul Instruments/Fuzz.md
+Aural Dream,Bold Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Aural Dream/Bold Distortion.md
+Aural Dream,Compelling Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Aural Dream/Compelling Drive.md
 Aural Dream,Intense Distortion,Distortion,NEEDED,NEEDED,NEEDED,
 Aural Dream,Purely Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Aural Dream,Warm Drive,Overdrive,NEEDED,NEEDED,NEEDED,

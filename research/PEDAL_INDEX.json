@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-062",
+  "version": "2026-09-18-prp1-batch-063",
   "count": 3821,
   "pedals": [
     {
@@ -3441,9 +3441,10 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/50591569c4aa7e7ffccb9263/1776956083761-6RW3HTCGVXTRQ1YT2KET/Chonky-Boi-front-new_processed.webp",
+      "source_page": "https://audiofab.com/products/chonky-boi",
+      "research_record": "./research/pedals/Audiofab/Chonky Boi.md",
+      "image_source_page": "https://audiofab.com/products/chonky-boi"
     },
     {
       "company": "Audiofab",
@@ -3451,9 +3452,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/50591569c4aa7e7ffccb9263/1776955908602-KP5D15GCSJIT52GVL6W8/Valve-Warper-front-new_processed.webp",
+      "source_page": "https://audiofab.com/products/valve-warper",
+      "research_record": "./research/pedals/Audiofab/Valve Warper.md",
+      "image_source_page": "https://audiofab.com/products/valve-warper"
     },
     {
       "company": "Audiolithe",
@@ -3513,8 +3515,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://audiostorm.uk/retired-products/",
+      "research_record": "./research/pedals/Audiostorm/ADNA.md"
     },
     {
       "company": "Audiostorm",
@@ -3523,8 +3525,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://audiostorm.uk/retired-products/",
+      "research_record": "./research/pedals/Audiostorm/F258 Drive.md"
     },
     {
       "company": "Audiostorm",
@@ -3533,8 +3535,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://audiostorm.uk/product/grand-classic/",
+      "research_record": "./research/pedals/Audiostorm/Grand Classic Distortion.md"
     },
     {
       "company": "Audiostorm",
@@ -3543,8 +3545,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://audiostorm.uk/product/otherworld/",
+      "research_record": "./research/pedals/Audiostorm/Otherworld Overdrive.md"
     },
     {
       "company": "Audiostorm",
@@ -3553,8 +3555,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://audiostorm.uk/product/quad-screamer/",
+      "research_record": "./research/pedals/Audiostorm/Quad Screamer Overdrive.md"
     },
     {
       "company": "Aul Instruments",
@@ -3563,8 +3565,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/aul/fuzz",
+      "research_record": "./research/pedals/Aul Instruments/Fuzz.md"
     },
     {
       "company": "Aural Dream",
@@ -3573,8 +3575,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/auraldream/distortion/bold",
+      "research_record": "./research/pedals/Aural Dream/Bold Distortion.md"
     },
     {
       "company": "Aural Dream",
@@ -3583,8 +3585,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/auraldream/drive/compelling",
+      "research_record": "./research/pedals/Aural Dream/Compelling Drive.md"
     },
     {
       "company": "Aural Dream",
