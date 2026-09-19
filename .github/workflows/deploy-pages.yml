@@ -17,7 +17,9 @@ concurrency:
 
 jobs:
   deploy:
-    if: github.actor != 'github-actions[bot]'
+    if: >
+      github.actor != 'github-actions[bot]'
+      || contains(github.event.head_commit.message, 'Archive verified pedal photos locally')
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
