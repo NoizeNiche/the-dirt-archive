@@ -153,7 +153,7 @@ jobs:
           const { chromium } = require('playwright');
 
           function rgb(value) {
-            const m = value && value.match(/rgba?\\(([^)]+)\\)/);
+            const m = value && value.match(/rgba?\(([^)]+)\)/);
             if (!m) return null;
             return m[1].split(',').slice(0,3).map(x => Number.parseFloat(x.trim()));
           }
@@ -180,6 +180,28 @@ jobs:
             const researchedParents = (catalog.pedals || []).filter(
               x => x.research_record && x.catalog_role !== 'variation'
             );
+
+            // Every cataloged image URL must still resolve as an image before deployment.
+            const picturedEntries = (catalog.pedals || []).filter(x => x.image);
+            let cursor = 0;
+            const imageFailures = [];
+            async function checkImageUrls() {
+              while (cursor < picturedEntries.length) {
+                const entry = picturedEntries[cursor++];
+                try {
+                  const res = await page.request.get(entry.image, {timeout:10000});
+                  const contentType = (res.headers()['content-type'] || '').toLowerCase();
+                  if (!res.ok() || !contentType.startsWith('image/')) {
+                    imageFailures.push(entry.company + ' / ' + entry.pedal + ' -> ' + res.status() + ' ' + contentType);
+                  }
+                } catch (err) {
+                  imageFailures.push(entry.company + ' / ' + entry.pedal + ' -> ' + err.message);
+                }
+              }
+            }
+            await Promise.all(Array.from({length:8}, () => checkImageUrls()));
+            if (imageFailures.length) throw new Error('Pictured image URL failures: ' + imageFailures.join(' | '));
+            console.log('Verified', picturedEntries.length, 'pictured catalog image URLs.');
 
             // Landing page: catalog window, core controls, and link structure.
             await page.goto('http://127.0.0.1:4173/index.html', {waitUntil:'networkidle'});
