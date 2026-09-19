@@ -4,9 +4,6 @@ name: Deploy The Dirt Archive
 on:
   push:
     branches: [main]
-  workflow_run:
-    workflows: ["Cache pedal images"]
-    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -17,9 +14,6 @@ permissions:
 
 jobs:
   deploy:
-    if: >
-      github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success'
-      || github.event_name != 'workflow_run' && github.actor != 'github-actions[bot]'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -159,8 +153,35 @@ jobs:
           print(f"Site data verified: {len(pedals)} pedals; {researched} researched; {pictured} pictured; {complete} complete; {incomplete} incomplete; {photo_pending} photo-pending.")
           PY
 
+      - name: Check local photo cache gate
+        id: cache_gate
+        run: |
+          python - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          catalog = json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8"))
+          external = [
+              f"{x.get('company')} / {x.get('pedal')}"
+              for x in catalog.get("pedals", [])
+              if x.get("image") and re.match(r"^https?://", x.get("image"))
+          ]
+          if external:
+              print(f"Photo cache pending for {len(external)} pictured entries; waiting for the local cache commit.")
+              for item in external[:12]:
+                  print(f" - {item}")
+              with open("$GITHUB_OUTPUT", "a", encoding="utf-8") as handle:
+                  handle.write("ready=false\n")
+          else:
+              print("All pictured catalog images are local.")
+              with open("$GITHUB_OUTPUT", "a", encoding="utf-8") as handle:
+                  handle.write("ready=true\n")
+          PY
+
 
       - name: Browser audit for all researched pedal pages
+        if: steps.cache_gate.outputs.ready == 'true'
         run: |
           python -m http.server 4173 >/tmp/dirt-archive-http.log 2>&1 &
           SERVER_PID=$!
@@ -479,10 +500,12 @@ jobs:
           JS
 
       - name: Upload site
+        if: steps.cache_gate.outputs.ready == 'true'
         uses: actions/upload-pages-artifact@v4
         with:
           path: .
 
       - name: Deploy
         id: deployment
+        if: steps.cache_gate.outputs.ready == 'true'
         uses: actions/deploy-pages@v4
