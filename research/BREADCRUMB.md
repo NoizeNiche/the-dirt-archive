@@ -667,3 +667,15 @@ Batch 112 completed an exact-order photo-recovery pass across **A&M Custom Effec
 
 **Public data version:** **2026-09-19-prp1-batch-112**.
 
+
+## Latest PRP1 checkpoint — Batch 113
+
+Batch 113 performed another exact-order photo-recovery pass across the current first ten incomplete catalog records: **A&M Custom Effects - Crash Central - Crunch Distortion; Crazyboy - Double Fuzz; Metal Maniac - Mega Distortion; Twin Pro - Overdrive; AboveGroundFX - El Griton Overdrive; Rocks Hard; Absolutely Analog - Ratzo; AC Efectos - Triplex Distortion; Accel Audio - OD-SS Express Overdrive; and Accel Stompzilla Fuzz**.
+
+The exact model pages and indexed historical references were rechecked. Effects Database confirms the exact A&M, AboveGroundFX, AC Efectos, and Accel catalog identities, but the currently exposed image references are source pages/dynamic listings rather than stable directly retrievable image assets suitable for local archival promotion. No substitute or inferred photo was promoted. All ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+**Current tracker totals:** **3,821 total / 865 researched / 295 pictured / 295 complete / 3,526 incomplete / 570 researched-photo-pending**.
+
+**Next exact-order target:** **A&M Custom Effects - Crash Central - Crunch Distortion**.
+
+**Public data version:** **2026-09-19-prp1-batch-113**.
