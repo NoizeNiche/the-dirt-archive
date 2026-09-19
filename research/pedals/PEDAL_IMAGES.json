@@ -4073,5 +4073,85 @@
     "source": "verified research source",
     "source_page": "https://www.behringer.com/en/products/0709-ACK",
     "research_record": "./research/pedals/Behringer/SF300 Super Fuzz.md"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "UZ400 Ultra Fuzz",
+    "image": "https://cdn-media.empowertribe.com/44ade04164b04517a49757f6d17e1f02/Image_BE_0709-ACL_UZ400_Web-Banner_Mobile_2023-09-13_Rev.0.jpg",
+    "source": "verified research source",
+    "source_page": "https://www.behringer.com/en/products/0709-ACL",
+    "research_record": "./research/pedals/Behringer/UZ400 Ultra Fuzz.md"
+  },
+  {
+    "builder": "Benson Amps",
+    "pedal": "Deep Sea Diver Fuzz-Echo",
+    "image": "https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/e929250b-627c-4158-85a2-7303a98bf66f/fuzzecho_01_0887.jpg",
+    "source": "verified research source",
+    "source_page": "https://www.bensonamps.com/guitarpedals/deep-sea-diver-fuzz-echo",
+    "research_record": "./research/pedals/Benson Amps/Deep Sea Diver Fuzz-Echo.md"
+  },
+  {
+    "builder": "Benson Amps",
+    "pedal": "Germanium Fuzz",
+    "image": "https://www.chicagomusicexchange.com/cdn/shop/files/benson-effects-and-pedals-fuzz-benson-germanium-fuzz-benson-germanium-fuzz-u7459020405-1219839600.jpg?v=1770662978&width=1946",
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/benson/fuzz/germanium",
+    "research_record": "./research/pedals/Benson Amps/Germanium Fuzz.md"
+  },
+  {
+    "builder": "Benson Amps",
+    "pedal": "Germanium Preamp Pedal",
+    "image": "https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/6644115c-96eb-4c40-848c-5ad38dc780c8/germ-pre_01_9765.jpg",
+    "source": "verified research source",
+    "source_page": "https://www.bensonamps.com/guitarpedals/germaniumpreamp",
+    "research_record": "./research/pedals/Benson Amps/Germanium Preamp Pedal.md"
+  },
+  {
+    "builder": "Benson Amps",
+    "pedal": "Portable Distortion 424 MKII",
+    "image": "https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/784c86f6-1c0f-48d8-8431-2b9da6926034/pedals_17_0947.jpg",
+    "source": "verified research source",
+    "source_page": "https://www.bensonamps.com/guitarpedals/424-mkii-preamp",
+    "research_record": "./research/pedals/Benson Amps/Portable Distortion 424 MKII.md"
+  },
+  {
+    "builder": "Benson Amps",
+    "pedal": "Preamp Pedal",
+    "image": "https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/1b80ff67-ed0e-4173-b15d-482c9d043faa/preamp_01_9832.jpg",
+    "source": "verified research source",
+    "source_page": "https://www.bensonamps.com/guitarpedals/preamp",
+    "research_record": "./research/pedals/Benson Amps/Preamp Pedal.md"
+  },
+  {
+    "builder": "Benson Amps",
+    "pedal": "Stonk Box",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/benson/stonkbox",
+    "research_record": "./research/pedals/Benson Amps/Stonk Box.md"
+  },
+  {
+    "builder": "Benson Amps",
+    "pedal": "Störkn B0kš",
+    "image": "https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/bf3b84ec-d7ff-4543-870b-70cb20a648af/stonk_01_9815.jpg",
+    "source": "verified research source",
+    "source_page": "https://www.bensonamps.com/guitarpedals/strkn-b0k",
+    "research_record": "./research/pedals/Benson Amps/Störkn B0kš.md"
+  },
+  {
+    "builder": "Beta Aivin",
+    "pedal": "BOD-1 Bass Overdrive",
+    "image": "https://rvb-img.reverb.com/i/s--CRo-YtDA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ktwe69qltfzjxjhw4kpk.jpg",
+    "source": "verified research source",
+    "source_page": "https://reverb.com/item/15622919-beta-aivin-bod-1-bass-overdrive-pedal",
+    "research_record": "./research/pedals/Beta Aivin/BOD-1 Bass Overdrive.md"
+  },
+  {
+    "builder": "Beta Aivin",
+    "pedal": "BOD-2 Bass Overdrive",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.pedalboard.org/strom-liste/beta-aivin",
+    "research_record": "./research/pedals/Beta Aivin/BOD-2 Bass Overdrive.md"
   }
 ]
