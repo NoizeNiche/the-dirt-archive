@@ -935,3 +935,20 @@ All ten now have individual Pedal Info research records synchronized into **PEDA
 ## Local pedal image architecture - September 19, 2026
 
 Pedal photos are being migrated from externally hosted runtime URLs to a canonical local archive structure. Each model/version owns **assets/pedals/{builder}/{pedal}/primary.webp**; subordinate colorways/editions belong under that parent in **variants/{variant}.webp**. The catalog keeps the original source URL separately as **image_source_url** for provenance, while **image** becomes the local runtime path. Materially distinct public versions keep separate pedal directories. The durable schema is documented in **research/PEDAL_IMAGE_ARCHITECTURE.md**.
+
+
+## Photo-system audit checkpoint — September 19, 2026
+
+The photo collection pipeline, public catalog wiring, deployment validation, hourly health checks, PRP rules, and project documentation now share the local-first image architecture.
+
+- Exact primary photos belong under a per-builder/per-pedal directory as `primary.webp`.
+- Colorway/edition photos belong under the parent pedal's `variants/` directory.
+- Materially distinct public versions remain separate pedal identities and receive separate primary-image directories.
+- `image_source_url` preserves the original remote image URL for provenance; `image_source_page` preserves the verification/source page.
+- New photo collection is treated as a source-image retrieval followed by local archival, not permanent external hotlinking.
+- Pages deployment waits for the local photo cache when pictured entries still use remote image URLs.
+- Deployment validation requires local image-file existence and provenance for cached images.
+- Hourly health validation checks local image existence, index/manifest synchronization, and accepts intentional external-to-local photo migrations without falsely flagging them as PRP regressions.
+- The cache workflow is protected against stale-branch pushes and repeated self-trigger loops.
+- The complete backend contract is documented in `research/PEDAL_IMAGE_ARCHITECTURE.md`.
+
