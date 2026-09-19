@@ -119,11 +119,3 @@ A parallel photo audit covered the next exact-order unresolved records through *
 The direct-host search was widened to builder-domain queries, Effects Database image records, historical resale references, and exact-name image indexing across the current 10-pedal unresolved window. For **A.Y.A Bass Fuzz**, the original image remains visually confirmed through the indexed Mercari record, but no stable direct asset was exposed. For the following records, Effects Database confirms exact product pages and, in some cases, visible catalog imagery, but the accessible image infrastructure is either dynamic affiliate material or does not expose a safe direct file URL. No picture was promoted in this pass.
 
 The archive therefore remains intentionally conservative: visible web imagery is evidence, but it is not treated as an archival asset until the exact image can be tied to a stable retrievable URL.
-
-## PRP1 photo-recovery pass — batch 039
-
-A fresh September 18, 2026 source audit re-opened the live Effects Database record. It currently identifies **A.Y.A Bass Fuzz** as a standalone A.Y.A fuzz product, published October 3, 2007, with the documented Fuzz and Volume controls. The image-indexed original-model photograph from the 2024 Mercari listing remains the clearest surviving visual reference for the base pedal. The Mercari page itself is no longer retrievable, however, and the current live resale result located during this pass is explicitly **A.Y.A Bass Fuzz BASS FUZZII**, so that image remains excluded from the base-model record. No stable direct exact-model image asset was recovered. [16][17][18]
-
-16. Effects Database — A.Y.A Bass Fuzz: https://www.effectsdatabase.com/model/aya/bassfuzz
-17. Image-index result — A.Y.A tokyo japan BASS FUZZ, Mercari item m93721008252: https://jp.mercari.com/item/m93721008252
-18. eBay — A.Y.A Bass Fuzz BASS FUZZII, current listing: https://www.ebay.com/itm/198645645124
