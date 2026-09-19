@@ -17,3 +17,21 @@ These records are already researched and linked. Their pictures remain **NEEDED*
 A.Y.A — Bass Fuzz is also parked for later exact-model photo recovery and remains non-blocking.
 
 The temporary Batch 044 duplicate-row problem was already corrected in commit `6c8fd02af3ca85cc29f8399c7bdb0eb38ecc895d`. This file is a photo-recovery checklist, not a duplicate-data repair request.
+
+
+## Batch 050 photo-recovery queue
+
+Recover stable, exact-model archival images for these nine researched pedals when photo cleanup resumes:
+- AMT Electronics — S-1
+- AMT Electronics — SS-11B
+- AMT Electronics — SS-20
+- AMtech Handwired — Destroyer
+- AMtech Handwired — Tube Drive
+- amukaT — Tweaker
+- Amzel Electronics — Cheshire Cat Tone Evaporator
+- Analog Alien — Joe Walsh Double Classic
+- Analog Fox — Tone Machine
+
+**Analog Alien — Rumble Seat is excluded from this queue because its exact-model photo is now archived.**
+
+Continue to keep A.Y.A — Bass Fuzz parked and non-blocking until a qualifying base-model image is recovered.

@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-049",
+  "version": "2026-09-18-prp1-batch-050",
   "count": 3821,
   "pedals": [
     {
@@ -2164,8 +2164,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://media.amtelectronics.com/amt-s1/",
+      "research_record": "./research/pedals/PRP Batch 050/S-1.md"
     },
     {
       "company": "AMT Electronics",
@@ -2174,8 +2174,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://amtelectronics.com/new/amt-ss-11b/",
+      "research_record": "./research/pedals/PRP Batch 050/SS-11B.md"
     },
     {
       "company": "AMT Electronics",
@@ -2184,8 +2184,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://amtelectronics.com/new/manuals/SS-20-v2-manual-ENG.pdf",
+      "research_record": "./research/pedals/PRP Batch 050/SS-20.md"
     },
     {
       "company": "AMtech Handwired",
@@ -2194,8 +2194,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.amtechhandwired.com/?page_id=732",
+      "research_record": "./research/pedals/PRP Batch 050/Destroyer.md"
     },
     {
       "company": "AMtech Handwired",
@@ -2204,8 +2204,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.amtechhandwired.com/?page_id=110",
+      "research_record": "./research/pedals/PRP Batch 050/Tube Drive.md"
     },
     {
       "company": "amukaT",
@@ -2214,8 +2214,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/amukat/tweaker",
+      "research_record": "./research/pedals/PRP Batch 050/Tweaker.md"
     },
     {
       "company": "Amzel Electronics",
@@ -2225,8 +2225,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.premierguitar.com/amzel-electronics-releases-the-cheshire-cat",
+      "research_record": "./research/pedals/PRP Batch 050/Cheshire Cat Tone Evaporator.md"
     },
     {
       "company": "Analog Alien",
@@ -2292,8 +2292,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://analogalien.com/joe-walsh-double-classic/",
+      "research_record": "./research/pedals/PRP Batch 050/Joe Walsh Double Classic.md"
     },
     {
       "company": "Analog Alien",
@@ -2301,9 +2301,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://media.sweetwater.com/m/products/image/27a559e06dJjMKdb92UbvPS1YLtpnySrFMbv6YrH.jpg",
+      "source_page": "https://analogalien.com/rumble-seat/",
+      "research_record": "./research/pedals/PRP Batch 050/Rumble Seat.md",
+      "image_source_page": "https://www.sweetwater.com/store/detail/RumbleSeat--analog-alien-rumble-seat-overdrive-delay-reverb-pedal"
     },
     {
       "company": "Analog Fox",
@@ -2312,8 +2313,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/analogfox/tonemachine",
+      "research_record": "./research/pedals/PRP Batch 050/Tone Machine.md"
     },
     {
       "company": "Analog King",

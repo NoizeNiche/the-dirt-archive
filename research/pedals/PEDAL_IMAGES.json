@@ -2106,5 +2106,76 @@
     "source_page": "https://amtelectronics.com/",
     "research_record": "./research/pedals/PRP Batch 049/Rammstein RD Distortion Combo Emulator.md",
     "photo_status": "NEEDED"
+  },
+  {
+    "builder": "AMT Electronics",
+    "pedal": "S-1",
+    "image": null,
+    "source_page": "https://media.amtelectronics.com/amt-s1/",
+    "research_record": "./research/pedals/PRP Batch 050/S-1.md"
+  },
+  {
+    "builder": "AMT Electronics",
+    "pedal": "SS-11B",
+    "image": null,
+    "source_page": "https://amtelectronics.com/new/amt-ss-11b/",
+    "research_record": "./research/pedals/PRP Batch 050/SS-11B.md"
+  },
+  {
+    "builder": "AMT Electronics",
+    "pedal": "SS-20",
+    "image": null,
+    "source_page": "https://amtelectronics.com/new/manuals/SS-20-v2-manual-ENG.pdf",
+    "research_record": "./research/pedals/PRP Batch 050/SS-20.md"
+  },
+  {
+    "builder": "AMtech Handwired",
+    "pedal": "Destroyer",
+    "image": null,
+    "source_page": "https://www.amtechhandwired.com/?page_id=732",
+    "research_record": "./research/pedals/PRP Batch 050/Destroyer.md"
+  },
+  {
+    "builder": "AMtech Handwired",
+    "pedal": "Tube Drive",
+    "image": null,
+    "source_page": "https://www.amtechhandwired.com/?page_id=110",
+    "research_record": "./research/pedals/PRP Batch 050/Tube Drive.md"
+  },
+  {
+    "builder": "amukaT",
+    "pedal": "Tweaker",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/amukat/tweaker",
+    "research_record": "./research/pedals/PRP Batch 050/Tweaker.md"
+  },
+  {
+    "builder": "Amzel Electronics",
+    "pedal": "Cheshire Cat Tone Evaporator",
+    "image": null,
+    "source_page": "https://www.premierguitar.com/amzel-electronics-releases-the-cheshire-cat",
+    "research_record": "./research/pedals/PRP Batch 050/Cheshire Cat Tone Evaporator.md"
+  },
+  {
+    "builder": "Analog Alien",
+    "pedal": "Joe Walsh Double Classic",
+    "image": null,
+    "source_page": "https://analogalien.com/joe-walsh-double-classic/",
+    "research_record": "./research/pedals/PRP Batch 050/Joe Walsh Double Classic.md"
+  },
+  {
+    "builder": "Analog Alien",
+    "pedal": "Rumble Seat",
+    "image": "https://media.sweetwater.com/m/products/image/27a559e06dJjMKdb92UbvPS1YLtpnySrFMbv6YrH.jpg",
+    "source_page": "https://analogalien.com/rumble-seat/",
+    "research_record": "./research/pedals/PRP Batch 050/Rumble Seat.md",
+    "image_source_page": "https://www.sweetwater.com/store/detail/RumbleSeat--analog-alien-rumble-seat-overdrive-delay-reverb-pedal"
+  },
+  {
+    "builder": "Analog Fox",
+    "pedal": "Tone Machine",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/analogfox/tonemachine",
+    "research_record": "./research/pedals/PRP Batch 050/Tone Machine.md"
   }
 ]
