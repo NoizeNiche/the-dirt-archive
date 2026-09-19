@@ -227,12 +227,12 @@ The Dirt Archive should document useful pedal identity, variations, appearance, 
 A future showcase/blog-style layer may be added for curated historical topics, such as fuzz showcases or builder/pedal features. This is intentionally deferred until the core archive works well.
 
 ## Next action
-Continue PRP1 from the first incomplete pedal in exact website order. The current target is A.Y.A - Bass Fuzz. Keep the site foundation regression checks in force and do not call a PRP batch live until its GitHub Pages deployment succeeds.
+Continue PRP1 from the active cursor in exact website order. The current active target is Alexander Pedals - Princess Clang. A.Y.A - Bass Fuzz remains parked/non-blocking until its picture requirement is solved. Keep the site foundation regression checks in force and do not call a PRP batch live until its GitHub Pages deployment succeeds.
 
 
 ## Site architecture checkpoint — September 18, 2026
 
-PRP is intentionally paused while the site foundation is audited and strengthened.
+PRP is active. The current site foundation is the regression benchmark and must be checked after each batch.
 
 Completed foundation work in this checkpoint:
 - Established the distinction between a public pedal model/version and a cosmetic variation.
