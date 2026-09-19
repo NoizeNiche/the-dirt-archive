@@ -709,16 +709,16 @@ Black Arts Toneworks,FNORD,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedal
 Black Arts Toneworks,LSTR,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 094/LSTR.md
 Black Arts Toneworks,Oath,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 094/Oath.md
 Black Arts Toneworks,Pharaoh,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 094/Pharaoh.md
-Black Arts Toneworks,Pharaoh Supreme,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
-Black Arts Toneworks,Priestess,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
-Black Arts Toneworks,Quantum Mystic,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Black Arts Toneworks,Rabid Mammal,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
-Black Arts Toneworks,Raw Heart OD,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Black Arts Toneworks,Revelation,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Black Arts Toneworks,Ritual,Fuzz,NEEDED,NEEDED,NEEDED,
-Black Arts Toneworks,Sarcophagus,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
-Black Arts Toneworks,Skyboost,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
-Black Arts Toneworks,Son of Pharaoh,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
+Black Arts Toneworks,Pharaoh Supreme,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 095/Pharaoh Supreme.md
+Black Arts Toneworks,Priestess,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 095/Priestess.md
+Black Arts Toneworks,Quantum Mystic,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 095/Quantum Mystic.md
+Black Arts Toneworks,Rabid Mammal,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 095/Rabid Mammal.md
+Black Arts Toneworks,Raw Heart OD,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 095/Raw Heart OD.md
+Black Arts Toneworks,Revelation,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 095/Revelation.md
+Black Arts Toneworks,Ritual,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 095/Ritual.md
+Black Arts Toneworks,Sarcophagus,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 095/Sarcophagus.md
+Black Arts Toneworks,Skyboost,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 095/Skyboost.md
+Black Arts Toneworks,Son of Pharaoh,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 095/Son of Pharaoh.md
 Black Arts Toneworks,Tres Diablos Ruidosos,Distortion / Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
 Black Arts Toneworks,Witch Burner MkII,Overdrive,NEEDED,NEEDED,NEEDED,
 Black CAT Amps,DJENTTONIC,Distortion,NEEDED,NEEDED,NEEDED,
@@ -2497,8 +2497,7 @@ IdiotBox Effects,REDRUM V2,Distortion,NEEDED,NEEDED,NEEDED,
 IdiotBox Effects,repo man,Overdrive,NEEDED,NEEDED,NEEDED,
 IdiotBox Effects,Ron Fucking Swanson Super Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 IdiotBox Effects,Static Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-IdiotBox Effects,Tractor Beam,Fuzz,NEEDED,NEEDED,NEEDED,
-IdiotBox Effects,Trash Compactor,Distortion,NEEDED,NEEDED,NEEDED,
+IdiotBox Effects,Tractor Beam,Fuzz,NEEDED,NEEDED,NEEDED,IdiotBox Effects,Trash Compactor,Distortion,NEEDED,NEEDED,NEEDED,
 IdiotBox Effects,Trench Cannon,Overdrive,NEEDED,NEEDED,NEEDED,
 IdiotBox Effects,WHORES. Fuzz Freq V.2,Fuzz,NEEDED,NEEDED,NEEDED,
 IdiotBox Effects,Wild Kyle,Distortion,NEEDED,NEEDED,NEEDED,
