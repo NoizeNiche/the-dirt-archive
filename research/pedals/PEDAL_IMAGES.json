@@ -5049,5 +5049,85 @@
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds7",
     "research_record": "./research/pedals/PRP Batch 089/DS-7 Distortion.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "DS-8 Mouse",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds8",
+    "research_record": "./research/pedals/PRP Batch 090/DS-8 Mouse.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "DS-9 Distortion",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effects-pedals.info/p/biyang-ds-9-distortion/",
+    "research_record": "./research/pedals/PRP Batch 090/DS-9 Distortion.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "FZ-12 Fuzz",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/fz12",
+    "research_record": "./research/pedals/PRP Batch 090/FZ-12 Fuzz.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "FZ-7 Fuzz",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/fz7",
+    "research_record": "./research/pedals/PRP Batch 090/FZ-7 Fuzz.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "Junky Drive",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.hybridguitars.com/item.php?code=6787",
+    "research_record": "./research/pedals/PRP Batch 090/Junky Drive.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "Metal-End",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/metalend",
+    "research_record": "./research/pedals/PRP Batch 090/Metal-End.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "NM-2 New Metal",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang",
+    "research_record": "./research/pedals/PRP Batch 090/NM-2 New Metal.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "OD-12 X-Drive",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/od12",
+    "research_record": "./research/pedals/PRP Batch 090/OD-12 X-Drive.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "OD-7 Overdrive",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://en.audiofanzine.com/overdrive-pedal/biyang/od-7-overdrive/",
+    "research_record": "./research/pedals/PRP Batch 090/OD-7 Overdrive.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "OD-8 X-Drive",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/od8",
+    "research_record": "./research/pedals/PRP Batch 090/OD-8 X-Drive.md"
   }
 ]
