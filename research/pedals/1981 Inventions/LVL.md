@@ -41,5 +41,5 @@ LVL is voiced for light, controlled breakup and works especially well as a stage
 2. Effects Database — LVL: https://www.effectsdatabase.com/model/1981inventions/lvl
 ## Photo
 - **Archive status:** **Exact Photo Archived**
-- **Image source:** Midwood Guitar Studio product photograph of the standard 1981 Inventions LVL.
-- **Source page:** https://midwoodguitarstudio.com/1981-inventions-lvl-full-range-overdrive-pedal/
+- **Image source:** Musicland KEY product photograph of the standard 1981 Inventions LVL.
+- **Source page:** https://www.musicland.co.jp/fs/musiclandkey/1981inv-lvl
