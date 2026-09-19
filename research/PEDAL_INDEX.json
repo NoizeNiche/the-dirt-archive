@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-103",
+  "version": "2026-09-19-prp1-batch-104",
   "count": 3821,
   "pedals": [
     {
@@ -8150,8 +8150,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.manualslib.tech/guide/639919/blackstar-lt-dist-pedal-manual.html",
+      "research_record": "./research/pedals/PRP Batch 104/LT-DIST.md"
     },
     {
       "company": "Blackstar Amplification",
@@ -8160,8 +8160,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.manualslib.tech/guide/639920/blackstar-lt-drive-pedal-manual.html",
+      "research_record": "./research/pedals/PRP Batch 104/LT-DRIVE.md"
     },
     {
       "company": "Blackstar Amplification",
@@ -8171,8 +8171,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.manualslib.com/guide/3450022/blackstar-lt-dual-pedal-manual.html",
+      "research_record": "./research/pedals/PRP Batch 104/LT-DUAL.md"
     },
     {
       "company": "Blackstar Amplification",
@@ -8181,8 +8181,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.manualslib.com/guide/3450023/blackstar-lt-metal-pedal-manual.html",
+      "research_record": "./research/pedals/PRP Batch 104/LT-METAL.md"
     },
     {
       "company": "Blackstar Amplification",
@@ -8201,8 +8201,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://blackstoneappliances.com/",
+      "research_record": "./research/pedals/PRP Batch 104/Mosfet Overdrive.md"
     },
     {
       "company": "Blakemore Effects",
@@ -8212,8 +8212,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/p/blakemore-effects-bi-polar-octadrive",
+      "research_record": "./research/pedals/PRP Batch 104/Bi-Polar Octadrive.md"
     },
     {
       "company": "Blakemore Effects",
@@ -8222,8 +8222,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/interviews/brands/blakemore",
+      "research_record": "./research/pedals/PRP Batch 104/Deus Ex Machina.md"
     },
     {
       "company": "Blakemore Effects",
@@ -8232,8 +8232,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/interviews/brands/blakemore",
+      "research_record": "./research/pedals/PRP Batch 104/Mustang Overdrive.md"
     },
     {
       "company": "BLAMMO! Electronics",
@@ -8243,8 +8243,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blammoelectronics.com/product-page/blues-blaster",
+      "research_record": "./research/pedals/PRP Batch 104/Blues Blaster.md"
     },
     {
       "company": "BLAMMO! Electronics",
@@ -8253,8 +8253,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blammoelectronics.com/product-page/buzzaround",
+      "research_record": "./research/pedals/PRP Batch 104/Buzzaround.md"
     },
     {
       "company": "BLAMMO! Electronics",
