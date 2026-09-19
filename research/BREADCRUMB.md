@@ -744,19 +744,17 @@ Each now has an individual research record and synchronized catalog/manifest/tra
 **Next exact-order research target:** **Budda - Om Overdrive**.
 
 
-## Latest PRP1 checkpoint — BYOC 250+
+## Latest PRP1 checkpoint — BYOC Silver Pony
 
-PRP continues using flexible working sets. The latest completed pass added **10 consecutive exact-order research records**, from **Budda - Om Overdrive** through **Build Your Own Clone - 250+**. Photo-pending records did not block the research queue.
+PRP is continuing in practical working sets, with no fixed pedal-count ceiling. The latest completed pass added **10 consecutive exact-order research records**: **Build Your Own Clone - Li'l Modified Overdrive; Li'l Mouse; Li'l Yellow OD; Mighty Mouse; Orange Distortion; Overdrive 2; Parametric Overdrive; Screamer Clone; Shredder; and Silver Pony**.
 
-The new records are synchronized across individual research files, PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. No photo was marked complete without a confirmed local exact-model image.
+All ten now have individual Pedal Info research records synchronized into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. Photos remain conservative and unpromoted where no verified image has been archived.
 
-**Verified tracker totals:** **3821 total / 975 researched / 300 pictured / 300 complete / 3521 incomplete / 675 researched-photo-pending**.
+**Verified tracker totals:** **3821 total / 1015 researched / 300 pictured / 300 complete / 3521 incomplete / 715 researched-photo-pending**.
 
-**Next exact-order research target:** **Buffalo FX - Fuzz Face Ge**.
+**Next exact-order research target:** **Build Your Own Clone - Soaring Skillet - Stereo Pan/Phaser**.
 
-**Public data version:** 2026-09-19-prp1-byoc-250.
-
-
+**Public data version:** 2026-09-19-prp1-byoc-silver-pony.
 ## Latest PRP1 checkpoint — BYOC 855 Drive
 
 PRP is continuing in practical working sets rather than a fixed pedal count. The latest completed pass added **10 consecutive exact-order research records**, from **Buffalo FX - Fuzz Face Ge** through **Build Your Own Clone - 855 Drive**.
