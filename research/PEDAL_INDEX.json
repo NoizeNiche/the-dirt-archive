@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-093",
+  "version": "2026-09-19-prp1-batch-094",
   "count": 3821,
   "pedals": [
     {
@@ -7247,8 +7247,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackartstoneworks.com/pedal/bat/",
+      "research_record": "./research/pedals/PRP Batch 094/BAT.md"
     },
     {
       "company": "Black Arts Toneworks",
@@ -7259,8 +7259,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackartstoneworks.com/pedal/",
+      "research_record": "./research/pedals/PRP Batch 094/Black Forest.md"
     },
     {
       "company": "Black Arts Toneworks",
@@ -7270,8 +7270,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackartstoneworks.com/",
+      "research_record": "./research/pedals/PRP Batch 094/Black Sheep.md"
     },
     {
       "company": "Black Arts Toneworks",
@@ -7282,8 +7282,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackartstoneworks.com/pedal/coven/",
+      "research_record": "./research/pedals/PRP Batch 094/Coven.md"
     },
     {
       "company": "Black Arts Toneworks",
@@ -7293,8 +7293,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackartstoneworks.com/pedal/crown-of-horns/",
+      "research_record": "./research/pedals/PRP Batch 094/Crown of Horns.md"
     },
     {
       "company": "Black Arts Toneworks",
@@ -7304,8 +7304,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackartstoneworks.com/pedal/destroyer/",
+      "research_record": "./research/pedals/PRP Batch 094/Destroyer.md"
     },
     {
       "company": "Black Arts Toneworks",
@@ -7315,8 +7315,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackartstoneworks.com/pedal/fnord/",
+      "research_record": "./research/pedals/PRP Batch 094/FNORD.md"
     },
     {
       "company": "Black Arts Toneworks",
@@ -7326,8 +7326,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackartstoneworks.com/pedal/lstr/",
+      "research_record": "./research/pedals/PRP Batch 094/LSTR.md"
     },
     {
       "company": "Black Arts Toneworks",
@@ -7336,8 +7336,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackartstoneworks.com/pedal/oath/",
+      "research_record": "./research/pedals/PRP Batch 094/Oath.md"
     },
     {
       "company": "Black Arts Toneworks",
@@ -7347,8 +7347,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackartstoneworks.com/pedal/pharaoh/",
+      "research_record": "./research/pedals/PRP Batch 094/Pharaoh.md"
     },
     {
       "company": "Black Arts Toneworks",
