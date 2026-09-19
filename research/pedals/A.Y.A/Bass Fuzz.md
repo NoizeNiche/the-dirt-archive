@@ -105,3 +105,10 @@ The underlying Mercari item page remains unavailable to the crawler, so the imag
 The original owner reference was rechecked and adds useful firsthand context beyond the earlier generic sound summary. The owner identifies his pedal as the 20th of the 30-unit run and describes the effect as retaining the bass's core while producing strong, gritty distortion rather than collapsing into a fully smeared fuzz texture. He notes strong projection in a band mix, relatively low sustain, and a character he associated with John Wetton's live bass tone on USA. [7]
 
 7. Original owner reference — “新兵器。” / 続・我が逃走: https://ameblo.jp/2784blog/entry-10190792874.html
+
+
+## PRP1 photo-recovery pass — batch 034
+
+The exact-model image-index result for the original **A.Y.A tokyo japan BASS FUZZ** was rechecked once more during a 10-record photo sweep. The image remains visually consistent with the base model, but the Mercari item page is unavailable to the crawler and no stable direct image file is exposed. The archive continues to reject guessed or reconstructed image URLs.
+
+A parallel photo audit covered the next exact-order unresolved records through **Accel Audio — OD-SS Express Overdrive**. The available results for the A&M Custom Effects models, AboveGroundFX models, Absolutely Analog Ratzo, and AC Efectos Triplex continue to resolve primarily to Effects Database records and dynamic marketplace/affiliate listings rather than safe direct image assets. No picture status was changed in this batch.
