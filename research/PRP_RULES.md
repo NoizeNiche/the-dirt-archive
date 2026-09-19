@@ -315,3 +315,8 @@ Batch 027 audited the first 10 incomplete records reported by the canonical **PR
 ## PRP1 batch 028 checkpoint
 
 Batch 028 continued the photo-recovery pass on the first unresolved catalog target, **A.Y.A - Bass Fuzz**. A fresh 2024 Mercari listing was found showing the original **A.Y.A tokyo japan BASS FUZZ**, and independent older Japanese references identify the model as a limited 30-unit fuzz. The accessible eBay listings currently circulating are explicitly for **BASS FUZZ II**, so they were not substituted for the base model. The exact original-model visual evidence is now documented in the research record, but a stable direct image asset could not be safely archived from the available sources. **Picture remains NEEDED / PRP Complete remains NEEDED.** The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
+
+
+## PRP1 batch 029 checkpoint
+
+The first incomplete catalog record remains **A.Y.A - Bass Fuzz**. The September 18, 2026 photo-recovery pass re-confirmed an exact original-model photograph via a 2024 Mercari listing, but the accessible listing does not provide a stable directly retrievable image asset. Current BASS FUZZ II listings remain explicitly a different model/version and are not used as a substitute. The tracker remains **220 researched / 162 pictured / 162 fully complete / 3,659 incomplete**, with **58** researched pedals waiting only for a confirmed picture.
