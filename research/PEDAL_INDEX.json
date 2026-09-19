@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-077",
+  "version": "2026-09-19-prp1-batch-078",
   "count": 3821,
   "pedals": [
     {
@@ -5523,9 +5523,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.beetronicsfx.com/cdn/shop/files/OC_01.jpg?v=1685572148&width=1500",
+      "source_page": "https://www.beetronicsfx.com/products/octahive-v2-high-octave-fuzz-p-babee-series",
+      "research_record": "./research/pedals/Beetronics FX/Octahive V2.md",
+      "image_source_page": "https://www.beetronicsfx.com/products/octahive-v2-high-octave-fuzz-p-babee-series"
     },
     {
       "company": "Beetronics FX",
@@ -5533,20 +5534,21 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.beetronicsfx.com/cdn/shop/products/NewOverhive_01.jpg?v=1610569103&width=1500",
+      "source_page": "https://www.beetronicsfx.com/products/overhive-standard-series",
+      "research_record": "./research/pedals/Beetronics FX/Overhive.md",
+      "image_source_page": "https://www.beetronicsfx.com/products/overhive-standard-series"
     },
     {
       "company": "Beetronics FX",
       "pedal": "Royal Jelly",
       "types": [
-        "Fuzz",
-        "Overdrive"
+        "Fuzz / Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.beetronicsfx.com/cdn/shop/products/RJ2021_01.jpg?v=1617996734&width=1500",
+      "source_page": "https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series",
+      "research_record": "./research/pedals/Beetronics FX/Royal Jelly.md",
+      "image_source_page": "https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series"
     },
     {
       "company": "Beetronics FX",
@@ -5554,9 +5556,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.beetronicsfx.com/cdn/shop/products/SW2021_01.jpg?v=1617996863&width=1500",
+      "source_page": "https://www.beetronicsfx.com/products/swarm",
+      "research_record": "./research/pedals/Beetronics FX/Swarm Fuzz Harmonizer.md",
+      "image_source_page": "https://www.beetronicsfx.com/products/swarm"
     },
     {
       "company": "Beetronics FX",
@@ -5564,9 +5567,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.beetronicsfx.com/cdn/shop/files/TunaSilver_01_5d3ef360-7055-428a-bf95-ffdd8246b88b.jpg?v=1727192076&width=1500",
+      "source_page": "https://www.beetronicsfx.com/products/tuna-fuzz",
+      "research_record": "./research/pedals/Beetronics FX/Tuna Fuzz.md",
+      "image_source_page": "https://www.beetronicsfx.com/products/tuna-fuzz"
     },
     {
       "company": "Beetronics FX",
@@ -5574,9 +5578,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.beetronicsfx.com/cdn/shop/products/Vezzpa_01.jpg?v=1618614789&width=1500",
+      "source_page": "https://www.beetronicsfx.com/products/vezzpa-octave-stinger-babee-series",
+      "research_record": "./research/pedals/Beetronics FX/Vezzpa Octave Stinger.md",
+      "image_source_page": "https://www.beetronicsfx.com/products/vezzpa-octave-stinger-babee-series"
     },
     {
       "company": "Behringer",
@@ -5584,9 +5589,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://cdn-media.empowertribe.com/e8512eeea7db4bd38e9189f0d69b6d00/Image_BE_0709-AKU_BASS-BRASSMASTER-FUZZ_Left_XL.png",
+      "source_page": "https://www.behringer.com/en/products/0709-AKU",
+      "research_record": "./research/pedals/Behringer/Bass Brassmaster.md",
+      "image_source_page": "https://www.behringer.com/en/products/0709-AKU"
     },
     {
       "company": "Behringer",
@@ -5594,20 +5600,20 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://cdn-media.empowertribe.com/f71fd340c69d481c8458bd27a81e408e/Image_BE_0709-AKL_FUZZ-BENDER_Catalog_B.png",
+      "source_page": "https://www.behringer.com/en/products/0709-AKL",
+      "research_record": "./research/pedals/Behringer/Fuzz Bender.md",
+      "image_source_page": "https://www.behringer.com/en/products/0709-AKL"
     },
     {
       "company": "Behringer",
       "pedal": "OD300",
       "types": [
-        "Distortion",
-        "Overdrive"
+        "Distortion / Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.behringer.com/en/products/0709-ADX",
+      "research_record": "./research/pedals/Behringer/OD300.md"
     },
     {
       "company": "Behringer",
@@ -5615,9 +5621,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://cdn-media.empowertribe.com/405868682109473884a2ea03df32b205/Image_BE_0709-ACK_SF300_Left_XL.png",
+      "source_page": "https://www.behringer.com/en/products/0709-ACK",
+      "research_record": "./research/pedals/Behringer/SF300 Super Fuzz.md",
+      "image_source_page": "https://www.behringer.com/en/products/0709-ACK"
     },
     {
       "company": "Behringer",
