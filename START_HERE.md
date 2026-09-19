@@ -45,14 +45,14 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **344** have pedal information researched
-- **185** have confirmed pictures
-- **185** are fully complete
-- **3,636** remain incomplete
+- **351** have pedal information researched
+- **192** have confirmed pictures
+- **192** are fully complete
+- **3,629** remain incomplete
 - **159** are researched but currently waiting only for a confirmed picture
 - **PRP status:** Active, PRP1 photo-recovery pass
-- **Current PRP1 target:** Arcane Analog - BC108 Fuzz Face
-- PRP1 batch 058 processed the next ten exact-order records from **Arcane Analog - ARCANE ANALOG FF66 FUZZ FACE** through **Artisanal Effects - Artisanal Cheese (Big Cheese)**. Seven exact-model pictures were archived; three remain photo-pending.
+- **Current PRP1 target:** Atlas Pedal - Bracton OverDrive
+- PRP1 batch 059 processed the next ten active exact-order records after the parked A.Y.A - Bass Fuzz blocker: **Arcane Analog - BC108 Fuzz Face** through **Astral ToneWorx - Krampus - Doom Fuzz**. Seven exact-model pictures were archived; three remain photo-pending.
 - **A.Y.A - Bass Fuzz** remains parked/non-blocking for later exact-model photo recovery.
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
