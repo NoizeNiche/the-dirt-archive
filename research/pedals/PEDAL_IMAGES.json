@@ -4153,5 +4153,85 @@
     "source": "verified research source",
     "source_page": "https://www.pedalboard.org/strom-liste/beta-aivin",
     "research_record": "./research/pedals/Beta Aivin/BOD-2 Bass Overdrive.md"
+  },
+  {
+    "builder": "BFFX Boutique Pedals",
+    "pedal": "Demon D",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 080/Demon D.md"
+  },
+  {
+    "builder": "BFFX Boutique Pedals",
+    "pedal": "Guitarlab1",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 080/Guitarlab1.md"
+  },
+  {
+    "builder": "BFFX Boutique Pedals",
+    "pedal": "Kairen",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 080/Kairen.md"
+  },
+  {
+    "builder": "BFFX Boutique Pedals",
+    "pedal": "Sublime",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 080/Sublime.md"
+  },
+  {
+    "builder": "Bias",
+    "pedal": "BDS-1 Distortion",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 080/BDS-1 Distortion.md"
+  },
+  {
+    "builder": "Bias",
+    "pedal": "Bias Distortion",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 080/Bias Distortion.md"
+  },
+  {
+    "builder": "Bias",
+    "pedal": "Bias Over Drive",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 080/Bias Over Drive.md"
+  },
+  {
+    "builder": "Big Bite Fx",
+    "pedal": "Big Bite",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 080/Big Bite.md"
+  },
+  {
+    "builder": "Big Ear",
+    "pedal": "Black Betty",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 080/Black Betty.md"
+  },
+  {
+    "builder": "Big Ear",
+    "pedal": "LOAF",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 080/LOAF.md"
   }
 ]
