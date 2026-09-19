@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-095",
+  "version": "2026-09-19-prp1-batch-096",
   "count": 3821,
   "pedals": [
     {
@@ -7468,8 +7468,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackartstoneworks.com/pedal/tres-diablos-ruidosos/",
+      "research_record": "./research/pedals/PRP Batch 096/Tres Diablos Ruidosos.md"
     },
     {
       "company": "Black Arts Toneworks",
@@ -7478,8 +7478,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackartstoneworks.com/pedal/witch-burner/",
+      "research_record": "./research/pedals/PRP Batch 096/Witch Burner MkII.md"
     },
     {
       "company": "Black CAT Amps",
@@ -7488,8 +7488,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://blackcatamps.com/",
+      "research_record": "./research/pedals/PRP Batch 096/DJENTTONIC.md"
     },
     {
       "company": "Black Cat Pedals",
@@ -7498,8 +7498,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackcat/bassoctavefuzz",
+      "research_record": "./research/pedals/PRP Batch 096/Bass Octave Fuzz.md"
     },
     {
       "company": "Black Cat Pedals",
@@ -7508,8 +7508,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.premierguitar.com/gear/black-cat-bee-buzz-pedal-review",
+      "research_record": "./research/pedals/PRP Batch 096/Bee Buzz Fuzz.md"
     },
     {
       "company": "Black Cat Pedals",
@@ -7518,8 +7518,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackcat/d2",
+      "research_record": "./research/pedals/PRP Batch 096/D-II Distortion.md"
     },
     {
       "company": "Black Cat Pedals",
@@ -7528,8 +7528,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackcat/ds",
+      "research_record": "./research/pedals/PRP Batch 096/D&S.md"
     },
     {
       "company": "Black Cat Pedals",
@@ -7538,8 +7538,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackcat/kfuzz/monster",
+      "research_record": "./research/pedals/PRP Batch 096/Monster K-Fuzz.md"
     },
     {
       "company": "Black Cat Pedals",
@@ -7548,8 +7548,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.premierguitar.com/black-cat-announces-monster-k-fuzz",
+      "research_record": "./research/pedals/PRP Batch 096/Monster K-Fuzz Stompbox.md"
     },
     {
       "company": "Black Cat Pedals",
@@ -7558,8 +7558,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackcat/nfuzz",
+      "research_record": "./research/pedals/PRP Batch 096/N-Fuzz.md"
     },
     {
       "company": "Black Cat Pedals",
