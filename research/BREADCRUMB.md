@@ -583,3 +583,14 @@ All ten received individual Pedal Info research records and were synchronized wi
 **Tracker totals after Batch 078:** **3,821 total / 541 researched / 269 pictured / 269 complete / 3,552 incomplete**, with **272** researched pedals waiting only for confirmed pictures.
 
 **Next regression/research target:** **Behringer - UZ400 Ultra Fuzz**.
+
+
+## PRP1 batch 079 checkpoint
+
+Batch 079 completed the next ten unfinished records in exact tracker order: **Behringer - UZ400 Ultra Fuzz; Benson Amps - Deep Sea Diver Fuzz-Echo; Germanium Fuzz; Germanium Preamp Pedal; Portable Distortion 424 MKII; Preamp Pedal; Stonk Box; Störkn B0kš; Beta Aivin - BOD-1 Bass Overdrive; and BOD-2 Bass Overdrive**.
+
+All ten received individual Pedal Info research records and were synchronized with **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Exact photos were promoted for eight records; Stonk Box and BOD-2 remain Picture: NEEDED.
+
+**Tracker totals after Batch 079:** **3,821 total / 551 researched / 277 pictured / 277 complete / 3,544 incomplete**, with **274** researched pedals waiting only for confirmed pictures.
+
+**Next regression/research target:** **BFFX Boutique Pedals - Demon D**.
