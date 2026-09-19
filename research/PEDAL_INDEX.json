@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-102",
+  "version": "2026-09-19-prp1-batch-103",
   "count": 3821,
   "pedals": [
     {
@@ -8035,8 +8035,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/musketfuzz",
+      "research_record": "./research/pedals/PRP Batch 103/Musket Fuzz.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -8055,8 +8055,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special/deluxe",
+      "research_record": "./research/pedals/PRP Batch 103/Special Twosome Deluxe.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -8066,8 +8066,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/twosome",
+      "research_record": "./research/pedals/PRP Batch 103/Twosome Dual Fuzz.md"
     },
     {
       "company": "Blackstar Amplification",
@@ -8077,8 +8077,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://blackstaramps.com/wp-content/uploads/2021/11/195401M-VA-1-DEPT.-10-DUAL-DISTORTION-OWNERS-MANUAL-04-11-21.pdf",
+      "research_record": "./research/pedals/PRP Batch 103/Dept. 10 Dual Distortion.md"
     },
     {
       "company": "Blackstar Amplification",
@@ -8088,8 +8088,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackstaramps.com/wp-content/uploads/2021/10/dept-10-dual-drive-owners-manual.pdf",
+      "research_record": "./research/pedals/PRP Batch 103/Dept. 10 Dual Drive.md"
     },
     {
       "company": "Blackstar Amplification",
@@ -8098,8 +8098,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://blackstaramps.com/wp-content/uploads/2021/10/ht-dist-handbook.pdf",
+      "research_record": "./research/pedals/PRP Batch 103/HT-DIST.md"
     },
     {
       "company": "Blackstar Amplification",
@@ -8108,8 +8108,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://blackstaramps.com/wp-content/uploads/2021/10/ht-distx-handbook.pdf",
+      "research_record": "./research/pedals/PRP Batch 103/HT-DISTX.md"
     },
     {
       "company": "Blackstar Amplification",
@@ -8118,8 +8118,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackstarampsmedia.com/pdf/handbooks/ht-drive-handbook.pdf",
+      "research_record": "./research/pedals/PRP Batch 103/HT-DRIVE.md"
     },
     {
       "company": "Blackstar Amplification",
@@ -8129,8 +8129,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackstarampsmedia.com/pdf/handbooks/ht-dual-handbook.pdf",
+      "research_record": "./research/pedals/PRP Batch 103/HT-DUAL.md"
     },
     {
       "company": "Blackstar Amplification",
@@ -8140,8 +8140,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://blackstaramps.com/wp-content/uploads/2021/10/ht-metal-handbook.pdf",
+      "research_record": "./research/pedals/PRP Batch 103/HT-METAL.md"
     },
     {
       "company": "Blackstar Amplification",
