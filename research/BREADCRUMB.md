@@ -1,5 +1,20 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 138 checkpoint
+
+Batch 138 completed the next five exact-order records: **Cajita Stompboxes - Preamp 5150 tipo Peavey; Preamp Overdrive Matchbox; TS09 TS08 Overdrive Tube Screamer; VMT Distorsion de Bajo con Blend; and Calangary Pedals - Kalagondang Fuzz**. Each received an individual research record, canonical index entry, tracker synchronization, and photo-manifest entry. No exact photo was promoted in this pass.
+
+Verified tracker state after Batch 138:
+- Unique pedals: **3,821**
+- Researched: **1,067**
+- Confirmed pictures: **303**
+- Fully complete: **310**
+- Incomplete: **3,511**
+- Researched but waiting for a confirmed picture: **767**
+- Current exact-order target: **Calangary Pedals - Zaladin Fuzz**
+
+Continue straight down the canonical catalog from that target.
+
 ## PRP1 Batch 137 checkpoint
 
 Batch 137 completed the next five exact-order Cajita Stompboxes records: **FBASSDRIVE; Fuzz RBmuff - TBmuff; Fuzz Womut; Overdrive Bb.pre; and Overdrive Shoc más booster**. Each received an individual research record, the canonical public index was synchronized, the PRP tracker was marked Pedal Info complete, and the photo manifest was synchronized. No exact photo was promoted for these five, so they remain photo-pending.
