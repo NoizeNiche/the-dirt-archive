@@ -219,16 +219,12 @@ The archive now uses a local-first pedal photo architecture.
 
 The complete backend contract is documented in `research/PEDAL_IMAGE_ARCHITECTURE.md`.
 
-## Latest PRP1 checkpoint — BSM FuzzBender
+## Latest PRP1 checkpoint — BSQ Effects
 
-The live tracker is authoritative. The current first research-needed record was **BSM - FuzzBender Fuzz Machine**, and it is now researched.
+PRP has been moved to flexible working sets. The latest completed research pass added **four consecutive BSQ Effects records**: BO-2 Bulls On - Overdrive/Compressor, DM-2 Dynamite - Overdrive/Compressor, MS-2 Mean Street - Distortion + Booster, and SB-1 Scuttle Buttin' - Overdrive.
 
-BSM's manufacturer documentation identifies FuzzBender as a handmade germanium fuzz with a switchable Fuzz Face / Vox-Sola Sound Tone Bender character. A later Japanese distributor notice records a **FuzzBender → FaßBender** name change and explicitly states that the contents were unchanged, so the archive treats that as a documented naming successor rather than a circuit revision.
+Each now has an individual research record and synchronized catalog/manifest/tracker links. No photo was marked complete without a verified local exact-model image.
 
-The index, photo/research manifest, and tracker are synchronized. The exact manufacturer source page is attached for future browser-assisted photo recovery, but the pedal remains **Picture: NEEDED / PRP Complete: NEEDED** until a local exact-model image is archived.
+**Verified tracker totals:** **3821 total / 965 researched / 300 pictured / 300 complete / 3521 incomplete / 665 researched-photo-pending**.
 
-**Current tracker totals:** **3,821 total / 958 researched / 300 pictured / 300 complete / 3,521 incomplete / 658 researched-photo-pending**.
-
-**Next exact-order research target:** **BSM - J-Fuzz**.
-
-**Public data version:** **2026-09-19-prp1-bsm-fuzzbender**.
+**Next exact-order research target:** **Budda - Om Overdrive**.

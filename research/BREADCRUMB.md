@@ -731,3 +731,14 @@ The index, photo/research manifest, and tracker are synchronized. The exact manu
 **Next exact-order research target:** **BSM - J-Fuzz**.
 
 **Public data version:** **2026-09-19-prp1-bsm-fuzzbender**.
+
+
+## Latest PRP1 checkpoint — BSQ Effects
+
+PRP has been moved to flexible working sets. The latest completed research pass added **four consecutive BSQ Effects records**: BO-2 Bulls On - Overdrive/Compressor, DM-2 Dynamite - Overdrive/Compressor, MS-2 Mean Street - Distortion + Booster, and SB-1 Scuttle Buttin' - Overdrive.
+
+Each now has an individual research record and synchronized catalog/manifest/tracker links. No photo was marked complete without a verified local exact-model image.
+
+**Verified tracker totals:** **3821 total / 965 researched / 300 pictured / 300 complete / 3521 incomplete / 665 researched-photo-pending**.
+
+**Next exact-order research target:** **Budda - Om Overdrive**.
