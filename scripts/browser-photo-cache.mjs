@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-const fs = require('fs');
-const path = require('path');
-const { chromium } = require('playwright');
+import fs from 'node:fs';
+import path from 'node:path';
+import { chromium } from 'playwright';
 
 const ROOT = process.cwd();
 const INDEX = path.join(ROOT, 'research/PEDAL_INDEX.json');
