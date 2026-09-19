@@ -204,6 +204,11 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **Adventure Audio - Demogorgon Fuzz**
 
+## PRP1 batch 030 checkpoint
+
+Batch 030 rechecked the exact first unresolved target, **A.Y.A - Bass Fuzz**. A fresh image search visually confirmed the original blue-sparkle A.Y.A tokyo japan BASS FUZZ enclosure from the 2024 Mercari listing, including the Fuzz/Vol layout and BASS FUZZ labeling. The source page currently returns 404 and no stable directly retrievable image asset was exposed, so the image remains unarchived and the public card must continue to show **No Photo Archived**. Current BASS FUZZ II listings remain a different model/version and are not substituted. Counts remain **220 researched / 162 pictured / 162 fully complete / 3,659 incomplete**, with **58** researched pedals waiting only for a confirmed picture. The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
+
+
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 
