@@ -1,5 +1,21 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 139 checkpoint
+
+Batch 139 completed the next five exact-order records: **Calangary Pedals - Zaladin Fuzz; California (by Eleca) - CDT-1 Distortion; CHM-1 Heavy Metal; COD-1 Over Drive; and California Valveworks - The Bone Tender**. Each received an individual Pedal Info research record, canonical index entry, tracker synchronization, and photo-manifest entry. No exact photo was promoted in this pass; manufacturer/source-page imagery was retained as provenance for future local archival recovery.
+
+Verified tracker state after Batch 139:
+- Unique pedals: **3821**
+- Researched: **1072**
+- Confirmed pictures: **303**
+- Fully complete: **315**
+- Incomplete: **3505**
+- Researched but waiting for a confirmed picture: **772**
+- Current exact-order target: **Caline - CP-11 Puffer Fuzz**
+
+Continue straight down the canonical catalog from that target.
+
+
 ## PRP1 Batch 138 checkpoint
 
 Batch 138 completed the next five exact-order records: **Cajita Stompboxes - Preamp 5150 tipo Peavey; Preamp Overdrive Matchbox; TS09 TS08 Overdrive Tube Screamer; VMT Distorsion de Bajo con Blend; and Calangary Pedals - Kalagondang Fuzz**. Each received an individual research record, canonical index entry, tracker synchronization, and photo-manifest entry. No exact photo was promoted in this pass.
