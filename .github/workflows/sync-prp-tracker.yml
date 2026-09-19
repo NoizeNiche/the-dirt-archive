@@ -1,0 +1,32 @@
+name: Sync PRP tracker
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Synchronize tracker from catalog
+        run: python scripts/sync-prp-tracker.py
+
+      - name: Commit tracker changes
+        run: |
+          if git diff --quiet -- research/PRP_TRACKER.csv; then
+            echo "PRP tracker already matches the catalog."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/PRP_TRACKER.csv
+          git commit -m "Sync PRP tracker with catalog image state"
+          git push
