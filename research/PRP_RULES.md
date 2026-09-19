@@ -450,3 +450,24 @@ All ten now have individual Pedal Info research records and were synchronized ac
 
 ## PRP1 batch 090 verification correction
 The repository-level tracker calculation after Batch 090 is **3,821 total / 672 researched / 278 pictured / 277 complete / 3,544 incomplete**, with **395** researched pedals waiting only for pictures. The 278 pictured count includes one legacy record, **Animals Pedal - In Oct,3 Foxes talking of dreamy FUZZ**, whose picture flag is still NEEDED in the tracker, so it is intentionally not counted as PRP Complete.
+
+
+## 5A. Local photo archive
+
+Verified photographs are archived locally whenever the exact image asset can be safely retrieved.
+
+The runtime relationship is:
+
+**Pedal -> local primary image**
+
+A normal model/version uses:
+`assets/pedals/{builder-slug}/{pedal-slug}/primary.webp`
+
+A subordinate cosmetic variation uses:
+`assets/pedals/{builder-slug}/{pedal-slug}/variants/{variant-slug}.webp`
+
+The original remote image URL is preserved as `image_source_url` and the product/source page remains in `image_source_page` or `source_page` as applicable.
+
+The cache workflow may retry external retrievals, but a failed retrieval must never create a local placeholder and must never replace a verified exact image with a different model or version.
+
+The PRP tracker continues to define picture completion from the catalog's image state. Once the local migration is complete, `Picture: DONE` means an exact local archived image exists and passes the deployment image-file audit.
