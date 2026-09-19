@@ -134,6 +134,23 @@ def cache_entry_prepare(entry):
         return ("skip", entry, None, None)
 
     target = target_path(entry)
+    target.parent.mkdir(parents=True, exist_ok=True)
+
+    # Browser-assisted recovery may have staged the exact source bytes next
+    # to the canonical target. Convert them into the public WebP archive.
+    if not target.exists():
+        for staged in (target.with_suffix(".source"), target.with_suffix(".png"), target.with_suffix(".jpg"), target.with_suffix(".jpeg")):
+            if staged.exists():
+                with Image.open(staged) as source:
+                    img = ImageOps.exif_transpose(source)
+                    img = img.convert("RGBA" if "A" in img.getbands() else "RGB")
+                    img.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
+                    img.save(target, "WEBP", quality=88, method=6)
+                try:
+                    staged.unlink()
+                except OSError:
+                    pass
+                return ("retain", entry, rel_path(target), None)
 
     # A photo-pending record can carry a verified provenance URL without
     # advertising that URL as the public runtime image. Use it as the cache
@@ -143,7 +160,6 @@ def cache_entry_prepare(entry):
         if source_url and source_url.startswith(("http://", "https://")):
             return ("download", entry, target, source_url)
         return ("skip", entry, None, None)
-    target.parent.mkdir(parents=True, exist_ok=True)
 
     if is_local(image):
         existing = ROOT / image.lstrip("./")
