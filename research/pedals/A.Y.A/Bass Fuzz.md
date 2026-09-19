@@ -55,3 +55,7 @@ A current used-market listing for **A.Y.A Bass Fuzz II** was rechecked during PR
 
 5. eBay — A.Y.A Bass Fuzz BASS FUZZII, current listing: https://www.ebay.com/itm/198645645124
 6. MION Upcycle — A.Y.A Tokyo Japan BASS FUZZ listing: https://kaitori.mion.tokyo/%E6%A5%BD%E5%99%A8%E8%B2%B7%E5%8F%96%E9%87%91%E9%A1%8D/
+
+
+## Photo-recovery note
+A 2024 Mercari listing was located showing the original **A.Y.A tokyo japan BASS FUZZ** enclosure. The listing is distinct from the current **BASS FUZZ II** listings and is therefore useful exact-model visual evidence, but a stable direct image asset could not be independently archived for the site. Reference: https://jp.mercari.com/item/m93721008252
