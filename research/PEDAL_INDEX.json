@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-134",
+  "version": "2026-09-19-prp1-batch-135",
   "count": 3821,
   "pedals": [
     {
@@ -11310,8 +11310,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
+      "research_record": "./research/pedals/PRP Batch 135/byw-blacky-blower.md"
     },
     {
       "company": "BYW Audio",
@@ -11320,8 +11320,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://bywaudio.com/index.php/product/gros-buzz/",
+      "research_record": "./research/pedals/PRP Batch 135/byw-gros-buzz.md"
     },
     {
       "company": "BZZT Electronics",
@@ -11331,8 +11331,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://delicious-audio.com/new-pedals-bzzt-electronics-selector-16/",
+      "research_record": "./research/pedals/PRP Batch 135/bzzt-selektor-16.md"
     },
     {
       "company": "C.Giant",
@@ -11342,8 +11342,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/cgiant/od1",
+      "research_record": "./research/pedals/PRP Batch 135/c-giant-od-1-warm-blues.md"
     },
     {
       "company": "C.I.C",
@@ -11352,8 +11352,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/cic/mod7",
+      "research_record": "./research/pedals/PRP Batch 135/cic-mod-7-overdrive.md"
     },
     {
       "company": "C.Q.O.",
@@ -11362,8 +11362,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/cqo/superdistortion",
+      "research_record": "./research/pedals/PRP Batch 135/cqo-super-distortion.md"
     },
     {
       "company": "C14 Devices",
@@ -11372,8 +11372,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal?page=7",
+      "research_record": "./research/pedals/PRP Batch 135/c14-devices-tone-chaser.md"
     },
     {
       "company": "Cactus",
@@ -11382,8 +11382,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/cactus/mtl5",
+      "research_record": "./research/pedals/PRP Batch 135/cactus-mtl-5-ultra-metal.md"
     },
     {
       "company": "Cactus",
@@ -11392,8 +11392,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/cactus/ovd5",
+      "research_record": "./research/pedals/PRP Batch 135/cactus-ovd-5-overdrive.md"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11402,8 +11402,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/bdi-ts-preamplificador-bajo-con-overdrive/",
+      "research_record": "./research/pedals/PRP Batch 135/cajita-bdi-ts-with-overdrive.md"
     },
     {
       "company": "Cajita Stompboxes",
