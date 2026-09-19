@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-137",
+  "version": "2026-09-19-prp1-batch-138",
   "count": 3821,
   "pedals": [
     {
@@ -11512,8 +11512,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/preamp-5150-tipo-peavey-distorsion-hi-gain/",
+      "research_record": "./research/pedals/PRP Batch 138/preamp-5150-tipo-peavey.md"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11522,8 +11522,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/preamp-overdrive-matchbox/",
+      "research_record": "./research/pedals/PRP Batch 138/preamp-overdrive-matchbox.md"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11532,8 +11532,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/ts09-ts08-overdrive-tube-screamer/",
+      "research_record": "./research/pedals/PRP Batch 138/ts09-ts08-overdrive-tube-screamer.md"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11542,8 +11542,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/vmt-distorsion-de-bajo-con-blend/",
+      "research_record": "./research/pedals/PRP Batch 138/vmt-distorsion-de-bajo-con-blend.md"
     },
     {
       "company": "Calangary Pedals",
@@ -11552,8 +11552,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/blog/discofreq?page=55",
+      "research_record": "./research/pedals/PRP Batch 138/kalagondang-fuzz.md"
     },
     {
       "company": "Calangary Pedals",
