@@ -112,3 +112,10 @@ The original owner reference was rechecked and adds useful firsthand context bey
 The exact-model image-index result for the original **A.Y.A tokyo japan BASS FUZZ** was rechecked once more during a 10-record photo sweep. The image remains visually consistent with the base model, but the Mercari item page is unavailable to the crawler and no stable direct image file is exposed. The archive continues to reject guessed or reconstructed image URLs.
 
 A parallel photo audit covered the next exact-order unresolved records through **Accel Audio — OD-SS Express Overdrive**. The available results for the A&M Custom Effects models, AboveGroundFX models, Absolutely Analog Ratzo, and AC Efectos Triplex continue to resolve primarily to Effects Database records and dynamic marketplace/affiliate listings rather than safe direct image assets. No picture status was changed in this batch.
+
+
+## PRP1 photo-recovery pass — batch 035
+
+The direct-host search was widened to builder-domain queries, Effects Database image records, historical resale references, and exact-name image indexing across the current 10-pedal unresolved window. For **A.Y.A Bass Fuzz**, the original image remains visually confirmed through the indexed Mercari record, but no stable direct asset was exposed. For the following records, Effects Database confirms exact product pages and, in some cases, visible catalog imagery, but the accessible image infrastructure is either dynamic affiliate material or does not expose a safe direct file URL. No picture was promoted in this pass.
+
+The archive therefore remains intentionally conservative: visible web imagery is evidence, but it is not treated as an archival asset until the exact image can be tied to a stable retrievable URL.
