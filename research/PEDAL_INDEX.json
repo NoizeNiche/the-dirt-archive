@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-069",
+  "version": "2026-09-19-prp1-batch-070",
   "count": 3821,
   "pedals": [
     {
@@ -4203,9 +4203,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://gearhero.com/cdn/shop/products/8f79918e-a46c-4b0b-ad7b-163be490e4d7.jpg?v=1603730771&width=1946",
+      "source_page": "https://gearhero.com/products/bad-penny-fx-wireless-germanium-fuzz",
+      "research_record": "./research/pedals/Bad Penny FX/Wireless Germanium Fuzz.md",
+      "image_source_page": "https://gearhero.com/products/bad-penny-fx-wireless-germanium-fuzz"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -4213,9 +4214,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://badpixel.weebly.com/uploads/2/6/5/7/26575514/6059760_orig.jpg",
+      "source_page": "https://badpixel.weebly.com/silicon-face.html",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Bad Face Silicon.md",
+      "image_source_page": "https://badpixel.weebly.com/silicon-face.html"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -4223,9 +4225,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://badpixel.weebly.com/uploads/2/6/5/7/26575514/8171506_orig.jpg",
+      "source_page": "https://badpixel.weebly.com/buzzaround.html",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Buzzaround Fuzz.md",
+      "image_source_page": "https://badpixel.weebly.com/buzzaround.html"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -4233,9 +4236,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://badpixel.weebly.com/uploads/2/6/5/7/26575514/1_1_orig.jpg",
+      "source_page": "https://badpixel.weebly.com/model-01.html",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Classic Model 1 Fuzz.md",
+      "image_source_page": "https://badpixel.weebly.com/model-01.html"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -4243,9 +4247,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://badpixel.weebly.com/uploads/2/6/5/7/26575514/03_orig.jpg",
+      "source_page": "https://badpixel.weebly.com/model-02.html",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Classic Model 2 Fuzz.md",
+      "image_source_page": "https://badpixel.weebly.com/model-02.html"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -4253,9 +4258,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://badpixel.weebly.com/uploads/2/6/5/7/26575514/11_3_orig.jpg",
+      "source_page": "https://badpixel.weebly.com/classic-bc108-face.html",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Classic Model 3 Fuzz.md",
+      "image_source_page": "https://badpixel.weebly.com/classic-bc108-face.html"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -4263,9 +4269,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://badpixel.weebly.com/uploads/2/6/5/7/26575514/1047151_orig.jpg",
+      "source_page": "https://badpixel.weebly.com/fuck_fuck-twin-tube-overdrive.html",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Fuck_Fuck Twin Tube Boost Overdrive.md",
+      "image_source_page": "https://badpixel.weebly.com/fuck_fuck-twin-tube-overdrive.html"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -4273,9 +4280,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://badpixel.weebly.com/uploads/2/6/5/7/26575514/6214892_orig.jpg",
+      "source_page": "https://badpixel.weebly.com/gold-face-germanium.html",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Germanium Gold Face Fuzz.md",
+      "image_source_page": "https://badpixel.weebly.com/gold-face-germanium.html"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -4283,9 +4291,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://badpixel.weebly.com/uploads/2/6/5/7/26575514/1_orig.jpg",
+      "source_page": "https://badpixel.weebly.com/pink-face-germanium.html",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Germanium Pink Face Fuzz.md",
+      "image_source_page": "https://badpixel.weebly.com/pink-face-germanium.html"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -4293,9 +4302,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://badpixel.weebly.com/uploads/2/6/5/7/26575514/8_1_orig.jpg",
+      "source_page": "https://badpixel.weebly.com/gold-bender-profesional-mkii.html",
+      "research_record": "./research/pedals/Bad Pixel Pedals/MKII Professional Gold Bender Fuzz.md",
+      "image_source_page": "https://badpixel.weebly.com/gold-bender-profesional-mkii.html"
     },
     {
       "company": "Baddy One Shoe Pedals",

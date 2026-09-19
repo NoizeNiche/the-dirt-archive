@@ -195,14 +195,14 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 
 ## Current PRP checkpoint
 
-- Unique pedals in website catalog: 3,821,821
-- Pedals with research information: 243
-- Pedals with confirmed pictures: 167
-- Fully complete PRP pedals: 167
-- Remaining incomplete pedals: 3654
-- Researched but waiting only for a confirmed picture: 76
-- PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **Alen Geere - Crown Centaur**
+- Unique pedals in website catalog: 3,821
+- Pedals with research information: 461
+- Pedals with confirmed pictures: 214
+- Fully complete PRP pedals: 214
+- Remaining incomplete pedals: 3607
+- Researched but waiting only for a confirmed picture: 247
+- PRP status: Active, PRP1 research and photo synchronization pass
+- Current PRP1 target: **Baddy One Shoe Pedals - Heartbreaker**
 
 ## PRP1 batch 030 checkpoint
 
@@ -416,3 +416,6 @@ The Azur records are intentionally kept under the cataloged **Azur** builder spe
 
 **Current tracker totals after Batch 068:** **3,821 total / 441 researched / 202 pictured / 202 fully complete / 3,619 incomplete**, with **239** researched pedals waiting only for a confirmed picture. The next exact-order missing-information target is **B85 Audio - Germanium Overdrive**. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later exact-photo recovery.
 
+## Latest PRP1 checkpoint - batch 070
+
+Batch 070 completed ten exact-order PRP targets with individual research records and exact-model photographs. The next target is **Baddy One Shoe Pedals - Heartbreaker**.

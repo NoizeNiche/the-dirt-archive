@@ -100,13 +100,14 @@ Batch 069 adds the next 10 unfinished catalog records in exact order: B85 Audio 
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 451
-- Pedals with confirmed pictures: 204
-- Fully complete PRP pedals: 204
-- Remaining incomplete pedals: 3617
+- Pedals with research information: 461
+- Pedals with confirmed pictures: 214
+- Fully complete PRP pedals: 214
+- Remaining incomplete pedals: 3607
 - Researched but waiting only for a confirmed picture: 247
 - PRP status: Active, PRP1 research and photo synchronization pass
-- Current PRP1 target: **Bad Penny FX - Wireless Germanium Fuzz**
+- Current PRP1 target: **Baddy One Shoe Pedals - Heartbreaker**
+
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -601,3 +602,5 @@ The Azur records are intentionally kept under the cataloged **Azur** builder spe
 
 **Current tracker totals after Batch 068:** **3,821 total / 441 researched / 202 pictured / 202 fully complete / 3,619 incomplete**, with **239** researched pedals waiting only for a confirmed picture. The next exact-order missing-information target is **B85 Audio - Germanium Overdrive**. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later exact-photo recovery.
 
+### PRP1 batch 070 checkpoint
+Batch 070 completes the next 10 unfinished catalog records in exact order: Bad Penny FX - Wireless Germanium Fuzz; Bad Pixel Pedals - Bad Face Silicon; Bad Pixel Pedals - Buzzaround Fuzz; Bad Pixel Pedals - Classic Model 1 Fuzz; Bad Pixel Pedals - Classic Model 2 Fuzz; Bad Pixel Pedals - Classic Model 3 Fuzz; Bad Pixel Pedals - Fuck_Fuck Twin Tube Boost Overdrive; Bad Pixel Pedals - Germanium Gold Face Fuzz; Bad Pixel Pedals - Germanium Pink Face Fuzz; and Bad Pixel Pedals - MKII Professional Gold Bender Fuzz. All ten received individual research records and exact-model photo assets, moving the entire batch to PRP Complete. The next exact-order incomplete target is **Baddy One Shoe Pedals - Heartbreaker**.

@@ -495,3 +495,10 @@ The Azur records are intentionally kept under the cataloged **Azur** builder spe
 
 **Current tracker totals after Batch 068:** **3,821 total / 441 researched / 202 pictured / 202 fully complete / 3,619 incomplete**, with **239** researched pedals waiting only for a confirmed picture. The next exact-order missing-information target is **B85 Audio - Germanium Overdrive**. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later exact-photo recovery.
 
+## PRP1 batch 070 checkpoint
+
+Batch 070 completed the next ten unfinished records in exact tracker order, from **Bad Penny FX - Wireless Germanium Fuzz** through **Bad Pixel Pedals - MKII Professional Gold Bender Fuzz**. All ten received individual research records and exact-model photo assets, with the official Bad Pixel builder pages used wherever available and the exact Wireless Germanium product photograph taken from Gear Hero. The tracker, public index, photo manifest, and individual research records are synchronized.
+
+- **Live tracker totals:** 3821 total / 461 researched / 214 pictured / 214 complete / 3607 incomplete.
+- **Waiting on photos:** 247 researched pedals.
+- **Next exact-order incomplete target:** **Baddy One Shoe Pedals - Heartbreaker**.

@@ -35,7 +35,7 @@ When the user has explicitly answered a design decision, treat that answer as th
 
 ## Current project priority
 
-**Site foundation and functionality audit.** PRP is paused until the public catalog, pedal pages, data relationships, photo handling, version/variation behavior, navigation, and GitHub Pages deployment are reliable.
+**Pedal Research Phase (PRP1) research and photo synchronization.** The public catalog, pedal pages, data relationships, photo handling, version/variation behavior, navigation, and GitHub Pages deployment foundation are sufficiently reliable for the current verified batch workflow.
 
 The intended public experience is a welcoming historical/reference archive for guitar dirt pedals. The main archive shows one entry per pedal model or materially distinct version. Cosmetic variations such as colorways, retailer finishes, event artwork, and similar editions belong inside the relevant model/version rather than becoming separate main catalog cards.
 
@@ -45,15 +45,15 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **351** have pedal information researched
-- **192** have confirmed pictures
-- **192** are fully complete
-- **3,629** remain incomplete
-- **159** are researched but currently waiting only for a confirmed picture
-- **PRP status:** Active, PRP1 photo-recovery pass
-- **Current PRP1 target:** Atlas Pedal - Bracton OverDrive
-- PRP1 batch 059 processed the next ten active exact-order records after the parked A.Y.A - Bass Fuzz blocker: **Arcane Analog - BC108 Fuzz Face** through **Astral ToneWorx - Krampus - Doom Fuzz**. Seven exact-model pictures were archived; three remain photo-pending.
-- **A.Y.A - Bass Fuzz** remains parked/non-blocking for later exact-model photo recovery.
+- **461** have pedal information researched
+- **214** have confirmed pictures
+- **214** are fully complete
+- **3,607** remain incomplete
+- **247** are researched but currently waiting only for a confirmed picture
+- **PRP status:** Active, PRP1 research and photo synchronization pass
+- **Current PRP1 target:** Baddy One Shoe Pedals - Heartbreaker
+- **PRP1 batch 070:** All ten records from Bad Penny FX Wireless Germanium Fuzz through Bad Pixel Pedals MKII Professional Gold Bender Fuzz were researched and matched to exact-model photos.
+- **Next exact-order incomplete target:** Baddy One Shoe Pedals - Heartbreaker
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
 
@@ -167,3 +167,6 @@ Batch 034 widened the photo-recovery window to the first 10 incomplete tracker r
 ## PRP1 batch 035 checkpoint
 
 Batch 035 widened the direct-image hunt across the current unresolved window using builder-domain searches, Effects Database records, historical resale sources, and exact-name image indexing. **A.Y.A - Bass Fuzz** remains visually confirmed by the indexed original-model photograph, but no stable direct asset is exposed. The following unresolved records likewise produced catalog imagery or source pages without a safe direct image file. No picture status changed. **Counts remain 3,821 total / 220 researched / 162 pictured / 162 complete / 3,659 incomplete**, with **58** researched pedals waiting only for a picture. The first incomplete record remains **A.Y.A - Bass Fuzz**.
+
+## PRP1 batch 070 checkpoint
+Batch 070 completed the next ten exact-order PRP targets with synchronized research records, photo manifest entries, public index entries, and tracker status. The next target is **Baddy One Shoe Pedals - Heartbreaker**.
