@@ -8629,5 +8629,45 @@
     "source_page": "https://www.effectsdatabase.com/blog/discofreq?page=55",
     "research_record": "./research/pedals/PRP Batch 138/kalagondang-fuzz.md",
     "image_source_page": "https://www.effectsdatabase.com/blog/discofreq?page=55"
+  },
+  {
+    "builder": "Calangary Pedals",
+    "pedal": "Zaladin Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/calangary/zaladin",
+    "research_record": "./research/pedals/PRP Batch 139/zaladin-fuzz.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/calangary/zaladin"
+  },
+  {
+    "builder": "California (by Eleca)",
+    "pedal": "CDT-1 Distortion",
+    "image": null,
+    "source_page": "https://eleca.com/products/cdt-1",
+    "research_record": "./research/pedals/PRP Batch 139/cdt-1-distortion.md",
+    "image_source_page": "https://eleca.com/products/cdt-1"
+  },
+  {
+    "builder": "California (by Eleca)",
+    "pedal": "CHM-1 Heavy Metal",
+    "image": null,
+    "source_page": "https://eleca.com/products/chm-1",
+    "research_record": "./research/pedals/PRP Batch 139/chm-1-heavy-metal.md",
+    "image_source_page": "https://eleca.com/products/chm-1"
+  },
+  {
+    "builder": "California (by Eleca)",
+    "pedal": "COD-1 Over Drive",
+    "image": null,
+    "source_page": "https://eleca.com/products/cod-1",
+    "research_record": "./research/pedals/PRP Batch 139/cod-1-over-drive.md",
+    "image_source_page": "https://eleca.com/products/cod-1"
+  },
+  {
+    "builder": "California Valveworks",
+    "pedal": "The Bone Tender",
+    "image": null,
+    "source_page": "https://www.guitariste.com/forums/pedales-effets-homestudio,fuzz-zeppelinienne-tonebender,326573.html",
+    "research_record": "./research/pedals/PRP Batch 139/the-bone-tender.md",
+    "image_source_page": "https://www.guitariste.com/forums/pedales-effets-homestudio,fuzz-zeppelinienne-tonebender,326573.html"
   }
 ]
