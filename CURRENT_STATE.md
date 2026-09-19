@@ -1015,17 +1015,17 @@ Current verified totals: **3,821 total / 958 researched / 300 pictured / 300 com
 Next research target: **BSM - J-Fuzz**.
 
 
-## Latest PRP1 checkpoint — BSQ Effects
+## Latest PRP1 checkpoint — Bulinski Effect Pedals RC Bass Fuzz
 
-PRP has been moved to flexible working sets. The latest completed research pass added **four consecutive BSQ Effects records**: BO-2 Bulls On - Overdrive/Compressor, DM-2 Dynamite - Overdrive/Compressor, MS-2 Mean Street - Distortion + Booster, and SB-1 Scuttle Buttin' - Overdrive.
+PRP is continuing in practical working sets, with no fixed pedal-count ceiling. The latest completed pass added **10 consecutive exact-order research records**: **Build Your Own Clone - The Full Circle Bass Fuzz; The Large Beaver; The Mimosa; The Swede; Yellow Overdrive; Bulinski Effect Pedals - Deluxe Velociraptor Diode Bass Fuzz; Filth Foundry Guitar Fuzz; Gnarly Bee; Hard 80 Distortion; and RC Bass Fuzz**.
 
-Each now has an individual research record and synchronized catalog/manifest/tracker links. No photo was marked complete without a verified local exact-model image.
+All ten now have individual Pedal Info research records synchronized into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. Photo records remain conservative where no verified exact-model image has been archived.
 
-**Verified tracker totals:** **3821 total / 965 researched / 300 pictured / 300 complete / 3521 incomplete / 665 researched-photo-pending**.
+**Verified tracker totals:** **3821 total / 1024 researched / 301 pictured / 300 complete / 351? incomplete / 724 researched-photo-pending**.
 
-**Next exact-order research target:** **Budda - Om Overdrive**.
+**Next exact-order research target:** **Bulinski Effect Pedals - Velociraptor Diode Bass Fuzz**.
 
-
+**Public data version:** 2026-09-19-prp1-batch-132.
 ## PRP1 BYOC 250+ reconciliation — September 19, 2026
 
 The latest flexible working set added 10 consecutive research-needed records from Budda through Build Your Own Clone 250+. The live tracker was re-counted after the commit.
