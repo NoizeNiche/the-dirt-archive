@@ -9530,8 +9530,10 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/germanium",
+      "research_record": "./research/pedals/PRP Batch 116/breakfuzz-surly-fuzz-germanium.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/germanium",
+      "image_source_url": "https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/germanium"
     },
     {
       "company": "BreakFuzz",
@@ -9540,8 +9542,10 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/germanium/lowgain",
+      "research_record": "./research/pedals/PRP Batch 116/breakfuzz-surly-fuzz-germanium-low-gain.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/germanium/lowgain",
+      "image_source_url": "https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/germanium/lowgain"
     },
     {
       "company": "BreakFuzz",
@@ -9550,8 +9554,10 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/silicon/bc183",
+      "research_record": "./research/pedals/PRP Batch 116/breakfuzz-surly-fuzz-silicon-bc183.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/silicon/bc183",
+      "image_source_url": "https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/silicon/bc183"
     },
     {
       "company": "Brière Pedals",
