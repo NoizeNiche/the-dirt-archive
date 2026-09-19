@@ -196,13 +196,13 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 223
-- Pedals with confirmed pictures: 163
-- Fully complete PRP pedals: 163
-- Remaining incomplete pedals: 3658
-- Researched but waiting only for a confirmed picture: 57
+- Pedals with research information: 233
+- Pedals with confirmed pictures: 166
+- Fully complete PRP pedals: 166
+- Remaining incomplete pedals: 3655
+- Researched but waiting only for a confirmed picture: 67
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **Add+ Pedals - Der Fuzzer**
+- Current PRP1 target: **Alber - OD-600 Over Drive**
 
 ## PRP1 batch 030 checkpoint
 
@@ -383,3 +383,7 @@ Batch 042 advanced the active PRP1 queue after the parked **A.Y.A - Bass Fuzz** 
 ## PRP1 batch 043 checkpoint
 
 Batch 043 advanced the active PRP1 queue through the next 10 incomplete catalog records: **AED - Blue Bee; Aether Electronic - Lenore; AGR Pedals - Cuervo Muerto - Silicon Fuzz Bender; AGR Pedals - DS2610 - Vintage Distortion; AGR Pedals - FZR912 - Muff Fuzz Deluxe; AGR Pedals - OD85 - Full Range Overdrive; AJcustom - Distortion; Akai - Blues Overdrive; Akai - Tri-Mode Fuzz; Akai - Tri-Mode Overdrive**. Fresh source/image checks re-confirmed exact-model references for the AED, Aether, AGR, and Akai records. The Akai trio was previously missing Pedal Info, so new research records were added and synchronized into the public index, photo/research manifest, and tracker. The exact Akai Blues Overdrive has a clear surviving product photograph, but its accessible source does not expose a stable direct archival image asset. The other photo searches did not produce a new stable exact-model asset that met the archive standard. **No picture status changed.** A.Y.A Bass Fuzz remains parked and non-blocking. Counts are now **3,821 total / 223 researched / 163 pictured / 163 complete / 3,658 incomplete**, with **60** researched pedals waiting only for confirmed pictures. The next active unresolved target is **Alairex - H.A.L.O. - Harmonic Amp-Like Overdrive**.
+
+## PRP1 batch 044 checkpoint
+
+Batch 044 advanced the active PRP1 queue through the next 10 incomplete catalog records: **Alairex - H.A.L.O. - Harmonic Amp-Like Overdrive; Alairex - H.A.L.O. Jr.; Alameda Guitars - Fuzzoo; Alber - FU-10; Alber - FU-1000; Alber - FU-1000P; Alber - GA-104 Gain; Alber - GA-1040 Gain; Alber - GA-1040P Gain; Alber - OD-6 Over Drive**. New Pedal Info research records were created for all ten entries and synchronized across the research records, public pedal index, photo/research manifest, and tracker. Exact-model photos were archived for **Alairex H.A.L.O. - Harmonic Amp-Like Overdrive**, **Alairex H.A.L.O. Jr.**, and **Alameda Guitars Fuzzoo** using directly retrievable builder/catalog image assets. The seven Alber records remain picture-pending because the accessible catalog imagery is wrapped through marketplace/image layers without a stable directly retrievable archival asset. **Alairex H.A.L.O., H.A.L.O. Jr., and Alameda Fuzzoo moved to Picture: DONE / PRP Complete: DONE.** A.Y.A Bass Fuzz remains parked and non-blocking. Counts are now **3,821 total / 233 researched / 166 pictured / 166 complete / 3,655 incomplete**, with **67** researched pedals waiting only for confirmed pictures. The next active unresolved target is **Alber - OD-600 Over Drive**.
