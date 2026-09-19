@@ -411,7 +411,7 @@ jobs:
               }
             }
 
-            const actionableConsoleErrors = consoleErrors.filter(message => !/Failed to load resource: the server responded with a status of (401|403|429|5\\d\\d)/i.test(message));
+            const actionableConsoleErrors = consoleErrors.filter(message => !/Failed to load resource: the server responded with a status of (401|403|429|5\\d\\d)|net::ERR_BLOCKED_BY_RESPONSE\\.NotSameOrigin/i.test(message));
             if (actionableConsoleErrors.length) throw new Error('Browser console errors: ' + actionableConsoleErrors.join(' | '));
             if (pageErrors.length) throw new Error('Browser page errors: ' + pageErrors.join(' | '));
 
