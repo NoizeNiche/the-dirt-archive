@@ -634,3 +634,24 @@ Batch 074 processed the next ten unfinished catalog records in exact tracker ord
 
 **Live tracker totals:** 3,821 total / 501 researched / 234 pictured / 234 complete / 3,587 incomplete, with 267 researched pedals waiting only for confirmed pictures.
 
+
+
+## Current PRP checkpoint override - PRP1 batch 075
+
+Batch 075 is the latest PRP1 synchronization checkpoint. It completed the next ten unfinished catalog records in exact website/tracker order: **Basic Audio - Sharp Tooth; Solar Myth; Spooky Tooth; Supa; Supa MKI; Supa Tweak; Super Fuzz; Tri-Ram Muff; Zippy; and Zonk**.
+
+All ten now have individual Pedal Info research records and exact official Basic Audio product photographs. **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv** were synchronized, and the site data-version markers were advanced to **2026-09-19-prp1-batch-075**.
+
+Current tracker checkpoint:
+- Unique pedals in website catalog: **3,821**
+- Pedals with research information: **511**
+- Pedals with confirmed pictures: **244**
+- Fully complete PRP pedals: **244**
+- Remaining incomplete pedals: **3,577**
+- Researched but waiting only for a confirmed picture: **267**
+- PRP status: Active, PRP1 research and photo synchronization pass
+- Current PRP1 target: **BBE - G Screamer**
+
+The deployment browser audit now uses **BBE - G Screamer** as its no-research fallback regression target because Sharp Tooth is now researched.
+
+The batch must not be called live until the GitHub Pages publishing run succeeds.
