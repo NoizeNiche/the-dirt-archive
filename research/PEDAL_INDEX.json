@@ -2780,13 +2780,13 @@
     },
     {
       "company": "Animals Pedal",
-      "pedal": "In Oct",
+      "pedal": "In Oct,3 Foxes talking of dreamy FUZZ",
       "types": [
-        "3 Foxes talking of dreamy FUZZ"
+        "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://animalspedal.us/products/animals-pedal-in-oct-3-foxes-talking-of-dreamy-fuzz",
+      "research_record": "./research/pedals/Animals Pedal/In Oct,3 Foxes talking of dreamy FUZZ.md"
     },
     {
       "company": "Animals Pedal",
