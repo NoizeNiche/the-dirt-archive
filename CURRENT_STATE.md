@@ -823,3 +823,12 @@ The public catalog data is synchronized through **PRP1 batch 081**. The deployme
 **Running PRP1 count:** 633 researched, 277 pictured, 277 fully complete, 356 researched/photo-pending, 3544 incomplete. Total catalog: 3821.
 
 **Next exact-order target:** Bigfoot Engineering - Bigfoot Germanium Fuzz.
+
+
+## PRP1 Batch 087 checkpoint
+
+**Batch 087 completed:** 10 additional pedals researched and synchronized in exact tracker order: **Bigfoot Engineering - Bigfoot Germanium Fuzz; Bigfoot Germanium Fuzz (+Buffer); Bigfoot King Fuzz; Bigfoot King Fuzz Mini; Bigfoot King Fuzz XL; Bigfoot F.X. - Dynamic Distortion Device; Fuzz Hog; Spaghetti Western Fuzz; The Humongous Box; BigNoise Amplification - Bulls Eye Overdrive**. All 10 remain photo-pending with **No Photo Archived** because no stable exact-model direct image asset was promoted in this pass.
+
+**Running PRP1 count:** 643 researched, 277 pictured, 277 fully complete, 366 researched/photo-pending, 3544 incomplete. Total catalog: 3821.
+
+**Next exact-order target:** BigNoise Amplification - Dark Distortion.
