@@ -243,3 +243,16 @@ All ten now have individual Pedal Info research records synchronized into PEDAL_
 **Next exact-order research target:** **Build Your Own Clone - The Full Circle Bass Fuzz**.
 
 **Public data version:** 2026-09-19-prp1-byoc-silver-pony.
+
+
+## PRP1 Batch 133 checkpoint — September 19, 2026
+
+Batch 133 advanced **10 consecutive exact-order research records**: **Bulinski Effect Pedals - Velociraptor Diode Bass Fuzz; Buzzing Bugs Audio Devices - BB01 Fuzz Pre-Amp; BB02 Percolator Fuzz; BB04 Full Range Drive; Bolster; Mortal Joy - Los Campesinos! Collaboration; Byron Amplification - Blood Drive Overdrive; Cabeza Borradora Octave Fuzz; Cowboy Overdrive; and Dark Arts Drive Overdrive**.
+
+All ten now have individual Pedal Info research records synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Exact-model image source URLs were captured for **9 of the 10** records for future local archival recovery; no image was promoted to a local catalog asset without the archival cache step. Velociraptor remains source-only because the reviewed manufacturer/database material showed version-specific image/control differences that should not be collapsed into one guessed image.
+
+**Verified tracker totals:** **3,821 total / 1,035 researched / 300 pictured / 300 complete / 3,521 incomplete / 735 researched-photo-pending**.
+
+**Next exact-order research target:** **Byron Amplification - Green Concussion Fuzz**.
+
+**Public data version:** **2026-09-19-prp1-batch-133**.
