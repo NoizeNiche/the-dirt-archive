@@ -819,7 +819,7 @@ Bogner Amplification,Ecstasy Blue,Overdrive,DONE,NEEDED,NEEDED,./research/pedals
 Bogner Amplification,Ecstasy Red,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 106/Bogner Ecstasy Red.md
 Bogner Amplification,La Grange,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 107/La Grange.md
 Bogner Amplification,Oxford,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 107/Oxford.md
-Bogner Amplification,production status not established from reviewed current manufacturer material,Distortion / Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
+Bogner Amplification,production status not established from reviewed current manufacturer material,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/bogner-amplification-production-status-not-established-from-reviewed-current-manufacturer-material.md
 Bogner Amplification,Uberschall,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 107/Uberschall.md
 Bogner Amplification,Wessex,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 107/Wessex.md
 Bondi Effects,Del Mar Overdrive mk1,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 107/Del Mar Overdrive mk1.md
@@ -878,19 +878,19 @@ Bowman Audio Endeavors,Bellyacher,Distortion,DONE,NEEDED,NEEDED,./research/pedal
 Bowman Audio Endeavors,Odious Fuzz Octave,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/odious-fuzz-octave.md
 Bowman Audio Endeavors,Satan's Fingers Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/satan-s-fingers-fuzz.md
 Bowman Audio Endeavors,The Bowman Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/the-bowman-overdrive.md
-BoX,Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-BR Tech,BR-1 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-BR Tech,Up Scream,Overdrive,NEEDED,NEEDED,NEEDED,
-Braking Train Pedals,Frequency Control Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Brantone Electronics,Blue Meanie - Germanium Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Brantone Electronics,Green Manalishi Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Brantone Electronics,Tonemaster Mk1.5 Germanium Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Brantone Electronics,ToneMaster Mk2 Germanium Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Brantone Electronics,Vintage Tweed Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Brantone Electronics,WEM Pepbox - Official Reissue,Fuzz,NEEDED,NEEDED,NEEDED,
-Brantone Electronics,Woodstock - Silicon Fuzz Face,Fuzz,NEEDED,NEEDED,NEEDED,
-Breakfast Audio,SLAB DISTORTION,Distortion,NEEDED,NEEDED,NEEDED,
-Breakfast Audio,WELTSCHMERZ FUZZ,Fuzz,NEEDED,NEEDED,NEEDED,
+BoX,Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/box-distortion.md
+BR Tech,BR-1 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/br-tech-br-1-distortion.md
+BR Tech,Up Scream,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/br-tech-up-scream.md
+Braking Train Pedals,Frequency Control Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/braking-train-pedals-frequency-control-fuzz.md
+Brantone Electronics,Blue Meanie - Germanium Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/brantone-electronics-blue-meanie-germanium-fuzz.md
+Brantone Electronics,Green Manalishi Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/brantone-electronics-green-manalishi-overdrive.md
+Brantone Electronics,Tonemaster Mk1.5 Germanium Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/brantone-electronics-tonemaster-mk1-5-germanium-fuzz.md
+Brantone Electronics,ToneMaster Mk2 Germanium Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/brantone-electronics-tonemaster-mk2-germanium-fuzz.md
+Brantone Electronics,Vintage Tweed Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/brantone-electronics-vintage-tweed-overdrive.md
+Brantone Electronics,WEM Pepbox - Official Reissue,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/brantone-electronics-wem-pepbox-official-reissue.md
+Brantone Electronics,Woodstock - Silicon Fuzz Face,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/brantone-electronics-woodstock-silicon-fuzz-face.md
+Breakfast Audio,SLAB DISTORTION,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/breakfast-audio-slab-distortion.md
+Breakfast Audio,WELTSCHMERZ FUZZ,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 115/breakfast-audio-weltschmerz-fuzz.md
 BreakFuzz,Surly Fuzz Germanium,Fuzz,NEEDED,NEEDED,NEEDED,
 BreakFuzz,Surly Fuzz Germanium Low Gain,Fuzz,NEEDED,NEEDED,NEEDED,
 BreakFuzz,Surly Fuzz Silicon BC183,Fuzz,NEEDED,NEEDED,NEEDED,
