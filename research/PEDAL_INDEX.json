@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-047",
+  "version": "2026-09-18-prp1-batch-048",
   "count": 3821,
   "pedals": [
     {
@@ -1749,8 +1749,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.ampmojo.com/product-page/skate-fuzz-skuzz",
+      "research_record": "./research/pedals/PRP Batch 048/Skate Fuzz (SKUZZ).md"
     },
     {
       "company": "AmpMojo",
@@ -1759,8 +1759,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.ampmojo.com/sol-drive",
+      "research_record": "./research/pedals/PRP Batch 048/Sol Drive.md"
     },
     {
       "company": "Amptweaker",
@@ -1769,8 +1769,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/amptweaker/bluesfuzz/bass",
+      "research_record": "./research/pedals/PRP Batch 048/Bass BluesFuzz.md"
     },
     {
       "company": "Amptweaker",
