@@ -5816,5 +5816,75 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special/seriously",
     "research_record": "./research/pedals/PRP Batch 101/A Seriously Special Twosome.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "A Very Special Twosome",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special",
+    "research_record": "./research/pedals/PRP Batch 102/A Very Special Twosome.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "Blunderbuss Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/blunderbuss",
+    "research_record": "./research/pedals/PRP Batch 102/Blunderbuss Fuzz.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "Blunderbuss Musket",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/musketfuzz",
+    "research_record": "./research/pedals/PRP Batch 102/Blunderbuss Musket.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "Crystal Dagger",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/crystaldagger",
+    "research_record": "./research/pedals/PRP Batch 102/Crystal Dagger.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "Dual Gain Mantra",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/mantra/dualgain",
+    "research_record": "./research/pedals/PRP Batch 102/Dual Gain Mantra.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "Fix'd Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz",
+    "research_record": "./research/pedals/PRP Batch 102/Fix'd Fuzz.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "Fix'd Fuzz Deluxe",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz/deluxe",
+    "research_record": "./research/pedals/PRP Batch 102/Fix'd Fuzz Deluxe.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "FUBÄR",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/fubar",
+    "research_record": "./research/pedals/PRP Batch 102/FUBÄR.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "Fuzz Bear",
+    "image": null,
+    "source_page": "https://www.youtube.com/watch?v=5VLgkEhncHg",
+    "research_record": "./research/pedals/PRP Batch 102/Fuzz Bear.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "Mantra Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/mantra",
+    "research_record": "./research/pedals/PRP Batch 102/Mantra Overdrive.md"
   }
 ]
