@@ -655,3 +655,22 @@ Current tracker checkpoint:
 The deployment browser audit now uses **BBE - G Screamer** as its no-research fallback regression target because Sharp Tooth is now researched.
 
 The batch must not be called live until the GitHub Pages publishing run succeeds.
+
+
+## Current PRP1 checkpoint - batch 076
+
+Batch 076 processed the next ten unfinished catalog records in exact tracker order: **BBE - G Screamer; BearFoot FX - Arctic White Fuzz; BlueBerry Bass Overdrive; Bone Bender MKI Fuzz; Burgundy BossHorn Fuzz; Candy Apple Fuzz; Dyna Red Distortion; Emerald Green Distortion Machine; Emerald Green Overdrive; and Honey Bee Overdrive**.
+
+All ten now have individual Pedal Info research records. Exact photos were attached for **Arctic White Fuzz, BlueBerry Bass Overdrive, Bone Bender MKI Fuzz, Burgundy BossHorn Fuzz, Candy Apple Fuzz, Dyna Red Distortion, Emerald Green Distortion Machine, and Honey Bee Overdrive**. **G Screamer** and **Emerald Green Overdrive** remain photo-pending because a stable exact image asset was not independently confirmed.
+
+Current tracker checkpoint:
+- Unique pedals in website catalog: **3,821**
+- Pedals with research information: **521**
+- Pedals with confirmed pictures: **252**
+- Fully complete PRP pedals: **252**
+- Remaining incomplete pedals: **3,569**
+- Researched but waiting only for a confirmed picture: **269**
+- PRP status: Active, PRP1 research and photo synchronization pass
+- Current PRP1 target: **BearFoot FX - Honey Bee Overdrive Plus**
+
+The site's public data-version markers are now **2026-09-19-prp1-batch-076**. The deployment browser audit's no-research fallback is now **BearFoot FX - Honey Bee Overdrive Plus**, which remains unresearched in the tracker.
