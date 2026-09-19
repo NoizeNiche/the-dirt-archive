@@ -17,7 +17,9 @@ permissions:
 
 jobs:
   deploy:
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    if: >
+      github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success'
+      || github.event_name != 'workflow_run' && github.actor != 'github-actions[bot]'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
