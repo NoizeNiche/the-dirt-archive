@@ -2939,5 +2939,75 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/auraldream/drive/compelling",
     "research_record": "./research/pedals/Aural Dream/Compelling Drive.md"
+  },
+  {
+    "builder": "Aural Dream",
+    "pedal": "Intense Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/auraldream/distortion/intense",
+    "research_record": "./research/pedals/Aural Dream/Intense Distortion.md"
+  },
+  {
+    "builder": "Aural Dream",
+    "pedal": "Purely Fuzz",
+    "image": null,
+    "source_page": "https://www.effects-pedals.info/p/aural-dream-purely-fuzz/",
+    "research_record": "./research/pedals/Aural Dream/Purely Fuzz.md"
+  },
+  {
+    "builder": "Aural Dream",
+    "pedal": "Warm Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/auraldream/drive/warm",
+    "research_record": "./research/pedals/Aural Dream/Warm Drive.md"
+  },
+  {
+    "builder": "Auralux",
+    "pedal": "Clear Gain",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/auralux/cleargain",
+    "research_record": "./research/pedals/Auralux/Clear Gain.md"
+  },
+  {
+    "builder": "Austone Electronics",
+    "pedal": "Fuzz Nutz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/austone/fuzznutz",
+    "research_record": "./research/pedals/Austone Electronics/Fuzz Nutz.md"
+  },
+  {
+    "builder": "Austone Electronics",
+    "pedal": "Textone Fuzz Nutz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/austone/textone",
+    "research_record": "./research/pedals/Austone Electronics/Textone Fuzz Nutz.md"
+  },
+  {
+    "builder": "Automat Audio Devices",
+    "pedal": "Rara Avis",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/automat/raraavis",
+    "research_record": "./research/pedals/Automat Audio Devices/Rara Avis.md"
+  },
+  {
+    "builder": "Automat Audio Devices",
+    "pedal": "Triplegänger",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/automat/tripleganger",
+    "research_record": "./research/pedals/Automat Audio Devices/Triplegänger.md"
+  },
+  {
+    "builder": "Auxiliary Workshop",
+    "pedal": "AWOD35 Overdrive",
+    "image": null,
+    "source_page": "https://auxiliaryworkshop.com/",
+    "research_record": "./research/pedals/Auxiliary Workshop/AWOD35 Overdrive.md"
+  },
+  {
+    "builder": "Auxiliary Workshop",
+    "pedal": "The Devils Handshake",
+    "image": null,
+    "source_page": "https://auxiliaryworkshop.com/",
+    "research_record": "./research/pedals/Auxiliary Workshop/The Devils Handshake.md"
   }
 ]
