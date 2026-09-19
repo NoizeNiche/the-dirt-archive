@@ -79,3 +79,11 @@ The current evidence set also includes the historical 2015 Japanese resale refer
 
 9. Image-index result — A.Y.A tokyo japan BASS FUZZ, Mercari item m93721008252: https://jp.mercari.com/item/m93721008252
 10. Chiba Kandantei Yachiyo — A.Y.A BASS FUZZ listed in 2015 equipment-buyback catalog: https://ameblo.jp/chibakan-yachiyo/entry-12068999635.html
+
+
+## PRP1 photo-recovery pass — batch 031
+
+The search was widened again to Japanese-language resale and archive sources plus image search. The exact original **A.Y.A tokyo japan BASS FUZZ** photo continues to surface in the indexed Mercari record, visually matching the archived model identity and two-control layout. Independent Japanese records also continue to list the exact model name: MION Upcycle lists **A.Y.A Tokyo Japan / BASS FUZZ**, and Chiba Kandantei's 2015 equipment-buyback catalog lists **A.Y.A BASS FUZZ**. Neither source exposed a stable archival image file. Current eBay results continue to be explicitly **BASS FUZZ II**, so those photographs remain excluded from the base-model record.
+
+11. MION Upcycle — A.Y.A Tokyo Japan / BASS FUZZ: https://kaitori.mion.tokyo/%E6%A5%BD%E5%99%A8%E8%B2%B7%E5%8F%96%E9%87%91%E9%A1%8D%E8%A1%A8/
+12. Chiba Kandantei Yachiyo — 2015 equipment-buyback catalog: https://ameblo.jp/chibakan-yachiyo/entry-12068999635.html
