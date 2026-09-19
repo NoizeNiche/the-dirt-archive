@@ -750,7 +750,7 @@ PRP is continuing in practical working sets, with no fixed pedal-count ceiling. 
 
 All ten now have individual Pedal Info research records synchronized into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. Photos remain conservative and unpromoted where no verified image has been archived.
 
-**Verified tracker totals:** **3821 total / 1015 researched / 300 pictured / 300 complete / 3521 incomplete / 715 researched-photo-pending**.
+**Verified tracker totals:** **3821 total / 1014 researched / 301 pictured / 300 complete / 3521 incomplete / 714 researched-photo-pending**.
 
 **Next exact-order research target:** **Build Your Own Clone - Soaring Skillet - Stereo Pan/Phaser**.
 
