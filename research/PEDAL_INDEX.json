@@ -8631,11 +8631,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bmf-effects/the-godfather-overdrive/primary.webp",
       "source_page": "https://www.bmfeffects.com/products/the-godfather-overdrive",
       "research_record": "./research/pedals/PRP Batch 114/the-godfather-overdrive.md",
       "image_source_page": "https://www.bmfeffects.com/products/the-godfather-overdrive",
-      "image_source_url": "https://www.bmfeffects.com/products/the-godfather-overdrive"
+      "image_source_url": "http://www.bmfeffects.com/cdn/shop/files/TheGodfatherOverdrive_HeadOn.jpg?v=1687199272"
     },
     {
       "company": "BMF Effects",
