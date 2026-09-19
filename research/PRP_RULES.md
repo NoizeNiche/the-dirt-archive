@@ -196,13 +196,13 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 481
-- Pedals with confirmed pictures: 221
-- Fully complete PRP pedals: 221
-- Remaining incomplete pedals: 3600
-- Researched but waiting only for a confirmed picture: 260
+- Pedals with research information: 491
+- Pedals with confirmed pictures: 227
+- Fully complete PRP pedals: 227
+- Remaining incomplete pedals: 3594
+- Researched but waiting only for a confirmed picture: 264
 - PRP status: Active, PRP1 research and photo synchronization pass
-- Current PRP1 target: **Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion**
+- Current PRP1 target: **Baroni Lab - GD Drive**
 
 ## PRP1 batch 030 checkpoint
 
@@ -427,3 +427,6 @@ Batch 071 completed ten exact-order PRP targets with individual research records
 ## Latest PRP1 checkpoint - batch 072
 
 Batch 072 completed ten exact-order PRP targets. Seven exact-model photos were archived; three remain photo-pending. The next target is **Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion**.
+
+## Latest PRP1 checkpoint - batch 073
+Batch 073 completed ten exact-order PRP targets. Six exact-model photos were archived; four remain photo-pending. The next target is **Baroni Lab - GD Drive**.

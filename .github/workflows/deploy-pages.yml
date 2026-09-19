@@ -318,8 +318,8 @@ jobs:
             // No-research / no-photo fallback.
             await page.goto(
               'http://127.0.0.1:4173/pedal-detail.html?builder=' +
-              encodeURIComponent('Balaguer Guitars') + '&pedal=' +
-              encodeURIComponent('BG-Drive - Preamp/Overdrive'),
+              encodeURIComponent('Baltimore Sonic Research Institute') + '&pedal=' +
+              encodeURIComponent('Radical Conversion - Discrete Opamp Distortion'),
               {waitUntil:'networkidle'}
             );
             if (!(await page.locator('#research').textContent()).includes('Pedal information has not been added yet.')) {

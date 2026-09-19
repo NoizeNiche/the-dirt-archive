@@ -516,3 +516,11 @@ Batch 072 completed the next ten unfinished records in exact tracker order, from
 - **Live tracker totals:** 3821 total / 481 researched / 221 pictured / 221 complete / 3600 incomplete.
 - **Waiting on photos:** 260 researched pedals.
 - **Next exact-order missing-information target:** **Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion**.
+
+## PRP1 batch 073 checkpoint
+
+Batch 073 completed the next ten unfinished records in exact tracker order, from **Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion** through **Baroni Lab - Billygoats Muff**. All ten now have individual research records synchronized into the public index, photo manifest, and tracker. Exact photos were archived for Radical Conversion, Small Fry Burn Unit, Trifecta, UnLimiTeD, Angry Pig, and Billygoats Muff. TFZ Fuzz, HM Demon, The Beast, and BP-1 remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+- **Current totals:** 3821 total / 491 researched / 227 pictured / 227 complete / 3594 incomplete.
+- **Waiting on photos:** 264 researched pedals.
+- **Next exact-order missing-information target:** **Baroni Lab - GD Drive**.

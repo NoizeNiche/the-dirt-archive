@@ -100,13 +100,17 @@ Batch 069 adds the next 10 unfinished catalog records in exact order: B85 Audio 
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 481
-- Pedals with confirmed pictures: 221
-- Fully complete PRP pedals: 221
-- Remaining incomplete pedals: 3,600
-- Researched but waiting only for a confirmed picture: 260
+- Pedals with research information: 491
+- Pedals with confirmed pictures: 227
+- Fully complete PRP pedals: 227
+- Remaining incomplete pedals: 3,594
+- Researched but waiting only for a confirmed picture: 264
 - PRP status: Active, PRP1 research and photo synchronization pass
 - Current PRP1 target: **Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion**
+
+zation pass
+- Current PRP1 target: **Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion**
+
 
 
 
@@ -616,4 +620,10 @@ Batch 071 completed the next ten unfinished catalog records in exact tracker ord
 Batch 072 processed the next ten unfinished catalog records in exact tracker order: **Baja Tech Custom - Das Fuzz Si; Baja Tech Custom - Top Boost TB-1; Balaguer Guitars - BG-Drive - Preamp/Overdrive; Balaguer Guitars - Fission Drive v2; Baltimore Sonic Research Institute - Ashmaker - Distortion w/ Boost; FZZ; Get the Name of the Dog! JFET Overdrive; Impossible Colors - Transformer Coupled Fuzz; Impossible Colors II Transformer Coupled Fuzz; and Oriole Fuzz**. All ten received individual research records. Exact photos were attached for Das Fuzz Si, Top Boost TB-1, Fission Drive v2, Ashmaker, Get the Name of the Dog!, Impossible Colors, and Oriole Fuzz. BG-Drive, FZZ, and Impossible Colors II remain photo-pending.
 
 **Live tracker totals:** 3,821 total / 481 researched / 221 pictured / 221 complete / 3,600 incomplete, with 260 researched pedals waiting only for confirmed pictures.
+
+### PRP1 batch 073 checkpoint
+
+Batch 073 processed the next ten unfinished records in exact tracker order: Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion; TFZ Fuzz; Barber Electronics - Small Fry Burn Unit; Trifecta; UnLimiTeD; Bardic Audio Devices - HM Demon; The Beast; Barge Concepts - BP-1; Baroni Lab - Angry Pig; and Billygoats Muff. All ten received individual research records. Exact photos were attached for Radical Conversion, Small Fry Burn Unit, Trifecta, UnLimiTeD, Angry Pig, and Billygoats Muff. TFZ Fuzz, HM Demon, The Beast, and BP-1 remain photo-pending.
+
+**Batch totals:** 3,821 total / 491 researched / 227 pictured / 227 complete / 3,594 incomplete, with 264 researched pedals waiting only for confirmed pictures.
 

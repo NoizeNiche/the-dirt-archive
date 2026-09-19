@@ -3600,5 +3600,81 @@
     "source_page": "https://www.effectsdatabase.com/model/bsri/oriole",
     "research_record": "./research/pedals/Baltimore Sonic Research Institute/Oriole Fuzz.md",
     "image_source_page": "https://www.effectsdatabase.com/model/bsri/oriole"
+  },
+  {
+    "builder": "Baltimore Sonic Research Institute",
+    "pedal": "Radical Conversion - Discrete Opamp Distortion",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/bsri_radicalconversion_001.jpg",
+    "source_page": "https://www.bsriaudio.com/product/radical-conversion-discrete-opamp-distortion",
+    "research_record": "./research/pedals/Baltimore Sonic Research Institute/Radical Conversion - Discrete Opamp Distortion.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/bsri/radicalconversion"
+  },
+  {
+    "builder": "Baltimore Sonic Research Institute",
+    "pedal": "TFZ Fuzz",
+    "image": null,
+    "source_page": "https://onethousandpedals.com/pedal/baltimore-sonic-research-institute-tfz-the-ultimate-fuzz",
+    "research_record": "./research/pedals/Baltimore Sonic Research Institute/TFZ Fuzz.md"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "Small Fry Burn Unit",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/barber_smallfry_001.jpg",
+    "source_page": "https://www.effectsdatabase.com/model/barber/smallfry",
+    "research_record": "./research/pedals/Barber Electronics/Small Fry Burn Unit.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/barber/smallfry"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "Trifecta",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/barber_trifecta_001.jpg",
+    "source_page": "https://www.effectsdatabase.com/model/barber/trifecta",
+    "research_record": "./research/pedals/Barber Electronics/Trifecta.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/barber/trifecta"
+  },
+  {
+    "builder": "Barber Electronics",
+    "pedal": "UnLimiTeD",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/barber_unltd_001.jpg",
+    "source_page": "https://www.effectsdatabase.com/model/barber/unltd",
+    "research_record": "./research/pedals/Barber Electronics/UnLimiTeD.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/barber/unltd"
+  },
+  {
+    "builder": "Bardic Audio Devices",
+    "pedal": "HM Demon",
+    "image": null,
+    "source_page": "https://bardicaudiodevices.bigcartel.com/product/hm-demon",
+    "research_record": "./research/pedals/Bardic Audio Devices/HM Demon.md"
+  },
+  {
+    "builder": "Bardic Audio Devices",
+    "pedal": "The Beast",
+    "image": null,
+    "source_page": "https://delicious-audio.com/bardic-audio-devices-the-beast-distortion-fuzz/",
+    "research_record": "./research/pedals/Bardic Audio Devices/The Beast.md"
+  },
+  {
+    "builder": "Barge Concepts",
+    "pedal": "BP-1",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bargeconcepts/bp1",
+    "research_record": "./research/pedals/Barge Concepts/BP-1.md"
+  },
+  {
+    "builder": "Baroni Lab",
+    "pedal": "Angry Pig",
+    "image": "https://baroni-lab.com/wp-content/uploads/2017/03/02_Pedals_01_DISTORTION_I01_file_6.jpg",
+    "source_page": "https://baroni-lab.com/shop/pedals/distortion/angry-pig/",
+    "research_record": "./research/pedals/Baroni Lab/Angry Pig.md",
+    "image_source_page": "https://baroni-lab.com/shop/pedals/distortion/angry-pig/"
+  },
+  {
+    "builder": "Baroni Lab",
+    "pedal": "Billygoats Muff",
+    "image": "https://baroni-lab.com/wp-content/uploads/2017/03/02_Pedals_01_DISTORTION_G01_01_.jpg",
+    "source_page": "https://baroni-lab.com/shop/pedals/distortion/billygoats-muff/",
+    "research_record": "./research/pedals/Baroni Lab/Billygoats Muff.md",
+    "image_source_page": "https://baroni-lab.com/shop/pedals/distortion/billygoats-muff/"
   }
 ]
