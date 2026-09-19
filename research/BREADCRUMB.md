@@ -816,3 +816,16 @@ The pass stayed conservative where Byron's catalog did not expose technical docu
 **Next exact-order research target:** **BYW Audio - Blacky' Blower**.
 
 **Public data version:** **2026-09-19-prp1-batch-134**.
+
+
+## PRP1 Batch 135 checkpoint — September 19, 2026
+
+Batch 135 added **10 consecutive exact-order research records**: **BYW Audio - Blacky' Blower; BYW Audio - Gros Buzz; BZZT Electronics - SELEKTOR 16; C.Giant - OD-1 Warm Blues - Overdrive/Distortion; C.I.C - MOD-7 Overdrive; C.Q.O. - Super Distortion; C14 Devices - Tone Chaser; Cactus - MTL-5 Ultra Metal; Cactus - OVD-5 Overdrive; and Cajita Stompboxes - Bdi.ts with Overdrive**.
+
+All ten now have individual Pedal Info research records synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Research stayed conservative where the available evidence did not support circuit-level claims. No questionable photo was promoted; the ten remain **Picture: NEEDED** pending exact local image archival.
+
+**Verified tracker totals:** **3821 total / 1052 researched / 303 pictured / 300 complete / 2769 incomplete / 752 researched-photo-pending**.
+
+**Next exact-order research target:** **Cajita Stompboxes - BRIT30 preamplificador tipo Vox AC30 overdrive**.
+
+**Public data version:** **2026-09-19-prp1-batch-135**.
