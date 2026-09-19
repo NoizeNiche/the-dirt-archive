@@ -83,14 +83,14 @@ Current architecture decisions:
 
 ## Current PRP checkpoint
 
-- Unique pedals in website catalog: 3,821
-- Pedals with research information: 233
-- Pedals with confirmed pictures: 166
-- Fully complete PRP pedals: 166
-- Remaining incomplete pedals: 3655
-- Researched but waiting only for a confirmed picture: 67
+- Unique pedals in website catalog: 3,821,821
+- Pedals with research information: 243
+- Pedals with confirmed pictures: 167
+- Fully complete PRP pedals: 167
+- Remaining incomplete pedals: 3654
+- Researched but waiting only for a confirmed picture: 76
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **Alber - OD-600 Over Drive**
+- Current PRP1 target: **Alen Geere - Crown Centaur**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -326,3 +326,7 @@ Batch 043 advanced the active PRP1 queue through the next 10 incomplete catalog 
 ## PRP1 batch 044 checkpoint
 
 Batch 044 advanced the active PRP1 queue through the next 10 incomplete catalog records: **Alairex - H.A.L.O. - Harmonic Amp-Like Overdrive; Alairex - H.A.L.O. Jr.; Alameda Guitars - Fuzzoo; Alber - FU-10; Alber - FU-1000; Alber - FU-1000P; Alber - GA-104 Gain; Alber - GA-1040 Gain; Alber - GA-1040P Gain; Alber - OD-6 Over Drive**. New Pedal Info research records were created for all ten entries and synchronized across the research records, public pedal index, photo/research manifest, and tracker. Exact-model photos were archived for **Alairex H.A.L.O. - Harmonic Amp-Like Overdrive**, **Alairex H.A.L.O. Jr.**, and **Alameda Guitars Fuzzoo** using directly retrievable builder/catalog image assets. The seven Alber records remain picture-pending because the accessible catalog imagery is wrapped through marketplace/image layers without a stable directly retrievable archival asset. **Alairex H.A.L.O., H.A.L.O. Jr., and Alameda Fuzzoo moved to Picture: DONE / PRP Complete: DONE.** A.Y.A Bass Fuzz remains parked and non-blocking. Counts are now **3,821 total / 233 researched / 166 pictured / 166 complete / 3,655 incomplete**, with **67** researched pedals waiting only for confirmed pictures. The next active unresolved target is **Alber - OD-600 Over Drive**.
+
+## PRP1 batch 045 checkpoint
+
+Batch 045 advanced the active PRP1 queue through the next 10 incomplete catalog records: **Alber - OD-600 Over Drive; Alber - OD-600P Over Drive; Alber - OD-610 Over Drive; Alcove - ALP-200 Overdrive; Alden - Tube Overdrive; Aleatorik - Operation 1; Aleatorik - Operation 2; Aleatorik - Operation 3; Aleks K Production - Honey Moon - Sweet Overdrive; Aleks K Production - Sun Beam - Magic Drive**. New Pedal Info research records were created for all ten entries and synchronized across the research records, public pedal index, photo/research manifest, and tracker. An exact builder photo was archived for **Aleks K Production - Sun Beam - Magic Drive**. The Honey Moon catalog entry remains photo-pending because the stable direct builder image currently exposed is specifically a V3, while the archive entry is the generic model and its version differences matter. The remaining eight records are photo-pending because exact catalog imagery is available through source/marketplace layers but no stable directly retrievable archival asset met the photo rule. A later-fix checklist was added at **research/PRP_LATER_FIXES.md** for the seven remaining Batch 044 Alber photos plus the parked A.Y.A Bass Fuzz. Counts are now **3,821 total / 243 researched / 167 pictured / 167 complete / 3,654 incomplete**, with **76** researched pedals waiting only for confirmed pictures. The next active unresolved target is **Alen Geere - Crown Centaur**.

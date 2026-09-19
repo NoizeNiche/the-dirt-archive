@@ -1763,5 +1763,76 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/alber/zn/od6",
     "research_record": "./research/pedals/Alber/OD-6 Over Drive.md"
+  },
+  {
+    "builder": "Alber",
+    "pedal": "OD-600 Over Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/alber/x00/od600",
+    "research_record": "./research/pedals/Alber/OD-600 Over Drive.md"
+  },
+  {
+    "builder": "Alber",
+    "pedal": "OD-600P Over Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/alber/x00p/od600p",
+    "research_record": "./research/pedals/Alber/OD-600P Over Drive.md"
+  },
+  {
+    "builder": "Alber",
+    "pedal": "OD-610 Over Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/alber/x10/od610",
+    "research_record": "./research/pedals/Alber/OD-610 Over Drive.md"
+  },
+  {
+    "builder": "Alcove",
+    "pedal": "ALP-200 Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/alcove/alp200",
+    "research_record": "./research/pedals/Alcove/ALP-200 Overdrive.md"
+  },
+  {
+    "builder": "Alden",
+    "pedal": "Tube Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/alden/tubeoverdrive",
+    "research_record": "./research/pedals/Alden/Tube Overdrive.md"
+  },
+  {
+    "builder": "Aleatorik",
+    "pedal": "Operation 1",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/aleatorik/operation/1",
+    "research_record": "./research/pedals/Aleatorik/Operation 1.md"
+  },
+  {
+    "builder": "Aleatorik",
+    "pedal": "Operation 2",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/aleatorik/operation/2",
+    "research_record": "./research/pedals/Aleatorik/Operation 2.md"
+  },
+  {
+    "builder": "Aleatorik",
+    "pedal": "Operation 3",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/aleatorik/operation/3",
+    "research_record": "./research/pedals/Aleatorik/Operation 3.md"
+  },
+  {
+    "builder": "Aleks K Production",
+    "pedal": "Honey Moon - Sweet Overdrive",
+    "image": null,
+    "source_page": "https://www.alekskproduction.com/shop/p/honey-moon-sweet-overdrive-2",
+    "research_record": "./research/pedals/Aleks K Production/Honey Moon - Sweet Overdrive.md"
+  },
+  {
+    "builder": "Aleks K Production",
+    "pedal": "Sun Beam - Magic Drive",
+    "image": "https://static1.squarespace.com/static/6202bdb89c58b86355d6b775/6202fa94de0c842fe2456a61/623163cc94c84a169b395c7b/1647403991431/001%2BSun%2BBeam%2BMagic%2BDrive.png?format=1500w",
+    "source_page": "https://www.alekskproduction.com/shop/p/sun-beam-magic-drive",
+    "research_record": "./research/pedals/Aleks K Production/Sun Beam - Magic Drive.md",
+    "image_source_page": "https://www.alekskproduction.com/shop/p/sun-beam-magic-drive"
   }
 ]

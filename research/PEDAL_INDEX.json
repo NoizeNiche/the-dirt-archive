@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-044",
+  "version": "2026-09-19-prp1-batch-045",
   "count": 3821,
   "pedals": [
     {
@@ -1436,8 +1436,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/alber/x00/od600",
+      "research_record": "./research/pedals/Alber/OD-600 Over Drive.md"
     },
     {
       "company": "Alber",
@@ -1446,8 +1446,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/alber/x00p/od600p",
+      "research_record": "./research/pedals/Alber/OD-600P Over Drive.md"
     },
     {
       "company": "Alber",
@@ -1456,8 +1456,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/alber/x10/od610",
+      "research_record": "./research/pedals/Alber/OD-610 Over Drive.md"
     },
     {
       "company": "Alcove",
@@ -1466,8 +1466,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/alcove/alp200",
+      "research_record": "./research/pedals/Alcove/ALP-200 Overdrive.md"
     },
     {
       "company": "Alden",
@@ -1476,8 +1476,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/alden/tubeoverdrive",
+      "research_record": "./research/pedals/Alden/Tube Overdrive.md"
     },
     {
       "company": "Aleatorik",
@@ -1486,8 +1486,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/aleatorik/operation/1",
+      "research_record": "./research/pedals/Aleatorik/Operation 1.md"
     },
     {
       "company": "Aleatorik",
@@ -1496,8 +1496,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/aleatorik/operation/2",
+      "research_record": "./research/pedals/Aleatorik/Operation 2.md"
     },
     {
       "company": "Aleatorik",
@@ -1506,8 +1506,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/aleatorik/operation/3",
+      "research_record": "./research/pedals/Aleatorik/Operation 3.md"
     },
     {
       "company": "Aleks K Production",
@@ -1516,8 +1516,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.alekskproduction.com/shop/p/honey-moon-sweet-overdrive-2",
+      "research_record": "./research/pedals/Aleks K Production/Honey Moon - Sweet Overdrive.md"
     },
     {
       "company": "Aleks K Production",
@@ -1525,9 +1525,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://static1.squarespace.com/static/6202bdb89c58b86355d6b775/6202fa94de0c842fe2456a61/623163cc94c84a169b395c7b/1647403991431/001%2BSun%2BBeam%2BMagic%2BDrive.png?format=1500w",
+      "source_page": "https://www.alekskproduction.com/shop/p/sun-beam-magic-drive",
+      "research_record": "./research/pedals/Aleks K Production/Sun Beam - Magic Drive.md",
+      "image_source_page": "https://www.alekskproduction.com/shop/p/sun-beam-magic-drive"
     },
     {
       "company": "Alen Geere",
