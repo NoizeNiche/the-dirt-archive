@@ -231,3 +231,24 @@ The repository is the durable project memory. Every meaningful stopping point mu
 ## PRP1 batch 026 checkpoint
 
 Batch 026 performed another exact-order photo-recovery audit across the first 10 incomplete tracker records, from **A.Y.A - Bass Fuzz** through **Accel Audio - OD-SS Express Overdrive**. All ten already have Pedal Info research and their canonical research links remain intact. The A.Y.A Bass Fuzz search was strengthened with current and historical references, but the available current **BASS FUZZ II** listing was not promoted to the base-model image because its model designation is explicitly different. No new direct exact-model image asset met the archive's photo standard in this 10-pedal window, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. The work-order correction is explicit: the next exact-order unresolved target remains **A.Y.A - Bass Fuzz**, because the PRP tracker is the source of truth for the first incomplete record.
+
+
+## Local photo archival rule — September 19, 2026
+
+Verified pedal photographs are now intended to be stored locally in the repository rather than used as external runtime dependencies.
+
+Use this backend relationship:
+
+Builder -> Public pedal model/version -> Primary local photo -> Optional local colorway/edition variants
+
+Primary image path:
+`assets/pedals/{builder-slug}/{pedal-slug}/primary.webp`
+
+Variant image path:
+`assets/pedals/{builder-slug}/{pedal-slug}/variants/{variant-slug}.webp`
+
+Keep the original image URL and source/product page as provenance metadata. Do not substitute a different model, revision, or colorway merely to fill a blank image slot.
+
+The public site should consume the local image path. External URLs are temporary migration inputs, not the desired long-term runtime dependency.
+
+See `research/PEDAL_IMAGE_ARCHITECTURE.md` for the complete storage contract.
