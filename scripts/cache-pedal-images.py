@@ -201,7 +201,7 @@ def main():
         lines += [""]
     if failures:
         lines += ["## Still external / failed", ""]
-        lines += [f"- {b} - {p}: {reason} ("+q+"{url}"+q+")" for b, p, url, reason in sorted(failures)]
+        lines += [f"- {b} - {p}: {reason} (`{url}`)" for b, p, url, reason in sorted(failures)]
         lines += ["", "These records remain externally referenced until a later cache run succeeds."]
     else:
         lines += ["All pictured pedal images are locally cached."]
