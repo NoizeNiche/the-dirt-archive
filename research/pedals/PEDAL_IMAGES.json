@@ -3833,5 +3833,83 @@
     "source": "Basic Audio official product photograph",
     "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt-w9pdt",
     "research_record": "./research/pedals/Basic Audio/Zonk.md"
+  },
+  {
+    "builder": "BBE",
+    "pedal": "G Screamer",
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/bbe/gscreamer",
+    "research_record": "./research/pedals/BBE/G Screamer.md"
+  },
+  {
+    "builder": "BearFoot FX",
+    "pedal": "Arctic White Fuzz",
+    "image": "https://rvb-img.reverb.com/i/s--yc2ACt_c--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/wtw5ihx7ynje6g7ttdeo.jpg",
+    "source": "verified research source",
+    "source_page": "https://reverb.com/p/bearfoot-fx-arctic-white-fuzz",
+    "research_record": "./research/pedals/BearFoot FX/Arctic White Fuzz.md"
+  },
+  {
+    "builder": "BearFoot FX",
+    "pedal": "BlueBerry Bass Overdrive",
+    "image": "https://cdn.rockboard.de/common/image_753144d0-9b6c-4d46-94eb-58e729365084.webp",
+    "source": "verified research source",
+    "source_page": "https://www.rockboard.de/en/pedalPedia/Bearfoot-Fx/BlueBerry-Bass-Overdrive/68975133/",
+    "research_record": "./research/pedals/BearFoot FX/BlueBerry Bass Overdrive.md"
+  },
+  {
+    "builder": "BearFoot FX",
+    "pedal": "Bone Bender MKI Fuzz",
+    "image": "https://rvb-img.reverb.com/i/s--6H63sI1H--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zactb0lkodoygtxa9sjk.png",
+    "source": "verified research source",
+    "source_page": "https://reverb.com/item/15647992-bearfoot-fx-bone-bender-mk1-fuzz-pedal",
+    "research_record": "./research/pedals/BearFoot FX/Bone Bender MKI Fuzz.md"
+  },
+  {
+    "builder": "BearFoot FX",
+    "pedal": "Burgundy BossHorn Fuzz",
+    "image": "https://topshelfinstruments.com.au/cdn/shop/products/IMG_5679_1100x.jpg?v=1572930581",
+    "source": "verified research source",
+    "source_page": "https://topshelfinstruments.com.au/products/bearfoot-fx-burgundy-bosshorn-fuzz-pedal",
+    "research_record": "./research/pedals/BearFoot FX/Burgundy BossHorn Fuzz.md"
+  },
+  {
+    "builder": "BearFoot FX",
+    "pedal": "Candy Apple Fuzz",
+    "image": "https://topshelfinstruments.com.au/cdn/shop/products/IMG_6210_747f0433-bba8-4c1f-a1e9-24f601e22f8f_1100x.jpg?v=1573708709",
+    "source": "verified research source",
+    "source_page": "https://topshelfinstruments.com.au/products/bearfoot-fx-candy-apple-fuzz-silver-pedal",
+    "research_record": "./research/pedals/BearFoot FX/Candy Apple Fuzz.md"
+  },
+  {
+    "builder": "BearFoot FX",
+    "pedal": "Dyna Red Distortion",
+    "image": "https://www.chicagomusicexchange.com/cdn/shop/products/bearfoot-effects-and-pedals-distortion-bearfoot-dyna-red-distortion-u4472570403-30132072448135.jpg?v=1672701435&width=1946",
+    "source": "verified research source",
+    "source_page": "https://www.chicagomusicexchange.com/products/bearfoot-dyna-red-distortion-1669906",
+    "research_record": "./research/pedals/BearFoot FX/Dyna Red Distortion.md"
+  },
+  {
+    "builder": "BearFoot FX",
+    "pedal": "Emerald Green Distortion Machine",
+    "image": "https://cdn11.bigcommerce.com/s-nif33wr8i4/products/8745/images/107171/DSC03682__75375.1728679448.386.513.jpg?c=1",
+    "source": "verified research source",
+    "source_page": "https://austinguitarhouse.com/bearfoot-fx-emerald-green-distortion-machine-used/",
+    "research_record": "./research/pedals/BearFoot FX/Emerald Green Distortion Machine.md"
+  },
+  {
+    "builder": "BearFoot FX",
+    "pedal": "Emerald Green Overdrive",
+    "source": "verified research source",
+    "source_page": "https://tonelounge.co.nz/bearfoot-emerald-green-od/",
+    "research_record": "./research/pedals/BearFoot FX/Emerald Green Overdrive.md"
+  },
+  {
+    "builder": "BearFoot FX",
+    "pedal": "Honey Bee Overdrive",
+    "image": "https://topshelfinstruments.com.au/cdn/shop/products/IMG_5681_6fcf709a-033f-46d1-8f3c-de4a9929433d_1100x.jpg?v=1572925099",
+    "source": "verified research source",
+    "source_page": "https://topshelfinstruments.com.au/products/bearfoot-fx-honey-bee-overdrive-pedal",
+    "research_record": "./research/pedals/BearFoot FX/Honey Bee Overdrive.md"
   }
 ]
