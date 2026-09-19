@@ -202,7 +202,7 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 - Remaining incomplete pedals: 3659
 - Researched but waiting only for a confirmed picture: 58
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **A.Y.A - Bass Fuzz**
+- Current PRP1 target: **A&M Custom Effects - Crash Central - Crunch Distortion**
 
 ## PRP1 batch 030 checkpoint
 
@@ -361,3 +361,13 @@ Batch 038 continued the exact-order photo-recovery pass on the first 10 incomple
 ## PRP1 batch 039 checkpoint
 
 Batch 039 continued the exact-order photo-recovery pass on the first incomplete catalog window, centered on **A.Y.A - Bass Fuzz** and the following nine unresolved records. A fresh web/image audit confirmed that the original A.Y.A Bass Fuzz remains a distinct 2007 A.Y.A product with Fuzz and Volume controls, and the indexed original-model photograph still matches the base pedal's blue-sparkle enclosure and two-control layout. The underlying Mercari page is unavailable for stable retrieval, while the current live resale result is explicitly **BASS FUZZ II** and is therefore excluded from the base-model image. The remaining records continued to resolve to exact product/source pages and historical references without a stable direct image asset that meets the archive rule. **No picture status changed.** Counts remain **3,821 total / 220 researched / 162 pictured / 162 complete / 3,659 incomplete**, with **58** researched pedals waiting only for confirmed pictures. The first incomplete record remains **A.Y.A - Bass Fuzz**.
+
+## PRP1 queue-progression rule — September 18, 2026
+
+The PRP tracker remains the source of truth for **completion status**, but a single unresolved photo must not permanently block the working queue. Once a first-in-order incomplete pedal has received a fresh exact-model photo search and no qualifying archival asset is available, that pedal may be **parked for later photo recovery** while PRP1 advances to the next incomplete catalog records in exact website order. Parked pedals remain NEEDED in the tracker and are revisited during later broad recovery sweeps.
+
+**Current active PRP1 cursor: A&M Custom Effects - Crash Central - Crunch Distortion. A.Y.A - Bass Fuzz is parked for later recovery.**
+
+## PRP1 batch 040 checkpoint
+
+Batch 040 advanced the PRP1 working queue past the parked **A.Y.A - Bass Fuzz** and audited the next 10 incomplete catalog records in exact order: **A&M Custom Effects - Crash Central - Crunch Distortion; A&M Custom Effects - Crazyboy - Double Fuzz; A&M Custom Effects - Metal Maniac - Mega Distortion; A&M Custom Effects - Twin Pro - Overdrive; AboveGroundFX - El Griton Overdrive; AboveGroundFX - Rocks Hard; Absolutely Analog - Ratzo; AC Efectos - Triplex Distortion; Accel Audio - OD-SS Express Overdrive; Accel Audio - Stompzilla Fuzz**. Fresh image/catalog searches produced clear exact-model visual references for **El Griton** and **Triplex**, plus additional historical/catalog image evidence for **Rocks Hard**, but no stable directly retrievable image asset met the archive requirement. The remaining models were rechecked against their exact product/source records without finding a qualifying stable image asset. **No picture status changed. A.Y.A remains Picture: NEEDED but is no longer a queue blocker.** Counts remain **3,821 total / 220 researched / 162 pictured / 162 complete / 3,659 incomplete**, with **58** researched pedals waiting only for confirmed pictures. The next active cursor is **Add+ Pedals - Der Fuzzer**.
