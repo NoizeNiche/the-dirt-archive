@@ -894,15 +894,15 @@ Breakfast Audio,WELTSCHMERZ FUZZ,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP B
 BreakFuzz,Surly Fuzz Germanium,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 116/breakfuzz-surly-fuzz-germanium.md
 BreakFuzz,Surly Fuzz Germanium Low Gain,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 116/breakfuzz-surly-fuzz-germanium-low-gain.md
 BreakFuzz,Surly Fuzz Silicon BC183,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 116/breakfuzz-surly-fuzz-silicon-bc183.md
-Brière Pedals,Distodrive,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Brière Pedals,Drive Factory,Overdrive,NEEDED,NEEDED,NEEDED,
-Brimstone Audio,BL-1 Basilisk,Distortion,NEEDED,NEEDED,NEEDED,
-Brimstone Audio,XD-1 Crossover Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-British Pedal Company,Rangemaster Fuzzbug MkII,Fuzz,NEEDED,NEEDED,NEEDED,
-British Pedal Company,Tone Bender Mk1.5,Fuzz,NEEDED,NEEDED,NEEDED,
-British Pedal Company,Tone Bender MkI,Fuzz,NEEDED,NEEDED,NEEDED,
-British Pedal Company,Tone Bender Professional MkII,Fuzz,NEEDED,NEEDED,NEEDED,
-British Pedal Company,WEM Pep Box,Fuzz,NEEDED,NEEDED,NEEDED,
+Brière Pedals,Distodrive,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 117/bri-re-pedals-distodrive.md
+Brière Pedals,Drive Factory,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 117/bri-re-pedals-drive-factory.md
+Brimstone Audio,BL-1 Basilisk,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 117/brimstone-audio-bl-1-basilisk.md
+Brimstone Audio,XD-1 Crossover Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 117/brimstone-audio-xd-1-crossover-distortion.md
+British Pedal Company,Rangemaster Fuzzbug MkII,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 117/british-pedal-company-rangemaster-fuzzbug-mkii.md
+British Pedal Company,Tone Bender Mk1.5,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-mk1-5.md
+British Pedal Company,Tone Bender MkI,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-mki.md
+British Pedal Company,Tone Bender Professional MkII,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-professional-mkii.md
+British Pedal Company,WEM Pep Box,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 117/british-pedal-company-wem-pep-box.md
 Brotech Electronics,Fatpipe Blues,Distortion,NEEDED,NEEDED,NEEDED,
 Brotech Electronics,Fatpipe Pro,Distortion,NEEDED,NEEDED,NEEDED,
 Broughton Audio,Ascalon,Distortion,NEEDED,NEEDED,NEEDED,
