@@ -19,6 +19,9 @@ def main():
         fieldnames = reader.fieldnames or []
         rows = list(reader)
 
+    if None in fieldnames:
+        raise SystemExit("PRP tracker header contains an unexpected extra CSV field")
+
     changed = 0
     for row in rows:
         key = (row.get("Builder"), row.get("Pedal"))
