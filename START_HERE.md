@@ -282,3 +282,16 @@ All ten have individual Pedal Info records synchronized across the canonical cat
 **Next exact-order research target:** **Cajita Stompboxes - BRIT30 preamplificador tipo Vox AC30 overdrive**.
 
 **Public data version:** **2026-09-19-prp1-batch-135**.
+
+
+## PRP1 Batch 136 checkpoint — September 19, 2026
+
+Batch 136 advanced **5 consecutive exact-order research records**: **Cajita Stompboxes - BRIT30 preamplificador tipo Vox AC30 overdrive; Distorsión Marshall CR800 JCM + booster; Distorsión RAT 6 6 modos; Dr Boogie Distorsion Hi Gain Mesa; and Dr Boogie VN Hi Gain Mesa Boogie**.
+
+All five have individual Pedal Info records synchronized across the canonical catalog, image/research manifest, and tracker. The RAT 6 entry was kept deliberately conservative because the reviewed current storefront confirmed the exact model but did not expose enough model-specific specifications. No questionable image was promoted.
+
+**Verified tracker totals:** **3821 total / 1058 researched / 302 pictured / 300 complete / 2763 incomplete / 758 researched-photo-pending**.
+
+**Next exact-order research targets:** **Cajita Stompboxes - FBASSDRIVE; Cajita Stompboxes - Fuzz RBmuff - TBmuff; Cajita Stompboxes - Fuzz Womut; Cajita Stompboxes - Overdrive Bb.pre; Cajita Stompboxes - Overdrive Shoc más booster**.
+
+**Public data version:** **2026-09-19-prp1-batch-136**.
