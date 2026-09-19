@@ -191,3 +191,21 @@ All ten now have individual Pedal Info research records and were synchronized ac
 **Next exact-order missing-information target:** **Biyang - OTD-100 Distortion**.
 
 **Parked/non-blocking:** **A.Y.A - Bass Fuzz** remains picture-pending for later exact-photo recovery.
+
+
+## Photo architecture checkpoint — September 19, 2026
+
+The archive now uses a local-first pedal photo architecture.
+
+- `research/PEDAL_INDEX.json` remains the public catalog source.
+- A populated `image` field should resolve to the site's local cached asset under `assets/pedals/`.
+- `image_source_url` preserves the original image URL for provenance and future recovery.
+- `image_source_page` preserves the source/product page used to identify the exact pedal.
+- Each model/version owns a `primary.webp` file.
+- Cosmetic colorways and subordinate editions use the parent pedal's `variants/` directory.
+- Materially distinct public versions remain separate catalog identities and separate image directories.
+- `No Photo Archived` remains the state for a researched pedal without a safely archived exact image.
+- The `Cache pedal images` workflow performs migration/retry work. It must not replace an exact image with a guessed or mismatched image.
+- Deployment and hourly health checks validate that local cached files exist and that local images retain provenance.
+
+The complete backend contract is documented in `research/PEDAL_IMAGE_ARCHITECTURE.md`.
