@@ -785,17 +785,17 @@ Blackstar Amplification,HT-DISTX,Distortion,DONE,NEEDED,NEEDED,./research/pedals
 Blackstar Amplification,HT-DRIVE,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 103/HT-DRIVE.md
 Blackstar Amplification,HT-DUAL,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 103/HT-DUAL.md
 Blackstar Amplification,HT-METAL,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 103/HT-METAL.md
-Blackstar Amplification,LT-DIST,Distortion,NEEDED,NEEDED,NEEDED,
-Blackstar Amplification,LT-DRIVE,Overdrive,NEEDED,NEEDED,NEEDED,
-Blackstar Amplification,LT-DUAL,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Blackstar Amplification,LT-METAL,Distortion,NEEDED,NEEDED,NEEDED,
+Blackstar Amplification,LT-DIST,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/LT-DIST.md
+Blackstar Amplification,LT-DRIVE,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/LT-DRIVE.md
+Blackstar Amplification,LT-DUAL,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/LT-DUAL.md
+Blackstar Amplification,LT-METAL,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/LT-METAL.md
 Blackstar Amplification,none identified,Fuzz,NEEDED,NEEDED,NEEDED,
-Blackstone Appliances,Mosfet Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Blakemore Effects,Bi-Polar Octadrive,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Blakemore Effects,Deus Ex Machina,Fuzz,NEEDED,NEEDED,NEEDED,
-Blakemore Effects,Mustang Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-BLAMMO! Electronics,Blues Blaster,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-BLAMMO! Electronics,Buzzaround,Fuzz,NEEDED,NEEDED,NEEDED,
+Blackstone Appliances,Mosfet Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/Mosfet Overdrive.md
+Blakemore Effects,Bi-Polar Octadrive,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/Bi-Polar Octadrive.md
+Blakemore Effects,Deus Ex Machina,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/Deus Ex Machina.md
+Blakemore Effects,Mustang Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/Mustang Overdrive.md
+BLAMMO! Electronics,Blues Blaster,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/Blues Blaster.md
+BLAMMO! Electronics,Buzzaround,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/Buzzaround.md
 BLAMMO! Electronics,Deth Pedal,Distortion,NEEDED,NEEDED,NEEDED,
 BLAMMO! Electronics,Fuzz Detonator,Fuzz,NEEDED,NEEDED,NEEDED,
 BLAMMO! Electronics,L.A. Square Face,Fuzz,NEEDED,NEEDED,NEEDED,
