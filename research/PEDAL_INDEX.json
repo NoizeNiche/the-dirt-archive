@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-105",
+  "version": "2026-09-19-prp1-batch-106",
   "count": 3821,
   "pedals": [
     {
@@ -8363,8 +8363,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.bmfeffects.com/products/sisyphuzz-silicon-fuzz",
+      "research_record": "./research/pedals/PRP Batch 106/Sisyphuzz Silicon Fuzz.md"
     },
     {
       "company": "BMF Effects",
@@ -8373,8 +8373,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.bmfeffects.com/products/the-godfather-ii-dual-overdrive",
+      "research_record": "./research/pedals/PRP Batch 106/The Godfather II Dual Overdrive.md"
     },
     {
       "company": "BMF Effects",
@@ -8393,8 +8393,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.bmfeffects.com/products/the-great-wide-open-distortion",
+      "research_record": "./research/pedals/PRP Batch 106/The Great Wide Open Distortion.md"
     },
     {
       "company": "BMF Effects",
@@ -8403,8 +8403,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.bmfeffects.com/products/velvet-hammer-overdrive",
+      "research_record": "./research/pedals/PRP Batch 106/Velvet Hammer Overdrive.md"
     },
     {
       "company": "Bob Burt Cabinets & Pedals",
@@ -8414,8 +8414,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bobburt/ah1",
+      "research_record": "./research/pedals/PRP Batch 106/Bob Burt AH-1 Allen Hinds Signature Distortion.md"
     },
     {
       "company": "Bob Burt Cabinets & Pedals",
@@ -8424,8 +8424,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bobburt/gr8t",
+      "research_record": "./research/pedals/PRP Batch 106/Bob Burt GR8T Distortion.md"
     },
     {
       "company": "Bob Burt Cabinets & Pedals",
@@ -8434,8 +8434,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bobburt/overdrive",
+      "research_record": "./research/pedals/PRP Batch 106/Bob Burt Overdrive.md"
     },
     {
       "company": "Bogner Amplification",
@@ -8444,8 +8444,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.zikinf.com/manuels/bogner-burnley-manuel-utilisateur-en-65967.pdf",
+      "research_record": "./research/pedals/PRP Batch 106/Bogner Burnley.md"
     },
     {
       "company": "Bogner Amplification",
@@ -8454,8 +8454,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.musicradar.com/reviews/guitars/bogner-ecstasy-blue-pedal-572592",
+      "research_record": "./research/pedals/PRP Batch 106/Bogner Ecstasy Blue.md"
     },
     {
       "company": "Bogner Amplification",
@@ -8465,8 +8465,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://jam.ua/files/files/BognerEcstasyRed_Guitar_Pedal_Manual.pdf",
+      "research_record": "./research/pedals/PRP Batch 106/Bogner Ecstasy Red.md"
     },
     {
       "company": "Bogner Amplification",
