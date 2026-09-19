@@ -324,6 +324,7 @@ jobs:
             // Every researched parent pedal still needs a readable detail page.
             await page.setViewportSize({width:1440,height:1000});
             console.log('Auditing', researchedParents.length, 'researched parent pedal pages.');
+            const photoFailures = [];
             for (const entry of researchedParents) {
               const url =
                 'http://127.0.0.1:4173/pedal-detail.html?builder=' +
@@ -371,10 +372,10 @@ jobs:
                 };
               });
               if (entry.image && !photoResult.mainLoaded) {
-                throw new Error('Browser could not render archived pedal photo: ' + entry.company + ' / ' + entry.pedal);
+                photoFailures.push('Main photo: ' + entry.company + ' / ' + entry.pedal);
               }
               if (photoResult.colorwayFailures) {
-                throw new Error('Browser could not render ' + photoResult.colorwayFailures + ' colorway photo(s): ' + entry.company + ' / ' + entry.pedal);
+                photoFailures.push('Colorway photos (' + photoResult.colorwayFailures + '): ' + entry.company + ' / ' + entry.pedal);
               }
 
               const fg = luminance(rgb(result.color));
@@ -383,6 +384,10 @@ jobs:
               if (contrast < 4.5) {
                 throw new Error('Pedal Info text/background contrast is below threshold for ' + entry.company + ' / ' + entry.pedal + ': ' + contrast.toFixed(2));
               }
+            }
+
+            if (photoFailures.length) {
+              throw new Error('Browser photo rendering failures:\n' + photoFailures.join('\n'));
             }
 
             if (consoleErrors.length) throw new Error('Browser console errors: ' + consoleErrors.join(' | '));
