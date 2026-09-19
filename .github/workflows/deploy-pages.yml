@@ -226,7 +226,7 @@ jobs:
             }
 
             // Combined URL facets must work together.
-            await page.goto('http://127.0.0.1:4173/index.html?type=Fuzz&builder=Artisanal%20Effects&q=cheese', {waitUntil:'networkidle'});
+            await page.goto('http://127.0.0.1:4173/index.html?type=Fuzz&builder=Artisanal%20Effects&q=cheddar', {waitUntil:'networkidle'});
             const combinedTexts = await page.locator('#grid .card').allTextContents();
             if (!combinedTexts.some(x => /Cheddar Source/i.test(x))) {
               throw new Error('Combined type + builder + search filters did not return Cheddar Source.');
