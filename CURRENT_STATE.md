@@ -1024,3 +1024,12 @@ Each now has an individual research record and synchronized catalog/manifest/tra
 **Verified tracker totals:** **3821 total / 965 researched / 300 pictured / 300 complete / 3521 incomplete / 665 researched-photo-pending**.
 
 **Next exact-order research target:** **Budda - Om Overdrive**.
+
+
+## PRP1 BYOC 250+ reconciliation — September 19, 2026
+
+The latest flexible working set added 10 consecutive research-needed records from Budda through Build Your Own Clone 250+. The live tracker was re-counted after the commit.
+
+Verified totals: **3821 total / 975 researched / 300 pictured / 300 complete / 3521 incomplete / 675 researched-photo-pending**.
+
+Next exact-order research target: **Buffalo FX - Fuzz Face Ge**.

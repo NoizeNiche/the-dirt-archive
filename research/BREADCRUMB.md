@@ -742,3 +742,16 @@ Each now has an individual research record and synchronized catalog/manifest/tra
 **Verified tracker totals:** **3821 total / 965 researched / 300 pictured / 300 complete / 3521 incomplete / 665 researched-photo-pending**.
 
 **Next exact-order research target:** **Budda - Om Overdrive**.
+
+
+## Latest PRP1 checkpoint — BYOC 250+
+
+PRP continues using flexible working sets. The latest completed pass added **10 consecutive exact-order research records**, from **Budda - Om Overdrive** through **Build Your Own Clone - 250+**. Photo-pending records did not block the research queue.
+
+The new records are synchronized across individual research files, PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. No photo was marked complete without a confirmed local exact-model image.
+
+**Verified tracker totals:** **3821 total / 975 researched / 300 pictured / 300 complete / 3521 incomplete / 675 researched-photo-pending**.
+
+**Next exact-order research target:** **Buffalo FX - Fuzz Face Ge**.
+
+**Public data version:** 2026-09-19-prp1-byoc-250.
