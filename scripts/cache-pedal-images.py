@@ -28,8 +28,11 @@ def key(builder, pedal):
 
 def slug(value):
     value = str(value or "").strip().lower()
-    value = re.sub(r"[^a-z0-9]+", "-", value).strip("-")
-    return value or "unknown"
+    normalized = re.sub(r"[^a-z0-9]+", "-", value).strip("-") or "unknown"
+    if len(normalized) <= 90:
+        return normalized
+    digest = hashlib.sha1(value.encode("utf-8")).hexdigest()[:10]
+    return normalized[:79].rstrip("-") + "-" + digest
 
 
 def pedal_dir(builder, pedal):
@@ -157,15 +160,19 @@ def cache_entry_prepare(entry):
     # source and keep the public image field blank until a local file exists.
     if not image:
         source_url = entry.get("image_source_url")
-        if source_url and source_url.startswith(("http://", "https://")):
+        # Retry direct image provenance URLs, but never treat a product/source
+        # page URL as if it were an image. Exact page sources are handled by
+        # browser-photo-cache.mjs first.
+        if source_url and re.match(r"^https?://", source_url, re.I) and re.search(r"\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$", source_url, re.I):
             return ("download", entry, target, source_url)
         return ("skip", entry, None, None)
 
     if is_local(image):
         existing = ROOT / image.lstrip("./")
-        canonical = rel_path(target)
         if existing.exists():
-            return ("retain", entry, canonical, None)
+            # Preserve the declared local path exactly. This avoids relocating
+            # legacy long-form slugs during a cache-only maintenance run.
+            return ("retain", entry, image, None)
         # A local path can be declared before the first successful cache run.
         # When the file is absent, fall back to the stored provenance URL instead
         # of treating the missing local file as permanently uncacheable.
