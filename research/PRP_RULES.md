@@ -214,17 +214,17 @@ Batch 030 rechecked the exact first unresolved target, **A.Y.A - Bass Fuzz**. A 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 
-## Latest PRP1 checkpoint — Batch 115
+## Latest PRP1 checkpoint — Bulinski Effect Pedals RC Bass Fuzz
 
-Batch 115 advanced **14 consecutive exact-order research-needed records** from the live tracker: Bogner Amplification — production status not established from reviewed current manufacturer material; BoX — Distortion; BR Tech — BR-1 Distortion; BR Tech — Up Scream; Braking Train Pedals — Frequency Control Fuzz; Brantone Electronics — Blue Meanie - Germanium Fuzz; Green Manalishi Overdrive; Tonemaster Mk1.5 Germanium Fuzz; ToneMaster Mk2 Germanium Fuzz; Vintage Tweed Overdrive; WEM Pepbox - Official Reissue; Woodstock - Silicon Fuzz Face; Breakfast Audio — SLAB DISTORTION; and WELTSCHMERZ FUZZ.
+PRP is continuing in practical working sets, with no fixed pedal-count ceiling. The latest completed pass added **10 consecutive exact-order research records**: **Build Your Own Clone - The Full Circle Bass Fuzz; The Large Beaver; The Mimosa; The Swede; Yellow Overdrive; Bulinski Effect Pedals - Deluxe Velociraptor Diode Bass Fuzz; Filth Foundry Guitar Fuzz; Gnarly Bee; Hard 80 Distortion; and RC Bass Fuzz**.
 
-All 14 now have individual Pedal Info research records and are synchronized into the canonical catalog and PRP tracker. No questionable image was promoted. Photo-pending records remain pending and do not block continued research.
+All ten now have individual Pedal Info research records synchronized into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. Photo records remain conservative where no verified exact-model image has been archived.
 
-**Verified tracker totals:** 3821 total / 892 researched / 295 pictured / 295 complete / 3526 incomplete / 597 researched-photo-pending.
+**Verified tracker totals:** **3821 total / 1024 researched / 301 pictured / 300 complete / 351? incomplete / 724 researched-photo-pending**.
 
-**Next exact-order research target:** **BreakFuzz - Surly Fuzz Germanium**.
+**Next exact-order research target:** **Bulinski Effect Pedals - Velociraptor Diode Bass Fuzz**.
 
-**Public data version:** 2026-09-19-prp1-batch-115.
+**Public data version:** 2026-09-19-prp1-batch-132.
 ## PRP1 batch 008 checkpoint
 ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation from Chicago Music Exchange. The tracker, public index, and photo manifest were updated together. Next exact-order unresolved target: Add+ Pedals - Der Fuzzer.
 
