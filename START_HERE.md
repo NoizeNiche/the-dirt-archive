@@ -120,8 +120,7 @@ The repository is the project memory. When conversation history conflicts with t
 
 
 ## Latest PRP1 checkpoint
-ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation. Next target: ADA Amps - MP-1 Channel.
-
+Batch 078 is the latest synchronized PRP1 checkpoint. Next exact-order unresolved target: **Behringer - UZ400 Ultra Fuzz**.
 
 ## PRP1 batch 008 checkpoint
 ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation from Chicago Music Exchange. The tracker, public index, and photo manifest were updated together. Next exact-order unresolved target: Add+ Pedals - Der Fuzzer.
