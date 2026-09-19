@@ -434,3 +434,25 @@ Batch 049 processed the next ten incomplete records in exact website order: **Am
 - **Waiting on photos:** 156 researched pedals.
 - **Next exact-order incomplete target:** **Arcane Analog - ARCANE ANALOG FF66 FUZZ FACE**.
 - **Parked/non-blocking:** A.Y.A — Bass Fuzz remains picture-pending.
+
+
+## PRP1 batch 058
+
+- **Window:** Arcane Analog - ARCANE ANALOG FF66 FUZZ FACE; BC108 Fuzz Face; BUZZAROUND OC45 / OC45 / OC43; BUZZSAW; Facebender / Rangbender; NKT775 WHITE FUZZ FACE; OC42 MK1.5 Tonebender; Overdrive Overload; TONE BENDERS (MK1 // MK1.5 // MK2 // MK3 // MK4); Artisanal Effects - Artisanal Cheese (Big Cheese).
+- **Action:** Added 10 individual PRP research records and synchronized PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv.
+- **Photo status:** Exact archival images promoted for FF66, Buzzaround OC45/OC45/OC43, Buzzsaw, Facebender, NKT775 White, OC42 MK1.5, and Artisanal Cheese. BC108, Overdrive Overload, and the combined Tone Benders family remain photo-pending.
+- **Live tracker counts:** 3821 total / 344 researched / 185 pictured / 185 complete / 3636 incomplete.
+- **Waiting on photos:** 159 researched pedals.
+- **Next exact-order unresolved target:** **Arcane Analog - BC108 Fuzz Face**.
+- **Parked/non-blocking:** A.Y.A - Bass Fuzz remains picture-pending.
+
+
+## PRP1 batch 058
+
+- **Window:** Arcane Analog - ARCANE ANALOG FF66 FUZZ FACE; BC108 Fuzz Face; BUZZAROUND OC45 / OC45 / OC43; BUZZSAW; Facebender / Rangbender; NKT775 WHITE FUZZ FACE; OC42 MK1.5 Tonebender; Overdrive Overload; TONE BENDERS (MK1 // MK1.5 // MK2 // MK3 // MK4); Artisanal Effects - Artisanal Cheese (Big Cheese).
+- **Action:** Added 10 individual PRP research records and synchronized PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv.
+- **Photo status:** Exact archival images promoted for FF66, Buzzaround OC45/OC45/OC43, Buzzsaw, Facebender, NKT775 White, OC42 MK1.5, and Artisanal Cheese. BC108, Overdrive Overload, and the combined Tone Benders family remain photo-pending.
+- **Live tracker counts:** 3821 total / 344 researched / 185 pictured / 185 complete / 3636 incomplete.
+- **Waiting on photos:** 159 researched pedals.
+- **Next exact-order unresolved target:** **Arcane Analog - BC108 Fuzz Face**.
+- **Parked/non-blocking:** A.Y.A - Bass Fuzz remains picture-pending.
