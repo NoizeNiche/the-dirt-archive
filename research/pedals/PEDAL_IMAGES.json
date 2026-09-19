@@ -1511,9 +1511,10 @@
   {
     "builder": "Advance Tube Technology",
     "pedal": "Over Cat Drive",
-    "image": null,
+    "image": "https://www.bananamusic.it/332801-large_default/advance-tube-tech-cat-overdrive-yellow-usato-030gcd268.jpg",
     "source_page": null,
-    "research_record": "./research/pedals/Advance Tube Technology/Over Cat Drive.md"
+    "research_record": "./research/pedals/Advance Tube Technology/Over Cat Drive.md",
+    "image_source_page": "https://www.bananamusic.it/advance-tube-tech-cat-overdrive-yellow-usato-030gcd268.html"
   },
   {
     "builder": "Adventure Audio",

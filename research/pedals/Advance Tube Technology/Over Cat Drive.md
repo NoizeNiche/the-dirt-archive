@@ -44,3 +44,9 @@ The standard Over Cat Drive is described as a moderate-gain overdrive with a per
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** Accordo and Effects Database above.
+
+## PRP1 photo-recovery pass — batch 042
+
+An exact-model **Over Cat Drive** photograph was recovered from a Banana Music used listing. The photographed pedal is explicitly labeled Over Cat Drive and matches the documented three-control Cat's Series form; the listing exposes a stable direct image asset, so this image is now promoted into the archive as the primary photo. [4]
+
+4. Banana Music — Advance Tube Tech Cat Overdrive: https://www.bananamusic.it/advance-tube-tech-cat-overdrive-yellow-usato-030gcd268.html

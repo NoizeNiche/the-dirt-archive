@@ -197,10 +197,10 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 
 - Unique pedals in website catalog: 3,821
 - Pedals with research information: 220
-- Pedals with confirmed pictures: 162
-- Fully complete PRP pedals: 162
-- Remaining incomplete pedals: 3659
-- Researched but waiting only for a confirmed picture: 58
+- Pedals with confirmed pictures: 163
+- Fully complete PRP pedals: 163
+- Remaining incomplete pedals: 3658
+- Researched but waiting only for a confirmed picture: 57
 - PRP status: Active, PRP1 photo-recovery pass
 - Current PRP1 target: **Add+ Pedals - Der Fuzzer**
 
@@ -227,7 +227,7 @@ The next exact-order unresolved target is **Add+ Pedals - Ratortion 3 v2**.
 
 ## PRP1 batch 010 checkpoint
 Batch 010 worked the next ten exact-order PRP1 records from **A Sound Of Failure - Death Driver** through **AC Efectos - Triplex Distortion**. An exact Effects Database photograph was confirmed and archived for **Death Driver**, moving that pedal to fully complete. The remaining nine records in this photo-recovery window remain incomplete where no safe direct exact-model image asset was confirmed.
-The next exact-order unresolved target is **A.Y.A - Bass Fuzz**.
+The next active unresolved target after Batch 042 is **AED - Blue Bee**.
 
 
 ## PRP1 batch 011 checkpoint
@@ -375,3 +375,7 @@ Batch 040 advanced the PRP1 working queue past the parked **A.Y.A - Bass Fuzz** 
 ## PRP1 batch 041 checkpoint
 
 Batch 041 advanced the active PRP1 queue from the parked **A.Y.A - Bass Fuzz** to the next 10 incomplete records in exact catalog order: **Add+ Pedals - Der Fuzzer; Add+ Pedals - Distortion; Add+ Pedals - Fuzz Face; Add+ Pedals - Fuzz Machine; Add+ Pedals - Great White; Add+ Pedals - Great White 2; Add+ Pedals - Ratortion; Add+ Pedals - Ratortion 2; Add+ Pedals - Super Drive; Add+ Pedals - Super Drive 2**. Fresh source and image searches reconfirmed the Add+ catalog as an early-2011 Effects Database addition. The current Add+ Distortion retailer page provides an exact-model photograph and documents Volume/Tone/Drive controls plus MOSFET/Vintage clipping selection and a Low Pass/High Pass switch; the image is useful exact-model evidence, but its underlying CDN asset was not independently retrievable as a stable archival URL. The Add+ Fuzz Face image-index result also shows an exact branded Fuzz Face example, while Effects Database continues to list Der Fuzzer, Fuzz Machine, Great White, Great White 2, Ratortion, Ratortion 2, Super Drive, and Super Drive 2 as distinct Add+ products. No new stable direct image asset was confirmed for archival promotion in this batch, so no picture status changed. **A.Y.A remains Picture: NEEDED but parked and non-blocking.** Counts remain **3,821 total / 220 researched / 162 pictured / 162 complete / 3,659 incomplete**, with **58** researched pedals waiting only for confirmed pictures. The next active cursor is **Add+ Pedals - Super Drive**.
+
+## PRP1 batch 042 checkpoint
+
+Batch 042 advanced the active PRP1 queue after the parked **A.Y.A - Bass Fuzz** and the completed Batch 041 Add+ window. The next 10 incomplete catalog records were audited in exact order: **Add+ Pedals - Tiger Shark; Add+ Pedals - Tube Drive; Add+ Pedals - Tube Drive 2; Addrock Musical Products - Not So Ol' Yeller; ADV Systems - #distortion; ADV Systems - #overdrive; Advance Tube Technology - Boost Cat Drive; Advance Tube Technology - Over Cat Drive; Advance Tube Technology - Virus Drive; Adventure Audio - Glacial Zenith - Overdrive**. Fresh exact-name photo/source searches produced one qualifying archival asset: an exact **Advance Tube Technology Over Cat Drive** photograph from Banana Music, now synchronized into the research/photo manifest, public pedal index, and tracker. The search also re-confirmed current exact-model visual material for Add+ Tube Drive and historical/source imagery for the Advance Tube Technology and ADV Systems records, but no other stable direct image asset met the archive requirement in this batch. **Over Cat Drive moved to Picture: DONE / PRP Complete: DONE.** **A.Y.A remains Picture: NEEDED but parked and non-blocking.** Counts are now **3,821 total / 220 researched / 163 pictured / 163 complete / 3,658 incomplete**, with **57** researched pedals waiting only for confirmed pictures. The next active unresolved target is **AED - Blue Bee**.
