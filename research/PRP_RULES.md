@@ -446,3 +446,7 @@ All ten now have individual Pedal Info research records and were synchronized ac
 **Next exact-order missing-information target:** **Biyang - OTD-100 Distortion**.
 
 **Parked/non-blocking:** **A.Y.A - Bass Fuzz** remains picture-pending for later exact-photo recovery.
+
+
+## PRP1 batch 090 verification correction
+The repository-level tracker calculation after Batch 090 is **3,821 total / 672 researched / 278 pictured / 277 complete / 3,544 incomplete**, with **395** researched pedals waiting only for pictures. The 278 pictured count includes one legacy record, **Animals Pedal - In Oct,3 Foxes talking of dreamy FUZZ**, whose picture flag is still NEEDED in the tracker, so it is intentionally not counted as PRP Complete.
