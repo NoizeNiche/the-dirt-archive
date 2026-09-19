@@ -20,6 +20,7 @@ concurrency:
 
 jobs:
   cache:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -34,8 +35,9 @@ jobs:
         run: |
           python - <<'PY'
           import hashlib
+          import io
           import json
-          import os
+          import re
           import time
           import urllib.request
           from pathlib import Path
@@ -46,22 +48,37 @@ jobs:
           INDEX_PATH = ROOT / "research/PEDAL_INDEX.json"
           MANIFEST_PATH = ROOT / "research/pedals/PEDAL_IMAGES.json"
           REPORT_PATH = ROOT / "research/IMAGE_CACHE_REPORT.md"
-          ASSET_DIR = ROOT / "assets/pedals"
-          ASSET_DIR.mkdir(parents=True, exist_ok=True)
+          ASSET_ROOT = ROOT / "assets/pedals"
+          ASSET_ROOT.mkdir(parents=True, exist_ok=True)
 
           catalog = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
           manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
 
           failures = []
           cached = []
-          already_local = 0
+          retained = 0
 
           def key(builder, pedal):
               return f"{builder}\0{pedal}"
 
-          def asset_name(builder, pedal):
-              digest = hashlib.sha256(key(builder, pedal).encode("utf-8")).hexdigest()[:24]
-              return f"assets/pedals/{digest}.webp"
+          def slug(text):
+              text = str(text or "").strip().lower()
+              text = re.sub(r"[^a-z0-9]+", "-", text).strip("-")
+              return text or "unknown"
+
+          def pedal_dir(builder, pedal):
+              return ASSET_ROOT / slug(builder) / slug(pedal)
+
+          def image_path(entry):
+              builder = entry.get("company") or entry.get("builder")
+              pedal = entry.get("pedal")
+              base = pedal_dir(builder, entry.get("parent_pedal") if entry.get("catalog_role") == "variation" and entry.get("parent_pedal") else pedal)
+              if entry.get("catalog_role") == "variation" and entry.get("parent_pedal"):
+                  return base / "variants" / f"{slug(entry.get('variation_name') or pedal)}.webp"
+              return base / "primary.webp"
+
+          def rel_path(path):
+              return "./" + path.as_posix()
 
           def fetch(url, referer=None):
               headers = {
@@ -75,10 +92,7 @@ jobs:
               for attempt in range(3):
                   try:
                       with urllib.request.urlopen(req, timeout=45) as response:
-                          status = getattr(response, "status", 200)
                           data = response.read()
-                          if status < 200 or status >= 300:
-                              raise RuntimeError(f"HTTP {status}")
                           if len(data) > 25 * 1024 * 1024:
                               raise RuntimeError("image exceeds 25 MB download limit")
                           return data
@@ -87,73 +101,88 @@ jobs:
                       time.sleep(2 ** attempt)
               raise RuntimeError(str(last_error))
 
+          def is_local(path):
+              return str(path).startswith("./assets/pedals/") or str(path).startswith("assets/pedals/")
+
           def cache_entry(entry):
-              nonlocal already_local
+              nonlocal_var = None
               image = entry.get("image")
               if not image:
-                  return False
+                  return
+
               builder = entry.get("company") or entry.get("builder")
               pedal = entry.get("pedal")
               if not builder or not pedal:
-                  return False
+                  return
 
-              if image.startswith("./assets/pedals/") or image.startswith("assets/pedals/"):
-                  path = ROOT / image.lstrip("./")
-                  if path.exists():
-                      already_local += 1
-                      return False
-                  failures.append((builder, pedal, image, "local cache file is missing"))
-                  return False
+              target = image_path(entry)
+              target.parent.mkdir(parents=True, exist_ok=True)
+
+              if is_local(image):
+                  existing = ROOT / image.lstrip("./")
+                  if existing.exists():
+                      if image != rel_path(target):
+                          entry["image"] = rel_path(target)
+                      retained_list[0] += 1
+                      return
+                  failures.append((builder, pedal, image, "declared local cache file is missing"))
+                  return
+
+              if target.exists():
+                  entry["image_source_url"] = image
+                  entry["image"] = rel_path(target)
+                  retained_list[0] += 1
+                  return
 
               if not image.startswith(("http://", "https://")):
                   failures.append((builder, pedal, image, "unsupported image URL/path"))
-                  return False
-
-              local = asset_name(builder, pedal)
-              local_path = ROOT / local
-              if local_path.exists():
-                  entry.setdefault("image_source_url", image)
-                  entry["image"] = "./" + local
-                  already_local += 1
-                  return True
+                  return
 
               try:
                   data = fetch(image, entry.get("image_source_page") or entry.get("source_page"))
-                  with Image.open(__import__("io").BytesIO(data)) as source:
+                  with Image.open(io.BytesIO(data)) as source:
                       img = ImageOps.exif_transpose(source)
                       if img.width <= 0 or img.height <= 0:
                           raise RuntimeError("invalid image dimensions")
-                      if "A" in img.getbands():
-                          img = img.convert("RGBA")
-                      else:
-                          img = img.convert("RGB")
+                      img = img.convert("RGBA" if "A" in img.getbands() else "RGB")
                       img.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
-                      img.save(local_path, "WEBP", quality=88, method=6)
+                      img.save(target, "WEBP", quality=88, method=6)
+
                   entry["image_source_url"] = image
-                  entry["image"] = "./" + local
-                  cached.append((builder, pedal, local))
-                  return True
+                  entry["image"] = rel_path(target)
+                  cached.append((builder, pedal, rel_path(target)))
               except Exception as exc:
                   failures.append((builder, pedal, image, str(exc)))
-                  return False
 
-          # Cache catalog images first.
+          # Mutable counters are used because cache_entry is nested and module scope
+          # does not permit a top-level nonlocal declaration.
+          retained_list = [0]
+
+          # Cache the catalog's canonical image records.
           for entry in catalog.get("pedals", []):
               cache_entry(entry)
 
-          # Mirror the same result into the internal photo manifest.
-          cat_by_key = {
+          # Mirror the canonical image path into the internal photo manifest.
+          catalog_by_key = {
               key(x.get("company"), x.get("pedal")): x
               for x in catalog.get("pedals", [])
           }
           for entry in manifest:
-              source = cat_by_key.get(key(entry.get("builder"), entry.get("pedal")))
+              source = catalog_by_key.get(key(entry.get("company") or entry.get("builder"), entry.get("pedal")))
               if not source:
                   continue
               if source.get("image"):
                   entry["image"] = source.get("image")
               if source.get("image_source_url"):
                   entry["image_source_url"] = source.get("image_source_url")
+
+          # Remove any stale empty directories left by prior cache attempts.
+          for directory in sorted(ASSET_ROOT.rglob("*"), reverse=True):
+              if directory.is_dir():
+                  try:
+                      directory.rmdir()
+                  except OSError:
+                      pass
 
           INDEX_PATH.write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
           MANIFEST_PATH.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
@@ -162,21 +191,32 @@ jobs:
               "# Pedal Image Cache Report",
               "",
               f"- Cached in this run: **{len(cached)}**",
-              f"- Already local and retained: **{already_local}**",
+              f"- Local images retained/reorganized: **{retained_list[0]}**",
               f"- Download failures: **{len(failures)}**",
+              "",
+              "## Storage layout",
+              "",
+              "- Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`",
+              "- Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`",
+              "- Original source URL remains stored as `image_source_url`.",
               "",
           ]
           if cached:
-              lines += ["## Newly cached", ""] + [f"- {b} - {p} -> `{path}`" for b, p, path in cached] + [""]
+              lines += ["## Newly cached", ""]
+              lines += [f"- {b} - {p} -> `{path}`" for b, p, path in cached]
+              lines += [""]
           if failures:
               lines += ["## Still external / failed", ""]
               lines += [f"- {b} - {p}: {reason} (`{url}`)" for b, p, url, reason in failures]
-              lines += ["", "These records remain usable as external image references until a future cache run succeeds."]
+              lines += [
+                  "",
+                  "These records remain externally referenced until a later cache run succeeds.",
+              ]
           else:
               lines += ["All pictured pedal images are locally cached."]
           REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
-          print(f"Cached {len(cached)} new images; {already_local} already local; {len(failures)} failures.")
+          print(f"Cached {len(cached)} new images; retained/reorganized {retained_list[0]}; {len(failures)} failures.")
           PY
 
       - name: Commit cached images
