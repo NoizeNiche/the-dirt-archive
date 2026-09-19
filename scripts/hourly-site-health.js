@@ -26,6 +26,13 @@ async function jsonFetch(url, options={}) {
 function readJson(rel){ return JSON.parse(fs.readFileSync(path.join(ROOT, rel), 'utf8')); }
 function gitShow(rel, rev){ return cp.execFileSync('git', ['show', `${rev}:${rel}`], {encoding:'utf8'}); }
 function key(x){ return `${x.company}\u0000${x.pedal}`; }
+function isLocalImagePath(value){
+  return typeof value === 'string' && /^(?:\.\/)?assets\/pedals\//i.test(value);
+}
+function resolveLocalImagePath(value){
+  if (!isLocalImagePath(value)) return null;
+  return path.join(ROOT, value.replace(/^\.\//,''));
+}
 function parseCsvLine(line){
   const cells=[];
   let cell='';
@@ -80,6 +87,21 @@ function checkDataIntegrity() {
   const indexRecords=new Set(pedals.filter(x=>x.research_record).map(x=>x.research_record));
   if (liveManifestRecords.size!==indexRecords.size || [...liveManifestRecords].some(x=>!indexRecords.has(x))) throw new Error('Research-record links disagree between index and photo manifest');
 
+  const manifestByKey=new Map(manifest.map(x=>[`${x.builder}\u0000${x.pedal}`,x]));
+  for (const p of pedals) {
+    const k=key(p);
+    const m=manifestByKey.get(k);
+    if (!m) throw new Error(`Photo manifest missing catalog identity: ${p.company} / ${p.pedal}`);
+    if ((m.image||null)!==(p.image||null)) throw new Error(`Photo path mismatch between index and manifest: ${p.company} / ${p.pedal}`);
+    if (isLocalImagePath(p.image) && !fs.existsSync(resolveLocalImagePath(p.image))) {
+      throw new Error(`Local archived photo is missing: ${p.company} / ${p.pedal} -> ${p.image}`);
+    }
+    if (p.catalog_role==='variation' && p.parent_pedal && isLocalImagePath(p.image)) {
+      const parent=p.image.split('/').slice(-3,-2)[0] || '';
+      if (!p.image.includes('/variants/')) throw new Error(`Variation photo is not stored under variants/: ${p.company} / ${p.pedal}`);
+    }
+  }
+
   let previous=null;
   try { previous=JSON.parse(gitShow('research/PEDAL_INDEX.json','HEAD^')); } catch {}
   if (previous) {
@@ -87,16 +109,22 @@ function checkDataIntegrity() {
     const removed=[...prevMap.keys()].filter(k=>!cKeys.has(k));
     if (removed.length) throw new Error(`Destructive catalog removal detected (${removed.length} identities): ${removed.slice(0,8).join(' | ')}`);
     const researchRegressions=[], imageRegressions=[], changedState=[];
+    let localPhotoMigrations=0;
     for (const [k,old] of prevMap) {
       const now=pedals.find(x=>key(x)===k);
       if (!now) continue;
       if (old.research_record && !now.research_record) researchRegressions.push(k);
       if (old.image && !now.image) imageRegressions.push(k);
-      if ((old.research_record||null)!==(now.research_record||null) || (old.image||null)!==(now.image||null)) changedState.push(k);
+      const imageChanged=(old.image||null)!==(now.image||null);
+      const researchChanged=(old.research_record||null)!==(now.research_record||null);
+      const localMigration=imageChanged && isLocalImagePath(now.image) && !!now.image_source_url;
+      if (localMigration) localPhotoMigrations++;
+      if (researchChanged || (imageChanged && !localMigration)) changedState.push(k);
     }
     if (researchRegressions.length) throw new Error(`Research records disappeared from existing pedals: ${researchRegressions.slice(0,12).join(' | ')}`);
     if (imageRegressions.length) throw new Error(`Previously archived photos disappeared from existing pedals: ${imageRegressions.slice(0,12).join(' | ')}`);
     if (changedState.length>75) throw new Error(`Unusually large PRP state change detected: ${changedState.length} existing pedals changed research/photo state.`);
+    if (localPhotoMigrations) console.log(`Local photo migrations accepted: ${localPhotoMigrations}`);
     const deletedFiles=cp.execFileSync('git',['diff','--name-status','HEAD^','--','research/pedals'],{encoding:'utf8'}).split(/\r?\n/).filter(Boolean).filter(x=>/^D\s/.test(x));
     if (deletedFiles.length) throw new Error(`Research files were deleted from the latest commit: ${deletedFiles.slice(0,12).join(' | ')}`);
   }
@@ -170,7 +198,9 @@ async function browserCheck(liveUrl, pedals) {
         const img=page.locator('#photoBox img');
         if(await img.count()!==1) throw new Error(`Photo element missing: ${item.company} / ${item.pedal}`);
         const src=await img.getAttribute('src');
-        if(src!==item.image) throw new Error(`Photo wiring mismatch: ${item.company} / ${item.pedal}`);
+        const normalizedExpected = item.image ? item.image.replace(/^\.\//,'/') : item.image;
+        const normalizedSrc = src ? (src.startsWith('http') ? src : new URL(src, liveUrl + '/').pathname) : src;
+        if(normalizedSrc!==normalizedExpected) throw new Error(`Photo wiring mismatch: ${item.company} / ${item.pedal}: expected ${normalizedExpected}, got ${normalizedSrc}`);
         const handled=await page.evaluate(()=>{const box=document.querySelector('#photoBox');const img=box?.querySelector('img');const fallback=[...box?.querySelectorAll('span')||[]].find(s=>!s.hidden);return !!img && ((img.complete&&img.naturalWidth>0)||!!fallback)});
         if(!handled) throw new Error(`Photo did not render or fall back gracefully: ${item.company} / ${item.pedal}`);
       } else {
@@ -180,6 +210,9 @@ async function browserCheck(liveUrl, pedals) {
     }
     await detail(ched,true);
     await detail(astro,false);
+
+    const localPhoto = pedals.find(x => isLocalImagePath(x.image) && x.catalog_role !== 'variation');
+    if (localPhoto) await detail(localPhoto,true);
 
     await page.setViewportSize({width:390,height:844});
     await page.goto(liveUrl+'/?health='+Date.now(),{waitUntil:'networkidle',timeout:30000});
