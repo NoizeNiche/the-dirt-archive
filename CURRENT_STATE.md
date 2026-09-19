@@ -717,3 +717,22 @@ Current tracker checkpoint:
 - Current PRP1 target: **Behringer - UZ400 Ultra Fuzz**
 
 The site's public data-version markers are now **2026-09-19-prp1-batch-078**. The deployment browser audit's no-research fallback is now **Behringer - UZ400 Ultra Fuzz**, which remains unresearched in the tracker.
+
+
+## Current PRP1 checkpoint - batch 079
+
+Batch 079 processed the next ten unfinished catalog records in exact tracker order: **Behringer - UZ400 Ultra Fuzz; Benson Amps - Deep Sea Diver Fuzz-Echo; Germanium Fuzz; Germanium Preamp Pedal; Portable Distortion 424 MKII; Preamp Pedal; Stonk Box; Störkn B0kš; Beta Aivin - BOD-1 Bass Overdrive; and BOD-2 Bass Overdrive**.
+
+All ten now have individual Pedal Info research records and were synchronized with **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Exact photos were attached for **UZ400 Ultra Fuzz, Deep Sea Diver Fuzz-Echo, Germanium Fuzz, Germanium Preamp Pedal, Portable Distortion 424 MKII, Preamp Pedal, Störkn B0kš, and BOD-1 Bass Overdrive**. **Stonk Box** and **BOD-2 Bass Overdrive** remain photo-pending because stable exact direct-image assets were not promoted.
+
+Current tracker checkpoint:
+- Unique pedals in website catalog: **3,821**
+- Pedals with research information: **551**
+- Pedals with confirmed pictures: **277**
+- Fully complete PRP pedals: **277**
+- Remaining incomplete pedals: **3,544**
+- Researched but waiting only for a confirmed picture: **274**
+- PRP status: Active, PRP1 research and photo synchronization pass
+- Current PRP1 target: **BFFX Boutique Pedals - Demon D**
+
+The site's public data-version markers are now **2026-09-19-prp1-batch-079**. The deployment browser audit's no-research fallback is now **BFFX Boutique Pedals - Demon D**, which remains unresearched in the tracker.
