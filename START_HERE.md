@@ -45,15 +45,15 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **461** have pedal information researched
+- **471** have pedal information researched
 - **214** have confirmed pictures
 - **214** are fully complete
 - **3,607** remain incomplete
-- **247** are researched but currently waiting only for a confirmed picture
+- **257** are researched but currently waiting only for a confirmed picture
 - **PRP status:** Active, PRP1 research and photo synchronization pass
-- **Current PRP1 target:** Baddy One Shoe Pedals - Heartbreaker
-- **PRP1 batch 070:** All ten records from Bad Penny FX Wireless Germanium Fuzz through Bad Pixel Pedals MKII Professional Gold Bender Fuzz were researched and matched to exact-model photos.
-- **Next exact-order incomplete target:** Baddy One Shoe Pedals - Heartbreaker
+- **Current PRP1 target:** Baja Tech Custom - Das Fuzz Si
+- **PRP1 batch 071:** Ten records from Baddy One Shoe Pedals Heartbreaker through Baja Tech Custom Das Fuzz Ge were researched and synchronized. No new exact photo was safely archived.
+- **Next exact-order missing-information target:** Baja Tech Custom - Das Fuzz Si
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
 
@@ -170,3 +170,7 @@ Batch 035 widened the direct-image hunt across the current unresolved window usi
 
 ## PRP1 batch 070 checkpoint
 Batch 070 completed the next ten exact-order PRP targets with synchronized research records, photo manifest entries, public index entries, and tracker status. The next target is **Baddy One Shoe Pedals - Heartbreaker**.
+
+
+## PRP1 batch 071 checkpoint
+Batch 071 completed ten exact-order PRP targets with synchronized research records, photo manifest entries, public index entries, and tracker status. The next target is **Baja Tech Custom - Das Fuzz Si**.

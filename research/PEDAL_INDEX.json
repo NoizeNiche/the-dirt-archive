@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-070",
+  "version": "2026-09-19-prp1-batch-071",
   "count": 3821,
   "pedals": [
     {
@@ -4314,8 +4314,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://baddyoneshoe.blogspot.com/2012/01/well-heartbreaker-overdrive-is-almost.html",
+      "research_record": "./research/pedals/Baddy One Shoe Pedals/Heartbreaker.md"
     },
     {
       "company": "Baddy One Shoe Pedals",
@@ -4324,8 +4324,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://baddyoneshoe.blogspot.com/2010/09/do-you-know-what-sweetness-sounds-like.html",
+      "research_record": "./research/pedals/Baddy One Shoe Pedals/Honeycomb.md"
     },
     {
       "company": "Baddy One Shoe Pedals",
@@ -4334,8 +4334,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/updates/weekly/20120910",
+      "research_record": "./research/pedals/Baddy One Shoe Pedals/Infinity Drive.md"
     },
     {
       "company": "Baddy One Shoe Pedals",
@@ -4344,8 +4344,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/baddyoneshoe/punchgrind",
+      "research_record": "./research/pedals/Baddy One Shoe Pedals/Punch & Grind.md"
     },
     {
       "company": "Baddy One Shoe Pedals",
@@ -4354,8 +4354,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/baddyoneshoe/junkpuncher",
+      "research_record": "./research/pedals/Baddy One Shoe Pedals/The Junk Puncher.md"
     },
     {
       "company": "Baddy One Shoe Pedals",
@@ -4364,8 +4364,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://baddyoneshoe.blogspot.com/2011/05/hot-little-number.html",
+      "research_record": "./research/pedals/Baddy One Shoe Pedals/Wayfarer.md"
     },
     {
       "company": "BAE Audio",
@@ -4374,8 +4374,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.baeaudio.com/8-products",
+      "research_record": "./research/pedals/BAE Audio/Royaltone Fuzz.md"
     },
     {
       "company": "Baja Tech Custom",
@@ -4384,8 +4384,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bajatech/bonebender",
+      "research_record": "./research/pedals/Baja Tech Custom/Bone Bender.md"
     },
     {
       "company": "Baja Tech Custom",
@@ -4396,8 +4396,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/777095-baja-tech-custom-damoaf",
+      "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Fuzz.md"
     },
     {
       "company": "Baja Tech Custom",
@@ -4406,8 +4406,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://en.audiofanzine.com/fuzz-pedal/baja-tech-custom/Das-Fuzz-GE/",
+      "research_record": "./research/pedals/Baja Tech Custom/Das Fuzz Ge.md"
     },
     {
       "company": "Baja Tech Custom",

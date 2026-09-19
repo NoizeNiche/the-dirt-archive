@@ -100,13 +100,14 @@ Batch 069 adds the next 10 unfinished catalog records in exact order: B85 Audio 
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 461
+- Pedals with research information: 471
 - Pedals with confirmed pictures: 214
 - Fully complete PRP pedals: 214
-- Remaining incomplete pedals: 3607
-- Researched but waiting only for a confirmed picture: 247
+- Remaining incomplete pedals: 3,607
+- Researched but waiting only for a confirmed picture: 257
 - PRP status: Active, PRP1 research and photo synchronization pass
-- Current PRP1 target: **Baddy One Shoe Pedals - Heartbreaker**
+- Current PRP1 target: **Baja Tech Custom - Das Fuzz Si**
+
 
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
@@ -604,3 +605,8 @@ The Azur records are intentionally kept under the cataloged **Azur** builder spe
 
 ### PRP1 batch 070 checkpoint
 Batch 070 completes the next 10 unfinished catalog records in exact order: Bad Penny FX - Wireless Germanium Fuzz; Bad Pixel Pedals - Bad Face Silicon; Bad Pixel Pedals - Buzzaround Fuzz; Bad Pixel Pedals - Classic Model 1 Fuzz; Bad Pixel Pedals - Classic Model 2 Fuzz; Bad Pixel Pedals - Classic Model 3 Fuzz; Bad Pixel Pedals - Fuck_Fuck Twin Tube Boost Overdrive; Bad Pixel Pedals - Germanium Gold Face Fuzz; Bad Pixel Pedals - Germanium Pink Face Fuzz; and Bad Pixel Pedals - MKII Professional Gold Bender Fuzz. All ten received individual research records and exact-model photo assets, moving the entire batch to PRP Complete. The next exact-order incomplete target is **Baddy One Shoe Pedals - Heartbreaker**.
+### PRP1 batch 071 checkpoint
+Batch 071 completed the next ten unfinished catalog records in exact tracker order: **Baddy One Shoe Pedals - Heartbreaker; Honeycomb; Infinity Drive; Punch & Grind; The Junk Puncher; Wayfarer; BAE Audio - Royaltone Fuzz; Baja Tech Custom - Bone Bender; DaMOAF Fuzz; and Das Fuzz Ge**. All ten received individual PRP research records. No new photograph met the stable direct archival-image standard, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. The next exact-order missing-information target is **Baja Tech Custom - Das Fuzz Si**.
+
+**Live tracker totals:** 3,821 total / 471 researched / 214 pictured / 214 complete / 3,607 incomplete, with 257 researched pedals waiting only for confirmed pictures.
+

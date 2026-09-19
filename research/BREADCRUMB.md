@@ -501,4 +501,10 @@ Batch 070 completed the next ten unfinished records in exact tracker order, from
 
 - **Live tracker totals:** 3821 total / 461 researched / 214 pictured / 214 complete / 3607 incomplete.
 - **Waiting on photos:** 247 researched pedals.
-- **Next exact-order incomplete target:** **Baddy One Shoe Pedals - Heartbreaker**.
+- **Next exact-order incomplete target:** **Baddy One Shoe Pedals - Heartbreaker**.## PRP1 batch 071 checkpoint
+
+Batch 071 completed the next ten unfinished records in exact tracker order, from **Baddy One Shoe Pedals - Heartbreaker** through **Baja Tech Custom - Das Fuzz Ge**. All ten now have individual research records synchronized into the public index, photo manifest, and tracker. Exact-model imagery was reviewed, but no new stable direct archival asset met the picture rule, so all ten remain photo-pending.
+
+- **Live tracker totals:** 3821 total / 471 researched / 214 pictured / 214 complete / 3607 incomplete.
+- **Waiting on photos:** 257 researched pedals.
+- **Next exact-order missing-information target:** **Baja Tech Custom - Das Fuzz Si**.

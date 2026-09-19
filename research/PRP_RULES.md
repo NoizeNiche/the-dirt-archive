@@ -196,13 +196,13 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 461
+- Pedals with research information: 471
 - Pedals with confirmed pictures: 214
 - Fully complete PRP pedals: 214
 - Remaining incomplete pedals: 3607
-- Researched but waiting only for a confirmed picture: 247
+- Researched but waiting only for a confirmed picture: 257
 - PRP status: Active, PRP1 research and photo synchronization pass
-- Current PRP1 target: **Baddy One Shoe Pedals - Heartbreaker**
+- Current PRP1 target: **Baja Tech Custom - Das Fuzz Si**
 
 ## PRP1 batch 030 checkpoint
 
@@ -419,3 +419,7 @@ The Azur records are intentionally kept under the cataloged **Azur** builder spe
 ## Latest PRP1 checkpoint - batch 070
 
 Batch 070 completed ten exact-order PRP targets with individual research records and exact-model photographs. The next target is **Baddy One Shoe Pedals - Heartbreaker**.
+
+
+## Latest PRP1 checkpoint - batch 071
+Batch 071 completed ten exact-order PRP targets with individual research records. No new exact-model photograph met the stable archival-image rule. The next target is **Baja Tech Custom - Das Fuzz Si**.
