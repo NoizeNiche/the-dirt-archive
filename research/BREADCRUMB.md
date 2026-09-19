@@ -679,3 +679,16 @@ The exact model pages and indexed historical references were rechecked. Effects 
 **Next exact-order target:** **A&M Custom Effects - Crash Central - Crunch Distortion**.
 
 **Public data version:** **2026-09-19-prp1-batch-113**.
+
+
+## Latest PRP1 checkpoint — Batch 114
+
+Batch 114 advanced **13 exact-order research-needed records**: the two census-placeholder rows for BlackOutEffectors and Blackstar Amplification, BMF Effects The Godfather Overdrive, Boulevard BDT-10 Distortion, Boulevard BOD-10 Overdrive, Boulevard Effects Darkship, Bouteek Distorter - Preamp, Bouteek Overdriver - Preamp, Bouteek Twin Drive and Boost - Ultimate Drive with Fuzz Inject, Bowman Audio Endeavors Bellyacher, Odious Fuzz Octave, Satan's Fingers Fuzz, and The Bowman Overdrive.
+
+All 13 now have Pedal Info research records. No questionable photo was promoted. Source pages were attached where available so the browser-assisted cache can attempt exact image recovery. The queue is now allowed to continue past photo-pending records instead of treating a difficult image as a blocker.
+
+**Tracker totals:** 3,821 total / 878 researched / 295 pictured / 295 complete / 3,526 incomplete / 583 researched-photo-pending.
+
+**Next exact-order research target:** the first remaining tracker row with Pedal Info = NEEDED after the Batch 114 records.
+
+**Public data version:** 2026-09-19-prp1-batch-114.

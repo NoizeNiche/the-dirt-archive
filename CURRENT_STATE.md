@@ -977,3 +977,12 @@ Batch 113 rechecked the current first ten incomplete records in exact catalog or
 The repository's earlier checkpoint text that named **BOSS - ML-2 Metal Core** as the current target was stale; the live tracker and latest PRP breadcrumb now establish the A&M record as the active target.
 
 Public data version: **2026-09-19-prp1-batch-113**.
+
+
+## PRP1 Batch 114 repository reconciliation — September 19, 2026
+
+Batch 114 created 13 individual Pedal Info records and synchronized them into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. The flexible working-set rule was applied so photo-pending A&M/AboveGround/AC/Accel records did not block continued research.
+
+Verified totals: **3,821 total / 878 researched / 295 pictured / 295 complete / 3,526 incomplete / 583 researched-photo-pending**.
+
+Next research work proceeds from the first remaining Pedal Info = NEEDED tracker row in exact catalog order.
