@@ -97,13 +97,13 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 264
+- Pedals with research information: 267
 - Pedals with confirmed pictures: 167
 - Fully complete PRP pedals: 167
 - Remaining incomplete pedals: 3654
-- Researched but waiting only for a confirmed picture: 97
+- Researched but waiting only for a confirmed picture: 100
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **AmpMojo - Skate Fuzz (SKUZZ)**
+- Current PRP1 target: **Amsterdam Cream - Big Eye Fuzz**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -471,6 +471,10 @@ Batch 045 advanced the active PRP1 queue through the next 10 incomplete catalog 
 ## PRP1 batch 046 checkpoint
 Batch 046 processed the active PRP1 window from **Alen Geere - Crown Centaur** through **Alexander Pedals - Magnolia Vintage Overdrive**. Eleven Pedal Info research records were added and synchronized into the canonical pedal index, photo manifest, and tracker. The research covers the required PRP fields where evidence exists, and explicitly leaves undocumented transistor/diode details blank rather than guessing. No exact-model direct image asset met the archive's promotion standard in this batch, so all eleven remain **Picture: NEEDED / PRP Complete: NEEDED** and the public cards must continue to use **No Photo Archived**. Counts are now **3,821 total / 254 researched / 167 pictured / 167 complete / 3,654 incomplete**, with **87** researched pedals waiting only for confirmed pictures. The next active cursor is **Alexander Pedals - Princess Clang**; the parked **A.Y.A - Bass Fuzz** remains non-blocking.
 
+
+## PRP1 batch 048 checkpoint
+
+Batch 048 processed the next three incomplete records in exact website order: **AmpMojo - Skate Fuzz (SKUZZ)**, **AmpMojo - Sol Drive**, and **Amptweaker - Bass BluesFuzz**. All three now have individual research records, index connections, photo-manifest entries, and tracker status. No exact photo was safely confirmed for these models, so all three remain photo-pending. The next exact-order incomplete target is **Amsterdam Cream - Big Eye Fuzz**.
 
 ## PRP1 batch 047 checkpoint
 Batch 047 processed the next ten active catalog records in exact website order, from **Alexander Pedals - Princess Clang** through **Amplified Nation - Bigger Bloom Overdrive**, while keeping the parked **A.Y.A - Bass Fuzz** non-blocking. New Pedal Info research records were added for all ten and synchronized into the public pedal index, photo/research manifest, and tracker. No exact-model direct image asset met the archive's stable archival-photo standard in this batch, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. Technical fields that could not be established from reliable documentation were left explicitly undocumented rather than guessed. Counts are now **3,821 total / 264 researched / 167 pictured / 167 complete / 3,654 incomplete**, with **97** researched pedals waiting only for confirmed pictures. The next active cursor is **AmpMojo - Skate Fuzz (SKUZZ)**.
