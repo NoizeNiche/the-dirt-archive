@@ -1,14 +1,27 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
+- Cached in this run: **10**
 - Local images retained/reorganized: **240**
-- Download failures: **55**
+- Download failures: **45**
 
 ## Storage layout
 
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- BOSS - ML-2 Metal Core -> `./assets/pedals/boss/ml-2-metal-core/primary.webp`
+- BOSS - MT-2 Metal Zone -> `./assets/pedals/boss/mt-2-metal-zone/primary.webp`
+- BOSS - MT-2W Metal Zone -> `./assets/pedals/boss/mt-2w-metal-zone/primary.webp`
+- BOSS - OD-1X OverDrive -> `./assets/pedals/boss/od-1x-overdrive/primary.webp`
+- BOSS - OD-200 Hybrid Drive -> `./assets/pedals/boss/od-200-hybrid-drive/primary.webp`
+- BOSS - OD-3 OverDrive -> `./assets/pedals/boss/od-3-overdrive/primary.webp`
+- BOSS - OS-2 OverDrive/Distortion -> `./assets/pedals/boss/os-2-overdrive-distortion/primary.webp`
+- BOSS - SD-1 SUPER OverDrive -> `./assets/pedals/boss/sd-1-super-overdrive/primary.webp`
+- BOSS - SD-1W SUPER OverDrive -> `./assets/pedals/boss/sd-1w-super-overdrive/primary.webp`
+- BOSS - ST-2 Power Stack -> `./assets/pedals/boss/st-2-power-stack/primary.webp`
 
 ## Still external / failed
 
@@ -44,16 +57,6 @@
 - Arcane Analog - ARCANE ANALOG FF66 FUZZ FACE: https://rvb-img.reverb.com/i/s--j81VRdN1--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qbr2rqvrkbjea9urcng2.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--j81VRdN1--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qbr2rqvrkbjea9urcng2.jpg`)
 - Asheville Guitar Pedals - Purr Machine Mini Fuzz Overdriver: https://rvb-img.reverb.com/i/s--oiUsZm4Y--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kh1kb9chvjin9p3ov8d3.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--oiUsZm4Y--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kh1kb9chvjin9p3ov8d3.jpg`)
 - Asheville Guitar Pedals - Rat King: https://rvb-img.reverb.com/i/s--R9Ok8B28--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/a7bc35c8-94df-4de1-852a-00e1225e5486.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--R9Ok8B28--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/a7bc35c8-94df-4de1-852a-00e1225e5486.jpg`)
-- BOSS - ML-2 Metal Core: declared local cache file is missing (`./assets/pedals/boss/ml-2-metal-core/primary.webp`)
-- BOSS - MT-2 Metal Zone: declared local cache file is missing (`./assets/pedals/boss/mt-2-metal-zone/primary.webp`)
-- BOSS - MT-2W Metal Zone: declared local cache file is missing (`./assets/pedals/boss/mt-2w-metal-zone/primary.webp`)
-- BOSS - OD-1X OverDrive: declared local cache file is missing (`./assets/pedals/boss/od-1x-overdrive/primary.webp`)
-- BOSS - OD-200 Hybrid Drive: declared local cache file is missing (`./assets/pedals/boss/od-200-hybrid-drive/primary.webp`)
-- BOSS - OD-3 OverDrive: declared local cache file is missing (`./assets/pedals/boss/od-3-overdrive/primary.webp`)
-- BOSS - OS-2 OverDrive/Distortion: declared local cache file is missing (`./assets/pedals/boss/os-2-overdrive-distortion/primary.webp`)
-- BOSS - SD-1 SUPER OverDrive: declared local cache file is missing (`./assets/pedals/boss/sd-1-super-overdrive/primary.webp`)
-- BOSS - SD-1W SUPER OverDrive: declared local cache file is missing (`./assets/pedals/boss/sd-1w-super-overdrive/primary.webp`)
-- BOSS - ST-2 Power Stack: declared local cache file is missing (`./assets/pedals/boss/st-2-power-stack/primary.webp`)
 - Bad Penny FX - The Fuzz Controller V2: https://rvb-img.reverb.com/image/upload/s--E8djf9MD--/t_card-square/v1603730743/rzj7uzm62ghqsfvgxyqb.jpg: HTTP Error 401: Unauthorized (`https://rvb-img.reverb.com/image/upload/s--E8djf9MD--/t_card-square/v1603730743/rzj7uzm62ghqsfvgxyqb.jpg`)
 - Baja Tech Custom - Das Fuzz Si: https://rvb-img.reverb.com/i/s--N6jvwcPq--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/veeaxunqjrmhehgj7sxz.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--N6jvwcPq--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/veeaxunqjrmhehgj7sxz.jpg`)
 - Barber Electronics - 1/2 Gainer: https://rvb-img.reverb.com/i/s--0CXP4idA--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ihkvtnwubs7xjtfnhxii.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--0CXP4idA--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ihkvtnwubs7xjtfnhxii.jpg`)
