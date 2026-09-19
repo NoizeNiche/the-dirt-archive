@@ -3,7 +3,7 @@
 ## Status
 **Phase:** Pedal Research Phase underway  
 **Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
-**Research progress:** 72 pedals researched; 62 exact pedal photos attached; 11 exact-photo records pending direct image files
+**Research progress:** **855 pedals have research information; 285 have confirmed pictures; 285 are fully complete; 3,536 remain incomplete; 570 are researched and waiting only for a confirmed picture.** This top-line snapshot reflects the current live tracker; the historical entries below are retained as checkpoints.
 
 ## Completed
 1. **Amptweaker — Bass BluesFuzz**
