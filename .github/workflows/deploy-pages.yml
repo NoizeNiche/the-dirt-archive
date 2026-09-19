@@ -366,7 +366,6 @@ jobs:
                 const main = document.querySelector('#photoBox img');
                 const colorwayImages = [...document.querySelectorAll('#colorways img')];
                 return {
-                  mainExpected: false,
                   mainLoaded: !!main && !main.hidden && main.complete && main.naturalWidth > 0,
                   colorwayFailures: colorwayImages.filter(img => !img.complete || img.naturalWidth <= 0).length
                 };
