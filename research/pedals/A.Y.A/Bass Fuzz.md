@@ -87,3 +87,14 @@ The search was widened again to Japanese-language resale and archive sources plu
 
 11. MION Upcycle — A.Y.A Tokyo Japan / BASS FUZZ: https://kaitori.mion.tokyo/%E6%A5%BD%E5%99%A8%E8%B2%B7%E5%8F%96%E9%87%91%E9%A1%8D%E8%A1%A8/
 12. Chiba Kandantei Yachiyo — 2015 equipment-buyback catalog: https://ameblo.jp/chibakan-yachiyo/entry-12068999635.html
+
+
+## PRP1 photo-recovery pass — batch 032
+
+A broader exact-title image search again returned the original **A.Y.A tokyo japan BASS FUZZ** photograph from Mercari. The indexed image is unambiguous: blue-sparkle enclosure, orange floral graphic, A.Y.A tokyo japan branding, BASS FUZZ lettering, and the two cream Fuzz/Vol controls. This matches the base model identity documented by Effects Database and the historical Japanese resale references. [13][14]
+
+The underlying Mercari item page remains unavailable to the crawler, so the image cannot be converted into a stable direct archival asset from the accessible source data. No alternate independent image host with a safe exact-model file URL was found in this pass. The later BASS FUZZ II listings remain excluded because they are explicitly labeled as the second version. [15]
+
+13. Mercari indexed image result — A.Y.A tokyo japan BASS FUZZ, item m93721008252: https://jp.mercari.com/item/m93721008252
+14. Effects Database — A.Y.A product index: https://www.effectsdatabase.com/model/aya
+15. eBay — A.Y.A Bass Fuzz BASS FUZZII, current listing: https://www.ebay.com/itm/198645645124
