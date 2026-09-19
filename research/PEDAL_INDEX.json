@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-061",
+  "version": "2026-09-18-prp1-batch-062",
   "count": 3821,
   "pedals": [
     {
@@ -3339,8 +3339,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/53422633-audio-surplus-effects-burden-doom-drone-sludge-fuzz-distortion",
+      "research_record": "./research/pedals/Audio Surplus Effects/Burden.md"
     },
     {
       "company": "Audio Surplus Effects",
@@ -3350,8 +3350,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://audiosurpluseffects.bigcartel.com/product/dornenkrone",
+      "research_record": "./research/pedals/Audio Surplus Effects/Dornenkrone.md"
     },
     {
       "company": "Audio Surplus Effects",
@@ -3360,8 +3360,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://audiosurpluseffects.bigcartel.com/product/lurid-machine",
+      "research_record": "./research/pedals/Audio Surplus Effects/Lurid Machine.md"
     },
     {
       "company": "Audio Surplus Effects",
@@ -3370,8 +3370,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://audiosurpluseffects.bigcartel.com/product/massenpanik",
+      "research_record": "./research/pedals/Audio Surplus Effects/Massenpanik.md"
     },
     {
       "company": "Audio Surplus Effects",
@@ -3381,8 +3381,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/84497231-audio-surplus-effects-ok-doomer",
+      "research_record": "./research/pedals/Audio Surplus Effects/Ok Doomer.md"
     },
     {
       "company": "Audio Surplus Effects",
@@ -3391,8 +3391,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://audiosurpluseffects.bigcartel.com/product/radio-trash-unrealistic-overdrive",
+      "research_record": "./research/pedals/Audio Surplus Effects/Radio Trash Unrealistic Overdrive.md"
     },
     {
       "company": "Audio-Phonic",
@@ -3401,8 +3401,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/audiophonic/r4",
+      "research_record": "./research/pedals/Audio-Phonic/R4 Fuzz.md"
     },
     {
       "company": "Audio-Phonic",
@@ -3411,8 +3411,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/audiophonic/twinfuzz",
+      "research_record": "./research/pedals/Audio-Phonic/Twin-Fuzz.md"
     },
     {
       "company": "Audio! Audio!",
@@ -3422,8 +3422,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/audioaudio/superdrive",
+      "research_record": "./research/pedals/Audio! Audio!/SD-1 Superdrive.md"
     },
     {
       "company": "Audiobox",
@@ -3432,8 +3432,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/audiobox/crunchbox",
+      "research_record": "./research/pedals/Audiobox/Crunch Box.md"
     },
     {
       "company": "Audiofab",
