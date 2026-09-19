@@ -1042,3 +1042,21 @@ The latest flexible working set added 10 consecutive research-needed records fro
 Verified totals: **3,821 total / 985 researched / 300 pictured / 300 complete / 3,521 incomplete / 685 researched-photo-pending**.
 
 Next exact-order research target: **Build Your Own Clone - B.G. Fuzz**.
+
+
+## Latest PRP1 checkpoint — BYOC Fuzz Clone
+
+PRP is continuing in practical working sets rather than a fixed pedal count. The latest completed pass added **10 consecutive exact-order research records**: **Build Your Own Clone - B.G. Fuzz; Bass Overdrive; Bender Clone; Blue Overdrive; British Blues Overdrive; Classic Overdrive; Crown Jewel; E.S.V. Fuzz; El Distorto Segundo; and Fuzz Clone**.
+
+All ten now have individual Pedal Info research records synchronized into the canonical catalog, photo/research manifest, and PRP tracker. No questionable photo was promoted. BYOC kit-specific component details were recorded as kit options where documented, rather than being presented as universal factory parts.
+
+**Verified tracker totals:** **3821 total / 995 researched / 300 pictured / 300 complete / 3521 incomplete / 695 researched-photo-pending**.
+
+**Next exact-order research target:** **Build Your Own Clone - Green Pony**.
+
+**Public data version:** 2026-09-19-prp1-byoc-fuzz-clone.
+
+
+## PRP1 BYOC Fuzz Clone reconciliation — September 19, 2026
+
+The live tracker was re-counted after the research commit. The next exact-order research target is **Build Your Own Clone - Green Pony**.
