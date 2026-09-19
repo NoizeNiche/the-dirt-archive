@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-046",
+  "version": "2026-09-18-prp1-batch-047",
   "count": 3821,
   "pedals": [
     {
@@ -1650,7 +1650,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 047/Princess Clang.md"
     },
     {
       "company": "Alexander Pedals",
@@ -1660,7 +1660,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 047/Royal Cream.md"
     },
     {
       "company": "Alien Amplification",
@@ -1670,7 +1670,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 047/Origami Overdrive.md"
     },
     {
       "company": "Alien Rabbit",
@@ -1680,7 +1680,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 047/Magic Drive.md"
     },
     {
       "company": "All-Pedal",
@@ -1690,7 +1690,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 047/Alcmene Overdrive.md"
     },
     {
       "company": "All-Pedal",
@@ -1700,7 +1700,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 047/Devil's Triad Essentials.md"
     },
     {
       "company": "All-Pedal",
@@ -1710,7 +1710,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 047/Slamurai Bushido Drive.md"
     },
     {
       "company": "Ampeg",
@@ -1720,7 +1720,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 047/Scrambler Bass Overdrive.md"
     },
     {
       "company": "Amplified Nation",
@@ -1730,7 +1730,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 047/Big Bloom Overdrive.md"
     },
     {
       "company": "Amplified Nation",
@@ -1740,7 +1740,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 047/Bigger Bloom Overdrive.md"
     },
     {
       "company": "AmpMojo",
