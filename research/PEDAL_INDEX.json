@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-104",
+  "version": "2026-09-19-prp1-batch-105",
   "count": 3821,
   "pedals": [
     {
@@ -8263,8 +8263,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blammoelectronics.com/product-page/deth-pedal",
+      "research_record": "./research/pedals/PRP Batch 105/Deth Pedal.md"
     },
     {
       "company": "BLAMMO! Electronics",
@@ -8273,8 +8273,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blammoelectronics.com/product-page/fuzz-detonator",
+      "research_record": "./research/pedals/PRP Batch 105/Fuzz Detonator.md"
     },
     {
       "company": "BLAMMO! Electronics",
@@ -8283,8 +8283,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/81060477-blammo-electronics-la-square-face-fuzz-hybrid-germanium-silicon",
+      "research_record": "./research/pedals/PRP Batch 105/L.A. Square Face.md"
     },
     {
       "company": "BLAMMO! Electronics",
@@ -8293,8 +8293,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blammoelectronics.com/product-page/payola-drive",
+      "research_record": "./research/pedals/PRP Batch 105/Payola Drive.md"
     },
     {
       "company": "BLAMMO! Electronics",
@@ -8303,8 +8303,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blammoelectronics.com/product-page/skrambler",
+      "research_record": "./research/pedals/PRP Batch 105/Skrambler.md"
     },
     {
       "company": "BLAMMO! Electronics",
@@ -8313,8 +8313,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blammoelectronics.com/product-page/the-slob",
+      "research_record": "./research/pedals/PRP Batch 105/SLOB.md"
     },
     {
       "company": "BLAMMO! Electronics",
@@ -8323,8 +8323,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blammoelectronics.com/product-page/tnydumble",
+      "research_record": "./research/pedals/PRP Batch 105/TNYDUMBLE.md"
     },
     {
       "company": "BMF Effects",
@@ -8333,8 +8333,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.bmfeffects.com/products/marc-fn-ford-overdrive-boost",
+      "research_record": "./research/pedals/PRP Batch 105/Marc F'N Ford Overdrive Boost.md"
     },
     {
       "company": "BMF Effects",
@@ -8343,8 +8343,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.bmfeffects.com/products/purple-nurple-overdrive",
+      "research_record": "./research/pedals/PRP Batch 105/Purple Nurple Overdrive.md"
     },
     {
       "company": "BMF Effects",
@@ -8353,8 +8353,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/76398570-bmf-effects-rocket-88-overdrive",
+      "research_record": "./research/pedals/PRP Batch 105/Rocket 88 Overdrive.md"
     },
     {
       "company": "BMF Effects",
