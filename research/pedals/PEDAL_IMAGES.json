@@ -6693,5 +6693,95 @@
     "research_record": "./research/pedals/PRP Batch 110/MD-2 Mega Distortion.md",
     "image_source_page": "https://specialtytraders.com/products/boss-md-2-mega-distortion",
     "image_source_url": "https://specialtytraders.com/cdn/shop/files/418522.jpg?v=1767147463&width=1946"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "ML-2 Metal Core",
+    "image": "./assets/pedals/boss/ml-2-metal-core/primary.webp",
+    "source_page": "https://www.boss.info/us/products/ml-2/",
+    "research_record": "./research/pedals/PRP Batch 111/ML-2 Metal Core.md",
+    "image_source_page": "https://www.boss.info/us/products/ml-2/",
+    "image_source_url": "https://static.roland.com/assets/images/products/main/ml_2_top_main.jpg"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "MT-2 Metal Zone",
+    "image": "./assets/pedals/boss/mt-2-metal-zone/primary.webp",
+    "source_page": "https://www.boss.info/global/products/mt-2/",
+    "research_record": "./research/pedals/PRP Batch 111/MT-2 Metal Zone.md",
+    "image_source_page": "https://www.boss.info/global/products/mt-2/",
+    "image_source_url": "https://static.roland.com/assets/images/products/gallery/mt-2_top_gal.jpg"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "MT-2W Metal Zone",
+    "image": "./assets/pedals/boss/mt-2w-metal-zone/primary.webp",
+    "source_page": "https://www.boss.info/us/products/mt-2w/",
+    "research_record": "./research/pedals/PRP Batch 111/MT-2W Metal Zone.md",
+    "image_source_page": "https://www.boss.info/us/products/mt-2w/",
+    "image_source_url": "https://static.roland.com/products/mt-2w/image/mt-2w_hero.jpg"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "OD-1X OverDrive",
+    "image": "./assets/pedals/boss/od-1x-overdrive/primary.webp",
+    "source_page": "https://www.boss.info/us/products/od-1x/",
+    "research_record": "./research/pedals/PRP Batch 111/OD-1X OverDrive.md",
+    "image_source_page": "https://www.boss.info/us/products/od-1x/",
+    "image_source_url": "https://static.roland.com/products/od-1x/image/od-1x_gal_01.jpg"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "OD-200 Hybrid Drive",
+    "image": "./assets/pedals/boss/od-200-hybrid-drive/primary.webp",
+    "source_page": "https://www.boss.info/us/products/od-200/",
+    "research_record": "./research/pedals/PRP Batch 111/OD-200 Hybrid Drive.md",
+    "image_source_page": "https://www.boss.info/us/products/od-200/",
+    "image_source_url": "https://static.roland.com/assets/images/products/main/od-200_main.jpg"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "OD-3 OverDrive",
+    "image": "./assets/pedals/boss/od-3-overdrive/primary.webp",
+    "source_page": "https://www.boss.info/global/products/od-3/",
+    "research_record": "./research/pedals/PRP Batch 111/OD-3 OverDrive.md",
+    "image_source_page": "https://www.boss.info/global/products/od-3/",
+    "image_source_url": "https://www.boss.info/RolandComSite/media/assets/images/products/main/od_3_main.jpg?ext=.jpg"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "OS-2 OverDrive/Distortion",
+    "image": "./assets/pedals/boss/os-2-overdrive-distortion/primary.webp",
+    "source_page": "https://www.boss.info/us/products/os-2/",
+    "research_record": "./research/pedals/PRP Batch 111/OS-2 OverDrive/Distortion.md",
+    "image_source_page": "https://www.boss.info/us/products/os-2/",
+    "image_source_url": "https://static.roland.com/products/os-2/image/os-2_01_gal.jpg"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "SD-1 SUPER OverDrive",
+    "image": "./assets/pedals/boss/sd-1-super-overdrive/primary.webp",
+    "source_page": "https://www.boss.info/ca/products/sd-1/",
+    "research_record": "./research/pedals/PRP Batch 111/SD-1 SUPER OverDrive.md",
+    "image_source_page": "https://www.boss.info/ca/products/sd-1/",
+    "image_source_url": "https://static.roland.com/products/sd-1-4a/images/sd-1_hero.jpg"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "SD-1W SUPER OverDrive",
+    "image": "./assets/pedals/boss/sd-1w-super-overdrive/primary.webp",
+    "source_page": "https://www.boss.info/us/products/sd-1w/",
+    "research_record": "./research/pedals/PRP Batch 111/SD-1W SUPER OverDrive.md",
+    "image_source_page": "https://www.boss.info/us/products/sd-1w/",
+    "image_source_url": "https://static.roland.com/products/sd-1w/images/sd-1w_hero.jpg"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "ST-2 Power Stack",
+    "image": "./assets/pedals/boss/st-2-power-stack/primary.webp",
+    "source_page": "https://www.boss.info/us/products/st-2/",
+    "research_record": "./research/pedals/PRP Batch 111/ST-2 Power Stack.md",
+    "image_source_page": "https://www.boss.info/us/products/st-2/",
+    "image_source_url": "https://static.roland.com/products/st-2/images/st-2_hero.jpg"
   }
 ]
