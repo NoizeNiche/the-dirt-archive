@@ -5129,5 +5129,13 @@
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/od8",
     "research_record": "./research/pedals/PRP Batch 090/OD-8 X-Drive.md"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "OTD-100 Distortion",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/otd100",
+    "research_record": "./research/pedals/PRP Batch 091/OTD-100 Distortion.md"
   }
 ]
