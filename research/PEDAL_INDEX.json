@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-078",
+  "version": "2026-09-19-prp1-batch-079",
   "count": 3821,
   "pedals": [
     {
@@ -5632,9 +5632,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://cdn-media.empowertribe.com/44ade04164b04517a49757f6d17e1f02/Image_BE_0709-ACL_UZ400_Web-Banner_Mobile_2023-09-13_Rev.0.jpg",
+      "source_page": "https://www.behringer.com/en/products/0709-ACL",
+      "research_record": "./research/pedals/Behringer/UZ400 Ultra Fuzz.md",
+      "image_source_page": "https://www.behringer.com/en/products/0709-ACL"
     },
     {
       "company": "Benson Amps",
@@ -5642,31 +5643,32 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/e929250b-627c-4158-85a2-7303a98bf66f/fuzzecho_01_0887.jpg",
+      "source_page": "https://www.bensonamps.com/guitarpedals/deep-sea-diver-fuzz-echo",
+      "research_record": "./research/pedals/Benson Amps/Deep Sea Diver Fuzz-Echo.md",
+      "image_source_page": "https://www.bensonamps.com/guitarpedals/deep-sea-diver-fuzz-echo"
     },
     {
       "company": "Benson Amps",
       "pedal": "Germanium Fuzz",
       "types": [
-        "Fuzz",
-        "Overdrive"
+        "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.chicagomusicexchange.com/cdn/shop/files/benson-effects-and-pedals-fuzz-benson-germanium-fuzz-benson-germanium-fuzz-u7459020405-1219839600.jpg?v=1770662978&width=1946",
+      "source_page": "https://www.effectsdatabase.com/model/benson/fuzz/germanium",
+      "research_record": "./research/pedals/Benson Amps/Germanium Fuzz.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/benson/fuzz/germanium"
     },
     {
       "company": "Benson Amps",
       "pedal": "Germanium Preamp Pedal",
       "types": [
-        "Fuzz",
-        "Overdrive"
+        "Fuzz / Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/6644115c-96eb-4c40-848c-5ad38dc780c8/germ-pre_01_9765.jpg",
+      "source_page": "https://www.bensonamps.com/guitarpedals/germaniumpreamp",
+      "research_record": "./research/pedals/Benson Amps/Germanium Preamp Pedal.md",
+      "image_source_page": "https://www.bensonamps.com/guitarpedals/germaniumpreamp"
     },
     {
       "company": "Benson Amps",
@@ -5674,20 +5676,21 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/784c86f6-1c0f-48d8-8431-2b9da6926034/pedals_17_0947.jpg",
+      "source_page": "https://www.bensonamps.com/guitarpedals/424-mkii-preamp",
+      "research_record": "./research/pedals/Benson Amps/Portable Distortion 424 MKII.md",
+      "image_source_page": "https://www.bensonamps.com/guitarpedals/424-mkii-preamp"
     },
     {
       "company": "Benson Amps",
       "pedal": "Preamp Pedal",
       "types": [
-        "Fuzz",
-        "Overdrive"
+        "Fuzz / Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/1b80ff67-ed0e-4173-b15d-482c9d043faa/preamp_01_9832.jpg",
+      "source_page": "https://www.bensonamps.com/guitarpedals/preamp",
+      "research_record": "./research/pedals/Benson Amps/Preamp Pedal.md",
+      "image_source_page": "https://www.bensonamps.com/guitarpedals/preamp"
     },
     {
       "company": "Benson Amps",
@@ -5696,8 +5699,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/benson/stonkbox",
+      "research_record": "./research/pedals/Benson Amps/Stonk Box.md"
     },
     {
       "company": "Benson Amps",
@@ -5705,9 +5708,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/bf3b84ec-d7ff-4543-870b-70cb20a648af/stonk_01_9815.jpg",
+      "source_page": "https://www.bensonamps.com/guitarpedals/strkn-b0k",
+      "research_record": "./research/pedals/Benson Amps/Störkn B0kš.md",
+      "image_source_page": "https://www.bensonamps.com/guitarpedals/strkn-b0k"
     },
     {
       "company": "Beta Aivin",
@@ -5715,9 +5719,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://rvb-img.reverb.com/i/s--CRo-YtDA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ktwe69qltfzjxjhw4kpk.jpg",
+      "source_page": "https://reverb.com/item/15622919-beta-aivin-bod-1-bass-overdrive-pedal",
+      "research_record": "./research/pedals/Beta Aivin/BOD-1 Bass Overdrive.md",
+      "image_source_page": "https://reverb.com/item/15622919-beta-aivin-bod-1-bass-overdrive-pedal"
     },
     {
       "company": "Beta Aivin",
@@ -5726,8 +5731,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.pedalboard.org/strom-liste/beta-aivin",
+      "research_record": "./research/pedals/Beta Aivin/BOD-2 Bass Overdrive.md"
     },
     {
       "company": "BFFX Boutique Pedals",
