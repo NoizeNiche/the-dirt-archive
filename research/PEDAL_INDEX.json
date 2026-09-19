@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-112",
+  "version": "2026-09-19-prp1-batch-131",
   "count": 3821,
   "pedals": [
     {
@@ -10878,8 +10878,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/byoc/lil/modifiedoverdrive",
+      "research_record": "./research/pedals/PRP Batch 131/li-l-modified-overdrive.md"
     },
     {
       "company": "Build Your Own Clone",
@@ -10888,8 +10888,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://stompboxschematics.com/circuits/lil-mouse-kit-by-build-your-own-clone-byoc/",
+      "research_record": "./research/pedals/PRP Batch 131/li-l-mouse.md"
     },
     {
       "company": "Build Your Own Clone",
@@ -10898,8 +10898,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/byoc/lil/yellowod",
+      "research_record": "./research/pedals/PRP Batch 131/li-l-yellow-od.md"
     },
     {
       "company": "Build Your Own Clone",
@@ -10908,8 +10908,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/byoc/mightymouse",
+      "research_record": "./research/pedals/PRP Batch 131/mighty-mouse.md"
     },
     {
       "company": "Build Your Own Clone",
@@ -10918,8 +10918,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/byoc/distortion/orange",
+      "research_record": "./research/pedals/PRP Batch 131/orange-distortion.md"
     },
     {
       "company": "Build Your Own Clone",
@@ -10928,8 +10928,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/byoc/overdrive/2",
+      "research_record": "./research/pedals/PRP Batch 131/overdrive-2.md"
     },
     {
       "company": "Build Your Own Clone",
@@ -10938,8 +10938,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/byoc/overdrive/parametric",
+      "research_record": "./research/pedals/PRP Batch 131/parametric-overdrive.md"
     },
     {
       "company": "Build Your Own Clone",
@@ -10948,18 +10948,19 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/byoc/screamer",
+      "research_record": "./research/pedals/PRP Batch 131/screamer-clone.md"
     },
     {
       "company": "Build Your Own Clone",
       "pedal": "Shredder",
       "types": [
-        "Distortion"
+        "Distortion",
+        "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/byoc/shredder",
+      "research_record": "./research/pedals/PRP Batch 131/shredder.md"
     },
     {
       "company": "Build Your Own Clone",
@@ -10968,8 +10969,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/byoc/silverpony",
+      "research_record": "./research/pedals/PRP Batch 131/silver-pony.md"
     },
     {
       "company": "Build Your Own Clone",
