@@ -46,3 +46,16 @@ Recover stable, exact-model archival images for:
 - Analog Noir — Fuzz Face / Rangemaster Treble Booster
 
 Exact photos already archived in this batch for ZenTone, Harmonic Percolator, Si / Ge Fuzz Face, and all three PUSH & PULL DISTORTION entries. A.Y.A — Bass Fuzz remains parked and non-blocking.
+
+
+## Batch 057 photo-recovery queue
+
+Recover stable, exact-model archival images for:
+- Animals Pedal — Rover Fuzz
+- Animals Pedal — Rust Rod Fuzz
+- Animals Pedal — SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF
+- Animals Pedal — Tioga Road Cycling Distortion
+- Animals Pedal — Vintage Van Driving is Very Fun
+- Anode Effects — MOS Fuzz
+
+Exact photos already archived in this batch for Sunday Afternoon Is Infinity Bender, Surfing Bear Overdrive, Dragon Drive V2, and ARC Effects Soothsayer.

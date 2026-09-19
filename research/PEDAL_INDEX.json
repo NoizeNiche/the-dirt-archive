@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-056",
+  "version": "2026-09-18-prp1-batch-057",
   "count": 3821,
   "pedals": [
     {
@@ -2838,8 +2838,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://animalspedal.us/products/animals-pedal-rover-fuzz",
+      "research_record": "./research/pedals/PRP Batch 057/Rover Fuzz.md"
     },
     {
       "company": "Animals Pedal",
@@ -2848,8 +2848,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://animalspedal.us/products/animals-pedal-rust-rod-fuzz",
+      "research_record": "./research/pedals/PRP Batch 057/Rust Rod Fuzz.md"
     },
     {
       "company": "Animals Pedal",
@@ -2857,9 +2857,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://animalspedal.us/cdn/shop/files/Sunday-Afternoon01.jpg?v=1753149541&width=1946",
+      "source_page": "https://animalspedal.us/products/animals-pedal-sunday-afternoon-is-infinity-bender",
+      "research_record": "./research/pedals/PRP Batch 057/Sunday Afternoon Is Infinity Bender.md",
+      "image_source_page": "https://animalspedal.us/products/animals-pedal-sunday-afternoon-is-infinity-bender"
     },
     {
       "company": "Animals Pedal",
@@ -2867,9 +2868,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://animalspedal.us/cdn/shop/files/SurfingBearOverdrive-01.jpg?v=1753150184&width=1946",
+      "source_page": "https://animalspedal.us/products/animals-pedal-surfing-bear-overdrive",
+      "research_record": "./research/pedals/PRP Batch 057/Surfing Bear Overdrive.md",
+      "image_source_page": "https://animalspedal.us/products/animals-pedal-surfing-bear-overdrive"
     },
     {
       "company": "Animals Pedal",
@@ -2878,8 +2880,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://animalspedal.us/products/animals-pedal-surfing-polar-bear-bass-overdrive-mod-by-bjf",
+      "research_record": "./research/pedals/PRP Batch 057/SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF.md"
     },
     {
       "company": "Animals Pedal",
@@ -2888,8 +2890,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://animalspedal.us/products/animals-pedal-tioga-road-cycling-distortion",
+      "research_record": "./research/pedals/PRP Batch 057/Tioga Road Cycling Distortion.md"
     },
     {
       "company": "Animals Pedal",
@@ -2898,8 +2900,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://animalspedal.us/products/animals-pedal-vintage-van-driving-is-very-fun",
+      "research_record": "./research/pedals/PRP Batch 057/Vintage Van Driving is Very Fun.md"
     },
     {
       "company": "Anode Effects",
@@ -2908,9 +2910,10 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/65f1f9ca8c4d920b3a4f92ad/7f9442a9-abc9-4559-9d18-310e1627e765/IMG_7845.jpg",
+      "source_page": "https://www.anodeeffects.com/pedals/p/dragondrive",
+      "research_record": "./research/pedals/PRP Batch 057/Dragon Drive V2.md",
+      "image_source_page": "https://www.anodeeffects.com/pedals/p/dragondrive"
     },
     {
       "company": "Anode Effects",
@@ -2919,8 +2922,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.anodeeffects.com/pedals/p/mos-fuzz-full-frequency-fuzz-machine",
+      "research_record": "./research/pedals/PRP Batch 057/MOS Fuzz.md"
     },
     {
       "company": "ARC Effects",
@@ -2929,9 +2932,10 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/0d86a47f-0495-424f-8628-2695cc96477e/AAR04678-2.jpg",
+      "source_page": "https://www.arceffects.com/soothsayer",
+      "research_record": "./research/pedals/PRP Batch 057/Soothsayer.md",
+      "image_source_page": "https://www.arceffects.com/soothsayer"
     },
     {
       "company": "Arcane Analog",
