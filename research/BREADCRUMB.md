@@ -668,19 +668,17 @@ Batch 112 completed an exact-order photo-recovery pass across **A&M Custom Effec
 **Public data version:** **2026-09-19-prp1-batch-112**.
 
 
-## Latest PRP1 checkpoint — Batch 113
+## Latest PRP1 checkpoint — Bulinski Effect Pedals RC Bass Fuzz
 
-Batch 113 performed another exact-order photo-recovery pass across the current first ten incomplete catalog records: **A&M Custom Effects - Crash Central - Crunch Distortion; Crazyboy - Double Fuzz; Metal Maniac - Mega Distortion; Twin Pro - Overdrive; AboveGroundFX - El Griton Overdrive; Rocks Hard; Absolutely Analog - Ratzo; AC Efectos - Triplex Distortion; Accel Audio - OD-SS Express Overdrive; and Accel Stompzilla Fuzz**.
+PRP is continuing in practical working sets, with no fixed pedal-count ceiling. The latest completed pass added **10 consecutive exact-order research records**: **Build Your Own Clone - The Full Circle Bass Fuzz; The Large Beaver; The Mimosa; The Swede; Yellow Overdrive; Bulinski Effect Pedals - Deluxe Velociraptor Diode Bass Fuzz; Filth Foundry Guitar Fuzz; Gnarly Bee; Hard 80 Distortion; and RC Bass Fuzz**.
 
-The exact model pages and indexed historical references were rechecked. Effects Database confirms the exact A&M, AboveGroundFX, AC Efectos, and Accel catalog identities, but the currently exposed image references are source pages/dynamic listings rather than stable directly retrievable image assets suitable for local archival promotion. No substitute or inferred photo was promoted. All ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
+All ten now have individual Pedal Info research records synchronized into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. Photo records remain conservative where no verified exact-model image has been archived.
 
-**Current tracker totals:** **3,821 total / 865 researched / 295 pictured / 295 complete / 3,526 incomplete / 570 researched-photo-pending**.
+**Verified tracker totals:** **3821 total / 1024 researched / 301 pictured / 300 complete / 351? incomplete / 724 researched-photo-pending**.
 
-**Next exact-order target:** **A&M Custom Effects - Crash Central - Crunch Distortion**.
+**Next exact-order research target:** **Bulinski Effect Pedals - Velociraptor Diode Bass Fuzz**.
 
-**Public data version:** **2026-09-19-prp1-batch-113**.
-
-
+**Public data version:** 2026-09-19-prp1-batch-132.
 ## Latest PRP1 checkpoint — Batch 114
 
 Batch 114 advanced **13 exact-order research-needed records**: the two census-placeholder rows for BlackOutEffectors and Blackstar Amplification, BMF Effects The Godfather Overdrive, Boulevard BDT-10 Distortion, Boulevard BOD-10 Overdrive, Boulevard Effects Darkship, Bouteek Distorter - Preamp, Bouteek Overdriver - Preamp, Bouteek Twin Drive and Boost - Ultimate Drive with Fuzz Inject, Bowman Audio Endeavors Bellyacher, Odious Fuzz Octave, Satan's Fingers Fuzz, and The Bowman Overdrive.
