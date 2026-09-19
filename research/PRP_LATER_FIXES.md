@@ -79,3 +79,13 @@ Recover stable, exact-model archival images for:
 - Arcane Analog - TONE BENDERS (MK1 // MK1.5 // MK2 // MK3 // MK4)
 
 The remaining Batch 058 records now have exact-model photographs archived.
+
+
+## Batch 059 photo-recovery queue
+
+Recover stable, exact-model archival images for:
+- Arcane Analog - BC108 Fuzz Face
+- Arcane Analog - Overdrive Overload
+- Arcane Analog - TONE BENDERS (MK1 // MK1.5 // MK2 // MK3 // MK4)
+
+The remaining Batch 059 records now have exact-model photographs archived.
