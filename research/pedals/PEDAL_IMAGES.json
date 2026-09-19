@@ -7740,5 +7740,35 @@
     "research_record": "./research/pedals/PRP Batch 116/bsm-fuzzbender-fuzz-machine.md",
     "image_source_page": "https://www.treblebooster.net/products/custom-made/fuzzbender-fuzz-machine.html",
     "image_source_url": "https://www.treblebooster.net/products/custom-made/fuzzbender-fuzz-machine.html"
+  },
+  {
+    "builder": "BSM",
+    "pedal": "J-Fuzz",
+    "image": null,
+    "source": null,
+    "source_page": "https://www.treblebooster.net/products/custom-made/j-fuzz-fuzz-machine.html",
+    "research_record": "./research/pedals/PRP Batch 117/bsm-j-fuzz.md",
+    "image_source_page": "https://www.treblebooster.net/products/custom-made/j-fuzz-fuzz-machine.html",
+    "image_source_url": "https://www.treblebooster.net/products/custom-made/j-fuzz-fuzz-machine.html"
+  },
+  {
+    "builder": "BSM",
+    "pedal": "Overdrive Supreme",
+    "image": null,
+    "source": null,
+    "source_page": "https://www.effectsdatabase.com/model/bsm/overdrive/supreme",
+    "research_record": "./research/pedals/PRP Batch 117/bsm-overdrive-supreme.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/bsm/overdrive/supreme",
+    "image_source_url": "https://www.effectsdatabase.com/model/bsm/overdrive/supreme"
+  },
+  {
+    "builder": "BSM",
+    "pedal": "Spectrum Fuzz Booster",
+    "image": null,
+    "source": null,
+    "source_page": "https://www.treblebooster.net/products/special-units/spectrum-fuzz-booster.html",
+    "research_record": "./research/pedals/PRP Batch 117/bsm-spectrum-fuzz-booster.md",
+    "image_source_page": "https://www.treblebooster.net/products/special-units/spectrum-fuzz-booster.html",
+    "image_source_url": "https://www.treblebooster.net/products/special-units/spectrum-fuzz-booster.html"
   }
 ]
