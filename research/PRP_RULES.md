@@ -485,3 +485,17 @@ When a qualifying exact-model photograph is found during PRP:
 6. For a materially distinct public version, use a separate pedal identity and its own `primary.webp`.
 
 The source URL may remain in `image_source_url` for provenance after the local file is archived.
+
+## Current PRP1 checkpoint
+
+- Unique pedals in website catalog: **3,821**
+- Pedals with research information: **865**
+- Pedals with confirmed pictures: **295**
+- Fully complete PRP pedals: **295**
+- Remaining incomplete pedals: **3,526**
+- Researched but waiting only for a confirmed picture: **570**
+- PRP status: Active, PRP1 research and photo synchronization pass with local photo caching
+- Current PRP1 target: **A&M Custom Effects - Crash Central - Crunch Distortion**
+- Latest synchronized pass: **PRP1 Batch 112**
+- Public data version: **2026-09-19-prp1-batch-112**
+
