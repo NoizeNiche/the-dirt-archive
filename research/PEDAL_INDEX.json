@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-108",
+  "version": "2026-09-19-prp1-batch-109",
   "count": 3821,
   "pedals": [
     {
@@ -8692,8 +8692,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bootleg/hzm12",
+      "research_record": "./research/pedals/PRP Batch 109/HZM-1.2 Hizumi.md"
     },
     {
       "company": "Boot-Leg Hand Made Effects",
@@ -8703,8 +8703,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bootleg/hzm20",
+      "research_record": "./research/pedals/PRP Batch 109/HZM-2.0 Hizumi Quattro Valvole.md"
     },
     {
       "company": "Boot-Leg Hand Made Effects",
@@ -8713,8 +8713,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bootleg/jbk10",
+      "research_record": "./research/pedals/PRP Batch 109/JBK-1.0 Jaw Breaker.md"
     },
     {
       "company": "Boot-Leg Hand Made Effects",
@@ -8723,8 +8723,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bootleg/jzf10",
+      "research_record": "./research/pedals/PRP Batch 109/JZF-1.0 Jazz Fuzz.md"
     },
     {
       "company": "Boot-Leg Hand Made Effects",
@@ -8733,8 +8733,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bootleg/rrp10",
+      "research_record": "./research/pedals/PRP Batch 109/RRP-1.0 Rock'n Roll Party.md"
     },
     {
       "company": "Boot-Leg Hand Made Effects",
@@ -8744,8 +8744,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/20189/",
+      "research_record": "./research/pedals/PRP Batch 109/RRP-2.0 Rock'n Roll Party.md"
     },
     {
       "company": "Bootlegger Guitar",
@@ -8754,8 +8754,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.bootleggerguitar.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 109/Shifty's 8 Ball Boost Drive Analog 12AT7.md"
     },
     {
       "company": "Bootlegger Guitar",
@@ -8764,8 +8764,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/updates/weekly/20161017",
+      "research_record": "./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md"
     },
     {
       "company": "Bootlegger Guitar",
@@ -8774,8 +8774,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.bootleggerguitar.com/product-page/tube-distortion-pedal",
+      "research_record": "./research/pedals/PRP Batch 109/Zapped Up Yours Analog Tube Distortion.md"
     },
     {
       "company": "BOSS",
@@ -8784,8 +8784,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.boss.info/global/products/bd-2/",
+      "research_record": "./research/pedals/PRP Batch 109/BD-2 Blues Driver.md"
     },
     {
       "company": "BOSS",
