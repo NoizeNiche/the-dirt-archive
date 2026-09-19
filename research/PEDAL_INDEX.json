@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-101",
+  "version": "2026-09-19-prp1-batch-102",
   "count": 3821,
   "pedals": [
     {
@@ -7933,8 +7933,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special",
+      "research_record": "./research/pedals/PRP Batch 102/A Very Special Twosome.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -7943,8 +7943,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/blunderbuss",
+      "research_record": "./research/pedals/PRP Batch 102/Blunderbuss Fuzz.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -7953,8 +7953,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/musketfuzz",
+      "research_record": "./research/pedals/PRP Batch 102/Blunderbuss Musket.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -7963,8 +7963,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/crystaldagger",
+      "research_record": "./research/pedals/PRP Batch 102/Crystal Dagger.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -7973,8 +7973,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/mantra/dualgain",
+      "research_record": "./research/pedals/PRP Batch 102/Dual Gain Mantra.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -7984,8 +7984,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz",
+      "research_record": "./research/pedals/PRP Batch 102/Fix'd Fuzz.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -7995,8 +7995,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz/deluxe",
+      "research_record": "./research/pedals/PRP Batch 102/Fix'd Fuzz Deluxe.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -8005,8 +8005,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/fubar",
+      "research_record": "./research/pedals/PRP Batch 102/FUBÄR.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -8015,8 +8015,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.youtube.com/watch?v=5VLgkEhncHg",
+      "research_record": "./research/pedals/PRP Batch 102/Fuzz Bear.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -8025,8 +8025,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/mantra",
+      "research_record": "./research/pedals/PRP Batch 102/Mantra Overdrive.md"
     },
     {
       "company": "BlackOutEffectors",
