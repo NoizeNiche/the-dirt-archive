@@ -282,7 +282,7 @@ function showPhoto(item,label){
   const box=$('photoBox');
   const fallbackLabel=label?'No Photo Archived · '+label:'No Photo Archived';
   if(item && item.image){
-    box.innerHTML='<img src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" style="width:100%;height:100%;object-fit:contain;border-radius:12px" referrerpolicy="no-referrer" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><span hidden>'+esc(fallbackLabel)+'</span>';
+    box.innerHTML='<img src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" style="width:100%;height:100%;object-fit:contain;border-radius:12px" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><span hidden>'+esc(fallbackLabel)+'</span>';
     box.style.padding='10px';
   }else{
     box.innerHTML='<span>'+esc(fallbackLabel)+'</span>';
@@ -296,7 +296,7 @@ function renderColorways(item, colorways){
   $('colorways').innerHTML=colorways.map((v,i)=>{
     const name=v.variation_name||v.pedal||('Variation '+(i+1));
     const media=v.image
-      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+name)+'" loading="lazy" referrerpolicy="no-referrer">'
+      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+name)+'" loading="lazy">'
       : '<span>No Photo Archived</span>';
     return '<button class="colorwayCard" type="button" data-variation="'+esc(name)+'">'+
       '<span class="colorwayThumb">'+media+'</span><span class="colorwayName">'+esc(name)+'</span>'+
@@ -325,7 +325,7 @@ function renderVersions(item, versions){
   $('versions').innerHTML=versions.map(v=>{
     const label=v.version_label||v.pedal;
     const media=v.image
-      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+label)+'" loading="lazy" referrerpolicy="no-referrer">'
+      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+label)+'" loading="lazy">'
       : '<span>No Photo Archived</span>';
     return '<a class="variantCard" href="'+detailUrl(v)+'">'+
       '<span class="variantThumb">'+media+'</span><span class="variantName">'+esc(label)+'</span>'+
