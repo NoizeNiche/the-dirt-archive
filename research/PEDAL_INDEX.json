@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-111",
+  "version": "2026-09-19-prp1-batch-112",
   "count": 3821,
   "pedals": [
     {
@@ -213,9 +213,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "https://www.effectsdatabase.com/model/am/crashcentral",
       "source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
-      "research_record": "./research/pedals/A&M Custom Effects/Crash Central - Crunch Distortion.md"
+      "research_record": "./research/pedals/A&M Custom Effects/Crash Central - Crunch Distortion.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
+      "image_source_url": "https://www.effectsdatabase.com/model/am/crashcentral"
     },
     {
       "company": "A&M Custom Effects",
@@ -223,9 +225,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://www.effectsdatabase.com/model/am/crazyboy",
       "source_page": "https://www.effectsdatabase.com/model/am/crazyboy",
-      "research_record": "./research/pedals/A&M Custom Effects/Crazyboy - Double Fuzz.md"
+      "research_record": "./research/pedals/A&M Custom Effects/Crazyboy - Double Fuzz.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/am/crazyboy",
+      "image_source_url": "https://www.effectsdatabase.com/model/am/crazyboy"
     },
     {
       "company": "A&M Custom Effects",
@@ -233,9 +237,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "https://www.effectsdatabase.com/model/am/metalmaniac",
       "source_page": "https://www.effectsdatabase.com/model/am/metalmaniac",
-      "research_record": "./research/pedals/A&M Custom Effects/Metal Maniac - Mega Distortion.md"
+      "research_record": "./research/pedals/A&M Custom Effects/Metal Maniac - Mega Distortion.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/am/metalmaniac",
+      "image_source_url": "https://www.effectsdatabase.com/model/am/metalmaniac"
     },
     {
       "company": "A&M Custom Effects",
@@ -243,9 +249,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "https://www.effectsdatabase.com/model/am/twinpro",
       "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
-      "research_record": "./research/pedals/A&M Custom Effects/Twin Pro - Overdrive.md"
+      "research_record": "./research/pedals/A&M Custom Effects/Twin Pro - Overdrive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/am/twinpro",
+      "image_source_url": "https://www.effectsdatabase.com/model/am/twinpro"
     },
     {
       "company": "Abasi Concepts",
@@ -404,9 +412,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "https://www.effectsdatabase.com/model/aboveground/elgriton",
       "source_page": "https://www.effectsdatabase.com/model/aboveground/elgriton",
-      "research_record": "./research/pedals/AboveGroundFX/El Griton Overdrive.md"
+      "research_record": "./research/pedals/AboveGroundFX/El Griton Overdrive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/aboveground/elgriton",
+      "image_source_url": "https://www.effectsdatabase.com/model/aboveground/elgriton"
     },
     {
       "company": "AboveGroundFX",
@@ -414,9 +424,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "https://www.effectsdatabase.com/model/aboveground/rockshard",
       "source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
-      "research_record": "./research/pedals/AboveGroundFX/Rocks Hard.md"
+      "research_record": "./research/pedals/AboveGroundFX/Rocks Hard.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
+      "image_source_url": "https://www.effectsdatabase.com/model/aboveground/rockshard"
     },
     {
       "company": "Absolutely Analog",
@@ -445,9 +457,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "https://www.effectsdatabase.com/model/ac/triplex",
       "source_page": "https://www.effectsdatabase.com/model/ac/triplex",
-      "research_record": "./research/pedals/AC Efectos/Triplex Distortion.md"
+      "research_record": "./research/pedals/AC Efectos/Triplex Distortion.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/ac/triplex",
+      "image_source_url": "https://www.effectsdatabase.com/model/ac/triplex"
     },
     {
       "company": "AC Noises",
@@ -519,9 +533,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "https://www.effectsdatabase.com/model/accel/stompzilla",
       "source_page": "https://www.effectsdatabase.com/model/accel/stompzilla",
-      "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md"
+      "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/accel/stompzilla",
+      "image_source_url": "https://www.effectsdatabase.com/model/accel/stompzilla"
     },
     {
       "company": "Accel Audio",
