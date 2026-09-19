@@ -37,6 +37,7 @@ jobs:
           }
 
           changed = False
+          changed_count = 0
           for key, pedal in catalog_by_key.items():
               research_record = pedal.get('research_record')
               if not research_record:
@@ -51,17 +52,19 @@ jobs:
                       'research_record': research_record,
                   })
                   changed = True
+                  changed_count += 1
                   continue
               if entry.get('research_record') != research_record:
                   entry['research_record'] = research_record
                   changed = True
+                  changed_count += 1
 
           if changed:
               manifest_path.write_text(
                   json.dumps(manifest, ensure_ascii=False, indent=2) + '\n',
                   encoding='utf-8',
               )
-              print('Reconciled research-record links in PEDAL_IMAGES.json without changing image data.')
+              print(f'Reconciled {changed_count} research-record links in PEDAL_IMAGES.json without changing image data.')
           else:
               print('Research-record manifest already synchronized.')
           PY
