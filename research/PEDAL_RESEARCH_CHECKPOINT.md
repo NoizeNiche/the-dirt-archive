@@ -436,3 +436,18 @@ The Azur records are intentionally kept under the cataloged **Azur** builder spe
 
 **Current tracker totals after Batch 068:** **3,821 total / 441 researched / 202 pictured / 202 fully complete / 3,619 incomplete**, with **239** researched pedals waiting only for a confirmed picture. The next exact-order missing-information target is **B85 Audio - Germanium Overdrive**. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later exact-photo recovery.
 
+
+
+## Local photo archive update — September 19, 2026
+
+The PRP photo layer is moving from external runtime image URLs to repository-local cached assets.
+
+The parent pedal owns its primary image at:
+`assets/pedals/{builder-slug}/{pedal-slug}/primary.webp`
+
+Colorways and subordinate editions belong beneath that parent:
+`assets/pedals/{builder-slug}/{pedal-slug}/variants/{variant-slug}.webp`
+
+The original remote image URL remains retained as provenance in `image_source_url`. Public pages are intended to use the local asset rather than depend on the source host.
+
+The image cache workflow is responsible for migration and retry. Deployment validation and the hourly site-health monitor now validate local file existence and the parent/variation storage relationship.
