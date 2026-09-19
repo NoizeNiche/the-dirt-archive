@@ -545,3 +545,14 @@ All ten now have individual Pedal Info research records, exact official Basic Au
 **Next exact-order missing-information target:** **BBE - G Screamer**.
 
 **Parked/non-blocking:** **A.Y.A - Bass Fuzz** remains picture-pending for later exact-photo recovery.
+
+
+## PRP1 batch 076 checkpoint
+
+Batch 076 completed the next ten unfinished records in exact tracker order: **BBE - G Screamer; BearFoot FX - Arctic White Fuzz; BlueBerry Bass Overdrive; Bone Bender MKI Fuzz; Burgundy BossHorn Fuzz; Candy Apple Fuzz; Dyna Red Distortion; Emerald Green Distortion Machine; Emerald Green Overdrive; and Honey Bee Overdrive**.
+
+All ten received individual Pedal Info research records and were synchronized with **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Exact photos were promoted for eight records. G Screamer and Emerald Green Overdrive remain Picture: NEEDED.
+
+**Tracker totals after Batch 076:** **3,821 total / 521 researched / 252 pictured / 252 complete / 3,569 incomplete**, with **269** researched pedals waiting only for confirmed pictures.
+
+**Next regression/research target:** **BearFoot FX - Honey Bee Overdrive Plus**.
