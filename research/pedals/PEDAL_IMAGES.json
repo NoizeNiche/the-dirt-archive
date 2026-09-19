@@ -7816,210 +7816,240 @@
     "pedal": "Om Overdrive",
     "image": null,
     "source_page": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm",
-    "research_record": "./research/pedals/PRP Batch 127/budda-om-overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 127/budda-om-overdrive.md",
+    "image_source_url": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm"
   },
   {
     "builder": "Budda",
     "pedal": "Phatbass",
     "image": null,
     "source_page": "https://yuuto-kannami.com/otoasobi/budda-phatbass",
-    "research_record": "./research/pedals/PRP Batch 127/budda-phatbass.md"
+    "research_record": "./research/pedals/PRP Batch 127/budda-phatbass.md",
+    "image_source_url": "https://yuuto-kannami.com/otoasobi/budda-phatbass"
   },
   {
     "builder": "Budda",
     "pedal": "Phatman",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/budda/phatman",
-    "research_record": "./research/pedals/PRP Batch 127/budda-phatman.md"
+    "research_record": "./research/pedals/PRP Batch 127/budda-phatman.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/budda/phatman"
   },
   {
     "builder": "Budda",
     "pedal": "Zenman",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/budda/2013/zenman",
-    "research_record": "./research/pedals/PRP Batch 127/budda-zenman.md"
+    "research_record": "./research/pedals/PRP Batch 127/budda-zenman.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/budda/2013/zenman"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "Bender MkII",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/taxonomy/term/8/type?page=34",
-    "research_record": "./research/pedals/PRP Batch 127/buffalo-fx-bender-mkii.md"
+    "research_record": "./research/pedals/PRP Batch 127/buffalo-fx-bender-mkii.md",
+    "image_source_url": "https://www.effectsdatabase.com/taxonomy/term/8/type?page=34"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "Carrera Overdrive",
     "image": null,
     "source_page": "https://reverb.com/p/buffalo-fx-carrera-overdrive",
-    "research_record": "./research/pedals/PRP Batch 127/buffalo-fx-carrera-overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 127/buffalo-fx-carrera-overdrive.md",
+    "image_source_url": "https://reverb.com/p/buffalo-fx-carrera-overdrive"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "CVIII - BC108 Silicon Fuzz",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/cviii",
-    "research_record": "./research/pedals/PRP Batch 127/buffalo-fx-cviii-bc108-silicon-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 127/buffalo-fx-cviii-bc108-silicon-fuzz.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/cviii"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "Evolution - 4 Stage Overdrive/Distortion",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/evolution",
-    "research_record": "./research/pedals/PRP Batch 127/buffalo-fx-evolution-4-stage-overdrive-distortion.md"
+    "research_record": "./research/pedals/PRP Batch 127/buffalo-fx-evolution-4-stage-overdrive-distortion.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/evolution"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "Fuzz Face Ge",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge",
-    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-fuzz-face-ge.md"
+    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-fuzz-face-ge.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "Fuzz Face Si",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si",
-    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-fuzz-face-si.md"
+    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-fuzz-face-si.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "Germanium Fuzz",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzz/germanium",
-    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-germanium-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-germanium-fuzz.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/fuzz/germanium"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "M-1 Fuzz",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/m1",
-    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-m-1-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-m-1-fuzz.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/m1"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "Patriot",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/patriot",
-    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-patriot.md"
+    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-patriot.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/patriot"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "RH-X Rams Head - NOS BC239c",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/rhx",
-    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-rh-x-rams-head-nos-bc239c.md"
+    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-rh-x-rams-head-nos-bc239c.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/rhx"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "Stiletto Fuzz",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/stiletto",
-    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-stiletto-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-stiletto-fuzz.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/stiletto"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "Supa Driver",
     "image": null,
     "source_page": "https://reverb.com/item/35751570-buffalo-fx-supa-driver",
-    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-supa-driver.md"
+    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-supa-driver.md",
+    "image_source_url": "https://reverb.com/item/35751570-buffalo-fx-supa-driver"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "Tonebender Mk3",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/park/fuzzsound",
-    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-tonebender-mk3.md"
+    "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-tonebender-mk3.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/park/fuzzsound"
   },
   {
     "builder": "BuGGFX Pedals",
     "pedal": "Raincoat",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/buggfx/raincoat",
-    "research_record": "./research/pedals/PRP Batch 127/buggfx-pedals-raincoat.md"
+    "research_record": "./research/pedals/PRP Batch 127/buggfx-pedals-raincoat.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/buggfx/raincoat"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "250+",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc/250",
-    "research_record": "./research/pedals/PRP Batch 127/build-your-own-clone-250.md"
+    "research_record": "./research/pedals/PRP Batch 127/build-your-own-clone-250.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/byoc/250"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "855 Drive",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc/855drive",
-    "research_record": "./research/pedals/PRP Batch 128/build-your-own-clone-855-drive.md"
+    "research_record": "./research/pedals/PRP Batch 128/build-your-own-clone-855-drive.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/byoc/855drive"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "B.G. Fuzz",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc",
-    "research_record": "./research/pedals/PRP Batch 129/b-g-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 129/b-g-fuzz.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/byoc"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "Bass Overdrive",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc",
-    "research_record": "./research/pedals/PRP Batch 129/bass-overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 129/bass-overdrive.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/byoc"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "Bender Clone",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc",
-    "research_record": "./research/pedals/PRP Batch 129/bender-clone.md"
+    "research_record": "./research/pedals/PRP Batch 129/bender-clone.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/byoc"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "Blue Overdrive",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc",
-    "research_record": "./research/pedals/PRP Batch 129/blue-overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 129/blue-overdrive.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/byoc"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "British Blues Overdrive",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc",
-    "research_record": "./research/pedals/PRP Batch 129/british-blues-overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 129/british-blues-overdrive.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/byoc"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "Classic Overdrive",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc",
-    "research_record": "./research/pedals/PRP Batch 129/classic-overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 129/classic-overdrive.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/byoc"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "Crown Jewel",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc",
-    "research_record": "./research/pedals/PRP Batch 129/crown-jewel.md"
+    "research_record": "./research/pedals/PRP Batch 129/crown-jewel.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/byoc"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "E.S.V. Fuzz",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc",
-    "research_record": "./research/pedals/PRP Batch 129/e-s-v-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 129/e-s-v-fuzz.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/byoc"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "El Distorto Segundo",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc",
-    "research_record": "./research/pedals/PRP Batch 129/el-distorto-segundo.md"
+    "research_record": "./research/pedals/PRP Batch 129/el-distorto-segundo.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/byoc"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "Fuzz Clone",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc",
-    "research_record": "./research/pedals/PRP Batch 129/fuzz-clone.md"
+    "research_record": "./research/pedals/PRP Batch 129/fuzz-clone.md",
+    "image_source_url": "https://www.effectsdatabase.com/model/byoc"
   },
   {
     "builder": "Build Your Own Clone",
