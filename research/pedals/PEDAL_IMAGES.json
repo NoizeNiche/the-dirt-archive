@@ -8190,5 +8190,75 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/byoc/silverpony",
     "research_record": "./research/pedals/PRP Batch 131/silver-pony.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "The Full Circle Bass Fuzz",
+    "image": null,
+    "source_page": "https://reverb.com/item/1225485-b-y-o-c-the-full-circle-bass-fuzz-pre-built-pedal",
+    "research_record": "./research/pedals/PRP Batch 132/the-full-circle-bass-fuzz.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "The Large Beaver",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc/largebeaver",
+    "research_record": "./research/pedals/PRP Batch 132/the-large-beaver.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "The Mimosa",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc",
+    "research_record": "./research/pedals/PRP Batch 132/the-mimosa.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "The Swede",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc/swede",
+    "research_record": "./research/pedals/PRP Batch 132/the-swede.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "Yellow Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc/overdrive/yellow",
+    "research_record": "./research/pedals/PRP Batch 132/yellow-overdrive.md"
+  },
+  {
+    "builder": "Bulinski Effect Pedals",
+    "pedal": "Deluxe Velociraptor Diode Bass Fuzz",
+    "image": null,
+    "source_page": "https://bulinskipedals.com/shop/deluxe-velociraptor-diode-bass-fuzz/",
+    "research_record": "./research/pedals/PRP Batch 132/deluxe-velociraptor-diode-bass-fuzz.md"
+  },
+  {
+    "builder": "Bulinski Effect Pedals",
+    "pedal": "Filth Foundry Guitar Fuzz",
+    "image": null,
+    "source_page": "https://bulinskipedals.com/shop/filth-foundry-guitar-fuzz/",
+    "research_record": "./research/pedals/PRP Batch 132/filth-foundry-guitar-fuzz.md"
+  },
+  {
+    "builder": "Bulinski Effect Pedals",
+    "pedal": "Gnarly Bee",
+    "image": null,
+    "source_page": "https://bulinskipedals.com/shop/gnarly-bee-fuzzrite-clone/",
+    "research_record": "./research/pedals/PRP Batch 132/gnarly-bee.md"
+  },
+  {
+    "builder": "Bulinski Effect Pedals",
+    "pedal": "Hard 80 Distortion",
+    "image": null,
+    "source_page": "https://bulinskipedals.com/shop/hard-80-distortion/",
+    "research_record": "./research/pedals/PRP Batch 132/hard-80-distortion.md"
+  },
+  {
+    "builder": "Bulinski Effect Pedals",
+    "pedal": "RC Bass Fuzz",
+    "image": null,
+    "source_page": "https://www.madeforbass.com/bass-effects-database/",
+    "research_record": "./research/pedals/PRP Batch 132/rc-bass-fuzz.md"
   }
 ]
