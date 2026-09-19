@@ -42,7 +42,7 @@ AC Efectos,Triplex Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/AC
 AC Noises,Arpiona,Fuzz,DONE,DONE,DONE,./research/pedals/AC Noises/Arpiona.md
 AC Noises,Combatti,Distortion,DONE,DONE,DONE,./research/pedals/AC Noises/Combatti.md
 AC Noises,Esplora,Fuzz,DONE,DONE,DONE,./research/pedals/AC Noises/Esplora.md
-AC Noises,Urla,Fuzz,DONE,DONE,DONE,./research/pedals/AC Noises/Urla.md
+AC Noises,Urla,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/AC Noises/Urla.md
 AC Noises,Vola,Overdrive,DONE,DONE,DONE,./research/pedals/AC Noises/Vola.md
 Accel Audio,OD-SS Express Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Accel Audio/OD-SS Express Overdrive.md
 Accel Audio,Stompzilla Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Accel Audio/Stompzilla Fuzz.md
@@ -50,7 +50,7 @@ Accel Audio,Vintage Scream'in Overdrive,Overdrive,DONE,DONE,DONE,./research/peda
 Acid Age Electronics,Acid Pig - LM308 Distortion Unit,Distortion,DONE,DONE,DONE,./research/pedals/Acid Age Electronics/Acid Pig - LM308 Distortion Unit.md
 Acid Fuzz,Acid Fuzzer MkI,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/Acid Fuzzer MkI.md
 Acid Fuzz,Italian Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/Italian Fuzz.md
-Acid Fuzz,Mk1.5,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/Mk1.5.md
+Acid Fuzz,Mk1.5,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Acid Fuzz/Mk1.5.md
 Acid Fuzz,NKT275 Acid Fuzz Face,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/NKT275 Acid Fuzz Face.md
 Acid Fuzz,Professional MkII,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/Professional MkII.md
 Acid Fuzz,Selmer Buzz Tone,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/Selmer Buzz Tone.md
@@ -441,7 +441,7 @@ Baltimore Sonic Research Institute,Radical Conversion - Discrete Opamp Distortio
 Baltimore Sonic Research Institute,TFZ Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Barbarossa,CHIMAERA,Overdrive,DONE,DONE,DONE,./research/pedals/Barbarossa/Chimaera.md
 Barbarossa,CRONUS,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Barbarossa/Cronus.md
-Barbarossa,GARGOYLE,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Barbarossa/GARGOYLE.md
+Barbarossa,GARGOYLE,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Barbarossa/GARGOYLE.md
 Barbarossa,URANUS,Overdrive,DONE,DONE,DONE,./research/pedals/Barbarossa/URANUS.md
 Barber Electronics,1/2 Gainer,Overdrive,DONE,DONE,DONE,./research/pedals/Barber Electronics/1_2_Gainer.md
 Barber Electronics,B-Custom Cool,Overdrive,DONE,DONE,DONE,./research/pedals/Barber Electronics/B-Custom_Cool.md

@@ -730,7 +730,7 @@
   {
     "builder": "Barbarossa",
     "pedal": "GARGOYLE",
-    "image": "https://www.ikebe-gakki.com/Contents/ProductImages/0/858929_LL.jpg",
+    "image": null,
     "source": "Ikebe direct photograph",
     "source_page": "https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=858929&shop=0",
     "research_record": "./research/pedals/Barbarossa/GARGOYLE.md"
@@ -1070,7 +1070,7 @@
   {
     "builder": "AC Noises",
     "pedal": "Urla",
-    "image": "https://www.stars-music.com/medias/ac-noises/cropped-urla-cmos-fuzz-dual-resonant-filter-190162.webp",
+    "image": null,
     "source_page": "https://www.stars-music.com/ac-noises-urla-cmos-fuzz-dual-resonant-filter_190162.html",
     "research_record": "./research/pedals/AC Noises/Urla.md",
     "image_source_page": "https://www.stars-music.com/ac-noises-urla-cmos-fuzz-dual-resonant-filter_190162.html"
@@ -1128,7 +1128,7 @@
   {
     "builder": "Acid Fuzz",
     "pedal": "Mk1.5",
-    "image": "https://files.effectsdatabase.com/gear/thumbs/acidfuzz_mk15_001.jpg",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk15",
     "research_record": "./research/pedals/Acid Fuzz/Mk1.5.md",
     "image_source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk15"
