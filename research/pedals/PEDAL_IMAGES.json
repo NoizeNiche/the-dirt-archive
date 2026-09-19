@@ -562,10 +562,11 @@
   {
     "builder": "Analog Alien",
     "pedal": "FuzzBubble-45",
-    "image": "https://analogalien.com/wp-content/uploads/2019/05/fuzzbubble45-analogalien-5-scaled.jpg",
+    "image": "https://www.chicagomusicexchange.com/cdn/shop/files/analog-alien-effects-and-pedals-fuzz-analog-alien-fuzzbubble-45-fuzz-overdrive-pedal-analog-alien-fuzzbubble-45-fuzz-overdrive-pedal-aa-fb-45-1053537670.jpg?v=1769064507&width=1445",
     "source": "Analog Alien official product photograph",
     "source_page": "https://analogalien.com/product/fuzzbubble-45-overdrive-fuzz-pedal/",
-    "research_record": "./research/pedals/Analog Alien/FuzzBubble_45.md"
+    "research_record": "./research/pedals/Analog Alien/FuzzBubble_45.md",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/analog-alien-fuzzbubble-45-fuzzoverdrive-pedal-2054213"
   },
   {
     "builder": "Analog Man",
@@ -1317,10 +1318,10 @@
   {
     "builder": "Add+ Pedals",
     "pedal": "Ratortion 3 v2",
-    "image": "https://addpluspedals.com/assets/images/ratortion3v2.jpg",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/addplus_ratortion3-v2_001.jpg",
     "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/3/2",
     "research_record": "./research/pedals/Add+ Pedals/Ratortion 3 v2.md",
-    "image_source_page": "https://addpluspedals.com/ratortion.php"
+    "image_source_page": "https://www.addpluspedals.com/ratortion.php"
   },
   {
     "builder": "Add+ Pedals",
