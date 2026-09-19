@@ -524,3 +524,11 @@ Batch 073 completed the next ten unfinished records in exact tracker order, from
 - **Current totals:** 3821 total / 491 researched / 227 pictured / 227 complete / 3594 incomplete.
 - **Waiting on photos:** 264 researched pedals.
 - **Next exact-order missing-information target:** **Baroni Lab - GD Drive**.
+
+## PRP1 batch 074 checkpoint
+
+Batch 074 completed the next ten unfinished records in exact tracker order, from **Baroni Lab - GD Drive** through **Basic Audio - Scarab Deluxe**. All ten now have individual research records synchronized into the public index, photo manifest, and tracker. Exact photos were archived for GD Drive, Moon Sound, Morpheus, The Boutique Muff, Tubes Tone & Drive, Pirk, and Scarab Deluxe. Rat'N Box, Warp Drive, and Overtdrive remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+- **Live tracker totals:** 3821 total / 501 researched / 234 pictured / 234 complete / 3587 incomplete.
+- **Waiting on photos:** 267 researched pedals.
+- **Next exact-order missing-information target:** **Basic Audio - Sharp Tooth**.

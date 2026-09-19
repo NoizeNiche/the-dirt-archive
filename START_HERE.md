@@ -45,15 +45,15 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **491** have pedal information researched
-- **227** have confirmed pictures
-- **227** are fully complete
-- **3,594** remain incomplete
-- **264** are researched but currently waiting only for a confirmed picture
+- **501** have pedal information researched
+- **234** have confirmed pictures
+- **234** are fully complete
+- **3,587** remain incomplete
+- **267** are researched but currently waiting only for a confirmed picture
 - **PRP status:** Active, PRP1 research and photo synchronization pass
-- **Current PRP1 target:** Baroni Lab - GD Drive
-- **PRP1 batch 073:** Ten records from Baltimore Sonic Research Institute Radical Conversion through Baroni Lab Billygoats Muff were researched and synchronized; six exact photos were archived and four remain photo-pending.
-- **Next exact-order missing-information target:** Baroni Lab - GD Drive
+- **Current PRP1 target:** Basic Audio - Sharp Tooth
+- **PRP1 batch 074:** Ten records from Baroni Lab GD Drive through Basic Audio Scarab Deluxe were researched and synchronized; seven exact photos were archived and three remain photo-pending.
+- **Next exact-order missing-information target:** Basic Audio - Sharp Tooth
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
 
@@ -177,3 +177,6 @@ Batch 071 completed ten exact-order PRP targets with synchronized research recor
 
 ## PRP1 batch 073 checkpoint
 Batch 073 completed ten exact-order PRP targets with synchronized research records, photo manifest entries, public index entries, and tracker status. The next target is **Baroni Lab - GD Drive**.
+
+## PRP1 batch 074 checkpoint
+Batch 074 completed ten exact-order PRP targets with synchronized research records, photo manifest entries, public index entries, and tracker status. The next target is **Basic Audio - Sharp Tooth**.

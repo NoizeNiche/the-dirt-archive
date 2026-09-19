@@ -3676,5 +3676,82 @@
     "source_page": "https://baroni-lab.com/shop/pedals/distortion/billygoats-muff/",
     "research_record": "./research/pedals/Baroni Lab/Billygoats Muff.md",
     "image_source_page": "https://baroni-lab.com/shop/pedals/distortion/billygoats-muff/"
+  },
+  {
+    "builder": "Baroni Lab",
+    "pedal": "GD Drive",
+    "image": "https://baroni-lab.com/wp-content/uploads/2017/03/02_PEDAL_03_OVERDRIVE_B01_file_4.jpg",
+    "source_page": "https://baroni-lab.com/pedals/",
+    "research_record": "./research/pedals/Baroni Lab/GD Drive.md",
+    "image_source_page": "https://www.stevesmusiccenter.net/products/baroni-lab-gd-drive"
+  },
+  {
+    "builder": "Baroni Lab",
+    "pedal": "Moon Sound",
+    "image": "https://baroni-lab.com/wp-content/uploads/2017/03/02_Pedals_01_DISTORTION_A01_1_1_7.jpg",
+    "source_page": "https://baroni-lab.com/pedals/",
+    "research_record": "./research/pedals/Baroni Lab/Moon Sound.md",
+    "image_source_page": "https://baroni-lab.com/testimonials/"
+  },
+  {
+    "builder": "Baroni Lab",
+    "pedal": "Morpheus",
+    "image": "https://baroni-lab.com/wp-content/uploads/2017/03/02_Pedals_01_DISTORTION_B01_morpheus_1.jpg",
+    "source_page": "https://baroni-lab.com/shop/pedals/distortion/morpheus/",
+    "research_record": "./research/pedals/Baroni Lab/Morpheus.md",
+    "image_source_page": "https://baroni-lab.com/shop/pedals/distortion/morpheus/"
+  },
+  {
+    "builder": "Baroni Lab",
+    "pedal": "Rat'N Box",
+    "image": null,
+    "source_page": "https://baroni-lab.com/shop/pedals/distortion/ratn-box/",
+    "research_record": "./research/pedals/Baroni Lab/Rat'N Box.md"
+  },
+  {
+    "builder": "Baroni Lab",
+    "pedal": "The Boutique Muff",
+    "image": "https://baroni-lab.com/wp-content/uploads/2017/03/02_Pedals_01_DISTORTION_D01_1_1_2.jpg",
+    "source_page": "https://baroni-lab.com/shop/pedals/distortion/the-boutique-muff/",
+    "research_record": "./research/pedals/Baroni Lab/The Boutique Muff.md",
+    "image_source_page": "https://baroni-lab.com/shop/pedals/distortion/the-boutique-muff/"
+  },
+  {
+    "builder": "Baroni Lab",
+    "pedal": "Tubes Tone & Drive",
+    "image": "https://baroni-lab.com/wp-content/uploads/2017/03/02_PEDAL_03_OVERDRIVE_D01_1_1_3.jpg",
+    "source_page": "https://baroni-lab.com/shop/pedals/overdrive/tubes-tone-drive/",
+    "research_record": "./research/pedals/Baroni Lab/Tubes Tone & Drive.md",
+    "image_source_page": "https://baroni-lab.com/shop/pedals/overdrive/tubes-tone-drive/"
+  },
+  {
+    "builder": "Baroni Lab",
+    "pedal": "Warp Drive",
+    "image": null,
+    "source_page": "https://baroni-lab.com/shop/pedals/overdrive/warp-drive/",
+    "research_record": "./research/pedals/Baroni Lab/Warp Drive.md"
+  },
+  {
+    "builder": "Basic Audio",
+    "pedal": "Overtdrive",
+    "image": null,
+    "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt",
+    "research_record": "./research/pedals/Basic Audio/Overtdrive.md"
+  },
+  {
+    "builder": "Basic Audio",
+    "pedal": "Pirk",
+    "image": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574292054623-XUHJAD1DVXR2AJRM6DT7/DSCF3861-Edit.jpg",
+    "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9",
+    "research_record": "./research/pedals/Basic Audio/Pirk.md",
+    "image_source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9"
+  },
+  {
+    "builder": "Basic Audio",
+    "pedal": "Scarab Deluxe",
+    "image": "https://stangguitars.com/cdn/shop/files/lbhhrbb2r5fhq2skubcm_1024x1024%402x.jpg?v=1732480685",
+    "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6",
+    "research_record": "./research/pedals/Basic Audio/Scarab Deluxe.md",
+    "image_source_page": "https://stangguitars.com/"
   }
 ]

@@ -196,13 +196,13 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 491
-- Pedals with confirmed pictures: 227
-- Fully complete PRP pedals: 227
-- Remaining incomplete pedals: 3594
-- Researched but waiting only for a confirmed picture: 264
+- Pedals with research information: 501
+- Pedals with confirmed pictures: 234
+- Fully complete PRP pedals: 234
+- Remaining incomplete pedals: 3587
+- Researched but waiting only for a confirmed picture: 267
 - PRP status: Active, PRP1 research and photo synchronization pass
-- Current PRP1 target: **Baroni Lab - GD Drive**
+- Current PRP1 target: **Basic Audio - Sharp Tooth**
 
 ## PRP1 batch 030 checkpoint
 
@@ -430,3 +430,6 @@ Batch 072 completed ten exact-order PRP targets. Seven exact-model photos were a
 
 ## Latest PRP1 checkpoint - batch 073
 Batch 073 completed ten exact-order PRP targets. Six exact-model photos were archived; four remain photo-pending. The next target is **Baroni Lab - GD Drive**.
+
+## Latest PRP1 checkpoint - batch 074
+Batch 074 completed ten exact-order PRP targets. Seven exact-model photos were archived; three remain photo-pending. The next target is **Basic Audio - Sharp Tooth**.

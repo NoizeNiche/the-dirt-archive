@@ -469,13 +469,13 @@ Bardic Audio Devices,The Beast,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,
 Barge Concepts,BP-1,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Barge Concepts/BP-1.md
 Baroni Lab,Angry Pig,Distortion,DONE,DONE,DONE,./research/pedals/Baroni Lab/Angry Pig.md
 Baroni Lab,Billygoats Muff,Distortion,DONE,DONE,DONE,./research/pedals/Baroni Lab/Billygoats Muff.md
-Baroni Lab,GD Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-Baroni Lab,Moon Sound,Distortion,NEEDED,NEEDED,NEEDED,
-Baroni Lab,Morpheus,Distortion,NEEDED,NEEDED,NEEDED,
-Baroni Lab,Rat'N Box,Distortion,NEEDED,NEEDED,NEEDED,
-Baroni Lab,The Boutique Muff,Distortion,NEEDED,NEEDED,NEEDED,
-Baroni Lab,Tubes Tone & Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-Baroni Lab,Warp Drive,Overdrive,NEEDED,NEEDED,NEEDED,
+Baroni Lab,GD Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Baroni Lab/GD Drive.md
+Baroni Lab,Moon Sound,Distortion,DONE,DONE,DONE,./research/pedals/Baroni Lab/Moon Sound.md
+Baroni Lab,Morpheus,Distortion,DONE,DONE,DONE,./research/pedals/Baroni Lab/Morpheus.md
+Baroni Lab,Rat'N Box,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Baroni Lab/Rat'N Box.md
+Baroni Lab,The Boutique Muff,Distortion,DONE,DONE,DONE,./research/pedals/Baroni Lab/The Boutique Muff.md
+Baroni Lab,Tubes Tone & Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Baroni Lab/Tubes Tone & Drive.md
+Baroni Lab,Warp Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Baroni Lab/Warp Drive.md
 Basic Audio,Alter-Destiny,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Alter-Destiny.md
 Basic Audio,Blender,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Blender.md
 Basic Audio,Bye-Bias,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Bye-Bias.md
@@ -497,9 +497,9 @@ Basic Audio,Marq Won,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Marq Won.
 Basic Audio,Nonts,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Nonts.md
 Basic Audio,Orpheum,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Orpheum.md
 Basic Audio,Oscix,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Oscix.md
-Basic Audio,Overtdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Basic Audio,Pirk,Fuzz,NEEDED,NEEDED,NEEDED,
-Basic Audio,Scarab Deluxe,Fuzz,NEEDED,NEEDED,NEEDED,
+Basic Audio,Overtdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Basic Audio/Overtdrive.md
+Basic Audio,Pirk,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Pirk.md
+Basic Audio,Scarab Deluxe,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Scarab Deluxe.md
 Basic Audio,Sharp Tooth,Fuzz,NEEDED,NEEDED,NEEDED,
 Basic Audio,Solar Myth,Fuzz,NEEDED,NEEDED,NEEDED,
 Basic Audio,Spooky Tooth,Fuzz,NEEDED,NEEDED,NEEDED,
