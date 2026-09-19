@@ -45,14 +45,15 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **672** have pedal information researched
-- **278** have confirmed pictures
-- **277** are fully complete
-- **3,544** remain incomplete
-- **395** are researched but currently waiting only for a confirmed picture
-- **PRP status:** Active, PRP1 research and photo synchronization pass
-- **Current PRP1 target:** **Biyang - OTD-100 Distortion**
-- **Latest synchronized batch:** PRP1 batch 090
+- **855** have pedal information researched
+- **285** have confirmed pictures
+- **285** are fully complete
+- **3,536** remain incomplete
+- **570** are researched but currently waiting only for a confirmed picture
+- **PRP status:** Active, PRP1 research and photo synchronization pass with local photo caching
+- **Current PRP1 target:** **BOSS - ML-2 Metal Core**
+- **Latest synchronized batch:** PRP1 Batch 110
+- **Photo architecture:** verified photos are being migrated into local per-pedal primary/variant folders; source URLs remain provenance only
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
 
