@@ -97,13 +97,13 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 267
+- Pedals with research information: 277
 - Pedals with confirmed pictures: 167
 - Fully complete PRP pedals: 167
 - Remaining incomplete pedals: 3654
-- Researched but waiting only for a confirmed picture: 100
+- Researched but waiting only for a confirmed picture: 110
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **Amsterdam Cream - Big Eye Fuzz**
+- Current PRP1 target: **AMT Electronics - S-1**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -478,3 +478,7 @@ Batch 048 processed the next three incomplete records in exact website order: **
 
 ## PRP1 batch 047 checkpoint
 Batch 047 processed the next ten active catalog records in exact website order, from **Alexander Pedals - Princess Clang** through **Amplified Nation - Bigger Bloom Overdrive**, while keeping the parked **A.Y.A - Bass Fuzz** non-blocking. New Pedal Info research records were added for all ten and synchronized into the public pedal index, photo/research manifest, and tracker. No exact-model direct image asset met the archive's stable archival-photo standard in this batch, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. Technical fields that could not be established from reliable documentation were left explicitly undocumented rather than guessed. Counts are now **3,821 total / 264 researched / 167 pictured / 167 complete / 3,654 incomplete**, with **97** researched pedals waiting only for confirmed pictures. The next active cursor is **AmpMojo - Skate Fuzz (SKUZZ)**.
+
+## PRP1 batch 049 checkpoint
+
+Batch 049 processed the next ten incomplete records in exact website order: **Amsterdam Cream - Big Eye Fuzz**, **Original Distortion**, **Plain Drive**, then **AMT Electronics - B-1 BG-Sharp**, **BS British Sound**, **CS California Sound**, **DM-3 DistMachine**, **M-1 JM-800**, **R-1 Rectifier**, and **Rammstein RD Distortion Combo Emulator**. All ten received individual research records and were connected to PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. No exact photo was safely confirmed for these models, so all ten remain photo-pending. The next exact-order incomplete target is **AMT Electronics - S-1**.
