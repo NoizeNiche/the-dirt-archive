@@ -8295,7 +8295,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 114/none-promoted-as-a-standalone-manufacturer-supported-identity-in-this-block.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -8441,7 +8441,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 114/none-identified.md"
     },
     {
       "company": "Blackstone Appliances",
@@ -8632,8 +8632,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.bmfeffects.com/products/the-godfather-overdrive",
+      "research_record": "./research/pedals/PRP Batch 114/the-godfather-overdrive.md",
+      "image_source_page": "https://www.bmfeffects.com/products/the-godfather-overdrive",
+      "image_source_url": "https://www.bmfeffects.com/products/the-godfather-overdrive"
     },
     {
       "company": "BMF Effects",
@@ -9277,8 +9279,10 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/boulevard/bdt10",
+      "research_record": "./research/pedals/PRP Batch 114/bdt-10-distortion.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/boulevard/bdt10",
+      "image_source_url": "https://www.effectsdatabase.com/model/boulevard/bdt10"
     },
     {
       "company": "Boulevard",
@@ -9287,8 +9291,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/boulevard/bod10",
+      "research_record": "./research/pedals/PRP Batch 114/bod-10-overdrive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/boulevard/bod10",
+      "image_source_url": "https://www.effectsdatabase.com/model/boulevard/bod10"
     },
     {
       "company": "Boulevard Effects",
@@ -9297,8 +9303,10 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/80160173-boulevard-effects-darkship-fuzz-delay",
+      "research_record": "./research/pedals/PRP Batch 114/darkship.md",
+      "image_source_page": "https://reverb.com/item/80160173-boulevard-effects-darkship-fuzz-delay",
+      "image_source_url": "https://reverb.com/item/80160173-boulevard-effects-darkship-fuzz-delay"
     },
     {
       "company": "Bouteek",
@@ -9307,8 +9315,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bouteek/distorter",
+      "research_record": "./research/pedals/PRP Batch 114/distorter-preamp.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/bouteek/distorter",
+      "image_source_url": "https://www.effectsdatabase.com/model/bouteek/distorter"
     },
     {
       "company": "Bouteek",
@@ -9317,8 +9327,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bouteek/overdriver",
+      "research_record": "./research/pedals/PRP Batch 114/overdriver-preamp.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/bouteek/overdriver",
+      "image_source_url": "https://www.effectsdatabase.com/model/bouteek/overdriver"
     },
     {
       "company": "Bouteek",
@@ -9328,8 +9340,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/updates/weekly/20090921",
+      "research_record": "./research/pedals/PRP Batch 114/twin-drive-and-boost-ultimate-drive-with-fuzz-inject.md",
+      "image_source_page": "https://www.effectsdatabase.com/updates/weekly/20090921",
+      "image_source_url": "https://www.effectsdatabase.com/updates/weekly/20090921"
     },
     {
       "company": "Bowman Audio Endeavors",
@@ -9338,8 +9352,10 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://bowmanaudioendeavors.com/products/bellyacher",
+      "research_record": "./research/pedals/PRP Batch 114/bellyacher.md",
+      "image_source_page": "https://bowmanaudioendeavors.com/products/bellyacher",
+      "image_source_url": "https://bowmanaudioendeavors.com/products/bellyacher"
     },
     {
       "company": "Bowman Audio Endeavors",
@@ -9348,8 +9364,10 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://bowmanaudioendeavors.com/products/odious-fuzz-octave",
+      "research_record": "./research/pedals/PRP Batch 114/odious-fuzz-octave.md",
+      "image_source_page": "https://bowmanaudioendeavors.com/products/odious-fuzz-octave",
+      "image_source_url": "https://bowmanaudioendeavors.com/products/odious-fuzz-octave"
     },
     {
       "company": "Bowman Audio Endeavors",
@@ -9358,8 +9376,10 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.pedal-of-the-day.com/2022/05/13/bowman-audio-endeavors-satans-fingers-fuzz/",
+      "research_record": "./research/pedals/PRP Batch 114/satan-s-fingers-fuzz.md",
+      "image_source_page": "https://www.pedal-of-the-day.com/2022/05/13/bowman-audio-endeavors-satans-fingers-fuzz/",
+      "image_source_url": "https://www.pedal-of-the-day.com/2022/05/13/bowman-audio-endeavors-satans-fingers-fuzz/"
     },
     {
       "company": "Bowman Audio Endeavors",
@@ -9368,8 +9388,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://bowmanaudioendeavors.com/products/the-bowman",
+      "research_record": "./research/pedals/PRP Batch 114/the-bowman-overdrive.md",
+      "image_source_page": "https://bowmanaudioendeavors.com/products/the-bowman",
+      "image_source_url": "https://bowmanaudioendeavors.com/products/the-bowman"
     },
     {
       "company": "BoX",

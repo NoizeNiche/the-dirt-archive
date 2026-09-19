@@ -775,7 +775,7 @@ BlackOutEffectors,FUBÄR,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 102
 BlackOutEffectors,Fuzz Bear,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 102/Fuzz Bear.md
 BlackOutEffectors,Mantra Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 102/Mantra Overdrive.md
 BlackOutEffectors,Musket Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 103/Musket Fuzz.md
-BlackOutEffectors,None promoted as a standalone manufacturer-supported identity in this block,Distortion,NEEDED,NEEDED,NEEDED,
+BlackOutEffectors,None promoted as a standalone manufacturer-supported identity in this block,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/none-promoted-as-a-standalone-manufacturer-supported-identity-in-this-block.md
 BlackOutEffectors,Special Twosome Deluxe,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 103/Special Twosome Deluxe.md
 BlackOutEffectors,Twosome Dual Fuzz,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 103/Twosome Dual Fuzz.md
 Blackstar Amplification,Dept. 10 Dual Distortion,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 103/Dept. 10 Dual Distortion.md
@@ -789,7 +789,7 @@ Blackstar Amplification,LT-DIST,Distortion,DONE,NEEDED,NEEDED,./research/pedals/
 Blackstar Amplification,LT-DRIVE,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/LT-DRIVE.md
 Blackstar Amplification,LT-DUAL,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/LT-DUAL.md
 Blackstar Amplification,LT-METAL,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/LT-METAL.md
-Blackstar Amplification,none identified,Fuzz,NEEDED,NEEDED,NEEDED,
+Blackstar Amplification,none identified,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/none-identified.md
 Blackstone Appliances,Mosfet Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/Mosfet Overdrive.md
 Blakemore Effects,Bi-Polar Octadrive,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/Bi-Polar Octadrive.md
 Blakemore Effects,Deus Ex Machina,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 104/Deus Ex Machina.md
@@ -808,7 +808,7 @@ BMF Effects,Purple Nurple Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/peda
 BMF Effects,Rocket 88 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 105/Rocket 88 Overdrive.md
 BMF Effects,Sisyphuzz Silicon Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 106/Sisyphuzz Silicon Fuzz.md
 BMF Effects,The Godfather II Dual Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 106/The Godfather II Dual Overdrive.md
-BMF Effects,The Godfather Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
+BMF Effects,The Godfather Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/the-godfather-overdrive.md
 BMF Effects,The Great Wide Open Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 106/The Great Wide Open Distortion.md
 BMF Effects,Velvet Hammer Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 106/Velvet Hammer Overdrive.md
 Bob Burt Cabinets & Pedals,Bob Burt AH-1 Allen Hinds Signature Distortion,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 106/Bob Burt AH-1 Allen Hinds Signature Distortion.md
@@ -868,16 +868,16 @@ BOSS,OS-2 OverDrive/Distortion,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Ba
 BOSS,SD-1 SUPER OverDrive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 111/SD-1 SUPER OverDrive.md
 BOSS,SD-1W SUPER OverDrive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 111/SD-1W SUPER OverDrive.md
 BOSS,ST-2 Power Stack,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 111/ST-2 Power Stack.md
-Boulevard,BDT-10 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-Boulevard,BOD-10 Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Boulevard Effects,Darkship,Fuzz,NEEDED,NEEDED,NEEDED,
-Bouteek,Distorter - Preamp,Overdrive,NEEDED,NEEDED,NEEDED,
-Bouteek,Overdriver - Preamp,Overdrive,NEEDED,NEEDED,NEEDED,
-Bouteek,Twin Drive and Boost - Ultimate Drive with Fuzz Inject,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Bowman Audio Endeavors,Bellyacher,Distortion,NEEDED,NEEDED,NEEDED,
-Bowman Audio Endeavors,Odious Fuzz Octave,Fuzz,NEEDED,NEEDED,NEEDED,
-Bowman Audio Endeavors,Satan's Fingers Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Bowman Audio Endeavors,The Bowman Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
+Boulevard,BDT-10 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/bdt-10-distortion.md
+Boulevard,BOD-10 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/bod-10-overdrive.md
+Boulevard Effects,Darkship,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/darkship.md
+Bouteek,Distorter - Preamp,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/distorter-preamp.md
+Bouteek,Overdriver - Preamp,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/overdriver-preamp.md
+Bouteek,Twin Drive and Boost - Ultimate Drive with Fuzz Inject,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/twin-drive-and-boost-ultimate-drive-with-fuzz-inject.md
+Bowman Audio Endeavors,Bellyacher,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/bellyacher.md
+Bowman Audio Endeavors,Odious Fuzz Octave,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/odious-fuzz-octave.md
+Bowman Audio Endeavors,Satan's Fingers Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/satan-s-fingers-fuzz.md
+Bowman Audio Endeavors,The Bowman Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 114/the-bowman-overdrive.md
 BoX,Distortion,Distortion,NEEDED,NEEDED,NEEDED,
 BR Tech,BR-1 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
 BR Tech,Up Scream,Overdrive,NEEDED,NEEDED,NEEDED,
