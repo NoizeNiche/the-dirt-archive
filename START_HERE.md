@@ -240,6 +240,6 @@ All ten now have individual Pedal Info research records synchronized into PEDAL_
 
 **Verified tracker totals:** **3821 total / 1014 researched / 301 pictured / 300 complete / 3521 incomplete / 714 researched-photo-pending**.
 
-**Next exact-order research target:** **Build Your Own Clone - Soaring Skillet - Stereo Pan/Phaser**.
+**Next exact-order research target:** **Build Your Own Clone - The Full Circle Bass Fuzz**.
 
 **Public data version:** 2026-09-19-prp1-byoc-silver-pony.
