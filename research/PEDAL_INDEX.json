@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-066",
+  "version": "2026-09-18-prp1-batch-067",
   "count": 3821,
   "pedals": [
     {
@@ -3899,8 +3899,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://axiomeffects.com/products/axiom-overdrive-preamp-op-1",
+      "research_record": "./research/pedals/AXiom Effects/Overdrive Preamp OP-1.md"
     },
     {
       "company": "Axis Guitar Effects",
@@ -3909,8 +3909,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/axisge/face/mk2",
+      "research_record": "./research/pedals/Axis Guitar Effects/Axis Face MkII.md"
     },
     {
       "company": "Axis Guitar Effects",
@@ -3918,9 +3918,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://files.effectsdatabase.com/gear/thumbs/axisge_skrambler_001.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/axisge/skrambler",
+      "research_record": "./research/pedals/Axis Guitar Effects/Skrambler.md"
     },
     {
       "company": "AXL",
@@ -3929,8 +3929,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/axl/deq2",
+      "research_record": "./research/pedals/AXL/DEQ-2 Distortion EQ.md"
     },
     {
       "company": "AXL",
@@ -3938,9 +3938,9 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.njuskalo.hr/image-w920x690/elektricne-gitare/axl-elektricna-gitara-audiolink-3-midtech-distortion-pedal-dp-1-slika-81131883.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/axl/dp1",
+      "research_record": "./research/pedals/AXL/DP-1 Distortion.md"
     },
     {
       "company": "AXL",
@@ -3950,8 +3950,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/axl/rap5",
+      "research_record": "./research/pedals/AXL/FX-RAP-5 Multi-Effects Pedal.md"
     },
     {
       "company": "AXL",
@@ -3960,8 +3960,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/axl",
+      "research_record": "./research/pedals/AXL/TOD-9 Tube Overdrive.md"
     },
     {
       "company": "Axtar",
@@ -3970,8 +3970,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/axtar/dst5",
+      "research_record": "./research/pedals/Axtar/DIS-5 Distortion.md"
     },
     {
       "company": "Azor",
@@ -3980,8 +3980,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://azorpedal.com",
+      "research_record": "./research/pedals/Azor/AP-302 Distortion Guitar Effect Pedal.md"
     },
     {
       "company": "Azor",
@@ -3989,9 +3989,9 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://azorpedal.com/cdn/shop/products/11_PhysCamera003_800x.jpg?v=1676365069",
+      "source_page": "https://azorpedal.com",
+      "research_record": "./research/pedals/Azor/AP-507 Dog Distortion Guitar Effect Pedal.md"
     },
     {
       "company": "Azor",

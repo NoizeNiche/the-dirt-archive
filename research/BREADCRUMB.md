@@ -475,3 +475,12 @@ Batch 066 is the latest PRP1 synchronization checkpoint. The batch covered the n
 Exact photos are attached for **DS-101, DS-102, FZ-110, OD-102, OBViouS Boost/OD, and Glass Drive**. **MD-102, Gain Chain, DP-1, and FP-1** remain photo-pending and continue to use **No Photo Archived**.
 
 The actual tracker totals are **3,821 total / 421 researched / 197 pictured / 197 complete / 3,624 incomplete**, with **224** researched pedals waiting only for a confirmed picture. The next active missing-information target is **Axis Guitar Effects - Axis Face MkII**. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later photo recovery.
+
+
+## Current live checkpoint override - PRP1 batch 067
+
+Batch 067 is the latest PRP1 synchronization checkpoint. The batch covered the next 10 missing Pedal Info records from **AXiom Effects - Overdrive Preamp OP-1** through **Azor - AP-507 Dog Distortion Guitar Effect Pedal**. All ten research records, public index entries, photo manifest entries, and tracker rows are synchronized.
+
+Exact photos are attached for **Axis Guitar Effects - Skrambler, AXL - DP-1 Distortion, and Azor - AP-507 Dog Distortion Guitar Effect Pedal**. The other seven remain photo-pending and continue to use **No Photo Archived**.
+
+Actual tracker totals are **3,821 total / 431 researched / 200 pictured / 200 complete / 3,621 incomplete**, with **231** researched pedals waiting only for confirmed pictures. The next active missing-information target is **Azor - Distortion Effect Pedal**. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later photo recovery.

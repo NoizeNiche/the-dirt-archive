@@ -97,13 +97,13 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 421
-- Pedals with confirmed pictures: 197
-- Fully complete PRP pedals: 197
-- Remaining incomplete pedals: 3624
-- Researched but waiting only for a confirmed picture: 224
+- Pedals with research information: 431
+- Pedals with confirmed pictures: 200
+- Fully complete PRP pedals: 200
+- Remaining incomplete pedals: 3621
+- Researched but waiting only for a confirmed picture: 231
 - PRP status: Active, PRP1 research and photo synchronization pass
-- Current PRP1 target: **Axis Guitar Effects - Axis Face MkII**
+- Current PRP1 target: **Azor - Distortion Effect Pedal**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -576,3 +576,14 @@ Batch 066 processed the next 10 missing Pedal Info records in exact tracker orde
 All 10 now have individual Pedal Info research records and are synchronized into the public pedal index, research/photo manifest, and tracker. Exact photos were attached for **DS-101, DS-102, FZ-110, OD-102, OBViouS Boost/OD, and Glass Drive**. The remaining photo-pending records are **MD-102, Gain Chain, DP-1, and FP-1**.
 
 Current tracker totals after Batch 066: **3,821 total / 421 researched / 197 pictured / 197 complete / 3,624 incomplete**, with **224** researched pedals waiting only for a confirmed picture. The next active missing-information target is **Axis Guitar Effects - Axis Face MkII**.
+
+
+## PRP1 batch 067 checkpoint
+
+Batch 067 processed the next 10 missing Pedal Info records in exact tracker order: **AXiom Effects - Overdrive Preamp OP-1; Axis Guitar Effects - Axis Face MkII; Axis Guitar Effects - Skrambler; AXL - DEQ-2 Distortion EQ; AXL - DP-1 Distortion; AXL - FX-RAP-5 Multi-Effects Pedal; AXL - TOD-9 Tube Overdrive; Axtar - DIS-5 Distortion; Azor - AP-302 Distortion Guitar Effect Pedal; Azor - AP-507 Dog Distortion Guitar Effect Pedal**.
+
+All 10 now have individual research records and are synchronized into the public pedal index, research/photo manifest, and tracker. Exact photos were attached for **Axis Guitar Effects - Skrambler, AXL - DP-1 Distortion, and Azor - AP-507 Dog Distortion Guitar Effect Pedal**. The other seven remain photo-pending and continue to use **No Photo Archived**.
+
+The Axtar record retains the tracker/catalog identity **DIS-5** while documenting the surviving Effects Database **DST-5** spelling as a source-name discrepancy. The AXL TOD-9 record is kept separate from the unrelated Maxon TOD-9 True Tube Overdrive.
+
+Current tracker totals after Batch 067: **3,821 total / 431 researched / 200 pictured / 200 complete / 3,621 incomplete**, with **231** researched pedals waiting only for a confirmed picture. The next active missing-information target is **Azor - Distortion Effect Pedal**.

@@ -415,3 +415,13 @@ Batch 066 added Pedal Info research for the next 10 exact-order records: **Axces
 Six exact-model photos were attached to the public catalog: **DS-101, DS-102, FZ-110, OD-102, OBViouS Boost/OD, and Glass Drive**. Four remain photo-pending because no stable archive asset was promoted: **MD-102, Gain Chain, DP-1, and FP-1**.
 
 Next active missing-information target: **Axis Guitar Effects - Axis Face MkII**.
+
+
+## PRP1 batch 067 checkpoint
+
+Batch 067 added Pedal Info research for the next 10 exact-order records: **AXiom Effects OP-1; Axis Face MkII; Axis Skrambler; AXL DEQ-2; AXL DP-1; AXL FX-RAP-5; AXL TOD-9; Axtar DIS-5; Azor AP-302; Azor AP-507**.
+
+Three exact-model photos were attached to the public catalog: **Axis Skrambler, AXL DP-1, and Azor AP-507**. Seven remain photo-pending because no stable archive asset was promoted.
+
+The records preserve evidence boundaries, including the Axtar DIS-5/DST-5 naming discrepancy and the distinction between AXL TOD-9 and the separately documented Maxon TOD-9.
+Next active missing-information target: **Azor - Distortion Effect Pedal**.
