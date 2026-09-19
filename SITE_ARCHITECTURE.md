@@ -131,3 +131,24 @@ The visual treatment should enhance browsing without sacrificing readability, fa
 Fix the data relationships and user flows before adding more PRP data.
 
 The repository should be able to grow from thousands of records to a much richer archive without requiring a complete redesign of the data model.
+
+
+## Local photo data model
+
+The photo layer is local-first.
+
+`research/PEDAL_INDEX.json` is the public runtime source for the pedal's primary photograph. For a pictured entry, its `image` field should ultimately contain a local path beneath `assets/pedals/`.
+
+Each model/version owns:
+
+`assets/pedals/{builder-slug}/{pedal-slug}/primary.webp`
+
+Subordinate cosmetic variations belong to that parent directory:
+
+`assets/pedals/{builder-slug}/{pedal-slug}/variants/{variant-slug}.webp`
+
+A variation record keeps its `parent_pedal`, `variation_name`, and related identity metadata in the catalog. A materially different public version remains a separate pedal identity and therefore gets its own image directory.
+
+The original remote image URL is retained separately as `image_source_url`, with `image_source_page` identifying the page used to verify the exact product. These fields are provenance, not public runtime dependencies.
+
+The internal `research/pedals/PEDAL_IMAGES.json` manifest mirrors the same local image path and provenance.
