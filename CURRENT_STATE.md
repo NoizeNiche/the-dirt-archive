@@ -752,6 +752,6 @@ Current tracker checkpoint:
 - Remaining incomplete pedals: **3,544**
 - Researched but waiting only for a confirmed picture: **284**
 - PRP status: Active, PRP1 research and photo synchronization pass
-- Current PRP1 target: **BFFX Boutique Pedals - Demon D** is complete; next exact-order unresolved target is **BFFX Boutique Pedals - Guitarlab1** only if the tracker reflects a missing state. Otherwise continue from the next remaining NEEDED record after batch 080.
+- Current PRP1 target: **Big Ear - Slice of Pie**.
 
 The public catalog data is synchronized through **PRP1 batch 080**. The deployment browser audit should use the next still-unresearched tracker record as its no-research regression target.
