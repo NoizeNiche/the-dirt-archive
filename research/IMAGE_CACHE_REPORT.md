@@ -2,7 +2,7 @@
 
 - Cached in this run: **0**
 - Local images retained/reorganized: **250**
-- Download failures: **53**
+- Download failures: **45**
 
 ## Storage layout
 
@@ -14,18 +14,10 @@
 
 - 1981 Inventions - LVL: https://rvb-img.reverb.com/i/s--G4-8Vm_q--/quality%3Dmedium-low%2Cheight%3D128%2Cwidth%3D128%2Cfit%3Dcover%2Cgravity%3Dbottom%2Ctrim.top%3D487%2Ctrim.left%3D0%2Ctrim.width%3D2803%2Ctrim.height%3D2802/a5ff13a8-98b7-45ec-a407-646cd7618c27.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--G4-8Vm_q--/quality%3Dmedium-low%2Cheight%3D128%2Cwidth%3D128%2Cfit%3Dcover%2Cgravity%3Dbottom%2Ctrim.top%3D487%2Ctrim.left%3D0%2Ctrim.width%3D2803%2Ctrim.height%3D2802/a5ff13a8-98b7-45ec-a407-646cd7618c27.jpg`)
 - 6 Degrees FX - Amplitude Eleven: https://rvb-img.reverb.com/i/s--mEzNv7en--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ysq2jsvoly3i9hdmegqp.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--mEzNv7en--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ysq2jsvoly3i9hdmegqp.jpg`)
-- A&M Custom Effects - Crash Central - Crunch Distortion: https://www.effectsdatabase.com/model/am/crashcentral: <urlopen error timed out> (`https://www.effectsdatabase.com/model/am/crashcentral`)
-- A&M Custom Effects - Crazyboy - Double Fuzz: https://www.effectsdatabase.com/model/am/crazyboy: <urlopen error timed out> (`https://www.effectsdatabase.com/model/am/crazyboy`)
-- A&M Custom Effects - Metal Maniac - Mega Distortion: https://www.effectsdatabase.com/model/am/metalmaniac: <urlopen error timed out> (`https://www.effectsdatabase.com/model/am/metalmaniac`)
-- A&M Custom Effects - Twin Pro - Overdrive: https://www.effectsdatabase.com/model/am/twinpro: <urlopen error timed out> (`https://www.effectsdatabase.com/model/am/twinpro`)
 - A.Y.A - Frontgate Bass Drive: https://rvb-img.reverb.com/i/s--XR2n-LqN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zqe7hhgb6o7hfw9ys8jp.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--XR2n-LqN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zqe7hhgb6o7hfw9ys8jp.jpg`)
-- AC Efectos - Triplex Distortion: https://www.effectsdatabase.com/model/ac/triplex: <urlopen error timed out> (`https://www.effectsdatabase.com/model/ac/triplex`)
 - AC Noises - Combatti: https://rvb-img.reverb.com/i/s--Xqt3uB-C--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/no2qc0u1nbsycrhdwqav.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--Xqt3uB-C--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/no2qc0u1nbsycrhdwqav.jpg`)
 - AC Noises - Esplora: https://rvb-img.reverb.com/i/s--btBDBZyY--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/nuhzffptp8l1lmueazr5.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--btBDBZyY--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/nuhzffptp8l1lmueazr5.jpg`)
 - Abominable Electronics - Toke Machine: https://rvb-img.reverb.com/i/s--jR1hsiI2--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/2a55b249-0458-4491-8c62-b529e54728d7.jpeg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--jR1hsiI2--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/2a55b249-0458-4491-8c62-b529e54728d7.jpeg`)
-- AboveGroundFX - El Griton Overdrive: https://www.effectsdatabase.com/model/aboveground/elgriton: <urlopen error timed out> (`https://www.effectsdatabase.com/model/aboveground/elgriton`)
-- AboveGroundFX - Rocks Hard: https://www.effectsdatabase.com/model/aboveground/rockshard: <urlopen error timed out> (`https://www.effectsdatabase.com/model/aboveground/rockshard`)
-- Accel Audio - Stompzilla Fuzz: https://www.effectsdatabase.com/model/accel/stompzilla: <urlopen error timed out> (`https://www.effectsdatabase.com/model/accel/stompzilla`)
 - Accel Audio - Vintage Scream'in Overdrive: https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp`)
 - Acid Fuzz - Acid Fuzzer MkI: https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg`)
 - Acid Fuzz - Professional MkII: https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg`)
