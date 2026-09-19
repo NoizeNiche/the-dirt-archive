@@ -6096,5 +6096,75 @@
     "image": null,
     "source_page": "https://reverb.com/item/76398570-bmf-effects-rocket-88-overdrive",
     "research_record": "./research/pedals/PRP Batch 105/Rocket 88 Overdrive.md"
+  },
+  {
+    "builder": "BMF Effects",
+    "pedal": "Sisyphuzz Silicon Fuzz",
+    "image": null,
+    "source_page": "https://www.bmfeffects.com/products/sisyphuzz-silicon-fuzz",
+    "research_record": "./research/pedals/PRP Batch 106/Sisyphuzz Silicon Fuzz.md"
+  },
+  {
+    "builder": "BMF Effects",
+    "pedal": "The Godfather II Dual Overdrive",
+    "image": null,
+    "source_page": "https://www.bmfeffects.com/products/the-godfather-ii-dual-overdrive",
+    "research_record": "./research/pedals/PRP Batch 106/The Godfather II Dual Overdrive.md"
+  },
+  {
+    "builder": "BMF Effects",
+    "pedal": "The Great Wide Open Distortion",
+    "image": null,
+    "source_page": "https://www.bmfeffects.com/products/the-great-wide-open-distortion",
+    "research_record": "./research/pedals/PRP Batch 106/The Great Wide Open Distortion.md"
+  },
+  {
+    "builder": "BMF Effects",
+    "pedal": "Velvet Hammer Overdrive",
+    "image": null,
+    "source_page": "https://www.bmfeffects.com/products/velvet-hammer-overdrive",
+    "research_record": "./research/pedals/PRP Batch 106/Velvet Hammer Overdrive.md"
+  },
+  {
+    "builder": "Bob Burt Cabinets & Pedals",
+    "pedal": "Bob Burt AH-1 Allen Hinds Signature Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bobburt/ah1",
+    "research_record": "./research/pedals/PRP Batch 106/Bob Burt AH-1 Allen Hinds Signature Distortion.md"
+  },
+  {
+    "builder": "Bob Burt Cabinets & Pedals",
+    "pedal": "Bob Burt GR8T Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bobburt/gr8t",
+    "research_record": "./research/pedals/PRP Batch 106/Bob Burt GR8T Distortion.md"
+  },
+  {
+    "builder": "Bob Burt Cabinets & Pedals",
+    "pedal": "Bob Burt Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bobburt/overdrive",
+    "research_record": "./research/pedals/PRP Batch 106/Bob Burt Overdrive.md"
+  },
+  {
+    "builder": "Bogner Amplification",
+    "pedal": "Burnley",
+    "image": null,
+    "source_page": "https://www.zikinf.com/manuels/bogner-burnley-manuel-utilisateur-en-65967.pdf",
+    "research_record": "./research/pedals/PRP Batch 106/Bogner Burnley.md"
+  },
+  {
+    "builder": "Bogner Amplification",
+    "pedal": "Ecstasy Blue",
+    "image": null,
+    "source_page": "https://www.musicradar.com/reviews/guitars/bogner-ecstasy-blue-pedal-572592",
+    "research_record": "./research/pedals/PRP Batch 106/Bogner Ecstasy Blue.md"
+  },
+  {
+    "builder": "Bogner Amplification",
+    "pedal": "Ecstasy Red",
+    "image": null,
+    "source_page": "https://jam.ua/files/files/BognerEcstasyRed_Guitar_Pedal_manual.pdf",
+    "research_record": "./research/pedals/PRP Batch 106/Bogner Ecstasy Red.md"
   }
 ]
