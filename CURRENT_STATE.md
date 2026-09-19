@@ -736,3 +736,22 @@ Current tracker checkpoint:
 - Current PRP1 target: **BFFX Boutique Pedals - Demon D**
 
 The site's public data-version markers are now **2026-09-19-prp1-batch-079**. The deployment browser audit's no-research fallback is now **BFFX Boutique Pedals - Demon D**, which remains unresearched in the tracker.
+
+
+## Current PRP1 checkpoint - batch 080
+
+Batch 080 processed the next ten unfinished catalog records in exact tracker order: **BFFX Boutique Pedals - Demon D; Guitarlab1; Kairen; Sublime; Bias - BDS-1 Distortion; Bias - Bias Distortion; Bias - Bias Over Drive; Big Bite Fx - Big Bite; Big Ear - Black Betty; and Big Ear - LOAF**.
+
+All ten now have individual Pedal Info research records and were synchronized with **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. No new photo was promoted in this batch because no stable exact-model direct image asset met the archive's image standard during the research pass. All ten therefore remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+Current tracker checkpoint:
+- Unique pedals in website catalog: **3,821**
+- Pedals with research information: **561**
+- Pedals with confirmed pictures: **277**
+- Fully complete PRP pedals: **277**
+- Remaining incomplete pedals: **3,544**
+- Researched but waiting only for a confirmed picture: **284**
+- PRP status: Active, PRP1 research and photo synchronization pass
+- Current PRP1 target: **BFFX Boutique Pedals - Demon D** is complete; next exact-order unresolved target is **BFFX Boutique Pedals - Guitarlab1** only if the tracker reflects a missing state. Otherwise continue from the next remaining NEEDED record after batch 080.
+
+The public catalog data is synchronized through **PRP1 batch 080**. The deployment browser audit should use the next still-unresearched tracker record as its no-research regression target.
