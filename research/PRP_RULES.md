@@ -395,3 +395,8 @@ Batch 045 advanced the active PRP1 queue through the next 10 incomplete catalog 
 ## Current live checkpoint override - PRP1 batch 058
 
 The latest durable PRP1 checkpoint is **Batch 058**. The active queue now points to **Arcane Analog - BC108 Fuzz Face**. Current tracker totals are **3,821 total / 344 researched / 185 pictured / 185 complete / 3,636 incomplete**, with **159** researched pedals waiting only for confirmed photos. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later exact-photo recovery.
+
+
+## Current live checkpoint override - PRP1 batch 058
+
+The latest durable PRP1 checkpoint is **Batch 058**. The active queue now points to **Arcane Analog - BC108 Fuzz Face**. Current tracker totals are **3,821 total / 344 researched / 185 pictured / 185 complete / 3,636 incomplete**, with **159** researched pedals waiting only for confirmed photos. **A.Y.A - Bass Fuzz** remains parked/non-blocking for later exact-photo recovery.
