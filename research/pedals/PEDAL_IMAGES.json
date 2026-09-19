@@ -5746,5 +5746,75 @@
     "source": "verified research source",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 100/Nazgul MKII Parallel Distortion and Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Pi π Bass Fuzz",
+    "image": null,
+    "source_page": "https://www.blackhawkamplifiers.com/product/pi-bass-fuzz-russian",
+    "research_record": "./research/pedals/PRP Batch 101/Pi π Bass Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Pi π Fuzz",
+    "image": null,
+    "source_page": "https://www.blackhawkamplifiers.com/product/pi-fuzz-mkii",
+    "research_record": "./research/pedals/PRP Batch 101/Pi π Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Ramshead Fuzz",
+    "image": null,
+    "source_page": "https://reverb.com/item/75995463-blackhawk-amplifiers-ram-s-head-big-muff-fuzz-pedal",
+    "research_record": "./research/pedals/PRP Batch 101/Ramshead Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Svarog Fuzz",
+    "image": null,
+    "source_page": "https://www.blackhawkamplifiers.com/product/svarog-fuzz-mkii-v3",
+    "research_record": "./research/pedals/PRP Batch 101/Svarog Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Triangle Fuzz",
+    "image": null,
+    "source_page": "https://reverb.com/item/56428935-blackhawk-triangle-pi-fuzz",
+    "research_record": "./research/pedals/PRP Batch 101/Triangle Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Uruk-Hai MKII {Parallel} Drive & Fuzz",
+    "image": null,
+    "source_page": "https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii",
+    "research_record": "./research/pedals/PRP Batch 101/Uruk-Hai MKII Parallel Drive & Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Valhalla Fuzz",
+    "image": null,
+    "source_page": "https://reverb.com/item/76845976-blackhawk-valhalla-fuzz-hand-wired-point-to-point",
+    "research_record": "./research/pedals/PRP Batch 101/Valhalla Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Valkyrie Drive",
+    "image": null,
+    "source_page": "https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii",
+    "research_record": "./research/pedals/PRP Batch 101/Valkyrie Drive.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Windhand LBM Fuzz",
+    "image": null,
+    "source_page": "https://www.blackhawkamplifiers.com/product/windhand-lbm-fuzz",
+    "research_record": "./research/pedals/PRP Batch 101/Windhand LBM Fuzz.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "A Seriously Special Twosome",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special/seriously",
+    "research_record": "./research/pedals/PRP Batch 101/A Seriously Special Twosome.md"
   }
 ]
