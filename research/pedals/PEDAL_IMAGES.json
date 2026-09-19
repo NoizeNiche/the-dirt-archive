@@ -5666,5 +5666,85 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/blackcat/weebuzz",
     "research_record": "./research/pedals/PRP Batch 099/Wee Buzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Balrog Distortion MKII",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 100/Balrog Distortion MKII.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Basilisk Fuzz",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Fellbeast Fuzz",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 100/Fellbeast Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Gandalf Fuzz",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 100/Gandalf Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Green / Black Russian Pi π Fuzz",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 100/Green Black Russian Pi Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Heimdall-2 MKII",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 100/Heimdall-2 MKII.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Heimdall-3 MKII Distortion",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 100/Heimdall-3 MKII Distortion.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Mithrandir Octave Fuzz",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 100/Mithrandir Octave Fuzz.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Morgul Drive MKII",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 100/Morgul Drive MKII.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Nazgûl MKII {Parallel} Distortion and Fuzz",
+    "image": null,
+    "source": "verified research source",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 100/Nazgul MKII Parallel Distortion and Fuzz.md"
   }
 ]
