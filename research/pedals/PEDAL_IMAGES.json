@@ -3993,5 +3993,85 @@
     "source": "verified research source",
     "source_page": "https://www.beetronicsfx.com/products/nectar-tone-sweetener-p-babee-series",
     "research_record": "./research/pedals/Beetronics FX/Nectar Tone Sweetener.md"
+  },
+  {
+    "builder": "Beetronics FX",
+    "pedal": "Octahive V2",
+    "image": "https://www.beetronicsfx.com/cdn/shop/files/OC_01.jpg?v=1685572148&width=1500",
+    "source": "verified research source",
+    "source_page": "https://www.beetronicsfx.com/products/octahive-v2-high-octave-fuzz-p-babee-series",
+    "research_record": "./research/pedals/Beetronics FX/Octahive V2.md"
+  },
+  {
+    "builder": "Beetronics FX",
+    "pedal": "Overhive",
+    "image": "https://www.beetronicsfx.com/cdn/shop/products/NewOverhive_01.jpg?v=1610569103&width=1500",
+    "source": "verified research source",
+    "source_page": "https://www.beetronicsfx.com/products/overhive-standard-series",
+    "research_record": "./research/pedals/Beetronics FX/Overhive.md"
+  },
+  {
+    "builder": "Beetronics FX",
+    "pedal": "Royal Jelly",
+    "image": "https://www.beetronicsfx.com/cdn/shop/products/RJ2021_01.jpg?v=1617996734&width=1500",
+    "source": "verified research source",
+    "source_page": "https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series",
+    "research_record": "./research/pedals/Beetronics FX/Royal Jelly.md"
+  },
+  {
+    "builder": "Beetronics FX",
+    "pedal": "Swarm Fuzz Harmonizer",
+    "image": "https://www.beetronicsfx.com/cdn/shop/products/SW2021_01.jpg?v=1617996863&width=1500",
+    "source": "verified research source",
+    "source_page": "https://www.beetronicsfx.com/products/swarm",
+    "research_record": "./research/pedals/Beetronics FX/Swarm Fuzz Harmonizer.md"
+  },
+  {
+    "builder": "Beetronics FX",
+    "pedal": "Tuna Fuzz",
+    "image": "https://www.beetronicsfx.com/cdn/shop/files/TunaSilver_01_5d3ef360-7055-428a-bf95-ffdd8246b88b.jpg?v=1727192076&width=1500",
+    "source": "verified research source",
+    "source_page": "https://www.beetronicsfx.com/products/tuna-fuzz",
+    "research_record": "./research/pedals/Beetronics FX/Tuna Fuzz.md"
+  },
+  {
+    "builder": "Beetronics FX",
+    "pedal": "Vezzpa Octave Stinger",
+    "image": "https://www.beetronicsfx.com/cdn/shop/products/Vezzpa_01.jpg?v=1618614789&width=1500",
+    "source": "verified research source",
+    "source_page": "https://www.beetronicsfx.com/products/vezzpa-octave-stinger-babee-series",
+    "research_record": "./research/pedals/Beetronics FX/Vezzpa Octave Stinger.md"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "Bass Brassmaster",
+    "image": "https://cdn-media.empowertribe.com/e8512eeea7db4bd38e9189f0d69b6d00/Image_BE_0709-AKU_BASS-BRASSMASTER-FUZZ_Left_XL.png",
+    "source": "verified research source",
+    "source_page": "https://www.behringer.com/en/products/0709-AKU",
+    "research_record": "./research/pedals/Behringer/Bass Brassmaster.md"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "Fuzz Bender",
+    "image": "https://cdn-media.empowertribe.com/f71fd340c69d481c8458bd27a81e408e/Image_BE_0709-AKL_FUZZ-BENDER_Catalog_B.png",
+    "source": "verified research source",
+    "source_page": "https://www.behringer.com/en/products/0709-AKL",
+    "research_record": "./research/pedals/Behringer/Fuzz Bender.md"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "OD300",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.behringer.com/en/products/0709-ADX",
+    "research_record": "./research/pedals/Behringer/OD300.md"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "SF300 Super Fuzz",
+    "image": "https://cdn-media.empowertribe.com/405868682109473884a2ea03df32b205/Image_BE_0709-ACK_SF300_Left_XL.png",
+    "source": "verified research source",
+    "source_page": "https://www.behringer.com/en/products/0709-ACK",
+    "research_record": "./research/pedals/Behringer/SF300 Super Fuzz.md"
   }
 ]
