@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-136",
+  "version": "2026-09-19-prp1-batch-137",
   "count": 3821,
   "pedals": [
     {
@@ -11462,8 +11462,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/fbassdrive-overdrive-de-bajo/",
+      "research_record": "./research/pedals/PRP Batch 137/fbassdrive.md"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11472,8 +11472,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/fuzz-rbmuff-tbmuff/",
+      "research_record": "./research/pedals/PRP Batch 137/fuzz-rbmuff-tbmuff.md"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11482,8 +11482,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/fuzz-womut-para-bajo/",
+      "research_record": "./research/pedals/PRP Batch 137/fuzz-womut.md"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11492,8 +11492,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/overdrive-bb-pre/",
+      "research_record": "./research/pedals/PRP Batch 137/overdrive-bb-pre.md"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11502,8 +11502,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/overdrive-shoc-mas-booster/",
+      "research_record": "./research/pedals/PRP Batch 137/overdrive-shoc-mas-booster.md"
     },
     {
       "company": "Cajita Stompboxes",
