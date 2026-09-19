@@ -16,7 +16,7 @@ permissions:
 
 concurrency:
   group: dirt-image-cache
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   cache:
@@ -218,6 +218,16 @@ jobs:
 
           print(f"Cached {len(cached)} new images; retained/reorganized {retained_list[0]}; {len(failures)} failures.")
           PY
+
+      - name: Synchronize with latest main
+        run: |
+          # The cache can take a while. Rebase any newer documentation/site
+          # commits before creating the cache commit so the result is never
+          # based on a stale main branch.
+          git stash push -u -m "image-cache-work"
+          git fetch origin main
+          git rebase origin/main
+          git stash pop || true
 
       - name: Commit cached images
         run: |
