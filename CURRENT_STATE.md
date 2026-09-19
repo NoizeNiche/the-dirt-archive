@@ -1085,3 +1085,16 @@ All ten now have individual Pedal Info research records synchronized into **PEDA
 **Next exact-order research target:** **Byron Amplification - Green Concussion Fuzz**.
 
 **Public data version:** **2026-09-19-prp1-batch-133**.
+
+
+## PRP1 Batch 134 checkpoint — September 19, 2026
+
+Batch 134 added **10 consecutive exact-order research records**: **Byron Amplification - Green Concussion Fuzz; Her Majesty Drive/Fuzz; Jabberwocky Distortion; Lil' Shaman Overdrive; Pai Mei Fuzz; Phattie Overdrive; Poder Del Alma Fuzz; POW! Boost/Drive and Fuzz; Shearling Overdrive; and Viper Ninja Overdrive**.
+
+The pass stayed conservative where Byron's catalog did not expose technical documentation. Jabberwocky, Lil' Shaman, Phattie, and Viper Ninja received documented technical details; the remaining records retain only claims supported by the manufacturer catalog. No questionable photo was promoted.
+
+**Verified tracker totals:** **3,821 total / 1042 researched / 303 pictured / 300 complete / 3521 incomplete / 739 researched-photo-pending**.
+
+**Next exact-order research target:** **BYW Audio - Blacky' Blower**.
+
+**Public data version:** **2026-09-19-prp1-batch-134**.
