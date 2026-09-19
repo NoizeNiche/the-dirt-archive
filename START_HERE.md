@@ -48,13 +48,16 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 - **220** have pedal information researched
 - **162** have confirmed pictures
 - **162** are fully complete
-- **3,661** remain incomplete
+- **3,659** remain incomplete
 - **58** are researched but currently waiting only for a confirmed picture
 - **PRP status:** Active, PRP1 photo-recovery pass
 - **Current PRP1 target:** A.Y.A - Bass Fuzz
 - PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
+
+## PRP1 batch 029 checkpoint
+The first incomplete tracker record remains **A.Y.A - Bass Fuzz**. The exact original-model Mercari photograph was re-confirmed, but no stable direct image asset was safe to promote. Counts remain 3,821 unique, 220 researched, 162 pictured, 162 complete, and 3,659 incomplete; 58 are researched and waiting only for a picture. Do not substitute the later BASS FUZZ II. 
 
 
 ## Current scrape checkpoint
