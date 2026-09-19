@@ -964,14 +964,14 @@ BSQ Effects,BO-2 Bulls On - Overdrive/Compressor,Overdrive,DONE,NEEDED,NEEDED,./
 BSQ Effects,DM-2 Dynamite - Overdrive/Compressor,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 118/bsq-effects-dm-2-dynamite-overdrive-compressor.md
 BSQ Effects,MS-2 Mean Street - Distortion + Booster,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 118/bsq-effects-ms-2-mean-street-distortion-booster.md
 BSQ Effects,SB-1 Scuttle Buttin' - Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 118/bsq-effects-sb-1-scuttle-buttin-overdrive.md
-Budda,Om Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Budda,Phatbass,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Budda,Phatman,Overdrive,NEEDED,NEEDED,NEEDED,
-Budda,Zenman,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Buffalo FX,Bender MkII,Fuzz,NEEDED,NEEDED,NEEDED,
-Buffalo FX,Carrera Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Buffalo FX,CVIII - BC108 Silicon Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Buffalo FX,Evolution - 4 Stage Overdrive/Distortion,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
+Budda,Om Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 127/budda-om-overdrive.md
+Budda,Phatbass,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 127/budda-phatbass.md
+Budda,Phatman,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 127/budda-phatman.md
+Budda,Zenman,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 127/budda-zenman.md
+Buffalo FX,Bender MkII,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 127/buffalo-fx-bender-mkii.md
+Buffalo FX,Carrera Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 127/buffalo-fx-carrera-overdrive.md
+Buffalo FX,CVIII - BC108 Silicon Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 127/buffalo-fx-cviii-bc108-silicon-fuzz.md
+Buffalo FX,Evolution - 4 Stage Overdrive/Distortion,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 127/buffalo-fx-evolution-4-stage-overdrive-distortion.md
 Buffalo FX,Fuzz Face Ge,Fuzz,NEEDED,NEEDED,NEEDED,
 Buffalo FX,Fuzz Face Si,Fuzz,NEEDED,NEEDED,NEEDED,
 Buffalo FX,Germanium Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
@@ -981,8 +981,8 @@ Buffalo FX,RH-X Rams Head - NOS BC239c,Fuzz,NEEDED,NEEDED,NEEDED,
 Buffalo FX,Stiletto Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Buffalo FX,Supa Driver,Overdrive,NEEDED,NEEDED,NEEDED,
 Buffalo FX,Tonebender Mk3,Fuzz,NEEDED,NEEDED,NEEDED,
-BuGGFX Pedals,Raincoat,Distortion / Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Build Your Own Clone,250+,Overdrive,NEEDED,NEEDED,NEEDED,
+BuGGFX Pedals,Raincoat,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 127/buggfx-pedals-raincoat.md
+Build Your Own Clone,250+,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 127/build-your-own-clone-250.md
 Build Your Own Clone,855 Drive,Overdrive,NEEDED,NEEDED,NEEDED,
 Build Your Own Clone,B.G. Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Build Your Own Clone,Bass Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
