@@ -5525,5 +5525,75 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/blackcat/nfuzz",
     "research_record": "./research/pedals/PRP Batch 096/N-Fuzz.md"
+  },
+  {
+    "builder": "BBE",
+    "pedal": "Green Screamer",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 097/Green Screamer.md"
+  },
+  {
+    "builder": "BigNoise Amplification",
+    "pedal": "Dark Distortion",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 097/Dark Distortion.md"
+  },
+  {
+    "builder": "BIXONIC",
+    "pedal": "AXENTRIX A1",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 097/AXENTRIX A1.md"
+  },
+  {
+    "builder": "BIXONIC",
+    "pedal": "AXENTRIX II",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 097/AXENTRIX II.md"
+  },
+  {
+    "builder": "BIXONIC",
+    "pedal": "EXP2000DR",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 097/EXP2000DR.md"
+  },
+  {
+    "builder": "Black Cat Pedals",
+    "pedal": "OD-1 Freddy Fuzz",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 097/OD-1 Freddy Fuzz.md"
+  },
+  {
+    "builder": "Black Cat Pedals",
+    "pedal": "OD-Boost",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 097/OD-Boost.md"
+  },
+  {
+    "builder": "Black Cat Pedals",
+    "pedal": "OD-Fuzz",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 097/OD-Fuzz.md"
+  },
+  {
+    "builder": "Black Cat Pedals",
+    "pedal": "RGDP - Really Great Dirt Pedal",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 097/RGDP - Really Great Dirt Pedal.md"
+  },
+  {
+    "builder": "Black Cat Pedals",
+    "pedal": "Super Fuzz",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 097/Super Fuzz.md"
   }
 ]

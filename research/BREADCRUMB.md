@@ -619,3 +619,11 @@ Batch 096 added 10 researched pedal records in exact order, from **Black Arts To
 Current tracker flags: **725 researched / 276 pictured / 276 complete / 3544 incomplete / 449 researched-photo-pending**.
 
 Next exact-order target: **Black Cat Pedals - OD-1 Freddy Fuzz**.
+
+## PRP1 Batch 097
+
+Batch 097 added 10 researched pedal records in exact order, from **BBE - Green Screamer** through **Black Cat Pedals - Super Fuzz**. All 10 remain photo-pending. Public data version: **2026-09-19-prp1-batch-097**.
+
+Current tracker flags: **735 researched / 276 pictured / 276 complete / 3545 incomplete / 459 researched-photo-pending**.
+
+Next exact-order target: **Black Cat Pedals - OD-Boost**.

@@ -511,7 +511,7 @@ Basic Audio,Tri-Ram Muff,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Tri-R
 Basic Audio,Zippy,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Zippy.md
 Basic Audio,Zonk,Fuzz,DONE,DONE,DONE,./research/pedals/Basic Audio/Zonk.md
 BBE,G Screamer,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/BBE/G Screamer.md
-BBE,Green Screamer,Overdrive,NEEDED,NEEDED,NEEDED,
+BBE,Green Screamer,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/Green Screamer.md
 BearFoot FX,Arctic White Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BearFoot FX/Arctic White Fuzz.md
 BearFoot FX,BlueBerry Bass Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/BearFoot FX/BlueBerry Bass Overdrive.md
 BearFoot FX,Bone Bender MKI Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BearFoot FX/Bone Bender MKI Fuzz.md
@@ -643,7 +643,7 @@ Bigfoot F.X.,Fuzz Hog,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 087/Fu
 Bigfoot F.X.,Spaghetti Western Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 087/Spaghetti Western Fuzz.md
 Bigfoot F.X.,The Humongous Box,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 087/The Humongous Box.md
 BigNoise Amplification,Bulls Eye Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 087/Bulls Eye Overdrive.md
-BigNoise Amplification,Dark Distortion,Distortion,NEEDED,NEEDED,NEEDED,
+BigNoise Amplification,Dark Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/Dark Distortion.md
 BigNoise Amplification,Full Blast Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/Full Blast Overdrive.md
 Billionaire (by Danelectro),Trillion Dollar Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/Trillion Dollar Fuzz.md
 Biltworth,BW-1,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/BW-1.md
@@ -654,9 +654,9 @@ Bispell Audio,TOR,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/T
 Bixonic,Axentrix A1,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/Axentrix A1.md
 Bixonic,Axentrix II,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/Axentrix II.md
 Bixonic,EXP2000DR Clean & Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/EXP2000DR Clean & Drive.md
-BIXONIC,AXENTRIX A1,Distortion / Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-BIXONIC,AXENTRIX II,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
-BIXONIC,EXP2000DR,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
+BIXONIC,AXENTRIX A1,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/AXENTRIX A1.md
+BIXONIC,AXENTRIX II,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/AXENTRIX II.md
+BIXONIC,EXP2000DR,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/EXP2000DR.md
 Biyang,Baby Boom DS-10 Max Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 089/Baby Boom DS-10 Max Distortion.md
 Biyang,Baby Boom FZ-10 Fuzz Star,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 089/Baby Boom FZ-10 Fuzz Star.md
 Biyang,Baby Boom OD-19 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 089/Baby Boom OD-19 Overdrive.md
@@ -729,11 +729,11 @@ Black Cat Pedals,D&S,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 096/D&S
 Black Cat Pedals,Monster K-Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 096/Monster K-Fuzz.md
 Black Cat Pedals,Monster K-Fuzz Stompbox,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 096/Monster K-Fuzz Stompbox.md
 Black Cat Pedals,N-Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 096/N-Fuzz.md
-Black Cat Pedals,OD-1 Freddy Fuzz,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Black Cat Pedals,OD-Boost,Overdrive,NEEDED,NEEDED,NEEDED,
-Black Cat Pedals,OD-Fuzz,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Black Cat Pedals,RGDP - Really Great Dirt Pedal,Distortion / Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Black Cat Pedals,Super Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
+Black Cat Pedals,OD-1 Freddy Fuzz,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/OD-1 Freddy Fuzz.md
+Black Cat Pedals,OD-Boost,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/OD-Boost.md
+Black Cat Pedals,OD-Fuzz,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/OD-Fuzz.md
+Black Cat Pedals,RGDP - Really Great Dirt Pedal,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/RGDP - Really Great Dirt Pedal.md
+Black Cat Pedals,Super Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/Super Fuzz.md
 Black Cat Pedals,Wee Buzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Black Country Customs,BLACKHEATH,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
 Black Country Customs,MONOLITH,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,

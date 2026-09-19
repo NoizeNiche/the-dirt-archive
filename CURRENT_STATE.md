@@ -879,3 +879,15 @@ All ten now have individual Pedal Info research records and were synchronized ac
 **Current PRP1 target:** **Black Cat Pedals - OD-1 Freddy Fuzz**.
 
 **Public data version:** 2026-09-19-prp1-batch-096.
+
+## PRP1 Batch 097 checkpoint
+
+Batch 097 completed the next ten unfinished PRP1 records in exact tracker order: **BBE - Green Screamer; BigNoise Amplification - Dark Distortion; BIXONIC - AXENTRIX A1; AXENTRIX II; EXP2000DR; Black Cat Pedals - OD-1 Freddy Fuzz; OD-Boost; OD-Fuzz; RGDP - Really Great Dirt Pedal; and Super Fuzz**.
+
+All ten now have individual Pedal Info research records and were synchronized across **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. No exact-model image was promoted in this batch, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+**Current tracker flags:** **735 researched / 276 pictured / 276 fully complete / 3545 incomplete**, with **459** researched pedals waiting only for confirmed pictures.
+
+**Current PRP1 target:** **Black Cat Pedals - OD-Boost**.
+
+**Public data version:** 2026-09-19-prp1-batch-097.
