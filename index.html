@@ -496,10 +496,10 @@ main{padding:20px 0 72px}
 const DATA_VERSION = '2026-09-19-prp1-batch-100';
 const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;
 const PAGE_SIZE=72;
+const initialParams=new URLSearchParams(location.search);
 let items=[];let allItems=[];let currentPage=Math.max(1,parseInt(initialParams.get('page')||'1',10)||1);
 let pedalImages=new Map();
 let variationSearchText=new Map();
-const initialParams=new URLSearchParams(location.search);
 let selectedType=initialParams.get('type')||'All';
 let selectedBuilder=initialParams.get('builder')||'';
 let q=initialParams.get('q')||'';
@@ -691,7 +691,7 @@ $('search').value=q;
 $('search').oninput=e=>{
   q=e.target.value.trim();
   selectedBuilder='';
-  shownCount=PAGE_SIZE;
+  currentPage=1;
   syncUrl();
   render();
 };

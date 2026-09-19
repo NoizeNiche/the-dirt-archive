@@ -232,11 +232,26 @@ jobs:
             if (await page.locator('[data-builder]').count() < 2) throw new Error('Builder controls missing.');
             const firstHref = await page.locator('#grid .card').first().getAttribute('href');
             if (!firstHref || !firstHref.includes('pedal-detail.html?builder=')) throw new Error('Catalog card does not link to pedal-detail.html.');
-            if (initialCardCount === 72 && await page.locator('#loadMoreWrap').isHidden() === false) {
-              await page.locator('#loadMore').click();
+            // Pagination must replace the retired Load More behavior.
+            if (await page.locator('#loadMoreWrap').count()) {
+              throw new Error('Retired Load More controls remain on the page.');
+            }
+            if (initialCardCount === 72) {
+              const pagination = page.locator('#paginationWrap');
+              if (await pagination.count() !== 1 || await pagination.isHidden()) {
+                throw new Error('Pagination controls are missing for a multi-page catalog.');
+              }
+              const current = await page.locator('#pagination .pageButton.active').textContent();
+              if ((current || '').trim() !== '1') throw new Error('Pagination did not start on page 1.');
+              const next = page.locator('#pagination .pageButton[data-page="2"]');
+              if (await next.count() !== 1) throw new Error('Page 2 control is missing.');
+              await next.click();
               await page.waitForTimeout(50);
-              const expanded = await page.locator('#grid .card').count();
-              if (expanded <= initialCardCount) throw new Error('Load More did not increase the catalog window.');
+              const pageTwoCount = await page.locator('#grid .card').count();
+              if (!pageTwoCount) throw new Error('Page 2 rendered no catalog cards.');
+              if ((await page.locator('#pagination .pageButton.active').textContent()).trim() !== '2') {
+                throw new Error('Pagination did not advance to page 2.');
+              }
             }
 
             // Search must include variation/colorway names.
