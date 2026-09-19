@@ -966,3 +966,14 @@ The local photo-recovery pipeline was hardened during this pass so provenance UR
 
 **Public data version:** **2026-09-19-prp1-batch-112**.
 
+
+
+## PRP1 Batch 113 repository reconciliation — September 19, 2026
+
+The tracker was parsed as CSV (including quoted fields) and re-counted from the live main branch. The verified totals are **3,821 unique pedals / 865 researched / 295 pictured / 295 fully complete / 3,526 incomplete / 570 researched-photo-pending**.
+
+Batch 113 rechecked the current first ten incomplete records in exact catalog order. No stable direct exact-model image asset met the local archival standard, so no photo status changed. The next exact-order target remains **A&M Custom Effects - Crash Central - Crunch Distortion**.
+
+The repository's earlier checkpoint text that named **BOSS - ML-2 Metal Core** as the current target was stale; the live tracker and latest PRP breadcrumb now establish the A&M record as the active target.
+
+Public data version: **2026-09-19-prp1-batch-113**.
