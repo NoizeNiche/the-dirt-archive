@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-110",
+  "version": "2026-09-19-prp1-local-photo-migration",
   "count": 3821,
   "pedals": [
     {
@@ -39339,5 +39339,6 @@
       "source_page": null,
       "research_record": null
     }
-  ]
+  ],
+  "photo_architecture": "local-first"
 }
