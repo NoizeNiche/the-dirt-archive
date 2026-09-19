@@ -59,3 +59,13 @@ A current used-market listing for **A.Y.A Bass Fuzz II** was rechecked during PR
 
 ## Photo-recovery note
 A 2024 Mercari listing was located showing the original **A.Y.A tokyo japan BASS FUZZ** enclosure. The listing is distinct from the current **BASS FUZZ II** listings and is therefore useful exact-model visual evidence, but a stable direct image asset could not be independently archived for the site. Reference: https://jp.mercari.com/item/m93721008252
+
+
+## PRP1 photo-recovery pass — September 18, 2026 (batch 029)
+
+A fresh image-index search re-confirmed an exact-model photograph of the original **A.Y.A tokyo japan BASS FUZZ** in a Mercari listing (item m93721008252). The photographed enclosure has the same two-control Fuzz/Vol layout documented for the base model and is visibly distinct from the currently circulating **BASS FUZZ II** listings. The image-index result is a useful exact visual reference, but the Mercari page is not currently serving a stable directly retrievable image asset, so no external image URL has been promoted into the archive.
+
+The official A.Y.A product site was also rechecked. Its current product page documents later A.Y.A models such as BM-FUZZ and FrontGate BassDrive, but does not expose a current Bass Fuzz product image. This reinforces the decision to keep the public card at **No Photo Archived** rather than substitute a later or different model.
+
+7. Mercari — A.Y.A tokyo japan BASS FUZZ, item m93721008252: https://jp.mercari.com/item/m93721008252
+8. A.Y.A Tokyo Japan — current products page: https://aya.la.coocan.jp/products_jap.html
