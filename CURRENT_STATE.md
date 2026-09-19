@@ -411,3 +411,9 @@ The photo-recovery pass broadened the search for **A.Y.A - Bass Fuzz** to exact-
 ## PRP1 batch 033 checkpoint
 
 Batch 033 refined the existing **A.Y.A - Bass Fuzz** research record using the original owner's firsthand account. His unit is identified as number 20 of the 30-unit run, and his notes describe a gritty but controlled bass fuzz that retains the instrument's core, projects strongly in a band mix, and has relatively little sustain. No new stable archival image asset was found, so **Picture remains NEEDED / PRP Complete remains NEEDED**. Counts remain **220 researched / 162 pictured / 162 fully complete / 3,659 incomplete**, with **58** researched pedals waiting only for a confirmed picture. The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
+
+
+
+## PRP1 batch 034 checkpoint
+
+Batch 034 widened the photo-recovery window to the first 10 incomplete tracker records, beginning with **A.Y.A - Bass Fuzz** and continuing through **Accel Audio - OD-SS Express Overdrive**. The original A.Y.A Bass Fuzz image was re-confirmed visually, but its source remains unavailable for stable direct retrieval. The remaining nine records were also rechecked across exact-model web/image searches; available hits remain catalog pages or dynamic marketplace/affiliate listings without a safe archival image asset. **No picture status changed.** Counts remain **3,821 total / 220 researched / 162 pictured / 162 complete / 3,659 incomplete**, with **58** researched pedals waiting only for pictures. The first incomplete record remains **A.Y.A - Bass Fuzz**.
