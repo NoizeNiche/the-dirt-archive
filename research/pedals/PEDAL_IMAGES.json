@@ -2516,5 +2516,82 @@
     "source_page": "https://www.arceffects.com/soothsayer",
     "research_record": "./research/pedals/PRP Batch 057/Soothsayer.md",
     "image_source_page": "https://www.arceffects.com/soothsayer"
+  },
+  {
+    "builder": "Arcane Analog",
+    "pedal": "ARCANE ANALOG FF66 FUZZ FACE",
+    "image": "https://rvb-img.reverb.com/i/s--j81VRdN1--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qbr2rqvrkbjea9urcng2.jpg",
+    "source_page": "https://arcaneanalog.bigcartel.com/product/arcane-analog-custom-fuzz-face",
+    "research_record": "./research/pedals/PRP Batch 058/ARCANE ANALOG FF66 FUZZ FACE.md",
+    "image_source_page": "https://reverb.com/item/76767951-arcane-analog-ff-66-in-excellent-condition"
+  },
+  {
+    "builder": "Arcane Analog",
+    "pedal": "BC108 Fuzz Face",
+    "image": null,
+    "source_page": "https://arcaneanalog.bigcartel.com/product/mullard-oc42-fuzz-face",
+    "research_record": "./research/pedals/PRP Batch 058/BC108 Fuzz Face.md"
+  },
+  {
+    "builder": "Arcane Analog",
+    "pedal": "BUZZAROUND OC45 / OC45 / OC43",
+    "image": "https://assets.bigcartel.com/product_images/388325166/20240811_145732.jpg?auto=format&fit=max&w=1000",
+    "source_page": "https://arcaneanalog.bigcartel.com/product/buzzaround",
+    "research_record": "./research/pedals/PRP Batch 058/BUZZAROUND OC45 - OC45 - OC43.md",
+    "image_source_page": "https://arcaneanalog.bigcartel.com/product/buzzaround"
+  },
+  {
+    "builder": "Arcane Analog",
+    "pedal": "BUZZSAW",
+    "image": "https://item-shopping.c.yimg.jp/i/n/guitarplanet_arcane-analog-buzzsaw",
+    "source_page": "https://arcaneanalog.bigcartel.com/product/arcane-analog-dd-v-high-gain-buzzaround",
+    "research_record": "./research/pedals/PRP Batch 058/BUZZSAW.md",
+    "image_source_page": "https://store.shopping.yahoo.co.jp/guitarplanet/arcane-analog-buzzsaw.html"
+  },
+  {
+    "builder": "Arcane Analog",
+    "pedal": "Facebender / Rangbender",
+    "image": "https://www.deluxeguitars.com.au/cdn/shop/products/arcane-facebender_600x.jpg?v=1642176661",
+    "source_page": "https://arcaneanalog.bigcartel.com/product/arcane-analog-facebender-rangemaster-fuzz-face-mkii",
+    "research_record": "./research/pedals/PRP Batch 058/Facebender - Rangbender.md",
+    "image_source_page": "https://www.deluxeguitars.com.au/products/arcane-analog-facebender"
+  },
+  {
+    "builder": "Arcane Analog",
+    "pedal": "NKT775 WHITE FUZZ FACE",
+    "image": "https://assets.bigcartel.com/product_images/385460439/20240622_143726.jpg?auto=format&fit=max&w=1000",
+    "source_page": "https://arcaneanalog.bigcartel.com/product/nkt-white-fuzz-face-daphne-blue",
+    "research_record": "./research/pedals/PRP Batch 058/NKT775 WHITE FUZZ FACE.md",
+    "image_source_page": "https://arcaneanalog.bigcartel.com/product/nkt-white-fuzz-face-daphne-blue"
+  },
+  {
+    "builder": "Arcane Analog",
+    "pedal": "OC42 MK1.5 Tonebender",
+    "image": "https://assets.bigcartel.com/product_images/384915429/IMG_20240509_102516_715_1_.jpg?auto=format&fit=max&w=1000",
+    "source_page": "https://arcaneanalog.bigcartel.com/product/oc42-mk1-5-tonebender",
+    "research_record": "./research/pedals/PRP Batch 058/OC42 MK1.5 Tonebender.md",
+    "image_source_page": "https://arcaneanalog.bigcartel.com/product/oc42-mk1-5-tonebender"
+  },
+  {
+    "builder": "Arcane Analog",
+    "pedal": "Overdrive Overload",
+    "image": null,
+    "source_page": "https://arcaneanalog.bigcartel.com/product/overdrive-overload",
+    "research_record": "./research/pedals/PRP Batch 058/Overdrive Overload.md"
+  },
+  {
+    "builder": "Arcane Analog",
+    "pedal": "TONE BENDERS (MK1 // MK1.5 // MK2 // MK3 // MK4)",
+    "image": null,
+    "source_page": "https://arcaneanalog.bigcartel.com/product/arcane-analog-mki-tonebender",
+    "research_record": "./research/pedals/PRP Batch 058/TONE BENDERS (MK1 - MK1.5 - MK2 - MK3 - MK4).md"
+  },
+  {
+    "builder": "Artisanal Effects",
+    "pedal": "Artisanal Cheese (Big Cheese)",
+    "image": "https://artisanaleffects.com/cdn/shop/files/Bigcheesenew-1.jpg?v=1748801528&width=416",
+    "source_page": "https://artisanaleffects.com/products/artisanal-cheese-big-cheese",
+    "research_record": "./research/pedals/PRP Batch 058/Artisanal Cheese (Big Cheese).md",
+    "image_source_page": "https://artisanaleffects.com/products/artisanal-cheese-big-cheese"
   }
 ]
