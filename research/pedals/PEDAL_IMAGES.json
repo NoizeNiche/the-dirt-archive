@@ -5886,5 +5886,75 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/blackout/mantra",
     "research_record": "./research/pedals/PRP Batch 102/Mantra Overdrive.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "Musket Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/musketfuzz",
+    "research_record": "./research/pedals/PRP Batch 103/Musket Fuzz.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "Special Twosome Deluxe",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special/deluxe",
+    "research_record": "./research/pedals/PRP Batch 103/Special Twosome Deluxe.md"
+  },
+  {
+    "builder": "BlackOutEffectors",
+    "pedal": "Twosome Dual Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackout/twosome",
+    "research_record": "./research/pedals/PRP Batch 103/Twosome Dual Fuzz.md"
+  },
+  {
+    "builder": "Blackstar Amplification",
+    "pedal": "Dept. 10 Dual Distortion",
+    "image": null,
+    "source_page": "https://blackstaramps.com/wp-content/uploads/2021/11/195401M-VA-1-DEPT.-10-DUAL-DISTORTION-OWNERS-MANUAL-04-11-21.pdf",
+    "research_record": "./research/pedals/PRP Batch 103/Dept. 10 Dual Distortion.md"
+  },
+  {
+    "builder": "Blackstar Amplification",
+    "pedal": "Dept. 10 Dual Drive",
+    "image": null,
+    "source_page": "https://www.blackstaramps.com/wp-content/uploads/2021/10/dept-10-dual-drive-owners-manual.pdf",
+    "research_record": "./research/pedals/PRP Batch 103/Dept. 10 Dual Drive.md"
+  },
+  {
+    "builder": "Blackstar Amplification",
+    "pedal": "HT-DIST",
+    "image": null,
+    "source_page": "https://blackstaramps.com/wp-content/uploads/2021/10/ht-dist-handbook.pdf",
+    "research_record": "./research/pedals/PRP Batch 103/HT-DIST.md"
+  },
+  {
+    "builder": "Blackstar Amplification",
+    "pedal": "HT-DISTX",
+    "image": null,
+    "source_page": "https://blackstaramps.com/wp-content/uploads/2021/10/ht-distx-handbook.pdf",
+    "research_record": "./research/pedals/PRP Batch 103/HT-DISTX.md"
+  },
+  {
+    "builder": "Blackstar Amplification",
+    "pedal": "HT-DRIVE",
+    "image": null,
+    "source_page": "https://www.blackstarampsmedia.com/pdf/handbooks/ht-drive-handbook.pdf",
+    "research_record": "./research/pedals/PRP Batch 103/HT-DRIVE.md"
+  },
+  {
+    "builder": "Blackstar Amplification",
+    "pedal": "HT-DUAL",
+    "image": null,
+    "source_page": "https://www.blackstarampsmedia.com/pdf/handbooks/ht-dual-handbook.pdf",
+    "research_record": "./research/pedals/PRP Batch 103/HT-DUAL.md"
+  },
+  {
+    "builder": "Blackstar Amplification",
+    "pedal": "HT-METAL",
+    "image": null,
+    "source_page": "https://blackstaramps.com/wp-content/uploads/2021/10/ht-metal-handbook.pdf",
+    "research_record": "./research/pedals/PRP Batch 103/HT-METAL.md"
   }
 ]
