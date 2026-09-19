@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-133",
+  "version": "2026-09-19-prp1-batch-134",
   "count": 3821,
   "pedals": [
     {
@@ -11198,8 +11198,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 134/green-concussion-fuzz.md",
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -11209,8 +11210,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 134/her-majesty-drive-fuzz.md",
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -11219,8 +11221,9 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 134/jabberwocky-distortion.md",
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -11229,8 +11232,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals/lilshaman",
+      "research_record": "./research/pedals/PRP Batch 134/lil-shaman-overdrive.md",
+      "image_source_page": "https://byronamplification.com/pedals/lilshaman"
     },
     {
       "company": "Byron Amplification",
@@ -11239,8 +11243,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 134/pai-mei-fuzz.md",
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -11249,8 +11254,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 134/phattie-overdrive.md",
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -11259,8 +11265,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 134/poder-del-alma-fuzz.md",
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -11270,8 +11277,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 134/pow-boost-drive-and-fuzz.md",
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -11280,8 +11288,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 134/shearling-overdrive.md",
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -11290,8 +11299,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals/viperninja-champagne",
+      "research_record": "./research/pedals/PRP Batch 134/viper-ninja-overdrive.md",
+      "image_source_page": "https://byronamplification.com/pedals/viperninja-champagne"
     },
     {
       "company": "BYW Audio",
