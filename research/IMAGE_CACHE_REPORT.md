@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **9**
-- Local images retained/reorganized: **255**
+- Cached in this run: **0**
+- Local images retained/reorganized: **264**
 - Download failures: **45**
 
 ## Storage layout
@@ -9,18 +9,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Buzzing Bugs Audio Devices - BB01 Fuzz Pre-Amp -> `./assets/pedals/buzzing-bugs-audio-devices/bb01-fuzz-pre-amp/primary.webp`
-- Buzzing Bugs Audio Devices - BB02 Percolator Fuzz -> `./assets/pedals/buzzing-bugs-audio-devices/bb02-percolator-fuzz/primary.webp`
-- Buzzing Bugs Audio Devices - BB04 Full Range Drive -> `./assets/pedals/buzzing-bugs-audio-devices/bb04-full-range-drive/primary.webp`
-- Buzzing Bugs Audio Devices - Bolster -> `./assets/pedals/buzzing-bugs-audio-devices/bolster/primary.webp`
-- Buzzing Bugs Audio Devices - Mortal Joy - Los Campesinos! Collaboration -> `./assets/pedals/buzzing-bugs-audio-devices/mortal-joy-los-campesinos-collaboration/primary.webp`
-- Byron Amplification - Blood Drive Overdrive -> `./assets/pedals/byron-amplification/blood-drive-overdrive/primary.webp`
-- Byron Amplification - Cabeza Borradora Octave Fuzz -> `./assets/pedals/byron-amplification/cabeza-borradora-octave-fuzz/primary.webp`
-- Byron Amplification - Cowboy Overdrive -> `./assets/pedals/byron-amplification/cowboy-overdrive/primary.webp`
-- Byron Amplification - Dark Arts Drive Overdrive -> `./assets/pedals/byron-amplification/dark-arts-drive-overdrive/primary.webp`
 
 ## Still external / failed
 
