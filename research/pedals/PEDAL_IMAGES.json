@@ -6306,5 +6306,75 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/bootleg/hzm10",
     "research_record": "./research/pedals/PRP Batch 108/HZM-1.0 Hizumi.md"
+  },
+  {
+    "builder": "Boot-Leg Hand Made Effects",
+    "pedal": "HZM-1.2 Hizumi",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bootleg/hzm12",
+    "research_record": "./research/pedals/PRP Batch 109/HZM-1.2 Hizumi.md"
+  },
+  {
+    "builder": "Boot-Leg Hand Made Effects",
+    "pedal": "HZM-2.0 Hizumi Quattro Valvole",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bootleg/hzm20",
+    "research_record": "./research/pedals/PRP Batch 109/HZM-2.0 Hizumi Quattro Valvole.md"
+  },
+  {
+    "builder": "Boot-Leg Hand Made Effects",
+    "pedal": "JBK-1.0 Jaw Breaker",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bootleg/jbk10",
+    "research_record": "./research/pedals/PRP Batch 109/JBK-1.0 Jaw Breaker.md"
+  },
+  {
+    "builder": "Boot-Leg Hand Made Effects",
+    "pedal": "JZF-1.0 Jazz Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bootleg/jzf10",
+    "research_record": "./research/pedals/PRP Batch 109/JZF-1.0 Jazz Fuzz.md"
+  },
+  {
+    "builder": "Boot-Leg Hand Made Effects",
+    "pedal": "RRP-1.0 Rock'n Roll Party",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bootleg/rrp10",
+    "research_record": "./research/pedals/PRP Batch 109/RRP-1.0 Rock'n Roll Party.md"
+  },
+  {
+    "builder": "Boot-Leg Hand Made Effects",
+    "pedal": "RRP-2.0 Rock'n Roll Party",
+    "image": null,
+    "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/20189/",
+    "research_record": "./research/pedals/PRP Batch 109/RRP-2.0 Rock'n Roll Party.md"
+  },
+  {
+    "builder": "Bootlegger Guitar",
+    "pedal": "Shifty's 8 Ball Boost Drive Analog 12AT7",
+    "image": null,
+    "source_page": "https://www.bootleggerguitar.com/pedals",
+    "research_record": "./research/pedals/PRP Batch 109/Shifty's 8 Ball Boost Drive Analog 12AT7.md"
+  },
+  {
+    "builder": "Bootlegger Guitar",
+    "pedal": "Tube Shooter Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/updates/weekly/20161017",
+    "research_record": "./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md"
+  },
+  {
+    "builder": "Bootlegger Guitar",
+    "pedal": "Zapped Up Yours Analog Tube Distortion",
+    "image": null,
+    "source_page": "https://www.bootleggerguitar.com/product-page/tube-distortion-pedal",
+    "research_record": "./research/pedals/PRP Batch 109/Zapped Up Yours Analog Tube Distortion.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "BD-2 Blues Driver",
+    "image": null,
+    "source_page": "https://www.boss.info/global/products/bd-2/",
+    "research_record": "./research/pedals/PRP Batch 109/BD-2 Blues Driver.md"
   }
 ]
