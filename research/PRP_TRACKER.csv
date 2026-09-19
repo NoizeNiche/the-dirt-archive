@@ -397,16 +397,16 @@ B.C. Rich,DMD-1 Digital Metal Distortion,Distortion,DONE,NEEDED,NEEDED,./researc
 B.K. Butler,Tube Driver,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/B.K. Butler/Tube Driver.md
 B85 Audio,Bass Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/B85 Audio/Bass Overdrive.md
 B85 Audio,Fuzz Machine,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/B85 Audio/Fuzz Machine.md
-B85 Audio,Germanium Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-B85 Audio,Germanium Overdrive Deluxe,Overdrive,NEEDED,NEEDED,NEEDED,
-B85 Audio,Gut Ripper,Distortion,NEEDED,NEEDED,NEEDED,
-B85 Audio,Hrom - Bass Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Backbeat Electric,X-Bender,Fuzz,NEEDED,NEEDED,NEEDED,
-Bad Cat,2-Tone,Overdrive,NEEDED,NEEDED,NEEDED,
-Bad Cat,X-Treme Tone,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Bad Penny FX,Morse Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Bad Penny FX,The Fuzz Controller V1,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Bad Penny FX,The Fuzz Controller V2,Fuzz,NEEDED,NEEDED,NEEDED,
+B85 Audio,Germanium Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/B85 Audio/Germanium Overdrive.md
+B85 Audio,Germanium Overdrive Deluxe,Overdrive,DONE,DONE,DONE,./research/pedals/B85 Audio/Germanium Overdrive Deluxe.md
+B85 Audio,Gut Ripper,Distortion,DONE,NEEDED,NEEDED,./research/pedals/B85 Audio/Gut Ripper.md
+B85 Audio,Hrom - Bass Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/B85 Audio/Hrom - Bass Overdrive.md
+Backbeat Electric,X-Bender,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Backbeat Electric/X-Bender.md
+Bad Cat,2-Tone,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Bad Cat/2-Tone.md
+Bad Cat,X-Treme Tone,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Bad Cat/X-Treme Tone.md
+Bad Penny FX,Morse Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Bad Penny FX/Morse Fuzz.md
+Bad Penny FX,The Fuzz Controller V1,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Bad Penny FX/The Fuzz Controller V1.md
+Bad Penny FX,The Fuzz Controller V2,Fuzz,DONE,DONE,DONE,./research/pedals/Bad Penny FX/The Fuzz Controller V2.md
 Bad Penny FX,Wireless Germanium Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Bad Pixel Pedals,Bad Face Silicon,Fuzz,NEEDED,NEEDED,NEEDED,
 Bad Pixel Pedals,Buzzaround Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,

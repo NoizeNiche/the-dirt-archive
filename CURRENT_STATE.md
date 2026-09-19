@@ -95,15 +95,18 @@ Before publishing a batch:
 - publish through GitHub Pages
 - confirm the publishing run succeeds
 
+### PRP1 batch 069 checkpoint
+Batch 069 adds the next 10 unfinished catalog records in exact order: B85 Audio - Germanium Overdrive; B85 Audio - Germanium Overdrive Deluxe; B85 Audio - Gut Ripper; B85 Audio - Hrom - Bass Overdrive; Backbeat Electric - X-Bender; Bad Cat - 2-Tone; Bad Cat - X-Treme Tone; Bad Penny FX - Morse Fuzz; Bad Penny FX - The Fuzz Controller V1; and Bad Penny FX - The Fuzz Controller V2. Two exact photo assets were attached for Germanium Overdrive Deluxe and The Fuzz Controller V2. The eight remaining records stay photo-pending.
+
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 431
-- Pedals with confirmed pictures: 200
-- Fully complete PRP pedals: 200
-- Remaining incomplete pedals: 3621
-- Researched but waiting only for a confirmed picture: 231
+- Pedals with research information: 451
+- Pedals with confirmed pictures: 204
+- Fully complete PRP pedals: 204
+- Remaining incomplete pedals: 3617
+- Researched but waiting only for a confirmed picture: 247
 - PRP status: Active, PRP1 research and photo synchronization pass
-- Current PRP1 target: **Azor - Distortion Effect Pedal**
+- Current PRP1 target: **Bad Penny FX - Wireless Germanium Fuzz**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 

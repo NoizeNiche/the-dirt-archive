@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-068",
+  "version": "2026-09-19-prp1-batch-069",
   "count": 3821,
   "pedals": [
     {
@@ -4100,8 +4100,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.b85audio.cz/germanium-overdrive/",
+      "research_record": "./research/pedals/B85 Audio/Germanium Overdrive.md"
     },
     {
       "company": "B85 Audio",
@@ -4109,9 +4109,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://images.equipboard.com/uploads/item/image/116974/b85-audio-b85-audio-germanium-overdrive-deluxe.jpg?v=1754871071",
+      "source_page": "https://www.b85audio.cz/germanium-overdrive-deluxe/",
+      "research_record": "./research/pedals/B85 Audio/Germanium Overdrive Deluxe.md",
+      "image_source_page": "https://www.b85audio.cz/germanium-overdrive-deluxe/"
     },
     {
       "company": "B85 Audio",
@@ -4120,8 +4121,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.b85audio.cz/gut-ripper/",
+      "research_record": "./research/pedals/B85 Audio/Gut Ripper.md"
     },
     {
       "company": "B85 Audio",
@@ -4130,8 +4131,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/es/item/71638146-b85-audio-hrom",
+      "research_record": "./research/pedals/B85 Audio/Hrom - Bass Overdrive.md"
     },
     {
       "company": "Backbeat Electric",
@@ -4140,8 +4141,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://analogwarcry.blogspot.com/2010/03/mar-monthly-pick-backbeat-electric.html",
+      "research_record": "./research/pedals/Backbeat Electric/X-Bender.md"
     },
     {
       "company": "Bad Cat",
@@ -4150,8 +4151,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.soundpure.com/p/bad-cat-2-tone-foot-pedal/2423",
+      "research_record": "./research/pedals/Bad Cat/2-Tone.md"
     },
     {
       "company": "Bad Cat",
@@ -4161,8 +4162,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://manuzoid.com/manuals/0D5pR-Bad%20Cat%20X-TREME%20TONE%20Operating%20instructions",
+      "research_record": "./research/pedals/Bad Cat/X-Treme Tone.md"
     },
     {
       "company": "Bad Penny FX",
@@ -4171,8 +4172,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://gearhero.com/products/bad-penny-fx-morse-fuzz",
+      "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz.md"
     },
     {
       "company": "Bad Penny FX",
@@ -4182,8 +4183,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/21501892-bad-penny-fx-the-fuzz-controller-2019",
+      "research_record": "./research/pedals/Bad Penny FX/The Fuzz Controller V1.md"
     },
     {
       "company": "Bad Penny FX",
@@ -4191,9 +4192,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://rvb-img.reverb.com/image/upload/s--E8djf9MD--/t_card-square/v1603730743/rzj7uzm62ghqsfvgxyqb.jpg",
+      "source_page": "https://reverb.com/item/36572523-bad-penny-fx-the-fuzz-controller-v2",
+      "research_record": "./research/pedals/Bad Penny FX/The Fuzz Controller V2.md",
+      "image_source_page": "https://reverb.com/item/36572523-bad-penny-fx-the-fuzz-controller-v2"
     },
     {
       "company": "Bad Penny FX",
