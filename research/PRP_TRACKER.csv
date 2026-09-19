@@ -541,16 +541,16 @@ Behringer,Bass Brassmaster,Fuzz,DONE,DONE,DONE,./research/pedals/Behringer/Bass 
 Behringer,Fuzz Bender,Fuzz,DONE,DONE,DONE,./research/pedals/Behringer/Fuzz Bender.md
 Behringer,OD300,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Behringer/OD300.md
 Behringer,SF300 Super Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Behringer/SF300 Super Fuzz.md
-Behringer,UZ400 Ultra Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Benson Amps,Deep Sea Diver Fuzz-Echo,Fuzz,NEEDED,NEEDED,NEEDED,
-Benson Amps,Germanium Fuzz,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Benson Amps,Germanium Preamp Pedal,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Benson Amps,Portable Distortion 424 MKII,Distortion,NEEDED,NEEDED,NEEDED,
-Benson Amps,Preamp Pedal,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Benson Amps,Stonk Box,Fuzz,NEEDED,NEEDED,NEEDED,
-Benson Amps,Störkn B0kš,Fuzz,NEEDED,NEEDED,NEEDED,
-Beta Aivin,BOD-1 Bass Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Beta Aivin,BOD-2 Bass Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
+Behringer,UZ400 Ultra Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Behringer/UZ400 Ultra Fuzz.md
+Benson Amps,Deep Sea Diver Fuzz-Echo,Fuzz,DONE,DONE,DONE,./research/pedals/Benson Amps/Deep Sea Diver Fuzz-Echo.md
+Benson Amps,Germanium Fuzz,Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Benson Amps/Germanium Fuzz.md
+Benson Amps,Germanium Preamp Pedal,Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Benson Amps/Germanium Preamp Pedal.md
+Benson Amps,Portable Distortion 424 MKII,Distortion,DONE,DONE,DONE,./research/pedals/Benson Amps/Portable Distortion 424 MKII.md
+Benson Amps,Preamp Pedal,Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Benson Amps/Preamp Pedal.md
+Benson Amps,Stonk Box,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Benson Amps/Stonk Box.md
+Benson Amps,Störkn B0kš,Fuzz,DONE,DONE,DONE,./research/pedals/Benson Amps/Störkn B0kš.md
+Beta Aivin,BOD-1 Bass Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Beta Aivin/BOD-1 Bass Overdrive.md
+Beta Aivin,BOD-2 Bass Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Beta Aivin/BOD-2 Bass Overdrive.md
 BFFX Boutique Pedals,Demon D,Overdrive,NEEDED,NEEDED,NEEDED,
 BFFX Boutique Pedals,Guitarlab1,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
 BFFX Boutique Pedals,Kairen,Overdrive,NEEDED,NEEDED,NEEDED,
