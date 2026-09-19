@@ -1,0 +1,192 @@
+name: Cache pedal images
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'research/PEDAL_INDEX.json'
+      - 'research/pedals/PEDAL_IMAGES.json'
+      - '.github/workflows/cache-pedal-images.yml'
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dirt-image-cache
+  cancel-in-progress: false
+
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install image tooling
+        run: python -m pip install --disable-pip-version-check pillow
+
+      - name: Download and cache verified pedal images
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python - <<'PY'
+          import hashlib
+          import json
+          import os
+          import time
+          import urllib.request
+          from pathlib import Path
+
+          from PIL import Image, ImageOps
+
+          ROOT = Path(".")
+          INDEX_PATH = ROOT / "research/PEDAL_INDEX.json"
+          MANIFEST_PATH = ROOT / "research/pedals/PEDAL_IMAGES.json"
+          REPORT_PATH = ROOT / "research/IMAGE_CACHE_REPORT.md"
+          ASSET_DIR = ROOT / "assets/pedals"
+          ASSET_DIR.mkdir(parents=True, exist_ok=True)
+
+          catalog = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
+          manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+
+          failures = []
+          cached = []
+          already_local = 0
+
+          def key(builder, pedal):
+              return f"{builder}\0{pedal}"
+
+          def asset_name(builder, pedal):
+              digest = hashlib.sha256(key(builder, pedal).encode("utf-8")).hexdigest()[:24]
+              return f"assets/pedals/{digest}.webp"
+
+          def fetch(url, referer=None):
+              headers = {
+                  "User-Agent": "Mozilla/5.0 (compatible; The Dirt Archive image cache/1.0)",
+                  "Accept": "image/avif,image/webp,image/apng,image/jpeg,image/png,image/*,*/*;q=0.8",
+              }
+              if referer and referer.startswith("http"):
+                  headers["Referer"] = referer
+              req = urllib.request.Request(url, headers=headers)
+              last_error = None
+              for attempt in range(3):
+                  try:
+                      with urllib.request.urlopen(req, timeout=45) as response:
+                          status = getattr(response, "status", 200)
+                          data = response.read()
+                          if status < 200 or status >= 300:
+                              raise RuntimeError(f"HTTP {status}")
+                          if len(data) > 25 * 1024 * 1024:
+                              raise RuntimeError("image exceeds 25 MB download limit")
+                          return data
+                  except Exception as exc:
+                      last_error = exc
+                      time.sleep(2 ** attempt)
+              raise RuntimeError(str(last_error))
+
+          def cache_entry(entry):
+              nonlocal already_local
+              image = entry.get("image")
+              if not image:
+                  return False
+              builder = entry.get("company") or entry.get("builder")
+              pedal = entry.get("pedal")
+              if not builder or not pedal:
+                  return False
+
+              if image.startswith("./assets/pedals/") or image.startswith("assets/pedals/"):
+                  path = ROOT / image.lstrip("./")
+                  if path.exists():
+                      already_local += 1
+                      return False
+                  failures.append((builder, pedal, image, "local cache file is missing"))
+                  return False
+
+              if not image.startswith(("http://", "https://")):
+                  failures.append((builder, pedal, image, "unsupported image URL/path"))
+                  return False
+
+              local = asset_name(builder, pedal)
+              local_path = ROOT / local
+              if local_path.exists():
+                  entry.setdefault("image_source_url", image)
+                  entry["image"] = "./" + local
+                  already_local += 1
+                  return True
+
+              try:
+                  data = fetch(image, entry.get("image_source_page") or entry.get("source_page"))
+                  with Image.open(__import__("io").BytesIO(data)) as source:
+                      img = ImageOps.exif_transpose(source)
+                      if img.width <= 0 or img.height <= 0:
+                          raise RuntimeError("invalid image dimensions")
+                      if "A" in img.getbands():
+                          img = img.convert("RGBA")
+                      else:
+                          img = img.convert("RGB")
+                      img.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
+                      img.save(local_path, "WEBP", quality=88, method=6)
+                  entry["image_source_url"] = image
+                  entry["image"] = "./" + local
+                  cached.append((builder, pedal, local))
+                  return True
+              except Exception as exc:
+                  failures.append((builder, pedal, image, str(exc)))
+                  return False
+
+          # Cache catalog images first.
+          for entry in catalog.get("pedals", []):
+              cache_entry(entry)
+
+          # Mirror the same result into the internal photo manifest.
+          cat_by_key = {
+              key(x.get("company"), x.get("pedal")): x
+              for x in catalog.get("pedals", [])
+          }
+          for entry in manifest:
+              source = cat_by_key.get(key(entry.get("builder"), entry.get("pedal")))
+              if not source:
+                  continue
+              if source.get("image"):
+                  entry["image"] = source.get("image")
+              if source.get("image_source_url"):
+                  entry["image_source_url"] = source.get("image_source_url")
+
+          INDEX_PATH.write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+          MANIFEST_PATH.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
+          lines = [
+              "# Pedal Image Cache Report",
+              "",
+              f"- Cached in this run: **{len(cached)}**",
+              f"- Already local and retained: **{already_local}**",
+              f"- Download failures: **{len(failures)}**",
+              "",
+          ]
+          if cached:
+              lines += ["## Newly cached", ""] + [f"- {b} - {p} -> `{path}`" for b, p, path in cached] + [""]
+          if failures:
+              lines += ["## Still external / failed", ""]
+              lines += [f"- {b} - {p}: {reason} (`{url}`)" for b, p, url, reason in failures]
+              lines += ["", "These records remain usable as external image references until a future cache run succeeds."]
+          else:
+              lines += ["All pictured pedal images are locally cached."]
+          REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+          print(f"Cached {len(cached)} new images; {already_local} already local; {len(failures)} failures.")
+          PY
+
+      - name: Commit cached images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/IMAGE_CACHE_REPORT.md
+          if git diff --cached --quiet; then
+            echo "No image cache changes to commit."
+            exit 0
+          fi
+          git commit -m "Archive verified pedal photos locally"
+          git push
