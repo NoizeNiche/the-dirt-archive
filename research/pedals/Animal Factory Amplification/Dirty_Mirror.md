@@ -4,62 +4,37 @@
 - **Archive parent:** Dirty Mirror
 - **Builder:** Animal Factory Amplification
 - **Catalog type:** Fuzz
-- **Introduction:** current-generation multi-channel pedal
-- **Identity:** One parent containing multiple internal processing sections. Do not split the Burn and Churn sections into separate pedals.
 
 ## What this pedal is
-Dirty Mirror combines several Animal Factory concepts into a single multi-channel fuzz/processing instrument. The **Burn** channel is based on Chemical Burn, while **Churn** uses a heavily modified Big Muff-style circuit; a short pre-fuzz delay, wet/dry paths and modulation controlled by LFO or envelope create additional movement and interaction. [1][2]
+Dirty Mirror is a dual-parallel fuzz pedal built around a Chemical Burn-derived BURN channel and a heavily modified Big Muff Pi-derived CHURN channel, with a delay stage before the fuzz circuits. [1][2]
 
-## Colorways
-- Current production is documented in a black enclosure with multiple controls and three footswitches.
-- Prototype artwork and early presentation are treated as development history, not separate versions.
-
-## Versions and factory modifications
-### Dirty Mirror — current production
-Documented architecture includes:
-- Burn channel
-- Churn channel
-- separate channel/output control systems
-- pre-fuzz short delay
-- wet/dry switching options
-- LFO/envelope modulation
-- MIDI over TRS
-- CV control
-- USB-C power/data functionality
-- relay true bypass [1][2]
-
-### Factory modifications
-- No numbered factory revision was established from the builder material reviewed.
-- Prototype changes are not treated as user/factory MODs unless the builder identifies them as production changes.
+## Versions and factory options
+- Three footswitches and 15 controls.
+- Each fuzz channel can select dry, fully delayed or blended signal.
+- Delay time can be modulated by an envelope follower or LFO. [1]
 
 ## Version changes
-The public development material shows Dirty Mirror moving from prototype work into the current production design, including a substantial control and connectivity set. The archive records the current documented production architecture without inventing V1/V2 labels where the builder has not assigned them. [1]
+- Firmware updates documented in January 2026 include reduced white-LED brightness/glow frequency and relay bypass behavior changes. These are firmware changes, not a new named hardware version. [3]
 
 ## Transistor
-- **Type:** Unknown.
-- No Dirty Mirror-specific semiconductor documentation located.
+- Exact transistor type not established.
 
 ## Diode
-- **Type:** Unknown.
-- No Dirty Mirror-specific diode documentation located.
+- Exact diode type not established.
 
 ## Sound
-Dirty Mirror is less a conventional fuzz pedal than a small modular fuzz environment, with its Burn and Churn channels able to generate very different distorted textures while the delay and modulation sections move those sounds around in time and frequency. The short pre-fuzz delay can produce smeared, shifting, sometimes unstable textures, while the MIDI/CV control makes the character highly programmable. [1][2]
+Dirty Mirror can produce parallel dual-fuzz walls, seasick vibrato, slapback, chorus-like and phasey textures. Its design intentionally targets shoegaze, noise rock and experimental sound. [1][2]
 
 ## Research confidence
 - **Identity:** High
-- **Current architecture:** High
-- **Version history:** Moderate
-- **Transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
+- **Architecture:** High
+- **Exact components:** Unknown
 
 ## Photo
-- **Exact pedal photograph:** Current retailer photograph showing the actual production Dirty Mirror.
-- **Source page:** https://www.schneidersladen.de/en/animal-factory-amplification-dirty-mirror.html
-- **Direct image URL:** Direct raw image URL not isolated in this pass; do not substitute a prototype screenshot.
+- **Exact pedal photograph:** Not independently archived as a stable direct asset.
+- **Status:** No Photo Archived.
 
 ## Sources checked
-1. Animal Factory Amplification — Dirty Mirror: https://www.animalfactoryamplification.com/dirty-mirror/
-2. Animal Factory development article / product notes.
-3. SchneidersLaden — current Dirty Mirror product and photographs: https://www.schneidersladen.de/en/animal-factory-amplification-dirty-mirror.html
+1. Animal Factory Amplification — Dirty Mirror: https://animalfactoryamps.com/products/dirty-mirror
+2. Animal Factory Amplification — Dirty Mirror history: https://animalfactoryamps.com/blogs/news/introducing-dirty-mirror
+3. Animal Factory Amplification — firmware update guide: https://animalfactoryamps.com/blogs/news/updating-the-firmware-on-animal-factory-godeater-ozymandias-and-dirty-mirror-pedals
