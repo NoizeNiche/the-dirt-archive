@@ -8749,5 +8749,85 @@
     "source_page": "https://reverb.com/p/caline-cp-32-clear-veil-overdrive-slash-fuzz",
     "research_record": "./research/pedals/PRP Batch 140/cp-32-clear-veil.md",
     "image_source_page": "https://reverb.com/p/caline-cp-32-clear-veil-overdrive-slash-fuzz"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-34 Headroom - Vintage Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp34",
+    "research_record": "./research/pedals/PRP Batch 141/cp-34-headroom-vintage-distortion.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp34"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-42 Candy Floss Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/candyfloss",
+    "research_record": "./research/pedals/PRP Batch 141/cp-42-candy-floss-fuzz.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/candyfloss"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-43 Pegasus",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp43",
+    "research_record": "./research/pedals/PRP Batch 141/cp-43-pegasus.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp43"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-46 Fuzzy Bear",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp46",
+    "research_record": "./research/pedals/PRP Batch 141/cp-46-fuzzy-bear.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp46"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-49 Midlander",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp49",
+    "research_record": "./research/pedals/PRP Batch 141/cp-49-midlander.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp49"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-50 Central Station / Leon Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp50",
+    "research_record": "./research/pedals/PRP Batch 141/cp-50-central-station-leon-drive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp50"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-501 Osmium - High-Gain Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/osmium",
+    "research_record": "./research/pedals/PRP Batch 141/cp-501-osmium-high-gain-distortion.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/osmium"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-501S Sathanas Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/sathanas",
+    "research_record": "./research/pedals/PRP Batch 141/cp-501s-sathanas-distortion.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/sathanas"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-502 Mellow Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mellowdrive",
+    "research_record": "./research/pedals/PRP Batch 141/cp-502-mellow-drive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/mellowdrive"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-503 Queen Bee Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/queenbee",
+    "research_record": "./research/pedals/PRP Batch 141/cp-503-queen-bee-overdrive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/queenbee"
   }
 ]
