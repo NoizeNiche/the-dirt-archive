@@ -440,14 +440,14 @@ Batch 072 completed ten exact-order PRP targets. Seven exact-model photos were a
 ## Latest PRP1 checkpoint - batch 073
 Batch 073 completed ten exact-order PRP targets. Six exact-model photos were archived; four remain photo-pending. The next target is **Baroni Lab - GD Drive**.
 
-## Latest PRP1 checkpoint — BYOC 250+
+## Latest PRP1 checkpoint — BYOC 855 Drive
 
-PRP continues using flexible working sets. The latest completed pass added **10 consecutive exact-order research records**, from **Budda - Om Overdrive** through **Build Your Own Clone - 250+**. Photo-pending records did not block the research queue.
+PRP is continuing in practical working sets rather than a fixed pedal count. The latest completed pass added **10 consecutive exact-order research records**, from **Buffalo FX - Fuzz Face Ge** through **Build Your Own Clone - 855 Drive**.
 
-The new records are synchronized across individual research files, PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. No photo was marked complete without a confirmed local exact-model image.
+The records are synchronized across individual research files, PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. No photo was marked complete without a confirmed local exact-model image.
 
-**Verified tracker totals:** **3821 total / 975 researched / 300 pictured / 300 complete / 3521 incomplete / 675 researched-photo-pending**.
+**Verified tracker totals:** **3,821 total / 985 researched / 300 pictured / 300 complete / 3,521 incomplete / 685 researched-photo-pending**.
 
-**Next exact-order research target:** **Buffalo FX - Fuzz Face Ge**.
+**Next exact-order research target:** **Build Your Own Clone - B.G. Fuzz**.
 
-**Public data version:** 2026-09-19-prp1-byoc-250.
+**Public data version:** 2026-09-19-prp1-byoc-855.

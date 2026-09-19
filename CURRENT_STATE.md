@@ -1033,3 +1033,12 @@ The latest flexible working set added 10 consecutive research-needed records fro
 Verified totals: **3821 total / 975 researched / 300 pictured / 300 complete / 3521 incomplete / 675 researched-photo-pending**.
 
 Next exact-order research target: **Buffalo FX - Fuzz Face Ge**.
+
+
+## PRP1 BYOC 855 reconciliation — September 19, 2026
+
+The latest flexible working set added 10 consecutive research-needed records from Buffalo FX Fuzz Face Ge through Build Your Own Clone 855 Drive. The live tracker was re-counted after the commit.
+
+Verified totals: **3,821 total / 985 researched / 300 pictured / 300 complete / 3,521 incomplete / 685 researched-photo-pending**.
+
+Next exact-order research target: **Build Your Own Clone - B.G. Fuzz**.
