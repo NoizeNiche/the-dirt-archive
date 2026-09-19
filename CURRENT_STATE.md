@@ -814,3 +814,12 @@ The public catalog data is synchronized through **PRP1 batch 081**. The deployme
 **Running PRP1 count:** 621 researched, 277 pictured, 277 fully complete, 344 researched/photo-pending, 3544 incomplete. Total catalog: 3821.
 
 **Next exact-order target:** Big Tone Music Brewery - Germanium Fuzz Master.
+
+
+## PRP1 Batch 086 checkpoint
+
+**Batch 086 completed:** 12 additional pedals researched and synchronized in exact tracker order: **Big Tone Music Brewery - Germanium Fuzz Master; Germanium FuzzBender; MOSFET Overdrive & Boost; Parametric Overdrive; Royal Beaver; Six Of Swords; Big White Monkey Amps - Howler; Spider 808; Bigfoot Engineering - Anniversary King Fuzz; Bigfoot 15th Anniversary Fuzz; Bigfoot Germanium EQ Drive; Bigfoot Germanium EQ Fuzz**. All 12 remain photo-pending with **No Photo Archived** because no stable exact-model direct image asset was promoted in this pass.
+
+**Running PRP1 count:** 633 researched, 277 pictured, 277 fully complete, 356 researched/photo-pending, 3544 incomplete. Total catalog: 3821.
+
+**Next exact-order target:** Bigfoot Engineering - Bigfoot Germanium Fuzz.

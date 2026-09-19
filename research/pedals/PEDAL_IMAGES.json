@@ -4713,5 +4713,101 @@
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/",
     "research_record": "./research/pedals/PRP Batch 085/Classic Overdrive+.md"
+  },
+  {
+    "builder": "Big Tone Music Brewery",
+    "pedal": "Germanium Fuzz Master",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/bigtone/fuzzmaster",
+    "research_record": "./research/pedals/PRP Batch 086/Germanium Fuzz Master.md"
+  },
+  {
+    "builder": "Big Tone Music Brewery",
+    "pedal": "Germanium FuzzBender",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/bigtone/fuzzbender",
+    "research_record": "./research/pedals/PRP Batch 086/Germanium FuzzBender.md"
+  },
+  {
+    "builder": "Big Tone Music Brewery",
+    "pedal": "MOSFET Overdrive & Boost",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://bigtonemusic.com/mosfet.html",
+    "research_record": "./research/pedals/PRP Batch 086/MOSFET Overdrive & Boost.md"
+  },
+  {
+    "builder": "Big Tone Music Brewery",
+    "pedal": "Parametric Overdrive",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/bigtone/overdrive/parametric",
+    "research_record": "./research/pedals/PRP Batch 086/Parametric Overdrive.md"
+  },
+  {
+    "builder": "Big Tone Music Brewery",
+    "pedal": "Royal Beaver",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/bigtone/royalbeaver",
+    "research_record": "./research/pedals/PRP Batch 086/Royal Beaver.md"
+  },
+  {
+    "builder": "Big Tone Music Brewery",
+    "pedal": "Six Of Swords",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/bigtone/sixofswords",
+    "research_record": "./research/pedals/PRP Batch 086/Six Of Swords.md"
+  },
+  {
+    "builder": "Big White Monkey Amps",
+    "pedal": "Howler",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/bwm/howler",
+    "research_record": "./research/pedals/PRP Batch 086/Howler.md"
+  },
+  {
+    "builder": "Big White Monkey Amps",
+    "pedal": "Spider 808",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.effectsdatabase.com/model/bwm/spider808",
+    "research_record": "./research/pedals/PRP Batch 086/Spider 808.md"
+  },
+  {
+    "builder": "Bigfoot Engineering",
+    "pedal": "Anniversary King Fuzz",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.bigfootengineering.com/ltd.html",
+    "research_record": "./research/pedals/PRP Batch 086/Anniversary King Fuzz.md"
+  },
+  {
+    "builder": "Bigfoot Engineering",
+    "pedal": "Bigfoot 15th Anniversary Fuzz",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.bigfootengineering.com/store/p117/Bigfoot_15th_Anniversary_Fuzz.html",
+    "research_record": "./research/pedals/PRP Batch 086/Bigfoot 15th Anniversary Fuzz.md"
+  },
+  {
+    "builder": "Bigfoot Engineering",
+    "pedal": "Bigfoot Germanium EQ Drive",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.bigfootengineering.com/store/p118/Bigfoot_Germanium_EQ_Drive.html",
+    "research_record": "./research/pedals/PRP Batch 086/Bigfoot Germanium EQ Drive.md"
+  },
+  {
+    "builder": "Bigfoot Engineering",
+    "pedal": "Bigfoot Germanium EQ Fuzz",
+    "image": null,
+    "source": "verified research source",
+    "source_page": "https://www.bigfootengineering.com/ltd.html",
+    "research_record": "./research/pedals/PRP Batch 086/Bigfoot Germanium EQ Fuzz.md"
   }
 ]
