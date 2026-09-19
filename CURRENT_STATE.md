@@ -97,13 +97,13 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 215
-- Pedals with confirmed pictures: 155
-- Fully complete PRP pedals: 155
+- Pedals with research information: 220
+- Pedals with confirmed pictures: 162
+- Fully complete PRP pedals: 162
 - Remaining incomplete pedals: 3659
 - Researched but waiting only for a confirmed picture: 58
 - PRP status: Active, PRP1 photo-recovery pass
-- Current PRP1 target: **AGR Pedals - FZR912 - Muff Fuzz Deluxe**
+- Current PRP1 target: **A.Y.A - Bass Fuzz**
 
 PRP1 batch 006 covered the next ten catalog records in exact order, from **ADA Amps - MP-1 Channel** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
 
@@ -391,3 +391,8 @@ Batch 027 audited the first 10 incomplete records reported by the canonical **PR
 ## PRP1 batch 028 checkpoint
 
 Batch 028 continued the photo-recovery pass on the first unresolved catalog target, **A.Y.A - Bass Fuzz**. A fresh 2024 Mercari listing was found showing the original **A.Y.A tokyo japan BASS FUZZ**, and independent older Japanese references identify the model as a limited 30-unit fuzz. The accessible eBay listings currently circulating are explicitly for **BASS FUZZ II**, so they were not substituted for the base model. The exact original-model visual evidence is now documented in the research record, but a stable direct image asset could not be safely archived from the available sources. **Picture remains NEEDED / PRP Complete remains NEEDED.** The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
+
+
+## PRP1 batch 029 checkpoint
+
+Batch 029 continued the exact-order photo-recovery work on **A.Y.A - Bass Fuzz**. A fresh image-index search re-confirmed an exact photograph of the original A.Y.A tokyo japan BASS FUZZ in the 2024 Mercari listing, while current eBay listings remain explicitly labeled BASS FUZZ II and the current official A.Y.A products page does not expose a Bass Fuzz product image. The exact-model visual evidence is documented in the research record, but no stable directly retrievable image asset was confirmed for archival promotion. **Picture remains NEEDED / PRP Complete remains NEEDED.** Counts remain **220 researched / 162 pictured / 162 fully complete / 3,659 incomplete**, with **58** researched pedals waiting only for a picture. The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
