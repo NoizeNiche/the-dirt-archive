@@ -10171,8 +10171,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/uk/item/4817041-bruce-bennett-music-labs-brown-sound-overdrive-distortion-pedal",
+      "research_record": "./research/pedals/PRP Batch 125/bruce-bennett-music-labs-brown-sound.md",
+      "image_source_page": "https://reverb.com/uk/item/4817041-bruce-bennett-music-labs-brown-sound-overdrive-distortion-pedal",
+      "image_source_url": "https://reverb.com/uk/item/4817041-bruce-bennett-music-labs-brown-sound-overdrive-distortion-pedal"
     },
     {
       "company": "Bruce Bennett Music Labs",
@@ -10181,8 +10183,10 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/bennett/lowball",
+      "research_record": "./research/pedals/PRP Batch 125/bruce-bennett-music-labs-lowball.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/bennett/lowball",
+      "image_source_url": "https://www.effectsdatabase.com/model/bennett/lowball"
     },
     {
       "company": "Brunetti",
@@ -10191,8 +10195,10 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/brunetti/burningbox",
+      "research_record": "./research/pedals/PRP Batch 125/brunetti-burning-box.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/brunetti/burningbox",
+      "image_source_url": "https://www.effectsdatabase.com/model/brunetti/burningbox"
     },
     {
       "company": "Brunetti",
@@ -10202,8 +10208,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/brunetti/mercurybox",
+      "research_record": "./research/pedals/PRP Batch 125/brunetti-mercury-box.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/brunetti/mercurybox",
+      "image_source_url": "https://www.effectsdatabase.com/model/brunetti/mercurybox"
     },
     {
       "company": "Brunetti",
