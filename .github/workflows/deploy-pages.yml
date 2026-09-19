@@ -412,8 +412,8 @@ jobs:
             }
 
             const actionableConsoleErrors = consoleErrors.filter(message => {
-              if (/net::ERR_BLOCKED_BY_RESPONSE\\.NotSameOrigin/i.test(message)) return false;
-              const statuses = [...message.matchAll(/status of (\\d{3})/gi)].map(m => Number(m[1]));
+              if (/net::ERR_BLOCKED_BY_RESPONSE\.NotSameOrigin/i.test(message)) return false;
+              const statuses = [...message.matchAll(/status of (\d{3})/gi)].map(m => Number(m[1]));
               if (statuses.length && statuses.every(status => status === 401 || status === 403 || status === 429 || status >= 500)) return false;
               return true;
             });
