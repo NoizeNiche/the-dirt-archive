@@ -227,7 +227,7 @@ jobs:
           git stash push -u -m "image-cache-work"
           git fetch origin main
           git rebase origin/main
-          git stash pop || true
+          git stash pop
 
       - name: Commit cached images
         run: |
