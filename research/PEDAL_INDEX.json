@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-135",
+  "version": "2026-09-19-prp1-batch-136",
   "count": 3821,
   "pedals": [
     {
@@ -11412,8 +11412,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/brit30-preamplificador-tipo-vox-ac30-overdrive/",
+      "research_record": "./research/pedals/PRP Batch 136/brit30-preamplificador-tipo-vox-ac30-overdrive.md"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11422,8 +11422,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/distorsion-marshall-cr800-jcm-mas-booster/",
+      "research_record": "./research/pedals/PRP Batch 136/distorsion-marshall-cr800-jcm-booster.md"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11432,8 +11432,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/",
+      "research_record": "./research/pedals/PRP Batch 136/distorsion-rat-6-6-modos.md"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11442,8 +11442,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/dr-boogie-distorsion-hi-gain-mesa/",
+      "research_record": "./research/pedals/PRP Batch 136/dr-boogie-distorsion-hi-gain-mesa.md"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11452,8 +11452,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://pedalescajita.mitiendanube.com/productos/dr-boogie-vn-hi-gain-mesa-boogie/",
+      "research_record": "./research/pedals/PRP Batch 136/dr-boogie-vn-hi-gain-mesa-boogie.md"
     },
     {
       "company": "Cajita Stompboxes",
