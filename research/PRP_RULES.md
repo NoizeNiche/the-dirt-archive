@@ -451,3 +451,16 @@ All ten now have individual Pedal Info research records synchronized into PEDAL_
 **Next exact-order research target:** **Build Your Own Clone - Li'l Modified Overdrive**.
 
 **Public data version:** 2026-09-19-prp1-byoc-li-l-gray-od.
+
+
+## Latest PRP1 checkpoint — BYOC Silver Pony
+
+PRP is continuing in practical working sets, with no fixed pedal-count ceiling. The latest completed pass added **10 consecutive exact-order research records**: **Build Your Own Clone - Li'l Modified Overdrive; Li'l Mouse; Li'l Yellow OD; Mighty Mouse; Orange Distortion; Overdrive 2; Parametric Overdrive; Screamer Clone; Shredder; and Silver Pony**.
+
+All ten now have individual Pedal Info research records synchronized into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. Photos remain conservative and unpromoted where no verified image has been archived.
+
+**Verified tracker totals:** **3821 total / 1015 researched / 300 pictured / 300 complete / 3521 incomplete / 715 researched-photo-pending**.
+
+**Next exact-order research target:** **Build Your Own Clone - Soaring Skillet - Stereo Pan/Phaser**.
+
+**Public data version:** 2026-09-19-prp1-byoc-silver-pony.
