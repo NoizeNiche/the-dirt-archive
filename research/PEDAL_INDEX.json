@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-100",
+  "version": "2026-09-19-prp1-batch-101",
   "count": 3821,
   "pedals": [
     {
@@ -7830,8 +7830,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackhawkamplifiers.com/product/pi-bass-fuzz-russian",
+      "research_record": "./research/pedals/PRP Batch 101/Pi π Bass Fuzz.md"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -7840,8 +7840,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackhawkamplifiers.com/product/pi-fuzz-mkii",
+      "research_record": "./research/pedals/PRP Batch 101/Pi π Fuzz.md"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -7850,8 +7850,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/75995463-blackhawk-amplifiers-ram-s-head-big-muff-fuzz-pedal",
+      "research_record": "./research/pedals/PRP Batch 101/Ramshead Fuzz.md"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -7860,8 +7860,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackhawkamplifiers.com/product/svarog-fuzz-mkii-v3",
+      "research_record": "./research/pedals/PRP Batch 101/Svarog Fuzz.md"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -7870,8 +7870,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/56428935-blackhawk-triangle-pi-fuzz",
+      "research_record": "./research/pedals/PRP Batch 101/Triangle Fuzz.md"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -7882,8 +7882,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii",
+      "research_record": "./research/pedals/PRP Batch 101/Uruk-Hai MKII Parallel Drive & Fuzz.md"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -7892,8 +7892,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/76845976-blackhawk-valhalla-fuzz-hand-wired-point-to-point",
+      "research_record": "./research/pedals/PRP Batch 101/Valhalla Fuzz.md"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -7902,8 +7902,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii",
+      "research_record": "./research/pedals/PRP Batch 101/Valkyrie Drive.md"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -7913,8 +7913,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.blackhawkamplifiers.com/product/windhand-lbm-fuzz",
+      "research_record": "./research/pedals/PRP Batch 101/Windhand LBM Fuzz.md"
     },
     {
       "company": "BlackOutEffectors",
@@ -7923,8 +7923,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special/seriously",
+      "research_record": "./research/pedals/PRP Batch 101/A Seriously Special Twosome.md"
     },
     {
       "company": "BlackOutEffectors",
