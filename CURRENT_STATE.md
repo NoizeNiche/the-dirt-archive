@@ -995,3 +995,12 @@ Batch 115 added 14 consecutive Pedal Info records and synchronized them into the
 Verified totals: **3821 total / 892 researched / 295 pictured / 295 complete / 3526 incomplete / 597 researched-photo-pending**.
 
 Next research target: **BreakFuzz - Surly Fuzz Germanium**.
+
+
+## PRP1 flexible continuation checkpoint — September 19, 2026
+
+Research was advanced continuously through the first remaining exact-order queue, rather than being constrained to ten-pedal batches. Twenty additional researched records were successfully added after Batch 115 across BreakFuzz, Brière, Brimstone, British Pedal Company, and Broughton Audio.
+
+Verified totals are **3821 total / 925 researched / 295 pictured / 295 complete / 3526 incomplete / 630 researched-photo-pending**.
+
+Next exact-order research target: **Browne Amplification - Alkene - Nashville Drive**.

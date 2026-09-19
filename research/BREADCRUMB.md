@@ -705,3 +705,14 @@ All 14 now have individual Pedal Info research records and are synchronized into
 **Next exact-order research target:** **BreakFuzz - Surly Fuzz Germanium**.
 
 **Public data version:** 2026-09-19-prp1-batch-115.
+
+
+## Latest PRP1 checkpoint — Flexible continuation through Broughton Audio
+
+The PRP process is now explicitly using **practical working sets rather than a fixed pedal count**. Recent work advanced consecutive exact-order research records through BreakFuzz, Brière Pedals, Brimstone Audio, British Pedal Company, and Broughton Audio without allowing photo-pending records to block the research queue.
+
+The latest completed research additions bring the tracker to **3821 total / 925 researched / 295 pictured / 295 complete / 3526 incomplete / 630 researched-photo-pending**.
+
+**Next exact-order research target:** **Browne Amplification - Alkene - Nashville Drive**.
+
+Photo recovery remains a separate pass. No unverified or substitute image is being promoted.
