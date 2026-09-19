@@ -338,3 +338,13 @@ Batch 045 advanced the active PRP1 queue through the next 10 incomplete catalog 
 - **Counts:** 3,821 total / 254 researched / 167 pictured / 167 complete / 3,654 incomplete.
 - **Next active cursor:** Alexander Pedals — Princess Clang.
 - **Parked/non-blocking:** A.Y.A — Bass Fuzz remains research-complete but picture-pending.
+
+
+## PRP1 batch 047
+- **Window:** Alexander Pedals — Princess Clang; Royal Cream; Alien Amplification — Origami Overdrive; Alien Rabbit — Magic Drive; All-Pedal — Alcmene Overdrive; Devil's Triad Essentials; Slamurai Bushido Drive; Ampeg — Scrambler Bass Overdrive; Amplified Nation — Big Bloom Overdrive; Bigger Bloom Overdrive.
+- **Action:** Added 10 Pedal Info research records and synchronized PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv.
+- **Photo status:** No exact-model direct image asset met the stable archival-photo standard. All 10 remain Picture: NEEDED / PRP Complete: NEEDED.
+- **Counts:** 3,821 total / 264 researched / 167 pictured / 167 complete / 3,654 incomplete.
+- **Waiting on photos:** 97 researched pedals.
+- **Next active cursor:** AmpMojo — Skate Fuzz (SKUZZ).
+- **Parked/non-blocking:** A.Y.A — Bass Fuzz remains picture-pending.
