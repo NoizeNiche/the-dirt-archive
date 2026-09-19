@@ -330,3 +330,11 @@ Batch 044 advanced the active PRP1 queue through the next 10 incomplete catalog 
 ## PRP1 batch 045 checkpoint
 
 Batch 045 advanced the active PRP1 queue through the next 10 incomplete catalog records: **Alber - OD-600 Over Drive; Alber - OD-600P Over Drive; Alber - OD-610 Over Drive; Alcove - ALP-200 Overdrive; Alden - Tube Overdrive; Aleatorik - Operation 1; Aleatorik - Operation 2; Aleatorik - Operation 3; Aleks K Production - Honey Moon - Sweet Overdrive; Aleks K Production - Sun Beam - Magic Drive**. New Pedal Info research records were created for all ten entries and synchronized across the research records, public pedal index, photo/research manifest, and tracker. An exact builder photo was archived for **Aleks K Production - Sun Beam - Magic Drive**. The Honey Moon catalog entry remains photo-pending because the stable direct builder image currently exposed is specifically a V3, while the archive entry is the generic model and its version differences matter. The remaining eight records are photo-pending because exact catalog imagery is available through source/marketplace layers but no stable directly retrievable archival asset met the photo rule. A later-fix checklist was added at **research/PRP_LATER_FIXES.md** for the seven remaining Batch 044 Alber photos plus the parked A.Y.A Bass Fuzz. Counts are now **3,821 total / 243 researched / 167 pictured / 167 complete / 3,654 incomplete**, with **76** researched pedals waiting only for confirmed pictures. The next active unresolved target is **Alen Geere - Crown Centaur**.
+
+## PRP1 batch 046
+- **Window:** Alen Geere — Crown Centaur; LEADer Mk.2; Loverdrive; Methoxy Overdrive; Preface Drive; Serene; Tube Fuzz; Alexander Pedals — Clang Championship Edition; Hot Pink Drive; Jubilee Silver Overdrive; Magnolia Vintage Overdrive.
+- **Action:** Added 11 PRP research records and synchronized PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv.
+- **Photo status:** No exact direct image asset promoted in this batch. All 11 remain Picture: NEEDED / PRP Complete: NEEDED.
+- **Counts:** 3,821 total / 254 researched / 167 pictured / 167 complete / 3,654 incomplete.
+- **Next active cursor:** Alexander Pedals — Princess Clang.
+- **Parked/non-blocking:** A.Y.A — Bass Fuzz remains research-complete but picture-pending.
