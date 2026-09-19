@@ -1,5 +1,20 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 137 checkpoint
+
+Batch 137 completed the next five exact-order Cajita Stompboxes records: **FBASSDRIVE; Fuzz RBmuff - TBmuff; Fuzz Womut; Overdrive Bb.pre; and Overdrive Shoc más booster**. Each received an individual research record, the canonical public index was synchronized, the PRP tracker was marked Pedal Info complete, and the photo manifest was synchronized. No exact photo was promoted for these five, so they remain photo-pending.
+
+Verified tracker state after the batch:
+- Unique pedals: **3,821**
+- Researched: **1,062**
+- Confirmed pictures: **303**
+- Fully complete: **305**
+- Incomplete: **3,516**
+- Researched but waiting for a confirmed picture: **762**
+- Current exact-order target: **Cajita Stompboxes - Preamp 5150 tipo Peavey**
+
+The next PRP pass must continue directly from that target.
+
 ## Checkpoint
 September 18, 2026
 
