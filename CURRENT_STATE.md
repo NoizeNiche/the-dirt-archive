@@ -755,3 +755,24 @@ Current tracker checkpoint:
 - Current PRP1 target: **Big Ear - Slice of Pie**.
 
 The public catalog data is synchronized through **PRP1 batch 080**. The deployment browser audit should use the next still-unresearched tracker record as its no-research regression target.
+
+
+## Current PRP1 checkpoint - batch 081
+
+Batch 081 processed the next ten unfinished catalog records in exact tracker order: **Big Ear - Slice of Pie; Woodcutter; Big Ear NYC - Black Betty; Frank; Slice Of Pie; The LOAF Fuzz; Woodcutter; Big Game Pedals - Bedlam Drive III; Everything is Alive - Modulated Resonant Fuzz; and FY-2 Fuzz**.
+
+All ten now have individual Pedal Info research records and were synchronized with **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. No new photo was promoted in this batch because no stable exact-model direct image asset met the archive's image standard during the pass. All ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+A research record was also prepared for **Big Game Pedals - Nothing Is Dead Fuzz** as a parked next-pass draft, but it was **not** synchronized into the public tracker/index and does not count toward Batch 081 totals.
+
+Current tracker checkpoint:
+- Unique pedals in website catalog: **3,821**
+- Pedals with research information: **571**
+- Pedals with confirmed pictures: **277**
+- Fully complete PRP pedals: **277**
+- Remaining incomplete pedals: **3,544**
+- Researched but waiting only for a confirmed picture: **294**
+- PRP status: Active, PRP1 research and photo synchronization pass
+- Current PRP1 target: **Big Game Pedals - Nothing Is Dead Fuzz**
+
+The public catalog data is synchronized through **PRP1 batch 081**. The deployment browser audit should use the next still-unresearched tracker record as its no-research regression target.
