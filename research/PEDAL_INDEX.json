@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-0501",
+  "version": "2026-09-18-prp1-batch-05011",
   "count": 3821,
   "pedals": [
     {
@@ -2559,7 +2559,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Anarchy Audio Australia/Deadwoods - Chainsaw Fuzz.md"
     },
     {
       "company": "Anarchy Audio Australia",
@@ -2569,7 +2569,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Anarchy Audio Australia/Sentinel.md"
     },
     {
       "company": "Anasounds",
@@ -2579,7 +2579,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Anasounds/bitoun fuzz.md"
     },
     {
       "company": "Anasounds",
@@ -2589,7 +2589,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Anasounds/cerberus.md"
     },
     {
       "company": "Anasounds",
@@ -2599,7 +2599,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Anasounds/ego driver.md"
     },
     {
       "company": "Anasounds",
@@ -2609,7 +2609,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Anasounds/feed me mk3.md"
     },
     {
       "company": "Anasounds",
@@ -2620,7 +2620,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Anasounds/full story.md"
     },
     {
       "company": "Anasounds",
@@ -2630,7 +2630,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Anasounds/high voltage.md"
     },
     {
       "company": "Anasounds",
@@ -2640,7 +2640,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Anasounds/sandman.md"
     },
     {
       "company": "Anasounds",
@@ -2650,7 +2650,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Anasounds/savage.md"
     },
     {
       "company": "Animal Factory Amplification",
