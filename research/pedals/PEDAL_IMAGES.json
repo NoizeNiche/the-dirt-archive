@@ -1669,5 +1669,26 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/ajcustom/distortion",
     "research_record": "./research/pedals/AJcustom/Distortion.md"
+  },
+  {
+    "builder": "Akai",
+    "pedal": "Blues Overdrive",
+    "image": null,
+    "source_page": "https://www.zzounds.com/item--AKABLUESOD",
+    "research_record": "./research/pedals/Akai/Blues Overdrive.md"
+  },
+  {
+    "builder": "Akai",
+    "pedal": "Tri-Mode Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/type/fuzz/pedal",
+    "research_record": "./research/pedals/Akai/Tri-Mode Fuzz.md"
+  },
+  {
+    "builder": "Akai",
+    "pedal": "Tri-Mode Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
+    "research_record": "./research/pedals/Akai/Tri-Mode Overdrive.md"
   }
 ]

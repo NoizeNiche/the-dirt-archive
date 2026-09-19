@@ -97,7 +97,7 @@ Before publishing a batch:
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 220
+- Pedals with research information: 223
 - Pedals with confirmed pictures: 163
 - Fully complete PRP pedals: 163
 - Remaining incomplete pedals: 3658
@@ -456,3 +456,7 @@ Batch 041 advanced the active PRP1 queue from the parked **A.Y.A - Bass Fuzz** t
 ## PRP1 batch 042 checkpoint
 
 Batch 042 advanced the active PRP1 queue after the parked **A.Y.A - Bass Fuzz** and the completed Batch 041 Add+ window. The next 10 incomplete catalog records were audited in exact order: **Add+ Pedals - Tiger Shark; Add+ Pedals - Tube Drive; Add+ Pedals - Tube Drive 2; Addrock Musical Products - Not So Ol' Yeller; ADV Systems - #distortion; ADV Systems - #overdrive; Advance Tube Technology - Boost Cat Drive; Advance Tube Technology - Over Cat Drive; Advance Tube Technology - Virus Drive; Adventure Audio - Glacial Zenith - Overdrive**. Fresh exact-name photo/source searches produced one qualifying archival asset: an exact **Advance Tube Technology Over Cat Drive** photograph from Banana Music, now synchronized into the research/photo manifest, public pedal index, and tracker. The search also re-confirmed current exact-model visual material for Add+ Tube Drive and historical/source imagery for the Advance Tube Technology and ADV Systems records, but no other stable direct image asset met the archive requirement in this batch. **Over Cat Drive moved to Picture: DONE / PRP Complete: DONE.** **A.Y.A remains Picture: NEEDED but parked and non-blocking.** Counts are now **3,821 total / 220 researched / 163 pictured / 163 complete / 3,658 incomplete**, with **57** researched pedals waiting only for confirmed pictures. The next active unresolved target is **AED - Blue Bee**.
+
+## PRP1 batch 043 checkpoint
+
+Batch 043 advanced the active PRP1 queue through the next 10 incomplete catalog records: **AED - Blue Bee; Aether Electronic - Lenore; AGR Pedals - Cuervo Muerto - Silicon Fuzz Bender; AGR Pedals - DS2610 - Vintage Distortion; AGR Pedals - FZR912 - Muff Fuzz Deluxe; AGR Pedals - OD85 - Full Range Overdrive; AJcustom - Distortion; Akai - Blues Overdrive; Akai - Tri-Mode Fuzz; Akai - Tri-Mode Overdrive**. Fresh source/image checks re-confirmed exact-model references for the AED, Aether, AGR, and Akai records. The Akai trio was previously missing Pedal Info, so new research records were added and synchronized into the public index, photo/research manifest, and tracker. The exact Akai Blues Overdrive has a clear surviving product photograph, but its accessible source does not expose a stable direct archival image asset. The other photo searches did not produce a new stable exact-model asset that met the archive standard. **No picture status changed.** A.Y.A Bass Fuzz remains parked and non-blocking. Counts are now **3,821 total / 223 researched / 163 pictured / 163 complete / 3,658 incomplete**, with **60** researched pedals waiting only for confirmed pictures. The next active unresolved target is **Alairex - H.A.L.O. - Harmonic Amp-Like Overdrive**.

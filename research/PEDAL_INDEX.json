@@ -1306,8 +1306,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.zzounds.com/item--AKABLUESOD",
+      "research_record": "./research/pedals/Akai/Blues Overdrive.md"
     },
     {
       "company": "Akai",
@@ -1316,8 +1316,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/type/fuzz/pedal",
+      "research_record": "./research/pedals/Akai/Tri-Mode Fuzz.md"
     },
     {
       "company": "Akai",
@@ -1326,8 +1326,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
+      "research_record": "./research/pedals/Akai/Tri-Mode Overdrive.md"
     },
     {
       "company": "Alairex",
