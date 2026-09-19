@@ -200,15 +200,28 @@ jobs:
               }
             }
             await Promise.all(Array.from({length:8}, () => checkImageUrls()));
-            const malformedImageUrls = picturedEntries.filter(x => !/^https?:\\/\\//i.test(x.image));
+            const malformedImageUrls = picturedEntries.filter(x => !/^https?:\/\//i.test(x.image));
             if (malformedImageUrls.length) {
               throw new Error('Malformed catalog image URLs: ' + malformedImageUrls.map(x => x.company + ' / ' + x.pedal + ' -> ' + x.image).join(' | '));
             }
-            if (imageFailures.length) {
-              console.warn('External image endpoint warnings (host-side blocks, rate limits, or transient errors): ' + imageFailures.join(' | '));
+            const fatalImageFailures = [];
+            const externalImageWarnings = [];
+            for (const failure of imageFailures) {
+              const statusMatch = failure.match(/-> (\d{3}) /);
+              const status = statusMatch ? Number(statusMatch[1]) : null;
+              if (status === 401 || status === 403 || status === 429 || (status !== null && status >= 500)) {
+                externalImageWarnings.push(failure);
+              } else {
+                fatalImageFailures.push(failure);
+              }
             }
-            console.log('Completed catalog image URL audit for', picturedEntries.length, 'pictured entries; external endpoint warnings do not block deployment.');
-
+            if (fatalImageFailures.length) {
+              throw new Error('Catalog image URL failures: ' + fatalImageFailures.join(' | '));
+            }
+            if (externalImageWarnings.length) {
+              console.warn('External image endpoint warnings (host-side blocks, rate limits, or transient server errors): ' + externalImageWarnings.join(' | '));
+            }
+            console.log('Completed catalog image URL audit for', picturedEntries.length, 'pictured entries; fatal URL failures are still deployment blockers.');
             // Landing page: catalog window, core controls, and link structure.
             await page.goto('http://127.0.0.1:4173/index.html', {waitUntil:'networkidle'});
             const initialCardCount = await page.locator('#grid .card').count();
