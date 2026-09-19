@@ -69,3 +69,13 @@ The official A.Y.A product site was also rechecked. Its current product page doc
 
 7. Mercari — A.Y.A tokyo japan BASS FUZZ, item m93721008252: https://jp.mercari.com/item/m93721008252
 8. A.Y.A Tokyo Japan — current products page: https://aya.la.coocan.jp/products_jap.html
+
+
+## PRP1 photo-recovery pass — batch 030
+
+A fresh image search again surfaced the exact **A.Y.A tokyo japan BASS FUZZ** enclosure from the 2024 Mercari listing. The cached image clearly shows the original model's blue-sparkle enclosure, cream Fuzz and Vol controls, orange floral artwork, and BASS FUZZ labeling. This is stronger visual confirmation of the exact model than a text-only listing, but the Mercari item page currently returns 404 and the image search does not expose a stable retrievable image asset. The archive therefore continues to leave the public image unset rather than introduce a guessed CDN URL.
+
+The current evidence set also includes the historical 2015 Japanese resale reference identifying A.Y.A BASS FUZZ, and the older owner reference describing a 30-unit limited run. Those references support identity and historical existence, but do not provide a safe archival image file.
+
+9. Image-index result — A.Y.A tokyo japan BASS FUZZ, Mercari item m93721008252: https://jp.mercari.com/item/m93721008252
+10. Chiba Kandantei Yachiyo — A.Y.A BASS FUZZ listed in 2015 equipment-buyback catalog: https://ameblo.jp/chibakan-yachiyo/entry-12068999635.html
