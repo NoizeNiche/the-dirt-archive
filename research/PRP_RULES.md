@@ -440,12 +440,16 @@ Batch 072 completed ten exact-order PRP targets. Seven exact-model photos were a
 ## Latest PRP1 checkpoint - batch 073
 Batch 073 completed ten exact-order PRP targets. Six exact-model photos were archived; four remain photo-pending. The next target is **Baroni Lab - GD Drive**.
 
-## Latest PRP1 checkpoint — Flexible continuation through Broughton Audio
+## Latest PRP1 checkpoint — BSM FuzzBender
 
-The PRP process is now explicitly using **practical working sets rather than a fixed pedal count**. Recent work advanced consecutive exact-order research records through BreakFuzz, Brière Pedals, Brimstone Audio, British Pedal Company, and Broughton Audio without allowing photo-pending records to block the research queue.
+The live tracker is authoritative. The current first research-needed record was **BSM - FuzzBender Fuzz Machine**, and it is now researched.
 
-The latest completed research additions bring the tracker to **3821 total / 925 researched / 295 pictured / 295 complete / 3526 incomplete / 630 researched-photo-pending**.
+BSM's manufacturer documentation identifies FuzzBender as a handmade germanium fuzz with a switchable Fuzz Face / Vox-Sola Sound Tone Bender character. A later Japanese distributor notice records a **FuzzBender → FaßBender** name change and explicitly states that the contents were unchanged, so the archive treats that as a documented naming successor rather than a circuit revision.
 
-**Next exact-order research target:** **Browne Amplification - Alkene - Nashville Drive**.
+The index, photo/research manifest, and tracker are synchronized. The exact manufacturer source page is attached for future browser-assisted photo recovery, but the pedal remains **Picture: NEEDED / PRP Complete: NEEDED** until a local exact-model image is archived.
 
-Photo recovery remains a separate pass. No unverified or substitute image is being promoted.
+**Current tracker totals:** **3,821 total / 958 researched / 300 pictured / 300 complete / 3,521 incomplete / 658 researched-photo-pending**.
+
+**Next exact-order research target:** **BSM - J-Fuzz**.
+
+**Public data version:** **2026-09-19-prp1-bsm-fuzzbender**.

@@ -1004,3 +1004,12 @@ Research was advanced continuously through the first remaining exact-order queue
 Verified totals are **3821 total / 925 researched / 295 pictured / 295 complete / 3526 incomplete / 630 researched-photo-pending**.
 
 Next exact-order research target: **Browne Amplification - Alkene - Nashville Drive**.
+
+
+## PRP1 BSM FuzzBender reconciliation — September 19, 2026
+
+BSM FuzzBender is now researched and synchronized across the canonical PRP data layer. The repository records the later FuzzBender -> FaßBender naming change as a documented unchanged-content successor and does not treat it as a circuit revision.
+
+Current verified totals: **3,821 total / 958 researched / 300 pictured / 300 complete / 3,521 incomplete / 658 researched-photo-pending**.
+
+Next research target: **BSM - J-Fuzz**.

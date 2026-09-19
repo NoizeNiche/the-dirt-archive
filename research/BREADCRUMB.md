@@ -716,3 +716,18 @@ The latest completed research additions bring the tracker to **3821 total / 925 
 **Next exact-order research target:** **Browne Amplification - Alkene - Nashville Drive**.
 
 Photo recovery remains a separate pass. No unverified or substitute image is being promoted.
+
+
+## Latest PRP1 checkpoint — BSM FuzzBender
+
+The live tracker is authoritative. The current first research-needed record was **BSM - FuzzBender Fuzz Machine**, and it is now researched.
+
+BSM's manufacturer documentation identifies FuzzBender as a handmade germanium fuzz with a switchable Fuzz Face / Vox-Sola Sound Tone Bender character. A later Japanese distributor notice records a **FuzzBender → FaßBender** name change and explicitly states that the contents were unchanged, so the archive treats that as a documented naming successor rather than a circuit revision.
+
+The index, photo/research manifest, and tracker are synchronized. The exact manufacturer source page is attached for future browser-assisted photo recovery, but the pedal remains **Picture: NEEDED / PRP Complete: NEEDED** until a local exact-model image is archived.
+
+**Current tracker totals:** **3,821 total / 958 researched / 300 pictured / 300 complete / 3,521 incomplete / 658 researched-photo-pending**.
+
+**Next exact-order research target:** **BSM - J-Fuzz**.
+
+**Public data version:** **2026-09-19-prp1-bsm-fuzzbender**.
