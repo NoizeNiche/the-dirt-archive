@@ -848,16 +848,16 @@ Bootlegger Guitar,Shifty's 8 Ball Boost Drive Analog 12AT7,Overdrive,DONE,NEEDED
 Bootlegger Guitar,Tube Shooter Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md
 Bootlegger Guitar,Zapped Up Yours Analog Tube Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 109/Zapped Up Yours Analog Tube Distortion.md
 BOSS,BD-2 Blues Driver,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 109/BD-2 Blues Driver.md
-BOSS,BD-2W Blues Driver,Overdrive,NEEDED,NEEDED,NEEDED,
-BOSS,DS-1 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-BOSS,DS-1W Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-BOSS,DS-1X Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-BOSS,DS-2 TURBO Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-BOSS,FZ-1W Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-BOSS,FZ-5 Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-BOSS,HM-2W Heavy Metal,Distortion,NEEDED,NEEDED,NEEDED,
-BOSS,JB-2 Angry Driver,Overdrive,NEEDED,NEEDED,NEEDED,
-BOSS,MD-2 Mega Distortion,Distortion,NEEDED,NEEDED,NEEDED,
+BOSS,BD-2W Blues Driver,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 110/BD-2W Blues Driver.md
+BOSS,DS-1 Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/DS-1 Distortion.md
+BOSS,DS-1W Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/DS-1W Distortion.md
+BOSS,DS-1X Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/DS-1X Distortion.md
+BOSS,DS-2 TURBO Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 110/DS-2 TURBO Distortion.md
+BOSS,FZ-1W Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/PRP Batch 110/FZ-1W Fuzz.md
+BOSS,FZ-5 Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 110/FZ-5 Fuzz.md
+BOSS,HM-2W Heavy Metal,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/HM-2W Heavy Metal.md
+BOSS,JB-2 Angry Driver,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 110/JB-2 Angry Driver.md
+BOSS,MD-2 Mega Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/MD-2 Mega Distortion.md
 BOSS,ML-2 Metal Core,Distortion,NEEDED,NEEDED,NEEDED,
 BOSS,MT-2 Metal Zone,Distortion,NEEDED,NEEDED,NEEDED,
 BOSS,MT-2W Metal Zone,Distortion,NEEDED,NEEDED,NEEDED,
