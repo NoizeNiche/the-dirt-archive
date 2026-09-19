@@ -150,3 +150,8 @@ Batch 030 rechecked the exact first unresolved target, **A.Y.A - Bass Fuzz**. A 
 ## PRP1 batch 032 checkpoint
 
 The photo-recovery pass broadened the search for **A.Y.A - Bass Fuzz** to exact-title image indexing and additional independent Japanese references. The original blue-sparkle Bass Fuzz photograph was re-confirmed visually, but the underlying Mercari item is unavailable to the crawler and no stable direct image asset was exposed. The current **BASS FUZZ II** listings are explicitly a different version and remain excluded. **Picture remains NEEDED / PRP Complete remains NEEDED.** Counts remain **220 researched / 162 pictured / 162 fully complete / 3,659 incomplete**, with **58** researched pedals waiting only for a confirmed picture. The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
+
+
+## PRP1 batch 033 checkpoint
+
+Batch 033 refined the existing **A.Y.A - Bass Fuzz** research record using the original owner's firsthand account. His unit is identified as number 20 of the 30-unit run, and his notes describe a gritty but controlled bass fuzz that retains the instrument's core, projects strongly in a band mix, and has relatively little sustain. No new stable archival image asset was found, so **Picture remains NEEDED / PRP Complete remains NEEDED**. Counts remain **220 researched / 162 pictured / 162 fully complete / 3,659 incomplete**, with **58** researched pedals waiting only for a confirmed picture. The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
