@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-140",
+  "version": "2026-09-19-prp1-batch-141",
   "count": 3821,
   "pedals": [
     {
@@ -11713,8 +11713,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp34",
+      "research_record": "./research/pedals/PRP Batch 141/cp-34-headroom-vintage-distortion.md"
     },
     {
       "company": "Caline",
@@ -11723,8 +11723,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/candyfloss",
+      "research_record": "./research/pedals/PRP Batch 141/cp-42-candy-floss-fuzz.md"
     },
     {
       "company": "Caline",
@@ -11733,8 +11733,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp43",
+      "research_record": "./research/pedals/PRP Batch 141/cp-43-pegasus.md"
     },
     {
       "company": "Caline",
@@ -11743,8 +11743,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp46",
+      "research_record": "./research/pedals/PRP Batch 141/cp-46-fuzzy-bear.md"
     },
     {
       "company": "Caline",
@@ -11753,8 +11753,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp49",
+      "research_record": "./research/pedals/PRP Batch 141/cp-49-midlander.md"
     },
     {
       "company": "Caline",
@@ -11763,8 +11763,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp50",
+      "research_record": "./research/pedals/PRP Batch 141/cp-50-central-station-leon-drive.md"
     },
     {
       "company": "Caline",
@@ -11773,8 +11773,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/osmium",
+      "research_record": "./research/pedals/PRP Batch 141/cp-501-osmium-high-gain-distortion.md"
     },
     {
       "company": "Caline",
@@ -11783,8 +11783,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/sathanas",
+      "research_record": "./research/pedals/PRP Batch 141/cp-501s-sathanas-distortion.md"
     },
     {
       "company": "Caline",
@@ -11793,8 +11793,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mellowdrive",
+      "research_record": "./research/pedals/PRP Batch 141/cp-502-mellow-drive.md"
     },
     {
       "company": "Caline",
@@ -11803,8 +11803,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/queenbee",
+      "research_record": "./research/pedals/PRP Batch 141/cp-503-queen-bee-overdrive.md"
     },
     {
       "company": "Caline",
