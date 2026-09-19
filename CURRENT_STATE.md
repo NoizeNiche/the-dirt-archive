@@ -805,3 +805,12 @@ The public catalog data is synchronized through **PRP1 batch 081**. The deployme
 **Running PRP1 count:** 611 researched, 277 pictured, 277 fully complete, 334 researched/photo-pending, 3544 incomplete. Total catalog: 3821.
 
 **Next exact-order target:** Big Knob Pedals - Tube 808.
+
+
+## PRP1 Batch 085 checkpoint
+
+**Batch 085 completed:** 10 additional pedals researched and synchronized in exact tracker order: **Big Knob Pedals - Tube 808; Zed Drive; Big Lloyde - Overdose; Phat Axx; Big Monk Electronic Device Co. - Monk Boost; The Pompeii; Big Tone Music Brewery - Anthology Fuzz; BTMB Overdrive; Classic Distortion; Classic Overdrive+**. All 10 remain photo-pending with **No Photo Archived** because no stable exact-model direct image asset was promoted during this research pass.
+
+**Running PRP1 count:** 621 researched, 277 pictured, 277 fully complete, 344 researched/photo-pending, 3544 incomplete. Total catalog: 3821.
+
+**Next exact-order target:** Big Tone Music Brewery - Germanium Fuzz Master.
