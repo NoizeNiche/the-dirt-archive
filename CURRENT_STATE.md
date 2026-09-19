@@ -952,3 +952,17 @@ The photo collection pipeline, public catalog wiring, deployment validation, hou
 - The cache workflow is protected against stale-branch pushes and repeated self-trigger loops.
 - The complete backend contract is documented in `research/PEDAL_IMAGE_ARCHITECTURE.md`.
 
+## PRP1 Batch 112 checkpoint
+
+Batch 112 performed the next exact-order photo-recovery pass across **A&M Custom Effects - Crash Central - Crunch Distortion; A&M Custom Effects - Crazyboy - Double Fuzz; A&M Custom Effects - Metal Maniac - Mega Distortion; A&M Custom Effects - Twin Pro - Overdrive; AboveGroundFX - El Griton Overdrive; AboveGroundFX - Rocks Hard; Absolutely Analog - Ratzo; AC Efectos - Triplex Distortion; Accel Audio - OD-SS Express Overdrive; and Accel Audio - Stompzilla Fuzz**.
+
+All ten already had Pedal Info research. Exact-model visual evidence was rechecked, including current Effects Database records and image results. The available direct source-page/image endpoints did not produce a safely retrievable archive asset for this batch, so no substitute image was promoted and all ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+The local photo-recovery pipeline was hardened during this pass so provenance URLs are not exposed as runtime images before a verified local file exists, long pedal names cannot create invalid filesystem paths, and browser-assisted source-page recovery can search page image candidates.
+
+**Tracker totals:** **3,821 total / 865 researched / 295 pictured / 295 fully complete / 3,526 incomplete**, with **570** researched pedals waiting only for a confirmed picture.
+
+**Current exact-order target:** **A&M Custom Effects - Crash Central - Crunch Distortion**.
+
+**Public data version:** **2026-09-19-prp1-batch-112**.
+
