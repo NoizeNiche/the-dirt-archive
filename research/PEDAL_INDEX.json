@@ -213,7 +213,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "https://www.effectsdatabase.com/model/am/crashcentral",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
       "research_record": "./research/pedals/A&M Custom Effects/Crash Central - Crunch Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
@@ -225,7 +225,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://www.effectsdatabase.com/model/am/crazyboy",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/am/crazyboy",
       "research_record": "./research/pedals/A&M Custom Effects/Crazyboy - Double Fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/am/crazyboy",
@@ -237,7 +237,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "https://www.effectsdatabase.com/model/am/metalmaniac",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/am/metalmaniac",
       "research_record": "./research/pedals/A&M Custom Effects/Metal Maniac - Mega Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/am/metalmaniac",
@@ -249,7 +249,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://www.effectsdatabase.com/model/am/twinpro",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
       "research_record": "./research/pedals/A&M Custom Effects/Twin Pro - Overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/am/twinpro",
@@ -412,7 +412,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://www.effectsdatabase.com/model/aboveground/elgriton",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/aboveground/elgriton",
       "research_record": "./research/pedals/AboveGroundFX/El Griton Overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/aboveground/elgriton",
@@ -424,7 +424,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "https://www.effectsdatabase.com/model/aboveground/rockshard",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
       "research_record": "./research/pedals/AboveGroundFX/Rocks Hard.md",
       "image_source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
@@ -457,7 +457,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "https://www.effectsdatabase.com/model/ac/triplex",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ac/triplex",
       "research_record": "./research/pedals/AC Efectos/Triplex Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/ac/triplex",
@@ -533,7 +533,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://www.effectsdatabase.com/model/accel/stompzilla",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/accel/stompzilla",
       "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/accel/stompzilla",
