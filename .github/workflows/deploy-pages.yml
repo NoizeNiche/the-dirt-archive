@@ -121,7 +121,7 @@ jobs:
           assert tracker_researched == researched, "Tracker researched count mismatch"
           assert tracker_pictured == pictured, "Tracker pictured count mismatch"
           assert tracker_complete == complete, "Tracker complete count mismatch"
-          assert photo_pending == 257, f"Unexpected researched/photo-pending count: {photo_pending}"
+          assert photo_pending == 260, f"Unexpected researched/photo-pending count: {photo_pending}"
 
           home = Path("index.html").read_text(encoding="utf-8")
           detail = Path("pedal-detail.html").read_text(encoding="utf-8")

@@ -508,3 +508,11 @@ Batch 071 completed the next ten unfinished records in exact tracker order, from
 - **Live tracker totals:** 3821 total / 471 researched / 214 pictured / 214 complete / 3607 incomplete.
 - **Waiting on photos:** 257 researched pedals.
 - **Next exact-order missing-information target:** **Baja Tech Custom - Das Fuzz Si**.
+
+## PRP1 batch 072 checkpoint
+
+Batch 072 completed the next ten unfinished records in exact tracker order, from **Baja Tech Custom - Das Fuzz Si** through **Baltimore Sonic Research Institute - Oriole Fuzz**. All ten now have individual research records synchronized into the public index, photo manifest, and tracker. Exact photos were archived for Das Fuzz Si, Top Boost TB-1, Fission Drive v2, Ashmaker, Get the Name of the Dog!, Impossible Colors, and Oriole Fuzz. BG-Drive, FZZ, and Impossible Colors II remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+- **Live tracker totals:** 3821 total / 481 researched / 221 pictured / 221 complete / 3600 incomplete.
+- **Waiting on photos:** 260 researched pedals.
+- **Next exact-order missing-information target:** **Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion**.

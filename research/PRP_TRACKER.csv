@@ -427,16 +427,16 @@ BAE Audio,Royaltone Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/BAE Audio/Roy
 Baja Tech Custom,Bone Bender,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Baja Tech Custom/Bone Bender.md
 Baja Tech Custom,DaMOAF Fuzz,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Baja Tech Custom/DaMOAF Fuzz.md
 Baja Tech Custom,Das Fuzz Ge,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Baja Tech Custom/Das Fuzz Ge.md
-Baja Tech Custom,Das Fuzz Si,Fuzz,NEEDED,NEEDED,NEEDED,
-Baja Tech Custom,Top Boost TB-1,Overdrive,NEEDED,NEEDED,NEEDED,
-Balaguer Guitars,BG-Drive - Preamp/Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Balaguer Guitars,Fission Drive v2,Distortion / Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Baltimore Sonic Research Institute,Ashmaker - Distortion w/ Boost,Distortion,NEEDED,NEEDED,NEEDED,
-Baltimore Sonic Research Institute,FZZ,Fuzz,NEEDED,NEEDED,NEEDED,
-Baltimore Sonic Research Institute,Get the Name of the Dog! JFET Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Baltimore Sonic Research Institute,Impossible Colors - Transformer Coupled Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Baltimore Sonic Research Institute,Impossible Colors II Transformer Coupled Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Baltimore Sonic Research Institute,Oriole Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
+Baja Tech Custom,Das Fuzz Si,Fuzz,DONE,DONE,DONE,./research/pedals/Baja Tech Custom/Das Fuzz Si.md
+Baja Tech Custom,Top Boost TB-1,Overdrive,DONE,DONE,DONE,./research/pedals/Baja Tech Custom/Top Boost TB-1.md
+Balaguer Guitars,BG-Drive - Preamp/Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Balaguer Guitars/BG-Drive - Preamp/Overdrive.md
+Balaguer Guitars,Fission Drive v2,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Balaguer Guitars/Fission Drive v2.md
+Baltimore Sonic Research Institute,Ashmaker - Distortion w/ Boost,Distortion,DONE,DONE,DONE,./research/pedals/Baltimore Sonic Research Institute/Ashmaker - Distortion w Boost.md
+Baltimore Sonic Research Institute,FZZ,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Baltimore Sonic Research Institute/FZZ.md
+Baltimore Sonic Research Institute,Get the Name of the Dog! JFET Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Baltimore Sonic Research Institute/Get the Name of the Dog! JFET Overdrive.md
+Baltimore Sonic Research Institute,Impossible Colors - Transformer Coupled Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Baltimore Sonic Research Institute/Impossible Colors - Transformer Coupled Fuzz.md
+Baltimore Sonic Research Institute,Impossible Colors II Transformer Coupled Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Baltimore Sonic Research Institute/Impossible Colors II Transformer Coupled Fuzz.md
+Baltimore Sonic Research Institute,Oriole Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Baltimore Sonic Research Institute/Oriole Fuzz.md
 Baltimore Sonic Research Institute,Radical Conversion - Discrete Opamp Distortion,Distortion,NEEDED,NEEDED,NEEDED,
 Baltimore Sonic Research Institute,TFZ Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Barbarossa,CHIMAERA,Overdrive,DONE,DONE,DONE,./research/pedals/Barbarossa/Chimaera.md

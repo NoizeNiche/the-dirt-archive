@@ -196,13 +196,13 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 471
-- Pedals with confirmed pictures: 214
-- Fully complete PRP pedals: 214
-- Remaining incomplete pedals: 3607
-- Researched but waiting only for a confirmed picture: 257
+- Pedals with research information: 481
+- Pedals with confirmed pictures: 221
+- Fully complete PRP pedals: 221
+- Remaining incomplete pedals: 3600
+- Researched but waiting only for a confirmed picture: 260
 - PRP status: Active, PRP1 research and photo synchronization pass
-- Current PRP1 target: **Baja Tech Custom - Das Fuzz Si**
+- Current PRP1 target: **Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion**
 
 ## PRP1 batch 030 checkpoint
 
@@ -423,3 +423,7 @@ Batch 070 completed ten exact-order PRP targets with individual research records
 
 ## Latest PRP1 checkpoint - batch 071
 Batch 071 completed ten exact-order PRP targets with individual research records. No new exact-model photograph met the stable archival-image rule. The next target is **Baja Tech Custom - Das Fuzz Si**.
+
+## Latest PRP1 checkpoint - batch 072
+
+Batch 072 completed ten exact-order PRP targets. Seven exact-model photos were archived; three remain photo-pending. The next target is **Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion**.

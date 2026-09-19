@@ -45,15 +45,15 @@ See SITE_ARCHITECTURE.md for the current working data and page model.
 
 ## Current PRP checkpoint
 - **3,821** unique pedals
-- **471** have pedal information researched
-- **214** have confirmed pictures
-- **214** are fully complete
-- **3,607** remain incomplete
-- **257** are researched but currently waiting only for a confirmed picture
+- **481** have pedal information researched
+- **221** have confirmed pictures
+- **221** are fully complete
+- **3,600** remain incomplete
+- **260** are researched but currently waiting only for a confirmed picture
 - **PRP status:** Active, PRP1 research and photo synchronization pass
-- **Current PRP1 target:** Baja Tech Custom - Das Fuzz Si
-- **PRP1 batch 071:** Ten records from Baddy One Shoe Pedals Heartbreaker through Baja Tech Custom Das Fuzz Ge were researched and synchronized. No new exact photo was safely archived.
-- **Next exact-order missing-information target:** Baja Tech Custom - Das Fuzz Si
+- **Current PRP1 target:** Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion
+- **PRP1 batch 072:** Ten records from Baja Tech Custom Das Fuzz Si through Baltimore Sonic Research Institute Oriole Fuzz were researched and synchronized; seven exact photos were archived and three remain photo-pending.
+- **Next exact-order missing-information target:** Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion
 
 Read research/PRP_RULES.md before doing PRP work. That file is the permanent operating guide.
 

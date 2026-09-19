@@ -100,13 +100,14 @@ Batch 069 adds the next 10 unfinished catalog records in exact order: B85 Audio 
 
 Current PRP checkpoint:
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 471
-- Pedals with confirmed pictures: 214
-- Fully complete PRP pedals: 214
-- Remaining incomplete pedals: 3,607
-- Researched but waiting only for a confirmed picture: 257
+- Pedals with research information: 481
+- Pedals with confirmed pictures: 221
+- Fully complete PRP pedals: 221
+- Remaining incomplete pedals: 3,600
+- Researched but waiting only for a confirmed picture: 260
 - PRP status: Active, PRP1 research and photo synchronization pass
-- Current PRP1 target: **Baja Tech Custom - Das Fuzz Si**
+- Current PRP1 target: **Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion**
+
 
 
 
@@ -609,4 +610,10 @@ Batch 070 completes the next 10 unfinished catalog records in exact order: Bad P
 Batch 071 completed the next ten unfinished catalog records in exact tracker order: **Baddy One Shoe Pedals - Heartbreaker; Honeycomb; Infinity Drive; Punch & Grind; The Junk Puncher; Wayfarer; BAE Audio - Royaltone Fuzz; Baja Tech Custom - Bone Bender; DaMOAF Fuzz; and Das Fuzz Ge**. All ten received individual PRP research records. No new photograph met the stable direct archival-image standard, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. The next exact-order missing-information target is **Baja Tech Custom - Das Fuzz Si**.
 
 **Live tracker totals:** 3,821 total / 471 researched / 214 pictured / 214 complete / 3,607 incomplete, with 257 researched pedals waiting only for confirmed pictures.
+
+### PRP1 batch 072 checkpoint
+
+Batch 072 processed the next ten unfinished catalog records in exact tracker order: **Baja Tech Custom - Das Fuzz Si; Baja Tech Custom - Top Boost TB-1; Balaguer Guitars - BG-Drive - Preamp/Overdrive; Balaguer Guitars - Fission Drive v2; Baltimore Sonic Research Institute - Ashmaker - Distortion w/ Boost; FZZ; Get the Name of the Dog! JFET Overdrive; Impossible Colors - Transformer Coupled Fuzz; Impossible Colors II Transformer Coupled Fuzz; and Oriole Fuzz**. All ten received individual research records. Exact photos were attached for Das Fuzz Si, Top Boost TB-1, Fission Drive v2, Ashmaker, Get the Name of the Dog!, Impossible Colors, and Oriole Fuzz. BG-Drive, FZZ, and Impossible Colors II remain photo-pending.
+
+**Live tracker totals:** 3,821 total / 481 researched / 221 pictured / 221 complete / 3,600 incomplete, with 260 researched pedals waiting only for confirmed pictures.
 

@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-071",
+  "version": "2026-09-19-prp1-batch-072",
   "count": 3821,
   "pedals": [
     {
@@ -4415,9 +4415,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://rvb-img.reverb.com/i/s--N6jvwcPq--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/veeaxunqjrmhehgj7sxz.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/bajatech/dasfuzzsi",
+      "research_record": "./research/pedals/Baja Tech Custom/Das Fuzz Si.md",
+      "image_source_page": "https://reverb.com/item/69141743-baja-tech-custom-das-fuzz-si"
     },
     {
       "company": "Baja Tech Custom",
@@ -4425,9 +4426,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://files.effectsdatabase.com/gear/thumbs/bajatech_tp-1_001.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/bajatech/topboost",
+      "research_record": "./research/pedals/Baja Tech Custom/Top Boost TB-1.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/bajatech/topboost"
     },
     {
       "company": "Balaguer Guitars",
@@ -4436,8 +4438,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/balaguer/bgdrive",
+      "research_record": "./research/pedals/Balaguer Guitars/BG-Drive - Preamp/Overdrive.md"
     },
     {
       "company": "Balaguer Guitars",
@@ -4447,9 +4449,10 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://guitarbrando.com/cdn/shop/products/20201214_213456.jpg?v=1632776585&width=1946",
+      "source_page": "https://www.balaguerguitars.com/wp-content/uploads/2021/02/Balaguer-2021-Product-Catalog_compressed-2.pdf",
+      "research_record": "./research/pedals/Balaguer Guitars/Fission Drive v2.md",
+      "image_source_page": "https://guitarbrando.com/products/balaguer-guitars-fission-drive-ovwrdrive-pedal"
     },
     {
       "company": "Baltimore Sonic Research Institute",
@@ -4457,9 +4460,10 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.music-plant.com/webshop/upload/save_image/33585.jpg",
+      "source_page": "https://www.music-plant.com/webshop/products/detail.php?product_id=33585",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Ashmaker - Distortion w Boost.md",
+      "image_source_page": "https://www.music-plant.com/webshop/products/detail.php?product_id=33585"
     },
     {
       "company": "Baltimore Sonic Research Institute",
@@ -4468,8 +4472,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.bsriaudio.com/the-pasture",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/FZZ.md"
     },
     {
       "company": "Baltimore Sonic Research Institute",
@@ -4477,9 +4481,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://www.pedalempire.com.au/cdn/shop/files/GETTHENAMEOFTHEDOG_JFETOVERDRIVE_700x700.webp?v=1775801496",
+      "source_page": "https://www.bsriaudio.com/product/get-the-name-of-the-dog",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Get the Name of the Dog! JFET Overdrive.md",
+      "image_source_page": "https://www.pedalempire.com.au/products/baltimore-sonic-research-institute-get-the-name-of-the-dog-jfet-overdrive"
     },
     {
       "company": "Baltimore Sonic Research Institute",
@@ -4487,9 +4492,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://files.effectsdatabase.com/gear/thumbs/bsri_impossiblecolors_001.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/bsri/impossiblecolors",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Impossible Colors - Transformer Coupled Fuzz.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/bsri/impossiblecolors"
     },
     {
       "company": "Baltimore Sonic Research Institute",
@@ -4498,8 +4504,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.bsriaudio.com/product/impossible-colors-v2-transformer-coupled-fuzz",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Impossible Colors II Transformer Coupled Fuzz.md"
     },
     {
       "company": "Baltimore Sonic Research Institute",
@@ -4507,9 +4513,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
+      "image": "https://files.effectsdatabase.com/gear/thumbs/bsri_oriole_001.jpg",
+      "source_page": "https://www.effectsdatabase.com/model/bsri/oriole",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Oriole Fuzz.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/bsri/oriole"
     },
     {
       "company": "Baltimore Sonic Research Institute",
