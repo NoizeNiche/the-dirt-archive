@@ -200,16 +200,16 @@ Amptweaker,TightBoost,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Amptweaker/
 Amptweaker,TightFuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Amptweaker/TightFuzz.md
 Amptweaker,TightFuzz Jr,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Amptweaker/TightFuzz_Jr.md
 Amptweaker,TightFuzz Pro,Fuzz,DONE,DONE,DONE,./research/pedals/Amptweaker/TightFuzz_Pro.md
-Amsterdam Cream,Big Eye Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Amsterdam Cream,Original Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-Amsterdam Cream,Plain Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-AMT Electronics,B-1 BG-Sharp,Overdrive,NEEDED,NEEDED,NEEDED,
-AMT Electronics,BS British Sound,Distortion,NEEDED,NEEDED,NEEDED,
-AMT Electronics,CS California Sound,Distortion,NEEDED,NEEDED,NEEDED,
-AMT Electronics,DM-3 DistMachine,Distortion,NEEDED,NEEDED,NEEDED,
-AMT Electronics,M-1 JM-800,Overdrive,NEEDED,NEEDED,NEEDED,
-AMT Electronics,R-1 Rectifier,Overdrive,NEEDED,NEEDED,NEEDED,
-AMT Electronics,Rammstein RD Distortion Combo Emulator,Distortion,NEEDED,NEEDED,NEEDED,
+Amsterdam Cream,Big Eye Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 049/Big Eye Fuzz.md
+Amsterdam Cream,Original Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 049/Original Distortion.md
+Amsterdam Cream,Plain Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 049/Plain Drive.md
+AMT Electronics,B-1 BG-Sharp,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 049/B-1 BG-Sharp.md
+AMT Electronics,BS British Sound,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 049/BS British Sound.md
+AMT Electronics,CS California Sound,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 049/CS California Sound.md
+AMT Electronics,DM-3 DistMachine,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 049/DM-3 DistMachine.md
+AMT Electronics,M-1 JM-800,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 049/M-1 JM-800.md
+AMT Electronics,R-1 Rectifier,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 049/R-1 Rectifier.md
+AMT Electronics,Rammstein RD Distortion Combo Emulator,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 049/Rammstein RD Distortion Combo Emulator.md
 AMT Electronics,S-1,Overdrive,NEEDED,NEEDED,NEEDED,
 AMT Electronics,SS-11B,Overdrive,NEEDED,NEEDED,NEEDED,
 AMT Electronics,SS-20,Overdrive,NEEDED,NEEDED,NEEDED,
