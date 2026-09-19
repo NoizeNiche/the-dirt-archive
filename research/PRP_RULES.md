@@ -431,71 +431,14 @@ Batch 072 completed ten exact-order PRP targets. Seven exact-model photos were a
 ## Latest PRP1 checkpoint - batch 073
 Batch 073 completed ten exact-order PRP targets. Six exact-model photos were archived; four remain photo-pending. The next target is **Baroni Lab - GD Drive**.
 
-## Latest PRP1 checkpoint - batch 074
-Batch 074 completed ten exact-order PRP targets. Seven exact-model photos were archived; three remain photo-pending. The next target is **Basic Audio - Sharp Tooth**.
+## Latest PRP1 checkpoint — Batch 113
 
+Batch 113 performed another exact-order photo-recovery pass across the current first ten incomplete catalog records: **A&M Custom Effects - Crash Central - Crunch Distortion; Crazyboy - Double Fuzz; Metal Maniac - Mega Distortion; Twin Pro - Overdrive; AboveGroundFX - El Griton Overdrive; Rocks Hard; Absolutely Analog - Ratzo; AC Efectos - Triplex Distortion; Accel Audio - OD-SS Express Overdrive; and Accel Stompzilla Fuzz**.
 
-## PRP1 batch 090 checkpoint
+The exact model pages and indexed historical references were rechecked. Effects Database confirms the exact A&M, AboveGroundFX, AC Efectos, and Accel catalog identities, but the currently exposed image references are source pages/dynamic listings rather than stable directly retrievable image assets suitable for local archival promotion. No substitute or inferred photo was promoted. All ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
 
-Batch 090 completed the next ten unfinished records in exact tracker order: **Biyang - DS-8 Mouse; DS-9 Distortion; FZ-12 Fuzz; FZ-7 Fuzz; Junky Drive; Metal-End; NM-2 New Metal; OD-12 X-Drive; OD-7 Overdrive; and OD-8 X-Drive**.
+**Current tracker totals:** **3,821 total / 865 researched / 295 pictured / 295 complete / 3,526 incomplete / 570 researched-photo-pending**.
 
-All ten now have individual Pedal Info research records and were synchronized across **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. No exact-model image met the stable archival-image standard in this pass, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
+**Next exact-order target:** **A&M Custom Effects - Crash Central - Crunch Distortion**.
 
-**Live tracker totals after Batch 090:** **3,821 total / 672 researched / 277 pictured / 277 fully complete / 3,544 incomplete**, with **395** researched pedals waiting only for confirmed pictures.
-
-**Next exact-order missing-information target:** **Biyang - OTD-100 Distortion**.
-
-**Parked/non-blocking:** **A.Y.A - Bass Fuzz** remains picture-pending for later exact-photo recovery.
-
-
-## PRP1 batch 090 verification correction
-The repository-level tracker calculation after Batch 090 is **3,821 total / 672 researched / 278 pictured / 277 complete / 3,544 incomplete**, with **395** researched pedals waiting only for pictures. The 278 pictured count includes one legacy record, **Animals Pedal - In Oct,3 Foxes talking of dreamy FUZZ**, whose picture flag is still NEEDED in the tracker, so it is intentionally not counted as PRP Complete.
-
-
-## 5A. Local photo archive
-
-Verified photographs are archived locally whenever the exact image asset can be safely retrieved.
-
-The runtime relationship is:
-
-**Pedal -> local primary image**
-
-A normal model/version uses:
-`assets/pedals/{builder-slug}/{pedal-slug}/primary.webp`
-
-A subordinate cosmetic variation uses:
-`assets/pedals/{builder-slug}/{pedal-slug}/variants/{variant-slug}.webp`
-
-The original remote image URL is preserved as `image_source_url` and the product/source page remains in `image_source_page` or `source_page` as applicable.
-
-The cache workflow may retry external retrievals, but a failed retrieval must never create a local placeholder and must never replace a verified exact image with a different model or version.
-
-The PRP tracker continues to define picture completion from the catalog's image state. Once the local migration is complete, `Picture: DONE` means an exact local archived image exists and passes the deployment image-file audit.
-
-
-## 5B. How new PRP photos are collected
-
-When a qualifying exact-model photograph is found during PRP:
-
-1. Keep the source/product page reference for provenance.
-2. Treat the source image URL as a migration input, not as the desired permanent runtime dependency.
-3. Let the local image-cache workflow retrieve the image into the canonical per-pedal directory.
-4. Do not call the pedal photo fully synchronized for deployment until the local cached file exists and passes the image-file validation.
-5. For a colorway/edition, attach the photo to the existing variation relationship so its local file lands under the parent pedal's `variants/` directory.
-6. For a materially distinct public version, use a separate pedal identity and its own `primary.webp`.
-
-The source URL may remain in `image_source_url` for provenance after the local file is archived.
-
-## Current PRP1 checkpoint
-
-- Unique pedals in website catalog: **3,821**
-- Pedals with research information: **865**
-- Pedals with confirmed pictures: **295**
-- Fully complete PRP pedals: **295**
-- Remaining incomplete pedals: **3,526**
-- Researched but waiting only for a confirmed picture: **570**
-- PRP status: Active, PRP1 research and photo synchronization pass with local photo caching
-- Current PRP1 target: **A&M Custom Effects - Crash Central - Crunch Distortion**
-- Latest synchronized pass: **PRP1 Batch 112**
-- Public data version: **2026-09-19-prp1-batch-112**
-
+**Public data version:** **2026-09-19-prp1-batch-113**.
