@@ -196,13 +196,13 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 501
-- Pedals with confirmed pictures: 234
-- Fully complete PRP pedals: 234
-- Remaining incomplete pedals: 3587
-- Researched but waiting only for a confirmed picture: 267
+- Pedals with research information: 855
+- Pedals with confirmed pictures: 285
+- Fully complete PRP pedals: 285
+- Remaining incomplete pedals: 3536
+- Researched but waiting only for a confirmed picture: 570
 - PRP status: Active, PRP1 research and photo synchronization pass
-- Current PRP1 target: **Basic Audio - Sharp Tooth**
+- Current PRP1 target: **BOSS - ML-2 Metal Core**
 
 ## PRP1 batch 030 checkpoint
 
