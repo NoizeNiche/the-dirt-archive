@@ -144,7 +144,13 @@ def cache_entry_prepare(entry):
         canonical = rel_path(target)
         if existing.exists():
             return ("retain", entry, canonical, None)
-        return ("failure", entry, image, "declared local cache file is missing")
+        # A local path can be declared before the first successful cache run.
+        # When the file is absent, fall back to the stored provenance URL instead
+        # of treating the missing local file as permanently uncacheable.
+        source_url = entry.get("image_source_url")
+        if source_url and source_url.startswith(("http://", "https://")):
+            return ("download", entry, target, source_url)
+        return ("failure", entry, image, "declared local cache file is missing and no provenance URL is available")
 
     if not image.startswith(("http://", "https://")):
         return ("failure", entry, image, "unsupported image URL/path")
