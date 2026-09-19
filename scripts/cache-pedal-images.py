@@ -74,15 +74,15 @@ def fetch_image(url, referer=None):
     raise RuntimeError(str(last_error))
 
 
-def cache_entry(entry, cached, retained, failures):
+def cache_entry_prepare(entry):
     image = entry.get("image")
     if not image:
-        return
+        return ("skip", entry, None, None)
 
     builder = entry.get("company") or entry.get("builder")
     pedal = entry.get("pedal")
     if not builder or not pedal:
-        return
+        return ("skip", entry, None, None)
 
     target = target_path(entry)
     target.parent.mkdir(parents=True, exist_ok=True)
@@ -91,41 +91,36 @@ def cache_entry(entry, cached, retained, failures):
         existing = ROOT / image.lstrip("./")
         canonical = rel_path(target)
         if existing.exists():
-            if image != canonical:
-                entry["image"] = canonical
-            retained[0] += 1
-            return
-        failures.append((builder, pedal, image, "declared local cache file is missing"))
-        return
+            return ("retain", entry, canonical, None)
+        return ("failure", entry, image, "declared local cache file is missing")
 
     if not image.startswith(("http://", "https://")):
-        failures.append((builder, pedal, image, "unsupported image URL/path"))
-        return
+        return ("failure", entry, image, "unsupported image URL/path")
 
     if target.exists():
-        entry["image_source_url"] = image
-        entry["image"] = rel_path(target)
-        retained[0] += 1
-        return
+        return ("retain_remote", entry, target, image)
 
-    try:
-        data = fetch_image(image, entry.get("image_source_page") or entry.get("source_page"))
-        with Image.open(io.BytesIO(data)) as source:
-            img = ImageOps.exif_transpose(source)
-            if img.width <= 0 or img.height <= 0:
-                raise RuntimeError("invalid image dimensions")
-            img = img.convert("RGBA" if "A" in img.getbands() else "RGB")
-            img.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
-            img.save(target, "WEBP", quality=88, method=6)
+    return ("download", entry, target, image)
 
-        entry["image_source_url"] = image
-        entry["image"] = rel_path(target)
-        cached.append((builder, pedal, rel_path(target)))
-    except Exception as exc:
-        failures.append((builder, pedal, image, str(exc)))
+
+def download_to_target(entry, target, source_url):
+    data = fetch_image(
+        source_url,
+        entry.get("image_source_page") or entry.get("source_page"),
+    )
+    with Image.open(io.BytesIO(data)) as source:
+        img = ImageOps.exif_transpose(source)
+        if img.width <= 0 or img.height <= 0:
+            raise RuntimeError("invalid image dimensions")
+        img = img.convert("RGBA" if "A" in img.getbands() else "RGB")
+        img.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
+        img.save(target, "WEBP", quality=88, method=6)
+    return rel_path(target)
 
 
 def main():
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
     catalog = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
     manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
 
@@ -134,8 +129,38 @@ def main():
     failures = []
     ASSET_ROOT.mkdir(parents=True, exist_ok=True)
 
-    for entry in catalog.get("pedals", []):
-        cache_entry(entry, cached, retained, failures)
+    preparations = [cache_entry_prepare(entry) for entry in catalog.get("pedals", [])]
+    downloads = []
+    for status, entry, target, source in preparations:
+        if status == "retain":
+            entry["image"] = target
+            retained[0] += 1
+        elif status == "retain_remote":
+            entry["image_source_url"] = source
+            entry["image"] = rel_path(target)
+            retained[0] += 1
+        elif status == "failure":
+            failures.append((entry.get("company") or entry.get("builder"), entry.get("pedal"), target, source))
+        elif status == "download":
+            downloads.append((entry, target, source))
+
+    # Eight workers gives a controlled speedup without hammering source hosts.
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        futures = {
+            executor.submit(download_to_target, entry, target, source): (entry, target, source)
+            for entry, target, source in downloads
+        }
+        for future in as_completed(futures):
+            entry, target, source = futures[future]
+            builder = entry.get("company") or entry.get("builder")
+            pedal = entry.get("pedal")
+            try:
+                local = future.result()
+                entry["image_source_url"] = source
+                entry["image"] = local
+                cached.append((builder, pedal, local))
+            except Exception as exc:
+                failures.append((builder, pedal, source, str(exc)))
 
     catalog_by_key = {
         key(x.get("company"), x.get("pedal")): x
@@ -151,7 +176,6 @@ def main():
         if source.get("image_source_url"):
             entry["image_source_url"] = source["image_source_url"]
 
-    # Keep the catalog metadata explicit about the photo model.
     catalog["photo_architecture"] = "local-first"
 
     INDEX_PATH.write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
@@ -166,26 +190,24 @@ def main():
         "",
         "## Storage layout",
         "",
-        "- Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`",
-        "- Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`",
-        "- Original source URL remains stored as `image_source_url`.",
+        "- Primary image: "+q+"assets/pedals/{builder}/{pedal}/primary.webp"+q,
+        "- Colorway/edition image: "+q+"assets/pedals/{builder}/{pedal}/variants/{variant}.webp"+q,
+        "- Original source URL remains stored as "+q+"image_source_url"+q+".",
         "",
     ]
     if cached:
         lines += ["## Newly cached", ""]
-        lines += [f"- {b} - {p} -> `{path}`" for b, p, path in cached]
+        lines += [f"- {b} - {p} -> "+q+"{path}"+q for b, p, path in sorted(cached)]
         lines += [""]
     if failures:
         lines += ["## Still external / failed", ""]
-        lines += [f"- {b} - {p}: {reason} (`{url}`)" for b, p, url, reason in failures]
+        lines += [f"- {b} - {p}: {reason} ("+q+"{url}"+q+")" for b, p, url, reason in sorted(failures)]
         lines += ["", "These records remain externally referenced until a later cache run succeeds."]
     else:
         lines += ["All pictured pedal images are locally cached."]
     REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     print(f"Cached {len(cached)} new images; retained/reorganized {retained[0]}; {len(failures)} failures.")
-    # Do not fail the run merely because some external sources are inaccessible.
-    # The deploy gate decides whether publication is allowed.
     return 0
 
 
