@@ -119,9 +119,17 @@ After every change:
 The repository is the project memory. When conversation history conflicts with the repository, inspect the repository and follow the current repository instructions/state.
 
 
-## Latest PRP1 checkpoint
-Batch 078 is the latest synchronized PRP1 checkpoint. Next exact-order unresolved target: **Behringer - UZ400 Ultra Fuzz**.
+## Latest PRP1 checkpoint — Batch 115
 
+Batch 115 advanced **14 consecutive exact-order research-needed records** from the live tracker: Bogner Amplification — production status not established from reviewed current manufacturer material; BoX — Distortion; BR Tech — BR-1 Distortion; BR Tech — Up Scream; Braking Train Pedals — Frequency Control Fuzz; Brantone Electronics — Blue Meanie - Germanium Fuzz; Green Manalishi Overdrive; Tonemaster Mk1.5 Germanium Fuzz; ToneMaster Mk2 Germanium Fuzz; Vintage Tweed Overdrive; WEM Pepbox - Official Reissue; Woodstock - Silicon Fuzz Face; Breakfast Audio — SLAB DISTORTION; and WELTSCHMERZ FUZZ.
+
+All 14 now have individual Pedal Info research records and are synchronized into the canonical catalog and PRP tracker. No questionable image was promoted. Photo-pending records remain pending and do not block continued research.
+
+**Verified tracker totals:** 3821 total / 892 researched / 295 pictured / 295 complete / 3526 incomplete / 597 researched-photo-pending.
+
+**Next exact-order research target:** **BreakFuzz - Surly Fuzz Germanium**.
+
+**Public data version:** 2026-09-19-prp1-batch-115.
 ## PRP1 batch 008 checkpoint
 ADA Amps - MP-1 Channel is now fully complete after exact photo confirmation from Chicago Music Exchange. The tracker, public index, and photo manifest were updated together. Next exact-order unresolved target: Add+ Pedals - Der Fuzzer.
 

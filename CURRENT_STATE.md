@@ -986,3 +986,12 @@ Batch 114 created 13 individual Pedal Info records and synchronized them into PE
 Verified totals: **3,821 total / 878 researched / 295 pictured / 295 complete / 3,526 incomplete / 583 researched-photo-pending**.
 
 Next research work proceeds from the first remaining Pedal Info = NEEDED tracker row in exact catalog order.
+
+
+## PRP1 Batch 115 repository reconciliation — September 19, 2026
+
+Batch 115 added 14 consecutive Pedal Info records and synchronized them into the canonical PRP data layer. The practical working-set rule was used: the pass continued through the queue instead of stopping at a fixed count or letting photo-pending records block research.
+
+Verified totals: **3821 total / 892 researched / 295 pictured / 295 complete / 3526 incomplete / 597 researched-photo-pending**.
+
+Next research target: **BreakFuzz - Surly Fuzz Germanium**.

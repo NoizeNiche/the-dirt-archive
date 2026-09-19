@@ -692,3 +692,16 @@ All 13 now have Pedal Info research records. No questionable photo was promoted.
 **Next exact-order research target:** the first remaining tracker row with Pedal Info = NEEDED after the Batch 114 records.
 
 **Public data version:** 2026-09-19-prp1-batch-114.
+
+
+## Latest PRP1 checkpoint — Batch 115
+
+Batch 115 advanced **14 consecutive exact-order research-needed records** from the live tracker: Bogner Amplification — production status not established from reviewed current manufacturer material; BoX — Distortion; BR Tech — BR-1 Distortion; BR Tech — Up Scream; Braking Train Pedals — Frequency Control Fuzz; Brantone Electronics — Blue Meanie - Germanium Fuzz; Green Manalishi Overdrive; Tonemaster Mk1.5 Germanium Fuzz; ToneMaster Mk2 Germanium Fuzz; Vintage Tweed Overdrive; WEM Pepbox - Official Reissue; Woodstock - Silicon Fuzz Face; Breakfast Audio — SLAB DISTORTION; and WELTSCHMERZ FUZZ.
+
+All 14 now have individual Pedal Info research records and are synchronized into the canonical catalog and PRP tracker. No questionable image was promoted. Photo-pending records remain pending and do not block continued research.
+
+**Verified tracker totals:** 3821 total / 892 researched / 295 pictured / 295 complete / 3526 incomplete / 597 researched-photo-pending.
+
+**Next exact-order research target:** **BreakFuzz - Surly Fuzz Germanium**.
+
+**Public data version:** 2026-09-19-prp1-batch-115.
