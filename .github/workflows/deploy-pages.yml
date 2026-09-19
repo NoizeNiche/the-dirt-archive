@@ -11,6 +11,9 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: dirt-archive-deploy
+  cancel-in-progress: true
 
 jobs:
   deploy:
