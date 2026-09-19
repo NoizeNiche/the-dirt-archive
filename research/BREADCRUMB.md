@@ -572,3 +572,14 @@ All ten received individual Pedal Info research records and were synchronized wi
 ## Batch 077 verification repair
 
 The new live-archive verification caught a false tooling failure: **scripts/hourly-site-health.js** parsed PRP_TRACKER.csv with a raw comma split and therefore misread a legitimate quoted pedal name containing a comma. The health checker was repaired with quote-aware CSV parsing. No catalog identity was changed or removed.
+
+
+## PRP1 batch 078 checkpoint
+
+Batch 078 completed the next ten unfinished records in exact tracker order: **Beetronics FX - Octahive V2; Overhive; Royal Jelly; Swarm Fuzz Harmonizer; Tuna Fuzz; Vezzpa Octave Stinger; Behringer - Bass Brassmaster; Fuzz Bender; OD300; and SF300 Super Fuzz**.
+
+All ten received individual Pedal Info research records and were synchronized with **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Exact photos were promoted for nine records; OD300 remains Picture: NEEDED.
+
+**Tracker totals after Batch 078:** **3,821 total / 541 researched / 269 pictured / 269 complete / 3,552 incomplete**, with **272** researched pedals waiting only for confirmed pictures.
+
+**Next regression/research target:** **Behringer - UZ400 Ultra Fuzz**.
