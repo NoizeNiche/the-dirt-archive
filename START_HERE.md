@@ -211,11 +211,14 @@ The archive now uses a local-first pedal photo architecture.
 
 The complete backend contract is documented in `research/PEDAL_IMAGE_ARCHITECTURE.md`.
 
-## Latest PRP1 checkpoint — Batch 112
+## Latest PRP1 checkpoint — Batch 113
 
-Batch 112 completed the next exact-order photo-recovery pass across **A&M Custom Effects - Crash Central - Crunch Distortion; Crazyboy - Double Fuzz; Metal Maniac - Mega Distortion; Twin Pro - Overdrive; AboveGroundFX - El Griton Overdrive; Rocks Hard; Absolutely Analog - Ratzo; AC Efectos - Triplex Distortion; Accel OD-SS Express Overdrive; and Accel Stompzilla Fuzz**. All ten already had research records. Exact-model images were rechecked, but no new safely retrievable archive asset was promoted. The tracker therefore remains **865 researched / 295 pictured / 295 fully complete / 3,526 incomplete**, with **570** researched pedals waiting only for a confirmed picture.
+Batch 113 performed another exact-order photo-recovery pass across the current first ten incomplete catalog records: **A&M Custom Effects - Crash Central - Crunch Distortion; Crazyboy - Double Fuzz; Metal Maniac - Mega Distortion; Twin Pro - Overdrive; AboveGroundFX - El Griton Overdrive; Rocks Hard; Absolutely Analog - Ratzo; AC Efectos - Triplex Distortion; Accel Audio - OD-SS Express Overdrive; and Accel Stompzilla Fuzz**.
 
-The next exact-order incomplete target remains **A&M Custom Effects - Crash Central - Crunch Distortion**.
+The exact model pages and indexed historical references were rechecked. Effects Database confirms the exact A&M, AboveGroundFX, AC Efectos, and Accel catalog identities, but the currently exposed image references are source pages/dynamic listings rather than stable directly retrievable image assets suitable for local archival promotion. No substitute or inferred photo was promoted. All ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
 
-**Public data version:** **2026-09-19-prp1-batch-112**.
+**Current tracker totals:** **3,821 total / 865 researched / 295 pictured / 295 complete / 3,526 incomplete / 570 researched-photo-pending**.
 
+**Next exact-order target:** **A&M Custom Effects - Crash Central - Crunch Distortion**.
+
+**Public data version:** **2026-09-19-prp1-batch-113**.
