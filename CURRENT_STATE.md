@@ -674,3 +674,22 @@ Current tracker checkpoint:
 - Current PRP1 target: **BearFoot FX - Honey Bee Overdrive Plus**
 
 The site's public data-version markers are now **2026-09-19-prp1-batch-076**. The deployment browser audit's no-research fallback is now **BearFoot FX - Honey Bee Overdrive Plus**, which remains unresearched in the tracker.
+
+
+## Current PRP1 checkpoint - batch 077
+
+Batch 077 processed the next ten unfinished catalog records in exact tracker order: **BearFoot FX - Honey Bee Overdrive Plus; Honey Beest; Pink Purple Fuzz; Silver Bee Overdrive; Sparkling Yellow Overdrive; Über Bee Overdrive; BECOS FX - Ziffer Overdrive; Beetronics FX - Abelha Tropical Fuzz; Fatbee; and Nectar Tone Sweetener**.
+
+All ten now have individual Pedal Info research records. Exact photos were attached for **Honey Bee Overdrive Plus, Pink Purple Fuzz, Silver Bee Overdrive, Sparkling Yellow Overdrive, Über Bee Overdrive, Abelha Tropical Fuzz, Fatbee, and Nectar Tone Sweetener**. **Honey Beest** and **Ziffer Overdrive** remain photo-pending because stable exact direct image assets were not promoted.
+
+Current tracker checkpoint:
+- Unique pedals in website catalog: **3,821**
+- Pedals with research information: **531**
+- Pedals with confirmed pictures: **260**
+- Fully complete PRP pedals: **260**
+- Remaining incomplete pedals: **3,561**
+- Researched but waiting only for a confirmed picture: **271**
+- PRP status: Active, PRP1 research and photo synchronization pass
+- Current PRP1 target: **Beetronics FX - Octahive V2**
+
+The site's public data-version markers are now **2026-09-19-prp1-batch-077**. The deployment browser audit's no-research fallback is now **Beetronics FX - Octahive V2**, which remains unresearched in the tracker.
