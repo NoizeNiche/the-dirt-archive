@@ -40,5 +40,5 @@ BlueBerry is voiced to retain bass punch while producing a touch-sensitive overd
 
 ## Photo
 - **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://cdn.rockboard.de/common/image_753144d0-9b6c-4d46-94eb-58e729365084.webp
-- **Source page:** https://www.rockboard.de/en/pedalPedia/Bearfoot-Fx/BlueBerry-Bass-Overdrive/68975133/
+- **Exact-model image:** https://rvb-img.reverb.com/i/s--0nI2clJM--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/81bd4edc-efbf-481d-8175-1ae19b764a7f.jpeg
+- **Source page:** https://reverb.com/item/101268995-bearfoot-fx-blueberry-bass-overdrive-3bod-handmade-in-usa
