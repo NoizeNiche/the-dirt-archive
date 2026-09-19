@@ -1,0 +1,304 @@
+# Pedal Image Cache Report
+
+- Cached in this run: **240**
+- Local images retained/reorganized: **0**
+- Download failures: **45**
+
+## Storage layout
+
+- Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
+- Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
+- Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- 1981 Inventions - DRV -> `./assets/pedals/1981-inventions/drv/primary.webp`
+- 1981 Inventions - DRV MOD 1 -> `./assets/pedals/1981-inventions/drv-mod-1/primary.webp`
+- 1981 Inventions - DRV MOD 1 (WHITE) -> `./assets/pedals/1981-inventions/drv-mod-1/variants/white.webp`
+- 1981 Inventions - DRV MOD 2 -> `./assets/pedals/1981-inventions/drv-mod-2/primary.webp`
+- 1981 Inventions - DRV MOD 2 HYPERFADE -> `./assets/pedals/1981-inventions/drv-mod-2-hyperfade/primary.webp`
+- 1981 Inventions - DRV2 -> `./assets/pedals/1981-inventions/drv2/primary.webp`
+- 1981 Inventions - Forget and Not Slow Down LVL -> `./assets/pedals/1981-inventions/forget-and-not-slow-down-lvl/primary.webp`
+- A Sound Of Failure - Death Driver -> `./assets/pedals/a-sound-of-failure/death-driver/primary.webp`
+- A.Y.A - Bass Fuzz -> `./assets/pedals/a-y-a/bass-fuzz/primary.webp`
+- A.Y.A - BM-Fuzz 70 -> `./assets/pedals/a-y-a/bm-fuzz-70/primary.webp`
+- A.Y.A - BM-Fuzz 80 -> `./assets/pedals/a-y-a/bm-fuzz-80/primary.webp`
+- A.Y.A - Drivesta -> `./assets/pedals/a-y-a/drivesta/primary.webp`
+- A/DA - APP-1 Pedal Preamp with D-Torsion Core -> `./assets/pedals/a-da/app-1-pedal-preamp-with-d-torsion-core/primary.webp`
+- A/DA - Final Phase -> `./assets/pedals/a-da/final-phase/primary.webp`
+- A/DA - MP-1 Channel -> `./assets/pedals/a-da/mp-1-channel/primary.webp`
+- Abasi Concepts - Pathos Distortion -> `./assets/pedals/abasi-concepts/pathos-distortion/primary.webp`
+- AbbyTone - Screwed Driver -> `./assets/pedals/abbytone/screwed-driver/primary.webp`
+- ABL Pedals - The Szczur -> `./assets/pedals/abl-pedals/the-szczur/primary.webp`
+- ABL Pedals - The Toor -> `./assets/pedals/abl-pedals/the-toor/primary.webp`
+- Abominable Electronics - Cat Dirt Mini - Killer Acid Artwork -> `./assets/pedals/abominable-electronics/cat-dirt-mini-killer-acid-artwork/primary.webp`
+- Abominable Electronics - Demon Lung -> `./assets/pedals/abominable-electronics/demon-lung/primary.webp`
+- Abominable Electronics - Hail Satan -> `./assets/pedals/abominable-electronics/hail-satan/primary.webp`
+- Abominable Electronics - Hail Satan Deluxe -> `./assets/pedals/abominable-electronics/hail-satan-deluxe/primary.webp`
+- Abominable Electronics - Hellmouth -> `./assets/pedals/abominable-electronics/hellmouth/primary.webp`
+- Abominable Electronics - Oppressive Cult Destroyer -> `./assets/pedals/abominable-electronics/oppressive-cult-destroyer/primary.webp`
+- Abominable Electronics - Throne Torcher -> `./assets/pedals/abominable-electronics/throne-torcher/primary.webp`
+- Abominable Electronics - Yeti Fuzz -> `./assets/pedals/abominable-electronics/yeti-fuzz/primary.webp`
+- AC Efectos - Green 808 Overdrive -> `./assets/pedals/ac-efectos/green-808-overdrive/primary.webp`
+- AC Noises - Arpiona -> `./assets/pedals/ac-noises/arpiona/primary.webp`
+- AC Noises - Urla -> `./assets/pedals/ac-noises/urla/primary.webp`
+- AC Noises - Vola -> `./assets/pedals/ac-noises/vola/primary.webp`
+- Acid Age Electronics - Acid Pig - LM308 Distortion Unit -> `./assets/pedals/acid-age-electronics/acid-pig-lm308-distortion-unit/primary.webp`
+- Acid Fuzz - Italian Fuzz -> `./assets/pedals/acid-fuzz/italian-fuzz/primary.webp`
+- Acid Fuzz - NKT275 Acid Fuzz Face -> `./assets/pedals/acid-fuzz/nkt275-acid-fuzz-face/primary.webp`
+- Acid Fuzz - Selmer Buzz Tone -> `./assets/pedals/acid-fuzz/selmer-buzz-tone/primary.webp`
+- Acid Fuzz - Sonic Boom -> `./assets/pedals/acid-fuzz/sonic-boom/primary.webp`
+- Acid Fuzz - The Zoink Machine -> `./assets/pedals/acid-fuzz/the-zoink-machine/primary.webp`
+- Acid Fuzz - Zonk Machine - Vintage Series Re-build -> `./assets/pedals/acid-fuzz/zonk-machine-vintage-series-re-build/primary.webp`
+- Aclam Guitars - Cinnamon Drive -> `./assets/pedals/aclam-guitars/cinnamon-drive/primary.webp`
+- Aclam Guitars - Cinnamon Drive - Dreamer Edition -> `./assets/pedals/aclam-guitars/cinnamon-drive-dreamer-edition/primary.webp`
+- Aclam Guitars - Dr. Robert -> `./assets/pedals/aclam-guitars/dr-robert/primary.webp`
+- Aclam Guitars - Go Rocky Go -> `./assets/pedals/aclam-guitars/go-rocky-go/primary.webp`
+- Aclam Guitars - Go Rocky Go - White Album Edition -> `./assets/pedals/aclam-guitars/go-rocky-go-white-album-edition/primary.webp`
+- Aclam Guitars - The Mocker -> `./assets/pedals/aclam-guitars/the-mocker/primary.webp`
+- Aclam Guitars - The Windmiller Preamp -> `./assets/pedals/aclam-guitars/the-windmiller-preamp/primary.webp`
+- Aclam Guitars - The Woman Tone -> `./assets/pedals/aclam-guitars/the-woman-tone/primary.webp`
+- Acorn Amps - Epstein Didn't Kill Himself Fuzz -> `./assets/pedals/acorn-amps/epstein-didn-t-kill-himself-fuzz/primary.webp`
+- Acorn Amps - Epstein Isn't Dead Op-Amp Boost/Distortion -> `./assets/pedals/acorn-amps/epstein-isn-t-dead-op-amp-boost-distortion/primary.webp`
+- Acorn Amps - Kakarot Fuzz -> `./assets/pedals/acorn-amps/kakarot-fuzz/primary.webp`
+- Acorn Amps - Mind Killer Dual Distortion -> `./assets/pedals/acorn-amps/mind-killer-dual-distortion/primary.webp`
+- Acorn Amps - Solid State Amp/Preamp -> `./assets/pedals/acorn-amps/solid-state-amp-preamp/primary.webp`
+- Acorn Amps - TMA-1 Fuzz -> `./assets/pedals/acorn-amps/tma-1-fuzz/primary.webp`
+- Acorn Amps - Vegeta Drive -> `./assets/pedals/acorn-amps/vegeta-drive/primary.webp`
+- AD Pedals - Aerodynamic overdrive -> `./assets/pedals/ad-pedals/aerodynamic-overdrive/primary.webp`
+- ADA Amps - MP-1 Channel -> `./assets/pedals/ada-amps/mp-1-channel/primary.webp`
+- Add+ Pedals - Blues Player -> `./assets/pedals/add-pedals/blues-player/primary.webp`
+- Add+ Pedals - Pi -> `./assets/pedals/add-pedals/pi/primary.webp`
+- Add+ Pedals - Ratortion 3 v2 -> `./assets/pedals/add-pedals/ratortion-3-v2/primary.webp`
+- Add+ Pedals - Shredder -> `./assets/pedals/add-pedals/shredder/primary.webp`
+- Advance Tube Technology - Over Cat Drive -> `./assets/pedals/advance-tube-technology/over-cat-drive/primary.webp`
+- Adventure Audio - Demogorgon Fuzz -> `./assets/pedals/adventure-audio/demogorgon-fuzz/primary.webp`
+- Adventure Audio - Dream Reaper -> `./assets/pedals/adventure-audio/dream-reaper/primary.webp`
+- Adventure Audio - Thaw -> `./assets/pedals/adventure-audio/thaw/primary.webp`
+- Aguilar - Agro - Bass Overdrive -> `./assets/pedals/aguilar/agro-bass-overdrive/primary.webp`
+- Aguilar - Fuzzistor - Bass Fuzz -> `./assets/pedals/aguilar/fuzzistor-bass-fuzz/primary.webp`
+- Aguilar - Storm King - Micro Bass Distortion/Fuzz -> `./assets/pedals/aguilar/storm-king-micro-bass-distortion-fuzz/primary.webp`
+- AJ Peat - Dirty Buzzard - Overdrive -> `./assets/pedals/aj-peat/dirty-buzzard-overdrive/primary.webp`
+- AJ Peat - Fat Peacock - Distortion w/ Boost -> `./assets/pedals/aj-peat/fat-peacock-distortion-w-boost/primary.webp`
+- AJ Peat - Screaming Flamingo - Overdrive/Distortion -> `./assets/pedals/aj-peat/screaming-flamingo-overdrive-distortion/primary.webp`
+- Alairex - H.A.L.O. - Harmonic Amp-Like Overdrive -> `./assets/pedals/alairex/h-a-l-o-harmonic-amp-like-overdrive/primary.webp`
+- Alairex - H.A.L.O. Jr. -> `./assets/pedals/alairex/h-a-l-o-jr/primary.webp`
+- Alameda Guitars - Fuzzoo -> `./assets/pedals/alameda-guitars/fuzzoo/primary.webp`
+- Aleks K Production - Sun Beam - Magic Drive -> `./assets/pedals/aleks-k-production/sun-beam-magic-drive/primary.webp`
+- Amptweaker - Bass TightDrive -> `./assets/pedals/amptweaker/bass-tightdrive/primary.webp`
+- Amptweaker - Bass TightFuzz -> `./assets/pedals/amptweaker/bass-tightfuzz/primary.webp`
+- Amptweaker - Bass TightMetal Jr -> `./assets/pedals/amptweaker/bass-tightmetal-jr/primary.webp`
+- Amptweaker - Bass TightRock Jr -> `./assets/pedals/amptweaker/bass-tightrock-jr/primary.webp`
+- Amptweaker - Big Rock Pro -> `./assets/pedals/amptweaker/big-rock-pro/primary.webp`
+- Amptweaker - Big Rock Pro II -> `./assets/pedals/amptweaker/big-rock-pro-ii/primary.webp`
+- Amptweaker - BluesFuzz Jr -> `./assets/pedals/amptweaker/bluesfuzz-jr/primary.webp`
+- Amptweaker - Fat Metal -> `./assets/pedals/amptweaker/fat-metal/primary.webp`
+- Amptweaker - Fat Metal Pro -> `./assets/pedals/amptweaker/fat-metal-pro/primary.webp`
+- Amptweaker - Fat Metal Pro II -> `./assets/pedals/amptweaker/fat-metal-pro-ii/primary.webp`
+- Amptweaker - Tight Drive -> `./assets/pedals/amptweaker/tight-drive/primary.webp`
+- Amptweaker - Tight Drive Pro -> `./assets/pedals/amptweaker/tight-drive-pro/primary.webp`
+- Amptweaker - Tight Metal -> `./assets/pedals/amptweaker/tight-metal/primary.webp`
+- Amptweaker - Tight Metal Pro -> `./assets/pedals/amptweaker/tight-metal-pro/primary.webp`
+- Amptweaker - Tight Metal Pro II -> `./assets/pedals/amptweaker/tight-metal-pro-ii/primary.webp`
+- Amptweaker - TightFuzz Pro -> `./assets/pedals/amptweaker/tightfuzz-pro/primary.webp`
+- Analog Alien - Alien Bass Station -> `./assets/pedals/analog-alien/alien-bass-station/primary.webp`
+- Analog Alien - Alien Tone Dragon -> `./assets/pedals/analog-alien/alien-tone-dragon/primary.webp`
+- Analog Alien - Bucket Seat -> `./assets/pedals/analog-alien/bucket-seat/primary.webp`
+- Analog Alien - FuzzBubble-45 -> `./assets/pedals/analog-alien/fuzzbubble-45/primary.webp`
+- Analog Alien - Rumble Seat -> `./assets/pedals/analog-alien/rumble-seat/primary.webp`
+- Analog King - ZenTone - Harmonic Drive -> `./assets/pedals/analog-king/zentone-harmonic-drive/primary.webp`
+- Analog Man - King Of Tone -> `./assets/pedals/analog-man/king-of-tone/primary.webp`
+- Analog Man - Peppermint Fuzz -> `./assets/pedals/analog-man/peppermint-fuzz/primary.webp`
+- Analog Man - Sun Lion -> `./assets/pedals/analog-man/sun-lion/primary.webp`
+- Analog Noir - Harmonic Percolator -> `./assets/pedals/analog-noir/harmonic-percolator/primary.webp`
+- Analog Noir - Si / Ge Fuzz Face -> `./assets/pedals/analog-noir/si-ge-fuzz-face/primary.webp`
+- Animal Factory Amplification - Baron Samedi -> `./assets/pedals/animal-factory-amplification/baron-samedi/primary.webp`
+- Animal Factory Amplification - Godeater -> `./assets/pedals/animal-factory-amplification/godeater/primary.webp`
+- Animal Factory Amplification - Ozymandias -> `./assets/pedals/animal-factory-amplification/ozymandias/primary.webp`
+- Animal Factory Amplification - Pit Viper -> `./assets/pedals/animal-factory-amplification/pit-viper/primary.webp`
+- Animals Pedal - PUSH & PULL DISTORTION -> `./assets/pedals/animals-pedal/push-pull-distortion/primary.webp`
+- Animals Pedal - PUSH & PULL DISTORTION LIMITED EDITION -> `./assets/pedals/animals-pedal/push-pull-distortion-limited-edition/primary.webp`
+- Animals Pedal - PUSH & PULL DISTORTION LIMITED EDITION C -> `./assets/pedals/animals-pedal/push-pull-distortion-limited-edition-c/primary.webp`
+- Animals Pedal - Sunday Afternoon Is Infinity Bender -> `./assets/pedals/animals-pedal/sunday-afternoon-is-infinity-bender/primary.webp`
+- Animals Pedal - Surfing Bear Overdrive -> `./assets/pedals/animals-pedal/surfing-bear-overdrive/primary.webp`
+- Anode Effects - Dragon Drive V2 -> `./assets/pedals/anode-effects/dragon-drive-v2/primary.webp`
+- ARC Effects - Soothsayer -> `./assets/pedals/arc-effects/soothsayer/primary.webp`
+- Arcane Analog - BUZZAROUND OC45 / OC45 / OC43 -> `./assets/pedals/arcane-analog/buzzaround-oc45-oc45-oc43/primary.webp`
+- Arcane Analog - BUZZSAW -> `./assets/pedals/arcane-analog/buzzsaw/primary.webp`
+- Arcane Analog - Facebender / Rangbender -> `./assets/pedals/arcane-analog/facebender-rangbender/primary.webp`
+- Arcane Analog - NKT775 WHITE FUZZ FACE -> `./assets/pedals/arcane-analog/nkt775-white-fuzz-face/primary.webp`
+- Arcane Analog - OC42 MK1.5 Tonebender -> `./assets/pedals/arcane-analog/oc42-mk1-5-tonebender/primary.webp`
+- Artisanal Effects - Artisanal Cheese (Big Cheese) -> `./assets/pedals/artisanal-effects/artisanal-cheese-big-cheese/primary.webp`
+- Artisanal Effects - Cheddar Source -> `./assets/pedals/artisanal-effects/cheddar-source/primary.webp`
+- Ashdown Engineering - John Myung Double Drive -> `./assets/pedals/ashdown-engineering/john-myung-double-drive/primary.webp`
+- Asheville Guitar Pedals - Fuzz Driver Distortion -> `./assets/pedals/asheville-guitar-pedals/fuzz-driver-distortion/primary.webp`
+- Astral ToneWorx - 666 The Beast -> `./assets/pedals/astral-toneworx/666-the-beast/primary.webp`
+- Astral ToneWorx - Krampus — Doom Fuzz -> `./assets/pedals/astral-toneworx/krampus-doom-fuzz/primary.webp`
+- Audiofab - Chonky Boi -> `./assets/pedals/audiofab/chonky-boi/primary.webp`
+- Audiofab - Valve Warper -> `./assets/pedals/audiofab/valve-warper/primary.webp`
+- Audiolithe - Chaosculpt Bass -> `./assets/pedals/audiolithe/chaosculpt-bass/primary.webp`
+- Audiolithe - Doomer Fuzz -> `./assets/pedals/audiolithe/doomer-fuzz/primary.webp`
+- Audiolithe - Extinction Drive -> `./assets/pedals/audiolithe/extinction-drive/primary.webp`
+- Audiolithe - La Montagne -> `./assets/pedals/audiolithe/la-montagne/primary.webp`
+- Audiolithe - The Empress Bass -> `./assets/pedals/audiolithe/the-empress-bass/primary.webp`
+- Axcess by Giannini - DS-101 Distortion -> `./assets/pedals/axcess-by-giannini/ds-101-distortion/primary.webp`
+- Axcess by Giannini - DS-102 Distortion 2 -> `./assets/pedals/axcess-by-giannini/ds-102-distortion-2/primary.webp`
+- Axcess by Giannini - FZ-110 Fuzz -> `./assets/pedals/axcess-by-giannini/fz-110-fuzz/primary.webp`
+- Axcess by Giannini - OD-102 Over Drive -> `./assets/pedals/axcess-by-giannini/od-102-over-drive/primary.webp`
+- Axess Electronics - OBViouS Boost/OD -> `./assets/pedals/axess-electronics/obvious-boost-od/primary.webp`
+- Axewerx - Glass Drive -> `./assets/pedals/axewerx/glass-drive/primary.webp`
+- Axis Guitar Effects - Skrambler -> `./assets/pedals/axis-guitar-effects/skrambler/primary.webp`
+- AXL - DP-1 Distortion -> `./assets/pedals/axl/dp-1-distortion/primary.webp`
+- Azor - AP-507 Dog Distortion Guitar Effect Pedal -> `./assets/pedals/azor/ap-507-dog-distortion-guitar-effect-pedal/primary.webp`
+- Azor - Fuzz Effect Pedal -> `./assets/pedals/azor/fuzz-effect-pedal/primary.webp`
+- Azor - Overdrive Effect Pedal -> `./assets/pedals/azor/overdrive-effect-pedal/primary.webp`
+- B85 Audio - Germanium Overdrive Deluxe -> `./assets/pedals/b85-audio/germanium-overdrive-deluxe/primary.webp`
+- Bad Penny FX - Wireless Germanium Fuzz -> `./assets/pedals/bad-penny-fx/wireless-germanium-fuzz/primary.webp`
+- Bad Pixel Pedals - Bad Face Silicon -> `./assets/pedals/bad-pixel-pedals/bad-face-silicon/primary.webp`
+- Bad Pixel Pedals - Buzzaround Fuzz -> `./assets/pedals/bad-pixel-pedals/buzzaround-fuzz/primary.webp`
+- Bad Pixel Pedals - Classic Model 1 Fuzz -> `./assets/pedals/bad-pixel-pedals/classic-model-1-fuzz/primary.webp`
+- Bad Pixel Pedals - Classic Model 2 Fuzz -> `./assets/pedals/bad-pixel-pedals/classic-model-2-fuzz/primary.webp`
+- Bad Pixel Pedals - Classic Model 3 Fuzz -> `./assets/pedals/bad-pixel-pedals/classic-model-3-fuzz/primary.webp`
+- Bad Pixel Pedals - Fuck_Fuck Twin Tube Boost Overdrive -> `./assets/pedals/bad-pixel-pedals/fuck-fuck-twin-tube-boost-overdrive/primary.webp`
+- Bad Pixel Pedals - Germanium Gold Face Fuzz -> `./assets/pedals/bad-pixel-pedals/germanium-gold-face-fuzz/primary.webp`
+- Bad Pixel Pedals - Germanium Pink Face Fuzz -> `./assets/pedals/bad-pixel-pedals/germanium-pink-face-fuzz/primary.webp`
+- Bad Pixel Pedals - MKII Professional Gold Bender Fuzz -> `./assets/pedals/bad-pixel-pedals/mkii-professional-gold-bender-fuzz/primary.webp`
+- Baja Tech Custom - Top Boost TB-1 -> `./assets/pedals/baja-tech-custom/top-boost-tb-1/primary.webp`
+- Balaguer Guitars - Fission Drive v2 -> `./assets/pedals/balaguer-guitars/fission-drive-v2/primary.webp`
+- Baltimore Sonic Research Institute - Ashmaker - Distortion w/ Boost -> `./assets/pedals/baltimore-sonic-research-institute/ashmaker-distortion-w-boost/primary.webp`
+- Baltimore Sonic Research Institute - Get the Name of the Dog! JFET Overdrive -> `./assets/pedals/baltimore-sonic-research-institute/get-the-name-of-the-dog-jfet-overdrive/primary.webp`
+- Baltimore Sonic Research Institute - Impossible Colors - Transformer Coupled Fuzz -> `./assets/pedals/baltimore-sonic-research-institute/impossible-colors-transformer-coupled-fuzz/primary.webp`
+- Baltimore Sonic Research Institute - Oriole Fuzz -> `./assets/pedals/baltimore-sonic-research-institute/oriole-fuzz/primary.webp`
+- Baltimore Sonic Research Institute - Radical Conversion - Discrete Opamp Distortion -> `./assets/pedals/baltimore-sonic-research-institute/radical-conversion-discrete-opamp-distortion/primary.webp`
+- Barbarossa - CHIMAERA -> `./assets/pedals/barbarossa/chimaera/primary.webp`
+- Barbarossa - CRONUS -> `./assets/pedals/barbarossa/cronus/primary.webp`
+- Barber Electronics - B-Custom Super Sport -> `./assets/pedals/barber-electronics/b-custom-super-sport/primary.webp`
+- Barber Electronics - Burn Unit -> `./assets/pedals/barber-electronics/burn-unit/primary.webp`
+- Barber Electronics - Direct Drive Compact / Direct Drive v4 -> `./assets/pedals/barber-electronics/direct-drive-compact-direct-drive-v4/primary.webp`
+- Barber Electronics - Dirty Bomb -> `./assets/pedals/barber-electronics/dirty-bomb/primary.webp`
+- Barber Electronics - Small Fry Burn Unit -> `./assets/pedals/barber-electronics/small-fry-burn-unit/primary.webp`
+- Barber Electronics - Trifecta -> `./assets/pedals/barber-electronics/trifecta/primary.webp`
+- Barber Electronics - UnLimiTeD -> `./assets/pedals/barber-electronics/unlimited/primary.webp`
+- Baroni Lab - Angry Pig -> `./assets/pedals/baroni-lab/angry-pig/primary.webp`
+- Baroni Lab - Billygoats Muff -> `./assets/pedals/baroni-lab/billygoats-muff/primary.webp`
+- Baroni Lab - GD Drive -> `./assets/pedals/baroni-lab/gd-drive/primary.webp`
+- Baroni Lab - Moon Sound -> `./assets/pedals/baroni-lab/moon-sound/primary.webp`
+- Baroni Lab - Morpheus -> `./assets/pedals/baroni-lab/morpheus/primary.webp`
+- Baroni Lab - The Boutique Muff -> `./assets/pedals/baroni-lab/the-boutique-muff/primary.webp`
+- Baroni Lab - Tubes Tone & Drive -> `./assets/pedals/baroni-lab/tubes-tone-drive/primary.webp`
+- Basic Audio - Alter-Destiny -> `./assets/pedals/basic-audio/alter-destiny/primary.webp`
+- Basic Audio - Blender -> `./assets/pedals/basic-audio/blender/primary.webp`
+- Basic Audio - Bye-Bias -> `./assets/pedals/basic-audio/bye-bias/primary.webp`
+- Basic Audio - Bye-Bias (Germanium) -> `./assets/pedals/basic-audio/bye-bias-germanium/primary.webp`
+- Basic Audio - DOT -> `./assets/pedals/basic-audio/dot/primary.webp`
+- Basic Audio - Eve fuzz -> `./assets/pedals/basic-audio/eve-fuzz/primary.webp`
+- Basic Audio - Face -> `./assets/pedals/basic-audio/face/primary.webp`
+- Basic Audio - Foxey Lady -> `./assets/pedals/basic-audio/foxey-lady/primary.webp`
+- Basic Audio - Foxton -> `./assets/pedals/basic-audio/foxton/primary.webp`
+- Basic Audio - Futureman -> `./assets/pedals/basic-audio/futureman/primary.webp`
+- Basic Audio - Fuzz Mutant -> `./assets/pedals/basic-audio/fuzz-mutant/primary.webp`
+- Basic Audio - Fuzz Right -> `./assets/pedals/basic-audio/fuzz-right/primary.webp`
+- Basic Audio - Gnarly -> `./assets/pedals/basic-audio/gnarly/primary.webp`
+- Basic Audio - Gypsy fuzz -> `./assets/pedals/basic-audio/gypsy-fuzz/primary.webp`
+- Basic Audio - Kay Fuzz -> `./assets/pedals/basic-audio/kay-fuzz/primary.webp`
+- Basic Audio - Knight fuzz -> `./assets/pedals/basic-audio/knight-fuzz/primary.webp`
+- Basic Audio - Low Volt -> `./assets/pedals/basic-audio/low-volt/primary.webp`
+- Basic Audio - Marq Won -> `./assets/pedals/basic-audio/marq-won/primary.webp`
+- Basic Audio - Nonts -> `./assets/pedals/basic-audio/nonts/primary.webp`
+- Basic Audio - Orpheum -> `./assets/pedals/basic-audio/orpheum/primary.webp`
+- Basic Audio - Oscix -> `./assets/pedals/basic-audio/oscix/primary.webp`
+- Basic Audio - Pirk -> `./assets/pedals/basic-audio/pirk/primary.webp`
+- Basic Audio - Scarab Deluxe -> `./assets/pedals/basic-audio/scarab-deluxe/primary.webp`
+- Basic Audio - Sharp Tooth -> `./assets/pedals/basic-audio/sharp-tooth/primary.webp`
+- Basic Audio - Solar Myth -> `./assets/pedals/basic-audio/solar-myth/primary.webp`
+- Basic Audio - Spooky Tooth -> `./assets/pedals/basic-audio/spooky-tooth/primary.webp`
+- Basic Audio - Supa -> `./assets/pedals/basic-audio/supa/primary.webp`
+- Basic Audio - Supa MKI -> `./assets/pedals/basic-audio/supa-mki/primary.webp`
+- Basic Audio - Supa Tweak -> `./assets/pedals/basic-audio/supa-tweak/primary.webp`
+- Basic Audio - Super Fuzz -> `./assets/pedals/basic-audio/super-fuzz/primary.webp`
+- Basic Audio - Tri-Ram Muff -> `./assets/pedals/basic-audio/tri-ram-muff/primary.webp`
+- Basic Audio - Zippy -> `./assets/pedals/basic-audio/zippy/primary.webp`
+- Basic Audio - Zonk -> `./assets/pedals/basic-audio/zonk/primary.webp`
+- BearFoot FX - Burgundy BossHorn Fuzz -> `./assets/pedals/bearfoot-fx/burgundy-bosshorn-fuzz/primary.webp`
+- BearFoot FX - Candy Apple Fuzz -> `./assets/pedals/bearfoot-fx/candy-apple-fuzz/primary.webp`
+- BearFoot FX - Dyna Red Distortion -> `./assets/pedals/bearfoot-fx/dyna-red-distortion/primary.webp`
+- BearFoot FX - Emerald Green Distortion Machine -> `./assets/pedals/bearfoot-fx/emerald-green-distortion-machine/primary.webp`
+- BearFoot FX - Honey Bee Overdrive -> `./assets/pedals/bearfoot-fx/honey-bee-overdrive/primary.webp`
+- BearFoot FX - Silver Bee Overdrive -> `./assets/pedals/bearfoot-fx/silver-bee-overdrive/primary.webp`
+- BearFoot FX - Über Bee Overdrive -> `./assets/pedals/bearfoot-fx/ber-bee-overdrive/primary.webp`
+- Beetronics FX - Abelha Tropical Fuzz -> `./assets/pedals/beetronics-fx/abelha-tropical-fuzz/primary.webp`
+- Beetronics FX - Fatbee -> `./assets/pedals/beetronics-fx/fatbee/primary.webp`
+- Beetronics FX - Nectar Tone Sweetener -> `./assets/pedals/beetronics-fx/nectar-tone-sweetener/primary.webp`
+- Beetronics FX - Octahive V2 -> `./assets/pedals/beetronics-fx/octahive-v2/primary.webp`
+- Beetronics FX - Overhive -> `./assets/pedals/beetronics-fx/overhive/primary.webp`
+- Beetronics FX - Royal Jelly -> `./assets/pedals/beetronics-fx/royal-jelly/primary.webp`
+- Beetronics FX - Swarm Fuzz Harmonizer -> `./assets/pedals/beetronics-fx/swarm-fuzz-harmonizer/primary.webp`
+- Beetronics FX - Tuna Fuzz -> `./assets/pedals/beetronics-fx/tuna-fuzz/primary.webp`
+- Beetronics FX - Vezzpa Octave Stinger -> `./assets/pedals/beetronics-fx/vezzpa-octave-stinger/primary.webp`
+- Behringer - Bass Brassmaster -> `./assets/pedals/behringer/bass-brassmaster/primary.webp`
+- Behringer - Fuzz Bender -> `./assets/pedals/behringer/fuzz-bender/primary.webp`
+- Behringer - SF300 Super Fuzz -> `./assets/pedals/behringer/sf300-super-fuzz/primary.webp`
+- Behringer - UZ400 Ultra Fuzz -> `./assets/pedals/behringer/uz400-ultra-fuzz/primary.webp`
+- Benson Amps - Deep Sea Diver Fuzz-Echo -> `./assets/pedals/benson-amps/deep-sea-diver-fuzz-echo/primary.webp`
+- Benson Amps - Germanium Fuzz -> `./assets/pedals/benson-amps/germanium-fuzz/primary.webp`
+- Benson Amps - Germanium Preamp Pedal -> `./assets/pedals/benson-amps/germanium-preamp-pedal/primary.webp`
+- Benson Amps - Portable Distortion 424 MKII -> `./assets/pedals/benson-amps/portable-distortion-424-mkii/primary.webp`
+- Benson Amps - Preamp Pedal -> `./assets/pedals/benson-amps/preamp-pedal/primary.webp`
+- Benson Amps - Störkn B0kš -> `./assets/pedals/benson-amps/st-rkn-b0k/primary.webp`
+- BOSS - BD-2W Blues Driver -> `./assets/pedals/boss/bd-2w-blues-driver/primary.webp`
+- BOSS - DS-1 Distortion -> `./assets/pedals/boss/ds-1-distortion/primary.webp`
+- BOSS - DS-1W Distortion -> `./assets/pedals/boss/ds-1w-distortion/primary.webp`
+- BOSS - DS-1X Distortion -> `./assets/pedals/boss/ds-1x-distortion/primary.webp`
+- BOSS - FZ-1W Fuzz -> `./assets/pedals/boss/fz-1w-fuzz/primary.webp`
+- BOSS - HM-2W Heavy Metal -> `./assets/pedals/boss/hm-2w-heavy-metal/primary.webp`
+- BOSS - MD-2 Mega Distortion -> `./assets/pedals/boss/md-2-mega-distortion/primary.webp`
+
+## Still external / failed
+
+- 1981 Inventions - LVL: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--G4-8Vm_q--/quality%3Dmedium-low%2Cheight%3D128%2Cwidth%3D128%2Cfit%3Dcover%2Cgravity%3Dbottom%2Ctrim.top%3D487%2Ctrim.left%3D0%2Ctrim.width%3D2803%2Ctrim.height%3D2802/a5ff13a8-98b7-45ec-a407-646cd7618c27.jpg`)
+- 6 Degrees FX - Amplitude Eleven: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--mEzNv7en--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ysq2jsvoly3i9hdmegqp.jpg`)
+- A.Y.A - Frontgate Bass Drive: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--XR2n-LqN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zqe7hhgb6o7hfw9ys8jp.jpg`)
+- Abominable Electronics - Toke Machine: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--jR1hsiI2--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/2a55b249-0458-4491-8c62-b529e54728d7.jpeg`)
+- AC Noises - Combatti: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--Xqt3uB-C--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/no2qc0u1nbsycrhdwqav.jpg`)
+- AC Noises - Esplora: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--btBDBZyY--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/nuhzffptp8l1lmueazr5.jpg`)
+- Accel Audio - Vintage Scream'in Overdrive: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp`)
+- Acid Fuzz - Acid Fuzzer MkI: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg`)
+- Acid Fuzz - Professional MkII: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg`)
+- Acoustic Imaginearing - QuantumDrive: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--_shxmvb0--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/yet9orua3ajy6iayqjni.jpg`)
+- Add+ Pedals - Ratortion 3: HTTP Error 401: Unauthorized (`https://rvb-img.reverb.com/image/upload/s---AWPd2wZ--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1449637705/wzg18csfwj7z7knsatuj.jpg`)
+- Add+ Pedals - Tube Drive Silver Edition: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--qoIOzxcF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tjxrnzleqztsvv2xli8c.jpg`)
+- Addrock Musical Products - Boostmaster: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--cPJtDBfl--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y7ha5ajkqtrfut0qr7gu.jpg`)
+- Addrock Musical Products - Geranium Fuzz: HTTP Error 401: Unauthorized (`https://rvb-img.reverb.com/image/upload/s--IjycEqvj--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1456226055/f6h83f51fzcl2nmzspwd.jpg`)
+- Addrock Musical Products - Hism Scism: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--QvEfuoM3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/d3c694a8-8362-4daf-960e-5c5dd24ab972.jpg`)
+- Addrock Musical Products - Ol' Yeller: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--1m-e8PnW--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cyujsgwhc8a9ukfacuk3.jpg`)
+- Adventure Audio - Fuzz Peaks: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--K5ULJTe1--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kvxbppwvuc1i4i9mrtkn.jpg`)
+- Adventure Audio - Fuzz Peaks II: HTTP Error 401: Unauthorized (`https://rvb-img.reverb.com/image/upload/s--DDynb3KV--/f_auto%2Ct_large/v1647988180/fbnr2fnl1le99qdr4iuo.jpg`)
+- Airis Effects - Solar Flare Overdrive: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg`)
+- Airis Effects - The Savage Drive: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--KaeQ-vJK--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/pik27qakygzwbpokegok.jpg`)
+- Amptweaker - Bass BluesFuzz Jr: The read operation timed out (`https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_bluesfuzzjrmm.jpg`)
+- Amptweaker - Bass TightDrive Jr: HTTP Error 403: Forbidden (`https://www.talkbass.com/attachments/img_0797-jpeg.5052266/`)
+- Amptweaker - Bass TightFuzz Jr: The read operation timed out (`https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_basstightfuzzjrkk.jpg`)
+- Amptweaker - BluesFuzz: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--TrItPNro--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/pp1mhbc2fmkalbzg4tvt.jpg`)
+- Amptweaker - Fat Rock: The read operation timed out (`https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_fatrockmm_la.jpg`)
+- Amptweaker - Tight Drive Jr: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg`)
+- Amptweaker - Tight Rock: The read operation timed out (`https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_tightrockdistortionff_la_2.jpg`)
+- Amptweaker - Tight Rock Jr: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--1lVdlucH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bpva2q0dheknjhz5xluf.jpg`)
+- Amptweaker - TightFuzz: The read operation timed out (`https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_tightfuzzmm.jpg`)
+- Arcane Analog - ARCANE ANALOG FF66 FUZZ FACE: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--j81VRdN1--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qbr2rqvrkbjea9urcng2.jpg`)
+- Asheville Guitar Pedals - Purr Machine Mini Fuzz Overdriver: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--oiUsZm4Y--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kh1kb9chvjin9p3ov8d3.jpg`)
+- Asheville Guitar Pedals - Rat King: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--R9Ok8B28--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/a7bc35c8-94df-4de1-852a-00e1225e5486.jpg`)
+- Bad Penny FX - The Fuzz Controller V2: HTTP Error 401: Unauthorized (`https://rvb-img.reverb.com/image/upload/s--E8djf9MD--/t_card-square/v1603730743/rzj7uzm62ghqsfvgxyqb.jpg`)
+- Baja Tech Custom - Das Fuzz Si: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--N6jvwcPq--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/veeaxunqjrmhehgj7sxz.jpg`)
+- Barber Electronics - 1/2 Gainer: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--0CXP4idA--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ihkvtnwubs7xjtfnhxii.jpg`)
+- Barber Electronics - B-Custom Cool: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--cDPq7Bfx--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zewwglod5rl7ahwm3kcm.jpg`)
+- Barber Electronics - B-Custom Dual Discrete: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--jYz60n48--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/nbrecmjfigvya6dqut57.jpg`)
+- Barber Electronics - Deep Fryer: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--Mrq96I7L--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hsqpezn6sighafbuiltx.jpg`)
+- BearFoot FX - Arctic White Fuzz: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--yc2ACt_c--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/wtw5ihx7ynje6g7ttdeo.jpg`)
+- BearFoot FX - BlueBerry Bass Overdrive: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--0nI2clJM--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/81bd4edc-efbf-481d-8175-1ae19b764a7f.jpeg`)
+- BearFoot FX - Bone Bender MKI Fuzz: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--6H63sI1H--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zactb0lkodoygtxa9sjk.png`)
+- BearFoot FX - Honey Bee Overdrive Plus: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--LLexNzWV--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cbp3ifzmgocobxxzp7ph.jpg`)
+- BearFoot FX - Pink Purple Fuzz: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--4ZjXjX7a--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/eocunac2puvk9kpbnzf6.jpg`)
+- BearFoot FX - Sparkling Yellow Overdrive: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--xQ6Yy85j--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D467%2Ctrim.left%3D0%2Ctrim.width%3D3024%2Ctrim.height%3D3032/f8dc1fd3-accb-4d8e-87d8-6ca67df8da26.jpeg`)
+- Beta Aivin - BOD-1 Bass Overdrive: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--CRo-YtDA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ktwe69qltfzjxjhw4kpk.jpg`)
+
+These records remain externally referenced until a later cache run succeeds.
