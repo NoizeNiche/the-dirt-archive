@@ -31,6 +31,16 @@ jobs:
       - name: Install image tooling
         run: python -m pip install --disable-pip-version-check pillow
 
+      - name: Install browser photo recovery tooling
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+
+      - name: Recover exact photos through source pages
+        env:
+          PHOTO_BROWSER_CACHE_LIMIT: "12"
+        run: node scripts/browser-photo-cache.mjs
+
       - name: Archive verified pedal photos locally
         env:
           PYTHONUNBUFFERED: "1"
