@@ -190,14 +190,14 @@ def main():
         "",
         "## Storage layout",
         "",
-        "- Primary image: "+q+"assets/pedals/{builder}/{pedal}/primary.webp"+q,
-        "- Colorway/edition image: "+q+"assets/pedals/{builder}/{pedal}/variants/{variant}.webp"+q,
-        "- Original source URL remains stored as "+q+"image_source_url"+q+".",
+        "- Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`",
+        "- Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`",
+        "- Original source URL remains stored as `image_source_url`.",
         "",
     ]
     if cached:
         lines += ["## Newly cached", ""]
-        lines += [f"- {b} - {p} -> "+q+"{path}"+q for b, p, path in sorted(cached)]
+        lines += [f"- {b} - {p} -> `{path}`" for b, p, path in sorted(cached)]
         lines += [""]
     if failures:
         lines += ["## Still external / failed", ""]
