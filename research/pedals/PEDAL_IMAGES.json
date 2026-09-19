@@ -5956,5 +5956,75 @@
     "image": null,
     "source_page": "https://blackstaramps.com/wp-content/uploads/2021/10/ht-metal-handbook.pdf",
     "research_record": "./research/pedals/PRP Batch 103/HT-METAL.md"
+  },
+  {
+    "builder": "Blackstar Amplification",
+    "pedal": "LT-DIST",
+    "image": null,
+    "source_page": "https://www.manualslib.tech/guide/639919/blackstar-lt-dist-pedal-manual.html",
+    "research_record": "./research/pedals/PRP Batch 104/LT-DIST.md"
+  },
+  {
+    "builder": "Blackstar Amplification",
+    "pedal": "LT-DRIVE",
+    "image": null,
+    "source_page": "https://www.manualslib.tech/guide/639920/blackstar-lt-drive-pedal-manual.html",
+    "research_record": "./research/pedals/PRP Batch 104/LT-DRIVE.md"
+  },
+  {
+    "builder": "Blackstar Amplification",
+    "pedal": "LT-DUAL",
+    "image": null,
+    "source_page": "https://www.manualslib.com/guide/3450022/blackstar-lt-dual-pedal-manual.html",
+    "research_record": "./research/pedals/PRP Batch 104/LT-DUAL.md"
+  },
+  {
+    "builder": "Blackstar Amplification",
+    "pedal": "LT-METAL",
+    "image": null,
+    "source_page": "https://www.manualslib.com/guide/3450023/blackstar-lt-metal-pedal-manual.html",
+    "research_record": "./research/pedals/PRP Batch 104/LT-METAL.md"
+  },
+  {
+    "builder": "Blackstone Appliances",
+    "pedal": "Mosfet Overdrive",
+    "image": null,
+    "source_page": "https://blackstoneappliances.com/",
+    "research_record": "./research/pedals/PRP Batch 104/Mosfet Overdrive.md"
+  },
+  {
+    "builder": "Blakemore Effects",
+    "pedal": "Bi-Polar Octadrive",
+    "image": null,
+    "source_page": "https://reverb.com/p/blakemore-effects-bi-polar-octadrive",
+    "research_record": "./research/pedals/PRP Batch 104/Bi-Polar Octadrive.md"
+  },
+  {
+    "builder": "Blakemore Effects",
+    "pedal": "Deus Ex Machina",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/interviews/brands/blakemore",
+    "research_record": "./research/pedals/PRP Batch 104/Deus Ex Machina.md"
+  },
+  {
+    "builder": "Blakemore Effects",
+    "pedal": "Mustang Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/interviews/brands/blakemore",
+    "research_record": "./research/pedals/PRP Batch 104/Mustang Overdrive.md"
+  },
+  {
+    "builder": "BLAMMO! Electronics",
+    "pedal": "Blues Blaster",
+    "image": null,
+    "source_page": "https://www.blammoelectronics.com/product-page/blues-blaster",
+    "research_record": "./research/pedals/PRP Batch 104/Blues Blaster.md"
+  },
+  {
+    "builder": "BLAMMO! Electronics",
+    "pedal": "Buzzaround",
+    "image": null,
+    "source_page": "https://www.blammoelectronics.com/product-page/buzzaround",
+    "research_record": "./research/pedals/PRP Batch 104/Buzzaround.md"
   }
 ]
