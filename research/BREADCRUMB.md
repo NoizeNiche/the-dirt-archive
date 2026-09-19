@@ -1,5 +1,21 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 141 checkpoint
+
+Batch 141 completed the next ten exact-order records: **Caline - CP-34 Headroom - Vintage Distortion; CP-42 Candy Floss Fuzz; CP-43 Pegasus; CP-46 Fuzzy Bear; CP-49 Midlander; CP-50 Central Station / Leon Drive; CP-501 Osmium - High-Gain Distortion; CP-501S Sathanas Distortion; CP-502 Mellow Drive; and CP-503 Queen Bee Overdrive**. Each received an individual Pedal Info research record, canonical index entry, tracker synchronization, and photo-manifest entry. Exact-model source imagery was located across the pass, but no direct image file was promoted to the local archive without the required cache step.
+
+Verified tracker state after Batch 141:
+- Unique pedals: **3821**
+- Researched: **1092**
+- Confirmed pictures: **303**
+- Fully complete: **335**
+- Incomplete: **3485**
+- Researched but waiting for a confirmed picture: **792**
+- Current exact-order target: **Caline - CP-504 M:Fuzz**
+
+Continue straight down the canonical catalog from that target.
+
+
 ## PRP1 Batch 140 checkpoint
 
 Batch 140 completed the next ten exact-order records: **Caline - CP-11 Puffer Fuzz; CP-12 Pure Sky; CP-15 Tantrum / Heavy Metal; CP-18 Orange Burst / Overdrive; CP-20 Crazy Cacti; CP-21 Rock Face; CP-25 Highway Man OD; CP-27 Sand Storm; CP-30 Red Devil - Heavy Metal; and CP-32 Clear Veil**. Each received an individual Pedal Info research record, canonical index entry, tracker synchronization, and photo-manifest entry. Exact-model source imagery was located across the pass, but no direct image file was promoted to the local archive without the required cache step.
