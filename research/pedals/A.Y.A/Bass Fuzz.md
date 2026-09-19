@@ -34,7 +34,7 @@ No numbered factory revision was verified. The archive keeps Bass Fuzz as one pa
 - **Exact diode/device:** Unknown.
 
 ## Sound
-Bass Fuzz is a straightforward, compact fuzz intended to add aggressive harmonic grit without a complicated control set. The small control layout suggests a direct approach: set the amount of fuzz, set the output level, and let the character of the bass and amplifier provide much of the final tone. [1]
+The original owner describes the Bass Fuzz as heavily distorted but deliberately short of total mush: the bass's core remains audible, the effect has strong forward push, and the note attack stays easy to follow in a band mix. He also reports relatively little sustain, making it less suited to long held notes but particularly effective for aggressive, active bass playing. [1][7]
 
 ## Sources checked
 1. Effects Database — A.Y.A Bass Fuzz: https://www.effectsdatabase.com/model/aya/bassfuzz
@@ -98,3 +98,10 @@ The underlying Mercari item page remains unavailable to the crawler, so the imag
 13. Mercari indexed image result — A.Y.A tokyo japan BASS FUZZ, item m93721008252: https://jp.mercari.com/item/m93721008252
 14. Effects Database — A.Y.A product index: https://www.effectsdatabase.com/model/aya
 15. eBay — A.Y.A Bass Fuzz BASS FUZZII, current listing: https://www.ebay.com/itm/198645645124
+
+
+## PRP1 research refinement — batch 033
+
+The original owner reference was rechecked and adds useful firsthand context beyond the earlier generic sound summary. The owner identifies his pedal as the 20th of the 30-unit run and describes the effect as retaining the bass's core while producing strong, gritty distortion rather than collapsing into a fully smeared fuzz texture. He notes strong projection in a band mix, relatively low sustain, and a character he associated with John Wetton's live bass tone on USA. [7]
+
+7. Original owner reference — “新兵器。” / 続・我が逃走: https://ameblo.jp/2784blog/entry-10190792874.html
