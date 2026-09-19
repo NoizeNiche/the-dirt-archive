@@ -8120,5 +8120,75 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 130/li-l-gray-od.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "Li'l Modified Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc/lil/modifiedoverdrive",
+    "research_record": "./research/pedals/PRP Batch 131/li-l-modified-overdrive.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "Li'l Mouse",
+    "image": null,
+    "source_page": "https://stompboxschematics.com/circuits/lil-mouse-kit-by-build-your-own-clone-byoc/",
+    "research_record": "./research/pedals/PRP Batch 131/li-l-mouse.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "Li'l Yellow OD",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc/lil/yellowod",
+    "research_record": "./research/pedals/PRP Batch 131/li-l-yellow-od.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "Mighty Mouse",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc/mightymouse",
+    "research_record": "./research/pedals/PRP Batch 131/mighty-mouse.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "Orange Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc/distortion/orange",
+    "research_record": "./research/pedals/PRP Batch 131/orange-distortion.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "Overdrive 2",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc/overdrive/2",
+    "research_record": "./research/pedals/PRP Batch 131/overdrive-2.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "Parametric Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc/overdrive/parametric",
+    "research_record": "./research/pedals/PRP Batch 131/parametric-overdrive.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "Screamer Clone",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc/screamer",
+    "research_record": "./research/pedals/PRP Batch 131/screamer-clone.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "Shredder",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc/shredder",
+    "research_record": "./research/pedals/PRP Batch 131/shredder.md"
+  },
+  {
+    "builder": "Build Your Own Clone",
+    "pedal": "Silver Pony",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/byoc/silverpony",
+    "research_record": "./research/pedals/PRP Batch 131/silver-pony.md"
   }
 ]
