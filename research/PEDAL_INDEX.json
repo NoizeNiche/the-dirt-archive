@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-18-prp1-batch-048",
+  "version": "2026-09-18-prp1-batch-049",
   "count": 3821,
   "pedals": [
     {
@@ -2064,8 +2064,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://amsterdamcream.com/post/74580352500/big-eye-fuzz",
+      "research_record": "./research/pedals/PRP Batch 049/Big Eye Fuzz.md"
     },
     {
       "company": "Amsterdam Cream",
@@ -2074,8 +2074,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://amsterdamcream.com/",
+      "research_record": "./research/pedals/PRP Batch 049/Original Distortion.md"
     },
     {
       "company": "Amsterdam Cream",
@@ -2084,8 +2084,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://amsterdamcream.com/",
+      "research_record": "./research/pedals/PRP Batch 049/Plain Drive.md"
     },
     {
       "company": "AMT Electronics",
@@ -2094,8 +2094,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/b1",
+      "research_record": "./research/pedals/PRP Batch 049/B-1 BG-Sharp.md"
     },
     {
       "company": "AMT Electronics",
@@ -2104,8 +2104,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/amt/bs",
+      "research_record": "./research/pedals/PRP Batch 049/BS British Sound.md"
     },
     {
       "company": "AMT Electronics",
@@ -2114,8 +2114,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/amt/cs",
+      "research_record": "./research/pedals/PRP Batch 049/CS California Sound.md"
     },
     {
       "company": "AMT Electronics",
@@ -2124,8 +2124,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
+      "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md"
     },
     {
       "company": "AMT Electronics",
@@ -2134,8 +2134,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/m1",
+      "research_record": "./research/pedals/PRP Batch 049/M-1 JM-800.md"
     },
     {
       "company": "AMT Electronics",
@@ -2144,8 +2144,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/r1",
+      "research_record": "./research/pedals/PRP Batch 049/R-1 Rectifier.md"
     },
     {
       "company": "AMT Electronics",
@@ -2154,8 +2154,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://amtelectronics.com/",
+      "research_record": "./research/pedals/PRP Batch 049/Rammstein RD Distortion Combo Emulator.md"
     },
     {
       "company": "AMT Electronics",
