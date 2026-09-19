@@ -258,3 +258,7 @@ Batch 028 continued the photo-recovery pass on the first unresolved catalog targ
 ## PRP1 batch 029 checkpoint
 
 The first incomplete catalog record remains **A.Y.A - Bass Fuzz**. The September 18, 2026 photo-recovery pass re-confirmed an exact original-model photograph via a 2024 Mercari listing, but the accessible listing does not provide a stable directly retrievable image asset. Current BASS FUZZ II listings remain explicitly a different model/version and are not used as a substitute. The tracker remains **220 researched / 162 pictured / 162 fully complete / 3,659 incomplete**, with **58** researched pedals waiting only for a confirmed picture.
+
+## PRP1 batch 030 checkpoint
+
+Batch 030 rechecked the exact first unresolved target, **A.Y.A - Bass Fuzz**. A fresh image search visually confirmed the original blue-sparkle A.Y.A tokyo japan BASS FUZZ enclosure from the 2024 Mercari listing, including the Fuzz/Vol layout and BASS FUZZ labeling. The source page currently returns 404 and no stable directly retrievable image asset was exposed, so the image remains unarchived and the public card must continue to show **No Photo Archived**. Current BASS FUZZ II listings remain a different model/version and are not substituted. Counts remain **220 researched / 162 pictured / 162 fully complete / 3,659 incomplete**, with **58** researched pedals waiting only for a confirmed picture. The next exact-order unresolved target remains **A.Y.A - Bass Fuzz**.
