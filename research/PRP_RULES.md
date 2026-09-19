@@ -433,3 +433,16 @@ Batch 073 completed ten exact-order PRP targets. Six exact-model photos were arc
 
 ## Latest PRP1 checkpoint - batch 074
 Batch 074 completed ten exact-order PRP targets. Seven exact-model photos were archived; three remain photo-pending. The next target is **Basic Audio - Sharp Tooth**.
+
+
+## PRP1 batch 090 checkpoint
+
+Batch 090 completed the next ten unfinished records in exact tracker order: **Biyang - DS-8 Mouse; DS-9 Distortion; FZ-12 Fuzz; FZ-7 Fuzz; Junky Drive; Metal-End; NM-2 New Metal; OD-12 X-Drive; OD-7 Overdrive; and OD-8 X-Drive**.
+
+All ten now have individual Pedal Info research records and were synchronized across **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. No exact-model image met the stable archival-image standard in this pass, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+**Live tracker totals after Batch 090:** **3,821 total / 672 researched / 277 pictured / 277 fully complete / 3,544 incomplete**, with **395** researched pedals waiting only for confirmed pictures.
+
+**Next exact-order missing-information target:** **Biyang - OTD-100 Distortion**.
+
+**Parked/non-blocking:** **A.Y.A - Bass Fuzz** remains picture-pending for later exact-photo recovery.
