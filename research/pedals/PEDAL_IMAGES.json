@@ -2366,5 +2366,81 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Animals Pedal/Major Overdrive.md"
+  },
+  {
+    "builder": "Analog King",
+    "pedal": "Fuzz Machine - Germanium Fuzz + Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/analogking/fuzzmachine",
+    "research_record": "./research/pedals/PRP Batch 056/Fuzz Machine - Germanium Fuzz + Overdrive.md"
+  },
+  {
+    "builder": "Analog King",
+    "pedal": "ZenTone - Harmonic Drive",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/analogking_zentone_001.jpg",
+    "source_page": "https://www.effectsdatabase.com/model/analogking/zentone",
+    "research_record": "./research/pedals/PRP Batch 056/ZenTone - Harmonic Drive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/analogking/zentone"
+  },
+  {
+    "builder": "Analog Music Company",
+    "pedal": "Evil Pumpkin",
+    "image": null,
+    "source_page": "https://www.analogmusic.company/evil-pumpkin",
+    "research_record": "./research/pedals/PRP Batch 056/Evil Pumpkin.md"
+  },
+  {
+    "builder": "Analog Music Company",
+    "pedal": "Mary Gorgias Ultra High Gain Distorter",
+    "image": null,
+    "source_page": "https://www.analogmusic.company/shop/mary-gorgias-xx-ultra-high-gain-distorter",
+    "research_record": "./research/pedals/PRP Batch 056/Mary Gorgias Ultra High Gain Distorter.md"
+  },
+  {
+    "builder": "Analog Noir",
+    "pedal": "Fuzz Face / Rangemaster Treble Booster",
+    "image": null,
+    "source_page": "https://analognoirelectric.com/pedals/p/rangemaster-fuzzface",
+    "research_record": "./research/pedals/PRP Batch 056/Fuzz Face - Rangemaster Treble Booster.md"
+  },
+  {
+    "builder": "Analog Noir",
+    "pedal": "Harmonic Percolator",
+    "image": "https://images.squarespace-cdn.com/content/v1/63866ae37fa424183230cef5/67d67f7f-43cf-48e5-94e2-b6e422732acc/IMG_7393%2B4.jpg",
+    "source_page": "https://analognoirelectric.com/pedals/p/percolator",
+    "research_record": "./research/pedals/PRP Batch 056/Harmonic Percolator.md",
+    "image_source_page": "https://analognoirelectric.com/pedals/p/percolator"
+  },
+  {
+    "builder": "Analog Noir",
+    "pedal": "Si / Ge Fuzz Face",
+    "image": "https://images.squarespace-cdn.com/content/v1/63866ae37fa424183230cef5/ae8e1feb-18d7-4fdc-aa7b-31edaef73ffb/Screen%2BShot%2B2024-11-27%2Bat%2B10.25.17%2BAM.jpg",
+    "source_page": "https://analognoirelectric.com/pedals/p/fuzzface",
+    "research_record": "./research/pedals/PRP Batch 056/Si - Ge Fuzz Face.md",
+    "image_source_page": "https://analognoirelectric.com/pedals/p/fuzzface"
+  },
+  {
+    "builder": "Animals Pedal",
+    "pedal": "PUSH & PULL DISTORTION",
+    "image": "https://animalspedal.us/cdn/shop/files/PUSH-_-PULL-DISTORTION-01.jpg?v=1753149348&width=1445",
+    "source_page": "https://animalspedal.us/products/animals-pedal-push-pull-distortion",
+    "research_record": "./research/pedals/PRP Batch 056/PUSH & PULL DISTORTION.md",
+    "image_source_page": "https://animalspedal.us/products/animals-pedal-push-pull-distortion"
+  },
+  {
+    "builder": "Animals Pedal",
+    "pedal": "PUSH & PULL DISTORTION LIMITED EDITION",
+    "image": "https://animalspedal.us/cdn/shop/files/PUSH_PULL-DIST.-LIMITED-01.png?v=1728641272&width=1445",
+    "source_page": "https://animalspedal.us/products/ap-pushpuslldist-limited-edition",
+    "research_record": "./research/pedals/PRP Batch 056/PUSH & PULL DISTORTION LIMITED EDITION.md",
+    "image_source_page": "https://animalspedal.us/products/ap-pushpuslldist-limited-edition"
+  },
+  {
+    "builder": "Animals Pedal",
+    "pedal": "PUSH & PULL DISTORTION LIMITED EDITION C",
+    "image": "https://animalspedal.us/cdn/shop/files/PUSH_PULL_DISTORTION_LIMITED_EDITION_C-01.png?v=1776245808&width=1445",
+    "source_page": "https://animalspedal.us/products/ppdist-limited-c",
+    "research_record": "./research/pedals/PRP Batch 056/PUSH & PULL DISTORTION LIMITED EDITION C.md",
+    "image_source_page": "https://animalspedal.us/products/ppdist-limited-c"
   }
 ]

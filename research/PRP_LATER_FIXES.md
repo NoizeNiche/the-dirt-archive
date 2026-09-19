@@ -35,3 +35,14 @@ Recover stable, exact-model archival images for these nine researched pedals whe
 **Analog Alien — Rumble Seat is excluded from this queue because its exact-model photo is now archived.**
 
 Continue to keep A.Y.A — Bass Fuzz parked and non-blocking until a qualifying base-model image is recovered.
+
+
+## Batch 056 photo-recovery queue
+
+Recover stable, exact-model archival images for:
+- Analog King — Fuzz Machine - Germanium Fuzz + Overdrive
+- Analog Music Company — Evil Pumpkin
+- Analog Music Company — Mary Gorgias Ultra High Gain Distorter
+- Analog Noir — Fuzz Face / Rangemaster Treble Booster
+
+Exact photos already archived in this batch for ZenTone, Harmonic Percolator, Si / Ge Fuzz Face, and all three PUSH & PULL DISTORTION entries. A.Y.A — Bass Fuzz remains parked and non-blocking.
