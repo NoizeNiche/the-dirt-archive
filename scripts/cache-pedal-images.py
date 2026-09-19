@@ -128,15 +128,21 @@ def fetch_image(url, referer=None):
 
 def cache_entry_prepare(entry):
     image = entry.get("image")
-    if not image:
-        return ("skip", entry, None, None)
-
     builder = entry.get("company") or entry.get("builder")
     pedal = entry.get("pedal")
     if not builder or not pedal:
         return ("skip", entry, None, None)
 
     target = target_path(entry)
+
+    # A photo-pending record can carry a verified provenance URL without
+    # advertising that URL as the public runtime image. Use it as the cache
+    # source and keep the public image field blank until a local file exists.
+    if not image:
+        source_url = entry.get("image_source_url")
+        if source_url and source_url.startswith(("http://", "https://")):
+            return ("download", entry, target, source_url)
+        return ("skip", entry, None, None)
     target.parent.mkdir(parents=True, exist_ok=True)
 
     if is_local(image):
