@@ -316,20 +316,28 @@ jobs:
             if (!researchedResult.photoAlt.includes('Cheddar Source')) throw new Error('Pedal photo alt text is missing the pedal identity.');
 
             // No-research / no-photo fallback.
+            const noResearchEntry = (catalog.pedals || []).find(
+              x => x.catalog_role !== 'variation' && !x.research_record
+            );
+            if (!noResearchEntry) throw new Error('No unresearchd pedal remains for fallback audit.');
             await page.goto(
               'http://127.0.0.1:4173/pedal-detail.html?builder=' +
-              encodeURIComponent('BFFX Boutique Pedals') + '&pedal=' +
-              encodeURIComponent('Demon D'),
+              encodeURIComponent(noResearchEntry.company) + '&pedal=' +
+              encodeURIComponent(noResearchEntry.pedal),
               {waitUntil:'networkidle'}
             );
             if (!(await page.locator('#research').textContent()).includes('Pedal information has not been added yet.')) {
               throw new Error('No-research detail fallback is missing.');
             }
 
+            const noPhotoEntry = (catalog.pedals || []).find(
+              x => x.catalog_role !== 'variation' && x.research_record && !x.image
+            );
+            if (!noPhotoEntry) throw new Error('No researched/photo-pending pedal remains for fallback audit.');
             await page.goto(
               'http://127.0.0.1:4173/pedal-detail.html?builder=' +
-              encodeURIComponent('Arcane Analog') + '&pedal=' +
-              encodeURIComponent('BC108 Fuzz Face'),
+              encodeURIComponent(noPhotoEntry.company) + '&pedal=' +
+              encodeURIComponent(noPhotoEntry.pedal),
               {waitUntil:'networkidle'}
             );
             if (!(await page.locator('#photoBox').textContent()).includes('No Photo Archived')) {
