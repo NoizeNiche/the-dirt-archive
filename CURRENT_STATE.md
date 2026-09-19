@@ -787,3 +787,12 @@ The public catalog data is synchronized through **PRP1 batch 081**. The deployme
 **Running PRP1 count:** 581 pedals now have research records, 277 have confirmed photos, and 277 are fully complete. **304 are researched/photo-pending. 3,544 remain incomplete.** Total catalog remains 3,821. Batch 082 adds 10 researched records to the running count.
 
 **Next exact-order target:** Big John Effects - Hairy Balls, followed by the remaining Big John Effects records.
+
+
+## PRP1 Batch 083 checkpoint
+
+**Batch 083 completed:** 18 additional pedals researched and synchronized, covering Big John Effects (Hairy Balls; Lil' John series; Obama Wah; Pocket Rocket) and Big Knob Pedals through I.C.B.M. All 18 remain photo-pending with **No Photo Archived** because no stable exact-model photo was promoted.
+
+**Running PRP1 count:** 599 researched, 277 pictured, 277 fully complete, 322 researched/photo-pending, 3,544 incomplete. Total catalog: 3,821.
+
+**Next exact-order target:** Big Knob Pedals - Legend TB.
