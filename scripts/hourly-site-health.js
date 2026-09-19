@@ -1,0 +1,180 @@
+#!/usr/bin/env node
+'use strict';
+
+const fs = require('fs');
+const path = require('path');
+const cp = require('child_process');
+const { chromium } = require('playwright');
+
+const ROOT = process.cwd();
+const SITE_API = `https://api.github.com/repos/${process.env.GITHUB_REPOSITORY}/pages`;
+const RUNS_API = `https://api.github.com/repos/${process.env.GITHUB_REPOSITORY}/actions/workflows/deploy-pages.yml/runs?branch=main&per_page=10`;
+const TOKEN = process.env.GITHUB_TOKEN || '';
+const currentSha = process.env.GITHUB_SHA || cp.execFileSync('git', ['rev-parse','HEAD'], {encoding:'utf8'}).trim();
+
+function apiHeaders() {
+  return {accept:'application/vnd.github+json', authorization:`Bearer ${TOKEN}`, 'x-github-api-version':'2022-11-28', 'user-agent':'dirt-archive-hourly-health'};
+}
+async function jsonFetch(url, options={}) {
+  const res = await fetch(url, {headers:{...apiHeaders(), ...(options.headers||{})}, ...options});
+  const text = await res.text();
+  let body = null;
+  try { body = JSON.parse(text); } catch {}
+  if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}: ${body?.message || text.slice(0,240)}`);
+  return body;
+}
+function readJson(rel){ return JSON.parse(fs.readFileSync(path.join(ROOT, rel), 'utf8')); }
+function gitShow(rel, rev){ return cp.execFileSync('git', ['show', `${rev}:${rel}`], {encoding:'utf8'}); }
+function key(x){ return `${x.company}\u0000${x.pedal}`; }
+function trackerMap(text){
+  const lines=text.trimEnd().split(/\r?\n/);
+  const head=lines.shift().split(',');
+  return new Map(lines.map(line=>{
+    const cells=line.split(',');
+    const row={}; head.forEach((h,i)=>row[h]=cells[i]??'');
+    return [`${row.Builder}\u0000${row.Pedal}`, row];
+  }));
+}
+function checkDataIntegrity() {
+  const current=readJson('research/PEDAL_INDEX.json');
+  const manifest=readJson('research/pedals/PEDAL_IMAGES.json');
+  const tracker=trackerMap(fs.readFileSync(path.join(ROOT,'research/PRP_TRACKER.csv'),'utf8'));
+  const pedals=current.pedals||[];
+  if (current.count !== pedals.length) throw new Error(`Catalog count mismatch: ${current.count} vs ${pedals.length}`);
+  const cKeys=new Set(pedals.map(key));
+  if (cKeys.size !== pedals.length) throw new Error('Duplicate Builder + Pedal identity in PEDAL_INDEX.json');
+  const mKeys=new Set(manifest.map(x=>`${x.builder}\u0000${x.pedal}`));
+  if (mKeys.size !== manifest.length) throw new Error('Duplicate Builder + Pedal identity in PEDAL_IMAGES.json');
+  if (tracker.size !== pedals.length) throw new Error(`Tracker row count mismatch: ${tracker.size} vs ${pedals.length}`);
+  for (const p of pedals) {
+    const k=key(p);
+    if (!tracker.has(k)) throw new Error(`Tracker missing catalog identity: ${p.company} / ${p.pedal}`);
+    const row=tracker.get(k);
+    const info=!!p.research_record, picture=!!p.image, complete=info&&picture;
+    if ((row['Pedal Info']==='DONE')!==info) throw new Error(`Tracker Pedal Info mismatch: ${p.company} / ${p.pedal}`);
+    if ((row.Picture==='DONE')!==picture) throw new Error(`Tracker Picture mismatch: ${p.company} / ${p.pedal}`);
+    if ((row['PRP Complete']==='DONE')!==complete) throw new Error(`Tracker PRP Complete mismatch: ${p.company} / ${p.pedal}`);
+    if ((row['Research Record']||'') !== (p.research_record||'')) throw new Error(`Tracker research record mismatch: ${p.company} / ${p.pedal}`);
+    if (p.research_record && !fs.existsSync(path.join(ROOT,p.research_record.replace(/^\.\//,'')))) throw new Error(`Missing research file: ${p.research_record}`);
+  }
+  const liveManifestRecords=new Set(manifest.filter(x=>x.research_record).map(x=>x.research_record));
+  const indexRecords=new Set(pedals.filter(x=>x.research_record).map(x=>x.research_record));
+  if (liveManifestRecords.size!==indexRecords.size || [...liveManifestRecords].some(x=>!indexRecords.has(x))) throw new Error('Research-record links disagree between index and photo manifest');
+
+  let previous=null;
+  try { previous=JSON.parse(gitShow('research/PEDAL_INDEX.json','HEAD^')); } catch {}
+  if (previous) {
+    const prevMap=new Map((previous.pedals||[]).map(x=>[key(x),x]));
+    const removed=[...prevMap.keys()].filter(k=>!cKeys.has(k));
+    if (removed.length) throw new Error(`Destructive catalog removal detected (${removed.length} identities): ${removed.slice(0,8).join(' | ')}`);
+    const researchRegressions=[], imageRegressions=[], changedState=[];
+    for (const [k,old] of prevMap) {
+      const now=pedals.find(x=>key(x)===k);
+      if (!now) continue;
+      if (old.research_record && !now.research_record) researchRegressions.push(k);
+      if (old.image && !now.image) imageRegressions.push(k);
+      if ((old.research_record||null)!==(now.research_record||null) || (old.image||null)!==(now.image||null)) changedState.push(k);
+    }
+    if (researchRegressions.length) throw new Error(`Research records disappeared from existing pedals: ${researchRegressions.slice(0,12).join(' | ')}`);
+    if (imageRegressions.length) throw new Error(`Previously archived photos disappeared from existing pedals: ${imageRegressions.slice(0,12).join(' | ')}`);
+    if (changedState.length>75) throw new Error(`Unusually large PRP state change detected: ${changedState.length} existing pedals changed research/photo state.`);
+    const deletedFiles=cp.execFileSync('git',['diff','--name-status','HEAD^','--','research/pedals'],{encoding:'utf8'}).split(/\r?\n/).filter(Boolean).filter(x=>/^D\s/.test(x));
+    if (deletedFiles.length) throw new Error(`Research files were deleted from the latest commit: ${deletedFiles.slice(0,12).join(' | ')}`);
+  }
+  const researched=pedals.filter(x=>x.research_record).length;
+  const pictured=pedals.filter(x=>x.image).length;
+  const complete=pedals.filter(x=>x.research_record&&x.image).length;
+  console.log(`PRP data: ${pedals.length} pedals / ${researched} researched / ${pictured} pictured / ${complete} complete`);
+  return {current, pedals, researched, pictured, complete};
+}
+async function waitForDeployment() {
+  const pages=await jsonFetch(SITE_API);
+  const liveUrl=(pages.html_url||'').replace(/\/$/,'');
+  if (!liveUrl) throw new Error('GitHub Pages API did not return a live URL');
+  let run=null;
+  for (let attempt=0; attempt<6; attempt++) {
+    const runs=await jsonFetch(RUNS_API);
+    run=(runs.workflow_runs||[]).find(x=>x.head_sha===currentSha);
+    if (run && run.status==='completed') break;
+    await new Promise(r=>setTimeout(r,15000));
+  }
+  if (!run) throw new Error(`No Deploy Pages workflow run found for ${currentSha}`);
+  if (run.status!=='completed' || run.conclusion!=='success') throw new Error(`Pages deployment not successful: status=${run.status}, conclusion=${run.conclusion}, run=${run.html_url}`);
+  console.log(`Pages deployment: PASS (${run.html_url})`);
+  return liveUrl;
+}
+async function browserCheck(liveUrl, pedals) {
+  const browser=await chromium.launch({headless:true});
+  const results=[];
+  try {
+    const page=await browser.newPage({viewport:{width:1440,height:1000}});
+    const consoleErrors=[], pageErrors=[];
+    page.on('console',m=>{if(m.type()==='error') consoleErrors.push(m.text())});
+    page.on('pageerror',e=>pageErrors.push(String(e)));
+    const home=await page.goto(liveUrl+'/?health='+Date.now(),{waitUntil:'networkidle',timeout:30000});
+    if(!home || !home.ok()) throw new Error(`Catalog HTTP failure: ${home?.status()}`);
+    if(await page.locator('#search').count()!==1) throw new Error('Search control missing');
+    if(await page.locator('[data-type]').count()<4) throw new Error('Dirt-type filters missing');
+    if(await page.locator('[data-builder]').count()<2) throw new Error('Builder controls missing');
+    if(await page.locator('#grid .card').count()===0) throw new Error('Catalog rendered zero cards');
+    const firstHref=await page.locator('#grid .card').first().getAttribute('href');
+    if(!firstHref || !firstHref.includes('pedal-detail.html?builder=')) throw new Error('Catalog card routing is malformed');
+
+    await page.locator('#search').fill('White');
+    if(await page.locator('#grid .card').filter({hasText:'DRV MOD 1'}).count()===0) throw new Error('Search canary failed: White / DRV MOD 1');
+    await page.locator('#search').fill('ZZZZ_NOT_A_PEDAL_9f4a');
+    if(await page.locator('#grid .card').count()!==0) throw new Error('No-result search failed');
+
+    await page.goto(liveUrl+'/?health='+Date.now(),{waitUntil:'networkidle',timeout:30000});
+    await page.locator('[data-type="Fuzz"]').click();
+    for(const chipText of await page.locator('#grid .card .chips').allTextContents()){
+      if(!chipText.includes('Fuzz')) throw new Error('Fuzz filter leaked a non-Fuzz card');
+    }
+
+    await page.goto(liveUrl+'/?health='+Date.now(),{waitUntil:'networkidle',timeout:30000});
+    const builder=page.locator('[data-builder="Artisanal Effects"]');
+    if(await builder.count()!==1) throw new Error('Builder canary missing');
+    await builder.click();
+    const bt=await page.locator('#grid .builderNameCard').allTextContents();
+    if(!bt.length || bt.some(x=>x.trim()!=='Artisanal Effects')) throw new Error('Builder filter is leaking other builders');
+
+    const ched=pedals.find(x=>x.company==='Artisanal Effects'&&x.pedal==='Cheddar Source');
+    const astro=pedals.find(x=>x.company==='Analog Man'&&x.pedal==='Astro Tone');
+    if(!ched||!astro) throw new Error('Golden canary pedal missing from catalog data');
+
+    async function detail(item, expectPhoto) {
+      await page.goto(liveUrl+'/pedal-detail.html?builder='+encodeURIComponent(item.company)+'&pedal='+encodeURIComponent(item.pedal)+'&health='+Date.now(),{waitUntil:'domcontentloaded',timeout:30000});
+      await page.waitForFunction(()=>{const r=document.querySelector('#record');return r&&!r.hidden},null,{timeout:10000});
+      const info=await page.locator('#research').textContent();
+      if(!info || /loading pedal information|could not be loaded/i.test(info) || info.trim().length<40) throw new Error(`Pedal Info failed: ${item.company} / ${item.pedal}`);
+      if(expectPhoto){
+        const img=page.locator('#photoBox img');
+        if(await img.count()!==1) throw new Error(`Photo element missing: ${item.company} / ${item.pedal}`);
+        const src=await img.getAttribute('src');
+        if(src!==item.image) throw new Error(`Photo wiring mismatch: ${item.company} / ${item.pedal}`);
+        const handled=await page.evaluate(()=>{const box=document.querySelector('#photoBox');const img=box?.querySelector('img');const fallback=[...box?.querySelectorAll('span')||[]].find(s=>!s.hidden);return !!img && ((img.complete&&img.naturalWidth>0)||!!fallback)});
+        if(!handled) throw new Error(`Photo did not render or fall back gracefully: ${item.company} / ${item.pedal}`);
+      } else {
+        const fallback=await page.locator('#photoBox').getByText(/No Photo Archived/).count();
+        if(!fallback) throw new Error(`No Photo Archived fallback missing: ${item.company} / ${item.pedal}`);
+      }
+    }
+    await detail(ched,true);
+    await detail(astro,false);
+
+    await page.setViewportSize({width:390,height:844});
+    await page.goto(liveUrl+'/?health='+Date.now(),{waitUntil:'networkidle',timeout:30000});
+    if(await page.locator('#grid .card').count()===0) throw new Error('Mobile catalog rendered zero cards');
+
+    if(consoleErrors.length) throw new Error('Browser console errors: '+consoleErrors.slice(0,10).join(' | '));
+    if(pageErrors.length) throw new Error('Browser page errors: '+pageErrors.slice(0,10).join(' | '));
+    console.log('Browser canaries: PASS (catalog/search/filter/detail/Pedal Info/photo/mobile)');
+  } finally { await browser.close(); }
+}
+(async()=>{
+  console.log(`Hourly site health for ${currentSha}`);
+  const data=checkDataIntegrity();
+  const liveUrl=await waitForDeployment();
+  await browserCheck(liveUrl,data.pedals);
+  console.log('HEALTH CHECK PASSED');
+})().catch(err=>{console.error('HEALTH CHECK FAILED:',err.message);process.exit(1)});
