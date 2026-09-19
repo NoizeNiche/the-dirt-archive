@@ -532,3 +532,16 @@ Batch 074 completed the next ten unfinished records in exact tracker order, from
 - **Live tracker totals:** 3821 total / 501 researched / 234 pictured / 234 complete / 3587 incomplete.
 - **Waiting on photos:** 267 researched pedals.
 - **Next exact-order missing-information target:** **Basic Audio - Sharp Tooth**.
+
+
+## PRP1 batch 075 checkpoint
+
+Batch 075 completed the next ten unfinished records in exact tracker order: **Basic Audio - Sharp Tooth; Solar Myth; Spooky Tooth; Supa; Supa MKI; Supa Tweak; Super Fuzz; Tri-Ram Muff; Zippy; and Zonk**.
+
+All ten now have individual Pedal Info research records, exact official Basic Audio product photographs, and synchronized entries in **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. All ten are now **Pedal Info: DONE / Picture: DONE / PRP Complete: DONE**.
+
+**Live tracker totals after Batch 075:** **3,821 total / 511 researched / 244 pictured / 244 fully complete / 3,577 incomplete**, with **267** researched pedals waiting only for a confirmed picture.
+
+**Next exact-order missing-information target:** **BBE - G Screamer**.
+
+**Parked/non-blocking:** **A.Y.A - Bass Fuzz** remains picture-pending for later exact-photo recovery.
