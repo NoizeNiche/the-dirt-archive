@@ -5596,5 +5596,75 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 097/Super Fuzz.md"
+  },
+  {
+    "builder": "Black Country Customs",
+    "pedal": "BLACKHEATH",
+    "image": null,
+    "source_page": "https://www.americanmusical.com/p/laney-black-country-customs-blackheath-3-mode-bass-distortion-pedal",
+    "research_record": "./research/pedals/PRP Batch 099/BLACKHEATH.md"
+  },
+  {
+    "builder": "Black Country Customs",
+    "pedal": "MONOLITH",
+    "image": null,
+    "source_page": "https://www.americanmusical.com/p/laney-monolith-black-country-custom-distortion-pedal",
+    "research_record": "./research/pedals/PRP Batch 099/MONOLITH.md"
+  },
+  {
+    "builder": "Black Mass Electronics",
+    "pedal": "1312 Distortion V3",
+    "image": null,
+    "source_page": "https://blackmasselectronics.com/products/1312-distortion",
+    "research_record": "./research/pedals/PRP Batch 099/1312 Distortion V3.md"
+  },
+  {
+    "builder": "Black Mass Electronics",
+    "pedal": "Ceremonial Show of Force",
+    "image": null,
+    "source_page": "https://blackmasselectronics.com/en-ca/collections/pedals/products/ceremonial-show-of-force",
+    "research_record": "./research/pedals/PRP Batch 099/Ceremonial Show of Force.md"
+  },
+  {
+    "builder": "Black Mass Electronics",
+    "pedal": "Dual 1312 Distortion",
+    "image": null,
+    "source_page": "https://blackmasselectronics.com/en-ca/collections/pedals/products/dual-1312-distortion",
+    "research_record": "./research/pedals/PRP Batch 099/Dual 1312 Distortion.md"
+  },
+  {
+    "builder": "Black Mass Electronics",
+    "pedal": "Kill Chain",
+    "image": null,
+    "source_page": "https://blackmasselectronics.com/products/kill-chain",
+    "research_record": "./research/pedals/PRP Batch 099/Kill Chain.md"
+  },
+  {
+    "builder": "Black Mass Electronics",
+    "pedal": "The First Herald (Big Box)",
+    "image": null,
+    "source_page": "https://blackmasselectronics.com/collections/fuzz/products/the-first-herald-big-box",
+    "research_record": "./research/pedals/PRP Batch 099/The First Herald (Big Box).md"
+  },
+  {
+    "builder": "Blackbox Music Electronics",
+    "pedal": "Inferno",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackbox/inferno",
+    "research_record": "./research/pedals/PRP Batch 099/Inferno.md"
+  },
+  {
+    "builder": "Blackhawk Amplifiers",
+    "pedal": "Asgard Bass Fuzz",
+    "image": null,
+    "source_page": "https://reverb.com/item/30528369-blackhawk-asgard-bass-fuzz-guitar-distortion",
+    "research_record": "./research/pedals/PRP Batch 099/Asgard Bass Fuzz.md"
+  },
+  {
+    "builder": "Black Cat Pedals",
+    "pedal": "Wee Buzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackcat/weebuzz",
+    "research_record": "./research/pedals/PRP Batch 099/Wee Buzz.md"
   }
 ]

@@ -329,22 +329,13 @@ main{padding:24px 0 72px}
   background:rgba(255,253,250,.55)
 }
 .empty strong{display:block;color:var(--ink);font-size:1.1rem;margin-bottom:5px}
-.loadMoreWrap{display:flex;justify-content:center;padding:18px 0 4px}
-.loadMore{
-  border:1px solid var(--ink);
-  border-radius:999px;
-  background:var(--card);
-  color:var(--ink);
-  padding:10px 16px;
-  font-size:.7rem;
-  font-weight:950;
-  text-transform:uppercase;
-  letter-spacing:.07em;
-  cursor:pointer;
-  transition:.15s ease
-}
-.loadMore:hover{background:var(--ink);color:#fff}
-.loadMore:focus{outline:0;box-shadow:0 0 0 3px rgba(223,255,56,.25)}
+.paginationWrap{display:flex;justify-content:center;padding:18px 0 4px}
+.pagination{display:flex;align-items:center;justify-content:center;gap:6px;flex-wrap:wrap}
+.pageButton{min-width:38px;height:38px;border:1px solid var(--ink);border-radius:10px;background:var(--card);color:var(--ink);padding:0 10px;font-size:.68rem;font-weight:950;text-transform:uppercase;letter-spacing:.05em;cursor:pointer;transition:.15s ease}
+.pageButton:hover:not(:disabled){background:var(--ink);color:#fff}
+.pageButton.active{background:var(--ink);color:#fff}
+.pageButton:disabled{opacity:.35;cursor:default}
+.pageEllipsis{display:grid;place-items:center;min-width:24px;height:38px;color:#b1ada3;font-size:.8rem;font-weight:900}
 
 @media(min-width:1600px){
   .grid{grid-template-columns:repeat(6,minmax(0,1fr))}
@@ -431,8 +422,8 @@ main{padding:20px 0 72px}
 .cardMedia,.cardMedia .cardImage{background:#bcbcba}.cardMedia{border-bottom-color:#888983}
 .cardPlaceholder{background:linear-gradient(135deg,#b9bab5,#d4d4ce);color:#5d5e59;border-bottom-color:#888983}
 .name{color:#111}.builderNameCard{color:#585a54}.chip{background:#b7b7b1;color:#2f302d}
-.loadMore{background:#252623;color:#f2f1eb;border-color:#c9c9c2}
-.loadMore:hover{background:var(--acid);border-color:var(--acid);color:#111}
+.pageButton{background:#252623;color:#f2f1eb;border-color:#c9c9c2}
+.pageButton:hover:not(:disabled),.pageButton.active{background:var(--acid);border-color:var(--acid);color:#111}
 @media(max-width:1000px){.boardSurface{padding:18px}}
 @media(max-width:640px){.boardSurface{padding:10px;border-radius:11px}}
 
@@ -492,8 +483,8 @@ main{padding:20px 0 72px}
         </div>
         <div class="rule"></div>
         <div class="grid" id="grid"></div>
-        <div class="loadMoreWrap" id="loadMoreWrap" hidden>
-          <button class="loadMore" id="loadMore" type="button">Load more pedals</button>
+        <div class="paginationWrap" id="paginationWrap" hidden>
+          <nav class="pagination" id="pagination" aria-label="Pedal catalog pages"></nav>
         </div>
       </div>
     </section>
@@ -502,10 +493,10 @@ main{padding:20px 0 72px}
 </main>
 
 <script>
-const DATA_VERSION = '2026-09-19-prp1-batch-098';
+const DATA_VERSION = '2026-09-19-prp1-batch-099';
 const DATA_INDEX='./research/PEDAL_INDEX.json?v='+DATA_VERSION;
 const PAGE_SIZE=72;
-let items=[];let allItems=[];let shownCount=PAGE_SIZE;
+let items=[];let allItems=[];let currentPage=Math.max(1,parseInt(initialParams.get('page')||'1',10)||1);
 let pedalImages=new Map();
 let variationSearchText=new Map();
 const initialParams=new URLSearchParams(location.search);
@@ -556,6 +547,7 @@ function syncUrl(){
   if(selectedType!=='All')p.set('type',selectedType);
   if(selectedBuilder)p.set('builder',selectedBuilder);
   if(q)p.set('q',q);
+  if(currentPage>1)p.set('page',currentPage);
   const target=p.toString()?('./index.html?'+p.toString()):'./index.html';
   history.replaceState({},'',target);
 }
@@ -616,7 +608,7 @@ function renderTypeMenu(){
   document.querySelectorAll('[data-type]').forEach(btn=>btn.onclick=()=>{
     selectedType=btn.dataset.type;
     selectedBuilder='';
-    shownCount=PAGE_SIZE;
+    currentPage=1;
     syncUrl();
     render();
   });
@@ -638,7 +630,7 @@ function renderBuilders(){
   $('builders').innerHTML=html;
   document.querySelectorAll('[data-builder]').forEach(btn=>btn.onclick=()=>{
     selectedBuilder=btn.dataset.builder||'';
-    shownCount=PAGE_SIZE;
+    currentPage=1;
     syncUrl();
     render();
   });
@@ -650,7 +642,10 @@ function render(){
   renderBuilders();
 
   const visible=filteredItems();
-  const pageItems=visible.slice(0,shownCount);
+  const totalPages=Math.max(1,Math.ceil(visible.length/PAGE_SIZE));
+  currentPage=Math.min(currentPage,totalPages);
+  const pageStart=(currentPage-1)*PAGE_SIZE;
+  const pageItems=visible.slice(pageStart,pageStart+PAGE_SIZE);
 
   // The builder total describes the current archive filter context,
   // not the single builder selected for the result view.
@@ -664,8 +659,10 @@ function render(){
   if(q)title='Search: '+q;
 
   $('title').textContent=title;
+  const rangeStart=visible.length?pageStart+1:0;
+  const rangeEnd=Math.min(pageStart+PAGE_SIZE,visible.length);
   $('meta').textContent=(visible.length
-    ? 'Showing '+Math.min(shownCount,visible.length).toLocaleString()+' of '+visible.length.toLocaleString()
+    ? 'Showing '+rangeStart.toLocaleString()+'–'+rangeEnd.toLocaleString()+' of '+visible.length.toLocaleString()
     : '0')+' pedal'+(visible.length===1?'':'s')+' · '+builderCount.toLocaleString()+' builder'+(builderCount===1?'':'s');
 
   $('grid').innerHTML=pageItems.length
@@ -687,11 +684,7 @@ function render(){
     ).join('')
     : '<div class="empty"><strong>No pedals found</strong>Try another search, dirt type, or builder.</div>';
 
-  const canLoadMore=visible.length>shownCount;
-  $('loadMoreWrap').hidden=!canLoadMore;
-  $('loadMore').textContent=canLoadMore
-    ? 'Load more pedals ('+Math.min(PAGE_SIZE,visible.length-shownCount).toLocaleString()+')'
-    : 'Load more pedals';
+  renderPagination(totalPages);
 }
 
 $('search').value=q;
@@ -703,10 +696,32 @@ $('search').oninput=e=>{
   render();
 };
 
-$('loadMore').onclick=()=>{
-  shownCount+=PAGE_SIZE;
-  render();
-};
+function renderPagination(totalPages){
+  const wrap=$('paginationWrap'),nav=$('pagination');
+  if(totalPages<=1){wrap.hidden=true;nav.innerHTML='';return}
+  wrap.hidden=false;
+  const pages=[]; const add=n=>pages.push(n);
+  if(totalPages<=7){for(let n=1;n<=totalPages;n++)add(n)}
+  else{
+    add(1);
+    const start=Math.max(2,currentPage-2),end=Math.min(totalPages-1,currentPage+2);
+    if(start>2)pages.push('…');
+    for(let n=start;n<=end;n++)add(n);
+    if(end<totalPages-1)pages.push('…');
+    add(totalPages);
+  }
+  const prev=currentPage>1?'<button class="pageButton" type="button" data-page="'+(currentPage-1)+'" aria-label="Previous page">←</button>':'<button class="pageButton" type="button" disabled aria-label="Previous page">←</button>';
+  const next=currentPage<totalPages?'<button class="pageButton" type="button" data-page="'+(currentPage+1)+'" aria-label="Next page">→</button>':'<button class="pageButton" type="button" disabled aria-label="Next page">→</button>';
+  nav.innerHTML=prev+pages.map(n=>typeof n==='number'
+    ? '<button class="pageButton '+(n===currentPage?'active':'')+'" type="button" data-page="'+n+'" aria-current="'+(n===currentPage?'page':'false')+'">'+n+'</button>'
+    : '<span class="pageEllipsis" aria-hidden="true">…</span>'
+  ).join('')+next;
+  nav.querySelectorAll('[data-page]').forEach(btn=>btn.onclick=()=>{
+    currentPage=Number(btn.dataset.page)||1;
+    syncUrl(); render();
+    document.querySelector('.heroPanel')?.scrollIntoView({behavior:'smooth',block:'start'});
+  });
+}
 
 fetch(DATA_INDEX,{cache:'default'})
 .then(r=>{

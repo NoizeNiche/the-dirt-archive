@@ -635,3 +635,15 @@ Batch 098 recovered confirmed photos for **A.Y.A - Bass Fuzz** and **AC Noises -
 Current tracker flags: **735 researched / 278 pictured / 278 complete / 3543 incomplete / 457 researched-photo-pending**.
 
 Next exact-order target: **A&M Custom Effects - Crash Central - Crunch Distortion**.
+
+## Catalog pagination update
+
+The landing page now uses numbered pagination at **72 pedals per page**, with page state preserved in the URL.
+
+## PRP1 Batch 099
+
+Batch 099 synchronized 10 researched pedal records in exact tracker order, from **Black Country Customs - BLACKHEATH** through **Black Cat Pedals - Wee Buzz**. All 10 remain photo-pending. Public data version: **2026-09-19-prp1-batch-099**.
+
+Current tracker flags: **745 researched / 278 pictured / 278 complete / 3543 incomplete / 467 researched-photo-pending**.
+
+Next exact-order target: **Blackhawk Amplifiers - Balrog Distortion MKII**.

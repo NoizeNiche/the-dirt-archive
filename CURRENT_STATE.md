@@ -901,3 +901,19 @@ Batch 098 was a photo-recovery pass against the exact tracker frontier. Confirme
 **Current PRP1 target:** **A&M Custom Effects - Crash Central - Crunch Distortion**.
 
 **Public data version:** 2026-09-19-prp1-batch-098.
+
+## Catalog pagination update
+
+The landing-page catalog now uses numbered pagination instead of the **Load more pedals** button. The catalog remains at **72 pedals per page**, with page state persisted in the URL.
+
+## PRP1 Batch 099 checkpoint
+
+Batch 099 synchronized the ten research records already committed for the next exact tracker segment: **Black Country Customs - BLACKHEATH; MONOLITH; Black Mass Electronics - 1312 Distortion V3; Ceremonial Show of Force; Dual 1312 Distortion; Kill Chain; The First Herald (Big Box); Blackbox Music Electronics - Inferno; Blackhawk Amplifiers - Asgard Bass Fuzz; and Black Cat Pedals - Wee Buzz**.
+
+All ten are now linked across **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. No exact-model image was promoted in this sync, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+**Current tracker flags:** **745 researched / 278 pictured / 278 fully complete / 3543 incomplete**, with **467** researched pedals waiting only for confirmed pictures.
+
+**Current PRP1 target:** **Blackhawk Amplifiers - Balrog Distortion MKII**.
+
+**Public data version:** 2026-09-19-prp1-batch-099.
