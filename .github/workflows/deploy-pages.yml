@@ -243,9 +243,11 @@ jobs:
               }
               const current = await page.locator('#pagination .pageButton.active').textContent();
               if ((current || '').trim() !== '1') throw new Error('Pagination did not start on page 1.');
-              const next = page.locator('#pagination .pageButton[data-page="2"]');
-              if (await next.count() !== 1) throw new Error('Page 2 control is missing.');
-              await next.click();
+              const paginationButtons = page.locator('#pagination .pageButton:not([disabled])');
+              if (await paginationButtons.count() < 3) throw new Error('Pagination controls are missing.');
+              const pageTwo = page.locator('#pagination .pageButton').filter({hasText:'2'}).first();
+              if (await pageTwo.count() !== 1) throw new Error('Page 2 control is missing.');
+              await pageTwo.click();
               await page.waitForTimeout(50);
               const pageTwoCount = await page.locator('#grid .card').count();
               if (!pageTwoCount) throw new Error('Page 2 rendered no catalog cards.');
