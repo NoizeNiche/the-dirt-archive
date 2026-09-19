@@ -796,3 +796,12 @@ The public catalog data is synchronized through **PRP1 batch 081**. The deployme
 **Running PRP1 count:** 599 researched, 277 pictured, 277 fully complete, 322 researched/photo-pending, 3,544 incomplete. Total catalog: 3,821.
 
 **Next exact-order target:** Big Knob Pedals - Legend TB.
+
+
+## PRP1 Batch 084 checkpoint
+
+**Batch 084 completed:** 12 additional pedals researched and synchronized, covering Big Knob Pedals from **Legend TB through Tone-Nation** in exact tracker order. All 12 remain photo-pending with **No Photo Archived** because no stable exact-model direct image asset was promoted in this pass.
+
+**Running PRP1 count:** 611 researched, 277 pictured, 277 fully complete, 334 researched/photo-pending, 3544 incomplete. Total catalog: 3821.
+
+**Next exact-order target:** Big Knob Pedals - Tube 808.
