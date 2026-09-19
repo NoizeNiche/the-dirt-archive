@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-132",
+  "version": "2026-09-19-prp1-batch-133",
   "count": 3821,
   "pedals": [
     {
@@ -11079,8 +11079,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://bulinskipedals.com/shop/velociraptor-diode-bass-fuzz/",
+      "research_record": "./research/pedals/PRP Batch 133/velociraptor-diode-bass-fuzz.md",
+      "image_source_page": "https://bulinskipedals.com/shop/velociraptor-diode-bass-fuzz/"
     },
     {
       "company": "Buzzing Bugs Audio Devices",
@@ -11089,8 +11090,10 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://buzzingbugsfx.com/store/p/bb01-fuzz-pre-amp",
+      "research_record": "./research/pedals/PRP Batch 133/bb01-fuzz-pre-amp.md",
+      "image_source_page": "https://buzzingbugsfx.com/store/p/bb01-fuzz-pre-amp",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/63e3726f5e54d90afdff92f6/1709633288661-AS2T277UDD65P6LHC9PJ/BB01%2BNEW%2BTEXTURE%2BRECC.png"
     },
     {
       "company": "Buzzing Bugs Audio Devices",
@@ -11099,8 +11102,10 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://buzzingbugsfx.com/store/p/bb02-percolator-fuzz",
+      "research_record": "./research/pedals/PRP Batch 133/bb02-percolator-fuzz.md",
+      "image_source_page": "https://buzzingbugsfx.com/store/p/bb02-percolator-fuzz",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/63e3726f5e54d90afdff92f6/1709633213972-CPV0XX5D3ZI4OTYFHJL5/BB02%2BNEW%2BTEXTURE.png"
     },
     {
       "company": "Buzzing Bugs Audio Devices",
@@ -11109,8 +11114,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://buzzingbugsfx.com/store/p/bb04-full-range-drive",
+      "research_record": "./research/pedals/PRP Batch 133/bb04-full-range-drive.md",
+      "image_source_page": "https://buzzingbugsfx.com/store/p/bb04-full-range-drive",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/63e3726f5e54d90afdff92f6/1709635190992-O2LZT7VONCE1HMFXBD2V/3.png"
     },
     {
       "company": "Buzzing Bugs Audio Devices",
@@ -11119,8 +11126,10 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://buzzingbugsfx.com/store/p/bolster",
+      "research_record": "./research/pedals/PRP Batch 133/bolster.md",
+      "image_source_page": "https://buzzingbugsfx.com/store/p/bolster",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/63e3726f5e54d90afdff92f6/3205e914-8751-4ed5-815f-bfe68d701696/IMG_5316.JPG"
     },
     {
       "company": "Buzzing Bugs Audio Devices",
@@ -11129,8 +11138,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://buzzingbugsfx.com/store/p/mortaljoy",
+      "research_record": "./research/pedals/PRP Batch 133/mortal-joy-los-campesinos-collaboration.md",
+      "image_source_page": "https://buzzingbugsfx.com/store/p/mortaljoy",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/63e3726f5e54d90afdff92f6/1721808093461-29JIXX00PR7V7371NXUQ/BBFXxLC%2BMORTAL%2BJOY%2BFRONT%2BTEXTURE.png"
     },
     {
       "company": "Byron Amplification",
@@ -11139,8 +11150,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 133/blood-drive-overdrive.md",
+      "image_source_page": "https://byronamplification.com/pedals",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1586150032558-XQGWOHMOTKSXILD8E0BH/2020-04-05%2B20.19.05.jpg"
     },
     {
       "company": "Byron Amplification",
@@ -11149,8 +11162,10 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 133/cabeza-borradora-octave-fuzz.md",
+      "image_source_page": "https://byronamplification.com/pedals",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1574996228836-2P51QZB3X59H7OSSYIR5/2018-05-24%2B16.10.23.jpg"
     },
     {
       "company": "Byron Amplification",
@@ -11159,8 +11174,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 133/cowboy-overdrive.md",
+      "image_source_page": "https://byronamplification.com/pedals",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1585881383291-FKYRPQHSI0C9A1HWWZE8/2020-04-02%2B18.34.59-1.jpg"
     },
     {
       "company": "Byron Amplification",
@@ -11169,8 +11186,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://byronamplification.com/pedals",
+      "research_record": "./research/pedals/PRP Batch 133/dark-arts-drive-overdrive.md",
+      "image_source_page": "https://byronamplification.com/pedals",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1585880827395-CRB5CJ86BDO0PNMD7OWN/2020-03-26%2B20.10.11.jpg"
     },
     {
       "company": "Byron Amplification",
