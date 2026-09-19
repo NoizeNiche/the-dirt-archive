@@ -35,9 +35,9 @@ The Professional MkII is voiced for thick, smooth, highly sustaining Tone Bender
 
 ## Sources checked
 1. Effects Database — https://www.effectsdatabase.com/model/acidfuzz/mk2
-2. Reverb — https://reverb.com/item/65515455-acid-fuzz-professional-mkii-mullard-oc81
+2. Reverb — https://reverb.com/uk/item/66814448-acid-fuzz-professional-mkii-mullard-oc81
 3. Acid Fuzz — https://www.acidfuzz.com/products/mkii-mini
 
 ## Photo
 - **Exact pedal photograph:** Reverb Professional MKII (Mullard OC81).
-- **Source page:** https://reverb.com/item/65515455-acid-fuzz-professional-mkii-mullard-oc81
+- **Source page:** https://reverb.com/uk/item/66814448-acid-fuzz-professional-mkii-mullard-oc81
