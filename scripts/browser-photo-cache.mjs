@@ -45,28 +45,74 @@ async function recoverEntry(browser, entry) {
   const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
   try {
     await page.goto(entry.image_source_page, { waitUntil: 'domcontentloaded', timeout: 12000 });
+
     const title = await page.title().catch(() => '');
     const h1 = await page.locator('h1').first().textContent().catch(() => '');
-    if (!pageMatchesIdentity(entry, title, h1)) {
-      throw new Error('page identity did not match title/H1');
+    const body = await page.locator('body').textContent().catch(() => '');
+    if (!pageMatchesIdentity(entry, title + ' ' + body, h1)) {
+      throw new Error('page identity did not match page text');
     }
 
-    const meta = await page.locator('meta[property="og:image"]').getAttribute('content').catch(() => null);
-    if (!meta) throw new Error('no og:image found');
-    const ogImage = new URL(meta, entry.image_source_page).href;
-
-    const response = await page.request.get(ogImage, { timeout: 10000 });
-    const type = (response.headers()['content-type'] || '').toLowerCase();
-    if (!response.ok() || !type.startsWith('image/')) {
-      throw new Error('og:image fetch failed ' + response.status() + ' ' + type);
+    const candidates = [];
+    const metaSelectors = [
+      'meta[property="og:image"]',
+      'meta[name="twitter:image"]'
+    ];
+    for (const selector of metaSelectors) {
+      const value = await page.locator(selector).getAttribute('content').catch(() => null);
+      if (value) candidates.push(new URL(value, entry.image_source_page).href);
     }
 
-    const bytes = await response.body();
+    const imageData = await page.locator('img').evaluateAll(images => images.flatMap(img => [
+      img.currentSrc || '',
+      img.src || '',
+      img.getAttribute('data-src') || '',
+      img.getAttribute('data-lazy-src') || '',
+      img.getAttribute('srcset') || '',
+    ]).filter(Boolean));
+    for (const raw of imageData) {
+      for (const part of raw.split(/\s+/)) {
+        if (/^https?:/i.test(part)) candidates.push(part);
+        else if (part && !part.includes('x') && !part.startsWith('data:')) {
+          try { candidates.push(new URL(part, entry.image_source_page).href); } catch {}
+        }
+      }
+    }
+
+    const tokens = identityTokens(entry.pedal);
+    const ranked = [...new Set(candidates)].sort((a, b) => {
+      const score = url => {
+        const normalized = url.toLowerCase().replace(/[^a-z0-9]+/g, ' ');
+        return tokens.reduce((sum, token) => sum + (normalized.includes(token) ? 10 : 0), 0)
+          + (normalized.includes('logo') ? -20 : 0)
+          + (normalized.includes('icon') ? -20 : 0)
+          + (normalized.includes('thumb') ? 1 : 0);
+      };
+      return score(b) - score(a);
+    });
+    if (!ranked.length) throw new Error('no candidate images found');
+
+    let selected = null;
+    let selectedBytes = null;
+    for (const candidate of ranked.slice(0, 12)) {
+      try {
+        const response = await page.request.get(candidate, { timeout: 10000 });
+        const type = (response.headers()['content-type'] || '').toLowerCase();
+        if (!response.ok() || !type.startsWith('image/')) continue;
+        const bytes = await response.body();
+        if (bytes.length < 10000) continue;
+        selected = candidate;
+        selectedBytes = bytes;
+        break;
+      } catch {}
+    }
+    if (!selected) throw new Error('no usable image candidate found');
+
     const out = target(entry);
     fs.mkdirSync(path.dirname(out), { recursive: true });
-    fs.writeFileSync(out.replace(/\.webp$/i, '.source'), bytes);
-    entry.image_source_url = ogImage;
-    return { ok: true, ogImage };
+    fs.writeFileSync(out.replace(/\.webp$/i, '.source'), selectedBytes);
+    entry.image_source_url = selected;
+    return { ok: true, ogImage: selected };
   } finally {
     await page.close().catch(() => {});
   }
