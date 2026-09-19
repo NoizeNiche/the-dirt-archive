@@ -59,3 +59,13 @@ Recover stable, exact-model archival images for:
 - Anode Effects — MOS Fuzz
 
 Exact photos already archived in this batch for Sunday Afternoon Is Infinity Bender, Surfing Bear Overdrive, Dragon Drive V2, and ARC Effects Soothsayer.
+
+
+## Batch 058 photo-recovery queue
+
+Recover stable, exact-model archival images for:
+- Arcane Analog - BC108 Fuzz Face
+- Arcane Analog - Overdrive Overload
+- Arcane Analog - TONE BENDERS (MK1 // MK1.5 // MK2 // MK3 // MK4)
+
+The remaining Batch 058 records now have exact-model photographs archived.
