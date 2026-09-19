@@ -1,5 +1,21 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 140 checkpoint
+
+Batch 140 completed the next ten exact-order records: **Caline - CP-11 Puffer Fuzz; CP-12 Pure Sky; CP-15 Tantrum / Heavy Metal; CP-18 Orange Burst / Overdrive; CP-20 Crazy Cacti; CP-21 Rock Face; CP-25 Highway Man OD; CP-27 Sand Storm; CP-30 Red Devil - Heavy Metal; and CP-32 Clear Veil**. Each received an individual Pedal Info research record, canonical index entry, tracker synchronization, and photo-manifest entry. Exact-model source imagery was located across the pass, but no direct image file was promoted to the local archive without the required cache step.
+
+Verified tracker state after Batch 140:
+- Unique pedals: **3821**
+- Researched: **1082**
+- Confirmed pictures: **303**
+- Fully complete: **325**
+- Incomplete: **3495**
+- Researched but waiting for a confirmed picture: **782**
+- Current exact-order target: **Caline - CP-34 Headroom - Vintage Distortion**
+
+Continue straight down the canonical catalog from that target.
+
+
 ## PRP1 Batch 139 checkpoint
 
 Batch 139 completed the next five exact-order records: **Calangary Pedals - Zaladin Fuzz; California (by Eleca) - CDT-1 Distortion; CHM-1 Heavy Metal; COD-1 Over Drive; and California Valveworks - The Bone Tender**. Each received an individual Pedal Info research record, canonical index entry, tracker synchronization, and photo-manifest entry. No exact photo was promoted in this pass; manufacturer/source-page imagery was retained as provenance for future local archival recovery.
