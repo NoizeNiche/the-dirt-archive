@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-146",
+  "version": "2026-09-19-prp1-batch-147",
   "count": 3821,
   "pedals": [
     {
@@ -12153,8 +12153,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/3170253-cameltone-freak-scene",
+      "research_record": "./research/pedals/PRP Batch 147/cameltone-freak-scene.md",
+      "image_source_page": "https://reverb.com/item/3170253-cameltone-freak-scene"
     },
     {
       "company": "Cameltone Electronics",
@@ -12164,8 +12165,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/58670565-cameltone-electronics-the-nard-2022",
+      "research_record": "./research/pedals/PRP Batch 147/cameltone-the-nard.md",
+      "image_source_page": "https://reverb.com/item/58670565-cameltone-electronics-the-nard-2022"
     },
     {
       "company": "Camuro",
@@ -12175,8 +12177,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://camuro.co.jp/baci-od-dist",
+      "research_record": "./research/pedals/PRP Batch 147/camuro-baci-overdrive-distortion.md",
+      "image_source_page": "https://camuro.co.jp/blog/baci-overdrive-distortion"
     },
     {
       "company": "Camuro",
@@ -12185,8 +12188,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://camuro.co.jp/caboolture",
+      "research_record": "./research/pedals/PRP Batch 147/camuro-caboolture-twin-stage-overdrive.md",
+      "image_source_page": "https://camuro.co.jp/blog/mxr-carbon-copy-camuro-caboolture"
     },
     {
       "company": "Camuro",
@@ -12195,8 +12199,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://camuro.co.jp/",
+      "research_record": "./research/pedals/PRP Batch 147/camuro-fat-baby-preamp-overdrive.md",
+      "image_source_page": "https://camuro.co.jp/"
     },
     {
       "company": "Camuro",
@@ -12205,8 +12210,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://camuro.co.jp/pedals",
+      "research_record": "./research/pedals/PRP Batch 147/camuro-fuzz-rosso.md",
+      "image_source_page": "https://camuro.co.jp/blog/ledmod"
     },
     {
       "company": "Camuro",
@@ -12215,8 +12221,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://camuro.co.jp/hachi-8",
+      "research_record": "./research/pedals/PRP Batch 147/camuro-hachi-8-classic-modern-fuzz-booster.md",
+      "image_source_page": "https://camuro.co.jp/hachi-8"
     },
     {
       "company": "Camuro",
@@ -12226,8 +12233,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://camuro.co.jp/pedals/nakedmachine",
+      "research_record": "./research/pedals/PRP Batch 147/camuro-naked-machine.md",
+      "image_source_page": "https://camuro.co.jp/pedals/nakedmachine"
     },
     {
       "company": "Camuro",
@@ -12236,8 +12244,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://camuro.co.jp/pedals",
+      "research_record": "./research/pedals/PRP Batch 147/camuro-naturale.md",
+      "image_source_page": "https://camuro.co.jp/"
     },
     {
       "company": "Canned Monsters",
@@ -12246,8 +12255,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/cannedmonsters/frenzymoss",
+      "research_record": "./research/pedals/PRP Batch 147/canned-monsters-frenzy-moss.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/cannedmonsters/frenzymoss"
     },
     {
       "company": "Canned Monsters",
