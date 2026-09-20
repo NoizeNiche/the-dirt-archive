@@ -1,5 +1,19 @@
 # The Dirt Archive - Current State
 
+## PRP1 Batch 147 checkpoint — September 19, 2026
+
+Batch 147 advanced the next **10 exact-order missing-information records**: **Cameltone Electronics - Freak Scene; The Nard; Camuro - Baci Overdrive/Distortion; Caboolture Twin-Stage Overdrive; FAT BABY Preamp/Overdrive; Fuzz Rosso; hachi “8” Classic Modern Fuzz/Bosster; Naked Machine; Naturale; and Canned Monsters - Frenzy Moss**.
+
+All ten have individual Pedal Info research records and synchronized canonical index, image manifest, and tracker entries. No exact source image was safely cached as a local archive asset in this pass, so all ten remain photo-pending.
+
+The PRP tracker was reconciled against the permanent completion rule. Fourteen malformed tracker rows were normalized to the seven-column schema and 69 stale **PRP Complete = DONE** flags were corrected where a confirmed picture was not actually present.
+
+**Verified tracker totals:** **3,821 unique pedals / 1,139 researched / 300 pictured / 300 fully complete / 3,521 incomplete / 839 researched-photo-pending**.
+
+**Current exact-order PRP1 target:** **Canned Monsters - Moonbark Overdrive MK2**.
+
+**Public data version:** **2026-09-19-prp1-batch-147**.
+
 ## Repository
 `NoizeNiche/the-dirt-archive`
 
