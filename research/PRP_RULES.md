@@ -1,3 +1,15 @@
+## PRP1 Batch 159 checkpoint — September 20, 2026
+
+Batch 159 advanced **10 consecutive exact-order research records**: **Catalinbread Effects - SideArm Overdrive; Silver Kiss Overdrive; Silver Kiss Overdrive (2007 Reissue); StarCrash Fuzz; CatastroFX - Deface Mk.III; CatastroFX - Outbreak; Cathouse Pedals - Fuzzy Tongue; Cathouse Pedals - Rat Fink; Cathouse Pedals - The Bender; and Cathouse Pedals - The Screamer**.
+
+All ten now have individual Pedal Info research records synchronized into the catalog and photo/research manifest. Exact photographs remain governed separately by the verified photo-cache workflow and are not marked complete unless an exact-model image is archived.
+
+**Research progress:** **3,821 total / 1,259 researched** before the next photo-cache synchronization pass.
+
+**Next exact-order research target:** **None yet. The photo-cache/deployment cycle must first synchronize this batch and recover any exact-model images it can verify.**
+
+**Public data version:** **2026-09-20-prp1-batch-159**.
+
 ## PRP1 Batch 158 checkpoint — September 20, 2026
 
 Batch 158 advanced **10 consecutive exact-order research records**: **Catalinbread Effects - Maxon 40th Anniversary Catalinbread Modified Overdrive (OD808-40C); Merkin Fuzz; Misnomer; Misnomer (Cabinet Series); Naga Viper; Perseus DIO; Perseus DIO (dry distortion section only; octave-down function excluded from census categorying); RAH; Sabbra Cadabra; and SFT**.
