@@ -107,7 +107,7 @@ async function imageSearchCandidates(page, entry) {
   const query = `${entry.company} ${entry.pedal} guitar pedal`;
   const searchUrl = 'https://www.bing.com/images/search?form=HDRSC2&q=' + encodeURIComponent(query);
   try {
-    await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: 12000 });
+    await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: SEARCH_TIMEOUT });
     await page.waitForTimeout(200);
     return await page.evaluate(() => {
       const out = [];
