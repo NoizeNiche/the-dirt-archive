@@ -1,5 +1,18 @@
 # The Dirt Archive - Pedal Research Phase Rules
 
+## PRP1 Batch 155 checkpoint — September 20, 2026
+
+Batch 155 advanced **10 consecutive exact-order research records**: **Cat's Eye ESP - Hop Hed Fuzztone; Hybrid Fuzz; Mista' Fuzz; Mutha' Fuzz; Catalinbread Effects - Airstrip Console Pre; Antichthon; Carbide Distortion; Clean Little Secret; Crooner Preamp; and Dirty Little Secret**.
+
+All ten have individual Pedal Info records synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Cat's Eye ESP documentation is based on surviving Effects Database records plus exact-model used listings where available. Catalinbread records use current official product pages plus historical coverage where version history matters. No picture is counted until image-cache confirms and archives an exact asset.
+
+**Verified tracker totals:** **3,821 total / 1,219 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 910 researched-photo-pending**.
+
+**Next exact-order research target:** **Catalinbread Effects - Dirty Little Secret Deluxe**.
+
+**Public data version:** **2026-09-20-prp1-batch-155**.
+
+
 ## PRP1 Batch 154 checkpoint — September 20, 2026
 
 Batch 154 advanced **10 consecutive exact-order research records**: **Caswell Modern Electronics (CME) - Boost 90 Clean Drive; Boost 98 Bass Drive; Shark Mouth - Bass Synth Fuzz; Cat Box Customs - Bean Machine; Bean Machine V2; Fuzz Club; CAT Sound - Classic; Dancing - Distortion; DriveCenter; and DriveCenter Bass**.
