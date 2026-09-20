@@ -1,5 +1,18 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 148 checkpoint — September 19, 2026
+
+Batch 148 advanced **10 consecutive exact-order research records**: **Canned Monsters - Moonbark Overdrive MK2; Canvas Analog Devices - The Metamorphosis; Captain FX - Yeti Fuzz; Carcharias Effects - Uncle 125 Bass Overdrive; Carella Guitars - Kung Fuzz; Leopard; Overdistover; Overtube; Real Tube; and Carl Martin - AC-Tone Single**.
+
+All ten now have individual Pedal Info research records synchronized into the canonical PRP layer. Exact source/photo pages were captured where evidence was available, including Canned Monsters, Reverb, Effects Database, Carella historical/retail records, and current Carl Martin documentation. No questionable image was promoted directly; the local photo cache workflow remains responsible for verified archival recovery.
+
+**Verified tracker totals:** **3,821 total / 1,149 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 840 researched-photo-pending**.
+
+**Next exact-order research target:** **Carl Martin - DC-Drive**.
+
+**Public data version:** **2026-09-19-prp1-batch-148**.
+
+
 ## PRP1 Batch 147 checkpoint — September 19, 2026
 
 Batch 147 advanced **10 consecutive exact-order research records**: **Cameltone Electronics - Freak Scene; The Nard; Camuro - Baci Overdrive/Distortion; Caboolture Twin-Stage Overdrive; FAT BABY Preamp/Overdrive; Fuzz Rosso; hachi “8” Classic Modern Fuzz/Bosster; Naked Machine; Naturale; and Canned Monsters - Frenzy Moss**.
