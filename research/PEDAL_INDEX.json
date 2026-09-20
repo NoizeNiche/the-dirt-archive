@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-141",
+  "version": "2026-09-19-prp1-batch-142",
   "count": 3821,
   "pedals": [
     {
@@ -11813,8 +11813,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mfuzz",
+      "research_record": "./research/pedals/PRP Batch 142/cp-504-m-fuzz.md"
     },
     {
       "company": "Caline",
@@ -11823,8 +11823,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/stackattack",
+      "research_record": "./research/pedals/PRP Batch 142/cp-509-stack-attack-preamp-overdrive-compressor.md"
     },
     {
       "company": "Caline",
@@ -11833,8 +11833,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/jaguar",
+      "research_record": "./research/pedals/PRP Batch 142/cp-510-jaguar-classic-high-gain-distortion.md"
     },
     {
       "company": "Caline",
@@ -11843,8 +11843,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/enchantedtone",
+      "research_record": "./research/pedals/PRP Batch 142/cp-511-enchanted-tone-highly-prized-overdrive.md"
     },
     {
       "company": "Caline",
@@ -11853,8 +11853,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
+      "research_record": "./research/pedals/PRP Batch 142/cp-515-carmilla-hi-gain-distortion-machine.md"
     },
     {
       "company": "Caline",
@@ -11863,8 +11863,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/orangeburst",
+      "research_record": "./research/pedals/PRP Batch 142/cp-516-orange-burst.md"
     },
     {
       "company": "Caline",
@@ -11873,8 +11873,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp53",
+      "research_record": "./research/pedals/PRP Batch 142/cp-53-fuzzy-faace-voodoo-octave.md"
     },
     {
       "company": "Caline",
@@ -11883,8 +11883,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp54",
+      "research_record": "./research/pedals/PRP Batch 142/cp-54-the-big-orange-crushing-overdrive.md"
     },
     {
       "company": "Caline",
@@ -11893,8 +11893,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp56",
+      "research_record": "./research/pedals/PRP Batch 142/cp-56-midlander-the-mayday-ac-tone.md"
     },
     {
       "company": "Caline",
@@ -11903,8 +11903,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp65",
+      "research_record": "./research/pedals/PRP Batch 142/cp-65-bass-over-drive.md"
     },
     {
       "company": "Caline",
