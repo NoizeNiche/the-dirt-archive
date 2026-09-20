@@ -8,7 +8,7 @@ All ten now have individual Pedal Info research records synchronized into **PEDA
 
 During tracker reconciliation, **14 malformed 8-column rows were normalized** and **69 stale PRP Complete flags were corrected** so PRP Complete is now derived from the two required inputs: Pedal Info = DONE and Picture = DONE.
 
-**Verified tracker totals:** **3,821 total / 1,139 researched / 300 pictured / 300 fully complete / 3,521 incomplete / 839 researched-photo-pending**.
+**Verified tracker totals:** **3,821 total / 1,139 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 830 researched-photo-pending**.ncomplete / 839 researched-photo-pending**.
 
 **Next exact-order research target:** **Canned Monsters - Moonbark Overdrive MK2**.
 
