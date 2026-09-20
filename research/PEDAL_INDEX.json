@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-148",
+  "version": "2026-09-19-prp1-batch-149",
   "count": 3821,
   "pedals": [
     {
@@ -12377,8 +12377,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://carlmartin.com/products/dc-drive/",
+      "research_record": "./research/pedals/PRP Batch 149/carl-martin-dc-drive.md",
+      "image_source_page": "https://carlmartin.com/products/dc-drive/"
     },
     {
       "company": "Carl Martin",
@@ -12388,8 +12389,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://carlmartin.com/products/greg-howes-lick-box/",
+      "research_record": "./research/pedals/PRP Batch 149/carl-martin-greg-howes-lick-box.md",
+      "image_source_page": "https://carlmartin.com/products/greg-howes-lick-box/"
     },
     {
       "company": "Carl Martin",
@@ -12398,8 +12400,9 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://carlmartin.com/products/heavy-drive/",
+      "research_record": "./research/pedals/PRP Batch 149/carl-martin-heavy-drive.md",
+      "image_source_page": "https://carlmartin.com/products/heavy-drive/"
     },
     {
       "company": "Carl Martin",
@@ -12409,8 +12412,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://carlmartin.com/products/panama/",
+      "research_record": "./research/pedals/PRP Batch 149/carl-martin-panama.md",
+      "image_source_page": "https://carlmartin.com/products/panama/"
     },
     {
       "company": "Carl Martin",
@@ -12419,8 +12423,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://carlmartin.com/products/plexiranger/",
+      "research_record": "./research/pedals/PRP Batch 149/carl-martin-plexiranger.md",
+      "image_source_page": "https://carlmartin.com/products/plexiranger/"
     },
     {
       "company": "Carl Martin",
@@ -12430,8 +12435,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://carlmartin.com/products/plexitone/",
+      "research_record": "./research/pedals/PRP Batch 149/carl-martin-plexitone.md",
+      "image_source_page": "https://carlmartin.com/products/plexitone/"
     },
     {
       "company": "Carl Martin",
@@ -12440,8 +12446,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://carlmartin.com/products/plexitone-lo-gain/",
+      "research_record": "./research/pedals/PRP Batch 149/carl-martin-plexitone-lo-gain.md",
+      "image_source_page": "https://carlmartin.com/products/plexitone-lo-gain/"
     },
     {
       "company": "Carl Martin",
@@ -12451,8 +12458,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://carlmartin.com/products/plexitone-single/",
+      "research_record": "./research/pedals/PRP Batch 149/carl-martin-plexitone-single.md",
+      "image_source_page": "https://carlmartin.com/products/plexitone-single/"
     },
     {
       "company": "Carl Martin",
@@ -12461,8 +12469,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://carlmartin.com/products/purple-moon/",
+      "research_record": "./research/pedals/PRP Batch 149/carl-martin-purple-moon.md",
+      "image_source_page": "https://carlmartin.com/products/purple-moon/"
     },
     {
       "company": "Carl Martin",
@@ -12471,8 +12480,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://carlmartin.com/products/the-fuzz/",
+      "research_record": "./research/pedals/PRP Batch 149/carl-martin-the-fuzz.md",
+      "image_source_page": "https://carlmartin.com/products/the-fuzz/"
     },
     {
       "company": "Carl Martin",
