@@ -1,0 +1,21 @@
+# Catalinbread Effects Formula 55
+
+- **Builder:** Catalinbread Effects
+- **Catalog type:** Distortion / Overdrive
+- **Catalog identity:** Formula 55
+- **What this pedal is:** A Foundation overdrive built around the Fender tweed 5E3 Deluxe preamp. Catalinbread describes the signal path as all-discrete and JFET-based, with the control behavior intended to preserve the interactive response of the source amp.
+- **Colorways:** Standard production finish plus documented cosmetic redesigns such as the current New Look. The catalog identity remains Formula 55 rather than splitting ordinary cosmetic revisions.
+- **Versions:** Earlier Formula No. 55 and the later New Look Formula 55 are part of the same product identity in the reviewed sources.
+- **Version changes:** The documented changes are chiefly presentation and control labeling. The reviewed current documentation continues to identify the product as the same 5E3-inspired Formula 55 platform; no unsupported circuit revision was inferred from the cosmetic redesign.
+- **Transistor type:** JFET, in an all-discrete signal path.
+- **Diode type:** Not documented.
+- **Controls / switching:** Presence, Tone, Master, Volume, and a Hi/Lo switch.
+- **Power:** 9V battery or 9-18V negative-tip DC supply.
+- **Sound:** Formula 55 aims for the broad, woody, touch-sensitive response of a Tweed Deluxe, including the large low-end feel associated with the 5E3. The Lo position is intended as the more vintage-style response, while Hi increases gain in the manner of hot-rodding the amp with higher-gain tubes.
+- **Research confidence:** High for the 5E3/JFET identity and control behavior; moderate for historical production-version details.
+- **Sources checked:**
+  - https://catalinbread.com/products/formula-55-new-look
+  - https://catalinbread.com/collections/foundation-overdrive-series
+  - https://www.guitarcenter.com/Catalinbread/Formula-55-Tweed-Deluxe-style-Overdrive-Effects-Pedal-Black-and-Silver-1500000392111.gc
+  - https://www.sweetwater.com/store/detail/FormNo55--catalinbread-formula-no-55-tweed-deluxe-style-overdrive-pedal
+  - https://www.effectsdatabase.com/model/catalinbread/formula55
