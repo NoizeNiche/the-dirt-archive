@@ -1,5 +1,20 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 147 checkpoint — September 19, 2026
+
+Batch 147 advanced **10 consecutive exact-order research records**: **Cameltone Electronics - Freak Scene; The Nard; Camuro - Baci Overdrive/Distortion; Caboolture Twin-Stage Overdrive; FAT BABY Preamp/Overdrive; Fuzz Rosso; hachi “8” Classic Modern Fuzz/Bosster; Naked Machine; Naturale; and Canned Monsters - Frenzy Moss**.
+
+All ten now have individual Pedal Info research records synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Exact-model source/photo pages were captured for the batch where evidence was available, including Cameltone/Reverb records, Camuro's official product pages, and the Canned Monsters Effects Database/Reverb records. No remote source image was promoted to a local catalog asset in this pass, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+During tracker reconciliation, **14 malformed 8-column rows were normalized** and **69 stale PRP Complete flags were corrected** so PRP Complete is now derived from the two required inputs: Pedal Info = DONE and Picture = DONE.
+
+**Verified tracker totals:** **3,821 total / 1,139 researched / 300 pictured / 300 fully complete / 3,521 incomplete / 839 researched-photo-pending**.
+
+**Next exact-order research target:** **Canned Monsters - Moonbark Overdrive MK2**.
+
+**Public data version:** **2026-09-19-prp1-batch-147**.
+
+
 ## PRP1 Batch 146 checkpoint — September 19, 2026
 
 Batch 146 advanced **4 exact-order research records**: **Caline - G-001 Tiger Eye Distortion; G-002 Green Mamba Overdrive; G-014 Nasty Bear Fuzz; and Cameltone Electronics - Big Stuff**.
