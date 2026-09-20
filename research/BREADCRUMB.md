@@ -1,5 +1,18 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 153 checkpoint — September 19, 2026
+
+Batch 153 advanced **10 consecutive exact-order research records**: **Casey Gooby - Bag Of Dicks; Casey Gooby - Organ Donor; Casimir Effects Pedals - Entropy Fuzz; CAST Engineering - Gypsy Haze; CAST Engineering - Mike Zito Peace Drive; CAST Engineering - Texas Flood; CastleRock - CastleRock Bass Overdrive; CastleRock - CastleRock Distortion; CastleRock - CastleRock Metal Driver; and CastleRock - CastleRock Overdrive**.
+
+All ten have individual Pedal Info records synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Historical catalog sources were used for the older Casey Gooby, Casimir, CAST Engineering, and CastleRock records. No picture is counted until the image-cache workflow confirms and archives an exact asset.
+
+**Verified tracker totals:** **3,821 total / 1,199 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 890 researched-photo-pending**.
+
+**Next exact-order research target:** **Caswell Modern Electronics (CME) - Boost 90 Clean Drive**.
+
+**Public data version:** **2026-09-19-prp1-batch-153**.
+
+
 ## PRP1 Batch 152 checkpoint — September 19, 2026
 
 Batch 152 advanced **10 consecutive exact-order research records**: **Carruthers - Dyna-Soar; Carruthers - Dyna-Soar Lite; Carvin - Carvin TO-1 Tube Overdrive; Carvin - Carvin UD-1 Ultra Distortion; Carvin - Carvin VLD1 Steve Vai Legacy Drive Preamp; Cascade Pedals - Hosstortion; Case Study Effects Co. - Aspen One - Boost + Overdrive; Case Study Effects Co. - Aspen Overdrive; Case Study Effects Co. - Germanium Aspen Overdrive; and Case Study Effects Co. - Lastlight Overdrive**.
