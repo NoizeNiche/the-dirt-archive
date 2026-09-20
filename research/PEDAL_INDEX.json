@@ -1,5 +1,5 @@
 {
-  "version": "data-8c34c50a1f1c",
+  "version": "data-70bdcbf132e2",
   "count": 3821,
   "pedals": [
     {
@@ -1006,9 +1006,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/add-pedals/super-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addplus/superdrive",
-      "research_record": "./research/pedals/Add+ Pedals/Super Drive.md"
+      "research_record": "./research/pedals/Add+ Pedals/Super Drive.md",
+      "image_source_url": "https://www.soranaudio.com/upload/images/article/20260415/17762230308134413.jpg",
+      "image_source_page": "https://www.soranaudio.com/cn/products/40.html"
     },
     {
       "company": "Add+ Pedals",
@@ -1036,9 +1038,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/add-pedals/tube-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addplus/tubedrive",
-      "research_record": "./research/pedals/Add+ Pedals/Tube Drive.md"
+      "research_record": "./research/pedals/Add+ Pedals/Tube Drive.md",
+      "image_source_url": "https://www.effectrode.com/wp-content/uploads/2018/07/tube_drive_overdrive_distortion_pedal_768px.jpg",
+      "image_source_page": "https://www.effectrode.com/products/effects-pedals/tube-drive-overdrive/"
     },
     {
       "company": "Add+ Pedals",
@@ -2357,9 +2361,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/amukat/tweaker/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/amukat/tweaker",
-      "research_record": "./research/pedals/PRP Batch 050/Tweaker.md"
+      "research_record": "./research/pedals/PRP Batch 050/Tweaker.md",
+      "image_source_url": "https://i.ytimg.com/vi/Gc3L0nyUvCM/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgWyhKMA8=&rs=AOn4CLAIKIlfs4EEBLi-_dTW9VhtkjdZbg",
+      "image_source_page": "https://www.youtube.com/watch?v=Gc3L0nyUvCM"
     },
     {
       "company": "Amzel Electronics",
@@ -2368,9 +2374,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/amzel-electronics/cheshire-cat-tone-evaporator/primary.webp",
       "source_page": "https://www.premierguitar.com/amzel-electronics-releases-the-cheshire-cat",
-      "research_record": "./research/pedals/PRP Batch 050/Cheshire Cat Tone Evaporator.md"
+      "research_record": "./research/pedals/PRP Batch 050/Cheshire Cat Tone Evaporator.md",
+      "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25746081&width=1200&height=600&coordinates=0%2C20%2C0%2C20",
+      "image_source_page": "https://www.premierguitar.com/amzel-electronics-releases-the-cheshire-cat"
     },
     {
       "company": "Analog Alien",
