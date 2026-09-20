@@ -1,0 +1,21 @@
+# CatastroFX Deface Mk.III
+
+- **Builder:** CatastroFX
+- **Catalog type:** Fuzz
+- **Catalog identity:** Deface Mk.III
+- **What this pedal is:** CatastroFX's modern take on the classic 1960s Fuzz Face circuit. The Mk.III is described as the latest version and adds two controls beyond the original two-control layout.
+- **Colorways:** Multiple CatastroFX finishes are documented in builder/reverb listings; color is treated as cosmetic rather than a separate model.
+- **Versions:** Deface Mk.III is the documented latest version; earlier Deface and Deface Mk.II examples are separately documented.
+- **Version changes:** The Mk.II added increased maximum level and an Input control; a 2025 Mk.III demo describes two extra controls relative to the original two-control circuit. The available Mk.III source does not name every control, so no unsupported control names are assigned here.
+- **Transistor type:** Not assigned to Mk.III because the available BC-series transistor references are tied to other Deface listings and are not sufficiently version-specific.
+- **Diode type:** Not documented.
+- **Controls / switching:** Four-control Mk.III layout is documented; exact full control naming is left unspecified pending a version-specific source.
+- **Power:** Not documented by the sources checked.
+- **Factory modifications:** None documented by the sources checked.
+- **Sound:** The Deface is intended to retain classic Fuzz Face behavior while extending the available range. The Mk.II is described as offering thick fuzz with useful cleanup and more output, while the Mk.III adds further control range.
+- **Research confidence:** Moderate for Mk.III identity and version progression; lower for exact Mk.III control naming and technical component details.
+- **Sources checked:**
+  - https://www.youtube.com/watch?v=QY4yfgzzXuA
+  - https://www.reddit.com/r/PedalDemos/comments/1j0ll2y
+  - https://reverb.com/item/89010484-catastrofx-deface-mk2
+  - https://reverb.com/item/82247694-catastrofx-deface-fuzz-face
