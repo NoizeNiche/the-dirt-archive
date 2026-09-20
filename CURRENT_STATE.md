@@ -8,7 +8,7 @@ All ten have individual Pedal Info research records synchronized into **PEDAL_IN
 
 **Verified tracker totals:** **3,821 total / 1,159 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 850 researched-photo-pending**.
 
-**Next exact-order research target:** **Carlin - Carlin Compressor/Fuzz**.
+**Next exact-order research target:** **Carl Martin - TOD**.
 
 **Public data version:** **2026-09-19-prp1-batch-149**.
 
