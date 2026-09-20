@@ -33,7 +33,7 @@ jobs:
 
       - name: Recover verified page images
         env:
-          PHOTO_BROWSER_CACHE_LIMIT: "60"
+          PHOTO_BROWSER_CACHE_LIMIT: "30"
           PHOTO_BROWSER_CACHE_CONCURRENCY: "6"
           PHOTO_BROWSER_CACHE_PRIORITY_COMPANY: "Catalinbread Effects"
         run: node scripts/browser-photo-cache.mjs
