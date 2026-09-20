@@ -1248,16 +1248,16 @@ Catalinbread Effects,Perseus DIO (dry distortion section only; octave-down funct
 Catalinbread Effects,RAH,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 158/catalinbread-rah.md
 Catalinbread Effects,Sabbra Cadabra,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 158/catalinbread-sabbra-cadabra.md
 Catalinbread Effects,SFT,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 158/catalinbread-sft.md
-Catalinbread Effects,SideArm Overdrive,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Catalinbread Effects,Silver Kiss Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Catalinbread Effects,Silver Kiss Overdrive (2007 Reissue),Overdrive,NEEDED,NEEDED,NEEDED,
-Catalinbread Effects,StarCrash Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-CatastroFX,Deface Mk.III,Fuzz,NEEDED,NEEDED,NEEDED,
-CatastroFX,Outbreak,Overdrive,NEEDED,NEEDED,NEEDED,
-Cathouse Pedals,Fuzzy Tongue,Fuzz,NEEDED,NEEDED,NEEDED,
-Cathouse Pedals,Rat Fink,Distortion,NEEDED,NEEDED,NEEDED,
-Cathouse Pedals,The Bender,Fuzz,NEEDED,NEEDED,NEEDED,
-Cathouse Pedals,The Screamer,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
+Catalinbread Effects,SideArm Overdrive,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 159/catalinbread-sidearm-overdrive.md
+Catalinbread Effects,Silver Kiss Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 159/catalinbread-silver-kiss-overdrive.md
+Catalinbread Effects,Silver Kiss Overdrive (2007 Reissue),Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 159/catalinbread-silver-kiss-overdrive-2007-reissue.md
+Catalinbread Effects,StarCrash Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 159/catalinbread-starcrash-fuzz.md
+CatastroFX,Deface Mk.III,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 159/catastrofx-deface-mk-iii.md
+CatastroFX,Outbreak,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 159/catastrofx-outbreak.md
+Cathouse Pedals,Fuzzy Tongue,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 159/cathouse-pedals-fuzzy-tongue.md
+Cathouse Pedals,Rat Fink,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 159/cathouse-pedals-rat-fink.md
+Cathouse Pedals,The Bender,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 159/cathouse-pedals-the-bender.md
+Cathouse Pedals,The Screamer,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 159/cathouse-pedals-the-screamer.md
 Cause & Effect Pedals (CE Pedals),FET Dream,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
 Caustic FX,Snowstorm,Distortion,NEEDED,NEEDED,NEEDED,
 Cave Passive Pedals,60's Break Up,Overdrive,NEEDED,NEEDED,NEEDED,
