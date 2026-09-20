@@ -34,7 +34,7 @@ jobs:
         env:
           PHOTO_BROWSER_CACHE_LIMIT: "150"
           PHOTO_BROWSER_CACHE_CONCURRENCY: "8"
-          PHOTO_BROWSER_CACHE_PRIORITY_COMPANY: "Catalinbread Effects"
+          # Recovery follows exact PRP_TRACKER order; no builder is privileged.
           PHOTO_BROWSER_IMAGE_SEARCH: "true"
         run: node scripts/browser-photo-cache.mjs
 
@@ -73,5 +73,4 @@ jobs:
           git commit -m "Archive verified pedal photos locally"
           git push
 
-          # Maintenance kick: each operator-triggered main push starts the next
-          # bounded photo-recovery batch after the prior batch finishes.
+          # The next main-push cache run continues from the current tracker state.
