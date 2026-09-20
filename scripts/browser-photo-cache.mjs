@@ -96,111 +96,119 @@ async function imageSearchCandidates(page, entry) {
 async function recoverEntry(browser, entry) {
   const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
   try {
-    const pageUrl = entry.image_source_page || entry.source_page || null;
     const candidates = [];
-    let sourcePageUsed = null;
+    const pageUrl = entry.image_source_page || entry.source_page || null;
 
+    if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) {
+      candidates.push({
+        url: entry.image_source_url,
+        sourcePage: entry.image_source_page || entry.source_page || null,
+        sourceScore: 80
+      });
+    }
+
+    let sourcePageUsed = null;
     if (pageUrl && /^https?:/i.test(pageUrl)) {
       try {
         await page.goto(pageUrl, { waitUntil: 'domcontentloaded', timeout: 12000 });
-        sourcePageUsed = pageUrl;
+        const title = await page.title().catch(() => '');
+        const h1 = await page.locator('h1').first().textContent().catch(() => '');
+        const body = await page.locator('body').textContent().catch(() => '');
+
+        if (pageMatchesIdentity(entry, title + ' ' + body, h1)) {
+          sourcePageUsed = pageUrl;
+
+          for (const selector of ['meta[property="og:image"]', 'meta[name="twitter:image"]']) {
+            const value = await page.locator(selector).getAttribute('content').catch(() => null);
+            if (value) {
+              candidates.push({
+                url: new URL(value, sourcePageUsed).href,
+                sourcePage: sourcePageUsed,
+                sourceScore: 120
+              });
+            }
+          }
+
+          if (!candidates.some(x => x.sourcePage === sourcePageUsed && x.sourceScore >= 120)) {
+            await page.waitForTimeout(500);
+            await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+            await page.waitForTimeout(700);
+            await page.evaluate(() => window.scrollTo(0, 0));
+            await page.waitForTimeout(250);
+          }
+
+          const imageData = await page.evaluate(() => {
+            const urls = [];
+            for (const el of document.querySelectorAll('img, source')) {
+              urls.push(
+                el.currentSrc || '',
+                el.src || '',
+                el.getAttribute('data-src') || '',
+                el.getAttribute('data-lazy-src') || '',
+                el.getAttribute('data-original') || '',
+                el.getAttribute('srcset') || ''
+              );
+            }
+            for (const el of document.querySelectorAll('[style*="background"]')) {
+              const css = getComputedStyle(el).backgroundImage || '';
+              const match = css.match(/url\(["']?([^"')]+)["']?\)/i);
+              if (match) urls.push(match[1]);
+            }
+            return urls.filter(Boolean);
+          });
+
+          for (const raw of imageData) {
+            for (const part of raw.split(/\s+/)) {
+              if (/^https?:/i.test(part)) {
+                candidates.push({ url: part, sourcePage: sourcePageUsed, sourceScore: 90 });
+              } else if (part && !part.includes('x') && !part.startsWith('data:')) {
+                try {
+                  candidates.push({
+                    url: new URL(part, sourcePageUsed).href,
+                    sourcePage: sourcePageUsed,
+                    sourceScore: 90
+                  });
+                } catch {}
+              }
+            }
+          }
+        }
       } catch {}
     }
 
-    if (sourcePageUsed) {
-      const title = await page.title().catch(() => '');
-      const h1 = await page.locator('h1').first().textContent().catch(() => '');
-      const body = await page.locator('body').textContent().catch(() => '');
-      if (!pageMatchesIdentity(entry, title + ' ' + body, h1)) {
-        sourcePageUsed = null;
-      }
-    }
-
-    if (sourcePageUsed) {
-
-    const title = await page.title().catch(() => '');
-    const h1 = await page.locator('h1').first().textContent().catch(() => '');
-    const body = await page.locator('body').textContent().catch(() => '');
-    if (!pageMatchesIdentity(entry, title + ' ' + body, h1)) {
-      throw new Error('page identity did not match page text');
-    }
-
-    const metaSelectors = [
-      'meta[property="og:image"]',
-      'meta[name="twitter:image"]'
-    ];
-    for (const selector of metaSelectors) {
-      const value = await page.locator(selector).getAttribute('content').catch(() => null);
-      if (value && sourcePageUsed) candidates.push(new URL(value, sourcePageUsed).href);
-    }
-
-    // Shopify and similar product pages usually expose the exact product image
-    // in og:image. Only pay the lazy-gallery cost when no canonical meta image
-    // is available.
-    if (sourcePageUsed && !candidates.length) {
-      await page.waitForTimeout(500);
-      await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-      await page.waitForTimeout(700);
-      await page.evaluate(() => window.scrollTo(0, 0));
-      await page.waitForTimeout(250);
-    }
-
-    const imageData = await page.evaluate(() => {
-      const urls = [];
-      for (const el of document.querySelectorAll('img, source')) {
-        urls.push(
-          el.currentSrc || '',
-          el.src || '',
-          el.getAttribute('data-src') || '',
-          el.getAttribute('data-lazy-src') || '',
-          el.getAttribute('data-original') || '',
-          el.getAttribute('srcset') || ''
-        );
-      }
-      for (const el of document.querySelectorAll('[style*="background"]')) {
-        const css = getComputedStyle(el).backgroundImage || '';
-        const match = css.match(/url\(["']?([^"')]+)["']?\)/i);
-        if (match) urls.push(match[1]);
-      }
-      return urls.filter(Boolean);
-    });
-    for (const raw of imageData) {
-      for (const part of raw.split(/\s+/)) {
-        if (/^https?:/i.test(part)) candidates.push(part);
-        else if (part && !part.includes('x') && !part.startsWith('data:')) {
-          try { if (sourcePageUsed) candidates.push(new URL(part, sourcePageUsed).href); } catch {}
-        }
-      }
-    }
-
-    if (IMAGE_SEARCH_ENABLED && (!sourcePageUsed || !candidates.length)) {
+    if (IMAGE_SEARCH_ENABLED && (!sourcePageUsed || candidates.length <= 1)) {
       const searchResults = await imageSearchCandidates(page, entry);
       for (const result of searchResults) {
         const fit = imageSearchScore(entry, result);
         if (fit.score < 30 || fit.pedalHits < 1) continue;
-        candidates.push(result.murl);
+        candidates.push({
+          url: result.murl,
+          sourcePage: result.purl || null,
+          sourceScore: 20 + Math.min(70, fit.score)
+        });
       }
-      if (!sourcePageUsed && searchResults.length) sourcePageUsed = searchResults[0].purl || null;
     }
 
     const tokens = identityTokens(entry.pedal);
-    const ranked = [...new Set(candidates)].sort((a, b) => {
-      const score = url => {
-        const normalized = url.toLowerCase().replace(/[^a-z0-9]+/g, ' ');
-        return tokens.reduce((sum, token) => sum + (normalized.includes(token) ? 10 : 0), 0)
+    const ranked = [...new Map(candidates.map(x => [x.url, x])).values()].sort((a, b) => {
+      const score = candidate => {
+        const normalized = candidate.url.toLowerCase().replace(/[^a-z0-9]+/g, ' ');
+        return candidate.sourceScore
+          + tokens.reduce((sum, token) => sum + (normalized.includes(token) ? 10 : 0), 0)
           + (normalized.includes('logo') ? -20 : 0)
           + (normalized.includes('icon') ? -20 : 0)
           + (normalized.includes('thumb') ? 1 : 0);
       };
       return score(b) - score(a);
     });
+
     if (!ranked.length) throw new Error('no candidate images found');
 
     let selected = null;
     let selectedBytes = null;
-    for (const candidate of ranked.slice(0, 6)) {
+    for (const candidate of ranked.slice(0, 10)) {
       try {
-        const response = await page.request.get(candidate, { timeout: 10000 });
+        const response = await page.request.get(candidate.url, { timeout: 10000 });
         const type = (response.headers()['content-type'] || '').toLowerCase();
         if (!response.ok() || !type.startsWith('image/')) continue;
         const bytes = await response.body();
@@ -210,19 +218,19 @@ async function recoverEntry(browser, entry) {
         break;
       } catch {}
     }
+
     if (!selected) throw new Error('no usable image candidate found');
 
     const out = target(entry);
     fs.mkdirSync(path.dirname(out), { recursive: true });
     fs.writeFileSync(out.replace(/\.webp$/i, '.source'), selectedBytes);
-    entry.image_source_url = selected;
-    if (sourcePageUsed) entry.image_source_page = sourcePageUsed;
-    return { ok: true, imageUrl: selected, sourcePage: sourcePageUsed };
+    entry.image_source_url = selected.url;
+    if (selected.sourcePage) entry.image_source_page = selected.sourcePage;
+    return { ok: true, imageUrl: selected.url, sourcePage: selected.sourcePage || null };
   } finally {
     await page.close().catch(() => {});
   }
 }
-
 (async () => {
   const catalog = JSON.parse(fs.readFileSync(INDEX, 'utf8'));
   const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf8'));
