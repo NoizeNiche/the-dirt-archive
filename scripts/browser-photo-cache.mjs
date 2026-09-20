@@ -46,14 +46,6 @@ async function recoverEntry(browser, entry) {
   const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
   try {
     await page.goto(entry.image_source_page, { waitUntil: 'domcontentloaded', timeout: 12000 });
-    // Give lazy-loaded galleries a chance to populate, then return to the
-    // top so image src/currentSrc values are materialized in the DOM.
-    await page.waitForTimeout(1200);
-    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-    await page.waitForTimeout(1200);
-    await page.evaluate(() => window.scrollTo(0, 0));
-    await page.waitForTimeout(400);
-
     const title = await page.title().catch(() => '');
     const h1 = await page.locator('h1').first().textContent().catch(() => '');
     const body = await page.locator('body').textContent().catch(() => '');
@@ -69,6 +61,17 @@ async function recoverEntry(browser, entry) {
     for (const selector of metaSelectors) {
       const value = await page.locator(selector).getAttribute('content').catch(() => null);
       if (value) candidates.push(new URL(value, entry.image_source_page).href);
+    }
+
+    // Shopify and similar product pages usually expose the exact product image
+    // in og:image. Only pay the lazy-gallery cost when no canonical meta image
+    // is available.
+    if (!candidates.length) {
+      await page.waitForTimeout(500);
+      await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+      await page.waitForTimeout(700);
+      await page.evaluate(() => window.scrollTo(0, 0));
+      await page.waitForTimeout(250);
     }
 
     const imageData = await page.evaluate(() => {
@@ -114,7 +117,7 @@ async function recoverEntry(browser, entry) {
 
     let selected = null;
     let selectedBytes = null;
-    for (const candidate of ranked.slice(0, 12)) {
+    for (const candidate of ranked.slice(0, 6)) {
       try {
         const response = await page.request.get(candidate, { timeout: 10000 });
         const type = (response.headers()['content-type'] || '').toLowerCase();
