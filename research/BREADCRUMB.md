@@ -1,5 +1,18 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 154 checkpoint — September 20, 2026
+
+Batch 154 advanced **10 consecutive exact-order research records**: **Caswell Modern Electronics (CME) - Boost 90 Clean Drive; Boost 98 Bass Drive; Shark Mouth - Bass Synth Fuzz; Cat Box Customs - Bean Machine; Bean Machine V2; Fuzz Club; CAT Sound - Classic; Dancing - Distortion; DriveCenter; and DriveCenter Bass**.
+
+All ten have individual Pedal Info records synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. The Caswell records use surviving contemporary reviews and Effects Database documentation, Cat Box Customs uses detailed builder/reviewer coverage, and the older CAT Sound models are documented conservatively from Effects Database catalog pages because those pages expose little technical detail. No picture is counted until the image-cache workflow confirms and archives an exact asset.
+
+**Verified tracker totals:** **3,821 total / 1,209 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 900 researched-photo-pending**.
+
+**Next exact-order research target:** **Cat's Eye ESP - Hop Hed Fuzztone**.
+
+**Public data version:** **2026-09-20-prp1-batch-154**.
+
+
 ## PRP1 Batch 153 checkpoint — September 19, 2026
 
 Batch 153 advanced **10 consecutive exact-order research records**: **Casey Gooby - Bag Of Dicks; Casey Gooby - Organ Donor; Casimir Effects Pedals - Entropy Fuzz; CAST Engineering - Gypsy Haze; CAST Engineering - Mike Zito Peace Drive; CAST Engineering - Texas Flood; CastleRock - CastleRock Bass Overdrive; CastleRock - CastleRock Distortion; CastleRock - CastleRock Metal Driver; and CastleRock - CastleRock Overdrive**.
