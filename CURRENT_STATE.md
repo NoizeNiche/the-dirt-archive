@@ -1,3 +1,15 @@
+## PRP1 Batch 156 checkpoint — September 20, 2026
+
+Batch 156 advanced **10 consecutive exact-order research records**: **Catalinbread Effects - Dirty Little Secret Deluxe; Formula 51; Formula 55; Formula 5F6; Formula No. 5; Fuzzrite; Fuzzrite Germanium; Fuzzrite Germanium White; Fuzzrite Mini; and Galileo**.
+
+All ten now have individual Pedal Info research records synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. The research uses current Catalinbread documentation where available, plus historical/retailer documentation for the older Formula and Fuzzrite identities. No exact picture was promoted into the local cache in this pass, so the ten remain **Picture: NEEDED / PRP Complete: NEEDED**; exact visual source pages and available direct image URLs were preserved for the later image-cache pass.
+
+**Verified tracker totals:** **3,821 total / 1,229 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 920 researched-photo-pending**.
+
+**Next exact-order research target:** **Catalinbread Effects - Galileo 4K**.
+
+**Public data version:** **2026-09-20-prp1-batch-156**.
+
 # The Dirt Archive - Current State
 
 ## PRP1 Batch 155 checkpoint — September 20, 2026
