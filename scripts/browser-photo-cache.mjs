@@ -143,7 +143,7 @@ async function recoverEntry(browser, entry) {
     let sourcePageUsed = null;
     if (pageUrl && /^https?:/i.test(pageUrl)) {
       try {
-        await page.goto(pageUrl, { waitUntil: 'domcontentloaded', timeout: 12000 });
+        await page.goto(pageUrl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
         const title = await page.title().catch(() => '');
         const h1 = await page.locator('h1').first().textContent().catch(() => '');
         const body = await page.locator('body').textContent().catch(() => '');
@@ -204,21 +204,6 @@ async function recoverEntry(browser, entry) {
           }
         }
       } catch {}
-    }
-
-    if (IMAGE_SEARCH_ENABLED && (!sourcePageUsed || candidates.length <= 1)) {
-      const searchResults = await imageSearchCandidates(page, entry);
-      for (const result of searchResults) {
-        const fit = imageSearchScore(entry, result);
-        const requiredHits = pedalTokensForSearch(entry).length >= 2 ? 2 : 1;
-        if (fit.score < 45 || fit.pedalHits < requiredHits || !result.purl) continue;
-        candidates.push({
-          url: result.murl,
-          sourcePage: result.purl,
-          sourceScore: 45 + Math.min(70, fit.score),
-          searchResult: true
-        });
-      }
     }
 
     const tokens = identityTokens(entry.pedal);
