@@ -32,9 +32,10 @@ jobs:
 
       - name: Recover verified page images
         env:
-          PHOTO_BROWSER_CACHE_LIMIT: "120"
+          PHOTO_BROWSER_CACHE_LIMIT: "150"
           PHOTO_BROWSER_CACHE_CONCURRENCY: "8"
           PHOTO_BROWSER_CACHE_PRIORITY_COMPANY: "Catalinbread Effects"
+          PHOTO_BROWSER_IMAGE_SEARCH: "true"
         run: node scripts/browser-photo-cache.mjs
 
       - name: Download and cache verified pedal images
