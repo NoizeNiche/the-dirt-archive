@@ -1,5 +1,18 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 151 checkpoint — September 20, 2026
+
+Batch 151 advanced **10 consecutive exact-order research records**: **Caroline Guitar Company - Haymaker; Icarus V2; Icarus V2 / Icarus; Olympia; Shigeharu; The Blues; Wave Cannon / Cannonball; Wave Cannon MKII; Wave Cannon MKII / Superdistorter; and Wave Cannon Zero**.
+
+All ten have individual Pedal Info records synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. The research pass keeps ambiguous family naming and historical special editions separate rather than inventing hardware relationships. No exact photo asset was promoted to a local archive asset in this pass, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**.
+
+**Verified tracker totals:** **3,821 total / 1,179 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 870 researched-photo-pending**.
+
+**Next exact-order research target:** **Carruthers - Dyna-Soar**.
+
+**Public data version:** **2026-09-19-prp1-batch-151**.
+
+
 ## PRP1 Batch 150 checkpoint — September 20, 2026
 
 Batch 150 advanced **10 consecutive exact-order research records**: **Carl Martin - TOD; Carlin - Carlin Compressor/Fuzz; Carlsbro - Carlsbro Fuzz; Carlsbro - Carlsbro Fuzz-Tone; Carlsbro - Carlsbro Suzz; Carlson - E20MT Heavy Metal; Carmedon Electronics - Alpha Centauri; Caroline Guitar Company - Aaron Graves Overdrive; Caroline Guitar Company - CROM; and Caroline Guitar Company - Hawaiian Pizza**.
