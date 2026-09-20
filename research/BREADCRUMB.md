@@ -1,5 +1,18 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 149 checkpoint — September 20, 2026
+
+Batch 149 advanced **10 consecutive exact-order research records**, all within **Carl Martin**: **DC-Drive; Greg Howe's Lick Box; Heavy Drive; Panama; PlexiRanger; PlexiTone; PlexiTone Lo-Gain; PlexiTone Single; Purple Moon; and The Fuzz**.
+
+All ten have individual Pedal Info research records synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Current Carl Martin product documentation was used for the modern compact models and technical specifications; older/current product pages were used for the remaining Plexi and fuzz identities. No unsupported component claims were added where Carl Martin does not document them.
+
+**Verified tracker totals:** **3,821 total / 1,159 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 850 researched-photo-pending**.
+
+**Next exact-order research target:** **Carlin - Carlin Compressor/Fuzz**.
+
+**Public data version:** **2026-09-19-prp1-batch-149**.
+
+
 ## PRP1 Batch 148 checkpoint — September 19, 2026
 
 Batch 148 advanced **10 consecutive exact-order research records**: **Canned Monsters - Moonbark Overdrive MK2; Canvas Analog Devices - The Metamorphosis; Captain FX - Yeti Fuzz; Carcharias Effects - Uncle 125 Bass Overdrive; Carella Guitars - Kung Fuzz; Leopard; Overdistover; Overtube; Real Tube; and Carl Martin - AC-Tone Single**.
