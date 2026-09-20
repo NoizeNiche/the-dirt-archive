@@ -718,7 +718,7 @@ function renderPagination(totalPages){
   });
 }
 
-fetch(DATA_INDEX,{cache:'default'})
+fetch(DATA_INDEX,{cache:'no-store'})
 .then(r=>{
   if(!r.ok)throw Error(r.status);
   return r.json();
