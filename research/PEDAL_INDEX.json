@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-143",
+  "version": "2026-09-19-prp1-batch-144",
   "count": 3821,
   "pedals": [
     {
@@ -11993,8 +11993,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp79",
+      "research_record": "./research/pedals/PRP Batch 144/cp-79-wolf-pack-king-of-ga-ga-boost-overdrive.md"
     },
     {
       "company": "Caline",
@@ -12003,8 +12003,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp82",
+      "research_record": "./research/pedals/PRP Batch 144/cp-82-the-broadsword-bass-fuzz-boost.md"
     },
     {
       "company": "Caline",
@@ -12013,8 +12013,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp84",
+      "research_record": "./research/pedals/PRP Batch 144/cp-84-honeycomb-tone-overdrive.md"
     },
     {
       "company": "Caline",
@@ -12023,8 +12023,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp99",
+      "research_record": "./research/pedals/PRP Batch 144/cp-99-medusa-overdrive.md"
     },
     {
       "company": "Caline",
