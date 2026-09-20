@@ -1,5 +1,18 @@
 # The Dirt Archive - Current State
 
+## PRP1 Batch 152 checkpoint — September 19, 2026
+
+Batch 152 advanced **10 consecutive exact-order research records**: **Carruthers - Dyna-Soar; Carruthers - Dyna-Soar Lite; Carvin - Carvin TO-1 Tube Overdrive; Carvin - Carvin UD-1 Ultra Distortion; Carvin - Carvin VLD1 Steve Vai Legacy Drive Preamp; Cascade Pedals - Hosstortion; Case Study Effects Co. - Aspen One - Boost + Overdrive; Case Study Effects Co. - Aspen Overdrive; Case Study Effects Co. - Germanium Aspen Overdrive; and Case Study Effects Co. - Lastlight Overdrive**.
+
+All ten have individual Pedal Info records synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Historical and scarce Carruthers documentation is treated cautiously, and the Carvin/Case Study entries distinguish manufacturer documentation from surviving used-market descriptions. Source pages were attached to the image manifest so the browser image-cache workflow can attempt exact visual recovery. No picture is counted until the cache workflow confirms and archives an exact asset.
+
+**Verified tracker totals:** **3,821 total / 1,189 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 880 researched-photo-pending**.
+
+**Next exact-order research target:** **Casey Gooby - Bag Of Dicks**.
+
+**Public data version:** **2026-09-19-prp1-batch-152**.
+
+
 ## PRP1 Batch 151 checkpoint — September 20, 2026
 
 Batch 151 advanced **10 consecutive exact-order research records**: **Caroline Guitar Company - Haymaker; Icarus V2; Icarus V2 / Icarus; Olympia; Shigeharu; The Blues; Wave Cannon / Cannonball; Wave Cannon MKII; Wave Cannon MKII / Superdistorter; and Wave Cannon Zero**.
