@@ -59,7 +59,7 @@ jobs:
             # both public HTML entry points in the SAME commit that publishes
             # the new catalog. This prevents the site from serving an older
             # JSON snapshot after a successful photo-cache update.
-            DATA_VERSION="data-" + "${GITHUB_SHA:0:12}"
+            DATA_VERSION="data-${GITHUB_SHA:0:12}"
             export DATA_VERSION
             python - <<'PY'
             import json
