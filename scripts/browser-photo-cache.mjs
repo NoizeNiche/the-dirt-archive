@@ -6,8 +6,9 @@ import { chromium } from 'playwright';
 const ROOT = process.cwd();
 const INDEX = path.join(ROOT, 'research/PEDAL_INDEX.json');
 const MANIFEST = path.join(ROOT, 'research/pedals/PEDAL_IMAGES.json');
-const LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_LIMIT || 12));
-const CONCURRENCY = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_CONCURRENCY || 3));
+const LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_LIMIT || 60));
+const CONCURRENCY = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_CONCURRENCY || 6));
+const PRIORITY_COMPANY = String(process.env.PHOTO_BROWSER_CACHE_PRIORITY_COMPANY || '').trim().toLowerCase();
 
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
@@ -143,6 +144,16 @@ async function recoverEntry(browser, entry) {
   const manifestByKey = new Map(manifest.map(x => [key(x.builder, x.pedal), x]));
   const candidates = (catalog.pedals || [])
     .filter(x => !x.image && x.image_source_page && /^https?:/i.test(x.image_source_page))
+    .sort((a, b) => {
+      const score = entry => {
+        let value = 0;
+        if (entry.research_record) value += 1000;
+        if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) value += 100;
+        if (PRIORITY_COMPANY && String(entry.company || '').trim().toLowerCase() === PRIORITY_COMPANY) value += 100000;
+        return value;
+      };
+      return score(b) - score(a);
+    })
     .slice(0, LIMIT);
 
   const browser = await chromium.launch({ headless: true });
