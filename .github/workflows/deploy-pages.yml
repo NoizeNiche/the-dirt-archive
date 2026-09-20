@@ -2,8 +2,9 @@
 name: Deploy The Dirt Archive
 
 on:
-  push:
-    branches: [main]
+  # Publishing is deliberately serialized behind the photo-cache workflow.
+  # Every main push first runs Cache pedal images, which synchronizes research,
+  # verified photos, local assets, the manifest, and tracker before deployment.
   workflow_dispatch:
   workflow_run:
     workflows: ["Cache pedal images"]
@@ -21,11 +22,9 @@ concurrency:
 jobs:
   deploy:
     if: >
-      (github.event_name != 'workflow_run'
-        && (github.actor != 'github-actions[bot]'
-          || contains(github.event.head_commit.message, 'Archive verified pedal photos locally')))
-      || (github.event_name == 'workflow_run'
+      (github.event_name == 'workflow_run'
         && github.event.workflow_run.conclusion == 'success')
+      || github.event_name == 'workflow_dispatch'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
