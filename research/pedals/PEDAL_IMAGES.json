@@ -2335,9 +2335,11 @@
   {
     "builder": "Animals Pedal",
     "pedal": "Vintage Van Driving is Very Fun",
-    "image": null,
+    "image": "./assets/pedals/animals-pedal/vintage-van-driving-is-very-fun/primary.webp",
     "source_page": "https://animalspedal.us/products/animals-pedal-vintage-van-driving-is-very-fun",
-    "research_record": "./research/pedals/PRP Batch 057/Vintage Van Driving is Very Fun.md"
+    "research_record": "./research/pedals/PRP Batch 057/Vintage Van Driving is Very Fun.md",
+    "image_source_url": "http://animalspedal.us/cdn/shop/files/VINTAGEVANDRIVINGISVERYFUN-01.jpg?v=1753150758",
+    "image_source_page": "https://animalspedal.us/products/animals-pedal-vintage-van-driving-is-very-fun"
   },
   {
     "builder": "Anode Effects",
@@ -2375,9 +2377,11 @@
   {
     "builder": "Arcane Analog",
     "pedal": "BC108 Fuzz Face",
-    "image": null,
+    "image": "./assets/pedals/arcane-analog/bc108-fuzz-face/primary.webp",
     "source_page": "https://arcaneanalog.bigcartel.com/product/mullard-oc42-fuzz-face",
-    "research_record": "./research/pedals/PRP Batch 058/BC108 Fuzz Face.md"
+    "research_record": "./research/pedals/PRP Batch 058/BC108 Fuzz Face.md",
+    "image_source_url": "https://assets.bigcartel.com/product_images/379829055/White+BC108+FF+1.jpg?auto=format&fit=max&h=1200&w=1200",
+    "image_source_page": "https://arcaneanalog.bigcartel.com/product/mullard-oc42-fuzz-face"
   },
   {
     "builder": "Arcane Analog",
@@ -2427,16 +2431,20 @@
   {
     "builder": "Arcane Analog",
     "pedal": "Overdrive Overload",
-    "image": null,
+    "image": "./assets/pedals/arcane-analog/overdrive-overload/primary.webp",
     "source_page": "https://arcaneanalog.bigcartel.com/product/overdrive-overload",
-    "research_record": "./research/pedals/PRP Batch 058/Overdrive Overload.md"
+    "research_record": "./research/pedals/PRP Batch 058/Overdrive Overload.md",
+    "image_source_url": "https://assets.bigcartel.com/product_images/384915429/IMG_20240509_102516_715_1_.jpg?auto=format&fit=max&h=1200&w=1200",
+    "image_source_page": "https://arcaneanalog.bigcartel.com/product/overdrive-overload"
   },
   {
     "builder": "Arcane Analog",
     "pedal": "TONE BENDERS (MK1 // MK1.5 // MK2 // MK3 // MK4)",
-    "image": null,
+    "image": "./assets/pedals/arcane-analog/tone-benders-mk1-mk1-5-mk2-mk3-mk4/primary.webp",
     "source_page": "https://arcaneanalog.bigcartel.com/product/arcane-analog-mki-tonebender",
-    "research_record": "./research/pedals/PRP Batch 058/TONE BENDERS (MK1 - MK1.5 - MK2 - MK3 - MK4).md"
+    "research_record": "./research/pedals/PRP Batch 058/TONE BENDERS (MK1 - MK1.5 - MK2 - MK3 - MK4).md",
+    "image_source_url": "https://assets.bigcartel.com/product_images/227583359/MKI+1L.jpg?auto=format&fit=max&h=1200&w=1200",
+    "image_source_page": "https://arcaneanalog.bigcartel.com/product/arcane-analog-mki-tonebender"
   },
   {
     "builder": "Artisanal Effects",
@@ -2511,9 +2519,11 @@
   {
     "builder": "Atlas Pedal",
     "pedal": "Bracton OverDrive",
-    "image": null,
+    "image": "./assets/pedals/atlas-pedal/bracton-overdrive/primary.webp",
     "source_page": "https://www.atlaspedal.com/bracton-overdrive",
-    "research_record": "./research/pedals/Atlas Pedal/Bracton OverDrive.md"
+    "research_record": "./research/pedals/Atlas Pedal/Bracton OverDrive.md",
+    "image_source_url": "https://static.wixstatic.com/media/be2f54_2039ecf3a58d453480375aa67fbde45d~mv2.png/v1/fill/w_190,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/be2f54_2039ecf3a58d453480375aa67fbde45d~mv2.png",
+    "image_source_page": "https://www.atlaspedal.com/bracton-overdrive"
   },
   {
     "builder": "Atlas Pedal",
