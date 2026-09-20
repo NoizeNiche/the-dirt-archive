@@ -1,5 +1,18 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 145 checkpoint — September 19, 2026
+
+Batch 145 advanced **8 consecutive exact-order research records**: **Caline - DCP-02 Brutus; DCP-04 Easy Driver; DCP-05 Key West; DCP-06 Sundance Special; DCP-07 Brigade; DCP-08 Nightwolf; DCP-09 Tiger Shark; and DCP-11 Andes**.
+
+All eight have individual Pedal Info research records synchronized across **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Exact-model image source pages were captured for all eight, including current exact-model imagery for Brutus, Easy Driver, Key West, Sundance Special, Brigade, Nightwolf, and Tiger Shark. No source-only image was promoted to a local asset during this pass, so all eight remain **Picture: NEEDED**.
+
+**Verified tracker totals:** **3,821 total / 1,122 researched / 303 pictured / 365 complete / 3,455 incomplete / 822 researched-photo-pending**.
+
+**Next exact-order research target:** **Caline - G-001 Tiger Eye Distortion**.
+
+**Public data version:** **2026-09-19-prp1-batch-145**.
+
+
 ## PRP1 Batch 144 checkpoint — September 19, 2026
 
 Batch 144 advanced **4 consecutive exact-order research records**: **Caline - CP-79 Wolf Pack / King Of Ga-Ga - Boost/Overdrive; CP-82 The Broadsword Bass Fuzz + Boost; CP-84 Honeycomb Tone - Overdrive; and CP-99 Medusa - Overdrive**.
