@@ -1,5 +1,5 @@
 {
-  "version": "data-def3d8f0ca1c",
+  "version": "data-5f083052b24a",
   "count": 3821,
   "pedals": [
     {
@@ -412,11 +412,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/abovegroundfx/el-griton-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/aboveground/elgriton",
       "research_record": "./research/pedals/AboveGroundFX/El Griton Overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/aboveground/elgriton",
-      "image_source_url": "https://www.effectsdatabase.com/model/aboveground/elgriton"
+      "image_source_page": "http://www.abovegroundfx.com/Store/Entries/2010/6/15_El_Griton_Overdrive.html",
+      "image_source_url": "http://www.abovegroundfx.com/Store/Entries/2010/6/15_El_Griton_Overdrive_files/shapeimage_1.png"
     },
     {
       "company": "AboveGroundFX",
@@ -899,9 +899,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/add-pedals/fuzz-face/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addplus/fuzzface",
-      "research_record": "./research/pedals/Add+ Pedals/Fuzz Face.md"
+      "research_record": "./research/pedals/Add+ Pedals/Fuzz Face.md",
+      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/151214000000000-00-720x720.jpg",
+      "image_source_page": "https://www.guitarcenter.com/Dunlop/Fuzz-Face-Guitar-Effects-Pedal-1274228082428.gc"
     },
     {
       "company": "Add+ Pedals",
@@ -950,9 +952,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/add-pedals/ratortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion",
-      "research_record": "./research/pedals/Add+ Pedals/Ratortion.md"
+      "research_record": "./research/pedals/Add+ Pedals/Ratortion.md",
+      "image_source_url": "https://www.addpluspedals.com/assets/images/all/ratortion_all.jpg",
+      "image_source_page": "https://addpluspedals.com/stompboxes.php"
     },
     {
       "company": "Add+ Pedals",
@@ -1042,9 +1046,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/add-pedals/tube-drive-2/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addplus/tubedrive/2",
-      "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md"
+      "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md",
+      "image_source_url": "https://cdn.awsli.com.br/800x800/2638/2638039/produto/23015156741a556d83b.jpg",
+      "image_source_page": "https://www.bhguitar.com.br/produto/pedal-fuhrmann-tube-drive-2-overdrive-para-guitarra-td10"
     },
     {
       "company": "Add+ Pedals",
@@ -1405,9 +1411,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/akai/tri-mode-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/type/fuzz/pedal",
-      "research_record": "./research/pedals/Akai/Tri-Mode Fuzz.md"
+      "research_record": "./research/pedals/Akai/Tri-Mode Fuzz.md",
+      "image_source_url": "https://r2.gear4music.com/media/3/30337/1200/preview.jpg",
+      "image_source_page": "https://www.gear4music.ie/Guitar-and-Bass/DISC-Akai-Analog-Custom-Shop-Tri-Mode-Fuzz-Effect-Pedal/F0E"
     },
     {
       "company": "Akai",
@@ -1415,9 +1423,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/akai/tri-mode-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
-      "research_record": "./research/pedals/Akai/Tri-Mode Overdrive.md"
+      "research_record": "./research/pedals/Akai/Tri-Mode Overdrive.md",
+      "image_source_url": "https://r2.gear4music.com/media/3/30331/1200/preview.jpg",
+      "image_source_page": "https://www.gear4music.ie/Guitar-and-Bass/DISC-Akai-Analog-Custom-Shop-Tri-Mode-Overdrive-Effect-Pedal/F0B"
     },
     {
       "company": "Alairex",
@@ -1538,9 +1548,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alber/od-600p-over-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/alber/x00p/od600p",
-      "research_record": "./research/pedals/Alber/OD-600P Over Drive.md"
+      "research_record": "./research/pedals/Alber/OD-600P Over Drive.md",
+      "image_source_url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0406/users/9e7d2d13ff61a195600385137b5f027fa6714227/i-img1200x797-1687173355tqe5si772695.jpg",
+      "image_source_page": "https://auctions.yahoo.co.jp/jp/auction/t1096094938"
     },
     {
       "company": "Alber",
@@ -1568,9 +1580,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alden/tube-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/alden/tubeoverdrive",
-      "research_record": "./research/pedals/Alden/Tube Overdrive.md"
+      "research_record": "./research/pedals/Alden/Tube Overdrive.md",
+      "image_source_url": "https://images.offerup.com/OyLy5IXnPznn2WK_fJjSxuGoZBc=/1119x1074/3ace/3ace91a119e244f192df6a384ae1c3e3.jpg",
+      "image_source_page": "https://offerup.com/item/detail/4e62499f-19f1-3f95-8c29-9d969ff13c61"
     },
     {
       "company": "Aleatorik",
@@ -1588,9 +1602,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/aleatorik/operation-2/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/aleatorik/operation/2",
-      "research_record": "./research/pedals/Aleatorik/Operation 2.md"
+      "research_record": "./research/pedals/Aleatorik/Operation 2.md",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--bcM4b33v--/quality=medium-low,height=800,width=800,fit=contain/nraq8miqd5lq9o2wngto.jpg",
+      "image_source_page": "https://reverb.com/ca/item/14800562-aleatorik-operation-2"
     },
     {
       "company": "Aleatorik",
@@ -1598,9 +1614,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/aleatorik/operation-3/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/aleatorik/operation/3",
-      "research_record": "./research/pedals/Aleatorik/Operation 3.md"
+      "research_record": "./research/pedals/Aleatorik/Operation 3.md",
+      "image_source_url": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hitonoko23/20180930/20180930222706.jpg",
+      "image_source_page": "https://hitonoko23.hatenablog.jp/entry/2018/09/30/222731"
     },
     {
       "company": "Aleks K Production",
@@ -2138,9 +2156,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/amptweaker/tightboost/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/amptweaker/tightboost",
-      "research_record": "./research/pedals/Amptweaker/TightBoost.md"
+      "research_record": "./research/pedals/Amptweaker/TightBoost.md",
+      "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25779317&width=1200&height=600&coordinates=0%2C67%2C0%2C67",
+      "image_source_page": "https://www.premierguitar.com/amptweaker-introduces-tightboost-pedal"
     },
     {
       "company": "Amptweaker",
@@ -2158,9 +2178,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/amptweaker/tightfuzz-jr/primary.webp",
       "source_page": "https://www.musictalk.com.sg/amptweaker-pedal-tight-fuzz-jr.html",
-      "research_record": "./research/pedals/Amptweaker/TightFuzz_Jr.md"
+      "research_record": "./research/pedals/Amptweaker/TightFuzz_Jr.md",
+      "image_source_url": "https://delicious-audio.com/wp-content/uploads/2019/03/TightFuzz-JR-Top-web1.png.webp",
+      "image_source_page": "https://delicious-audio.com/amptweaker-tightfuzz-jr/"
     },
     {
       "company": "Amptweaker",
