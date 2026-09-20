@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-20-prp1-batch-157",
+  "version": "2026-09-20-prp1-batch-158",
   "count": 3821,
   "pedals": [
     {
@@ -13444,8 +13444,10 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c",
+      "research_record": "./research/pedals/PRP Batch 158/catalinbread-maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c.md",
+      "image_source_page": "https://maxonfx.com/products/40th-anniversary-catalinbread-modified-overdrive-od808-40c",
+      "image_source_url": "https://maxonfx.com/cdn/shop/products/Maxon-OD808-40C-Mockup-20191004.jpg?v=1570643202&width=1946"
     },
     {
       "company": "Catalinbread Effects",
@@ -13454,8 +13456,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/merkin-fuzz-reissue",
+      "research_record": "./research/pedals/PRP Batch 158/catalinbread-merkin-fuzz.md",
+      "image_source_page": "https://catalinbread.com/products/merkin-fuzz-reissue"
     },
     {
       "company": "Catalinbread Effects",
@@ -13465,8 +13468,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/catalinbread/cabinet/misnomer",
+      "research_record": "./research/pedals/PRP Batch 158/catalinbread-misnomer.md",
+      "image_source_page": "https://catalinbread.com/products/misnomer-cabinet-series"
     },
     {
       "company": "Catalinbread Effects",
@@ -13475,8 +13479,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/misnomer-cabinet-series",
+      "research_record": "./research/pedals/PRP Batch 158/catalinbread-misnomer-cabinet-series.md",
+      "image_source_page": "https://catalinbread.com/products/misnomer-cabinet-series"
     },
     {
       "company": "Catalinbread Effects",
@@ -13485,8 +13490,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/naga-viper-gold",
+      "research_record": "./research/pedals/PRP Batch 158/catalinbread-naga-viper.md",
+      "image_source_page": "https://catalinbread.com/products/naga-viper-gold"
     },
     {
       "company": "Catalinbread Effects",
@@ -13495,8 +13501,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/perseus-dio",
+      "research_record": "./research/pedals/PRP Batch 158/catalinbread-perseus-dio.md",
+      "image_source_page": "https://catalinbread.com/products/perseus-dio"
     },
     {
       "company": "Catalinbread Effects",
@@ -13505,8 +13512,9 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/perseus-dio",
+      "research_record": "./research/pedals/PRP Batch 158/catalinbread-perseus-dio-dry-distortion-section.md",
+      "image_source_page": "https://catalinbread.com/products/perseus-dio"
     },
     {
       "company": "Catalinbread Effects",
@@ -13516,8 +13524,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/rah",
+      "research_record": "./research/pedals/PRP Batch 158/catalinbread-rah.md",
+      "image_source_page": "https://catalinbread.com/products/rah"
     },
     {
       "company": "Catalinbread Effects",
@@ -13527,8 +13536,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/sabbra-cadabra",
+      "research_record": "./research/pedals/PRP Batch 158/catalinbread-sabbra-cadabra.md",
+      "image_source_page": "https://catalinbread.com/products/sabbra-cadabra"
     },
     {
       "company": "Catalinbread Effects",
@@ -13539,8 +13549,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/sft2",
+      "research_record": "./research/pedals/PRP Batch 158/catalinbread-sft.md",
+      "image_source_page": "https://catalinbread.com/products/sft2"
     },
     {
       "company": "Catalinbread Effects",

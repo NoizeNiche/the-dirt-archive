@@ -1,3 +1,15 @@
+## PRP1 Batch 158 checkpoint — September 20, 2026
+
+Batch 158 advanced **10 consecutive exact-order research records**: **Catalinbread Effects - Maxon 40th Anniversary Catalinbread Modified Overdrive (OD808-40C); Merkin Fuzz; Misnomer; Misnomer (Cabinet Series); Naga Viper; Perseus DIO; Perseus DIO (dry distortion section only; octave-down function excluded from census categorying); RAH; Sabbra Cadabra; and SFT**.
+
+All ten now have individual Pedal Info research records synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. The OD808-40C now also carries a verified exact-model image source URL for the local photo-cache workflow. No photo is counted until the cache workflow archives the image under the canonical local pedal path.
+
+**Verified tracker totals after this batch:** **3,821 total / 1,249 researched / 314 pictured / 314 fully complete / 3,507 incomplete / 935 researched-photo-pending**.
+
+**Next exact-order research target:** **Catalinbread Effects - SideArm Overdrive**.
+
+**Public data version:** **2026-09-20-prp1-batch-158**.
+
 # The Dirt Archive - Pedal Research Phase Rules
 
 ## PRP1 Batch 155 checkpoint — September 20, 2026
