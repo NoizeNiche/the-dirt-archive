@@ -512,6 +512,15 @@ jobs:
           });
           JS
 
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
+
       - name: Live audit of every pictured pedal
         env:
           LIVE_SITE_URL: ${{ steps.deployment.outputs.page_url }}
@@ -619,11 +628,3 @@ jobs:
           })().catch(err => { console.error(err); process.exit(1); });
           JS
 
-      - name: Upload site
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: .
-
-      - name: Deploy
-        id: deployment
-        uses: actions/deploy-pages@v4
