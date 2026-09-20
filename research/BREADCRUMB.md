@@ -1,5 +1,18 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 146 checkpoint — September 19, 2026
+
+Batch 146 advanced **4 exact-order research records**: **Caline - G-001 Tiger Eye Distortion; G-002 Green Mamba Overdrive; G-014 Nasty Bear Fuzz; and Cameltone Electronics - Big Stuff**.
+
+All four have individual Pedal Info research records synchronized across **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Exact-model image source pages were captured for all four; current image search also returned exact-model imagery for G-001, G-002, G-014, and multiple Big Stuff examples. No source-only image was promoted to a local catalog asset in this pass, so all four remain **Picture: NEEDED**.
+
+**Verified tracker totals:** **3,821 total / 1,126 researched / 303 pictured / 369 complete / 3,451 incomplete / 826 researched-photo-pending**.
+
+**Next exact-order research target:** **Cameltone Electronics - Fuzz Face**.
+
+**Public data version:** **2026-09-19-prp1-batch-146**.
+
+
 ## PRP1 Batch 145 checkpoint — September 19, 2026
 
 Batch 145 advanced **8 consecutive exact-order research records**: **Caline - DCP-02 Brutus; DCP-04 Easy Driver; DCP-05 Key West; DCP-06 Sundance Special; DCP-07 Brigade; DCP-08 Nightwolf; DCP-09 Tiger Shark; and DCP-11 Andes**.
