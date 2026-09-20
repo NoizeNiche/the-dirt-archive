@@ -512,6 +512,113 @@ jobs:
           });
           JS
 
+      - name: Live audit of every pictured pedal
+        env:
+          LIVE_SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+          node - <<'JS'
+          const { chromium } = require('playwright');
+          const fs = require('fs');
+          const catalog = JSON.parse(fs.readFileSync('research/PEDAL_INDEX.json', 'utf8'));
+          const base = process.env.LIVE_SITE_URL.replace(/\/$/, '') + '/';
+
+          function key(x) { return (x.company || '') + '\\0' + (x.pedal || ''); }
+          function detailUrl(x) {
+            const p = new URL('pedal-detail.html', base);
+            p.searchParams.set('builder', x.company);
+            p.searchParams.set('pedal', x.pedal);
+            return p.href;
+          }
+
+          function imageUrl(image) {
+            return /^https?:\\/\\//i.test(image)
+              ? image
+              : new URL(String(image).replace(/^\\.\\//, ''), base).href;
+          }
+
+          async function waitForLive(url, page) {
+            let last = null;
+            for (let attempt = 1; attempt <= 4; attempt++) {
+              try {
+                const response = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 15000 });
+                if (response && response.ok()) return;
+                last = new Error('HTTP ' + (response ? response.status() : 'no response'));
+              } catch (err) { last = err; }
+              await new Promise(r => setTimeout(r, attempt * 1500));
+            }
+            throw last || new Error('Live page did not become available');
+          }
+
+          (async()=>{
+            const browser = await chromium.launch({headless:true});
+            const pictured = (catalog.pedals || []).filter(x => x.image);
+            const failures = [];
+            let cursor = 0;
+
+            async function worker() {
+              const page = await browser.newPage({viewport:{width:1440,height:1000}});
+              try {
+                while (cursor < pictured.length) {
+                  const entry = pictured[cursor++];
+                  const id = key(entry);
+                  try {
+                    const res = await page.request.get(imageUrl(entry.image), {timeout:10000});
+                    const type = (res.headers()['content-type'] || '').toLowerCase();
+                    if (!res.ok() || !type.startsWith('image/')) {
+                      throw new Error('image HTTP ' + res.status() + ' ' + type);
+                    }
+
+                    await waitForLive(detailUrl(entry), page);
+                    await page.waitForFunction(() => document.querySelector('#record') && !document.querySelector('#record').hidden, null, {timeout:10000});
+                    const dom = await page.evaluate((entry) => {
+                      const img = document.querySelector('#photoBox img');
+                      const text = document.querySelector('#photoBox')?.textContent?.trim() || '';
+                      return {
+                        hasImg: !!img,
+                        loaded: !!img && img.complete && img.naturalWidth > 0,
+                        fallbackVisible: text.includes('No Photo Archived'),
+                        src: img ? img.getAttribute('src') : null,
+                        expected: entry.image
+                      };
+                    }, entry);
+                    if (!dom.hasImg || !dom.loaded) throw new Error('detail photo did not load');
+                    if (dom.fallbackVisible) throw new Error('detail page still shows No Photo Archived');
+
+                    if (entry.catalog_role === 'variation') {
+                      if (!entry.variation_name) throw new Error('variation is missing variation_name');
+                      const variationUrl = new URL(detailUrl(entry));
+                      variationUrl.searchParams.set('variation', entry.variation_name);
+                      await waitForLive(variationUrl.href, page);
+                      await page.waitForFunction(() => document.querySelector('#photoBox img') && document.querySelector('#photoBox img').complete, null, {timeout:10000});
+                      const variationDom = await page.evaluate(() => ({
+                        loaded: !!document.querySelector('#photoBox img') && document.querySelector('#photoBox img').naturalWidth > 0,
+                        fallbackVisible: (document.querySelector('#photoBox')?.textContent || '').includes('No Photo Archived')
+                      }));
+                      if (!variationDom.loaded) throw new Error('variation photo did not load');
+                      if (variationDom.fallbackVisible) throw new Error('variation page shows No Photo Archived despite an image');
+                    }
+                  } catch (err) {
+                    failures.push(id + ' -> ' + err.message);
+                  }
+                }
+              } finally {
+                await page.close().catch(() => {});
+              }
+            }
+
+            await Promise.all(Array.from({length:8}, () => worker()));
+            await browser.close();
+            console.log('Live photo audit checked', pictured.length, 'pictured catalog entries.');
+            if (failures.length) {
+              for (const failure of failures) console.error('LIVE PHOTO FAILURE:', failure);
+              process.exit(1);
+            }
+            console.log('Live photo audit passed: every pictured catalog entry resolved to an image and loaded on its canonical live detail placement.');
+          })().catch(err => { console.error(err); process.exit(1); });
+          JS
+
       - name: Upload site
         uses: actions/upload-pages-artifact@v4
         with:
