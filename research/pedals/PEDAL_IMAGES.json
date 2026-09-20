@@ -1025,9 +1025,11 @@
   {
     "builder": "Akai",
     "pedal": "Blues Overdrive",
-    "image": null,
+    "image": "./assets/pedals/akai/blues-overdrive/primary.webp",
     "source_page": "https://www.zzounds.com/item--AKABLUESOD",
-    "research_record": "./research/pedals/Akai/Blues Overdrive.md"
+    "research_record": "./research/pedals/Akai/Blues Overdrive.md",
+    "image_source_url": "https://www.zzounds.com/favicon.ico",
+    "image_source_page": "https://www.zzounds.com/item--AKABLUESOD"
   },
   {
     "builder": "Akai",
@@ -1178,9 +1180,11 @@
   {
     "builder": "Aleks K Production",
     "pedal": "Honey Moon - Sweet Overdrive",
-    "image": null,
+    "image": "./assets/pedals/aleks-k-production/honey-moon-sweet-overdrive/primary.webp",
     "source_page": "https://www.alekskproduction.com/shop/p/honey-moon-sweet-overdrive-2",
-    "research_record": "./research/pedals/Aleks K Production/Honey Moon - Sweet Overdrive.md"
+    "research_record": "./research/pedals/Aleks K Production/Honey Moon - Sweet Overdrive.md",
+    "image_source_url": "http://static1.squarespace.com/static/6202bdb89c58b86355d6b775/6202fa94de0c842fe2456a61/6205f238f372465a954d8cf2/1787798030700/1.png?format=1500w",
+    "image_source_page": "https://www.alekskproduction.com/shop/p/honey-moon-sweet-overdrive-2"
   },
   {
     "builder": "Aleks K Production",
@@ -1362,10 +1366,12 @@
   {
     "builder": "AmpMojo",
     "pedal": "Skate Fuzz (SKUZZ)",
-    "image": null,
+    "image": "./assets/pedals/ampmojo/skate-fuzz-skuzz/primary.webp",
     "source_page": "https://www.ampmojo.com/product-page/skate-fuzz-skuzz",
     "research_record": "./research/pedals/PRP Batch 048/Skate Fuzz (SKUZZ).md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://static.wixstatic.com/media/a0f204_04b8491954e24f8bbf9e5658b460834d~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "image_source_page": "https://www.ampmojo.com/product-page/skate-fuzz-skuzz"
   },
   {
     "builder": "AmpMojo",
@@ -1551,10 +1557,12 @@
   {
     "builder": "Amptweaker",
     "pedal": "Tight Metal Jr",
-    "image": null,
+    "image": "./assets/pedals/amptweaker/tight-metal-jr/primary.webp",
     "source": "Exact direct pedal photograph pending",
     "source_page": "https://www.pitbullaudio.com/amptweaker-tight-metal-jr-distortion-guitar-effects-pedal.html",
-    "research_record": "./research/pedals/Amptweaker/Tight_Metal_Jr.md"
+    "research_record": "./research/pedals/Amptweaker/Tight_Metal_Jr.md",
+    "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/1/3/13_52.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=800",
+    "image_source_page": "https://www.pitbullaudio.com/amptweaker-tight-metal-jr-distortion-guitar-effects-pedal.html"
   },
   {
     "builder": "Amptweaker",
@@ -9581,38 +9589,38 @@
   {
     "builder": "Carvin",
     "pedal": "Carvin VLD1 Steve Vai Legacy Drive Preamp",
-    "image": null,
+    "image": "./assets/pedals/carvin/carvin-vld1-steve-vai-legacy-drive-preamp/primary.webp",
     "source_page": "https://carvinaudio.com/products/vld1",
     "research_record": "./research/pedals/PRP Batch 152/carvin-vld1-steve-vai-legacy-drive-preamp.md",
     "image_source_page": "https://carvinaudio.com/products/vld1",
-    "image_source_url": "https://carvinaudio.com/products/vld1"
+    "image_source_url": "https://carvinaudio.com/cdn/shop/files/vld1_9911be1d-c22e-453f-89b9-70d945c631d6_240x.jpg?v=1775663273"
   },
   {
     "builder": "Cascade Pedals",
     "pedal": "Hosstortion",
-    "image": null,
+    "image": "./assets/pedals/cascade-pedals/hosstortion/primary.webp",
     "source_page": "https://cascadepedals.com/about-us",
     "research_record": "./research/pedals/PRP Batch 152/cascade-pedals-hosstortion.md",
     "image_source_page": "https://cascadepedals.com/about-us",
-    "image_source_url": "https://cascadepedals.com/about-us"
+    "image_source_url": "https://img1.wsimg.com/isteam/ip/143de2a1-5c3d-4271-be03-7e99fbd4d6b9/HOSSTORTION-3_GOLD-0001.jpg"
   },
   {
     "builder": "Case Study Effects Co.",
     "pedal": "Aspen One - Boost + Overdrive",
-    "image": null,
+    "image": "./assets/pedals/case-study-effects-co/aspen-one-boost-overdrive/primary.webp",
     "source_page": "https://casestudyeffects.co/products/aspen-one",
     "research_record": "./research/pedals/PRP Batch 152/case-study-effects-aspen-one.md",
     "image_source_page": "https://casestudyeffects.co/products/aspen-one",
-    "image_source_url": "https://casestudyeffects.co/products/aspen-one"
+    "image_source_url": "http://casestudyeffects.co/cdn/shop/files/Aspen_One_SI_Seamless_Crop_f8ba5d9b-9eb3-448d-a2df-9dbc36acd84f.jpg?v=1781556602"
   },
   {
     "builder": "Case Study Effects Co.",
     "pedal": "Aspen Overdrive",
-    "image": null,
+    "image": "./assets/pedals/case-study-effects-co/aspen-overdrive/primary.webp",
     "source_page": "https://casestudyeffects.co/products/aspen-overdrive",
     "research_record": "./research/pedals/PRP Batch 152/case-study-effects-aspen-overdrive.md",
     "image_source_page": "https://casestudyeffects.co/products/aspen-overdrive",
-    "image_source_url": "https://casestudyeffects.co/products/aspen-overdrive"
+    "image_source_url": "http://casestudyeffects.co/cdn/shop/files/AspenOverdrivecopy.jpg?v=1711682072"
   },
   {
     "builder": "Case Study Effects Co.",
@@ -9626,11 +9634,11 @@
   {
     "builder": "Case Study Effects Co.",
     "pedal": "Lastlight Overdrive",
-    "image": null,
+    "image": "./assets/pedals/case-study-effects-co/lastlight-overdrive/primary.webp",
     "source_page": "https://casestudyeffects.co/",
     "research_record": "./research/pedals/PRP Batch 152/case-study-effects-lastlight.md",
     "image_source_page": "https://casestudyeffects.co/",
-    "image_source_url": "https://casestudyeffects.co/"
+    "image_source_url": "http://casestudyeffects.co/cdn/shop/files/Case_Study_Shopify_Logo.png?height=628&pad_color=ffffff&v=1705634586&width=1200"
   },
   {
     "builder": "Casey Gooby",
@@ -9734,11 +9742,11 @@
   {
     "builder": "Caswell Modern Electronics (CME)",
     "pedal": "Boost 98 Bass Drive",
-    "image": null,
+    "image": "./assets/pedals/caswell-modern-electronics-cme/boost-98-bass-drive/primary.webp",
     "source_page": "https://www.pedal-of-the-day.com/2016/06/02/caswell-modern-electronics-boost-98-bass-drive/",
     "research_record": "./research/pedals/PRP Batch 154/caswell-cme-boost-98-bass-drive.md",
     "image_source_page": "https://www.pedal-of-the-day.com/2016/06/02/caswell-modern-electronics-boost-98-bass-drive/",
-    "image_source_url": "https://www.pedal-of-the-day.com/2016/06/02/caswell-modern-electronics-boost-98-bass-drive/"
+    "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2016/06/CaswellModernElectronics_Boost98BassDrive.jpg"
   },
   {
     "builder": "Caswell Modern Electronics (CME)",
@@ -9752,29 +9760,29 @@
   {
     "builder": "Cat Box Customs",
     "pedal": "Bean Machine",
-    "image": null,
+    "image": "./assets/pedals/cat-box-customs/bean-machine/primary.webp",
     "source_page": "https://delicious-audio.com/cat-box-customs-bean-machine-fuzz/",
     "research_record": "./research/pedals/PRP Batch 154/cat-box-customs-bean-machine.md",
     "image_source_page": "https://delicious-audio.com/cat-box-customs-bean-machine-fuzz/",
-    "image_source_url": "https://delicious-audio.com/cat-box-customs-bean-machine-fuzz/"
+    "image_source_url": "https://delicious-audio.com/wp-content/uploads//2022/01/cat.jpg"
   },
   {
     "builder": "Cat Box Customs",
     "pedal": "Bean Machine V2",
-    "image": null,
+    "image": "./assets/pedals/cat-box-customs/bean-machine-v2/primary.webp",
     "source_page": "https://delicious-audio.com/cat-box-customs-bean-machine-v2-fuzz/",
     "research_record": "./research/pedals/PRP Batch 154/cat-box-customs-bean-machine-v2.md",
     "image_source_page": "https://delicious-audio.com/cat-box-customs-bean-machine-v2-fuzz/",
-    "image_source_url": "https://delicious-audio.com/cat-box-customs-bean-machine-v2-fuzz/"
+    "image_source_url": "https://delicious-audio.com/wp-content/uploads//2022/04/cat.jpg"
   },
   {
     "builder": "Cat Box Customs",
     "pedal": "Fuzz Club",
-    "image": null,
+    "image": "./assets/pedals/cat-box-customs/fuzz-club/primary.webp",
     "source_page": "https://guitarsforidiots.com/2023/05/09/meet-the-fuzz-club-your-new-versatile-loud-fuzz-friend/",
     "research_record": "./research/pedals/PRP Batch 154/cat-box-customs-fuzz-club.md",
     "image_source_page": "https://guitarsforidiots.com/2023/05/09/meet-the-fuzz-club-your-new-versatile-loud-fuzz-friend/",
-    "image_source_url": "https://guitarsforidiots.com/2023/05/09/meet-the-fuzz-club-your-new-versatile-loud-fuzz-friend/"
+    "image_source_url": "http://img.youtube.com/vi/X2h6pZ_17jY/0.jpg"
   },
   {
     "builder": "CAT Sound",

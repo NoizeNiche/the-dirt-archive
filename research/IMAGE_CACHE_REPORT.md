@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
-- Local images retained/reorganized: **337**
+- Cached in this run: **0**
+- Local images retained/reorganized: **352**
 - Download failures: **45**
 
 ## Storage layout
@@ -9,11 +9,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Browne Amplification - Carbon X Dual Overdrive -> `./assets/pedals/browne-amplification/carbon-x-dual-overdrive/primary.webp`
-- Browne Amplification - Ethane Dual Overdrive -> `./assets/pedals/browne-amplification/ethane-dual-overdrive/primary.webp`
 
 ## Still external / failed
 
