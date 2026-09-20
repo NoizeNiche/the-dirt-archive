@@ -1,0 +1,22 @@
+# Caroline Guitar Company Hawaiian Pizza
+
+- **Builder:** Caroline Guitar Company
+- **Catalog type:** Distortion / Fuzz / Overdrive
+- **Catalog identity:** Hawaiian Pizza
+- **What this pedal is:** A three-control fuzz-drive built around a classic fuzz circuit with an internal passive guitar-pickup simulator and interactive control over input drive, supply voltage/headroom, and output.
+- **Colorways:** Current product page lists STANDARD and “24K GOLDEN” variants. Caroline has also made documented limited runs including Sparkle Pink, American Pizza, Vegetarian Pizza, FCK_PTN, and Tel Daco special editions; those specials are historical variants rather than silently separate parent products.
+- **Versions:** Standard Hawaiian Pizza launched in 2018. Subsequent limited color/component variants altered graphics, transistor selection, or enclosure finish while remaining Hawaiian Pizza-family variants.
+- **Version changes:** The standard/early platform uses 5088 transistors according to Caroline's 2025 documentation. The Tel Daco batch used 5089s and a different hammered-blue colorway with a small noise-floor change; Vegetarian Pizza used NOS BC109 silicon transistors and additional audio-path tweaks; other charitable specials retained the core platform while changing selected components and artwork.
+- **Transistor type:** Standard 5088 documented by Caroline; special editions can use other silicon transistors.
+- **Diode type:** Not documented in the reviewed manufacturer material.
+- **Controls / switching:** INPUT (pig), VOLTAGE (pineapple), OUTPUT (pizza), plus an internal pickup-simulator slide switch. INPUT moves from full fuzz drive toward crunch as reduced; VOLTAGE changes headroom/compression and can produce broken/gated/octave-like behavior; OUTPUT sets final level.
+- **Power:** 9V DC center-negative or battery operation.
+- **Sound:** Hawaiian Pizza is capable of straight fuzz, lower-gain drive, compressed/starved textures, and broken/gated sounds from the same three controls. The internal pickup simulator lets it behave predictably after buffers, active pickups, or wireless systems, while it can be disabled when the pedal is used first in the chain.
+- **Research confidence:** High for the standard design, control behavior, 2018 launch, current variants, and documented special-edition transistor changes.
+- **Sources checked:**
+  - https://carolineguitar.com/product/hawaiian-pizza/
+  - https://carolineguitar.com/wp-content/uploads/2018/08/Hawaiian-Pizza-Manual_final.pdf
+  - https://carolineguitar.com/mailer-4-february-2025/
+  - https://carolineguitar.com/specialpinkpizza/
+  - https://carolineguitar.com/superpatriotic-special-american-pizza/
+  - https://carolineguitar.com/vegetarian-pizza-special-limited-run-w-limited-tee/
