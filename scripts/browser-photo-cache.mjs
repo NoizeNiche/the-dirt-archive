@@ -223,7 +223,7 @@ async function recoverEntry(browser, entry) {
           + (normalized.includes('icon') ? -20 : 0)
           + (normalized.includes('thumb') ? 1 : 0);
       };
-      return score(a) - score(b);
+      return score(b) - score(a);
     });
 
     if (!ranked.length) throw new Error('no candidate images found');
