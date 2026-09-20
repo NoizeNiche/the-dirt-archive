@@ -6,7 +6,7 @@ All ten now have Pedal Info research records synchronized into the canonical ind
 
 **Verified tracker totals:** **3,821 total / 1,239 researched / 314 pictured / 314 fully complete / 3,507 incomplete / 925 researched-photo-pending**.
 
-**Next exact-order research target:** **Catalinbread Effects - Misnomer**.
+**Next exact-order research target:** **Catalinbread Effects - Maxon 40th Anniversary Catalinbread Modified Overdrive (OD808-40C)**.
 
 **Public data version:** **2026-09-20-prp1-batch-157**.
 
