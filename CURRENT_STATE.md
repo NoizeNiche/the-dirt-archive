@@ -8,7 +8,7 @@ All ten have individual Pedal Info research records and synchronized canonical i
 
 The PRP tracker was reconciled against the permanent completion rule. Fourteen malformed tracker rows were normalized to the seven-column schema and 69 stale **PRP Complete = DONE** flags were corrected where a confirmed picture was not actually present.
 
-**Verified tracker totals:** **3,821 unique pedals / 1,139 researched / 300 pictured / 300 fully complete / 3,521 incomplete / 839 researched-photo-pending**.
+**Verified tracker totals:** **3,821 total / 1,139 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 830 researched-photo-pending**.nique pedals / 1,139 researched / 300 pictured / 300 fully complete / 3,521 incomplete / 839 researched-photo-pending**.
 
 **Current exact-order PRP1 target:** **Canned Monsters - Moonbark Overdrive MK2**.
 
