@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Local images retained/reorganized: **269**
+- Cached in this run: **2**
+- Local images retained/reorganized: **337**
 - Download failures: **45**
 
 ## Storage layout
@@ -12,7 +12,8 @@
 
 ## Newly cached
 
-- Catalinbread Effects - Maxon 40th Anniversary Catalinbread Modified Overdrive (OD808-40C) -> `./assets/pedals/catalinbread-effects/maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c/primary.webp`
+- Browne Amplification - Carbon X Dual Overdrive -> `./assets/pedals/browne-amplification/carbon-x-dual-overdrive/primary.webp`
+- Browne Amplification - Ethane Dual Overdrive -> `./assets/pedals/browne-amplification/ethane-dual-overdrive/primary.webp`
 
 ## Still external / failed
 
