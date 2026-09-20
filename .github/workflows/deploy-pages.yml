@@ -544,7 +544,7 @@ jobs:
           function imageUrl(image) {
             return /^https?:\/\//i.test(image)
               ? image
-              : new URL(String(image).replace(/^\\.\\//, ''), base).href;
+              : new URL(String(image).replace(/^\.\//, ''), base).href;
           }
 
           async function waitForLive(url, page) {
