@@ -671,7 +671,9 @@
     "pedal": "Fuzz Machine",
     "source_page": "https://www.effectsdatabase.com/model/addplus/fuzzmachine",
     "research_record": "./research/pedals/Add+ Pedals/Fuzz Machine.md",
-    "image": null
+    "image": "./assets/pedals/add-pedals/fuzz-machine/primary.webp",
+    "image_source_url": "https://www.fredric.co.uk/effects/effects_images/pedals-white-bkg/standard-fuzz-machine.jpg",
+    "image_source_page": "https://www.fredric.co.uk/pedals"
   },
   {
     "builder": "Add+ Pedals",
@@ -1668,18 +1670,22 @@
   {
     "builder": "Amsterdam Cream",
     "pedal": "Original Distortion",
-    "image": null,
+    "image": "./assets/pedals/amsterdam-cream/original-distortion/primary.webp",
     "source_page": "https://amsterdamcream.com/",
     "research_record": "./research/pedals/PRP Batch 049/Original Distortion.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://i.ytimg.com/vi/YIt7BEiZbHk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEMgZShUMA8=&rs=AOn4CLA3qroj1qkIMLOgV6uVuBa2yQmc-A",
+    "image_source_page": "https://www.youtube.com/watch?v=YIt7BEiZbHk"
   },
   {
     "builder": "Amsterdam Cream",
     "pedal": "Plain Drive",
-    "image": null,
+    "image": "./assets/pedals/amsterdam-cream/plain-drive/primary.webp",
     "source_page": "https://amsterdamcream.com/",
     "research_record": "./research/pedals/PRP Batch 049/Plain Drive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://img.youtube.com/vi/_6cIAz9yM8E/hqdefault.jpg",
+    "image_source_page": "https://reverb.com/item/73333255-amsterdam-cream-plain-drive-overdrive-2010s-w-original-box-guitar-bass-effects-pedal-used-mint"
   },
   {
     "builder": "AMT Electronics",
@@ -1848,9 +1854,11 @@
   {
     "builder": "Analog Alien",
     "pedal": "Joe Walsh Double Classic",
-    "image": null,
+    "image": "./assets/pedals/analog-alien/joe-walsh-double-classic/primary.webp",
     "source_page": "https://analogalien.com/joe-walsh-double-classic/",
-    "research_record": "./research/pedals/PRP Batch 050/Joe Walsh Double Classic.md"
+    "research_record": "./research/pedals/PRP Batch 050/Joe Walsh Double Classic.md",
+    "image_source_url": "http://theguitarchannel.biz/wp-content/uploads/2017/05/JoeWalshDoubleClassic2-1024x1024.jpg",
+    "image_source_page": "https://theguitarchannel.biz/2017/05/pedal-review-joe-walsh-double-classic-analog-alien-overdrivecompressor/"
   },
   {
     "builder": "Analog Alien",
@@ -1864,9 +1872,11 @@
   {
     "builder": "Analog Fox",
     "pedal": "Tone Machine",
-    "image": null,
+    "image": "./assets/pedals/analog-fox/tone-machine/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/analogfox/tonemachine",
-    "research_record": "./research/pedals/PRP Batch 050/Tone Machine.md"
+    "research_record": "./research/pedals/PRP Batch 050/Tone Machine.md",
+    "image_source_url": "https://cdn.mos.cms.futurecdn.net/8Dfwh7vGoKNfyoirRSe8BQ-1200-80.jpg",
+    "image_source_page": "https://www.guitarplayer.com/gear/the-foxx-tone-machine-was-the-fuzz-of-choice-for-peter-frampton-billy-gibbons-and-adrian-belew"
   },
   {
     "builder": "Analog King",
@@ -1887,10 +1897,12 @@
   {
     "builder": "Analog Man",
     "pedal": "Astro Tone",
-    "image": null,
+    "image": "./assets/pedals/analog-man/astro-tone/primary.webp",
     "source": "Exact direct pedal photograph pending",
     "source_page": "https://midwoodguitarstudio.com/products/analogman-astro-tone-fuzz-pedal-black",
-    "research_record": "./research/pedals/Analog Man/Astro_Tone.md"
+    "research_record": "./research/pedals/Analog Man/Astro_Tone.md",
+    "image_source_url": "http://midwoodguitarstudio.com/cdn/shop/files/Astrotone-40__18092.1759868033.1280.1280.jpg?v=1780359285",
+    "image_source_page": "https://midwoodguitarstudio.com/products/analogman-astro-tone-fuzz-pedal-black"
   },
   {
     "builder": "Analog Man",
@@ -1913,10 +1925,12 @@
   {
     "builder": "Analog Man",
     "pedal": "Prince Of Tone",
-    "image": null,
+    "image": "./assets/pedals/analog-man/prince-of-tone/primary.webp",
     "source": "Exact direct pedal photograph pending",
     "source_page": "https://analogman.com/princeof.htm",
-    "research_record": "./research/pedals/Analog Man/Prince_Of_Tone.md"
+    "research_record": "./research/pedals/Analog Man/Prince_Of_Tone.md",
+    "image_source_url": "https://diyeffectspedals.com/wp-content/uploads/2022/10/analogman-prince-of-tone.png",
+    "image_source_page": "https://diyeffectspedals.com/pedal-kits/analogman/analogman-prince-of-tone/"
   },
   {
     "builder": "Analog Man",
