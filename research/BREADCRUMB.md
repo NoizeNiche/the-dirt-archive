@@ -1,5 +1,21 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 142 checkpoint
+
+Batch 142 completed the next ten exact-order records: **Caline - CP-504 M:Fuzz; CP-509 Stack Attack - Preamp Overdrive & Compressor; CP-510 Jaguar - Classic High Gain Distortion; CP-511 Enchanted Tone - Highly Prized Overdrive; CP-515 Carmilla - Hi Gain Distortion Machine; CP-516 Orange Burst; CP-53 Fuzzy Faace - Voodoo Octave; CP-54 The Big Orange - Crushing Overdrive; CP-56 Midlander / The Mayday - AC Tone; and CP-65 Bass Over Drive**. Each received an individual Pedal Info research record, canonical index entry, tracker synchronization, and photo-manifest entry. Exact-model source imagery was located for the block, but no local image was promoted without the archive cache step.
+
+Verified tracker state after Batch 142:
+- Unique pedals: **3821**
+- Researched: **1102**
+- Confirmed pictures: **303**
+- Fully complete: **345**
+- Incomplete: **3475**
+- Researched but waiting for a confirmed picture: **802**
+- Current exact-order target: **Caline - CP-68 Distortion + Delay**
+
+Continue straight down the canonical catalog from that target.
+
+
 ## PRP1 Batch 141 checkpoint
 
 Batch 141 completed the next ten exact-order records: **Caline - CP-34 Headroom - Vintage Distortion; CP-42 Candy Floss Fuzz; CP-43 Pegasus; CP-46 Fuzzy Bear; CP-49 Midlander; CP-50 Central Station / Leon Drive; CP-501 Osmium - High-Gain Distortion; CP-501S Sathanas Distortion; CP-502 Mellow Drive; and CP-503 Queen Bee Overdrive**. Each received an individual Pedal Info research record, canonical index entry, tracker synchronization, and photo-manifest entry. Exact-model source imagery was located across the pass, but no direct image file was promoted to the local archive without the required cache step.
