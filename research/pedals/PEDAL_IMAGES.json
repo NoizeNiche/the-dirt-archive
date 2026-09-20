@@ -1774,9 +1774,11 @@
   {
     "builder": "AMtech Handwired",
     "pedal": "Tube Drive",
-    "image": null,
+    "image": "./assets/pedals/amtech-handwired/tube-drive/primary.webp",
     "source_page": "https://www.amtechhandwired.com/?page_id=110",
-    "research_record": "./research/pedals/PRP Batch 050/Tube Drive.md"
+    "research_record": "./research/pedals/PRP Batch 050/Tube Drive.md",
+    "image_source_url": "https://www.amtechhandwired.com/wp-content/uploads/2024/03/DSC06957bCD-1536x358.jpg",
+    "image_source_page": "https://www.amtechhandwired.com/?page_id=110"
   },
   {
     "builder": "amukaT",
@@ -1817,10 +1819,12 @@
   {
     "builder": "Analog Alien",
     "pedal": "Alien Twister",
-    "image": null,
+    "image": "./assets/pedals/analog-alien/alien-twister/primary.webp",
     "source": "Exact direct pedal photograph pending",
     "source_page": "https://www.allmusicinc.com/products/analog-alien-alien-twister-fuzz-buffer-electric-guitar-effect-pedal",
-    "research_record": "./research/pedals/Analog Alien/Alien_Twister.md"
+    "research_record": "./research/pedals/Analog Alien/Alien_Twister.md",
+    "image_source_url": "https://www.allmusicinc.com/cdn/shop/products/analog-alien-twister-fuzz_480x.jpg?v=1681507542",
+    "image_source_page": "https://www.allmusicinc.com/products/analog-alien-alien-twister-fuzz-buffer-electric-guitar-effect-pedal"
   },
   {
     "builder": "Analog Alien",
