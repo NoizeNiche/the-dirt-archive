@@ -8973,5 +8973,37 @@
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/redthorn",
     "research_record": "./research/pedals/PRP Batch 143/cp-78-red-thorn-distortion.md",
     "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/redthorn"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-79 Wolf Pack / King Of Ga-Ga - Boost/Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp79",
+    "research_record": "./research/pedals/PRP Batch 144/cp-79-wolf-pack-king-of-ga-ga-boost-overdrive.md",
+    "image_source_page": "https://www.efectomusica.cl/caline-wolfpack-boost-overdrive-cp-79"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-82 The Broadsword Bass Fuzz + Boost",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp82",
+    "research_record": "./research/pedals/PRP Batch 144/cp-82-the-broadsword-bass-fuzz-boost.md",
+    "image_source_page": "https://www.ebay.com/itm/184899830437"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-84 Honeycomb Tone - Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp84",
+    "research_record": "./research/pedals/PRP Batch 144/cp-84-honeycomb-tone-overdrive.md",
+    "image_source_page": "https://www.guitarpusher.com/products/caline-cp-84-the-honeycomb-tone-overdrive"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-99 Medusa - Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp99",
+    "research_record": "./research/pedals/PRP Batch 144/cp-99-medusa-overdrive.md",
+    "image_source_page": "https://www.musicstore.com/en_US/USD/Caline-CP-99-Medusa-Overdrive/art-GIT0058863-000"
   }
 ]
