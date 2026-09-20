@@ -1,0 +1,21 @@
+# Catalinbread Effects SideArm Overdrive
+
+- **Builder:** Catalinbread Effects
+- **Catalog type:** Distortion / Overdrive
+- **Catalog identity:** SideArm Overdrive
+- **What this pedal is:** A modern reworking of the classic 1979-era "green" overdrive format. Catalinbread describes it as a more adjustable take on that circuit, with expanded gain range and additional control over the traditional mid-focused response.
+- **Colorways:** Standard SideArm enclosure; the pedal is also documented as part of Catalinbread's `'70s Collection`.
+- **Versions:** Initial SideArm release; Catalinbread's current page also references a latest revision.
+- **Version changes:** The current Catalinbread page notes that the latest revision adds a very gentle treble filter that reduces frequencies above 16 kHz. The source does not provide a dated version boundary, so no finer V1/V2 split is assigned here.
+- **Transistor type:** Not documented by the sources checked.
+- **Diode type:** Not documented by the sources checked.
+- **Controls / switching:** Mids, Volume, Tone, Drive. The Mids control is centered around 720 Hz; the Tone control is a tilt EQ centered at 1 kHz; Drive ranges from clean to much heavier gain.
+- **Power:** 9-18V DC, center-negative; Catalinbread lists 4mA.
+- **Factory modifications:** None documented by the sources checked.
+- **Sound:** The SideArm keeps the recognizable mid-focused push of the 1979-style green overdrive while allowing the 720 Hz band to be boosted or scooped. Its 1 kHz tilt-style Tone control and unusually broad Drive range move it from cleaner boost-like sounds through thicker overdrive and dirtier saturation.
+- **Research confidence:** High for the control behavior, power requirements, 1979 green-overdrive basis, and current revision note; low/unknown for undocumented transistor and diode details.
+- **Sources checked:**
+  - https://catalinbread.com/products/sidearm-overdrive-1
+  - https://www.youtube.com/watch?v=b1-F11r1vpM
+  - https://www.musicradar.com/news/catalinbread-debuts-70s-starcrash-fuzz-and-sidearm-overdrive-modern-takes-on-classic-fuzzface-and-tube-screamer-circuits
+  - https://www.guitarworld.com/news/catalinbread-starcrash-fuzz-overdrive
