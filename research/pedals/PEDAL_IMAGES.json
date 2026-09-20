@@ -759,9 +759,11 @@
   {
     "builder": "Add+ Pedals",
     "pedal": "Tiger Shark",
-    "image": null,
+    "image": "./assets/pedals/add-pedals/tiger-shark/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/addplus/tigershark",
-    "research_record": "./research/pedals/Add+ Pedals/Tiger Shark.md"
+    "research_record": "./research/pedals/Add+ Pedals/Tiger Shark.md",
+    "image_source_url": "https://i.ytimg.com/vi/OFOxRJVhwWE/maxresdefault.jpg",
+    "image_source_page": "https://www.youtube.com/watch?v=OFOxRJVhwWE"
   },
   {
     "builder": "Add+ Pedals",
@@ -2236,9 +2238,11 @@
   {
     "builder": "Animals Pedal",
     "pedal": "In Oct,3 Foxes talking of dreamy FUZZ",
-    "image": null,
+    "image": "./assets/pedals/animals-pedal/in-oct-3-foxes-talking-of-dreamy-fuzz/primary.webp",
     "source_page": "https://animalspedal.us/products/animals-pedal-in-oct-3-foxes-talking-of-dreamy-fuzz",
-    "research_record": "./research/pedals/Animals Pedal/In Oct,3 Foxes talking of dreamy FUZZ.md"
+    "research_record": "./research/pedals/Animals Pedal/In Oct,3 Foxes talking of dreamy FUZZ.md",
+    "image_source_url": "http://animalspedal.us/cdn/shop/files/In-Oct-01.jpg?v=1753148387",
+    "image_source_page": "https://animalspedal.us/products/animals-pedal-in-oct-3-foxes-talking-of-dreamy-fuzz"
   },
   {
     "builder": "Animals Pedal",
@@ -2277,16 +2281,20 @@
   {
     "builder": "Animals Pedal",
     "pedal": "Rover Fuzz",
-    "image": null,
+    "image": "./assets/pedals/animals-pedal/rover-fuzz/primary.webp",
     "source_page": "https://animalspedal.us/products/animals-pedal-rover-fuzz",
-    "research_record": "./research/pedals/PRP Batch 057/Rover Fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 057/Rover Fuzz.md",
+    "image_source_url": "http://animalspedal.us/cdn/shop/files/ROVERFUZZ-01.jpg?v=1753151286",
+    "image_source_page": "https://animalspedal.us/products/animals-pedal-rover-fuzz"
   },
   {
     "builder": "Animals Pedal",
     "pedal": "Rust Rod Fuzz",
-    "image": null,
+    "image": "./assets/pedals/animals-pedal/rust-rod-fuzz/primary.webp",
     "source_page": "https://animalspedal.us/products/animals-pedal-rust-rod-fuzz",
-    "research_record": "./research/pedals/PRP Batch 057/Rust Rod Fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 057/Rust Rod Fuzz.md",
+    "image_source_url": "http://animalspedal.us/cdn/shop/files/RUSTRODFUZZ-01.jpg?v=1753151152",
+    "image_source_page": "https://animalspedal.us/products/animals-pedal-rust-rod-fuzz"
   },
   {
     "builder": "Animals Pedal",
@@ -2309,16 +2317,20 @@
   {
     "builder": "Animals Pedal",
     "pedal": "SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF",
-    "image": null,
+    "image": "./assets/pedals/animals-pedal/surfing-polar-bear-bass-overdrive-mod-by-bjf/primary.webp",
     "source_page": "https://animalspedal.us/products/animals-pedal-surfing-polar-bear-bass-overdrive-mod-by-bjf",
-    "research_record": "./research/pedals/PRP Batch 057/SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF.md"
+    "research_record": "./research/pedals/PRP Batch 057/SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF.md",
+    "image_source_url": "http://animalspedal.us/cdn/shop/files/SURFING_POLAR_BEAR_BASS_OVERDRIVE-01.jpg?v=1753148996",
+    "image_source_page": "https://animalspedal.us/products/animals-pedal-surfing-polar-bear-bass-overdrive-mod-by-bjf"
   },
   {
     "builder": "Animals Pedal",
     "pedal": "Tioga Road Cycling Distortion",
-    "image": null,
+    "image": "./assets/pedals/animals-pedal/tioga-road-cycling-distortion/primary.webp",
     "source_page": "https://animalspedal.us/products/animals-pedal-tioga-road-cycling-distortion",
-    "research_record": "./research/pedals/PRP Batch 057/Tioga Road Cycling Distortion.md"
+    "research_record": "./research/pedals/PRP Batch 057/Tioga Road Cycling Distortion.md",
+    "image_source_url": "http://animalspedal.us/cdn/shop/files/Tioga-Road-Cycling-01.jpg?v=1753150679",
+    "image_source_page": "https://animalspedal.us/products/animals-pedal-tioga-road-cycling-distortion"
   },
   {
     "builder": "Animals Pedal",

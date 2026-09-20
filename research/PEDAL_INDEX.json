@@ -1,5 +1,5 @@
 {
-  "version": "data-a59882258e24",
+  "version": "data-616549285831",
   "count": 3821,
   "pedals": [
     {
@@ -1030,9 +1030,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/add-pedals/tiger-shark/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addplus/tigershark",
-      "research_record": "./research/pedals/Add+ Pedals/Tiger Shark.md"
+      "research_record": "./research/pedals/Add+ Pedals/Tiger Shark.md",
+      "image_source_url": "https://i.ytimg.com/vi/OFOxRJVhwWE/maxresdefault.jpg",
+      "image_source_page": "https://www.youtube.com/watch?v=OFOxRJVhwWE"
     },
     {
       "company": "Add+ Pedals",
@@ -2979,9 +2981,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/animals-pedal/in-oct-3-foxes-talking-of-dreamy-fuzz/primary.webp",
       "source_page": "https://animalspedal.us/products/animals-pedal-in-oct-3-foxes-talking-of-dreamy-fuzz",
-      "research_record": "./research/pedals/Animals Pedal/In Oct,3 Foxes talking of dreamy FUZZ.md"
+      "research_record": "./research/pedals/Animals Pedal/In Oct,3 Foxes talking of dreamy FUZZ.md",
+      "image_source_url": "http://animalspedal.us/cdn/shop/files/In-Oct-01.jpg?v=1753148387",
+      "image_source_page": "https://animalspedal.us/products/animals-pedal-in-oct-3-foxes-talking-of-dreamy-fuzz"
     },
     {
       "company": "Animals Pedal",
@@ -3035,9 +3039,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/animals-pedal/rover-fuzz/primary.webp",
       "source_page": "https://animalspedal.us/products/animals-pedal-rover-fuzz",
-      "research_record": "./research/pedals/PRP Batch 057/Rover Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 057/Rover Fuzz.md",
+      "image_source_url": "http://animalspedal.us/cdn/shop/files/ROVERFUZZ-01.jpg?v=1753151286",
+      "image_source_page": "https://animalspedal.us/products/animals-pedal-rover-fuzz"
     },
     {
       "company": "Animals Pedal",
@@ -3045,9 +3051,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/animals-pedal/rust-rod-fuzz/primary.webp",
       "source_page": "https://animalspedal.us/products/animals-pedal-rust-rod-fuzz",
-      "research_record": "./research/pedals/PRP Batch 057/Rust Rod Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 057/Rust Rod Fuzz.md",
+      "image_source_url": "http://animalspedal.us/cdn/shop/files/RUSTRODFUZZ-01.jpg?v=1753151152",
+      "image_source_page": "https://animalspedal.us/products/animals-pedal-rust-rod-fuzz"
     },
     {
       "company": "Animals Pedal",
@@ -3079,9 +3087,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/animals-pedal/surfing-polar-bear-bass-overdrive-mod-by-bjf/primary.webp",
       "source_page": "https://animalspedal.us/products/animals-pedal-surfing-polar-bear-bass-overdrive-mod-by-bjf",
-      "research_record": "./research/pedals/PRP Batch 057/SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF.md"
+      "research_record": "./research/pedals/PRP Batch 057/SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF.md",
+      "image_source_url": "http://animalspedal.us/cdn/shop/files/SURFING_POLAR_BEAR_BASS_OVERDRIVE-01.jpg?v=1753148996",
+      "image_source_page": "https://animalspedal.us/products/animals-pedal-surfing-polar-bear-bass-overdrive-mod-by-bjf"
     },
     {
       "company": "Animals Pedal",
@@ -3089,9 +3099,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/animals-pedal/tioga-road-cycling-distortion/primary.webp",
       "source_page": "https://animalspedal.us/products/animals-pedal-tioga-road-cycling-distortion",
-      "research_record": "./research/pedals/PRP Batch 057/Tioga Road Cycling Distortion.md"
+      "research_record": "./research/pedals/PRP Batch 057/Tioga Road Cycling Distortion.md",
+      "image_source_url": "http://animalspedal.us/cdn/shop/files/Tioga-Road-Cycling-01.jpg?v=1753150679",
+      "image_source_page": "https://animalspedal.us/products/animals-pedal-tioga-road-cycling-distortion"
     },
     {
       "company": "Animals Pedal",
