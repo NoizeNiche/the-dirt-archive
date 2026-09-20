@@ -1,0 +1,21 @@
+# Catalinbread Effects Silver Kiss Overdrive
+
+- **Builder:** Catalinbread Effects
+- **Catalog type:** Overdrive
+- **Catalog identity:** Silver Kiss Overdrive
+- **What this pedal is:** An early Catalinbread overdrive built around a dynamic, amp-like drive section with active three-band EQ. Sources describe the Silver Kiss as a flexible low-to-medium-gain overdrive that can also operate as a clean boost.
+- **Colorways:** Silver finish documented on period examples.
+- **Versions:** Sources document multiple Silver Kiss circuit versions, including Mk. II; this record represents the general Silver Kiss identity rather than assigning an unsupported enclosure or year split.
+- **Version changes:** Aion FX reports at least five circuit versions and bases its trace on Mk. II. The available sources do not establish a complete dated change log for every version.
+- **Transistor type:** JFET is documented in the Mk. II input stage description; exact device population for every Silver Kiss version is not established here.
+- **Diode type:** Not documented by the sources checked.
+- **Controls / switching:** Treble, Mid, Bass, Gain, Volume; active three-band EQ and gain control are documented for the Mk. II. Switching details vary by source and are not assigned beyond the documented model family.
+- **Power:** 9-18V DC, center-negative is documented for the reissue/current Silver Kiss page; the earlier pedal is also documented as battery/9V capable, with 18V headroom mentioned by period user reports.
+- **Factory modifications:** No factory modification program documented by the sources checked.
+- **Sound:** The Silver Kiss is described as clear, dynamic and amp-like, moving from just-breaking-up grit through fuller overdrive. Its active three-band EQ can tighten lows, shape mids and add or tame treble, while the gain can be backed down for clean-boost use.
+- **Research confidence:** High for the general model identity and Mk. II controls; moderate for version-wide technical details.
+- **Sources checked:**
+  - https://www.effectsdatabase.com/model/catalinbread/silverkiss
+  - https://aionfx.com/project/dryad-transparent-overdrive/
+  - https://catalinbread.com/products/silver-kiss
+  - https://reverb.com/item/65374405-catalinbread-silver-kiss-mkii-early-2000-s-silver
