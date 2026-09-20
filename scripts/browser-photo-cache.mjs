@@ -6,6 +6,7 @@ import { chromium } from 'playwright';
 const ROOT = process.cwd();
 const INDEX = path.join(ROOT, 'research/PEDAL_INDEX.json');
 const MANIFEST = path.join(ROOT, 'research/pedals/PEDAL_IMAGES.json');
+const TRACKER = path.join(ROOT, 'research/PRP_TRACKER.csv');
 const LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_LIMIT || 60));
 const CONCURRENCY = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_CONCURRENCY || 6));
 const PRIORITY_COMPANY = String(process.env.PHOTO_BROWSER_CACHE_PRIORITY_COMPANY || '').trim().toLowerCase();
@@ -13,6 +14,29 @@ const IMAGE_SEARCH_ENABLED = String(process.env.PHOTO_BROWSER_IMAGE_SEARCH || 't
 
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
+}
+
+function csvRows(raw) {
+  const lines = raw.split(/\r?\n/).filter(Boolean);
+  if (!lines.length) return [];
+  const header = lines[0].split(',');
+  return lines.slice(1).map(line => {
+    const fields = [];
+    let value = '', quoted = false;
+    for (let i = 0; i < line.length; i++) {
+      const ch = line[i];
+      const next = line[i + 1];
+      if (quoted) {
+        if (ch === '"' && next === '"') { value += '"'; i++; }
+        else if (ch === '"') quoted = false;
+        else value += ch;
+      } else if (ch === '"') quoted = true;
+      else if (ch === ',') { fields.push(value); value = ''; }
+      else value += ch;
+    }
+    fields.push(value);
+    return Object.fromEntries(header.map((h, i) => [h, (fields[i] || '').trim()]));
+  });
 }
 
 function slug(value) {
@@ -234,13 +258,19 @@ async function recoverEntry(browser, entry) {
 (async () => {
   const catalog = JSON.parse(fs.readFileSync(INDEX, 'utf8'));
   const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf8'));
+  const trackerRows = fs.existsSync(TRACKER)
+    ? csvRows(fs.readFileSync(TRACKER, 'utf8'))
+    : [];
+  const trackerOrder = new Map(
+    trackerRows.map((row, index) => [key(row.Builder, row.Pedal), index])
+  );
   const manifestByKey = new Map(manifest.map(x => [key(x.builder, x.pedal), x]));
   const candidates = (catalog.pedals || [])
-    .filter(x => !x.image && (x.image_source_page || x.source_page || x.image_source_url))
+    .filter(x => x.research_record && !x.image && (x.image_source_page || x.source_page || x.image_source_url))
     .sort((a, b) => {
       const score = entry => {
-        let value = 0;
-        if (entry.research_record) value += 1000;
+        const order = trackerOrder.get(key(entry.company, entry.pedal));
+        let value = Number.isFinite(order) ? -order : -100000000;
         if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) value += 100;
         if (PRIORITY_COMPANY && String(entry.company || '').trim().toLowerCase() === PRIORITY_COMPANY) value += 100000;
         return value;
