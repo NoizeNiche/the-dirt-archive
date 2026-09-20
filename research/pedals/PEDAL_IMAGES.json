@@ -9069,5 +9069,37 @@
     "source_page": "https://www.effectsdatabase.com/model/caline/dcp/andes",
     "research_record": "./research/pedals/PRP Batch 145/dcp-11-andes.md",
     "image_source_page": "https://www.effectsdatabase.com/model/caline/dcp/andes"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "G-001 Tiger Eye Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/gseries/tigereye",
+    "research_record": "./research/pedals/PRP Batch 146/g-001-tiger-eye-distortion.md",
+    "image_source_page": "https://colombia.yaxa.co/products/caline-mini-pedal-de-distorsion-de-guitarra-g001-serie-g-clasico-efecto-de-distorsion-de-roca-para-guitarra-electrica-true-bypass/"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "G-002 Green Mamba Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/gseries/greenmamba",
+    "research_record": "./research/pedals/PRP Batch 146/g-002-green-mamba-overdrive.md",
+    "image_source_page": "https://www.calinemusic.com/index.php?a=index&aid=54&c=View&m=home"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "G-014 Nasty Bear Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/caline/gseries/nastybear",
+    "research_record": "./research/pedals/PRP Batch 146/g-014-nasty-bear-fuzz.md",
+    "image_source_page": "https://myguitarshop.co.za/products/caline-g014-nasty-bear-fuzz"
+  },
+  {
+    "builder": "Cameltone Electronics",
+    "pedal": "Big Stuff",
+    "image": null,
+    "source_page": "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple",
+    "research_record": "./research/pedals/PRP Batch 146/cameltone-big-stuff.md",
+    "image_source_page": "https://reverb.com/item/86878862-cameltone-electronics-big-stuff-2015-purple-sparkle"
   }
 ]
