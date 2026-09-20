@@ -1,6 +1,6 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
+- Cached in this run: **1**
 - Local images retained/reorganized: **269**
 - Download failures: **45**
 
@@ -9,6 +9,10 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- Catalinbread Effects - Maxon 40th Anniversary Catalinbread Modified Overdrive (OD808-40C) -> `./assets/pedals/catalinbread-effects/maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c/primary.webp`
 
 ## Still external / failed
 

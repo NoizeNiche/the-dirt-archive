@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-20-prp1-batch-158",
+  "version": "data-f215decc8424",
   "count": 3821,
   "pedals": [
     {
@@ -13443,7 +13443,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/catalinbread-effects/maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c/primary.webp",
       "source_page": "https://catalinbread.com/products/maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c",
       "research_record": "./research/pedals/PRP Batch 158/catalinbread-maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c.md",
       "image_source_page": "https://maxonfx.com/products/40th-anniversary-catalinbread-modified-overdrive-od808-40c",
