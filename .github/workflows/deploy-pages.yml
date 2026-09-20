@@ -533,6 +533,32 @@ jobs:
           const catalog = JSON.parse(fs.readFileSync('research/PEDAL_INDEX.json', 'utf8'));
           const base = process.env.LIVE_SITE_URL.replace(/\/$/, '') + '/';
 
+          async function waitForLiveCatalog(page) {
+            const url = new URL('research/PEDAL_INDEX.json', base);
+            url.searchParams.set('v', catalog.version || '');
+            let last = null;
+            for (let attempt = 1; attempt <= 20; attempt++) {
+              try {
+                const response = await page.request.get(url.href, {timeout:10000});
+                if (response.ok()) {
+                  const live = await response.json();
+                  const liveCount = Number(live.count);
+                  const localCount = Number(catalog.count);
+                  if ((live.version || '') === (catalog.version || '') && liveCount === localCount) {
+                    return;
+                  }
+                  last = new Error('live catalog is still on an older data version');
+                } else {
+                  last = new Error('catalog HTTP ' + response.status());
+                }
+              } catch (err) {
+                last = err;
+              }
+              await new Promise(r => setTimeout(r, Math.min(5000, attempt * 500)));
+            }
+            throw last || new Error('live catalog did not converge to deployed data');
+          }
+
           function key(x) { return (x.company || '') + '\\0' + (x.pedal || ''); }
           function detailUrl(x) {
             const p = new URL('pedal-detail.html', base);
@@ -562,6 +588,9 @@ jobs:
 
           (async()=>{
             const browser = await chromium.launch({headless:true});
+            const probe = await browser.newPage({viewport:{width:1440,height:1000}});
+            await waitForLiveCatalog(probe);
+            await probe.close();
             const pictured = (catalog.pedals || []).filter(x => x.image);
             const failures = [];
             let cursor = 0;
