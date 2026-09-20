@@ -198,13 +198,14 @@ Then inspect the actual repository and take the first incomplete pedal in websit
 ## Current PRP checkpoint
 
 - Unique pedals in website catalog: 3,821
-- Pedals with research information: 855
-- Pedals with confirmed pictures: 285
-- Fully complete PRP pedals: 285
-- Remaining incomplete pedals: 3536
-- Researched but waiting only for a confirmed picture: 570
+- Pedals with research information: 1,139
+- Pedals with confirmed pictures: 300
+- Fully complete PRP pedals: 300
+- Remaining incomplete pedals: 3,521
+- Researched but waiting only for a confirmed picture: 839
 - PRP status: Active, PRP1 research and photo synchronization pass
-- Current PRP1 target: **BOSS - ML-2 Metal Core**
+- Current PRP1 target: **Canned Monsters - Moonbark Overdrive MK2**
+
 
 ## PRP1 batch 030 checkpoint
 
