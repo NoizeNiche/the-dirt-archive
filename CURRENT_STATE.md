@@ -1,5 +1,15 @@
 # The Dirt Archive - Current State
 
+## PRP1 Batch 148 checkpoint — September 19, 2026
+
+Batch 148 added the next **10 exact-order missing Pedal Info records**, from **Canned Monsters - Moonbark Overdrive MK2** through **Carl Martin - AC-Tone Single**. The ten records were researched conservatively and synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**.
+
+**Verified tracker totals:** **3,821 total / 1,149 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 840 researched-photo-pending**.
+
+**Current exact-order PRP1 target:** **Carl Martin - DC-Drive**.
+
+**Public data version:** **2026-09-19-prp1-batch-148**.
+
 ## PRP1 Batch 147 checkpoint — September 19, 2026
 
 Batch 147 advanced the next **10 exact-order missing-information records**: **Cameltone Electronics - Freak Scene; The Nard; Camuro - Baci Overdrive/Distortion; Caboolture Twin-Stage Overdrive; FAT BABY Preamp/Overdrive; Fuzz Rosso; hachi “8” Classic Modern Fuzz/Bosster; Naked Machine; Naturale; and Canned Monsters - Frenzy Moss**.
