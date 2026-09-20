@@ -11,6 +11,11 @@ const LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_LIMIT || 60));
 const CONCURRENCY = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_CONCURRENCY || 6));
 const PRIORITY_COMPANY = String(process.env.PHOTO_BROWSER_CACHE_PRIORITY_COMPANY || '').trim().toLowerCase();
 const IMAGE_SEARCH_ENABLED = String(process.env.PHOTO_BROWSER_IMAGE_SEARCH || 'true').toLowerCase() !== 'false';
+const PAGE_TIMEOUT = Math.max(4000, Number(process.env.PHOTO_BROWSER_PAGE_TIMEOUT_MS || 8000));
+const SEARCH_TIMEOUT = Math.max(4000, Number(process.env.PHOTO_BROWSER_SEARCH_TIMEOUT_MS || 8000));
+const IMAGE_TIMEOUT = Math.max(2500, Number(process.env.PHOTO_BROWSER_IMAGE_TIMEOUT_MS || 6000));
+const CANDIDATE_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CANDIDATE_LIMIT || 6));
+const SEARCH_VERIFY_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_SEARCH_VERIFY_LIMIT || 5));
 
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
@@ -69,7 +74,7 @@ function pageMatchesIdentity(entry, title, h1) {
 
 async function extractDirectImage(page, url) {
   try {
-    const response = await page.request.get(url, { timeout: 12000 });
+    const response = await page.request.get(url, { timeout: SEARCH_TIMEOUT });
     const type = (response.headers()['content-type'] || '').toLowerCase();
     if (!response.ok() || !type.startsWith('image/')) return null;
     const bytes = await response.body();
@@ -93,13 +98,17 @@ function imageSearchScore(entry, result) {
   return { score, pedalHits: pedalHits.length, builderHits: builderHits.length };
 }
 
+function pedalTokensForSearch(entry) {
+  return identityTokens(entry.pedal);
+}
+
 async function imageSearchCandidates(page, entry) {
   if (!IMAGE_SEARCH_ENABLED) return [];
   const query = `${entry.company} ${entry.pedal} guitar pedal`;
   const searchUrl = 'https://www.bing.com/images/search?form=HDRSC2&q=' + encodeURIComponent(query);
   try {
     await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: 12000 });
-    await page.waitForTimeout(500);
+    await page.waitForTimeout(200);
     return await page.evaluate(() => {
       const out = [];
       for (const el of document.querySelectorAll('a.iusc')) {
@@ -154,10 +163,7 @@ async function recoverEntry(browser, entry) {
           }
 
           if (!candidates.some(x => x.sourcePage === sourcePageUsed && x.sourceScore >= 120)) {
-            await page.waitForTimeout(500);
             await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-            await page.waitForTimeout(700);
-            await page.evaluate(() => window.scrollTo(0, 0));
             await page.waitForTimeout(250);
           }
 
@@ -204,11 +210,13 @@ async function recoverEntry(browser, entry) {
       const searchResults = await imageSearchCandidates(page, entry);
       for (const result of searchResults) {
         const fit = imageSearchScore(entry, result);
-        if (fit.score < 30 || fit.pedalHits < 1) continue;
+        const requiredHits = pedalTokensForSearch(entry).length >= 2 ? 2 : 1;
+        if (fit.score < 45 || fit.pedalHits < requiredHits || !result.purl) continue;
         candidates.push({
           url: result.murl,
-          sourcePage: result.purl || null,
-          sourceScore: 20 + Math.min(70, fit.score)
+          sourcePage: result.purl,
+          sourceScore: 45 + Math.min(70, fit.score),
+          searchResult: true
         });
       }
     }
@@ -226,24 +234,57 @@ async function recoverEntry(browser, entry) {
       return score(b) - score(a);
     });
 
-    if (!ranked.length) throw new Error('no candidate images found');
-
-    let selected = null;
-    let selectedBytes = null;
-    for (const candidate of ranked.slice(0, 10)) {
-      try {
-        const response = await page.request.get(candidate.url, { timeout: 10000 });
-        const type = (response.headers()['content-type'] || '').toLowerCase();
-        if (!response.ok() || !type.startsWith('image/')) continue;
-        const bytes = await response.body();
-        if (bytes.length < 3000) continue;
-        selected = candidate;
-        selectedBytes = bytes;
-        break;
-      } catch {}
+    async function tryImages(list) {
+      for (const candidate of list.slice(0, CANDIDATE_LIMIT)) {
+        try {
+          const response = await page.request.get(candidate.url, { timeout: IMAGE_TIMEOUT });
+          const type = (response.headers()['content-type'] || '').toLowerCase();
+          if (!response.ok() || !type.startsWith('image/')) continue;
+          const bytes = await response.body();
+          if (bytes.length < 3000) continue;
+          return { candidate, bytes };
+        } catch {}
+      }
+      return null;
     }
 
-    if (!selected) throw new Error('no usable image candidate found');
+    // First trust only candidates discovered on the already-verified source page.
+    let selectedResult = await tryImages(
+      ranked.filter(candidate => !candidate.searchResult)
+    );
+
+    // Search is a fallback, not the primary source. Verify the result page identity
+    // before accepting its image so a visually similar pedal cannot slip through.
+    if (!selectedResult && IMAGE_SEARCH_ENABLED) {
+      const searchResults = await imageSearchCandidates(page, entry);
+      const verifiedSearch = [];
+      for (const result of searchResults.slice(0, SEARCH_VERIFY_LIMIT)) {
+        const fit = imageSearchScore(entry, result);
+        const requiredHits = pedalTokensForSearch(entry).length >= 2 ? 2 : 1;
+        if (fit.score < 45 || fit.pedalHits < requiredHits || !result.purl || !result.murl) continue;
+        try {
+          await page.goto(result.purl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+          const title = await page.title().catch(() => '');
+          const h1 = await page.locator('h1').first().textContent().catch(() => '');
+          const body = await page.locator('body').textContent().catch(() => '');
+          if (!pageMatchesIdentity(entry, title + ' ' + body, h1)) continue;
+          verifiedSearch.push({
+            url: result.murl,
+            sourcePage: result.purl,
+            sourceScore: 45 + Math.min(70, fit.score),
+            searchResult: true
+          });
+        } catch {}
+      }
+      selectedResult = await tryImages(
+        verifiedSearch.sort((a, b) => b.sourceScore - a.sourceScore)
+      );
+    }
+
+    if (!selectedResult) throw new Error('no usable exact-model image candidate found');
+
+    const selected = selectedResult.candidate;
+    const selectedBytes = selectedResult.bytes;
 
     const out = target(entry);
     fs.mkdirSync(path.dirname(out), { recursive: true });
