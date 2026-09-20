@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-142",
+  "version": "2026-09-19-prp1-batch-143",
   "count": 3821,
   "pedals": [
     {
@@ -11913,8 +11913,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp68",
+      "research_record": "./research/pedals/PRP Batch 143/cp-68-distortion-delay.md"
     },
     {
       "company": "Caline",
@@ -11923,8 +11923,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp69",
+      "research_record": "./research/pedals/PRP Batch 143/cp-69-high-peak-distortion.md"
     },
     {
       "company": "Caline",
@@ -11933,8 +11933,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp70",
+      "research_record": "./research/pedals/PRP Batch 143/cp-70-high-chief-crushing-overdrive.md"
     },
     {
       "company": "Caline",
@@ -11943,8 +11943,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.rockboard.de/en/pedalPedia/Caline/CP-74-Action-Replay/68976435/",
+      "research_record": "./research/pedals/PRP Batch 143/cp-74-action-replay-dyna-red-distortion.md"
     },
     {
       "company": "Caline",
@@ -11953,8 +11953,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp75",
+      "research_record": "./research/pedals/PRP Batch 143/cp-75-emerald-night-overdrive.md"
     },
     {
       "company": "Caline",
@@ -11963,8 +11963,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/captainsilver",
+      "research_record": "./research/pedals/PRP Batch 143/cp-76-captain-silver-overdrive.md"
     },
     {
       "company": "Caline",
@@ -11973,8 +11973,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp77",
+      "research_record": "./research/pedals/PRP Batch 143/cp-77-bounty-hunter-heavy-metal.md"
     },
     {
       "company": "Caline",
@@ -11983,8 +11983,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/redthorn",
+      "research_record": "./research/pedals/PRP Batch 143/cp-78-red-thorn-distortion.md"
     },
     {
       "company": "Caline",
