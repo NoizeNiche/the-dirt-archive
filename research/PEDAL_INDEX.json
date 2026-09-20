@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-20-prp1-batch-156",
+  "version": "2026-09-20-prp1-batch-157",
   "count": 3821,
   "pedals": [
     {
@@ -13329,8 +13329,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/galileo-4k",
+      "research_record": "./research/pedals/PRP Batch 157/catalinbread-galileo-4k.md",
+      "image_source_page": "https://catalinbread.com/products/galileo-4k"
     },
     {
       "company": "Catalinbread Effects",
@@ -13340,8 +13341,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/galileo-red-special",
+      "research_record": "./research/pedals/PRP Batch 157/catalinbread-galileo-red-special.md",
+      "image_source_page": "https://catalinbread.com/products/galileo-red-special"
     },
     {
       "company": "Catalinbread Effects",
@@ -13350,8 +13352,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/giygas-2k-fuzz",
+      "research_record": "./research/pedals/PRP Batch 157/catalinbread-giygas-2k-fuzz.md",
+      "image_source_page": "https://catalinbread.com/products/giygas-2k-fuzz"
     },
     {
       "company": "Catalinbread Effects",
@@ -13360,8 +13363,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.turramusic.com.au/products/catalinbread-karma-suture-germanium",
+      "research_record": "./research/pedals/PRP Batch 157/catalinbread-karma-suture-ge.md",
+      "image_source_page": "https://www.turramusic.com.au/products/catalinbread-karma-suture-germanium"
     },
     {
       "company": "Catalinbread Effects",
@@ -13371,8 +13375,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/katzenkonig",
+      "research_record": "./research/pedals/PRP Batch 157/catalinbread-katzenkonig.md",
+      "image_source_page": "https://catalinbread.com/products/katzenkonig"
     },
     {
       "company": "Catalinbread Effects",
@@ -13381,8 +13386,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/knight-school-fuzz",
+      "research_record": "./research/pedals/PRP Batch 157/catalinbread-knight-school-fuzz.md",
+      "image_source_page": "https://catalinbread.com/products/knight-school-fuzz"
     },
     {
       "company": "Catalinbread Effects",
@@ -13392,8 +13398,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/knight-school-overdrive",
+      "research_record": "./research/pedals/PRP Batch 157/catalinbread-knight-school-overdrive.md",
+      "image_source_page": "https://catalinbread.com/products/knight-school-overdrive"
     },
     {
       "company": "Catalinbread Effects",
@@ -13403,8 +13410,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/knightdrive",
+      "research_record": "./research/pedals/PRP Batch 157/catalinbread-knightdrive.md",
+      "image_source_page": "https://catalinbread.com/products/knightdrive"
     },
     {
       "company": "Catalinbread Effects",
@@ -13414,8 +13422,9 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/little-secret",
+      "research_record": "./research/pedals/PRP Batch 157/catalinbread-little-secret.md",
+      "image_source_page": "https://catalinbread.com/products/little-secret"
     },
     {
       "company": "Catalinbread Effects",
@@ -13424,8 +13433,9 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://catalinbread.com/products/manx-loaghtan",
+      "research_record": "./research/pedals/PRP Batch 157/catalinbread-manx-loaghtan-fuzz.md",
+      "image_source_page": "https://catalinbread.com/products/manx-loaghtan"
     },
     {
       "company": "Catalinbread Effects",
