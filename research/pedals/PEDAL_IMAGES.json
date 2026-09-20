@@ -9376,71 +9376,81 @@
     "builder": "Carl Martin",
     "pedal": "TOD",
     "image": null,
-    "source_page": null,
-    "research_record": null
+    "source_page": "https://carlmartin.com/products/tod/",
+    "research_record": "./research/pedals/PRP Batch 150/carl-martin-tod.md",
+    "image_source_page": "https://ameaudio.com.au/collections/carl-martin"
   },
   {
     "builder": "Carlin",
     "pedal": "Carlin Compressor/Fuzz",
     "image": null,
-    "source_page": null,
-    "research_record": null
+    "source_page": "https://www.effectsdatabase.com/model/carlin/compressor/fuzz",
+    "research_record": "./research/pedals/PRP Batch 150/carlin-carlin-compressor-fuzz.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/carlin/compressor/fuzz"
   },
   {
     "builder": "Carlsbro",
     "pedal": "Carlsbro Fuzz",
     "image": null,
-    "source_page": null,
-    "research_record": null
+    "source_page": "https://www.effectsdatabase.com/model/carlsbro/colorsound/fuzz",
+    "research_record": "./research/pedals/PRP Batch 150/carlsbro-carlsbro-fuzz.md",
+    "image_source_page": "https://reverb.com/au/item/76750494-carlsbro-fuzz-early-70s-tone-bender-mkiv"
   },
   {
     "builder": "Carlsbro",
     "pedal": "Carlsbro Fuzz-Tone",
     "image": null,
-    "source_page": null,
-    "research_record": null
+    "source_page": "https://www.effectsdatabase.com/model/carlsbro/fuzztone",
+    "research_record": "./research/pedals/PRP Batch 150/carlsbro-carlsbro-fuzz-tone.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/carlsbro/fuzztone"
   },
   {
     "builder": "Carlsbro",
     "pedal": "Carlsbro Suzz",
     "image": null,
-    "source_page": null,
-    "research_record": null
+    "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu/suzz",
+    "research_record": "./research/pedals/PRP Batch 150/carlsbro-carlsbro-suzz.md",
+    "image_source_page": "https://www.tonehome.de/carlsbro/suzz/"
   },
   {
     "builder": "Carlson",
     "pedal": "E20MT Heavy Metal",
     "image": null,
-    "source_page": null,
-    "research_record": null
+    "source_page": "https://www.effectsdatabase.com/model/carlson/e20mt",
+    "research_record": "./research/pedals/PRP Batch 150/carlson-e20mt-heavy-metal.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/carlson/e20mt"
   },
   {
     "builder": "Carmedon Electronics",
     "pedal": "Alpha Centauri",
     "image": null,
-    "source_page": null,
-    "research_record": null
+    "source_page": "https://www.reddit.com/r/guitarpedals/comments/cws57g",
+    "research_record": "./research/pedals/PRP Batch 150/carmedon-electronics-alpha-centauri.md",
+    "image_source_page": null
   },
   {
     "builder": "Caroline Guitar Company",
     "pedal": "Aaron Graves Overdrive",
     "image": null,
-    "source_page": null,
-    "research_record": null
+    "source_page": "https://carolineguitar.com/product/graves_drive/",
+    "research_record": "./research/pedals/PRP Batch 150/caroline-guitar-company-aaron-graves-overdrive.md",
+    "image_source_page": "https://carolineguitar.com/product/graves_drive/"
   },
   {
     "builder": "Caroline Guitar Company",
     "pedal": "CROM",
     "image": null,
-    "source_page": null,
-    "research_record": null
+    "source_page": "https://carolineguitar.com/product/crom/",
+    "research_record": "./research/pedals/PRP Batch 150/caroline-guitar-company-crom.md",
+    "image_source_page": "https://carolineguitar.com/product/crom/"
   },
   {
     "builder": "Caroline Guitar Company",
     "pedal": "Hawaiian Pizza",
     "image": null,
-    "source_page": null,
-    "research_record": null
+    "source_page": "https://carolineguitar.com/product/hawaiian-pizza/",
+    "research_record": "./research/pedals/PRP Batch 150/caroline-guitar-company-hawaiian-pizza.md",
+    "image_source_page": "https://carolineguitar.com/product/hawaiian-pizza/"
   },
   {
     "builder": "Caroline Guitar Company",
