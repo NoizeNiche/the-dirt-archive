@@ -1,6 +1,6 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
+- Cached in this run: **5**
 - Local images retained/reorganized: **264**
 - Download failures: **45**
 
@@ -9,6 +9,14 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- Catalinbread Effects - Formula 51 -> `./assets/pedals/catalinbread-effects/formula-51/primary.webp`
+- Catalinbread Effects - Formula 5F6 -> `./assets/pedals/catalinbread-effects/formula-5f6/primary.webp`
+- Catalinbread Effects - Formula No. 5 -> `./assets/pedals/catalinbread-effects/formula-no-5/primary.webp`
+- Catalinbread Effects - Fuzzrite -> `./assets/pedals/catalinbread-effects/fuzzrite/primary.webp`
+- Catalinbread Effects - Galileo -> `./assets/pedals/catalinbread-effects/galileo/primary.webp`
 
 ## Still external / failed
 
