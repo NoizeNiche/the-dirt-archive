@@ -1,3 +1,15 @@
+## PRP1 Batch 157 checkpoint — September 20, 2026
+
+Batch 157 advanced **10 consecutive exact-order research records**: **Catalinbread Effects - Galileo 4K; Galileo Red Special; Giygas 2K Fuzz; Karma Suture GE; Katzenkönig; Knight School Fuzz; Knight School Overdrive; Knightdrive; Little Secret; and Manx Loaghtan Fuzz**.
+
+All ten now have Pedal Info research records synchronized into the canonical index, photo/research manifest, and PRP tracker. During this checkpoint, the automated photo cache independently archived five exact images from the preceding Catalinbread pass. Those verified photo gains are preserved.
+
+**Verified tracker totals:** **3,821 total / 1,239 researched / 314 pictured / 314 fully complete / 3,507 incomplete / 925 researched-photo-pending**.
+
+**Next exact-order research target:** **Catalinbread Effects - Misnomer**.
+
+**Public data version:** **2026-09-20-prp1-batch-157**.
+
 ## PRP1 Batch 156 checkpoint — September 20, 2026
 
 Batch 156 advanced **10 consecutive exact-order research records**: **Catalinbread Effects - Dirty Little Secret Deluxe; Formula 51; Formula 55; Formula 5F6; Formula No. 5; Fuzzrite; Fuzzrite Germanium; Fuzzrite Germanium White; Fuzzrite Mini; and Galileo**.
