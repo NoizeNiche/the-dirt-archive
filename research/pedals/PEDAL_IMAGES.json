@@ -1696,18 +1696,22 @@
   {
     "builder": "AMT Electronics",
     "pedal": "CS California Sound",
-    "image": null,
+    "image": "./assets/pedals/amt-electronics/cs-california-sound/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/amt/cs",
     "research_record": "./research/pedals/PRP Batch 049/CS California Sound.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://medias.audiofanzine.com/images/normal/amt-electronics-california-sound-2629685.jpg",
+    "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/amt-electronics/California-Sound/"
   },
   {
     "builder": "AMT Electronics",
     "pedal": "DM-3 DistMachine",
-    "image": null,
+    "image": "./assets/pedals/amt-electronics/dm-3-distmachine/primary.webp",
     "source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
     "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://www.jrrshop.com/media/catalog/product/cache/1/thumbnail/78x78/a66540e506afa74ed63da765fad2ca0b/a/m/amtelectronicsdistmachine.jpg",
+    "image_source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html"
   },
   {
     "builder": "AMT Electronics",
@@ -1757,9 +1761,11 @@
   {
     "builder": "AMtech Handwired",
     "pedal": "Destroyer",
-    "image": null,
+    "image": "./assets/pedals/amtech-handwired/destroyer/primary.webp",
     "source_page": "https://www.amtechhandwired.com/?page_id=732",
-    "research_record": "./research/pedals/PRP Batch 050/Destroyer.md"
+    "research_record": "./research/pedals/PRP Batch 050/Destroyer.md",
+    "image_source_url": "https://www.amtechhandwired.com/wp-content/uploads/2024/03/DSC06957bCD-1536x358.jpg",
+    "image_source_page": "https://www.amtechhandwired.com/?page_id=732"
   },
   {
     "builder": "AMtech Handwired",

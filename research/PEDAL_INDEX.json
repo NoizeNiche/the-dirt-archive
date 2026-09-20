@@ -1,5 +1,5 @@
 {
-  "version": "data-5f083052b24a",
+  "version": "data-8c34c50a1f1c",
   "count": 3821,
   "pedals": [
     {
@@ -2251,9 +2251,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/amt-electronics/cs-california-sound/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/amt/cs",
-      "research_record": "./research/pedals/PRP Batch 049/CS California Sound.md"
+      "research_record": "./research/pedals/PRP Batch 049/CS California Sound.md",
+      "image_source_url": "https://medias.audiofanzine.com/images/normal/amt-electronics-california-sound-2629685.jpg",
+      "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/amt-electronics/California-Sound/"
     },
     {
       "company": "AMT Electronics",
@@ -2261,9 +2263,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/amt-electronics/dm-3-distmachine/primary.webp",
       "source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
-      "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md"
+      "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md",
+      "image_source_url": "https://www.jrrshop.com/media/catalog/product/cache/1/thumbnail/78x78/a66540e506afa74ed63da765fad2ca0b/a/m/amtelectronicsdistmachine.jpg",
+      "image_source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html"
     },
     {
       "company": "AMT Electronics",
@@ -2331,9 +2335,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/amtech-handwired/destroyer/primary.webp",
       "source_page": "https://www.amtechhandwired.com/?page_id=732",
-      "research_record": "./research/pedals/PRP Batch 050/Destroyer.md"
+      "research_record": "./research/pedals/PRP Batch 050/Destroyer.md",
+      "image_source_url": "https://www.amtechhandwired.com/wp-content/uploads/2024/03/DSC06957bCD-1536x358.jpg",
+      "image_source_page": "https://www.amtechhandwired.com/?page_id=732"
     },
     {
       "company": "AMtech Handwired",
