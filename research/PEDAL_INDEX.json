@@ -1,5 +1,5 @@
 {
-  "version": "data-0c87ec5d4929",
+  "version": "data-a59882258e24",
   "count": 3821,
   "pedals": [
     {
@@ -2564,9 +2564,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/analog-man/sun-face/primary.webp",
       "source_page": "https://analogman.com/sunface.htm",
-      "research_record": "./research/pedals/Analog Man/Sun_Face.md"
+      "research_record": "./research/pedals/Analog Man/Sun_Face.md",
+      "image_source_url": "http://cdn.shopify.com/s/files/1/0286/0200/7600/files/DSC01273_b1cb0c47-9ba1-49bd-9b5a-daec7397b2e6.jpg?v=1684270723",
+      "image_source_page": "https://parkwaymusic.com/products/analog-man-sun-face-sun-graphics-bart"
     },
     {
       "company": "Analog Man",
@@ -2586,9 +2588,11 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/analog-music-company/evil-pumpkin/primary.webp",
       "source_page": "https://www.analogmusic.company/evil-pumpkin",
-      "research_record": "./research/pedals/PRP Batch 056/Evil Pumpkin.md"
+      "research_record": "./research/pedals/PRP Batch 056/Evil Pumpkin.md",
+      "image_source_url": "https://files.cdn-files-a.com/uploads/6609057/800_683d55cf5535d.png",
+      "image_source_page": "https://www.analogmusic.company/evil-pumpkin"
     },
     {
       "company": "Analog Music Company",
@@ -2596,9 +2600,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/analog-music-company/mary-gorgias-ultra-high-gain-distorter/primary.webp",
       "source_page": "https://www.analogmusic.company/shop/mary-gorgias-xx-ultra-high-gain-distorter",
-      "research_record": "./research/pedals/PRP Batch 056/Mary Gorgias Ultra High Gain Distorter.md"
+      "research_record": "./research/pedals/PRP Batch 056/Mary Gorgias Ultra High Gain Distorter.md",
+      "image_source_url": "https://files.cdn-files-a.com/uploads/6609057/800_6a8d901297f08.png",
+      "image_source_page": "https://www.analogmusic.company/shop/mary-gorgias-xx-ultra-high-gain-distorter"
     },
     {
       "company": "Analog Noir",
@@ -2606,9 +2612,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/analog-noir/fuzz-face-rangemaster-treble-booster/primary.webp",
       "source_page": "https://analognoirelectric.com/pedals/p/rangemaster-fuzzface",
-      "research_record": "./research/pedals/PRP Batch 056/Fuzz Face - Rangemaster Treble Booster.md"
+      "research_record": "./research/pedals/PRP Batch 056/Fuzz Face - Rangemaster Treble Booster.md",
+      "image_source_url": "http://static1.squarespace.com/static/63866ae37fa424183230cef5/63866b987679a464932c6cba/645c1cff47363a27d17aaa13/1789834307628/IMG_4657+2.jpg?format=1500w",
+      "image_source_page": "https://analognoirelectric.com/pedals/p/rangemaster-fuzzface"
     },
     {
       "company": "Analog Noir",
@@ -2863,9 +2871,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/animal-factory-amplification/dirty-mirror/primary.webp",
       "source_page": "https://www.schneidersladen.de/en/animal-factory-amplification-dirty-mirror.html",
-      "research_record": "./research/pedals/Animal Factory Amplification/Dirty_Mirror.md"
+      "research_record": "./research/pedals/Animal Factory Amplification/Dirty_Mirror.md",
+      "image_source_url": "https://schneidersladen.de/media/66/da/9b/1771452917/animal_factory_amplification_animal_factory_amplification_dirty_mirror_pedal_251403_1.webp?ts=1771452917",
+      "image_source_page": "https://schneidersladen.de/en/animal-factory-amplification-dirty-mirror-pedal"
     },
     {
       "company": "Animal Factory Amplification",
