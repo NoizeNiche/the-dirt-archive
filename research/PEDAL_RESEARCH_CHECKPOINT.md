@@ -3,7 +3,7 @@
 ## Status
 **Phase:** Pedal Research Phase underway  
 **Builder census:** Complete through Deep Dives 220-224 / 586 canonical builders  
-**Research progress:** **855 pedals have research information; 285 have confirmed pictures; 285 are fully complete; 3,536 remain incomplete; 570 are researched and waiting only for a confirmed picture.** This top-line snapshot reflects the current live tracker; the historical entries below are retained as checkpoints.
+**Research progress:** **1,139 pedals have research information; 300 have confirmed pictures; 300 are fully complete; 3,521 remain incomplete; 839 are researched and waiting only for a confirmed picture.** This snapshot reflects the reconciled live tracker after PRP1 Batch 147.
 
 ## Completed
 1. **Amptweaker — Bass BluesFuzz**
