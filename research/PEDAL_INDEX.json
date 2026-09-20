@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-145",
+  "version": "2026-09-19-prp1-batch-146",
   "count": 3821,
   "pedals": [
     {
@@ -12113,8 +12113,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/gseries/tigereye",
+      "research_record": "./research/pedals/PRP Batch 146/g-001-tiger-eye-distortion.md"
     },
     {
       "company": "Caline",
@@ -12123,8 +12123,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/gseries/greenmamba",
+      "research_record": "./research/pedals/PRP Batch 146/g-002-green-mamba-overdrive.md"
     },
     {
       "company": "Caline",
@@ -12133,8 +12133,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/gseries/nastybear",
+      "research_record": "./research/pedals/PRP Batch 146/g-014-nasty-bear-fuzz.md"
     },
     {
       "company": "Cameltone Electronics",
@@ -12143,8 +12143,8 @@
         "Fuzz"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple",
+      "research_record": "./research/pedals/PRP Batch 146/cameltone-big-stuff.md"
     },
     {
       "company": "Cameltone Electronics",
