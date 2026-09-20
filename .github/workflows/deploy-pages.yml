@@ -54,6 +54,39 @@ jobs:
           if git diff --cached --quiet; then
             echo "No local photo changes to commit."
           else
+            # The public pages cache-bust PEDAL_INDEX.json with DATA_VERSION.
+            # Whenever the catalog/photo layer changes, update that version and
+            # both public HTML entry points in the SAME commit that publishes
+            # the new catalog. This prevents the site from serving an older
+            # JSON snapshot after a successful photo-cache update.
+            DATA_VERSION="data-" + "${GITHUB_SHA:0:12}"
+            export DATA_VERSION
+            python - <<'PY'
+            import json
+            import os
+            import re
+            from pathlib import Path
+
+            version = os.environ["DATA_VERSION"]
+            catalog_path = Path("research/PEDAL_INDEX.json")
+            catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
+            catalog["version"] = version
+            catalog_path.write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
+            for html_path in (Path("index.html"), Path("pedal-detail.html")):
+                html = html_path.read_text(encoding="utf-8")
+                updated, count = re.subn(
+                    r"(const DATA_VERSION\s*=\s*['"])[^'"]+(['"])",
+                    lambda m: m.group(1) + version + m.group(2),
+                    html,
+                    count=1,
+                )
+                if count != 1:
+                    raise SystemExit(f"Could not update DATA_VERSION in {html_path}")
+                html_path.write_text(updated, encoding="utf-8")
+            print(f"Publishing catalog with DATA_VERSION={version}")
+            PY
+            git add index.html pedal-detail.html research/PEDAL_INDEX.json
             git commit -m "Archive verified pedal photos locally"
             git push
           fi
