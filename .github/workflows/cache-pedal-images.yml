@@ -17,7 +17,6 @@ concurrency:
 
 jobs:
   cache:
-    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
