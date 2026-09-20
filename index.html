@@ -539,7 +539,7 @@ function group(rows){
 }
 
 function esc(x){
-  return String(x).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'","&#039;");
+  return String(x).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;');
 }
 
 function syncUrl(){
@@ -647,8 +647,6 @@ function render(){
   const pageStart=(currentPage-1)*PAGE_SIZE;
   const pageItems=visible.slice(pageStart,pageStart+PAGE_SIZE);
 
-  // The builder total describes the current archive filter context,
-  // not the single builder selected for the result view.
   const builderContext=items.filter(x=>typeMatches(x)&&searchMatches(x));
   const builderCount=new Set(builderContext.map(x=>x.company)).size;
 
@@ -675,10 +673,10 @@ function render(){
         return '<a class="card" href="'+slugParams(x)+'">'+
           media+
           '<span class="cardBody">'+
-            '<span class="name">'+esc(x.pedal)+'</span>'+
-            '<span class="builderNameCard">'+esc(x.company)+'</span>'+
-            '<span class="chips">'+x.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('')+'</span>'+
-          '</span>'+
+            '<span class="name">'+esc(x.pedal)+'</span>'+ 
+            '<span class="builderNameCard">'+esc(x.company)+'</span>'+ 
+            '<span class="chips">'+x.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('')+'</span>'+ 
+          '</span>'+ 
         '</a>';
       })()
     ).join('')
