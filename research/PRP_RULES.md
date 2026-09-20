@@ -221,7 +221,7 @@ PRP is continuing in practical working sets, with no fixed pedal-count ceiling. 
 
 All ten now have individual Pedal Info research records synchronized into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv. Photo records remain conservative where no verified exact-model image has been archived.
 
-**Verified tracker totals:** **3821 total / 1024 researched / 301 pictured / 300 complete / 3521 incomplete / 724 researched-photo-pending**.
+**Verified tracker totals:** **3,821 total / 1,139 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 830 researched-photo-pending**.ncomplete / 724 researched-photo-pending**.
 
 **Next exact-order research target:** **Bulinski Effect Pedals - Velociraptor Diode Bass Fuzz**.
 
