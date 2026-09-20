@@ -76,7 +76,7 @@ jobs:
             for html_path in (Path("index.html"), Path("pedal-detail.html")):
                 html = html_path.read_text(encoding="utf-8")
                 updated, count = re.subn(
-                    r"(const DATA_VERSION\s*=\s*['"])[^'"]+(['"])",
+                    r"""(const DATA_VERSION\s*=\s*['"])[^'"]+(['"])""",
                     lambda m: m.group(1) + version + m.group(2),
                     html,
                     count=1,
