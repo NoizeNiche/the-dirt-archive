@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-19-prp1-batch-144",
+  "version": "2026-09-19-prp1-batch-145",
   "count": 3821,
   "pedals": [
     {
@@ -12030,12 +12030,11 @@
       "company": "Caline",
       "pedal": "DCP-02 Brutus",
       "types": [
-        "Distortion",
-        "Overdrive"
+        "Distortion / Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/dcp/brutus",
+      "research_record": "./research/pedals/PRP Batch 145/dcp-02-brutus.md"
     },
     {
       "company": "Caline",
@@ -12044,8 +12043,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp04",
+      "research_record": "./research/pedals/PRP Batch 145/dcp-04-easy-driver.md"
     },
     {
       "company": "Caline",
@@ -12054,8 +12053,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp05",
+      "research_record": "./research/pedals/PRP Batch 145/dcp-05-key-west.md"
     },
     {
       "company": "Caline",
@@ -12064,8 +12063,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp06",
+      "research_record": "./research/pedals/PRP Batch 145/dcp-06-sundance-special.md"
     },
     {
       "company": "Caline",
@@ -12074,19 +12073,18 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp07",
+      "research_record": "./research/pedals/PRP Batch 145/dcp-07-brigade.md"
     },
     {
       "company": "Caline",
       "pedal": "DCP-08 Nightwolf",
       "types": [
-        "Fuzz",
-        "Overdrive"
+        "Fuzz / Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp08",
+      "research_record": "./research/pedals/PRP Batch 145/dcp-08-nightwolf.md"
     },
     {
       "company": "Caline",
@@ -12095,8 +12093,8 @@
         "Distortion"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/dcp/tigershark",
+      "research_record": "./research/pedals/PRP Batch 145/dcp-09-tiger-shark.md"
     },
     {
       "company": "Caline",
@@ -12105,8 +12103,8 @@
         "Overdrive"
       ],
       "image": null,
-      "source_page": null,
-      "research_record": null
+      "source_page": "https://www.effectsdatabase.com/model/caline/dcp/andes",
+      "research_record": "./research/pedals/PRP Batch 145/dcp-11-andes.md"
     },
     {
       "company": "Caline",
