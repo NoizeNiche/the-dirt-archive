@@ -1,5 +1,19 @@
 # The Dirt Archive - Research Breadcrumb
 
+
+## PRP1 Batch 143 checkpoint — September 19, 2026
+
+Batch 143 advanced **8 consecutive exact-order research records**: **Caline - CP-68 Distortion + Delay; CP-69 High Peak Distortion; CP-70 High Chief - Crushing Overdrive; CP-74 Action Replay - Dyna Red Distortion; CP-75 Emerald Night - Overdrive; CP-76 Captain Silver Overdrive; CP-77 Bounty Hunter - Heavy Metal; and CP-78 Red Thorn Distortion**.
+
+All eight have individual Pedal Info research records synchronized across **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Exact-model image source pages were captured for all eight, but no source-only image was promoted to a local catalog asset, so all eight remain **Picture: NEEDED**.
+
+**Verified tracker totals:** **3,821 total / 1,110 researched / 303 pictured / 353 complete / 3,467 incomplete / 810 researched-photo-pending**.
+
+**Next exact-order research target:** **Caline - CP-79 Wolf Pack / King Of Ga-Ga - Boost/Overdrive**.
+
+**Public data version:** **2026-09-19-prp1-batch-143**.
+
+
 ## PRP1 Batch 142 checkpoint
 
 Batch 142 completed the next ten exact-order records: **Caline - CP-504 M:Fuzz; CP-509 Stack Attack - Preamp Overdrive & Compressor; CP-510 Jaguar - Classic High Gain Distortion; CP-511 Enchanted Tone - Highly Prized Overdrive; CP-515 Carmilla - Hi Gain Distortion Machine; CP-516 Orange Burst; CP-53 Fuzzy Faace - Voodoo Octave; CP-54 The Big Orange - Crushing Overdrive; CP-56 Midlander / The Mayday - AC Tone; and CP-65 Bass Over Drive**. Each received an individual Pedal Info research record, canonical index entry, tracker synchronization, and photo-manifest entry. Exact-model source imagery was located for the block, but no local image was promoted without the archive cache step.
