@@ -64,7 +64,7 @@ jobs:
           # Photo-cache commits change PEDAL_INDEX.json. Update the cache-busting
           # version and both public HTML entry points in the same commit so the
           # newly published image paths cannot be masked by an older JSON URL.
-          DATA_VERSION="data-${GITHUB_SHA:0:12}
+          DATA_VERSION="data-${GITHUB_SHA:0:12}"
           export DATA_VERSION
           python - <<'PY'
           import json
