@@ -1,5 +1,18 @@
 # The Dirt Archive - Current State
 
+## PRP1 Batch 150 checkpoint — September 20, 2026
+
+Batch 150 advanced **10 consecutive exact-order research records**: **Carl Martin - TOD; Carlin - Carlin Compressor/Fuzz; Carlsbro - Carlsbro Fuzz; Carlsbro - Carlsbro Fuzz-Tone; Carlsbro - Carlsbro Suzz; Carlson - E20MT Heavy Metal; Carmedon Electronics - Alpha Centauri; Caroline Guitar Company - Aaron Graves Overdrive; Caroline Guitar Company - CROM; and Caroline Guitar Company - Hawaiian Pizza**.
+
+All ten Pedal Info records are synchronized into **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Historical variants and later reissues are kept separate where appropriate. Sparse or uncertain historical records are explicitly documented as such rather than inferred from related brands or circuits.
+
+**Verified tracker totals:** **3,821 total / 1,169 researched / 309 pictured / 309 fully complete / 3,512 incomplete / 860 researched-photo-pending**.
+
+**Next exact-order research target:** **Caroline Guitar Company - Haymaker**.
+
+**Public data version:** **2026-09-19-prp1-batch-150**.
+
+
 ## PRP1 Batch 149 checkpoint — September 20, 2026
 
 Batch 149 advanced **10 consecutive exact-order research records**, all within **Carl Martin**: **DC-Drive; Greg Howe's Lick Box; Heavy Drive; Panama; PlexiRanger; PlexiTone; PlexiTone Lo-Gain; PlexiTone Single; Purple Moon; and The Fuzz**.
