@@ -1,5 +1,18 @@
 # The Dirt Archive - Research Breadcrumb
 
+## PRP1 Batch 144 checkpoint — September 19, 2026
+
+Batch 144 advanced **4 consecutive exact-order research records**: **Caline - CP-79 Wolf Pack / King Of Ga-Ga - Boost/Overdrive; CP-82 The Broadsword Bass Fuzz + Boost; CP-84 Honeycomb Tone - Overdrive; and CP-99 Medusa - Overdrive**.
+
+All four have individual Pedal Info research records synchronized across **PEDAL_INDEX.json**, **PEDAL_IMAGES.json**, and **PRP_TRACKER.csv**. Exact-model image source pages were captured for all four. The CP-82 source exposed a direct image URL, but the remote asset could not be downloaded reliably during this pass, so it was not promoted to a local catalog asset. All four remain **Picture: NEEDED**.
+
+**Verified tracker totals:** **3,821 total / 1,114 researched / 303 pictured / 357 complete / 3,463 incomplete / 814 researched-photo-pending**.
+
+**Next exact-order research target:** the first remaining Caline row after CP-99, then continuing in tracker order.
+
+**Public data version:** **2026-09-19-prp1-batch-144**.
+
+
 
 ## PRP1 Batch 143 checkpoint — September 19, 2026
 
