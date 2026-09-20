@@ -72,3 +72,6 @@ jobs:
           git add index.html pedal-detail.html research/PEDAL_INDEX.json
           git commit -m "Archive verified pedal photos locally"
           git push
+
+          # Maintenance kick: each operator-triggered main push starts the next
+          # bounded photo-recovery batch after the prior batch finishes.
