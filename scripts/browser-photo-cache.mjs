@@ -410,7 +410,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
               url: result.murl,
               sourcePage: result.purl,
               sourceScore: (trustedDatabase ? 125 : 105) + Math.min(70, fit.score),
-              searchResult: true
+              searchResult: true,
+              searchUrl: result.searchUrl
             });
             continue;
           }
@@ -432,7 +433,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
             url: result.murl,
             sourcePage: result.purl,
             sourceScore: 45 + Math.min(70, fit.score),
-            searchResult: true
+            searchResult: true,
+            searchUrl: result.searchUrl
           });
         } catch {}
       }
