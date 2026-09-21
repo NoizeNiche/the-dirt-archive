@@ -15,6 +15,8 @@ on:
       - 'assets/css/**'
       - 'scripts/deploy-browser-audit.js'
       - 'scripts/serve-static.js'
+      - 'scripts/live-photo-audit.js'
+      - 'scripts/validate-archive.py'
       - '.github/workflows/deploy-pages.yml'
   workflow_run:
     workflows:
