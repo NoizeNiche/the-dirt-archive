@@ -36,15 +36,16 @@ jobs:
       - name: Recover verified page images
         env:
           # Smaller committed batches keep recovery bounded and make progress visible.
-          PHOTO_BROWSER_CACHE_LIMIT: "100"
-          PHOTO_BROWSER_CACHE_CONCURRENCY: "10"
-          PHOTO_BROWSER_PAGE_TIMEOUT_MS: "8000"
-          PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "8000"
-          PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "6000"
-          PHOTO_BROWSER_CANDIDATE_LIMIT: "6"
-          PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "5"
+          PHOTO_BROWSER_CACHE_LIMIT: "50"
+          PHOTO_BROWSER_CACHE_CONCURRENCY: "15"
+          PHOTO_BROWSER_PAGE_TIMEOUT_MS: "6000"
+          PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "6000"
+          PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "5000"
+          PHOTO_BROWSER_CANDIDATE_LIMIT: "3"
+          PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "3"
           # Recovery follows exact PRP_TRACKER order; no builder is privileged.
           PHOTO_BROWSER_IMAGE_SEARCH: "true"
+          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "25000"
         run: node scripts/browser-photo-cache.mjs
 
       - name: Download and cache verified pedal images
