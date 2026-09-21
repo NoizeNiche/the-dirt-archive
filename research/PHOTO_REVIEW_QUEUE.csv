@@ -279,6 +279,8 @@ Biyang,DS-12 Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate fou
 Biyang,DS-3 Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Biyang,DS-7 Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Biyang,DS-9 Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Biyang,FZ-12 Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Biyang,FZ-7 Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Bizarre Engineering,Violine,,DEEP_REVIEW,1,no usable exact-model image candidate found
 BJFE / BJF Electronics,Arctic White Fuzz (AWF),,DEEP_REVIEW,1,no usable exact-model image candidate found
 BJFE / BJF Electronics,Big Purple Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -290,6 +292,8 @@ BJFE / BJF Electronics,Dyna Blue Distortion,,DEEP_REVIEW,1,no usable exact-model
 BJFE / BJF Electronics,Dyna Red Distortion (DRD),,DEEP_REVIEW,1,no usable exact-model image candidate found
 BJFE / BJF Electronics,Honey Bee Overdrive (HBOD),,DEEP_REVIEW,1,no usable exact-model image candidate found
 BJFE / BJF Electronics,Lingonberry Over Drive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+BJFE / BJF Electronics,Mighty Blue Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+BJFE / BJF Electronics,Mighty Red Distortion (MRD),,DEEP_REVIEW,1,no usable exact-model image candidate found
 Black Arts Toneworks,BAT,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Black Arts Toneworks,Black Forest,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Black Arts Toneworks,Black Sheep,,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -300,6 +304,8 @@ Black Arts Toneworks,FNORD,,DEEP_REVIEW,1,no usable exact-model image candidate 
 Black Arts Toneworks,LSTR,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Black Arts Toneworks,Pharaoh,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Black Arts Toneworks,Priestess,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Black Arts Toneworks,Quantum Mystic,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Black Arts Toneworks,Revelation,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Black CAT Amps,DJENTTONIC,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Black Cat Pedals,D-II Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Black Cat Pedals,D&S,,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -315,6 +321,10 @@ Blackhawk Amplifiers,Gandalf Fuzz,,DEEP_REVIEW,1,no usable exact-model image can
 Blackhawk Amplifiers,Mithrandir Octave Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Blackhawk Amplifiers,Morgul Drive MKII,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Blackhawk Amplifiers,Nazgûl MKII {Parallel} Distortion and Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Blackhawk Amplifiers,Pi π Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Blackhawk Amplifiers,Ramshead Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Blackhawk Amplifiers,Svarog Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Blackhawk Amplifiers,Triangle Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
 BlackOutEffectors,A Seriously Special Twosome,,DEEP_REVIEW,1,no usable exact-model image candidate found
 BlackOutEffectors,A Very Special Twosome,,DEEP_REVIEW,1,no usable exact-model image candidate found
 BlackOutEffectors,Blunderbuss Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -325,6 +335,8 @@ BlackOutEffectors,Fix'd Fuzz Deluxe,,DEEP_REVIEW,1,no usable exact-model image c
 BlackOutEffectors,FUBÄR,,DEEP_REVIEW,1,no usable exact-model image candidate found
 BlackOutEffectors,Fuzz Bear,,DEEP_REVIEW,1,no usable exact-model image candidate found
 BlackOutEffectors,Musket Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+BlackOutEffectors,None promoted as a standalone manufacturer-supported identity in this block,,DEEP_REVIEW,1,no usable exact-model image candidate found
+BlackOutEffectors,Twosome Dual Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Blackstar Amplification,HT-DRIVE,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Blackstar Amplification,HT-DUAL,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Blackstar Amplification,LT-DIST,,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -380,6 +392,9 @@ Brantone Electronics,Blue Meanie - Germanium Fuzz,,DEEP_REVIEW,1,no usable exact
 Brantone Electronics,Green Manalishi Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Brantone Electronics,Tonemaster Mk1.5 Germanium Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Brantone Electronics,ToneMaster Mk2 Germanium Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Brantone Electronics,Vintage Tweed Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Brantone Electronics,WEM Pepbox - Official Reissue,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Brantone Electronics,Woodstock - Silicon Fuzz Face,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Breakfast Audio,SLAB DISTORTION,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Breakfast Audio,WELTSCHMERZ FUZZ,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Brière Pedals,Distodrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -406,14 +421,22 @@ Budda,Om Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Buffalo FX,Carrera Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Buffalo FX,CVIII - BC108 Silicon Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Buffalo FX,Evolution - 4 Stage Overdrive/Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Buffalo FX,Fuzz Face Ge,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Buffalo FX,Fuzz Face Si,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Buffalo FX,M-1 Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
 BuGGFX Pedals,Raincoat,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Build Your Own Clone,250+,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Build Your Own Clone,855 Drive,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Build Your Own Clone,B.G. Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Build Your Own Clone,Bender Clone,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Build Your Own Clone,British Blues Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Bulinski Effect Pedals,Deluxe Velociraptor Diode Bass Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Bulinski Effect Pedals,Filth Foundry Guitar Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Bulinski Effect Pedals,Gnarly Bee,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Bulinski Effect Pedals,Hard 80 Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Bulinski Effect Pedals,RC Bass Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Bulinski Effect Pedals,Velociraptor Diode Bass Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Byron Amplification,Pai Mei Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
 BYW Audio,Blacky' Blower,,DEEP_REVIEW,1,no usable exact-model image candidate found
 BYW Audio,Gros Buzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
 C.Giant,OD-1 Warm Blues - Overdrive/Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -421,3 +444,50 @@ C.I.C,MOD-7 Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
 C.Q.O.,Super Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
 C14 Devices,Tone Chaser,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Cactus,MTL-5 Ultra Metal,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cactus,OVD-5 Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cajita Stompboxes,Bdi.ts with Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cajita Stompboxes,BRIT30 preamplificador tipo Vox AC30 overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cajita Stompboxes,Distorsión Marshall CR800 JCM + booster,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cajita Stompboxes,Distorsión RAT 6 6 modos,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Calangary Pedals,Kalagondang Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Calangary Pedals,Zaladin Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+California (by Eleca),CDT-1 Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+California (by Eleca),CHM-1 Heavy Metal,,DEEP_REVIEW,1,no usable exact-model image candidate found
+California (by Eleca),COD-1 Over Drive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+California Valveworks,The Bone Tender,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cameltone Electronics,Big Stuff,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cameltone Electronics,Freak Scene,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cameltone Electronics,The Nard,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Camuro,Baci Overdrive/Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Camuro,Caboolture Twin-Stage Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Camuro,FAT BABY Preamp/Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Camuro,Fuzz Rosso,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Canned Monsters,Frenzy Moss,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Canvas Analog Devices,The Metamorphosis,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Captain FX,Yeti Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Carcharias Effects,Uncle 125 Bass Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Carella Guitars,Leopard,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Carella Guitars,Overdistover,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Carella Guitars,Overtube,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Carl Martin,DC-Drive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Carl Martin,Greg Howe's Lick Box,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Carlin,Carlin Compressor/Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Carlsbro,Carlsbro Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Carlsbro,Carlsbro Suzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Carruthers,Dyna-Soar Lite,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Carvin,Carvin TO-1 Tube Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Carvin,Carvin UD-1 Ultra Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Case Study Effects Co.,Germanium Aspen Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Casey Gooby,Bag Of Dicks,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Casey Gooby,Organ Donor,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Casimir Effects Pedals,Entropy Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+CastleRock,CastleRock Bass Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+CastleRock,CastleRock Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+CastleRock,CastleRock Metal Driver,,DEEP_REVIEW,1,no usable exact-model image candidate found
+CastleRock,CastleRock Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caswell Modern Electronics (CME),Boost 90 Clean Drive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caswell Modern Electronics (CME),Shark Mouth - Bass Synth Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+CAT Sound,Classic,,DEEP_REVIEW,1,no usable exact-model image candidate found
+CAT Sound,Dancing - Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+CAT Sound,DriveCenter,,DEEP_REVIEW,1,no usable exact-model image candidate found
+CAT Sound,DriveCenter Bass,,DEEP_REVIEW,1,no usable exact-model image candidate found

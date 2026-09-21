@@ -5044,34 +5044,42 @@
   {
     "builder": "Big Knob Pedals",
     "pedal": "NYC Version 6",
-    "image": null,
+    "image": "./assets/pedals/big-knob-pedals/nyc-version-6/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.bigknobpedals.com/",
-    "research_record": "./research/pedals/PRP Batch 084/NYC Version 6.md"
+    "research_record": "./research/pedals/PRP Batch 084/NYC Version 6.md",
+    "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/NYC-17.jpg",
+    "image_source_page": "https://bigknobpedals.com/product/nyc-version-6/"
   },
   {
     "builder": "Big Knob Pedals",
     "pedal": "Octavius",
-    "image": null,
+    "image": "./assets/pedals/big-knob-pedals/octavius/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.bigknobpedals.com/",
-    "research_record": "./research/pedals/PRP Batch 084/Octavius.md"
+    "research_record": "./research/pedals/PRP Batch 084/Octavius.md",
+    "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/OCTAVIUS-18.jpg",
+    "image_source_page": "https://bigknobpedals.com/product/octavius-octave-fuzz/"
   },
   {
     "builder": "Big Knob Pedals",
     "pedal": "Pig Stomp",
-    "image": null,
+    "image": "./assets/pedals/big-knob-pedals/pig-stomp/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.bigknobpedals.com/",
-    "research_record": "./research/pedals/PRP Batch 084/Pig Stomp.md"
+    "research_record": "./research/pedals/PRP Batch 084/Pig Stomp.md",
+    "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/PIG-19.jpg",
+    "image_source_page": "https://bigknobpedals.com/product/pig-stomp/"
   },
   {
     "builder": "Big Knob Pedals",
     "pedal": "Pink Freud",
-    "image": null,
+    "image": "./assets/pedals/big-knob-pedals/pink-freud/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.bigknobpedals.com/",
-    "research_record": "./research/pedals/PRP Batch 084/Pink Freud.md"
+    "research_record": "./research/pedals/PRP Batch 084/Pink Freud.md",
+    "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/FREUD-11.jpg",
+    "image_source_page": "https://bigknobpedals.com/product/pink-freud/"
   },
   {
     "builder": "Big Knob Pedals",
@@ -5624,18 +5632,22 @@
   {
     "builder": "Biyang",
     "pedal": "Junky Drive",
-    "image": null,
+    "image": "./assets/pedals/biyang/junky-drive/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.hybridguitars.com/item.php?code=6787",
-    "research_record": "./research/pedals/PRP Batch 090/Junky Drive.md"
+    "research_record": "./research/pedals/PRP Batch 090/Junky Drive.md",
+    "image_source_url": "https://www.hybridguitars.com/img/6787/P_1.jpg",
+    "image_source_page": "https://www.hybridguitars.com/item.php?code=6787"
   },
   {
     "builder": "Biyang",
     "pedal": "Metal-End",
-    "image": null,
+    "image": "./assets/pedals/biyang/metal-end/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/metalend",
-    "research_record": "./research/pedals/PRP Batch 090/Metal-End.md"
+    "research_record": "./research/pedals/PRP Batch 090/Metal-End.md",
+    "image_source_url": "https://ae01.alicdn.com/kf/H9b941bd36be94183928f7af8e3b8fcbb5/Biyang-Tonefancier-Metal-End-King-Distortion-Electric-Guitar-Effect-Pedal-True-Bypass-Design-with-Gold-Pedal.jpg",
+    "image_source_page": "https://music2121.com/portal/product/biyang-tonefancier-metal-end-king-distortion-electric-guitar-effect-pedal/"
   },
   {
     "builder": "Biyang",
@@ -5788,10 +5800,12 @@
   {
     "builder": "BJFE / BJF Electronics",
     "pedal": "Little Green Wonder (LGW)",
-    "image": null,
+    "image": "./assets/pedals/bjfe-bjf-electronics/little-green-wonder-lgw/primary.webp",
     "source": "verified research source",
     "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
-    "research_record": "./research/pedals/PRP Batch 093/Little Green Wonder (LGW).md"
+    "research_record": "./research/pedals/PRP Batch 093/Little Green Wonder (LGW).md",
+    "image_source_url": "https://effektpedaler.dk/wp-content/uploads/bjfe-little-green-wonder.jpg",
+    "image_source_page": "https://effektpedaler.dk/en/product/bjfe-little-green-wonder/"
   },
   {
     "builder": "BJFE / BJF Electronics",
@@ -5812,10 +5826,12 @@
   {
     "builder": "BJFE / BJF Electronics",
     "pedal": "Model R",
-    "image": null,
+    "image": "./assets/pedals/bjfe-bjf-electronics/model-r/primary.webp",
     "source": "verified research source",
     "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
-    "research_record": "./research/pedals/PRP Batch 093/Model R.md"
+    "research_record": "./research/pedals/PRP Batch 093/Model R.md",
+    "image_source_url": "https://static.wixstatic.com/media/9ca72c_abf73ccec5a946dfb7db5277c5fb2778~mv2.jpg/v1/fill/w_980,h_1307,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9ca72c_abf73ccec5a946dfb7db5277c5fb2778~mv2.jpg",
+    "image_source_page": "https://www.primofxllc.com/product-page/bjfe-model-r"
   },
   {
     "builder": "BJFE / BJF Electronics",
@@ -5957,16 +5973,20 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "Rabid Mammal",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/rabid-mammal/primary.webp",
     "source_page": "https://www.blackartstoneworks.com/pedal/rabid-mammal/",
-    "research_record": "./research/pedals/PRP Batch 095/Rabid Mammal.md"
+    "research_record": "./research/pedals/PRP Batch 095/Rabid Mammal.md",
+    "image_source_url": "https://motorcityguitar.com/cdn/shop/products/Black_Arts_Toneworks_Rabidmammalv2_1024x.jpg?v=1620870095",
+    "image_source_page": "https://motorcityguitar.com/collections/effects-pedals/brand_black-arts-toneworks"
   },
   {
     "builder": "Black Arts Toneworks",
     "pedal": "Raw Heart OD",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/raw-heart-od/primary.webp",
     "source_page": "https://www.blackartstoneworks.com/pedal/raw-heart-od/",
-    "research_record": "./research/pedals/PRP Batch 095/Raw Heart OD.md"
+    "research_record": "./research/pedals/PRP Batch 095/Raw Heart OD.md",
+    "image_source_url": "http://joespedals.com/cdn/shop/products/BlackartsRawHeartii.jpg?v=1576255922",
+    "image_source_page": "https://joespedals.com/products/raw-heart-od"
   },
   {
     "builder": "Black Arts Toneworks",
@@ -6123,9 +6143,11 @@
   {
     "builder": "Black Cat Pedals",
     "pedal": "Wee Buzz",
-    "image": null,
+    "image": "./assets/pedals/black-cat-pedals/wee-buzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/blackcat/weebuzz",
-    "research_record": "./research/pedals/PRP Batch 099/Wee Buzz.md"
+    "research_record": "./research/pedals/PRP Batch 099/Wee Buzz.md",
+    "image_source_url": "https://briansguitars.com/cdn/shop/products/DSC_7072_800x.jpg?v=1603214480",
+    "image_source_page": "https://briansguitars.com/products/black-cat-wee-buzz"
   },
   {
     "builder": "Black Country Customs",
@@ -6456,9 +6478,11 @@
   {
     "builder": "BlackOutEffectors",
     "pedal": "Special Twosome Deluxe",
-    "image": null,
+    "image": "./assets/pedals/blackouteffectors/special-twosome-deluxe/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special/deluxe",
-    "research_record": "./research/pedals/PRP Batch 103/Special Twosome Deluxe.md"
+    "research_record": "./research/pedals/PRP Batch 103/Special Twosome Deluxe.md",
+    "image_source_url": "https://www.modulargrid.net/img/modcache/12621.f.jpg",
+    "image_source_page": "https://modulargrid.net/p/blackout-effectors-special-twosome-deluxe-blackout-effectors"
   },
   {
     "builder": "BlackOutEffectors",
@@ -8205,11 +8229,11 @@
   {
     "builder": "Buffalo FX",
     "pedal": "Germanium Fuzz",
-    "image": null,
+    "image": "./assets/pedals/buffalo-fx/germanium-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzz/germanium",
     "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-germanium-fuzz.md",
-    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/fuzz/germanium",
-    "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzz/germanium"
+    "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25732082&width=980",
+    "image_source_page": "https://www.premierguitar.com/gear/buffalo-fx-germanium-fuzz-pedal-review"
   },
   {
     "builder": "Buffalo FX",
@@ -8322,11 +8346,11 @@
   {
     "builder": "Build Your Own Clone",
     "pedal": "Blue Overdrive",
-    "image": null,
+    "image": "./assets/pedals/build-your-own-clone/blue-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/byoc",
     "research_record": "./research/pedals/PRP Batch 129/blue-overdrive.md",
-    "image_source_url": "https://www.effectsdatabase.com/model/byoc",
-    "image_source_page": "https://www.effectsdatabase.com/model/byoc"
+    "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/blueodpainted_large.jpg",
+    "image_source_page": "https://stompboxschematics.com/circuits/blue-overdrive-kit-by-build-your-own-clone-byoc/"
   },
   {
     "builder": "Build Your Own Clone",
@@ -8340,11 +8364,11 @@
   {
     "builder": "Build Your Own Clone",
     "pedal": "Classic Overdrive",
-    "image": null,
+    "image": "./assets/pedals/build-your-own-clone/classic-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/byoc",
     "research_record": "./research/pedals/PRP Batch 129/classic-overdrive.md",
-    "image_source_url": "https://www.effectsdatabase.com/model/byoc",
-    "image_source_page": "https://www.effectsdatabase.com/model/byoc"
+    "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/classicodgreen_large.jpg",
+    "image_source_page": "https://stompboxschematics.com/circuits/classic-overdrive-by-build-your-own-clone-byoc/"
   },
   {
     "builder": "Build Your Own Clone",
@@ -8728,26 +8752,29 @@
   {
     "builder": "Byron Amplification",
     "pedal": "Phattie Overdrive",
-    "image": null,
+    "image": "./assets/pedals/byron-amplification/phattie-overdrive/primary.webp",
     "source_page": "https://byronamplification.com/pedals",
     "research_record": "./research/pedals/PRP Batch 134/phattie-overdrive.md",
-    "image_source_page": "https://byronamplification.com/pedals"
+    "image_source_page": "https://byronamplification.com/pedals",
+    "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
   },
   {
     "builder": "Byron Amplification",
     "pedal": "Poder Del Alma Fuzz",
-    "image": null,
+    "image": "./assets/pedals/byron-amplification/poder-del-alma-fuzz/primary.webp",
     "source_page": "https://byronamplification.com/pedals",
     "research_record": "./research/pedals/PRP Batch 134/poder-del-alma-fuzz.md",
-    "image_source_page": "https://byronamplification.com/pedals"
+    "image_source_page": "https://byronamplification.com/pedals",
+    "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
   },
   {
     "builder": "Byron Amplification",
     "pedal": "POW! Boost/Drive and Fuzz",
-    "image": null,
+    "image": "./assets/pedals/byron-amplification/pow-boost-drive-and-fuzz/primary.webp",
     "source_page": "https://byronamplification.com/pedals",
     "research_record": "./research/pedals/PRP Batch 134/pow-boost-drive-and-fuzz.md",
-    "image_source_page": "https://byronamplification.com/pedals"
+    "image_source_page": "https://byronamplification.com/pedals",
+    "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
   },
   {
     "builder": "Byron Amplification",
@@ -9009,34 +9036,38 @@
   {
     "builder": "Caline",
     "pedal": "CP-11 Puffer Fuzz",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-11-puffer-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp11",
     "research_record": "./research/pedals/PRP Batch 140/cp-11-puffer-fuzz.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp11"
+    "image_source_page": "https://www.ecrater.com/p/37609215/caline-cp-11-puffer-fuzz-guitar",
+    "image_source_url": "https://s.ecrater.com/stores/447845/5f9523365cd64_447845b.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "CP-12 Pure Sky",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-12-pure-sky/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp12",
     "research_record": "./research/pedals/PRP Batch 140/cp-12-pure-sky.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp12"
+    "image_source_page": "http://www.calinemusic.com/index.php?m=home&c=View&a=index&aid=80",
+    "image_source_url": "http://www.calinemusic.com/uploads/allimg/20230303/1-230303000HI51.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "CP-15 Tantrum / Heavy Metal",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-15-tantrum-heavy-metal/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp15",
     "research_record": "./research/pedals/PRP Batch 140/cp-15-tantrum-heavy-metal.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp15"
+    "image_source_page": "https://www.ebay.com/itm/183833211804",
+    "image_source_url": "https://i.ebayimg.com/images/g/IA0AAOSwOq1c80D0/s-l960.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "CP-18 Orange Burst / Overdrive",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-18-orange-burst-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp18",
     "research_record": "./research/pedals/PRP Batch 140/cp-18-orange-burst-overdrive.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp18"
+    "image_source_page": "https://verdana.guitarpusher.com/products/caline-cp-18-orange-burst-overdrive",
+    "image_source_url": "https://verdana.guitarpusher.com/cdn/shop/products/CP-18-4.jpg?v=1703755837&width=1946"
   },
   {
     "builder": "Caline",
@@ -9521,10 +9552,11 @@
   {
     "builder": "Canned Monsters",
     "pedal": "Moonbark Overdrive MK2",
-    "image": null,
+    "image": "./assets/pedals/canned-monsters/moonbark-overdrive-mk2/primary.webp",
     "source_page": "https://cannedmonsters.com/products/Moonbark-Overdrive-MK2-p687243111",
     "research_record": "./research/pedals/PRP Batch 148/canned-monsters-moonbark-overdrive-mk2.md",
-    "image_source_page": "https://cannedmonsters.com/products/Moonbark-Overdrive-MK2-p687243111"
+    "image_source_page": "https://cannedmonsters.com/products/Moonbark-Overdrive-MK2-p687243111",
+    "image_source_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/104215928/4493304005.jpg"
   },
   {
     "builder": "Canvas Analog Devices",
@@ -9553,10 +9585,11 @@
   {
     "builder": "Carella Guitars",
     "pedal": "Kung Fuzz",
-    "image": null,
+    "image": "./assets/pedals/carella-guitars/kung-fuzz/primary.webp",
     "source_page": "https://www.accordo.it/article/viewPub/85000",
     "research_record": "./research/pedals/PRP Batch 148/carella-guitars-kung-fuzz.md",
-    "image_source_page": "https://www.accordo.it/article/viewPub/85000"
+    "image_source_page": "https://www.accordo.it/article/viewPub/85000",
+    "image_source_url": "https://www.accordo.it/cloud-assets/177415/770x353/carella-g.jpg"
   },
   {
     "builder": "Carella Guitars",
@@ -9593,10 +9626,11 @@
   {
     "builder": "Carl Martin",
     "pedal": "AC-Tone Single",
-    "image": null,
+    "image": "./assets/pedals/carl-martin/ac-tone-single/primary.webp",
     "source_page": "https://carlmartin.com/products/ac-tone-single/",
     "research_record": "./research/pedals/PRP Batch 148/carl-martin-ac-tone-single.md",
-    "image_source_page": "https://carlmartin.com/products/ac-tone-single/"
+    "image_source_page": "https://carlmartin.com/products/ac-tone-single/",
+    "image_source_url": "https://carlmartin.com/wp-content/uploads/2026/01/ac-single-featured.jpg"
   },
   {
     "builder": "Carl Martin",
@@ -9617,10 +9651,11 @@
   {
     "builder": "Carl Martin",
     "pedal": "Heavy Drive",
-    "image": null,
+    "image": "./assets/pedals/carl-martin/heavy-drive/primary.webp",
     "source_page": "https://carlmartin.com/products/heavy-drive/",
     "research_record": "./research/pedals/PRP Batch 149/carl-martin-heavy-drive.md",
-    "image_source_page": "https://carlmartin.com/products/heavy-drive/"
+    "image_source_page": "https://carlmartin.com/products/heavy-drive/",
+    "image_source_url": "https://carlmartin.com/wp-content/uploads/2026/02/51112_1.jpg"
   },
   {
     "builder": "Carl Martin",
@@ -9705,10 +9740,11 @@
   {
     "builder": "Carlsbro",
     "pedal": "Carlsbro Fuzz-Tone",
-    "image": null,
+    "image": "./assets/pedals/carlsbro/carlsbro-fuzz-tone/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/carlsbro/fuzztone",
     "research_record": "./research/pedals/PRP Batch 150/carlsbro-carlsbro-fuzz-tone.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/carlsbro/fuzztone"
+    "image_source_page": "https://fuzzboxes.org/carlsbrofuzztone",
+    "image_source_url": "https://fuzzboxes.org/wp-content/uploads/2021/05/Colorsound-Carlsbro-1-709x1024.webp"
   },
   {
     "builder": "Carlsbro",
@@ -9968,29 +10004,29 @@
   {
     "builder": "CAST Engineering",
     "pedal": "Gypsy Haze",
-    "image": null,
+    "image": "./assets/pedals/cast-engineering/gypsy-haze/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/castengineering",
     "research_record": "./research/pedals/PRP Batch 153/cast-engineering-gypsy-haze.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/castengineering",
-    "image_source_url": "https://www.effectsdatabase.com/model/castengineering"
+    "image_source_page": "https://www.chicagomusicexchange.com/products/cast-engineering-gypsy-haze-octafuzz-pedal-66579",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/0343/4368/2183/products/cast-engineering-effects-and-pedals-fuzz-cast-engineering-gypsy-haze-octafuzz-pedal-cegypsy-17215099764871_720x720@3x.jpg?v=1649658737"
   },
   {
     "builder": "CAST Engineering",
     "pedal": "Mike Zito Peace Drive",
-    "image": null,
+    "image": "./assets/pedals/cast-engineering/mike-zito-peace-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/castengineering/peacedrive",
     "research_record": "./research/pedals/PRP Batch 153/cast-engineering-mike-zito-peace-drive.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/castengineering/peacedrive",
-    "image_source_url": "https://www.effectsdatabase.com/model/castengineering/peacedrive"
+    "image_source_page": "https://www.premierguitar.com/cast-engineering-releases-the-mike-zito-peace-drive",
+    "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25776445&width=980&quality=70"
   },
   {
     "builder": "CAST Engineering",
     "pedal": "Texas Flood",
-    "image": null,
+    "image": "./assets/pedals/cast-engineering/texas-flood/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/castengineering/texasflood",
     "research_record": "./research/pedals/PRP Batch 153/cast-engineering-texas-flood.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/castengineering/texasflood",
-    "image_source_url": "https://www.effectsdatabase.com/model/castengineering/texasflood"
+    "image_source_page": "https://www.pitbullaudio.com/cast-engineering-texas-flood-overdrive-guitar-effects-pedal.html",
+    "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/c/e/ce-txfod.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=800"
   },
   {
     "builder": "CastleRock",
