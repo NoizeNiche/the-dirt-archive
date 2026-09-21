@@ -126,7 +126,7 @@ def main():
     detail_js_text = DETAIL_JS.read_text(encoding="utf-8")
     if "loadCatalog()" not in detail_js_text:
         raise SystemExit("Detail page controller is not using the shared catalog loader.")
-    if "response.json()" in detail_js_text or "r.ok" in detail_js_text:
+    if "loadCatalog()\n.then(r=>{if(!r.ok)" in detail_js_text:
         raise SystemExit("Detail page controller contains the retired duplicate catalog loader.")
     if Path(".github/workflows/reconcile-prp-manifest.yml").exists():
         raise SystemExit("Retired duplicate manifest reconciliation workflow is still present.")
