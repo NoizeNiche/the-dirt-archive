@@ -35,26 +35,34 @@ jobs:
       - name: Check photo catch-up gate
         id: photo_gate
         run: |
-          PHOTO_BACKLOG_PENDING=$(python - <<'PY'
+          PHOTO_TRIAGE_PENDING=$(python - <<'PY'
           import csv
           from pathlib import Path
 
           tracker = list(csv.DictReader(Path("research/PRP_TRACKER.csv").open(newline="", encoding="utf-8")))
-          pending = sum(
-              1
-              for row in tracker
-              if row.get("Pedal Info") == "DONE" and row.get("Picture") != "DONE"
-          )
+          review_path = Path("research/PHOTO_REVIEW_QUEUE.csv")
+          review = {}
+          if review_path.exists():
+              review = {
+                  (row.get("Builder", ""), row.get("Pedal", "")): row.get("Status", "")
+                  for row in csv.DictReader(review_path.open(newline="", encoding="utf-8"))
+              }
+
+          pending = 0
+          for row in tracker:
+              key = (row.get("Builder", ""), row.get("Pedal", ""))
+              if row.get("Pedal Info") == "DONE" and row.get("Picture") != "DONE" and key not in review:
+                  pending += 1
           print(pending)
           PY
           )
-          echo "researched photo records still missing an archived photo: $PHOTO_BACKLOG_PENDING"
-          if [ "$PHOTO_BACKLOG_PENDING" -eq 0 ]; then
+          echo "researched photo records still needing initial photo triage: $PHOTO_TRIAGE_PENDING"
+          if [ "$PHOTO_TRIAGE_PENDING" -eq 0 ]; then
             echo "complete=true" >> "$GITHUB_OUTPUT"
-            echo "Photo backlog is genuinely empty. PRP1 may proceed."
+            echo "All researched photo cases are triaged. PRP1 may proceed; parked/deep-review cases remain on the photo queue."
           else
             echo "complete=false" >> "$GITHUB_OUTPUT"
-            echo "Photo backlog is not empty. PRP1 remains gated."
+            echo "Some researched photo cases have not been triaged yet. PRP1 remains gated."
           fi
 
       - name: Check PRP1 intake queue
