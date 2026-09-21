@@ -154,7 +154,7 @@ def main():
     if "location.replace('./pedal-detail.html'+location.search)" not in LEGACY.read_text(encoding="utf-8"):
         raise SystemExit("Legacy pedal.html redirect is missing.")
 
-    for js in (CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT):
+    for js in (CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER):
         result = subprocess.run(["node", "--check", str(js)], capture_output=True, text=True)
         if result.returncode:
             raise SystemExit(f"JavaScript syntax check failed for {js.relative_to(ROOT)}:\n{result.stderr}")
