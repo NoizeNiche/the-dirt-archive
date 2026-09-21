@@ -1,5 +1,5 @@
 {
-  "version": "data-7c37e5e1a91d",
+  "version": "data-4d3f4ebc6ff3",
   "count": 3819,
   "pedals": [
     {
@@ -3677,9 +3677,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/audio-surplus-effects/radio-trash-unrealistic-overdrive/primary.webp",
       "source_page": "https://audiosurpluseffects.bigcartel.com/product/radio-trash-unrealistic-overdrive",
-      "research_record": "./research/pedals/Audio Surplus Effects/Radio Trash Unrealistic Overdrive.md"
+      "research_record": "./research/pedals/Audio Surplus Effects/Radio Trash Unrealistic Overdrive.md",
+      "image_source_url": "https://assets.bigcartel.com/product_images/416669751/Radio+Trash+Front+Facing.jpg?auto=format&fit=max&h=1200&w=1200",
+      "image_source_page": "https://audiosurpluseffects.bigcartel.com/product/radio-trash-unrealistic-overdrive"
     },
     {
       "company": "Audio-Phonic",
@@ -3908,9 +3910,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/aural-dream/warm-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/auraldream/drive/warm",
-      "research_record": "./research/pedals/Aural Dream/Warm Drive.md"
+      "research_record": "./research/pedals/Aural Dream/Warm Drive.md",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--U7p-u12L--/quality=medium-low,height=800,width=800,fit=contain/za5ehlzng7bmzsbkfirq.jpg",
+      "image_source_page": "https://reverb.com/item/52805436-aural-dream-warm-drive"
     },
     {
       "company": "Auralux",
@@ -4792,9 +4796,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/baltimore-sonic-research-institute/fzz/primary.webp",
       "source_page": "https://www.bsriaudio.com/the-pasture",
-      "research_record": "./research/pedals/Baltimore Sonic Research Institute/FZZ.md"
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/FZZ.md",
+      "image_source_url": "https://assets.bigcartel.com/account_images/3985671/BSRI+Logo.png?auto=format&fit=max&h=1200&w=1200",
+      "image_source_page": "https://www.bsriaudio.com/the-pasture"
     },
     {
       "company": "Baltimore Sonic Research Institute",
@@ -4826,9 +4832,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/baltimore-sonic-research-institute/impossible-colors-ii-transformer-coupled-fuzz/primary.webp",
       "source_page": "https://www.bsriaudio.com/product/impossible-colors-v2-transformer-coupled-fuzz",
-      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Impossible Colors II Transformer Coupled Fuzz.md"
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Impossible Colors II Transformer Coupled Fuzz.md",
+      "image_source_url": "https://assets.bigcartel.com/product_images/426182724/IMG_3206.jpg?auto=format&fit=max&h=1200&w=1200",
+      "image_source_page": "https://www.bsriaudio.com/product/impossible-colors-v2-transformer-coupled-fuzz"
     },
     {
       "company": "Baltimore Sonic Research Institute",
@@ -5145,9 +5153,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/bardic-audio-devices/hm-demon/primary.webp",
       "source_page": "https://bardicaudiodevices.bigcartel.com/product/hm-demon",
-      "research_record": "./research/pedals/Bardic Audio Devices/HM Demon.md"
+      "research_record": "./research/pedals/Bardic Audio Devices/HM Demon.md",
+      "image_source_url": "https://assets.bigcartel.com/product_images/359082811/PXL_20230417_210729466~2.jpg?auto=format&fit=max&h=1200&w=1200",
+      "image_source_page": "https://bardicaudiodevices.bigcartel.com/product/hm-demon"
     },
     {
       "company": "Bardic Audio Devices",
@@ -5157,9 +5167,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bardic-audio-devices/the-beast/primary.webp",
       "source_page": "https://delicious-audio.com/bardic-audio-devices-the-beast-distortion-fuzz/",
-      "research_record": "./research/pedals/Bardic Audio Devices/The Beast.md"
+      "research_record": "./research/pedals/Bardic Audio Devices/The Beast.md",
+      "image_source_url": "https://delicious-audio.com/wp-content/uploads//2021/03/Bardic.jpg",
+      "image_source_page": "https://delicious-audio.com/bardic-audio-devices-the-beast-distortion-fuzz/"
     },
     {
       "company": "Barge Concepts",
@@ -5273,9 +5285,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/baroni-lab/warp-drive/primary.webp",
       "source_page": "https://baroni-lab.com/shop/pedals/overdrive/warp-drive/",
-      "research_record": "./research/pedals/Baroni Lab/Warp Drive.md"
+      "research_record": "./research/pedals/Baroni Lab/Warp Drive.md",
+      "image_source_url": "http://baroni-lab.com/wp-content/uploads/2017/03/02_PEDAL_03_OVERDRIVE_A01_1_1_6.jpg",
+      "image_source_page": "https://baroni-lab.com/shop/pedals/overdrive/warp-drive/"
     },
     {
       "company": "Basic Audio",
@@ -5516,9 +5530,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/basic-audio/overtdrive/primary.webp",
       "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt",
-      "research_record": "./research/pedals/Basic Audio/Overtdrive.md"
+      "research_record": "./research/pedals/Basic Audio/Overtdrive.md",
+      "image_source_url": "http://static1.squarespace.com/static/5da9e97016ddf940acffa2d3/5dd5c3ae8bcf197a9a40265f/5dd75dade8d3bc5dd45c2aea/1579492275286/?format=1500w",
+      "image_source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt"
     },
     {
       "company": "Basic Audio",
