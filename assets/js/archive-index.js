@@ -104,13 +104,21 @@ function renderBuilders(){
 }
 
 function render(){
-  if(selectedBuilder&&!items.some(x=>x.company===selectedBuilder&&typeMatches(x)))selectedBuilder='';
+  let normalized=false;
+  if(selectedBuilder&&!items.some(x=>x.company===selectedBuilder&&typeMatches(x))){
+    selectedBuilder='';
+    normalized=true;
+  }
   renderTypeMenu();
   renderBuilders();
 
   const visible=filteredItems();
   const totalPages=Math.max(1,Math.ceil(visible.length/PAGE_SIZE));
-  currentPage=Math.min(currentPage,totalPages);
+  const normalizedPage=Math.min(currentPage,totalPages);
+  if(normalizedPage!==currentPage){
+    currentPage=normalizedPage;
+    normalized=true;
+  }
   const pageStart=(currentPage-1)*PAGE_SIZE;
   const pageItems=visible.slice(pageStart,pageStart+PAGE_SIZE);
 
@@ -152,6 +160,7 @@ function render(){
     : '<div class="empty"><strong>No pedals found</strong>Try another search, dirt type, or builder.</div>';
 
   renderPagination(totalPages);
+  if(normalized)syncUrl(true);
 }
 
 $('search').value=q;
