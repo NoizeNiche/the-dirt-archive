@@ -196,31 +196,43 @@ async function fetchSearchPageIdentity(page, url) {
   }
 }
 
-async function imageSearchCandidates(page, entry) {
+async function imageSearchCandidates(page, entry, deepReview = false) {
   if (!IMAGE_SEARCH_ENABLED) return [];
-  const query = `${entry.company} ${entry.pedal} guitar pedal`;
-  const searchUrl = 'https://www.bing.com/images/search?form=HDRSC2&q=' + encodeURIComponent(query);
-  try {
-    await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: SEARCH_TIMEOUT });
-    await page.waitForTimeout(200);
-    return await page.evaluate(() => {
-      const out = [];
-      for (const el of document.querySelectorAll('a.iusc')) {
-        const raw = el.getAttribute('m');
-        if (!raw) continue;
-        try {
-          const m = JSON.parse(raw);
-          if (m.murl) out.push({ murl: m.murl, purl: m.purl || '', title: m.t || '' });
-        } catch {}
+  const queries = deepReview
+    ? [
+        \`"\${entry.company}" "\${entry.pedal}" guitar pedal\`,
+        \`"\${entry.pedal}" "\${entry.company}" pedal\`,
+        \`"\${entry.pedal}" "\${entry.company}"\`
+      ]
+    : [\`\${entry.company} \${entry.pedal} guitar pedal\`];
+
+  const merged = new Map();
+  for (const query of queries) {
+    const searchUrl = 'https://www.bing.com/images/search?form=HDRSC2&q=' + encodeURIComponent(query);
+    try {
+      await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: SEARCH_TIMEOUT });
+      await page.waitForTimeout(200);
+      const results = await page.evaluate(() => {
+        const out = [];
+        for (const el of document.querySelectorAll('a.iusc')) {
+          const raw = el.getAttribute('m');
+          if (!raw) continue;
+          try {
+            const m = JSON.parse(raw);
+            if (m.murl) out.push({ murl: m.murl, purl: m.purl || '', title: m.t || '' });
+          } catch {}
+        }
+        return out;
+      });
+      for (const result of results) {
+        if (!merged.has(result.murl)) merged.set(result.murl, result);
       }
-      return out;
-    });
-  } catch {
-    return [];
+    } catch {}
   }
+  return [...merged.values()];
 }
 
-async function recoverEntry(browser, entry) {
+async function recoverEntry(browser, entry, deepReview = false) {
   const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
   const deadline = setTimeout(() => {
     // A single stubborn source must not occupy a browser worker indefinitely.
@@ -339,7 +351,7 @@ async function recoverEntry(browser, entry) {
     // Search is a fallback, not the primary source. Verify the result page identity
     // before accepting its image so a visually similar pedal cannot slip through.
     if (!selectedResult && IMAGE_SEARCH_ENABLED) {
-      const searchResults = await imageSearchCandidates(page, entry);
+      const searchResults = await imageSearchCandidates(page, entry, deepReview);
       const verifiedSearch = [];
       for (const result of searchResults.slice(0, SEARCH_VERIFY_LIMIT)) {
         const fit = imageSearchScore(entry, result);
@@ -419,7 +431,7 @@ async function recoverEntry(browser, entry) {
       // A normal backlog pass gets one clean attempt per unresolved record.
       // Failed records are parked for a deeper review pass instead of being
       // hammered again on every cache run.
-      if (!TARGET_BUILDER && !TARGET_PEDAL && review?.Status === 'DEEP_REVIEW') return false;
+      if (!TARGET_BUILDER && !TARGET_PEDAL && review?.Status === 'DEEP_REVIEW' && String(process.env.PHOTO_BROWSER_DEEP_REVIEW || 'true').toLowerCase() === 'false') return false;
       const canonical = target(x);
       // Bulk catch-up is driven by the canonical local archive state, not by
       // whether an old/external image URL happens to be present in the catalog.
@@ -433,6 +445,7 @@ async function recoverEntry(browser, entry) {
         const order = meta?.order;
         let value = Number.isFinite(order) ? -order : -100000000;
         if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) value += 100;
+        if (review?.Status === 'DEEP_REVIEW') value -= 40;
         if (PRIORITY_COMPANY && String(entry.company || '').trim().toLowerCase() === PRIORITY_COMPANY) value += 100000;
         return value;
       };
@@ -475,7 +488,8 @@ async function recoverEntry(browser, entry) {
     attempted += batch.length;
     const results = await Promise.all(batch.map(async entry => {
       try {
-        const result = await recoverEntry(browser, entry);
+        const review = reviewByKey.get(key(entry.company, entry.pedal));
+        const result = await recoverEntry(browser, entry, review?.Status === 'DEEP_REVIEW');
         return { entry, result };
       } catch (err) {
         return { entry, error: err };
