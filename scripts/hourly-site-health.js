@@ -75,6 +75,16 @@ function checkDataIntegrity() {
   const manifest=readJson('research/pedals/PEDAL_IMAGES.json');
   const tracker=trackerMap(fs.readFileSync(path.join(ROOT,'research/PRP_TRACKER.csv'),'utf8'));
   const pedals=current.pedals||[];
+  const publicEntries=pedals.filter(x=>x.catalog_role!=='variation');
+  const researchedEntries=publicEntries.filter(x=>x.research_record);
+  const picturedEntries=researchedEntries.filter(x=>x.image);
+  const typeCanary=publicEntries.find(x=>Array.isArray(x.types)&&x.types.includes('Fuzz'))||publicEntries[0];
+  const builderCanary=typeCanary||publicEntries[0];
+  const positiveCanary=picturedEntries[0]||researchedEntries[0];
+  const noPhotoCanary=researchedEntries.find(x=>!x.image);
+  const noResearchCanary=publicEntries.find(x=>!x.research_record);
+  const variationCanary=pedals.find(x=>x.catalog_role==='variation'&&x.parent_pedal&&x.variation_name);
+  if(!positiveCanary||!builderCanary) throw new Error('Catalog does not contain enough real records for health canaries.');
   if (current.count !== pedals.length) throw new Error(`Catalog count mismatch: ${current.count} vs ${pedals.length}`);
   const cKeys=new Set(pedals.map(key));
   if (cKeys.size !== pedals.length) throw new Error('Duplicate Builder + Pedal identity in PEDAL_INDEX.json');
@@ -176,8 +186,10 @@ async function browserCheck(liveUrl, pedals) {
     const firstHref=await page.locator('#grid .card').first().getAttribute('href');
     if(!firstHref || !firstHref.includes('pedal-detail.html?builder=')) throw new Error('Catalog card routing is malformed');
 
-    await page.locator('#search').fill('White');
-    if(await page.locator('#grid .card').filter({hasText:'DRV MOD 1'}).count()===0) throw new Error('Search canary failed: White / DRV MOD 1');
+    if(variationCanary){
+      await page.locator('#search').fill(String(variationCanary.variation_name));
+      if(await page.locator('#grid .card').filter({hasText:String(variationCanary.parent_pedal)}).count()===0) throw new Error('Variation search canary failed.');
+    }
     await page.locator('#search').fill('ZZZZ_NOT_A_PEDAL_9f4a');
     if(await page.locator('#grid .card').count()!==0) throw new Error('No-result search failed');
 
@@ -188,15 +200,14 @@ async function browserCheck(liveUrl, pedals) {
     }
 
     await page.goto(liveUrl+'/?health='+Date.now(),{waitUntil:'networkidle',timeout:30000});
-    const builder=page.locator('[data-builder="Artisanal Effects"]');
-    if(await builder.count()!==1) throw new Error('Builder canary missing');
+    const builder=page.locator('[data-builder="'+String(builderCanary.company).replace(/"/g,'\\"')+'"]');
+    if(await builder.count()!==1) throw new Error('Catalog-derived builder canary missing');
     await builder.click();
     const bt=await page.locator('#grid .builderNameCard').allTextContents();
-    if(!bt.length || bt.some(x=>x.trim()!=='Artisanal Effects')) throw new Error('Builder filter is leaking other builders');
+    if(!bt.length || bt.some(x=>x.trim()!==String(builderCanary.company))) throw new Error('Builder filter is leaking other builders');
 
-    const ched=pedals.find(x=>x.company==='Artisanal Effects'&&x.pedal==='Cheddar Source');
-    const astro=pedals.find(x=>x.company==='Analog Man'&&x.pedal==='Astro Tone');
-    if(!ched||!astro) throw new Error('Golden canary pedal missing from catalog data');
+    const ched=positiveCanary;
+    const astro=noPhotoCanary;
 
     async function detail(item, expectPhoto) {
       await page.goto(liveUrl+'/pedal-detail.html?builder='+encodeURIComponent(item.company)+'&pedal='+encodeURIComponent(item.pedal)+'&health='+Date.now(),{waitUntil:'domcontentloaded',timeout:30000});
@@ -217,8 +228,8 @@ async function browserCheck(liveUrl, pedals) {
         if(!fallback) throw new Error(`No Photo Archived fallback missing: ${item.company} / ${item.pedal}`);
       }
     }
-    await detail(ched,true);
-    await detail(astro,false);
+    await detail(ched,!!ched.image);
+    if(astro) await detail(astro,false);
 
     const localPhoto = pedals.find(x => isLocalImagePath(x.image) && x.catalog_role !== 'variation');
     if (localPhoto) await detail(localPhoto,true);

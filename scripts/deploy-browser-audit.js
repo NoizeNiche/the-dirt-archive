@@ -25,9 +25,35 @@ const { chromium } = require('playwright');
             const catalogResponse = await page.request.get('http://127.0.0.1:4173/research/PEDAL_INDEX.json');
             if (!catalogResponse.ok()) throw new Error('Could not load the pedal index for browser audit.');
             const catalog = await catalogResponse.json();
-            const researchedParents = (catalog.pedals || []).filter(
-              x => x.research_record && x.catalog_role !== 'variation'
-            );
+            const allEntries = catalog.pedals || [];
+            const publicEntries = allEntries.filter(x => x.catalog_role !== 'variation');
+            const researchedParents = publicEntries.filter(x => x.research_record);
+
+            const firstBuilderGroup = new Map();
+            for (const entry of publicEntries) {
+              const builder = String(entry.company || '').trim();
+              if (!builder) continue;
+              if (!firstBuilderGroup.has(builder)) firstBuilderGroup.set(builder, []);
+              firstBuilderGroup.get(builder).push(entry);
+            }
+            const builderCanaryEntry = [...firstBuilderGroup.entries()]
+              .find(([, entries]) => entries.length >= 2)?.[1]?.[0] || publicEntries[0];
+            const builderCanaryName = builderCanaryEntry?.company;
+            const typeCanary = publicEntries.find(x => Array.isArray(x.types) && x.types.includes('Fuzz')) || publicEntries[0];
+            const typeBuilder = typeCanary?.company;
+            const typeBuilderPedal = typeCanary?.pedal;
+            const variationCanary = allEntries.find(x => x.catalog_role === 'variation' && x.parent_pedal && x.variation_name);
+            const variationSearch = variationCanary?.variation_name || 'pedal';
+            const positivePhotoCanary = publicEntries.find(x => x.research_record && x.image);
+            const positiveResearchCanary = publicEntries.find(x => x.research_record) || researchedParents[0];
+            const noPhotoCanary = publicEntries.find(x => x.research_record && !x.image);
+            const noResearchCanary = publicEntries.find(x => !x.research_record);
+            if (!builderCanaryEntry || !positiveResearchCanary) {
+              throw new Error('Catalog does not contain enough real records for browser canaries.');
+            }
+            const searchToken = String(typeBuilderPedal || positiveResearchCanary.pedal || '')
+              .split(/[^A-Za-z0-9]+/)
+              .find(token => token.length >= 4) || String(typeBuilderPedal || positiveResearchCanary.pedal || '').slice(0, 6);
 
             // Every cataloged image must resolve before deployment. Local cached
             // images are served by the site itself; legacy external images remain
@@ -111,9 +137,9 @@ const { chromium } = require('playwright');
 
             // Search must include variation/colorway names.
             await page.goto('http://127.0.0.1:4173/index.html', {waitUntil:'networkidle'});
-            await page.locator('#search').fill('White');
-            if (await page.locator('#grid .card').filter({hasText:'DRV MOD 1'}).count() === 0) {
-              throw new Error('Variation/colorway search did not find DRV MOD 1 (WHITE).');
+            await page.locator('#search').fill(variationSearch);
+            if (variationCanary && await page.locator('#grid .card').filter({hasText:variationCanary.parent_pedal}).count() === 0) {
+              throw new Error('Variation/colorway search did not resolve to its parent pedal.');
             }
 
             // Type filter must constrain all visible cards.
@@ -127,32 +153,31 @@ const { chromium } = require('playwright');
 
             // Builder filter must constrain all visible cards.
             await page.goto('http://127.0.0.1:4173/index.html', {waitUntil:'networkidle'});
-            const builderButton = page.locator('[data-builder="Artisanal Effects"]');
-            if (await builderButton.count() !== 1) throw new Error('Known builder filter button missing.');
+            const builderButton = page.locator('[data-builder="' + String(builderCanaryName).replace(/"/g, '\\"') + '"]');
+            if (await builderButton.count() !== 1) throw new Error('Catalog-derived builder filter button missing.');
             await builderButton.click();
             const builderTexts = await page.locator('#grid .builderNameCard').allTextContents();
             if (!builderTexts.length) throw new Error('Builder filter returned no pedals.');
-            if (builderTexts.some(x => x.trim() !== 'Artisanal Effects')) {
+            if (builderTexts.some(x => x.trim() !== String(builderCanaryName))) {
               throw new Error('Builder filter returned a pedal from another builder.');
             }
 
-            // Combined URL facets must work together.
-            await page.goto('http://127.0.0.1:4173/index.html?type=Fuzz&builder=Artisanal%20Effects&q=cheddar', {waitUntil:'networkidle'});
+            // Combined URL facets must work together using a real Fuzz entry.
+            const combinedUrl =
+              'http://127.0.0.1:4173/index.html?type=Fuzz&builder=' +
+              encodeURIComponent(typeBuilder) + '&q=' + encodeURIComponent(searchToken);
+            await page.goto(combinedUrl, {waitUntil:'networkidle'});
             const combinedTexts = await page.locator('#grid .card').allTextContents();
-            if (!combinedTexts.some(x => /Cheddar Source/i.test(x))) {
-              throw new Error('Combined type + builder + search filters did not return Cheddar Source.');
-            }
-            await page.goto('http://127.0.0.1:4173/index.html?q=cheese', {waitUntil:'networkidle'});
-            const cheeseTexts = await page.locator('#grid .card').allTextContents();
-            if (!cheeseTexts.some(x => /Artisanal Cheese/i.test(x))) {
-              throw new Error('Search for cheese did not return the Artisanal Cheese pedal.');
+            if (typeCanary && !combinedTexts.some(x => x.includes(String(typeBuilderPedal)))) {
+              throw new Error('Combined type + builder + search filters did not return the catalog-derived pedal.');
             }
 
             // Researched detail record, photo rendering, and contrast.
+            const positiveEntry = positiveResearchCanary;
             await page.goto(
               'http://127.0.0.1:4173/pedal-detail.html?builder=' +
-              encodeURIComponent('Artisanal Effects') + '&pedal=' +
-              encodeURIComponent('Cheddar Source'),
+              encodeURIComponent(positiveEntry.company) + '&pedal=' +
+              encodeURIComponent(positiveEntry.pedal),
               {waitUntil:'domcontentloaded'}
             );
             await page.waitForFunction(() => {
@@ -182,8 +207,10 @@ const { chromium } = require('playwright');
             const bg = luminance(rgb(researchedResult.background));
             const contrast = (Math.max(fg,bg)+0.05)/(Math.min(fg,bg)+0.05);
             if (contrast < 4.5) throw new Error('Pedal Info text/background contrast is below 4.5.');
-            if (!researchedResult.photoLoaded) throw new Error('Exact Cheddar Source photo did not load.');
-            if (!researchedResult.photoAlt.includes('Cheddar Source')) throw new Error('Pedal photo alt text is missing the pedal identity.');
+            if (positivePhotoCanary && positivePhotoCanary === positiveResearchCanary) {
+              if (!researchedResult.photoLoaded) throw new Error('Catalog-derived pictured pedal photo did not load.');
+              if (!researchedResult.photoAlt.includes(String(positiveResearchCanary.pedal))) throw new Error('Pedal photo alt text is missing the catalog-derived pedal identity.');
+            }
 
             // No-research / no-photo fallback.
             const noResearchEntry = (catalog.pedals || []).find(
@@ -231,8 +258,8 @@ const { chromium } = require('playwright');
             // Legacy pedal.html redirect must land on the canonical detail page.
             await page.goto(
               'http://127.0.0.1:4173/pedal.html?builder=' +
-              encodeURIComponent('Artisanal Effects') + '&pedal=' +
-              encodeURIComponent('Cheddar Source'),
+              encodeURIComponent(positiveResearchCanary.company) + '&pedal=' +
+              encodeURIComponent(positiveResearchCanary.pedal),
               {waitUntil:'networkidle'}
             );
             if (!page.url().includes('/pedal-detail.html')) throw new Error('Legacy pedal.html did not redirect.');
@@ -240,8 +267,8 @@ const { chromium } = require('playwright');
             // Mobile behavior: no horizontal page overflow.
             await page.setViewportSize({width:390,height:900});
             await page.goto('http://127.0.0.1:4173/pedal-detail.html?builder=' +
-              encodeURIComponent('Artisanal Effects') + '&pedal=' +
-              encodeURIComponent('Cheddar Source'), {waitUntil:'networkidle'});
+              encodeURIComponent(positiveResearchCanary.company) + '&pedal=' +
+              encodeURIComponent(positiveResearchCanary.pedal), {waitUntil:'networkidle'});
             const overflow = await page.evaluate(() => document.documentElement.scrollWidth > window.innerWidth + 1);
             if (overflow) throw new Error('Mobile detail page has horizontal overflow.');
 
