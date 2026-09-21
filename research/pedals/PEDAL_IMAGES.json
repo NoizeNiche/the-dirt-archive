@@ -3779,10 +3779,12 @@
   {
     "builder": "Barbarossa",
     "pedal": "GARGOYLE",
-    "image": null,
+    "image": "./assets/pedals/barbarossa/gargoyle/primary.webp",
     "source": "Ikebe direct photograph",
     "source_page": "https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=858929&shop=0",
-    "research_record": "./research/pedals/Barbarossa/GARGOYLE.md"
+    "research_record": "./research/pedals/Barbarossa/GARGOYLE.md",
+    "image_source_url": "https://img.digimart.net/prdimg/m/0c/3bc54eab1c89be41cb365d2e79528665b938d5.jpg",
+    "image_source_page": "https://www.digimart.net/cat13/shop77/DS10182054/"
   },
   {
     "builder": "Barbarossa",
