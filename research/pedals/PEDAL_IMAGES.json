@@ -1295,34 +1295,42 @@
   {
     "builder": "Alexander Pedals",
     "pedal": "Clang Championship Edition",
-    "image": null,
+    "image": "./assets/pedals/alexander-pedals/clang-championship-edition/primary.webp",
     "source_page": "https://www.alexanderpedals.com/support",
     "research_record": "./research/pedals/PRP Batch 046/Clang Championship Edition.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://guitars.gbase.com/aza/user/gear/alexander-clang-championship-e-1.jpg?maxwidth=500",
+    "image_source_page": "https://www.gbase.com/gear/alexander-clang-championship-edition-home-uniform"
   },
   {
     "builder": "Alexander Pedals",
     "pedal": "Hot Pink Drive",
-    "image": null,
+    "image": "./assets/pedals/alexander-pedals/hot-pink-drive/primary.webp",
     "source_page": "https://www.alexanderpedals.com/support",
     "research_record": "./research/pedals/PRP Batch 046/Hot Pink Drive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://guitars.gbase.com/aza/user/gear/alexander-pedals-hot-pink-drive-1.jpg?maxheight=500&maxwidth=500",
+    "image_source_page": "https://www.gbase.com/gear/alexander-pedals-hot-pink-drive"
   },
   {
     "builder": "Alexander Pedals",
     "pedal": "Jubilee Silver Overdrive",
-    "image": null,
+    "image": "./assets/pedals/alexander-pedals/jubilee-silver-overdrive/primary.webp",
     "source_page": "https://www.alexanderpedals.com/support",
     "research_record": "./research/pedals/PRP Batch 046/Jubilee Silver Overdrive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/alexander-pedals-effects-and-pedals-overdrive-and-boost-alexander-pedals-jubilee-silver-overdrive-pedal-u3315811002-28271651094663.jpg?v=1649785984&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/alexander-pedals-jubilee-silver-overdrive-pedal-1240008"
   },
   {
     "builder": "Alexander Pedals",
     "pedal": "Magnolia Vintage Overdrive",
-    "image": null,
+    "image": "./assets/pedals/alexander-pedals/magnolia-vintage-overdrive/primary.webp",
     "source_page": "https://www.alexanderpedals.com/support",
     "research_record": "./research/pedals/PRP Batch 046/Magnolia Vintage Overdrive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://centralmusic.com/wp-content/uploads/2024/01/nettlwzllna0vpstccwr.jpg",
+    "image_source_page": "https://centralmusic.com/shop/effects/effects-pedals/alexander-magnolia-vintage-overdrive/"
   },
   {
     "builder": "Alexander Pedals",
@@ -1359,50 +1367,62 @@
   {
     "builder": "All-Pedal",
     "pedal": "Alcmene Overdrive",
-    "image": null,
+    "image": "./assets/pedals/all-pedal/alcmene-overdrive/primary.webp",
     "source_page": "https://allpedal.com/collections/pedals/products/slamurai",
     "research_record": "./research/pedals/PRP Batch 047/Alcmene Overdrive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://lep-international.jp/cdn/shop/files/Alcmene-Overdrive-03.png?v=1716947050&width=1445",
+    "image_source_page": "https://lep-international.jp/products/all-pedal-alcmene-overdrive"
   },
   {
     "builder": "All-Pedal",
     "pedal": "Devil's Triad Essentials",
-    "image": null,
+    "image": "./assets/pedals/all-pedal/devil-s-triad-essentials/primary.webp",
     "source_page": "https://allpedal.com/collections/pedals/products/slamurai",
     "research_record": "./research/pedals/PRP Batch 047/Devil's Triad Essentials.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://lep-international.jp/cdn/shop/files/Devils-Triad-Essentials-04.png?v=1717122321&width=1445",
+    "image_source_page": "https://lep-international.jp/products/all-pedal-devils-triad-essentials"
   },
   {
     "builder": "All-Pedal",
     "pedal": "Slamurai Bushido Drive",
-    "image": null,
+    "image": "./assets/pedals/all-pedal/slamurai-bushido-drive/primary.webp",
     "source_page": "https://allpedal.com/collections/pedals/products/slamurai",
     "research_record": "./research/pedals/PRP Batch 047/Slamurai Bushido Drive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://cdn11.bigcommerce.com/s-c3f06q9uvc/images/stencil/1280x1280/products/460226/1852446/93cde524-d405-4e8c-af3b-c1b4bb7f73c0__06244.1766521764.jpg?c=1",
+    "image_source_page": "https://musicgoround.com/locations/aurora-co/product/S000116378/ALL-PEDAL-SLAMURAI-BUSHIDO-DRIVE"
   },
   {
     "builder": "Ampeg",
     "pedal": "Scrambler Bass Overdrive",
-    "image": null,
+    "image": "./assets/pedals/ampeg/scrambler-bass-overdrive/primary.webp",
     "source_page": "https://ampeg.com/products/pedals/preamp-effects.html",
     "research_record": "./research/pedals/PRP Batch 047/Scrambler Bass Overdrive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://cdn11.bigcommerce.com/s-h0bqu/images/stencil/1920w/products/3959/8202/Ampeg_Scrambler_Bass_Overdrive_Effects_Pedal__67833.1735918948.png?c=2",
+    "image_source_page": "https://www.rainbowmusic.co.uk/ampeg-scrambler-bass-overdrive-effects-pedal/"
   },
   {
     "builder": "Amplified Nation",
     "pedal": "Big Bloom Overdrive",
-    "image": null,
+    "image": "./assets/pedals/amplified-nation/big-bloom-overdrive/primary.webp",
     "source_page": "https://amplifiednation.com/product/bigger-bloom-overdrive/",
     "research_record": "./research/pedals/PRP Batch 047/Big Bloom Overdrive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://willcuttguitars.com/cdn/shop/products/ScreenShot2023-04-11at1.37.06PM_1200x.png?v=1681234633",
+    "image_source_page": "https://willcuttguitars.com/products/amplified-nation-big-bloom-overdrive-hammered-copper"
   },
   {
     "builder": "Amplified Nation",
     "pedal": "Bigger Bloom Overdrive",
-    "image": null,
+    "image": "./assets/pedals/amplified-nation/bigger-bloom-overdrive/primary.webp",
     "source_page": "https://amplifiednation.com/product/bigger-bloom-overdrive/",
     "research_record": "./research/pedals/PRP Batch 047/Bigger Bloom Overdrive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://www.guitarchalk.com/wp-content/uploads/2025/06/BiggerBloomOD-xlarge-1500x1250.jpg",
+    "image_source_page": "https://www.guitarchalk.com/amplified-nation-bigger-bloom-overdrive-pedal-settings/"
   },
   {
     "builder": "AmpMojo",
