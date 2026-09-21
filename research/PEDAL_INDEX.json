@@ -10836,11 +10836,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bruce-bennett-music-labs/brown-sound/primary.webp",
       "source_page": "https://reverb.com/uk/item/4817041-bruce-bennett-music-labs-brown-sound-overdrive-distortion-pedal",
       "research_record": "./research/pedals/PRP Batch 125/bruce-bennett-music-labs-brown-sound.md",
-      "image_source_page": "https://reverb.com/uk/item/4817041-bruce-bennett-music-labs-brown-sound-overdrive-distortion-pedal",
-      "image_source_url": "https://reverb.com/uk/item/4817041-bruce-bennett-music-labs-brown-sound-overdrive-distortion-pedal"
+      "image_source_page": "https://www.guitarstuff.jp/entry/2022/01/20/125457",
+      "image_source_url": "https://cdn-ak.f.st-hatena.com/images/fotolife/a/acidmb/20220118/20220118010715.jpg"
     },
     {
       "company": "Bruce Bennett Music Labs",
@@ -10921,11 +10921,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/brunetti/super-lead-plexi-superdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/brunetti/superleadplexi",
       "research_record": "./research/pedals/PRP Batch 126/brunetti-super-lead-plexi-superdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/brunetti/superleadplexi",
-      "image_source_url": "https://www.effectsdatabase.com/model/brunetti/superleadplexi"
+      "image_source_page": "https://auctions.yahoo.co.jp/jp/auction/b1074211492",
+      "image_source_url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0312/users/501dc3b717c4d21903cc61dc5f24ba8f94b80f5a/i-img1198x1088-1669960214vlxcno90260.jpg"
     },
     {
       "company": "Brunetti",
@@ -11676,9 +11676,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/the-full-circle-bass-fuzz/primary.webp",
       "source_page": "https://reverb.com/item/1225485-b-y-o-c-the-full-circle-bass-fuzz-pre-built-pedal",
-      "research_record": "./research/pedals/PRP Batch 132/the-full-circle-bass-fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 132/the-full-circle-bass-fuzz.md",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/fcircle_large.jpg",
+      "image_source_page": "https://stompboxschematics.com/circuits/the-full-circle-bass-fuzz-by-build-your-own-clone-byoc/"
     },
     {
       "company": "Build Your Own Clone",
@@ -12475,9 +12477,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-32-clear-veil/primary.webp",
       "source_page": "https://reverb.com/p/caline-cp-32-clear-veil-overdrive-slash-fuzz",
-      "research_record": "./research/pedals/PRP Batch 140/cp-32-clear-veil.md"
+      "research_record": "./research/pedals/PRP Batch 140/cp-32-clear-veil.md",
+      "image_source_url": "https://starlitedistribution.ca/wp-content/uploads/2023/09/61tZMw4dZGL._AC_SL1000_.jpg",
+      "image_source_page": "https://starlitedistribution.ca/product/caline-cp-32-clear-veil-overdrive-fuzz/"
     },
     {
       "company": "Caline",
@@ -12753,10 +12757,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-74-action-replay-dyna-red-distortion/primary.webp",
       "source_page": "https://www.rockboard.de/en/pedalPedia/Caline/CP-74-Action-Replay/68976435/",
       "research_record": "./research/pedals/PRP Batch 143/cp-74-action-replay-dyna-red-distortion.md",
-      "image_source_page": "https://reverb.com/ie/item/41483226-caline-cp-74-action-replay-distortion-dyna-red-sound"
+      "image_source_page": "https://www.viva-musica.cz/product/caline-cp-74-action-replay-distortion/",
+      "image_source_url": "https://www.viva-musica.cz/wp-content/uploads/2020/01/caline-cp-74-distortion-600x600.jpg"
     },
     {
       "company": "Caline",
@@ -13166,10 +13171,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/carella-guitars/leopard/primary.webp",
       "source_page": "https://reverb.com/item/88501897-carella-guitars-leopard-overdrive",
       "research_record": "./research/pedals/PRP Batch 148/carella-guitars-leopard.md",
-      "image_source_page": "https://reverb.com/item/88501897-carella-guitars-leopard-overdrive"
+      "image_source_page": "https://community.glowforge.com/t/leopard-skin-guitars/140389",
+      "image_source_url": "https://community.glowforge.com/uploads/db6859/original/3X/4/b/4b2b0d74aaeee763a8037106e7bb5ee222466a36.jpeg"
     },
     {
       "company": "Carella Guitars",

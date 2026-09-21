@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **3**
-- Staged browser photos converted: **5**
+- Cached in this run: **6**
+- Staged browser photos converted: **6**
 - Local images retained/reorganized: **0**
 - Download failures: **0**
 
@@ -13,8 +13,11 @@
 
 ## Newly cached
 
-- BLAMMO! Electronics - L.A. Square Face -> `./assets/pedals/blammo-electronics/l-a-square-face/primary.webp`
-- Blackhawk Amplifiers - Valhalla Fuzz -> `./assets/pedals/blackhawk-amplifiers/valhalla-fuzz/primary.webp`
-- Bondi Effects - Sick As Overdrive mk2 -> `./assets/pedals/bondi-effects/sick-as-overdrive-mk2/primary.webp`
+- Bruce Bennett Music Labs - Brown Sound -> `./assets/pedals/bruce-bennett-music-labs/brown-sound/primary.webp`
+- Brunetti - Super Lead Plexi - SuperDrive -> `./assets/pedals/brunetti/super-lead-plexi-superdrive/primary.webp`
+- Build Your Own Clone - The Full Circle Bass Fuzz -> `./assets/pedals/build-your-own-clone/the-full-circle-bass-fuzz/primary.webp`
+- Caline - CP-32 Clear Veil -> `./assets/pedals/caline/cp-32-clear-veil/primary.webp`
+- Caline - CP-74 Action Replay - Dyna Red Distortion -> `./assets/pedals/caline/cp-74-action-replay-dyna-red-distortion/primary.webp`
+- Carella Guitars - Leopard -> `./assets/pedals/carella-guitars/leopard/primary.webp`
 
 All pictured pedal images are locally cached.
