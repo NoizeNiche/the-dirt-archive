@@ -33,9 +33,14 @@ def md_record(path):
     text = path.read_text(encoding="utf-8", errors="replace")
     builder = re.search(r"^- \*\*Builder:\*\*\s*(.+)$", text, re.M)
     identity = re.search(r"^- \*\*Catalog identity:\*\*\s*(.+)$", text, re.M)
+    archive_parent = re.search(r"^- \*\*Archive parent:\*\*\s*(.+)$", text, re.M)
     title = re.search(r"^#\s+(.+)$", text, re.M)
     b = builder.group(1).strip() if builder else ""
-    p = identity.group(1).strip() if identity else (title.group(1).strip() if title else "")
+    p = (
+        identity.group(1).strip() if identity else
+        archive_parent.group(1).strip() if archive_parent else
+        (title.group(1).strip() if title else "")
+    )
     return b, p
 
 
