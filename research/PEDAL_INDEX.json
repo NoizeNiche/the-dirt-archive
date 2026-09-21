@@ -1,5 +1,5 @@
 {
-  "version": "data-f1587e8a0347",
+  "version": "data-d7af8423b040",
   "count": 3819,
   "pedals": [
     {
@@ -7710,9 +7710,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/bjfe-bjf-electronics/concreto-distortion/primary.webp",
       "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
-      "research_record": "./research/pedals/PRP Batch 092/Concreto Distortion.md"
+      "research_record": "./research/pedals/PRP Batch 092/Concreto Distortion.md",
+      "image_source_url": "https://www.bjfe.jp/cdn/shop/files/Concreto-Distortion-02.jpg?v=1710397406&width=1946",
+      "image_source_page": "https://www.bjfe.jp/products/bjfecd"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -7740,9 +7742,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/bjfe-bjf-electronics/dyna-red-distortion-drd/primary.webp",
       "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
-      "research_record": "./research/pedals/PRP Batch 092/Dyna Red Distortion (DRD).md"
+      "research_record": "./research/pedals/PRP Batch 092/Dyna Red Distortion (DRD).md",
+      "image_source_url": "https://static.mercdn.net/item/detail/orig/photos/m78203852237_1.jpg?1673364729",
+      "image_source_page": "https://jp.mercari.com/item/m78203852237"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -8503,9 +8507,11 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackhawk-amplifiers/nazg-l-mkii-parallel-distortion-and-fuzz/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 100/Nazgul MKII Parallel Distortion and Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 100/Nazgul MKII Parallel Distortion and Fuzz.md",
+      "image_source_url": "https://assets.bigcartel.com/product_images/50395c9f-081f-428f-bc2a-299c876894e6/nazgul.jpg?auto=format&fit=max&w=2000",
+      "image_source_page": "https://www.blackhawkamplifiers.com/product/nazgul"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -9272,9 +9278,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bogner-amplification/wessex/primary.webp",
       "source_page": "https://www.sweetwater.com/store/detail/Wessex--bogner-wessex-overdrive-pedal",
-      "research_record": "./research/pedals/PRP Batch 107/Wessex.md"
+      "research_record": "./research/pedals/PRP Batch 107/Wessex.md",
+      "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/w/e/wessex.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=",
+      "image_source_page": "https://www.pitbullaudio.com/bogner-amplification-wessex-overdrive-guitar-effects-pedal.html"
     },
     {
       "company": "Bondi Effects",
@@ -9316,9 +9324,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/bondi-effects/sick-as-high-shredroom-editions/primary.webp",
       "source_page": "https://bondieffects.com/products/sick-as-high-shredroom-graphite",
-      "research_record": "./research/pedals/PRP Batch 107/Sick As High Shredroom Editions.md"
+      "research_record": "./research/pedals/PRP Batch 107/Sick As High Shredroom Editions.md",
+      "image_source_url": "https://motorcityguitar.com/cdn/shop/products/Bondi_SickAs_LtdEd_01_800x.jpg?v=1551543227",
+      "image_source_page": "https://motorcityguitar.com/products/bondi-effects-sick-as-high-shredroom-limited-edition-overdrive-pedal"
     },
     {
       "company": "Bondi Effects",
@@ -9431,9 +9441,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/boorocks/zeal-fuzz-fz-1/primary.webp",
       "source_page": "https://www.mh-friends.com/shop/index.cgi?No=721750",
-      "research_record": "./research/pedals/PRP Batch 108/ZEAL Fuzz FZ-1.md"
+      "research_record": "./research/pedals/PRP Batch 108/ZEAL Fuzz FZ-1.md",
+      "image_source_url": "https://www.vintageandrare.com/uploads/products/92073/8808825/big.jpg",
+      "image_source_page": "https://www.vintageandrare.com/product/BOOROCKS-BOOROCKSZEAL-Fuzz-FZ-1-2010-92073"
     },
     {
       "company": "Boot-Leg Hand Made Effects",
@@ -10014,9 +10026,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/brantone-electronics/tonemaster-mk2-germanium-fuzz/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-tonemaster-mk2-germanium-fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-tonemaster-mk2-germanium-fuzz.md",
+      "image_source_url": "https://www.breakthemachine.co.uk/wp-content/uploads/2018/03/Tonemaster-1.jpg",
+      "image_source_page": "https://www.breakthemachine.co.uk/product/brantone-electronics-mk2-germanium-fuzz/"
     },
     {
       "company": "Brantone Electronics",
