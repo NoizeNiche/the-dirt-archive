@@ -55,7 +55,7 @@ jobs:
           # Recovery follows exact PRP_TRACKER order; no builder is privileged.
           PHOTO_BROWSER_IMAGE_SEARCH: "true"
           PHOTO_BROWSER_DEEP_REVIEW: "true"
-          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "20000"
+          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "25000"
         run: node scripts/browser-photo-cache.mjs
 
       - name: Download and cache verified pedal images
