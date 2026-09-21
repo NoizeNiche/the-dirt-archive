@@ -1,5 +1,5 @@
 {
-  "version": "data-249a548a55c8",
+  "version": "data-c2f632b6d8c6",
   "count": 3819,
   "pedals": [
     {
@@ -103,9 +103,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--mEzNv7en--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ysq2jsvoly3i9hdmegqp.jpg",
+      "image": "./assets/pedals/6-degrees-fx/amplitude-eleven/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/6degreesfx/amplitudeeleven",
-      "research_record": "./research/pedals/6 Degrees FX/Amplitude Eleven.md"
+      "research_record": "./research/pedals/6 Degrees FX/Amplitude Eleven.md",
+      "image_source_url": "https://cdn.long-mcquade.com/files/143448/lg_140bd32dc10294c9c8b1380842cfb13e.jpg",
+      "image_source_page": "https://www.long-mcquade.com/143448/Guitars/Guitar-Effects/6-Degrees-FX/Amplitude-ELEVEN-Overdrive-Pedal.htm"
     },
     {
       "company": "A Sound Of Failure",
@@ -391,9 +393,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--jR1hsiI2--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/2a55b249-0458-4491-8c62-b529e54728d7.jpeg",
+      "image": "./assets/pedals/abominable-electronics/toke-machine/primary.webp",
       "source_page": "https://reverb.com/item/95602021-abominable-electronics-toke-machine",
-      "research_record": "./research/pedals/Abominable Electronics/Toke Machine.md"
+      "research_record": "./research/pedals/Abominable Electronics/Toke Machine.md",
+      "image_source_url": "https://www.abominablepedals.com/cdn/shop/products/image_686a370f-8876-4f26-bef4-1d44a3ff43b3_1080x.png?v=1664744488",
+      "image_source_page": "https://www.abominablepedals.com/products/toke-machine?variant=40043937955886"
     },
     {
       "company": "Abominable Electronics",
@@ -480,9 +484,11 @@
       "types": [
         "Distortion"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--Xqt3uB-C--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/no2qc0u1nbsycrhdwqav.jpg",
+      "image": "./assets/pedals/ac-noises/combatti/primary.webp",
       "source_page": "https://reverb.com/uk/item/56021827-ac-noises-combatti-pedal",
-      "research_record": "./research/pedals/AC Noises/Combatti.md"
+      "research_record": "./research/pedals/AC Noises/Combatti.md",
+      "image_source_url": "https://i.pinimg.com/originals/1e/bd/ac/1ebdac24d53928560dca6d174a7389ac.jpg",
+      "image_source_page": "https://www.pinterest.com/pin/ac-noises-combatti-distortion-overdrive-pedal-of-the-day--563372234626238844/"
     },
     {
       "company": "AC Noises",
@@ -490,9 +496,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--btBDBZyY--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/nuhzffptp8l1lmueazr5.jpg",
+      "image": "./assets/pedals/ac-noises/esplora/primary.webp",
       "source_page": "https://reverb.com/en-se/item/80818017-ac-noises-esplora",
-      "research_record": "./research/pedals/AC Noises/Esplora.md"
+      "research_record": "./research/pedals/AC Noises/Esplora.md",
+      "image_source_url": "https://images.guitarguitar.co.uk/cdn/large/150/190115337547002f.jpg?h=500&maxwidth=770&scale=canvas&bg=ffffff&quality=70",
+      "image_source_page": "https://www.guitarguitar.co.uk/product/190115337547002--ac-noises-esplora-fuzz"
     },
     {
       "company": "AC Noises",
@@ -835,9 +843,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--_shxmvb0--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/yet9orua3ajy6iayqjni.jpg",
+      "image": "./assets/pedals/acoustic-imaginearing/quantumdrive/primary.webp",
       "source_page": "https://www.acousticimaginearing.com/",
-      "research_record": "./research/pedals/Acoustic Imaginearing/QuantumDrive.md"
+      "research_record": "./research/pedals/Acoustic Imaginearing/QuantumDrive.md",
+      "image_source_url": "https://www.acousticimaginearing.com/images/ssthumb.jpg",
+      "image_source_page": "https://www.acousticimaginearing.com/"
     },
     {
       "company": "AD Pedals",
@@ -976,9 +986,11 @@
       "types": [
         "Distortion"
       ],
-      "image": "https://rvb-img.reverb.com/image/upload/s---AWPd2wZ--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1449637705/wzg18csfwj7z7knsatuj.jpg",
+      "image": "./assets/pedals/add-pedals/ratortion-3/primary.webp",
       "source_page": "https://reverb.com/en-cy/item/1423011-add-ratortion-3-overdrive-distortion",
-      "research_record": "./research/pedals/Add+ Pedals/Ratortion 3.md"
+      "research_record": "./research/pedals/Add+ Pedals/Ratortion 3.md",
+      "image_source_url": "https://media.mydukkan.com/image/18707/thmb_900x900_ADD.ADDRatortion3V218707.jpg",
+      "image_source_page": "https://www.mydukkan.com/add-ratortion-3-v2-overdrive-distortion-pedali-u-27517"
     },
     {
       "company": "Add+ Pedals",
@@ -1066,9 +1078,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--qoIOzxcF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tjxrnzleqztsvv2xli8c.jpg",
+      "image": "./assets/pedals/add-pedals/tube-drive-silver-edition/primary.webp",
       "source_page": "https://www.effectsdatabase.com/updates/weekly/20110404",
-      "research_record": "./research/pedals/Add+ Pedals/Tube Drive Silver Edition.md"
+      "research_record": "./research/pedals/Add+ Pedals/Tube Drive Silver Edition.md",
+      "image_source_url": "https://media.mydukkan.com/image/18712/thmb_900x900_ADDTubeDriveSilverEdition0.jpg",
+      "image_source_page": "https://www.mydukkan.com/add-tubedrive-silver-edition-overdrive-pedali-u-27522"
     },
     {
       "company": "Addrock Musical Products",
@@ -1086,9 +1100,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://rvb-img.reverb.com/image/upload/s--IjycEqvj--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1456226055/f6h83f51fzcl2nmzspwd.jpg",
+      "image": "./assets/pedals/addrock-musical-products/geranium-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addrock/geraniumfuzz",
-      "research_record": "./research/pedals/Addrock Musical Products/Geranium Fuzz.md"
+      "research_record": "./research/pedals/Addrock Musical Products/Geranium Fuzz.md",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--YN2Vmr-4--/quality=medium-low,height=800,width=800,fit=contain/f308f0e1-c2b0-4f8b-8ac1-a6f4dc26f6e6.jpg",
+      "image_source_page": "https://reverb.com/item/94114455-rare-addrock-geranium-fuzz-2003-nkt275-marked-germanium"
     },
     {
       "company": "Addrock Musical Products",
@@ -1116,9 +1132,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--1m-e8PnW--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cyujsgwhc8a9ukfacuk3.jpg",
+      "image": "./assets/pedals/addrock-musical-products/ol-yeller/primary.webp",
       "source_page": "https://reverb.com/item/72179537-addrock-ol-yeller",
-      "research_record": "./research/pedals/Addrock Musical Products/Ol' Yeller.md"
+      "research_record": "./research/pedals/Addrock Musical Products/Ol' Yeller.md",
+      "image_source_url": "https://www.ultimate-guitar.com/static/article/gear/5/5465_1_ver0.jpg",
+      "image_source_page": "https://www.ultimate-guitar.com/reviews/guitar_effects/addrock/not_so_ol_yeller/40533/"
     },
     {
       "company": "ADV Systems",
@@ -1200,9 +1218,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--K5ULJTe1--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kvxbppwvuc1i4i9mrtkn.jpg",
+      "image": "./assets/pedals/adventure-audio/fuzz-peaks/primary.webp",
       "source_page": "https://reverb.com/au/item/459082-adventure-audio-fuzz-peaks",
-      "research_record": "./research/pedals/Adventure Audio/Fuzz Peaks.md"
+      "research_record": "./research/pedals/Adventure Audio/Fuzz Peaks.md",
+      "image_source_url": "https://guitars.gbase.com/aza/user/gear/adventure-audio-fuzz-peaks-1.jpg?maxwidth=500",
+      "image_source_page": "https://www.gbase.com/gear/adventure-audio-fuzz-peaks"
     },
     {
       "company": "Adventure Audio",
@@ -1210,9 +1230,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://rvb-img.reverb.com/image/upload/s--DDynb3KV--/f_auto%2Ct_large/v1647988180/fbnr2fnl1le99qdr4iuo.jpg",
+      "image": "./assets/pedals/adventure-audio/fuzz-peaks-ii/primary.webp",
       "source_page": "https://reverb.com/item/52377521-adventure-audio-fuzz-peaks-v2",
-      "research_record": "./research/pedals/Adventure Audio/Fuzz Peaks II.md"
+      "research_record": "./research/pedals/Adventure Audio/Fuzz Peaks II.md",
+      "image_source_url": "https://eastsidemusicsupply.com/cdn/shop/products/IMG_1800_8_1024x1024.jpg?v=1630073914",
+      "image_source_page": "https://eastsidemusicsupply.com/products/adventure-audio-fuzz-peaks-ii"
     },
     {
       "company": "Adventure Audio",
