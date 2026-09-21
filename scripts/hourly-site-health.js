@@ -11,6 +11,16 @@ const SITE_API = `https://api.github.com/repos/${process.env.GITHUB_REPOSITORY}/
 const RUNS_API = `https://api.github.com/repos/${process.env.GITHUB_REPOSITORY}/actions/workflows/deploy-pages.yml/runs?branch=main&per_page=10`;
 const TOKEN = process.env.GITHUB_TOKEN || '';
 const currentSha = process.env.GITHUB_SHA || cp.execFileSync('git', ['rev-parse','HEAD'], {encoding:'utf8'}).trim();
+const runningScheduledHealth = process.env.GITHUB_EVENT_NAME === 'schedule';
+async function currentMainSha() {
+  if (!runningScheduledHealth) return currentSha;
+  try {
+    cp.execFileSync('git', ['fetch','origin','main'], {stdio:'ignore'});
+    return cp.execFileSync('git', ['rev-parse','origin/main'], {encoding:'utf8'}).trim();
+  } catch {
+    return currentSha;
+  }
+}
 
 function apiHeaders() {
   return {accept:'application/vnd.github+json', authorization:`Bearer ${TOKEN}`, 'x-github-api-version':'2022-11-28', 'user-agent':'dirt-archive-hourly-health'};
@@ -157,15 +167,24 @@ async function waitForDeployment() {
   const pages=await jsonFetch(SITE_API);
   const liveUrl=(pages.html_url||'').replace(/\/$/,'');
   if (!liveUrl) throw new Error('GitHub Pages API did not return a live URL');
+
+  const targetSha = await currentMainSha();
   let run=null;
-  for (let attempt=0; attempt<6; attempt++) {
+  for (let attempt=0; attempt<10; attempt++) {
     const runs=await jsonFetch(RUNS_API);
-    run=(runs.workflow_runs||[]).find(x=>x.head_sha===currentSha);
-    if (run && run.status==='completed') break;
+    const successful=[...(runs.workflow_runs||[])].filter(x => x.status==='completed' && x.conclusion==='success');
+
+    // Scheduled health runs start from a potentially stale checkout SHA. In that
+    // case, validate the latest main commit instead of the scheduled-run SHA.
+    // This avoids false failures when photo/PRP automation has just published a
+    // newer checkpoint and Pages is deploying that checkpoint now.
+    run = successful.find(x=>x.head_sha===targetSha) || null;
+
+    if (run) break;
     await new Promise(r=>setTimeout(r,15000));
   }
-  if (!run) throw new Error(`No Deploy Pages workflow run found for ${currentSha}`);
-  if (run.status!=='completed' || run.conclusion!=='success') throw new Error(`Pages deployment not successful: status=${run.status}, conclusion=${run.conclusion}, run=${run.html_url}`);
+
+  if (!run) throw new Error(`No successful Deploy Pages workflow run found for main ${targetSha}`);
   console.log(`Pages deployment: PASS (${run.html_url})`);
   return liveUrl;
 }
