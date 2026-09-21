@@ -1124,15 +1124,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
       .slice(0, HARD_CASE_SLOTS);
     const hardCases = highAttemptCases;
     const freshPool = normalCandidates.length ? normalCandidates : deepCandidates;
-    const freshCases = (() => {
-      if (freshPool.length <= freshSlots) return freshPool;
-      const out = [];
-      for (let i = 0; i < freshSlots; i++) {
-        const index = Math.floor(i * (freshPool.length - 1) / Math.max(1, freshSlots - 1));
-        out.push(freshPool[index]);
-      }
-      return [...new Map(out.map(entry => [key(entry.company, entry.pedal), entry])).values()];
-    })();
+    const freshCases = freshPool.slice(0, freshSlots);
     const activePool = [...freshCases, ...hardCases]
       .filter((entry, index, pool) => pool.findIndex(x => key(x.company, x.pedal) === key(entry.company, entry.pedal)) === index);
 
