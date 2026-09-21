@@ -1,5 +1,5 @@
 {
-  "version": "data-d5049617af5b",
+  "version": "data-247c7f055061",
   "count": 3819,
   "pedals": [
     {
@@ -8307,9 +8307,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-country-customs/blackheath/primary.webp",
       "source_page": "https://www.americanmusical.com/p/laney-black-country-customs-blackheath-3-mode-bass-distortion-pedal",
-      "research_record": "./research/pedals/PRP Batch 099/BLACKHEATH.md"
+      "research_record": "./research/pedals/PRP Batch 099/BLACKHEATH.md",
+      "image_source_url": "https://www.pedalsatdawn.com/wp-content/uploads/2021/09/laney-black-country-customs-blackheath-300x300.jpg",
+      "image_source_page": "https://www.pedalsatdawn.com/pedal-database/laney-black-country-customs-blackheath/"
     },
     {
       "company": "Black Country Customs",
@@ -8318,9 +8320,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-country-customs/monolith/primary.webp",
       "source_page": "https://www.americanmusical.com/p/laney-monolith-black-country-custom-distortion-pedal",
-      "research_record": "./research/pedals/PRP Batch 099/MONOLITH.md"
+      "research_record": "./research/pedals/PRP Batch 099/MONOLITH.md",
+      "image_source_url": "https://rockemmusic.com/wp-content/uploads/2023/02/bfhpdlzrsw4.jpg",
+      "image_source_page": "https://rockemmusic.com/product/laney-bcc-monolith-black-country-customs-monolith-distortion-guitar-pedal/"
     },
     {
       "company": "Black Mass Electronics",
