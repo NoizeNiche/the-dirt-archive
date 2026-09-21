@@ -20,7 +20,7 @@ const SEARCH_VERIFY_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_SEARCH_
 const TARGET_BUILDER = String(process.env.PHOTO_BROWSER_TARGET_BUILDER || '').trim();
 const TARGET_PEDAL = String(process.env.PHOTO_BROWSER_TARGET_PEDAL || '').trim();
 const PER_BUILDER_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_PER_BUILDER_LIMIT || 4));
-const RECOVERY_DEADLINE_MS = Math.max(10000, Number(process.env.PHOTO_BROWSER_RECOVERY_DEADLINE_MS || 25000));
+const RECOVERY_DEADLINE_MS = Math.max(10000, Number(process.env.PHOTO_BROWSER_RECOVERY_DEADLINE_MS || 35000));
 
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
@@ -217,15 +217,20 @@ async function fetchSearchPageIdentity(page, url) {
 async function reverbSoldCandidates(page, entry, deepReview = false) {
   if (!IMAGE_SEARCH_ENABLED) return [];
 
-  const queries = [
-    entry.company + ' ' + entry.pedal,
-    '"' + entry.company + '" "' + entry.pedal + '"',
-    entry.pedal + ' ' + entry.company
-  ];
-  if (deepReview) {
-    queries.push('"' + entry.pedal + '" pedal');
-    queries.push('"' + entry.company + '" "' + entry.pedal + '" effects pedal');
-  }
+  // Deep-review records have already failed a normal pass. Keep the Reverb
+  // search focused on the two highest-signal exact-identity queries so a hard
+  // case gets more useful work per run instead of spending the whole deadline
+  // on redundant search permutations.
+  const queries = deepReview
+    ? [
+        entry.company + ' ' + entry.pedal,
+        '"' + entry.company + '" "' + entry.pedal + '"'
+      ]
+    : [
+        entry.company + ' ' + entry.pedal,
+        '"' + entry.company + '" "' + entry.pedal + '"',
+        entry.pedal + ' ' + entry.company
+      ];
 
   const merged = new Map();
   for (const query of queries) {
@@ -272,11 +277,8 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
     ? [
         '"' + entry.company + '" "' + entry.pedal + '" guitar pedal',
         '"' + entry.pedal + '" "' + entry.company + '" pedal',
-        '"' + entry.pedal + '" "' + entry.company + '"',
         '"' + entry.pedal + '" "' + entry.company + '" reverb',
-        entry.pedal + " " + entry.company + " pedal",
-        entry.pedal + " pedal photo",
-        entry.company + " " + entry.pedal
+        entry.company + " " + entry.pedal + " pedal"
       ]
     : [entry.company + " " + entry.pedal + " guitar pedal"];
 
@@ -484,7 +486,9 @@ async function recoverEntry(browser, entry, deepReview = false) {
       const soldResults = await reverbSoldCandidates(page, entry, deepReview);
       const verifiedSold = [];
 
-      for (const result of soldResults.slice(0, SEARCH_VERIFY_LIMIT)) {
+      const verifyLimit = deepReview ? Math.min(4, SEARCH_VERIFY_LIMIT) : SEARCH_VERIFY_LIMIT;
+
+      for (const result of soldResults.slice(0, verifyLimit)) {
         const searchIdentity = normalizedIdentity((result.title || '') + ' ' + result.purl);
         const pedalTokens = identityTokens(entry.pedal);
         const builderTokens = identityTokens(entry.company);
@@ -565,7 +569,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
       const rankedSearchResults = searchResults
         .map(result => ({ result, fit: imageSearchScore(entry, result) }))
         .sort((a, b) => b.fit.score - a.fit.score);
-      for (const ranked of rankedSearchResults.slice(0, SEARCH_VERIFY_LIMIT)) {
+      const verifyLimit = deepReview ? Math.min(4, SEARCH_VERIFY_LIMIT) : SEARCH_VERIFY_LIMIT;
+      for (const ranked of rankedSearchResults.slice(0, verifyLimit)) {
         const result = ranked.result;
         const fit = ranked.fit;
         const requiredHits = pedalTokensForSearch(entry).length >= 2 ? 2 : 1;
@@ -710,14 +715,25 @@ async function recoverEntry(browser, entry, deepReview = false) {
       return score(b) - score(a);
     });
 
-  // In bulk mode, spread each pass across builders so a single run cannot
-  // burn all of its recovery attempts on one builder's hard-to-source photos.
+  // In bulk mode, unresolved records that have never failed get first
+  // priority. Deep-review records are intentionally parked behind that normal
+  // backlog so a stubborn hard case can never consume an entire run repeatedly.
+  // Once the normal researched-photo backlog is empty, the same scheduler opens
+  // the deep-review queue and works through it.
   let candidates = orderedCandidates;
   if (!TARGET_BUILDER && !TARGET_PEDAL) {
+    const normalCandidates = orderedCandidates.filter(
+      entry => reviewByKey.get(key(entry.company, entry.pedal))?.Status !== 'DEEP_REVIEW'
+    );
+    const deepCandidates = orderedCandidates.filter(
+      entry => reviewByKey.get(key(entry.company, entry.pedal))?.Status === 'DEEP_REVIEW'
+    );
+    const activePool = normalCandidates.length ? normalCandidates : deepCandidates;
+
     const selected = [];
     const deferred = [];
     const perBuilder = new Map();
-    for (const entry of orderedCandidates) {
+    for (const entry of activePool) {
       const builder = String(entry.company || entry.builder || 'Unknown').trim();
       const used = perBuilder.get(builder) || 0;
       if (used < PER_BUILDER_LIMIT && selected.length < LIMIT) {
