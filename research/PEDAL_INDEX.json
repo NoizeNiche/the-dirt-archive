@@ -1,5 +1,5 @@
 {
-  "version": "data-30b6c2d67d0c",
+  "version": "data-7c37e5e1a91d",
   "count": 3819,
   "pedals": [
     {
@@ -3630,9 +3630,11 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/audio-surplus-effects/dornenkrone/primary.webp",
       "source_page": "https://audiosurpluseffects.bigcartel.com/product/dornenkrone",
-      "research_record": "./research/pedals/Audio Surplus Effects/Dornenkrone.md"
+      "research_record": "./research/pedals/Audio Surplus Effects/Dornenkrone.md",
+      "image_source_url": "https://assets.bigcartel.com/product_images/381184731/Dornenkrone+Glamour+Shot+Front.jpg?auto=format&fit=max&h=1200&w=1200",
+      "image_source_page": "https://audiosurpluseffects.bigcartel.com/product/dornenkrone"
     },
     {
       "company": "Audio Surplus Effects",
@@ -3640,9 +3642,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/audio-surplus-effects/lurid-machine/primary.webp",
       "source_page": "https://audiosurpluseffects.bigcartel.com/product/lurid-machine",
-      "research_record": "./research/pedals/Audio Surplus Effects/Lurid Machine.md"
+      "research_record": "./research/pedals/Audio Surplus Effects/Lurid Machine.md",
+      "image_source_url": "https://assets.bigcartel.com/product_images/369229525/Lurid+Machine+Glamour+Shot.jpg?auto=format&fit=max&h=1200&w=1200",
+      "image_source_page": "https://audiosurpluseffects.bigcartel.com/product/lurid-machine"
     },
     {
       "company": "Audio Surplus Effects",
@@ -3650,9 +3654,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/audio-surplus-effects/massenpanik/primary.webp",
       "source_page": "https://audiosurpluseffects.bigcartel.com/product/massenpanik",
-      "research_record": "./research/pedals/Audio Surplus Effects/Massenpanik.md"
+      "research_record": "./research/pedals/Audio Surplus Effects/Massenpanik.md",
+      "image_source_url": "https://assets.bigcartel.com/product_images/6227e24b-f9f8-491d-aa9f-858432f06eaa/massenpanik.jpg?auto=format&fit=max&h=1200&w=1200",
+      "image_source_page": "https://audiosurpluseffects.bigcartel.com/product/massenpanik"
     },
     {
       "company": "Audio Surplus Effects",
