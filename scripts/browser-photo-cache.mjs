@@ -624,6 +624,7 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
         '"' + entry.pedal + '" guitar pedal',
         'site:effectsdatabase.com/model "' + entry.company + '" "' + entry.pedal + '"',
         'site:reverb.com/item "' + entry.company + '" "' + entry.pedal + '"',
+        'site:rockboard.de/en/pedalPedia "' + entry.company + '" "' + entry.pedal + '"',
         entry.pedal + " pedal"
       ]
     : [entry.company + " " + entry.pedal + " guitar pedal"];
