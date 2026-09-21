@@ -3008,11 +3008,10 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/animal-factory-amplification/godeater-plus/primary.webp",
+      "image": null,
       "source_page": "https://animalfactoryamplification.com/product/godeater/",
       "research_record": "./research/pedals/Animal Factory Amplification/Godeater_Plus.md",
-      "image_source_page": "https://schneidersladen.de/en/animal-factory-amplification-godeater-pedal",
-      "image_source_url": "https://schneidersladen.de/media/54/51/45/1773055775/animal_factory_amplification_animal_factory_amplification_godeater_pedal_180353_3.webp?ts=1773055775"
+      "image_source_page": "https://reverb.com/item/97309135-animal-factory-godeater-distortion-pedal-godeater-plus"
     },
     {
       "company": "Animal Factory Amplification",

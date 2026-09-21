@@ -1,14 +1,15 @@
 ## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
 
-Verified tracker state: **3,819 total / 1,273 researched / 897 pictured / 897 fully complete / 376 researched-photo-pending / 2,922 photo-missing overall**.
+Verified tracker state: **3,819 total / 1,273 researched / 896 pictured / 896 fully complete / 377 researched-photo-pending / 2,923 photo-missing overall**.
 
-The latest completed photo pass successfully archived the exact-model **Animal Factory Amplification - Godeater+** photo after correcting a pedal-name path collision with the original Godeater. The photo-needed queue is now **0**.
+The previous pass briefly archived an image under Godeater+, but identity review showed that image was the original Godeater. That incorrect asset has been removed. Godeater+ is back in the exact-photo recovery queue with its verified Reverb source page.
 
-The photo-review queue is now **403 records**: **8 DEEP_REVIEW** and **395 PARKED**. Remaining researched-photo cases continue through the automatic recovery lane, while parked cases remain available for targeted manual reopening.
+The photo-review queue is now **404 records**: **8 DEEP_REVIEW**, **395 PARKED**, and **1 PHOTO_NEEDED**. The automatic recovery lane remains active, with exact-model identity checks now preserving meaningful symbols such as .
 
 PRP1 remains gated until **researched-photo-pending reaches 0**. Public pedal pages continue to hide Research confidence and Sources checked. The future YouTube demo widget remains deferred until the photo catch-up is complete.
 
 ---
+
 
 
 ## Photo Recovery Checkpoint - September 21, 2026 (latest verified)

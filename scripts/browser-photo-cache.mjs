@@ -140,6 +140,7 @@ function target(entry) {
 function normalizedIdentity(value) {
   return String(value || '')
     .toLowerCase()
+    .replace(/\+/g, ' plus ')
     .replace(/[^a-z0-9]+/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
@@ -218,14 +219,13 @@ async function extractDirectImage(page, url) {
 }
 
 function imageSearchScore(entry, result) {
-  const haystack = [result.title || '', result.purl || '', result.murl || '']
-    .join(' ').toLowerCase().replace(/[^a-z0-9]+/g, ' ');
+  const haystack = normalizedIdentity([result.title || '', result.purl || '', result.murl || ''].join(' '));
   const pedalTokens = identityTokens(entry.pedal);
   const builderTokens = identityTokens(entry.company);
   const pedalHits = pedalTokens.filter(token => haystack.includes(token));
   const builderHits = builderTokens.filter(token => haystack.includes(token));
   let score = pedalHits.length * 15 + builderHits.length * 5;
-  const exactPedal = String(entry.pedal || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+  const exactPedal = normalizedIdentity(entry.pedal);
   if (exactPedal && haystack.includes(exactPedal)) score += 60;
   return { score, pedalHits: pedalHits.length, builderHits: builderHits.length };
 }
