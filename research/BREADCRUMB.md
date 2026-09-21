@@ -1,5 +1,15 @@
 ## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
 
+Verified tracker state: **3,819 total / 1,274 researched / 873 pictured / 873 fully complete / 401 researched-photo-pending**.
+
+The latest completed browser recovery pass recovered **5 exact-model candidates** and published **3 new local canonical photo assets**. The internal photo-review queue is now **427 records**, including **141 parked** cases. PRP1 remains gated until the researched-photo-pending count reaches **0**.
+
+The recovery pass also incorporated stronger exact source-page leads for stubborn records including **Bad Cat X-Treme Tone, Big Ear NYC The LOAF Fuzz, Black Arts Toneworks LSTR, and Caline CP-74 Action Replay**. A lead remains only a lead until the exact image is successfully archived locally.
+
+---
+
+## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
+
 Verified tracker state: **3,819 total / 1,274 researched / 870 pictured / 870 fully complete / 404 researched-photo-pending**.
 
 The latest completed cache pass is commit **dcc54327deab996fdf16a4d56fd7314b06326d87**. The live tracker and catalog now agree at 870 pictured and 404 researched-photo-pending. The internal photo-review queue contains 432 remaining review records.
