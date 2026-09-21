@@ -8893,9 +8893,11 @@
   {
     "builder": "Build Your Own Clone",
     "pedal": "Overdrive 2",
-    "image": null,
+    "image": "./assets/pedals/build-your-own-clone/overdrive-2/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/byoc/overdrive/2",
-    "research_record": "./research/pedals/PRP Batch 131/overdrive-2.md"
+    "research_record": "./research/pedals/PRP Batch 131/overdrive-2.md",
+    "image_source_url": "https://medias.audiofanzine.com/images/normal/build-your-own-clone-overdrive-2-1011799.jpg",
+    "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/build-your-own-clone/overdrive-2/"
   },
   {
     "builder": "Build Your Own Clone",
@@ -8963,9 +8965,11 @@
   {
     "builder": "Build Your Own Clone",
     "pedal": "The Swede",
-    "image": null,
+    "image": "./assets/pedals/build-your-own-clone/the-swede/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/byoc/swede",
-    "research_record": "./research/pedals/PRP Batch 132/the-swede.md"
+    "research_record": "./research/pedals/PRP Batch 132/the-swede.md",
+    "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/swede_large.jpg",
+    "image_source_page": "https://stompboxschematics.com/circuits/the-swede-by-build-your-own-clone-byoc/"
   },
   {
     "builder": "Build Your Own Clone",
@@ -9951,10 +9955,11 @@
   {
     "builder": "Camuro",
     "pedal": "Baci Overdrive/Distortion",
-    "image": null,
+    "image": "./assets/pedals/camuro/baci-overdrive-distortion/primary.webp",
     "source_page": "https://camuro.co.jp/baci-od-dist",
     "research_record": "./research/pedals/PRP Batch 147/camuro-baci-overdrive-distortion.md",
-    "image_source_page": "https://camuro.co.jp/blog/baci-overdrive-distortion"
+    "image_source_page": "http://camuro.co.jp/baci-od-dist",
+    "image_source_url": "http://camuro.co.jp/wp/wp-content/uploads/2015/03/baci_jumbo3.jpg"
   },
   {
     "builder": "Camuro",
