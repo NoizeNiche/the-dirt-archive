@@ -1278,9 +1278,9 @@ async function recoverEntry(browser, entry, deepReview = false) {
     // The previous selector could accidentally fill all LIMIT slots with fresh
     // records before the high-attempt cases ever got selected. That made a
     // stubborn pedal effectively wait forever while the queue stayed non-empty.
-    // Fifteen slots is enough to keep deep review moving without sacrificing the
-    // bulk of the run to one difficult corner of the archive.
-    const HARD_CASE_SLOTS = Math.min(15, LIMIT, deepCandidates.length);
+    // Five slots is enough to keep deep review moving while leaving the majority
+    // of each bounded pass for fresh, easier-to-recover records.
+    const HARD_CASE_SLOTS = Math.min(5, LIMIT, deepCandidates.length);
     const FRESH_CASE_SLOTS = Math.max(0, LIMIT - HARD_CASE_SLOTS);
     const highAttemptCases = [...deepCandidates]
       .sort((a, b) => {
