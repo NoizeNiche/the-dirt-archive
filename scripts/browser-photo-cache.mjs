@@ -55,7 +55,19 @@ function slug(value) {
 }
 
 function target(entry) {
-  return path.join(ROOT, 'assets/pedals', slug(entry.company), slug(entry.pedal), 'primary.webp');
+  const builder = entry.company || entry.builder;
+  if (entry.catalog_role === 'variation' && entry.parent_pedal) {
+    const variant = entry.variation_name || entry.pedal;
+    return path.join(
+      ROOT,
+      'assets/pedals',
+      slug(builder),
+      slug(entry.parent_pedal),
+      'variants',
+      slug(variant) + '.webp'
+    );
+  }
+  return path.join(ROOT, 'assets/pedals', slug(builder), slug(entry.pedal), 'primary.webp');
 }
 
 function identityTokens(pedal) {
