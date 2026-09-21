@@ -46,10 +46,40 @@ function loadCatalog() {
       if (!response.ok) throw new Error('Catalog request failed: HTTP ' + response.status);
       return response.json();
     })
-    .then(data => {
+    .then(async data => {
       if (!data || !Array.isArray(data.pedals)) {
         throw new Error('Catalog payload is missing the pedals array.');
       }
+
+      // Small, separately maintained photo overrides let verified replacement
+      // images reach the live site without rewriting the large catalog file.
+      // Existing catalog images always win over an override.
+      try {
+        const overrideResponse = await fetch(
+          new URL('./research/PEDAL_IMAGE_OVERRIDES.json', location.href).href,
+          {cache: 'no-store'}
+        );
+        if (overrideResponse.ok) {
+          const payload = await overrideResponse.json();
+          const overrides = Array.isArray(payload.overrides) ? payload.overrides : [];
+          const byKey = new Map(
+            overrides.map(x => [catalogKey(x.builder, x.pedal), x])
+          );
+          data.pedals = data.pedals.map(entry => {
+            if (entry.image) return entry;
+            const override = byKey.get(entryKey(entry));
+            if (!override?.image) return entry;
+            return {
+              ...entry,
+              image: override.image,
+              image_source_page: override.source_page || entry.image_source_page
+            };
+          });
+        }
+      } catch (overrideError) {
+        console.warn('Photo override layer unavailable:', overrideError);
+      }
+
       return data;
     })
     .catch(error => {
