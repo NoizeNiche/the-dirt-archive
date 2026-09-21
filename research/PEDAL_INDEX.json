@@ -1,5 +1,5 @@
 {
-  "version": "data-f9913432efb1",
+  "version": "data-3b687d6491a0",
   "count": 3819,
   "pedals": [
     {
@@ -13362,10 +13362,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caroline-guitar-company/shigeharu/primary.webp",
       "source_page": "https://carolineguitar.com/product/shigeharu/",
       "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-shigeharu.md",
-      "image_source_page": "https://carolineguitar.com/product/shigeharu/"
+      "image_source_page": "https://carolineguitar.com/product/shigeharu/",
+      "image_source_url": "https://carolineguitar.com/wp-content/uploads/2018/08/shigeharu.jpg"
     },
     {
       "company": "Caroline Guitar Company",
