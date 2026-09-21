@@ -1,256 +1,307 @@
-# The Dirt Archive — Governance
+# The Dirt Archive - Governance
 
 ## Mission
+
 The Dirt Archive is a practical reference for guitar dirt pedals spanning the 1960s through the current day.
 
-The current active phase is deliberately narrower:
+The public archive is intentionally simple:
 
-**Builder → Pedals. THAT’S IT.**
+**Search -> Dirt Type -> Builder -> Pedal**
 
-## Filter metadata boundary
+The active operational priority may change between census, photo recovery, maintenance, and PRP1, but the governing data model and quality rules below remain stable.
 
-The website may eventually expose **component-type metadata as filters**, without expanding the archive into component-level documentation.
+## 1. Current phase scope
 
-Allowed filter metadata includes:
-- **Transistor Type** (for example, Germanium, Silicon, MOSFET, JFET)
-- **Diode Type** (for example, Germanium, Silicon, LED, Schottky)
+The core archive covers:
 
-Do **not** turn these filters into component inventories. Do not catalog transistor or diode part numbers, schematics, component values, BOMs, or other circuit-level documentation as part of this filter feature.
-
-These fields are metadata used to narrow pedal results. The filter system should remain separate from the Builder → Pedal core identity.
-
-## Current-phase scope
-Research and record only:
 - builder names
 - overdrive pedals
 - distortion pedals
 - fuzz pedals
 - the builder-to-pedal relationship
 
-The purpose of this phase is to build the largest usable census possible.
+The current recovery/research phase may add practical pedal information and exact photographs, but it must not turn the public archive into a component-forensics database.
 
-## Scrape definition and throughput rule
+## 2. Filter metadata boundary
 
-A **Scrape** is one completed bulk pass through the builder alphabet.
+The website may expose **component-type metadata as filters** without expanding the archive into component-level documentation.
 
-A scrape must:
-1. cover **at least 10 distinct companies/builders**, unless fewer than 10 qualifying unprocessed companies remain in the entire alphabetic run
-2. collect as many qualifying dirt-pedal records as the available evidence supports, rather than stopping once the minimum company count is reached
-3. continue from the exact previous checkpoint and move alphabetically toward Z
-4. use the canonical builder index and active scrape census as duplicate gates before adding anything
-5. update the active scrape census, breadcrumb, current state, and any necessary builder-index assignments
-6. leave a durable committed checkpoint that makes the next scrape immediately resumable
+Allowed filter metadata includes:
 
-### Meaning of “Continue”
+- **Transistor Type**, such as Germanium, Silicon, MOSFET, or JFET
+- **Diode Type**, such as Germanium, Silicon, LED, or Schottky
 
-When the user says **“Continue”** after a completed scrape, treat it as an instruction to execute the **next full bulk scrape automatically**. Do not interpret it as a request for a small follow-up lookup. The next scrape begins at the saved alphabetic checkpoint and maintains the same throughput standard until Z is reached.
+These are filter metadata only.
 
-The objective is high-throughput completion of the full **A → Z builder census**. Ten companies is the minimum floor for a haul, not the desired stopping point.
+Do not catalog transistor or diode part numbers, schematics, component values, BOMs, or other circuit-level documentation as part of the normal public filter system.
 
-## Research benchmark
+## 3. Builder census and scrape rules
 
-The performance of the latest bulk scrape is the **minimum operating benchmark for every future scrape through Z**.
+A **Scrape** is a bulk pass through the builder alphabet.
 
-That benchmark means:
-- do not stop at the first useful result or first few companies
-- use broad, repeated searches and multiple relevant source/catalog channels when needed
-- target **10+ distinct companies/builders per haul** and gather as many qualifying dirt-pedal records as practical
-- mine both current and historical product catalogs when they support the Builder -> Pedals scope
-- cross-check the canonical builder index and active scrape census before every write
-- when a source or tool limits the amount of research that can be returned at once, split the work into additional passes rather than lowering the research standard
-- treat duplicate checks, alias reconciliation, and product-family cleanup as part of the scrape itself
-- do not declare the haul complete merely because the minimum company count has been reached; continue while meaningful unprocessed material is readily available
-- leave the repository in a state where the next alphabetic haul can begin immediately
+A scrape should:
 
-**The standard is throughput + breadth + deduplication + durable checkpointing.**
+1. continue from the exact saved alphabetic checkpoint
+2. use the canonical builder index and active census as duplicate gates
+3. gather as many qualifying dirt-pedal records as the available evidence supports
+4. target at least 10 distinct companies/builders per haul when that many qualifying unprocessed companies remain
+5. continue beyond the minimum company count while meaningful unprocessed material is readily available
+6. reconcile aliases, historical names, duplicate product families, and naming changes as part of the work
+7. leave a durable, committed checkpoint that makes the next haul immediately resumable
 
-## Highest-priority design clarification rule
+The 10-company threshold is a minimum throughput floor, not a stopping point.
 
-For any website/UI/design/build task, **clarifying questions that could materially affect the result must be resolved before implementation**.
+When the user says **Continue** after a completed scrape, the next full bulk scrape should begin automatically from the saved alphabetic checkpoint and proceed toward Z.
 
-Before writing or changing site code, actively check for questions about:
-- layout and visual hierarchy
-- navigation and filtering behavior
-- what a click should do
-- what belongs in the main content area versus menus
-- mobile/responsive behavior
-- URL, page, or linking behavior
-- data fields the interface depends on
-- future extensibility when the choice would make later rework likely
+## 4. Builder identity rules
 
-Do not silently invent a design decision just to keep moving. If a foreseeable ambiguity could cause a substantial redo, **stop and ask the user first**. This rule takes priority over speed or convenience.
+`research/BUILDER_MASTER_INDEX.md` is the canonical builder identity list.
 
-When the user has explicitly answered a design decision, treat that answer as the source of truth and record the resulting decision in the project documentation when it affects the site's architecture.
+A research block is a checkpoint, not a builder identity.
 
-## Pedal Research Phase rules
+Before creating a new builder block, check:
 
-PRP follows the actual pedal list shown on the website in exact A-to-Z order.
+- current name
+- historical name
+- alias or shortened name
+- alternate spelling/capitalization
+- successor/predecessor relationship
+- known brand or naming relationship
 
-Work in verified batches of 10 pedals, or as many as can be responsibly completed in one pass. Each pedal gets its own research record.
+If the builder is already represented, do not create another canonical builder identity. Add missing products to the existing identity.
 
-A pedal is PRP Complete only when it has both pedal information and a confirmed picture of that exact pedal/version.
+Keep genuinely different builders separate.
 
-The historical checkpoint above is retained as project history. The current PRP counts and target are maintained in **CURRENT_STATE.md** so this governance file does not become a second status ledger.
+Do not create a new builder solely because of:
 
+- capitalization differences
+- punctuation differences
+- shortened branding
+- retailer naming
+- ordinary cosmetic presentation
+- ordinary product revisions
 
+A product brand, OEM relationship, distributor relationship, collaboration, or naming transition also does not automatically create a new builder identity.
 
-PRP1 batch 006 covered the next ten catalog records in exact order, from **Acid Fuzz - Mk1.5** through **Add+ Pedals - Pi**. New research records were added for **ADA Amps - MP-1 Channel** and eight **Add+ Pedals** products. An exact Effects Database photo was archived for **Add+ Pedals - Blues Player**. Mk1.5 remains photo-pending because no exact safe direct image file was confirmed.
+## 5. Pedal identity rules
 
-The complete operating guide is research/PRP_RULES.md.
+The useful identity is **Builder + Pedal**.
 
+For pedals:
 
+- keep one canonical entry when multiple sources clearly refer to the same product
+- preserve builder or established catalog naming where practical
+- treat materially different public versions as distinct when the product itself is different
+- treat cosmetic colorways, retailer finishes, event artwork, and similar subordinate editions as variations rather than duplicate main-grid cards
+- use explicit model/version/variation relationships instead of creating duplicate catalog identities
 
-## Current site-priority override
+## 6. PRP rules
 
-The active Builder -> Pedals and PRP rules remain preserved. The current priority is **PRP1 photo recovery and pedal research**, with the site foundation regression checks kept in force.
+PRP means Pedal Research Phase.
 
-PRP is active again. Continue from the saved PRP checkpoint and do not call a batch live until the repository validation and GitHub Pages publishing run succeed.
+A pedal is PRP Complete only when both are present:
 
-The site foundation requirements remain:
-- catalog model/version/variation relationships are reliable
-- photo routing is reliable
-- public pedal pages are clear and simple
-- navigation/search behavior is stable
-- deployment validation catches data wiring errors
+1. useful pedal information
+2. a confirmed picture of that exact pedal/model/version
 
-The working site architecture is documented in SITE_ARCHITECTURE.md.
+PRP follows the public catalog in exact A-to-Z order.
 
+A practical working set may contain fewer than 10 records or more than 10 when it remains small enough to verify safely.
 
-## Faceted filter design
+A difficult photo does not permanently block the research queue. Once a responsible exact-model search has been attempted, the record may remain NEEDED and be parked for later recovery while later records continue in catalog order.
 
-The left-hand archive navigation is intended to work as a **progressive, faceted filter system** rather than a single-choice menu.
+Detailed PRP operating rules belong in `research/PRP_RULES.md`.
 
-A visitor may combine clues such as:
+## 7. Photo rules
+
+A photo counts only when it belongs to the exact cataloged pedal/model/version.
+
+Preferred sources include:
+
+- manufacturer/builder product pages
+- reliable historical product records
+- exact-model retailer listings
+- Reverb Sold Only listings and reliable used-market listings
+- Effects Database and other established pedal databases
+
+Do not substitute:
+
+- another pedal
+- another material version
+- a different colorway when it represents a distinct cataloged edition
+- a clone
+- a visually similar pedal
+- an image whose identity is unclear
+
+The public fallback for an unresolved exact photo is **No Photo Archived**.
+
+## 8. Local photo architecture
+
+Verified images are stored locally so the public site does not depend on an external image host.
+
+Primary model/version:
+
+`assets/pedals/{builder-slug}/{pedal-slug}/primary.webp`
+
+Subordinate variation:
+
+`assets/pedals/{builder-slug}/{pedal-slug}/variants/{variation-slug}.webp`
+
+The catalog stores the local runtime path in `image`.
+
+The original image URL and source page remain provenance metadata.
+
+A missing or stale local file never counts as a valid picture.
+
+The complete storage contract is documented in `research/PEDAL_IMAGE_ARCHITECTURE.md`.
+
+## 9. Public site design rules
+
+The public site should remain approachable and visually simple.
+
+The landing page uses:
+
+**Search -> Dirt Type -> Builder -> Pedal**
+
+The left navigation should support progressive/faceted narrowing across:
+
 - search text
 - dirt type
 - builder
 - transistor type
 - diode type
-- other deliberately supported metadata filters
+- other deliberately supported metadata
 
-All selected filters narrow the same result set in the main pedal area. Search and filters must work together rather than behaving as separate modes.
+Selected filters narrow the same result set together.
 
-Filter options should be presented with useful result counts where practical, so visitors can see how much each choice narrows the archive before clicking.
+Builders are alphabetical in a scrollable panel.
 
-The core use case is a visitor remembering incomplete information about a pedal and using several clues to rediscover it.
+The main grid displays public model/version entries, not subordinate cosmetic variation records.
 
-## Landing page navigation
+Individual pedal pages use a consistent layout with:
 
-The landing page uses a compact library layout:
-**Search → Dirt Type → Builder → Pedal**.
+- archive navigation
+- Archive Home
+- search
+- Dirt Type choices
+- alphabetical builder list
+- pedal name and builder
+- Pedal Info
+- dedicated photo area
+- Versions when applicable
+- Colorways & Editions when applicable
+- representative demo when that feature is active
 
-The search field lives at the top of the left-hand navigation panel, above the builder menu, so someone looking for a specific pedal can search immediately.
+Pedal pages must remain usable on desktop and mobile.
 
-The dirt menu has **All Pedals / Overdrive / Distortion / Fuzz**. Choosing a dirt type changes the builder list to builders carrying that type. Builders remain alphabetical in a scrollable panel. Clicking a builder changes the main pedal area on the right.
+Public pages must not expose internal research administration such as Research confidence, Sources checked, internal photo state, PRP terminology, or evidence grades.
 
-Pedal cards open pedal-detail.html with the builder and pedal passed in the URL; pedal.html remains only as a redirect for older links, giving every cataloged pedal an individual page.
+## 10. No evidence bureaucracy
 
-## Canonical builder identity rule
-`research/BUILDER_MASTER_INDEX.md` is the authoritative builder list for the active census.
+Do not create systems for:
 
-A research block is a **checkpoint**, not a builder identity. The same builder may have multiple historical research blocks, but it must have one canonical identity in the master index.
-
-Before creating a new builder block, check the master index by:
-- current builder name
-- historical builder name
-- alias or shortened brand name
-- alternate spelling/capitalization
-- successor/predecessor name
-- known brand or naming relationship
-
-If the builder is already present, do not create another builder census block. Add missing pedal records to the existing canonical builder record.
-
-Do not use the block number as a proxy for the builder number. Block numbering is chronological research bookkeeping only.
-
-## Builder and pedal identity handling
-Keep one canonical builder identity for the same builder even when the name appears differently across products or time.
-
-Keep genuinely different builders separate when they are different companies or brands.
-
-Do not create duplicate entries merely because of:
-- capitalization differences
-- punctuation differences
-- shortened names
-- retailer naming differences
-- ordinary cosmetic presentation differences
-
-For pedals, preserve the product names used by the builder or established catalog. If the builder treats two versions as distinct named products, they may be recorded separately. If two names clearly refer to the same product, consolidate them rather than creating duplicate records.
-
-## No evidence bureaucracy
-Do not create or maintain systems for:
 - evidence grades
 - verification grades
 - secondary-evidence tiers
-- unverified leads
 - confidence scores
 - proof-of-existence records
 - legal-style chains of custody
 
-This is a product census. We are cataloging what was made, not litigating whether it was made.
+The archive is a product census and reference.
 
-Source URLs may be retained simply because they help locate or recheck a product. They are reference links, not a separate classification system.
+Source URLs may be retained because they help locate or recheck information. They are not a separate classification system.
 
+## 11. Canonical data ownership
 
-## Data principles
-The builder/product relationship is the primary unit of work.
+Use one owner for each moving part:
 
-The useful questions are:
-- What builders have made dirt pedals?
-- What overdrive, distortion, and fuzz pedals did each builder make?
-- Which builders are already cataloged?
-- Which pedal names are already cataloged?
-- What builders and products are still missing?
+| Concern | Canonical owner |
+| --- | --- |
+| Public catalog identities and relationships | `research/PEDAL_INDEX.json` |
+| Pedal research prose | `research/pedals/**/*.md` |
+| Archived photo files | `assets/pedals/**` |
+| Photo provenance | `image_source_url` / `image_source_page` |
+| Photo/research mirror | `research/pedals/PEDAL_IMAGES.json` |
+| PRP status | `research/PRP_TRACKER.csv` |
+| Research-to-catalog wiring | `scripts/sync_prp_catalog.py` |
+| Tracker synchronization | `scripts/sync-prp-tracker.py` |
+| Browser photo discovery | `scripts/browser-photo-cache.mjs` |
+| Image conversion/storage | `scripts/cache-pedal-images.py` |
+| Structural validation | `scripts/validate-archive.py` |
+| Shared browser behavior | `assets/js/archive-core.js` |
+| Landing-page behavior | `assets/js/archive-index.js` |
+| Detail-page behavior | `assets/js/archive-detail.js` |
+| Deployment orchestration | `.github/workflows/deploy-pages.yml` |
 
-The research system should make those comparisons easy and immediate.
+Do not create a competing implementation merely because another file is easier to edit.
 
-## Current canonical checkpoint
-As of Batch 217:
-- **502 canonical builder identities** are represented.
-- **216 live research blocks** are present through Block 217, with Block 070 absent and Block 142 removed as a duplicate.
-- The canonical builder index is reconciled through **ID 502 / Block 218**.
-- The active Scrape C checkpoint is **after ZVEX Effects**, with **2352 live company/pedal/type rows**.
+## 12. Design-change discipline
 
-## Workflow discipline
+For any website/UI/design change that could materially affect the result, resolve the design decision before implementation.
+
+Before changing site code, explicitly account for:
+
+- layout and hierarchy
+- navigation/filter behavior
+- click behavior
+- desktop/mobile behavior
+- URL and linking behavior
+- required data fields
+- future extensibility where the choice could create expensive rework
+
+Once the user has made a design decision, treat that decision as the source of truth and record it in the appropriate architecture documentation.
+
+## 13. Operational change discipline
+
 Before an operation:
-1. Read the governing files and current state.
-2. Inspect the actual repository.
-3. Check `research/BUILDER_MASTER_INDEX.md` for duplicate builder identity.
-4. Check whether the builder and pedal names are already present.
-5. Make the smallest coherent catalog change.
 
-After every operation:
-1. Validate the changed files.
-2. Re-read the resulting repository state.
-3. Confirm the result matches the request.
-4. Update `CURRENT_STATE.md` and `research/BREADCRUMB.md`.
-5. Update `research/BUILDER_MASTER_INDEX.md` whenever builder identity or block assignments change.
-6. Commit a recoverable state.
+1. read the governing documents and current state
+2. inspect the actual repository
+3. check the canonical builder index
+4. check Builder + Pedal identity
+5. identify the single file/script that owns the change
+6. make the smallest coherent change
 
-## Durable checkpoints
-The repository is the durable project memory. Every meaningful stopping point must leave enough state for a new ChatGPT/Codex session to resume without relying on conversation history.
+After an operation:
 
+1. validate the changed files
+2. inspect the resulting repository state
+3. confirm the requested behavior
+4. update `CURRENT_STATE.md` and `research/BREADCRUMB.md` when project state changes
+5. update the builder index when identity/block assignments change
+6. commit a recoverable checkpoint
 
-## PRP1 batch 026 checkpoint
+Never weaken a validator to make deployment pass.
 
-Batch 026 performed another exact-order photo-recovery audit across the first 10 incomplete tracker records, from **A.Y.A - Bass Fuzz** through **Accel Audio - OD-SS Express Overdrive**. All ten already have Pedal Info research and their canonical research links remain intact. The A.Y.A Bass Fuzz search was strengthened with current and historical references, but the available current **BASS FUZZ II** listing was not promoted to the base-model image because its model designation is explicitly different. No new direct exact-model image asset met the archive's photo standard in this 10-pedal window, so all ten remain **Picture: NEEDED / PRP Complete: NEEDED**. The work-order correction is explicit: the next exact-order unresolved target remains **A.Y.A - Bass Fuzz**, because the PRP tracker is the source of truth for the first incomplete record.
+## 14. Automation rules
 
+Automation must be:
 
-## Local photo archival rule — September 19, 2026
+- narrow in responsibility
+- safe to rerun
+- restartable
+- protected from duplicate writes
+- backed by durable state
 
-Verified pedal photographs are now intended to be stored locally in the repository rather than used as external runtime dependencies.
+A failed run should leave enough information to resume without guesswork.
 
-Use this backend relationship:
+A deployment is not considered live merely because a GitHub commit exists. The relevant validation and live browser audits must succeed.
 
-Builder -> Public pedal model/version -> Primary local photo -> Optional local colorway/edition variants
+## 15. Durable project memory
 
-Primary image path:
-`assets/pedals/{builder-slug}/{pedal-slug}/primary.webp`
+The repository is the durable project memory.
 
-Variant image path:
-`assets/pedals/{builder-slug}/{pedal-slug}/variants/{variant-slug}.webp`
+Use:
 
-Keep the original image URL and source/product page as provenance metadata. Do not substitute a different model, revision, or colorway merely to fill a blank image slot.
+- `CURRENT_STATE.md` for the current verified operating state
+- `research/BREADCRUMB.md` for durable historical checkpoints
+- `research/BUILDER_MASTER_INDEX.md` for canonical builder identities
+- `research/PRP_RULES.md` for the permanent PRP operating contract
+- `research/PEDAL_IMAGE_ARCHITECTURE.md` for the permanent photo storage contract
+- `SITE_ARCHITECTURE.md` for the public site structure
 
-The public site should consume the local image path. External URLs are temporary migration inputs, not the desired long-term runtime dependency.
+Historical checkpoint records belong in the history files, not in permanent rulebooks.
 
-See `research/PEDAL_IMAGE_ARCHITECTURE.md` for the complete storage contract.
+## 16. Core principle
+
+**One rule. One owner. One source of truth. One recoverable checkpoint.**
