@@ -1,5 +1,5 @@
 {
-  "version": "data-d6c72beaf68f",
+  "version": "data-f75ddd0d9198",
   "count": 3819,
   "pedals": [
     {
@@ -3546,9 +3546,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/attic-audio/putty-saturation-preamp/primary.webp",
       "source_page": "https://www.guitarworld.com/gear/effects-pedals/attic-audio-putty-saturation-preamp-review",
-      "research_record": "./research/pedals/Attic Audio/PUTTY Saturation Preamp.md"
+      "research_record": "./research/pedals/Attic Audio/PUTTY Saturation Preamp.md",
+      "image_source_url": "https://assets-jpcust.jwpsrv.com/thumbnails/zp36lwhz-640.jpg",
+      "image_source_page": "https://www.guitarworld.com/gear/effects-pedals/attic-audio-putty-saturation-preamp-review"
     },
     {
       "company": "Audible Disease",

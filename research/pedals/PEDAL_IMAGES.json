@@ -2671,9 +2671,11 @@
   {
     "builder": "Attic Audio",
     "pedal": "PUTTY Saturation Preamp",
-    "image": null,
+    "image": "./assets/pedals/attic-audio/putty-saturation-preamp/primary.webp",
     "source_page": "https://www.guitarworld.com/gear/effects-pedals/attic-audio-putty-saturation-preamp-review",
-    "research_record": "./research/pedals/Attic Audio/PUTTY Saturation Preamp.md"
+    "research_record": "./research/pedals/Attic Audio/PUTTY Saturation Preamp.md",
+    "image_source_url": "https://assets-jpcust.jwpsrv.com/thumbnails/zp36lwhz-640.jpg",
+    "image_source_page": "https://www.guitarworld.com/gear/effects-pedals/attic-audio-putty-saturation-preamp-review"
   },
   {
     "builder": "Audible Disease",
