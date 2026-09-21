@@ -812,7 +812,14 @@ async function recoverEntry(browser, entry, deepReview = false) {
     const results = await Promise.all(batch.map(async entry => {
       try {
         const review = reviewByKey.get(key(entry.company, entry.pedal));
-        const result = await recoverEntry(browser, entry, review?.Status === 'DEEP_REVIEW');
+        const recoveryPromise = recoverEntry(browser, entry, review?.Status === 'DEEP_REVIEW');
+        const hardTimeout = new Promise((_, reject) => {
+          setTimeout(
+            () => reject(new Error('recovery hard timeout exceeded')),
+            RECOVERY_DEADLINE_MS + 5000
+          );
+        });
+        const result = await Promise.race([recoveryPromise, hardTimeout]);
         return { entry, result };
       } catch (err) {
         return { entry, error: err };
