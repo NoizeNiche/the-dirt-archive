@@ -268,6 +268,39 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
       }
     } catch {}
   }
+
+  // Sold listings remain the preferred source. If Reverb has no sold result
+  // for a hard-to-find pedal, make one bounded active-listing pass as a fallback.
+  // The listing page is still identity-verified before any image is accepted.
+  if (!merged.size) {
+    const fallbackQuery = entry.company + ' ' + entry.pedal;
+    const searchUrl =
+      'https://reverb.com/marketplace?query=' +
+      encodeURIComponent(fallbackQuery) +
+      '&product_type=effects-and-pedals';
+    try {
+      await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: SEARCH_TIMEOUT });
+      await page.waitForTimeout(350);
+      for (let i = 0; i < (deepReview ? 3 : 1); i++) {
+        await page.mouse.wheel(0, 1400);
+        await page.waitForTimeout(250);
+      }
+      const results = await page.evaluate(() => {
+        const out = [];
+        for (const el of document.querySelectorAll('a[href*="/item/"]')) {
+          const href = el.href || '';
+          const title = (el.textContent || '').replace(/\s+/g, ' ').trim();
+          if (!href || !/^https?:\/\/reverb\.com\/item\//i.test(href)) continue;
+          out.push({ purl: href.split('?')[0], title, searchUrl: location.href });
+        }
+        return out;
+      });
+      for (const result of results) {
+        if (!merged.has(result.purl)) merged.set(result.purl, result);
+      }
+    } catch {}
+  }
+
   return [...merged.values()];
 }
 
