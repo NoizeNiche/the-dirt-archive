@@ -1,5 +1,5 @@
 {
-  "version": "data-f75ddd0d9198",
+  "version": "data-d5049617af5b",
   "count": 3819,
   "pedals": [
     {
@@ -7531,9 +7531,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/biyang/ds-7-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds7",
-      "research_record": "./research/pedals/PRP Batch 089/DS-7 Distortion.md"
+      "research_record": "./research/pedals/PRP Batch 089/DS-7 Distortion.md",
+      "image_source_url": "https://img.audiofanzine.com/img/product/normal/1/0/109283.jpg?fm=pjpg&w=300&h=218&fit=max&s=9026736884586de9086ca1a8f3049ec8",
+      "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/biyang/ds-7-distortion/medias/pictures/"
     },
     {
       "company": "Biyang",
@@ -7565,9 +7567,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/biyang/fz-12-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/biyang/classic/fz12",
-      "research_record": "./research/pedals/PRP Batch 090/FZ-12 Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 090/FZ-12 Fuzz.md",
+      "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/biyang-fz-12-fuzz-effects-pedal.jpg",
+      "image_source_page": "https://www.effects-pedals.info/p/biyang-fz-12-fuzz/"
     },
     {
       "company": "Biyang",
