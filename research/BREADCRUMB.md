@@ -1,3 +1,12 @@
+## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
+
+Verified tracker state: **3,819 total / 1,274 researched / 869 pictured / 869 fully complete / 405 researched-photo-pending**.
+
+The live tracker is authoritative. The photo-recovery lane remains active and PRP1 remains gated until the researched-photo-pending count reaches **0**. The repository currently has **0 missing local image references** among declared local photo assets.
+
+The permanent PRP rulebook and archive governance documents were cleaned so historical batch logs remain history rather than acting as current instructions.
+
+---
 ## Photo source seeding pass - September 21, 2026
 
 Seeded verified exact-model photo source pages into both `research/PEDAL_INDEX.json` and `research/pedals/PEDAL_IMAGES.json` for **Big Ear - Slice of Pie; Big Ear NYC - Black Betty; Big Ear NYC - Frank; Big Game Pedals - Bedlam Drive III; BIXONIC - AXENTRIX II; and BIXONIC - EXP2000DR**. These records remain photo-pending until the local cache workflow successfully archives the image. The six references were checked against the exact catalog identities and kept separate by Builder + Pedal.
