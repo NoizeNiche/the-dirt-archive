@@ -20,7 +20,7 @@ concurrency:
 jobs:
   cache:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -36,7 +36,7 @@ jobs:
       - name: Recover verified page images
         env:
           # Smaller committed batches keep recovery bounded and make progress visible.
-          PHOTO_BROWSER_CACHE_LIMIT: "50"
+          PHOTO_BROWSER_CACHE_LIMIT: "100"
           PHOTO_BROWSER_CACHE_CONCURRENCY: "10"
           PHOTO_BROWSER_PAGE_TIMEOUT_MS: "8000"
           PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "8000"
