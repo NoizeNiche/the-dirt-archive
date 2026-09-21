@@ -1,5 +1,9 @@
 ## Photo Recovery / Architecture Checkpoint — September 21, 2026
 
+## Photo recovery scheduler maintenance - September 21, 2026
+
+The browser recovery queue was tightened so each bulk photo pass reserves up to **15 of its available slots for the highest-attempt deep-review cases**. Previously, a full batch of ordinary unresolved records could consume the entire run before hard cases were revisited. The remaining slots continue to prioritize the normal unresolved backlog. This keeps difficult records moving without allowing them to starve the rest of the photo catch-up.
+
 Current verified tracker state: **3,819 total / 1,274 researched / 866 pictured / 866 fully complete / 408 researched-photo-pending**.
 
 The photo cache successfully completed its bounded recovery pass. **Cause & Effect Pedals (CE Pedals) - FET Dream** was recovered and its archived local asset is now present; the repository has **0 missing local image references**.
