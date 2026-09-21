@@ -123,15 +123,15 @@ async function fetchSearchPageIdentity(page, url) {
     const html = await response.text();
     if (!html) return null;
     const compact = html.slice(0, 300000);
-    const titleMatch = compact.match(/<title[^>]*>([\\s\\S]*?)<\\/title>/i);
-    const h1Match = compact.match(/<h1[^>]*>([\\s\\S]*?)<\\/h1>/i);
+    const titleMatch = compact.match(/<title[^>]*>([\s\S]*?)<\/title>/i);
+    const h1Match = compact.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
     const strip = value => String(value || '')
-      .replace(/<script[\\s\\S]*?<\\/script>/gi, ' ')
-      .replace(/<style[\\s\\S]*?<\\/style>/gi, ' ')
+      .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+      .replace(/<style[\s\S]*?<\/style>/gi, ' ')
       .replace(/<[^>]+>/g, ' ')
       .replace(/&nbsp;/gi, ' ')
       .replace(/&amp;/gi, '&')
-      .replace(/\\s+/g, ' ')
+      .replace(/\s+/g, ' ')
       .trim();
     return {
       title: strip(titleMatch?.[1]),
