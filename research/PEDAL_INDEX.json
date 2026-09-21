@@ -6495,9 +6495,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-game-pedals/fy-2-fuzz/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 081/FY-2 Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 081/FY-2 Fuzz.md",
+      "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2017/10/BigGamePedals_FY-2Fuzz-1024x1024.jpg",
+      "image_source_page": "https://www.pedal-of-the-day.com/2017/10/23/big-game-pedals-fy-2-fuzz/"
     },
     {
       "company": "Big Game Pedals",
@@ -6537,9 +6539,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-joe-stomp-box-company/b-309-texas-screamer/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 082/B-309 Texas Screamer.md"
+      "research_record": "./research/pedals/PRP Batch 082/B-309 Texas Screamer.md",
+      "image_source_url": "https://bigjoestompbox.com/cdn/shop/products/11611459_800_900x.jpg?v=1522252542",
+      "image_source_page": "https://bigjoestompbox.com/products/b-309-texas-screamer"
     },
     {
       "company": "Big Joe Stomp Box Company",
@@ -6548,9 +6552,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-joe-stomp-box-company/b-502-empire/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 082/B-502 Empire.md"
+      "research_record": "./research/pedals/PRP Batch 082/B-502 Empire.md",
+      "image_source_url": "https://cdn.long-mcquade.com/files/clearance/md_75_4c59db34fade8fa056b7f29e9e72d7a5_PXL_20230926_133349487.PORTRAIT.ORIGINAL.webp",
+      "image_source_page": "https://www.long-mcquade.com/GearHunter/616851/BIG-JOE-STOMPBOX-COMPANY-B-502-EMPIRE.htm"
     },
     {
       "company": "Big Joe Stomp Box Company",
@@ -6558,9 +6564,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-joe-stomp-box-company/r-402-classic/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 082/R-402 Classic.md"
+      "research_record": "./research/pedals/PRP Batch 082/R-402 Classic.md",
+      "image_source_url": "https://bigjoestompbox.com/cdn/shop/products/11460046_800_900x.jpg?v=1521554303",
+      "image_source_page": "https://bigjoestompbox.com/products/r-402"
     },
     {
       "company": "Big Joe Stomp Box Company",
@@ -6568,9 +6576,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-joe-stomp-box-company/r-403-vintage/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 082/R-403 Vintage.md"
+      "research_record": "./research/pedals/PRP Batch 082/R-403 Vintage.md",
+      "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2020/01/Big-Joe-Stomp-Box-Company-R-403-Vintage-Overdrive-1536x1024.jpg",
+      "image_source_page": "https://www.pedal-of-the-day.com/2020/01/01/big-joe-stomp-box-co-r-403-vintage-overdrive/"
     },
     {
       "company": "Big Joe Stomp Box Company",
@@ -6590,9 +6600,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-john-effects/dirty-sandwich/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 082/Dirty Sandwich.md"
+      "research_record": "./research/pedals/PRP Batch 082/Dirty Sandwich.md",
+      "image_source_url": "https://soundnations.com/wp-content/uploads/2015/07/IMG_2222-for-sound-nations.jpg",
+      "image_source_page": "https://soundnations.com/product/big-john-effects-dirty-sandwich/"
     },
     {
       "company": "Big John Effects",
@@ -6601,9 +6613,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-john-effects/granny-puker/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 082/Granny Puker.md"
+      "research_record": "./research/pedals/PRP Batch 082/Granny Puker.md",
+      "image_source_url": "https://soundnations.com/wp-content/uploads/2015/07/IMG_2232-for-sound-nations-600x600.jpg",
+      "image_source_page": "https://soundnations.com/product/big-john-effects-granny-puker/"
     },
     {
       "company": "Big John Effects",
@@ -6657,9 +6671,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-knob-pedals/appetite-for-distortion/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 083/Appetite for Distortion.md"
+      "research_record": "./research/pedals/PRP Batch 083/Appetite for Distortion.md",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-qzsvj0y9o3/images/stencil/1280x1280/products/38987/145997/YOTHER117605__25861.1658491856.jpg?c=1",
+      "image_source_page": "https://richtonemusic.co.uk/big-knob-pedals-appetite-for-distortion-2nd-hand/"
     },
     {
       "company": "Big Knob Pedals",
@@ -6667,9 +6683,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-knob-pedals/black-metallic/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 083/Black Metallic.md"
+      "research_record": "./research/pedals/PRP Batch 083/Black Metallic.md",
+      "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/METALLIC-15.jpg",
+      "image_source_page": "https://bigknobpedals.com/product/black-metallic/"
     },
     {
       "company": "Big Knob Pedals",
@@ -6677,9 +6695,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-knob-pedals/blues-buster/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 083/Blues Buster.md"
+      "research_record": "./research/pedals/PRP Batch 083/Blues Buster.md",
+      "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2023/05/BKPSITE_BLUESBUSTER.png",
+      "image_source_page": "https://bigknobpedals.com/product/blues-buster/"
     },
     {
       "company": "Big Knob Pedals",
