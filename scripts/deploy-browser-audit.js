@@ -18,14 +18,6 @@ const { chromium } = require('playwright');
             const browser = await chromium.launch({headless:true});
             const context = await browser.newContext({ viewport:{width:1440,height:1000} });
             const page = await context.newPage();
-            const cachedCatalogBody = JSON.stringify(catalog);
-            await page.route('**/research/PEDAL_INDEX.json*', async route => {
-              await route.fulfill({
-                status: 200,
-                contentType: 'application/json; charset=utf-8',
-                body: cachedCatalogBody
-              });
-            });
             const consoleErrors=[];
             const pageErrors=[];
             page.on('console', msg => { if (msg.type()==='error') consoleErrors.push(msg.text()); });
@@ -34,6 +26,14 @@ const { chromium } = require('playwright');
             const catalogResponse = await page.request.get('http://127.0.0.1:4173/research/PEDAL_INDEX.json');
             if (!catalogResponse.ok()) throw new Error('Could not load the pedal index for browser audit.');
             const catalog = await catalogResponse.json();
+            const cachedCatalogBody = JSON.stringify(catalog);
+            await page.route('**/research/PEDAL_INDEX.json*', async route => {
+              await route.fulfill({
+                status: 200,
+                contentType: 'application/json; charset=utf-8',
+                body: cachedCatalogBody
+              });
+            });
             const allEntries = catalog.pedals || [];
             const publicEntries = allEntries.filter(x => x.catalog_role !== 'variation');
             const researchedParents = publicEntries.filter(x => x.research_record);
