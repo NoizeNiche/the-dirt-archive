@@ -4504,9 +4504,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/b-k-butler/tube-driver/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/butler/tubedriver",
-      "research_record": "./research/pedals/B.K. Butler/Tube Driver.md"
+      "research_record": "./research/pedals/B.K. Butler/Tube Driver.md",
+      "image_source_url": "https://www.guitar-auctions.co.uk/public/images/Sales/142/895.JPG",
+      "image_source_page": "https://www.guitar-auctions.co.uk/sale/142/895/BK-Butler-Tube-Driver-Real-Tube-Overdrive-guitar-pedal-boxed"
     },
     {
       "company": "B85 Audio",
@@ -12828,9 +12830,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-79-wolf-pack-king-of-ga-ga-boost-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp79",
-      "research_record": "./research/pedals/PRP Batch 144/cp-79-wolf-pack-king-of-ga-ga-boost-overdrive.md"
+      "research_record": "./research/pedals/PRP Batch 144/cp-79-wolf-pack-king-of-ga-ga-boost-overdrive.md",
+      "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2020/02/Caline-CP-79-Wolfpack-Overdrive-Boost.jpg",
+      "image_source_page": "https://www.pedal-of-the-day.com/2020/02/26/caline-cp-79-wolfpack-overdrive-boost/"
     },
     {
       "company": "Caline",

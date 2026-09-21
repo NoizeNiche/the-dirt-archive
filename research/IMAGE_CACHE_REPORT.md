@@ -13,7 +13,7 @@
 
 ## Newly cached
 
-- Biyang - BL-8 Blue -> `./assets/pedals/biyang/bl-8-blue/primary.webp`
-- Biyang - FZ-7 Fuzz -> `./assets/pedals/biyang/fz-7-fuzz/primary.webp`
+- B.K. Butler - Tube Driver -> `./assets/pedals/b-k-butler/tube-driver/primary.webp`
+- Caline - CP-79 Wolf Pack / King Of Ga-Ga - Boost/Overdrive -> `./assets/pedals/caline/cp-79-wolf-pack-king-of-ga-ga-boost-overdrive/primary.webp`
 
 All pictured pedal images are locally cached.
