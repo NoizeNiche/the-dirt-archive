@@ -1,5 +1,5 @@
 {
-  "version": "data-0a020222c943",
+  "version": "data-596a8ded2684",
   "count": 3819,
   "pedals": [
     {
@@ -2849,9 +2849,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/anasounds/cerberus/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Anasounds/cerberus.md"
+      "research_record": "./research/pedals/Anasounds/cerberus.md",
+      "image_source_url": "https://www.brusheight-buy.com/upload/save_image/05221557_646b124106148.jpg",
+      "image_source_page": "https://www.brusheight-buy.com/products/detail.php?product_id=2182"
     },
     {
       "company": "Anasounds",
@@ -4069,9 +4071,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/avora/fy-6-super-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/avora/fy6",
-      "research_record": "./research/pedals/Avora/FY-6 Super Fuzz.md"
+      "research_record": "./research/pedals/Avora/FY-6 Super Fuzz.md",
+      "image_source_url": "https://shin-ei.com/image/cache/catalog/Astron/af4-1000x1000.jpg",
+      "image_source_page": "https://shin-ei.com/ASTRON-FY6-SUPER-FUZZ"
     },
     {
       "company": "Award-Session",
