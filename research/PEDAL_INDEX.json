@@ -1382,10 +1382,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--KaeQ-vJK--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/pik27qakygzwbpokegok.jpg",
+      "image": "./assets/pedals/airis-effects/the-savage-drive/primary.webp",
       "source_page": "https://www.airiseffects.com/store/p211/savage.html",
       "research_record": "./research/pedals/Airis Effects/The Savage Drive.md",
-      "image_source_page": "https://www.airiseffects.com/savage-drive.html"
+      "image_source_page": "https://www.airiseffects.com/savage-drive.html",
+      "image_source_url": "https://www.airiseffects.com/uploads/3/9/3/2/39321033/savage-drive_orig.jpg"
     },
     {
       "company": "AJ Peat",
@@ -1965,11 +1966,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_bluesfuzzjrmm.jpg",
+      "image": "./assets/pedals/amptweaker/bass-bluesfuzz-jr/primary.webp",
       "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255397/",
       "research_record": "./research/pedals/Amptweaker/Bass_BluesFuzz.md",
       "image_source_page": "https://www.bassgearmag.com/bassic-review-amptweaker-bass-tightfuzz-jr-bass-bluesfuzz-jr-and-pressurizer-pedals/",
-      "image_source_url": "https://www.bassgearmag.com/wp-content/uploads/2019/12/L1600303-.jpg"
+      "image_source_url": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_bluesfuzzjrmm.jpg"
     },
     {
       "company": "Amptweaker",
@@ -1988,11 +1989,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://www.talkbass.com/attachments/img_0797-jpeg.5052266/",
+      "image": "./assets/pedals/amptweaker/bass-tightdrive-jr/primary.webp",
       "source_page": "https://www.talkbass.com/threads/spector%C2%AE-owners-club.1066466/page-4737/",
       "research_record": "./research/pedals/Amptweaker/Bass_TightDrive_Jr.md",
       "image_source_page": "https://www.premierguitar.com/amptweaker-introduces-the-bass-tightdrive-jr-bass-tightrock-jr-and-bass-tightmetal-jr",
-      "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25766315&width=1200&height=841"
+      "image_source_url": "https://www.talkbass.com/attachments/img_0797-jpeg.5052266/"
     },
     {
       "company": "Amptweaker",
@@ -2011,11 +2012,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_basstightfuzzjrkk.jpg",
+      "image": "./assets/pedals/amptweaker/bass-tightfuzz-jr/primary.webp",
       "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255395/",
       "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz_Jr.md",
       "image_source_page": "https://gearhero.com/products/used-amptweaker-bass-tightfuzz-jr",
-      "image_source_url": "http://gearhero.com/cdn/shop/products/ee1de0c2-a72b-4346-8eea-5d8555e43f93.jpg?v=1585255344"
+      "image_source_url": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_basstightfuzzjrkk.jpg"
     },
     {
       "company": "Amptweaker",
@@ -2070,10 +2071,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--TrItPNro--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/pp1mhbc2fmkalbzg4tvt.jpg",
+      "image": "./assets/pedals/amptweaker/bluesfuzz/primary.webp",
       "source_page": "https://reverb.com/uk/p/amptweaker-blues-fuzz",
       "research_record": "./research/pedals/Amptweaker/BluesFuzz.md",
-      "image_source_url": "https://thetoneking.com/wp-content/uploads/2014/12/BluesFuzz.jpg",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--TrItPNro--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/pp1mhbc2fmkalbzg4tvt.jpg",
       "image_source_page": "https://thetoneking.com/amptweaker-bluesfuzz-limited-edition-pedal/"
     },
     {
@@ -2126,10 +2127,10 @@
       "types": [
         "Distortion"
       ],
-      "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_fatrockmm_la.jpg",
+      "image": "./assets/pedals/amptweaker/fat-rock/primary.webp",
       "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255405/",
       "research_record": "./research/pedals/Amptweaker/Fat_Rock.md",
-      "image_source_url": "https://cdn11.bigcommerce.com/s-qzsvj0y9o3/images/stencil/1280x1280/products/53353/304314/YAMPTWEAKER130140__53537.1698315579.jpg?c=1",
+      "image_source_url": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_fatrockmm_la.jpg",
       "image_source_page": "https://reverb.com/item/3460320-amptweaker-fat-rock-distortion-guitar-effects-pedal"
     },
     {
@@ -2216,10 +2217,10 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_tightrockdistortionff_la_2.jpg",
+      "image": "./assets/pedals/amptweaker/tight-rock/primary.webp",
       "source_page": "https://www.soundhouse.co.jp/products/detail/item/241268/",
       "research_record": "./research/pedals/Amptweaker/Tight_Rock.md",
-      "image_source_url": "https://ninevolt.jp/cdn/shop/products/Tight-Rock-03.jpg?v=1607328123&width=1445",
+      "image_source_url": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_tightrockdistortionff_la_2.jpg",
       "image_source_page": "https://ninevolt.jp/products/amptweaker-tight-rock"
     },
     {
@@ -2229,11 +2230,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--1lVdlucH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bpva2q0dheknjhz5xluf.jpg",
+      "image": "./assets/pedals/amptweaker/tight-rock-jr/primary.webp",
       "source_page": "https://reverb.com/item/92068883-amptweaker-tight-rock-jr-og-red",
       "research_record": "./research/pedals/Amptweaker/Tight_Rock_Jr.md",
       "image_source_page": "https://reverb.com/item/95726391-amptweaker-tight-rock-jr-056245-04-07",
-      "image_source_url": "https://foundsound.com.au/cdn/shop/files/Amptweaker_Tight_Rock_Jr_sku_41900_MPN_1_1500x.jpg?v=1774054107"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--1lVdlucH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bpva2q0dheknjhz5xluf.jpg"
     },
     {
       "company": "Amptweaker",
@@ -2253,10 +2254,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_tightfuzzmm.jpg",
+      "image": "./assets/pedals/amptweaker/tightfuzz/primary.webp",
       "source_page": "https://www.soundhouse.co.jp/products/detail/item/241266/",
       "research_record": "./research/pedals/Amptweaker/TightFuzz.md",
-      "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25720116&width=1200&height=600&coordinates=0%2C45%2C0%2C45",
+      "image_source_url": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_tightfuzzmm.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/amptweaker/tightfuzz"
     },
     {
@@ -3286,11 +3287,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--j81VRdN1--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qbr2rqvrkbjea9urcng2.jpg",
+      "image": "./assets/pedals/arcane-analog/arcane-analog-ff66-fuzz-face/primary.webp",
       "source_page": "https://arcaneanalog.bigcartel.com/product/arcane-analog-custom-fuzz-face",
       "research_record": "./research/pedals/PRP Batch 058/ARCANE ANALOG FF66 FUZZ FACE.md",
       "image_source_page": "https://arcaneanalog.bigcartel.com/product/arcane-analog-custom-fuzz-face",
-      "image_source_url": "https://assets.bigcartel.com/product_images/264745511/2N1306+FF+1L.jpg?auto=format&fit=max&h=1200&w=1200"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--j81VRdN1--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qbr2rqvrkbjea9urcng2.jpg"
     },
     {
       "company": "Arcane Analog",
@@ -5079,10 +5080,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--cDPq7Bfx--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zewwglod5rl7ahwm3kcm.jpg",
+      "image": "./assets/pedals/barber-electronics/b-custom-cool/primary.webp",
       "source_page": "https://reverb.com/item/41397924-barber-b-custom-cool-overdrive-pedal",
       "research_record": "./research/pedals/Barber Electronics/B-Custom_Cool.md",
-      "image_source_url": "https://www.tonetronix.com/mm5/graphics/00000001/b-cool.jpg",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--cDPq7Bfx--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zewwglod5rl7ahwm3kcm.jpg",
       "image_source_page": "https://www.tonetronix.com/p/Custom-Cool-Overdrive.html"
     },
     {
@@ -5124,10 +5125,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--Mrq96I7L--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hsqpezn6sighafbuiltx.jpg",
+      "image": "./assets/pedals/barber-electronics/deep-fryer/primary.webp",
       "source_page": "https://reverb.com/item/81932037-barber-electronics-deep-fryer-bass-overdrive-free-shipping",
       "research_record": "./research/pedals/Barber Electronics/Deep_Fryer.md",
-      "image_source_url": "http://resource.noisefx.com/a1/barber_deepfryer.jpg",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--Mrq96I7L--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hsqpezn6sighafbuiltx.jpg",
       "image_source_page": "https://www.noisefx.com/product_info/barber_electronics_deep_fryer"
     },
     {
@@ -5878,11 +5879,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--yc2ACt_c--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/wtw5ihx7ynje6g7ttdeo.jpg",
+      "image": "./assets/pedals/bearfoot-fx/arctic-white-fuzz/primary.webp",
       "source_page": "https://reverb.com/p/bearfoot-fx-arctic-white-fuzz",
       "research_record": "./research/pedals/BearFoot FX/Arctic White Fuzz.md",
       "image_source_page": "https://reverb.com/p/bearfoot-fx-arctic-white-fuzz",
-      "image_source_url": "https://deathcloud.com/cdn/shop/files/BearFootFXArcticWhiteFuzzPedal.jpg?v=1753990369&width=1946"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--yc2ACt_c--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/wtw5ihx7ynje6g7ttdeo.jpg"
     },
     {
       "company": "BearFoot FX",
@@ -5890,11 +5891,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--0nI2clJM--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/81bd4edc-efbf-481d-8175-1ae19b764a7f.jpeg",
+      "image": "./assets/pedals/bearfoot-fx/blueberry-bass-overdrive/primary.webp",
       "source_page": "https://reverb.com/item/101268995-bearfoot-fx-blueberry-bass-overdrive-3bod-handmade-in-usa",
       "research_record": "./research/pedals/BearFoot FX/BlueBerry Bass Overdrive.md",
       "image_source_page": "https://reverb.com/item/66510521-bearfoot-fx-blueberry-bass-overdrive",
-      "image_source_url": "https://img07.shop-pro.jp/PA01348/005/product/156982046.jpg?cmsp_timestamp=20210122175145"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--0nI2clJM--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/81bd4edc-efbf-481d-8175-1ae19b764a7f.jpeg"
     },
     {
       "company": "BearFoot FX",
@@ -6006,10 +6007,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--4ZjXjX7a--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/eocunac2puvk9kpbnzf6.jpg",
+      "image": "./assets/pedals/bearfoot-fx/pink-purple-fuzz/primary.webp",
       "source_page": "https://reverb.com/p/bearfoot-fx-pink-purple-fuzz",
       "research_record": "./research/pedals/BearFoot FX/Pink Purple Fuzz.md",
-      "image_source_page": "https://topshelfinstruments.com.au/products/bearfoot-fx-pink-purple-fuzz-pedal-1"
+      "image_source_page": "https://topshelfinstruments.com.au/products/bearfoot-fx-pink-purple-fuzz-pedal-1",
+      "image_source_url": "http://topshelfinstruments.com.au/cdn/shop/products/heckyea5.jpg?v=1600397024"
     },
     {
       "company": "BearFoot FX",
@@ -6029,11 +6031,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--xQ6Yy85j--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D467%2Ctrim.left%3D0%2Ctrim.width%3D3024%2Ctrim.height%3D3032/f8dc1fd3-accb-4d8e-87d8-6ca67df8da26.jpeg",
+      "image": "./assets/pedals/bearfoot-fx/sparkling-yellow-overdrive/primary.webp",
       "source_page": "https://reverb.com/item/96433533-bearfoot-fx-syod3-sparkling-yellow-overdrive-v3-bjf",
       "research_record": "./research/pedals/BearFoot FX/Sparkling Yellow Overdrive.md",
       "image_source_page": "https://toy-love.hatenablog.com/entry/20140911/1410441150",
-      "image_source_url": "http://hbb.afl.rakuten.co.jp/hgb/?pc=http:%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fninevolt%2fcabinet%2fkihon4%2fimg65148545.jpg%3f_ex%3d300x300&m=http:%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fninevolt%2fcabinet%2fkihon4%2fimg65148545.jpg%3f_ex%3d80x80"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--xQ6Yy85j--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D467%2Ctrim.left%3D0%2Ctrim.width%3D3024%2Ctrim.height%3D3032/f8dc1fd3-accb-4d8e-87d8-6ca67df8da26.jpeg"
     },
     {
       "company": "BearFoot FX",
@@ -6316,10 +6318,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--CRo-YtDA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ktwe69qltfzjxjhw4kpk.jpg",
+      "image": "./assets/pedals/beta-aivin/bod-1-bass-overdrive/primary.webp",
       "source_page": "https://reverb.com/item/15622919-beta-aivin-bod-1-bass-overdrive-pedal",
       "research_record": "./research/pedals/Beta Aivin/BOD-1 Bass Overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/betaaivin/100/bod1"
+      "image_source_page": "https://www.effectsdatabase.com/model/betaaivin/100/bod1",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--CRo-YtDA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ktwe69qltfzjxjhw4kpk.jpg"
     },
     {
       "company": "Beta Aivin",
