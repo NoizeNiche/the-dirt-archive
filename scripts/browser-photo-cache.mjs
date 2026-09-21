@@ -490,7 +490,7 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
         for (const el of document.querySelectorAll('a[href*="/item/"]')) {
           const href = el.href || '';
           const title = (el.textContent || '').replace(/\s+/g, ' ').trim();
-          if (!href || !isReverbListingUrl(href)) continue;
+          if (!href || !/^https?:\/\/reverb\.com(?:\/[a-z]{2}(?:-[a-z]{2})?)?\/item\//i.test(href)) continue;
           out.push({ purl: href.split('?')[0], title, searchUrl: location.href });
         }
         return out;
