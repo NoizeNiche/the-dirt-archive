@@ -270,6 +270,14 @@ async function recoverEntry(browser, entry, deepReview = false) {
         if (pageMatchesIdentity(entry, title + ' ' + body, h1)) {
           sourcePageUsed = pageUrl;
 
+          // Effects Database renders its auction/search image after the initial
+          // document response. Give that verified page a little more time and
+          // capture any image requests it makes. This is still identity-gated by
+          // the page title/body above, so the extra wait cannot admit a lookalike.
+          if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(sourcePageUsed).hostname)) {
+            await page.waitForTimeout(1400);
+          }
+
           for (const selector of ['meta[property="og:image"]', 'meta[name="twitter:image"]']) {
             const value = await page.locator(selector).getAttribute('content').catch(() => null);
             if (value) {
@@ -327,7 +335,9 @@ async function recoverEntry(browser, entry, deepReview = false) {
           // from the verified page and let the normal URL ranking/filtering pick
           // a plausible exact-model asset. Logos/icons remain penalized below.
           for (const url of [...new Set(networkImageUrls)]) {
-            candidates.push({ url, sourcePage: sourcePageUsed, sourceScore: 100 });
+            if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url)) {
+              candidates.push({ url, sourcePage: sourcePageUsed, sourceScore: 110 });
+            }
           }
         }
       } catch {}
