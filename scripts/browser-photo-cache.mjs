@@ -622,6 +622,8 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
         '"' + entry.company + '" "' + entry.pedal + '" guitar pedal',
         '"' + entry.pedal + '" "' + entry.company + '" pedal',
         '"' + entry.pedal + '" guitar pedal',
+        'site:effectsdatabase.com/model "' + entry.company + '" "' + entry.pedal + '"',
+        'site:reverb.com/item "' + entry.company + '" "' + entry.pedal + '"',
         entry.pedal + " pedal"
       ]
     : [entry.company + " " + entry.pedal + " guitar pedal"];
