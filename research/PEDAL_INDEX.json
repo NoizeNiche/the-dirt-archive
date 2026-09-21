@@ -1,5 +1,5 @@
 {
-  "version": "data-bfd7be74f164",
+  "version": "data-498737f6d023",
   "count": 3819,
   "pedals": [
     {
@@ -12011,9 +12011,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cajita-stompboxes/dr-boogie-vn-hi-gain-mesa-boogie/primary.webp",
       "source_page": "https://pedalescajita.mitiendanube.com/productos/dr-boogie-vn-hi-gain-mesa-boogie/",
-      "research_record": "./research/pedals/PRP Batch 136/dr-boogie-vn-hi-gain-mesa-boogie.md"
+      "research_record": "./research/pedals/PRP Batch 136/dr-boogie-vn-hi-gain-mesa-boogie.md",
+      "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/3280-71145400f1f2b4f9e317484664314958-640-0.webp",
+      "image_source_page": "https://pedalescajita.mitiendanube.com/productos/dr-boogie-vn-hi-gain-mesa-boogie/"
     },
     {
       "company": "Cajita Stompboxes",
@@ -12021,9 +12023,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cajita-stompboxes/fbassdrive/primary.webp",
       "source_page": "https://pedalescajita.mitiendanube.com/productos/fbassdrive-overdrive-de-bajo/",
-      "research_record": "./research/pedals/PRP Batch 137/fbassdrive.md"
+      "research_record": "./research/pedals/PRP Batch 137/fbassdrive.md",
+      "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/fbassdrive-225e8659aa88200c5017486421043685-640-0.webp",
+      "image_source_page": "https://pedalescajita.mitiendanube.com/productos/fbassdrive-overdrive-de-bajo/"
     },
     {
       "company": "Cajita Stompboxes",
@@ -12031,9 +12035,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cajita-stompboxes/fuzz-rbmuff-tbmuff/primary.webp",
       "source_page": "https://pedalescajita.mitiendanube.com/productos/fuzz-rbmuff-tbmuff/",
-      "research_record": "./research/pedals/PRP Batch 137/fuzz-rbmuff-tbmuff.md"
+      "research_record": "./research/pedals/PRP Batch 137/fuzz-rbmuff-tbmuff.md",
+      "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/rbmuff-d3f41e043e1827798a17496784238765-640-0.webp",
+      "image_source_page": "https://pedalescajita.mitiendanube.com/productos/fuzz-rbmuff-tbmuff/"
     },
     {
       "company": "Cajita Stompboxes",
@@ -13630,11 +13636,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caswell-modern-electronics-cme/boost-90-clean-drive/primary.webp",
       "source_page": "https://www.pedal-of-the-day.com/2016/02/16/caswell-modern-electronics-boost-90-clean-drive/",
       "research_record": "./research/pedals/PRP Batch 154/caswell-cme-boost-90-clean-drive.md",
       "image_source_page": "https://www.pedal-of-the-day.com/2016/02/16/caswell-modern-electronics-boost-90-clean-drive/",
-      "image_source_url": "https://www.pedal-of-the-day.com/2016/02/16/caswell-modern-electronics-boost-90-clean-drive/"
+      "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2016/02/CaswellModernElectronics_Boost90Drive.jpg"
     },
     {
       "company": "Caswell Modern Electronics (CME)",

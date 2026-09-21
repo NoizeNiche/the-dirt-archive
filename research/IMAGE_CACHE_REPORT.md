@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
 - Cached in this run: **0**
-- Local images retained/reorganized: **8**
+- Local images retained/reorganized: **4**
 - Download failures: **0**
 
 ## Storage layout
