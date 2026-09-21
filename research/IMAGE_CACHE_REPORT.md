@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
-- Staged browser photos converted: **2**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **17**
 
@@ -13,8 +13,7 @@
 
 ## Newly cached
 
-- Award-Session - JD10 Compact Jerry Donahue Sessionmaster -> `./assets/pedals/award-session/jd10-compact-jerry-donahue-sessionmaster/primary.webp`
-- Awestruck Amplification - Highland -> `./assets/pedals/awestruck-amplification/highland/primary.webp`
+- Award-Session - JD20 Jerry Donahue Twin Channel Direct Recording Guitar PreAmp And Overdrive/Distortion Pedal -> `./assets/pedals/award-session/jd20-jerry-donahue-twin-channel-direct-recording-guitar-preamp-and-overdrive-di-30f3db98b9/primary.webp`
 
 ## Still external / failed
 
