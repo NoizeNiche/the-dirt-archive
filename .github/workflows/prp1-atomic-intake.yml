@@ -59,7 +59,7 @@ jobs:
 
       - name: Check PRP1 intake queue
         id: intake_gate
-        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
+        if: steps.photo_gate.outputs.complete == 'true'
         run: |
           if find research/PRP1_INTAKE -maxdepth 1 -type f -name '*.json' -print -quit | grep -q .; then
             echo "has_target=true" >> "$GITHUB_OUTPUT"
