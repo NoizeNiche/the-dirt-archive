@@ -136,7 +136,9 @@ def main():
         raise SystemExit("Home page contains inline JavaScript.")
     if re.search(r"<script(?![^>]*src=)[^>]*>", detail_text, re.I):
         raise SystemExit("Detail page contains inline JavaScript.")
-    if "No Photo Archived" not in home_text or "No Photo Archived" not in detail_text:
+    index_js_text = INDEX_JS.read_text(encoding="utf-8")
+    detail_js_text = DETAIL_JS.read_text(encoding="utf-8")
+    if "No Photo Archived" not in index_js_text or "No Photo Archived" not in detail_text:
         raise SystemExit("No Photo Archived fallback is missing.")
     if "Research confidence" in detail_text or "Sources checked" in detail_text:
         raise SystemExit("Internal research sections leaked into the public detail page.")
