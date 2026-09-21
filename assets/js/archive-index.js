@@ -76,7 +76,7 @@ function renderBuilders(){
   $('builderCount').textContent=rows.length+' builders';
   $('builderListCount').textContent=rows.length;
 
-  const allCount=items.filter(typeMatches).length;
+  const allCount=items.filter(x=>typeMatches(x)&&searchMatches(x)).length;
   let html='<button class="builder allBuilder '+(!selectedBuilder?'active':'')+'" data-builder=""><span class="builderName">All builders</span><span class="builderCount">'+allCount+'</span></button>';
   html+=rows.map(([name,count])=>
     '<button class="builder '+(selectedBuilder===name?'active':'')+'" data-builder="'+esc(name)+'">'+
