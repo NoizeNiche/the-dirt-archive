@@ -92,7 +92,7 @@ function renderColorways(item, colorways){
     const media=v.image
       ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+name)+'" loading="lazy" referrerpolicy="no-referrer">'
       : '<span>No Photo Archived</span>';
-    return '<button class="colorwayCard" type="button" data-variation="'+esc(name)+'">'+
+    return '<button class="colorwayCard" type="button" data-variation="'+esc(name)+'" aria-pressed="false">'+
       '<span class="colorwayThumb">'+media+'</span><span class="colorwayName">'+esc(name)+'</span>'+
     '</button>';
   }).join('');
@@ -103,8 +103,12 @@ function renderColorways(item, colorways){
       const v=colorways.find(x=>(x.variation_name||x.pedal)===name);
       showPhoto(v||item,name);
       wantedVariation=name;
-      buttons.forEach(b=>b.classList.remove('selected'));
+      buttons.forEach(b=>{
+        b.classList.remove('selected');
+        b.setAttribute('aria-pressed','false');
+      });
       btn.classList.add('selected');
+      btn.setAttribute('aria-pressed','true');
     };
   });
   if(wantedVariation){
