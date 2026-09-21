@@ -7945,12 +7945,12 @@
   {
     "builder": "Broughton Audio",
     "pedal": "SV-Pre",
-    "image": null,
+    "image": "./assets/pedals/broughton-audio/sv-pre/primary.webp",
     "source": null,
     "source_page": "https://www.broughtonaudio.com/archive?page=3",
     "research_record": "./research/pedals/PRP Batch 119/broughton-audio-sv-pre.md",
     "image_source_page": "https://www.broughtonaudio.com/archive?page=3",
-    "image_source_url": "https://www.broughtonaudio.com/archive?page=3"
+    "image_source_url": "https://static.wixstatic.com/media/4b9583_aa95f3f0b29c425aaa6d085f804bac97~mv2_d_2801_2749_s_4_2.jpg/v1/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_aa95f3f0b29c425aaa6d085f804bac97~mv2_d_2801_2749_s_4_2.jpg"
   },
   {
     "builder": "Broughton Audio",
@@ -8305,22 +8305,22 @@
   {
     "builder": "BSQ Effects",
     "pedal": "BO-2 Bulls On - Overdrive/Compressor",
-    "image": null,
+    "image": "./assets/pedals/bsq-effects/bo-2-bulls-on-overdrive-compressor/primary.webp",
     "source": null,
     "source_page": "https://www.bsqeffects.com/pedales",
     "research_record": "./research/pedals/PRP Batch 118/bsq-effects-bo-2-bulls-on-overdrive-compressor.md",
     "image_source_page": "https://www.bsqeffects.com/pedales",
-    "image_source_url": "https://www.bsqeffects.com/pedales"
+    "image_source_url": "https://cdn.prod.website-files.com/57e45fc3d0ac813956dc9506/58bf00cb41bb42b54a53067a_sb1-scuttle-buttin-quick-guide.jpg"
   },
   {
     "builder": "BSQ Effects",
     "pedal": "DM-2 Dynamite - Overdrive/Compressor",
-    "image": null,
+    "image": "./assets/pedals/bsq-effects/dm-2-dynamite-overdrive-compressor/primary.webp",
     "source": null,
     "source_page": "https://www.bsqeffects.com/pedales",
     "research_record": "./research/pedals/PRP Batch 118/bsq-effects-dm-2-dynamite-overdrive-compressor.md",
     "image_source_page": "https://www.bsqeffects.com/pedales",
-    "image_source_url": "https://www.bsqeffects.com/pedales"
+    "image_source_url": "https://cdn.prod.website-files.com/57e45fc3d0ac813956dc9506/58bf00cb41bb42b54a53067a_sb1-scuttle-buttin-quick-guide.jpg"
   },
   {
     "builder": "BSQ Effects",
@@ -9118,10 +9118,11 @@
   {
     "builder": "Cajita Stompboxes",
     "pedal": "BRIT30 preamplificador tipo Vox AC30 overdrive",
-    "image": null,
+    "image": "./assets/pedals/cajita-stompboxes/brit30-preamplificador-tipo-vox-ac30-overdrive/primary.webp",
     "source_page": "https://pedalescajita.mitiendanube.com/productos/brit30-preamplificador-tipo-vox-ac30-overdrive/",
     "research_record": "./research/pedals/PRP Batch 136/brit30-preamplificador-tipo-vox-ac30-overdrive.md",
-    "image_source_page": "https://pedalescajita.mitiendanube.com/productos/brit30-preamplificador-tipo-vox-ac30-overdrive/"
+    "image_source_page": "https://pedalescajita.mitiendanube.com/productos/brit30-preamplificador-tipo-vox-ac30-overdrive/",
+    "image_source_url": "https://dcdn-us.mitiendanube.com/stores/006/279/558/products/brit-5-745dae9a57840222c017557786924789-1024-1024.webp"
   },
   {
     "builder": "Cajita Stompboxes",
@@ -9144,10 +9145,11 @@
   {
     "builder": "Cajita Stompboxes",
     "pedal": "Dr Boogie Distorsion Hi Gain Mesa",
-    "image": null,
+    "image": "./assets/pedals/cajita-stompboxes/dr-boogie-distorsion-hi-gain-mesa/primary.webp",
     "source_page": "https://pedalescajita.mitiendanube.com/productos/dr-boogie-distorsion-hi-gain-mesa/",
     "research_record": "./research/pedals/PRP Batch 136/dr-boogie-distorsion-hi-gain-mesa.md",
-    "image_source_page": "https://pedalescajita.mitiendanube.com/productos/dr-boogie-distorsion-hi-gain-mesa/"
+    "image_source_page": "https://pedalescajita.mitiendanube.com/productos/dr-boogie-distorsion-hi-gain-mesa/",
+    "image_source_url": "https://dcdn-us.mitiendanube.com/stores/006/279/558/products/3317-9da5103f7daddad30c17484661087847-1024-1024.webp"
   },
   {
     "builder": "Cajita Stompboxes",
