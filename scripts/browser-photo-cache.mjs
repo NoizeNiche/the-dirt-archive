@@ -1345,9 +1345,10 @@ async function recoverEntry(browser, entry, deepReview = false) {
         };
         row.Attempts = String((Number(row.Attempts) || 0) + 1);
         const attempts = Number(row.Attempts) || 0;
+        const wasDeepReview = existingReview?.Status === 'DEEP_REVIEW';
         row.Status = attempts >= MAX_RECOVERY_ATTEMPTS ? 'PARKED' : 'DEEP_REVIEW';
         row['Last Failure'] = attempts >= MAX_RECOVERY_ATTEMPTS
-          ? 'PARKED after ' + MAX_RECOVERY_ATTEMPTS + ' automatic photo attempts: ' + failure
+          ? 'PARKED after ' + MAX_RECOVERY_ATTEMPTS + (wasDeepReview ? ' deep-review attempts: ' : ' automatic photo attempts: ') + failure
           : failure;
         reviewByKey.set(entryKey, row);
         continue;
