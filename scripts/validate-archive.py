@@ -134,7 +134,7 @@ def main():
         raise SystemExit("Bulk photo cache is not including externally pictured records for localization.")
     if "function isReverbListingUrl" not in photo_cache_script:
         raise SystemExit("Browser photo cache is missing the shared Reverb listing URL matcher.")
-    if r"?:/\\/[a-z]{2}(?:-[a-z]{2})?": not in photo_cache_script:
+    if r"\\/(?:[a-z]{2}(?:-[a-z]{2})?)?\\/item\\/" not in photo_cache_script:
         raise SystemExit("Reverb listing URL matcher is not accepting localized marketplace paths.")
     if "isReverbListingUrl(href)" in photo_cache_script:
         raise SystemExit("Browser-page Reverb filtering is calling a Node-only helper.")
