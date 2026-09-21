@@ -123,10 +123,11 @@ def main():
     deploy_text = DEPLOY.read_text(encoding="utf-8")
     if "./assets/css/archive-index.css" not in home_text or "./assets/js/archive-index.js" not in home_text:
         raise SystemExit("Home page is not wired to external assets.")
-    if "loadCatalog().then(data=>" not in detail_text:
-        raise SystemExit("Detail page is not using the shared catalog loader.")
-    if "loadCatalog().then(r=>{if(!r.ok)" in detail_text:
-        raise SystemExit("Detail page contains the retired duplicate catalog loader.")
+    detail_js_text = DETAIL_JS.read_text(encoding="utf-8")
+    if "loadCatalog()" not in detail_js_text:
+        raise SystemExit("Detail page controller is not using the shared catalog loader.")
+    if "response.json()" in detail_js_text or "r.ok" in detail_js_text:
+        raise SystemExit("Detail page controller contains the retired duplicate catalog loader.")
     if Path(".github/workflows/reconcile-prp-manifest.yml").exists():
         raise SystemExit("Retired duplicate manifest reconciliation workflow is still present.")
     if "./assets/css/archive-detail.css" not in detail_text or "./assets/js/archive-detail.js" not in detail_text:
