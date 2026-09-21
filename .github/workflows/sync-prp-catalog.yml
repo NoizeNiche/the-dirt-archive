@@ -12,6 +12,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: dirt-prp-catalog-sync
+  cancel-in-progress: false
+
 jobs:
   sync:
     if: github.actor != 'github-actions[bot]'
