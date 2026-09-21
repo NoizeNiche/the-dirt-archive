@@ -9627,10 +9627,11 @@
   {
     "builder": "Caline",
     "pedal": "CP-76 Captain Silver Overdrive",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-76-captain-silver-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/captainsilver",
     "research_record": "./research/pedals/PRP Batch 143/cp-76-captain-silver-overdrive.md",
-    "image_source_page": "https://reverb.com/p/caline-cp-76-captain-silver-overdrive"
+    "image_source_page": "https://myguitarshop.co.za/products/caline-cp-76-captain-silver-overdrive",
+    "image_source_url": "https://myguitarshop.co.za/cdn/shop/products/Caline-CP-76-Captain-Silver-Overdrive_1_1024x1024.jpg?v=1606902668"
   },
   {
     "builder": "Caline",
@@ -9840,18 +9841,20 @@
   {
     "builder": "Camuro",
     "pedal": "hachi “8” Classic Modern Fuzz/Bosster",
-    "image": null,
+    "image": "./assets/pedals/camuro/hachi-8-classic-modern-fuzz-bosster/primary.webp",
     "source_page": "https://camuro.co.jp/hachi-8",
     "research_record": "./research/pedals/PRP Batch 147/camuro-hachi-8-classic-modern-fuzz-booster.md",
-    "image_source_page": "https://camuro.co.jp/hachi-8"
+    "image_source_page": "https://aucview.aucfan.com/yahoo/k1028666153/",
+    "image_source_url": "https://auctions.afimg.jp/k1028666153/ya/image/k1028666153.1.jpg"
   },
   {
     "builder": "Camuro",
     "pedal": "Naked Machine",
-    "image": null,
+    "image": "./assets/pedals/camuro/naked-machine/primary.webp",
     "source_page": "https://camuro.co.jp/pedals/nakedmachine",
     "research_record": "./research/pedals/PRP Batch 147/camuro-naked-machine.md",
-    "image_source_page": "https://camuro.co.jp/pedals/nakedmachine"
+    "image_source_page": "http://www.cloudchair.net/guitar/yutaka-aoki-naked-machine-interview/",
+    "image_source_url": "http://www.cloudchair.net/uploads/2014/05/2014-04-23_NM_Top-1024x764.jpg"
   },
   {
     "builder": "Camuro",
@@ -9963,10 +9966,11 @@
   {
     "builder": "Carl Martin",
     "pedal": "Greg Howe's Lick Box",
-    "image": null,
+    "image": "./assets/pedals/carl-martin/greg-howe-s-lick-box/primary.webp",
     "source_page": "https://carlmartin.com/products/greg-howes-lick-box/",
     "research_record": "./research/pedals/PRP Batch 149/carl-martin-greg-howes-lick-box.md",
-    "image_source_page": "https://carlmartin.com/products/greg-howes-lick-box/"
+    "image_source_page": "https://www.musicjunction.com.au/products/carl-martin-greg-howes-lick-box-guitar-pedal",
+    "image_source_url": "https://www.musicjunction.com.au/cdn/shop/files/57325_2.png?v=1754027644&width=2048"
   },
   {
     "builder": "Carl Martin",
@@ -10138,11 +10142,11 @@
   {
     "builder": "Caroline Guitar Company",
     "pedal": "Icarus V2",
-    "image": null,
+    "image": "./assets/pedals/caroline-guitar-company/icarus-v2/primary.webp",
     "source_page": "https://carolineguitar.com/product/icarusv2/",
     "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-icarus-v2.md",
     "image_source_page": "https://carolineguitar.com/product/icarusv2/",
-    "image_source_url": "https://carolineguitar.com/product/icarusv2/"
+    "image_source_url": "https://carolineguitar.com/wp-content/uploads/2021/03/IMG_0063-e1713365865101.jpg"
   },
   {
     "builder": "Caroline Guitar Company",
@@ -10183,11 +10187,11 @@
   {
     "builder": "Caroline Guitar Company",
     "pedal": "Wave Cannon / Cannonball",
-    "image": null,
+    "image": "./assets/pedals/caroline-guitar-company/wave-cannon-cannonball/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caroline/wavecannon",
     "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-wave-cannon-cannonball.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caroline/wavecannon",
-    "image_source_url": "https://www.effectsdatabase.com/model/caroline/wavecannon"
+    "image_source_page": "https://www.soundpure.com/p/caroline-guitar-company-cannonball-custom-pedal/4481",
+    "image_source_url": "https://www.soundpure.com/resources/org.apache.wicket.Application/productImage?id=11779-caroline-guitar-company-wave-cannon-mkii-distortion-pedal-14c4d8ab8f5-48-main.jpg"
   },
   {
     "builder": "Caroline Guitar Company",
@@ -10309,11 +10313,11 @@
   {
     "builder": "Casey Gooby",
     "pedal": "Bag Of Dicks",
-    "image": null,
+    "image": "./assets/pedals/casey-gooby/bag-of-dicks/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caseygooby/bagofdicks",
     "research_record": "./research/pedals/PRP Batch 153/casey-gooby-bag-of-dicks.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caseygooby/bagofdicks",
-    "image_source_url": "https://www.effectsdatabase.com/model/caseygooby/bagofdicks"
+    "image_source_page": "https://www.aceguitars.com.au/bagofdicks.html",
+    "image_source_url": "https://www.aceguitars.com.au/bagofdicks2.jpg"
   },
   {
     "builder": "Casey Gooby",
