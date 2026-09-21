@@ -8596,16 +8596,20 @@
   {
     "builder": "Build Your Own Clone",
     "pedal": "The Large Beaver",
-    "image": null,
+    "image": "./assets/pedals/build-your-own-clone/the-large-beaver/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/byoc/largebeaver",
-    "research_record": "./research/pedals/PRP Batch 132/the-large-beaver.md"
+    "research_record": "./research/pedals/PRP Batch 132/the-large-beaver.md",
+    "image_source_url": "https://medias.audiofanzine.com/images/normal/build-your-own-clone-large-beaver-6579809.jpg",
+    "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/build-your-own-clone/Large-Beaver/"
   },
   {
     "builder": "Build Your Own Clone",
     "pedal": "The Mimosa",
-    "image": null,
+    "image": "./assets/pedals/build-your-own-clone/the-mimosa/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/byoc",
-    "research_record": "./research/pedals/PRP Batch 132/the-mimosa.md"
+    "research_record": "./research/pedals/PRP Batch 132/the-mimosa.md",
+    "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/both_large.jpg",
+    "image_source_page": "https://stompboxschematics.com/circuits/the-mimosa-by-build-your-own-clone-byoc/"
   },
   {
     "builder": "Build Your Own Clone",
@@ -9149,10 +9153,11 @@
   {
     "builder": "Caline",
     "pedal": "CP-30 Red Devil - Heavy Metal",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-30-red-devil-heavy-metal/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp30",
     "research_record": "./research/pedals/PRP Batch 140/cp-30-red-devil-heavy-metal.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp30"
+    "image_source_page": "https://starlitedistribution.ca/product/caline-cp-30-red-devil-heavy-metal-distortion-guitar-effect-pedal-true-bypass/",
+    "image_source_url": "https://starlitedistribution.ca/wp-content/uploads/2023/09/Caline-cp-30-B.jpg"
   },
   {
     "builder": "Caline",
@@ -9173,10 +9178,11 @@
   {
     "builder": "Caline",
     "pedal": "CP-42 Candy Floss Fuzz",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-42-candy-floss-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/candyfloss",
     "research_record": "./research/pedals/PRP Batch 141/cp-42-candy-floss-fuzz.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/candyfloss"
+    "image_source_page": "https://alexnld.com/product/caline-cp-42-candy-floss-fuzz-guitar-effect-pedal-aluminum-alloy-with-true-bypass-guitar-parts/",
+    "image_source_url": "https://alexnld.com/wp-content/uploads/2020/12/b922591c-724d-4b07-aded-e93e5e0295d8.jpg"
   },
   {
     "builder": "Caline",
@@ -9197,82 +9203,92 @@
   {
     "builder": "Caline",
     "pedal": "CP-49 Midlander",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-49-midlander/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp49",
     "research_record": "./research/pedals/PRP Batch 141/cp-49-midlander.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp49"
+    "image_source_page": "https://spartanmusic.co.uk/products/caline-cp-49-midlander-overdrive",
+    "image_source_url": "https://spartanmusic.co.uk/cdn/shop/files/caline-cp-49-midlander-overdrive-309618_03957273-851f-42d3-be0f-8356732c1905.jpg?v=1693168958"
   },
   {
     "builder": "Caline",
     "pedal": "CP-50 Central Station / Leon Drive",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-50-central-station-leon-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp50",
     "research_record": "./research/pedals/PRP Batch 141/cp-50-central-station-leon-drive.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp50"
+    "image_source_page": "https://au.vicedeal.com/products/caline-cp-50-guitar-pedal-central-station-leon-drive-guitar-effect-pedal-true-bypass-effect?variant=UHJvZHVjdFZhcmlhbnQ6MTM4MjczMDIw",
+    "image_source_url": "https://images.nexusapp.co/assets/13/db/d5/73584092.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "CP-501 Osmium - High-Gain Distortion",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-501-osmium-high-gain-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cp500/osmium",
     "research_record": "./research/pedals/PRP Batch 141/cp-501-osmium-high-gain-distortion.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/osmium"
+    "image_source_page": "https://richtonemusic.co.uk/caline-cp-501-osmium-high-gain-distortion-pedal-boxed-2nd-hand/",
+    "image_source_url": "https://cdn11.bigcommerce.com/s-qzsvj0y9o3/images/stencil/1280x1280/products/68252/481114/YCALINE144375__54024.1736852741.jpg?c=1"
   },
   {
     "builder": "Caline",
     "pedal": "CP-501S Sathanas Distortion",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-501s-sathanas-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cp500/sathanas",
     "research_record": "./research/pedals/PRP Batch 141/cp-501s-sathanas-distortion.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/sathanas"
+    "image_source_page": "https://myguitarshop.co.za/products/caline-cp-501s-sathanas-distortion",
+    "image_source_url": "https://myguitarshop.co.za/cdn/shop/files/Caline-CP-501-Sathanas-Distortion-Effect-Pedal-2_1024x1024.jpg?v=1686925352"
   },
   {
     "builder": "Caline",
     "pedal": "CP-502 Mellow Drive",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-502-mellow-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mellowdrive",
     "research_record": "./research/pedals/PRP Batch 141/cp-502-mellow-drive.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/mellowdrive"
+    "image_source_page": "https://dnk.grandado.com/products/caline-cp-502-mellow-drive-pedal-overdrive-guitar-effekt-pedal-guitar-tilbehor?variant=UHJvZHVjdFZhcmlhbnQ6NDg2ODQ4MzE0",
+    "image_source_url": "https://images.nexusapp.co/assets/ff/a3/9f/488405291.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "CP-503 Queen Bee Overdrive",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-503-queen-bee-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cp500/queenbee",
     "research_record": "./research/pedals/PRP Batch 141/cp-503-queen-bee-overdrive.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/queenbee"
+    "image_source_page": "https://www.effects-pedals.info/p/caline-cp-503-queen-bee-overdrive/",
+    "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/caline-queen-bee-overdrive-effects-pedal.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "CP-504 M:Fuzz",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-504-m-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mfuzz",
     "research_record": "./research/pedals/PRP Batch 142/cp-504-m-fuzz.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/mfuzz"
+    "image_source_page": "https://musicexpresscanada.com/product/caline-cp-504-m-fuzz-classic-fuzz-guitar-effect-pedal/",
+    "image_source_url": "https://musicexpresscanada.com/wp-content/uploads/2024/02/CP-504-A-MAIN.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "CP-509 Stack Attack - Preamp Overdrive & Compressor",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-509-stack-attack-preamp-overdrive-compressor/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cp500/stackattack",
     "research_record": "./research/pedals/PRP Batch 142/cp-509-stack-attack-preamp-overdrive-compressor.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/stackattack"
+    "image_source_page": "https://armonicos.cl/pedales/caline-cp-509-stack-attack-preamp-overdrive-compressor",
+    "image_source_url": "https://armonicos.cl/15935-thickbox_default/caline-cp-509-stack-attack-preamp-overdrive-compressor.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "CP-510 Jaguar - Classic High Gain Distortion",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-510-jaguar-classic-high-gain-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cp500/jaguar",
     "research_record": "./research/pedals/PRP Batch 142/cp-510-jaguar-classic-high-gain-distortion.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/jaguar"
+    "image_source_page": "https://au.vicedeal.com/products/caline-cp-510-jaguar-classic-high-gain-distortion-guitar-effect-pedal-guitar-accessories?variant=UHJvZHVjdFZhcmlhbnQ6NDI3MjQ0Mzk2",
+    "image_source_url": "https://images.nexusapp.co/assets/e1/81/4d/488376293.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "CP-511 Enchanted Tone - Highly Prized Overdrive",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-511-enchanted-tone-highly-prized-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cp500/enchantedtone",
     "research_record": "./research/pedals/PRP Batch 142/cp-511-enchanted-tone-highly-prized-overdrive.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/enchantedtone"
+    "image_source_page": "https://www.effects-pedals.info/p/caline-cp-511-enchanted-tone-highly-prized-overdrive/",
+    "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/caline-enchanted-tone-highly-prized-overdrive-effects-pedal.jpg"
   },
   {
     "builder": "Caline",
@@ -9301,10 +9317,11 @@
   {
     "builder": "Caline",
     "pedal": "CP-54 The Big Orange - Crushing Overdrive",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-54-the-big-orange-crushing-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp54",
     "research_record": "./research/pedals/PRP Batch 142/cp-54-the-big-orange-crushing-overdrive.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp54"
+    "image_source_page": "https://www.effects-pedals.info/p/caline-cp-54-the-big-orange-overdrive/",
+    "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/caline-the-big-orange-crushing-overdrive-effects-pedal.jpg"
   },
   {
     "builder": "Caline",
@@ -9317,26 +9334,29 @@
   {
     "builder": "Caline",
     "pedal": "CP-65 Bass Over Drive",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-65-bass-over-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp65",
     "research_record": "./research/pedals/PRP Batch 142/cp-65-bass-over-drive.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp65"
+    "image_source_page": "https://starlitedistribution.ca/product/caline-cp-65-bass-overdrive-designed-for-bass-guitar/",
+    "image_source_url": "https://starlitedistribution.ca/wp-content/uploads/2023/11/CP-65-4-600x600.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "CP-68 Distortion + Delay",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-68-distortion-delay/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp68",
     "research_record": "./research/pedals/PRP Batch 143/cp-68-distortion-delay.md",
-    "image_source_page": "https://jollymusic.com.ph/products/caline-cp-68-distortion-and-delay-guitar-effect-pedal"
+    "image_source_page": "http://www.calinemusic.com/index.php?m=home&c=View&a=index&aid=113",
+    "image_source_url": "http://www.calinemusic.com/uploads/allimg/20230303/1-2303030Z24CL.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "CP-69 High Peak Distortion",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-69-high-peak-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp69",
     "research_record": "./research/pedals/PRP Batch 143/cp-69-high-peak-distortion.md",
-    "image_source_page": "https://www.ceneo.pl/137948554"
+    "image_source_page": "https://www.danguitar.dk/caline-cp-69-high-peak-distortion-guitarpedal",
+    "image_source_url": "https://www.danguitar.dk/img/580/580/resize/c/a/caline_cp-69_high_peak_distortion_guitarpedal_1.jpg"
   },
   {
     "builder": "Caline",
@@ -9357,10 +9377,11 @@
   {
     "builder": "Caline",
     "pedal": "CP-75 Emerald Night - Overdrive",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-75-emerald-night-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp75",
     "research_record": "./research/pedals/PRP Batch 143/cp-75-emerald-night-overdrive.md",
-    "image_source_page": "https://www.chicagomusicexchange.com/products/caline-cp-75-overdrive-1847673"
+    "image_source_page": "https://starlitedistribution.ca/product/caline-cp-75-emerald-night-overdrive-guitar-effect-pedal-with-true-bypass/",
+    "image_source_url": "https://starlitedistribution.ca/wp-content/uploads/2023/11/CP-75-Overdrive-MAIN.jpg"
   },
   {
     "builder": "Caline",
@@ -9373,10 +9394,11 @@
   {
     "builder": "Caline",
     "pedal": "CP-77 Bounty Hunter - Heavy Metal",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-77-bounty-hunter-heavy-metal/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp77",
     "research_record": "./research/pedals/PRP Batch 143/cp-77-bounty-hunter-heavy-metal.md",
-    "image_source_page": "https://www.glazbena-kutija.hr/caline-cp77-bounty-hunter-heavy-metal-hr-hr"
+    "image_source_page": "https://starlitedistribution.ca/product/caline-cp-77-bounty-hunter-heavy-metal-distortion-guitar-effect-pedal/",
+    "image_source_url": "https://starlitedistribution.ca/wp-content/uploads/2023/11/Caline-CP-77-Heavy-Metal-Distortion-E.jpg"
   },
   {
     "builder": "Caline",
@@ -9405,58 +9427,65 @@
   {
     "builder": "Caline",
     "pedal": "CP-84 Honeycomb Tone - Overdrive",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-84-honeycomb-tone-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp84",
     "research_record": "./research/pedals/PRP Batch 144/cp-84-honeycomb-tone-overdrive.md",
-    "image_source_page": "https://www.guitarpusher.com/products/caline-cp-84-the-honeycomb-tone-overdrive"
+    "image_source_page": "https://bigamart.com/product/caline-cp-84-the-honeycomb-tone-overdrive-effect-pedal/",
+    "image_source_url": "https://m.media-amazon.com/images/I/6128fHVVY2L._AC_SL1200_.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "CP-99 Medusa - Overdrive",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-99-medusa-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp99",
     "research_record": "./research/pedals/PRP Batch 144/cp-99-medusa-overdrive.md",
-    "image_source_page": "https://www.musicstore.com/en_US/USD/Caline-CP-99-Medusa-Overdrive/art-GIT0058863-000"
+    "image_source_page": "https://myguitarshop.co.za/products/caline-cp-99-medusa-overdrive",
+    "image_source_url": "https://myguitarshop.co.za/cdn/shop/products/Caline-CP-99-Medusa-Overdrive_5_1024x1024.jpg?v=1606903371"
   },
   {
     "builder": "Caline",
     "pedal": "DCP-02 Brutus",
-    "image": null,
+    "image": "./assets/pedals/caline/dcp-02-brutus/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/dcp/brutus",
     "research_record": "./research/pedals/PRP Batch 145/dcp-02-brutus.md",
-    "image_source_page": "https://bigamart.com/product/caline-dcp-02-brutus-distortion-overdrive-dual-guitar-effects-pedal/"
+    "image_source_page": "https://bigamart.com/product/caline-dcp-02-brutus-distortion-overdrive-dual-guitar-effects-pedal/",
+    "image_source_url": "https://m.media-amazon.com/images/I/81NX07KvPpL._AC_SL1500_.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "DCP-04 Easy Driver",
-    "image": null,
+    "image": "./assets/pedals/caline/dcp-04-easy-driver/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp04",
     "research_record": "./research/pedals/PRP Batch 145/dcp-04-easy-driver.md",
-    "image_source_page": "https://shopee.co.id/Caline-DCP-04-EASY-DRIVER-Distortion-EQ-Effect-Pedal-Guitar-i.1529246101.40200749314"
+    "image_source_page": "https://bigamart.com/product/caline-dcp04-easy-driver-guitarpedal/",
+    "image_source_url": "https://m.media-amazon.com/images/I/71F8ucPKsTL._AC_SL1500_.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "DCP-05 Key West",
-    "image": null,
+    "image": "./assets/pedals/caline/dcp-05-key-west/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp05",
     "research_record": "./research/pedals/PRP Batch 145/dcp-05-key-west.md",
-    "image_source_page": "https://www.chicagomusicexchange.com/products/caline-dcp-05-key-west-compressor-overdrive-1616909"
+    "image_source_page": "https://bigamart.com/product/caline-dcp-05-key-west-guitarpedal-dcp05/",
+    "image_source_url": "https://m.media-amazon.com/images/I/719tMl4mP-L._AC_SL1500_.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "DCP-06 Sundance Special",
-    "image": null,
+    "image": "./assets/pedals/caline/dcp-06-sundance-special/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp06",
     "research_record": "./research/pedals/PRP Batch 145/dcp-06-sundance-special.md",
-    "image_source_page": "https://www.musicplant.co.th/product/82420-80787/calinedcp06"
+    "image_source_page": "http://www.calinemusic.com/index.php?m=home&c=View&a=index&aid=28",
+    "image_source_url": "http://www.calinemusic.com/uploads/allimg/20221121/1-221121155J54X.png"
   },
   {
     "builder": "Caline",
     "pedal": "DCP-07 Brigade",
-    "image": null,
+    "image": "./assets/pedals/caline/dcp-07-brigade/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp07",
     "research_record": "./research/pedals/PRP Batch 145/dcp-07-brigade.md",
-    "image_source_page": "https://www.musicplant.co.th/product/82421-80788/calinedcp07"
+    "image_source_page": "https://www.danguitar.dk/caline-dcp-07-brigade-guitarpedal",
+    "image_source_url": "https://www.danguitar.dk/img/580/580/resize/c/l/cl-dcp07_1-23.png.jpg"
   },
   {
     "builder": "Caline",
@@ -9469,42 +9498,47 @@
   {
     "builder": "Caline",
     "pedal": "DCP-09 Tiger Shark",
-    "image": null,
+    "image": "./assets/pedals/caline/dcp-09-tiger-shark/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/dcp/tigershark",
     "research_record": "./research/pedals/PRP Batch 145/dcp-09-tiger-shark.md",
-    "image_source_page": "https://www.danguitar.dk/caline-dcp-09-tigershark-guitarpedal"
+    "image_source_page": "https://www.danguitar.dk/caline-dcp-09-tigershark-guitarpedal",
+    "image_source_url": "https://www.danguitar.dk/img/580/580/resize/c/l/cl-dcp09_1-23.png.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "DCP-11 Andes",
-    "image": null,
+    "image": "./assets/pedals/caline/dcp-11-andes/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/dcp/andes",
     "research_record": "./research/pedals/PRP Batch 145/dcp-11-andes.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/dcp/andes"
+    "image_source_page": "https://bigamart.com/product/caline-dcp-11-andes-overdrive-and-compressor-boost-guitar-pedal/",
+    "image_source_url": "https://m.media-amazon.com/images/I/61uxbPZm2CL._AC_SL1200_.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "G-001 Tiger Eye Distortion",
-    "image": null,
+    "image": "./assets/pedals/caline/g-001-tiger-eye-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/gseries/tigereye",
     "research_record": "./research/pedals/PRP Batch 146/g-001-tiger-eye-distortion.md",
-    "image_source_page": "https://colombia.yaxa.co/products/caline-mini-pedal-de-distorsion-de-guitarra-g001-serie-g-clasico-efecto-de-distorsion-de-roca-para-guitarra-electrica-true-bypass/"
+    "image_source_page": "https://www.effects-pedals.info/p/caline-g-001-tiger-eye-distortion/",
+    "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2023/07/caline-tigereye-distortion-effects-pedal.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "G-002 Green Mamba Overdrive",
-    "image": null,
+    "image": "./assets/pedals/caline/g-002-green-mamba-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/gseries/greenmamba",
     "research_record": "./research/pedals/PRP Batch 146/g-002-green-mamba-overdrive.md",
-    "image_source_page": "https://www.calinemusic.com/index.php?a=index&aid=54&c=View&m=home"
+    "image_source_page": "http://www.calinemusic.com/index.php?m=home&c=View&a=index&aid=54",
+    "image_source_url": "http://www.calinemusic.com/uploads/allimg/20221122/1-2211221033243b.jpg"
   },
   {
     "builder": "Caline",
     "pedal": "G-014 Nasty Bear Fuzz",
-    "image": null,
+    "image": "./assets/pedals/caline/g-014-nasty-bear-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/gseries/nastybear",
     "research_record": "./research/pedals/PRP Batch 146/g-014-nasty-bear-fuzz.md",
-    "image_source_page": "https://myguitarshop.co.za/products/caline-g014-nasty-bear-fuzz"
+    "image_source_page": "https://www.effects-pedals.info/p/caline-g-013-nasty-bear-fuzz/",
+    "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/11/caline-nasty-bear-fuzz-effects-pedal.jpg"
   },
   {
     "builder": "Cameltone Electronics",
@@ -9741,18 +9775,20 @@
   {
     "builder": "Carl Martin",
     "pedal": "PlexiTone Single",
-    "image": null,
+    "image": "./assets/pedals/carl-martin/plexitone-single/primary.webp",
     "source_page": "https://carlmartin.com/products/plexitone-single/",
     "research_record": "./research/pedals/PRP Batch 149/carl-martin-plexitone-single.md",
-    "image_source_page": "https://carlmartin.com/products/plexitone-single/"
+    "image_source_page": "https://www.pitbullaudio.com/carl-martin-plexitone-single-channel-overdrive-guitar-effects-pedal.html",
+    "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/c/m/cm-plexitone-2.jpg?quality=95&bg-color=255,255,255&fit=bounds&height=&width="
   },
   {
     "builder": "Carl Martin",
     "pedal": "Purple Moon",
-    "image": null,
+    "image": "./assets/pedals/carl-martin/purple-moon/primary.webp",
     "source_page": "https://carlmartin.com/products/purple-moon/",
     "research_record": "./research/pedals/PRP Batch 149/carl-martin-purple-moon.md",
-    "image_source_page": "https://carlmartin.com/products/purple-moon/"
+    "image_source_page": "https://fouldsguitars.com/products/carl-martin-purple-moon",
+    "image_source_url": "https://fouldsguitars.com/cdn/shop/products/CLMNPPLMLANG.jpg?v=1680337291&width=1946"
   },
   {
     "builder": "Carl Martin",
@@ -9765,10 +9801,11 @@
   {
     "builder": "Carl Martin",
     "pedal": "TOD",
-    "image": null,
+    "image": "./assets/pedals/carl-martin/tod/primary.webp",
     "source_page": "https://carlmartin.com/products/tod/",
     "research_record": "./research/pedals/PRP Batch 150/carl-martin-tod.md",
-    "image_source_page": "https://ameaudio.com.au/collections/carl-martin"
+    "image_source_page": "https://ameaudio.com.au/collections/carl-martin",
+    "image_source_url": "http://ameaudio.com.au/cdn/shop/files/ame-audio-web-og-image.webp?v=1702968377&width=2048"
   },
   {
     "builder": "Carlin",
@@ -9868,11 +9905,11 @@
   {
     "builder": "Caroline Guitar Company",
     "pedal": "Icarus V2 / Icarus",
-    "image": null,
+    "image": "./assets/pedals/caroline-guitar-company/icarus-v2-icarus/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caroline/icarus",
     "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-icarus-v2-icarus.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caroline/icarus",
-    "image_source_url": "https://www.effectsdatabase.com/model/caroline/icarus"
+    "image_source_page": "https://www.truetonemusic.com/products/used-caroline-guitar-company-icarus-v2-preamp-overdrive-boost-pedal-with-box",
+    "image_source_url": "https://www.truetonemusic.com/cdn/shop/files/4-DSCF7867_809x700.jpg?v=1697666478"
   },
   {
     "builder": "Caroline Guitar Company",
@@ -9922,11 +9959,11 @@
   {
     "builder": "Caroline Guitar Company",
     "pedal": "Wave Cannon MKII / Superdistorter",
-    "image": null,
+    "image": "./assets/pedals/caroline-guitar-company/wave-cannon-mkii-superdistorter/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caroline/wavecanon/mk2",
     "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-wave-cannon-mkii-superdistorter.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caroline/wavecanon/mk2",
-    "image_source_url": "https://www.effectsdatabase.com/model/caroline/wavecanon/mk2"
+    "image_source_page": "https://www.millrivermusic.com/effects-and-pedals/distortion/caroline-guitar-company-wave-cannon-mkii-superdistorter-effects-pedal-15058",
+    "image_source_url": "https://www.millrivermusic.com/isotope/y/ykd0dhpis3pldw9nx6wm.jpg"
   },
   {
     "builder": "Caroline Guitar Company",
@@ -10581,16 +10618,20 @@
   {
     "builder": "Catalinbread Effects",
     "pedal": "Silver Kiss Overdrive (2007 Reissue)",
-    "image": null,
+    "image": "./assets/pedals/catalinbread-effects/silver-kiss-overdrive-2007-reissue/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 161/catalinbread-silver-kiss-overdrive-2007-reissue.md"
+    "research_record": "./research/pedals/PRP Batch 161/catalinbread-silver-kiss-overdrive-2007-reissue.md",
+    "image_source_url": "https://www.altomusic.com/cdn/shop/files/SK_SHOP-01_x555_2x_7a4dd353-a5f6-4b48-80a0-41ab36567ea8.jpg?v=1750777909&width=1445",
+    "image_source_page": "https://www.altomusic.com/products/catalinbread-silver-kiss-overdrive-pedal-2007-reissue"
   },
   {
     "builder": "Catalinbread Effects",
     "pedal": "StarCrash Fuzz",
-    "image": null,
+    "image": "./assets/pedals/catalinbread-effects/starcrash-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 161/catalinbread-starcrash-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 161/catalinbread-starcrash-fuzz.md",
+    "image_source_url": "https://www.stars-music.com/medias/catalinbread/starcrash-fuzz-hd-2-207464.jpg",
+    "image_source_page": "https://www.stars-music.com/catalinbread-starcrash-fuzz_207464.html"
   },
   {
     "builder": "CatastroFX",

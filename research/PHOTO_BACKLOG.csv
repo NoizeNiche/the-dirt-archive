@@ -462,12 +462,10 @@ Build Your Own Clone,Li'l Breaker,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no 
 Build Your Own Clone,Li'l Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Build Your Own Clone,Li'l Mouse,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Build Your Own Clone,Overdrive 2,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
-Build Your Own Clone,Silver Pony,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Build Your Own Clone,The Full Circle Bass Fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Build Your Own Clone,The Large Beaver,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Build Your Own Clone,The Mimosa,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Build Your Own Clone,The Swede,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Build Your Own Clone,Yellow Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Build Your Own Clone,Silver Pony,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Build Your Own Clone,The Full Circle Bass Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Build Your Own Clone,The Swede,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Build Your Own Clone,Yellow Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Bulinski Effect Pedals,Deluxe Velociraptor Diode Bass Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Bulinski Effect Pedals,Filth Foundry Guitar Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Bulinski Effect Pedals,Gnarly Bee,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -491,13 +489,13 @@ Cajita Stompboxes,Dr Boogie Distorsion Hi Gain Mesa,Distortion,DONE,NEEDED,NEEDE
 Cajita Stompboxes,Dr Boogie VN Hi Gain Mesa Boogie,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Cajita Stompboxes,FBASSDRIVE,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Cajita Stompboxes,Fuzz RBmuff - TBmuff,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
-Cajita Stompboxes,Fuzz Womut,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Cajita Stompboxes,Overdrive Bb.pre,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Cajita Stompboxes,Overdrive Shoc más booster,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Cajita Stompboxes,Preamp 5150 tipo Peavey,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Cajita Stompboxes,Preamp Overdrive Matchbox,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Cajita Stompboxes,TS09 TS08 Overdrive Tube Screamer,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Cajita Stompboxes,VMT Distorsion de Bajo con Blend,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Cajita Stompboxes,Fuzz Womut,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cajita Stompboxes,Overdrive Bb.pre,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cajita Stompboxes,Overdrive Shoc más booster,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cajita Stompboxes,Preamp 5150 tipo Peavey,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cajita Stompboxes,Preamp Overdrive Matchbox,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cajita Stompboxes,TS09 TS08 Overdrive Tube Screamer,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cajita Stompboxes,VMT Distorsion de Bajo con Blend,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Calangary Pedals,Kalagondang Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Calangary Pedals,Zaladin Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 California (by Eleca),CDT-1 Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -505,51 +503,21 @@ California (by Eleca),CHM-1 Heavy Metal,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIE
 California (by Eleca),COD-1 Over Drive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 California Valveworks,The Bone Tender,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Caline,CP-25 Highway Man OD,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
-Caline,CP-30 Red Devil - Heavy Metal,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-32 Clear Veil,Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-34 Headroom - Vintage Distortion,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-42 Candy Floss Fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-43 Pegasus,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-46 Fuzzy Bear,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-49 Midlander,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-50 Central Station / Leon Drive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-501 Osmium - High-Gain Distortion,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-501S Sathanas Distortion,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-502 Mellow Drive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-503 Queen Bee Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-504 M:Fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-509 Stack Attack - Preamp Overdrive & Compressor,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-510 Jaguar - Classic High Gain Distortion,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-511 Enchanted Tone - Highly Prized Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-515 Carmilla - Hi Gain Distortion Machine,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-516 Orange Burst,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-53 Fuzzy Faace - Voodoo Octave,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-54 The Big Orange - Crushing Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-56 Midlander / The Mayday - AC Tone,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-65 Bass Over Drive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-68 Distortion + Delay,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-69 High Peak Distortion,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-70 High Chief - Crushing Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-74 Action Replay - Dyna Red Distortion,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-75 Emerald Night - Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-76 Captain Silver Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-77 Bounty Hunter - Heavy Metal,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-78 Red Thorn Distortion,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-79 Wolf Pack / King Of Ga-Ga - Boost/Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-82 The Broadsword Bass Fuzz + Boost,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-84 Honeycomb Tone - Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,CP-99 Medusa - Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,DCP-02 Brutus,Distortion / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,DCP-04 Easy Driver,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,DCP-05 Key West,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,DCP-06 Sundance Special,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,DCP-07 Brigade,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,DCP-08 Nightwolf,Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,DCP-09 Tiger Shark,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,DCP-11 Andes,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,G-001 Tiger Eye Distortion,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,G-002 Green Mamba Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caline,G-014 Nasty Bear Fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Caline,CP-32 Clear Veil,Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-34 Headroom - Vintage Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-43 Pegasus,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-46 Fuzzy Bear,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-515 Carmilla - Hi Gain Distortion Machine,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-516 Orange Burst,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-53 Fuzzy Faace - Voodoo Octave,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-56 Midlander / The Mayday - AC Tone,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-70 High Chief - Crushing Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-74 Action Replay - Dyna Red Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-76 Captain Silver Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-78 Red Thorn Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-79 Wolf Pack / King Of Ga-Ga - Boost/Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,CP-82 The Broadsword Bass Fuzz + Boost,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caline,DCP-08 Nightwolf,Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Cameltone Electronics,Big Stuff,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Cameltone Electronics,Freak Scene,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Cameltone Electronics,The Nard,Distortion / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -570,24 +538,19 @@ Carella Guitars,Overtube,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable ex
 Carella Guitars,Real Tube,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Carl Martin,DC-Drive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Carl Martin,Greg Howe's Lick Box,Distortion / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
-Carl Martin,PlexiTone Single,Distortion / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Carl Martin,Purple Moon,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Carl Martin,The Fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Carl Martin,TOD,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Carl Martin,The Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Carlin,Carlin Compressor/Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Carlsbro,Carlsbro Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Carlsbro,Carlsbro Suzz,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Carmedon Electronics,Alpha Centauri,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Caroline Guitar Company,Haymaker,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
-Caroline Guitar Company,Icarus V2,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caroline Guitar Company,Icarus V2 / Icarus,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caroline Guitar Company,Olympia,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caroline Guitar Company,Shigeharu,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caroline Guitar Company,The Blues,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caroline Guitar Company,Wave Cannon / Cannonball,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caroline Guitar Company,Wave Cannon MKII,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caroline Guitar Company,Wave Cannon MKII / Superdistorter,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Caroline Guitar Company,Wave Cannon Zero,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Caroline Guitar Company,Icarus V2,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caroline Guitar Company,Olympia,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caroline Guitar Company,Shigeharu,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caroline Guitar Company,The Blues,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caroline Guitar Company,Wave Cannon / Cannonball,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caroline Guitar Company,Wave Cannon MKII,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Caroline Guitar Company,Wave Cannon Zero,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Carruthers,Dyna-Soar Lite,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Carvin,Carvin TO-1 Tube Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Carvin,Carvin UD-1 Ultra Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -611,8 +574,6 @@ Cat's Eye ESP,Mista' Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-
 Cat's Eye ESP,Mutha' Fuzz,Distortion / Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Catalinbread Effects,Perseus DIO (dry distortion section only; octave-down function excluded from census categorying),Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Catalinbread Effects,SideArm Overdrive,Distortion / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
-Catalinbread Effects,Silver Kiss Overdrive (2007 Reissue),Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Catalinbread Effects,StarCrash Fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 CatastroFX,Deface Mk.III,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 CatastroFX,Outbreak,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Cathouse Pedals,Fuzzy Tongue,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -621,11 +582,11 @@ Cave Passive Pedals,60's Break Up,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no 
 Cave Passive Pedals,B-Drive Grunt,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Cave Passive Pedals,Blue Juice,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Cave Passive Pedals,Grunt,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
-Cave Passive Pedals,Grunt MkII,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Cave Passive Pedals,Mini Miff,Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Cave Passive Pedals,Super Grunt,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Cave Passive Pedals,The Wasp,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Cave Passive Pedals,The Wasp MkII,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Cave Passive Pedals,Grunt MkII,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cave Passive Pedals,Mini Miff,Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cave Passive Pedals,Super Grunt,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cave Passive Pedals,The Wasp,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Cave Passive Pedals,The Wasp MkII,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Cave Pedals,Quad,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Caveman Audio / Skrydstrup,ODR1,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,RESEARCH_AND_PHOTO_NEEDED,0,Research record and photo are still needed.
 Caveman Audio / Skrydstrup,ODR2,Overdrive,NEEDED,NEEDED,NEEDED,RESEARCH_AND_PHOTO_NEEDED,0,Research record and photo are still needed.
