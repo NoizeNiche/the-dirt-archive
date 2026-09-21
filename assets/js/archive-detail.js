@@ -129,8 +129,17 @@ function renderDemo(item){
     '<a class="action primary" href="'+esc(demo.url)+'" target="_blank" rel="noopener">Watch demo ↗</a>';
 }
 
+function researchRecordUrl(path){
+  const value=String(path||'');
+  if(/^https?:\\/\\//i.test(value))return new URL(value).href;
+  const base=new URL('./',location.href);
+  const relative=value.replace(/^\\.\\/+/, '').replace(/^\\/+/, '');
+  const encoded=relative.split('/').map(segment=>encodeURIComponent(segment)).join('/');
+  return new URL(encoded,base).href;
+}
+
 async function loadResearchMarkdown(path){
-  const researchUrl=new URL(path,location.href).href;
+  const researchUrl=researchRecordUrl(path);
   let lastError=null;
   for(let attempt=0;attempt<3;attempt++){
     const controller=new AbortController();
