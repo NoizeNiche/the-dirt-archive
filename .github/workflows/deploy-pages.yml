@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Validate archive structure
         run: python scripts/validate-archive.py
@@ -34,25 +34,23 @@ jobs:
           SERVER_PID=$!
           trap 'kill $SERVER_PID' EXIT
 
-          npm install --no-save playwright
+          npm install --no-save playwright@1.63.0
           npx playwright install --with-deps chromium
 
           node scripts/deploy-browser-audit.js
 
       - name: Upload site
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: .
 
       - name: Deploy
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5.0.1
 
       - name: Live audit of every pictured pedal
         env:
           LIVE_SITE_URL: ${{ steps.deployment.outputs.page_url }}
         run: |
-          npm install --no-save playwright
-          npx playwright install --with-deps chromium
           node scripts/live-photo-audit.js
 
