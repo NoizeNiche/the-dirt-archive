@@ -3597,9 +3597,11 @@
   {
     "builder": "Baja Tech Custom",
     "pedal": "Bone Bender",
-    "image": null,
+    "image": "./assets/pedals/baja-tech-custom/bone-bender/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/bajatech/bonebender",
-    "research_record": "./research/pedals/Baja Tech Custom/Bone Bender.md"
+    "research_record": "./research/pedals/Baja Tech Custom/Bone Bender.md",
+    "image_source_url": "https://effectsfreak.com/wp-content/uploads/2022/06/s-l1600-21.jpg",
+    "image_source_page": "https://effectsfreak.com/effect/baja-tech-custom-bone-bender/"
   },
   {
     "builder": "Baja Tech Custom",
@@ -3825,30 +3827,38 @@
   {
     "builder": "Barber Electronics",
     "pedal": "Exacta",
-    "image": null,
+    "image": "./assets/pedals/barber-electronics/exacta/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Barber Electronics/Exacta.md"
+    "research_record": "./research/pedals/Barber Electronics/Exacta.md",
+    "image_source_url": "https://www.pedalsatdawn.com/wp-content/uploads/2020/05/barber-electronics-exacta.jpg",
+    "image_source_page": "https://www.pedalsatdawn.com/pedal-database/barber-electronics-exacta/"
   },
   {
     "builder": "Barber Electronics",
     "pedal": "FWW BUSS",
-    "image": null,
+    "image": "./assets/pedals/barber-electronics/fww-buss/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Barber Electronics/FWW BUSS.md"
+    "research_record": "./research/pedals/Barber Electronics/FWW BUSS.md",
+    "image_source_url": "https://www.mozeguitars.com/cdn/shop/files/148640393_1483_dcee0fcb-d8e2-463a-b7d5-0b225f5abe04_480x480.jpg?v=1762566188",
+    "image_source_page": "https://www.mozeguitars.com/products/barber-electronics-fww-buss"
   },
   {
     "builder": "Barber Electronics",
     "pedal": "FWW BUSS HG",
-    "image": null,
+    "image": "./assets/pedals/barber-electronics/fww-buss-hg/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Barber Electronics/FWW BUSS HG.md"
+    "research_record": "./research/pedals/Barber Electronics/FWW BUSS HG.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/65b06a7618b86c6c69ea8b04/937ad3c4-6b0b-415a-afe7-1000fe79bb04/BUSS_HG_BLue_edit.jpg?format=2500w",
+    "image_source_page": "https://www.barberelectronics.com/fwwbusshg"
   },
   {
     "builder": "Barber Electronics",
     "pedal": "FWW Plus",
-    "image": null,
+    "image": "./assets/pedals/barber-electronics/fww-plus/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Barber Electronics/FWW Plus.md"
+    "research_record": "./research/pedals/Barber Electronics/FWW Plus.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/65b06a7618b86c6c69ea8b04/fbcae055-f2fe-4d40-83a3-1c16e9790a8f/Plus_Gold+copy.jpg",
+    "image_source_page": "https://www.barberelectronics.com/fwwplus"
   },
   {
     "builder": "Barber Electronics",
@@ -3944,9 +3954,11 @@
   {
     "builder": "Barge Concepts",
     "pedal": "BP-1",
-    "image": null,
+    "image": "./assets/pedals/barge-concepts/bp-1/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/bargeconcepts/bp1",
-    "research_record": "./research/pedals/Barge Concepts/BP-1.md"
+    "research_record": "./research/pedals/Barge Concepts/BP-1.md",
+    "image_source_url": "https://medias.audiofanzine.com/images/normal/barge-concepts-bp-1-1788896.jpg",
+    "image_source_page": "https://en.audiofanzine.com/other-guitar-saturation-effect/barge-concepts/BP-1/"
   },
   {
     "builder": "Baroni Lab",
@@ -4457,10 +4469,12 @@
   {
     "builder": "BearFoot FX",
     "pedal": "Honey Beest",
-    "image": null,
+    "image": "./assets/pedals/bearfoot-fx/honey-beest/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/bearfoot/honeybeest",
-    "research_record": "./research/pedals/BearFoot FX/Honey Beest.md"
+    "research_record": "./research/pedals/BearFoot FX/Honey Beest.md",
+    "image_source_url": "https://www.truetonemusic.com/cdn/shop/products/6-DSCF2548_9b6cad16-ee05-48fc-a901-e422a27d175d_4316x2800.jpg?v=1683802087",
+    "image_source_page": "https://www.truetonemusic.com/products/used-bearfoot-fx-honey-beest-plus-serial-number-1-with-box"
   },
   {
     "builder": "BearFoot FX",
@@ -4701,10 +4715,12 @@
   {
     "builder": "Benson Amps",
     "pedal": "Stonk Box",
-    "image": null,
+    "image": "./assets/pedals/benson-amps/stonk-box/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/benson/stonkbox",
-    "research_record": "./research/pedals/Benson Amps/Stonk Box.md"
+    "research_record": "./research/pedals/Benson Amps/Stonk Box.md",
+    "image_source_url": "https://www.hardwaredrum.com/wp-content/uploads/2026/1/1767934101/benson-amps-stonk-box-guitar-effects-pedal-1767934105.webp",
+    "image_source_page": "https://www.hardwaredrum.com/product/benson-amps-stonk-box-guitar-effects-pedal/"
   },
   {
     "builder": "Benson Amps",
@@ -4760,26 +4776,32 @@
   {
     "builder": "BFFX Boutique Pedals",
     "pedal": "Sublime",
-    "image": null,
+    "image": "./assets/pedals/bffx-boutique-pedals/sublime/primary.webp",
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 080/Sublime.md"
+    "research_record": "./research/pedals/PRP Batch 080/Sublime.md",
+    "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25768711&width=1200&height=600&coordinates=0%2C20%2C0%2C20",
+    "image_source_page": "https://www.premierguitar.com/sublime-guitar-company-unveils-new-line-of-pedals"
   },
   {
     "builder": "Bias",
     "pedal": "BDS-1 Distortion",
-    "image": null,
+    "image": "./assets/pedals/bias/bds-1-distortion/primary.webp",
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 080/BDS-1 Distortion.md"
+    "research_record": "./research/pedals/PRP Batch 080/BDS-1 Distortion.md",
+    "image_source_url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0106/user/bb5b88a87f8606134566aaf5a576dee29dca8455e21a3214bafc902e104c4c70/i-img1200x1200-17511741382103vc1qbd34.jpg",
+    "image_source_page": "https://auctions.yahoo.co.jp/jp/auction/t1190630878"
   },
   {
     "builder": "Bias",
     "pedal": "Bias Distortion",
-    "image": null,
+    "image": "./assets/pedals/bias/bias-distortion/primary.webp",
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 080/Bias Distortion.md"
+    "research_record": "./research/pedals/PRP Batch 080/Bias Distortion.md",
+    "image_source_url": "https://www.altomusic.com/cdn/shop/files/PGBIASDISTORTIONPRO_0.jpg?v=1692033559",
+    "image_source_page": "https://www.altomusic.com/products/positive-grid-bias-distortion-pro-tone-matching-distortion-pedal-pg-biasdistortionpro"
   },
   {
     "builder": "Bias",
@@ -4792,10 +4814,12 @@
   {
     "builder": "Big Bite Fx",
     "pedal": "Big Bite",
-    "image": null,
+    "image": "./assets/pedals/big-bite-fx/big-bite/primary.webp",
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 080/Big Bite.md"
+    "research_record": "./research/pedals/PRP Batch 080/Big Bite.md",
+    "image_source_url": "https://static.wixstatic.com/media/114bb8_969b51d06d7c41ca9543c284d21e6cf0~mv2.jpeg/v1/fill/w_1536,h_2048,al_c,q_90,enc_avif,quality_auto/114bb8_969b51d06d7c41ca9543c284d21e6cf0~mv2.jpeg",
+    "image_source_page": "https://www.sellusyourguitar.co.uk/product-page/big-bite-fx-overdrive-guitar-effects-pedal"
   },
   {
     "builder": "Big Ear",
