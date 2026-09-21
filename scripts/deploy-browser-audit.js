@@ -189,10 +189,27 @@ const { chromium } = require('playwright');
               encodeURIComponent(positiveEntry.pedal),
               {waitUntil:'networkidle', timeout:20000}
             );
-            await page.waitForFunction(() => {
-              const el = document.querySelector('#research');
-              return el && el.textContent.trim().length > 40 && !/loading pedal information|could not be loaded/i.test(el.textContent);
-            }, null, {timeout:20000});
+            try {
+              await page.waitForFunction(() => {
+                const el = document.querySelector('#research');
+                return el && el.textContent.trim().length > 40 && !/loading pedal information|could not be loaded/i.test(el.textContent);
+              }, null, {timeout:20000});
+            } catch (error) {
+              const state = await page.evaluate(() => ({
+                url: location.href,
+                researchText: document.querySelector('#research')?.textContent.trim() || '',
+                recordHidden: document.querySelector('#record')?.hidden ?? true
+              }));
+              throw new Error(
+                'Research detail audit failed for ' + positiveEntry.company + ' / ' + positiveEntry.pedal +
+                ' at ' + state.url +
+                '. research="' + state.researchText.slice(0, 300) +
+                '"; recordHidden=' + state.recordHidden +
+                '; consoleErrors=' + JSON.stringify(consoleErrors.slice(-5)) +
+                '; pageErrors=' + JSON.stringify(pageErrors.slice(-5)) +
+                '; cause=' + error.message
+              );
+            }
             const researchedResult = await page.evaluate(() => {
               const el = document.querySelector('#research');
               const record = document.querySelector('#record');
