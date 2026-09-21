@@ -169,6 +169,10 @@ const path = require('node:path');
               if ((await page.locator('#pagination .pageButton.active').textContent()).trim() !== '2') {
                 throw new Error('Pagination did not advance to page 2.');
               }
+              await page.goBack({waitUntil:'networkidle'});
+              if ((await page.locator('#pagination .pageButton.active').textContent()).trim() !== '1') {
+                throw new Error('Browser Back did not restore the previous catalog page.');
+              }
             }
 
             // Search must include variation/colorway names.
