@@ -36,10 +36,12 @@ def main():
 
         key = (row.get("Builder", ""), row.get("Pedal", ""))
         parked = review.get(key)
-        if parked and parked.get("Status") == "DEEP_REVIEW":
+        if parked and parked.get("Status") in {"DEEP_REVIEW", "PARKED"}:
             action = "DEEP_REVIEW"
             attempts = parked.get("Attempts", "0")
             notes = parked.get("Last Failure", "")
+            if parked.get("Status") == "PARKED":
+                notes = f"Parked after {attempts} automatic attempts; hold for deeper/manual photo research."
         elif row.get("Pedal Info") == "DONE":
             action = "PHOTO_NEEDED"
             attempts = "0"
