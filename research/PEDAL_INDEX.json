@@ -1,5 +1,5 @@
 {
-  "version": "data-1779fed13936",
+  "version": "data-edb8895218db",
   "count": 3819,
   "pedals": [
     {
@@ -7182,9 +7182,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bigfoot-engineering/bigfoot-15th-anniversary-fuzz/primary.webp",
       "source_page": "https://www.bigfootengineering.com/store/p117/Bigfoot_15th_Anniversary_Fuzz.html",
-      "research_record": "./research/pedals/PRP Batch 086/Bigfoot 15th Anniversary Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 086/Bigfoot 15th Anniversary Fuzz.md",
+      "image_source_url": "https://www.bigfootengineering.com/uploads/3/0/7/2/30729739/s223396692999655906_p117_i19_w2100.jpeg",
+      "image_source_page": "https://www.bigfootengineering.com/store/p117/15th-anniversary-king-fuzz.html"
     },
     {
       "company": "Bigfoot Engineering",
