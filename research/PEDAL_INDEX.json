@@ -1,5 +1,5 @@
 {
-  "version": "data-892f486b9299",
+  "version": "data-566e29181a9c",
   "count": 3819,
   "pedals": [
     {
@@ -2712,9 +2712,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/analog-noir/tone-bender-mk1-5-tone-bender-mkii/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Analog Noir/Tone Bender MK1.5 - Tone Bender MKII.md"
+      "research_record": "./research/pedals/Analog Noir/Tone Bender MK1.5 - Tone Bender MKII.md",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/63866ae37fa424183230cef5/fc007d4a-3970-4fe2-906e-da2ebb4c942a/IMG_8070.jpg",
+      "image_source_page": "https://www.analognoirelectric.com/kits/p/byo-mk1-tone-bender"
     },
     {
       "company": "Analog Noir",
@@ -3032,9 +3034,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/animals-pedal/diamond-peak-hybrid-over-drive/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Animals Pedal/Diamond Peak Hybrid Over Drive.md"
+      "research_record": "./research/pedals/Animals Pedal/Diamond Peak Hybrid Over Drive.md",
+      "image_source_url": "https://animalspedal.us/cdn/shop/files/Diamond-Peak-Hybrid-Over-drive-01.jpg?v=1753153058&width=1445",
+      "image_source_page": "https://animalspedal.us/products/animals-pedal-diamond-peak-hybrid-over-drive"
     },
     {
       "company": "Animals Pedal",
@@ -3594,9 +3598,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/audio-kitchen/fake-plastic-trees/primary.webp",
       "source_page": "https://www.audiokitchen.co.uk/",
-      "research_record": "./research/pedals/Audio Kitchen/Fake Plastic Trees.md"
+      "research_record": "./research/pedals/Audio Kitchen/Fake Plastic Trees.md",
+      "image_source_url": "https://www.audiokitchen.co.uk/site/assets/files/1959/fake-elastic-trees-audio-kitchen-1.1920x0.jpg",
+      "image_source_page": "https://www.audiokitchen.co.uk/"
     },
     {
       "company": "Audio Kitchen",
