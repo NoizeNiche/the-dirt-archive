@@ -1,16 +1,3 @@
 {
-  "overrides": [
-    {
-      "builder": "1981 Inventions",
-      "pedal": "LVL",
-      "image": "https://cdn11.bigcommerce.com/s-e3wpevzfi1/images/stencil/1280x1280/products/4811/88502/lvl-1__79533.1686767960.jpg?c=2",
-      "source_page": "https://midwoodguitarstudio.com/1981-inventions-lvl-full-range-overdrive-pedal/"
-    },
-    {
-      "builder": "A.Y.A",
-      "pedal": "Frontgate Bass Drive",
-      "image": "https://rvb-img.reverb.com/image/upload/s--sWIzFLVB--/f_auto%2Ct_large/v1727693020/vtrzhulooljqweoefyhp.jpg",
-      "source_page": "https://reverb.com/au/item/84897758-a-y-a-tokyo-japan-frontgate-bassdrive"
-    }
-  ]
+  "overrides": []
 }
