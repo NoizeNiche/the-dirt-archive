@@ -13,6 +13,6 @@
 
 ## Newly cached
 
-- BSM - J-Fuzz -> `./assets/pedals/bsm/j-fuzz/primary.webp`
+- Big Lloyde - Phat Axx -> `./assets/pedals/big-lloyde/phat-axx/primary.webp`
 
 All pictured pedal images are locally cached.

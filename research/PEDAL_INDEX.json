@@ -7063,9 +7063,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-lloyde/phat-axx/primary.webp",
       "source_page": "https://www.effectsdatabase.com/",
-      "research_record": "./research/pedals/PRP Batch 085/Phat Axx.md"
+      "research_record": "./research/pedals/PRP Batch 085/Phat Axx.md",
+      "image_source_url": "https://www.vintageandrare.com/uploads/products/88311/8411370/original.jpg",
+      "image_source_page": "https://www.vintageandrare.com/product/Big-2011-Lloyde-Phat-AXX-Overdrive-Standard-Enclosure-2011-88311"
     },
     {
       "company": "Big Monk Electronic Device Co.",
