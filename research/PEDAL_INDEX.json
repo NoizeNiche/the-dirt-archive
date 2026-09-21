@@ -1,5 +1,5 @@
 {
-  "version": "data-9323a5eac42a",
+  "version": "prp1-cbc-pedals-foxx-tone-machine",
   "count": 3819,
   "pedals": [
     {
@@ -14689,7 +14689,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/CBC Pedals/Foxx Tone Machine.md"
     },
     {
       "company": "CBC Pedals",
