@@ -1,14 +1,15 @@
 ## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
 
-Verified tracker state: **3,819 total / 1,274 researched / 896 pictured / 896 fully complete / 378 researched-photo-pending / 2,923 photo-missing overall**.
+Verified tracker state: **3,819 total / 1,273 researched / 897 pictured / 897 fully complete / 376 researched-photo-pending / 2,922 photo-missing overall**.
 
-The latest verified tracker reflects **17 additional exact-model photos** since the previous 879-photo checkpoint. The most recent cache pass itself successfully archived **Boorocks - LEON Multi-Driver MD-1** from an exact-model source, preserving the source provenance and local canonical image.
+The latest completed photo pass successfully archived the exact-model **Animal Factory Amplification - Godeater+** photo after correcting a pedal-name path collision with the original Godeater. The photo-needed queue is now **0**.
 
-The photo-review queue is now **404 records**: **27 DEEP_REVIEW**, **376 PARKED**, and **1 PHOTO_NEEDED**. The automatic recovery lane continues to rotate the remaining researched-photo cases through exact-source recovery while parked cases stay available for targeted manual reopening.
+The photo-review queue is now **403 records**: **8 DEEP_REVIEW** and **395 PARKED**. Remaining researched-photo cases continue through the automatic recovery lane, while parked cases remain available for targeted manual reopening.
 
 PRP1 remains gated until **researched-photo-pending reaches 0**. Public pedal pages continue to hide Research confidence and Sources checked. The future YouTube demo widget remains deferred until the photo catch-up is complete.
 
 ---
+
 
 ## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
 
