@@ -1,3 +1,13 @@
+## Site UI maintenance checkpoint - September 21, 2026
+
+Detail-page photo presentation is now owned by `assets/css/archive-detail.css` rather than inline styles inside the JavaScript renderer. Photo load failures remain handled by the detail controller, while the validator now rejects inline style attributes in `archive-detail.js`.
+
+Latest maintenance checkpoint: **8d79e5ce7f5d21b6e096a17079beefce17c482d2**.
+
+Photo recovery remains the active gate at the latest verified **378 researched-photo-pending** records. PRP1 remains gated until that reaches **0**.
+
+---
+
 ## Site UI checkpoint - September 21, 2026
 
 Fixed the detail-page builder navigation so only the actual builder is highlighted. Catalog card photos now use a contained presentation so the whole pedal remains visible instead of being cropped. Added a browser-audit regression check for the builder selection state.
