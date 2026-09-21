@@ -14,6 +14,7 @@ on:
       - 'assets/js/**'
       - 'assets/css/**'
       - 'scripts/deploy-browser-audit.js'
+      - 'scripts/serve-static.js'
       - '.github/workflows/deploy-pages.yml'
   workflow_run:
     workflows:
