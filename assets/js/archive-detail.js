@@ -129,6 +129,28 @@ function renderDemo(item){
     '<a class="action primary" href="'+esc(demo.url)+'" target="_blank" rel="noopener">Watch demo ↗</a>';
 }
 
+async function loadResearchMarkdown(path){
+  const researchUrl=new URL(path,location.href).href;
+  let lastError=null;
+  for(let attempt=0;attempt<3;attempt++){
+    const controller=new AbortController();
+    const timer=setTimeout(()=>controller.abort(),5000);
+    try{
+      const response=await fetch(researchUrl,{cache:'no-store',signal:controller.signal});
+      if(!response.ok) throw new Error('Research record request failed: HTTP '+response.status);
+      const markdown=await response.text();
+      if(!markdown.trim()) throw new Error('Research record is empty.');
+      return markdown;
+    }catch(error){
+      lastError=error;
+      if(attempt<2) await new Promise(resolve=>setTimeout(resolve,150));
+    }finally{
+      clearTimeout(timer);
+    }
+  }
+  throw lastError||new Error('Research record could not be loaded.');
+}
+
 loadCatalog()
 .then(data=>{
   const allItems=data.pedals||[];
@@ -179,9 +201,7 @@ loadCatalog()
 
   const researchEl=$('research');
   if(item.research_record){
-    const researchUrl=new URL(item.research_record,location.href).href;
-    fetch(researchUrl,{cache:'no-store'})
-      .then(r=>{if(!r.ok)throw Error(r.status);return r.text()})
+    loadResearchMarkdown(item.research_record)
       .then(md=>{researchEl.innerHTML=renderMarkdown(md)})
       .catch(e=>{researchEl.innerHTML='<p>Pedal information could not be loaded.</p>';console.error(e)})
   }else{
