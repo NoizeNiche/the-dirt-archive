@@ -2,7 +2,7 @@
 // Keep catalog identity, escaping, URLs, and loading here.
 // Page-specific files should focus only on rendering and interaction.
 
-const ARCHIVE_DATA_INDEX = './research/PEDAL_INDEX.json';
+const ARCHIVE_DATA_INDEX = new URL('./research/PEDAL_INDEX.json', location.href).href;
 const ARCHIVE_DIRT_TYPES = Object.freeze(['All', 'Overdrive', 'Distortion', 'Fuzz']);
 
 const $ = id => document.getElementById(id);
