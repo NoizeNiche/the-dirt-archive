@@ -200,11 +200,11 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
   if (!IMAGE_SEARCH_ENABLED) return [];
   const queries = deepReview
     ? [
-        \`"\${entry.company}" "\${entry.pedal}" guitar pedal\`,
-        \`"\${entry.pedal}" "\${entry.company}" pedal\`,
-        \`"\${entry.pedal}" "\${entry.company}"\`
+        '"' + entry.company + '" "' + entry.pedal + '" guitar pedal',
+        '"' + entry.pedal + '" "' + entry.company + '" pedal',
+        '"' + entry.pedal + '" "' + entry.company + '"'
       ]
-    : [\`\${entry.company} \${entry.pedal} guitar pedal\`];
+    : [entry.company + " " + entry.pedal + " guitar pedal"];
 
   const merged = new Map();
   for (const query of queries) {
