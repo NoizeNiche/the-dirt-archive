@@ -7166,9 +7166,11 @@
   {
     "builder": "Boot-Leg Hand Made Effects",
     "pedal": "HZM-1.0 Hizumi",
-    "image": null,
+    "image": "./assets/pedals/boot-leg-hand-made-effects/hzm-1-0-hizumi/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/bootleg/hzm10",
-    "research_record": "./research/pedals/PRP Batch 108/HZM-1.0 Hizumi.md"
+    "research_record": "./research/pedals/PRP Batch 108/HZM-1.0 Hizumi.md",
+    "image_source_url": "http://topshelfinstruments.com.au/cdn/shop/files/2023-07-17_050.jpg?v=1689665774",
+    "image_source_page": "https://topshelfinstruments.com.au/products/boot-leg-hzm-1-0-hizumi-distortion-pedal-2"
   },
   {
     "builder": "Boot-Leg Hand Made Effects",
