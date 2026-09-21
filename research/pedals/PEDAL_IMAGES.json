@@ -935,9 +935,11 @@
   {
     "builder": "AED",
     "pedal": "Blue Bee",
-    "image": null,
+    "image": "./assets/pedals/aed/blue-bee/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/AED/Blue Bee.md"
+    "research_record": "./research/pedals/AED/Blue Bee.md",
+    "image_source_url": "https://i.ebayimg.com/images/g/q8IAAeSw94xoVMiZ/s-l500.jpg",
+    "image_source_page": "https://www.ebay.com/itm/226824498049"
   },
   {
     "builder": "Aether Electronic",
@@ -2306,9 +2308,11 @@
   {
     "builder": "Animals Pedal",
     "pedal": "I Was A Wolf In The Forest Distortion",
-    "image": null,
+    "image": "./assets/pedals/animals-pedal/i-was-a-wolf-in-the-forest-distortion/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Animals Pedal/I Was A Wolf In The Forest Distortion.md"
+    "research_record": "./research/pedals/Animals Pedal/I Was A Wolf In The Forest Distortion.md",
+    "image_source_url": "https://www.musicjunction.com.au/cdn/shop/files/AP-IWWDk_2.png?v=1757553905&width=2048",
+    "image_source_page": "https://www.musicjunction.com.au/products/animals-pedal-i-was-a-wolf-in-the-forest-distortion-mkii"
   },
   {
     "builder": "Animals Pedal",
