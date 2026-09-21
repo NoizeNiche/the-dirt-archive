@@ -371,8 +371,9 @@ const path = require('node:path');
 
             // Every researched parent pedal still needs a readable detail page.
             await page.setViewportSize({width:1440,height:1000});
-            const workerCount = Math.min(4, Math.max(1, researchedParents.length));
-            console.log('Auditing', researchedParents.length, 'researched parent pedal pages with', workerCount, 'workers.');
+            console.log('Auditing', researchedParents.length, 'researched parent pedal pages with 6 workers.');
+
+            const workerCount = Math.min(6, Math.max(1, researchedParents.length));
             let nextIndex = 0;
             const auditFailures = [];
 

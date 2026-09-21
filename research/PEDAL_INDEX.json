@@ -7531,10 +7531,11 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
-      "source_page": null,
+      "image": "./assets/pedals/bixonic/axentrix-ii/primary.webp",
+      "source_page": "https://bixonic-sound.com/blogs/review/axentrix-ii-reveal-at-namm-2025",
       "research_record": "./research/pedals/PRP Batch 097/AXENTRIX II.md",
-      "image_source_page": "https://bixonic-sound.com/blogs/review/axentrix-ii-reveal-at-namm-2025"
+      "image_source_page": "https://bixonic-sound.com/blogs/review/axentrix-ii-reveal-at-namm-2025",
+      "image_source_url": "http://bixonic-sound.com/cdn/shop/articles/AII32atnamm_small_520x500_f1759ecc-064f-4c5e-a5f1-b3cfd24e8544.png?v=1736838528"
     },
     {
       "company": "BIXONIC",
