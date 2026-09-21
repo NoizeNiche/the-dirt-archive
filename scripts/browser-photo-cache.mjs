@@ -442,6 +442,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
     .sort((a, b) => {
       const score = entry => {
         const meta = trackerMeta.get(key(entry.company, entry.pedal));
+        const review = reviewByKey.get(key(entry.company, entry.pedal));
         const order = meta?.order;
         let value = Number.isFinite(order) ? -order : -100000000;
         if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) value += 100;
