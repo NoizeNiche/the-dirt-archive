@@ -172,6 +172,7 @@ The repository uses a single-owner rule for every moving part:
 | Structural validation | `scripts/validate-archive.py` | treat failures as blockers; do not bypass them |
 | Public browser behavior | `assets/js/archive-core.js` + page controllers | keep page-specific behavior out of HTML shells |
 | Deployment orchestration | `.github/workflows/deploy-pages.yml` | publish a validated tree; do not embed application logic |
+| Local browser-audit HTTP server | `scripts/serve-static.js` | serve the checked-out archive for deterministic audits; do not copy server logic into workflows |
 
 ### Change-safety rules
 
