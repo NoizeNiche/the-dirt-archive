@@ -92,10 +92,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--G4-8Vm_q--/quality%3Dmedium-low%2Cheight%3D128%2Cwidth%3D128%2Cfit%3Dcover%2Cgravity%3Dbottom%2Ctrim.top%3D487%2Ctrim.left%3D0%2Ctrim.width%3D2803%2Ctrim.height%3D2802/a5ff13a8-98b7-45ec-a407-646cd7618c27.jpg",
+      "image": "https://1981inventions.com/cdn/shop/files/DSCF5851.jpg?v=1788558906&width=1445",
       "source_page": "https://1981inventions.com/products/forget-lvl",
       "research_record": "./research/pedals/1981 Inventions/LVL.md",
-      "image_source_page": "https://1981inventions.com/products/forget-lvl"
+      "image_source_page": "https://1981inventions.com/products/forget-lvl",
+      "image_source_url": "https://1981inventions.com/cdn/shop/files/DSCF5851.jpg?v=1788558906&width=1445"
     },
     {
       "company": "6 Degrees FX",
@@ -171,9 +172,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--XR2n-LqN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zqe7hhgb6o7hfw9ys8jp.jpg",
+      "image": "https://rvb-img.reverb.com/i/s--5Ji-FEct--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/vtrzhulooljqweoefyhp.jpg",
       "source_page": "https://reverb.com/au/item/73614456-a-y-a-frontgate-bass-drive-sn-1562-09-20",
-      "research_record": "./research/pedals/A.Y.A/Frontgate Bass Drive.md"
+      "research_record": "./research/pedals/A.Y.A/Frontgate Bass Drive.md",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--5Ji-FEct--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/vtrzhulooljqweoefyhp.jpg",
+      "image_source_page": "https://reverb.com/uk/item/84897758-a-y-a-tokyo-japan-frontgate-bassdrive"
     },
     {
       "company": "A/DA",
