@@ -307,8 +307,15 @@ const { chromium } = require('playwright');
 
             async function auditResearchEntry(entry, workerId) {
               const workerPage = await context.newPage();
+              const researchResponses = [];
               workerPage.on('console', msg => { if (msg.type()==='error') consoleErrors.push('[worker '+workerId+'] '+msg.text()); });
               workerPage.on('pageerror', err => pageErrors.push('[worker '+workerId+'] '+String(err)));
+              workerPage.on('response', response => {
+                if (/\/research\/pedals\//i.test(response.url())) {
+                  researchResponses.push({url:response.url(),status:response.status()});
+                  if (researchResponses.length > 5) researchResponses.shift();
+                }
+              });
               try {
                 const url =
                   'http://127.0.0.1:4173/pedal-detail.html?builder=' +
@@ -361,6 +368,7 @@ const { chromium } = require('playwright');
                     resources
                   };
                 }).catch(() => ({url:'',researchText:'',resources:[]}));
+                diagnostic.researchResponses = researchResponses;
                 auditFailures.push(
                   entry.company + ' / ' + entry.pedal +
                   ' -> ' + error.message +
