@@ -1,5 +1,5 @@
 {
-  "version": "data-91d3ca9911bc",
+  "version": "prp1-caveman-audio-skrydstrup-odr2",
   "count": 3819,
   "pedals": [
     {
@@ -14669,7 +14669,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Caveman Audio / Skrydstrup/ODR2.md"
     },
     {
       "company": "CBC Pedals",
