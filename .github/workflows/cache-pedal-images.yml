@@ -7,6 +7,9 @@ on:
     paths:
       - "research/PEDAL_INDEX.json"
       - "research/pedals/PEDAL_IMAGES.json"
+      - "scripts/browser-photo-cache.mjs"
+      - "scripts/cache-pedal-images.py"
+      - ".github/workflows/cache-pedal-images.yml"
   workflow_dispatch:
 permissions:
   contents: write
