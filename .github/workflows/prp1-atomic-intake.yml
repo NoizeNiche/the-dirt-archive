@@ -29,15 +29,24 @@ jobs:
       - name: Check photo catch-up gate
         id: photo_gate
         run: |
-          PHOTO_PENDING=$(python - <<'PY'
-          import csv
+          RECOVERABLE_PHOTO_PENDING=$(python - <<'PY'
+          import csv, json
           from pathlib import Path
-          rows = list(csv.DictReader(Path("research/PRP_TRACKER.csv").open(newline="", encoding="utf-8")))
-          print(sum(1 for row in rows if row.get("Pedal Info") == "DONE" and row.get("Picture") != "DONE"))
+          tracker = list(csv.DictReader(Path("research/PRP_TRACKER.csv").open(newline="", encoding="utf-8")))
+          catalog = json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8"))
+          index = {(x.get("company") or x.get("builder"), x.get("pedal")): x for x in catalog.get("pedals", [])}
+          pending = 0
+          for row in tracker:
+              if row.get("Pedal Info") != "DONE" or row.get("Picture") == "DONE":
+                  continue
+              item = index.get((row.get("Builder"), row.get("Pedal")), {})
+              if item.get("research_record") and (item.get("image_source_page") or item.get("source_page") or item.get("image_source_url") or item.get("image")):
+                  pending += 1
+          print(pending)
           PY
           )
-          echo "researched photo-pending records: $PHOTO_PENDING"
-          if [ "$PHOTO_PENDING" -eq 0 ]; then
+          echo "recoverable researched photo-pending records: $RECOVERABLE_PHOTO_PENDING"
+          if [ "$RECOVERABLE_PHOTO_PENDING" -eq 0 ]; then
             echo "complete=true" >> "$GITHUB_OUTPUT"
             echo "Photo catch-up is complete. PRP1 may proceed."
           else
