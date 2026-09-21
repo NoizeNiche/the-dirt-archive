@@ -32,6 +32,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Refresh tracker from canonical catalog
+        run: python scripts/sync-prp-tracker.py
+
       - name: Check photo catch-up gate
         id: photo_gate
         run: |
