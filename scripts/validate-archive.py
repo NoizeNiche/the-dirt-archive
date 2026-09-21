@@ -22,6 +22,7 @@ DETAIL = ROOT / "pedal-detail.html"
 LEGACY = ROOT / "pedal.html"
 DEPLOY = ROOT / ".github/workflows/deploy-pages.yml"
 STATIC_SERVER = ROOT / "scripts/serve-static.js"
+PHOTO_CACHE = ROOT / "scripts/browser-photo-cache.mjs"
 
 def pair(a, b):
     return (a, b)
@@ -31,7 +32,7 @@ def local(path):
     return ROOT / value
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, HOME, DETAIL, LEGACY, DEPLOY)
+    required = (INDEX, MANIFEST, TRACKER, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, HOME, DETAIL, LEGACY, DEPLOY)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
@@ -184,7 +185,7 @@ def main():
     if "location.replace('./pedal-detail.html'+location.search)" not in LEGACY.read_text(encoding="utf-8"):
         raise SystemExit("Legacy pedal.html redirect is missing.")
 
-    for js in (CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER):
+    for js in (CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE):
         result = subprocess.run(["node", "--check", str(js)], capture_output=True, text=True)
         if result.returncode:
             raise SystemExit(f"JavaScript syntax check failed for {js.relative_to(ROOT)}:\n{result.stderr}")
