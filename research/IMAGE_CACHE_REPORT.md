@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
 - Cached in this run: **0**
-- Local images retained/reorganized: **1**
+- Local images retained/reorganized: **0**
 - Download failures: **0**
 
 ## Storage layout
@@ -11,4 +11,3 @@
 - Original source URL remains stored as `image_source_url`.
 
 All pictured pedal images are locally cached.
-<!-- Active photo recovery continuation -->
