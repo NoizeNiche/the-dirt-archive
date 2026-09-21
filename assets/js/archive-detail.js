@@ -103,8 +103,8 @@ function renderColorways(item, colorways){
       const v=colorways.find(x=>(x.variation_name||x.pedal)===name);
       showPhoto(v||item,name);
       wantedVariation=name;
-      buttons.forEach(b=>b.style.outline='');
-      btn.style.outline='2px solid #111';
+      buttons.forEach(b=>b.classList.remove('selected'));
+      btn.classList.add('selected');
     };
   });
   if(wantedVariation){
