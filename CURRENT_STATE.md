@@ -1,3 +1,11 @@
+## Photo Recovery Checkpoint — September 21, 2026
+
+Current verified tracker state: **3,819 total / 1,268 researched / 808 pictured / 461 researched-photo-pending**.
+
+Public page cleanup remains active: **Research confidence** and **Sources checked** are hidden from pedal pages. A future YouTube demo widget is noted as a later feature and is not part of this photo pass.
+
+PRP1 remains gated until researched-photo-pending reaches **0**.
+
 ## Photo Recovery Checkpoint — September 21, 2026 (07:30 UTC)
 
 Verified photo catch-up state: **3,819 total / 1,268 researched / 793 pictured / 476 researched-photo-pending**. The most recent recovery batch recovered **3 additional exact-match photos** and passed the live deployment audit. PRP1 remains gated until researched-photo-pending reaches **0**.
