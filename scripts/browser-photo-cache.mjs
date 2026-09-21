@@ -15,8 +15,8 @@ const IMAGE_SEARCH_ENABLED = String(process.env.PHOTO_BROWSER_IMAGE_SEARCH || 't
 const PAGE_TIMEOUT = Math.max(4000, Number(process.env.PHOTO_BROWSER_PAGE_TIMEOUT_MS || 8000));
 const SEARCH_TIMEOUT = Math.max(4000, Number(process.env.PHOTO_BROWSER_SEARCH_TIMEOUT_MS || 8000));
 const IMAGE_TIMEOUT = Math.max(2500, Number(process.env.PHOTO_BROWSER_IMAGE_TIMEOUT_MS || 6000));
-const CANDIDATE_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CANDIDATE_LIMIT || 6));
-const SEARCH_VERIFY_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_SEARCH_VERIFY_LIMIT || 5));
+const CANDIDATE_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CANDIDATE_LIMIT || 8));
+const SEARCH_VERIFY_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_SEARCH_VERIFY_LIMIT || 8));
 const TARGET_BUILDER = String(process.env.PHOTO_BROWSER_TARGET_BUILDER || '').trim();
 const TARGET_PEDAL = String(process.env.PHOTO_BROWSER_TARGET_PEDAL || '').trim();
 const PER_BUILDER_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_PER_BUILDER_LIMIT || 4));
@@ -203,7 +203,10 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
         '"' + entry.company + '" "' + entry.pedal + '" guitar pedal',
         '"' + entry.pedal + '" "' + entry.company + '" pedal',
         '"' + entry.pedal + '" "' + entry.company + '"',
-        '"' + entry.pedal + '" "' + entry.company + '" reverb'
+        '"' + entry.pedal + '" "' + entry.company + '" reverb',
+        entry.pedal + " " + entry.company + " pedal",
+        entry.pedal + " pedal photo",
+        entry.company + " " + entry.pedal
       ]
     : [entry.company + " " + entry.pedal + " guitar pedal"];
 
