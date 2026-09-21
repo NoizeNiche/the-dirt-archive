@@ -9,7 +9,7 @@ The GitHub workflow then:
 1. selects the earliest queued target by `PRP_TRACKER.csv` order
 2. writes the individual Pedal Info research record
 3. verifies the catalog/manifest wiring
-4. uses the existing browser image-search and exact-source recovery method for that exact pedal
+4. uses exact-source recovery for that exact pedal, preferring Reverb Sold Listings for marketplace photos, then Effects Database/source pages and broader indexed sources
 5. requires a real local WebP photo and preserved provenance
 6. synchronizes `PEDAL_INDEX.json`, `PEDAL_IMAGES.json`, and `PRP_TRACKER.csv`
 7. marks `PRP Complete = DONE` only when both research and the exact local picture exist
