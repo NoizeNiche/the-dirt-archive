@@ -153,6 +153,9 @@ def main():
         raise SystemExit("Deployment workflow is not wired to the external audit scripts.")
     if "python scripts/validate-archive.py" not in deploy_text:
         raise SystemExit("Deployment workflow is not using the shared validator.")
+    for script_path in ("scripts/deploy-browser-audit.js", "scripts/serve-static.js", "scripts/live-photo-audit.js", "scripts/validate-archive.py"):
+        if script_path not in deploy_text:
+            raise SystemExit(f"Deployment workflow is not watching required operational script: {script_path}")
     if "location.replace('./pedal-detail.html'+location.search)" not in LEGACY.read_text(encoding="utf-8"):
         raise SystemExit("Legacy pedal.html redirect is missing.")
 
