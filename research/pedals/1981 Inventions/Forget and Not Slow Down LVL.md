@@ -1,7 +1,7 @@
 # 1981 Inventions — Forget and Not Slow Down LVL
 
 ## PRP identity
-- **Archive parent:** LVL
+- **Archive parent:** Forget and Not Slow Down LVL
 - **Builder:** 1981 Inventions
 - **Catalog type:** Overdrive
 - **Identity:** Commemorative Forget and Not Slow Down edition of the LVL full-range overdrive.

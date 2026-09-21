@@ -1,7 +1,7 @@
 # 1981 Inventions — DRV MOD 1 (WHITE)
 
 ## PRP identity
-- **Archive parent:** DRV MOD 1
+- **Archive parent:** DRV MOD 1 (WHITE)
 - **Builder:** 1981 Inventions
 - **Catalog type:** Distortion
 - **Identity:** White-finish catalog entry for the DRV MOD 1 V1 circuit.
