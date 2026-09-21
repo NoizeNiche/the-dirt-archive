@@ -1679,7 +1679,9 @@
     "image": "https://rvb-img.reverb.com/i/s--1lVdlucH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bpva2q0dheknjhz5xluf.jpg",
     "source": "Direct photograph of exact pedal",
     "source_page": "https://reverb.com/item/92068883-amptweaker-tight-rock-jr-og-red",
-    "research_record": "./research/pedals/Amptweaker/Tight_Rock_Jr.md"
+    "research_record": "./research/pedals/Amptweaker/Tight_Rock_Jr.md",
+    "image_source_page": "https://foundsound.com.au/collections/pedals/products/41900",
+    "image_source_url": "https://foundsound.com.au/cdn/shop/files/Amptweaker_Tight_Rock_Jr_sku_41900_MPN_1_1500x.jpg?v=1774054107"
   },
   {
     "builder": "Amptweaker",
@@ -4398,7 +4400,7 @@
     "source_page": "https://reverb.com/p/bearfoot-fx-arctic-white-fuzz",
     "research_record": "./research/pedals/BearFoot FX/Arctic White Fuzz.md",
     "image_source_page": "https://deathcloud.com/products/bearfoot-fx-arctic-white",
-    "image_source_url": "https://deathcloud.com/cdn/shop/files/BearFootFXArcticWhiteFuzzPedal.jpg?v=1753990369"
+    "image_source_url": "https://deathcloud.com/cdn/shop/files/BearFootFXArcticWhiteFuzzPedal.jpg?v=1753990369&width=1946"
   },
   {
     "builder": "BearFoot FX",
@@ -4759,8 +4761,8 @@
     "source": "verified research source",
     "source_page": "https://reverb.com/item/15622919-beta-aivin-bod-1-bass-overdrive-pedal",
     "research_record": "./research/pedals/Beta Aivin/BOD-1 Bass Overdrive.md",
-    "image_source_page": "https://www.sonicmusic.it/effetti-a-pedale-per-basso/1415-beta-aivin-bod-1-bass-overdrive.html",
-    "image_source_url": "https://www.sonicmusic.it/1030-large_default/beta-aivin-bod-1-bass-overdrive.jpg"
+    "image_source_page": "https://reverb.com/uk/item/15622919-beta-aivin-bod-1-bass-overdrive-pedal",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--2SHPX-_Y--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/uggo87itfbpusctqtjdc.jpg"
   },
   {
     "builder": "Beta Aivin",
@@ -11020,8 +11022,8 @@
     "image": "./assets/pedals/cause-effect-pedals-ce-pedals/fet-dream/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cause & Effect Pedals (CE Pedals)/FET Dream.md",
-    "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25740619&width=1200&height=600&coordinates=0%2C154%2C0%2C155",
-    "image_source_page": "https://www.premierguitar.com/cause-effect-pedals-release-fet-dream"
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/ce-pedals-effects-and-pedals-fuzz-ce-pedals-fet-dream-used-u3620451409-29006952005767.jpg?v=1650278647&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/ce-pedals-fet-dream-1389745"
   },
   {
     "builder": "Caustic FX",
