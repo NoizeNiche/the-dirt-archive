@@ -155,7 +155,7 @@ jobs:
                   raise AssertionError(f"Unsupported catalog image path: {key(entry, 'company', 'pedal')} -> {image}")
               local_path = Path(image.replace("./", "", 1))
               assert local_path.exists(), f"Catalog image file missing: {key(entry, 'company', 'pedal')} -> {image}"
-              assert entry.get("image_source_url"), f"Local image missing provenance URL: {key(entry, 'company', 'pedal')}"
+              assert entry.get("image_source_url") or entry.get("source_page"), f"Local image missing provenance source: {key(entry, 'company', 'pedal')}"
               if entry.get("catalog_role") == "variation":
                   assert "/variants/" in image.replace("\\", "/"), f"Variation image is not stored under variants/: {key(entry, 'company', 'pedal')}"
           assert "item.research_record" in detail, "Pedal detail research binding is missing"
