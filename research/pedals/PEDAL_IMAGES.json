@@ -11104,9 +11104,11 @@
   {
     "builder": "Cave Passive Pedals",
     "pedal": "Grunt",
-    "image": null,
+    "image": "./assets/pedals/cave-passive-pedals/grunt/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 160/cave-grunt.md"
+    "research_record": "./research/pedals/PRP Batch 160/cave-grunt.md",
+    "image_source_url": "http://2.bp.blogspot.com/_dmqWMPSMlTM/S9HuXZUpZ-I/AAAAAAAAABY/sqv3rwPQOFQ/w1200-h630-p-k-no-nu/grunt.JPG",
+    "image_source_page": "http://www.rexbass.com/2010/04/cave-passive-pedals-grunt-review.html"
   },
   {
     "builder": "Cave Passive Pedals",

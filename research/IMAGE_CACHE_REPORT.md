@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
-- Staged browser photos converted: **2**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **0**
 
@@ -13,7 +13,6 @@
 
 ## Newly cached
 
-- Brantone Electronics - Vintage Tweed Overdrive -> `./assets/pedals/brantone-electronics/vintage-tweed-overdrive/primary.webp`
-- Build Your Own Clone - Li'l Beaver (Ram's Head) -> `./assets/pedals/build-your-own-clone/li-l-beaver-ram-s-head/primary.webp`
+- Cave Passive Pedals - Grunt -> `./assets/pedals/cave-passive-pedals/grunt/primary.webp`
 
 All pictured pedal images are locally cached.
