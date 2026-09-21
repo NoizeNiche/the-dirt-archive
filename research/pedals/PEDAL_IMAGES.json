@@ -414,7 +414,8 @@
     "pedal": "Vintage Scream'in Overdrive",
     "image": "https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp",
     "source_page": "https://reverb.com/au/item/99862869-accel-audio-vintage-scream-in-overdrive-tri-mode-drive-boost",
-    "research_record": "./research/pedals/Accel Audio/Vintage Scream'in Overdrive.md"
+    "research_record": "./research/pedals/Accel Audio/Vintage Scream'in Overdrive.md",
+    "image_source_page": "https://reverb.com/uk/item/99862869-accel-audio-vintage-scream-in-overdrive-tri-mode-drive-boost"
   },
   {
     "builder": "Acid Age Electronics",
@@ -811,7 +812,7 @@
     "image": "https://rvb-img.reverb.com/i/s--cPJtDBfl--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y7ha5ajkqtrfut0qr7gu.jpg",
     "source_page": "https://www.effectsdatabase.com/model/addrock/boostmaster",
     "research_record": "./research/pedals/Addrock Musical Products/Boostmaster.md",
-    "image_source_page": "https://reverb.com/item/71081327-addrock-boostmaster-red"
+    "image_source_page": "https://www.effectsdatabase.com/model/addrock/boostmaster"
   },
   {
     "builder": "Addrock Musical Products",
@@ -2606,7 +2607,7 @@
     "image": "https://rvb-img.reverb.com/i/s--R9Ok8B28--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/a7bc35c8-94df-4de1-852a-00e1225e5486.jpg",
     "source_page": "https://reverb.com/item/96732158-asheville-guitar-pedals-rat-king-2025-white",
     "research_record": "./research/pedals/PRP Batch 059/Rat King.md",
-    "image_source_page": "https://reverb.com/item/96732158-asheville-guitar-pedals-rat-king-2025-white"
+    "image_source_page": "https://reverb.com/item/89342629-asheville-guitar-pedals-rat-king-2025-black"
   },
   {
     "builder": "Astral ToneWorx",
@@ -4414,7 +4415,7 @@
     "source": "Reverb exact-model listing",
     "source_page": "https://reverb.com/item/101268995-bearfoot-fx-blueberry-bass-overdrive-3bod-handmade-in-usa",
     "research_record": "./research/pedals/BearFoot FX/BlueBerry Bass Overdrive.md",
-    "image_source_page": "https://shop.geekinbox.jp/?pid=156982046",
+    "image_source_page": "https://reverb.com/item/66510521-bearfoot-fx-blueberry-bass-overdrive",
     "image_source_url": "https://img07.shop-pro.jp/PA01348/005/product/156982046.jpg?cmsp_timestamp=20210122175145"
   },
   {
@@ -5659,7 +5660,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": "https://www.youtube.com/watch?v=HWwK5HCAb8E",
-    "research_record": "./research/pedals/PRP Batch 088/Gleam.md"
+    "research_record": "./research/pedals/PRP Batch 088/Gleam.md",
+    "image_source_page": "https://reverb.com/en-fi/item/89660904-bispell-audio-gleam-fuzz-guitar-effects-pedal"
   },
   {
     "builder": "Bispell Audio",
@@ -5675,7 +5677,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": "https://www.guitarpedalx.com/news/gpx-blog/the-new-v1-5-edition-of-bispell-audios-superior-saxon-jtm45--super-lead-plexi-miab-enhances-its-gain-range-and-refines-the-tone-stack",
-    "research_record": "./research/pedals/PRP Batch 088/Saxon.md"
+    "research_record": "./research/pedals/PRP Batch 088/Saxon.md",
+    "image_source_page": "https://bispellaudio.com/prod/saxon"
   },
   {
     "builder": "Bispell Audio",
