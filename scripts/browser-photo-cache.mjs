@@ -21,6 +21,7 @@ const TARGET_BUILDER = String(process.env.PHOTO_BROWSER_TARGET_BUILDER || '').tr
 const TARGET_PEDAL = String(process.env.PHOTO_BROWSER_TARGET_PEDAL || '').trim();
 const PER_BUILDER_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_PER_BUILDER_LIMIT || 4));
 const RECOVERY_DEADLINE_MS = Math.max(10000, Number(process.env.PHOTO_BROWSER_RECOVERY_DEADLINE_MS || 35000));
+const MAX_RECOVERY_ATTEMPTS = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS || 12));
 
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
@@ -1062,13 +1063,15 @@ async function recoverEntry(browser, entry, deepReview = false) {
   // the deep-review queue and works through it.
   let candidates = orderedCandidates;
   if (!TARGET_BUILDER && !TARGET_PEDAL) {
-    const normalCandidates = orderedCandidates.filter(
-      entry => reviewByKey.get(key(entry.company, entry.pedal))?.Status !== 'DEEP_REVIEW'
-    );
+    const normalCandidates = orderedCandidates.filter(entry => {
+      const status = reviewByKey.get(key(entry.company, entry.pedal))?.Status;
+      return status !== 'DEEP_REVIEW' && status !== 'PARKED';
+    });
     const deepCandidates = orderedCandidates
-      .filter(
-        entry => reviewByKey.get(key(entry.company, entry.pedal))?.Status === 'DEEP_REVIEW'
-      )
+      .filter(entry => {
+        const review = reviewByKey.get(key(entry.company, entry.pedal));
+        return review?.Status === 'DEEP_REVIEW' && (Number(review.Attempts) || 0) < MAX_RECOVERY_ATTEMPTS;
+      })
       .sort((a, b) => {
         const aReview = reviewByKey.get(key(a.company, a.pedal));
         const bReview = reviewByKey.get(key(b.company, b.pedal));
@@ -1080,8 +1083,9 @@ async function recoverEntry(browser, entry, deepReview = false) {
         if (Number.isFinite(aOrder) && Number.isFinite(bOrder)) return aOrder - bOrder;
         return 0;
       });
-    // Keep fresh cases moving, but reserve a bounded slice for the hardest
-    // deep-review records based on actual retry count, not catalog position.
+    // Keep fresh cases moving, but reserve a bounded slice for still-active
+    // deep-review records. Cases at the attempt cutoff are parked and removed
+    // from automatic recovery until a later deeper/manual research pass.
     const HARD_CASE_SLOTS = Math.min(15, LIMIT);
     const freshSlots = Math.max(0, LIMIT - HARD_CASE_SLOTS);
     const highAttemptCases = [...deepCandidates]
@@ -1174,9 +1178,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
           Attempts: '0',
           'Last Failure': ''
         };
-        row.Status = 'DEEP_REVIEW';
         row.Attempts = String((Number(row.Attempts) || 0) + 1);
-        row['Last Failure'] = failure;
+        const attempts = Number(row.Attempts) || 0;
+        row.Status = attempts >= MAX_RECOVERY_ATTEMPTS ? 'PARKED' : 'DEEP_REVIEW';
+        row['Last Failure'] = attempts >= MAX_RECOVERY_ATTEMPTS
+          ? 'PARKED after ' + MAX_RECOVERY_ATTEMPTS + ' automatic photo attempts: ' + failure
+          : failure;
         reviewByKey.set(entryKey, row);
         continue;
       }
@@ -1201,7 +1208,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
   await browser.close();
 
   console.log('Browser photo recovery: recovered ' + recovered + '; attempted ' + attempted + '; failures ' + failures.length + '.');
-  console.log('Photo deep-review queue: ' + reviewByKey.size + ' records parked for deeper research.');
+  const parked = [...reviewByKey.values()].filter(row => row.Status === 'PARKED').length;
+  console.log('Photo review queue: ' + reviewByKey.size + ' records; ' + parked + ' parked at the automatic-attempt cutoff.');
   for (const failure of failures) console.log(' - ' + failure);
 })().catch(err => {
   console.error(err);
