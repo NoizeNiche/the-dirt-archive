@@ -304,6 +304,104 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
   return [...merged.values()];
 }
 
+async function linkedExactSourceCandidates(page, entry, sourcePageUsed, deepReview = false) {
+  if (!deepReview || !sourcePageUsed) return [];
+  let hostname = '';
+  try { hostname = new URL(sourcePageUsed).hostname; } catch {}
+  if (!/(^|\\.)effectsdatabase\\.com$/i.test(hostname)) return [];
+
+  const pedalTokens = identityTokens(entry.pedal);
+  const builderTokens = identityTokens(entry.company);
+  const links = await page.evaluate(({ pedalTokens, builderTokens }) => {
+    const norm = value => String(value || '')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    const out = [];
+    for (const el of document.querySelectorAll('a[href]')) {
+      const href = el.href || '';
+      if (!/^https?:/i.test(href)) continue;
+      try {
+        const u = new URL(href);
+        if (/(^|\\.)effectsdatabase\\.com$/i.test(u.hostname)) continue;
+      } catch {
+        continue;
+      }
+      const text = norm(
+        (el.textContent || '') + ' ' +
+        (el.getAttribute('title') || '') + ' ' + href
+      );
+      const pedalHits = pedalTokens.filter(token => text.includes(token)).length;
+      const builderHits = builderTokens.filter(token => text.includes(token)).length;
+      if (!pedalHits && !builderHits) continue;
+      out.push({
+        href: href.split('#')[0],
+        score: pedalHits * 20 + builderHits * 8
+      });
+    }
+    return [...new Map(out.map(x => [x.href, x])).values()]
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 5);
+  }, { pedalTokens, builderTokens });
+
+  const out = [];
+  for (const link of links) {
+    const identity = await fetchSearchPageIdentity(page, link.href);
+    if (!identity) continue;
+    if (!pageMatchesIdentity(entry, identity.title + ' ' + identity.body, identity.h1)) continue;
+
+    try {
+      await page.goto(link.href, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+      await page.waitForTimeout(350);
+      const title = await page.title().catch(() => '');
+      const h1 = await page.locator('h1').first().textContent().catch(() => '');
+      const body = await page.locator('body').textContent().catch(() => '');
+      if (!pageMatchesIdentity(entry, title + ' ' + body, h1)) continue;
+
+      const imageData = await page.evaluate(() => {
+        const urls = [];
+        for (const selector of [
+          'meta[property="og:image"]',
+          'meta[name="twitter:image"]'
+        ]) {
+          const value = document.querySelector(selector)?.getAttribute('content') || '';
+          if (value) urls.push(value);
+        }
+        for (const el of document.querySelectorAll('img, source')) {
+          urls.push(
+            el.currentSrc || '',
+            el.src || '',
+            el.getAttribute('data-src') || '',
+            el.getAttribute('data-lazy-src') || '',
+            el.getAttribute('data-original') || '',
+            el.getAttribute('srcset') || ''
+          );
+        }
+        return urls.filter(Boolean);
+      });
+
+      for (const raw of imageData) {
+        for (const part of String(raw).split(/\s+/)) {
+          try {
+            const url = /^https?:/i.test(part)
+              ? part
+              : new URL(part, link.href).href;
+            if (/^https?:/i.test(url)) {
+              out.push({
+                url,
+                sourcePage: link.href,
+                sourceScore: 170
+              });
+            }
+          } catch {}
+        }
+      }
+    } catch {}
+  }
+  return out;
+}
+
 async function imageSearchCandidates(page, entry, deepReview = false) {
   if (!IMAGE_SEARCH_ENABLED) return [];
   const queries = deepReview
@@ -446,6 +544,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
             if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url)) {
               candidates.push({ url, sourcePage: sourcePageUsed, sourceScore: 110 });
             }
+          }
+
+          if (!candidates.some(x => x.sourcePage === sourcePageUsed && x.sourceScore >= 120)) {
+            const linked = await linkedExactSourceCandidates(page, entry, sourcePageUsed, deepReview);
+            candidates.push(...linked);
           }
         }
       } catch {}
