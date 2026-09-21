@@ -2378,9 +2378,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/amt-electronics/s-1/primary.webp",
       "source_page": "https://media.amtelectronics.com/amt-s1/",
-      "research_record": "./research/pedals/PRP Batch 050/S-1.md"
+      "research_record": "./research/pedals/PRP Batch 050/S-1.md",
+      "image_source_url": "https://img.digimart.net/prdimg/m/bb/1fca9841bc6157c1845f8719994f2c36d52576.jpg",
+      "image_source_page": "https://www.digimart.net/cat13/shop5220/DS09903533/"
     },
     {
       "company": "AMT Electronics",
@@ -4736,9 +4738,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/baddy-one-shoe-pedals/heartbreaker/primary.webp",
       "source_page": "https://baddyoneshoe.blogspot.com/2012/01/well-heartbreaker-overdrive-is-almost.html",
-      "research_record": "./research/pedals/Baddy One Shoe Pedals/Heartbreaker.md"
+      "research_record": "./research/pedals/Baddy One Shoe Pedals/Heartbreaker.md",
+      "image_source_url": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vv1TjQx9Xj4LK8nTifE_9CJXWIMXRuY-ZQ0jijRZS2yDlmyR1En2iPIxLxaNdwo2K3Xu_hbtEsjCkvgze92ajhD47V3C8gMLqyNXt4NFcwtUouZj3yAkPY577ccJh3ykA=w1200-h630-p-k-no-nu",
+      "image_source_page": "https://baddyoneshoe.blogspot.com/2012/01/well-heartbreaker-overdrive-is-almost.html"
     },
     {
       "company": "Baddy One Shoe Pedals",
@@ -11408,9 +11412,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/li-l-mouse/primary.webp",
       "source_page": "https://stompboxschematics.com/circuits/lil-mouse-kit-by-build-your-own-clone-byoc/",
-      "research_record": "./research/pedals/PRP Batch 131/li-l-mouse.md"
+      "research_record": "./research/pedals/PRP Batch 131/li-l-mouse.md",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/lilmouse_14ecdaed-2787-4d15-a6f7-efce0a991bad_large.jpg",
+      "image_source_page": "https://stompboxschematics.com/circuits/lil-mouse-kit-by-build-your-own-clone-byoc/"
     },
     {
       "company": "Build Your Own Clone",
@@ -12047,9 +12053,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cajita-stompboxes/fuzz-womut/primary.webp",
       "source_page": "https://pedalescajita.mitiendanube.com/productos/fuzz-womut-para-bajo/",
-      "research_record": "./research/pedals/PRP Batch 137/fuzz-womut.md"
+      "research_record": "./research/pedals/PRP Batch 137/fuzz-womut.md",
+      "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/womut-2-316f26bd12976b374b17496807877643-640-0.webp",
+      "image_source_page": "https://pedalescajita.mitiendanube.com/productos/fuzz-womut-para-bajo/"
     },
     {
       "company": "Cajita Stompboxes",
@@ -12057,9 +12065,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cajita-stompboxes/overdrive-bb-pre/primary.webp",
       "source_page": "https://pedalescajita.mitiendanube.com/productos/overdrive-bb-pre/",
-      "research_record": "./research/pedals/PRP Batch 137/overdrive-bb-pre.md"
+      "research_record": "./research/pedals/PRP Batch 137/overdrive-bb-pre.md",
+      "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/bbpre-1-4e6ff01f71bcbb5ae817496817513791-640-0.webp",
+      "image_source_page": "https://pedalescajita.mitiendanube.com/productos/overdrive-bb-pre/"
     },
     {
       "company": "Cajita Stompboxes",
@@ -12067,9 +12077,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cajita-stompboxes/overdrive-shoc-m-s-booster/primary.webp",
       "source_page": "https://pedalescajita.mitiendanube.com/productos/overdrive-shoc-mas-booster/",
-      "research_record": "./research/pedals/PRP Batch 137/overdrive-shoc-mas-booster.md"
+      "research_record": "./research/pedals/PRP Batch 137/overdrive-shoc-mas-booster.md",
+      "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/1000091861-3e90e71d136030764b17496845670398-640-0.webp",
+      "image_source_page": "https://pedalescajita.mitiendanube.com/productos/overdrive-shoc-mas-booster/"
     },
     {
       "company": "Cajita Stompboxes",
@@ -12077,9 +12089,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cajita-stompboxes/preamp-5150-tipo-peavey/primary.webp",
       "source_page": "https://pedalescajita.mitiendanube.com/productos/preamp-5150-tipo-peavey-distorsion-hi-gain/",
-      "research_record": "./research/pedals/PRP Batch 138/preamp-5150-tipo-peavey.md"
+      "research_record": "./research/pedals/PRP Batch 138/preamp-5150-tipo-peavey.md",
+      "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/51502-1-af9ff23251d77cdddd17485259535685-640-0.webp",
+      "image_source_page": "https://pedalescajita.mitiendanube.com/productos/preamp-5150-tipo-peavey-distorsion-hi-gain/"
     },
     {
       "company": "Cajita Stompboxes",
@@ -13333,10 +13347,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caroline-guitar-company/the-blues/primary.webp",
       "source_page": "https://carolineguitar.com/product/theblues/",
       "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-the-blues.md",
-      "image_source_page": "https://carolineguitar.com/product/theblues/"
+      "image_source_page": "https://carolineguitar.com/product/theblues/",
+      "image_source_url": "https://carolineguitar.com/wp-content/uploads/2024/04/IMG_8358-e1713364209965.jpg"
     },
     {
       "company": "Caroline Guitar Company",
@@ -13384,10 +13399,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caroline-guitar-company/wave-cannon-zero/primary.webp",
       "source_page": "https://carolineguitar.com/product/wavecannonzero/",
       "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-wave-cannon-zero.md",
-      "image_source_page": "https://carolineguitar.com/product/wavecannonzero/"
+      "image_source_page": "https://carolineguitar.com/product/wavecannonzero/",
+      "image_source_url": "https://carolineguitar.com/wp-content/uploads/2024/10/Caroline_WaveCannonZero_STOCK_1-copy-e1728417669517.jpg"
     },
     {
       "company": "Carruthers",
