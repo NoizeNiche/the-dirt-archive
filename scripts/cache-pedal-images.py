@@ -223,6 +223,16 @@ def main():
     catalog = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
     manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
 
+    tracker_rows = []
+    if TRACKER_PATH.exists():
+        with TRACKER_PATH.open(newline="", encoding="utf-8") as handle:
+            tracker_rows = list(csv.DictReader(handle))
+    tracker_photo_pending = {
+        (row.get("Builder", ""), row.get("Pedal", ""))
+        for row in tracker_rows
+        if row.get("Picture") != "DONE"
+    }
+
     cached = []
     retained = [0]
     failures = []
@@ -237,6 +247,15 @@ def main():
         ]
         if not entries:
             raise RuntimeError("Photo cache target not found in PEDAL_INDEX.json")
+    else:
+        # Bulk caching is strictly limited to tracker records whose photo is
+        # still unresolved. Already-complete catalog records must not consume
+        # download/reorganization time during the backlog catch-up.
+        entries = [
+            entry for entry in entries
+            if (str(entry.get("company") or entry.get("builder") or "").strip(), str(entry.get("pedal") or "").strip())
+            in tracker_photo_pending
+        ]
     preparations = [cache_entry_prepare(entry) for entry in entries]
     downloads = []
     for status, entry, target, source in preparations:
