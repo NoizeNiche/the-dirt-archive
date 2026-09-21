@@ -1,5 +1,5 @@
 {
-  "version": "data-194301247e6e",
+  "version": "data-6507e4fc3b48",
   "count": 3819,
   "pedals": [
     {
@@ -4325,9 +4325,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/axl/fx-rap-5-multi-effects-pedal/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/axl/rap5",
-      "research_record": "./research/pedals/AXL/FX-RAP-5 Multi-Effects Pedal.md"
+      "research_record": "./research/pedals/AXL/FX-RAP-5 Multi-Effects Pedal.md",
+      "image_source_url": "https://cdn.mos.cms.futurecdn.net/jqCwSK5N3Q6j9bhD9qxbsS-1200-80.jpg",
+      "image_source_page": "https://www.guitarworld.com/features/best-multi-effects-pedals-for-guitarists"
     },
     {
       "company": "AXL",
