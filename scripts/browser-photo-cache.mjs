@@ -22,6 +22,7 @@ const TARGET_PEDAL = String(process.env.PHOTO_BROWSER_TARGET_PEDAL || '').trim()
 const PER_BUILDER_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_PER_BUILDER_LIMIT || 5));
 const RECOVERY_DEADLINE_MS = Math.max(10000, Number(process.env.PHOTO_BROWSER_RECOVERY_DEADLINE_MS || 35000));
 const MAX_RECOVERY_ATTEMPTS = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS || 12));
+const REVISIT_PARKED = String(process.env.PHOTO_BROWSER_REVISIT_PARKED || 'false').toLowerCase() !== 'false';
 let manifestOwnersByImage = new Map();
 
 function key(builder, pedal) {
@@ -1136,6 +1137,33 @@ async function recoverEntry(browser, entry, deepReview = false) {
     console.log('Photo review queue self-healed: entries at the automatic-attempt cutoff were parked.');
   }
   const manifestByKey = new Map(manifest.map(x => [key(x.builder, x.pedal), x]));
+
+  // Reopen a small batch of records that exhausted the ordinary automatic
+  // search. Deep review gets a fresh attempt budget, while the automatic cutoff
+  // still prevents any one stubborn pedal from consuming every run.
+  if (!TARGET_BUILDER && !TARGET_PEDAL && REVISIT_PARKED) {
+    const parkedForDeepReview = [...reviewByKey.values()]
+      .filter(row => row.Status === 'PARKED' && /automatic photo attempts/i.test(String(row['Last Failure'] || '')))
+      .sort((a, b) =>
+        (Number(a.Attempts) || 0) - (Number(b.Attempts) || 0) ||
+        String(a.Builder).localeCompare(String(b.Builder)) ||
+        String(a.Pedal).localeCompare(String(b.Pedal))
+      );
+    const reopenLimit = Math.min(15, LIMIT, parkedForDeepReview.length);
+    for (const row of parkedForDeepReview.slice(0, reopenLimit)) {
+      row.Status = 'DEEP_REVIEW';
+      row.Attempts = '0';
+      row['Last Failure'] = 'DEEP_REVIEW_STARTED after automatic photo cutoff.';
+    }
+    if (reopenLimit) {
+      writeReviewQueue([...reviewByKey.values()].sort((a, b) =>
+        (Number(a.Attempts) || 0) - (Number(b.Attempts) || 0) ||
+        String(a.Builder).localeCompare(String(b.Builder)) ||
+        String(a.Pedal).localeCompare(String(b.Pedal))
+      ));
+      console.log('Reopened ' + reopenLimit + ' parked records for deep photo review.');
+    }
+  }
   const orderedCandidates = (catalog.pedals || [])
     .filter(x => {
       if (TARGET_BUILDER && String(x.company || '').trim() !== TARGET_BUILDER) return false;
@@ -1151,10 +1179,10 @@ async function recoverEntry(browser, entry, deepReview = false) {
       // hammered again on every cache run.
       if (!TARGET_BUILDER && !TARGET_PEDAL && review?.Status === 'DEEP_REVIEW' && String(process.env.PHOTO_BROWSER_DEEP_REVIEW || 'true').toLowerCase() === 'false') return false;
       const canonical = target(x);
-      // Bulk catch-up is driven by the canonical local archive state, not by
-      // whether an old/external image URL happens to be present in the catalog.
-      // This lets browser recovery revisit researched pedals whose external
-      // image host has gone stale or started returning 4xx/5xx errors.
+      // The tracker is the source of truth for the researched-photo gate.
+      // Follow its Picture field so a missing photo cannot disappear from the
+      // recovery queue just because an old local artifact happens to exist.
+      if (tracker) return tracker.pictureDone !== true;
       return !fs.existsSync(canonical);
     })
     .sort((a, b) => {
