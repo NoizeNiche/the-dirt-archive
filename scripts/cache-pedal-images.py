@@ -219,8 +219,47 @@ def download_to_target(entry, target, source_url):
 
 
 
+def convert_staged_sources():
+    """Turn browser-recovery .source files into canonical WebP assets.
+
+    Browser recovery only writes a .source file after an exact pedal match has
+    been verified. Converting these files here prevents a successful photo find
+    from being stranded between discovery and the public catalog.
+    """
+    converted = 0
+    failures = []
+    for staged in ASSET_ROOT.rglob("*.source"):
+        target = staged.with_suffix(".webp")
+        if target.exists():
+            try:
+                staged.unlink()
+            except OSError:
+                pass
+            continue
+        try:
+            data = staged.read_bytes()
+            with Image.open(io.BytesIO(data)) as source:
+                img = ImageOps.exif_transpose(source)
+                if img.width <= 0 or img.height <= 0:
+                    raise RuntimeError("invalid image dimensions")
+                img = img.convert("RGBA" if "A" in img.getbands() else "RGB")
+                img.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
+                img.save(target, "WEBP", quality=88, method=6)
+            staged.unlink()
+            converted += 1
+        except Exception as exc:
+            failures.append(f"{staged}: {exc}")
+    if failures:
+        raise RuntimeError("Staged photo conversion failures: " + " | ".join(failures[:8]))
+    return converted
+
+
 def main():
     from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    staged_converted = convert_staged_sources()
+    if staged_converted:
+        print(f"Converted {staged_converted} staged browser-recovery photos into canonical WebP assets.")
 
     catalog = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
     manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
@@ -314,6 +353,7 @@ def main():
         "# Pedal Image Cache Report",
         "",
         f"- Cached in this run: **{len(cached)}**",
+        f"- Staged browser photos converted: **{staged_converted}**",
         f"- Local images retained/reorganized: **{retained[0]}**",
         f"- Download failures: **{len(failures)}**",
         "",
