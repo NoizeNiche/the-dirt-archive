@@ -57,7 +57,7 @@ jobs:
 
       - name: Browser audit for all researched pedal pages
         run: |
-          python -c "from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler; ThreadingHTTPServer(('127.0.0.1', 4173), SimpleHTTPRequestHandler).serve_forever()" >/tmp/dirt-archive-http.log 2>&1 &
+          node -e "const http=require('http'),fs=require('fs'),path=require('path');const root=process.cwd(),mime={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.md':'text/markdown; charset=utf-8','.webp':'image/webp','.png':'image/png','.jpg':'image/jpeg','.jpeg':'image/jpeg','.gif':'image/gif','.svg':'image/svg+xml','.ico':'image/x-icon'};http.createServer((req,res)=>{try{if(req.method!=='GET'&&req.method!=='HEAD'){res.writeHead(405,{'Allow':'GET, HEAD'});return res.end()}const u=new URL(req.url,'http://127.0.0.1:4173'),file=path.resolve(root,decodeURIComponent(u.pathname.replace(/^\\/+/,''))||'index.html');if(file!==root&&!file.startsWith(root+path.sep)){res.writeHead(403);return res.end('Forbidden')}fs.stat(file,(e,s)=>{if(e||!s.isFile()){res.writeHead(404);return res.end('Not found')}res.writeHead(200,{'Content-Type':mime[path.extname(file).toLowerCase()]||'application/octet-stream','Content-Length':s.size,'Cache-Control':'no-store','Connection':'close'});if(req.method==='HEAD')return res.end();fs.createReadStream(file).pipe(res)})}catch(e){res.writeHead(400);res.end('Bad request')}}).listen(4173,'127.0.0.1');" >/tmp/dirt-archive-http.log 2>&1 &
           SERVER_PID=$!
           trap 'kill $SERVER_PID' EXIT
 
