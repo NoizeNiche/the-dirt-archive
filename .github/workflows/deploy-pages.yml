@@ -591,7 +591,7 @@ jobs:
                   const entry = pictured[cursor++];
                   const id = key(entry);
                   try {
-                    const external = /^https?:\\/\\//i.test(entry.image);
+                    const external = /^https?:\/\//i.test(entry.image);
                     const res = await page.request.get(imageUrl(entry.image), {timeout:15000});
                     const type = (res.headers()['content-type'] || '').toLowerCase();
                     if (external && (!res.ok() || !type.startsWith('image/'))) {
