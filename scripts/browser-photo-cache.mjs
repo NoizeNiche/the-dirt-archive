@@ -7,6 +7,7 @@ const ROOT = process.cwd();
 const INDEX = path.join(ROOT, 'research/PEDAL_INDEX.json');
 const MANIFEST = path.join(ROOT, 'research/pedals/PEDAL_IMAGES.json');
 const TRACKER = path.join(ROOT, 'research/PRP_TRACKER.csv');
+const PHOTO_REVIEW_QUEUE = path.join(ROOT, 'research/PHOTO_REVIEW_QUEUE.csv');
 const LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_LIMIT || 60));
 const CONCURRENCY = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_CONCURRENCY || 6));
 const PRIORITY_COMPANY = String(process.env.PHOTO_BROWSER_CACHE_PRIORITY_COMPANY || '').trim().toLowerCase();
@@ -22,6 +23,28 @@ const PER_BUILDER_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_PER
 
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
+}
+
+function reviewQueueRows(raw) {
+  if (!raw) return [];
+  return csvRows(raw);
+}
+
+function reviewQueueKey(row) {
+  return key(row.Builder, row.Pedal);
+}
+
+function writeReviewQueue(rows) {
+  const header = ['Builder', 'Pedal', 'Catalog Type', 'Status', 'Attempts', 'Last Failure'];
+  const escape = value => {
+    const s = String(value ?? '');
+    return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+  };
+  const out = [header.join(',')];
+  for (const row of rows) {
+    out.push(header.map(field => escape(row[field] || '')).join(','));
+  }
+  fs.writeFileSync(PHOTO_REVIEW_QUEUE, out.join('\n') + '\n');
 }
 
 function csvRows(raw) {
@@ -343,6 +366,10 @@ async function recoverEntry(browser, entry) {
       { order: index, pictureDone: row.Picture === 'DONE' }
     ])
   );
+  const reviewRows = fs.existsSync(PHOTO_REVIEW_QUEUE)
+    ? reviewQueueRows(fs.readFileSync(PHOTO_REVIEW_QUEUE, 'utf8'))
+    : [];
+  const reviewByKey = new Map(reviewRows.map(row => [reviewQueueKey(row), row]));
   const manifestByKey = new Map(manifest.map(x => [key(x.builder, x.pedal), x]));
   const orderedCandidates = (catalog.pedals || [])
     .filter(x => {
@@ -354,6 +381,11 @@ async function recoverEntry(browser, entry) {
       // through an explicit targeted run, so the backlog cannot be starved.
       const tracker = trackerMeta.get(key(x.company, x.pedal));
       if (!TARGET_BUILDER && !TARGET_PEDAL && tracker?.pictureDone) return false;
+      const review = reviewByKey.get(key(x.company, x.pedal));
+      // A normal backlog pass gets one clean attempt per unresolved record.
+      // Failed records are parked for a deeper review pass instead of being
+      // hammered again on every cache run.
+      if (!TARGET_BUILDER && !TARGET_PEDAL && review?.Status === 'DEEP_REVIEW') return false;
       const canonical = target(x);
       // Bulk catch-up is driven by the canonical local archive state, not by
       // whether an old/external image URL happens to be present in the catalog.
@@ -418,12 +450,30 @@ async function recoverEntry(browser, entry) {
 
     for (const result of results) {
       const entry = result.entry;
-      const m = manifestByKey.get(key(entry.company, entry.pedal));
+      const entryKey = key(entry.company, entry.pedal);
+      const m = manifestByKey.get(entryKey);
+      const existingReview = reviewByKey.get(entryKey);
       if (result.error) {
-        failures.push(entry.company + ' - ' + entry.pedal + ': ' + result.error.message);
+        const failure = result.error.message;
+        failures.push(entry.company + ' - ' + entry.pedal + ': ' + failure);
+        const row = existingReview || {
+          Builder: entry.company || entry.builder || '',
+          Pedal: entry.pedal || '',
+          'Catalog Type': entry.catalog_type || entry.catalogType || '',
+          Status: 'DEEP_REVIEW',
+          Attempts: '0',
+          'Last Failure': ''
+        };
+        row.Status = 'DEEP_REVIEW';
+        row.Attempts = String((Number(row.Attempts) || 0) + 1);
+        row['Last Failure'] = failure;
+        reviewByKey.set(entryKey, row);
         continue;
       }
       recovered++;
+      if (existingReview) {
+        reviewByKey.delete(entryKey);
+      }
       if (m) {
         m.image_source_url = result.result.imageUrl;
         if (result.result.sourcePage) m.image_source_page = result.result.sourcePage;
@@ -433,9 +483,15 @@ async function recoverEntry(browser, entry) {
 
   fs.writeFileSync(INDEX, JSON.stringify(catalog, null, 2) + '\n');
   fs.writeFileSync(MANIFEST, JSON.stringify(manifest, null, 2) + '\n');
+  writeReviewQueue([...reviewByKey.values()].sort((a, b) =>
+    (Number(a.Attempts) || 0) - (Number(b.Attempts) || 0) ||
+    String(a.Builder).localeCompare(String(b.Builder)) ||
+    String(a.Pedal).localeCompare(String(b.Pedal))
+  ));
   await browser.close();
 
   console.log('Browser photo recovery: recovered ' + recovered + '; attempted ' + attempted + '; failures ' + failures.length + '.');
+  console.log('Photo deep-review queue: ' + reviewByKey.size + ' records parked for deeper research.');
   for (const failure of failures) console.log(' - ' + failure);
 })().catch(err => {
   console.error(err);
