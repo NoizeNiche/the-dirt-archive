@@ -42,7 +42,13 @@ jobs:
           restore-keys: |
             playwright-chromium-${{ runner.os }}-
       - name: Ensure Chromium is available
-        run: npx playwright install --with-deps chromium
+        run: |
+          if compgen -G "$HOME/.cache/ms-playwright/chromium-*" > /dev/null; then
+            echo "Playwright Chromium restored from cache."
+          else
+            echo "Playwright Chromium cache miss; installing Chromium and dependencies."
+            npx playwright install --with-deps chromium
+          fi
 
       - name: Synchronize with latest main before photo recovery
         run: |
