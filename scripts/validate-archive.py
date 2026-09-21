@@ -12,6 +12,8 @@ ROOT = Path(__file__).resolve().parents[1]
 INDEX = ROOT / "research/PEDAL_INDEX.json"
 MANIFEST = ROOT / "research/pedals/PEDAL_IMAGES.json"
 TRACKER = ROOT / "research/PRP_TRACKER.csv"
+PHOTO_REVIEW_QUEUE = ROOT / "research/PHOTO_REVIEW_QUEUE.csv"
+PHOTO_BACKLOG = ROOT / "research/PHOTO_BACKLOG.csv"
 CORE = ROOT / "assets/js/archive-core.js"
 INDEX_JS = ROOT / "assets/js/archive-index.js"
 DETAIL_JS = ROOT / "assets/js/archive-detail.js"
@@ -32,7 +34,7 @@ def local(path):
     return ROOT / value
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, HOME, DETAIL, LEGACY, DEPLOY)
+    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, HOME, DETAIL, LEGACY, DEPLOY)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
@@ -119,6 +121,56 @@ def main():
         actual = {field: row.get(field, "") for field in expected}
         if actual != expected:
             raise SystemExit(f"Tracker status mismatch: {k}")
+
+    with PHOTO_REVIEW_QUEUE.open(newline="", encoding="utf-8") as handle:
+        review = list(csv.DictReader(handle))
+    review_keys = [pair(x.get("Builder"), x.get("Pedal")) for x in review]
+    if len(review_keys) != len(set(review_keys)):
+        raise SystemExit("Duplicate Builder + Pedal identity in PHOTO_REVIEW_QUEUE.csv.")
+    allowed_review_statuses = {"DEEP_REVIEW", "PARKED"}
+    for row in review:
+        k = pair(row.get("Builder"), row.get("Pedal"))
+        if k not in catalog_by_key:
+            raise SystemExit(f"Photo review queue contains an unknown catalog identity: {k}")
+        tracker_row = next(x for x in tracker if pair(x.get("Builder"), x.get("Pedal")) == k)
+        if tracker_row.get("Picture") == "DONE":
+            raise SystemExit(f"Resolved pedal remains in photo review queue: {k}")
+        if row.get("Status") not in allowed_review_statuses:
+            raise SystemExit(f"Invalid photo review queue status: {k} -> {row.get('Status')}")
+        try:
+            attempts = int(row.get("Attempts") or "0")
+        except ValueError:
+            raise SystemExit(f"Invalid photo review attempt count: {k} -> {row.get('Attempts')}")
+        if attempts < 0:
+            raise SystemExit(f"Negative photo review attempt count: {k}")
+        if row.get("Status") == "PARKED" and attempts < 12:
+            raise SystemExit(f"Parked photo review record has not reached the cutoff: {k} -> {attempts}")
+
+    with PHOTO_BACKLOG.open(newline="", encoding="utf-8") as handle:
+        backlog = list(csv.DictReader(handle))
+    backlog_keys = [pair(x.get("Builder"), x.get("Pedal")) for x in backlog]
+    missing_keys = [pair(x.get("Builder"), x.get("Pedal")) for x in tracker if x.get("Picture") != "DONE"]
+    if len(backlog_keys) != len(set(backlog_keys)):
+        raise SystemExit("Duplicate Builder + Pedal identity in PHOTO_BACKLOG.csv.")
+    if set(backlog_keys) != set(missing_keys):
+        raise SystemExit("PHOTO_BACKLOG.csv identities disagree with unresolved tracker photo records.")
+    review_by_key = {pair(x.get("Builder"), x.get("Pedal")): x for x in review}
+    tracker_by_key = {pair(x.get("Builder"), x.get("Pedal")): x for x in tracker}
+    for row in backlog:
+        k = pair(row.get("Builder"), row.get("Pedal"))
+        tracker_row = tracker_by_key[k]
+        review_row = review_by_key.get(k)
+        if review_row:
+            expected_action = "DEEP_REVIEW"
+            expected_attempts = review_row.get("Attempts", "0")
+        elif tracker_row.get("Pedal Info") == "DONE":
+            expected_action = "PHOTO_NEEDED"
+            expected_attempts = "0"
+        else:
+            expected_action = "RESEARCH_AND_PHOTO_NEEDED"
+            expected_attempts = "0"
+        if row.get("Action") != expected_action or row.get("Attempts") != expected_attempts:
+            raise SystemExit(f"Photo backlog drift: {k}")
 
     home_text = HOME.read_text(encoding="utf-8")
     detail_text = DETAIL.read_text(encoding="utf-8")
