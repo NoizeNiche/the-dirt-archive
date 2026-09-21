@@ -1108,9 +1108,11 @@
   {
     "builder": "Alber",
     "pedal": "FU-10",
-    "image": null,
+    "image": "./assets/pedals/alber/fu-10/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/alber/zn/fu10",
-    "research_record": "./research/pedals/Alber/FU-10.md"
+    "research_record": "./research/pedals/Alber/FU-10.md",
+    "image_source_url": "https://auctions.afimg.jp/s1002072030/ya/image/s1002072030.3.jpg",
+    "image_source_page": "https://aucview.aucfan.com/yahoo/s1002072030/"
   },
   {
     "builder": "Alber",
@@ -1437,10 +1439,12 @@
   {
     "builder": "AmpMojo",
     "pedal": "Sol Drive",
-    "image": null,
+    "image": "./assets/pedals/ampmojo/sol-drive/primary.webp",
     "source_page": "https://www.ampmojo.com/sol-drive",
     "research_record": "./research/pedals/PRP Batch 048/Sol Drive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://static.wixstatic.com/media/53c044_4f4f33c9b3c64dc98862acca4da3576d%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/53c044_4f4f33c9b3c64dc98862acca4da3576d%7Emv2.jpg",
+    "image_source_page": "https://www.ampmojo.com/sol-drive"
   },
   {
     "builder": "Amptweaker",
