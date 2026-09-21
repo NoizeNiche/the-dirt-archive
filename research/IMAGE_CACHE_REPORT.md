@@ -11,3 +11,4 @@
 - Original source URL remains stored as `image_source_url`.
 
 All pictured pedal images are locally cached.
+<!-- Active recovery continuation -->
