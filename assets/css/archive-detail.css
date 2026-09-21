@@ -56,7 +56,7 @@ main{padding:20px 0 60px}
 .variantSection{margin-top:20px;padding-top:18px;border-top:1px solid var(--line)}
 .variantGrid,.colorwayGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
 .variantCard,.colorwayCard{display:block;border:1px solid var(--line);border-radius:12px;background:#fff;text-decoration:none;overflow:hidden}
-.variantCard:hover,.colorwayCard:hover{border-color:#aaa49a;box-shadow:0 8px 18px rgba(0,0,0,.06)}
+.variantCard:hover,.colorwayCard:hover{border-color:#aaa49a;box-shadow:0 8px 18px rgba(0,0,0,.06)}.colorwayCard.selected{outline:2px solid #111;outline-offset:-2px}
 .variantThumb,.colorwayThumb{display:grid;place-items:center;aspect-ratio:4/3;background:#f1eee7;color:#9a958b;font-size:.58rem;font-weight:900;text-align:center;text-transform:none}
 .variantThumb img,.colorwayThumb img{width:100%;height:100%;object-fit:contain}
 .variantName,.colorwayName{display:block;padding:9px 10px;font-size:.68rem;font-weight:900;line-height:1.15}
