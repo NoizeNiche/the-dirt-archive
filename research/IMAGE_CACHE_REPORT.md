@@ -1,8 +1,8 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
+- Cached in this run: **0**
 - Staged browser photos converted: **0**
-- Local images retained/reorganized: **15**
+- Local images retained/reorganized: **0**
 - Download failures: **17**
 
 ## Storage layout
@@ -10,11 +10,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Airis Effects - The Savage Drive -> `./assets/pedals/airis-effects/the-savage-drive/primary.webp`
-- BearFoot FX - Pink Purple Fuzz -> `./assets/pedals/bearfoot-fx/pink-purple-fuzz/primary.webp`
 
 ## Still external / failed
 
