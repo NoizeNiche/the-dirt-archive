@@ -57,7 +57,7 @@ jobs:
 
       - name: Browser audit for all researched pedal pages
         run: |
-          python -m http.server 4173 >/tmp/dirt-archive-http.log 2>&1 &
+          python -c "from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler; ThreadingHTTPServer(('127.0.0.1', 4173), SimpleHTTPRequestHandler).serve_forever()" >/tmp/dirt-archive-http.log 2>&1 &
           SERVER_PID=$!
           trap 'kill $SERVER_PID' EXIT
 
