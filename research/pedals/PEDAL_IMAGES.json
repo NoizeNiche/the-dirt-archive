@@ -8420,12 +8420,12 @@
   {
     "builder": "BSM",
     "pedal": "J-Fuzz",
-    "image": null,
+    "image": "./assets/pedals/bsm/j-fuzz/primary.webp",
     "source": null,
     "source_page": "https://www.treblebooster.net/products/custom-made/j-fuzz-fuzz-machine.html",
     "research_record": "./research/pedals/PRP Batch 117/bsm-j-fuzz.md",
     "image_source_page": "https://www.treblebooster.net/products/custom-made/j-fuzz-fuzz-machine.html",
-    "image_source_url": "https://www.treblebooster.net/products/custom-made/j-fuzz-fuzz-machine.html"
+    "image_source_url": "https://www.treblebooster.net/thumbs/products/j-fuzz-fuzz-machine/j-fuzz_fuzz-booster_2018_rgb-500x699.png"
   },
   {
     "builder": "BSM",
