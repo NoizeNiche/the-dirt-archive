@@ -1,3 +1,13 @@
+## Current verified archive state - September 21, 2026
+
+Canonical catalog/tracker verification: **3,819 total / 3,818 public / 1,273 researched public / 896 pictured public / 896 complete public / 377 researched-photo-pending / 2,922 public photo-missing / 862 public local images / 34 public external image URLs**.
+
+The photo cache handoff was corrected so externally pictured records are included in bulk localization even though their tracker Picture field is already DONE. The exact page identity fallback was also tightened to require builder context.
+
+PRP1 remains gated until **377 researched-photo-pending** reaches **0**.
+
+---
+
 ## Landing-page count checkpoint - September 21, 2026
 
 The landing-page “All builders” count now respects the active search term as well as the selected dirt type. The browser audit now checks that the filtered All-builders count remains consistent with the rendered search results.
