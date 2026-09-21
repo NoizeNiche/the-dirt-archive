@@ -468,6 +468,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
         if (pedalHits < requiredHits || builderHits < 1) continue;
 
         try {
+          const networkStart = networkImageUrls.length;
           await page.goto(result.purl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
           await page.waitForTimeout(500);
 
@@ -500,9 +501,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
             return urls.filter(Boolean);
           });
 
-          const before = networkImageUrls.length;
           await page.waitForTimeout(700);
-          const networkUrls = networkImageUrls.slice(before);
+          const networkUrls = networkImageUrls.slice(networkStart);
 
           for (const raw of [...imageData, ...networkUrls]) {
             for (const part of String(raw).split(/\s+/)) {
