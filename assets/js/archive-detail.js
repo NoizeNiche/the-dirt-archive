@@ -1,3 +1,8 @@
+const detailParams = new URLSearchParams(location.search);
+const wantedBuilder = detailParams.get('builder') || '';
+const wantedPedal = detailParams.get('pedal') || '';
+let wantedVariation = detailParams.get('variation') || '';
+
 function renderPageNav(items){
   const builders=[...new Set(items.filter(isCatalogEntry).map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
   const search=$('pageSearch');
