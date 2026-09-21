@@ -1,22 +1,3 @@
-function esc(x){
-  return String(x).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'","&#039;");
-}
-function isCatalogEntry(x){return x.catalog_role!=='variation'}
-function entryKey(x){return x.company+'\u0000'+x.pedal}
-function detailUrl(x,variation){
-  const url=new URL('./pedal-detail.html',location.href);
-  url.searchParams.set('builder',x.company);
-  url.searchParams.set('pedal',x.pedal);
-  if(variation)url.searchParams.set('variation',variation);
-  url.searchParams.set('v',ARCHIVE_DATA_VERSION);
-  return url.href;
-}
-
-const params=new URLSearchParams(location.search);
-const wantedBuilder=params.get('builder')||'';
-const wantedPedal=params.get('pedal')||'';
-let wantedVariation=params.get('variation')||'';
-
 function renderPageNav(items){
   const builders=[...new Set(items.filter(isCatalogEntry).map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
   const search=$('pageSearch');

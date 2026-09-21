@@ -3,7 +3,6 @@ const initialParams=new URLSearchParams(location.search);
 let items=[];let allItems=[];let currentPage=Math.max(1,parseInt(initialParams.get('page')||'1',10)||1);let pedalImages=new Map();let variationSearchText=new Map();let selectedType=initialParams.get('type')||'All';let selectedBuilder=initialParams.get('builder')||'';let q=initialParams.get('q')||'';
 if(!['All','Overdrive','Distortion','Fuzz'].includes(selectedType))selectedType='All';
 
-const $=id=>document.getElementById(id);
 
 function syncUrl(){
   const p=new URLSearchParams();
@@ -182,10 +181,6 @@ function renderPagination(totalPages){
 }
 
 loadCatalog()
-.then(r=>{
-  if(!r.ok)throw Error(r.status);
-  return r.json();
-})
 .then(data=>{
   allItems=data.pedals||[];
   items=allItems.filter(isCatalogEntry);

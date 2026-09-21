@@ -18,16 +18,17 @@ catalog_path.write_text(
     encoding="utf-8",
 )
 
-runtime_path = Path("assets/js/archive-core.js")
-runtime = runtime_path.read_text(encoding="utf-8")
-pattern = re.compile(r"""(const ARCHIVE_DATA_VERSION\s*=\s*['"])[^'"]+(['"])""")
-updated, count = pattern.subn(
-    lambda match: match.group(1) + version + match.group(2),
-    runtime,
-    count=1,
-)
-if count != 1:
-    raise SystemExit(f"Could not update ARCHIVE_DATA_VERSION in {runtime_path}")
-runtime_path.write_text(updated, encoding="utf-8")
+pattern = re.compile(r"""(const DATA_VERSION\s*=\s*['"])[^'"]+(['"])""")
 
-print(f"Publishing catalog with ARCHIVE_DATA_VERSION={version}")
+for html_path in (Path("index.html"), Path("pedal-detail.html")):
+    html = html_path.read_text(encoding="utf-8")
+    updated, count = pattern.subn(
+        lambda match: match.group(1) + version + match.group(2),
+        html,
+        count=1,
+    )
+    if count != 1:
+        raise SystemExit(f"Could not update DATA_VERSION in {html_path}")
+    html_path.write_text(updated, encoding="utf-8")
+
+print(f"Publishing catalog with DATA_VERSION={version}")
