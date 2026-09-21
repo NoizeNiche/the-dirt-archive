@@ -1,8 +1,8 @@
 ## Photo Recovery Checkpoint — September 21, 2026 (latest verified)
 
-Verified tracker state: **3,819 total / 1,274 researched / 865 pictured / 865 fully complete / 409 researched-photo-pending / 2,954 photo-missing overall**.
+Verified tracker state: **3,819 total / 1,274 researched / 866 pictured / 866 fully complete / 408 researched-photo-pending / 2,953 photo-missing overall**.
 
-The latest completed cache pass repaired the catalog/tracker mismatch around **Cause & Effect Pedals (CE Pedals) - FET Dream** by removing its nonexistent local image declaration while preserving its research record and source provenance. The same pass advanced the verified picture count to **865**. PRP1 remains gated until **researched-photo-pending reaches 0**.
+The latest completed cache pass recovered **Cause & Effect Pedals (CE Pedals) - FET Dream**, replacing its stale nonexistent local declaration with the verified archived asset while preserving its research record and provenance. The verified picture count is now **866**. PRP1 remains gated until **researched-photo-pending reaches 0**.
 
 Public pedal pages keep **Research confidence** and **Sources checked** hidden. The future YouTube demo widget remains deferred until after the photo catch-up.
 ## Photo Recovery Checkpoint — September 21, 2026 (latest verified)
