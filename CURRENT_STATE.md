@@ -1,3 +1,7 @@
+## Photo Recovery Checkpoint — September 21, 2026 (07:30 UTC)
+
+Verified photo catch-up state: **3,819 total / 1,268 researched / 793 pictured / 476 researched-photo-pending**. The most recent recovery batch recovered **3 additional exact-match photos** and passed the live deployment audit. PRP1 remains gated until researched-photo-pending reaches **0**.
+
 ## Photo Recovery Checkpoint — September 21, 2026 (07:18 UTC)
 
 Photo catch-up remains the active gate before PRP1 resumes. Verified state at this checkpoint: **3,819 total / 1,269 researched / 777 pictured / 492 researched-photo-pending**. The latest published recovery batch recovered **8 additional exact-match photos** and passed the live deployment audit.
