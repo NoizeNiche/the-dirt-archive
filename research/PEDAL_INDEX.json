@@ -1,5 +1,5 @@
 {
-  "version": "data-0a0b73e1fc35",
+  "version": "data-bfd7be74f164",
   "count": 3819,
   "pedals": [
     {
@@ -7620,9 +7620,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/biyang/od-7-overdrive/primary.webp",
       "source_page": "https://en.audiofanzine.com/overdrive-pedal/biyang/od-7-overdrive/",
-      "research_record": "./research/pedals/PRP Batch 090/OD-7 Overdrive.md"
+      "research_record": "./research/pedals/PRP Batch 090/OD-7 Overdrive.md",
+      "image_source_url": "https://img.audiofanzine.com/images/u/product/normal/biyang-od-7-overdrive-50766.jpg",
+      "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/biyang/od-7-overdrive/"
     },
     {
       "company": "Biyang",
@@ -11619,10 +11621,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bulinski-effect-pedals/velociraptor-diode-bass-fuzz/primary.webp",
       "source_page": "https://bulinskipedals.com/shop/velociraptor-diode-bass-fuzz/",
       "research_record": "./research/pedals/PRP Batch 133/velociraptor-diode-bass-fuzz.md",
-      "image_source_page": "https://bulinskipedals.com/shop/velociraptor-diode-bass-fuzz/"
+      "image_source_page": "https://bulinskipedals.com/shop/velociraptor-diode-bass-fuzz/",
+      "image_source_url": "https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2022/02/Velociraptor-Product-Photo-1.jpg?w=768&ssl=1"
     },
     {
       "company": "Buzzing Bugs Audio Devices",
@@ -11974,9 +11977,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cajita-stompboxes/distorsi-n-marshall-cr800-jcm-booster/primary.webp",
       "source_page": "https://pedalescajita.mitiendanube.com/productos/distorsion-marshall-cr800-jcm-mas-booster/",
-      "research_record": "./research/pedals/PRP Batch 136/distorsion-marshall-cr800-jcm-booster.md"
+      "research_record": "./research/pedals/PRP Batch 136/distorsion-marshall-cr800-jcm-booster.md",
+      "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/cr8003-1-f6028bfd281b780a1e17496804418903-640-0.webp",
+      "image_source_page": "https://pedalescajita.mitiendanube.com/productos/distorsion-marshall-cr800-jcm-mas-booster/"
     },
     {
       "company": "Cajita Stompboxes",
@@ -11984,9 +11989,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cajita-stompboxes/distorsi-n-rat-6-6-modos/primary.webp",
       "source_page": "https://pedalescajita.mitiendanube.com/productos/",
-      "research_record": "./research/pedals/PRP Batch 136/distorsion-rat-6-6-modos.md"
+      "research_record": "./research/pedals/PRP Batch 136/distorsion-rat-6-6-modos.md",
+      "image_source_url": "https://dcdn-us.mitiendanube.com/stores/006/279/558/products/1000075965-da834de6183e97a26f17482939036235-480-0.webp",
+      "image_source_page": "https://pedalescajita.mitiendanube.com/productos/"
     },
     {
       "company": "Cajita Stompboxes",
@@ -12124,9 +12131,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/california-by-eleca/cdt-1-distortion/primary.webp",
       "source_page": "https://eleca.com/products/cdt-1",
-      "research_record": "./research/pedals/PRP Batch 139/cdt-1-distortion.md"
+      "research_record": "./research/pedals/PRP Batch 139/cdt-1-distortion.md",
+      "image_source_url": "http://eleca.com/cdn/shop/files/CDT-1.jpg?v=1695800527",
+      "image_source_page": "https://eleca.com/products/cdt-1"
     },
     {
       "company": "California (by Eleca)",
@@ -12134,9 +12143,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/california-by-eleca/chm-1-heavy-metal/primary.webp",
       "source_page": "https://eleca.com/products/chm-1",
-      "research_record": "./research/pedals/PRP Batch 139/chm-1-heavy-metal.md"
+      "research_record": "./research/pedals/PRP Batch 139/chm-1-heavy-metal.md",
+      "image_source_url": "http://eleca.com/cdn/shop/files/CHM-1.jpg?v=1695800767",
+      "image_source_page": "https://eleca.com/products/chm-1"
     },
     {
       "company": "California (by Eleca)",
@@ -12144,9 +12155,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/california-by-eleca/cod-1-over-drive/primary.webp",
       "source_page": "https://eleca.com/products/cod-1",
-      "research_record": "./research/pedals/PRP Batch 139/cod-1-over-drive.md"
+      "research_record": "./research/pedals/PRP Batch 139/cod-1-over-drive.md",
+      "image_source_url": "http://eleca.com/cdn/shop/files/COD-1.jpg?v=1695800639",
+      "image_source_page": "https://eleca.com/products/cod-1"
     },
     {
       "company": "California Valveworks",
@@ -13173,10 +13186,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/carlsbro/carlsbro-suzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu/suzz",
       "research_record": "./research/pedals/PRP Batch 150/carlsbro-carlsbro-suzz.md",
-      "image_source_page": "https://www.tonehome.de/carlsbro/suzz/"
+      "image_source_page": "https://www.tonehome.de/carlsbro/suzz/",
+      "image_source_url": "https://www.tonehome.de/s/img/emotionheader.jpg"
     },
     {
       "company": "Carlson",
