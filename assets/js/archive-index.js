@@ -4,14 +4,24 @@ let items=[];let allItems=[];let currentPage=Math.max(1,parseInt(initialParams.g
 if(!['All','Overdrive','Distortion','Fuzz'].includes(selectedType))selectedType='All';
 
 
-function syncUrl(){
+function syncUrl(replace=true){
   const p=new URLSearchParams();
   if(selectedType!=='All')p.set('type',selectedType);
   if(selectedBuilder)p.set('builder',selectedBuilder);
   if(q)p.set('q',q);
   if(currentPage>1)p.set('page',currentPage);
   const target=p.toString()?('./index.html?'+p.toString()):'./index.html';
-  history.replaceState({},'',target);
+  history[replace?'replaceState':'pushState']({},'',target);
+}
+
+function readUrlState(){
+  const params=new URLSearchParams(location.search);
+  selectedType=params.get('type')||'All';
+  if(!['All','Overdrive','Distortion','Fuzz'].includes(selectedType))selectedType='All';
+  selectedBuilder=params.get('builder')||'';
+  q=params.get('q')||'';
+  currentPage=Math.max(1,parseInt(params.get('page')||'1',10)||1);
+  $('search').value=q;
 }
 
 function slugParams(x){ return detailUrl(x); }
@@ -66,7 +76,7 @@ function renderTypeMenu(){
     selectedType=btn.dataset.type;
     selectedBuilder='';
     currentPage=1;
-    syncUrl();
+    syncUrl(false);
     render();
   });
 }
@@ -88,7 +98,7 @@ function renderBuilders(){
   document.querySelectorAll('[data-builder]').forEach(btn=>btn.onclick=()=>{
     selectedBuilder=btn.dataset.builder||'';
     currentPage=1;
-    syncUrl();
+    syncUrl(false);
     render();
   });
 }
@@ -149,7 +159,7 @@ $('search').oninput=e=>{
   q=e.target.value.trim();
   selectedBuilder='';
   currentPage=1;
-  syncUrl();
+  syncUrl(true);
   render();
 };
 
@@ -175,10 +185,15 @@ function renderPagination(totalPages){
   ).join('')+next;
   nav.querySelectorAll('[data-page]').forEach(btn=>btn.onclick=()=>{
     currentPage=Number(btn.dataset.page)||1;
-    syncUrl(); render();
+    syncUrl(false); render();
     document.querySelector('.heroPanel')?.scrollIntoView({behavior:'smooth',block:'start'});
   });
 }
+
+window.addEventListener('popstate',()=>{
+  readUrlState();
+  render();
+});
 
 loadCatalog()
 .then(data=>{
