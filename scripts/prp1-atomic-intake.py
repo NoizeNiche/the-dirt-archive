@@ -30,12 +30,29 @@ def main():
     order = {(norm(row.get("Builder")), norm(row.get("Pedal"))): i for i, row in enumerate(tracker)}
 
     queued = []
+    stale_complete = []
     for path in intake_files:
         item = json.loads(path.read_text(encoding="utf-8"))
         k = (norm(item.get("builder")), norm(item.get("pedal")))
         if k not in order:
             raise SystemExit(f"PRP1 intake target is not in PRP_TRACKER.csv: {k}")
+        row = next(
+            (r for r in tracker
+             if norm(r.get("Builder")) == k[0] and norm(r.get("Pedal")) == k[1]),
+            None,
+        )
+        if row and row.get("PRP Complete") == "DONE":
+            stale_complete.append(path)
+            continue
         queued.append((order[k], path, item))
+
+    # Completed intake packages are stale queue entries. Remove them from the
+    # workspace so the final atomic commit can actually consume them.
+    for path in stale_complete:
+        path.unlink()
+
+    if not queued:
+        raise SystemExit("No incomplete PRP1 intake package is waiting.")
 
     _, queue_path, item = min(queued, key=lambda x: x[0])
     builder = str(item.get("builder") or "").strip()
