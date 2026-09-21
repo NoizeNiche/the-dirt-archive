@@ -4386,7 +4386,8 @@
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/bbe/gscreamer",
     "research_record": "./research/pedals/BBE/G Screamer.md",
-    "image": null
+    "image": null,
+    "image_source_page": "https://bbesound.com/products/stomp-boxes/G-Screamer_OG-1.aspx"
   },
   {
     "builder": "BBE",
@@ -5119,7 +5120,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 083/Bushy Bison.md"
+    "research_record": "./research/pedals/PRP Batch 083/Bushy Bison.md",
+    "image_source_page": "https://www.bigknobpedals.com/"
   },
   {
     "builder": "Big Knob Pedals",
@@ -5351,7 +5353,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/",
-    "research_record": "./research/pedals/PRP Batch 085/Zed Drive.md"
+    "research_record": "./research/pedals/PRP Batch 085/Zed Drive.md",
+    "image_source_page": "https://reverb.com/item/60035573-new-big-knob-pedals-zed-drive"
   },
   {
     "builder": "Big Lloyde",
@@ -5928,7 +5931,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": "https://www.talkbass.com/threads/npd-bizarres-violine.1286142/",
-    "research_record": "./research/pedals/PRP Batch 092/Violine.md"
+    "research_record": "./research/pedals/PRP Batch 092/Violine.md",
+    "image_source_page": "https://www.talkbass.com/threads/npd-bizarres-violine.1286142/"
   },
   {
     "builder": "BJFE / BJF Electronics",
