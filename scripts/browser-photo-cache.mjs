@@ -281,7 +281,7 @@ async function makerWebCandidates(page, entry) {
       return { result, score };
     })
     .sort((a, b) => b.score - a.score)
-    .slice(0, 4);
+    .slice(0, 2);
 
   const out = [];
   for (const { result, score } of ranked) {
@@ -368,7 +368,7 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
 
       // Reverb's sold-results grid can lazy-load additional listings as the
       // viewport moves. Do a few bounded scrolls rather than a full-page scrape.
-      for (let i = 0; i < (deepReview ? 4 : 2); i++) {
+      for (let i = 0; i < (deepReview ? 2 : 2); i++) {
         await page.mouse.wheel(0, 1400);
         await page.waitForTimeout(250);
       }
@@ -404,7 +404,7 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
     try {
       await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: SEARCH_TIMEOUT });
       await page.waitForTimeout(350);
-      for (let i = 0; i < (deepReview ? 3 : 1); i++) {
+      for (let i = 0; i < (deepReview ? 2 : 1); i++) {
         await page.mouse.wheel(0, 1400);
         await page.waitForTimeout(250);
       }
