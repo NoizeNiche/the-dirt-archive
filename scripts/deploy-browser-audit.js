@@ -198,6 +198,18 @@ const path = require('node:path');
               throw new Error('Builder filter returned a pedal from another builder.');
             }
 
+            // Detail navigation must show exactly one active builder.
+            await page.goto(
+              'http://127.0.0.1:4173/pedal-detail.html?builder=' +
+              encodeURIComponent(builderCanaryEntry.company) + '&pedal=' +
+              encodeURIComponent(builderCanaryEntry.pedal),
+              {waitUntil:'networkidle'}
+            );
+            const activePageBuilders = await page.locator('.pageBuilderLink.active').allTextContents();
+            if (activePageBuilders.length !== 1 || !activePageBuilders[0].includes(String(builderCanaryEntry.company))) {
+              throw new Error('Detail builder navigation has an incorrect active selection.');
+            }
+
             // Combined URL facets must work together using a real Fuzz entry.
             const combinedUrl =
               'http://127.0.0.1:4173/index.html?type=Fuzz&builder=' +
