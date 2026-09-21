@@ -3,6 +3,10 @@ name: Cache pedal images
 on:
   schedule:
     - cron: '*/30 * * * *'
+  push:
+    paths:
+      - "research/PEDAL_INDEX.json"
+      - "research/pedals/PEDAL_IMAGES.json"
   workflow_dispatch:
 permissions:
   contents: write
