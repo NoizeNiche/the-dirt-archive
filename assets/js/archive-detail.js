@@ -70,7 +70,13 @@ function showPhoto(item,label){
   const box=$('photoBox');
   const fallbackLabel=label?'No Photo Archived · '+label:'No Photo Archived';
   if(item && item.image){
-    box.innerHTML='<img src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" style="width:100%;height:100%;object-fit:contain;border-radius:12px" referrerpolicy="no-referrer" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><span hidden>'+esc(fallbackLabel)+'</span>';
+    box.innerHTML='<img class="photoImage" src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" referrerpolicy="no-referrer"><span class="photoFallback" hidden>'+esc(fallbackLabel)+'</span>';
+    const image=box.querySelector('.photoImage');
+    const fallback=box.querySelector('.photoFallback');
+    image.addEventListener('error',()=>{
+      image.hidden=true;
+      fallback.hidden=false;
+    });
     box.style.padding='10px';
   }else{
     box.innerHTML='<span>'+esc(fallbackLabel)+'</span>';
