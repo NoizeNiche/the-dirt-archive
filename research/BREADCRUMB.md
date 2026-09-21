@@ -1,5 +1,15 @@
 ## Site UI maintenance checkpoint - September 21, 2026
 
+Pedal detail pages now show the actual builder name in the builder line. The deployment browser audit verifies that the rendered builder matches the catalog entry used to open the page.
+
+Latest UI checkpoint: **a27aebf8c651a0446fc9502705577bd604c20b48**.
+
+Photo recovery remains the active gate at the latest verified **378 researched-photo-pending** records. PRP1 remains gated until that reaches **0**.
+
+---
+
+## Site UI maintenance checkpoint - September 21, 2026
+
 Colorway selection now uses CSS classes rather than inline JavaScript styling. Selected colorways expose `aria-pressed="true"`, and the browser audit verifies that a variation deep-link selects the requested colorway correctly.
 
 Latest UI checkpoint: **c66a4c3c5267760498251c0673a7701523471f3c**.
