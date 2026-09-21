@@ -1449,10 +1449,12 @@
   {
     "builder": "Amptweaker",
     "pedal": "Bass BluesFuzz",
-    "image": null,
+    "image": "./assets/pedals/amptweaker/bass-bluesfuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/amptweaker/bluesfuzz/bass",
     "research_record": "./research/pedals/PRP Batch 048/Bass BluesFuzz.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://www.bassgearmag.com/wp-content/uploads/2019/12/L1600289.jpg",
+    "image_source_page": "https://www.bassgearmag.com/bassic-review-amptweaker-bass-tightfuzz-jr-bass-bluesfuzz-jr-and-pressurizer-pedals/"
   },
   {
     "builder": "Amptweaker",
@@ -2054,16 +2056,20 @@
   {
     "builder": "Analog Noir",
     "pedal": "Tone Bender MKI / Rangemaster Treble Booster",
-    "image": null,
+    "image": "./assets/pedals/analog-noir/tone-bender-mki-rangemaster-treble-booster/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Analog Noir/Tone Bender MKI - Rangemaster Treble Booster.md"
+    "research_record": "./research/pedals/Analog Noir/Tone Bender MKI - Rangemaster Treble Booster.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--wNDbl7Yc--/quality=medium-low,height=800,width=800,fit=contain/057c6fee-f94a-4404-a73e-94d08dc445d4.heic",
+    "image_source_page": "https://reverb.com/item/95152819-analog-noir-dual-mki-mk1-v1-tone-bender-rangemaster-treble-booster-pedal-with-box-pastel-green-with-neon-orange-knobs"
   },
   {
     "builder": "Analog Noir",
     "pedal": "Zonk Machine",
-    "image": null,
+    "image": "./assets/pedals/analog-noir/zonk-machine/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Analog Noir/Zonk Machine.md"
+    "research_record": "./research/pedals/Analog Noir/Zonk Machine.md",
+    "image_source_url": "http://reeveselectro.co.uk/cdn/shop/files/08D908C3-D4AA-4B2D-A8E8-83E3AB3E204C.jpg?v=1751556860",
+    "image_source_page": "https://reeveselectro.co.uk/products/zo-zonk-machine-mk2-silicon-fuzz-with-nos-transistors"
   },
   {
     "builder": "Analog Sound",
@@ -2075,9 +2081,11 @@
   {
     "builder": "Analog Sound",
     "pedal": "Double Trouble Overdrive",
-    "image": null,
+    "image": "./assets/pedals/analog-sound/double-trouble-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Analog Sound/Double Trouble Overdrive.md"
+    "research_record": "./research/pedals/Analog Sound/Double Trouble Overdrive.md",
+    "image_source_url": "http://parkwaymusic.com/cdn/shop/files/DSC01094_c667d950-bb68-44a2-8466-3bd46812c3f5.jpg?v=1723069979",
+    "image_source_page": "https://parkwaymusic.com/products/visual-sound-double-trouble-overdrive-used"
   },
   {
     "builder": "Analog Sound",
@@ -2117,16 +2125,20 @@
   {
     "builder": "Anarchy Audio Australia",
     "pedal": "Sentinel",
-    "image": null,
+    "image": "./assets/pedals/anarchy-audio-australia/sentinel/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Anarchy Audio Australia/Sentinel.md"
+    "research_record": "./research/pedals/Anarchy Audio Australia/Sentinel.md",
+    "image_source_url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0202/user/e00db25f876fdd939fb0fc6f42e66998c84d5253b975550f7432e57e4bd277a7/i-img1200x802-17722687823178527zbw3478.jpg",
+    "image_source_page": "https://auctions.yahoo.co.jp/jp/auction/t1221280512"
   },
   {
     "builder": "Anasounds",
     "pedal": "bitoun fuzz",
-    "image": null,
+    "image": "./assets/pedals/anasounds/bitoun-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Anasounds/bitoun fuzz.md"
+    "research_record": "./research/pedals/Anasounds/bitoun fuzz.md",
+    "image_source_url": "http://theguitarchannel.biz/wp-content/uploads/2016/10/BitounFuzzFront.jpg",
+    "image_source_page": "https://theguitarchannel.biz/2016/10/anasounds-new-pedal-bitoun-fuzz-double-fuzz-machine/"
   },
   {
     "builder": "Anasounds",
@@ -2138,16 +2150,20 @@
   {
     "builder": "Anasounds",
     "pedal": "ego driver",
-    "image": null,
+    "image": "./assets/pedals/anasounds/ego-driver/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Anasounds/ego driver.md"
+    "research_record": "./research/pedals/Anasounds/ego driver.md",
+    "image_source_url": "https://anasounds.com/wp-content/uploads/2019/08/ego-driver-finie-angle-1209x1209.jpg",
+    "image_source_page": "https://anasounds.com/"
   },
   {
     "builder": "Anasounds",
     "pedal": "feed me mk3",
-    "image": null,
+    "image": "./assets/pedals/anasounds/feed-me-mk3/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Anasounds/feed me mk3.md"
+    "research_record": "./research/pedals/Anasounds/feed me mk3.md",
+    "image_source_url": "https://anasounds.com/wp-content/uploads/2021/11/Feed-Me-MK3-doite-1209x1209.jpg",
+    "image_source_page": "https://anasounds.com/produit/feed-me-already-assembled-pedal/"
   },
   {
     "builder": "Anasounds",
@@ -2256,16 +2272,20 @@
   {
     "builder": "Animals Pedal",
     "pedal": "FISHING IS AS FUN AS FUZZ",
-    "image": null,
+    "image": "./assets/pedals/animals-pedal/fishing-is-as-fun-as-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Animals Pedal/FISHING IS AS FUN AS FUZZ.md"
+    "research_record": "./research/pedals/Animals Pedal/FISHING IS AS FUN AS FUZZ.md",
+    "image_source_url": "https://www.makenmusic.com/cdn/shop/products/FISHINGISASFUNASFUZZ-03_1024x1024.jpg?v=1677179284",
+    "image_source_page": "https://www.makenmusic.com/products/animals-pedal-fishing-is-as-fun-as-fuzz"
   },
   {
     "builder": "Animals Pedal",
     "pedal": "FISHING IS AS FUN AS FUZZ LIMITED EDITION",
-    "image": null,
+    "image": "./assets/pedals/animals-pedal/fishing-is-as-fun-as-fuzz-limited-edition/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Animals Pedal/FISHING IS AS FUN AS FUZZ LIMITED EDITION.md"
+    "research_record": "./research/pedals/Animals Pedal/FISHING IS AS FUN AS FUZZ LIMITED EDITION.md",
+    "image_source_url": "https://animalspedal.us/cdn/shop/files/FIAFAF-LIMITED-03.png?v=1707450740&width=1946",
+    "image_source_page": "https://animalspedal.us/products/ap-fffuzz-limited-edition"
   },
   {
     "builder": "Animals Pedal",
@@ -2392,9 +2412,11 @@
   {
     "builder": "Anode Effects",
     "pedal": "MOS Fuzz",
-    "image": null,
+    "image": "./assets/pedals/anode-effects/mos-fuzz/primary.webp",
     "source_page": "https://www.anodeeffects.com/pedals/p/mos-fuzz-full-frequency-fuzz-machine",
-    "research_record": "./research/pedals/PRP Batch 057/MOS Fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 057/MOS Fuzz.md",
+    "image_source_url": "http://static1.squarespace.com/static/65f1f9ca8c4d920b3a4f92ad/65f1fccf06e6de0993918182/67428ce8985e412c39423ac4/1787931382734/Mos%25252BFuzz%25252Btransparent.jpg?format=1500w",
+    "image_source_page": "https://www.anodeeffects.com/pedals/p/mos-fuzz-full-frequency-fuzz-machine"
   },
   {
     "builder": "ARC Effects",
@@ -2664,9 +2686,11 @@
   {
     "builder": "Audio Kitchen",
     "pedal": "The Flying Squirrel",
-    "image": null,
+    "image": "./assets/pedals/audio-kitchen/the-flying-squirrel/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/audiokitchen/flyingsquirrel",
-    "research_record": "./research/pedals/Audio Kitchen/The Flying Squirrel.md"
+    "research_record": "./research/pedals/Audio Kitchen/The Flying Squirrel.md",
+    "image_source_url": "https://www.russomusic.com/cdn/shop/products/audio-kitchen-the-flying-squirrel-fuzz_lifestyle_800x.jpg?v=1614968599",
+    "image_source_page": "https://www.russomusic.com/products/audio-kitchen-the-flying-squirrel-fuzz"
   },
   {
     "builder": "Audio Matrix",
