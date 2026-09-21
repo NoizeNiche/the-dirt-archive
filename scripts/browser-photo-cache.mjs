@@ -1103,11 +1103,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
         if (Number.isFinite(aOrder) && Number.isFinite(bOrder)) return aOrder - bOrder;
         return 0;
       });
-    // Keep fresh cases moving, but reserve a bounded slice for still-active
-    // deep-review records. Cases at the attempt cutoff are parked and removed
-    // from automatic recovery until a later deeper/manual research pass.
-    const HARD_CASE_SLOTS = Math.min(15, LIMIT);
-    const freshSlots = Math.max(0, LIMIT - HARD_CASE_SLOTS);
+    // Finish the ordinary researched-photo backlog before spending automatic
+    // time on stubborn deep-review cases. This keeps the archive moving toward
+    // zero unresolved researched photos as quickly as possible. Once the ordinary
+    // backlog is empty, the same scheduler automatically opens deep review.
+    const freshSlots = LIMIT;
+    const HARD_CASE_SLOTS = normalCandidates.length ? 0 : Math.min(15, LIMIT);
     const highAttemptCases = [...deepCandidates]
       .sort((a, b) => {
         const aReview = reviewByKey.get(key(a.company, a.pedal));
