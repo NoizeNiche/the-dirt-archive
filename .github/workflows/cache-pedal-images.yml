@@ -34,7 +34,15 @@ jobs:
       - name: Install browser tooling
         run: |
           npm install --no-save playwright
-          npx playwright install --with-deps chromium
+      - name: Cache Playwright browser
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}-${{ hashFiles('package-lock.json', 'package.json') }}
+          restore-keys: |
+            playwright-chromium-${{ runner.os }}-
+      - name: Ensure Chromium is available
+        run: npx playwright install --with-deps chromium
 
       - name: Synchronize with latest main before photo recovery
         run: |
