@@ -1,5 +1,15 @@
 ## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
 
+Verified tracker state: **3,819 total / 1,274 researched / 879 pictured / 879 fully complete / 395 researched-photo-pending / 2,940 photo-missing overall**.
+
+The latest completed browser recovery pass archived **6 additional exact-model photos**, bringing the verified pictured/complete count from 873 to 879 and reducing researched-photo-pending from 401 to 395. The photo-review queue is now **421 records**, including **279 deep-review** and **141 parked** cases.
+
+The recovery pass successfully archived the Caline CP-74 Action Replay photo that had been given a stronger exact-model source lead. PRP1 remains gated until **researched-photo-pending reaches 0**. Public pedal pages continue to hide Research confidence and Sources checked. The future YouTube demo widget remains deferred until the photo catch-up is complete.
+
+---
+
+## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
+
 Verified tracker state: **3,819 total / 1,274 researched / 873 pictured / 873 fully complete / 401 researched-photo-pending**.
 
 The latest completed browser recovery pass recovered **5 exact-model candidates** and published **3 new local canonical photo assets**. The internal photo-review queue is now **427 records**, including **141 parked** cases. PRP1 remains gated until the researched-photo-pending count reaches **0**.
