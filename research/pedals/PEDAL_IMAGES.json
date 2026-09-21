@@ -4869,7 +4869,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 081/Slice of Pie.md"
+    "research_record": "./research/pedals/PRP Batch 081/Slice of Pie.md",
+    "image_source_page": "https://www.bigearpedals.com/product-page/slice-of-pie-b-stock"
   },
   {
     "builder": "Big Ear",
@@ -4885,7 +4886,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 081/Black Betty.md"
+    "research_record": "./research/pedals/PRP Batch 081/Black Betty.md",
+    "image_source_page": "https://reverb.com/p/big-ear-pedals-betty-fuzz"
   },
   {
     "builder": "Big Ear NYC",
@@ -4893,7 +4895,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 081/Frank.md"
+    "research_record": "./research/pedals/PRP Batch 081/Frank.md",
+    "image_source_page": "https://reverb.com/es/p/big-ear-pedals-frank"
   },
   {
     "builder": "Big Ear NYC",
@@ -4925,7 +4928,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 081/Bedlam Drive III.md"
+    "research_record": "./research/pedals/PRP Batch 081/Bedlam Drive III.md",
+    "image_source_page": "https://reverb.com/en-fi/item/16769794-big-game-pedals-bedlam-drive-iii-overdrive-distortion-pedal"
   },
   {
     "builder": "Big Game Pedals",
@@ -5719,14 +5723,16 @@
     "pedal": "AXENTRIX II",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 097/AXENTRIX II.md"
+    "research_record": "./research/pedals/PRP Batch 097/AXENTRIX II.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/bixonic/axentrix/2"
   },
   {
     "builder": "BIXONIC",
     "pedal": "EXP2000DR",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 097/EXP2000DR.md"
+    "research_record": "./research/pedals/PRP Batch 097/EXP2000DR.md",
+    "image_source_page": "https://bixonic-sound.com/products/exp2000dr"
   },
   {
     "builder": "Biyang",
