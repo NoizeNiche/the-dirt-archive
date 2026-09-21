@@ -338,6 +338,10 @@ const path = require('node:path');
             if (await selectedColorway.getAttribute('aria-pressed') !== 'true') {
               throw new Error('Selected colorway is missing its accessible pressed state.');
             }
+            const variationParam = new URL(page.url()).searchParams.get('variation');
+            if (variationParam !== expectedVariationName) {
+              throw new Error('Selected colorway is not preserved in the detail URL.');
+            }
 
             // Legacy pedal.html redirect must land on the canonical detail page.
             await page.goto(
