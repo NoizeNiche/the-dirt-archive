@@ -336,8 +336,11 @@ async function recoverEntry(browser, entry) {
   const trackerRows = fs.existsSync(TRACKER)
     ? csvRows(fs.readFileSync(TRACKER, 'utf8'))
     : [];
-  const trackerOrder = new Map(
-    trackerRows.map((row, index) => [key(row.Builder, row.Pedal), index])
+  const trackerMeta = new Map(
+    trackerRows.map((row, index) => [
+      key(row.Builder, row.Pedal),
+      { order: index, pictureDone: row.Picture === 'DONE' }
+    ])
   );
   const manifestByKey = new Map(manifest.map(x => [key(x.builder, x.pedal), x]));
   const candidates = (catalog.pedals || [])
@@ -354,8 +357,12 @@ async function recoverEntry(browser, entry) {
     })
     .sort((a, b) => {
       const score = entry => {
-        const order = trackerOrder.get(key(entry.company, entry.pedal));
+        const meta = trackerMeta.get(key(entry.company, entry.pedal));
+        const order = meta?.order;
         let value = Number.isFinite(order) ? -order : -100000000;
+        // Give unresolved tracker photos priority over cleanup records that
+        // are already marked Picture=DONE but lack a canonical local file.
+        if (meta && !meta.pictureDone) value += 1000000;
         if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) value += 100;
         if (PRIORITY_COMPANY && String(entry.company || '').trim().toLowerCase() === PRIORITY_COMPANY) value += 100000;
         return value;
