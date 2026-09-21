@@ -134,6 +134,11 @@ def main():
         raise SystemExit("Bulk photo cache is not including externally pictured records for localization.")
     if "function preferredSourcePage" not in photo_cache_script or "const pageUrl = preferredSourcePage(entry);" not in photo_cache_script:
         raise SystemExit("Photo cache is not preferring a real pedal source page over a generic marketplace homepage.")
+    cache_image_script = (ROOT / "scripts/cache-pedal-images.py").read_text(encoding="utf-8")
+    if "ThreadPoolExecutor(max_workers=6)" not in cache_image_script:
+        raise SystemExit("Image download concurrency is not bounded at six workers.")
+    if "Remaining tracker photo backlog" not in cache_image_script:
+        raise SystemExit("Photo cache report is missing the remaining backlog count.")
     if "function isReverbListingUrl" not in photo_cache_script:
         raise SystemExit("Browser photo cache is missing the shared Reverb listing URL matcher.")
     if r"\/(?:[a-z]{2}(?:-[a-z]{2})?)?\/item\/" not in photo_cache_script:
