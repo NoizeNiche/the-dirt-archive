@@ -1,5 +1,5 @@
 {
-  "version": "data-ec993b39a2d7",
+  "version": "data-7197610f8673",
   "count": 3819,
   "pedals": [
     {
@@ -7192,9 +7192,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bigfoot-engineering/bigfoot-germanium-eq-drive/primary.webp",
       "source_page": "https://www.bigfootengineering.com/store/p118/Bigfoot_Germanium_EQ_Drive.html",
-      "research_record": "./research/pedals/PRP Batch 086/Bigfoot Germanium EQ Drive.md"
+      "research_record": "./research/pedals/PRP Batch 086/Bigfoot Germanium EQ Drive.md",
+      "image_source_url": "https://www.bigfootengineering.com/uploads/3/0/7/2/30729739/s223396692999655906_p118_i18_w2415.jpeg",
+      "image_source_page": "https://www.bigfootengineering.com/store/p118/15th-anniversary-king-fuzz.html"
     },
     {
       "company": "Bigfoot Engineering",

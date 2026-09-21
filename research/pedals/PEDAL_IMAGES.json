@@ -5476,10 +5476,12 @@
   {
     "builder": "Bigfoot Engineering",
     "pedal": "Bigfoot Germanium EQ Drive",
-    "image": null,
+    "image": "./assets/pedals/bigfoot-engineering/bigfoot-germanium-eq-drive/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.bigfootengineering.com/store/p118/Bigfoot_Germanium_EQ_Drive.html",
-    "research_record": "./research/pedals/PRP Batch 086/Bigfoot Germanium EQ Drive.md"
+    "research_record": "./research/pedals/PRP Batch 086/Bigfoot Germanium EQ Drive.md",
+    "image_source_url": "https://www.bigfootengineering.com/uploads/3/0/7/2/30729739/s223396692999655906_p118_i18_w2415.jpeg",
+    "image_source_page": "https://www.bigfootengineering.com/store/p118/15th-anniversary-king-fuzz.html"
   },
   {
     "builder": "Bigfoot Engineering",
