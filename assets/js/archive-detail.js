@@ -133,7 +133,9 @@ function researchRecordUrl(path){
   const value=String(path||'');
   if(value.startsWith('http://') || value.startsWith('https://')) return new URL(value).href;
   const base=new URL('./',location.href);
-  const relative=value.replace(/^\\.\\//, '').replace(/^\\/+/, '');
+  let relative=value;
+  if(relative.startsWith('./')) relative=relative.slice(2);
+  while(relative.startsWith('/')) relative=relative.slice(1);
   const encoded=relative.split('/').map(segment=>encodeURIComponent(segment)).join('/');
   return new URL(encoded,base).href;
 }
