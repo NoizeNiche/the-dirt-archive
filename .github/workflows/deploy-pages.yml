@@ -602,32 +602,13 @@ jobs:
                       throw new Error('local image HTTP ' + res.status() + ' ' + type);
                     }
 
-                    await waitForLive(detailUrl(entry), page);
-                    await page.waitForFunction(() => document.querySelector('#record') && !document.querySelector('#record').hidden, null, {timeout:20000});
-                    await waitForImageLoaded(page, '#photoBox img');
-                    const dom = await page.evaluate((entry) => {
-                      const img = document.querySelector('#photoBox img');
-                      const fallback = document.querySelector('#photoBox span');
-                      const actualSrc = img ? img.src : null;
-                      const expectedSrc = entry.image ? new URL(entry.image, location.href).href : null;
-                      return {
-                        hasImg: !!img,
-                        loaded: !!img && img.complete && img.naturalWidth > 0,
-                        fallbackVisible: !!fallback && !fallback.hidden && /No Photo Archived/.test(fallback.textContent || ''),
-                        src: actualSrc,
-                        expected: expectedSrc
-                      };
-                    }, entry);
-                    if (!dom.hasImg || !dom.loaded) throw new Error('detail photo did not load');
-                    if (dom.fallbackVisible) throw new Error('detail page still shows No Photo Archived');
-                    if (!dom.src || dom.src !== dom.expected) throw new Error('detail photo src does not match catalog image');
-
                     if (entry.catalog_role === 'variation') {
                       if (!entry.variation_name) throw new Error('variation is missing variation_name');
                       const variationUrl = new URL(detailUrl(entry));
                       variationUrl.searchParams.set('variation', entry.variation_name);
                       await waitForLive(variationUrl.href, page);
-                      await page.waitForFunction(() => document.querySelector('#photoBox img') && document.querySelector('#photoBox img').complete, null, {timeout:10000});
+                      await page.waitForFunction(() => document.querySelector('#record') && !document.querySelector('#record').hidden, null, {timeout:20000});
+                      await waitForImageLoaded(page, '#photoBox img');
                       const variationDom = await page.evaluate((entry) => {
                         const img = document.querySelector('#photoBox img');
                         const fallback = document.querySelector('#photoBox span');
@@ -641,6 +622,26 @@ jobs:
                       if (!variationDom.loaded) throw new Error('variation photo did not load');
                       if (variationDom.fallbackVisible) throw new Error('variation page shows No Photo Archived despite an image');
                       if (!variationDom.src || variationDom.src !== variationDom.expected) throw new Error('variation photo src does not match catalog image');
+                    } else {
+                      await waitForLive(detailUrl(entry), page);
+                      await page.waitForFunction(() => document.querySelector('#record') && !document.querySelector('#record').hidden, null, {timeout:20000});
+                      await waitForImageLoaded(page, '#photoBox img');
+                      const dom = await page.evaluate((entry) => {
+                        const img = document.querySelector('#photoBox img');
+                        const fallback = document.querySelector('#photoBox span');
+                        const actualSrc = img ? img.src : null;
+                        const expectedSrc = entry.image ? new URL(entry.image, location.href).href : null;
+                        return {
+                          hasImg: !!img,
+                          loaded: !!img && img.complete && img.naturalWidth > 0,
+                          fallbackVisible: !!fallback && !fallback.hidden && /No Photo Archived/.test(fallback.textContent || ''),
+                          src: actualSrc,
+                          expected: expectedSrc
+                        };
+                      }, entry);
+                      if (!dom.hasImg || !dom.loaded) throw new Error('detail photo did not load');
+                      if (dom.fallbackVisible) throw new Error('detail page still shows No Photo Archived');
+                      if (!dom.src || dom.src !== dom.expected) throw new Error('detail photo src does not match catalog image');
                     }
                   } catch (err) {
                     failures.push(id + ' -> ' + err.message);
