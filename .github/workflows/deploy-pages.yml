@@ -11,6 +11,8 @@ on:
       - 'assets/**'
       - 'research/PEDAL_INDEX.json'
       - 'research/pedals/**'
+      - 'assets/js/**'
+      - 'assets/css/**'
       - '.github/workflows/deploy-pages.yml'
   workflow_run:
     workflows:
