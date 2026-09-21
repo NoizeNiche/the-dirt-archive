@@ -18,6 +18,7 @@ const CANDIDATE_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CANDIDATE_L
 const SEARCH_VERIFY_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_SEARCH_VERIFY_LIMIT || 5));
 const TARGET_BUILDER = String(process.env.PHOTO_BROWSER_TARGET_BUILDER || '').trim();
 const TARGET_PEDAL = String(process.env.PHOTO_BROWSER_TARGET_PEDAL || '').trim();
+const PER_BUILDER_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_PER_BUILDER_LIMIT || 4));
 
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
@@ -343,7 +344,7 @@ async function recoverEntry(browser, entry) {
     ])
   );
   const manifestByKey = new Map(manifest.map(x => [key(x.builder, x.pedal), x]));
-  const candidates = (catalog.pedals || [])
+  const orderedCandidates = (catalog.pedals || [])
     .filter(x => {
       if (TARGET_BUILDER && String(x.company || '').trim() !== TARGET_BUILDER) return false;
       if (TARGET_PEDAL && String(x.pedal || '').trim() !== TARGET_PEDAL) return false;
@@ -370,8 +371,33 @@ async function recoverEntry(browser, entry) {
         return value;
       };
       return score(b) - score(a);
-    })
-    .slice(0, LIMIT);
+    });
+
+  // In bulk mode, spread each pass across builders so a single run cannot
+  // burn all of its recovery attempts on one builder's hard-to-source photos.
+  let candidates = orderedCandidates;
+  if (!TARGET_BUILDER && !TARGET_PEDAL) {
+    const selected = [];
+    const deferred = [];
+    const perBuilder = new Map();
+    for (const entry of orderedCandidates) {
+      const builder = String(entry.company || entry.builder || 'Unknown').trim();
+      const used = perBuilder.get(builder) || 0;
+      if (used < PER_BUILDER_LIMIT && selected.length < LIMIT) {
+        selected.push(entry);
+        perBuilder.set(builder, used + 1);
+      } else {
+        deferred.push(entry);
+      }
+    }
+    for (const entry of deferred) {
+      if (selected.length >= LIMIT) break;
+      selected.push(entry);
+    }
+    candidates = selected;
+  } else {
+    candidates = orderedCandidates.slice(0, LIMIT);
+  }
 
   const browser = await chromium.launch({ headless: true });
   let recovered = 0;
