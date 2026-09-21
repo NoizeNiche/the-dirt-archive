@@ -9,6 +9,7 @@ on:
       - "research/pedals/PEDAL_IMAGES.json"
       - "scripts/browser-photo-cache.mjs"
       - "scripts/cache-pedal-images.py"
+      - "research/PEDAL_IMAGE_OVERRIDES.json"
       - ".github/workflows/cache-pedal-images.yml"
   workflow_dispatch:
 permissions:
