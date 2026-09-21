@@ -3083,35 +3083,40 @@
     "pedal": "JD10 Compact Jerry Donahue Sessionmaster",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/awardsession/jd10",
-    "research_record": "./research/pedals/Award-Session/JD10 Compact Jerry Donahue Sessionmaster.md"
+    "research_record": "./research/pedals/Award-Session/JD10 Compact Jerry Donahue Sessionmaster.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/awardsession/jd10"
   },
   {
     "builder": "Award-Session",
     "pedal": "JD10 MkII Direct Recording Guitar Amp Emulator",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/awardsession/jd10/mk2",
-    "research_record": "./research/pedals/Award-Session/JD10 MkII Direct Recording Guitar Amp Emulator.md"
+    "research_record": "./research/pedals/Award-Session/JD10 MkII Direct Recording Guitar Amp Emulator.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/awardsession/jd10/mk2"
   },
   {
     "builder": "Award-Session",
     "pedal": "JD20 Jerry Donahue Twin Channel Direct Recording Guitar PreAmp And Overdrive/Distortion Pedal",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/awardsession/jd20",
-    "research_record": "./research/pedals/Award-Session/JD20 Jerry Donahue Twin Channel Direct Recording Guitar PreAmp And Overdrive/Distortion Pedal.md"
+    "research_record": "./research/pedals/Award-Session/JD20 Jerry Donahue Twin Channel Direct Recording Guitar PreAmp And Overdrive/Distortion Pedal.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/awardsession/jd20"
   },
   {
     "builder": "Award-Session",
     "pedal": "SP75 Sessionette:75 Guitar Amp Sound",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/awardsession/sp75",
-    "research_record": "./research/pedals/Award-Session/SP75 Sessionette:75 Guitar Amp Sound.md"
+    "research_record": "./research/pedals/Award-Session/SP75 Sessionette:75 Guitar Amp Sound.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/awardsession/sp75"
   },
   {
     "builder": "Awestruck Amplification",
     "pedal": "Highland",
     "image": null,
     "source_page": "https://www.awestruckamps.com/product/highland/",
-    "research_record": "./research/pedals/Awestruck Amplification/Highland.md"
+    "research_record": "./research/pedals/Awestruck Amplification/Highland.md",
+    "image_source_page": "https://www.awestruckamps.com/product/highland/"
   },
   {
     "builder": "Awestruck Amplification",
@@ -3211,7 +3216,8 @@
     "pedal": "Distortion Preamp DP-1",
     "image": null,
     "source_page": "https://axiomeffects.com/collections/frontpage/products/axiom-distortion-preamp-dp-1",
-    "research_record": "./research/pedals/AXiom Effects/Distortion Preamp DP-1.md"
+    "research_record": "./research/pedals/AXiom Effects/Distortion Preamp DP-1.md",
+    "image_source_page": "https://axiomeffects.com/products/axiom-distortion-preamp-dp-1"
   },
   {
     "builder": "AXiom Effects",
@@ -3225,7 +3231,8 @@
     "pedal": "Overdrive Preamp OP-1",
     "image": null,
     "source_page": "https://axiomeffects.com/products/axiom-overdrive-preamp-op-1",
-    "research_record": "./research/pedals/AXiom Effects/Overdrive Preamp OP-1.md"
+    "research_record": "./research/pedals/AXiom Effects/Overdrive Preamp OP-1.md",
+    "image_source_page": "https://axiomeffects.com/products/axiom-overdrive-preamp-op-1"
   },
   {
     "builder": "Axis Guitar Effects",
