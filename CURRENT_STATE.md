@@ -1,5 +1,13 @@
 ## Site UI maintenance checkpoint - September 21, 2026
 
+Colorway selection on pedal detail pages now uses CSS classes instead of JavaScript-applied inline presentation. The selected colorway also exposes `aria-pressed="true"`, and the browser audit verifies that a variation deep-link both selects the requested colorway and exposes the correct accessible state.
+
+Latest UI checkpoint: **c66a4c3c5267760498251c0673a7701523471f3c**.
+
+The photo-recovery gate remains unchanged at the latest verified **378 researched-photo-pending** records. PRP1 remains gated until that reaches **0**.
+
+## Site UI maintenance checkpoint - September 21, 2026
+
 Detail-page photo presentation is now owned by `assets/css/archive-detail.css` rather than inline styles inside the JavaScript renderer. Photo load failure is handled by the detail controller without embedding presentation styles in the generated markup. The structural validator now rejects inline style attributes in `archive-detail.js`.
 
 Latest maintenance checkpoint: **8d79e5ce7f5d21b6e096a17079beefce17c482d2**.
