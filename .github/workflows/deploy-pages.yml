@@ -4,6 +4,13 @@ name: Deploy The Dirt Archive
 on:
   push:
     branches: [main]
+    paths:
+      - 'index.html'
+      - 'pedal.html'
+      - 'pedal-detail.html'
+      - 'assets/**'
+      - 'research/PEDAL_INDEX.json'
+      - 'research/pedals/**'
   workflow_dispatch:
 
 permissions:
