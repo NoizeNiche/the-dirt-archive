@@ -123,6 +123,24 @@ function identityPhrases(pedal) {
     .filter(value => value.length >= 5 && value.split(/\s+/).length >= 2);
 }
 
+function pageMatchesSearchIdentity(entry, title, h1) {
+  const haystack = normalizedIdentity(String(title || '') + ' ' + String(h1 || ''));
+  const pedalTokens = identityTokens(entry.pedal);
+  const builderTokens = identityTokens(entry.company);
+  const pedalPhrase = normalizedIdentity(entry.pedal);
+  const exactPhrase = pedalPhrase && pedalPhrase.split(/\s+/).length >= 2 && haystack.includes(pedalPhrase);
+  const pedalHits = pedalTokens.filter(token => haystack.includes(token)).length;
+  const builderHits = builderTokens.filter(token => haystack.includes(token)).length;
+  const requiredPedalHits = pedalTokens.length >= 2 ? Math.min(2, pedalTokens.length) : Math.max(1, pedalTokens.length);
+
+  // Search-result identity must be proven by the title/H1 itself. Do not use
+  // arbitrary body text, which can contain unrelated SEO copy or recommendations.
+  return Boolean(
+    (exactPhrase && builderHits >= 1) ||
+    (pedalHits >= requiredPedalHits && builderHits >= 1)
+  );
+}
+
 function pageMatchesIdentity(entry, title, h1) {
   const haystack = normalizedIdentity(title + ' ' + h1);
   const pedalPhrases = identityPhrases(entry.pedal);
@@ -587,7 +605,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
               body: await page.locator('body').textContent().catch(() => '')
             };
           }
-          if (!pageMatchesIdentity(entry, identity.title + ' ' + identity.body, identity.h1)) continue;
+          if (!pageMatchesSearchIdentity(entry, identity.title, identity.h1)) continue;
           verifiedSearch.push({
             url: result.murl,
             sourcePage: result.purl,
