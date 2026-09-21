@@ -1,6 +1,6 @@
 {
-  "version": "data-prp1-wiring-163",
-  "count": 3821,
+  "version": "data-prp1-wiring-164",
+  "count": 3819,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -10045,18 +10045,6 @@
     },
     {
       "company": "Browne Amplification",
-      "pedal": "Carbon X - Dual Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/browne-amplification/carbon-x-dual-overdrive/primary.webp",
-      "source_page": "https://browneamps.com/store/p/carbon-x-dual-overdrive",
-      "research_record": "./research/pedals/PRP Batch 120/browne-amplification-carbon-x-dual-overdrive.md",
-      "image_source_page": "https://browneamps.com/store/p/carbon-x-dual-overdrive",
-      "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/65b17f3904b3cb21df70a515/1788560643781/CARBONX_Black_2.png?format=1500w"
-    },
-    {
-      "company": "Browne Amplification",
       "pedal": "Carbon X Dual Overdrive",
       "types": [
         "Overdrive"
@@ -10066,18 +10054,6 @@
       "research_record": "./research/pedals/PRP Batch 120/browne-amplification-carbon-x-dual-overdrive.md",
       "image_source_page": "https://browneamps.com/store/p/carbon-x-dual-overdrive",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/65b17f3904b3cb21df70a515/1788560643781/CARBONX_Black_2.png?format=1500w"
-    },
-    {
-      "company": "Browne Amplification",
-      "pedal": "Ethane - Dual Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/browne-amplification/ethane-dual-overdrive/primary.webp",
-      "source_page": "https://browneamps.com/store/p/ethane-dual-overdive",
-      "research_record": "./research/pedals/PRP Batch 121/browne-amplification-ethane-dual-overdrive.md",
-      "image_source_page": "https://browneamps.com/store/p/ethane-dual-overdive",
-      "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/68484bbab91f060aa520dd81/1788561588485/Ethane3.png?format=1500w"
     },
     {
       "company": "Browne Amplification",
