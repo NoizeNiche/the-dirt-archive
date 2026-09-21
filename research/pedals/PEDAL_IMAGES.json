@@ -5709,7 +5709,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome",
-    "research_record": "./research/pedals/PRP Batch 088/Proxy.md"
+    "research_record": "./research/pedals/PRP Batch 088/Proxy.md",
+    "image_source_page": "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome"
   },
   {
     "builder": "Bispell Audio",
@@ -5718,7 +5719,7 @@
     "source": "verified research source",
     "source_page": "https://www.guitarpedalx.com/news/gpx-blog/the-new-v1-5-edition-of-bispell-audios-superior-saxon-jtm45--super-lead-plexi-miab-enhances-its-gain-range-and-refines-the-tone-stack",
     "research_record": "./research/pedals/PRP Batch 088/Saxon.md",
-    "image_source_page": "https://bispellaudio.com/prod/saxon"
+    "image_source_page": "https://www.guitarpedalx.com/news/news/the-new-v15-edition-of-bispell-audios-superior-saxon-jtm45--super-lead-plexi-miab-enhances-its-gain-range-and-refines-the-tone-stack"
   },
   {
     "builder": "Bispell Audio",
@@ -5726,7 +5727,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": "https://www.guitarpedalx.com/news/gpx-blog/bispell-audio-reboots-its-tor-silicon-circuit-oc44-emulating-rangemaster---now-in-v2-edition-with-even-more-granularity-and-versatility",
-    "research_record": "./research/pedals/PRP Batch 088/TOR.md"
+    "research_record": "./research/pedals/PRP Batch 088/TOR.md",
+    "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/bispell-audio-reboots-its-tor-silicon-circuit-oc44-emulating-rangemaster---now-in-v2-edition-with-even-more-granularity-and-versatility"
   },
   {
     "builder": "Bixonic",
@@ -5818,7 +5820,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/biyang/classic/bl12",
-    "research_record": "./research/pedals/PRP Batch 089/BL-12 Blues.md"
+    "research_record": "./research/pedals/PRP Batch 089/BL-12 Blues.md",
+    "image_source_page": "https://reverb.com/p/biyang-classical-bl-12-blues-overdrive"
   },
   {
     "builder": "Biyang",
@@ -5852,7 +5855,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds12",
-    "research_record": "./research/pedals/PRP Batch 089/DS-12 Distortion.md"
+    "research_record": "./research/pedals/PRP Batch 089/DS-12 Distortion.md",
+    "image_source_page": "https://reverb.com/p/biyang-classical-ds-12-distortion"
   },
   {
     "builder": "Biyang",
