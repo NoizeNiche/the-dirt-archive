@@ -1841,7 +1841,9 @@
     "pedal": "SS-20",
     "image": null,
     "source_page": "https://amtelectronics.com/new/manuals/SS-20-v2-manual-ENG.pdf",
-    "research_record": "./research/pedals/PRP Batch 050/SS-20.md"
+    "research_record": "./research/pedals/PRP Batch 050/SS-20.md",
+    "image_source_page": "https://amtelectronics.com/new/amt-ss-20/",
+    "image_source_url": "https://amtelectronics.com/new/wp-content/uploads/2015/06/SS-20_2019-890x395_c.jpg"
   },
   {
     "builder": "AMtech Handwired",
