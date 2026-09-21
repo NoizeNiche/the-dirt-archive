@@ -127,6 +127,14 @@ def main():
     if "sync-public-data-version.py" in architecture_text:
         raise SystemExit("Architecture still references the retired catalog-version synchronization script.")
     cache_workflow = (ROOT / ".github/workflows/cache-pedal-images.yml").read_text(encoding="utf-8")
+    cache_script = (ROOT / "scripts/cache-pedal-images.py").read_text(encoding="utf-8")
+    photo_cache_script = (ROOT / "scripts/browser-photo-cache.mjs").read_text(encoding="utf-8")
+    if "or re.match(r"^https?://"" not in cache_script:
+        raise SystemExit("Bulk photo cache is not including externally pictured records for localization.")
+    if "function reverbListingMatchesIdentity" not in photo_cache_script:
+        raise SystemExit("Browser photo cache is missing the Reverb listing identity fallback.")
+    if "return builderMatch && (" not in photo_cache_script:
+        raise SystemExit("Photo identity fallback is not requiring builder context.")
     if "node-version: 20" not in deploy_text:
         raise SystemExit("Deployment workflow is not pinned to Node 20.")
     if "node-version: 20" not in cache_workflow:
