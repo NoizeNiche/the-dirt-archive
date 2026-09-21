@@ -9574,10 +9574,11 @@
   {
     "builder": "Caline",
     "pedal": "CP-70 High Chief - Crushing Overdrive",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-70-high-chief-crushing-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp70",
     "research_record": "./research/pedals/PRP Batch 143/cp-70-high-chief-crushing-overdrive.md",
-    "image_source_page": "https://reverb.com/item/40197287-caline-cp-70-high-chief-dual-overdrive-guitar-effect-pedal"
+    "image_source_page": "https://au.grandado.com/products/caline-cp-70-high-chief-overdrive-amp-clear-boost-2-in-1-guitar-effect-pedal-true-bypass-electric-guitar-parts-amp-accessories?variant=UHJvZHVjdFZhcmlhbnQ6NDI1MjQ0ODA3",
+    "image_source_url": "https://images.nexusapp.co/assets/41/1d/9e/486690328.jpg"
   },
   {
     "builder": "Caline",

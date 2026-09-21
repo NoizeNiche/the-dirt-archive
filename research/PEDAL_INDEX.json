@@ -12592,9 +12592,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-70-high-chief-crushing-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp70",
-      "research_record": "./research/pedals/PRP Batch 143/cp-70-high-chief-crushing-overdrive.md"
+      "research_record": "./research/pedals/PRP Batch 143/cp-70-high-chief-crushing-overdrive.md",
+      "image_source_url": "https://images.nexusapp.co/assets/41/1d/9e/486690328.jpg",
+      "image_source_page": "https://au.grandado.com/products/caline-cp-70-high-chief-overdrive-amp-clear-boost-2-in-1-guitar-effect-pedal-true-bypass-electric-guitar-parts-amp-accessories?variant=UHJvZHVjdFZhcmlhbnQ6NDI1MjQ0ODA3"
     },
     {
       "company": "Caline",
