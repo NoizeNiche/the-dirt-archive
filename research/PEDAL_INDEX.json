@@ -1,5 +1,5 @@
 {
-  "version": "data-a37c9d2f08be",
+  "version": "prp1-cbc-pedals-ampeg-scrambler",
   "count": 3819,
   "pedals": [
     {
@@ -14679,7 +14679,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/CBC Pedals/Ampeg Scrambler.md"
     },
     {
       "company": "CBC Pedals",
