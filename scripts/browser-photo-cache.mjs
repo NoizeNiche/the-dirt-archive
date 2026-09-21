@@ -409,8 +409,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
     if (!selectedResult && IMAGE_SEARCH_ENABLED) {
       const searchResults = await imageSearchCandidates(page, entry, deepReview);
       const verifiedSearch = [];
-      for (const result of searchResults.slice(0, SEARCH_VERIFY_LIMIT)) {
-        const fit = imageSearchScore(entry, result);
+      const rankedSearchResults = searchResults
+        .map(result => ({ result, fit: imageSearchScore(entry, result) }))
+        .sort((a, b) => b.fit.score - a.fit.score);
+      for (const ranked of rankedSearchResults.slice(0, SEARCH_VERIFY_LIMIT)) {
+        const result = ranked.result;
+        const fit = ranked.fit;
         const requiredHits = pedalTokensForSearch(entry).length >= 2 ? 2 : 1;
         if (fit.score < 45 || fit.pedalHits < requiredHits || !result.purl || !result.murl) continue;
         try {
