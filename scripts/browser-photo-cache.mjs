@@ -23,9 +23,7 @@ const PER_BUILDER_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_PER
 const RECOVERY_DEADLINE_MS = Math.max(10000, Number(process.env.PHOTO_BROWSER_RECOVERY_DEADLINE_MS || 35000));
 const MAX_RECOVERY_ATTEMPTS = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS || 12));
 const REVISIT_PARKED = String(process.env.PHOTO_BROWSER_REVISIT_PARKED || 'false').toLowerCase() !== 'false';
-const PHOTO_OVERRIDE_FILE = path.join(ROOT, 'research/PEDAL_IMAGE_OVERRIDES.json');
 let manifestOwnersByImage = new Map();
-let photoOverridesByKey = new Map();
 
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
@@ -459,7 +457,7 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
         for (const el of document.querySelectorAll('a[href*="/item/"]')) {
           const href = el.href || '';
           const title = (el.textContent || '').replace(/\s+/g, ' ').trim();
-          if (!href || !isReverbListingUrl(href)) continue;
+          if (!href || !/^https?:\/\/reverb\.com(?:\/[a-z]{2}(?:-[a-z]{2})?)?\/item\//i.test(href)) continue;
           out.push({ purl: href.split('?')[0], title, searchUrl: location.href });
         }
         return out;
@@ -664,15 +662,6 @@ async function recoverEntry(browser, entry, deepReview = false) {
     if (!pageUrl || !hostMatchesBuilder(pageUrl, entry.company)) {
       const makerCandidates = await makerWebCandidates(page, entry);
       candidates.push(...makerCandidates);
-    }
-
-    const photoOverride = photoOverridesByKey.get(key(entry.company, entry.pedal));
-    if (photoOverride?.image && /^https?:/i.test(photoOverride.image)) {
-      candidates.push({
-        url: photoOverride.image,
-        sourcePage: photoOverride.source_page || entry.image_source_page || entry.source_page || null,
-        sourceScore: 210
-      });
     }
 
     if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) {
@@ -1118,20 +1107,6 @@ async function recoverEntry(browser, entry, deepReview = false) {
 (async () => {
   const catalog = JSON.parse(fs.readFileSync(INDEX, 'utf8'));
   const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf8'));
-  if (fs.existsSync(PHOTO_OVERRIDE_FILE)) {
-    try {
-      const overridePayload = JSON.parse(fs.readFileSync(PHOTO_OVERRIDE_FILE, 'utf8'));
-      photoOverridesByKey = new Map(
-        (Array.isArray(overridePayload.overrides) ? overridePayload.overrides : [])
-          .filter(row => row && row.builder && row.pedal && row.image)
-          .map(row => [key(row.builder, row.pedal), row])
-      );
-      console.log('Loaded ' + photoOverridesByKey.size + ' verified photo overrides.');
-    } catch (error) {
-      console.warn('Photo override file could not be loaded:', error.message);
-      photoOverridesByKey = new Map();
-    }
-  }
   manifestOwnersByImage = new Map(
     manifest
       .filter(row => row && row.image)
