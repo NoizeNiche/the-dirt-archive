@@ -954,7 +954,16 @@ async function recoverEntry(browser, entry, deepReview = false) {
         if (Number.isFinite(aOrder) && Number.isFinite(bOrder)) return aOrder - bOrder;
         return 0;
       });
-    const activePool = normalCandidates.length ? normalCandidates : deepCandidates;
+    // Keep fresh cases moving, but reserve a bounded slice for the hardest
+    // deep-review records so high-attempt cases cannot sit indefinitely behind
+    // newer failures.
+    const HARD_CASE_SLOTS = Math.min(15, LIMIT);
+    const freshSlots = Math.max(0, LIMIT - HARD_CASE_SLOTS);
+    const hardCases = deepCandidates.slice(Math.max(0, deepCandidates.length - HARD_CASE_SLOTS));
+    const freshCases = (normalCandidates.length ? normalCandidates : deepCandidates)
+      .slice(0, freshSlots);
+    const activePool = [...freshCases, ...hardCases]
+      .filter((entry, index, pool) => pool.findIndex(x => key(x.company, x.pedal) === key(entry.company, entry.pedal)) === index);
 
     const selected = [];
     const deferred = [];
