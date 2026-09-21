@@ -64,7 +64,7 @@
   {
     "builder": "1981 Inventions",
     "pedal": "LVL",
-    "image": "https://1981inventions.com/cdn/shop/files/DSCF5851.jpg?v=1788558906&width=1445",
+    "image": "./assets/pedals/1981-inventions/lvl/primary.webp",
     "source_page": "https://1981inventions.com/products/forget-lvl",
     "research_record": "./research/pedals/1981 Inventions/LVL.md",
     "image_source_page": "https://1981inventions.com/products/forget-lvl",
@@ -813,7 +813,7 @@
   {
     "builder": "Addrock Musical Products",
     "pedal": "Boostmaster",
-    "image": "https://files.effectsdatabase.com/gear/thumbs/addrock_boostmaster_001.jpg",
+    "image": "./assets/pedals/addrock-musical-products/boostmaster/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/addrock/boostmaster",
     "research_record": "./research/pedals/Addrock Musical Products/Boostmaster.md",
     "image_source_page": "https://www.effectsdatabase.com/model/addrock/boostmaster",
@@ -831,7 +831,7 @@
   {
     "builder": "Addrock Musical Products",
     "pedal": "Hism Scism",
-    "image": "https://files.effectsdatabase.com/gear/thumbs/addrock_hismscism_001.jpg",
+    "image": "./assets/pedals/addrock-musical-products/hism-scism/primary.webp",
     "image_source_page": "https://www.effectsdatabase.com/model/addrock/hismscism",
     "research_record": "./research/pedals/Addrock Musical Products/Hism Scism.md",
     "source_page": "https://reverb.com/item/94436181-addrock-hism-scism-silicon-fuzz-pedal",
@@ -3804,7 +3804,7 @@
   {
     "builder": "Barber Electronics",
     "pedal": "1/2 Gainer",
-    "image": "https://files.effectsdatabase.com/gear/thumbs/barber_halfgainer_001.jpg",
+    "image": "./assets/pedals/barber-electronics/1-2-gainer/primary.webp",
     "source": "Reverb direct photograph",
     "source_page": "https://reverb.com/p/barber-half-gainer",
     "research_record": "./research/pedals/Barber Electronics/1_2_Gainer.md",
