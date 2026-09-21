@@ -131,9 +131,9 @@ function renderDemo(item){
 
 function researchRecordUrl(path){
   const value=String(path||'');
-  if(/^https?:\\/\\//i.test(value))return new URL(value).href;
+  if(value.startsWith('http://') || value.startsWith('https://')) return new URL(value).href;
   const base=new URL('./',location.href);
-  const relative=value.replace(/^\\.\\/+/, '').replace(/^\\/+/, '');
+  const relative=value.replace(/^\\.\\//, '').replace(/^\\/+/, '');
   const encoded=relative.split('/').map(segment=>encodeURIComponent(segment)).join('/');
   return new URL(encoded,base).href;
 }
