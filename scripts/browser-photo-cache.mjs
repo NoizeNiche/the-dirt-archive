@@ -214,7 +214,7 @@ function isReverbListingUrl(url) {
   try {
     const parsed = new URL(url);
     return /(^|\.)reverb\.com$/i.test(parsed.hostname) &&
-      \/(?:[a-z]{2}(?:-[a-z]{2})?\/)?item\//i.test(parsed.pathname);
+      /\/(?:[a-z]{2}(?:-[a-z]{2})?\/)?item\//i.test(parsed.pathname);
   } catch {
     return false;
   }
