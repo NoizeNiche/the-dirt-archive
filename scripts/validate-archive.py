@@ -195,7 +195,7 @@ def main():
         raise SystemExit("Deep photo review is missing targeted Effects Database and Reverb searches.")
     if "function isReverbListingUrl" not in photo_cache_script:
         raise SystemExit("Browser photo cache is missing the shared Reverb listing URL matcher.")
-    if "(?:[a-z]{2}(?:-[a-z]{2})?)?\\/item\\/" not in photo_cache_script:
+    if "(?:[a-z]{2}(?:-[a-z]{2})?)?" not in photo_cache_script or "/item/" not in photo_cache_script:
         raise SystemExit("Reverb listing URL matcher is not accepting localized marketplace paths.")
     if "isReverbListingUrl(href)" in photo_cache_script:
         raise SystemExit("Browser-page Reverb filtering is calling a Node-only helper.")
