@@ -235,6 +235,14 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
 
 async function recoverEntry(browser, entry, deepReview = false) {
   const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
+  const networkImageUrls = [];
+  const onResponse = response => {
+    try {
+      const type = (response.headers()['content-type'] || '').toLowerCase();
+      if (type.startsWith('image/')) networkImageUrls.push(response.url());
+    } catch {}
+  };
+  page.on('response', onResponse);
   const deadline = setTimeout(() => {
     // A single stubborn source must not occupy a browser worker indefinitely.
     page.close().catch(() => {});
@@ -312,6 +320,14 @@ async function recoverEntry(browser, entry, deepReview = false) {
                 } catch {}
               }
             }
+          }
+
+          // Some archived/product pages load their only useful photo through
+          // an image request rather than an <img> node. Capture those requests
+          // from the verified page and let the normal URL ranking/filtering pick
+          // a plausible exact-model asset. Logos/icons remain penalized below.
+          for (const url of [...new Set(networkImageUrls)]) {
+            candidates.push({ url, sourcePage: sourcePageUsed, sourceScore: 100 });
           }
         }
       } catch {}
