@@ -1,3 +1,15 @@
+## Full-site maintenance checkpoint - September 21, 2026
+
+Canonical state: **3,819 total / 3,818 public / 1,273 researched public / 896 pictured public / 896 complete public / 377 researched-photo-pending / 2,922 public photo-missing / 879 public local images / 17 public external image URLs**.
+
+This maintenance slice hardened the deployment/runtime plumbing, browser history and URL normalization, accessibility states, photo identity matching, and external-photo localization. The photo cache now includes externally pictured records in its bulk conversion path, and Reverb listing pages have a stronger rendered-image fallback.
+
+The latest local-photo recovery pass successfully localized **17** previously external public images. The remaining **17 external image URLs** are still separate from the researched-photo gate and remain eligible for future localization.
+
+PRP1 remains gated until **377 researched-photo-pending** reaches **0**.
+
+---
+
 ## Current verified archive state - September 21, 2026
 
 Canonical catalog/tracker verification: **3,819 total / 3,818 public / 1,273 researched public / 896 pictured public / 896 complete public / 377 researched-photo-pending / 2,922 public photo-missing / 862 public local images / 34 public external image URLs**.
