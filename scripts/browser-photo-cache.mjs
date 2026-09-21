@@ -202,7 +202,8 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
     ? [
         '"' + entry.company + '" "' + entry.pedal + '" guitar pedal',
         '"' + entry.pedal + '" "' + entry.company + '" pedal',
-        '"' + entry.pedal + '" "' + entry.company + '"'
+        '"' + entry.pedal + '" "' + entry.company + '"',
+        '"' + entry.pedal + '" "' + entry.company + '" reverb'
       ]
     : [entry.company + " " + entry.pedal + " guitar pedal"];
 
@@ -363,18 +364,26 @@ async function recoverEntry(browser, entry, deepReview = false) {
           // returns no usable HTML to a headless fetch. For a trusted database,
           // an exact model-title match is sufficient source-page identity.
           const resultUrl = new URL(result.purl);
+          const searchIdentity = normalizedIdentity((result.title || '') + ' ' + result.purl);
+          const pedalTokens = identityTokens(entry.pedal);
+          const builderTokens = identityTokens(entry.company);
           const trustedDatabase =
             /(^|\\.)effectsdatabase\\.com$/i.test(resultUrl.hostname) &&
             fit.pedalHits >= requiredHits &&
-            identityTokens(entry.pedal).every(token =>
-              normalizedIdentity((result.title || '') + ' ' + result.purl).includes(token)
-            );
+            pedalTokens.every(token => searchIdentity.includes(token));
 
-          if (trustedDatabase) {
+          const trustedMarketplace =
+            /(^|\\.)(reverb\\.com|ebay\\.com)$/i.test(resultUrl.hostname) &&
+            pedalTokens.length > 0 &&
+            pedalTokens.every(token => searchIdentity.includes(token)) &&
+            builderTokens.length > 0 &&
+            builderTokens.every(token => searchIdentity.includes(token));
+
+          if (trustedDatabase || trustedMarketplace) {
             verifiedSearch.push({
               url: result.murl,
               sourcePage: result.purl,
-              sourceScore: 125 + Math.min(70, fit.score),
+              sourceScore: (trustedDatabase ? 125 : 105) + Math.min(70, fit.score),
               searchResult: true
             });
             continue;
