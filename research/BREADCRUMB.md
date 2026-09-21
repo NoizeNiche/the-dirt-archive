@@ -1,3 +1,11 @@
+## Site maintenance checkpoint - September 21, 2026
+
+The latest mainline maintenance work is now committed at **20bb9c998c9714994bfdb4bbd7535eca5f69a523**. The individual pedal page research loader now uses a more reliable request path with retries, research-record paths are normalized safely, and the browser audit can serve local research markdown during its test run.
+
+The photo-recovery gate remains active at the latest verified state of **378 researched-photo-pending** records. PRP1 remains gated until the photo backlog reaches zero.
+
+---
+
 ## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
 
 Verified tracker state: **3,819 total / 1,273 researched / 896 pictured / 896 fully complete / 377 researched-photo-pending / 2,923 photo-missing overall**.
