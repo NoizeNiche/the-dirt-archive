@@ -1,10 +1,9 @@
 name: PRP1 Atomic Intake
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'research/PRP1_INTAKE/*.json'
+  workflow_run:
+    workflows: ["Cache pedal images"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -16,7 +15,9 @@ concurrency:
 
 jobs:
   publish:
-    if: github.actor != 'github-actions[bot]'
+    if: >-
+      github.event_name == 'workflow_dispatch'
+      || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
