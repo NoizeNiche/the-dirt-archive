@@ -208,7 +208,15 @@ loadCatalog()
 .then(data=>{
   allItems=data.pedals||[];
   items=allItems.filter(isCatalogEntry);
-  pedalImages=new Map(allItems.map(x=>[entryKey(x),x]));
+  // Build the card-photo map from canonical catalog entries only. When an old
+  // duplicate record exists, keep the entry that actually has a usable image
+  // instead of letting array order silently decide which photo wins.
+  pedalImages=new Map();
+  for(const x of items){
+    const key=entryKey(x);
+    const current=pedalImages.get(key);
+    if(!current || (!current.image && x.image)) pedalImages.set(key,x);
+  }
   variationSearchText=new Map();
   for(const v of allItems.filter(x=>x.catalog_role==='variation')){
     const k=v.company+'\u0000'+v.parent_pedal;
