@@ -1596,7 +1596,9 @@
     "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_fatrockmm_la.jpg",
     "source": "Sound House product photograph",
     "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255405/",
-    "research_record": "./research/pedals/Amptweaker/Fat_Rock.md"
+    "research_record": "./research/pedals/Amptweaker/Fat_Rock.md",
+    "image_source_url": "https://cdn11.bigcommerce.com/s-qzsvj0y9o3/images/stencil/1280x1280/products/53353/304314/YAMPTWEAKER130140__53537.1698315579.jpg?c=1",
+    "image_source_page": "https://richtonemusic.co.uk/amptweaker-fat-rock-pedal-boxed-2nd-hand/"
   },
   {
     "builder": "Amptweaker",
@@ -1693,7 +1695,9 @@
     "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_tightfuzzmm.jpg",
     "source": "Sound House exact-model product photo",
     "source_page": "https://www.soundhouse.co.jp/products/detail/item/241266/",
-    "research_record": "./research/pedals/Amptweaker/TightFuzz.md"
+    "research_record": "./research/pedals/Amptweaker/TightFuzz.md",
+    "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25720116&width=1200&height=600&coordinates=0%2C45%2C0%2C45",
+    "image_source_page": "https://www.premierguitar.com/amptweaker-introduces-the-tightfuzz-pedal"
   },
   {
     "builder": "Amptweaker",
