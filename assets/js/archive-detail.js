@@ -179,7 +179,7 @@ loadCatalog()
 
   const researchEl=$('research');
   if(item.research_record){
-    fetch(item.research_record,{cache:'no-store'})
+    fetch(encodeURI(item.research_record),{cache:'no-store'})
       .then(r=>{if(!r.ok)throw Error(r.status);return r.text()})
       .then(md=>{researchEl.innerHTML=renderMarkdown(md)})
       .catch(e=>{researchEl.innerHTML='<p>Pedal information could not be loaded.</p>';console.error(e)})
