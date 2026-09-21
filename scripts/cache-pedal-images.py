@@ -20,6 +20,8 @@ MANIFEST_PATH = ROOT / "research/pedals/PEDAL_IMAGES.json"
 REPORT_PATH = ROOT / "research/IMAGE_CACHE_REPORT.md"
 ASSET_ROOT = ROOT / "assets/pedals"
 MAX_BYTES = 25 * 1024 * 1024
+TARGET_BUILDER = os.environ.get("PHOTO_CACHE_TARGET_BUILDER", "").strip()
+TARGET_PEDAL = os.environ.get("PHOTO_CACHE_TARGET_PEDAL", "").strip()
 
 
 def key(builder, pedal):
@@ -225,7 +227,16 @@ def main():
     failures = []
     ASSET_ROOT.mkdir(parents=True, exist_ok=True)
 
-    preparations = [cache_entry_prepare(entry) for entry in catalog.get("pedals", [])]
+    entries = catalog.get("pedals", [])
+    if TARGET_BUILDER or TARGET_PEDAL:
+        entries = [
+            entry for entry in entries
+            if (not TARGET_BUILDER or str(entry.get("company") or entry.get("builder") or "").strip() == TARGET_BUILDER)
+            and (not TARGET_PEDAL or str(entry.get("pedal") or "").strip() == TARGET_PEDAL)
+        ]
+        if not entries:
+            raise RuntimeError("Photo cache target not found in PEDAL_INDEX.json")
+    preparations = [cache_entry_prepare(entry) for entry in entries]
     downloads = []
     for status, entry, target, source in preparations:
         if status == "retain":
