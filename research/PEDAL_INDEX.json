@@ -1,5 +1,5 @@
 {
-  "version": "data-c93926aefa8f",
+  "version": "data-0f96865be6b1",
   "count": 3819,
   "pedals": [
     {
@@ -1247,9 +1247,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/adventure-audio/glacial-zenith-overdrive/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Adventure Audio/Glacial Zenith - Overdrive.md"
+      "research_record": "./research/pedals/Adventure Audio/Glacial Zenith - Overdrive.md",
+      "image_source_url": "https://www.truetonemusic.com/cdn/shop/files/1-Img41470_700x700.jpg?v=1776449201",
+      "image_source_page": "https://www.truetonemusic.com/products/used-adventure-audio-glacial-zenith-overdrive-boost-pedal"
     },
     {
       "company": "Adventure Audio",
@@ -1281,9 +1283,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/aether-electronic/lenore/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Aether Electronic/Lenore.md"
+      "research_record": "./research/pedals/Aether Electronic/Lenore.md",
+      "image_source_url": "http://jubalstore.com/cdn/shop/products/Filaments_r03_c01.jpg?v=1674209525",
+      "image_source_page": "https://storage.googleapis.com/dxvipsvpsunste/keeley-filaments-pedal.html"
     },
     {
       "company": "AGR Pedals",
@@ -1699,9 +1703,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alen-geere/leader-mk-2/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 046/LEADer Mk.2.md"
+      "research_record": "./research/pedals/PRP Batch 046/LEADer Mk.2.md",
+      "image_source_url": "https://img.wattpad.com/cover/351430299-256-k228048.jpg",
+      "image_source_page": "https://www.wattpad.com/1379255625-squad-leader-mk-2-serial-designation-x"
     },
     {
       "company": "Alen Geere",
@@ -2948,9 +2954,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/animal-factory-amplification/chemical-burn/primary.webp",
       "source_page": "https://animalfactoryamplification.com/product/chemical-burn/",
-      "research_record": "./research/pedals/Animal Factory Amplification/Chemical_Burn.md"
+      "research_record": "./research/pedals/Animal Factory Amplification/Chemical_Burn.md",
+      "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2016/01/AnimalFactoryAmplification_ChemicalBurnFuzz-768x768.jpg",
+      "image_source_page": "https://www.pedal-of-the-day.com/2016/01/22/animal-factory-amplification-chemical-burn-fuzz/"
     },
     {
       "company": "Animal Factory Amplification",
