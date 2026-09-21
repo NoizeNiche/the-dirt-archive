@@ -358,7 +358,29 @@ async function recoverEntry(browser, entry, deepReview = false) {
         const requiredHits = pedalTokensForSearch(entry).length >= 2 ? 2 : 1;
         if (fit.score < 45 || fit.pedalHits < requiredHits || !result.purl || !result.murl) continue;
         try {
-          // Verify search-result pages with a lightweight HTTP fetch first.
+          // Some specialist pedal databases expose their exact product image to
+          // search engines but hide the image behind an AJAX feed endpoint that
+          // returns no usable HTML to a headless fetch. For a trusted database,
+          // an exact model-title match is sufficient source-page identity.
+          const resultUrl = new URL(result.purl);
+          const trustedDatabase =
+            /(^|\\.)effectsdatabase\\.com$/i.test(resultUrl.hostname) &&
+            fit.pedalHits >= requiredHits &&
+            identityTokens(entry.pedal).every(token =>
+              normalizedIdentity((result.title || '') + ' ' + result.purl).includes(token)
+            );
+
+          if (trustedDatabase) {
+            verifiedSearch.push({
+              url: result.murl,
+              sourcePage: result.purl,
+              sourceScore: 125 + Math.min(70, fit.score),
+              searchResult: true
+            });
+            continue;
+          }
+
+          // Verify other search-result pages with a lightweight HTTP fetch first.
           // This avoids opening a full Chromium page for every candidate and
           // keeps the recovery pass moving without lowering the identity gate.
           let identity = await fetchSearchPageIdentity(page, result.purl);
