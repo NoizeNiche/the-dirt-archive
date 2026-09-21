@@ -3349,23 +3349,29 @@
   {
     "builder": "B85 Audio",
     "pedal": "Bass Overdrive",
-    "image": null,
+    "image": "./assets/pedals/b85-audio/bass-overdrive/primary.webp",
     "source_page": "https://www.b85audio.cz/bass-overdrive/",
-    "research_record": "./research/pedals/B85 Audio/Bass Overdrive.md"
+    "research_record": "./research/pedals/B85 Audio/Bass Overdrive.md",
+    "image_source_url": "https://cdn.myshoptet.com/usr/www.b85audio.cz/user/shop360/big/46_bass-overdrive.jpg?ff=1&x=1024&y=768&q=85&ts=61b48818&sg=161563f2",
+    "image_source_page": "https://www.b85audio.cz/bass-overdrive/"
   },
   {
     "builder": "B85 Audio",
     "pedal": "Fuzz Machine",
-    "image": null,
+    "image": "./assets/pedals/b85-audio/fuzz-machine/primary.webp",
     "source_page": "https://www.b85audio.cz/fuzz-machine/",
-    "research_record": "./research/pedals/B85 Audio/Fuzz Machine.md"
+    "research_record": "./research/pedals/B85 Audio/Fuzz Machine.md",
+    "image_source_url": "https://cdn.myshoptet.com/usr/www.b85audio.cz/user/shop360/big/64_fuzz-machine.jpg?ff=1&x=1024&y=768&q=85&ts=61a662c9&sg=161563f2",
+    "image_source_page": "https://www.b85audio.cz/fuzz-machine/"
   },
   {
     "builder": "B85 Audio",
     "pedal": "Germanium Overdrive",
-    "image": null,
+    "image": "./assets/pedals/b85-audio/germanium-overdrive/primary.webp",
     "source_page": "https://www.b85audio.cz/germanium-overdrive/",
-    "research_record": "./research/pedals/B85 Audio/Germanium Overdrive.md"
+    "research_record": "./research/pedals/B85 Audio/Germanium Overdrive.md",
+    "image_source_url": "https://cdn.myshoptet.com/usr/www.b85audio.cz/user/shop360/big/84_germanium-overdrive.jpg?ff=1&x=1024&y=768&q=85&ts=61a66335&sg=161563f2",
+    "image_source_page": "https://www.b85audio.cz/germanium-overdrive/"
   },
   {
     "builder": "B85 Audio",
@@ -3379,9 +3385,11 @@
   {
     "builder": "B85 Audio",
     "pedal": "Gut Ripper",
-    "image": null,
+    "image": "./assets/pedals/b85-audio/gut-ripper/primary.webp",
     "source_page": "https://www.b85audio.cz/gut-ripper/",
-    "research_record": "./research/pedals/B85 Audio/Gut Ripper.md"
+    "research_record": "./research/pedals/B85 Audio/Gut Ripper.md",
+    "image_source_url": "https://cdn.myshoptet.com/usr/www.b85audio.cz/user/shop360/big/121_gut-ripper.jpg?ff=1&x=1024&y=768&q=85&ts=675b0f28&sg=161563f2",
+    "image_source_page": "https://www.b85audio.cz/gut-ripper/"
   },
   {
     "builder": "B85 Audio",
@@ -3414,9 +3422,11 @@
   {
     "builder": "Bad Penny FX",
     "pedal": "Morse Fuzz",
-    "image": null,
+    "image": "./assets/pedals/bad-penny-fx/morse-fuzz/primary.webp",
     "source_page": "https://gearhero.com/products/bad-penny-fx-morse-fuzz",
-    "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz.md"
+    "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz.md",
+    "image_source_url": "http://gearhero.com/cdn/shop/products/a2fe443d-4533-4ef4-a745-05aec6f72da0.jpg?v=1603730795",
+    "image_source_page": "https://gearhero.com/products/bad-penny-fx-morse-fuzz"
   },
   {
     "builder": "Bad Penny FX",
@@ -3533,9 +3543,11 @@
   {
     "builder": "Baddy One Shoe Pedals",
     "pedal": "Honeycomb",
-    "image": null,
+    "image": "./assets/pedals/baddy-one-shoe-pedals/honeycomb/primary.webp",
     "source_page": "https://baddyoneshoe.blogspot.com/2010/09/do-you-know-what-sweetness-sounds-like.html",
-    "research_record": "./research/pedals/Baddy One Shoe Pedals/Honeycomb.md"
+    "research_record": "./research/pedals/Baddy One Shoe Pedals/Honeycomb.md",
+    "image_source_url": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_s5TFF6C4uzuI1eG-9FX5clFl5wlTztGUBn7uhpcn02utc1TsKSzdtly0zXL_nKSmYDqb2MjjwNkpGS978YkfAk35PhEJ9rPvfZcfKX3937zVhonZoH8edSkMPl_hGzrEg=w1200-h630-p-k-no-nu",
+    "image_source_page": "https://baddyoneshoe.blogspot.com/2010/09/do-you-know-what-sweetness-sounds-like.html"
   },
   {
     "builder": "Baddy One Shoe Pedals",
@@ -3589,9 +3601,11 @@
   {
     "builder": "Baja Tech Custom",
     "pedal": "Das Fuzz Ge",
-    "image": null,
+    "image": "./assets/pedals/baja-tech-custom/das-fuzz-ge/primary.webp",
     "source_page": "https://en.audiofanzine.com/fuzz-pedal/baja-tech-custom/Das-Fuzz-GE/",
-    "research_record": "./research/pedals/Baja Tech Custom/Das Fuzz Ge.md"
+    "research_record": "./research/pedals/Baja Tech Custom/Das Fuzz Ge.md",
+    "image_source_url": "https://img.audiofanzine.com/images/u/product/normal/baja-tech-custom-das-fuzz-ge-80630.jpg",
+    "image_source_page": "https://en.audiofanzine.com/fuzz-pedal/baja-tech-custom/Das-Fuzz-GE/"
   },
   {
     "builder": "Baja Tech Custom",
@@ -3972,9 +3986,11 @@
   {
     "builder": "Baroni Lab",
     "pedal": "Rat'N Box",
-    "image": null,
+    "image": "./assets/pedals/baroni-lab/rat-n-box/primary.webp",
     "source_page": "https://baroni-lab.com/shop/pedals/distortion/ratn-box/",
-    "research_record": "./research/pedals/Baroni Lab/Rat'N Box.md"
+    "research_record": "./research/pedals/Baroni Lab/Rat'N Box.md",
+    "image_source_url": "https://baroni-lab.com/wp-content/uploads/2017/03/02_Pedals_01_DISTORTION_E02_file_5_4.jpg",
+    "image_source_page": "https://baroni-lab.com/shop/pedals/distortion/ratn-box/"
   },
   {
     "builder": "Baroni Lab",
@@ -4477,10 +4493,12 @@
   {
     "builder": "BECOS FX",
     "pedal": "Ziffer Overdrive",
-    "image": null,
+    "image": "./assets/pedals/becos-fx/ziffer-overdrive/primary.webp",
     "source": "verified research source",
     "source_page": "https://becosfx.com/product/ziffer-jordan-ziff-signature-analog-mini-overdrive-tubescreamer/",
-    "research_record": "./research/pedals/BECOS FX/Ziffer Overdrive.md"
+    "research_record": "./research/pedals/BECOS FX/Ziffer Overdrive.md",
+    "image_source_url": "https://i.ytimg.com/vi/lAtiy4rh8JI/maxresdefault.jpg?meta=og:image",
+    "image_source_page": "https://becosfx.com/product/ziffer-jordan-ziff-signature-analog-mini-overdrive-tubescreamer/"
   },
   {
     "builder": "Beetronics FX",
