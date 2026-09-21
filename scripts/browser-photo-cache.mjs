@@ -1081,11 +1081,23 @@ async function recoverEntry(browser, entry, deepReview = false) {
         return 0;
       });
     // Keep fresh cases moving, but reserve a bounded slice for the hardest
-    // deep-review records so high-attempt cases cannot sit indefinitely behind
-    // newer failures.
+    // deep-review records based on actual retry count, not catalog position.
     const HARD_CASE_SLOTS = Math.min(15, LIMIT);
     const freshSlots = Math.max(0, LIMIT - HARD_CASE_SLOTS);
-    const hardCases = deepCandidates.slice(Math.max(0, deepCandidates.length - HARD_CASE_SLOTS));
+    const highAttemptCases = [...deepCandidates]
+      .sort((a, b) => {
+        const aReview = reviewByKey.get(key(a.company, a.pedal));
+        const bReview = reviewByKey.get(key(b.company, b.pedal));
+        const aAttempts = Number(aReview?.Attempts) || 0;
+        const bAttempts = Number(bReview?.Attempts) || 0;
+        if (aAttempts !== bAttempts) return bAttempts - aAttempts;
+        const aOrder = trackerMeta.get(key(a.company, a.pedal))?.order;
+        const bOrder = trackerMeta.get(key(b.company, b.pedal))?.order;
+        if (Number.isFinite(aOrder) && Number.isFinite(bOrder)) return aOrder - bOrder;
+        return 0;
+      })
+      .slice(0, HARD_CASE_SLOTS);
+    const hardCases = highAttemptCases;
     const freshCases = (normalCandidates.length ? normalCandidates : deepCandidates)
       .slice(0, freshSlots);
     const activePool = [...freshCases, ...hardCases]
