@@ -25,6 +25,15 @@ async function jsonFetch(url, options={}) {
 }
 function readJson(rel){ return JSON.parse(fs.readFileSync(path.join(ROOT, rel), 'utf8')); }
 function gitShow(rel, rev){ return cp.execFileSync('git', ['show', `${rev}:${rel}`], {encoding:'utf8'}); }
+function gitPathExists(rev, rel){
+  try { cp.execFileSync('git', ['cat-file', '-e', `${rev}:${rel}`], {stdio:'ignore'}); return true; }
+  catch { return false; }
+}
+function previousImageWasArchived(image){
+  if(!image) return false;
+  if(!isLocalImagePath(image)) return true;
+  return gitPathExists('HEAD^', image.replace(/^\.\//,''));
+}
 function key(x){ return `${x.company}\u0000${x.pedal}`; }
 function isLocalImagePath(value){
   return typeof value === 'string' && /^(?:\.\/)?assets\/pedals\//i.test(value);
@@ -114,7 +123,7 @@ function checkDataIntegrity() {
       const now=pedals.find(x=>key(x)===k);
       if (!now) continue;
       if (old.research_record && !now.research_record) researchRegressions.push(k);
-      if (old.image && !now.image) imageRegressions.push(k);
+      if (previousImageWasArchived(old.image) && !now.image) imageRegressions.push(k);
       const imageChanged=(old.image||null)!==(now.image||null);
       const researchChanged=(old.research_record||null)!==(now.research_record||null);
       const localMigration=imageChanged && isLocalImagePath(now.image) && !!now.image_source_url;

@@ -125,7 +125,6 @@ function renderDemo(item){
 }
 
 loadCatalog()
-.then(r=>{if(!r.ok)throw Error(r.status);return r.json()})
 .then(data=>{
   const allItems=data.pedals||[];
   renderPageNav(allItems);

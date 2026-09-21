@@ -9,6 +9,7 @@ only removed when there is no valid source left.
 
 import csv
 import json
+import re
 from pathlib import Path
 
 INDEX_PATH = Path("research/PEDAL_INDEX.json")
@@ -20,6 +21,16 @@ def record_exists(record):
         return False
     path = Path(record[2:] if record.startswith("./") else record)
     return path.exists() and path.is_file()
+
+
+def image_is_usable(image):
+    if not image:
+        return False
+    if re.match(r"^https?://", image, re.I):
+        return True
+    if re.match(r"^\.?/assets/pedals/", image, re.I):
+        return Path(re.sub(r"^\./", "", image)).is_file()
+    return False
 
 
 def main():
@@ -60,7 +71,7 @@ def main():
             research_record = ""
 
         info_done = bool(research_record)
-        picture_done = bool(pedal.get("image"))
+        picture_done = image_is_usable(pedal.get("image"))
         complete_done = info_done and picture_done
 
         expected = {

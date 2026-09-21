@@ -1050,7 +1050,6 @@ async function recoverEntry(browser, entry, deepReview = false) {
       // still unresolved. Cleanup of already-complete records is handled only
       // through an explicit targeted run, so the backlog cannot be starved.
       const tracker = trackerMeta.get(key(x.company, x.pedal));
-      if (!TARGET_BUILDER && !TARGET_PEDAL && tracker?.pictureDone) return false;
       const review = reviewByKey.get(key(x.company, x.pedal));
       // A normal backlog pass gets one clean attempt per unresolved record.
       // Failed records are parked for a deeper review pass instead of being

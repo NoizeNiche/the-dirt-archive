@@ -153,6 +153,36 @@ The original remote image URL is retained separately as `image_source_url`, with
 
 The internal `research/pedals/PEDAL_IMAGES.json` manifest mirrors the same local image path and provenance.
 
+## Operational ownership map - September 21, 2026
+
+The repository uses a single-owner rule for every moving part:
+
+| Concern | Single owner | Other files may |
+| --- | --- | --- |
+| Public catalog identities and relationships | `research/PEDAL_INDEX.json` | read it; do not maintain a second public catalog |
+| Pedal research content | `research/pedals/**/*.md` | link to it; do not duplicate the prose in the catalog |
+| Primary/variant photo assets | `assets/pedals/**` | reference them; do not create alternate asset stores |
+| Photo provenance | Catalog `image_source_url` / `image_source_page` | preserve it; do not overwrite it casually |
+| Photo/research mirror | `research/pedals/PEDAL_IMAGES.json` | synchronize from the canonical catalog |
+| PRP status fields | `research/PRP_TRACKER.csv` | synchronize derived status; do not invent independent status rules |
+| Research-to-catalog wiring | `scripts/sync_prp_catalog.py` | call it; do not duplicate its reconciliation logic |
+| Tracker status synchronization | `scripts/sync-prp-tracker.py` | call it; do not duplicate its completion rules |
+| Photo source recovery | `scripts/browser-photo-cache.mjs` | feed it; do not write alternate cache logic |
+| Photo conversion/cache | `scripts/cache-pedal-images.py` | provide verified sources; do not write directly to public image fields |
+| Structural validation | `scripts/validate-archive.py` | treat failures as blockers; do not bypass them |
+| Public browser behavior | `assets/js/archive-core.js` + page controllers | keep page-specific behavior out of HTML shells |
+| Deployment orchestration | `.github/workflows/deploy-pages.yml` | publish a validated tree; do not embed application logic |
+
+### Change-safety rules
+
+A change should have one obvious place to live. When two files start implementing the same rule, consolidate the rule before adding another feature.
+
+Public pages may read catalog data, but they must never become an alternate data store.
+
+Automation may repair or synchronize operational files, but each automation must have one explicit responsibility and one durable checkpoint.
+
+A generated or derived file is never allowed to silently become authoritative merely because it is easier to edit.
+
 ## Implementation guardrails - September 21, 2026
 
 The browser layer is split into small responsibilities:
