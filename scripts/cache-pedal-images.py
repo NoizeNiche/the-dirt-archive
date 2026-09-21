@@ -407,6 +407,13 @@ def main():
 
     catalog["photo_architecture"] = "local-first"
 
+    # Report the true unresolved tracker-photo backlog after this pass.
+    remaining_photo_backlog = sum(
+        1
+        for pending_key in tracker_photo_pending
+        if not is_local(catalog_by_key.get(pending_key, {}).get("image"))
+    )
+
     INDEX_PATH.write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     MANIFEST_PATH.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
@@ -417,6 +424,7 @@ def main():
         f"- Staged browser photos converted: **{staged_converted}**",
         f"- Local images retained/reorganized: **{retained[0]}**",
         f"- Download failures: **{len(failures)}**",
+        f"- Remaining tracker photo backlog: **{remaining_photo_backlog}**",
         "",
         "## Storage layout",
         "",
