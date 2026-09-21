@@ -143,6 +143,11 @@ const path = require('node:path');
             if (initialCardCount > 72) throw new Error('Catalog rendered more than the intended 72-card window.');
             if (await page.locator('.boardRail').count()) throw new Error('Obsolete pedalboard rail elements remain on the page.');
             if (await page.locator('#search').count() !== 1) throw new Error('Search control missing.');
+            if (await page.locator('#mainContent').count() !== 1) throw new Error('Catalog main content landmark missing.');
+            if (await page.locator('.skipLink[href="#mainContent"]').count() !== 1) throw new Error('Catalog skip link missing.');
+            if ((await page.locator('[data-type].active').getAttribute('aria-pressed')) !== 'true') {
+              throw new Error('Active catalog dirt filter is missing aria-pressed=true.');
+            }
             if (await page.locator('[data-type]').count() < 4) throw new Error('Dirt type controls missing.');
             if (await page.locator('[data-builder]').count() < 2) throw new Error('Builder controls missing.');
             const firstHref = await page.locator('#grid .card').first().getAttribute('href');
