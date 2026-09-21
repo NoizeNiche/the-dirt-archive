@@ -220,7 +220,7 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
           if (!raw) continue;
           try {
             const m = JSON.parse(raw);
-            if (m.murl) out.push({ murl: m.murl, purl: m.purl || '', title: m.t || '' });
+            if (m.murl) out.push({ murl: m.murl, purl: m.purl || '', title: m.t || '', searchUrl: location.href });
           } catch {}
         }
         return out;
@@ -351,6 +351,32 @@ async function recoverEntry(browser, entry, deepReview = false) {
 
     // Search is a fallback, not the primary source. Verify the result page identity
     // before accepting its image so a visually similar pedal cannot slip through.
+    async function screenshotVerifiedSearchImage(candidate) {
+      if (!candidate?.searchResult || !candidate.searchUrl || !candidate.murl) return null;
+      try {
+        await page.goto(candidate.searchUrl, { waitUntil: 'domcontentloaded', timeout: SEARCH_TIMEOUT });
+        await page.waitForTimeout(500);
+        const cards = page.locator('a.iusc');
+        const count = await cards.count();
+        for (let i = 0; i < Math.min(count, 12); i++) {
+          const card = cards.nth(i);
+          const raw = await card.getAttribute('m').catch(() => null);
+          if (!raw) continue;
+          let meta = null;
+          try { meta = JSON.parse(raw); } catch {}
+          if (!meta || meta.murl !== candidate.murl) continue;
+          await card.scrollIntoViewIfNeeded().catch(() => {});
+          await page.waitForTimeout(250);
+          const img = card.locator('img').first();
+          if (await img.count()) {
+            const bytes = await img.screenshot({ type: 'png' });
+            if (bytes.length >= 3000) return bytes;
+          }
+        }
+      } catch {}
+      return null;
+    }
+
     if (!selectedResult && IMAGE_SEARCH_ENABLED) {
       const searchResults = await imageSearchCandidates(page, entry, deepReview);
       const verifiedSearch = [];
@@ -410,9 +436,21 @@ async function recoverEntry(browser, entry, deepReview = false) {
           });
         } catch {}
       }
-      selectedResult = await tryImages(
-        verifiedSearch.sort((a, b) => b.sourceScore - a.sourceScore)
-      );
+      const rankedVerifiedSearch = verifiedSearch.sort((a, b) => b.sourceScore - a.sourceScore);
+      selectedResult = await tryImages(rankedVerifiedSearch);
+
+      // Last-resort exact visual capture: the source image URL may be blocked
+      // even though the search engine has an exact-model thumbnail. Capture the
+      // matching verified thumbnail instead of substituting another pedal.
+      if (!selectedResult) {
+        for (const candidate of rankedVerifiedSearch.slice(0, 3)) {
+          const bytes = await screenshotVerifiedSearchImage(candidate);
+          if (bytes) {
+            selectedResult = { candidate, bytes };
+            break;
+          }
+        }
+      }
     }
 
     if (!selectedResult) throw new Error('no usable exact-model image candidate found');
