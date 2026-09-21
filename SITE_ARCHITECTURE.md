@@ -48,6 +48,8 @@ Search -> Dirt Type -> Builder -> Pedal
 
 The catalog may later become more capable without becoming visually complicated.
 
+Filter, builder, and pagination changes are represented in the browser URL. User-driven filter/page changes use browser history; back/forward restores the corresponding catalog state. Invalid or stale query state is normalized back to a valid URL.
+
 Main-page cards represent public model/version entries only. Variation records stay hidden from the main card grid.
 
 Search should eventually be able to match useful variation names back to their parent model without displaying the variation as a second card.
@@ -150,6 +152,8 @@ Subordinate cosmetic variations belong to that parent directory:
 A variation record keeps its `parent_pedal`, `variation_name`, and related identity metadata in the catalog. A materially different public version remains a separate pedal identity and therefore gets its own image directory.
 
 The original remote image URL is retained separately as `image_source_url`, with `image_source_page` identifying the page used to verify the exact product. These fields are provenance, not public runtime dependencies.
+
+Bulk photo caching also processes pictured records that still use an external image URL, allowing the local archive to converge to local-first storage without first changing the tracker’s confirmed-picture state.
 
 The internal `research/pedals/PEDAL_IMAGES.json` manifest mirrors the same local image path and provenance.
 
