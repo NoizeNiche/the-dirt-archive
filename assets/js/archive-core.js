@@ -36,12 +36,26 @@ function detailUrl(entry, variation) {
   return url.href;
 }
 
-async function loadCatalog() {
-  const response = await fetch(ARCHIVE_DATA_INDEX, {cache: 'no-store'});
-  if (!response.ok) throw new Error('Catalog request failed: HTTP ' + response.status);
-  const data = await response.json();
-  if (!data || !Array.isArray(data.pedals)) {
-    throw new Error('Catalog payload is missing the pedals array.');
-  }
-  return data;
+let archiveCatalogPromise = null;
+
+function loadCatalog() {
+  if (archiveCatalogPromise) return archiveCatalogPromise;
+
+  archiveCatalogPromise = fetch(ARCHIVE_DATA_INDEX, {cache: 'no-store'})
+    .then(response => {
+      if (!response.ok) throw new Error('Catalog request failed: HTTP ' + response.status);
+      return response.json();
+    })
+    .then(data => {
+      if (!data || !Array.isArray(data.pedals)) {
+        throw new Error('Catalog payload is missing the pedals array.');
+      }
+      return data;
+    })
+    .catch(error => {
+      archiveCatalogPromise = null;
+      throw error;
+    });
+
+  return archiveCatalogPromise;
 }
