@@ -13,8 +13,8 @@ Add+ Pedals,Der Fuzzer,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-mod
 Add+ Pedals,Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Add+ Pedals,Great White,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Add+ Pedals,Great White 2,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
-Add+ Pedals,Ratortion 2,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Add+ Pedals,Super Drive 2,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Add+ Pedals,Ratortion 2,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Add+ Pedals,Super Drive 2,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Addrock Musical Products,Not So Ol' Yeller,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 ADV Systems,#distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 ADV Systems,#overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -32,10 +32,10 @@ Alber,FU-10,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image ca
 Alber,FU-1000,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Alber,FU-1000P,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Alber,GA-104 Gain,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
-Alber,GA-1040 Gain,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Alber,GA-1040P Gain,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Alber,OD-6 Over Drive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Alber,OD-600 Over Drive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Alber,GA-1040 Gain,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Alber,GA-1040P Gain,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Alber,OD-6 Over Drive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Alber,OD-600 Over Drive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Alber,OD-610 Over Drive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Alcove,ALP-200 Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Aleatorik,Operation 1,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -43,66 +43,64 @@ Alen Geere,Crown Centaur,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable ex
 Alen Geere,LEADer Mk.2,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Alen Geere,Loverdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Alen Geere,Methoxy Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
-Alen Geere,Preface Drive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Alen Geere,Serene,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Alen Geere,Tube Fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Alexander Pedals,Princess Clang,Distortion / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Alexander Pedals,Royal Cream,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Alen Geere,Preface Drive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Alen Geere,Serene,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Alen Geere,Tube Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Alexander Pedals,Princess Clang,Distortion / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Alexander Pedals,Royal Cream,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Alien Amplification,Origami Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Alien Rabbit,Magic Drive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 AmpMojo,Sol Drive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
-Amptweaker,Bass BluesFuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Amsterdam Cream,Big Eye Fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-AMT Electronics,B-1 BG-Sharp,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-AMT Electronics,BS British Sound,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-AMT Electronics,M-1 JM-800,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-AMT Electronics,R-1 Rectifier,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Amptweaker,Bass BluesFuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Amsterdam Cream,Big Eye Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+AMT Electronics,B-1 BG-Sharp,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+AMT Electronics,BS British Sound,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+AMT Electronics,M-1 JM-800,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+AMT Electronics,R-1 Rectifier,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 AMT Electronics,Rammstein RD Distortion Combo Emulator,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 AMT Electronics,S-1,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 AMT Electronics,SS-11B,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 AMT Electronics,SS-20,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Analog King,Fuzz Machine - Germanium Fuzz + Overdrive,Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Analog Noir,Tone Bender MK1.5 / Tone Bender MKII,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Analog Noir,Tone Bender MKI,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Analog Noir,Tone Bender MKI / Rangemaster Treble Booster,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Analog Noir,Zonk Machine,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Analog Sound,Atomic Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Analog Sound,Double Trouble Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Analog Sound,Scream For Cream OD,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Analog Sound,Smooth O' Drive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Analog King,Fuzz Machine - Germanium Fuzz + Overdrive,Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Analog Noir,Tone Bender MK1.5 / Tone Bender MKII,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Analog Noir,Tone Bender MKI,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Analog Noir,Tone Bender MKI / Rangemaster Treble Booster,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Analog Noir,Zonk Machine,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Analog Sound,Atomic Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Analog Sound,Double Trouble Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Analog Sound,Scream For Cream OD,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Analog Sound,Smooth O' Drive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Analog Sound,The Boogie Man,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Anarchy Audio Australia,Baa Bzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Anarchy Audio Australia,Deadwoods - Chainsaw Fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Anarchy Audio Australia,Sentinel,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Anasounds,bitoun fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Anasounds,cerberus,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Anasounds,ego driver,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Anasounds,feed me mk3,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Anarchy Audio Australia,Baa Bzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Anarchy Audio Australia,Deadwoods - Chainsaw Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Anarchy Audio Australia,Sentinel,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Anasounds,bitoun fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Anasounds,cerberus,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Anasounds,ego driver,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Anasounds,feed me mk3,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Anasounds,full story,Distortion / Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Anasounds,high voltage,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Anasounds,sandman,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Anasounds,savage,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Animal Factory Amplification,Chemical Burn,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Animal Factory Amplification,Chemical Burn,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Animal Factory Amplification,Godeater+,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Animals Pedal,ANGEL BEAR FACE FUZZ,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Animals Pedal,Diamond Peak Hybrid Over Drive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Animals Pedal,FISHING IS AS FUN AS FUZZ,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Animals Pedal,FISHING IS AS FUN AS FUZZ LIMITED EDITION,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Animals Pedal,ANGEL BEAR FACE FUZZ,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Animals Pedal,Diamond Peak Hybrid Over Drive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Animals Pedal,FISHING IS AS FUN AS FUZZ,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Animals Pedal,FISHING IS AS FUN AS FUZZ LIMITED EDITION,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Animals Pedal,I Was A Wolf In The Forest Distortion,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Animals Pedal,Major Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Anode Effects,MOS Fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Atmosfera 6,BELMEZ Occult Fuzz Device,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Atmosfera 6,BELMEZ WITCHES Occult Fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Atmosfera 6,SPACE OR DIE Variable Octave Generator,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Atmosfera 6,TERROR COSMICO,Distortion / Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Anode Effects,MOS Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Atmosfera 6,BELMEZ Occult Fuzz Device,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Atmosfera 6,BELMEZ WITCHES Occult Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Atmosfera 6,SPACE OR DIE Variable Octave Generator,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Atmosfera 6,TERROR COSMICO,Distortion / Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Atmosfera 6,Thulsa Doom Hyborean Fuzz,Distortion / Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Attic Audio,PUTTY Saturation Preamp,Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Audible Disease,FR-1 Fracture,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Audile,Bass TOAD - Tone Overdrive And Distortion for Bass,Distortion / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Audile,TOAD - Tone Overdrive And Distortion,Distortion / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Audio Aesthetic,Midnight Drive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Audio Kitchen,Fake Plastic Trees,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Audio Kitchen,The Big Trees,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Attic Audio,PUTTY Saturation Preamp,Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Audible Disease,FR-1 Fracture,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Audile,Bass TOAD - Tone Overdrive And Distortion for Bass,Distortion / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Audile,TOAD - Tone Overdrive And Distortion,Distortion / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
+Audio Kitchen,Fake Plastic Trees,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,no usable exact-model image candidate found
 Audio Kitchen,The Flying Squirrel,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Audio Matrix,Mini Boogee / Mini Matrix,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Audio Monk,Fuzzbeard,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.

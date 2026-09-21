@@ -2635,9 +2635,11 @@
   {
     "builder": "Audio Aesthetic",
     "pedal": "Midnight Drive",
-    "image": null,
+    "image": "./assets/pedals/audio-aesthetic/midnight-drive/primary.webp",
     "source_page": "https://www.audio-aesthetic.com/product-page/midnight-drive",
-    "research_record": "./research/pedals/Audio Aesthetic/Midnight Drive.md"
+    "research_record": "./research/pedals/Audio Aesthetic/Midnight Drive.md",
+    "image_source_url": "https://static.wixstatic.com/media/66d255_0bc6231ef3eb431ba070ffd70ef0a609~mv2.jpg/v1/fit/w_1579,h_2000,q_90/file.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "image_source_page": "https://www.audio-aesthetic.com/product-page/midnight-drive"
   },
   {
     "builder": "Audio Kitchen",
@@ -2649,9 +2651,11 @@
   {
     "builder": "Audio Kitchen",
     "pedal": "The Big Trees",
-    "image": null,
+    "image": "./assets/pedals/audio-kitchen/the-big-trees/primary.webp",
     "source_page": "https://www.audiokitchen.co.uk/products/the-big-trees/",
-    "research_record": "./research/pedals/Audio Kitchen/The Big Trees.md"
+    "research_record": "./research/pedals/Audio Kitchen/The Big Trees.md",
+    "image_source_url": "https://www.audiokitchen.co.uk/site/assets/files/1892/img_4503.jpg",
+    "image_source_page": "https://www.audiokitchen.co.uk/products/the-big-trees/"
   },
   {
     "builder": "Audio Kitchen",
