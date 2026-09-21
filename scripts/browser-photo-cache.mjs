@@ -22,6 +22,7 @@ const TARGET_PEDAL = String(process.env.PHOTO_BROWSER_TARGET_PEDAL || '').trim()
 const PER_BUILDER_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_PER_BUILDER_LIMIT || 5));
 const RECOVERY_DEADLINE_MS = Math.max(10000, Number(process.env.PHOTO_BROWSER_RECOVERY_DEADLINE_MS || 35000));
 const MAX_RECOVERY_ATTEMPTS = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS || 12));
+let manifestOwnersByImage = new Map();
 
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
@@ -80,20 +81,60 @@ function slug(value) {
   return normalized.slice(0, 79).replace(/-+$/g, '') + '-' + digest;
 }
 
+function exactIdentity(value) {
+  return String(value || '').trim().toLowerCase();
+}
+
+function collisionSlug(value) {
+  const raw = String(value || '').trim();
+  const plusAware = raw.replace(/\+/g, ' plus ');
+  const readable = slug(plusAware);
+  const base = slug(raw);
+  if (readable !== base) return readable;
+  return base + '-' + crypto.createHash('sha1').update(raw).digest('hex').slice(0, 8);
+}
+
+function relativeAssetPath(targetPath) {
+  return './' + path.relative(ROOT, targetPath).split(path.sep).join('/');
+}
+
+function sameManifestOwner(owner, entry) {
+  if (!owner) return false;
+  return exactIdentity(owner.builder) === exactIdentity(entry.company || entry.builder) &&
+    exactIdentity(owner.pedal) === exactIdentity(entry.pedal);
+}
+
+function safeAssetSlug(builder, name, buildPath, entry) {
+  const base = slug(name);
+  const basePath = buildPath(base);
+  const owner = manifestOwnersByImage.get(relativeAssetPath(basePath));
+  if (!fs.existsSync(basePath) || !owner || sameManifestOwner(owner, entry)) return base;
+
+  let candidate = collisionSlug(name);
+  let candidatePath = buildPath(candidate);
+  const candidateOwner = manifestOwnersByImage.get(relativeAssetPath(candidatePath));
+  if (fs.existsSync(candidatePath) && candidateOwner && !sameManifestOwner(candidateOwner, entry)) {
+    candidate = slug(name) + '-' + crypto.createHash('sha1').update(String(name || '')).digest('hex').slice(0, 8);
+  }
+  return candidate;
+}
+
 function target(entry) {
   const builder = entry.company || entry.builder;
   if (entry.catalog_role === 'variation' && entry.parent_pedal) {
     const variant = entry.variation_name || entry.pedal;
-    return path.join(
-      ROOT,
-      'assets/pedals',
-      slug(builder),
-      slug(entry.parent_pedal),
-      'variants',
-      slug(variant) + '.webp'
-    );
+    const parentDir = path.join(ROOT, 'assets/pedals', slug(builder), slug(entry.parent_pedal), 'variants');
+    const variantSlug = safeAssetSlug(builder, variant, candidate => path.join(parentDir, candidate + '.webp'), entry);
+    return path.join(parentDir, variantSlug + '.webp');
   }
-  return path.join(ROOT, 'assets/pedals', slug(builder), slug(entry.pedal), 'primary.webp');
+  const builderSlug = slug(builder);
+  const pedalSlug = safeAssetSlug(
+    builder,
+    entry.pedal,
+    candidate => path.join(ROOT, 'assets/pedals', builderSlug, candidate, 'primary.webp'),
+    entry
+  );
+  return path.join(ROOT, 'assets/pedals', builderSlug, pedalSlug, 'primary.webp');
 }
 
 function normalizedIdentity(value) {
@@ -1006,6 +1047,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
 (async () => {
   const catalog = JSON.parse(fs.readFileSync(INDEX, 'utf8'));
   const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf8'));
+  manifestOwnersByImage = new Map(
+    manifest
+      .filter(row => row && row.image)
+      .map(row => [String(row.image), { builder: row.builder || row.company || '', pedal: row.pedal || '' }])
+  );
   const trackerRows = fs.existsSync(TRACKER)
     ? csvRows(fs.readFileSync(TRACKER, 'utf8'))
     : [];

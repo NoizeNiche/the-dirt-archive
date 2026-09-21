@@ -25,6 +25,7 @@ ASSET_ROOT = ROOT / "assets/pedals"
 MAX_BYTES = 25 * 1024 * 1024
 TARGET_BUILDER = os.environ.get("PHOTO_CACHE_TARGET_BUILDER", "").strip()
 TARGET_PEDAL = os.environ.get("PHOTO_CACHE_TARGET_PEDAL", "").strip()
+MANIFEST_OWNERS = {}
 
 
 def key(builder, pedal):
@@ -40,6 +41,41 @@ def slug(value):
     return normalized[:79].rstrip("-") + "-" + digest
 
 
+def exact_identity(value):
+    return str(value or "").strip().lower()
+
+
+def collision_slug(value):
+    raw = str(value or "").strip()
+    readable = slug(raw.replace("+", " plus "))
+    base = slug(raw)
+    if readable != base:
+        return readable
+    return base + "-" + hashlib.sha1(raw.encode("utf-8")).hexdigest()[:8]
+
+
+def same_manifest_owner(owner, entry):
+    if not owner:
+        return False
+    builder = entry.get("company") or entry.get("builder") or ""
+    return exact_identity(owner.get("builder")) == exact_identity(builder) and         exact_identity(owner.get("pedal")) == exact_identity(entry.get("pedal"))
+
+
+def safe_asset_slug(builder, name, build_path, entry):
+    base = slug(name)
+    base_path = build_path(base)
+    owner = MANIFEST_OWNERS.get(rel_path(base_path))
+    if not base_path.exists() or not owner or same_manifest_owner(owner, entry):
+        return base
+
+    candidate = collision_slug(name)
+    candidate_path = build_path(candidate)
+    candidate_owner = MANIFEST_OWNERS.get(rel_path(candidate_path))
+    if candidate_path.exists() and candidate_owner and not same_manifest_owner(candidate_owner, entry):
+        candidate = base + "-" + hashlib.sha1(str(name or "").encode("utf-8")).hexdigest()[:8]
+    return candidate
+
+
 def pedal_dir(builder, pedal):
     return ASSET_ROOT / slug(builder) / slug(pedal)
 
@@ -49,8 +85,18 @@ def target_path(entry):
     pedal = entry.get("pedal")
     parent = entry.get("parent_pedal")
     if entry.get("catalog_role") == "variation" and parent:
-        return pedal_dir(builder, parent) / "variants" / f"{slug(entry.get('variation_name') or pedal)}.webp"
-    return pedal_dir(builder, pedal) / "primary.webp"
+        parent_dir = pedal_dir(builder, parent) / "variants"
+        variant = entry.get("variation_name") or pedal
+        variant_slug = safe_asset_slug(builder, variant, lambda candidate: parent_dir / f"{candidate}.webp", entry)
+        return parent_dir / f"{variant_slug}.webp"
+    builder_slug = slug(builder)
+    pedal_slug = safe_asset_slug(
+        builder,
+        pedal,
+        lambda candidate: ASSET_ROOT / builder_slug / candidate / "primary.webp",
+        entry,
+    )
+    return ASSET_ROOT / builder_slug / pedal_slug / "primary.webp"
 
 
 def rel_path(path):
@@ -263,6 +309,16 @@ def main():
 
     catalog = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
     manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+
+    global MANIFEST_OWNERS
+    MANIFEST_OWNERS = {
+        str(row.get("image")): {
+            "builder": row.get("builder") or row.get("company") or "",
+            "pedal": row.get("pedal") or "",
+        }
+        for row in manifest
+        if row.get("image")
+    }
 
     tracker_rows = []
     if TRACKER_PATH.exists():
