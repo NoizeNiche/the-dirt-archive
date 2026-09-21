@@ -345,13 +345,18 @@ def main():
         if not entries:
             raise RuntimeError("Photo cache target not found in PEDAL_INDEX.json")
     else:
-        # Bulk caching is strictly limited to tracker records whose photo is
-        # still unresolved. Already-complete catalog records must not consume
-        # download/reorganization time during the backlog catch-up.
+        # Bulk caching handles the normal photo backlog plus any catalog entries
+        # that still point at an external image. The browser recovery lane can
+        # verify a localizable copy of an externally hosted photo, so those
+        # records must reach this conversion step even though their tracker
+        # Picture field is already DONE.
         entries = [
             entry for entry in entries
-            if (str(entry.get("company") or entry.get("builder") or "").strip(), str(entry.get("pedal") or "").strip())
-            in tracker_photo_pending
+            if (
+                (str(entry.get("company") or entry.get("builder") or "").strip(),
+                 str(entry.get("pedal") or "").strip()) in tracker_photo_pending
+                or re.match(r"^https?://", str(entry.get("image") or ""), re.I)
+            )
         ]
     preparations = [cache_entry_prepare(entry) for entry in entries]
     downloads = []
