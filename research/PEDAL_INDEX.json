@@ -1,5 +1,5 @@
 {
-  "version": "data-5d07d8b94279",
+  "version": "data-dcd19243426c",
   "count": 3819,
   "pedals": [
     {
@@ -13498,10 +13498,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caroline-guitar-company/wave-cannon-mkii/primary.webp",
       "source_page": "https://carolineguitar.com/product/wave-cannon-mkii/",
       "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-wave-cannon-mkii.md",
-      "image_source_page": "https://carolineguitar.com/product/wave-cannon-mkii/"
+      "image_source_page": "https://www.millrivermusic.com/effects-and-pedals/distortion/caroline-guitar-company-wave-cannon-mkii-superdistorter-effects-pedal-15058",
+      "image_source_url": "https://www.millrivermusic.com/isotope/y/ykd0dhpis3pldw9nx6wm.jpg"
     },
     {
       "company": "Caroline Guitar Company",
@@ -14342,10 +14343,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/catalinbread-effects/perseus-dio-dry-distortion-section-only-octave-down-function-excluded-from-cens-2971df86d3/primary.webp",
       "source_page": "https://catalinbread.com/products/perseus-dio",
       "research_record": "./research/pedals/PRP Batch 158/catalinbread-perseus-dio-dry-distortion-section.md",
-      "image_source_page": "https://catalinbread.com/products/perseus-dio"
+      "image_source_page": "https://delicious-audio.com/catalinbread-perseus-dio-octave-down-fuzz/",
+      "image_source_url": "https://delicious-audio.com/wp-content/uploads/2024/06/catalinbread2.jpg.webp"
     },
     {
       "company": "Catalinbread Effects",
