@@ -1,3 +1,17 @@
+## Photo Recovery Checkpoint — September 21, 2026
+
+The photo catch-up pass is the active priority before PRP1 resumes.
+
+**Current verified tracker state:** **3,819 total / 1,269 researched / 769 pictured / 769 fully pictured-complete / 3,050 photo+research backlog records / 500 researched-photo-pending**.
+
+The latest completed browser recovery batch recovered **10 additional exact-match pedal photos**. The recovery system now prioritizes unresolved researched records, rotates deep-review cases by attempt count, checks Reverb Sold Listings first, uses bounded active-Reverb fallback, recognizes exact model phrases in marketplace titles, follows only high-signal verified external source links, and applies hard per-record timeouts.
+
+**PRP1 photo gate:** remains closed until the researched-photo-pending count reaches **0**. PRP1 research steps are intentionally skipped while that gate is non-zero.
+
+**Live deployment verification:** the latest published batch passed the full live photo audit.
+
+**Maintenance note:** the scheduled photo-cache trigger temporarily stopped appearing, so this checkpoint update intentionally triggers the next recovery pass without changing the research census.
+
 ## PRP1 Batch 158 checkpoint — September 20, 2026
 
 Batch 158 advanced **10 consecutive exact-order research records**: **Catalinbread Effects - Maxon 40th Anniversary Catalinbread Modified Overdrive (OD808-40C); Merkin Fuzz; Misnomer; Misnomer (Cabinet Series); Naga Viper; Perseus DIO; Perseus DIO (dry distortion section only; octave-down function excluded from census categorying); RAH; Sabbra Cadabra; and SFT**.
