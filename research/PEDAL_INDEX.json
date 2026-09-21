@@ -2208,7 +2208,9 @@
       ],
       "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_tightrockdistortionff_la_2.jpg",
       "source_page": "https://www.soundhouse.co.jp/products/detail/item/241268/",
-      "research_record": "./research/pedals/Amptweaker/Tight_Rock.md"
+      "research_record": "./research/pedals/Amptweaker/Tight_Rock.md",
+      "image_source_url": "https://ninevolt.jp/cdn/shop/products/Tight-Rock-03.jpg?v=1607328123&width=1445",
+      "image_source_page": "https://ninevolt.jp/products/amptweaker-tight-rock"
     },
     {
       "company": "Amptweaker",
@@ -5098,7 +5100,9 @@
       ],
       "image": "https://rvb-img.reverb.com/i/s--Mrq96I7L--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hsqpezn6sighafbuiltx.jpg",
       "source_page": "https://reverb.com/item/81932037-barber-electronics-deep-fryer-bass-overdrive-free-shipping",
-      "research_record": "./research/pedals/Barber Electronics/Deep_Fryer.md"
+      "research_record": "./research/pedals/Barber Electronics/Deep_Fryer.md",
+      "image_source_url": "http://resource.noisefx.com/a1/barber_deepfryer.jpg",
+      "image_source_page": "https://www.noisefx.com/product_info/barber_electronics_deep_fryer"
     },
     {
       "company": "Barber Electronics",
@@ -11091,11 +11095,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/buffalo-fx/carrera-overdrive/primary.webp",
       "source_page": "https://reverb.com/p/buffalo-fx-carrera-overdrive",
       "research_record": "./research/pedals/PRP Batch 127/buffalo-fx-carrera-overdrive.md",
-      "image_source_page": "https://reverb.com/p/buffalo-fx-carrera-overdrive",
-      "image_source_url": "https://reverb.com/p/buffalo-fx-carrera-overdrive"
+      "image_source_page": "https://topshelfinstruments.com.au/products/buffalo-fx-carrera-overdrive-pedal",
+      "image_source_url": "https://topshelfinstruments.com.au/cdn/shop/products/IMG_6189_2a281086-0a63-462a-993c-98710531e2f0_1100x.jpg?v=1573793608"
     },
     {
       "company": "Buffalo FX",
@@ -11212,11 +11216,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/buffalo-fx/supa-driver/primary.webp",
       "source_page": "https://reverb.com/item/35751570-buffalo-fx-supa-driver",
       "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-supa-driver.md",
-      "image_source_page": "https://reverb.com/item/35751570-buffalo-fx-supa-driver",
-      "image_source_url": "https://reverb.com/item/35751570-buffalo-fx-supa-driver"
+      "image_source_page": "https://tonelounge.co.nz/buffalo-fx-supa-driver/",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-8avez/images/stencil/2048x2048/products/1977/11354/IMG_5724__54505.1763498523.jpg?c=2"
     },
     {
       "company": "Buffalo FX",
