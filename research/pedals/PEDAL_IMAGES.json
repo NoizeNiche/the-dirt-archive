@@ -5078,10 +5078,12 @@
   {
     "builder": "Big Knob Pedals",
     "pedal": "Fuzz Barn",
-    "image": null,
+    "image": "./assets/pedals/big-knob-pedals/fuzz-barn/primary.webp",
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 083/Fuzz Barn.md"
+    "research_record": "./research/pedals/PRP Batch 083/Fuzz Barn.md",
+    "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/BARN-2.jpg",
+    "image_source_page": "https://bigknobpedals.com/product/fuzz-barn/"
   },
   {
     "builder": "Big Knob Pedals",
@@ -6731,9 +6733,11 @@
   {
     "builder": "Blackstone Appliances",
     "pedal": "Mosfet Overdrive",
-    "image": null,
+    "image": "./assets/pedals/blackstone-appliances/mosfet-overdrive/primary.webp",
     "source_page": "https://blackstoneappliances.com/",
-    "research_record": "./research/pedals/PRP Batch 104/Mosfet Overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 104/Mosfet Overdrive.md",
+    "image_source_url": "https://blackstoneappliances.com/Blackstone-Mosfet-Overdrive.jpg",
+    "image_source_page": "https://blackstoneappliances.com/"
   },
   {
     "builder": "Blakemore Effects",
@@ -6840,16 +6844,20 @@
   {
     "builder": "BMF Effects",
     "pedal": "Marc F'N Ford Overdrive/Boost",
-    "image": null,
+    "image": "./assets/pedals/bmf-effects/marc-f-n-ford-overdrive-boost/primary.webp",
     "source_page": "https://www.bmfeffects.com/products/marc-fn-ford-overdrive-boost",
-    "research_record": "./research/pedals/PRP Batch 105/Marc F'N Ford Overdrive Boost.md"
+    "research_record": "./research/pedals/PRP Batch 105/Marc F'N Ford Overdrive Boost.md",
+    "image_source_url": "http://www.bmfeffects.com/cdn/shop/files/MarcF_NFordOverdrive_Boost_HeadOn.jpg?v=1687199152",
+    "image_source_page": "https://www.bmfeffects.com/products/marc-fn-ford-overdrive-boost"
   },
   {
     "builder": "BMF Effects",
     "pedal": "Purple Nurple Overdrive",
-    "image": null,
+    "image": "./assets/pedals/bmf-effects/purple-nurple-overdrive/primary.webp",
     "source_page": "https://www.bmfeffects.com/products/purple-nurple-overdrive",
-    "research_record": "./research/pedals/PRP Batch 105/Purple Nurple Overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 105/Purple Nurple Overdrive.md",
+    "image_source_url": "http://www.bmfeffects.com/cdn/shop/files/PurpleNurpleOverdrive_HeadOn.jpg?v=1687199200",
+    "image_source_page": "https://www.bmfeffects.com/products/purple-nurple-overdrive"
   },
   {
     "builder": "BMF Effects",
@@ -6861,9 +6869,11 @@
   {
     "builder": "BMF Effects",
     "pedal": "Sisyphuzz Silicon Fuzz",
-    "image": null,
+    "image": "./assets/pedals/bmf-effects/sisyphuzz-silicon-fuzz/primary.webp",
     "source_page": "https://www.bmfeffects.com/products/sisyphuzz-silicon-fuzz",
-    "research_record": "./research/pedals/PRP Batch 106/Sisyphuzz Silicon Fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 106/Sisyphuzz Silicon Fuzz.md",
+    "image_source_url": "http://www.bmfeffects.com/cdn/shop/files/SisyphuzzSiliconFuzz_HeadOn.jpg?v=1687199249",
+    "image_source_page": "https://www.bmfeffects.com/products/sisyphuzz-silicon-fuzz"
   },
   {
     "builder": "BMF Effects",
@@ -6929,9 +6939,11 @@
   {
     "builder": "Bogner Amplification",
     "pedal": "Ecstasy Blue",
-    "image": null,
+    "image": "./assets/pedals/bogner-amplification/ecstasy-blue/primary.webp",
     "source_page": "https://www.musicradar.com/reviews/guitars/bogner-ecstasy-blue-pedal-572592",
-    "research_record": "./research/pedals/PRP Batch 106/Bogner Ecstasy Blue.md"
+    "research_record": "./research/pedals/PRP Batch 106/Bogner Ecstasy Blue.md",
+    "image_source_url": "https://assets-jpcust.jwpsrv.com/thumbnails/qI1zSsPr-640.jpg",
+    "image_source_page": "https://www.musicradar.com/reviews/guitars/bogner-ecstasy-blue-pedal-572592"
   },
   {
     "builder": "Bogner Amplification",
