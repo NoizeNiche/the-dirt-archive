@@ -177,6 +177,11 @@ const path = require('node:path');
             if (variationCanary && await page.locator('#grid .card').filter({hasText:variationCanary.parent_pedal}).count() === 0) {
               throw new Error('Variation/colorway search did not resolve to its parent pedal.');
             }
+            const searchedAllBuilderCount = (await page.locator('.allBuilder .builderCount').textContent() || '').trim();
+            const searchedVisibleCount = await page.locator('#grid .card').count();
+            if (searchedVisibleCount && Number(searchedAllBuilderCount.replace(/,/g,'')) < searchedVisibleCount) {
+              throw new Error('All builders count is inconsistent with the searched result set.');
+            }
 
             // Type filter must constrain all visible cards.
             await page.goto('http://127.0.0.1:4173/index.html', {waitUntil:'networkidle'});
