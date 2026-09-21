@@ -1,3 +1,11 @@
+## Deployment trigger checkpoint - September 21, 2026
+
+Deployment now watches the operational scripts that can change the validation/audit behavior: `scripts/deploy-browser-audit.js`, `scripts/serve-static.js`, `scripts/live-photo-audit.js`, and `scripts/validate-archive.py`. The archive validator also checks that these trigger paths remain present in the deployment workflow.
+
+Latest deployment-trigger checkpoint: **fd88a46f98040e0f8803562896a427df7881d1d5**.
+
+The photo-recovery gate remains unchanged at the latest verified **378 researched-photo-pending** records. PRP1 remains gated until that reaches **0**.
+
 ## Site UI maintenance checkpoint - September 21, 2026
 
 Pedal detail pages now show the actual builder name in the builder line instead of the generic “The Dirt Archive pedal record” label. The header audit now verifies that the rendered builder matches the catalog record used to open the page.
