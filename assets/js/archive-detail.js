@@ -140,26 +140,43 @@ function researchRecordUrl(path){
   return new URL(encoded,base).href;
 }
 
-async function loadResearchMarkdown(path){
+function loadResearchMarkdown(path){
   const researchUrl=researchRecordUrl(path);
-  let lastError=null;
-  for(let attempt=0;attempt<3;attempt++){
-    const controller=new AbortController();
-    const timer=setTimeout(()=>controller.abort(),5000);
-    try{
-      const response=await fetch(researchUrl,{cache:'no-store',signal:controller.signal});
-      if(!response.ok) throw new Error('Research record request failed: HTTP '+response.status);
-      const markdown=await response.text();
-      if(!markdown.trim()) throw new Error('Research record is empty.');
-      return markdown;
-    }catch(error){
-      lastError=error;
-      if(attempt<2) await new Promise(resolve=>setTimeout(resolve,150));
-    }finally{
-      clearTimeout(timer);
-    }
-  }
-  throw lastError||new Error('Research record could not be loaded.');
+  return new Promise((resolve,reject)=>{
+    let attempt=0;
+    let lastError=null;
+    const run=()=>{
+      attempt++;
+      const request=new XMLHttpRequest();
+      request.open('GET',researchUrl,true);
+      request.timeout=5000;
+      request.responseType='text';
+      request.onload=()=>{
+        if(request.status<200 || request.status>=300){
+          lastError=new Error('Research record request failed: HTTP '+request.status);
+        }else if(!request.responseText.trim()){
+          lastError=new Error('Research record is empty.');
+        }else{
+          resolve(request.responseText);
+          return;
+        }
+        if(attempt<3){setTimeout(run,150);return}
+        reject(lastError);
+      };
+      request.onerror=()=>{
+        lastError=new Error('Research record request failed.');
+        if(attempt<3){setTimeout(run,150);return}
+        reject(lastError);
+      };
+      request.ontimeout=()=>{
+        lastError=new Error('Research record request timed out.');
+        if(attempt<3){setTimeout(run,150);return}
+        reject(lastError);
+      };
+      request.send();
+    };
+    run();
+  });
 }
 
 loadCatalog()
