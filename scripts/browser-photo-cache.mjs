@@ -297,7 +297,10 @@ async function recoverEntry(browser, entry) {
     .filter(x => {
       if (TARGET_BUILDER && String(x.company || '').trim() !== TARGET_BUILDER) return false;
       if (TARGET_PEDAL && String(x.pedal || '').trim() !== TARGET_PEDAL) return false;
-      return x.research_record && !x.image && (x.image_source_page || x.source_page || x.image_source_url);
+      if (!x.research_record || !(x.image_source_page || x.source_page || x.image_source_url || x.image)) return false;
+      if (!TARGET_BUILDER && !TARGET_PEDAL) return !x.image;
+      const canonical = target(x);
+      return !fs.existsSync(canonical);
     })
     .sort((a, b) => {
       const score = entry => {
