@@ -286,6 +286,18 @@ async function fetchSearchPageIdentity(page, url) {
   }
 }
 
+function makerPageMatchesIdentity(entry, url, title, h1) {
+  if (!hostMatchesBuilder(url, entry.company)) return false;
+  const haystack = normalizedIdentity(String(title || '') + ' ' + String(h1 || ''));
+  for (const phrase of identityPhrases(entry.pedal)) {
+    if (haystack.includes(phrase)) return true;
+  }
+  const tokens = identityTokens(entry.pedal);
+  return tokens.length
+    ? tokens.every(token => haystack.includes(token))
+    : haystack.includes(normalizedIdentity(entry.pedal));
+}
+
 function hostMatchesBuilder(url, company) {
   try {
     const host = new URL(url).hostname.toLowerCase();
@@ -355,7 +367,7 @@ async function makerWebCandidates(page, entry) {
     try {
       const identity = await fetchSearchPageIdentity(page, result.purl);
       if (!identity) continue;
-      if (!pageMatchesIdentity(entry, identity.title + ' ' + identity.body, identity.h1)) continue;
+      if (!makerPageMatchesIdentity(entry, result.purl, identity.title, identity.h1)) continue;
 
       const imageData = await page.goto(result.purl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT })
         .then(async () => {
