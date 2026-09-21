@@ -127,15 +127,20 @@ function pageMatchesSearchIdentity(entry, title, h1) {
   const haystack = normalizedIdentity(String(title || '') + ' ' + String(h1 || ''));
   const pedalTokens = identityTokens(entry.pedal);
   const builderTokens = identityTokens(entry.company);
+  const pedalPhrases = identityPhrases(entry.pedal);
+  const phraseMatch = pedalPhrases.some(phrase => haystack.includes(phrase));
   const pedalPhrase = normalizedIdentity(entry.pedal);
   const exactPhrase = pedalPhrase && pedalPhrase.split(/\s+/).length >= 2 && haystack.includes(pedalPhrase);
   const pedalHits = pedalTokens.filter(token => haystack.includes(token)).length;
   const builderHits = builderTokens.filter(token => haystack.includes(token)).length;
   const requiredPedalHits = pedalTokens.length >= 2 ? Math.min(2, pedalTokens.length) : Math.max(1, pedalTokens.length);
 
-  // Search-result identity must be proven by the title/H1 itself. Do not use
-  // arbitrary body text, which can contain unrelated SEO copy or recommendations.
+  // Search-result identity must be proven by the title/H1 itself. For names
+  // written as "Model - descriptor", the model phrase before the dash is often
+  // the exact product name shown by marketplaces, so recognize that phrase while
+  // still requiring builder context. Do not use arbitrary body text here.
   return Boolean(
+    (phraseMatch && builderHits >= 1) ||
     (exactPhrase && builderHits >= 1) ||
     (pedalHits >= requiredPedalHits && builderHits >= 1)
   );
