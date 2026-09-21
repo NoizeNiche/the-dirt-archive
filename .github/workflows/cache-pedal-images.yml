@@ -4,6 +4,13 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
+  # Start recovery immediately for human/system maintenance commits. Cache-bot
+  # commits are filtered at the job level below.
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'research/PRP1_INTAKE/**'
 permissions:
   contents: write
 
@@ -13,6 +20,8 @@ concurrency:
 
 jobs:
   cache:
+    # Prevent the cache bot from recursively triggering itself from its own commit.
+    if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
