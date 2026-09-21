@@ -1,0 +1,130 @@
+name: PRP1 Atomic Intake
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'research/PRP1_INTAKE/*.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dirt-prp1-atomic
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install tooling
+        run: |
+          python -m pip install --disable-pip-version-check pillow
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+
+      - name: Prepare next PRP1 intake
+        run: python scripts/prp1-atomic-intake.py
+
+      - name: Synchronize researched record wiring
+        run: python scripts/sync_prp_catalog.py
+
+      - name: Recover exact pedal photo
+        run: |
+          NEEDS_PHOTO=$(python - <<'PY'
+          import json
+          d=json.load(open('.prp1-target.json', encoding='utf-8'))
+          print('yes' if d.get('needs_photo') else 'no')
+          PY
+          )
+          if [ "$NEEDS_PHOTO" = "yes" ]; then
+            BUILDER=$(python - <<'PY'
+          import json
+          d=json.load(open('.prp1-target.json', encoding='utf-8'))
+          print(d['builder'])
+          PY
+            )
+            PEDAL=$(python - <<'PY'
+          import json
+          d=json.load(open('.prp1-target.json', encoding='utf-8'))
+          print(d['pedal'])
+          PY
+            )
+            PHOTO_BROWSER_TARGET_BUILDER="$BUILDER" PHOTO_BROWSER_TARGET_PEDAL="$PEDAL" node scripts/browser-photo-cache.mjs
+          else
+            echo "Exact local photo already exists for the PRP1 target."
+          fi
+
+      - name: Convert and synchronize the exact photo
+        run: |
+          BUILDER=$(python - <<'PY'
+          import json
+          d=json.load(open('.prp1-target.json', encoding='utf-8'))
+          print(d['builder'])
+          PY
+          )
+          PEDAL=$(python - <<'PY'
+          import json
+          d=json.load(open('.prp1-target.json', encoding='utf-8'))
+          print(d['pedal'])
+          PY
+          )
+          PHOTO_CACHE_TARGET_BUILDER="$BUILDER" PHOTO_CACHE_TARGET_PEDAL="$PEDAL" python scripts/cache-pedal-images.py
+
+      - name: Reconcile tracker and finalize atomic record
+        run: python scripts/prp1-finalize-intake.py
+
+      - name: Verify published PRP1 target
+        run: |
+          python - <<'PY'
+          import csv, json
+          from pathlib import Path
+
+          catalog = json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8"))
+          manifest = json.loads(Path("research/pedals/PEDAL_IMAGES.json").read_text(encoding="utf-8"))
+          tracker = list(csv.DictReader(Path("research/PRP_TRACKER.csv").open(newline="", encoding="utf-8")))
+          index = {(x.get("company"), x.get("pedal")): x for x in catalog.get("pedals", [])}
+          images = {(x.get("builder"), x.get("pedal")): x for x in manifest}
+
+          assert len(index) == len(catalog.get("pedals", [])), "Duplicate catalog identity"
+          assert len(images) == len(manifest), "Duplicate image-manifest identity"
+          assert len(tracker) == len(index), "Tracker/catalog row count mismatch"
+
+          researched = pictured = complete = 0
+          for row in tracker:
+              key = (row.get("Builder"), row.get("Pedal"))
+              item = index[key]
+              image = images[key]
+              info_done = bool(item.get("research_record"))
+              picture_done = bool(item.get("image"))
+              complete_done = info_done and picture_done
+              assert (row.get("Pedal Info") == "DONE") == info_done, f"Pedal Info mismatch: {key}"
+              assert (row.get("Picture") == "DONE") == picture_done, f"Picture mismatch: {key}"
+              assert (row.get("PRP Complete") == "DONE") == complete_done, f"Completion mismatch: {key}"
+              assert (image.get("image") or None) == (item.get("image") or None), f"Image mismatch: {key}"
+              researched += info_done
+              pictured += picture_done
+              complete += complete_done
+
+          print(f"PRP1 atomic verification: {len(index)} total / {researched} researched / {pictured} pictured / {complete} complete.")
+          PY
+
+      - name: Commit and push one complete PRP1 unit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md index.html pedal-detail.html
+          if git diff --cached --quiet; then
+            echo "No PRP1 atomic changes to publish."
+            exit 0
+          fi
+          git commit -m "PRP1: publish researched pedal with exact photo"
+          git push
