@@ -229,7 +229,9 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
   const queries = deepReview
     ? [
         entry.company + ' ' + entry.pedal,
-        '"' + entry.company + '" "' + entry.pedal + '"'
+        '"' + entry.company + '" "' + entry.pedal + '"',
+        '"' + entry.pedal + '"',
+        entry.pedal
       ]
     : [
         entry.company + ' ' + entry.pedal,
@@ -413,6 +415,8 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
         '"' + entry.company + '" "' + entry.pedal + '" guitar pedal',
         '"' + entry.pedal + '" "' + entry.company + '" pedal',
         '"' + entry.pedal + '" "' + entry.company + '" reverb',
+        '"' + entry.pedal + '" guitar pedal',
+        entry.pedal + " pedal",
         entry.company + " " + entry.pedal + " pedal"
       ]
     : [entry.company + " " + entry.pedal + " guitar pedal"];
