@@ -13,7 +13,7 @@
 
 ## Newly cached
 
-- B.K. Butler - Tube Driver -> `./assets/pedals/b-k-butler/tube-driver/primary.webp`
-- Caline - CP-79 Wolf Pack / King Of Ga-Ga - Boost/Overdrive -> `./assets/pedals/caline/cp-79-wolf-pack-king-of-ga-ga-boost-overdrive/primary.webp`
+- Big John Effects - Hairy Balls -> `./assets/pedals/big-john-effects/hairy-balls/primary.webp`
+- Big Tone Music Brewery - Royal Beaver -> `./assets/pedals/big-tone-music-brewery/royal-beaver/primary.webp`
 
 All pictured pedal images are locally cached.

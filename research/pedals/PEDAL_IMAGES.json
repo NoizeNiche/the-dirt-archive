@@ -5065,10 +5065,12 @@
   {
     "builder": "Big John Effects",
     "pedal": "Hairy Balls",
-    "image": null,
+    "image": "./assets/pedals/big-john-effects/hairy-balls/primary.webp",
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 083/Hairy Balls.md"
+    "research_record": "./research/pedals/PRP Batch 083/Hairy Balls.md",
+    "image_source_url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0102/user/e00db25f876fdd939fb0fc6f42e66998c84d5253b975550f7432e57e4bd277a7/i-img1200x802-17390075144219rlw4k510730.jpg",
+    "image_source_page": "https://auctions.yahoo.co.jp/jp/auction/x1172639881"
   },
   {
     "builder": "Big John Effects",
@@ -5475,10 +5477,12 @@
   {
     "builder": "Big Tone Music Brewery",
     "pedal": "Royal Beaver",
-    "image": null,
+    "image": "./assets/pedals/big-tone-music-brewery/royal-beaver/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/bigtone/royalbeaver",
-    "research_record": "./research/pedals/PRP Batch 086/Royal Beaver.md"
+    "research_record": "./research/pedals/PRP Batch 086/Royal Beaver.md",
+    "image_source_url": "https://images-na.ssl-images-amazon.com/images/I/415zBx5v64L._UL1200_.jpg",
+    "image_source_page": "https://japanbong.co.kr/mall/view/goodsNo/72407"
   },
   {
     "builder": "Big Tone Music Brewery",
