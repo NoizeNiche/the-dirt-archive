@@ -1968,7 +1968,8 @@
       "image": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_bluesfuzzjrmm.jpg",
       "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255397/",
       "research_record": "./research/pedals/Amptweaker/Bass_BluesFuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/amptweaker/bluesfuzz/bass/jr"
+      "image_source_page": "https://www.bassgearmag.com/bassic-review-amptweaker-bass-tightfuzz-jr-bass-bluesfuzz-jr-and-pressurizer-pedals/",
+      "image_source_url": "https://www.bassgearmag.com/wp-content/uploads/2019/12/L1600303-.jpg"
     },
     {
       "company": "Amptweaker",
@@ -8704,9 +8705,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackhawk-amplifiers/valhalla-fuzz/primary.webp",
       "source_page": "https://reverb.com/item/76845976-blackhawk-valhalla-fuzz-hand-wired-point-to-point",
-      "research_record": "./research/pedals/PRP Batch 101/Valhalla Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 101/Valhalla Fuzz.md",
+      "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA1zJq4ArStN9k5wWY0N7bMr6v0aTyJqgoxKWfumV0ANgntVpjD1eWBWxynbS_YXOvrQFNf9x2YLg3uRu3IHDIb8fSerAtASadjWxbIpCo9PlKBJ9-GmBoTclk0eeTojjAgaFWEnyIH1eVZEbHf7qykqTeX2yW37v6tvYYh_FlhdmeKgsWW3EDOpA8hA/w1200-h630-p-k-no-nu/Blackhawk%20Valhalla%20One%20Knob%20V1.png",
+      "image_source_page": "https://dirtboxlayouts.blogspot.com/2023/01/blackhawk-amplifiers-one-knob-valhalla.html"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -9135,9 +9138,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/blammo-electronics/l-a-square-face/primary.webp",
       "source_page": "https://reverb.com/item/81060477-blammo-electronics-la-square-face-fuzz-hybrid-germanium-silicon",
-      "research_record": "./research/pedals/PRP Batch 105/L.A. Square Face.md"
+      "research_record": "./research/pedals/PRP Batch 105/L.A. Square Face.md",
+      "image_source_url": "https://coastsonic.com/cdn/shop/products/blammosquarefacepurple.jpg?v=1681332696&width=1600",
+      "image_source_page": "https://coastsonic.com/products/blammo-electronics-l-a-square-face-fuzz-hybrid"
     },
     {
       "company": "BLAMMO! Electronics",
@@ -9470,9 +9475,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bondi-effects/sick-as-overdrive-mk2/primary.webp",
       "source_page": "https://reverb.com/item/3338487-bondi-effects-sick-as-overdrive-mk2",
-      "research_record": "./research/pedals/PRP Batch 107/Sick As Overdrive mk2.md"
+      "research_record": "./research/pedals/PRP Batch 107/Sick As Overdrive mk2.md",
+      "image_source_url": "http://replayguitars.com.au/cdn/shop/products/DSCF0239.jpg?v=1681372700",
+      "image_source_page": "https://replayguitars.com.au/products/bondi-effects-sick-as-overdrive-second-hand"
     },
     {
       "company": "Boo Instruments",
