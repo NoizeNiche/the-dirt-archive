@@ -1,10 +1,10 @@
-# Amptweaker — Bass BluesFuzz
+# Amptweaker — Bass BluesFuzz Jr.
 
 ## Archive identity
-- **Archive name:** Bass BluesFuzz
+- **Archive name:** Bass BluesFuzz Jr.
 - **Builder:** Amptweaker
 - **Catalog type:** Fuzz
-- **Identity note:** Current and surviving reference sources consistently identify the bass version as **Bass BluesFuzz Jr.** The archive's shorter "Bass BluesFuzz" name is retained here rather than silently renaming the census entry.
+- **Identity:** This record documents the Amptweaker Bass BluesFuzz Jr. bass-oriented version. The related full-size Bass BluesFuzz is retained as a separate historical family record.
 
 ## Colorways
 - No reliable source located yet that documents a named/colorway catalog for the Bass BluesFuzz Jr.
