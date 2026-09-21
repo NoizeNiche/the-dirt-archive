@@ -373,8 +373,8 @@ def main():
         elif status == "download":
             downloads.append((entry, target, source))
 
-    # Eight workers gives a controlled speedup without hammering source hosts.
-    with ThreadPoolExecutor(max_workers=12) as executor:
+    # Six workers keeps the download stage bounded and avoids hammering source hosts.
+    with ThreadPoolExecutor(max_workers=6) as executor:
         futures = {
             executor.submit(download_to_target, entry, target, source): (entry, target, source)
             for entry, target, source in downloads
