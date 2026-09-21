@@ -1,5 +1,5 @@
 {
-  "version": "data-f5a637241007",
+  "version": "data-48753c649f86",
   "count": 3819,
   "pedals": [
     {
@@ -1802,9 +1802,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alexander-pedals/princess-clang/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 047/Princess Clang.md"
+      "research_record": "./research/pedals/PRP Batch 047/Princess Clang.md",
+      "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25763642&width=1200&height=600&coordinates=0%2C20%2C0%2C20",
+      "image_source_page": "https://www.premierguitar.com/alexander-pedals-releases-the-princess-clang-royal-overdrive"
     },
     {
       "company": "Alexander Pedals",
@@ -1812,9 +1814,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alexander-pedals/royal-cream/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 047/Royal Cream.md"
+      "research_record": "./research/pedals/PRP Batch 047/Royal Cream.md",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/54a5d748e4b034981b4a71c8/1523288665915-0KI2PK409AKNHOOZT8U2/Royal_Cream_Front.jpg",
+      "image_source_page": "https://www.alexanderpedals.com/discontinued-pedals"
     },
     {
       "company": "Alien Amplification",
@@ -2709,9 +2713,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/analog-noir/tone-bender-mki/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Analog Noir/Tone Bender MKI.md"
+      "research_record": "./research/pedals/Analog Noir/Tone Bender MKI.md",
+      "image_source_url": "https://images.guitarguitar.co.uk/cdn/large/170/PXP230716410048024-10667335f.jpg?h=500&maxwidth=770&scale=canvas&bg=ffffff&quality=70",
+      "image_source_page": "https://www.guitarguitar.co.uk/product/pxp230716410048024-10667335--british-pedal-company-tone-bender-mki-pre-owned"
     },
     {
       "company": "Analog Noir",
@@ -2874,9 +2880,11 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/anasounds/full-story/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Anasounds/full story.md"
+      "research_record": "./research/pedals/Anasounds/full story.md",
+      "image_source_url": "https://anasounds.com/wp-content/uploads/2022/08/full_story_anasounds_mids-1209x1209.jpg",
+      "image_source_page": "https://anasounds.com/the-full-story/"
     },
     {
       "company": "Anasounds",
@@ -2884,9 +2892,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/anasounds/high-voltage/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Anasounds/high voltage.md"
+      "research_record": "./research/pedals/Anasounds/high voltage.md",
+      "image_source_url": "https://anasounds.com/wp-content/uploads/2018/05/highvoltageface-1209x1209.jpg",
+      "image_source_page": "https://anasounds.com/produit/high-voltage-bamboo/"
     },
     {
       "company": "Anasounds",
@@ -2894,9 +2904,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/anasounds/sandman/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Anasounds/sandman.md"
+      "research_record": "./research/pedals/Anasounds/sandman.md",
+      "image_source_url": "https://anasounds.com/wp-content/uploads/2023/05/Anasounds_sandman_2.jpg",
+      "image_source_page": "https://anasounds.com/categorie-produit/anasounds-pedals/"
     },
     {
       "company": "Anasounds",
@@ -3059,9 +3071,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/animals-pedal/major-overdrive/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Animals Pedal/Major Overdrive.md"
+      "research_record": "./research/pedals/Animals Pedal/Major Overdrive.md",
+      "image_source_url": "https://www.truetonemusic.com/cdn/shop/files/AniMaj_1200x1200.jpg?v=1724731200",
+      "image_source_page": "https://www.truetonemusic.com/products/animals-pedal-major-overdrive-guitar-effect-pedal"
     },
     {
       "company": "Animals Pedal",
@@ -3626,9 +3640,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/audio-monk/rubie-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/audiomonk/rubiedrive",
-      "research_record": "./research/pedals/Audio Monk/Rubie Drive.md"
+      "research_record": "./research/pedals/Audio Monk/Rubie Drive.md",
+      "image_source_url": "https://www.rock-gear.de/out/pictures/generated/product/thumb/185_150_90/audio_monk_rubie_drive_01.jpg",
+      "image_source_page": "https://www.rock-gear.de/Audio-Monk/"
     },
     {
       "company": "Audio Squared",
@@ -3738,9 +3754,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/audio-audio/sd-1-superdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/audioaudio/superdrive",
-      "research_record": "./research/pedals/Audio! Audio!/SD-1 Superdrive.md"
+      "research_record": "./research/pedals/Audio! Audio!/SD-1 Superdrive.md",
+      "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2023/02/boss-sd-1-super-overdrive-effects-pedal.jpg",
+      "image_source_page": "https://www.effects-pedals.info/p/boss-sd-1-superdrive/"
     },
     {
       "company": "Audiobox",
@@ -3908,9 +3926,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/aural-dream/compelling-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/auraldream/drive/compelling",
-      "research_record": "./research/pedals/Aural Dream/Compelling Drive.md"
+      "research_record": "./research/pedals/Aural Dream/Compelling Drive.md",
+      "image_source_url": "https://images-na.ssl-images-amazon.com/images/I/61BY9K0ChdL._AC_SL1110_.jpg",
+      "image_source_page": "https://bigamart.com/product/aural-dream-compelling-drive-guitar-effect-pedal-includes-high-gain-heavy-drive-for-2-drive-modestrue-bypass/"
     },
     {
       "company": "Aural Dream",
@@ -3950,9 +3970,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/auralux/clear-gain/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/auralux/cleargain",
-      "research_record": "./research/pedals/Auralux/Clear Gain.md"
+      "research_record": "./research/pedals/Auralux/Clear Gain.md",
+      "image_source_url": "https://img.youtube.com/vi/5vqOai16554/hqdefault.jpg",
+      "image_source_page": "https://reverb.com/item/29830340-auralux-clear-gain-boost-booster-stacking-overdrive-amp-pusher-boutique-rare-secret-sauce"
     },
     {
       "company": "Austone Electronics",
@@ -3960,9 +3982,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/austone-electronics/fuzz-nutz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/austone/fuzznutz",
-      "research_record": "./research/pedals/Austone Electronics/Fuzz Nutz.md"
+      "research_record": "./research/pedals/Austone Electronics/Fuzz Nutz.md",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--9sERgLsQ--/quality=medium-low,height=800,width=800,fit=contain/eca8e205-a37a-47b5-b35b-3f58ee44e405.jpeg",
+      "image_source_page": "https://reverb.com/item/97029241-austone-electronics-fuzz-nutz-x17777"
     },
     {
       "company": "Austone Electronics",
@@ -3970,9 +3994,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/austone-electronics/textone-fuzz-nutz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/austone/textone",
-      "research_record": "./research/pedals/Austone Electronics/Textone Fuzz Nutz.md"
+      "research_record": "./research/pedals/Austone Electronics/Textone Fuzz Nutz.md",
+      "image_source_url": "http://resource.noisefx.com/a8/austone_textone_fuzz_nutz.jpg",
+      "image_source_page": "https://www.noisefx.com/product_info/austone_textone_fuzz_nutz"
     },
     {
       "company": "Automat Audio Devices",
