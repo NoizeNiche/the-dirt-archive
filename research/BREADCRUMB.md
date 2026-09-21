@@ -1,3 +1,13 @@
+## Site UI checkpoint - September 21, 2026
+
+Fixed the detail-page builder navigation so only the actual builder is highlighted. Catalog card photos now use a contained presentation so the whole pedal remains visible instead of being cropped. Added a browser-audit regression check for the builder selection state.
+
+Latest UI checkpoint: **879ab391e996e1d3e4e0792a9a082269e082b0d7**.
+
+Photo recovery remains the active gate at the latest verified **378 researched-photo-pending** records. PRP1 remains gated until that reaches **0**.
+
+---
+
 ## Site architecture checkpoint - September 21, 2026
 
 The deployment audit server is now owned by `scripts/serve-static.js` instead of being embedded in the GitHub Actions workflow. The workflow calls the script, the structural validator requires it and checks its syntax, and deployment watches the script for changes. This removes another duplicated CI-side implementation and keeps the site's operational ownership explicit.
