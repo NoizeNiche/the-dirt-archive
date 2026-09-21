@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="./assets/css/archive-index.css">
 </head>
 <body>
+<a class="skipLink" href="#mainContent">Skip to content</a>
 <header class="siteHeader">
   <div class="wrap">
     <div class="headerRow">
@@ -22,7 +23,7 @@
   </div>
 </header>
 
-<main class="wrap">
+<main id="mainContent" class="wrap">
   <div class="boardSurface">
   <div class="layout">
     <aside class="sidebar">
@@ -59,7 +60,7 @@
             <div class="heroEyebrow">Pedal index</div>
             <h2 class="title" id="title">All Pedals</h2>
           </div>
-          <div class="meta" id="meta">Loading…</div>
+          <div class="meta" id="meta" aria-live="polite">Loading…</div>
         </div>
         <div class="rule"></div>
         <div class="grid" id="grid"></div>
