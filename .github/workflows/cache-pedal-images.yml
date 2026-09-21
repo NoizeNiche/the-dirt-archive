@@ -36,7 +36,7 @@ jobs:
 
       - name: Synchronize with latest main before photo recovery
         run: |
-          # Queued runs are created against an older SHA. Start the actual
+          # Queued runs are created against an older SHA. Start every catch-up pass from the actual
           # recovery pass from the newest main so prior cache commits are part
           # of the working tree before any JSON/queue changes are generated.
           git fetch origin main
