@@ -496,7 +496,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
         const builderHits = builderTokens.filter(token => searchIdentity.includes(token)).length;
         const requiredHits = pedalTokens.length >= 2 ? 2 : 1;
 
-        if (pedalHits < requiredHits || builderHits < 1) continue;
+        // The listing title/URL is only a fast model-name prefilter. Reverb
+        // listing pages are verified below, where the builder/brand is present
+        // in the actual listing metadata/body. Requiring the builder here was
+        // too strict and rejected legitimate sold listings whose titles omit it.
+        if (pedalHits < requiredHits) continue;
 
         try {
           const networkStart = networkImageUrls.length;
@@ -725,9 +729,21 @@ async function recoverEntry(browser, entry, deepReview = false) {
     const normalCandidates = orderedCandidates.filter(
       entry => reviewByKey.get(key(entry.company, entry.pedal))?.Status !== 'DEEP_REVIEW'
     );
-    const deepCandidates = orderedCandidates.filter(
-      entry => reviewByKey.get(key(entry.company, entry.pedal))?.Status === 'DEEP_REVIEW'
-    );
+    const deepCandidates = orderedCandidates
+      .filter(
+        entry => reviewByKey.get(key(entry.company, entry.pedal))?.Status === 'DEEP_REVIEW'
+      )
+      .sort((a, b) => {
+        const aReview = reviewByKey.get(key(a.company, a.pedal));
+        const bReview = reviewByKey.get(key(b.company, b.pedal));
+        const aAttempts = Number(aReview?.Attempts) || 0;
+        const bAttempts = Number(bReview?.Attempts) || 0;
+        if (aAttempts !== bAttempts) return aAttempts - bAttempts;
+        const aOrder = trackerMeta.get(key(a.company, a.pedal))?.order;
+        const bOrder = trackerMeta.get(key(b.company, b.pedal))?.order;
+        if (Number.isFinite(aOrder) && Number.isFinite(bOrder)) return aOrder - bOrder;
+        return 0;
+      });
     const activePool = normalCandidates.length ? normalCandidates : deepCandidates;
 
     const selected = [];
