@@ -2080,9 +2080,11 @@
   {
     "builder": "Analog Sound",
     "pedal": "Atomic Overdrive",
-    "image": null,
+    "image": "./assets/pedals/analog-sound/atomic-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Analog Sound/Atomic Overdrive.md"
+    "research_record": "./research/pedals/Analog Sound/Atomic Overdrive.md",
+    "image_source_url": "https://xacttone.com/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/a/t/atomic_right_1_2.jpg",
+    "image_source_page": "https://xacttone.com/atomic-overdrive.html"
   },
   {
     "builder": "Analog Sound",
@@ -2270,9 +2272,11 @@
   {
     "builder": "Animals Pedal",
     "pedal": "ANGEL BEAR FACE FUZZ",
-    "image": null,
+    "image": "./assets/pedals/animals-pedal/angel-bear-face-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Animals Pedal/ANGEL BEAR FACE FUZZ.md"
+    "research_record": "./research/pedals/Animals Pedal/ANGEL BEAR FACE FUZZ.md",
+    "image_source_url": "https://res.cloudinary.com/geartree/image/upload/t_og_image/c_limit,w_1200/f_png/q_auto/v1/ANIMANGELBEARFACEFUZZ-1?_a=BBDAAEAD0",
+    "image_source_page": "https://www.geartree.com/product/22706722/animals-pedal-angel-bear-face-fuzz-effects-pedal/"
   },
   {
     "builder": "Animals Pedal",
@@ -2780,9 +2784,11 @@
   {
     "builder": "Audio Surplus Effects",
     "pedal": "Ok Doomer",
-    "image": null,
+    "image": "./assets/pedals/audio-surplus-effects/ok-doomer/primary.webp",
     "source_page": "https://reverb.com/item/84497231-audio-surplus-effects-ok-doomer",
-    "research_record": "./research/pedals/Audio Surplus Effects/Ok Doomer.md"
+    "research_record": "./research/pedals/Audio Surplus Effects/Ok Doomer.md",
+    "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFaA8kxkdI05m-z0IYjOcmobX7Irss2WxsGmTmTZOilW-gcbY9-mqNtBbSgJCnLI1GKcBlidWcrT1U6vi379VrW3W3-QIcErm5HcXNQb7hfBGDF0Km5Mj2ATlXyhl18VxitsrMYIK-E-qa-knUCbS9zK4yxPpxGGRIXjTlYlPQMDc7jJXpH3qooaLwKQ/s707/ok-doomer-pre-order.jpg",
+    "image_source_page": "https://stompboxsteals.blogspot.com/2023/04/fuzz-audio-surplus-effects-ok-doomer.html"
   },
   {
     "builder": "Audio Surplus Effects",
@@ -3025,9 +3031,11 @@
   {
     "builder": "AVIA",
     "pedal": "SD-2 Super Over Drive",
-    "image": null,
+    "image": "./assets/pedals/avia/sd-2-super-over-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/avia/sd2",
-    "research_record": "./research/pedals/AVIA/SD-2 Super Over Drive.md"
+    "research_record": "./research/pedals/AVIA/SD-2 Super Over Drive.md",
+    "image_source_url": "https://i1.sndcdn.com/artworks-000157497994-swzocy-t500x500.jpg",
+    "image_source_page": "https://soundcloud.com/soviet-guitar-effects/90s-avia-sd-2-super-overdrive-overdrive-shure-sm57-audix-i-6"
   },
   {
     "builder": "Avora",
@@ -3122,9 +3130,11 @@
   {
     "builder": "Axcess by Giannini",
     "pedal": "MD-102 Mystic Drive",
-    "image": null,
+    "image": "./assets/pedals/axcess-by-giannini/md-102-mystic-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/md102",
-    "research_record": "./research/pedals/Axcess by Giannini/MD-102 Mystic Drive.md"
+    "research_record": "./research/pedals/Axcess by Giannini/MD-102 Mystic Drive.md",
+    "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZf2jSYqg_narnDI-xp1UOjOwTu6gBtfZEdvxCxIL47HHXphYDgXRXL_jtyPhBS2YIEDPKNkKbZw0x1_oHUNTJgHHlwbLqHcJy18uZsJLCkr9GsH5lHICBrefR38PY7YJ9VfVjUdC0tWVa/s1600/D_Q_NP_655616-MLB25808448619_072017-Q+%25281%2529.jpg",
+    "image_source_page": "https://stompboxsteals.blogspot.com/2018/12/overdrive-giannini-axcess-md-102-mystic.html"
   },
   {
     "builder": "Axcess by Giannini",
