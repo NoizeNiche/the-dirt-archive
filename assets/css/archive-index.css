@@ -240,7 +240,7 @@ main{padding:24px 0 72px}
   display:block;
   width:100%;
   aspect-ratio:4/2.45;
-  object-fit:cover;
+  object-fit:contain;
   background:#eeebe3;
 }
 .cardMedia .cardPlaceholder{border-bottom:0}
