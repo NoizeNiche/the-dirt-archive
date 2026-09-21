@@ -11090,9 +11090,11 @@
   {
     "builder": "Caveman Audio / Skrydstrup",
     "pedal": "ODR1",
-    "image": null,
+    "image": "./assets/pedals/caveman-audio-skrydstrup/odr1/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Caveman Audio / Skrydstrup/ODR1.md"
+    "research_record": "./research/pedals/Caveman Audio / Skrydstrup/ODR1.md",
+    "image_source_url": "https://delicious-audio.com/wp-content/uploads/2021/08/Caveman.jpg.webp",
+    "image_source_page": "https://delicious-audio.com/caveman-odr1-overdrive/"
   },
   {
     "builder": "Caveman Audio / Skrydstrup",
