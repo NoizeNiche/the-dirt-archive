@@ -9197,26 +9197,29 @@
   {
     "builder": "Cajita Stompboxes",
     "pedal": "Preamp Overdrive Matchbox",
-    "image": null,
+    "image": "./assets/pedals/cajita-stompboxes/preamp-overdrive-matchbox/primary.webp",
     "source_page": "https://pedalescajita.mitiendanube.com/productos/preamp-overdrive-matchbox/",
     "research_record": "./research/pedals/PRP Batch 138/preamp-overdrive-matchbox.md",
-    "image_source_page": "https://pedalescajita.mitiendanube.com/productos/preamp-overdrive-matchbox/"
+    "image_source_page": "https://pedalescajita.mitiendanube.com/productos/preamp-overdrive-matchbox/",
+    "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/matchbox-v2-05591ed5ecbe11902117496834656291-640-0.webp"
   },
   {
     "builder": "Cajita Stompboxes",
     "pedal": "TS09 TS08 Overdrive Tube Screamer",
-    "image": null,
+    "image": "./assets/pedals/cajita-stompboxes/ts09-ts08-overdrive-tube-screamer/primary.webp",
     "source_page": "https://pedalescajita.mitiendanube.com/productos/ts09-ts08-overdrive-tube-screamer/",
     "research_record": "./research/pedals/PRP Batch 138/ts09-ts08-overdrive-tube-screamer.md",
-    "image_source_page": "https://pedalescajita.mitiendanube.com/productos/ts09-ts08-overdrive-tube-screamer/"
+    "image_source_page": "https://pedalescajita.mitiendanube.com/productos/ts09-ts08-overdrive-tube-screamer/",
+    "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/ts09-3-e7c54e240a317a0b3417486417000326-640-0.webp"
   },
   {
     "builder": "Cajita Stompboxes",
     "pedal": "VMT Distorsion de Bajo con Blend",
-    "image": null,
+    "image": "./assets/pedals/cajita-stompboxes/vmt-distorsion-de-bajo-con-blend/primary.webp",
     "source_page": "https://pedalescajita.mitiendanube.com/productos/vmt-distorsion-de-bajo-con-blend/",
     "research_record": "./research/pedals/PRP Batch 138/vmt-distorsion-de-bajo-con-blend.md",
-    "image_source_page": "https://pedalescajita.mitiendanube.com/productos/vmt-distorsion-de-bajo-con-blend/"
+    "image_source_page": "https://pedalescajita.mitiendanube.com/productos/vmt-distorsion-de-bajo-con-blend/",
+    "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/vmt-3-c4f955b8d72838437d17660024955602-640-0.webp"
   },
   {
     "builder": "Calangary Pedals",
