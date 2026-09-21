@@ -6092,10 +6092,12 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "Black Sheep",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/black-sheep/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.blackartstoneworks.com/",
-    "research_record": "./research/pedals/PRP Batch 094/Black Sheep.md"
+    "research_record": "./research/pedals/PRP Batch 094/Black Sheep.md",
+    "image_source_url": "https://i.pinimg.com/736x/ed/fb/b8/edfbb8f1e5eaf18819fdb19bdbbe92e4.jpg",
+    "image_source_page": "https://bonnymooney.blogspot.com/2022/05/black-arts-toneworks-black-sheep.html"
   },
   {
     "builder": "Black Arts Toneworks",
