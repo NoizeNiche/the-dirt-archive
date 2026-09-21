@@ -7,13 +7,15 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'research/PRP1_INTAKE/**'
 
 permissions:
   contents: write
 
 concurrency:
   group: dirt-image-cache
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   cache:
