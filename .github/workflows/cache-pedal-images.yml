@@ -2,7 +2,7 @@ name: Cache pedal images
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
   # Start recovery immediately for human/system maintenance commits. Cache-bot
   # commits are filtered at the job level below.
@@ -18,6 +18,8 @@ concurrency:
   group: dirt-image-cache
   # A newer recovery pass starts from the latest main state. Cancel an older
   # run so obsolete search logic cannot block the newest recovery improvements.
+  # The scheduled cadence is intentionally longer than a normal recovery sweep
+  # so a scheduled run does not repeatedly chop up an active photo pass.
   cancel-in-progress: true
 
 jobs:
