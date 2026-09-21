@@ -143,8 +143,8 @@ def main():
         raise SystemExit("No Photo Archived fallback is missing.")
     if "Research confidence" in detail_text or "Sources checked" in detail_text:
         raise SystemExit("Internal research sections leaked into the public detail page.")
-    if "style=" in detail_js_text:
-        raise SystemExit("Detail controller contains inline style attributes; presentation belongs in archive-detail.css.")
+    if "style=" in detail_js_text or ".style." in detail_js_text:
+        raise SystemExit("Detail controller contains inline presentation styling; presentation belongs in archive-detail.css.")
     if "node - <<'JS'" in deploy_text or "node -e \"const http=require('http')" in deploy_text:
         raise SystemExit("Deployment workflow still embeds browser server source.")
     if "node scripts/serve-static.js" not in deploy_text:
