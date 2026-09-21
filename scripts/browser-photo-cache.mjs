@@ -1019,6 +1019,27 @@ async function recoverEntry(browser, entry, deepReview = false) {
     ? reviewQueueRows(fs.readFileSync(PHOTO_REVIEW_QUEUE, 'utf8'))
     : [];
   const reviewByKey = new Map(reviewRows.map(row => [reviewQueueKey(row), row]));
+
+  // Self-heal older queue entries that reached the automatic-attempt cutoff
+  // before the cutoff rule was installed. They are parked before selection so
+  // they cannot keep consuming recovery cycles.
+  let parkedOnLoad = false;
+  for (const row of reviewByKey.values()) {
+    if ((Number(row.Attempts) || 0) >= MAX_RECOVERY_ATTEMPTS && row.Status !== 'PARKED') {
+      row.Status = 'PARKED';
+      row['Last Failure'] =
+        'PARKED after ' + MAX_RECOVERY_ATTEMPTS + ' automatic photo attempts; hold for deeper/manual photo research.';
+      parkedOnLoad = true;
+    }
+  }
+  if (parkedOnLoad) {
+    writeReviewQueue([...reviewByKey.values()].sort((a, b) =>
+      (Number(a.Attempts) || 0) - (Number(b.Attempts) || 0) ||
+      String(a.Builder).localeCompare(String(b.Builder)) ||
+      String(a.Pedal).localeCompare(String(b.Pedal))
+    ));
+    console.log('Photo review queue self-healed: entries at the automatic-attempt cutoff were parked.');
+  }
   const manifestByKey = new Map(manifest.map(x => [key(x.builder, x.pedal), x]));
   const orderedCandidates = (catalog.pedals || [])
     .filter(x => {
