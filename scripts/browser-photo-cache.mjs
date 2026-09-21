@@ -788,7 +788,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
       if (!sourcePage) return null;
       try {
         const parsedSource = new URL(sourcePage);
-        const isReverbListing = /(^|\\.)reverb\\.com$/i.test(parsedSource.hostname) && /\\/item\\//i.test(parsedSource.pathname);
+        const isReverbListing = /(^|\.)reverb\.com$/i.test(parsedSource.hostname) && /\/item\//i.test(parsedSource.pathname);
         await page.goto(sourcePage, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
         await page.waitForTimeout(isReverbListing ? 1400 : 350);
 
