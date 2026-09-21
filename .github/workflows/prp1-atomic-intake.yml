@@ -4,6 +4,11 @@ on:
   workflow_run:
     workflows: ["Cache pedal images"]
     types: [completed]
+  push:
+    branches:
+      - main
+    paths:
+      - "research/PRP1_INTAKE/*.json"
   workflow_dispatch:
 
 permissions:
@@ -17,7 +22,8 @@ jobs:
   publish:
     if: >-
       github.event_name == 'workflow_dispatch'
-      || github.event.workflow_run.conclusion == 'success'
+      || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success')
+      || github.event_name == 'push'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -51,23 +57,35 @@ jobs:
             echo "Photo backlog is not empty. PRP1 remains gated."
           fi
 
+      - name: Check PRP1 intake queue
+        id: intake_gate
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
+        run: |
+          if find research/PRP1_INTAKE -maxdepth 1 -type f -name '*.json' -print -quit | grep -q .; then
+            echo "has_target=true" >> "$GITHUB_OUTPUT"
+            echo "A PRP1 intake package is ready."
+          else
+            echo "has_target=false" >> "$GITHUB_OUTPUT"
+            echo "No PRP1 intake package is currently queued."
+          fi
+
       - name: Install tooling
-        if: steps.photo_gate.outputs.complete == 'true'
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
         run: |
           python -m pip install --disable-pip-version-check pillow
           npm install --no-save playwright
           npx playwright install --with-deps chromium
 
       - name: Prepare next PRP1 intake
-        if: steps.photo_gate.outputs.complete == 'true'
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
         run: python scripts/prp1-atomic-intake.py
 
       - name: Synchronize researched record wiring
-        if: steps.photo_gate.outputs.complete == 'true'
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
         run: python scripts/sync_prp_catalog.py
 
       - name: Recover exact pedal photo
-        if: steps.photo_gate.outputs.complete == 'true'
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
         run: |
           NEEDS_PHOTO=$(python - <<'PY'
           import json
@@ -94,7 +112,7 @@ jobs:
           fi
 
       - name: Convert and synchronize the exact photo
-        if: steps.photo_gate.outputs.complete == 'true'
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
         run: |
           BUILDER=$(python - <<'PY'
           import json
@@ -111,11 +129,11 @@ jobs:
           PHOTO_CACHE_TARGET_BUILDER="$BUILDER" PHOTO_CACHE_TARGET_PEDAL="$PEDAL" python scripts/cache-pedal-images.py
 
       - name: Reconcile tracker and finalize atomic record
-        if: steps.photo_gate.outputs.complete == 'true'
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
         run: python scripts/prp1-finalize-intake.py
 
       - name: Verify published PRP1 target
-        if: steps.photo_gate.outputs.complete == 'true'
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
         run: |
           python - <<'PY'
           import csv, json
@@ -151,7 +169,7 @@ jobs:
           PY
 
       - name: Commit and push one complete PRP1 unit
-        if: steps.photo_gate.outputs.complete == 'true'
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
