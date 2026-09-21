@@ -2947,9 +2947,11 @@
   {
     "builder": "Audiostorm",
     "pedal": "Quad Screamer Overdrive",
-    "image": null,
+    "image": "./assets/pedals/audiostorm/quad-screamer-overdrive/primary.webp",
     "source_page": "https://audiostorm.uk/product/quad-screamer/",
-    "research_record": "./research/pedals/Audiostorm/Quad Screamer Overdrive.md"
+    "research_record": "./research/pedals/Audiostorm/Quad Screamer Overdrive.md",
+    "image_source_url": "https://audiostorm.uk/wp-content/uploads/ASQS-02w.jpg",
+    "image_source_page": "https://audiostorm.uk/product/quad-screamer/"
   },
   {
     "builder": "Aul Instruments",
@@ -10848,9 +10850,11 @@
   {
     "builder": "Catalinbread Effects",
     "pedal": "SideArm Overdrive",
-    "image": null,
+    "image": "./assets/pedals/catalinbread-effects/sidearm-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 159/catalinbread-sidearm-overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 159/catalinbread-sidearm-overdrive.md",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/0370/1873/0628/files/sa_2_copy_low.png?v=1746777615&width=2048",
+    "image_source_page": "https://catalinbread.com/products/sidearm-overdrive-1"
   },
   {
     "builder": "Catalinbread Effects",
@@ -10896,9 +10900,11 @@
   {
     "builder": "Cathouse Pedals",
     "pedal": "Fuzzy Tongue",
-    "image": null,
+    "image": "./assets/pedals/cathouse-pedals/fuzzy-tongue/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 161/cathouse-pedals-fuzzy-tongue.md"
+    "research_record": "./research/pedals/PRP Batch 161/cathouse-pedals-fuzzy-tongue.md",
+    "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2017/01/CathousePedals_FuzzyTongueFuzz.jpg",
+    "image_source_page": "https://www.pedal-of-the-day.com/2017/01/09/cathouse-pedals-fuzzy-tongue-fuzz/cathousepedals_fuzzytonguefuzz/"
   },
   {
     "builder": "Cathouse Pedals",
