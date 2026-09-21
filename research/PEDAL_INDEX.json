@@ -1,5 +1,5 @@
 {
-  "version": "data-eb92eef191b2",
+  "version": "data-correction-20260921-0612",
   "count": 3819,
   "pedals": [
     {
@@ -1283,11 +1283,9 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/aether-electronic/lenore/primary.webp",
+      "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Aether Electronic/Lenore.md",
-      "image_source_url": "http://jubalstore.com/cdn/shop/products/Filaments_r03_c01.jpg?v=1674209525",
-      "image_source_page": "https://storage.googleapis.com/dxvipsvpsunste/keeley-filaments-pedal.html"
+      "research_record": "./research/pedals/Aether Electronic/Lenore.md"
     },
     {
       "company": "AGR Pedals",
@@ -1703,11 +1701,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/alen-geere/leader-mk-2/primary.webp",
+      "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 046/LEADer Mk.2.md",
-      "image_source_url": "https://img.wattpad.com/cover/351430299-256-k228048.jpg",
-      "image_source_page": "https://www.wattpad.com/1379255625-squad-leader-mk-2-serial-designation-x"
+      "research_record": "./research/pedals/PRP Batch 046/LEADer Mk.2.md"
     },
     {
       "company": "Alen Geere",
