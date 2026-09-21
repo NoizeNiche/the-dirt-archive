@@ -29,20 +29,35 @@ jobs:
       - name: Check photo catch-up gate
         id: photo_gate
         run: |
-          PHOTO_PENDING=$(python - <<'PY'
+          PHOTO_TRIAGE_PENDING=$(python - <<'PY'
           import csv
           from pathlib import Path
-          rows = list(csv.DictReader(Path("research/PRP_TRACKER.csv").open(newline="", encoding="utf-8")))
-          print(sum(1 for row in rows if row.get("Pedal Info") == "DONE" and row.get("Picture") != "DONE"))
+
+          tracker = list(csv.DictReader(Path("research/PRP_TRACKER.csv").open(newline="", encoding="utf-8")))
+          review_path = Path("research/PHOTO_REVIEW_QUEUE.csv")
+          review = set()
+          if review_path.exists():
+              review = {
+                  (row.get("Builder", ""), row.get("Pedal", ""))
+                  for row in csv.DictReader(review_path.open(newline="", encoding="utf-8"))
+                  if row.get("Status") == "DEEP_REVIEW"
+              }
+
+          untriaged = 0
+          for row in tracker:
+              key = (row.get("Builder", ""), row.get("Pedal", ""))
+              if row.get("Pedal Info") == "DONE" and row.get("Picture") != "DONE" and key not in review:
+                  untriaged += 1
+          print(untriaged)
           PY
           )
-          echo "researched photo-pending records: $PHOTO_PENDING"
-          if [ "$PHOTO_PENDING" -eq 0 ]; then
+          echo "researched photo records still needing a first-pass attempt: $PHOTO_TRIAGE_PENDING"
+          if [ "$PHOTO_TRIAGE_PENDING" -eq 0 ]; then
             echo "complete=true" >> "$GITHUB_OUTPUT"
-            echo "Photo catch-up is complete. PRP1 may proceed."
+            echo "Photo catch-up triage is complete. PRP1 may proceed; DEEP_REVIEW items remain on the photo backlog."
           else
             echo "complete=false" >> "$GITHUB_OUTPUT"
-            echo "Photo catch-up is not complete. PRP1 remains gated."
+            echo "Photo catch-up triage is not complete. PRP1 remains gated."
           fi
 
       - name: Install tooling
