@@ -103,6 +103,9 @@ function renderColorways(item, colorways){
       const v=colorways.find(x=>(x.variation_name||x.pedal)===name);
       showPhoto(v||item,name);
       wantedVariation=name;
+      const url=new URL(location.href);
+      url.searchParams.set('variation',name);
+      history.replaceState({},'',url.href);
       buttons.forEach(b=>{
         b.classList.remove('selected');
         b.setAttribute('aria-pressed','false');
