@@ -1,5 +1,15 @@
 ## Site UI maintenance checkpoint - September 21, 2026
 
+Colorway selection now uses CSS classes rather than inline JavaScript styling. Selected colorways expose `aria-pressed="true"`, and the browser audit verifies that a variation deep-link selects the requested colorway correctly.
+
+Latest UI checkpoint: **c66a4c3c5267760498251c0673a7701523471f3c**.
+
+Photo recovery remains the active gate at the latest verified **378 researched-photo-pending** records. PRP1 remains gated until that reaches **0**.
+
+---
+
+## Site UI maintenance checkpoint - September 21, 2026
+
 Detail-page photo presentation is now owned by `assets/css/archive-detail.css` rather than inline styles inside the JavaScript renderer. Photo load failures remain handled by the detail controller, while the validator now rejects inline style attributes in `archive-detail.js`.
 
 Latest maintenance checkpoint: **8d79e5ce7f5d21b6e096a17079beefce17c482d2**.
