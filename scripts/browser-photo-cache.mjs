@@ -308,7 +308,7 @@ async function linkedExactSourceCandidates(page, entry, sourcePageUsed, deepRevi
   if (!deepReview || !sourcePageUsed) return [];
   let hostname = '';
   try { hostname = new URL(sourcePageUsed).hostname; } catch {}
-  if (!/(^|\\.)effectsdatabase\\.com$/i.test(hostname)) return [];
+  if (!/(^|\.)effectsdatabase\.com$/i.test(hostname)) return [];
 
   const pedalTokens = identityTokens(entry.pedal);
   const builderTokens = identityTokens(entry.company);
@@ -324,7 +324,7 @@ async function linkedExactSourceCandidates(page, entry, sourcePageUsed, deepRevi
       if (!/^https?:/i.test(href)) continue;
       try {
         const u = new URL(href);
-        if (/(^|\\.)effectsdatabase\\.com$/i.test(u.hostname)) continue;
+        if (/(^|\.)effectsdatabase\.com$/i.test(u.hostname)) continue;
       } catch {
         continue;
       }
