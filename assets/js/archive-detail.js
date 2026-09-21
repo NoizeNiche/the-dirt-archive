@@ -219,9 +219,9 @@ loadCatalog()
 
   document.title=item.pedal+' · The Dirt Archive';
   $('record').hidden=false;
-  $('crumb').textContent=item.company;
+  $('crumb').textContent='Pedal record';
   $('name').textContent=item.pedal;
-  $('builder').textContent='The Dirt Archive pedal record';
+  $('builder').textContent=item.company;
   $('types').innerHTML=(item.types||[]).map(t=>'<span class="chip">'+esc(t)+'</span>').join('');
   showPhoto(item);
 
