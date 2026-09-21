@@ -21,6 +21,7 @@ HOME = ROOT / "index.html"
 DETAIL = ROOT / "pedal-detail.html"
 LEGACY = ROOT / "pedal.html"
 DEPLOY = ROOT / ".github/workflows/deploy-pages.yml"
+STATIC_SERVER = ROOT / "scripts/serve-static.js"
 
 def pair(a, b):
     return (a, b)
@@ -30,7 +31,7 @@ def local(path):
     return ROOT / value
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, HOME, DETAIL, LEGACY, DEPLOY)
+    required = (INDEX, MANIFEST, TRACKER, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, HOME, DETAIL, LEGACY, DEPLOY)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
@@ -142,8 +143,10 @@ def main():
         raise SystemExit("No Photo Archived fallback is missing.")
     if "Research confidence" in detail_text or "Sources checked" in detail_text:
         raise SystemExit("Internal research sections leaked into the public detail page.")
-    if "node - <<'JS'" in deploy_text:
-        raise SystemExit("Deployment workflow still embeds browser-test source.")
+    if "node - <<'JS'" in deploy_text or "node -e \"const http=require('http')" in deploy_text:
+        raise SystemExit("Deployment workflow still embeds browser server source.")
+    if "node scripts/serve-static.js" not in deploy_text:
+        raise SystemExit("Deployment workflow is not using the owned static server script.")
     if "node scripts/deploy-browser-audit.js" not in deploy_text or "node scripts/live-photo-audit.js" not in deploy_text:
         raise SystemExit("Deployment workflow is not wired to the external audit scripts.")
     if "python scripts/validate-archive.py" not in deploy_text:
