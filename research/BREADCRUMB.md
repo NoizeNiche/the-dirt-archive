@@ -1,5 +1,14 @@
 ## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
 
+Verified tracker state: **3,819 total / 1,274 researched / 870 pictured / 870 fully complete / 404 researched-photo-pending**.
+
+The latest completed cache pass is commit **dcc54327deab996fdf16a4d56fd7314b06326d87**. The live tracker and catalog now agree at 870 pictured and 404 researched-photo-pending. The internal photo-review queue contains 432 remaining review records.
+
+PRP1 remains gated until the researched-photo-pending count reaches **0**. Local photo references are currently structurally complete, with no declared local path pointing at a missing file.
+
+---
+## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
+
 Verified tracker state: **3,819 total / 1,274 researched / 869 pictured / 869 fully complete / 405 researched-photo-pending**.
 
 The live tracker is authoritative. The photo-recovery lane remains active and PRP1 remains gated until the researched-photo-pending count reaches **0**. The repository currently has **0 missing local image references** among declared local photo assets.
