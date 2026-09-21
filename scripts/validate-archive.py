@@ -122,6 +122,16 @@ def main():
     home_text = HOME.read_text(encoding="utf-8")
     detail_text = DETAIL.read_text(encoding="utf-8")
     deploy_text = DEPLOY.read_text(encoding="utf-8")
+    health_workflow = (ROOT / ".github/workflows/hourly-site-health.yml").read_text(encoding="utf-8")
+    cache_workflow = (ROOT / ".github/workflows/cache-pedal-images.yml").read_text(encoding="utf-8")
+    if "node-version: 20" not in deploy_text:
+        raise SystemExit("Deployment workflow is not pinned to Node 20.")
+    if "node-version: 20" not in cache_workflow:
+        raise SystemExit("Photo cache workflow is not pinned to Node 20.")
+    if "node-version: 20" not in health_workflow:
+        raise SystemExit("Hourly health workflow is not pinned to Node 20.")
+    if "git fetch origin main --depth=2" not in health_workflow or "git reset --hard origin/main" not in health_workflow:
+        raise SystemExit("Scheduled hourly health workflow is not refreshing its checkout to latest main.")
     if "./assets/css/archive-index.css" not in home_text or "./assets/js/archive-index.js" not in home_text:
         raise SystemExit("Home page is not wired to external assets.")
     detail_js_text = DETAIL_JS.read_text(encoding="utf-8")
