@@ -1,5 +1,5 @@
 {
-  "version": "data-59e731c80dde",
+  "version": "prp1-caveman-audio-skrydstrup-odr1",
   "count": 3819,
   "pedals": [
     {
@@ -14657,7 +14657,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/Caveman Audio / Skrydstrup/ODR1.md"
     },
     {
       "company": "Caveman Audio / Skrydstrup",
