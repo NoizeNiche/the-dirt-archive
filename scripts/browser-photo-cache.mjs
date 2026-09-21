@@ -1116,6 +1116,26 @@ async function recoverEntry(browser, entry, deepReview = false) {
     : [];
   const reviewByKey = new Map(reviewRows.map(row => [reviewQueueKey(row), row]));
 
+  // Remove queue rows that are already resolved in the tracker. These stale
+  // entries otherwise consume the bounded deep-review slots even though the
+  // catalog no longer needs a photo for them.
+  let staleResolved = 0;
+  for (const [queueKey, row] of reviewByKey) {
+    const tracker = trackerMeta.get(queueKey);
+    if (tracker?.pictureDone === true) {
+      reviewByKey.delete(queueKey);
+      staleResolved++;
+    }
+  }
+  if (staleResolved) {
+    writeReviewQueue([...reviewByKey.values()].sort((a, b) =>
+      (Number(a.Attempts) || 0) - (Number(b.Attempts) || 0) ||
+      String(a.Builder).localeCompare(String(b.Builder)) ||
+      String(a.Pedal).localeCompare(String(b.Pedal))
+    ));
+    console.log('Removed ' + staleResolved + ' stale photo-review queue rows already marked DONE.');
+  }
+
   // Self-heal older queue entries that reached the automatic-attempt cutoff
   // before the cutoff rule was installed. They are parked before selection so
   // they cannot keep consuming recovery cycles.
