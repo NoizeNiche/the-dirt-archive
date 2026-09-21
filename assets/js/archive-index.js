@@ -67,7 +67,7 @@ function renderTypeMenu(){
     ['Fuzz',counts.Fuzz+' pedals']
   ];
   $('typeMenu').innerHTML=types.map(([t,sub])=>
-    '<button class="typeButton '+(selectedType===t?'active':'')+'" data-type="'+t+'">'+
+    '<button class="typeButton '+(selectedType===t?'active':'')+'" data-type="'+t+'" aria-pressed="'+(selectedType===t?'true':'false')+'">'+
       (t==='All'?'All Pedals':t)+
       '<span class="typeSub">'+sub+'</span>'+
     '</button>'
@@ -87,9 +87,9 @@ function renderBuilders(){
   $('builderListCount').textContent=rows.length;
 
   const allCount=items.filter(x=>typeMatches(x)&&searchMatches(x)).length;
-  let html='<button class="builder allBuilder '+(!selectedBuilder?'active':'')+'" data-builder=""><span class="builderName">All builders</span><span class="builderCount">'+allCount+'</span></button>';
+  let html='<button class="builder allBuilder '+(!selectedBuilder?'active':'')+'" data-builder="" aria-pressed="'+(!selectedBuilder?'true':'false')+'"><span class="builderName">All builders</span><span class="builderCount">'+allCount+'</span></button>';
   html+=rows.map(([name,count])=>
-    '<button class="builder '+(selectedBuilder===name?'active':'')+'" data-builder="'+esc(name)+'">'+
+    '<button class="builder '+(selectedBuilder===name?'active':'')+'" data-builder="'+esc(name)+'" aria-pressed="'+(selectedBuilder===name?'true':'false')+'">'+
       '<span class="builderName">'+esc(name)+'</span>'+
       '<span class="builderCount">'+count+'</span>'+
     '</button>'
