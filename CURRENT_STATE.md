@@ -1,3 +1,23 @@
+## Full-site maintenance checkpoint - September 21, 2026
+
+Canonical repository state verified after the latest maintenance and photo-cache work: **3,819 total catalog records / 3,818 public entries / 1,273 researched public entries / 896 pictured public entries / 896 complete public entries / 377 researched-photo-pending / 2,922 public photo-missing / 879 public local images / 17 public external image URLs**.
+
+Maintenance completed in this slice:
+- deployment auditing now uses an owned static server rather than an inline workflow server
+- scheduled health checks refresh to the latest `main` before integrity testing
+- deployment/photo workflows use pinned Node 20 runtimes
+- photo recovery now includes externally pictured records in the local-cache handoff
+- exact photo identity fallback requires builder context
+- Reverb listing recovery has a dedicated verified-page fallback
+- catalog filters/pagination preserve browser history and normalize stale URL state
+- pedal detail builder and colorway state are rendered/accessibly exposed correctly
+- keyboard skip links and focus states were added to the public pages
+- architecture and validators now enforce these ownership rules and reject retired/stale mechanisms
+
+The latest photo-cache pass localized **17** previously external public images. **17 external image URLs remain** and are still being retried separately from the researched-photo gate.
+
+PRP1 remains gated until **researched-photo-pending reaches 0**.
+
 ## Current verified archive state - September 21, 2026
 
 Canonical `PEDAL_INDEX.json` and `PRP_TRACKER.csv` now verify: **3,819 total catalog records / 3,818 public catalog entries / 1,273 researched public entries / 896 pictured public entries / 896 fully complete public entries / 377 researched-photo-pending / 2,922 public photo-missing / 862 public local images / 34 public records still using external image URLs**.
