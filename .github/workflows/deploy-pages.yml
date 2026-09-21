@@ -13,6 +13,7 @@ on:
       - 'research/pedals/**'
       - 'assets/js/**'
       - 'assets/css/**'
+      - 'scripts/deploy-browser-audit.js'
       - '.github/workflows/deploy-pages.yml'
   workflow_run:
     workflows:
