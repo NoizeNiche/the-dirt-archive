@@ -6759,9 +6759,11 @@
   {
     "builder": "Blackstar Amplification",
     "pedal": "HT-DUAL",
-    "image": null,
+    "image": "./assets/pedals/blackstar-amplification/ht-dual/primary.webp",
     "source_page": "https://www.blackstarampsmedia.com/pdf/handbooks/ht-dual-handbook.pdf",
-    "research_record": "./research/pedals/PRP Batch 103/HT-DUAL.md"
+    "research_record": "./research/pedals/PRP Batch 103/HT-DUAL.md",
+    "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/h/t/ht-dual3_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=",
+    "image_source_page": "https://www.pitbullaudio.com/blackstar-amplification-2-channel-ht-dual-tube-distortion-guitar-effects-pedal.html"
   },
   {
     "builder": "Blackstar Amplification",
@@ -6775,9 +6777,11 @@
   {
     "builder": "Blackstar Amplification",
     "pedal": "LT-DIST",
-    "image": null,
+    "image": "./assets/pedals/blackstar-amplification/lt-dist/primary.webp",
     "source_page": "https://www.manualslib.tech/guide/639919/blackstar-lt-dist-pedal-manual.html",
-    "research_record": "./research/pedals/PRP Batch 104/LT-DIST.md"
+    "research_record": "./research/pedals/PRP Batch 104/LT-DIST.md",
+    "image_source_url": "https://medias.audiofanzine.com/images/normal/blackstar-amplification-lt-dist-3031029.jpg",
+    "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/blackstar-amplification/lt-dist/"
   },
   {
     "builder": "Blackstar Amplification",
