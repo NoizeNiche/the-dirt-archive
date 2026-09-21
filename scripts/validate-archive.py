@@ -132,6 +132,12 @@ def main():
     photo_cache_script = (ROOT / "scripts/browser-photo-cache.mjs").read_text(encoding="utf-8")
     if 'or re.match(r"^https?://"' not in cache_script:
         raise SystemExit("Bulk photo cache is not including externally pictured records for localization.")
+    if "function isReverbListingUrl" not in photo_cache_script:
+        raise SystemExit("Browser photo cache is missing the shared Reverb listing URL matcher.")
+    if r"?:/\\/[a-z]{2}(?:-[a-z]{2})?": not in photo_cache_script:
+        raise SystemExit("Reverb listing URL matcher is not accepting localized marketplace paths.")
+    if "isReverbListingUrl(href)" in photo_cache_script:
+        raise SystemExit("Browser-page Reverb filtering is calling a Node-only helper.")
     if "function reverbListingMatchesIdentity" not in photo_cache_script:
         raise SystemExit("Browser photo cache is missing the Reverb listing identity fallback.")
     if "return builderMatch && (" not in photo_cache_script:
