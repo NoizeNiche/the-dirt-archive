@@ -232,6 +232,7 @@ Use one owner for each moving part:
 | Landing-page behavior | `assets/js/archive-index.js` |
 | Detail-page behavior | `assets/js/archive-detail.js` |
 | Deployment orchestration | `.github/workflows/deploy-pages.yml` |
+| Local browser-audit HTTP server | `scripts/serve-static.js` |
 
 Do not create a competing implementation merely because another file is easier to edit.
 
