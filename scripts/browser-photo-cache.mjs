@@ -209,6 +209,26 @@ function pageMatchesIdentity(entry, title, h1) {
   );
 }
 
+function reverbListingMatchesIdentity(entry, url, title, h1) {
+  try {
+    const parsed = new URL(url);
+    if (!/(^|\.)reverb\.com$/i.test(parsed.hostname) || !/\/item\//i.test(parsed.pathname)) return false;
+    const haystack = normalizedIdentity([title || '', h1 || '', parsed.pathname].join(' '));
+    const pedalPhrase = normalizedIdentity(entry.pedal);
+    const pedalTokens = identityTokens(entry.pedal);
+    const builderTokens = identityTokens(entry.company);
+    const builderMatch = !builderTokens.length || builderTokens.some(token => haystack.includes(token));
+    const pedalMatch = pedalPhrase && pedalPhrase.split(/\s+/).length >= 2
+      ? haystack.includes(pedalPhrase)
+      : pedalTokens.length
+        ? pedalTokens.every(token => haystack.includes(token))
+        : haystack.includes(pedalPhrase);
+    return Boolean(pedalMatch && builderMatch);
+  } catch {
+    return false;
+  }
+}
+
 async function extractDirectImage(page, url) {
   try {
     const response = await page.request.get(url, { timeout: SEARCH_TIMEOUT });
@@ -649,7 +669,10 @@ async function recoverEntry(browser, entry, deepReview = false) {
         const h1 = await page.locator('h1').first().textContent().catch(() => '');
         const body = await page.locator('body').textContent().catch(() => '');
 
-        if (pageMatchesIdentity(entry, title + ' ' + body, h1)) {
+        const pageIdentityMatch =
+          pageMatchesIdentity(entry, title + ' ' + body, h1) ||
+          reverbListingMatchesIdentity(entry, pageUrl, title, h1);
+        if (pageIdentityMatch) {
           sourcePageUsed = pageUrl;
 
           // Effects Database renders its auction/search image after the initial
@@ -894,7 +917,10 @@ async function recoverEntry(browser, entry, deepReview = false) {
           const body = await page.locator('body').textContent().catch(() => '');
           const identity = { title, h1, body };
 
-          if (!pageMatchesIdentity(entry, title + ' ' + body, h1)) continue;
+          if (
+            !pageMatchesIdentity(entry, title + ' ' + body, h1) &&
+            !reverbListingMatchesIdentity(entry, result.purl, title, h1)
+          ) continue;
 
           const imageData = await page.evaluate(() => {
             const urls = [];
