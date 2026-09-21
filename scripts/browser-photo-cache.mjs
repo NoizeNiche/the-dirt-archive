@@ -298,8 +298,11 @@ async function recoverEntry(browser, entry) {
       if (TARGET_BUILDER && String(x.company || '').trim() !== TARGET_BUILDER) return false;
       if (TARGET_PEDAL && String(x.pedal || '').trim() !== TARGET_PEDAL) return false;
       if (!x.research_record || !(x.image_source_page || x.source_page || x.image_source_url || x.image)) return false;
-      if (!TARGET_BUILDER && !TARGET_PEDAL) return !x.image;
       const canonical = target(x);
+      // Bulk catch-up is driven by the canonical local archive state, not by
+      // whether an old/external image URL happens to be present in the catalog.
+      // This lets browser recovery revisit researched pedals whose external
+      // image host has gone stale or started returning 4xx/5xx errors.
       return !fs.existsSync(canonical);
     })
     .sort((a, b) => {
