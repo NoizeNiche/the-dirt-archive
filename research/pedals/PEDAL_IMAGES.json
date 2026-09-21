@@ -5074,10 +5074,12 @@
   {
     "builder": "Big Knob Pedals",
     "pedal": "D OverDrive 250",
-    "image": null,
+    "image": "./assets/pedals/big-knob-pedals/d-overdrive-250/primary.webp",
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 083/D OverDrive 250.md"
+    "research_record": "./research/pedals/PRP Batch 083/D OverDrive 250.md",
+    "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/DOD-8-416x416.jpg",
+    "image_source_page": "https://bigknobpedals.com/product/d-overdrive-250/"
   },
   {
     "builder": "Big Knob Pedals",
@@ -5668,10 +5670,12 @@
   {
     "builder": "Biyang",
     "pedal": "Baby Boom OD-19 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/biyang/baby-boom-od-19-overdrive/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/od19",
-    "research_record": "./research/pedals/PRP Batch 089/Baby Boom OD-19 Overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 089/Baby Boom OD-19 Overdrive.md",
+    "image_source_url": "https://starlitedistribution.ca/wp-content/uploads/2025/11/AD19-box.jpg",
+    "image_source_page": "https://starlitedistribution.ca/product/biyang-od-19-overdrive-2-modes-of-drive-baby-boom-series-guitar-effects-pedal-true-bypass/"
   },
   {
     "builder": "Biyang",
