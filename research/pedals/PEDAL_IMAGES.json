@@ -443,10 +443,11 @@
   {
     "builder": "Acid Fuzz",
     "pedal": "Mk1.5",
-    "image": null,
+    "image": "./assets/pedals/acid-fuzz/mk1-5/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk15",
     "research_record": "./research/pedals/Acid Fuzz/Mk1.5.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk15"
+    "image_source_page": "https://www.acoguitar.com/product/analogman-sun-bender-mk1-5-fuzz-pedal/",
+    "image_source_url": "https://www.acoguitar.com/wp-content/uploads/2025/11/1764445019/analogman-sun-bender-mk1-5-fuzz-pedal-1764445024.webp"
   },
   {
     "builder": "Acid Fuzz",
