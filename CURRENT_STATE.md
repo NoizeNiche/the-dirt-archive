@@ -1,12 +1,14 @@
 ## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
 
-Verified tracker state: **3,819 total / 1,274 researched / 870 pictured / 870 fully complete / 404 researched-photo-pending / 2,949 photo-missing overall**.
+Verified tracker state: **3,819 total / 1,274 researched / 873 pictured / 873 fully complete / 401 researched-photo-pending / 2,946 photo-missing overall**.
 
-The latest completed bounded photo-cache pass archived additional exact-model pedal photos and synchronized the tracker, photo-review queue, public catalog, and local image assets. The current local catalog has **0 missing local image references** among its declared local photo assets.
+The latest completed browser recovery pass recovered **5 exact-model photo candidates** and successfully published **3 new local canonical photo assets**. The tracker now reflects **873 pictured / 873 complete / 401 researched-photo-pending**. The photo-review queue is down to **427 records**, with **141 parked** at the automatic-attempt cutoff.
+
+The recovery system also received stronger exact source-page leads for several stubborn records, including Bad Cat X-Treme Tone, Big Ear NYC The LOAF Fuzz, Black Arts Toneworks LSTR, and Caline CP-74 Action Replay. These remain incomplete until an exact image is actually archived.
 
 PRP1 remains gated until **researched-photo-pending reaches 0**. Public pedal pages continue to hide Research confidence and Sources checked. The future YouTube demo widget remains deferred until the photo catch-up is complete.
 
-The current photo queue contains **432 review records**, including deep-review and parked cases. Parked records remain NEEDED and are not silently treated as complete.
+---
 
 ---
 ## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
