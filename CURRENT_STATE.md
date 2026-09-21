@@ -1,5 +1,17 @@
 ## Photo Recovery Checkpoint — September 21, 2026
 
+Verified tracker state: **3,819 total / 1,268 researched / 834 pictured / 435 researched-photo-pending**.
+
+The latest photo batch recovered **3 additional exact-match photos** and passed the full live deployment audit.
+
+Photo recovery remains the active gate. High-attempt deep-review records continue to rotate into each batch.
+
+Public pedal pages hide **Research confidence** and **Sources checked**. A future YouTube demo widget remains parked for later.
+
+PRP1 remains gated until researched-photo-pending reaches **0**.
+
+## Photo Recovery Checkpoint — September 21, 2026
+
 Verified tracker state: **3,819 total / 1,268 researched / 831 pictured / 438 researched-photo-pending**.
 
 The latest browser recovery batch recovered **7 additional exact-match photos** and the subsequent live deployment audit passed successfully.
