@@ -13,6 +13,7 @@ from pathlib import Path
 INDEX = Path("research/PEDAL_INDEX.json")
 MANIFEST = Path("research/pedals/PEDAL_IMAGES.json")
 TRACKER = Path("research/PRP_TRACKER.csv")
+PHOTO_REVIEW_QUEUE = Path("research/PHOTO_REVIEW_QUEUE.csv")
 
 
 def norm(value):
@@ -43,28 +44,40 @@ def main():
         raise SystemExit("Target research record file does not exist.")
 
     image = entry.get("image")
-    if not image or not image.startswith("./assets/pedals/"):
-        raise SystemExit("Target does not have a canonical local image.")
-    image_path = Path(image[2:])
-    if not image_path.exists():
-        raise SystemExit("Target image path does not exist: " + image)
+    image_path = None
+    photo_complete = False
+    if image and image.startswith("./assets/pedals/"):
+        image_path = Path(image[2:])
+        photo_complete = image_path.exists()
 
     manifest_entry = next((x for x in manifest
                            if norm(x.get("builder")) == norm(builder)
                            and norm(x.get("pedal")) == norm(pedal)), None)
     if manifest_entry is None:
         raise SystemExit("Target manifest entry missing.")
-    if manifest_entry.get("image") != image:
-        raise SystemExit("Target catalog/manifest image paths disagree.")
-    if not entry.get("image_source_url") or not manifest_entry.get("image_source_url"):
-        raise SystemExit("Target local image is missing provenance URL.")
+
+    review_status = None
+    if PHOTO_REVIEW_QUEUE.exists():
+        with PHOTO_REVIEW_QUEUE.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                if norm(row.get("Builder")) == norm(builder) and norm(row.get("Pedal")) == norm(pedal):
+                    review_status = row.get("Status")
+                    break
+
+    if photo_complete:
+        if manifest_entry.get("image") != image:
+            raise SystemExit("Target catalog/manifest image paths disagree.")
+        if not entry.get("image_source_url") or not manifest_entry.get("image_source_url"):
+            raise SystemExit("Target local image is missing provenance URL.")
+    elif review_status not in {"DEEP_REVIEW", "PARKED"}:
+        raise SystemExit("Target has no local photo and has not been triaged for deeper review.")
 
     matched = 0
     for row in tracker_rows:
         if norm(row.get("Builder")) == norm(builder) and norm(row.get("Pedal")) == norm(pedal):
             row["Pedal Info"] = "DONE"
-            row["Picture"] = "DONE"
-            row["PRP Complete"] = "DONE"
+            row["Picture"] = "DONE" if photo_complete else "NEEDED"
+            row["PRP Complete"] = "DONE" if photo_complete else "NEEDED"
             row["Research Record"] = record
             matched += 1
     if matched != 1:
@@ -90,7 +103,8 @@ def main():
     Path(target["queue_path"]).unlink()
     Path(".prp1-target.json").unlink()
 
-    print(f"Finalized atomic PRP1 publication: {builder} - {pedal}")
+    photo_label = "with exact local photo" if photo_complete else "with photo queued for deeper review"
+    print(f"Finalized atomic PRP1 publication: {builder} - {pedal} {photo_label}")
 
 
 if __name__ == "__main__":

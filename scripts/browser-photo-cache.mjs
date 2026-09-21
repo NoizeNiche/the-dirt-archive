@@ -1137,6 +1137,25 @@ async function recoverEntry(browser, entry, deepReview = false) {
     candidates = orderedCandidates.slice(0, LIMIT);
   }
 
+  if (TARGET_BUILDER && TARGET_PEDAL) {
+    const targetReview = reviewByKey.get(key(TARGET_BUILDER, TARGET_PEDAL));
+    const targetAttempts = Number(targetReview?.Attempts) || 0;
+    if (targetReview?.Status === 'PARKED' || targetAttempts >= MAX_RECOVERY_ATTEMPTS) {
+      if (targetAttempts >= MAX_RECOVERY_ATTEMPTS && targetReview?.Status !== 'PARKED') {
+        targetReview.Status = 'PARKED';
+        targetReview['Last Failure'] =
+          'PARKED after ' + MAX_RECOVERY_ATTEMPTS + ' automatic photo attempts; hold for deeper/manual photo research.';
+      }
+      writeReviewQueue([...reviewByKey.values()].sort((a, b) =>
+        (Number(a.Attempts) || 0) - (Number(b.Attempts) || 0) ||
+        String(a.Builder).localeCompare(String(b.Builder)) ||
+        String(a.Pedal).localeCompare(String(b.Pedal))
+      ));
+      console.log('Photo recovery skipped for parked target: ' + TARGET_BUILDER + ' - ' + TARGET_PEDAL);
+      process.exit(0);
+    }
+  }
+
   const browser = await chromium.launch({ headless: true });
   let recovered = 0;
   let attempted = 0;
