@@ -319,6 +319,13 @@ const path = require('node:path');
             if (!(await page.locator('#variationNotice').textContent()).includes('White')) {
               throw new Error('Variation deep-link did not preserve the White colorway notice.');
             }
+            const selectedColorway = page.locator('.colorwayCard.selected');
+            if (await selectedColorway.count() !== 1) {
+              throw new Error('Variation deep-link did not select the requested colorway.');
+            }
+            if (await selectedColorway.getAttribute('aria-pressed') !== 'true') {
+              throw new Error('Selected colorway is missing its accessible pressed state.');
+            }
 
             // Legacy pedal.html redirect must land on the canonical detail page.
             await page.goto(
