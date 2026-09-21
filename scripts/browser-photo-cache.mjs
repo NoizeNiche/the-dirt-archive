@@ -196,6 +196,49 @@ async function fetchSearchPageIdentity(page, url) {
   }
 }
 
+async function reverbSoldCandidates(page, entry, deepReview = false) {
+  if (!IMAGE_SEARCH_ENABLED) return [];
+
+  const queries = [
+    entry.company + ' ' + entry.pedal,
+    '"' + entry.company + '" "' + entry.pedal + '"',
+    entry.pedal + ' ' + entry.company
+  ];
+  if (deepReview) {
+    queries.push('"' + entry.pedal + '" pedal');
+    queries.push('"' + entry.company + '" "' + entry.pedal + '" effects pedal');
+  }
+
+  const merged = new Map();
+  for (const query of queries) {
+    const searchUrl =
+      'https://reverb.com/marketplace?query=' +
+      encodeURIComponent(query) +
+      '&product_type=effects-and-pedals&show_only_sold=true';
+
+    try {
+      await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: SEARCH_TIMEOUT });
+      await page.waitForTimeout(350);
+
+      const results = await page.evaluate(() => {
+        const out = [];
+        for (const el of document.querySelectorAll('a[href*="/item/"]')) {
+          const href = el.href || '';
+          const title = (el.textContent || '').replace(/\s+/g, ' ').trim();
+          if (!href || !/^https?:\/\/reverb\.com\/item\//i.test(href)) continue;
+          out.push({ purl: href.split('?')[0], title, searchUrl: location.href });
+        }
+        return out;
+      });
+
+      for (const result of results) {
+        if (!merged.has(result.purl)) merged.set(result.purl, result);
+      }
+    } catch {}
+  }
+  return [...merged.values()];
+}
+
 async function imageSearchCandidates(page, entry, deepReview = false) {
   if (!IMAGE_SEARCH_ENABLED) return [];
   const queries = deepReview
@@ -406,6 +449,89 @@ async function recoverEntry(browser, entry, deepReview = false) {
       return null;
     }
 
+    // Reverb sold listings are the preferred marketplace source for hard cases.
+    // Reverb's Sold Listings filter exposes previously sold listings, and Reverb
+    // requires listing photos to show the exact item being sold. Verify the listing
+    // identity first, then harvest its actual listing photos.
+    if (!selectedResult && IMAGE_SEARCH_ENABLED) {
+      const soldResults = await reverbSoldCandidates(page, entry, deepReview);
+      const verifiedSold = [];
+
+      for (const result of soldResults.slice(0, SEARCH_VERIFY_LIMIT)) {
+        const searchIdentity = normalizedIdentity((result.title || '') + ' ' + result.purl);
+        const pedalTokens = identityTokens(entry.pedal);
+        const builderTokens = identityTokens(entry.company);
+        const pedalHits = pedalTokens.filter(token => searchIdentity.includes(token)).length;
+        const builderHits = builderTokens.filter(token => searchIdentity.includes(token)).length;
+        const requiredHits = pedalTokens.length >= 2 ? 2 : 1;
+
+        if (pedalHits < requiredHits || builderHits < 1) continue;
+
+        try {
+          await page.goto(result.purl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+          await page.waitForTimeout(500);
+
+          const title = await page.title().catch(() => '');
+          const h1 = await page.locator('h1').first().textContent().catch(() => '');
+          const body = await page.locator('body').textContent().catch(() => '');
+          const identity = { title, h1, body };
+
+          if (!pageMatchesIdentity(entry, title + ' ' + body, h1)) continue;
+
+          const imageData = await page.evaluate(() => {
+            const urls = [];
+            for (const selector of [
+              'meta[property="og:image"]',
+              'meta[name="twitter:image"]'
+            ]) {
+              const value = document.querySelector(selector)?.getAttribute('content') || '';
+              if (value) urls.push(value);
+            }
+            for (const el of document.querySelectorAll('img, source')) {
+              urls.push(
+                el.currentSrc || '',
+                el.src || '',
+                el.getAttribute('data-src') || '',
+                el.getAttribute('data-lazy-src') || '',
+                el.getAttribute('data-original') || '',
+                el.getAttribute('srcset') || ''
+              );
+            }
+            return urls.filter(Boolean);
+          });
+
+          const before = networkImageUrls.length;
+          await page.waitForTimeout(700);
+          const networkUrls = networkImageUrls.slice(before);
+
+          for (const raw of [...imageData, ...networkUrls]) {
+            for (const part of String(raw).split(/\s+/)) {
+              try {
+                const url = /^https?:/i.test(part)
+                  ? part
+                  : new URL(part, result.purl).href;
+                if (/^https?:/i.test(url)) {
+                  verifiedSold.push({
+                    url,
+                    sourcePage: result.purl,
+                    sourceScore: 180,
+                    searchResult: false
+                  });
+                }
+              } catch {}
+            }
+          }
+        } catch {}
+      }
+
+      selectedResult = await tryImages(
+        [...new Map(verifiedSold.map(x => [x.url, x])).values()]
+          .sort((a, b) => b.sourceScore - a.sourceScore)
+      );
+    }
+
+    // If no sold Reverb listing yielded a usable image, fall back to general
+    // image search and other indexed web results.
     if (!selectedResult && IMAGE_SEARCH_ENABLED) {
       const searchResults = await imageSearchCandidates(page, entry, deepReview);
       const verifiedSearch = [];
