@@ -1123,7 +1123,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
       })
       .slice(0, HARD_CASE_SLOTS);
     const hardCases = highAttemptCases;
-    const freshPool = normalCandidates.length ? normalCandidates : deepCandidates;
+    // Fill the batch with fresh cases first, then use the remaining room for
+    // deep-review cases. Once the fresh backlog gets small, hard cases must not
+    // disappear from the queue.
+    const freshPool = normalCandidates.length
+      ? [...normalCandidates, ...deepCandidates]
+      : deepCandidates;
     const freshCases = freshPool.slice(0, freshSlots);
     const activePool = [...freshCases, ...hardCases]
       .filter((entry, index, pool) => pool.findIndex(x => key(x.company, x.pedal) === key(entry.company, entry.pedal)) === index);
