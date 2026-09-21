@@ -348,6 +348,11 @@ async function recoverEntry(browser, entry) {
       if (TARGET_BUILDER && String(x.company || '').trim() !== TARGET_BUILDER) return false;
       if (TARGET_PEDAL && String(x.pedal || '').trim() !== TARGET_PEDAL) return false;
       if (!x.research_record) return false;
+      // Bulk recovery is exclusively for records whose tracker photo field is
+      // still unresolved. Cleanup of already-complete records is handled only
+      // through an explicit targeted run, so the backlog cannot be starved.
+      const tracker = trackerMeta.get(key(x.company, x.pedal));
+      if (!TARGET_BUILDER && !TARGET_PEDAL && tracker?.pictureDone) return false;
       const canonical = target(x);
       // Bulk catch-up is driven by the canonical local archive state, not by
       // whether an old/external image URL happens to be present in the catalog.
@@ -360,9 +365,6 @@ async function recoverEntry(browser, entry) {
         const meta = trackerMeta.get(key(entry.company, entry.pedal));
         const order = meta?.order;
         let value = Number.isFinite(order) ? -order : -100000000;
-        // Give unresolved tracker photos priority over cleanup records that
-        // are already marked Picture=DONE but lack a canonical local file.
-        if (meta && !meta.pictureDone) value += 1000000;
         if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) value += 100;
         if (PRIORITY_COMPANY && String(entry.company || '').trim().toLowerCase() === PRIORITY_COMPANY) value += 100000;
         return value;
