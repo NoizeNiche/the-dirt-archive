@@ -1,5 +1,5 @@
 {
-  "version": "data-247c7f055061",
+  "version": "data-bc7f6bed9072",
   "count": 3819,
   "pedals": [
     {
@@ -11348,9 +11348,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/li-l-beaver-nyc/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-nyc.md"
+      "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-nyc.md",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/nycpainted_large.jpg",
+      "image_source_page": "https://stompboxschematics.com/circuits/lil-beaver-nyc-kit-by-build-your-own-clone-byoc/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11358,9 +11360,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/li-l-beaver-opamp/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-opamp.md"
+      "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-opamp.md",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/opamppainted_large.jpg",
+      "image_source_page": "https://stompboxschematics.com/circuits/lil-beaver-opamp-kit-by-build-your-own-clone-byoc/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11378,9 +11382,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/li-l-beaver-russian/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-russian.md"
+      "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-russian.md",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/russianpainted_79dc1c8c-4680-49ab-b4f7-fc28be971892_large.jpg",
+      "image_source_page": "https://stompboxschematics.com/circuits/lil-beaver-russian-kit-by-build-your-own-clone-byoc/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11398,9 +11404,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/li-l-breaker/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 130/li-l-breaker.md"
+      "research_record": "./research/pedals/PRP Batch 130/li-l-breaker.md",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/breakerpa_large.jpg",
+      "image_source_page": "https://stompboxschematics.com/circuits/lil-breaker-kit-by-build-your-own-clone-byoc/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11537,9 +11545,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/silver-pony/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc/silverpony",
-      "research_record": "./research/pedals/PRP Batch 131/silver-pony.md"
+      "research_record": "./research/pedals/PRP Batch 131/silver-pony.md",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/IMG_4169_large.jpg",
+      "image_source_page": "https://stompboxschematics.com/circuits/silver-pony-by-build-your-own-clone-byoc/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11591,9 +11601,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/yellow-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc/overdrive/yellow",
-      "research_record": "./research/pedals/PRP Batch 132/yellow-overdrive.md"
+      "research_record": "./research/pedals/PRP Batch 132/yellow-overdrive.md",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/yellowgroupo_large-453x300.jpeg",
+      "image_source_page": "https://stompboxschematics.com/circuits/yellow-overdrive-by-build-your-own-clone-byoc/"
     },
     {
       "company": "Bulinski Effect Pedals",
@@ -12376,9 +12388,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-43-pegasus/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp43",
-      "research_record": "./research/pedals/PRP Batch 141/cp-43-pegasus.md"
+      "research_record": "./research/pedals/PRP Batch 141/cp-43-pegasus.md",
+      "image_source_url": "http://verdana.guitarpusher.com/cdn/shop/products/CP-43_2_d55176d3-ff50-438b-9cfd-5ef2c1daaf82.jpg?v=1703755682",
+      "image_source_page": "https://verdana.guitarpusher.com/products/caline-cp-43-pegasus-klon-overdrive"
     },
     {
       "company": "Caline",
@@ -12386,9 +12400,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-46-fuzzy-bear/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp46",
-      "research_record": "./research/pedals/PRP Batch 141/cp-46-fuzzy-bear.md"
+      "research_record": "./research/pedals/PRP Batch 141/cp-46-fuzzy-bear.md",
+      "image_source_url": "http://myguitarshop.co.za/cdn/shop/products/Caline-CP-46-Fuzzy-Bear-Fuzz_5_1200x1200.jpg?v=1606901902",
+      "image_source_page": "https://myguitarshop.co.za/products/caline-cp-46-fuzzy-bear-fuzz"
     },
     {
       "company": "Caline",
@@ -12526,9 +12542,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-516-orange-burst/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/cp500/orangeburst",
-      "research_record": "./research/pedals/PRP Batch 142/cp-516-orange-burst.md"
+      "research_record": "./research/pedals/PRP Batch 142/cp-516-orange-burst.md",
+      "image_source_url": "http://globalvintage.com.au/cdn/shop/files/orangeburst_Caline.jpg?v=1740643092",
+      "image_source_page": "https://globalvintage.com.au/products/caline-cp-516-orange-burst-overdrive-versatile-boost-distortion-drive-pedal"
     },
     {
       "company": "Caline",
