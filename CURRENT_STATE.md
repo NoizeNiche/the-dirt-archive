@@ -123,6 +123,10 @@ All ten now have Pedal Info research records synchronized into the canonical ind
 
 # The Dirt Archive - Current State
 
+## Photo recovery scheduler maintenance - September 21, 2026
+
+The browser recovery queue was tightened so each bulk photo pass reserves up to **15 of its available slots for the highest-attempt deep-review cases**. Previously, a full batch of ordinary unresolved records could consume the entire run before hard cases were revisited. The remaining slots continue to prioritize the normal unresolved backlog. This keeps difficult records moving without allowing them to starve the rest of the photo catch-up.
+
 ## PRP1 Batch 155 checkpoint — September 20, 2026
 
 Batch 155 advanced **10 consecutive exact-order research records**: **Cat's Eye ESP - Hop Hed Fuzztone; Hybrid Fuzz; Mista' Fuzz; Mutha' Fuzz; Catalinbread Effects - Airstrip Console Pre; Antichthon; Carbide Distortion; Clean Little Secret; Crooner Preamp; and Dirty Little Secret**.
