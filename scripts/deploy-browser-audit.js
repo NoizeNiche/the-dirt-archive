@@ -18,6 +18,13 @@ const { chromium } = require('playwright');
             const browser = await chromium.launch({headless:true});
             const context = await browser.newContext({ viewport:{width:1440,height:1000} });
             const page = await context.newPage();
+            await context.route('**/research/PEDAL_INDEX.json*', async route => {
+              await route.fulfill({
+                status: 200,
+                contentType: 'application/json; charset=utf-8',
+                body: JSON.stringify(catalog)
+              });
+            });
             const consoleErrors=[];
             const pageErrors=[];
             page.on('console', msg => { if (msg.type()==='error') consoleErrors.push(msg.text()); });
@@ -26,14 +33,6 @@ const { chromium } = require('playwright');
             const catalogResponse = await page.request.get('http://127.0.0.1:4173/research/PEDAL_INDEX.json');
             if (!catalogResponse.ok()) throw new Error('Could not load the pedal index for browser audit.');
             const catalog = await catalogResponse.json();
-            const cachedCatalogBody = JSON.stringify(catalog);
-            await page.route('**/research/PEDAL_INDEX.json*', async route => {
-              await route.fulfill({
-                status: 200,
-                contentType: 'application/json; charset=utf-8',
-                body: cachedCatalogBody
-              });
-            });
             const allEntries = catalog.pedals || [];
             const publicEntries = allEntries.filter(x => x.catalog_role !== 'variation');
             const researchedParents = publicEntries.filter(x => x.research_record);
@@ -300,46 +299,73 @@ const { chromium } = require('playwright');
 
             // Every researched parent pedal still needs a readable detail page.
             await page.setViewportSize({width:1440,height:1000});
-            console.log('Auditing', researchedParents.length, 'researched parent pedal pages.');
-            for (const entry of researchedParents) {
-              const url =
-                'http://127.0.0.1:4173/pedal-detail.html?builder=' +
-                encodeURIComponent(entry.company) +
-                '&pedal=' +
-                encodeURIComponent(entry.pedal);
-              await page.goto(url, {waitUntil:'networkidle', timeout:20000});
-              await page.waitForFunction(() => {
-                const el = document.querySelector('#research');
-                return el &&
-                  el.textContent.trim().length > 40 &&
-                  !/loading pedal information|could not be loaded/i.test(el.textContent);
-              }, null, {timeout:20000});
+            console.log('Auditing', researchedParents.length, 'researched parent pedal pages with 6 workers.');
 
-              const result = await page.evaluate(() => {
-                const el = document.querySelector('#research');
-                const record = document.querySelector('#record');
-                const style = getComputedStyle(el);
-                const rect = el.getBoundingClientRect();
-                return {
-                  text: el.textContent.trim(),
-                  color: style.color,
-                  background: style.backgroundColor,
-                  width: rect.width,
-                  height: rect.height,
-                  recordVisible: !!record && !record.hidden
-                };
-              });
+            const workerCount = Math.min(6, Math.max(1, researchedParents.length));
+            let nextIndex = 0;
+            const auditFailures = [];
 
-              if (!result.recordVisible) throw new Error('Pedal detail record is hidden: ' + entry.company + ' / ' + entry.pedal);
-              if (result.text.length <= 40) throw new Error('Pedal Info is unexpectedly short: ' + entry.company + ' / ' + entry.pedal);
-              if (result.width < 200 || result.height < 40) throw new Error('Pedal Info container collapsed: ' + entry.company + ' / ' + entry.pedal);
+            async function auditResearchEntry(entry, workerId) {
+              const workerPage = await context.newPage();
+              workerPage.on('console', msg => { if (msg.type()==='error') consoleErrors.push('[worker '+workerId+'] '+msg.text()); });
+              workerPage.on('pageerror', err => pageErrors.push('[worker '+workerId+'] '+String(err)));
+              try {
+                const url =
+                  'http://127.0.0.1:4173/pedal-detail.html?builder=' +
+                  encodeURIComponent(entry.company) +
+                  '&pedal=' +
+                  encodeURIComponent(entry.pedal);
+                await workerPage.goto(url, {waitUntil:'networkidle', timeout:20000});
+                await workerPage.waitForFunction(() => {
+                  const el = document.querySelector('#research');
+                  return el &&
+                    el.textContent.trim().length > 40 &&
+                    !/loading pedal information|could not be loaded/i.test(el.textContent);
+                }, null, {timeout:20000});
 
-              const fg = luminance(rgb(result.color));
-              const bg = luminance(rgb(result.background));
-              const contrast = (Math.max(fg,bg)+0.05)/(Math.min(fg,bg)+0.05);
-              if (contrast < 4.5) {
-                throw new Error('Pedal Info text/background contrast is below threshold for ' + entry.company + ' / ' + entry.pedal + ': ' + contrast.toFixed(2));
+                const result = await workerPage.evaluate(() => {
+                  const el = document.querySelector('#research');
+                  const record = document.querySelector('#record');
+                  const style = getComputedStyle(el);
+                  const rect = el.getBoundingClientRect();
+                  return {
+                    text: el.textContent.trim(),
+                    color: style.color,
+                    background: style.backgroundColor,
+                    width: rect.width,
+                    height: rect.height,
+                    recordVisible: !!record && !record.hidden
+                  };
+                });
+
+                if (!result.recordVisible) throw new Error('Pedal detail record is hidden.');
+                if (result.text.length <= 40) throw new Error('Pedal Info is unexpectedly short.');
+                if (result.width < 200 || result.height < 40) throw new Error('Pedal Info container collapsed.');
+
+                const fg = luminance(rgb(result.color));
+                const bg = luminance(rgb(result.background));
+                const contrast = (Math.max(fg,bg)+0.05)/(Math.min(fg,bg)+0.05);
+                if (contrast < 4.5) {
+                  throw new Error('Pedal Info text/background contrast is below threshold: ' + contrast.toFixed(2));
+                }
+              } catch (error) {
+                auditFailures.push(entry.company + ' / ' + entry.pedal + ' -> ' + error.message);
+              } finally {
+                await workerPage.close();
               }
+            }
+
+            async function worker(workerId) {
+              while (true) {
+                const index = nextIndex++;
+                if (index >= researchedParents.length) return;
+                await auditResearchEntry(researchedParents[index], workerId);
+              }
+            }
+
+            await Promise.all(Array.from({length:workerCount}, (_, i) => worker(i + 1)));
+            if (auditFailures.length) {
+              throw new Error('Researched pedal detail audit failures: ' + auditFailures.join(' | '));
             }
 
             const actionableConsoleErrors = consoleErrors.filter(message => {
