@@ -1,5 +1,5 @@
 {
-  "version": "data-4485e4a177a4",
+  "version": "data-ec993b39a2d7",
   "count": 3819,
   "pedals": [
     {
@@ -5200,9 +5200,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/barber-electronics/ltd-v2/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Barber Electronics/LTD v2.md"
+      "research_record": "./research/pedals/Barber Electronics/LTD v2.md",
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/files/barber-effects-and-pedals-overdrive-and-boost-barber-ltd-v2-barber-ltd-v2-u6332716024-1095949345.jpg?v=1768238699&width=1946",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/barber-ltd-v2-2075669"
     },
     {
       "company": "Barber Electronics",
