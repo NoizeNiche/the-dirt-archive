@@ -697,7 +697,9 @@
     "pedal": "Great White 2",
     "source_page": "https://www.effectsdatabase.com/model/addplus/greatwhite/2",
     "research_record": "./research/pedals/Add+ Pedals/Great White 2.md",
-    "image": null
+    "image": "./assets/pedals/add-pedals/great-white-2/primary.webp",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--s8mvnB_k--/quality=medium-low,height=800,width=800,fit=contain/qrd2s18dsurqeeh4rvev.png",
+    "image_source_page": "https://reverb.com/p/ta-pedals-great-white-distortion"
   },
   {
     "builder": "Add+ Pedals",

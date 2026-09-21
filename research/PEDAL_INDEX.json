@@ -1,5 +1,5 @@
 {
-  "version": "data-43da1fe3c3a1",
+  "version": "data-3034fe97618c",
   "count": 3819,
   "pedals": [
     {
@@ -946,9 +946,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/add-pedals/great-white-2/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addplus/greatwhite/2",
-      "research_record": "./research/pedals/Add+ Pedals/Great White 2.md"
+      "research_record": "./research/pedals/Add+ Pedals/Great White 2.md",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--s8mvnB_k--/quality=medium-low,height=800,width=800,fit=contain/qrd2s18dsurqeeh4rvev.png",
+      "image_source_page": "https://reverb.com/p/ta-pedals-great-white-distortion"
     },
     {
       "company": "Add+ Pedals",
