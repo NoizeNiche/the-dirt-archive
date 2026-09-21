@@ -6,6 +6,7 @@ on:
     paths:
       - 'research/PRP_SYNC_QUEUE/**'
       - 'research/pedals/**'
+      - 'scripts/sync_prp_catalog.py'
   workflow_dispatch:
 
 permissions:
