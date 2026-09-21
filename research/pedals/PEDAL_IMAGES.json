@@ -812,10 +812,11 @@
   {
     "builder": "Addrock Musical Products",
     "pedal": "Boostmaster",
-    "image": "https://rvb-img.reverb.com/i/s--cPJtDBfl--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y7ha5ajkqtrfut0qr7gu.jpg",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/addrock_boostmaster_001.jpg",
     "source_page": "https://www.effectsdatabase.com/model/addrock/boostmaster",
     "research_record": "./research/pedals/Addrock Musical Products/Boostmaster.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/addrock/boostmaster"
+    "image_source_page": "https://www.effectsdatabase.com/model/addrock/boostmaster",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/addrock_boostmaster_001.jpg"
   },
   {
     "builder": "Addrock Musical Products",
@@ -829,10 +830,11 @@
   {
     "builder": "Addrock Musical Products",
     "pedal": "Hism Scism",
-    "image": "https://rvb-img.reverb.com/i/s--QvEfuoM3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/d3c694a8-8362-4daf-960e-5c5dd24ab972.jpg",
-    "image_source_page": "https://reverb.com/item/94436181-addrock-hism-scism-silicon-fuzz-pedal",
+    "image": "https://files.effectsdatabase.com/gear/thumbs/addrock_hismscism_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/addrock/hismscism",
     "research_record": "./research/pedals/Addrock Musical Products/Hism Scism.md",
-    "source_page": "https://reverb.com/item/94436181-addrock-hism-scism-silicon-fuzz-pedal"
+    "source_page": "https://reverb.com/item/94436181-addrock-hism-scism-silicon-fuzz-pedal",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/addrock_hismscism_001.jpg"
   },
   {
     "builder": "Addrock Musical Products",
