@@ -139,6 +139,8 @@ def main():
         raise SystemExit("Image download concurrency is not bounded at six workers.")
     if "Remaining tracker photo backlog" not in cache_image_script:
         raise SystemExit("Photo cache report is missing the remaining backlog count.")
+    if "site:effectsdatabase.com/model" not in photo_cache_script or "site:reverb.com/item" not in photo_cache_script:
+        raise SystemExit("Deep photo review is missing targeted Effects Database and Reverb searches.")
     if "function isReverbListingUrl" not in photo_cache_script:
         raise SystemExit("Browser photo cache is missing the shared Reverb listing URL matcher.")
     if r"\/(?:[a-z]{2}(?:-[a-z]{2})?)?\/item\/" not in photo_cache_script:
