@@ -1,3 +1,7 @@
+## Photo source seeding pass - September 21, 2026
+
+Seeded verified exact-model photo source pages into both `research/PEDAL_INDEX.json` and `research/pedals/PEDAL_IMAGES.json` for **Big Ear - Slice of Pie; Big Ear NYC - Black Betty; Big Ear NYC - Frank; Big Game Pedals - Bedlam Drive III; BIXONIC - AXENTRIX II; and BIXONIC - EXP2000DR**. These records remain photo-pending until the local cache workflow successfully archives the image. The six references were checked against the exact catalog identities and kept separate by Builder + Pedal.
+
 ## Photo Recovery / Architecture Checkpoint — September 21, 2026
 
 ## Photo recovery scheduler maintenance - September 21, 2026
