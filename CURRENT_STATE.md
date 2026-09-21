@@ -1,3 +1,15 @@
+## Full-site maintenance checkpoint - September 21, 2026 (current tracker state)
+
+Canonical tracker state now verified after the latest recovery/source-maintenance commits: **3,819 total / 3,818 public / 1,274 researched public / 903 pictured public / 903 fully complete public / 371 researched-photo-pending / 2,916 public photo-missing**.
+
+The active PRP1 gate is therefore **371 researched-photo-pending**. The photo review queue contains **371 unresolved researched-photo records**, with automatic recovery and deeper review both still active. The full photo backlog remains larger because it also includes records that still need both research and a photo.
+
+The recovery lane was strengthened with targeted deep-review searches for Effects Database, Reverb Sold Only, and RockBoard pedal records, while the structural validator now checks the review queue and derived photo backlog against the canonical tracker so those operational files cannot silently drift.
+
+PRP1 remains gated until researched-photo-pending reaches **0**.
+
+---
+
 ## Full-site maintenance checkpoint - September 21, 2026
 
 Canonical repository state verified after the latest maintenance and photo-cache work: **3,819 total catalog records / 3,818 public entries / 1,273 researched public entries / 896 pictured public entries / 896 complete public entries / 377 researched-photo-pending / 2,922 public photo-missing / 879 public local images / 17 public external image URLs**.
