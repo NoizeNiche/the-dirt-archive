@@ -188,14 +188,14 @@ A generated or derived file is never allowed to silently become authoritative me
 
 The browser layer is split into small responsibilities:
 
-- `assets/js/archive-core.js` owns the shared catalog contract, cache version, identity keying, escaping, URL construction, and catalog loading.
+- `assets/js/archive-core.js` owns the shared catalog contract, identity keying, escaping, URL construction, and catalog loading.
 - `assets/js/archive-index.js` owns only the landing-page filters, builder list, cards, search, and pagination.
 - `assets/js/archive-detail.js` owns only the individual pedal page, research rendering, versions, colorways, and demos.
 - `assets/css/archive-index.css` and `assets/css/archive-detail.css` hold presentation separately from page markup.
 
-The HTML pages are markup shells, not storage for application logic. The published catalog version has one source: `assets/js/archive-core.js`. `scripts/sync-public-data-version.py` updates that source together with `research/PEDAL_INDEX.json`.
+The HTML pages are markup shells, not storage for application logic. The public browser reads `research/PEDAL_INDEX.json` directly through the shared catalog loader, using a no-store request so the current catalog is not held behind a stale browser cache. There is no separate catalog-version synchronization script.
 
-The deployment workflow is orchestration only. Browser audits live in `scripts/deploy-browser-audit.js` and `scripts/live-photo-audit.js`. Structural rules live in one validator, `scripts/validate-archive.py`, which is also run by the dedicated validation workflow.
+The deployment workflow is orchestration only. Browser audits live in `scripts/deploy-browser-audit.js` and `scripts/live-photo-audit.js`; the local audit server lives in `scripts/serve-static.js`. Structural rules live in one validator, `scripts/validate-archive.py`, which is also run by the dedicated validation workflow.
 
 The intended public data flow is:
 
