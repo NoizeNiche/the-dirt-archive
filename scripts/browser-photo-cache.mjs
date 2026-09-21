@@ -95,20 +95,48 @@ function target(entry) {
   return path.join(ROOT, 'assets/pedals', slug(builder), slug(entry.pedal), 'primary.webp');
 }
 
-function identityTokens(pedal) {
-  const ignored = new Set(['the', 'and', 'with', 'distortion', 'overdrive', 'fuzz', 'crunch', 'drive', 'double', 'pro']);
-  return String(pedal || '')
+function normalizedIdentity(value) {
+  return String(value || '')
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function identityTokens(pedal) {
+  const ignored = new Set(['the', 'and', 'with', 'distortion', 'overdrive', 'fuzz', 'crunch', 'drive', 'double', 'pro']);
+  return normalizedIdentity(pedal)
     .split(/\s+/)
     .filter(Boolean)
-    .filter(token => token.length >= 4 && !ignored.has(token));
+    .filter(token => (token.length >= 4 || /\d/.test(token)) && !ignored.has(token));
+}
+
+function identityPhrases(pedal) {
+  const raw = String(pedal || '').trim();
+  const variants = new Set([
+    raw,
+    raw.split('(')[0].trim(),
+    raw.split(' - ')[0].trim()
+  ]);
+  return [...variants]
+    .map(normalizedIdentity)
+    .filter(value => value.length >= 5 && value.split(/\s+/).length >= 2);
 }
 
 function pageMatchesIdentity(entry, title, h1) {
-  const haystack = (title + ' ' + h1).toLowerCase().replace(/[^a-z0-9]+/g, ' ');
+  const haystack = normalizedIdentity(title + ' ' + h1);
+  const pedalPhrases = identityPhrases(entry.pedal);
+  const builderTokens = identityTokens(entry.company);
+  const builderMatch = !builderTokens.length || builderTokens.some(token => haystack.includes(token));
+
+  // Fast exact-phrase path for model names containing short tokens/codes
+  // such as OD-12, CP-25, A1, or X-Drive. Require builder context as well.
+  for (const phrase of pedalPhrases) {
+    if (haystack.includes(phrase) && builderMatch) return true;
+  }
+
   const tokens = identityTokens(entry.pedal);
-  return tokens.length ? tokens.every(token => haystack.includes(token)) : haystack.includes(slug(entry.pedal));
+  return tokens.length ? tokens.every(token => haystack.includes(token)) : haystack.includes(normalizedIdentity(entry.pedal));
 }
 
 async function extractDirectImage(page, url) {
