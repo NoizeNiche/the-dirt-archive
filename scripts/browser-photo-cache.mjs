@@ -1107,8 +1107,14 @@ async function recoverEntry(browser, entry, deepReview = false) {
     // time on stubborn deep-review cases. This keeps the archive moving toward
     // zero unresolved researched photos as quickly as possible. Once the ordinary
     // backlog is empty, the same scheduler automatically opens deep review.
-    const freshSlots = LIMIT;
-    const HARD_CASE_SLOTS = normalCandidates.length ? 0 : Math.min(15, LIMIT);
+    // Reserve a small, fixed part of every bulk run for the hardest cases.
+    // The previous selector could accidentally fill all LIMIT slots with fresh
+    // records before the high-attempt cases ever got selected. That made a
+    // stubborn pedal effectively wait forever while the queue stayed non-empty.
+    // Fifteen slots is enough to keep deep review moving without sacrificing the
+    // bulk of the run to one difficult corner of the archive.
+    const HARD_CASE_SLOTS = Math.min(15, LIMIT, deepCandidates.length);
+    const FRESH_CASE_SLOTS = Math.max(0, LIMIT - HARD_CASE_SLOTS);
     const highAttemptCases = [...deepCandidates]
       .sort((a, b) => {
         const aReview = reviewByKey.get(key(a.company, a.pedal));
@@ -1123,13 +1129,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
       })
       .slice(0, HARD_CASE_SLOTS);
     const hardCases = highAttemptCases;
-    // Fill the batch with fresh cases first, then use the remaining room for
-    // deep-review cases. Once the fresh backlog gets small, hard cases must not
-    // disappear from the queue.
+    // Fill the remaining slots with ordinary unresolved records. This keeps
+    // progress broad while guaranteeing that hard cases get revisited every run.
     const freshPool = normalCandidates.length
       ? [...normalCandidates, ...deepCandidates]
       : deepCandidates;
-    const freshCases = freshPool.slice(0, freshSlots);
+    const freshCases = freshPool.slice(0, FRESH_CASE_SLOTS);
     const activePool = [...freshCases, ...hardCases]
       .filter((entry, index, pool) => pool.findIndex(x => key(x.company, x.pedal) === key(entry.company, entry.pedal)) === index);
 
