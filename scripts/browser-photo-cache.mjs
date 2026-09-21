@@ -116,6 +116,33 @@ function pedalTokensForSearch(entry) {
   return identityTokens(entry.pedal);
 }
 
+async function fetchSearchPageIdentity(page, url) {
+  try {
+    const response = await page.request.get(url, { timeout: PAGE_TIMEOUT });
+    if (!response.ok()) return null;
+    const html = await response.text();
+    if (!html) return null;
+    const compact = html.slice(0, 300000);
+    const titleMatch = compact.match(/<title[^>]*>([\\s\\S]*?)<\\/title>/i);
+    const h1Match = compact.match(/<h1[^>]*>([\\s\\S]*?)<\\/h1>/i);
+    const strip = value => String(value || '')
+      .replace(/<script[\\s\\S]*?<\\/script>/gi, ' ')
+      .replace(/<style[\\s\\S]*?<\\/style>/gi, ' ')
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/&nbsp;/gi, ' ')
+      .replace(/&amp;/gi, '&')
+      .replace(/\\s+/g, ' ')
+      .trim();
+    return {
+      title: strip(titleMatch?.[1]),
+      h1: strip(h1Match?.[1]),
+      body: strip(compact)
+    };
+  } catch {
+    return null;
+  }
+}
+
 async function imageSearchCandidates(page, entry) {
   if (!IMAGE_SEARCH_ENABLED) return [];
   const query = `${entry.company} ${entry.pedal} guitar pedal`;
@@ -262,11 +289,19 @@ async function recoverEntry(browser, entry) {
         const requiredHits = pedalTokensForSearch(entry).length >= 2 ? 2 : 1;
         if (fit.score < 45 || fit.pedalHits < requiredHits || !result.purl || !result.murl) continue;
         try {
-          await page.goto(result.purl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
-          const title = await page.title().catch(() => '');
-          const h1 = await page.locator('h1').first().textContent().catch(() => '');
-          const body = await page.locator('body').textContent().catch(() => '');
-          if (!pageMatchesIdentity(entry, title + ' ' + body, h1)) continue;
+          // Verify search-result pages with a lightweight HTTP fetch first.
+          // This avoids opening a full Chromium page for every candidate and
+          // keeps the recovery pass moving without lowering the identity gate.
+          let identity = await fetchSearchPageIdentity(page, result.purl);
+          if (!identity) {
+            await page.goto(result.purl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+            identity = {
+              title: await page.title().catch(() => ''),
+              h1: await page.locator('h1').first().textContent().catch(() => ''),
+              body: await page.locator('body').textContent().catch(() => '')
+            };
+          }
+          if (!pageMatchesIdentity(entry, identity.title + ' ' + identity.body, identity.h1)) continue;
           verifiedSearch.push({
             url: result.murl,
             sourcePage: result.purl,
