@@ -219,6 +219,124 @@ async function fetchSearchPageIdentity(page, url) {
   }
 }
 
+function hostMatchesBuilder(url, company) {
+  try {
+    const host = new URL(url).hostname.toLowerCase();
+    const builder = normalizedIdentity(company);
+    const compactHost = host.replace(/[^a-z0-9]+/g, ' ');
+    const tokens = identityTokens(company);
+    return Boolean(
+      tokens.length && tokens.some(token => compactHost.includes(token))
+    ) || (builder.length >= 6 && compactHost.includes(builder.replace(/ /g, '')));
+  } catch {
+    return false;
+  }
+}
+
+async function makerWebCandidates(page, entry) {
+  const queries = [
+    '"' + entry.company + '" "' + entry.pedal + '"',
+    entry.company + ' ' + entry.pedal
+  ];
+  const merged = new Map();
+
+  for (const query of queries) {
+    const searchUrl = 'https://www.bing.com/search?q=' + encodeURIComponent(query);
+    try {
+      await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: SEARCH_TIMEOUT });
+      await page.waitForTimeout(180);
+
+      const results = await page.evaluate(() => {
+        const out = [];
+        for (const el of document.querySelectorAll('li.b_algo h2 a')) {
+          const href = el.href || '';
+          const title = (el.textContent || '').replace(/\s+/g, ' ').trim();
+          if (!/^https?:/i.test(href) || !title) continue;
+          const card = el.closest('li.b_algo');
+          const snippet = (card?.textContent || '').replace(/\s+/g, ' ').trim();
+          out.push({ purl: href.split('#')[0], title, snippet });
+        }
+        return out;
+      });
+
+      for (const result of results) {
+        if (!merged.has(result.purl)) merged.set(result.purl, result);
+      }
+    } catch {}
+  }
+
+  const ranked = [...merged.values()]
+    .map(result => {
+      const haystack = normalizedIdentity(result.title + ' ' + result.snippet + ' ' + result.purl);
+      const pedalTokens = identityTokens(entry.pedal);
+      const builderTokens = identityTokens(entry.company);
+      const pedalHits = pedalTokens.filter(token => haystack.includes(token)).length;
+      const builderHits = builderTokens.filter(token => haystack.includes(token)).length;
+      const exactPedal = normalizedIdentity(entry.pedal);
+      const exactBuilder = normalizedIdentity(entry.company);
+      let score = pedalHits * 15 + builderHits * 10;
+      if (exactPedal && haystack.includes(exactPedal)) score += 70;
+      if (exactBuilder && haystack.includes(exactBuilder)) score += 50;
+      if (hostMatchesBuilder(result.purl, entry.company)) score += 80;
+      return { result, score };
+    })
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 4);
+
+  const out = [];
+  for (const { result, score } of ranked) {
+    try {
+      const identity = await fetchSearchPageIdentity(page, result.purl);
+      if (!identity) continue;
+      if (!pageMatchesIdentity(entry, identity.title + ' ' + identity.body, identity.h1)) continue;
+
+      const imageData = await page.goto(result.purl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT })
+        .then(async () => {
+          await page.waitForTimeout(180);
+          return page.evaluate(() => {
+            const urls = [];
+            for (const selector of [
+              'meta[property="og:image"]',
+              'meta[name="twitter:image"]'
+            ]) {
+              const value = document.querySelector(selector)?.getAttribute('content') || '';
+              if (value) urls.push(value);
+            }
+            for (const el of document.querySelectorAll('img, source')) {
+              urls.push(
+                el.currentSrc || '',
+                el.src || '',
+                el.getAttribute('data-src') || '',
+                el.getAttribute('data-lazy-src') || '',
+                el.getAttribute('data-original') || '',
+                el.getAttribute('srcset') || ''
+              );
+            }
+            return urls.filter(Boolean);
+          });
+        });
+
+      for (const raw of imageData) {
+        for (const part of String(raw).split(/\s+/)) {
+          try {
+            const url = /^https?:/i.test(part)
+              ? part
+              : new URL(part, result.purl).href;
+            if (/^https?:/i.test(url)) {
+              out.push({
+                url,
+                sourcePage: result.purl,
+                sourceScore: 200 + Math.min(70, score)
+              });
+            }
+          } catch {}
+        }
+      }
+    } catch {}
+  }
+  return out;
+}
+
 async function reverbSoldCandidates(page, entry, deepReview = false) {
   if (!IMAGE_SEARCH_ENABLED) return [];
 
@@ -229,9 +347,7 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
   const queries = deepReview
     ? [
         entry.company + ' ' + entry.pedal,
-        '"' + entry.company + '" "' + entry.pedal + '"',
-        '"' + entry.pedal + '"',
-        entry.pedal
+        '"' + entry.pedal + '"'
       ]
     : [
         entry.company + ' ' + entry.pedal,
@@ -414,10 +530,8 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
     ? [
         '"' + entry.company + '" "' + entry.pedal + '" guitar pedal',
         '"' + entry.pedal + '" "' + entry.company + '" pedal',
-        '"' + entry.pedal + '" "' + entry.company + '" reverb',
         '"' + entry.pedal + '" guitar pedal',
-        entry.pedal + " pedal",
-        entry.company + " " + entry.pedal + " pedal"
+        entry.pedal + " pedal"
       ]
     : [entry.company + " " + entry.pedal + " guitar pedal"];
 
@@ -464,6 +578,14 @@ async function recoverEntry(browser, entry, deepReview = false) {
   try {
     const candidates = [];
     const pageUrl = entry.image_source_page || entry.source_page || null;
+
+    // Use the builder's own web presence first whenever the existing research
+    // source is not obviously hosted by the builder. This matches the archive's
+    // simple recovery ladder: maker first, then known pedal databases/marketplaces.
+    if (!pageUrl || !hostMatchesBuilder(pageUrl, entry.company)) {
+      const makerCandidates = await makerWebCandidates(page, entry);
+      candidates.push(...makerCandidates);
+    }
 
     if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) {
       candidates.push({
