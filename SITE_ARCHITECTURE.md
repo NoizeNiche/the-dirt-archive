@@ -152,3 +152,20 @@ A variation record keeps its `parent_pedal`, `variation_name`, and related ident
 The original remote image URL is retained separately as `image_source_url`, with `image_source_page` identifying the page used to verify the exact product. These fields are provenance, not public runtime dependencies.
 
 The internal `research/pedals/PEDAL_IMAGES.json` manifest mirrors the same local image path and provenance.
+## Implementation guardrails — September 21, 2026
+
+The browser layer is intentionally split into three small runtime files:
+
+- `assets/js/archive-core.js` owns the shared catalog contract, cache version, identity keying, escaping, URL construction, and catalog loading.
+- `assets/js/archive-index.js` owns only the landing-page filters, builder list, cards, search, and pagination.
+- `assets/js/archive-detail.js` owns only the individual pedal page, research rendering, versions, colorways, and demos.
+
+The page HTML files contain markup only. Their JavaScript and CSS are external assets so a visual or interaction change does not require editing a giant HTML file. The published catalog version is changed in one place only: `assets/js/archive-core.js`. The `sync-public-data-version.py` script updates that source and the JSON catalog together.
+
+A single structural validator, `scripts/validate-archive.py`, checks catalog identities, tracker synchronization, research-file links, relationship integrity, local photo paths, shared runtime wiring, legacy redirects, and JavaScript syntax. Deployment should call this validator rather than carry a second, drifting copy of the same data rules.
+
+The intended data flow is one-way:
+
+`research/PEDAL_INDEX.json → archive-core.js → page controller → rendered site`
+
+Internal research manifests and tracker files are operational records, not alternate public runtime sources. Changes that alter catalog identity, image identity, or research links must pass the structural validator before deployment.
