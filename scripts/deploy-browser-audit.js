@@ -315,18 +315,21 @@ const path = require('node:path');
               throw new Error('No-photo detail fallback is missing.');
             }
 
-            // Variation deep-link must resolve to its parent and preserve the variation notice.
+            // Variation deep-link must resolve to a real catalog parent and preserve the requested variation.
+            if (!variationCanary) throw new Error('Catalog does not contain a variation canary.');
             await page.goto(
               'http://127.0.0.1:4173/pedal-detail.html?builder=' +
-              encodeURIComponent('1981 Inventions') + '&pedal=' +
-              encodeURIComponent('DRV MOD 1 (WHITE)'),
+              encodeURIComponent(variationCanary.company) + '&pedal=' +
+              encodeURIComponent(variationCanary.pedal),
               {waitUntil:'networkidle'}
             );
-            if ((await page.locator('#name').textContent()).trim() !== 'DRV MOD 1') {
-              throw new Error('Variation deep-link did not resolve to its parent pedal.');
+            if ((await page.locator('#name').textContent()).trim() !== String(variationCanary.parent_pedal)) {
+              throw new Error('Variation deep-link did not resolve to its catalog parent pedal.');
             }
-            if (!(await page.locator('#variationNotice').textContent()).includes('White')) {
-              throw new Error('Variation deep-link did not preserve the White colorway notice.');
+            const variationNotice = await page.locator('#variationNotice').textContent();
+            const expectedVariationName = String(variationCanary.variation_name);
+            if (!variationNotice.includes(expectedVariationName)) {
+              throw new Error('Variation deep-link did not preserve the catalog variation name.');
             }
             const selectedColorway = page.locator('.colorwayCard.selected');
             if (await selectedColorway.count() !== 1) {
