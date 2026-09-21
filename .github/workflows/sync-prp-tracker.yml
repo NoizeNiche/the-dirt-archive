@@ -1,10 +1,6 @@
 name: Sync PRP tracker
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'research/PEDAL_INDEX.json'
   workflow_dispatch:
 
 permissions:

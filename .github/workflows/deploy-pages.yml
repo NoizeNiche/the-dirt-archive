@@ -2,12 +2,15 @@
 name: Deploy The Dirt Archive
 
 on:
-  # Publishing is deliberately serialized behind the photo-cache workflow.
-  # Every main push first runs Cache pedal images, which synchronizes research,
-  # verified photos, local assets, the manifest, and tracker before deployment.
+  # Publish after any workflow that can change the public catalog, photos,
+  # research records, or tracker state. Deployment validation remains the
+  # final gate before anything reaches GitHub Pages.
   workflow_dispatch:
   workflow_run:
-    workflows: ["Cache pedal images"]
+    workflows:
+      - "Cache pedal images"
+      - "PRP1 Atomic Intake"
+      - "Sync PRP catalog wiring"
     types: [completed]
 
 permissions:
