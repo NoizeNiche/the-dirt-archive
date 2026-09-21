@@ -16,7 +16,9 @@ permissions:
 
 concurrency:
   group: dirt-image-cache
-  cancel-in-progress: false
+  # A newer recovery pass starts from the latest main state. Cancel an older
+  # run so obsolete search logic cannot block the newest recovery improvements.
+  cancel-in-progress: true
 
 jobs:
   cache:
