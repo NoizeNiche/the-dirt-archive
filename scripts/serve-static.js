@@ -29,7 +29,7 @@ function send(res, status, body, headers = {}) {
 
 function resolveRequestPath(requestUrl) {
   const pathname = new URL(requestUrl, `http://127.0.0.1:${PORT}`).pathname;
-  let relative = decodeURIComponent(pathname.replace(/^\\/+/, ''));
+  let relative = decodeURIComponent(pathname.replace(/^\/+/, ''));
   if (!relative) relative = 'index.html';
 
   const filePath = path.resolve(ROOT, relative);
