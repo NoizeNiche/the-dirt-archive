@@ -1,3 +1,20 @@
+## Architecture Hardening Checkpoint - September 21, 2026
+
+The repository's maintenance model was simplified so responsibilities have one obvious owner.
+
+Current guardrails:
+- public catalog data has one authoritative source
+- public browser loading has one shared runtime
+- research wiring and tracker synchronization have separate owners
+- duplicate manifest-reconciliation automation was removed
+- local-photo completion now requires the declared local asset to exist
+- stale local photo declarations may be retried through the photo-recovery pipeline instead of being treated as valid archived files
+- deployment is push-driven after validation rather than being triggered independently by multiple maintenance workflows
+- structural validation remains a deployment blocker
+
+The detailed ownership map is in `SITE_ARCHITECTURE.md`. The exact changing photo/research counts remain at the top of this file below this maintenance checkpoint.
+
+
 ## Photo Recovery Checkpoint — September 21, 2026 (latest verified)
 
 Verified tracker state: **3,819 total / 1,269 researched / 856 pictured / 856 fully complete / 413 researched-photo-pending / 2,963 photo-missing overall**.

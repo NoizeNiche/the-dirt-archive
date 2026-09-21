@@ -1,3 +1,14 @@
+## Architecture Hardening Checkpoint - September 21, 2026
+
+Maintenance work consolidated the site's under-the-hood ownership model and removed overlapping automation. The public catalog remains the single runtime data source; research records, photo assets, tracker state, and synchronization scripts each have distinct responsibilities.
+
+A stale local photo declaration for **Cause & Effect Pedals (CE Pedals) - FET Dream** exposed the intended behavior: validators now stop deployment rather than silently serving a broken local path, while the photo-recovery system is responsible for repairing or triaging the record.
+
+Latest architecture hardening commit: `95f83e4a8733908ebda3fe19d1d43a95eb15a45f`.
+
+Continue from the current top checkpoint below after repository inspection.
+
+
 ## PRP1 Batch 158 checkpoint — September 20, 2026
 
 Batch 158 advanced **10 consecutive exact-order research records**: **Catalinbread Effects - Maxon 40th Anniversary Catalinbread Modified Overdrive (OD808-40C); Merkin Fuzz; Misnomer; Misnomer (Cabinet Series); Naga Viper; Perseus DIO; Perseus DIO (dry distortion section only; octave-down function excluded from census categorying); RAH; Sabbra Cadabra; and SFT**.
