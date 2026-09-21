@@ -161,7 +161,7 @@ def main():
             catalog_item["research_record"] = record
             catalog_changed += 1
 
-        manifest_item = manifest_by_key.get(key)
+        manifest_item = manifest_by_key.get(precise_key)
         if manifest_item is None:
             manifest_item = {
                 "builder": catalog_item.get("company"),
@@ -171,7 +171,7 @@ def main():
                 "research_record": record,
             }
             manifest.append(manifest_item)
-            manifest_by_key[key] = manifest_item
+            manifest_by_key[precise_key] = manifest_item
             manifest_added += 1
         else:
             if manifest_item.get("research_record") != record:
@@ -200,7 +200,7 @@ def main():
     # Clear stale research links from catalog entries that no longer have a
     # corresponding markdown record. This keeps the canonical catalog honest.
     for item in catalog_items:
-        key = (precise(item.get("company")), precise(item.get("pedal")))
+        item_key = (precise(item.get("company")), precise(item.get("pedal")))
         expected = resolve_record(item.get("company"), item.get("pedal"), item.get("research_record") or "")
         current = item.get("research_record") or ""
         if current != (expected or ""):
@@ -208,11 +208,11 @@ def main():
             catalog_changed += 1
 
     # Ensure every research markdown record has exactly one manifest link.
-    for key, record in precise_records.items():
-        item = catalog_by_key.get(key)
+    for precise_key, record in precise_records.items():
+        item = catalog_by_key.get(precise_key)
         if item is None:
             continue
-        manifest_item = manifest_by_key.get(key)
+        manifest_item = manifest_by_key.get(precise_key)
         if manifest_item is None:
             manifest.append({
                 "builder": item.get("company"),
@@ -221,7 +221,7 @@ def main():
                 "source_page": item.get("source_page"),
                 "research_record": record,
             })
-            manifest_by_key[key] = manifest[-1]
+            manifest_by_key[precise_key] = manifest[-1]
             manifest_added += 1
         elif manifest_item.get("research_record") != record:
             manifest_item["research_record"] = record
