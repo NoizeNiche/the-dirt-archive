@@ -268,6 +268,10 @@ const path = require('node:path');
             });
             if (!researchedResult.recordVisible || researchedResult.text.length <= 40) throw new Error('Researched pedal detail did not render Pedal Info.');
             if (researchedResult.width < 200 || researchedResult.height < 40) throw new Error('Pedal Info container collapsed.');
+            const detailBuilder = (await page.locator('#builder').textContent() || '').trim();
+            if (detailBuilder !== String(positiveEntry.company)) {
+              throw new Error('Pedal detail header is not showing the catalog-derived builder.');
+            }
             const fg = luminance(rgb(researchedResult.color));
             const bg = luminance(rgb(researchedResult.background));
             const contrast = (Math.max(fg,bg)+0.05)/(Math.min(fg,bg)+0.05);
