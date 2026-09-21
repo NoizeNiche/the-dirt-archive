@@ -1,7 +1,7 @@
 # 1981 Inventions — DRV MOD 2 HYPERFADE
 
 ## PRP identity
-- **Archive parent:** DRV MOD 2
+- **Archive parent:** DRV MOD 2 HYPERFADE
 - **Builder:** 1981 Inventions
 - **Catalog type:** Distortion
 - **Identity:** Hyperfade finish of the DRV MOD 2 circuit.
