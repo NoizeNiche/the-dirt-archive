@@ -3573,9 +3573,11 @@
   {
     "builder": "Baddy One Shoe Pedals",
     "pedal": "Wayfarer",
-    "image": null,
+    "image": "./assets/pedals/baddy-one-shoe-pedals/wayfarer/primary.webp",
     "source_page": "https://baddyoneshoe.blogspot.com/2011/05/hot-little-number.html",
-    "research_record": "./research/pedals/Baddy One Shoe Pedals/Wayfarer.md"
+    "research_record": "./research/pedals/Baddy One Shoe Pedals/Wayfarer.md",
+    "image_source_url": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tCTS_Fmzd8fpm4ziRzOfwgKkbE-ZycwBmSC-KPqDmr-qhTYmeHeIqgiH7yA2F2t9sRWaL7WD85RAn7QtJcPyPZkQJn4NF7S8E-EmvYX2dWD8El6f4JzUzs1XhYGM2wOp6osg=w1200-h630-p-k-no-nu",
+    "image_source_page": "https://baddyoneshoe.blogspot.com/2011/05/hot-little-number.html"
   },
   {
     "builder": "BAE Audio",
@@ -5529,10 +5531,12 @@
   {
     "builder": "BigNoise Amplification",
     "pedal": "Full Blast Overdrive",
-    "image": null,
+    "image": "./assets/pedals/bignoise-amplification/full-blast-overdrive/primary.webp",
     "source": "verified research source",
     "source_page": "https://bignoiseamplification.com/distortion/",
-    "research_record": "./research/pedals/PRP Batch 088/Full Blast Overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 088/Full Blast Overdrive.md",
+    "image_source_url": "https://bignoiseamplification.com/wp-content/uploads/2021/06/IMG_9860-Copy-small.jpg",
+    "image_source_page": "https://bignoiseamplification.com/distortion/"
   },
   {
     "builder": "Billionaire (by Danelectro)",
@@ -5545,10 +5549,12 @@
   {
     "builder": "Biltworth",
     "pedal": "BW-1",
-    "image": null,
+    "image": "./assets/pedals/biltworth/bw-1/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.premierguitar.com/biltworth-debuts-the-bw-1",
-    "research_record": "./research/pedals/PRP Batch 088/BW-1.md"
+    "research_record": "./research/pedals/PRP Batch 088/BW-1.md",
+    "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25739959&width=1200&height=600&coordinates=0%2C20%2C0%2C20",
+    "image_source_page": "https://www.premierguitar.com/biltworth-debuts-the-bw-1"
   },
   {
     "builder": "Bispell Audio",
@@ -5593,18 +5599,22 @@
   {
     "builder": "Bixonic",
     "pedal": "Axentrix II",
-    "image": null,
+    "image": "./assets/pedals/bixonic/axentrix-ii/primary.webp",
     "source": "verified research source",
     "source_page": "https://bixonic-sound.com/blogs/review/axentrix-ii-reveal-at-namm-2025",
-    "research_record": "./research/pedals/PRP Batch 088/Axentrix II.md"
+    "research_record": "./research/pedals/PRP Batch 088/Axentrix II.md",
+    "image_source_url": "http://bixonic-sound.com/cdn/shop/articles/AII32atnamm_small_520x500_f1759ecc-064f-4c5e-a5f1-b3cfd24e8544.png?v=1736838528",
+    "image_source_page": "https://bixonic-sound.com/blogs/review/axentrix-ii-reveal-at-namm-2025"
   },
   {
     "builder": "Bixonic",
     "pedal": "EXP2000DR Clean & Drive",
-    "image": null,
+    "image": "./assets/pedals/bixonic/exp2000dr-clean-drive/primary.webp",
     "source": "verified research source",
     "source_page": "https://bixonic-sound.com/products/exp2000dr",
-    "research_record": "./research/pedals/PRP Batch 088/EXP2000DR Clean & Drive.md"
+    "research_record": "./research/pedals/PRP Batch 088/EXP2000DR Clean & Drive.md",
+    "image_source_url": "http://bixonic-sound.com/cdn/shop/files/exp2000dr_07.jpg?v=1768892489",
+    "image_source_page": "https://bixonic-sound.com/products/exp2000dr"
   },
   {
     "builder": "BIXONIC",
