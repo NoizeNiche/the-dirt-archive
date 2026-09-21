@@ -11,6 +11,13 @@ on:
       - 'assets/**'
       - 'research/PEDAL_INDEX.json'
       - 'research/pedals/**'
+      - '.github/workflows/deploy-pages.yml'
+  workflow_run:
+    workflows:
+      - 'Cache pedal images'
+      - 'PRP1 Atomic Intake'
+      - 'Sync PRP catalog wiring'
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -20,10 +27,13 @@ permissions:
 
 concurrency:
   group: dirt-archive-deploy
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   deploy:
+    if: >-
+      github.event_name != 'workflow_run'
+      || github.event.workflow_run.conclusion == 'success'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
