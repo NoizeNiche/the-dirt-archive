@@ -2,6 +2,7 @@ Builder,Pedal,Catalog Type,Status,Attempts,Last Failure
 Animal Factory Amplification,Godeater+,Distortion,PHOTO_NEEDED,0,Awaiting automatic photo recovery attempt.
 Bixonic,Axentrix A1,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Caveman Audio / Skrydstrup,ODR2,,DEEP_REVIEW,1,no usable exact-model image candidate found
+CBC Pedals,Ampeg Scrambler,,DEEP_REVIEW,1,no usable exact-model image candidate found
 BIXONIC,AXENTRIX II,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Build Your Own Clone,Li'l Beaver (Ram's Head),,DEEP_REVIEW,4,no usable exact-model image candidate found
 Build Your Own Clone,Li'l Fuzz,,DEEP_REVIEW,4,no usable exact-model image candidate found
@@ -252,15 +253,6 @@ Cat's Eye ESP,Mista' Fuzz,,DEEP_REVIEW,7,no usable exact-model image candidate f
 Cave Passive Pedals,60's Break Up,,DEEP_REVIEW,7,no usable exact-model image candidate found
 Cave Passive Pedals,B-Drive Grunt,,DEEP_REVIEW,7,no usable exact-model image candidate found
 Cave Passive Pedals,Super Grunt,,DEEP_REVIEW,7,no usable exact-model image candidate found
-Aether Electronic,Lenore,Fuzz / Overdrive,DEEP_REVIEW,8,no usable exact-model image candidate found
-Alen Geere,Tube Fuzz,,DEEP_REVIEW,8,no usable exact-model image candidate found
-B85 Audio,Hrom - Bass Overdrive,,DEEP_REVIEW,8,no usable exact-model image candidate found
-Bias,Bias Over Drive,,DEEP_REVIEW,8,no usable exact-model image candidate found
-Big Ear,Woodcutter,,DEEP_REVIEW,8,no usable exact-model image candidate found
-Big Game Pedals,Everything is Alive - Modulated Resonant Fuzz,,DEEP_REVIEW,8,no usable exact-model image candidate found
-Bispell Audio,Proxy,,DEEP_REVIEW,8,no usable exact-model image candidate found
-Biyang,NM-2 New Metal,,DEEP_REVIEW,8,no usable exact-model image candidate found
-BJFE / BJF Electronics,Pink Purple Fuzz (PPF),,DEEP_REVIEW,8,no usable exact-model image candidate found
 Black Arts Toneworks,Revelation,,DEEP_REVIEW,8,no usable exact-model image candidate found
 Black Cat Pedals,N-Fuzz,,DEEP_REVIEW,8,no usable exact-model image candidate found
 Bob Burt Cabinets & Pedals,Bob Burt Overdrive,,DEEP_REVIEW,8,no usable exact-model image candidate found
@@ -282,12 +274,19 @@ Cat's Eye ESP,Hop Hed Fuzztone,,DEEP_REVIEW,8,no usable exact-model image candid
 Cave Passive Pedals,Blue Juice,,DEEP_REVIEW,8,no usable exact-model image candidate found
 Cave Passive Pedals,Mini Miff,,DEEP_REVIEW,8,no usable exact-model image candidate found
 Cave Passive Pedals,The Wasp,,DEEP_REVIEW,8,no usable exact-model image candidate found
-Cat's Eye ESP,Hybrid Fuzz,,DEEP_REVIEW,9,no usable exact-model image candidate found
-CatastroFX,Deface Mk.III,,DEEP_REVIEW,9,no usable exact-model image candidate found
-Carcharias Effects,Uncle 125 Bass Overdrive,,DEEP_REVIEW,10,no usable exact-model image candidate found
-CAT Sound,Dancing - Distortion,,DEEP_REVIEW,10,no usable exact-model image candidate found
-Baddy One Shoe Pedals,Infinity Drive,,DEEP_REVIEW,11,no usable exact-model image candidate found
-Bogner Amplification,Oxford,,DEEP_REVIEW,11,no usable exact-model image candidate found
+Aether Electronic,Lenore,Fuzz / Overdrive,DEEP_REVIEW,9,no usable exact-model image candidate found
+Alen Geere,Tube Fuzz,,DEEP_REVIEW,9,no usable exact-model image candidate found
+B85 Audio,Hrom - Bass Overdrive,,DEEP_REVIEW,9,no usable exact-model image candidate found
+Bias,Bias Over Drive,,DEEP_REVIEW,9,no usable exact-model image candidate found
+Big Ear,Woodcutter,,DEEP_REVIEW,9,no usable exact-model image candidate found
+Big Game Pedals,Everything is Alive - Modulated Resonant Fuzz,,DEEP_REVIEW,9,no usable exact-model image candidate found
+Bispell Audio,Proxy,,DEEP_REVIEW,9,no usable exact-model image candidate found
+Biyang,NM-2 New Metal,,DEEP_REVIEW,9,no usable exact-model image candidate found
+BJFE / BJF Electronics,Pink Purple Fuzz (PPF),,DEEP_REVIEW,9,no usable exact-model image candidate found
+Cat's Eye ESP,Hybrid Fuzz,,DEEP_REVIEW,10,no usable exact-model image candidate found
+CatastroFX,Deface Mk.III,,DEEP_REVIEW,10,no usable exact-model image candidate found
+Carcharias Effects,Uncle 125 Bass Overdrive,,DEEP_REVIEW,11,no usable exact-model image candidate found
+CAT Sound,Dancing - Distortion,,DEEP_REVIEW,11,no usable exact-model image candidate found
 Award-Session,JD10 Compact Jerry Donahue Sessionmaster,,PARKED,12,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
 Award-Session,JD10 MkII Direct Recording Guitar Amp Emulator,,PARKED,12,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
 Award-Session,JD20 Jerry Donahue Twin Channel Direct Recording Guitar PreAmp And Overdrive/Distortion Pedal,,PARKED,12,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
@@ -304,6 +303,7 @@ Axtar,DIS-5 Distortion,,PARKED,12,PARKED after 12 automatic photo attempts: no u
 Azor,AP-302 Distortion Guitar Effect Pedal,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Azor,Distortion Effect Pedal,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Azur,OVERDRIVE Effect Pedal,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
+Baddy One Shoe Pedals,Infinity Drive,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Baddy One Shoe Pedals,Punch & Grind,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Baltimore Sonic Research Institute,TFZ Fuzz,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Big Monk Electronic Device Co.,Monk Boost,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
@@ -312,6 +312,7 @@ Biyang,DS-12 Distortion,,PARKED,12,PARKED after 12 automatic photo attempts: no 
 Biyang,OD-8 X-Drive,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Black Arts Toneworks,Witch Burner MkII,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Blackhawk Amplifiers,Gandalf Fuzz,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
+Bogner Amplification,Oxford,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Bondi Effects,Del Mar Overdrive mk1,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Boulevard Effects,Darkship,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Brantone Electronics,Green Manalishi Overdrive,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
