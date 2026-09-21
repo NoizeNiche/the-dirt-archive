@@ -1494,7 +1494,8 @@
     "source": "TalkBass owner photograph",
     "source_page": "https://www.talkbass.com/threads/spector%C2%AE-owners-club.1066466/page-4737/",
     "research_record": "./research/pedals/Amptweaker/Bass_TightDrive_Jr.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/amptweaker/tightdrive/bass/jr"
+    "image_source_page": "https://www.premierguitar.com/amptweaker-introduces-the-bass-tightdrive-jr-bass-tightrock-jr-and-bass-tightmetal-jr",
+    "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25766315&width=1200&height=841"
   },
   {
     "builder": "Amptweaker",
@@ -1512,7 +1513,8 @@
     "source": "Sound House product image",
     "source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255395/",
     "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz_Jr.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/amptweaker/tightfuzz/bass/jr"
+    "image_source_page": "https://gearhero.com/products/used-amptweaker-bass-tightfuzz-jr",
+    "image_source_url": "http://gearhero.com/cdn/shop/products/ee1de0c2-a72b-4346-8eea-5d8555e43f93.jpg?v=1585255344"
   },
   {
     "builder": "Amptweaker",
@@ -1556,7 +1558,9 @@
     "image": "https://rvb-img.reverb.com/i/s--TrItPNro--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/pp1mhbc2fmkalbzg4tvt.jpg",
     "source": "Reverb product image",
     "source_page": "https://reverb.com/uk/p/amptweaker-blues-fuzz",
-    "research_record": "./research/pedals/Amptweaker/BluesFuzz.md"
+    "research_record": "./research/pedals/Amptweaker/BluesFuzz.md",
+    "image_source_url": "https://thetoneking.com/wp-content/uploads/2014/12/BluesFuzz.jpg",
+    "image_source_page": "https://thetoneking.com/amptweaker-bluesfuzz-limited-edition-pedal/"
   },
   {
     "builder": "Amptweaker",
@@ -2483,7 +2487,8 @@
     "image": "https://rvb-img.reverb.com/i/s--j81VRdN1--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qbr2rqvrkbjea9urcng2.jpg",
     "source_page": "https://arcaneanalog.bigcartel.com/product/arcane-analog-custom-fuzz-face",
     "research_record": "./research/pedals/PRP Batch 058/ARCANE ANALOG FF66 FUZZ FACE.md",
-    "image_source_page": "https://arcaneanalog.bigcartel.com/product/arcane-analog-custom-fuzz-face"
+    "image_source_page": "https://arcaneanalog.bigcartel.com/product/arcane-analog-custom-fuzz-face",
+    "image_source_url": "https://assets.bigcartel.com/product_images/264745511/2N1306+FF+1L.jpg?auto=format&fit=max&h=1200&w=1200"
   },
   {
     "builder": "Arcane Analog",
@@ -3790,7 +3795,9 @@
     "image": "https://rvb-img.reverb.com/i/s--cDPq7Bfx--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zewwglod5rl7ahwm3kcm.jpg",
     "source": "Reverb direct photograph",
     "source_page": "https://reverb.com/item/41397924-barber-b-custom-cool-overdrive-pedal",
-    "research_record": "./research/pedals/Barber Electronics/B-Custom_Cool.md"
+    "research_record": "./research/pedals/Barber Electronics/B-Custom_Cool.md",
+    "image_source_url": "https://www.tonetronix.com/mm5/graphics/00000001/b-cool.jpg",
+    "image_source_page": "https://www.tonetronix.com/p/Custom-Cool-Overdrive.html"
   },
   {
     "builder": "Barber Electronics",
@@ -4530,7 +4537,8 @@
     "source": "verified research source",
     "source_page": "https://reverb.com/item/96433533-bearfoot-fx-syod3-sparkling-yellow-overdrive-v3-bjf",
     "research_record": "./research/pedals/BearFoot FX/Sparkling Yellow Overdrive.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/bearfoot/sparklingyellowod/1"
+    "image_source_page": "https://toy-love.hatenablog.com/entry/20140911/1410441150",
+    "image_source_url": "http://hbb.afl.rakuten.co.jp/hgb/?pc=http:%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fninevolt%2fcabinet%2fkihon4%2fimg65148545.jpg%3f_ex%3d300x300&m=http:%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fninevolt%2fcabinet%2fkihon4%2fimg65148545.jpg%3f_ex%3d80x80"
   },
   {
     "builder": "BearFoot FX",
@@ -4869,11 +4877,12 @@
   {
     "builder": "Big Ear",
     "pedal": "Slice of Pie",
-    "image": null,
+    "image": "./assets/pedals/big-ear/slice-of-pie/primary.webp",
     "source": "verified research source",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 081/Slice of Pie.md",
-    "image_source_page": "https://www.bigearpedals.com/product-page/slice-of-pie-b-stock"
+    "image_source_page": "https://www.bigearpedals.com/product-page/slice-of-pie-b-stock",
+    "image_source_url": "https://static.wixstatic.com/media/8e3756_72ae51edcd3b4b099e593f3e9be90599~mv2.png/v1/fit/w_500,h_500,q_90/file.png"
   },
   {
     "builder": "Big Ear",
