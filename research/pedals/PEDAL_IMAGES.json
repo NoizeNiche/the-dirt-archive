@@ -5738,10 +5738,12 @@
   {
     "builder": "Biyang",
     "pedal": "DS-9 Distortion",
-    "image": null,
+    "image": "./assets/pedals/biyang/ds-9-distortion/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effects-pedals.info/p/biyang-ds-9-distortion/",
-    "research_record": "./research/pedals/PRP Batch 090/DS-9 Distortion.md"
+    "research_record": "./research/pedals/PRP Batch 090/DS-9 Distortion.md",
+    "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2023/03/biyang-tonefancier-ds-9-distortion-effects-pedal.jpg",
+    "image_source_page": "https://www.effects-pedals.info/p/biyang-ds-9-distortion/"
   },
   {
     "builder": "Biyang",
@@ -6460,9 +6462,11 @@
   {
     "builder": "Blackhawk Amplifiers",
     "pedal": "Pi π Fuzz",
-    "image": null,
+    "image": "./assets/pedals/blackhawk-amplifiers/pi-fuzz/primary.webp",
     "source_page": "https://www.blackhawkamplifiers.com/product/pi-fuzz-mkii",
-    "research_record": "./research/pedals/PRP Batch 101/Pi π Fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 101/Pi π Fuzz.md",
+    "image_source_url": "https://assets.bigcartel.com/product_images/467c7951-46e9-4125-93c7-d737e8044dfd/pi-fuzz-mkii.jpg?auto=format&fit=max&h=1200&w=1200",
+    "image_source_page": "https://www.blackhawkamplifiers.com/product/pi-fuzz-mkii"
   },
   {
     "builder": "Blackhawk Amplifiers",
@@ -6878,9 +6882,11 @@
   {
     "builder": "BMF Effects",
     "pedal": "The Godfather II Dual Overdrive",
-    "image": null,
+    "image": "./assets/pedals/bmf-effects/the-godfather-ii-dual-overdrive/primary.webp",
     "source_page": "https://www.bmfeffects.com/products/the-godfather-ii-dual-overdrive",
-    "research_record": "./research/pedals/PRP Batch 106/The Godfather II Dual Overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 106/The Godfather II Dual Overdrive.md",
+    "image_source_url": "http://www.bmfeffects.com/cdn/shop/files/TheGodfatherIIDualOverdrive_HeadOn.jpg?v=1687199302",
+    "image_source_page": "https://www.bmfeffects.com/products/the-godfather-ii-dual-overdrive"
   },
   {
     "builder": "BMF Effects",
@@ -6895,16 +6901,20 @@
   {
     "builder": "BMF Effects",
     "pedal": "The Great Wide Open Distortion",
-    "image": null,
+    "image": "./assets/pedals/bmf-effects/the-great-wide-open-distortion/primary.webp",
     "source_page": "https://www.bmfeffects.com/products/the-great-wide-open-distortion",
-    "research_record": "./research/pedals/PRP Batch 106/The Great Wide Open Distortion.md"
+    "research_record": "./research/pedals/PRP Batch 106/The Great Wide Open Distortion.md",
+    "image_source_url": "http://www.bmfeffects.com/cdn/shop/files/TheGreatWideOpenDistortion_HeadOn.jpg?v=1687199337",
+    "image_source_page": "https://www.bmfeffects.com/products/the-great-wide-open-distortion"
   },
   {
     "builder": "BMF Effects",
     "pedal": "Velvet Hammer Overdrive",
-    "image": null,
+    "image": "./assets/pedals/bmf-effects/velvet-hammer-overdrive/primary.webp",
     "source_page": "https://www.bmfeffects.com/products/velvet-hammer-overdrive",
-    "research_record": "./research/pedals/PRP Batch 106/Velvet Hammer Overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 106/Velvet Hammer Overdrive.md",
+    "image_source_url": "http://www.bmfeffects.com/cdn/shop/files/VelvetHammerOverdrive_HeadOn.jpg?v=1687199363",
+    "image_source_page": "https://www.bmfeffects.com/products/velvet-hammer-overdrive"
   },
   {
     "builder": "Bob Burt Cabinets & Pedals",
@@ -7002,9 +7012,11 @@
   {
     "builder": "Bondi Effects",
     "pedal": "Del Mar Overdrive mk2",
-    "image": null,
+    "image": "./assets/pedals/bondi-effects/del-mar-overdrive-mk2/primary.webp",
     "source_page": "https://bondieffects.com/products/del-mar-overdrive-mk2",
-    "research_record": "./research/pedals/PRP Batch 107/Del Mar Overdrive mk2.md"
+    "research_record": "./research/pedals/PRP Batch 107/Del Mar Overdrive mk2.md",
+    "image_source_url": "https://bondieffects.com/cdn/shop/products/Del-Mar_740x740.jpg?v=1664537989",
+    "image_source_page": "https://bondieffects.com/products/del-mar-overdrive-mk2"
   },
   {
     "builder": "Bondi Effects",
@@ -7041,23 +7053,29 @@
   {
     "builder": "Boo Instruments",
     "pedal": "BOO Overdrive",
-    "image": null,
+    "image": "./assets/pedals/boo-instruments/boo-overdrive/primary.webp",
     "source_page": "https://booinstruments.com/guitar-effects/distortion-overdrive-pedal-pro-guitar/",
-    "research_record": "./research/pedals/PRP Batch 108/BOO Overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 108/BOO Overdrive.md",
+    "image_source_url": "https://booinstruments.com/wp-content/uploads/2018/04/Boo-OD-Tube-Screamer-Guitar-Distortion-Overdrive-Effect-Pedal-Effects-Pedals-Drive-Best-Keeley-Mod-Ibanez-Maxon-TS808-TS9-Instruments-Made-In-England-7.jpg",
+    "image_source_page": "https://booinstruments.com/guitar-effects/distortion-overdrive-pedal-pro-guitar/"
   },
   {
     "builder": "Boo Instruments",
     "pedal": "KC Klon Centaur",
-    "image": null,
+    "image": "./assets/pedals/boo-instruments/kc-klon-centaur/primary.webp",
     "source_page": "https://booinstruments.com/guitar-effects/kc-klon-centaur/",
-    "research_record": "./research/pedals/PRP Batch 108/KC Klon Centaur.md"
+    "research_record": "./research/pedals/PRP Batch 108/KC Klon Centaur.md",
+    "image_source_url": "https://booinstruments.com/wp-content/uploads/2018/04/KC-Boo-Instruments-Klon-Centaur-Boost-Overdrive-Best-Clone-Boutique-Original-Effect-Pedal-Made-In-England-7.jpg",
+    "image_source_page": "https://booinstruments.com/guitar-effects/kc-klon-centaur/"
   },
   {
     "builder": "Boo Instruments",
     "pedal": "TS808 Overdrive (TS O/D)",
-    "image": null,
+    "image": "./assets/pedals/boo-instruments/ts808-overdrive-ts-o-d/primary.webp",
     "source_page": "https://booinstruments.com/ts808-row-landing/",
-    "research_record": "./research/pedals/PRP Batch 108/TS808 Overdrive TS OD.md"
+    "research_record": "./research/pedals/PRP Batch 108/TS808 Overdrive TS OD.md",
+    "image_source_url": "https://booinstruments.com/wp-content/uploads/2019/11/Tube-Screamer-Guitar-Distortion-Overdrive-Effect-Pedal-Effects-Pedals-Drive-Shop-Ibanez-Maxon-TS808-TS9-Made-In-England-8-1920x1440.jpg",
+    "image_source_page": "https://booinstruments.com/ts808-row-landing/"
   },
   {
     "builder": "Bookworm Effects",
@@ -7194,9 +7212,11 @@
   {
     "builder": "BOSS",
     "pedal": "BD-2 Blues Driver",
-    "image": null,
+    "image": "./assets/pedals/boss/bd-2-blues-driver/primary.webp",
     "source_page": "https://www.boss.info/global/products/bd-2/",
-    "research_record": "./research/pedals/PRP Batch 109/BD-2 Blues Driver.md"
+    "research_record": "./research/pedals/PRP Batch 109/BD-2 Blues Driver.md",
+    "image_source_url": "https://static.roland.com/assets/images/articles/thumbnails/avp_the_boss_bd-2_blues_driver_touchstone_tn.jpg",
+    "image_source_page": "https://www.boss.info/global/products/bd-2/"
   },
   {
     "builder": "BOSS",
@@ -7237,9 +7257,11 @@
   {
     "builder": "BOSS",
     "pedal": "DS-2 TURBO Distortion",
-    "image": null,
+    "image": "./assets/pedals/boss/ds-2-turbo-distortion/primary.webp",
     "source_page": "https://www.boss.info/us/products/ds-2/",
-    "research_record": "./research/pedals/PRP Batch 110/DS-2 TURBO Distortion.md"
+    "research_record": "./research/pedals/PRP Batch 110/DS-2 TURBO Distortion.md",
+    "image_source_url": "https://static.roland.com/assets/images/products/main/ds2_main.jpg",
+    "image_source_page": "https://www.boss.info/us/products/ds-2/"
   },
   {
     "builder": "BOSS",
@@ -7253,9 +7275,11 @@
   {
     "builder": "BOSS",
     "pedal": "FZ-5 Fuzz",
-    "image": null,
+    "image": "./assets/pedals/boss/fz-5-fuzz/primary.webp",
     "source_page": "https://www.boss.info/us/products/fz-5/",
-    "research_record": "./research/pedals/PRP Batch 110/FZ-5 Fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 110/FZ-5 Fuzz.md",
+    "image_source_url": "https://static.roland.com/assets/images/products/main/fz_5_top_main.jpg",
+    "image_source_page": "https://www.boss.info/us/products/fz-5/"
   },
   {
     "builder": "BOSS",
@@ -7269,9 +7293,11 @@
   {
     "builder": "BOSS",
     "pedal": "JB-2 Angry Driver",
-    "image": null,
+    "image": "./assets/pedals/boss/jb-2-angry-driver/primary.webp",
     "source_page": "https://www.boss.info/us/products/jb-2/",
-    "research_record": "./research/pedals/PRP Batch 110/JB-2 Angry Driver.md"
+    "research_record": "./research/pedals/PRP Batch 110/JB-2 Angry Driver.md",
+    "image_source_url": "https://static.roland.com/assets/images/articles/thumbnails/avp_the_boss_bd-2_blues_driver_touchstone_tn.jpg",
+    "image_source_page": "https://www.boss.info/us/products/jb-2/"
   },
   {
     "builder": "BOSS",
