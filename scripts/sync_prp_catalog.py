@@ -24,6 +24,11 @@ def norm(value):
     return re.sub(r"[^a-z0-9]+", "", value)
 
 
+def precise(value):
+    """Preserve meaningful case/punctuation while normalizing whitespace."""
+    return re.sub(r"\s+", " ", (value or "").strip())
+
+
 def md_record(path):
     text = path.read_text(encoding="utf-8", errors="replace")
     builder = re.search(r"^- \*\*Builder:\*\*\s*(.+)$", text, re.M)
@@ -34,27 +39,42 @@ def md_record(path):
     return b, p
 
 
-def build_record_map():
-    records = {}
-    collisions = []
+def build_record_maps():
+    """Build precise identities plus a loose fallback index.
+
+    Precise keys preserve real census distinctions such as capitalization,
+    plus signs, and other punctuation. The loose index is used only when it
+    resolves to exactly one research record.
+    """
+    precise_records = {}
+    loose_records = {}
+    duplicate_precise = []
+
     for path in sorted((ROOT / "research/pedals").rglob("*.md")):
         b, p = md_record(path)
         if not (b and p):
             continue
-        key = (norm(b), norm(p))
+        precise_key = (precise(b), precise(p))
+        loose_key = (norm(b), norm(p))
         record = "./" + path.as_posix()
-        previous = records.get(key)
+
+        previous = precise_records.get(precise_key)
         if previous and previous != record:
-            collisions.append((key, previous, record))
-        records[key] = record
-    if collisions:
-        details = "\n".join(f"{key}: {a} / {b}" for key, a, b in collisions[:20])
-        raise SystemExit("Duplicate normalized research identities:\n" + details)
-    return records
+            duplicate_precise.append((precise_key, previous, record))
+        else:
+            precise_records[precise_key] = record
+
+        loose_records.setdefault(loose_key, []).append(record)
+
+    if duplicate_precise:
+        details = "\n".join(f"{key}: {a} / {b}" for key, a, b in duplicate_precise[:20])
+        raise SystemExit("Duplicate precise research identities:\n" + details)
+
+    return precise_records, loose_records
 
 
 def main():
-    records = build_record_map()
+    precise_records, loose_records = build_record_maps()
 
     with TRACKER.open(newline="", encoding="utf-8") as handle:
         reader = csv.DictReader(handle)
@@ -70,18 +90,32 @@ def main():
     catalog_items = catalog.get("pedals", [])
 
     catalog_by_key = {
-        (norm(x.get("company")), norm(x.get("pedal"))): x
+        (precise(x.get("company")), precise(x.get("pedal"))): x
         for x in catalog_items
     }
     manifest_by_key = {
-        (norm(x.get("builder")), norm(x.get("pedal"))): x
+        (precise(x.get("builder")), precise(x.get("pedal"))): x
         for x in manifest
     }
 
     tracker_by_key = {
-        (norm(x.get("Builder")), norm(x.get("Pedal"))): x
+        (precise(x.get("Builder")), precise(x.get("Pedal"))): x
         for x in tracker_rows
     }
+
+    def resolve_record(builder, pedal, current_record=""):
+        exact = precise_records.get((precise(builder), precise(pedal)))
+        if exact:
+            return exact
+
+        loose = loose_records.get((norm(builder), norm(pedal)), [])
+        if len(loose) == 1:
+            return loose[0]
+
+        if current_record and current_record in loose:
+            return current_record
+
+        return None
 
     unmatched_records = []
     tracker_info_changed = 0
@@ -92,12 +126,24 @@ def main():
     manifest_added = 0
 
     # Wire every research markdown record that maps to a tracker/catalog identity.
-    for key, record in records.items():
-        tracker = tracker_by_key.get(key)
-        catalog_item = catalog_by_key.get(key)
+    for precise_key, record in precise_records.items():
+        tracker = tracker_by_key.get(precise_key)
+        catalog_item = catalog_by_key.get(precise_key)
+
         if tracker is None or catalog_item is None:
-            unmatched_records.append((key, record, tracker is not None, catalog_item is not None))
-            continue
+            # Precise lookup can miss harmless formatting changes, so try a
+            # unique loose identity before reporting the record as unmatched.
+            loose_key = (norm(precise_key[0]), norm(precise_key[1]))
+            loose = loose_records.get(loose_key, [])
+            if len(loose) != 1:
+                unmatched_records.append((precise_key, record, tracker is not None, catalog_item is not None))
+                continue
+            record = loose[0]
+            tracker = tracker_by_key.get(precise_key)
+            catalog_item = catalog_by_key.get(precise_key)
+            if tracker is None or catalog_item is None:
+                unmatched_records.append((precise_key, record, tracker is not None, catalog_item is not None))
+                continue
 
         if tracker.get("Pedal Info") != "DONE":
             tracker["Pedal Info"] = "DONE"
@@ -135,8 +181,10 @@ def main():
     # Re-derive tracker research/completion flags from the actual research files.
     # Never change Picture here.
     for row in tracker_rows:
-        key = (norm(row.get("Builder")), norm(row.get("Pedal")))
-        record = records.get(key)
+        builder = row.get("Builder")
+        pedal = row.get("Pedal")
+        current = row.get("Research Record") or ""
+        record = resolve_record(builder, pedal, current)
         expected_info = bool(record)
         expected_complete = "DONE" if expected_info and row.get("Picture") == "DONE" else "NEEDED"
         if (row.get("Pedal Info") == "DONE") != expected_info:
@@ -152,15 +200,15 @@ def main():
     # Clear stale research links from catalog entries that no longer have a
     # corresponding markdown record. This keeps the canonical catalog honest.
     for item in catalog_items:
-        key = (norm(item.get("company")), norm(item.get("pedal")))
-        expected = records.get(key)
+        key = (precise(item.get("company")), precise(item.get("pedal")))
+        expected = resolve_record(item.get("company"), item.get("pedal"), item.get("research_record") or "")
         current = item.get("research_record") or ""
         if current != (expected or ""):
             item["research_record"] = expected or ""
             catalog_changed += 1
 
     # Ensure every research markdown record has exactly one manifest link.
-    for key, record in records.items():
+    for key, record in precise_records.items():
         item = catalog_by_key.get(key)
         if item is None:
             continue
@@ -204,7 +252,7 @@ def main():
         f"{complete} complete. "
         f"Tracker research changes={tracker_info_changed}, record changes={tracker_record_changed}, "
         f"complete changes={tracker_complete_changed}, catalog changes={catalog_changed}, "
-        f"manifest changes={manifest_changed + manifest_added}, research files={len(records)}."
+        f"manifest changes={manifest_changed + manifest_added}, research files={len(precise_records)}."
     )
 
 
