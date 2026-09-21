@@ -787,36 +787,55 @@ async function recoverEntry(browser, entry, deepReview = false) {
     async function screenshotVerifiedSourcePageImage(sourcePage) {
       if (!sourcePage) return null;
       try {
+        const parsedSource = new URL(sourcePage);
+        const isReverbListing = /(^|\\.)reverb\\.com$/i.test(parsedSource.hostname) && /\\/item\\//i.test(parsedSource.pathname);
         await page.goto(sourcePage, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
-        await page.waitForTimeout(/(^|\.)reverb\.com$/i.test(new URL(sourcePage).hostname) ? 900 : 350);
+        await page.waitForTimeout(isReverbListing ? 1400 : 350);
 
-        const imageSelectors = await page.evaluate(() => {
+        if (isReverbListing) {
+          await page.mouse.wheel(0, 900);
+          await page.waitForTimeout(450);
+        }
+
+        const pedalTokens = identityTokens(entry.pedal);
+        const imageSelectors = await page.evaluate((tokens) => {
           const candidates = [];
           for (const img of document.querySelectorAll('img')) {
             const rect = img.getBoundingClientRect();
             const src = img.currentSrc || img.src || '';
-            const alt = (img.alt || '').toLowerCase();
-            const hint = src.toLowerCase() + ' ' + alt;
+            const alt = String(img.alt || '').toLowerCase();
+            const hint = (src + ' ' + alt).toLowerCase();
             if (!src || src.startsWith('data:')) continue;
             if (/(logo|avatar|icon|sprite|favicon|banner)/i.test(hint)) continue;
-            const width = Math.max(rect.width, Number(img.naturalWidth) || 0);
-            const height = Math.max(rect.height, Number(img.naturalHeight) || 0);
-            if (width < 180 || height < 180) continue;
-            candidates.push({ src, area: width * height });
-          }
-          return candidates
-            .sort((a, b) => b.area - a.area)
-            .slice(0, 4)
-            .map(x => x.src);
-        });
 
+            const visibleWidth = Math.max(rect.width, Number(img.naturalWidth) || 0);
+            const visibleHeight = Math.max(rect.height, Number(img.naturalHeight) || 0);
+            if (visibleWidth < 140 || visibleHeight < 140) continue;
+
+            const normalized = hint.replace(/[^a-z0-9]+/g, ' ');
+            const tokenHits = tokens.filter(token => normalized.includes(token)).length;
+            const area = visibleWidth * visibleHeight;
+            candidates.push({
+              src,
+              score: tokenHits * 100000000 + area
+            });
+          }
+
+          return candidates
+            .sort((a, b) => b.score - a.score)
+            .slice(0, 6)
+            .map(x => x.src);
+        }, pedalTokens);
+
+        const matches = page.locator('img');
+        const count = await matches.count();
         for (const src of imageSelectors) {
-            const matches = page.locator('img');
-          const count = await matches.count();
           for (let i = 0; i < count; i++) {
             const img = matches.nth(i);
             const currentSrc = await img.evaluate(el => el.currentSrc || el.src || '').catch(() => '');
             if (currentSrc !== src) continue;
+            await img.scrollIntoViewIfNeeded().catch(() => {});
+            await page.waitForTimeout(120);
             const bytes = await img.screenshot({ type: 'png' }).catch(() => null);
             if (bytes && bytes.length >= 3000) {
               return { bytes, src };
