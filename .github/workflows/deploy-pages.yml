@@ -52,6 +52,11 @@ jobs:
       - name: Validate archive structure
         run: python scripts/validate-archive.py
 
+      - name: Setup Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 20
+
       - name: Cache deploy Playwright browser
         uses: actions/cache@v6
         with:
