@@ -1,3 +1,13 @@
+## Landing-page count checkpoint - September 21, 2026
+
+The landing-page “All builders” count now respects the active search term as well as the selected dirt type. The browser audit now checks that the filtered All-builders count remains consistent with the rendered search results.
+
+Latest checkpoint: **4f12fca0f247d9a70f6cee9c3fe07cd2f8e81f3**.
+
+Photo recovery remains the active gate at the latest verified **378 researched-photo-pending** records. PRP1 remains gated until that reaches **0**.
+
+---
+
 ## Deployment trigger checkpoint - September 21, 2026
 
 Deployment now watches `scripts/deploy-browser-audit.js`, `scripts/serve-static.js`, `scripts/live-photo-audit.js`, and `scripts/validate-archive.py`. The structural validator also requires those operational scripts to appear in the deployment trigger list, preventing CI behavior changes from being silently ignored.
