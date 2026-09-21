@@ -8064,9 +8064,11 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-arts-toneworks/destroyer/primary.webp",
       "source_page": "https://www.blackartstoneworks.com/pedal/destroyer/",
-      "research_record": "./research/pedals/PRP Batch 094/Destroyer.md"
+      "research_record": "./research/pedals/PRP Batch 094/Destroyer.md",
+      "image_source_url": "https://img.audiofanzine.com/images/u/product/normal/black-arts-toneworks-destroyer-200610.jpg",
+      "image_source_page": "https://en.audiofanzine.com/other-guitar-saturation-effect/black-arts-toneworks/destroyer/medias/pictures/"
     },
     {
       "company": "Black Arts Toneworks",
@@ -9223,9 +9225,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bmf-effects/rocket-88-overdrive/primary.webp",
       "source_page": "https://reverb.com/item/76398570-bmf-effects-rocket-88-overdrive",
-      "research_record": "./research/pedals/PRP Batch 105/Rocket 88 Overdrive.md"
+      "research_record": "./research/pedals/PRP Batch 105/Rocket 88 Overdrive.md",
+      "image_source_url": "http://deathcloud.com/cdn/shop/files/BMFEffectsRocket88OverdrivePedalMain.jpg?v=1720650958",
+      "image_source_page": "https://deathcloud.com/products/bmf-effects-rocket-88-overdrive-pedal"
     },
     {
       "company": "BMF Effects",
