@@ -202,7 +202,11 @@ function pageMatchesIdentity(entry, title, h1) {
   }
 
   const tokens = identityTokens(entry.pedal);
-  return tokens.length ? tokens.every(token => haystack.includes(token)) : haystack.includes(normalizedIdentity(entry.pedal));
+  return builderMatch && (
+    tokens.length
+      ? tokens.every(token => haystack.includes(token))
+      : haystack.includes(normalizedIdentity(entry.pedal))
+  );
 }
 
 async function extractDirectImage(page, url) {
