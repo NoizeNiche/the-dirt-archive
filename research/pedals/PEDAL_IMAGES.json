@@ -3090,9 +3090,11 @@
   {
     "builder": "Awestruck Amplification",
     "pedal": "Metro",
-    "image": null,
+    "image": "./assets/pedals/awestruck-amplification/metro/primary.webp",
     "source_page": "https://www.awestruckamps.com/product/metro-organic-overdrive/",
-    "research_record": "./research/pedals/Awestruck Amplification/Metro.md"
+    "research_record": "./research/pedals/Awestruck Amplification/Metro.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--es6zDaGs--/quality=medium-low,height=800,width=800,fit=contain/ir8wp6nkfhmppjb5e59j.jpg",
+    "image_source_page": "https://reverb.com/item/88461414-awestruck-amplification-metro-organic-overdrive"
   },
   {
     "builder": "AWOL Pedals",
