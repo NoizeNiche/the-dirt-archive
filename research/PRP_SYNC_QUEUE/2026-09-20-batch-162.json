@@ -1,0 +1,6 @@
+{
+  "purpose": "PRP1 metadata synchronization checkpoint",
+  "batch": 162,
+  "tracker_start": "CatastroFX,Deface Mk.III",
+  "note": "Wire all consecutive researched records currently present through The Screamer into PEDAL_INDEX.json, PEDAL_IMAGES.json, and PRP_TRACKER.csv without changing photo status."
+}

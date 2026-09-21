@@ -1,0 +1,35 @@
+name: Sync PRP catalog wiring
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'research/PRP_SYNC_QUEUE/**'
+      - 'research/pedals/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Synchronize research records into tracker, catalog, and photo manifest
+        run: python scripts/sync_prp_catalog.py
+
+      - name: Persist synchronization
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/PRP_TRACKER.csv research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json
+          if git diff --cached --quiet; then
+            echo "PRP metadata already synchronized."
+          else
+            git commit -m "PRP1: Synchronize research record wiring"
+            git push
+          fi
