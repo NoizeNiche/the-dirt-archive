@@ -1,3 +1,13 @@
+## Site architecture checkpoint - September 21, 2026
+
+The deployment audit server is now owned by `scripts/serve-static.js` instead of being embedded in the GitHub Actions workflow. The workflow calls the script, the structural validator requires it and checks its syntax, and deployment watches the script for changes. This removes another duplicated CI-side implementation and keeps the site's operational ownership explicit.
+
+Latest architecture commits: **4a9e37f02edba5da7ef3b13851cdb4a59e473222**, **832dd56be9eb1d18c15671f089099628875c86e8**, and **792393ceaa68365ea6ef32e506c5efc4978b2df1**.
+
+Photo recovery remains the active gate at the latest verified **378 researched-photo-pending** records. PRP1 remains gated until that reaches **0**.
+
+---
+
 ## Site maintenance checkpoint - September 21, 2026
 
 The latest mainline maintenance work is now committed at **20bb9c998c9714994bfdb4bbd7535eca5f69a523**. The individual pedal page research loader now uses a more reliable request path with retries, research-record paths are normalized safely, and the browser audit can serve local research markdown during its test run.
