@@ -8087,7 +8087,7 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/lstr/",
       "research_record": "./research/pedals/PRP Batch 094/LSTR.md",
-      "image_source_page": "https://www.coda-music.com/black-arts-toneworks-lstr.html"
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/lstr/"
     },
     {
       "company": "Black Arts Toneworks",
@@ -12748,7 +12748,8 @@
       ],
       "image": null,
       "source_page": "https://www.rockboard.de/en/pedalPedia/Caline/CP-74-Action-Replay/68976435/",
-      "research_record": "./research/pedals/PRP Batch 143/cp-74-action-replay-dyna-red-distortion.md"
+      "research_record": "./research/pedals/PRP Batch 143/cp-74-action-replay-dyna-red-distortion.md",
+      "image_source_page": "https://reverb.com/ie/item/41483226-caline-cp-74-action-replay-distortion-dyna-red-sound"
     },
     {
       "company": "Caline",
