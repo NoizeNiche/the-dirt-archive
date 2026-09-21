@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **2**
+- Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **0**
 
@@ -13,6 +13,7 @@
 
 ## Newly cached
 
-- Cave Passive Pedals - Grunt -> `./assets/pedals/cave-passive-pedals/grunt/primary.webp`
+- Biyang - BL-8 Blue -> `./assets/pedals/biyang/bl-8-blue/primary.webp`
+- Biyang - FZ-7 Fuzz -> `./assets/pedals/biyang/fz-7-fuzz/primary.webp`
 
 All pictured pedal images are locally cached.

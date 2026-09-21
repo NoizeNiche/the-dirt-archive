@@ -7586,9 +7586,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/biyang/bl-8-blue/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/bl8",
-      "research_record": "./research/pedals/PRP Batch 089/BL-8 Blue.md"
+      "research_record": "./research/pedals/PRP Batch 089/BL-8 Blue.md",
+      "image_source_url": "https://rockstockstores.com/wp-content/uploads/2022/09/vu2p4qe7dd4bbeduvhf3-600x651.jpg",
+      "image_source_page": "https://rockstockstores.com/product/biyang-tonefancier-bl-8-blue-overdrive/"
     },
     {
       "company": "Biyang",
@@ -7684,9 +7686,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/biyang/fz-7-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/fz7",
-      "research_record": "./research/pedals/PRP Batch 090/FZ-7 Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 090/FZ-7 Fuzz.md",
+      "image_source_url": "https://img.audiofanzine.com/images/u/product/normal/biyang-fz-7-fuzz-88586.jpg",
+      "image_source_page": "https://en.audiofanzine.com/fuzz-pedal/biyang/fz-7-fuzz/"
     },
     {
       "company": "Biyang",
