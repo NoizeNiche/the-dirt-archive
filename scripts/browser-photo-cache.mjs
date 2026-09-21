@@ -342,18 +342,17 @@ async function linkedExactSourceCandidates(page, entry, sourcePageUsed, deepRevi
     }
     return [...new Map(out.map(x => [x.href, x])).values()]
       .sort((a, b) => b.score - a.score)
-      .slice(0, 5);
+      .slice(0, 2);
   }, { pedalTokens, builderTokens });
 
   const out = [];
   for (const link of links) {
-    const identity = await fetchSearchPageIdentity(page, link.href);
-    if (!identity) continue;
-    if (!pageMatchesIdentity(entry, identity.title + ' ' + identity.body, identity.h1)) continue;
-
     try {
+      // Go directly to the candidate page once, then verify the rendered page.
+      // This removes a duplicate HTTP fetch that was making deep-review passes
+      // spend most of their time on sources that were ultimately rejected.
       await page.goto(link.href, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
-      await page.waitForTimeout(350);
+      await page.waitForTimeout(250);
       const title = await page.title().catch(() => '');
       const h1 = await page.locator('h1').first().textContent().catch(() => '');
       const body = await page.locator('body').textContent().catch(() => '');
