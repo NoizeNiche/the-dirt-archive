@@ -1,3 +1,14 @@
+## Photo Recovery / Architecture Checkpoint — September 21, 2026
+
+Current verified tracker state: **3,819 total / 1,274 researched / 865 pictured / 865 fully complete / 409 researched-photo-pending**.
+
+The photo cache successfully completed its bounded recovery pass. A stale local declaration for **Cause & Effect Pedals (CE Pedals) - FET Dream** was identified and removed from the catalog/manifest because the referenced archive file did not exist; its provenance remains queued for future recovery.
+
+PRP1 is intentionally gated until the researched-photo-pending count reaches **0**.
+
+Latest maintenance commits:
+- `51cf11e4eae0a662f708d62c1db1f56a21158469` cleared the stale FET Dream local-photo declaration.
+- `b5a9837eac2de3f195cdba57c8b69903f2e1b818` completed the prior bounded cache pass and synchronized tracker/photo-review state.
 ## Architecture Hardening Checkpoint - September 21, 2026
 
 Maintenance work consolidated the site's under-the-hood ownership model and removed overlapping automation. The public catalog remains the single runtime data source; research records, photo assets, tracker state, and synchronization scripts each have distinct responsibilities.

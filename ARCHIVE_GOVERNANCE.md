@@ -90,7 +90,7 @@ Work in verified batches of 10 pedals, or as many as can be responsibly complete
 
 A pedal is PRP Complete only when it has both pedal information and a confirmed picture of that exact pedal/version.
 
-The historical checkpoint above is retained as project history. The current PRP checkpoint is **3,821 total / 855 researched / 285 pictured / 285 fully complete / 3,536 incomplete**, with **570** researched pedals waiting only for confirmed pictures. The active PRP1 target is **BOSS - ML-2 Metal Core**.
+The historical checkpoint above is retained as project history. The current PRP counts and target are maintained in **CURRENT_STATE.md** so this governance file does not become a second status ledger.
 
 
 

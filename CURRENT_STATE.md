@@ -1,20 +1,10 @@
-## Architecture Hardening Checkpoint - September 21, 2026
+## Photo Recovery Checkpoint — September 21, 2026 (latest verified)
 
-The repository's maintenance model was simplified so responsibilities have one obvious owner.
+Verified tracker state: **3,819 total / 1,274 researched / 865 pictured / 865 fully complete / 409 researched-photo-pending / 2,954 photo-missing overall**.
 
-Current guardrails:
-- public catalog data has one authoritative source
-- public browser loading has one shared runtime
-- research wiring and tracker synchronization have separate owners
-- duplicate manifest-reconciliation automation was removed
-- local-photo completion now requires the declared local asset to exist
-- stale local photo declarations may be retried through the photo-recovery pipeline instead of being treated as valid archived files
-- deployment is push-driven after validation rather than being triggered independently by multiple maintenance workflows
-- structural validation remains a deployment blocker
+The latest completed cache pass repaired the catalog/tracker mismatch around **Cause & Effect Pedals (CE Pedals) - FET Dream** by removing its nonexistent local image declaration while preserving its research record and source provenance. The same pass advanced the verified picture count to **865**. PRP1 remains gated until **researched-photo-pending reaches 0**.
 
-The detailed ownership map is in `SITE_ARCHITECTURE.md`. The exact changing photo/research counts remain at the top of this file below this maintenance checkpoint.
-
-
+Public pedal pages keep **Research confidence** and **Sources checked** hidden. The future YouTube demo widget remains deferred until after the photo catch-up.
 ## Photo Recovery Checkpoint — September 21, 2026 (latest verified)
 
 Verified tracker state: **3,819 total / 1,269 researched / 856 pictured / 856 fully complete / 413 researched-photo-pending / 2,963 photo-missing overall**.
