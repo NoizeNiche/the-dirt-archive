@@ -16,6 +16,8 @@ const SEARCH_TIMEOUT = Math.max(4000, Number(process.env.PHOTO_BROWSER_SEARCH_TI
 const IMAGE_TIMEOUT = Math.max(2500, Number(process.env.PHOTO_BROWSER_IMAGE_TIMEOUT_MS || 6000));
 const CANDIDATE_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CANDIDATE_LIMIT || 6));
 const SEARCH_VERIFY_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_SEARCH_VERIFY_LIMIT || 5));
+const TARGET_BUILDER = String(process.env.PHOTO_BROWSER_TARGET_BUILDER || '').trim();
+const TARGET_PEDAL = String(process.env.PHOTO_BROWSER_TARGET_PEDAL || '').trim();
 
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
@@ -292,7 +294,11 @@ async function recoverEntry(browser, entry) {
   );
   const manifestByKey = new Map(manifest.map(x => [key(x.builder, x.pedal), x]));
   const candidates = (catalog.pedals || [])
-    .filter(x => x.research_record && !x.image && (x.image_source_page || x.source_page || x.image_source_url))
+    .filter(x => {
+      if (TARGET_BUILDER && String(x.company || '').trim() !== TARGET_BUILDER) return false;
+      if (TARGET_PEDAL && String(x.pedal || '').trim() !== TARGET_PEDAL) return false;
+      return x.research_record && !x.image && (x.image_source_page || x.source_page || x.image_source_url);
+    })
     .sort((a, b) => {
       const score = entry => {
         const order = trackerOrder.get(key(entry.company, entry.pedal));
