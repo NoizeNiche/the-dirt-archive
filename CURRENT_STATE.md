@@ -1,12 +1,19 @@
 ## Photo Recovery Checkpoint - September 21, 2026 (latest verified)
 
-Verified tracker state: **3,819 total / 1,273 researched / 896 pictured / 896 fully complete / 377 researched-photo-pending / 2,923 photo-missing overall**.
+Verified tracker state: **3,819 total / 1,274 researched / 896 pictured / 896 fully complete / 378 researched-photo-pending / 2,923 photo-missing overall**.
 
 The previous pass briefly archived an image under Godeater+, but identity review showed that image was the original Godeater. That incorrect asset has been removed. Godeater+ is back in the exact-photo recovery queue with its verified Reverb source page.
 
-The photo-review queue is now **404 records**: **8 DEEP_REVIEW**, **395 PARKED**, and **1 PHOTO_NEEDED**. The automatic recovery lane remains active, with exact-model identity checks now preserving meaningful symbols such as .
+The photo-review queue is now **404 records**: **9 DEEP_REVIEW** and **395 PARKED**. The automatic recovery lane remains active, with exact-model identity checks preserving meaningful model-name symbols.
 
 PRP1 remains gated until **researched-photo-pending reaches 0**. Public pedal pages continue to hide Research confidence and Sources checked. The future YouTube demo widget remains deferred until the photo catch-up is complete.
+
+## Maintenance checkpoint - September 21, 2026
+
+The scheduled site-health check had been looking for a Pages deployment matching the scheduled workflow's stale checkout SHA. That produced a false failure even when the archive itself was healthy. The health check now refreshes origin/main for scheduled runs and looks for a successful Pages deployment of the current main commit.
+
+The maintenance fix passed the repository validation workflow in commit **8f721ccaf437b4955e465c8a36b5441ce747a05e**. Photo recovery remains the active gate, and the current researched-photo pending count is **378**.
+
 
 ---
 
