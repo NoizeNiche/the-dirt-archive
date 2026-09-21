@@ -296,6 +296,20 @@ async function fetchSearchPageIdentity(page, url) {
   }
 }
 
+function preferredSourcePage(entry) {
+  const imagePage = entry.image_source_page || null;
+  const sourcePage = entry.source_page || null;
+  if (!imagePage) return sourcePage;
+  try {
+    const parsed = new URL(imagePage);
+    const isGenericReverbHome =
+      /(^|\\.)reverb\\.com$/i.test(parsed.hostname) &&
+      /^\\/?$/.test(parsed.pathname);
+    if (isGenericReverbHome && sourcePage) return sourcePage;
+  } catch {}
+  return imagePage;
+}
+
 function hostMatchesBuilder(url, company) {
   try {
     const host = new URL(url).hostname.toLowerCase();
@@ -654,7 +668,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
   }, RECOVERY_DEADLINE_MS);
   try {
     const candidates = [];
-    const pageUrl = entry.image_source_page || entry.source_page || null;
+    const pageUrl = preferredSourcePage(entry);
 
     // Use the builder's own web presence first whenever the existing research
     // source is not obviously hosted by the builder. This matches the archive's
