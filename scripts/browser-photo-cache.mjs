@@ -277,7 +277,7 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
   // Sold listings remain the preferred source. If Reverb has no sold result
   // for a hard-to-find pedal, make one bounded active-listing pass as a fallback.
   // The listing page is still identity-verified before any image is accepted.
-  if (!merged.size) {
+  if (deepReview || !merged.size) {
     const fallbackQuery = entry.company + ' ' + entry.pedal;
     const searchUrl =
       'https://reverb.com/marketplace?query=' +
@@ -585,10 +585,80 @@ async function recoverEntry(browser, entry, deepReview = false) {
       return null;
     }
 
+    // A verified source page can display the exact pedal photo even when its
+    // image URL returns a block/403/500 to a direct request. Capture the rendered
+    // photo from the already identity-verified page instead of substituting a
+    // search-engine image.
+    async function screenshotVerifiedSourcePageImage(sourcePage) {
+      if (!sourcePage) return null;
+      try {
+        await page.goto(sourcePage, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+        await page.waitForTimeout(/(^|\.)reverb\.com$/i.test(new URL(sourcePage).hostname) ? 900 : 350);
+
+        const imageSelectors = await page.evaluate(() => {
+          const candidates = [];
+          for (const img of document.querySelectorAll('img')) {
+            const rect = img.getBoundingClientRect();
+            const src = img.currentSrc || img.src || '';
+            const alt = (img.alt || '').toLowerCase();
+            const hint = src.toLowerCase() + ' ' + alt;
+            if (!src || src.startsWith('data:')) continue;
+            if (/(logo|avatar|icon|sprite|favicon|banner)/i.test(hint)) continue;
+            const width = Math.max(rect.width, Number(img.naturalWidth) || 0);
+            const height = Math.max(rect.height, Number(img.naturalHeight) || 0);
+            if (width < 180 || height < 180) continue;
+            candidates.push({ src, area: width * height });
+          }
+          return candidates
+            .sort((a, b) => b.area - a.area)
+            .slice(0, 4)
+            .map(x => x.src);
+        });
+
+        for (const src of imageSelectors) {
+            const matches = page.locator('img');
+          const count = await matches.count();
+          for (let i = 0; i < count; i++) {
+            const img = matches.nth(i);
+            const currentSrc = await img.evaluate(el => el.currentSrc || el.src || '').catch(() => '');
+            if (currentSrc !== src) continue;
+            const bytes = await img.screenshot({ type: 'png' }).catch(() => null);
+            if (bytes && bytes.length >= 3000) {
+              return { bytes, src };
+            }
+          }
+        }
+      } catch {}
+      return null;
+    }
+
     // First trust only candidates discovered on the already-verified source page.
     let selectedResult = await tryImages(
       ranked.filter(candidate => !candidate.searchResult)
     );
+
+    if (!selectedResult) {
+      const sourcePages = [...new Set(
+        ranked
+          .filter(candidate => !candidate.searchResult && candidate.sourcePage)
+          .map(candidate => candidate.sourcePage)
+      )].slice(0, 3);
+
+      for (const sourcePage of sourcePages) {
+        const shot = await screenshotVerifiedSourcePageImage(sourcePage);
+        if (shot) {
+          selectedResult = {
+            candidate: {
+              url: shot.src,
+              sourcePage,
+              sourceScore: 115
+            },
+            bytes: shot.bytes
+          };
+          break;
+        }
+      }
+    }
 
     // Search is a fallback, not the primary source. Verify the result page identity
     // before accepting its image so a visually similar pedal cannot slip through.
