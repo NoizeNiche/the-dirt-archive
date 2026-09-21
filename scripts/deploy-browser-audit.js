@@ -315,7 +315,7 @@ const { chromium } = require('playwright');
                   encodeURIComponent(entry.company) +
                   '&pedal=' +
                   encodeURIComponent(entry.pedal);
-                await workerPage.goto(url, {waitUntil:'networkidle', timeout:20000});
+                await workerPage.goto(url, {waitUntil:'domcontentloaded', timeout:20000});
                 await workerPage.waitForFunction(() => {
                   const el = document.querySelector('#research');
                   return el &&
