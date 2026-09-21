@@ -592,14 +592,29 @@ jobs:
                   const id = key(entry);
                   try {
                     const external = /^https?:\/\//i.test(entry.image);
-                    const res = await page.request.get(imageUrl(entry.image), {timeout:15000});
-                    const type = (res.headers()['content-type'] || '').toLowerCase();
-                    if (external && (!res.ok() || !type.startsWith('image/'))) {
-                      console.warn('EXTERNAL PHOTO WARNING:', id, '-> image HTTP ' + res.status() + ' ' + type);
+                    let res = null;
+                    let type = '';
+                    let lastImageError = null;
+                    const attempts = external ? 1 : 4;
+                    for (let attempt = 1; attempt <= attempts; attempt++) {
+                      try {
+                        res = await page.request.get(imageUrl(entry.image), {timeout:15000});
+                        type = (res.headers()['content-type'] || '').toLowerCase();
+                        if (res.ok() && type.startsWith('image/')) break;
+                        lastImageError = new Error('HTTP ' + res.status() + ' ' + type);
+                      } catch (err) {
+                        lastImageError = err;
+                      }
+                      if (attempt < attempts) {
+                        await new Promise(r => setTimeout(r, attempt * 2500));
+                      }
+                    }
+                    if (external && (!res || !res.ok() || !type.startsWith('image/'))) {
+                      console.warn('EXTERNAL PHOTO WARNING:', id, '-> image HTTP ' + (res ? res.status() : 'no response') + ' ' + type);
                       continue;
                     }
-                    if (!res.ok() || !type.startsWith('image/')) {
-                      throw new Error('local image HTTP ' + res.status() + ' ' + type);
+                    if (!res || !res.ok() || !type.startsWith('image/')) {
+                      throw new Error('local image unavailable after retries: ' + (lastImageError?.message || 'unknown error'));
                     }
 
                     if (entry.catalog_role === 'variation') {
