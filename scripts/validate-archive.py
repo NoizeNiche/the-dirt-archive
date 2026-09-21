@@ -123,6 +123,9 @@ def main():
     detail_text = DETAIL.read_text(encoding="utf-8")
     deploy_text = DEPLOY.read_text(encoding="utf-8")
     health_workflow = (ROOT / ".github/workflows/hourly-site-health.yml").read_text(encoding="utf-8")
+    architecture_text = (ROOT / "SITE_ARCHITECTURE.md").read_text(encoding="utf-8")
+    if "sync-public-data-version.py" in architecture_text:
+        raise SystemExit("Architecture still references the retired catalog-version synchronization script.")
     cache_workflow = (ROOT / ".github/workflows/cache-pedal-images.yml").read_text(encoding="utf-8")
     if "node-version: 20" not in deploy_text:
         raise SystemExit("Deployment workflow is not pinned to Node 20.")
