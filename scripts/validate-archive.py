@@ -137,6 +137,10 @@ def main():
         raise SystemExit("Scheduled hourly health workflow is not refreshing its checkout to latest main.")
     if "./assets/css/archive-index.css" not in home_text or "./assets/js/archive-index.js" not in home_text:
         raise SystemExit("Home page is not wired to external assets.")
+    if 'class="skipLink" href="#mainContent"' not in home_text or 'id="mainContent"' not in home_text:
+        raise SystemExit("Home page is missing its keyboard skip-to-content path.")
+    if 'class="skipLink" href="#mainContent"' not in detail_text or 'id="mainContent"' not in detail_text:
+        raise SystemExit("Detail page is missing its keyboard skip-to-content path.")
     detail_js_text = DETAIL_JS.read_text(encoding="utf-8")
     if "loadCatalog()" not in detail_js_text:
         raise SystemExit("Detail page controller is not using the shared catalog loader.")
