@@ -7728,10 +7728,12 @@
   {
     "builder": "Brantone Electronics",
     "pedal": "Vintage Tweed Overdrive",
-    "image": null,
+    "image": "./assets/pedals/brantone-electronics/vintage-tweed-overdrive/primary.webp",
     "source": null,
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-vintage-tweed-overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-vintage-tweed-overdrive.md",
+    "image_source_url": "http://hometoneblog.com/wp-content/uploads/2021/03/Vintage-Tweed-1024x819.jpeg",
+    "image_source_page": "http://hometoneblog.com/2021/03/30/first-impressions-brantone-electronics-vintage-tweed-overdrive-pedal/"
   },
   {
     "builder": "Brantone Electronics",
@@ -8784,9 +8786,11 @@
   {
     "builder": "Build Your Own Clone",
     "pedal": "Li'l Beaver (Ram's Head)",
-    "image": null,
+    "image": "./assets/pedals/build-your-own-clone/li-l-beaver-ram-s-head/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-ram-s-head.md"
+    "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-ram-s-head.md",
+    "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/ramsheadpainted_dc9f91b0-3b8a-4bb3-b791-246cb08bb2b8_large.jpg",
+    "image_source_page": "https://stompboxschematics.com/circuits/lil-beaver-rams-head-by-build-your-own-clone-byoc/"
   },
   {
     "builder": "Build Your Own Clone",

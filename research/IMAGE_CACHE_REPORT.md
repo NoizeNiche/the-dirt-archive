@@ -13,7 +13,7 @@
 
 ## Newly cached
 
-- BMF Effects - Rocket 88 Overdrive -> `./assets/pedals/bmf-effects/rocket-88-overdrive/primary.webp`
-- Black Arts Toneworks - Destroyer -> `./assets/pedals/black-arts-toneworks/destroyer/primary.webp`
+- Brantone Electronics - Vintage Tweed Overdrive -> `./assets/pedals/brantone-electronics/vintage-tweed-overdrive/primary.webp`
+- Build Your Own Clone - Li'l Beaver (Ram's Head) -> `./assets/pedals/build-your-own-clone/li-l-beaver-ram-s-head/primary.webp`
 
 All pictured pedal images are locally cached.
