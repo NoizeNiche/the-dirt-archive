@@ -19,6 +19,7 @@ ROOT = Path(".")
 INDEX_PATH = ROOT / "research/PEDAL_INDEX.json"
 MANIFEST_PATH = ROOT / "research/pedals/PEDAL_IMAGES.json"
 REPORT_PATH = ROOT / "research/IMAGE_CACHE_REPORT.md"
+TRACKER_PATH = ROOT / "research/PRP_TRACKER.csv"
 ASSET_ROOT = ROOT / "assets/pedals"
 MAX_BYTES = 25 * 1024 * 1024
 TARGET_BUILDER = os.environ.get("PHOTO_CACHE_TARGET_BUILDER", "").strip()
