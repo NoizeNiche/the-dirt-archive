@@ -369,11 +369,24 @@ const { chromium } = require('playwright');
                   };
                 }).catch(() => ({url:'',researchText:'',resources:[]}));
                 diagnostic.researchResponses = researchResponses;
+                try {
+                  const directUrl = new URL(entry.research_record, 'http://127.0.0.1:4173/pedal-detail.html').href;
+                  const directResponse = await workerPage.request.get(directUrl, {timeout:5000});
+                  diagnostic.directResearchCheck = {
+                    url: directResponse.url(),
+                    status: directResponse.status(),
+                    bytes: (await directResponse.body()).length
+                  };
+                } catch (directError) {
+                  diagnostic.directResearchCheck = {error:String(directError)};
+                }
                 auditFailures.push(
                   entry.company + ' / ' + entry.pedal +
                   ' -> ' + error.message +
                   '; researchText="' + diagnostic.researchText.slice(0, 180) +
-                  '"; researchResources=' + JSON.stringify(diagnostic.resources)
+                  '"; researchResources=' + JSON.stringify(diagnostic.resources) +
+                  '; researchResponses=' + JSON.stringify(diagnostic.researchResponses) +
+                  '; directResearchCheck=' + JSON.stringify(diagnostic.directResearchCheck)
                 );
               } finally {
                 await workerPage.close();
