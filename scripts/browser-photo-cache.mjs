@@ -20,6 +20,7 @@ const SEARCH_VERIFY_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_SEARCH_
 const TARGET_BUILDER = String(process.env.PHOTO_BROWSER_TARGET_BUILDER || '').trim();
 const TARGET_PEDAL = String(process.env.PHOTO_BROWSER_TARGET_PEDAL || '').trim();
 const PER_BUILDER_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_PER_BUILDER_LIMIT || 4));
+const RECOVERY_DEADLINE_MS = Math.max(10000, Number(process.env.PHOTO_BROWSER_RECOVERY_DEADLINE_MS || 25000));
 
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
@@ -193,6 +194,10 @@ async function imageSearchCandidates(page, entry) {
 
 async function recoverEntry(browser, entry) {
   const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
+  const deadline = setTimeout(() => {
+    // A single stubborn source must not occupy a browser worker indefinitely.
+    page.close().catch(() => {});
+  }, RECOVERY_DEADLINE_MS);
   try {
     const candidates = [];
     const pageUrl = entry.image_source_page || entry.source_page || null;
@@ -351,6 +356,7 @@ async function recoverEntry(browser, entry) {
     if (selected.sourcePage) entry.image_source_page = selected.sourcePage;
     return { ok: true, imageUrl: selected.url, sourcePage: selected.sourcePage || null };
   } finally {
+    clearTimeout(deadline);
     await page.close().catch(() => {});
   }
 }
