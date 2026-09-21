@@ -118,13 +118,6 @@ def main():
         if actual != expected:
             raise SystemExit(f"Tracker status mismatch: {k}")
 
-    core_text = CORE.read_text(encoding="utf-8")
-    version = re.search(r"const ARCHIVE_DATA_VERSION\s*=\s*['\"]([^'\"]+)['\"]", core_text)
-    if not version:
-        raise SystemExit("Shared runtime version constant is missing.")
-    if version.group(1) != catalog.get("version"):
-        raise SystemExit("Shared runtime version disagrees with PEDAL_INDEX.json.")
-
     home_text = HOME.read_text(encoding="utf-8")
     detail_text = DETAIL.read_text(encoding="utf-8")
     deploy_text = DEPLOY.read_text(encoding="utf-8")

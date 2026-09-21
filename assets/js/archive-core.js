@@ -1,9 +1,8 @@
 // The Dirt Archive shared browser runtime.
-// Keep catalog identity, cache versioning, escaping, URLs, and loading here.
+// Keep catalog identity, escaping, URLs, and loading here.
 // Page-specific files should focus only on rendering and interaction.
 
-const ARCHIVE_DATA_VERSION = 'prp1-cbc-pedals-ampeg-scrambler';
-const ARCHIVE_DATA_INDEX = './research/PEDAL_INDEX.json?v=' + encodeURIComponent(ARCHIVE_DATA_VERSION);
+const ARCHIVE_DATA_INDEX = './research/PEDAL_INDEX.json';
 const ARCHIVE_DIRT_TYPES = ['All', 'Overdrive', 'Distortion', 'Fuzz'];
 
 const $ = id => document.getElementById(id);
@@ -34,7 +33,6 @@ function detailUrl(entry, variation) {
   url.searchParams.set('builder', entry.company);
   url.searchParams.set('pedal', entry.pedal);
   if (variation) url.searchParams.set('variation', variation);
-  url.searchParams.set('v', ARCHIVE_DATA_VERSION);
   return url.href;
 }
 
