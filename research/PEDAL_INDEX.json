@@ -1,5 +1,5 @@
 {
-  "version": "data-0571f6fd933b",
+  "version": "data-prp1-wiring-163",
   "count": 3821,
   "pedals": [
     {
@@ -13686,7 +13686,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 159/catalinbread-sidearm-overdrive.md"
     },
     {
       "company": "Catalinbread Effects",
@@ -13696,7 +13696,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 161/catalinbread-silver-kiss-overdrive.md"
     },
     {
       "company": "Catalinbread Effects",
@@ -13706,7 +13706,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 161/catalinbread-silver-kiss-overdrive-2007-reissue.md"
     },
     {
       "company": "Catalinbread Effects",
@@ -13716,7 +13716,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 161/catalinbread-starcrash-fuzz.md"
     },
     {
       "company": "CatastroFX",
@@ -13726,7 +13726,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 161/catastrofx-deface-mkiii.md"
     },
     {
       "company": "CatastroFX",
@@ -13736,7 +13736,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 161/catastrofx-outbreak.md"
     },
     {
       "company": "Cathouse Pedals",
@@ -13746,7 +13746,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 161/cathouse-pedals-fuzzy-tongue.md"
     },
     {
       "company": "Cathouse Pedals",
@@ -13756,7 +13756,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 161/cathouse-pedals-rat-fink.md"
     },
     {
       "company": "Cathouse Pedals",
@@ -13766,7 +13766,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 161/cathouse-pedals-the-bender.md"
     },
     {
       "company": "Cathouse Pedals",
@@ -13777,7 +13777,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 161/cathouse-pedals-the-screamer.md"
     },
     {
       "company": "Cause & Effect Pedals (CE Pedals)",
@@ -13798,7 +13798,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 160/causticfx-snowstorm.md"
     },
     {
       "company": "Cave Passive Pedals",
@@ -13808,7 +13808,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 160/cave-60s-break-up.md"
     },
     {
       "company": "Cave Passive Pedals",
@@ -13818,7 +13818,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 160/cave-b-drive-grunt.md"
     },
     {
       "company": "Cave Passive Pedals",
@@ -13828,7 +13828,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 160/cave-blue-juice.md"
     },
     {
       "company": "Cave Passive Pedals",
@@ -13838,7 +13838,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 160/cave-grunt.md"
     },
     {
       "company": "Cave Passive Pedals",
@@ -13848,7 +13848,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 160/cave-grunt-mkii.md"
     },
     {
       "company": "Cave Passive Pedals",
@@ -13859,7 +13859,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 160/cave-mini-miff.md"
     },
     {
       "company": "Cave Passive Pedals",
@@ -13869,7 +13869,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 160/cave-super-grunt.md"
     },
     {
       "company": "Cave Passive Pedals",
@@ -13879,7 +13879,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 160/cave-wasp.md"
     },
     {
       "company": "Cave Passive Pedals",
@@ -13889,7 +13889,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 160/cave-wasp-mkii.md"
     },
     {
       "company": "Cave Pedals",
@@ -13900,7 +13900,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 160/cave-fetish.md"
     },
     {
       "company": "Cave Pedals",
@@ -13910,7 +13910,7 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/PRP Batch 160/cave-quad.md"
     },
     {
       "company": "Caveman Audio / Skrydstrup",
