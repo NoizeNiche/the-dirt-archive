@@ -81,6 +81,19 @@ jobs:
           python scripts/sync-public-data-version.py
           git add index.html pedal-detail.html research/PEDAL_INDEX.json
           git commit -m "Archive verified pedal photos locally"
-          git push
+
+          # Other repository maintenance commits can land between our rebase
+          # and the push. Retry by rebasing the complete cache commit instead
+          # of throwing away a successful recovery batch.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push race detected; rebasing cache commit (attempt $attempt/5)."
+            git fetch origin main
+            git rebase origin/main
+          done
+          echo "Unable to publish the verified photo batch after 5 push attempts."
+          exit 1
 
           # The next main-push cache run continues from the current tracker state.
