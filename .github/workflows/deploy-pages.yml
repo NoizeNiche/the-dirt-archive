@@ -20,7 +20,7 @@ permissions:
 
 concurrency:
   group: dirt-archive-deploy
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   deploy:
@@ -35,6 +35,12 @@ jobs:
       - name: Validate archive structure
         run: python scripts/validate-archive.py
 
+      - name: Cache deploy Playwright browser
+        uses: actions/cache@v6
+        with:
+          path: ~/.cache/ms-playwright
+          key: deploy-playwright-1.63.0-${{ runner.os }}
+
       - name: Browser audit for all researched pedal pages
         run: |
           python -m http.server 4173 >/tmp/dirt-archive-http.log 2>&1 &
@@ -42,10 +48,14 @@ jobs:
           trap 'kill $SERVER_PID' EXIT
 
           npm install --no-save playwright@1.63.0
-          npx playwright install --with-deps chromium
+          if compgen -G "$HOME/.cache/ms-playwright/chromium-*" > /dev/null; then
+            echo "Playwright Chromium restored from cache."
+          else
+            echo "Playwright Chromium cache miss; installing Chromium and dependencies."
+            npx playwright install --with-deps chromium
+          fi
 
           node scripts/deploy-browser-audit.js
-
       - name: Upload site
         uses: actions/upload-pages-artifact@v5
         with:

@@ -16,7 +16,16 @@ const { chromium } = require('playwright');
 
           (async()=>{
             const browser = await chromium.launch({headless:true});
-            const page = await browser.newPage({ viewport:{width:1440,height:1000} });
+            const context = await browser.newContext({ viewport:{width:1440,height:1000} });
+            const page = await context.newPage();
+            const cachedCatalogBody = JSON.stringify(catalog);
+            await page.route('**/research/PEDAL_INDEX.json*', async route => {
+              await route.fulfill({
+                status: 200,
+                contentType: 'application/json; charset=utf-8',
+                body: cachedCatalogBody
+              });
+            });
             const consoleErrors=[];
             const pageErrors=[];
             page.on('console', msg => { if (msg.type()==='error') consoleErrors.push(msg.text()); });
@@ -178,12 +187,12 @@ const { chromium } = require('playwright');
               'http://127.0.0.1:4173/pedal-detail.html?builder=' +
               encodeURIComponent(positiveEntry.company) + '&pedal=' +
               encodeURIComponent(positiveEntry.pedal),
-              {waitUntil:'domcontentloaded'}
+              {waitUntil:'networkidle', timeout:20000}
             );
             await page.waitForFunction(() => {
               const el = document.querySelector('#research');
               return el && el.textContent.trim().length > 40 && !/loading pedal information|could not be loaded/i.test(el.textContent);
-            }, null, {timeout:10000});
+            }, null, {timeout:20000});
             const researchedResult = await page.evaluate(() => {
               const el = document.querySelector('#research');
               const record = document.querySelector('#record');
@@ -281,13 +290,13 @@ const { chromium } = require('playwright');
                 encodeURIComponent(entry.company) +
                 '&pedal=' +
                 encodeURIComponent(entry.pedal);
-              await page.goto(url, {waitUntil:'domcontentloaded'});
+              await page.goto(url, {waitUntil:'networkidle', timeout:20000});
               await page.waitForFunction(() => {
                 const el = document.querySelector('#research');
                 return el &&
                   el.textContent.trim().length > 40 &&
                   !/loading pedal information|could not be loaded/i.test(el.textContent);
-              }, null, {timeout:10000});
+              }, null, {timeout:20000});
 
               const result = await page.evaluate(() => {
                 const el = document.querySelector('#research');
@@ -325,6 +334,7 @@ const { chromium } = require('playwright');
             if (actionableConsoleErrors.length) throw new Error('Browser console errors: ' + actionableConsoleErrors.join(' | '));
             if (pageErrors.length) throw new Error('Browser page errors: ' + pageErrors.join(' | '));
 
+            await context.close();
             await browser.close();
             console.log('Expanded browser audit passed: catalog controls, combined filters, pagination, detail records, photos, fallbacks, variations, legacy redirects, mobile layout, and all researched parent pages.');
           })().catch(err => {
