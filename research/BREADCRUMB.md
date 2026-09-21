@@ -1,3 +1,13 @@
+## Deployment trigger checkpoint - September 21, 2026
+
+Deployment now watches `scripts/deploy-browser-audit.js`, `scripts/serve-static.js`, `scripts/live-photo-audit.js`, and `scripts/validate-archive.py`. The structural validator also requires those operational scripts to appear in the deployment trigger list, preventing CI behavior changes from being silently ignored.
+
+Latest checkpoint: **fd88a46f98040e0f8803562896a427df7881d1d5**.
+
+Photo recovery remains the active gate at the latest verified **378 researched-photo-pending** records. PRP1 remains gated until that reaches **0**.
+
+---
+
 ## Site UI maintenance checkpoint - September 21, 2026
 
 Pedal detail pages now show the actual builder name in the builder line. The deployment browser audit verifies that the rendered builder matches the catalog entry used to open the page.
