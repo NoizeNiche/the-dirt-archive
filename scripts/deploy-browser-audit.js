@@ -349,7 +349,24 @@ const { chromium } = require('playwright');
                   throw new Error('Pedal Info text/background contrast is below threshold: ' + contrast.toFixed(2));
                 }
               } catch (error) {
-                auditFailures.push(entry.company + ' / ' + entry.pedal + ' -> ' + error.message);
+                const diagnostic = await workerPage.evaluate(() => {
+                  const el = document.querySelector('#research');
+                  const resources = performance.getEntriesByType('resource')
+                    .map(x => x.name)
+                    .filter(name => /research\/pedals/i.test(name))
+                    .slice(-3);
+                  return {
+                    url: location.href,
+                    researchText: el?.textContent.trim() || '',
+                    resources
+                  };
+                }).catch(() => ({url:'',researchText:'',resources:[]}));
+                auditFailures.push(
+                  entry.company + ' / ' + entry.pedal +
+                  ' -> ' + error.message +
+                  '; researchText="' + diagnostic.researchText.slice(0, 180) +
+                  '"; researchResources=' + JSON.stringify(diagnostic.resources)
+                );
               } finally {
                 await workerPage.close();
               }
