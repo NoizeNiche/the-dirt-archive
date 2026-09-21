@@ -78,6 +78,8 @@ jobs:
           # Recovery follows exact PRP_TRACKER order; no builder is privileged.
           PHOTO_BROWSER_IMAGE_SEARCH: "true"
           PHOTO_BROWSER_DEEP_REVIEW: "true"
+          # Reopen a small bounded batch of automatically exhausted records for one deeper pass.
+          PHOTO_BROWSER_REVISIT_PARKED: "true"
           PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "30000"
         run: node scripts/browser-photo-cache.mjs
 
