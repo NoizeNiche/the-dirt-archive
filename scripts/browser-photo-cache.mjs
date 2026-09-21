@@ -225,7 +225,7 @@ function isReverbListingUrl(url) {
 function reverbListingMatchesIdentity(entry, url, title, h1) {
   try {
     const parsed = new URL(url);
-    if (!/(^|\.)reverb\.com$/i.test(parsed.hostname) || !/\/item\//i.test(parsed.pathname)) return false;
+    if (!isReverbListingUrl(url)) return false;
     const haystack = normalizedIdentity([title || '', h1 || '', parsed.pathname].join(' '));
     const pedalPhrase = normalizedIdentity(entry.pedal);
     const pedalTokens = identityTokens(entry.pedal);
@@ -459,7 +459,7 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
         for (const el of document.querySelectorAll('a[href*="/item/"]')) {
           const href = el.href || '';
           const title = (el.textContent || '').replace(/\s+/g, ' ').trim();
-          if (!href || !/^https?:\/\/reverb\.com\/item\//i.test(href)) continue;
+          if (!href || !isReverbListingUrl(href)) continue;
           out.push({ purl: href.split('?')[0], title, searchUrl: location.href });
         }
         return out;
@@ -492,7 +492,7 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
         for (const el of document.querySelectorAll('a[href*="/item/"]')) {
           const href = el.href || '';
           const title = (el.textContent || '').replace(/\s+/g, ' ').trim();
-          if (!href || !/^https?:\/\/reverb\.com\/item\//i.test(href)) continue;
+          if (!href || !isReverbListingUrl(href)) continue;
           out.push({ purl: href.split('?')[0], title, searchUrl: location.href });
         }
         return out;
@@ -810,7 +810,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
       if (!sourcePage) return null;
       try {
         const parsedSource = new URL(sourcePage);
-        const isReverbListing = /(^|\.)reverb\.com$/i.test(parsedSource.hostname) && /\/item\//i.test(parsedSource.pathname);
+        const isReverbListing = isReverbListingUrl(sourcePage);
         await page.goto(sourcePage, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
         await page.waitForTimeout(isReverbListing ? 1400 : 350);
 
