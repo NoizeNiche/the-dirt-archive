@@ -1,4 +1,6 @@
 const { chromium } = require('playwright');
+const fs = require('node:fs');
+const path = require('node:path');
 
           function rgb(value) {
             const m = value && value.match(/rgba?\(([^)]+)\)/);
@@ -24,6 +26,32 @@ const { chromium } = require('playwright');
                 contentType: 'application/json; charset=utf-8',
                 body: JSON.stringify(catalog)
               });
+            });
+            const archiveRoot = path.resolve(process.cwd());
+            await context.route('**/research/pedals/**', async route => {
+              try {
+                const requestUrl = new URL(route.request().url());
+                const relative = decodeURIComponent(requestUrl.pathname).replace(/^\/+/, '');
+                const filePath = path.resolve(archiveRoot, relative);
+                const rootPrefix = archiveRoot.endsWith(path.sep) ? archiveRoot : archiveRoot + path.sep;
+                if (!filePath.startsWith(rootPrefix)) {
+                  await route.fulfill({status: 403, contentType: 'text/plain; charset=utf-8', body: 'Forbidden'});
+                  return;
+                }
+                const body = await fs.promises.readFile(filePath, 'utf8');
+                await route.fulfill({
+                  status: 200,
+                  contentType: 'text/markdown; charset=utf-8',
+                  body
+                });
+              } catch (error) {
+                const status = error && error.code === 'ENOENT' ? 404 : 500;
+                await route.fulfill({
+                  status,
+                  contentType: 'text/plain; charset=utf-8',
+                  body: status === 404 ? 'Not found' : 'Research record could not be served.'
+                });
+              }
             });
             const consoleErrors=[];
             const pageErrors=[];
