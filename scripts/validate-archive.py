@@ -132,6 +132,8 @@ def main():
     photo_cache_script = (ROOT / "scripts/browser-photo-cache.mjs").read_text(encoding="utf-8")
     if 'or re.match(r"^https?://"' not in cache_script:
         raise SystemExit("Bulk photo cache is not including externally pictured records for localization.")
+    if "function preferredSourcePage" not in photo_cache_script or "const pageUrl = preferredSourcePage(entry);" not in photo_cache_script:
+        raise SystemExit("Photo cache is not preferring a real pedal source page over a generic marketplace homepage.")
     if "function isReverbListingUrl" not in photo_cache_script:
         raise SystemExit("Browser photo cache is missing the shared Reverb listing URL matcher.")
     if r"\/(?:[a-z]{2}(?:-[a-z]{2})?)?\/item\/" not in photo_cache_script:
