@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
-- Staged browser photos converted: **2**
+- Cached in this run: **0**
+- Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **17**
 
@@ -10,11 +10,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Award-Session - JD10 Compact Jerry Donahue Sessionmaster -> `./assets/pedals/award-session/jd10-compact-jerry-donahue-sessionmaster/primary.webp`
-- Awestruck Amplification - Highland -> `./assets/pedals/awestruck-amplification/highland/primary.webp`
 
 ## Still external / failed
 
