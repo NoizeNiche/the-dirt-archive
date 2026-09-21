@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Keep PRP tracker status fields aligned with the canonical pedal catalog."""
+"""Keep PRP tracker status aligned without allowing data loss.
+
+The catalog is authoritative for photo state. Research links are preserve-first:
+a valid tracker research record wins over a temporarily stale/blank catalog link;
+a catalog research record fills a blank tracker link; an invalid/missing link is
+only removed when there is no valid source left.
+"""
 
 import csv
 import json
@@ -7,6 +13,13 @@ from pathlib import Path
 
 INDEX_PATH = Path("research/PEDAL_INDEX.json")
 TRACKER_PATH = Path("research/PRP_TRACKER.csv")
+
+
+def record_exists(record):
+    if not record:
+        return False
+    path = Path(record[2:] if record.startswith("./") else record)
+    return path.exists() and path.is_file()
 
 
 def main():
@@ -23,20 +36,38 @@ def main():
         raise SystemExit("PRP tracker header contains an unexpected extra CSV field")
 
     changed = 0
+    research_preserved = 0
     for row in rows:
         key = (row.get("Builder"), row.get("Pedal"))
         pedal = by_key.get(key)
         if pedal is None:
             raise SystemExit(f"Tracker identity missing from catalog: {key}")
 
-        info_done = bool(pedal.get("research_record"))
+        tracker_record = row.get("Research Record") or ""
+        catalog_record = pedal.get("research_record") or ""
+
+        if tracker_record and record_exists(tracker_record):
+            research_record = tracker_record
+            if catalog_record != tracker_record:
+                research_preserved += 1
+        elif catalog_record and record_exists(catalog_record):
+            research_record = catalog_record
+        elif tracker_record:
+            raise SystemExit(
+                f"Tracker research record file is missing and catalog has no valid replacement: {key} -> {tracker_record}"
+            )
+        else:
+            research_record = ""
+
+        info_done = bool(research_record)
         picture_done = bool(pedal.get("image"))
         complete_done = info_done and picture_done
+
         expected = {
             "Pedal Info": "DONE" if info_done else "NEEDED",
             "Picture": "DONE" if picture_done else "NEEDED",
             "PRP Complete": "DONE" if complete_done else "NEEDED",
-            "Research Record": pedal.get("research_record") or "",
+            "Research Record": research_record,
         }
         for field, value in expected.items():
             if row.get(field, "") != value:
@@ -48,7 +79,10 @@ def main():
         writer.writeheader()
         writer.writerows(rows)
 
-    print(f"PRP tracker synchronized: {changed} fields updated across {len(rows)} rows.")
+    print(
+        f"PRP tracker synchronized safely: {changed} fields updated across {len(rows)} rows; "
+        f"{research_preserved} existing research links preserved against stale catalog links."
+    )
 
 
 if __name__ == "__main__":
