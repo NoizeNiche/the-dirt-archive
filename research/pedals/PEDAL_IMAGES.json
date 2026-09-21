@@ -3427,7 +3427,8 @@
     "pedal": "X-Treme Tone",
     "image": null,
     "source_page": "https://manuzoid.com/manuals/0D5pR-Bad%20Cat%20X-TREME%20TONE%20Operating%20instructions",
-    "research_record": "./research/pedals/Bad Cat/X-Treme Tone.md"
+    "research_record": "./research/pedals/Bad Cat/X-Treme Tone.md",
+    "image_source_page": "https://reverb.com/p/bad-cat-x-treme-tone-tube-preamp-pedal"
   },
   {
     "builder": "Bad Penny FX",
@@ -5472,7 +5473,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": "https://www.bigfootengineering.com/ltd.html",
-    "research_record": "./research/pedals/PRP Batch 086/Anniversary King Fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 086/Anniversary King Fuzz.md",
+    "image_source_page": "https://www.bigfootengineering.com/store/p136/Anniversary_King_Fuzz.html"
   },
   {
     "builder": "Bigfoot Engineering",
@@ -6152,7 +6154,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": "https://www.blackartstoneworks.com/pedal/lstr/",
-    "research_record": "./research/pedals/PRP Batch 094/LSTR.md"
+    "research_record": "./research/pedals/PRP Batch 094/LSTR.md",
+    "image_source_page": "https://www.coda-music.com/black-arts-toneworks-lstr.html"
   },
   {
     "builder": "Black Arts Toneworks",
@@ -7034,7 +7037,8 @@
     "pedal": "Bob Burt Overdrive",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/bobburt/overdrive",
-    "research_record": "./research/pedals/PRP Batch 106/Bob Burt Overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 106/Bob Burt Overdrive.md",
+    "image_source_page": "https://reverb.com/item/2201997-bob-burt-overdrive"
   },
   {
     "builder": "Bogner Amplification",
@@ -11071,7 +11075,8 @@
     "pedal": "The Wasp",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 160/cave-wasp.md"
+    "research_record": "./research/pedals/PRP Batch 160/cave-wasp.md",
+    "image_source_page": "https://reverb.com/uk/item/3853656-cave-passive-wasp-white-no-power-needed-distortion-od"
   },
   {
     "builder": "Cave Passive Pedals",
