@@ -23,7 +23,7 @@ function renderPageNav(items){
     return '<a class="pageTypeLink '+(t==='All'?'active':'')+'" href="'+url.href+'">'+label+'</a>';
   }).join('');
   $('pageBuilders').innerHTML=
-    '<a class="pageBuilderLink active" href="./index.html">All builders<strong>'+builders.length+'</strong></a>'+
+    '<a class="pageBuilderLink '+(!wantedBuilder?'active':'')+'" href="./index.html">All builders<strong>'+builders.length+'</strong></a>'+
     builders.map(name=>{
       const url=new URL('./index.html',location.href);
       url.searchParams.set('builder',name);
