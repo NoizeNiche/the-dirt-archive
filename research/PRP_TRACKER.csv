@@ -651,8 +651,8 @@ Bispell Audio,Gleam,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/Glea
 Bispell Audio,Proxy,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/Proxy.md
 Bispell Audio,Saxon,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/Saxon.md
 Bispell Audio,TOR,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/TOR.md
-Bixonic,Axentrix A1,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/Axentrix A1.md
-Bixonic,Axentrix II,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/Axentrix II.md
+Bixonic,Axentrix A1,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/AXENTRIX A1.md
+Bixonic,Axentrix II,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/AXENTRIX II.md
 Bixonic,EXP2000DR Clean & Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 088/EXP2000DR Clean & Drive.md
 BIXONIC,AXENTRIX A1,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/AXENTRIX A1.md
 BIXONIC,AXENTRIX II,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/AXENTRIX II.md
@@ -1248,29 +1248,29 @@ Catalinbread Effects,Perseus DIO (dry distortion section only; octave-down funct
 Catalinbread Effects,RAH,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 158/catalinbread-rah.md
 Catalinbread Effects,Sabbra Cadabra,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 158/catalinbread-sabbra-cadabra.md
 Catalinbread Effects,SFT,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 158/catalinbread-sft.md
-Catalinbread Effects,SideArm Overdrive,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Catalinbread Effects,Silver Kiss Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Catalinbread Effects,Silver Kiss Overdrive (2007 Reissue),Overdrive,NEEDED,NEEDED,NEEDED,
-Catalinbread Effects,StarCrash Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-CatastroFX,Deface Mk.III,Fuzz,NEEDED,NEEDED,NEEDED,
-CatastroFX,Outbreak,Overdrive,NEEDED,NEEDED,NEEDED,
-Cathouse Pedals,Fuzzy Tongue,Fuzz,NEEDED,NEEDED,NEEDED,
-Cathouse Pedals,Rat Fink,Distortion,NEEDED,NEEDED,NEEDED,
-Cathouse Pedals,The Bender,Fuzz,NEEDED,NEEDED,NEEDED,
-Cathouse Pedals,The Screamer,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
+Catalinbread Effects,SideArm Overdrive,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 159/catalinbread-sidearm-overdrive.md
+Catalinbread Effects,Silver Kiss Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 161/catalinbread-silver-kiss-overdrive.md
+Catalinbread Effects,Silver Kiss Overdrive (2007 Reissue),Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 161/catalinbread-silver-kiss-overdrive-2007-reissue.md
+Catalinbread Effects,StarCrash Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 161/catalinbread-starcrash-fuzz.md
+CatastroFX,Deface Mk.III,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 161/catastrofx-deface-mkiii.md
+CatastroFX,Outbreak,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 161/catastrofx-outbreak.md
+Cathouse Pedals,Fuzzy Tongue,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 161/cathouse-pedals-fuzzy-tongue.md
+Cathouse Pedals,Rat Fink,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 161/cathouse-pedals-rat-fink.md
+Cathouse Pedals,The Bender,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 161/cathouse-pedals-the-bender.md
+Cathouse Pedals,The Screamer,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 161/cathouse-pedals-the-screamer.md
 Cause & Effect Pedals (CE Pedals),FET Dream,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Caustic FX,Snowstorm,Distortion,NEEDED,NEEDED,NEEDED,
-Cave Passive Pedals,60's Break Up,Overdrive,NEEDED,NEEDED,NEEDED,
-Cave Passive Pedals,B-Drive Grunt,Overdrive,NEEDED,NEEDED,NEEDED,
-Cave Passive Pedals,Blue Juice,Overdrive,NEEDED,NEEDED,NEEDED,
-Cave Passive Pedals,Grunt,Overdrive,NEEDED,NEEDED,NEEDED,
-Cave Passive Pedals,Grunt MkII,Overdrive,NEEDED,NEEDED,NEEDED,
-Cave Passive Pedals,Mini Miff,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Cave Passive Pedals,Super Grunt,Overdrive,NEEDED,NEEDED,NEEDED,
-Cave Passive Pedals,The Wasp,Fuzz,NEEDED,NEEDED,NEEDED,
-Cave Passive Pedals,The Wasp MkII,Fuzz,NEEDED,NEEDED,NEEDED,
-Cave Pedals,FETish,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Cave Pedals,Quad,Overdrive,NEEDED,NEEDED,NEEDED,
+Caustic FX,Snowstorm,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 160/causticfx-snowstorm.md
+Cave Passive Pedals,60's Break Up,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 160/cave-60s-break-up.md
+Cave Passive Pedals,B-Drive Grunt,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 160/cave-b-drive-grunt.md
+Cave Passive Pedals,Blue Juice,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 160/cave-blue-juice.md
+Cave Passive Pedals,Grunt,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 160/cave-grunt.md
+Cave Passive Pedals,Grunt MkII,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 160/cave-grunt-mkii.md
+Cave Passive Pedals,Mini Miff,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 160/cave-mini-miff.md
+Cave Passive Pedals,Super Grunt,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 160/cave-super-grunt.md
+Cave Passive Pedals,The Wasp,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 160/cave-wasp.md
+Cave Passive Pedals,The Wasp MkII,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 160/cave-wasp-mkii.md
+Cave Pedals,FETish,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 160/cave-fetish.md
+Cave Pedals,Quad,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 160/cave-quad.md
 Caveman Audio / Skrydstrup,ODR1,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
 Caveman Audio / Skrydstrup,ODR2,Overdrive,NEEDED,NEEDED,NEEDED,
 CBC Pedals,Ampeg Scrambler,Fuzz,NEEDED,NEEDED,NEEDED,
