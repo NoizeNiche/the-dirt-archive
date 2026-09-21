@@ -1,5 +1,5 @@
 {
-  "version": "data-429f1ace391f",
+  "version": "data-0a0b73e1fc35",
   "count": 3819,
   "pedals": [
     {
@@ -7764,9 +7764,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bjfe-bjf-electronics/honey-bee-overdrive-hbod/primary.webp",
       "source_page": "https://www.bjfe.jp/products/bjfehoneybeeod",
-      "research_record": "./research/pedals/PRP Batch 093/Honey Bee Overdrive (HBOD).md"
+      "research_record": "./research/pedals/PRP Batch 093/Honey Bee Overdrive (HBOD).md",
+      "image_source_url": "http://www.bjfe.jp/cdn/shop/files/Honey-Bee-OD-01_6be3d8e0-91dc-49f2-8719-c7f534a3d806.png?v=1736385762",
+      "image_source_page": "https://www.bjfe.jp/products/bjfehoneybeeod"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -7774,9 +7776,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bjfe-bjf-electronics/lingonberry-over-drive/primary.webp",
       "source_page": "https://one-control.com/products/oc-lbodn",
-      "research_record": "./research/pedals/PRP Batch 093/Lingonberry Over Drive.md"
+      "research_record": "./research/pedals/PRP Batch 093/Lingonberry Over Drive.md",
+      "image_source_url": "http://one-control.com/cdn/shop/products/LBOD-01.jpg?v=1650507200",
+      "image_source_page": "https://one-control.com/products/oc-lbodn"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -7806,9 +7810,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/bjfe-bjf-electronics/mighty-red-distortion-mrd/primary.webp",
       "source_page": "https://www.bjfe.jp/products/bjfemrd",
-      "research_record": "./research/pedals/PRP Batch 093/Mighty Red Distortion (MRD).md"
+      "research_record": "./research/pedals/PRP Batch 093/Mighty Red Distortion (MRD).md",
+      "image_source_url": "http://www.bjfe.jp/cdn/shop/files/Mighty-Red-Dist-01.png?v=1722400866",
+      "image_source_page": "https://www.bjfe.jp/products/bjfemrd"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -10566,11 +10572,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/browne-amplification/t4-fuzz/primary.webp",
       "source_page": "https://browneamps.com/store/p/m1-fuzz",
       "research_record": "./research/pedals/PRP Batch 122/browne-amplification-t4-fuzz.md",
       "image_source_page": "https://browneamps.com/store/p/m1-fuzz",
-      "image_source_url": "https://browneamps.com/store/p/m1-fuzz"
+      "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/5de9bd8396bd8d4d44e57b78/1787688138561/T4_Fix.png?format=1500w"
     },
     {
       "company": "Browne Amplification",
@@ -10796,11 +10802,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bruno/bod-1/primary.webp",
       "source_page": "https://www.brunoguitars.com/",
       "research_record": "./research/pedals/PRP Batch 125/bruno-bod-1.md",
       "image_source_page": "https://www.brunoguitars.com/",
-      "image_source_url": "https://www.brunoguitars.com/"
+      "image_source_url": "https://static.wixstatic.com/media/da0c31_043ec3b56a204f26a41d6443968c60f7%7Emv2_d_6000_4000_s_4_2.jpg/v1/fit/w_2500,h_1330,al_c/da0c31_043ec3b56a204f26a41d6443968c60f7%7Emv2_d_6000_4000_s_4_2.jpg"
     },
     {
       "company": "BSM",
@@ -10916,11 +10922,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/budda/om-overdrive/primary.webp",
       "source_page": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm",
       "research_record": "./research/pedals/PRP Batch 127/budda-om-overdrive.md",
       "image_source_page": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm",
-      "image_source_url": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm"
+      "image_source_url": "https://www.budda.com/includes/images/BuddaLogo.png"
     },
     {
       "company": "Budda",
@@ -11567,9 +11573,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bulinski-effect-pedals/filth-foundry-guitar-fuzz/primary.webp",
       "source_page": "https://bulinskipedals.com/shop/filth-foundry-guitar-fuzz/",
-      "research_record": "./research/pedals/PRP Batch 132/filth-foundry-guitar-fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 132/filth-foundry-guitar-fuzz.md",
+      "image_source_url": "https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2024/08/Filth-Foundry-Fuzz.jpg?resize=600%2C600&ssl=1",
+      "image_source_page": "https://bulinskipedals.com/shop/filth-foundry-guitar-fuzz/"
     },
     {
       "company": "Bulinski Effect Pedals",
@@ -11577,9 +11585,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bulinski-effect-pedals/gnarly-bee/primary.webp",
       "source_page": "https://bulinskipedals.com/shop/gnarly-bee-fuzzrite-clone/",
-      "research_record": "./research/pedals/PRP Batch 132/gnarly-bee.md"
+      "research_record": "./research/pedals/PRP Batch 132/gnarly-bee.md",
+      "image_source_url": "https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2022/05/Bulinski-Gnarly-Bee-1.jpg?fit=1200%2C1200&ssl=1",
+      "image_source_page": "https://bulinskipedals.com/shop/gnarly-bee-fuzzrite-clone/"
     },
     {
       "company": "Bulinski Effect Pedals",
@@ -11587,9 +11597,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/bulinski-effect-pedals/hard-80-distortion/primary.webp",
       "source_page": "https://bulinskipedals.com/shop/hard-80-distortion/",
-      "research_record": "./research/pedals/PRP Batch 132/hard-80-distortion.md"
+      "research_record": "./research/pedals/PRP Batch 132/hard-80-distortion.md",
+      "image_source_url": "https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2023/03/Bulinski-Hard-80-Distortion-1.jpg?fit=1200%2C1200&ssl=1",
+      "image_source_page": "https://bulinskipedals.com/shop/hard-80-distortion/"
     },
     {
       "company": "Bulinski Effect Pedals",
@@ -11775,10 +11787,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/byron-amplification/pai-mei-fuzz/primary.webp",
       "source_page": "https://byronamplification.com/pedals",
       "research_record": "./research/pedals/PRP Batch 134/pai-mei-fuzz.md",
-      "image_source_page": "https://byronamplification.com/pedals"
+      "image_source_page": "https://byronamplification.com/pedals",
+      "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
     },
     {
       "company": "Byron Amplification",
