@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Migrate verified pedal image URLs into the canonical local archive."""
 
+import csv
 import hashlib
 import io
 import json
