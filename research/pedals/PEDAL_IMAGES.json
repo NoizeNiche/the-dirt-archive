@@ -1839,7 +1839,7 @@
   {
     "builder": "AMT Electronics",
     "pedal": "SS-20",
-    "image": null,
+    "image": "./assets/pedals/amt-electronics/ss-20/primary.webp",
     "source_page": "https://amtelectronics.com/new/manuals/SS-20-v2-manual-ENG.pdf",
     "research_record": "./research/pedals/PRP Batch 050/SS-20.md",
     "image_source_page": "https://amtelectronics.com/new/amt-ss-20/",
