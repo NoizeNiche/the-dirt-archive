@@ -1,5 +1,5 @@
 {
-  "version": "data-50bdfbcc2b7b",
+  "version": "data-0bf0bc573c68",
   "count": 3819,
   "pedals": [
     {
@@ -6741,9 +6741,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-knob-pedals/range-blaster/primary.webp",
       "source_page": "https://www.bigknobpedals.com/",
-      "research_record": "./research/pedals/PRP Batch 084/Range Blaster.md"
+      "research_record": "./research/pedals/PRP Batch 084/Range Blaster.md",
+      "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/RANGE-20.jpg",
+      "image_source_page": "https://bigknobpedals.com/product/range-blaster/"
     },
     {
       "company": "Big Knob Pedals",
@@ -6761,9 +6763,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-knob-pedals/rock-ola/primary.webp",
       "source_page": "https://www.bigknobpedals.com/",
-      "research_record": "./research/pedals/PRP Batch 084/Rock-Ola.md"
+      "research_record": "./research/pedals/PRP Batch 084/Rock-Ola.md",
+      "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/ROCKOLA-22.jpg",
+      "image_source_page": "https://bigknobpedals.com/product/rock-ola/"
     },
     {
       "company": "Big Knob Pedals",
@@ -6771,9 +6775,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-knob-pedals/tone-blender/primary.webp",
       "source_page": "https://www.bigknobpedals.com/",
-      "research_record": "./research/pedals/PRP Batch 084/Tone Blender.md"
+      "research_record": "./research/pedals/PRP Batch 084/Tone Blender.md",
+      "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/BLENDER-MKII-3.jpg",
+      "image_source_page": "https://bigknobpedals.com/product/tone-blender/"
     },
     {
       "company": "Big Knob Pedals",
@@ -6791,9 +6797,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-knob-pedals/tone-nation/primary.webp",
       "source_page": "https://www.bigknobpedals.com/",
-      "research_record": "./research/pedals/PRP Batch 084/Tone-Nation.md"
+      "research_record": "./research/pedals/PRP Batch 084/Tone-Nation.md",
+      "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/NATION-16-416x416.jpg",
+      "image_source_page": "https://bigknobpedals.com/product/tone-nation/"
     },
     {
       "company": "Big Knob Pedals",
@@ -6801,9 +6809,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-knob-pedals/tube-808/primary.webp",
       "source_page": "https://www.effectsdatabase.com/",
-      "research_record": "./research/pedals/PRP Batch 085/Tube 808.md"
+      "research_record": "./research/pedals/PRP Batch 085/Tube 808.md",
+      "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/TUBE808-24.jpg",
+      "image_source_page": "https://bigknobpedals.com/product/tube-808/"
     },
     {
       "company": "Big Knob Pedals",
@@ -7715,9 +7725,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bjfe-bjf-electronics/sparkling-yellow-overdrive-syod/primary.webp",
       "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
-      "research_record": "./research/pedals/PRP Batch 093/Sparkling Yellow Overdrive (SYOD).md"
+      "research_record": "./research/pedals/PRP Batch 093/Sparkling Yellow Overdrive (SYOD).md",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--x4vQPa8c--/quality=medium-low,height=400,width=400,fit=cover,gravity=bottom/ffc1a801-e692-4964-975b-e117078983f5.jpg",
+      "image_source_page": "https://reverb.com/item/93719572-diy-sparkling-yellow-overdrive-2-bjfe-bearfoot-syod2-clone-guitar-pedal"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -7725,9 +7737,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bjfe-bjf-electronics/sparkling-yellow-overdrive-version-2-syod-v-2/primary.webp",
       "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
-      "research_record": "./research/pedals/PRP Batch 093/Sparkling Yellow Overdrive Version 2 (SYOD V.2).md"
+      "research_record": "./research/pedals/PRP Batch 093/Sparkling Yellow Overdrive Version 2 (SYOD V.2).md",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--Vp3WlJFX--/quality=medium-low,height=800,width=800,fit=contain/0768a854-d611-47e4-b6ee-46bd93fd92d5.jpg",
+      "image_source_page": "https://reverb.com/item/93719572-diy-sparkling-yellow-overdrive-2-bjfe-bearfoot-syod2-clone-guitar-pedal"
     },
     {
       "company": "Black Arts Toneworks",
@@ -8414,9 +8428,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackhawk-amplifiers/uruk-hai-mkii-parallel-drive-fuzz/primary.webp",
       "source_page": "https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii",
-      "research_record": "./research/pedals/PRP Batch 101/Uruk-Hai MKII Parallel Drive & Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 101/Uruk-Hai MKII Parallel Drive & Fuzz.md",
+      "image_source_url": "https://assets.bigcartel.com/product_images/22cd516c-f46a-44c4-805e-4066de41deeb/uruk-hai-parallel-mkii.jpg?auto=format&fit=max&h=1200&w=1200",
+      "image_source_page": "https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -8434,9 +8450,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackhawk-amplifiers/valkyrie-drive/primary.webp",
       "source_page": "https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii",
-      "research_record": "./research/pedals/PRP Batch 101/Valkyrie Drive.md"
+      "research_record": "./research/pedals/PRP Batch 101/Valkyrie Drive.md",
+      "image_source_url": "https://assets.bigcartel.com/product_images/22cd516c-f46a-44c4-805e-4066de41deeb/uruk-hai-parallel-mkii.jpg?auto=format&fit=max&h=1200&w=1200",
+      "image_source_page": "https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -8445,9 +8463,11 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackhawk-amplifiers/windhand-lbm-fuzz/primary.webp",
       "source_page": "https://www.blackhawkamplifiers.com/product/windhand-lbm-fuzz",
-      "research_record": "./research/pedals/PRP Batch 101/Windhand LBM Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 101/Windhand LBM Fuzz.md",
+      "image_source_url": "https://assets.bigcartel.com/product_images/2749a59c-a8bd-4e7e-a4dd-c46f38cc0e19/windhand-lbm-fuzz.jpg?auto=format&fit=max&h=1200&w=1200",
+      "image_source_page": "https://www.blackhawkamplifiers.com/product/windhand-lbm-fuzz"
     },
     {
       "company": "BlackOutEffectors",
@@ -10910,11 +10930,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/buffalo-fx/stiletto-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/buffalofx/stiletto",
       "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-stiletto-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/stiletto",
-      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/stiletto"
+      "image_source_page": "https://topshelfinstruments.com.au/products/buffalo-fx-stiletto-fuzz-pedal",
+      "image_source_url": "http://topshelfinstruments.com.au/cdn/shop/products/IMG_0708_4bb72b37-ec83-4170-be7f-7f663d27ff00.jpg?v=1578097105"
     },
     {
       "company": "Buffalo FX",
@@ -11057,11 +11077,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/crown-jewel/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc",
       "research_record": "./research/pedals/PRP Batch 129/crown-jewel.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/byoc",
-      "image_source_url": "https://www.effectsdatabase.com/model/byoc"
+      "image_source_page": "https://stompboxschematics.com/circuits/crown-jewel-by-build-your-own-clone-byoc/",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/black-black_large.jpg"
     },
     {
       "company": "Build Your Own Clone",
@@ -11081,11 +11101,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/el-distorto-segundo/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc",
       "research_record": "./research/pedals/PRP Batch 129/el-distorto-segundo.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/byoc",
-      "image_source_url": "https://www.effectsdatabase.com/model/byoc"
+      "image_source_page": "https://stompboxschematics.com/circuits/el-distorto-segundo-by-build-your-own-clone-byoc/",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/groupo_large.jpeg"
     },
     {
       "company": "Build Your Own Clone",
@@ -11105,9 +11125,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/green-pony/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 130/green-pony.md"
+      "research_record": "./research/pedals/PRP Batch 130/green-pony.md",
+      "image_source_url": "https://evolutionmusicstore.com/cdn/shop/products/k0vey9pcw2y1zx2incei_15f289d6-1e1e-4cec-ab32-c2be96bdfefd_600x.jpg?v=1592671036",
+      "image_source_page": "https://evolutionmusicstore.com/products/byoc-build-your-own-clone-green-pony-overdrive-pedal-maxon-od-820"
     },
     {
       "company": "Build Your Own Clone",
@@ -11115,9 +11137,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/leeds-fuzz/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 130/leeds-fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 130/leeds-fuzz.md",
+      "image_source_url": "https://live.staticflickr.com/5202/5244971509_699cd01820_b.jpg",
+      "image_source_page": "https://www.flickr.com/photos/scottish/5244971509"
     },
     {
       "company": "Build Your Own Clone",
@@ -11195,9 +11219,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/li-l-gray-od/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 130/li-l-gray-od.md"
+      "research_record": "./research/pedals/PRP Batch 130/li-l-gray-od.md",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/lilgarypainted_large-134x300.jpg",
+      "image_source_page": "https://stompboxschematics.com/circuits/lil-gray-od-kit-by-build-your-own-clone-byoc/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11205,9 +11231,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/li-l-modified-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc/lil/modifiedoverdrive",
-      "research_record": "./research/pedals/PRP Batch 131/li-l-modified-overdrive.md"
+      "research_record": "./research/pedals/PRP Batch 131/li-l-modified-overdrive.md",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/lilmodod_large.jpg",
+      "image_source_page": "https://stompboxschematics.com/circuits/lil-modified-overdrive-kit-by-build-your-own-clone-byoc/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11225,9 +11253,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/li-l-yellow-od/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc/lil/yellowod",
-      "research_record": "./research/pedals/PRP Batch 131/li-l-yellow-od.md"
+      "research_record": "./research/pedals/PRP Batch 131/li-l-yellow-od.md",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/lilyellowpainted_large.jpg",
+      "image_source_page": "https://stompboxschematics.com/circuits/lil-yellow-od-kit-by-build-your-own-clone-byoc/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11235,9 +11265,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/mighty-mouse/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc/mightymouse",
-      "research_record": "./research/pedals/PRP Batch 131/mighty-mouse.md"
+      "research_record": "./research/pedals/PRP Batch 131/mighty-mouse.md",
+      "image_source_url": "https://medias.audiofanzine.com/images/normal/build-your-own-clone-mighty-mouse-600884.jpg",
+      "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/build-your-own-clone/Mighty-Mouse/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11245,9 +11277,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/orange-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc/distortion/orange",
-      "research_record": "./research/pedals/PRP Batch 131/orange-distortion.md"
+      "research_record": "./research/pedals/PRP Batch 131/orange-distortion.md",
+      "image_source_url": "https://img.audiofanzine.com/images/u/product/normal/build-your-own-clone-orange-distortion-240464.jpg",
+      "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/build-your-own-clone/orange-distorsion/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11265,9 +11299,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/parametric-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc/overdrive/parametric",
-      "research_record": "./research/pedals/PRP Batch 131/parametric-overdrive.md"
+      "research_record": "./research/pedals/PRP Batch 131/parametric-overdrive.md",
+      "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/parametricodgroupo_large.jpeg",
+      "image_source_page": "https://stompboxschematics.com/circuits/parametric-overdrive-by-build-your-own-clone-byoc/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11275,9 +11311,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/screamer-clone/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc/screamer",
-      "research_record": "./research/pedals/PRP Batch 131/screamer-clone.md"
+      "research_record": "./research/pedals/PRP Batch 131/screamer-clone.md",
+      "image_source_url": "https://medias.audiofanzine.com/images/normal/build-your-own-clone-screamer-74777.jpg",
+      "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/build-your-own-clone/Screamer/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11286,9 +11324,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/shredder/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc/shredder",
-      "research_record": "./research/pedals/PRP Batch 131/shredder.md"
+      "research_record": "./research/pedals/PRP Batch 131/shredder.md",
+      "image_source_url": "https://www.five-cats-pedals.co.uk/wp-content/uploads/2023/05/fcp-shredder-3d-600x600.jpg",
+      "image_source_page": "https://www.five-cats-pedals.co.uk/product/shredder-marshall-shred-master-clone/"
     },
     {
       "company": "Build Your Own Clone",
@@ -11622,10 +11662,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/byron-amplification/shearling-overdrive/primary.webp",
       "source_page": "https://byronamplification.com/pedals",
       "research_record": "./research/pedals/PRP Batch 134/shearling-overdrive.md",
-      "image_source_page": "https://byronamplification.com/pedals"
+      "image_source_page": "https://byronamplification.com/pedals",
+      "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
     },
     {
       "company": "Byron Amplification",
@@ -11633,10 +11674,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/byron-amplification/viper-ninja-overdrive/primary.webp",
       "source_page": "https://byronamplification.com/pedals/viperninja-champagne",
       "research_record": "./research/pedals/PRP Batch 134/viper-ninja-overdrive.md",
-      "image_source_page": "https://byronamplification.com/pedals/viperninja-champagne"
+      "image_source_page": "https://byronamplification.com/pedals/viperninja-champagne",
+      "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/5674690a0e4c117c4c56a16a/63fee4e0e879653f2e52a701/1677649352061/2023-02-28+23.25.49.jpg?format=1500w"
     },
     {
       "company": "BYW Audio",
@@ -11996,9 +12038,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-20-crazy-cacti/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp20",
-      "research_record": "./research/pedals/PRP Batch 140/cp-20-crazy-cacti.md"
+      "research_record": "./research/pedals/PRP Batch 140/cp-20-crazy-cacti.md",
+      "image_source_url": "https://justpedals.co.uk/wp-content/uploads/2026/05/H7b421f2763ec43b2b5dc30ec77b0b50cs.webp",
+      "image_source_page": "https://justpedals.co.uk/product/caline-cp-20-crazy-cacti-overdrive-guitar-effect-pedal-true-bypass-guitar-accessories/"
     },
     {
       "company": "Caline",
@@ -12006,9 +12050,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-21-rock-face/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp21",
-      "research_record": "./research/pedals/PRP Batch 140/cp-21-rock-face.md"
+      "research_record": "./research/pedals/PRP Batch 140/cp-21-rock-face.md",
+      "image_source_url": "https://bigamartusax.s3-accelerate.amazonaws.com/2020/05/61bxILlp8xL._AC_SL1000_.jpg",
+      "image_source_page": "https://bigamart.com/product/caline-cp-21-rock-face-distortion-pedal/"
     },
     {
       "company": "Caline",
@@ -12026,9 +12072,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-27-sand-storm/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp27",
-      "research_record": "./research/pedals/PRP Batch 140/cp-27-sand-storm.md"
+      "research_record": "./research/pedals/PRP Batch 140/cp-27-sand-storm.md",
+      "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/11/caline-sandstorm-distortion-effects-pedal.jpg",
+      "image_source_page": "https://www.effects-pedals.info/p/caline-cp-27-sand-storm/"
     },
     {
       "company": "Caline",
@@ -12760,10 +12808,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/carl-martin/panama/primary.webp",
       "source_page": "https://carlmartin.com/products/panama/",
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-panama.md",
-      "image_source_page": "https://carlmartin.com/products/panama/"
+      "image_source_page": "https://www.musicjunction.com.au/products/carl-martin-panama-overdrive-guitar-pedal",
+      "image_source_url": "https://www.musicjunction.com.au/cdn/shop/files/57355_3.png?v=1754268681&width=2048"
     },
     {
       "company": "Carl Martin",
@@ -12771,10 +12820,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/carl-martin/plexiranger/primary.webp",
       "source_page": "https://carlmartin.com/products/plexiranger/",
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-plexiranger.md",
-      "image_source_page": "https://carlmartin.com/products/plexiranger/"
+      "image_source_page": "https://paytons.com.au/product/carl-martin-plexiranger-guitar-pedal/",
+      "image_source_url": "https://paytons.com.au/wp-content/uploads/2025/05/plexi-ranger.jpg"
     },
     {
       "company": "Carl Martin",
@@ -12783,10 +12833,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/carl-martin/plexitone/primary.webp",
       "source_page": "https://carlmartin.com/products/plexitone/",
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-plexitone.md",
-      "image_source_page": "https://carlmartin.com/products/plexitone/"
+      "image_source_page": "https://www.pitbullaudio.com/carl-martin-plexitone-single-channel-overdrive-guitar-effects-pedal.html",
+      "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/c/m/cm-plexitone-2.jpg?quality=95&bg-color=255,255,255&fit=bounds&height=&width="
     },
     {
       "company": "Carl Martin",
@@ -12794,10 +12845,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/carl-martin/plexitone-lo-gain/primary.webp",
       "source_page": "https://carlmartin.com/products/plexitone-lo-gain/",
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-plexitone-lo-gain.md",
-      "image_source_page": "https://carlmartin.com/products/plexitone-lo-gain/"
+      "image_source_page": "https://www.pitbullaudio.com/carl-martin-plexitone-lo-gain-distortion-guitar-effects-pedal.html",
+      "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/i/t/it5592.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width="
     },
     {
       "company": "Carl Martin",
@@ -12895,10 +12947,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/carlson/e20mt-heavy-metal/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/carlson/e20mt",
       "research_record": "./research/pedals/PRP Batch 150/carlson-e20mt-heavy-metal.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carlson/e20mt"
+      "image_source_page": "https://www.guitarnet.se/store/p/0/daphon-heavy-metal-e20mt-158169",
+      "image_source_url": "https://h24-original.s3.amazonaws.com/62617/9894575-a8YHq.jpg"
     },
     {
       "company": "Carmedon Electronics",
@@ -12919,10 +12972,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caroline-guitar-company/aaron-graves-overdrive/primary.webp",
       "source_page": "https://carolineguitar.com/product/graves_drive/",
       "research_record": "./research/pedals/PRP Batch 150/caroline-guitar-company-aaron-graves-overdrive.md",
-      "image_source_page": "https://carolineguitar.com/product/graves_drive/"
+      "image_source_page": "https://www.cottonwoodmusicemporium.com/products/caroline-guitar-aaron-graves-overdrive-versatile-preamp-drive-pedal",
+      "image_source_url": "https://www.cottonwoodmusicemporium.com/cdn/shop/files/full_11751eef-b442-4954-b1e4-e1a7dabcdbf0_1600x.jpg?v=1779822108"
     },
     {
       "company": "Caroline Guitar Company",
@@ -12932,10 +12986,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caroline-guitar-company/crom/primary.webp",
       "source_page": "https://carolineguitar.com/product/crom/",
       "research_record": "./research/pedals/PRP Batch 150/caroline-guitar-company-crom.md",
-      "image_source_page": "https://carolineguitar.com/product/crom/"
+      "image_source_page": "https://reverb.com/item/94448473-caroline-guitar-company-crom",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--p6wWVnNt--/quality=medium-low,height=800,width=800,fit=contain/0c0517dd-fe5c-44b1-b099-691411779ace.jpeg"
     },
     {
       "company": "Caroline Guitar Company",
@@ -12945,10 +13000,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caroline-guitar-company/hawaiian-pizza/primary.webp",
       "source_page": "https://carolineguitar.com/product/hawaiian-pizza/",
       "research_record": "./research/pedals/PRP Batch 150/caroline-guitar-company-hawaiian-pizza.md",
-      "image_source_page": "https://carolineguitar.com/product/hawaiian-pizza/"
+      "image_source_page": "https://www.intoguitar.com/gear-reviews/caroline-hawaiian-pizza/",
+      "image_source_url": "https://www.intoguitar.com/images/gear/caroline-hawaiin-pizza-gallery/caroline-hawaiian-pizza-pink.png"
     },
     {
       "company": "Caroline Guitar Company",
@@ -13498,10 +13554,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/catalinbread-effects/antichthon/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/catalinbread/antichthon",
       "research_record": "./research/pedals/PRP Batch 155/catalinbread-antichthon.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/catalinbread/antichthon"
+      "image_source_page": "https://www.soundforpe.com/product/catalinbread-antichthon-effects-pedal/",
+      "image_source_url": "https://www.soundforpe.com/wp-content/uploads/2026/3/1774507424/catalinbread-antichthon-effects-pedal-1774507433.webp"
     },
     {
       "company": "Catalinbread Effects",
@@ -13948,9 +14005,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/catalinbread-effects/silver-kiss-overdrive/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 161/catalinbread-silver-kiss-overdrive.md"
+      "research_record": "./research/pedals/PRP Batch 161/catalinbread-silver-kiss-overdrive.md",
+      "image_source_url": "https://images.pedalfilter.com/catalinbread-silverkissoverdrivereissue.png",
+      "image_source_page": "https://pedalfilter.com/catalinbread/silver-kiss-overdrive-reissue"
     },
     {
       "company": "Catalinbread Effects",
@@ -14008,9 +14067,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cathouse-pedals/rat-fink/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 161/cathouse-pedals-rat-fink.md"
+      "research_record": "./research/pedals/PRP Batch 161/cathouse-pedals-rat-fink.md",
+      "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2016/09/CathousePedals_RatFinkDistortion.jpg",
+      "image_source_page": "https://www.pedal-of-the-day.com/2016/09/08/cathouse-pedals-rat-fink-distortion/"
     },
     {
       "company": "Cathouse Pedals",
@@ -14018,9 +14079,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cathouse-pedals/the-bender/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 161/cathouse-pedals-the-bender.md"
+      "research_record": "./research/pedals/PRP Batch 161/cathouse-pedals-the-bender.md",
+      "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2016/10/CathousePedals_TheBenderFuzz-300x300.jpg",
+      "image_source_page": "https://www.pedal-of-the-day.com/2016/10/06/cathouse-pedals-the-bender-fuzz/"
     },
     {
       "company": "Cathouse Pedals",
@@ -14029,9 +14092,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cathouse-pedals/the-screamer/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 161/cathouse-pedals-the-screamer.md"
+      "research_record": "./research/pedals/PRP Batch 161/cathouse-pedals-the-screamer.md",
+      "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2016/11/CathousePedals_TheScreamerDistortion.jpg",
+      "image_source_page": "https://www.pedal-of-the-day.com/2016/11/23/cathouse-pedals-the-screamer-distortion/"
     },
     {
       "company": "Cause & Effect Pedals (CE Pedals)",
@@ -14050,9 +14115,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/caustic-fx/snowstorm/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 160/causticfx-snowstorm.md"
+      "research_record": "./research/pedals/PRP Batch 160/causticfx-snowstorm.md",
+      "image_source_url": "https://static.wixstatic.com/media/602685_ba1a677497884bdb94edfe8528b82b2a~mv2.png/v1/fill/w_980,h_1323,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/602685_ba1a677497884bdb94edfe8528b82b2a~mv2.png",
+      "image_source_page": "https://www.causticfx.com/product-page/snowstorm"
     },
     {
       "company": "Cave Passive Pedals",
@@ -14152,9 +14219,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cave-pedals/fetish/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 160/cave-fetish.md"
+      "research_record": "./research/pedals/PRP Batch 160/cave-fetish.md",
+      "image_source_url": "https://cf1.zzounds.com/media/productmedia/fit,2018by3200/quality,85/NEWFETISH_Done-76e5e8976c3770201a170be132249bc3.jpg",
+      "image_source_page": "https://www.zzounds.com/item--ISPFETISH"
     },
     {
       "company": "Cave Pedals",
