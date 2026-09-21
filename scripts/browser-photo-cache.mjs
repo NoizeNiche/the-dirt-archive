@@ -238,6 +238,15 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
       await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: SEARCH_TIMEOUT });
       await page.waitForTimeout(350);
 
+      // Reverb's sold-results grid can lazy-load additional listings as the
+      // viewport moves. Do a few bounded scrolls rather than a full-page scrape.
+      for (let i = 0; i < (deepReview ? 4 : 2); i++) {
+        await page.mouse.wheel(0, 1400);
+        await page.waitForTimeout(250);
+      }
+      await page.mouse.wheel(0, -5600);
+      await page.waitForTimeout(200);
+
       const results = await page.evaluate(() => {
         const out = [];
         for (const el of document.querySelectorAll('a[href*="/item/"]')) {
