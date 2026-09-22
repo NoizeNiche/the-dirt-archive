@@ -184,7 +184,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 392
+      "image_source_priority": 376
     },
     {
       "company": "A/DA",
@@ -595,7 +595,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/accel/od",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 355
+      "image_source_priority": 349
     },
     {
       "company": "Accel Audio",
@@ -613,7 +613,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 356
+      "image_source_priority": 323
     },
     {
       "company": "Accel Audio",
@@ -1295,7 +1295,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/advsystems/distortion",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 338
+      "image_source_priority": 332
     },
     {
       "company": "ADV Systems",
@@ -1312,7 +1312,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/advsystems/overdrive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 389
+      "image_source_priority": 333
     },
     {
       "company": "Advance Tube Technology",
@@ -1455,7 +1455,7 @@
       "research_record": "./research/pedals/Aether Electronic/Lenore.md",
       "image_source_page": "https://www.effectsdatabase.com/model/aether/lenore",
       "image_source_page_verified": true,
-      "image_source_priority": 391,
+      "image_source_priority": 375,
       "image_source_pages": [
         "https://aetherelectronic.wordpress.com/2017/03/11/lenore-demo-and-release/",
         "https://www.effectsdatabase.com/model/aether/lenore"
@@ -1495,7 +1495,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/agrpedals/ds2610",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 334
+      "image_source_priority": 328
     },
     {
       "company": "AGR Pedals",
@@ -1512,7 +1512,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/agrpedals/fzr912",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 335
+      "image_source_priority": 329
     },
     {
       "company": "AGR Pedals",
@@ -1583,7 +1583,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 320
+      "image_source_priority": 316
     },
     {
       "company": "Airis Effects",
@@ -1649,7 +1649,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/ajcustom/distortion",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 359
+      "image_source_priority": 342
     },
     {
       "company": "Akai",
@@ -1747,7 +1747,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/fu1000",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 360
+      "image_source_priority": 338
     },
     {
       "company": "Alber",
@@ -1764,7 +1764,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/alber/x00p/fu1000p",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 345
+      "image_source_priority": 339
     },
     {
       "company": "Alber",
@@ -1799,7 +1799,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/ga1040",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 361
+      "image_source_priority": 341
     },
     {
       "company": "Alber",
@@ -1896,7 +1896,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/alcove/alp200",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 362
+      "image_source_priority": 346
     },
     {
       "company": "Alden",
@@ -1926,7 +1926,7 @@
       "image_source_page": "https://aucfree.com/items/c645005215",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 394
+      "image_source_priority": 377
     },
     {
       "company": "Aleatorik",
@@ -1991,7 +1991,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/alengeere/crowncentaur",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 390
+      "image_source_priority": 334
     },
     {
       "company": "Alen Geere",
@@ -2023,10 +2023,10 @@
         "https://reverb.com/item/11628-alen-geere-loverdrive",
         "https://www.effectsdatabase.com/model/alengeere/loverdrive"
       ],
-      "image_source_page": "https://reverb.com/item/11628-alen-geere-loverdrive",
+      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/loverdrive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 393
+      "image_source_priority": 350
     },
     {
       "company": "Alen Geere",
@@ -2043,7 +2043,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/alengeere/methoxy",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 365
+      "image_source_priority": 351
     },
     {
       "company": "Alen Geere",
@@ -2186,7 +2186,7 @@
       "image_source_page": "https://produto.mercadolivre.com.br/MLB-953389761-pedal-guitarra-alien-origami-overdrive-_JM",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 388
+      "image_source_priority": 374
     },
     {
       "company": "Alien Rabbit",
@@ -2514,7 +2514,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 321
+      "image_source_priority": 320
     },
     {
       "company": "Amptweaker",
@@ -2661,7 +2661,7 @@
       "image_source_page": "https://reverb.com/uk/item/65960922-amsterdam-cream-big-eye-fuzz",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 357
+      "image_source_priority": 345
     },
     {
       "company": "Amsterdam Cream",
@@ -2719,7 +2719,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/amt/bs",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 380
+      "image_source_priority": 366
     },
     {
       "company": "AMT Electronics",
@@ -3268,7 +3268,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/analogsound/boogieman",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 368
+      "image_source_priority": 354
     },
     {
       "company": "Anarchy Audio Australia",
@@ -3285,7 +3285,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/anarchyaudio/baabzz",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 376
+      "image_source_priority": 362
     },
     {
       "company": "Anarchy Audio Australia",
@@ -3913,7 +3913,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 322
+      "image_source_priority": 282
     },
     {
       "company": "Asheville Guitar Pedals",
@@ -3930,7 +3930,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 323
+      "image_source_priority": 281
     },
     {
       "company": "Astral ToneWorx",
@@ -4113,7 +4113,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/audile/toad/bass",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 378
+      "image_source_priority": 364
     },
     {
       "company": "Audile",
@@ -4204,7 +4204,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/audiomonk/fuzzbeard",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 369
+      "image_source_priority": 355
     },
     {
       "company": "Audio Monk",
@@ -4221,7 +4221,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/audiomonk/fuzzpotion",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 370
+      "image_source_priority": 356
     },
     {
       "company": "Audio Monk",
@@ -4348,7 +4348,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/audiophonic/r4",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 371
+      "image_source_priority": 357
     },
     {
       "company": "Audio-Phonic",
@@ -4365,7 +4365,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/audiophonic/twinfuzz",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 372
+      "image_source_priority": 358
     },
     {
       "company": "Audio! Audio!",
@@ -4492,7 +4492,7 @@
       "image_source_page": "https://audiostorm.uk/retired-products/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 383
+      "image_source_priority": 369
     },
     {
       "company": "Audiostorm",
@@ -4509,7 +4509,7 @@
       "image_source_page": "https://audiostorm.uk/retired-products/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 384
+      "image_source_priority": 370
     },
     {
       "company": "Audiostorm",
@@ -4540,7 +4540,7 @@
       "image_source_page": "https://audiostorm.uk/retired-products/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 385
+      "image_source_priority": 371
     },
     {
       "company": "Audiostorm",
@@ -4569,7 +4569,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/aul/fuzz",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 375
+      "image_source_priority": 361
     },
     {
       "company": "Aural Dream",
@@ -4586,7 +4586,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/auraldream/distortion/bold",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 373
+      "image_source_priority": 359
     },
     {
       "company": "Aural Dream",
@@ -4615,7 +4615,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/auraldream/distortion/intense",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 374
+      "image_source_priority": 360
     },
     {
       "company": "Aural Dream",
@@ -4710,7 +4710,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/automat/tripleganger",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 379
+      "image_source_priority": 365
     },
     {
       "company": "Auxiliary Workshop",
@@ -4745,7 +4745,7 @@
       "image_source_page": "https://www.guitarpedalx.com/news/news/a-quick-look-at-the-auxiliary-workshop-the-devils-handshake",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 395
+      "image_source_priority": 378
     },
     {
       "company": "AVIA",
@@ -5430,7 +5430,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 324
+      "image_source_priority": 317
     },
     {
       "company": "Bad Penny FX",
@@ -5715,7 +5715,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 325
+      "image_source_priority": 321
     },
     {
       "company": "Baja Tech Custom",
@@ -5955,7 +5955,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 326
+      "image_source_priority": 322
     },
     {
       "company": "Barber Electronics",
@@ -6806,7 +6806,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 327
+      "image_source_priority": 279
     },
     {
       "company": "BearFoot FX",
@@ -6900,7 +6900,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 328
+      "image_source_priority": 280
     },
     {
       "company": "BearFoot FX",
@@ -8427,7 +8427,7 @@
       "image_source_page": "https://www.bigfootengineering.com/ltd.html",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 382
+      "image_source_priority": 368
     },
     {
       "company": "Bigfoot Engineering",
@@ -9130,7 +9130,7 @@
       "image_source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 401
+      "image_source_priority": 384
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -9189,7 +9189,7 @@
       "image_source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 402
+      "image_source_priority": 385
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -9206,7 +9206,7 @@
       "image_source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 403
+      "image_source_priority": 386
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -9295,7 +9295,7 @@
       "image_source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 404
+      "image_source_priority": 387
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -9349,7 +9349,7 @@
       "image_source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 405
+      "image_source_priority": 388
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -10095,7 +10095,7 @@
       "image_source_page": "https://reverb.com/item/26935698-blackhawk-gandalf-one-knob-octave-fuzz-v2",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 396
+      "image_source_priority": 379
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -10220,7 +10220,7 @@
       "image_source_page": "https://reverb.com/item/75995463-blackhawk-amplifiers-ram-s-head-big-muff-fuzz-pedal",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 398
+      "image_source_priority": 381
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -10250,7 +10250,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 397
+      "image_source_priority": 380
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -10369,7 +10369,7 @@
       "image_source_page": "https://blackouteffectors.com/effects/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 386
+      "image_source_priority": 372
     },
     {
       "company": "BlackOutEffectors",
@@ -12201,7 +12201,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 354
+      "image_source_priority": 348
     },
     {
       "company": "Brotech Electronics",
@@ -14093,7 +14093,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/cqo/superdistortion",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 399
+      "image_source_priority": 382
     },
     {
       "company": "C14 Devices",
@@ -17149,7 +17149,7 @@
       "image_source_page": "https://www.rockboard.de/en/pedalPedia/Skrydstrup-RD/ODR-2/68984309/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 343
+      "image_source_priority": 337
     },
     {
       "company": "CBC Pedals",
@@ -17159,7 +17159,14 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/CBC Pedals/Ampeg Scrambler.md"
+      "research_record": "./research/pedals/CBC Pedals/Ampeg Scrambler.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/ampeg/scrambler"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/ampeg/scrambler",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 389
     },
     {
       "company": "CBC Pedals",
@@ -17176,7 +17183,7 @@
       "image_source_page": "https://reverb.com/uk/item/46487537-cbc-pedals-the-tone-machine-foxx-tone-machine-clone",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 400
+      "image_source_priority": 383
     },
     {
       "company": "CBC Pedals",
@@ -17246,7 +17253,16 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": null,
+      "image_source_pages": [
+        "https://reverb.com/item/2817718-cbc-pedals-the-drive-zendrive-clone",
+        "https://reverb.com/item/3942273-cbc-pedals-the-drive-zendrive-clone",
+        "https://reverb.com/item/32819491-cbc-the-drive-zendrive-clone"
+      ],
+      "image_source_page": "https://reverb.com/item/32819491-cbc-the-drive-zendrive-clone",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 392
     },
     {
       "company": "CBC Pedals",
