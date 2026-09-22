@@ -828,62 +828,147 @@ async function recoverEntry(browser, entry, deepReview = false) {
         const parsedSource = new URL(sourcePage);
         const isReverbListing = isReverbListingUrl(sourcePage);
         await page.goto(sourcePage, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
-        await page.waitForTimeout(isReverbListing ? 1400 : 350);
+        await page.waitForTimeout(isReverbListing ? 1400 : 500);
 
         if (isReverbListing) {
           await page.mouse.wheel(0, 900);
           await page.waitForTimeout(450);
         }
 
+        const pedalPhrase = normalizedIdentity(entry.pedal);
         const pedalTokens = identityTokens(entry.pedal);
-        const imageSelectors = await page.evaluate((tokens) => {
-          const candidates = [];
+        const builderTokens = identityTokens(entry.company);
+
+        // Curated source pages are already tied to the exact pedal. The remaining
+        // problem is selecting the *right* image when a product page contains
+        // multiple photos, logos, thumbnails, or several products. Score the image
+        // together with its semantic card/figure context rather than only the URL.
+        const candidates = await page.evaluate(({ pedalPhrase, pedalTokens, builderTokens }) => {
+          const normalize = value => String(value || '')
+            .toLowerCase()
+            .replace(/\+/g, ' plus ')
+            .replace(/[^a-z0-9]+/g, ' ')
+            .replace(/\s+/g, ' ')
+            .trim();
+
+          const phraseCompact = pedalPhrase.replace(/\s+/g, '');
+          const rows = [];
+
           for (const img of document.querySelectorAll('img')) {
-            const rect = img.getBoundingClientRect();
-            const src = img.currentSrc || img.src || '';
-            const alt = String(img.alt || '').toLowerCase();
-            const hint = (src + ' ' + alt).toLowerCase();
+            const src =
+              img.currentSrc ||
+              img.src ||
+              img.getAttribute('data-src') ||
+              img.getAttribute('data-lazy-src') ||
+              img.getAttribute('data-original') ||
+              '';
             if (!src || src.startsWith('data:')) continue;
-            if (/(logo|avatar|icon|sprite|favicon|banner)/i.test(hint)) continue;
 
-            const visibleWidth = Math.max(rect.width, Number(img.naturalWidth) || 0);
-            const visibleHeight = Math.max(rect.height, Number(img.naturalHeight) || 0);
-            if (visibleWidth < 140 || visibleHeight < 140) continue;
+            const rect = img.getBoundingClientRect();
+            const naturalWidth = Number(img.naturalWidth) || 0;
+            const naturalHeight = Number(img.naturalHeight) || 0;
+            const width = Math.max(rect.width, naturalWidth);
+            const height = Math.max(rect.height, naturalHeight);
+            if (width < 140 || height < 140) continue;
 
-            const normalized = hint.replace(/[^a-z0-9]+/g, ' ');
-            const tokenHits = tokens.filter(token => normalized.includes(token)).length;
-            const area = visibleWidth * visibleHeight;
-            candidates.push({
+            const alt = String(img.alt || '');
+            const classes = String(img.className || '');
+            const rawHint = [src, alt, classes].join(' ');
+            if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social)/i.test(rawHint)) continue;
+
+            const contexts = [];
+            let node = img;
+            for (let depth = 0; depth < 5 && node; depth++, node = node.parentElement) {
+              const tag = String(node.tagName || '').toLowerCase();
+              const semantic =
+                /^(figure|article|li|a|picture|section)$/i.test(tag) ||
+                node.hasAttribute('data-product') ||
+                node.hasAttribute('data-testid') ||
+                /product|card|gallery|photo|image/i.test(String(node.className || ''));
+              if (semantic) {
+                const text = String(node.textContent || '').replace(/\s+/g, ' ').trim();
+                if (text && text.length <= 900) contexts.push(text);
+              }
+            }
+
+            const context = contexts.join(' ');
+            const hint = normalize([rawHint, context].join(' '));
+            const altNorm = normalize(alt);
+            const srcNorm = normalize(src);
+
+            const tokenHits = pedalTokens.filter(token => hint.includes(token)).length;
+            const altHits = pedalTokens.filter(token => altNorm.includes(token)).length;
+            const srcHits = pedalTokens.filter(token => srcNorm.includes(token)).length;
+            const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+            const exactPhrase = pedalPhrase.length >= 5 && hint.includes(pedalPhrase);
+            const compactExact = phraseCompact.length >= 5 && hint.replace(/\s+/g, '').includes(phraseCompact);
+
+            let score = Math.min(width * height, 1600000) / 1000;
+            score += tokenHits * 120;
+            score += altHits * 90;
+            score += srcHits * 35;
+            score += builderHits * 25;
+            if (exactPhrase) score += 700;
+            if (compactExact) score += 550;
+
+            // Prefer product-card imagery over tiny thumbnails, but do not let a
+            // huge site-background/photo dominate an exact-model match.
+            if (width < 260 || height < 260) score -= 120;
+            if (width > 1800 || height > 1800) score -= 90;
+
+            rows.push({
               src,
-              score: tokenHits * 100000000 + area
+              score,
+              width,
+              height,
+              exactPhrase,
+              tokenHits,
+              altHits,
+              builderHits
             });
           }
 
-          return candidates
-            .sort((a, b) => b.score - a.score)
-            .slice(0, 6)
-            .map(x => x.src);
-        }, pedalTokens);
+          return rows
+            .sort((a, b) =>
+              b.score - a.score ||
+              Number(b.exactPhrase) - Number(a.exactPhrase) ||
+              b.tokenHits - a.tokenHits ||
+              b.width * b.height - a.width * a.height
+            )
+            .slice(0, 10);
+        }, { pedalPhrase, pedalTokens, builderTokens });
 
         const matches = page.locator('img');
         const count = await matches.count();
-        for (const src of imageSelectors) {
+
+        // Try the best semantic matches first. If a lazy image has not loaded yet,
+        // scrolling its element into view gives the page another chance to hydrate
+        // the actual pedal photo before capture.
+        for (const candidate of candidates) {
           for (let i = 0; i < count; i++) {
             const img = matches.nth(i);
-            const currentSrc = await img.evaluate(el => el.currentSrc || el.src || '').catch(() => '');
-            if (currentSrc !== src) continue;
+            const currentSrc = await img.evaluate(el =>
+              el.currentSrc ||
+              el.src ||
+              el.getAttribute('data-src') ||
+              el.getAttribute('data-lazy-src') ||
+              el.getAttribute('data-original') ||
+              ''
+            ).catch(() => '');
+            if (currentSrc !== candidate.src) continue;
+
             await img.scrollIntoViewIfNeeded().catch(() => {});
-            await page.waitForTimeout(120);
+            await page.waitForTimeout(180);
+
             const bytes = await img.screenshot({ type: 'png' }).catch(() => null);
             if (bytes && bytes.length >= 3000) {
-              return { bytes, src };
+              return { bytes, src: candidate.src };
             }
           }
         }
       } catch {}
       return null;
     }
-
     // First trust only candidates discovered on the already-verified source page.
     let selectedResult = await tryImages(
       ranked.filter(candidate => !candidate.searchResult)
