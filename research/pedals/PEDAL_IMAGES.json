@@ -6037,10 +6037,12 @@
   {
     "builder": "BJFE / BJF Electronics",
     "pedal": "Candy Apple Fuzz (CAF)",
-    "image": null,
+    "image": "./assets/pedals/bjfe-bjf-electronics/candy-apple-fuzz-caf/primary.webp",
     "source": "verified research source",
     "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
-    "research_record": "./research/pedals/PRP Batch 092/Candy Apple Fuzz (CAF).md"
+    "research_record": "./research/pedals/PRP Batch 092/Candy Apple Fuzz (CAF).md",
+    "image_source_url": "http://www.bjfe.jp/cdn/shop/products/imgrc0066149643.jpg?v=1598426303",
+    "image_source_page": "https://www.bjfe.jp/en/products/bjfcaf"
   },
   {
     "builder": "BJFE / BJF Electronics",
@@ -6159,10 +6161,12 @@
   {
     "builder": "BJFE / BJF Electronics",
     "pedal": "Pink Purple Fuzz (PPF)",
-    "image": null,
+    "image": "./assets/pedals/bjfe-bjf-electronics/pink-purple-fuzz-ppf/primary.webp",
     "source": "verified research source",
     "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
-    "research_record": "./research/pedals/PRP Batch 093/Pink Purple Fuzz (PPF).md"
+    "research_record": "./research/pedals/PRP Batch 093/Pink Purple Fuzz (PPF).md",
+    "image_source_url": "http://www.bjfe.jp/cdn/shop/products/imgrc0066149645.jpg?v=1598426215",
+    "image_source_page": "https://www.bjfe.jp/en/products/bjfppf"
   },
   {
     "builder": "BJFE / BJF Electronics",
@@ -6259,11 +6263,12 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "LSTR",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/lstr/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.blackartstoneworks.com/pedal/lstr/",
     "research_record": "./research/pedals/PRP Batch 094/LSTR.md",
-    "image_source_page": "https://www.coda-music.com/black-arts-toneworks-lstr.html"
+    "image_source_page": "https://www.blackartstoneworks.com/pedal/lstr/",
+    "image_source_url": "https://www.blackartstoneworks.com/wp-content/themes/bat/img/layer4.png"
   },
   {
     "builder": "Black Arts Toneworks",
@@ -6278,11 +6283,12 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "Pharaoh",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/pharaoh/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.blackartstoneworks.com/pedal/pharaoh/",
     "research_record": "./research/pedals/PRP Batch 094/Pharaoh.md",
-    "image_source_page": "https://www.pitbullaudio.com/black-arts-toneworks-pharaoh-fuzz-boost-guitar-effects-pedal.html"
+    "image_source_page": "https://www.blackartstoneworks.com/pedal/pharaoh/",
+    "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/01/pharaoh.png"
   },
   {
     "builder": "Black Arts Toneworks",
@@ -6304,10 +6310,11 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "Quantum Mystic",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/quantum-mystic/primary.webp",
     "source_page": "https://www.blackartstoneworks.com/pedal/quantum-mystic/",
     "research_record": "./research/pedals/PRP Batch 095/Quantum Mystic.md",
-    "image_source_page": "https://joespedals.com/products/quantum-mystic"
+    "image_source_page": "https://www.blackartstoneworks.com/pedal/quantum-mystic/",
+    "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/01/quantummystic.png"
   },
   {
     "builder": "Black Arts Toneworks",
@@ -6338,10 +6345,11 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "Ritual",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/ritual/primary.webp",
     "source_page": "https://blackartstoneworks.blogspot.com/2012/06/ritual-and-revelation.html",
     "research_record": "./research/pedals/PRP Batch 095/Ritual.md",
-    "image_source_page": "https://blackartstoneworks.blogspot.com/2012/06/ritual-and-revelation.html"
+    "image_source_page": "https://blackartstoneworks.blogspot.com/2012/06/ritual-and-revelation.html",
+    "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkyGpuzna9spGcbXECbZz3YdpkQXgfbIKOGhUvgyMzaJepAifGbZDKnJTxF90nAL7vJMcasNjFiQhCPhxSc_W67iosEbQZC7xMkMIDiGkiGrM89mXxi5TQpk5POw2xRY4et9oazbhXcKu/s320/Black+Arts+Ritual+Limited+Black+Chrome+Edition+jpeg.jpg"
   },
   {
     "builder": "Black Arts Toneworks",

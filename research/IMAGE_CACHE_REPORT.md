@@ -1,10 +1,10 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **4**
-- Staged browser photos converted: **4**
+- Cached in this run: **6**
+- Staged browser photos converted: **6**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2901**
+- Remaining tracker photo backlog: **2897**
 
 ## Storage layout
 
@@ -14,10 +14,12 @@
 
 ## Newly cached
 
-- AWOL Pedals - Virus Fuzz -> `./assets/pedals/awol-pedals/virus-fuzz/primary.webp`
-- AXiom Effects - Fuzz Preamp FP-1 -> `./assets/pedals/axiom-effects/fuzz-preamp-fp-1/primary.webp`
-- Automat Audio Devices - Rara Avis -> `./assets/pedals/automat-audio-devices/rara-avis/primary.webp`
-- BIXONIC - EXP2000DR -> `./assets/pedals/bixonic/exp2000dr/primary.webp`
+- BJFE / BJF Electronics - Candy Apple Fuzz (CAF) -> `./assets/pedals/bjfe-bjf-electronics/candy-apple-fuzz-caf/primary.webp`
+- BJFE / BJF Electronics - Pink Purple Fuzz (PPF) -> `./assets/pedals/bjfe-bjf-electronics/pink-purple-fuzz-ppf/primary.webp`
+- Black Arts Toneworks - LSTR -> `./assets/pedals/black-arts-toneworks/lstr/primary.webp`
+- Black Arts Toneworks - Pharaoh -> `./assets/pedals/black-arts-toneworks/pharaoh/primary.webp`
+- Black Arts Toneworks - Quantum Mystic -> `./assets/pedals/black-arts-toneworks/quantum-mystic/primary.webp`
+- Black Arts Toneworks - Ritual -> `./assets/pedals/black-arts-toneworks/ritual/primary.webp`
 
 ## Still external / failed
 

@@ -8074,11 +8074,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bjfe-bjf-electronics/candy-apple-fuzz-caf/primary.webp",
       "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
       "research_record": "./research/pedals/PRP Batch 092/Candy Apple Fuzz (CAF).md",
       "image_source_page": "https://www.bjfe.jp/en/products/bjfcaf",
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "http://www.bjfe.jp/cdn/shop/products/imgrc0066149643.jpg?v=1598426303"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -8224,11 +8225,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bjfe-bjf-electronics/pink-purple-fuzz-ppf/primary.webp",
       "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
       "research_record": "./research/pedals/PRP Batch 093/Pink Purple Fuzz (PPF).md",
       "image_source_page": "https://www.bjfe.jp/en/products/bjfppf",
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "http://www.bjfe.jp/cdn/shop/products/imgrc0066149645.jpg?v=1598426215"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -8364,11 +8366,12 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-arts-toneworks/lstr/primary.webp",
       "source_page": "https://www.blackartstoneworks.com/pedal/lstr/",
       "research_record": "./research/pedals/PRP Batch 094/LSTR.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackarts/lstr",
-      "image_source_page_verified": true
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/lstr/",
+      "image_source_page_verified": true,
+      "image_source_url": "https://www.blackartstoneworks.com/wp-content/themes/bat/img/layer4.png"
     },
     {
       "company": "Black Arts Toneworks",
@@ -8389,11 +8392,12 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-arts-toneworks/pharaoh/primary.webp",
       "source_page": "https://www.blackartstoneworks.com/pedal/pharaoh/",
       "research_record": "./research/pedals/PRP Batch 094/Pharaoh.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackarts/pharaoh",
-      "image_source_page_verified": true
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/pharaoh/",
+      "image_source_page_verified": true,
+      "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/01/pharaoh.png"
     },
     {
       "company": "Black Arts Toneworks",
@@ -8428,11 +8432,12 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-arts-toneworks/quantum-mystic/primary.webp",
       "source_page": "https://www.blackartstoneworks.com/pedal/quantum-mystic/",
       "research_record": "./research/pedals/PRP Batch 095/Quantum Mystic.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackarts/quantummystic",
-      "image_source_page_verified": true
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/quantum-mystic/",
+      "image_source_page_verified": true,
+      "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/01/quantummystic.png"
     },
     {
       "company": "Black Arts Toneworks",
@@ -8479,11 +8484,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-arts-toneworks/ritual/primary.webp",
       "source_page": "https://blackartstoneworks.blogspot.com/2012/06/ritual-and-revelation.html",
       "research_record": "./research/pedals/PRP Batch 095/Ritual.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackarts/ritual",
-      "image_source_page_verified": true
+      "image_source_page": "https://blackartstoneworks.blogspot.com/2012/06/ritual-and-revelation.html",
+      "image_source_page_verified": true,
+      "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkyGpuzna9spGcbXECbZz3YdpkQXgfbIKOGhUvgyMzaJepAifGbZDKnJTxF90nAL7vJMcasNjFiQhCPhxSc_W67iosEbQZC7xMkMIDiGkiGrM89mXxi5TQpk5POw2xRY4et9oazbhXcKu/s320/Black+Arts+Ritual+Limited+Black+Chrome+Edition+jpeg.jpg"
     },
     {
       "company": "Black Arts Toneworks",
