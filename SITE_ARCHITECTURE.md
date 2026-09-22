@@ -48,7 +48,9 @@ Search -> Dirt Type -> Builder -> Pedal
 
 The catalog may later become more capable without becoming visually complicated.
 
-Filter, builder, and pagination changes are represented in the browser URL. User-driven filter/page changes use browser history; back/forward restores the corresponding catalog state. Invalid or stale query state is normalized back to a valid URL.
+Filter, builder, pagination, and search changes are represented in the browser URL. User-driven filter/page changes use browser history; back/forward restores the corresponding catalog state. Invalid or stale query state is normalized back to a valid URL.
+
+The archive index also has a **Discover** control. It selects a random public catalog entry from the current filtered result set, so browsing remains useful even when a visitor does not have a specific pedal in mind. Discover does not create data or alter the active filters.
 
 Main-page cards represent public model/version entries only. Variation records stay hidden from the main card grid.
 
@@ -177,35 +179,3 @@ The repository uses a single-owner rule for every moving part:
 | Public browser behavior | `assets/js/archive-core.js` + page controllers | keep page-specific behavior out of HTML shells |
 | Deployment orchestration | `.github/workflows/deploy-pages.yml` | publish a validated tree; do not embed application logic |
 | Local browser-audit HTTP server | `scripts/serve-static.js` | serve the checked-out archive for deterministic audits; do not copy server logic into workflows |
-
-### Change-safety rules
-
-A change should have one obvious place to live. When two files start implementing the same rule, consolidate the rule before adding another feature.
-
-Public pages may read catalog data, but they must never become an alternate data store.
-
-Automation may repair or synchronize operational files, but each automation must have one explicit responsibility and one durable checkpoint.
-
-A generated or derived file is never allowed to silently become authoritative merely because it is easier to edit.
-
-## Implementation guardrails - September 21, 2026
-
-The browser layer is split into small responsibilities:
-
-- `assets/js/archive-core.js` owns the shared catalog contract, identity keying, escaping, URL construction, and catalog loading.
-- `assets/js/archive-index.js` owns only the landing-page filters, builder list, cards, search, and pagination.
-- `assets/js/archive-detail.js` owns only the individual pedal page, research rendering, versions, colorways, and demos.
-- `assets/css/archive-index.css` and `assets/css/archive-detail.css` hold presentation separately from page markup.
-
-The HTML pages are markup shells, not storage for application logic. The public browser reads `research/PEDAL_INDEX.json` directly through the shared catalog loader, using a no-store request so the current catalog is not held behind a stale browser cache. There is no separate catalog-version synchronization script.
-
-The deployment workflow is orchestration only. Browser audits live in `scripts/deploy-browser-audit.js` and `scripts/live-photo-audit.js`; the local audit server lives in `scripts/serve-static.js`. Structural rules live in one validator, `scripts/validate-archive.py`, which is also run by the dedicated validation workflow.
-
-The intended public data flow is:
-
-`research/PEDAL_INDEX.json -> archive-core.js -> page controller -> rendered site`
-
-Internal manifests and trackers remain operational records. They are synchronized and validated, but they are not alternate public runtime sources.
-
-The guiding rule for future maintenance is simple: put a rule in one place, give it one owner, and make CI reject drift instead of relying on memory or manual checking.
-
