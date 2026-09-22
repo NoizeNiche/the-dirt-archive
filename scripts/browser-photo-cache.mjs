@@ -1283,12 +1283,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
           const pedalTokens = identityTokens(entry.pedal);
           const builderTokens = identityTokens(entry.company);
           const trustedDatabase =
-            /(^|\\.)effectsdatabase\\.com$/i.test(resultUrl.hostname) &&
+            /(^|\.)effectsdatabase\.com$/i.test(resultUrl.hostname) &&
             fit.pedalHits >= requiredHits &&
             pedalTokens.every(token => searchIdentity.includes(token));
 
           const trustedMarketplace =
-            /(^|\\.)(reverb\\.com|ebay\\.com)$/i.test(resultUrl.hostname) &&
+            /(^|\.)(reverb\.com|ebay\.com)$/i.test(resultUrl.hostname) &&
             pedalTokens.length > 0 &&
             pedalTokens.every(token => searchIdentity.includes(token)) &&
             builderTokens.length > 0 &&
