@@ -876,7 +876,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
             candidates.push({
               url: new URL(value, pageUrl).href,
               sourcePage: pageUrl,
-              sourceScore: 120
+              sourceScore: 120,
+              metaImage: true
             });
           }
         }
@@ -1431,6 +1432,58 @@ async function recoverEntry(browser, entry, deepReview = false) {
                 return { bytes, src: evidence.href };
               }
             }
+          }
+        }
+
+        // A verified product page can expose its canonical product photograph
+        // only through og:image/twitter:image metadata. When the CDN blocks the
+        // workflow's direct request, render that exact URL in the verified page
+        // context and capture the resulting image element.
+        for (const candidate of candidates) {
+          if (candidate.metaImage) {
+            try {
+              const capture = await page.evaluate(async src => {
+                const old = document.querySelector('[data-dirt-archive-meta-capture="1"]');
+                old?.remove();
+                const img = document.createElement('img');
+                img.setAttribute('data-dirt-archive-meta-capture', '1');
+                img.src = src;
+                img.alt = '';
+                img.style.position = 'fixed';
+                img.style.left = '8px';
+                img.style.top = '8px';
+                img.style.zIndex = '2147483647';
+                img.style.maxWidth = 'calc(100vw - 16px)';
+                img.style.maxHeight = 'calc(100vh - 16px)';
+                img.style.width = 'auto';
+                img.style.height = 'auto';
+                img.style.objectFit = 'contain';
+                img.style.background = '#fff';
+                document.body.appendChild(img);
+                await new Promise(resolve => {
+                  if (img.complete) return resolve();
+                  img.addEventListener('load', resolve, { once: true });
+                  img.addEventListener('error', resolve, { once: true });
+                  setTimeout(resolve, 2200);
+                });
+                return {
+                  width: Number(img.naturalWidth) || 0,
+                  height: Number(img.naturalHeight) || 0
+                };
+              }, candidate.url).catch(() => null);
+              if ((capture?.width || 0) >= 140 && (capture?.height || 0) >= 140) {
+                const node = page.locator('[data-dirt-archive-meta-capture="1"]').first();
+                await node.scrollIntoViewIfNeeded().catch(() => {});
+                await page.waitForTimeout(180);
+                const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+                await page.evaluate(() => document.querySelector('[data-dirt-archive-meta-capture="1"]')?.remove()).catch(() => {});
+                if (bytes && bytes.length >= 3000) {
+                  return { bytes, src: candidate.url };
+                }
+              } else {
+                await page.evaluate(() => document.querySelector('[data-dirt-archive-meta-capture="1"]')?.remove()).catch(() => {});
+              }
+            } catch {}
           }
         }
 
