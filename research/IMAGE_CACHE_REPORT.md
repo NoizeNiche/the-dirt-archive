@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **4**
-- Staged browser photos converted: **4**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2816**
-- Researched, photo pending: **271**
+- Remaining tracker photo backlog: **2815**
+- Researched, photo pending: **270**
 
 ## Storage layout
 
@@ -15,10 +15,7 @@
 
 ## Newly cached
 
-- Cactus - MTL-5 Ultra Metal -> `./assets/pedals/cactus/mtl-5-ultra-metal/primary.webp`
-- Caline - CP-25 Highway Man OD -> `./assets/pedals/caline/cp-25-highway-man-od/primary.webp`
-- Caline - CP-515 Carmilla - Hi Gain Distortion Machine -> `./assets/pedals/caline/cp-515-carmilla-hi-gain-distortion-machine/primary.webp`
-- Caline - CP-53 Fuzzy Faace - Voodoo Octave -> `./assets/pedals/caline/cp-53-fuzzy-faace-voodoo-octave/primary.webp`
+- Build Your Own Clone - 250+ -> `./assets/pedals/build-your-own-clone/250/primary.webp`
 
 ## Still external / failed
 
