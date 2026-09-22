@@ -7,6 +7,12 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
+  # A single sentinel file provides a controlled manual kick when scheduled
+  # GitHub Actions delivery is delayed. Ordinary repository commits remain free
+  # of browser-heavy recovery runs.
+  push:
+    paths:
+      - 'research/PHOTO_RECOVERY_KICK'
 permissions:
   contents: write
 
