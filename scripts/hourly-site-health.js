@@ -252,6 +252,7 @@ async function waitForDeployment() {
   return liveUrl;
 }
 async function browserCheck(liveUrl, pedals) {
+  const variationCanary=pedals.find(x=>x.catalog_role==='variation'&&x.parent_pedal&&x.variation_name);
   const browser=await chromium.launch({headless:true});
   const results=[];
   try {
