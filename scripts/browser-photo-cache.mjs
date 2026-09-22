@@ -986,7 +986,10 @@ async function recoverEntry(browser, entry, deepReview = false) {
         // theme assets.
         const rawHtmlImageData = [];
         try {
-          const html = (await page.content()).replace(/\\\//g, '/');
+          const html = (await page.content())
+            .replace(/\\u002f/gi, '/')
+            .replace(/\\x2f/gi, '/')
+            .replace(/\\\//g, '/');
           const rawUrls = [
             ...html.matchAll(/https?:\/\/[^"'\s<>]+/gi)
           ].map(m => m[0].replace(/&amp;/g, '&'))
@@ -1007,7 +1010,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
                 candidates.push({
                   url: new URL(part, pageUrl).href,
                   sourcePage: pageUrl,
-                  sourceScore: 90
+                  sourceScore: 90,
+                  rawHtmlImage: true
                 });
               } catch {}
             }
@@ -1823,9 +1827,55 @@ async function recoverEntry(browser, entry, deepReview = false) {
             }
           }
 
-          // Some archive/database pages expose the exact photograph only as an
-          // image-file anchor. Chromium may render the linked asset even when a
-          // direct HTTP request is blocked, so capture that exact anchor.
+          // Some archive/database/product pages expose the exact photograph
+          // only as an image-file anchor. Prefer rendering the asset itself
+          // inside the already identity-verified page, because an empty anchor
+          // may have no visible pixels to screenshot.
+          if (candidate.linkedImage || candidate.rawHtmlImage) {
+            try {
+              const capture = await page.evaluate(async src => {
+                document.querySelector('[data-dirt-archive-linked-capture="1"]')?.remove();
+                const img = document.createElement('img');
+                img.setAttribute('data-dirt-archive-linked-capture', '1');
+                img.src = src;
+                img.alt = '';
+                img.style.position = 'fixed';
+                img.style.left = '8px';
+                img.style.top = '8px';
+                img.style.zIndex = '2147483647';
+                img.style.maxWidth = 'calc(100vw - 16px)';
+                img.style.maxHeight = 'calc(100vh - 16px)';
+                img.style.width = 'auto';
+                img.style.height = 'auto';
+                img.style.objectFit = 'contain';
+                img.style.background = '#fff';
+                document.body.appendChild(img);
+                await new Promise(resolve => {
+                  if (img.complete) return resolve();
+                  img.addEventListener('load', resolve, { once: true });
+                  img.addEventListener('error', resolve, { once: true });
+                  setTimeout(resolve, 2500);
+                });
+                return {
+                  width: Number(img.naturalWidth) || 0,
+                  height: Number(img.naturalHeight) || 0
+                };
+              }, candidate.src).catch(() => null);
+              if ((capture?.width || 0) >= 140 && (capture?.height || 0) >= 140) {
+                const node = page.locator('[data-dirt-archive-linked-capture="1"]').first();
+                const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+                await page.evaluate(() => document.querySelector('[data-dirt-archive-linked-capture="1"]')?.remove()).catch(() => {});
+                if (bytes && bytes.length >= 3000) {
+                  return { bytes, src: candidate.src };
+                }
+              } else {
+                await page.evaluate(() => document.querySelector('[data-dirt-archive-linked-capture="1"]')?.remove()).catch(() => {});
+              }
+            } catch {}
+          }
+
+          // Older callers still carry an element/link index. Keep this as a
+          // secondary fallback when the asset itself could not be rendered.
           if (candidate.linkedImage) {
             let link = null;
             if (Number.isInteger(candidate.linkIndex) &&
