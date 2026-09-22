@@ -1,30 +1,26 @@
-## Public-site UX checkpoint - September 22, 2026
+## Public-site and recovery checkpoint - September 22, 2026
 
-The public detail page now carries the current pedal's dirt-type context into its sidebar navigation. Relevant dirt-type buttons are highlighted and marked as the current page, and the breadcrumb now identifies the pedal's dirt type(s) and builder instead of using a generic "Pedal record" label.
+The public detail page carries the current pedal's dirt-type context into its sidebar, the landing page has a one-click **Clear filters** control, and pagination/search state remains URL-aware.
 
-The landing page now has a one-click **Clear filters** control that appears whenever search, builder, or dirt-type filtering is active. It resets those controls and the pagination through the existing URL/history state machinery.
+Two recovery/runtime defects found during this maintenance pass are now repaired:
+- scripts/browser-photo-cache.mjs had been accidentally truncated during the pedal-name identity update. It was restored from the immediately preceding full recovery engine and the intended compact-identity matching change was reapplied.
+- A small group of older research records stores literal escaped \\n sequences. The detail-page research loader now normalizes that representation at the loading boundary so those records render as markdown without rewriting the underlying archive files.
+- Scheduled site health now gives an in-progress Pages deployment a longer completion window and follows the current main SHA during scheduled checks, reducing false deployment-health failures.
 
-Latest site commits:
-- `156b6c4e` - connect detail navigation to pedal context
-- `edea1b95` / `28c27057` / `a41362fc` - add and style Clear filters control
+The repaired photo-cache workflow completed successfully and archived **1** new verified local photo:
+- British Pedal Company - WEM Pep Box -> ./assets/pedals/british-pedal-company/wem-pep-box/primary.webp
 
-The deployment run for the detail-navigation change passed archive validation and reached the browser-audit stage. The Clear filters commits superseded the intermediate deployment attempts through the existing concurrency guard; the latest deployment is the active one.
+Latest verified recovery counts from that completed cache pass: **3,819 total / 3,818 public / 1,274 researched public / 904 pictured public / 904 fully complete public / 370 researched-photo-pending / 2,915 public photo-missing**.
 
-Photo recovery remains the operational gate at the latest verified **371 researched-photo-pending** records. PRP1 remains gated until that reaches **0**.
+PRP1 is still gated until **researched-photo-pending reaches 0**. The PRP1 workflow that fired after the photo-cache commit completed with its intake steps skipped by the gate, so it did not advance PRP1 work.
 
----
+The current deployment for the research-loader repair has passed archive validation and is in the browser-audit stage. It must complete successfully before the live site is considered fully verified.
 
-## Full-site recovery checkpoint - September 22, 2026 (latest verified)
-
-Canonical tracker state: **3,819 total / 3,818 public / 1,274 researched public / 903 pictured public / 903 fully complete public / 371 researched-photo-pending / 2,916 public photo-missing**.
-
-The latest bounded photo-cache run completed successfully after the Reverb matcher and validator fixes. It produced no additional researched-photo completions in this pass, so the PRP1 gate remains **371**.
-
-Deep-review source-page work added exact page leads for several stubborn records, including Bispell Audio Proxy, Saxon, and TOR, plus Biyang BL-12 Blues and DS-12 Distortion. Those records remain unresolved until an exact image is successfully archived locally.
-
-Recovery runtime was tightened to a **30-record maximum batch**, a **20-second per-record recovery deadline**, and newest-run preference so stale long-running passes are superseded safely.
-
-PRP1 remains gated until researched-photo-pending reaches **0**.
+Latest maintenance commits:
+- 6e907336 - fix escaped-newline normalization condition
+- 4f49d706 - normalize escaped newlines in research records
+- 5a68dd21 - restore photo recovery engine after accidental truncation
+- b10e57af - give Pages health checks time to finish deployments
 
 ---
 
