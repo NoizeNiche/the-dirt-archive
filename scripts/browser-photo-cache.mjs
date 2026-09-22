@@ -766,6 +766,10 @@ async function recoverEntry(browser, entry, deepReview = false) {
     for (const pageUrl of pageUrls) {
       if (!pageUrl || !/^https?:/i.test(pageUrl)) continue;
       try {
+        // Keep rendered-network candidates scoped to the source page that
+        // produced them. This prevents an image from a previous fallback page
+        // from being mislabeled as evidence for the next page.
+        networkImageUrls.length = 0;
         diagnostic.sourceHost = diagnostic.sourceHost || new URL(pageUrl).hostname;
         await page.goto(pageUrl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
         diagnostic.sourcePageLoaded = true;
