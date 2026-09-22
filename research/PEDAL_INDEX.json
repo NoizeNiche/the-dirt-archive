@@ -8258,10 +8258,11 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-arts-toneworks/sarcophagus/primary.webp",
       "source_page": "https://www.blackartstoneworks.com/pedal/sarcophagus/",
       "research_record": "./research/pedals/PRP Batch 095/Sarcophagus.md",
-      "image_source_page": "https://reverb.com/p/black-arts-toneworks-sarcophagus"
+      "image_source_page": "https://pedalfilter.com/black-arts-toneworks/sarcophagus",
+      "image_source_url": "https://images.pedalfilter.com/blackartstoneworks-sarcophagus.png"
     },
     {
       "company": "Black Arts Toneworks",
