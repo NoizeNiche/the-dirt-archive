@@ -3,7 +3,7 @@
 - Cached in this run: **0**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
-- Download failures: **15**
+- Download failures: **13**
 - Remaining tracker photo backlog: **2861**
 - Researched, photo pending: **316**
 
@@ -28,7 +28,5 @@
 - Barber Electronics - B-Custom Dual Discrete: https://rvb-img.reverb.com/i/s--4N0bxT25--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgdoay9xz6akmnqmyxvq.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--4N0bxT25--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgdoay9xz6akmnqmyxvq.jpg`)
 - BearFoot FX - Bone Bender MKI Fuzz: https://rvb-img.reverb.com/i/s--6H63sI1H--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zactb0lkodoygtxa9sjk.png: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--6H63sI1H--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zactb0lkodoygtxa9sjk.png`)
 - BearFoot FX - Honey Bee Overdrive Plus: https://rvb-img.reverb.com/i/s--LLexNzWV--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cbp3ifzmgocobxxzp7ph.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--LLexNzWV--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cbp3ifzmgocobxxzp7ph.jpg`)
-- Blackhawk Amplifiers - Ramshead Fuzz: https://rvb-img.reverb.com/i/s--WNt1Ltov--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/sddvc7nzbmp2vwfvljvk.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--WNt1Ltov--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/sddvc7nzbmp2vwfvljvk.jpg`)
-- CBC Pedals - Foxx Tone Machine: https://rvb-img.reverb.com/i/s--mSflH7P0--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D498%2Ctrim.left%3D641%2Ctrim.width%3D1784%2Ctrim.height%3D1784/elq3mvj5yrvxduttbz2l.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--mSflH7P0--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D498%2Ctrim.left%3D641%2Ctrim.width%3D1784%2Ctrim.height%3D1784/elq3mvj5yrvxduttbz2l.jpg`)
 
 These records remain externally referenced until a later cache run succeeds.
