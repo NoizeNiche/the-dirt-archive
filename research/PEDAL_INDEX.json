@@ -176,14 +176,15 @@
       "source_page": "https://reverb.com/au/item/73614456-a-y-a-frontgate-bass-drive-sn-1562-09-20",
       "research_record": "./research/pedals/A.Y.A/Frontgate Bass Drive.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--5Ji-FEct--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/vtrzhulooljqweoefyhp.jpg",
-      "image_source_page": "https://www.effectsdatabase.com/model/aya/frontgate",
+      "image_source_page": "https://reverb.com/de/item/84897758-a-y-a-tokyo-japan-frontgate-bassdrive",
       "image_source_pages": [
-        "https://reverb.com/de/item/84897758-a-y-a-tokyo-japan-frontgate-bassdrive",
-        "https://www.effectsdatabase.com/model/aya/frontgate"
+        "https://www.tonequestshop.co.kr/product/1322732924/",
+        "https://www.effectsdatabase.com/model/aya/frontgate",
+        "https://reverb.com/de/item/84897758-a-y-a-tokyo-japan-frontgate-bassdrive"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 318
+      "image_source_priority": 392
     },
     {
       "company": "A/DA",
@@ -1454,8 +1455,9 @@
       "research_record": "./research/pedals/Aether Electronic/Lenore.md",
       "image_source_page": "https://www.effectsdatabase.com/model/aether/lenore",
       "image_source_page_verified": true,
-      "image_source_priority": 300,
+      "image_source_priority": 391,
       "image_source_pages": [
+        "https://aetherelectronic.wordpress.com/2017/03/11/lenore-demo-and-release/",
         "https://www.effectsdatabase.com/model/aether/lenore"
       ],
       "image_source_pages_verified": true
