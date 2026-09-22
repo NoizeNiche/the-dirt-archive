@@ -1104,6 +1104,92 @@ async function recoverEntry(browser, entry, deepReview = false) {
             }
           }
 
+          // Modern product pages often keep the canonical product photo
+          // in JSON-LD instead of the visible DOM. Extract image/contentUrl/
+          // thumbnailUrl values while carrying the object's product name,
+          // description, and brand into the same exact-model scoring model.
+          for (const [jsonIndex, script] of [...document.querySelectorAll('script[type="application/ld+json"]')].entries()) {
+            const rawJson = String(script.textContent || '').trim();
+            if (!rawJson) continue;
+            let parsed;
+            try { parsed = JSON.parse(rawJson); } catch { continue; }
+            const objects = [];
+            const visit = value => {
+              if (!value || typeof value !== 'object') return;
+              if (Array.isArray(value)) {
+                for (const child of value) visit(child);
+                return;
+              }
+              objects.push(value);
+              for (const child of Object.values(value)) {
+                if (child && typeof child === 'object') visit(child);
+              }
+            };
+            visit(parsed);
+
+            for (const obj of objects) {
+              const contextValues = [
+                obj.name,
+                obj.description,
+                typeof obj.brand === 'string' ? obj.brand : obj.brand?.name,
+                obj.model,
+                obj.sku,
+                obj.productID,
+                obj.caption
+              ].filter(Boolean).map(String);
+              const context = contextValues.join(' ');
+              const rawImages = [];
+              const collectImage = value => {
+                if (!value) return;
+                if (typeof value === 'string') {
+                  rawImages.push(value);
+                  return;
+                }
+                if (Array.isArray(value)) {
+                  for (const child of value) collectImage(child);
+                  return;
+                }
+                if (typeof value === 'object') {
+                  collectImage(value.url);
+                  collectImage(value.contentUrl);
+                  collectImage(value.thumbnailUrl);
+                }
+              };
+              collectImage(obj.image);
+              collectImage(obj.images);
+              if (!rawImages.length) continue;
+
+              const rawHint = [context, ...rawImages].join(' ');
+              if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social)/i.test(rawHint)) continue;
+              const hint = normalize(rawHint);
+              const tokenHits = pedalTokens.filter(token => hint.includes(token)).length;
+              const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+              const exactPhrase = pedalPhrase.length >= 5 && hint.includes(pedalPhrase);
+              const compactExact = phraseCompact.length >= 5 && hint.replace(/\s+/g, '').includes(phraseCompact);
+              for (const rawSrc of rawImages) {
+                let src = rawSrc;
+                try { src = new URL(rawSrc, location.href).href; } catch {}
+                if (!/^https?:/i.test(src)) continue;
+                let score = 120 + tokenHits * 130 + builderHits * 35;
+                if (exactPhrase) score += 850;
+                if (compactExact) score += 600;
+                if (obj['@type'] === 'Product' || /product/i.test(String(obj['@type'] || ''))) score += 250;
+                rows.push({
+                  src,
+                  score,
+                  width: 0,
+                  height: 0,
+                  exactPhrase,
+                  tokenHits,
+                  altHits: 0,
+                  builderHits,
+                  jsonLd: true,
+                  jsonIndex
+                });
+              }
+            }
+          }
+
           // Effects Database and older archive pages sometimes expose the
           // actual product photograph as an image link without rendering a
           // corresponding <img> node. Treat image-file anchors as candidates,
