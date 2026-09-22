@@ -1118,7 +1118,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
             if (response.ok()) {
               const rawHtml = (await response.text()).replace(/\\\//g, '/');
               const rawUrls = [
-                ...rawHtml.matchAll(/https?:\\/\\/(?:rvb-img\\.reverb\\.com)\\/[^"'\\s<>\\\\]+/gi)
+                ...rawHtml.matchAll(/https?:\/\/(?:rvb-img\.reverb\.com)\/[^"'\s<>\\]+/gi)
               ]
                 .map(match => match[0].replace(/&amp;/g, '&'))
                 .filter((url, index, urls) => urls.indexOf(url) === index)
@@ -1172,7 +1172,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
           // Normalize those escapes before extracting the exact CDN hosts.
           const html = (await page.content()).replace(/\\\//g, '/');
           const urls = [
-            ...html.matchAll(/https?:\/\/(?:rvb-img\.reverb\.com|static\.reverb-assets\.com)\/[^"'\\s<>\\]+/gi)
+            ...html.matchAll(/https?:\/\/(?:rvb-img\.reverb\.com|static\.reverb-assets\.com)\/[^"'\s<>\\]+/gi)
           ].map(match => match[0].replace(/&amp;/g, '&'));
           for (const url of [...new Set(urls)].slice(0, 12)) {
             embeddedImageCandidates.push({
