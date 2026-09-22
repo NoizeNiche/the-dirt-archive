@@ -9,6 +9,8 @@ on:
       - "research/pedals/PEDAL_IMAGES.json"
       - "scripts/browser-photo-cache.mjs"
       - "scripts/cache-pedal-images.py"
+      - "scripts/apply-photo-source-overrides.py"
+      - "research/PHOTO_SOURCE_OVERRIDES.csv"
       - ".github/workflows/cache-pedal-images.yml"
   workflow_dispatch:
 permissions:
@@ -64,6 +66,9 @@ jobs:
           # of the working tree before any JSON/queue changes are generated.
           git fetch origin main
           git reset --hard origin/main
+
+      - name: Apply curated exact photo source leads
+        run: python scripts/apply-photo-source-overrides.py
 
       - name: Recover verified page images
         env:
@@ -124,4 +129,3 @@ jobs:
           done
           echo "Unable to publish the verified photo batch after 5 push attempts."
           exit 1
-
