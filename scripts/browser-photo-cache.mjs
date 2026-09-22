@@ -722,14 +722,38 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
 
     for (const feedUrl of feedLinks) {
       try {
-        const response = await page.request.get(feedUrl, { timeout: PAGE_TIMEOUT });
-        if (!response.ok()) continue;
-        const body = await response.text();
+        let body = '';
+        try {
+          const response = await page.request.get(feedUrl, { timeout: PAGE_TIMEOUT });
+          if (response.ok()) body = await response.text();
+        } catch {}
+
+        // The legacy feed is sometimes blocked to Playwright's request context
+        // even while the exact model page can fetch it same-origin in Chromium.
+        // Retry inside the already-open browser page so cookies/referrer/session
+        // state are preserved.
+        if (!body) {
+          try {
+            const result = await page.evaluate(async url => {
+              try {
+                const response = await fetch(url, { credentials: 'same-origin' });
+                return { ok: response.ok, body: await response.text() };
+              } catch {
+                return { ok: false, body: '' };
+              }
+            }, feedUrl);
+            if (result?.ok) body = result.body || '';
+          } catch {}
+        }
+        if (!body) continue;
 
         for (const match of body.matchAll(/<(?:img|source)\b[^>]*(?:src|data-src|data-original|data-lazy-src|srcset)=["']([^"']+)["'][^>]*>/gi)) {
           for (const part of match[1].split(/\s+/)) addUrl(part);
         }
         for (const match of body.matchAll(/(?:https?:)?\/\/[^"'\\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\\s<>]*)?/gi)) {
+          addUrl(match[0]);
+        }
+        for (const match of body.matchAll(/(?:https?:)?\/\/[^"'\\s<>]+\/gear\/pics\/[^"'\\s<>]+/gi)) {
           addUrl(match[0]);
         }
         for (const match of body.matchAll(/["'](?:image|imageUrl|image_url|contentUrl|thumbnailUrl)["']\s*:\s*["']([^"']+)["']/gi)) {
