@@ -3,8 +3,9 @@ const wantedBuilder = detailParams.get('builder') || '';
 const wantedPedal = detailParams.get('pedal') || '';
 let wantedVariation = detailParams.get('variation') || '';
 
-function renderPageNav(items){
+function renderPageNav(items,currentItem=null){
   const builders=[...new Set(items.filter(isCatalogEntry).map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
+  const currentTypes=new Set(currentItem?.types||[]);
   const search=$('pageSearch');
   if(search){
     search.value='';
@@ -20,7 +21,8 @@ function renderPageNav(items){
   $('pageTypeMenu').innerHTML=types.map(([t,label])=>{
     const url=new URL('./index.html',location.href);
     if(t!=='All')url.searchParams.set('type',t);
-    return '<a class="pageTypeLink '+(t==='All'?'active':'')+'" href="'+url.href+'">'+label+'</a>';
+    const active=currentItem ? (t!=='All' && currentTypes.has(t)) : t==='All';
+    return '<a class="pageTypeLink '+(active?'active':'')+'" href="'+url.href+'"'+(active?' aria-current="page"':'')+'>'+label+'</a>';
   }).join('');
   $('pageBuilders').innerHTML=
     '<a class="pageBuilderLink '+(!wantedBuilder?'active':'')+'" href="./index.html">All builders<strong>'+builders.length+'</strong></a>'+
@@ -196,10 +198,9 @@ function loadResearchMarkdown(path){
 loadCatalog()
 .then(data=>{
   const allItems=data.pedals||[];
-  renderPageNav(allItems);
-
   let requested=allItems.find(x=>x.company===wantedBuilder&&x.pedal===wantedPedal);
   if(!requested){
+    renderPageNav(allItems);
     document.title='Pedal not found · The Dirt Archive';
     $('empty').hidden=false;
     return;
@@ -223,7 +224,8 @@ loadCatalog()
 
   document.title=item.pedal+' · The Dirt Archive';
   $('record').hidden=false;
-  $('crumb').textContent='Pedal record';
+  renderPageNav(allItems,item);
+  $('crumb').textContent=(item.types||[]).join(' · ')+' · '+item.company;
   $('name').textContent=item.pedal;
   $('builder').textContent=item.company;
   $('types').innerHTML=(item.types||[]).map(t=>'<span class="chip">'+esc(t)+'</span>').join('');
