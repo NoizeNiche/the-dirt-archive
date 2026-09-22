@@ -4755,10 +4755,12 @@
   {
     "builder": "Behringer",
     "pedal": "OD300",
-    "image": null,
+    "image": "./assets/pedals/behringer/od300/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.behringer.com/en/products/0709-ADX",
-    "research_record": "./research/pedals/Behringer/OD300.md"
+    "research_record": "./research/pedals/Behringer/OD300.md",
+    "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/H85764000000000-02-600x600.jpg",
+    "image_source_page": "https://www.guitarcenter.com/Behringer/Overdrive-Distortion-OD300-Guitar-Effects-Pedal-1337871406381.gc"
   },
   {
     "builder": "Behringer",
@@ -5512,10 +5514,12 @@
   {
     "builder": "Big Tone Music Brewery",
     "pedal": "BTMB Overdrive",
-    "image": null,
+    "image": "./assets/pedals/big-tone-music-brewery/btmb-overdrive/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/",
-    "research_record": "./research/pedals/PRP Batch 085/BTMB Overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 085/BTMB Overdrive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/bigtone_btmb-overdrive_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/bigtone/overdrive"
   },
   {
     "builder": "Big Tone Music Brewery",

@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **2**
+- Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2810**
-- Researched, photo pending: **265**
+- Remaining tracker photo backlog: **2808**
+- Researched, photo pending: **263**
 
 ## Storage layout
 
@@ -15,7 +15,8 @@
 
 ## Newly cached
 
-- Cat's Eye ESP - Mutha' Fuzz -> `./assets/pedals/cat-s-eye-esp/mutha-fuzz/primary.webp`
+- Behringer - OD300 -> `./assets/pedals/behringer/od300/primary.webp`
+- Big Tone Music Brewery - BTMB Overdrive -> `./assets/pedals/big-tone-music-brewery/btmb-overdrive/primary.webp`
 
 ## Still external / failed
 
