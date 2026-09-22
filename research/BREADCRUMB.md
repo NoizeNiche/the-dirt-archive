@@ -260,3 +260,7 @@ The browser photo extractor was expanded to recover product images from `applica
 ## Source redundancy checkpoint - September 22, 2026
 
 Added/confirmed exact photo-source redundancy for Alen Geere Loverdrive (Reverb), Aleatorik Operation 1 (Aucfree), and A.Y.A FrontGate Bass Drive (retailer plus prior Reverb listing). These are source leads only and do not change Picture state until an exact local asset is successfully archived.
+
+## Cache run 938 diagnostic checkpoint - September 22, 2026
+
+Run 938 completed successfully but recovered 0 of 29 attempted records. No tracker fields changed and the photo backlog remained 2,863 total with 318 deep-review researched-photo records. The next recovery cycle will exercise the unified rich-image direct-fetch path plus JSON-LD extraction.
