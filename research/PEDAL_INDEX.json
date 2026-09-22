@@ -473,7 +473,8 @@
       "source_page": "https://www.effectsdatabase.com/model/ac/triplex",
       "research_record": "./research/pedals/AC Efectos/Triplex Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/ac/triplex",
-      "image_source_url": "https://www.effectsdatabase.com/model/ac/triplex"
+      "image_source_url": "https://www.effectsdatabase.com/model/ac/triplex",
+      "image_source_page_verified": true
     },
     {
       "company": "AC Noises",
@@ -904,7 +905,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/addplus/derfuzzer",
-      "research_record": "./research/pedals/Add+ Pedals/Der Fuzzer.md"
+      "research_record": "./research/pedals/Add+ Pedals/Der Fuzzer.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/addplus/derfuzzer",
+      "image_source_page_verified": true
     },
     {
       "company": "Add+ Pedals",
@@ -914,7 +917,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/addplus/distortion",
-      "research_record": "./research/pedals/Add+ Pedals/Distortion.md"
+      "research_record": "./research/pedals/Add+ Pedals/Distortion.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/addplus/distortion",
+      "image_source_page_verified": true
     },
     {
       "company": "Add+ Pedals",
@@ -948,7 +953,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/addplus/greatwhite",
-      "research_record": "./research/pedals/Add+ Pedals/Great White.md"
+      "research_record": "./research/pedals/Add+ Pedals/Great White.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/addplus/greatwhite",
+      "image_source_page_verified": true
     },
     {
       "company": "Add+ Pedals",
@@ -993,7 +1000,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/2",
-      "research_record": "./research/pedals/Add+ Pedals/Ratortion 2.md"
+      "research_record": "./research/pedals/Add+ Pedals/Ratortion 2.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/2",
+      "image_source_page_verified": true
     },
     {
       "company": "Add+ Pedals",
@@ -4376,7 +4385,9 @@
       ],
       "image": null,
       "source_page": "https://axewerx.com/shop/products/pedals/the-gain-chain.html",
-      "research_record": "./research/pedals/Axewerx/Gain Chain.md"
+      "research_record": "./research/pedals/Axewerx/Gain Chain.md",
+      "image_source_page": "https://axewerx.com/shop/products/pedals/the-gain-chain.html",
+      "image_source_page_verified": true
     },
     {
       "company": "Axewerx",
@@ -5049,7 +5060,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/balaguer/bgdrive",
-      "research_record": "./research/pedals/Balaguer Guitars/BG-Drive - Preamp/Overdrive.md"
+      "research_record": "./research/pedals/Balaguer Guitars/BG-Drive - Preamp/Overdrive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/balaguer/bgdrive",
+      "image_source_page_verified": true
     },
     {
       "company": "Balaguer Guitars",
@@ -5415,7 +5428,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Barber Electronics/Pepsiman.md"
+      "research_record": "./research/pedals/Barber Electronics/Pepsiman.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/barber",
+      "image_source_page_verified": true
     },
     {
       "company": "Barber Electronics",
