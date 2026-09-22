@@ -311,11 +311,20 @@ function preferredSourcePage(entry) {
   try {
     const parsed = new URL(imagePage);
     const isGenericReverbHome =
-      /(^|\.)reverb\.com$/i.test(parsed.hostname) &&
-      /^\/?$/.test(parsed.pathname);
+      /(^|\\.)reverb\\.com$/i.test(parsed.hostname) &&
+      /^\\/?$/.test(parsed.pathname);
     if (isGenericReverbHome && sourcePage) return sourcePage;
   } catch {}
   return imagePage;
+}
+
+function preferredSourcePages(entry) {
+  const pages = Array.isArray(entry.image_source_pages)
+    ? entry.image_source_pages.filter(value => /^https?:/i.test(String(value || '')))
+    : [];
+  const preferred = preferredSourcePage(entry);
+  if (preferred && /^https?:/i.test(preferred)) pages.unshift(preferred);
+  return [...new Set(pages)].slice(0, 6);
 }
 
 function hostMatchesBuilder(url, company) {
@@ -735,9 +744,29 @@ async function recoverEntry(browser, entry, deepReview = false) {
     }
 
     let sourcePageUsed = null;
-    if (pageUrl && /^https?:/i.test(pageUrl)) {
+    const pageUrls = preferredSourcePages(entry);
+
+    // A curated/explicit source page is already a stronger lead than a fresh
+    // maker-search query. Try every curated page in bounded order rather than
+    // allowing one blocked/stale host to become a dead end.
+    const hasExplicitSourcePage = Boolean(entry.image_source_page || (Array.isArray(entry.image_source_pages) && entry.image_source_pages.length));
+    if ((!pageUrls.length || !hostMatchesBuilder(pageUrls[0], entry.company)) && !hasExplicitSourcePage) {
+      const makerCandidates = await makerWebCandidates(page, entry);
+      candidates.push(...makerCandidates);
+    }
+
+    if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) {
+      candidates.push({
+        url: entry.image_source_url,
+        sourcePage: entry.image_source_page || entry.source_page || null,
+        sourceScore: 80
+      });
+    }
+
+    for (const pageUrl of pageUrls) {
+      if (!pageUrl || !/^https?:/i.test(pageUrl)) continue;
       try {
-        diagnostic.sourceHost = new URL(pageUrl).hostname;
+        diagnostic.sourceHost = diagnostic.sourceHost || new URL(pageUrl).hostname;
         await page.goto(pageUrl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
         diagnostic.sourcePageLoaded = true;
         const title = await page.title().catch(() => '');
@@ -745,97 +774,87 @@ async function recoverEntry(browser, entry, deepReview = false) {
         const body = await page.locator('body').textContent().catch(() => '');
 
         const pageIdentityMatch =
+          entry.image_source_pages_verified === true ||
           entry.image_source_page_verified === true ||
           pageMatchesIdentity(entry, title + ' ' + body, h1) ||
           reverbListingMatchesIdentity(entry, pageUrl, title, h1);
-        if (pageIdentityMatch) {
-          diagnostic.sourceIdentityMatch = true;
-          sourcePageUsed = pageUrl;
+        if (!pageIdentityMatch) continue;
 
-          // Effects Database renders its auction/search image after the initial
-          // document response. Give that verified page a little more time and
-          // capture any image requests it makes. This is still identity-gated by
-          // the page title/body above, so the extra wait cannot admit a lookalike.
-          if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(sourcePageUsed).hostname)) {
-            await page.waitForTimeout(1400);
+        diagnostic.sourceIdentityMatch = true;
+        sourcePageUsed = sourcePageUsed || pageUrl;
+
+        if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname)) {
+          await page.waitForTimeout(1400);
+        }
+
+        for (const selector of ['meta[property="og:image"]', 'meta[name="twitter:image"]']) {
+          const value = await page.locator(selector).getAttribute('content').catch(() => null);
+          if (value) {
+            candidates.push({
+              url: new URL(value, pageUrl).href,
+              sourcePage: pageUrl,
+              sourceScore: 120
+            });
           }
+        }
 
-          for (const selector of ['meta[property="og:image"]', 'meta[name="twitter:image"]']) {
-            const value = await page.locator(selector).getAttribute('content').catch(() => null);
-            if (value) {
-              candidates.push({
-                url: new URL(value, sourcePageUsed).href,
-                sourcePage: sourcePageUsed,
-                sourceScore: 120
-              });
+        if (!candidates.some(x => x.sourcePage === pageUrl && x.sourceScore >= 120)) {
+          await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+          await page.waitForTimeout(250);
+        }
+
+        const imageData = await page.evaluate(() => {
+          const urls = [];
+          for (const el of document.querySelectorAll('img, source')) {
+            urls.push(
+              el.currentSrc || '',
+              el.src || '',
+              el.getAttribute('data-src') || '',
+              el.getAttribute('data-lazy-src') || '',
+              el.getAttribute('data-original') || '',
+              el.getAttribute('srcset') || ''
+            );
+          }
+          for (const el of document.querySelectorAll('[style*="background"]')) {
+            const css = getComputedStyle(el).backgroundImage || '';
+            const match = css.match(/url\(["']?([^"')]+)["']?\)/i);
+            if (match) urls.push(match[1]);
+          }
+          return urls.filter(Boolean);
+        });
+
+        for (const raw of imageData) {
+          for (const part of raw.split(/\s+/)) {
+            if (/^https?:/i.test(part)) {
+              candidates.push({ url: part, sourcePage: pageUrl, sourceScore: 90 });
+            } else if (part && !part.includes('x') && !part.startsWith('data:')) {
+              try {
+                candidates.push({
+                  url: new URL(part, pageUrl).href,
+                  sourcePage: pageUrl,
+                  sourceScore: 90
+                });
+              } catch {}
             }
           }
+        }
 
-          if (!candidates.some(x => x.sourcePage === sourcePageUsed && x.sourceScore >= 120)) {
-            await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-            await page.waitForTimeout(250);
+        for (const url of [...new Set(networkImageUrls)]) {
+          if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url)) {
+            candidates.push({ url, sourcePage: pageUrl, sourceScore: 110 });
           }
+        }
 
-          const imageData = await page.evaluate(() => {
-            const urls = [];
-            for (const el of document.querySelectorAll('img, source')) {
-              urls.push(
-                el.currentSrc || '',
-                el.src || '',
-                el.getAttribute('data-src') || '',
-                el.getAttribute('data-lazy-src') || '',
-                el.getAttribute('data-original') || '',
-                el.getAttribute('srcset') || ''
-              );
-            }
-            for (const el of document.querySelectorAll('[style*="background"]')) {
-              const css = getComputedStyle(el).backgroundImage || '';
-              const match = css.match(/url\(["']?([^"')]+)["']?\)/i);
-              if (match) urls.push(match[1]);
-            }
-            return urls.filter(Boolean);
-          });
+        diagnostic.sourceImageCandidates += candidates.filter(x => x.sourcePage === pageUrl).length;
 
-          for (const raw of imageData) {
-            for (const part of raw.split(/\s+/)) {
-              if (/^https?:/i.test(part)) {
-                candidates.push({ url: part, sourcePage: sourcePageUsed, sourceScore: 90 });
-              } else if (part && !part.includes('x') && !part.startsWith('data:')) {
-                try {
-                  candidates.push({
-                    url: new URL(part, sourcePageUsed).href,
-                    sourcePage: sourcePageUsed,
-                    sourceScore: 90
-                  });
-                } catch {}
-              }
-            }
-          }
-
-          // Some archived/product pages load their only useful photo through
-          // an image request rather than an <img> node. Capture those requests
-          // from the verified page and let the normal URL ranking/filtering pick
-          // a plausible exact-model asset. Logos/icons remain penalized below.
-          for (const url of [...new Set(networkImageUrls)]) {
-            if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url)) {
-              candidates.push({ url, sourcePage: sourcePageUsed, sourceScore: 110 });
-            }
-          }
-          diagnostic.sourceImageCandidates = candidates.filter(x => x.sourcePage === sourcePageUsed).length;
-
-          if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(sourcePageUsed).hostname) && deepReview) {
-            // Effects Database pages can expose an og:image or thumbnail that
-            // is not directly downloadable. Always follow the exact external
-            // product/listing links as well, because those pages often contain
-            // the actual pedal photograph we can capture or download.
-            const linked = await linkedExactSourceCandidates(page, entry, sourcePageUsed, true);
-            diagnostic.linkedExternalCandidates = linked.length;
-            candidates.push(...linked);
-          } else if (!candidates.some(x => x.sourcePage === sourcePageUsed && x.sourceScore >= 120)) {
-            const linked = await linkedExactSourceCandidates(page, entry, sourcePageUsed, deepReview);
-            diagnostic.linkedExternalCandidates = linked.length;
-            candidates.push(...linked);
-          }
+        if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname) && deepReview) {
+          const linked = await linkedExactSourceCandidates(page, entry, pageUrl, true);
+          diagnostic.linkedExternalCandidates += linked.length;
+          candidates.push(...linked);
+        } else if (!candidates.some(x => x.sourcePage === pageUrl && x.sourceScore >= 120)) {
+          const linked = await linkedExactSourceCandidates(page, entry, pageUrl, deepReview);
+          diagnostic.linkedExternalCandidates += linked.length;
+          candidates.push(...linked);
         }
       } catch {}
     }
