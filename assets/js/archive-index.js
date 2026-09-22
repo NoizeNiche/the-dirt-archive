@@ -25,6 +25,13 @@ function clearFilters(){
   render();
 }
 
+function discoverPedal(){
+  const visible=filteredItems();
+  if(!visible.length)return;
+  const picked=visible[Math.floor(Math.random()*visible.length)];
+  location.href=slugParams(picked);
+}
+
 function syncUrl(replace=true){
   const p=new URLSearchParams();
   if(selectedType!=='All')p.set('type',selectedType);
@@ -135,6 +142,8 @@ function render(){
   renderClearFilters();
 
   const visible=filteredItems();
+  const discoverButton=$('discoverPedal');
+  if(discoverButton) discoverButton.disabled=!visible.length;
   const totalPages=Math.max(1,Math.ceil(visible.length/PAGE_SIZE));
   const normalizedPage=Math.min(currentPage,totalPages);
   if(normalizedPage!==currentPage){
@@ -186,6 +195,7 @@ function render(){
 }
 
 $('clearFilters').onclick=clearFilters;
+$('discoverPedal').onclick=discoverPedal;
 
 $('search').value=q;
 $('search').oninput=e=>{
