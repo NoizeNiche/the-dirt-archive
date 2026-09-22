@@ -213,3 +213,7 @@ The change is committed on main and remains subordinate to the existing rule: a 
 
 Seeded six exact recovery leads from model-specific documentation: AJcustom Distortion, Alber FU-1000, Alber GA-1040 Gain, Alcove ALP-200 Overdrive, Aleatorik Operation 1, and Alen Geere Loverdrive. These are source leads only; the archive does not treat any of them as pictured until the recovery pipeline archives a confirmed local asset.
 
+## Exact photo-lead checkpoint - September 22, 2026 (continued)
+
+Seeded ten additional exact model-page recovery leads: Alen Geere Methoxy Overdrive; Analog Sound Scream For Cream OD, Smooth O' Drive, and The Boogie Man; Audio Monk Fuzzbeard and Fuzzpotion - Bass Fuzz; Audio-Phonic R4 Fuzz and Twin-Fuzz; and Aural Dream Bold Distortion and Intense Distortion. The leads are queued for the existing recovery machinery and are not counted as pictured until actual local assets are archived.
+
