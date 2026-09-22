@@ -1514,8 +1514,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
           // useful pedal text on the link itself. The listing page has already
           // passed exact-model identity verification, so rank its rendered
           // rvb-img links by where they appear relative to the verified H1.
-          const h1Box = await page.locator('h1').first().boundingBox().catch(() => null);
-          const reverbImageLinks = page.locator('a[href*="rvb-img.reverb.com"], a[href*="static.reverb-assets.com"]');
+          const reverbImageLinks = page.locator('a[href*="rvb-img.reverb.com"]');
           const reverbLinkCount = await reverbImageLinks.count();
           const rankedRenderedLinks = [];
           for (let i = 0; i < reverbLinkCount; i++) {
@@ -1542,9 +1541,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
               };
             }).catch(() => null);
             if (!info?.href || info.promoted) continue;
-            if (!/^https:\/\/(?:rvb-img\.reverb\.com|static\.reverb-assets\.com)\//i.test(info.href)) continue;
-            if (info.width < 220 || info.height < 220) continue;
-            if (h1Box && info.top < h1Box.y + h1Box.height - 40) continue;
+            if (!/^https:\/\/rvb-img\.reverb\.com\//i.test(info.href)) continue;
+            if (info.width && info.height && (info.width < 220 || info.height < 220)) continue;
             rankedRenderedLinks.push({ index: i, info });
           }
 
@@ -1586,7 +1584,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
                 height: img?.naturalHeight || 0
               };
             }).catch(() => null);
-            if (!evidence?.href || !/^https:\/\/(?:rvb-img\.reverb\.com|static\.reverb-assets\.com)\//i.test(evidence.href)) continue;
+            if (!evidence?.href || !/^https:\/\/rvb-img\.reverb\.com\//i.test(evidence.href)) continue;
 
             const hint = normalizedIdentity([evidence.alt, evidence.text, evidence.href].join(' '));
             const pedalHits = identityTokens(entry.pedal).filter(token => hint.includes(token)).length;
