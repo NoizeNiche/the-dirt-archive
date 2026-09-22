@@ -276,3 +276,7 @@ Added a push trigger for changes to the hourly health workflow/script so health-
 ## Cache run 939 checkpoint - September 22, 2026
 
 Run 939 successfully archived two verified local photos: Analog King Fuzz Machine - Germanium Fuzz + Overdrive and Beta Aivin BOD-2 Bass Overdrive. The committed tracker is now 958 pictured and 316 researched-photo-pending. The unified rich-image direct-fetch path was exercised successfully. New exact-source leads include Blackhawk Triangle Fuzz, Alen Geere Loverdrive, and Aleatorik Operation 1 for the next bounded pass.
+
+## Blackhawk and health-lane checkpoint - September 22, 2026
+
+Added an exact Reverb recovery lead for Blackhawk Amplifiers Triangle Fuzz and serialized the hourly health workflow with `dirt-archive-health` so newer health fixes supersede stale canaries. The photo gate remains 316 researched-photo-pending pending the next cache results.
