@@ -4,13 +4,13 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   push:
+    # Code/workflow changes can start an immediate recovery pass. Research/data
+    # edits are intentionally schedule-driven so source curation can accumulate
+    # without repeatedly cancelling an active browser recovery run.
     paths:
-      - "research/PEDAL_INDEX.json"
-      - "research/pedals/PEDAL_IMAGES.json"
       - "scripts/browser-photo-cache.mjs"
       - "scripts/cache-pedal-images.py"
       - "scripts/apply-photo-source-overrides.py"
-      - "research/PHOTO_SOURCE_OVERRIDES.csv"
       - ".github/workflows/cache-pedal-images.yml"
   workflow_dispatch:
 permissions:
@@ -18,9 +18,9 @@ permissions:
 
 concurrency:
   group: dirt-image-cache
-  # Prefer the newest checkpoint. Recovery is restartable, and cancelling an older
-  # pass prevents a stale batch from monopolizing the runner queue.
-  cancel-in-progress: true
+  # Let an active recovery pass finish. Source curation is schedule-driven, so
+  # new maintenance commits should not discard an already-running photo search.
+  cancel-in-progress: false
 
 jobs:
   cache:
