@@ -8719,19 +8719,19 @@
   {
     "builder": "Buffalo FX",
     "pedal": "M-1 Fuzz",
-    "image": null,
+    "image": "./assets/pedals/buffalo-fx/m-1-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/m1",
     "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-m-1-fuzz.md",
-    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/m1",
-    "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/m1"
+    "image_source_url": "https://medias.audiofanzine.com/images/normal/buffalo-fx-m-1-fuzz-1542584.jpg",
+    "image_source_page": "https://fr.audiofanzine.com/fuzz-guitare/buffalo-fx/m-1-fuzz/"
   },
   {
     "builder": "Buffalo FX",
     "pedal": "Patriot",
-    "image": null,
+    "image": "./assets/pedals/buffalo-fx/patriot/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/patriot",
     "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-patriot.md",
-    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/patriot",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/buffalofx_patriot_002.jpg",
     "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/patriot"
   },
   {

@@ -4,8 +4,8 @@
 - Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2841**
-- Researched, photo pending: **296**
+- Remaining tracker photo backlog: **2839**
+- Researched, photo pending: **294**
 
 ## Storage layout
 
@@ -15,8 +15,8 @@
 
 ## Newly cached
 
-- Boulevard - BOD-10 Overdrive -> `./assets/pedals/boulevard/bod-10-overdrive/primary.webp`
-- Buffalo FX - Evolution - 4 Stage Overdrive/Distortion -> `./assets/pedals/buffalo-fx/evolution-4-stage-overdrive-distortion/primary.webp`
+- Buffalo FX - M-1 Fuzz -> `./assets/pedals/buffalo-fx/m-1-fuzz/primary.webp`
+- Buffalo FX - Patriot -> `./assets/pedals/buffalo-fx/patriot/primary.webp`
 
 ## Still external / failed
 
