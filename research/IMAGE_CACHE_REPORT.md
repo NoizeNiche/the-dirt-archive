@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
-- Staged browser photos converted: **2**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2865**
-- Researched, photo pending: **320**
+- Remaining tracker photo backlog: **2864**
+- Researched, photo pending: **319**
 
 ## Storage layout
 
@@ -15,8 +15,7 @@
 
 ## Newly cached
 
-- Alien Rabbit - Magic Drive -> `./assets/pedals/alien-rabbit/magic-drive/primary.webp`
-- Analog Sound - Scream For Cream OD -> `./assets/pedals/analog-sound/scream-for-cream-od/primary.webp`
+- Analog Sound - Smooth O' Drive -> `./assets/pedals/analog-sound/smooth-o-drive/primary.webp`
 
 ## Still external / failed
 

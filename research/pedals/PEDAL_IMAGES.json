@@ -2166,9 +2166,11 @@
   {
     "builder": "Analog Sound",
     "pedal": "Smooth O' Drive",
-    "image": null,
+    "image": "./assets/pedals/analog-sound/smooth-o-drive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Analog Sound/Smooth O' Drive.md"
+    "research_record": "./research/pedals/Analog Sound/Smooth O' Drive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/analogsound_smoothodrive_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/analogsound/smoothodrive"
   },
   {
     "builder": "Analog Sound",

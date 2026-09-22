@@ -3236,7 +3236,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/analog-sound/smooth-o-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Analog Sound/Smooth O' Drive.md",
       "image_source_pages": [
@@ -3245,7 +3245,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/analogsound/smoothodrive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 367
+      "image_source_priority": 367,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/analogsound_smoothodrive_001.jpg"
     },
     {
       "company": "Analog Sound",
@@ -4478,7 +4479,14 @@
       ],
       "image": null,
       "source_page": "https://audiostorm.uk/retired-products/",
-      "research_record": "./research/pedals/Audiostorm/ADNA.md"
+      "research_record": "./research/pedals/Audiostorm/ADNA.md",
+      "image_source_pages": [
+        "https://audiostorm.uk/retired-products/"
+      ],
+      "image_source_page": "https://audiostorm.uk/retired-products/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 383
     },
     {
       "company": "Audiostorm",
@@ -4488,7 +4496,14 @@
       ],
       "image": null,
       "source_page": "https://audiostorm.uk/retired-products/",
-      "research_record": "./research/pedals/Audiostorm/F258 Drive.md"
+      "research_record": "./research/pedals/Audiostorm/F258 Drive.md",
+      "image_source_pages": [
+        "https://audiostorm.uk/retired-products/"
+      ],
+      "image_source_page": "https://audiostorm.uk/retired-products/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 384
     },
     {
       "company": "Audiostorm",
@@ -4512,7 +4527,14 @@
       ],
       "image": null,
       "source_page": "https://audiostorm.uk/product/otherworld/",
-      "research_record": "./research/pedals/Audiostorm/Otherworld Overdrive.md"
+      "research_record": "./research/pedals/Audiostorm/Otherworld Overdrive.md",
+      "image_source_pages": [
+        "https://audiostorm.uk/retired-products/"
+      ],
+      "image_source_page": "https://audiostorm.uk/retired-products/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 385
     },
     {
       "company": "Audiostorm",
@@ -7217,7 +7239,14 @@
       ],
       "image": null,
       "source_page": "https://www.pedalboard.org/strom-liste/beta-aivin",
-      "research_record": "./research/pedals/Beta Aivin/BOD-2 Bass Overdrive.md"
+      "research_record": "./research/pedals/Beta Aivin/BOD-2 Bass Overdrive.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/betaaivin/200/bod2"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/betaaivin/200/bod2",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 387
     },
     {
       "company": "BFFX Boutique Pedals",
@@ -10264,7 +10293,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/musketfuzz",
-      "research_record": "./research/pedals/PRP Batch 102/Blunderbuss Musket.md"
+      "research_record": "./research/pedals/PRP Batch 102/Blunderbuss Musket.md",
+      "image_source_pages": [
+        "https://blackouteffectors.com/effects/"
+      ],
+      "image_source_page": "https://blackouteffectors.com/effects/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 386
     },
     {
       "company": "BlackOutEffectors",
