@@ -1032,7 +1032,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
         const parsedSource = new URL(sourcePage);
         const isReverbListing = isReverbListingUrl(sourcePage);
         await page.goto(sourcePage, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
-        await page.waitForTimeout(isReverbListing ? 1400 : 500);
+        await page.waitForTimeout(isReverbListing ? 2800 : 500);
 
         if (isReverbListing) {
           await page.mouse.wheel(0, 900);
@@ -1337,7 +1337,66 @@ async function recoverEntry(browser, entry, deepReview = false) {
         // a direct rvb-img link around the rendered image. Prefer that exact
         // link when its surrounding alt/text matches the verified pedal identity.
         if (isReverbListing) {
+          // Reverb can expose the exact listing photos as image links without
+          // useful pedal text on the link itself. The listing page has already
+          // passed exact-model identity verification, so rank its rendered
+          // rvb-img links by where they appear relative to the verified H1.
+          const h1Box = await page.locator('h1').first().boundingBox().catch(() => null);
           const reverbImageLinks = page.locator('a[href*="rvb-img.reverb.com"]');
+          const reverbLinkCount = await reverbImageLinks.count();
+          const rankedRenderedLinks = [];
+          for (let i = 0; i < reverbLinkCount; i++) {
+            const link = reverbImageLinks.nth(i);
+            const info = await link.evaluate(el => {
+              const img = el.querySelector('img');
+              const rect = el.getBoundingClientRect();
+              let promoted = false;
+              let node = el;
+              for (let depth = 0; depth < 6 && node; depth++, node = node.parentElement) {
+                const text = String(node.textContent || '').replace(/\s+/g, ' ').trim().toLowerCase();
+                if (text.includes('promoted similar listings') || text.includes('similar gear from other reverb sellers')) {
+                  promoted = true;
+                  break;
+                }
+              }
+              return {
+                href: el.href || '',
+                alt: img?.alt || '',
+                width: img?.naturalWidth || rect.width || 0,
+                height: img?.naturalHeight || rect.height || 0,
+                top: rect.top,
+                promoted
+              };
+            }).catch(() => null);
+            if (!info?.href || info.promoted) continue;
+            if (!/^https:\/\/rvb-img\.reverb\.com\//i.test(info.href)) continue;
+            if (info.width < 220 || info.height < 220) continue;
+            if (h1Box && info.top < h1Box.y + h1Box.height - 40) continue;
+            rankedRenderedLinks.push({ index: i, info });
+          }
+
+          rankedRenderedLinks.sort((a, b) =>
+            (b.info.width * b.info.height) - (a.info.width * a.info.height) ||
+            a.info.top - b.info.top
+          );
+
+          for (const candidateLink of rankedRenderedLinks.slice(0, 4)) {
+            const link = reverbImageLinks.nth(candidateLink.index);
+            await link.scrollIntoViewIfNeeded().catch(() => {});
+            await page.waitForTimeout(350);
+            const img = link.locator('img').first();
+            const bytes = await (await img.count()
+              ? img.screenshot({ type: 'png' })
+              : link.screenshot({ type: 'png' })
+            ).catch(() => null);
+            if (bytes && bytes.length >= 3000) {
+              return { bytes, src: candidateLink.info.href };
+            }
+          }
+
+          // Fallback to the older semantic-text gate when the listing has not
+          // exposed a large rendered image yet.
+
           const reverbLinkCount = await reverbImageLinks.count();
           const pedalNorm = normalizedIdentity(entry.pedal);
           const builderNorm = normalizedIdentity(entry.company);
