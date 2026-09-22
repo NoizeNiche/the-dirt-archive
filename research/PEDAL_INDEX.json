@@ -587,7 +587,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/od10",
-      "research_record": "./research/pedals/Accel Audio/OD-SS Express Overdrive.md"
+      "research_record": "./research/pedals/Accel Audio/OD-SS Express Overdrive.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/accel/od"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/accel/od",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 355
     },
     {
       "company": "Accel Audio",
@@ -605,7 +612,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 329
+      "image_source_priority": 356
     },
     {
       "company": "Accel Audio",
@@ -1640,7 +1647,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/ajcustom/distortion",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 348
+      "image_source_priority": 359
     },
     {
       "company": "Akai",
@@ -1738,7 +1745,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/fu1000",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 344
+      "image_source_priority": 360
     },
     {
       "company": "Alber",
@@ -1790,7 +1797,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/ga1040",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 347
+      "image_source_priority": 361
     },
     {
       "company": "Alber",
@@ -1887,7 +1894,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/alcove/alp200",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 352
+      "image_source_priority": 362
     },
     {
       "company": "Alden",
@@ -1916,7 +1923,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/aleatorik/operation1",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 353
+      "image_source_priority": 363
     },
     {
       "company": "Aleatorik",
@@ -2010,12 +2017,13 @@
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 046/Loverdrive.md",
       "image_source_pages": [
-        "https://reverb.com/item/11628-alen-geere-loverdrive"
+        "https://reverb.com/item/11628-alen-geere-loverdrive",
+        "https://www.effectsdatabase.com/model/alengeere/loverdrive"
       ],
-      "image_source_page": "https://reverb.com/item/11628-alen-geere-loverdrive",
+      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/loverdrive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 341
+      "image_source_priority": 364
     },
     {
       "company": "Alen Geere",
@@ -2025,7 +2033,14 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 046/Methoxy Overdrive.md"
+      "research_record": "./research/pedals/PRP Batch 046/Methoxy Overdrive.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/alengeere/methoxy"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/methoxy",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 365
     },
     {
       "company": "Alen Geere",
@@ -2175,7 +2190,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alien-rabbit/magic-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 047/Magic Drive.md",
       "image_source_pages": [
@@ -2184,7 +2199,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/alienrabbit/magicdrive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 349
+      "image_source_priority": 358,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/alienrabbit_magicdrive_002.jpg"
     },
     {
       "company": "All-Pedal",
@@ -2641,7 +2657,7 @@
       "image_source_page": "https://reverb.com/uk/item/65960922-amsterdam-cream-big-eye-fuzz",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 351
+      "image_source_priority": 357
     },
     {
       "company": "Amsterdam Cream",
@@ -2692,7 +2708,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/amt/bs",
-      "research_record": "./research/pedals/PRP Batch 049/BS British Sound.md"
+      "research_record": "./research/pedals/PRP Batch 049/BS British Sound.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/amt/bs"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/amt/bs",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 380
     },
     {
       "company": "AMT Electronics",
@@ -2963,7 +2986,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/analogking/fuzzmachine",
-      "research_record": "./research/pedals/PRP Batch 056/Fuzz Machine - Germanium Fuzz + Overdrive.md"
+      "research_record": "./research/pedals/PRP Batch 056/Fuzz Machine - Germanium Fuzz + Overdrive.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/analogking/fuzzmachine"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/analogking/fuzzmachine",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 381
     },
     {
       "company": "Analog King",
@@ -3188,9 +3218,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/analog-sound/scream-for-cream-od/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Analog Sound/Scream For Cream OD.md"
+      "research_record": "./research/pedals/Analog Sound/Scream For Cream OD.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/analogsound/screamforcream"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/analogsound/screamforcream",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 366,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/analogsound_screamforcream_001.jpg"
     },
     {
       "company": "Analog Sound",
@@ -3200,7 +3238,14 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Analog Sound/Smooth O' Drive.md"
+      "research_record": "./research/pedals/Analog Sound/Smooth O' Drive.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/analogsound/smoothodrive"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/analogsound/smoothodrive",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 367
     },
     {
       "company": "Analog Sound",
@@ -3210,7 +3255,14 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Analog Sound/The Boogie Man.md"
+      "research_record": "./research/pedals/Analog Sound/The Boogie Man.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/analogsound/boogieman"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/analogsound/boogieman",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 368
     },
     {
       "company": "Anarchy Audio Australia",
@@ -3220,7 +3272,14 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Anarchy Audio Australia/Baa Bzz.md"
+      "research_record": "./research/pedals/Anarchy Audio Australia/Baa Bzz.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/anarchyaudio/baabzz"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/anarchyaudio/baabzz",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 376
     },
     {
       "company": "Anarchy Audio Australia",
@@ -3230,7 +3289,14 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Anarchy Audio Australia/Deadwoods - Chainsaw Fuzz.md"
+      "research_record": "./research/pedals/Anarchy Audio Australia/Deadwoods - Chainsaw Fuzz.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/anarchyaudio/deadwoods"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/anarchyaudio/deadwoods",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 377
     },
     {
       "company": "Anarchy Audio Australia",
@@ -4033,7 +4099,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/audile/toad/bass",
-      "research_record": "./research/pedals/Audile/Bass TOAD - Tone Overdrive And Distortion for Bass.md"
+      "research_record": "./research/pedals/Audile/Bass TOAD - Tone Overdrive And Distortion for Bass.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/audile/toad/bass"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/audile/toad/bass",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 378
     },
     {
       "company": "Audile",
@@ -4117,7 +4190,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/audiomonk/fuzzbeard",
-      "research_record": "./research/pedals/Audio Monk/Fuzzbeard.md"
+      "research_record": "./research/pedals/Audio Monk/Fuzzbeard.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/audiomonk/fuzzbeard"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/audiomonk/fuzzbeard",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 369
     },
     {
       "company": "Audio Monk",
@@ -4127,7 +4207,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/audiomonk",
-      "research_record": "./research/pedals/Audio Monk/Fuzzpotion - Bass Fuzz.md"
+      "research_record": "./research/pedals/Audio Monk/Fuzzpotion - Bass Fuzz.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/audiomonk/fuzzpotion"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/audiomonk/fuzzpotion",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 370
     },
     {
       "company": "Audio Monk",
@@ -4247,7 +4334,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/audiophonic/r4",
-      "research_record": "./research/pedals/Audio-Phonic/R4 Fuzz.md"
+      "research_record": "./research/pedals/Audio-Phonic/R4 Fuzz.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/audiophonic/r4"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/audiophonic/r4",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 371
     },
     {
       "company": "Audio-Phonic",
@@ -4257,7 +4351,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/audiophonic/twinfuzz",
-      "research_record": "./research/pedals/Audio-Phonic/Twin-Fuzz.md"
+      "research_record": "./research/pedals/Audio-Phonic/Twin-Fuzz.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/audiophonic/twinfuzz"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/audiophonic/twinfuzz",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 372
     },
     {
       "company": "Audio! Audio!",
@@ -4433,7 +4534,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/aul/fuzz",
-      "research_record": "./research/pedals/Aul Instruments/Fuzz.md"
+      "research_record": "./research/pedals/Aul Instruments/Fuzz.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/aul/fuzz"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/aul/fuzz",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 375
     },
     {
       "company": "Aural Dream",
@@ -4443,7 +4551,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/auraldream/distortion/bold",
-      "research_record": "./research/pedals/Aural Dream/Bold Distortion.md"
+      "research_record": "./research/pedals/Aural Dream/Bold Distortion.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/auraldream/distortion/bold"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/auraldream/distortion/bold",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 373
     },
     {
       "company": "Aural Dream",
@@ -4465,7 +4580,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/auraldream/distortion/intense",
-      "research_record": "./research/pedals/Aural Dream/Intense Distortion.md"
+      "research_record": "./research/pedals/Aural Dream/Intense Distortion.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/auraldream/distortion/intense"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/auraldream/distortion/intense",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 374
     },
     {
       "company": "Aural Dream",
@@ -4553,7 +4675,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/automat/tripleganger",
-      "research_record": "./research/pedals/Automat Audio Devices/Triplegänger.md"
+      "research_record": "./research/pedals/Automat Audio Devices/Triplegänger.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/automat/tripleganger"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/automat/tripleganger",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 379
     },
     {
       "company": "Auxiliary Workshop",
@@ -8248,7 +8377,14 @@
       ],
       "image": null,
       "source_page": "https://www.bigfootengineering.com/ltd.html",
-      "research_record": "./research/pedals/PRP Batch 086/Bigfoot Germanium EQ Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 086/Bigfoot Germanium EQ Fuzz.md",
+      "image_source_pages": [
+        "https://www.bigfootengineering.com/ltd.html"
+      ],
+      "image_source_page": "https://www.bigfootengineering.com/ltd.html",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 382
     },
     {
       "company": "Bigfoot Engineering",

@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **2**
+- Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2868**
-- Researched, photo pending: **323**
+- Remaining tracker photo backlog: **2865**
+- Researched, photo pending: **320**
 
 ## Storage layout
 
@@ -15,7 +15,8 @@
 
 ## Newly cached
 
-- Buffalo FX - Fuzz Face Si -> `./assets/pedals/buffalo-fx/fuzz-face-si/primary.webp`
+- Alien Rabbit - Magic Drive -> `./assets/pedals/alien-rabbit/magic-drive/primary.webp`
+- Analog Sound - Scream For Cream OD -> `./assets/pedals/analog-sound/scream-for-cream-od/primary.webp`
 
 ## Still external / failed
 

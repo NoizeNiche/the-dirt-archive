@@ -1397,10 +1397,12 @@
   {
     "builder": "Alien Rabbit",
     "pedal": "Magic Drive",
-    "image": null,
+    "image": "./assets/pedals/alien-rabbit/magic-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
     "research_record": "./research/pedals/PRP Batch 047/Magic Drive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/alienrabbit_magicdrive_002.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/alienrabbit/magicdrive"
   },
   {
     "builder": "All-Pedal",
@@ -2155,9 +2157,11 @@
   {
     "builder": "Analog Sound",
     "pedal": "Scream For Cream OD",
-    "image": null,
+    "image": "./assets/pedals/analog-sound/scream-for-cream-od/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Analog Sound/Scream For Cream OD.md"
+    "research_record": "./research/pedals/Analog Sound/Scream For Cream OD.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/analogsound_screamforcream_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/analogsound/screamforcream"
   },
   {
     "builder": "Analog Sound",
