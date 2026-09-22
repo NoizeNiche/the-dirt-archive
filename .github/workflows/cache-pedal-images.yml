@@ -70,6 +70,9 @@ jobs:
       - name: Apply curated exact photo source leads
         run: python scripts/apply-photo-source-overrides.py
 
+      - name: Validate recovery script syntax
+        run: node --check scripts/browser-photo-cache.mjs
+
       - name: Recover verified page images
         env:
           # Smaller committed batches keep recovery bounded and make progress visible.
