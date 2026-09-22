@@ -1,4 +1,4 @@
-Photo recovery kick v6
-Issued September 22, 2026. Exercise AMT leads, lazy-image extraction, and upgraded Aether/A.Y.A sources.
+Photo recovery kick v7
+Issued September 22, 2026. Exercise unified rich-image discovery, JSON-LD extraction, AMT leads, and upgraded exact-source redundancy.
 Purpose: start one bounded recovery pass against the current main branch after scheduled delivery stopped producing cache runs.
 This file is intentionally inert data. Only changes to this exact sentinel path trigger the cache workflow.
