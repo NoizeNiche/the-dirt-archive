@@ -42,8 +42,7 @@ function gitPathExists(rev, rel){
   catch { return false; }
 }
 function previousImageWasArchived(image){
-  if(!image) return false;
-  if(!isLocalImagePath(image)) return true;
+  if(!image || !isLocalImagePath(image)) return false;
   return gitPathExists('HEAD^', image.replace(/^\.\//,''));
 }
 function key(x){ return `${x.company}\u0000${x.pedal}`; }
@@ -53,6 +52,10 @@ function isLocalImagePath(value){
 function resolveLocalImagePath(value){
   if (!isLocalImagePath(value)) return null;
   return path.join(ROOT, value.replace(/^\.\//,''));
+}
+function hasArchivedImage(value){
+  const resolved = resolveLocalImagePath(value);
+  return !!resolved && fs.existsSync(resolved);
 }
 function parseCsvLine(line){
   const cells=[];
@@ -89,7 +92,7 @@ function checkDataIntegrity() {
   const pedals=current.pedals||[];
   const publicEntries=pedals.filter(x=>x.catalog_role!=='variation');
   const researchedEntries=publicEntries.filter(x=>x.research_record);
-  const picturedEntries=researchedEntries.filter(x=>x.image);
+  const picturedEntries=researchedEntries.filter(x=>hasArchivedImage(x.image));
   const typeCanary=publicEntries.find(x=>Array.isArray(x.types)&&x.types.includes('Fuzz'))||publicEntries[0];
   const builderCanary=typeCanary||publicEntries[0];
   const positiveCanary=picturedEntries[0]||researchedEntries[0];
@@ -107,7 +110,7 @@ function checkDataIntegrity() {
     const k=key(p);
     if (!tracker.has(k)) throw new Error(`Tracker missing catalog identity: ${p.company} / ${p.pedal}`);
     const row=tracker.get(k);
-    const info=!!p.research_record, picture=!!p.image, complete=info&&picture;
+    const info=!!p.research_record, picture=hasArchivedImage(p.image), complete=info&&picture;
     if ((row['Pedal Info']==='DONE')!==info) throw new Error(`Tracker Pedal Info mismatch: ${p.company} / ${p.pedal}`);
     if ((row.Picture==='DONE')!==picture) throw new Error(`Tracker Picture mismatch: ${p.company} / ${p.pedal}`);
     if ((row['PRP Complete']==='DONE')!==complete) throw new Error(`Tracker PRP Complete mismatch: ${p.company} / ${p.pedal}`);
@@ -124,8 +127,8 @@ function checkDataIntegrity() {
     const m=manifestByKey.get(k);
     if (!m) throw new Error(`Photo manifest missing catalog identity: ${p.company} / ${p.pedal}`);
     if ((m.image||null)!==(p.image||null)) throw new Error(`Photo path mismatch between index and manifest: ${p.company} / ${p.pedal}`);
-    if (isLocalImagePath(p.image) && !fs.existsSync(resolveLocalImagePath(p.image))) {
-      throw new Error(`Local archived photo is missing: ${p.company} / ${p.pedal} -> ${p.image}`);
+    if (p.image && !hasArchivedImage(p.image)) {
+      throw new Error(`Photo is not locally archived: ${p.company} / ${p.pedal} -> ${p.image}`);
     }
     if (p.catalog_role==='variation' && p.parent_pedal && isLocalImagePath(p.image)) {
       const parent=p.image.split('/').slice(-3,-2)[0] || '';
@@ -160,8 +163,8 @@ function checkDataIntegrity() {
     if (deletedFiles.length) throw new Error(`Research files were deleted from the latest commit: ${deletedFiles.slice(0,12).join(' | ')}`);
   }
   const researched=pedals.filter(x=>x.research_record).length;
-  const pictured=pedals.filter(x=>x.image).length;
-  const complete=pedals.filter(x=>x.research_record&&x.image).length;
+  const pictured=pedals.filter(x=>hasArchivedImage(x.image)).length;
+  const complete=pedals.filter(x=>x.research_record&&hasArchivedImage(x.image)).length;
   console.log(`PRP data: ${pedals.length} pedals / ${researched} researched / ${pictured} pictured / ${complete} complete`);
   return {current, pedals, researched, pictured, complete, canaries:{builderCanary,positiveCanary,noPhotoCanary,variationCanary}};
 }
