@@ -1,12 +1,12 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
+- Cached in this run: **1**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
-- Download failures: **13**
-- Remaining tracker photo backlog: **2814**
-- Researched, photo pending: **269**
-- External source images awaiting localization: **13**
+- Download failures: **12**
+- Remaining tracker photo backlog: **2813**
+- Researched, photo pending: **268**
+- External source images awaiting localization: **12**
 
 ## Storage layout
 
@@ -14,9 +14,12 @@
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
 
+## Newly cached
+
+- A.Y.A - Frontgate Bass Drive -> `./assets/pedals/a-y-a/frontgate-bass-drive/primary.webp`
+
 ## Still external / failed
 
-- A.Y.A - Frontgate Bass Drive: https://rvb-img.reverb.com/i/s--5Ji-FEct--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/vtrzhulooljqweoefyhp.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--5Ji-FEct--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/vtrzhulooljqweoefyhp.jpg`)
 - Accel Audio - Vintage Scream'in Overdrive: https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp`)
 - Acid Fuzz - Acid Fuzzer MkI: https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg`)
 - Acid Fuzz - Professional MkII: https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg`)

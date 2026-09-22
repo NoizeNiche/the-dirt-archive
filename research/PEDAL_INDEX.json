@@ -172,19 +172,20 @@
       "types": [
         "Overdrive"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--5Ji-FEct--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/vtrzhulooljqweoefyhp.jpg",
+      "image": "./assets/pedals/a-y-a/frontgate-bass-drive/primary.webp",
       "source_page": "https://reverb.com/au/item/73614456-a-y-a-frontgate-bass-drive-sn-1562-09-20",
       "research_record": "./research/pedals/A.Y.A/Frontgate Bass Drive.md",
-      "image_source_url": "https://rvb-img.reverb.com/i/s--5Ji-FEct--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/vtrzhulooljqweoefyhp.jpg",
-      "image_source_page": "https://reverb.com/de/item/84897758-a-y-a-tokyo-japan-frontgate-bassdrive",
+      "image_source_url": "https://cdn.image.st-hatena.com/image/scale/0641f113a6ad42df6012632a551ce99bf2a283c5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fasagi_bass%2F20190527%2F20190527125112.jpg",
+      "image_source_page": "https://www.asagi-bass.com/entry/frontgate",
       "image_source_pages": [
         "https://www.tonequestshop.co.kr/product/1322732924/",
         "https://www.effectsdatabase.com/model/aya/frontgate",
-        "https://reverb.com/de/item/84897758-a-y-a-tokyo-japan-frontgate-bassdrive"
+        "https://reverb.com/de/item/84897758-a-y-a-tokyo-japan-frontgate-bassdrive",
+        "https://www.asagi-bass.com/entry/frontgate"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 376
+      "image_source_priority": 407
     },
     {
       "company": "A/DA",
@@ -3927,13 +3928,14 @@
       "image": "https://rvb-img.reverb.com/i/s--R9Ok8B28--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/a7bc35c8-94df-4de1-852a-00e1225e5486.jpg",
       "source_page": "https://reverb.com/item/96732158-asheville-guitar-pedals-rat-king-2025-white",
       "research_record": "./research/pedals/PRP Batch 059/Rat King.md",
-      "image_source_page": "https://reverb.com/item/89342629-asheville-guitar-pedals-rat-king-2025-black",
+      "image_source_page": "https://www.avlguitarpedals.com/",
       "image_source_pages": [
-        "https://reverb.com/item/89342629-asheville-guitar-pedals-rat-king-2025-black"
+        "https://reverb.com/item/89342629-asheville-guitar-pedals-rat-king-2025-black",
+        "https://www.avlguitarpedals.com/"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 281
+      "image_source_priority": 406
     },
     {
       "company": "Astral ToneWorx",
@@ -9483,11 +9485,12 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/crown-of-horns/",
       "research_record": "./research/pedals/PRP Batch 094/Crown of Horns.md",
-      "image_source_page": "https://www.blackartstoneworks.com/pedal/crown-of-horns/",
+      "image_source_page": "https://www.guitarcenter.com/Used/Black-Arts-Toneworks/Used-Black-Arts-Toneworks-CROWN-OF-HORNS-Effect-Pedal-121985344.gc",
       "image_source_page_verified": true,
-      "image_source_priority": 37,
+      "image_source_priority": 408,
       "image_source_pages": [
-        "https://www.blackartstoneworks.com/pedal/crown-of-horns/"
+        "https://www.blackartstoneworks.com/pedal/crown-of-horns/",
+        "https://www.guitarcenter.com/Used/Black-Arts-Toneworks/Used-Black-Arts-Toneworks-CROWN-OF-HORNS-Effect-Pedal-121985344.gc"
       ],
       "image_source_pages_verified": true
     },
