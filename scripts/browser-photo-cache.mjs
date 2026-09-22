@@ -728,21 +728,6 @@ async function recoverEntry(browser, entry, deepReview = false) {
 
     // A curated/explicit image source page is already a stronger lead than a
     // fresh maker-search query, so give that page the first chance to resolve.
-    // Maker discovery remains the fallback when no explicit page is available.
-    const hasExplicitSourcePage = Boolean(entry.image_source_page);
-    if ((!pageUrl || !hostMatchesBuilder(pageUrl, entry.company)) && !hasExplicitSourcePage) {
-      const makerCandidates = await makerWebCandidates(page, entry);
-      candidates.push(...makerCandidates);
-    }
-
-    if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) {
-      candidates.push({
-        url: entry.image_source_url,
-        sourcePage: entry.image_source_page || entry.source_page || null,
-        sourceScore: 80
-      });
-    }
-
     let sourcePageUsed = null;
     const pageUrls = preferredSourcePages(entry);
 
