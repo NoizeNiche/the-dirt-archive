@@ -60,13 +60,8 @@ def main():
 
     with PHOTO_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
         overrides = list(csv.DictReader(handle))
-    override_keys = [
-        pair(x.get("Builder"), x.get("Pedal"))
-        for x in overrides
-    ]
-    if len(override_keys) != len(set(override_keys)):
-        raise SystemExit("Duplicate Builder + Pedal identity in PHOTO_SOURCE_OVERRIDES.csv.")
     override_by_key = {}
+    override_page_keys = set()
     for row in overrides:
         k = pair(row.get("Builder"), row.get("Pedal"))
         source_page = (row.get("Image Source Page") or "").strip()
@@ -74,7 +69,11 @@ def main():
             raise SystemExit(f"Photo source override contains an unknown catalog identity: {k}")
         if not re.match(r"^https?://", source_page, re.I):
             raise SystemExit(f"Photo source override is not an HTTP(S) page: {k} -> {source_page}")
-        override_by_key[k] = source_page
+        page_key = (k, source_page)
+        if page_key in override_page_keys:
+            raise SystemExit(f"Duplicate Builder + Pedal + source page in PHOTO_SOURCE_OVERRIDES.csv: {k} -> {source_page}")
+        override_page_keys.add(page_key)
+        override_by_key.setdefault(k, []).append(source_page)
 
     for entry in pedals:
         k = pair(entry.get("company"), entry.get("pedal"))
@@ -83,8 +82,8 @@ def main():
             raise SystemExit(f"Missing research record: {k} -> {record}")
 
         if entry.get("image_source_page_verified") is True:
-            curated_page = override_by_key.get(k)
-            if not curated_page or curated_page != (entry.get("image_source_page") or "").strip():
+            curated_pages = override_by_key.get(k, [])
+            if not curated_pages or (entry.get("image_source_page") or "").strip() not in curated_pages:
                 raise SystemExit(f"Verified photo source flag has no matching curated override: {k}")
 
         image = entry.get("image")
