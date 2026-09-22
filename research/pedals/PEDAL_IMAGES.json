@@ -4925,10 +4925,12 @@
   {
     "builder": "Bias",
     "pedal": "Bias Over Drive",
-    "image": null,
+    "image": "./assets/pedals/bias/bias-over-drive/primary.webp",
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 080/Bias Over Drive.md"
+    "research_record": "./research/pedals/PRP Batch 080/Bias Over Drive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/bias_overdrive-1982-kit-ad_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/bias/overdrive"
   },
   {
     "builder": "Big Bite Fx",
@@ -5538,10 +5540,12 @@
   {
     "builder": "Big Tone Music Brewery",
     "pedal": "Germanium FuzzBender",
-    "image": null,
+    "image": "./assets/pedals/big-tone-music-brewery/germanium-fuzzbender/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/bigtone/fuzzbender",
-    "research_record": "./research/pedals/PRP Batch 086/Germanium FuzzBender.md"
+    "research_record": "./research/pedals/PRP Batch 086/Germanium FuzzBender.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/bigtone_ge-fuzzbender_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/bigtone/fuzzbender"
   },
   {
     "builder": "Big Tone Music Brewery",
@@ -5554,10 +5558,12 @@
   {
     "builder": "Big Tone Music Brewery",
     "pedal": "Parametric Overdrive",
-    "image": null,
+    "image": "./assets/pedals/big-tone-music-brewery/parametric-overdrive/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/bigtone/overdrive/parametric",
-    "research_record": "./research/pedals/PRP Batch 086/Parametric Overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 086/Parametric Overdrive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/bigtonemusicbrewery_parametricod_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/bigtone/overdrive/parametric"
   },
   {
     "builder": "Big Tone Music Brewery",
@@ -5580,18 +5586,22 @@
   {
     "builder": "Big White Monkey Amps",
     "pedal": "Howler",
-    "image": null,
+    "image": "./assets/pedals/big-white-monkey-amps/howler/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/bwm/howler",
-    "research_record": "./research/pedals/PRP Batch 086/Howler.md"
+    "research_record": "./research/pedals/PRP Batch 086/Howler.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/bwm_howler_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/bwm/howler"
   },
   {
     "builder": "Big White Monkey Amps",
     "pedal": "Spider 808",
-    "image": null,
+    "image": "./assets/pedals/big-white-monkey-amps/spider-808/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/bwm/spider808",
-    "research_record": "./research/pedals/PRP Batch 086/Spider 808.md"
+    "research_record": "./research/pedals/PRP Batch 086/Spider 808.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/bwm_spider808_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/bwm/spider808"
   },
   {
     "builder": "Bigfoot Engineering",
@@ -5703,10 +5713,12 @@
   {
     "builder": "Bigfoot F.X.",
     "pedal": "The Humongous Box",
-    "image": null,
+    "image": "./assets/pedals/bigfoot-f-x/the-humongous-box/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/bigfoot/humongousbox",
-    "research_record": "./research/pedals/PRP Batch 087/The Humongous Box.md"
+    "research_record": "./research/pedals/PRP Batch 087/The Humongous Box.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/bigfoot_humongousbox_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/bigfoot/humongousbox"
   },
   {
     "builder": "BigNoise Amplification",

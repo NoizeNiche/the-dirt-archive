@@ -7358,7 +7358,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bias/bias-over-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/Bias Over Drive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/bias/overdrive",
@@ -7367,7 +7367,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/bias/overdrive"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bias_overdrive-1982-kit-ad_001.jpg"
     },
     {
       "company": "Big Bite Fx",
@@ -8264,7 +8265,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-tone-music-brewery/germanium-fuzzbender/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bigtone/fuzzbender",
       "research_record": "./research/pedals/PRP Batch 086/Germanium FuzzBender.md",
       "image_source_page": "https://www.effectsdatabase.com/model/bigtone/fuzzbender",
@@ -8273,7 +8274,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/bigtone/fuzzbender"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bigtone_ge-fuzzbender_001.jpg"
     },
     {
       "company": "Big Tone Music Brewery",
@@ -8298,7 +8300,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-tone-music-brewery/parametric-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bigtone/overdrive/parametric",
       "research_record": "./research/pedals/PRP Batch 086/Parametric Overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/bigtone/overdrive/parametric",
@@ -8307,7 +8309,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/bigtone/overdrive/parametric"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bigtonemusicbrewery_parametricod_001.jpg"
     },
     {
       "company": "Big Tone Music Brewery",
@@ -8347,7 +8350,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-white-monkey-amps/howler/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bwm/howler",
       "research_record": "./research/pedals/PRP Batch 086/Howler.md",
       "image_source_page": "https://www.effectsdatabase.com/model/bwm/howler",
@@ -8356,7 +8359,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/bwm/howler"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bwm_howler_001.jpg"
     },
     {
       "company": "Big White Monkey Amps",
@@ -8364,7 +8368,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-white-monkey-amps/spider-808/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bwm/spider808",
       "research_record": "./research/pedals/PRP Batch 086/Spider 808.md",
       "image_source_page": "https://www.effectsdatabase.com/model/bwm/spider808",
@@ -8373,7 +8377,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/bwm/spider808"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bwm_spider808_001.jpg"
     },
     {
       "company": "Bigfoot Engineering",
@@ -8563,7 +8568,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bigfoot-f-x/the-humongous-box/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bigfoot/humongousbox",
       "research_record": "./research/pedals/PRP Batch 087/The Humongous Box.md",
       "image_source_page": "https://www.effectsdatabase.com/model/bigfoot/humongousbox",
@@ -8572,7 +8577,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/bigfoot/humongousbox"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bigfoot_humongousbox_001.jpg"
     },
     {
       "company": "BigNoise Amplification",
