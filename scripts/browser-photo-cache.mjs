@@ -1063,14 +1063,14 @@ async function recoverEntry(browser, entry, deepReview = false) {
                 } catch {}
               };
 
-              for (const match of rawHtml.matchAll(/<(?:img|source|a)\\b[^>]*(?:src|href|data-src|data-full-src|data-original|data-image|data-image-url|srcset)=["']([^"']+)["'][^>]*>/gi)) {
-                for (const part of match[1].split(/\\s*,\\s*|\\s+/)) addRaw(part.replace(/\\s+\\d+(?:\\.\\d+)?w$/, ''));
+              for (const match of rawHtml.matchAll(/<(?:img|source|a)\b[^>]*(?:src|href|data-src|data-full-src|data-original|data-image|data-image-url|srcset)=["']([^"']+)["'][^>]*>/gi)) {
+                for (const part of match[1].split(/\s*,\s*|\s+/)) addRaw(part.replace(/\s+\d+(?:\.\d+)?w$/, ''));
               }
-              for (const match of rawHtml.matchAll(/<meta\\b[^>]*(?:property|name)=["'](?:og:image|twitter:image)["'][^>]*content=["']([^"']+)["'][^>]*>/gi)) addRaw(match[1]);
-              for (const match of rawHtml.matchAll(/(?:https?:)?\\/\\/[^"'\\s<>]+/gi)) {
+              for (const match of rawHtml.matchAll(/<meta\b[^>]*(?:property|name)=["'](?:og:image|twitter:image)["'][^>]*content=["']([^"']+)["'][^>]*>/gi)) addRaw(match[1]);
+              for (const match of rawHtml.matchAll(/(?:https?:)?\/\/[^"'\s<>]+/gi)) {
                 const candidate = match[0].startsWith('//') ? 'https:' + match[0] : match[0];
-                if (/\\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\\s<>]*)?$/i.test(candidate) ||
-                    /(?:wp-content\\/uploads|upload|media|product|pedal|image|photo|gallery|cdn|cloudinary|shopify)/i.test(candidate)) {
+                if (/\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?$/i.test(candidate) ||
+                    /(?:wp-content\/uploads|upload|media|product|pedal|image|photo|gallery|cdn|cloudinary|shopify)/i.test(candidate)) {
                   addRaw(candidate);
                 }
               }
