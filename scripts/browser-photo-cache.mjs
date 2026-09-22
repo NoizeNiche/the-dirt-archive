@@ -687,6 +687,19 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
 }
 
 async function recoverEntry(browser, entry, deepReview = false) {
+  const diagnostic = {
+    sourceHost: null,
+    sourcePageLoaded: false,
+    sourceIdentityMatch: false,
+    sourceImageCandidates: 0,
+    linkedExternalCandidates: 0,
+    sourceScreenshotCaptured: false,
+    makerFallbackTried: false,
+    soldCandidates: 0,
+    verifiedSoldCandidates: 0,
+    imageSearchCandidates: 0,
+    verifiedSearchCandidates: 0
+  };
   const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
   const networkImageUrls = [];
   const onResponse = response => {
@@ -724,7 +737,9 @@ async function recoverEntry(browser, entry, deepReview = false) {
     let sourcePageUsed = null;
     if (pageUrl && /^https?:/i.test(pageUrl)) {
       try {
+        diagnostic.sourceHost = new URL(pageUrl).hostname;
         await page.goto(pageUrl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+        diagnostic.sourcePageLoaded = true;
         const title = await page.title().catch(() => '');
         const h1 = await page.locator('h1').first().textContent().catch(() => '');
         const body = await page.locator('body').textContent().catch(() => '');
@@ -734,6 +749,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
           pageMatchesIdentity(entry, title + ' ' + body, h1) ||
           reverbListingMatchesIdentity(entry, pageUrl, title, h1);
         if (pageIdentityMatch) {
+          diagnostic.sourceIdentityMatch = true;
           sourcePageUsed = pageUrl;
 
           // Effects Database renders its auction/search image after the initial
@@ -805,6 +821,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
               candidates.push({ url, sourcePage: sourcePageUsed, sourceScore: 110 });
             }
           }
+          diagnostic.sourceImageCandidates = candidates.filter(x => x.sourcePage === sourcePageUsed).length;
 
           if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(sourcePageUsed).hostname) && deepReview) {
             // Effects Database pages can expose an og:image or thumbnail that
@@ -812,9 +829,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
             // product/listing links as well, because those pages often contain
             // the actual pedal photograph we can capture or download.
             const linked = await linkedExactSourceCandidates(page, entry, sourcePageUsed, true);
+            diagnostic.linkedExternalCandidates = linked.length;
             candidates.push(...linked);
           } else if (!candidates.some(x => x.sourcePage === sourcePageUsed && x.sourceScore >= 120)) {
             const linked = await linkedExactSourceCandidates(page, entry, sourcePageUsed, deepReview);
+            diagnostic.linkedExternalCandidates = linked.length;
             candidates.push(...linked);
           }
         }
@@ -1084,6 +1103,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
       for (const sourcePage of sourcePages) {
         const shot = await screenshotVerifiedSourcePageImage(sourcePage);
         if (shot) {
+          diagnostic.sourceScreenshotCaptured = true;
           selectedResult = {
             candidate: {
               url: shot.src,
@@ -1102,6 +1122,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
     // priority without letting a stale/broken source page become a dead end.
     if (!selectedResult && hasExplicitSourcePage) {
       try {
+        diagnostic.makerFallbackTried = true;
         const makerCandidates = await makerWebCandidates(page, entry);
         selectedResult = await tryImages(makerCandidates);
       } catch {}
@@ -1141,6 +1162,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
     // identity first, then harvest its actual listing photos.
     if (!selectedResult && IMAGE_SEARCH_ENABLED) {
       const soldResults = await reverbSoldCandidates(page, entry, deepReview);
+      diagnostic.soldCandidates = soldResults.length;
       const verifiedSold = [];
 
       const verifyLimit = deepReview ? Math.min(4, SEARCH_VERIFY_LIMIT) : SEARCH_VERIFY_LIMIT;
@@ -1219,6 +1241,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
         } catch {}
       }
 
+      diagnostic.verifiedSoldCandidates = verifiedSold.length;
       selectedResult = await tryImages(
         [...new Map(verifiedSold.map(x => [x.url, x])).values()]
           .sort((a, b) => b.sourceScore - a.sourceScore)
@@ -1229,6 +1252,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
     // image search and other indexed web results.
     if (!selectedResult && IMAGE_SEARCH_ENABLED) {
       const searchResults = await imageSearchCandidates(page, entry, deepReview);
+      diagnostic.imageSearchCandidates = searchResults.length;
       const verifiedSearch = [];
       const rankedSearchResults = searchResults
         .map(result => ({ result, fit: imageSearchScore(entry, result) }))
@@ -1293,6 +1317,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
           });
         } catch {}
       }
+      diagnostic.verifiedSearchCandidates = verifiedSearch.length;
       const rankedVerifiedSearch = verifiedSearch.sort((a, b) => b.sourceScore - a.sourceScore);
       selectedResult = await tryImages(rankedVerifiedSearch);
 
@@ -1310,7 +1335,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
       }
     }
 
-    if (!selectedResult) throw new Error('no usable exact-model image candidate found');
+    if (!selectedResult) {
+      const detail = deepReview
+        ? ' [' + JSON.stringify(diagnostic) + ']'
+        : '';
+      throw new Error('no usable exact-model image candidate found' + detail);
+    }
 
     const selected = selectedResult.candidate;
     const selectedBytes = selectedResult.bytes;
