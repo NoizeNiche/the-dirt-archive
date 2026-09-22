@@ -1206,6 +1206,32 @@ async function recoverEntry(browser, entry, deepReview = false) {
           }
         } catch {}
 
+        // Legacy product pages can keep the exact photo as a relative upload/media
+        // path in raw HTML with no usable <img> node. Carry those paths into the
+        // rendered fallback as candidates from the already verified source page.
+        const rawHtmlImageCandidates = [];
+        try {
+          const html = (await page.content())
+            .replace(/\\u002f/gi, '/')
+            .replace(/\\x2f/gi, '/')
+            .replace(/\\\//g, '/');
+          const relativeUrls = [
+            ...html.matchAll(/["'=(]\s*(\/[^"'\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?)/gi)
+          ].map(match => match[1]);
+          for (const rawUrl of [...new Set(relativeUrls)].slice(0, 24)) {
+            let url = rawUrl;
+            try { url = new URL(rawUrl, sourcePage).href; } catch { continue; }
+            if (!/(?:wp-content\/uploads|gear\/pics|upload|media|product|pedal|image|photo|gallery|cdn|cloudinary|shopify)/i.test(url)) continue;
+            if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|layer\d+|weblogo)/i.test(url)) continue;
+            rawHtmlImageCandidates.push({
+              url,
+              score: 760,
+              exactPhrase: true,
+              rawHtmlImage: true
+            });
+          }
+        } catch {}
+
         // Curated source pages are already tied to the exact pedal. The remaining
         // problem is selecting the *right* image when a product page contains
         // multiple photos, logos, thumbnails, or several products. Score the image
@@ -1480,7 +1506,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
         // Keep embedded CDN URLs in the same candidate pool. They come from
         // the already identity-verified page itself, so they remain source-page
         // evidence rather than an unverified search-engine substitution.
-        candidates.unshift(...embeddedImageCandidates);
+        candidates.unshift(...embeddedImageCandidates, ...rawHtmlImageCandidates);
 
         const matches = page.locator('img');
         const count = await matches.count();
