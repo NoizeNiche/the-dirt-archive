@@ -121,18 +121,31 @@ function showPhoto(item,label){
   }
 }
 
+function wireThumbnailFallbacks(selector){
+  document.querySelectorAll(selector).forEach(image=>{
+    const fallback=image.parentElement?.querySelector('.thumbFallback');
+    const showFallback=()=>{
+      image.hidden=true;
+      if(fallback)fallback.hidden=false;
+    };
+    image.addEventListener('error',showFallback,{once:true});
+    if(image.complete && image.naturalWidth===0)showFallback();
+  });
+}
+
 function renderColorways(item, colorways){
   if(!colorways.length){$('colorwaysSection').hidden=true;return}
   $('colorwaysSection').hidden=false;
   $('colorways').innerHTML=colorways.map((v,i)=>{
     const name=v.variation_name||v.pedal||('Variation '+(i+1));
     const media=v.image
-      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+name)+'" loading="lazy" referrerpolicy="no-referrer">'
+      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+name)+'" loading="lazy" referrerpolicy="no-referrer"><span class="thumbFallback" hidden>No Photo Archived</span>'
       : '<span>No Photo Archived</span>';
     return '<button class="colorwayCard" type="button" data-variation="'+esc(name)+'" aria-pressed="false">'+
       '<span class="colorwayThumb">'+media+'</span><span class="colorwayName">'+esc(name)+'</span>'+
     '</button>';
   }).join('');
+  wireThumbnailFallbacks('.colorwayThumb img');
   const buttons=[...document.querySelectorAll('[data-variation]')];
   buttons.forEach(btn=>{
     btn.onclick=()=>{
@@ -163,12 +176,14 @@ function renderVersions(item, versions){
   $('versions').innerHTML=versions.map(v=>{
     const label=v.version_label||v.pedal;
     const media=v.image
-      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+label)+'" loading="lazy" referrerpolicy="no-referrer">'
+      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+label)+'" loading="lazy" referrerpolicy="no-referrer"><span class="thumbFallback" hidden>No Photo Archived</span>'
       : '<span>No Photo Archived</span>';
-    return '<a class="variantCard" href="'+detailUrl(v, null, wantedType)+'">'+
+    const versionType=(wantedType && wantedType!=='All' && (v.types||[]).includes(wantedType))?wantedType:'';
+    return '<a class="variantCard" href="'+detailUrl(v, null, versionType)+'">'+
       '<span class="variantThumb">'+media+'</span><span class="variantName">'+esc(label)+'</span>'+
     '</a>';
   }).join('');
+  wireThumbnailFallbacks('.variantThumb img');
 }
 
 function renderDemo(item){
@@ -190,43 +205,28 @@ function researchRecordUrl(path){
   return new URL(encoded,base).href;
 }
 
-function loadResearchMarkdown(path){
+async function loadResearchMarkdown(path){
   const researchUrl=researchRecordUrl(path);
-  return new Promise((resolve,reject)=>{
-    let attempt=0;
-    let lastError=null;
-    const run=()=>{
-      attempt++;
-      const request=new XMLHttpRequest();
-      request.open('GET',researchUrl,true);
-      request.timeout=5000;
-      request.responseType='text';
-      request.onload=()=>{
-        if(request.status<200 || request.status>=300){
-          lastError=new Error('Research record request failed: HTTP '+request.status);
-        }else if(!request.responseText.trim()){
-          lastError=new Error('Research record is empty.');
-        }else{
-          resolve(request.responseText);
-          return;
-        }
-        if(attempt<3){setTimeout(run,150);return}
-        reject(lastError);
-      };
-      request.onerror=()=>{
-        lastError=new Error('Research record request failed.');
-        if(attempt<3){setTimeout(run,150);return}
-        reject(lastError);
-      };
-      request.ontimeout=()=>{
-        lastError=new Error('Research record request timed out.');
-        if(attempt<3){setTimeout(run,150);return}
-        reject(lastError);
-      };
-      request.send();
-    };
-    run();
-  });
+  let lastError=null;
+  for(let attempt=1;attempt<=3;attempt++){
+    const controller=new AbortController();
+    const timeout=setTimeout(()=>controller.abort(),5000);
+    try{
+      const response=await fetch(researchUrl,{cache:'no-store',signal:controller.signal});
+      if(!response.ok)throw new Error('Research record request failed: HTTP '+response.status);
+      const text=await response.text();
+      if(!text.trim())throw new Error('Research record is empty.');
+      return text;
+    }catch(error){
+      lastError=error?.name==='AbortError'
+        ? new Error('Research record request timed out.')
+        : error;
+      if(attempt<3)await new Promise(resolve=>setTimeout(resolve,150));
+    }finally{
+      clearTimeout(timeout);
+    }
+  }
+  throw lastError||new Error('Research record request failed.');
 }
 
 restoreReturnLink();
@@ -258,6 +258,7 @@ loadCatalog()
     }
   }
 
+  if(wantedType && wantedType!=='All' && !(item.types||[]).includes(wantedType)) wantedType='';
   document.title=item.pedal+' · The Dirt Archive';
   $('record').hidden=false;
   renderPageNav(allItems,item);
