@@ -695,6 +695,100 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
   return [...merged.values()];
 }
 
+async function richSourceImageUrls(page, pageUrl) {
+  try {
+    return await page.evaluate(() => {
+      const out = new Set();
+      const add = value => {
+        if (!value || typeof value !== 'string') return;
+        for (const part of value.split(/\s+/)) {
+          if (!part || part.startsWith('data:')) continue;
+          try {
+            const url = /^https?:/i.test(part) ? part : new URL(part, location.href).href;
+            if (!/^https?:/i.test(url)) return;
+            if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social)/i.test(url)) return;
+            out.add(url);
+          } catch {}
+        }
+      };
+
+      for (const img of document.querySelectorAll('img, source')) {
+        add(img.currentSrc || '');
+        add(img.getAttribute('data-full-src') || '');
+        add(img.getAttribute('data-large-image') || '');
+        add(img.getAttribute('data-zoom-image') || '');
+        add(img.getAttribute('data-original-src') || '');
+        add(img.getAttribute('data-image') || '');
+        add(img.getAttribute('data-image-url') || '');
+        add(img.getAttribute('data-src') || '');
+        add(img.getAttribute('data-lazy-src') || '');
+        add(img.getAttribute('data-original') || '');
+        add(img.getAttribute('srcset') || '');
+        add(img.getAttribute('data-srcset') || '');
+        add(img.getAttribute('data-lazy-srcset') || '');
+      }
+
+      for (const node of document.querySelectorAll('[style*="background-image"], [data-background], [data-bg], [data-background-image]')) {
+        const raw = [
+          getComputedStyle(node).backgroundImage || '',
+          node.getAttribute('data-background') || '',
+          node.getAttribute('data-bg') || '',
+          node.getAttribute('data-background-image') || ''
+        ].join(' ');
+        for (const match of raw.matchAll(/url\\((?:"|')?([^"')]+)(?:"|')?\\)/gi)) add(match[1]);
+      }
+
+      for (const script of document.querySelectorAll('script[type="application/ld+json"]')) {
+        const raw = String(script.textContent || '').trim();
+        if (!raw) continue;
+        let parsed;
+        try { parsed = JSON.parse(raw); } catch { continue; }
+
+        const visit = value => {
+          if (!value || typeof value !== 'object') return;
+          if (Array.isArray(value)) {
+            for (const child of value) visit(child);
+            return;
+          }
+          const type = String(value['@type'] || '');
+          const context = [
+            value.name,
+            value.model,
+            typeof value.brand === 'string' ? value.brand : value.brand?.name,
+            value.description
+          ].filter(Boolean).join(' ');
+          const rawImages = [];
+          const collectImage = image => {
+            if (!image) return;
+            if (typeof image === 'string') rawImages.push(image);
+            else if (Array.isArray(image)) image.forEach(collectImage);
+            else if (typeof image === 'object') {
+              collectImage(image.url);
+              collectImage(image.contentUrl);
+              collectImage(image.thumbnailUrl);
+            }
+          };
+          collectImage(value.image);
+          collectImage(value.images);
+
+          if (/product/i.test(type) || /pedal|guitar/i.test(context) || rawImages.length === 1) {
+            for (const image of rawImages) add(image);
+          }
+
+          for (const child of Object.values(value)) {
+            if (child && typeof child === 'object') visit(child);
+          }
+        };
+        visit(parsed);
+      }
+
+      return [...out];
+    });
+  } catch {
+    return [];
+  }
+}
+
 async function recoverEntry(browser, entry, deepReview = false) {
   const diagnostic = {
     sourceHost: null,
@@ -811,8 +905,9 @@ async function recoverEntry(browser, entry, deepReview = false) {
           }
           return urls.filter(Boolean);
         });
+        const richImageData = await richSourceImageUrls(page, pageUrl);
 
-        for (const raw of imageData) {
+        for (const raw of [...imageData, ...richImageData]) {
           for (const part of raw.split(/\s+/)) {
             if (/^https?:/i.test(part)) {
               candidates.push({ url: part, sourcePage: pageUrl, sourceScore: 90 });
