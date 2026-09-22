@@ -221,3 +221,6 @@ Source coverage audit: the first 500 unresolved photo-backlog records contain 19
 
 
 Health-lane maintenance: The hourly health workflow now also runs on pushes to its own workflow/script, allowing immediate post-fix canaries instead of waiting for the next hourly schedule. The prior failed canary was confirmed to be a stale run from before the deployment-coverage logic was present.
+
+
+Cache run 939 result: 2 additional verified local photos were archived, Analog King Fuzz Machine - Germanium Fuzz + Overdrive and Beta Aivin BOD-2 Bass Overdrive, moving the researched-photo-pending gate from 318 to 316. The unified rich-image extractor is now proven in production recovery. New Blackhawk Triangle, Alen Geere Loverdrive, and Aleatorik Operation 1 exact-source leads are staged for the next cycle.
