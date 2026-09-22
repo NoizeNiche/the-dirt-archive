@@ -1088,6 +1088,9 @@ async function recoverEntry(browser, entry, deepReview = false) {
             }
           }
         }
+      } catch {}
+      return null;
+    }
     // First trust only candidates discovered on the already-verified source page.
     let selectedResult = await tryImages(
       ranked.filter(candidate => !candidate.searchResult)
