@@ -10497,16 +10497,6 @@
     },
     {
       "company": "BlackOutEffectors",
-      "pedal": "None promoted as a standalone manufacturer-supported identity in this block",
-      "types": [
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 114/none-promoted-as-a-standalone-manufacturer-supported-identity-in-this-block.md"
-    },
-    {
-      "company": "BlackOutEffectors",
       "pedal": "Special Twosome Deluxe",
       "types": [
         "Fuzz"
@@ -10681,16 +10671,6 @@
       "research_record": "./research/pedals/PRP Batch 104/LT-METAL.md",
       "image_source_url": "https://medias.audiofanzine.com/images/normal/blackstar-amplification-lt-metal-3100306.jpg",
       "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/blackstar-amplification/lt-metal/"
-    },
-    {
-      "company": "Blackstar Amplification",
-      "pedal": "none identified",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 114/none-identified.md"
     },
     {
       "company": "Blackstone Appliances",
@@ -11073,18 +11053,6 @@
         "https://www.zzounds.com/item--BOGOXFORD"
       ],
       "image_source_pages_verified": true
-    },
-    {
-      "company": "Bogner Amplification",
-      "pedal": "production status not established from reviewed current manufacturer material",
-      "types": [
-        "Distortion",
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 115/bogner-amplification-production-status-not-established-from-reviewed-current-manufacturer-material.md"
     },
     {
       "company": "Bogner Amplification",
