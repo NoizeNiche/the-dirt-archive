@@ -44,8 +44,9 @@ function renderPageNav(items,currentItem=null){
     search.onkeydown=e=>{
       if(e.key!=='Enter')return;
       const q=e.target.value.trim();
-      const url=new URL('./index.html',location.href);
+      const url=contextIndexUrl();
       if(q)url.searchParams.set('q',q);
+      url.searchParams.delete('builder');
       location.href=url.href;
     };
   }

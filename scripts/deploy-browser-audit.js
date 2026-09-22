@@ -371,22 +371,20 @@ const path = require('node:path');
 
             // Every researched parent pedal still needs a readable detail page.
             await page.setViewportSize({width:1440,height:1000});
-            const workerCount = Math.min(4, Math.max(1, researchedParents.length));
-            console.log('Auditing', researchedParents.length, 'researched parent pedal pages with', workerCount, 'workers.');
+            const workerCount = Math.min(6, Math.max(1, researchedParents.length));
+            console.log('Auditing', researchedParents.length, 'researched parent pedal pages with', workerCount, 'reused browser workers.');
             let nextIndex = 0;
             const auditFailures = [];
 
-            async function auditResearchEntry(entry, workerId) {
-              const workerPage = await context.newPage();
+            async function auditResearchEntry(entry, workerId, workerPage) {
               const researchResponses = [];
-              workerPage.on('console', msg => { if (msg.type()==='error') consoleErrors.push('[worker '+workerId+'] '+msg.text()); });
-              workerPage.on('pageerror', err => pageErrors.push('[worker '+workerId+'] '+String(err)));
-              workerPage.on('response', response => {
+              const captureResearchResponse = response => {
                 if (/\/research\/pedals\//i.test(response.url())) {
                   researchResponses.push({url:response.url(),status:response.status()});
                   if (researchResponses.length > 5) researchResponses.shift();
                 }
-              });
+              };
+              workerPage.on('response', captureResearchResponse);
               try {
                 const url =
                   'http://127.0.0.1:4173/pedal-detail.html?builder=' +
@@ -460,15 +458,23 @@ const path = require('node:path');
                   '; directResearchCheck=' + JSON.stringify(diagnostic.directResearchCheck)
                 );
               } finally {
-                await workerPage.close();
+                workerPage.off('response', captureResearchResponse);
               }
             }
 
             async function worker(workerId) {
-              while (true) {
-                const index = nextIndex++;
-                if (index >= researchedParents.length) return;
-                await auditResearchEntry(researchedParents[index], workerId);
+              const workerPage = await context.newPage();
+              workerPage.setDefaultTimeout(10000);
+              workerPage.on('console', msg => { if (msg.type()==='error') consoleErrors.push('[worker '+workerId+'] '+msg.text()); });
+              workerPage.on('pageerror', err => pageErrors.push('[worker '+workerId+'] '+String(err)));
+              try {
+                while (true) {
+                  const index = nextIndex++;
+                  if (index >= researchedParents.length) return;
+                  await auditResearchEntry(researchedParents[index], workerId, workerPage);
+                }
+              } finally {
+                await workerPage.close();
               }
             }
 
