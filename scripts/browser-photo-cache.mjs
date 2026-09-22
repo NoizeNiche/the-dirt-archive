@@ -943,6 +943,38 @@ async function recoverEntry(browser, entry, deepReview = false) {
             });
           }
 
+          // Effects Database and older archive pages sometimes expose the
+          // actual product photograph as an image link without rendering a
+          // corresponding <img> node. Treat image-file anchors as candidates,
+          // using the surrounding link/card text for exact-model scoring.
+          for (const link of document.querySelectorAll('a[href]')) {
+            const href = link.href || '';
+            if (!/^https?:/i.test(href) || !/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(href)) continue;
+            const text = String(link.textContent || '').replace(/\s+/g, ' ').trim();
+            const title = String(link.title || link.getAttribute('aria-label') || '').trim();
+            const rawHint = [href, text, title].join(' ');
+            if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social)/i.test(rawHint)) continue;
+            const hint = normalize(rawHint);
+            const tokenHits = pedalTokens.filter(token => hint.includes(token)).length;
+            const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+            const exactPhrase = pedalPhrase.length >= 5 && hint.includes(pedalPhrase);
+            const compactExact = phraseCompact.length >= 5 && hint.replace(/\s+/g, '').includes(phraseCompact);
+            let score = 85 + tokenHits * 120 + builderHits * 25;
+            if (exactPhrase) score += 700;
+            if (compactExact) score += 550;
+            rows.push({
+              src: href,
+              score,
+              width: 0,
+              height: 0,
+              exactPhrase,
+              tokenHits,
+              altHits: 0,
+              builderHits,
+              linkedImage: true
+            });
+          }
+
           return rows
             .sort((a, b) =>
               b.score - a.score ||
@@ -950,7 +982,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
               b.tokenHits - a.tokenHits ||
               b.width * b.height - a.width * a.height
             )
-            .slice(0, 10);
+            .slice(0, 12);
         }, { pedalPhrase, pedalTokens, builderTokens });
 
         const matches = page.locator('img');
