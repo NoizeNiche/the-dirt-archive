@@ -10538,7 +10538,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-green-manalishi-overdrive.md"
+      "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-green-manalishi-overdrive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/brantone/greenmanalishi",
+      "image_source_page_verified": true
     },
     {
       "company": "Brantone Electronics",
@@ -10596,7 +10598,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-woodstock-silicon-fuzz-face.md"
+      "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-woodstock-silicon-fuzz-face.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/brantone/woodstock",
+      "image_source_page_verified": true
     },
     {
       "company": "Breakfast Audio",
@@ -11574,7 +11578,8 @@
       "source_page": "https://www.effectsdatabase.com/model/buffalofx/cviii",
       "research_record": "./research/pedals/PRP Batch 127/buffalo-fx-cviii-bc108-silicon-fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/cviii",
-      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/cviii"
+      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/cviii",
+      "image_source_page_verified": true
     },
     {
       "company": "Buffalo FX",
@@ -11613,7 +11618,8 @@
       "source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si",
       "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-fuzz-face-si.md",
       "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si",
-      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si"
+      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si",
+      "image_source_page_verified": true
     },
     {
       "company": "Buffalo FX",
@@ -11699,8 +11705,9 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/park/fuzzsound",
       "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-tonebender-mk3.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/park/fuzzsound",
-      "image_source_url": "https://www.effectsdatabase.com/model/park/fuzzsound"
+      "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/tonebender/mk3",
+      "image_source_url": "https://www.effectsdatabase.com/model/park/fuzzsound",
+      "image_source_page_verified": true
     },
     {
       "company": "BuGGFX Pedals",
@@ -15044,7 +15051,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 161/catastrofx-deface-mkiii.md"
+      "research_record": "./research/pedals/PRP Batch 161/catastrofx-deface-mkiii.md",
+      "image_source_page": "https://reverb.com/uk/item/85775056-catastrofx-deface-handwired",
+      "image_source_page_verified": true
     },
     {
       "company": "CatastroFX",

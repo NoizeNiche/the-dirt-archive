@@ -1,22 +1,16 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **3**
-- Staged browser photos converted: **3**
+- Cached in this run: **0**
+- Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2891**
+- Remaining tracker photo backlog: **2888**
 
 ## Storage layout
 
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Black CAT Amps - DJENTTONIC -> `./assets/pedals/black-cat-amps/djenttonic/primary.webp`
-- BlackOutEffectors - Fuzz Bear -> `./assets/pedals/blackouteffectors/fuzz-bear/primary.webp`
-- Blackhawk Amplifiers - Svarog Fuzz -> `./assets/pedals/blackhawk-amplifiers/svarog-fuzz/primary.webp`
 
 ## Still external / failed
 

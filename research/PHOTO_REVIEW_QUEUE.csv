@@ -1,29 +1,4 @@
 Builder,Pedal,Catalog Type,Status,Attempts,Last Failure
-BlackOutEffectors,Musket Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-BlackOutEffectors,None promoted as a standalone manufacturer-supported identity in this block,,DEEP_REVIEW,2,no usable exact-model image candidate found
-BlackOutEffectors,Twosome Dual Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Blackstar Amplification,HT-DRIVE,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Blackstar Amplification,LT-DRIVE,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Blackstar Amplification,none identified,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Blakemore Effects,Bi-Polar Octadrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Blakemore Effects,Deus Ex Machina,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bob Burt Cabinets & Pedals,Bob Burt AH-1 Allen Hinds Signature Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bob Burt Cabinets & Pedals,Bob Burt GR8T Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bob Burt Cabinets & Pedals,Bob Burt Overdrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bogner Amplification,Oxford,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bogner Amplification,production status not established from reviewed current manufacturer material,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bogner Amplification,Uberschall,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bondi Effects,Del Mar Overdrive mk1,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bookworm Effects,BigWig Bass Driver,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bootlegger Guitar,Shifty's 8 Ball Boost Drive Analog 12AT7,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bootlegger Guitar,Tube Shooter Overdrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Boulevard,BDT-10 Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Boulevard,BOD-10 Overdrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Boulevard Effects,Darkship,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bouteek,Distorter - Preamp,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bouteek,Overdriver - Preamp,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bouteek,Twin Drive and Boost - Ultimate Drive with Fuzz Inject,,DEEP_REVIEW,2,no usable exact-model image candidate found
-BoX,Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
 BR Tech,BR-1 Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
 BR Tech,Up Scream,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Braking Train Pedals,Frequency Control Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
@@ -275,6 +250,31 @@ BlackOutEffectors,Dual Gain Mantra,,DEEP_REVIEW,3,no usable exact-model image ca
 BlackOutEffectors,Fix'd Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
 BlackOutEffectors,Fix'd Fuzz Deluxe,,DEEP_REVIEW,3,no usable exact-model image candidate found
 BlackOutEffectors,FUBÄR,,DEEP_REVIEW,3,no usable exact-model image candidate found
+BlackOutEffectors,Musket Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+BlackOutEffectors,None promoted as a standalone manufacturer-supported identity in this block,,DEEP_REVIEW,3,no usable exact-model image candidate found
+BlackOutEffectors,Twosome Dual Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Blackstar Amplification,HT-DRIVE,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Blackstar Amplification,LT-DRIVE,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Blackstar Amplification,none identified,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Blakemore Effects,Bi-Polar Octadrive,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Blakemore Effects,Deus Ex Machina,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bob Burt Cabinets & Pedals,Bob Burt AH-1 Allen Hinds Signature Distortion,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bob Burt Cabinets & Pedals,Bob Burt GR8T Distortion,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bob Burt Cabinets & Pedals,Bob Burt Overdrive,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bogner Amplification,Oxford,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bogner Amplification,production status not established from reviewed current manufacturer material,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bogner Amplification,Uberschall,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bondi Effects,Del Mar Overdrive mk1,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bookworm Effects,BigWig Bass Driver,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bootlegger Guitar,Shifty's 8 Ball Boost Drive Analog 12AT7,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bootlegger Guitar,Tube Shooter Overdrive,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Boulevard,BDT-10 Distortion,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Boulevard,BOD-10 Overdrive,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Boulevard Effects,Darkship,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bouteek,Distorter - Preamp,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bouteek,Overdriver - Preamp,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bouteek,Twin Drive and Boost - Ultimate Drive with Fuzz Inject,,DEEP_REVIEW,3,no usable exact-model image candidate found
+BoX,Distortion,,DEEP_REVIEW,3,no usable exact-model image candidate found
 BBE,Green Screamer,,DEEP_REVIEW,4,no usable exact-model image candidate found
 BearFoot FX,Emerald Green Overdrive,,DEEP_REVIEW,4,no usable exact-model image candidate found
 Behringer,OD300,,DEEP_REVIEW,4,no usable exact-model image candidate found
@@ -300,9 +300,6 @@ Big Knob Pedals,I.C.B.M,,DEEP_REVIEW,4,no usable exact-model image candidate fou
 Big Knob Pedals,Rat Pak,,DEEP_REVIEW,4,no usable exact-model image candidate found
 Big Knob Pedals,Tone Boner,,DEEP_REVIEW,4,no usable exact-model image candidate found
 Big Knob Pedals,Zed Drive,,DEEP_REVIEW,4,no usable exact-model image candidate found
-Azur,LEON DRIVE Effect Pedal,,DEEP_REVIEW,5,no usable exact-model image candidate found
-Azur,OVERDRIVE Effect Pedal,,DEEP_REVIEW,5,no usable exact-model image candidate found
-B.C. Rich,DMD-1 Digital Metal Distortion,,DEEP_REVIEW,5,no usable exact-model image candidate found
 B85 Audio,Hrom - Bass Overdrive,,DEEP_REVIEW,5,no usable exact-model image candidate found
 Backbeat Electric,X-Bender,,DEEP_REVIEW,5,no usable exact-model image candidate found
 Bad Cat,2-Tone,,DEEP_REVIEW,5,no usable exact-model image candidate found
@@ -320,8 +317,10 @@ Barber Electronics,LTD SR,,DEEP_REVIEW,5,no usable exact-model image candidate f
 Barber Electronics,Midnight Standard,,DEEP_REVIEW,5,no usable exact-model image candidate found
 Barber Electronics,Pepsiman,,DEEP_REVIEW,5,no usable exact-model image candidate found
 BBE,G Screamer,,DEEP_REVIEW,5,no usable exact-model image candidate found
-Azur,FUZZ Effect Pedal,,DEEP_REVIEW,8,no usable exact-model image candidate found
-Azor,Distortion Effect Pedal,,DEEP_REVIEW,11,no usable exact-model image candidate found
+Azur,LEON DRIVE Effect Pedal,,DEEP_REVIEW,6,no usable exact-model image candidate found
+Azur,OVERDRIVE Effect Pedal,,DEEP_REVIEW,6,no usable exact-model image candidate found
+B.C. Rich,DMD-1 Digital Metal Distortion,,DEEP_REVIEW,6,no usable exact-model image candidate found
+Azur,FUZZ Effect Pedal,,DEEP_REVIEW,9,no usable exact-model image candidate found
 Add+ Pedals,Super Drive 2,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Aether Electronic,Lenore,Fuzz / Overdrive,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Alber,GA-1040P Gain,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
@@ -342,3 +341,4 @@ Axis Guitar Effects,Axis Face MkII,,PARKED,12,PARKED after 12 deep-review attemp
 AXL,DEQ-2 Distortion EQ,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 AXL,TOD-9 Tube Overdrive,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Azor,AP-302 Distortion Guitar Effect Pedal,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
+Azor,Distortion Effect Pedal,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
