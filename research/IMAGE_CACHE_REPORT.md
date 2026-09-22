@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **0**
+- Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
 - Remaining tracker photo backlog: **2807**
@@ -12,10 +12,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Caline - CP-78 Red Thorn Distortion -> `./assets/pedals/caline/cp-78-red-thorn-distortion/primary.webp`
 
 ## Still external / failed
 
