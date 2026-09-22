@@ -1082,7 +1082,10 @@ async function recoverEntry(browser, entry, deepReview = false) {
             const tokenHits = pedalTokens.filter(token => hint.includes(token)).length;
             const builderHits = builderTokens.filter(token => hint.includes(token)).length;
             const exactPhrase = pedalPhrase.length >= 5 && hint.includes(pedalPhrase);
-            for (const src of urls) {
+            for (const rawSrc of urls) {
+              let src = rawSrc;
+              try { src = new URL(rawSrc, location.href).href; } catch {}
+              if (!/^https?:/i.test(src)) continue;
               let score = Math.min(width * height, 1600000) / 1000 + 70 + tokenHits * 120 + builderHits * 25;
               if (exactPhrase) score += 700;
               rows.push({ src, score, width, height, exactPhrase, tokenHits, altHits: 0, builderHits, backgroundImage: true, bgIndex });
