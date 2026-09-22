@@ -7706,12 +7706,12 @@
   {
     "builder": "Boulevard",
     "pedal": "BOD-10 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/boulevard/bod-10-overdrive/primary.webp",
     "source": null,
     "source_page": "https://www.effectsdatabase.com/model/boulevard/bod10",
     "research_record": "./research/pedals/PRP Batch 114/bod-10-overdrive.md",
     "image_source_page": "https://www.effectsdatabase.com/model/boulevard/bod10",
-    "image_source_url": "https://www.effectsdatabase.com/model/boulevard/bod10"
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/boulevard_bod-10_001.jpg"
   },
   {
     "builder": "Boulevard Effects",
@@ -8683,10 +8683,10 @@
   {
     "builder": "Buffalo FX",
     "pedal": "Evolution - 4 Stage Overdrive/Distortion",
-    "image": null,
+    "image": "./assets/pedals/buffalo-fx/evolution-4-stage-overdrive-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/evolution",
     "research_record": "./research/pedals/PRP Batch 127/buffalo-fx-evolution-4-stage-overdrive-distortion.md",
-    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/evolution",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/buffalofx_evolution_005.jpg",
     "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/evolution"
   },
   {

@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **2**
+- Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2843**
-- Researched, photo pending: **298**
+- Remaining tracker photo backlog: **2841**
+- Researched, photo pending: **296**
 
 ## Storage layout
 
@@ -15,7 +15,8 @@
 
 ## Newly cached
 
-- Bouteek - Distorter - Preamp -> `./assets/pedals/bouteek/distorter-preamp/primary.webp`
+- Boulevard - BOD-10 Overdrive -> `./assets/pedals/boulevard/bod-10-overdrive/primary.webp`
+- Buffalo FX - Evolution - 4 Stage Overdrive/Distortion -> `./assets/pedals/buffalo-fx/evolution-4-stage-overdrive-distortion/primary.webp`
 
 ## Still external / failed
 
