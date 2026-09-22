@@ -244,3 +244,7 @@ Added exact recovery leads for Aether Electronic Lenore, Alien Amplification Ori
 ## Exact source expansion checkpoint - September 22, 2026
 
 Added recovery leads for AMT B-1 BG-Sharp, AMT R-1 Rectifier, AMT SS-11B, and Alen Geere Crown Centaur. The browser extractor now recognizes additional full-resolution and lazy srcset attributes, including data-srcset, data-lazy-srcset, data-full-src, and data-original-src, before the existing exact-model verification.
+
+## Cache run 936 checkpoint - September 22, 2026
+
+Run 936 successfully archived Analog Sound Smooth O' Drive as a verified local WebP. The committed tracker now shows 955 pictured and 319 researched-photo-pending. Recovery run 936 completed successfully; later AMT/Crown Centaur leads and additional lazy-image source fallbacks will be exercised in the next bounded cycle.
