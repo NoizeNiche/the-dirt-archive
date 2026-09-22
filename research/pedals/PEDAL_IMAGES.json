@@ -7726,12 +7726,12 @@
   {
     "builder": "Bouteek",
     "pedal": "Distorter - Preamp",
-    "image": null,
+    "image": "./assets/pedals/bouteek/distorter-preamp/primary.webp",
     "source": null,
     "source_page": "https://www.effectsdatabase.com/model/bouteek/distorter",
     "research_record": "./research/pedals/PRP Batch 114/distorter-preamp.md",
     "image_source_page": "https://www.effectsdatabase.com/model/bouteek/distorter",
-    "image_source_url": "https://www.effectsdatabase.com/model/bouteek/distorter"
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/bouteek_distorter_001.jpg"
   },
   {
     "builder": "Bouteek",

@@ -4,8 +4,8 @@
 - Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2844**
-- Researched, photo pending: **299**
+- Remaining tracker photo backlog: **2843**
+- Researched, photo pending: **298**
 
 ## Storage layout
 
@@ -15,7 +15,7 @@
 
 ## Newly cached
 
-- BlackOutEffectors - Twosome Dual Fuzz -> `./assets/pedals/blackouteffectors/twosome-dual-fuzz/primary.webp`
+- Bouteek - Distorter - Preamp -> `./assets/pedals/bouteek/distorter-preamp/primary.webp`
 
 ## Still external / failed
 
