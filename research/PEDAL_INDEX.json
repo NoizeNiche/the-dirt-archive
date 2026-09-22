@@ -4738,7 +4738,14 @@
       ],
       "image": null,
       "source_page": "https://auxiliaryworkshop.com/",
-      "research_record": "./research/pedals/Auxiliary Workshop/The Devils Handshake.md"
+      "research_record": "./research/pedals/Auxiliary Workshop/The Devils Handshake.md",
+      "image_source_pages": [
+        "https://www.guitarpedalx.com/news/news/a-quick-look-at-the-auxiliary-workshop-the-devils-handshake"
+      ],
+      "image_source_page": "https://www.guitarpedalx.com/news/news/a-quick-look-at-the-auxiliary-workshop-the-devils-handshake",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 395
     },
     {
       "company": "AVIA",
@@ -10046,7 +10053,14 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 100/Gandalf Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 100/Gandalf Fuzz.md",
+      "image_source_pages": [
+        "https://reverb.com/item/26935698-blackhawk-gandalf-one-knob-octave-fuzz-v2"
+      ],
+      "image_source_page": "https://reverb.com/item/26935698-blackhawk-gandalf-one-knob-octave-fuzz-v2",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 396
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -10164,7 +10178,14 @@
       ],
       "image": null,
       "source_page": "https://reverb.com/item/75995463-blackhawk-amplifiers-ram-s-head-big-muff-fuzz-pedal",
-      "research_record": "./research/pedals/PRP Batch 101/Ramshead Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 101/Ramshead Fuzz.md",
+      "image_source_pages": [
+        "https://reverb.com/item/75995463-blackhawk-amplifiers-ram-s-head-big-muff-fuzz-pedal"
+      ],
+      "image_source_page": "https://reverb.com/item/75995463-blackhawk-amplifiers-ram-s-head-big-muff-fuzz-pedal",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 398
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -10188,7 +10209,13 @@
       "image": null,
       "source_page": "https://reverb.com/item/56428935-blackhawk-triangle-pi-fuzz",
       "research_record": "./research/pedals/PRP Batch 101/Triangle Fuzz.md",
-      "image_source_page": "https://reverb.com/item/56428935-blackhawk-triangle-pi-fuzz"
+      "image_source_page": "https://reverb.com/item/56428935-blackhawk-triangle-pi-fuzz",
+      "image_source_pages": [
+        "https://reverb.com/item/56428935-blackhawk-triangle-pi-fuzz"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 397
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -14056,7 +14083,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/cqo/superdistortion",
-      "research_record": "./research/pedals/PRP Batch 135/cqo-super-distortion.md"
+      "research_record": "./research/pedals/PRP Batch 135/cqo-super-distortion.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/cqo/superdistortion"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/cqo/superdistortion",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 399
     },
     {
       "company": "C14 Devices",
@@ -17132,7 +17166,14 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/CBC Pedals/Foxx Tone Machine.md"
+      "research_record": "./research/pedals/CBC Pedals/Foxx Tone Machine.md",
+      "image_source_pages": [
+        "https://reverb.com/uk/item/46487537-cbc-pedals-the-tone-machine-foxx-tone-machine-clone"
+      ],
+      "image_source_page": "https://reverb.com/uk/item/46487537-cbc-pedals-the-tone-machine-foxx-tone-machine-clone",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 400
     },
     {
       "company": "CBC Pedals",
