@@ -6887,14 +6887,6 @@
   },
   {
     "builder": "BlackOutEffectors",
-    "pedal": "None promoted as a standalone manufacturer-supported identity in this block",
-    "image": null,
-    "source": null,
-    "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 114/none-promoted-as-a-standalone-manufacturer-supported-identity-in-this-block.md"
-  },
-  {
-    "builder": "BlackOutEffectors",
     "pedal": "Special Twosome Deluxe",
     "image": "./assets/pedals/blackouteffectors/special-twosome-deluxe/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special/deluxe",
@@ -7003,14 +6995,6 @@
     "research_record": "./research/pedals/PRP Batch 104/LT-METAL.md",
     "image_source_url": "https://medias.audiofanzine.com/images/normal/blackstar-amplification-lt-metal-3100306.jpg",
     "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/blackstar-amplification/lt-metal/"
-  },
-  {
-    "builder": "Blackstar Amplification",
-    "pedal": "none identified",
-    "image": null,
-    "source": null,
-    "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 114/none-identified.md"
   },
   {
     "builder": "Blackstone Appliances",
@@ -7262,14 +7246,6 @@
     "image": null,
     "source_page": "https://www.sweetwater.com/store/detail/Oxford--bogner-oxford-fuzz-pedal",
     "research_record": "./research/pedals/PRP Batch 107/Oxford.md"
-  },
-  {
-    "builder": "Bogner Amplification",
-    "pedal": "production status not established from reviewed current manufacturer material",
-    "image": null,
-    "source": null,
-    "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 115/bogner-amplification-production-status-not-established-from-reviewed-current-manufacturer-material.md"
   },
   {
     "builder": "Bogner Amplification",
