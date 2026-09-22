@@ -314,3 +314,5 @@ AC Efectos,Triplex Distortion,https://www.effectsdatabase.com/model/ac/triplex,E
 Balaguer Guitars,BG-Drive - Preamp/Overdrive,https://www.effectsdatabase.com/model/balaguer/bgdrive,Exact Effects Database product record with model-specific pedal imagery
 Barber Electronics,Pepsiman,https://www.effectsdatabase.com/model/barber,Exact Effects Database builder catalog page for the exact Pepsiman model
 Axewerx,Gain Chain,https://axewerx.com/shop/products/pedals/the-gain-chain.html,Exact Axewerx Gain Chain product page; use the rendered exact-model photo if its image proxy is accessible
+"Airis Effects","Solar Flare Overdrive","https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black","Verified exact sold Reverb listing; model and 2015 black finish are explicitly identified; browser capture fallback"
+"Bad Penny FX","The Fuzz Controller V2","https://reverb.com/item/36572523-bad-penny-fx-the-fuzz-controller-v2","Verified exact Reverb listing with actual Fuzz Controller V2 pedal photos and model field; browser capture fallback"
