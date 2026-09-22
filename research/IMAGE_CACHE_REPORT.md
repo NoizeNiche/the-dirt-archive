@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **4**
+- Staged browser photos converted: **4**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2815**
-- Researched, photo pending: **270**
+- Remaining tracker photo backlog: **2811**
+- Researched, photo pending: **266**
 
 ## Storage layout
 
@@ -15,7 +15,10 @@
 
 ## Newly cached
 
-- Build Your Own Clone - 250+ -> `./assets/pedals/build-your-own-clone/250/primary.webp`
+- Baddy One Shoe Pedals - Punch & Grind -> `./assets/pedals/baddy-one-shoe-pedals/punch-grind/primary.webp`
+- Big Ear - Black Betty -> `./assets/pedals/big-ear/black-betty/primary.webp`
+- Big Ear NYC - Slice Of Pie -> `./assets/pedals/big-ear-nyc/slice-of-pie/primary.webp`
+- Big Game Pedals - Everything is Alive - Modulated Resonant Fuzz -> `./assets/pedals/big-game-pedals/everything-is-alive-modulated-resonant-fuzz/primary.webp`
 
 ## Still external / failed
 

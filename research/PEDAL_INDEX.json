@@ -5601,7 +5601,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/baddy-one-shoe-pedals/punch-grind/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/baddyoneshoe/punchgrind",
       "research_record": "./research/pedals/Baddy One Shoe Pedals/Punch & Grind.md",
       "image_source_page": "https://www.effectsdatabase.com/model/baddyoneshoe/punchgrind",
@@ -5610,7 +5610,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/baddyoneshoe/punchgrind"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/baddyoneshoe_punchgrind_001.jpg"
     },
     {
       "company": "Baddy One Shoe Pedals",
@@ -7389,7 +7390,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-ear/black-betty/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/Black Betty.md",
       "image_source_page": "https://www.bigearpedals.com/product-page/black-betty-fuzz-blem",
@@ -7398,7 +7399,8 @@
       "image_source_pages": [
         "https://www.bigearpedals.com/product-page/black-betty-fuzz-blem"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://static.wixstatic.com/media/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png/v1/crop/x_0,y_9,w_1721,h_769/fill/w_132,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png"
     },
     {
       "company": "Big Ear",
@@ -7487,7 +7489,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-ear-nyc/slice-of-pie/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Slice Of Pie.md",
       "image_source_page": "https://www.bigearpedals.com/product-page/slice-of-pie-b-stock",
@@ -7496,7 +7498,8 @@
       "image_source_pages": [
         "https://www.bigearpedals.com/product-page/slice-of-pie-b-stock"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://static.wixstatic.com/media/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png/v1/crop/x_0,y_9,w_1721,h_769/fill/w_132,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png"
     },
     {
       "company": "Big Ear NYC",
@@ -7555,7 +7558,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-game-pedals/everything-is-alive-modulated-resonant-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Everything is Alive - Modulated Resonant Fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/biggame/everythingisalive",
@@ -7564,7 +7567,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/biggame/everythingisalive"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/biggame_everythingisalive_001.jpg"
     },
     {
       "company": "Big Game Pedals",
