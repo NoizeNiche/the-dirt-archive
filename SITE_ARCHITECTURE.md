@@ -52,6 +52,8 @@ Filter, builder, pagination, and search changes are represented in the browser U
 
 The archive index also has a **Discover** control. It selects a random public catalog entry from the current filtered result set, so browsing remains useful even when a visitor does not have a specific pedal in mind. Discover does not create data or alter the active filters.
 
+When a visitor opens a pedal from the index, the detail page restores the exact same-origin archive URL as its return link when the browser supplies a referrer. This preserves the visitor's active search, dirt-type filter, builder filter, and page number without adding a second browser-state system. Directly opened detail pages fall back to the archive home.
+
 Main-page cards represent public model/version entries only. Variation records stay hidden from the main card grid.
 
 Search should eventually be able to match useful variation names back to their parent model without displaying the variation as a second card.
