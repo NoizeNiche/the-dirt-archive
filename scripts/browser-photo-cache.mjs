@@ -1108,6 +1108,31 @@ async function recoverEntry(browser, entry, deepReview = false) {
       try {
         const parsedSource = new URL(sourcePage);
         const isReverbListing = isReverbListingUrl(sourcePage);
+
+        // Reverb can expose the exact listing photo in the raw HTML even when
+        // Chromium's hydrated DOM omits the anchor. Try the raw response first,
+        // but only for the exact verified listing page already selected above.
+        if (isReverbListing) {
+          try {
+            const response = await page.request.get(sourcePage, { timeout: PAGE_TIMEOUT });
+            if (response.ok()) {
+              const rawHtml = (await response.text()).replace(/\\\//g, '/');
+              const rawUrls = [
+                ...rawHtml.matchAll(/https?:\\/\\/(?:rvb-img\\.reverb\\.com)\\/[^"'\\s<>\\\\]+/gi)
+              ]
+                .map(match => match[0].replace(/&amp;/g, '&'))
+                .filter((url, index, urls) => urls.indexOf(url) === index)
+                .slice(0, 8);
+              for (const imageUrl of rawUrls) {
+                const direct = await extractDirectImage(page, imageUrl);
+                if (direct?.bytes) {
+                  return { bytes: direct.bytes, src: imageUrl };
+                }
+              }
+            }
+          } catch {}
+        }
+
         await page.goto(sourcePage, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
         await page.waitForTimeout(isReverbListing ? 2800 : 500);
 
