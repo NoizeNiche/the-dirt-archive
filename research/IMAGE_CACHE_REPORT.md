@@ -4,8 +4,8 @@
 - Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2845**
-- Researched, photo pending: **300**
+- Remaining tracker photo backlog: **2844**
+- Researched, photo pending: **299**
 
 ## Storage layout
 
@@ -15,7 +15,7 @@
 
 ## Newly cached
 
-- Bouteek - Twin Drive and Boost - Ultimate Drive with Fuzz Inject -> `./assets/pedals/bouteek/twin-drive-and-boost-ultimate-drive-with-fuzz-inject/primary.webp`
+- BlackOutEffectors - Twosome Dual Fuzz -> `./assets/pedals/blackouteffectors/twosome-dual-fuzz/primary.webp`
 
 ## Still external / failed
 

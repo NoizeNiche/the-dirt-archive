@@ -10525,7 +10525,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackouteffectors/twosome-dual-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/blackout/twosome",
       "research_record": "./research/pedals/PRP Batch 103/Twosome Dual Fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/blackout/twosome",
@@ -10534,7 +10534,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/blackout/twosome"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/blackout_twosome_001.jpg"
     },
     {
       "company": "Blackstar Amplification",
