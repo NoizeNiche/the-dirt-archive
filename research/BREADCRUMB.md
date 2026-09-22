@@ -217,3 +217,6 @@ Seeded six exact recovery leads from model-specific documentation: AJcustom Dist
 
 Seeded ten additional exact model-page recovery leads: Alen Geere Methoxy Overdrive; Analog Sound Scream For Cream OD, Smooth O' Drive, and The Boogie Man; Audio Monk Fuzzbeard and Fuzzpotion - Bass Fuzz; Audio-Phonic R4 Fuzz and Twin-Fuzz; and Aural Dream Bold Distortion and Intense Distortion. The leads are queued for the existing recovery machinery and are not counted as pictured until actual local assets are archived.
 
+## Exact photo-lead checkpoint - September 22, 2026 (final pass)
+
+Seeded five additional exact recovery leads with photographic trails: Aul Instruments Fuzz, Anarchy Audio Australia Baa Bzz, Anarchy Audio Australia Deadwoods - Chainsaw Fuzz, Audile Bass TOAD, and Automat Audio Devices Triplegänger. Source leads remain separate from pictured status until the local-cache pipeline archives confirmed assets.
