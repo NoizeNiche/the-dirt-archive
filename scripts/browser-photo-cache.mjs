@@ -1906,6 +1906,45 @@ async function recoverEntry(browser, entry, deepReview = false) {
           }
         }
       } catch {}
+
+      // Bing can identify the exact result while its thumbnail <img> fails to
+      // hydrate. Render the already-verified image URL directly in the search
+      // page as a last browser-side capture fallback.
+      try {
+        await page.evaluate(async src => {
+          document.querySelector('[data-dirt-archive-search-capture="1"]')?.remove();
+          const img = document.createElement('img');
+          img.setAttribute('data-dirt-archive-search-capture', '1');
+          img.src = src;
+          img.alt = '';
+          img.style.position = 'fixed';
+          img.style.left = '8px';
+          img.style.top = '8px';
+          img.style.zIndex = '2147483647';
+          img.style.maxWidth = 'calc(100vw - 16px)';
+          img.style.maxHeight = 'calc(100vh - 16px)';
+          img.style.width = 'auto';
+          img.style.height = 'auto';
+          img.style.objectFit = 'contain';
+          img.style.background = '#fff';
+          document.body.appendChild(img);
+          await new Promise(resolve => {
+            if (img.complete) return resolve();
+            img.addEventListener('load', resolve, { once: true });
+            img.addEventListener('error', resolve, { once: true });
+            setTimeout(resolve, 2500);
+          });
+          return { width: Number(img.naturalWidth) || 0, height: Number(img.naturalHeight) || 0 };
+        }, candidate.murl);
+        const node = page.locator('[data-dirt-archive-search-capture="1"]').first();
+        const dims = await node.evaluate(img => ({ width: Number(img.naturalWidth) || 0, height: Number(img.naturalHeight) || 0 })).catch(() => ({ width: 0, height: 0 }));
+        if (dims.width >= 220 && dims.height >= 220) {
+          const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+          await page.evaluate(() => document.querySelector('[data-dirt-archive-search-capture="1"]')?.remove()).catch(() => {});
+          if (bytes && bytes.length >= 3000) return bytes;
+        }
+        await page.evaluate(() => document.querySelector('[data-dirt-archive-search-capture="1"]')?.remove()).catch(() => {});
+      } catch {}
       return null;
     }
 
