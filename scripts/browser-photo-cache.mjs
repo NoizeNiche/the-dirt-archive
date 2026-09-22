@@ -1049,6 +1049,46 @@ async function recoverEntry(browser, entry, deepReview = false) {
         const linkMatches = page.locator('a[href]');
         const linkCount = await linkMatches.count();
 
+        // Reverb product galleries frequently expose the primary pedal photo as
+        // a direct rvb-img link around the rendered image. Prefer that exact
+        // link when its surrounding alt/text matches the verified pedal identity.
+        if (isReverbListing) {
+          const reverbImageLinks = page.locator('a[href*="rvb-img.reverb.com"]');
+          const reverbLinkCount = await reverbImageLinks.count();
+          const pedalNorm = normalizedIdentity(entry.pedal);
+          const builderNorm = normalizedIdentity(entry.company);
+
+          for (let i = 0; i < reverbLinkCount; i++) {
+            const link = reverbImageLinks.nth(i);
+            const evidence = await link.evaluate(el => {
+              const img = el.querySelector('img');
+              return {
+                href: el.href || '',
+                alt: img?.alt || '',
+                text: (el.textContent || '').replace(/\s+/g, ' ').trim(),
+                width: img?.naturalWidth || 0,
+                height: img?.naturalHeight || 0
+              };
+            }).catch(() => null);
+            if (!evidence?.href || !evidence.href.startsWith('https://rvb-img.reverb.com/')) continue;
+
+            const hint = normalizedIdentity([evidence.alt, evidence.text, evidence.href].join(' '));
+            const pedalHits = identityTokens(entry.pedal).filter(token => hint.includes(token)).length;
+            const builderHits = identityTokens(entry.company).filter(token => hint.includes(token)).length;
+            const exactPedal = pedalNorm.length >= 5 && hint.includes(pedalNorm);
+            const exactBuilder = builderNorm.length >= 5 && hint.includes(builderNorm);
+            if (!exactPedal && pedalHits < (identityTokens(entry.pedal).length >= 2 ? 2 : 1)) continue;
+            if (exactBuilder || builderHits) {
+              await link.scrollIntoViewIfNeeded().catch(() => {});
+              await page.waitForTimeout(220);
+              const bytes = await link.screenshot({ type: 'png' }).catch(() => null);
+              if (bytes && bytes.length >= 3000) {
+                return { bytes, src: evidence.href };
+              }
+            }
+          }
+        }
+
         // Capture the exact DOM element that was scored above. Gallery hydration
         // can replace currentSrc/src after scrolling, so re-matching on the old
         // URL can silently discard a perfectly good exact-model photo.
