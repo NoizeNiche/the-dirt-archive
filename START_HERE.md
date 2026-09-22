@@ -28,6 +28,8 @@ The public archive is deliberately simple:
 
 `Search -> Dirt Type -> Builder -> Pedal`
 
+The index also includes a **Discover** control that opens a random matching catalog entry while respecting the current search, dirt-type, and builder filters.
+
 A normal model or materially distinct public version gets one catalog entry and one detail page.
 
 Cosmetic variations such as colorways, retailer finishes, event artwork, and similar editions belong to the parent pedal and do not become duplicate main-grid cards.
@@ -108,32 +110,3 @@ After a change:
 2. inspect the resulting repository state
 3. confirm the requested behavior
 4. update `CURRENT_STATE.md` and `research/BREADCRUMB.md` when the project state changes
-5. update the builder index when builder identity/block assignment changes
-6. commit a recoverable checkpoint
-
-Never weaken a validator simply to make a deployment pass.
-
-## 8. Architecture rules
-
-The HTML pages are markup shells.
-
-Shared browser behavior belongs in `archive-core.js`.
-
-Page-specific behavior belongs in the page controller for that page.
-
-Public data is read from the canonical catalog. Internal manifests and trackers are synchronized operational records.
-
-Automation should be narrow, restartable, and safe to rerun. A failed automation run should leave behind enough durable state to resume without guesswork.
-
-If two files begin owning the same rule, consolidate them before adding another feature.
-
-## 9. Historical record
-
-Detailed research and photo-recovery checkpoints are preserved in:
-
-- `CURRENT_STATE.md`
-- `research/BREADCRUMB.md`
-
-Old checkpoint text in those files is historical unless it appears in the current top checkpoint.
-
-This bootstrap file is intentionally short so a new session can understand the project without digging through hundreds of lines of stale status snapshots.
