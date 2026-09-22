@@ -480,7 +480,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/absolutely-analog/ratzo/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/proco/rat",
       "research_record": "./research/pedals/Absolutely Analog/Ratzo.md",
       "image_source_pages": [
@@ -489,7 +489,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/absolutelyanalog/rat",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 337
+      "image_source_priority": 337,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/absolutelyanalog_rat_001.jpg"
     },
     {
       "company": "AC Efectos",
@@ -508,11 +509,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/ac-efectos/triplex-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ac/triplex",
       "research_record": "./research/pedals/AC Efectos/Triplex Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/ac/triplex",
-      "image_source_url": "https://www.effectsdatabase.com/model/ac/triplex",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/ac_triplex_001.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 312,
       "image_source_pages": [
@@ -1082,7 +1083,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/add-pedals/ratortion-2/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/2",
       "research_record": "./research/pedals/Add+ Pedals/Ratortion 2.md",
       "image_source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/2",
@@ -1091,7 +1092,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/addplus/ratortion/2"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/addplus_ratortion2_001.jpg"
     },
     {
       "company": "Add+ Pedals",
@@ -1246,7 +1248,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/addrock-musical-products/not-so-ol-yeller/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Addrock Musical Products/Not So Ol' Yeller.md",
       "image_source_pages": [
@@ -1255,7 +1257,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/addrock/notsoolyeller",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 330
+      "image_source_priority": 330,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/addrock_notsoolyeller_001.jpg"
     },
     {
       "company": "Addrock Musical Products",
@@ -1309,7 +1312,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/advance-tube-technology/boost-cat-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Advance Tube Technology/Boost Cat Drive.md",
       "image_source_pages": [
@@ -1318,7 +1321,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/avt/boostcatdrive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 331
+      "image_source_priority": 331,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/atv_boostcatdrive_001.jpg"
     },
     {
       "company": "Advance Tube Technology",
@@ -1337,7 +1341,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/advance-tube-technology/virus-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Advance Tube Technology/Virus Drive.md",
       "image_source_pages": [
@@ -1346,7 +1350,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/avt/virusdrive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 332
+      "image_source_priority": 332,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/avt_virusdrive_002.jpg"
     },
     {
       "company": "Adventure Audio",
@@ -1454,7 +1459,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/agr-pedals/cuervo-muerto-silicon-fuzz-bender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/AGR Pedals/Cuervo Muerto - Silicon Fuzz Bender.md",
       "image_source_pages": [
@@ -1463,7 +1468,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/agrpedals/cuervomuerto",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 333
+      "image_source_priority": 333,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/agrpedals_cuervomuerto_001.jpg"
     },
     {
       "company": "AGR Pedals",
@@ -1505,7 +1511,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/agr-pedals/od85-full-range-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/agrpedals/od85",
       "research_record": "./research/pedals/AGR Pedals/OD85 - Full Range Overdrive.md",
       "image_source_pages": [
@@ -1514,7 +1520,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/agrpedals/od85",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 336
+      "image_source_priority": 336,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/agrpedals_od85_001.jpg"
     },
     {
       "company": "Aguilar",
@@ -1563,7 +1570,6 @@
       "research_record": "./research/pedals/Airis Effects/Solar Flare Overdrive.md",
       "image_source_page": "https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black",
       "image_source_pages": [
-        "https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black",
         "https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black"
       ],
       "image_source_pages_verified": true,
@@ -1718,7 +1724,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/alber/x00/fu1000",
-      "research_record": "./research/pedals/Alber/FU-1000.md"
+      "research_record": "./research/pedals/Alber/FU-1000.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/alber/x00/fu1000"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/fu1000",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 344
     },
     {
       "company": "Alber",
@@ -1728,7 +1741,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/alber/x00p/fu1000p",
-      "research_record": "./research/pedals/Alber/FU-1000P.md"
+      "research_record": "./research/pedals/Alber/FU-1000P.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/alber/x00p/fu1000p"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/alber/x00p/fu1000p",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 345
     },
     {
       "company": "Alber",
@@ -1736,9 +1756,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alber/ga-104-gain/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/alber/zn/ga104",
-      "research_record": "./research/pedals/Alber/GA-104 Gain.md"
+      "research_record": "./research/pedals/Alber/GA-104 Gain.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/alber/zn/ga104"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/alber/zn/ga104",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 346,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/alber_ga-104_001.jpg"
     },
     {
       "company": "Alber",
@@ -1748,7 +1776,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/alber/x00/ga1040",
-      "research_record": "./research/pedals/Alber/GA-1040 Gain.md"
+      "research_record": "./research/pedals/Alber/GA-1040 Gain.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/alber/x00/ga1040"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/ga1040",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 347
     },
     {
       "company": "Alber",
@@ -3765,7 +3800,6 @@
       "research_record": "./research/pedals/PRP Batch 059/Purr Machine Mini Fuzz Overdriver.md",
       "image_source_page": "https://www.avlguitarpedals.com/",
       "image_source_pages": [
-        "https://www.avlguitarpedals.com/",
         "https://www.avlguitarpedals.com/"
       ],
       "image_source_pages_verified": true,
@@ -3783,7 +3817,6 @@
       "research_record": "./research/pedals/PRP Batch 059/Rat King.md",
       "image_source_page": "https://reverb.com/item/89342629-asheville-guitar-pedals-rat-king-2025-black",
       "image_source_pages": [
-        "https://reverb.com/item/89342629-asheville-guitar-pedals-rat-king-2025-black",
         "https://reverb.com/item/89342629-asheville-guitar-pedals-rat-king-2025-black"
       ],
       "image_source_pages_verified": true,
@@ -5193,7 +5226,6 @@
       "research_record": "./research/pedals/Bad Penny FX/The Fuzz Controller V2.md",
       "image_source_page": "https://reverb.com/item/36572523-bad-penny-fx-the-fuzz-controller-v2",
       "image_source_pages": [
-        "https://reverb.com/item/36572523-bad-penny-fx-the-fuzz-controller-v2",
         "https://reverb.com/item/36572523-bad-penny-fx-the-fuzz-controller-v2"
       ],
       "image_source_pages_verified": true,
@@ -6570,7 +6602,6 @@
       "research_record": "./research/pedals/BearFoot FX/Bone Bender MKI Fuzz.md",
       "image_source_page": "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Bone-Bender-MKI-Fuzz/68975135/",
       "image_source_pages": [
-        "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Bone-Bender-MKI-Fuzz/68975135/",
         "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Bone-Bender-MKI-Fuzz/68975135/"
       ],
       "image_source_pages_verified": true,
@@ -6665,7 +6696,6 @@
       "research_record": "./research/pedals/BearFoot FX/Honey Bee Overdrive Plus.md",
       "image_source_page": "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/",
       "image_source_pages": [
-        "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/",
         "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/"
       ],
       "image_source_pages_verified": true,
@@ -16854,7 +16884,14 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Caveman Audio / Skrydstrup/ODR2.md"
+      "research_record": "./research/pedals/Caveman Audio / Skrydstrup/ODR2.md",
+      "image_source_pages": [
+        "https://www.rockboard.de/en/pedalPedia/Skrydstrup-RD/ODR-2/68984309/"
+      ],
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Skrydstrup-RD/ODR-2/68984309/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 343
     },
     {
       "company": "CBC Pedals",

@@ -332,9 +332,11 @@
   {
     "builder": "Absolutely Analog",
     "pedal": "Ratzo",
-    "image": null,
+    "image": "./assets/pedals/absolutely-analog/ratzo/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/proco/rat",
-    "research_record": "./research/pedals/Absolutely Analog/Ratzo.md"
+    "research_record": "./research/pedals/Absolutely Analog/Ratzo.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/absolutelyanalog_rat_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/absolutelyanalog/rat"
   },
   {
     "builder": "AC Efectos",
@@ -347,11 +349,11 @@
   {
     "builder": "AC Efectos",
     "pedal": "Triplex Distortion",
-    "image": null,
+    "image": "./assets/pedals/ac-efectos/triplex-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/ac/triplex",
     "research_record": "./research/pedals/AC Efectos/Triplex Distortion.md",
     "image_source_page": "https://www.effectsdatabase.com/model/ac/triplex",
-    "image_source_url": "https://www.effectsdatabase.com/model/ac/triplex"
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/ac_triplex_001.jpg"
   },
   {
     "builder": "AC Noises",
@@ -727,9 +729,11 @@
   {
     "builder": "Add+ Pedals",
     "pedal": "Ratortion 2",
-    "image": null,
+    "image": "./assets/pedals/add-pedals/ratortion-2/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/2",
-    "research_record": "./research/pedals/Add+ Pedals/Ratortion 2.md"
+    "research_record": "./research/pedals/Add+ Pedals/Ratortion 2.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/addplus_ratortion2_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/addplus/ratortion/2"
   },
   {
     "builder": "Add+ Pedals",
@@ -840,9 +844,11 @@
   {
     "builder": "Addrock Musical Products",
     "pedal": "Not So Ol' Yeller",
-    "image": null,
+    "image": "./assets/pedals/addrock-musical-products/not-so-ol-yeller/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Addrock Musical Products/Not So Ol' Yeller.md"
+    "research_record": "./research/pedals/Addrock Musical Products/Not So Ol' Yeller.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/addrock_notsoolyeller_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/addrock/notsoolyeller"
   },
   {
     "builder": "Addrock Musical Products",
@@ -870,9 +876,11 @@
   {
     "builder": "Advance Tube Technology",
     "pedal": "Boost Cat Drive",
-    "image": null,
+    "image": "./assets/pedals/advance-tube-technology/boost-cat-drive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Advance Tube Technology/Boost Cat Drive.md"
+    "research_record": "./research/pedals/Advance Tube Technology/Boost Cat Drive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/atv_boostcatdrive_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/avt/boostcatdrive"
   },
   {
     "builder": "Advance Tube Technology",
@@ -886,9 +894,11 @@
   {
     "builder": "Advance Tube Technology",
     "pedal": "Virus Drive",
-    "image": null,
+    "image": "./assets/pedals/advance-tube-technology/virus-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/avt/virusdrive",
-    "research_record": "./research/pedals/Advance Tube Technology/Virus Drive.md"
+    "research_record": "./research/pedals/Advance Tube Technology/Virus Drive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/avt_virusdrive_002.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/avt/virusdrive"
   },
   {
     "builder": "Adventure Audio",
@@ -964,9 +974,11 @@
   {
     "builder": "AGR Pedals",
     "pedal": "Cuervo Muerto - Silicon Fuzz Bender",
-    "image": null,
+    "image": "./assets/pedals/agr-pedals/cuervo-muerto-silicon-fuzz-bender/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/AGR Pedals/Cuervo Muerto - Silicon Fuzz Bender.md"
+    "research_record": "./research/pedals/AGR Pedals/Cuervo Muerto - Silicon Fuzz Bender.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/agrpedals_cuervomuerto_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/agrpedals/cuervomuerto"
   },
   {
     "builder": "AGR Pedals",
@@ -985,9 +997,11 @@
   {
     "builder": "AGR Pedals",
     "pedal": "OD85 - Full Range Overdrive",
-    "image": null,
+    "image": "./assets/pedals/agr-pedals/od85-full-range-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/agrpedals/od85",
-    "research_record": "./research/pedals/AGR Pedals/OD85 - Full Range Overdrive.md"
+    "research_record": "./research/pedals/AGR Pedals/OD85 - Full Range Overdrive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/agrpedals_od85_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/agrpedals/od85"
   },
   {
     "builder": "Aguilar",
@@ -1147,9 +1161,11 @@
   {
     "builder": "Alber",
     "pedal": "GA-104 Gain",
-    "image": null,
+    "image": "./assets/pedals/alber/ga-104-gain/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/alber/zn/ga104",
-    "research_record": "./research/pedals/Alber/GA-104 Gain.md"
+    "research_record": "./research/pedals/Alber/GA-104 Gain.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/alber_ga-104_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/alber/zn/ga104"
   },
   {
     "builder": "Alber",
