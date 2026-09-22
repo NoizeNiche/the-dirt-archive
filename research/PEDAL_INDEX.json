@@ -14132,7 +14132,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cactus/mtl-5-ultra-metal/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/cactus/mtl5",
       "research_record": "./research/pedals/PRP Batch 135/cactus-mtl-5-ultra-metal.md",
       "image_source_page": "https://www.effectsdatabase.com/model/cactus/mtl5",
@@ -14141,7 +14141,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/cactus/mtl5"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/cactus_mtl5_001.jpg"
     },
     {
       "company": "Cactus",
@@ -14512,7 +14513,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-25-highway-man-od/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp25",
       "research_record": "./research/pedals/PRP Batch 140/cp-25-highway-man-od.md",
       "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp25",
@@ -14521,7 +14522,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/caline/cpxx/cp25"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/caline_cp-25_001.jpg"
     },
     {
       "company": "Caline",
@@ -14739,16 +14741,17 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-515-carmilla-hi-gain-distortion-machine/primary.webp",
       "source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
       "research_record": "./research/pedals/PRP Batch 142/cp-515-carmilla-hi-gain-distortion-machine.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/carmilla",
+      "image_source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
       "image_source_page_verified": true,
       "image_source_priority": 117,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/caline/cp500/carmilla"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://i.ytimg.com/vi/AXUVkEvtuKg/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDPJOvxVAWJQLoIFOTr-zywwd2Glg&usqp=CCc"
     },
     {
       "company": "Caline",
@@ -14768,7 +14771,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-53-fuzzy-faace-voodoo-octave/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp53",
       "research_record": "./research/pedals/PRP Batch 142/cp-53-fuzzy-faace-voodoo-octave.md",
       "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp53",
@@ -14777,7 +14780,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/caline/cpxx/cp53"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/caline_voodoooctave_001.jpg"
     },
     {
       "company": "Caline",

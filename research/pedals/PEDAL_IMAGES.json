@@ -9394,10 +9394,11 @@
   {
     "builder": "Cactus",
     "pedal": "MTL-5 Ultra Metal",
-    "image": null,
+    "image": "./assets/pedals/cactus/mtl-5-ultra-metal/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/cactus/mtl5",
     "research_record": "./research/pedals/PRP Batch 135/cactus-mtl-5-ultra-metal.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/cactus/mtl5"
+    "image_source_page": "https://www.effectsdatabase.com/model/cactus/mtl5",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/cactus_mtl5_001.jpg"
   },
   {
     "builder": "Cactus",
@@ -9651,10 +9652,11 @@
   {
     "builder": "Caline",
     "pedal": "CP-25 Highway Man OD",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-25-highway-man-od/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp25",
     "research_record": "./research/pedals/PRP Batch 140/cp-25-highway-man-od.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp25"
+    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp25",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/caline_cp-25_001.jpg"
   },
   {
     "builder": "Caline",
@@ -9811,10 +9813,11 @@
   {
     "builder": "Caline",
     "pedal": "CP-515 Carmilla - Hi Gain Distortion Machine",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-515-carmilla-hi-gain-distortion-machine/primary.webp",
     "source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
     "research_record": "./research/pedals/PRP Batch 142/cp-515-carmilla-hi-gain-distortion-machine.md",
-    "image_source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac"
+    "image_source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
+    "image_source_url": "https://i.ytimg.com/vi/AXUVkEvtuKg/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDPJOvxVAWJQLoIFOTr-zywwd2Glg&usqp=CCc"
   },
   {
     "builder": "Caline",
@@ -9828,10 +9831,11 @@
   {
     "builder": "Caline",
     "pedal": "CP-53 Fuzzy Faace - Voodoo Octave",
-    "image": null,
+    "image": "./assets/pedals/caline/cp-53-fuzzy-faace-voodoo-octave/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp53",
     "research_record": "./research/pedals/PRP Batch 142/cp-53-fuzzy-faace-voodoo-octave.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp53"
+    "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp53",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/caline_voodoooctave_001.jpg"
   },
   {
     "builder": "Caline",
