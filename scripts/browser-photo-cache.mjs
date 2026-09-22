@@ -544,22 +544,45 @@ async function linkedExactSourceCandidates(page, entry, sourcePageUsed, deepRevi
     for (const el of document.querySelectorAll('a[href]')) {
       const href = el.href || '';
       if (!/^https?:/i.test(href)) continue;
+
+      let externalStrong = false;
       try {
         const u = new URL(href);
         if (/(^|\.)effectsdatabase\.com$/i.test(u.hostname)) continue;
+
+        // On an exact Effects Database page, marketplace links can be labeled
+        // only "eBay"/"Reverb" or contain no useful text at all. Keep those
+        // strong external candidates in the shortlist, then perform the real
+        // exact-model identity check on the destination page below.
+        externalStrong =
+          /(^|\.)ebay\.com$/i.test(u.hostname) && /\/itm\//i.test(u.pathname) ||
+          /(^|\.)reverb\.com$/i.test(u.hostname) && /\/item\//i.test(u.pathname) ||
+          /\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(u.pathname);
       } catch {
         continue;
       }
+
+      const imageHints = [...el.querySelectorAll('img')].flatMap(img => [
+        img.alt,
+        img.currentSrc,
+        img.src,
+        img.getAttribute('data-src'),
+        img.getAttribute('data-lazy-src'),
+        img.getAttribute('data-original')
+      ]).filter(Boolean).join(' ');
+
       const text = norm(
         (el.textContent || '') + ' ' +
-        (el.getAttribute('title') || '') + ' ' + href
+        (el.getAttribute('title') || '') + ' ' +
+        (el.getAttribute('aria-label') || '') + ' ' +
+        href + ' ' + imageHints
       );
       const pedalHits = pedalTokens.filter(token => text.includes(token)).length;
       const builderHits = builderTokens.filter(token => text.includes(token)).length;
-      if (!pedalHits && !builderHits) continue;
+      if (!pedalHits && !builderHits && !externalStrong) continue;
       out.push({
         href: href.split('#')[0],
-        score: pedalHits * 20 + builderHits * 8
+        score: pedalHits * 20 + builderHits * 8 + (externalStrong ? 3 : 0)
       });
     }
     return [...new Map(out.map(x => [x.href, x])).values()]
