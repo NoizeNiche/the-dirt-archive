@@ -203,3 +203,9 @@ These are intentionally still photo-pending. The recovery workflow must archive 
 
 Current verified gate remains **342 public researched-photo-pending** records. PRP1 stays paused until that count reaches **0**.
 
+## Recovery engine checkpoint - September 22, 2026
+
+The browser photo-recovery engine now accepts browser-network image candidates by the response's verified image MIME type, rather than requiring the image URL itself to end in a conventional file extension. This covers extensionless CDN/image-proxy URLs while retaining the existing exact-model identity checks and final image-content validation.
+
+The change is committed on main and remains subordinate to the existing rule: a source lead is not a pictured record until a real local canonical asset is archived.
+
