@@ -4,8 +4,8 @@
 - Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2817**
-- Researched, photo pending: **272**
+- Remaining tracker photo backlog: **2815**
+- Researched, photo pending: **270**
 - External source images awaiting localization: **13**
 
 ## Storage layout
@@ -16,8 +16,8 @@
 
 ## Newly cached
 
-- Biyang - OD-8 X-Drive -> `./assets/pedals/biyang/od-8-x-drive/primary.webp`
-- Biyang - OTD-100 Distortion -> `./assets/pedals/biyang/otd-100-distortion/primary.webp`
+- Bob Burt Cabinets & Pedals - Bob Burt AH-1 Allen Hinds Signature Distortion -> `./assets/pedals/bob-burt-cabinets-pedals/bob-burt-ah-1-allen-hinds-signature-distortion/primary.webp`
+- Bob Burt Cabinets & Pedals - Bob Burt Overdrive -> `./assets/pedals/bob-burt-cabinets-pedals/bob-burt-overdrive/primary.webp`
 
 ## Still external / failed
 

@@ -7226,9 +7226,11 @@
   {
     "builder": "Bob Burt Cabinets & Pedals",
     "pedal": "Bob Burt AH-1 Allen Hinds Signature Distortion",
-    "image": null,
+    "image": "./assets/pedals/bob-burt-cabinets-pedals/bob-burt-ah-1-allen-hinds-signature-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/bobburt/ah1",
-    "research_record": "./research/pedals/PRP Batch 106/Bob Burt AH-1 Allen Hinds Signature Distortion.md"
+    "research_record": "./research/pedals/PRP Batch 106/Bob Burt AH-1 Allen Hinds Signature Distortion.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/bobburt_ah-1_002.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/bobburt/ah1"
   },
   {
     "builder": "Bob Burt Cabinets & Pedals",
@@ -7240,10 +7242,11 @@
   {
     "builder": "Bob Burt Cabinets & Pedals",
     "pedal": "Bob Burt Overdrive",
-    "image": null,
+    "image": "./assets/pedals/bob-burt-cabinets-pedals/bob-burt-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/bobburt/overdrive",
     "research_record": "./research/pedals/PRP Batch 106/Bob Burt Overdrive.md",
-    "image_source_page": "https://reverb.com/item/2201997-bob-burt-overdrive"
+    "image_source_page": "https://www.effectsdatabase.com/model/bobburt/overdrive",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/bobburt_overdrive_001.jpg"
   },
   {
     "builder": "Bogner Amplification",
