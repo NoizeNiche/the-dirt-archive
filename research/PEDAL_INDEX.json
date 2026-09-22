@@ -15997,11 +15997,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/casey-gooby/organ-donor/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caseygooby/organdonor",
       "research_record": "./research/pedals/PRP Batch 153/casey-gooby-organ-donor.md",
       "image_source_page": "https://www.effectsdatabase.com/model/caseygooby/organdonor",
-      "image_source_url": "https://www.effectsdatabase.com/model/caseygooby/organdonor",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/caseygooby_organdonor_001.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 138,
       "image_source_pages": [
@@ -17005,7 +17005,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cave-passive-pedals/blue-juice/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 160/cave-blue-juice.md",
       "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/bluejuice",
@@ -17014,7 +17014,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/cavepassive/bluejuice"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/cavepassive_bluejuice_001.jpg"
     },
     {
       "company": "Cave Passive Pedals",

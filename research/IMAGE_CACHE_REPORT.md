@@ -4,8 +4,8 @@
 - Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2827**
-- Researched, photo pending: **282**
+- Remaining tracker photo backlog: **2825**
+- Researched, photo pending: **280**
 
 ## Storage layout
 
@@ -15,8 +15,8 @@
 
 ## Newly cached
 
-- CastleRock - CastleRock Distortion -> `./assets/pedals/castlerock/castlerock-distortion/primary.webp`
-- Cave Passive Pedals - Super Grunt -> `./assets/pedals/cave-passive-pedals/super-grunt/primary.webp`
+- Casey Gooby - Organ Donor -> `./assets/pedals/casey-gooby/organ-donor/primary.webp`
+- Cave Passive Pedals - Blue Juice -> `./assets/pedals/cave-passive-pedals/blue-juice/primary.webp`
 
 ## Still external / failed
 
