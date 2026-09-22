@@ -35,6 +35,13 @@ def local(path):
     value = path[2:] if path.startswith("./") else path
     return ROOT / value
 
+
+def archived_image(image):
+    if not image or re.match(r"^https?://", image, re.I):
+        return False
+    normalized = image.replace("\\", "/").lstrip("./")
+    return normalized.startswith("assets/pedals/") and (ROOT / normalized).is_file()
+
 def main():
     required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, HOME, DETAIL, LEGACY, DEPLOY)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
@@ -134,7 +141,7 @@ def main():
         k = pair(row.get("Builder"), row.get("Pedal"))
         public = catalog_by_key[k]
         info = bool(public.get("research_record"))
-        picture = bool(public.get("image"))
+        picture = archived_image(public.get("image"))
         complete = info and picture
         expected = {
             "Pedal Info": "DONE" if info else "NEEDED",
