@@ -168,23 +168,43 @@ async function waitForDeployment() {
   const liveUrl=(pages.html_url||'').replace(/\/$/,'');
   if (!liveUrl) throw new Error('GitHub Pages API did not return a live URL');
 
-  const targetSha = await currentMainSha();
+  let targetSha = await currentMainSha();
   let run=null;
-  for (let attempt=0; attempt<10; attempt++) {
+  let lastInProgressSha=null;
+  // A Pages deployment can legitimately take several minutes, especially when
+  // the browser audit is rebuilding Chromium caches. Give the deployment lane
+  // enough room to finish before declaring the live site unhealthy.
+  for (let attempt=0; attempt<24; attempt++) {
+    if (runningScheduledHealth) targetSha = await currentMainSha();
     const runs=await jsonFetch(RUNS_API);
-    const successful=[...(runs.workflow_runs||[])].filter(x => x.status==='completed' && x.conclusion==='success');
+    const workflowRuns=[...(runs.workflow_runs||[])];
+    const successful=workflowRuns.filter(x => x.status==='completed' && x.conclusion==='success');
 
     // Scheduled health runs start from a potentially stale checkout SHA. In that
     // case, validate the latest main commit instead of the scheduled-run SHA.
-    // This avoids false failures when photo/PRP automation has just published a
-    // newer checkpoint and Pages is deploying that checkpoint now.
+    // Re-read main during the wait so a newer photo/PRP publish is followed rather
+    // than pinning the health check to a commit that was superseded mid-run.
     run = successful.find(x=>x.head_sha===targetSha) || null;
-
     if (run) break;
+
+    const inProgress=workflowRuns.find(x =>
+      x.status==='in_progress' &&
+      x.head_branch==='main' &&
+      (!targetSha || x.head_sha===targetSha)
+    );
+    if (inProgress) {
+      if (lastInProgressSha!==inProgress.head_sha) {
+        console.log(`Pages deployment still running for ${inProgress.head_sha} (${inProgress.html_url}). Waiting for completion.`);
+        lastInProgressSha=inProgress.head_sha;
+      }
+    } else {
+      lastInProgressSha=null;
+    }
+
     await new Promise(r=>setTimeout(r,15000));
   }
 
-  if (!run) throw new Error(`No successful Deploy Pages workflow run found for main ${targetSha}`);
+  if (!run) throw new Error(`No successful Deploy Pages workflow run found for main ${targetSha} after waiting for the deployment lane`);
   console.log(`Pages deployment: PASS (${run.html_url})`);
   return liveUrl;
 }
