@@ -4,8 +4,8 @@
 - Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2857**
-- Researched, photo pending: **312**
+- Remaining tracker photo backlog: **2856**
+- Researched, photo pending: **311**
 
 ## Storage layout
 
@@ -15,7 +15,7 @@
 
 ## Newly cached
 
-- Audio Squared - Major Fuzz -> `./assets/pedals/audio-squared/major-fuzz/primary.webp`
+- AMT Electronics - B-1 BG-Sharp -> `./assets/pedals/amt-electronics/b-1-bg-sharp/primary.webp`
 
 ## Still external / failed
 

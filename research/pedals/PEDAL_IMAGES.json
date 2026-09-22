@@ -1788,10 +1788,12 @@
   {
     "builder": "AMT Electronics",
     "pedal": "B-1 BG-Sharp",
-    "image": null,
+    "image": "./assets/pedals/amt-electronics/b-1-bg-sharp/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/b1",
     "research_record": "./research/pedals/PRP Batch 049/B-1 BG-Sharp.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/amt-legendamp_b-1_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/amt/legendamp/b1"
   },
   {
     "builder": "AMT Electronics",

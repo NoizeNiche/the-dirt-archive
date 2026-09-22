@@ -2693,7 +2693,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/amt-electronics/b-1-bg-sharp/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/b1",
       "research_record": "./research/pedals/PRP Batch 049/B-1 BG-Sharp.md",
       "image_source_page": "https://www.effectsdatabase.com/model/amt/legendamp/b1",
@@ -2702,7 +2702,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/amt/legendamp/b1"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/amt-legendamp_b-1_001.jpg"
     },
     {
       "company": "AMT Electronics",
