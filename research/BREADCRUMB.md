@@ -228,3 +228,7 @@ The live PRP tracker now parses to 3,819 records, 1,274 researched, 952 pictured
 ## Recovery-engine hardening checkpoint - September 22, 2026
 
 The resumed photo-cache lane exposed two parser defects in the newly added HTTP fallback. Both were repaired. The cache workflow now includes `node --check scripts/browser-photo-cache.mjs` before Chromium recovery begins. A bounded corrected recovery run 935 is active. Manufacturer-backed exact leads were also added for Audiostorm ADNA, F258 Drive, Otherworld Overdrive, and BlackOutEffectors Blunderbuss Musket, with Bigfoot Engineering Bigfoot Germanium EQ Fuzz already queued from its manufacturer page.
+
+## Exact photo-lead checkpoint - September 22, 2026 (continued)
+
+Added Beta Aivin BOD-2 Bass Overdrive as an exact Effects Database recovery lead. The record identifies the exact model and exposes an eBay pedal-image trail. It remains photo-pending until a confirmed local asset is archived.
