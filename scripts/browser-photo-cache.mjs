@@ -1012,6 +1012,22 @@ async function recoverEntry(browser, entry, deepReview = false) {
               return { bytes, src: candidate.src };
             }
           }
+
+          // Some archive/database pages expose the exact photograph only as an
+          // image-file anchor. The direct URL may block our request even though
+          // Chromium can render the linked asset, so capture the link itself as
+          // a final bounded fallback for candidates we explicitly discovered.
+          if (candidate.linkedImage) {
+            const link = page.locator('a[href="' + candidate.src.replace(/"/g, '\"') + '"]').first();
+            if (await link.count()) {
+              await link.scrollIntoViewIfNeeded().catch(() => {});
+              await page.waitForTimeout(180);
+              const linkBytes = await link.screenshot({ type: 'png' }).catch(() => null);
+              if (linkBytes && linkBytes.length >= 3000) {
+                return { bytes: linkBytes, src: candidate.src };
+              }
+            }
+          }
         }
       } catch {}
       return null;
