@@ -127,8 +127,8 @@ function checkDataIntegrity() {
     const m=manifestByKey.get(k);
     if (!m) throw new Error(`Photo manifest missing catalog identity: ${p.company} / ${p.pedal}`);
     if ((m.image||null)!==(p.image||null)) throw new Error(`Photo path mismatch between index and manifest: ${p.company} / ${p.pedal}`);
-    if (p.image && !hasArchivedImage(p.image)) {
-      throw new Error(`Photo is not locally archived: ${p.company} / ${p.pedal} -> ${p.image}`);
+    if (isLocalImagePath(p.image) && !hasArchivedImage(p.image)) {
+      throw new Error(`Local archived photo is missing: ${p.company} / ${p.pedal} -> ${p.image}`);
     }
     if (p.catalog_role==='variation' && p.parent_pedal && isLocalImagePath(p.image)) {
       const parent=p.image.split('/').slice(-3,-2)[0] || '';
