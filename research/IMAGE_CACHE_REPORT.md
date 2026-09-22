@@ -1,10 +1,10 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **3**
+- Staged browser photos converted: **3**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2912**
+- Remaining tracker photo backlog: **2911**
 
 ## Storage layout
 
@@ -14,7 +14,9 @@
 
 ## Newly cached
 
-- Audio Matrix - Mini Boogee / Mini Matrix -> `./assets/pedals/audio-matrix/mini-boogee-mini-matrix/primary.webp`
+- AXiom Effects - Distortion Preamp DP-1 -> `./assets/pedals/axiom-effects/distortion-preamp-dp-1/primary.webp`
+- AXiom Effects - Overdrive Preamp OP-1 -> `./assets/pedals/axiom-effects/overdrive-preamp-op-1/primary.webp`
+- Caline - CP-56 Midlander / The Mayday - AC Tone -> `./assets/pedals/caline/cp-56-midlander-the-mayday-ac-tone/primary.webp`
 
 ## Still external / failed
 

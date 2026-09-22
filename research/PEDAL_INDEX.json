@@ -4362,11 +4362,12 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/axiom-effects/distortion-preamp-dp-1/primary.webp",
       "source_page": "https://axiomeffects.com/collections/frontpage/products/axiom-distortion-preamp-dp-1",
       "research_record": "./research/pedals/AXiom Effects/Distortion Preamp DP-1.md",
       "image_source_page": "https://axiomeffects.com/collections/frontpage/products/axiom-distortion-preamp-dp-1",
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://axiomeffects.com/cdn/shop/files/AXiomDistortionPreampDP-1SampleSettings_360x.jpg?v=1704327856"
     },
     {
       "company": "AXiom Effects",
@@ -4386,11 +4387,12 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/axiom-effects/overdrive-preamp-op-1/primary.webp",
       "source_page": "https://axiomeffects.com/products/axiom-overdrive-preamp-op-1",
       "research_record": "./research/pedals/AXiom Effects/Overdrive Preamp OP-1.md",
       "image_source_page": "https://axiomeffects.com/products/axiom-overdrive-preamp-op-1",
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://axiomeffects.com/cdn/shop/products/20220602_194029_360x.jpg?v=1679007712"
     },
     {
       "company": "Axis Guitar Effects",
@@ -13136,11 +13138,12 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-56-midlander-the-mayday-ac-tone/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp56",
       "research_record": "./research/pedals/PRP Batch 142/cp-56-midlander-the-mayday-ac-tone.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp56",
-      "image_source_page_verified": true
+      "image_source_page": "https://gbr.grandado.com/products/caline-cp-56-the-mayday-midlander-guitar-pedal-ac-tone-effect-pedal-electric-guitar-parts-amp-accessories-with-true-bypass?variant=UHJvZHVjdFZhcmlhbnQ6NDcyNTA2MTcw",
+      "image_source_page_verified": true,
+      "image_source_url": "https://images.nexusapp.co/assets/ac/c2/3a/534531218.jpg"
     },
     {
       "company": "Caline",
