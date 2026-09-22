@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **2**
+- Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2855**
-- Researched, photo pending: **310**
+- Remaining tracker photo backlog: **2853**
+- Researched, photo pending: **308**
 
 ## Storage layout
 
@@ -15,7 +15,8 @@
 
 ## Newly cached
 
-- A&M Custom Effects - Metal Maniac - Mega Distortion -> `./assets/pedals/a-m-custom-effects/metal-maniac-mega-distortion/primary.webp`
+- Big Ear - Woodcutter -> `./assets/pedals/big-ear/woodcutter/primary.webp`
+- Big Game Pedals - Nothing Is Dead Fuzz -> `./assets/pedals/big-game-pedals/nothing-is-dead-fuzz/primary.webp`
 
 ## Still external / failed
 

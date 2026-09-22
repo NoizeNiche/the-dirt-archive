@@ -7434,7 +7434,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-ear/woodcutter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Woodcutter.md",
       "image_source_page": "https://www.bigearpedals.com/product-page/woodcutter",
@@ -7443,7 +7443,8 @@
       "image_source_pages": [
         "https://www.bigearpedals.com/product-page/woodcutter"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://static.wixstatic.com/media/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png/v1/crop/x_0,y_9,w_1721,h_769/fill/w_132,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png"
     },
     {
       "company": "Big Ear NYC",
@@ -7582,7 +7583,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-game-pedals/nothing-is-dead-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 082/Nothing Is Dead Fuzz.md",
       "image_source_page": "https://www.pedal-of-the-day.com/2015/04/23/big-game-pedals-nothing-is-dead-fuzz/",
@@ -7591,7 +7592,8 @@
       "image_source_pages": [
         "https://www.pedal-of-the-day.com/2015/04/23/big-game-pedals-nothing-is-dead-fuzz/"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2015/03/BigGamePedals_NothingIsDeadFuzz.jpg"
     },
     {
       "company": "Big Game Pedals",
