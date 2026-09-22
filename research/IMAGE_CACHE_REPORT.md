@@ -1,17 +1,21 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
-- Staged browser photos converted: **0**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2856**
-- Researched, photo pending: **311**
+- Remaining tracker photo backlog: **2855**
+- Researched, photo pending: **310**
 
 ## Storage layout
 
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- A&M Custom Effects - Metal Maniac - Mega Distortion -> `./assets/pedals/a-m-custom-effects/metal-maniac-mega-distortion/primary.webp`
 
 ## Still external / failed
 

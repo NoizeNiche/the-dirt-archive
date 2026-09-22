@@ -175,12 +175,12 @@
   {
     "builder": "A&M Custom Effects",
     "pedal": "Metal Maniac - Mega Distortion",
-    "image": null,
+    "image": "./assets/pedals/a-m-custom-effects/metal-maniac-mega-distortion/primary.webp",
     "source": null,
     "source_page": "https://www.effectsdatabase.com/model/am/metalmaniac",
     "research_record": "./research/pedals/A&M Custom Effects/Metal Maniac - Mega Distortion.md",
     "image_source_page": "https://www.effectsdatabase.com/model/am/metalmaniac",
-    "image_source_url": "https://www.effectsdatabase.com/model/am/metalmaniac"
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/am_metalmaniac_001.jpg"
   },
   {
     "builder": "A&M Custom Effects",
