@@ -163,6 +163,39 @@ function checkDataIntegrity() {
   console.log(`PRP data: ${pedals.length} pedals / ${researched} researched / ${pictured} pictured / ${complete} complete`);
   return {current, pedals, researched, pictured, complete};
 }
+const DEPLOY_TRIGGER_PATHS = [
+  'index.html',
+  'pedal.html',
+  'pedal-detail.html',
+  'assets/**',
+  'research/PEDAL_INDEX.json',
+  'research/pedals/**',
+  'assets/js/**',
+  'assets/css/**',
+  'scripts/deploy-browser-audit.js',
+  'scripts/serve-static.js',
+  'scripts/live-photo-audit.js',
+  'scripts/validate-archive.py',
+  '.github/workflows/deploy-pages.yml'
+];
+
+function deploymentPathChanged(file) {
+  return DEPLOY_TRIGGER_PATHS.some(pattern => {
+    if (pattern.endsWith('/**')) return file.startsWith(pattern.slice(0, -2));
+    return file === pattern;
+  });
+}
+
+async function changedFilesBetween(baseSha, headSha) {
+  if (!baseSha || !headSha || baseSha === headSha) return [];
+  try {
+    const data = await jsonFetch(`https://api.github.com/repos/${process.env.GITHUB_REPOSITORY}/compare/${baseSha}...${headSha}`);
+    return (data.files || []).map(file => file.filename).filter(Boolean);
+  } catch {
+    return null;
+  }
+}
+
 async function waitForDeployment() {
   const pages=await jsonFetch(SITE_API);
   const liveUrl=(pages.html_url||'').replace(/\/$/,'');
@@ -171,26 +204,35 @@ async function waitForDeployment() {
   let targetSha = await currentMainSha();
   let run=null;
   let lastInProgressSha=null;
-  // A Pages deployment can legitimately take several minutes, especially when
-  // the browser audit is rebuilding Chromium caches. Give the deployment lane
-  // enough room to finish before declaring the live site unhealthy.
+  let lastComparedTargetSha=null;
+  // Allow enough time for a real Pages deployment to finish. Internal-only
+  // checkpoint/doc commits do not need a new site deployment, so when no exact
+  // SHA match exists we compare the latest successful deployment against main
+  // and accept it when the intervening files are outside the deploy trigger set.
   for (let attempt=0; attempt<24; attempt++) {
     if (runningScheduledHealth) targetSha = await currentMainSha();
     const runs=await jsonFetch(RUNS_API);
     const workflowRuns=[...(runs.workflow_runs||[])];
     const successful=workflowRuns.filter(x => x.status==='completed' && x.conclusion==='success');
 
-    // Scheduled health runs start from a potentially stale checkout SHA. In that
-    // case, validate the latest main commit instead of the scheduled-run SHA.
-    // Re-read main during the wait so a newer photo/PRP publish is followed rather
-    // than pinning the health check to a commit that was superseded mid-run.
     run = successful.find(x=>x.head_sha===targetSha) || null;
     if (run) break;
+
+    const latestSuccessful=successful[0] || null;
+    if (latestSuccessful && lastComparedTargetSha!==targetSha) {
+      lastComparedTargetSha=targetSha;
+      const changed=await changedFilesBetween(latestSuccessful.head_sha,targetSha);
+      if (changed && !changed.some(deploymentPathChanged)) {
+        run=latestSuccessful;
+        console.log(`Pages deployment: PASS (${latestSuccessful.html_url}); only non-deploying files changed after deployed SHA.`);
+        break;
+      }
+    }
 
     const inProgress=workflowRuns.find(x =>
       x.status==='in_progress' &&
       x.head_branch==='main' &&
-      (!targetSha || x.head_sha===targetSha)
+      x.head_sha===targetSha
     );
     if (inProgress) {
       if (lastInProgressSha!==inProgress.head_sha) {
@@ -204,8 +246,9 @@ async function waitForDeployment() {
     await new Promise(r=>setTimeout(r,15000));
   }
 
-  if (!run) throw new Error(`No successful Deploy Pages workflow run found for main ${targetSha} after waiting for the deployment lane`);
-  console.log(`Pages deployment: PASS (${run.html_url})`);
+  if (!run) throw new Error(`No successful Deploy Pages workflow run covers main ${targetSha} after waiting for the deployment lane`);
+  if (!run.html_url) console.log(`Pages deployment: PASS (${run.head_sha})`);
+  else if (run.head_sha!==targetSha) console.log(`Pages deployment: PASS (${run.html_url})`);
   return liveUrl;
 }
 async function browserCheck(liveUrl, pedals) {
