@@ -268,3 +268,7 @@ Run 938 completed successfully but recovered 0 of 29 attempted records. No track
 ## Source coverage audit checkpoint - September 22, 2026
 
 The first 500 unresolved photo-backlog records were compared against the curated exact-source override table. 197 records currently lack an override row. This establishes a measurable source-research gap for future work while keeping photo status unchanged until exact local assets are verified. Override table size at this checkpoint: 396 data rows.
+
+## Health canary trigger checkpoint - September 22, 2026
+
+Added a push trigger for changes to the hourly health workflow/script so health-lane fixes receive an immediate canary. The earlier failed scheduled run was traced to an older checkout lacking the newer deployment-coverage comparison logic; the current health script already contains that logic.
