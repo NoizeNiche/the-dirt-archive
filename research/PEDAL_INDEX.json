@@ -14916,7 +14916,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/caline/cp-78-red-thorn-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/redthorn",
       "research_record": "./research/pedals/PRP Batch 143/cp-78-red-thorn-distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/redthorn",
@@ -14925,7 +14925,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/caline/cpxx/redthorn"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/caline-cpxx_redthorn_004.jpg"
     },
     {
       "company": "Caline",
