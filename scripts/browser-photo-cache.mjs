@@ -706,22 +706,39 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
       }
       return [...new Set(out)].slice(0, 2);
     });
+
     const urls = new Set();
+    const addUrl = value => {
+      if (!value || typeof value !== 'string' || value.startsWith('data:')) return;
+      try {
+        const absolute = /^https?:\/\//i.test(value) ? value : new URL(value, pageUrl).href;
+        if (!/^https?:\/\//i.test(absolute)) return;
+        if (/(logo|avatar|icon|sprite|favicon|badge|payment|social)/i.test(absolute)) return;
+        if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(absolute) || /effectsdatabase\.com/i.test(new URL(absolute).hostname)) {
+          urls.add(absolute);
+        }
+      } catch {}
+    };
+
     for (const feedUrl of feedLinks) {
       try {
         const response = await page.request.get(feedUrl, { timeout: PAGE_TIMEOUT });
         if (!response.ok()) continue;
         const body = await response.text();
+
+        for (const match of body.matchAll(/<(?:img|source)\b[^>]*(?:src|data-src|data-original|data-lazy-src|srcset)=["']([^"']+)["'][^>]*>/gi)) {
+          for (const part of match[1].split(/\s+/)) addUrl(part);
+        }
         for (const match of body.matchAll(/(?:https?:)?\/\/[^"'\\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\\s<>]*)?/gi)) {
-          let value = match[0];
-          if (value.startsWith('//')) value = 'https:' + value;
-          if (/^https?:\/\//i.test(value) && /files\.effectsdatabase\.com/i.test(value)) {
-            urls.add(value);
-          }
+          addUrl(match[0]);
+        }
+        for (const match of body.matchAll(/["'](?:image|imageUrl|image_url|contentUrl|thumbnailUrl)["']\s*:\s*["']([^"']+)["']/gi)) {
+          addUrl(match[1]);
         }
       } catch {}
     }
-    return [...urls].slice(0, 6);
+
+    return [...urls].slice(0, 12);
   } catch {
     return [];
   }
