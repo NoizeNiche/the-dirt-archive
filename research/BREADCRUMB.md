@@ -256,3 +256,7 @@ Run 937 successfully archived Anarchy Audio Australia Deadwoods - Chainsaw Fuzz 
 ## Structured-data recovery checkpoint - September 22, 2026
 
 The browser photo extractor was expanded to recover product images from `application/ld+json` structured data, including Product image/contentUrl/thumbnailUrl fields. Product name, brand, model, and description are carried into the same scoring system, followed by the existing exact-model identity and image-content verification before any local cache is accepted.
+
+## Source redundancy checkpoint - September 22, 2026
+
+Added/confirmed exact photo-source redundancy for Alen Geere Loverdrive (Reverb), Aleatorik Operation 1 (Aucfree), and A.Y.A FrontGate Bass Drive (retailer plus prior Reverb listing). These are source leads only and do not change Picture state until an exact local asset is successfully archived.
