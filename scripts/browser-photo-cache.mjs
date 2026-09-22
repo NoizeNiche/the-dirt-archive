@@ -783,7 +783,14 @@ async function recoverEntry(browser, entry, deepReview = false) {
             }
           }
 
-          if (!candidates.some(x => x.sourcePage === sourcePageUsed && x.sourceScore >= 120)) {
+          if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(sourcePageUsed).hostname) && deepReview) {
+            // Effects Database pages can expose an og:image or thumbnail that
+            // is not directly downloadable. Always follow the exact external
+            // product/listing links as well, because those pages often contain
+            // the actual pedal photograph we can capture or download.
+            const linked = await linkedExactSourceCandidates(page, entry, sourcePageUsed, true);
+            candidates.push(...linked);
+          } else if (!candidates.some(x => x.sourcePage === sourcePageUsed && x.sourceScore >= 120)) {
             const linked = await linkedExactSourceCandidates(page, entry, sourcePageUsed, deepReview);
             candidates.push(...linked);
           }
