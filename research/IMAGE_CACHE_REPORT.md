@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **6**
-- Staged browser photos converted: **6**
+- Cached in this run: **0**
+- Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
 - Remaining tracker photo backlog: **2847**
@@ -12,15 +12,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Bias - Bias Over Drive -> `./assets/pedals/bias/bias-over-drive/primary.webp`
-- Big Tone Music Brewery - Germanium FuzzBender -> `./assets/pedals/big-tone-music-brewery/germanium-fuzzbender/primary.webp`
-- Big Tone Music Brewery - Parametric Overdrive -> `./assets/pedals/big-tone-music-brewery/parametric-overdrive/primary.webp`
-- Big White Monkey Amps - Howler -> `./assets/pedals/big-white-monkey-amps/howler/primary.webp`
-- Big White Monkey Amps - Spider 808 -> `./assets/pedals/big-white-monkey-amps/spider-808/primary.webp`
-- Bigfoot F.X. - The Humongous Box -> `./assets/pedals/bigfoot-f-x/the-humongous-box/primary.webp`
 
 ## Still external / failed
 
