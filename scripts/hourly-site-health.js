@@ -161,7 +161,7 @@ function checkDataIntegrity() {
   const pictured=pedals.filter(x=>x.image).length;
   const complete=pedals.filter(x=>x.research_record&&x.image).length;
   console.log(`PRP data: ${pedals.length} pedals / ${researched} researched / ${pictured} pictured / ${complete} complete`);
-  return {current, pedals, researched, pictured, complete};
+  return {current, pedals, researched, pictured, complete, canaries:{builderCanary,positiveCanary,noPhotoCanary,variationCanary}};
 }
 const DEPLOY_TRIGGER_PATHS = [
   'index.html',
@@ -251,8 +251,8 @@ async function waitForDeployment() {
   else if (run.head_sha!==targetSha) console.log(`Pages deployment: PASS (${run.html_url})`);
   return liveUrl;
 }
-async function browserCheck(liveUrl, pedals) {
-  const variationCanary=pedals.find(x=>x.catalog_role==='variation'&&x.parent_pedal&&x.variation_name);
+async function browserCheck(liveUrl, pedals, canaries) {
+  const {builderCanary,positiveCanary,noPhotoCanary,variationCanary}=canaries;
   const browser=await chromium.launch({headless:true});
   const results=[];
   try {
@@ -330,6 +330,6 @@ async function browserCheck(liveUrl, pedals) {
   console.log(`Hourly site health for ${currentSha}`);
   const data=checkDataIntegrity();
   const liveUrl=await waitForDeployment();
-  await browserCheck(liveUrl,data.pedals);
+  await browserCheck(liveUrl,data.pedals,data.canaries);
   console.log('HEALTH CHECK PASSED');
 })().catch(err=>{console.error('HEALTH CHECK FAILED:',err.message);process.exit(1)});
