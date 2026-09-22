@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **4**
-- Staged browser photos converted: **4**
+- Cached in this run: **5**
+- Staged browser photos converted: **5**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2835**
-- Researched, photo pending: **290**
+- Remaining tracker photo backlog: **2830**
+- Researched, photo pending: **285**
 
 ## Storage layout
 
@@ -15,10 +15,11 @@
 
 ## Newly cached
 
-- Boulevard - BDT-10 Distortion -> `./assets/pedals/boulevard/bdt-10-distortion/primary.webp`
-- CAT Sound - Classic -> `./assets/pedals/cat-sound/classic/primary.webp`
-- CAT Sound - DriveCenter -> `./assets/pedals/cat-sound/drivecenter/primary.webp`
-- Carella Guitars - Real Tube -> `./assets/pedals/carella-guitars/real-tube/primary.webp`
+- BR Tech - BR-1 Distortion -> `./assets/pedals/br-tech/br-1-distortion/primary.webp`
+- Carella Guitars - Overdistover -> `./assets/pedals/carella-guitars/overdistover/primary.webp`
+- Carella Guitars - Overtube -> `./assets/pedals/carella-guitars/overtube/primary.webp`
+- Carlin - Carlin Compressor/Fuzz -> `./assets/pedals/carlin/carlin-compressor-fuzz/primary.webp`
+- CastleRock - CastleRock Metal Driver -> `./assets/pedals/castlerock/castlerock-metal-driver/primary.webp`
 
 ## Still external / failed
 

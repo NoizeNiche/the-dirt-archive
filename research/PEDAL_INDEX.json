@@ -11854,16 +11854,17 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/br-tech/br-1-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/br-tech-br-1-distortion.md",
-      "image_source_page": "https://www.clasf.com.br/pedal-distortion-novo-2-anos-garantia-br-tech-em-s%C3%A3o-paulo-16366287/",
+      "image_source_page": "https://www.effectsdatabase.com/model/brtech/distortion",
       "image_source_page_verified": true,
       "image_source_priority": 202,
       "image_source_pages": [
         "https://www.clasf.com.br/pedal-distortion-novo-2-anos-garantia-br-tech-em-s%C3%A3o-paulo-16366287/"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/brtech_distortion_001.jpg"
     },
     {
       "company": "BR Tech",
@@ -15372,7 +15373,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/carella-guitars/overdistover/primary.webp",
       "source_page": "https://recnmix.accordo.it/article/viewPub/4430?co=1",
       "research_record": "./research/pedals/PRP Batch 148/carella-guitars-overdistover.md",
       "image_source_page": "https://www.effectsdatabase.com/model/carella/overdistover",
@@ -15381,7 +15382,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/carella/overdistover"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/carella_overdistover_003.jpg"
     },
     {
       "company": "Carella Guitars",
@@ -15389,16 +15391,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/carella-guitars/overtube/primary.webp",
       "source_page": "https://reverb.com/item/91128449-carella-guitars-overtube-effetto-overdrive-per-chitarra",
       "research_record": "./research/pedals/PRP Batch 148/carella-guitars-overtube.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carella/overtube",
+      "image_source_page": "https://reverb.com/item/91128449-carella-guitars-overtube-effetto-overdrive-per-chitarra",
       "image_source_page_verified": true,
       "image_source_priority": 156,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/carella/overtube"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--PGNkqMvH--/quality=medium-low,height=800,width=800,fit=contain/ooxqctc9qgcym6lkphil.jpg"
     },
     {
       "company": "Carella Guitars",
@@ -15578,7 +15581,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/carlin/carlin-compressor-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/carlin/compressor/fuzz",
       "research_record": "./research/pedals/PRP Batch 150/carlin-carlin-compressor-fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/carlin/compressor/fuzz",
@@ -15587,7 +15590,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/carlin/compressor/fuzz"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/carlin_compressor_001.jpg"
     },
     {
       "company": "Carlsbro",
@@ -16101,11 +16105,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/castlerock/castlerock-metal-driver/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/castlerock/metaldriver",
       "research_record": "./research/pedals/PRP Batch 153/castlerock-metal-driver.md",
       "image_source_page": "https://www.effectsdatabase.com/model/castlerock/metaldriver",
-      "image_source_url": "https://www.effectsdatabase.com/model/castlerock/metaldriver",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/castlerock_metaldriver_001.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 160,
       "image_source_pages": [
