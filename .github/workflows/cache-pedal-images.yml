@@ -16,9 +16,9 @@ permissions:
 
 concurrency:
   group: dirt-image-cache
-  # Let each bounded recovery pass finish cleanly. A new scheduled run may queue,
-  # but an active pass is never chopped in half by another trigger.
-  cancel-in-progress: false
+  # Prefer the newest checkpoint. Recovery is restartable, and cancelling an older
+  # pass prevents a stale batch from monopolizing the runner queue.
+  cancel-in-progress: true
 
 jobs:
   cache:
@@ -68,19 +68,19 @@ jobs:
       - name: Recover verified page images
         env:
           # Smaller committed batches keep recovery bounded and make progress visible.
-          PHOTO_BROWSER_CACHE_LIMIT: "60"
+          PHOTO_BROWSER_CACHE_LIMIT: "30"
           PHOTO_BROWSER_CACHE_CONCURRENCY: "6"
-          PHOTO_BROWSER_PAGE_TIMEOUT_MS: "7500"
-          PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "7500"
-          PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "5000"
-          PHOTO_BROWSER_CANDIDATE_LIMIT: "8"
-          PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "8"
+          PHOTO_BROWSER_PAGE_TIMEOUT_MS: "6500"
+          PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "6500"
+          PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "4500"
+          PHOTO_BROWSER_CANDIDATE_LIMIT: "6"
+          PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "6"
           # Recovery follows exact PRP_TRACKER order; no builder is privileged.
           PHOTO_BROWSER_IMAGE_SEARCH: "true"
           PHOTO_BROWSER_DEEP_REVIEW: "true"
           # Reopen a small bounded batch of automatically exhausted records for one deeper pass.
           PHOTO_BROWSER_REVISIT_PARKED: "true"
-          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "30000"
+          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "20000"
         run: node scripts/browser-photo-cache.mjs
 
       - name: Download and cache verified pedal images
