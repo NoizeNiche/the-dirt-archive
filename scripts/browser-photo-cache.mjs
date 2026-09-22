@@ -311,8 +311,8 @@ function preferredSourcePage(entry) {
   try {
     const parsed = new URL(imagePage);
     const isGenericReverbHome =
-      /(^|\\.)reverb\\.com$/i.test(parsed.hostname) &&
-      /^\\/?$/.test(parsed.pathname);
+      /(^|\.)reverb\.com$/i.test(parsed.hostname) &&
+      /^\/?$/.test(parsed.pathname);
     if (isGenericReverbHome && sourcePage) return sourcePage;
   } catch {}
   return imagePage;
