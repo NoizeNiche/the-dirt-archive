@@ -6057,18 +6057,22 @@
   {
     "builder": "Biyang",
     "pedal": "OD-8 X-Drive",
-    "image": null,
+    "image": "./assets/pedals/biyang/od-8-x-drive/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/od8",
-    "research_record": "./research/pedals/PRP Batch 090/OD-8 X-Drive.md"
+    "research_record": "./research/pedals/PRP Batch 090/OD-8 X-Drive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/biyang-tonefancier_od-8_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/od8"
   },
   {
     "builder": "Biyang",
     "pedal": "OTD-100 Distortion",
-    "image": null,
+    "image": "./assets/pedals/biyang/otd-100-distortion/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/otd100",
-    "research_record": "./research/pedals/PRP Batch 091/OTD-100 Distortion.md"
+    "research_record": "./research/pedals/PRP Batch 091/OTD-100 Distortion.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/biyang_otd-100_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/otd100"
   },
   {
     "builder": "Bizarre Engineering",

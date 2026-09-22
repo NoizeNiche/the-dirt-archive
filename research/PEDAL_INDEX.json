@@ -9074,7 +9074,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/biyang/od-8-x-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/od8",
       "research_record": "./research/pedals/PRP Batch 090/OD-8 X-Drive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/od8",
@@ -9083,7 +9083,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/biyang/tonefancier/od8"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/biyang-tonefancier_od-8_001.jpg"
     },
     {
       "company": "Biyang",
@@ -9091,7 +9092,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/biyang/otd-100-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/otd100",
       "research_record": "./research/pedals/PRP Batch 091/OTD-100 Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/otd100",
@@ -9100,7 +9101,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/biyang/tonefancier/otd100"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/biyang_otd-100_001.jpg"
     },
     {
       "company": "Bizarre Engineering",

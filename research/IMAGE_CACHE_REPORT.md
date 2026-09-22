@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **2**
+- Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2819**
-- Researched, photo pending: **274**
+- Remaining tracker photo backlog: **2817**
+- Researched, photo pending: **272**
 - External source images awaiting localization: **13**
 
 ## Storage layout
@@ -16,7 +16,8 @@
 
 ## Newly cached
 
-- Bad Cat - X-Treme Tone -> `./assets/pedals/bad-cat/x-treme-tone/primary.webp`
+- Biyang - OD-8 X-Drive -> `./assets/pedals/biyang/od-8-x-drive/primary.webp`
+- Biyang - OTD-100 Distortion -> `./assets/pedals/biyang/otd-100-distortion/primary.webp`
 
 ## Still external / failed
 
