@@ -1401,7 +1401,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
           // Fallback to the older semantic-text gate when the listing has not
           // exposed a large rendered image yet.
 
-          const reverbLinkCount = await reverbImageLinks.count();
+          // Reuse the gallery link count declared above in this listing scope.
           const pedalNorm = normalizedIdentity(entry.pedal);
           const builderNorm = normalizedIdentity(entry.company);
 
