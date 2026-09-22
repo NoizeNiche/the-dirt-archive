@@ -1049,7 +1049,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/addplus/superdrive/2",
-      "research_record": "./research/pedals/Add+ Pedals/Super Drive 2.md"
+      "research_record": "./research/pedals/Add+ Pedals/Super Drive 2.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/addplus/superdrive/2",
+      "image_source_page_verified": true
     },
     {
       "company": "Add+ Pedals",
@@ -1299,7 +1301,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Aether Electronic/Lenore.md"
+      "research_record": "./research/pedals/Aether Electronic/Lenore.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/aether/lenore",
+      "image_source_page_verified": true
     },
     {
       "company": "AGR Pedals",
@@ -1576,7 +1580,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/alber/x00p/ga1040p",
-      "research_record": "./research/pedals/Alber/GA-1040P Gain.md"
+      "research_record": "./research/pedals/Alber/GA-1040P Gain.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/alber/x00p/ga1040p",
+      "image_source_page_verified": true
     },
     {
       "company": "Alber",
@@ -1586,7 +1592,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/alber/zn/od6",
-      "research_record": "./research/pedals/Alber/OD-6 Over Drive.md"
+      "research_record": "./research/pedals/Alber/OD-6 Over Drive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/alber/zn/od6",
+      "image_source_page_verified": true
     },
     {
       "company": "Alber",
@@ -1596,7 +1604,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/alber/x00/od600",
-      "research_record": "./research/pedals/Alber/OD-600 Over Drive.md"
+      "research_record": "./research/pedals/Alber/OD-600 Over Drive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/od600",
+      "image_source_page_verified": true
     },
     {
       "company": "Alber",
@@ -1618,7 +1628,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/alber/x10/od610",
-      "research_record": "./research/pedals/Alber/OD-610 Over Drive.md"
+      "research_record": "./research/pedals/Alber/OD-610 Over Drive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/alber/x10/od610",
+      "image_source_page_verified": true
     },
     {
       "company": "Alcove",
@@ -10584,11 +10596,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/brantone-electronics/wem-pepbox-official-reissue/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-wem-pepbox-official-reissue.md",
       "image_source_page": "https://www.breakthemachine.co.uk/brantone-electronics-qa/",
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://www.breakthemachine.co.uk/wp-content/themes/btm/public/images/red-grunge-bg.png"
     },
     {
       "company": "Brantone Electronics",
@@ -10608,11 +10621,12 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/breakfast-audio/slab-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/breakfast-audio-slab-distortion.md",
       "image_source_page": "https://breakfastaudio.com/products/slab-distortion",
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "http://breakfastaudio.com/cdn/shop/files/DSCF2827fina_5d40302e-68d3-485d-ad39-727934695c23.jpg?v=1745572598"
     },
     {
       "company": "Breakfast Audio",
@@ -10620,11 +10634,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/breakfast-audio/weltschmerz-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/breakfast-audio-weltschmerz-fuzz.md",
       "image_source_page": "https://breakfastaudio.com/products/weltschmerz-fuzz",
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "http://breakfastaudio.com/cdn/shop/files/weltsz_9f23f3c9-a839-4050-96ba-b07d0bf845ec.jpg?v=1779301315"
     },
     {
       "company": "BreakFuzz",
@@ -10720,11 +10735,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/british-pedal-company/rangemaster-fuzzbug-mkii/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-rangemaster-fuzzbug-mkii.md",
       "image_source_page": "https://www.britishpedalcompany.com/view-product/rangemaster-fuzzbug-mkii",
-      "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "image_source_url": "https://www.britishpedalcompany.com/images/Rangemaster-Fuzzbug-MKIIe.jpg",
       "image_source_page_verified": true
     },
     {
@@ -10733,11 +10748,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/british-pedal-company/tone-bender-mk1-5/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-mk1-5.md",
       "image_source_page": "https://www.britishpedalcompany.com/view-product/mki5-tone-bender",
-      "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "image_source_url": "https://www.britishpedalcompany.com/images/17413905_800.jpeg",
       "image_source_page_verified": true
     },
     {
@@ -10746,11 +10761,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/british-pedal-company/tone-bender-mki/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-mki.md",
       "image_source_page": "https://www.britishpedalcompany.com/view-product/mki-tone-bender",
-      "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "image_source_url": "https://www.britishpedalcompany.com/images/17413871_800.jpeg",
       "image_source_page_verified": true
     },
     {
@@ -10759,11 +10774,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/british-pedal-company/tone-bender-professional-mkii/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-professional-mkii.md",
       "image_source_page": "https://www.britishpedalcompany.com/view-product/professional-mkii-tone-bender-oc81d",
-      "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "image_source_url": "https://www.britishpedalcompany.com/images/17414098_800.jpeg",
       "image_source_page_verified": true
     },
     {

@@ -88,11 +88,11 @@ AXL,DEQ-2 Distortion EQ,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,12,Parked afte
 AXL,TOD-9 Tube Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,12,Parked after 12 automatic attempts; hold for deeper/manual photo research.
 Azor,AP-302 Distortion Guitar Effect Pedal,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,12,Parked after 12 automatic attempts; hold for deeper/manual photo research.
 Azor,Distortion Effect Pedal,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,12,Parked after 12 automatic attempts; hold for deeper/manual photo research.
-Azur,FUZZ Effect Pedal,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,9,no usable exact-model image candidate found
-Azur,LEON DRIVE Effect Pedal,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,6,no usable exact-model image candidate found
-Azur,OVERDRIVE Effect Pedal,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,6,no usable exact-model image candidate found
-B.C. Rich,DMD-1 Digital Metal Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,6,no usable exact-model image candidate found
-B85 Audio,Hrom - Bass Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,5,no usable exact-model image candidate found
+Azur,FUZZ Effect Pedal,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,10,no usable exact-model image candidate found
+Azur,LEON DRIVE Effect Pedal,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,7,no usable exact-model image candidate found
+Azur,OVERDRIVE Effect Pedal,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,7,no usable exact-model image candidate found
+B.C. Rich,DMD-1 Digital Metal Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,7,no usable exact-model image candidate found
+B85 Audio,Hrom - Bass Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,6,no usable exact-model image candidate found
 Backbeat Electric,X-Bender,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,5,no usable exact-model image candidate found
 Bad Cat,2-Tone,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,5,no usable exact-model image candidate found
 Bad Cat,X-Treme Tone,Distortion / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,5,no usable exact-model image candidate found
@@ -232,31 +232,24 @@ Bouteek,Distorter - Preamp,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable 
 Bouteek,Overdriver - Preamp,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
 Bouteek,Twin Drive and Boost - Ultimate Drive with Fuzz Inject,Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
 BoX,Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
-BR Tech,BR-1 Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-BR Tech,Up Scream,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Braking Train Pedals,Frequency Control Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Brantone Electronics,Blue Meanie - Germanium Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Brantone Electronics,Green Manalishi Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Brantone Electronics,Tonemaster Mk1.5 Germanium Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Brantone Electronics,WEM Pepbox - Official Reissue,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Brantone Electronics,Woodstock - Silicon Fuzz Face,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Breakfast Audio,SLAB DISTORTION,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Breakfast Audio,WELTSCHMERZ FUZZ,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Brière Pedals,Distodrive,Distortion / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Brimstone Audio,BL-1 Basilisk,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Brimstone Audio,XD-1 Crossover Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-British Pedal Company,Rangemaster Fuzzbug MkII,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-British Pedal Company,Tone Bender Mk1.5,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-British Pedal Company,Tone Bender MkI,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-British Pedal Company,Tone Bender Professional MkII,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Brotech Electronics,Fatpipe Blues,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Brotech Electronics,Fatpipe Pro,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-BSM,FassBender Fuzz Machine,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-BSM,Overdrive Supreme,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Buffalo FX,CVIII - BC108 Silicon Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Buffalo FX,Evolution - 4 Stage Overdrive/Distortion,Distortion / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Buffalo FX,Fuzz Face Ge,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
-Buffalo FX,Fuzz Face Si,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
+BR Tech,BR-1 Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+BR Tech,Up Scream,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Braking Train Pedals,Frequency Control Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Brantone Electronics,Blue Meanie - Germanium Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Brantone Electronics,Green Manalishi Overdrive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Brantone Electronics,Tonemaster Mk1.5 Germanium Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Brantone Electronics,Woodstock - Silicon Fuzz Face,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Brière Pedals,Distodrive,Distortion / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Brimstone Audio,BL-1 Basilisk,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Brimstone Audio,XD-1 Crossover Distortion,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Brotech Electronics,Fatpipe Blues,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Brotech Electronics,Fatpipe Pro,Distortion,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+BSM,FassBender Fuzz Machine,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+BSM,Overdrive Supreme,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Buffalo FX,CVIII - BC108 Silicon Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Buffalo FX,Evolution - 4 Stage Overdrive/Distortion,Distortion / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Buffalo FX,Fuzz Face Ge,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
+Buffalo FX,Fuzz Face Si,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,3,no usable exact-model image candidate found
 Buffalo FX,M-1 Fuzz,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
 Buffalo FX,Patriot,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found
 Buffalo FX,RH-X Rams Head - NOS BC239c,Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,2,no usable exact-model image candidate found

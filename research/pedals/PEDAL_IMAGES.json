@@ -7837,10 +7837,12 @@
   {
     "builder": "Brantone Electronics",
     "pedal": "WEM Pepbox - Official Reissue",
-    "image": null,
+    "image": "./assets/pedals/brantone-electronics/wem-pepbox-official-reissue/primary.webp",
     "source": null,
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-wem-pepbox-official-reissue.md"
+    "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-wem-pepbox-official-reissue.md",
+    "image_source_url": "https://www.breakthemachine.co.uk/wp-content/themes/btm/public/images/red-grunge-bg.png",
+    "image_source_page": "https://www.breakthemachine.co.uk/brantone-electronics-qa/"
   },
   {
     "builder": "Brantone Electronics",
@@ -7853,18 +7855,22 @@
   {
     "builder": "Breakfast Audio",
     "pedal": "SLAB DISTORTION",
-    "image": null,
+    "image": "./assets/pedals/breakfast-audio/slab-distortion/primary.webp",
     "source": null,
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 115/breakfast-audio-slab-distortion.md"
+    "research_record": "./research/pedals/PRP Batch 115/breakfast-audio-slab-distortion.md",
+    "image_source_url": "http://breakfastaudio.com/cdn/shop/files/DSCF2827fina_5d40302e-68d3-485d-ad39-727934695c23.jpg?v=1745572598",
+    "image_source_page": "https://breakfastaudio.com/products/slab-distortion"
   },
   {
     "builder": "Breakfast Audio",
     "pedal": "WELTSCHMERZ FUZZ",
-    "image": null,
+    "image": "./assets/pedals/breakfast-audio/weltschmerz-fuzz/primary.webp",
     "source": null,
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 115/breakfast-audio-weltschmerz-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 115/breakfast-audio-weltschmerz-fuzz.md",
+    "image_source_url": "http://breakfastaudio.com/cdn/shop/files/weltsz_9f23f3c9-a839-4050-96ba-b07d0bf845ec.jpg?v=1779301315",
+    "image_source_page": "https://breakfastaudio.com/products/weltschmerz-fuzz"
   },
   {
     "builder": "BreakFuzz",
@@ -7939,42 +7945,42 @@
   {
     "builder": "British Pedal Company",
     "pedal": "Rangemaster Fuzzbug MkII",
-    "image": null,
+    "image": "./assets/pedals/british-pedal-company/rangemaster-fuzzbug-mkii/primary.webp",
     "source": null,
     "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
     "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-rangemaster-fuzzbug-mkii.md",
-    "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
+    "image_source_page": "https://www.britishpedalcompany.com/view-product/rangemaster-fuzzbug-mkii",
+    "image_source_url": "https://www.britishpedalcompany.com/images/Rangemaster-Fuzzbug-MKIIe.jpg"
   },
   {
     "builder": "British Pedal Company",
     "pedal": "Tone Bender Mk1.5",
-    "image": null,
+    "image": "./assets/pedals/british-pedal-company/tone-bender-mk1-5/primary.webp",
     "source": null,
     "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
     "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-mk1-5.md",
-    "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
+    "image_source_page": "https://www.britishpedalcompany.com/view-product/mki5-tone-bender",
+    "image_source_url": "https://www.britishpedalcompany.com/images/17413905_800.jpeg"
   },
   {
     "builder": "British Pedal Company",
     "pedal": "Tone Bender MkI",
-    "image": null,
+    "image": "./assets/pedals/british-pedal-company/tone-bender-mki/primary.webp",
     "source": null,
     "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
     "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-mki.md",
-    "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
+    "image_source_page": "https://www.britishpedalcompany.com/view-product/mki-tone-bender",
+    "image_source_url": "https://www.britishpedalcompany.com/images/17413871_800.jpeg"
   },
   {
     "builder": "British Pedal Company",
     "pedal": "Tone Bender Professional MkII",
-    "image": null,
+    "image": "./assets/pedals/british-pedal-company/tone-bender-professional-mkii/primary.webp",
     "source": null,
     "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
     "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-professional-mkii.md",
-    "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
+    "image_source_page": "https://www.britishpedalcompany.com/view-product/professional-mkii-tone-bender-oc81d",
+    "image_source_url": "https://www.britishpedalcompany.com/images/17414098_800.jpeg"
   },
   {
     "builder": "British Pedal Company",
