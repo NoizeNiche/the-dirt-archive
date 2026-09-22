@@ -1,17 +1,11 @@
 name: Cache pedal images
 
 on:
+  # Photo recovery is intentionally cadence-driven. Repository/source edits are
+  # consumed by the next scheduled pass, preventing every small maintenance
+  # commit from creating another browser-heavy Actions job.
   schedule:
     - cron: '*/30 * * * *'
-  push:
-    # Code/workflow changes can start an immediate recovery pass. Research/data
-    # edits are intentionally schedule-driven so source curation can accumulate
-    # without repeatedly cancelling an active browser recovery run.
-    paths:
-      - "scripts/browser-photo-cache.mjs"
-      - "scripts/cache-pedal-images.py"
-      - "scripts/apply-photo-source-overrides.py"
-      - ".github/workflows/cache-pedal-images.yml"
   workflow_dispatch:
 permissions:
   contents: write
