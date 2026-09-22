@@ -3518,10 +3518,11 @@
   {
     "builder": "Bad Cat",
     "pedal": "X-Treme Tone",
-    "image": null,
+    "image": "./assets/pedals/bad-cat/x-treme-tone/primary.webp",
     "source_page": "https://manuzoid.com/manuals/0D5pR-Bad%20Cat%20X-TREME%20TONE%20Operating%20instructions",
     "research_record": "./research/pedals/Bad Cat/X-Treme Tone.md",
-    "image_source_page": "https://reverb.com/p/bad-cat-x-treme-tone-tube-preamp-pedal"
+    "image_source_page": "https://www.clinganguitars.com/en-us/products/77329728-bad-cat-x-treme-tone-tube-preamp-pedal-2000s-black-and-chrome",
+    "image_source_url": "https://www.clinganguitars.com/cdn/shop/files/zmz63gntegtosibmgwuz_600x600_crop_center.jpg?v=1741109845"
   },
   {
     "builder": "Bad Penny FX",

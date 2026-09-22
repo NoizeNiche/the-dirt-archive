@@ -5376,16 +5376,18 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-cat/x-treme-tone/primary.webp",
       "source_page": "https://manuzoid.com/manuals/0D5pR-Bad%20Cat%20X-TREME%20TONE%20Operating%20instructions",
       "research_record": "./research/pedals/Bad Cat/X-Treme Tone.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/badcat/xtremetone",
+      "image_source_page": "https://www.clinganguitars.com/en-us/products/77329728-bad-cat-x-treme-tone-tube-preamp-pedal-2000s-black-and-chrome",
       "image_source_page_verified": true,
-      "image_source_priority": 85,
+      "image_source_priority": 395,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/badcat/xtremetone"
+        "https://www.effectsdatabase.com/model/badcat/xtremetone",
+        "https://www.clinganguitars.com/en-us/products/77329728-bad-cat-x-treme-tone-tube-preamp-pedal-2000s-black-and-chrome"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://www.clinganguitars.com/cdn/shop/files/zmz63gntegtosibmgwuz_600x600_crop_center.jpg?v=1741109845"
     },
     {
       "company": "Bad Penny FX",
@@ -5856,11 +5858,12 @@
       "image": null,
       "source_page": "https://onethousandpedals.com/pedal/baltimore-sonic-research-institute-tfz-the-ultimate-fuzz",
       "research_record": "./research/pedals/Baltimore Sonic Research Institute/TFZ Fuzz.md",
-      "image_source_page": "https://reverb.com/item/96559251-baltimore-sonic-research-institute-tfz",
+      "image_source_page": "https://reverb.com/item/98916760-baltimore-sonic-research-institute-tfz",
       "image_source_page_verified": true,
-      "image_source_priority": 82,
+      "image_source_priority": 397,
       "image_source_pages": [
-        "https://reverb.com/item/96559251-baltimore-sonic-research-institute-tfz"
+        "https://reverb.com/item/96559251-baltimore-sonic-research-institute-tfz",
+        "https://reverb.com/item/98916760-baltimore-sonic-research-institute-tfz"
       ],
       "image_source_pages_verified": true
     },
@@ -6745,11 +6748,12 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bbe/gscreamer",
       "research_record": "./research/pedals/BBE/G Screamer.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bbe/gscreamer",
+      "image_source_page": "https://www.guitarcenter.com/BBE/Used-BBE-G-Screamer-OG1-Gus-G-Signature-Overdrive-Effect-Pedal-121885358.gc",
       "image_source_page_verified": true,
-      "image_source_priority": 87,
+      "image_source_priority": 396,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/bbe/gscreamer"
+        "https://www.effectsdatabase.com/model/bbe/gscreamer",
+        "https://www.guitarcenter.com/BBE/Used-BBE-G-Screamer-OG1-Gus-G-Signature-Overdrive-Effect-Pedal-121885358.gc"
       ],
       "image_source_pages_verified": true
     },
@@ -15127,11 +15131,12 @@
       "image": null,
       "source_page": "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple",
       "research_record": "./research/pedals/PRP Batch 146/cameltone-big-stuff.md",
-      "image_source_page": "https://reverb.com/item/31816216-cameltone-electronics-big-stuff-fuzz-distortion-pedal",
+      "image_source_page": "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple",
       "image_source_page_verified": true,
-      "image_source_priority": 129,
+      "image_source_priority": 394,
       "image_source_pages": [
-        "https://reverb.com/item/31816216-cameltone-electronics-big-stuff-fuzz-distortion-pedal"
+        "https://reverb.com/item/31816216-cameltone-electronics-big-stuff-fuzz-distortion-pedal",
+        "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple"
       ],
       "image_source_pages_verified": true
     },

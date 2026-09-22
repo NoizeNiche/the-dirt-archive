@@ -1,17 +1,22 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
-- Staged browser photos converted: **0**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2807**
-- Researched, photo pending: **262**
+- Remaining tracker photo backlog: **2819**
+- Researched, photo pending: **274**
+- External source images awaiting localization: **13**
 
 ## Storage layout
 
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- Bad Cat - X-Treme Tone -> `./assets/pedals/bad-cat/x-treme-tone/primary.webp`
 
 ## Still external / failed
 

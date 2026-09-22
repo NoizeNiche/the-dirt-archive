@@ -13,7 +13,7 @@ A.Y.A,Bass Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/A.Y.A/Bass Fuzz.md
 A.Y.A,BM-Fuzz 70,Fuzz,DONE,DONE,DONE,./research/pedals/A.Y.A/BM-Fuzz 70.md
 A.Y.A,BM-Fuzz 80,Fuzz,DONE,DONE,DONE,./research/pedals/A.Y.A/BM-Fuzz 80.md
 A.Y.A,Drivesta,Overdrive,DONE,DONE,DONE,./research/pedals/A.Y.A/Drivesta.md
-A.Y.A,Frontgate Bass Drive,Overdrive,DONE,DONE,DONE,./research/pedals/A.Y.A/Frontgate Bass Drive.md
+A.Y.A,Frontgate Bass Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/A.Y.A/Frontgate Bass Drive.md
 A/DA,APP-1 Pedal Preamp with D-Torsion Core,Overdrive,DONE,DONE,DONE,./research/pedals/A/DA/APP-1 Pedal Preamp with D-Torsion Core.md
 A/DA,Final Phase,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/A/DA/Final Phase.md
 A/DA,MP-1 Channel,Overdrive,DONE,DONE,DONE,./research/pedals/A/DA/MP-1 Channel.md
@@ -46,13 +46,13 @@ AC Noises,Urla,Fuzz,DONE,DONE,DONE,./research/pedals/AC Noises/Urla.md
 AC Noises,Vola,Overdrive,DONE,DONE,DONE,./research/pedals/AC Noises/Vola.md
 Accel Audio,OD-SS Express Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Accel Audio/OD-SS Express Overdrive.md
 Accel Audio,Stompzilla Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Accel Audio/Stompzilla Fuzz.md
-Accel Audio,Vintage Scream'in Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Accel Audio/Vintage Scream'in Overdrive.md
+Accel Audio,Vintage Scream'in Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Accel Audio/Vintage Scream'in Overdrive.md
 Acid Age Electronics,Acid Pig - LM308 Distortion Unit,Distortion,DONE,DONE,DONE,./research/pedals/Acid Age Electronics/Acid Pig - LM308 Distortion Unit.md
-Acid Fuzz,Acid Fuzzer MkI,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/Acid Fuzzer MkI.md
+Acid Fuzz,Acid Fuzzer MkI,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Acid Fuzz/Acid Fuzzer MkI.md
 Acid Fuzz,Italian Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/Italian Fuzz.md
 Acid Fuzz,Mk1.5,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/Mk1.5.md
 Acid Fuzz,NKT275 Acid Fuzz Face,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/NKT275 Acid Fuzz Face.md
-Acid Fuzz,Professional MkII,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/Professional MkII.md
+Acid Fuzz,Professional MkII,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Acid Fuzz/Professional MkII.md
 Acid Fuzz,Selmer Buzz Tone,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/Selmer Buzz Tone.md
 Acid Fuzz,Sonic Boom,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/Sonic Boom.md
 Acid Fuzz,The Zoink Machine,Fuzz,DONE,DONE,DONE,./research/pedals/Acid Fuzz/The Zoink Machine.md
@@ -119,7 +119,7 @@ AGR Pedals,OD85 - Full Range Overdrive,Overdrive,DONE,DONE,DONE,./research/pedal
 Aguilar,Agro - Bass Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Aguilar/Agro - Bass Overdrive.md
 Aguilar,Fuzzistor - Bass Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Aguilar/Fuzzistor - Bass Fuzz.md
 Aguilar,Storm King - Micro Bass Distortion/Fuzz,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Aguilar/Storm King - Micro Bass Distortion/Fuzz.md
-Airis Effects,Solar Flare Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Airis Effects/Solar Flare Overdrive.md
+Airis Effects,Solar Flare Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Airis Effects/Solar Flare Overdrive.md
 Airis Effects,The Savage Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Airis Effects/The Savage Drive.md
 AJ Peat,Dirty Buzzard - Overdrive,Fuzz & Distortion,DONE,DONE,DONE,./research/pedals/AJ Peat/Dirty Buzzard - Overdrive.md
 AJ Peat,Fat Peacock - Distortion w/ Boost,Distortion,DONE,DONE,DONE,./research/pedals/AJ Peat/Fat Peacock - Distortion w Boost.md
@@ -188,7 +188,7 @@ Amptweaker,Fat Metal Pro,Distortion,DONE,DONE,DONE,./research/pedals/Amptweaker/
 Amptweaker,Fat Metal Pro II,Distortion,DONE,DONE,DONE,./research/pedals/Amptweaker/Fat_Metal_Pro_II.md
 Amptweaker,Fat Rock,Distortion,DONE,DONE,DONE,./research/pedals/Amptweaker/Fat_Rock.md
 Amptweaker,Tight Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Amptweaker/Tight_Drive.md
-Amptweaker,Tight Drive Jr,Overdrive,DONE,DONE,DONE,./research/pedals/Amptweaker/Tight_Drive_Jr.md
+Amptweaker,Tight Drive Jr,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Amptweaker/Tight_Drive_Jr.md
 Amptweaker,Tight Drive Pro,Overdrive,DONE,DONE,DONE,./research/pedals/Amptweaker/Tight_Drive_Pro.md
 Amptweaker,Tight Metal,Distortion,DONE,DONE,DONE,./research/pedals/Amptweaker/Tight_Metal.md
 Amptweaker,Tight Metal Jr,Distortion,DONE,DONE,DONE,./research/pedals/Amptweaker/Tight_Metal_Jr.md
@@ -298,8 +298,8 @@ Artisanal Effects,Artisanal Cheese (Big Cheese),Fuzz,DONE,DONE,DONE,./research/p
 Artisanal Effects,Cheddar Source,Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 059/Cheddar Source.md
 Ashdown Engineering,John Myung Double Drive,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/PRP Batch 059/John Myung Double Drive.md
 Asheville Guitar Pedals,Fuzz Driver Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 059/Fuzz Driver Distortion.md
-Asheville Guitar Pedals,Purr Machine Mini Fuzz Overdriver,Fuzz,DONE,DONE,DONE,./research/pedals/PRP Batch 059/Purr Machine Mini Fuzz Overdriver.md
-Asheville Guitar Pedals,Rat King,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 059/Rat King.md
+Asheville Guitar Pedals,Purr Machine Mini Fuzz Overdriver,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 059/Purr Machine Mini Fuzz Overdriver.md
+Asheville Guitar Pedals,Rat King,Distortion,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 059/Rat King.md
 Astral ToneWorx,666 The Beast,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 059/666 The Beast.md
 Astral ToneWorx,Krampus — Doom Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/PRP Batch 059/Krampus - Doom Fuzz.md
 Atlas Pedal,Bracton OverDrive,Overdrive,DONE,DONE,DONE,./research/pedals/Atlas Pedal/Bracton OverDrive.md
@@ -403,10 +403,10 @@ B85 Audio,Gut Ripper,Distortion,DONE,DONE,DONE,./research/pedals/B85 Audio/Gut R
 B85 Audio,Hrom - Bass Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/B85 Audio/Hrom - Bass Overdrive.md
 Backbeat Electric,X-Bender,Fuzz,DONE,DONE,DONE,./research/pedals/Backbeat Electric/X-Bender.md
 Bad Cat,2-Tone,Overdrive,DONE,DONE,DONE,./research/pedals/Bad Cat/2-Tone.md
-Bad Cat,X-Treme Tone,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Bad Cat/X-Treme Tone.md
+Bad Cat,X-Treme Tone,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Bad Cat/X-Treme Tone.md
 Bad Penny FX,Morse Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Bad Penny FX/Morse Fuzz.md
 Bad Penny FX,The Fuzz Controller V1,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Bad Penny FX/The Fuzz Controller V1.md
-Bad Penny FX,The Fuzz Controller V2,Fuzz,DONE,DONE,DONE,./research/pedals/Bad Penny FX/The Fuzz Controller V2.md
+Bad Penny FX,The Fuzz Controller V2,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Bad Penny FX/The Fuzz Controller V2.md
 Bad Penny FX,Wireless Germanium Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Bad Penny FX/Wireless Germanium Fuzz.md
 Bad Pixel Pedals,Bad Face Silicon,Fuzz,DONE,DONE,DONE,./research/pedals/Bad Pixel Pedals/Bad Face Silicon.md
 Bad Pixel Pedals,Buzzaround Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Bad Pixel Pedals/Buzzaround Fuzz.md
@@ -427,7 +427,7 @@ BAE Audio,Royaltone Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/BAE Audio/Roy
 Baja Tech Custom,Bone Bender,Fuzz,DONE,DONE,DONE,./research/pedals/Baja Tech Custom/Bone Bender.md
 Baja Tech Custom,DaMOAF Fuzz,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Baja Tech Custom/DaMOAF Fuzz.md
 Baja Tech Custom,Das Fuzz Ge,Fuzz,DONE,DONE,DONE,./research/pedals/Baja Tech Custom/Das Fuzz Ge.md
-Baja Tech Custom,Das Fuzz Si,Fuzz,DONE,DONE,DONE,./research/pedals/Baja Tech Custom/Das Fuzz Si.md
+Baja Tech Custom,Das Fuzz Si,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Baja Tech Custom/Das Fuzz Si.md
 Baja Tech Custom,Top Boost TB-1,Overdrive,DONE,DONE,DONE,./research/pedals/Baja Tech Custom/Top Boost TB-1.md
 Balaguer Guitars,BG-Drive - Preamp/Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Balaguer Guitars/BG-Drive - Preamp/Overdrive.md
 Balaguer Guitars,Fission Drive v2,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Balaguer Guitars/Fission Drive v2.md
@@ -445,7 +445,7 @@ Barbarossa,GARGOYLE,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Barb
 Barbarossa,URANUS,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Barbarossa/URANUS.md
 Barber Electronics,1/2 Gainer,Overdrive,DONE,DONE,DONE,./research/pedals/Barber Electronics/1_2_Gainer.md
 Barber Electronics,B-Custom Cool,Overdrive,DONE,DONE,DONE,./research/pedals/Barber Electronics/B-Custom_Cool.md
-Barber Electronics,B-Custom Dual Discrete,Overdrive,DONE,DONE,DONE,./research/pedals/Barber Electronics/B-Custom_Dual_Discrete.md
+Barber Electronics,B-Custom Dual Discrete,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Barber Electronics/B-Custom_Dual_Discrete.md
 Barber Electronics,B-Custom Super Sport,Overdrive,DONE,DONE,DONE,./research/pedals/Barber Electronics/B-Custom_Super_Sport.md
 Barber Electronics,Burn Unit,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Barber Electronics/Burn_Unit.md
 Barber Electronics,Deep Fryer,Overdrive,DONE,DONE,DONE,./research/pedals/Barber Electronics/Deep_Fryer.md
@@ -514,14 +514,14 @@ BBE,G Screamer,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/BBE/G Screamer.md
 BBE,Green Screamer,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 097/Green Screamer.md
 BearFoot FX,Arctic White Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BearFoot FX/Arctic White Fuzz.md
 BearFoot FX,BlueBerry Bass Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/BearFoot FX/BlueBerry Bass Overdrive.md
-BearFoot FX,Bone Bender MKI Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BearFoot FX/Bone Bender MKI Fuzz.md
+BearFoot FX,Bone Bender MKI Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/BearFoot FX/Bone Bender MKI Fuzz.md
 BearFoot FX,Burgundy BossHorn Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BearFoot FX/Burgundy BossHorn Fuzz.md
 BearFoot FX,Candy Apple Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BearFoot FX/Candy Apple Fuzz.md
 BearFoot FX,Dyna Red Distortion,Distortion,DONE,DONE,DONE,./research/pedals/BearFoot FX/Dyna Red Distortion.md
 BearFoot FX,Emerald Green Distortion Machine,Distortion,DONE,DONE,DONE,./research/pedals/BearFoot FX/Emerald Green Distortion Machine.md
 BearFoot FX,Emerald Green Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/BearFoot FX/Emerald Green Overdrive.md
 BearFoot FX,Honey Bee Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/BearFoot FX/Honey Bee Overdrive.md
-BearFoot FX,Honey Bee Overdrive Plus,Overdrive,DONE,DONE,DONE,./research/pedals/BearFoot FX/Honey Bee Overdrive Plus.md
+BearFoot FX,Honey Bee Overdrive Plus,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/BearFoot FX/Honey Bee Overdrive Plus.md
 BearFoot FX,Honey Beest,Overdrive,DONE,DONE,DONE,./research/pedals/BearFoot FX/Honey Beest.md
 BearFoot FX,Pink Purple Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BearFoot FX/Pink Purple Fuzz.md
 BearFoot FX,Silver Bee Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/BearFoot FX/Silver Bee Overdrive.md
