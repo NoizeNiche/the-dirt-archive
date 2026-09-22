@@ -977,10 +977,16 @@ async function recoverEntry(browser, entry, deepReview = false) {
     if (!selectedResult) {
       const sourcePages = [...new Set([
         sourcePageUsed,
+        // Keep the original research source as a bounded fallback. Older catalog
+        // records can have a better research/source page than their current image
+        // lead, and discarding it made a blocked curated page an unnecessary dead
+        // end.
+        entry.source_page,
+        entry.image_source_page,
         ...ranked
           .filter(candidate => !candidate.searchResult && candidate.sourcePage)
           .map(candidate => candidate.sourcePage)
-      ].filter(Boolean))].slice(0, 3);
+      ].filter(Boolean))].slice(0, 4);
 
       for (const sourcePage of sourcePages) {
         const shot = await screenshotVerifiedSourcePageImage(sourcePage);
