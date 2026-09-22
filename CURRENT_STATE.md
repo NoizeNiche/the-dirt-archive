@@ -215,3 +215,6 @@ Additional exact photo-source redundancy added during the current recovery sweep
 
 
 Cache run 938 completed successfully with 0 new photos and 29 attempted/failed recovery records. This confirms the basic source-page/network extraction path remains reliable but the current difficult cases need the unified rich-image candidate path now staged in `browser-photo-cache.mjs`.
+
+
+Source coverage audit: the first 500 unresolved photo-backlog records contain 197 records without any curated exact-source override row. The remaining covered records have at least one curated source lead. This audit does not change Picture state; it is used to separate source-research gaps from extractor failures.
