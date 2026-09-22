@@ -192,3 +192,14 @@ Latest maintenance commits:
 Maintenance work consolidated the site's under-the-hood ownership model and removed overlapping automation. The public catalog remains the single runtime data source; research records, photo assets, tracker state, and synchronization scripts each have distinct responsibilities.
 
 A stale local photo declaration for **Cause & Effect Pedals (CE Pedals) - FET Dream** exposed the intended behavior: validators now stop deployment rather than silently serving a broken local path, while the photo-recovery system is responsible for repairing or triaging the record.
+
+## Photo source seeding checkpoint - September 22, 2026
+
+Added two more exact-model photo source leads to the curated recovery list:
+- **Accel Audio - OD-SS Express Overdrive** → Effects Database exact model record
+- **Accel Audio - Stompzilla Fuzz** → Effects Database exact model record
+
+These are intentionally still photo-pending. The recovery workflow must archive an actual local image before tracker state can move to DONE.
+
+Current verified gate remains **342 public researched-photo-pending** records. PRP1 stays paused until that count reaches **0**.
+
