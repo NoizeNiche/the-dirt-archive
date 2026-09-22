@@ -5,7 +5,7 @@ on:
   # consumed by the next scheduled pass, preventing every small maintenance
   # commit from creating another browser-heavy Actions job.
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/20 * * * *'
   workflow_dispatch:
   # A single sentinel file provides a controlled manual kick when scheduled
   # GitHub Actions delivery is delayed. Ordinary repository commits remain free
@@ -27,7 +27,7 @@ jobs:
     # Prevent the cache bot from recursively triggering itself from its own commit.
     if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v7
