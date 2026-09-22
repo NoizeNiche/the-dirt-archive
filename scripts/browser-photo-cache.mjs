@@ -889,11 +889,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
     );
 
     if (!selectedResult) {
-      const sourcePages = [...new Set(
-        ranked
+      const sourcePages = [...new Set([
+        sourcePageUsed,
+        ...ranked
           .filter(candidate => !candidate.searchResult && candidate.sourcePage)
           .map(candidate => candidate.sourcePage)
-      )].slice(0, 3);
+      ].filter(Boolean))].slice(0, 3);
 
       for (const sourcePage of sourcePages) {
         const shot = await screenshotVerifiedSourcePageImage(sourcePage);
