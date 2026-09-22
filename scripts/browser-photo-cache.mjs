@@ -695,6 +695,38 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
   return [...merged.values()];
 }
 
+async function effectsDatabaseFeedImageUrls(page, pageUrl) {
+  try {
+    const feedLinks = await page.evaluate(() => {
+      const out = [];
+      for (const el of document.querySelectorAll('a[href]')) {
+        const href = el.href || '';
+        if (!/https?:\/\/[^/]*effectsdatabase\.com\/feed\/model\//i.test(href)) continue;
+        out.push(href.split('#')[0]);
+      }
+      return [...new Set(out)].slice(0, 2);
+    });
+    const urls = new Set();
+    for (const feedUrl of feedLinks) {
+      try {
+        const response = await page.request.get(feedUrl, { timeout: PAGE_TIMEOUT });
+        if (!response.ok()) continue;
+        const body = await response.text();
+        for (const match of body.matchAll(/(?:https?:)?\/\/[^"'\\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\\s<>]*)?/gi)) {
+          let value = match[0];
+          if (value.startsWith('//')) value = 'https:' + value;
+          if (/^https?:\/\//i.test(value) && /files\.effectsdatabase\.com/i.test(value)) {
+            urls.add(value);
+          }
+        }
+      } catch {}
+    }
+    return [...urls].slice(0, 6);
+  } catch {
+    return [];
+  }
+}
+
 async function richSourceImageUrls(page, pageUrl) {
   try {
     return await page.evaluate(() => {
