@@ -212,3 +212,6 @@ Recovery extraction now also reads structured product JSON-LD (`application/ld+j
 
 
 Additional exact photo-source redundancy added during the current recovery sweep: Alen Geere Loverdrive now has a Reverb photo source, Aleatorik Operation 1 has an Aucfree auction-photo source, and A.Y.A FrontGate Bass Drive has a retailer source retained alongside its prior Reverb listing.
+
+
+Cache run 938 completed successfully with 0 new photos and 29 attempted/failed recovery records. This confirms the basic source-page/network extraction path remains reliable but the current difficult cases need the unified rich-image candidate path now staged in `browser-photo-cache.mjs`.
