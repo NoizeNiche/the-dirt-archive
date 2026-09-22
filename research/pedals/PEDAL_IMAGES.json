@@ -1985,9 +1985,11 @@
   {
     "builder": "Analog King",
     "pedal": "Fuzz Machine - Germanium Fuzz + Overdrive",
-    "image": null,
+    "image": "./assets/pedals/analog-king/fuzz-machine-germanium-fuzz-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/analogking/fuzzmachine",
-    "research_record": "./research/pedals/PRP Batch 056/Fuzz Machine - Germanium Fuzz + Overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 056/Fuzz Machine - Germanium Fuzz + Overdrive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/unknown-china_fuzzmachine_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/analogking/fuzzmachine"
   },
   {
     "builder": "Analog King",
@@ -4855,10 +4857,12 @@
   {
     "builder": "Beta Aivin",
     "pedal": "BOD-2 Bass Overdrive",
-    "image": null,
+    "image": "./assets/pedals/beta-aivin/bod-2-bass-overdrive/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.pedalboard.org/strom-liste/beta-aivin",
-    "research_record": "./research/pedals/Beta Aivin/BOD-2 Bass Overdrive.md"
+    "research_record": "./research/pedals/Beta Aivin/BOD-2 Bass Overdrive.md",
+    "image_source_url": "https://www.pedalboard.org/images/headers/pb4.gif",
+    "image_source_page": "https://www.pedalboard.org/strom-liste/beta-aivin"
   },
   {
     "builder": "BFFX Boutique Pedals",

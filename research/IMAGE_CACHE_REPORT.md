@@ -1,17 +1,22 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
-- Staged browser photos converted: **0**
+- Cached in this run: **2**
+- Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2863**
-- Researched, photo pending: **318**
+- Remaining tracker photo backlog: **2861**
+- Researched, photo pending: **316**
 
 ## Storage layout
 
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- Analog King - Fuzz Machine - Germanium Fuzz + Overdrive -> `./assets/pedals/analog-king/fuzz-machine-germanium-fuzz-overdrive/primary.webp`
+- Beta Aivin - BOD-2 Bass Overdrive -> `./assets/pedals/beta-aivin/bod-2-bass-overdrive/primary.webp`
 
 ## Still external / failed
 

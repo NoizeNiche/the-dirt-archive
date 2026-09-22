@@ -1920,12 +1920,13 @@
       "source_page": "https://www.effectsdatabase.com/model/aleatorik/operation/1",
       "research_record": "./research/pedals/Aleatorik/Operation 1.md",
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/aleatorik/operation1"
+        "https://www.effectsdatabase.com/model/aleatorik/operation1",
+        "https://aucfree.com/items/c645005215"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/aleatorik/operation1",
+      "image_source_page": "https://aucfree.com/items/c645005215",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 363
+      "image_source_priority": 394
     },
     {
       "company": "Aleatorik",
@@ -2022,10 +2023,10 @@
         "https://reverb.com/item/11628-alen-geere-loverdrive",
         "https://www.effectsdatabase.com/model/alengeere/loverdrive"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/loverdrive",
+      "image_source_page": "https://reverb.com/item/11628-alen-geere-loverdrive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 364
+      "image_source_priority": 393
     },
     {
       "company": "Alen Geere",
@@ -2987,7 +2988,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/analog-king/fuzz-machine-germanium-fuzz-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/analogking/fuzzmachine",
       "research_record": "./research/pedals/PRP Batch 056/Fuzz Machine - Germanium Fuzz + Overdrive.md",
       "image_source_pages": [
@@ -2996,7 +2997,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/analogking/fuzzmachine",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 381
+      "image_source_priority": 381,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/unknown-china_fuzzmachine_001.jpg"
     },
     {
       "company": "Analog King",
@@ -7241,16 +7243,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/beta-aivin/bod-2-bass-overdrive/primary.webp",
       "source_page": "https://www.pedalboard.org/strom-liste/beta-aivin",
       "research_record": "./research/pedals/Beta Aivin/BOD-2 Bass Overdrive.md",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/betaaivin/200/bod2"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/betaaivin/200/bod2",
+      "image_source_page": "https://www.pedalboard.org/strom-liste/beta-aivin",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 387
+      "image_source_priority": 387,
+      "image_source_url": "https://www.pedalboard.org/images/headers/pb4.gif"
     },
     {
       "company": "BFFX Boutique Pedals",
