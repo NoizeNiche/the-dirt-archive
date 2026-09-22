@@ -870,6 +870,10 @@ async function recoverEntry(browser, entry, deepReview = false) {
     sourceImageCandidates: 0,
     linkedExternalCandidates: 0,
     sourceScreenshotCaptured: false,
+    embeddedCandidates: 0,
+    rawHtmlCandidates: 0,
+    genericRenderAttempts: 0,
+    genericRenderLoads: 0,
     makerFallbackTried: false,
     soldCandidates: 0,
     verifiedSoldCandidates: 0,
@@ -1506,6 +1510,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
         // Keep embedded CDN URLs in the same candidate pool. They come from
         // the already identity-verified page itself, so they remain source-page
         // evidence rather than an unverified search-engine substitution.
+        diagnostic.embeddedCandidates += embeddedImageCandidates.length;
+        diagnostic.rawHtmlCandidates += rawHtmlImageCandidates.length;
         candidates.unshift(...embeddedImageCandidates, ...rawHtmlImageCandidates);
 
         const matches = page.locator('img');
@@ -1811,6 +1817,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
               };
             }, candidate.url).catch(() => null);
             if ((capture?.width || 0) >= 220 && (capture?.height || 0) >= 220) {
+              diagnostic.genericRenderLoads += 1;
               const node = page.locator('[data-dirt-archive-embedded-capture="1"]').first();
               const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
               await page.evaluate(() => document.querySelector('[data-dirt-archive-embedded-capture="1"]')?.remove()).catch(() => {});
@@ -1836,6 +1843,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
           renderedCandidateUrls.add(candidate.url);
           if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel)/i.test(candidate.url)) continue;
           try {
+            diagnostic.genericRenderAttempts += 1;
             const capture = await page.evaluate(async src => {
               document.querySelector('[data-dirt-archive-generic-capture="1"]')?.remove();
               const img = document.createElement('img');
