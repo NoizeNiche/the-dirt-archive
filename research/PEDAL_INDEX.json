@@ -10332,7 +10332,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackouteffectors/a-seriously-special-twosome/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special/seriously",
       "research_record": "./research/pedals/PRP Batch 101/A Seriously Special Twosome.md",
       "image_source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special/seriously",
@@ -10341,7 +10341,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/blackout/twosome/special/seriously"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/blackout_twosome-seriously-special_001.jpg"
     },
     {
       "company": "BlackOutEffectors",

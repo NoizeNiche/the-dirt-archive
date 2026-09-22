@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
-- Staged browser photos converted: **2**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2815**
-- Researched, photo pending: **270**
+- Remaining tracker photo backlog: **2814**
+- Researched, photo pending: **269**
 - External source images awaiting localization: **13**
 
 ## Storage layout
@@ -16,8 +16,7 @@
 
 ## Newly cached
 
-- Bob Burt Cabinets & Pedals - Bob Burt AH-1 Allen Hinds Signature Distortion -> `./assets/pedals/bob-burt-cabinets-pedals/bob-burt-ah-1-allen-hinds-signature-distortion/primary.webp`
-- Bob Burt Cabinets & Pedals - Bob Burt Overdrive -> `./assets/pedals/bob-burt-cabinets-pedals/bob-burt-overdrive/primary.webp`
+- BlackOutEffectors - A Seriously Special Twosome -> `./assets/pedals/blackouteffectors/a-seriously-special-twosome/primary.webp`
 
 ## Still external / failed
 
