@@ -1427,6 +1427,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
             .slice(0, 12);
         }, { pedalPhrase, pedalTokens, builderTokens });
 
+        // Keep embedded CDN URLs in the same candidate pool. They come from
+        // the already identity-verified page itself, so they remain source-page
+        // evidence rather than an unverified search-engine substitution.
+        candidates.unshift(...embeddedImageCandidates);
+
         const matches = page.locator('img');
         const count = await matches.count();
         const backgroundMatches = page.locator('[style*="background-image"], [data-background], [data-bg], [data-background-image]');
@@ -1695,6 +1700,53 @@ async function recoverEntry(browser, entry, deepReview = false) {
               }
             } catch {}
           }
+        }
+
+        // Some source pages expose a valid exact image URL in rendered HTML
+        // without a matching DOM <img>. Render those embedded URLs inside the
+        // verified page context and capture the image element directly.
+        for (const candidate of candidates) {
+          if (!candidate.embeddedImage) continue;
+          try {
+            const capture = await page.evaluate(async src => {
+              document.querySelector('[data-dirt-archive-embedded-capture="1"]')?.remove();
+              const img = document.createElement('img');
+              img.setAttribute('data-dirt-archive-embedded-capture', '1');
+              img.src = src;
+              img.alt = '';
+              img.style.position = 'fixed';
+              img.style.left = '8px';
+              img.style.top = '8px';
+              img.style.zIndex = '2147483647';
+              img.style.maxWidth = 'calc(100vw - 16px)';
+              img.style.maxHeight = 'calc(100vh - 16px)';
+              img.style.width = 'auto';
+              img.style.height = 'auto';
+              img.style.objectFit = 'contain';
+              img.style.background = '#fff';
+              document.body.appendChild(img);
+              await new Promise(resolve => {
+                if (img.complete) return resolve();
+                img.addEventListener('load', resolve, { once: true });
+                img.addEventListener('error', resolve, { once: true });
+                setTimeout(resolve, 2500);
+              });
+              return {
+                width: Number(img.naturalWidth) || 0,
+                height: Number(img.naturalHeight) || 0
+              };
+            }, candidate.url).catch(() => null);
+            if ((capture?.width || 0) >= 220 && (capture?.height || 0) >= 220) {
+              const node = page.locator('[data-dirt-archive-embedded-capture="1"]').first();
+              const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+              await page.evaluate(() => document.querySelector('[data-dirt-archive-embedded-capture="1"]')?.remove()).catch(() => {});
+              if (bytes && bytes.length >= 3000) {
+                return { bytes, src: candidate.url };
+              }
+            } else {
+              await page.evaluate(() => document.querySelector('[data-dirt-archive-embedded-capture="1"]')?.remove()).catch(() => {});
+            }
+          } catch {}
         }
 
         // Capture the exact DOM element that was scored above. Gallery hydration
