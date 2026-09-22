@@ -40,8 +40,11 @@ jobs:
         run: |
           RESEARCHED_PHOTO_PENDING=$(python - <<'PY'
           import csv
+          import json
           from pathlib import Path
 
+          catalog_data = json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8")).get("pedals", [])
+          catalog_by_key = {(p.get("company"), p.get("pedal")): p for p in catalog_data}
           tracker_path = Path("research/PRP_TRACKER.csv")
           tracker = list(csv.DictReader(tracker_path.open(newline="", encoding="utf-8")))
           pending = 0
