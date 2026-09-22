@@ -75,12 +75,36 @@ function builderRows(){
   return [...map.entries()].sort((a,b)=>a[0].localeCompare(b[0]));
 }
 
+function searchScore(x){
+  if(!q)return 0;
+  const needle=q.toLowerCase();
+  const pedal=x.pedal.toLowerCase();
+  const company=x.company.toLowerCase();
+  const variation=(variationSearchText.get(entryKey(x))||'');
+  if(company===needle)return 0;
+  if(pedal===needle)return 1;
+  if(company.startsWith(needle))return 2;
+  if(pedal.startsWith(needle))return 3;
+  if(company.includes(needle))return 4;
+  if(pedal.includes(needle))return 5;
+  if(variation.includes(needle))return 6;
+  return 99;
+}
+
 function filteredItems(){
-  return items.filter(x=>
+  const result=items.filter(x=>
     typeMatches(x)&&
     (!selectedBuilder||x.company===selectedBuilder)&&
     searchMatches(x)
   );
+  if(!q)return result;
+  return result.sort((a,b)=>{
+    const rank=searchScore(a)-searchScore(b);
+    if(rank)return rank;
+    const pedalRank=a.pedal.localeCompare(b.pedal);
+    if(pedalRank)return pedalRank;
+    return a.company.localeCompare(b.company);
+  });
 }
 
 function renderTypeMenu(){
