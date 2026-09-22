@@ -35,7 +35,8 @@ function contextIndexUrl(){
 }
 
 function renderPageNav(items,currentItem=null){
-  const builders=[...new Set(items.filter(isCatalogEntry).map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
+  const scopedItems=items.filter(x=>isCatalogEntry(x)&&(!wantedType || (x.types||[]).includes(wantedType)));
+  const builders=[...new Set(scopedItems.map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
   const currentTypes=new Set(currentItem?.types||[]);
   const search=$('pageSearch');
   if(search){
@@ -60,7 +61,8 @@ function renderPageNav(items,currentItem=null){
     builders.map(name=>{
       const url=contextIndexUrl();
       url.searchParams.set('builder',name);
-      return '<a class="pageBuilderLink '+(name===wantedBuilder?'active':'')+'" href="'+url.href+'">'+esc(name)+'<strong>'+items.filter(x=>isCatalogEntry(x)&&x.company===name).length+'</strong></a>';
+      const count=scopedItems.filter(x=>x.company===name).length;
+      return '<a class="pageBuilderLink '+(name===wantedBuilder?'active':'')+'" href="'+url.href+'">'+esc(name)+'<strong>'+count+'</strong></a>';
     }).join('');
 }
 
