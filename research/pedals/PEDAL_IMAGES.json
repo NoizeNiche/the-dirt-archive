@@ -6308,11 +6308,12 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "Crown of Horns",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/crown-of-horns/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.blackartstoneworks.com/pedal/crown-of-horns/",
     "research_record": "./research/pedals/PRP Batch 094/Crown of Horns.md",
-    "image_source_page": "https://www.blackartstoneworks.com/pedal/crown-of-horns/"
+    "image_source_page": "https://www.blackartstoneworks.com/pedal/crown-of-horns/",
+    "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/10/coh1.jpg"
   },
   {
     "builder": "Black Arts Toneworks",

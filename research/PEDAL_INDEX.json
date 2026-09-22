@@ -9482,17 +9482,18 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-arts-toneworks/crown-of-horns/primary.webp",
       "source_page": "https://www.blackartstoneworks.com/pedal/crown-of-horns/",
       "research_record": "./research/pedals/PRP Batch 094/Crown of Horns.md",
-      "image_source_page": "https://www.guitarcenter.com/Used/Black-Arts-Toneworks/Used-Black-Arts-Toneworks-CROWN-OF-HORNS-Effect-Pedal-121985344.gc",
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/crown-of-horns/",
       "image_source_page_verified": true,
       "image_source_priority": 408,
       "image_source_pages": [
         "https://www.blackartstoneworks.com/pedal/crown-of-horns/",
         "https://www.guitarcenter.com/Used/Black-Arts-Toneworks/Used-Black-Arts-Toneworks-CROWN-OF-HORNS-Effect-Pedal-121985344.gc"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/10/coh1.jpg"
     },
     {
       "company": "Black Arts Toneworks",

@@ -4,8 +4,8 @@
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **12**
-- Remaining tracker photo backlog: **2813**
-- Researched, photo pending: **268**
+- Remaining tracker photo backlog: **2812**
+- Researched, photo pending: **267**
 - External source images awaiting localization: **12**
 
 ## Storage layout
@@ -16,7 +16,7 @@
 
 ## Newly cached
 
-- A.Y.A - Frontgate Bass Drive -> `./assets/pedals/a-y-a/frontgate-bass-drive/primary.webp`
+- Black Arts Toneworks - Crown of Horns -> `./assets/pedals/black-arts-toneworks/crown-of-horns/primary.webp`
 
 ## Still external / failed
 
