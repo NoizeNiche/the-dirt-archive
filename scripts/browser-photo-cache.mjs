@@ -979,12 +979,26 @@ async function recoverEntry(browser, entry, deepReview = false) {
           }
           return urls.filter(Boolean);
         });
-        const richImageData = await richSourceImageUrls(page, pageUrl);
-        const legacyFeedImages = /([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname)
-          ? await effectsDatabaseFeedImageUrls(page, pageUrl)
-          : [];
+        // Some WordPress/product pages expose the real product photo only
+        // as an href or JSON/media URL in the raw HTML, while the hydrated DOM
+        // contains no usable <img>. Harvest bounded image-like URLs from the
+        // exact verified page and score likely product/media paths above generic
+        // theme assets.
+        const rawHtmlImageData = [];
+        try {
+          const html = (await page.content()).replace(/\\\//g, '/');
+          const rawUrls = [
+            ...html.matchAll(/https?:\/\/[^"'\s<>]+/gi)
+          ].map(m => m[0].replace(/&amp;/g, '&'))
+            .filter((url, index, urls) => urls.indexOf(url) === index)
+            .filter(url => /\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?$/i.test(url))
+            .filter(url => !/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|layer\d+|weblogo)/i.test(url))
+            .filter(url => /(?:wp-content\/uploads|upload|media|product|pedal|image|photo|gallery|cdn|cloudinary|shopify)/i.test(url))
+            .slice(0, 20);
+          for (const url of rawUrls) rawHtmlImageData.push(url);
+        } catch {}
 
-        for (const raw of [...imageData, ...richImageData, ...legacyFeedImages]) {
+        for (const raw of [...imageData, ...richImageData, ...legacyFeedImages, ...rawHtmlImageData]) {
           for (const part of raw.split(/\s+/)) {
             if (/^https?:/i.test(part)) {
               candidates.push({ url: part, sourcePage: pageUrl, sourceScore: 90 });
