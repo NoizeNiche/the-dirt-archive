@@ -224,3 +224,7 @@ Seeded five additional exact recovery leads with photographic trails: Aul Instru
 ## Tracker reconciliation checkpoint - September 22, 2026
 
 The live PRP tracker now parses to 3,819 records, 1,274 researched, 952 pictured, 322 researched-photo-pending, and 952 PRP-complete. The headline recovery counts in CURRENT_STATE.md were synchronized to these live tracker values. AMT Electronics BS British Sound was added as an exact source lead from its model-specific Effects Database record.
+
+## Recovery-engine hardening checkpoint - September 22, 2026
+
+The resumed photo-cache lane exposed two parser defects in the newly added HTTP fallback. Both were repaired. The cache workflow now includes `node --check scripts/browser-photo-cache.mjs` before Chromium recovery begins. A bounded corrected recovery run 935 is active. Manufacturer-backed exact leads were also added for Audiostorm ADNA, F258 Drive, Otherworld Overdrive, and BlackOutEffectors Blunderbuss Musket, with Bigfoot Engineering Bigfoot Germanium EQ Fuzz already queued from its manufacturer page.
