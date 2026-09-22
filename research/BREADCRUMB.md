@@ -252,3 +252,7 @@ Run 936 successfully archived Analog Sound Smooth O' Drive as a verified local W
 ## Cache run 937 checkpoint - September 22, 2026
 
 Run 937 successfully archived Anarchy Audio Australia Deadwoods - Chainsaw Fuzz as a verified local WebP. The committed tracker now shows 956 pictured and 318 researched-photo-pending. The active source set includes upgraded maker/retailer leads for Lenore and FrontGate BassDrive plus the expanded lazy-image extraction path.
+
+## Structured-data recovery checkpoint - September 22, 2026
+
+The browser photo extractor was expanded to recover product images from `application/ld+json` structured data, including Product image/contentUrl/thumbnailUrl fields. Product name, brand, model, and description are carried into the same scoring system, followed by the existing exact-model identity and image-content verification before any local cache is accepted.
