@@ -11680,11 +11680,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/boulevard/bdt-10-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boulevard/bdt10",
       "research_record": "./research/pedals/PRP Batch 114/bdt-10-distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/boulevard/bdt10",
-      "image_source_url": "https://www.effectsdatabase.com/model/boulevard/bdt10",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/boulevard_bdt10_002.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 185,
       "image_source_pages": [
@@ -15406,16 +15406,17 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/carella-guitars/real-tube/primary.webp",
       "source_page": "https://recnmix.accordo.it/article/viewPub/4430?co=1",
       "research_record": "./research/pedals/PRP Batch 148/carella-guitars-real-tube.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carella/realtube",
+      "image_source_page": "https://www.effectsdatabase.com/model/fryette/sas",
       "image_source_page_verified": true,
       "image_source_priority": 171,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/carella/realtube"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/fryette_sas-namm2011_001.jpg"
     },
     {
       "company": "Carl Martin",
@@ -16214,11 +16215,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cat-sound/classic/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/catsound/classic",
       "research_record": "./research/pedals/PRP Batch 154/cat-sound-classic.md",
       "image_source_page": "https://www.effectsdatabase.com/model/catsound/classic",
-      "image_source_url": "https://www.effectsdatabase.com/model/catsound/classic",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/catsound_classic_001.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 163,
       "image_source_pages": [
@@ -16250,11 +16251,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cat-sound/drivecenter/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/catsound/drivecenter",
       "research_record": "./research/pedals/PRP Batch 154/cat-sound-drivecenter.md",
       "image_source_page": "https://www.effectsdatabase.com/model/catsound/drivecenter",
-      "image_source_url": "https://www.effectsdatabase.com/model/catsound/drivecenter",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/catsound_drivecenter_001.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 165,
       "image_source_pages": [

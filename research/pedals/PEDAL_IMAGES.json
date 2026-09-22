@@ -7696,12 +7696,12 @@
   {
     "builder": "Boulevard",
     "pedal": "BDT-10 Distortion",
-    "image": null,
+    "image": "./assets/pedals/boulevard/bdt-10-distortion/primary.webp",
     "source": null,
     "source_page": "https://www.effectsdatabase.com/model/boulevard/bdt10",
     "research_record": "./research/pedals/PRP Batch 114/bdt-10-distortion.md",
     "image_source_page": "https://www.effectsdatabase.com/model/boulevard/bdt10",
-    "image_source_url": "https://www.effectsdatabase.com/model/boulevard/bdt10"
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/boulevard_bdt10_002.jpg"
   },
   {
     "builder": "Boulevard",
@@ -10220,10 +10220,11 @@
   {
     "builder": "Carella Guitars",
     "pedal": "Real Tube",
-    "image": null,
+    "image": "./assets/pedals/carella-guitars/real-tube/primary.webp",
     "source_page": "https://recnmix.accordo.it/article/viewPub/4430?co=1",
     "research_record": "./research/pedals/PRP Batch 148/carella-guitars-real-tube.md",
-    "image_source_page": "https://recnmix.accordo.it/article/viewPub/4430?co=1"
+    "image_source_page": "https://www.effectsdatabase.com/model/fryette/sas",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/fryette_sas-namm2011_001.jpg"
   },
   {
     "builder": "Carl Martin",
@@ -10738,11 +10739,11 @@
   {
     "builder": "CAT Sound",
     "pedal": "Classic",
-    "image": null,
+    "image": "./assets/pedals/cat-sound/classic/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/catsound/classic",
     "research_record": "./research/pedals/PRP Batch 154/cat-sound-classic.md",
     "image_source_page": "https://www.effectsdatabase.com/model/catsound/classic",
-    "image_source_url": "https://www.effectsdatabase.com/model/catsound/classic"
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/catsound_classic_001.jpg"
   },
   {
     "builder": "CAT Sound",
@@ -10756,11 +10757,11 @@
   {
     "builder": "CAT Sound",
     "pedal": "DriveCenter",
-    "image": null,
+    "image": "./assets/pedals/cat-sound/drivecenter/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/catsound/drivecenter",
     "research_record": "./research/pedals/PRP Batch 154/cat-sound-drivecenter.md",
     "image_source_page": "https://www.effectsdatabase.com/model/catsound/drivecenter",
-    "image_source_url": "https://www.effectsdatabase.com/model/catsound/drivecenter"
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/catsound_drivecenter_001.jpg"
   },
   {
     "builder": "CAT Sound",

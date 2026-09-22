@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
-- Staged browser photos converted: **2**
+- Cached in this run: **4**
+- Staged browser photos converted: **4**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2839**
-- Researched, photo pending: **294**
+- Remaining tracker photo backlog: **2835**
+- Researched, photo pending: **290**
 
 ## Storage layout
 
@@ -15,8 +15,10 @@
 
 ## Newly cached
 
-- Buffalo FX - M-1 Fuzz -> `./assets/pedals/buffalo-fx/m-1-fuzz/primary.webp`
-- Buffalo FX - Patriot -> `./assets/pedals/buffalo-fx/patriot/primary.webp`
+- Boulevard - BDT-10 Distortion -> `./assets/pedals/boulevard/bdt-10-distortion/primary.webp`
+- CAT Sound - Classic -> `./assets/pedals/cat-sound/classic/primary.webp`
+- CAT Sound - DriveCenter -> `./assets/pedals/cat-sound/drivecenter/primary.webp`
+- Carella Guitars - Real Tube -> `./assets/pedals/carella-guitars/real-tube/primary.webp`
 
 ## Still external / failed
 
