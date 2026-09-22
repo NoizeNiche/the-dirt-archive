@@ -653,13 +653,14 @@
       "image": "https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg",
       "source_page": "https://reverb.com/item/35379122-acid-fuzz-acid-fuzzer-mki-mini-tone-bender",
       "research_record": "./research/pedals/Acid Fuzz/Acid Fuzzer MkI.md",
-      "image_source_page": "https://www.acidfuzz.com/pages/acid-fuzzer-mki",
+      "image_source_page": "https://reverb.com/au/item/35379122-acid-fuzz-acid-fuzzer-mki-mini-tone-bender",
       "image_source_pages": [
-        "https://www.acidfuzz.com/pages/acid-fuzzer-mki"
+        "https://www.acidfuzz.com/pages/acid-fuzzer-mki",
+        "https://reverb.com/au/item/35379122-acid-fuzz-acid-fuzzer-mki-mini-tone-bender"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 275
+      "image_source_priority": 403
     },
     {
       "company": "Acid Fuzz",
@@ -3908,13 +3909,14 @@
       "image": "https://rvb-img.reverb.com/i/s--oiUsZm4Y--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kh1kb9chvjin9p3ov8d3.jpg",
       "source_page": "https://reverb.com/item/85723050-1-of-10-purr-minis-hand-made-asheville-guitar-pedals-purr-machine-mini-2024",
       "research_record": "./research/pedals/PRP Batch 059/Purr Machine Mini Fuzz Overdriver.md",
-      "image_source_page": "https://www.avlguitarpedals.com/",
+      "image_source_page": "https://reverb.com/item/93803593-asheville-guitar-pedals-purr-machine-mini-original-pink",
       "image_source_pages": [
-        "https://www.avlguitarpedals.com/"
+        "https://www.avlguitarpedals.com/",
+        "https://reverb.com/item/93803593-asheville-guitar-pedals-purr-machine-mini-original-pink"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 282
+      "image_source_priority": 405
     },
     {
       "company": "Asheville Guitar Pedals",
@@ -8683,11 +8685,12 @@
       "image": null,
       "source_page": "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome",
       "research_record": "./research/pedals/PRP Batch 088/Proxy.md",
-      "image_source_page": "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome",
+      "image_source_page": "https://reverb.com/ca/item/43700024-proxy-v2-beatles-vox-ul730-overdrive-with-vox-conqueror-mid-boost-switch",
       "image_source_page_verified": true,
-      "image_source_priority": 23,
+      "image_source_priority": 401,
       "image_source_pages": [
-        "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome"
+        "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome",
+        "https://reverb.com/ca/item/43700024-proxy-v2-beatles-vox-ul730-overdrive-with-vox-conqueror-mid-boost-switch"
       ],
       "image_source_pages_verified": true
     },
@@ -9898,11 +9901,12 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 097/OD-Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackcat/odfuzz",
+      "image_source_page": "https://reverb.com/p/black-cat-od-fuzz",
       "image_source_page_verified": true,
-      "image_source_priority": 1,
+      "image_source_priority": 404,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/blackcat/odfuzz"
+        "https://www.effectsdatabase.com/model/blackcat/odfuzz",
+        "https://reverb.com/p/black-cat-od-fuzz"
       ],
       "image_source_pages_verified": true
     },
@@ -10086,11 +10090,12 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md",
-      "image_source_page": "https://reverb.com/item/77950001-black-hawk-basilisk-fuzz-black",
+      "image_source_page": "https://reverb.com/item/87246180-blackhawk-amplifiers-basilisk-fuzz-pedal-beebaa",
       "image_source_page_verified": true,
-      "image_source_priority": 4,
+      "image_source_priority": 402,
       "image_source_pages": [
-        "https://reverb.com/item/77950001-black-hawk-basilisk-fuzz-black"
+        "https://reverb.com/item/77950001-black-hawk-basilisk-fuzz-black",
+        "https://reverb.com/item/87246180-blackhawk-amplifiers-basilisk-fuzz-pedal-beebaa"
       ],
       "image_source_pages_verified": true
     },
