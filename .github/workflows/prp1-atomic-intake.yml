@@ -42,12 +42,30 @@ jobs:
           import csv
           from pathlib import Path
 
-          tracker = list(csv.DictReader(Path("research/PRP_TRACKER.csv").open(newline="", encoding="utf-8")))
-          pending = sum(
-              1
-              for row in tracker
-              if row.get("Pedal Info") == "DONE" and row.get("Picture") != "DONE"
-          )
+          tracker_path = Path("research/PRP_TRACKER.csv")
+          tracker = list(csv.DictReader(tracker_path.open(newline="", encoding="utf-8")))
+          pending = 0
+          for row in tracker:
+              if row.get("Pedal Info") != "DONE":
+                  continue
+              image = row.get("Picture") == "DONE"
+              # A completed picture must resolve to an archived local asset.
+              # External URLs are provenance only and must never open the PRP1 gate.
+              catalog = row.get("Pedal")
+              if not image:
+                  pending += 1
+                  continue
+              match = next(
+                  (
+                      p for p in json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8")).get("pedals", [])
+                      if p.get("company") == row.get("Builder") and p.get("pedal") == catalog
+                  ),
+                  None,
+              )
+              image_path = str((match or {}).get("image") or "")
+              local_path = Path(image_path[2:] if image_path.startswith("./") else image_path)
+              if not image_path or image_path.lower().startswith(("http://", "https://")) or not local_path.is_file():
+                  pending += 1
           print(pending)
           PY
           )
