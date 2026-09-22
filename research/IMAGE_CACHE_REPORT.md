@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
-- Staged browser photos converted: **2**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2825**
-- Researched, photo pending: **280**
+- Remaining tracker photo backlog: **2824**
+- Researched, photo pending: **279**
 
 ## Storage layout
 
@@ -15,8 +15,7 @@
 
 ## Newly cached
 
-- Casey Gooby - Organ Donor -> `./assets/pedals/casey-gooby/organ-donor/primary.webp`
-- Cave Passive Pedals - Blue Juice -> `./assets/pedals/cave-passive-pedals/blue-juice/primary.webp`
+- Carl Martin - DC-Drive -> `./assets/pedals/carl-martin/dc-drive/primary.webp`
 
 ## Still external / failed
 

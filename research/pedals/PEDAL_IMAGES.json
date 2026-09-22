@@ -10242,10 +10242,11 @@
   {
     "builder": "Carl Martin",
     "pedal": "DC-Drive",
-    "image": null,
+    "image": "./assets/pedals/carl-martin/dc-drive/primary.webp",
     "source_page": "https://carlmartin.com/products/dc-drive/",
     "research_record": "./research/pedals/PRP Batch 149/carl-martin-dc-drive.md",
-    "image_source_page": "https://carlmartin.com/products/dc-drive/"
+    "image_source_page": "https://carlmartin.com/products/dc-drive/",
+    "image_source_url": "https://carlmartin.com/wp-content/uploads/2026/01/dcdrive-hotspot.jpg"
   },
   {
     "builder": "Carl Martin",
