@@ -264,3 +264,7 @@ Added/confirmed exact photo-source redundancy for Alen Geere Loverdrive (Reverb)
 ## Cache run 938 diagnostic checkpoint - September 22, 2026
 
 Run 938 completed successfully but recovered 0 of 29 attempted records. No tracker fields changed and the photo backlog remained 2,863 total with 318 deep-review researched-photo records. The next recovery cycle will exercise the unified rich-image direct-fetch path plus JSON-LD extraction.
+
+## Source coverage audit checkpoint - September 22, 2026
+
+The first 500 unresolved photo-backlog records were compared against the curated exact-source override table. 197 records currently lack an override row. This establishes a measurable source-research gap for future work while keeping photo status unchanged until exact local assets are verified. Override table size at this checkpoint: 396 data rows.
