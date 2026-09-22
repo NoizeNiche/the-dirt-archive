@@ -206,3 +206,6 @@ Public pedal pages hide **Research confidence** and **Sources checked**. A futur
 
 
 Latest verified cache gain: run 937 archived Anarchy Audio Australia Deadwoods - Chainsaw Fuzz, bringing the researched-photo-pending count to 318. Exact-source redundancy was added for Aether Lenore and A.Y.A FrontGate BassDrive, and the lazy-image extractor hardening remains active.
+
+
+Recovery extraction now also reads structured product JSON-LD (`application/ld+json`) image/contentUrl/thumbnailUrl fields, carrying product identity into the same candidate scoring and final image validation. This layer is intentionally additive and does not mark a record pictured without a verified local image.
