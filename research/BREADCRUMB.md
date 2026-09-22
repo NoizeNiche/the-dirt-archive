@@ -209,3 +209,7 @@ The browser photo-recovery engine now accepts browser-network image candidates b
 
 The change is committed on main and remains subordinate to the existing rule: a source lead is not a pictured record until a real local canonical asset is archived.
 
+## Exact photo-lead checkpoint - September 22, 2026
+
+Seeded six exact recovery leads from model-specific documentation: AJcustom Distortion, Alber FU-1000, Alber GA-1040 Gain, Alcove ALP-200 Overdrive, Aleatorik Operation 1, and Alen Geere Loverdrive. These are source leads only; the archive does not treat any of them as pictured until the recovery pipeline archives a confirmed local asset.
+
