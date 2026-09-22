@@ -104,6 +104,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           python scripts/sync-prp-tracker.py
           python scripts/sync-photo-backlog.py
+          python scripts/refresh-image-cache-report.py
           git add assets/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
           if git diff --cached --quiet; then
             echo "No image cache changes to commit."
