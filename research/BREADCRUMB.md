@@ -2,6 +2,8 @@
 
 The public detail page carries the current pedal's dirt-type context into its sidebar, the landing page has a one-click **Clear filters** control, and pagination/search state remains URL-aware.
 
+The latest scheduled hourly site-health run exposed a JavaScript test-scope defect in the variation canary: the canary was declared inside the data-integrity function but referenced by the browser-check function. The defect is fixed in commit `1157aa4e4affdeebf48713c0d33d6bdeee3f9018`, and the archive validation workflow passed for that commit. The corrected hourly health monitor still needs its next scheduled or manual run before its live-browser canary result is considered verified.
+
 Two recovery/runtime defects found during this maintenance pass are now repaired:
 - scripts/browser-photo-cache.mjs had been accidentally truncated during the pedal-name identity update. It was restored from the immediately preceding full recovery engine and the intended compact-identity matching change was reapplied.
 - A small group of older research records stores literal escaped \\n sequences. The detail-page research loader now normalizes that representation at the loading boundary so those records render as markdown without rewriting the underlying archive files.
