@@ -224,3 +224,6 @@ Health-lane maintenance: The hourly health workflow now also runs on pushes to i
 
 
 Cache run 939 result: 2 additional verified local photos were archived, Analog King Fuzz Machine - Germanium Fuzz + Overdrive and Beta Aivin BOD-2 Bass Overdrive, moving the researched-photo-pending gate from 318 to 316. The unified rich-image extractor is now proven in production recovery. New Blackhawk Triangle, Alen Geere Loverdrive, and Aleatorik Operation 1 exact-source leads are staged for the next cycle.
+
+
+Latest maintenance additions: Blackhawk Triangle Fuzz now has an exact Reverb photo lead with multiple actual pedal photos, and the health workflow now serializes canaries with cancel-in-progress so stale health runs do not overlap newer repairs. The committed photo gate remains 316 pending after run 939.
