@@ -295,8 +295,13 @@ async function browserCheck(liveUrl, pedals, canaries) {
     async function detail(item, expectPhoto) {
       await page.goto(liveUrl+'/pedal-detail.html?builder='+encodeURIComponent(item.company)+'&pedal='+encodeURIComponent(item.pedal)+'&health='+Date.now(),{waitUntil:'domcontentloaded',timeout:30000});
       await page.waitForFunction(()=>{const r=document.querySelector('#record');return r&&!r.hidden},null,{timeout:10000});
+      await page.waitForFunction(()=>{
+        const r=document.querySelector('#research');
+        const t=(r?.textContent||'').trim();
+        return t.length>=40 || /could not be loaded|has not been added yet/i.test(t);
+      },null,{timeout:15000});
       const info=await page.locator('#research').textContent();
-      if(!info || /loading pedal information|could not be loaded/i.test(info) || info.trim().length<40) throw new Error(`Pedal Info failed: ${item.company} / ${item.pedal}`);
+      if(!info || /could not be loaded/i.test(info) || info.trim().length<40) throw new Error(`Pedal Info failed: ${item.company} / ${item.pedal}`);
       if(expectPhoto){
         const img=page.locator('#photoBox img');
         if(await img.count()!==1) throw new Error(`Photo element missing: ${item.company} / ${item.pedal}`);
