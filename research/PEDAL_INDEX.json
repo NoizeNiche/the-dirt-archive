@@ -1633,7 +1633,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ajcustom/distortion",
-      "research_record": "./research/pedals/AJcustom/Distortion.md"
+      "research_record": "./research/pedals/AJcustom/Distortion.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/ajcustom/distortion"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/ajcustom/distortion",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 348
     },
     {
       "company": "Akai",
@@ -1873,7 +1880,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/alcove/alp200",
-      "research_record": "./research/pedals/Alcove/ALP-200 Overdrive.md"
+      "research_record": "./research/pedals/Alcove/ALP-200 Overdrive.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/alcove/alp200"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/alcove/alp200",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 352
     },
     {
       "company": "Alden",
@@ -1895,7 +1909,14 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/aleatorik/operation/1",
-      "research_record": "./research/pedals/Aleatorik/Operation 1.md"
+      "research_record": "./research/pedals/Aleatorik/Operation 1.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/aleatorik/operation1"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/aleatorik/operation1",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 353
     },
     {
       "company": "Aleatorik",
@@ -2156,7 +2177,14 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 047/Magic Drive.md"
+      "research_record": "./research/pedals/PRP Batch 047/Magic Drive.md",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/alienrabbit/magicdrive"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/alienrabbit/magicdrive",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 349
     },
     {
       "company": "All-Pedal",
@@ -2605,7 +2633,15 @@
       ],
       "image": null,
       "source_page": "https://amsterdamcream.com/post/74580352500/big-eye-fuzz",
-      "research_record": "./research/pedals/PRP Batch 049/Big Eye Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 049/Big Eye Fuzz.md",
+      "image_source_pages": [
+        "https://amsterdamcream.com/post/74580352500/big-eye-fuzz",
+        "https://reverb.com/uk/item/65960922-amsterdam-cream-big-eye-fuzz"
+      ],
+      "image_source_page": "https://reverb.com/uk/item/65960922-amsterdam-cream-big-eye-fuzz",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 351
     },
     {
       "company": "Amsterdam Cream",
@@ -11949,8 +11985,14 @@
       "image": null,
       "source_page": "https://www.brotechelectronics.com/effbox/Fatpipe%20manual%202016_08_30.pdf",
       "research_record": "./research/pedals/PRP Batch 118/brotech-electronics-fatpipe-blues.md",
-      "image_source_page": "https://www.brotechelectronics.com/effbox/Fatpipe%20manual%202016_08_30.pdf",
-      "image_source_url": "https://www.brotechelectronics.com/effbox/Fatpipe%20manual%202016_08_30.pdf"
+      "image_source_page": "https://www.brotechelectronics.com/",
+      "image_source_url": "https://www.brotechelectronics.com/effbox/Fatpipe%20manual%202016_08_30.pdf",
+      "image_source_pages": [
+        "https://www.brotechelectronics.com/"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 354
     },
     {
       "company": "Brotech Electronics",
@@ -12806,11 +12848,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/buffalo-fx/fuzz-face-si/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si",
       "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-fuzz-face-si.md",
       "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si",
-      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/buffalofx_fuzzface-si_001.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 296,
       "image_source_pages": [

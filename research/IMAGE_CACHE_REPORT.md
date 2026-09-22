@@ -1,10 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **9**
-- Staged browser photos converted: **9**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2877**
+- Remaining tracker photo backlog: **2868**
+- Researched, photo pending: **323**
 
 ## Storage layout
 
@@ -14,15 +15,7 @@
 
 ## Newly cached
 
-- AC Efectos - Triplex Distortion -> `./assets/pedals/ac-efectos/triplex-distortion/primary.webp`
-- AGR Pedals - Cuervo Muerto - Silicon Fuzz Bender -> `./assets/pedals/agr-pedals/cuervo-muerto-silicon-fuzz-bender/primary.webp`
-- AGR Pedals - OD85 - Full Range Overdrive -> `./assets/pedals/agr-pedals/od85-full-range-overdrive/primary.webp`
-- Absolutely Analog - Ratzo -> `./assets/pedals/absolutely-analog/ratzo/primary.webp`
-- Add+ Pedals - Ratortion 2 -> `./assets/pedals/add-pedals/ratortion-2/primary.webp`
-- Addrock Musical Products - Not So Ol' Yeller -> `./assets/pedals/addrock-musical-products/not-so-ol-yeller/primary.webp`
-- Advance Tube Technology - Boost Cat Drive -> `./assets/pedals/advance-tube-technology/boost-cat-drive/primary.webp`
-- Advance Tube Technology - Virus Drive -> `./assets/pedals/advance-tube-technology/virus-drive/primary.webp`
-- Alber - GA-104 Gain -> `./assets/pedals/alber/ga-104-gain/primary.webp`
+- Buffalo FX - Fuzz Face Si -> `./assets/pedals/buffalo-fx/fuzz-face-si/primary.webp`
 
 ## Still external / failed
 

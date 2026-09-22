@@ -8688,10 +8688,10 @@
   {
     "builder": "Buffalo FX",
     "pedal": "Fuzz Face Si",
-    "image": null,
+    "image": "./assets/pedals/buffalo-fx/fuzz-face-si/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si",
     "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-fuzz-face-si.md",
-    "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/buffalofx_fuzzface-si_001.jpg",
     "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si"
   },
   {
