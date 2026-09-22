@@ -1035,6 +1035,60 @@ async function recoverEntry(browser, entry, deepReview = false) {
 
         diagnostic.sourceImageCandidates += candidates.filter(x => x.sourcePage === pageUrl).length;
 
+        // A successful browser navigation can still be a challenge/placeholder
+        // document with no usable image DOM. In that case, fetch the exact,
+        // already-verified source page through Playwright's request context and
+        // harvest raw HTML media URLs, including relative WordPress/media links
+        // and escaped JSON URLs. This fallback must stay scoped to the verified
+        // source page so it cannot introduce an unrelated image.
+        if (candidates.filter(x => x.sourcePage === pageUrl).length === 0) {
+          try {
+            const response = await page.request.get(pageUrl, { timeout: PAGE_TIMEOUT });
+            const type = (response.headers()['content-type'] || '').toLowerCase();
+            if (response.ok() && (!type || type.includes('text/html'))) {
+              const rawHtml = (await response.text())
+                .replace(/\\\//g, '/')
+                .replace(/\\u002f/gi, '/')
+                .replace(/\\x2f/gi, '/');
+              const rawSet = new Set();
+              const addRaw = value => {
+                if (!value || typeof value !== 'string') return;
+                const normalized = value.replace(/&amp;/g, '&').trim();
+                if (!normalized || normalized.startsWith('data:')) return;
+                try {
+                  const url = /^https?:/i.test(normalized)
+                    ? normalized
+                    : new URL(normalized, pageUrl).href;
+                  if (/^https?:/i.test(url)) rawSet.add(url);
+                } catch {}
+              };
+
+              for (const match of rawHtml.matchAll(/<(?:img|source|a)\\b[^>]*(?:src|href|data-src|data-full-src|data-original|data-image|data-image-url|srcset)=["']([^"']+)["'][^>]*>/gi)) {
+                for (const part of match[1].split(/\\s*,\\s*|\\s+/)) addRaw(part.replace(/\\s+\\d+(?:\\.\\d+)?w$/, ''));
+              }
+              for (const match of rawHtml.matchAll(/<meta\\b[^>]*(?:property|name)=["'](?:og:image|twitter:image)["'][^>]*content=["']([^"']+)["'][^>]*>/gi)) addRaw(match[1]);
+              for (const match of rawHtml.matchAll(/(?:https?:)?\\/\\/[^"'\\s<>]+/gi)) {
+                const candidate = match[0].startsWith('//') ? 'https:' + match[0] : match[0];
+                if (/\\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\\s<>]*)?$/i.test(candidate) ||
+                    /(?:wp-content\\/uploads|upload|media|product|pedal|image|photo|gallery|cdn|cloudinary|shopify)/i.test(candidate)) {
+                  addRaw(candidate);
+                }
+              }
+
+              for (const url of [...rawSet].slice(0, 40)) {
+                candidates.push({
+                  url,
+                  sourcePage: pageUrl,
+                  sourceScore: 115,
+                  rawResponseImage: true
+                });
+              }
+              diagnostic.rawHtmlCandidates += rawSet.size;
+              diagnostic.sourceImageCandidates += rawSet.size;
+            }
+          } catch {}
+        }
+
         if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname) && deepReview) {
           const linked = await linkedExactSourceCandidates(page, entry, pageUrl, true);
           diagnostic.linkedExternalCandidates += linked.length;
