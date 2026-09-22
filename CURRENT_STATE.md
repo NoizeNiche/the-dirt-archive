@@ -1,3 +1,15 @@
+## Current recovery checkpoint - September 22, 2026
+
+The canonical tracker currently parses to **3,819 total records / 3,818 public records / 1,274 researched records / 931 pictured records / 342 public researched-photo-pending records / 2,887 public photo-missing records**. One additional tracker record is the non-public identity placeholder used by the archive workflow.
+
+The photo-recovery queue currently contains **343 records**. The automatic lane remains gated only by the researched-photo-pending count, so **PRP1 stays paused until that count reaches 0**.
+
+Recent cache passes archived additional verified local pedal images, and the current recovery workflow continues to use curated exact source pages before broader discovery. The latest source-page maintenance added exact photo-source leads for Brantone Electronics Green Manalishi Overdrive, Brantone Electronics Woodstock - Silicon Fuzz Face, Buffalo FX CVIII - BC108 Silicon Fuzz, Buffalo FX Fuzz Face Si, Buffalo FX Tonebender Mk3, and CatastroFX Deface Mk.III.
+
+The public detail pages continue to hide Research confidence and Sources checked. The future YouTube demo widget remains deferred until the photo catch-up is complete.
+
+---
+
 ## Public-site and recovery checkpoint - September 22, 2026
 
 The public detail page carries the current pedal's dirt-type context into its sidebar, the landing page has a one-click **Clear filters** control, and pagination/search state remains URL-aware.
