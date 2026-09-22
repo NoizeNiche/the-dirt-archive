@@ -2,6 +2,8 @@ const detailParams = new URLSearchParams(location.search);
 const wantedBuilder = detailParams.get('builder') || '';
 const wantedPedal = detailParams.get('pedal') || '';
 let wantedVariation = detailParams.get('variation') || '';
+let wantedType = detailParams.get('type') || '';
+if(!ARCHIVE_DIRT_TYPES.includes(wantedType))wantedType='';
 
 function restoreReturnLink(){
   const link=document.querySelector('.back');
@@ -26,6 +28,12 @@ function restoreReturnLink(){
   link.textContent='← Back to the archive';
 }
 
+function contextIndexUrl(){
+  const url=new URL('./index.html',location.href);
+  if(wantedType)url.searchParams.set('type',wantedType);
+  return url;
+}
+
 function renderPageNav(items,currentItem=null){
   const builders=[...new Set(items.filter(isCatalogEntry).map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
   const currentTypes=new Set(currentItem?.types||[]);
@@ -40,7 +48,7 @@ function renderPageNav(items,currentItem=null){
       location.href=url.href;
     };
   }
-  const types=[['All','All Pedals'],['Overdrive','Overdrive'],['Distortion','Distortion'],['Fuzz','Fuzz']];
+  const types=ARCHIVE_DIRT_TYPES.map(t=>[t,t==='All'?'All Pedals':t]);
   $('pageTypeMenu').innerHTML=types.map(([t,label])=>{
     const url=new URL('./index.html',location.href);
     if(t!=='All')url.searchParams.set('type',t);
@@ -48,9 +56,9 @@ function renderPageNav(items,currentItem=null){
     return '<a class="pageTypeLink '+(active?'active':'')+'" href="'+url.href+'"'+(active?' aria-current="page"':'')+'>'+label+'</a>';
   }).join('');
   $('pageBuilders').innerHTML=
-    '<a class="pageBuilderLink '+(!wantedBuilder?'active':'')+'" href="./index.html">All builders<strong>'+builders.length+'</strong></a>'+
+    '<a class="pageBuilderLink '+(!wantedBuilder?'active':'')+'" href="'+contextIndexUrl().href+'">All builders<strong>'+builders.length+'</strong></a>'+
     builders.map(name=>{
-      const url=new URL('./index.html',location.href);
+      const url=contextIndexUrl();
       url.searchParams.set('builder',name);
       return '<a class="pageBuilderLink '+(name===wantedBuilder?'active':'')+'" href="'+url.href+'">'+esc(name)+'<strong>'+items.filter(x=>isCatalogEntry(x)&&x.company===name).length+'</strong></a>';
     }).join('');
@@ -154,7 +162,7 @@ function renderVersions(item, versions){
     const media=v.image
       ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+label)+'" loading="lazy" referrerpolicy="no-referrer">'
       : '<span>No Photo Archived</span>';
-    return '<a class="variantCard" href="'+detailUrl(v)+'">'+
+    return '<a class="variantCard" href="'+detailUrl(v, null, wantedType)+'">'+
       '<span class="variantThumb">'+media+'</span><span class="variantName">'+esc(label)+'</span>'+
     '</a>';
   }).join('');
@@ -277,7 +285,7 @@ loadCatalog()
     researchEl.innerHTML='<p>Pedal information has not been added yet.</p>';
   }
 
-  const link=new URL('./index.html',location.href);
+  const link=contextIndexUrl();
   link.searchParams.set('builder',item.company);
   $('builderLink').href=link.href;
 })

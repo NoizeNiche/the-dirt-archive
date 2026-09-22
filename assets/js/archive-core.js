@@ -28,11 +28,12 @@ function isCatalogEntry(entry) {
   return entry?.catalog_role !== 'variation';
 }
 
-function detailUrl(entry, variation) {
+function detailUrl(entry, variation, type) {
   const url = new URL('./pedal-detail.html', location.href);
   url.searchParams.set('builder', entry.company);
   url.searchParams.set('pedal', entry.pedal);
   if (variation) url.searchParams.set('variation', variation);
+  if (type && ARCHIVE_DIRT_TYPES.includes(type) && type !== 'All') url.searchParams.set('type', type);
   return url.href;
 }
 

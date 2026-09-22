@@ -52,7 +52,7 @@ function readUrlState(){
   $('search').value=q;
 }
 
-function slugParams(x){ return detailUrl(x); }
+function slugParams(x){ return detailUrl(x, null, selectedType); }
 
 function typeMatches(x){
   return selectedType==='All'||x.types.includes(selectedType)
