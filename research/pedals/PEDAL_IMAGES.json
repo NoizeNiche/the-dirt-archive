@@ -1806,10 +1806,12 @@
   {
     "builder": "AMT Electronics",
     "pedal": "M-1 JM-800",
-    "image": null,
+    "image": "./assets/pedals/amt-electronics/m-1-jm-800/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/m1",
     "research_record": "./research/pedals/PRP Batch 049/M-1 JM-800.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://api.tone3000.com/storage/v1/object/public/images/dn5hresmais.jpg",
+    "image_source_page": "https://www.tone3000.com/tones/amt-m1-preamp-27834"
   },
   {
     "builder": "AMT Electronics",
@@ -2244,9 +2246,11 @@
   {
     "builder": "Anasounds",
     "pedal": "savage",
-    "image": null,
+    "image": "./assets/pedals/anasounds/savage/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Anasounds/savage.md"
+    "research_record": "./research/pedals/Anasounds/savage.md",
+    "image_source_url": "https://anasounds.com/wp-content/uploads/2017/07/Anasounds_savage_mkII-1209x1209.jpg",
+    "image_source_page": "https://anasounds.com/produit/savage/"
   },
   {
     "builder": "Animal Factory Amplification",
@@ -2724,9 +2728,11 @@
   {
     "builder": "Audile",
     "pedal": "TOAD - Tone Overdrive And Distortion",
-    "image": null,
+    "image": "./assets/pedals/audile/toad-tone-overdrive-and-distortion/primary.webp",
     "source_page": "https://audile.au/toad/",
-    "research_record": "./research/pedals/Audile/TOAD - Tone Overdrive And Distortion.md"
+    "research_record": "./research/pedals/Audile/TOAD - Tone Overdrive And Distortion.md",
+    "image_source_url": "https://audile.au/wp-content/uploads/2025/06/Tadpole-Productoin-01-min-1024x768.png",
+    "image_source_page": "https://audile.au/toad/"
   },
   {
     "builder": "Audio Aesthetic",
@@ -3317,9 +3323,11 @@
   {
     "builder": "Axtar",
     "pedal": "DIS-5 Distortion",
-    "image": null,
+    "image": "./assets/pedals/axtar/dis-5-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/axtar/dst5",
-    "research_record": "./research/pedals/Axtar/DIS-5 Distortion.md"
+    "research_record": "./research/pedals/Axtar/DIS-5 Distortion.md",
+    "image_source_url": "https://img.audiofanzine.com/images/u/product/normal/axtar-dis-5-282490.jpg",
+    "image_source_page": "https://fr.audiofanzine.com/distorsion-guitare/axtar/dis-5/"
   },
   {
     "builder": "Azor",

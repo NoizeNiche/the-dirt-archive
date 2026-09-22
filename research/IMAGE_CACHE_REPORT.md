@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
-- Staged browser photos converted: **0**
+- Cached in this run: **4**
+- Staged browser photos converted: **4**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
 - Remaining tracker photo backlog: **2905**
@@ -11,6 +11,13 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- AMT Electronics - M-1 JM-800 -> `./assets/pedals/amt-electronics/m-1-jm-800/primary.webp`
+- Anasounds - savage -> `./assets/pedals/anasounds/savage/primary.webp`
+- Audile - TOAD - Tone Overdrive And Distortion -> `./assets/pedals/audile/toad-tone-overdrive-and-distortion/primary.webp`
+- Axtar - DIS-5 Distortion -> `./assets/pedals/axtar/dis-5-distortion/primary.webp`
 
 ## Still external / failed
 
