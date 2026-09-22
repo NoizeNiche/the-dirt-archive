@@ -926,7 +926,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
           const phraseCompact = pedalPhrase.replace(/\s+/g, '');
           const rows = [];
 
-          for (const img of document.querySelectorAll('img')) {
+          for (const [imgIndex, img] of [...document.querySelectorAll('img')].entries()) {
             const src =
               img.currentSrc ||
               img.src ||
@@ -996,7 +996,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
               exactPhrase,
               tokenHits,
               altHits,
-              builderHits
+              builderHits,
+              elementIndex: imgIndex
             });
           }
 
@@ -1004,7 +1005,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
           // actual product photograph as an image link without rendering a
           // corresponding <img> node. Treat image-file anchors as candidates,
           // using the surrounding link/card text for exact-model scoring.
-          for (const link of document.querySelectorAll('a[href]')) {
+          for (const [linkIndex, link] of [...document.querySelectorAll('a[href]')].entries()) {
             const href = link.href || '';
             if (!/^https?:/i.test(href) || !/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(href)) continue;
             const text = String(link.textContent || '').replace(/\s+/g, ' ').trim();
@@ -1028,7 +1029,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
               tokenHits,
               altHits: 0,
               builderHits,
-              linkedImage: true
+              linkedImage: true,
+              linkIndex
             });
           }
 
@@ -1044,25 +1046,19 @@ async function recoverEntry(browser, entry, deepReview = false) {
 
         const matches = page.locator('img');
         const count = await matches.count();
+        const linkMatches = page.locator('a[href]');
+        const linkCount = await linkMatches.count();
 
-        // Try the best semantic matches first. If a lazy image has not loaded yet,
-        // scrolling its element into view gives the page another chance to hydrate
-        // the actual pedal photo before capture.
+        // Capture the exact DOM element that was scored above. Gallery hydration
+        // can replace currentSrc/src after scrolling, so re-matching on the old
+        // URL can silently discard a perfectly good exact-model photo.
         for (const candidate of candidates) {
-          for (let i = 0; i < count; i++) {
-            const img = matches.nth(i);
-            const currentSrc = await img.evaluate(el =>
-              el.currentSrc ||
-              el.src ||
-              el.getAttribute('data-src') ||
-              el.getAttribute('data-lazy-src') ||
-              el.getAttribute('data-original') ||
-              ''
-            ).catch(() => '');
-            if (currentSrc !== candidate.src) continue;
-
+          if (Number.isInteger(candidate.elementIndex) &&
+              candidate.elementIndex >= 0 &&
+              candidate.elementIndex < count) {
+            const img = matches.nth(candidate.elementIndex);
             await img.scrollIntoViewIfNeeded().catch(() => {});
-            await page.waitForTimeout(180);
+            await page.waitForTimeout(220);
 
             const bytes = await img.screenshot({ type: 'png' }).catch(() => null);
             if (bytes && bytes.length >= 3000) {
@@ -1071,14 +1067,20 @@ async function recoverEntry(browser, entry, deepReview = false) {
           }
 
           // Some archive/database pages expose the exact photograph only as an
-          // image-file anchor. The direct URL may block our request even though
-          // Chromium can render the linked asset, so capture the link itself as
-          // a final bounded fallback for candidates we explicitly discovered.
+          // image-file anchor. Chromium may render the linked asset even when a
+          // direct HTTP request is blocked, so capture that exact anchor.
           if (candidate.linkedImage) {
-            const link = page.locator('a[href="' + candidate.src.replace(/"/g, '\"') + '"]').first();
-            if (await link.count()) {
+            let link = null;
+            if (Number.isInteger(candidate.linkIndex) &&
+                candidate.linkIndex >= 0 &&
+                candidate.linkIndex < linkCount) {
+              link = linkMatches.nth(candidate.linkIndex);
+            } else {
+              link = page.locator('a[href="' + candidate.src.replace(/"/g, '\"') + '"]').first();
+            }
+            if (link && await link.count()) {
               await link.scrollIntoViewIfNeeded().catch(() => {});
-              await page.waitForTimeout(180);
+              await page.waitForTimeout(220);
               const linkBytes = await link.screenshot({ type: 'png' }).catch(() => null);
               if (linkBytes && linkBytes.length >= 3000) {
                 return { bytes: linkBytes, src: candidate.src };
@@ -1086,9 +1088,6 @@ async function recoverEntry(browser, entry, deepReview = false) {
             }
           }
         }
-      } catch {}
-      return null;
-    }
     // First trust only candidates discovered on the already-verified source page.
     let selectedResult = await tryImages(
       ranked.filter(candidate => !candidate.searchResult)
