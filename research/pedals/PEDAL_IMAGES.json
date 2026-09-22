@@ -3067,9 +3067,11 @@
   {
     "builder": "Automat Audio Devices",
     "pedal": "Rara Avis",
-    "image": null,
+    "image": "./assets/pedals/automat-audio-devices/rara-avis/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/automat/raraavis",
-    "research_record": "./research/pedals/Automat Audio Devices/Rara Avis.md"
+    "research_record": "./research/pedals/Automat Audio Devices/Rara Avis.md",
+    "image_source_url": "https://tonewolf.com/cdn/shop/files/automat-rara-avis-fuzz-pedal-2025-black-4_1200x1200.jpg?v=1763763259",
+    "image_source_page": "https://tonewolf.com/products/automat-rara-avis-fuzz-pedal-2025-black"
   },
   {
     "builder": "Automat Audio Devices",
@@ -3166,9 +3168,11 @@
   {
     "builder": "AWOL Pedals",
     "pedal": "Virus Fuzz",
-    "image": null,
+    "image": "./assets/pedals/awol-pedals/virus-fuzz/primary.webp",
     "source_page": "https://awolpedals.com/products/virus-fuzz",
-    "research_record": "./research/pedals/AWOL Pedals/Virus Fuzz.md"
+    "research_record": "./research/pedals/AWOL Pedals/Virus Fuzz.md",
+    "image_source_url": "https://awolpedals.com/cdn/shop/files/IMG-1935_470x.png?v=1736884655",
+    "image_source_page": "https://awolpedals.com/products/virus-fuzz"
   },
   {
     "builder": "Axcess by Giannini",
@@ -3259,9 +3263,11 @@
   {
     "builder": "AXiom Effects",
     "pedal": "Fuzz Preamp FP-1",
-    "image": null,
+    "image": "./assets/pedals/axiom-effects/fuzz-preamp-fp-1/primary.webp",
     "source_page": "https://axiomeffects.com/products/fuzz-preamp-fp-1",
-    "research_record": "./research/pedals/AXiom Effects/Fuzz Preamp FP-1.md"
+    "research_record": "./research/pedals/AXiom Effects/Fuzz Preamp FP-1.md",
+    "image_source_url": "https://axiomeffects.com/cdn/shop/files/DSCN6696_360x.jpg?v=1747336452",
+    "image_source_page": "https://axiomeffects.com/products/fuzz-preamp-fp-1"
   },
   {
     "builder": "AXiom Effects",
@@ -5792,10 +5798,11 @@
   {
     "builder": "BIXONIC",
     "pedal": "EXP2000DR",
-    "image": null,
+    "image": "./assets/pedals/bixonic/exp2000dr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 097/EXP2000DR.md",
-    "image_source_page": "https://bixonic-sound.com/products/exp2000dr"
+    "image_source_page": "https://bixonic-sound.com/products/exp2000dr",
+    "image_source_url": "http://bixonic-sound.com/cdn/shop/files/exp2000dr_07.jpg?v=1768892489"
   },
   {
     "builder": "Biyang",

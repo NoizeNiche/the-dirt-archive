@@ -4,7 +4,7 @@
 - Staged browser photos converted: **4**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2905**
+- Remaining tracker photo backlog: **2901**
 
 ## Storage layout
 
@@ -14,10 +14,10 @@
 
 ## Newly cached
 
-- AMT Electronics - M-1 JM-800 -> `./assets/pedals/amt-electronics/m-1-jm-800/primary.webp`
-- Anasounds - savage -> `./assets/pedals/anasounds/savage/primary.webp`
-- Audile - TOAD - Tone Overdrive And Distortion -> `./assets/pedals/audile/toad-tone-overdrive-and-distortion/primary.webp`
-- Axtar - DIS-5 Distortion -> `./assets/pedals/axtar/dis-5-distortion/primary.webp`
+- AWOL Pedals - Virus Fuzz -> `./assets/pedals/awol-pedals/virus-fuzz/primary.webp`
+- AXiom Effects - Fuzz Preamp FP-1 -> `./assets/pedals/axiom-effects/fuzz-preamp-fp-1/primary.webp`
+- Automat Audio Devices - Rara Avis -> `./assets/pedals/automat-audio-devices/rara-avis/primary.webp`
+- BIXONIC - EXP2000DR -> `./assets/pedals/bixonic/exp2000dr/primary.webp`
 
 ## Still external / failed
 
