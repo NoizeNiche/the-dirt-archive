@@ -1,10 +1,10 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **2**
+- Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2880**
+- Remaining tracker photo backlog: **2879**
 
 ## Storage layout
 
@@ -14,7 +14,8 @@
 
 ## Newly cached
 
-- Backbeat Electric - X-Bender -> `./assets/pedals/backbeat-electric/x-bender/primary.webp`
+- Audiostorm - Grand Classic Distortion -> `./assets/pedals/audiostorm/grand-classic-distortion/primary.webp`
+- Bad Cat - 2-Tone -> `./assets/pedals/bad-cat/2-tone/primary.webp`
 
 ## Still external / failed
 

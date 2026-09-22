@@ -2971,9 +2971,11 @@
   {
     "builder": "Audiostorm",
     "pedal": "Grand Classic Distortion",
-    "image": null,
+    "image": "./assets/pedals/audiostorm/grand-classic-distortion/primary.webp",
     "source_page": "https://audiostorm.uk/product/grand-classic/",
-    "research_record": "./research/pedals/Audiostorm/Grand Classic Distortion.md"
+    "research_record": "./research/pedals/Audiostorm/Grand Classic Distortion.md",
+    "image_source_url": "https://allaboutguitar.co.uk/wp-content/uploads/2025/04/GrandClassic1600-02.jpg",
+    "image_source_page": "https://allaboutguitar.co.uk/audiostorm-grand-classic-distortion-pedal/"
   },
   {
     "builder": "Audiostorm",
@@ -3477,9 +3479,11 @@
   {
     "builder": "Bad Cat",
     "pedal": "2-Tone",
-    "image": null,
+    "image": "./assets/pedals/bad-cat/2-tone/primary.webp",
     "source_page": "https://www.soundpure.com/p/bad-cat-2-tone-foot-pedal/2423",
-    "research_record": "./research/pedals/Bad Cat/2-Tone.md"
+    "research_record": "./research/pedals/Bad Cat/2-Tone.md",
+    "image_source_url": "https://www.soundpure.com/resources/org.apache.wicket.Application/productImage?id=2423-Bad_Cat_2_Tone_Foot_Pedal-1273d0f94a4-0-large.jpg",
+    "image_source_page": "https://www.soundpure.com/p/bad-cat-2-tone-foot-pedal/2423"
   },
   {
     "builder": "Bad Cat",
