@@ -3621,7 +3621,8 @@
       ],
       "image": null,
       "source_page": "https://audile.au/toad/",
-      "research_record": "./research/pedals/Audile/TOAD - Tone Overdrive And Distortion.md"
+      "research_record": "./research/pedals/Audile/TOAD - Tone Overdrive And Distortion.md",
+      "image_source_page": "https://audile.au/toad/"
     },
     {
       "company": "Audio Aesthetic",
@@ -4022,7 +4023,8 @@
       ],
       "image": null,
       "source_page": "https://www.effects-pedals.info/p/aural-dream-purely-fuzz/",
-      "research_record": "./research/pedals/Aural Dream/Purely Fuzz.md"
+      "research_record": "./research/pedals/Aural Dream/Purely Fuzz.md",
+      "image_source_page": "https://reverb.com/item/45635025-aural-dream-purely-fuzz"
     },
     {
       "company": "Aural Dream",
@@ -11933,7 +11935,8 @@
       ],
       "image": null,
       "source_page": "https://bulinskipedals.com/shop/deluxe-velociraptor-diode-bass-fuzz/",
-      "research_record": "./research/pedals/PRP Batch 132/deluxe-velociraptor-diode-bass-fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 132/deluxe-velociraptor-diode-bass-fuzz.md",
+      "image_source_page": "https://reverb.com/item/64820122-bulinski-effect-pedals-deluxe-velociraptor-diode-bass-fuzz-2022-gloss-brown"
     },
     {
       "company": "Bulinski Effect Pedals",
@@ -12231,7 +12234,8 @@
       ],
       "image": null,
       "source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
-      "research_record": "./research/pedals/PRP Batch 135/byw-blacky-blower.md"
+      "research_record": "./research/pedals/PRP Batch 135/byw-blacky-blower.md",
+      "image_source_page": "https://bywaudio.com/index.php/product/blacky-blower/"
     },
     {
       "company": "BYW Audio",
@@ -12241,7 +12245,8 @@
       ],
       "image": null,
       "source_page": "https://bywaudio.com/index.php/product/gros-buzz/",
-      "research_record": "./research/pedals/PRP Batch 135/byw-gros-buzz.md"
+      "research_record": "./research/pedals/PRP Batch 135/byw-gros-buzz.md",
+      "image_source_page": "https://bywaudio.com/index.php/product/gros-buzz/"
     },
     {
       "company": "BZZT Electronics",
@@ -14839,7 +14844,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 160/cave-b-drive-grunt.md"
+      "research_record": "./research/pedals/PRP Batch 160/cave-b-drive-grunt.md",
+      "image_source_page": "https://www.talkbass.com/threads/cave-passive-pedal-tour-box.884581/"
     },
     {
       "company": "Cave Passive Pedals",

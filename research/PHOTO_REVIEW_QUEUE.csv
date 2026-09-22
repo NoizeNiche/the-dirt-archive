@@ -1,14 +1,19 @@
 Builder,Pedal,Catalog Type,Status,Attempts,Last Failure
-AboveGroundFX,Rocks Hard,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Absolutely Analog,Ratzo,,DEEP_REVIEW,1,no usable exact-model image candidate found
-AC Efectos,Triplex Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Accel Audio,OD-SS Express Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Accel Audio,Stompzilla Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Add+ Pedals,Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Add+ Pedals,Great White,,DEEP_REVIEW,1,no usable exact-model image candidate found
-ADV Systems,#distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Alber,GA-1040 Gain,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Analog Sound,The Boogie Man,,DEEP_REVIEW,1,no usable exact-model image candidate found
+A&M Custom Effects,Crash Central - Crunch Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+A&M Custom Effects,Crazyboy - Double Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+A&M Custom Effects,Metal Maniac - Mega Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+A&M Custom Effects,Twin Pro - Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Advance Tube Technology,Boost Cat Drive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+AGR Pedals,Cuervo Muerto - Silicon Fuzz Bender,,DEEP_REVIEW,1,no usable exact-model image candidate found
+AGR Pedals,DS2610 - Vintage Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+AGR Pedals,OD85 - Full Range Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+AJcustom,Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Alber,FU-1000P,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Alber,GA-104 Gain,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Aleatorik,Operation 1,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Alen Geere,Crown Centaur,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Alien Amplification,Origami Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Alien Rabbit,Magic Drive,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Anasounds,savage,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Audile,TOAD - Tone Overdrive And Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Audio Matrix,Mini Boogee / Mini Matrix,,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -82,7 +87,17 @@ Cave Passive Pedals,The Wasp MkII,,DEEP_REVIEW,1,no usable exact-model image can
 Caveman Audio / Skrydstrup,ODR2,,DEEP_REVIEW,1,no usable exact-model image candidate found
 CBC Pedals,Ampeg Scrambler,,DEEP_REVIEW,1,no usable exact-model image candidate found
 CBC Pedals,Foxx Tone Machine,,DEEP_REVIEW,1,no usable exact-model image candidate found
+AboveGroundFX,Rocks Hard,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Absolutely Analog,Ratzo,,DEEP_REVIEW,2,no usable exact-model image candidate found
+AC Efectos,Triplex Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Accel Audio,OD-SS Express Overdrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Accel Audio,Stompzilla Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Add+ Pedals,Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Add+ Pedals,Great White,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Add+ Pedals,Ratortion 2,,DEEP_REVIEW,2,no usable exact-model image candidate found
+ADV Systems,#distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Alber,GA-1040 Gain,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Analog Sound,The Boogie Man,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Audio Monk,Fuzzbeard,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Audio Monk,Fuzzpotion - Bass Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Audio Squared,Major Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
@@ -307,11 +322,11 @@ Barber Electronics,LTD SR,,DEEP_REVIEW,5,no usable exact-model image candidate f
 Barber Electronics,Midnight Standard,,DEEP_REVIEW,5,no usable exact-model image candidate found
 Barber Electronics,Pepsiman,,DEEP_REVIEW,5,no usable exact-model image candidate found
 BBE,G Screamer,,DEEP_REVIEW,5,no usable exact-model image candidate found
-AXiom Effects,Distortion Preamp DP-1,,DEEP_REVIEW,6,no usable exact-model image candidate found
-AXiom Effects,Overdrive Preamp OP-1,,DEEP_REVIEW,6,no usable exact-model image candidate found
-Axis Guitar Effects,Axis Face MkII,,DEEP_REVIEW,6,no usable exact-model image candidate found
-Axcess by Giannini,BD-108 Blues Drive,,DEEP_REVIEW,7,no usable exact-model image candidate found
-Axewerx,Gain Chain,,DEEP_REVIEW,7,no usable exact-model image candidate found
+AXiom Effects,Distortion Preamp DP-1,,DEEP_REVIEW,7,no usable exact-model image candidate found
+AXiom Effects,Overdrive Preamp OP-1,,DEEP_REVIEW,7,no usable exact-model image candidate found
+Axis Guitar Effects,Axis Face MkII,,DEEP_REVIEW,7,no usable exact-model image candidate found
+Axcess by Giannini,BD-108 Blues Drive,,DEEP_REVIEW,8,no usable exact-model image candidate found
+Axewerx,Gain Chain,,DEEP_REVIEW,8,no usable exact-model image candidate found
 Add+ Pedals,Super Drive 2,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Aether Electronic,Lenore,Fuzz / Overdrive,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Alber,GA-1040P Gain,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
@@ -326,21 +341,6 @@ AMT Electronics,Rammstein RD Distortion Combo Emulator,,PARKED,12,PARKED after 1
 AMT Electronics,SS-11B,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Atmosfera 6,Thulsa Doom Hyborean Fuzz,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Award-Session,SP75 Sessionette:75 Guitar Amp Sound,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
-Advance Tube Technology,Boost Cat Drive,,PARKED,34,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-AGR Pedals,Cuervo Muerto - Silicon Fuzz Bender,,PARKED,34,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-AGR Pedals,DS2610 - Vintage Distortion,,PARKED,34,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-AGR Pedals,OD85 - Full Range Overdrive,,PARKED,34,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-AJcustom,Distortion,,PARKED,34,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-Alber,FU-1000P,,PARKED,34,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-Alber,GA-104 Gain,,PARKED,34,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-Aleatorik,Operation 1,,PARKED,34,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-Alen Geere,Crown Centaur,,PARKED,34,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-Alien Amplification,Origami Overdrive,,PARKED,34,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-Alien Rabbit,Magic Drive,,PARKED,34,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-A&M Custom Effects,Crash Central - Crunch Distortion,,PARKED,35,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-A&M Custom Effects,Crazyboy - Double Fuzz,,PARKED,35,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-A&M Custom Effects,Metal Maniac - Mega Distortion,,PARKED,35,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
-A&M Custom Effects,Twin Pro - Overdrive,,PARKED,35,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
 Add+ Pedals,Der Fuzzer,,PARKED,35,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
 ADV Systems,#overdrive,,PARKED,35,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
 Advance Tube Technology,Virus Drive,,PARKED,35,PARKED after 12 automatic photo attempts; hold for deeper/manual photo research.
