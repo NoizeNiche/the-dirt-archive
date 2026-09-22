@@ -1144,7 +1144,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
         const embeddedImageCandidates = [];
         try {
           const html = await page.content();
-          const urls = [...html.matchAll(/https?:\\/\\/(?:rvb-img\\.reverb\\.com|static\\.reverb-assets\\.com)\\/[^"'\\s<>\\\\]+/gi)]
+          const urls = [...html.matchAll(/https?:\/\/(?:rvb-img\.reverb\.com|static\.reverb-assets\\.com)\/[^"'\s<>\\]+/gi)]
             .map(match => match[0].replace(/&amp;/g, '&').replace(/\\u0026/g, '&'));
           for (const url of [...new Set(urls)].slice(0, 10)) {
             embeddedImageCandidates.push({
