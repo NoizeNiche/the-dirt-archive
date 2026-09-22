@@ -55,13 +55,7 @@ jobs:
               if not image:
                   pending += 1
                   continue
-              match = next(
-                  (
-                      p for p in catalog_data
-                      if p.get("company") == row.get("Builder") and p.get("pedal") == catalog
-                  ),
-                  None,
-              )
+              match = catalog_by_key.get((row.get("Builder"), catalog))
               image_path = str((match or {}).get("image") or "")
               local_path = Path(image_path[2:] if image_path.startswith("./") else image_path)
               if not image_path or image_path.lower().startswith(("http://", "https://")) or not local_path.is_file():
@@ -187,7 +181,9 @@ jobs:
               item = index[key]
               image = images[key]
               info_done = bool(item.get("research_record"))
-              picture_done = bool(item.get("image"))
+              image_value = str(item.get("image") or "")
+              local_image = Path(image_value[2:] if image_value.startswith("./") else image_value)
+              picture_done = bool(image_value) and not image_value.lower().startswith(("http://", "https://")) and local_image.is_file()
               complete_done = info_done and picture_done
               assert (row.get("Pedal Info") == "DONE") == info_done, f"Pedal Info mismatch: {key}"
               assert (row.get("Picture") == "DONE") == picture_done, f"Picture mismatch: {key}"
