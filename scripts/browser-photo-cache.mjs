@@ -911,6 +911,16 @@ async function recoverEntry(browser, entry, deepReview = false) {
       }
     }
 
+    // If an explicit source page was provided but yielded no usable image,
+    // fall back to a fresh maker-site search. This preserves the curated-page
+    // priority without letting a stale/broken source page become a dead end.
+    if (!selectedResult && hasExplicitSourcePage) {
+      try {
+        const makerCandidates = await makerWebCandidates(page, entry);
+        selectedResult = await tryImages(makerCandidates);
+      } catch {}
+    }
+
     // Search is a fallback, not the primary source. Verify the result page identity
     // before accepting its image so a visually similar pedal cannot slip through.
     async function screenshotVerifiedSearchImage(candidate) {
