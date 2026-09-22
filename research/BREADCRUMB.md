@@ -1,10 +1,12 @@
-## Full-site maintenance checkpoint - September 21, 2026 (current tracker state)
+## Full-site recovery checkpoint - September 22, 2026 (latest verified)
 
-Canonical tracker state now verified after the latest recovery/source-maintenance commits: **3,819 total / 3,818 public / 1,274 researched public / 903 pictured public / 903 fully complete public / 371 researched-photo-pending / 2,916 public photo-missing**.
+Canonical tracker state: **3,819 total / 3,818 public / 1,274 researched public / 903 pictured public / 903 fully complete public / 371 researched-photo-pending / 2,916 public photo-missing**.
 
-The active PRP1 gate is therefore **371 researched-photo-pending**. The photo review queue contains **371 unresolved researched-photo records**, with automatic recovery and deeper review both still active. The full photo backlog remains larger because it also includes records that still need both research and a photo.
+The latest bounded photo-cache run completed successfully after the Reverb matcher and validator fixes. It produced no additional researched-photo completions in this pass, so the PRP1 gate remains **371**.
 
-The recovery lane was strengthened with targeted deep-review searches for Effects Database, Reverb Sold Only, and RockBoard pedal records, while the structural validator now checks the review queue and derived photo backlog against the canonical tracker so those operational files cannot silently drift.
+Deep-review source-page work added exact page leads for several stubborn records, including Bispell Audio Proxy, Saxon, and TOR, plus Biyang BL-12 Blues and DS-12 Distortion. Those records remain unresolved until an exact image is successfully archived locally.
+
+Recovery runtime was tightened to a **30-record maximum batch**, a **20-second per-record recovery deadline**, and newest-run preference so stale long-running passes are superseded safely.
 
 PRP1 remains gated until researched-photo-pending reaches **0**.
 
