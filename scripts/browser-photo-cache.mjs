@@ -833,6 +833,21 @@ async function recoverEntry(browser, entry, deepReview = false) {
         if (isReverbListing) {
           await page.mouse.wheel(0, 900);
           await page.waitForTimeout(450);
+        } else {
+          // Many specialist pedal databases lazy-load their gallery images only
+          // after the gallery enters the viewport. Trigger a bounded viewport
+          // sweep so the rendered photo exists before we score/capture it.
+          const viewportHeight = await page.evaluate(() => window.innerHeight || 900).catch(() => 900);
+          const bodyHeight = await page.evaluate(() => document.body?.scrollHeight || 0).catch(() => 0);
+          const steps = Math.min(6, Math.max(2, Math.ceil(bodyHeight / Math.max(400, viewportHeight))));
+          for (let step = 0; step < steps; step++) {
+            await page.evaluate(({ step, viewportHeight }) => {
+              window.scrollTo(0, Math.min(document.body.scrollHeight, step * viewportHeight * 0.85));
+            }, { step, viewportHeight }).catch(() => {});
+            await page.waitForTimeout(180);
+          }
+          await page.evaluate(() => window.scrollTo(0, 0)).catch(() => {});
+          await page.waitForTimeout(220);
         }
 
         const pedalPhrase = normalizedIdentity(entry.pedal);
