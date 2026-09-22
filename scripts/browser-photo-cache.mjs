@@ -1823,6 +1823,60 @@ async function recoverEntry(browser, entry, deepReview = false) {
           } catch {}
         }
 
+        // Generic last-resort renderer for verified source-page candidates.
+        // Some builders expose the real product image through network/JSON metadata
+        // that has no stable DOM element. Render only high-signal candidates from
+        // this already identity-verified page, and reject obvious site chrome.
+        const renderedCandidateUrls = new Set();
+        for (const candidate of candidates
+          .filter(x => x && x.url && (x.sourceScore || 0) >= 90 && !x.searchResult)
+          .sort((a, b) => (b.sourceScore || 0) - (a.sourceScore || 0))
+          .slice(0, 8)) {
+          if (renderedCandidateUrls.has(candidate.url)) continue;
+          renderedCandidateUrls.add(candidate.url);
+          if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel)/i.test(candidate.url)) continue;
+          try {
+            const capture = await page.evaluate(async src => {
+              document.querySelector('[data-dirt-archive-generic-capture="1"]')?.remove();
+              const img = document.createElement('img');
+              img.setAttribute('data-dirt-archive-generic-capture', '1');
+              img.src = src;
+              img.alt = '';
+              img.style.position = 'fixed';
+              img.style.left = '8px';
+              img.style.top = '8px';
+              img.style.zIndex = '2147483647';
+              img.style.maxWidth = 'calc(100vw - 16px)';
+              img.style.maxHeight = 'calc(100vh - 16px)';
+              img.style.width = 'auto';
+              img.style.height = 'auto';
+              img.style.objectFit = 'contain';
+              img.style.background = '#fff';
+              document.body.appendChild(img);
+              await new Promise(resolve => {
+                if (img.complete) return resolve();
+                img.addEventListener('load', resolve, { once: true });
+                img.addEventListener('error', resolve, { once: true });
+                setTimeout(resolve, 2200);
+              });
+              return {
+                width: Number(img.naturalWidth) || 0,
+                height: Number(img.naturalHeight) || 0
+              };
+            }, candidate.url).catch(() => null);
+            if ((capture?.width || 0) >= 220 && (capture?.height || 0) >= 220) {
+              const node = page.locator('[data-dirt-archive-generic-capture="1"]').first();
+              const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+              await page.evaluate(() => document.querySelector('[data-dirt-archive-generic-capture="1"]')?.remove()).catch(() => {});
+              if (bytes && bytes.length >= 3000) {
+                return { bytes, src: candidate.url };
+              }
+            } else {
+              await page.evaluate(() => document.querySelector('[data-dirt-archive-generic-capture="1"]')?.remove()).catch(() => {});
+            }
+          } catch {}
+        }
+
         // Capture the exact DOM element that was scored above. Gallery hydration
         // can replace currentSrc/src after scrolling, so re-matching on the old
         // URL can silently discard a perfectly good exact-model photo.
