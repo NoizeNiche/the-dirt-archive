@@ -1417,6 +1417,70 @@ async function recoverEntry(browser, entry, deepReview = false) {
         // a direct rvb-img link around the rendered image. Prefer that exact
         // link when its surrounding alt/text matches the verified pedal identity.
         if (isReverbListing) {
+          // Reverb frequently exposes only small gallery thumbnails on the
+          // listing surface. Open the first exact-listing gallery thumbnail so
+          // the lightbox/expanded image becomes available to Chromium.
+          try {
+            const galleryTargets = await page.locator('img').evaluateAll(imgs => imgs
+              .map((img, index) => {
+                const alt = String(img.alt || '').trim();
+                const rect = img.getBoundingClientRect();
+                const parent = img.closest('button, a, [role="button"]');
+                return {
+                  index,
+                  alt,
+                  width: Number(img.naturalWidth) || rect.width || 0,
+                  height: Number(img.naturalHeight) || rect.height || 0,
+                  visible: rect.width >= 40 && rect.height >= 40 &&
+                    rect.bottom >= 0 && rect.right >= 0 &&
+                    rect.top <= window.innerHeight && rect.left <= window.innerWidth,
+                  clickable: Boolean(parent),
+                  galleryLike: /(^|\\s)(image|photo)\\s*\\d+/i.test(alt)
+                };
+              })
+              .filter(x => x.visible && x.clickable && x.galleryLike)
+              .sort((a, b) => a.index - b.index)
+              .slice(0, 4));
+            if (galleryTargets.length) {
+              const first = page.locator('img').nth(galleryTargets[0].index);
+              const clickable = first.locator('xpath=ancestor::*[self::button or self::a or @role="button"][1]');
+              if (await clickable.count()) {
+                await clickable.scrollIntoViewIfNeeded().catch(() => {});
+                await clickable.click({ timeout: 1800, force: true }).catch(() => {});
+                await page.waitForTimeout(500);
+              }
+            }
+          } catch {}
+
+          const expandedCandidates = await page.locator('img').evaluateAll(imgs => imgs
+            .map((img, index) => {
+              const rect = img.getBoundingClientRect();
+              const width = Math.max(rect.width, Number(img.naturalWidth) || 0);
+              const height = Math.max(rect.height, Number(img.naturalHeight) || 0);
+              const visible = rect.width >= 180 && rect.height >= 180 &&
+                rect.bottom >= 0 && rect.right >= 0 &&
+                rect.top <= window.innerHeight && rect.left <= window.innerWidth;
+              const raw = [img.alt || '', img.src || '', img.currentSrc || '', img.className || ''].join(' ');
+              const forbidden = /(logo|avatar|icon|sprite|favicon|banner|badge|payment|social)/i.test(raw);
+              return { index, width, height, visible, forbidden, area: width * height };
+            })
+            .filter(x => x.visible && !x.forbidden && x.width >= 220 && x.height >= 220)
+            .sort((a, b) => b.area - a.area)
+            .slice(0, 6));
+          for (const candidate of expandedCandidates) {
+            const img = page.locator('img').nth(candidate.index);
+            await img.scrollIntoViewIfNeeded().catch(() => {});
+            await page.waitForTimeout(180);
+            const bytes = await img.screenshot({ type: 'png' }).catch(() => null);
+            if (bytes && bytes.length >= 3000) {
+              return {
+                bytes,
+                src: await img.getAttribute('src').catch(() => '') ||
+                  await img.getAttribute('data-src').catch(() => '') || ''
+              };
+            }
+          }
+
           // Reverb can expose the exact listing photos as image links without
           // useful pedal text on the link itself. The listing page has already
           // passed exact-model identity verification, so rank its rendered
