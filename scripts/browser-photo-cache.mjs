@@ -985,6 +985,10 @@ async function recoverEntry(browser, entry, deepReview = false) {
               img.getAttribute('data-src') ||
               img.getAttribute('data-lazy-src') ||
               img.getAttribute('data-original') ||
+              img.getAttribute('data-large-image') ||
+              img.getAttribute('data-zoom-image') ||
+              img.getAttribute('data-image') ||
+              img.getAttribute('data-image-url') ||
               '';
             if (!src || src.startsWith('data:')) continue;
 
@@ -1051,6 +1055,38 @@ async function recoverEntry(browser, entry, deepReview = false) {
               builderHits,
               elementIndex: imgIndex
             });
+          }
+
+          // Some older gallery/card implementations keep the product photo
+          // in CSS background-image or data-background attributes instead of an
+          // <img>. Extract those rendered image URLs too, then let the same
+          // exact-model identity ranking and image-content verification decide.
+          for (const [bgIndex, node] of [...document.querySelectorAll('[style*="background-image"], [data-background], [data-bg], [data-background-image]')].entries()) {
+            const style = getComputedStyle(node);
+            const rawBackground = [
+              style.backgroundImage || '',
+              node.getAttribute('data-background') || '',
+              node.getAttribute('data-bg') || '',
+              node.getAttribute('data-background-image') || ''
+            ].join(' ');
+            const urls = [...rawBackground.matchAll(/url\((?:"|')?([^"')]+)(?:"|')?\)/gi)].map(m => m[1]);
+            if (!urls.length) continue;
+            const rect = node.getBoundingClientRect();
+            const width = Math.max(rect.width, Number(node.scrollWidth) || 0);
+            const height = Math.max(rect.height, Number(node.scrollHeight) || 0);
+            if (width < 140 || height < 140) continue;
+            const context = String(node.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 900);
+            const rawHint = [context, node.className || '', node.getAttribute('aria-label') || '', node.getAttribute('title') || '', ...urls].join(' ');
+            if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social)/i.test(rawHint)) continue;
+            const hint = normalize(rawHint);
+            const tokenHits = pedalTokens.filter(token => hint.includes(token)).length;
+            const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+            const exactPhrase = pedalPhrase.length >= 5 && hint.includes(pedalPhrase);
+            for (const src of urls) {
+              let score = Math.min(width * height, 1600000) / 1000 + 70 + tokenHits * 120 + builderHits * 25;
+              if (exactPhrase) score += 700;
+              rows.push({ src, score, width, height, exactPhrase, tokenHits, altHits: 0, builderHits, backgroundImage: true, bgIndex });
+            }
           }
 
           // Effects Database and older archive pages sometimes expose the
