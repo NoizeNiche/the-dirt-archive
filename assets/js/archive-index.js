@@ -4,6 +4,27 @@ let items=[];let allItems=[];let currentPage=Math.max(1,parseInt(initialParams.g
 if(!['All','Overdrive','Distortion','Fuzz'].includes(selectedType))selectedType='All';
 
 
+function hasActiveFilters(){
+  return selectedType!=='All'||Boolean(selectedBuilder)||Boolean(q);
+}
+
+function renderClearFilters(){
+  const button=$('clearFilters');
+  if(!button)return;
+  button.hidden=!hasActiveFilters();
+  button.setAttribute('aria-label',hasActiveFilters()?'Clear search, dirt type, and builder filters':'Clear filters');
+}
+
+function clearFilters(){
+  selectedType='All';
+  selectedBuilder='';
+  q='';
+  currentPage=1;
+  $('search').value='';
+  syncUrl(false);
+  render();
+}
+
 function syncUrl(replace=true){
   const p=new URLSearchParams();
   if(selectedType!=='All')p.set('type',selectedType);
@@ -111,6 +132,7 @@ function render(){
   }
   renderTypeMenu();
   renderBuilders();
+  renderClearFilters();
 
   const visible=filteredItems();
   const totalPages=Math.max(1,Math.ceil(visible.length/PAGE_SIZE));
@@ -162,6 +184,8 @@ function render(){
   renderPagination(totalPages);
   if(normalized)syncUrl(true);
 }
+
+$('clearFilters').onclick=clearFilters;
 
 $('search').value=q;
 $('search').oninput=e=>{
