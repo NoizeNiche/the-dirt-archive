@@ -203,3 +203,6 @@ The latest photo batch recovered **3 additional exact-match photos** and passed 
 Photo recovery remains the active gate. High-attempt deep-review records continue to rotate into each batch.
 
 Public pedal pages hide **Research confidence** and **Sources checked**. A future YouTube demo widget remains parked for later.
+
+
+Latest verified cache gain: run 937 archived Anarchy Audio Australia Deadwoods - Chainsaw Fuzz, bringing the researched-photo-pending count to 318. Exact-source redundancy was added for Aether Lenore and A.Y.A FrontGate BassDrive, and the lazy-image extractor hardening remains active.
