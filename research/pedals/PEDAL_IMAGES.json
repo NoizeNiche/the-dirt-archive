@@ -3468,9 +3468,11 @@
   {
     "builder": "Backbeat Electric",
     "pedal": "X-Bender",
-    "image": null,
+    "image": "./assets/pedals/backbeat-electric/x-bender/primary.webp",
     "source_page": "https://analogwarcry.blogspot.com/2010/03/mar-monthly-pick-backbeat-electric.html",
-    "research_record": "./research/pedals/Backbeat Electric/X-Bender.md"
+    "research_record": "./research/pedals/Backbeat Electric/X-Bender.md",
+    "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfVACuj9YWbsEV8iKuPSM7LMTlXnf47sH7rTY0yGoJPSTI512MBEIsOGJWZJ7kSffrgvuMvxhcYfyIm6p_ZMHBddsr1kI7PW3E684GQgr00u9g1i6WYf6NFimH6_lPTdF33-pZ5TYhE-A/s400/XBender.jpg",
+    "image_source_page": "https://analogwarcry.blogspot.com/2010/03/mar-monthly-pick-backbeat-electric.html"
   },
   {
     "builder": "Bad Cat",

@@ -1,30 +1,5 @@
 Builder,Pedal,Catalog Type,Status,Attempts,Last Failure
-Carlin,Carlin Compressor/Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Carmedon Electronics,Alpha Centauri,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Caroline Guitar Company,Haymaker,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Caroline Guitar Company,Olympia,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Carruthers,Dyna-Soar Lite,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Carvin,Carvin TO-1 Tube Overdrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Carvin,Carvin UD-1 Ultra Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Casey Gooby,Organ Donor,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Casimir Effects Pedals,Entropy Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-CastleRock,CastleRock Bass Overdrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
-CastleRock,CastleRock Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
-CastleRock,CastleRock Metal Driver,,DEEP_REVIEW,2,no usable exact-model image candidate found
-CastleRock,CastleRock Overdrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Caswell Modern Electronics (CME),Shark Mouth - Bass Synth Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-CAT Sound,Classic,,DEEP_REVIEW,2,no usable exact-model image candidate found
-CAT Sound,Dancing - Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
-CAT Sound,DriveCenter,,DEEP_REVIEW,2,no usable exact-model image candidate found
-CAT Sound,DriveCenter Bass,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Cat's Eye ESP,Hop Hed Fuzztone,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Cat's Eye ESP,Hybrid Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Cat's Eye ESP,Mista' Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Cat's Eye ESP,Mutha' Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-CatastroFX,Deface Mk.III,,DEEP_REVIEW,2,no usable exact-model image candidate found
-CatastroFX,Outbreak,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Cave Passive Pedals,60's Break Up,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Cave Passive Pedals,B-Drive Grunt,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Cave Passive Pedals,Blue Juice,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Cave Passive Pedals,Grunt MkII,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Cave Passive Pedals,Mini Miff,,DEEP_REVIEW,2,no usable exact-model image candidate found
@@ -267,6 +242,31 @@ Carella Guitars,Overdistover,,DEEP_REVIEW,3,no usable exact-model image candidat
 Carella Guitars,Overtube,,DEEP_REVIEW,3,no usable exact-model image candidate found
 Carella Guitars,Real Tube,,DEEP_REVIEW,3,no usable exact-model image candidate found
 Carl Martin,DC-Drive,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Carlin,Carlin Compressor/Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Caroline Guitar Company,Haymaker,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Caroline Guitar Company,Olympia,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Carruthers,Dyna-Soar Lite,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Carvin,Carvin TO-1 Tube Overdrive,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Carvin,Carvin UD-1 Ultra Distortion,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Casey Gooby,Organ Donor,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Casimir Effects Pedals,Entropy Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+CastleRock,CastleRock Bass Overdrive,,DEEP_REVIEW,3,no usable exact-model image candidate found
+CastleRock,CastleRock Distortion,,DEEP_REVIEW,3,no usable exact-model image candidate found
+CastleRock,CastleRock Metal Driver,,DEEP_REVIEW,3,no usable exact-model image candidate found
+CastleRock,CastleRock Overdrive,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Caswell Modern Electronics (CME),Shark Mouth - Bass Synth Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+CAT Sound,Classic,,DEEP_REVIEW,3,no usable exact-model image candidate found
+CAT Sound,Dancing - Distortion,,DEEP_REVIEW,3,no usable exact-model image candidate found
+CAT Sound,DriveCenter,,DEEP_REVIEW,3,no usable exact-model image candidate found
+CAT Sound,DriveCenter Bass,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Cat's Eye ESP,Hop Hed Fuzztone,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Cat's Eye ESP,Hybrid Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Cat's Eye ESP,Mista' Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Cat's Eye ESP,Mutha' Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+CatastroFX,Deface Mk.III,,DEEP_REVIEW,3,no usable exact-model image candidate found
+CatastroFX,Outbreak,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Cave Passive Pedals,60's Break Up,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Cave Passive Pedals,B-Drive Grunt,,DEEP_REVIEW,3,no usable exact-model image candidate found
 BBE,Green Screamer,,DEEP_REVIEW,4,no usable exact-model image candidate found
 BearFoot FX,Emerald Green Overdrive,,DEEP_REVIEW,4,no usable exact-model image candidate found
 Behringer,OD300,,DEEP_REVIEW,4,no usable exact-model image candidate found
@@ -292,7 +292,6 @@ Big Knob Pedals,I.C.B.M,,DEEP_REVIEW,4,no usable exact-model image candidate fou
 Big Knob Pedals,Rat Pak,,DEEP_REVIEW,4,no usable exact-model image candidate found
 Big Knob Pedals,Tone Boner,,DEEP_REVIEW,4,no usable exact-model image candidate found
 Big Knob Pedals,Zed Drive,,DEEP_REVIEW,4,no usable exact-model image candidate found
-Backbeat Electric,X-Bender,,DEEP_REVIEW,5,no usable exact-model image candidate found
 Bad Cat,2-Tone,,DEEP_REVIEW,5,no usable exact-model image candidate found
 Bad Cat,X-Treme Tone,,DEEP_REVIEW,5,no usable exact-model image candidate found
 Bad Penny FX,The Fuzz Controller V1,,DEEP_REVIEW,5,no usable exact-model image candidate found
@@ -308,10 +307,10 @@ Barber Electronics,LTD SR,,DEEP_REVIEW,5,no usable exact-model image candidate f
 Barber Electronics,Midnight Standard,,DEEP_REVIEW,5,no usable exact-model image candidate found
 Barber Electronics,Pepsiman,,DEEP_REVIEW,5,no usable exact-model image candidate found
 BBE,G Screamer,,DEEP_REVIEW,5,no usable exact-model image candidate found
-B85 Audio,Hrom - Bass Overdrive,,DEEP_REVIEW,8,no usable exact-model image candidate found
-Azur,LEON DRIVE Effect Pedal,,DEEP_REVIEW,9,no usable exact-model image candidate found
-Azur,OVERDRIVE Effect Pedal,,DEEP_REVIEW,9,no usable exact-model image candidate found
-B.C. Rich,DMD-1 Digital Metal Distortion,,DEEP_REVIEW,9,no usable exact-model image candidate found
+B85 Audio,Hrom - Bass Overdrive,,DEEP_REVIEW,9,no usable exact-model image candidate found
+Azur,LEON DRIVE Effect Pedal,,DEEP_REVIEW,10,no usable exact-model image candidate found
+Azur,OVERDRIVE Effect Pedal,,DEEP_REVIEW,10,no usable exact-model image candidate found
+B.C. Rich,DMD-1 Digital Metal Distortion,,DEEP_REVIEW,10,no usable exact-model image candidate found
 Add+ Pedals,Super Drive 2,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Aether Electronic,Lenore,Fuzz / Overdrive,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Alber,GA-1040P Gain,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
