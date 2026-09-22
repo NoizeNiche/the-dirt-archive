@@ -371,7 +371,7 @@ const path = require('node:path');
 
             // Every researched parent pedal still needs a readable detail page.
             await page.setViewportSize({width:1440,height:1000});
-            const workerCount = Math.min(6, Math.max(1, researchedParents.length));
+            const workerCount = Math.min(3, Math.max(1, researchedParents.length));
             console.log('Auditing', researchedParents.length, 'researched parent pedal pages with', workerCount, 'reused browser workers.');
             let nextIndex = 0;
             const auditFailures = [];
@@ -391,13 +391,26 @@ const path = require('node:path');
                   encodeURIComponent(entry.company) +
                   '&pedal=' +
                   encodeURIComponent(entry.pedal);
-                await workerPage.goto(url, {waitUntil:'domcontentloaded', timeout:20000});
-                await workerPage.waitForFunction(() => {
-                  const el = document.querySelector('#research');
-                  return el &&
-                    el.textContent.trim().length > 40 &&
-                    !/loading pedal information|could not be loaded/i.test(el.textContent);
-                }, null, {timeout:20000});
+                let loaded = false;
+                let lastLoadError = null;
+                for (let attempt = 1; attempt <= 2 && !loaded; attempt++) {
+                  try {
+                    if (attempt > 1) {
+                      await workerPage.goto('about:blank', {waitUntil:'domcontentloaded', timeout:5000}).catch(() => {});
+                    }
+                    await workerPage.goto(url, {waitUntil:'domcontentloaded', timeout:20000});
+                    await workerPage.waitForFunction(() => {
+                      const el = document.querySelector('#research');
+                      return el &&
+                        el.textContent.trim().length > 40 &&
+                        !/loading pedal information|could not be loaded/i.test(el.textContent);
+                    }, null, {timeout:15000});
+                    loaded = true;
+                  } catch (error) {
+                    lastLoadError = error;
+                  }
+                }
+                if (!loaded) throw lastLoadError || new Error('Pedal Info did not render.');
 
                 const result = await workerPage.evaluate(() => {
                   const el = document.querySelector('#research');
