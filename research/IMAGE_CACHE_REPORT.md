@@ -1,7 +1,7 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **0**
+- Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
 - Remaining tracker photo backlog: **2856**
@@ -12,10 +12,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- AMT Electronics - B-1 BG-Sharp -> `./assets/pedals/amt-electronics/b-1-bg-sharp/primary.webp`
 
 ## Still external / failed
 
