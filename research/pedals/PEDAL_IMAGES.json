@@ -2831,9 +2831,11 @@
   {
     "builder": "Audio Squared",
     "pedal": "Major Fuzz",
-    "image": null,
+    "image": "./assets/pedals/audio-squared/major-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/audiosquared/majorfuzz",
-    "research_record": "./research/pedals/Audio Squared/Major Fuzz.md"
+    "research_record": "./research/pedals/Audio Squared/Major Fuzz.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/audiosquared_majorfuzz_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/audiosquared/majorfuzz"
   },
   {
     "builder": "Audio Surplus Effects",

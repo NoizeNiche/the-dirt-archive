@@ -4242,7 +4242,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/audio-squared/major-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/audiosquared/majorfuzz",
       "research_record": "./research/pedals/Audio Squared/Major Fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/audiosquared/majorfuzz",
@@ -4251,7 +4251,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/audiosquared/majorfuzz"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/audiosquared_majorfuzz_001.jpg"
     },
     {
       "company": "Audio Surplus Effects",
