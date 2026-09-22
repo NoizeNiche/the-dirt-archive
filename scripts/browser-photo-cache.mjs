@@ -707,6 +707,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
         const body = await page.locator('body').textContent().catch(() => '');
 
         const pageIdentityMatch =
+          entry.image_source_page_verified === true ||
           pageMatchesIdentity(entry, title + ' ' + body, h1) ||
           reverbListingMatchesIdentity(entry, pageUrl, title, h1);
         if (pageIdentityMatch) {
