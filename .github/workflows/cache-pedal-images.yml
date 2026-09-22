@@ -80,12 +80,13 @@ jobs:
           PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "4500"
           PHOTO_BROWSER_CANDIDATE_LIMIT: "6"
           PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "6"
-          # Recovery follows exact PRP_TRACKER order; no builder is privileged.
+          # Recovery prioritizes verified curated source pages, then follows the
+          # tracker backlog while preserving a bounded share for deep-review cases.
           PHOTO_BROWSER_IMAGE_SEARCH: "true"
           PHOTO_BROWSER_DEEP_REVIEW: "true"
           # Reopen a small bounded batch of automatically exhausted records for one deeper pass.
           PHOTO_BROWSER_REVISIT_PARKED: "true"
-          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "30000"
+          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "35000"
         run: node scripts/browser-photo-cache.mjs
 
       - name: Download and cache verified pedal images
