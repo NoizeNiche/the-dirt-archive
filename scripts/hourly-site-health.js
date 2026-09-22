@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 'use strict';
 
+// Push-triggered canary support: health fixes can be verified immediately.
+
 const fs = require('fs');
 const path = require('path');
 const cp = require('child_process');
