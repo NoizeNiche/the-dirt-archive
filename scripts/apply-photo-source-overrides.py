@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """Apply curated exact photo-source page leads to unresolved catalog records.
 
-This layer only supplies a source page. The browser recovery pass still performs
-its normal page-identity checks and downloads the actual image itself.
+A curated lead is an explicitly vetted source page. The browser recovery pass
+still chooses the actual rendered pedal image from that page; the verified flag
+only prevents a missing builder token in the page title/H1 from rejecting an
+otherwise exact source page.
 """
 
 import csv
@@ -44,10 +46,11 @@ def main() -> None:
         if not source_page:
             continue
 
-        if entry.get("image_source_page") == source_page:
+        if entry.get("image_source_page") == source_page and entry.get("image_source_page_verified") is True:
             continue
 
         entry["image_source_page"] = source_page
+        entry["image_source_page_verified"] = True
         changed += 1
 
     if changed:
