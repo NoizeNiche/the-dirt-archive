@@ -1445,6 +1445,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
       })
       .sort((a, b) => {
         const sourceRank = entry => {
+          const priority = Number(entry.image_source_priority) || 0;
+          if (priority > 0) return 1000 + priority;
           if (entry.image_source_page_verified === true && entry.image_source_page) return 2;
           if (entry.image_source_page && /^https?:/i.test(entry.image_source_page)) return 1;
           return 0;
