@@ -26,8 +26,10 @@ def record_exists(record):
 def image_is_usable(image):
     if not image:
         return False
+    # The archive's Picture=DONE gate means the actual pedal image is archived
+    # locally. External source URLs are provenance, not completed photo assets.
     if re.match(r"^https?://", image, re.I):
-        return True
+        return False
     if re.match(r"^\.?/assets/pedals/", image, re.I):
         return Path(re.sub(r"^\./", "", image)).is_file()
     return False
