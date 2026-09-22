@@ -3,6 +3,29 @@ const wantedBuilder = detailParams.get('builder') || '';
 const wantedPedal = detailParams.get('pedal') || '';
 let wantedVariation = detailParams.get('variation') || '';
 
+function restoreReturnLink(){
+  const link=document.querySelector('.back');
+  if(!link)return;
+  const fallback=new URL('./index.html',location.href);
+  const referrer=document.referrer;
+  if(referrer){
+    try{
+      const url=new URL(referrer);
+      const sameOrigin=url.origin===location.origin;
+      const archivePath=new URL('./index.html',location.href).pathname;
+      if(sameOrigin && url.pathname===archivePath){
+        link.href=url.href;
+        link.textContent='← Back to results';
+        return;
+      }
+    }catch(e){
+      console.warn('Could not restore archive return link.',e);
+    }
+  }
+  link.href=fallback.href;
+  link.textContent='← Back to the archive';
+}
+
 function renderPageNav(items,currentItem=null){
   const builders=[...new Set(items.filter(isCatalogEntry).map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
   const currentTypes=new Set(currentItem?.types||[]);
@@ -194,6 +217,8 @@ function loadResearchMarkdown(path){
     run();
   });
 }
+
+restoreReturnLink();
 
 loadCatalog()
 .then(data=>{
