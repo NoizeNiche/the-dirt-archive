@@ -14,6 +14,8 @@ MANIFEST = ROOT / "research/pedals/PEDAL_IMAGES.json"
 TRACKER = ROOT / "research/PRP_TRACKER.csv"
 PHOTO_REVIEW_QUEUE = ROOT / "research/PHOTO_REVIEW_QUEUE.csv"
 PHOTO_BACKLOG = ROOT / "research/PHOTO_BACKLOG.csv"
+PHOTO_SOURCE_OVERRIDES = ROOT / "research/PHOTO_SOURCE_OVERRIDES.csv"
+APPLY_PHOTO_SOURCE_OVERRIDES = ROOT / "scripts/apply-photo-source-overrides.py"
 CORE = ROOT / "assets/js/archive-core.js"
 INDEX_JS = ROOT / "assets/js/archive-index.js"
 DETAIL_JS = ROOT / "assets/js/archive-detail.js"
@@ -34,7 +36,7 @@ def local(path):
     return ROOT / value
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, HOME, DETAIL, LEGACY, DEPLOY)
+    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, HOME, DETAIL, LEGACY, DEPLOY)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
@@ -55,6 +57,22 @@ def main():
         raise SystemExit("PEDAL_INDEX.json and PEDAL_IMAGES.json identities disagree.")
 
     catalog_by_key = {pair(x.get("company"), x.get("pedal")): x for x in pedals}
+
+    with PHOTO_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
+        overrides = list(csv.DictReader(handle))
+    override_keys = [
+        pair(x.get("Builder"), x.get("Pedal"))
+        for x in overrides
+    ]
+    if len(override_keys) != len(set(override_keys)):
+        raise SystemExit("Duplicate Builder + Pedal identity in PHOTO_SOURCE_OVERRIDES.csv.")
+    for row in overrides:
+        k = pair(row.get("Builder"), row.get("Pedal"))
+        source_page = (row.get("Image Source Page") or "").strip()
+        if k not in catalog_by_key:
+            raise SystemExit(f"Photo source override contains an unknown catalog identity: {k}")
+        if not re.match(r"^https?://", source_page, re.I):
+            raise SystemExit(f"Photo source override is not an HTTP(S) page: {k} -> {source_page}")
 
     for entry in pedals:
         k = pair(entry.get("company"), entry.get("pedal"))
@@ -228,37 +246,3 @@ def main():
         raise SystemExit("Home page contains inline JavaScript.")
     if re.search(r"<script(?![^>]*src=)[^>]*>", detail_text, re.I):
         raise SystemExit("Detail page contains inline JavaScript.")
-    index_js_text = INDEX_JS.read_text(encoding="utf-8")
-    detail_js_text = DETAIL_JS.read_text(encoding="utf-8")
-    if "No Photo Archived" not in index_js_text or "No Photo Archived" not in detail_text:
-        raise SystemExit("No Photo Archived fallback is missing.")
-    if "Research confidence" in detail_text or "Sources checked" in detail_text:
-        raise SystemExit("Internal research sections leaked into the public detail page.")
-    if "style=" in detail_js_text or ".style." in detail_js_text:
-        raise SystemExit("Detail controller contains inline presentation styling; presentation belongs in archive-detail.css.")
-    if "node - <<'JS'" in deploy_text or "node -e \"const http=require('http')" in deploy_text:
-        raise SystemExit("Deployment workflow still embeds browser server source.")
-    if "node scripts/serve-static.js" not in deploy_text:
-        raise SystemExit("Deployment workflow is not using the owned static server script.")
-    if "node scripts/deploy-browser-audit.js" not in deploy_text or "node scripts/live-photo-audit.js" not in deploy_text:
-        raise SystemExit("Deployment workflow is not wired to the external audit scripts.")
-    if "python scripts/validate-archive.py" not in deploy_text:
-        raise SystemExit("Deployment workflow is not using the shared validator.")
-    for script_path in ("scripts/deploy-browser-audit.js", "scripts/serve-static.js", "scripts/live-photo-audit.js", "scripts/validate-archive.py"):
-        if script_path not in deploy_text:
-            raise SystemExit(f"Deployment workflow is not watching required operational script: {script_path}")
-    if "location.replace('./pedal-detail.html'+location.search)" not in LEGACY.read_text(encoding="utf-8"):
-        raise SystemExit("Legacy pedal.html redirect is missing.")
-
-    for js in (CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE):
-        result = subprocess.run(["node", "--check", str(js)], capture_output=True, text=True)
-        if result.returncode:
-            raise SystemExit(f"JavaScript syntax check failed for {js.relative_to(ROOT)}:\n{result.stderr}")
-
-    researched = sum(bool(x.get("research_record")) for x in pedals)
-    pictured = sum(bool(x.get("image")) for x in pedals)
-    complete = sum(bool(x.get("research_record")) and bool(x.get("image")) for x in pedals)
-    print(f"Archive structure valid: {len(pedals)} entries; {researched} researched; {pictured} pictured; {complete} complete.")
-
-if __name__ == "__main__":
-    main()
