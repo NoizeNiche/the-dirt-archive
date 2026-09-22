@@ -828,10 +828,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
           }
         }
 
+        // The response listener already filtered these URLs by image MIME type.
+        // Do not require a filename extension here: CDN/image proxy URLs commonly
+        // omit .jpg/.png/.webp while still returning a real image.
         for (const url of [...new Set(networkImageUrls)]) {
-          if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url)) {
-            candidates.push({ url, sourcePage: pageUrl, sourceScore: 110 });
-          }
+          candidates.push({ url, sourcePage: pageUrl, sourceScore: 110 });
         }
 
         diagnostic.sourceImageCandidates += candidates.filter(x => x.sourcePage === pageUrl).length;
