@@ -1,10 +1,10 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **6**
-- Staged browser photos converted: **6**
+- Cached in this run: **3**
+- Staged browser photos converted: **3**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2897**
+- Remaining tracker photo backlog: **2891**
 
 ## Storage layout
 
@@ -14,12 +14,9 @@
 
 ## Newly cached
 
-- BJFE / BJF Electronics - Candy Apple Fuzz (CAF) -> `./assets/pedals/bjfe-bjf-electronics/candy-apple-fuzz-caf/primary.webp`
-- BJFE / BJF Electronics - Pink Purple Fuzz (PPF) -> `./assets/pedals/bjfe-bjf-electronics/pink-purple-fuzz-ppf/primary.webp`
-- Black Arts Toneworks - LSTR -> `./assets/pedals/black-arts-toneworks/lstr/primary.webp`
-- Black Arts Toneworks - Pharaoh -> `./assets/pedals/black-arts-toneworks/pharaoh/primary.webp`
-- Black Arts Toneworks - Quantum Mystic -> `./assets/pedals/black-arts-toneworks/quantum-mystic/primary.webp`
-- Black Arts Toneworks - Ritual -> `./assets/pedals/black-arts-toneworks/ritual/primary.webp`
+- Black CAT Amps - DJENTTONIC -> `./assets/pedals/black-cat-amps/djenttonic/primary.webp`
+- BlackOutEffectors - Fuzz Bear -> `./assets/pedals/blackouteffectors/fuzz-bear/primary.webp`
+- Blackhawk Amplifiers - Svarog Fuzz -> `./assets/pedals/blackhawk-amplifiers/svarog-fuzz/primary.webp`
 
 ## Still external / failed
 

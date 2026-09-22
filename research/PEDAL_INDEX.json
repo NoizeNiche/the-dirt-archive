@@ -8562,11 +8562,12 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-cat-amps/djenttonic/primary.webp",
       "source_page": "https://blackcatamps.com/",
       "research_record": "./research/pedals/PRP Batch 096/DJENTTONIC.md",
       "image_source_page": "https://blackcatamps.com/",
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://blackcatamps.com/wp-content/uploads/2026/08/Maintence-Page-Black-Background-1024x576.jpg"
     },
     {
       "company": "Black Cat Pedals",
@@ -8999,11 +9000,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackhawk-amplifiers/svarog-fuzz/primary.webp",
       "source_page": "https://www.blackhawkamplifiers.com/product/svarog-fuzz-mkii-v3",
       "research_record": "./research/pedals/PRP Batch 101/Svarog Fuzz.md",
       "image_source_page": "https://www.blackhawkamplifiers.com/product/svarog-fuzz-mkii-v3",
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://assets.bigcartel.com/product_images/979052cd-5aa2-4f36-a4fc-21b10bc8c089/svarog-fuzz-mkii-v3.jpg?auto=format&fit=max&h=1200&w=1200"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -9181,11 +9183,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackouteffectors/fuzz-bear/primary.webp",
       "source_page": "https://www.youtube.com/watch?v=5VLgkEhncHg",
       "research_record": "./research/pedals/PRP Batch 102/Fuzz Bear.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackout/fuzzbear",
-      "image_source_page_verified": true
+      "image_source_page": "https://www.youtube.com/watch?v=5VLgkEhncHg",
+      "image_source_page_verified": true,
+      "image_source_url": "https://i.ytimg.com/vi/VUS32dHgk00/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5ElmEz6EUZNUO4ML1duhxRyD4iw"
     },
     {
       "company": "BlackOutEffectors",
