@@ -10822,10 +10822,11 @@
   {
     "builder": "Cat's Eye ESP",
     "pedal": "Mutha' Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cat-s-eye-esp/mutha-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/catseye/muthafuzz",
     "research_record": "./research/pedals/PRP Batch 155/cat-s-eye-mutha-fuzz.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/catseye/muthafuzz"
+    "image_source_page": "https://www.effectsdatabase.com/model/catseye/muthafuzz",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/catseye_muthafuzz_001.jpg"
   },
   {
     "builder": "Catalinbread Effects",

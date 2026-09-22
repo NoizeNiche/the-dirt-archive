@@ -16085,12 +16085,13 @@
       "image": null,
       "source_page": "https://www.zzounds.com/item--CSTCRBOD",
       "research_record": "./research/pedals/PRP Batch 153/castlerock-bass-overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/castlerock/bassoverdrive",
+      "image_source_page": "https://www.zzounds.com/item--CSTCRBOD",
       "image_source_url": "https://www.zzounds.com/item--CSTCRBOD",
       "image_source_page_verified": true,
-      "image_source_priority": 158,
+      "image_source_priority": 393,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/castlerock/bassoverdrive"
+        "https://www.effectsdatabase.com/model/castlerock/bassoverdrive",
+        "https://www.zzounds.com/item--CSTCRBOD"
       ],
       "image_source_pages_verified": true
     },
@@ -16357,7 +16358,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cat-s-eye-esp/mutha-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/catseye/muthafuzz",
       "research_record": "./research/pedals/PRP Batch 155/cat-s-eye-mutha-fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/catseye/muthafuzz",
@@ -16366,7 +16367,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/catseye/muthafuzz"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/catseye_muthafuzz_001.jpg"
     },
     {
       "company": "Catalinbread Effects",
