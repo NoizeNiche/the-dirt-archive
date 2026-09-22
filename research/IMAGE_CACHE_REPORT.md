@@ -1,22 +1,16 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **3**
-- Staged browser photos converted: **3**
+- Cached in this run: **0**
+- Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2908**
+- Remaining tracker photo backlog: **2905**
 
 ## Storage layout
 
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Carl Martin - The Fuzz -> `./assets/pedals/carl-martin/the-fuzz/primary.webp`
-- Carlsbro - Carlsbro Fuzz -> `./assets/pedals/carlsbro/carlsbro-fuzz/primary.webp`
-- Case Study Effects Co. - Germanium Aspen Overdrive -> `./assets/pedals/case-study-effects-co/germanium-aspen-overdrive/primary.webp`
 
 ## Still external / failed
 
