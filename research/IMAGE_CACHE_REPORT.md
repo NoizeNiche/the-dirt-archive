@@ -1,20 +1,16 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **0**
+- Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2916**
+- Remaining tracker photo backlog: **2915**
 
 ## Storage layout
 
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Black Arts Toneworks - Sarcophagus -> `./assets/pedals/black-arts-toneworks/sarcophagus/primary.webp`
 
 ## Still external / failed
 

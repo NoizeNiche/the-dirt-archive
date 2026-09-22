@@ -8437,7 +8437,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 097/OD-Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 097/OD-Fuzz.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/blackcat/odfuzz"
     },
     {
       "company": "Black Cat Pedals",
@@ -8449,7 +8450,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 097/RGDP - Really Great Dirt Pedal.md"
+      "research_record": "./research/pedals/PRP Batch 097/RGDP - Really Great Dirt Pedal.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/blackcat/rgdp"
     },
     {
       "company": "Black Cat Pedals",
@@ -8581,7 +8583,8 @@
       ],
       "image": null,
       "source_page": "https://reverb.com/item/30528369-blackhawk-asgard-bass-fuzz-guitar-distortion",
-      "research_record": "./research/pedals/PRP Batch 099/Asgard Bass Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 099/Asgard Bass Fuzz.md",
+      "image_source_page": "https://reverb.com/au/item/30528369-blackhawk-asgard-bass-fuzz-guitar-distortion"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -8604,7 +8607,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md",
+      "image_source_page": "https://reverb.com/item/77950001-black-hawk-basilisk-fuzz-black"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -8684,7 +8688,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 100/Morgul Drive MKII.md"
+      "research_record": "./research/pedals/PRP Batch 100/Morgul Drive MKII.md",
+      "image_source_page": "https://reverb.com/item/77782537-blackhawk-morgul-drive"
     },
     {
       "company": "Blackhawk Amplifiers",
