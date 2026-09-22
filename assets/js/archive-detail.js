@@ -220,7 +220,7 @@ async function loadResearchMarkdown(path){
       // newline sequences. Normalize that representation at the loading boundary
       // so the renderer sees real markdown line breaks without rewriting the
       // underlying archive records.
-      const normalizedText = text.includes('\\n') && !text.includes('\n') ? text.replace(/\\r?\\n/g, '\n') : text;
+      const normalizedText = text.includes('\\n') ? text.replace(/\\r?\\n/g, '\n') : text;
       return normalizedText;
     }catch(error){
       lastError=error?.name==='AbortError'
