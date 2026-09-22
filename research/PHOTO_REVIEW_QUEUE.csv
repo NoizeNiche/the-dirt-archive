@@ -1,29 +1,4 @@
 Builder,Pedal,Catalog Type,Status,Attempts,Last Failure
-Buffalo FX,M-1 Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Buffalo FX,Patriot,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Buffalo FX,RH-X Rams Head - NOS BC239c,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Buffalo FX,Tonebender Mk3,,DEEP_REVIEW,2,no usable exact-model image candidate found
-BuGGFX Pedals,Raincoat,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Build Your Own Clone,250+,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Build Your Own Clone,855 Drive,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Build Your Own Clone,B.G. Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Build Your Own Clone,Bender Clone,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Build Your Own Clone,British Blues Overdrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Build Your Own Clone,E.S.V. Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Build Your Own Clone,Fuzz Clone,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Build Your Own Clone,Li'l Beaver (Triangle),,DEEP_REVIEW,2,no usable exact-model image candidate found
-Build Your Own Clone,Li'l Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bulinski Effect Pedals,Deluxe Velociraptor Diode Bass Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Bulinski Effect Pedals,RC Bass Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-BYW Audio,Blacky' Blower,,DEEP_REVIEW,2,no usable exact-model image candidate found
-BYW Audio,Gros Buzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
-C.Giant,OD-1 Warm Blues - Overdrive/Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
-C.I.C,MOD-7 Overdrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
-C.Q.O.,Super Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
-C14 Devices,Tone Chaser,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Cactus,MTL-5 Ultra Metal,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Cactus,OVD-5 Overdrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
-Cajita Stompboxes,Bdi.ts with Overdrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Calangary Pedals,Kalagondang Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Calangary Pedals,Zaladin Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
 California Valveworks,The Bone Tender,,DEEP_REVIEW,2,no usable exact-model image candidate found
@@ -268,6 +243,30 @@ Buffalo FX,CVIII - BC108 Silicon Fuzz,,DEEP_REVIEW,3,no usable exact-model image
 Buffalo FX,Evolution - 4 Stage Overdrive/Distortion,,DEEP_REVIEW,3,no usable exact-model image candidate found
 Buffalo FX,Fuzz Face Ge,,DEEP_REVIEW,3,no usable exact-model image candidate found
 Buffalo FX,Fuzz Face Si,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Buffalo FX,M-1 Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Buffalo FX,Patriot,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Buffalo FX,RH-X Rams Head - NOS BC239c,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Buffalo FX,Tonebender Mk3,,DEEP_REVIEW,3,no usable exact-model image candidate found
+BuGGFX Pedals,Raincoat,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Build Your Own Clone,250+,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Build Your Own Clone,855 Drive,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Build Your Own Clone,B.G. Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Build Your Own Clone,Bender Clone,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Build Your Own Clone,British Blues Overdrive,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Build Your Own Clone,E.S.V. Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Build Your Own Clone,Fuzz Clone,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Build Your Own Clone,Li'l Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bulinski Effect Pedals,Deluxe Velociraptor Diode Bass Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Bulinski Effect Pedals,RC Bass Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+BYW Audio,Blacky' Blower,,DEEP_REVIEW,3,no usable exact-model image candidate found
+BYW Audio,Gros Buzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
+C.Giant,OD-1 Warm Blues - Overdrive/Distortion,,DEEP_REVIEW,3,no usable exact-model image candidate found
+C.I.C,MOD-7 Overdrive,,DEEP_REVIEW,3,no usable exact-model image candidate found
+C.Q.O.,Super Distortion,,DEEP_REVIEW,3,no usable exact-model image candidate found
+C14 Devices,Tone Chaser,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Cactus,MTL-5 Ultra Metal,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Cactus,OVD-5 Overdrive,,DEEP_REVIEW,3,no usable exact-model image candidate found
+Cajita Stompboxes,Bdi.ts with Overdrive,,DEEP_REVIEW,3,no usable exact-model image candidate found
 BBE,Green Screamer,,DEEP_REVIEW,4,no usable exact-model image candidate found
 BearFoot FX,Emerald Green Overdrive,,DEEP_REVIEW,4,no usable exact-model image candidate found
 Behringer,OD300,,DEEP_REVIEW,4,no usable exact-model image candidate found
@@ -309,11 +308,11 @@ Barber Electronics,LTD SR,,DEEP_REVIEW,5,no usable exact-model image candidate f
 Barber Electronics,Midnight Standard,,DEEP_REVIEW,5,no usable exact-model image candidate found
 Barber Electronics,Pepsiman,,DEEP_REVIEW,5,no usable exact-model image candidate found
 BBE,G Screamer,,DEEP_REVIEW,5,no usable exact-model image candidate found
-B85 Audio,Hrom - Bass Overdrive,,DEEP_REVIEW,6,no usable exact-model image candidate found
-Azur,LEON DRIVE Effect Pedal,,DEEP_REVIEW,7,no usable exact-model image candidate found
-Azur,OVERDRIVE Effect Pedal,,DEEP_REVIEW,7,no usable exact-model image candidate found
-B.C. Rich,DMD-1 Digital Metal Distortion,,DEEP_REVIEW,7,no usable exact-model image candidate found
-Azur,FUZZ Effect Pedal,,DEEP_REVIEW,10,no usable exact-model image candidate found
+B85 Audio,Hrom - Bass Overdrive,,DEEP_REVIEW,7,no usable exact-model image candidate found
+Azur,LEON DRIVE Effect Pedal,,DEEP_REVIEW,8,no usable exact-model image candidate found
+Azur,OVERDRIVE Effect Pedal,,DEEP_REVIEW,8,no usable exact-model image candidate found
+B.C. Rich,DMD-1 Digital Metal Distortion,,DEEP_REVIEW,8,no usable exact-model image candidate found
+Azur,FUZZ Effect Pedal,,DEEP_REVIEW,11,no usable exact-model image candidate found
 Add+ Pedals,Super Drive 2,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Aether Electronic,Lenore,Fuzz / Overdrive,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Alber,GA-1040P Gain,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found

@@ -1,10 +1,10 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **7**
-- Staged browser photos converted: **7**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2888**
+- Remaining tracker photo backlog: **2881**
 
 ## Storage layout
 
@@ -14,13 +14,7 @@
 
 ## Newly cached
 
-- Brantone Electronics - WEM Pepbox - Official Reissue -> `./assets/pedals/brantone-electronics/wem-pepbox-official-reissue/primary.webp`
-- Breakfast Audio - SLAB DISTORTION -> `./assets/pedals/breakfast-audio/slab-distortion/primary.webp`
-- Breakfast Audio - WELTSCHMERZ FUZZ -> `./assets/pedals/breakfast-audio/weltschmerz-fuzz/primary.webp`
-- British Pedal Company - Rangemaster Fuzzbug MkII -> `./assets/pedals/british-pedal-company/rangemaster-fuzzbug-mkii/primary.webp`
-- British Pedal Company - Tone Bender Mk1.5 -> `./assets/pedals/british-pedal-company/tone-bender-mk1-5/primary.webp`
-- British Pedal Company - Tone Bender MkI -> `./assets/pedals/british-pedal-company/tone-bender-mki/primary.webp`
-- British Pedal Company - Tone Bender Professional MkII -> `./assets/pedals/british-pedal-company/tone-bender-professional-mkii/primary.webp`
+- Build Your Own Clone - Li'l Beaver (Triangle) -> `./assets/pedals/build-your-own-clone/li-l-beaver-triangle/primary.webp`
 
 ## Still external / failed
 

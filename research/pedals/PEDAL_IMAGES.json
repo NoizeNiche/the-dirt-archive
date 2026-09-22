@@ -8909,9 +8909,11 @@
   {
     "builder": "Build Your Own Clone",
     "pedal": "Li'l Beaver (Triangle)",
-    "image": null,
+    "image": "./assets/pedals/build-your-own-clone/li-l-beaver-triangle/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-triangle.md"
+    "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-triangle.md",
+    "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/trianglepainted_large.jpg",
+    "image_source_page": "https://stompboxschematics.com/circuits/lil-beaver-triangle-kit-by-build-your-own-clone-byoc/"
   },
   {
     "builder": "Build Your Own Clone",
