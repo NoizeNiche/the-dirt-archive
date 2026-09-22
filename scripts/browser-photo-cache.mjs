@@ -1135,6 +1135,27 @@ async function recoverEntry(browser, entry, deepReview = false) {
         const pedalTokens = identityTokens(entry.pedal);
         const builderTokens = identityTokens(entry.company);
 
+        // Some modern marketplace pages keep the real CDN image URLs in the
+        // rendered HTML/JSON while exposing only an empty or placeholder <img>
+        // node to selectors. On an already identity-verified source page, recover
+        // those exact image URLs from the rendered document and let Chromium
+        // render the image itself. This is especially useful for Reverb galleries,
+        // which can hydrate their image links after the initial DOM snapshot.
+        const embeddedImageCandidates = [];
+        try {
+          const html = await page.content();
+          const urls = [...html.matchAll(/https?:\\/\\/(?:rvb-img\\.reverb\\.com|static\\.reverb-assets\\.com)\\/[^"'\\s<>\\\\]+/gi)]
+            .map(match => match[0].replace(/&amp;/g, '&').replace(/\\u0026/g, '&'));
+          for (const url of [...new Set(urls)].slice(0, 10)) {
+            embeddedImageCandidates.push({
+              url,
+              score: 900,
+              exactPhrase: true,
+              embeddedImage: true
+            });
+          }
+        } catch {}
+
         // Curated source pages are already tied to the exact pedal. The remaining
         // problem is selecting the *right* image when a product page contains
         // multiple photos, logos, thumbnails, or several products. Score the image
