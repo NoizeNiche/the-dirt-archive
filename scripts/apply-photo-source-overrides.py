@@ -32,7 +32,7 @@ def main() -> None:
             pedal = row.get("Pedal", "").strip()
             source_page = row.get("Image Source Page", "").strip()
             if builder and pedal and source_page:
-                overrides[key(builder, pedal)] = (source_page, row_index)
+                overrides.setdefault(key(builder, pedal), []).append((source_page, row_index))
 
     with INDEX.open(encoding="utf-8") as handle:
         catalog = json.load(handle)
@@ -48,13 +48,18 @@ def main() -> None:
         if not override:
             continue
 
-        source_page, priority = override
-        if entry.get("image_source_page") != source_page:
-            entry["image_source_page"] = source_page
+        pages = [page for page, _ in override]
+        primary_page, primary_priority = override[-1]
+        if entry.get("image_source_pages") != pages:
+            entry["image_source_pages"] = pages
+        if entry.get("image_source_page") != primary_page:
+            entry["image_source_page"] = primary_page
+        if entry.get("image_source_pages_verified") is not True:
+            entry["image_source_pages_verified"] = True
         if entry.get("image_source_page_verified") is not True:
             entry["image_source_page_verified"] = True
-        if entry.get("image_source_priority") != priority:
-            entry["image_source_priority"] = priority
+        if entry.get("image_source_priority") != primary_priority:
+            entry["image_source_priority"] = primary_priority
         changed += 1
 
     if changed:
