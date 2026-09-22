@@ -10663,11 +10663,11 @@
   {
     "builder": "CastleRock",
     "pedal": "CastleRock Distortion",
-    "image": null,
+    "image": "./assets/pedals/castlerock/castlerock-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/castlerock/distortion",
     "research_record": "./research/pedals/PRP Batch 153/castlerock-distortion.md",
     "image_source_page": "https://www.effectsdatabase.com/model/castlerock/distortion",
-    "image_source_url": "https://www.effectsdatabase.com/model/castlerock/distortion"
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/castlerock_distortion_001.jpg"
   },
   {
     "builder": "CastleRock",
@@ -11285,9 +11285,11 @@
   {
     "builder": "Cave Passive Pedals",
     "pedal": "Super Grunt",
-    "image": null,
+    "image": "./assets/pedals/cave-passive-pedals/super-grunt/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 160/cave-super-grunt.md"
+    "research_record": "./research/pedals/PRP Batch 160/cave-super-grunt.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/cavepassive_supergrunt_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/grunt/super"
   },
   {
     "builder": "Cave Passive Pedals",

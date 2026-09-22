@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **2**
+- Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2829**
-- Researched, photo pending: **284**
+- Remaining tracker photo backlog: **2827**
+- Researched, photo pending: **282**
 
 ## Storage layout
 
@@ -15,7 +15,8 @@
 
 ## Newly cached
 
-- Cat's Eye ESP - Hybrid Fuzz -> `./assets/pedals/cat-s-eye-esp/hybrid-fuzz/primary.webp`
+- CastleRock - CastleRock Distortion -> `./assets/pedals/castlerock/castlerock-distortion/primary.webp`
+- Cave Passive Pedals - Super Grunt -> `./assets/pedals/cave-passive-pedals/super-grunt/primary.webp`
 
 ## Still external / failed
 
