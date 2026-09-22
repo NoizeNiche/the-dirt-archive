@@ -2548,9 +2548,27 @@ async function recoverEntry(browser, entry, deepReview = false) {
     // stubborn pedal effectively wait forever while the queue stayed non-empty.
     // Eight slots keeps deep review moving while leaving the majority
     // of each bounded pass for fresh, easier-to-recover records.
-    const HARD_CASE_SLOTS = Math.min(8, LIMIT, deepCandidates.length);
+    const directImageCases = [...orderedCandidates]
+      .filter(entry => /^https?:/i.test(String(entry.image_source_url || '').trim()))
+      .sort((a, b) => {
+        const aPriority = Number(a.image_source_priority) || 0;
+        const bPriority = Number(b.image_source_priority) || 0;
+        if (aPriority !== bPriority) return bPriority - aPriority;
+        const aOrder = trackerMeta.get(key(a.company, a.pedal))?.order;
+        const bOrder = trackerMeta.get(key(b.company, b.pedal))?.order;
+        if (Number.isFinite(aOrder) && Number.isFinite(bOrder)) return aOrder - bOrder;
+        return 0;
+      });
+    const HARD_CASE_SLOTS = Math.min(8, LIMIT, directImageCases.length + deepCandidates.length);
     const FRESH_CASE_SLOTS = Math.max(0, LIMIT - HARD_CASE_SLOTS);
+
+    // Exact direct-image overrides outrank ordinary hard cases, including
+    // records already parked after repeated failures. Those URLs were curated
+    // from exact product pages, so they deserve immediate retry priority.
+    const directHardCases = directImageCases.slice(0, HARD_CASE_SLOTS);
+    const remainingHardSlots = Math.max(0, HARD_CASE_SLOTS - directHardCases.length);
     const highAttemptCases = [...deepCandidates]
+      .filter(entry => !directHardCases.some(x => key(x.company, x.pedal) === key(entry.company, entry.pedal)))
       .sort((a, b) => {
         const aReview = reviewByKey.get(key(a.company, a.pedal));
         const bReview = reviewByKey.get(key(b.company, b.pedal));
@@ -2562,8 +2580,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
         if (Number.isFinite(aOrder) && Number.isFinite(bOrder)) return aOrder - bOrder;
         return 0;
       })
-      .slice(0, HARD_CASE_SLOTS);
-    const hardCases = highAttemptCases;
+      .slice(0, remainingHardSlots);
+    const hardCases = [...directHardCases, ...highAttemptCases];
     // Fill the remaining slots with ordinary unresolved records. This keeps
     // progress broad while guaranteeing that hard cases get revisited every run.
     const freshPool = normalCandidates.length
