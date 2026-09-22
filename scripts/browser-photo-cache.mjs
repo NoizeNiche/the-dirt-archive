@@ -1330,6 +1330,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
 
         const matches = page.locator('img');
         const count = await matches.count();
+        const backgroundMatches = page.locator('[style*="background-image"], [data-background], [data-bg], [data-background-image]');
+        const backgroundCount = await backgroundMatches.count();
         const linkMatches = page.locator('a[href]');
         const linkCount = await linkMatches.count();
 
@@ -1444,6 +1446,23 @@ async function recoverEntry(browser, entry, deepReview = false) {
             await page.waitForTimeout(220);
 
             const bytes = await img.screenshot({ type: 'png' }).catch(() => null);
+            if (bytes && bytes.length >= 3000) {
+              return { bytes, src: candidate.src };
+            }
+          }
+
+          // CSS-background galleries can expose the exact photograph without
+          // an <img>. Chromium can still render the background even when the
+          // underlying CDN URL rejects a direct request, so capture the exact
+          // scored background element as rendered.
+          if (Number.isInteger(candidate.bgIndex) &&
+              candidate.bgIndex >= 0 &&
+              candidate.bgIndex < backgroundCount &&
+              candidate.backgroundImage) {
+            const node = backgroundMatches.nth(candidate.bgIndex);
+            await node.scrollIntoViewIfNeeded().catch(() => {});
+            await page.waitForTimeout(220);
+            const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
             if (bytes && bytes.length >= 3000) {
               return { bytes, src: candidate.src };
             }
