@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: '13 * * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/hourly-site-health.js'
+      - '.github/workflows/hourly-site-health.yml'
 
 permissions:
   contents: read
