@@ -306,9 +306,9 @@ async function browserCheck(liveUrl, pedals, canaries) {
         const img=page.locator('#photoBox img');
         if(await img.count()!==1) throw new Error(`Photo element missing: ${item.company} / ${item.pedal}`);
         const src=await img.getAttribute('src');
-        const normalizedExpected = item.image ? item.image.replace(/^\.\//,'/') : item.image;
-        const normalizedSrc = src ? (src.startsWith('http') ? src : new URL(src, liveUrl + '/').pathname) : src;
-        if(normalizedSrc!==normalizedExpected) throw new Error(`Photo wiring mismatch: ${item.company} / ${item.pedal}: expected ${normalizedExpected}, got ${normalizedSrc}`);
+        const normalizedExpected = item.image ? new URL(item.image, liveUrl + '/').pathname : item.image;
+        const normalizedSrc = src ? new URL(src, liveUrl + '/').pathname : src;
+        if(normalizedSrc!==normalizedExpected) throw new Error('Photo wiring mismatch: '+item.company+' / '+item.pedal+': expected '+normalizedExpected+', got '+normalizedSrc);
         const handled=await page.evaluate(()=>{const box=document.querySelector('#photoBox');const img=box?.querySelector('img');const fallback=[...box?.querySelectorAll('span')||[]].find(s=>!s.hidden);return !!img && ((img.complete&&img.naturalWidth>0)||!!fallback)});
         if(!handled) throw new Error(`Photo did not render or fall back gracefully: ${item.company} / ${item.pedal}`);
       } else {
