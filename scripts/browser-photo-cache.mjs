@@ -990,14 +990,18 @@ async function recoverEntry(browser, entry, deepReview = false) {
             .replace(/\\u002f/gi, '/')
             .replace(/\\x2f/gi, '/')
             .replace(/\\\//g, '/');
-          const rawUrls = [
+          const absoluteUrls = [
             ...html.matchAll(/https?:\/\/[^"'\s<>]+/gi)
-          ].map(m => m[0].replace(/&amp;/g, '&'))
+          ].map(m => m[0].replace(/&amp;/g, '&'));
+          const relativeUrls = [
+            ...html.matchAll(/["'=(]\s*(\/[^"'\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?)/gi)
+          ].map(m => m[1]);
+          const rawUrls = [...absoluteUrls, ...relativeUrls]
             .filter((url, index, urls) => urls.indexOf(url) === index)
             .filter(url => /\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?$/i.test(url))
             .filter(url => !/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|layer\d+|weblogo)/i.test(url))
-            .filter(url => /(?:wp-content\/uploads|upload|media|product|pedal|image|photo|gallery|cdn|cloudinary|shopify)/i.test(url))
-            .slice(0, 20);
+            .filter(url => /(?:wp-content\/uploads|gear\/pics|upload|media|product|pedal|image|photo|gallery|cdn|cloudinary|shopify)/i.test(url))
+            .slice(0, 30);
           for (const url of rawUrls) rawHtmlImageData.push(url);
         } catch {}
 
