@@ -59,14 +59,20 @@ def main() -> None:
         if existing_image.startswith("./assets/pedals/") or existing_image.startswith("assets/pedals/"):
             continue
 
-        override = overrides.get(
-            key(entry.get("company", ""), entry.get("pedal", ""))
-        )
-        if not override:
+        entry_key = key(entry.get("company", ""), entry.get("pedal", ""))
+        override = overrides.get(entry_key)
+        direct = direct_overrides.get(entry_key)
+        if not override and not direct:
             continue
 
+        override = override or []
         pages = list(dict.fromkeys(page for page, _, _ in override))
-        primary_page, primary_priority, _ = override[-1]
+        if direct and direct[0] not in pages:
+            pages.append(direct[0])
+        if override:
+            primary_page, primary_priority, _ = override[-1]
+        else:
+            primary_page, primary_priority = direct[0], 100000
         if entry.get("image_source_pages") != pages:
             entry["image_source_pages"] = pages
         if entry.get("image_source_page") != primary_page:
