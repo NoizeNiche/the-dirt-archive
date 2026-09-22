@@ -220,3 +220,7 @@ Seeded ten additional exact model-page recovery leads: Alen Geere Methoxy Overdr
 ## Exact photo-lead checkpoint - September 22, 2026 (final pass)
 
 Seeded five additional exact recovery leads with photographic trails: Aul Instruments Fuzz, Anarchy Audio Australia Baa Bzz, Anarchy Audio Australia Deadwoods - Chainsaw Fuzz, Audile Bass TOAD, and Automat Audio Devices Triplegänger. Source leads remain separate from pictured status until the local-cache pipeline archives confirmed assets.
+
+## Tracker reconciliation checkpoint - September 22, 2026
+
+The live PRP tracker now parses to 3,819 records, 1,274 researched, 952 pictured, 322 researched-photo-pending, and 952 PRP-complete. The headline recovery counts in CURRENT_STATE.md were synchronized to these live tracker values. AMT Electronics BS British Sound was added as an exact source lead from its model-specific Effects Database record.
