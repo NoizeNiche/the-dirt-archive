@@ -39,7 +39,12 @@ def main() -> None:
 
     changed = 0
     for entry in catalog.get("pedals", []):
-        if entry.get("image"):
+        existing_image = str(entry.get("image") or "").strip().lower()
+        # Keep already-archived local photos untouched, but continue applying
+        # curated recovery leads to records whose current image is an external
+        # URL. Those external links are often the very records that need a
+        # second source when the host starts returning 401/403/500 responses.
+        if existing_image.startswith("./assets/pedals/") or existing_image.startswith("assets/pedals/"):
             continue
 
         override = overrides.get(
