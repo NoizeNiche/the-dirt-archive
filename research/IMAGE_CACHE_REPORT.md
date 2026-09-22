@@ -4,7 +4,7 @@
 - Staged browser photos converted: **3**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2911**
+- Remaining tracker photo backlog: **2908**
 
 ## Storage layout
 
@@ -14,9 +14,9 @@
 
 ## Newly cached
 
-- AXiom Effects - Distortion Preamp DP-1 -> `./assets/pedals/axiom-effects/distortion-preamp-dp-1/primary.webp`
-- AXiom Effects - Overdrive Preamp OP-1 -> `./assets/pedals/axiom-effects/overdrive-preamp-op-1/primary.webp`
-- Caline - CP-56 Midlander / The Mayday - AC Tone -> `./assets/pedals/caline/cp-56-midlander-the-mayday-ac-tone/primary.webp`
+- Carl Martin - The Fuzz -> `./assets/pedals/carl-martin/the-fuzz/primary.webp`
+- Carlsbro - Carlsbro Fuzz -> `./assets/pedals/carlsbro/carlsbro-fuzz/primary.webp`
+- Case Study Effects Co. - Germanium Aspen Overdrive -> `./assets/pedals/case-study-effects-co/germanium-aspen-overdrive/primary.webp`
 
 ## Still external / failed
 

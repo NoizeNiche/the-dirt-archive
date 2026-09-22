@@ -13807,11 +13807,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/carl-martin/the-fuzz/primary.webp",
       "source_page": "https://carlmartin.com/products/the-fuzz/",
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-the-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carlmartin/thefuzz",
-      "image_source_page_verified": true
+      "image_source_page": "https://carlmartin.com/products/the-fuzz/",
+      "image_source_page_verified": true,
+      "image_source_url": "https://carlmartin.com/wp-content/uploads/2026/02/51099_1.jpg"
     },
     {
       "company": "Carl Martin",
@@ -13843,11 +13844,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/carlsbro/carlsbro-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/carlsbro/colorsound/fuzz",
       "research_record": "./research/pedals/PRP Batch 150/carlsbro-carlsbro-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carlsbro/colorsound/fuzz",
-      "image_source_page_verified": true
+      "image_source_page": "https://www.tonehome.de/carlsbro/fuzz/",
+      "image_source_page_verified": true,
+      "image_source_url": "https://www.tonehome.de/s/img/emotionheader.jpg"
     },
     {
       "company": "Carlsbro",
@@ -13947,7 +13949,7 @@
       "image": null,
       "source_page": "https://carolineguitar.com/so-what-is-the-difference-between/",
       "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-haymaker.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caroline/haymaker",
+      "image_source_page": "https://carolineguitar.com/so-what-is-the-difference-between/",
       "image_source_page_verified": true
     },
     {
@@ -14120,7 +14122,8 @@
       "source_page": "https://reverb.com/item/66837475-carvin-ud-1-ultra-distortion",
       "research_record": "./research/pedals/PRP Batch 152/carvin-ud-1-ultra-distortion.md",
       "image_source_page": "https://reverb.com/item/66837475-carvin-ud-1-ultra-distortion",
-      "image_source_url": "https://reverb.com/item/66837475-carvin-ud-1-ultra-distortion"
+      "image_source_url": "https://reverb.com/item/66837475-carvin-ud-1-ultra-distortion",
+      "image_source_page_verified": true
     },
     {
       "company": "Carvin",
@@ -14177,11 +14180,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/case-study-effects-co/germanium-aspen-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/casestudy/aspen/germanium",
       "research_record": "./research/pedals/PRP Batch 152/case-study-effects-germanium-aspen.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/casestudy/aspen/germanium",
-      "image_source_url": "https://www.effectsdatabase.com/model/casestudy/aspen/germanium",
+      "image_source_page": "https://casestudyeffects.co/products/germanium-aspen",
+      "image_source_url": "http://casestudyeffects.co/cdn/shop/files/GermaniumAspen.jpg?v=1759017823",
       "image_source_page_verified": true
     },
     {
@@ -15016,7 +15019,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 161/catastrofx-outbreak.md"
+      "research_record": "./research/pedals/PRP Batch 161/catastrofx-outbreak.md",
+      "image_source_page": "https://www.guitarpedalx.com/news/catastrofx-combines-high-velocity-and-southerly-harmonic-overdrives-in-its-singularly-potent-and-fantastic-sounding-dual-voiced-outbreak-pedal",
+      "image_source_page_verified": true
     },
     {
       "company": "Cathouse Pedals",

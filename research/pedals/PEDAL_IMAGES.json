@@ -10247,10 +10247,11 @@
   {
     "builder": "Carl Martin",
     "pedal": "The Fuzz",
-    "image": null,
+    "image": "./assets/pedals/carl-martin/the-fuzz/primary.webp",
     "source_page": "https://carlmartin.com/products/the-fuzz/",
     "research_record": "./research/pedals/PRP Batch 149/carl-martin-the-fuzz.md",
-    "image_source_page": "https://carlmartin.com/products/the-fuzz/"
+    "image_source_page": "https://carlmartin.com/products/the-fuzz/",
+    "image_source_url": "https://carlmartin.com/wp-content/uploads/2026/02/51099_1.jpg"
   },
   {
     "builder": "Carl Martin",
@@ -10272,10 +10273,11 @@
   {
     "builder": "Carlsbro",
     "pedal": "Carlsbro Fuzz",
-    "image": null,
+    "image": "./assets/pedals/carlsbro/carlsbro-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/carlsbro/colorsound/fuzz",
     "research_record": "./research/pedals/PRP Batch 150/carlsbro-carlsbro-fuzz.md",
-    "image_source_page": "https://reverb.com/au/item/76750494-carlsbro-fuzz-early-70s-tone-bender-mkiv"
+    "image_source_page": "https://www.tonehome.de/carlsbro/fuzz/",
+    "image_source_url": "https://www.tonehome.de/s/img/emotionheader.jpg"
   },
   {
     "builder": "Carlsbro",
@@ -10504,11 +10506,11 @@
   {
     "builder": "Case Study Effects Co.",
     "pedal": "Germanium Aspen Overdrive",
-    "image": null,
+    "image": "./assets/pedals/case-study-effects-co/germanium-aspen-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/casestudy/aspen/germanium",
     "research_record": "./research/pedals/PRP Batch 152/case-study-effects-germanium-aspen.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/casestudy/aspen/germanium",
-    "image_source_url": "https://www.effectsdatabase.com/model/casestudy/aspen/germanium"
+    "image_source_page": "https://casestudyeffects.co/products/germanium-aspen",
+    "image_source_url": "http://casestudyeffects.co/cdn/shop/files/GermaniumAspen.jpg?v=1759017823"
   },
   {
     "builder": "Case Study Effects Co.",
