@@ -7947,12 +7947,12 @@
   {
     "builder": "British Pedal Company",
     "pedal": "WEM Pep Box",
-    "image": null,
+    "image": "./assets/pedals/british-pedal-company/wem-pep-box/primary.webp",
     "source": null,
     "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
     "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-wem-pep-box.md",
-    "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
+    "image_source_page": "https://www.britishpedalcompany.com/view-product/bpc-pepbox",
+    "image_source_url": "https://www.britishpedalcompany.com/images/17413992_800.jpeg"
   },
   {
     "builder": "Brotech Electronics",

@@ -1,14 +1,4 @@
 Builder,Pedal,Catalog Type,Status,Attempts,Last Failure
-BlackOutEffectors,None promoted as a standalone manufacturer-supported identity in this block,,DEEP_REVIEW,1,no usable exact-model image candidate found
-BlackOutEffectors,Twosome Dual Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Blackstar Amplification,HT-DRIVE,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Blackstar Amplification,LT-DRIVE,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Blackstar Amplification,none identified,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Blakemore Effects,Bi-Polar Octadrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Blakemore Effects,Deus Ex Machina,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Bob Burt Cabinets & Pedals,Bob Burt AH-1 Allen Hinds Signature Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Bob Burt Cabinets & Pedals,Bob Burt GR8T Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
-Bob Burt Cabinets & Pedals,Bob Burt Overdrive,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Bogner Amplification,Oxford,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Bogner Amplification,production status not established from reviewed current manufacturer material,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Bogner Amplification,Uberschall,,DEEP_REVIEW,1,no usable exact-model image candidate found
@@ -39,6 +29,20 @@ Brimstone Audio,XD-1 Crossover Distortion,,DEEP_REVIEW,1,no usable exact-model i
 British Pedal Company,Rangemaster Fuzzbug MkII,,DEEP_REVIEW,1,no usable exact-model image candidate found
 British Pedal Company,Tone Bender Mk1.5,,DEEP_REVIEW,1,no usable exact-model image candidate found
 British Pedal Company,Tone Bender MkI,,DEEP_REVIEW,1,no usable exact-model image candidate found
+British Pedal Company,Tone Bender Professional MkII,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Brotech Electronics,Fatpipe Blues,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Brotech Electronics,Fatpipe Pro,,DEEP_REVIEW,1,no usable exact-model image candidate found
+BSM,FassBender Fuzz Machine,,DEEP_REVIEW,1,no usable exact-model image candidate found
+BSM,Overdrive Supreme,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Buffalo FX,CVIII - BC108 Silicon Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Buffalo FX,Evolution - 4 Stage Overdrive/Distortion,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Buffalo FX,Fuzz Face Ge,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Buffalo FX,Fuzz Face Si,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Buffalo FX,M-1 Fuzz,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Buffalo FX,Patriot,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Buffalo FX,RH-X Rams Head - NOS BC239c,,DEEP_REVIEW,1,no usable exact-model image candidate found
+Buffalo FX,Tonebender Mk3,,DEEP_REVIEW,1,no usable exact-model image candidate found
+BuGGFX Pedals,Raincoat,,DEEP_REVIEW,1,no usable exact-model image candidate found
 Bispell Audio,Gleam,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Bispell Audio,Proxy,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Bispell Audio,Saxon,,DEEP_REVIEW,2,no usable exact-model image candidate found
@@ -103,6 +107,16 @@ BlackOutEffectors,Fix'd Fuzz Deluxe,,DEEP_REVIEW,2,no usable exact-model image c
 BlackOutEffectors,FUBÄR,,DEEP_REVIEW,2,no usable exact-model image candidate found
 BlackOutEffectors,Fuzz Bear,,DEEP_REVIEW,2,no usable exact-model image candidate found
 BlackOutEffectors,Musket Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
+BlackOutEffectors,None promoted as a standalone manufacturer-supported identity in this block,,DEEP_REVIEW,2,no usable exact-model image candidate found
+BlackOutEffectors,Twosome Dual Fuzz,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Blackstar Amplification,HT-DRIVE,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Blackstar Amplification,LT-DRIVE,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Blackstar Amplification,none identified,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Blakemore Effects,Bi-Polar Octadrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Blakemore Effects,Deus Ex Machina,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Bob Burt Cabinets & Pedals,Bob Burt AH-1 Allen Hinds Signature Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Bob Burt Cabinets & Pedals,Bob Burt GR8T Distortion,,DEEP_REVIEW,2,no usable exact-model image candidate found
+Bob Burt Cabinets & Pedals,Bob Burt Overdrive,,DEEP_REVIEW,2,no usable exact-model image candidate found
 Big Lloyde,Overdose,,DEEP_REVIEW,3,no usable exact-model image candidate found
 Big Monk Electronic Device Co.,Monk Boost,,DEEP_REVIEW,3,no usable exact-model image candidate found
 Big Tone Music Brewery,Anthology Fuzz,,DEEP_REVIEW,3,no usable exact-model image candidate found
@@ -184,31 +198,16 @@ AMT Electronics,SS-11B,,DEEP_REVIEW,7,no usable exact-model image candidate foun
 Atmosfera 6,Thulsa Doom Hyborean Fuzz,,DEEP_REVIEW,7,no usable exact-model image candidate found
 Award-Session,JD10 MkII Direct Recording Guitar Amp Emulator,,DEEP_REVIEW,7,no usable exact-model image candidate found
 Award-Session,SP75 Sessionette:75 Guitar Amp Sound,,DEEP_REVIEW,7,no usable exact-model image candidate found
-Alen Geere,LEADer Mk.2,Overdrive,DEEP_REVIEW,9,no usable exact-model image candidate found
-Alen Geere,Preface Drive,,DEEP_REVIEW,9,no usable exact-model image candidate found
-Alen Geere,Serene,,DEEP_REVIEW,9,no usable exact-model image candidate found
-Alen Geere,Tube Fuzz,,DEEP_REVIEW,9,no usable exact-model image candidate found
-Alber,OD-610 Over Drive,,DEEP_REVIEW,10,no usable exact-model image candidate found
+Alen Geere,LEADer Mk.2,Overdrive,DEEP_REVIEW,10,no usable exact-model image candidate found
+Alen Geere,Preface Drive,,DEEP_REVIEW,10,no usable exact-model image candidate found
+Alen Geere,Serene,,DEEP_REVIEW,10,no usable exact-model image candidate found
+Alen Geere,Tube Fuzz,,DEEP_REVIEW,10,no usable exact-model image candidate found
+Alber,OD-610 Over Drive,,DEEP_REVIEW,11,no usable exact-model image candidate found
 Add+ Pedals,Super Drive 2,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Aether Electronic,Lenore,Fuzz / Overdrive,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Alber,GA-1040P Gain,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Alber,OD-6 Over Drive,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
 Alber,OD-600 Over Drive,,PARKED,12,PARKED after 12 deep-review attempts: no usable exact-model image candidate found
-British Pedal Company,Tone Bender Professional MkII,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-British Pedal Company,WEM Pep Box,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-Brotech Electronics,Fatpipe Blues,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-Brotech Electronics,Fatpipe Pro,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-BSM,FassBender Fuzz Machine,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-BSM,Overdrive Supreme,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-Buffalo FX,CVIII - BC108 Silicon Fuzz,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-Buffalo FX,Evolution - 4 Stage Overdrive/Distortion,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-Buffalo FX,Fuzz Face Ge,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-Buffalo FX,Fuzz Face Si,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-Buffalo FX,M-1 Fuzz,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-Buffalo FX,Patriot,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-Buffalo FX,RH-X Rams Head - NOS BC239c,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-Buffalo FX,Tonebender Mk3,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
-BuGGFX Pedals,Raincoat,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Build Your Own Clone,250+,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Build Your Own Clone,855 Drive,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
 Build Your Own Clone,B.G. Fuzz,,PARKED,12,PARKED after 12 automatic photo attempts: no usable exact-model image candidate found
