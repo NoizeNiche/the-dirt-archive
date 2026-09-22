@@ -1916,20 +1916,27 @@ async function recoverEntry(browser, entry, deepReview = false) {
         const result = ranked.result;
         const fit = ranked.fit;
         const requiredHits = pedalTokensForSearch(entry).length >= 2 ? 2 : 1;
-        if (fit.score < 45 || fit.pedalHits < requiredHits || !result.purl || !result.murl) continue;
+        if (fit.pedalHits < requiredHits || !result.purl || !result.murl) continue;
         try {
           // Some specialist pedal databases expose their exact product image to
           // search engines but hide the image behind an AJAX feed endpoint that
-          // returns no usable HTML to a headless fetch. For a trusted database,
-          // an exact model-title match is sufficient source-page identity.
+          // returns no usable HTML to a headless fetch. For an exact model page
+          // on Effects Database, the page path itself is strong source identity,
+          // so do not reject it merely because the generic image-search ranking
+          // score is below the normal threshold.
           const resultUrl = new URL(result.purl);
           const searchIdentity = normalizedIdentity((result.title || '') + ' ' + result.purl);
           const pedalTokens = identityTokens(entry.pedal);
           const builderTokens = identityTokens(entry.company);
-          const trustedDatabase =
+          const exactDatabasePage =
             /(^|\.)effectsdatabase\.com$/i.test(resultUrl.hostname) &&
-            fit.pedalHits >= requiredHits &&
+            /\/model\//i.test(resultUrl.pathname) &&
+            pedalTokens.length > 0 &&
             pedalTokens.every(token => searchIdentity.includes(token));
+          if (!exactDatabasePage && fit.score < 45) continue;
+          const trustedDatabase =
+            exactDatabasePage &&
+            fit.pedalHits >= requiredHits;
 
           const trustedMarketplace =
             /(^|\.)(reverb\.com|ebay\.com)$/i.test(resultUrl.hostname) &&
