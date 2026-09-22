@@ -856,15 +856,15 @@ async function recoverEntry(browser, entry, deepReview = false) {
           const type = (response.headers()['content-type'] || '').toLowerCase();
           if (response.ok() && (!type || type.includes('text/html'))) {
             const html = await response.text();
-            const title = (html.match(/<title[^>]*>([\\s\\S]*?)<\\/title>/i) || [,''])[1]
-              .replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
-            const h1 = (html.match(/<h1[^>]*>([\\s\\S]*?)<\\/h1>/i) || [,''])[1]
-              .replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+            const title = (html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [,''])[1]
+              .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+            const h1 = (html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || [,''])[1]
+              .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
             const body = html
-              .replace(/<script[\\s\\S]*?<\\/script>/gi, ' ')
-              .replace(/<style[\\s\\S]*?<\\/style>/gi, ' ')
+              .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+              .replace(/<style[\s\S]*?<\/style>/gi, ' ')
               .replace(/<[^>]+>/g, ' ')
-              .replace(/\\s+/g, ' ')
+              .replace(/\s+/g, ' ')
               .slice(0, 300000);
             const identityMatch =
               entry.image_source_pages_verified === true ||
@@ -877,15 +877,15 @@ async function recoverEntry(browser, entry, deepReview = false) {
               sourcePageUsed = sourcePageUsed || pageUrl;
 
               const imageAttrs = [];
-              for (const match of html.matchAll(/<(?:img|source)\\b[^>]*(?:src|data-src|data-lazy-src|data-original|srcset)=["']([^"']+)["'][^>]*>/gi)) {
+              for (const match of html.matchAll(/<(?:img|source)\b[^>]*(?:src|data-src|data-lazy-src|data-original|srcset)=["']([^"']+)["'][^>]*>/gi)) {
                 imageAttrs.push(match[1]);
               }
-              for (const match of html.matchAll(/<meta\\b[^>]*(?:property|name)=["'](?:og:image|twitter:image)["'][^>]*content=["']([^"']+)["'][^>]*>/gi)) {
+              for (const match of html.matchAll(/<meta\b[^>]*(?:property|name)=["'](?:og:image|twitter:image)["'][^>]*content=["']([^"']+)["'][^>]*>/gi)) {
                 imageAttrs.push(match[1]);
               }
 
               for (const raw of imageAttrs) {
-                for (const part of raw.split(/\\s+/)) {
+                for (const part of raw.split(/\s+/)) {
                   if (!part || part.startsWith('data:')) continue;
                   try {
                     const url = /^https?:/i.test(part) ? part : new URL(part, pageUrl).href;
@@ -899,8 +899,6 @@ async function recoverEntry(browser, entry, deepReview = false) {
           }
         } catch {}
       }
-    }
-
     const tokens = identityTokens(entry.pedal);
     const ranked = [...new Map(candidates.map(x => [x.url, x])).values()].sort((a, b) => {
       const score = candidate => {
