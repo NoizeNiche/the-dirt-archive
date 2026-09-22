@@ -248,3 +248,7 @@ Added recovery leads for AMT B-1 BG-Sharp, AMT R-1 Rectifier, AMT SS-11B, and Al
 ## Cache run 936 checkpoint - September 22, 2026
 
 Run 936 successfully archived Analog Sound Smooth O' Drive as a verified local WebP. The committed tracker now shows 955 pictured and 319 researched-photo-pending. Recovery run 936 completed successfully; later AMT/Crown Centaur leads and additional lazy-image source fallbacks will be exercised in the next bounded cycle.
+
+## Cache run 937 checkpoint - September 22, 2026
+
+Run 937 successfully archived Anarchy Audio Australia Deadwoods - Chainsaw Fuzz as a verified local WebP. The committed tracker now shows 956 pictured and 318 researched-photo-pending. The active source set includes upgraded maker/retailer leads for Lenore and FrontGate BassDrive plus the expanded lazy-image extraction path.
