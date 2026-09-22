@@ -9515,7 +9515,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-arts-toneworks/fnord/primary.webp",
       "source_page": "https://www.blackartstoneworks.com/pedal/fnord/",
       "research_record": "./research/pedals/PRP Batch 094/FNORD.md",
       "image_source_page": "https://www.blackartstoneworks.com/pedal/fnord/",
@@ -9524,7 +9524,8 @@
       "image_source_pages": [
         "https://www.blackartstoneworks.com/pedal/fnord/"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/01/fnordnew.jpg"
     },
     {
       "company": "Black Arts Toneworks",
@@ -9586,7 +9587,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-arts-toneworks/priestess/primary.webp",
       "source_page": "https://www.blackartstoneworks.com/pedal/priestess/",
       "research_record": "./research/pedals/PRP Batch 095/Priestess.md",
       "image_source_page": "https://www.blackartstoneworks.com/pedal/priestess/",
@@ -9595,7 +9596,8 @@
       "image_source_pages": [
         "https://www.blackartstoneworks.com/pedal/priestess/"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2022/01/PriestessBlackSitePhoto_TopDown.jpg"
     },
     {
       "company": "Black Arts Toneworks",
@@ -9706,7 +9708,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-arts-toneworks/son-of-pharaoh/primary.webp",
       "source_page": "https://www.blackartstoneworks.com/pedal/son-of-pharaoh/",
       "research_record": "./research/pedals/PRP Batch 095/Son of Pharaoh.md",
       "image_source_page": "https://www.blackartstoneworks.com/pedal/son-of-pharaoh/",
@@ -9715,7 +9717,8 @@
       "image_source_pages": [
         "https://www.blackartstoneworks.com/pedal/son-of-pharaoh/"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2017/12/s-o-p-web.jpg"
     },
     {
       "company": "Black Arts Toneworks",
@@ -9742,7 +9745,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-arts-toneworks/witch-burner-mkii/primary.webp",
       "source_page": "https://www.blackartstoneworks.com/pedal/witch-burner/",
       "research_record": "./research/pedals/PRP Batch 096/Witch Burner MkII.md",
       "image_source_page": "https://www.blackartstoneworks.com/pedal/witch-burner/",
@@ -9751,7 +9754,8 @@
       "image_source_pages": [
         "https://www.blackartstoneworks.com/pedal/witch-burner/"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/03/webburner.png"
     },
     {
       "company": "Black CAT Amps",

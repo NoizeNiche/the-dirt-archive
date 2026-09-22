@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
+- Cached in this run: **4**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **12**
-- Remaining tracker photo backlog: **2812**
-- Researched, photo pending: **267**
+- Remaining tracker photo backlog: **2808**
+- Researched, photo pending: **263**
 - External source images awaiting localization: **12**
 
 ## Storage layout
@@ -16,7 +16,10 @@
 
 ## Newly cached
 
-- Black Arts Toneworks - Crown of Horns -> `./assets/pedals/black-arts-toneworks/crown-of-horns/primary.webp`
+- Black Arts Toneworks - FNORD -> `./assets/pedals/black-arts-toneworks/fnord/primary.webp`
+- Black Arts Toneworks - Priestess -> `./assets/pedals/black-arts-toneworks/priestess/primary.webp`
+- Black Arts Toneworks - Son of Pharaoh -> `./assets/pedals/black-arts-toneworks/son-of-pharaoh/primary.webp`
+- Black Arts Toneworks - Witch Burner MkII -> `./assets/pedals/black-arts-toneworks/witch-burner-mkii/primary.webp`
 
 ## Still external / failed
 
