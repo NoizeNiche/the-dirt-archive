@@ -4,8 +4,8 @@
 - Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2864**
-- Researched, photo pending: **319**
+- Remaining tracker photo backlog: **2863**
+- Researched, photo pending: **318**
 
 ## Storage layout
 
@@ -15,7 +15,7 @@
 
 ## Newly cached
 
-- Analog Sound - Smooth O' Drive -> `./assets/pedals/analog-sound/smooth-o-drive/primary.webp`
+- Anarchy Audio Australia - Deadwoods - Chainsaw Fuzz -> `./assets/pedals/anarchy-audio-australia/deadwoods-chainsaw-fuzz/primary.webp`
 
 ## Still external / failed
 

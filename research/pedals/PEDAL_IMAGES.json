@@ -2189,9 +2189,11 @@
   {
     "builder": "Anarchy Audio Australia",
     "pedal": "Deadwoods - Chainsaw Fuzz",
-    "image": null,
+    "image": "./assets/pedals/anarchy-audio-australia/deadwoods-chainsaw-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Anarchy Audio Australia/Deadwoods - Chainsaw Fuzz.md"
+    "research_record": "./research/pedals/Anarchy Audio Australia/Deadwoods - Chainsaw Fuzz.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/anarchyaudio_deadwoods_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/anarchyaudio/deadwoods"
   },
   {
     "builder": "Anarchy Audio Australia",

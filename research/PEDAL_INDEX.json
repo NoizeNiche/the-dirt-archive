@@ -1311,7 +1311,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/advsystems/overdrive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 339
+      "image_source_priority": 389
     },
     {
       "company": "Advance Tube Technology",
@@ -1988,7 +1988,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/alengeere/crowncentaur",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 340
+      "image_source_priority": 390
     },
     {
       "company": "Alen Geere",
@@ -2177,12 +2177,13 @@
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 047/Origami Overdrive.md",
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/alienamps/origami"
+        "https://www.effectsdatabase.com/model/alienamps/origami",
+        "https://produto.mercadolivre.com.br/MLB-953389761-pedal-guitarra-alien-origami-overdrive-_JM"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/alienamps/origami",
+      "image_source_page": "https://produto.mercadolivre.com.br/MLB-953389761-pedal-guitarra-alien-origami-overdrive-_JM",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 342
+      "image_source_priority": 388
     },
     {
       "company": "Alien Rabbit",
@@ -3288,7 +3289,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/anarchy-audio-australia/deadwoods-chainsaw-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Anarchy Audio Australia/Deadwoods - Chainsaw Fuzz.md",
       "image_source_pages": [
@@ -3297,7 +3298,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/anarchyaudio/deadwoods",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 377
+      "image_source_priority": 377,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/anarchyaudio_deadwoods_001.jpg"
     },
     {
       "company": "Anarchy Audio Australia",
