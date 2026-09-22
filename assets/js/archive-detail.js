@@ -216,7 +216,12 @@ async function loadResearchMarkdown(path){
       if(!response.ok)throw new Error('Research record request failed: HTTP '+response.status);
       const text=await response.text();
       if(!text.trim())throw new Error('Research record is empty.');
-      return text;
+      // A small set of older research records was stored with literal escaped
+      // newline sequences. Normalize that representation at the loading boundary
+      // so the renderer sees real markdown line breaks without rewriting the
+      // underlying archive records.
+      const normalizedText = text.includes('\n') && !text.includes('\n') ? text.replace(/\\r?\\n/g, '\n') : text;
+      return normalizedText;
     }catch(error){
       lastError=error?.name==='AbortError'
         ? new Error('Research record request timed out.')
