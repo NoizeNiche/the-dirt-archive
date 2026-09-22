@@ -240,3 +240,7 @@ Cache run 935 successfully archived two verified local photos: Alien Rabbit Magi
 ## Photo recovery lead and lazy-image checkpoint - September 22, 2026
 
 Added exact recovery leads for Aether Electronic Lenore, Alien Amplification Origami Overdrive, and ADV Systems #overdrive. The browser extractor now also prefers the highest-density lazy-loaded srcset image when a page's normal src is a placeholder, while retaining exact-model identity and image-content verification.
+
+## Exact source expansion checkpoint - September 22, 2026
+
+Added recovery leads for AMT B-1 BG-Sharp, AMT R-1 Rectifier, AMT SS-11B, and Alen Geere Crown Centaur. The browser extractor now recognizes additional full-resolution and lazy srcset attributes, including data-srcset, data-lazy-srcset, data-full-src, and data-original-src, before the existing exact-model verification.
