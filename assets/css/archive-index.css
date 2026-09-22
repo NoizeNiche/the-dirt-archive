@@ -204,3 +204,43 @@ main{padding:24px 0 72px}
   outline:2px solid var(--acid);
   outline-offset:2px;
 }
+
+.heroTools{
+  display:flex;
+  align-items:center;
+  justify-content:flex-end;
+  gap:10px;
+}
+.discoverButton{
+  border:1px solid #c9c9c2;
+  border-radius:10px;
+  background:#242522;
+  color:#f5f3ec;
+  padding:9px 12px;
+  font-size:.62rem;
+  font-weight:950;
+  text-transform:uppercase;
+  letter-spacing:.08em;
+  cursor:pointer;
+  transition:.15s ease;
+}
+.discoverButton:hover:not(:disabled){
+  background:var(--acid);
+  border-color:var(--acid);
+  color:#111;
+}
+.discoverButton:focus-visible{
+  outline:2px solid var(--acid);
+  outline-offset:2px;
+}
+.discoverButton:disabled{
+  opacity:.4;
+  cursor:default;
+}
+@media(max-width:640px){
+  .heroTools{
+    width:100%;
+    justify-content:space-between;
+  }
+  .discoverButton{flex:0 0 auto}
+}
