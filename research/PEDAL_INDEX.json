@@ -222,7 +222,8 @@
       "source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
       "research_record": "./research/pedals/A&M Custom Effects/Crash Central - Crunch Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
-      "image_source_url": "https://www.effectsdatabase.com/model/am/crashcentral"
+      "image_source_url": "https://www.effectsdatabase.com/model/am/crashcentral",
+      "image_source_page_verified": true
     },
     {
       "company": "A&M Custom Effects",
@@ -234,7 +235,8 @@
       "source_page": "https://www.effectsdatabase.com/model/am/crazyboy",
       "research_record": "./research/pedals/A&M Custom Effects/Crazyboy - Double Fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/am/crazyboy",
-      "image_source_url": "https://www.effectsdatabase.com/model/am/crazyboy"
+      "image_source_url": "https://www.effectsdatabase.com/model/am/crazyboy",
+      "image_source_page_verified": true
     },
     {
       "company": "A&M Custom Effects",
@@ -246,7 +248,8 @@
       "source_page": "https://www.effectsdatabase.com/model/am/metalmaniac",
       "research_record": "./research/pedals/A&M Custom Effects/Metal Maniac - Mega Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/am/metalmaniac",
-      "image_source_url": "https://www.effectsdatabase.com/model/am/metalmaniac"
+      "image_source_url": "https://www.effectsdatabase.com/model/am/metalmaniac",
+      "image_source_page_verified": true
     },
     {
       "company": "A&M Custom Effects",
@@ -258,7 +261,8 @@
       "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
       "research_record": "./research/pedals/A&M Custom Effects/Twin Pro - Overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/am/twinpro",
-      "image_source_url": "https://www.effectsdatabase.com/model/am/twinpro"
+      "image_source_url": "https://www.effectsdatabase.com/model/am/twinpro",
+      "image_source_page_verified": true
     },
     {
       "company": "Abasi Concepts",
@@ -435,7 +439,8 @@
       "source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
       "research_record": "./research/pedals/AboveGroundFX/Rocks Hard.md",
       "image_source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
-      "image_source_url": "https://www.effectsdatabase.com/model/aboveground/rockshard"
+      "image_source_url": "https://www.effectsdatabase.com/model/aboveground/rockshard",
+      "image_source_page_verified": true
     },
     {
       "company": "Absolutely Analog",
@@ -1714,7 +1719,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 046/LEADer Mk.2.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/leader/mk2"
+      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/leader/mk2",
+      "image_source_page_verified": true
     },
     {
       "company": "Alen Geere",
@@ -1745,7 +1751,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 046/Preface Drive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/prefacedrive"
+      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/prefacedrive",
+      "image_source_page_verified": true
     },
     {
       "company": "Alen Geere",
@@ -1756,7 +1763,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 046/Serene.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/serene"
+      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/serene",
+      "image_source_page_verified": true
     },
     {
       "company": "Alen Geere",
@@ -1767,7 +1775,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 046/Tube Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/tubefuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/tubefuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Alexander Pedals",
@@ -2337,7 +2346,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/b1",
-      "research_record": "./research/pedals/PRP Batch 049/B-1 BG-Sharp.md"
+      "research_record": "./research/pedals/PRP Batch 049/B-1 BG-Sharp.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/amt/legendamp/b1",
+      "image_source_page_verified": true
     },
     {
       "company": "AMT Electronics",
@@ -2381,7 +2392,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/m1",
-      "research_record": "./research/pedals/PRP Batch 049/M-1 JM-800.md"
+      "research_record": "./research/pedals/PRP Batch 049/M-1 JM-800.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/amt/legendamp/m1",
+      "image_source_page_verified": true
     },
     {
       "company": "AMT Electronics",
@@ -2391,7 +2404,9 @@
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/r1",
-      "research_record": "./research/pedals/PRP Batch 049/R-1 Rectifier.md"
+      "research_record": "./research/pedals/PRP Batch 049/R-1 Rectifier.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/amt/legendamp/r1",
+      "image_source_page_verified": true
     },
     {
       "company": "AMT Electronics",
@@ -2402,7 +2417,8 @@
       "image": null,
       "source_page": "https://amtelectronics.com/",
       "research_record": "./research/pedals/PRP Batch 049/Rammstein RD Distortion Combo Emulator.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/amt/rd"
+      "image_source_page": "https://www.effectsdatabase.com/model/amt/rd",
+      "image_source_page_verified": true
     },
     {
       "company": "AMT Electronics",
@@ -2425,7 +2441,8 @@
       "image": null,
       "source_page": "https://amtelectronics.com/new/amt-ss-11b/",
       "research_record": "./research/pedals/PRP Batch 050/SS-11B.md",
-      "image_source_page": "https://media.amtelectronics.com/amt-ss-11b/"
+      "image_source_page": "https://media.amtelectronics.com/amt-ss-11b/",
+      "image_source_page_verified": true
     },
     {
       "company": "AMT Electronics",
@@ -2970,7 +2987,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Anasounds/savage.md"
+      "research_record": "./research/pedals/Anasounds/savage.md",
+      "image_source_page": "https://anasounds.com/products/origins-pedals/savage/",
+      "image_source_page_verified": true
     },
     {
       "company": "Animal Factory Amplification",
@@ -3576,7 +3595,8 @@
       "image": null,
       "source_page": "https://reverb.com/item/87142969-atmosfera6-thulsa-doom-hyborean-fuzz-blood-red",
       "research_record": "./research/pedals/Atmosfera 6/Thulsa Doom Hyborean Fuzz.md",
-      "image_source_page": "https://reverb.com/item/87142969-atmosfera6-thulsa-doom-hyborean-fuzz-blood-red"
+      "image_source_page": "https://reverb.com/item/87142969-atmosfera6-thulsa-doom-hyborean-fuzz-blood-red",
+      "image_source_page_verified": true
     },
     {
       "company": "Attic Audio",
@@ -3622,7 +3642,8 @@
       "image": null,
       "source_page": "https://audile.au/toad/",
       "research_record": "./research/pedals/Audile/TOAD - Tone Overdrive And Distortion.md",
-      "image_source_page": "https://audile.au/toad/"
+      "image_source_page": "https://audile.au/toad/",
+      "image_source_page_verified": true
     },
     {
       "company": "Audio Aesthetic",
@@ -3678,9 +3699,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/audio-matrix/mini-boogee-mini-matrix/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/audiomatrix/miniboogee",
-      "research_record": "./research/pedals/Audio Matrix/Mini Boogee - Mini Matrix.md"
+      "research_record": "./research/pedals/Audio Matrix/Mini Boogee - Mini Matrix.md",
+      "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitzRWbyWykTA2oQ8cpK7_Oq8BSqUAgGapHT6BdlJUYd2VV_Dy40W1V4xA5N99tJglzGzIUWbMQ96YPc8TzlFyrPe-v8DTEwdUZYtqa8yyMzxOHflfzCYhx8EkTVelAOkhLHMQYgyc_CoA/s1600/marzamira+001.jpg",
+      "image_source_page": "https://www.tonemachinesblog.com/2011/12/audio-matrix-mini-boogee-1980.html"
     },
     {
       "company": "Audio Monk",
@@ -4024,7 +4047,8 @@
       "image": null,
       "source_page": "https://www.effects-pedals.info/p/aural-dream-purely-fuzz/",
       "research_record": "./research/pedals/Aural Dream/Purely Fuzz.md",
-      "image_source_page": "https://reverb.com/item/45635025-aural-dream-purely-fuzz"
+      "image_source_page": "https://reverb.com/item/45635025-aural-dream-purely-fuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Aural Dream",
@@ -4083,7 +4107,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/automat/raraavis",
       "research_record": "./research/pedals/Automat Audio Devices/Rara Avis.md",
-      "image_source_page": "https://tonewolf.com/products/automat-rara-avis-fuzz-pedal-2025-black"
+      "image_source_page": "https://tonewolf.com/products/automat-rara-avis-fuzz-pedal-2025-black",
+      "image_source_page_verified": true
     },
     {
       "company": "Automat Audio Devices",
@@ -4104,7 +4129,8 @@
       "image": null,
       "source_page": "https://auxiliaryworkshop.com/",
       "research_record": "./research/pedals/Auxiliary Workshop/AWOD35 Overdrive.md",
-      "image_source_page": "https://www.auxiliaryworkshop.com/AW0D35.html"
+      "image_source_page": "https://www.auxiliaryworkshop.com/AW0D35.html",
+      "image_source_page_verified": true
     },
     {
       "company": "Auxiliary Workshop",
@@ -4189,7 +4215,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/awardsession/sp75",
       "research_record": "./research/pedals/Award-Session/SP75 Sessionette:75 Guitar Amp Sound.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/awardsession/sp75"
+      "image_source_page": "https://www.effectsdatabase.com/model/awardsession/sp75",
+      "image_source_page_verified": true
     },
     {
       "company": "Awestruck Amplification",
@@ -4224,7 +4251,8 @@
       "image": null,
       "source_page": "https://awolpedals.com/products/virus-fuzz",
       "research_record": "./research/pedals/AWOL Pedals/Virus Fuzz.md",
-      "image_source_page": "https://awolpedals.com/products/virus-fuzz"
+      "image_source_page": "https://awolpedals.com/products/virus-fuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Axcess by Giannini",
@@ -4235,7 +4263,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/bd108",
       "research_record": "./research/pedals/Axcess by Giannini/BD-108 Blues Drive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/giannini/axcess/bd108"
+      "image_source_page": "https://www.effectsdatabase.com/model/giannini/axcess/bd108",
+      "image_source_page_verified": true
     },
     {
       "company": "Axcess by Giannini",
@@ -4336,7 +4365,8 @@
       "image": null,
       "source_page": "https://axiomeffects.com/collections/frontpage/products/axiom-distortion-preamp-dp-1",
       "research_record": "./research/pedals/AXiom Effects/Distortion Preamp DP-1.md",
-      "image_source_page": "https://axiomeffects.com/collections/frontpage/products/axiom-distortion-preamp-dp-1"
+      "image_source_page": "https://axiomeffects.com/collections/frontpage/products/axiom-distortion-preamp-dp-1",
+      "image_source_page_verified": true
     },
     {
       "company": "AXiom Effects",
@@ -4347,7 +4377,8 @@
       "image": null,
       "source_page": "https://axiomeffects.com/products/fuzz-preamp-fp-1",
       "research_record": "./research/pedals/AXiom Effects/Fuzz Preamp FP-1.md",
-      "image_source_page": "https://axiomeffects.com/products/fuzz-preamp-fp-1"
+      "image_source_page": "https://axiomeffects.com/products/fuzz-preamp-fp-1",
+      "image_source_page_verified": true
     },
     {
       "company": "AXiom Effects",
@@ -4358,7 +4389,8 @@
       "image": null,
       "source_page": "https://axiomeffects.com/products/axiom-overdrive-preamp-op-1",
       "research_record": "./research/pedals/AXiom Effects/Overdrive Preamp OP-1.md",
-      "image_source_page": "https://axiomeffects.com/products/axiom-overdrive-preamp-op-1"
+      "image_source_page": "https://axiomeffects.com/products/axiom-overdrive-preamp-op-1",
+      "image_source_page_verified": true
     },
     {
       "company": "Axis Guitar Effects",
@@ -4369,7 +4401,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/axisge/face/mk2",
       "research_record": "./research/pedals/Axis Guitar Effects/Axis Face MkII.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/axisge/face/mk2"
+      "image_source_page": "https://www.effectsdatabase.com/model/axisge/face/mk2",
+      "image_source_page_verified": true
     },
     {
       "company": "Axis Guitar Effects",
@@ -4435,7 +4468,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/axtar/dst5",
       "research_record": "./research/pedals/Axtar/DIS-5 Distortion.md",
-      "image_source_page": "https://fr.audiofanzine.com/distorsion-guitare/axtar/dis-5/"
+      "image_source_page": "https://fr.audiofanzine.com/distorsion-guitare/axtar/dis-5/",
+      "image_source_page_verified": true
     },
     {
       "company": "Azor",
@@ -4446,7 +4480,8 @@
       "image": null,
       "source_page": "https://azorpedal.com",
       "research_record": "./research/pedals/Azor/AP-302 Distortion Guitar Effect Pedal.md",
-      "image_source_page": "https://reverb.com/item/17186509-azor-ap-302-distortion-mini-pedal"
+      "image_source_page": "https://reverb.com/item/17186509-azor-ap-302-distortion-mini-pedal",
+      "image_source_page_verified": true
     },
     {
       "company": "Azor",
@@ -4500,7 +4535,8 @@
       "image": null,
       "source_page": "https://www.guitarcenter.com/Used/Azur/Used-Azur-FUZZ-Effect-Pedal-122302829.gc",
       "research_record": "./research/pedals/Azur/FUZZ Effect Pedal.md",
-      "image_source_page": "https://www.guitarcenter.com/Used/Azur/Used-Azur-FUZZ-Effect-Pedal-122302829.gc"
+      "image_source_page": "https://www.guitarcenter.com/Used/Azur/Used-Azur-FUZZ-Effect-Pedal-122302829.gc",
+      "image_source_page_verified": true
     },
     {
       "company": "Azur",
@@ -4511,7 +4547,8 @@
       "image": null,
       "source_page": "https://www.guitarcenter.com/Azur/",
       "research_record": "./research/pedals/Azur/LEON DRIVE Effect Pedal.md",
-      "image_source_page": "https://reverb.com/item/66055863-azor-leon-drive-distortion-pedal"
+      "image_source_page": "https://reverb.com/item/66055863-azor-leon-drive-distortion-pedal",
+      "image_source_page_verified": true
     },
     {
       "company": "Azur",
@@ -4522,7 +4559,8 @@
       "image": null,
       "source_page": "https://www.guitarcenter.com/Used/Azur/Used-Azur-OVERDRIVE-Effect-Pedal-122721837.gc",
       "research_record": "./research/pedals/Azur/OVERDRIVE Effect Pedal.md",
-      "image_source_page": "https://www.guitarcenter.com/Used/Azur/Used-Azur-Overdrive-Effect-Pedal-122077431.gc"
+      "image_source_page": "https://www.guitarcenter.com/Used/Azur/Used-Azur-Overdrive-Effect-Pedal-122077431.gc",
+      "image_source_page_verified": true
     },
     {
       "company": "B.C. Rich",
@@ -4533,7 +4571,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bcrich/dmd1",
       "research_record": "./research/pedals/B.C. Rich/DMD-1 Digital Metal Distortion.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bcrich/dmd1"
+      "image_source_page": "https://www.effectsdatabase.com/model/bcrich/dmd1",
+      "image_source_page_verified": true
     },
     {
       "company": "B.K. Butler",
@@ -4616,7 +4655,8 @@
       "image": null,
       "source_page": "https://reverb.com/es/item/71638146-b85-audio-hrom",
       "research_record": "./research/pedals/B85 Audio/Hrom - Bass Overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/b85/hrom"
+      "image_source_page": "https://www.effectsdatabase.com/model/b85/hrom",
+      "image_source_page_verified": true
     },
     {
       "company": "Backbeat Electric",
@@ -4627,7 +4667,8 @@
       "image": null,
       "source_page": "https://analogwarcry.blogspot.com/2010/03/mar-monthly-pick-backbeat-electric.html",
       "research_record": "./research/pedals/Backbeat Electric/X-Bender.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/backbeat/xbender"
+      "image_source_page": "https://www.effectsdatabase.com/model/backbeat/xbender",
+      "image_source_page_verified": true
     },
     {
       "company": "Bad Cat",
@@ -4638,7 +4679,8 @@
       "image": null,
       "source_page": "https://www.soundpure.com/p/bad-cat-2-tone-foot-pedal/2423",
       "research_record": "./research/pedals/Bad Cat/2-Tone.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/badcat/2tone"
+      "image_source_page": "https://www.effectsdatabase.com/model/badcat/2tone",
+      "image_source_page_verified": true
     },
     {
       "company": "Bad Cat",
@@ -4650,7 +4692,8 @@
       "image": null,
       "source_page": "https://manuzoid.com/manuals/0D5pR-Bad%20Cat%20X-TREME%20TONE%20Operating%20instructions",
       "research_record": "./research/pedals/Bad Cat/X-Treme Tone.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/badcat/xtremetone"
+      "image_source_page": "https://www.effectsdatabase.com/model/badcat/xtremetone",
+      "image_source_page_verified": true
     },
     {
       "company": "Bad Penny FX",
@@ -4674,7 +4717,8 @@
       "image": null,
       "source_page": "https://reverb.com/item/21501892-bad-penny-fx-the-fuzz-controller-2019",
       "research_record": "./research/pedals/Bad Penny FX/The Fuzz Controller V1.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/badpenny/fuzzcontroller"
+      "image_source_page": "https://www.effectsdatabase.com/model/badpenny/fuzzcontroller",
+      "image_source_page_verified": true
     },
     {
       "company": "Bad Penny FX",
@@ -4840,7 +4884,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/updates/weekly/20120910",
       "research_record": "./research/pedals/Baddy One Shoe Pedals/Infinity Drive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/baddyoneshoe/infinitydrive"
+      "image_source_page": "https://www.effectsdatabase.com/model/baddyoneshoe/infinitydrive",
+      "image_source_page_verified": true
     },
     {
       "company": "Baddy One Shoe Pedals",
@@ -4851,7 +4896,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/baddyoneshoe/punchgrind",
       "research_record": "./research/pedals/Baddy One Shoe Pedals/Punch & Grind.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/baddyoneshoe/punchgrind"
+      "image_source_page": "https://www.effectsdatabase.com/model/baddyoneshoe/punchgrind",
+      "image_source_page_verified": true
     },
     {
       "company": "Baddy One Shoe Pedals",
@@ -4862,7 +4908,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/baddyoneshoe/junkpuncher",
       "research_record": "./research/pedals/Baddy One Shoe Pedals/The Junk Puncher.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/baddyoneshoe/junkpuncher"
+      "image_source_page": "https://www.effectsdatabase.com/model/baddyoneshoe/junkpuncher",
+      "image_source_page_verified": true
     },
     {
       "company": "Baddy One Shoe Pedals",
@@ -4885,7 +4932,8 @@
       "image": null,
       "source_page": "https://www.baeaudio.com/8-products",
       "research_record": "./research/pedals/BAE Audio/Royaltone Fuzz.md",
-      "image_source_page": "https://www.baeaudio.com/8-products#royaltone"
+      "image_source_page": "https://www.baeaudio.com/8-products#royaltone",
+      "image_source_page_verified": true
     },
     {
       "company": "Baja Tech Custom",
@@ -4910,7 +4958,8 @@
       "image": null,
       "source_page": "https://reverb.com/item/777095-baja-tech-custom-damoaf",
       "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Fuzz.md",
-      "image_source_page": "https://reverb.com/item/777095-baja-tech-custom-damoaf"
+      "image_source_page": "https://reverb.com/item/777095-baja-tech-custom-damoaf",
+      "image_source_page_verified": true
     },
     {
       "company": "Baja Tech Custom",
@@ -5064,7 +5113,8 @@
       "image": null,
       "source_page": "https://onethousandpedals.com/pedal/baltimore-sonic-research-institute-tfz-the-ultimate-fuzz",
       "research_record": "./research/pedals/Baltimore Sonic Research Institute/TFZ Fuzz.md",
-      "image_source_page": "https://reverb.com/item/96559251-baltimore-sonic-research-institute-tfz"
+      "image_source_page": "https://reverb.com/item/96559251-baltimore-sonic-research-institute-tfz",
+      "image_source_page_verified": true
     },
     {
       "company": "Barbarossa",
@@ -5111,7 +5161,8 @@
       "image": null,
       "source_page": "https://newtool.jp/barbarossa/uranus-2/",
       "research_record": "./research/pedals/Barbarossa/URANUS.md",
-      "image_source_page": "https://reverb.com/item/80034953-barbarossa-uranus-overdrive-pedal"
+      "image_source_page": "https://reverb.com/item/80034953-barbarossa-uranus-overdrive-pedal",
+      "image_source_page_verified": true
     },
     {
       "company": "Barber Electronics",
@@ -5281,7 +5332,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Barber Electronics/LTD SR.md",
-      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Barber-Electronics/LTD-SR/443913753/"
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Barber-Electronics/LTD-SR/443913753/",
+      "image_source_page_verified": true
     },
     {
       "company": "Barber Electronics",
@@ -5306,7 +5358,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Barber Electronics/Midnight Standard.md",
-      "image_source_page": "https://www.barberelectronics.com/midnightstandard"
+      "image_source_page": "https://www.barberelectronics.com/midnightstandard",
+      "image_source_page_verified": true
     },
     {
       "company": "Barber Electronics",
@@ -5915,7 +5968,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bbe/gscreamer",
       "research_record": "./research/pedals/BBE/G Screamer.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bbe/gscreamer"
+      "image_source_page": "https://www.effectsdatabase.com/model/bbe/gscreamer",
+      "image_source_page_verified": true
     },
     {
       "company": "BBE",
@@ -5926,7 +5980,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 097/Green Screamer.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bbe/greenscreamer"
+      "image_source_page": "https://www.effectsdatabase.com/model/bbe/greenscreamer",
+      "image_source_page_verified": true
     },
     {
       "company": "BearFoot FX",
@@ -6020,7 +6075,8 @@
       "image": null,
       "source_page": "https://tonelounge.co.nz/bearfoot-emerald-green-od/",
       "research_record": "./research/pedals/BearFoot FX/Emerald Green Overdrive.md",
-      "image_source_page": "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Emerald-Green-Overdrive/68975145/"
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Emerald-Green-Overdrive/68975145/",
+      "image_source_page_verified": true
     },
     {
       "company": "BearFoot FX",
@@ -6259,7 +6315,8 @@
       "image": null,
       "source_page": "https://www.behringer.com/en/products/0709-ADX",
       "research_record": "./research/pedals/Behringer/OD300.md",
-      "image_source_page": "https://www.behringer.com/en/products/0709-ADX"
+      "image_source_page": "https://www.behringer.com/en/products/0709-ADX",
+      "image_source_page_verified": true
     },
     {
       "company": "Behringer",
@@ -6400,7 +6457,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/Demon D.md",
-      "image_source_page": "https://equipboard.com/items/bffx-demon-d"
+      "image_source_page": "https://equipboard.com/items/bffx-demon-d",
+      "image_source_page_verified": true
     },
     {
       "company": "BFFX Boutique Pedals",
@@ -6412,7 +6470,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/Guitarlab1.md",
-      "image_source_page": "https://guitarload.com.br/noticia/publicidade-bffx-apresenta-o-pedal-guitarlab1/"
+      "image_source_page": "https://guitarload.com.br/noticia/publicidade-bffx-apresenta-o-pedal-guitarlab1/",
+      "image_source_page_verified": true
     },
     {
       "company": "BFFX Boutique Pedals",
@@ -6423,7 +6482,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/Kairen.md",
-      "image_source_page": "https://www.mercadolivre.com.br/pedal-klon-clone-kairen-bffx/up/MLBU3078745184"
+      "image_source_page": "https://www.mercadolivre.com.br/pedal-klon-clone-kairen-bffx/up/MLBU3078745184",
+      "image_source_page_verified": true
     },
     {
       "company": "BFFX Boutique Pedals",
@@ -6470,7 +6530,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/Bias Over Drive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bias/overdrive"
+      "image_source_page": "https://www.effectsdatabase.com/model/bias/overdrive",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Bite Fx",
@@ -6494,7 +6555,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/Black Betty.md",
-      "image_source_page": "https://www.bigearpedals.com/product-page/black-betty-fuzz-blem"
+      "image_source_page": "https://www.bigearpedals.com/product-page/black-betty-fuzz-blem",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Ear",
@@ -6505,7 +6567,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/LOAF.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigear/loaf"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigear/loaf",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Ear",
@@ -6528,7 +6591,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Woodcutter.md",
-      "image_source_page": "https://www.bigearpedals.com/product-page/woodcutter"
+      "image_source_page": "https://www.bigearpedals.com/product-page/woodcutter",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Ear NYC",
@@ -6539,7 +6603,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Black Betty.md",
-      "image_source_page": "https://reverb.com/p/big-ear-nyc-betty-fuzz"
+      "image_source_page": "https://reverb.com/p/big-ear-nyc-betty-fuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Ear NYC",
@@ -6550,7 +6615,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Frank.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigear/frank"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigear/frank",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Ear NYC",
@@ -6561,7 +6627,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Slice Of Pie.md",
-      "image_source_page": "https://www.bigearpedals.com/product-page/slice-of-pie-b-stock"
+      "image_source_page": "https://www.bigearpedals.com/product-page/slice-of-pie-b-stock",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Ear NYC",
@@ -6572,7 +6639,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/The LOAF Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigear/loaf"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigear/loaf",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Ear NYC",
@@ -6583,7 +6651,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Woodcutter NYC.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigear/woodcutter"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigear/woodcutter",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Game Pedals",
@@ -6594,7 +6663,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Bedlam Drive III.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/biggame/bedlamdrive"
+      "image_source_page": "https://www.effectsdatabase.com/model/biggame/bedlamdrive",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Game Pedals",
@@ -6605,7 +6675,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Everything is Alive - Modulated Resonant Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/biggame/everythingisalive"
+      "image_source_page": "https://www.effectsdatabase.com/model/biggame/everythingisalive",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Game Pedals",
@@ -6628,7 +6699,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 082/Nothing Is Dead Fuzz.md",
-      "image_source_page": "https://www.pedal-of-the-day.com/2015/04/23/big-game-pedals-nothing-is-dead-fuzz/"
+      "image_source_page": "https://www.pedal-of-the-day.com/2015/04/23/big-game-pedals-nothing-is-dead-fuzz/",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Game Pedals",
@@ -6763,7 +6835,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 083/Lil' John series.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigjohn"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigjohn",
+      "image_source_page_verified": true
     },
     {
       "company": "Big John Effects",
@@ -6834,7 +6907,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 083/Bushy Bison.md",
-      "image_source_page": "https://bigknobpedals.com/product/bushy-bison/"
+      "image_source_page": "https://bigknobpedals.com/product/bushy-bison/",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Knob Pedals",
@@ -6953,7 +7027,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 083/I.C.B.M.md",
-      "image_source_page": "https://bigknobpedals.com/product/i-c-b-m/"
+      "image_source_page": "https://bigknobpedals.com/product/i-c-b-m/",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Knob Pedals",
@@ -7049,7 +7124,8 @@
       "image": null,
       "source_page": "https://www.bigknobpedals.com/",
       "research_record": "./research/pedals/PRP Batch 084/Rat Pak.md",
-      "image_source_page": "https://bigknobpedals.com/product/rat-pak/"
+      "image_source_page": "https://bigknobpedals.com/product/rat-pak/",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Knob Pedals",
@@ -7084,7 +7160,8 @@
       "image": null,
       "source_page": "https://www.bigknobpedals.com/",
       "research_record": "./research/pedals/PRP Batch 084/Tone Boner.md",
-      "image_source_page": "https://bigknobpedals.com/product/tone-boner/"
+      "image_source_page": "https://bigknobpedals.com/product/tone-boner/",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Knob Pedals",
@@ -7119,7 +7196,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/",
       "research_record": "./research/pedals/PRP Batch 085/Zed Drive.md",
-      "image_source_page": "https://bigknobpedals.com/product/zed-drive/"
+      "image_source_page": "https://bigknobpedals.com/product/zed-drive/",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Lloyde",
@@ -7130,7 +7208,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/",
       "research_record": "./research/pedals/PRP Batch 085/Overdose.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/biglloyde/overdose"
+      "image_source_page": "https://www.effectsdatabase.com/model/biglloyde/overdose",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Lloyde",
@@ -7155,7 +7234,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/",
       "research_record": "./research/pedals/PRP Batch 085/Monk Boost.md",
-      "image_source_page": "https://reverb.com/item/92603748-big-monk-colorsound-monk-boost"
+      "image_source_page": "https://reverb.com/item/92603748-big-monk-colorsound-monk-boost",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Monk Electronic Device Co.",
@@ -7179,7 +7259,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/",
       "research_record": "./research/pedals/PRP Batch 085/Anthology Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigtone/anthologyfuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigtone/anthologyfuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Tone Music Brewery",
@@ -7190,7 +7271,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/",
       "research_record": "./research/pedals/PRP Batch 085/BTMB Overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigtone/overdrive"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigtone/overdrive",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Tone Music Brewery",
@@ -7225,7 +7307,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bigtone/fuzzmaster",
       "research_record": "./research/pedals/PRP Batch 086/Germanium Fuzz Master.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigtone/fuzzmaster"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigtone/fuzzmaster",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Tone Music Brewery",
@@ -7236,7 +7319,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bigtone/fuzzbender",
       "research_record": "./research/pedals/PRP Batch 086/Germanium FuzzBender.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigtone/fuzzbender"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigtone/fuzzbender",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Tone Music Brewery",
@@ -7247,7 +7331,8 @@
       "image": null,
       "source_page": "https://bigtonemusic.com/mosfet.html",
       "research_record": "./research/pedals/PRP Batch 086/MOSFET Overdrive & Boost.md",
-      "image_source_page": "https://www.axeandyoushallreceive.com/product/big-tone-music-brewery-mosfet-overdrive-boost"
+      "image_source_page": "https://www.axeandyoushallreceive.com/product/big-tone-music-brewery-mosfet-overdrive-boost",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Tone Music Brewery",
@@ -7258,7 +7343,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bigtone/overdrive/parametric",
       "research_record": "./research/pedals/PRP Batch 086/Parametric Overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigtone/overdrive/parametric"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigtone/overdrive/parametric",
+      "image_source_page_verified": true
     },
     {
       "company": "Big Tone Music Brewery",
@@ -7284,7 +7370,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bigtone/sixofswords",
       "research_record": "./research/pedals/PRP Batch 086/Six Of Swords.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigtone/sixofswords"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigtone/sixofswords",
+      "image_source_page_verified": true
     },
     {
       "company": "Big White Monkey Amps",
@@ -7295,7 +7382,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bwm/howler",
       "research_record": "./research/pedals/PRP Batch 086/Howler.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bwm/howler"
+      "image_source_page": "https://www.effectsdatabase.com/model/bwm/howler",
+      "image_source_page_verified": true
     },
     {
       "company": "Big White Monkey Amps",
@@ -7306,7 +7394,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bwm/spider808",
       "research_record": "./research/pedals/PRP Batch 086/Spider 808.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bwm/spider808"
+      "image_source_page": "https://www.effectsdatabase.com/model/bwm/spider808",
+      "image_source_page_verified": true
     },
     {
       "company": "Bigfoot Engineering",
@@ -7317,7 +7406,8 @@
       "image": null,
       "source_page": "https://www.bigfootengineering.com/ltd.html",
       "research_record": "./research/pedals/PRP Batch 086/Anniversary King Fuzz.md",
-      "image_source_page": "https://www.bigfootengineering.com/store/p136/Anniversary_King_Fuzz.html"
+      "image_source_page": "https://www.bigfootengineering.com/store/p136/Anniversary_King_Fuzz.html",
+      "image_source_page_verified": true
     },
     {
       "company": "Bigfoot Engineering",
@@ -7387,7 +7477,8 @@
       "image": null,
       "source_page": "https://www.bigfootengineering.com/store/p161/king-fuzz.html",
       "research_record": "./research/pedals/PRP Batch 087/Bigfoot King Fuzz.md",
-      "image_source_page": "https://www.bigfootengineering.com/store/p161/king-fuzz.html"
+      "image_source_page": "https://www.bigfootengineering.com/store/p161/king-fuzz.html",
+      "image_source_page_verified": true
     },
     {
       "company": "Bigfoot Engineering",
@@ -7411,7 +7502,8 @@
       "image": null,
       "source_page": "https://www.bigfootengineering.com/store/p156/king-fuzz-xl.html",
       "research_record": "./research/pedals/PRP Batch 087/Bigfoot King Fuzz XL.md",
-      "image_source_page": "https://www.bigfootengineering.com/store/p156/king-fuzz-xl.html"
+      "image_source_page": "https://www.bigfootengineering.com/store/p156/king-fuzz-xl.html",
+      "image_source_page_verified": true
     },
     {
       "company": "Bigfoot F.X.",
@@ -7422,7 +7514,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bigfoot/dynamicdistortion",
       "research_record": "./research/pedals/PRP Batch 087/Dynamic Distortion Device.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigfoot/dynamicdistortion"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigfoot/dynamicdistortion",
+      "image_source_page_verified": true
     },
     {
       "company": "Bigfoot F.X.",
@@ -7433,7 +7526,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bigfoot/fuzzhog",
       "research_record": "./research/pedals/PRP Batch 087/Fuzz Hog.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigfoot/fuzzhog"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigfoot/fuzzhog",
+      "image_source_page_verified": true
     },
     {
       "company": "Bigfoot F.X.",
@@ -7444,7 +7538,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bigfoot/spaghettiwestern",
       "research_record": "./research/pedals/PRP Batch 087/Spaghetti Western Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigfoot/spaghettiwestern"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigfoot/spaghettiwestern",
+      "image_source_page_verified": true
     },
     {
       "company": "Bigfoot F.X.",
@@ -7456,7 +7551,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bigfoot/humongousbox",
       "research_record": "./research/pedals/PRP Batch 087/The Humongous Box.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigfoot/humongousbox"
+      "image_source_page": "https://www.effectsdatabase.com/model/bigfoot/humongousbox",
+      "image_source_page_verified": true
     },
     {
       "company": "BigNoise Amplification",
@@ -7503,7 +7599,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/danelectro/billionaire/trilliondollarfuzz",
       "research_record": "./research/pedals/PRP Batch 088/Trillion Dollar Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/danelectro/billionaire/trilliondollarfuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/danelectro/billionaire/trilliondollarfuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Biltworth",
@@ -7526,7 +7623,8 @@
       "image": null,
       "source_page": "https://www.youtube.com/watch?v=HWwK5HCAb8E",
       "research_record": "./research/pedals/PRP Batch 088/Gleam.md",
-      "image_source_page": "https://reverb.com/en-fr/item/89660904-bispell-audio-gleam-fuzz-guitar-effects-pedal"
+      "image_source_page": "https://reverb.com/en-fr/item/89660904-bispell-audio-gleam-fuzz-guitar-effects-pedal",
+      "image_source_page_verified": true
     },
     {
       "company": "Bispell Audio",
@@ -7537,7 +7635,8 @@
       "image": null,
       "source_page": "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome",
       "research_record": "./research/pedals/PRP Batch 088/Proxy.md",
-      "image_source_page": "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome"
+      "image_source_page": "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome",
+      "image_source_page_verified": true
     },
     {
       "company": "Bispell Audio",
@@ -7548,7 +7647,8 @@
       "image": null,
       "source_page": "https://www.guitarpedalx.com/news/gpx-blog/the-new-v1-5-edition-of-bispell-audios-superior-saxon-jtm45--super-lead-plexi-miab-enhances-its-gain-range-and-refines-the-tone-stack",
       "research_record": "./research/pedals/PRP Batch 088/Saxon.md",
-      "image_source_page": "https://bispellaudio.com/prod/saxon"
+      "image_source_page": "https://bispellaudio.com/prod/saxon",
+      "image_source_page_verified": true
     },
     {
       "company": "Bispell Audio",
@@ -7559,7 +7659,8 @@
       "image": null,
       "source_page": "https://www.guitarpedalx.com/news/gpx-blog/bispell-audio-reboots-its-tor-silicon-circuit-oc44-emulating-rangemaster---now-in-v2-edition-with-even-more-granularity-and-versatility",
       "research_record": "./research/pedals/PRP Batch 088/TOR.md",
-      "image_source_page": "https://reverb.com/item/44229726-tor-treble-booster-eq-pedal-precise-sound-of-oc44-germanium-using-silicon"
+      "image_source_page": "https://reverb.com/item/44229726-tor-treble-booster-eq-pedal-precise-sound-of-oc44-germanium-using-silicon",
+      "image_source_page_verified": true
     },
     {
       "company": "Bixonic",
@@ -7637,7 +7738,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 097/EXP2000DR.md",
-      "image_source_page": "https://bixonic-sound.com/products/exp2000dr"
+      "image_source_page": "https://bixonic-sound.com/products/exp2000dr",
+      "image_source_page_verified": true
     },
     {
       "company": "Biyang",
@@ -7684,7 +7786,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/biyang/classic/bl12",
       "research_record": "./research/pedals/PRP Batch 089/BL-12 Blues.md",
-      "image_source_page": "https://reverb.com/p/biyang-classical-bl-12-blues-overdrive"
+      "image_source_page": "https://reverb.com/p/biyang-classical-bl-12-blues-overdrive",
+      "image_source_page_verified": true
     },
     {
       "company": "Biyang",
@@ -7707,7 +7810,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/biyang/bo1",
       "research_record": "./research/pedals/PRP Batch 089/BO-1 Bass Over Drive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/biyang/bo1"
+      "image_source_page": "https://www.effectsdatabase.com/model/biyang/bo1",
+      "image_source_page_verified": true
     },
     {
       "company": "Biyang",
@@ -7718,7 +7822,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/biyang/ds1",
       "research_record": "./research/pedals/PRP Batch 089/DS-1 Distortion.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/biyang/ds1"
+      "image_source_page": "https://www.effectsdatabase.com/model/biyang/ds1",
+      "image_source_page_verified": true
     },
     {
       "company": "Biyang",
@@ -7729,7 +7834,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds12",
       "research_record": "./research/pedals/PRP Batch 089/DS-12 Distortion.md",
-      "image_source_page": "https://reverb.com/p/biyang-classical-ds-12-distortion"
+      "image_source_page": "https://reverb.com/p/biyang-classical-ds-12-distortion",
+      "image_source_page_verified": true
     },
     {
       "company": "Biyang",
@@ -7740,7 +7846,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/biyang/ds3",
       "research_record": "./research/pedals/PRP Batch 089/DS-3 Distortion.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/biyang/ds3"
+      "image_source_page": "https://www.effectsdatabase.com/model/biyang/ds3",
+      "image_source_page_verified": true
     },
     {
       "company": "Biyang",
@@ -7836,7 +7943,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/biyang",
       "research_record": "./research/pedals/PRP Batch 090/NM-2 New Metal.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/biyang/nm2"
+      "image_source_page": "https://www.effectsdatabase.com/model/biyang/nm2",
+      "image_source_page_verified": true
     },
     {
       "company": "Biyang",
@@ -7847,7 +7955,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/biyang/classic/od12",
       "research_record": "./research/pedals/PRP Batch 090/OD-12 X-Drive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/biyang/classic/od12"
+      "image_source_page": "https://www.effectsdatabase.com/model/biyang/classic/od12",
+      "image_source_page_verified": true
     },
     {
       "company": "Biyang",
@@ -7870,7 +7979,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/od8",
       "research_record": "./research/pedals/PRP Batch 090/OD-8 X-Drive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/od8"
+      "image_source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/od8",
+      "image_source_page_verified": true
     },
     {
       "company": "Biyang",
@@ -7881,7 +7991,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/otd100",
       "research_record": "./research/pedals/PRP Batch 091/OTD-100 Distortion.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/otd100"
+      "image_source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/otd100",
+      "image_source_page_verified": true
     },
     {
       "company": "Bizarre Engineering",
@@ -7892,7 +8003,8 @@
       "image": null,
       "source_page": "https://www.talkbass.com/threads/npd-bizarres-violine.1286142/",
       "research_record": "./research/pedals/PRP Batch 092/Violine.md",
-      "image_source_page": "https://www.talkbass.com/threads/npd-bizarres-violine.1286142/"
+      "image_source_page": "https://www.talkbass.com/threads/npd-bizarres-violine.1286142/",
+      "image_source_page_verified": true
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -7903,7 +8015,8 @@
       "image": null,
       "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
       "research_record": "./research/pedals/PRP Batch 092/Arctic White Fuzz (AWF).md",
-      "image_source_page": "https://reverb.com/item/84727715-bjfe-arctic-white-fuzz"
+      "image_source_page": "https://reverb.com/item/84727715-bjfe-arctic-white-fuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -7924,7 +8037,8 @@
       "image": null,
       "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
       "research_record": "./research/pedals/PRP Batch 092/BlueBerry Bass Overdrive (3BOD).md",
-      "image_source_page": "https://reverb.com/item/84727852-bjfe-blueberry-bass-ovedrive"
+      "image_source_page": "https://reverb.com/item/84727852-bjfe-blueberry-bass-ovedrive",
+      "image_source_page_verified": true
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -7935,7 +8049,8 @@
       "image": null,
       "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
       "research_record": "./research/pedals/PRP Batch 092/Candy Apple Fuzz (CAF).md",
-      "image_source_page": "https://www.bjfe.jp/en/products/bjfcaf"
+      "image_source_page": "https://www.bjfe.jp/en/products/bjfcaf",
+      "image_source_page_verified": true
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -8084,7 +8199,8 @@
       "image": null,
       "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
       "research_record": "./research/pedals/PRP Batch 093/Pink Purple Fuzz (PPF).md",
-      "image_source_page": "https://www.bjfe.jp/en/products/bjfppf"
+      "image_source_page": "https://www.bjfe.jp/en/products/bjfppf",
+      "image_source_page_verified": true
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -8130,7 +8246,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/bat/",
       "research_record": "./research/pedals/PRP Batch 094/BAT.md",
-      "image_source_page": "https://www.blackartstoneworks.com/pedal/bat/"
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/bat/",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8143,7 +8260,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/",
       "research_record": "./research/pedals/PRP Batch 094/Black Forest.md",
-      "image_source_page": "https://www.blackartstoneworks.com/pedal/black-forest/"
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/black-forest/",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8169,7 +8287,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/coven/",
       "research_record": "./research/pedals/PRP Batch 094/Coven.md",
-      "image_source_page": "https://www.blackartstoneworks.com/pedal/coven/"
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/coven/",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8181,7 +8300,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/crown-of-horns/",
       "research_record": "./research/pedals/PRP Batch 094/Crown of Horns.md",
-      "image_source_page": "https://www.blackartstoneworks.com/pedal/crown-of-horns/"
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/crown-of-horns/",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8206,7 +8326,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/fnord/",
       "research_record": "./research/pedals/PRP Batch 094/FNORD.md",
-      "image_source_page": "https://www.blackartstoneworks.com/pedal/fnord/"
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/fnord/",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8218,7 +8339,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/lstr/",
       "research_record": "./research/pedals/PRP Batch 094/LSTR.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackarts/lstr"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackarts/lstr",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8242,7 +8364,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/pharaoh/",
       "research_record": "./research/pedals/PRP Batch 094/Pharaoh.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackarts/pharaoh"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackarts/pharaoh",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8267,7 +8390,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/priestess/",
       "research_record": "./research/pedals/PRP Batch 095/Priestess.md",
-      "image_source_page": "https://www.blackartstoneworks.com/pedal/priestess/"
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/priestess/",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8279,7 +8403,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/quantum-mystic/",
       "research_record": "./research/pedals/PRP Batch 095/Quantum Mystic.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackarts/quantummystic"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackarts/quantummystic",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8317,7 +8442,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/revelation/",
       "research_record": "./research/pedals/PRP Batch 095/Revelation.md",
-      "image_source_page": "https://www.blackartstoneworks.com/pedal/revelation/"
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/revelation/",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8328,7 +8454,8 @@
       "image": null,
       "source_page": "https://blackartstoneworks.blogspot.com/2012/06/ritual-and-revelation.html",
       "research_record": "./research/pedals/PRP Batch 095/Ritual.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackarts/ritual"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackarts/ritual",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8353,7 +8480,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/skyboost/",
       "research_record": "./research/pedals/PRP Batch 095/Skyboost.md",
-      "image_source_page": "https://reverb.com/item/73951423-black-arts-toneworks-skyboost"
+      "image_source_page": "https://reverb.com/item/73951423-black-arts-toneworks-skyboost",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8365,7 +8493,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/son-of-pharaoh/",
       "research_record": "./research/pedals/PRP Batch 095/Son of Pharaoh.md",
-      "image_source_page": "https://www.blackartstoneworks.com/pedal/son-of-pharaoh/"
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/son-of-pharaoh/",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8378,7 +8507,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/tres-diablos-ruidosos/",
       "research_record": "./research/pedals/PRP Batch 096/Tres Diablos Ruidosos.md",
-      "image_source_page": "https://www.blackartstoneworks.com/pedal/tres-diablos-ruidosos/"
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/tres-diablos-ruidosos/",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Arts Toneworks",
@@ -8389,7 +8519,8 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/witch-burner/",
       "research_record": "./research/pedals/PRP Batch 096/Witch Burner MkII.md",
-      "image_source_page": "https://www.blackartstoneworks.com/pedal/witch-burner/"
+      "image_source_page": "https://www.blackartstoneworks.com/pedal/witch-burner/",
+      "image_source_page_verified": true
     },
     {
       "company": "Black CAT Amps",
@@ -8400,7 +8531,8 @@
       "image": null,
       "source_page": "https://blackcatamps.com/",
       "research_record": "./research/pedals/PRP Batch 096/DJENTTONIC.md",
-      "image_source_page": "https://blackcatamps.com/"
+      "image_source_page": "https://blackcatamps.com/",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Cat Pedals",
@@ -8435,7 +8567,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackcat/d2",
       "research_record": "./research/pedals/PRP Batch 096/D-II Distortion.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackcat/d2"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackcat/d2",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Cat Pedals",
@@ -8446,7 +8579,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackcat/ds",
       "research_record": "./research/pedals/PRP Batch 096/D&S.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackcat/ds"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackcat/ds",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Cat Pedals",
@@ -8481,7 +8615,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackcat/nfuzz",
       "research_record": "./research/pedals/PRP Batch 096/N-Fuzz.md",
-      "image_source_page": "https://reverb.com/en-fr/item/55078472-black-cat-pedals-n-fuzz"
+      "image_source_page": "https://reverb.com/en-fr/item/55078472-black-cat-pedals-n-fuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Cat Pedals",
@@ -8493,7 +8628,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 097/OD-1 Freddy Fuzz.md",
-      "image_source_page": "https://reverb.com/p/black-cat-od-1-freddie-fuzz"
+      "image_source_page": "https://reverb.com/p/black-cat-od-1-freddie-fuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Cat Pedals",
@@ -8517,7 +8653,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 097/OD-Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackcat/odfuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackcat/odfuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Cat Pedals",
@@ -8530,7 +8667,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 097/RGDP - Really Great Dirt Pedal.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackcat/rgdp"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackcat/rgdp",
+      "image_source_page_verified": true
     },
     {
       "company": "Black Cat Pedals",
@@ -8663,7 +8801,8 @@
       "image": null,
       "source_page": "https://reverb.com/item/30528369-blackhawk-asgard-bass-fuzz-guitar-distortion",
       "research_record": "./research/pedals/PRP Batch 099/Asgard Bass Fuzz.md",
-      "image_source_page": "https://reverb.com/au/item/30528369-blackhawk-asgard-bass-fuzz-guitar-distortion"
+      "image_source_page": "https://reverb.com/au/item/30528369-blackhawk-asgard-bass-fuzz-guitar-distortion",
+      "image_source_page_verified": true
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -8687,7 +8826,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md",
-      "image_source_page": "https://reverb.com/item/77950001-black-hawk-basilisk-fuzz-black"
+      "image_source_page": "https://reverb.com/item/77950001-black-hawk-basilisk-fuzz-black",
+      "image_source_page_verified": true
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -8757,7 +8897,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 100/Mithrandir Octave Fuzz.md",
-      "image_source_page": "https://reverb.com/item/34625860-blackhawk-amplifiers-mithrandir-octave-fuzz"
+      "image_source_page": "https://reverb.com/item/34625860-blackhawk-amplifiers-mithrandir-octave-fuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -8768,7 +8909,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 100/Morgul Drive MKII.md",
-      "image_source_page": "https://reverb.com/item/77782537-blackhawk-morgul-drive"
+      "image_source_page": "https://reverb.com/item/77782537-blackhawk-morgul-drive",
+      "image_source_page_verified": true
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -8826,7 +8968,8 @@
       "image": null,
       "source_page": "https://www.blackhawkamplifiers.com/product/svarog-fuzz-mkii-v3",
       "research_record": "./research/pedals/PRP Batch 101/Svarog Fuzz.md",
-      "image_source_page": "https://www.blackhawkamplifiers.com/product/svarog-fuzz-mkii-v3"
+      "image_source_page": "https://www.blackhawkamplifiers.com/product/svarog-fuzz-mkii-v3",
+      "image_source_page_verified": true
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -8899,7 +9042,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special/seriously",
       "research_record": "./research/pedals/PRP Batch 101/A Seriously Special Twosome.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special/seriously"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special/seriously",
+      "image_source_page_verified": true
     },
     {
       "company": "BlackOutEffectors",
@@ -8910,7 +9054,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special",
       "research_record": "./research/pedals/PRP Batch 102/A Very Special Twosome.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackout/twosome/special",
+      "image_source_page_verified": true
     },
     {
       "company": "BlackOutEffectors",
@@ -8921,7 +9066,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/blunderbuss",
       "research_record": "./research/pedals/PRP Batch 102/Blunderbuss Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackout/blunderbuss"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackout/blunderbuss",
+      "image_source_page_verified": true
     },
     {
       "company": "BlackOutEffectors",
@@ -8954,7 +9100,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/mantra/dualgain",
       "research_record": "./research/pedals/PRP Batch 102/Dual Gain Mantra.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackout/mantra/dualgain"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackout/mantra/dualgain",
+      "image_source_page_verified": true
     },
     {
       "company": "BlackOutEffectors",
@@ -8966,7 +9113,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz",
       "research_record": "./research/pedals/PRP Batch 102/Fix'd Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "BlackOutEffectors",
@@ -8978,7 +9126,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz/deluxe",
       "research_record": "./research/pedals/PRP Batch 102/Fix'd Fuzz Deluxe.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz/deluxe"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz/deluxe",
+      "image_source_page_verified": true
     },
     {
       "company": "BlackOutEffectors",
@@ -8989,7 +9138,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/fubar",
       "research_record": "./research/pedals/PRP Batch 102/FUBÄR.md",
-      "image_source_page": "https://reverb.com/item/3620903-blackout-effectors-fubar"
+      "image_source_page": "https://reverb.com/item/3620903-blackout-effectors-fubar",
+      "image_source_page_verified": true
     },
     {
       "company": "BlackOutEffectors",
@@ -9000,7 +9150,8 @@
       "image": null,
       "source_page": "https://www.youtube.com/watch?v=5VLgkEhncHg",
       "research_record": "./research/pedals/PRP Batch 102/Fuzz Bear.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackout/fuzzbear"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackout/fuzzbear",
+      "image_source_page_verified": true
     },
     {
       "company": "BlackOutEffectors",
@@ -9023,7 +9174,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/musketfuzz",
       "research_record": "./research/pedals/PRP Batch 103/Musket Fuzz.md",
-      "image_source_page": "https://reverb.com/item/40311212-blackout-effectors-musket-fuzz-guitar-effect-pedal"
+      "image_source_page": "https://reverb.com/item/40311212-blackout-effectors-musket-fuzz-guitar-effect-pedal",
+      "image_source_page_verified": true
     },
     {
       "company": "BlackOutEffectors",
@@ -9057,7 +9209,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/twosome",
       "research_record": "./research/pedals/PRP Batch 103/Twosome Dual Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackout/twosome"
+      "image_source_page": "https://www.effectsdatabase.com/model/blackout/twosome",
+      "image_source_page_verified": true
     },
     {
       "company": "Blackstar Amplification",
@@ -9118,7 +9271,8 @@
       "image": null,
       "source_page": "https://www.blackstarampsmedia.com/pdf/handbooks/ht-drive-handbook.pdf",
       "research_record": "./research/pedals/PRP Batch 103/HT-DRIVE.md",
-      "image_source_page": "https://blackstarampsmedia.com/uk/products/ht-drive"
+      "image_source_page": "https://blackstarampsmedia.com/uk/products/ht-drive",
+      "image_source_page_verified": true
     },
     {
       "company": "Blackstar Amplification",
@@ -9167,7 +9321,8 @@
       "image": null,
       "source_page": "https://www.manualslib.tech/guide/639920/blackstar-lt-drive-pedal-manual.html",
       "research_record": "./research/pedals/PRP Batch 104/LT-DRIVE.md",
-      "image_source_page": "https://blackstarampsmedia.com/uk/products/lt-drive"
+      "image_source_page": "https://blackstarampsmedia.com/uk/products/lt-drive",
+      "image_source_page_verified": true
     },
     {
       "company": "Blackstar Amplification",
@@ -9226,7 +9381,8 @@
       "image": null,
       "source_page": "https://reverb.com/p/blakemore-effects-bi-polar-octadrive",
       "research_record": "./research/pedals/PRP Batch 104/Bi-Polar Octadrive.md",
-      "image_source_page": "https://reverb.com/p/blakemore-effects-bi-polar-octadrive"
+      "image_source_page": "https://reverb.com/p/blakemore-effects-bi-polar-octadrive",
+      "image_source_page_verified": true
     },
     {
       "company": "Blakemore Effects",
@@ -9237,7 +9393,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/interviews/brands/blakemore",
       "research_record": "./research/pedals/PRP Batch 104/Deus Ex Machina.md",
-      "image_source_page": "https://reverb.com/p/blakemore-effects-deus-ex-machina"
+      "image_source_page": "https://reverb.com/p/blakemore-effects-deus-ex-machina",
+      "image_source_page_verified": true
     },
     {
       "company": "Blakemore Effects",
@@ -9466,7 +9623,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bobburt/ah1",
       "research_record": "./research/pedals/PRP Batch 106/Bob Burt AH-1 Allen Hinds Signature Distortion.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bobburt/ah1"
+      "image_source_page": "https://www.effectsdatabase.com/model/bobburt/ah1",
+      "image_source_page_verified": true
     },
     {
       "company": "Bob Burt Cabinets & Pedals",
@@ -9477,7 +9635,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bobburt/gr8t",
       "research_record": "./research/pedals/PRP Batch 106/Bob Burt GR8T Distortion.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bobburt/gr8t"
+      "image_source_page": "https://www.effectsdatabase.com/model/bobburt/gr8t",
+      "image_source_page_verified": true
     },
     {
       "company": "Bob Burt Cabinets & Pedals",
@@ -9488,7 +9647,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bobburt/overdrive",
       "research_record": "./research/pedals/PRP Batch 106/Bob Burt Overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bobburt/overdrive"
+      "image_source_page": "https://www.effectsdatabase.com/model/bobburt/overdrive",
+      "image_source_page_verified": true
     },
     {
       "company": "Bogner Amplification",
@@ -9548,7 +9708,8 @@
       "image": null,
       "source_page": "https://www.sweetwater.com/store/detail/Oxford--bogner-oxford-fuzz-pedal",
       "research_record": "./research/pedals/PRP Batch 107/Oxford.md",
-      "image_source_page": "https://www.zzounds.com/item--BOGOXFORD"
+      "image_source_page": "https://www.zzounds.com/item--BOGOXFORD",
+      "image_source_page_verified": true
     },
     {
       "company": "Bogner Amplification",
@@ -9571,7 +9732,8 @@
       "image": null,
       "source_page": "https://manualzilla.com/doc/5946316/uberschall-pedal-manual",
       "research_record": "./research/pedals/PRP Batch 107/Uberschall.md",
-      "image_source_page": "https://reverb.com/p/bogner-uberschall"
+      "image_source_page": "https://reverb.com/p/bogner-uberschall",
+      "image_source_page_verified": true
     },
     {
       "company": "Bogner Amplification",
@@ -9594,7 +9756,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bondi/delmar",
       "research_record": "./research/pedals/PRP Batch 107/Del Mar Overdrive mk1.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bondi/delmar"
+      "image_source_page": "https://www.effectsdatabase.com/model/bondi/delmar",
+      "image_source_page_verified": true
     },
     {
       "company": "Bondi Effects",
@@ -9702,7 +9865,8 @@
       "image": null,
       "source_page": "https://www.youtube.com/watch?v=M7_AbjGdUiU",
       "research_record": "./research/pedals/PRP Batch 108/BigWig Bass Driver.md",
-      "image_source_page": "https://reverb.com/item/693545-sale-bookworm-effects-bigwig-bass-driver"
+      "image_source_page": "https://reverb.com/item/693545-sale-bookworm-effects-bigwig-bass-driver",
+      "image_source_page_verified": true
     },
     {
       "company": "Boorocks",
@@ -9863,7 +10027,8 @@
       "image": null,
       "source_page": "https://www.bootleggerguitar.com/pedals",
       "research_record": "./research/pedals/PRP Batch 109/Shifty's 8 Ball Boost Drive Analog 12AT7.md",
-      "image_source_page": "https://reverb.com/item/39818649-shifty-s-8-ball-boost-high-volt-overdrive-analog-12at7-eh-tube-tone-eq-control-power-supply"
+      "image_source_page": "https://reverb.com/item/39818649-shifty-s-8-ball-boost-high-volt-overdrive-analog-12at7-eh-tube-tone-eq-control-power-supply",
+      "image_source_page_verified": true
     },
     {
       "company": "Bootlegger Guitar",
@@ -9874,7 +10039,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/updates/weekly/20161017",
       "research_record": "./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md",
-      "image_source_page": "https://www.zzounds.com/item--BOTBTS1"
+      "image_source_page": "https://www.zzounds.com/item--BOTBTS1",
+      "image_source_page_verified": true
     },
     {
       "company": "Bootlegger Guitar",
@@ -10150,7 +10316,8 @@
       "source_page": "https://www.effectsdatabase.com/model/boulevard/bdt10",
       "research_record": "./research/pedals/PRP Batch 114/bdt-10-distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/boulevard/bdt10",
-      "image_source_url": "https://www.effectsdatabase.com/model/boulevard/bdt10"
+      "image_source_url": "https://www.effectsdatabase.com/model/boulevard/bdt10",
+      "image_source_page_verified": true
     },
     {
       "company": "Boulevard",
@@ -10162,7 +10329,8 @@
       "source_page": "https://www.effectsdatabase.com/model/boulevard/bod10",
       "research_record": "./research/pedals/PRP Batch 114/bod-10-overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/boulevard/bod10",
-      "image_source_url": "https://www.effectsdatabase.com/model/boulevard/bod10"
+      "image_source_url": "https://www.effectsdatabase.com/model/boulevard/bod10",
+      "image_source_page_verified": true
     },
     {
       "company": "Boulevard Effects",
@@ -10174,7 +10342,8 @@
       "source_page": "https://reverb.com/item/80160173-boulevard-effects-darkship-fuzz-delay",
       "research_record": "./research/pedals/PRP Batch 114/darkship.md",
       "image_source_page": "https://reverb.com/item/32909607-boulevard-effects-darkship",
-      "image_source_url": "https://reverb.com/item/80160173-boulevard-effects-darkship-fuzz-delay"
+      "image_source_url": "https://reverb.com/item/80160173-boulevard-effects-darkship-fuzz-delay",
+      "image_source_page_verified": true
     },
     {
       "company": "Bouteek",
@@ -10186,7 +10355,8 @@
       "source_page": "https://www.effectsdatabase.com/model/bouteek/distorter",
       "research_record": "./research/pedals/PRP Batch 114/distorter-preamp.md",
       "image_source_page": "https://www.effectsdatabase.com/model/bouteek/distorter",
-      "image_source_url": "https://www.effectsdatabase.com/model/bouteek/distorter"
+      "image_source_url": "https://www.effectsdatabase.com/model/bouteek/distorter",
+      "image_source_page_verified": true
     },
     {
       "company": "Bouteek",
@@ -10198,7 +10368,8 @@
       "source_page": "https://www.effectsdatabase.com/model/bouteek/overdriver",
       "research_record": "./research/pedals/PRP Batch 114/overdriver-preamp.md",
       "image_source_page": "https://www.effectsdatabase.com/model/bouteek/overdriver",
-      "image_source_url": "https://www.effectsdatabase.com/model/bouteek/overdriver"
+      "image_source_url": "https://www.effectsdatabase.com/model/bouteek/overdriver",
+      "image_source_page_verified": true
     },
     {
       "company": "Bouteek",
@@ -10211,7 +10382,8 @@
       "source_page": "https://www.effectsdatabase.com/updates/weekly/20090921",
       "research_record": "./research/pedals/PRP Batch 114/twin-drive-and-boost-ultimate-drive-with-fuzz-inject.md",
       "image_source_page": "https://www.effectsdatabase.com/model/bouteek/twindrive",
-      "image_source_url": "https://www.effectsdatabase.com/updates/weekly/20090921"
+      "image_source_url": "https://www.effectsdatabase.com/updates/weekly/20090921",
+      "image_source_page_verified": true
     },
     {
       "company": "Bowman Audio Endeavors",
@@ -10270,7 +10442,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/box-distortion.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/box/distortion"
+      "image_source_page": "https://www.effectsdatabase.com/model/box/distortion",
+      "image_source_page_verified": true
     },
     {
       "company": "BR Tech",
@@ -10281,7 +10454,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/br-tech-br-1-distortion.md",
-      "image_source_page": "https://www.clasf.com.br/pedal-distortion-novo-2-anos-garantia-br-tech-em-s%C3%A3o-paulo-16366287/"
+      "image_source_page": "https://www.clasf.com.br/pedal-distortion-novo-2-anos-garantia-br-tech-em-s%C3%A3o-paulo-16366287/",
+      "image_source_page_verified": true
     },
     {
       "company": "BR Tech",
@@ -10292,7 +10466,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/br-tech-up-scream.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/brtech/upscream"
+      "image_source_page": "https://www.effectsdatabase.com/model/brtech/upscream",
+      "image_source_page_verified": true
     },
     {
       "company": "Braking Train Pedals",
@@ -10303,7 +10478,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/braking-train-pedals-frequency-control-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/brakingtrain/frequencycontrolfuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/brakingtrain/frequencycontrolfuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Brantone Electronics",
@@ -10314,7 +10490,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-blue-meanie-germanium-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/brantone/bluemeanie"
+      "image_source_page": "https://www.effectsdatabase.com/model/brantone/bluemeanie",
+      "image_source_page_verified": true
     },
     {
       "company": "Brantone Electronics",
@@ -10335,7 +10512,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-tonemaster-mk1-5-germanium-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/brantone/tonemaster/mk15"
+      "image_source_page": "https://www.effectsdatabase.com/model/brantone/tonemaster/mk15",
+      "image_source_page_verified": true
     },
     {
       "company": "Brantone Electronics",
@@ -10370,7 +10548,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-wem-pepbox-official-reissue.md",
-      "image_source_page": "https://www.breakthemachine.co.uk/brantone-electronics-qa/"
+      "image_source_page": "https://www.breakthemachine.co.uk/brantone-electronics-qa/",
+      "image_source_page_verified": true
     },
     {
       "company": "Brantone Electronics",
@@ -10391,7 +10570,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/breakfast-audio-slab-distortion.md",
-      "image_source_page": "https://breakfastaudio.com/products/slab-distortion"
+      "image_source_page": "https://breakfastaudio.com/products/slab-distortion",
+      "image_source_page_verified": true
     },
     {
       "company": "Breakfast Audio",
@@ -10402,7 +10582,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/breakfast-audio-weltschmerz-fuzz.md",
-      "image_source_page": "https://breakfastaudio.com/products/weltschmerz-fuzz"
+      "image_source_page": "https://breakfastaudio.com/products/weltschmerz-fuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "BreakFuzz",
@@ -10451,7 +10632,8 @@
       "source_page": "https://forum.effectsdatabase.com/viewtopic.php?f=6&sid=88a38837c2115b61f2c3416c9c931a97&t=551",
       "research_record": "./research/pedals/PRP Batch 117/bri-re-pedals-distodrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/briere/dd1",
-      "image_source_url": "https://forum.effectsdatabase.com/viewtopic.php?f=6&sid=88a38837c2115b61f2c3416c9c931a97&t=551"
+      "image_source_url": "https://forum.effectsdatabase.com/viewtopic.php?f=6&sid=88a38837c2115b61f2c3416c9c931a97&t=551",
+      "image_source_page_verified": true
     },
     {
       "company": "Brière Pedals",
@@ -10475,7 +10657,8 @@
       "source_page": "https://www.effectsdatabase.com/model/brimstone",
       "research_record": "./research/pedals/PRP Batch 117/brimstone-audio-bl-1-basilisk.md",
       "image_source_page": "https://www.effectsdatabase.com/model/brimstone/basilisk",
-      "image_source_url": "https://www.effectsdatabase.com/model/brimstone"
+      "image_source_url": "https://www.effectsdatabase.com/model/brimstone",
+      "image_source_page_verified": true
     },
     {
       "company": "Brimstone Audio",
@@ -10487,7 +10670,8 @@
       "source_page": "https://www.effectsdatabase.com/model/brimstone",
       "research_record": "./research/pedals/PRP Batch 117/brimstone-audio-xd-1-crossover-distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/brimstone/crossover/distortion",
-      "image_source_url": "https://www.effectsdatabase.com/model/brimstone"
+      "image_source_url": "https://www.effectsdatabase.com/model/brimstone",
+      "image_source_page_verified": true
     },
     {
       "company": "British Pedal Company",
@@ -10499,7 +10683,8 @@
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-rangemaster-fuzzbug-mkii.md",
       "image_source_page": "https://www.britishpedalcompany.com/view-product/rangemaster-fuzzbug-mkii",
-      "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
+      "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "image_source_page_verified": true
     },
     {
       "company": "British Pedal Company",
@@ -10511,7 +10696,8 @@
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-mk1-5.md",
       "image_source_page": "https://www.britishpedalcompany.com/view-product/mki5-tone-bender",
-      "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
+      "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "image_source_page_verified": true
     },
     {
       "company": "British Pedal Company",
@@ -10523,7 +10709,8 @@
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-mki.md",
       "image_source_page": "https://www.britishpedalcompany.com/view-product/mki-tone-bender",
-      "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
+      "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "image_source_page_verified": true
     },
     {
       "company": "British Pedal Company",
@@ -10535,7 +10722,8 @@
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-professional-mkii.md",
       "image_source_page": "https://www.britishpedalcompany.com/view-product/professional-mkii-tone-bender-oc81d",
-      "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
+      "image_source_url": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "image_source_page_verified": true
     },
     {
       "company": "British Pedal Company",
@@ -10571,7 +10759,8 @@
       "source_page": "https://www.brotechelectronics.com/effbox/Fatpipe%20manual%202016_08_30.pdf",
       "research_record": "./research/pedals/PRP Batch 118/brotech-electronics-fatpipe-pro.md",
       "image_source_page": "https://reverb.com/item/10541352-brotech-electronics-fatpipe-pro-distortion-and-boost-fatpipe-pro-excellent",
-      "image_source_url": "https://www.brotechelectronics.com/effbox/Fatpipe%20manual%202016_08_30.pdf"
+      "image_source_url": "https://www.brotechelectronics.com/effbox/Fatpipe%20manual%202016_08_30.pdf",
+      "image_source_page_verified": true
     },
     {
       "company": "Broughton Audio",
@@ -11164,7 +11353,8 @@
       "source_page": "https://www.effectsdatabase.com/model/bsm",
       "research_record": "./research/pedals/PRP Batch 125/bsm-fassbender-fuzz-machine.md",
       "image_source_page": "https://www.effectsdatabase.com/model/bsm/fassbender",
-      "image_source_url": "https://www.effectsdatabase.com/model/bsm"
+      "image_source_url": "https://www.effectsdatabase.com/model/bsm",
+      "image_source_page_verified": true
     },
     {
       "company": "BSM",
@@ -11200,7 +11390,8 @@
       "source_page": "https://www.effectsdatabase.com/model/bsm/overdrive/supreme",
       "research_record": "./research/pedals/PRP Batch 117/bsm-overdrive-supreme.md",
       "image_source_page": "https://www.effectsdatabase.com/model/bsm/overdrive/supreme",
-      "image_source_url": "https://www.effectsdatabase.com/model/bsm/overdrive/supreme"
+      "image_source_url": "https://www.effectsdatabase.com/model/bsm/overdrive/supreme",
+      "image_source_page_verified": true
     },
     {
       "company": "BSM",
@@ -11359,7 +11550,8 @@
       "source_page": "https://www.effectsdatabase.com/model/buffalofx/evolution",
       "research_record": "./research/pedals/PRP Batch 127/buffalo-fx-evolution-4-stage-overdrive-distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/evolution",
-      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/evolution"
+      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/evolution",
+      "image_source_page_verified": true
     },
     {
       "company": "Buffalo FX",
@@ -11371,7 +11563,8 @@
       "source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge",
       "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-fuzz-face-ge.md",
       "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge",
-      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge"
+      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge",
+      "image_source_page_verified": true
     },
     {
       "company": "Buffalo FX",
@@ -11407,7 +11600,8 @@
       "source_page": "https://www.effectsdatabase.com/model/buffalofx/m1",
       "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-m-1-fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/m1",
-      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/m1"
+      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/m1",
+      "image_source_page_verified": true
     },
     {
       "company": "Buffalo FX",
@@ -11419,7 +11613,8 @@
       "source_page": "https://www.effectsdatabase.com/model/buffalofx/patriot",
       "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-patriot.md",
       "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/patriot",
-      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/patriot"
+      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/patriot",
+      "image_source_page_verified": true
     },
     {
       "company": "Buffalo FX",
@@ -11431,7 +11626,8 @@
       "source_page": "https://www.effectsdatabase.com/model/buffalofx/rhx",
       "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-rh-x-rams-head-nos-bc239c.md",
       "image_source_page": "https://reverb.com/item/77157311-buffalo-fx-rh-x-bc239c-76-ram-s-head-distortion-fuzz",
-      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/rhx"
+      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/rhx",
+      "image_source_page_verified": true
     },
     {
       "company": "Buffalo FX",
@@ -11481,7 +11677,8 @@
       "source_page": "https://www.effectsdatabase.com/model/buggfx/raincoat",
       "research_record": "./research/pedals/PRP Batch 127/buggfx-pedals-raincoat.md",
       "image_source_page": "https://www.effectsdatabase.com/model/buggfx/raincoat",
-      "image_source_url": "https://www.effectsdatabase.com/model/buggfx/raincoat"
+      "image_source_url": "https://www.effectsdatabase.com/model/buggfx/raincoat",
+      "image_source_page_verified": true
     },
     {
       "company": "Build Your Own Clone",
@@ -11493,7 +11690,8 @@
       "source_page": "https://www.effectsdatabase.com/model/byoc/250",
       "research_record": "./research/pedals/PRP Batch 127/build-your-own-clone-250.md",
       "image_source_page": "https://www.effectsdatabase.com/model/byoc/250",
-      "image_source_url": "https://www.effectsdatabase.com/model/byoc/250"
+      "image_source_url": "https://www.effectsdatabase.com/model/byoc/250",
+      "image_source_page_verified": true
     },
     {
       "company": "Build Your Own Clone",
@@ -11505,7 +11703,8 @@
       "source_page": "https://www.effectsdatabase.com/model/byoc/855drive",
       "research_record": "./research/pedals/PRP Batch 128/build-your-own-clone-855-drive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/byoc/855drive",
-      "image_source_url": "https://www.effectsdatabase.com/model/byoc/855drive"
+      "image_source_url": "https://www.effectsdatabase.com/model/byoc/855drive",
+      "image_source_page_verified": true
     },
     {
       "company": "Build Your Own Clone",
@@ -11517,7 +11716,8 @@
       "source_page": "https://www.effectsdatabase.com/model/byoc",
       "research_record": "./research/pedals/PRP Batch 129/b-g-fuzz.md",
       "image_source_page": "https://reverb.com/item/544039-byoc-b-g-fuzz-roland-bee-gee-fuzz-clone-big-muff",
-      "image_source_url": "https://www.effectsdatabase.com/model/byoc"
+      "image_source_url": "https://www.effectsdatabase.com/model/byoc",
+      "image_source_page_verified": true
     },
     {
       "company": "Build Your Own Clone",
@@ -11541,7 +11741,8 @@
       "source_page": "https://www.effectsdatabase.com/model/byoc",
       "research_record": "./research/pedals/PRP Batch 129/bender-clone.md",
       "image_source_page": "https://www.effectsdatabase.com/model/byoc/bender",
-      "image_source_url": "https://www.effectsdatabase.com/model/byoc"
+      "image_source_url": "https://www.effectsdatabase.com/model/byoc",
+      "image_source_page_verified": true
     },
     {
       "company": "Build Your Own Clone",
@@ -11565,7 +11766,8 @@
       "source_page": "https://www.effectsdatabase.com/model/byoc",
       "research_record": "./research/pedals/PRP Batch 129/british-blues-overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/byoc/britishblues",
-      "image_source_url": "https://www.effectsdatabase.com/model/byoc"
+      "image_source_url": "https://www.effectsdatabase.com/model/byoc",
+      "image_source_page_verified": true
     },
     {
       "company": "Build Your Own Clone",
@@ -11602,7 +11804,8 @@
       "source_page": "https://www.effectsdatabase.com/model/byoc",
       "research_record": "./research/pedals/PRP Batch 129/e-s-v-fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/byoc/esvfuzz",
-      "image_source_url": "https://www.effectsdatabase.com/model/byoc"
+      "image_source_url": "https://www.effectsdatabase.com/model/byoc",
+      "image_source_page_verified": true
     },
     {
       "company": "Build Your Own Clone",
@@ -11626,7 +11829,8 @@
       "source_page": "https://www.effectsdatabase.com/model/byoc",
       "research_record": "./research/pedals/PRP Batch 129/fuzz-clone.md",
       "image_source_page": "https://www.effectsdatabase.com/model/byoc/fuzz",
-      "image_source_url": "https://www.effectsdatabase.com/model/byoc"
+      "image_source_url": "https://www.effectsdatabase.com/model/byoc",
+      "image_source_page_verified": true
     },
     {
       "company": "Build Your Own Clone",
@@ -11709,7 +11913,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-triangle.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/byoc/lil/beaver/triangle"
+      "image_source_page": "https://www.effectsdatabase.com/model/byoc/lil/beaver/triangle",
+      "image_source_page_verified": true
     },
     {
       "company": "Build Your Own Clone",
@@ -11732,7 +11937,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 130/li-l-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/byoc/lil/fuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/byoc/lil/fuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Build Your Own Clone",
@@ -11936,7 +12142,8 @@
       "image": null,
       "source_page": "https://bulinskipedals.com/shop/deluxe-velociraptor-diode-bass-fuzz/",
       "research_record": "./research/pedals/PRP Batch 132/deluxe-velociraptor-diode-bass-fuzz.md",
-      "image_source_page": "https://reverb.com/item/64820122-bulinski-effect-pedals-deluxe-velociraptor-diode-bass-fuzz-2022-gloss-brown"
+      "image_source_page": "https://reverb.com/item/64820122-bulinski-effect-pedals-deluxe-velociraptor-diode-bass-fuzz-2022-gloss-brown",
+      "image_source_page_verified": true
     },
     {
       "company": "Bulinski Effect Pedals",
@@ -12235,7 +12442,8 @@
       "image": null,
       "source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
       "research_record": "./research/pedals/PRP Batch 135/byw-blacky-blower.md",
-      "image_source_page": "https://bywaudio.com/index.php/product/blacky-blower/"
+      "image_source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
+      "image_source_page_verified": true
     },
     {
       "company": "BYW Audio",
@@ -12246,7 +12454,8 @@
       "image": null,
       "source_page": "https://bywaudio.com/index.php/product/gros-buzz/",
       "research_record": "./research/pedals/PRP Batch 135/byw-gros-buzz.md",
-      "image_source_page": "https://bywaudio.com/index.php/product/gros-buzz/"
+      "image_source_page": "https://bywaudio.com/index.php/product/gros-buzz/",
+      "image_source_page_verified": true
     },
     {
       "company": "BZZT Electronics",
@@ -12271,7 +12480,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/cgiant/od1",
       "research_record": "./research/pedals/PRP Batch 135/c-giant-od-1-warm-blues.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cgiant/od1"
+      "image_source_page": "https://www.effectsdatabase.com/model/cgiant/od1",
+      "image_source_page_verified": true
     },
     {
       "company": "C.I.C",
@@ -12282,7 +12492,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/cic/mod7",
       "research_record": "./research/pedals/PRP Batch 135/cic-mod-7-overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cic/mod7"
+      "image_source_page": "https://www.effectsdatabase.com/model/cic/mod7",
+      "image_source_page_verified": true
     },
     {
       "company": "C.Q.O.",
@@ -12303,7 +12514,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal?page=7",
       "research_record": "./research/pedals/PRP Batch 135/c14-devices-tone-chaser.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/c14/tonechaser"
+      "image_source_page": "https://www.effectsdatabase.com/model/c14/tonechaser",
+      "image_source_page_verified": true
     },
     {
       "company": "Cactus",
@@ -12314,7 +12526,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/cactus/mtl5",
       "research_record": "./research/pedals/PRP Batch 135/cactus-mtl-5-ultra-metal.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cactus/mtl5"
+      "image_source_page": "https://www.effectsdatabase.com/model/cactus/mtl5",
+      "image_source_page_verified": true
     },
     {
       "company": "Cactus",
@@ -12325,7 +12538,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/cactus/ovd5",
       "research_record": "./research/pedals/PRP Batch 135/cactus-ovd-5-overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cactus/ovd5"
+      "image_source_page": "https://www.effectsdatabase.com/model/cactus/ovd5",
+      "image_source_page_verified": true
     },
     {
       "company": "Cajita Stompboxes",
@@ -12336,7 +12550,8 @@
       "image": null,
       "source_page": "https://pedalescajita.mitiendanube.com/productos/bdi-ts-preamplificador-bajo-con-overdrive/",
       "research_record": "./research/pedals/PRP Batch 135/cajita-bdi-ts-with-overdrive.md",
-      "image_source_page": "https://www.mercadolibre.com.ar/bdits--preamp-de-bajo--distorsion--cajita-stompboxes-/up/MLAU299492703"
+      "image_source_page": "https://www.mercadolibre.com.ar/bdits--preamp-de-bajo--distorsion--cajita-stompboxes-/up/MLAU299492703",
+      "image_source_page_verified": true
     },
     {
       "company": "Cajita Stompboxes",
@@ -12515,7 +12730,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/blog/discofreq?page=55",
       "research_record": "./research/pedals/PRP Batch 138/kalagondang-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/calangary/kalagondang"
+      "image_source_page": "https://www.effectsdatabase.com/model/calangary/kalagondang",
+      "image_source_page_verified": true
     },
     {
       "company": "Calangary Pedals",
@@ -12526,7 +12742,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/calangary/zaladin",
       "research_record": "./research/pedals/PRP Batch 139/zaladin-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/calangary/zaladin"
+      "image_source_page": "https://www.effectsdatabase.com/model/calangary/zaladin",
+      "image_source_page_verified": true
     },
     {
       "company": "California (by Eleca)",
@@ -12573,7 +12790,8 @@
       "image": null,
       "source_page": "https://www.guitariste.com/forums/pedales-effets-homestudio,fuzz-zeppelinienne-tonebender,326573.html",
       "research_record": "./research/pedals/PRP Batch 139/the-bone-tender.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/californiavalveworks/bonetender"
+      "image_source_page": "https://www.effectsdatabase.com/model/californiavalveworks/bonetender",
+      "image_source_page_verified": true
     },
     {
       "company": "Caline",
@@ -12656,7 +12874,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp25",
       "research_record": "./research/pedals/PRP Batch 140/cp-25-highway-man-od.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp25"
+      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp25",
+      "image_source_page_verified": true
     },
     {
       "company": "Caline",
@@ -12704,7 +12923,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp34",
       "research_record": "./research/pedals/PRP Batch 141/cp-34-headroom-vintage-distortion.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp34"
+      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp34",
+      "image_source_page_verified": true
     },
     {
       "company": "Caline",
@@ -12871,7 +13091,8 @@
       "image": null,
       "source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
       "research_record": "./research/pedals/PRP Batch 142/cp-515-carmilla-hi-gain-distortion-machine.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/carmilla"
+      "image_source_page": "https://www.effectsdatabase.com/model/caline/cp500/carmilla",
+      "image_source_page_verified": true
     },
     {
       "company": "Caline",
@@ -12894,7 +13115,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp53",
       "research_record": "./research/pedals/PRP Batch 142/cp-53-fuzzy-faace-voodoo-octave.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp53"
+      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp53",
+      "image_source_page_verified": true
     },
     {
       "company": "Caline",
@@ -12917,7 +13139,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp56",
       "research_record": "./research/pedals/PRP Batch 142/cp-56-midlander-the-mayday-ac-tone.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp56"
+      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp56",
+      "image_source_page_verified": true
     },
     {
       "company": "Caline",
@@ -13024,7 +13247,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/redthorn",
       "research_record": "./research/pedals/PRP Batch 143/cp-78-red-thorn-distortion.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/redthorn"
+      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/redthorn",
+      "image_source_page_verified": true
     },
     {
       "company": "Caline",
@@ -13047,7 +13271,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp82",
       "research_record": "./research/pedals/PRP Batch 144/cp-82-the-broadsword-bass-fuzz-boost.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp82"
+      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp82",
+      "image_source_page_verified": true
     },
     {
       "company": "Caline",
@@ -13142,7 +13367,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp08",
       "research_record": "./research/pedals/PRP Batch 145/dcp-08-nightwolf.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp08"
+      "image_source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp08",
+      "image_source_page_verified": true
     },
     {
       "company": "Caline",
@@ -13213,7 +13439,8 @@
       "image": null,
       "source_page": "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple",
       "research_record": "./research/pedals/PRP Batch 146/cameltone-big-stuff.md",
-      "image_source_page": "https://reverb.com/item/31816216-cameltone-electronics-big-stuff-fuzz-distortion-pedal"
+      "image_source_page": "https://reverb.com/item/31816216-cameltone-electronics-big-stuff-fuzz-distortion-pedal",
+      "image_source_page_verified": true
     },
     {
       "company": "Cameltone Electronics",
@@ -13224,7 +13451,8 @@
       "image": null,
       "source_page": "https://reverb.com/item/3170253-cameltone-freak-scene",
       "research_record": "./research/pedals/PRP Batch 147/cameltone-freak-scene.md",
-      "image_source_page": "https://reverb.com/item/3170253-cameltone-freak-scene"
+      "image_source_page": "https://reverb.com/item/3170253-cameltone-freak-scene",
+      "image_source_page_verified": true
     },
     {
       "company": "Cameltone Electronics",
@@ -13236,7 +13464,8 @@
       "image": null,
       "source_page": "https://reverb.com/item/58670565-cameltone-electronics-the-nard-2022",
       "research_record": "./research/pedals/PRP Batch 147/cameltone-the-nard.md",
-      "image_source_page": "https://reverb.com/item/86020573-cameltone-electronics-the-nard-2023-blue-album-tones"
+      "image_source_page": "https://reverb.com/item/86020573-cameltone-electronics-the-nard-2023-blue-album-tones",
+      "image_source_page_verified": true
     },
     {
       "company": "Camuro",
@@ -13260,7 +13489,8 @@
       "image": null,
       "source_page": "https://camuro.co.jp/caboolture",
       "research_record": "./research/pedals/PRP Batch 147/camuro-caboolture-twin-stage-overdrive.md",
-      "image_source_page": "https://camuro.co.jp/caboolture"
+      "image_source_page": "https://camuro.co.jp/caboolture",
+      "image_source_page_verified": true
     },
     {
       "company": "Camuro",
@@ -13271,7 +13501,8 @@
       "image": null,
       "source_page": "https://camuro.co.jp/",
       "research_record": "./research/pedals/PRP Batch 147/camuro-fat-baby-preamp-overdrive.md",
-      "image_source_page": "https://camuro.co.jp/"
+      "image_source_page": "https://camuro.co.jp/",
+      "image_source_page_verified": true
     },
     {
       "company": "Camuro",
@@ -13282,7 +13513,8 @@
       "image": null,
       "source_page": "https://camuro.co.jp/pedals",
       "research_record": "./research/pedals/PRP Batch 147/camuro-fuzz-rosso.md",
-      "image_source_page": "https://camuro.co.jp/pedals"
+      "image_source_page": "https://camuro.co.jp/pedals",
+      "image_source_page_verified": true
     },
     {
       "company": "Camuro",
@@ -13318,7 +13550,8 @@
       "image": null,
       "source_page": "https://camuro.co.jp/pedals",
       "research_record": "./research/pedals/PRP Batch 147/camuro-naturale.md",
-      "image_source_page": "https://camuro.co.jp/pedals"
+      "image_source_page": "https://camuro.co.jp/pedals",
+      "image_source_page_verified": true
     },
     {
       "company": "Canned Monsters",
@@ -13329,7 +13562,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/cannedmonsters/frenzymoss",
       "research_record": "./research/pedals/PRP Batch 147/canned-monsters-frenzy-moss.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cannedmonsters/frenzymoss"
+      "image_source_page": "https://www.effectsdatabase.com/model/cannedmonsters/frenzymoss",
+      "image_source_page_verified": true
     },
     {
       "company": "Canned Monsters",
@@ -13352,7 +13586,8 @@
       "image": null,
       "source_page": "https://reverb.com/item/43102648-canvas-analog-devices-the-metamorphosis-overdrive-pedal",
       "research_record": "./research/pedals/PRP Batch 148/canvas-analog-devices-the-metamorphosis.md",
-      "image_source_page": "https://reverb.com/item/43102648-canvas-analog-devices-the-metamorphosis-overdrive-pedal"
+      "image_source_page": "https://reverb.com/item/43102648-canvas-analog-devices-the-metamorphosis-overdrive-pedal",
+      "image_source_page_verified": true
     },
     {
       "company": "Captain FX",
@@ -13363,7 +13598,8 @@
       "image": null,
       "source_page": "https://reverb.com/item/11956050-captain-fx-yeti-bass-fuzz",
       "research_record": "./research/pedals/PRP Batch 148/captain-fx-yeti-fuzz.md",
-      "image_source_page": "https://reverb.com/item/11956050-captain-fx-yeti-bass-fuzz"
+      "image_source_page": "https://reverb.com/item/11956050-captain-fx-yeti-bass-fuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Carcharias Effects",
@@ -13374,7 +13610,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/carcharias/uncle125",
       "research_record": "./research/pedals/PRP Batch 148/carcharias-effects-uncle-125-bass-overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carcharias/uncle125"
+      "image_source_page": "https://www.effectsdatabase.com/model/carcharias/uncle125",
+      "image_source_page_verified": true
     },
     {
       "company": "Carella Guitars",
@@ -13410,7 +13647,8 @@
       "image": null,
       "source_page": "https://recnmix.accordo.it/article/viewPub/4430?co=1",
       "research_record": "./research/pedals/PRP Batch 148/carella-guitars-overdistover.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carella/overdistover"
+      "image_source_page": "https://www.effectsdatabase.com/model/carella/overdistover",
+      "image_source_page_verified": true
     },
     {
       "company": "Carella Guitars",
@@ -13421,7 +13659,8 @@
       "image": null,
       "source_page": "https://reverb.com/item/91128449-carella-guitars-overtube-effetto-overdrive-per-chitarra",
       "research_record": "./research/pedals/PRP Batch 148/carella-guitars-overtube.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carella/overtube"
+      "image_source_page": "https://www.effectsdatabase.com/model/carella/overtube",
+      "image_source_page_verified": true
     },
     {
       "company": "Carella Guitars",
@@ -13432,7 +13671,8 @@
       "image": null,
       "source_page": "https://recnmix.accordo.it/article/viewPub/4430?co=1",
       "research_record": "./research/pedals/PRP Batch 148/carella-guitars-real-tube.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carella/realtube"
+      "image_source_page": "https://www.effectsdatabase.com/model/carella/realtube",
+      "image_source_page_verified": true
     },
     {
       "company": "Carl Martin",
@@ -13455,7 +13695,8 @@
       "image": null,
       "source_page": "https://carlmartin.com/products/dc-drive/",
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-dc-drive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carlmartin/classic/dcdrive"
+      "image_source_page": "https://www.effectsdatabase.com/model/carlmartin/classic/dcdrive",
+      "image_source_page_verified": true
     },
     {
       "company": "Carl Martin",
@@ -13566,7 +13807,8 @@
       "image": null,
       "source_page": "https://carlmartin.com/products/the-fuzz/",
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-the-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carlmartin/thefuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/carlmartin/thefuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Carl Martin",
@@ -13589,7 +13831,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/carlin/compressor/fuzz",
       "research_record": "./research/pedals/PRP Batch 150/carlin-carlin-compressor-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carlin/compressor/fuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/carlin/compressor/fuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Carlsbro",
@@ -13600,7 +13843,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/carlsbro/colorsound/fuzz",
       "research_record": "./research/pedals/PRP Batch 150/carlsbro-carlsbro-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/carlsbro/colorsound/fuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/carlsbro/colorsound/fuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Carlsbro",
@@ -13700,7 +13944,8 @@
       "image": null,
       "source_page": "https://carolineguitar.com/so-what-is-the-difference-between/",
       "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-haymaker.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caroline/haymaker"
+      "image_source_page": "https://www.effectsdatabase.com/model/caroline/haymaker",
+      "image_source_page_verified": true
     },
     {
       "company": "Caroline Guitar Company",
@@ -13739,7 +13984,8 @@
       "image": null,
       "source_page": "https://carolineguitar.com/tag/caroline-olympia-fuzz/",
       "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-olympia.md",
-      "image_source_page": "https://reverb.com/p/caroline-guitar-company-olympia"
+      "image_source_page": "https://reverb.com/p/caroline-guitar-company-olympia",
+      "image_source_page_verified": true
     },
     {
       "company": "Caroline Guitar Company",
@@ -13845,7 +14091,8 @@
       "source_page": "https://reverb.com/en-nl/item/74459358-carruthers-dyna-soar-lite-80s-incredibly-rare-big-muff-style-fuzz-pedal",
       "research_record": "./research/pedals/PRP Batch 152/carruthers-dyna-soar-lite.md",
       "image_source_page": "https://reverb.com/en-nl/item/74459358-carruthers-dyna-soar-lite-80s-incredibly-rare-big-muff-style-fuzz-pedal",
-      "image_source_url": "https://reverb.com/en-nl/item/74459358-carruthers-dyna-soar-lite-80s-incredibly-rare-big-muff-style-fuzz-pedal"
+      "image_source_url": "https://reverb.com/en-nl/item/74459358-carruthers-dyna-soar-lite-80s-incredibly-rare-big-muff-style-fuzz-pedal",
+      "image_source_page_verified": true
     },
     {
       "company": "Carvin",
@@ -13857,7 +14104,8 @@
       "source_page": "https://reverb.com/en-pt/item/603790-carvin-to-1-tube-overdrive-distortion-pedal",
       "research_record": "./research/pedals/PRP Batch 152/carvin-to-1-tube-overdrive.md",
       "image_source_page": "https://reverb.com/en-pt/item/603790-carvin-to-1-tube-overdrive-distortion-pedal",
-      "image_source_url": "https://reverb.com/en-pt/item/603790-carvin-to-1-tube-overdrive-distortion-pedal"
+      "image_source_url": "https://reverb.com/en-pt/item/603790-carvin-to-1-tube-overdrive-distortion-pedal",
+      "image_source_page_verified": true
     },
     {
       "company": "Carvin",
@@ -13930,7 +14178,8 @@
       "source_page": "https://www.effectsdatabase.com/model/casestudy/aspen/germanium",
       "research_record": "./research/pedals/PRP Batch 152/case-study-effects-germanium-aspen.md",
       "image_source_page": "https://www.effectsdatabase.com/model/casestudy/aspen/germanium",
-      "image_source_url": "https://www.effectsdatabase.com/model/casestudy/aspen/germanium"
+      "image_source_url": "https://www.effectsdatabase.com/model/casestudy/aspen/germanium",
+      "image_source_page_verified": true
     },
     {
       "company": "Case Study Effects Co.",
@@ -13966,7 +14215,8 @@
       "source_page": "https://www.effectsdatabase.com/model/caseygooby/organdonor",
       "research_record": "./research/pedals/PRP Batch 153/casey-gooby-organ-donor.md",
       "image_source_page": "https://www.effectsdatabase.com/model/caseygooby/organdonor",
-      "image_source_url": "https://www.effectsdatabase.com/model/caseygooby/organdonor"
+      "image_source_url": "https://www.effectsdatabase.com/model/caseygooby/organdonor",
+      "image_source_page_verified": true
     },
     {
       "company": "Casimir Effects Pedals",
@@ -13978,7 +14228,8 @@
       "source_page": "https://www.effectsdatabase.com/model/casimir/entropy",
       "research_record": "./research/pedals/PRP Batch 153/casimir-effects-pedals-entropy-fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/casimir/entropy",
-      "image_source_url": "https://www.effectsdatabase.com/model/casimir/entropy"
+      "image_source_url": "https://www.effectsdatabase.com/model/casimir/entropy",
+      "image_source_page_verified": true
     },
     {
       "company": "CAST Engineering",
@@ -14026,7 +14277,8 @@
       "source_page": "https://www.zzounds.com/item--CSTCRBOD",
       "research_record": "./research/pedals/PRP Batch 153/castlerock-bass-overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/castlerock/bassoverdrive",
-      "image_source_url": "https://www.zzounds.com/item--CSTCRBOD"
+      "image_source_url": "https://www.zzounds.com/item--CSTCRBOD",
+      "image_source_page_verified": true
     },
     {
       "company": "CastleRock",
@@ -14038,7 +14290,8 @@
       "source_page": "https://www.effectsdatabase.com/model/castlerock/distortion",
       "research_record": "./research/pedals/PRP Batch 153/castlerock-distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/castlerock/distortion",
-      "image_source_url": "https://www.effectsdatabase.com/model/castlerock/distortion"
+      "image_source_url": "https://www.effectsdatabase.com/model/castlerock/distortion",
+      "image_source_page_verified": true
     },
     {
       "company": "CastleRock",
@@ -14050,7 +14303,8 @@
       "source_page": "https://www.effectsdatabase.com/model/castlerock/metaldriver",
       "research_record": "./research/pedals/PRP Batch 153/castlerock-metal-driver.md",
       "image_source_page": "https://www.effectsdatabase.com/model/castlerock/metaldriver",
-      "image_source_url": "https://www.effectsdatabase.com/model/castlerock/metaldriver"
+      "image_source_url": "https://www.effectsdatabase.com/model/castlerock/metaldriver",
+      "image_source_page_verified": true
     },
     {
       "company": "CastleRock",
@@ -14062,7 +14316,8 @@
       "source_page": "https://www.effectsdatabase.com/model/castlerock/overdrive",
       "research_record": "./research/pedals/PRP Batch 153/castlerock-overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/castlerock/overdrive",
-      "image_source_url": "https://www.effectsdatabase.com/model/castlerock/overdrive"
+      "image_source_url": "https://www.effectsdatabase.com/model/castlerock/overdrive",
+      "image_source_page_verified": true
     },
     {
       "company": "Caswell Modern Electronics (CME)",
@@ -14098,7 +14353,8 @@
       "source_page": "https://www.effectsdatabase.com/model/caswell/sharkmouth",
       "research_record": "./research/pedals/PRP Batch 154/caswell-cme-shark-mouth-bass-synth-fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/caswell/sharkmouth",
-      "image_source_url": "https://www.effectsdatabase.com/model/caswell/sharkmouth"
+      "image_source_url": "https://www.effectsdatabase.com/model/caswell/sharkmouth",
+      "image_source_page_verified": true
     },
     {
       "company": "Cat Box Customs",
@@ -14146,7 +14402,8 @@
       "source_page": "https://www.effectsdatabase.com/model/catsound/classic",
       "research_record": "./research/pedals/PRP Batch 154/cat-sound-classic.md",
       "image_source_page": "https://www.effectsdatabase.com/model/catsound/classic",
-      "image_source_url": "https://www.effectsdatabase.com/model/catsound/classic"
+      "image_source_url": "https://www.effectsdatabase.com/model/catsound/classic",
+      "image_source_page_verified": true
     },
     {
       "company": "CAT Sound",
@@ -14158,7 +14415,8 @@
       "source_page": "https://www.effectsdatabase.com/model/catsound/dancing",
       "research_record": "./research/pedals/PRP Batch 154/cat-sound-dancing-distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/catsound/dancing",
-      "image_source_url": "https://www.effectsdatabase.com/model/catsound/dancing"
+      "image_source_url": "https://www.effectsdatabase.com/model/catsound/dancing",
+      "image_source_page_verified": true
     },
     {
       "company": "CAT Sound",
@@ -14170,7 +14428,8 @@
       "source_page": "https://www.effectsdatabase.com/model/catsound/drivecenter",
       "research_record": "./research/pedals/PRP Batch 154/cat-sound-drivecenter.md",
       "image_source_page": "https://www.effectsdatabase.com/model/catsound/drivecenter",
-      "image_source_url": "https://www.effectsdatabase.com/model/catsound/drivecenter"
+      "image_source_url": "https://www.effectsdatabase.com/model/catsound/drivecenter",
+      "image_source_page_verified": true
     },
     {
       "company": "CAT Sound",
@@ -14182,7 +14441,8 @@
       "source_page": "https://www.effectsdatabase.com/model/catsound/drivecenter/bass",
       "research_record": "./research/pedals/PRP Batch 154/cat-sound-drivecenter-bass.md",
       "image_source_page": "https://www.effectsdatabase.com/model/catsound/drivecenter/bass",
-      "image_source_url": "https://www.effectsdatabase.com/model/catsound/drivecenter/bass"
+      "image_source_url": "https://www.effectsdatabase.com/model/catsound/drivecenter/bass",
+      "image_source_page_verified": true
     },
     {
       "company": "Cat's Eye ESP",
@@ -14193,7 +14453,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/catseye/hophed",
       "research_record": "./research/pedals/PRP Batch 155/cat-s-eye-hop-hed-fuzztone.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/catseye/hophed"
+      "image_source_page": "https://www.effectsdatabase.com/model/catseye/hophed",
+      "image_source_page_verified": true
     },
     {
       "company": "Cat's Eye ESP",
@@ -14204,7 +14465,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/catseye/hybridfuzz",
       "research_record": "./research/pedals/PRP Batch 155/cat-s-eye-hybrid-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/catseye/hybridfuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/catseye/hybridfuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Cat's Eye ESP",
@@ -14215,7 +14477,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/catseye/mistafuzz",
       "research_record": "./research/pedals/PRP Batch 155/cat-s-eye-mista-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/catseye/mistafuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/catseye/mistafuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Cat's Eye ESP",
@@ -14227,7 +14490,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/catseye/muthafuzz",
       "research_record": "./research/pedals/PRP Batch 155/cat-s-eye-mutha-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/catseye/muthafuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/catseye/muthafuzz",
+      "image_source_page_verified": true
     },
     {
       "company": "Catalinbread Effects",
@@ -14834,7 +15098,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 160/cave-60s-break-up.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/60sbreakup"
+      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/60sbreakup",
+      "image_source_page_verified": true
     },
     {
       "company": "Cave Passive Pedals",
@@ -14845,7 +15110,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 160/cave-b-drive-grunt.md",
-      "image_source_page": "https://www.talkbass.com/threads/cave-passive-pedal-tour-box.884581/"
+      "image_source_page": "https://www.talkbass.com/threads/cave-passive-pedal-tour-box.884581/",
+      "image_source_page_verified": true
     },
     {
       "company": "Cave Passive Pedals",
@@ -14856,7 +15122,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 160/cave-blue-juice.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/bluejuice"
+      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/bluejuice",
+      "image_source_page_verified": true
     },
     {
       "company": "Cave Passive Pedals",
@@ -14879,7 +15146,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 160/cave-grunt-mkii.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/grunt/mk2"
+      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/grunt/mk2",
+      "image_source_page_verified": true
     },
     {
       "company": "Cave Passive Pedals",
@@ -14891,7 +15159,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 160/cave-mini-miff.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/minimiff"
+      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/minimiff",
+      "image_source_page_verified": true
     },
     {
       "company": "Cave Passive Pedals",
@@ -14902,7 +15171,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 160/cave-super-grunt.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/grunt/super"
+      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/grunt/super",
+      "image_source_page_verified": true
     },
     {
       "company": "Cave Passive Pedals",
@@ -14913,7 +15183,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 160/cave-wasp.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/wasp"
+      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/wasp",
+      "image_source_page_verified": true
     },
     {
       "company": "Cave Passive Pedals",
@@ -14924,7 +15195,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 160/cave-wasp-mkii.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/wasp/mk2"
+      "image_source_page": "https://www.effectsdatabase.com/model/cavepassive/wasp/mk2",
+      "image_source_page_verified": true
     },
     {
       "company": "Cave Pedals",

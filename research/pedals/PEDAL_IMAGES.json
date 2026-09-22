@@ -2767,9 +2767,11 @@
   {
     "builder": "Audio Matrix",
     "pedal": "Mini Boogee / Mini Matrix",
-    "image": null,
+    "image": "./assets/pedals/audio-matrix/mini-boogee-mini-matrix/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/audiomatrix/miniboogee",
-    "research_record": "./research/pedals/Audio Matrix/Mini Boogee - Mini Matrix.md"
+    "research_record": "./research/pedals/Audio Matrix/Mini Boogee - Mini Matrix.md",
+    "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitzRWbyWykTA2oQ8cpK7_Oq8BSqUAgGapHT6BdlJUYd2VV_Dy40W1V4xA5N99tJglzGzIUWbMQ96YPc8TzlFyrPe-v8DTEwdUZYtqa8yyMzxOHflfzCYhx8EkTVelAOkhLHMQYgyc_CoA/s1600/marzamira+001.jpg",
+    "image_source_page": "https://www.tonemachinesblog.com/2011/12/audio-matrix-mini-boogee-1980.html"
   },
   {
     "builder": "Audio Monk",
