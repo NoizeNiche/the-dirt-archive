@@ -15,6 +15,7 @@ from pathlib import Path
 
 INDEX = Path("research/PEDAL_INDEX.json")
 OVERRIDES = Path("research/PHOTO_SOURCE_OVERRIDES.csv")
+DIRECT_OVERRIDES = Path("research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv")
 
 
 def key(builder: str, pedal: str) -> tuple[str, str]:
@@ -32,7 +33,18 @@ def main() -> None:
             pedal = row.get("Pedal", "").strip()
             source_page = row.get("Image Source Page", "").strip()
             if builder and pedal and source_page:
-                overrides.setdefault(key(builder, pedal), []).append((source_page, row_index))
+                overrides.setdefault(key(builder, pedal), []).append((source_page, row_index, ""))
+
+    direct_overrides = {}
+    if DIRECT_OVERRIDES.exists():
+        with DIRECT_OVERRIDES.open(newline="", encoding="utf-8") as handle:
+            for row_index, row in enumerate(csv.DictReader(handle), start=1):
+                builder = row.get("Builder", "").strip()
+                pedal = row.get("Pedal", "").strip()
+                source_page = row.get("Image Source Page", "").strip()
+                image_url = row.get("Image URL", "").strip()
+                if builder and pedal and source_page and image_url:
+                    direct_overrides[key(builder, pedal)] = (source_page, image_url, row_index)
 
     with INDEX.open(encoding="utf-8") as handle:
         catalog = json.load(handle)
@@ -53,8 +65,8 @@ def main() -> None:
         if not override:
             continue
 
-        pages = list(dict.fromkeys(page for page, _ in override))
-        primary_page, primary_priority = override[-1]
+        pages = list(dict.fromkeys(page for page, _, _ in override))
+        primary_page, primary_priority, _ = override[-1]
         if entry.get("image_source_pages") != pages:
             entry["image_source_pages"] = pages
         if entry.get("image_source_page") != primary_page:
@@ -65,6 +77,16 @@ def main() -> None:
             entry["image_source_page_verified"] = True
         if entry.get("image_source_priority") != primary_priority:
             entry["image_source_priority"] = primary_priority
+
+        direct = direct_overrides.get(key(entry.get("company", ""), entry.get("pedal", "")))
+        if direct:
+            direct_page, direct_url, _ = direct
+            if entry.get("image_source_page") != direct_page:
+                entry["image_source_page"] = direct_page
+            if entry.get("image_source_url") != direct_url:
+                entry["image_source_url"] = direct_url
+            if entry.get("image_source_page_verified") is not True:
+                entry["image_source_page_verified"] = True
         changed += 1
 
     if changed:
