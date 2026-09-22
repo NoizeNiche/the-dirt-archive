@@ -329,6 +329,11 @@ def main():
         for row in tracker_rows
         if row.get("Picture") != "DONE"
     }
+    researched_photo_pending_keys = {
+        (row.get("Builder", ""), row.get("Pedal", ""))
+        for row in tracker_rows
+        if row.get("Pedal Info") == "DONE" and row.get("Picture") != "DONE"
+    }
 
     cached = []
     retained = [0]
@@ -425,6 +430,7 @@ def main():
         f"- Local images retained/reorganized: **{retained[0]}**",
         f"- Download failures: **{len(failures)}**",
         f"- Remaining tracker photo backlog: **{remaining_photo_backlog}**",
+        f"- Researched, photo pending: **{len(researched_photo_pending_keys)}**",
         "",
         "## Storage layout",
         "",
