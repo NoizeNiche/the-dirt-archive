@@ -7744,12 +7744,12 @@
   {
     "builder": "Bouteek",
     "pedal": "Twin Drive and Boost - Ultimate Drive with Fuzz Inject",
-    "image": null,
+    "image": "./assets/pedals/bouteek/twin-drive-and-boost-ultimate-drive-with-fuzz-inject/primary.webp",
     "source": null,
     "source_page": "https://www.effectsdatabase.com/updates/weekly/20090921",
     "research_record": "./research/pedals/PRP Batch 114/twin-drive-and-boost-ultimate-drive-with-fuzz-inject.md",
-    "image_source_page": "https://www.effectsdatabase.com/updates/weekly/20090921",
-    "image_source_url": "https://www.effectsdatabase.com/updates/weekly/20090921"
+    "image_source_page": "https://www.effectsdatabase.com/model/bouteek/twindrive",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/bouteek_twindriveboost_001.jpg"
   },
   {
     "builder": "Bowman Audio Endeavors",
