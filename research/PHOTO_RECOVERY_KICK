@@ -1,4 +1,4 @@
-Photo recovery kick v1
-Issued September 22, 2026.
+Photo recovery kick v2
+Issued September 22, 2026. Retry after recovery-engine parser fix.
 Purpose: start one bounded recovery pass against the current main branch after scheduled delivery stopped producing cache runs.
 This file is intentionally inert data. Only changes to this exact sentinel path trigger the cache workflow.
