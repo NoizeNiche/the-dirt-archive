@@ -1344,6 +1344,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
         const review = reviewByKey.get(key(entry.company, entry.pedal));
         const order = meta?.order;
         let value = Number.isFinite(order) ? -order : -100000000;
+        // Curated, verified source pages are the highest-confidence recovery
+        // leads and should be processed ahead of ordinary alphabetical backlog.
+        // Without this priority, exact Effects Database/Reverb leads can sit far
+        // below the first 25 fresh tracker rows and never get attempted promptly.
+        if (entry.image_source_page_verified === true && entry.image_source_page) value += 100000000;
+        else if (entry.image_source_page && /^https?:/i.test(entry.image_source_page)) value += 5000;
         if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) value += 100;
         if (review?.Status === 'DEEP_REVIEW') value -= 40;
         if (PRIORITY_COMPANY && String(entry.company || '').trim().toLowerCase() === PRIORITY_COMPANY) value += 100000;
