@@ -1,6 +1,6 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **4**
+- Cached in this run: **0**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
@@ -11,13 +11,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- 1981 Inventions - LVL -> `./assets/pedals/1981-inventions/lvl/primary.webp`
-- Addrock Musical Products - Boostmaster -> `./assets/pedals/addrock-musical-products/boostmaster/primary.webp`
-- Addrock Musical Products - Hism Scism -> `./assets/pedals/addrock-musical-products/hism-scism/primary.webp`
-- Barber Electronics - 1/2 Gainer -> `./assets/pedals/barber-electronics/1-2-gainer/primary.webp`
 
 ## Still external / failed
 
