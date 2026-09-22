@@ -53,7 +53,7 @@ def main() -> None:
         if not override:
             continue
 
-        pages = [page for page, _ in override]
+        pages = list(dict.fromkeys(page for page, _ in override))
         primary_page, primary_priority = override[-1]
         if entry.get("image_source_pages") != pages:
             entry["image_source_pages"] = pages
