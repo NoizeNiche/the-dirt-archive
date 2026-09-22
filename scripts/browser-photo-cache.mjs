@@ -1444,6 +1444,15 @@ async function recoverEntry(browser, entry, deepReview = false) {
         return review?.Status === 'DEEP_REVIEW' && (Number(review.Attempts) || 0) < MAX_RECOVERY_ATTEMPTS;
       })
       .sort((a, b) => {
+        const sourceRank = entry => {
+          if (entry.image_source_page_verified === true && entry.image_source_page) return 2;
+          if (entry.image_source_page && /^https?:/i.test(entry.image_source_page)) return 1;
+          return 0;
+        };
+        const aSource = sourceRank(a);
+        const bSource = sourceRank(b);
+        if (aSource !== bSource) return bSource - aSource;
+
         const aReview = reviewByKey.get(key(a.company, a.pedal));
         const bReview = reviewByKey.get(key(b.company, b.pedal));
         const aAttempts = Number(aReview?.Attempts) || 0;
