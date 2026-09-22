@@ -5578,10 +5578,12 @@
   {
     "builder": "Big Tone Music Brewery",
     "pedal": "Six Of Swords",
-    "image": null,
+    "image": "./assets/pedals/big-tone-music-brewery/six-of-swords/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/bigtone/sixofswords",
-    "research_record": "./research/pedals/PRP Batch 086/Six Of Swords.md"
+    "research_record": "./research/pedals/PRP Batch 086/Six Of Swords.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/bigtonemusicbrewery_sixofswords_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/bigtone/sixofswords"
   },
   {
     "builder": "Big White Monkey Amps",

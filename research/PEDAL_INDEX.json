@@ -8333,7 +8333,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-tone-music-brewery/six-of-swords/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bigtone/sixofswords",
       "research_record": "./research/pedals/PRP Batch 086/Six Of Swords.md",
       "image_source_page": "https://www.effectsdatabase.com/model/bigtone/sixofswords",
@@ -8342,7 +8342,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/bigtone/sixofswords"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bigtonemusicbrewery_sixofswords_001.jpg"
     },
     {
       "company": "Big White Monkey Amps",
