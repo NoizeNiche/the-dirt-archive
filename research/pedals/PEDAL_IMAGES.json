@@ -10788,10 +10788,11 @@
   {
     "builder": "Cat's Eye ESP",
     "pedal": "Hybrid Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cat-s-eye-esp/hybrid-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/catseye/hybridfuzz",
     "research_record": "./research/pedals/PRP Batch 155/cat-s-eye-hybrid-fuzz.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/catseye/hybridfuzz"
+    "image_source_page": "https://www.effectsdatabase.com/model/catseye/hybridfuzz",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/catseye_hybridfuzz_001.jpg"
   },
   {
     "builder": "Cat's Eye ESP",

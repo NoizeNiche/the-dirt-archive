@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **5**
-- Staged browser photos converted: **5**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2830**
-- Researched, photo pending: **285**
+- Remaining tracker photo backlog: **2829**
+- Researched, photo pending: **284**
 
 ## Storage layout
 
@@ -15,11 +15,7 @@
 
 ## Newly cached
 
-- BR Tech - BR-1 Distortion -> `./assets/pedals/br-tech/br-1-distortion/primary.webp`
-- Carella Guitars - Overdistover -> `./assets/pedals/carella-guitars/overdistover/primary.webp`
-- Carella Guitars - Overtube -> `./assets/pedals/carella-guitars/overtube/primary.webp`
-- Carlin - Carlin Compressor/Fuzz -> `./assets/pedals/carlin/carlin-compressor-fuzz/primary.webp`
-- CastleRock - CastleRock Metal Driver -> `./assets/pedals/castlerock/castlerock-metal-driver/primary.webp`
+- Cat's Eye ESP - Hybrid Fuzz -> `./assets/pedals/cat-s-eye-esp/hybrid-fuzz/primary.webp`
 
 ## Still external / failed
 
