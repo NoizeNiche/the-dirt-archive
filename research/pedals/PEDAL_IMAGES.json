@@ -3114,10 +3114,11 @@
   {
     "builder": "Award-Session",
     "pedal": "JD10 MkII Direct Recording Guitar Amp Emulator",
-    "image": null,
+    "image": "./assets/pedals/award-session/jd10-mkii-direct-recording-guitar-amp-emulator/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/awardsession/jd10/mk2",
     "research_record": "./research/pedals/Award-Session/JD10 MkII Direct Recording Guitar Amp Emulator.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/awardsession/jd10/mk2"
+    "image_source_page": "https://www.guitar-auctions.co.uk/sale/151/456/Award-Session-JD10-Mk-II-direct-recording-guitar-amp-emulator-pedal",
+    "image_source_url": "https://www.guitar-auctions.co.uk/public/images/Sales/151/456.JPG"
   },
   {
     "builder": "Award-Session",
@@ -11231,9 +11232,11 @@
   {
     "builder": "Cave Pedals",
     "pedal": "Quad",
-    "image": null,
+    "image": "./assets/pedals/cave-pedals/quad/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 160/cave-quad.md"
+    "research_record": "./research/pedals/PRP Batch 160/cave-quad.md",
+    "image_source_url": "http://static1.squarespace.com/static/67712541ebf597598f119c33/677126e93a97164f38050d2e/677126e93a97164f38050d43/1788846414295/pomelli_photoshoot_image_1_1_0801+%2818%29.png?format=1500w",
+    "image_source_page": "https://www.cavepedals.net/shop/p/product-2-5c6mb-j8mng-zyt72-6y5rs"
   },
   {
     "builder": "Caveman Audio / Skrydstrup",
