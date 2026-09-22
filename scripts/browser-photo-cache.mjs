@@ -681,10 +681,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
     const candidates = [];
     const pageUrl = preferredSourcePage(entry);
 
-    // Use the builder's own web presence first whenever the existing research
-    // source is not obviously hosted by the builder. This matches the archive's
-    // simple recovery ladder: maker first, then known pedal databases/marketplaces.
-    if (!pageUrl || !hostMatchesBuilder(pageUrl, entry.company)) {
+    // A curated/explicit image source page is already a stronger lead than a
+    // fresh maker-search query, so give that page the first chance to resolve.
+    // Maker discovery remains the fallback when no explicit page is available.
+    const hasExplicitSourcePage = Boolean(entry.image_source_page);
+    if ((!pageUrl || !hostMatchesBuilder(pageUrl, entry.company)) && !hasExplicitSourcePage) {
       const makerCandidates = await makerWebCandidates(page, entry);
       candidates.push(...makerCandidates);
     }
