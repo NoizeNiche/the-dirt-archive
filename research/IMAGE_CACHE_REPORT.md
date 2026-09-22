@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **4**
+- Staged browser photos converted: **4**
 - Local images retained/reorganized: **0**
 - Download failures: **13**
-- Remaining tracker photo backlog: **2824**
-- Researched, photo pending: **279**
+- Remaining tracker photo backlog: **2820**
+- Researched, photo pending: **275**
 
 ## Storage layout
 
@@ -15,7 +15,10 @@
 
 ## Newly cached
 
-- Carl Martin - DC-Drive -> `./assets/pedals/carl-martin/dc-drive/primary.webp`
+- C.Giant - OD-1 Warm Blues - Overdrive/Distortion -> `./assets/pedals/c-giant/od-1-warm-blues-overdrive-distortion/primary.webp`
+- Cactus - OVD-5 Overdrive -> `./assets/pedals/cactus/ovd-5-overdrive/primary.webp`
+- California Valveworks - The Bone Tender -> `./assets/pedals/california-valveworks/the-bone-tender/primary.webp`
+- Canned Monsters - Frenzy Moss -> `./assets/pedals/canned-monsters/frenzy-moss/primary.webp`
 
 ## Still external / failed
 

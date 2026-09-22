@@ -14063,7 +14063,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/c-giant/od-1-warm-blues-overdrive-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/cgiant/od1",
       "research_record": "./research/pedals/PRP Batch 135/c-giant-od-1-warm-blues.md",
       "image_source_page": "https://www.effectsdatabase.com/model/cgiant/od1",
@@ -14072,7 +14072,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/cgiant/od1"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/cgiant_od1_001.jpg"
     },
     {
       "company": "C.I.C",
@@ -14148,16 +14149,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cactus/ovd-5-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/cactus/ovd5",
       "research_record": "./research/pedals/PRP Batch 135/cactus-ovd-5-overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cactus/ovd5",
+      "image_source_page": "https://www.effectsdatabase.com/model/columbus/ovd5",
       "image_source_page_verified": true,
       "image_source_priority": 125,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/cactus/ovd5"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/columbus_ovd-5_001.jpg"
     },
     {
       "company": "Cajita Stompboxes",
@@ -14420,7 +14422,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/california-valveworks/the-bone-tender/primary.webp",
       "source_page": "https://www.guitariste.com/forums/pedales-effets-homestudio,fuzz-zeppelinienne-tonebender,326573.html",
       "research_record": "./research/pedals/PRP Batch 139/the-bone-tender.md",
       "image_source_page": "https://www.effectsdatabase.com/model/californiavalveworks/bonetender",
@@ -14429,7 +14431,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/californiavalveworks/bonetender"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/californiavalveworks_bonetender_001.jpg"
     },
     {
       "company": "Caline",
@@ -15268,7 +15271,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/canned-monsters/frenzy-moss/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/cannedmonsters/frenzymoss",
       "research_record": "./research/pedals/PRP Batch 147/canned-monsters-frenzy-moss.md",
       "image_source_page": "https://www.effectsdatabase.com/model/cannedmonsters/frenzymoss",
@@ -15277,7 +15280,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/cannedmonsters/frenzymoss"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/cannedmonsters_frenzymoss_002.jpg"
     },
     {
       "company": "Canned Monsters",
