@@ -979,16 +979,21 @@ async function recoverEntry(browser, entry, deepReview = false) {
           const rows = [];
 
           for (const [imgIndex, img] of [...document.querySelectorAll('img')].entries()) {
+            const srcsetValues = String(img.getAttribute('srcset') || '')
+              .split(',')
+              .map(part => part.trim().split(/\s+/)[0])
+              .filter(Boolean);
             const src =
               img.currentSrc ||
-              img.src ||
-              img.getAttribute('data-src') ||
-              img.getAttribute('data-lazy-src') ||
-              img.getAttribute('data-original') ||
               img.getAttribute('data-large-image') ||
               img.getAttribute('data-zoom-image') ||
               img.getAttribute('data-image') ||
               img.getAttribute('data-image-url') ||
+              img.getAttribute('data-src') ||
+              img.getAttribute('data-lazy-src') ||
+              img.getAttribute('data-original') ||
+              srcsetValues[srcsetValues.length - 1] ||
+              img.src ||
               '';
             if (!src || src.startsWith('data:')) continue;
 
