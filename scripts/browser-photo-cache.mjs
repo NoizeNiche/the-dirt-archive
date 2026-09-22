@@ -939,8 +939,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
           return urls.filter(Boolean);
         });
         const richImageData = await richSourceImageUrls(page, pageUrl);
+        const legacyFeedImages = /([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname)
+          ? await effectsDatabaseFeedImageUrls(page, pageUrl)
+          : [];
 
-        for (const raw of [...imageData, ...richImageData]) {
+        for (const raw of [...imageData, ...richImageData, ...legacyFeedImages]) {
           for (const part of raw.split(/\s+/)) {
             if (/^https?:/i.test(part)) {
               candidates.push({ url: part, sourcePage: pageUrl, sourceScore: 90 });
