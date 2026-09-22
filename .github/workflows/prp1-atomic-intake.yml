@@ -57,7 +57,7 @@ jobs:
                   continue
               match = next(
                   (
-                      p for p in json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8")).get("pedals", [])
+                      p for p in catalog_data
                       if p.get("company") == row.get("Builder") and p.get("pedal") == catalog
                   ),
                   None,
