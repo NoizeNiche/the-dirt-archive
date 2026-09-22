@@ -236,3 +236,7 @@ Added Beta Aivin BOD-2 Bass Overdrive as an exact Effects Database recovery lead
 ## Recovery extractor checkpoint - September 22, 2026
 
 Cache run 935 successfully archived two verified local photos: Alien Rabbit Magic Drive and Analog Sound Scream For Cream OD. The browser recovery extractor was expanded afterward to recover common gallery/zoom attributes and CSS background-image/data-background URLs, with relative URLs normalized before final MIME/content verification. Bounded cache run 936 is queued against this change.
+
+## Photo recovery lead and lazy-image checkpoint - September 22, 2026
+
+Added exact recovery leads for Aether Electronic Lenore, Alien Amplification Origami Overdrive, and ADV Systems #overdrive. The browser extractor now also prefers the highest-density lazy-loaded srcset image when a page's normal src is a placeholder, while retaining exact-model identity and image-content verification.
