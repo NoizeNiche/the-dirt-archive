@@ -3021,26 +3021,28 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           // This matters for generic model names such as "Distortion" and
           // "#overdrive", whose normalized token set is intentionally sparse.
           // Trust only a search result whose source page is an exact curated URL.
+          const normalizeCuratedPageKey = value => {
+            try {
+              const parsed = new URL(value);
+              let pathname = parsed.pathname.replace(/\/+$/, '');
+              // Reverb may surface the same exact listing/product under a
+              // country/language prefix such as /ca/item/... or /es/p/...
+              // Normalize only that locale prefix while keeping the exact
+              // product/listing path and host intact.
+              if (/^https?:\/\/(?:www\.)?reverb\.com$/i.test(parsed.origin)) {
+                pathname = pathname.replace(/^\/[a-z]{2}(?:-[a-z]{2})?(?=\/(?:item|p)\/)/i, '');
+              }
+              return parsed.origin + pathname;
+            } catch {
+              return String(value || '').replace(/\/+$/, '');
+            }
+          };
+
           const curatedSourceUrls = new Set(
-            preferredSourcePages(entry)
-              .map(value => {
-                try {
-                  const parsed = new URL(value);
-                  return parsed.origin + parsed.pathname.replace(/\/+$/, '');
-                } catch {
-                  return String(value || '').replace(/\/+$/, '');
-                }
-              })
+            preferredSourcePages(entry).map(normalizeCuratedPageKey)
           );
           const normalizedResultPage = result.purl
-            ? (() => {
-                try {
-                  const parsed = new URL(result.purl);
-                  return parsed.origin + parsed.pathname.replace(/\/+$/, '');
-                } catch {
-                  return String(result.purl || '').replace(/\/+$/, '');
-                }
-              })()
+            ? normalizeCuratedPageKey(result.purl)
             : '';
           const trustedCuratedSource =
             normalizedResultPage &&
