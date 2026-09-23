@@ -6,3 +6,4 @@ September 23 2026 recovery kick: added verified direct images for C14 Tone Chase
 September 23 2026 recovery kick: added a verified direct CastleRock Overdrive image and exact C.I.C MOD-7 source record.
 September 23 2026 recovery kick: re-opened Caline CP-82 after rejecting a false-positive image match; retain only the verified Reverb CP-82 source lead.
 September 23 2026 recovery kick: re-run photo recovery with the hardened identity gate that rejects arbitrary image-search metadata without source-page verification.
+September 23 2026 recovery kick: corrected the BYOC E.S.V. Fuzz source to the verified pre-built listing and removed the direct image override because the visible gallery lead was a kit/components shot rather than a finished pedal photo.
