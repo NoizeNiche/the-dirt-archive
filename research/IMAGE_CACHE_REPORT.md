@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **2**
+- Cached in this run: **4**
+- Staged browser photos converted: **4**
 - Local images retained/reorganized: **0**
 - Download failures: **10**
-- Remaining tracker photo backlog: **2773**
-- Researched, photo pending: **228**
+- Remaining tracker photo backlog: **2769**
+- Researched, photo pending: **224**
 - External source images awaiting localization: **10**
 
 ## Storage layout
@@ -16,7 +16,10 @@
 
 ## Newly cached
 
-- Barber Electronics - Pepsiman -> `./assets/pedals/barber-electronics/pepsiman/primary.webp`
+- Add+ Pedals - Great White -> `./assets/pedals/add-pedals/great-white/primary.webp`
+- Alcove - ALP-200 Overdrive -> `./assets/pedals/alcove/alp-200-overdrive/primary.webp`
+- Audio-Phonic - Twin-Fuzz -> `./assets/pedals/audio-phonic/twin-fuzz/primary.webp`
+- Audiostorm - F258 Drive -> `./assets/pedals/audiostorm/f258-drive/primary.webp`
 
 ## Still external / failed
 

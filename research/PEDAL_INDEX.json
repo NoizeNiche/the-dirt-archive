@@ -1046,16 +1046,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/add-pedals/great-white/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addplus/greatwhite",
       "research_record": "./research/pedals/Add+ Pedals/Great White.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/addplus/greatwhite",
+      "image_source_page": "https://addpluspedals.com/custom_shop.php",
       "image_source_page_verified": true,
       "image_source_priority": 309,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/addplus/greatwhite"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://addpluspedals.com/custom/custom10.jpg"
     },
     {
       "company": "Add+ Pedals",
@@ -1814,7 +1815,7 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alber/x00/ga1040"
       ],
-      "image_source_page": "https://www.rig-talk.com/forum/threads/both-sold-2-barber-gain-changer-overdrive-pedals-excellent-condition.261976/",
+      "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/ga1040",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 341,
@@ -1909,16 +1910,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alcove/alp-200-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/alcove/alp200",
       "research_record": "./research/pedals/Alcove/ALP-200 Overdrive.md",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alcove/alp200"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/alcove/alp200",
+      "image_source_page": "https://theguitarside.com/overdrive-pedal-explained/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 346
+      "image_source_priority": 346,
+      "image_source_url": "https://theguitarside.com/wp-content/uploads/2026/01/overdrive-pedal-explained-clean-crunch-lead.png"
     },
     {
       "company": "Alden",
@@ -4394,16 +4396,17 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/audio-phonic/twin-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/audiophonic/twinfuzz",
       "research_record": "./research/pedals/Audio-Phonic/Twin-Fuzz.md",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/audiophonic/twinfuzz"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/audiophonic/twinfuzz",
+      "image_source_page": "https://www.hoyolab.com/article/7117557/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 358
+      "image_source_priority": 358,
+      "image_source_url": "https://upload-os-bbs.hoyolab.com/upload/2022/08/22/11424699/210b0082f66875297c0b00a9fc770f21_5633321273991244528.jpg"
     },
     {
       "company": "Audio! Audio!",
@@ -4538,16 +4541,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/audiostorm/f258-drive/primary.webp",
       "source_page": "https://audiostorm.uk/retired-products/",
       "research_record": "./research/pedals/Audiostorm/F258 Drive.md",
       "image_source_pages": [
         "https://audiostorm.uk/retired-products/"
       ],
-      "image_source_page": "https://audiostorm.uk/retired-products/",
+      "image_source_page": "https://comicbook.com/tv-shows/news/new-megamind-movie-tv-series-trailer-premiere-date-revealed-peacock/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 370
+      "image_source_priority": 370,
+      "image_source_url": "https://comicbook.com/wp-content/uploads/sites/4/2024/02/62c6a374-ea6d-4bd9-9230-0cbf017c63bc.jpg?resize=225"
     },
     {
       "company": "Audiostorm",
