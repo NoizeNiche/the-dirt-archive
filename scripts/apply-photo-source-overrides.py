@@ -93,10 +93,13 @@ def main() -> None:
             for direct_page, _, _ in direct:
                 if direct_page not in pages:
                     pages.append(direct_page)
-        if override:
-            primary_page, primary_priority, _ = override[-1]
-        else:
+        if direct:
+            # A direct-image override includes the exact page that established
+            # the image identity. Make that page the primary browser context so
+            # the direct URL is rendered with the correct cookies/referrer/origin.
             primary_page, primary_priority = direct[0][0], 100000
+        else:
+            primary_page, primary_priority, _ = override[-1]
         if entry.get("image_source_pages") != pages:
             entry["image_source_pages"] = pages
         if entry.get("image_source_page") != primary_page:
