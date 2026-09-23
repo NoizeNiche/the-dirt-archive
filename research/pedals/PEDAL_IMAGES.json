@@ -2218,9 +2218,11 @@
   {
     "builder": "Analog Sound",
     "pedal": "The Boogie Man",
-    "image": null,
+    "image": "./assets/pedals/analog-sound/the-boogie-man/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Analog Sound/The Boogie Man.md"
+    "research_record": "./research/pedals/Analog Sound/The Boogie Man.md",
+    "image_source_url": "https://www.harpelite.com/catalog/458-home_default/lone-wolf-boogieman-pedal.jpg",
+    "image_source_page": "https://www.harpelite.com/catalog/en/pedals-effect/387-lone-wolf-boogieman-pedal.html"
   },
   {
     "builder": "Anarchy Audio Australia",
@@ -2861,9 +2863,11 @@
   {
     "builder": "Audio Monk",
     "pedal": "Fuzzpotion - Bass Fuzz",
-    "image": null,
+    "image": "./assets/pedals/audio-monk/fuzzpotion-bass-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/audiomonk",
-    "research_record": "./research/pedals/Audio Monk/Fuzzpotion - Bass Fuzz.md"
+    "research_record": "./research/pedals/Audio Monk/Fuzzpotion - Bass Fuzz.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/audiomonk_fuzzpotion_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/audiomonk/fuzzpotion"
   },
   {
     "builder": "Audio Monk",
@@ -3398,9 +3402,11 @@
   {
     "builder": "AXL",
     "pedal": "TOD-9 Tube Overdrive",
-    "image": null,
+    "image": "./assets/pedals/axl/tod-9-tube-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/axl",
-    "research_record": "./research/pedals/AXL/TOD-9 Tube Overdrive.md"
+    "research_record": "./research/pedals/AXL/TOD-9 Tube Overdrive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/axl_tod-9_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/axl/tod9"
   },
   {
     "builder": "Axtar",

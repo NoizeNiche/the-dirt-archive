@@ -3289,16 +3289,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/analog-sound/the-boogie-man/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Analog Sound/The Boogie Man.md",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/analogsound/boogieman"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/analogsound/boogieman",
+      "image_source_page": "https://www.harpelite.com/catalog/en/pedals-effect/387-lone-wolf-boogieman-pedal.html",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 354
+      "image_source_priority": 354,
+      "image_source_url": "https://www.harpelite.com/catalog/458-home_default/lone-wolf-boogieman-pedal.jpg"
     },
     {
       "company": "Anarchy Audio Australia",
@@ -4246,7 +4247,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/audio-monk/fuzzpotion-bass-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/audiomonk",
       "research_record": "./research/pedals/Audio Monk/Fuzzpotion - Bass Fuzz.md",
       "image_source_pages": [
@@ -4255,7 +4256,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/audiomonk/fuzzpotion",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 356
+      "image_source_priority": 356,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/audiomonk_fuzzpotion_001.jpg"
     },
     {
       "company": "Audio Monk",
@@ -5127,7 +5129,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/axl/tod-9-tube-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/axl",
       "research_record": "./research/pedals/AXL/TOD-9 Tube Overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/axl/tod9",
@@ -5136,7 +5138,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/axl/tod9"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/axl_tod-9_001.jpg"
     },
     {
       "company": "Axtar",
@@ -13854,7 +13857,14 @@
       ],
       "image": null,
       "source_page": "https://www.madeforbass.com/bass-effects-database/",
-      "research_record": "./research/pedals/PRP Batch 132/rc-bass-fuzz.md"
+      "research_record": "./research/pedals/PRP Batch 132/rc-bass-fuzz.md",
+      "image_source_pages": [
+        "https://www.madeforbass.com/bass-effects-database/"
+      ],
+      "image_source_page": "https://www.madeforbass.com/bass-effects-database/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 417
     },
     {
       "company": "Bulinski Effect Pedals",
@@ -15751,7 +15761,13 @@
       "image": null,
       "source_page": "https://www.reddit.com/r/guitarpedals/comments/cws57g",
       "research_record": "./research/pedals/PRP Batch 150/carmedon-electronics-alpha-centauri.md",
-      "image_source_page": null
+      "image_source_page": "https://www.facebook.com/carmedon/mentions/",
+      "image_source_pages": [
+        "https://www.facebook.com/carmedon/mentions/"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 418
     },
     {
       "company": "Caroline Guitar Company",

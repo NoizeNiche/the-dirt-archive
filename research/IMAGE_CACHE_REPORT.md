@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
+- Cached in this run: **3**
 - Staged browser photos converted: **3**
-- Local images retained/reorganized: **1**
+- Local images retained/reorganized: **0**
 - Download failures: **10**
-- Remaining tracker photo backlog: **2777**
-- Researched, photo pending: **232**
+- Remaining tracker photo backlog: **2774**
+- Researched, photo pending: **229**
 - External source images awaiting localization: **10**
 
 ## Storage layout
@@ -16,8 +16,9 @@
 
 ## Newly cached
 
-- Alen Geere - Methoxy Overdrive -> `./assets/pedals/alen-geere/methoxy-overdrive/primary.webp`
-- Audible Disease - FR-1 Fracture -> `./assets/pedals/audible-disease/fr-1-fracture/primary.webp`
+- AXL - TOD-9 Tube Overdrive -> `./assets/pedals/axl/tod-9-tube-overdrive/primary.webp`
+- Analog Sound - The Boogie Man -> `./assets/pedals/analog-sound/the-boogie-man/primary.webp`
+- Audio Monk - Fuzzpotion - Bass Fuzz -> `./assets/pedals/audio-monk/fuzzpotion-bass-fuzz/primary.webp`
 
 ## Still external / failed
 
