@@ -2543,14 +2543,18 @@
       "image": "https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg",
       "source_page": "https://reverb.com",
       "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md",
-      "image_source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255411/",
+      "image_source_page": "https://reverb.com/p/amptweaker-tight-drive-jr",
       "image_source_pages": [
         "https://reverb.com/p/amptweaker-tight-drive-jr",
         "https://www.soundhouse.co.jp/en/products/detail/item/255411/"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 320
+      "image_source_priority": 320,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg"
+      ]
     },
     {
       "company": "Amptweaker",
@@ -3948,14 +3952,19 @@
       "image": "https://rvb-img.reverb.com/i/s--oiUsZm4Y--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kh1kb9chvjin9p3ov8d3.jpg",
       "source_page": "https://reverb.com/item/85723050-1-of-10-purr-minis-hand-made-asheville-guitar-pedals-purr-machine-mini-2024",
       "research_record": "./research/pedals/PRP Batch 059/Purr Machine Mini Fuzz Overdriver.md",
-      "image_source_page": "https://reverb.com/item/93803593-asheville-guitar-pedals-purr-machine-mini-original-pink",
+      "image_source_page": "https://reverb.com/item/87879020-asheville-guitar-pedals-purr-machine-mini-2025-white-1-of-5-made",
       "image_source_pages": [
         "https://www.avlguitarpedals.com/",
-        "https://reverb.com/item/93803593-asheville-guitar-pedals-purr-machine-mini-original-pink"
+        "https://reverb.com/item/93803593-asheville-guitar-pedals-purr-machine-mini-original-pink",
+        "https://reverb.com/item/87879020-asheville-guitar-pedals-purr-machine-mini-2025-white-1-of-5-made"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 404
+      "image_source_priority": 404,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--8QnTkpA6--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/eowr5umkhb3n37dizrhi.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--8QnTkpA6--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/eowr5umkhb3n37dizrhi.jpg"
+      ]
     },
     {
       "company": "Asheville Guitar Pedals",
@@ -5486,7 +5495,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 317
+      "image_source_priority": 317,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--T9xuAoIN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/rzj7uzm62ghqsfvgxyqb.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--T9xuAoIN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/rzj7uzm62ghqsfvgxyqb.jpg"
+      ]
     },
     {
       "company": "Bad Penny FX",
@@ -6871,7 +6884,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 279
+      "image_source_priority": 279,
+      "image_source_url": "https://cdn.rockboard.de/common/image_f5455513-518f-4cce-bd59-5fb21b17b079.webp",
+      "image_source_urls": [
+        "https://cdn.rockboard.de/common/image_f5455513-518f-4cce-bd59-5fb21b17b079.webp"
+      ]
     },
     {
       "company": "BearFoot FX",
@@ -6965,7 +6982,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 280
+      "image_source_priority": 280,
+      "image_source_url": "https://cdn.rockboard.de/common/image_0d2ff229-af71-4acf-b745-17310c65231c.webp",
+      "image_source_urls": [
+        "https://cdn.rockboard.de/common/image_0d2ff229-af71-4acf-b745-17310c65231c.webp"
+      ]
     },
     {
       "company": "BearFoot FX",
