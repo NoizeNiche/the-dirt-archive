@@ -1,6 +1,6 @@
 ## Photo recovery checkpoint - September 22, 2026
 
-Latest verified tracker state: **3,816 total / 1,270 researched / 1,030 pictured / 1,030 complete / 241 researched-photo-pending / 2,786 photo-missing**.
+Latest verified tracker state: **3,816 total / 1,271 researched / 1,030 pictured / 1,030 complete / 241 researched-photo-pending / 2,786 photo-missing**.
 
 Cache run **1054** successfully archived **8 exact-model local photos** across Alber and Alen Geere, reducing the researched-photo gate from 249 to 241. The queue continues through the A-to-Z researched-photo backlog while parked hard cases rotate through bounded deep-review cycles.
 
