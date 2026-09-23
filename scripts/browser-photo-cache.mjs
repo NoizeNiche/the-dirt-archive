@@ -2262,23 +2262,112 @@ async function recoverEntry(browser, entry, deepReview = false) {
       try {
         await page.goto(candidate.searchUrl, { waitUntil: 'domcontentloaded', timeout: SEARCH_TIMEOUT });
         await page.waitForTimeout(500);
-        const cards = page.locator('a.iusc');
+
+        // Bing periodically changes its image-card DOM while retaining the m/data-m
+        // metadata payload. Match all current metadata containers first.
+        const cards = page.locator('a.iusc, [data-m][class*="iusc"], [data-m], [m]');
         const count = await cards.count();
-        for (let i = 0; i < Math.min(count, 12); i++) {
+        for (let i = 0; i < Math.min(count, 24); i++) {
           const card = cards.nth(i);
-          const raw = await card.getAttribute('m').catch(() => null);
+          const raw = await card.getAttribute('m').catch(() => null) ||
+            await card.getAttribute('data-m').catch(() => null);
           if (!raw) continue;
+
           let meta = null;
           try { meta = JSON.parse(raw); } catch {}
           if (!meta || meta.murl !== candidate.murl) continue;
+
           await card.scrollIntoViewIfNeeded().catch(() => {});
           await page.waitForTimeout(250);
+
           const img = card.locator('img').first();
           if (await img.count()) {
-            const bytes = await img.screenshot({ type: 'png' });
-            if (bytes.length >= 3000) return bytes;
+            const bytes = await img.screenshot({ type: 'png' }).catch(() => null);
+            if (bytes && bytes.length >= 3000) return bytes;
+          }
+
+          // Some Bing cards carry the exact thumbnail URL but inject no <img>.
+          // Render that exact returned murl in the browser context and capture it.
+          const dims = await page.evaluate(async src => {
+            document.querySelector('[data-dirt-archive-search-capture="1"]')?.remove();
+            const img = document.createElement('img');
+            img.setAttribute('data-dirt-archive-search-capture', '1');
+            img.src = src;
+            img.alt = '';
+            img.style.position = 'fixed';
+            img.style.left = '8px';
+            img.style.top = '8px';
+            img.style.zIndex = '2147483647';
+            img.style.maxWidth = 'calc(100vw - 16px)';
+            img.style.maxHeight = 'calc(100vh - 16px)';
+            img.style.width = 'auto';
+            img.style.height = 'auto';
+            img.style.objectFit = 'contain';
+            img.style.background = '#fff';
+            document.body.appendChild(img);
+            await new Promise(resolve => {
+              if (img.complete) return resolve();
+              img.addEventListener('load', resolve, { once: true });
+              img.addEventListener('error', resolve, { once: true });
+              setTimeout(resolve, 2500);
+            });
+            return { width: Number(img.naturalWidth) || 0, height: Number(img.naturalHeight) || 0 };
+          }, candidate.murl).catch(() => null);
+
+          if ((dims?.width || 0) >= 140 && (dims?.height || 0) >= 140) {
+            const node = page.locator('[data-dirt-archive-search-capture="1"]').first();
+            const shot = await node.screenshot({ type: 'png' }).catch(() => null);
+            await page.evaluate(() => document.querySelector('[data-dirt-archive-search-capture="1"]')?.remove()).catch(() => {});
+            if (shot && shot.length >= 3000) return shot;
+          } else {
+            await page.evaluate(() => document.querySelector('[data-dirt-archive-search-capture="1"]')?.remove()).catch(() => {});
           }
         }
+
+        // Final fallback for markup that exposes image metadata only in the raw
+        // document. Parse the exact candidate murl, then render that exact image.
+        try {
+          const html = await page.content();
+          for (const match of html.matchAll(/(?:\bm|\bdata-m)=["']([^"']+)["']/gi)) {
+            let meta = null;
+            try { meta = JSON.parse(match[1]); } catch {}
+            if (!meta || meta.murl !== candidate.murl) continue;
+
+            const dims = await page.evaluate(async src => {
+              document.querySelector('[data-dirt-archive-search-capture="1"]')?.remove();
+              const img = document.createElement('img');
+              img.setAttribute('data-dirt-archive-search-capture', '1');
+              img.src = src;
+              img.alt = '';
+              img.style.position = 'fixed';
+              img.style.left = '8px';
+              img.style.top = '8px';
+              img.style.zIndex = '2147483647';
+              img.style.maxWidth = 'calc(100vw - 16px)';
+              img.style.maxHeight = 'calc(100vh - 16px)';
+              img.style.width = 'auto';
+              img.style.height = 'auto';
+              img.style.objectFit = 'contain';
+              document.body.appendChild(img);
+              await new Promise(resolve => {
+                if (img.complete) return resolve();
+                img.addEventListener('load', resolve, { once: true });
+                img.addEventListener('error', resolve, { once: true });
+                setTimeout(resolve, 2200);
+              });
+              return { width: Number(img.naturalWidth) || 0, height: Number(img.naturalHeight) || 0 };
+            }, candidate.murl).catch(() => null);
+
+            if ((dims?.width || 0) >= 140 && (dims?.height || 0) >= 140) {
+              const node = page.locator('[data-dirt-archive-search-capture="1"]').first();
+              const shot = await node.screenshot({ type: 'png' }).catch(() => null);
+              await page.evaluate(() => document.querySelector('[data-dirt-archive-search-capture="1"]')?.remove()).catch(() => {});
+              if (shot && shot.length >= 3000) return shot;
+            } else {
+              await page.evaluate(() => document.querySelector('[data-dirt-archive-search-capture="1"]')?.remove()).catch(() => {});
+            }
+          }
+        } catch {}
       } catch {}
       return null;
     }
@@ -2418,11 +2507,41 @@ async function recoverEntry(browser, entry, deepReview = false) {
             builderTokens.length > 0 &&
             builderTokens.every(token => searchIdentity.includes(token));
 
-          if (trustedDatabase || trustedMarketplace) {
+          // A curated, explicitly verified source page is exact-model evidence.
+          // This matters for generic model names such as "Distortion" and
+          // "#overdrive", whose normalized token set is intentionally sparse.
+          // Trust only a search result whose source page is an exact curated URL.
+          const curatedSourceUrls = new Set(
+            preferredSourcePages(entry)
+              .map(value => {
+                try {
+                  const parsed = new URL(value);
+                  return parsed.origin + parsed.pathname.replace(/\/+$/, '');
+                } catch {
+                  return String(value || '').replace(/\/+$/, '');
+                }
+              })
+          );
+          const normalizedResultPage = result.purl
+            ? (() => {
+                try {
+                  const parsed = new URL(result.purl);
+                  return parsed.origin + parsed.pathname.replace(/\/+$/, '');
+                } catch {
+                  return String(result.purl || '').replace(/\/+$/, '');
+                }
+              })()
+            : '';
+          const trustedCuratedSource =
+            entry.image_source_pages_verified === true &&
+            normalizedResultPage &&
+            curatedSourceUrls.has(normalizedResultPage);
+
+          if (trustedDatabase || trustedMarketplace || trustedCuratedSource) {
             verifiedSearch.push({
               url: result.murl,
               sourcePage: result.purl,
-              sourceScore: (trustedDatabase ? 125 : 105) + Math.min(70, fit.score),
+              sourceScore: (trustedCuratedSource ? 180 : trustedDatabase ? 125 : 105) + Math.min(70, fit.score),
               searchResult: true,
               searchUrl: result.searchUrl
             });
