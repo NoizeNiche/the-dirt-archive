@@ -233,7 +233,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
       "image_source_url": "https://www.effectsdatabase.com/model/am/crashcentral",
       "image_source_page_verified": true,
-      "image_source_priority": 242,
+      "image_source_priority": 410,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/am/crashcentral"
       ],
@@ -251,7 +251,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/am/crazyboy",
       "image_source_url": "https://www.effectsdatabase.com/model/am/crazyboy",
       "image_source_page_verified": true,
-      "image_source_priority": 243,
+      "image_source_priority": 411,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/am/crazyboy"
       ],
@@ -287,7 +287,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/am/twinpro",
       "image_source_url": "https://www.effectsdatabase.com/model/am/twinpro",
       "image_source_page_verified": true,
-      "image_source_priority": 245,
+      "image_source_priority": 412,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/am/twinpro"
       ],
@@ -470,7 +470,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
       "image_source_url": "https://www.effectsdatabase.com/model/aboveground/rockshard",
       "image_source_page_verified": true,
-      "image_source_priority": 246,
+      "image_source_priority": 413,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/aboveground/rockshard"
       ],
@@ -591,12 +591,13 @@
       "source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/od10",
       "research_record": "./research/pedals/Accel Audio/OD-SS Express Overdrive.md",
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/accel/od"
+        "https://www.effectsdatabase.com/model/accel/od",
+        "https://www.effectsdatabase.com/model/biyang/babyboom/od10"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/accel/od",
+      "image_source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/od10",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 349
+      "image_source_priority": 414
     },
     {
       "company": "Accel Audio",
@@ -614,7 +615,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 323
+      "image_source_priority": 415
     },
     {
       "company": "Accel Audio",
@@ -625,14 +626,18 @@
       "image": "https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp",
       "source_page": "https://reverb.com/au/item/99862869-accel-audio-vintage-scream-in-overdrive-tri-mode-drive-boost",
       "research_record": "./research/pedals/Accel Audio/Vintage Scream'in Overdrive.md",
-      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Accel-Audio/Screamevgin-Vintage-Overdrive/68974317/",
+      "image_source_page": "https://reverb.com/au/item/99862869-accel-audio-vintage-scream-in-overdrive-tri-mode-drive-boost",
       "image_source_pages": [
         "https://reverb.com/au/item/99862869-accel-audio-vintage-scream-in-overdrive-tri-mode-drive-boost",
         "https://www.rockboard.de/en/pedalPedia/Accel-Audio/Screamevgin-Vintage-Overdrive/68974317/"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 319
+      "image_source_priority": 416,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp"
+      ]
     },
     {
       "company": "Acid Age Electronics",
@@ -661,7 +666,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 403
+      "image_source_priority": 403,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg"
+      ]
     },
     {
       "company": "Acid Fuzz",
@@ -707,13 +716,18 @@
       "image": "https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg",
       "source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk2",
       "research_record": "./research/pedals/Acid Fuzz/Professional MkII.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk2",
+      "image_source_page": "https://reverb.com/item/65515455-acid-fuzz-professional-mkii-mullard-oc81",
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/acidfuzz/mk2"
+        "https://www.effectsdatabase.com/model/acidfuzz/mk2",
+        "https://reverb.com/item/65515455-acid-fuzz-professional-mkii-mullard-oc81"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 283
+      "image_source_priority": 283,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--afIbc4kU--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/cnc3harwmqaxwolg0mjq.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--afIbc4kU--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/cnc3harwmqaxwolg0mjq.jpg"
+      ]
     },
     {
       "company": "Acid Fuzz",
