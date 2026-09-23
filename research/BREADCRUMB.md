@@ -18,6 +18,19 @@ These are source-lead improvements only. They do **not** mark either pedal as pi
 
 ---
 
+## Recovery-source correction - September 23, 2026
+
+The photo-source hardening pass was corrected before the next recovery kick. The Big Monk lead now correctly points to the exact **Monk Boost** Reverb product listing, because the previously tested `bigmonkdevices.com/the-monk-boost` URL resolves to a different **Fuzz Buffer** product and was not an acceptable source for Monk Boost.
+
+Additional exact source leads were added for:
+- Blackstar Amplification - HT-DRIVE
+- Blackstar Amplification - LT-DRIVE
+- Blakemore Effects - Deus Ex Machina
+
+These remain photo-recovery leads only. No record is marked pictured until an exact local image is actually verified and archived.
+
+---
+
 ## Photo recovery checkpoint - September 22, 2026
 
 Latest verified tracker state: **3,816 total / 1,270 researched / 1,036 pictured / 1,036 complete / 235 researched-photo-pending / 2,780 photo-missing**.
