@@ -8297,7 +8297,7 @@
       "research_record": "./research/pedals/PRP Batch 085/Monk Boost.md",
       "image_source_page": "https://reverb.com/item/92603748-big-monk-colorsound-monk-boost",
       "image_source_page_verified": true,
-      "image_source_priority": 49,
+      "image_source_priority": 456,
       "image_source_pages": [
         "https://reverb.com/item/92603748-big-monk-colorsound-monk-boost"
       ],
@@ -9266,7 +9266,7 @@
       "research_record": "./research/pedals/PRP Batch 092/Violine.md",
       "image_source_page": "https://www.talkbass.com/threads/npd-bizarres-violine.1286142/",
       "image_source_page_verified": true,
-      "image_source_priority": 442,
+      "image_source_priority": 452,
       "image_source_pages": [
         "https://www.talkbass.com/threads/npd-bizarres-violine.1286142/"
       ],
@@ -10637,13 +10637,18 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz",
       "research_record": "./research/pedals/PRP Batch 102/Fix'd Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz",
+      "image_source_page": "https://reverb.com/item/316572-blackout-effectors-fix-d-fuzz",
       "image_source_page_verified": true,
       "image_source_priority": 13,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/blackout/fixdfuzz"
+        "https://www.effectsdatabase.com/model/blackout/fixdfuzz",
+        "https://reverb.com/item/316572-blackout-effectors-fix-d-fuzz"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--6A49vknD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ujyzjxd6ul3eri7ouwwl.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--6A49vknD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ujyzjxd6ul3eri7ouwwl.jpg"
+      ]
     },
     {
       "company": "BlackOutEffectors",
@@ -10814,11 +10819,12 @@
       "image": null,
       "source_page": "https://www.blackstarampsmedia.com/pdf/handbooks/ht-drive-handbook.pdf",
       "research_record": "./research/pedals/PRP Batch 103/HT-DRIVE.md",
-      "image_source_page": "https://blackstarampsmedia.com/uk/products/ht-drive",
+      "image_source_page": "https://www.blackstarampsmedia.com/cn/products/ht-drive",
       "image_source_page_verified": true,
-      "image_source_priority": 15,
+      "image_source_priority": 457,
       "image_source_pages": [
-        "https://blackstarampsmedia.com/uk/products/ht-drive"
+        "https://blackstarampsmedia.com/uk/products/ht-drive",
+        "https://www.blackstarampsmedia.com/cn/products/ht-drive"
       ],
       "image_source_pages_verified": true
     },
@@ -10869,11 +10875,12 @@
       "image": null,
       "source_page": "https://www.manualslib.tech/guide/639920/blackstar-lt-drive-pedal-manual.html",
       "research_record": "./research/pedals/PRP Batch 104/LT-DRIVE.md",
-      "image_source_page": "https://blackstarampsmedia.com/uk/products/lt-drive",
+      "image_source_page": "https://www.blackstarampsmedia.com/uk/products/lt-drive",
       "image_source_page_verified": true,
-      "image_source_priority": 16,
+      "image_source_priority": 458,
       "image_source_pages": [
-        "https://blackstarampsmedia.com/uk/products/lt-drive"
+        "https://blackstarampsmedia.com/uk/products/lt-drive",
+        "https://www.blackstarampsmedia.com/uk/products/lt-drive"
       ],
       "image_source_pages_verified": true
     },
@@ -11195,13 +11202,18 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bobburt/gr8t",
       "research_record": "./research/pedals/PRP Batch 106/Bob Burt GR8T Distortion.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bobburt/gr8t",
+      "image_source_page": "https://reverb.com/item/97232362-bob-burt-gr8t-distortion-001-first-ever-made",
       "image_source_page_verified": true,
       "image_source_priority": 20,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/bobburt/gr8t"
+        "https://www.effectsdatabase.com/model/bobburt/gr8t",
+        "https://reverb.com/item/97232362-bob-burt-gr8t-distortion-001-first-ever-made"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--V83fkBVR--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/c4149c5d-696d-4f7f-a03a-3685a8fece8f.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--V83fkBVR--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/c4149c5d-696d-4f7f-a03a-3685a8fece8f.jpg"
+      ]
     },
     {
       "company": "Bob Burt Cabinets & Pedals",
@@ -13096,15 +13108,16 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bsm/overdrive-supreme/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bsm/overdrive/supreme",
       "research_record": "./research/pedals/PRP Batch 117/bsm-overdrive-supreme.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bsm/overdrive/supreme",
-      "image_source_url": "https://www.effectsdatabase.com/model/bsm/overdrive/supreme",
+      "image_source_page": "https://www.treblebooster.net/products/overdrive-booster/supreme-special-overdrive.html",
+      "image_source_url": "https://www.treblebooster.net/thumbs/products/supreme-special-overdrive/supreme-special-overdrive_2018_rgb-500x699.png",
       "image_source_page_verified": true,
-      "image_source_priority": 178,
+      "image_source_priority": 459,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/bsm/overdrive/supreme"
+        "https://www.effectsdatabase.com/model/bsm/overdrive/supreme",
+        "https://www.treblebooster.net/products/overdrive-booster/supreme-special-overdrive.html"
       ],
       "image_source_pages_verified": true
     },
@@ -13288,12 +13301,13 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge",
       "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-fuzz-face-ge.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge",
+      "image_source_page": "https://reverb.com/item/4861159-buffalo-fx-custom-germanium-fuzz-discontinued-limited-rare-fuzz-face",
       "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge",
       "image_source_page_verified": true,
-      "image_source_priority": 172,
+      "image_source_priority": 460,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge"
+        "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge",
+        "https://reverb.com/item/4861159-buffalo-fx-custom-germanium-fuzz-discontinued-limited-rare-fuzz-face"
       ],
       "image_source_pages_verified": true
     },
@@ -13546,15 +13560,16 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/british-blues-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc",
       "research_record": "./research/pedals/PRP Batch 129/british-blues-overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/byoc/britishblues",
-      "image_source_url": "https://www.effectsdatabase.com/model/byoc",
+      "image_source_page": "https://www.geargasstore.com/products/byoc-british-blues-overdrive-pedal-pre-built",
+      "image_source_url": "https://www.geargasstore.com/cdn/shop/files/20230620_233339_medium.jpg?v=1687318733",
       "image_source_page_verified": true,
-      "image_source_priority": 266,
+      "image_source_priority": 454,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/byoc/britishblues"
+        "https://www.effectsdatabase.com/model/byoc/britishblues",
+        "https://www.geargasstore.com/products/byoc-british-blues-overdrive-pedal-pre-built"
       ],
       "image_source_pages_verified": true
     },
@@ -15191,13 +15206,18 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp82",
       "research_record": "./research/pedals/PRP Batch 144/cp-82-the-broadsword-bass-fuzz-boost.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp82",
+      "image_source_page": "https://reverb.com/p/caline-cp-82-the-broadsword-bass-fuzz",
       "image_source_page_verified": true,
       "image_source_priority": 121,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/caline/cpxx/cp82"
+        "https://www.effectsdatabase.com/model/caline/cpxx/cp82",
+        "https://reverb.com/p/caline-cp-82-the-broadsword-bass-fuzz"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--rD2wpDwH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/neizxkgx3i1dn4e8cdwi.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--rD2wpDwH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/neizxkgx3i1dn4e8cdwi.jpg"
+      ]
     },
     {
       "company": "Caline",
@@ -15370,9 +15390,9 @@
       "image": null,
       "source_page": "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple",
       "research_record": "./research/pedals/PRP Batch 146/cameltone-big-stuff.md",
-      "image_source_page": "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple",
+      "image_source_page": "https://reverb.com/item/31816216-cameltone-electronics-big-stuff-fuzz-distortion-pedal",
       "image_source_page_verified": true,
-      "image_source_priority": 430,
+      "image_source_priority": 455,
       "image_source_pages": [
         "https://reverb.com/item/31816216-cameltone-electronics-big-stuff-fuzz-distortion-pedal",
         "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple"
