@@ -1041,7 +1041,8 @@
     "image": "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg",
     "source_page": "https://www.effectsdatabase.com/model/airis/solarflare",
     "research_record": "./research/pedals/Airis Effects/Solar Flare Overdrive.md",
-    "image_source_page": "https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black"
+    "image_source_page": "https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg"
   },
   {
     "builder": "Airis Effects",
@@ -1655,7 +1656,8 @@
     "source": "Direct photograph of exact pedal",
     "source_page": "https://reverb.com",
     "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/amptweaker/tightdrive/jr"
+    "image_source_page": "https://www.effectsdatabase.com/model/amptweaker/tightdrive/jr",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg"
   },
   {
     "builder": "Amptweaker",
@@ -2662,7 +2664,8 @@
     "image": "https://rvb-img.reverb.com/i/s--R9Ok8B28--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/a7bc35c8-94df-4de1-852a-00e1225e5486.jpg",
     "source_page": "https://reverb.com/item/96732158-asheville-guitar-pedals-rat-king-2025-white",
     "research_record": "./research/pedals/PRP Batch 059/Rat King.md",
-    "image_source_page": "https://reverb.com/item/89342629-asheville-guitar-pedals-rat-king-2025-black"
+    "image_source_page": "https://reverb.com/item/89342629-asheville-guitar-pedals-rat-king-2025-black",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--OE0mGrAE--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/971cd987-d1d5-498e-807a-bf6e71520cec.jpeg"
   },
   {
     "builder": "Astral ToneWorx",
@@ -3551,7 +3554,8 @@
     "image": "https://rvb-img.reverb.com/image/upload/s--E8djf9MD--/t_card-square/v1603730743/rzj7uzm62ghqsfvgxyqb.jpg",
     "source_page": "https://reverb.com/item/36572523-bad-penny-fx-the-fuzz-controller-v2",
     "research_record": "./research/pedals/Bad Penny FX/The Fuzz Controller V2.md",
-    "image_source_page": "https://reverb.com/item/36572523-bad-penny-fx-the-fuzz-controller-v2"
+    "image_source_page": "https://reverb.com/item/36572523-bad-penny-fx-the-fuzz-controller-v2",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--T9xuAoIN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/rzj7uzm62ghqsfvgxyqb.jpg"
   },
   {
     "builder": "Bad Penny FX",
@@ -3728,10 +3732,11 @@
   {
     "builder": "Baja Tech Custom",
     "pedal": "Das Fuzz Si",
-    "image": "https://rvb-img.reverb.com/i/s--N6jvwcPq--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/veeaxunqjrmhehgj7sxz.jpg",
+    "image": "./assets/pedals/baja-tech-custom/das-fuzz-si/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/bajatech/dasfuzzsi",
     "research_record": "./research/pedals/Baja Tech Custom/Das Fuzz Si.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/bajatech/dasfuzzsi"
+    "image_source_page": "https://www.effectsdatabase.com/model/bajatech/dasfuzzsi",
+    "image_source_url": "http://evolutionmusicstore.com/cdn/shop/products/tloladprkreohosizwxj_3458807a-1751-443d-bb81-5aa1a6cdcdbe_600x.jpg?v=1571711655"
   },
   {
     "builder": "Baja Tech Custom",
@@ -4586,7 +4591,8 @@
     "source": "verified research source",
     "source_page": "https://reverb.com/item/78332511-bearfoot-fx-honey-bee-plus-2022ish-gold-flake",
     "research_record": "./research/pedals/BearFoot FX/Honey Bee Overdrive Plus.md",
-    "image_source_page": "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/"
+    "image_source_page": "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--zjyRGQbC--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/gd1tmsl3zciecosmrwnx.jpg"
   },
   {
     "builder": "BearFoot FX",

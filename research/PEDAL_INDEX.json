@@ -727,7 +727,8 @@
       "image_source_url": "https://rvb-img.reverb.com/i/s--afIbc4kU--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/cnc3harwmqaxwolg0mjq.jpg",
       "image_source_urls": [
         "https://rvb-img.reverb.com/i/s--afIbc4kU--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/cnc3harwmqaxwolg0mjq.jpg",
-        "https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg"
+        "https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg",
+        "https://rvb-img.reverb.com/i/s--0rsqspd_--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cnc3harwmqaxwolg0mjq.jpg"
       ]
     },
     {
@@ -1605,7 +1606,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 316
+      "image_source_priority": 316,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg"
+      ]
     },
     {
       "company": "Airis Effects",
@@ -2529,14 +2534,18 @@
       "image": "https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg",
       "source_page": "https://reverb.com",
       "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md",
-      "image_source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255411/",
+      "image_source_page": "https://reverb.com/p/amptweaker-tight-drive-jr",
       "image_source_pages": [
         "https://reverb.com/p/amptweaker-tight-drive-jr",
         "https://www.soundhouse.co.jp/en/products/detail/item/255411/"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 320
+      "image_source_priority": 320,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg"
+      ]
     },
     {
       "company": "Amptweaker",
@@ -3948,14 +3957,19 @@
       "image": "https://rvb-img.reverb.com/i/s--R9Ok8B28--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/a7bc35c8-94df-4de1-852a-00e1225e5486.jpg",
       "source_page": "https://reverb.com/item/96732158-asheville-guitar-pedals-rat-king-2025-white",
       "research_record": "./research/pedals/PRP Batch 059/Rat King.md",
-      "image_source_page": "https://www.avlguitarpedals.com/",
+      "image_source_page": "https://reverb.com/item/98756239-asheville-guitar-pedals-rat-king-2026-gold-1-of-20",
       "image_source_pages": [
         "https://reverb.com/item/89342629-asheville-guitar-pedals-rat-king-2025-black",
-        "https://www.avlguitarpedals.com/"
+        "https://www.avlguitarpedals.com/",
+        "https://reverb.com/item/98756239-asheville-guitar-pedals-rat-king-2026-gold-1-of-20"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 405
+      "image_source_priority": 405,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--OE0mGrAE--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/971cd987-d1d5-498e-807a-bf6e71520cec.jpeg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--OE0mGrAE--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/971cd987-d1d5-498e-807a-bf6e71520cec.jpeg"
+      ]
     },
     {
       "company": "Astral ToneWorx",
@@ -5458,7 +5472,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 317
+      "image_source_priority": 317,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--T9xuAoIN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/rzj7uzm62ghqsfvgxyqb.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--T9xuAoIN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/rzj7uzm62ghqsfvgxyqb.jpg"
+      ]
     },
     {
       "company": "Bad Penny FX",
@@ -5734,17 +5752,22 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--N6jvwcPq--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/veeaxunqjrmhehgj7sxz.jpg",
+      "image": "./assets/pedals/baja-tech-custom/das-fuzz-si/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bajatech/dasfuzzsi",
       "research_record": "./research/pedals/Baja Tech Custom/Das Fuzz Si.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bajatech/dasfuzzsi",
+      "image_source_page": "https://evolutionmusicstore.com/products/baja-tech-custom-das-fuzz-si",
       "image_source_pages": [
         "https://reverb.com/item/69141743-baja-tech-custom-das-fuzz-si",
-        "https://www.effectsdatabase.com/model/bajatech/dasfuzzsi"
+        "https://www.effectsdatabase.com/model/bajatech/dasfuzzsi",
+        "https://evolutionmusicstore.com/products/baja-tech-custom-das-fuzz-si"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 321
+      "image_source_priority": 321,
+      "image_source_url": "http://evolutionmusicstore.com/cdn/shop/products/tloladprkreohosizwxj_3458807a-1751-443d-bb81-5aa1a6cdcdbe_600x.jpg?v=1571711655",
+      "image_source_urls": [
+        "https://evolutionmusicstore.com/cdn/shop/products/tloladprkreohosizwxj_3458807a-1751-443d-bb81-5aa1a6cdcdbe.jpg?v=1571711655&width=300"
+      ]
     },
     {
       "company": "Baja Tech Custom",
@@ -6931,13 +6954,18 @@
       "image": "https://rvb-img.reverb.com/i/s--LLexNzWV--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cbp3ifzmgocobxxzp7ph.jpg",
       "source_page": "https://reverb.com/item/78332511-bearfoot-fx-honey-bee-plus-2022ish-gold-flake",
       "research_record": "./research/pedals/BearFoot FX/Honey Bee Overdrive Plus.md",
-      "image_source_page": "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/",
+      "image_source_page": "https://reverb.com/item/66928122-bearfoot-honey-bee-overdrive-plus-sn-18-03-15",
       "image_source_pages": [
-        "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/"
+        "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/",
+        "https://reverb.com/item/66928122-bearfoot-honey-bee-overdrive-plus-sn-18-03-15"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 280
+      "image_source_priority": 280,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--zjyRGQbC--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/gd1tmsl3zciecosmrwnx.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--zjyRGQbC--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/gd1tmsl3zciecosmrwnx.jpg"
+      ]
     },
     {
       "company": "BearFoot FX",
