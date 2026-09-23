@@ -1,8 +1,8 @@
 ## Current recovery checkpoint - September 22, 2026
 
-The canonical tracker currently parses to **3,816 total records / 1,271 researched records / 1,018 pictured and complete records / 253 researched-photo-pending records / 2,798 photo-missing records overall**. The latest bounded cache run published **60 additional exact-model local photos**, moving the researched-photo gate from 313 to 253. The tracker remains the source of truth, and PRP1 stays gated until every researched record has a verified local photo.
+The canonical tracker currently parses to **3,816 total records / 1,271 researched records / 1,019 pictured and complete records / 252 researched-photo-pending records / 2,797 photo-missing records overall**. The latest bounded cache run published **1 additional exact-model local photo**, Aether Electronic - Lenore, moving the researched-photo gate from 253 to 252. The tracker remains the source of truth, and PRP1 stays gated until every researched record has a verified local photo.
 
-The latest recovery batch was centered on the oldest A-to-Z researched-photo backlog and exercised the repaired exact-source pipeline across A&M Custom Effects, AboveGroundFX, Accel Audio, Acid Fuzz, and the next difficult records. The run completed successfully without changing any record to pictured unless a local canonical image was actually archived. External image URLs remain provenance only.
+The latest recovery batch successfully archived the exact Aether Electronic - Lenore manufacturer image after the direct-image source path was exercised. Earlier stale/ambiguous Acid Fuzz MKI Mini leads were removed so the next recovery passes cannot confuse the Mini with the full-size MKI.
 
 The photo-recovery queue remains the active gate. **PRP1 stays paused until researched-photo-pending reaches 0.** Public detail pages continue to hide Research confidence and Sources checked, and the future YouTube demo widget remains deferred until the photo catch-up is complete.
 
