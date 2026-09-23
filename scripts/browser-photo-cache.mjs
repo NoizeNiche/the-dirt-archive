@@ -1298,11 +1298,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
           } catch {}
 
           try {
-            await page.goto(candidate.url, {
+            const navigation = await page.goto(candidate.url, {
               waitUntil: 'load',
               timeout: IMAGE_TIMEOUT,
               referer: candidate.sourcePage || undefined
             });
+            const navigationType = String(navigation?.headers?.()['content-type'] || '').toLowerCase();
             await page.waitForTimeout(250);
             const img = page.locator('img').first();
             if (await img.count()) {
@@ -1322,7 +1323,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
             // an unreliable or absent <img> locator. Capture the rendered body
             // only for the curated exact direct-image candidate.
             const body = page.locator('body').first();
-            if (await body.count()) {
+            if (navigationType.startsWith('image/') && await body.count()) {
               const bodyBox = await body.boundingBox().catch(() => null);
               if ((bodyBox?.width || 0) >= 220 && (bodyBox?.height || 0) >= 220) {
                 const bytes = await body.screenshot({ type: 'png' }).catch(() => null);
