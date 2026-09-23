@@ -3,9 +3,9 @@
 - Cached in this run: **0**
 - Staged browser photos converted: **1**
 - Local images retained/reorganized: **1**
-- Download failures: **9**
-- Remaining tracker photo backlog: **2583**
-- Researched, photo pending: **38**
+- Download failures: **8**
+- Remaining tracker photo backlog: **2582**
+- Researched, photo pending: **37**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,7 +16,6 @@
 
 ## Still external / failed
 
-- AXL - DEQ-2 Distortion EQ: https://rvb-img.reverb.com/i/s--sOlbynCX--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bc7bc2hp18fyorrpyaek.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--sOlbynCX--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bc7bc2hp18fyorrpyaek.jpg`)
 - Anarchy Audio Australia - Baa Bzz: https://rvb-img.reverb.com/image/upload/s--SiwVNXjg--/a_0/f_auto%2Ct_large/v1626746479/uxnakseauwgvx3kag0aq.jpg: HTTP Error 401: Unauthorized (`https://rvb-img.reverb.com/image/upload/s--SiwVNXjg--/a_0/f_auto%2Ct_large/v1626746479/uxnakseauwgvx3kag0aq.jpg`)
 - Big Monk Electronic Device Co. - Monk Boost: https://rvb-img.reverb.com/i/s--CzDOkohA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/wopm9q1o7fcq0mdm99i5.jpg: HTTP Error 500: Internal Server Error | https://rvb-img.reverb.com/i/s--GIr668r6--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/nx9injno7zwsfz3a0ewc.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--CzDOkohA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/wopm9q1o7fcq0mdm99i5.jpg`)
 - Blackhawk Amplifiers - Basilisk Fuzz: https://rvb-img.reverb.com/i/s--ZlebMFU3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ffr0rg17eckvubv1v2yv.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--ZlebMFU3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ffr0rg17eckvubv1v2yv.jpg`)
