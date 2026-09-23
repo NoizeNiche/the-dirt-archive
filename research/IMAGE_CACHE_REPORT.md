@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **3**
-- Staged browser photos converted: **3**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **9**
-- Remaining tracker photo backlog: **2760**
-- Researched, photo pending: **215**
+- Remaining tracker photo backlog: **2759**
+- Researched, photo pending: **214**
 - External source images awaiting localization: **9**
 
 ## Storage layout
@@ -16,9 +16,7 @@
 
 ## Newly cached
 
-- AMT Electronics - R-1 Rectifier -> `./assets/pedals/amt-electronics/r-1-rectifier/primary.webp`
-- Bulinski Effect Pedals - RC Bass Fuzz -> `./assets/pedals/bulinski-effect-pedals/rc-bass-fuzz/primary.webp`
-- Camuro - Fuzz Rosso -> `./assets/pedals/camuro/fuzz-rosso/primary.webp`
+- Carmedon Electronics - Alpha Centauri -> `./assets/pedals/carmedon-electronics/alpha-centauri/primary.webp`
 
 ## Still external / failed
 
