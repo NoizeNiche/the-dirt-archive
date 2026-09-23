@@ -3050,9 +3050,11 @@
   {
     "builder": "Audiostorm",
     "pedal": "ADNA",
-    "image": null,
+    "image": "./assets/pedals/audiostorm/adna/primary.webp",
     "source_page": "https://audiostorm.uk/retired-products/",
-    "research_record": "./research/pedals/Audiostorm/ADNA.md"
+    "research_record": "./research/pedals/Audiostorm/ADNA.md",
+    "image_source_url": "https://audiostorm.uk/wp-content/uploads/HB130_1600_01Front-300x300.jpg",
+    "image_source_page": "https://audiostorm.uk/retired-products/"
   },
   {
     "builder": "Audiostorm",

@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
-- Staged browser photos converted: **0**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **9**
-- Remaining tracker photo backlog: **2753**
-- Researched, photo pending: **208**
+- Remaining tracker photo backlog: **2752**
+- Researched, photo pending: **207**
 - External source images awaiting localization: **9**
 
 ## Storage layout
@@ -13,6 +13,10 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- Audiostorm - ADNA -> `./assets/pedals/audiostorm/adna/primary.webp`
 
 ## Still external / failed
 
