@@ -1,28 +1,30 @@
 ## Current recovery checkpoint - September 23, 2026
 
-The canonical tracker currently parses to **3,816 total records / 1,271 researched records / 1,071 pictured records / 1,071 PRP-complete records / 200 researched-photo-pending records / 2,745 photo-missing records overall**. The canonical catalog also has **1,071 local image references and 0 runtime external image references**.
+The canonical tracker currently parses to **3,816 total records / 1,270 researched records / 1,209 pictured records / 1,209 PRP-complete records / 62 researched-photo-pending records / 2,607 photo-missing records overall**. The image-cache report also confirms **0 external source images awaiting localization**.
 
-The photo-recovery system is the active production lane. The review queue currently contains **199 records: 197 in DEEP_REVIEW and 2 PARKED**. PRP1 remains gated until the researched-photo-pending count reaches **0**.
+The photo-recovery system remains the active production lane. The current review queue contains **62 records: 38 DEEP_REVIEW and 24 PARKED**. PRP1 remains gated until the researched-photo-pending count reaches **0**.
 
-The recovery worker was tightened for throughput on September 23:
-- each pedal now gets a bounded **120-second** recovery window instead of 20 minutes
-- batch size is capped at **240** records so a worst-case run fits inside the 45-minute Actions job window
-- exact curated direct-image overrides are attempted **before** source-page navigation or search
-- researched records with photos pending receive priority over records that still need research
+The recovery worker is operating with the tightened September 23 throughput rules:
+- each pedal gets a bounded recovery window
+- large batches are capped to fit inside the Actions job window
+- curated direct-image overrides are attempted before source-page navigation or search
+- researched records with photos pending receive priority
 - scheduled recovery remains every 10 minutes with queued runs preserved
-- the image runtime remains local-first, with no external image URL currently used by the catalog
+- the image runtime remains local-first
 
-The home-page archive grid also received its complete card, image-placeholder, responsive, and pagination styling. The detail page remains on the existing 3:4 photo presentation with version/colorway navigation, builder navigation, demo links, and the Research confidence/Sources checked sections hidden from the public renderer.
+The latest cache pass archived the exact-model **Brantone Electronics - Tonemaster Mk1.5 Germanium Fuzz** locally and moved the researched-photo gate from 63 to **62**. Additional verified direct-image overrides are now staged for **Big Monk - Monk Boost, Blackstar HT-DRIVE, Blackstar LT-DRIVE, and Blakemore Effects Deus Ex Machina**.
 
-Latest recovery commits:
-- f241de7 - archive verified Bouteek Overdriver - Preamp photo locally
-- b45f1aa - archive verified pedal photos locally
-- 16b1c30 - kick photo recovery v99
-- 817f1ef - add exact product and article sources for the next recovery batch
-- 72b734c - archive verified pedal photos locally
+The home-page archive grid retains its complete card, image-placeholder, responsive, and pagination styling. The detail page remains on the existing 3:4 photo presentation with version/colorway navigation, builder navigation, demo links, and the Research confidence/Sources checked sections hidden from the public renderer.
+
+Latest recovery/maintenance commits:
+- 5a84726 - archive verified Brantone Tonemaster Mk1.5 photo locally
+- b84540e - kick recovery with direct Monk Boost image
+- 7031ded - add verified direct Monk Boost image
+- 38f2a27 - add verified direct images for HT-DRIVE, LT-DRIVE, and Deus Ex Machina
+- 7b9ec61 - correct Monk Boost source and strengthen exact pedal leads
+- d8b3ead - record corrected recovery-source leads
 
 **Operational priority:** keep photo recovery moving toward 0, keep tracker/catalog/image manifests synchronized after every published batch, then release the PRP1 gate and move directly into the remaining pedal research backlog.
-
 ---
 
 ## Full-site maintenance checkpoint - September 21, 2026
