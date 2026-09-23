@@ -1,12 +1,12 @@
 ## Photo recovery checkpoint - September 22, 2026
 
-Latest verified tracker state: **3,816 total / 1,271 researched / 1,030 pictured / 1,030 complete / 241 researched-photo-pending / 2,786 photo-missing**.
+Latest verified tracker state: **3,816 total / 1,270 researched / 1,036 pictured / 1,036 complete / 235 researched-photo-pending / 2,780 photo-missing**.
 
-Cache run **1054** successfully archived **8 exact-model local photos** across Alber and Alen Geere, reducing the researched-photo gate from 249 to 241. The queue continues through the A-to-Z researched-photo backlog while parked hard cases rotate through bounded deep-review cycles.
+Cache run **1056** successfully archived **6 exact-model local photos** across AMT Electronics, Add+ Pedals, Alen Geere, and Atmosfera 6, reducing the researched-photo gate from 241 to 235.
 
 PRP1 remains gated until researched-photo-pending reaches **0**.
 
-Latest recovery checkpoint: **35815801526**.
+Latest recovery checkpoint: **35816137786**.
 
 ---
 
