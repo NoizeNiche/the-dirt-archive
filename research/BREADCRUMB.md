@@ -1,3 +1,15 @@
+## Photo recovery checkpoint - September 22, 2026
+
+Latest verified tracker state: **3,816 total / 1,271 researched / 1,018 pictured / 1,018 complete / 253 researched-photo-pending / 2,798 photo-missing**.
+
+The latest bounded cache run successfully archived **60 exact-model local photos** from the A-to-Z researched-photo backlog. The recovery lane remains the active gate, and PRP1 remains paused until researched-photo-pending reaches **0**.
+
+The batch deliberately kept difficult records in the unresolved queue when exact identity could not be proven, rather than substituting visually similar pedals or external URLs. New exact-source and direct-image leads were added for A&M Custom Effects, AboveGroundFX, Accel Audio, and Acid Fuzz, then exercised through the repaired browser recovery and local-cache pipeline.
+
+Latest cache checkpoint: **e66ecc04404df74d116d2d0deb9467ee2477cc7a**.
+
+---
+
 ## Public-site and recovery checkpoint - September 22, 2026
 
 The public detail page carries the current pedal's dirt-type context into its sidebar, the landing page has a one-click **Clear filters** control, and pagination/search state remains URL-aware.
