@@ -2186,7 +2186,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
               const width = Math.max(rect.width, Number(img.naturalWidth) || 0);
               const height = Math.max(rect.height, Number(img.naturalHeight) || 0);
               if (width < 220 || height < 220) continue;
-              if (rect.bottom < 0 || rect.top > window.innerHeight * 2) continue;
+              // The page is swept first to hydrate lazy-loaded galleries. Do not
+              // discard exact product images merely because the viewport was then
+              // returned to the top. Each selected candidate is scrolled into view
+              // before capture below.
+              const viewportVisible = rect.bottom >= 0 && rect.top <= window.innerHeight * 2;
 
               const raw = [
                 img.currentSrc || '',
@@ -2224,7 +2228,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
               const areaScore = Math.min(width * height, 1600000) / 1000;
               let score = areaScore + semanticScore + pedalHits * 150 + builderHits * 40 - chromePenalty;
               if (width > 1800 || height > 1800) score -= 120;
-              if (rect.top >= 0 && rect.top <= window.innerHeight * 1.5) score += 80;
+              if (viewportVisible) score += 80;
 
               rows.push({
                 index,
