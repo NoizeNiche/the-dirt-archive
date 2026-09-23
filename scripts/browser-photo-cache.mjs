@@ -900,10 +900,10 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
         for (const match of body.matchAll(/<(?:img|source)\b[^>]*(?:src|data-src|data-original|data-lazy-src|srcset)=["']([^"']+)["'][^>]*>/gi)) {
           for (const part of match[1].split(/\s+/)) addUrl(part);
         }
-        for (const match of body.matchAll(/(?:https?:)?\/\/[^"'\\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\\s<>]*)?/gi)) {
+        for (const match of body.matchAll(/(?:https?:)?\/\/[^"'\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?/gi)) {
           addUrl(match[0]);
         }
-        for (const match of body.matchAll(/(?:https?:)?\/\/[^"'\\s<>]+\/gear\/pics\/[^"'\\s<>]+/gi)) {
+        for (const match of body.matchAll(/(?:https?:)?\/\/[^"'\s<>]+\/gear\/pics\/[^"'\s<>]+/gi)) {
           addUrl(match[0]);
         }
         for (const match of body.matchAll(/["'](?:image|imageUrl|image_url|contentUrl|thumbnailUrl)["']\s*:\s*["']([^"']+)["']/gi)) {
@@ -940,7 +940,7 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
     /<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:og:image|twitter:image)["']/gi,
     /<img[^>]+(?:src|data-src|data-lazy-src|data-original|data-full-src|data-large-image|data-zoom-image)=["']([^"']+)["']/gi,
     /<source[^>]+(?:src|srcset|data-srcset)=["']([^"']+)["']/gi,
-    /<a[^>]+href=["']([^"']+\\.(?:jpe?g|png|webp|gif)(?:[?#][^"']*)?)["']/gi
+    /<a[^>]+href=["']([^"']+\.(?:jpe?g|png|webp|gif)(?:[?#][^"']*)?)["']/gi
   ]) {
     for (const match of html.matchAll(pattern)) add(match[1]);
   }
@@ -2022,7 +2022,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
                     rect.bottom >= 0 && rect.right >= 0 &&
                     rect.top <= window.innerHeight && rect.left <= window.innerWidth,
                   clickable: Boolean(parent),
-                  galleryLike: /(^|\\s)(image|photo)\\s*\\d+/i.test(alt)
+                  galleryLike: /(^|\s)(image|photo)\s*\d+/i.test(alt)
                 };
               })
               .filter(x => x.visible && x.clickable && x.galleryLike)
