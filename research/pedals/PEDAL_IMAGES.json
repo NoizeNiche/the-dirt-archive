@@ -4627,10 +4627,11 @@
   {
     "builder": "BBE",
     "pedal": "Green Screamer",
-    "image": null,
+    "image": "./assets/pedals/bbe/green-screamer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 097/Green Screamer.md",
-    "image_source_page": "https://reverb.com/p/bbe-green-screamer"
+    "image_source_page": "https://sweetlousguitars.com/products/bbe-green-screamer-2011-green",
+    "image_source_url": "http://sweetlousguitars.com/cdn/shop/files/20260129_140806.jpg?v=1769737190"
   },
   {
     "builder": "BearFoot FX",
@@ -5025,11 +5026,11 @@
   {
     "builder": "BFFX Boutique Pedals",
     "pedal": "Demon D",
-    "image": null,
+    "image": "./assets/pedals/bffx-boutique-pedals/demon-d/primary.webp",
     "source": "verified research source",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 080/Demon D.md",
-    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a3f91fee2b6ec0be/1790162055906/lWBxzy1zDcyooELjHsl.602uITbkLi0DUusZDg7YBME-1790162055-1.3.1.1-JA94vZPdYqoROua0pNfIsORavZB1e3EBAfZyYHv_GJNYlKdYsiyZTBTpUw8GPEtvg8yus8lgjL4FDL4yy599dgZ3LXrVIn9dUHpssm8IdOeGOeAvQvlyM9jMTLVrnaFLwzrwLPIiL1GQ_nhivw_8PvD.Q66rpKjoTfeMk1X4LkUEBSuphClsrqd3UWye9yfruqe99bbnnzIAnXGwNPeAyqfR0vdZhIvNM2csn54Jo0KwCJZnHNY3B8zc2dcJDaTEWfhdS6YEWbHeQH9vKrlJOA8zJCI9zNK1ogr9aKjLFBzpK2t__DYxiOCMbfTtZe5M6gmEvdJvpIXuq4U_N5x3ZSJRCp_5KxcZ7DQ.FS6dB6mAyxxg7qM_T8tS9.VpcyLfDtpK7qcnELRvgxyzRY237KrQEIKYB1M8l.7oYkUpB.G9Z2AdQkGCSwbTqnk29nRYo3YKMI8Z1zm.utjg6tFPM4mmxJFRJb_urEgjDF2uL.EmCAucMXtb4lA_16OUtrraLz5HaeLC6qYJkhGkwkLHSkTa6yBkMUOyegLAPBqt38iQ7Oj78TO9VYec9.X3iU6p4U3ziGfExQ3l3xyXWEUJSLFX4qanbZhOKzsXVO4ZhHNobRjePutT3_Zvl_eknFuS341bgPE2.WGmJCHN_0hleXALDafU7JA2Lc.2RUCR873tBv7SxBBAjGUeNIHhDCLjJum_NT_KMQdwY68pOP65fq9WxgTKQlfRescT2XlPVc0",
+    "image_source_url": "https://equipboard.com/favicon.ico",
     "image_source_page": "https://equipboard.com/items/bffx-demon-d"
   },
   {
@@ -5113,10 +5114,12 @@
   {
     "builder": "Big Ear",
     "pedal": "LOAF",
-    "image": null,
+    "image": "./assets/pedals/big-ear/loaf/primary.webp",
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 080/LOAF.md"
+    "research_record": "./research/pedals/PRP Batch 080/LOAF.md",
+    "image_source_url": "https://static.wixstatic.com/media/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg",
+    "image_source_page": "https://www.bigearpedals.com/product-page/loaf"
   },
   {
     "builder": "Big Ear",
@@ -5141,11 +5144,12 @@
   {
     "builder": "Big Ear NYC",
     "pedal": "Black Betty",
-    "image": null,
+    "image": "./assets/pedals/big-ear-nyc/black-betty/primary.webp",
     "source": "verified research source",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 081/Black Betty.md",
-    "image_source_page": "https://reverb.com/p/big-ear-pedals-betty-fuzz"
+    "image_source_page": "https://www.bigearpedals.com/product-page/betty-white-fuzz-blem",
+    "image_source_url": "https://static.wixstatic.com/media/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg"
   },
   {
     "builder": "Big Ear NYC",
@@ -6281,7 +6285,7 @@
     "source_page": "https://www.talkbass.com/threads/npd-bizarres-violine.1286142/",
     "research_record": "./research/pedals/PRP Batch 092/Violine.md",
     "image_source_page": "https://www.talkbass.com/threads/npd-bizarres-violine.1286142/",
-    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a3f9057c5874ae39/1790160972893/D75fJ9wHoz9Es54DxrWcXKcziA.4LXWuNssHsWqrjkA-1790160972-1.3.1.1-8vmxXt8pGIA8BljtATmTLFxPXhD1aw1bu35JP4HRiaIzWJFTziat3DrAumE3drZrck_UxxsW3fFq3uIyWHZJRxpaaHjgNiSrB9xNWwwQ7ucrC4XtQi5Bb.hvyTq8JnKWV2mG3GXpRu1QX16M8VXiz8h2reWcKYH5hWjZEBi4ZFjJ5K4MKld64AcPdfOdSqMCIDvYDL3yR3.MrgWJvu8VwMzPvMqKLtUDYuC8V1F9tTdWGiCfB_KN9_JdDdTMw5g8679VMh6xb_AIxhOS0BR_.gVwkdXcU2OC8cZqJgxIOHYMBDJ5XoZjOIjZTJRpxReACpSh6knGnFcY7y8XLeu_4trGiuzesWKAPPO_EPXxSLhtIL1vkCVfuBTZKQSXZILjGgFlSs6c7.urQdRTn1.EjU8eacePLQPO4tpLmk.ZlQqKZR9F9mHtDg1BdcJj4Bc9QRdSQQto6iruabFvSdVCGXqe0Vi9pAYt11xQSckntV9gTGpulGKBprubNkVZAjQ4GVjzC5k8C7AJ6nzd91qRDjdGmjpn7mi8g7SNRKO9QysUG4o3RiiHJWNKXIoqqIs9Yf2lMchZ0OAnv2_74cIcFLev2v6uivd441j1BjMs4OkAfPK47_Pvu1hCq1f1vu38XPJRjDhz_npIdJXw.ayKFDKU.g6wm9bWO1JGBWiTUM97pLDPPkQSKvLn.f8aK7YQ43xW2TarMlG4eTVK0v5EULqmSF3t5hzTtj_HVhu1b7U"
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a3f93d09feb4088a/1790163248453/hv7DEACtP11Y7JaNuWt89BvCqG4LaMkiufdqFrYa9EA-1790163248-1.3.1.1-dZavSdn9_MupUtPjFmjzzOt_dHW3eZ5xp9Z.zoSf8kf51W39j1kKNvdxdafvhHuS.v5XLzk4wY6tme45qgCSQRVNqIhX4EFSNnnVYC0VVIh8xCF_2Dsimn_shxm8xbY5VthGbEVpS79IXOQn3vS5OvfOa3Iycs7BOUNLh4piIU2J8QFqmTih1Jxh7XHe_oSbSlmHA8SqO.wa0jkOx0_olzJ2z_xkfIW2n80A_uz.Ez0E7Ex5aOgMEEJZXTcNVMZ3tMzWKZN3PD1qFcrN4uRRoKVFG7hMP37yoKJg0lHK5BS7KgR.wDD3y0Ql3UfBzXZSWjAo9uYO0jFk4SxEMMVt.mlbsz74HWFjbN81HtHOuVoFReDRLGGnsqsv8OF4Wfiy0qC0cmXOKCqpJQ.kVKJOardQ.NEDPPDnucdhegUzaxikr6eP2Z3RTS8h4MncVH3BHKOdP2HHj7FnzY1Aq2e95P3_KgqXeKBGPQyE9waTINzXM_uYqwlUDVdr9F1PrmuS5Ll4cF2wG4bEEmVd1i8fZkdwf_g_8j0svka8IBldXCsZLpSTDCoJdsq9041rs1oeF2if6GG0VJR3hwFRrZcj8QB4DtbkApz4OnuFVadBRPN9UdjNlcKVJc8qzwW4YlRXvZQYkz0LQCfgXSOJf39XXfV72X4Xezy8vqsdMH.X5PNT4.MrMmbvw02KH.xO2vJp5GL6eLy6p8OgZ2Xq4RPw5XwWxXRVitnMm.C74mxSlV4"
   },
   {
     "builder": "BJFE / BJF Electronics",
@@ -6962,11 +6966,12 @@
   {
     "builder": "Blackhawk Amplifiers",
     "pedal": "Mithrandir Octave Fuzz",
-    "image": null,
+    "image": "./assets/pedals/blackhawk-amplifiers/mithrandir-octave-fuzz/primary.webp",
     "source": "verified research source",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 100/Mithrandir Octave Fuzz.md",
-    "image_source_page": "https://reverb.com/item/34625860-blackhawk-amplifiers-mithrandir-octave-fuzz"
+    "image_source_page": "https://www.guitarpedalx.com/news/blackhawk-amplifiers-mithrandir-and-valhalla-are-two-superior-extended-range-takes-on-super-fuzz-and-2-transistor-style-fuzzes",
+    "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/527/2021GPXBlackhawkMithrandiValhalla700V3.jpg"
   },
   {
     "builder": "Blackhawk Amplifiers",
