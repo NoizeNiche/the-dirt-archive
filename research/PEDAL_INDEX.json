@@ -15511,12 +15511,16 @@
       "research_record": "./research/pedals/PRP Batch 146/cameltone-big-stuff.md",
       "image_source_page": "https://reverb.com/item/31816216-cameltone-electronics-big-stuff-fuzz-distortion-pedal",
       "image_source_page_verified": true,
-      "image_source_priority": 453,
+      "image_source_priority": 100000,
       "image_source_pages": [
         "https://reverb.com/item/31816216-cameltone-electronics-big-stuff-fuzz-distortion-pedal",
         "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--P7gcV82k--/f_auto%2Ct_large/v1580435657/y2pv8jtiatsbuuoagwsn.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/image/upload/s--P7gcV82k--/f_auto%2Ct_large/v1580435657/y2pv8jtiatsbuuoagwsn.jpg"
+      ]
     },
     {
       "company": "Cameltone Electronics",
