@@ -1,8 +1,8 @@
 ## Current recovery checkpoint - September 22, 2026
 
-The canonical tracker currently parses to **3,816 total records / 1,270 researched records / 1,030 pictured and complete records / 241 researched-photo-pending records / 2,786 photo-missing records overall**. The latest bounded cache run **1054** published **8 additional exact-model local photos**, moving the researched-photo gate from 249 to 241.
+The canonical tracker currently parses to **3,816 total records / 1,270 researched records / 1,036 pictured and complete records / 235 researched-photo-pending records / 2,780 photo-missing records overall**. The latest bounded cache run **1056** published **6 additional exact-model local photos**, moving the researched-photo gate from 241 to 235.
 
-The recovery lane is now making sustained progress through the next A-to-Z cohort, with exact local photos recovered for Alber FU-1000, FU-1000P, GA-1040P Gain, OD-6, OD-600 and Alen Geere Crown Centaur, LEADer Mk.2, and Preface Drive. Parked hard cases continue to rotate through bounded deep-review cycles separately.
+The recovery lane is continuing through the A-to-Z backlog with sustained gains, including AMT Electronics BS British Sound and Rammstein RD, Add+ Super Drive 2, Alen Geere Serene and Tube Fuzz, and Atmosfera 6 SPACE OR DIE. Parked hard cases continue through bounded deep-review rotation rather than monopolizing the queue.
 
 The photo-recovery queue remains the active gate. **PRP1 stays paused until researched-photo-pending reaches 0.** Public detail pages continue to hide Research confidence and Sources checked, and the future YouTube demo widget remains deferred until the photo catch-up is complete.
 
