@@ -2769,9 +2769,11 @@
   {
     "builder": "Atmosfera 6",
     "pedal": "TERROR COSMICO",
-    "image": null,
+    "image": "./assets/pedals/atmosfera-6/terror-cosmico/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/atmosfera6/terrorcosmico",
-    "research_record": "./research/pedals/Atmosfera 6/TERROR COSMICO.md"
+    "research_record": "./research/pedals/Atmosfera 6/TERROR COSMICO.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/atmosfera6_terrorcosmico_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/atmosfera6/terrorcosmico"
   },
   {
     "builder": "Atmosfera 6",
@@ -7941,10 +7943,12 @@
   {
     "builder": "Brantone Electronics",
     "pedal": "Green Manalishi Overdrive",
-    "image": null,
+    "image": "./assets/pedals/brantone-electronics/green-manalishi-overdrive/primary.webp",
     "source": null,
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-green-manalishi-overdrive.md"
+    "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-green-manalishi-overdrive.md",
+    "image_source_url": "https://www.guitargear.com.mx/tienda/images/detailed/54/1_pwud-j2.jpg",
+    "image_source_page": "https://www.guitargear.com.mx/tienda/index.php?dispatch=products.view&product_id=13428"
   },
   {
     "builder": "Brantone Electronics",
@@ -7987,10 +7991,12 @@
   {
     "builder": "Brantone Electronics",
     "pedal": "Woodstock - Silicon Fuzz Face",
-    "image": null,
+    "image": "./assets/pedals/brantone-electronics/woodstock-silicon-fuzz-face/primary.webp",
     "source": null,
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-woodstock-silicon-fuzz-face.md"
+    "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-woodstock-silicon-fuzz-face.md",
+    "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/2028/10694/FFM1.MAIN__97481.1701359362.jpg?c=2",
+    "image_source_page": "https://www.jimdunlop.com/silicon-fuzz-face-mini-distortion-parts/"
   },
   {
     "builder": "Breakfast Audio",

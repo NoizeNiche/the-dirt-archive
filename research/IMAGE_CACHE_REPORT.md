@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
-- Staged browser photos converted: **0**
+- Cached in this run: **3**
+- Staged browser photos converted: **3**
 - Local images retained/reorganized: **0**
 - Download failures: **9**
-- Remaining tracker photo backlog: **2766**
-- Researched, photo pending: **221**
+- Remaining tracker photo backlog: **2763**
+- Researched, photo pending: **218**
 - External source images awaiting localization: **9**
 
 ## Storage layout
@@ -13,6 +13,12 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- Atmosfera 6 - TERROR COSMICO -> `./assets/pedals/atmosfera-6/terror-cosmico/primary.webp`
+- Brantone Electronics - Green Manalishi Overdrive -> `./assets/pedals/brantone-electronics/green-manalishi-overdrive/primary.webp`
+- Brantone Electronics - Woodstock - Silicon Fuzz Face -> `./assets/pedals/brantone-electronics/woodstock-silicon-fuzz-face/primary.webp`
 
 ## Still external / failed
 

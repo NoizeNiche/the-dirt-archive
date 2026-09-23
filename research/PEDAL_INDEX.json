@@ -4076,7 +4076,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/atmosfera-6/terror-cosmico/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/atmosfera6/terrorcosmico",
       "research_record": "./research/pedals/Atmosfera 6/TERROR COSMICO.md",
       "image_source_page": "https://www.effectsdatabase.com/model/atmosfera6/terrorcosmico",
@@ -4085,7 +4085,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/atmosfera6/terrorcosmico"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/atmosfera6_terrorcosmico_001.jpg"
     },
     {
       "company": "Atmosfera 6",
@@ -12023,16 +12024,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/brantone-electronics/green-manalishi-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-green-manalishi-overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/brantone/greenmanalishi",
+      "image_source_page": "https://www.guitargear.com.mx/tienda/index.php?dispatch=products.view&product_id=13428",
       "image_source_page_verified": true,
       "image_source_priority": 293,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/brantone/greenmanalishi"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://www.guitargear.com.mx/tienda/images/detailed/54/1_pwud-j2.jpg"
     },
     {
       "company": "Brantone Electronics",
@@ -12094,16 +12096,17 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/brantone-electronics/woodstock-silicon-fuzz-face/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-woodstock-silicon-fuzz-face.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/brantone/woodstock",
+      "image_source_page": "https://www.jimdunlop.com/silicon-fuzz-face-mini-distortion-parts/",
       "image_source_page_verified": true,
       "image_source_priority": 294,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/brantone/woodstock"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/2028/10694/FFM1.MAIN__97481.1701359362.jpg?c=2"
     },
     {
       "company": "Breakfast Audio",
