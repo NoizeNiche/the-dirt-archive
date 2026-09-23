@@ -624,7 +624,7 @@ async function rawVerifiedExternalSourceImages(page, entry, sourcePageUsed) {
     const pedalTokens = identityTokens(entry.pedal);
     const builderTokens = identityTokens(entry.company);
 
-    for (const match of html.matchAll(/<a\\b[^>]+href=["']([^"']+)["'][^>]*>([\\s\\S]{0,1200})<\\/a>/gi)) {
+    for (const match of html.matchAll(/<a\b[^>]+href=["']([^"']+)["'][^>]*>([\s\S]{0,1200})<\/a>/gi)) {
       let url;
       try {
         url = /^https?:/i.test(match[1]) ? match[1] : new URL(match[1], sourcePageUsed).href;
