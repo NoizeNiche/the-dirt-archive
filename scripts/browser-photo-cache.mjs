@@ -1544,6 +1544,35 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       return score(b) - score(a);
     });
 
+    function imageBytesLookComplete(bytes, contentType = '') {
+      if (!bytes || bytes.length < 3000) return false;
+      const type = String(contentType || '').toLowerCase();
+      // PNG: signature plus terminal IEND chunk. This catches the truncated
+      // screenshot/download buffers that Pillow later reports as a broken stream.
+      if (type.includes('png') || (bytes[0] === 0x89 && bytes[1] === 0x50 && bytes[2] === 0x4e && bytes[3] === 0x47)) {
+        const signature = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]);
+        if (bytes.length < signature.length || !bytes.subarray(0, signature.length).equals(signature)) return false;
+        const iend = Buffer.from([0x49, 0x45, 0x4e, 0x44, 0xae, 0x42, 0x60, 0x82]);
+        return bytes.lastIndexOf(iend) >= 0;
+      }
+      // JPEG: SOI plus terminal EOI marker. Ignore trailing bytes because some
+      // CDNs append metadata or transport padding after the actual image.
+      if (type.includes('jpeg') || type.includes('jpg') || (bytes[0] === 0xff && bytes[1] === 0xd8)) {
+        return bytes[0] === 0xff && bytes[1] === 0xd8 && bytes.lastIndexOf(Buffer.from([0xff, 0xd9])) >= 2;
+      }
+      // WebP: RIFF/WEBP container with a plausible declared payload length.
+      if (type.includes('webp') || (bytes.length >= 12 && bytes.toString('ascii', 0, 4) === 'RIFF' && bytes.toString('ascii', 8, 12) === 'WEBP')) {
+        if (bytes.length < 12 || bytes.toString('ascii', 0, 4) !== 'RIFF' || bytes.toString('ascii', 8, 12) !== 'WEBP') return false;
+        const declared = bytes.readUInt32LE(4) + 8;
+        return declared <= bytes.length;
+      }
+      // GIF has a simple magic header and a trailer byte.
+      if (type.includes('gif') || bytes.toString('ascii', 0, 6) === 'GIF87a' || bytes.toString('ascii', 0, 6) === 'GIF89a') {
+        return (bytes.toString('ascii', 0, 6) === 'GIF87a' || bytes.toString('ascii', 0, 6) === 'GIF89a') && bytes[bytes.length - 1] === 0x3b;
+      }
+      return true;
+    }
+
     async function tryImages(list) {
       for (const candidate of list.slice(0, CANDIDATE_LIMIT)) {
         try {
@@ -1551,7 +1580,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           const type = (response.headers()['content-type'] || '').toLowerCase();
           if (!response.ok() || !type.startsWith('image/')) continue;
           const bytes = await response.body();
-          if (bytes.length < 3000) continue;
+          if (!imageBytesLookComplete(bytes, type)) continue;
           return { candidate, bytes };
         } catch {}
       }
