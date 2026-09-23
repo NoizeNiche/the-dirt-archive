@@ -4937,16 +4937,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/axcess-by-giannini/bd-108-blues-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/bd108",
       "research_record": "./research/pedals/Axcess by Giannini/BD-108 Blues Drive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/giannini/axcess/bd108",
+      "image_source_page": "https://amazinganimalphotos.com/20-amazing-photos-of-albino-animals/",
       "image_source_page_verified": true,
       "image_source_priority": 234,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/giannini/axcess/bd108"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://amazinganimalphotos.com/wp-content/uploads/2018/09/albino-animal-white-animals-01.jpg"
     },
     {
       "company": "Axcess by Giannini",

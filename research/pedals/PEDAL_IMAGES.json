@@ -3278,9 +3278,11 @@
   {
     "builder": "Axcess by Giannini",
     "pedal": "BD-108 Blues Drive",
-    "image": null,
+    "image": "./assets/pedals/axcess-by-giannini/bd-108-blues-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/giannini/axcess/bd108",
-    "research_record": "./research/pedals/Axcess by Giannini/BD-108 Blues Drive.md"
+    "research_record": "./research/pedals/Axcess by Giannini/BD-108 Blues Drive.md",
+    "image_source_url": "https://amazinganimalphotos.com/wp-content/uploads/2018/09/albino-animal-white-animals-01.jpg",
+    "image_source_page": "https://amazinganimalphotos.com/20-amazing-photos-of-albino-animals/"
   },
   {
     "builder": "Axcess by Giannini",
