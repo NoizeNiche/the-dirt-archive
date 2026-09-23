@@ -15379,16 +15379,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/camuro/naturale/primary.webp",
       "source_page": "https://camuro.co.jp/pedals",
       "research_record": "./research/pedals/PRP Batch 147/camuro-naturale.md",
-      "image_source_page": "https://camuro.co.jp/pedals",
+      "image_source_page": "https://www.teacherspayteachers.com/Product/Kindergarten-Counting-Math-Worksheets-No-Prep-14631436",
       "image_source_page_verified": true,
       "image_source_priority": 255,
       "image_source_pages": [
         "https://camuro.co.jp/pedals"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://ecdn.teacherspayteachers.com/thumbitem/Airplane-Preschool-Counting-Worksheets-14631436-1762266238/original-14631436-1.jpg"
     },
     {
       "company": "Canned Monsters",
