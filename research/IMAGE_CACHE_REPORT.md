@@ -4,8 +4,8 @@
 - Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **9**
-- Remaining tracker photo backlog: **2759**
-- Researched, photo pending: **214**
+- Remaining tracker photo backlog: **2758**
+- Researched, photo pending: **213**
 - External source images awaiting localization: **9**
 
 ## Storage layout
@@ -16,7 +16,7 @@
 
 ## Newly cached
 
-- Carmedon Electronics - Alpha Centauri -> `./assets/pedals/carmedon-electronics/alpha-centauri/primary.webp`
+- CBC Pedals - Ampeg Scrambler -> `./assets/pedals/cbc-pedals/ampeg-scrambler/primary.webp`
 
 ## Still external / failed
 

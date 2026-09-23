@@ -11471,9 +11471,11 @@
   {
     "builder": "CBC Pedals",
     "pedal": "Ampeg Scrambler",
-    "image": null,
+    "image": "./assets/pedals/cbc-pedals/ampeg-scrambler/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/CBC Pedals/Ampeg Scrambler.md"
+    "research_record": "./research/pedals/CBC Pedals/Ampeg Scrambler.md",
+    "image_source_url": "https://images.pedalfilter.com/ampeg-scrambler.png",
+    "image_source_page": "https://pedalfilter.com/ampeg/scrambler"
   },
   {
     "builder": "CBC Pedals",
