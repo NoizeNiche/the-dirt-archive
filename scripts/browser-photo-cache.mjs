@@ -1578,11 +1578,25 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         try {
           const response = await page.request.get(candidate.url, { timeout: IMAGE_TIMEOUT });
           const type = (response.headers()['content-type'] || '').toLowerCase();
-          if (!response.ok() || !type.startsWith('image/')) continue;
-          const bytes = await response.body();
-          if (!imageBytesLookComplete(bytes, type)) continue;
-          return { candidate, bytes };
+          if (response.ok() && type.startsWith('image/')) {
+            const bytes = await response.body();
+            if (imageBytesLookComplete(bytes, type)) {
+              return { candidate, bytes };
+            }
+          }
         } catch {}
+
+        // Exact source-page candidates can be valid even when the raw request
+        // is blocked by a CDN. Re-render the same URL in a fresh browser image
+        // document while preserving the verified source-page referrer. Do not
+        // apply this to search-engine candidates whose identity was not proven
+        // by the image URL itself.
+        if (candidate?.sourcePage && !candidate.searchResult && !candidate.searchUrl) {
+          const documentShot = await screenshotImageDocumentCandidate(candidate, 140);
+          if (documentShot) {
+            return { candidate, bytes: documentShot.bytes };
+          }
+        }
       }
       return null;
     }
