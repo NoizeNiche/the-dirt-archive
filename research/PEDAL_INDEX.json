@@ -7601,7 +7601,11 @@
         "https://reverb.com/uk/p/big-ear-pedals-frank",
         "https://reverb.com/p/big-ear-pedals-frank"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--Loc73KMH--/t_card-square/v1640290459/xo2jpxnsnpbwdlzkmt7r.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/image/upload/s--Loc73KMH--/t_card-square/v1640290459/xo2jpxnsnpbwdlzkmt7r.jpg"
+      ]
     },
     {
       "company": "Big Ear NYC",
@@ -10648,7 +10652,11 @@
       "image_source_pages": [
         "https://reverb.com/item/316572-blackout-effectors-fix-d-fuzz"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--6A49vknD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ujyzjxd6ul3eri7ouwwl.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--6A49vknD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ujyzjxd6ul3eri7ouwwl.jpg"
+      ]
     },
     {
       "company": "BlackOutEffectors",
@@ -13307,18 +13315,21 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/buffalo-fx/fuzz-face-ge/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge",
       "research_record": "./research/pedals/PRP Batch 128/buffalo-fx-fuzz-face-ge.md",
-      "image_source_page": "https://reverb.com/item/4861159-buffalo-fx-custom-germanium-fuzz-discontinued-limited-rare-fuzz-face",
-      "image_source_url": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge",
+      "image_source_page": "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/buffalofx_fuzzface-ge_001.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 460,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge",
-        "https://reverb.com/item/4861159-buffalo-fx-custom-germanium-fuzz-discontinued-limited-rare-fuzz-face"
+        "https://reverb.com/item/4861159-buffalo-fx-custom-germanium-fuzz-discontinued-limited-rare-fuzz-face",
+        "https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_urls": [
+        "https://files.effectsdatabase.com/gear/thumbs/buffalofx_fuzzface-ge_001.jpg"
+      ]
     },
     {
       "company": "Buffalo FX",
@@ -13494,14 +13505,17 @@
       "source_page": "https://www.effectsdatabase.com/model/byoc/855drive",
       "research_record": "./research/pedals/PRP Batch 128/build-your-own-clone-855-drive.md",
       "image_source_page": "https://reverb.com/item/42880976-b-y-o-c-855-drive-pre-built-pedal",
-      "image_source_url": "https://www.effectsdatabase.com/model/byoc/855drive",
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--o3Abhu9Q--/f_auto%2Ct_large/v1628216579/sfzszxicskfbnsamt9m6.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 449,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/byoc/855drive",
         "https://reverb.com/item/42880976-b-y-o-c-855-drive-pre-built-pedal"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/image/upload/s--o3Abhu9Q--/f_auto%2Ct_large/v1628216579/sfzszxicskfbnsamt9m6.jpg"
+      ]
     },
     {
       "company": "Build Your Own Clone",
@@ -13616,14 +13630,18 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/byoc",
       "research_record": "./research/pedals/PRP Batch 129/e-s-v-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/byoc/esvfuzz",
-      "image_source_url": "https://www.effectsdatabase.com/model/byoc",
+      "image_source_page": "https://reverb.com/item/77405016-b-y-o-c-e-s-v-fuzz-germanium-version-pre-built-pedal-painted",
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--aqOkq2D4--/a_0/f_auto%2Ct_large/v1703276538/bkqcdozrw9zlrw1mn9kh.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 112,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/byoc/esvfuzz"
+        "https://www.effectsdatabase.com/model/byoc/esvfuzz",
+        "https://reverb.com/item/77405016-b-y-o-c-e-s-v-fuzz-germanium-version-pre-built-pedal-painted"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/image/upload/s--aqOkq2D4--/a_0/f_auto%2Ct_large/v1703276538/bkqcdozrw9zlrw1mn9kh.jpg"
+      ]
     },
     {
       "company": "Build Your Own Clone",
@@ -14387,13 +14405,17 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal?page=7",
       "research_record": "./research/pedals/PRP Batch 135/c14-devices-tone-chaser.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/c14/tonechaser",
+      "image_source_page": "https://reverb.com/es/item/60907915-carbono-14-tone-chaser-world-s-first-carbon-fiber-pedal",
       "image_source_page_verified": true,
       "image_source_priority": 150,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/c14/tonechaser"
+        "https://reverb.com/es/item/60907915-carbono-14-tone-chaser-world-s-first-carbon-fiber-pedal"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--0wjj49Gc--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/vzgf6y44tjdz9oyldfkl.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--0wjj49Gc--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/vzgf6y44tjdz9oyldfkl.jpg"
+      ]
     },
     {
       "company": "Cactus",
@@ -15219,11 +15241,14 @@
       "image_source_page_verified": true,
       "image_source_priority": 121,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/caline/cpxx/cp82"
+        "https://reverb.com/p/caline-cp-82-the-broadsword-bass-fuzz"
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://rvb-img.reverb.com/i/s--rD2wpDwH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/neizxkgx3i1dn4e8cdwi.jpg",
-      "image": null
+      "image": null,
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--rD2wpDwH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/neizxkgx3i1dn4e8cdwi.jpg"
+      ]
     },
     {
       "company": "Caline",
@@ -16427,17 +16452,20 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/castlerock/castlerock-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/castlerock/overdrive",
       "research_record": "./research/pedals/PRP Batch 153/castlerock-overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/castlerock/overdrive",
-      "image_source_url": "https://www.effectsdatabase.com/model/castlerock/overdrive",
+      "image_source_page": "https://www.zzounds.com/item--CSTCRGOD",
+      "image_source_url": "https://cf1.zzounds.com/media/productmedia/fit%2C2018by3200/quality%2C85/overdrive-ed01cc08d6285228a5dc87ffd4c19b39.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 170,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/castlerock/overdrive"
+        "https://www.zzounds.com/item--CSTCRGOD"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_urls": [
+        "https://cf1.zzounds.com/media/productmedia/fit%2C2018by3200/quality%2C85/overdrive-ed01cc08d6285228a5dc87ffd4c19b39.jpg"
+      ]
     },
     {
       "company": "Caswell Modern Electronics (CME)",
