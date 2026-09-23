@@ -14,11 +14,12 @@ The recovery worker was tightened for throughput on September 23:
 
 The home-page archive grid also received its complete card, image-placeholder, responsive, and pagination styling. The detail page remains on the existing 3:4 photo presentation with version/colorway navigation, builder navigation, demo links, and the Research confidence/Sources checked sections hidden from the public renderer.
 
-Latest maintenance commits:
-- 868010b - restore complete archive grid and pagination styling
-- fc16cdf - kick optimized photo recovery pass v92
-- 8007dc9 - tighten photo recovery batch timing
-- 30ddb40 - prioritize exact photo leads and shorten recovery timeouts
+Latest recovery commits:
+- f241de7 - archive verified Bouteek Overdriver - Preamp photo locally
+- b45f1aa - archive verified pedal photos locally
+- 16b1c30 - kick photo recovery v99
+- 817f1ef - add exact product and article sources for the next recovery batch
+- 72b734c - archive verified pedal photos locally
 
 **Operational priority:** keep photo recovery moving toward 0, keep tracker/catalog/image manifests synchronized after every published batch, then release the PRP1 gate and move directly into the remaining pedal research backlog.
 
