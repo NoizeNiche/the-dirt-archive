@@ -1670,6 +1670,76 @@ async function recoverEntry(browser, entry, deepReview = false) {
           await page.waitForTimeout(220);
         }
 
+        // Hydrate a bounded set of lazy product images after the verified page
+        // has completed its viewport sweep. Many older retail/database pages expose
+        // the exact pedal photo only in data-src/srcset while the placeholder img
+        // still reports 0x0 dimensions. Restrict this to images near the verified
+        // product heading so the recovery worker does not wake an entire gallery.
+        try {
+          await page.evaluate(({ pedalPhrase }) => {
+            const normalize = value => String(value || '')
+              .toLowerCase()
+              .replace(/[^a-z0-9]+/g, ' ')
+              .replace(/\s+/g, ' ')
+              .trim();
+            const h1 = document.querySelector('h1');
+            const h1Rect = h1?.getBoundingClientRect?.() || null;
+            const h1Top = Number(h1Rect?.top || 0) + Number(window.scrollY || 0);
+            const rows = [];
+            for (const img of document.querySelectorAll('img')) {
+              const rect = img.getBoundingClientRect();
+              const top = Number(rect.top || 0) + Number(window.scrollY || 0);
+              const distance = Math.abs(top - h1Top);
+              const rawHint = [
+                img.alt || '',
+                img.className || '',
+                img.getAttribute('data-testid') || '',
+                img.getAttribute('data-src') || '',
+                img.getAttribute('data-lazy-src') || '',
+                img.getAttribute('data-original') || '',
+                img.getAttribute('data-full-src') || '',
+                img.getAttribute('srcset') || ''
+              ].join(' ');
+              const hint = normalize(rawHint);
+              const semantic = /product|pedal|gallery|photo|image|media|hero|listing|item/i.test(hint);
+              if (distance > 2200 && !semantic) continue;
+              if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel)/i.test(hint)) continue;
+              rows.push({ img, distance, semantic });
+            }
+
+            rows.sort((a, b) =>
+              Number(b.semantic) - Number(a.semantic) ||
+              a.distance - b.distance
+            );
+
+            for (const row of rows.slice(0, 40)) {
+              const img = row.img;
+              const lazy =
+                img.getAttribute('data-full-src') ||
+                img.getAttribute('data-large-image') ||
+                img.getAttribute('data-zoom-image') ||
+                img.getAttribute('data-original-src') ||
+                img.getAttribute('data-image') ||
+                img.getAttribute('data-image-url') ||
+                img.getAttribute('data-src') ||
+                img.getAttribute('data-lazy-src') ||
+                '';
+              const srcset = img.getAttribute('data-srcset') || img.getAttribute('data-lazy-srcset') || img.getAttribute('srcset') || '';
+              if (lazy && /^https?:/i.test(lazy)) {
+                img.loading = 'eager';
+                if (img.src !== lazy) img.src = lazy;
+              } else if (srcset) {
+                img.loading = 'eager';
+                img.setAttribute('srcset', srcset);
+              }
+            }
+
+            window.scrollTo(0, h1Top > 0 ? Math.max(0, h1Top - 100) : 0);
+            return rows.length;
+          }, { pedalPhrase: normalizedIdentity(entry.pedal) }).catch(() => 0);
+          await page.waitForTimeout(450);
+        } catch {}
+
         const pedalPhrase = normalizedIdentity(entry.pedal);
         const pedalTokens = identityTokens(entry.pedal);
         const builderTokens = identityTokens(entry.company);
