@@ -1590,6 +1590,20 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     async function screenshotDirectImageCandidate(candidate) {
       if (!candidate?.directImageOverride || !candidate.url) return null;
       try {
+        // Establish the verified source-page session first. Some image hosts
+        // (notably marketplace/CDN attachment hosts) require the same cookies,
+        // origin, or referrer context as the exact product page before the
+        // direct image URL will render inside Chromium.
+        if (candidate.sourcePage && /^https?:/i.test(String(candidate.sourcePage))) {
+          try {
+            await page.goto(candidate.sourcePage, {
+              waitUntil: 'domcontentloaded',
+              timeout: PAGE_TIMEOUT
+            });
+            await page.waitForTimeout(220);
+          } catch {}
+        }
+
         const capture = await page.evaluate(async src => {
           document.querySelector('[data-dirt-archive-direct-capture="1"]')?.remove();
           const img = document.createElement('img');
