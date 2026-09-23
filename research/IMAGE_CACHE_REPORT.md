@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **3**
-- Staged browser photos converted: **3**
+- Cached in this run: **1**
+- Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **10**
-- Remaining tracker photo backlog: **2774**
-- Researched, photo pending: **229**
+- Remaining tracker photo backlog: **2773**
+- Researched, photo pending: **228**
 - External source images awaiting localization: **10**
 
 ## Storage layout
@@ -16,9 +16,7 @@
 
 ## Newly cached
 
-- AXL - TOD-9 Tube Overdrive -> `./assets/pedals/axl/tod-9-tube-overdrive/primary.webp`
-- Analog Sound - The Boogie Man -> `./assets/pedals/analog-sound/the-boogie-man/primary.webp`
-- Audio Monk - Fuzzpotion - Bass Fuzz -> `./assets/pedals/audio-monk/fuzzpotion-bass-fuzz/primary.webp`
+- Barber Electronics - Pepsiman -> `./assets/pedals/barber-electronics/pepsiman/primary.webp`
 
 ## Still external / failed
 

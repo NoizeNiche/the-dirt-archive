@@ -1814,10 +1814,11 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alber/x00/ga1040"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/ga1040",
+      "image_source_page": "https://www.rig-talk.com/forum/threads/both-sold-2-barber-gain-changer-overdrive-pedals-excellent-condition.261976/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 341
+      "image_source_priority": 341,
+      "image_source_url": "https://www.rig-talk.com/forum/attachments/img_1297-jpg.161365/"
     },
     {
       "company": "Alber",
@@ -6181,16 +6182,17 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/barber-electronics/pepsiman/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Barber Electronics/Pepsiman.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/barber",
+      "image_source_page": "https://barberelectronics.com/",
       "image_source_page_verified": true,
       "image_source_priority": 314,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/barber"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/65b06a7618b86c6c69ea8b04/8718ba5e-54e0-494f-a2d6-6b8b9f74fc9a/GC_SR_black.jpg?format=750w"
     },
     {
       "company": "Barber Electronics",
