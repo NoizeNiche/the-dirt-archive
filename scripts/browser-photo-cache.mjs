@@ -262,7 +262,12 @@ async function extractDirectImage(page, url) {
 }
 
 function imageSearchScore(entry, result) {
-  const haystack = normalizedIdentity([result.title || '', result.purl || '', result.murl || ''].join(' '));
+  const haystack = normalizedIdentity([
+    result.title || '',
+    result.context || '',
+    result.purl || '',
+    result.murl || ''
+  ].join(' '));
   const pedalTokens = identityTokens(entry.pedal);
   const builderTokens = identityTokens(entry.company);
   const pedalHits = pedalTokens.filter(token => haystack.includes(token));
@@ -832,7 +837,26 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
           if (!raw) continue;
           try {
             const m = JSON.parse(raw);
-            if (m.murl) out.push({ murl: m.murl, purl: m.purl || '', title: m.t || '', searchUrl: location.href });
+            if (m.murl) {
+              const context = [
+                m.t || '',
+                m.desc || '',
+                m.s || '',
+                m.source || '',
+                el.textContent || '',
+                el.getAttribute('aria-label') || '',
+                el.getAttribute('title') || '',
+                el.querySelector('img')?.getAttribute('alt') || '',
+                el.querySelector('img')?.getAttribute('title') || ''
+              ].join(' ').replace(/\s+/g, ' ').trim();
+              out.push({
+                murl: m.murl,
+                purl: m.purl || '',
+                title: m.t || '',
+                context,
+                searchUrl: location.href
+              });
+            }
           } catch {}
         }
         return out;
@@ -2337,7 +2361,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
           // visual guess: the image is still the returned pedal photo, while the
           // identity gate comes from exact textual model evidence.
           if (deepReview) {
-            const exactSearchText = String(result.title || '') + ' ' + String(result.purl || '');
+            const exactSearchText = [
+              result.title || '',
+              result.context || '',
+              result.purl || ''
+            ].join(' ');
             if (pageMatchesSearchIdentity(entry, exactSearchText, exactSearchText)) {
               verifiedSearch.push({
                 url: result.murl,
