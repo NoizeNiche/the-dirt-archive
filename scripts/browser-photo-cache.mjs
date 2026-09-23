@@ -1041,7 +1041,7 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
         const url = /^https?:/i.test(raw) ? raw : new URL(raw, pageUrl).href;
         if (!/^https?:/i.test(url)) return;
         if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel)/i.test(url)) return;
-        if (\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url) || /(^|\/)gear\/pics\//i.test(new URL(url).pathname)) out.add(url);
+        if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url) || /(^|\/)gear\/pics\//i.test(new URL(url).pathname)) out.add(url);
       } catch {}
     }
   };
