@@ -39,7 +39,7 @@ function reviewQueueKey(row) {
 }
 
 function writeReviewQueue(rows) {
-  const header = ['Builder', 'Pedal', 'Catalog Type', 'Status', 'Attempts', 'Last Failure'];
+  const header = ['Builder', 'Pedal', 'Catalog Type', 'Status', 'Attempts', 'Last Failure', 'Deep Review Cycles'];
   const escape = value => {
     const s = String(value ?? '');
     return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
@@ -2488,6 +2488,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
     const parkedForDeepReview = [...reviewByKey.values()]
       .filter(row => row.Status === 'PARKED' && /automatic photo attempts/i.test(String(row['Last Failure'] || '')))
       .sort((a, b) =>
+        (Number(a['Deep Review Cycles']) || 0) - (Number(b['Deep Review Cycles']) || 0) ||
         (Number(a.Attempts) || 0) - (Number(b.Attempts) || 0) ||
         String(a.Builder).localeCompare(String(b.Builder)) ||
         String(a.Pedal).localeCompare(String(b.Pedal))
@@ -2496,6 +2497,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
     for (const row of parkedForDeepReview.slice(0, reopenLimit)) {
       row.Status = 'DEEP_REVIEW';
       row.Attempts = '0';
+      row['Deep Review Cycles'] = String((Number(row['Deep Review Cycles']) || 0) + 1);
       row['Last Failure'] = 'DEEP_REVIEW_STARTED after automatic photo cutoff.';
     }
     if (reopenLimit) {
