@@ -233,7 +233,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
       "image_source_url": "https://www.effectsdatabase.com/model/am/crashcentral",
       "image_source_page_verified": true,
-      "image_source_priority": 410,
+      "image_source_priority": 409,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/am/crashcentral"
       ],
@@ -251,7 +251,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/am/crazyboy",
       "image_source_url": "https://www.effectsdatabase.com/model/am/crazyboy",
       "image_source_page_verified": true,
-      "image_source_priority": 411,
+      "image_source_priority": 410,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/am/crazyboy"
       ],
@@ -287,7 +287,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/am/twinpro",
       "image_source_url": "https://www.effectsdatabase.com/model/am/twinpro",
       "image_source_page_verified": true,
-      "image_source_priority": 412,
+      "image_source_priority": 411,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/am/twinpro"
       ],
@@ -470,7 +470,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
       "image_source_url": "https://www.effectsdatabase.com/model/aboveground/rockshard",
       "image_source_page_verified": true,
-      "image_source_priority": 413,
+      "image_source_priority": 412,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/aboveground/rockshard"
       ],
@@ -597,7 +597,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/od10",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 414
+      "image_source_priority": 413
     },
     {
       "company": "Accel Audio",
@@ -615,7 +615,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 415
+      "image_source_priority": 414
     },
     {
       "company": "Accel Audio",
@@ -633,7 +633,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 416,
+      "image_source_priority": 415,
       "image_source_url": "https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp",
       "image_source_urls": [
         "https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp"
@@ -659,17 +659,15 @@
       "image": "https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg",
       "source_page": "https://reverb.com/item/35379122-acid-fuzz-acid-fuzzer-mki-mini-tone-bender",
       "research_record": "./research/pedals/Acid Fuzz/Acid Fuzzer MkI.md",
-      "image_source_page": "https://reverb.com/au/item/35379122-acid-fuzz-acid-fuzzer-mki-mini-tone-bender",
+      "image_source_page": "https://www.acidfuzz.com/pages/acid-fuzzer-mki",
       "image_source_pages": [
-        "https://www.acidfuzz.com/pages/acid-fuzzer-mki",
-        "https://reverb.com/au/item/35379122-acid-fuzz-acid-fuzzer-mki-mini-tone-bender"
+        "https://www.acidfuzz.com/pages/acid-fuzzer-mki"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 403,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg",
+      "image_source_priority": 275,
+      "image_source_url": "https://cdn.shopify.com/s/files/1/2728/1702/files/MKI-Main.jpg?15304611839848998193=",
       "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg",
         "https://cdn.shopify.com/s/files/1/2728/1702/files/MKI-Main.jpg?15304611839848998193="
       ]
     },
@@ -3932,7 +3930,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 405
+      "image_source_priority": 404
     },
     {
       "company": "Asheville Guitar Pedals",
@@ -3950,7 +3948,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 406
+      "image_source_priority": 405
     },
     {
       "company": "Astral ToneWorx",
@@ -9440,7 +9438,7 @@
       "research_record": "./research/pedals/PRP Batch 094/BAT.md",
       "image_source_page": "https://lep-international.jp/products/black-arts-toneworks-bat",
       "image_source_page_verified": true,
-      "image_source_priority": 409,
+      "image_source_priority": 408,
       "image_source_pages": [
         "https://www.blackartstoneworks.com/pedal/bat/",
         "https://joespedals.com/collections/pedals/products/bat",
@@ -9956,7 +9954,7 @@
       "research_record": "./research/pedals/PRP Batch 097/OD-Fuzz.md",
       "image_source_page": "https://reverb.com/p/black-cat-od-fuzz",
       "image_source_page_verified": true,
-      "image_source_priority": 404,
+      "image_source_priority": 403,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/blackcat/odfuzz",
         "https://reverb.com/p/black-cat-od-fuzz"
