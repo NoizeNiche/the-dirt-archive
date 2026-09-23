@@ -962,8 +962,12 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
     try {
       const parsed = new URL(pageUrl);
       if (/([.]|^)effectsdatabase[.]com$/i.test(parsed.hostname) && /^\/model\//i.test(parsed.pathname)) {
-        const suffix = parsed.pathname.slice('/model/'.length);
-        feedLinks.push(parsed.origin + '/feed/model/' + suffix);
+        const suffix = parsed.pathname.slice('/model/'.length).replace(/\/+$/, '');
+        feedLinks.push(
+          parsed.origin + '/feed/model/' + suffix,
+          parsed.origin + '/feed/model/' + suffix + '/us/go',
+          parsed.origin + '/feed/model/' + suffix + '/us/world/go'
+        );
       }
     } catch {}
 
