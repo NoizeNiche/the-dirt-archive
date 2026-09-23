@@ -535,6 +535,76 @@ async function reverbSoldCandidates(page, entry, deepReview = false) {
   return [...merged.values()];
 }
 
+async function linkedSourceImageCandidates(page, entry, sourcePageUsed) {
+  if (!sourcePageUsed) return [];
+  const pedalTokens = identityTokens(entry.pedal);
+  const builderTokens = identityTokens(entry.company);
+  try {
+    const rows = await page.evaluate(({ pedalTokens, builderTokens }) => {
+      const norm = value => String(value || '')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+      const out = [];
+
+      for (const el of document.querySelectorAll('a[href], [data-src], [data-full-src], [data-original], [data-image], [data-image-url]')) {
+        const href = el.href ||
+          el.getAttribute('data-src') ||
+          el.getAttribute('data-full-src') ||
+          el.getAttribute('data-original') ||
+          el.getAttribute('data-image') ||
+          el.getAttribute('data-image-url') || '';
+        if (!/^https?:/i.test(href)) continue;
+        let url;
+        try { url = new URL(href).href; } catch { continue; }
+
+        const img = el.querySelector?.('img');
+        const hint = norm([
+          href,
+          img?.alt || '',
+          el.textContent || '',
+          el.getAttribute('title') || '',
+          el.getAttribute('aria-label') || '',
+          el.className || ''
+        ].join(' '));
+
+        if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel|layer\d+|weblogo)/i.test(hint)) continue;
+
+        const directImage = /\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url);
+        const mediaPath = /(?:wp-content\/uploads|upload|media|product|pedal|image|photo|gallery|cdn|cloudinary|shopify)/i.test(url);
+        if (!directImage && !mediaPath) continue;
+
+        const pedalHits = pedalTokens.filter(token => hint.includes(token)).length;
+        const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+        const exactPedal = pedalTokens.length && pedalTokens.every(token => hint.includes(token));
+        const exactBuilder = builderTokens.length && builderTokens.every(token => hint.includes(token));
+        let score = 80 + pedalHits * 45 + builderHits * 12;
+        if (exactPedal) score += 260;
+        if (exactBuilder) score += 70;
+        if (/wp-content\/uploads|\/product[s]?\/|\/pedal[s]?\/|\/photo[s]?\/|\/gallery\//i.test(url)) score += 90;
+        if (directImage) score += 50;
+        if (img && (img.naturalWidth || img.width) >= 220 && (img.naturalHeight || img.height) >= 220) score += 80;
+
+        out.push({ url, score, linkedSourceImage: true });
+      }
+
+      return [...new Map(out.map(x => [x.url, x])).values()]
+        .sort((a, b) => b.score - a.score)
+        .slice(0, 12);
+    }, { pedalTokens, builderTokens });
+
+    return rows.map(row => ({
+      url: row.url,
+      sourcePage: sourcePageUsed,
+      sourceScore: row.score,
+      linkedSourceImage: true
+    }));
+  } catch {
+    return [];
+  }
+}
+
 async function linkedExactSourceCandidates(page, entry, sourcePageUsed, deepReview = false) {
   if (!deepReview || !sourcePageUsed) return [];
   let hostname = '';
@@ -1082,6 +1152,14 @@ async function recoverEntry(browser, entry, deepReview = false) {
         }
 
         diagnostic.sourceImageCandidates += candidates.filter(x => x.sourcePage === pageUrl).length;
+
+        // Exact product pages can expose the product photograph only as a
+        // clickable image/media link. The page identity has already been verified,
+        // so harvest those links for all source hosts, not only Effects Database.
+        const linkedSourceImages = await linkedSourceImageCandidates(page, entry, pageUrl);
+        if (linkedSourceImages.length) {
+          candidates.push(...linkedSourceImages);
+        }
 
         // A successful browser navigation can still be a challenge/placeholder
         // document with no usable image DOM. In that case, fetch the exact,
