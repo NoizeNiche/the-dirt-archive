@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
-- Staged browser photos converted: **0**
+- Cached in this run: **2**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **12**
-- Remaining tracker photo backlog: **2806**
-- Researched, photo pending: **261**
+- Remaining tracker photo backlog: **2804**
+- Researched, photo pending: **259**
 - External source images awaiting localization: **12**
 
 ## Storage layout
@@ -13,6 +13,11 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- Buffalo FX - CVIII - BC108 Silicon Fuzz -> `./assets/pedals/buffalo-fx/cviii-bc108-silicon-fuzz/primary.webp`
+- CastleRock - CastleRock Bass Overdrive -> `./assets/pedals/castlerock/castlerock-bass-overdrive/primary.webp`
 
 ## Still external / failed
 
