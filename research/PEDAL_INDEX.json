@@ -9423,12 +9423,13 @@
       "image": null,
       "source_page": "https://www.blackartstoneworks.com/pedal/bat/",
       "research_record": "./research/pedals/PRP Batch 094/BAT.md",
-      "image_source_page": "https://joespedals.com/collections/pedals/products/bat",
+      "image_source_page": "https://lep-international.jp/products/black-arts-toneworks-bat",
       "image_source_page_verified": true,
-      "image_source_priority": 398,
+      "image_source_priority": 409,
       "image_source_pages": [
         "https://www.blackartstoneworks.com/pedal/bat/",
-        "https://joespedals.com/collections/pedals/products/bat"
+        "https://joespedals.com/collections/pedals/products/bat",
+        "https://lep-international.jp/products/black-arts-toneworks-bat"
       ],
       "image_source_pages_verified": true
     },
