@@ -633,11 +633,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 415,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp",
-      "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp"
-      ]
+      "image_source_priority": 415
     },
     {
       "company": "Acid Age Electronics",
@@ -712,7 +708,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg",
+      "image": "./assets/pedals/acid-fuzz/professional-mkii/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk2",
       "research_record": "./research/pedals/Acid Fuzz/Professional MkII.md",
       "image_source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk2",
@@ -722,12 +718,7 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 283,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--afIbc4kU--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/cnc3harwmqaxwolg0mjq.jpg",
-      "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--afIbc4kU--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/cnc3harwmqaxwolg0mjq.jpg",
-        "https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg",
-        "https://rvb-img.reverb.com/i/s--0rsqspd_--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cnc3harwmqaxwolg0mjq.jpg"
-      ]
+      "image_source_url": "https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg"
     },
     {
       "company": "Acid Fuzz",
@@ -1601,17 +1592,14 @@
       "image": "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg",
       "source_page": "https://www.effectsdatabase.com/model/airis/solarflare",
       "research_record": "./research/pedals/Airis Effects/Solar Flare Overdrive.md",
-      "image_source_page": "https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black",
+      "image_source_page": "https://www.effectsdatabase.com/model/airis/solarflare",
       "image_source_pages": [
-        "https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black"
+        "https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black",
+        "https://www.effectsdatabase.com/model/airis/solarflare"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 316,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg",
-      "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg"
-      ]
+      "image_source_priority": 416
     },
     {
       "company": "Airis Effects",
@@ -2069,16 +2057,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alen-geere/methoxy-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 046/Methoxy Overdrive.md",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alengeere/methoxy"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/methoxy",
+      "image_source_page": "https://storage.googleapis.com/dftrlbeeagavfe/boutique-analog-pedals.html",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 351
+      "image_source_priority": 351,
+      "image_source_url": "https://i.pinimg.com/736x/87/82/59/87825921de6c9aa21d32753d9d634a79--gitar-guitar-pedals.jpg"
     },
     {
       "company": "Alen Geere",
@@ -2552,11 +2541,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 320,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg",
-      "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg"
-      ]
+      "image_source_priority": 320
     },
     {
       "company": "Amptweaker",
@@ -3977,11 +3962,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 405,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--OE0mGrAE--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/971cd987-d1d5-498e-807a-bf6e71520cec.jpeg",
-      "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--OE0mGrAE--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/971cd987-d1d5-498e-807a-bf6e71520cec.jpeg"
-      ]
+      "image_source_priority": 405
     },
     {
       "company": "Astral ToneWorx",
@@ -4138,16 +4119,17 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/audible-disease/fr-1-fracture/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/audibledisease/fr1",
       "research_record": "./research/pedals/Audible Disease/FR-1 Fracture.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/audibledisease/fr1",
+      "image_source_page": "https://www.noisefx.com/product_details/audible_disease_fracture_fr1_fx0784",
       "image_source_page_verified": true,
       "image_source_priority": 288,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/audibledisease/fr1"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://storage.googleapis.com/resource-noisefx/images/audiblediseasefracturefr1_5831.jpg"
     },
     {
       "company": "Audile",
@@ -5485,11 +5467,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 317,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--T9xuAoIN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/rzj7uzm62ghqsfvgxyqb.jpg",
-      "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--T9xuAoIN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/rzj7uzm62ghqsfvgxyqb.jpg"
-      ]
+      "image_source_priority": 317
     },
     {
       "company": "Bad Penny FX",
@@ -6013,7 +5991,6 @@
       "image": "https://rvb-img.reverb.com/i/s--4N0bxT25--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgdoay9xz6akmnqmyxvq.jpg",
       "source_page": "https://reverb.com/item/67970418-barber-ltd-and-super-sport-dual-discrete-2020s",
       "research_record": "./research/pedals/Barber Electronics/B-Custom_Dual_Discrete.md",
-      "image_source_url": "https://rvb-img.reverb.com/i/s--4N0bxT25--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgdoay9xz6akmnqmyxvq.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/barber/bcustom/dualdiscrete",
       "image_source_pages": [
         "https://reverb.com/item/42253176-barber-b-custom-dual-discrete-overdrive",
@@ -6021,12 +5998,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 322,
-      "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--4N0bxT25--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgdoay9xz6akmnqmyxvq.jpg",
-        "https://rvb-img.reverb.com/i/s--NTY6ELdE--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/chlevl84qcyazu8gngz9.jpg",
-        "https://rvb-img.reverb.com/i/s--2Sbp5rIH--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/duwrwjhrxugjujvdnwkr.jpg"
-      ]
+      "image_source_priority": 322
     },
     {
       "company": "Barber Electronics",
@@ -6972,11 +6944,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 280,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--zjyRGQbC--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/gd1tmsl3zciecosmrwnx.jpg",
-      "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--zjyRGQbC--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/gd1tmsl3zciecosmrwnx.jpg"
-      ]
+      "image_source_priority": 280
     },
     {
       "company": "BearFoot FX",

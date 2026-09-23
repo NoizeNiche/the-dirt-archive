@@ -469,11 +469,11 @@
   {
     "builder": "Acid Fuzz",
     "pedal": "Professional MkII",
-    "image": "https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg",
+    "image": "./assets/pedals/acid-fuzz/professional-mkii/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk2",
     "research_record": "./research/pedals/Acid Fuzz/Professional MkII.md",
     "image_source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk2",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--afIbc4kU--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/cnc3harwmqaxwolg0mjq.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg"
   },
   {
     "builder": "Acid Fuzz",
@@ -1323,10 +1323,12 @@
   {
     "builder": "Alen Geere",
     "pedal": "Methoxy Overdrive",
-    "image": null,
+    "image": "./assets/pedals/alen-geere/methoxy-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/alengeere/methoxy",
     "research_record": "./research/pedals/PRP Batch 046/Methoxy Overdrive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://i.pinimg.com/736x/87/82/59/87825921de6c9aa21d32753d9d634a79--gitar-guitar-pedals.jpg",
+    "image_source_page": "https://storage.googleapis.com/dftrlbeeagavfe/boutique-analog-pedals.html"
   },
   {
     "builder": "Alen Geere",
@@ -2782,9 +2784,11 @@
   {
     "builder": "Audible Disease",
     "pedal": "FR-1 Fracture",
-    "image": null,
+    "image": "./assets/pedals/audible-disease/fr-1-fracture/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/audibledisease/fr1",
-    "research_record": "./research/pedals/Audible Disease/FR-1 Fracture.md"
+    "research_record": "./research/pedals/Audible Disease/FR-1 Fracture.md",
+    "image_source_url": "https://storage.googleapis.com/resource-noisefx/images/audiblediseasefracturefr1_5831.jpg",
+    "image_source_page": "https://www.noisefx.com/product_details/audible_disease_fracture_fr1_fx0784"
   },
   {
     "builder": "Audile",

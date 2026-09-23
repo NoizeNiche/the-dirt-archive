@@ -1,12 +1,12 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **6**
-- Staged browser photos converted: **6**
-- Local images retained/reorganized: **0**
-- Download failures: **11**
-- Remaining tracker photo backlog: **2780**
-- Researched, photo pending: **235**
-- External source images awaiting localization: **11**
+- Cached in this run: **2**
+- Staged browser photos converted: **3**
+- Local images retained/reorganized: **1**
+- Download failures: **10**
+- Remaining tracker photo backlog: **2777**
+- Researched, photo pending: **232**
+- External source images awaiting localization: **10**
 
 ## Storage layout
 
@@ -16,18 +16,13 @@
 
 ## Newly cached
 
-- AMT Electronics - BS British Sound -> `./assets/pedals/amt-electronics/bs-british-sound/primary.webp`
-- AMT Electronics - Rammstein RD Distortion Combo Emulator -> `./assets/pedals/amt-electronics/rammstein-rd-distortion-combo-emulator/primary.webp`
-- Add+ Pedals - Super Drive 2 -> `./assets/pedals/add-pedals/super-drive-2/primary.webp`
-- Alen Geere - Serene -> `./assets/pedals/alen-geere/serene/primary.webp`
-- Alen Geere - Tube Fuzz -> `./assets/pedals/alen-geere/tube-fuzz/primary.webp`
-- Atmosfera 6 - SPACE OR DIE Variable Octave Generator -> `./assets/pedals/atmosfera-6/space-or-die-variable-octave-generator/primary.webp`
+- Alen Geere - Methoxy Overdrive -> `./assets/pedals/alen-geere/methoxy-overdrive/primary.webp`
+- Audible Disease - FR-1 Fracture -> `./assets/pedals/audible-disease/fr-1-fracture/primary.webp`
 
 ## Still external / failed
 
 - Accel Audio - Vintage Scream'in Overdrive: https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp`)
 - Acid Fuzz - Acid Fuzzer MkI: https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--OzNunaP3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mib1l7tmz6zznki7ukjj.jpg`)
-- Acid Fuzz - Professional MkII: https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg`)
 - Airis Effects - Solar Flare Overdrive: https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg`)
 - Amptweaker - Tight Drive Jr: https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg`)
 - Asheville Guitar Pedals - Purr Machine Mini Fuzz Overdriver: https://rvb-img.reverb.com/i/s--oiUsZm4Y--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kh1kb9chvjin9p3ov8d3.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--oiUsZm4Y--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kh1kb9chvjin9p3ov8d3.jpg`)
