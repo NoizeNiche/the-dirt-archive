@@ -95,6 +95,9 @@ jobs:
           # scheduled runner a substantial browser window while leaving time for
           # image conversion, synchronization, and the commit/push phase.
           PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "120000"
+          # Fresh unresolved records get a shorter bounded window; deep-review
+          # hard cases retain the full recovery window above.
+          PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "45000"
         run: node scripts/browser-photo-cache.mjs
 
       - name: Download and cache verified pedal images
