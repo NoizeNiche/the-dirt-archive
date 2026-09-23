@@ -227,6 +227,8 @@ def main():
     photo_cache_script = (ROOT / "scripts/browser-photo-cache.mjs").read_text(encoding="utf-8")
     if "directImageOverride" not in photo_cache_script or "candidates.filter(candidate => candidate.directImageOverride)" not in photo_cache_script:
         raise SystemExit("Browser photo cache is not prioritizing exact direct-image overrides.")
+    if "function screenshotImageDocumentCandidate" not in photo_cache_script:
+        raise SystemExit("Browser photo cache is missing the direct image-document capture fallback.")
     if "pedalInfoDone" not in photo_cache_script:
         raise SystemExit("Browser photo cache is not prioritizing researched records that only need photos.")
     if 'or re.match(r"^https?://"' not in cache_script:
