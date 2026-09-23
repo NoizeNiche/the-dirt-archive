@@ -2880,6 +2880,21 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           }
         }
 
+        // The verified search result also carries the exact source page that
+        // established the pedal identity. When the image CDN rejects an injected
+        // <img>, render the exact murl as a browser image document after seeding
+        // that source-page session and Referer context. This is especially useful
+        // for Reverb thumbnails whose direct CDN requests return 401/403/500.
+        if (candidate.sourcePage) {
+          const documentShot = await screenshotImageDocumentCandidate({
+            url: candidate.murl,
+            sourcePage: candidate.sourcePage,
+            sourceScore: 100,
+            searchResult: false
+          }, 140);
+          if (documentShot?.bytes) return documentShot.bytes;
+        }
+
         // Final fallback for markup that exposes image metadata only in the raw
         // document. Parse the exact candidate murl, then render that exact image.
         try {
