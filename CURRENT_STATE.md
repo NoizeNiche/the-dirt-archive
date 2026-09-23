@@ -1,8 +1,8 @@
 ## Current recovery checkpoint - September 22, 2026
 
-The canonical tracker currently parses to **3,816 total records / 1,270 researched records / 1,020 pictured and complete records / 251 researched-photo-pending records / 2,796 photo-missing records overall**. The latest bounded cache run published **1 additional exact-model local photo, Baja Tech Custom - Das Fuzz Si**, moving the researched-photo gate from 252 to 251.
+The canonical tracker currently parses to **3,816 total records / 1,270 researched records / 1,022 pictured and complete records / 249 researched-photo-pending records / 2,794 photo-missing records overall**. The latest bounded cache run **1053** published **2 additional exact-model local photos, AGR Pedals DS2610 - Vintage Distortion and FZR912 - Muff Fuzz Deluxe**, moving the researched-photo gate from 251 to 249.
 
-The recovery engine now has a browser-render fallback for curated direct-image URLs, allowing exact manufacturer/store image URLs to be captured even when a direct HTTP request is blocked. The cache scheduler was also changed so bounded recovery workers finish instead of being cancelled by a newer scheduled run.
+The recovery queue is now rotating parked hard cases through bounded deep-review cycles instead of repeatedly reopening the same cohort. The first rotated cohort has completed **Deep Review Cycle 1**, and the next recovery pass will move to the next parked cases.
 
 The photo-recovery queue remains the active gate. **PRP1 stays paused until researched-photo-pending reaches 0.** Public detail pages continue to hide Research confidence and Sources checked, and the future YouTube demo widget remains deferred until the photo catch-up is complete.
 
