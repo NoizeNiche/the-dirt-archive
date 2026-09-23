@@ -1,34 +1,26 @@
-## Current recovery checkpoint - September 22, 2026
+## Current recovery checkpoint - September 23, 2026
 
-The canonical tracker currently parses to **3,816 total records / 1,270 researched records / 1,036 pictured and complete records / 235 researched-photo-pending records / 2,780 photo-missing records overall**. The latest bounded cache run **1056** published **6 additional exact-model local photos**, moving the researched-photo gate from 241 to 235.
+The canonical tracker currently parses to **3,816 total records / 1,271 researched records / 1,071 pictured records / 1,071 PRP-complete records / 200 researched-photo-pending records / 2,745 photo-missing records overall**. The canonical catalog also has **1,071 local image references and 0 runtime external image references**.
 
-The recovery lane is continuing through the A-to-Z backlog with sustained gains, including AMT Electronics BS British Sound and Rammstein RD, Add+ Super Drive 2, Alen Geere Serene and Tube Fuzz, and Atmosfera 6 SPACE OR DIE. Parked hard cases continue through bounded deep-review rotation rather than monopolizing the queue.
+The photo-recovery system is the active production lane. The review queue currently contains **199 records: 197 in DEEP_REVIEW and 2 PARKED**. PRP1 remains gated until the researched-photo-pending count reaches **0**.
 
-The photo-recovery queue remains the active gate. **PRP1 stays paused until researched-photo-pending reaches 0.** Public detail pages continue to hide Research confidence and Sources checked, and the future YouTube demo widget remains deferred until the photo catch-up is complete.
+The recovery worker was tightened for throughput on September 23:
+- each pedal now gets a bounded **120-second** recovery window instead of 20 minutes
+- batch size is capped at **240** records so a worst-case run fits inside the 45-minute Actions job window
+- exact curated direct-image overrides are attempted **before** source-page navigation or search
+- researched records with photos pending receive priority over records that still need research
+- scheduled recovery remains every 10 minutes with queued runs preserved
+- the image runtime remains local-first, with no external image URL currently used by the catalog
 
-## Public-site and recovery checkpoint - September 22, 2026
-
-The public detail page carries the current pedal's dirt-type context into its sidebar, the landing page has a one-click **Clear filters** control, and pagination/search state remains URL-aware.
-
-Two recovery/runtime defects found during this maintenance pass are now repaired:
-- scripts/browser-photo-cache.mjs had been accidentally truncated during the pedal-name identity update. It was restored from the immediately preceding full recovery engine and the intended compact-identity matching change was reapplied.
-- A small group of older research records stores literal escaped \\n sequences. The detail-page research loader now normalizes that representation at the loading boundary so those records render as markdown without rewriting the underlying archive files.
-- Scheduled site health now gives an in-progress Pages deployment a longer completion window and follows the current main SHA during scheduled checks, reducing false deployment-health failures.
-
-The repaired photo-cache workflow completed successfully and archived **1** new verified local photo:
-- British Pedal Company - WEM Pep Box -> ./assets/pedals/british-pedal-company/wem-pep-box/primary.webp
-
-Latest verified recovery counts from that completed cache pass: **3,819 total / 3,818 public / 1,274 researched public / 904 pictured public / 904 fully complete public / 370 researched-photo-pending / 2,915 public photo-missing**.
-
-PRP1 is still gated until **researched-photo-pending reaches 0**. The PRP1 workflow that fired after the photo-cache commit completed with its intake steps skipped by the gate, so it did not advance PRP1 work.
-
-The current deployment for the research-loader repair has passed archive validation and is in the browser-audit stage. It must complete successfully before the live site is considered fully verified.
+The home-page archive grid also received its complete card, image-placeholder, responsive, and pagination styling. The detail page remains on the existing 3:4 photo presentation with version/colorway navigation, builder navigation, demo links, and the Research confidence/Sources checked sections hidden from the public renderer.
 
 Latest maintenance commits:
-- 6e907336 - fix escaped-newline normalization condition
-- 4f49d706 - normalize escaped newlines in research records
-- 5a68dd21 - restore photo recovery engine after accidental truncation
-- b10e57af - give Pages health checks time to finish deployments
+- 868010b - restore complete archive grid and pagination styling
+- fc16cdf - kick optimized photo recovery pass v92
+- 8007dc9 - tighten photo recovery batch timing
+- 30ddb40 - prioritize exact photo leads and shorten recovery timeouts
+
+**Operational priority:** keep photo recovery moving toward 0, keep tracker/catalog/image manifests synchronized after every published batch, then release the PRP1 gate and move directly into the remaining pedal research backlog.
 
 ---
 
