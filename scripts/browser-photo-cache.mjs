@@ -1209,7 +1209,10 @@ async function recoverEntry(browser, entry, deepReview = false) {
     async function tryImages(list) {
       for (const candidate of list.slice(0, CANDIDATE_LIMIT)) {
         try {
-          const response = await page.request.get(candidate.url, { timeout: IMAGE_TIMEOUT });
+          const requestOptions = candidate.sourcePage
+            ? { timeout: IMAGE_TIMEOUT, headers: { referer: candidate.sourcePage } }
+            : { timeout: IMAGE_TIMEOUT };
+          const response = await page.request.get(candidate.url, requestOptions);
           const type = (response.headers()['content-type'] || '').toLowerCase();
           if (response.ok() && type.startsWith('image/')) {
             const bytes = await response.body();
@@ -1217,9 +1220,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
           }
         } catch {}
 
-        // Curated direct-image overrides are exact product-photo URLs. Some CDNs
-        // reject Playwright's raw request while serving the same URL to Chromium.
-        // Render the URL in the browser context and capture the actual image.
+        // Curated direct-image overrides are exact product-photo URLs. Some
+        // image CDNs permit the URL in a real browser navigation but reject
+        // Playwright's request API, sometimes only when no source-page referer
+        // is supplied. Try both browser-render modes without substituting a
+        // different image.
         if (candidate.directImageOverride) {
           try {
             const capture = await page.evaluate(async src => {
@@ -1260,11 +1265,32 @@ async function recoverEntry(browser, entry, deepReview = false) {
               await page.evaluate(() => document.querySelector('[data-dirt-archive-direct-capture="1"]')?.remove()).catch(() => {});
             }
           } catch {}
+
+          try {
+            await page.goto(candidate.url, {
+              waitUntil: 'load',
+              timeout: IMAGE_TIMEOUT,
+              referer: candidate.sourcePage || undefined
+            });
+            await page.waitForTimeout(250);
+            const img = page.locator('img').first();
+            if (await img.count()) {
+              const box = await img.boundingBox().catch(() => null);
+              const natural = await img.evaluate(node => ({
+                width: Number(node.naturalWidth) || 0,
+                height: Number(node.naturalHeight) || 0
+              })).catch(() => ({ width: 0, height: 0 }));
+              if ((natural.width >= 220 && natural.height >= 220) ||
+                  (box?.width || 0) >= 220 && (box?.height || 0) >= 220) {
+                const bytes = await img.screenshot({ type: 'png' }).catch(() => null);
+                if (bytes && bytes.length >= 3000) return { candidate, bytes };
+              }
+            }
+          } catch {}
         }
       }
       return null;
     }
-
     // A verified source page can display the exact pedal photo even when its
     // image URL returns a block/403/500 to a direct request. Capture the rendered
     // photo from the already identity-verified page instead of substituting a
