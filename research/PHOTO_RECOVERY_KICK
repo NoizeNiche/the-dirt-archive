@@ -1,4 +1,4 @@
-Photo recovery kick v39
+Photo recovery kick v40
 Issued September 22, 2026. Exercise the corrected embedded CDN recovery path after syntax validation.
 Purpose: run the next bounded researched-photo recovery pass with embedded CDN image recovery, Reverb gallery handling, exact Effects Database search identity, and curated alternate sources.
-Follow-up: test Node HTTP fallback for exact direct images, especially Barber Dual Discrete, then continue exact-photo recovery queue.
+Follow-up: test three exact Barber Dual Discrete Reverb image URLs through the multi-image direct override pipeline, then continue exact-photo recovery queue.
