@@ -7492,10 +7492,11 @@
   {
     "builder": "Bob Burt Cabinets & Pedals",
     "pedal": "Bob Burt GR8T Distortion",
-    "image": null,
+    "image": "./assets/pedals/bob-burt-cabinets-pedals/bob-burt-gr8t-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/bobburt/gr8t",
     "research_record": "./research/pedals/PRP Batch 106/Bob Burt GR8T Distortion.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--V83fkBVR--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/80dbf273-24c6-4050-ad05-f7d723684235.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--r2qkyiNq--/quality=medium-low,height=800,width=800,fit=contain/df1ccdf5-4602-4a8b-8d28-fd0fcabd02f9.jpg",
+    "image_source_page": "https://reverb.com/item/94164107-bob-burt-gr8t-distortion"
   },
   {
     "builder": "Bob Burt Cabinets & Pedals",
