@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **1**
+- Cached in this run: **2**
+- Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **9**
-- Remaining tracker photo backlog: **2756**
-- Researched, photo pending: **211**
+- Remaining tracker photo backlog: **2754**
+- Researched, photo pending: **209**
 - External source images awaiting localization: **9**
 
 ## Storage layout
@@ -16,7 +16,8 @@
 
 ## Newly cached
 
-- Camuro - FAT BABY Preamp/Overdrive -> `./assets/pedals/camuro/fat-baby-preamp-overdrive/primary.webp`
+- Audio-Phonic - R4 Fuzz -> `./assets/pedals/audio-phonic/r4-fuzz/primary.webp`
+- Camuro - Caboolture Twin-Stage Overdrive -> `./assets/pedals/camuro/caboolture-twin-stage-overdrive/primary.webp`
 
 ## Still external / failed
 

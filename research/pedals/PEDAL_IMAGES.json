@@ -2952,9 +2952,11 @@
   {
     "builder": "Audio-Phonic",
     "pedal": "R4 Fuzz",
-    "image": null,
+    "image": "./assets/pedals/audio-phonic/r4-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/audiophonic/r4",
-    "research_record": "./research/pedals/Audio-Phonic/R4 Fuzz.md"
+    "research_record": "./research/pedals/Audio-Phonic/R4 Fuzz.md",
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/jackson-audio-effects-and-pedals-fuzz-jackson-audio-fuzz-modular-fuzz-pedal-jafuzz-u1-29383924875399.jpg?v=1657736241&width=1445",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/jackson-audio-fuzz-modular-fuzz-pedal-1541475"
   },
   {
     "builder": "Audio-Phonic",
@@ -10220,10 +10222,11 @@
   {
     "builder": "Camuro",
     "pedal": "Caboolture Twin-Stage Overdrive",
-    "image": null,
+    "image": "./assets/pedals/camuro/caboolture-twin-stage-overdrive/primary.webp",
     "source_page": "https://camuro.co.jp/caboolture",
     "research_record": "./research/pedals/PRP Batch 147/camuro-caboolture-twin-stage-overdrive.md",
-    "image_source_page": "https://camuro.co.jp/blog/mxr-carbon-copy-camuro-caboolture"
+    "image_source_page": "https://sandiegomacncheese.com/underwater-hydroelectric-turbines/",
+    "image_source_url": "https://engineeringdiscoveries.com/wp-content/uploads/2019/05/Untitled-1jkknnjjjknkjn.jpg"
   },
   {
     "builder": "Camuro",
