@@ -13476,11 +13476,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/buggfx-pedals/raincoat/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/buggfx/raincoat",
       "research_record": "./research/pedals/PRP Batch 127/buggfx-pedals-raincoat.md",
       "image_source_page": "https://www.effectsdatabase.com/model/buggfx/raincoat",
-      "image_source_url": "https://www.effectsdatabase.com/model/buggfx/raincoat",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/buggfx_raincoat_002.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 180,
       "image_source_pages": [
