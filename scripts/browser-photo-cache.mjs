@@ -843,14 +843,14 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
   if (!html) return [];
   const add = value => {
     if (!value || typeof value !== 'string') return;
-    for (const part of value.split(/[\\s,]+/)) {
+    for (const part of value.split(/[\s,]+/)) {
       const raw = part.replace(/&amp;/g, '&').replace(/^["']|["']$/g, '');
       if (!raw || raw.startsWith('data:')) continue;
       try {
         const url = /^https?:/i.test(raw) ? raw : new URL(raw, pageUrl).href;
         if (!/^https?:/i.test(url)) return;
         if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel)/i.test(url)) return;
-        if (/\\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url)) out.add(url);
+        if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url)) out.add(url);
       } catch {}
     }
   };
@@ -865,7 +865,7 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
     for (const match of html.matchAll(pattern)) add(match[1]);
   }
 
-  for (const match of html.matchAll(/https?:\\/\\/[^"'\\s<>]+\\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\\s<>]*)?/gi)) {
+  for (const match of html.matchAll(/https?:\/\/[^"'\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?/gi)) {
     add(match[0]);
   }
 
