@@ -8881,7 +8881,7 @@
       "research_record": "./research/pedals/PRP Batch 088/Proxy.md",
       "image_source_page": "https://reverb.com/ca/item/43700024-proxy-v2-beatles-vox-ul730-overdrive-with-vox-conqueror-mid-boost-switch",
       "image_source_page_verified": true,
-      "image_source_priority": 401,
+      "image_source_priority": 493,
       "image_source_pages": [
         "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome",
         "https://reverb.com/ca/item/43700024-proxy-v2-beatles-vox-ul730-overdrive-with-vox-conqueror-mid-boost-switch"
@@ -10359,7 +10359,8 @@
       "image_source_pages": [
         "https://reverb.com/item/77950001-black-hawk-basilisk-fuzz-black",
         "https://reverb.com/item/87246180-blackhawk-amplifiers-basilisk-fuzz-pedal-beebaa",
-        "https://reverb.com/item/58788639-blackhawk-amplifiers-basilisk-fuzz-2019-black"
+        "https://reverb.com/item/58788639-blackhawk-amplifiers-basilisk-fuzz-2019-black",
+        "https://reverb.com/item/91327542-blackhawk-amplifiers-basilisk-fuzz"
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://rvb-img.reverb.com/i/s--ZlebMFU3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ffr0rg17eckvubv1v2yv.jpg",
@@ -13750,7 +13751,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/byoc/fuzz",
       "image_source_url": "https://www.effectsdatabase.com/model/byoc",
       "image_source_page_verified": true,
-      "image_source_priority": 113,
+      "image_source_priority": 498,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/byoc/fuzz"
       ],
@@ -13864,7 +13865,7 @@
       "research_record": "./research/pedals/PRP Batch 130/li-l-fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/byoc/lil/fuzz",
       "image_source_page_verified": true,
-      "image_source_priority": 182,
+      "image_source_priority": 499,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/byoc/lil/fuzz"
       ],
@@ -14456,7 +14457,7 @@
       "research_record": "./research/pedals/PRP Batch 135/cic-mod-7-overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/cic/mod7",
       "image_source_page_verified": true,
-      "image_source_priority": 126,
+      "image_source_priority": 500,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/cic/mod7"
       ],
@@ -14477,7 +14478,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/cqo/superdistortion",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 382
+      "image_source_priority": 501
     },
     {
       "company": "C14 Devices",
@@ -14493,6 +14494,7 @@
       "image_source_priority": 100000,
       "image_source_pages": [
         "https://reverb.com/es/item/60907915-carbono-14-tone-chaser-world-s-first-carbon-fiber-pedal",
+        "https://reverb.com/ca/item/62257684-carbono-14-tone-chaser-cc-world-s-first-full-carbon-fiber-pedal",
         "https://reverb.com/item/63407324-carbono-14-tone-chaser-world-s-first-full-carbon-fiber-pedal",
         "https://reverb.com/item/60907915-carbono-14-tone-chaser-world-s-first-carbon-fiber-pedal"
       ],
@@ -14548,9 +14550,9 @@
       "image": null,
       "source_page": "https://pedalescajita.mitiendanube.com/productos/bdi-ts-preamplificador-bajo-con-overdrive/",
       "research_record": "./research/pedals/PRP Batch 135/cajita-bdi-ts-with-overdrive.md",
-      "image_source_page": "https://pedalescajita.mitiendanube.com/",
+      "image_source_page": "https://www.mercadolibre.com.ar/bdits--preamp-de-bajo--distorsion--cajita-stompboxes-/up/MLAU299492703",
       "image_source_page_verified": true,
-      "image_source_priority": 460,
+      "image_source_priority": 504,
       "image_source_pages": [
         "https://www.mercadolibre.com.ar/bdits--preamp-de-bajo--distorsion--cajita-stompboxes-/up/MLAU299492703",
         "https://pedalescajita.mitiendanube.com/"
@@ -15514,7 +15516,10 @@
       "image_source_priority": 100000,
       "image_source_pages": [
         "https://reverb.com/item/31816216-cameltone-electronics-big-stuff-fuzz-distortion-pedal",
-        "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple"
+        "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple",
+        "https://reverb.com/item/63931205-cameltone-big-stuff",
+        "https://reverb.com/item/86878862-cameltone-electronics-big-stuff-2015-purple-sparkle",
+        "https://reverb.com/item/1657158-cameltone-electronics-big-stuff-fuzz-effects-pedal"
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://rvb-img.reverb.com/image/upload/s--P7gcV82k--/f_auto%2Ct_large/v1580435657/y2pv8jtiatsbuuoagwsn.jpg",
@@ -16445,7 +16450,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/casimir/entropy",
       "image_source_url": "https://www.effectsdatabase.com/model/casimir/entropy",
       "image_source_page_verified": true,
-      "image_source_priority": 157,
+      "image_source_priority": 502,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/casimir/entropy"
       ],
@@ -16599,7 +16604,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/caswell/sharkmouth",
       "image_source_url": "https://www.effectsdatabase.com/model/caswell/sharkmouth",
       "image_source_page_verified": true,
-      "image_source_priority": 162,
+      "image_source_priority": 503,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/caswell/sharkmouth"
       ],
