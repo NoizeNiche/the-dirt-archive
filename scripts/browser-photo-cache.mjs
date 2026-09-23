@@ -2889,9 +2889,17 @@ async function recoverEntry(browser, entry, deepReview = false) {
               })()
             : '';
           const trustedCuratedSource =
-            entry.image_source_pages_verified === true &&
             normalizedResultPage &&
-            curatedSourceUrls.has(normalizedResultPage);
+            curatedSourceUrls.has(normalizedResultPage) &&
+            (
+              entry.image_source_pages_verified === true ||
+              entry.image_source_page_verified === true
+            ) &&
+            (
+              fit.pedalHits >= requiredHits ||
+              fit.builderHits >= 1 ||
+              pageMatchesSearchIdentity(entry, searchIdentity, searchIdentity)
+            );
 
           if (trustedDatabase || trustedMarketplace || trustedCuratedSource) {
             verifiedSearch.push({
