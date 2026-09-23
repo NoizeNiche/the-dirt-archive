@@ -1,3 +1,13 @@
+## Photo recovery checkpoint - September 23, 2026
+
+Latest verified tracker state: **3,816 total / 1,271 researched / 1,071 pictured / 1,071 complete / 200 researched-photo-pending / 2,745 photo-missing**.
+
+The active recovery lane remains healthy. The latest published recovery commit, `f241de7`, archived the exact-model **Bouteek - Overdriver - Preamp** photo locally at `./assets/pedals/bouteek/overdriver-preamp/primary.webp`, reducing the researched-photo gate to **200**. The worker is continuing to prioritize researched records that are still missing exact photos.
+
+The current review queue is **199 records: 197 DEEP_REVIEW and 2 PARKED**. PRP1 remains gated until the researched-photo-pending count reaches **0**.
+
+---
+
 ## Photo recovery checkpoint - September 22, 2026
 
 Latest verified tracker state: **3,816 total / 1,270 researched / 1,036 pictured / 1,036 complete / 235 researched-photo-pending / 2,780 photo-missing**.
