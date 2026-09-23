@@ -6282,11 +6282,12 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "Black Forest",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/black-forest/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.blackartstoneworks.com/pedal/",
     "research_record": "./research/pedals/PRP Batch 094/Black Forest.md",
-    "image_source_page": "https://www.pitbullaudio.com/black-arts-toneworks-black-forest-multi-effects-guitar-pedal.html"
+    "image_source_page": "https://www.pitbullaudio.com/black-arts-toneworks-black-forest-multi-effects-guitar-pedal.html",
+    "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/01/bff.png"
   },
   {
     "builder": "Black Arts Toneworks",
@@ -6301,11 +6302,12 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "Coven",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/coven/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.blackartstoneworks.com/pedal/coven/",
     "research_record": "./research/pedals/PRP Batch 094/Coven.md",
-    "image_source_page": "https://www.creamcitymusic.com/black-arts-coven-fuzz-pedal/"
+    "image_source_page": "https://www.creamcitymusic.com/black-arts-coven-fuzz-pedal/",
+    "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/01/coven2.jpg"
   },
   {
     "builder": "Black Arts Toneworks",
@@ -6415,10 +6417,11 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "Revelation",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/revelation/primary.webp",
     "source_page": "https://www.blackartstoneworks.com/pedal/revelation/",
     "research_record": "./research/pedals/PRP Batch 095/Revelation.md",
-    "image_source_page": "https://www.blackartstoneworks.com/pedal/revelation/"
+    "image_source_page": "https://www.blackartstoneworks.com/pedal/revelation/",
+    "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/01/reverlationnew.jpg"
   },
   {
     "builder": "Black Arts Toneworks",
@@ -6441,10 +6444,11 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "Skyboost",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/skyboost/primary.webp",
     "source_page": "https://www.blackartstoneworks.com/pedal/skyboost/",
     "research_record": "./research/pedals/PRP Batch 095/Skyboost.md",
-    "image_source_page": "https://www.blackartstoneworks.com/pedal/skyboost/"
+    "image_source_page": "https://www.blackartstoneworks.com/pedal/skyboost/",
+    "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2018/08/Sky-site-pic.jpg"
   },
   {
     "builder": "Black Arts Toneworks",
@@ -6458,10 +6462,11 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "Tres Diablos Ruidosos",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/tres-diablos-ruidosos/primary.webp",
     "source_page": "https://www.blackartstoneworks.com/pedal/tres-diablos-ruidosos/",
     "research_record": "./research/pedals/PRP Batch 096/Tres Diablos Ruidosos.md",
-    "image_source_page": "https://www.blackartstoneworks.com/pedal/tres-diablos-ruidosos/"
+    "image_source_page": "https://www.blackartstoneworks.com/pedal/tres-diablos-ruidosos/",
+    "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2017/10/Tres-web.jpg"
   },
   {
     "builder": "Black Arts Toneworks",

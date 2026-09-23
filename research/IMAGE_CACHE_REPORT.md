@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
+- Cached in this run: **5**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **12**
-- Remaining tracker photo backlog: **2803**
-- Researched, photo pending: **258**
+- Remaining tracker photo backlog: **2798**
+- Researched, photo pending: **253**
 - External source images awaiting localization: **12**
 
 ## Storage layout
@@ -13,6 +13,14 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- Black Arts Toneworks - Black Forest -> `./assets/pedals/black-arts-toneworks/black-forest/primary.webp`
+- Black Arts Toneworks - Coven -> `./assets/pedals/black-arts-toneworks/coven/primary.webp`
+- Black Arts Toneworks - Revelation -> `./assets/pedals/black-arts-toneworks/revelation/primary.webp`
+- Black Arts Toneworks - Skyboost -> `./assets/pedals/black-arts-toneworks/skyboost/primary.webp`
+- Black Arts Toneworks - Tres Diablos Ruidosos -> `./assets/pedals/black-arts-toneworks/tres-diablos-ruidosos/primary.webp`
 
 ## Still external / failed
 
