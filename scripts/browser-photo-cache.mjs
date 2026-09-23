@@ -22,6 +22,7 @@ const TARGET_PEDAL = String(process.env.PHOTO_BROWSER_TARGET_PEDAL || '').trim()
 const PER_BUILDER_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_PER_BUILDER_LIMIT || 5));
 const RECOVERY_DEADLINE_MS = Math.max(10000, Number(process.env.PHOTO_BROWSER_RECOVERY_DEADLINE_MS || 35000));
 const MAX_RECOVERY_ATTEMPTS = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS || 12));
+const MAX_DEEP_REVIEW_CYCLES = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES || 3));
 const REVISIT_PARKED = String(process.env.PHOTO_BROWSER_REVISIT_PARKED || 'false').toLowerCase() !== 'false';
 let manifestOwnersByImage = new Map();
 
@@ -2486,10 +2487,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
   // still prevents any one stubborn pedal from consuming every run.
   if (!TARGET_BUILDER && !TARGET_PEDAL && REVISIT_PARKED) {
     const parkedForDeepReview = [...reviewByKey.values()]
-      .filter(row => row.Status === 'PARKED' && /automatic photo attempts/i.test(String(row['Last Failure'] || '')))
+      .filter(row =>
+        row.Status === 'PARKED' &&
+        (Number(row['Deep Review Cycles']) || 0) < MAX_DEEP_REVIEW_CYCLES
+      )
       .sort((a, b) =>
         (Number(a['Deep Review Cycles']) || 0) - (Number(b['Deep Review Cycles']) || 0) ||
-        (Number(a.Attempts) || 0) - (Number(b.Attempts) || 0) ||
         String(a.Builder).localeCompare(String(b.Builder)) ||
         String(a.Pedal).localeCompare(String(b.Pedal))
       );
@@ -2498,7 +2501,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
       row.Status = 'DEEP_REVIEW';
       row.Attempts = '0';
       row['Deep Review Cycles'] = String((Number(row['Deep Review Cycles']) || 0) + 1);
-      row['Last Failure'] = 'DEEP_REVIEW_STARTED after automatic photo cutoff.';
+      row['Last Failure'] = 'DEEP_REVIEW_STARTED cycle ' + row['Deep Review Cycles'] + ' after parked-photo cutoff.';
     }
     if (reopenLimit) {
       writeReviewQueue([...reviewByKey.values()].sort((a, b) =>
