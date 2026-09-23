@@ -1054,19 +1054,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
     sourceImageCandidates: 0,
     linkedExternalCandidates: 0,
     sourceScreenshotCaptured: false,
-    embeddedCandidates: 0,
-    rawHtmlCandidates: 0,
-    genericRenderAttempts: 0,
-    genericRenderLoads: 0,
     makerFallbackTried: false,
     soldCandidates: 0,
     verifiedSoldCandidates: 0,
     imageSearchCandidates: 0,
     verifiedSearchCandidates: 0,
-    imageProxyAttempts: 0,
-    imageProxySuccesses: 0,
-    imageProxyLastStatus: null,
-    imageProxyLastContentType: null
+    rawHtmlCandidates: 0
   };
   const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
   const networkImageUrls = [];
@@ -1103,9 +1096,6 @@ async function recoverEntry(browser, entry, deepReview = false) {
       ? entry.image_source_urls.filter(value => /^https?:/i.test(String(value || "")))
       : (entry.image_source_url && /^https?:/i.test(entry.image_source_url) ? [entry.image_source_url] : []);
     for (const imageUrl of [...new Set(directImageUrls)].slice(0, 8)) {
-      // A manually curated direct image URL is the strongest possible photo lead:
-      // it was selected from an exact, identity-verified source page. Keep it
-      // ahead of generic DOM/CDN candidates so the candidate cap cannot hide it.
       candidates.push({
         url: imageUrl,
         sourcePage: entry.image_source_page || entry.source_page || null,
@@ -1117,34 +1107,6 @@ async function recoverEntry(browser, entry, deepReview = false) {
     for (const pageUrl of pageUrls) {
       if (!pageUrl || !/^https?:/i.test(pageUrl)) continue;
       try {
-        // Preflight exact, pre-verified source pages through the raw HTTP
-        // response. This survives pages where Chromium navigation fails but the
-        // source HTML still contains the real product-photo URL.
-        if (entry.image_source_page_verified === true || entry.image_source_pages_verified === true) {
-          sourcePageUsed = sourcePageUsed || pageUrl;
-          try {
-            const rawResponse = await page.request.get(pageUrl, { timeout: PAGE_TIMEOUT });
-            if (rawResponse.ok()) {
-              const rawHtml = await rawResponse.text();
-              const rawUrls = rawVerifiedPageImageUrls(rawHtml, pageUrl);
-              for (const url of rawUrls) {
-                candidates.push({
-                  url,
-                  sourcePage: pageUrl,
-                  sourceScore: 118,
-                  rawVerifiedPageImage: true
-                });
-              }
-              diagnostic.rawHtmlCandidates += rawUrls.length;
-
-              const rawExternalImages = await rawVerifiedExternalSourceImages(page, entry, pageUrl);
-              if (rawExternalImages.length) {
-                candidates.push(...rawExternalImages);
-              }
-            }
-          } catch {}
-        }
-
         // Keep rendered-network candidates scoped to the source page that
         // produced them. This prevents an image from a previous fallback page
         // from being mislabeled as evidence for the next page.
@@ -1166,11 +1128,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
         diagnostic.sourceIdentityMatch = true;
         sourcePageUsed = sourcePageUsed || pageUrl;
 
-        // Once the live page itself has passed the exact builder/model identity
-        // gate, harvest its raw document media regardless of whether the
-        // override was pre-flagged as verified. This catches curated WordPress,
-        // Reverb, and archive pages whose useful product image is only present in
-        // source HTML or a relative media link.
+        // The live page has now passed exact builder/model identity verification.
+        // Harvest its raw document media regardless of whether the source was
+        // pre-flagged as verified. This catches relative WordPress uploads,
+        // marketplace CDN links, and older archive media that vanish from the
+        // hydrated DOM.
         try {
           const rawResponse = await page.request.get(pageUrl, { timeout: PAGE_TIMEOUT });
           if (rawResponse.ok()) {
@@ -1184,7 +1146,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
                 rawVerifiedPageImage: true
               });
             }
-            diagnostic.rawHtmlCandidates = (Number(diagnostic.rawHtmlCandidates) || 0) + rawUrls.length;
+            diagnostic.rawHtmlCandidates += rawUrls.length;
           }
         } catch {}
 
@@ -1209,12 +1171,973 @@ async function recoverEntry(browser, entry, deepReview = false) {
           await page.waitForTimeout(250);
         }
 
-        // Some exact product pages serve their media correctly but keep the
-        // actual image URL only in raw HTML attributes that Chromium's hydrated
-        // DOM does not expose. Harvest the document response itself as a second
-        // source-page extraction path, resolving relative media URLs against the
-        // already identity-verified page URL.
-                const imageData = await page.evaluate(() => {
+        const imageData = await page.evaluate(() => {
+          const urls = [];
+          for (const el of document.querySelectorAll('img, source')) {
+            urls.push(
+              el.currentSrc || '',
+              el.src || '',
+              el.getAttribute('data-src') || '',
+              el.getAttribute('data-lazy-src') || '',
+              el.getAttribute('data-original') || '',
+              el.getAttribute('srcset') || ''
+            );
+          }
+          for (const el of document.querySelectorAll('[style*="background"]')) {
+            const css = getComputedStyle(el).backgroundImage || '';
+            const match = css.match(/url\(["']?([^"')]+)["']?\)/i);
+            if (match) urls.push(match[1]);
+          }
+          return urls.filter(Boolean);
+        });
+        const richImageData = await richSourceImageUrls(page, pageUrl);
+        const legacyFeedImages = /([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname)
+          ? await effectsDatabaseFeedImageUrls(page, pageUrl)
+          : [];
+
+        for (const raw of [...imageData, ...richImageData, ...legacyFeedImages]) {
+          for (const part of raw.split(/\s+/)) {
+            if (/^https?:/i.test(part)) {
+              candidates.push({ url: part, sourcePage: pageUrl, sourceScore: 90 });
+            } else if (part && !part.includes('x') && !part.startsWith('data:')) {
+              try {
+                candidates.push({
+                  url: new URL(part, pageUrl).href,
+                  sourcePage: pageUrl,
+                  sourceScore: 90
+                });
+              } catch {}
+            }
+          }
+        }
+
+        // The response listener already filtered these URLs by image MIME type.
+        // Do not require a filename extension here: CDN/image proxy URLs commonly
+        // omit .jpg/.png/.webp while still returning a real image.
+        for (const url of [...new Set(networkImageUrls)]) {
+          candidates.push({ url, sourcePage: pageUrl, sourceScore: 110 });
+        }
+
+        diagnostic.sourceImageCandidates += candidates.filter(x => x.sourcePage === pageUrl).length;
+
+        if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname) && deepReview) {
+          const linked = await linkedExactSourceCandidates(page, entry, pageUrl, true);
+          diagnostic.linkedExternalCandidates += linked.length;
+          candidates.push(...linked);
+        } else if (!candidates.some(x => x.sourcePage === pageUrl && x.sourceScore >= 120)) {
+          const linked = await linkedExactSourceCandidates(page, entry, pageUrl, deepReview);
+          diagnostic.linkedExternalCandidates += linked.length;
+          candidates.push(...linked);
+        }
+      } catch {
+        // Some source sites reject Chromium navigation while still serving the
+        // document to a normal HTTP client. Retry the exact curated page through
+        // Playwright's request context so a navigation block does not erase a
+        // potentially usable og:image/img/srcset lead.
+        try {
+          const response = await page.request.get(pageUrl, { timeout: PAGE_TIMEOUT });
+          const type = (response.headers()['content-type'] || '').toLowerCase();
+          if (response.ok() && (!type || type.includes('text/html'))) {
+            const html = await response.text();
+            const title = (html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [,''])[1]
+              .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+            const h1 = (html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || [,''])[1]
+              .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+            const body = html
+              .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+              .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+              .replace(/<[^>]+>/g, ' ')
+              .replace(/\s+/g, ' ')
+              .slice(0, 300000);
+            const identityMatch =
+              entry.image_source_pages_verified === true ||
+              entry.image_source_page_verified === true ||
+              pageMatchesIdentity(entry, title + ' ' + body, h1) ||
+              reverbListingMatchesIdentity(entry, pageUrl, title, h1);
+            if (identityMatch) {
+              diagnostic.sourcePageLoaded = true;
+              diagnostic.sourceIdentityMatch = true;
+              sourcePageUsed = sourcePageUsed || pageUrl;
+
+              const imageAttrs = [];
+              for (const match of html.matchAll(/<(?:img|source)\b[^>]*(?:src|data-src|data-lazy-src|data-original|srcset)=["']([^"']+)["'][^>]*>/gi)) {
+                imageAttrs.push(match[1]);
+              }
+              for (const match of html.matchAll(/<meta\b[^>]*(?:property|name)=["'](?:og:image|twitter:image)["'][^>]*content=["']([^"']+)["'][^>]*>/gi)) {
+                imageAttrs.push(match[1]);
+              }
+
+              for (const raw of imageAttrs) {
+                for (const part of raw.split(/\s+/)) {
+                  if (!part || part.startsWith('data:')) continue;
+                  try {
+                    const url = /^https?:/i.test(part) ? part : new URL(part, pageUrl).href;
+                    if (/^https?:/i.test(url)) {
+                      candidates.push({ url, sourcePage: pageUrl, sourceScore: 105 });
+                    }
+                  } catch {}
+                }
+              }
+            }
+          }
+        } catch {}
+      }
+      }
+    const tokens = identityTokens(entry.pedal);
+    const ranked = [...new Map(candidates.map(x => [x.url, x])).values()].sort((a, b) => {
+      const score = candidate => {
+        const normalized = candidate.url.toLowerCase().replace(/[^a-z0-9]+/g, ' ');
+        return candidate.sourceScore
+          + tokens.reduce((sum, token) => sum + (normalized.includes(token) ? 10 : 0), 0)
+          + (normalized.includes('logo') ? -20 : 0)
+          + (normalized.includes('icon') ? -20 : 0)
+          + (normalized.includes('thumb') ? 1 : 0);
+      };
+      return score(b) - score(a);
+    });
+
+    async function tryImages(list) {
+      for (const candidate of list.slice(0, CANDIDATE_LIMIT)) {
+        try {
+          const response = await page.request.get(candidate.url, { timeout: IMAGE_TIMEOUT });
+          const type = (response.headers()['content-type'] || '').toLowerCase();
+          if (!response.ok() || !type.startsWith('image/')) continue;
+          const bytes = await response.body();
+          if (bytes.length < 3000) continue;
+          return { candidate, bytes };
+        } catch {}
+      }
+      return null;
+    }
+
+    // A verified source page can display the exact pedal photo even when its
+    // image URL returns a block/403/500 to a direct request. Capture the rendered
+    // photo from the already identity-verified page instead of substituting a
+    // search-engine image.
+    async function screenshotVerifiedSourcePageImage(sourcePage) {
+      if (!sourcePage) return null;
+      try {
+        const parsedSource = new URL(sourcePage);
+        const isReverbListing = isReverbListingUrl(sourcePage);
+        await page.goto(sourcePage, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+        await page.waitForTimeout(isReverbListing ? 2800 : 500);
+
+        if (isReverbListing) {
+          await page.mouse.wheel(0, 900);
+          await page.waitForTimeout(450);
+        } else {
+          // Many specialist pedal databases lazy-load their gallery images only
+          // after the gallery enters the viewport. Trigger a bounded viewport
+          // sweep so the rendered photo exists before we score/capture it.
+          const viewportHeight = await page.evaluate(() => window.innerHeight || 900).catch(() => 900);
+          const bodyHeight = await page.evaluate(() => document.body?.scrollHeight || 0).catch(() => 0);
+          const steps = Math.min(6, Math.max(2, Math.ceil(bodyHeight / Math.max(400, viewportHeight))));
+          for (let step = 0; step < steps; step++) {
+            await page.evaluate(({ step, viewportHeight }) => {
+              window.scrollTo(0, Math.min(document.body.scrollHeight, step * viewportHeight * 0.85));
+            }, { step, viewportHeight }).catch(() => {});
+            await page.waitForTimeout(180);
+          }
+          await page.evaluate(() => window.scrollTo(0, 0)).catch(() => {});
+          await page.waitForTimeout(220);
+        }
+
+        const pedalPhrase = normalizedIdentity(entry.pedal);
+        const pedalTokens = identityTokens(entry.pedal);
+        const builderTokens = identityTokens(entry.company);
+
+        // Some modern marketplace pages keep the real CDN image URLs in the
+        // rendered HTML/JSON while exposing only an empty or placeholder <img>
+        // node to selectors. On an already identity-verified source page, recover
+        // those exact image URLs from the rendered document and let Chromium
+        // render the image itself. This is especially useful for Reverb galleries,
+        // which can hydrate their image links after the initial DOM snapshot.
+        const embeddedImageCandidates = [];
+        try {
+          // Reverb sometimes serializes gallery URLs as JSON-escaped slashes.
+          // Normalize those escapes before extracting the exact CDN hosts.
+          const html = (await page.content()).replace(/\\\//g, '/');
+          const urls = [
+            ...html.matchAll(/https?:\/\/(?:rvb-img\.reverb\.com|static\.reverb-assets\.com)\/[^"'\\s<>\\]+/gi)
+          ].map(match => match[0].replace(/&amp;/g, '&'));
+          for (const url of [...new Set(urls)].slice(0, 12)) {
+            embeddedImageCandidates.push({
+              url,
+              score: 900,
+              exactPhrase: true,
+              embeddedImage: true
+            });
+          }
+        } catch {}
+
+        // Curated source pages are already tied to the exact pedal. The remaining
+        // problem is selecting the *right* image when a product page contains
+        // multiple photos, logos, thumbnails, or several products. Score the image
+        // together with its semantic card/figure context rather than only the URL.
+        const candidates = await page.evaluate(({ pedalPhrase, pedalTokens, builderTokens }) => {
+          const normalize = value => String(value || '')
+            .toLowerCase()
+            .replace(/\+/g, ' plus ')
+            .replace(/[^a-z0-9]+/g, ' ')
+            .replace(/\s+/g, ' ')
+            .trim();
+
+          const phraseCompact = pedalPhrase.replace(/\s+/g, '');
+          const rows = [];
+
+          for (const [imgIndex, img] of [...document.querySelectorAll('img')].entries()) {
+            const srcsetValues = [
+              img.getAttribute('srcset') || '',
+              img.getAttribute('data-srcset') || '',
+              img.getAttribute('data-lazy-srcset') || ''
+            ].join(',');
+            const srcsetCandidates = srcsetValues
+              .split(',')
+              .map(part => part.trim().split(/\s+/)[0])
+              .filter(Boolean);
+            const src =
+              img.currentSrc ||
+              img.getAttribute('data-full-src') ||
+              img.getAttribute('data-large-image') ||
+              img.getAttribute('data-zoom-image') ||
+              img.getAttribute('data-original-src') ||
+              img.getAttribute('data-image') ||
+              img.getAttribute('data-image-url') ||
+              img.getAttribute('data-src') ||
+              img.getAttribute('data-lazy-src') ||
+              img.getAttribute('data-original') ||
+              srcsetCandidates[srcsetCandidates.length - 1] ||
+              img.src ||
+              '';
+            if (!src || src.startsWith('data:')) continue;
+
+            const rect = img.getBoundingClientRect();
+            const naturalWidth = Number(img.naturalWidth) || 0;
+            const naturalHeight = Number(img.naturalHeight) || 0;
+            const width = Math.max(rect.width, naturalWidth);
+            const height = Math.max(rect.height, naturalHeight);
+            if (width < 140 || height < 140) continue;
+
+            const alt = String(img.alt || '');
+            const classes = String(img.className || '');
+            const rawHint = [src, alt, classes].join(' ');
+            if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social)/i.test(rawHint)) continue;
+
+            const contexts = [];
+            let node = img;
+            for (let depth = 0; depth < 5 && node; depth++, node = node.parentElement) {
+              const tag = String(node.tagName || '').toLowerCase();
+              const semantic =
+                /^(figure|article|li|a|picture|section)$/i.test(tag) ||
+                node.hasAttribute('data-product') ||
+                node.hasAttribute('data-testid') ||
+                /product|card|gallery|photo|image/i.test(String(node.className || ''));
+              if (semantic) {
+                const text = String(node.textContent || '').replace(/\s+/g, ' ').trim();
+                if (text && text.length <= 900) contexts.push(text);
+              }
+            }
+
+            const context = contexts.join(' ');
+            const hint = normalize([rawHint, context].join(' '));
+            const altNorm = normalize(alt);
+            const srcNorm = normalize(src);
+
+            const tokenHits = pedalTokens.filter(token => hint.includes(token)).length;
+            const altHits = pedalTokens.filter(token => altNorm.includes(token)).length;
+            const srcHits = pedalTokens.filter(token => srcNorm.includes(token)).length;
+            const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+            const exactPhrase = pedalPhrase.length >= 5 && hint.includes(pedalPhrase);
+            const compactExact = phraseCompact.length >= 5 && hint.replace(/\s+/g, '').includes(phraseCompact);
+
+            let score = Math.min(width * height, 1600000) / 1000;
+            score += tokenHits * 120;
+            score += altHits * 90;
+            score += srcHits * 35;
+            score += builderHits * 25;
+            if (exactPhrase) score += 700;
+            if (compactExact) score += 550;
+
+            // Prefer product-card imagery over tiny thumbnails, but do not let a
+            // huge site-background/photo dominate an exact-model match.
+            if (width < 260 || height < 260) score -= 120;
+            if (width > 1800 || height > 1800) score -= 90;
+
+            rows.push({
+              src,
+              score,
+              width,
+              height,
+              exactPhrase,
+              tokenHits,
+              altHits,
+              builderHits,
+              elementIndex: imgIndex
+            });
+          }
+
+          // Some older gallery/card implementations keep the product photo
+          // in CSS background-image or data-background attributes instead of an
+          // <img>. Extract those rendered image URLs too, then let the same
+          // exact-model identity ranking and image-content verification decide.
+          for (const [bgIndex, node] of [...document.querySelectorAll('[style*="background-image"], [data-background], [data-bg], [data-background-image]')].entries()) {
+            const style = getComputedStyle(node);
+            const rawBackground = [
+              style.backgroundImage || '',
+              node.getAttribute('data-background') || '',
+              node.getAttribute('data-bg') || '',
+              node.getAttribute('data-background-image') || ''
+            ].join(' ');
+            const urls = [...rawBackground.matchAll(/url\((?:"|')?([^"')]+)(?:"|')?\)/gi)].map(m => m[1]);
+            if (!urls.length) continue;
+            const rect = node.getBoundingClientRect();
+            const width = Math.max(rect.width, Number(node.scrollWidth) || 0);
+            const height = Math.max(rect.height, Number(node.scrollHeight) || 0);
+            if (width < 140 || height < 140) continue;
+            const context = String(node.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 900);
+            const rawHint = [context, node.className || '', node.getAttribute('aria-label') || '', node.getAttribute('title') || '', ...urls].join(' ');
+            if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social)/i.test(rawHint)) continue;
+            const hint = normalize(rawHint);
+            const tokenHits = pedalTokens.filter(token => hint.includes(token)).length;
+            const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+            const exactPhrase = pedalPhrase.length >= 5 && hint.includes(pedalPhrase);
+            for (const rawSrc of urls) {
+              let src = rawSrc;
+              try { src = new URL(rawSrc, location.href).href; } catch {}
+              if (!/^https?:/i.test(src)) continue;
+              let score = Math.min(width * height, 1600000) / 1000 + 70 + tokenHits * 120 + builderHits * 25;
+              if (exactPhrase) score += 700;
+              rows.push({ src, score, width, height, exactPhrase, tokenHits, altHits: 0, builderHits, backgroundImage: true, bgIndex });
+            }
+          }
+
+          // Modern product pages often keep the canonical product photo
+          // in JSON-LD instead of the visible DOM. Extract image/contentUrl/
+          // thumbnailUrl values while carrying the object's product name,
+          // description, and brand into the same exact-model scoring model.
+          for (const [jsonIndex, script] of [...document.querySelectorAll('script[type="application/ld+json"]')].entries()) {
+            const rawJson = String(script.textContent || '').trim();
+            if (!rawJson) continue;
+            let parsed;
+            try { parsed = JSON.parse(rawJson); } catch { continue; }
+            const objects = [];
+            const visit = value => {
+              if (!value || typeof value !== 'object') return;
+              if (Array.isArray(value)) {
+                for (const child of value) visit(child);
+                return;
+              }
+              objects.push(value);
+              for (const child of Object.values(value)) {
+                if (child && typeof child === 'object') visit(child);
+              }
+            };
+            visit(parsed);
+
+            for (const obj of objects) {
+              const contextValues = [
+                obj.name,
+                obj.description,
+                typeof obj.brand === 'string' ? obj.brand : obj.brand?.name,
+                obj.model,
+                obj.sku,
+                obj.productID,
+                obj.caption
+              ].filter(Boolean).map(String);
+              const context = contextValues.join(' ');
+              const rawImages = [];
+              const collectImage = value => {
+                if (!value) return;
+                if (typeof value === 'string') {
+                  rawImages.push(value);
+                  return;
+                }
+                if (Array.isArray(value)) {
+                  for (const child of value) collectImage(child);
+                  return;
+                }
+                if (typeof value === 'object') {
+                  collectImage(value.url);
+                  collectImage(value.contentUrl);
+                  collectImage(value.thumbnailUrl);
+                }
+              };
+              collectImage(obj.image);
+              collectImage(obj.images);
+              if (!rawImages.length) continue;
+
+              const rawHint = [context, ...rawImages].join(' ');
+              if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social)/i.test(rawHint)) continue;
+              const hint = normalize(rawHint);
+              const tokenHits = pedalTokens.filter(token => hint.includes(token)).length;
+              const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+              const exactPhrase = pedalPhrase.length >= 5 && hint.includes(pedalPhrase);
+              const compactExact = phraseCompact.length >= 5 && hint.replace(/\s+/g, '').includes(phraseCompact);
+              for (const rawSrc of rawImages) {
+                let src = rawSrc;
+                try { src = new URL(rawSrc, location.href).href; } catch {}
+                if (!/^https?:/i.test(src)) continue;
+                let score = 120 + tokenHits * 130 + builderHits * 35;
+                if (exactPhrase) score += 850;
+                if (compactExact) score += 600;
+                if (obj['@type'] === 'Product' || /product/i.test(String(obj['@type'] || ''))) score += 250;
+                rows.push({
+                  src,
+                  score,
+                  width: 0,
+                  height: 0,
+                  exactPhrase,
+                  tokenHits,
+                  altHits: 0,
+                  builderHits,
+                  jsonLd: true,
+                  jsonLdImage: true,
+                  jsonIndex
+                });
+              }
+            }
+          }
+
+          // Effects Database and older archive pages sometimes expose the
+          // actual product photograph as an image link without rendering a
+          // corresponding <img> node. Treat image-file anchors as candidates,
+          // using the surrounding link/card text for exact-model scoring.
+          for (const [linkIndex, link] of [...document.querySelectorAll('a[href]')].entries()) {
+            const href = link.href || '';
+            if (!/^https?:/i.test(href) || !/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(href)) continue;
+            const text = String(link.textContent || '').replace(/\s+/g, ' ').trim();
+            const title = String(link.title || link.getAttribute('aria-label') || '').trim();
+            const rawHint = [href, text, title].join(' ');
+            if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social)/i.test(rawHint)) continue;
+            const hint = normalize(rawHint);
+            const tokenHits = pedalTokens.filter(token => hint.includes(token)).length;
+            const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+            const exactPhrase = pedalPhrase.length >= 5 && hint.includes(pedalPhrase);
+            const compactExact = phraseCompact.length >= 5 && hint.replace(/\s+/g, '').includes(phraseCompact);
+            let score = 85 + tokenHits * 120 + builderHits * 25;
+            if (exactPhrase) score += 700;
+            if (compactExact) score += 550;
+            rows.push({
+              src: href,
+              score,
+              width: 0,
+              height: 0,
+              exactPhrase,
+              tokenHits,
+              altHits: 0,
+              builderHits,
+              linkedImage: true,
+              linkIndex
+            });
+          }
+
+          return rows
+            .sort((a, b) =>
+              b.score - a.score ||
+              Number(b.exactPhrase) - Number(a.exactPhrase) ||
+              b.tokenHits - a.tokenHits ||
+              b.width * b.height - a.width * a.height
+            )
+            .slice(0, 12);
+        }, { pedalPhrase, pedalTokens, builderTokens });
+
+        // Keep embedded CDN URLs in the same candidate pool. They come from
+        // the already identity-verified page itself, so they remain source-page
+        // evidence rather than an unverified search-engine substitution.
+        candidates.unshift(...embeddedImageCandidates);
+
+        const matches = page.locator('img');
+        const count = await matches.count();
+        const backgroundMatches = page.locator('[style*="background-image"], [data-background], [data-bg], [data-background-image]');
+        const backgroundCount = await backgroundMatches.count();
+        const linkMatches = page.locator('a[href]');
+        const linkCount = await linkMatches.count();
+
+        // Reverb product galleries frequently expose the primary pedal photo as
+        // a direct rvb-img link around the rendered image. Prefer that exact
+        // link when its surrounding alt/text matches the verified pedal identity.
+        if (isReverbListing) {
+          // Reverb frequently exposes only small gallery thumbnails on the
+          // listing surface. Open the first exact-listing gallery thumbnail so
+          // the lightbox/expanded image becomes available to Chromium.
+          try {
+            const galleryTargets = await page.locator('img').evaluateAll(imgs => imgs
+              .map((img, index) => {
+                const alt = String(img.alt || '').trim();
+                const rect = img.getBoundingClientRect();
+                const parent = img.closest('button, a, [role="button"]');
+                return {
+                  index,
+                  alt,
+                  width: Number(img.naturalWidth) || rect.width || 0,
+                  height: Number(img.naturalHeight) || rect.height || 0,
+                  visible: rect.width >= 40 && rect.height >= 40 &&
+                    rect.bottom >= 0 && rect.right >= 0 &&
+                    rect.top <= window.innerHeight && rect.left <= window.innerWidth,
+                  clickable: Boolean(parent),
+                  galleryLike: /(^|\\s)(image|photo)\\s*\\d+/i.test(alt)
+                };
+              })
+              .filter(x => x.visible && x.clickable && x.galleryLike)
+              .sort((a, b) => a.index - b.index)
+              .slice(0, 4));
+            if (galleryTargets.length) {
+              const first = page.locator('img').nth(galleryTargets[0].index);
+              const clickable = first.locator('xpath=ancestor::*[self::button or self::a or @role="button"][1]');
+              if (await clickable.count()) {
+                await clickable.scrollIntoViewIfNeeded().catch(() => {});
+                await clickable.click({ timeout: 1800, force: true }).catch(() => {});
+                await page.waitForTimeout(500);
+              }
+            }
+          } catch {}
+
+          const expandedCandidates = await page.locator('img').evaluateAll(imgs => imgs
+            .map((img, index) => {
+              const rect = img.getBoundingClientRect();
+              const width = Math.max(rect.width, Number(img.naturalWidth) || 0);
+              const height = Math.max(rect.height, Number(img.naturalHeight) || 0);
+              const visible = rect.width >= 180 && rect.height >= 180 &&
+                rect.bottom >= 0 && rect.right >= 0 &&
+                rect.top <= window.innerHeight && rect.left <= window.innerWidth;
+              const raw = [img.alt || '', img.src || '', img.currentSrc || '', img.className || ''].join(' ');
+              const forbidden = /(logo|avatar|icon|sprite|favicon|banner|badge|payment|social)/i.test(raw);
+              return { index, width, height, visible, forbidden, area: width * height };
+            })
+            .filter(x => x.visible && !x.forbidden && x.width >= 220 && x.height >= 220)
+            .sort((a, b) => b.area - a.area)
+            .slice(0, 6));
+          for (const candidate of expandedCandidates) {
+            const img = page.locator('img').nth(candidate.index);
+            await img.scrollIntoViewIfNeeded().catch(() => {});
+            await page.waitForTimeout(180);
+            const bytes = await img.screenshot({ type: 'png' }).catch(() => null);
+            if (bytes && bytes.length >= 3000) {
+              return {
+                bytes,
+                src: await img.getAttribute('src').catch(() => '') ||
+                  await img.getAttribute('data-src').catch(() => '') || ''
+              };
+            }
+          }
+
+          // Reverb can expose the exact listing photos as image links without
+          // useful pedal text on the link itself. The listing page has already
+          // passed exact-model identity verification, so rank its rendered
+          // rvb-img links by where they appear relative to the verified H1.
+          const h1Box = await page.locator('h1').first().boundingBox().catch(() => null);
+          const reverbImageLinks = page.locator('a[href*="rvb-img.reverb.com"], a[href*="static.reverb-assets.com"]');
+          const reverbLinkCount = await reverbImageLinks.count();
+          const rankedRenderedLinks = [];
+          for (let i = 0; i < reverbLinkCount; i++) {
+            const link = reverbImageLinks.nth(i);
+            const info = await link.evaluate(el => {
+              const img = el.querySelector('img');
+              const rect = el.getBoundingClientRect();
+              let promoted = false;
+              let node = el;
+              for (let depth = 0; depth < 6 && node; depth++, node = node.parentElement) {
+                const text = String(node.textContent || '').replace(/\s+/g, ' ').trim().toLowerCase();
+                if (text.includes('promoted similar listings') || text.includes('similar gear from other reverb sellers')) {
+                  promoted = true;
+                  break;
+                }
+              }
+              return {
+                href: el.href || '',
+                alt: img?.alt || '',
+                width: img?.naturalWidth || rect.width || 0,
+                height: img?.naturalHeight || rect.height || 0,
+                top: rect.top,
+                promoted
+              };
+            }).catch(() => null);
+            if (!info?.href || info.promoted) continue;
+            if (!/^https:\/\/(?:rvb-img\.reverb\.com|static\.reverb-assets\.com)\//i.test(info.href)) continue;
+            if (info.width < 220 || info.height < 220) continue;
+            if (h1Box && info.top < h1Box.y + h1Box.height - 40) continue;
+            rankedRenderedLinks.push({ index: i, info });
+          }
+
+          rankedRenderedLinks.sort((a, b) =>
+            (b.info.width * b.info.height) - (a.info.width * a.info.height) ||
+            a.info.top - b.info.top
+          );
+
+          for (const candidateLink of rankedRenderedLinks.slice(0, 4)) {
+            const link = reverbImageLinks.nth(candidateLink.index);
+            await link.scrollIntoViewIfNeeded().catch(() => {});
+            await page.waitForTimeout(350);
+            const img = link.locator('img').first();
+            const bytes = await (await img.count()
+              ? img.screenshot({ type: 'png' })
+              : link.screenshot({ type: 'png' })
+            ).catch(() => null);
+            if (bytes && bytes.length >= 3000) {
+              return { bytes, src: candidateLink.info.href };
+            }
+          }
+
+          // Fallback to the older semantic-text gate when the listing has not
+          // exposed a large rendered image yet.
+
+          // Reuse the gallery link count declared above in this listing scope.
+          const pedalNorm = normalizedIdentity(entry.pedal);
+          const builderNorm = normalizedIdentity(entry.company);
+
+          for (let i = 0; i < reverbLinkCount; i++) {
+            const link = reverbImageLinks.nth(i);
+            const evidence = await link.evaluate(el => {
+              const img = el.querySelector('img');
+              return {
+                href: el.href || '',
+                alt: img?.alt || '',
+                text: (el.textContent || '').replace(/\s+/g, ' ').trim(),
+                width: img?.naturalWidth || 0,
+                height: img?.naturalHeight || 0
+              };
+            }).catch(() => null);
+            if (!evidence?.href || !/^https:\/\/(?:rvb-img\.reverb\.com|static\.reverb-assets\.com)\//i.test(evidence.href)) continue;
+
+            const hint = normalizedIdentity([evidence.alt, evidence.text, evidence.href].join(' '));
+            const pedalHits = identityTokens(entry.pedal).filter(token => hint.includes(token)).length;
+            const builderHits = identityTokens(entry.company).filter(token => hint.includes(token)).length;
+            const exactPedal = pedalNorm.length >= 5 && hint.includes(pedalNorm);
+            const exactBuilder = builderNorm.length >= 5 && hint.includes(builderNorm);
+            if (!exactPedal && pedalHits < (identityTokens(entry.pedal).length >= 2 ? 2 : 1)) continue;
+            if (exactBuilder || builderHits) {
+              await link.scrollIntoViewIfNeeded().catch(() => {});
+              await page.waitForTimeout(220);
+              const bytes = await link.screenshot({ type: 'png' }).catch(() => null);
+              if (bytes && bytes.length >= 3000) {
+                return { bytes, src: evidence.href };
+              }
+            }
+          }
+        }
+
+        // A verified product page can expose its canonical product photograph
+        // only through og:image/twitter:image metadata. When the CDN blocks the
+        // workflow's direct request, render that exact URL in the verified page
+        // context and capture the resulting image element.
+        for (const candidate of candidates) {
+          if (candidate.jsonLdImage) {
+            try {
+              const capture = await page.evaluate(async src => {
+                const old = document.querySelector('[data-dirt-archive-jsonld-capture="1"]');
+                old?.remove();
+                const img = document.createElement('img');
+                img.setAttribute('data-dirt-archive-jsonld-capture', '1');
+                img.src = src;
+                img.alt = '';
+                img.style.position = 'fixed';
+                img.style.left = '8px';
+                img.style.top = '8px';
+                img.style.zIndex = '2147483647';
+                img.style.maxWidth = 'calc(100vw - 16px)';
+                img.style.maxHeight = 'calc(100vh - 16px)';
+                img.style.width = 'auto';
+                img.style.height = 'auto';
+                img.style.objectFit = 'contain';
+                img.style.background = '#fff';
+                document.body.appendChild(img);
+                await new Promise(resolve => {
+                  if (img.complete) return resolve();
+                  img.addEventListener('load', resolve, { once: true });
+                  img.addEventListener('error', resolve, { once: true });
+                  setTimeout(resolve, 2200);
+                });
+                return {
+                  width: Number(img.naturalWidth) || 0,
+                  height: Number(img.naturalHeight) || 0
+                };
+              }, candidate.url).catch(() => null);
+              if ((capture?.width || 0) >= 140 && (capture?.height || 0) >= 140) {
+                const node = page.locator('[data-dirt-archive-jsonld-capture="1"]').first();
+                await node.scrollIntoViewIfNeeded().catch(() => {});
+                await page.waitForTimeout(180);
+                const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+                await page.evaluate(() => document.querySelector('[data-dirt-archive-jsonld-capture="1"]')?.remove()).catch(() => {});
+                if (bytes && bytes.length >= 3000) {
+                  return { bytes, src: candidate.url };
+                }
+              } else {
+                await page.evaluate(() => document.querySelector('[data-dirt-archive-jsonld-capture="1"]')?.remove()).catch(() => {});
+              }
+            } catch {}
+          }
+        }
+
+        for (const candidate of candidates) {
+          if (candidate.metaImage) {
+            try {
+              const capture = await page.evaluate(async src => {
+                const old = document.querySelector('[data-dirt-archive-meta-capture="1"]');
+                old?.remove();
+                const img = document.createElement('img');
+                img.setAttribute('data-dirt-archive-meta-capture', '1');
+                img.src = src;
+                img.alt = '';
+                img.style.position = 'fixed';
+                img.style.left = '8px';
+                img.style.top = '8px';
+                img.style.zIndex = '2147483647';
+                img.style.maxWidth = 'calc(100vw - 16px)';
+                img.style.maxHeight = 'calc(100vh - 16px)';
+                img.style.width = 'auto';
+                img.style.height = 'auto';
+                img.style.objectFit = 'contain';
+                img.style.background = '#fff';
+                document.body.appendChild(img);
+                await new Promise(resolve => {
+                  if (img.complete) return resolve();
+                  img.addEventListener('load', resolve, { once: true });
+                  img.addEventListener('error', resolve, { once: true });
+                  setTimeout(resolve, 2200);
+                });
+                return {
+                  width: Number(img.naturalWidth) || 0,
+                  height: Number(img.naturalHeight) || 0
+                };
+              }, candidate.url).catch(() => null);
+              if ((capture?.width || 0) >= 140 && (capture?.height || 0) >= 140) {
+                const node = page.locator('[data-dirt-archive-meta-capture="1"]').first();
+                await node.scrollIntoViewIfNeeded().catch(() => {});
+                await page.waitForTimeout(180);
+                const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+                await page.evaluate(() => document.querySelector('[data-dirt-archive-meta-capture="1"]')?.remove()).catch(() => {});
+                if (bytes && bytes.length >= 3000) {
+                  return { bytes, src: candidate.url };
+                }
+              } else {
+                await page.evaluate(() => document.querySelector('[data-dirt-archive-meta-capture="1"]')?.remove()).catch(() => {});
+              }
+            } catch {}
+          }
+        }
+
+        // Some source pages expose a valid exact image URL in rendered HTML
+        // without a matching DOM <img>. Render those embedded URLs inside the
+        // verified page context and capture the image element directly.
+        for (const candidate of candidates) {
+          if (!candidate.embeddedImage) continue;
+          try {
+            const capture = await page.evaluate(async src => {
+              document.querySelector('[data-dirt-archive-embedded-capture="1"]')?.remove();
+              const img = document.createElement('img');
+              img.setAttribute('data-dirt-archive-embedded-capture', '1');
+              img.src = src;
+              img.alt = '';
+              img.style.position = 'fixed';
+              img.style.left = '8px';
+              img.style.top = '8px';
+              img.style.zIndex = '2147483647';
+              img.style.maxWidth = 'calc(100vw - 16px)';
+              img.style.maxHeight = 'calc(100vh - 16px)';
+              img.style.width = 'auto';
+              img.style.height = 'auto';
+              img.style.objectFit = 'contain';
+              img.style.background = '#fff';
+              document.body.appendChild(img);
+              await new Promise(resolve => {
+                if (img.complete) return resolve();
+                img.addEventListener('load', resolve, { once: true });
+                img.addEventListener('error', resolve, { once: true });
+                setTimeout(resolve, 2500);
+              });
+              return {
+                width: Number(img.naturalWidth) || 0,
+                height: Number(img.naturalHeight) || 0
+              };
+            }, candidate.url).catch(() => null);
+            if ((capture?.width || 0) >= 220 && (capture?.height || 0) >= 220) {
+              const node = page.locator('[data-dirt-archive-embedded-capture="1"]').first();
+              const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+              await page.evaluate(() => document.querySelector('[data-dirt-archive-embedded-capture="1"]')?.remove()).catch(() => {});
+              if (bytes && bytes.length >= 3000) {
+                return { bytes, src: candidate.url };
+              }
+            } else {
+              await page.evaluate(() => document.querySelector('[data-dirt-archive-embedded-capture="1"]')?.remove()).catch(() => {});
+            }
+          } catch {}
+        }
+
+        // Capture the exact DOM element that was scored above. Gallery hydration
+        // can replace currentSrc/src after scrolling, so re-matching on the old
+        // URL can silently discard a perfectly good exact-model photo.
+        for (const candidate of candidates) {
+          if (Number.isInteger(candidate.elementIndex) &&
+              candidate.elementIndex >= 0 &&
+              candidate.elementIndex < count) {
+            const img = matches.nth(candidate.elementIndex);
+            await img.scrollIntoViewIfNeeded().catch(() => {});
+            await page.waitForTimeout(220);
+
+            const bytes = await img.screenshot({ type: 'png' }).catch(() => null);
+            if (bytes && bytes.length >= 3000) {
+              return { bytes, src: candidate.src };
+            }
+          }
+
+          // CSS-background galleries can expose the exact photograph without
+          // an <img>. Chromium can still render the background even when the
+          // underlying CDN URL rejects a direct request, so capture the exact
+          // scored background element as rendered.
+          if (Number.isInteger(candidate.bgIndex) &&
+              candidate.bgIndex >= 0 &&
+              candidate.bgIndex < backgroundCount &&
+              candidate.backgroundImage) {
+            const node = backgroundMatches.nth(candidate.bgIndex);
+            await node.scrollIntoViewIfNeeded().catch(() => {});
+            await page.waitForTimeout(220);
+            const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+            if (bytes && bytes.length >= 3000) {
+              return { bytes, src: candidate.src };
+            }
+          }
+
+          // Some archive/database pages expose the exact photograph only as an
+          // image-file anchor. Chromium may render the linked asset even when a
+          // direct HTTP request is blocked, so capture that exact anchor.
+          if (candidate.linkedImage) {
+            let link = null;
+            if (Number.isInteger(candidate.linkIndex) &&
+                candidate.linkIndex >= 0 &&
+                candidate.linkIndex < linkCount) {
+              link = linkMatches.nth(candidate.linkIndex);
+            } else {
+              link = page.locator('a[href="' + candidate.src.replace(/"/g, '\"') + '"]').first();
+            }
+            if (link && await link.count()) {
+              await link.scrollIntoViewIfNeeded().catch(() => {});
+              await page.waitForTimeout(220);
+              const linkBytes = await link.screenshot({ type: 'png' }).catch(() => null);
+              if (linkBytes && linkBytes.length >= 3000) {
+                return { bytes: linkBytes, src: candidate.src };
+              }
+            }
+          }
+        }
+      } catch {}
+      return null;
+    }
+    // First trust only candidates discovered on the already-verified source page.
+    let selectedResult = await tryImages(
+      ranked.filter(candidate => !candidate.searchResult)
+    );
+
+    if (!selectedResult) {
+      const sourcePages = [...new Set([
+        sourcePageUsed,
+        // Keep the original research source as a bounded fallback. Older catalog
+        // records can have a better research/source page than their current image
+        // lead, and discarding it made a blocked curated page an unnecessary dead
+        // end.
+        entry.source_page,
+        entry.image_source_page,
+        ...ranked
+          .filter(candidate => !candidate.searchResult && candidate.sourcePage)
+          .map(candidate => candidate.sourcePage)
+      ].filter(Boolean))].slice(0, 4);
+
+      for (const sourcePage of sourcePages) {
+        const shot = await screenshotVerifiedSourcePageImage(sourcePage);
+        if (shot) {
+          diagnostic.sourceScreenshotCaptured = true;
+          selectedResult = {
+            candidate: {
+              url: shot.src,
+              sourcePage,
+              sourceScore: 115
+            },
+            bytes: shot.bytes
+          };
+          break;
+        }
+      }
+    }
+
+    // If an explicit source page was provided but yielded no usable image,
+    // fall back to a fresh maker-site search. This preserves the curated-page
+    // priority without letting a stale/broken source page become a dead end.
+    if (!selectedResult && hasExplicitSourcePage) {
+      try {
+        diagnostic.makerFallbackTried = true;
+        const makerCandidates = await makerWebCandidates(page, entry);
+        selectedResult = await tryImages(makerCandidates);
+      } catch {}
+    }
+
+    // Search is a fallback, not the primary source. Verify the result page identity
+    // before accepting its image so a visually similar pedal cannot slip through.
+    async function screenshotVerifiedSearchImage(candidate) {
+      if (!candidate?.searchResult || !candidate.searchUrl || !candidate.murl) return null;
+      try {
+        await page.goto(candidate.searchUrl, { waitUntil: 'domcontentloaded', timeout: SEARCH_TIMEOUT });
+        await page.waitForTimeout(500);
+        const cards = page.locator('a.iusc');
+        const count = await cards.count();
+        for (let i = 0; i < Math.min(count, 12); i++) {
+          const card = cards.nth(i);
+          const raw = await card.getAttribute('m').catch(() => null);
+          if (!raw) continue;
+          let meta = null;
+          try { meta = JSON.parse(raw); } catch {}
+          if (!meta || meta.murl !== candidate.murl) continue;
+          await card.scrollIntoViewIfNeeded().catch(() => {});
+          await page.waitForTimeout(250);
+          const img = card.locator('img').first();
+          if (await img.count()) {
+            const bytes = await img.screenshot({ type: 'png' });
+            if (bytes.length >= 3000) return bytes;
+          }
+        }
+      } catch {}
+      return null;
+    }
+
+    // Reverb sold listings are the preferred marketplace source for hard cases.
+    // Reverb's Sold Listings filter exposes previously sold listings, and Reverb
+    // requires listing photos to show the exact item being sold. Verify the listing
+    // identity first, then harvest its actual listing photos.
+    if (!selectedResult && IMAGE_SEARCH_ENABLED) {
+      const soldResults = await reverbSoldCandidates(page, entry, deepReview);
+      diagnostic.soldCandidates = soldResults.length;
+      const verifiedSold = [];
+
+      const verifyLimit = deepReview ? Math.min(4, SEARCH_VERIFY_LIMIT) : SEARCH_VERIFY_LIMIT;
+
+      for (const result of soldResults.slice(0, verifyLimit)) {
+        const searchIdentity = normalizedIdentity((result.title || '') + ' ' + result.purl);
+        const pedalTokens = identityTokens(entry.pedal);
+        const builderTokens = identityTokens(entry.company);
+        const pedalHits = pedalTokens.filter(token => searchIdentity.includes(token)).length;
+        const builderHits = builderTokens.filter(token => searchIdentity.includes(token)).length;
+        const requiredHits = pedalTokens.length >= 2 ? 2 : 1;
+
+        // The listing title/URL is only a fast model-name prefilter. Reverb
+        // listing pages are verified below, where the builder/brand is present
+        // in the actual listing metadata/body. Requiring the builder here was
+        // too strict and rejected legitimate sold listings whose titles omit it.
+        if (pedalHits < requiredHits) continue;
+
+        try {
+          const networkStart = networkImageUrls.length;
+          await page.goto(result.purl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+          await page.waitForTimeout(500);
+
+          const title = await page.title().catch(() => '');
+          const h1 = await page.locator('h1').first().textContent().catch(() => '');
+          const body = await page.locator('body').textContent().catch(() => '');
+          const identity = { title, h1, body };
+
+          if (
+            !pageMatchesIdentity(entry, title + ' ' + body, h1) &&
+            !reverbListingMatchesIdentity(entry, result.purl, title, h1)
+          ) continue;
+
+          const imageData = await page.evaluate(() => {
             const urls = [];
             for (const selector of [
               'meta[property="og:image"]',
@@ -1250,8 +2173,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
                     url,
                     sourcePage: result.purl,
                     sourceScore: 180,
-                    searchResult: false,
-                    soldResult: true
+                    searchResult: false
                   });
                 }
               } catch {}
@@ -1316,8 +2238,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
               sourcePage: result.purl,
               sourceScore: (trustedDatabase ? 125 : 105) + Math.min(70, fit.score),
               searchResult: true,
-              searchUrl: result.searchUrl,
-              soldResult: false
+              searchUrl: result.searchUrl
             });
             continue;
           }
