@@ -1310,6 +1310,52 @@ async function recoverEntry(browser, entry, deepReview = false) {
       return null;
     }
 
+    async function screenshotDirectImageCandidate(candidate) {
+      if (!candidate?.directImageOverride || !candidate.url) return null;
+      try {
+        const capture = await page.evaluate(async src => {
+          document.querySelector('[data-dirt-archive-direct-capture="1"]')?.remove();
+          const img = document.createElement('img');
+          img.setAttribute('data-dirt-archive-direct-capture', '1');
+          img.src = src;
+          img.alt = '';
+          img.style.position = 'fixed';
+          img.style.left = '8px';
+          img.style.top = '8px';
+          img.style.zIndex = '2147483647';
+          img.style.maxWidth = 'calc(100vw - 16px)';
+          img.style.maxHeight = 'calc(100vh - 16px)';
+          img.style.width = 'auto';
+          img.style.height = 'auto';
+          img.style.objectFit = 'contain';
+          img.style.background = '#fff';
+          document.body.appendChild(img);
+          await new Promise(resolve => {
+            if (img.complete) return resolve();
+            img.addEventListener('load', resolve, { once: true });
+            img.addEventListener('error', resolve, { once: true });
+            setTimeout(resolve, 3000);
+          });
+          return {
+            width: Number(img.naturalWidth) || 0,
+            height: Number(img.naturalHeight) || 0
+          };
+        }, candidate.url).catch(() => null);
+
+        if ((capture?.width || 0) >= 140 && (capture?.height || 0) >= 140) {
+          const node = page.locator('[data-dirt-archive-direct-capture="1"]').first();
+          await node.scrollIntoViewIfNeeded().catch(() => {});
+          await page.waitForTimeout(180);
+          const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+          await page.evaluate(() => document.querySelector('[data-dirt-archive-direct-capture="1"]')?.remove()).catch(() => {});
+          if (bytes && bytes.length >= 3000) return { bytes, src: candidate.url };
+        } else {
+          await page.evaluate(() => document.querySelector('[data-dirt-archive-direct-capture="1"]')?.remove()).catch(() => {});
+        }
+      } catch {}
+      return null;
+    }
+
     // A verified source page can display the exact pedal photo even when its
     // image URL returns a block/403/500 to a direct request. Capture the rendered
     // photo from the already identity-verified page instead of substituting a
@@ -2026,6 +2072,24 @@ async function recoverEntry(browser, entry, deepReview = false) {
     let selectedResult = await tryImages(
       ranked.filter(candidate => !candidate.searchResult)
     );
+
+    // Curated direct-image overrides are already exact-model evidence. When
+    // the HTTP request layer returns 401/403/500, let Chromium render that
+    // exact URL inside the verified source-page context and capture the image
+    // element instead of discarding an otherwise valid direct lead.
+    if (!selectedResult) {
+      for (const candidate of ranked.filter(candidate => candidate.directImageOverride).slice(0, 8)) {
+        const shot = await screenshotDirectImageCandidate(candidate);
+        if (shot) {
+          selectedResult = {
+            candidate,
+            bytes: shot.bytes
+          };
+          diagnostic.sourceScreenshotCaptured = true;
+          break;
+        }
+      }
+    }
 
     if (!selectedResult) {
       const sourcePages = [...new Set([
