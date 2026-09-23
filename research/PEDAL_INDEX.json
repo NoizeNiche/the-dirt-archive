@@ -5966,7 +5966,12 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 322
+      "image_source_priority": 322,
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--4N0bxT25--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgdoay9xz6akmnqmyxvq.jpg",
+        "https://rvb-img.reverb.com/i/s--NTY6ELdE--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/chlevl84qcyazu8gngz9.jpg",
+        "https://rvb-img.reverb.com/i/s--2Sbp5rIH--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/duwrwjhrxugjujvdnwkr.jpg"
+      ]
     },
     {
       "company": "Barber Electronics",
