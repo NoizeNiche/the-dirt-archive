@@ -1408,16 +1408,32 @@ async function recoverEntry(browser, entry, deepReview = false) {
           ? await effectsDatabaseFeedImageUrls(page, pageUrl)
           : [];
 
+        const legacyFeedSet = new Set(legacyFeedImages);
         for (const raw of [...imageData, ...richImageData, ...legacyFeedImages]) {
-          for (const part of raw.split(/\s+/)) {
+          for (const part of String(raw).split(/\s+/)) {
             if (/^https?:/i.test(part)) {
-              candidates.push({ url: part, sourcePage: pageUrl, sourceScore: 90 });
+              const legacyExactImage =
+                legacyFeedSet.has(part) &&
+                /([.]|^)effectsdatabase[.]com$/i.test(new URL(part).hostname) &&
+                /\/gear\/(?:pics|thumbs)\//i.test(new URL(part).pathname);
+              candidates.push({
+                url: part,
+                sourcePage: pageUrl,
+                sourceScore: legacyExactImage ? 125 : 90,
+                rawVerifiedPageImage: legacyExactImage
+              });
             } else if (part && !part.includes('x') && !part.startsWith('data:')) {
               try {
+                const absolute = new URL(part, pageUrl).href;
+                const legacyExactImage =
+                  legacyFeedSet.has(part) &&
+                  /([.]|^)effectsdatabase[.]com$/i.test(new URL(absolute).hostname) &&
+                  /\/gear\/(?:pics|thumbs)\//i.test(new URL(absolute).pathname);
                 candidates.push({
-                  url: new URL(part, pageUrl).href,
+                  url: absolute,
                   sourcePage: pageUrl,
-                  sourceScore: 90
+                  sourceScore: legacyExactImage ? 125 : 90,
+                  rawVerifiedPageImage: legacyExactImage
                 });
               } catch {}
             }
