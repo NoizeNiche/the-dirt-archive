@@ -1272,6 +1272,26 @@ async function recoverEntry(browser, entry, deepReview = false) {
               const bytes = Buffer.from(await response.arrayBuffer());
               if (bytes.length >= 3000) return { candidate, bytes };
             }
+
+            // Last transport fallback for curated exact image URLs: retrieve the
+            // same source image through an image-only proxy. The candidate URL
+            // remains the original source URL, so provenance is not rewritten and
+            // only exact, identity-verified photos can enter the archive.
+            try {
+              const proxyUrl = 'https://images.weserv.nl/?url=' + encodeURIComponent(candidate.url);
+              const proxyResponse = await fetch(proxyUrl, {
+                headers: { 'user-agent': headers['user-agent'], accept: 'image/*' },
+                redirect: 'follow'
+              });
+              const proxyType = String(proxyResponse.headers.get('content-type') || '').toLowerCase();
+              if (proxyResponse.ok && proxyType.startsWith('image/')) {
+                const bytes = Buffer.from(await proxyResponse.arrayBuffer());
+                if (bytes.length >= 3000) {
+                  diagnostic.directImageProxyUsed = true;
+                  return { candidate, bytes };
+                }
+              }
+            } catch {}
           } catch {}
 
           // Some CDNs permit the URL in a real browser navigation but reject
