@@ -5705,12 +5705,13 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/updates/weekly/20120910",
       "research_record": "./research/pedals/Baddy One Shoe Pedals/Infinity Drive.md",
-      "image_source_page": "https://www.talkbass.com/threads/what-is-your-pedalboard-settup.795954/",
+      "image_source_page": "https://www.talkbass.com/threads/whats-coming-and-going-ix-pedals-come-in-pedals-go-out-never-a-miscommunication.795982/",
       "image_source_page_verified": true,
-      "image_source_priority": 478,
+      "image_source_priority": 482,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/baddyoneshoe/infinitydrive",
-        "https://www.talkbass.com/threads/what-is-your-pedalboard-settup.795954/"
+        "https://www.talkbass.com/threads/what-is-your-pedalboard-settup.795954/",
+        "https://www.talkbass.com/threads/whats-coming-and-going-ix-pedals-come-in-pedals-go-out-never-a-miscommunication.795982/"
       ],
       "image_source_pages_verified": true
     },
@@ -13710,13 +13711,16 @@
       ],
       "source_page": "https://www.effectsdatabase.com/model/byoc",
       "research_record": "./research/pedals/PRP Batch 129/e-s-v-fuzz.md",
-      "image_source_page": "https://reverb.com/en-fr/item/77404996-b-y-o-c-e-s-v-fuzz-germanium-version-pre-built-pedal",
+      "image_source_page": "https://en.audiofanzine.com/fuzz-pedal/build-your-own-clone/e-s-v-fuzz/",
       "image_source_page_verified": true,
-      "image_source_priority": 112,
+      "image_source_priority": 483,
       "image_source_pages": [
-        "https://reverb.com/en-fr/item/77404996-b-y-o-c-e-s-v-fuzz-germanium-version-pre-built-pedal"
+        "https://reverb.com/en-fr/item/77404996-b-y-o-c-e-s-v-fuzz-germanium-version-pre-built-pedal",
+        "https://en.audiofanzine.com/fuzz-pedal/build-your-own-clone/e-s-v-fuzz/"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://img.audiofanzine.com/images/u/manufacturer/normal/4441.jpg",
+      "image": "./assets/pedals/build-your-own-clone/e-s-v-fuzz/primary.webp"
     },
     {
       "company": "Build Your Own Clone",
