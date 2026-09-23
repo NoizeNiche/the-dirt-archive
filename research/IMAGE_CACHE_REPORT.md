@@ -1,22 +1,18 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
+- Cached in this run: **0**
 - Staged browser photos converted: **1**
-- Local images retained/reorganized: **0**
-- Download failures: **10**
-- Remaining tracker photo backlog: **2768**
-- Researched, photo pending: **223**
-- External source images awaiting localization: **10**
+- Local images retained/reorganized: **1**
+- Download failures: **9**
+- Remaining tracker photo backlog: **2767**
+- Researched, photo pending: **222**
+- External source images awaiting localization: **9**
 
 ## Storage layout
 
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Audiostorm - Otherworld Overdrive -> `./assets/pedals/audiostorm/otherworld-overdrive/primary.webp`
 
 ## Still external / failed
 
@@ -25,7 +21,6 @@
 - Airis Effects - Solar Flare Overdrive: https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg`)
 - Amptweaker - Tight Drive Jr: https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg`)
 - Asheville Guitar Pedals - Purr Machine Mini Fuzz Overdriver: https://rvb-img.reverb.com/i/s--oiUsZm4Y--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kh1kb9chvjin9p3ov8d3.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--oiUsZm4Y--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/kh1kb9chvjin9p3ov8d3.jpg`)
-- Asheville Guitar Pedals - Rat King: https://rvb-img.reverb.com/i/s--R9Ok8B28--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/a7bc35c8-94df-4de1-852a-00e1225e5486.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--R9Ok8B28--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/a7bc35c8-94df-4de1-852a-00e1225e5486.jpg`)
 - Bad Penny FX - The Fuzz Controller V2: https://rvb-img.reverb.com/image/upload/s--E8djf9MD--/t_card-square/v1603730743/rzj7uzm62ghqsfvgxyqb.jpg: HTTP Error 401: Unauthorized (`https://rvb-img.reverb.com/image/upload/s--E8djf9MD--/t_card-square/v1603730743/rzj7uzm62ghqsfvgxyqb.jpg`)
 - Barber Electronics - B-Custom Dual Discrete: https://rvb-img.reverb.com/i/s--4N0bxT25--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgdoay9xz6akmnqmyxvq.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--4N0bxT25--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgdoay9xz6akmnqmyxvq.jpg`)
 - BearFoot FX - Bone Bender MKI Fuzz: https://rvb-img.reverb.com/i/s--6H63sI1H--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zactb0lkodoygtxa9sjk.png: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--6H63sI1H--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zactb0lkodoygtxa9sjk.png`)
