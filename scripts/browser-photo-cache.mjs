@@ -2319,14 +2319,35 @@ async function recoverEntry(browser, entry, deepReview = false) {
               body: await page.locator('body').textContent().catch(() => '')
             };
           }
-          if (!pageMatchesSearchIdentity(entry, identity.title, identity.h1)) continue;
-          verifiedSearch.push({
-            url: result.murl,
-            sourcePage: result.purl,
-            sourceScore: 45 + Math.min(70, fit.score),
-            searchResult: true,
-            searchUrl: result.searchUrl
-          });
+          if (identity && pageMatchesSearchIdentity(entry, identity.title, identity.h1)) {
+            verifiedSearch.push({
+              url: result.murl,
+              sourcePage: result.purl,
+              sourceScore: 45 + Math.min(70, fit.score),
+              searchResult: true,
+              searchUrl: result.searchUrl
+            });
+            continue;
+          }
+
+          // Deep-review image results can still be exact even when their source
+          // page is blocked to Playwright. In that case require the search result's
+          // own title/URL to prove both the builder and exact pedal model before
+          // allowing the actual image thumbnail to be captured. This is not a
+          // visual guess: the image is still the returned pedal photo, while the
+          // identity gate comes from exact textual model evidence.
+          if (deepReview) {
+            const exactSearchText = String(result.title || '') + ' ' + String(result.purl || '');
+            if (pageMatchesSearchIdentity(entry, exactSearchText, exactSearchText)) {
+              verifiedSearch.push({
+                url: result.murl,
+                sourcePage: result.purl,
+                sourceScore: 70 + Math.min(70, fit.score),
+                searchResult: true,
+                searchUrl: result.searchUrl
+              });
+            }
+          }
         } catch {}
       }
       diagnostic.verifiedSearchCandidates = verifiedSearch.length;
