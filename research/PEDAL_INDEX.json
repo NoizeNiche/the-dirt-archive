@@ -5958,10 +5958,11 @@
       "source_page": "https://reverb.com/item/67970418-barber-ltd-and-super-sport-dual-discrete-2020s",
       "research_record": "./research/pedals/Barber Electronics/B-Custom_Dual_Discrete.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--jYz60n48--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/nbrecmjfigvya6dqut57.jpg",
-      "image_source_page": "https://www.effectsdatabase.com/model/barber/bcustom/dualdiscrete",
+      "image_source_page": "https://reverb.com/item/67970418-barber-ltd-and-super-sport-dual-discrete-2020s",
       "image_source_pages": [
         "https://reverb.com/item/42253176-barber-b-custom-dual-discrete-overdrive",
-        "https://www.effectsdatabase.com/model/barber/bcustom/dualdiscrete"
+        "https://www.effectsdatabase.com/model/barber/bcustom/dualdiscrete",
+        "https://reverb.com/item/67970418-barber-ltd-and-super-sport-dual-discrete-2020s"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
@@ -12237,13 +12238,14 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/brotech-electronics/fatpipe-blues/primary.webp",
       "source_page": "https://www.brotechelectronics.com/effbox/Fatpipe%20manual%202016_08_30.pdf",
       "research_record": "./research/pedals/PRP Batch 118/brotech-electronics-fatpipe-blues.md",
-      "image_source_page": "https://www.brotechelectronics.com/",
-      "image_source_url": "https://www.brotechelectronics.com/effbox/Fatpipe%20manual%202016_08_30.pdf",
+      "image_source_page": "https://www.brotechelectronics.com/all_product_photos.html",
+      "image_source_url": "https://www.brotechelectronics.com/images/IMG_1515.JPG",
       "image_source_pages": [
-        "https://www.brotechelectronics.com/"
+        "https://www.brotechelectronics.com/",
+        "https://www.brotechelectronics.com/all_product_photos.html"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,

@@ -8061,12 +8061,12 @@
   {
     "builder": "Brotech Electronics",
     "pedal": "Fatpipe Blues",
-    "image": null,
+    "image": "./assets/pedals/brotech-electronics/fatpipe-blues/primary.webp",
     "source": null,
     "source_page": "https://www.brotechelectronics.com/effbox/Fatpipe%20manual%202016_08_30.pdf",
     "research_record": "./research/pedals/PRP Batch 118/brotech-electronics-fatpipe-blues.md",
     "image_source_page": "https://www.brotechelectronics.com/effbox/Fatpipe%20manual%202016_08_30.pdf",
-    "image_source_url": "https://www.brotechelectronics.com/effbox/Fatpipe%20manual%202016_08_30.pdf"
+    "image_source_url": "https://www.brotechelectronics.com/images/IMG_1515.JPG"
   },
   {
     "builder": "Brotech Electronics",
