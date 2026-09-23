@@ -206,6 +206,18 @@ def cache_entry_prepare(entry):
                     pass
                 return ("retain", entry, rel_path(target), None)
 
+    # Curated direct-image overrides are authoritative over any legacy
+    # external image URL still stored in the catalog. Prefer the verified
+    # provenance URL before considering the stale public image field.
+    curated_source_url = str(entry.get("image_source_url") or "").strip()
+    if (
+        curated_source_url
+        and entry.get("image_source_page_verified") is True
+        and re.match(r"^https?://", curated_source_url, re.I)
+        and re.search(r"\\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$", curated_source_url, re.I)
+    ):
+        return ("download", entry, target, curated_source_url)
+
     # A photo-pending record can carry a verified provenance URL without
     # advertising that URL as the public runtime image. Use it as the cache
     # source and keep the public image field blank until a local file exists.
