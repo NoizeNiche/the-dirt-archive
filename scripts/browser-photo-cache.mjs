@@ -1010,6 +1010,31 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
             if (result?.ok) body = result.body || '';
           } catch {}
         }
+
+        // Some routed Effects Database feeds only materialize their auction/image
+        // content when Chromium navigates to the feed URL. Use a short-lived page
+        // in the same browser context so this fallback cannot disturb the verified
+        // source page that owns the feed. The feed URL is derived directly from
+        // that exact model page, so it remains inside the same-model provenance
+        // chain rather than becoming a generic web search.
+        if (!body) {
+          let feedPage = null;
+          try {
+            feedPage = await page.context().newPage({ viewport: { width: 1440, height: 1000 } });
+            await feedPage.goto(feedUrl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+            await feedPage.waitForTimeout(650);
+            for (let i = 0; i < 3; i++) {
+              const height = await feedPage.evaluate(() => document.body?.scrollHeight || 0).catch(() => 0);
+              await feedPage.evaluate((height) => window.scrollTo(0, Math.min(height, window.innerHeight * 2)), height).catch(() => {});
+              await feedPage.waitForTimeout(180);
+            }
+            body = await feedPage.content().catch(() => '');
+            if (!body) body = await feedPage.locator('body').textContent().catch(() => '') || '';
+          } catch {} finally {
+            await feedPage?.close().catch(() => {});
+          }
+        }
+
         if (!body) continue;
 
         for (const match of body.matchAll(/<(?:img|source)\b[^>]*(?:src|data-src|data-original|data-lazy-src|srcset)=["']([^"']+)["'][^>]*>/gi)) {
