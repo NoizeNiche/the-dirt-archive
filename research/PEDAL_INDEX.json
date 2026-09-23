@@ -7591,7 +7591,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-ear-nyc/frank/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Frank.md",
       "image_source_page": "https://reverb.com/p/big-ear-pedals-frank",
@@ -7599,12 +7599,14 @@
       "image_source_priority": 463,
       "image_source_pages": [
         "https://reverb.com/uk/p/big-ear-pedals-frank",
-        "https://reverb.com/p/big-ear-pedals-frank"
+        "https://reverb.com/p/big-ear-pedals-frank",
+        "https://www.effectsdatabase.com/model/bigear/frank"
       ],
       "image_source_pages_verified": true,
-      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--Loc73KMH--/t_card-square/v1640290459/xo2jpxnsnpbwdlzkmt7r.jpg",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/bigear_frank_001.jpg",
       "image_source_urls": [
-        "https://rvb-img.reverb.com/image/upload/s--Loc73KMH--/t_card-square/v1640290459/xo2jpxnsnpbwdlzkmt7r.jpg"
+        "https://rvb-img.reverb.com/image/upload/s--Loc73KMH--/t_card-square/v1640290459/xo2jpxnsnpbwdlzkmt7r.jpg",
+        "https://files.effectsdatabase.com/gear/thumbs/bigear_frank_001.jpg"
       ]
     },
     {
@@ -13521,11 +13523,13 @@
       "image_source_priority": 449,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/byoc/855drive",
-        "https://reverb.com/item/42880976-b-y-o-c-855-drive-pre-built-pedal"
+        "https://reverb.com/item/42880976-b-y-o-c-855-drive-pre-built-pedal",
+        "https://reverb.com/ca/item/3239619-byoc-855-drive-overdrive-pedal-pre-built"
       ],
       "image_source_pages_verified": true,
       "image_source_urls": [
-        "https://rvb-img.reverb.com/image/upload/s--o3Abhu9Q--/f_auto%2Ct_large/v1628216579/sfzszxicskfbnsamt9m6.jpg"
+        "https://rvb-img.reverb.com/image/upload/s--o3Abhu9Q--/f_auto%2Ct_large/v1628216579/sfzszxicskfbnsamt9m6.jpg",
+        "https://rvb-img.reverb.com/i/s--66U5psh6--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/b3yktyxpulawce3lau9r.jpg"
       ]
     },
     {

@@ -5154,12 +5154,12 @@
   {
     "builder": "Big Ear NYC",
     "pedal": "Frank",
-    "image": null,
+    "image": "./assets/pedals/big-ear-nyc/frank/primary.webp",
     "source": "verified research source",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 081/Frank.md",
-    "image_source_page": "https://reverb.com/es/p/big-ear-pedals-frank",
-    "image_source_url": "https://rvb-img.reverb.com/image/upload/s--Loc73KMH--/t_card-square/v1640290459/xo2jpxnsnpbwdlzkmt7r.jpg"
+    "image_source_page": "https://reverb.com/p/big-ear-pedals-frank",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/bigear_frank_001.jpg"
   },
   {
     "builder": "Big Ear NYC",
