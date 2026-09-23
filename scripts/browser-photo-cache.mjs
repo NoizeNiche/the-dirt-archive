@@ -813,6 +813,7 @@ async function linkedExactSourceCandidates(page, entry, sourcePageUsed, deepRevi
 
 async function imageSearchCandidates(page, entry, deepReview = false) {
   if (!IMAGE_SEARCH_ENABLED) return [];
+
   const queries = deepReview
     ? [
         '"' + entry.company + '" "' + entry.pedal + '" guitar pedal',
@@ -826,15 +827,73 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
     : [entry.company + " " + entry.pedal + " guitar pedal"];
 
   const merged = new Map();
+
+  function decodeHtml(value) {
+    return String(value || '')
+      .replace(/&quot;/gi, '"')
+      .replace(/&#34;/gi, '"')
+      .replace(/&#x22;/gi, '"')
+      .replace(/&amp;/gi, '&')
+      .replace(/&#39;/gi, "'")
+      .replace(/&#x27;/gi, "'")
+      .replace(/&lt;/gi, '<')
+      .replace(/&gt;/gi, '>');
+  }
+
+  function parseImageSearchMetadata(rawHtml, searchUrl) {
+    const out = [];
+    const seen = new Set();
+    if (!rawHtml) return out;
+
+    const add = raw => {
+      const decoded = decodeHtml(raw);
+      let meta = null;
+      try {
+        meta = JSON.parse(decoded);
+      } catch {
+        try {
+          meta = JSON.parse(decoded.replace(/\\/g, '\\'));
+        } catch {}
+      }
+      if (!meta?.murl || seen.has(meta.murl)) return;
+      seen.add(meta.murl);
+      const context = [
+        meta.t || '',
+        meta.desc || '',
+        meta.s || '',
+        meta.source || '',
+        meta.purl || ''
+      ].join(' ').replace(/\s+/g, ' ').trim();
+      out.push({
+        murl: meta.murl,
+        purl: meta.purl || '',
+        title: meta.t || '',
+        context,
+        searchUrl
+      });
+    };
+
+    for (const match of rawHtml.matchAll(/<(?:a|div)[^>]+(?:\bclass|\bdata-class)=["'][^"']*\biusc\b[^"']*["'][^>]+\b(?:m|data-m)=["']([^"']+)["'][^>]*>/gi)) {
+      add(match[1]);
+    }
+    for (const match of rawHtml.matchAll(/<(?:a|div)[^>]+\b(?:m|data-m)=["']([^"']+)["'][^>]+(?:\bclass|\bdata-class)=["'][^"']*\biusc\b[^"']*["'][^>]*>/gi)) {
+      add(match[1]);
+    }
+
+    return out;
+  }
+
   for (const query of queries) {
     const searchUrl = 'https://www.bing.com/images/search?form=HDRSC2&q=' + encodeURIComponent(query);
     try {
       await page.goto(searchUrl, { waitUntil: 'domcontentloaded', timeout: SEARCH_TIMEOUT });
       await page.waitForTimeout(200);
-      const results = await page.evaluate(() => {
+
+      let results = await page.evaluate(() => {
         const out = [];
-        for (const el of document.querySelectorAll('a.iusc')) {
-          const raw = el.getAttribute('m');
+        const nodes = document.querySelectorAll('a.iusc, [data-m][class*="iusc"], [data-m]');
+        for (const el of nodes) {
+          const raw = el.getAttribute('m') || el.getAttribute('data-m');
           if (!raw) continue;
           try {
             const m = JSON.parse(raw);
@@ -860,13 +919,27 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
             }
           } catch {}
         }
-        return out;
+        return [...new Map(out.map(x => [x.murl, x])).values()];
       });
+
+      // Bing markup changes periodically. If the rendered DOM exposes no
+      // image metadata, parse the raw response as a bounded fallback.
+      if (!results.length) {
+        try {
+          const response = await page.request.get(searchUrl, { timeout: SEARCH_TIMEOUT });
+          if (response.ok()) {
+            const html = await response.text();
+            results = parseImageSearchMetadata(html.slice(0, 1200000), searchUrl);
+          }
+        } catch {}
+      }
+
       for (const result of results) {
         if (!merged.has(result.murl)) merged.set(result.murl, result);
       }
     } catch {}
   }
+
   return [...merged.values()];
 }
 
