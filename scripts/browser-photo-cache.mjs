@@ -3215,7 +3215,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         String(a.Builder).localeCompare(String(b.Builder)) ||
         String(a.Pedal).localeCompare(String(b.Pedal))
       );
-    const reopenLimit = Math.min(15, LIMIT, parkedForDeepReview.length);
+    const reopenLimit = Math.min(30, LIMIT, parkedForDeepReview.length);
     for (const row of parkedForDeepReview.slice(0, reopenLimit)) {
       row.Status = 'DEEP_REVIEW';
       row.Attempts = '0';
@@ -3332,7 +3332,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         if (Number.isFinite(aOrder) && Number.isFinite(bOrder)) return aOrder - bOrder;
         return 0;
       });
-    const HARD_CASE_SLOTS = Math.min(8, LIMIT, directImageCases.length + deepCandidates.length);
+    const HARD_CASE_SLOTS = Math.min(16, LIMIT, directImageCases.length + deepCandidates.length);
     const FRESH_CASE_SLOTS = Math.max(0, LIMIT - HARD_CASE_SLOTS);
 
     // Exact direct-image overrides outrank ordinary hard cases, including
