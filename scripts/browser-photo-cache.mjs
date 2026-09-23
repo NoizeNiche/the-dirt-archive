@@ -2055,6 +2055,113 @@ async function recoverEntry(browser, entry, deepReview = false) {
           }
         }
 
+        // Some exact product pages use generic image URLs/alt text or lazy-load
+        // the real photo through data-* attributes. The page itself is already
+        // identity-verified, so use the rendered main/product content as an
+        // additional exact-page evidence channel. This avoids relying on image
+        // filenames containing the pedal name and avoids accepting site chrome.
+        try {
+          const mainImageTargets = await page.locator('img').evaluateAll((imgs, { pedalTokens, builderTokens }) => {
+            const normalize = value => String(value || '')
+              .toLowerCase()
+              .replace(/[^a-z0-9]+/g, ' ')
+              .replace(/\s+/g, ' ')
+              .trim();
+
+            const forbiddenPattern = /(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel|cookie|consent|breadcrumb|menu|nav|header|footer)/i;
+            const rows = [];
+
+            for (const [index, img] of imgs.entries()) {
+              const lazySrc =
+                img.currentSrc ||
+                img.getAttribute('data-full-src') ||
+                img.getAttribute('data-large-image') ||
+                img.getAttribute('data-zoom-image') ||
+                img.getAttribute('data-original-src') ||
+                img.getAttribute('data-image') ||
+                img.getAttribute('data-image-url') ||
+                img.getAttribute('data-src') ||
+                img.getAttribute('data-lazy-src') ||
+                img.getAttribute('data-original') ||
+                img.src ||
+                '';
+
+              if (lazySrc && /^https?:/i.test(lazySrc) && (Number(img.naturalWidth) || 0) < 220) {
+                try {
+                  img.loading = 'eager';
+                  if (img.src !== lazySrc) img.src = lazySrc;
+                } catch {}
+              }
+
+              const rect = img.getBoundingClientRect();
+              const width = Math.max(rect.width, Number(img.naturalWidth) || 0);
+              const height = Math.max(rect.height, Number(img.naturalHeight) || 0);
+              if (width < 220 || height < 220) continue;
+              if (rect.bottom < 0 || rect.top > window.innerHeight * 2) continue;
+
+              const raw = [
+                img.currentSrc || '',
+                img.src || '',
+                img.alt || '',
+                img.className || ''
+              ].join(' ');
+              if (forbiddenPattern.test(raw)) continue;
+
+              let node = img;
+              let semanticScore = 0;
+              let chromePenalty = 0;
+              let context = '';
+
+              for (let depth = 0; depth < 7 && node; depth++, node = node.parentElement) {
+                const tag = String(node.tagName || '').toLowerCase();
+                const cls = String(node.className || '');
+                const id = String(node.id || '');
+                const text = String(node.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 700);
+                const hint = normalize([tag, cls, id, node.getAttribute?.('data-testid') || '', text].join(' '));
+                context += ' ' + hint;
+
+                if (/^(main|article)$/i.test(tag) || /product|pedal|gallery|photo|image|media|hero|listing|item/i.test(cls + ' ' + id)) semanticScore += 170;
+                if (/^(header|nav|footer|aside)$/i.test(tag) || /header|nav|footer|menu|breadcrumb|cookie|consent|social/i.test(cls + ' ' + id)) chromePenalty += 240;
+              }
+
+              const hint = normalize([
+                raw,
+                context,
+                ...pedalTokens,
+                ...builderTokens
+              ].join(' '));
+              const pedalHits = pedalTokens.filter(token => hint.includes(token)).length;
+              const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+              const areaScore = Math.min(width * height, 1600000) / 1000;
+              let score = areaScore + semanticScore + pedalHits * 150 + builderHits * 40 - chromePenalty;
+              if (width > 1800 || height > 1800) score -= 120;
+              if (rect.top >= 0 && rect.top <= window.innerHeight * 1.5) score += 80;
+
+              rows.push({
+                index,
+                src: img.currentSrc || img.src || lazySrc,
+                width,
+                height,
+                score
+              });
+            }
+
+            return rows
+              .sort((a, b) => b.score - a.score)
+              .slice(0, 6);
+          }, { pedalTokens, builderTokens });
+
+          for (const target of mainImageTargets) {
+            const img = page.locator('img').nth(target.index);
+            await img.scrollIntoViewIfNeeded().catch(() => {});
+            await page.waitForTimeout(180);
+            const bytes = await img.screenshot({ type: 'png' }).catch(() => null);
+            if (bytes && bytes.length >= 3000) {
+              return { bytes, src: target.src };
+            }
+          }
+        } catch {}
+
         // A verified product page can expose its canonical product photograph
         // only through og:image/twitter:image metadata. When the CDN blocks the
         // workflow's direct request, render that exact URL in the verified page
