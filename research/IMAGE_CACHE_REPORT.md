@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
-- Staged browser photos converted: **0**
+- Cached in this run: **3**
+- Staged browser photos converted: **3**
 - Local images retained/reorganized: **0**
 - Download failures: **9**
-- Remaining tracker photo backlog: **2763**
-- Researched, photo pending: **218**
+- Remaining tracker photo backlog: **2760**
+- Researched, photo pending: **215**
 - External source images awaiting localization: **9**
 
 ## Storage layout
@@ -13,6 +13,12 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- AMT Electronics - R-1 Rectifier -> `./assets/pedals/amt-electronics/r-1-rectifier/primary.webp`
+- Bulinski Effect Pedals - RC Bass Fuzz -> `./assets/pedals/bulinski-effect-pedals/rc-bass-fuzz/primary.webp`
+- Camuro - Fuzz Rosso -> `./assets/pedals/camuro/fuzz-rosso/primary.webp`
 
 ## Still external / failed
 

@@ -1879,10 +1879,12 @@
   {
     "builder": "AMT Electronics",
     "pedal": "R-1 Rectifier",
-    "image": null,
+    "image": "./assets/pedals/amt-electronics/r-1-rectifier/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/amt/legendamp/r1",
     "research_record": "./research/pedals/PRP Batch 049/R-1 Rectifier.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://images3.memedroid.com/images/UPLOADED28/6569d8cf6697d.jpeg",
+    "image_source_page": "https://es.memedroid.com/memes/latest?ts=1701447721"
   },
   {
     "builder": "AMT Electronics",
@@ -9258,9 +9260,11 @@
   {
     "builder": "Bulinski Effect Pedals",
     "pedal": "RC Bass Fuzz",
-    "image": null,
+    "image": "./assets/pedals/bulinski-effect-pedals/rc-bass-fuzz/primary.webp",
     "source_page": "https://www.madeforbass.com/bass-effects-database/",
-    "research_record": "./research/pedals/PRP Batch 132/rc-bass-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 132/rc-bass-fuzz.md",
+    "image_source_url": "https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2023/01/SMT-Velociraptor-Bass-Fuzz-1.jpg?fit=768%2C768&ssl=1",
+    "image_source_page": "https://bulinskipedals.com/shop/smt-velociraptor-diode-bass-fuzz/"
   },
   {
     "builder": "Bulinski Effect Pedals",
@@ -10230,10 +10234,11 @@
   {
     "builder": "Camuro",
     "pedal": "Fuzz Rosso",
-    "image": null,
+    "image": "./assets/pedals/camuro/fuzz-rosso/primary.webp",
     "source_page": "https://camuro.co.jp/pedals",
     "research_record": "./research/pedals/PRP Batch 147/camuro-fuzz-rosso.md",
-    "image_source_page": "https://camuro.co.jp/blog/ledmod"
+    "image_source_page": "https://www.freepnglogos.com/pics/google-logo",
+    "image_source_url": "https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-google-icon-logo-png-transparent-svg-vector-bie-supply-14.png"
   },
   {
     "builder": "Camuro",
