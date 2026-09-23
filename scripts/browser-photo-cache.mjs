@@ -973,6 +973,26 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
 
     const feedUrls = [...new Set(feedLinks)].slice(0, 3);
     const urls = new Set();
+
+    // Effects Database keeps a legacy per-model image archive. When the feed
+    // endpoint is blocked, probe only deterministic same-model assets derived
+    // from the already identity-verified /model/... path.
+    try {
+      const parsed = new URL(pageUrl);
+      if (/([.]|^)effectsdatabase[.]com$/i.test(parsed.hostname) && /^\/model\//i.test(parsed.pathname)) {
+        const suffix = parsed.pathname.slice('/model/'.length).replace(/\/+$/, '');
+        const legacySlug = suffix.replace(/\//g, '_').replace(/[^a-z0-9._-]+/gi, '_').replace(/^_+|_+$/g, '');
+        if (legacySlug) {
+          const stems = [legacySlug, legacySlug + '_001', legacySlug + '_01', legacySlug + '_1'];
+          for (const stem of stems) {
+            urls.add('https://files.effectsdatabase.com/gear/pics/' + stem + '.jpg');
+            urls.add('https://files.effectsdatabase.com/gear/thumbs/' + stem + '.jpg');
+            urls.add('https://files.effectsdatabase.com/gear/pics/' + stem + '.png');
+            urls.add('https://files.effectsdatabase.com/gear/thumbs/' + stem + '.png');
+          }
+        }
+      }
+    } catch {}
     const addUrl = value => {
       if (!value || typeof value !== 'string' || value.startsWith('data:')) return;
       try {
