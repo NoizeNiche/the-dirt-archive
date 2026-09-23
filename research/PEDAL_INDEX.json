@@ -1008,11 +1008,12 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/addplus/distortion",
       "research_record": "./research/pedals/Add+ Pedals/Distortion.md",
-      "image_source_page": "https://www.addpluspedals.com/distortion.php",
+      "image_source_page": "https://mintmuzik.com/add-distortion",
       "image_source_page_verified": true,
-      "image_source_priority": 310,
+      "image_source_priority": 419,
       "image_source_pages": [
-        "https://www.addpluspedals.com/distortion.php"
+        "https://www.addpluspedals.com/distortion.php",
+        "https://mintmuzik.com/add-distortion"
       ],
       "image_source_pages_verified": true
     },
@@ -15315,7 +15316,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/camuro/fat-baby-preamp-overdrive/primary.webp",
       "source_page": "https://camuro.co.jp/",
       "research_record": "./research/pedals/PRP Batch 147/camuro-fat-baby-preamp-overdrive.md",
       "image_source_page": "https://camuro.co.jp/",
@@ -15324,7 +15325,8 @@
       "image_source_pages": [
         "https://camuro.co.jp/"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "http://camuro.co.jp/wp/wp-content/uploads/2014/05/fatbaby_br.jpg"
     },
     {
       "company": "Camuro",

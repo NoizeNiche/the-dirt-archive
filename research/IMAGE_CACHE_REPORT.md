@@ -4,8 +4,8 @@
 - Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **9**
-- Remaining tracker photo backlog: **2757**
-- Researched, photo pending: **212**
+- Remaining tracker photo backlog: **2756**
+- Researched, photo pending: **211**
 - External source images awaiting localization: **9**
 
 ## Storage layout
@@ -16,7 +16,7 @@
 
 ## Newly cached
 
-- BlackOutEffectors - Blunderbuss Musket -> `./assets/pedals/blackouteffectors/blunderbuss-musket/primary.webp`
+- Camuro - FAT BABY Preamp/Overdrive -> `./assets/pedals/camuro/fat-baby-preamp-overdrive/primary.webp`
 
 ## Still external / failed
 

@@ -10228,10 +10228,11 @@
   {
     "builder": "Camuro",
     "pedal": "FAT BABY Preamp/Overdrive",
-    "image": null,
+    "image": "./assets/pedals/camuro/fat-baby-preamp-overdrive/primary.webp",
     "source_page": "https://camuro.co.jp/",
     "research_record": "./research/pedals/PRP Batch 147/camuro-fat-baby-preamp-overdrive.md",
-    "image_source_page": "https://camuro.co.jp/"
+    "image_source_page": "https://camuro.co.jp/",
+    "image_source_url": "http://camuro.co.jp/wp/wp-content/uploads/2014/05/fatbaby_br.jpg"
   },
   {
     "builder": "Camuro",
