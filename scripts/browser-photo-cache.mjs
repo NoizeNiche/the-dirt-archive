@@ -2690,6 +2690,16 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               Referer: String(candidate.sourcePage),
               'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'
             });
+            // Seed cookies/session state from the exact verified source page
+            // before requesting the image document. Some media CDNs authorize
+            // the image only after a normal browser visit to the parent listing.
+            if (candidate.sourcePage !== candidate.url) {
+              await imagePage.goto(candidate.sourcePage, {
+                waitUntil: 'domcontentloaded',
+                timeout: PAGE_TIMEOUT
+              }).catch(() => {});
+              await imagePage.waitForTimeout(120).catch(() => {});
+            }
           } catch {}
         }
         const response = await imagePage.goto(candidate.url, {
