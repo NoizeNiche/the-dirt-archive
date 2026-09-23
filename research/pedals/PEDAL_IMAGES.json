@@ -6743,10 +6743,11 @@
   {
     "builder": "Black Cat Pedals",
     "pedal": "D&S",
-    "image": null,
+    "image": "./assets/pedals/black-cat-pedals/d-s/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/blackcat/ds",
     "research_record": "./research/pedals/PRP Batch 096/D&S.md",
-    "image_source_page": "https://www.buyanalogman.com/Black_Cat_D_S_Pedal_p/bc-ds.htm"
+    "image_source_page": "https://www.pitbullaudio.com/black-cat-pedals-d-s-ds-sustainer-guitar-effects-pedal-ibanez-maxon-od-801-replica.html",
+    "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/b/c/bcp-ds-1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=800"
   },
   {
     "builder": "Black Cat Pedals",
