@@ -8145,10 +8145,12 @@
   {
     "builder": "Brantone Electronics",
     "pedal": "Tonemaster Mk1.5 Germanium Fuzz",
-    "image": null,
+    "image": "./assets/pedals/brantone-electronics/tonemaster-mk1-5-germanium-fuzz/primary.webp",
     "source": null,
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-tonemaster-mk1-5-germanium-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-tonemaster-mk1-5-germanium-fuzz.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--cPYQjPSN--/quality=medium-low,height=800,width=800,fit=contain/qvzjcmqgszewb9mrrnh1.jpg",
+    "image_source_page": "https://reverb.com/item/83512142-brantone-electronics-tonemaster-mk-11-2018"
   },
   {
     "builder": "Brantone Electronics",
