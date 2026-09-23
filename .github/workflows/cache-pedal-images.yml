@@ -5,7 +5,7 @@ on:
   # consumed by the next scheduled pass, preventing every small maintenance
   # commit from creating another browser-heavy Actions job.
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
   # A single sentinel file provides a controlled manual kick when scheduled
   # GitHub Actions delivery is delayed. Ordinary repository commits remain free
@@ -18,17 +18,17 @@ permissions:
 
 concurrency:
   group: dirt-image-cache
-  # Let each bounded recovery batch finish. New scheduled/manual runs queue behind
-  # the active browser worker and begin from the latest main before recovery.
-  # This prevents a fresh trigger from cancelling a partially completed photo batch.
+  # Keep recovery passes in order, but allow the scheduler to queue work rather
+  # than silently replacing the next pass while the current browser worker runs.
   cancel-in-progress: false
+  queue: max
 
 jobs:
   cache:
     # Prevent the cache bot from recursively triggering itself from its own commit.
     if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -79,21 +79,22 @@ jobs:
 
       - name: Recover verified page images
         env:
-          # Smaller committed batches keep recovery bounded and make progress visible.
-          PHOTO_BROWSER_CACHE_LIMIT: "120"
-          PHOTO_BROWSER_CACHE_CONCURRENCY: "10"
-          PHOTO_BROWSER_PAGE_TIMEOUT_MS: "7500"
+          # Larger bounded passes reduce runner overhead while preserving visible,
+          # resumable progress in Git history.
+          PHOTO_BROWSER_CACHE_LIMIT: "300"
+          PHOTO_BROWSER_CACHE_CONCURRENCY: "16"
+          PHOTO_BROWSER_PAGE_TIMEOUT_MS: "9000"
           PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "7500"
           PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "5000"
-          PHOTO_BROWSER_CANDIDATE_LIMIT: "6"
-          PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "6"
-          # Recovery prioritizes verified curated source pages, then follows the
-          # tracker backlog while preserving a bounded share for deep-review cases.
+          PHOTO_BROWSER_CANDIDATE_LIMIT: "8"
+          PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "8"
           PHOTO_BROWSER_IMAGE_SEARCH: "true"
           PHOTO_BROWSER_DEEP_REVIEW: "true"
-          # Reopen a small bounded batch of automatically exhausted records for one deeper pass.
           PHOTO_BROWSER_REVISIT_PARKED: "true"
-          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "60000"
+          # The old 60-second cap was the primary throughput bottleneck. Give each
+          # scheduled runner a substantial browser window while leaving time for
+          # image conversion, synchronization, and the commit/push phase.
+          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "1200000"
         run: node scripts/browser-photo-cache.mjs
 
       - name: Download and cache verified pedal images
