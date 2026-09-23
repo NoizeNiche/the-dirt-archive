@@ -9133,11 +9133,11 @@
   {
     "builder": "Build Your Own Clone",
     "pedal": "Bender Clone",
-    "image": null,
+    "image": "./assets/pedals/build-your-own-clone/bender-clone/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/byoc",
     "research_record": "./research/pedals/PRP Batch 129/bender-clone.md",
-    "image_source_url": "https://www.effectsdatabase.com/model/byoc",
-    "image_source_page": "https://www.effectsdatabase.com/model/byoc"
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/byoc_bender_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/byoc/bender"
   },
   {
     "builder": "Build Your Own Clone",
