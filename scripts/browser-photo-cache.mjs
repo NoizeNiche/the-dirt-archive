@@ -1252,11 +1252,29 @@ async function recoverEntry(browser, entry, deepReview = false) {
         } catch {}
 
         // Curated direct-image overrides are exact product-photo URLs. Some
-        // image CDNs permit the URL in a real browser navigation but reject
-        // Playwright's request API, sometimes only when no source-page referer
-        // is supplied. Try both browser-render modes without substituting a
-        // different image.
+        // image CDNs reject Playwright's request API but accept a normal HTTP
+        // client with browser-like headers. Try this narrowly for curated exact
+        // URLs before browser rendering, without relaxing identity requirements.
         if (candidate.directImageOverride) {
+          try {
+            const headers = {
+              'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/153.0 Safari/537.36',
+              'accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+              'accept-language': 'en-US,en;q=0.9'
+            };
+            if (candidate.sourcePage) headers.referer = candidate.sourcePage;
+            const response = await fetch(candidate.url, { headers, redirect: 'follow' });
+            const type = String(response.headers.get('content-type') || '').toLowerCase();
+            if (response.ok && type.startsWith('image/')) {
+              const bytes = Buffer.from(await response.arrayBuffer());
+              if (bytes.length >= 3000) return { candidate, bytes };
+            }
+          } catch {}
+
+          // Some CDNs permit the URL in a real browser navigation but reject
+          // all programmatic HTTP clients. Try both browser-render modes without
+          // substituting a different image.
+
           try {
             const capture = await page.evaluate(async src => {
               document.querySelector('[data-dirt-archive-direct-capture="1"]')?.remove();
