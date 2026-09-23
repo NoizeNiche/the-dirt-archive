@@ -2247,7 +2247,8 @@
     "pedal": "Baa Bzz",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Anarchy Audio Australia/Baa Bzz.md"
+    "research_record": "./research/pedals/Anarchy Audio Australia/Baa Bzz.md",
+    "image_source_url": "https://rvb-img.reverb.com/image/upload/s--SiwVNXjg--/a_0/f_auto%2Ct_large/v1626746479/uxnakseauwgvx3kag0aq.jpg"
   },
   {
     "builder": "Anarchy Audio Australia",
@@ -3117,9 +3118,11 @@
   {
     "builder": "Aul Instruments",
     "pedal": "Fuzz",
-    "image": null,
+    "image": "./assets/pedals/aul-instruments/fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/aul/fuzz",
-    "research_record": "./research/pedals/Aul Instruments/Fuzz.md"
+    "research_record": "./research/pedals/Aul Instruments/Fuzz.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/aul_fuzz_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/aul/fuzz"
   },
   {
     "builder": "Aural Dream",
@@ -6494,10 +6497,12 @@
   {
     "builder": "Black Arts Toneworks",
     "pedal": "BAT",
-    "image": null,
+    "image": "./assets/pedals/black-arts-toneworks/bat/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.blackartstoneworks.com/pedal/bat/",
-    "research_record": "./research/pedals/PRP Batch 094/BAT.md"
+    "research_record": "./research/pedals/PRP Batch 094/BAT.md",
+    "image_source_url": "https://lep-international.jp/cdn/shop/files/BAT-01.png?v=1769564901&width=1445",
+    "image_source_page": "https://lep-international.jp/products/black-arts-toneworks-bat"
   },
   {
     "builder": "Black Arts Toneworks",
@@ -6761,10 +6766,11 @@
   {
     "builder": "Black Cat Pedals",
     "pedal": "N-Fuzz",
-    "image": null,
+    "image": "./assets/pedals/black-cat-pedals/n-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/blackcat/nfuzz",
     "research_record": "./research/pedals/PRP Batch 096/N-Fuzz.md",
-    "image_source_page": "https://www.chicagomusicexchange.com/products/black-cat-n-fuzz-300"
+    "image_source_page": "https://www.chicagomusicexchange.com/products/black-cat-n-fuzz-300",
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/black-cat-pedals-effects-and-pedals-fuzz-black-cat-n-fuzz-bcnfuzz-28511819858055.jpg?v=1651534514&width=1445"
   },
   {
     "builder": "Black Cat Pedals",
@@ -6787,9 +6793,11 @@
   {
     "builder": "Black Cat Pedals",
     "pedal": "OD-Fuzz",
-    "image": null,
+    "image": "./assets/pedals/black-cat-pedals/od-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 097/OD-Fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 097/OD-Fuzz.md",
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/black-cat-pedals-effects-and-pedals-fuzz-black-cat-od-fuzz-bcodfuzz-28214867624071.jpg?v=1647022995&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/black-cat-od-fuzz-9574"
   },
   {
     "builder": "Black Cat Pedals",
@@ -6915,7 +6923,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--ZlebMFU3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ffr0rg17eckvubv1v2yv.jpg"
   },
   {
     "builder": "Blackhawk Amplifiers",

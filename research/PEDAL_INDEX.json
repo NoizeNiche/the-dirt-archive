@@ -3329,12 +3329,17 @@
       "source_page": null,
       "research_record": "./research/pedals/Anarchy Audio Australia/Baa Bzz.md",
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/anarchyaudio/baabzz"
+        "https://www.effectsdatabase.com/model/anarchyaudio/baabzz",
+        "https://reverb.com/item/2568948-anarchy-audio-baa-bzz-fuzz-pedal-roland-bee-baa-inspired-fuzz"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/anarchyaudio/baabzz",
+      "image_source_page": "https://reverb.com/item/2568948-anarchy-audio-baa-bzz-fuzz-pedal-roland-bee-baa-inspired-fuzz",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 362
+      "image_source_priority": 474,
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--SiwVNXjg--/a_0/f_auto%2Ct_large/v1626746479/uxnakseauwgvx3kag0aq.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/image/upload/s--SiwVNXjg--/a_0/f_auto%2Ct_large/v1626746479/uxnakseauwgvx3kag0aq.jpg"
+      ]
     },
     {
       "company": "Anarchy Audio Australia",
@@ -4457,7 +4462,7 @@
       "research_record": "./research/pedals/Audiobox/Crunch Box.md",
       "image_source_page": "https://www.effectsdatabase.com/model/audiobox/crunchbox",
       "image_source_page_verified": true,
-      "image_source_priority": 291,
+      "image_source_priority": 476,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/audiobox/crunchbox"
       ],
@@ -4629,7 +4634,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/aul-instruments/fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/aul/fuzz",
       "research_record": "./research/pedals/Aul Instruments/Fuzz.md",
       "image_source_pages": [
@@ -4638,7 +4643,11 @@
       "image_source_page": "https://www.effectsdatabase.com/model/aul/fuzz",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 361
+      "image_source_priority": 475,
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/aul_fuzz_001.jpg",
+      "image_source_urls": [
+        "https://files.effectsdatabase.com/gear/thumbs/aul_fuzz_001.jpg"
+      ]
     },
     {
       "company": "Aural Dream",
@@ -4820,7 +4829,7 @@
       "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/best-of-australian-and-new-zealander-guitar-pedals-and-pedal-builders",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 432
+      "image_source_priority": 477
     },
     {
       "company": "AVIA",
@@ -5135,7 +5144,7 @@
       "research_record": "./research/pedals/AXL/DEQ-2 Distortion EQ.md",
       "image_source_page": "https://www.effectsdatabase.com/model/axl/deq2",
       "image_source_page_verified": true,
-      "image_source_priority": 305,
+      "image_source_priority": 478,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/axl/deq2"
       ],
@@ -9587,18 +9596,22 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-arts-toneworks/bat/primary.webp",
       "source_page": "https://www.blackartstoneworks.com/pedal/bat/",
       "research_record": "./research/pedals/PRP Batch 094/BAT.md",
       "image_source_page": "https://lep-international.jp/products/black-arts-toneworks-bat",
       "image_source_page_verified": true,
-      "image_source_priority": 408,
+      "image_source_priority": 470,
       "image_source_pages": [
         "https://www.blackartstoneworks.com/pedal/bat/",
         "https://joespedals.com/collections/pedals/products/bat",
         "https://lep-international.jp/products/black-arts-toneworks-bat"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://lep-international.jp/cdn/shop/files/BAT-01.png?v=1769564901&width=1445",
+      "image_source_urls": [
+        "https://lep-international.jp/cdn/shop/files/BAT-01.png?v=1769564901&width=1445"
+      ]
     },
     {
       "company": "Black Arts Toneworks",
@@ -10055,16 +10068,21 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-cat-pedals/n-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/blackcat/nfuzz",
       "research_record": "./research/pedals/PRP Batch 096/N-Fuzz.md",
-      "image_source_page": "https://reverb.com/en-fr/item/55078472-black-cat-pedals-n-fuzz",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/black-cat-n-fuzz-300",
       "image_source_page_verified": true,
-      "image_source_priority": 195,
+      "image_source_priority": 473,
       "image_source_pages": [
-        "https://reverb.com/en-fr/item/55078472-black-cat-pedals-n-fuzz"
+        "https://reverb.com/en-fr/item/55078472-black-cat-pedals-n-fuzz",
+        "https://www.chicagomusicexchange.com/products/black-cat-n-fuzz-300"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/black-cat-pedals-effects-and-pedals-fuzz-black-cat-n-fuzz-bcnfuzz-28511819858055.jpg?v=1651534514&width=1445",
+      "image_source_urls": [
+        "https://www.chicagomusicexchange.com/cdn/shop/products/black-cat-pedals-effects-and-pedals-fuzz-black-cat-n-fuzz-bcnfuzz-28511819858055.jpg?v=1651534514&width=1445"
+      ]
     },
     {
       "company": "Black Cat Pedals",
@@ -10104,17 +10122,22 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-cat-pedals/od-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 097/OD-Fuzz.md",
-      "image_source_page": "https://reverb.com/p/black-cat-od-fuzz",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/black-cat-od-fuzz-9574",
       "image_source_page_verified": true,
-      "image_source_priority": 403,
+      "image_source_priority": 472,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/blackcat/odfuzz",
-        "https://reverb.com/p/black-cat-od-fuzz"
+        "https://reverb.com/p/black-cat-od-fuzz",
+        "https://www.chicagomusicexchange.com/products/black-cat-od-fuzz-9574"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/black-cat-pedals-effects-and-pedals-fuzz-black-cat-od-fuzz-bcodfuzz-28214867624071.jpg?v=1647022995&width=1946",
+      "image_source_urls": [
+        "https://www.chicagomusicexchange.com/cdn/shop/products/black-cat-pedals-effects-and-pedals-fuzz-black-cat-od-fuzz-bcodfuzz-28214867624071.jpg?v=1647022995&width=1946"
+      ]
     },
     {
       "company": "Black Cat Pedals",
@@ -10300,13 +10323,17 @@
       "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md",
       "image_source_page": "https://reverb.com/item/58788639-blackhawk-amplifiers-basilisk-fuzz-2019-black",
       "image_source_page_verified": true,
-      "image_source_priority": 429,
+      "image_source_priority": 471,
       "image_source_pages": [
         "https://reverb.com/item/77950001-black-hawk-basilisk-fuzz-black",
         "https://reverb.com/item/87246180-blackhawk-amplifiers-basilisk-fuzz-pedal-beebaa",
         "https://reverb.com/item/58788639-blackhawk-amplifiers-basilisk-fuzz-2019-black"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--ZlebMFU3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ffr0rg17eckvubv1v2yv.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--ZlebMFU3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ffr0rg17eckvubv1v2yv.jpg"
+      ]
     },
     {
       "company": "Blackhawk Amplifiers",
