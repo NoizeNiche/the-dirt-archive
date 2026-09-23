@@ -2686,13 +2686,9 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         imagePage = await page.context().newPage({ viewport: { width: 1440, height: 1000 } });
         if (candidate.sourcePage && /^https?:/i.test(String(candidate.sourcePage))) {
           try {
-            await imagePage.setExtraHTTPHeaders({
-              Referer: String(candidate.sourcePage),
-              'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'
-            });
-            // Seed cookies/session state from the exact verified source page
-            // before requesting the image document. Some media CDNs authorize
-            // the image only after a normal browser visit to the parent listing.
+            // Seed cookies/session state with a normal HTML navigation first.
+            // Keep the image Accept header off this request so the source page
+            // receives ordinary document negotiation.
             if (candidate.sourcePage !== candidate.url) {
               await imagePage.goto(candidate.sourcePage, {
                 waitUntil: 'domcontentloaded',
@@ -2700,6 +2696,10 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               }).catch(() => {});
               await imagePage.waitForTimeout(120).catch(() => {});
             }
+            await imagePage.setExtraHTTPHeaders({
+              Referer: String(candidate.sourcePage),
+              'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'
+            });
           } catch {}
         }
         const response = await imagePage.goto(candidate.url, {
