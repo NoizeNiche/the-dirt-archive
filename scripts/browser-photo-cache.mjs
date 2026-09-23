@@ -2552,6 +2552,40 @@ async function recoverEntry(browser, entry, deepReview = false) {
       } catch {}
       return null;
     }
+    // Some exact source images reject an injected <img> element but render
+    // normally when Chromium navigates directly to the image document. Restrict
+    // this to image candidates already tied to an identity-verified source page.
+    async function screenshotImageDocumentCandidate(candidate, minimumSize = 180) {
+      if (!candidate?.url) return null;
+      let imagePage = null;
+      try {
+        imagePage = await page.context().newPage({ viewport: { width: 1440, height: 1000 } });
+        const response = await imagePage.goto(candidate.url, {
+          waitUntil: 'domcontentloaded',
+          timeout: IMAGE_TIMEOUT
+        });
+        const type = (response?.headers?.()['content-type'] || '').toLowerCase();
+        if (type && !type.startsWith('image/')) return null;
+        await imagePage.waitForTimeout(120);
+        const image = imagePage.locator('img').first();
+        if (await image.count()) {
+          const dimensions = await image.evaluate(img => ({
+            width: Number(img.naturalWidth) || 0,
+            height: Number(img.naturalHeight) || 0
+          })).catch(() => ({ width: 0, height: 0 }));
+          if (dimensions.width < minimumSize || dimensions.height < minimumSize) return null;
+          const bytes = await image.screenshot({ type: 'png' }).catch(() => null);
+          if (bytes && bytes.length >= 3000) return { bytes, src: candidate.url };
+        }
+        const bytes = await imagePage.screenshot({ type: 'png' }).catch(() => null);
+        if (bytes && bytes.length >= 3000) return { bytes, src: candidate.url };
+      } catch {}
+      finally {
+        await imagePage?.close().catch(() => {});
+      }
+      return null;
+    }
+
     // First trust only candidates discovered on the already-verified source page.
     if (!selectedResult) {
       selectedResult = await tryImages(
@@ -2566,10 +2600,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
     if (!selectedResult) {
       for (const candidate of ranked.filter(candidate => candidate.directImageOverride).slice(0, 8)) {
         const shot = await screenshotDirectImageCandidate(candidate);
-        if (shot) {
+        const documentShot = shot || await screenshotImageDocumentCandidate(candidate, 140);
+        if (documentShot) {
           selectedResult = {
             candidate,
-            bytes: shot.bytes
+            bytes: documentShot.bytes
           };
           diagnostic.sourceScreenshotCaptured = true;
           break;
@@ -2580,10 +2615,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
     if (!selectedResult) {
       for (const candidate of ranked.filter(candidate => candidate.rawVerifiedPageImage).slice(0, 4)) {
         const shot = await screenshotRawVerifiedImageCandidate(candidate);
-        if (shot) {
+        const documentShot = shot || await screenshotImageDocumentCandidate(candidate, 180);
+        if (documentShot) {
           selectedResult = {
             candidate,
-            bytes: shot.bytes
+            bytes: documentShot.bytes
           };
           diagnostic.sourceScreenshotCaptured = true;
           break;
