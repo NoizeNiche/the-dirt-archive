@@ -1,9 +1,9 @@
 # Pedal Image Cache Report
 
 - Cached in this run: **0**
-- Staged browser photos converted: **1**
-- Local images retained/reorganized: **1**
-- Download failures: **6**
+- Staged browser photos converted: **0**
+- Local images retained/reorganized: **0**
+- Download failures: **7**
 - Remaining tracker photo backlog: **2595**
 - Researched, photo pending: **50**
 - External source images awaiting localization: **0**
@@ -16,6 +16,7 @@
 
 ## Still external / failed
 
+- Airis Effects - Solar Flare Overdrive: https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg`)
 - Big Monk Electronic Device Co. - Monk Boost: https://rvb-img.reverb.com/i/s--CzDOkohA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/wopm9q1o7fcq0mdm99i5.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--CzDOkohA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/wopm9q1o7fcq0mdm99i5.jpg`)
 - Blakemore Effects - Deus Ex Machina: https://rvb-img.reverb.com/i/s--MnM2xmYe--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgejj6gcrbrpjtaz8bki.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--MnM2xmYe--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgejj6gcrbrpjtaz8bki.jpg`)
 - Build Your Own Clone - 855 Drive: https://rvb-img.reverb.com/image/upload/s--o3Abhu9Q--/f_auto%2Ct_large/v1628216579/sfzszxicskfbnsamt9m6.jpg: HTTP Error 401: Unauthorized (`https://rvb-img.reverb.com/image/upload/s--o3Abhu9Q--/f_auto%2Ct_large/v1628216579/sfzszxicskfbnsamt9m6.jpg`)
