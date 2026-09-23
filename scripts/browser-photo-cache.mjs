@@ -2670,6 +2670,14 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       let imagePage = null;
       try {
         imagePage = await page.context().newPage({ viewport: { width: 1440, height: 1000 } });
+        if (candidate.sourcePage && /^https?:/i.test(String(candidate.sourcePage))) {
+          try {
+            await imagePage.setExtraHTTPHeaders({
+              Referer: String(candidate.sourcePage),
+              'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'
+            });
+          } catch {}
+        }
         const response = await imagePage.goto(candidate.url, {
           waitUntil: 'domcontentloaded',
           timeout: IMAGE_TIMEOUT
@@ -2723,7 +2731,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     }
 
     if (!selectedResult) {
-      for (const candidate of ranked.filter(candidate => candidate.rawVerifiedPageImage).slice(0, 4)) {
+      for (const candidate of ranked.filter(candidate => candidate.rawVerifiedPageImage).slice(0, 12)) {
         const shot = await screenshotRawVerifiedImageCandidate(candidate);
         const documentShot = shot || await screenshotImageDocumentCandidate(candidate, 180);
         if (documentShot) {
