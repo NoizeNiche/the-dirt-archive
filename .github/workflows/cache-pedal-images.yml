@@ -18,9 +18,10 @@ permissions:
 
 concurrency:
   group: dirt-image-cache
-  # Source/data edits no longer trigger this workflow, so a newer code checkpoint
-  # should supersede an obsolete browser worker rather than consume another runner.
-  cancel-in-progress: true
+  # Let each bounded recovery batch finish. New scheduled/manual runs queue behind
+  # the active browser worker and begin from the latest main before recovery.
+  # This prevents a fresh trigger from cancelling a partially completed photo batch.
+  cancel-in-progress: false
 
 jobs:
   cache:
