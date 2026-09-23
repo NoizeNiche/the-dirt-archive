@@ -1258,7 +1258,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
         // image CDNs reject Playwright's request API but accept a normal HTTP
         // client with browser-like headers. Try this narrowly for curated exact
         // URLs before browser rendering, without relaxing identity requirements.
-        if (candidate.directImageOverride) {
+        if (candidate.directImageOverride || candidate.searchResult || candidate.soldResult) {
           try {
             const headers = {
               'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/153.0 Safari/537.36',
@@ -1273,11 +1273,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
               if (bytes.length >= 3000) return { candidate, bytes };
             }
 
-            // Last transport fallback for curated exact image URLs: retrieve the
-            // same source image through an image-only proxy. The candidate URL
-            // remains the original source URL, so provenance is not rewritten and
-            // only exact, identity-verified photos can enter the archive.
+            // Last transport fallback for exact, already-verified image URLs:
+            // retrieve the same source image through an image-only proxy. The
+            // candidate URL remains the original source URL, so provenance is not
+            // rewritten and only verified photos can enter the archive.
             try {
+              diagnostic.imageProxyAttempts++;
               const proxyUrl = 'https://images.weserv.nl/?url=' + encodeURIComponent(candidate.url);
               const proxyResponse = await fetch(proxyUrl, {
                 headers: { 'user-agent': headers['user-agent'], accept: 'image/*' },
@@ -2431,7 +2432,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
                     url,
                     sourcePage: result.purl,
                     sourceScore: 180,
-                    searchResult: false
+                    searchResult: false,
+                    soldResult: true
                   });
                 }
               } catch {}
@@ -2496,7 +2498,8 @@ async function recoverEntry(browser, entry, deepReview = false) {
               sourcePage: result.purl,
               sourceScore: (trustedDatabase ? 125 : 105) + Math.min(70, fit.score),
               searchResult: true,
-              searchUrl: result.searchUrl
+              searchUrl: result.searchUrl,
+              soldResult: false
             });
             continue;
           }
