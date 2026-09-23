@@ -5,6 +5,8 @@ The canonical tracker currently parses to **3,816 total records / 1,271 research
 The photo-recovery system remains the active production lane. The current researched-photo gate contains **44 records**, all currently parked for deeper recovery after bounded automatic attempts. The queue is still ordered from the live tracker, with the first unresolved researched records at **A&M Custom Effects - Crash Central - Crunch Distortion** and **A&M Custom Effects - Crazyboy - Double Fuzz**. PRP1 remains gated until the researched-photo-pending count reaches **0**.
 
 The recovery worker is operating with the tightened September 23 throughput rules:
+The September 23 hard-case throughput pass now reopens up to **30 parked records per cycle** and reserves up to **16 hard-case processing slots**, while retaining the existing per-builder and browser concurrency limits.
+
 - each pedal gets a bounded recovery window
 - large batches are capped to fit inside the Actions job window
 - curated direct-image overrides are attempted before source-page navigation or search
