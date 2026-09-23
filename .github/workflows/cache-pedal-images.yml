@@ -81,7 +81,7 @@ jobs:
         env:
           # Larger bounded passes reduce runner overhead while preserving visible,
           # resumable progress in Git history.
-          PHOTO_BROWSER_CACHE_LIMIT: "300"
+          PHOTO_BROWSER_CACHE_LIMIT: "240"
           PHOTO_BROWSER_CACHE_CONCURRENCY: "16"
           PHOTO_BROWSER_PAGE_TIMEOUT_MS: "9000"
           PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "7500"
@@ -94,7 +94,7 @@ jobs:
           # The old 60-second cap was the primary throughput bottleneck. Give each
           # scheduled runner a substantial browser window while leaving time for
           # image conversion, synchronization, and the commit/push phase.
-          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "1200000"
+          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "120000"
         run: node scripts/browser-photo-cache.mjs
 
       - name: Download and cache verified pedal images
