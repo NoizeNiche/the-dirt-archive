@@ -190,6 +190,12 @@ def cache_entry_prepare(entry):
     target = target_path(entry)
     target.parent.mkdir(parents=True, exist_ok=True)
 
+    # A prior browser-recovery pass may already have converted the staged
+    # source into the canonical local asset. Reattach that local path to the
+    # catalog instead of falling through to the external-source logic.
+    if target.exists():
+        return ("retain", entry, rel_path(target), None)
+
     # Browser-assisted recovery may have staged the exact source bytes next
     # to the canonical target. Convert them into the public WebP archive.
     if not target.exists():
