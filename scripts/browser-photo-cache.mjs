@@ -911,12 +911,15 @@ async function recoverEntry(browser, entry, deepReview = false) {
       candidates.push(...makerCandidates);
     }
 
-    if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) {
+    const directImageUrls = Array.isArray(entry.image_source_urls) && entry.image_source_urls.length
+      ? entry.image_source_urls.filter(value => /^https?:/i.test(String(value || "")))
+      : (entry.image_source_url && /^https?:/i.test(entry.image_source_url) ? [entry.image_source_url] : []);
+    for (const imageUrl of [...new Set(directImageUrls)].slice(0, 8)) {
       // A manually curated direct image URL is the strongest possible photo lead:
       // it was selected from an exact, identity-verified source page. Keep it
       // ahead of generic DOM/CDN candidates so the candidate cap cannot hide it.
       candidates.push({
-        url: entry.image_source_url,
+        url: imageUrl,
         sourcePage: entry.image_source_page || entry.source_page || null,
         sourceScore: 1400,
         directImageOverride: true
