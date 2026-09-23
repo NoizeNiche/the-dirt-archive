@@ -1317,6 +1317,18 @@ async function recoverEntry(browser, entry, deepReview = false) {
                 if (bytes && bytes.length >= 3000) return { candidate, bytes };
               }
             }
+
+            // Chromium may display a direct image URL as an image document with
+            // an unreliable or absent <img> locator. Capture the rendered body
+            // only for the curated exact direct-image candidate.
+            const body = page.locator('body').first();
+            if (await body.count()) {
+              const bodyBox = await body.boundingBox().catch(() => null);
+              if ((bodyBox?.width || 0) >= 220 && (bodyBox?.height || 0) >= 220) {
+                const bytes = await body.screenshot({ type: 'png' }).catch(() => null);
+                if (bytes && bytes.length >= 3000) return { candidate, bytes };
+              }
+            }
           } catch {}
         }
       }
