@@ -1,8 +1,8 @@
 ## Current recovery checkpoint - September 22, 2026
 
-The canonical tracker currently parses to **3,816 total records / 1,270 researched records / 1,022 pictured and complete records / 249 researched-photo-pending records / 2,794 photo-missing records overall**. The latest bounded cache run **1053** published **2 additional exact-model local photos, AGR Pedals DS2610 - Vintage Distortion and FZR912 - Muff Fuzz Deluxe**, moving the researched-photo gate from 251 to 249.
+The canonical tracker currently parses to **3,816 total records / 1,270 researched records / 1,030 pictured and complete records / 241 researched-photo-pending records / 2,786 photo-missing records overall**. The latest bounded cache run **1054** published **8 additional exact-model local photos**, moving the researched-photo gate from 249 to 241.
 
-The recovery queue is now rotating parked hard cases through bounded deep-review cycles instead of repeatedly reopening the same cohort. The first rotated cohort has completed **Deep Review Cycle 1**, and the next recovery pass will move to the next parked cases.
+The recovery lane is now making sustained progress through the next A-to-Z cohort, with exact local photos recovered for Alber FU-1000, FU-1000P, GA-1040P Gain, OD-6, OD-600 and Alen Geere Crown Centaur, LEADer Mk.2, and Preface Drive. Parked hard cases continue to rotate through bounded deep-review cycles separately.
 
 The photo-recovery queue remains the active gate. **PRP1 stays paused until researched-photo-pending reaches 0.** Public detail pages continue to hide Research confidence and Sources checked, and the future YouTube demo widget remains deferred until the photo catch-up is complete.
 
