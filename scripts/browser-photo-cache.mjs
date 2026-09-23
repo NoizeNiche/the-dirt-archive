@@ -1530,7 +1530,6 @@ async function recoverEntry(browser, entry, deepReview = false) {
         } catch {}
         }
       }
-      }
     }
     const tokens = identityTokens(entry.pedal);
     const ranked = [...new Map(candidates.map(x => [x.url, x])).values()].sort((a, b) => {
