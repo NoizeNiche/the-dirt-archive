@@ -31,6 +31,18 @@ These remain photo-recovery leads only. No record is marked pictured until an ex
 
 ---
 
+## Photo recovery checkpoint - September 23, 2026 — live reconciled state
+
+The canonical tracker now verifies **3,816 total / 1,270 researched / 1,209 pictured / 1,209 complete / 62 researched-photo-pending / 2,607 photo-missing**.
+
+The latest completed recovery pass is commit `5a84726`. It archived the exact-model **Brantone Electronics - Tonemaster Mk1.5 Germanium Fuzz** locally, moving the researched-photo gate from 63 to **62**. The current photo-review queue is **62 records: 38 DEEP_REVIEW and 24 PARKED**.
+
+The recovery source lane was also hardened with verified direct images for **Big Monk - Monk Boost, Blackstar HT-DRIVE, Blackstar LT-DRIVE, and Blakemore Effects Deus Ex Machina**. The Big Monk source was corrected to the exact Monk Boost Reverb listing after the builder URL proved to be a different Fuzz Buffer product.
+
+All of these source additions remain leads until the exact image is archived locally. PRP1 remains gated until the researched-photo-pending count reaches **0**.
+
+---
+
 ## Photo recovery checkpoint - September 22, 2026
 
 Latest verified tracker state: **3,816 total / 1,270 researched / 1,036 pictured / 1,036 complete / 235 researched-photo-pending / 2,780 photo-missing**.
