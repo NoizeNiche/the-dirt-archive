@@ -878,7 +878,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
     soldCandidates: 0,
     verifiedSoldCandidates: 0,
     imageSearchCandidates: 0,
-    verifiedSearchCandidates: 0
+    verifiedSearchCandidates: 0,
+    imageProxyAttempts: 0,
+    imageProxySuccesses: 0,
+    imageProxyLastStatus: null,
+    imageProxyLastContentType: null
   };
   const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
   const networkImageUrls = [];
@@ -1285,9 +1289,12 @@ async function recoverEntry(browser, entry, deepReview = false) {
                 redirect: 'follow'
               });
               const proxyType = String(proxyResponse.headers.get('content-type') || '').toLowerCase();
+              diagnostic.imageProxyLastStatus = proxyResponse.status;
+              diagnostic.imageProxyLastContentType = proxyType || null;
               if (proxyResponse.ok && proxyType.startsWith('image/')) {
                 const bytes = Buffer.from(await proxyResponse.arrayBuffer());
                 if (bytes.length >= 3000) {
+                  diagnostic.imageProxySuccesses++;
                   diagnostic.directImageProxyUsed = true;
                   return { candidate, bytes };
                 }
