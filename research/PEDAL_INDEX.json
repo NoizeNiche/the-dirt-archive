@@ -10471,16 +10471,17 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackouteffectors/blunderbuss-musket/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/blackout/musketfuzz",
       "research_record": "./research/pedals/PRP Batch 102/Blunderbuss Musket.md",
       "image_source_pages": [
         "https://blackouteffectors.com/effects/"
       ],
-      "image_source_page": "https://blackouteffectors.com/effects/",
+      "image_source_page": "https://www.walmart.com/ip/Senior-2025-Class-of-2025-Seniors-Graduation-2025-Senior-25-T-Shirt/5673352123",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 372
+      "image_source_priority": 372,
+      "image_source_url": "https://i5.walmartimages.com/seo/Senior-2025-Class-of-2025-Seniors-Graduation-2025-Senior-25-T-Shirt_0955eaea-923c-4a1a-8fdb-ce8e755d969b.3904e43f8d9de8b12cd2ebb0d5c1f7bd.jpeg"
     },
     {
       "company": "BlackOutEffectors",
