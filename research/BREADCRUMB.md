@@ -1,16 +1,16 @@
 ## Photo recovery checkpoint - September 22, 2026
 
-Latest verified tracker state: **3,816 total / 1,271 researched / 1,018 pictured / 1,018 complete / 253 researched-photo-pending / 2,798 photo-missing**.
+Latest verified tracker state: **3,816 total / 1,271 researched / 1,019 pictured / 1,019 complete / 252 researched-photo-pending / 2,797 photo-missing**.
 
-The latest bounded cache run successfully archived **60 exact-model local photos** from the A-to-Z researched-photo backlog. The recovery lane remains the active gate, and PRP1 remains paused until researched-photo-pending reaches **0**.
+The latest bounded cache run **1044** successfully archived **1 exact-model local photo: Aether Electronic - Lenore**. The recovery lane remains the active gate, and PRP1 remains paused until researched-photo-pending reaches **0**.
 
-The batch deliberately kept difficult records in the unresolved queue when exact identity could not be proven, rather than substituting visually similar pedals or external URLs. New exact-source and direct-image leads were added for A&M Custom Effects, AboveGroundFX, Accel Audio, and Acid Fuzz, then exercised through the repaired browser recovery and local-cache pipeline.
+The batch also removed the stale Acid Fuzz MKI Mini source/direct-image leads so the full-size Acid Fuzzer MKI recovery path is no longer exposed to that identity collision.
 
-Latest cache checkpoint: **e66ecc04404df74d116d2d0deb9467ee2477cc7a**.
+Latest cache checkpoint: **4f9aae2b9c8dcadb4e5f8e3e320400718ccbf688**.
 
 ---
 
-## Public-site and recovery checkpoint - September 22, 2026
+
 
 The public detail page carries the current pedal's dirt-type context into its sidebar, the landing page has a one-click **Clear filters** control, and pagination/search state remains URL-aware.
 
