@@ -80,7 +80,7 @@ jobs:
       - name: Recover verified page images
         env:
           # Smaller committed batches keep recovery bounded and make progress visible.
-          PHOTO_BROWSER_CACHE_LIMIT: "60"
+          PHOTO_BROWSER_CACHE_LIMIT: "90"
           PHOTO_BROWSER_CACHE_CONCURRENCY: "10"
           PHOTO_BROWSER_PAGE_TIMEOUT_MS: "7500"
           PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "7500"
