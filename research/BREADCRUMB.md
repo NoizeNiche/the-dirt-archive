@@ -8,6 +8,16 @@ The current review queue is **199 records: 197 DEEP_REVIEW and 2 PARKED**. PRP1 
 
 ---
 
+## Photo-source hardening - September 23, 2026
+
+The recovery source queue was strengthened for two current DEEP_REVIEW records:
+- **Big Monk Electronic Device Co. - Monk Boost** now points first to the builder's exact Monk Boost product page: `https://www.bigmonkdevices.com/the-monk-boost`.
+- **Big Ear NYC - The LOAF Fuzz** now points first to the current BIG EAR LOAF product page: `https://www.bigearpedals.com/product-page/loaf`.
+
+These are source-lead improvements only. They do **not** mark either pedal as pictured. The exact-image gate remains unchanged until a verified local image is actually archived.
+
+---
+
 ## Photo recovery checkpoint - September 22, 2026
 
 Latest verified tracker state: **3,816 total / 1,270 researched / 1,036 pictured / 1,036 complete / 235 researched-photo-pending / 2,780 photo-missing**.
