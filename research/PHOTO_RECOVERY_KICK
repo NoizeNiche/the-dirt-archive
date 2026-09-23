@@ -22,3 +22,4 @@ September 23 2026 recovery kick: added exact Audiobox Crunch Box and Baltimore S
 September 23 2026 recovery kick: strengthened verified Reverb gallery capture to open multiple exact-listing thumbnails and reject promoted/similar listing imagery.
 September 23 2026 recovery kick: added an exact model-specific TalkBass source lead for Baddy One Shoe Pedals Infinity Drive #01.
 September 23 2026 recovery kick: normalized Reverb locale-prefixed source URLs in the verified image-search identity gate so exact listings under /ca/, /es/, etc. match their curator-verified product paths.
+September 23 2026 recovery kick: fixed the Python cache layer to try every curated image_source_urls fallback before source-page discovery, preventing exact alternate images from being stranded behind blocked primary URLs.
