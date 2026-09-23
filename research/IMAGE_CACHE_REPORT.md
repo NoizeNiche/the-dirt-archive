@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
-- Staged browser photos converted: **0**
+- Cached in this run: **6**
+- Staged browser photos converted: **6**
 - Local images retained/reorganized: **0**
 - Download failures: **4**
-- Remaining tracker photo backlog: **2751**
-- Researched, photo pending: **206**
+- Remaining tracker photo backlog: **2745**
+- Researched, photo pending: **200**
 - External source images awaiting localization: **4**
 
 ## Storage layout
@@ -13,6 +13,15 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- Alber - OD-610 Over Drive -> `./assets/pedals/alber/od-610-over-drive/primary.webp`
+- Audile - Bass TOAD - Tone Overdrive And Distortion for Bass -> `./assets/pedals/audile/bass-toad-tone-overdrive-and-distortion-for-bass/primary.webp`
+- Axis Guitar Effects - Axis Face MkII -> `./assets/pedals/axis-guitar-effects/axis-face-mkii/primary.webp`
+- Bigfoot F.X. - Dynamic Distortion Device -> `./assets/pedals/bigfoot-f-x/dynamic-distortion-device/primary.webp`
+- Billionaire (by Danelectro) - Trillion Dollar Fuzz -> `./assets/pedals/billionaire-by-danelectro/trillion-dollar-fuzz/primary.webp`
+- Bondi Effects - Del Mar Overdrive mk1 -> `./assets/pedals/bondi-effects/del-mar-overdrive-mk1/primary.webp`
 
 ## Still external / failed
 

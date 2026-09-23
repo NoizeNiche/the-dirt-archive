@@ -1892,16 +1892,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alber/od-610-over-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/alber/x10/od610",
       "research_record": "./research/pedals/Alber/OD-610 Over Drive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alber/x10/od610",
+      "image_source_page": "https://mpamp.com/product/42/alberts-overdrive",
       "image_source_page_verified": true,
       "image_source_priority": 304,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alber/x10/od610"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://mpamp.com/tuotekuvat/1200x1200/albertsoverdrive_copy1.png"
     },
     {
       "company": "Alcove",
@@ -4142,7 +4143,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/audile/bass-toad-tone-overdrive-and-distortion-for-bass/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/audile/toad/bass",
       "research_record": "./research/pedals/Audile/Bass TOAD - Tone Overdrive And Distortion for Bass.md",
       "image_source_pages": [
@@ -4151,7 +4152,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/audile/toad/bass",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 364
+      "image_source_priority": 364,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/audile_toad-bass_002.jpg"
     },
     {
       "company": "Audile",
@@ -5069,7 +5071,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/axis-guitar-effects/axis-face-mkii/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/axisge/face/mk2",
       "research_record": "./research/pedals/Axis Guitar Effects/Axis Face MkII.md",
       "image_source_page": "https://www.effectsdatabase.com/model/axisge/face/mk2",
@@ -5078,7 +5080,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/axisge/face/mk2"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/axisge_face-mk2_001.jpg"
     },
     {
       "company": "Axis Guitar Effects",
@@ -8585,16 +8588,17 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/bigfoot-f-x/dynamic-distortion-device/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bigfoot/dynamicdistortion",
       "research_record": "./research/pedals/PRP Batch 087/Dynamic Distortion Device.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigfoot/dynamicdistortion",
+      "image_source_page": "https://www.mercatinomusicale.com/mm/a_bigfoot-fx-dynamic-distortion_id7847885.html",
       "image_source_page_verified": true,
       "image_source_priority": 215,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/bigfoot/dynamicdistortion"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://pics.mercatinomusicale.com/p_m/85/78/7847885_1715788152.jpg?20240516_1726"
     },
     {
       "company": "Bigfoot F.X.",
@@ -8691,16 +8695,17 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/billionaire-by-danelectro/trillion-dollar-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/danelectro/billionaire/trilliondollarfuzz",
       "research_record": "./research/pedals/PRP Batch 088/Trillion Dollar Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/danelectro/billionaire/trilliondollarfuzz",
+      "image_source_page": "https://esquirecolombia.com/rocky-hail-mary-historia/",
       "image_source_page_verified": true,
       "image_source_priority": 213,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/danelectro/billionaire/trilliondollarfuzz"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://esquirecolombia.com/wp-content/uploads/2026/03/hail-mary-puppet-bts-860x484.png"
     },
     {
       "company": "Biltworth",
@@ -11211,16 +11216,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bondi-effects/del-mar-overdrive-mk1/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bondi/delmar",
       "research_record": "./research/pedals/PRP Batch 107/Del Mar Overdrive mk1.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bondi/delmar",
+      "image_source_page": "https://www.carousell.sg/p/bondi-effects-del-mar-overdrive-208944069/",
       "image_source_page_verified": true,
       "image_source_priority": 189,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/bondi/delmar"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://media.karousell.com/media/photos/products/2019/01/28/bondi_effects_del_mar_overdrive_1548657699_2fc8dae1.jpg"
     },
     {
       "company": "Bondi Effects",

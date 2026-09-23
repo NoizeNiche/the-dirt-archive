@@ -1233,9 +1233,11 @@
   {
     "builder": "Alber",
     "pedal": "OD-610 Over Drive",
-    "image": null,
+    "image": "./assets/pedals/alber/od-610-over-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/alber/x10/od610",
-    "research_record": "./research/pedals/Alber/OD-610 Over Drive.md"
+    "research_record": "./research/pedals/Alber/OD-610 Over Drive.md",
+    "image_source_url": "https://mpamp.com/tuotekuvat/1200x1200/albertsoverdrive_copy1.png",
+    "image_source_page": "https://mpamp.com/product/42/alberts-overdrive"
   },
   {
     "builder": "Alcove",
@@ -2806,9 +2808,11 @@
   {
     "builder": "Audile",
     "pedal": "Bass TOAD - Tone Overdrive And Distortion for Bass",
-    "image": null,
+    "image": "./assets/pedals/audile/bass-toad-tone-overdrive-and-distortion-for-bass/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/audile/toad/bass",
-    "research_record": "./research/pedals/Audile/Bass TOAD - Tone Overdrive And Distortion for Bass.md"
+    "research_record": "./research/pedals/Audile/Bass TOAD - Tone Overdrive And Distortion for Bass.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/audile_toad-bass_002.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/audile/toad/bass"
   },
   {
     "builder": "Audile",
@@ -3384,9 +3388,11 @@
   {
     "builder": "Axis Guitar Effects",
     "pedal": "Axis Face MkII",
-    "image": null,
+    "image": "./assets/pedals/axis-guitar-effects/axis-face-mkii/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/axisge/face/mk2",
-    "research_record": "./research/pedals/Axis Guitar Effects/Axis Face MkII.md"
+    "research_record": "./research/pedals/Axis Guitar Effects/Axis Face MkII.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/axisge_face-mk2_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/axisge/face/mk2"
   },
   {
     "builder": "Axis Guitar Effects",
@@ -5785,10 +5791,12 @@
   {
     "builder": "Bigfoot F.X.",
     "pedal": "Dynamic Distortion Device",
-    "image": null,
+    "image": "./assets/pedals/bigfoot-f-x/dynamic-distortion-device/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/bigfoot/dynamicdistortion",
-    "research_record": "./research/pedals/PRP Batch 087/Dynamic Distortion Device.md"
+    "research_record": "./research/pedals/PRP Batch 087/Dynamic Distortion Device.md",
+    "image_source_url": "https://pics.mercatinomusicale.com/p_m/85/78/7847885_1715788152.jpg?20240516_1726",
+    "image_source_page": "https://www.mercatinomusicale.com/mm/a_bigfoot-fx-dynamic-distortion_id7847885.html"
   },
   {
     "builder": "Bigfoot F.X.",
@@ -5848,10 +5856,12 @@
   {
     "builder": "Billionaire (by Danelectro)",
     "pedal": "Trillion Dollar Fuzz",
-    "image": null,
+    "image": "./assets/pedals/billionaire-by-danelectro/trillion-dollar-fuzz/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/danelectro/billionaire/trilliondollarfuzz",
-    "research_record": "./research/pedals/PRP Batch 088/Trillion Dollar Fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 088/Trillion Dollar Fuzz.md",
+    "image_source_url": "https://esquirecolombia.com/wp-content/uploads/2026/03/hail-mary-puppet-bts-860x484.png",
+    "image_source_page": "https://esquirecolombia.com/rocky-hail-mary-historia/"
   },
   {
     "builder": "Biltworth",
@@ -7407,9 +7417,11 @@
   {
     "builder": "Bondi Effects",
     "pedal": "Del Mar Overdrive mk1",
-    "image": null,
+    "image": "./assets/pedals/bondi-effects/del-mar-overdrive-mk1/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/bondi/delmar",
-    "research_record": "./research/pedals/PRP Batch 107/Del Mar Overdrive mk1.md"
+    "research_record": "./research/pedals/PRP Batch 107/Del Mar Overdrive mk1.md",
+    "image_source_url": "https://media.karousell.com/media/photos/products/2019/01/28/bondi_effects_del_mar_overdrive_1548657699_2fc8dae1.jpg",
+    "image_source_page": "https://www.carousell.sg/p/bondi-effects-del-mar-overdrive-208944069/"
   },
   {
     "builder": "Bondi Effects",
