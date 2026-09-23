@@ -82,6 +82,11 @@ def main() -> None:
             if stale_reverb:
                 entry.pop("image_source_url", None)
                 entry.pop("image_source_urls", None)
+                # A legacy external image field can otherwise short-circuit the
+                # browser recovery path and keep retrying the same dead Reverb CDN.
+                stale_image = str(entry.get("image") or "").strip()
+                if "rvb-img.reverb.com" in stale_image.lower():
+                    entry.pop("image", None)
 
         override = override or []
         pages = list(dict.fromkeys(page for page, _, _ in override))
