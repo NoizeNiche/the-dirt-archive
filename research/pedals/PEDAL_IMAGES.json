@@ -1157,16 +1157,20 @@
   {
     "builder": "Alber",
     "pedal": "FU-1000",
-    "image": null,
+    "image": "./assets/pedals/alber/fu-1000/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/alber/x00/fu1000",
-    "research_record": "./research/pedals/Alber/FU-1000.md"
+    "research_record": "./research/pedals/Alber/FU-1000.md",
+    "image_source_url": "https://auctions.afimg.jp/s1002072030/ya/image/s1002072030.3.jpg",
+    "image_source_page": "https://aucview.aucfan.com/yahoo/s1002072030/"
   },
   {
     "builder": "Alber",
     "pedal": "FU-1000P",
-    "image": null,
+    "image": "./assets/pedals/alber/fu-1000p/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/alber/x00p/fu1000p",
-    "research_record": "./research/pedals/Alber/FU-1000P.md"
+    "research_record": "./research/pedals/Alber/FU-1000P.md",
+    "image_source_url": "https://auctions.afimg.jp/s1002072030/ya/image/s1002072030.4.jpg",
+    "image_source_page": "https://aucview.aucfan.com/yahoo/s1002072030/"
   },
   {
     "builder": "Alber",
@@ -1187,23 +1191,29 @@
   {
     "builder": "Alber",
     "pedal": "GA-1040P Gain",
-    "image": null,
+    "image": "./assets/pedals/alber/ga-1040p-gain/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/alber/x00p/ga1040p",
-    "research_record": "./research/pedals/Alber/GA-1040P Gain.md"
+    "research_record": "./research/pedals/Alber/GA-1040P Gain.md",
+    "image_source_url": "https://crazychickenguitarpedals.com/wp-content/uploads/2025/01/Gain-Stacking-min-766x1024.jpg",
+    "image_source_page": "https://crazychickenguitarpedals.com/guitar-pedal-blog/general-guitar-pedals/what-is-gain-stacking-and-how-do-you-do-it/"
   },
   {
     "builder": "Alber",
     "pedal": "OD-6 Over Drive",
-    "image": null,
+    "image": "./assets/pedals/alber/od-6-over-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/alber/zn/od6",
-    "research_record": "./research/pedals/Alber/OD-6 Over Drive.md"
+    "research_record": "./research/pedals/Alber/OD-6 Over Drive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/alber_od-600-ikn_003.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/od600"
   },
   {
     "builder": "Alber",
     "pedal": "OD-600 Over Drive",
-    "image": null,
+    "image": "./assets/pedals/alber/od-600-over-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/alber/x00/od600",
-    "research_record": "./research/pedals/Alber/OD-600 Over Drive.md"
+    "research_record": "./research/pedals/Alber/OD-600 Over Drive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/alber_od-600-ikn_002.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/od600"
   },
   {
     "builder": "Alber",
@@ -1283,18 +1293,22 @@
   {
     "builder": "Alen Geere",
     "pedal": "Crown Centaur",
-    "image": null,
+    "image": "./assets/pedals/alen-geere/crown-centaur/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/alengeere/crowncentaur",
     "research_record": "./research/pedals/PRP Batch 046/Crown Centaur.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://i.ytimg.com/vi/yzpiZKmnOBs/maxresdefault.jpg",
+    "image_source_page": "https://www.youtube.com/watch?v=yzpiZKmnOBs"
   },
   {
     "builder": "Alen Geere",
     "pedal": "LEADer Mk.2",
-    "image": null,
+    "image": "./assets/pedals/alen-geere/leader-mk-2/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/alengeere/leader/mk2",
     "research_record": "./research/pedals/PRP Batch 046/LEADer Mk.2.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://i.ytimg.com/vi/Hu-tP-hUyKA/maxresdefault.jpg",
+    "image_source_page": "https://www.youtube.com/watch?v=Hu-tP-hUyKA"
   },
   {
     "builder": "Alen Geere",
@@ -1315,10 +1329,12 @@
   {
     "builder": "Alen Geere",
     "pedal": "Preface Drive",
-    "image": null,
+    "image": "./assets/pedals/alen-geere/preface-drive/primary.webp",
     "source_page": "https://drbarlo.blogspot.com/2011/",
     "research_record": "./research/pedals/PRP Batch 046/Preface Drive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0310/users/64f9db9edda92790c82925a30059eb6f9c267c15/i-img1200x882-1666425447cwthw545373.jpg",
+    "image_source_page": "https://auctions.yahoo.co.jp/jp/auction/s1068155167"
   },
   {
     "builder": "Alen Geere",

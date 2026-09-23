@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
-- Staged browser photos converted: **2**
+- Cached in this run: **8**
+- Staged browser photos converted: **8**
 - Local images retained/reorganized: **0**
 - Download failures: **11**
-- Remaining tracker photo backlog: **2794**
-- Researched, photo pending: **249**
+- Remaining tracker photo backlog: **2786**
+- Researched, photo pending: **241**
 - External source images awaiting localization: **11**
 
 ## Storage layout
@@ -16,8 +16,14 @@
 
 ## Newly cached
 
-- AGR Pedals - DS2610 - Vintage Distortion -> `./assets/pedals/agr-pedals/ds2610-vintage-distortion/primary.webp`
-- AGR Pedals - FZR912 - Muff Fuzz Deluxe -> `./assets/pedals/agr-pedals/fzr912-muff-fuzz-deluxe/primary.webp`
+- Alber - FU-1000 -> `./assets/pedals/alber/fu-1000/primary.webp`
+- Alber - FU-1000P -> `./assets/pedals/alber/fu-1000p/primary.webp`
+- Alber - GA-1040P Gain -> `./assets/pedals/alber/ga-1040p-gain/primary.webp`
+- Alber - OD-6 Over Drive -> `./assets/pedals/alber/od-6-over-drive/primary.webp`
+- Alber - OD-600 Over Drive -> `./assets/pedals/alber/od-600-over-drive/primary.webp`
+- Alen Geere - Crown Centaur -> `./assets/pedals/alen-geere/crown-centaur/primary.webp`
+- Alen Geere - LEADer Mk.2 -> `./assets/pedals/alen-geere/leader-mk-2/primary.webp`
+- Alen Geere - Preface Drive -> `./assets/pedals/alen-geere/preface-drive/primary.webp`
 
 ## Still external / failed
 

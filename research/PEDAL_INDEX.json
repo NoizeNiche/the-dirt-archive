@@ -1767,16 +1767,17 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/alber/fu-1000/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/alber/x00/fu1000",
       "research_record": "./research/pedals/Alber/FU-1000.md",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alber/x00/fu1000"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/fu1000",
+      "image_source_page": "https://aucview.aucfan.com/yahoo/s1002072030/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 338
+      "image_source_priority": 338,
+      "image_source_url": "https://auctions.afimg.jp/s1002072030/ya/image/s1002072030.3.jpg"
     },
     {
       "company": "Alber",
@@ -1784,16 +1785,17 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/alber/fu-1000p/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/alber/x00p/fu1000p",
       "research_record": "./research/pedals/Alber/FU-1000P.md",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alber/x00p/fu1000p"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/alber/x00p/fu1000p",
+      "image_source_page": "https://aucview.aucfan.com/yahoo/s1002072030/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 339
+      "image_source_priority": 339,
+      "image_source_url": "https://auctions.afimg.jp/s1002072030/ya/image/s1002072030.4.jpg"
     },
     {
       "company": "Alber",
@@ -1836,16 +1838,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alber/ga-1040p-gain/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/alber/x00p/ga1040p",
       "research_record": "./research/pedals/Alber/GA-1040P Gain.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alber/x00p/ga1040p",
+      "image_source_page": "https://crazychickenguitarpedals.com/guitar-pedal-blog/general-guitar-pedals/what-is-gain-stacking-and-how-do-you-do-it/",
       "image_source_page_verified": true,
       "image_source_priority": 301,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alber/x00p/ga1040p"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://crazychickenguitarpedals.com/wp-content/uploads/2025/01/Gain-Stacking-min-766x1024.jpg"
     },
     {
       "company": "Alber",
@@ -1853,16 +1856,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alber/od-6-over-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/alber/zn/od6",
       "research_record": "./research/pedals/Alber/OD-6 Over Drive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alber/zn/od6",
+      "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/od600",
       "image_source_page_verified": true,
       "image_source_priority": 302,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alber/zn/od6"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/alber_od-600-ikn_003.jpg"
     },
     {
       "company": "Alber",
@@ -1870,7 +1874,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alber/od-600-over-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/alber/x00/od600",
       "research_record": "./research/pedals/Alber/OD-600 Over Drive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/alber/x00/od600",
@@ -1879,7 +1883,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alber/x00/od600"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/alber_od-600-ikn_002.jpg"
     },
     {
       "company": "Alber",
@@ -2011,16 +2016,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alen-geere/crown-centaur/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 046/Crown Centaur.md",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alengeere/crowncentaur"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/crowncentaur",
+      "image_source_page": "https://www.youtube.com/watch?v=yzpiZKmnOBs",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 334
+      "image_source_priority": 334,
+      "image_source_url": "https://i.ytimg.com/vi/yzpiZKmnOBs/maxresdefault.jpg"
     },
     {
       "company": "Alen Geere",
@@ -2028,16 +2034,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alen-geere/leader-mk-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 046/LEADer Mk.2.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/leader/mk2",
+      "image_source_page": "https://www.youtube.com/watch?v=Hu-tP-hUyKA",
       "image_source_page_verified": true,
       "image_source_priority": 93,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alengeere/leader/mk2"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://i.ytimg.com/vi/Hu-tP-hUyKA/maxresdefault.jpg"
     },
     {
       "company": "Alen Geere",
@@ -2080,16 +2087,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alen-geere/preface-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 046/Preface Drive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/prefacedrive",
+      "image_source_page": "https://auctions.yahoo.co.jp/jp/auction/s1068155167",
       "image_source_page_verified": true,
       "image_source_priority": 94,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alengeere/prefacedrive"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0310/users/64f9db9edda92790c82925a30059eb6f9c267c15/i-img1200x882-1666425447cwthw545373.jpg"
     },
     {
       "company": "Alen Geere",
