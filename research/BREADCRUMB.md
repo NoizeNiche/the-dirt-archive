@@ -1,16 +1,14 @@
 ## Photo recovery checkpoint - September 22, 2026
 
-Latest verified tracker state: **3,816 total / 1,271 researched / 1,019 pictured / 1,019 complete / 252 researched-photo-pending / 2,797 photo-missing**.
+Latest verified tracker state: **3,816 total / 1,270 researched / 1,020 pictured / 1,020 complete / 251 researched-photo-pending / 2,796 photo-missing**.
 
-The latest bounded cache run **1044** successfully archived **1 exact-model local photo: Aether Electronic - Lenore**. The recovery lane remains the active gate, and PRP1 remains paused until researched-photo-pending reaches **0**.
+Cache run **1048** successfully archived **Baja Tech Custom - Das Fuzz Si** from an exact non-Reverb product image, reducing the researched-photo gate by one. The browser recovery engine now renders curated direct-image overrides inside Chromium when direct HTTP retrieval is blocked, and the cache scheduler now allows bounded recovery workers to finish rather than cancelling an active pass when a newer trigger arrives.
 
-The batch also removed the stale Acid Fuzz MKI Mini source/direct-image leads so the full-size Acid Fuzzer MKI recovery path is no longer exposed to that identity collision.
+PRP1 remains gated until researched-photo-pending reaches **0**.
 
-Latest cache checkpoint: **4f9aae2b9c8dcadb4e5f8e3e320400718ccbf688**.
+Latest recovery checkpoint: **35814669007**.
 
 ---
-
-
 
 The public detail page carries the current pedal's dirt-type context into its sidebar, the landing page has a one-click **Clear filters** control, and pagination/search state remains URL-aware.
 
