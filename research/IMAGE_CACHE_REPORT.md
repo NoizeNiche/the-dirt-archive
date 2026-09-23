@@ -1,8 +1,8 @@
 # Pedal Image Cache Report
 
 - Cached in this run: **0**
-- Staged browser photos converted: **2**
-- Local images retained/reorganized: **2**
+- Staged browser photos converted: **0**
+- Local images retained/reorganized: **0**
 - Download failures: **3**
 - Remaining tracker photo backlog: **2613**
 - Researched, photo pending: **68**
@@ -16,8 +16,8 @@
 
 ## Still external / failed
 
-- BlackOutEffectors - Fix'd Fuzz: https://rvb-img.reverb.com/i/s--6A49vknD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ujyzjxd6ul3eri7ouwwl.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--6A49vknD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ujyzjxd6ul3eri7ouwwl.jpg`)
-- Bob Burt Cabinets & Pedals - Bob Burt GR8T Distortion: https://rvb-img.reverb.com/i/s--V83fkBVR--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/c4149c5d-696d-4f7f-a03a-3685a8fece8f.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--V83fkBVR--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/c4149c5d-696d-4f7f-a03a-3685a8fece8f.jpg`)
-- Caline - CP-82 The Broadsword Bass Fuzz + Boost: https://rvb-img.reverb.com/i/s--rD2wpDwH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/neizxkgx3i1dn4e8cdwi.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--rD2wpDwH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/neizxkgx3i1dn4e8cdwi.jpg`)
+- BlackOutEffectors - Fix'd Fuzz: https://rvb-img.reverb.com/i/s--bxGjfsNY--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ujyzjxd6ul3eri7ouwwl.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--bxGjfsNY--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ujyzjxd6ul3eri7ouwwl.jpg`)
+- Bob Burt Cabinets & Pedals - Bob Burt GR8T Distortion: https://rvb-img.reverb.com/i/s--V83fkBVR--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/80dbf273-24c6-4050-ad05-f7d723684235.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--V83fkBVR--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/80dbf273-24c6-4050-ad05-f7d723684235.jpg`)
+- Caline - CP-82 The Broadsword Bass Fuzz + Boost: https://rvb-img.reverb.com/i/s--MbwnScVk--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ydvcqj0rdugby6rkxcmg.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s--MbwnScVk--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ydvcqj0rdugby6rkxcmg.jpg`)
 
 These records remain externally referenced until a later cache run succeeds.
