@@ -1317,7 +1317,25 @@ async function recoverEntry(browser, entry, deepReview = false) {
       });
     }
 
-    for (const pageUrl of pageUrls) {
+    // Exact curated direct-image URLs are the strongest possible photo lead.
+    // Try them before spending time loading/searching the source page. This makes
+    // hard-case recovery cheap when the source CDN itself is the only obstacle.
+    let selectedResult = await tryImages(
+      candidates.filter(candidate => candidate.directImageOverride)
+    );
+    if (!selectedResult) {
+      for (const candidate of candidates.filter(candidate => candidate.directImageOverride).slice(0, 8)) {
+        const shot = await screenshotDirectImageCandidate(candidate);
+        if (shot) {
+          selectedResult = { candidate, bytes: shot.bytes };
+          diagnostic.sourceScreenshotCaptured = true;
+          break;
+        }
+      }
+    }
+
+    if (!selectedResult) {
+      for (const pageUrl of pageUrls) {
       if (!pageUrl || !/^https?:/i.test(pageUrl)) continue;
       try {
         // Keep rendered-network candidates scoped to the source page that
@@ -1510,8 +1528,10 @@ async function recoverEntry(browser, entry, deepReview = false) {
             }
           }
         } catch {}
+        }
       }
       }
+    }
     const tokens = identityTokens(entry.pedal);
     const ranked = [...new Map(candidates.map(x => [x.url, x])).values()].sort((a, b) => {
       const score = candidate => {
@@ -2533,9 +2553,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
       return null;
     }
     // First trust only candidates discovered on the already-verified source page.
-    let selectedResult = await tryImages(
-      ranked.filter(candidate => !candidate.searchResult)
-    );
+    if (!selectedResult) {
+      selectedResult = await tryImages(
+        ranked.filter(candidate => !candidate.searchResult)
+      );
+    }
 
     // Curated direct-image overrides are already exact-model evidence. When
     // the HTTP request layer returns 401/403/500, let Chromium render that
@@ -3012,7 +3034,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
   const trackerMeta = new Map(
     trackerRows.map((row, index) => [
       key(row.Builder, row.Pedal),
-      { order: index, pictureDone: row.Picture === 'DONE' }
+      { order: index, pictureDone: row.Picture === 'DONE', pedalInfoDone: row['Pedal Info'] === 'DONE' }
     ])
   );
   const reviewRows = fs.existsSync(PHOTO_REVIEW_QUEUE)
@@ -3125,6 +3147,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
         // below the first 25 fresh tracker rows and never get attempted promptly.
         if (entry.image_source_page_verified === true && entry.image_source_page) value += 100000000;
         else if (entry.image_source_page && /^https?:/i.test(entry.image_source_page)) value += 5000;
+        if (meta?.pedalInfoDone) value += 25000;
         if (entry.image_source_url && /^https?:/i.test(entry.image_source_url)) value += 100;
         if (review?.Status === 'DEEP_REVIEW') value -= 40;
         if (PRIORITY_COMPANY && String(entry.company || '').trim().toLowerCase() === PRIORITY_COMPANY) value += 100000;
