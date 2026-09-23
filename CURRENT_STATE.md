@@ -1,6 +1,6 @@
 ## Current recovery checkpoint - September 23, 2026
 
-The canonical tracker currently parses to **3,816 total records / 1,270 researched records / 1,209 pictured records / 1,209 PRP-complete records / 62 researched-photo-pending records / 2,607 photo-missing records overall**. The image-cache report also confirms **0 external source images awaiting localization**.
+The canonical tracker currently parses to **3,816 total records / 1,270 researched records / 1,210 pictured records / 1,209 PRP-complete records / 61 researched-photo-pending records / 2,606 photo-missing records overall**. The image-cache report also confirms **0 external source images awaiting localization**.
 
 The photo-recovery system remains the active production lane. The current review queue contains **62 records: 38 DEEP_REVIEW and 24 PARKED**. PRP1 remains gated until the researched-photo-pending count reaches **0**.
 
