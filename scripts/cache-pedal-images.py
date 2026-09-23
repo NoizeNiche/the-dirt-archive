@@ -285,7 +285,7 @@ def convert_staged_sources():
     from being stranded between discovery and the public catalog.
     """
     converted = 0
-    failures = []
+    discarded = 0
     for staged in ASSET_ROOT.rglob("*.source"):
         target = staged.with_suffix(".webp")
         if target.exists():
@@ -306,9 +306,18 @@ def convert_staged_sources():
             staged.unlink()
             converted += 1
         except Exception as exc:
-            failures.append(f"{staged}: {exc}")
-    if failures:
-        raise RuntimeError("Staged photo conversion failures: " + " | ".join(failures[:8]))
+            # A corrupt or truncated .source must never block the other
+            # successfully recovered photos in the same pass. Discard the
+            # unusable staging file so the next browser-recovery pass can
+            # retry that pedal from its verified provenance instead.
+            discarded += 1
+            print(f"Discarding unreadable staged photo {staged}: {exc}")
+            try:
+                staged.unlink()
+            except OSError:
+                pass
+    if discarded:
+        print(f"Discarded {discarded} unreadable staged browser-recovery photos for retry.")
     return converted
 
 
