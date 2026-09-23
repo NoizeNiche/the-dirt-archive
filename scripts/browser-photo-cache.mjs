@@ -1041,7 +1041,8 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
         const url = /^https?:/i.test(raw) ? raw : new URL(raw, pageUrl).href;
         if (!/^https?:/i.test(url)) return;
         if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel)/i.test(url)) return;
-        if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url) || /(^|\/)gear\/pics\//i.test(new URL(url).pathname)) out.add(url);
+        const pathname = new URL(url).pathname;
+        if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url) || /\/gear\/(?:pics|thumbs)\//i.test(pathname)) out.add(url);
       } catch {}
     }
   };
@@ -1057,6 +1058,12 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
   }
 
   for (const match of html.matchAll(/https?:\/\/[^"'\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?/gi)) {
+    add(match[0]);
+  }
+  // Effects Database hosts legacy pedal photography without relying on
+  // conventional image-file paths being present in the surrounding markup.
+  // Harvest its canonical gear/pics and gear/thumbs assets directly.
+  for (const match of html.matchAll(/https?:\/\/files\.effectsdatabase\.com\/gear\/(?:pics|thumbs)\/[^"'\s<>]+/gi)) {
     add(match[0]);
   }
 
