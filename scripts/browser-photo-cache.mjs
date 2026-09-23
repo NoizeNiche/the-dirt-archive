@@ -1259,7 +1259,7 @@ async function richSourceImageUrls(page, pageUrl) {
   }
 }
 
-async function recoverEntry(browser, entry, deepReview = false) {
+async function recoverEntry(browser, entry, deepReview = false, recoveryDeadlineMs = RECOVERY_DEADLINE_MS) {
   const diagnostic = {
     sourceHost: null,
     sourcePageLoaded: false,
@@ -1286,7 +1286,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
   const deadline = setTimeout(() => {
     // A single stubborn source must not occupy a browser worker indefinitely.
     page.close().catch(() => {});
-  }, RECOVERY_DEADLINE_MS);
+  }, recoveryDeadlineMs);
   try {
     const candidates = [];
     const pageUrl = preferredSourcePage(entry);
@@ -3334,11 +3334,17 @@ async function recoverEntry(browser, entry, deepReview = false) {
     const results = await Promise.all(batch.map(async entry => {
       try {
         const review = reviewByKey.get(key(entry.company, entry.pedal));
-        const recoveryPromise = recoverEntry(browser, entry, review?.Status === 'DEEP_REVIEW');
+        const deepReview = review?.Status === 'DEEP_REVIEW';
+        const freshDeadlineMs = Math.max(
+          15000,
+          Number(process.env.PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS || 45000)
+        );
+        const entryDeadlineMs = deepReview ? RECOVERY_DEADLINE_MS : Math.min(RECOVERY_DEADLINE_MS, freshDeadlineMs);
+        const recoveryPromise = recoverEntry(browser, entry, deepReview, entryDeadlineMs);
         const hardTimeout = new Promise((_, reject) => {
           setTimeout(
             () => reject(new Error('recovery hard timeout exceeded')),
-            RECOVERY_DEADLINE_MS + 5000
+            entryDeadlineMs + 5000
           );
         });
         const result = await Promise.race([recoveryPromise, hardTimeout]);
