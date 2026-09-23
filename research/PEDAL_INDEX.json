@@ -233,7 +233,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
       "image_source_url": "https://www.effectsdatabase.com/model/am/crashcentral",
       "image_source_page_verified": true,
-      "image_source_priority": 409,
+      "image_source_priority": 481,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/am/crashcentral"
       ],
@@ -251,7 +251,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/am/crazyboy",
       "image_source_url": "https://www.effectsdatabase.com/model/am/crazyboy",
       "image_source_page_verified": true,
-      "image_source_priority": 410,
+      "image_source_priority": 480,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/am/crazyboy"
       ],
@@ -10030,11 +10030,12 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackcat/ds",
       "research_record": "./research/pedals/PRP Batch 096/D&S.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackcat/ds",
+      "image_source_page": "https://www.pitbullaudio.com/black-cat-pedals-d-s-ds-sustainer-guitar-effects-pedal-ibanez-maxon-od-801-replica.html",
       "image_source_page_verified": true,
-      "image_source_priority": 194,
+      "image_source_priority": 479,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/blackcat/ds"
+        "https://www.effectsdatabase.com/model/blackcat/ds",
+        "https://www.pitbullaudio.com/black-cat-pedals-d-s-ds-sustainer-guitar-effects-pedal-ibanez-maxon-od-801-replica.html"
       ],
       "image_source_pages_verified": true
     },
