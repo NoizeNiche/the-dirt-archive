@@ -1437,10 +1437,12 @@
   {
     "builder": "Alien Amplification",
     "pedal": "Origami Overdrive",
-    "image": null,
+    "image": "./assets/pedals/alien-amplification/origami-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
     "research_record": "./research/pedals/PRP Batch 047/Origami Overdrive.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/alienamps_origami_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/alienamps/origami"
   },
   {
     "builder": "Alien Rabbit",

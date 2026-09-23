@@ -2221,17 +2221,21 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alien-amplification/origami-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 047/Origami Overdrive.md",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alienamps/origami",
         "https://produto.mercadolivre.com.br/MLB-953389761-pedal-guitarra-alien-origami-overdrive-_JM"
       ],
-      "image_source_page": "https://produto.mercadolivre.com.br/MLB-953389761-pedal-guitarra-alien-origami-overdrive-_JM",
+      "image_source_page": "https://www.effectsdatabase.com/model/alienamps/origami",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 374
+      "image_source_priority": 100000,
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/alienamps_origami_001.jpg",
+      "image_source_urls": [
+        "https://files.effectsdatabase.com/gear/thumbs/alienamps_origami_001.jpg"
+      ]
     },
     {
       "company": "Alien Rabbit",
