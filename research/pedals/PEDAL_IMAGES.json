@@ -1809,10 +1809,12 @@
   {
     "builder": "Amsterdam Cream",
     "pedal": "Big Eye Fuzz",
-    "image": null,
+    "image": "./assets/pedals/amsterdam-cream/big-eye-fuzz/primary.webp",
     "source_page": "https://amsterdamcream.com/post/74580352500/big-eye-fuzz",
     "research_record": "./research/pedals/PRP Batch 049/Big Eye Fuzz.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/amsterdamcream_bigeye_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/amsterdamcream/bigeye"
   },
   {
     "builder": "Amsterdam Cream",

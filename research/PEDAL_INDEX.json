@@ -2559,7 +2559,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 320,
+      "image_source_priority": 100000,
       "image_source_url": "https://www.talkbass.com/attachments/img_0797-jpeg.5052266/",
       "image_source_urls": [
         "https://www.talkbass.com/attachments/img_0797-jpeg.5052266/"
@@ -2700,17 +2700,22 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/amsterdam-cream/big-eye-fuzz/primary.webp",
       "source_page": "https://amsterdamcream.com/post/74580352500/big-eye-fuzz",
       "research_record": "./research/pedals/PRP Batch 049/Big Eye Fuzz.md",
       "image_source_pages": [
         "https://amsterdamcream.com/post/74580352500/big-eye-fuzz",
-        "https://reverb.com/uk/item/65960922-amsterdam-cream-big-eye-fuzz"
+        "https://reverb.com/uk/item/65960922-amsterdam-cream-big-eye-fuzz",
+        "https://www.effectsdatabase.com/model/amsterdamcream/bigeye"
       ],
-      "image_source_page": "https://reverb.com/uk/item/65960922-amsterdam-cream-big-eye-fuzz",
+      "image_source_page": "https://www.effectsdatabase.com/model/amsterdamcream/bigeye",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 345
+      "image_source_priority": 100000,
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/amsterdamcream_bigeye_001.jpg",
+      "image_source_urls": [
+        "https://files.effectsdatabase.com/gear/thumbs/amsterdamcream_bigeye_001.jpg"
+      ]
     },
     {
       "company": "Amsterdam Cream",
@@ -3341,7 +3346,7 @@
       "image_source_page": "https://reverb.com/item/2568948-anarchy-audio-baa-bzz-fuzz-pedal-roland-bee-baa-inspired-fuzz",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 470,
+      "image_source_priority": 100000,
       "image_source_url": "https://rvb-img.reverb.com/image/upload/s--SiwVNXjg--/a_0/f_auto%2Ct_large/v1626746479/uxnakseauwgvx3kag0aq.jpg",
       "image_source_urls": [
         "https://rvb-img.reverb.com/image/upload/s--SiwVNXjg--/a_0/f_auto%2Ct_large/v1626746479/uxnakseauwgvx3kag0aq.jpg"
@@ -5154,7 +5159,7 @@
       "research_record": "./research/pedals/AXL/DEQ-2 Distortion EQ.md",
       "image_source_page": "https://reverb.com/item/32611541-axl-deq2-distortion-grey",
       "image_source_page_verified": true,
-      "image_source_priority": 474,
+      "image_source_priority": 100000,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/axl/deq2",
         "https://reverb.com/item/32611541-axl-deq2-distortion-grey"
@@ -8343,7 +8348,7 @@
       "research_record": "./research/pedals/PRP Batch 085/Monk Boost.md",
       "image_source_page": "https://reverb.com/item/92603748-big-monk-colorsound-monk-boost",
       "image_source_page_verified": true,
-      "image_source_priority": 454,
+      "image_source_priority": 100000,
       "image_source_pages": [
         "https://reverb.com/item/92603748-big-monk-colorsound-monk-boost",
         "https://reverb.com/au/item/84529535-big-monk-electronic-device-co-the-monk-boost-pre-order"
@@ -10345,7 +10350,7 @@
       "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md",
       "image_source_page": "https://reverb.com/item/58788639-blackhawk-amplifiers-basilisk-fuzz-2019-black",
       "image_source_page_verified": true,
-      "image_source_priority": 467,
+      "image_source_priority": 100000,
       "image_source_pages": [
         "https://reverb.com/item/77950001-black-hawk-basilisk-fuzz-black",
         "https://reverb.com/item/87246180-blackhawk-amplifiers-basilisk-fuzz-pedal-beebaa",
@@ -11037,7 +11042,7 @@
       "research_record": "./research/pedals/PRP Batch 104/Deus Ex Machina.md",
       "image_source_page": "https://reverb.com/p/blakemore-effects-deus-ex-machina",
       "image_source_page_verified": true,
-      "image_source_priority": 18,
+      "image_source_priority": 100000,
       "image_source_pages": [
         "https://reverb.com/p/blakemore-effects-deus-ex-machina"
       ],
@@ -13578,7 +13583,7 @@
       "image_source_page": "https://reverb.com/item/42880976-b-y-o-c-855-drive-pre-built-pedal",
       "image_source_url": "https://rvb-img.reverb.com/image/upload/s--o3Abhu9Q--/f_auto%2Ct_large/v1628216579/sfzszxicskfbnsamt9m6.jpg",
       "image_source_page_verified": true,
-      "image_source_priority": 449,
+      "image_source_priority": 100000,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/byoc/855drive",
         "https://reverb.com/item/42880976-b-y-o-c-855-drive-pre-built-pedal",
@@ -13602,7 +13607,7 @@
       "image_source_page": "https://reverb.com/item/544039-byoc-b-g-fuzz-roland-bee-gee-fuzz-clone-big-muff",
       "image_source_url": "https://rvb-img.reverb.com/i/s---cHCYrCE--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/prnloasouim0egmwopr5.jpg",
       "image_source_page_verified": true,
-      "image_source_priority": 176,
+      "image_source_priority": 100000,
       "image_source_pages": [
         "https://reverb.com/item/544039-byoc-b-g-fuzz-roland-bee-gee-fuzz-clone-big-muff"
       ],
@@ -14477,7 +14482,7 @@
       "research_record": "./research/pedals/PRP Batch 135/c14-devices-tone-chaser.md",
       "image_source_page": "https://reverb.com/es/item/60907915-carbono-14-tone-chaser-world-s-first-carbon-fiber-pedal",
       "image_source_page_verified": true,
-      "image_source_priority": 150,
+      "image_source_priority": 100000,
       "image_source_pages": [
         "https://reverb.com/es/item/60907915-carbono-14-tone-chaser-world-s-first-carbon-fiber-pedal",
         "https://reverb.com/item/63407324-carbono-14-tone-chaser-world-s-first-full-carbon-fiber-pedal"
@@ -15692,7 +15697,7 @@
       "research_record": "./research/pedals/PRP Batch 148/canvas-analog-devices-the-metamorphosis.md",
       "image_source_page": "https://reverb.com/item/43102648-canvas-analog-devices-the-metamorphosis-overdrive-pedal",
       "image_source_page_verified": true,
-      "image_source_priority": 153,
+      "image_source_priority": 100000,
       "image_source_pages": [
         "https://reverb.com/item/43102648-canvas-analog-devices-the-metamorphosis-overdrive-pedal"
       ],
