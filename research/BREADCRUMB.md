@@ -33,7 +33,7 @@ These remain photo-recovery leads only. No record is marked pictured until an ex
 
 ## Photo recovery checkpoint - September 23, 2026 — live reconciled state
 
-The canonical tracker now verifies **3,816 total / 1,270 researched / 1,209 pictured / 1,209 complete / 62 researched-photo-pending / 2,607 photo-missing**.
+The canonical tracker now verifies **3,816 total / 1,270 researched / 1,210 pictured / 1,210 complete / 61 researched-photo-pending / 2,606 photo-missing**.
 
 The latest completed recovery pass is commit `5a84726`. It archived the exact-model **Brantone Electronics - Tonemaster Mk1.5 Germanium Fuzz** locally, moving the researched-photo gate from 63 to **62**. The current photo-review queue is **62 records: 38 DEEP_REVIEW and 24 PARKED**.
 
