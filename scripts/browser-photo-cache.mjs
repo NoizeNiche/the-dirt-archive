@@ -1046,7 +1046,7 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
                   if (!part || part.startsWith('data:')) continue;
                   try {
                     const url = /^https?:\/\//i.test(part) ? part : new URL(part, location.href).href;
-                    if (!/^https?:\\/\\//i.test(url)) continue;
+                    if (!/^https?:\/\//i.test(url)) continue;
                     if (/(logo|avatar|icon|sprite|favicon|badge|payment|social|tracking|pixel)/i.test(url)) continue;
                     out.add(url);
                   } catch {}
