@@ -10634,7 +10634,6 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/fixdfuzz",
       "research_record": "./research/pedals/PRP Batch 102/Fix'd Fuzz.md",
       "image_source_page": "https://reverb.com/item/316572-blackout-effectors-fix-d-fuzz",
@@ -10643,11 +10642,7 @@
       "image_source_pages": [
         "https://reverb.com/item/316572-blackout-effectors-fix-d-fuzz"
       ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--bxGjfsNY--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ujyzjxd6ul3eri7ouwwl.jpg",
-      "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--bxGjfsNY--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ujyzjxd6ul3eri7ouwwl.jpg"
-      ]
+      "image_source_pages_verified": true
     },
     {
       "company": "BlackOutEffectors",
@@ -11197,21 +11192,15 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bobburt/gr8t",
       "research_record": "./research/pedals/PRP Batch 106/Bob Burt GR8T Distortion.md",
-      "image_source_page": "https://reverb.com/item/97232362-bob-burt-gr8t-distortion-001-first-ever-made",
+      "image_source_page": "https://www.effectsdatabase.com/model/bobburt/gr8t",
       "image_source_page_verified": true,
       "image_source_priority": 20,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/bobburt/gr8t",
-        "https://reverb.com/item/97232362-bob-burt-gr8t-distortion-001-first-ever-made"
+        "https://www.effectsdatabase.com/model/bobburt/gr8t"
       ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--V83fkBVR--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/80dbf273-24c6-4050-ad05-f7d723684235.jpg",
-      "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--V83fkBVR--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/80dbf273-24c6-4050-ad05-f7d723684235.jpg"
-      ]
+      "image_source_pages_verified": true
     },
     {
       "company": "Bob Burt Cabinets & Pedals",
@@ -15202,21 +15191,15 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp82",
       "research_record": "./research/pedals/PRP Batch 144/cp-82-the-broadsword-bass-fuzz-boost.md",
-      "image_source_page": "https://reverb.com/p/caline-cp-82-the-broadsword-bass-fuzz",
+      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp82",
       "image_source_page_verified": true,
       "image_source_priority": 121,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/caline/cpxx/cp82",
-        "https://reverb.com/p/caline-cp-82-the-broadsword-bass-fuzz"
+        "https://www.effectsdatabase.com/model/caline/cpxx/cp82"
       ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--MbwnScVk--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ydvcqj0rdugby6rkxcmg.jpg",
-      "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--MbwnScVk--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ydvcqj0rdugby6rkxcmg.jpg"
-      ]
+      "image_source_pages_verified": true
     },
     {
       "company": "Caline",
