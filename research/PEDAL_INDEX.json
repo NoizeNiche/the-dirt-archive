@@ -7627,16 +7627,17 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-ear-nyc/the-loaf-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/The LOAF Fuzz.md",
-      "image_source_page": "https://reverb.com/item/114460-big-ear-nyc-the-loaf-2014",
+      "image_source_page": "https://www.bigearpedals.com/product-page/loaf",
       "image_source_page_verified": true,
       "image_source_priority": 57,
       "image_source_pages": [
-        "https://reverb.com/item/114460-big-ear-nyc-the-loaf-2014"
+        "https://www.bigearpedals.com/product-page/loaf"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://static.wixstatic.com/media/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg"
     },
     {
       "company": "Big Ear NYC",
@@ -8302,7 +8303,11 @@
       "image_source_pages": [
         "https://reverb.com/item/92603748-big-monk-colorsound-monk-boost"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--CzDOkohA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/wopm9q1o7fcq0mdm99i5.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--CzDOkohA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/wopm9q1o7fcq0mdm99i5.jpg"
+      ]
     },
     {
       "company": "Big Monk Electronic Device Co.",
@@ -10821,7 +10826,11 @@
       "image_source_pages": [
         "https://reverb.com/p/blackstar-ht-drive"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--NCkRPdao--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qrtrcqqblz0o6aut3e97.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--NCkRPdao--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qrtrcqqblz0o6aut3e97.jpg"
+      ]
     },
     {
       "company": "Blackstar Amplification",
@@ -10876,7 +10885,11 @@
       "image_source_pages": [
         "https://reverb.com/p/blackstar-lt-drive"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--1YTGpRFR--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/fhq72he4rlr1rkfqcz6b.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--1YTGpRFR--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/fhq72he4rlr1rkfqcz6b.jpg"
+      ]
     },
     {
       "company": "Blackstar Amplification",
@@ -10949,7 +10962,11 @@
       "image_source_pages": [
         "https://reverb.com/p/blakemore-effects-deus-ex-machina"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--MnM2xmYe--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgejj6gcrbrpjtaz8bki.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--MnM2xmYe--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgejj6gcrbrpjtaz8bki.jpg"
+      ]
     },
     {
       "company": "Blakemore Effects",
@@ -15198,13 +15215,15 @@
       ],
       "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp82",
       "research_record": "./research/pedals/PRP Batch 144/cp-82-the-broadsword-bass-fuzz-boost.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp82",
+      "image_source_page": "https://www.timesnownews.com/lifestyle/books/before-audiobooks-took-over-tolkien-was-reading-his-own-stories-aloud-article-156203957",
       "image_source_page_verified": true,
       "image_source_priority": 121,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/caline/cpxx/cp82"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://images.timesnownews.com/thumb/msid-156203977,width-1280,height-720,resizemode-75/156203977.jpg",
+      "image": "./assets/pedals/caline/cp-82-the-broadsword-bass-fuzz-boost/primary.webp"
     },
     {
       "company": "Caline",
