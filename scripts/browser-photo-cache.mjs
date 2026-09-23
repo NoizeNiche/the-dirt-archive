@@ -2104,36 +2104,104 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         // link when its surrounding alt/text matches the verified pedal identity.
         if (isReverbListing) {
           // Reverb frequently exposes only small gallery thumbnails on the
-          // listing surface. Open the first exact-listing gallery thumbnail so
-          // the lightbox/expanded image becomes available to Chromium.
+          // listing surface and does not always keep useful alt text on them.
+          // Stay on the already identity-verified listing, find clickable images
+          // near the product heading, and open several gallery candidates so a
+          // changed thumbnail label cannot strand an otherwise exact photo.
           try {
-            const galleryTargets = await page.locator('img').evaluateAll(imgs => imgs
-              .map((img, index) => {
-                const alt = String(img.alt || '').trim();
-                const rect = img.getBoundingClientRect();
-                const parent = img.closest('button, a, [role="button"]');
-                return {
-                  index,
-                  alt,
-                  width: Number(img.naturalWidth) || rect.width || 0,
-                  height: Number(img.naturalHeight) || rect.height || 0,
-                  visible: rect.width >= 40 && rect.height >= 40 &&
+            const galleryTargets = await page.locator('img').evaluateAll(imgs => {
+              const h1 = document.querySelector('h1');
+              const h1Rect = h1?.getBoundingClientRect?.() || null;
+              const h1Top = Number(h1Rect?.top || 0);
+              return imgs
+                .map((img, index) => {
+                  const rect = img.getBoundingClientRect();
+                  const parent = img.closest('button, a, [role="button"]');
+                  let node = parent || img.parentElement;
+                  let semantic = 0;
+                  let promoted = false;
+                  for (let depth = 0; depth < 6 && node; depth++, node = node.parentElement) {
+                    const hint = String([
+                      node.tagName || '',
+                      node.className || '',
+                      node.id || '',
+                      node.getAttribute?.('aria-label') || '',
+                      node.textContent || ''
+                    ].join(' ')).replace(/\s+/g, ' ').toLowerCase();
+                    if (/gallery|product|listing|photo|image|pedal/.test(hint)) semantic += 1;
+                    if (hint.includes('promoted similar listings') ||
+                        hint.includes('similar gear from other reverb sellers')) {
+                      promoted = true;
+                      break;
+                    }
+                  }
+                  const raw = String([
+                    img.alt || '',
+                    img.currentSrc || '',
+                    img.src || '',
+                    img.className || ''
+                  ].join(' '));
+                  const galleryLike = /(^|\\s)(image|photo)\\s*\\d+/i.test(String(img.alt || '')) ||
+                    /rvb-img\\.reverb\\.com|static\\.reverb-assets\\.com/i.test(raw) ||
+                    semantic > 0;
+                  const nearHeading = h1Rect
+                    ? Math.abs(rect.top - h1Top) <= 2400
+                    : rect.top <= window.innerHeight * 2.5;
+                  return {
+                    index,
+                    width: Number(img.naturalWidth) || rect.width || 0,
+                    height: Number(img.naturalHeight) || rect.height || 0,
+                    visible: rect.width >= 40 && rect.height >= 40 &&
+                      rect.bottom >= 0 && rect.right >= 0 &&
+                      rect.top <= window.innerHeight && rect.left <= window.innerWidth,
+                    clickable: Boolean(parent),
+                    galleryLike,
+                    nearHeading,
+                    promoted,
+                    area: (Number(img.naturalWidth) || rect.width || 0) *
+                      (Number(img.naturalHeight) || rect.height || 0)
+                  };
+                })
+                .filter(x => x.visible && x.clickable && x.galleryLike && x.nearHeading && !x.promoted)
+                .sort((a, b) =>
+                  Number(b.galleryLike) - Number(a.galleryLike) ||
+                  b.area - a.area ||
+                  a.index - b.index
+                )
+                .slice(0, 6);
+            });
+            for (const target of galleryTargets) {
+              const img = page.locator('img').nth(target.index);
+              const clickable = img.locator('xpath=ancestor::*[self::button or self::a or @role="button"][1]');
+              if (!(await clickable.count())) continue;
+              await clickable.scrollIntoViewIfNeeded().catch(() => {});
+              await clickable.click({ timeout: 1800, force: true }).catch(() => {});
+              await page.waitForTimeout(550);
+              const expanded = await page.locator('img').evaluateAll(imgs => imgs
+                .map((node, index) => {
+                  const rect = node.getBoundingClientRect();
+                  const width = Math.max(rect.width, Number(node.naturalWidth) || 0);
+                  const height = Math.max(rect.height, Number(node.naturalHeight) || 0);
+                  const raw = [node.alt || '', node.src || '', node.currentSrc || '', node.className || ''].join(' ');
+                  const forbidden = /(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|promoted|similar)/i.test(raw);
+                  const visible = rect.width >= 180 && rect.height >= 180 &&
                     rect.bottom >= 0 && rect.right >= 0 &&
-                    rect.top <= window.innerHeight && rect.left <= window.innerWidth,
-                  clickable: Boolean(parent),
-                  galleryLike: /(^|\\s)(image|photo)\\s*\\d+/i.test(alt)
-                };
-              })
-              .filter(x => x.visible && x.clickable && x.galleryLike)
-              .sort((a, b) => a.index - b.index)
-              .slice(0, 4));
-            if (galleryTargets.length) {
-              const first = page.locator('img').nth(galleryTargets[0].index);
-              const clickable = first.locator('xpath=ancestor::*[self::button or self::a or @role="button"][1]');
-              if (await clickable.count()) {
-                await clickable.scrollIntoViewIfNeeded().catch(() => {});
-                await clickable.click({ timeout: 1800, force: true }).catch(() => {});
-                await page.waitForTimeout(500);
+                    rect.top <= window.innerHeight && rect.left <= window.innerWidth;
+                  return { index, width, height, area: width * height, visible, forbidden };
+                })
+                .filter(x => x.visible && !x.forbidden && x.width >= 220 && x.height >= 220)
+                .sort((a, b) => b.area - a.area)
+                .slice(0, 4));
+              for (const candidate of expanded) {
+                const node = page.locator('img').nth(candidate.index);
+                const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+                if (bytes && bytes.length >= 3000) {
+                  return {
+                    bytes,
+                    src: await node.getAttribute('src').catch(() => '') ||
+                      await node.getAttribute('data-src').catch(() => '') || ''
+                  };
+                }
               }
             }
           } catch {}
