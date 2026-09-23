@@ -1,8 +1,8 @@
 ## Current recovery checkpoint - September 22, 2026
 
-The canonical tracker currently parses to **3,816 total records / 1,271 researched records / 1,019 pictured and complete records / 252 researched-photo-pending records / 2,797 photo-missing records overall**. The latest bounded cache run published **1 additional exact-model local photo**, Aether Electronic - Lenore, moving the researched-photo gate from 253 to 252. The tracker remains the source of truth, and PRP1 stays gated until every researched record has a verified local photo.
+The canonical tracker currently parses to **3,816 total records / 1,270 researched records / 1,020 pictured and complete records / 251 researched-photo-pending records / 2,796 photo-missing records overall**. The latest bounded cache run published **1 additional exact-model local photo, Baja Tech Custom - Das Fuzz Si**, moving the researched-photo gate from 252 to 251.
 
-The latest recovery batch successfully archived the exact Aether Electronic - Lenore manufacturer image after the direct-image source path was exercised. Earlier stale/ambiguous Acid Fuzz MKI Mini leads were removed so the next recovery passes cannot confuse the Mini with the full-size MKI.
+The recovery engine now has a browser-render fallback for curated direct-image URLs, allowing exact manufacturer/store image URLs to be captured even when a direct HTTP request is blocked. The cache scheduler was also changed so bounded recovery workers finish instead of being cancelled by a newer scheduled run.
 
 The photo-recovery queue remains the active gate. **PRP1 stays paused until researched-photo-pending reaches 0.** Public detail pages continue to hide Research confidence and Sources checked, and the future YouTube demo widget remains deferred until the photo catch-up is complete.
 
