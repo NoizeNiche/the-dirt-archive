@@ -6,7 +6,8 @@
 - Download failures: **4**
 - Remaining tracker photo backlog: **2745**
 - Researched, photo pending: **200**
-- External source images awaiting localization: **4**
+- Runtime external image references: **0**
+- Verified source images awaiting local caching: **4**
 
 ## Storage layout
 
