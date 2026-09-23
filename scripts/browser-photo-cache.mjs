@@ -1549,6 +1549,59 @@ async function recoverEntry(browser, entry, deepReview = false) {
       return null;
     }
 
+    // Raw HTML image URLs are still exact evidence from the already
+    // identity-verified source page. Some CDNs reject Playwright's HTTP request
+    // context but allow a browser <img> request with the source-page session.
+    async function screenshotRawVerifiedImageCandidate(candidate) {
+      if (!candidate?.rawVerifiedPageImage || !candidate.url) return null;
+      const normalizedUrl = String(candidate.url || '');
+      if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel)/i.test(normalizedUrl)) return null;
+      if (!/(?:\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$|\/gear\/(?:pics|thumbs)\/)/i.test(normalizedUrl)) return null;
+      try {
+        const capture = await page.evaluate(async src => {
+          document.querySelector('[data-dirt-archive-raw-capture="1"]')?.remove();
+          const img = document.createElement('img');
+          img.setAttribute('data-dirt-archive-raw-capture', '1');
+          img.src = src;
+          img.alt = '';
+          img.referrerPolicy = 'no-referrer-when-downgrade';
+          img.style.position = 'fixed';
+          img.style.left = '8px';
+          img.style.top = '8px';
+          img.style.zIndex = '2147483647';
+          img.style.maxWidth = 'calc(100vw - 16px)';
+          img.style.maxHeight = 'calc(100vh - 16px)';
+          img.style.width = 'auto';
+          img.style.height = 'auto';
+          img.style.objectFit = 'contain';
+          img.style.background = '#fff';
+          document.body.appendChild(img);
+          await new Promise(resolve => {
+            if (img.complete) return resolve();
+            img.addEventListener('load', resolve, { once: true });
+            img.addEventListener('error', resolve, { once: true });
+            setTimeout(resolve, 2200);
+          });
+          return {
+            width: Number(img.naturalWidth) || 0,
+            height: Number(img.naturalHeight) || 0
+          };
+        }, normalizedUrl).catch(() => null);
+
+        if ((capture?.width || 0) >= 180 && (capture?.height || 0) >= 180) {
+          const node = page.locator('[data-dirt-archive-raw-capture="1"]').first();
+          await node.scrollIntoViewIfNeeded().catch(() => {});
+          await page.waitForTimeout(120);
+          const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+          await page.evaluate(() => document.querySelector('[data-dirt-archive-raw-capture="1"]')?.remove()).catch(() => {});
+          if (bytes && bytes.length >= 3000) return { bytes, src: normalizedUrl };
+        } else {
+          await page.evaluate(() => document.querySelector('[data-dirt-archive-raw-capture="1"]')?.remove()).catch(() => {});
+        }
+      } catch {}
+      return null;
+    }
+
     // A verified source page can display the exact pedal photo even when its
     // image URL returns a block/403/500 to a direct request. Capture the rendered
     // photo from the already identity-verified page instead of substituting a
@@ -2380,6 +2433,20 @@ async function recoverEntry(browser, entry, deepReview = false) {
     if (!selectedResult) {
       for (const candidate of ranked.filter(candidate => candidate.directImageOverride).slice(0, 8)) {
         const shot = await screenshotDirectImageCandidate(candidate);
+        if (shot) {
+          selectedResult = {
+            candidate,
+            bytes: shot.bytes
+          };
+          diagnostic.sourceScreenshotCaptured = true;
+          break;
+        }
+      }
+    }
+
+    if (!selectedResult) {
+      for (const candidate of ranked.filter(candidate => candidate.rawVerifiedPageImage).slice(0, 4)) {
+        const shot = await screenshotRawVerifiedImageCandidate(candidate);
         if (shot) {
           selectedResult = {
             candidate,
