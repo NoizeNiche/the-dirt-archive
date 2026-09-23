@@ -838,6 +838,40 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
   }
 }
 
+function rawVerifiedPageImageUrls(html, pageUrl) {
+  const out = new Set();
+  if (!html) return [];
+  const add = value => {
+    if (!value || typeof value !== 'string') return;
+    for (const part of value.split(/[\\s,]+/)) {
+      const raw = part.replace(/&amp;/g, '&').replace(/^["']|["']$/g, '');
+      if (!raw || raw.startsWith('data:')) continue;
+      try {
+        const url = /^https?:/i.test(raw) ? raw : new URL(raw, pageUrl).href;
+        if (!/^https?:/i.test(url)) return;
+        if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel)/i.test(url)) return;
+        if (/\\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url)) out.add(url);
+      } catch {}
+    }
+  };
+
+  for (const pattern of [
+    /<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image)["'][^>]+content=["']([^"']+)["']/gi,
+    /<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:og:image|twitter:image)["']/gi,
+    /<img[^>]+(?:src|data-src|data-lazy-src|data-original|data-full-src|data-large-image|data-zoom-image)=["']([^"']+)["']/gi,
+    /<source[^>]+(?:src|srcset|data-srcset)=["']([^"']+)["']/gi,
+    /<a[^>]+href=["']([^"']+\\.(?:jpe?g|png|webp|gif)(?:[?#][^"']*)?)["']/gi
+  ]) {
+    for (const match of html.matchAll(pattern)) add(match[1]);
+  }
+
+  for (const match of html.matchAll(/https?:\\/\\/[^"'\\s<>]+\\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\\s<>]*)?/gi)) {
+    add(match[0]);
+  }
+
+  return [...out].slice(0, 24);
+}
+
 async function richSourceImageUrls(page, pageUrl) {
   try {
     return await page.evaluate(() => {
@@ -1003,6 +1037,29 @@ async function recoverEntry(browser, entry, deepReview = false) {
     for (const pageUrl of pageUrls) {
       if (!pageUrl || !/^https?:/i.test(pageUrl)) continue;
       try {
+        // Preflight exact, pre-verified source pages through the raw HTTP
+        // response. This survives pages where Chromium navigation fails but the
+        // source HTML still contains the real product-photo URL.
+        if (entry.image_source_page_verified === true || entry.image_source_pages_verified === true) {
+          sourcePageUsed = sourcePageUsed || pageUrl;
+          try {
+            const rawResponse = await page.request.get(pageUrl, { timeout: PAGE_TIMEOUT });
+            if (rawResponse.ok()) {
+              const rawHtml = await rawResponse.text();
+              const rawUrls = rawVerifiedPageImageUrls(rawHtml, pageUrl);
+              for (const url of rawUrls) {
+                candidates.push({
+                  url,
+                  sourcePage: pageUrl,
+                  sourceScore: 118,
+                  rawVerifiedPageImage: true
+                });
+              }
+              diagnostic.rawHtmlCandidates += rawUrls.length;
+            }
+          } catch {}
+        }
+
         // Keep rendered-network candidates scoped to the source page that
         // produced them. This prevents an image from a previous fallback page
         // from being mislabeled as evidence for the next page.
