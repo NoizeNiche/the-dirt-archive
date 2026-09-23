@@ -2150,7 +2150,9 @@ async function recoverEntry(browser, entry, deepReview = false) {
         // additional exact-page evidence channel. This avoids relying on image
         // filenames containing the pedal name and avoids accepting site chrome.
         try {
-          const mainImageTargets = await page.locator('img').evaluateAll((imgs, { pedalTokens, builderTokens }) => {
+          const h1Box = await page.locator('h1').first().boundingBox().catch(() => null);
+          const h1Y = Number(h1Box?.y) || 0;
+          const mainImageTargets = await page.locator('img').evaluateAll((imgs, { pedalTokens, builderTokens, h1Y }) => {
             const normalize = value => String(value || '')
               .toLowerCase()
               .replace(/[^a-z0-9]+/g, ' ')
@@ -2242,7 +2244,27 @@ async function recoverEntry(browser, entry, deepReview = false) {
             return rows
               .sort((a, b) => b.score - a.score)
               .slice(0, 6);
-          }, { pedalTokens, builderTokens });
+              const documentTop = Number(rect.top) + Number(window.scrollY || 0);
+              const headingDistance = Math.abs(documentTop - h1Y);
+              if (headingDistance <= 900) score += 320;
+              else if (headingDistance <= 1500) score += 120;
+              const ratio = Math.max(width / Math.max(1, height), height / Math.max(1, width));
+              if (ratio >= 2.7) score -= 500;
+              else if (ratio >= 2.2) score -= 250;
+
+              rows.push({
+                index,
+                src: img.currentSrc || img.src || lazySrc,
+                width,
+                height,
+                score
+              });
+            }
+
+            return rows
+              .sort((a, b) => b.score - a.score)
+              .slice(0, 8);
+          }, { pedalTokens, builderTokens, h1Y });
 
           for (const target of mainImageTargets) {
             const img = page.locator('img').nth(target.index);
