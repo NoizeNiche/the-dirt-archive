@@ -1243,6 +1243,35 @@ async function recoverEntry(browser, entry, deepReview = false) {
           }
           return urls.filter(Boolean);
         });
+
+        // Some catalog and maker pages serve a different HTML representation
+        // to Playwright's rendered DOM than to a normal document request. On an
+        // already identity-verified exact source page, fetch the raw document
+        // directly and harvest both absolute and root-relative media URLs.
+        const rawDocumentImageData = [];
+        try {
+          const response = await page.request.get(pageUrl, { timeout: PAGE_TIMEOUT });
+          if (response.ok()) {
+            const html = (await response.text())
+              .replace(/\\u002f/gi, '/')
+              .replace(/\\x2f/gi, '/')
+              .replace(/\\\//g, '/');
+            const rawUrls = [
+              ...html.matchAll(/https?:\/\/[^"'\s<>]+/gi),
+              ...html.matchAll(/["'=(]\s*(\/[^"'\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?)/gi)
+            ].map(m => String(m[1] || m[0]).replace(/&amp;/g, '&'))
+              .filter((url, index, urls) => urls.indexOf(url) === index)
+              .filter(url => /\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?$/i.test(url))
+              .filter(url => !/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|layer\d+|weblogo)/i.test(url))
+              .map(url => {
+                try { return new URL(url, pageUrl).href; } catch { return null; }
+              })
+              .filter(Boolean)
+              .filter(url => /(?:wp-content\/uploads|gear\/pics|upload|media|product|pedal|image|photo|gallery|cdn|cloudinary|shopify)/i.test(url))
+              .slice(0, 30);
+            rawDocumentImageData.push(...rawUrls);
+          }
+        } catch {}
         // Some WordPress/product pages expose the real product photo only
         // as an href or JSON/media URL in the raw HTML, while the hydrated DOM
         // contains no usable <img>. Harvest bounded image-like URLs from the
