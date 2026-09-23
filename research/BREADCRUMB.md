@@ -1,12 +1,12 @@
 ## Photo recovery checkpoint - September 22, 2026
 
-Latest verified tracker state: **3,816 total / 1,270 researched / 1,022 pictured / 1,022 complete / 249 researched-photo-pending / 2,794 photo-missing**.
+Latest verified tracker state: **3,816 total / 1,270 researched / 1,030 pictured / 1,030 complete / 241 researched-photo-pending / 2,786 photo-missing**.
 
-Cache run **1053** successfully archived **2 exact-model local photos: AGR Pedals DS2610 - Vintage Distortion and AGR Pedals FZR912 - Muff Fuzz Deluxe**. The deep-review scheduler also completed its first fair-rotation cycle on the initial parked cohort, so subsequent passes can advance through the remaining parked backlog instead of repeatedly reopening the same cases.
+Cache run **1054** successfully archived **8 exact-model local photos** across Alber and Alen Geere, reducing the researched-photo gate from 249 to 241. The queue continues through the A-to-Z researched-photo backlog while parked hard cases rotate through bounded deep-review cycles.
 
 PRP1 remains gated until researched-photo-pending reaches **0**.
 
-Latest recovery checkpoint: **35815725724**.
+Latest recovery checkpoint: **35815801526**.
 
 ---
 
