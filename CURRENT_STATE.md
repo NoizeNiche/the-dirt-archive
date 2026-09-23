@@ -1,8 +1,8 @@
 ## Current recovery checkpoint - September 23, 2026
 
-The canonical tracker currently parses to **3,816 total records / 1,270 researched records / 1,210 pictured records / 1,209 PRP-complete records / 61 researched-photo-pending records / 2,606 photo-missing records overall**. The image-cache report also confirms **0 external source images awaiting localization**.
+The canonical tracker currently parses to **3,816 total records / 1,271 researched records / 1,227 pictured records / 1,227 PRP-complete records / 44 researched-photo-pending records / 2,589 photo-missing records overall**. The image-cache report also confirms **0 external source images awaiting localization**.
 
-The photo-recovery system remains the active production lane. The current review queue contains **62 records: 38 DEEP_REVIEW and 24 PARKED**. PRP1 remains gated until the researched-photo-pending count reaches **0**.
+The photo-recovery system remains the active production lane. The current researched-photo gate contains **44 records**, all currently parked for deeper recovery after bounded automatic attempts. The queue is still ordered from the live tracker, with the first unresolved researched records at **A&M Custom Effects - Crash Central - Crunch Distortion** and **A&M Custom Effects - Crazyboy - Double Fuzz**. PRP1 remains gated until the researched-photo-pending count reaches **0**.
 
 The recovery worker is operating with the tightened September 23 throughput rules:
 - each pedal gets a bounded recovery window
@@ -12,19 +12,12 @@ The recovery worker is operating with the tightened September 23 throughput rule
 - scheduled recovery remains every 10 minutes with queued runs preserved
 - the image runtime remains local-first
 
-The latest cache pass archived the exact-model **Brantone Electronics - Tonemaster Mk1.5 Germanium Fuzz** locally and moved the researched-photo gate from 63 to **62**. Additional verified direct-image overrides are now staged for **Big Monk - Monk Boost, Blackstar HT-DRIVE, Blackstar LT-DRIVE, and Blakemore Effects Deus Ex Machina**.
+A fresh recovery kick was published as commit **cf38c5f50e88adbb7e21881234475c8f02c2e359**, explicitly resuming the canonical A-to-Z photo gate from the live tracker. Recent recovery work has added or strengthened exact-source leads and direct-image fallbacks for multiple stubborn records, while the hardened identity gate rejects false-positive image matches.
 
 The home-page archive grid retains its complete card, image-placeholder, responsive, and pagination styling. The detail page remains on the existing 3:4 photo presentation with version/colorway navigation, builder navigation, demo links, and the Research confidence/Sources checked sections hidden from the public renderer.
 
-Latest recovery/maintenance commits:
-- 5a84726 - archive verified Brantone Tonemaster Mk1.5 photo locally
-- b84540e - kick recovery with direct Monk Boost image
-- 7031ded - add verified direct Monk Boost image
-- 38f2a27 - add verified direct images for HT-DRIVE, LT-DRIVE, and Deus Ex Machina
-- 7b9ec61 - correct Monk Boost source and strengthen exact pedal leads
-- d8b3ead - record corrected recovery-source leads
-
 **Operational priority:** keep photo recovery moving toward 0, keep tracker/catalog/image manifests synchronized after every published batch, then release the PRP1 gate and move directly into the remaining pedal research backlog.
+
 ---
 
 ## Full-site maintenance checkpoint - September 21, 2026
