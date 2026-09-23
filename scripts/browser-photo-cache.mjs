@@ -1194,14 +1194,45 @@ async function recoverEntry(browser, entry, deepReview = false) {
       }
       }
     const tokens = identityTokens(entry.pedal);
-    const ranked = [...new Map(candidates.map(x => [x.url, x])).values()].sort((a, b) => {
+    const mergedCandidates = new Map();
+    for (const candidate of candidates) {
+      if (!candidate?.url) continue;
+      const existing = mergedCandidates.get(candidate.url);
+      if (!existing) {
+        mergedCandidates.set(candidate.url, { ...candidate });
+        continue;
+      }
+      // Preserve the strongest evidence when the same URL is discovered by
+      // multiple extraction layers. In particular, never let a later generic
+      // DOM candidate erase a curated direct-image override.
+      if ((Number(candidate.sourceScore) || 0) > (Number(existing.sourceScore) || 0)) {
+        existing.sourceScore = candidate.sourceScore;
+      }
+      if (candidate.sourcePage && !existing.sourcePage) existing.sourcePage = candidate.sourcePage;
+      if (candidate.directImageOverride) existing.directImageOverride = true;
+      if (candidate.metaImage) existing.metaImage = true;
+      if (candidate.jsonLdImage) existing.jsonLdImage = true;
+      if (candidate.embeddedImage) existing.embeddedImage = true;
+      if (candidate.linkedImage) existing.linkedImage = true;
+      if (Number.isInteger(candidate.elementIndex) && !Number.isInteger(existing.elementIndex)) {
+        existing.elementIndex = candidate.elementIndex;
+      }
+      if (Number.isInteger(candidate.bgIndex) && !Number.isInteger(existing.bgIndex)) {
+        existing.bgIndex = candidate.bgIndex;
+      }
+      if (Number.isInteger(candidate.linkIndex) && !Number.isInteger(existing.linkIndex)) {
+        existing.linkIndex = candidate.linkIndex;
+      }
+    }
+    const ranked = [...mergedCandidates.values()].sort((a, b) => {
       const score = candidate => {
         const normalized = candidate.url.toLowerCase().replace(/[^a-z0-9]+/g, ' ');
         return candidate.sourceScore
           + tokens.reduce((sum, token) => sum + (normalized.includes(token) ? 10 : 0), 0)
           + (normalized.includes('logo') ? -20 : 0)
           + (normalized.includes('icon') ? -20 : 0)
-          + (normalized.includes('thumb') ? 1 : 0);
+          + (normalized.includes('thumb') ? 1 : 0)
+          + (candidate.directImageOverride ? 5000 : 0);
       };
       return score(b) - score(a);
     });
