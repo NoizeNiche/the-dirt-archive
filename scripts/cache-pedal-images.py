@@ -260,7 +260,19 @@ def cache_entry_prepare(entry):
 
 
 def download_to_target(entry, target, source_url):
-    sources = [source_url]
+    # Curated direct-image overrides may contain several exact fallback URLs.
+    # Try every explicit URL before falling back to images discovered from the
+    # already verified source page. Previously only image_source_url was used,
+    # which left alternate exact images stranded in metadata when the primary
+    # CDN URL returned 401/403/500.
+    sources = []
+    for value in entry.get("image_source_urls") or []:
+        value = str(value or "").strip()
+        if value and value.startswith(("http://", "https://")):
+            sources.append(value)
+    if source_url and source_url.startswith(("http://", "https://")):
+        sources.insert(0, source_url)
+
     page_url = entry.get("image_source_page") or entry.get("source_page")
     if page_url and page_url.startswith(("http://", "https://")):
         sources += image_candidates_from_page(page_url)
@@ -279,7 +291,7 @@ def download_to_target(entry, target, source_url):
             return rel_path(target), candidate
         except Exception as exc:
             errors.append(f"{candidate}: {exc}")
-    raise RuntimeError(" | ".join(errors[:4]))
+    raise RuntimeError(" | ".join(errors[:6]))
 
 
 
