@@ -1465,17 +1465,22 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/aether-electronic/lenore/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Aether Electronic/Lenore.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/aether/lenore",
+      "image_source_page": "https://aetherelectronic.wordpress.com/2017/03/05/lenore/",
       "image_source_page_verified": true,
       "image_source_priority": 375,
       "image_source_pages": [
         "https://aetherelectronic.wordpress.com/2017/03/11/lenore-demo-and-release/",
-        "https://www.effectsdatabase.com/model/aether/lenore"
+        "https://www.effectsdatabase.com/model/aether/lenore",
+        "https://aetherelectronic.wordpress.com/2017/03/05/lenore/"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://aetherelectronic.wordpress.com/wp-content/uploads/2017/03/lenore.jpg?w=640",
+      "image_source_urls": [
+        "https://aetherelectronic.wordpress.com/wp-content/uploads/2017/03/lenore.jpg?w=662"
+      ]
     },
     {
       "company": "AGR Pedals",

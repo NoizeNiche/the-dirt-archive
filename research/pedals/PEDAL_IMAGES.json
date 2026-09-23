@@ -969,10 +969,12 @@
   {
     "builder": "Aether Electronic",
     "pedal": "Lenore",
-    "image": null,
+    "image": "./assets/pedals/aether-electronic/lenore/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Aether Electronic/Lenore.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://aetherelectronic.wordpress.com/wp-content/uploads/2017/03/lenore.jpg?w=640",
+    "image_source_page": "https://aetherelectronic.wordpress.com/2017/03/05/lenore/"
   },
   {
     "builder": "AGR Pedals",
