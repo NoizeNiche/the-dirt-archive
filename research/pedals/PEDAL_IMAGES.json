@@ -988,16 +988,20 @@
   {
     "builder": "AGR Pedals",
     "pedal": "DS2610 - Vintage Distortion",
-    "image": null,
+    "image": "./assets/pedals/agr-pedals/ds2610-vintage-distortion/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/AGR Pedals/DS2610 - Vintage Distortion.md"
+    "research_record": "./research/pedals/AGR Pedals/DS2610 - Vintage Distortion.md",
+    "image_source_url": "https://i5.walmartimages.com/asr/591f5718-ab0d-4a6f-aba4-2234ee8c840e.ce86a42c319054b03ec3add5f7f7e7a7.jpeg",
+    "image_source_page": "https://www.bodegaaurrera.com.mx/ip/cuerdas/d-11-vintage-distortion-guitar-effect-pedal-with-volume-filter-and-distortion-control-electric-guitar-accessories/00770102535100"
   },
   {
     "builder": "AGR Pedals",
     "pedal": "FZR912 - Muff Fuzz Deluxe",
-    "image": null,
+    "image": "./assets/pedals/agr-pedals/fzr912-muff-fuzz-deluxe/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/agrpedals/fzr912",
-    "research_record": "./research/pedals/AGR Pedals/FZR912 - Muff Fuzz Deluxe.md"
+    "research_record": "./research/pedals/AGR Pedals/FZR912 - Muff Fuzz Deluxe.md",
+    "image_source_url": "https://www.guitarfxdirect.com/wp-content/uploads/2025/12/Fuzz-pedals-buying-feature-image.jpg",
+    "image_source_page": "https://www.guitarfxdirect.com/fuzz-pedals-buying-guide/"
   },
   {
     "builder": "AGR Pedals",

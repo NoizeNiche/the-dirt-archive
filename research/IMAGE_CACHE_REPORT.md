@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
-- Staged browser photos converted: **0**
+- Cached in this run: **2**
+- Staged browser photos converted: **2**
 - Local images retained/reorganized: **0**
 - Download failures: **11**
-- Remaining tracker photo backlog: **2796**
-- Researched, photo pending: **251**
+- Remaining tracker photo backlog: **2794**
+- Researched, photo pending: **249**
 - External source images awaiting localization: **11**
 
 ## Storage layout
@@ -13,6 +13,11 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- AGR Pedals - DS2610 - Vintage Distortion -> `./assets/pedals/agr-pedals/ds2610-vintage-distortion/primary.webp`
+- AGR Pedals - FZR912 - Muff Fuzz Deluxe -> `./assets/pedals/agr-pedals/fzr912-muff-fuzz-deluxe/primary.webp`
 
 ## Still external / failed
 
