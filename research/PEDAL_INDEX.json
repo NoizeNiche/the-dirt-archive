@@ -281,11 +281,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/a-m-custom-effects/twin-pro-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
       "research_record": "./research/pedals/A&M Custom Effects/Twin Pro - Overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/am/twinpro",
-      "image_source_url": "https://www.effectsdatabase.com/model/am/twinpro",
+      "image_source_page": "https://playground.com/templates/s/alphabet-letters-design",
+      "image_source_url": "https://images.playground.com/b547a734-4462-40db-a26e-0649b4d165b5.jpeg",
       "image_source_page_verified": true,
       "image_source_priority": 411,
       "image_source_pages": [
@@ -605,11 +605,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/accel-audio/stompzilla-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/accel/stompzilla",
       "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/accel/stompzilla",
-      "image_source_url": "https://www.effectsdatabase.com/model/accel/stompzilla",
+      "image_source_page": "https://www.realtor.com/realestateandhomes-search/Mi-Wuk-Village_CA",
+      "image_source_url": "https://ap.rdcpix.com/c0c613b5ec2e1f4dea078e94e11c435al-m2201946355rd-w960_h720.jpg",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/accel/stompzilla"
       ],
@@ -8826,16 +8826,22 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bispell-audio/saxon/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/gpx-blog/the-new-v1-5-edition-of-bispell-audios-superior-saxon-jtm45--super-lead-plexi-miab-enhances-its-gain-range-and-refines-the-tone-stack",
       "research_record": "./research/pedals/PRP Batch 088/Saxon.md",
-      "image_source_page": "https://bispellaudio.com/prod/saxon",
+      "image_source_page": "https://www.guitarpedalx.com/news/the-new-v15-edition-of-bispell-audios-superior-saxon-jtm45--super-lead-plexi-miab-enhances-its-gain-range-and-refines-the-tone-stack",
       "image_source_page_verified": true,
-      "image_source_priority": 24,
+      "image_source_priority": 436,
       "image_source_pages": [
-        "https://bispellaudio.com/prod/saxon"
+        "https://bispellaudio.com/prod/saxon",
+        "https://www.guitarpedalx.com/news/the-new-v15-edition-of-bispell-audios-superior-saxon-jtm45--super-lead-plexi-miab-enhances-its-gain-range-and-refines-the-tone-stack",
+        "https://www.guitarpedalx.com/news/news/the-new-v15-edition-of-bispell-audios-superior-saxon-jtm45--super-lead-plexi-miab-enhances-its-gain-range-and-refines-the-tone-stack"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/543/2023-GPX-Bispell-Saxon-1.5-700.jpg",
+      "image_source_urls": [
+        "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/543/2023-GPX-Bispell-Saxon-1.5-700.jpg"
+      ]
     },
     {
       "company": "Bispell Audio",
@@ -9254,7 +9260,7 @@
       "research_record": "./research/pedals/PRP Batch 092/Violine.md",
       "image_source_page": "https://www.talkbass.com/threads/npd-bizarres-violine.1286142/",
       "image_source_page_verified": true,
-      "image_source_priority": 427,
+      "image_source_priority": 442,
       "image_source_pages": [
         "https://www.talkbass.com/threads/npd-bizarres-violine.1286142/"
       ],
