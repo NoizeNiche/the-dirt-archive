@@ -1,14 +1,15 @@
 ## Photo recovery checkpoint - September 22, 2026
 
-Latest verified tracker state: **3,816 total / 1,270 researched / 1,020 pictured / 1,020 complete / 251 researched-photo-pending / 2,796 photo-missing**.
+Latest verified tracker state: **3,816 total / 1,270 researched / 1,022 pictured / 1,022 complete / 249 researched-photo-pending / 2,794 photo-missing**.
 
-Cache run **1048** successfully archived **Baja Tech Custom - Das Fuzz Si** from an exact non-Reverb product image, reducing the researched-photo gate by one. The browser recovery engine now renders curated direct-image overrides inside Chromium when direct HTTP retrieval is blocked, and the cache scheduler now allows bounded recovery workers to finish rather than cancelling an active pass when a newer trigger arrives.
+Cache run **1053** successfully archived **2 exact-model local photos: AGR Pedals DS2610 - Vintage Distortion and AGR Pedals FZR912 - Muff Fuzz Deluxe**. The deep-review scheduler also completed its first fair-rotation cycle on the initial parked cohort, so subsequent passes can advance through the remaining parked backlog instead of repeatedly reopening the same cases.
 
 PRP1 remains gated until researched-photo-pending reaches **0**.
 
-Latest recovery checkpoint: **35814669007**.
+Latest recovery checkpoint: **35815725724**.
 
 ---
+
 
 The public detail page carries the current pedal's dirt-type context into its sidebar, the landing page has a one-click **Clear filters** control, and pagination/search state remains URL-aware.
 
