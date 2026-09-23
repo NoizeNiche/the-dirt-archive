@@ -1021,13 +1021,59 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
           let feedPage = null;
           try {
             feedPage = await page.context().newPage({ viewport: { width: 1440, height: 1000 } });
+            const feedNetworkImages = [];
+            feedPage.on('response', response => {
+              try {
+                const type = (response.headers()['content-type'] || '').toLowerCase();
+                if (type.startsWith('image/')) feedNetworkImages.push(response.url());
+              } catch {}
+            });
             await feedPage.goto(feedUrl, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
-            await feedPage.waitForTimeout(650);
-            for (let i = 0; i < 3; i++) {
+            await feedPage.waitForTimeout(700);
+            for (let i = 0; i < 4; i++) {
               const height = await feedPage.evaluate(() => document.body?.scrollHeight || 0).catch(() => 0);
-              await feedPage.evaluate((height) => window.scrollTo(0, Math.min(height, window.innerHeight * 2)), height).catch(() => {});
+              await feedPage.evaluate((height) => {
+                window.scrollTo(0, Math.min(height, window.innerHeight * 2));
+                for (const img of document.images || []) img.loading = 'eager';
+              }, height).catch(() => {});
               await feedPage.waitForTimeout(180);
             }
+            const renderedFeedImages = await feedPage.evaluate(() => {
+              const out = new Set();
+              const add = value => {
+                if (!value || typeof value !== 'string') return;
+                for (const part of value.split(/\\s+/)) {
+                  if (!part || part.startsWith('data:')) continue;
+                  try {
+                    const url = /^https?:\\/\\//i.test(part) ? part : new URL(part, location.href).href;
+                    if (!/^https?:\\/\\//i.test(url)) continue;
+                    if (/(logo|avatar|icon|sprite|favicon|badge|payment|social|tracking|pixel)/i.test(url)) continue;
+                    out.add(url);
+                  } catch {}
+                }
+              };
+              for (const img of document.querySelectorAll('img, source')) {
+                add(img.currentSrc || '');
+                add(img.src || '');
+                add(img.getAttribute('data-src') || '');
+                add(img.getAttribute('data-original') || '');
+                add(img.getAttribute('data-lazy-src') || '');
+                add(img.getAttribute('srcset') || '');
+                add(img.getAttribute('data-srcset') || '');
+              }
+              for (const node of document.querySelectorAll('[style*="background-image"], [data-background], [data-bg], [data-background-image]')) {
+                const raw = [
+                  getComputedStyle(node).backgroundImage || '',
+                  node.getAttribute('data-background') || '',
+                  node.getAttribute('data-bg') || '',
+                  node.getAttribute('data-background-image') || ''
+                ].join(' ');
+                for (const match of raw.matchAll(/url\\((?:"|')?([^"')]+)(?:"|')?\\)/gi)) add(match[1]);
+              }
+              return [...out];
+            }).catch(() => []);
+            for (const url of renderedFeedImages) addUrl(url);
+            for (const url of feedNetworkImages) addUrl(url);
             body = await feedPage.content().catch(() => '');
             if (!body) body = await feedPage.locator('body').textContent().catch(() => '') || '';
           } catch {} finally {
