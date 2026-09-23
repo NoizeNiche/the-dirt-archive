@@ -1042,10 +1042,10 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
               const out = new Set();
               const add = value => {
                 if (!value || typeof value !== 'string') return;
-                for (const part of value.split(/\\s+/)) {
+                for (const part of value.split(/\s+/)) {
                   if (!part || part.startsWith('data:')) continue;
                   try {
-                    const url = /^https?:\\/\\//i.test(part) ? part : new URL(part, location.href).href;
+                    const url = /^https?:\/\//i.test(part) ? part : new URL(part, location.href).href;
                     if (!/^https?:\\/\\//i.test(url)) continue;
                     if (/(logo|avatar|icon|sprite|favicon|badge|payment|social|tracking|pixel)/i.test(url)) continue;
                     out.add(url);
