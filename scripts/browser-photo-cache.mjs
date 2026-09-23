@@ -968,6 +968,43 @@ async function recoverEntry(browser, entry, deepReview = false) {
           await page.waitForTimeout(250);
         }
 
+        // Some exact product pages serve their media correctly but keep the
+        // actual image URL only in raw HTML attributes that Chromium's hydrated
+        // DOM does not expose. Harvest the document response itself as a second
+        // source-page extraction path, resolving relative media URLs against the
+        // already identity-verified page URL.
+        const rawDocumentImageData = [];
+        try {
+          const response = await page.request.get(pageUrl, { timeout: PAGE_TIMEOUT });
+          if (response.ok()) {
+            const html = (await response.text()).replace(/\\\//g, '/');
+            const rawValues = [];
+
+            for (const pattern of [
+              /<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image)["'][^>]+content=["']([^"']+)["']/gi,
+              /<img[^>]+(?:src|data-src|data-lazy-src|data-original|data-full-src|data-large-image|data-zoom-image)=["']([^"']+)["']/gi,
+              /<source[^>]+(?:src|srcset|data-srcset)=["']([^"']+)["']/gi,
+              /<a[^>]+href=["']([^"']+\.(?:jpe?g|png|webp|gif)(?:[?#][^"']*)?)["']/gi,
+              /["']((?:\/|\.\/|\.\.\/)?[^"']+\.(?:jpe?g|png|webp|gif)(?:[?#][^"']*)?)["']/gi
+            ]) {
+              for (const match of html.matchAll(pattern)) {
+                if (match[1]) rawValues.push(match[1]);
+              }
+            }
+
+            for (const raw of rawValues) {
+              try {
+                const url = /^https?:/i.test(raw)
+                  ? raw
+                  : new URL(raw, pageUrl).href;
+                if (!/^https?:/i.test(url)) continue;
+                if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel)/i.test(url)) continue;
+                rawDocumentImageData.push(url);
+              } catch {}
+            }
+          }
+        } catch {}
+
         const imageData = await page.evaluate(() => {
           const urls = [];
           for (const el of document.querySelectorAll('img, source')) {
@@ -1013,7 +1050,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
           for (const url of rawUrls) rawHtmlImageData.push(url);
         } catch {}
 
-        for (const raw of [...imageData, ...richImageData, ...legacyFeedImages, ...rawHtmlImageData]) {
+        for (const raw of [...imageData, ...richImageData, ...legacyFeedImages, ...rawHtmlImageData, ...rawDocumentImageData]) {
           for (const part of raw.split(/\s+/)) {
             if (/^https?:/i.test(part)) {
               candidates.push({ url: part, sourcePage: pageUrl, sourceScore: 90 });
