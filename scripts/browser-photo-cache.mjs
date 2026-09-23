@@ -1211,11 +1211,56 @@ async function recoverEntry(browser, entry, deepReview = false) {
         try {
           const response = await page.request.get(candidate.url, { timeout: IMAGE_TIMEOUT });
           const type = (response.headers()['content-type'] || '').toLowerCase();
-          if (!response.ok() || !type.startsWith('image/')) continue;
-          const bytes = await response.body();
-          if (bytes.length < 3000) continue;
-          return { candidate, bytes };
+          if (response.ok() && type.startsWith('image/')) {
+            const bytes = await response.body();
+            if (bytes.length >= 3000) return { candidate, bytes };
+          }
         } catch {}
+
+        // Curated direct-image overrides are exact product-photo URLs. Some CDNs
+        // reject Playwright's raw request while serving the same URL to Chromium.
+        // Render the URL in the browser context and capture the actual image.
+        if (candidate.directImageOverride) {
+          try {
+            const capture = await page.evaluate(async src => {
+              document.querySelector('[data-dirt-archive-direct-capture="1"]')?.remove();
+              const img = document.createElement('img');
+              img.setAttribute('data-dirt-archive-direct-capture', '1');
+              img.src = src;
+              img.alt = '';
+              img.style.position = 'fixed';
+              img.style.left = '8px';
+              img.style.top = '8px';
+              img.style.zIndex = '2147483647';
+              img.style.maxWidth = 'calc(100vw - 16px)';
+              img.style.maxHeight = 'calc(100vh - 16px)';
+              img.style.width = 'auto';
+              img.style.height = 'auto';
+              img.style.objectFit = 'contain';
+              img.style.background = '#fff';
+              document.body.appendChild(img);
+              await new Promise(resolve => {
+                if (img.complete) return resolve();
+                img.addEventListener('load', resolve, { once: true });
+                img.addEventListener('error', resolve, { once: true });
+                setTimeout(resolve, 3000);
+              });
+              return {
+                width: Number(img.naturalWidth) || 0,
+                height: Number(img.naturalHeight) || 0
+              };
+            }, candidate.url).catch(() => null);
+
+            if ((capture?.width || 0) >= 220 && (capture?.height || 0) >= 220) {
+              const node = page.locator('[data-dirt-archive-direct-capture="1"]').first();
+              const bytes = await node.screenshot({ type: 'png' }).catch(() => null);
+              await page.evaluate(() => document.querySelector('[data-dirt-archive-direct-capture="1"]')?.remove()).catch(() => {});
+              if (bytes && bytes.length >= 3000) return { candidate, bytes };
+            } else {
+              await page.evaluate(() => document.querySelector('[data-dirt-archive-direct-capture="1"]')?.remove()).catch(() => {});
+            }
+          } catch {}
+        }
       }
       return null;
     }
