@@ -605,6 +605,86 @@ async function linkedSourceImageCandidates(page, entry, sourcePageUsed) {
   }
 }
 
+async function rawVerifiedExternalSourceImages(page, entry, sourcePageUsed) {
+  if (!sourcePageUsed) return [];
+  let hostname = '';
+  try { hostname = new URL(sourcePageUsed).hostname; } catch {}
+  if (!/(^|\.)effectsdatabase\.com$/i.test(hostname)) return [];
+
+  try {
+    const response = await page.request.get(sourcePageUsed, { timeout: PAGE_TIMEOUT });
+    if (!response.ok()) return [];
+    const html = (await response.text()).replace(/\\\//g, '/');
+    const links = new Map();
+    const norm = value => String(value || '')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    const pedalTokens = identityTokens(entry.pedal);
+    const builderTokens = identityTokens(entry.company);
+
+    for (const match of html.matchAll(/<a\\b[^>]+href=["']([^"']+)["'][^>]*>([\\s\\S]{0,1200})<\\/a>/gi)) {
+      let url;
+      try {
+        url = /^https?:/i.test(match[1]) ? match[1] : new URL(match[1], sourcePageUsed).href;
+      } catch { continue; }
+      let parsed;
+      try { parsed = new URL(url); } catch { continue; }
+      const isListing =
+        /(^|\.)ebay\.com$/i.test(parsed.hostname) && /\/itm\//i.test(parsed.pathname) ||
+        /(^|\.)reverb\.com$/i.test(parsed.hostname) && /\/item\//i.test(parsed.pathname);
+      if (!isListing) continue;
+      const hint = norm([match[2], match[1], parsed.pathname].join(' '));
+      const pedalHits = pedalTokens.filter(token => hint.includes(token)).length;
+      const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+      const exactPedal = normalizedIdentity(entry.pedal);
+      const exact = exactPedal.length >= 5 && hint.includes(exactPedal);
+      if (!exact && pedalHits < 1) continue;
+      links.set(url.split('#')[0], { url: url.split('#')[0], score: (exact ? 110 : 70) + pedalHits * 12 + builderHits * 6 });
+    }
+
+    for (const match of html.matchAll(/https?:\/\/(?:www\.)?(?:ebay\.com|reverb\.com)\/[^"'\s<>]+/gi)) {
+      const url = match[0].replace(/[),.;]+$/, '');
+      if (links.has(url)) continue;
+      const hint = norm(url);
+      const pedalHits = pedalTokens.filter(token => hint.includes(token)).length;
+      if (pedalHits < 1) continue;
+      links.set(url, { url, score: 60 + pedalHits * 10 });
+    }
+
+    const out = [];
+    for (const link of [...links.values()].sort((a, b) => b.score - a.score).slice(0, 4)) {
+      try {
+        const identity = await fetchSearchPageIdentity(page, link.url);
+        if (!identity) continue;
+        if (!pageMatchesIdentity(entry, identity.title + ' ' + identity.body, identity.h1)) continue;
+
+        const rawImages = rawVerifiedPageImageUrls(identity.body, link.url);
+        // identity.body is stripped text, so use a second raw response to harvest
+        // the actual image URLs after the destination identity has been verified.
+        let htmlBody = '';
+        try {
+          const destination = await page.request.get(link.url, { timeout: PAGE_TIMEOUT });
+          if (destination.ok()) htmlBody = await destination.text();
+        } catch {}
+        const images = rawVerifiedPageImageUrls(htmlBody, link.url);
+        for (const imageUrl of [...new Set([...rawImages, ...images])]) {
+          out.push({
+            url: imageUrl,
+            sourcePage: link.url,
+            sourceScore: 210 + link.score,
+            linkedExactSourceImage: true
+          });
+        }
+      } catch {}
+    }
+    return [...new Map(out.map(x => [x.url, x])).values()].slice(0, 24);
+  } catch {
+    return [];
+  }
+}
+
 async function linkedExactSourceCandidates(page, entry, sourcePageUsed, deepReview = false) {
   if (!deepReview || !sourcePageUsed) return [];
   let hostname = '';
@@ -1056,6 +1136,11 @@ async function recoverEntry(browser, entry, deepReview = false) {
                 });
               }
               diagnostic.rawHtmlCandidates += rawUrls.length;
+
+              const rawExternalImages = await rawVerifiedExternalSourceImages(page, entry, pageUrl);
+              if (rawExternalImages.length) {
+                candidates.push(...rawExternalImages);
+              }
             }
           } catch {}
         }
@@ -1397,7 +1482,7 @@ async function recoverEntry(browser, entry, deepReview = false) {
         // image CDNs reject Playwright's request API but accept a normal HTTP
         // client with browser-like headers. Try this narrowly for curated exact
         // URLs before browser rendering, without relaxing identity requirements.
-        if (candidate.directImageOverride || candidate.searchResult || candidate.soldResult) {
+        if (candidate.directImageOverride || candidate.searchResult || candidate.soldResult || candidate.linkedExactSourceImage) {
           try {
             const headers = {
               'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/153.0 Safari/537.36',
