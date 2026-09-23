@@ -22,7 +22,7 @@ const TARGET_PEDAL = String(process.env.PHOTO_BROWSER_TARGET_PEDAL || '').trim()
 const PER_BUILDER_LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_PER_BUILDER_LIMIT || 5));
 const RECOVERY_DEADLINE_MS = Math.max(10000, Number(process.env.PHOTO_BROWSER_RECOVERY_DEADLINE_MS || 35000));
 const MAX_RECOVERY_ATTEMPTS = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS || 12));
-const MAX_DEEP_REVIEW_CYCLES = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES || 3));
+const MAX_DEEP_REVIEW_CYCLES = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES || 8));
 const REVISIT_PARKED = String(process.env.PHOTO_BROWSER_REVISIT_PARKED || 'false').toLowerCase() !== 'false';
 let manifestOwnersByImage = new Map();
 
