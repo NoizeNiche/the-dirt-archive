@@ -1166,6 +1166,28 @@ async function recoverEntry(browser, entry, deepReview = false) {
         diagnostic.sourceIdentityMatch = true;
         sourcePageUsed = sourcePageUsed || pageUrl;
 
+        // Once the live page itself has passed the exact builder/model identity
+        // gate, harvest its raw document media regardless of whether the
+        // override was pre-flagged as verified. This catches curated WordPress,
+        // Reverb, and archive pages whose useful product image is only present in
+        // source HTML or a relative media link.
+        try {
+          const rawResponse = await page.request.get(pageUrl, { timeout: PAGE_TIMEOUT });
+          if (rawResponse.ok()) {
+            const rawHtml = await rawResponse.text();
+            const rawUrls = rawVerifiedPageImageUrls(rawHtml, pageUrl);
+            for (const url of rawUrls) {
+              candidates.push({
+                url,
+                sourcePage: pageUrl,
+                sourceScore: 118,
+                rawVerifiedPageImage: true
+              });
+            }
+            diagnostic.rawHtmlCandidates = (Number(diagnostic.rawHtmlCandidates) || 0) + rawUrls.length;
+          }
+        } catch {}
+
         if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname)) {
           await page.waitForTimeout(1400);
         }
