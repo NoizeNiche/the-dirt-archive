@@ -3804,9 +3804,11 @@
   {
     "builder": "Balaguer Guitars",
     "pedal": "BG-Drive - Preamp/Overdrive",
-    "image": null,
+    "image": "./assets/pedals/balaguer-guitars/bg-drive-preamp-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/balaguer/bgdrive",
-    "research_record": "./research/pedals/Balaguer Guitars/BG-Drive - Preamp/Overdrive.md"
+    "research_record": "./research/pedals/Balaguer Guitars/BG-Drive - Preamp/Overdrive.md",
+    "image_source_url": "https://guitarbrando.com/cdn/shop/products/20201214_213456.jpg?v=1632776585",
+    "image_source_page": "https://guitarbrando.com/products/balaguer-guitars-fission-drive-ovwrdrive-pedal"
   },
   {
     "builder": "Balaguer Guitars",
