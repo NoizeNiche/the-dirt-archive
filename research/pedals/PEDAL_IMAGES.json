@@ -777,9 +777,11 @@
   {
     "builder": "Add+ Pedals",
     "pedal": "Super Drive 2",
-    "image": null,
+    "image": "./assets/pedals/add-pedals/super-drive-2/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/addplus/superdrive/2",
-    "research_record": "./research/pedals/Add+ Pedals/Super Drive 2.md"
+    "research_record": "./research/pedals/Add+ Pedals/Super Drive 2.md",
+    "image_source_url": "https://guitarsforidiots.com/wp-content/uploads/2024/06/superdrive.webp?w=1024",
+    "image_source_page": "https://guitarsforidiots.com/2024/06/04/meet-audio-audio-a-new-pedal-company-from-a-familiar-face/"
   },
   {
     "builder": "Add+ Pedals",
@@ -1339,18 +1341,22 @@
   {
     "builder": "Alen Geere",
     "pedal": "Serene",
-    "image": null,
+    "image": "./assets/pedals/alen-geere/serene/primary.webp",
     "source_page": "https://reverb.com/item/10782-alen-geere-serene-boost",
     "research_record": "./research/pedals/PRP Batch 046/Serene.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://i.pinimg.com/736x/c9/95/15/c99515de5ee30af6948a9e75f27e4791.jpg",
+    "image_source_page": "https://www.pinterest.com/pin/3659243426165792/"
   },
   {
     "builder": "Alen Geere",
     "pedal": "Tube Fuzz",
-    "image": null,
+    "image": "./assets/pedals/alen-geere/tube-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/alengeere/tubefuzz",
     "research_record": "./research/pedals/PRP Batch 046/Tube Fuzz.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://guitar.com/wp-content/uploads/2021/01/Pic-11@1050x1400-400x533.jpg",
+    "image_source_page": "https://guitar.com/guides/diy-workshop/diy-workshop-build-your-own-fuzz-pedal/"
   },
   {
     "builder": "Alexander Pedals",
@@ -1825,10 +1831,12 @@
   {
     "builder": "AMT Electronics",
     "pedal": "BS British Sound",
-    "image": null,
+    "image": "./assets/pedals/amt-electronics/bs-british-sound/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/amt/bs",
     "research_record": "./research/pedals/PRP Batch 049/BS British Sound.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--4uHsqd0L--/quality=medium-low,height=800,width=800,fit=contain,trim.top=649,trim.left=0,trim.width=3024,trim.height=3024/xvlmpytsbcrtkji4n9p3.jpg",
+    "image_source_page": "https://reverb.com/item/65248120-amt-electronics-british-sound-distortion-pedal"
   },
   {
     "builder": "AMT Electronics",
@@ -1871,10 +1879,12 @@
   {
     "builder": "AMT Electronics",
     "pedal": "Rammstein RD Distortion Combo Emulator",
-    "image": null,
+    "image": "./assets/pedals/amt-electronics/rammstein-rd-distortion-combo-emulator/primary.webp",
     "source_page": "https://amtelectronics.com/",
     "research_record": "./research/pedals/PRP Batch 049/Rammstein RD Distortion Combo Emulator.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://amtelectronics.com/new/wp-content/uploads/2024/10/201024-1200x450-regalii-2024.png",
+    "image_source_page": "https://amtelectronics.com/"
   },
   {
     "builder": "AMT Electronics",
@@ -2740,9 +2750,11 @@
   {
     "builder": "Atmosfera 6",
     "pedal": "SPACE OR DIE Variable Octave Generator",
-    "image": null,
+    "image": "./assets/pedals/atmosfera-6/space-or-die-variable-octave-generator/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/atmosfera6/spaceordie",
-    "research_record": "./research/pedals/Atmosfera 6/SPACE OR DIE Variable Octave Generator.md"
+    "research_record": "./research/pedals/Atmosfera 6/SPACE OR DIE Variable Octave Generator.md",
+    "image_source_url": "https://ae01.alicdn.com/kf/S5f1ab4eb4d6440abb28fb8c748a5b41aw.jpg",
+    "image_source_page": "https://www.aliexpress.com/item/1005009799831632.html"
   },
   {
     "builder": "Atmosfera 6",

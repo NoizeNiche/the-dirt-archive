@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **8**
-- Staged browser photos converted: **8**
+- Cached in this run: **6**
+- Staged browser photos converted: **6**
 - Local images retained/reorganized: **0**
 - Download failures: **11**
-- Remaining tracker photo backlog: **2786**
-- Researched, photo pending: **241**
+- Remaining tracker photo backlog: **2780**
+- Researched, photo pending: **235**
 - External source images awaiting localization: **11**
 
 ## Storage layout
@@ -16,14 +16,12 @@
 
 ## Newly cached
 
-- Alber - FU-1000 -> `./assets/pedals/alber/fu-1000/primary.webp`
-- Alber - FU-1000P -> `./assets/pedals/alber/fu-1000p/primary.webp`
-- Alber - GA-1040P Gain -> `./assets/pedals/alber/ga-1040p-gain/primary.webp`
-- Alber - OD-6 Over Drive -> `./assets/pedals/alber/od-6-over-drive/primary.webp`
-- Alber - OD-600 Over Drive -> `./assets/pedals/alber/od-600-over-drive/primary.webp`
-- Alen Geere - Crown Centaur -> `./assets/pedals/alen-geere/crown-centaur/primary.webp`
-- Alen Geere - LEADer Mk.2 -> `./assets/pedals/alen-geere/leader-mk-2/primary.webp`
-- Alen Geere - Preface Drive -> `./assets/pedals/alen-geere/preface-drive/primary.webp`
+- AMT Electronics - BS British Sound -> `./assets/pedals/amt-electronics/bs-british-sound/primary.webp`
+- AMT Electronics - Rammstein RD Distortion Combo Emulator -> `./assets/pedals/amt-electronics/rammstein-rd-distortion-combo-emulator/primary.webp`
+- Add+ Pedals - Super Drive 2 -> `./assets/pedals/add-pedals/super-drive-2/primary.webp`
+- Alen Geere - Serene -> `./assets/pedals/alen-geere/serene/primary.webp`
+- Alen Geere - Tube Fuzz -> `./assets/pedals/alen-geere/tube-fuzz/primary.webp`
+- Atmosfera 6 - SPACE OR DIE Variable Octave Generator -> `./assets/pedals/atmosfera-6/space-or-die-variable-octave-generator/primary.webp`
 
 ## Still external / failed
 

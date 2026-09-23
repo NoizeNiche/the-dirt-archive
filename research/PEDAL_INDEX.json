@@ -715,11 +715,9 @@
       "image": "https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg",
       "source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk2",
       "research_record": "./research/pedals/Acid Fuzz/Professional MkII.md",
-      "image_source_page": "https://reverb.com/item/65515455-acid-fuzz-professional-mkii-mullard-oc81",
+      "image_source_page": "https://www.effectsdatabase.com/model/acidfuzz/mk2",
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/acidfuzz/mk2",
-        "https://reverb.com/item/65515455-acid-fuzz-professional-mkii-mullard-oc81",
-        "https://reverb.com/uk/item/66814448-acid-fuzz-professional-mkii-mullard-oc81"
+        "https://www.effectsdatabase.com/model/acidfuzz/mk2"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
@@ -1173,16 +1171,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/add-pedals/super-drive-2/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addplus/superdrive/2",
       "research_record": "./research/pedals/Add+ Pedals/Super Drive 2.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/addplus/superdrive/2",
+      "image_source_page": "https://guitarsforidiots.com/2024/06/04/meet-audio-audio-a-new-pedal-company-from-a-familiar-face/",
       "image_source_page_verified": true,
       "image_source_priority": 299,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/addplus/superdrive/2"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://guitarsforidiots.com/wp-content/uploads/2024/06/superdrive.webp?w=1024"
     },
     {
       "company": "Add+ Pedals",
@@ -2105,16 +2104,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/alen-geere/serene/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 046/Serene.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/serene",
+      "image_source_page": "https://www.pinterest.com/pin/3659243426165792/",
       "image_source_page_verified": true,
       "image_source_priority": 95,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alengeere/serene"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://i.pinimg.com/736x/c9/95/15/c99515de5ee30af6948a9e75f27e4791.jpg"
     },
     {
       "company": "Alen Geere",
@@ -2122,16 +2122,17 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/alen-geere/tube-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 046/Tube Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/alengeere/tubefuzz",
+      "image_source_page": "https://guitar.com/guides/diy-workshop/diy-workshop-build-your-own-fuzz-pedal/",
       "image_source_page_verified": true,
       "image_source_priority": 96,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/alengeere/tubefuzz"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://guitar.com/wp-content/uploads/2021/01/Pic-11@1050x1400-400x533.jpg"
     },
     {
       "company": "Alexander Pedals",
@@ -2544,7 +2545,7 @@
       "image": "https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg",
       "source_page": "https://reverb.com",
       "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md",
-      "image_source_page": "https://reverb.com/p/amptweaker-tight-drive-jr",
+      "image_source_page": "https://www.soundhouse.co.jp/en/products/detail/item/255411/",
       "image_source_pages": [
         "https://reverb.com/p/amptweaker-tight-drive-jr",
         "https://www.soundhouse.co.jp/en/products/detail/item/255411/"
@@ -2752,16 +2753,17 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/amt-electronics/bs-british-sound/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/amt/bs",
       "research_record": "./research/pedals/PRP Batch 049/BS British Sound.md",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/amt/bs"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/amt/bs",
+      "image_source_page": "https://reverb.com/item/65248120-amt-electronics-british-sound-distortion-pedal",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 366
+      "image_source_priority": 366,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--4uHsqd0L--/quality=medium-low,height=800,width=800,fit=contain,trim.top=649,trim.left=0,trim.width=3024,trim.height=3024/xvlmpytsbcrtkji4n9p3.jpg"
     },
     {
       "company": "AMT Electronics",
@@ -2823,16 +2825,17 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/amt-electronics/rammstein-rd-distortion-combo-emulator/primary.webp",
       "source_page": "https://amtelectronics.com/",
       "research_record": "./research/pedals/PRP Batch 049/Rammstein RD Distortion Combo Emulator.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/amt/rd",
+      "image_source_page": "https://amtelectronics.com/",
       "image_source_page_verified": true,
       "image_source_priority": 88,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/amt/rd"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://amtelectronics.com/new/wp-content/uploads/2024/10/201024-1200x450-regalii-2024.png"
     },
     {
       "company": "AMT Electronics",
@@ -3967,11 +3970,10 @@
       "image": "https://rvb-img.reverb.com/i/s--R9Ok8B28--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/a7bc35c8-94df-4de1-852a-00e1225e5486.jpg",
       "source_page": "https://reverb.com/item/96732158-asheville-guitar-pedals-rat-king-2025-white",
       "research_record": "./research/pedals/PRP Batch 059/Rat King.md",
-      "image_source_page": "https://reverb.com/item/98756239-asheville-guitar-pedals-rat-king-2026-gold-1-of-20",
+      "image_source_page": "https://www.avlguitarpedals.com/",
       "image_source_pages": [
         "https://reverb.com/item/89342629-asheville-guitar-pedals-rat-king-2025-black",
-        "https://www.avlguitarpedals.com/",
-        "https://reverb.com/item/98756239-asheville-guitar-pedals-rat-king-2026-gold-1-of-20"
+        "https://www.avlguitarpedals.com/"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
@@ -4069,16 +4071,17 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/atmosfera-6/space-or-die-variable-octave-generator/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/atmosfera6/spaceordie",
       "research_record": "./research/pedals/Atmosfera 6/SPACE OR DIE Variable Octave Generator.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/atmosfera6/spaceordie",
+      "image_source_page": "https://www.aliexpress.com/item/1005009799831632.html",
       "image_source_page_verified": true,
       "image_source_priority": 286,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/atmosfera6/spaceordie"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://ae01.alicdn.com/kf/S5f1ab4eb4d6440abb28fb8c748a5b41aw.jpg"
     },
     {
       "company": "Atmosfera 6",
@@ -6011,11 +6014,10 @@
       "source_page": "https://reverb.com/item/67970418-barber-ltd-and-super-sport-dual-discrete-2020s",
       "research_record": "./research/pedals/Barber Electronics/B-Custom_Dual_Discrete.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--4N0bxT25--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgdoay9xz6akmnqmyxvq.jpg",
-      "image_source_page": "https://reverb.com/item/67970418-barber-ltd-and-super-sport-dual-discrete-2020s",
+      "image_source_page": "https://www.effectsdatabase.com/model/barber/bcustom/dualdiscrete",
       "image_source_pages": [
         "https://reverb.com/item/42253176-barber-b-custom-dual-discrete-overdrive",
-        "https://www.effectsdatabase.com/model/barber/bcustom/dualdiscrete",
-        "https://reverb.com/item/67970418-barber-ltd-and-super-sport-dual-discrete-2020s"
+        "https://www.effectsdatabase.com/model/barber/bcustom/dualdiscrete"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
@@ -6964,10 +6966,9 @@
       "image": "https://rvb-img.reverb.com/i/s--LLexNzWV--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cbp3ifzmgocobxxzp7ph.jpg",
       "source_page": "https://reverb.com/item/78332511-bearfoot-fx-honey-bee-plus-2022ish-gold-flake",
       "research_record": "./research/pedals/BearFoot FX/Honey Bee Overdrive Plus.md",
-      "image_source_page": "https://reverb.com/item/66928122-bearfoot-honey-bee-overdrive-plus-sn-18-03-15",
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/",
       "image_source_pages": [
-        "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/",
-        "https://reverb.com/item/66928122-bearfoot-honey-bee-overdrive-plus-sn-18-03-15"
+        "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
