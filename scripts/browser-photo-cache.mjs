@@ -952,9 +952,22 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
         if (!/https?:\/\/[^/]*effectsdatabase\.com\/feed\/model\//i.test(href)) continue;
         out.push(href.split('#')[0]);
       }
-      return [...new Set(out)].slice(0, 2);
+      return [...new Set(out)];
     });
 
+    // Older Effects Database model pages do not always expose their legacy
+    // image-feed link in the DOM. Derive the exact feed endpoint from the
+    // curated /model/... page path so the recovery engine can still reach the
+    // model's own image records without guessing across other products.
+    try {
+      const parsed = new URL(pageUrl);
+      if (/([.]|^)effectsdatabase[.]com$/i.test(parsed.hostname) && /^\/model\//i.test(parsed.pathname)) {
+        const suffix = parsed.pathname.slice('/model/'.length);
+        feedLinks.push(parsed.origin + '/feed/model/' + suffix);
+      }
+    } catch {}
+
+    const feedUrls = [...new Set(feedLinks)].slice(0, 3);
     const urls = new Set();
     const addUrl = value => {
       if (!value || typeof value !== 'string' || value.startsWith('data:')) return;
@@ -968,7 +981,7 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
       } catch {}
     };
 
-    for (const feedUrl of feedLinks) {
+    for (const feedUrl of feedUrls) {
       try {
         let body = '';
         try {
@@ -1028,7 +1041,7 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
         const url = /^https?:/i.test(raw) ? raw : new URL(raw, pageUrl).href;
         if (!/^https?:/i.test(url)) return;
         if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel)/i.test(url)) return;
-        if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url)) out.add(url);
+        if (\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url) || /(^|\/)gear\/pics\//i.test(new URL(url).pathname)) out.add(url);
       } catch {}
     }
   };
