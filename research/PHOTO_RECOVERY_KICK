@@ -24,3 +24,4 @@ September 23 2026 recovery kick: added an exact model-specific TalkBass source l
 September 23 2026 recovery kick: normalized Reverb locale-prefixed source URLs in the verified image-search identity gate so exact listings under /ca/, /es/, etc. match their curator-verified product paths.
 September 23 2026 recovery kick: fixed the Python cache layer to try every curated image_source_urls fallback before source-page discovery, preventing exact alternate images from being stranded behind blocked primary URLs.
 September 23 2026 recovery kick: resume the canonical A-to-Z photo gate from the live tracker; 44 researched-photo-pending records remain, starting with A&M Custom Effects Crash Central and Crazyboy.
+September 23 2026 recovery kick: widen parked deep-review reopening to 30 records and hard-case reservation to 16 slots per bounded pass.
