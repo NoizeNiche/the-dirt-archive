@@ -233,7 +233,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
       "image_source_url": "https://www.effectsdatabase.com/model/am/crashcentral",
       "image_source_page_verified": true,
-      "image_source_priority": 481,
+      "image_source_priority": 477,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/am/crashcentral"
       ],
@@ -251,7 +251,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/am/crazyboy",
       "image_source_url": "https://www.effectsdatabase.com/model/am/crazyboy",
       "image_source_page_verified": true,
-      "image_source_priority": 480,
+      "image_source_priority": 476,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/am/crazyboy"
       ],
@@ -3335,7 +3335,7 @@
       "image_source_page": "https://reverb.com/item/2568948-anarchy-audio-baa-bzz-fuzz-pedal-roland-bee-baa-inspired-fuzz",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 474,
+      "image_source_priority": 470,
       "image_source_url": "https://rvb-img.reverb.com/image/upload/s--SiwVNXjg--/a_0/f_auto%2Ct_large/v1626746479/uxnakseauwgvx3kag0aq.jpg",
       "image_source_urls": [
         "https://rvb-img.reverb.com/image/upload/s--SiwVNXjg--/a_0/f_auto%2Ct_large/v1626746479/uxnakseauwgvx3kag0aq.jpg"
@@ -4457,16 +4457,20 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/audiobox/crunch-box/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/audiobox/crunchbox",
       "research_record": "./research/pedals/Audiobox/Crunch Box.md",
       "image_source_page": "https://www.effectsdatabase.com/model/audiobox/crunchbox",
       "image_source_page_verified": true,
-      "image_source_priority": 476,
+      "image_source_priority": 472,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/audiobox/crunchbox"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/audiobox_crunchbox_001.jpg",
+      "image_source_urls": [
+        "https://files.effectsdatabase.com/gear/thumbs/audiobox_crunchbox_001.jpg"
+      ]
     },
     {
       "company": "Audiofab",
@@ -4829,7 +4833,7 @@
       "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/best-of-australian-and-new-zealander-guitar-pedals-and-pedal-builders",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 477
+      "image_source_priority": 473
     },
     {
       "company": "AVIA",
@@ -5144,7 +5148,7 @@
       "research_record": "./research/pedals/AXL/DEQ-2 Distortion EQ.md",
       "image_source_page": "https://www.effectsdatabase.com/model/axl/deq2",
       "image_source_page_verified": true,
-      "image_source_priority": 478,
+      "image_source_priority": 474,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/axl/deq2"
       ],
@@ -5960,7 +5964,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/baltimore-sonic-research-institute/tfz-fuzz/primary.webp",
       "source_page": "https://onethousandpedals.com/pedal/baltimore-sonic-research-institute-tfz-the-ultimate-fuzz",
       "research_record": "./research/pedals/Baltimore Sonic Research Institute/TFZ Fuzz.md",
       "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/bsri-audio-pitches-its-tfz-fuzz-as-the-ultimate-everyday-fuzz",
@@ -5971,7 +5975,11 @@
         "https://reverb.com/item/98916760-baltimore-sonic-research-institute-tfz",
         "https://www.guitarpedalx.com/news/gpx-blog/bsri-audio-pitches-its-tfz-fuzz-as-the-ultimate-everyday-fuzz"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/526/2021GPXBSRITFZFuzz700V2.jpg",
+      "image_source_urls": [
+        "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/526/2021GPXBSRITFZFuzz700V2.jpg"
+      ]
     },
     {
       "company": "Barbarossa",
@@ -8323,7 +8331,7 @@
       "research_record": "./research/pedals/PRP Batch 085/Monk Boost.md",
       "image_source_page": "https://reverb.com/item/92603748-big-monk-colorsound-monk-boost",
       "image_source_page_verified": true,
-      "image_source_priority": 456,
+      "image_source_priority": 454,
       "image_source_pages": [
         "https://reverb.com/item/92603748-big-monk-colorsound-monk-boost",
         "https://reverb.com/au/item/84529535-big-monk-electronic-device-co-the-monk-boost-pre-order"
@@ -10032,7 +10040,7 @@
       "research_record": "./research/pedals/PRP Batch 096/D&S.md",
       "image_source_page": "https://www.pitbullaudio.com/black-cat-pedals-d-s-ds-sustainer-guitar-effects-pedal-ibanez-maxon-od-801-replica.html",
       "image_source_page_verified": true,
-      "image_source_priority": 479,
+      "image_source_priority": 475,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/blackcat/ds",
         "https://www.pitbullaudio.com/black-cat-pedals-d-s-ds-sustainer-guitar-effects-pedal-ibanez-maxon-od-801-replica.html"
@@ -10324,7 +10332,7 @@
       "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md",
       "image_source_page": "https://reverb.com/item/58788639-blackhawk-amplifiers-basilisk-fuzz-2019-black",
       "image_source_page_verified": true,
-      "image_source_priority": 471,
+      "image_source_priority": 467,
       "image_source_pages": [
         "https://reverb.com/item/77950001-black-hawk-basilisk-fuzz-black",
         "https://reverb.com/item/87246180-blackhawk-amplifiers-basilisk-fuzz-pedal-beebaa",
@@ -10732,7 +10740,7 @@
       "research_record": "./research/pedals/PRP Batch 102/FUBÄR.md",
       "image_source_page": "https://blackouteffectors.com/effects/",
       "image_source_page_verified": true,
-      "image_source_priority": 461,
+      "image_source_priority": 457,
       "image_source_pages": [
         "https://reverb.com/item/3620903-blackout-effectors-fubar",
         "https://blackouteffectors.com/effects/"
@@ -14515,7 +14523,7 @@
       "research_record": "./research/pedals/PRP Batch 135/cajita-bdi-ts-with-overdrive.md",
       "image_source_page": "https://pedalescajita.mitiendanube.com/",
       "image_source_page_verified": true,
-      "image_source_priority": 464,
+      "image_source_priority": 460,
       "image_source_pages": [
         "https://www.mercadolibre.com.ar/bdits--preamp-de-bajo--distorsion--cajita-stompboxes-/up/MLAU299492703",
         "https://pedalescajita.mitiendanube.com/"
@@ -15476,7 +15484,7 @@
       "research_record": "./research/pedals/PRP Batch 146/cameltone-big-stuff.md",
       "image_source_page": "https://reverb.com/item/31816216-cameltone-electronics-big-stuff-fuzz-distortion-pedal",
       "image_source_page_verified": true,
-      "image_source_priority": 455,
+      "image_source_priority": 453,
       "image_source_pages": [
         "https://reverb.com/item/31816216-cameltone-electronics-big-stuff-fuzz-distortion-pedal",
         "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple"

@@ -3003,9 +3003,11 @@
   {
     "builder": "Audiobox",
     "pedal": "Crunch Box",
-    "image": null,
+    "image": "./assets/pedals/audiobox/crunch-box/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/audiobox/crunchbox",
-    "research_record": "./research/pedals/Audiobox/Crunch Box.md"
+    "research_record": "./research/pedals/Audiobox/Crunch Box.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/audiobox_crunchbox_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/audiobox/crunchbox"
   },
   {
     "builder": "Audiofab",
@@ -3958,9 +3960,10 @@
   {
     "builder": "Baltimore Sonic Research Institute",
     "pedal": "TFZ Fuzz",
-    "image": null,
+    "image": "./assets/pedals/baltimore-sonic-research-institute/tfz-fuzz/primary.webp",
     "source_page": "https://onethousandpedals.com/pedal/baltimore-sonic-research-institute-tfz-the-ultimate-fuzz",
-    "research_record": "./research/pedals/Baltimore Sonic Research Institute/TFZ Fuzz.md"
+    "research_record": "./research/pedals/Baltimore Sonic Research Institute/TFZ Fuzz.md",
+    "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/526/2021GPXBSRITFZFuzz700V2.jpg"
   },
   {
     "builder": "Barbarossa",
