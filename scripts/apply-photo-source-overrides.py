@@ -65,11 +65,12 @@ def main() -> None:
         if not override and not direct:
             continue
 
-        # Remove stale Reverb CDN image URLs when the curated direct-image
-        # override has been retired. The verified source page remains the
-        # provenance anchor, and the browser recovery pass can select a fresh
-        # rendered image from that page instead of retrying a dead CDN URL.
+        # When the curated path is a source page rather than a direct image,
+        # an old external runtime URL must not survive and keep winning the
+        # cache lane. Remove stale Reverb CDN fields unconditionally so the
+        # browser recovery pass starts from the verified page lead.
         if not direct:
+            stale_image = str(entry.get("image") or "").strip()
             stale_urls = [
                 str(value or "").strip()
                 for value in (entry.get("image_source_urls") or [])
@@ -78,15 +79,13 @@ def main() -> None:
             stale_single = str(entry.get("image_source_url") or "").strip()
             if stale_single:
                 stale_urls.append(stale_single)
-            stale_reverb = any("rvb-img.reverb.com" in value.lower() for value in stale_urls)
+            stale_reverb = "rvb-img.reverb.com" in stale_image.lower() or any(
+                "rvb-img.reverb.com" in value.lower() for value in stale_urls
+            )
             if stale_reverb:
                 entry.pop("image_source_url", None)
                 entry.pop("image_source_urls", None)
-                # A legacy external image field can otherwise short-circuit the
-                # browser recovery path and keep retrying the same dead Reverb CDN.
-                stale_image = str(entry.get("image") or "").strip()
-                if "rvb-img.reverb.com" in stale_image.lower():
-                    entry.pop("image", None)
+                entry.pop("image", None)
 
         override = override or []
         pages = list(dict.fromkeys(page for page, _, _ in override))
