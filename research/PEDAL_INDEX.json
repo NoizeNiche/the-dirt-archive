@@ -4573,7 +4573,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/audiostorm/otherworld-overdrive/primary.webp",
       "source_page": "https://audiostorm.uk/product/otherworld/",
       "research_record": "./research/pedals/Audiostorm/Otherworld Overdrive.md",
       "image_source_pages": [
@@ -4582,7 +4582,8 @@
       "image_source_page": "https://audiostorm.uk/retired-products/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 371
+      "image_source_priority": 371,
+      "image_source_url": "https://audiostorm.uk/wp-content/uploads/HB130_1600_01Front-300x300.jpg"
     },
     {
       "company": "Audiostorm",

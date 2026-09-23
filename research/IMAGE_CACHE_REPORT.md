@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
-- Staged browser photos converted: **0**
+- Cached in this run: **1**
+- Staged browser photos converted: **1**
 - Local images retained/reorganized: **0**
 - Download failures: **10**
-- Remaining tracker photo backlog: **2769**
-- Researched, photo pending: **224**
+- Remaining tracker photo backlog: **2768**
+- Researched, photo pending: **223**
 - External source images awaiting localization: **10**
 
 ## Storage layout
@@ -13,6 +13,10 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
+
+## Newly cached
+
+- Audiostorm - Otherworld Overdrive -> `./assets/pedals/audiostorm/otherworld-overdrive/primary.webp`
 
 ## Still external / failed
 
