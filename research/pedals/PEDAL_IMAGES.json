@@ -417,11 +417,11 @@
   {
     "builder": "Accel Audio",
     "pedal": "Vintage Scream'in Overdrive",
-    "image": "https://rvb-img.reverb.com/i/s--OB3nTCeF--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/02e04c92-231e-41eb-9d5a-fa8e274e6463.webp",
+    "image": "./assets/pedals/accel-audio/vintage-scream-in-overdrive/primary.webp",
     "source_page": "https://reverb.com/au/item/99862869-accel-audio-vintage-scream-in-overdrive-tri-mode-drive-boost",
     "research_record": "./research/pedals/Accel Audio/Vintage Scream'in Overdrive.md",
-    "image_source_page": "https://reverb.com/uk/item/99862869-accel-audio-vintage-scream-in-overdrive-tri-mode-drive-boost",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--Lk_Xz2zr--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hiob2qchfo3b1uey6zad.jpg"
+    "image_source_page": "https://www.rockboard.de/en/pedalPedia/Accel-Audio/Screamevgin-Vintage-Overdrive/68974317/",
+    "image_source_url": "https://cdn.rockboard.de/common/image_fc1c0fc8-92d5-4a74-94f9-4cbe8d448238.webp"
   },
   {
     "builder": "Acid Age Electronics",
@@ -1048,11 +1048,11 @@
   {
     "builder": "Airis Effects",
     "pedal": "Solar Flare Overdrive",
-    "image": "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg",
+    "image": "./assets/pedals/airis-effects/solar-flare-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/airis/solarflare",
     "research_record": "./research/pedals/Airis Effects/Solar Flare Overdrive.md",
-    "image_source_page": "https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg"
+    "image_source_page": "https://www.effectsdatabase.com/model/airis/solarflare",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/airis_solarflare_002.jpg"
   },
   {
     "builder": "Airis Effects",
@@ -3444,7 +3444,8 @@
     "pedal": "DEQ-2 Distortion EQ",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/axl/deq2",
-    "research_record": "./research/pedals/AXL/DEQ-2 Distortion EQ.md"
+    "research_record": "./research/pedals/AXL/DEQ-2 Distortion EQ.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--sOlbynCX--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bc7bc2hp18fyorrpyaek.jpg"
   },
   {
     "builder": "AXL",

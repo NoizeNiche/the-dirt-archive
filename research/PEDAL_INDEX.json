@@ -632,7 +632,12 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 420
+      "image_source_priority": 479,
+      "image_source_url": "https://cdn.rockboard.de/common/image_fc1c0fc8-92d5-4a74-94f9-4cbe8d448238.webp",
+      "image_source_urls": [
+        "https://cdn.rockboard.de/common/image_fc1c0fc8-92d5-4a74-94f9-4cbe8d448238.webp"
+      ],
+      "image": "./assets/pedals/accel-audio/vintage-scream-in-overdrive/primary.webp"
     },
     {
       "company": "Acid Age Electronics",
@@ -1595,7 +1600,7 @@
       ],
       "source_page": "https://www.effectsdatabase.com/model/airis/solarflare",
       "research_record": "./research/pedals/Airis Effects/Solar Flare Overdrive.md",
-      "image_source_page": "https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black",
+      "image_source_page": "https://www.effectsdatabase.com/model/airis/solarflare",
       "image_source_pages": [
         "https://reverb.com/item/3103040-airis-effects-solar-flare-overdrive-2015-black",
         "https://www.effectsdatabase.com/model/airis/solarflare"
@@ -1603,10 +1608,11 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 434,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/airis_solarflare_002.jpg",
       "image_source_urls": [
         "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg"
-      ]
+      ],
+      "image": "./assets/pedals/airis-effects/solar-flare-overdrive/primary.webp"
     },
     {
       "company": "Airis Effects",
@@ -5146,13 +5152,18 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/axl/deq2",
       "research_record": "./research/pedals/AXL/DEQ-2 Distortion EQ.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/axl/deq2",
+      "image_source_page": "https://reverb.com/item/32611541-axl-deq2-distortion-grey",
       "image_source_page_verified": true,
       "image_source_priority": 474,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/axl/deq2"
+        "https://www.effectsdatabase.com/model/axl/deq2",
+        "https://reverb.com/item/32611541-axl-deq2-distortion-grey"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--sOlbynCX--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bc7bc2hp18fyorrpyaek.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--sOlbynCX--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bc7bc2hp18fyorrpyaek.jpg"
+      ]
     },
     {
       "company": "AXL",
