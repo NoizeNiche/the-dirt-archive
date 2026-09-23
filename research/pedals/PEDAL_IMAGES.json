@@ -5785,11 +5785,12 @@
   {
     "builder": "Bispell Audio",
     "pedal": "Gleam",
-    "image": null,
+    "image": "./assets/pedals/bispell-audio/gleam/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.youtube.com/watch?v=HWwK5HCAb8E",
     "research_record": "./research/pedals/PRP Batch 088/Gleam.md",
-    "image_source_page": "https://reverb.com/en-fi/item/89660904-bispell-audio-gleam-fuzz-guitar-effects-pedal"
+    "image_source_page": "https://reverb.com/en-fi/item/89660904-bispell-audio-gleam-fuzz-guitar-effects-pedal",
+    "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/541/2023-GPX-Bispell-Audio-Gleam-Fuzz-Main-V2-700.jpg"
   },
   {
     "builder": "Bispell Audio",
@@ -5812,11 +5813,12 @@
   {
     "builder": "Bispell Audio",
     "pedal": "TOR",
-    "image": null,
+    "image": "./assets/pedals/bispell-audio/tor/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.guitarpedalx.com/news/gpx-blog/bispell-audio-reboots-its-tor-silicon-circuit-oc44-emulating-rangemaster---now-in-v2-edition-with-even-more-granularity-and-versatility",
     "research_record": "./research/pedals/PRP Batch 088/TOR.md",
-    "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/bispell-audio-reboots-its-tor-silicon-circuit-oc44-emulating-rangemaster---now-in-v2-edition-with-even-more-granularity-and-versatility"
+    "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/bispell-audio-reboots-its-tor-silicon-circuit-oc44-emulating-rangemaster---now-in-v2-edition-with-even-more-granularity-and-versatility",
+    "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/550/2024-GPX-Bispell-Audio-Tor-Rangemaster-V2-700.jpg"
   },
   {
     "builder": "Bixonic",

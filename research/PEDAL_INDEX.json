@@ -8666,7 +8666,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bispell-audio/gleam/primary.webp",
       "source_page": "https://www.youtube.com/watch?v=HWwK5HCAb8E",
       "research_record": "./research/pedals/PRP Batch 088/Gleam.md",
       "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/bispell-audios-v2-gleam-is-an-incredibly-potent-silicon-4-transistor-multi-fuzz-which-has-you-brilliantly-covered-for-all-the-early-classic-fuzz-types",
@@ -8676,7 +8676,8 @@
         "https://reverb.com/en-fr/item/89660904-bispell-audio-gleam-fuzz-guitar-effects-pedal",
         "https://www.guitarpedalx.com/news/gpx-blog/bispell-audios-v2-gleam-is-an-incredibly-potent-silicon-4-transistor-multi-fuzz-which-has-you-brilliantly-covered-for-all-the-early-classic-fuzz-types"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/541/2023-GPX-Bispell-Audio-Gleam-Fuzz-Main-V2-700.jpg"
     },
     {
       "company": "Bispell Audio",
@@ -8719,7 +8720,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bispell-audio/tor/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/gpx-blog/bispell-audio-reboots-its-tor-silicon-circuit-oc44-emulating-rangemaster---now-in-v2-edition-with-even-more-granularity-and-versatility",
       "research_record": "./research/pedals/PRP Batch 088/TOR.md",
       "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/bispell-audio-reboots-its-tor-silicon-circuit-oc44-emulating-rangemaster---now-in-v2-edition-with-even-more-granularity-and-versatility",
@@ -8729,7 +8730,8 @@
         "https://reverb.com/item/44229726-tor-treble-booster-eq-pedal-precise-sound-of-oc44-germanium-using-silicon",
         "https://www.guitarpedalx.com/news/gpx-blog/bispell-audio-reboots-its-tor-silicon-circuit-oc44-emulating-rangemaster---now-in-v2-edition-with-even-more-granularity-and-versatility"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/550/2024-GPX-Bispell-Audio-Tor-Rangemaster-V2-700.jpg"
     },
     {
       "company": "Bixonic",
