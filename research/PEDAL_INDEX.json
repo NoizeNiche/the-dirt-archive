@@ -1,5 +1,5 @@
 {
-  "version": "data-20260924-prp1-cbs-arbiter-fuzz-face",
+  "version": "data-20260924-prp1-cbs-arbiter-fuzz-king-source-lead",
   "count": 3765,
   "pedals": [
     {
@@ -17766,7 +17766,19 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": null,
+      "image_source_page": "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzking",
+      "image_source_page_verified": true,
+      "image_source_pages_verified": true,
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzking",
+        "https://reverb.com/item/3991250-1973-cbs-arbiter-fuzz-king-by-gary-hurst-very-rare-fuzz-box-sounds-fantastic-worldwide-s-h"
+      ],
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/arbiter-cbs_fuzzking_001.jpg",
+      "image_source_urls": [
+        "https://files.effectsdatabase.com/gear/thumbs/arbiter-cbs_fuzzking_001.jpg"
+      ],
+      "image_source_priority": 100000
     },
     {
       "company": "CBS-Arbiter",
