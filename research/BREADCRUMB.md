@@ -1,3 +1,11 @@
+## PRP1 queue checkpoint - September 24, 2026
+
+The archive has completed the CBC The Drive and CBC The Superfuzz atomic PRP1 units. The next tracker-order target is **CBS-Arbiter - CBS-Arbiter Doubler**.
+
+Live tracker: **3,765 total / 1,274 researched / 1,274 pictured / 1,274 complete / 0 researched-photo-pending / 2,491 photo-missing**.
+
+The Doubler intake uses Effects Database for historical/specification context and exact-model photography, with a sold Reverb listing as an independent recovery fallback.
+
 ## PRP1/photo publication checkpoint - September 24, 2026
 
 The PRP1 unit for **CBC Pedals - The Drive** is now fully published on `main`. Its research record exists at `./research/pedals/CBC Pedals/The Drive.md`, and the exact photo is archived at `./assets/pedals/cbc-pedals/the-drive/primary.webp`. Catalog and photo-manifest image paths now agree.
