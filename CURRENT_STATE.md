@@ -2,9 +2,11 @@
 
 The live research/PRP_TRACKER.csv on main currently parses to **3,770 total records / 1,271 researched records / 1,271 pictured records / 1,271 PRP-complete records / 1 researched-photo-pending record / 2,499 photo-missing records overall**. The remaining researched/photo-pending record is **CBC Pedals — Harmonic Percolator**.
 
-The photo gate is therefore down to its final unresolved record. Exact-identity recovery remains mandatory. Recent web research confirms CBC Pedals (also known as CBC / Clones by Chris) made an Interfax Harmonic Percolator reproduction with an added diode-lift switch, but no currently indexed source located an exact CBC pedal photograph that is safe to archive. Do **not** substitute an Interfax, Chuck Collins, Analog Noir, EHX, or other Percolator image for the CBC record.
+A recovery pass briefly reduced the gate to 0 by archiving `./assets/pedals/cbc-pedals/harmonic-percolator/primary.webp`. Visual inspection of that asset confirmed it was the **generic Equipboard logo**, not the CBC Harmonic Percolator. The false-positive asset has been removed, the tracker/catalog/photo manifest restored to unresolved state, and the non-product Equipboard brand-page lead has been removed.
 
-The next operational target is to recover an exact CBC Pedals Harmonic Percolator image, archive it locally, synchronize the tracker/catalog/photo manifests, and verify the gate at **0** before releasing PRP1. The existing local-first photo architecture and exact builder+model identity gate remain unchanged.
+The photo identity gate has also been hardened so an Equipboard brand directory page whose H1 is only the builder name cannot satisfy an exact-product match, and strong image-search identity cannot trust Equipboard /brands/ URLs as product evidence.
+
+The active mission remains the same: recover a genuinely exact CBC Pedals Harmonic Percolator photograph, archive it locally, synchronize the tracker/catalog/photo manifests, and only then release PRP1. The repository remains intentionally at **1** researched-photo pending until that exact image is proven.
 
 ## Full-site maintenance checkpoint - September 21, 2026
 
