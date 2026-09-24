@@ -21323,7 +21323,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/commune/senturion-modern-factor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Commune/Senturion Modern Factor.md",
       "image_source_page": "https://reverb.com/en-fi/item/64258893-commune-senturion-modern-factor-12-21"
@@ -22082,7 +22082,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cornerstone-music-gear/colosseum/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cornerstone Music Gear/Colosseum.md"
     },
@@ -22102,7 +22102,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cornerstone-music-gear/gladio-sc/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cornerstone Music Gear/Gladio SC.md"
     },
@@ -22112,7 +22112,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cornerstone-music-gear/imperium-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cornerstone Music Gear/Imperium V2.md"
     },
