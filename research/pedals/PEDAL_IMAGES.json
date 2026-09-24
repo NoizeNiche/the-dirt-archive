@@ -403,7 +403,8 @@
     "pedal": "OD-SS Express Overdrive",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/od10",
-    "research_record": "./research/pedals/Accel Audio/OD-SS Express Overdrive.md"
+    "research_record": "./research/pedals/Accel Audio/OD-SS Express Overdrive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/od10"
   },
   {
     "builder": "Accel Audio",
@@ -875,14 +876,16 @@
     "pedal": "#distortion",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/ADV Systems/#distortion.md"
+    "research_record": "./research/pedals/ADV Systems/#distortion.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/advsystems/distortion"
   },
   {
     "builder": "ADV Systems",
     "pedal": "#overdrive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/ADV Systems/#overdrive.md"
+    "research_record": "./research/pedals/ADV Systems/#overdrive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/advsystems/overdrive"
   },
   {
     "builder": "Advance Tube Technology",
@@ -1097,7 +1100,8 @@
     "pedal": "Distortion",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/ajcustom/distortion",
-    "research_record": "./research/pedals/AJcustom/Distortion.md"
+    "research_record": "./research/pedals/AJcustom/Distortion.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/ajcustom/distortion"
   },
   {
     "builder": "Akai",
@@ -1702,7 +1706,7 @@
     "source": "Direct photograph of exact pedal",
     "source_page": "https://reverb.com",
     "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md",
-    "image_source_page": "https://www.talkbass.com/threads/spector%C2%AE-owners-club.1066466/page-4737",
+    "image_source_page": "https://reverb.com/en-nl/item/91900417-amptweaker-tight-drive-jr-2010s-green",
     "image_source_url": "https://www.talkbass.com/attachments/img_0797-jpeg.5052266/"
   },
   {
@@ -2254,7 +2258,8 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Anarchy Audio Australia/Baa Bzz.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--rOFeemHt--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/926936ca-0832-456d-8e91-ef615e2c03bf.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--rOFeemHt--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/926936ca-0832-456d-8e91-ef615e2c03bf.jpg",
+    "image_source_page": "https://reverb.com/item/97367071-anarchy-audio-baa-bzz-fuzz-pedal-pre-owned"
   },
   {
     "builder": "Anarchy Audio Australia",
@@ -3236,7 +3241,8 @@
     "pedal": "The Devils Handshake",
     "image": null,
     "source_page": "https://auxiliaryworkshop.com/",
-    "research_record": "./research/pedals/Auxiliary Workshop/The Devils Handshake.md"
+    "research_record": "./research/pedals/Auxiliary Workshop/The Devils Handshake.md",
+    "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/best-of-australian-and-new-zealander-guitar-pedals-and-pedal-builders"
   },
   {
     "builder": "AVIA",
@@ -3801,7 +3807,8 @@
     "pedal": "Infinity Drive",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/updates/weekly/20120910",
-    "research_record": "./research/pedals/Baddy One Shoe Pedals/Infinity Drive.md"
+    "research_record": "./research/pedals/Baddy One Shoe Pedals/Infinity Drive.md",
+    "image_source_page": "https://www.talkbass.com/threads/whats-coming-and-going-ix-pedals-come-in-pedals-go-out-never-a-miscommunication.795982/"
   },
   {
     "builder": "Baddy One Shoe Pedals",
@@ -5063,7 +5070,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 080/Kairen.md"
+    "research_record": "./research/pedals/PRP Batch 080/Kairen.md",
+    "image_source_page": "https://www.mercadolivre.com.br/pedal-klon-clone-kairen-bffx/up/MLBU3078745184"
   },
   {
     "builder": "BFFX Boutique Pedals",
@@ -5682,7 +5690,8 @@
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/",
     "research_record": "./research/pedals/PRP Batch 085/Monk Boost.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--GIr668r6--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/nx9injno7zwsfz3a0ewc.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--GIr668r6--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/nx9injno7zwsfz3a0ewc.jpg",
+    "image_source_page": "https://reverb.com/ca/item/84529535-big-monk-electronic-device-co-the-monk-boost-pre-order"
   },
   {
     "builder": "Big Monk Electronic Device Co.",
@@ -5920,7 +5929,8 @@
     "image": null,
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/model/bigfoot/fuzzhog",
-    "research_record": "./research/pedals/PRP Batch 087/Fuzz Hog.md"
+    "research_record": "./research/pedals/PRP Batch 087/Fuzz Hog.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/bigfoot/fuzzhog"
   },
   {
     "builder": "Bigfoot F.X.",
@@ -6008,7 +6018,7 @@
     "source": "verified research source",
     "source_page": "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome",
     "research_record": "./research/pedals/PRP Batch 088/Proxy.md",
-    "image_source_page": "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome",
+    "image_source_page": "https://reverb.com/ca/item/43700024-proxy-v2-beatles-vox-ul730-overdrive-with-vox-conqueror-mid-boost-switch",
     "image_source_url": "https://rvb-img.reverb.com/i/s--5WrIFTwz--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/u0kxkaczonx833fttqkc.jpg"
   },
   {
@@ -6937,7 +6947,8 @@
     "source": "verified research source",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--ZlebMFU3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ffr0rg17eckvubv1v2yv.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--ZlebMFU3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ffr0rg17eckvubv1v2yv.jpg",
+    "image_source_page": "https://reverb.com/item/91327542-blackhawk-amplifiers-basilisk-fuzz"
   },
   {
     "builder": "Blackhawk Amplifiers",
@@ -7349,7 +7360,8 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/interviews/brands/blakemore",
     "research_record": "./research/pedals/PRP Batch 104/Deus Ex Machina.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--MnM2xmYe--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgejj6gcrbrpjtaz8bki.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--MnM2xmYe--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgejj6gcrbrpjtaz8bki.jpg",
+    "image_source_page": "https://reverb.com/p/blakemore-effects-deus-ex-machina"
   },
   {
     "builder": "Blakemore Effects",
@@ -8124,7 +8136,8 @@
     "image": null,
     "source": null,
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 115/box-distortion.md"
+    "research_record": "./research/pedals/PRP Batch 115/box-distortion.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/box/distortion"
   },
   {
     "builder": "BR Tech",
@@ -8313,7 +8326,7 @@
     "source": null,
     "source_page": "https://www.effectsdatabase.com/model/brimstone",
     "research_record": "./research/pedals/PRP Batch 117/brimstone-audio-xd-1-crossover-distortion.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/brimstone",
+    "image_source_page": "https://www.effectsdatabase.com/model/brimstone/crossover/distortion",
     "image_source_url": "https://www.effectsdatabase.com/model/brimstone"
   },
   {
@@ -8873,7 +8886,7 @@
     "source": null,
     "source_page": "https://www.effectsdatabase.com/model/bsm",
     "research_record": "./research/pedals/PRP Batch 125/bsm-fassbender-fuzz-machine.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/bsm",
+    "image_source_page": "https://www.effectsdatabase.com/model/bsm/fassbender",
     "image_source_url": "https://www.effectsdatabase.com/model/bsm"
   },
   {
@@ -9134,7 +9147,7 @@
     "source_page": "https://www.effectsdatabase.com/model/byoc/855drive",
     "research_record": "./research/pedals/PRP Batch 128/build-your-own-clone-855-drive.md",
     "image_source_url": "https://rvb-img.reverb.com/image/upload/s--o3Abhu9Q--/f_auto%2Ct_large/v1628216579/sfzszxicskfbnsamt9m6.jpg",
-    "image_source_page": "https://www.effectsdatabase.com/model/byoc/855drive"
+    "image_source_page": "https://reverb.com/item/42880976-b-y-o-c-855-drive-pre-built-pedal"
   },
   {
     "builder": "Build Your Own Clone",
@@ -9143,7 +9156,7 @@
     "source_page": "https://www.effectsdatabase.com/model/byoc",
     "research_record": "./research/pedals/PRP Batch 129/b-g-fuzz.md",
     "image_source_url": "https://rvb-img.reverb.com/i/s---cHCYrCE--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/prnloasouim0egmwopr5.jpg",
-    "image_source_page": "https://www.effectsdatabase.com/model/byoc"
+    "image_source_page": "https://reverb.com/item/544039-byoc-b-g-fuzz-roland-bee-gee-fuzz-clone-big-muff"
   },
   {
     "builder": "Build Your Own Clone",
@@ -9224,7 +9237,7 @@
     "source_page": "https://www.effectsdatabase.com/model/byoc",
     "research_record": "./research/pedals/PRP Batch 129/fuzz-clone.md",
     "image_source_url": "https://www.effectsdatabase.com/model/byoc",
-    "image_source_page": "https://www.effectsdatabase.com/model/byoc"
+    "image_source_page": "https://www.effectsdatabase.com/model/byoc/fuzz"
   },
   {
     "builder": "Build Your Own Clone",
@@ -9303,7 +9316,8 @@
     "pedal": "Li'l Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 130/li-l-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 130/li-l-fuzz.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/byoc/lil/fuzz"
   },
   {
     "builder": "Build Your Own Clone",
@@ -9732,7 +9746,7 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal?page=7",
     "research_record": "./research/pedals/PRP Batch 135/c14-devices-tone-chaser.md",
-    "image_source_page": "https://www.effectsdatabase.com/type/overdrive/pedal?page=7",
+    "image_source_page": "https://reverb.com/item/62115885-carbono-14-chaser-world-s-first-full-carbon-fiber-pedal",
     "image_source_url": "https://rvb-img.reverb.com/i/s--3NCUGe77--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y0zpfad4e56upyf7ieya.jpg"
   },
   {
@@ -10425,7 +10439,7 @@
     "image": null,
     "source_page": "https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple",
     "research_record": "./research/pedals/PRP Batch 146/cameltone-big-stuff.md",
-    "image_source_page": "https://reverb.com/item/86878862-cameltone-electronics-big-stuff-2015-purple-sparkle",
+    "image_source_page": "https://reverb.com/item/58787790-cameltone-electronics-big-stuff",
     "image_source_url": "https://rvb-img.reverb.com/image/upload/s--P7gcV82k--/f_auto%2Ct_large/v1580435657/y2pv8jtiatsbuuoagwsn.jpg"
   },
   {
@@ -11559,7 +11573,8 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 161/catastrofx-outbreak.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--rAl-zvOo--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/d9wqkqoawx40ixqkd5g1.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--rAl-zvOo--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/d9wqkqoawx40ixqkd5g1.jpg",
+    "image_source_page": "https://reverb.com/item/91582678-catastrofx-pedals-outbreak-overdrive-preorder"
   },
   {
     "builder": "Cathouse Pedals",
