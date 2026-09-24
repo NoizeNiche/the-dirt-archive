@@ -14324,14 +14324,16 @@
     "pedal": "FY-2 Fuzz Box",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Companion/FY-2 Fuzz Box.md"
+    "research_record": "./research/pedals/Companion/FY-2 Fuzz Box.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/companion/fy2"
   },
   {
     "builder": "Companion",
     "pedal": "FY-6 Super Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Companion/FY-6 Super Fuzz.md"
+    "research_record": "./research/pedals/Companion/FY-6 Super Fuzz.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/shinei/companion/fy6"
   },
   {
     "builder": "Compulsive Audio",
@@ -14345,49 +14347,59 @@
     "pedal": "Face-Off Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Compulsive Audio/Face-Off Fuzz.md"
+    "research_record": "./research/pedals/Compulsive Audio/Face-Off Fuzz.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/compulsive/fuzz/faceoff"
   },
   {
     "builder": "Compulsive Audio",
     "pedal": "Hair Band Distortion",
-    "image": null,
+    "image": "./assets/pedals/compulsive-audio/hair-band-distortion/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Compulsive Audio/Hair Band Distortion.md"
+    "research_record": "./research/pedals/Compulsive Audio/Hair Band Distortion.md",
+    "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
+    "image_source_page": "https://www.effectsdatabase.com/blog/discofreq?page=104"
   },
   {
     "builder": "Compulsive Audio",
     "pedal": "Jimi - Octave Fuzz",
-    "image": null,
+    "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md"
+    "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md",
+    "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
+    "image_source_page": "https://www.effectsdatabase.com/type/octave/fuzz/1up"
   },
   {
     "builder": "Compulsive Audio",
     "pedal": "Texas Holdem ZZ",
     "image": "./assets/pedals/compulsive-audio/texas-holdem-zz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Compulsive Audio/Texas Holdem ZZ.md"
+    "research_record": "./research/pedals/Compulsive Audio/Texas Holdem ZZ.md",
+    "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
+    "image_source_page": "https://www.effectsdatabase.com/blog/discofreq?page=104"
   },
   {
     "builder": "Compulsive Audio",
     "pedal": "Thor's Hammer",
     "image": "./assets/pedals/compulsive-audio/thor-s-hammer/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Compulsive Audio/Thor's Hammer.md"
+    "research_record": "./research/pedals/Compulsive Audio/Thor's Hammer.md",
+    "image_source_page": "https://www.effectsdatabase.com/blog/discofreq?page=104"
   },
   {
     "builder": "Compulsive Audio",
     "pedal": "Tone Oracle",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Compulsive Audio/Tone Oracle.md"
+    "research_record": "./research/pedals/Compulsive Audio/Tone Oracle.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/compulsive/toneoracle"
   },
   {
     "builder": "Compulsive Audio",
     "pedal": "Valve Howler Jr.",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Compulsive Audio/Valve Howler Jr..md"
+    "research_record": "./research/pedals/Compulsive Audio/Valve Howler Jr..md",
+    "image_source_page": "https://www.effectsdatabase.com/model/compulsive/valvehowler/jr"
   },
   {
     "builder": "Concrete Sound Lab",
@@ -14401,21 +14413,24 @@
     "pedal": "Conrad Buzz Box & Volume Expander",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Conrad/Conrad Buzz Box & Volume Expander.md"
+    "research_record": "./research/pedals/Conrad/Conrad Buzz Box & Volume Expander.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/conrad/buzzbox"
   },
   {
     "builder": "Conrad",
     "pedal": "Conrad Fuzzy Fury",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Conrad/Conrad Fuzzy Fury.md"
+    "research_record": "./research/pedals/Conrad/Conrad Fuzzy Fury.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/conrad/fuzzyfury"
   },
   {
     "builder": "Conrad",
     "pedal": "Conrad Sky Hawk - Fuzz and Treble Booster",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Conrad/Conrad Sky Hawk - Fuzz and Treble Booster.md"
+    "research_record": "./research/pedals/Conrad/Conrad Sky Hawk - Fuzz and Treble Booster.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/conrad/skyhawk"
   },
   {
     "builder": "Cool Bear Effects",
