@@ -1687,6 +1687,25 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               diagnostic.sourceIdentityMatch = true;
               sourcePageUsed = sourcePageUsed || pageUrl;
 
+              // Effects Database model pages can reject Chromium navigation
+              // while their deterministic per-model feed still exposes the exact
+              // pedal photography. Harvest that feed directly from the curated
+              // model URL instead of abandoning the record.
+              if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname)) {
+                try {
+                  const feedImages = await effectsDatabaseFeedImageUrls(page, pageUrl);
+                  for (const url of feedImages) {
+                    candidates.push({
+                      url,
+                      sourcePage: pageUrl,
+                      sourceScore: 135,
+                      rawVerifiedPageImage: true
+                    });
+                  }
+                  diagnostic.rawHtmlCandidates += feedImages.length;
+                } catch {}
+              }
+
               const imageAttrs = [];
               for (const match of html.matchAll(/<(?:img|source)\b[^>]*(?:src|data-src|data-lazy-src|data-original|srcset)=["']([^"']+)["'][^>]*>/gi)) {
                 imageAttrs.push(match[1]);
