@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T13:41:00.818471+00:00",
+  "generated_at": "2026-09-24T13:49:48.496012+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1642,
+    "researched": 1643,
     "pictured": 1600,
     "complete": 1600,
-    "research_pending": 2123
+    "research_pending": 2122
   },
   "next_target": {
-    "builder": "Cool Bear Effects",
-    "pedal": "Grizzly Bear",
+    "builder": "Coolpedals",
+    "pedal": "Dirty Devil",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Cool Bear Effects",
-      "pedal": "Grizzly Bear",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Coolpedals",
       "pedal": "Dirty Devil",
@@ -165,6 +159,12 @@
     {
       "builder": "Copper Gear",
       "pedal": "Distorta Obscura",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CopperSound Pedals",
+      "pedal": "Foxcatcher - Overdrive & Boost",
       "catalog_type": "",
       "research_record": ""
     }
