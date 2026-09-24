@@ -83,6 +83,81 @@ jobs:
       - name: Apply current exact source leads
         run: python scripts/apply-photo-source-overrides.py
 
+      - name: Probe exact CBC Harmonic Percolator search
+        shell: bash
+        run: |
+          mkdir -p artifact
+          python - <<'PY'
+          import json, re, subprocess, html, urllib.parse
+          from pathlib import Path
+
+          queries = [
+              '"CBC Pedals" "Harmonic Percolator" pedal',
+              '"CBC Pedals" "Harmonic Percolator"'
+          ]
+          out = {"queries": queries, "bing_images": [], "bing_web": [], "google_images": []}
+
+          def curl(url, max_time=8):
+              p = subprocess.run([
+                  "curl","-L","--silent","--show-error","--compressed",
+                  "--connect-timeout","3","--max-time",str(max_time),
+                  "-A","Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36",
+                  "-H","Accept-Language: en-US,en;q=0.9",
+                  url
+              ], capture_output=True, text=True, errors="ignore", timeout=max_time+2)
+              return p.stdout or ""
+
+          for q in queries:
+              enc = urllib.parse.quote(q)
+              ib = curl("https://www.bing.com/images/search?form=HDRSC2&q="+enc)
+              wb = curl("https://www.bing.com/search?q="+enc)
+              gi = curl("https://www.google.com/search?udm=2&hl=en&gl=us&q="+enc)
+
+              seen=set()
+              for raw in re.findall(r'(?:data-m|m)=["\']([^"\']+)', ib, re.I):
+                  try:
+                      m=json.loads(html.unescape(raw))
+                  except Exception:
+                      continue
+                  if not m.get("murl") or m["murl"] in seen:
+                      continue
+                  seen.add(m["murl"])
+                  out["bing_images"].append({
+                      "title":m.get("t",""),
+                      "purl":m.get("purl",""),
+                      "murl":m.get("murl",""),
+                      "desc":m.get("desc",""),
+                      "source":m.get("s","")
+                  })
+
+              for m in re.finditer(r'<li class="b_algo"[^>]*>.*?<h2><a[^>]+href="([^"]+)"[^>]*>(.*?)</a>.*?</li>', wb, re.I|re.S):
+                  title=re.sub(r"<[^>]+>"," ",m.group(2))
+                  title=re.sub(r"\s+"," ",html.unescape(title)).strip()
+                  out["bing_web"].append({"title":title,"url":html.unescape(m.group(1))})
+
+              for m in re.finditer(r'"ou":"(https?:\\\\/\\\\/[^"]+)".{0,1200}?"ru":"(https?:\\\\/\\\\/[^"]+)"', gi, re.S):
+                  out["google_images"].append({
+                      "murl":html.unescape(m.group(1)).replace("\\\\/","/"),
+                      "purl":html.unescape(m.group(2)).replace("\\\\/","/")
+                  })
+
+          def dedupe(items, key):
+              seen=set(); ans=[]
+              for x in items:
+                  k=x.get(key,"")
+                  if k and k not in seen:
+                      seen.add(k); ans.append(x)
+              return ans
+
+          out["bing_images"]=dedupe(out["bing_images"],"murl")[:100]
+          out["bing_web"]=dedupe(out["bing_web"],"url")[:50]
+          out["google_images"]=dedupe(out["google_images"],"murl")[:100]
+          Path("artifact/cbc-harmonic-percolator-search.json").write_text(
+              json.dumps(out, ensure_ascii=False, indent=2)+"\n", encoding="utf-8"
+          )
+          print(json.dumps(out, ensure_ascii=False, indent=2))
+          PY
+
       - name: Recover exact pedal photo
         continue-on-error: true
         env:
