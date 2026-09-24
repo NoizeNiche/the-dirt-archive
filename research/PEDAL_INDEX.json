@@ -1,5 +1,5 @@
 {
-  "version": "data-20260924-prp1-cbs-arbiter-doubler",
+  "version": "data-20260924-prp1-cbs-arbiter-doubler-photo-lead",
   "count": 3765,
   "pedals": [
     {
@@ -17721,7 +17721,17 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": null,
+      "image_source_page": "https://www.effectsdatabase.com/model/arbiter/cbs/doubler",
+      "image_source_page_verified": true,
+      "image_source_pages_verified": true,
+      "image_source_urls": [
+        "https://files.effectsdatabase.com/gear/thumbs/arbiter-cbs_doubler_001.jpg",
+        "https://reverb.com/item/1173548-cbs-arbiter-doubler-vintage-octave-fuzz-original-circuit-70s-gary-hurst-rare-effect-pedal",
+        "https://reverb.com/item/60216380-rare-cbs-arbiter-doubler-by-gary-hurst-70-s-octave-fuzz"
+      ],
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/arbiter-cbs_doubler_001.jpg",
+      "image_source_priority": 100000
     },
     {
       "company": "CBS-Arbiter",
