@@ -256,7 +256,7 @@ def cache_entry_prepare(entry):
         curated_source_url
         and entry.get("image_source_page_verified") is True
         and re.match(r"^https?://", curated_source_url, re.I)
-        and re.search(r"\\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$", curated_source_url, re.I)
+        and re.search(r"\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$", curated_source_url, re.I)
     ):
         return ("download", entry, target, curated_source_url)
 
