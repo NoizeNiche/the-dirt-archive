@@ -13928,9 +13928,11 @@
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Ignition",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/ignition/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Ignition.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Ignition.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/uploads/2026/03/Ignition-scont-600x600.png",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/ignition-boutique-drive/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",

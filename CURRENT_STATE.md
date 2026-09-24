@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1603 researched / 1544 pictured / 1544 complete / 2162 research-pending / 59 researched-photo-pending**.
+Live catalog: **3765 total / 1603 researched / 1545 pictured / 1545 complete / 2162 research-pending / 58 researched-photo-pending**.
 
 **Next research target:** Colorsound / Sola Sound - Sola Sound Tone Bender.
 
-PRP1 closeout remains separate: 59 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 58 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-24T12:20:15.513622+00:00
+Last refreshed: 2026-09-24T12:20:48.423407+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
