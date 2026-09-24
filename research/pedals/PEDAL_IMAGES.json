@@ -1702,7 +1702,7 @@
   {
     "builder": "Amptweaker",
     "pedal": "Tight Drive Jr",
-    "image": null,
+    "image": "./assets/pedals/amptweaker/tight-drive-jr/primary.webp",
     "source": "Direct photograph of exact pedal",
     "source_page": "https://reverb.com",
     "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md",
