@@ -3,29 +3,36 @@
 ## PRP identity
 - **Archive parent:** Black Hole
 - **Builder:** Coda Effects
-- **Catalog type:** Fuzz
-- **Identity:** Coda Effects Black Hole.
+- **Catalog type:** Distortion / Preamp
+- **Identity:** Coda Effects Black Hole, a Sunn Model T preamp-inspired pedal with Normal and Bright channels, three-band EQ, and an LPB-1-style boost.
 
 ## What this pedal is
-The Dirt Archive's Scrape C census records this exact builder/model identity and classifies it as **Fuzz**. The retained project source does not preserve enough model-specific documentation to safely assign circuit lineage, complete controls, component values, or revision history.
+Coda Effects describes Black Hole as the Sunn Model T preamp concept in pedal form, with an added boost for more gain and heavier sounds. The builder publishes the circuit documentation openly. [1][2]
 
 ## Colorways
 No complete factory colorway sequence was established.
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+Documented architecture:
+- Normal and Bright channels, each with distinct voicing and gain.
+- Volume.
+- Bass, mids, treble.
+- Boost switch adding an LPB-1-style gain stage. [1]
+
+The current PCB documentation identifies the gain devices as JFETs and provides a genuine Fairchild J201 SMD option. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+No formal numbered factory hardware revision sequence was established.
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+The gain stages use **JFETs**. Coda's current PCB documentation specifically identifies **J201** devices as an option. [1]
 
 ## Diode
-Unknown from the checked exact-model documentation.
+No exact-model diode specification was established.
 
 ## Sound
-The model is documented as fuzz. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+The Normal and Bright channels can be used separately or together. The three-band EQ gives extensive low/mid/high shaping, and the boost adds another gain stage for heavier saturation. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. Coda Effects — Black Hole PCB / circuit documentation: https://shop.coda-effects.com/en/product/black-hole-pcb/
+2. Guitar Pedal X — Black Hole history: https://www.guitarpedalx.com/news/gpx-blog/2019-pedal-chain-musings-and-experiments
