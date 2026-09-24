@@ -14,4 +14,4 @@
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
 
-All pictured pedal images are locally cached.
+All 1,255 currently pictured pedal images are locally cached; 17 previously pictured records are intentionally unresolved pending replacement.
