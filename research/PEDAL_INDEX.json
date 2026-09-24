@@ -1,6 +1,6 @@
 {
-  "version": "data-874c7fb590ba",
-  "count": 3770,
+  "version": "data-20260924-cbc-identity-cleanup",
+  "count": 3765,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -17669,46 +17669,6 @@
     },
     {
       "company": "CBC Pedals",
-      "pedal": "Hop Hed Fuzztone",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "CBC Pedals",
-      "pedal": "Hybrid Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "CBC Pedals",
-      "pedal": "Mista' Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "CBC Pedals",
-      "pedal": "Mutha' Fuzz",
-      "types": [
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
-    },
-    {
-      "company": "CBC Pedals",
       "pedal": "The Drive",
       "types": [
         "Overdrive"
@@ -17725,16 +17685,6 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 392
-    },
-    {
-      "company": "CBC Pedals",
-      "pedal": "The Drive / Zendrive circuit",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
     },
     {
       "company": "CBC Pedals",

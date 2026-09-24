@@ -1,3 +1,11 @@
+## Identity cleanup checkpoint - September 24, 2026
+
+The live catalog was reconciled before the next PRP1 intake. Five unsupported or duplicate CBC rows were removed: Hop Hed Fuzztone, Hybrid Fuzz, Mista' Fuzz, Mutha' Fuzz, and the duplicate-labeled The Drive / Zendrive circuit. The existing Cat's Eye ESP records remain the canonical entries for the first four; CBC The Drive remains as the single supported CBC Zendrive-clone entry.
+
+Post-cleanup tracker shape: **3,765 total records / 1,271 researched / 1,272 pictured / 1,272 PRP-complete / 0 researched-photo-pending / 2,493 photo-missing**.
+
+The next PRP1 target is **CBC Pedals - The Drive**, with an exact Reverb source already retained in the catalog. PRP1 will advance one atomic target at a time from this point.
+
 ## Current recovery checkpoint - September 24, 2026
 
 The live research/PRP_TRACKER.csv currently parses to **3,770 total records / 1,272 researched records / 1,255 pictured records / 1,255 PRP-complete records / 17 researched-photo-pending / 2,515 photo-missing records overall**.

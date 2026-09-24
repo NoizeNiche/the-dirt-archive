@@ -1,3 +1,9 @@
+## Identity cleanup checkpoint - September 24, 2026
+
+The catalog identity pass removed five unsupported/duplicate CBC rows after cross-checking current evidence. Effects Database documents Hop Hed Fuzztone, Hybrid Fuzz, Mista' Fuzz, and Mutha' Fuzz under Cat's Eye ESP, while Reverb independently documents CBC The Drive as a distinct Zendrive clone. The duplicate CBC label **The Drive / Zendrive circuit** was consolidated into **The Drive**.
+
+The live tracker now has **3,765 total / 1,271 researched / 1,272 pictured / 1,272 complete / 0 researched-photo-pending / 2,493 photo-missing**. The next canonical incomplete target is **CBC Pedals - The Drive**.
+
 ## Photo integrity checkpoint - September 24, 2026
 
 The live tracker is now **3,770 total / 1,272 researched / 1,255 pictured / 1,255 PRP-complete / 17 researched-photo-pending / 2,515 photo-missing**. Seventeen records with obvious non-product image provenance were moved back to photo-pending so the recovery system can repair them. The validator now rejects obvious favicon/logo/template source classes, so a mechanical zero cannot mask those failures.
