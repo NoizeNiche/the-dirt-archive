@@ -41,6 +41,8 @@ jobs:
         run: python scripts/validate-archive.py
 
       - name: Persist synchronization
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
