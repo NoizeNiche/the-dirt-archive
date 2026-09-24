@@ -1,41 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T13:55:41.777421+00:00",
+  "generated_at": "2026-09-24T13:56:23.414344+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1662,
+    "researched": 1665,
     "pictured": 1601,
     "complete": 1601,
-    "research_pending": 2103
+    "research_pending": 2100
   },
   "next_target": {
     "builder": "Copper Gear",
-    "pedal": "Black Howler",
+    "pedal": "Distorta Destructo",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Copper Gear",
-      "pedal": "Black Howler",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Copper Gear",
-      "pedal": "Brontide Device",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Copper Gear",
-      "pedal": "Distorta Azura",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Copper Gear",
       "pedal": "Distorta Destructo",
@@ -165,6 +147,24 @@
     {
       "builder": "Cornerstone Music Gear",
       "pedal": "Colosseum",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cornerstone Music Gear",
+      "pedal": "Gladio - Double Preamp",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cornerstone Music Gear",
+      "pedal": "Gladio SC",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cornerstone Music Gear",
+      "pedal": "Imperium V2",
       "catalog_type": "",
       "research_record": ""
     }
