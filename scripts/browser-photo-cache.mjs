@@ -3648,7 +3648,12 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
   if (TARGET_BUILDER && TARGET_PEDAL) {
     const targetReview = reviewByKey.get(key(TARGET_BUILDER, TARGET_PEDAL));
     const targetAttempts = Number(targetReview?.Attempts) || 0;
-    if (targetReview?.Status === 'PARKED' || targetAttempts >= MAX_RECOVERY_ATTEMPTS) {
+    const allowParkedRetry =
+      String(process.env.PHOTO_BROWSER_ALLOW_PARKED_RETRY || 'false').toLowerCase() === 'true';
+    if (
+      (targetReview?.Status === 'PARKED' || targetAttempts >= MAX_RECOVERY_ATTEMPTS) &&
+      !allowParkedRetry
+    ) {
       if (targetAttempts >= MAX_RECOVERY_ATTEMPTS && targetReview?.Status !== 'PARKED') {
         targetReview.Status = 'PARKED';
         targetReview['Last Failure'] =
@@ -3661,6 +3666,17 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       ));
       console.log('Photo recovery skipped for parked target: ' + TARGET_BUILDER + ' - ' + TARGET_PEDAL);
       process.exit(0);
+    }
+    if (
+      allowParkedRetry &&
+      targetReview &&
+      (targetReview.Status === 'PARKED' || targetAttempts >= MAX_RECOVERY_ATTEMPTS)
+    ) {
+      targetReview.Status = 'DEEP_REVIEW';
+      targetReview.Attempts = '0';
+      targetReview['Deep Review Cycles'] = String((Number(targetReview['Deep Review Cycles']) || 0) + 1);
+      targetReview['Last Failure'] =
+        'FRESH_SOURCE_RETRY cycle ' + targetReview['Deep Review Cycles'] + ' using broad-source recovery.';
     }
   }
 
