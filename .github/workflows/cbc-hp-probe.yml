@@ -153,6 +153,104 @@ jobs:
                 print("ASSET:", mm.group(1) if mm.lastindex else mm.group(0)[:500])
           PY
 
+      - name: Probe next CBC PRP targets
+        shell: bash
+        run: |
+          mkdir -p artifact/next-cbc
+          python - <<'PY'
+          import json, re, subprocess, html, urllib.parse
+          from pathlib import Path
+
+          targets = [
+            ("CBC Pedals","Hop Hed Fuzztone"),
+            ("CBC Pedals","Hybrid Fuzz"),
+            ("CBC Pedals","Mista' Fuzz"),
+            ("CBC Pedals","Mutha' Fuzz"),
+            ("CBC Pedals","The Drive"),
+            ("CBC Pedals","The Drive / Zendrive circuit"),
+            ("CBC Pedals","The Superfuzz"),
+          ]
+
+          def curl(url):
+            p=subprocess.run([
+              "curl","-L","--silent","--show-error","--compressed",
+              "--connect-timeout","4","--max-time","8",
+              "-A","Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36",
+              "-H","Accept-Language: en-US,en;q=0.9",url
+            ],capture_output=True,text=True,errors="ignore",timeout=12)
+            return p.stdout or ""
+
+          def clean(v):
+            return re.sub(r"\s+"," ",html.unescape(re.sub(r"<[^>]+>"," ",v or ""))).strip()
+
+          out=[]
+          for builder,pedal in targets:
+            queries=[
+              f'"{builder}" "{pedal}"',
+              f'"{pedal}" "{builder}"',
+              f'"{pedal}" CBC'
+            ]
+            web=[]; images=[]; seen_web=set(); seen_img=set()
+            for q in queries:
+              enc=urllib.parse.quote(q)
+              raw=curl("https://www.bing.com/search?q="+enc)
+              for m in re.finditer(r'<li[^>]+class=["\'][^"\']*b_algo[^"\']*["\'][^>]*>[\s\S]*?<h2[^>]*>\s*<a[^>]+href=["\']([^"\']+)["\'][^>]*>([\s\S]*?)</a>[\s\S]*?</li>',raw,re.I):
+                url=html.unescape(m.group(1)); title=clean(m.group(2))
+                if url.startswith("http") and url not in seen_web:
+                  seen_web.add(url); web.append({"title":title,"url":url})
+              raw=curl("https://www.bing.com/images/search?form=HDRSC2&q="+enc)
+              for mm in re.finditer(r'(?:data-m|m)=["\']([^"\']+)',raw,re.I):
+                try: obj=json.loads(html.unescape(mm.group(1)))
+                except: continue
+                murl=obj.get("murl","")
+                if not murl or murl in seen_img: continue
+                seen_img.add(murl)
+                images.append({
+                  "title":obj.get("t",""),
+                  "purl":obj.get("purl",""),
+                  "murl":murl,
+                  "source":obj.get("s",""),
+                  "desc":obj.get("desc","")
+                })
+
+            def score(x):
+              h=(x.get("title","")+" "+x.get("url","")+" "+x.get("purl","")).lower()
+              s=0
+              if pedal.lower() in h: s+=100
+              if builder.lower() in h: s+=80
+              if "cbcpedals.com" in h: s+=70
+              if "reverb.com" in h: s+=60
+              if "effectsdatabase.com" in h: s+=50
+              if "youtube.com" in h: s+=30
+              return -s
+
+            web=sorted(web,key=score)[:50]
+            images=sorted(images,key=score)[:50]
+            for n,x in enumerate(images[:10],1):
+              u=x.get("murl","")
+              if not u.startswith("http"): continue
+              ext=".jpg"
+              if re.search(r'\.png(?:\?|$)',u,re.I): ext=".png"
+              fn=Path("artifact/next-cbc")/(re.sub(r"[^a-z0-9]+","-",builder+"-"+pedal).strip("-")+f"-{n}"+ext)
+              try:
+                p=subprocess.run(["curl","-L","--silent","--show-error","--fail","--connect-timeout","4","--max-time","8","-A","Mozilla/5.0","-o",str(fn),u],capture_output=True,timeout=11)
+                if p.returncode==0 and fn.is_file() and fn.stat().st_size>3000:
+                  x["artifact"]=str(fn)
+              except: pass
+            out.append({"builder":builder,"pedal":pedal,"web":web,"images":images})
+
+          Path("artifact/next-cbc/prp-next-cbc.json").write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+          print(json.dumps(out,ensure_ascii=False,indent=2))
+          PY
+
+      - name: Upload next CBC research artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: next-cbc-prp-research
+          path: artifact/next-cbc/
+          if-no-files-found: error
+          retention-days: 1
+
       - name: Capture CBC-specific YouTube thumbnail for inspection
         shell: bash
         run: |
