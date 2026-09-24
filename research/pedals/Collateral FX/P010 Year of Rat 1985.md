@@ -2,6 +2,7 @@
 
 ## PRP identity
 - **Archive parent:** P010 The Year of the Rat (1985)
+- **Catalog identity:** P010 Year of Rat 1985
 - **Builder:** Collateral FX
 - **Catalog type:** Distortion
 - **Identity:** Collateral FX The Year of the Rat (1985), a Whiteface ProCo RAT reproduction using the Motorola LM308.
