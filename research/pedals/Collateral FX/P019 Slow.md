@@ -2,6 +2,7 @@
 
 ## PRP identity
 - **Archive parent:** P019 Slow
+- **Catalog identity:** P019 Slow Distortion/Fuzz
 - **Builder:** Collateral FX
 - **Catalog type:** Fuzz / Distortion
 - **Identity:** Collateral FX Slow, a silicon Big Muff-oriented fuzz with extensive internal voicing switches.
