@@ -230,6 +230,13 @@ $('search').oninput=e=>{
   render();
 };
 
+window.addEventListener('keydown',e=>{
+  if(e.key==='/' && document.activeElement?.tagName!=='INPUT' && document.activeElement?.tagName!=='TEXTAREA'){
+    e.preventDefault();
+    $('search')?.focus();
+  }
+});
+
 function renderPagination(totalPages){
   const wrap=$('paginationWrap'),nav=$('pagination');
   if(totalPages<=1){wrap.hidden=true;nav.innerHTML='';return}
@@ -281,6 +288,12 @@ loadCatalog()
     const text=(v.variation_name||'')+' '+(v.pedal||'');
     variationSearchText.set(k,((variationSearchText.get(k)||'')+' '+text).toLowerCase());
   }
+  const builderTotal=new Set(items.map(x=>x.company)).size;
+  const picturedTotal=[...pedalImages.values()].filter(x=>Boolean(x?.image)).length;
+  $('pulsePedals').textContent=items.length.toLocaleString();
+  $('pulseBuilders').textContent=builderTotal.toLocaleString();
+  $('pulsePhotos').textContent=picturedTotal.toLocaleString();
+
   render();
   syncUrl();
 }).catch(e=>{
