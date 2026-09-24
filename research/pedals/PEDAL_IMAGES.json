@@ -2256,11 +2256,11 @@
   {
     "builder": "Anarchy Audio Australia",
     "pedal": "Baa Bzz",
-    "image": null,
+    "image": "./assets/pedals/anarchy-audio-australia/baa-bzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Anarchy Audio Australia/Baa Bzz.md",
-    "image_source_url": "https://rvb-img.reverb.com/image/upload/s--SiwVNXjg--/a_0/f_auto%2Ct_large/v1626746479/uxnakseauwgvx3kag0aq.jpg",
-    "image_source_page": "https://reverb.com/item/2568948-anarchy-audio-baa-bzz-fuzz-pedal-roland-bee-baa-inspired-fuzz"
+    "image_source_url": "https://anarchyaudioaustralia.com/wp-content/uploads/2020/02/700x500baabzz-instrucitons-1.jpg",
+    "image_source_page": "https://anarchyaudioaustralia.com/effects/baabzz/"
   },
   {
     "builder": "Anarchy Audio Australia",
@@ -7359,11 +7359,11 @@
   {
     "builder": "Blakemore Effects",
     "pedal": "Deus Ex Machina",
-    "image": null,
+    "image": "./assets/pedals/blakemore-effects/deus-ex-machina/primary.webp",
     "source_page": "https://www.effectsdatabase.com/interviews/brands/blakemore",
     "research_record": "./research/pedals/PRP Batch 104/Deus Ex Machina.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--MnM2xmYe--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgejj6gcrbrpjtaz8bki.jpg",
-    "image_source_page": "https://reverb.com/p/blakemore-effects-deus-ex-machina"
+    "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/542/2023-GPX-Blakemore-Effects-Deus-Ex-Machina-Revivial-700.jpg",
+    "image_source_page": "https://www.guitarpedalx.com/news/campaign-to-revive-the-cult-classic-blakemore-effects-deus-ex-machina-opamp-fuzz"
   },
   {
     "builder": "Blakemore Effects",
@@ -9150,7 +9150,7 @@
     "source_page": "https://www.effectsdatabase.com/model/byoc/855drive",
     "research_record": "./research/pedals/PRP Batch 128/build-your-own-clone-855-drive.md",
     "image_source_url": "https://rvb-img.reverb.com/i/s--66U5psh6--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/b3yktyxpulawce3lau9r.jpg",
-    "image_source_page": "https://reverb.com/ca/item/3239619-byoc-855-drive-overdrive-pedal-pre-built"
+    "image_source_page": "https://reverb.com/item/82964100-byoc-855-drive-ibanez-855-clone"
   },
   {
     "builder": "Build Your Own Clone",
@@ -9320,7 +9320,7 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 130/li-l-fuzz.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/byoc/lil/fuzz"
+    "image_source_page": "https://buildyourownclone.com/collections/fuzz/products/lil-fuzz-kit"
   },
   {
     "builder": "Build Your Own Clone",
