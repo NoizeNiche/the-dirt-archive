@@ -20980,10 +20980,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/colombo-audio-electronics/pulse-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Colombo Audio Electronics/Pulse Driver.md",
-      "image_source_page": "https://reverb.com/item/56224798-colombo-audio-electronics-pulse-driver"
+      "image_source_page": "https://reverb.com/item/56224798-colombo-audio-electronics-pulse-driver",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--SjVhooub--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/ob9jrxiaiaey0on4wvek.png"
     },
     {
       "company": "Colombo Audio Electronics",
@@ -21555,7 +21556,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Cool Bear Effects/Grizzly Bear.md"
+      "research_record": "./research/pedals/Cool Bear Effects/Grizzly Bear.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coolbear/grizzly"
     },
     {
       "company": "Coolmusic",
@@ -21595,7 +21597,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coolmusic/C-OV01 Crunchy Overdrive.md"
+      "research_record": "./research/pedals/Coolmusic/C-OV01 Crunchy Overdrive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/cov01"
     },
     {
       "company": "Coolmusic",
@@ -21605,7 +21608,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coolmusic/HG-7 High Gain.md"
+      "research_record": "./research/pedals/Coolmusic/HG-7 High Gain.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/hg7"
     },
     {
       "company": "Coolmusic",
@@ -21615,7 +21619,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coolmusic/MT-6 Distortion.md"
+      "research_record": "./research/pedals/Coolmusic/MT-6 Distortion.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/mt6"
     },
     {
       "company": "Coolmusic",
@@ -21625,7 +21630,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coolmusic/Multiple Distortion.md"
+      "research_record": "./research/pedals/Coolmusic/Multiple Distortion.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/multipledistortion"
     },
     {
       "company": "Coolpedals",
@@ -21636,7 +21642,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coolpedals/Dirty Devil.md"
+      "research_record": "./research/pedals/Coolpedals/Dirty Devil.md",
+      "image_source_page": "https://reverb.com/item/95988655-boutique-coolpedals-dirty-devil-2009-distor-tube-screamer-boost"
     },
     {
       "company": "Coolpedals",
@@ -21647,7 +21654,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coolpedals/Steam Machine.md"
+      "research_record": "./research/pedals/Coolpedals/Steam Machine.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coolpedals/steammachine"
     },
     {
       "company": "Coolpedals",
@@ -21657,7 +21665,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coolpedals/Strutter.md"
+      "research_record": "./research/pedals/Coolpedals/Strutter.md",
+      "image_source_page": "https://reverb.com/item/6993307-coolpedals-strutter"
     },
     {
       "company": "Coolsound",
@@ -21667,7 +21676,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coolsound/A117 Rough OVD.md"
+      "research_record": "./research/pedals/Coolsound/A117 Rough OVD.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coolsound/a117"
     },
     {
       "company": "Coolsound",
@@ -21677,7 +21687,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coolsound/A127 Dirty Bass.md"
+      "research_record": "./research/pedals/Coolsound/A127 Dirty Bass.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coolsound/a127"
     },
     {
       "company": "Coopersonic",
