@@ -1,12 +1,12 @@
 ## Current recovery checkpoint - September 24, 2026
 
-The live research/PRP_TRACKER.csv currently parses to **3,770 total records / 1,272 researched records / 1,272 pictured records / 1,272 PRP-complete records / 0 researched-photo-pending / 2,498 photo-missing records overall**.
+The live research/PRP_TRACKER.csv currently parses to **3,770 total records / 1,272 researched records / 1,255 pictured records / 1,255 PRP-complete records / 17 researched-photo-pending / 2,515 photo-missing records overall**.
 
 The researched-photo gate is now **0**. The final blocker, **CBC Pedals - Harmonic Percolator**, has a locally archived image at ./assets/pedals/cbc-pedals/harmonic-percolator/primary.webp. Asset-level inspection confirmed the archived file is an actual pedal photograph, and the tracker/catalog/manifest are synchronized to the local asset. The previous Equipboard-logo false positive was removed before this final image was accepted.
 
 PRP1 has been opened and the CBC Harmonic Percolator intake package was consumed. The next canonical incomplete PRP target is **CBC Pedals - Hop Hed Fuzztone**. Continue research in exact catalog order from that record onward.
 
-The external photo-recovery counter reaches 0 mechanically, but the gate is not considered clean. A targeted manifest audit found **17 pictured records with obvious non-product provenance patterns** such as favicons, logos, or generic templates; direct asset inspection confirmed these are not pedal photographs, including the Cat's Eye ESP - Hop Hed Fuzztone favicon. The photo validator now rejects these obvious source classes, and these records must be repaired before treating the photo gate as valid. Keep the local-first image contract and exact Builder + Pedal identity gate unchanged.
+The photo-quality audit has now moved 17 known-bad pictured records back to photo-pending, so the live gate is 17 researched-photo-pending / 2,515 photo-missing. Those 17 records are now explicitly back in the recovery lane. The photo validator rejects the obvious favicon/logo/template provenance classes so the gate cannot silently return to zero around bad assets. Keep the local-first image contract and exact Builder + Pedal identity gate unchanged.
 
 ## Full-site maintenance checkpoint - September 21, 2026
 
