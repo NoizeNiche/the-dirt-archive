@@ -196,5 +196,5 @@ jobs:
               exit 0
             fi
             git commit -m "Archive parallel verified pedal photos"
-
+          done
           exit 1
