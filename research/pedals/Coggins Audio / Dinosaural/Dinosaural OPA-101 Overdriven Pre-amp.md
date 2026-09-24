@@ -1,7 +1,7 @@
 # Coggins Audio / Dinosaural — OPA-101 Overdriven Pre-amp
 
 ## PRP identity
-- **Archive parent:** OPA-101 Overdriven Pre-amp
+- **Archive parent:** Dinosaural OPA-101 Overdriven Pre-amp
 - **Builder:** Coggins Audio / Dinosaural
 - **Catalog type:** Overdrive
 - **Identity:** Dinosaural OPA-101, a rare overdrive/preamp developed as an updated Tube Bender.
