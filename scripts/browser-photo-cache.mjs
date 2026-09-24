@@ -1472,6 +1472,92 @@ async function richSourceImageUrls(page, pageUrl) {
   }
 }
 
+async function curlExactSourceCandidates(entry) {
+  if (!entry?.company || !entry?.pedal) return [];
+  const query = '"' + entry.company + '" "' + entry.pedal + '" pedal';
+  const searchUrl = 'https://html.duckduckgo.com/html/?q=' + encodeURIComponent(query);
+  let html = '';
+  try {
+    const proc = await execFileAsync('curl', [
+      '-L', '--silent', '--show-error', '--compressed',
+      '--connect-timeout', '3', '--max-time', '6',
+      '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
+      '-H', 'Accept-Language: en-US,en;q=0.9',
+      searchUrl
+    ], { timeout: 7500, maxBuffer: 5 * 1024 * 1024 });
+    html = String(proc.stdout || '');
+  } catch {}
+  if (!html) return [];
+
+  const rows = [];
+  for (const match of html.matchAll(/<a[^>]+class=["'][^"']*result__a[^"']*["'][^>]+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
+    const href = match[1].replace(/&amp;/g, '&');
+    const title = match[2].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+    if (!/^https?:/i.test(href) || !title) continue;
+    rows.push({ url: href.split('#')[0], title });
+  }
+
+  const pedalPhrase = normalizedIdentity(entry.pedal);
+  const builderPhrase = normalizedIdentity(entry.company);
+  return [...new Map(rows.map(row => [row.url, row]))
+    .values()]
+    .sort((a, b) => {
+      const ah = normalizedIdentity(a.title + ' ' + a.url);
+      const bh = normalizedIdentity(b.title + ' ' + b.url);
+      const as = (pedalPhrase && ah.includes(pedalPhrase) ? 80 : 0) +
+        (builderPhrase && ah.includes(builderPhrase) ? 70 : 0) +
+        identityTokens(entry.pedal).filter(t => ah.includes(t)).length * 10 +
+        identityTokens(entry.company).filter(t => ah.includes(t)).length * 6;
+      const bs = (pedalPhrase && bh.includes(pedalPhrase) ? 80 : 0) +
+        (builderPhrase && bh.includes(builderPhrase) ? 70 : 0) +
+        identityTokens(entry.pedal).filter(t => bh.includes(t)).length * 10 +
+        identityTokens(entry.company).filter(t => bh.includes(t)).length * 6;
+      return bs - as;
+    })
+    .slice(0, 6);
+}
+
+async function curlExactSourcePageImages(entry, sourceRows) {
+  const out = [];
+  for (const row of sourceRows) {
+    try {
+      const proc = await execFileAsync('curl', [
+        '-L', '--silent', '--show-error', '--compressed',
+        '--connect-timeout', '3', '--max-time', '6',
+        '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
+        '-H', 'Accept-Language: en-US,en;q=0.9',
+        String(row.url)
+      ], { timeout: 7500, maxBuffer: 5 * 1024 * 1024 });
+      const html = String(proc.stdout || '');
+      if (!html) continue;
+
+      const title = (html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [,''])[1]
+        .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+      const h1 = (html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || [,''])[1]
+        .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+      const body = html
+        .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+        .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+        .replace(/<[^>]+>/g, ' ')
+        .replace(/\s+/g, ' ')
+        .slice(0, 300000);
+      if (!pageMatchesIdentity(entry, title + ' ' + body, h1) &&
+          !reverbListingMatchesIdentity(entry, row.url, title, h1)) continue;
+
+      const urls = rawVerifiedPageImageUrls(html, row.url);
+      for (const url of urls) {
+        out.push({
+          url,
+          sourcePage: row.url,
+          sourceScore: 230,
+          rawVerifiedPageImage: true
+        });
+      }
+    } catch {}
+  }
+  return [...new Map(out.map(x => [x.url, x])).values()].slice(0, 24);
+}
+
 async function recoverEntry(browser, entry, deepReview = false, recoveryDeadlineMs = RECOVERY_DEADLINE_MS) {
   const diagnostic = {
     sourceHost: null,
@@ -1989,6 +2075,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           !/(^|\.)effectsdatabase\.com$/i.test(host)) return null;
 
       const proxyUrls = [
+        'https://external-content.duckduckgo.com/iu/?u=' + encodeURIComponent(source) + '&f=1&nofb=1',
         'https://wsrv.nl/?url=' + encodeURIComponent(source),
         'https://wsrv.nl/?url=' + source,
         'https://images.weserv.nl/?url=' + encodeURIComponent(source),
@@ -3473,6 +3560,25 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         diagnostic.makerFallbackTried = true;
         const makerCandidates = await makerWebCandidates(page, entry);
         selectedResult = await tryImages(makerCandidates);
+        if (!selectedResult && deepReview) {
+          try {
+            const curlSources = await curlExactSourceCandidates(entry);
+            const curlImages = await curlExactSourcePageImages(entry, curlSources);
+            if ((entry.company === 'C14 Devices' || entry.company === 'CAT Sound') && curlSources.length) {
+              console.log(entry.company + ' / ' + entry.pedal + ' DDG exact source candidates: ' + curlSources.map(x => x.url).join(' | '));
+            }
+            selectedResult = await tryImages(curlImages);
+            if (!selectedResult) {
+              for (const candidate of curlImages.filter(x => x.rawVerifiedPageImage).slice(0, 8)) {
+                const proxy = await proxyImageCandidate(candidate);
+                if (proxy?.bytes) {
+                  selectedResult = { candidate, bytes: proxy.bytes };
+                  break;
+                }
+              }
+            }
+          } catch {}
+        }
       } catch {}
     }
 
