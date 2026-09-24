@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T12:07:31.574027+00:00",
+  "generated_at": "2026-09-24T12:07:58.102531+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1571,
+    "researched": 1572,
     "pictured": 1538,
     "complete": 1538,
-    "research_pending": 2194
+    "research_pending": 2193
   },
   "next_target": {
     "builder": "Colombo Audio Electronics",
-    "pedal": "Bricks",
+    "pedal": "Eruption",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Colombo Audio Electronics",
-      "pedal": "Bricks",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Colombo Audio Electronics",
       "pedal": "Eruption",
@@ -165,6 +159,12 @@
     {
       "builder": "Colorsound / Sola Sound",
       "pedal": "Eurotec Black Box Fuzz Module",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Colorsound / Sola Sound",
+      "pedal": "G.B. Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
