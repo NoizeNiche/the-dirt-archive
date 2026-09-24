@@ -12044,7 +12044,7 @@
   {
     "builder": "Champion City Effects",
     "pedal": "Cosmonaut",
-    "image": null,
+    "image": "./assets/pedals/champion-city-effects/cosmonaut/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Champion City Effects/Cosmonaut.md"
   },
@@ -12191,7 +12191,7 @@
   {
     "builder": "Charlie Paolo Custom Effects",
     "pedal": "Sapphire - Transparent Overdrive",
-    "image": null,
+    "image": "./assets/pedals/charlie-paolo-custom-effects/sapphire-transparent-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Charlie Paolo Custom Effects/Sapphire - Transparent Overdrive.md"
   },
@@ -12338,7 +12338,7 @@
   {
     "builder": "Chase Tone",
     "pedal": "Red Stardust Germanium Fuzz",
-    "image": null,
+    "image": "./assets/pedals/chase-tone/red-stardust-germanium-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chase Tone/Red Stardust Germanium Fuzz.md"
   },
@@ -12443,7 +12443,7 @@
   {
     "builder": "Chesapeake Effects",
     "pedal": "Flagship Overdrive",
-    "image": null,
+    "image": "./assets/pedals/chesapeake-effects/flagship-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chesapeake Effects/Flagship Overdrive.md"
   },
@@ -12457,7 +12457,7 @@
   {
     "builder": "Chicago Stompworks",
     "pedal": "Black Fudge",
-    "image": null,
+    "image": "./assets/pedals/chicago-stompworks/black-fudge/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chicago Stompworks/Black Fudge.md"
   },
@@ -12653,7 +12653,7 @@
   {
     "builder": "Chris Custom",
     "pedal": "Dr.Silvery",
-    "image": null,
+    "image": "./assets/pedals/chris-custom/dr-silvery/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chris Custom/Dr.Silvery.md"
   },
@@ -12716,14 +12716,14 @@
   {
     "builder": "Ciclar",
     "pedal": "Arquera Overdrive",
-    "image": null,
+    "image": "./assets/pedals/ciclar/arquera-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ciclar/Arquera Overdrive.md"
   },
   {
     "builder": "Ciclar",
     "pedal": "Motoquera Fuzz",
-    "image": null,
+    "image": "./assets/pedals/ciclar/motoquera-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ciclar/Motoquera Fuzz.md"
   },
@@ -12772,7 +12772,7 @@
   {
     "builder": "Circle Of Tone",
     "pedal": "OVERDRIVE",
-    "image": null,
+    "image": "./assets/pedals/circle-of-tone/overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Circle Of Tone/OVERDRIVE.md"
   },
@@ -12786,49 +12786,49 @@
   {
     "builder": "Circuit Rider Effects",
     "pedal": "SiClops",
-    "image": null,
+    "image": "./assets/pedals/circuit-rider-effects/siclops/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Circuit Rider Effects/SiClops.md"
   },
   {
     "builder": "Circuitbenders",
     "pedal": "Black Box Audio Destructor",
-    "image": null,
+    "image": "./assets/pedals/circuitbenders/black-box-audio-destructor/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Circuitbenders/Black Box Audio Destructor.md"
   },
   {
     "builder": "Circuitbenders",
     "pedal": "Demon Seed",
-    "image": null,
+    "image": "./assets/pedals/circuitbenders/demon-seed/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Circuitbenders/Demon Seed.md"
   },
   {
     "builder": "CircuitFX",
     "pedal": "Cruncher",
-    "image": null,
+    "image": "./assets/pedals/circuitfx/cruncher/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CircuitFX/Cruncher.md"
   },
   {
     "builder": "CircuitFX",
     "pedal": "Soldano SuperCharger",
-    "image": null,
+    "image": "./assets/pedals/circuitfx/soldano-supercharger/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CircuitFX/Soldano SuperCharger.md"
   },
   {
     "builder": "Circuitous FX",
     "pedal": "FZ-BRK",
-    "image": null,
+    "image": "./assets/pedals/circuitous-fx/fz-brk/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Circuitous FX/FZ-BRK.md"
   },
   {
     "builder": "Circular Time Hardware",
     "pedal": "Acetone Fuzz",
-    "image": null,
+    "image": "./assets/pedals/circular-time-hardware/acetone-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Circular Time Hardware/Acetone Fuzz.md"
   },
@@ -12842,7 +12842,7 @@
   {
     "builder": "Circus Freak Music",
     "pedal": "The Pickled Punk",
-    "image": null,
+    "image": "./assets/pedals/circus-freak-music/the-pickled-punk/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Circus Freak Music/The Pickled Punk.md"
   },
@@ -12856,175 +12856,175 @@
   {
     "builder": "Citadel Electronics",
     "pedal": "Overtuber",
-    "image": null,
+    "image": "./assets/pedals/citadel-electronics/overtuber/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Citadel Electronics/Overtuber.md"
   },
   {
     "builder": "Citadel Electronics",
     "pedal": "Particle Drive",
-    "image": null,
+    "image": "./assets/pedals/citadel-electronics/particle-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Citadel Electronics/Particle Drive.md"
   },
   {
     "builder": "Citadel Electronics",
     "pedal": "Plutonium Overdrive",
-    "image": null,
+    "image": "./assets/pedals/citadel-electronics/plutonium-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Citadel Electronics/Plutonium Overdrive.md"
   },
   {
     "builder": "Citadel Electronics",
     "pedal": "Vector",
-    "image": null,
+    "image": "./assets/pedals/citadel-electronics/vector/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Citadel Electronics/Vector.md"
   },
   {
     "builder": "CKK Electronic",
     "pedal": "Destruction Drive - Aggressive High-Gain Distortion",
-    "image": null,
+    "image": "./assets/pedals/ckk-electronic/destruction-drive-aggressive-high-gain-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CKK Electronic/Destruction Drive - Aggressive High-Gain Distortion.md"
   },
   {
     "builder": "CKK Electronic",
     "pedal": "Flaming Lips - US Style Distortion with Fat Boost",
-    "image": null,
+    "image": "./assets/pedals/ckk-electronic/flaming-lips-us-style-distortion-with-fat-boost/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CKK Electronic/Flaming Lips - US Style Distortion with Fat Boost.md"
   },
   {
     "builder": "CKK Electronic",
     "pedal": "Gambler",
-    "image": null,
+    "image": "./assets/pedals/ckk-electronic/gambler/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CKK Electronic/Gambler.md"
   },
   {
     "builder": "CKK Electronic",
     "pedal": "Honey Jar - Overdrive",
-    "image": null,
+    "image": "./assets/pedals/ckk-electronic/honey-jar-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CKK Electronic/Honey Jar - Overdrive.md"
   },
   {
     "builder": "CKK Electronic",
     "pedal": "Lunar Drive - Vintage Amp Tone Overdrive",
-    "image": null,
+    "image": "./assets/pedals/ckk-electronic/lunar-drive-vintage-amp-tone-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CKK Electronic/Lunar Drive - Vintage Amp Tone Overdrive.md"
   },
   {
     "builder": "CKK Electronic",
     "pedal": "Royal Fuzz",
-    "image": null,
+    "image": "./assets/pedals/ckk-electronic/royal-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CKK Electronic/Royal Fuzz.md"
   },
   {
     "builder": "CKK Electronic",
     "pedal": "Scream Drive - Two Gain Stage Classic Overdrive",
-    "image": null,
+    "image": "./assets/pedals/ckk-electronic/scream-drive-two-gain-stage-classic-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CKK Electronic/Scream Drive - Two Gain Stage Classic Overdrive.md"
   },
   {
     "builder": "Clarenzio",
     "pedal": "Brìne - Distortion",
-    "image": null,
+    "image": "./assets/pedals/clarenzio/br-ne-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clarenzio/Brìne - Distortion.md"
   },
   {
     "builder": "Clarenzio",
     "pedal": "Cativèria - Tube Distortion",
-    "image": null,
+    "image": "./assets/pedals/clarenzio/cativ-ria-tube-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clarenzio/Cativèria - Tube Distortion.md"
   },
   {
     "builder": "Clarenzio",
     "pedal": "Sandroun - Tube Overdrive",
-    "image": null,
+    "image": "./assets/pedals/clarenzio/sandroun-tube-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clarenzio/Sandroun - Tube Overdrive.md"
   },
   {
     "builder": "Clarenzio",
     "pedal": "Spètnador - Overdrive",
-    "image": null,
+    "image": "./assets/pedals/clarenzio/sp-tnador-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clarenzio/Spètnador - Overdrive.md"
   },
   {
     "builder": "Clarenzio",
     "pedal": "Strèmne - Fuzz",
-    "image": null,
+    "image": "./assets/pedals/clarenzio/str-mne-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clarenzio/Strèmne - Fuzz.md"
   },
   {
     "builder": "Clarenzio",
     "pedal": "Stùrloun - Tube Distortion",
-    "image": null,
+    "image": "./assets/pedals/clarenzio/st-rloun-tube-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clarenzio/Stùrloun - Tube Distortion.md"
   },
   {
     "builder": "Clark Amplification",
     "pedal": "Gainster",
-    "image": null,
+    "image": "./assets/pedals/clark-amplification/gainster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clark Amplification/Gainster.md"
   },
   {
     "builder": "Classic Audio Effects",
     "pedal": "Stumphouse Drive",
-    "image": null,
+    "image": "./assets/pedals/classic-audio-effects/stumphouse-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Classic Audio Effects/Stumphouse Drive.md"
   },
   {
     "builder": "Clay Jones",
     "pedal": "CJOD Overdrive",
-    "image": null,
+    "image": "./assets/pedals/clay-jones/cjod-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clay Jones/CJOD Overdrive.md"
   },
   {
     "builder": "Claybridge Sound Systems / Claybridge Audio",
     "pedal": "Fuzzmaster",
-    "image": null,
+    "image": "./assets/pedals/claybridge-sound-systems-claybridge-audio/fuzzmaster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Claybridge Sound Systems / Claybridge Audio/Fuzzmaster.md"
   },
   {
     "builder": "Claybridge Sound Systems / Claybridge Audio",
     "pedal": "Fuzzmaster MKIV",
-    "image": null,
+    "image": "./assets/pedals/claybridge-sound-systems-claybridge-audio/fuzzmaster-mkiv/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Claybridge Sound Systems / Claybridge Audio/Fuzzmaster MKIV.md"
   },
   {
     "builder": "Clayton",
     "pedal": "X-Treme DS-160 Distortion",
-    "image": null,
+    "image": "./assets/pedals/clayton/x-treme-ds-160-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clayton/X-Treme DS-160 Distortion.md"
   },
   {
     "builder": "Clayton",
     "pedal": "X-Treme MT-170 Metal Driver",
-    "image": null,
+    "image": "./assets/pedals/clayton/x-treme-mt-170-metal-driver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clayton/X-Treme MT-170 Metal Driver.md"
   },
   {
     "builder": "Clayton",
     "pedal": "X-Treme OD-160 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/clayton/x-treme-od-160-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clayton/X-Treme OD-160 Overdrive.md"
   },
@@ -13038,7 +13038,7 @@
   {
     "builder": "Cleveland Music Co.",
     "pedal": "Bleepcakes Overfuzz",
-    "image": null,
+    "image": "./assets/pedals/cleveland-music-co/bleepcakes-overfuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cleveland Music Co./Bleepcakes Overfuzz.md"
   },
@@ -13052,14 +13052,14 @@
   {
     "builder": "Cleveland Music Co.",
     "pedal": "Flats Distortion",
-    "image": null,
+    "image": "./assets/pedals/cleveland-music-co/flats-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cleveland Music Co./Flats Distortion.md"
   },
   {
     "builder": "Cleveland Music Co.",
     "pedal": "Midgeapocalypse Vintage Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cleveland-music-co/midgeapocalypse-vintage-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cleveland Music Co./Midgeapocalypse Vintage Fuzz.md"
   },
@@ -13080,35 +13080,35 @@
   {
     "builder": "Cleveland Music Co.",
     "pedal": "Superior Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cleveland-music-co/superior-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cleveland Music Co./Superior Overdrive.md"
   },
   {
     "builder": "Cleveland Music Co.",
     "pedal": "The Heights Dynadrive",
-    "image": null,
+    "image": "./assets/pedals/cleveland-music-co/the-heights-dynadrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cleveland Music Co./The Heights Dynadrive.md"
   },
   {
     "builder": "Cleveland Music Co.",
     "pedal": "WestSide Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cleveland-music-co/westside-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cleveland Music Co./WestSide Overdrive.md"
   },
   {
     "builder": "Cleveland Music Co.",
     "pedal": "Woollybear Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cleveland-music-co/woollybear-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cleveland Music Co./Woollybear Fuzz.md"
   },
   {
     "builder": "ClinchFX",
     "pedal": "Blue Classic",
-    "image": null,
+    "image": "./assets/pedals/clinchfx/blue-classic/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ClinchFX/Blue Classic.md"
   },
@@ -13129,49 +13129,49 @@
   {
     "builder": "Cloud 9",
     "pedal": "DS-50 Distortion + Sustain",
-    "image": null,
+    "image": "./assets/pedals/cloud-9/ds-50-distortion-sustain/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cloud 9/DS-50 Distortion + Sustain.md"
   },
   {
     "builder": "Cloud 9",
     "pedal": "TS-30 Tube Sound Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cloud-9/ts-30-tube-sound-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cloud 9/TS-30 Tube Sound Overdrive.md"
   },
   {
     "builder": "Cluster Effects",
     "pedal": "Dragon-71",
-    "image": null,
+    "image": "./assets/pedals/cluster-effects/dragon-71/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cluster Effects/Dragon-71.md"
   },
   {
     "builder": "CMAT Mods",
     "pedal": "Black Plague",
-    "image": null,
+    "image": "./assets/pedals/cmat-mods/black-plague/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CMAT Mods/Black Plague.md"
   },
   {
     "builder": "CMAT Mods",
     "pedal": "Brownie",
-    "image": null,
+    "image": "./assets/pedals/cmat-mods/brownie/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CMAT Mods/Brownie.md"
   },
   {
     "builder": "CMAT Mods",
     "pedal": "Butah",
-    "image": null,
+    "image": "./assets/pedals/cmat-mods/butah/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CMAT Mods/Butah.md"
   },
   {
     "builder": "CMAT Mods",
     "pedal": "Ratified",
-    "image": null,
+    "image": "./assets/pedals/cmat-mods/ratified/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CMAT Mods/Ratified.md"
   },
@@ -13185,28 +13185,28 @@
   {
     "builder": "CMAT Mods",
     "pedal": "Signa Drive",
-    "image": null,
+    "image": "./assets/pedals/cmat-mods/signa-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CMAT Mods/Signa Drive.md"
   },
   {
     "builder": "CMAT Mods",
     "pedal": "Super Signa Drive",
-    "image": null,
+    "image": "./assets/pedals/cmat-mods/super-signa-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CMAT Mods/Super Signa Drive.md"
   },
   {
     "builder": "CMAT Mods",
     "pedal": "Tube Slammer",
-    "image": null,
+    "image": "./assets/pedals/cmat-mods/tube-slammer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CMAT Mods/Tube Slammer.md"
   },
   {
     "builder": "CMAT Mods",
     "pedal": "Tube Slammer Deluxe",
-    "image": null,
+    "image": "./assets/pedals/cmat-mods/tube-slammer-deluxe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CMAT Mods/Tube Slammer Deluxe.md"
   },
