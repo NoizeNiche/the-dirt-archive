@@ -1439,7 +1439,10 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     const pageUrl = preferredSourcePage(entry);
     const deepSearchTokens = identityTokens(entry.pedal);
     const genericPedalOnly = deepSearchTokens.length === 0;
-    const imageSearchFirst = deepReview && !genericPedalOnly;
+    // Keep exact source pages and image search in the same recovery pass. A
+    // search engine can be empty or rate-limited while the known product page
+    // still contains the exact photo, so neither route is exclusive.
+    const imageSearchFirst = false;
 
     // A curated/explicit image source page is already a stronger lead than a
     // fresh maker-search query, so give that page the first chance to resolve.
@@ -1484,7 +1487,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       }
     }
 
-    if (!selectedResult && !imageSearchFirst) {
+    if (!selectedResult) {
       for (const pageUrl of pageUrls) {
       if (!pageUrl || !/^https?:/i.test(pageUrl)) continue;
       try {
@@ -3349,7 +3352,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     // Reverb's Sold Listings filter exposes previously sold listings, and Reverb
     // requires listing photos to show the exact item being sold. Verify the listing
     // identity first, then harvest its actual listing photos.
-    if (!selectedResult && IMAGE_SEARCH_ENABLED && !imageSearchFirst) {
+    if (!selectedResult && IMAGE_SEARCH_ENABLED) {
       const soldResults = await reverbSoldCandidates(page, entry, deepReview);
       diagnostic.soldCandidates = soldResults.length;
       const verifiedSold = [];
@@ -3443,7 +3446,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     // image search and other indexed web results. Deep-review records whose
     // curated source page already passed identity stay source-first to avoid
     // burning another full search cycle on the same hard case.
-    if (!selectedResult && IMAGE_SEARCH_ENABLED && imageSearchFirst) {
+    if (!selectedResult && IMAGE_SEARCH_ENABLED) {
       const searchResults = await imageSearchCandidates(page, entry, deepReview);
       diagnostic.imageSearchCandidates = searchResults.length;
       const verifiedSearch = [];
