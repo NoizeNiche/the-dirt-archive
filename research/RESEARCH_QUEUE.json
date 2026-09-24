@@ -1,47 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T12:18:07.225480+00:00",
+  "generated_at": "2026-09-24T12:18:59.960882+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1595,
+    "researched": 1599,
     "pictured": 1544,
     "complete": 1544,
-    "research_pending": 2170
+    "research_pending": 2166
   },
   "next_target": {
     "builder": "Colorsound / Sola Sound",
-    "pedal": "Eurotec Black Box Fuzz Module",
+    "pedal": "Pro Traffic Fuzz Unit",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "Eurotec Black Box Fuzz Module",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "G.B. Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "G.B. Fuzz Unit",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "Overdriver",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Colorsound / Sola Sound",
       "pedal": "Pro Traffic Fuzz Unit",
@@ -165,6 +141,30 @@
     {
       "builder": "Comodoro Pedales",
       "pedal": "Percolator Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Comodoro Pedales",
+      "pedal": "Rat Bass",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Companion",
+      "pedal": "FY-2 Fuzz Box",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Companion",
+      "pedal": "FY-6 Super Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Compulsive Audio",
+      "pedal": "Dimed Boogie",
       "catalog_type": "",
       "research_record": ""
     }
