@@ -1,56 +1,26 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T22:53:48.438038+00:00",
+  "generated_at": "2026-09-24T22:55:13.440496+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1670,
+    "researched": 1675,
     "pictured": 1615,
     "complete": 1615,
-    "research_pending": 2095
+    "research_pending": 2090
   },
   "next_target": {
     "builder": "CopperSound Pedals",
-    "pedal": "Ion Warped Fuzz",
+    "pedal": "Mystique Germanium Fuzz & Boost",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
     {
       "builder": "CopperSound Pedals",
-      "pedal": "Ion Warped Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CopperSound Pedals",
-      "pedal": "Kingpin Germanium Clipper",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CopperSound Pedals",
-      "pedal": "Mustard Gas - Lo-Fi / Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CopperSound Pedals",
       "pedal": "Mystique Germanium Fuzz & Boost",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CopperSound Pedals",
-      "pedal": "Mystique Germanium Fuzz & Boost (Limited Edition)",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CopperSound Pedals",
-      "pedal": "Renegade Multi-Bias Fuzz",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +135,36 @@
     {
       "builder": "Coron",
       "pedal": "Coron Distortion 10",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coron",
+      "pedal": "Coron Distortion 15",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coron",
+      "pedal": "Coron Octaver 2",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coron",
+      "pedal": "Coron Over Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coron",
+      "pedal": "D-500 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coron",
+      "pedal": "DT-510 Distortion",
       "catalog_type": "",
       "research_record": ""
     }
