@@ -207,7 +207,8 @@ jobs:
           )
           PHOTO_CACHE_TARGET_BUILDER="$BUILDER" PHOTO_CACHE_TARGET_PEDAL="$PEDAL" python scripts/cache-pedal-images.py
 
-      - name: Require exact local photo for PRP1 target
+      - name: Record exact local photo status for PRP1 target
+        id: photo_status
         if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
         run: |
           python - <<'PY'
@@ -226,14 +227,20 @@ jobs:
 
           image = str(matches[0].get("image") or "")
           local_path = Path(image[2:] if image.startswith("./") else image)
-          if (
-              not image
-              or image.lower().startswith(("http://", "https://"))
-              or not local_path.is_file()
-          ):
-              raise SystemExit(f"PRP1 target still lacks exact local photo: {key} -> {image}")
-
-          print(f"PRP1 target photo confirmed: {key} -> {local_path}")
+          photo_complete = bool(
+              image
+              and not image.lower().startswith(("http://", "https://"))
+              and local_path.is_file()
+          )
+          Path(".prp1-photo-status").write_text(
+              json.dumps({"complete": photo_complete, "image": image}, ensure_ascii=False) + "\n",
+              encoding="utf-8",
+          )
+          if photo_complete:
+              print(f"PRP1 target photo confirmed: {key} -> {local_path}")
+          else:
+              print(f"PRP1 target has no exact local photo yet: {key} -> {image or '<none>'}")
+              print("Continuing into the existing review/finalizer path instead of failing the closeout.")
           PY
 
       - name: Capture PRP1 target photo provenance
