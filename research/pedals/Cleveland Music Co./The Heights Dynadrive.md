@@ -4,28 +4,42 @@
 - **Archive parent:** The Heights Dynadrive
 - **Builder:** Cleveland Music Co.
 - **Catalog type:** Overdrive
-- **Identity:** Cleveland Music Co. The Heights Dynadrive.
+- **Identity:** Cleveland Music Co. The Heights Dynadrive, a medium-gain Zendrive-inspired overdrive with high headroom and switchable buffering.
 
 ## What this pedal is
-The Dirt Archive's Scrape C census records this exact builder/model identity and classifies it as **Overdrive**. The retained project source does not preserve enough exact-model documentation to safely assign circuit lineage, full control layout, component values, or revision history.
+Cleveland Music Co. describes Heights Dynadrive as a medium-gain overdrive inspired by the Zendrive and intended to capture a Dumble-style touch and feel. The builder positions it for blues and medium-gain rock as well as stacking with other drives. [1]
 
 ## Colorways
-No complete factory colorway sequence was established.
+The official page documents the standard powder-coated/UV-printed enclosure but does not establish a complete colorway sequence. [1]
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+Controls:
+- **VOLUME**
+- **GAIN**
+- **VOICE**
+- **TONE** [1]
+
+The builder documents:
+- Voice interaction with Gain, changing available gain and bass in the gain stage.
+- Switchable **true bypass or unity-gain Class A input buffer**.
+- 9V to 18V operation for increased headroom.
+- 125B aluminum enclosure.
+- Top-mounted jacks.
+- **NE5532** operational amplifier.
+- Handmade limited-run production in Cleveland, Ohio. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+No formal numbered factory revision history was established.
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+No discrete transistor complement was established. The documented gain architecture uses an **NE5532 op-amp**. [1]
 
 ## Diode
-Unknown from the checked exact-model documentation.
+No exact-model diode specification was established.
 
 ## Sound
-The model is documented as overdrive. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+Heights Dynadrive is voiced as a dynamic medium-gain overdrive with substantial output. The Voice control changes the bass/gain behavior, while Tone provides simple treble rolloff. The builder explicitly recommends it as a stacking platform and amp-front boost. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. Cleveland Music Co. — The Heights Dynadrive: https://clevelandmusicco.com/pedals/heights-dynadrive/
+2. Cleveland Music Co. — The Heights Dynadrive product listing: https://clevelandmusicco.com/products/cleveland-music-co-the-heights-dynadrive-premium-zendrive-clone
