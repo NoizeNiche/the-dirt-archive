@@ -12774,14 +12774,14 @@
     "pedal": "OVERDRIVE",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Circle Of Tone/OVERDRIVE.md"
   },
   {
     "builder": "Circle Of Tone",
     "pedal": "Quad Damage",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Circle Of Tone/Quad Damage.md"
   },
   {
     "builder": "Circuit Rider Effects",
@@ -12795,14 +12795,14 @@
     "pedal": "Black Box Audio Destructor",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Circuitbenders/Black Box Audio Destructor.md"
   },
   {
     "builder": "Circuitbenders",
     "pedal": "Demon Seed",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Circuitbenders/Demon Seed.md"
   },
   {
     "builder": "CircuitFX",
@@ -12823,7 +12823,7 @@
     "pedal": "FZ-BRK",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Circuitous FX/FZ-BRK.md"
   },
   {
     "builder": "Circular Time Hardware",

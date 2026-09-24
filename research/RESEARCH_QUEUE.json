@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:19:10.816319+00:00",
+  "generated_at": "2026-09-24T10:19:52.667457+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1410,
+    "researched": 1415,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2355
+    "research_pending": 2350
   },
   "next_target": {
     "builder": "Chaser",
@@ -37,32 +37,8 @@
       "research_record": ""
     },
     {
-      "builder": "Circle Of Tone",
-      "pedal": "OVERDRIVE",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Circle Of Tone",
-      "pedal": "Quad Damage",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Circuit Rider Effects",
       "pedal": "SiClops",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Circuitbenders",
-      "pedal": "Black Box Audio Destructor",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Circuitbenders",
-      "pedal": "Demon Seed",
       "catalog_type": "",
       "research_record": ""
     },
@@ -75,12 +51,6 @@
     {
       "builder": "CircuitFX",
       "pedal": "Soldano SuperCharger",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Circuitous FX",
-      "pedal": "FZ-BRK",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +135,36 @@
     {
       "builder": "CKK Electronic",
       "pedal": "Royal Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CKK Electronic",
+      "pedal": "Scream Drive - Two Gain Stage Classic Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Clarenzio",
+      "pedal": "Brìne - Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Clarenzio",
+      "pedal": "Cativèria - Tube Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Clarenzio",
+      "pedal": "Sandroun - Tube Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Clarenzio",
+      "pedal": "Spètnador - Overdrive",
       "catalog_type": "",
       "research_record": ""
     }
