@@ -1705,6 +1705,34 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
 
         diagnostic.sourceImageCandidates += candidates.filter(x => x.sourcePage === pageUrl).length;
 
+        // Some verified product pages render an anti-bot shell or an image-empty
+        // DOM even though the same exact page still exposes current product image
+        // URLs in its raw HTML response. On deep-review holdouts, fetch that exact
+        // page once and harvest only its own image URLs.
+        if (deepReview && candidates.filter(x => x.sourcePage === pageUrl).length === 0) {
+          try {
+            const rawResponse = await page.request.get(pageUrl, { timeout: PAGE_TIMEOUT });
+            const rawType = (rawResponse.headers()['content-type'] || '').toLowerCase();
+            if (rawResponse.ok() && (!rawType || rawType.includes('text/html'))) {
+              const rawHtml = await rawResponse.text();
+              const rawUrls = rawVerifiedPageImageUrls(rawHtml, pageUrl);
+              if (entry.company === 'C14 Devices' || entry.company === 'Cameltone Electronics' || entry.company === 'CAT Sound') {
+                console.log(entry.company + ' / ' + entry.pedal + ' raw HTML image candidates: ' + rawUrls.slice(0, 24).join(' | '));
+              }
+              for (const url of rawUrls) {
+                candidates.push({
+                  url,
+                  sourcePage: pageUrl,
+                  sourceScore: 155,
+                  rawVerifiedPageImage: true
+                });
+              }
+              diagnostic.rawHtmlCandidates += rawUrls.length;
+              diagnostic.sourceImageCandidates += rawUrls.length;
+            }
+          } catch {}
+        }
+
         // Fast path: many protected CDNs successfully deliver the exact image
         // to Chromium even though a separate HTTP request gets 401/403/500.
         // Save the browser's original response bytes before attempting any
