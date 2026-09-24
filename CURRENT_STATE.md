@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1574 researched / 1544 pictured / 1544 complete / 2191 research-pending / 30 researched-photo-pending**.
+Live catalog: **3765 total / 1582 researched / 1544 pictured / 1544 complete / 2183 research-pending / 38 researched-photo-pending**.
 
-**Next research target:** Colombo Audio Electronics - Ignition.
+**Next research target:** Colombo Audio Electronics - Over Drive.
 
-PRP1 closeout remains separate: 30 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 38 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-24T12:13:13.720520+00:00
+Last refreshed: 2026-09-24T12:14:04.469279+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
