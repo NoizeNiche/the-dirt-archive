@@ -3,6 +3,18 @@ name: Validate The Dirt Archive
 on:
   push:
     branches: [main]
+    paths:
+      - 'index.html'
+      - 'pedal.html'
+      - 'pedal-detail.html'
+      - 'assets/**'
+      - 'research/PEDAL_INDEX.json'
+      - 'research/pedals/PEDAL_IMAGES.json'
+      - 'research/PRP_TRACKER.csv'
+      - 'research/RESEARCH_QUEUE.json'
+      - 'CURRENT_STATE.md'
+      - 'scripts/**'
+      - '.github/workflows/**'
   pull_request:
 
 permissions:
