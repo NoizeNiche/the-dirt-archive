@@ -1648,15 +1648,15 @@ Coolpedals,Strutter,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Coolpedals/St
 Coolsound,A117 Rough OVD,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Coolsound/A117 Rough OVD.md
 Coolsound,A127 Dirty Bass,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Coolsound/A127 Dirty Bass.md
 Coopersonic,Deluxe Dual Valve Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Coopersonic,Deluxe Valve Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Coopersonic,Dirtbox,Distortion / Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Coopersonic,Dual-Valve Distortion (Deluxe),Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
-Coopersonic,Dual-Valve Distortion (Regular),Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
+Coopersonic,Deluxe Valve Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Coopersonic/Deluxe Valve Overdrive.md
+Coopersonic,Dirtbox,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Coopersonic/Dirtbox.md
+Coopersonic,Dual-Valve Distortion (Deluxe),Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Coopersonic/Dual-Valve Distortion (Deluxe).md
+Coopersonic,Dual-Valve Distortion (Regular),Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Coopersonic/Dual-Valve Distortion (Regular).md
 Coopersonic,Mini Tube Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Coopersonic,Pig Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
+Coopersonic,Pig Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Coopersonic/Pig Fuzz.md
 Coopersonic,The Germaniac - Vintage Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Coopersonic,Twin Tube Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Coopersonic,Valveslapper,Overdrive,NEEDED,NEEDED,NEEDED,
+Coopersonic,Valveslapper,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Coopersonic/Valveslapper.md
 Copilot FX,Mantis,Fuzz,NEEDED,NEEDED,NEEDED,
 Copilot FX,Orbit,Fuzz,NEEDED,NEEDED,NEEDED,
 Copilot FX,Terra,Fuzz,NEEDED,NEEDED,NEEDED,

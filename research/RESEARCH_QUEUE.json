@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T13:51:08.978262+00:00",
+  "generated_at": "2026-09-24T13:52:34.241412+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1648,
-    "pictured": 1600,
-    "complete": 1600,
-    "research_pending": 2117
+    "researched": 1654,
+    "pictured": 1601,
+    "complete": 1601,
+    "research_pending": 2111
   },
   "next_target": {
     "builder": "Coopersonic",
@@ -26,37 +26,7 @@
     },
     {
       "builder": "Coopersonic",
-      "pedal": "Deluxe Valve Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coopersonic",
-      "pedal": "Dirtbox",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coopersonic",
-      "pedal": "Dual-Valve Distortion (Deluxe)",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coopersonic",
-      "pedal": "Dual-Valve Distortion (Regular)",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coopersonic",
       "pedal": "Mini Tube Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coopersonic",
-      "pedal": "Pig Fuzz",
       "catalog_type": "",
       "research_record": ""
     },
@@ -69,12 +39,6 @@
     {
       "builder": "Coopersonic",
       "pedal": "Twin Tube Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coopersonic",
-      "pedal": "Valveslapper",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +129,42 @@
     {
       "builder": "CopperSound Pedals",
       "pedal": "Mustard Gas - Lo-Fi / Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CopperSound Pedals",
+      "pedal": "Mystique Germanium Fuzz & Boost",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CopperSound Pedals",
+      "pedal": "Mystique Germanium Fuzz & Boost (Limited Edition)",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CopperSound Pedals",
+      "pedal": "Renegade Multi-Bias Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CopperSound Pedals",
+      "pedal": "Strategy Overdrive & Preamp",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cordovox",
+      "pedal": "DS-8 Mouse",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cordovox",
+      "pedal": "DS-9 Distortion",
       "catalog_type": "",
       "research_record": ""
     }
