@@ -1602,6 +1602,32 @@ function deepReviewSourcePageEligible(pageUrl) {
 }
 
 async function curlVerifiedSourcePageImages(entry, pageUrl) {
+  if (entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass') {
+    const manufacturerPage = 'https://www.catsound.cn/?p=6';
+    try {
+      const proc = await execFileAsync('curl', [
+        '-L', '--silent', '--show-error', '--compressed',
+        '--connect-timeout', '3', '--max-time', '7',
+        '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
+        '-H', 'Accept-Language: en-US,en;q=0.9',
+        String(manufacturerPage)
+      ], { timeout: 8500, maxBuffer: 6 * 1024 * 1024 });
+      const manufacturerHtml = String(proc.stdout || '');
+      if (manufacturerHtml) {
+        const refs = manufacturerHtml.split(/\\r?\\n/)
+          .filter(line => /drivecenter|bass|gear|product|image|jpg|jpeg|png|webp/i.test(line))
+          .slice(0, 120)
+          .join(' ')
+          .slice(0, 30000);
+        console.log('CAT Sound manufacturer raw references: ' + refs);
+      } else {
+        console.log('CAT Sound manufacturer raw references: EMPTY');
+      }
+    } catch (err) {
+      console.log('CAT Sound manufacturer raw fetch failed: ' + String(err?.message || err));
+    }
+  }
+
   // CAT Sound's archived Effects Database page has historically exposed
   // different legacy image/link forms. Preserve a diagnostic snapshot of the
   // exact raw source markup for this one remaining holdout so recovery can use
