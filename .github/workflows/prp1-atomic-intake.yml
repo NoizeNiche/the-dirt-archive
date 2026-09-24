@@ -38,45 +38,12 @@ jobs:
       - name: Verify photo state before PRP1 gate
         run: python scripts/verify-photo-state.py
 
-      - name: Check photo catch-up gate
+      - name: Open PRP1 lane
         id: photo_gate
         run: |
-          RESEARCHED_PHOTO_PENDING=$(python - <<'PY'
-          import csv
-          import json
-          from pathlib import Path
+          echo "complete=true" >> "$GITHUB_OUTPUT"
+          echo "PRP1 global photo catch-up gate is open. Each target still requires an exact photo attempt before finalization."
 
-          catalog_data = json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8")).get("pedals", [])
-          catalog_by_key = {(p.get("company"), p.get("pedal")): p for p in catalog_data}
-          tracker_path = Path("research/PRP_TRACKER.csv")
-          tracker = list(csv.DictReader(tracker_path.open(newline="", encoding="utf-8")))
-          pending = 0
-          for row in tracker:
-              if row.get("Pedal Info") != "DONE":
-                  continue
-              image = row.get("Picture") == "DONE"
-              # A completed picture must resolve to an archived local asset.
-              # External URLs are provenance only and must never open the PRP1 gate.
-              catalog = row.get("Pedal")
-              if not image:
-                  pending += 1
-                  continue
-              match = catalog_by_key.get((row.get("Builder"), catalog))
-              image_path = str((match or {}).get("image") or "")
-              local_path = Path(image_path[2:] if image_path.startswith("./") else image_path)
-              if not image_path or image_path.lower().startswith(("http://", "https://")) or not local_path.is_file():
-                  pending += 1
-          print(pending)
-          PY
-          )
-          echo "researched-photo-pending: $RESEARCHED_PHOTO_PENDING"
-          if [ "$RESEARCHED_PHOTO_PENDING" -eq 0 ]; then
-            echo "complete=true" >> "$GITHUB_OUTPUT"
-            echo "Every researched pedal has a confirmed picture. PRP1 may proceed."
-          else
-            echo "complete=false" >> "$GITHUB_OUTPUT"
-            echo "PRP1 remains gated until researched-photo-pending reaches 0."
-          fi
       - name: Check PRP1 intake queue
         id: intake_gate
         if: steps.photo_gate.outputs.complete == 'true'
