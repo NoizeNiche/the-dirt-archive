@@ -123,6 +123,9 @@ jobs:
           git rebase origin/main
           git stash pop
 
+      - name: Reconcile recovered local assets
+        run: python scripts/reconcile-local-photo-assets.py
+
       - name: Commit cached images
         run: |
           git config user.name "github-actions[bot]"
