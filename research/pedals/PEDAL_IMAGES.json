@@ -13313,7 +13313,7 @@
   {
     "builder": "Coda Effects",
     "pedal": "Black Hole",
-    "image": null,
+    "image": "./assets/pedals/coda-effects/black-hole/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coda Effects/Black Hole.md"
   },
@@ -13649,7 +13649,7 @@
   {
     "builder": "Collateral FX",
     "pedal": "P004 Icarus",
-    "image": null,
+    "image": "./assets/pedals/collateral-fx/p004-icarus/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Collateral FX/P004 Icarus.md"
   },
