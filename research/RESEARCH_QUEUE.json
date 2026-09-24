@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T23:04:50.715423+00:00",
+  "generated_at": "2026-09-24T23:06:04.253883+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1691,
+    "researched": 1692,
     "pictured": 1615,
     "complete": 1615,
-    "research_pending": 2074
+    "research_pending": 2073
   },
   "next_target": {
     "builder": "CopperSound Pedals",
@@ -27,12 +27,6 @@
     {
       "builder": "Cornell Amplification",
       "pedal": "Over Drive Special",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cornerstone Music Gear",
-      "pedal": "Nero",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +159,12 @@
     {
       "builder": "Cosmic Terror",
       "pedal": "Cult OD",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmic Terror",
+      "pedal": "Droog",
       "catalog_type": "",
       "research_record": ""
     }
