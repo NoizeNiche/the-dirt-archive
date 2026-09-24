@@ -1840,6 +1840,14 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               }
               diagnostic.rawHtmlCandidates += rawVerifiedPageImageUrls(html, pageUrl).length;
 
+              if (/(^|\\.)effectsdatabase\\.com$/i.test(new URL(pageUrl).hostname)) {
+                try {
+                  const externalImages = await rawVerifiedExternalSourceImages(page, entry, pageUrl);
+                  diagnostic.linkedExternalCandidates += externalImages.length;
+                  for (const candidate of externalImages) candidates.push(candidate);
+                } catch {}
+              }
+
               for (const raw of imageAttrs) {
                 for (const part of raw.split(/\s+/)) {
                   if (!part || part.startsWith('data:')) continue;
@@ -1914,6 +1922,31 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           try { fs.rmSync(tempDir, { recursive: true, force: true }); } catch {}
         }
       }
+    }
+
+    async function proxyImageCandidate(candidate) {
+      if (!candidate?.url || !/^https?:/i.test(String(candidate.url))) return null;
+      const source = String(candidate.url);
+      let host = '';
+      try { host = new URL(source).hostname.toLowerCase(); } catch {}
+      if (!/(^|\.)reverb\.com$/i.test(host) && !/(^|\.)rvb-img\.reverb\.com$/i.test(host) &&
+          !/(^|\.)static\.reverb-assets\.com$/i.test(host) &&
+          !/(^|\.)effectsdatabase\.com$/i.test(host)) return null;
+
+      const proxyUrls = [
+        'https://wsrv.nl/?url=' + encodeURIComponent(source),
+        'https://images.weserv.nl/?url=' + encodeURIComponent(source)
+      ];
+      for (const proxyUrl of proxyUrls) {
+        try {
+          const response = await page.request.get(proxyUrl, { timeout: Math.min(IMAGE_TIMEOUT + 1500, 5500) });
+          const type = (response.headers()['content-type'] || '').toLowerCase();
+          if (!response.ok() || !type.startsWith('image/')) continue;
+          const bytes = await response.body();
+          if (imageBytesLookComplete(bytes, type)) return { bytes, src: source };
+        } catch {}
+      }
+      return null;
     }
 
     function imageBytesLookComplete(bytes, contentType = '') {
@@ -2099,6 +2132,9 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         // HTTP request when the same source-page cookies and Referer are sent.
         const curled = await curlImageCandidate(candidate);
         if (curled?.bytes) return curled;
+
+        const proxied = await proxyImageCandidate(candidate);
+        if (proxied?.bytes) return proxied;
 
         // Direct-image overrides can reject an injected <img> while still
         // rendering when Chromium navigates to the image URL as a document.
