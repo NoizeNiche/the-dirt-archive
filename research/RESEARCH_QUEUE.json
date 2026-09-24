@@ -1,77 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:30:57.186526+00:00",
+  "generated_at": "2026-09-24T10:31:28.675591+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1467,
+    "researched": 1476,
     "pictured": 1381,
     "complete": 1381,
-    "research_pending": 2298
+    "research_pending": 2289
   },
   "next_target": {
-    "builder": "CMAT Mods",
-    "pedal": "Black Plague",
+    "builder": "CMC Audio",
+    "pedal": "Bi Filter Fuzz",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "CMAT Mods",
-      "pedal": "Black Plague",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CMAT Mods",
-      "pedal": "Brownie",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CMAT Mods",
-      "pedal": "Butah",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CMAT Mods",
-      "pedal": "Ratified",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CMAT Mods",
-      "pedal": "Signa Comp-Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CMAT Mods",
-      "pedal": "Signa Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CMAT Mods",
-      "pedal": "Super Signa Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CMAT Mods",
-      "pedal": "Tube Slammer",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CMAT Mods",
-      "pedal": "Tube Slammer Deluxe",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "CMC Audio",
       "pedal": "Bi Filter Fuzz",
@@ -165,6 +111,60 @@
     {
       "builder": "Coda Effects",
       "pedal": "Dolmen Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Code",
+      "pedal": "CDO2 Stereo Distortion O.D.",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Code",
+      "pedal": "CMM2 Stereo Metal Mate",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Codtone",
+      "pedal": "Ben Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Codtone",
+      "pedal": "Frank 'n' Beans",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Codtone",
+      "pedal": "Fuzz for Bass",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Codtone",
+      "pedal": "Russian Bikini Ranger",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coffee Shop Pedals",
+      "pedal": "Affogato Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coffee Shop Pedals",
+      "pedal": "Donut Hole Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coffee Shop Pedals",
+      "pedal": "Portafilter Dual Overdrive",
       "catalog_type": "",
       "research_record": ""
     }

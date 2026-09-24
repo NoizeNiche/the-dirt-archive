@@ -1466,15 +1466,15 @@ Clone Bro,Tone King,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Clone Bro/Ton
 Cloud 9,DS-50 Distortion + Sustain,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Cloud 9/DS-50 Distortion + Sustain.md
 Cloud 9,TS-30 Tube Sound Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Cloud 9/TS-30 Tube Sound Overdrive.md
 Cluster Effects,Dragon-71,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Cluster Effects/Dragon-71.md
-CMAT Mods,Black Plague,Distortion,NEEDED,NEEDED,NEEDED,
-CMAT Mods,Brownie,Distortion,NEEDED,NEEDED,NEEDED,
-CMAT Mods,Butah,Overdrive,NEEDED,NEEDED,NEEDED,
-CMAT Mods,Ratified,Distortion,NEEDED,NEEDED,NEEDED,
-CMAT Mods,Signa Comp-Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-CMAT Mods,Signa Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-CMAT Mods,Super Signa Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-CMAT Mods,Tube Slammer,Overdrive,NEEDED,NEEDED,NEEDED,
-CMAT Mods,Tube Slammer Deluxe,Overdrive,NEEDED,NEEDED,NEEDED,
+CMAT Mods,Black Plague,Distortion,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Black Plague.md
+CMAT Mods,Brownie,Distortion,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Brownie.md
+CMAT Mods,Butah,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Butah.md
+CMAT Mods,Ratified,Distortion,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Ratified.md
+CMAT Mods,Signa Comp-Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Signa Comp-Drive.md
+CMAT Mods,Signa Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Signa Drive.md
+CMAT Mods,Super Signa Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Super Signa Drive.md
+CMAT Mods,Tube Slammer,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Tube Slammer.md
+CMAT Mods,Tube Slammer Deluxe,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Tube Slammer Deluxe.md
 CMC Audio,Bi Filter Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 CMC Audio,PROTO TYPE V2,Overdrive,NEEDED,NEEDED,NEEDED,
 CMI,CMI Fuzz Unit,Fuzz,NEEDED,NEEDED,NEEDED,
