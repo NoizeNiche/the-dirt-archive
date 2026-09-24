@@ -101,6 +101,7 @@ jobs:
           # Stop reopening the same dead-end set indefinitely; unresolved cases
           # stay parked for a deliberate exact-source/manual pass.
           PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "6"
+          PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS: "4"
         run: node scripts/browser-photo-cache.mjs
 
       - name: Download and cache verified pedal images
