@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:29:08.809871+00:00",
+  "generated_at": "2026-09-24T10:29:43.420811+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1462,
+    "researched": 1463,
     "pictured": 1381,
     "complete": 1381,
-    "research_pending": 2303
+    "research_pending": 2302
   },
   "next_target": {
     "builder": "Clone Bro",
@@ -39,12 +39,6 @@
     {
       "builder": "Cloud 9",
       "pedal": "TS-30 Tube Sound Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cluster Effects",
-      "pedal": "Dragon-71",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +159,12 @@
     {
       "builder": "CNZ Audio",
       "pedal": "VDU-20 Dumbled Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cobrahawk",
+      "pedal": "B12 Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
