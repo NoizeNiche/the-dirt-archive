@@ -5,9 +5,7 @@ from __future__ import annotations
 
 import csv
 import json
-import os
 import re
-import subprocess
 from pathlib import Path
 
 INDEX = Path("research/PEDAL_INDEX.json")
@@ -88,17 +86,8 @@ def main():
         writer.writeheader()
         writer.writerows(tracker_rows)
 
-    safe_builder = re.sub(r"[^a-z0-9]+", "-", builder.lower()).strip("-")[:30]
-    safe_pedal = re.sub(r"[^a-z0-9]+", "-", pedal.lower()).strip("-")[:50]
-    version = f"prp1-{safe_builder}-{safe_pedal}"
-
     catalog["photo_architecture"] = "local-first"
-    catalog["version"] = version
     INDEX.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-
-    env = dict(os.environ)
-    env["DATA_VERSION"] = version
-    subprocess.run(["python", "scripts/sync-public-data-version.py"], check=True, env=env)
 
     Path(target["queue_path"]).unlink()
     Path(".prp1-target.json").unlink()
