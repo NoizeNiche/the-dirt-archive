@@ -176,11 +176,20 @@ jobs:
             exit 0
           fi
           git commit -m "Archive parallel verified pedal photos"
-          git fetch origin main
-          git rebase origin/main
           for attempt in 1 2 3 4 5; do
             if git push; then exit 0; fi
+            echo "Parallel photo push race; rebuilding metadata on latest main (attempt $attempt/5)."
             git fetch origin main
-            git rebase origin/main
+            mkdir -p /tmp/recovered-assets
+            rsync -a --include='*.webp' --include='*.source' --exclude='*' assets/pedals/ /tmp/recovered-assets/ || true
+            git reset --hard origin/main
+            rsync -a /tmp/recovered-assets/ assets/pedals/ || true
+            python scripts/cache-pedal-images.py
+            python scripts/sync-prp-tracker.py
+            python scripts/sync-photo-backlog.py
+            python scripts/refresh-image-cache-report.py
+            python scripts/verify-photo-state.py
+            git add assets/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
+            git commit -m "Archive parallel verified pedal photos" || true
           done
           exit 1
