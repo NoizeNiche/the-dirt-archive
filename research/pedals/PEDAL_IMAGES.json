@@ -12389,7 +12389,7 @@
   {
     "builder": "Chellee Guitars",
     "pedal": "Odie - Modified Overdrive",
-    "image": null,
+    "image": "./assets/pedals/chellee-guitars/odie-modified-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chellee Guitars/Odie - Modified Overdrive.md"
   },
@@ -14513,7 +14513,7 @@
   {
     "builder": "Coolpedals",
     "pedal": "Strutter",
-    "image": null,
+    "image": "./assets/pedals/coolpedals/strutter/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coolpedals/Strutter.md",
     "image_source_page": "https://reverb.com/item/6993307-coolpedals-strutter"
