@@ -11836,7 +11836,7 @@
     "pedal": "Darkwater",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CDB Pedals/Darkwater.md"
   },
   {
     "builder": "Cedar Custom Effects",
@@ -11906,84 +11906,84 @@
     "pedal": "Capricorn - Rock Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Celestial Effects/Capricorn - Rock Distortion.md"
   },
   {
     "builder": "Celestial Effects",
     "pedal": "Sagittarius - Overdrive Boost",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Celestial Effects/Sagittarius - Overdrive Boost.md"
   },
   {
     "builder": "Celestial Effects",
     "pedal": "Taurus - Blues Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Celestial Effects/Taurus - Blues Overdrive.md"
   },
   {
     "builder": "Celestial Effects",
     "pedal": "Virgo - Rock Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Celestial Effects/Virgo - Rock Overdrive.md"
   },
   {
     "builder": "Celmo",
     "pedal": "Pimento Sardine Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Celmo/Pimento Sardine Overdrive.md"
   },
   {
     "builder": "Celmo",
     "pedal": "Sardine Can",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Celmo/Sardine Can.md"
   },
   {
     "builder": "Center Street Electronics",
     "pedal": "Drone Station Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Center Street Electronics/Drone Station Fuzz.md"
   },
   {
     "builder": "Center Street Electronics",
     "pedal": "Druid Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Center Street Electronics/Druid Fuzz.md"
   },
   {
     "builder": "Center Street Electronics",
     "pedal": "God Hates Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Center Street Electronics/God Hates Fuzz.md"
   },
   {
     "builder": "Center Street Electronics",
     "pedal": "Godly Red",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Center Street Electronics/Godly Red.md"
   },
   {
     "builder": "Center Street Electronics",
     "pedal": "Rasputin Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Center Street Electronics/Rasputin Fuzz.md"
   },
   {
     "builder": "Center Street Electronics",
     "pedal": "The Murphy",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Center Street Electronics/The Murphy.md"
   },
   {
     "builder": "Century",
@@ -11997,35 +11997,35 @@
     "pedal": "Century SHM-8 Heavy Metal",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Century/Century SHM-8 Heavy Metal.md"
   },
   {
     "builder": "Ceriatone",
     "pedal": "Centura Professional Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Ceriatone/Centura Professional Overdrive.md"
   },
   {
     "builder": "Ceriatone",
     "pedal": "Horse Breaker",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Ceriatone/Horse Breaker.md"
   },
   {
     "builder": "César Diaz",
     "pedal": "Diaz Texas Square Face",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/César Diaz/Diaz Texas Square Face.md"
   },
   {
     "builder": "ChadderBox Effects",
     "pedal": "Loud/Louder",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/ChadderBox Effects/Loud-Louder.md"
   },
   {
     "builder": "Chamber Of Sounds",
@@ -12039,14 +12039,14 @@
     "pedal": "Cosmic Owl",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Champion City Effects/Cosmic Owl.md"
   },
   {
     "builder": "Champion City Effects",
     "pedal": "Cosmonaut",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Champion City Effects/Cosmonaut.md"
   },
   {
     "builder": "Champion City Effects",
@@ -12060,42 +12060,42 @@
     "pedal": "Ezekiel",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Champion City Effects/Ezekiel.md"
   },
   {
     "builder": "Champion City Effects",
     "pedal": "Mjolnir Heavy Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Champion City Effects/Mjolnir Heavy Distortion.md"
   },
   {
     "builder": "Champion Leccy",
     "pedal": "Canny Fettle Boost",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Champion Leccy/Canny Fettle Boost.md"
   },
   {
     "builder": "Champion Leccy",
     "pedal": "Evil Twin",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Champion Leccy/Evil Twin.md"
   },
   {
     "builder": "Champion Leccy",
     "pedal": "The Divvy",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Champion Leccy/The Divvy.md"
   },
   {
     "builder": "Champion Leccy",
     "pedal": "The Dunsh",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Champion Leccy/The Dunsh.md"
   },
   {
     "builder": "Champion Leccy",
