@@ -256,7 +256,7 @@ jobs:
       - name: Upload recovery artifact
         uses: actions/upload-artifact@v4
         with:
-          name: photo-${{ strategy.job-index }}-${{ matrix.builder }}-${{ matrix.pedal }}
+          name: photo-${{ strategy.job-index }}
           path: artifact/
           if-no-files-found: ignore
           retention-days: 1
@@ -328,5 +328,5 @@ jobs:
               exit 0
             fi
             git commit -m "Archive parallel verified pedal photos"
-
+          done
           exit 1
