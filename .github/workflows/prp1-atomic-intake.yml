@@ -176,7 +176,7 @@ jobs:
           # Keep the research record, recovered asset, and intake state while
           # rebuilding shared generated files from the newest main. This prevents
           # a simultaneous photo-cache commit from being overwritten by PRP1.
-          git stash push -u -m "prp1-atomic-work" -- assets/pedals research/pedals research/PRP1_INTAKE .prp1-target.json
+          git stash push -u -m "prp1-atomic-work" -- assets/pedals research/pedals research/PRP1_INTAKE
           git restore -- research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
           git fetch origin main
           git rebase origin/main
@@ -199,18 +199,9 @@ jobs:
             fi
             echo "PRP1 push race detected; rebasing atomic unit (attempt $attempt/5)."
             git fetch origin main
-            git reset --hard origin/main
-            git stash push -u -m "prp1-push-retry" -- assets/pedals research/pedals research/PRP1_INTAKE .prp1-target.json
-            git restore -- research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
+            # The PRP1 unit is already committed. Rebase that commit directly
+            # instead of resetting/stashing generated files and ephemeral targets.
             git rebase origin/main
-            git stash pop
-            python scripts/sync-prp-tracker.py
-            python scripts/sync-photo-backlog.py
-            python scripts/prune-photo-review-queue.py
-            python scripts/refresh-image-cache-report.py
-            python scripts/verify-photo-state.py
-            git add assets/pedals research/pedals research/PRP1_INTAKE research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv index.html pedal-detail.html
-            git commit -m "PRP1: publish researched pedal with exact photo"
           done
           echo "Unable to publish the PRP1 unit after 5 push attempts."
           exit 1
