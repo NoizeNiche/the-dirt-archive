@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:03:53.181759+00:00",
+  "generated_at": "2026-09-24T10:04:52.201982+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1338,
-    "pictured": 1286,
-    "complete": 1286,
-    "research_pending": 2427
+    "researched": 1343,
+    "pictured": 1308,
+    "complete": 1308,
+    "research_pending": 2422
   },
   "next_target": {
     "builder": "Century",
@@ -56,30 +56,6 @@
     },
     {
       "builder": "Chase Tone",
-      "pedal": "'68 Red Velvet Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Tone",
-      "pedal": "Black Stardust BC109 Silicon Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Tone",
-      "pedal": "Blue Stardust BC108 Silicon Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Tone",
-      "pedal": "Candy Apple Red Glazed Germanium Fuzz Face",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Tone",
       "pedal": "Fuzz Fella Blue BC108C",
       "catalog_type": "",
       "research_record": ""
@@ -87,12 +63,6 @@
     {
       "builder": "Chase Tone",
       "pedal": "Metallic Blue Stardust Hi-Octave Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Tone",
-      "pedal": "Purple Stardust Hi-Octave Fuzz",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +135,36 @@
     {
       "builder": "Chemistry Design Werks",
       "pedal": "Gigawatt - Overdrive & Delay",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cherry Music",
+      "pedal": "Mighty Sound M1 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cherry Music",
+      "pedal": "Mighty Sound M2 Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cherry Music",
+      "pedal": "Mighty Sound M3 Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chesapeake Effects",
+      "pedal": "Flagship Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chicago Iron",
+      "pedal": "Octavian",
       "catalog_type": "",
       "research_record": ""
     }
