@@ -178,9 +178,23 @@ jobs:
           fi
           git commit -m "Archive fast verified pedal photos"
           for attempt in 1 2 3 4 5; do
-            if git fetch origin main && git rebase origin/main && git push; then
+            if git push origin main; then exit 0; fi
+            echo "Parallel photo push race; rehydrating all recovery artifacts on latest main (attempt $attempt/5)."
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/merge-photo-recovery-results.py
+            python scripts/cache-pedal-images.py
+            python scripts/sync-prp-tracker.py
+            python scripts/sync-photo-backlog.py
+            python scripts/prune-photo-review-queue.py
+            python scripts/build-research-queue.py
+            python scripts/refresh-image-cache-report.py
+            python scripts/verify-photo-state.py
+            git add assets/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
+            if git diff --cached --quiet; then
+              echo "Latest main already contains this recovery batch."
               exit 0
             fi
-            git rebase --abort || true
-          done
+            git commit -m "Archive parallel verified pedal photos"
+
           exit 1
