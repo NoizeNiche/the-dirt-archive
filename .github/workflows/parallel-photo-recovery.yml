@@ -44,7 +44,7 @@ jobs:
     if: ${{ needs.prepare.outputs.matrix != '' }}
     strategy:
       fail-fast: false
-      max-parallel: 12
+      max-parallel: 16
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
     runs-on: ubuntu-latest
     timeout-minutes: 8
@@ -71,7 +71,14 @@ jobs:
             playwright-chromium-${{ runner.os }}-
 
       - name: Ensure Chromium
-        run: npx playwright install --with-deps chromium
+        shell: bash
+        run: |
+          if compgen -G "$HOME/.cache/ms-playwright/chromium-*" > /dev/null; then
+            echo "Playwright Chromium restored from cache."
+          else
+            echo "Playwright Chromium cache miss; installing Chromium and dependencies."
+            npx playwright install --with-deps chromium
+          fi
 
       - name: Apply current exact source leads
         run: python scripts/apply-photo-source-overrides.py
