@@ -281,17 +281,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/a-m-custom-effects/twin-pro-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
       "research_record": "./research/pedals/A&M Custom Effects/Twin Pro - Overdrive.md",
       "image_source_page": "https://playground.com/templates/s/alphabet-letters-design",
-      "image_source_url": "https://images.playground.com/b547a734-4462-40db-a26e-0649b4d165b5.jpeg",
-      "image_source_page_verified": true,
-      "image_source_priority": 411,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/am/twinpro"
-      ],
-      "image_source_pages_verified": true
+      ]
     },
     {
       "company": "Abasi Concepts",
@@ -1688,10 +1684,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/akai/blues-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.zzounds.com/item--AKABLUESOD",
       "research_record": "./research/pedals/Akai/Blues Overdrive.md",
-      "image_source_url": "https://www.zzounds.com/favicon.ico",
       "image_source_page": "https://www.zzounds.com/item--AKABLUESOD"
     },
     {
@@ -7439,17 +7434,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/bffx-boutique-pedals/demon-d/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/Demon D.md",
       "image_source_page": "https://equipboard.com/items/bffx-demon-d",
-      "image_source_page_verified": true,
-      "image_source_priority": 68,
       "image_source_pages": [
         "https://equipboard.com/items/bffx-demon-d"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://equipboard.com/favicon.ico"
+      ]
     },
     {
       "company": "BFFX Boutique Pedals",
@@ -11394,17 +11385,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/bogner-amplification/oxford/primary.webp",
+      "image": null,
       "source_page": "https://www.sweetwater.com/store/detail/Oxford--bogner-oxford-fuzz-pedal",
       "research_record": "./research/pedals/PRP Batch 107/Oxford.md",
       "image_source_page": "https://www.zzounds.com/item--BOGOXFORD",
-      "image_source_page_verified": true,
-      "image_source_priority": 240,
       "image_source_pages": [
         "https://www.zzounds.com/item--BOGOXFORD"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://www.zzounds.com/favicon.ico"
+      ]
     },
     {
       "company": "Bogner Amplification",
@@ -11743,17 +11730,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/bootlegger-guitar/tube-shooter-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/updates/weekly/20161017",
       "research_record": "./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md",
       "image_source_page": "https://www.zzounds.com/item--BOTBTS1",
-      "image_source_page_verified": true,
-      "image_source_priority": 200,
       "image_source_pages": [
         "https://www.zzounds.com/item--BOTBTS1"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://www.zzounds.com/favicon.ico"
+      ]
     },
     {
       "company": "Bootlegger Guitar",
@@ -13296,11 +13279,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/budda/om-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm",
       "research_record": "./research/pedals/PRP Batch 127/budda-om-overdrive.md",
-      "image_source_page": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm",
-      "image_source_url": "https://www.budda.com/includes/images/BuddaLogo.png"
+      "image_source_page": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm"
     },
     {
       "company": "Budda",
@@ -14274,11 +14256,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/byron-amplification/green-concussion-fuzz/primary.webp",
+      "image": null,
       "source_page": "https://byronamplification.com/pedals",
       "research_record": "./research/pedals/PRP Batch 134/green-concussion-fuzz.md",
-      "image_source_page": "https://byronamplification.com/pedals",
-      "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -14287,11 +14268,10 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/byron-amplification/her-majesty-drive-fuzz/primary.webp",
+      "image": null,
       "source_page": "https://byronamplification.com/pedals",
       "research_record": "./research/pedals/PRP Batch 134/her-majesty-drive-fuzz.md",
-      "image_source_page": "https://byronamplification.com/pedals",
-      "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -14299,11 +14279,10 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/byron-amplification/jabberwocky-distortion/primary.webp",
+      "image": null,
       "source_page": "https://byronamplification.com/pedals",
       "research_record": "./research/pedals/PRP Batch 134/jabberwocky-distortion.md",
-      "image_source_page": "https://byronamplification.com/pedals",
-      "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -14323,11 +14302,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/byron-amplification/pai-mei-fuzz/primary.webp",
+      "image": null,
       "source_page": "https://byronamplification.com/pedals",
       "research_record": "./research/pedals/PRP Batch 134/pai-mei-fuzz.md",
-      "image_source_page": "https://byronamplification.com/pedals",
-      "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -14335,11 +14313,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/byron-amplification/phattie-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://byronamplification.com/pedals",
       "research_record": "./research/pedals/PRP Batch 134/phattie-overdrive.md",
-      "image_source_page": "https://byronamplification.com/pedals",
-      "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -14347,11 +14324,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/byron-amplification/poder-del-alma-fuzz/primary.webp",
+      "image": null,
       "source_page": "https://byronamplification.com/pedals",
       "research_record": "./research/pedals/PRP Batch 134/poder-del-alma-fuzz.md",
-      "image_source_page": "https://byronamplification.com/pedals",
-      "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -14360,11 +14336,10 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/byron-amplification/pow-boost-drive-and-fuzz/primary.webp",
+      "image": null,
       "source_page": "https://byronamplification.com/pedals",
       "research_record": "./research/pedals/PRP Batch 134/pow-boost-drive-and-fuzz.md",
-      "image_source_page": "https://byronamplification.com/pedals",
-      "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -14372,11 +14347,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/byron-amplification/shearling-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://byronamplification.com/pedals",
       "research_record": "./research/pedals/PRP Batch 134/shearling-overdrive.md",
-      "image_source_page": "https://byronamplification.com/pedals",
-      "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/t/5891069ae4fcb5e1a884bf9a/1485899419005/Logo2.png?format=1500w"
+      "image_source_page": "https://byronamplification.com/pedals"
     },
     {
       "company": "Byron Amplification",
@@ -15637,17 +15611,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/camuro/fuzz-rosso/primary.webp",
+      "image": null,
       "source_page": "https://camuro.co.jp/pedals",
       "research_record": "./research/pedals/PRP Batch 147/camuro-fuzz-rosso.md",
       "image_source_page": "https://www.freepnglogos.com/pics/google-logo",
-      "image_source_page_verified": true,
-      "image_source_priority": 256,
       "image_source_pages": [
         "https://camuro.co.jp/pedals"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-google-icon-logo-png-transparent-svg-vector-bie-supply-14.png"
+      ]
     },
     {
       "company": "Camuro",
@@ -16420,11 +16390,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/case-study-effects-co/lastlight-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://casestudyeffects.co/",
       "research_record": "./research/pedals/PRP Batch 152/case-study-effects-lastlight.md",
-      "image_source_page": "https://casestudyeffects.co/",
-      "image_source_url": "http://casestudyeffects.co/cdn/shop/files/Case_Study_Shopify_Logo.png?height=628&pad_color=ffffff&v=1705634586&width=1200"
+      "image_source_page": "https://casestudyeffects.co/"
     },
     {
       "company": "Casey Gooby",
@@ -16743,18 +16712,14 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/cat-s-eye-esp/hop-hed-fuzztone/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/catseye/hophed",
       "research_record": "./research/pedals/PRP Batch 155/cat-s-eye-hop-hed-fuzztone.md",
       "image_source_page": "https://equipboard.com/items/cat-s-eye-hop-hed-fuzztone",
-      "image_source_page_verified": true,
-      "image_source_priority": 469,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/catseye/hophed",
         "https://equipboard.com/items/cat-s-eye-hop-hed-fuzztone"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://equipboard.com/favicon.ico"
+      ]
     },
     {
       "company": "Cat's Eye ESP",
