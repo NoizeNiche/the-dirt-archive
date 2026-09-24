@@ -1314,7 +1314,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     const directImageUrls = Array.isArray(entry.image_source_urls) && entry.image_source_urls.length
       ? entry.image_source_urls.filter(value => /^https?:/i.test(String(value || "")))
       : (entry.image_source_url && /^https?:/i.test(entry.image_source_url) ? [entry.image_source_url] : []);
-    for (const imageUrl of [...new Set(directImageUrls)].slice(0, 8)) {
+    for (const imageUrl of [...new Set(directImageUrls)].slice(0, 3)) {
       candidates.push({
         url: imageUrl,
         sourcePage: entry.image_source_page || entry.source_page || null,
@@ -1330,7 +1330,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       candidates.filter(candidate => candidate.directImageOverride)
     );
     if (!selectedResult) {
-      for (const candidate of candidates.filter(candidate => candidate.directImageOverride).slice(0, 8)) {
+      for (const candidate of candidates.filter(candidate => candidate.directImageOverride).slice(0, 3)) {
         const shot = await screenshotDirectImageCandidate(candidate);
         if (shot) {
           selectedResult = { candidate, bytes: shot.bytes };
