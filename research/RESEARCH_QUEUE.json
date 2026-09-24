@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T12:20:48.423407+00:00",
+  "generated_at": "2026-09-24T12:21:29.918232+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1603,
+    "researched": 1604,
     "pictured": 1545,
     "complete": 1545,
-    "research_pending": 2162
+    "research_pending": 2161
   },
   "next_target": {
     "builder": "Colorsound / Sola Sound",
@@ -39,12 +39,6 @@
     {
       "builder": "ColorTone Fx / Pedal Tank",
       "pedal": "OD-909 Overdrive Pro",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colortone Pedals",
-      "pedal": "Parasite Overdrive",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +159,12 @@
     {
       "builder": "Compulsive Audio",
       "pedal": "Texas Holdem ZZ",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Compulsive Audio",
+      "pedal": "Thor's Hammer",
       "catalog_type": "",
       "research_record": ""
     }
