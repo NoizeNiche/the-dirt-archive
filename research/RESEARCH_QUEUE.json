@@ -1,41 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T13:49:48.496012+00:00",
+  "generated_at": "2026-09-24T13:50:35.008946+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1643,
+    "researched": 1646,
     "pictured": 1600,
     "complete": 1600,
-    "research_pending": 2122
+    "research_pending": 2119
   },
   "next_target": {
-    "builder": "Coolpedals",
-    "pedal": "Dirty Devil",
+    "builder": "Coolsound",
+    "pedal": "A117 Rough OVD",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Coolpedals",
-      "pedal": "Dirty Devil",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coolpedals",
-      "pedal": "Steam Machine",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coolpedals",
-      "pedal": "Strutter",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Coolsound",
       "pedal": "A117 Rough OVD",
@@ -165,6 +147,24 @@
     {
       "builder": "CopperSound Pedals",
       "pedal": "Foxcatcher - Overdrive & Boost",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CopperSound Pedals",
+      "pedal": "Foxcatcher V1 Overdrive & Boost",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CopperSound Pedals",
+      "pedal": "Foxcatcher V2 Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CopperSound Pedals",
+      "pedal": "Ion Warped Fuzz",
       "catalog_type": "",
       "research_record": ""
     }

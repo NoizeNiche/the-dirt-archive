@@ -1642,9 +1642,9 @@ Coolmusic,C-OV01 Crunchy Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedal
 Coolmusic,HG-7 High Gain,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Coolmusic/HG-7 High Gain.md
 Coolmusic,MT-6 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Coolmusic/MT-6 Distortion.md
 Coolmusic,Multiple Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Coolmusic/Multiple Distortion.md
-Coolpedals,Dirty Devil,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Coolpedals,Steam Machine,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Coolpedals,Strutter,Overdrive,NEEDED,NEEDED,NEEDED,
+Coolpedals,Dirty Devil,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Coolpedals/Dirty Devil.md
+Coolpedals,Steam Machine,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Coolpedals/Steam Machine.md
+Coolpedals,Strutter,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Coolpedals/Strutter.md
 Coolsound,A117 Rough OVD,Overdrive,NEEDED,NEEDED,NEEDED,
 Coolsound,A127 Dirty Bass,Distortion,NEEDED,NEEDED,NEEDED,
 Coopersonic,Deluxe Dual Valve Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,

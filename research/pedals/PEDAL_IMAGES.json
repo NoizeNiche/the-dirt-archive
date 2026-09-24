@@ -14493,21 +14493,21 @@
     "pedal": "Dirty Devil",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Coolpedals/Dirty Devil.md"
   },
   {
     "builder": "Coolpedals",
     "pedal": "Steam Machine",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Coolpedals/Steam Machine.md"
   },
   {
     "builder": "Coolpedals",
     "pedal": "Strutter",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Coolpedals/Strutter.md"
   },
   {
     "builder": "Coolsound",
