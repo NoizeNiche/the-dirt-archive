@@ -283,7 +283,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add research/pedals research/PRP1_INTAKE research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md index.html pedal-detail.html
+          git add assets/pedals research/pedals research/PRP1_INTAKE research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv index.html pedal-detail.html
           if git diff --cached --quiet; then
             echo "No PRP1 atomic changes to publish."
             exit 0
