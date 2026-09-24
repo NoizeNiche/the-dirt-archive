@@ -12149,7 +12149,7 @@
   {
     "builder": "Chaos Custom Shop / Chaos FX",
     "pedal": "K.O. Drive",
-    "image": null,
+    "image": "./assets/pedals/chaos-custom-shop-chaos-fx/k-o-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chaos Custom Shop - Chaos FX/K.O. Drive.md"
   },
@@ -12506,7 +12506,7 @@
   {
     "builder": "Chiu Luen",
     "pedal": "CL-1 Distortion",
-    "image": null,
+    "image": "./assets/pedals/chiu-luen/cl-1-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chiu Luen/CL-1 Distortion.md"
   },
@@ -13031,7 +13031,7 @@
   {
     "builder": "Clear Sound",
     "pedal": "Super Fuzz",
-    "image": null,
+    "image": "./assets/pedals/clear-sound/super-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clear Sound/Super Fuzz.md"
   },
@@ -13073,7 +13073,7 @@
   {
     "builder": "Cleveland Music Co.",
     "pedal": "Smuffle Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cleveland-music-co/smuffle-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cleveland Music Co./Smuffle Fuzz.md"
   },
@@ -13115,7 +13115,7 @@
   {
     "builder": "Clone Bro",
     "pedal": "Taurus",
-    "image": null,
+    "image": "./assets/pedals/clone-bro/taurus/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clone Bro/Taurus.md"
   },
@@ -13290,7 +13290,7 @@
   {
     "builder": "Cobrahawk",
     "pedal": "B12 Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cobrahawk/b12-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cobrahawk/B12 Fuzz.md"
   },
@@ -13339,7 +13339,7 @@
   {
     "builder": "Codtone",
     "pedal": "Ben Drive",
-    "image": null,
+    "image": "./assets/pedals/codtone/ben-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Codtone/Ben Drive.md"
   },
@@ -13381,35 +13381,35 @@
   {
     "builder": "Coffee Shop Pedals",
     "pedal": "Portafilter Dual Overdrive",
-    "image": null,
+    "image": "./assets/pedals/coffee-shop-pedals/portafilter-dual-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coffee Shop Pedals/Portafilter Dual Overdrive.md"
   },
   {
     "builder": "Coffin Case",
     "pedal": "Batula Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coffin-case/batula-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coffin Case/Batula Fuzz.md"
   },
   {
     "builder": "Coffin Case",
     "pedal": "Blood Drive",
-    "image": null,
+    "image": "./assets/pedals/coffin-case/blood-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coffin Case/Blood Drive.md"
   },
   {
     "builder": "Coffin Gear / Coffin Case",
     "pedal": "Batula Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coffin-gear-coffin-case/batula-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coffin Gear / Coffin Case/Batula Fuzz.md"
   },
   {
     "builder": "Coffin Gear / Coffin Case",
     "pedal": "BDFX-1 Blood Drive",
-    "image": null,
+    "image": "./assets/pedals/coffin-gear-coffin-case/bdfx-1-blood-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coffin Gear / Coffin Case/BDFX-1 Blood Drive.md"
   },
@@ -13486,35 +13486,35 @@
   {
     "builder": "COG Effects",
     "pedal": "TK-421 Distortion",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/tk-421-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/TK-421 Distortion.md"
   },
   {
     "builder": "COG Effects",
     "pedal": "TK-421-X Bass Distortion",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/tk-421-x-bass-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/TK-421-X Bass Distortion.md"
   },
   {
     "builder": "COG Effects",
     "pedal": "Wet Nuns Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/wet-nuns-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/Wet Nuns Fuzz.md"
   },
   {
     "builder": "Coggins Audio / Dinosaural",
     "pedal": "Cogmeister",
-    "image": null,
+    "image": "./assets/pedals/coggins-audio-dinosaural/cogmeister/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coggins Audio / Dinosaural/Cogmeister.md"
   },
   {
     "builder": "Coggins Audio / Dinosaural",
     "pedal": "Dan Solo Mid Booster / Drive",
-    "image": null,
+    "image": "./assets/pedals/coggins-audio-dinosaural/dan-solo-mid-booster-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coggins Audio / Dinosaural/Dan Solo Mid Booster / Drive.md"
   },
@@ -13528,84 +13528,84 @@
   {
     "builder": "Coggins Audio / Dinosaural",
     "pedal": "Dinosaural Tube Bender",
-    "image": null,
+    "image": "./assets/pedals/coggins-audio-dinosaural/dinosaural-tube-bender/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coggins Audio / Dinosaural/Dinosaural Tube Bender.md"
   },
   {
     "builder": "Coggins Audio / Dinosaural",
     "pedal": "Hypoid Drive",
-    "image": null,
+    "image": "./assets/pedals/coggins-audio-dinosaural/hypoid-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coggins Audio / Dinosaural/Hypoid Drive.md"
   },
   {
     "builder": "ColdCraft Effects",
     "pedal": "Black Dynamite MkII",
-    "image": null,
+    "image": "./assets/pedals/coldcraft-effects/black-dynamite-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ColdCraft Effects/Black Dynamite MkII.md"
   },
   {
     "builder": "ColdCraft Effects",
     "pedal": "Black Lime IC Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coldcraft-effects/black-lime-ic-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ColdCraft Effects/Black Lime IC Fuzz.md"
   },
   {
     "builder": "ColdCraft Effects",
     "pedal": "Black Shuck OD/Distortion",
-    "image": null,
+    "image": "./assets/pedals/coldcraft-effects/black-shuck-od-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ColdCraft Effects/Black Shuck OD Distortion.md"
   },
   {
     "builder": "ColdCraft Effects",
     "pedal": "Cascade MkII",
-    "image": null,
+    "image": "./assets/pedals/coldcraft-effects/cascade-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ColdCraft Effects/Cascade MkII.md"
   },
   {
     "builder": "ColdCraft Effects",
     "pedal": "Fiesta Fuzz Mini",
-    "image": null,
+    "image": "./assets/pedals/coldcraft-effects/fiesta-fuzz-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ColdCraft Effects/Fiesta Fuzz Mini.md"
   },
   {
     "builder": "ColdCraft Effects",
     "pedal": "Fiesta Fuzz MkII",
-    "image": null,
+    "image": "./assets/pedals/coldcraft-effects/fiesta-fuzz-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ColdCraft Effects/Fiesta Fuzz MkII.md"
   },
   {
     "builder": "ColdCraft Effects",
     "pedal": "Fusion Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coldcraft-effects/fusion-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ColdCraft Effects/Fusion Fuzz.md"
   },
   {
     "builder": "ColdCraft Effects",
     "pedal": "Ramrod Distortion",
-    "image": null,
+    "image": "./assets/pedals/coldcraft-effects/ramrod-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ColdCraft Effects/Ramrod Distortion.md"
   },
   {
     "builder": "ColdCraft Effects",
     "pedal": "Sweet Cream OD",
-    "image": null,
+    "image": "./assets/pedals/coldcraft-effects/sweet-cream-od/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ColdCraft Effects/Sweet Cream OD.md"
   },
   {
     "builder": "ColdCraft Effects",
     "pedal": "Sweet Kiwi MkII",
-    "image": null,
+    "image": "./assets/pedals/coldcraft-effects/sweet-kiwi-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ColdCraft Effects/Sweet Kiwi MkII.md"
   },
@@ -13619,14 +13619,14 @@
   {
     "builder": "Coleman",
     "pedal": "Angry Dragon mkII - Germanium Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coleman/angry-dragon-mkii-germanium-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coleman/Angry Dragon mkII - Germanium Fuzz.md"
   },
   {
     "builder": "Coleman",
     "pedal": "Astro Fuzz - Hybrid Germanium Silicon Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coleman/astro-fuzz-hybrid-germanium-silicon-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coleman/Astro Fuzz - Hybrid Germanium Silicon Fuzz.md"
   },
