@@ -1444,6 +1444,9 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
   try {
     const candidates = [];
     const pageUrl = preferredSourcePage(entry);
+    const deepSearchTokens = identityTokens(entry.pedal);
+    const genericPedalOnly = deepSearchTokens.length === 0;
+    const imageSearchFirst = deepReview && !genericPedalOnly;
 
     // A curated/explicit image source page is already a stronger lead than a
     // fresh maker-search query, so give that page the first chance to resolve.
@@ -1488,7 +1491,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       }
     }
 
-    if (!selectedResult) {
+    if (!selectedResult && !imageSearchFirst) {
       for (const pageUrl of pageUrls) {
       if (!pageUrl || !/^https?:/i.test(pageUrl)) continue;
       try {
@@ -3353,7 +3356,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     // Reverb's Sold Listings filter exposes previously sold listings, and Reverb
     // requires listing photos to show the exact item being sold. Verify the listing
     // identity first, then harvest its actual listing photos.
-    if (!selectedResult && IMAGE_SEARCH_ENABLED) {
+    if (!selectedResult && IMAGE_SEARCH_ENABLED && !imageSearchFirst) {
       const soldResults = await reverbSoldCandidates(page, entry, deepReview);
       diagnostic.soldCandidates = soldResults.length;
       const verifiedSold = [];
@@ -3447,7 +3450,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     // image search and other indexed web results. Deep-review records whose
     // curated source page already passed identity stay source-first to avoid
     // burning another full search cycle on the same hard case.
-    if (!selectedResult && IMAGE_SEARCH_ENABLED) {
+    if (!selectedResult && IMAGE_SEARCH_ENABLED && imageSearchFirst) {
       const searchResults = await imageSearchCandidates(page, entry, deepReview);
       diagnostic.imageSearchCandidates = searchResults.length;
       const verifiedSearch = [];
@@ -3645,6 +3648,14 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           }
         }
       }
+    }
+
+    // Non-deep-review or generic-name records still get the original
+    // source/search fallback order. Deep distinctive names were already given
+    // the fast image-search path above.
+    if (!selectedResult && IMAGE_SEARCH_ENABLED && !imageSearchFirst) {
+      // The existing source/sold/search stages above already ran in this mode.
+      // Leave this branch empty intentionally.
     }
 
     if (!selectedResult) {
