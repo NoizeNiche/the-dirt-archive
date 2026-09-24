@@ -9,7 +9,6 @@ on:
       - 'pedal-detail.html'
       - 'assets/**'
       - 'research/PEDAL_INDEX.json'
-      - 'research/pedals/PEDAL_IMAGES.json'
       - 'research/PRP_TRACKER.csv'
       - 'research/RESEARCH_QUEUE.json'
       - 'CURRENT_STATE.md'
