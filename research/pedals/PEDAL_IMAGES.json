@@ -11809,9 +11809,11 @@
   {
     "builder": "CBS-Arbiter",
     "pedal": "CBS-Arbiter Fuzz King",
-    "image": null,
+    "image": "./assets/pedals/cbs-arbiter/cbs-arbiter-fuzz-king/primary.webp",
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CBS-Arbiter/CBS-Arbiter Fuzz King.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/arbiter-cbs_fuzzking_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzking"
   },
   {
     "builder": "CBS-Arbiter",

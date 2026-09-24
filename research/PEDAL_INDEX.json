@@ -17764,9 +17764,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cbs-arbiter/cbs-arbiter-fuzz-king/primary.webp",
       "source_page": null,
-      "research_record": null,
+      "research_record": "./research/pedals/CBS-Arbiter/CBS-Arbiter Fuzz King.md",
       "image_source_page": "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzking",
       "image_source_page_verified": true,
       "image_source_pages_verified": true,
