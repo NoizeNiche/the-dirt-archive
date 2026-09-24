@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:20:33.024583+00:00",
+  "generated_at": "2026-09-24T10:21:03.898566+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1420,
+    "researched": 1422,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2345
+    "research_pending": 2343
   },
   "next_target": {
     "builder": "Chaser",
@@ -63,18 +63,6 @@
     {
       "builder": "Circus Freak Music",
       "pedal": "The Tattooed Lady",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Citadel Electronics",
-      "pedal": "Overtuber",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Citadel Electronics",
-      "pedal": "Particle Drive",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +153,18 @@
     {
       "builder": "Clay Jones",
       "pedal": "CJOD Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Claybridge Sound Systems / Claybridge Audio",
+      "pedal": "Fuzzmaster",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Claybridge Sound Systems / Claybridge Audio",
+      "pedal": "Fuzzmaster MKIV",
       "catalog_type": "",
       "research_record": ""
     }
