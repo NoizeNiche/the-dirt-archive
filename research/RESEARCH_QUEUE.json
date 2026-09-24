@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T11:37:32.496357+00:00",
+  "generated_at": "2026-09-24T11:39:01.604102+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
