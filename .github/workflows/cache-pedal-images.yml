@@ -94,10 +94,14 @@ jobs:
           # The old 60-second cap was the primary throughput bottleneck. Give each
           # scheduled runner a substantial browser window while leaving time for
           # image conversion, synchronization, and the commit/push phase.
-          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "120000"
+          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "45000"
           # Fresh unresolved records get a shorter bounded window; deep-review
           # hard cases retain the full recovery window above.
-          PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "45000"
+          PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "30000"
+          # Deep-review cases have already exhausted the ordinary search loop.
+          # Stop reopening the same dead-end set indefinitely; unresolved cases
+          # stay parked for a deliberate exact-source/manual pass.
+          PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "6"
         run: node scripts/browser-photo-cache.mjs
 
       - name: Download and cache verified pedal images
