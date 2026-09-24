@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '*/20 * * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - research/RESEARCH_WORKER_KICK
 
 permissions:
   contents: write
