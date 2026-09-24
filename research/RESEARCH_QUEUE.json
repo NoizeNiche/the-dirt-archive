@@ -1,83 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:21:24.720426+00:00",
+  "generated_at": "2026-09-24T10:25:03.475325+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1422,
+    "researched": 1432,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2343
+    "research_pending": 2333
   },
   "next_target": {
-    "builder": "Chaser",
-    "pedal": "HM-3 Heavy Metal",
+    "builder": "CKK Electronic",
+    "pedal": "Flaming Lips - US Style Distortion with Fat Boost",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Chaser",
-      "pedal": "HM-3 Heavy Metal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Ciclar",
-      "pedal": "Arquera Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Ciclar",
-      "pedal": "Motoquera Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Circuit Rider Effects",
-      "pedal": "SiClops",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Circular Time Hardware",
-      "pedal": "Acetone Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Circus Freak Music",
-      "pedal": "The Bearded Lady Fuzztone",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Circus Freak Music",
-      "pedal": "The Pickled Punk",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Circus Freak Music",
-      "pedal": "The Tattooed Lady",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Citadel Electronics",
-      "pedal": "Plutonium Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Citadel Electronics",
-      "pedal": "Vector",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "CKK Electronic",
       "pedal": "Flaming Lips - US Style Distortion with Fat Boost",
@@ -165,6 +105,66 @@
     {
       "builder": "Claybridge Sound Systems / Claybridge Audio",
       "pedal": "Fuzzmaster MKIV",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Clayton",
+      "pedal": "X-Treme DS-160 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Clayton",
+      "pedal": "X-Treme MT-170 Metal Driver",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Clayton",
+      "pedal": "X-Treme OD-160 Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Clear Sound",
+      "pedal": "Super Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cleveland Music Co.",
+      "pedal": "Bleepcakes Overfuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cleveland Music Co.",
+      "pedal": "EastSide Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cleveland Music Co.",
+      "pedal": "Flats Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cleveland Music Co.",
+      "pedal": "Midgeapocalypse Vintage Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cleveland Music Co.",
+      "pedal": "Old Stone Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cleveland Music Co.",
+      "pedal": "Smuffle Fuzz",
       "catalog_type": "",
       "research_record": ""
     }

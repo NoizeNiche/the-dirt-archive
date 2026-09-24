@@ -12354,7 +12354,7 @@
     "pedal": "HM-3 Heavy Metal",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chaser/HM-3 Heavy Metal.md"
   },
   {
     "builder": "CheeseBlocks Effects",
@@ -12718,14 +12718,14 @@
     "pedal": "Arquera Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Ciclar/Arquera Overdrive.md"
   },
   {
     "builder": "Ciclar",
     "pedal": "Motoquera Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Ciclar/Motoquera Fuzz.md"
   },
   {
     "builder": "Cicognani Engineering",
@@ -12788,7 +12788,7 @@
     "pedal": "SiClops",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Circuit Rider Effects/SiClops.md"
   },
   {
     "builder": "Circuitbenders",
@@ -12830,28 +12830,28 @@
     "pedal": "Acetone Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Circular Time Hardware/Acetone Fuzz.md"
   },
   {
     "builder": "Circus Freak Music",
     "pedal": "The Bearded Lady Fuzztone",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Circus Freak Music/The Bearded Lady Fuzztone.md"
   },
   {
     "builder": "Circus Freak Music",
     "pedal": "The Pickled Punk",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Circus Freak Music/The Pickled Punk.md"
   },
   {
     "builder": "Circus Freak Music",
     "pedal": "The Tattooed Lady",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Circus Freak Music/The Tattooed Lady.md"
   },
   {
     "builder": "Citadel Electronics",
@@ -12872,14 +12872,14 @@
     "pedal": "Plutonium Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Citadel Electronics/Plutonium Overdrive.md"
   },
   {
     "builder": "Citadel Electronics",
     "pedal": "Vector",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Citadel Electronics/Vector.md"
   },
   {
     "builder": "CKK Electronic",

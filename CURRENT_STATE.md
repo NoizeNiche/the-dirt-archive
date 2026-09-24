@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1422 researched / 1308 pictured / 1308 complete / 2343 research-pending / 114 researched-photo-pending**.
+Live catalog: **3765 total / 1432 researched / 1308 pictured / 1308 complete / 2333 research-pending / 124 researched-photo-pending**.
 
-**Next research target:** Chaser - HM-3 Heavy Metal.
+**Next research target:** CKK Electronic - Flaming Lips - US Style Distortion with Fat Boost.
 
-PRP1 closeout remains separate: 114 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 124 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-24T10:21:24.720426+00:00
+Last refreshed: 2026-09-24T10:25:03.475325+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
