@@ -3691,7 +3691,9 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     const results = await Promise.all(batch.map(async entry => {
       try {
         const review = reviewByKey.get(key(entry.company, entry.pedal));
-        const deepReview = review?.Status === 'DEEP_REVIEW';
+        const deepReview =
+          review?.Status === 'DEEP_REVIEW' ||
+          String(process.env.PHOTO_BROWSER_DEEP_REVIEW || 'false').toLowerCase() === 'true';
         const freshDeadlineMs = Math.max(
           15000,
           Number(process.env.PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS || 45000)
