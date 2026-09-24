@@ -17698,7 +17698,20 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": null,
+      "image_source_page": "https://reverb.com/item/663375-cbc-the-superfuzz-shin-ei-fy-6-univox-superfuzz-clone",
+      "image_source_page_verified": true,
+      "image_source_pages": [
+        "https://reverb.com/item/663375-cbc-the-superfuzz-shin-ei-fy-6-univox-superfuzz-clone",
+        "https://reverb.com/ca/item/1491164-cbc-pedals-the-superfuzz-electric-guitar-fuzz-pedal-fy-6-panasonic-c828-usa-made",
+        "https://reverb.com/item/70308297-cbc-pedals-univox-superfuzz-shin-ei-fy-6-clone"
+      ],
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--8RraDQst--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/o96okkls6vy1igl3unhi.jpg",
+        "https://rvb-img.reverb.com/i/s--s-K6btfv--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/yw0uu6hoqc3gj8ntsumu.jpg"
+      ],
+      "image_source_url": "https://rvb-img.reverb.com/i/s--8RraDQst--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/o96okkls6vy1igl3unhi.jpg",
+      "image_source_priority": 100000
     },
     {
       "company": "CBS-Arbiter",
