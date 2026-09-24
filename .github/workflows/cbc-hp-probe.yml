@@ -263,6 +263,79 @@ jobs:
           if-no-files-found: error
           retention-days: 1
 
+      - name: Probe exact CBC-related marketplace and archive leads
+        shell: bash
+        run: |
+          mkdir -p artifact/lead-probes
+          python - <<'PY'
+          import json, re, subprocess, urllib.parse, html
+          from pathlib import Path
+
+          targets=[
+            "Hop Hed Fuzztone","Hybrid Fuzz","Mista' Fuzz","Mutha' Fuzz",
+            "The Superfuzz","The Drive / Zendrive circuit","The Drive"
+          ]
+
+          def curl(url, timeout=12):
+            p=subprocess.run([
+              "curl","-L","--silent","--show-error","--compressed",
+              "--connect-timeout","4","--max-time",str(timeout),
+              "-A","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36",
+              "-H","Accept-Language: en-US,en;q=0.9",url
+            ],capture_output=True,text=True,errors="ignore",timeout=timeout+3)
+            return p.stdout or ""
+
+          out={}
+          for pedal in targets:
+            result={"pedal":pedal,"reverb":[],"wayback":[],"youtube":[]}
+
+            for query in [f'"{pedal}"',f'"CBC Pedals" "{pedal}"',f'CBC Pedals {pedal}']:
+              u="https://reverb.com/marketplace?query="+urllib.parse.quote(query)+"&product_type=effects-and-pedals"
+              raw=curl(u,10)
+              seen=set()
+              for m in re.finditer(r'href=["\']((?:https://)?(?:www\.)?reverb\.com(?:/[a-z]{2}(?:-[a-z]{2})?)?/item/[^"\']+)["\']',raw,re.I):
+                href=html.unescape(m.group(1))
+                if href.startswith("/"): href="https://reverb.com"+href
+                href=href.split("?")[0]
+                if href not in seen:
+                  seen.add(href)
+                  result["reverb"].append(href)
+              if len(result["reverb"])>=30: break
+
+            cdx=[
+              "https://web.archive.org/cdx/search/cdx?url=cbcpedals.com/*hop*&output=json&filter=statuscode:200&fl=timestamp,original&collapse=urlkey&limit=50",
+              "https://web.archive.org/cdx/search/cdx?url=cbcpedals.com/*"+urllib.parse.quote(pedal.lower().replace(" ","*"))+"*&output=json&filter=statuscode:200&fl=timestamp,original&collapse=urlkey&limit=50"
+            ]
+            for u in cdx:
+              raw=curl(u,10)
+              try: rows=json.loads(raw)
+              except: rows=[]
+              for row in rows[1:] if isinstance(rows,list) else []:
+                if isinstance(row,list) and len(row)>=2 and row[1] not in result["wayback"]:
+                  result["wayback"].append(row[1])
+
+            yq=urllib.parse.quote('"CBC Pedals" "'+pedal+'"')
+            raw=curl("https://www.youtube.com/results?search_query="+yq,10)
+            seen=set()
+            for m in re.finditer(r'"videoId":"([^"]+)"[\s\S]{0,1200}?"title":\{"runs":\[\{"text":"([^"]+)',raw):
+              vid=m.group(1)
+              if vid in seen: continue
+              seen.add(vid)
+              result["youtube"].append({"videoId":vid,"title":html.unescape(m.group(2))})
+            out[pedal]=result
+
+          Path("artifact/lead-probes/exact-leads.json").write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+          print(json.dumps(out,ensure_ascii=False,indent=2))
+          PY
+
+      - name: Upload exact CBC lead probe
+        uses: actions/upload-artifact@v4
+        with:
+          name: exact-cbc-leads
+          path: artifact/lead-probes/exact-leads.json
+          if-no-files-found: error
+          retention-days: 1
+
       - name: Capture CBC-specific YouTube thumbnail for inspection
         shell: bash
         run: |
