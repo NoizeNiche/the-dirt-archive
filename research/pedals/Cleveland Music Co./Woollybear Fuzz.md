@@ -4,28 +4,40 @@
 - **Archive parent:** Woollybear Fuzz
 - **Builder:** Cleveland Music Co.
 - **Catalog type:** Fuzz
-- **Identity:** Cleveland Music Co. Woollybear Fuzz.
+- **Identity:** Cleveland Music Co. Woollybear Fuzz, an all-silicon Bender-like fuzz with external bias, fat, and tone controls.
 
 ## What this pedal is
-The Dirt Archive's Scrape C census records this exact builder/model identity and classifies it as **Fuzz**. The retained project source does not preserve enough exact-model documentation to safely assign circuit lineage, full control layout, component values, or revision history.
+Cleveland Music Co. describes Woollybear as a creamy, squishy, Bender-like fuzz that can move from thin, gated, nasal sounds to thick, syrupy sustain. The builder specifically uses an all-silicon design for temperature stability. [1]
 
 ## Colorways
-No complete factory colorway sequence was established.
+The official product page establishes the standard UV-printed/powder-coated enclosure but does not document a complete historical factory colorway sequence. [1]
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+Documented controls:
+- **LEVEL**: overall output.
+- **BIAS**: changes the voltage to one silicon transistor and moves from gated/velcro textures through thick midrange-heavy sounds toward fizzy, overdrive-like settings.
+- **FUZZ**: saturation amount.
+- **TONE**: treble content.
+- **FAT**: bass entering the circuit. [1]
+
+Additional documented hardware:
+- True bypass.
+- Top-mounted audio/DC jacks.
+- 125B enclosure.
+- No battery snap.
+- Limited-run handmade production in Cleveland, Ohio. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+No formal numbered factory revision history was established.
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+The builder explicitly specifies **genuine Fairchild silicon transistors**. [1]
 
 ## Diode
-Unknown from the checked exact-model documentation.
+No exact-model diode specification was established.
 
 ## Sound
-The model is documented as fuzz. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+Woollybear spans gated, thin fuzz through thick, mid-heavy and highly saturated fuzz. The Bias, Fuzz, and Fat controls are intentionally interactive, and the builder notes that the pedal can clean up into usable overdrive with the guitar volume rolled back. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. Cleveland Music Co. — Woollybear Fuzz: https://clevelandmusicco.com/pedals/woollybear-fuzz/
