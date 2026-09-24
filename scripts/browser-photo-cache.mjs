@@ -1790,7 +1790,24 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     }
 
     async function tryImages(list) {
-      for (const candidate of list.slice(0, CANDIDATE_LIMIT)) {
+      const candidates = list
+        .filter(candidate => candidate?.url)
+        .slice(0, CANDIDATE_LIMIT);
+
+      // Test the bounded candidate set concurrently. The old implementation
+      // serialized every CDN request, so one blocked image host could stall an
+      // entire pedal attempt. Parallel requests preserve the same identity rules
+      // while dramatically reducing wall-clock time.
+      const results = await Promise.all(candidates.map(async candidate => {
+        const keyUrl = String(candidate.url || '').split('#')[0];
+        const captured = networkImageBodies.get(keyUrl);
+        if (captured) {
+          const bytes = await captured.promise;
+          if (bytes && imageBytesLookComplete(bytes, captured.type)) {
+            return { candidate, bytes };
+          }
+        }
+
         try {
           const response = await page.request.get(candidate.url, { timeout: IMAGE_TIMEOUT });
           const type = (response.headers()['content-type'] || '').toLowerCase();
@@ -1802,22 +1819,35 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           }
         } catch {}
 
-        // Exact source-page candidates can be valid even when the raw request
-        // is blocked by a CDN. Re-render the same URL in a fresh browser image
-        // document while preserving the verified source-page referrer. Do not
-        // apply this to search-engine candidates whose identity was not proven
-        // by the image URL itself.
+        return { candidate, bytes: null };
+      }));
+
+      // Preserve source ranking when multiple candidates succeed.
+      const firstDirect = results.find(result => result.bytes);
+      if (firstDirect) {
+        return {
+          candidate: firstDirect.candidate,
+          bytes: firstDirect.bytes
+        };
+      }
+
+      // Only use browser-rendered image fallbacks after the fast network pass
+      // fails. Limit these to the highest-ranked exact-source candidates so a
+      // protected CDN cannot trigger another serial wall-clock drain.
+      for (const result of results.slice(0, 4)) {
+        const candidate = result.candidate;
         if (
-          candidate?.sourcePage &&
-          (!candidate.searchResult || candidate.strongSearchIdentity) &&
-          !candidate.searchUrl &&
-          !candidate.directImageOverride &&
-          !candidate.rawVerifiedPageImage
-        ) {
-          const documentShot = await screenshotImageDocumentCandidate(candidate, 140);
-          if (documentShot) {
-            return { candidate, bytes: documentShot.bytes };
-          }
+          !candidate?.sourcePage ||
+          candidate.directImageOverride ||
+          candidate.rawVerifiedPageImage ||
+          (candidate.searchResult && !candidate.strongSearchIdentity)
+        ) continue;
+        const documentShot = await screenshotImageDocumentCandidate(candidate, 140);
+        if (documentShot) {
+          return {
+            candidate,
+            bytes: documentShot.bytes
+          };
         }
       }
       return null;
