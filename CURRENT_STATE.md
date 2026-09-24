@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1646 researched / 1600 pictured / 1600 complete / 2119 research-pending / 46 researched-photo-pending**.
+Live catalog: **3765 total / 1648 researched / 1600 pictured / 1600 complete / 2117 research-pending / 48 researched-photo-pending**.
 
-**Next research target:** Coolsound - A117 Rough OVD.
+**Next research target:** Coopersonic - Deluxe Dual Valve Overdrive.
 
-PRP1 closeout remains separate: 46 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 48 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-24T13:50:35.008946+00:00
+Last refreshed: 2026-09-24T13:51:08.978262+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints

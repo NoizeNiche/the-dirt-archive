@@ -1,35 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T13:50:35.008946+00:00",
+  "generated_at": "2026-09-24T13:51:08.978262+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1646,
+    "researched": 1648,
     "pictured": 1600,
     "complete": 1600,
-    "research_pending": 2119
+    "research_pending": 2117
   },
   "next_target": {
-    "builder": "Coolsound",
-    "pedal": "A117 Rough OVD",
+    "builder": "Coopersonic",
+    "pedal": "Deluxe Dual Valve Overdrive",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Coolsound",
-      "pedal": "A117 Rough OVD",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coolsound",
-      "pedal": "A127 Dirty Bass",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Coopersonic",
       "pedal": "Deluxe Dual Valve Overdrive",
@@ -165,6 +153,18 @@
     {
       "builder": "CopperSound Pedals",
       "pedal": "Ion Warped Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CopperSound Pedals",
+      "pedal": "Kingpin Germanium Clipper",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CopperSound Pedals",
+      "pedal": "Mustard Gas - Lo-Fi / Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
