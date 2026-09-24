@@ -12,6 +12,7 @@ import time
 import urllib.request
 import urllib.parse
 import html
+import subprocess
 from pathlib import Path
 
 from PIL import Image, ImageOps
@@ -164,6 +165,7 @@ def fetch_image(url, referer=None):
     }
     if referer and referer.startswith("http"):
         headers["Referer"] = referer
+
     request = urllib.request.Request(url, headers=headers)
     last_error = None
     for attempt in range(2):
@@ -177,6 +179,40 @@ def fetch_image(url, referer=None):
             last_error = exc
             if attempt < 1:
                 time.sleep(2 ** attempt)
+
+    # Some marketplace CDNs reject urllib's HTTP fingerprint while allowing
+    # a conventional browser-style curl request. Keep this fallback bounded
+    # and only return bytes that still satisfy the archive size contract.
+    curl_cmd = [
+        "curl", "-L", "--silent", "--show-error", "--fail", "--compressed",
+        "--connect-timeout", "4", "--max-time", "12",
+        "-A", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+              "Chrome/140.0.0.0 Safari/537.36",
+        "-H", headers["Accept"],
+    ]
+    if referer and referer.startswith("http"):
+        curl_cmd += ["-e", referer]
+    curl_cmd.append(url)
+    try:
+        proc = subprocess.run(
+            curl_cmd,
+            capture_output=True,
+            timeout=15,
+            check=False,
+        )
+        if proc.returncode == 0:
+            data = proc.stdout
+            if len(data) > MAX_BYTES:
+                raise RuntimeError("image exceeds 25 MB download limit")
+            if data:
+                return data
+            last_error = RuntimeError("curl returned no image bytes")
+        else:
+            stderr = (proc.stderr or b"").decode("utf-8", "replace").strip()
+            last_error = RuntimeError(stderr or f"curl exited {proc.returncode}")
+    except Exception as exc:
+        last_error = exc
+
     raise RuntimeError(str(last_error))
 
 
