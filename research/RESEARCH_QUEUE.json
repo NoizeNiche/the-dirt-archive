@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:16:02.375760+00:00",
+  "generated_at": "2026-09-24T10:16:56.734273+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1396,
+    "researched": 1403,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2369
+    "research_pending": 2362
   },
   "next_target": {
     "builder": "Chaser",
@@ -21,48 +21,6 @@
     {
       "builder": "Chaser",
       "pedal": "HM-3 Heavy Metal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chris Custom",
-      "pedal": "DF-1 Dr.Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chris Custom",
-      "pedal": "Dr.Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chris Custom",
-      "pedal": "Dr.Muff",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chris Custom",
-      "pedal": "Dr.Scream",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chris Custom",
-      "pedal": "Dr.Silvery",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chris Custom",
-      "pedal": "Fratz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chris Custom",
-      "pedal": "Loud Crusher",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +123,48 @@
     {
       "builder": "Circuitous FX",
       "pedal": "FZ-BRK",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Circular Time Hardware",
+      "pedal": "Acetone Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Circus Freak Music",
+      "pedal": "The Bearded Lady Fuzztone",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Circus Freak Music",
+      "pedal": "The Pickled Punk",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Circus Freak Music",
+      "pedal": "The Tattooed Lady",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Citadel Electronics",
+      "pedal": "Overtuber",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Citadel Electronics",
+      "pedal": "Particle Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Citadel Electronics",
+      "pedal": "Plutonium Overdrive",
       "catalog_type": "",
       "research_record": ""
     }
