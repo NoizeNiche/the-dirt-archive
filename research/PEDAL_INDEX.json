@@ -1,5 +1,5 @@
 {
-  "version": "data-20260924-prp1-fuzz-phazer-photo-reset",
+  "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
   "count": 3765,
   "pedals": [
     {
@@ -17795,7 +17795,14 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzphazer"
       ],
-      "image_source_priority": 100000
+      "image_source_priority": 100000,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/arbiter-cbs_fuzzphazer_001.jpg",
+      "image_source_urls": [
+        "https://files.effectsdatabase.com/gear/pics/arbiter-cbs_fuzzphazer_001.jpg",
+        "https://files.effectsdatabase.com/gear/thumbs/arbiter-cbs_fuzzphazer_001.jpg",
+        "https://files.effectsdatabase.com/gear/pics/arbiter-cbs_fuzzphazer_01.jpg",
+        "https://files.effectsdatabase.com/gear/thumbs/arbiter-cbs_fuzzphazer_01.jpg"
+      ]
     },
     {
       "company": "CBS-Arbiter",
