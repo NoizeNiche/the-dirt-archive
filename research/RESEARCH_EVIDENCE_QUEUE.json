@@ -1,6 +1,6 @@
 {
   "version": "research-evidence-v1",
-  "generatedAt": "2026-09-24T16:50:42.686Z",
+  "generatedAt": "2026-09-24T17:12:04.587Z",
   "purpose": "Autonomous evidence collection. Canonical research prose is written only after verification.",
   "foremanRule": "At least 2 distinct source hosts plus 1 strong exact-identity source before synthesis.",
   "counts": {
@@ -11,588 +11,8 @@
   },
   "records": [
     {
-      "builder": "Fortin",
-      "pedal": "Blade",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fortin",
-      "pedal": "Fourteen",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fortin",
-      "pedal": "Kali",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fortin",
-      "pedal": "Natas Distortion",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxgear",
-      "pedal": "Bass Muffin",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxgear",
-      "pedal": "Cream",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxgear",
-      "pedal": "Fenix",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxgear",
-      "pedal": "Manic",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxgear",
-      "pedal": "Muffin",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxgear",
-      "pedal": "Rats",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxgear",
-      "pedal": "Ryder",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxgear",
-      "pedal": "Sinister",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxpedal",
-      "pedal": "Defector",
-      "catalogType": "Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxpedal",
-      "pedal": "The City V2",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxpedal",
-      "pedal": "Vixen",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxrox Electronics",
-      "pedal": "CC Hybrid2",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxrox Electronics",
-      "pedal": "Festival Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxrox Electronics",
-      "pedal": "FR 100 Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxrox Electronics",
-      "pedal": "Hot Silicon Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxrox Electronics",
-      "pedal": "Hot Silicon2 Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxrox Electronics",
-      "pedal": "Mini ZIM",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Foxrox Electronics",
-      "pedal": "ZIM Dual Drive",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Frank Marino Audio",
-      "pedal": "Dragonfly",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Frank Marino Audio",
-      "pedal": "Juggernaut",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Frantone Electronics",
-      "pedal": "Brooklyn Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Friedman Amplification",
-      "pedal": "BE-OD",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Friedman Amplification",
-      "pedal": "BE-OD Deluxe",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Friedman Amplification",
-      "pedal": "Dirty Shirley Pedal",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Friedman Amplification",
-      "pedal": "Fuzz Fiend",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Friedman Amplification",
-      "pedal": "Golden Pearl",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Friedman Amplification",
-      "pedal": "Motor City Drive",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Friedman Amplification",
-      "pedal": "Smallbox Overdrive Pedal",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fuhrmann",
-      "pedal": "Big Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fuhrmann",
-      "pedal": "Classic Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fuhrmann",
-      "pedal": "Punch Box",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "69 Pedal mkII",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "70 Pedal-BC",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "Full-Drive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "Full-Drive1",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "Full-Drive2 v2",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "Full-Drive3",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "Hi-Mu",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "Limited Edition OCD",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "Mas Malo",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "OCD",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "OCD-Germanium",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "OCDv2",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "Octafuzz 2",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "PlimSoul mkII",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "Queen Bee",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "Soul-Bender v2",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "Ultimate Octave",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Fuzzrocious Pedals",
-      "pedal": "Cat Tail",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Gamechanger Audio",
-      "pedal": "Plasma Pedal",
-      "catalogType": "Distortion / Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Greenhouse Effects",
-      "pedal": "Nobrainer",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Greenhouse Effects",
-      "pedal": "Outlier",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Greenhouse Effects",
-      "pedal": "Remedy",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
       "builder": "Greer Amps",
-      "pedal": "390 Vintage OD/Preamp",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Greer Amps",
-      "pedal": "Batch O' Ass",
+      "pedal": "SOUL THRUST FUZZ UNIT",
       "catalogType": "Distortion / Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -602,17 +22,7 @@
     },
     {
       "builder": "Greer Amps",
-      "pedal": "Black Fuzz",
-      "catalogType": "Distortion / Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Greer Amps",
-      "pedal": "Black Mountain Crunch Drive",
+      "pedal": "Southland Harmonic Overdrive",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -622,27 +32,7 @@
     },
     {
       "builder": "Greer Amps",
-      "pedal": "Brown Bomber",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Greer Amps",
-      "pedal": "Fuzzy Wooly Bear",
-      "catalogType": "Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Greer Amps",
-      "pedal": "Ghetto Driver",
+      "pedal": "Sucker Punch Distortion",
       "catalogType": "Distortion / Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -652,8 +42,8 @@
     },
     {
       "builder": "Greer Amps",
-      "pedal": "Ghetto Stomp",
-      "catalogType": "Distortion / Fuzz / Overdrive",
+      "pedal": "Supa Cobra Overdrive",
+      "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
       "distinctHostCount": 0,
@@ -662,7 +52,17 @@
     },
     {
       "builder": "Greer Amps",
-      "pedal": "Gorilla Warfare MKII",
+      "pedal": "Super Hornet",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Greer Amps",
+      "pedal": "Sweetback Driver",
       "catalogType": "Distortion",
       "sources": [],
       "sourceCount": 0,
@@ -672,7 +72,17 @@
     },
     {
       "builder": "Greer Amps",
-      "pedal": "Green Giant",
+      "pedal": "Tarpit",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Greer Amps",
+      "pedal": "Texas Voodoo",
       "catalogType": "Distortion / Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -682,17 +92,7 @@
     },
     {
       "builder": "Greer Amps",
-      "pedal": "Hammer",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Greer Amps",
-      "pedal": "Lightspeed Organic Overdrive",
+      "pedal": "Tomahawk Deluxe Drive",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -702,47 +102,7 @@
     },
     {
       "builder": "Greer Amps",
-      "pedal": "Little Samson",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Greer Amps",
-      "pedal": "Mizuki Blue",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Greer Amps",
-      "pedal": "Moonshot Germanium Pre",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Greer Amps",
-      "pedal": "Mori Drive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Greer Amps",
-      "pedal": "No.9 Drive and Distortion",
+      "pedal": "Tone Smuggler",
       "catalogType": "Distortion / Fuzz / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -751,8 +111,168 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Greer Amps",
-      "pedal": "Peacemaker",
+      "builder": "GuitarSlinger Effects",
+      "pedal": "87 MKIII High Gain Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Guyatone",
+      "pedal": "HD-2 Harmonic Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "HardWire",
+      "pedal": "CM-2 Tube Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "HardWire",
+      "pedal": "none identified",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "HardWire",
+      "pedal": "SC-2 Valve Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "HardWire",
+      "pedal": "TL-2 Metal Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Henretta Engineering",
+      "pedal": "H-Bomb",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO 9.0",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO Apache",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO C-Luxe",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO Custom",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO Jr",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO Maximus",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO Nord 70+",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO Nord+",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO SC",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO Standard",
       "catalogType": "Distortion / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -761,8 +281,38 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Greer Amps",
-      "pedal": "Razor Burn",
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FITZO+",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FUGAZI",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FUGAZI Jr",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "GRAMPS",
       "catalogType": "Distortion / Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -771,8 +321,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Greer Amps",
-      "pedal": "Reactor #4",
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "GRAMPS+",
       "catalogType": "Distortion / Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -781,8 +331,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Greer Amps",
-      "pedal": "Relic Drive",
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "TÔNKer",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -791,8 +341,28 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Greer Amps",
-      "pedal": "Royal Velvet",
+      "builder": "Horizon Devices",
+      "pedal": "Precision Drive",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Hudson Electronics",
+      "pedal": "Broadcast",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Hudson Electronics",
+      "pedal": "Broadcast-AP",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -801,9 +371,439 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Greer Amps",
-      "pedal": "SOMA 63 Vintage Preamp",
+      "builder": "Hudson Electronics",
+      "pedal": "Buzzoid",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Hudson Electronics",
+      "pedal": "Motorcycle — limited collaboration with Joe's Pedals",
       "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Hudson Electronics",
+      "pedal": "Shapes Of Things",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Hudson Electronics",
+      "pedal": "Sidecar",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Hudson Electronics",
+      "pedal": "Standard Machine",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Hudson Electronics",
+      "pedal": "Stroll On Jnr",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Hungry Robot",
+      "pedal": "FZ",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Hungry Robot",
+      "pedal": "The Collective",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Hungry Robot",
+      "pedal": "The Lumen",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "DS7",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "FZ7",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "FZMINI",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "JD9",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "JEMINI",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "NTS",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "OD850",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "SD9M",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "SM7",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "TK999HT",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "TK999OD",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "TS7",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "TS808",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "TS808DX",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "TS808HW",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "TS808HWV2",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "TS9",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "TS9B",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "TS9DX",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "TSMINI",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Ibanez",
+      "pedal": "TSV808",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "-D4 Distortion Reissue",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Black Fortress Bass Distortion",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Blackout",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Blasteroid Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Blower Box Bass Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Blower Box Deluxe",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Cool Buzz Bass Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Death Master",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "DeathRay",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Dungeon Master",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Han-Taun Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Heavy Weapon",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Hobo Santa Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Holy Trooper Fuzz (retired)",
+      "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
       "distinctHostCount": 0,
