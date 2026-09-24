@@ -12053,7 +12053,7 @@
     "pedal": "El Gato Malo",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Champion City Effects/El Gato Malo.md"
   },
   {
     "builder": "Champion City Effects",
@@ -12102,35 +12102,35 @@
     "pedal": "The Fat Gett",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Champion Leccy/The Fat Gett.md"
   },
   {
     "builder": "Champion Leccy",
     "pedal": "The Gett",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Champion Leccy/The Gett.md"
   },
   {
     "builder": "Chancho Electronics",
     "pedal": "Plumbus Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chancho Electronics/Plumbus Fuzz.md"
   },
   {
     "builder": "Chandler",
     "pedal": "Chandler Tube Driver",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chandler/Chandler Tube Driver.md"
   },
   {
     "builder": "Chandler Limited",
     "pedal": "Germanium Drive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chandler Limited/Germanium Drive.md"
   },
   {
     "builder": "Chaos Custom Shop / Chaos FX",
