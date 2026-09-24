@@ -1,0 +1,139 @@
+name: Temporary PRP research probe
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - research/PRP_RESEARCH_PROBE_KICK
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v7
+      - name: Search exact CBC targets
+        shell: bash
+        run: |
+          mkdir -p artifact
+          python - <<'PY'
+          import json, re, subprocess, html, urllib.parse
+          from pathlib import Path
+
+          targets = [
+            ("CBC Pedals","Hop Hed Fuzztone"),
+            ("CBC Pedals","Hybrid Fuzz"),
+            ("CBC Pedals","Mista' Fuzz"),
+            ("CBC Pedals","Mutha' Fuzz"),
+            ("CBC Pedals","The Drive"),
+            ("CBC Pedals","The Drive / Zendrive circuit"),
+            ("CBC Pedals","The Superfuzz"),
+          ]
+
+          def curl(url, max_time=10):
+              p=subprocess.run([
+                "curl","-L","--silent","--show-error","--compressed",
+                "--connect-timeout","4","--max-time",str(max_time),
+                "-A","Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36",
+                "-H","Accept-Language: en-US,en;q=0.9",url
+              ],capture_output=True,text=True,errors="ignore",timeout=max_time+3)
+              return p.stdout or ""
+
+          def clean(value):
+              return re.sub(r"s+"," ",html.unescape(re.sub(r"<[^>]+>"," ",value or ""))).strip()
+
+          out=[]
+          for builder,pedal in targets:
+              queries=[
+                f'"{builder}" "{pedal}"',
+                f'"{pedal}" "{builder}" pedal',
+                f'"{pedal}" CBC pedals'
+              ]
+              web=[]
+              images=[]
+              seen_web=set()
+              seen_img=set()
+
+              for q in queries:
+                enc=urllib.parse.quote(q)
+                for base,label in [
+                  ("https://www.bing.com/search?q=","bing-web"),
+                  ("https://html.duckduckgo.com/html/?q=","ddg-web"),
+                  ("https://www.google.com/search?q=","google-web")
+                ]:
+                  raw=curl(base+enc,8)
+                  for m in re.finditer(r'<li[^>]+class=["'][^"']*b_algo[^"']*["'][^>]*>[sS]*?<h2[^>]*>s*<a[^>]+href=["']([^"']+)["'][^>]*>([sS]*?)</a>[sS]*?</li>',raw,re.I):
+                    url=html.unescape(m.group(1))
+                    title=clean(m.group(2))
+                    if url.startswith("http") and url not in seen_web:
+                      seen_web.add(url); web.append({"engine":label,"title":title,"url":url})
+                  for m in re.finditer(r'https?://[^"'s<>]+',raw,re.I):
+                    url=urllib.parse.unquote(m.group(0)).rstrip('),.;')
+                    low=url.lower()
+                    if url.startswith("http") and any(host in low for host in [
+                      "reverb.com","effectsdatabase.com","equipboard.com","guitargearfinder.com",
+                      "guitarpedalx.com","thegearpage.net","youtube.com","cbcpedals.com"
+                    ]) and url not in seen_web:
+                      seen_web.add(url); web.append({"engine":label,"title":"","url":url})
+
+                raw=curl("https://www.bing.com/images/search?form=HDRSC2&q="+enc,8)
+                for mm in re.finditer(r'(?:data-m|m)=["']([^"']+)',raw,re.I):
+                  try: obj=json.loads(html.unescape(mm.group(1)))
+                  except: continue
+                  murl=obj.get("murl","")
+                  if not murl or murl in seen_img: continue
+                  seen_img.add(murl)
+                  images.append({
+                    "title":obj.get("t",""),
+                    "purl":obj.get("purl",""),
+                    "murl":murl,
+                    "source":obj.get("s",""),
+                    "desc":obj.get("desc","")
+                  })
+
+              # Keep high-signal source domains and exact-name hits near the front.
+              def rank(x):
+                h=(x.get("title","")+" "+x.get("url", "")+" "+x.get("purl","")).lower()
+                score=0
+                if pedal.lower() in h: score+=100
+                if builder.lower() in h: score+=80
+                if "reverb.com" in h: score+=60
+                if "effectsdatabase.com" in h: score+=50
+                if "cbcpedals.com" in h: score+=45
+                if "youtube.com" in h: score+=30
+                return -score
+
+              web=sorted(web,key=rank)[:40]
+              images=sorted(images,key=rank)[:60]
+
+              for x in images[:12]:
+                if x["murl"].startswith("http") and x["murl"].lower().split("?")[0].endswith((".jpg",".jpeg",".png",".webp")):
+                  fn="artifact/"+re.sub(r"[^a-z0-9]+","-",builder+"-"+pedal+"-"+str(images.index(x)+1)).strip("-")+".jpg"
+                  try:
+                    p=subprocess.run([
+                      "curl","-L","--silent","--show-error","--fail",
+                      "--connect-timeout","4","--max-time","8","-A","Mozilla/5.0",
+                      "-o",fn,x["murl"]
+                    ],capture_output=True,timeout=11)
+                    if p.returncode==0 and Path(fn).stat().st_size>3000:
+                      x["artifact"]=fn
+                  except: pass
+
+              out.append({"builder":builder,"pedal":pedal,"web":web,"images":images})
+
+          Path("artifact/prp-next-research.json").write_text(json.dumps(out,ensure_ascii=False,indent=2)+"
+",encoding="utf-8")
+          print(json.dumps(out,ensure_ascii=False,indent=2))
+          PY
+
+      - name: Upload research probe
+        uses: actions/upload-artifact@v4
+        with:
+          name: prp-next-research
+          path: artifact/
+          if-no-files-found: error
+          retention-days: 1
