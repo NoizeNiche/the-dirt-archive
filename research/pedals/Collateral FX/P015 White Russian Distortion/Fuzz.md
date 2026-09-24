@@ -2,6 +2,7 @@
 
 ## PRP identity
 - **Archive parent:** P015 White Russian
+- **Catalog identity:** P015 White Russian Distortion/Fuzz
 - **Builder:** Collateral FX
 - **Catalog type:** Fuzz / Distortion
 - **Identity:** Collateral FX White Russian, a Sovtek Big Muff reproduction from the early 1990s family.
