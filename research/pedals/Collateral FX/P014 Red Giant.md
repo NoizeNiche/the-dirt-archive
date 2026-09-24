@@ -2,6 +2,7 @@
 
 ## PRP identity
 - **Archive parent:** P014 Red Giant Distortion
+- **Catalog identity:** P014 Red Giant
 - **Builder:** Collateral FX
 - **Catalog type:** Distortion / Preamp
 - **Identity:** Collateral FX Red Giant Distortion, a Revv G3-inspired high-gain distortion/preamp.
