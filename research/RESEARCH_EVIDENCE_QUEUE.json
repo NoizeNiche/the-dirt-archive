@@ -1,13 +1,814 @@
 {
   "version": "research-evidence-v1",
-  "generatedAt": "2026-09-24T14:26:47.769Z",
+  "generatedAt": "2026-09-24T14:27:59.205Z",
   "purpose": "Autonomous evidence collection. Canonical research prose is written only after verification.",
   "foremanRule": "At least 2 distinct source hosts plus 1 strong exact-identity source before synthesis.",
   "counts": {
     "targetsWithEvidence": 0,
     "evidenceReady": 0,
     "moreSourcesNeeded": 0,
-    "noUsableEvidence": 0
+    "noUsableEvidence": 80
   },
-  "records": []
+  "records": [
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "DD-1 Dual Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "DD-1B Dual Distortion for Bass",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "FB-1 Fuzz Drive Booster",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "FD-1 Exciting Fuzz Drive",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "FD-2 Low Noise Fat Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "HM-1 High Gain Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "OD-1 Over Drive Booster with Loud Circuit",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "SD-1 Skunk Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "SW-1 Switching Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "SW-1B Switching Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crate",
+      "pedal": "CC-2681 Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Rock'n'Roll Effecter",
+      "pedal": "Nasty Drive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Rock'n'Roll Effecter",
+      "pedal": "SWAG FACE",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Rock'n'Roll Effecter",
+      "pedal": "THE FOXY BLOW",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Rock'n'Roll Effecter",
+      "pedal": "TONE BENDER M.K Ⅰ. Ⅴ",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Black Magic",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Black Magic MkII",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Blackface Stardust V2",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Constellation",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Constellation OC41",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Constellation OC45",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Constellation of Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Crossfire",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Falcon",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Falcon - Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Heatseeker",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Hi-Power",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Killer V",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Locomotive - 12AY7 Bass Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Motherload",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Motherload - Fuzz/Distortion",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Orama",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Orama - Dual Drive",
+      "catalogType": "Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Pin Up Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Sidekick",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Space Charged - Tube Overdrive/Distortion",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Space Charged V2",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Space Charged V2 - Tube Overdrive/Distortion",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Stardust",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Stardust v2 (Blackface)",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Stardust v3",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Stardust V3",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Starlight",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Triptychon",
+      "catalogType": "Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Triptychon - Octave Fuzz / Drive / Treble Boost",
+      "catalogType": "Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Unobtanium",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Unobtanium - Klon + Dumble",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Unobtanium Raw",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Unobtanium RAW",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Venus",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Venus - Tube Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "White Whale",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "White Whale v2",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Ziggy v2",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Ziggy V2",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazybox Pedals",
+      "pedal": "The Box - Massive High Gain Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crazybox Pedals",
+      "pedal": "The Tone Box - Vargas Blus Band Dual Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "CrazyTone",
+      "pedal": "Crazytone Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creation Audio Labs",
+      "pedal": "Grizzly Bass",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creation Audio Labs",
+      "pedal": "Holy Fire 9",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creation Audio Labs",
+      "pedal": "Holy Fire Classic",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creber Instruments",
+      "pedal": "Classic Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Blacklight Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Blue Mood",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Brummie",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Crazy Creepy",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Creepyface",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Fuzz Nugget",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Fuzzfreak",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Harakiri",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Hold Tight",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Lonely Heart",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Modern Sound",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Shatterbox",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "The Balch",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crest Audio",
+      "pedal": "Fuzz Face",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crestwood",
+      "pedal": "Crestwood 6-Tr Fuzz Wah",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crestwood",
+      "pedal": "Crestwood 8-Tr Fuzz Wah Pedal",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crestwood",
+      "pedal": "Crestwood Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Crews Maniac Sound",
+      "pedal": "Addict OD",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    }
+  ]
 }
