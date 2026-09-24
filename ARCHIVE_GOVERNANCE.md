@@ -95,22 +95,24 @@ For pedals:
 - treat cosmetic colorways, retailer finishes, event artwork, and similar subordinate editions as variations rather than duplicate main-grid cards
 - use explicit model/version/variation relationships instead of creating duplicate catalog identities
 
-## 6. PRP rules
+## 6. Catalog Research Phase and PRP
 
-PRP means Pedal Research Phase.
+The active production phase is the **Catalog Research Phase**. Its job is to research the remaining canonical catalog records and wire each valid research record into the public catalog.
 
-A pedal is PRP Complete only when both are present:
+Research and photo recovery are separate lanes.
 
-1. useful pedal information
-2. a confirmed picture of that exact pedal/model/version
+A record may therefore be:
 
-PRP follows the public catalog in exact A-to-Z order.
+- research-pending
+- researched / photo-missing
+- researched / photo-recovered
+- fully complete
 
-A practical working set may contain fewer than 10 records or more than 10 when it remains small enough to verify safely.
+PRP Complete remains a useful derived status meaning both useful research and an exact local photo are present.
 
-A difficult photo does not permanently block the research queue. Once a responsible exact-model search has been attempted, the record may remain NEEDED and be parked for later recovery while later records continue in catalog order.
+**PRP1 is no longer the active research phase.** Its workflow is retained for legacy exact-photo publication/closeout of already researched records, including the final Fuzz Phazer closeout.
 
-Detailed PRP operating rules belong in `research/PRP_RULES.md`.
+Detailed research-phase rules belong in `research/RESEARCH_PHASE_RULES.md`. Detailed PRP completion/photo rules remain in `research/PRP_RULES.md`.
 
 ## 7. Photo rules
 
@@ -235,6 +237,8 @@ Use one owner for each moving part:
 | Local browser-audit HTTP server | `scripts/serve-static.js` |
 
 Do not create a competing implementation merely because another file is easier to edit.
+
+The generated `research/RESEARCH_QUEUE.json` is an operational view, not a second data owner. Rebuild it from the canonical catalog and tracker whenever research state changes.
 
 ## 12. Design-change discipline
 
