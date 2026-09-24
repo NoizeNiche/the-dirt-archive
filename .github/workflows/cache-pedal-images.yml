@@ -123,7 +123,7 @@ jobs:
             mv assets/pedals "$tmp_assets/pedals"
           fi
           mkdir -p assets/pedals
-          git restore -- research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
+          git reset --hard HEAD
           git fetch origin main
           git rebase origin/main
           if [ -d "$tmp_assets/pedals" ]; then
