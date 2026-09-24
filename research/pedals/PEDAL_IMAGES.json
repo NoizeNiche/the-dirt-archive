@@ -13798,10 +13798,11 @@
   {
     "builder": "Collateral FX",
     "pedal": "P031 Zeugma Fuzz",
-    "image": null,
+    "image": "./assets/pedals/collateral-fx/p031-zeugma-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Collateral FX/P031 Zeugma Fuzz.md",
-    "image_source_page": "https://reverb.com/item/96172740-collateral-fx-zeugma-zonk-fuzz-2026-hammered-blue-aqua"
+    "image_source_page": "https://reverb.com/item/96172740-collateral-fx-zeugma-zonk-fuzz-2026-hammered-blue-aqua",
+    "image_source_url": "https://static.reverb-assets.com/production-assets/webpack/images/shop-brand-default-c1f7bfd8c82677bc.png"
   },
   {
     "builder": "Collateral FX",
@@ -13813,10 +13814,11 @@
   {
     "builder": "Collins",
     "pedal": "CDT-1 Distortion",
-    "image": null,
+    "image": "./assets/pedals/collins/cdt-1-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Collins/CDT-1 Distortion.md",
-    "image_source_page": "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46"
+    "image_source_page": "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46",
+    "image_source_url": "https://www.effectsdatabase.com/misc/ebaytabs/loading.gif"
   },
   {
     "builder": "Collins",
@@ -13921,9 +13923,11 @@
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Father of Loud",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/father-of-loud/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Father of Loud.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Father of Loud.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/0cb077d32fec48b0e03763a4e2aa85ee.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/fatherofloud/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
@@ -13939,182 +13943,224 @@
     "pedal": "Kensington",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Kensington.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Kensington.md",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/kensington/"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Kensington Star",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/kensington-star/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Kensington Star.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Kensington Star.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/136956ce8cedfee638f5914b89022b84.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/kensington-star/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Lead Trilogy",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/lead-trilogy/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Lead Trilogy.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Lead Trilogy.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/uploads/2026/04/Over-Drive-scont-400x400.png",
+    "image_source_page": "https://colomboaudioelectronics.it/pedals/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Mr. Deaky",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/mr-deaky/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Mr. Deaky.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Mr. Deaky.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/43bbd7de252b85a03f9cb62fa683cfcc.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/mr-deaky/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Muff Blaster",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/muff-blaster/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Muff Blaster.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Muff Blaster.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/ea9304b1761c81247327aadc16fb6708.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/muffblaster/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Naoto",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/naoto/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Naoto.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Naoto.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/uploads/2020/09/Naoto-Japan-2-600x600.jpeg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/naoto-80s-distortion/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "November Child",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/november-child/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/November Child.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/November Child.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/5a75bfe74615ccb3f863ffcdad06cacd.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/november-child-slash/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Over Drive",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/over-drive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Over Drive.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Over Drive.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/uploads/2026/04/Ace-of-spades-m4v-image.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/over-drive-1977/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Plexi Breed",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/plexi-breed/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Plexi Breed.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Plexi Breed.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/0cb077d32fec48b0e03763a4e2aa85ee.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/plexi-breed/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Pulse Driver",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Pulse Driver.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Pulse Driver.md",
+    "image_source_page": "https://reverb.com/item/56224798-colombo-audio-electronics-pulse-driver"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Rocker 83",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/rocker-83/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Rocker 83.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Rocker 83.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/a61f8084be33f0704ad19fad5f4e1657.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/blog/2023/03/23/rocker-83-nostalgic/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Southern Stalker",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/southern-stalker/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Southern Stalker.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Southern Stalker.md",
+    "image_source_url": "https://www.begnismusic.com/84589-large_default/colombo-audio-electronics-southern-stalker-srv-boost-treble-booster.jpg",
+    "image_source_page": "https://www.begnismusic.com/pedali-singoli/colombo-audio-electronics-southern-stalker-srv-boost-treble-booster-4444.html"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "The One",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/the-one/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/The One.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/The One.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/a708a9f4ce487c9a11e584cd807a6417.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/theone/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Utopia Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Utopia Overdrive.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Utopia Overdrive.md",
+    "image_source_page": "https://www.youtube.com/watch?v=TfjmU087_Dw"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Via Lattea",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/via-lattea/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Via Lattea.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Via Lattea.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/a5c64ddc607a0964f484628012c3b318.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/via-lattea/?lang=en"
   },
   {
     "builder": "Color Audio",
     "pedal": "Cassette Preamp",
-    "image": null,
+    "image": "./assets/pedals/color-audio/cassette-preamp/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Color Audio/Cassette Preamp.md"
+    "research_record": "./research/pedals/Color Audio/Cassette Preamp.md",
+    "image_source_url": "https://coloraudio.fi/cdn/shop/files/color-audio-cassette-preamp-product-photo-top-down-v2.png?v=1750694850",
+    "image_source_page": "https://coloraudio.fi/products/cassette-preamp"
   },
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "B&M Champion Fuzz Unit",
-    "image": null,
+    "image": "./assets/pedals/colorsound-sola-sound/b-m-champion-fuzz-unit/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/B&M Champion Fuzz Unit.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/B&M Champion Fuzz Unit.md",
+    "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX63AYbVvQd0SKdjvLh_ditQaW5CuZqnGcCgRrIv2RLG9rzP49cN_BlyHxcg-QCuNZCLzSvbJvCPfpfYAgy7APQNLWWqGyjbPf-7v9Gj_87tKPsstwgus08azlhO4k9BK7yB9KWmjkC1Wp/s1600-r/btf_title.jpg",
+    "image_source_page": "https://thetonebender.blogspot.com/2012/04/b-champion-fuzz-unit.html"
   },
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "B&M Champion Wah Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/B&M Champion Wah Fuzz.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/B&M Champion Wah Fuzz.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/champion/champion/wahfuzz"
   },
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "B&M Fuzz Unit",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/B&M Fuzz Unit.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/B&M Fuzz Unit.md",
+    "image_source_page": "https://reverb.com/uk/item/91450474-vintage-70-s-barnes-and-mullins-b-m-fuzz-unit-by-colorsound-clean"
   },
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "Colorsound Supa Wah-Fuzz-Swell",
-    "image": null,
+    "image": "./assets/pedals/colorsound-sola-sound/colorsound-supa-wah-fuzz-swell/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/Colorsound Supa Wah-Fuzz-Swell.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/Colorsound Supa Wah-Fuzz-Swell.md",
+    "image_source_url": "https://www.tonehome.de/s/img/emotionheader.jpg?1360955449.940px.210px",
+    "image_source_page": "https://www.tonehome.de/colorsound-sola-sound/supa-wah-fuzz-swell/"
   },
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "Eurotec Black Box Fuzz Module",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/Eurotec Black Box Fuzz Module.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/Eurotec Black Box Fuzz Module.md",
+    "image_source_page": "https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html"
   },
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "G.B. Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/G.B. Fuzz.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/G.B. Fuzz.md",
+    "image_source_page": "https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html"
   },
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "G.B. Fuzz Unit",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/G.B. Fuzz Unit.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/G.B. Fuzz Unit.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/manhattan/fuzzunit"
   },
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "Overdriver",
-    "image": null,
+    "image": "./assets/pedals/colorsound-sola-sound/overdriver/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/Overdriver.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/Overdriver.md",
+    "image_source_url": "https://www.tonehome.de/s/img/emotionheader.jpg?1360955449.940px.210px",
+    "image_source_page": "https://www.tonehome.de/colorsound-sola-sound/overdriver/"
   },
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "Pro Traffic Fuzz Unit",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/Pro Traffic Fuzz Unit.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/Pro Traffic Fuzz Unit.md",
+    "image_source_page": "https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html"
   },
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "Sola Sound Bum Fuzz Unit",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/Sola Sound Bum Fuzz Unit.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/Sola Sound Bum Fuzz Unit.md",
+    "image_source_page": "https://sites.google.com/site/davidmorrinoldsite/home/trouble/troubleeffects/sola-sound-tone-bender"
   },
   {
     "builder": "Colorsound / Sola Sound",
@@ -14133,65 +14179,77 @@
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "Tone Bender MKII",
-    "image": null,
+    "image": "./assets/pedals/colorsound-sola-sound/tone-bender-mkii/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/Tone Bender MKII.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/Tone Bender MKII.md",
+    "image_source_url": "https://fuzzboxes.org/wp-content/uploads/2021/05/vox-mkii-purchase-order.jpg",
+    "image_source_page": "https://fuzzboxes.org/voxtonebendermkii"
   },
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "Tone Bender MKIII",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/Tone Bender MKIII.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/Tone Bender MKIII.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/solasound/tonebender/mk3"
   },
   {
     "builder": "ColorTone Fx / Pedal Tank",
     "pedal": "Gainer",
-    "image": null,
+    "image": "./assets/pedals/colortone-fx-pedal-tank/gainer/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/ColorTone Fx / Pedal Tank/Gainer.md"
+    "research_record": "./research/pedals/ColorTone Fx / Pedal Tank/Gainer.md",
+    "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
+    "image_source_page": "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46"
   },
   {
     "builder": "ColorTone Fx / Pedal Tank",
     "pedal": "OD-909 Overdrive Pro",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/ColorTone Fx / Pedal Tank/OD-909 Overdrive Pro.md"
+    "research_record": "./research/pedals/ColorTone Fx / Pedal Tank/OD-909 Overdrive Pro.md",
+    "image_source_page": "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46"
   },
   {
     "builder": "Colortone Pedals",
     "pedal": "Parasite Overdrive",
-    "image": null,
+    "image": "./assets/pedals/colortone-pedals/parasite-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colortone Pedals/Parasite Overdrive.md"
+    "research_record": "./research/pedals/Colortone Pedals/Parasite Overdrive.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/64a5f9bb821d6e76ca51aa1d/1688599014333-1FYIE8ACEPHHEJRF1HHX/Parasite_Doc_V2.jpg?format=1500w",
+    "image_source_page": "https://www.colortonepedals.com/shop-colortone-pedal-effects/p/parasite"
   },
   {
     "builder": "Columbus",
     "pedal": "DST-5 Distortion",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Columbus/DST-5 Distortion.md"
+    "research_record": "./research/pedals/Columbus/DST-5 Distortion.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/axtron/dst5"
   },
   {
     "builder": "Columbus",
     "pedal": "MTL-5 Ultra Metal",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Columbus/MTL-5 Ultra Metal.md"
+    "research_record": "./research/pedals/Columbus/MTL-5 Ultra Metal.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/cutec/5/mtl5"
   },
   {
     "builder": "Columbus",
     "pedal": "OVD-5 Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Columbus/OVD-5 Overdrive.md"
+    "research_record": "./research/pedals/Columbus/OVD-5 Overdrive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/columbus/ovd5"
   },
   {
     "builder": "Columbus",
     "pedal": "TDR-5 Tube Driver",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Columbus/TDR-5 Tube Driver.md"
+    "research_record": "./research/pedals/Columbus/TDR-5 Tube Driver.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/columbus/tdr5"
   },
   {
     "builder": "Comet Effects",
