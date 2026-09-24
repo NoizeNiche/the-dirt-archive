@@ -219,6 +219,22 @@ function pageMatchesIdentity(entry, title, h1) {
   );
 }
 
+function isLikelyExactProductSourcePage(url) {
+  try {
+    const parsed = new URL(url);
+    const pathName = parsed.pathname.toLowerCase();
+    if (/\/(?:item|product|products|model|models|pedal|pedals|effects|effect|gear|stompbox|stompboxes)\b/.test(pathName)) {
+      return true;
+    }
+    if (/\/(?:shop|store|catalog|catalogue|shopify|bigcartel)\b/.test(pathName)) {
+      return true;
+    }
+    return !/\/(?:news|blog|article|articles|guide|guides|roundup|review|reviews|best-of|best\b)/.test(pathName);
+  } catch {
+    return false;
+  }
+}
+
 function isReverbListingUrl(url) {
   try {
     const parsed = new URL(url);
@@ -1582,11 +1598,13 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
                 legacyFeedSet.has(part) &&
                 /([.]|^)effectsdatabase[.]com$/i.test(new URL(part).hostname) &&
                 /\/gear\/(?:pics|thumbs)\//i.test(new URL(part).pathname);
+              if (!isLikelyExactProductSourcePage(pageUrl) && !identityPhrases(entry.pedal).some(phrase => normalizedIdentity(part).includes(phrase))) continue;
               candidates.push({
                 url: part,
                 sourcePage: pageUrl,
                 sourceScore: legacyExactImage ? 125 : 90,
-                rawVerifiedPageImage: legacyExactImage
+                rawVerifiedPageImage: legacyExactImage,
+                articleExactImage: !isLikelyExactProductSourcePage(pageUrl)
               });
             } else if (part && !part.includes('x') && !part.startsWith('data:')) {
               try {
@@ -1609,8 +1627,10 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         // The response listener already filtered these URLs by image MIME type.
         // Do not require a filename extension here: CDN/image proxy URLs commonly
         // omit .jpg/.png/.webp while still returning a real image.
-        for (const url of [...new Set(networkImageUrls)]) {
-          candidates.push({ url, sourcePage: pageUrl, sourceScore: 110 });
+        if (isLikelyExactProductSourcePage(pageUrl)) {
+          for (const url of [...new Set(networkImageUrls)]) {
+            candidates.push({ url, sourcePage: pageUrl, sourceScore: 110 });
+          }
         }
 
         diagnostic.sourceImageCandidates += candidates.filter(x => x.sourcePage === pageUrl).length;
