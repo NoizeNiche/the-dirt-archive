@@ -2347,6 +2347,21 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         // evidence rather than an unverified search-engine substitution.
         candidates.unshift(...embeddedImageCandidates);
 
+        // Generic roundup/article pages can be identity-verified at the page level
+        // while their largest images are collages or unrelated products. For those
+        // pages, require the individual candidate itself to carry the exact pedal
+        // phrase/token match before it can reach screenshot/image-byte capture.
+        if (!isLikelyExactProductSourcePage(sourcePage)) {
+          const requiredCandidateHits = pedalTokens.length >= 2 ? 2 : 1;
+          const articleCandidates = candidates.filter(candidate =>
+            candidate.exactPhrase ||
+            Number(candidate.altHits || 0) >= requiredCandidateHits ||
+            Number(candidate.tokenHits || 0) >= requiredCandidateHits
+          );
+          candidates.length = 0;
+          candidates.push(...articleCandidates);
+        }
+
         const matches = page.locator('img');
         const count = await matches.count();
         const backgroundMatches = page.locator('[style*="background-image"], [data-background], [data-bg], [data-background-image]');
