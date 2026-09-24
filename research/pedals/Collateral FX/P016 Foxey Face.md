@@ -2,6 +2,7 @@
 
 ## PRP identity
 - **Archive parent:** P016 Foxey Face
+- **Catalog identity:** P016 Foxey Face Fuzz
 - **Builder:** Collateral FX
 - **Catalog type:** Fuzz
 - **Identity:** Collateral FX Foxey Face, a Fuzz Face-family fuzz with selectable germanium or silicon transistor sets and external Bias.
