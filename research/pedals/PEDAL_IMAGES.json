@@ -11489,15 +11489,6 @@
   },
   {
     "builder": "Catalinbread Effects",
-    "pedal": "Perseus DIO (dry distortion section only; octave-down function excluded from census categorying)",
-    "image": "./assets/pedals/catalinbread-effects/perseus-dio-dry-distortion-section-only-octave-down-function-excluded-from-cens-2971df86d3/primary.webp",
-    "source_page": "https://catalinbread.com/products/perseus-dio",
-    "research_record": "./research/pedals/PRP Batch 158/catalinbread-perseus-dio-dry-distortion-section.md",
-    "image_source_page": "https://delicious-audio.com/catalinbread-perseus-dio-octave-down-fuzz/",
-    "image_source_url": "https://delicious-audio.com/wp-content/uploads/2024/06/catalinbread2.jpg.webp"
-  },
-  {
-    "builder": "Catalinbread Effects",
     "pedal": "RAH",
     "image": "./assets/pedals/catalinbread-effects/rah/primary.webp",
     "source_page": "https://catalinbread.com/products/rah",
@@ -16593,7 +16584,7 @@
   },
   {
     "builder": "Daredevil Pedals",
-    "pedal": "Daredevil Cry Baby Fuzz Wah — collaboration product with a fuzz circuit, retained because Daredevil lists it among its products and it contains a dirt/fuzz function",
+    "pedal": "Daredevil Cry Baby Fuzz Wah",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -16740,7 +16731,7 @@
   },
   {
     "builder": "Daredevil Pedals",
-    "pedal": "The Chicago Way is retained as one builder identity, not split into separate fake pedals for its internal circuits",
+    "pedal": "The Chicago Way",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -16852,21 +16843,7 @@
   },
   {
     "builder": "Death By Audio",
-    "pedal": "Fuzz War (overdrive range explicitly described, but retained primarily as Fuzz; see overlap notes)",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Death By Audio",
     "pedal": "Germanium Filter",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Death By Audio",
-    "pedal": "Germanium Filter (overdrive range explicitly described, but retained primarily as Distortion/Fuzz; see overlap notes)",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -16908,7 +16885,7 @@
   },
   {
     "builder": "Death By Audio",
-    "pedal": "Reverberation Machine (fuzz content not treated as a standalone category; reverb excluded)",
+    "pedal": "Reverberation Machine",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -17126,27 +17103,6 @@
   {
     "builder": "DigiTech",
     "pedal": "Hot Head Distortion",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "DigiTech",
-    "pedal": "none explicitly surfaced as a current DigiTech-branded standalone dirt pedal in the reviewed current shop/catalog",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "DigiTech",
-    "pedal": "none explicitly surfaced as a current DigiTech-branded standalone fuzz pedal in the reviewed current shop/catalog",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "DigiTech",
-    "pedal": "none promoted as a DigiTech-branded standalone Fuzz identity in the reviewed material",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -18021,13 +17977,6 @@
   },
   {
     "builder": "EarthQuaker Devices",
-    "pedal": "Gary — Dynamic Natural Overdrive section within a dual-function fuzz/overdrive pedal",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "EarthQuaker Devices",
     "pedal": "Gray Channel",
     "image": null,
     "source_page": null,
@@ -18210,7 +18159,7 @@
   },
   {
     "builder": "EarthQuaker Devices",
-    "pedal": "Sunn O))) Life Pedal - Octave Distortion + Booster; retained as Distortion with the boost component outside scope",
+    "pedal": "Sunn O))) Life Pedal",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -20611,13 +20560,6 @@
   },
   {
     "builder": "JHS Pedals",
-    "pedal": "3 Series Distortion is explicitly identified by JHS as a distortion pedal that can also reach overdrive and fuzz tones",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "JHS Pedals",
     "pedal": "3 Series Fuzz",
     "image": null,
     "source_page": null,
@@ -20695,13 +20637,6 @@
   },
   {
     "builder": "JHS Pedals",
-    "pedal": "Colour Box V2 — preamp with dirt-oriented use and placement in the JHS fuzz/distortion collection",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "JHS Pedals",
     "pedal": "Coyote",
     "image": null,
     "source_page": null,
@@ -20745,13 +20680,6 @@
   {
     "builder": "JHS Pedals",
     "pedal": "Hard Drive",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "JHS's own collection places products into broad categories; where an individual product page gives a more precise function, that wording is preferred",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -23446,20 +23374,6 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "1979 Baja: current manufacturer catalog explicitly labels it “OpAmp Fuzz.”",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
-    "pedal": "1979: official product page explicitly calls it “OpAmp Fuzz” and describes the fuzz circuit and tone-bypass controls",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "BlueBonnet",
     "image": null,
     "source_page": null,
@@ -23467,21 +23381,7 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "BlueBonnet: authoritative historical Effects Database entry identifies the BlueBonnet as an overdrive pedal; the product existed as a Mojo Hand FX dirt identity before the current catalog was consolidated",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "Colossus",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
-    "pedal": "Colossus: official product page explicitly calls it a Russian/Civil War Muff-style fuzz",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -23502,28 +23402,7 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Crosstown Rasta: current manufacturer catalog lists it in the Mojo Hand fuzz catalog; the product is a Crosstown fuzz identity variant and is retained as Fuzz rather than treated as a separate non-dirt effect",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
-    "pedal": "Crosstown: current manufacturer catalog explicitly labels it “Classic Germanium/Silicon Fuzz.”",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "DMBL",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
-    "pedal": "DMBL: current manufacturer catalog explicitly labels it “Holy Grail Amp Overdrive.”",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -23537,21 +23416,7 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "El Guapo: official product page explicitly calls it a fuzz machine and identifies it as voltage-starved fuzz. The ability to reach almost-overdrive settings does not change its archive category",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "Extra Special",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
-    "pedal": "Extra Special: official product page describes it as the higher-gain development of the DMBL and places it in the medium-to-higher-gain drive family. It is retained as an Overdrive identity, not promoted to Distortion solely because of its gain range",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -23565,21 +23430,7 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Iron Bell: current manufacturer catalog explicitly labels it “Gilmour Fuzz.”",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "Kensrue Rook",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
-    "pedal": "Kensrue Rook: official product page explicitly calls it Dustin Kensrue's Signature Overdrive and describes the Rook as a classic overdrive",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -23593,21 +23444,7 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Magistrate: authoritative historical product documentation identifies the Magistrate as a high-gain distortion with a three-band EQ. Barefoot Buttons also records the product specifically as “Mojo Hand FX Magistrate Distortion.”",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "Magpie",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
-    "pedal": "Magpie: official product page explicitly calls it a classic British-style overdrive and labels its low-gain setting “Overdrive.”",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -23621,21 +23458,7 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Odessa: official product page explicitly labels it “Dual Overdrive” and states that it contains Rook and Magpie overdrive circuits",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "One Ton Bee",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
-    "pedal": "One Ton Bee: current manufacturer catalog explicitly labels it “60s Style Fuzz.”",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -23656,21 +23479,7 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Pompeii: authoritative product documentation identifies it as a Mojo Hand FX fuzz and places it in the limited Future Vintage Series",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "Rock City",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
-    "pedal": "Rock City: official product page states it began as an improved Odessa dual overdrive and describes both internal circuits as overdrive circuits",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -23691,20 +23500,6 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Rook Royale: current manufacturer catalog explicitly labels it “Overdrive and Boost.”",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
-    "pedal": "Rook: current manufacturer page explicitly calls it “Classic Overdrive” and describes classic overdrive, LED/raw drive, and boost-style operation. Historical manufacturer-originated text is also preserved in Effects Database",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "Rounder (historical/discontinued)",
     "image": null,
     "source_page": null,
@@ -23712,7 +23507,7 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Rounder: official Mojo Hand discontinued page identifies the pedal as a discontinued product, while the manufacturer-originated product description explicitly calls it a fuzz inspired by the Burns Buzzaround",
+    "pedal": "Rounder",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -23726,21 +23521,7 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Sacred Cow: official catalog labels it “Professional Gold Overdrive”; manufacturer-originated product copy explicitly describes overdrive behavior",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "Sericon",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
-    "pedal": "Sericon: manufacturer-originated release material calls it an overdrive and describes multiple gain stages from clean boost through edge-of-breakup to high-gain drive",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -23754,13 +23535,6 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Socrates: manufacturer-originated historical product copy explicitly calls it “Socrates Classic Distortion” and describes it as an LM308-style distortion with symmetrical/asymmetrical clipping. Effects Database preserves the original product description and categorizes it as distortion",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "Superlative (historical/discontinued)",
     "image": null,
     "source_page": null,
@@ -23768,7 +23542,7 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Superlative: Mojo Hand FX's official discontinued-products index identifies Superlative as “Vintage Overdrive.”",
+    "pedal": "Superlative",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -23782,7 +23556,7 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Zephyr: manufacturer-originated historical product copy calls it “Zephyr Fuzz” and describes it as a fuzz circuit based on the Sam Ash Fuzz/AstroTone family",
+    "pedal": "Zephyr",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -25364,21 +25138,7 @@
   },
   {
     "builder": "Prescription Electronics",
-    "pedal": "C.O.B. (Clean Octave Blend): Prescription Electronics product documentation and later manufacturer/reissue coverage identify it as an octave-fuzz pedal with clean blend. Premier Guitar explicitly calls it an octave-fuzz pedal. Aion FX documentation independently identifies the original C.O.B. as an octave fuzz",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Prescription Electronics",
     "pedal": "Depth Charge",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Prescription Electronics",
-    "pedal": "Depth Charge: historical Prescription Electronics material identifies it as a bass fuzz with a clean blend and gain control; later documentation and user-facing product references consistently identify it as a bass fuzz. It is retained under Fuzz only",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -25392,20 +25152,6 @@
   },
   {
     "builder": "Prescription Electronics",
-    "pedal": "Dual-Tone: historical manufacturer wording identifies it directly as an overdrive/distortion pedal, with a lower-gain rhythm mode and higher-gain lead mode",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Prescription Electronics",
-    "pedal": "Dual-Tone: historical Prescription Electronics material describes the pedal as an overdrive/distortion pedal with two preset gain levels. It is therefore recorded in both categories",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Prescription Electronics",
     "pedal": "Experience",
     "image": null,
     "source_page": null,
@@ -25413,21 +25159,7 @@
   },
   {
     "builder": "Prescription Electronics",
-    "pedal": "Experience: manufacturer-era/reissue coverage explicitly identifies it as an octave fuzz with fuzz, octave, and swell functions. Effects Database also categorizes it as octave fuzz",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Prescription Electronics",
     "pedal": "Face Lift",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Prescription Electronics",
-    "pedal": "Face Lift: Effects Database identifies the product as an octave fuzz and documents silicon/germanium Fuzz Face-style versions. Third-party product documentation consistently describes it as fuzz plus octave. Variants are consolidated into one Face Lift identity",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -25448,28 +25180,7 @@
   },
   {
     "builder": "Prescription Electronics",
-    "pedal": "Germ: historical catalog description explicitly calls the crunch side a fat distortion",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Prescription Electronics",
-    "pedal": "Germ: historical catalog material describes a clean-boost side and a crunch side with \"fat distortion.\" Contemporary user documentation also describes the overdrive side. The archive retains Germ under Overdrive and Distortion because the product explicitly spans both drive modes",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Prescription Electronics",
     "pedal": "RX Overdriver",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Prescription Electronics",
-    "pedal": "RX Overdriver: Effects Database explicitly categorizes it as overdrive and describes it as a sonic reproduction of the Colorsound Overdriver, ranging from clean boost to full-bore distortion. The archive keeps the builder's primary identity as Overdrive rather than converting its maximum-gain behavior into a second category",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -25483,28 +25194,7 @@
   },
   {
     "builder": "Prescription Electronics",
-    "pedal": "Supernatural: historical Prescription Electronics product material identifies it as a germanium fuzz. The archive records the product as Fuzz only",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Prescription Electronics",
     "pedal": "Yardbox",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Prescription Electronics",
-    "pedal": "Yardbox: the 2019 reissue coverage describes a Tone Bender-derived fuzz that can produce a thin fuzz/OD sound at reduced volume and saturated germanium fuzz at higher settings. Because the builder-era description explicitly uses both OD and fuzz language, it is recorded in both categories",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Prescription Electronics",
-    "pedal": "Yardbox: the 2019 reissue coverage describes saturated germanium fuzz and identifies its Tone Bender basis. Effects Database categorizes it as fuzz. It is also retained under Overdrive because the reissue description explicitly documents a fuzz/OD operating range",
     "image": null,
     "source_page": null,
     "research_record": ""
@@ -28654,13 +28344,6 @@
   },
   {
     "builder": "Wampler Pedals",
-    "pedal": "Leviathan Fuzz is not placed here despite its extreme gain because Wampler explicitly identifies it as Fuzz",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "Wampler Pedals",
     "pedal": "Low Blow",
     "image": null,
     "source_page": null,
@@ -29558,13 +29241,6 @@
   {
     "builder": "ZVEX Effects",
     "pedal": "Octane 3",
-    "image": null,
-    "source_page": null,
-    "research_record": ""
-  },
-  {
-    "builder": "ZVEX Effects",
-    "pedal": "The current ZVEX Guitar Pedals catalog exposes Distortion and Fuzz categories but no Overdrive category. Box of Rock, Distortron, Double Rock, and '59 Sound are therefore not promoted into Overdrive merely because their descriptions involve amp-like breakup, gain, or overdrive-adjacent language. ZVEX's current taxonomy is used as the controlling category evidence",
     "image": null,
     "source_page": null,
     "research_record": ""
