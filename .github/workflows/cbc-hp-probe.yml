@@ -1,0 +1,83 @@
+name: CBC Harmonic Percolator probe
+
+on:
+  push:
+    paths:
+      - .github/workflows/cbc-hp-probe.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Search exact CBC Harmonic Percolator
+        shell: bash
+        run: |
+          python - <<'PY'
+          import html, json, re, subprocess, urllib.parse
+          queries = [
+            'CBC Pedals "Harmonic Percolator" pedal',
+            '"CBC Pedals Harmonic Percolator"',
+            'site:equipboard.com/items "CBC Pedals" "Harmonic Percolator"',
+            'site:reverb.com "CBC Pedals" "Harmonic Percolator"',
+            'site:instagram.com "CBC Pedals" "Harmonic Percolator"'
+          ]
+          def curl(url):
+            p = subprocess.run([
+              "curl","-L","--silent","--show-error","--compressed",
+              "--connect-timeout","4","--max-time","8",
+              "-A","Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36",
+              url
+            ], capture_output=True, text=True, timeout=12)
+            return p.stdout
+          for q in queries:
+            url = "https://www.bing.com/search?q="+urllib.parse.quote(q)
+            raw = curl(url)
+            print("\nQUERY:", q)
+            for m in re.finditer(r'<li class="b_algo"[\s\S]{0,7000}?</li>', raw, re.I):
+              block = html.unescape(m.group(0))
+              a = re.search(r'<h2[^>]*>\s*<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', block, re.I|re.S)
+              if not a: continue
+              href=a.group(1)
+              title=re.sub(r'<[^>]+>',' ',a.group(2))
+              title=' '.join(title.split())
+              text=re.sub(r'<[^>]+>',' ',block)
+              text=' '.join(html.unescape(text).split())
+              print("RESULT:", title, "|", href)
+              print("SNIP:", text[:700])
+          print("\nIMAGE SEARCH")
+          for q in queries[:3]:
+            url = "https://www.bing.com/images/search?form=HDRSC2&q="+urllib.parse.quote(q)
+            raw = curl(url)
+            print("\nIMAGE QUERY:", q, "bytes=", len(raw))
+            seen=set()
+            for match in re.finditer(r'(?:\bm|data-m)=["\']([^"\']+)["\']', raw, re.I):
+              try:
+                obj=json.loads(html.unescape(match.group(1)))
+              except Exception:
+                continue
+              murl=obj.get("murl"); purl=obj.get("purl"); title=obj.get("t","")
+              if not murl or murl in seen: continue
+              seen.add(murl)
+              print("IMAGE:", title, "|", murl, "| SOURCE:", purl)
+              if len(seen)>=20: break
+          print("\nDIRECT SLUG PROBES")
+          slugs = [
+            "https://equipboard.com/items/cbc-pedals-harmonic-percolator",
+            "https://equipboard.com/items/cbc-pedals-harmonic-percolator-fuzz",
+            "https://reverb.com/marketplace?query=CBC%20Pedals%20Harmonic%20Percolator"
+          ]
+          for u in slugs:
+            raw=curl(u)
+            title=""
+            m=re.search(r'<title[^>]*>(.*?)</title>', raw, re.I|re.S)
+            if m: title=' '.join(re.sub(r'<[^>]+>',' ',html.unescape(m.group(1))).split())
+            print("PROBE:",u,"STATUS_BYTES:",len(raw),"TITLE:",title)
+            for pat in [r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]+content=["\']([^"\']+)["\']',
+                        r'<img[^>]+(?:alt=["\'][^"\']*Harmonic Percolator[^"\']*["\']|src=["\'][^"\']*harmonic[^"\']*["\'])[^>]+>']:
+              for mm in re.finditer(pat, raw, re.I|re.S):
+                print("ASSET:", mm.group(1) if mm.lastindex else mm.group(0)[:500])
+          PY
