@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T12:06:38.656239+00:00",
+  "generated_at": "2026-09-24T12:07:07.861888+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1570,
+    "researched": 1571,
     "pictured": 1538,
     "complete": 1538,
-    "research_pending": 2195
+    "research_pending": 2194
   },
   "next_target": {
     "builder": "Colombo Audio Electronics",
-    "pedal": "Blackface Idol",
+    "pedal": "Bricks",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Colombo Audio Electronics",
-      "pedal": "Blackface Idol",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Colombo Audio Electronics",
       "pedal": "Bricks",
@@ -165,6 +159,12 @@
     {
       "builder": "Colorsound / Sola Sound",
       "pedal": "Colorsound Supa Wah-Fuzz-Swell",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Colorsound / Sola Sound",
+      "pedal": "Eurotec Black Box Fuzz Module",
       "catalog_type": "",
       "research_record": ""
     }
