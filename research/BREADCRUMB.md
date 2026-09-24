@@ -1,3 +1,13 @@
+## Photo recovery correction - September 24, 2026
+
+Live tracker state after correction: 3770 total / 1271 researched / 1271 pictured / 1271 complete / 1 researched-photo-pending / 2499 photo-missing.
+
+CBC Pedals - Harmonic Percolator was temporarily marked pictured by a bad recovery candidate. Visual inspection showed the generic Equipboard logo, so the asset was deleted and the record restored to NEEDED. The Equipboard brand-page lead was removed and the recovery identity gate was hardened.
+
+PRP1 remains gated at 1 researched-photo pending.
+
+---
+
 ## Photo recovery checkpoint - September 23, 2026
 
 Latest verified tracker state: **3,816 total / 1,271 researched / 1,071 pictured / 1,071 complete / 200 researched-photo-pending / 2,745 photo-missing**.
