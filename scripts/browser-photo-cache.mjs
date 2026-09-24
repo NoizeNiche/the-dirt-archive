@@ -1524,7 +1524,7 @@ async function legacyCbcSourcePages(page, entry) {
       return;
     }
     if (!/^https?:/i.test(url)) return;
-    if (/(^|\\.)bing\\.com$|(^|\\.)google\\.com$|(^|\\.)duckduckgo\\.com$/i.test(new URL(url).hostname)) return;
+    if (/(^|\.)bing\.com$|(^|\.)google\.com$|(^|\.)duckduckgo\.com$/i.test(new URL(url).hostname)) return;
     const haystack = normalizedIdentity(String(hint || '') + ' ' + url);
     if (exactNeedles.some(needle => haystack.includes(normalizedIdentity(needle)))) {
       discovered.add(url.split('#')[0]);
@@ -1543,11 +1543,11 @@ async function legacyCbcSourcePages(page, entry) {
       const response = await page.request.get(seed, { timeout: SEARCH_TIMEOUT });
       if (!response.ok()) continue;
       const html = await response.text();
-      for (const match of html.matchAll(/<a\\b[^>]+href=["']([^"']+)["'][^>]*>([\\s\\S]*?)<\\/a>/gi)) {
-        const textHint = String(match[2] || '').replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+      for (const match of html.matchAll(/<a\b[^>]+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
+        const textHint = String(match[2] || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
         addIfUseful(match[1], textHint);
       }
-      for (const match of html.matchAll(/https?:\\/\\/[^"'\\s<>]+/gi)) {
+      for (const match of html.matchAll(/https?:\/\/[^"'\s<>]+/gi)) {
         addIfUseful(match[0], html.slice(Math.max(0, match.index - 500), match.index + 500));
       }
     } catch {}
@@ -1566,8 +1566,8 @@ async function legacyCbcSourcePages(page, entry) {
       const response = await page.request.get(searchUrl, { timeout: SEARCH_TIMEOUT });
       if (!response.ok()) continue;
       const html = await response.text();
-      for (const match of html.matchAll(/<li[^>]+class=["'][^"']*b_algo[^"']*["'][^>]*>[\\s\\S]*?<h2[^>]*>\\s*<a[^>]+href=["']([^"']+)["'][^>]*>([\\s\\S]*?)<\\/a>/gi)) {
-        const title = String(match[2] || '').replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+      for (const match of html.matchAll(/<li[^>]+class=["'][^"']*b_algo[^"']*["'][^>]*>[\s\S]*?<h2[^>]*>\s*<a[^>]+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
+        const title = String(match[2] || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
         addIfUseful(match[1].replace(/&amp;/g, '&'), title);
       }
     } catch {}
@@ -1594,7 +1594,7 @@ async function legacyCbcSourcePages(page, entry) {
         if (!Array.isArray(row) || row.length < 2) continue;
         const timestamp = String(row[0] || '').trim();
         const original = String(row[1] || '').trim();
-        if (!/^\\d{10,14}$/.test(timestamp) || !/^https?:\\/\\//i.test(original)) continue;
+        if (!/^\d{10,14}$/.test(timestamp) || !/^https?:\/\//i.test(original)) continue;
         addIfUseful(
           'https://web.archive.org/web/' + timestamp + 'id_/' + original,
           'CBC Pedals Harmonic Percolator archived source ' + original
@@ -1617,13 +1617,13 @@ async function legacyCbcSourcePages(page, entry) {
         if (!Array.isArray(row) || row.length < 2) continue;
         const timestamp = String(row[0] || '').trim();
         const original = String(row[1] || '').trim();
-        if (!/^\\d{10,14}$/.test(timestamp) || !/^https?:\\/\\//i.test(original)) continue;
+        if (!/^\d{10,14}$/.test(timestamp) || !/^https?:\/\//i.test(original)) continue;
         const snapshot = 'https://web.archive.org/web/' + timestamp + 'id_/' + original;
         try {
           const snap = await page.request.get(snapshot, { timeout: SEARCH_TIMEOUT });
           if (!snap.ok()) continue;
           const html = await snap.text();
-          for (const match of html.matchAll(/https?:\\/\\/cbcpedals\\.com[^"'\\s<>]+/gi)) {
+          for (const match of html.matchAll(/https?:\/\/cbcpedals\.com[^"'\s<>]+/gi)) {
             addIfUseful(match[0], html.slice(Math.max(0, match.index - 600), match.index + 600));
           }
           for (const match of html.matchAll(/(?:href|src)=["']([^"']+)["']/gi)) {
