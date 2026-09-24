@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:12:20.482953+00:00",
+  "generated_at": "2026-09-24T10:14:30.113236+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1376,
+    "researched": 1388,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2389
+    "research_pending": 2377
   },
   "next_target": {
     "builder": "Chaser",
@@ -21,78 +21,6 @@
     {
       "builder": "Chaser",
       "pedal": "HM-3 Heavy Metal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ChiralityAudio",
-      "pedal": "Black Swan",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ChiralityAudio",
-      "pedal": "Splinter",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chiu Luen",
-      "pedal": "CL-1 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chiu Luen",
-      "pedal": "CL-3 Clean/Distortion/Reverb/Chorus",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chiu Luen",
-      "pedal": "CL-4 Distortion/Reverb",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chiu Luen",
-      "pedal": "CL-5 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chord (by Daphon)",
-      "pedal": "BOD-50 Bass Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chord (by Daphon)",
-      "pedal": "DS-50 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chord (by Daphon)",
-      "pedal": "HM-50 Heavy Metal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chord (by Daphon)",
-      "pedal": "MT-50 Metal Driver",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chord (by Daphon)",
-      "pedal": "OD-50 Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chord (by Daphon)",
-      "pedal": "SD-50 Super Distortion",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +93,78 @@
     {
       "builder": "Chuck Pedals",
       "pedal": "Diver",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chuck Pedals",
+      "pedal": "VTO",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chucktone Effects",
+      "pedal": "Overdrive 809",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chunk Systems",
+      "pedal": "Brown Dog",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chunk Systems",
+      "pedal": "FZ002",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Ciclar",
+      "pedal": "Arquera Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Ciclar",
+      "pedal": "Motoquera Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cicognani Engineering",
+      "pedal": "Double Decker",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cicognani Engineering",
+      "pedal": "Speciale DD 1959",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cicognani Engineering",
+      "pedal": "Triple Decker",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Circle Of Tone",
+      "pedal": "Blues Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Circle Of Tone",
+      "pedal": "Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Circle Of Tone",
+      "pedal": "FUZZ",
       "catalog_type": "",
       "research_record": ""
     }
