@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - "research/PRP1_INTAKE/*.json"
+      - "research/PRP1_KICK"
   workflow_dispatch:
 
 permissions:
@@ -169,6 +170,18 @@ jobs:
           print(f"PRP1 atomic verification: {len(index)} total / {researched} researched / {pictured} pictured / {complete} complete.")
           PY
 
+      - name: Rebase atomic PRP1 work onto latest main
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
+        run: |
+          # Keep the research record, recovered asset, and intake state while
+          # rebuilding shared generated files from the newest main. This prevents
+          # a simultaneous photo-cache commit from being overwritten by PRP1.
+          git stash push -u -m "prp1-atomic-work" -- assets/pedals research/pedals research/PRP1_INTAKE .prp1-target.json
+          git restore -- research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
+          git fetch origin main
+          git rebase origin/main
+          git stash pop
+
       - name: Commit and push one complete PRP1 unit
         if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
         run: |
@@ -180,4 +193,24 @@ jobs:
             exit 0
           fi
           git commit -m "PRP1: publish researched pedal with exact photo"
-          git push
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "PRP1 push race detected; rebasing atomic unit (attempt $attempt/5)."
+            git fetch origin main
+            git reset --hard origin/main
+            git stash push -u -m "prp1-push-retry" -- assets/pedals research/pedals research/PRP1_INTAKE .prp1-target.json
+            git restore -- research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
+            git rebase origin/main
+            git stash pop
+            python scripts/sync-prp-tracker.py
+            python scripts/sync-photo-backlog.py
+            python scripts/prune-photo-review-queue.py
+            python scripts/refresh-image-cache-report.py
+            python scripts/verify-photo-state.py
+            git add assets/pedals research/pedals research/PRP1_INTAKE research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv index.html pedal-detail.html
+            git commit -m "PRP1: publish researched pedal with exact photo"
+          done
+          echo "Unable to publish the PRP1 unit after 5 push attempts."
+          exit 1
