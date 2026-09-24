@@ -16,118 +16,157 @@ jobs:
     timeout-minutes: 12
     steps:
       - uses: actions/checkout@v7
+
       - name: Search exact CBC targets
         shell: bash
         run: |
           mkdir -p artifact
           python - <<'PY'
-          import json, re, subprocess, html, urllib.parse
+          import html
+          import json
+          import re
+          import subprocess
+          import urllib.parse
           from pathlib import Path
 
           targets = [
-            ("CBC Pedals","Hop Hed Fuzztone"),
-            ("CBC Pedals","Hybrid Fuzz"),
-            ("CBC Pedals","Mista' Fuzz"),
-            ("CBC Pedals","Mutha' Fuzz"),
-            ("CBC Pedals","The Drive"),
-            ("CBC Pedals","The Drive / Zendrive circuit"),
-            ("CBC Pedals","The Superfuzz"),
+              ("CBC Pedals", "Hop Hed Fuzztone"),
+              ("CBC Pedals", "Hybrid Fuzz"),
+              ("CBC Pedals", "Mista' Fuzz"),
+              ("CBC Pedals", "Mutha' Fuzz"),
+              ("CBC Pedals", "The Drive"),
+              ("CBC Pedals", "The Drive / Zendrive circuit"),
+              ("CBC Pedals", "The Superfuzz"),
           ]
 
-          def curl(url, max_time=10):
-              p=subprocess.run([
-                "curl","-L","--silent","--show-error","--compressed",
-                "--connect-timeout","4","--max-time",str(max_time),
-                "-A","Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36",
-                "-H","Accept-Language: en-US,en;q=0.9",url
-              ],capture_output=True,text=True,errors="ignore",timeout=max_time+3)
-              return p.stdout or ""
+          USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36"
+
+          def curl(url, max_time=8):
+              proc = subprocess.run(
+                  [
+                      "curl", "-L", "--silent", "--show-error", "--compressed",
+                      "--connect-timeout", "4", "--max-time", str(max_time),
+                      "-A", USER_AGENT,
+                      "-H", "Accept-Language: en-US,en;q=0.9",
+                      url,
+                  ],
+                  capture_output=True,
+                  text=True,
+                  errors="ignore",
+                  timeout=max_time + 4,
+              )
+              return proc.stdout or ""
 
           def clean(value):
-              return re.sub(r"s+"," ",html.unescape(re.sub(r"<[^>]+>"," ",value or ""))).strip()
+              text = html.unescape(re.sub(r"<[^>]+>", " ", value or ""))
+              return re.sub(r"\s+", " ", text).strip()
 
-          out=[]
-          for builder,pedal in targets:
-              queries=[
-                f'"{builder}" "{pedal}"',
-                f'"{pedal}" "{builder}" pedal',
-                f'"{pedal}" CBC pedals'
+          out = []
+          for builder, pedal in targets:
+              queries = [
+                  f'"{builder}" "{pedal}"',
+                  f'"{pedal}" "{builder}" pedal',
+                  f'"{pedal}" CBC pedals',
               ]
-              web=[]
-              images=[]
-              seen_web=set()
-              seen_img=set()
+              web = []
+              images = []
+              seen_web = set()
+              seen_img = set()
 
-              for q in queries:
-                enc=urllib.parse.quote(q)
-                for base,label in [
-                  ("https://www.bing.com/search?q=","bing-web"),
-                  ("https://html.duckduckgo.com/html/?q=","ddg-web"),
-                  ("https://www.google.com/search?q=","google-web")
-                ]:
-                  raw=curl(base+enc,8)
-                  for m in re.finditer(r'<li[^>]+class=["'][^"']*b_algo[^"']*["'][^>]*>[sS]*?<h2[^>]*>s*<a[^>]+href=["']([^"']+)["'][^>]*>([sS]*?)</a>[sS]*?</li>',raw,re.I):
-                    url=html.unescape(m.group(1))
-                    title=clean(m.group(2))
-                    if url.startswith("http") and url not in seen_web:
-                      seen_web.add(url); web.append({"engine":label,"title":title,"url":url})
-                  for m in re.finditer(r'https?://[^"'s<>]+',raw,re.I):
-                    url=urllib.parse.unquote(m.group(0)).rstrip('),.;')
-                    low=url.lower()
-                    if url.startswith("http") and any(host in low for host in [
-                      "reverb.com","effectsdatabase.com","equipboard.com","guitargearfinder.com",
-                      "guitarpedalx.com","thegearpage.net","youtube.com","cbcpedals.com"
-                    ]) and url not in seen_web:
-                      seen_web.add(url); web.append({"engine":label,"title":"","url":url})
+              for query in queries:
+                  encoded = urllib.parse.quote(query)
 
-                raw=curl("https://www.bing.com/images/search?form=HDRSC2&q="+enc,8)
-                for mm in re.finditer(r'(?:data-m|m)=["']([^"']+)',raw,re.I):
-                  try: obj=json.loads(html.unescape(mm.group(1)))
-                  except: continue
-                  murl=obj.get("murl","")
-                  if not murl or murl in seen_img: continue
-                  seen_img.add(murl)
-                  images.append({
-                    "title":obj.get("t",""),
-                    "purl":obj.get("purl",""),
-                    "murl":murl,
-                    "source":obj.get("s",""),
-                    "desc":obj.get("desc","")
-                  })
+                  raw = curl("https://www.bing.com/search?q=" + encoded)
+                  for match in re.finditer(
+                      r'<li[^>]+class=["\''][^"\'']*b_algo[^"\'']*["\''][^>]*>'
+                      r'[\s\S]*?<h2[^>]*>\s*<a[^>]+href=["\'']([^"\'']+)["\''][^>]*>'
+                      r'([\s\S]*?)</a>[\s\S]*?</li>',
+                      raw,
+                      re.I,
+                  ):
+                      url = html.unescape(match.group(1))
+                      title = clean(match.group(2))
+                      if url.startswith("http") and url not in seen_web:
+                          seen_web.add(url)
+                          web.append({"engine": "bing-web", "title": title, "url": url})
 
-              # Keep high-signal source domains and exact-name hits near the front.
-              def rank(x):
-                h=(x.get("title","")+" "+x.get("url", "")+" "+x.get("purl","")).lower()
-                score=0
-                if pedal.lower() in h: score+=100
-                if builder.lower() in h: score+=80
-                if "reverb.com" in h: score+=60
-                if "effectsdatabase.com" in h: score+=50
-                if "cbcpedals.com" in h: score+=45
-                if "youtube.com" in h: score+=30
-                return -score
+                  raw_img = curl("https://www.bing.com/images/search?form=HDRSC2&q=" + encoded)
+                  for match in re.finditer(r'(?:data-m|m)=["\'']([^"\'']+)["\'']', raw_img, re.I):
+                      try:
+                          obj = json.loads(html.unescape(match.group(1)))
+                      except Exception:
+                          continue
+                      murl = obj.get("murl", "")
+                      if not murl or murl in seen_img:
+                          continue
+                      seen_img.add(murl)
+                      images.append({
+                          "title": obj.get("t", ""),
+                          "purl": obj.get("purl", ""),
+                          "murl": murl,
+                          "source": obj.get("s", ""),
+                          "desc": obj.get("desc", ""),
+                      })
 
-              web=sorted(web,key=rank)[:40]
-              images=sorted(images,key=rank)[:60]
+              def rank(item):
+                  haystack = " ".join(
+                      str(item.get(field, "")) for field in ("title", "url", "purl", "murl")
+                  ).lower()
+                  score = 0
+                  if pedal.lower() in haystack:
+                      score += 100
+                  if builder.lower() in haystack:
+                      score += 80
+                  if "reverb.com" in haystack:
+                      score += 60
+                  if "effectsdatabase.com" in haystack:
+                      score += 50
+                  if "cbcpedals.com" in haystack:
+                      score += 45
+                  if "youtube.com" in haystack:
+                      score += 30
+                  return -score
 
-              for x in images[:12]:
-                if x["murl"].startswith("http") and x["murl"].lower().split("?")[0].endswith((".jpg",".jpeg",".png",".webp")):
-                  fn="artifact/"+re.sub(r"[^a-z0-9]+","-",builder+"-"+pedal+"-"+str(images.index(x)+1)).strip("-")+".jpg"
+              web = sorted(web, key=rank)[:40]
+              images = sorted(images, key=rank)[:60]
+
+              for index, item in enumerate(images[:12], start=1):
+                  murl = item.get("murl", "")
+                  if not murl.startswith("http"):
+                      continue
+                  ext = urllib.parse.urlparse(murl).path.lower().rsplit(".", 1)[-1]
+                  if ext not in {"jpg", "jpeg", "png", "webp"}:
+                      continue
+                  filename = (
+                      "artifact/"
+                      + re.sub(r"[^a-z0-9]+", "-", f"{builder}-{pedal}-{index}".lower()).strip("-")
+                      + ".jpg"
+                  )
                   try:
-                    p=subprocess.run([
-                      "curl","-L","--silent","--show-error","--fail",
-                      "--connect-timeout","4","--max-time","8","-A","Mozilla/5.0",
-                      "-o",fn,x["murl"]
-                    ],capture_output=True,timeout=11)
-                    if p.returncode==0 and Path(fn).stat().st_size>3000:
-                      x["artifact"]=fn
-                  except: pass
+                      proc = subprocess.run(
+                          ["curl", "-L", "--silent", "--show-error", "--fail",
+                           "--connect-timeout", "4", "--max-time", "8",
+                           "-A", USER_AGENT, "-o", filename, murl],
+                          capture_output=True,
+                          timeout=11,
+                      )
+                      if proc.returncode == 0 and Path(filename).is_file() and Path(filename).stat().st_size > 3000:
+                          item["artifact"] = filename
+                  except Exception:
+                      pass
 
-              out.append({"builder":builder,"pedal":pedal,"web":web,"images":images})
+              out.append({
+                  "builder": builder,
+                  "pedal": pedal,
+                  "web": web,
+                  "images": images,
+              })
 
-          Path("artifact/prp-next-research.json").write_text(json.dumps(out,ensure_ascii=False,indent=2)+"
-",encoding="utf-8")
-          print(json.dumps(out,ensure_ascii=False,indent=2))
+          Path("artifact/prp-next-research.json").write_text(
+              json.dumps(out, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          print(json.dumps(out, ensure_ascii=False, indent=2))
           PY
 
       - name: Upload research probe
