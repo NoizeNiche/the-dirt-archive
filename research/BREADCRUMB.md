@@ -1,3 +1,13 @@
+## PRP1/photo publication checkpoint - September 24, 2026
+
+The PRP1 unit for **CBC Pedals - The Drive** is now fully published on `main`. Its research record exists at `./research/pedals/CBC Pedals/The Drive.md`, and the exact photo is archived at `./assets/pedals/cbc-pedals/the-drive/primary.webp`. Catalog and photo-manifest image paths now agree.
+
+The first PRP1 publication exposed a staging omission in the atomic workflow: the initial PRP1 commit did not include `assets/pedals/**` or the derived photo queues. The workflow has been corrected to stage those outputs. The Drive was then reset to a legitimate photo-needed state, recovered through a verified direct Reverb image lead, and republished through the canonical local-image cache. The validator remained strict throughout.
+
+Current verified tracker state: **3,765 total / 1,272 researched / 1,273 pictured / 1,273 PRP-complete / 0 researched-photo-pending / 2,492 photo-missing**.
+
+The next exact-order incomplete target is **CBC Pedals - The Superfuzz**. Its PRP1 intake package is already queued with exact Reverb sources and direct image leads.
+
 ## PRP1 publication checkpoint - September 24, 2026
 
 PRP1 #806 successfully published **CBC Pedals - The Drive** with an exact local photo after passing the photo gate, final local-image check, provenance capture, atomic rebase, and full cross-file verification. The intake package was consumed.
