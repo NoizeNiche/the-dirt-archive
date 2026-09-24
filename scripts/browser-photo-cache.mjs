@@ -406,6 +406,26 @@ async function makerWebCandidates(page, entry) {
         return out;
       });
 
+      if (!results.length) {
+        try {
+          const proc = await execFileAsync('curl', [
+            '-L', '--silent', '--show-error', '--compressed',
+            '--connect-timeout', '3', '--max-time', '5',
+            '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
+            '-H', 'Accept-Language: en-US,en;q=0.9',
+            String(searchUrl)
+          ], { timeout: 6500, maxBuffer: 4 * 1024 * 1024 });
+          const html = String(proc.stdout || '');
+          const rawResults = [];
+          for (const match of html.matchAll(/<li[^>]+class=["']b_algo[^"']*["'][^>]*>[\s\S]*?<h2[^>]*>\s*<a[^>]+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
+            const purl = match[1].replace(/&amp;/g, '&');
+            const title = match[2].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+            if (/^https?:/i.test(purl) && title) rawResults.push({ purl, title, snippet: '' });
+          }
+          results = [...new Map(rawResults.map(x => [x.purl, x])).values()];
+        } catch {}
+      }
+
       for (const result of results) {
         if (!merged.has(result.purl)) merged.set(result.purl, result);
       }
@@ -1963,6 +1983,18 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           if (!response.ok() || !type.startsWith('image/')) continue;
           const bytes = await response.body();
           if (imageBytesLookComplete(bytes, type)) return { bytes, src: source };
+        } catch {}
+      }
+      for (const proxyUrl of proxyUrls) {
+        try {
+          const proc = await execFileAsync('curl', [
+            '-L', '--fail', '--silent', '--show-error', '--compressed',
+            '--connect-timeout', '3', '--max-time', '6',
+            '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
+            String(proxyUrl)
+          ], { timeout: 7000, maxBuffer: 4 * 1024 * 1024 });
+          const bytes = Buffer.from(proc.stdout || '');
+          if (imageBytesLookComplete(bytes)) return { bytes, src: source };
         } catch {}
       }
       return null;
