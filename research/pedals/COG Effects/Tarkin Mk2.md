@@ -4,28 +4,35 @@
 - **Archive parent:** Tarkin Mk2
 - **Builder:** COG Effects
 - **Catalog type:** Fuzz
-- **Identity:** COG Effects Tarkin Mk2.
+- **Identity:** COG Effects Tarkin Mk2, a compact Green Russian-inspired fuzz with switchable filter shapes and internal clipping options.
 
 ## What this pedal is
-The Dirt Archive's verified catalog census records this exact builder/model identity and classifies it as **Fuzz**. The current retained source material does not preserve enough exact-model documentation to safely assign circuit lineage, complete controls, component values, or revision history.
-
-## Colorways
-No complete factory colorway sequence was established.
+COG Effects describes the Mk2 as the smaller successor to Tarkin Mk1, placed in a Hammond 1590A enclosure and expanded with LPF and HPF switches around the Tone circuit. [1]
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+- Fuzz.
+- Tone.
+- Level.
+- LPF switch.
+- HPF switch.
+- Internal clipping-stage switches.
+- Internal options to remove either clipping-diode pair.
+- True bypass.
+- 9V DC.
+- Hammond 1590A enclosure. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+Mk2 adds LPF/HPF switches that alter Tone-filter corner frequencies and internal clipping options, including diode removal. [1][2]
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+Four-transistor Green Russian-derived design; exact transistor part numbers not established.
 
 ## Diode
-Unknown from the checked exact-model documentation.
+Internal switches alter clipping style or remove either clipping-diode stage. Exact diode part numbers not established. [1]
 
 ## Sound
-The model is documented as fuzz. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+LPF and HPF reshape the classic Green Russian mid scoop toward more cutting midrange. Internal clipping switches move between smoother and more biting responses. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. COG Effects — Tarkin Fuzz: https://www.cogeffects.co.uk/tarkin-fuzz.php
+2. Reverb — Tarkin Fuzz MkII: https://reverb.com/item/21041484-cog-effects-tarkin-fuzz-mkii-mini-1590a-russian-bass-fuzz-pedal

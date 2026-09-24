@@ -4,28 +4,33 @@
 - **Archive parent:** Mini 66 Bass Overdrive
 - **Builder:** COG Effects
 - **Catalog type:** Overdrive
-- **Identity:** COG Effects Mini 66 Bass Overdrive.
+- **Identity:** COG Effects Mini 66, the compact one-channel descendant of Knightfall 66.
 
 ## What this pedal is
-The Dirt Archive's verified catalog census records this exact builder/model identity and classifies it as **Overdrive**. The current retained source material does not preserve enough exact-model documentation to safely assign circuit lineage, complete controls, component values, or revision history.
-
-## Colorways
-No complete factory colorway sequence was established.
+Mini 66 is a streamlined Knightfall 66 in a Hammond 1590A enclosure. It keeps the filtered clean blend and replaces Voice and Tone with three-position Fat and Cut switches. [1]
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+- Gain.
+- Clean Level.
+- Three-position Fat switch.
+- Three-position Cut switch.
+- Filtered clean blend.
+- True bypass.
+- 9V DC.
+- Hammond 1590A aluminium enclosure. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+Mini 66 is a compact single-channel derivative of Knightfall 66. [1][2]
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+No exact transistor part number established.
 
 ## Diode
-Unknown from the checked exact-model documentation.
+No exact diode specification established.
 
 ## Sound
-The model is documented as overdrive. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+Fat changes low end entering the gain stage; Cut controls post-clipping high-frequency content. The filtered clean path integrates with the driven signal. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. Effects Database — Mini 66: https://www.effectsdatabase.com/model/cog/mini66
+2. Guitar Interactive Magazine — Knightfall 66 / Mini 66: https://guitarinteractivemagazine.com/news/knightfall-66-and-mini-66-overdrives-released-by-cog-effects/
