@@ -17686,9 +17686,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cbc-pedals/harmonic-percolator/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/CBC Pedals/Harmonic Percolator.md"
+      "research_record": "./research/pedals/CBC Pedals/Harmonic Percolator.md",
+      "image_source_url": "https://i.ytimg.com/vi/CGmivbA_2B4/maxresdefault.jpg",
+      "image_source_page": "https://www.youtube.com/watch?v=CGmivbA_2B4"
     },
     {
       "company": "CBC Pedals",
