@@ -1,6 +1,6 @@
 ## PRP1 resumed after photo gate closure - September 24, 2026
 
-Verified live tracker state: **3,770 total / 1,271 researched / 1,272 pictured / 1,272 complete / 0 researched-photo-pending / 2,498 photo-missing**.
+Verified live tracker state: **3,770 total / 1,272 researched / 1,272 pictured / 1,272 complete / 0 researched-photo-pending / 2,498 photo-missing**.
 
 The final researched-photo blocker, **CBC Pedals - Harmonic Percolator**, now has a locally archived exact pedal photograph at `./assets/pedals/cbc-pedals/harmonic-percolator/primary.webp`. The exact asset was inspected directly before accepting the tracker transition to DONE. The earlier Equipboard-logo false positive had already been removed.
 
