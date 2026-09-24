@@ -2559,6 +2559,7 @@
       "image_source_pages": [
         "https://reverb.com/p/amptweaker-tight-drive-jr",
         "https://www.soundhouse.co.jp/en/products/detail/item/255411/",
+        "https://reverb.com/en-nl/item/91900417-amptweaker-tight-drive-jr-2010s-green",
         "https://www.talkbass.com/threads/spector%C2%AE-owners-club.1066466/page-4737"
       ],
       "image_source_pages_verified": true,
@@ -2566,7 +2567,8 @@
       "image_source_priority": 100000,
       "image_source_url": "https://www.talkbass.com/attachments/img_0797-jpeg.5052266/",
       "image_source_urls": [
-        "https://www.talkbass.com/attachments/img_0797-jpeg.5052266/"
+        "https://www.talkbass.com/attachments/img_0797-jpeg.5052266/",
+        "https://rvb-img.reverb.com/i/s--KUTxDzAj--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adruwdzkqwkt6djyloen.jpg"
       ]
     },
     {
@@ -8879,14 +8881,18 @@
       "image": null,
       "source_page": "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome",
       "research_record": "./research/pedals/PRP Batch 088/Proxy.md",
-      "image_source_page": "https://reverb.com/ca/item/43700024-proxy-v2-beatles-vox-ul730-overdrive-with-vox-conqueror-mid-boost-switch",
+      "image_source_page": "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome",
       "image_source_page_verified": true,
-      "image_source_priority": 493,
+      "image_source_priority": 100000,
       "image_source_pages": [
         "https://reverb.com/item/76574978-bispell-audio-proxy-vox-ul730-conqueror-beatles-zeppelin-free-shipping-offers-welcome",
         "https://reverb.com/ca/item/43700024-proxy-v2-beatles-vox-ul730-overdrive-with-vox-conqueror-mid-boost-switch"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s---n9RUyFl--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Crotate%3D270/wq9ckkfon5zyznpdkobf.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s---n9RUyFl--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Crotate%3D270/wq9ckkfon5zyznpdkobf.jpg"
+      ]
     },
     {
       "company": "Bispell Audio",
@@ -10365,7 +10371,8 @@
       "image_source_pages_verified": true,
       "image_source_url": "https://rvb-img.reverb.com/i/s--ZlebMFU3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ffr0rg17eckvubv1v2yv.jpg",
       "image_source_urls": [
-        "https://rvb-img.reverb.com/i/s--ZlebMFU3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ffr0rg17eckvubv1v2yv.jpg"
+        "https://rvb-img.reverb.com/i/s--ZlebMFU3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ffr0rg17eckvubv1v2yv.jpg",
+        "https://rvb-img.reverb.com/i/s--tONA91gl--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/vbm2vxmbhylozytijump.jpg"
       ]
     },
     {
@@ -13172,7 +13179,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/bsm/fassbender",
       "image_source_url": "https://www.effectsdatabase.com/model/bsm",
       "image_source_page_verified": true,
-      "image_source_priority": 177,
+      "image_source_priority": 513,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/bsm/fassbender"
       ],
