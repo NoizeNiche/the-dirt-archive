@@ -26,3 +26,5 @@ jobs:
           node-version: 20
       - name: Validate archive
         run: python scripts/validate-archive.py
+      - name: Verify photo state
+        run: python scripts/verify-photo-state.py
