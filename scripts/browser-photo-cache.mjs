@@ -945,6 +945,22 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
       add(match[1]);
     }
 
+    // Bing occasionally embeds its image metadata as standalone JSON rather
+    // than on an iusc element. Recover those exact murl/purl pairs too.
+    for (const match of rawHtml.matchAll(/"murl":"([^"]+)"/gi)) {
+      const start = Math.max(0, match.index - 1800);
+      const end = Math.min(rawHtml.length, match.index + 2600);
+      const chunk = rawHtml.slice(start, end);
+      const purlMatch = chunk.match(/"purl":"([^"]+)"/i);
+      const titleMatch = chunk.match(/"t":"([^"]{0,400})"/i);
+      add(JSON.stringify({
+        murl: match[1],
+        purl: purlMatch?.[1] || '',
+        t: titleMatch?.[1] || '',
+        s: purlMatch?.[1] || ''
+      }));
+    }
+
     return out;
   }
 
@@ -1974,7 +1990,9 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
 
       const proxyUrls = [
         'https://wsrv.nl/?url=' + encodeURIComponent(source),
-        'https://images.weserv.nl/?url=' + encodeURIComponent(source)
+        'https://wsrv.nl/?url=' + source,
+        'https://images.weserv.nl/?url=' + encodeURIComponent(source),
+        'https://images.weserv.nl/?url=' + source
       ];
       for (const proxyUrl of proxyUrls) {
         try {
