@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:06:18.755736+00:00",
+  "generated_at": "2026-09-24T10:06:51.759465+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1356,
+    "researched": 1358,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2409
+    "research_pending": 2407
   },
   "next_target": {
     "builder": "Century",
@@ -109,18 +109,6 @@
       "research_record": ""
     },
     {
-      "builder": "Chicago Stompworks",
-      "pedal": "Fat Bald Guy",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chicago Stompworks",
-      "pedal": "Greeny",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "ChiralityAudio",
       "pedal": "Black Swan",
       "catalog_type": "",
@@ -165,6 +153,18 @@
     {
       "builder": "Chocolate Electronics",
       "pedal": "Chocolate Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chocolate Electronics",
+      "pedal": "Fuzzy Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chocolate Electronics",
+      "pedal": "Melty Overdrive",
       "catalog_type": "",
       "research_record": ""
     }
