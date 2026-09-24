@@ -261,9 +261,36 @@ jobs:
           if-no-files-found: ignore
           retention-days: 1
 
+  foreman:
+    name: Photo verification foreman
+    needs: [recover]
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Download raw recoveries
+        uses: actions/download-artifact@v5
+        with:
+          path: recovery-artifacts
+      - name: Install image tooling
+        run: python -m pip install --disable-pip-version-check pillow
+      - name: Verify every recovered image
+        run: python scripts/photo-foreman.py
+      - name: Upload only foreman-approved recoveries
+        uses: actions/upload-artifact@v4
+        with:
+          name: verified-recovery
+          path: |
+            verified-recovery/
+            photo-foreman-results.json
+          retention-days: 1
+          if-no-files-found: warn
+
   merge:
     name: Merge recovered photos
-    needs: [recover]
+    needs: [recover, foreman]
     if: ${{ always() }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -273,9 +300,10 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Download recovery artifacts
+      - name: Download foreman-approved recovery artifacts
         uses: actions/download-artifact@v5
         with:
+          name: verified-recovery
           path: recovery-artifacts
 
       - name: Install image tooling
