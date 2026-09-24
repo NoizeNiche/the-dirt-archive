@@ -21790,7 +21790,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/coopersonic/valveslapper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coopersonic/Valveslapper.md"
     },
@@ -21800,7 +21800,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/copilot-fx/mantis/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Copilot FX/Mantis.md"
     },
