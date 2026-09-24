@@ -128,6 +128,35 @@ jobs:
           )
           PHOTO_CACHE_TARGET_BUILDER="$BUILDER" PHOTO_CACHE_TARGET_PEDAL="$PEDAL" python scripts/cache-pedal-images.py
 
+      - name: Require exact local photo for PRP1 target
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          target = json.loads(Path(".prp1-target.json").read_text(encoding="utf-8"))
+          catalog = json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8"))
+          key = (target["builder"], target["pedal"])
+          matches = [
+              x for x in catalog.get("pedals", [])
+              if (x.get("company"), x.get("pedal")) == key
+          ]
+          if len(matches) != 1:
+              raise SystemExit(f"PRP1 target missing or duplicated in catalog: {key}")
+
+          image = str(matches[0].get("image") or "")
+          local_path = Path(image[2:] if image.startswith("./") else image)
+          if (
+              not image
+              or image.lower().startswith(("http://", "https://"))
+              or not local_path.is_file()
+          ):
+              raise SystemExit(f"PRP1 target still lacks exact local photo: {key} -> {image}")
+
+          print(f"PRP1 target photo confirmed: {key} -> {local_path}")
+          PY
+
       - name: Reconcile tracker and finalize atomic record
         if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
         run: python scripts/prp1-finalize-intake.py
