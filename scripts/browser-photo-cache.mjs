@@ -1602,6 +1602,11 @@ function deepReviewSourcePageEligible(pageUrl) {
 }
 
 async function curlVerifiedSourcePageImages(entry, pageUrl) {
+  // CAT Sound's archived Effects Database page has historically exposed
+  // different legacy image/link forms. Preserve a diagnostic snapshot of the
+  // exact raw source markup for this one remaining holdout so recovery can use
+  // real current references instead of filename guesses.
+
   if (!deepReviewSourcePageEligible(pageUrl)) return [];
   let html = '';
   try {
@@ -1615,6 +1620,15 @@ async function curlVerifiedSourcePageImages(entry, pageUrl) {
     html = String(proc.stdout || '');
   } catch {}
   if (!html) return [];
+
+  if (entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass') {
+    try {
+      const needles = html.split(/\\r?\\n/).filter(line =>
+        /drivecenter|gear\/pics|gear\/thumbs|reverb|ebay|image|photo/i.test(line)
+      ).slice(0, 80);
+      console.log('CAT Sound raw source references: ' + needles.join(' ').slice(0, 30000));
+    } catch {}
+  }
 
   const title = (html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [,''])[1]
     .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
