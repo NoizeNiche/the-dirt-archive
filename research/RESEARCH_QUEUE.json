@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:03:12.909120+00:00",
+  "generated_at": "2026-09-24T10:03:34.597426+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1337,
+    "researched": 1338,
     "pictured": 1286,
     "complete": 1286,
-    "research_pending": 2428
+    "research_pending": 2427
   },
   "next_target": {
     "builder": "Century",
@@ -33,12 +33,6 @@
     {
       "builder": "Chaos Custom Shop / Chaos FX",
       "pedal": "K.O. Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chapter 53 Boutique Effects",
-      "pedal": "Fuzzmaster",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +159,12 @@
     {
       "builder": "Chellee Guitars",
       "pedal": "Sir Robin - Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chemistry Design Werks",
+      "pedal": "Gigawatt - Overdrive & Delay",
       "catalog_type": "",
       "research_record": ""
     }
