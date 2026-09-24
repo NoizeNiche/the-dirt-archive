@@ -1,95 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T23:22:02.451647+00:00",
+  "generated_at": "2026-09-24T23:33:18.388339+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1692,
-    "pictured": 1615,
-    "complete": 1615,
-    "research_pending": 2073
+    "researched": 1704,
+    "pictured": 1629,
+    "complete": 1629,
+    "research_pending": 2061
   },
   "next_target": {
-    "builder": "CopperSound Pedals",
-    "pedal": "Mystique Germanium Fuzz & Boost",
+    "builder": "Correct Sound",
+    "pedal": "Black Sunn",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "CopperSound Pedals",
-      "pedal": "Mystique Germanium Fuzz & Boost",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cornell Amplification",
-      "pedal": "Over Drive Special",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cornerstone Music Gear",
-      "pedal": "Sparkle",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coron",
-      "pedal": "Coron Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coron",
-      "pedal": "Coron Octaver 2",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coron",
-      "pedal": "Coron Over Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coron",
-      "pedal": "D-500 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coron",
-      "pedal": "DT-510 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coron",
-      "pedal": "HD-520 Heavy Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coron",
-      "pedal": "HM-520 Heavy Metal Turbo",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coron",
-      "pedal": "HO-320 Heavy Over Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coron",
-      "pedal": "O-300 Over Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Correct Sound",
       "pedal": "Black Sunn",
@@ -165,6 +93,78 @@
     {
       "builder": "Cosmic Terror",
       "pedal": "Droog",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmic Terror",
+      "pedal": "Low Frequency Destroyer",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmic Terror",
+      "pedal": "Sonic Doom",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmic Terror",
+      "pedal": "Sonic Rat",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmic Terror",
+      "pedal": "The Butcher",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmodio Instruments",
+      "pedal": "Glitch Witch - Auto-Modulated Logic Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmodio Instruments",
+      "pedal": "Pet Yeti",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmosound",
+      "pedal": "CSE-14 Distortion/Volume",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmosound",
+      "pedal": "CSE-3 Wah-Wah Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmosound",
+      "pedal": "Distortion Whau-Whau",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmosound",
+      "pedal": "Distortion Whau-Whau Repeat",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmosound",
+      "pedal": "E-6 Powerful Sound",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cosmosound",
+      "pedal": "E-7 Fearfully-Sound",
       "catalog_type": "",
       "research_record": ""
     }
