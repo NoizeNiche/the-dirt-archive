@@ -21640,7 +21640,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/coolpedals/dirty-devil/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolpedals/Dirty Devil.md",
       "image_source_page": "https://reverb.com/item/95988655-boutique-coolpedals-dirty-devil-2009-distor-tube-screamer-boost"
@@ -21902,7 +21902,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/coppersound-pedals/foxcatcher-v1-overdrive-boost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CopperSound Pedals/Foxcatcher V1 Overdrive & Boost.md"
     },
@@ -21912,7 +21912,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/coppersound-pedals/foxcatcher-v2-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CopperSound Pedals/Foxcatcher V2 Overdrive.md"
     },
@@ -21922,7 +21922,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/coppersound-pedals/ion-warped-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CopperSound Pedals/Ion Warped Fuzz.md"
     },
@@ -21932,7 +21932,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/coppersound-pedals/kingpin-germanium-clipper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CopperSound Pedals/Kingpin Germanium Clipper.md"
     },
@@ -21962,7 +21962,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/coppersound-pedals/mystique-germanium-fuzz-boost-limited-edition/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CopperSound Pedals/Mystique Germanium Fuzz & Boost (Limited Edition).md"
     },
@@ -21972,7 +21972,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/coppersound-pedals/renegade-multi-bias-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CopperSound Pedals/Renegade Multi-Bias Fuzz.md"
     },
@@ -21982,7 +21982,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/coppersound-pedals/strategy-overdrive-preamp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CopperSound Pedals/Strategy Overdrive & Preamp.md"
     },
@@ -22062,7 +22062,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cornerstone-music-gear/antique-v3/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cornerstone Music Gear/Antique V3.md"
     },
@@ -22092,7 +22092,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cornerstone-music-gear/gladio-double-preamp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cornerstone Music Gear/Gladio - Double Preamp.md"
     },

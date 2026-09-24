@@ -14497,7 +14497,7 @@
   {
     "builder": "Coolpedals",
     "pedal": "Dirty Devil",
-    "image": null,
+    "image": "./assets/pedals/coolpedals/dirty-devil/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coolpedals/Dirty Devil.md",
     "image_source_page": "https://reverb.com/item/95988655-boutique-coolpedals-dirty-devil-2009-distor-tube-screamer-boost"
@@ -14677,28 +14677,28 @@
   {
     "builder": "CopperSound Pedals",
     "pedal": "Foxcatcher V1 Overdrive & Boost",
-    "image": null,
+    "image": "./assets/pedals/coppersound-pedals/foxcatcher-v1-overdrive-boost/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CopperSound Pedals/Foxcatcher V1 Overdrive & Boost.md"
   },
   {
     "builder": "CopperSound Pedals",
     "pedal": "Foxcatcher V2 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/coppersound-pedals/foxcatcher-v2-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CopperSound Pedals/Foxcatcher V2 Overdrive.md"
   },
   {
     "builder": "CopperSound Pedals",
     "pedal": "Ion Warped Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coppersound-pedals/ion-warped-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CopperSound Pedals/Ion Warped Fuzz.md"
   },
   {
     "builder": "CopperSound Pedals",
     "pedal": "Kingpin Germanium Clipper",
-    "image": null,
+    "image": "./assets/pedals/coppersound-pedals/kingpin-germanium-clipper/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CopperSound Pedals/Kingpin Germanium Clipper.md"
   },
@@ -14719,21 +14719,21 @@
   {
     "builder": "CopperSound Pedals",
     "pedal": "Mystique Germanium Fuzz & Boost (Limited Edition)",
-    "image": null,
+    "image": "./assets/pedals/coppersound-pedals/mystique-germanium-fuzz-boost-limited-edition/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CopperSound Pedals/Mystique Germanium Fuzz & Boost (Limited Edition).md"
   },
   {
     "builder": "CopperSound Pedals",
     "pedal": "Renegade Multi-Bias Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coppersound-pedals/renegade-multi-bias-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CopperSound Pedals/Renegade Multi-Bias Fuzz.md"
   },
   {
     "builder": "CopperSound Pedals",
     "pedal": "Strategy Overdrive & Preamp",
-    "image": null,
+    "image": "./assets/pedals/coppersound-pedals/strategy-overdrive-preamp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CopperSound Pedals/Strategy Overdrive & Preamp.md"
   },
@@ -14789,7 +14789,7 @@
   {
     "builder": "Cornerstone Music Gear",
     "pedal": "Antique V3",
-    "image": null,
+    "image": "./assets/pedals/cornerstone-music-gear/antique-v3/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cornerstone Music Gear/Antique V3.md"
   },
@@ -14810,7 +14810,7 @@
   {
     "builder": "Cornerstone Music Gear",
     "pedal": "Gladio - Double Preamp",
-    "image": null,
+    "image": "./assets/pedals/cornerstone-music-gear/gladio-double-preamp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cornerstone Music Gear/Gladio - Double Preamp.md"
   },
