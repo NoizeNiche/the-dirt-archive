@@ -4,6 +4,7 @@
 - **Archive parent:** P008 Golden Ratio
 - **Builder:** Collateral FX
 - **Catalog type:** Fuzz
+- **Catalog identity:** P008 Golden Ratio Fuzz
 - **Identity:** Collateral FX Golden Ratio, a one-knob fuzz/drive based on the Alan Yee Fuzzy Nuts.
 
 ## What this pedal is
