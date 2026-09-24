@@ -1,6 +1,6 @@
 ## Current recovery checkpoint - September 24, 2026
 
-The live research/PRP_TRACKER.csv currently parses to **3,770 total records / 1,271 researched records / 1,272 pictured records / 1,272 PRP-complete records / 0 researched-photo-pending / 2,498 photo-missing records overall**.
+The live research/PRP_TRACKER.csv currently parses to **3,770 total records / 1,272 researched records / 1,272 pictured records / 1,272 PRP-complete records / 0 researched-photo-pending / 2,498 photo-missing records overall**.
 
 The researched-photo gate is now **0**. The final blocker, **CBC Pedals - Harmonic Percolator**, has a locally archived image at ./assets/pedals/cbc-pedals/harmonic-percolator/primary.webp. Asset-level inspection confirmed the archived file is an actual pedal photograph, and the tracker/catalog/manifest are synchronized to the local asset. The previous Equipboard-logo false positive was removed before this final image was accepted.
 
