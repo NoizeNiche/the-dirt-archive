@@ -18307,7 +18307,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/chaos-custom-shop-chaos-fx/x-drive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chaos Custom Shop - Chaos FX/X.Drive Distortion.md"
     },
@@ -19945,7 +19945,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cobrahawk/b12-go-fuzz-yourself-paul/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cobrahawk/B12 Go Fuzz Yourself (Paul).md"
     },
@@ -20723,7 +20723,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/collision-devices/black-hole-symmetry/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collision Devices/Black Hole Symmetry.md",
       "image_source_page": "https://reverb.com/p/collision-devices-black-hole-symmetry"
@@ -20820,7 +20820,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/colombo-audio-electronics/bricks/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Colombo Audio Electronics/Bricks.md",
       "image_source_page": "https://reverb.com/en-fr/item/43590293-colombo-audio-electronics-bricks-david-gilmour-style-distortion-boost-fuzz-eq"
@@ -20869,7 +20869,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/colombo-audio-electronics/kensington/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Colombo Audio Electronics/Kensington.md",
       "image_source_page": "https://colomboaudioelectronics.it/prodotto/kensington/"
@@ -21030,7 +21030,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/colombo-audio-electronics/utopia-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Colombo Audio Electronics/Utopia Overdrive.md",
       "image_source_page": "https://www.youtube.com/watch?v=TfjmU087_Dw"
@@ -21112,7 +21112,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/colorsound-sola-sound/eurotec-black-box-fuzz-module/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Colorsound / Sola Sound/Eurotec Black Box Fuzz Module.md",
       "image_source_page": "https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html"
@@ -21123,7 +21123,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/colorsound-sola-sound/g-b-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Colorsound / Sola Sound/G.B. Fuzz.md",
       "image_source_page": "https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html"
@@ -21157,7 +21157,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/colorsound-sola-sound/pro-traffic-fuzz-unit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Colorsound / Sola Sound/Pro Traffic Fuzz Unit.md",
       "image_source_page": "https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html"
@@ -21189,7 +21189,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/colorsound-sola-sound/tone-bender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Colorsound / Sola Sound/Tone Bender.md"
     },
@@ -21301,7 +21301,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/comet-effects/hyperdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Comet Effects/Hyperdrive.md"
     },
@@ -21311,7 +21311,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/commune/senturion-crazy-booster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Commune/Senturion Crazy Booster.md"
     },
@@ -21331,7 +21331,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/commune/senturion-preamp-500/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Commune/Senturion Preamp 500.md"
     },
@@ -21341,7 +21341,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/commune-eca-empire-custom-amplification/screem/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Commune/ECA Screem.md"
     },
@@ -21361,7 +21361,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/comodoro-pedales/botfly-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Comodoro Pedales/Botfly Fuzz.md"
     },
@@ -21411,7 +21411,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/compulsive-audio/dimed-boogie/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Dimed Boogie.md"
     },
@@ -21492,7 +21492,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/concrete-sound-lab/slab/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Concrete Sound Lab/SLAB.md"
     },
