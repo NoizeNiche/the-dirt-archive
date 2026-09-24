@@ -11782,9 +11782,11 @@
   {
     "builder": "CBC Pedals",
     "pedal": "The Superfuzz",
-    "image": null,
+    "image": "./assets/pedals/cbc-pedals/the-superfuzz/primary.webp",
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CBC Pedals/The Superfuzz.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--8RraDQst--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/o96okkls6vy1igl3unhi.jpg",
+    "image_source_page": "https://reverb.com/item/663375-cbc-the-superfuzz-shin-ei-fy-6-univox-superfuzz-clone"
   },
   {
     "builder": "CBS-Arbiter",
