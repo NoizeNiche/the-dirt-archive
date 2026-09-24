@@ -3250,6 +3250,13 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           ].join(' '));
           const exactPedalPhrase = normalizedIdentity(entry.pedal);
           const exactBuilderPhrase = normalizedIdentity(entry.company);
+          let resultPath = '';
+          let resultHost = '';
+          try {
+            const parsedResult = new URL(result.purl || '');
+            resultPath = normalizedIdentity(parsedResult.pathname);
+            resultHost = parsedResult.hostname.toLowerCase().replace(/^www\./, '');
+          } catch {}
           const builderIdentityMatch =
             exactBuilderPhrase.length >= 3 &&
             (
@@ -3262,9 +3269,20 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               resultHaystack.includes(exactPedalPhrase) ||
               (pedalTokens.length > 0 && pedalTokens.every(token => resultHaystack.includes(token)))
             );
+          const modelTokenInSourcePath =
+            pedalTokens.length === 0 ||
+            pedalTokens.some(token => resultPath.includes(token));
+          const likelyProductSourceHost =
+            builderTokens.some(token => resultHost.includes(token)) ||
+            /reverb|ebay|effectsdatabase|guitarpedalx|talkbass|rockboard|pedal|stomp|effect|guitar|music|audio|shopify|bigcartel|mitienda/.test(resultHost);
+          const genericSeoSourcePath =
+            /distortion[-_ ]?pedal|pedal[-_ ]?for[-_ ]?rock|best[-_ ]?pedal|top[-_ ]?pedals|roundup|guide|\breview\b/.test(resultPath);
           const strongSearchIdentity =
             builderIdentityMatch &&
             pedalIdentityMatch &&
+            modelTokenInSourcePath &&
+            likelyProductSourceHost &&
+            !genericSeoSourcePath &&
             result.purl &&
             /^https?:/i.test(result.purl);
 
