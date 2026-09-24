@@ -1475,8 +1475,8 @@ CMAT Mods,Signa Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/S
 CMAT Mods,Super Signa Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Super Signa Drive.md
 CMAT Mods,Tube Slammer,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Tube Slammer.md
 CMAT Mods,Tube Slammer Deluxe,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Tube Slammer Deluxe.md
-CMC Audio,Bi Filter Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-CMC Audio,PROTO TYPE V2,Overdrive,NEEDED,NEEDED,NEEDED,
+CMC Audio,Bi Filter Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/CMC Audio/Bi Filter Fuzz.md
+CMC Audio,PROTO TYPE V2,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMC Audio/PROTO TYPE V2.md
 CMI,CMI Fuzz Unit,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/CMI/CMI Fuzz Unit.md
 CMI,Wah Fuzz Swell,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/CMI/Wah Fuzz Swell.md
 CNZ Audio,GDS-20 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/CNZ Audio/GDS-20 Distortion.md

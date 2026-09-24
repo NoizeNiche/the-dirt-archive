@@ -1,35 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:32:47.629596+00:00",
+  "generated_at": "2026-09-24T10:33:24.363841+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1485,
+    "researched": 1487,
     "pictured": 1381,
     "complete": 1381,
-    "research_pending": 2280
+    "research_pending": 2278
   },
   "next_target": {
-    "builder": "CMC Audio",
-    "pedal": "Bi Filter Fuzz",
+    "builder": "Cobrahawk",
+    "pedal": "B12 Fuzz",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "CMC Audio",
-      "pedal": "Bi Filter Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CMC Audio",
-      "pedal": "PROTO TYPE V2",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Cobrahawk",
       "pedal": "B12 Fuzz",
@@ -165,6 +153,18 @@
     {
       "builder": "COG Effects",
       "pedal": "Knightfall",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "Knightfall 66",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "Mini 66 Bass Overdrive",
       "catalog_type": "",
       "research_record": ""
     }
