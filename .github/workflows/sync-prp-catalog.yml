@@ -8,6 +8,8 @@ on:
       - 'research/RESEARCH_KICK'
       - 'scripts/sync_prp_catalog.py'
       - 'scripts/build-research-queue.py'
+  schedule:
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
