@@ -1,4 +1,4 @@
-name: Sync PRP catalog wiring
+name: Sync research catalog
 
 on:
   push:
@@ -6,7 +6,9 @@ on:
     paths:
       - 'research/PRP_SYNC_QUEUE/**'
       - 'research/pedals/**'
+      - 'research/RESEARCH_KICK'
       - 'scripts/sync_prp_catalog.py'
+      - 'scripts/build-research-queue.py'
   workflow_dispatch:
 
 permissions:
@@ -24,20 +26,26 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
-      - name: Synchronize research records into catalog and photo manifest
+      - name: Synchronize research records into canonical catalog and photo manifest
         run: python scripts/sync_prp_catalog.py
 
       - name: Synchronize tracker from canonical catalog
         run: python scripts/sync-prp-tracker.py
 
+      - name: Build Catalog Research Phase queue
+        run: python scripts/build-research-queue.py
+
+      - name: Validate archive structure
+        run: python scripts/validate-archive.py
+
       - name: Persist synchronization
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv
+          git add research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
           if git diff --cached --quiet; then
             echo "PRP metadata already synchronized."
           else
-            git commit -m "PRP1: Synchronize research catalog wiring"
+            git commit -m "Sync research catalog and phase queue"
             git push
           fi
