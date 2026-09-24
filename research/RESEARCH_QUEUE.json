@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:17:18.445257+00:00",
+  "generated_at": "2026-09-24T10:19:10.816319+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1403,
+    "researched": 1410,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2362
+    "research_pending": 2355
   },
   "next_target": {
     "builder": "Chaser",
@@ -25,12 +25,6 @@
       "research_record": ""
     },
     {
-      "builder": "Chucktone Effects",
-      "pedal": "Overdrive 809",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Ciclar",
       "pedal": "Arquera Overdrive",
       "catalog_type": "",
@@ -39,42 +33,6 @@
     {
       "builder": "Ciclar",
       "pedal": "Motoquera Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cicognani Engineering",
-      "pedal": "Double Decker",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cicognani Engineering",
-      "pedal": "Speciale DD 1959",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cicognani Engineering",
-      "pedal": "Triple Decker",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Circle Of Tone",
-      "pedal": "Blues Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Circle Of Tone",
-      "pedal": "Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Circle Of Tone",
-      "pedal": "FUZZ",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +123,48 @@
     {
       "builder": "Citadel Electronics",
       "pedal": "Plutonium Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Citadel Electronics",
+      "pedal": "Vector",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CKK Electronic",
+      "pedal": "Destruction Drive - Aggressive High-Gain Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CKK Electronic",
+      "pedal": "Flaming Lips - US Style Distortion with Fat Boost",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CKK Electronic",
+      "pedal": "Gambler",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CKK Electronic",
+      "pedal": "Honey Jar - Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CKK Electronic",
+      "pedal": "Lunar Drive - Vintage Amp Tone Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CKK Electronic",
+      "pedal": "Royal Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
