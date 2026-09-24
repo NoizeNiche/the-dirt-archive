@@ -1,0 +1,100 @@
+name: Research worker team
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dirt-research-workers
+  cancel-in-progress: true
+
+jobs:
+  prepare:
+    name: Build research worker matrix
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: \${{ steps.pick.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v7
+      - id: pick
+        shell: bash
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import csv, json, sys
+          rows=list(csv.DictReader(open("research/PRP_TRACKER.csv",newline="",encoding="utf-8")))
+          targets=[{"builder":r["Builder"],"pedal":r["Pedal"]} for r in rows if r.get("Pedal Info")!="DONE"][:64]
+          matrix={"include":[{"targets":targets[i:i+4]} for i in range(0,len(targets),4)]}
+          print("matrix="+json.dumps(matrix,ensure_ascii=False,separators=(",",":")))
+          print("Research targets:",len(targets),"workers:",len(matrix["include"]),file=sys.stderr)
+          PY
+
+  gather:
+    name: Research gatherer \${{ strategy.job-index }}
+    needs: prepare
+    if: \${{ needs.prepare.outputs.matrix != '' }}
+    strategy:
+      fail-fast: false
+      max-parallel: 16
+      matrix: \${{ fromJSON(needs.prepare.outputs.matrix) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    steps:
+      - uses: actions/checkout@v7
+      - name: Gather evidence for assigned targets
+        run: |
+          rm -rf worker-evidence
+          mkdir -p worker-evidence
+          python - <<'PY'
+          import json, os, subprocess
+          targets=json.loads(r''' \${{ toJSON(matrix.targets) }} ''')
+          for i,t in enumerate(targets):
+              env=os.environ.copy()
+              env["RESEARCH_TARGET_BUILDER"]=t["builder"]
+              env["RESEARCH_TARGET_PEDAL"]=t["pedal"]
+              env["RESEARCH_OUT"]=f"worker-evidence/candidate-{i}.json"
+              subprocess.run(["python","scripts/research-gatherer.py"],env=env,check=False)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: research-worker-\${{ strategy.job-index }}
+          path: worker-evidence/
+          if-no-files-found: ignore
+          retention-days: 1
+
+  foreman:
+    name: Research foreman
+    needs: gather
+    if: \${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/download-artifact@v5
+        with:
+          path: research-evidence
+      - name: Verify and admit only strong evidence packets
+        run: python scripts/research-foreman.py
+      - name: Synchronize admitted research
+        run: |
+          python scripts/sync_prp_catalog.py
+          python scripts/sync-prp-tracker.py
+          python scripts/build-research-queue.py
+          python scripts/validate-archive.py
+      - name: Publish verified research batch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
+          if git diff --cached --quiet; then
+            echo "No newly admitted research records."
+            exit 0
+          fi
+          git commit -m "Archive verified parallel pedal research"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
