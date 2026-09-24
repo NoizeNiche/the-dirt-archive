@@ -160,6 +160,19 @@ function identityTokens(pedal) {
     .filter(token => (token.length >= 4 || /\d/.test(token)) && !ignored.has(token));
 }
 
+function builderIdentityAliases(company) {
+  const raw = String(company || '').trim();
+  const words = raw.replace(/[^A-Za-z0-9]+/g, ' ').split(/\s+/).filter(Boolean);
+  const aliases = new Set([normalizedIdentity(raw)]);
+  const acronym = words.filter(word => word.length >= 2).map(word => word[0]).join('').toLowerCase();
+  if (acronym.length >= 2) aliases.add(acronym);
+  const initials = words.map(word => word[0]).join('').toLowerCase();
+  if (initials.length >= 2) aliases.add(initials);
+  const compact = normalizedIdentity(raw).replace(/\s+/g, '');
+  if (compact.length >= 4) aliases.add(compact);
+  return [...aliases].filter(alias => alias.length >= 2);
+}
+
 function identityPhrases(pedal) {
   const raw = String(pedal || '').trim();
   const variants = new Set([
@@ -3509,11 +3522,18 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
             resultPath = normalizedIdentity(parsedResult.pathname);
             resultHost = parsedResult.hostname.toLowerCase().replace(/^www\./, '');
           } catch {}
+          const builderAliases = builderIdentityAliases(entry.company);
+          const builderAliasMatch = builderAliases.some(alias =>
+            alias.length >= 3 && resultHaystack.includes(alias)
+          );
+          const meaningfulBuilderTokens = builderTokens.filter(token => token.length >= 4);
           const builderIdentityMatch =
             exactBuilderPhrase.length >= 3 &&
             (
               resultHaystack.includes(exactBuilderPhrase) ||
-              (builderTokens.length > 0 && builderTokens.every(token => resultHaystack.includes(token)))
+              builderAliasMatch ||
+              (meaningfulBuilderTokens.length >= 2 &&
+                meaningfulBuilderTokens.some(token => resultHaystack.includes(token)))
             );
           const pedalIdentityMatch =
             exactPedalPhrase.length >= 3 &&
@@ -3583,6 +3603,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           if (trustedDatabase || trustedMarketplace || trustedCuratedSource || strongSearchIdentity) {
             verifiedSearch.push({
               url: result.murl,
+              thumbnailUrl: result.turl || '',
               sourcePage: result.purl,
               sourceScore: (
                 trustedCuratedSource ? 180 :
