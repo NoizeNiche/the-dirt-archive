@@ -283,7 +283,7 @@ main{padding:24px 0 72px}
 .rule{height:1px;background:var(--line);margin:16px 0}
 .archivePulse{
   display:grid;
-  grid-template-columns:repeat(3,minmax(0,1fr));
+  grid-template-columns:repeat(4,minmax(0,1fr));
   gap:8px;
   margin-top:12px;
 }
@@ -299,6 +299,7 @@ main{padding:24px 0 72px}
 }
 .pulseValue{
   color:var(--ink);
+  font-variant-numeric:tabular-nums;
   font-size:1.05rem;
   font-weight:950;
   line-height:1;
