@@ -114,7 +114,10 @@ jobs:
           # The cache can take a while. Rebase any newer documentation/site
           # commits before creating the cache commit so the result is never
           # based on a stale main branch.
-          git stash push -u -m "image-cache-work"
+          # Only asset changes need to survive the rebase. Generated JSON/CSV
+          # state is rebuilt from the current main after the rebase, preventing
+          # report/queue conflicts from stranding successfully recovered photos.
+          git stash push -u -m "image-cache-assets" -- assets/pedals
           git fetch origin main
           git rebase origin/main
           git stash pop
