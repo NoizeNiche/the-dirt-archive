@@ -13,7 +13,7 @@ permissions:
 
 concurrency:
   group: dirt-research-workers
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   prepare:
