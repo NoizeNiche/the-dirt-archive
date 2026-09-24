@@ -1,3 +1,11 @@
+## PRP1 publication checkpoint - September 24, 2026
+
+PRP1 #806 successfully published **CBC Pedals - The Drive** with an exact local photo after passing the photo gate, final local-image check, provenance capture, atomic rebase, and full cross-file verification. The intake package was consumed.
+
+Live tracker after publication: **3,765 total / 1,272 researched / 1,273 pictured / 1,273 complete / 0 researched-photo-pending / 2,492 photo-missing**.
+
+The next exact-order incomplete target is **CBC Pedals - The Superfuzz**. Its intake package uses sold Reverb listings documenting the CBC Univox Superfuzz/Shin-Ei FY-6 clone and preserves a direct image lead for the exact pedal.
+
 ## Identity cleanup checkpoint - September 24, 2026
 
 The catalog identity pass removed five unsupported/duplicate CBC rows after cross-checking current evidence. Effects Database documents Hop Hed Fuzztone, Hybrid Fuzz, Mista' Fuzz, and Mutha' Fuzz under Cat's Eye ESP, while Reverb independently documents CBC The Drive as a distinct Zendrive clone. The duplicate CBC label **The Drive / Zendrive circuit** was consolidated into **The Drive**.

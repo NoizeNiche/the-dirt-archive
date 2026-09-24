@@ -1,3 +1,13 @@
+## PRP1 checkpoint - September 24, 2026
+
+PRP1 has now successfully published **CBC Pedals - The Drive** as the first atomic unit after the photo-quality repair. The exact local photo is archived at `./assets/pedals/cbc-pedals/the-drive/primary.webp`, with Reverb provenance retained in the canonical catalog and photo manifest.
+
+The live tracker is now **3,765 total / 1,272 researched / 1,273 pictured / 1,273 PRP-complete / 0 researched-photo-pending / 2,492 photo-missing**. The global researched-photo gate remains clear.
+
+The next canonical incomplete tracker target is **CBC Pedals - The Superfuzz**. A PRP1 intake package has been queued with exact Reverb source pages and a direct image lead; the same exact-local-photo gate remains in force.
+
+The temporary PRP research probe was also repaired so its scheduled/manual runs no longer carry the earlier malformed-Python failure state.
+
 ## Identity cleanup checkpoint - September 24, 2026
 
 The live catalog was reconciled before the next PRP1 intake. Five unsupported or duplicate CBC rows were removed: Hop Hed Fuzztone, Hybrid Fuzz, Mista' Fuzz, Mutha' Fuzz, and the duplicate-labeled The Drive / Zendrive circuit. The existing Cat's Eye ESP records remain the canonical entries for the first four; CBC The Drive remains as the single supported CBC Zendrive-clone entry.
