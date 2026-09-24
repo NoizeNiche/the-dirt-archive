@@ -3358,7 +3358,9 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       diagnostic.soldCandidates = soldResults.length;
       const verifiedSold = [];
 
-      const verifyLimit = deepReview ? Math.min(8, SEARCH_VERIFY_LIMIT) : SEARCH_VERIFY_LIMIT;
+      const verifyLimit = deepReview
+        ? Math.min(24, Math.max(SEARCH_VERIFY_LIMIT, SEARCH_VERIFY_LIMIT * 3))
+        : SEARCH_VERIFY_LIMIT;
 
       for (const result of soldResults.slice(0, verifyLimit)) {
         const searchIdentity = normalizedIdentity((result.title || '') + ' ' + result.purl);
@@ -3478,7 +3480,6 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
             /\/model\//i.test(resultUrl.pathname) &&
             pedalTokens.length > 0 &&
             pedalTokens.every(token => searchIdentity.includes(token));
-          if (!exactDatabasePage && fit.score < 45) continue;
           const trustedDatabase =
             exactDatabasePage &&
             fit.pedalHits >= requiredHits;
@@ -3523,7 +3524,8 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
             );
           const modelTokenInSourcePath =
             pedalTokens.length === 0 ||
-            pedalTokens.some(token => resultPath.includes(token));
+            pedalTokens.some(token => resultPath.includes(token)) ||
+            pedalIdentityMatch;
           const likelyProductSourceHost =
             builderTokens.some(token => resultHost.includes(token)) ||
             /reverb|ebay|effectsdatabase|guitarpedalx|talkbass|rockboard|pedal|stomp|effect|guitar|music|audio|shopify|bigcartel|mitienda/.test(resultHost);
@@ -3537,6 +3539,11 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
             !genericSeoSourcePath &&
             result.purl &&
             /^https?:/i.test(result.purl);
+
+          // Exact image-search metadata now carries enough identity for a
+          // straightforward product hit. Keep a quality floor only for results
+          // that do not meet the strong identity gate.
+          if (!exactDatabasePage && fit.score < 45 && !strongSearchIdentity) continue;
 
           // A curated, explicitly verified source page is exact-model evidence.
           // This matters for generic model names such as "Distortion" and
