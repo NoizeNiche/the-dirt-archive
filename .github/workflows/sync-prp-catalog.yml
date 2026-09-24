@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: dirt-prp-catalog-sync
@@ -57,6 +58,12 @@ jobs:
           # newest canonical research on main and publish that snapshot.
           for attempt in 1 2 3 4 5; do
             if git push origin main; then
+              if git diff-tree --no-commit-id --name-only -r HEAD | grep -Eq '^(index\.html|pedal\.html|pedal-detail\.html|assets/|research/PEDAL_INDEX\.json)'; then
+                echo "Public archive files changed; dispatching Pages deployment."
+                gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main
+              else
+                echo "Only internal/generated research state changed; no Pages deployment dispatch needed."
+              fi
               exit 0
             fi
 

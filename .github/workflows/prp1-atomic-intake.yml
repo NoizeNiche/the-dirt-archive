@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: dirt-prp1-atomic
@@ -377,6 +378,12 @@ jobs:
           git commit -m "PRP1 closeout: publish researched pedal with exact photo"
           for attempt in 1 2 3 4 5; do
             if git push; then
+              if git diff-tree --no-commit-id --name-only -r HEAD | grep -Eq '^(assets/|research/PEDAL_INDEX\.json|index\.html|pedal\.html|pedal-detail\.html)'; then
+                echo "Public PRP1 files changed; dispatching Pages deployment."
+                gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main
+              else
+                echo "PRP1 changed only internal research/photo state; no Pages deployment dispatch needed."
+              fi
               exit 0
             fi
             echo "PRP1 push race detected; rebasing atomic unit (attempt $attempt/5)."
