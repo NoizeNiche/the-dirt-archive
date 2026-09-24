@@ -9,18 +9,23 @@ Before doing project work, read these files in this order:
 1. `START_HERE.md`
 2. `ARCHIVE_GOVERNANCE.md`
 3. `CURRENT_STATE.md`
-4. `research/BREADCRUMB.md`
-5. `research/BUILDER_MASTER_INDEX.md`
+4. `research/RESEARCH_PHASE_RULES.md`
+5. `research/BREADCRUMB.md`
+6. `research/BUILDER_MASTER_INDEX.md`
+
+Use `research/RESEARCH_QUEUE.json` as the current derived working view. It is generated from the canonical catalog and tracker and must not be hand-edited.
 
 Then inspect the actual repository and determine the current live state. Do not rely on conversation history, stale checkpoint text, or memory.
 
 ## 2. Current mission
 
-The active work is **photo recovery plus archive-maintenance hardening**.
+The active production phase is the **Catalog Research Phase**.
 
-PRP1 remains gated until the researched-photo backlog is cleared according to the current tracker and photo-review rules. Do not bypass the photo gate merely to advance the research sequence.
+Research the remaining canonical catalog records in catalog order, synchronize their research records into the public catalog, and let photo recovery proceed as a separate lane.
 
-The live counts, current target, latest completed pass, and current blockers belong in `CURRENT_STATE.md`. This file intentionally does not repeat changing numbers.
+**PRP1 is no longer the active research phase.** Its remaining Fuzz Phazer work is treated as a legacy photo/publication closeout only.
+
+The live counts, next research target, latest completed pass, and current blockers belong in `CURRENT_STATE.md`.
 
 ## 3. Public site model
 
@@ -56,7 +61,8 @@ The archive follows a **one rule, one owner, one source of truth** model.
 - `assets/pedals/**` owns archived photo assets.
 - `image_source_url` and `image_source_page` preserve photo provenance.
 - `research/pedals/PEDAL_IMAGES.json` is an internal mirror/verification manifest, not a second public catalog.
-- `research/PRP_TRACKER.csv` owns PRP status.
+- `research/PRP_TRACKER.csv` owns derived research/photo/completion status.
+- `research/RESEARCH_QUEUE.json` is the generated working queue for the active Catalog Research Phase.
 - `scripts/sync_prp_catalog.py` owns research-record wiring.
 - `scripts/sync-prp-tracker.py` owns derived tracker status.
 - `scripts/browser-photo-cache.mjs` owns browser-assisted image discovery.
@@ -81,18 +87,13 @@ Do not replace a missing exact photo with a visually similar pedal, different ve
 
 The public fallback for an unresolved exact photo is **No Photo Archived**.
 
-## 6. PRP rules
+## 6. Research and PRP rules
 
-PRP follows the actual catalog in exact order.
+The active Catalog Research Phase is governed by `research/RESEARCH_PHASE_RULES.md`.
 
-A pedal is complete only when both of these exist:
+PRP status remains useful as a derived completion state and PRP1 remains useful as a legacy exact-photo publication/closeout mechanism.
 
-1. Pedal information
-2. A confirmed exact picture
-
-Difficult records may be parked for deeper photo review rather than blocking the entire census.
-
-Read `research/PRP_RULES.md` before doing PRP work.
+Read `research/PRP_RULES.md` only when working on PRP-specific completion or photo-publication behavior.
 
 ## 7. Change discipline
 
