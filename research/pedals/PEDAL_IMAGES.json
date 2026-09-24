@@ -5688,7 +5688,7 @@
   {
     "builder": "Big Monk Electronic Device Co.",
     "pedal": "Monk Boost",
-    "image": null,
+    "image": "./assets/pedals/big-monk-electronic-device-co/monk-boost/primary.webp",
     "source": "verified research source",
     "source_page": "https://www.effectsdatabase.com/",
     "research_record": "./research/pedals/PRP Batch 085/Monk Boost.md",
@@ -9155,7 +9155,7 @@
   {
     "builder": "Build Your Own Clone",
     "pedal": "B.G. Fuzz",
-    "image": null,
+    "image": "./assets/pedals/build-your-own-clone/b-g-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/byoc",
     "research_record": "./research/pedals/PRP Batch 129/b-g-fuzz.md",
     "image_source_url": "https://rvb-img.reverb.com/i/s---cHCYrCE--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/prnloasouim0egmwopr5.jpg",
@@ -10547,7 +10547,7 @@
   {
     "builder": "Canvas Analog Devices",
     "pedal": "The Metamorphosis",
-    "image": null,
+    "image": "./assets/pedals/canvas-analog-devices/the-metamorphosis/primary.webp",
     "source_page": "https://reverb.com/item/43102648-canvas-analog-devices-the-metamorphosis-overdrive-pedal",
     "research_record": "./research/pedals/PRP Batch 148/canvas-analog-devices-the-metamorphosis.md",
     "image_source_page": "https://reverb.com/item/43102648-canvas-analog-devices-the-metamorphosis-overdrive-pedal",
