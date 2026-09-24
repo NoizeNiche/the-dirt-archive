@@ -677,7 +677,9 @@
     "pedal": "Distortion",
     "source_page": "https://www.effectsdatabase.com/model/addplus/distortion",
     "research_record": "./research/pedals/Add+ Pedals/Distortion.md",
-    "image": null
+    "image": "./assets/pedals/add-pedals/distortion/primary.webp",
+    "image_source_url": "https://cdn.myikas.com/images/theme-images/3f9ff4a2-dbec-4d40-af3b-1dbf88d1c263/image_1080.webp",
+    "image_source_page": "https://mintmuzik.com/add-distortion"
   },
   {
     "builder": "Add+ Pedals",
@@ -1700,8 +1702,8 @@
     "source": "Direct photograph of exact pedal",
     "source_page": "https://reverb.com",
     "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/amptweaker/tightdrive/jr",
-    "image_source_url": "https://www.talkbass.com/attachments/img_0797-jpeg.5052266/"
+    "image_source_page": "https://www.talkbass.com/threads/spector%C2%AE-owners-club.1066466/page-4737",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a3fda26ca995a32a/1790209343918/t3y3MYEvp.YAkaDgnGZ_RbMfDRkn5Sixw.ezNU1EE8g-1790209343-1.3.1.1-AjETSm_yBz8A6fiTRozlWptXEOSYACQjW.nN3aYPSbOt6.Mex0r50HSxBXRaSYdgIUJ9c9aODKkz1WRA9w.pXA2YMed4f6Xpz6sisCUB5H7.73aVMt05wwR3LiInivBi58wqrGf9I.Pkn1p3l0OfSMnysQT0sevCjwFMgZkgTkSOlSOwGhmiiy3NrfvUP4LAPu4ubcoMZ1gKh4KBWMofLUSEFNWbKU7Ktuv5o2t1nJbjhSPhLJ7H8mltz9B0nYGGe3GM8wt_O9hGPnPgPScEplR1dTeVrQpTUW3rVgo124h0GSTHEA6SeO85LrCvldnQtWMtLuxWom_al5ztdgJJFHFS7YNZ3Mj2uZVSBiQ_wtGt3yi2mINaZRFxf4.ljYdp2jr.qLDenDRY5M8Rra_HRTMQ7_1F7y0EAArBCwFcCH7XbuRtZiOdQgbaUZS7vf4z83iybzMln23j7jke2Jb3izh_OCgo_MGnZ8Q3fPYtT_bXw9EUWmcCXJe91uCohRcCU3xUIjyEE2vJecoXsE6xv_pIo90cs0Yb1HeaftZDo_iKhti6JDqvmXFEotHUKITkCWblHU0nKYLRaEwy5YaiysAxVQHshV04xqIvJ87Io_ZQRAHjkII4vIAfik6Vskxg31jknx24cY9Drz4tjQuSp_PU5CEXfN.C98QAw3IC5xCLTaYLP0hqz9PitWBM8P8FOeGCv42.PSf3SL_XoTRrHhbdLv32b6nvcPzr2DkwecA"
   },
   {
     "builder": "Amptweaker",
@@ -7173,9 +7175,11 @@
   {
     "builder": "BlackOutEffectors",
     "pedal": "FUBÄR",
-    "image": null,
+    "image": "./assets/pedals/blackouteffectors/fub-r/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/blackout/fubar",
-    "research_record": "./research/pedals/PRP Batch 102/FUBÄR.md"
+    "research_record": "./research/pedals/PRP Batch 102/FUBÄR.md",
+    "image_source_url": "https://motorcityguitar.com/cdn/shop/products/BlackoutEffectors_FubarFuzz_800x.jpg?v=1504709528",
+    "image_source_page": "https://motorcityguitar.com/products/blackout-effectors-fubar-tonebender-fuzz-oscillator-expression-pedal"
   },
   {
     "builder": "BlackOutEffectors",
