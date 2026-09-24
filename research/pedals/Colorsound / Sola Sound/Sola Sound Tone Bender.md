@@ -2,7 +2,7 @@
 
 ## Research identity
 - **Builder:** Colorsound / Sola Sound
-- **Catalog identity:** Tone Bender
+- **Catalog identity:** Sola Sound Tone Bender
 - **Catalog type:** Fuzz
 - **Identity:** Generic Sola Sound Tone Bender identity covering the original British family before the later model-specific MKII/MKIII distinctions.
 
