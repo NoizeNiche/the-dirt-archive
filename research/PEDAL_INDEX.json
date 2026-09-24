@@ -10051,7 +10051,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-cat-pedals/d-ii-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/blackcat/d2",
       "research_record": "./research/pedals/PRP Batch 096/D-II Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/blackcat/d2",
@@ -13757,7 +13757,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/build-your-own-clone/fuzz-clone/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/byoc",
       "research_record": "./research/pedals/PRP Batch 129/fuzz-clone.md",
       "image_source_page": "https://www.effectsdatabase.com/model/byoc/fuzz",
