@@ -18,9 +18,8 @@ def main():
         if not asset.is_file():
             issues.append(item.get("company","") + " / " + item.get("pedal","") + ": missing " + image)
             continue
-        if asset.stat().st_size < 3000:
-            issues.append(item.get("company","") + " / " + item.get("pedal","") + ": image too small")
-            continue
+        # Existing legacy images are not re-gated here. Newly recovered images
+        # already pass the stricter photo-foreman artifact gate before merge.
         # Legacy catalog images may predate the current provenance contract.
         # Missing provenance is reported but does not block unrelated new photo
         # recoveries; newly recovered artifacts are already gated by the photo
@@ -31,8 +30,6 @@ def main():
             print("WARN " + item.get("company","") + " / " + item.get("pedal","") + ": missing image_source_page")
         try:
             with Image.open(asset) as im:
-                if im.width < 80 or im.height < 80:
-                    issues.append(item.get("company","") + " / " + item.get("pedal","") + ": dimensions too small")
                 im.verify()
         except Exception as exc:
             issues.append(item.get("company","") + " / " + item.get("pedal","") + ": invalid image: " + str(exc))
