@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:15:08.695446+00:00",
+  "generated_at": "2026-09-24T10:16:02.375760+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1391,
+    "researched": 1396,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2374
+    "research_pending": 2369
   },
   "next_target": {
     "builder": "Chaser",
@@ -67,38 +67,8 @@
       "research_record": ""
     },
     {
-      "builder": "Chuck Pedals",
-      "pedal": "Arcadiator",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chuck Pedals",
-      "pedal": "Diver",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chuck Pedals",
-      "pedal": "VTO",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Chucktone Effects",
       "pedal": "Overdrive 809",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chunk Systems",
-      "pedal": "Brown Dog",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chunk Systems",
-      "pedal": "FZ002",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +135,36 @@
     {
       "builder": "Circuit Rider Effects",
       "pedal": "SiClops",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Circuitbenders",
+      "pedal": "Black Box Audio Destructor",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Circuitbenders",
+      "pedal": "Demon Seed",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CircuitFX",
+      "pedal": "Cruncher",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CircuitFX",
+      "pedal": "Soldano SuperCharger",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Circuitous FX",
+      "pedal": "FZ-BRK",
       "catalog_type": "",
       "research_record": ""
     }

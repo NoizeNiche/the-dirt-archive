@@ -12676,21 +12676,21 @@
     "pedal": "Arcadiator",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chuck Pedals/Arcadiator.md"
   },
   {
     "builder": "Chuck Pedals",
     "pedal": "Diver",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chuck Pedals/Diver.md"
   },
   {
     "builder": "Chuck Pedals",
     "pedal": "VTO",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chuck Pedals/VTO.md"
   },
   {
     "builder": "Chucktone Effects",
@@ -12704,14 +12704,14 @@
     "pedal": "Brown Dog",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chunk Systems/Brown Dog.md"
   },
   {
     "builder": "Chunk Systems",
     "pedal": "FZ002",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chunk Systems/FZ002.md"
   },
   {
     "builder": "Ciclar",
