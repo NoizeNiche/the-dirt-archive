@@ -1,53 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:57:56.647730+00:00",
+  "generated_at": "2026-09-24T11:04:13.333036+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1535,
-    "pictured": 1471,
-    "complete": 1471,
-    "research_pending": 2230
+    "researched": 1543,
+    "pictured": 1502,
+    "complete": 1502,
+    "research_pending": 2222
   },
   "next_target": {
-    "builder": "Cole Music Co.",
-    "pedal": "ParaDrive Parametric Overdrive",
+    "builder": "Collateral FX",
+    "pedal": "P008 Golden Ratio Fuzz",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Cole Music Co.",
-      "pedal": "ParaDrive Parametric Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colfax Recorders",
-      "pedal": "Porcelain Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colfax Recorders",
-      "pedal": "Zephyr Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Collateral FX",
-      "pedal": "P004 Icarus",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Collateral FX",
-      "pedal": "P005 Continuum OD",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Collateral FX",
       "pedal": "P008 Golden Ratio Fuzz",
@@ -57,24 +27,6 @@
     {
       "builder": "Collateral FX",
       "pedal": "P010 Year of Rat 1985",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Collateral FX",
-      "pedal": "P011 Chili Pre",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Collateral FX",
-      "pedal": "P012 Constellation OD",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Collateral FX",
-      "pedal": "P013 Black Hole Sunn",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +117,54 @@
     {
       "builder": "Collateral FX",
       "pedal": "P032 Touchstone Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collins",
+      "pedal": "CDT-1 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collins",
+      "pedal": "COD-1 Pro Over Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collins",
+      "pedal": "CSD-1 Pro Super Dust",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collision Devices",
+      "pedal": "Black Hole Symmetry",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collision Devices",
+      "pedal": "FZ - Gated Fuzz / Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collision Devices",
+      "pedal": "Singularity",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collision Devices",
+      "pedal": "Snack Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collision Devices",
+      "pedal": "TARS",
       "catalog_type": "",
       "research_record": ""
     }
