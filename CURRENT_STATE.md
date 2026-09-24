@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1510 researched / 1442 pictured / 1442 complete / 2255 research-pending / 68 researched-photo-pending**.
+Live catalog: **3765 total / 1534 researched / 1471 pictured / 1471 complete / 2231 research-pending / 63 researched-photo-pending**.
 
-**Next research target:** Coffee Shop Pedals - Portafilter Dual Overdrive.
+**Next research target:** Coggins Audio / Dinosaural - Dinosaural OPA-101 Overdriven Pre-amp.
 
-PRP1 closeout remains separate: 68 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 63 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-24T10:37:40.601374+00:00
+Last refreshed: 2026-09-24T10:51:07.487053+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints

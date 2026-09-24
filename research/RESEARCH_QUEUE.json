@@ -1,158 +1,26 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:37:40.601374+00:00",
+  "generated_at": "2026-09-24T10:51:07.487053+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1510,
-    "pictured": 1442,
-    "complete": 1442,
-    "research_pending": 2255
+    "researched": 1534,
+    "pictured": 1471,
+    "complete": 1471,
+    "research_pending": 2231
   },
   "next_target": {
-    "builder": "Coffee Shop Pedals",
-    "pedal": "Portafilter Dual Overdrive",
+    "builder": "Coggins Audio / Dinosaural",
+    "pedal": "Dinosaural OPA-101 Overdriven Pre-amp",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
     {
-      "builder": "Coffee Shop Pedals",
-      "pedal": "Portafilter Dual Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coffin Case",
-      "pedal": "Batula Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coffin Case",
-      "pedal": "Blood Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coffin Gear / Coffin Case",
-      "pedal": "Batula Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coffin Gear / Coffin Case",
-      "pedal": "BDFX-1 Blood Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "TK-421 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "TK-421-X Bass Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "Wet Nuns Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coggins Audio / Dinosaural",
-      "pedal": "Cogmeister",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coggins Audio / Dinosaural",
-      "pedal": "Dan Solo Mid Booster / Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Coggins Audio / Dinosaural",
       "pedal": "Dinosaural OPA-101 Overdriven Pre-amp",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coggins Audio / Dinosaural",
-      "pedal": "Dinosaural Tube Bender",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coggins Audio / Dinosaural",
-      "pedal": "Hypoid Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Black Dynamite MkII",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Black Lime IC Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Black Shuck OD/Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Cascade MkII",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Fiesta Fuzz Mini",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Fiesta Fuzz MkII",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Fusion Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Ramrod Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Sweet Cream OD",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Sweet Kiwi MkII",
       "catalog_type": "",
       "research_record": ""
     },
@@ -163,8 +31,140 @@
       "research_record": ""
     },
     {
-      "builder": "Coleman",
-      "pedal": "Angry Dragon mkII - Germanium Fuzz",
+      "builder": "Colfax Recorders",
+      "pedal": "Porcelain Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Colfax Recorders",
+      "pedal": "Zephyr Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P004 Icarus",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P005 Continuum OD",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P008 Golden Ratio Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P010 Year of Rat 1985",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P011 Chili Pre",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P012 Constellation OD",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P013 Black Hole Sunn",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P014 Red Giant",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P015 White Russian Distortion/Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P016 Foxey Face Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P017 Unchained Overdrive/Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P019 Slow Distortion/Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P021 Parsec Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P022 Drive for the Dead Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P023 The Bendz Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P024 Sirius Dual Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P026 Banana Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P027 Element 118 Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P028 Palindrome Dual Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P029 Ring System Overdrive/Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P031 Zeugma Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
