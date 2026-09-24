@@ -171,6 +171,7 @@ jobs:
         run: |
           python scripts/sync-prp-tracker.py
           python scripts/sync-photo-backlog.py
+          python scripts/prune-photo-review-queue.py
           python scripts/refresh-image-cache-report.py
           python scripts/verify-photo-state.py
 
@@ -195,6 +196,7 @@ jobs:
             python scripts/cache-pedal-images.py
             python scripts/sync-prp-tracker.py
             python scripts/sync-photo-backlog.py
+            python scripts/prune-photo-review-queue.py
             python scripts/refresh-image-cache-report.py
             python scripts/verify-photo-state.py
             git add assets/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
