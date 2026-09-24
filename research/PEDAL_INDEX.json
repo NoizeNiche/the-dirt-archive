@@ -1321,7 +1321,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/adv-systems/overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ADV Systems/#overdrive.md",
       "image_source_pages": [
@@ -1670,7 +1670,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/ajcustom/distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ajcustom/distortion",
       "research_record": "./research/pedals/AJcustom/Distortion.md",
       "image_source_pages": [
