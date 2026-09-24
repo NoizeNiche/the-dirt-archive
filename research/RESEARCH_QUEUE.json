@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:19:52.667457+00:00",
+  "generated_at": "2026-09-24T10:20:33.024583+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1415,
+    "researched": 1420,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2350
+    "research_pending": 2345
   },
   "next_target": {
     "builder": "Chaser",
@@ -39,18 +39,6 @@
     {
       "builder": "Circuit Rider Effects",
       "pedal": "SiClops",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CircuitFX",
-      "pedal": "Cruncher",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CircuitFX",
-      "pedal": "Soldano SuperCharger",
       "catalog_type": "",
       "research_record": ""
     },
@@ -104,12 +92,6 @@
     },
     {
       "builder": "CKK Electronic",
-      "pedal": "Destruction Drive - Aggressive High-Gain Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CKK Electronic",
       "pedal": "Flaming Lips - US Style Distortion with Fat Boost",
       "catalog_type": "",
       "research_record": ""
@@ -122,19 +104,7 @@
     },
     {
       "builder": "CKK Electronic",
-      "pedal": "Honey Jar - Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CKK Electronic",
       "pedal": "Lunar Drive - Vintage Amp Tone Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CKK Electronic",
-      "pedal": "Royal Fuzz",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +135,36 @@
     {
       "builder": "Clarenzio",
       "pedal": "Spètnador - Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Clarenzio",
+      "pedal": "Strèmne - Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Clarenzio",
+      "pedal": "Stùrloun - Tube Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Clark Amplification",
+      "pedal": "Gainster",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Classic Audio Effects",
+      "pedal": "Stumphouse Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Clay Jones",
+      "pedal": "CJOD Overdrive",
       "catalog_type": "",
       "research_record": ""
     }

@@ -12809,14 +12809,14 @@
     "pedal": "Cruncher",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CircuitFX/Cruncher.md"
   },
   {
     "builder": "CircuitFX",
     "pedal": "Soldano SuperCharger",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CircuitFX/Soldano SuperCharger.md"
   },
   {
     "builder": "Circuitous FX",
@@ -12886,7 +12886,7 @@
     "pedal": "Destruction Drive - Aggressive High-Gain Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CKK Electronic/Destruction Drive - Aggressive High-Gain Distortion.md"
   },
   {
     "builder": "CKK Electronic",
@@ -12907,7 +12907,7 @@
     "pedal": "Honey Jar - Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CKK Electronic/Honey Jar - Overdrive.md"
   },
   {
     "builder": "CKK Electronic",
@@ -12921,7 +12921,7 @@
     "pedal": "Royal Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CKK Electronic/Royal Fuzz.md"
   },
   {
     "builder": "CKK Electronic",
