@@ -116,7 +116,13 @@ def main() -> None:
             # Preserve manifest order so the newest curated lead remains
             # the active direct URL. Reversing before taking the last item
             # accidentally reinstated the oldest blocked CDN URL.
-            direct_urls = list(dict.fromkeys(image_url for _, image_url, _ in direct))
+            # Keep the newest curated lead first because the browser
+            # recovery worker intentionally bounds direct-image retries.
+            # Older rows remain as fallbacks, but must not crowd the newest
+            # verified image out of the first retry window.
+            direct_urls = list(dict.fromkeys(
+                image_url for _, image_url, _ in reversed(direct)
+            ))
             direct_page = direct[-1][0]
             direct_url = direct[-1][1]
             if entry.get("image_source_page") != direct_page:
