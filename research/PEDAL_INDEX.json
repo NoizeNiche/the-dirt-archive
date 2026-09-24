@@ -17741,7 +17741,22 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": null,
+      "image_source_page": "https://reverb.com/item/17186334-cbs-arbiter-fuzz-face-1973",
+      "image_source_page_verified": true,
+      "image_source_pages_verified": true,
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzface",
+        "https://reverb.com/item/17186334-cbs-arbiter-fuzz-face-1973",
+        "https://reverb.com/item/5833594-vintage-1972-cbs-arbiter-fuzz-face-rare-original-dallas-arbiter-pedal-rare-2n3392-transistors-silicon-jimi-hendrix",
+        "https://reverb.com/uk/item/44819844-cbs-arbiter-fuzz-face-1972-hammered-silver"
+      ],
+      "image_source_url": "https://rvb-img.reverb.com/i/s--1F3kf1t8--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dydetb955bzub0lhip4l.png",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--1F3kf1t8--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dydetb955bzub0lhip4l.png",
+        "https://rvb-img.reverb.com/i/s--tqRfvQUa--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/notyjfwhjz3nc02i81ep.jpg"
+      ],
+      "image_source_priority": 100000
     },
     {
       "company": "CBS-Arbiter",
