@@ -19278,7 +19278,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/circus-freak-music/the-bearded-lady-fuzztone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circus Freak Music/The Bearded Lady Fuzztone.md"
     },
@@ -19823,7 +19823,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cmc-audio/bi-filter-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMC Audio/Bi Filter Fuzz.md"
     },
@@ -19833,7 +19833,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cmc-audio/proto-type-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMC Audio/PROTO TYPE V2.md"
     },
@@ -19843,7 +19843,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cmi/cmi-fuzz-unit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMI/CMI Fuzz Unit.md"
     },
@@ -19853,7 +19853,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cmi/wah-fuzz-swell/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMI/Wah Fuzz Swell.md"
     },
@@ -19863,7 +19863,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cnz-audio/gds-20-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/GDS-20 Distortion.md"
     },
@@ -19873,7 +19873,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cnz-audio/scm-20-crossfire-metal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/SCM-20 Crossfire Metal.md"
     },
@@ -19883,7 +19883,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cnz-audio/sdu-20-dumble-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/SDU-20 Dumble Overdrive.md"
     },
@@ -19893,7 +19893,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cnz-audio/sfz-20-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/SFZ-20 Fuzz.md"
     },
@@ -19903,7 +19903,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cnz-audio/sod-20-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/SOD-20 Overdrive.md"
     },
@@ -19913,7 +19913,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cnz-audio/vbl-20-bluesy-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/VBL-20 Bluesy Overdrive.md"
     },
@@ -19923,7 +19923,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cnz-audio/vdu-20-dumbled-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/VDU-20 Dumbled Drive.md"
     },
@@ -19973,7 +19973,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/coda-effects/dolmen-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coda Effects/Dolmen Fuzz.md"
     },
@@ -19984,7 +19984,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/code/cdo2-stereo-distortion-o-d/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Code/CDO2 Stereo Distortion O.D..md"
     },
@@ -19994,7 +19994,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/code/cmm2-stereo-metal-mate/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Code/CMM2 Stereo Metal Mate.md"
     },
@@ -20014,7 +20014,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/codtone/frank-n-beans/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Codtone/Frank 'n' Beans.md"
     },
@@ -20024,7 +20024,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/codtone/fuzz-for-bass/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Codtone/Fuzz for Bass.md"
     },
@@ -20044,7 +20044,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/coffee-shop-pedals/affogato-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coffee Shop Pedals/Affogato Fuzz.md"
     },
@@ -20054,7 +20054,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/coffee-shop-pedals/donut-hole-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coffee Shop Pedals/Donut Hole Overdrive.md"
     },
@@ -20114,7 +20114,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cog-effects/darklighter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Darklighter.md"
     },
@@ -20124,7 +20124,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cog-effects/dual-knightfall/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Dual Knightfall.md"
     },
@@ -20134,7 +20134,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cog-effects/grand-tarkin-bass-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Grand Tarkin Bass Fuzz.md"
     },
@@ -20144,7 +20144,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cog-effects/grand-tarkin-mk2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Grand Tarkin Mk2.md"
     },
@@ -20154,7 +20154,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cog-effects/knightfall/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Knightfall.md"
     },
@@ -20164,7 +20164,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cog-effects/knightfall-66/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Knightfall 66.md"
     },
@@ -20174,7 +20174,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cog-effects/mini-66-bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Mini 66 Bass Overdrive.md"
     },
@@ -20184,7 +20184,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cog-effects/rogue-one-fuzz-octave/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Rogue One Fuzz Octave.md"
     },
@@ -20194,7 +20194,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cog-effects/tarkin-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Tarkin Fuzz.md"
     },
@@ -20204,7 +20204,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cog-effects/tarkin-mk2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Tarkin Mk2.md"
     },

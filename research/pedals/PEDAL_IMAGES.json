@@ -12835,7 +12835,7 @@
   {
     "builder": "Circus Freak Music",
     "pedal": "The Bearded Lady Fuzztone",
-    "image": null,
+    "image": "./assets/pedals/circus-freak-music/the-bearded-lady-fuzztone/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Circus Freak Music/The Bearded Lady Fuzztone.md"
   },
@@ -13213,77 +13213,77 @@
   {
     "builder": "CMC Audio",
     "pedal": "Bi Filter Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cmc-audio/bi-filter-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CMC Audio/Bi Filter Fuzz.md"
   },
   {
     "builder": "CMC Audio",
     "pedal": "PROTO TYPE V2",
-    "image": null,
+    "image": "./assets/pedals/cmc-audio/proto-type-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CMC Audio/PROTO TYPE V2.md"
   },
   {
     "builder": "CMI",
     "pedal": "CMI Fuzz Unit",
-    "image": null,
+    "image": "./assets/pedals/cmi/cmi-fuzz-unit/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CMI/CMI Fuzz Unit.md"
   },
   {
     "builder": "CMI",
     "pedal": "Wah Fuzz Swell",
-    "image": null,
+    "image": "./assets/pedals/cmi/wah-fuzz-swell/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CMI/Wah Fuzz Swell.md"
   },
   {
     "builder": "CNZ Audio",
     "pedal": "GDS-20 Distortion",
-    "image": null,
+    "image": "./assets/pedals/cnz-audio/gds-20-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CNZ Audio/GDS-20 Distortion.md"
   },
   {
     "builder": "CNZ Audio",
     "pedal": "SCM-20 Crossfire Metal",
-    "image": null,
+    "image": "./assets/pedals/cnz-audio/scm-20-crossfire-metal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CNZ Audio/SCM-20 Crossfire Metal.md"
   },
   {
     "builder": "CNZ Audio",
     "pedal": "SDU-20 Dumble Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cnz-audio/sdu-20-dumble-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CNZ Audio/SDU-20 Dumble Overdrive.md"
   },
   {
     "builder": "CNZ Audio",
     "pedal": "SFZ-20 Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cnz-audio/sfz-20-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CNZ Audio/SFZ-20 Fuzz.md"
   },
   {
     "builder": "CNZ Audio",
     "pedal": "SOD-20 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cnz-audio/sod-20-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CNZ Audio/SOD-20 Overdrive.md"
   },
   {
     "builder": "CNZ Audio",
     "pedal": "VBL-20 Bluesy Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cnz-audio/vbl-20-bluesy-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CNZ Audio/VBL-20 Bluesy Overdrive.md"
   },
   {
     "builder": "CNZ Audio",
     "pedal": "VDU-20 Dumbled Drive",
-    "image": null,
+    "image": "./assets/pedals/cnz-audio/vdu-20-dumbled-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CNZ Audio/VDU-20 Dumbled Drive.md"
   },
@@ -13318,21 +13318,21 @@
   {
     "builder": "Coda Effects",
     "pedal": "Dolmen Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coda-effects/dolmen-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coda Effects/Dolmen Fuzz.md"
   },
   {
     "builder": "Code",
     "pedal": "CDO2 Stereo Distortion O.D.",
-    "image": null,
+    "image": "./assets/pedals/code/cdo2-stereo-distortion-o-d/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Code/CDO2 Stereo Distortion O.D..md"
   },
   {
     "builder": "Code",
     "pedal": "CMM2 Stereo Metal Mate",
-    "image": null,
+    "image": "./assets/pedals/code/cmm2-stereo-metal-mate/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Code/CMM2 Stereo Metal Mate.md"
   },
@@ -13346,14 +13346,14 @@
   {
     "builder": "Codtone",
     "pedal": "Frank 'n' Beans",
-    "image": null,
+    "image": "./assets/pedals/codtone/frank-n-beans/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Codtone/Frank 'n' Beans.md"
   },
   {
     "builder": "Codtone",
     "pedal": "Fuzz for Bass",
-    "image": null,
+    "image": "./assets/pedals/codtone/fuzz-for-bass/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Codtone/Fuzz for Bass.md"
   },
@@ -13367,14 +13367,14 @@
   {
     "builder": "Coffee Shop Pedals",
     "pedal": "Affogato Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coffee-shop-pedals/affogato-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coffee Shop Pedals/Affogato Fuzz.md"
   },
   {
     "builder": "Coffee Shop Pedals",
     "pedal": "Donut Hole Overdrive",
-    "image": null,
+    "image": "./assets/pedals/coffee-shop-pedals/donut-hole-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coffee Shop Pedals/Donut Hole Overdrive.md"
   },
@@ -13416,70 +13416,70 @@
   {
     "builder": "COG Effects",
     "pedal": "Darklighter",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/darklighter/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/Darklighter.md"
   },
   {
     "builder": "COG Effects",
     "pedal": "Dual Knightfall",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/dual-knightfall/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/Dual Knightfall.md"
   },
   {
     "builder": "COG Effects",
     "pedal": "Grand Tarkin Bass Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/grand-tarkin-bass-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/Grand Tarkin Bass Fuzz.md"
   },
   {
     "builder": "COG Effects",
     "pedal": "Grand Tarkin Mk2",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/grand-tarkin-mk2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/Grand Tarkin Mk2.md"
   },
   {
     "builder": "COG Effects",
     "pedal": "Knightfall",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/knightfall/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/Knightfall.md"
   },
   {
     "builder": "COG Effects",
     "pedal": "Knightfall 66",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/knightfall-66/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/Knightfall 66.md"
   },
   {
     "builder": "COG Effects",
     "pedal": "Mini 66 Bass Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/mini-66-bass-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/Mini 66 Bass Overdrive.md"
   },
   {
     "builder": "COG Effects",
     "pedal": "Rogue One Fuzz Octave",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/rogue-one-fuzz-octave/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/Rogue One Fuzz Octave.md"
   },
   {
     "builder": "COG Effects",
     "pedal": "Tarkin Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/tarkin-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/Tarkin Fuzz.md"
   },
   {
     "builder": "COG Effects",
     "pedal": "Tarkin Mk2",
-    "image": null,
+    "image": "./assets/pedals/cog-effects/tarkin-mk2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/COG Effects/Tarkin Mk2.md"
   },
