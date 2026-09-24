@@ -2,6 +2,7 @@
 
 ## PRP identity
 - **Archive parent:** P017 Unchained
+- **Catalog identity:** P017 Unchained Overdrive/Distortion
 - **Builder:** Collateral FX
 - **Catalog type:** Overdrive / Distortion
 - **Identity:** Collateral FX Unchained, a JFET amp-emulation drive inspired by 1970s and 1980s Marshall Super Lead rigs.
