@@ -13117,28 +13117,28 @@
     "pedal": "Taurus",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Clone Bro/Taurus.md"
   },
   {
     "builder": "Clone Bro",
     "pedal": "Tone King",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Clone Bro/Tone King.md"
   },
   {
     "builder": "Cloud 9",
     "pedal": "DS-50 Distortion + Sustain",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cloud 9/DS-50 Distortion + Sustain.md"
   },
   {
     "builder": "Cloud 9",
     "pedal": "TS-30 Tube Sound Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cloud 9/TS-30 Tube Sound Overdrive.md"
   },
   {
     "builder": "Cluster Effects",

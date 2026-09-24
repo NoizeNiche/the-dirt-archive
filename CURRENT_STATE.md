@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1463 researched / 1381 pictured / 1381 complete / 2302 research-pending / 82 researched-photo-pending**.
+Live catalog: **3765 total / 1467 researched / 1381 pictured / 1381 complete / 2298 research-pending / 86 researched-photo-pending**.
 
-**Next research target:** Clone Bro - Taurus.
+**Next research target:** CMAT Mods - Black Plague.
 
-PRP1 closeout remains separate: 82 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 86 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-24T10:29:43.420811+00:00
+Last refreshed: 2026-09-24T10:30:57.186526+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints

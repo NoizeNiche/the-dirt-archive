@@ -1,47 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:29:43.420811+00:00",
+  "generated_at": "2026-09-24T10:30:57.186526+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1463,
+    "researched": 1467,
     "pictured": 1381,
     "complete": 1381,
-    "research_pending": 2302
+    "research_pending": 2298
   },
   "next_target": {
-    "builder": "Clone Bro",
-    "pedal": "Taurus",
+    "builder": "CMAT Mods",
+    "pedal": "Black Plague",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Clone Bro",
-      "pedal": "Taurus",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Clone Bro",
-      "pedal": "Tone King",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cloud 9",
-      "pedal": "DS-50 Distortion + Sustain",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cloud 9",
-      "pedal": "TS-30 Tube Sound Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "CMAT Mods",
       "pedal": "Black Plague",
@@ -165,6 +141,30 @@
     {
       "builder": "Cobrahawk",
       "pedal": "B12 Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cobrahawk",
+      "pedal": "B12 Go Fuzz Yourself (Paul)",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cobrahawk",
+      "pedal": "JRC4558 OD-8 Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coda Effects",
+      "pedal": "Black Hole",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coda Effects",
+      "pedal": "Dolmen Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
