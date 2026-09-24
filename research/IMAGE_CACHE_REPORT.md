@@ -16,6 +16,6 @@
 
 ## Still external / failed
 
-- CBC Pedals - The Drive: https://rvb-img.reverb.com/i/s---ZZY1fIr--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ksvkzrwjbx72gn5en6hu.jpg: HTTP Error 500: Internal Server Error (`https://rvb-img.reverb.com/i/s---ZZY1fIr--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ksvkzrwjbx72gn5en6hu.jpg`)
+- CBC Pedals - The Drive: https://rvb-img.reverb.com/i/s---ZZY1fIr--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ksvkzrwjbx72gn5en6hu.jpg: curl: (22) The requested URL returned error: 500 (`https://rvb-img.reverb.com/i/s---ZZY1fIr--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ksvkzrwjbx72gn5en6hu.jpg`)
 
 These records remain externally referenced until a later cache run succeeds.
