@@ -41,6 +41,7 @@ The CBC pedal is cataloged within the Harmonic Percolator family, whose characte
 1. Equipboard — CBC Pedals: https://equipboard.com/brands/cbc-pedals
 2. Effects Database — Harmonic Percolator: https://www.effectsdatabase.com/model/interfax/harmonicpercolator
 3. The Dirt Archive — Analog Noir Harmonic Percolator historical research: research/pedals/PRP Batch 056/Harmonic Percolator.md
+4. YouTube — CBC Pedals 'The Percolator' Clone Raw Series Famous fuzz: https://www.youtube.com/watch?v=CGmivbA_2B4
 
 ## Research notes
 - CBC-specific transistor, diode, colorway, and revision claims are intentionally conservative.
