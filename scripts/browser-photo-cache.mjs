@@ -830,14 +830,10 @@ async function linkedExactSourceCandidates(page, entry, sourcePageUsed, deepRevi
 async function imageSearchCandidates(page, entry, deepReview = false) {
   if (!IMAGE_SEARCH_ENABLED) return [];
 
-  const queries = deepReview
-    ? [
-        '"' + entry.company + '" "' + entry.pedal + '" guitar pedal',
-        '"' + entry.pedal + '" "' + entry.company + '" pedal',
-        '"' + entry.pedal + '" guitar pedal',
-        entry.company + ' ' + entry.pedal + ' pedal'
-      ]
-    : [entry.company + " " + entry.pedal + " guitar pedal"];
+  // One exact query is enough for a distinctive model name. Repeating four
+  // near-identical searches was multiplying runtime without materially improving
+  // identity coverage.
+  const queries = [entry.company + ' "' + entry.pedal + '" guitar pedal'];
 
   const merged = new Map();
 
@@ -957,12 +953,9 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
   // metadata is less stable than Bing's, so collect only image/source pairs
   // that can be tied back to an external source page. The source page is still
   // checked by the normal identity gate later.
-  const googleQueries = deepReview
-    ? [
-        '"' + entry.company + '" "' + entry.pedal + '" pedal',
-        '"' + entry.pedal + '" guitar pedal'
-      ]
-    : ['"' + entry.company + '" "' + entry.pedal + '" pedal'];
+  // Keep Google as a second independent image index, but use one exact
+  // builder/model query instead of another multi-query sweep.
+  const googleQueries = ['"' + entry.company + '" "' + entry.pedal + '" pedal'];
 
   for (const query of googleQueries) {
     const searchUrl = 'https://www.google.com/search?udm=2&hl=en&gl=us&q=' + encodeURIComponent(query);
