@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:08:01.037385+00:00",
+  "generated_at": "2026-09-24T10:09:33.015551+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1362,
+    "researched": 1368,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2403
+    "research_pending": 2397
   },
   "next_target": {
     "builder": "Century",
@@ -25,24 +25,6 @@
       "research_record": ""
     },
     {
-      "builder": "Chase Bliss Audio",
-      "pedal": "Brothers AM",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Tone",
-      "pedal": "Fuzz Fella Blue BC108C",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Tone",
-      "pedal": "Metallic Blue Stardust Hi-Octave Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Chaser",
       "pedal": "HM-3 Heavy Metal",
       "catalog_type": "",
@@ -50,19 +32,7 @@
     },
     {
       "builder": "CheeseBlocks Effects",
-      "pedal": "Phoenix Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CheeseBlocks Effects",
       "pedal": "THE Cheese Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chemistry Design Werks",
-      "pedal": "Gigawatt - Overdrive & Delay",
       "catalog_type": "",
       "research_record": ""
     },
@@ -75,12 +45,6 @@
     {
       "builder": "Cherry Music",
       "pedal": "Mighty Sound M2 Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cherry Music",
-      "pedal": "Mighty Sound M3 Fuzz",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +129,42 @@
     {
       "builder": "Chord (by Daphon)",
       "pedal": "MT-50 Metal Driver",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chord (by Daphon)",
+      "pedal": "OD-50 Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chord (by Daphon)",
+      "pedal": "SD-50 Super Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chord (by Tom's Line)",
+      "pedal": "OD50 Overdrive/Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chowny Bass",
+      "pedal": "Fuzzster Bass Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chris Custom",
+      "pedal": "Crusher - Hi Gain Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chris Custom",
+      "pedal": "DF-1 Dr.Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
