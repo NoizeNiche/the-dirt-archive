@@ -116,7 +116,7 @@ jobs:
           urls = list(dict.fromkeys(
               value.strip() for value in urls
               if re.match(r"^https?://", str(value or ""), re.I)
-              and re.search(r"\\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$", str(value or ""), re.I)
+              and re.search(r"\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$", str(value or ""), re.I)
           ))
           if not urls:
               print("No directly downloadable verified image URL.")
