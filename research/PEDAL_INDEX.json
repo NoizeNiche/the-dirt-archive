@@ -1,5 +1,5 @@
 {
-  "version": "data-20260924-prp1-cbs-arbiter-fuzz-king-source-lead",
+  "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-source-lead",
   "count": 3765,
   "pedals": [
     {
@@ -17788,7 +17788,14 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": null
+      "research_record": null,
+      "image_source_page": "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzphazer",
+      "image_source_page_verified": true,
+      "image_source_pages_verified": true,
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzphazer"
+      ],
+      "image_source_priority": 100000
     },
     {
       "company": "CBS-Arbiter",
