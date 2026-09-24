@@ -12536,28 +12536,28 @@
     "pedal": "Chocolate Crunch",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chocolate Electronics/Chocolate Crunch.md"
   },
   {
     "builder": "Chocolate Electronics",
     "pedal": "Chocolate Drive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chocolate Electronics/Chocolate Drive.md"
   },
   {
     "builder": "Chocolate Electronics",
     "pedal": "Fuzzy Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chocolate Electronics/Fuzzy Overdrive.md"
   },
   {
     "builder": "Chocolate Electronics",
     "pedal": "Melty Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chocolate Electronics/Melty Overdrive.md"
   },
   {
     "builder": "Chord (by Daphon)",

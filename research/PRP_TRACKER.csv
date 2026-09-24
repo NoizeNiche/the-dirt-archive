@@ -1378,10 +1378,10 @@ Chiu Luen,CL-1 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
 Chiu Luen,CL-3 Clean/Distortion/Reverb/Chorus,Distortion,NEEDED,NEEDED,NEEDED,
 Chiu Luen,CL-4 Distortion/Reverb,Distortion,NEEDED,NEEDED,NEEDED,
 Chiu Luen,CL-5 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-Chocolate Electronics,Chocolate Crunch,Overdrive,NEEDED,NEEDED,NEEDED,
-Chocolate Electronics,Chocolate Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-Chocolate Electronics,Fuzzy Overdrive,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Chocolate Electronics,Melty Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
+Chocolate Electronics,Chocolate Crunch,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Chocolate Electronics/Chocolate Crunch.md
+Chocolate Electronics,Chocolate Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Chocolate Electronics/Chocolate Drive.md
+Chocolate Electronics,Fuzzy Overdrive,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Chocolate Electronics/Fuzzy Overdrive.md
+Chocolate Electronics,Melty Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Chocolate Electronics/Melty Overdrive.md
 Chord (by Daphon),BOD-50 Bass Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
 Chord (by Daphon),DS-50 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
 Chord (by Daphon),HM-50 Heavy Metal,Distortion,NEEDED,NEEDED,NEEDED,
