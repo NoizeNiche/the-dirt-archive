@@ -1,0 +1,45 @@
+# CBS-Arbiter — CBS-Arbiter Fuzz Face
+
+## PRP identity
+- **Archive parent:** CBS-Arbiter Fuzz Face
+- **Builder:** CBS-Arbiter
+- **Catalog type:** Fuzz
+- **Identity:** CBS/Arbiter-branded 1970s Fuzz Face from the British Arbiter/Dallas-Arbiter production lineage.
+
+## What this pedal is
+The CBS-Arbiter Fuzz Face is the CBS/Arbiter-branded continuation of the British Fuzz Face line. Effects Database catalogs it separately under CBS-Arbiter, while period-history sources place the CBS/Arbiter branding in the 1970s after the earlier Dallas-Arbiter period. [1][2][3]
+
+## Colorways
+- Grey and hammered-silver finishes are documented in surviving CBS-Arbiter listings. [2][4]
+- Finish differences are treated as cosmetic variants unless a materially different production version is documented.
+
+## Versions and factory options
+### CBS-Arbiter Fuzz Face
+- Volume
+- Fuzz
+- Input and output jacks
+- On/off footswitch
+- 9V battery power
+- Round metal Fuzz Face enclosure [1][2]
+
+Period CBS/Arbiter examples also show changes in graphics and knob styles within the broader 1970s Fuzz Face production. [3]
+
+## Version changes
+No separate numbered CBS-Arbiter V1/V2 sequence was established from the checked sources. The most defensible archive treatment is a CBS-Arbiter-branded period within the continuing British Fuzz Face production family. [1][3]
+
+## Transistor
+- A surviving 1972 CBS/Arbiter example is documented with **2N3392 silicon transistors**. [2]
+- Other 1970s Arbiter Fuzz Face examples used silicon transistor families such as BC108-series devices, but the archive does not assign those as universal CBS-Arbiter specifications without unit-specific evidence. [2][3]
+
+## Diode
+- **Factory diode type:** Not securely documented in the checked CBS-Arbiter sources.
+- The Fuzz Face circuit does not require a diode specification to identify this cataloged model, so no component value is invented here.
+
+## Sound
+The CBS-Arbiter Fuzz Face retains the two-control Fuzz Face format, with Volume setting output level and Fuzz setting the amount of fuzz. The circuit produces the dense, saturated fuzz associated with the later silicon Fuzz Face family, with guitar-volume cleanup and response depending on the individual circuit and transistor set. [1][2][3]
+
+## Sources checked
+1. Effects Database — CBS-Arbiter Fuzz Face: https://www.effectsdatabase.com/model/arbiter/cbs/fuzzface
+2. Reverb — Vintage 1972 CBS / Arbiter Fuzz Face, documented 2N3392 silicon example: https://reverb.com/item/5833594-vintage-1972-cbs-arbiter-fuzz-face-rare-original-dallas-arbiter-pedal-rare-2n3392-transistors-silicon-jimi-hendrix
+3. FUZZFACED — Dallas/Arbiter Fuzz Face history and CBS/Arbiter branding: https://www.fuzzfaced.net/dallas-fuzz-face.html
+4. Reverb — CBS Arbiter Fuzz Face 1973: https://reverb.com/item/17186334-cbs-arbiter-fuzz-face-1973

@@ -17739,9 +17739,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cbs-arbiter/cbs-arbiter-fuzz-face/primary.webp",
       "source_page": null,
-      "research_record": null,
+      "research_record": "./research/pedals/CBS-Arbiter/CBS-Arbiter Fuzz Face.md",
       "image_source_page": "https://reverb.com/item/17186334-cbs-arbiter-fuzz-face-1973",
       "image_source_page_verified": true,
       "image_source_pages_verified": true,
