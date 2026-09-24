@@ -1,47 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T13:52:52.935034+00:00",
+  "generated_at": "2026-09-24T13:54:11.585581+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1655,
+    "researched": 1659,
     "pictured": 1601,
     "complete": 1601,
-    "research_pending": 2110
+    "research_pending": 2106
   },
   "next_target": {
-    "builder": "Coopersonic",
-    "pedal": "Deluxe Dual Valve Overdrive",
+    "builder": "Copilot FX",
+    "pedal": "Orbit",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Coopersonic",
-      "pedal": "Deluxe Dual Valve Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coopersonic",
-      "pedal": "Mini Tube Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coopersonic",
-      "pedal": "The Germaniac - Vintage Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coopersonic",
-      "pedal": "Twin Tube Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Copilot FX",
       "pedal": "Orbit",
@@ -165,6 +141,30 @@
     {
       "builder": "Cordovox",
       "pedal": "FZ-7 Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cordovox",
+      "pedal": "OD-7 Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cordovox",
+      "pedal": "OD-8 X-Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cornell Amplification",
+      "pedal": "Over Drive Special",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cornell Amplification",
+      "pedal": "The 1st Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
