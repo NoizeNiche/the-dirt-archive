@@ -1,6 +1,6 @@
 {
   "version": "research-evidence-v1",
-  "generatedAt": "2026-09-24T15:51:14.919Z",
+  "generatedAt": "2026-09-24T16:13:33.414Z",
   "purpose": "Autonomous evidence collection. Canonical research prose is written only after verification.",
   "foremanRule": "At least 2 distinct source hosts plus 1 strong exact-identity source before synthesis.",
   "counts": {
@@ -11,9 +11,9 @@
   },
   "records": [
     {
-      "builder": "DOD Electronics",
-      "pedal": "FX70 Metal X",
-      "catalogType": "Distortion",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Erupter",
+      "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
       "distinctHostCount": 0,
@@ -21,9 +21,9 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "DOD Electronics",
-      "pedal": "FX76 Punkifier",
-      "catalogType": "Distortion",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Erupter — Ultimate Fuzz Tone",
+      "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
       "distinctHostCount": 0,
@@ -31,9 +31,9 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "DOD Electronics",
-      "pedal": "FX86 Death Metal Distortion",
-      "catalogType": "Distortion",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Fuzz Master General",
+      "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
       "distinctHostCount": 0,
@@ -41,8 +41,58 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "DOD Electronics",
-      "pedal": "FX91 Bass Overdrive",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Fuzz Master General — Octave Fuzz Blaster",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Fuzz Master General Legacy Reissue — consolidated with Fuzz Master General",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Fuzz Master General Legacy Reissue — Limited Edition Octave Fuzz Blaster",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Gary",
+      "catalogType": "Distortion / Fuzz / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Gary — Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Gray Channel",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -51,38 +101,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "DOD Electronics",
-      "pedal": "Gonkulator",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Grind (FX101)",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Grunge (FX69B)",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Gunslinger",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Gray Channel — Dynamic Dirt Doubler",
       "catalogType": "Distortion / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -91,8 +111,68 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "DOD Electronics",
-      "pedal": "Juice Box Overdrive (FX51)",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Hizumitas",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Hizumitas — Fuzz Sustainar",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Hoof",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Hoof — Hybrid Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Hoof Reaper",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Hoof Reaper — Double Fuzz with Octave Up",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Monarch",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -101,8 +181,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "DOD Electronics",
-      "pedal": "Looking Glass",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Palisades",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -111,28 +191,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "DOD Electronics",
-      "pedal": "Metal X (FX70)",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Mystic Blues Overdrive (FX102)",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Overdrive Preamp 250",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Palisades — Mega Ultimate Overdrive",
       "catalogType": "Distortion / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -141,48 +201,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "DOD Electronics",
-      "pedal": "Overdrive Preamp 250-X",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Performer 555 Distortion",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Supra Distortion (FX55C)",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "YJM 308 Overdrive Preamp",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dophix",
-      "pedal": "Medici",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Park Fuzz Sound",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -191,28 +211,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dophix",
-      "pedal": "Michelangelo",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dophix",
-      "pedal": "Michelangelo Gold",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dr. No Effects",
-      "pedal": "Turd Fuzz",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Park Fuzz Sound — Vintage Germanium Fuzz Tone",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -221,9 +221,9 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham",
-      "pedal": "Dungeon Crawler",
-      "catalogType": "Distortion",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Plumes",
+      "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
       "distinctHostCount": 0,
@@ -231,18 +231,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham",
-      "pedal": "Frazz Dazzler",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham",
-      "pedal": "The Elements",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Plumes — Small Signal Shredder / overdrive",
       "catalogType": "Distortion / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -251,8 +241,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dr. Scientist Sounds",
-      "pedal": "BitQuest",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Rancho de la Luna Dirt Transmitter — Fuzz Driver",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -261,8 +251,38 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dr. Scientist Sounds",
-      "pedal": "Dungeon Crawler",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Sound Shank",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Sound Shank — Germanium Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Speaker Cranker",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Speaker Cranker — Overdrive",
       "catalogType": "Distortion",
       "sources": [],
       "sourceCount": 0,
@@ -271,8 +291,28 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dr. Scientist Sounds",
-      "pedal": "Frazz Dazzler",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Special Cranker",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Special Cranker — Overdrive",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Spires",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -281,8 +321,28 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dr. Scientist Sounds",
-      "pedal": "The Elements",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Spires — Fuzz Doubler",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Sunn O))) HalfLife",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Sunn O))) HalfLife — Octave Distortion + Booster",
       "catalogType": "Distortion / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -291,8 +351,18 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dr. Z Amplification",
-      "pedal": "Z-Drive",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Sunn O))) Life Pedal",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Sunn O))) Life Pedal — Octave Distortion + Booster",
       "catalogType": "Distortion / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -301,78 +371,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dreadbox",
-      "pedal": "Disorder",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Drunk Beaver",
-      "pedal": "Forest Song High Voltage Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Drunk Beaver",
-      "pedal": "Kavun MOSFET Drive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Drunk Beaver",
-      "pedal": "Kyiv Lead",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Drunk Beaver",
-      "pedal": "Mykolaiv Soft Blooming",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Drunk Beaver",
-      "pedal": "Secret Sauce",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Drunk Beaver",
-      "pedal": "Vatra",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Drunk Beaver",
-      "pedal": "XR MD-1 Metal Mind",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Sunn O))) Life Pedal / Life Pedal V2 — consolidated identity",
       "catalogType": "Distortion",
       "sources": [],
       "sourceCount": 0,
@@ -381,18 +381,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Drunk Beaver",
-      "pedal": "XR OD-1 OverDrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "DryBell",
-      "pedal": "The Engine",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Sunn O))) Life Pedal V2 — Octave Distortion + Booster",
       "catalogType": "Distortion / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -401,68 +391,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "DW Labs",
-      "pedal": "D3P Multi-Distortion",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Abaddon",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Baby Thundaa / Baby Thunder",
-      "catalogType": "Distortion / Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Bit Mangler",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Dream Mangler",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Eau Claire Thunder",
-      "catalogType": "Distortion / Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Gears",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Talons",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -471,8 +401,18 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Hair of the Dog",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Talons — High Gain Overdrive",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Terminal",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -481,8 +421,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "HAX",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Terminal — Destructive Fuzz Device",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -491,8 +431,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Necromancer",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Tone Reaper",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -501,8 +441,78 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Reese Lightning",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Westwood",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Westwood — Translucent Drive Manipulator",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "White Light",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "White Light Legacy Reissue — Overdrive",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Zoar",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Zoar — Dynamic Audio Grinder / distortion",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Effectrode",
+      "pedal": "Blackbird",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Effectrode",
+      "pedal": "Mercury Tube Fuzz",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -511,8 +521,198 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Robot Devil",
+      "builder": "Effectrode",
+      "pedal": "Tube Drive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Bass Big Muff Pi",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Bass Big Muff Pi 2",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Bass Soul Food",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Bender Royale",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Big Muff Pi",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Big Muff Pi 2",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Big Muff Pi 2 with Tone Wicker",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Big Muff Pi with Tone Wicker",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Crayon Full-Range Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Deluxe Bass Big Muff Pi",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Deluxe Bass Big Muff Pi 2",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Deluxe Big Muff 2",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Deluxe Big Muff Pi",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Double Muff",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "East River Drive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "EHX Percolator",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "English Muff'n",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Flatiron Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Germanium 4 Big Muff Pi",
       "catalogType": "Fuzz / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -521,8 +721,18 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Rot Yr Brain",
+      "builder": "Electro-Harmonix",
+      "pedal": "Germanium OD",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Green Russian Big Muff Pi",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -531,88 +741,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "SheFuzz / formerly Shiva",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Silver Rose v2",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Spectacular Aenima",
-      "catalogType": "Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Surrender Dorothy",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "The Great Destroyer",
-      "catalogType": "Distortion / Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "The Internet",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "The Secret Destroyer",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "Zhago",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Acapulco Gold",
+      "builder": "Electro-Harmonix",
+      "pedal": "Hell Melter",
       "catalogType": "Distortion",
       "sources": [],
       "sourceCount": 0,
@@ -621,78 +751,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Acapulco Gold — Power Amp Distortion",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Barrows",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Barrows — Fuzz Attacker",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Bellows",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Bellows — Fuzz Driver",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Black Ash",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Black Ash — Endangered Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Blumes",
+      "builder": "Electro-Harmonix",
+      "pedal": "Hot Tubes Nano",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -701,98 +761,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Blumes — Low Signal Shredder / overdrive",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Chelsea",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Chelsea — Low End Fuzz Driver",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Cloven Hoof",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Cloven Hoof — Fuzz Grinder",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Dirt Transmitter",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Dirt Transmitter — Fuzz Driver",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Dirt Transmitter Legacy Reissue — consolidated with Dirt Transmitter",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Dirt Transmitter Legacy Reissue — Fuzz Driver",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Dunes",
+      "builder": "Electro-Harmonix",
+      "pedal": "Hot Wax Dual Overdrive",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -801,9 +771,39 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Dunes — Mini Mega Ultimate Overdrive",
-      "catalogType": "Distortion / Overdrive",
+      "builder": "Electro-Harmonix",
+      "pedal": "J Mascis Ram's Head Big Muff Pi",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Little Big Muff Pi",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Lizard King Bass Octave & Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Electro-Harmonix",
+      "pedal": "Mainframe",
+      "catalogType": "Distortion",
       "sources": [],
       "sourceCount": 0,
       "distinctHostCount": 0,
