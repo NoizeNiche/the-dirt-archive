@@ -81,7 +81,7 @@ jobs:
               raw=curl(base+urllib.parse.quote(q))
               print("\nENGINE:",engine,"QUERY:",q,"BYTES:",len(raw))
               links=[]
-              for mm in re.finditer(r'<a[^>]+href=["\\']([^"\\']+)["\\'][^>]*>(.*?)</a>', raw, re.I|re.S):
+              for mm in re.finditer(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', raw, re.I|re.S):
                 href=html.unescape(mm.group(1))
                 title=re.sub(r'<[^>]+>',' ',html.unescape(mm.group(2)))
                 title=' '.join(title.split())
