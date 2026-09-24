@@ -4842,7 +4842,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/auxiliary-workshop/the-devils-handshake/primary.webp",
       "source_page": "https://auxiliaryworkshop.com/",
       "research_record": "./research/pedals/Auxiliary Workshop/The Devils Handshake.md",
       "image_source_pages": [
@@ -4852,7 +4852,8 @@
       "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/best-of-australian-and-new-zealander-guitar-pedals-and-pedal-builders",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 473
+      "image_source_priority": 473,
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/514/2019GPXAustraliaNewZealandPedals700-min.jpg"
     },
     {
       "company": "AVIA",
