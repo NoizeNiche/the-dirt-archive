@@ -3863,6 +3863,25 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         if (Number.isFinite(aOrder) && Number.isFinite(bOrder)) return aOrder - bOrder;
         return 0;
       });
+    // Photo catch-up is the current project gate. Give every researched,
+    // photo-missing record priority over the much larger research+photo backlog.
+    // This prevents a 2,500+ row fresh backlog from starving the small set that
+    // must be cleared before PRP1 can move forward.
+    const researchedPhotoCases = [...orderedCandidates]
+      .filter(entry => {
+        const meta = trackerMeta.get(key(entry.company, entry.pedal));
+        return meta?.pedalInfoDone === true && meta?.pictureDone !== true;
+      })
+      .sort((a, b) => {
+        const aPriority = Number(a.image_source_priority) || 0;
+        const bPriority = Number(b.image_source_priority) || 0;
+        if (aPriority !== bPriority) return bPriority - aPriority;
+        const aOrder = trackerMeta.get(key(a.company, a.pedal))?.order;
+        const bOrder = trackerMeta.get(key(b.company, b.pedal))?.order;
+        if (Number.isFinite(aOrder) && Number.isFinite(bOrder)) return aOrder - bOrder;
+        return 0;
+      });
+
     const HARD_CASE_SLOTS = Math.min(16, LIMIT, directImageCases.length + deepCandidates.length);
     const FRESH_CASE_SLOTS = Math.max(0, LIMIT - HARD_CASE_SLOTS);
 
@@ -3886,13 +3905,20 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       })
       .slice(0, remainingHardSlots);
     const hardCases = [...directHardCases, ...highAttemptCases];
-    // Fill the remaining slots with ordinary unresolved records. This keeps
-    // progress broad while guaranteeing that hard cases get revisited every run.
+
+    // Put the complete researched-photo catch-up set first. It is intentionally
+    // allowed to exceed HARD_CASE_SLOTS because these are the records blocking
+    // the next phase. The remaining capacity goes to ordinary unresolved work.
+    const catchUpCases = researchedPhotoCases;
+    const catchUpKeys = new Set(catchUpCases.map(entry => key(entry.company, entry.pedal)));
     const freshPool = normalCandidates.length
       ? [...normalCandidates, ...deepCandidates]
       : deepCandidates;
-    const freshCases = freshPool.slice(0, FRESH_CASE_SLOTS);
-    const activePool = [...freshCases, ...hardCases]
+    const freshCases = freshPool
+      .filter(entry => !catchUpKeys.has(key(entry.company, entry.pedal)))
+      .slice(0, Math.max(0, LIMIT - catchUpCases.length));
+
+    const activePool = [...catchUpCases, ...hardCases, ...freshCases]
       .filter((entry, index, pool) => pool.findIndex(x => key(x.company, x.pedal) === key(entry.company, entry.pedal)) === index);
 
     const selected = [];
