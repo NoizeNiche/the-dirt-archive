@@ -4,41 +4,30 @@
 - **Archive parent:** Black Swan
 - **Builder:** ChiralityAudio
 - **Catalog type:** Distortion / Fuzz
-- **Identity:** ChiralityAudio Black Swan, a one-knob high-gain distortion/fuzz with internally generated higher headroom.
+- **Identity:** ChiralityAudio Black Swan, a one-knob high-gain analog distortion/fuzz with internally generated higher headroom.
 
 ## What this pedal is
-ChiralityAudio describes the Black Swan as a no-frills high-gain distortion/fuzz with extended bass response, controlled treble, and a single front-panel control. The builder emphasizes that it is designed to retain playing dynamics and work across guitar, bass, and line-level sources. [1]
-
-The circuit generates higher internal headroom from a standard 9V center-negative supply and uses a high-performance input buffer. [1]
+ChiralityAudio describes Black Swan as a no-frills high-gain distortion/fuzz built around gain staging and a high-performance input buffer. The circuit runs at a wider internal dynamic range than the input, allowing more headroom while still using a standard 9V center-negative supply. [1]
 
 ## Colorways
-- The official product page documents the standard Black Swan artwork and enclosure.
-- No complete factory colorway sequence was established. [1]
+- The builder documents an algorithmically generated front-panel graphic.
+- A complete factory colorway sequence was not established.
 
 ## Versions and factory options
-The exact-model documentation establishes:
-- Single gain/control knob.
-- True bypass.
-- High-performance input buffer.
-- Internally generated increased headroom.
-- 9V DC center-negative operation.
-- 22 mA maximum current.
-- Input impedance greater than 1 MOhm.
-- Output impedance below 150 Ohm.
-- +4 dBu input capability.
-- 122 x 66 mm pedalboard footprint. [1]
+The exact model has a **single external control**. ChiralityAudio documents true bypass switching, 9V center-negative operation, 22 mA maximum current draw, input impedance greater than 1 MOhm, output impedance below 150 Ohm, and +4 dBu input handling. [1]
 
 ## Version changes
-No formal numbered factory revision sequence was established.
+No formal numbered factory revision sequence was established in the checked sources.
 
 ## Transistor
-No exact-model transistor part number was published in the checked builder documentation.
+No exact-model discrete transistor part number was published by the builder. The documented circuit uses gain staging and an input buffer, but component-level transistor identification is not provided. [1]
 
 ## Diode
-No exact-model diode specification was published.
+No exact-model diode specification was established in the checked sources.
 
 ## Sound
-The Black Swan is intentionally broad and aggressive. ChiralityAudio describes it as capable of rhythm, thick single-note riffs, singing melodies, and solos while retaining pick dynamics. The builder specifically notes that it works well for shoegaze and post-rock, with loud high-gain tones available past noon on the single control. [1]
+The builder voices Black Swan for defined high-gain distortion/fuzz with extended bass response and controlled high frequencies. ChiralityAudio specifically calls out its compatibility with bass, baritone, seven-string, and detuned guitars, and says it can clean up from the guitar volume control. The builder also notes its usefulness for shoegaze and post-rock textures. [1]
 
 ## Sources checked
 1. ChiralityAudio — Black Swan: https://chiralityaudio.com/products/blackswan/
+2. RockBoard PedalPedia — Black Swan: https://www.rockboard.de/en/pedalPedia/ChiralityAudio/Black-Swan/192207799/
