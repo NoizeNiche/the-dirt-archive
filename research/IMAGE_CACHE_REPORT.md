@@ -2,10 +2,10 @@
 
 - Cached in this run: **0**
 - Staged browser photos converted: **0**
-- Local images retained/reorganized: **0**
+- Local images retained/reorganized: **17**
 - Download failures: **0**
-- Remaining tracker photo backlog: **2515**
-- Researched, photo pending: **17**
+- Remaining tracker photo backlog: **2498**
+- Researched, photo pending: **0**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -14,4 +14,4 @@
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
 
-All 1,255 currently pictured pedal images are locally cached; 17 previously pictured records are intentionally unresolved pending replacement.
+All pictured pedal images are locally cached.
