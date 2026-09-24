@@ -17831,7 +17831,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cedar-custom-effects/cedar-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cedar Custom Effects/Cedar Drive.md"
     },
@@ -18037,7 +18037,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/center-street-electronics/the-murphy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Center Street Electronics/The Murphy.md"
     },
@@ -18047,7 +18047,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/century/century-sdi-1-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Century/Century SDI-1 Distortion.md"
     },
@@ -18108,7 +18108,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chamber-of-sounds/green-genie/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chamber Of Sounds/Green Genie.md"
     },
@@ -18224,7 +18224,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/champion-leccy/the-gett/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion Leccy/The Gett.md"
     },
@@ -18275,7 +18275,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chaos-custom-shop-chaos-fx/fuzz-machine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chaos Custom Shop - Chaos FX/Fuzz Machine.md"
     },
@@ -18315,7 +18315,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chapter-53-boutique-effects/fuzzmaster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chapter 53 Boutique Effects/Fuzzmaster.md"
     },
@@ -18325,7 +18325,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/charlie-paolo-custom-effects/bloodstone-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Charlie Paolo Custom Effects/Bloodstone Overdrive.md"
     },
@@ -18335,7 +18335,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/charlie-paolo-custom-effects/obsidian-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Charlie Paolo Custom Effects/Obsidian Fuzz.md"
     },
@@ -18355,7 +18355,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/charlie-paolo-custom-effects/toothaker-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Charlie Paolo Custom Effects/Toothaker Distortion.md"
     },
@@ -18365,7 +18365,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/charlie-pedals/theophane/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Charlie Pedals/Theophane.md"
     },
@@ -18385,7 +18385,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/charlie-pedals/troubadour-mki-5/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Charlie Pedals/Troubadour MKI.5.md"
     },
@@ -18396,7 +18396,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-bliss/brothers-am/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss/Brothers AM.md"
     },
@@ -18406,7 +18406,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-bliss-audio/bliss-factory/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Bliss Factory.md"
     },
@@ -18417,7 +18417,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-bliss-audio/brothers/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Brothers.md"
     },
@@ -18428,7 +18428,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-bliss-audio/brothers-analog-gainstage/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Brothers - Analog Gainstage.md"
     },
@@ -18439,7 +18439,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-bliss-audio/brothers-am/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Brothers AM.md"
     },
@@ -18449,7 +18449,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-bliss-audio/condor-analog-eq-pre-filter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Condor - Analog EQ - Pre - Filter.md"
     },
@@ -18459,7 +18459,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-bliss-audio/condor-hifi-analog-eq-pre-filter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Condor Hifi - Analog EQ - Pre - Filter.md"
     },
@@ -18469,7 +18469,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-bliss-audio/dirt-bird/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Dirt Bird.md"
     },
@@ -18480,7 +18480,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-bliss-audio/preamp-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Preamp MKII.md"
     },
@@ -18490,7 +18490,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-tone/68-red-velvet-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/'68 Red Velvet Fuzz.md"
     },
@@ -18500,7 +18500,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-tone/black-stardust-bc109-silicon-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Black Stardust BC109 Silicon Fuzz.md"
     },
@@ -18511,7 +18511,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-tone/blue-stardust-bc108-silicon-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Blue Stardust BC108 Silicon Fuzz.md"
     },
@@ -18521,7 +18521,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-tone/candy-apple-red-glazed-germanium-fuzz-face/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Candy Apple Red Glazed Germanium Fuzz Face.md"
     },
@@ -18542,7 +18542,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-tone/metallic-blue-stardust-hi-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Metallic Blue Stardust Hi-Octave Fuzz.md"
     },
@@ -18552,7 +18552,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-tone/purple-stardust-hi-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Purple Stardust Hi-Octave Fuzz.md"
     },
@@ -18572,7 +18572,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-tone/silver-stardust-bc183-2l-silicon-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Silver Stardust BC183 2L Silicon Fuzz.md"
     },
@@ -18592,7 +18592,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cheeseblocks-effects/phoenix-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CheeseBlocks Effects/Phoenix Fuzz.md"
     },
@@ -18602,7 +18602,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cheeseblocks-effects/the-cheese-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CheeseBlocks Effects/THE Cheese Distortion.md"
     },
@@ -18612,7 +18612,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chellee-guitars/odelya/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chellee Guitars/Odelya.md"
     },
@@ -18622,7 +18622,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chellee-guitars/odie-classic-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chellee Guitars/Odie - Classic Overdrive.md"
     },
@@ -18642,7 +18642,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chellee-guitars/odie-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chellee Guitars/Odie - Overdrive.md"
     },
@@ -18652,7 +18652,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chellee-guitars/ponyboy-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chellee Guitars/Ponyboy - Overdrive.md"
     },
@@ -18662,7 +18662,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chellee-guitars/sir-robin-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chellee Guitars/Sir Robin - Overdrive.md"
     },
@@ -18672,7 +18672,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chemistry-design-werks/gigawatt-overdrive-delay/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chemistry Design Werks/Gigawatt - Overdrive & Delay.md"
     },
@@ -18692,7 +18692,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cherry-music/mighty-sound-m2-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cherry Music/Mighty Sound M2 Overdrive.md"
     },
@@ -18722,7 +18722,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chicago-iron/octavian/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chicago Iron/Octavian.md"
     },
@@ -18742,7 +18742,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chicago-stompworks/fat-bald-guy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chicago Stompworks/Fat Bald Guy.md"
     },
@@ -18752,7 +18752,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chicago-stompworks/gray-speck/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chicago Stompworks/Gray Speck.md"
     },
@@ -18762,7 +18762,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chicago-stompworks/greeny/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chicago Stompworks/Greeny.md"
     },
@@ -18772,7 +18772,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chicago-stompworks/legitimate-beef/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chicago Stompworks/Legitimate Beef.md"
     },
@@ -18783,7 +18783,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chiralityaudio/black-swan/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ChiralityAudio/Black Swan.md"
     },
@@ -18793,7 +18793,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chiralityaudio/splinter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ChiralityAudio/Splinter.md"
     },
@@ -18813,7 +18813,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/chiu-luen/cl-3-clean-distortion-reverb-chorus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chiu Luen/CL-3 Clean Distortion Reverb Chorus.md"
     },
@@ -18843,7 +18843,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chocolate-electronics/chocolate-crunch/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chocolate Electronics/Chocolate Crunch.md"
     },
@@ -18853,7 +18853,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chocolate-electronics/chocolate-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chocolate Electronics/Chocolate Drive.md"
     },
@@ -18864,7 +18864,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chocolate-electronics/fuzzy-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chocolate Electronics/Fuzzy Overdrive.md"
     },
@@ -18874,7 +18874,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chocolate-electronics/melty-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chocolate Electronics/Melty Overdrive.md"
     },
@@ -18884,7 +18884,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chord-by-daphon/bod-50-bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chord (by Daphon)/BOD-50 Bass Overdrive.md"
     },
@@ -18894,7 +18894,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/chord-by-daphon/ds-50-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chord (by Daphon)/DS-50 Distortion.md"
     },
@@ -18904,7 +18904,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/chord-by-daphon/hm-50-heavy-metal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chord (by Daphon)/HM-50 Heavy Metal.md"
     },
@@ -18914,7 +18914,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/chord-by-daphon/mt-50-metal-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chord (by Daphon)/MT-50 Metal Driver.md"
     },
@@ -18924,7 +18924,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chord-by-daphon/od-50-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chord (by Daphon)/OD-50 Overdrive.md"
     },
@@ -18934,7 +18934,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/chord-by-daphon/sd-50-super-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chord (by Daphon)/SD-50 Super Distortion.md"
     },
@@ -18945,7 +18945,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chord-by-tom-s-line/od50-overdrive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chord (by Tom's Line)/OD50 Overdrive Distortion.md"
     },
@@ -18955,7 +18955,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chowny-bass/fuzzster-bass-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chowny Bass/Fuzzster Bass Fuzz.md"
     },
@@ -18965,7 +18965,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/chris-custom/crusher-hi-gain-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chris Custom/Crusher - Hi Gain Distortion.md"
     },
@@ -18975,7 +18975,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chris-custom/df-1-dr-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chris Custom/DF-1 Dr.Fuzz.md"
     },
@@ -18985,7 +18985,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chris-custom/dr-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chris Custom/Dr.Drive.md"
     },
@@ -18995,7 +18995,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chris-custom/dr-muff/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chris Custom/Dr.Muff.md"
     },
@@ -19005,7 +19005,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chris-custom/dr-scream/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chris Custom/Dr.Scream.md"
     },
@@ -19026,7 +19026,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chris-custom/fratz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chris Custom/Fratz.md"
     },
@@ -19036,7 +19036,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/chris-custom/loud-crusher/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chris Custom/Loud Crusher.md"
     },
@@ -19046,7 +19046,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chuck-pedals/arcadiator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chuck Pedals/Arcadiator.md"
     },
@@ -19056,7 +19056,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chuck-pedals/diver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chuck Pedals/Diver.md"
     },
@@ -19076,7 +19076,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chucktone-effects/overdrive-809/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chucktone Effects/Overdrive 809.md"
     },
@@ -19086,7 +19086,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chunk-systems/brown-dog/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chunk Systems/Brown Dog.md"
     },
@@ -19096,7 +19096,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/chunk-systems/fz002/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chunk Systems/FZ002.md"
     },
@@ -19136,7 +19136,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cicognani-engineering/speciale-dd-1959/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cicognani Engineering/Speciale DD 1959.md"
     },
@@ -19146,7 +19146,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cicognani-engineering/triple-decker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cicognani Engineering/Triple Decker.md"
     },
@@ -19156,7 +19156,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/circle-of-tone/blues-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circle Of Tone/Blues Overdrive.md"
     },
@@ -19176,7 +19176,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/circle-of-tone/fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circle Of Tone/FUZZ.md"
     },
