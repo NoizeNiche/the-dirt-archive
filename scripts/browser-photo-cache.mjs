@@ -1868,7 +1868,20 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     // A curated/explicit image source page is already a stronger lead than a
     // fresh maker-search query, so give that page the first chance to resolve.
     let sourcePageUsed = null;
-    const pageUrls = preferredSourcePages(entry);
+    let pageUrls = preferredSourcePages(entry);
+    if (entry.company === 'CBC Pedals' && entry.pedal === 'Harmonic Percolator') {
+      try {
+        const legacyPages = await legacyCbcSourcePages(page, entry);
+        if (legacyPages.length) {
+          pageUrls = [...new Set([...legacyPages, ...pageUrls])].slice(0, 12);
+          console.log('CBC legacy exact source pages: ' + legacyPages.join(' | '));
+        } else {
+          console.log('CBC legacy exact source probe found no exact source pages.');
+        }
+      } catch (err) {
+        console.log('CBC legacy exact source probe failed: ' + String(err?.message || err));
+      }
+    }
 
     // A curated/explicit source page is already a stronger lead than a fresh
     // maker-search query. Try every curated page in bounded order rather than
