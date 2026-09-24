@@ -134,8 +134,13 @@ def main():
                 "source_page": item.get("source_page"),
                 "research_record": record,
             })
-        elif (entry.get("research_record") or "") != record:
-            entry["research_record"] = record
+        else:
+            # Manifest image is the public/local asset pointer, not the provenance
+            # URL. Keep it exactly synchronized with the canonical catalog so an
+            # old external image value can never survive after the catalog changes.
+            entry["image"] = item.get("image")
+            if entry.get("research_record") != record:
+                entry["research_record"] = record
 
     INDEX.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
