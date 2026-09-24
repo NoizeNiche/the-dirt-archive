@@ -13800,7 +13800,8 @@
     "pedal": "P031 Zeugma Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Collateral FX/P031 Zeugma Fuzz.md"
+    "research_record": "./research/pedals/Collateral FX/P031 Zeugma Fuzz.md",
+    "image_source_page": "https://reverb.com/item/96172740-collateral-fx-zeugma-zonk-fuzz-2026-hammered-blue-aqua"
   },
   {
     "builder": "Collateral FX",
@@ -13814,28 +13815,32 @@
     "pedal": "CDT-1 Distortion",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Collins/CDT-1 Distortion.md"
+    "research_record": "./research/pedals/Collins/CDT-1 Distortion.md",
+    "image_source_page": "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46"
   },
   {
     "builder": "Collins",
     "pedal": "COD-1 Pro Over Drive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Collins/COD-1 Pro Over Drive.md"
+    "research_record": "./research/pedals/Collins/COD-1 Pro Over Drive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/collins/1pro"
   },
   {
     "builder": "Collins",
     "pedal": "CSD-1 Pro Super Dust",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Collins/CSD-1 Pro Super Dust.md"
+    "research_record": "./research/pedals/Collins/CSD-1 Pro Super Dust.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/collins/1pro/csd1"
   },
   {
     "builder": "Collision Devices",
     "pedal": "Black Hole Symmetry",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Collision Devices/Black Hole Symmetry.md"
+    "research_record": "./research/pedals/Collision Devices/Black Hole Symmetry.md",
+    "image_source_page": "https://reverb.com/p/collision-devices-black-hole-symmetry"
   },
   {
     "builder": "Collision Devices",
@@ -13854,51 +13859,64 @@
   {
     "builder": "Collision Devices",
     "pedal": "Snack Fuzz",
-    "image": null,
+    "image": "./assets/pedals/collision-devices/snack-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Collision Devices/Snack Fuzz.md"
+    "research_record": "./research/pedals/Collision Devices/Snack Fuzz.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/613fafff5a3c44773121cc57/fd683af6-085c-49f2-972e-2a5a27e2de45/SP.jpeg?format=100w",
+    "image_source_page": "https://collisiondevices.com/shop/p/snack-fuzz"
   },
   {
     "builder": "Collision Devices",
     "pedal": "TARS",
-    "image": null,
+    "image": "./assets/pedals/collision-devices/tars/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Collision Devices/TARS.md"
+    "research_record": "./research/pedals/Collision Devices/TARS.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/613fafff5a3c44773121cc57/6d73d5b4-d512-4eb5-a22c-56f5f221e891/001.jpg?format=1500w",
+    "image_source_page": "https://collisiondevices.com/tars"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "22 Overdrive/Distortion",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/22-overdrive-distortion/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/22 Overdrive-Distortion.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/22 Overdrive-Distortion.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/0395fad3dda22497a4e0dd5f1bb0cce7.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/22_overdrive_distortion/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "57 Turbo Drive",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/57-turbo-drive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/57 Turbo Drive.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/57 Turbo Drive.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/20f1ca5dcbc23bfb5ca8321f57738351.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/57turbodrive/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Blackface Idol",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/blackface-idol/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Blackface Idol.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Blackface Idol.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/db87e19c9a1245328b38149c95815b9e.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/blackface-idol/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Bricks",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Bricks.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Bricks.md",
+    "image_source_page": "https://reverb.com/en-fr/item/43590293-colombo-audio-electronics-bricks-david-gilmour-style-distortion-boost-fuzz-eq"
   },
   {
     "builder": "Colombo Audio Electronics",
     "pedal": "Eruption",
-    "image": null,
+    "image": "./assets/pedals/colombo-audio-electronics/eruption/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colombo Audio Electronics/Eruption.md"
+    "research_record": "./research/pedals/Colombo Audio Electronics/Eruption.md",
+    "image_source_url": "https://colomboaudioelectronics.it/wp-content/cache/flying-press/4f3c25999585285ce2dfd9d1b075e34c.jpg",
+    "image_source_page": "https://colomboaudioelectronics.it/prodotto/eruption-van-halen/?lang=en"
   },
   {
     "builder": "Colombo Audio Electronics",
