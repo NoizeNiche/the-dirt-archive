@@ -11791,9 +11791,11 @@
   {
     "builder": "CBS-Arbiter",
     "pedal": "CBS-Arbiter Doubler",
-    "image": null,
+    "image": "./assets/pedals/cbs-arbiter/cbs-arbiter-doubler/primary.webp",
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CBS-Arbiter/CBS-Arbiter Doubler.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/arbiter-cbs_doubler_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/arbiter/cbs/doubler"
   },
   {
     "builder": "CBS-Arbiter",
