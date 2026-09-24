@@ -4378,11 +4378,43 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     const selectedBytes = selectedResult.bytes;
 
     const out = target(entry);
+    const sourceOut = out.replace(/\.webp$/i, '.source');
     fs.mkdirSync(path.dirname(out), { recursive: true });
-    fs.writeFileSync(out.replace(/\.webp$/i, '.source'), selectedBytes);
+    fs.writeFileSync(sourceOut, selectedBytes);
+
+    const verificationMethod =
+      selected.directImageOverride ? 'direct_exact' :
+      selected.rawVerifiedPageImage ? 'exact_source_page' :
+      selected.searchResult && selected.strongSearchIdentity ? 'verified_image_search' :
+      selected.searchResult ? 'image_search' :
+      selected.articleExactImage ? 'article_exact_image' :
+      'verified_source_page';
+
+    const sourceIdentityVerified = Boolean(
+      selected.directImageOverride ||
+      selected.rawVerifiedPageImage ||
+      (selected.searchResult && selected.strongSearchIdentity) ||
+      (selected.sourcePage && (
+        selected.sourcePage === sourcePageUsed ||
+        diagnostic.sourceIdentityMatch
+      ))
+    );
+
     entry.image_source_url = selected.url;
     if (selected.sourcePage) entry.image_source_page = selected.sourcePage;
-    return { ok: true, imageUrl: selected.url, sourcePage: selected.sourcePage || null };
+    return {
+      ok: true,
+      imageUrl: selected.url,
+      sourcePage: selected.sourcePage || null,
+      imageFile: './' + path.relative(ROOT, sourceOut).split(path.sep).join('/'),
+      verification: {
+        identityVerified: sourceIdentityVerified,
+        method: verificationMethod,
+        sourceScore: Number(selected.sourceScore || 0),
+        strongSearchIdentity: Boolean(selected.strongSearchIdentity),
+        sourceHost: selected.sourcePage ? (() => { try { return new URL(selected.sourcePage).hostname; } catch { return ''; } })() : '',
+      }
+    };
   } finally {
     clearTimeout(deadline);
     await page.close().catch(() => {});
