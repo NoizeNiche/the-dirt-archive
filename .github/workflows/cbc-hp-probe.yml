@@ -336,6 +336,57 @@ jobs:
           if-no-files-found: error
           retention-days: 1
 
+      - name: Extract exact CBC Percolator Reverb listing images
+        shell: bash
+        run: |
+          mkdir -p artifact/reverb-exact
+          python - <<'PY'
+          import json,re,subprocess,html
+          from pathlib import Path
+          u='https://reverb.com/item/2896434-cbc-pedals-the-percolator'
+          p=subprocess.run([
+            'curl','-L','--silent','--show-error','--compressed',
+            '--connect-timeout','5','--max-time','15','-A','Mozilla/5.0'
+            ,'-H','Accept-Language: en-US,en;q=0.9',u
+          ],capture_output=True,text=True,errors='ignore',timeout=20)
+          raw=p.stdout or ''
+          print('BYTES',len(raw))
+          m=re.search(r'<title[^>]*>(.*?)</title>',raw,re.I|re.S)
+          if m: print('TITLE',re.sub(r'\\s+',' ',re.sub(r'<[^>]+>',' ',html.unescape(m.group(1)))).strip())
+          urls=[]
+          pats=[
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)',
+            r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+            r'<img[^>]+src=["\']([^"\']+)["\']',
+            r'"image":\s*"([^"]+)"',
+            r'"images":\s*\[(.*?)\]'
+          ]
+          for pat in pats:
+            for m in re.finditer(pat,raw,re.I|re.S):
+              v=html.unescape(m.group(1))
+              if pat.endswith('\\]"'): pass
+              if isinstance(v,str) and v.startswith('http'): urls.append(v)
+          urls=list(dict.fromkeys(urls))
+          print('CANDIDATE_URLS',len(urls))
+          for i,v in enumerate(urls[:40],1):
+            print('IMAGE',i,v)
+            try:
+              out=Path('artifact/reverb-exact')/('cbc-percolator-%02d.jpg'%i)
+              q=subprocess.run(['curl','-L','--silent','--show-error','--fail','--connect-timeout','5','--max-time','12','-A','Mozilla/5.0','-o',str(out),v],capture_output=True,timeout=15)
+              if q.returncode==0 and out.is_file() and out.stat().st_size>3000:
+                print('SAVED',out,out.stat().st_size)
+            except Exception as e: print('DOWNLOAD_ERROR',e)
+          Path('artifact/reverb-exact/page-snippet.txt').write_text(raw[:120000],encoding='utf-8')
+          PY
+
+      - name: Upload exact CBC Reverb evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: exact-cbc-reverb-evidence
+          path: artifact/reverb-exact/
+          if-no-files-found: error
+          retention-days: 1
+
       - name: Capture CBC-specific YouTube thumbnail for inspection
         shell: bash
         run: |
