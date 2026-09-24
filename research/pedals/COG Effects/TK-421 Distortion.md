@@ -4,28 +4,34 @@
 - **Archive parent:** TK-421 Distortion
 - **Builder:** COG Effects
 - **Catalog type:** Distortion
-- **Identity:** COG Effects TK-421 Distortion.
+- **Identity:** COG Effects TK-421, a rat-style guitar/bass distortion without the original LM308 as standard.
 
 ## What this pedal is
-The Dirt Archive's verified catalog census records this exact builder/model identity and classifies it as **Distortion**. The retained source material does not preserve enough exact-model documentation to safely assign circuit lineage, complete controls, component values, or revision history.
-
-## Colorways
-No complete factory colorway sequence was established.
+COG Effects describes TK-421 as more aggressive and clearer than its Knightfall while retaining rat-like upper-mid character. The classic LM308 is absent as standard, but the chip socket permits experimentation. [1]
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+- Dirt.
+- Tone.
+- Diode Selection.
+- Range.
+- Externally accessible clipping choice.
+- Three internal Tone ranges.
+- Relay true bypass.
+- 9V DC.
+- Die-cast aluminium enclosure. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+COG's discontinued archive states that an **MK2** was planned. The final Mk2 specifications were not established. [2]
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+The central gain IC is intentionally not the LM308 as standard; the socket permits LM308 experimentation. [1]
 
 ## Diode
-Unknown from the checked exact-model documentation.
+External clipping selection is a defining feature. [1]
 
 ## Sound
-The model is documented as distortion. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+TK-421 targets aggressive upper-mid bite with more clarity and low-end retention than a traditional 308-based RAT. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. Effects Database — TK-421: https://www.effectsdatabase.com/model/cog/tk421
+2. COG Effects — Discontinued pedals: https://www.cogeffects.co.uk/discontinued-pedals.php

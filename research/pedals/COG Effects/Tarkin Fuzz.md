@@ -4,28 +4,32 @@
 - **Archive parent:** Tarkin Fuzz
 - **Builder:** COG Effects
 - **Catalog type:** Fuzz
-- **Identity:** COG Effects Tarkin Fuzz.
+- **Identity:** COG Effects Tarkin, a Green Russian-inspired fuzz voiced for bass and thick guitar.
 
 ## What this pedal is
-The Dirt Archive's verified catalog census records this exact builder/model identity and classifies it as **Fuzz**. The current retained source material does not preserve enough exact-model documentation to safely assign circuit lineage, complete controls, component values, or revision history.
-
-## Colorways
-No complete factory colorway sequence was established.
+COG Effects describes the original Tarkin as a Green Russian-based four-transistor fuzz tuned for bass and thick guitar sounds. [1]
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+- In.
+- Tone.
+- Out.
+- Mid Shift switch.
+- True bypass.
+- 9V DC.
+- Die-cast aluminium enclosure. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+The original **Mk1** was superseded by the smaller, expanded **Mk2**. [1][2]
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+Four-transistor Green Russian-derived fuzz design; exact transistor part numbers not published.
 
 ## Diode
-Unknown from the checked exact-model documentation.
+Exact diode complement not established.
 
 ## Sound
-The model is documented as fuzz. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+Mid Shift changes the Muff-style mid profile from scooped toward flatter mids. Tone ranges from deep low-end fuzz through brighter settings, with guitar-volume cleanup. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. COG Effects — Tarkin Fuzz Mk1: https://www.cogeffects.co.uk/tarkin-fuzz-mk1.php
+2. COG Effects — Discontinued pedals: https://www.cogeffects.co.uk/discontinued-pedals.php

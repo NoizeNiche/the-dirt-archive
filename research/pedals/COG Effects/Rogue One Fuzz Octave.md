@@ -3,29 +3,32 @@
 ## PRP identity
 - **Archive parent:** Rogue One Fuzz Octave
 - **Builder:** COG Effects
-- **Catalog type:** Fuzz
-- **Identity:** COG Effects Rogue One Fuzz Octave.
+- **Catalog type:** Fuzz / Octave
+- **Identity:** COG Effects Rogue One, later R-1, a dual-fuzz bass pedal with parallel analogue octave down.
 
 ## What this pedal is
-The Dirt Archive's verified catalog census records this exact builder/model identity and classifies it as **Fuzz**. The current retained source material does not preserve enough exact-model documentation to safely assign circuit lineage, complete controls, component values, or revision history.
-
-## Colorways
-No complete factory colorway sequence was established.
+COG Effects describes Rogue One, later renamed **R-1**, as two full-featured Grand Tarkin fuzz channels plus a parallel analogue octave channel. [1]
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+Each fuzz channel provides Fuzz, Level, Tone, Mids, and Clean Level, plus clipping-stage switches. The octave adds octave-down level, Filter, and Clean Kill. An A/B footswitch selects the two fuzz channels. [1]
+
+- 2.1mm 9V input.
+- North-mounted jacks.
+- True bypass.
+- Die-cast aluminium enclosure. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+The original Rogue One name was later changed to **R-1**. [1]
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+Exact transistor part numbers not established.
 
 ## Diode
-Unknown from the checked exact-model documentation.
+Each fuzz channel can remove clipping diodes from either clipping stage. [1]
 
 ## Sound
-The model is documented as fuzz. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+The two fuzz channels cover different Muff-family voicings, and the octave-down channel can be added in parallel and filtered. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. COG Effects — R-1 / Rogue One: https://www.cogeffects.co.uk/rogue-one.php
+2. Gearnews — Rogue One coverage: https://www.gearnews.com/cog-effects-rogue-one-death-star-sized-bass-fuzz-pedal/
