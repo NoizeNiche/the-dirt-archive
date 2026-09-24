@@ -14931,7 +14931,7 @@
     "pedal": "Black Sunn",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Correct Sound/Black Sunn.md"
   },
   {
     "builder": "Correct Sound",
@@ -14945,7 +14945,7 @@
     "pedal": "M1 Tube Preamp",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Correct Sound/M1 Tube Preamp.md"
   },
   {
     "builder": "Correct Sound",
@@ -14959,7 +14959,7 @@
     "pedal": "Tube Beta Hybrid Mk-II",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Correct Sound/Tube Beta Hybrid Mk-II.md"
   },
   {
     "builder": "Cortez",
@@ -14994,7 +14994,7 @@
     "pedal": "Centerror",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cosmic Terror/Centerror.md"
   },
   {
     "builder": "Cosmic Terror",
@@ -15008,14 +15008,14 @@
     "pedal": "Cult OD",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cosmic Terror/Cult OD.md"
   },
   {
     "builder": "Cosmic Terror",
     "pedal": "Droog",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cosmic Terror/Droog.md"
   },
   {
     "builder": "Cosmic Terror",
