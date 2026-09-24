@@ -1965,6 +1965,13 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         } else {
           await page.evaluate(() => document.querySelector('[data-dirt-archive-direct-capture="1"]')?.remove()).catch(() => {});
         }
+
+        // Direct-image overrides can reject an injected <img> while still
+        // rendering when Chromium navigates to the image URL as a document.
+        // Reuse the existing image-document fallback while preserving the
+        // exact source page as provenance and Referer context.
+        const documentShot = await screenshotImageDocumentCandidate(candidate, 140);
+        if (documentShot?.bytes) return documentShot;
       } catch {}
       return null;
     }
