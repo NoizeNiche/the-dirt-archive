@@ -1524,6 +1524,9 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               });
             }
             diagnostic.rawHtmlCandidates += feedImages.length;
+            if (entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass' && feedImages.length) {
+              console.log('CAT Sound exact raw image candidates: ' + feedImages.slice(0, 24).join(' | '));
+            }
             const feedResult = await tryImages(feedImages.map(url => ({
               url,
               sourcePage: pageUrl,
