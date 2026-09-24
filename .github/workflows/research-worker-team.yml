@@ -17,7 +17,7 @@ jobs:
     name: Build research worker matrix
     runs-on: ubuntu-latest
     outputs:
-      matrix: \${{ steps.pick.outputs.matrix }}
+      matrix: ${{ steps.pick.outputs.matrix }}
     steps:
       - uses: actions/checkout@v7
       - id: pick
@@ -33,13 +33,13 @@ jobs:
           PY
 
   gather:
-    name: Research gatherer \${{ strategy.job-index }}
+    name: Research gatherer ${{ strategy.job-index }}
     needs: prepare
-    if: \${{ needs.prepare.outputs.matrix != '' }}
+    if: ${{ needs.prepare.outputs.matrix != '' }}
     strategy:
       fail-fast: false
       max-parallel: 16
-      matrix: \${{ fromJSON(needs.prepare.outputs.matrix) }}
+      matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
     runs-on: ubuntu-latest
     timeout-minutes: 14
     steps:
@@ -50,7 +50,7 @@ jobs:
           mkdir -p worker-evidence
           python - <<'PY'
           import json, os, subprocess
-          targets=json.loads(r''' \${{ toJSON(matrix.targets) }} ''')
+          targets=json.loads(r''' ${{ toJSON(matrix.targets) }} ''')
           for i,t in enumerate(targets):
               env=os.environ.copy()
               env["RESEARCH_TARGET_BUILDER"]=t["builder"]
@@ -60,7 +60,7 @@ jobs:
           PY
       - uses: actions/upload-artifact@v4
         with:
-          name: research-worker-\${{ strategy.job-index }}
+          name: research-worker-${{ strategy.job-index }}
           path: worker-evidence/
           if-no-files-found: ignore
           retention-days: 1
@@ -68,7 +68,7 @@ jobs:
   foreman:
     name: Research foreman
     needs: gather
-    if: \${{ always() }}
+    if: ${{ always() }}
     runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
