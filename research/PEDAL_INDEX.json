@@ -587,7 +587,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/accel-audio/od-ss-express-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/od10",
       "research_record": "./research/pedals/Accel Audio/OD-SS Express Overdrive.md",
       "image_source_pages": [
@@ -10370,7 +10370,8 @@
         "https://reverb.com/item/58788639-blackhawk-amplifiers-basilisk-fuzz-2019-black",
         "https://reverb.com/item/91327542-blackhawk-amplifiers-basilisk-fuzz"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image": "./assets/pedals/blackhawk-amplifiers/basilisk-fuzz/primary.webp"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -14460,7 +14461,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/c-i-c/mod-7-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/cic/mod7",
       "research_record": "./research/pedals/PRP Batch 135/cic-mod-7-overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/cic/mod7",
@@ -17325,7 +17326,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/catastrofx/outbreak/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 161/catastrofx-outbreak.md",
       "image_source_page": "https://reverb.com/item/91582678-catastrofx-pedals-outbreak-overdrive-preorder",

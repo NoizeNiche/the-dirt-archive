@@ -401,7 +401,7 @@
   {
     "builder": "Accel Audio",
     "pedal": "OD-SS Express Overdrive",
-    "image": null,
+    "image": "./assets/pedals/accel-audio/od-ss-express-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/od10",
     "research_record": "./research/pedals/Accel Audio/OD-SS Express Overdrive.md",
     "image_source_page": "https://www.effectsdatabase.com/model/biyang/babyboom/od10"
@@ -6944,7 +6944,7 @@
   {
     "builder": "Blackhawk Amplifiers",
     "pedal": "Basilisk Fuzz",
-    "image": null,
+    "image": "./assets/pedals/blackhawk-amplifiers/basilisk-fuzz/primary.webp",
     "source": "verified research source",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md",
@@ -9728,7 +9728,7 @@
   {
     "builder": "C.I.C",
     "pedal": "MOD-7 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/c-i-c/mod-7-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/cic/mod7",
     "research_record": "./research/pedals/PRP Batch 135/cic-mod-7-overdrive.md",
     "image_source_page": "https://www.effectsdatabase.com/model/cic/mod7"
@@ -11562,7 +11562,7 @@
   {
     "builder": "CatastroFX",
     "pedal": "Outbreak",
-    "image": null,
+    "image": "./assets/pedals/catastrofx/outbreak/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 161/catastrofx-outbreak.md",
     "image_source_url": "https://rvb-img.reverb.com/i/s--rAl-zvOo--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/d9wqkqoawx40ixqkd5g1.jpg",
