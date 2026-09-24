@@ -2,9 +2,9 @@
 
 The live research/PRP_TRACKER.csv currently parses to **3,770 total records / 1,272 researched records / 1,255 pictured records / 1,255 PRP-complete records / 17 researched-photo-pending / 2,515 photo-missing records overall**.
 
-The researched-photo gate is now **0**. The final blocker, **CBC Pedals - Harmonic Percolator**, has a locally archived image at ./assets/pedals/cbc-pedals/harmonic-percolator/primary.webp. Asset-level inspection confirmed the archived file is an actual pedal photograph, and the tracker/catalog/manifest are synchronized to the local asset. The previous Equipboard-logo false positive was removed before this final image was accepted.
+The photo-quality gate is currently **17 researched-photo-pending / 2,515 photo-missing**, after a targeted audit removed 17 obvious non-product images from the pictured state. The earlier final blocker, **CBC Pedals - Harmonic Percolator**, remains correctly archived at ./assets/pedals/cbc-pedals/harmonic-percolator/primary.webp and its asset-level inspection confirmed a real pedal photograph. PRP1 is therefore re-gated while the 17 repaired-photo targets are recovered.
 
-PRP1 has been opened and the CBC Harmonic Percolator intake package was consumed. The next canonical incomplete PRP target is **CBC Pedals - Hop Hed Fuzztone**. Continue research in exact catalog order from that record onward.
+PRP1 was opened and the CBC Harmonic Percolator intake package was consumed, but the newly discovered photo-quality failures have re-gated the phase. Photo recovery should clear the 17 known-bad records first, then resume the next canonical incomplete PRP target, **CBC Pedals - Hop Hed Fuzztone**, in exact catalog order.
 
 The photo-quality audit has now moved 17 known-bad pictured records back to photo-pending, so the live gate is 17 researched-photo-pending / 2,515 photo-missing. Those 17 records are now explicitly back in the recovery lane. The photo validator rejects the obvious favicon/logo/template provenance classes so the gate cannot silently return to zero around bad assets. Keep the local-first image contract and exact Builder + Pedal identity gate unchanged.
 
