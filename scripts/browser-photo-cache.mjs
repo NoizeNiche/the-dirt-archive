@@ -217,6 +217,18 @@ function pageMatchesSearchIdentity(entry, title, h1) {
 }
 
 function pageMatchesIdentity(entry, title, h1) {
+  const titleNorm = normalizedIdentity(title);
+  const h1Norm = normalizedIdentity(h1);
+  const pedalPhraseNorm = normalizedIdentity(entry.pedal);
+  // Equipboard brand directory pages can mention many related pedals in their
+  // body copy while their H1 is only the builder name. Never treat that generic
+  // brand page as an exact product page.
+  if (titleNorm.includes('equipboard') &&
+      pedalPhraseNorm &&
+      h1Norm &&
+      !h1Norm.includes(pedalPhraseNorm)) {
+    return false;
+  }
   const haystack = normalizedIdentity(title + ' ' + h1);
   const pedalPhrases = identityPhrases(entry.pedal);
   const builderTokens = identityTokens(entry.company);
@@ -4198,12 +4210,20 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
             /reverb|ebay|effectsdatabase|guitarpedalx|talkbass|rockboard|pedal|stomp|effect|guitar|music|audio|shopify|bigcartel|mitienda/.test(resultHost);
           const genericSeoSourcePath =
             /distortion[-_ ]?pedal|pedal[-_ ]?for[-_ ]?rock|best[-_ ]?pedal|top[-_ ]?pedals|roundup|guide|\breview\b/.test(resultPath);
+          let genericEquipboardBrandPath = false;
+          try {
+            const parsedResult = new URL(result.purl || '');
+            genericEquipboardBrandPath =
+              parsedResult.hostname.toLowerCase().replace(/^www\./, '') === 'equipboard.com' &&
+              /^\/brands\//i.test(parsedResult.pathname);
+          } catch {}
           const strongSearchIdentity =
             builderIdentityMatch &&
             pedalIdentityMatch &&
             modelTokenInSourcePath &&
             likelyProductSourceHost &&
             !genericSeoSourcePath &&
+            !genericEquipboardBrandPath &&
             result.purl &&
             /^https?:/i.test(result.purl);
 
