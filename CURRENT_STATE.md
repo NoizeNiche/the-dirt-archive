@@ -1,5 +1,15 @@
 ## PRP1 queue checkpoint - September 24, 2026
 
+PRP1 has now published **CBC Pedals - The Drive**, **CBC Pedals - The Superfuzz**, **CBS-Arbiter - CBS-Arbiter Doubler**, **CBS-Arbiter - CBS-Arbiter Fuzz Face**, and **CBS-Arbiter - CBS-Arbiter Fuzz King** as complete atomic units. The strict local-photo gate remains clear.
+
+The live tracker currently parses to **3,765 total / 1,277 researched / 1,277 pictured / 1,277 PRP-complete / 0 researched-photo-pending / 2,488 photo-missing**.
+
+**CBS-Arbiter - CBS-Arbiter Fuzz King** is archived with its exact local image at `./assets/pedals/cbs-arbiter/cbs-arbiter-fuzz-king/primary.webp`, research record at `./research/pedals/CBS-Arbiter/CBS-Arbiter Fuzz King.md`, and exact-model Effects Database image provenance wired into the canonical catalog.
+
+The next exact-order incomplete target is **CBS-Arbiter - CBS-Arbiter Fuzz Phazer**. The exact Builder + Pedal identity gate and local-photo requirement remain unchanged.
+
+## PRP1 queue checkpoint - September 24, 2026
+
 PRP1 has now published **CBC Pedals - The Drive**, **CBC Pedals - The Superfuzz**, and **CBS-Arbiter - CBS-Arbiter Doubler** as complete atomic units. The strict local-photo gate remains clear.
 
 The live tracker currently parses to **3,765 total / 1,275 researched / 1,275 pictured / 1,275 PRP-complete / 0 researched-photo-pending / 2,490 photo-missing**.
