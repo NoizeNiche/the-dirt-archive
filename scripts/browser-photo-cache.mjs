@@ -2670,6 +2670,17 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               if (linkBytes && linkBytes.length >= 3000) {
                 return { bytes: linkBytes, src: candidate.src };
               }
+
+              // Some exact archive links point directly at the full-resolution
+              // pedal photograph. Navigate to that same verified image URL in a
+              // browser image document so a blocked HTTP request or tiny anchor
+              // thumbnail does not strand the exact source.
+              const documentShot = await screenshotImageDocumentCandidate({
+                url: candidate.src,
+                sourcePage,
+                sourceScore: candidate.score || 90
+              }, 140);
+              if (documentShot?.bytes) return documentShot;
             }
           }
         }
