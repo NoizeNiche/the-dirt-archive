@@ -5,7 +5,7 @@
 - Local images retained/reorganized: **1**
 - Download failures: **0**
 - Remaining tracker photo backlog: **2499**
-- Researched, photo pending: **0**
+- Researched, photo pending: **1**
 - External source images awaiting localization: **0**
 
 ## Storage layout
