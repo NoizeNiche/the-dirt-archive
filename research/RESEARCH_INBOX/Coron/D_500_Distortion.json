@@ -1,0 +1,30 @@
+{
+  "builder": "Coron",
+  "pedal": "D-500 Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/coron/last/d500",
+      "title": "Coron D-500 Distortion | Effects Database",
+      "h1": "Coron D-500 Distortion",
+      "excerpt": "Exact-model catalog page identifies the Coron last-series D-500 Distortion and lists its Level and Distortion controls.",
+      "host": "www.effectsdatabase.com"
+    },
+    {
+      "url": "https://reverb.com/item/41347841-coron-d-500-distortion-late-80-s-japan",
+      "title": "Coron D-500 Distortion Late 80s Japan",
+      "h1": "Coron D-500 Distortion",
+      "excerpt": "Exact-model vintage Reverb listing identifies a late-1980s Japan D-500 Distortion and preserves period product imagery.",
+      "host": "reverb.com"
+    },
+    {
+      "url": "https://effectsfreak.com/archive/effect/coron/d-500_distortion_series_two_model/index.html",
+      "title": "Coron D-500 Distortion Series Two Model | Effects Freak",
+      "h1": "D-500 (Distortion) Series Two Model",
+      "excerpt": "Exact-model archive page identifies the D-500 as a Coron Distortion Series Two model.",
+      "host": "effectsfreak.com"
+    }
+  ],
+  "next_action": "Write the canonical record using only the supported last-series identity, controls, period and source provenance; do not invent circuit topology."
+}

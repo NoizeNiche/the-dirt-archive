@@ -1,0 +1,16 @@
+{
+  "builder": "Coron",
+  "pedal": "Coron Over Drive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/coron/first/overdrive",
+      "title": "Coron Over Drive | Effects Database",
+      "h1": "Coron Over Drive",
+      "excerpt": "Exact-model page reproduces a 1981 Coron brochure describing Level and Emphasis controls, an F.E.T. circuit, and a 1.5V UM-3/AA battery supply, and identifies related OEM branding.",
+      "host": "www.effectsdatabase.com"
+    }
+  ],
+  "next_action": "Write the canonical research record using the brochure-backed FET and control/power details. Do not elevate secondary claims into exact transistor part numbers."
+}

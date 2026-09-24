@@ -1,0 +1,23 @@
+{
+  "builder": "CopperSound Pedals",
+  "pedal": "Mystique Germanium Fuzz & Boost",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.coppersoundpedals.com/shop/p/mystique-germanium-fuzz-boost",
+      "title": "Mystique Germanium Fuzz & Boost (Limited Edition) | CopperSound Pedals",
+      "h1": "Mystique Germanium Fuzz & Boost (Limited Edition)",
+      "excerpt": "Official product page identifies the exact pedal as a limited 10th-anniversary edition, 50 units, with a fully discrete germanium fuzz, independent germanium boost, switchable boost order, two-band EQ, and hand-measured germanium transistors.",
+      "host": "www.coppersoundpedals.com"
+    },
+    {
+      "url": "https://reverb.com/item/89844108-coppersound-pedals-limited-edition-mystique-germanium-fuzz-boost-pedal",
+      "title": "CopperSound Pedals Limited Edition Mystique Germanium Fuzz & Boost",
+      "h1": "CopperSound Pedals Limited Edition Mystique Germanium Fuzz & Boost",
+      "excerpt": "Exact-model Reverb listing corroborates the CopperSound Mystique identity and limited-edition model.",
+      "host": "reverb.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; preserve the official 50-unit limited-edition and germanium/boost details without inventing undocumented circuit component values."
+}

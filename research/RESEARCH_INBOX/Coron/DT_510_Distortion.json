@@ -1,0 +1,16 @@
+{
+  "builder": "Coron",
+  "pedal": "DT-510 Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/coron/last/dt510",
+      "title": "Coron DT-510 Distortion | Effects Database",
+      "h1": "Coron DT-510 Distortion",
+      "excerpt": "Exact-model page identifies the DT-510 as a Coron last-series distortion and lists Level and Distortion controls.",
+      "host": "www.effectsdatabase.com"
+    }
+  ],
+  "next_action": "Write a restrained canonical record from the exact catalog evidence. Leave transistor, diode, power and version claims unspecified unless independently documented."
+}

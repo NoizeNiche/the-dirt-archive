@@ -1,0 +1,16 @@
+{
+  "builder": "Coron",
+  "pedal": "O-300 Over Drive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/coron/last/o300",
+      "title": "Coron O-300 Over Drive | Effects Database",
+      "h1": "Coron O-300 Over Drive",
+      "excerpt": "Exact-model page identifies the O-300 as a Coron last-series overdrive and lists Level and Drive controls.",
+      "host": "www.effectsdatabase.com"
+    }
+  ],
+  "next_action": "Write a concise canonical record from the exact page. Keep related OEM listings separate and do not infer undocumented circuit/component details."
+}

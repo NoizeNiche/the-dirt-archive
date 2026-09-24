@@ -1,0 +1,16 @@
+{
+  "builder": "Coron",
+  "pedal": "HM-520 Heavy Metal Turbo",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/coron/last/hm520",
+      "title": "Coron HM-520 Heavy Metal Turbo | Effects Database",
+      "h1": "Coron HM-520 Heavy Metal Turbo",
+      "excerpt": "Exact-model page identifies the HM-520 as a Coron last-series distortion with Low Boost, High Boost, Level and Distortion controls.",
+      "host": "www.effectsdatabase.com"
+    }
+  ],
+  "next_action": "Write the canonical record from the exact page. Keep its relationship to HD-520 as a sourced related model, not an unsupported claim of total circuit identity."
+}

@@ -1,0 +1,16 @@
+{
+  "builder": "Coron",
+  "pedal": "Coron Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/coron/first/distortion",
+      "title": "Coron Distortion | Effects Database",
+      "h1": "Coron Distortion",
+      "excerpt": "Exact-model page identifies a Japanese-made Coron Distortion from the late 1970s/early 1980s, lists Volume and Distortion controls and 9V battery power, and documents the relationship to related Coron OEM-branded units.",
+      "host": "www.effectsdatabase.com"
+    }
+  ],
+  "next_action": "Write the canonical record from the exact source. Keep Distortion 10 and Distortion 15 as related variants rather than silently collapsing their distinctions into the generic Coron Distortion entry."
+}
