@@ -751,15 +751,15 @@ async function rawVerifiedExternalSourceImages(page, entry, sourcePageUsed) {
             ], { timeout: 7500, maxBuffer: 5 * 1024 * 1024 });
             htmlBody = String(proc.stdout || '');
             if (htmlBody) {
-              const title = (htmlBody.match(/<title[^>]*>([\\s\\S]*?)<\\/title>/i) || [,''])[1]
-                .replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
-              const h1 = (htmlBody.match(/<h1[^>]*>([\\s\\S]*?)<\\/h1>/i) || [,''])[1]
-                .replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+              const title = (htmlBody.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [,''])[1]
+                .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+              const h1 = (htmlBody.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || [,''])[1]
+                .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
               const body = htmlBody
-                .replace(/<script[\\s\\S]*?<\\/script>/gi, ' ')
-                .replace(/<style[\\s\\S]*?<\\/style>/gi, ' ')
+                .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+                .replace(/<style[\s\S]*?<\/style>/gi, ' ')
                 .replace(/<[^>]+>/g, ' ')
-                .replace(/\\s+/g, ' ')
+                .replace(/\s+/g, ' ')
                 .slice(0, 300000);
               identity = { title, h1, body };
             }
