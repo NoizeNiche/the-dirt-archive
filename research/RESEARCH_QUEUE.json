@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:02:08.316996+00:00",
+  "generated_at": "2026-09-24T10:03:12.909120+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1326,
+    "researched": 1337,
     "pictured": 1286,
     "complete": 1286,
-    "research_pending": 2439
+    "research_pending": 2428
   },
   "next_target": {
     "builder": "Century",
@@ -32,31 +32,7 @@
     },
     {
       "builder": "Chaos Custom Shop / Chaos FX",
-      "pedal": "C.Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chaos Custom Shop / Chaos FX",
-      "pedal": "Fuzz Machine",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chaos Custom Shop / Chaos FX",
       "pedal": "K.O. Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chaos Custom Shop / Chaos FX",
-      "pedal": "Lugola Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chaos Custom Shop / Chaos FX",
-      "pedal": "X.Drive Distortion",
       "catalog_type": "",
       "research_record": ""
     },
@@ -73,18 +49,6 @@
       "research_record": ""
     },
     {
-      "builder": "Chase Bliss",
-      "pedal": "Brothers AM",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Bliss Audio",
-      "pedal": "Bliss Factory",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Chase Bliss Audio",
       "pedal": "Brothers",
       "catalog_type": "",
@@ -92,37 +56,7 @@
     },
     {
       "builder": "Chase Bliss Audio",
-      "pedal": "Brothers - Analog Gainstage",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Bliss Audio",
       "pedal": "Brothers AM",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Bliss Audio",
-      "pedal": "Condor - Analog EQ / Pre / Filter",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Bliss Audio",
-      "pedal": "Condor Hifi - Analog EQ / Pre / Filter",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Bliss Audio",
-      "pedal": "Dirt Bird",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Bliss Audio",
-      "pedal": "Preamp MKII",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +99,72 @@
     {
       "builder": "Chase Tone",
       "pedal": "Purple Stardust Hi-Octave Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chase Tone",
+      "pedal": "Red Stardust Germanium Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chase Tone",
+      "pedal": "Silver Stardust BC183/2L Silicon Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chaser",
+      "pedal": "HM-3 Heavy Metal",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CheeseBlocks Effects",
+      "pedal": "Phoenix Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CheeseBlocks Effects",
+      "pedal": "THE Cheese Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chellee Guitars",
+      "pedal": "Odelya",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chellee Guitars",
+      "pedal": "Odie - Classic Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chellee Guitars",
+      "pedal": "Odie - Modified Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chellee Guitars",
+      "pedal": "Odie - Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chellee Guitars",
+      "pedal": "Ponyboy - Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chellee Guitars",
+      "pedal": "Sir Robin - Overdrive",
       "catalog_type": "",
       "research_record": ""
     }
