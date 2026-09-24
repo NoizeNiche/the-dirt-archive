@@ -22233,7 +22233,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/coron/hm-520-heavy-metal-turbo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coron/HM-520 Heavy Metal Turbo.md"
     },
@@ -22358,7 +22358,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmic-terror/centerror/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmic Terror/Centerror.md"
     },
@@ -22378,7 +22378,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmic-terror/cult-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmic Terror/Cult OD.md"
     },
