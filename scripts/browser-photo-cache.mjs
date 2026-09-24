@@ -1276,10 +1276,19 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
   };
   const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
   const networkImageUrls = [];
+  const networkImageBodies = new Map();
+  const MAX_NETWORK_IMAGE_BODIES = 40;
   const onResponse = response => {
     try {
       const type = (response.headers()['content-type'] || '').toLowerCase();
-      if (type.startsWith('image/')) networkImageUrls.push(response.url());
+      if (!type.startsWith('image/')) return;
+      const url = response.url().split('#')[0];
+      networkImageUrls.push(url);
+      if (networkImageBodies.size >= MAX_NETWORK_IMAGE_BODIES || networkImageBodies.has(url)) return;
+      networkImageBodies.set(url, {
+        type,
+        promise: response.body().catch(() => null)
+      });
     } catch {}
   };
   page.on('response', onResponse);
@@ -1467,6 +1476,19 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
 
         diagnostic.sourceImageCandidates += candidates.filter(x => x.sourcePage === pageUrl).length;
 
+        // Fast path: many protected CDNs successfully deliver the exact image
+        // to Chromium even though a separate HTTP request gets 401/403/500.
+        // Save the browser's original response bytes before attempting any
+        // screenshot-based fallback.
+        const browserDownloaded = await networkImageCandidate(
+          candidates.filter(candidate => candidate.sourcePage === pageUrl)
+        );
+        if (browserDownloaded) {
+          selectedResult = browserDownloaded;
+          sourcePageUsed = pageUrl;
+          break;
+        }
+
         if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname) && deepReview) {
           const linked = await linkedExactSourceCandidates(page, entry, pageUrl, true);
           diagnostic.linkedExternalCandidates += linked.length;
@@ -1573,6 +1595,22 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       return true;
     }
 
+    async function networkImageCandidate(list) {
+      const ordered = [...list]
+        .filter(candidate => candidate?.url)
+        .sort((a, b) => (Number(b.sourceScore) || 0) - (Number(a.sourceScore) || 0));
+      for (const candidate of ordered.slice(0, 32)) {
+        const keyUrl = String(candidate.url || '').split('#')[0];
+        const captured = networkImageBodies.get(keyUrl);
+        if (!captured) continue;
+        const bytes = await captured.promise;
+        if (bytes && imageBytesLookComplete(bytes, captured.type)) {
+          return { candidate, bytes };
+        }
+      }
+      return null;
+    }
+
     async function tryImages(list) {
       for (const candidate of list.slice(0, CANDIDATE_LIMIT)) {
         try {
@@ -1646,6 +1684,18 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
             height: Number(img.naturalHeight) || 0
           };
         }, candidate.url).catch(() => null);
+
+        // Prefer the raw bytes Chromium just received for the exact image.
+        // This avoids turning an already-downloaded product photo into a screenshot,
+        // and preserves the source file rather than a browser-rendered derivative.
+        const capturedDirect = networkImageBodies.get(String(candidate.url || '').split('#')[0]);
+        if (capturedDirect) {
+          const directBytes = await capturedDirect.promise;
+          if (directBytes && imageBytesLookComplete(directBytes, capturedDirect.type)) {
+            await page.evaluate(() => document.querySelector('[data-dirt-archive-direct-capture="1"]')?.remove()).catch(() => {});
+            return { bytes: directBytes, src: candidate.url };
+          }
+        }
 
         if ((capture?.width || 0) >= 140 && (capture?.height || 0) >= 140) {
           const node = page.locator('[data-dirt-archive-direct-capture="1"]').first();
