@@ -3,29 +3,39 @@
 ## PRP identity
 - **Archive parent:** Dual Knightfall
 - **Builder:** COG Effects
-- **Catalog type:** Overdrive
-- **Identity:** COG Effects Dual Knightfall.
+- **Catalog type:** Distortion
+- **Identity:** COG Effects Dual Knightfall Distortion, two independent Knightfall circuits in one enclosure.
 
 ## What this pedal is
-The Dirt Archive's verified catalog census records this exact builder/model identity and classifies it as **Overdrive**. The current retained source material does not preserve enough exact-model documentation to safely assign circuit lineage, complete controls, component values, or revision history.
+COG Effects describes Dual Knightfall as two Knightfall distortion circuits sharing one pedal enclosure. Each side can be used independently or stacked, allowing one setting for clean-ish/low-gain work and another for higher gain or boost duty. [1]
 
 ## Colorways
-No complete factory colorway sequence was established.
+COG used engraved aluminium enclosures and custom finishes. No complete Dual Knightfall finish sequence was established. [1][2]
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+Documented features:
+- Two independent Knightfall channels.
+- Gain/Bass/Diode Selection per circuit.
+- Internal Bass switch.
+- Three-position diode-selection switch: MOSFET standard, Silicon, LED.
+- Custom diode selection available.
+- Relay true bypass for both circuits.
+- North-mounted jacks.
+- 9V DC.
+- Die-cast aluminium enclosure. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+COG's discontinued archive states that Dual Knightfall was later **replaced by Knightfall 66**. [2]
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+No exact transistor part number was established.
 
 ## Diode
-Unknown from the checked exact-model documentation.
+The stock diode-selection options are documented as **MOSFET, Silicon, and LED** clipping. [1]
 
 ## Sound
-The model is documented as overdrive. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+The two channels can be run separately, configured as complementary gain stages, or stacked. The internal Bass switch broadens the low-frequency response options. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. COG Effects — Dual Knightfall: https://www.cogeffects.co.uk/dual-knightfall.php
+2. COG Effects — Discontinued pedals: https://www.cogeffects.co.uk/discontinued-pedals.php

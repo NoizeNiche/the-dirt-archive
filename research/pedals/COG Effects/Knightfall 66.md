@@ -4,28 +4,39 @@
 - **Archive parent:** Knightfall 66
 - **Builder:** COG Effects
 - **Catalog type:** Overdrive
-- **Identity:** COG Effects Knightfall 66.
+- **Identity:** COG Effects Knightfall 66, a dual-preset bass overdrive with filtered clean blend.
 
 ## What this pedal is
-The Dirt Archive's verified catalog census records this exact builder/model identity and classifies it as **Overdrive**. The current retained source material does not preserve enough exact-model documentation to safely assign circuit lineage, complete controls, component values, or revision history.
+Effects Database describes Knightfall 66 as a bass overdrive ranging from fat cleans and mid-heavy growl through high-gain overdrive. It is a later development of the Knightfall family with two footswitchable gain settings. [1]
 
 ## Colorways
-No complete factory colorway sequence was established.
+COG documents engraved aluminium enclosures. No complete Knightfall 66 finish sequence was established. [1][2]
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+- Gain A and Gain B.
+- Level A and Level B.
+- A/B footswitch.
+- Voice control for pre-gain low end.
+- Tone control for post-clipping high end.
+- Filtered clean blend.
+- True bypass.
+- 9V–18V operation.
+- North-mounted jacks.
+- Die-cast aluminium enclosure. [1][2]
 
 ## Version changes
-No reliable numbered revision history was established.
+Knightfall 66 superseded Dual Knightfall in the COG range. [3]
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+No exact transistor part number was established.
 
 ## Diode
-Unknown from the checked exact-model documentation.
+No exact diode specification was established.
 
 ## Sound
-The model is documented as overdrive. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+The clean path is filtered before blending so the clean and driven signals integrate as one tone. The Voice and Tone controls provide low-end and high-end shaping, while the A/B switch recalls two gain/level setups. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. Effects Database — Knightfall 66: https://www.effectsdatabase.com/model/cog/knightfall/66
+2. Guitar Interactive Magazine — Knightfall 66 / Mini 66: https://guitarinteractivemagazine.com/news/knightfall-66-and-mini-66-overdrives-released-by-cog-effects/
+3. COG Effects — Discontinued pedals: https://www.cogeffects.co.uk/discontinued-pedals.php

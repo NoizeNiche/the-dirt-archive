@@ -3,29 +3,37 @@
 ## PRP identity
 - **Archive parent:** Knightfall
 - **Builder:** COG Effects
-- **Catalog type:** Overdrive
-- **Identity:** COG Effects Knightfall.
+- **Catalog type:** Distortion
+- **Identity:** COG Effects Knightfall Distortion, a full/fat guitar and bass distortion with low-pass tone control and Bass Shift.
 
 ## What this pedal is
-The Dirt Archive's verified catalog census records this exact builder/model identity and classifies it as **Overdrive**. The current retained source material does not preserve enough exact-model documentation to safely assign circuit lineage, complete controls, component values, or revision history.
+COG Effects describes Knightfall as a full, fat distortion with tight low end and clear chords, spanning warm tones through high-gain lead sounds. It responds to guitar-volume cleanup and can also be used on bass. [1]
 
 ## Colorways
-No complete factory colorway sequence was established.
+No complete factory finish sequence was established.
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+- In.
+- Tone, implemented as an adjustable low-pass filter.
+- Out.
+- Bass Shift switch.
+- True bypass.
+- 9V DC.
+- Die-cast aluminium enclosure.
+- Bass-version voicing with extended low end. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+COG's discontinued archive states that Knightfall was later **replaced by Mini 66**, while Dual Knightfall was replaced by Knightfall 66. [2]
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+No exact transistor part number was established.
 
 ## Diode
-Unknown from the checked exact-model documentation.
+No exact diode specification was established.
 
 ## Sound
-The model is documented as overdrive. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+The Low-Pass Tone control removes high end while retaining body, while In and Out interact with the guitar volume for a wide drive range. Bass Shift changes low-end response. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. COG Effects — Knightfall Distortion: https://www.cogeffects.co.uk/knightfall.php
+2. COG Effects — Discontinued pedals: https://www.cogeffects.co.uk/discontinued-pedals.php

@@ -4,28 +4,35 @@
 - **Archive parent:** Darklighter
 - **Builder:** COG Effects
 - **Catalog type:** Overdrive
-- **Identity:** COG Effects Darklighter.
+- **Identity:** COG Effects Darklighter Overdrive/Boost, a classic-voiced overdrive and boost with a Bass Shift option.
 
 ## What this pedal is
-The Dirt Archive's verified catalog census records this exact builder/model identity and classifies it as **Overdrive**. The current retained source material does not preserve enough exact-model documentation to safely assign circuit lineage, complete controls, component values, or revision history.
+COG Effects describes Darklighter as a classic-voiced overdrive covering clean boost through rich overdrive, with boosted mids and post-distortion treble attenuation. A bass version extends the low end and changes the Bass Shift voicing. [1]
 
 ## Colorways
-No complete factory colorway sequence was established.
+COG commonly uses engraved artwork on bare or custom-finished aluminium enclosures; no complete Darklighter finish chronology was established. [2]
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+- In, Tone, Out.
+- Bass Shift switch.
+- True bypass.
+- 9V DC.
+- Die-cast aluminium enclosure.
+- Bass version with extended low end. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+COG's discontinued-pedal archive states that Darklighter was discontinued with an **MK2 version planned**. The archive does not assume the unpublished MK2 was a production revision of the documented unit. [3]
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+No exact transistor part number was established.
 
 ## Diode
-Unknown from the checked exact-model documentation.
+No exact diode specification was established.
 
 ## Sound
-The model is documented as overdrive. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+Darklighter is designed for clean boost, front-end overdrive, stacking, or always-on amplifier line-driving. The Bass Shift changes the low-frequency response for deeper guitar or bass tones. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. COG Effects — Darklighter: https://www.cogeffects.co.uk/darklighter.php
+2. Effects Database — COG Effects: https://www.effectsdatabase.com/model/cog
+3. COG Effects — Discontinued pedals: https://www.cogeffects.co.uk/discontinued-pedals.php

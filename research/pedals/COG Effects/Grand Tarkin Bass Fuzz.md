@@ -4,28 +4,37 @@
 - **Archive parent:** Grand Tarkin Bass Fuzz
 - **Builder:** COG Effects
 - **Catalog type:** Fuzz
-- **Identity:** COG Effects Grand Tarkin Bass Fuzz.
+- **Identity:** COG Effects Grand Tarkin, a Green Russian-inspired bass fuzz with filtered clean blend and adjustable mids.
 
 ## What this pedal is
-The Dirt Archive's verified catalog census records this exact builder/model identity and classifies it as **Fuzz**. The current retained source material does not preserve enough exact-model documentation to safely assign circuit lineage, complete controls, component values, or revision history.
+COG Effects describes Grand Tarkin as a bigger, bass-focused development of its Tarkin Green Russian-inspired fuzz. It adds an adjustable Mids control and a filtered clean blend while retaining Sustain, Level, and Tone. [1]
 
 ## Colorways
-No complete factory colorway sequence was established.
+COG commonly uses engraved aluminium enclosures and offers custom finishes. No complete Grand Tarkin finish chronology was established. [1][2]
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+- Sustain.
+- Tone.
+- Mids.
+- Level.
+- Filtered clean blend.
+- Relay true bypass.
+- North-mounted jacks.
+- 9V DC.
+- Die-cast aluminium enclosure. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+The original Grand Tarkin was later replaced by an updated **Grand Tarkin Mk2**. [2]
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+The circuit lineage is a Green Russian-style four-transistor fuzz design, but no exact Grand Tarkin transistor part numbers were established in the checked manufacturer documentation. [1]
 
 ## Diode
-Unknown from the checked exact-model documentation.
+No exact diode part number was established.
 
 ## Sound
-The model is documented as fuzz. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+The filtered clean blend is designed to retain low-end punch and integrate with the fuzz rather than sounding like a separate full-range clean signal. The adjustable mids help shape the classic Muff-style scoop into a more cutting voice. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. Effects Database — Grand Tarkin: https://www.effectsdatabase.com/model/cog/tarkin/grand
+2. COG Effects — Discontinued pedals: https://www.cogeffects.co.uk/discontinued-pedals.php
