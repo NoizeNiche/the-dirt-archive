@@ -7,6 +7,71 @@ import { chromium } from 'playwright';
 
 const execFileAsync = promisify(execFile);
 
+async function writeCatSourceProbe(entry, sourcePages = []) {
+  if (entry.company !== 'CAT Sound' || entry.pedal !== 'DriveCenter Bass') return;
+  const pages = [...new Set([
+    'https://www.effectsdatabase.com/model/catsound/drivecenter/bass',
+    'https://www.catsound.cn/?p=6',
+    ...sourcePages
+  ].filter(Boolean))].slice(0, 6);
+  const report = { builder: entry.company, pedal: entry.pedal, pages: [] };
+  try { fs.mkdirSync(path.join(ROOT, 'artifact'), { recursive: true }); } catch {}
+  for (const pageUrl of pages) {
+    const row = { pageUrl, ok: false, httpCode: null, contentType: '', finalUrl: '', imageUrls: [], marketplaceLinks: [], title: '', h1: '' };
+    let tempDir = null;
+    try {
+      tempDir = fs.mkdtempSync('/tmp/dirt-archive-cat-probe-');
+      const htmlPath = path.join(tempDir, 'page.html');
+      const args = [
+        '-L', '--silent', '--show-error', '--compressed',
+        '--connect-timeout', '4', '--max-time', '7',
+        '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
+        '-H', 'Accept-Language: en-US,en;q=0.9',
+        '-o', htmlPath,
+        '-w', '%{http_code}\\n%{content_type}\\n%{url_effective}',
+        String(pageUrl)
+      ];
+      const proc = await execFileAsync('curl', args, { timeout: 8500, maxBuffer: 1024 * 1024 });
+      const meta = String(proc.stdout || '').trim().split(/\\n/);
+      row.httpCode = Number(meta[0]) || null;
+      row.contentType = meta[1] || '';
+      row.finalUrl = meta.slice(2).join('\\n');
+      const html = fs.existsSync(htmlPath) ? fs.readFileSync(htmlPath, 'utf8') : '';
+      row.ok = row.httpCode >= 200 && row.httpCode < 400 && html.length > 0;
+      const title = (html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [,''])[1]
+        .replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+      const h1 = (html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || [,''])[1]
+        .replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+      row.title = title;
+      row.h1 = h1;
+      row.imageUrls = rawVerifiedPageImageUrls(html, pageUrl).slice(0, 40);
+      const links = new Set();
+      for (const match of html.matchAll(/<a\\b[^>]+href=["']([^"']+)["'][^>]*>/gi)) {
+        try {
+          const u = new URL(match[1], pageUrl);
+          if ((/ebay\\.com$/i.test(u.hostname) && /\\/itm\\//i.test(u.pathname)) ||
+              (/reverb\\.com$/i.test(u.hostname) && /\\/item\\//i.test(u.pathname))) {
+            links.add(u.href.split('#')[0]);
+          }
+        } catch {}
+      }
+      row.marketplaceLinks = [...links].slice(0, 20);
+    } catch (err) {
+      row.error = String(err?.message || err);
+    } finally {
+      if (tempDir) { try { fs.rmSync(tempDir, { recursive: true, force: true }); } catch {} }
+    }
+    report.pages.push(row);
+  }
+  try {
+    fs.writeFileSync(
+      path.join(ROOT, 'artifact', 'cat-source-probe.json'),
+      JSON.stringify(report, null, 2) + '\\n',
+      'utf8'
+    );
+  } catch {}
+}
+
 const ROOT = process.cwd();
 const INDEX = path.join(ROOT, 'research/PEDAL_INDEX.json');
 const MANIFEST = path.join(ROOT, 'research/pedals/PEDAL_IMAGES.json');
@@ -1734,6 +1799,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
   try {
     const candidates = [];
     const pageUrl = preferredSourcePage(entry);
+    await writeCatSourceProbe(entry, preferredSourcePages(entry));
     const deepSearchTokens = identityTokens(entry.pedal);
     const genericPedalOnly = deepSearchTokens.length === 0;
     // Keep exact source pages and image search in the same recovery pass. A
