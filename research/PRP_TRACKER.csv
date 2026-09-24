@@ -1365,13 +1365,13 @@ Chemistry Design Werks,Gigawatt - Overdrive & Delay,Overdrive,NEEDED,NEEDED,NEED
 Cherry Music,Mighty Sound M1 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
 Cherry Music,Mighty Sound M2 Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
 Cherry Music,Mighty Sound M3 Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Chesapeake Effects,Flagship Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Chicago Iron,Octavian,Fuzz,NEEDED,NEEDED,NEEDED,
-Chicago Stompworks,Black Fudge,Fuzz,NEEDED,NEEDED,NEEDED,
+Chesapeake Effects,Flagship Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Chesapeake Effects/Flagship Overdrive.md
+Chicago Iron,Octavian,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Chicago Iron/Octavian.md
+Chicago Stompworks,Black Fudge,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Chicago Stompworks/Black Fudge.md
 Chicago Stompworks,Fat Bald Guy,Fuzz,NEEDED,NEEDED,NEEDED,
-Chicago Stompworks,Gray Speck,Overdrive,NEEDED,NEEDED,NEEDED,
+Chicago Stompworks,Gray Speck,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Chicago Stompworks/Gray Speck.md
 Chicago Stompworks,Greeny,Fuzz,NEEDED,NEEDED,NEEDED,
-Chicago Stompworks,Legitimate Beef,Overdrive,NEEDED,NEEDED,NEEDED,
+Chicago Stompworks,Legitimate Beef,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Chicago Stompworks/Legitimate Beef.md
 ChiralityAudio,Black Swan,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
 ChiralityAudio,Splinter,Overdrive,NEEDED,NEEDED,NEEDED,
 Chiu Luen,CL-1 Distortion,Distortion,NEEDED,NEEDED,NEEDED,

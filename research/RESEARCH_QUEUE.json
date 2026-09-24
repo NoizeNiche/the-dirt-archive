@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:05:45.322280+00:00",
+  "generated_at": "2026-09-24T10:06:18.755736+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1351,
+    "researched": 1356,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2414
+    "research_pending": 2409
   },
   "next_target": {
     "builder": "Century",
@@ -109,24 +109,6 @@
       "research_record": ""
     },
     {
-      "builder": "Chesapeake Effects",
-      "pedal": "Flagship Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chicago Iron",
-      "pedal": "Octavian",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chicago Stompworks",
-      "pedal": "Black Fudge",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Chicago Stompworks",
       "pedal": "Fat Bald Guy",
       "catalog_type": "",
@@ -134,19 +116,7 @@
     },
     {
       "builder": "Chicago Stompworks",
-      "pedal": "Gray Speck",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chicago Stompworks",
       "pedal": "Greeny",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chicago Stompworks",
-      "pedal": "Legitimate Beef",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +135,36 @@
     {
       "builder": "Chiu Luen",
       "pedal": "CL-1 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chiu Luen",
+      "pedal": "CL-3 Clean/Distortion/Reverb/Chorus",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chiu Luen",
+      "pedal": "CL-4 Distortion/Reverb",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chiu Luen",
+      "pedal": "CL-5 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chocolate Electronics",
+      "pedal": "Chocolate Crunch",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chocolate Electronics",
+      "pedal": "Chocolate Drive",
       "catalog_type": "",
       "research_record": ""
     }

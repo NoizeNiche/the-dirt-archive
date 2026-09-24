@@ -12445,21 +12445,21 @@
     "pedal": "Flagship Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chesapeake Effects/Flagship Overdrive.md"
   },
   {
     "builder": "Chicago Iron",
     "pedal": "Octavian",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chicago Iron/Octavian.md"
   },
   {
     "builder": "Chicago Stompworks",
     "pedal": "Black Fudge",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chicago Stompworks/Black Fudge.md"
   },
   {
     "builder": "Chicago Stompworks",
@@ -12473,7 +12473,7 @@
     "pedal": "Gray Speck",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chicago Stompworks/Gray Speck.md"
   },
   {
     "builder": "Chicago Stompworks",
@@ -12487,7 +12487,7 @@
     "pedal": "Legitimate Beef",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Chicago Stompworks/Legitimate Beef.md"
   },
   {
     "builder": "ChiralityAudio",
