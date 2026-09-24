@@ -1600,8 +1600,8 @@ Colorsound / Sola Sound,G.B. Fuzz Unit,Fuzz,DONE,NEEDED,NEEDED,./research/pedals
 Colorsound / Sola Sound,Overdriver,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Colorsound / Sola Sound/Overdriver.md
 Colorsound / Sola Sound,Pro Traffic Fuzz Unit,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Colorsound / Sola Sound/Pro Traffic Fuzz Unit.md
 Colorsound / Sola Sound,Sola Sound Bum Fuzz Unit,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Colorsound / Sola Sound/Sola Sound Bum Fuzz Unit.md
-Colorsound / Sola Sound,Sola Sound Tone Bender,Fuzz,NEEDED,NEEDED,NEEDED,
-Colorsound / Sola Sound,Tone Bender,Fuzz,NEEDED,NEEDED,NEEDED,
+Colorsound / Sola Sound,Sola Sound Tone Bender,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Colorsound / Sola Sound/Sola Sound Tone Bender.md
+Colorsound / Sola Sound,Tone Bender,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Colorsound / Sola Sound/Tone Bender.md
 Colorsound / Sola Sound,Tone Bender MKII,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Colorsound / Sola Sound/Tone Bender MKII.md
 Colorsound / Sola Sound,Tone Bender MKIII,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Colorsound / Sola Sound/Tone Bender MKIII.md
 ColorTone Fx / Pedal Tank,Gainer,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/ColorTone Fx / Pedal Tank/Gainer.md
@@ -1611,29 +1611,29 @@ Columbus,DST-5 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Columb
 Columbus,MTL-5 Ultra Metal,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Columbus/MTL-5 Ultra Metal.md
 Columbus,OVD-5 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Columbus/OVD-5 Overdrive.md
 Columbus,TDR-5 Tube Driver,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Columbus/TDR-5 Tube Driver.md
-Comet Effects,Hyperdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Commune,Senturion Crazy Booster,Fuzz,NEEDED,NEEDED,NEEDED,
-Commune,Senturion Modern Factor,Overdrive,NEEDED,NEEDED,NEEDED,
-Commune,Senturion Preamp 500,Overdrive,NEEDED,NEEDED,NEEDED,
-Commune/ECA (Empire Custom Amplification),Screem,Overdrive,NEEDED,NEEDED,NEEDED,
-Commune/ECA (Empire Custom Amplification),Screem Mk-II,Overdrive,NEEDED,NEEDED,NEEDED,
-Comodoro Pedales,Botfly Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Comodoro Pedales,Percolator Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Comodoro Pedales,Rat Bass,Distortion,NEEDED,NEEDED,NEEDED,
-Companion,FY-2 Fuzz Box,Fuzz,NEEDED,NEEDED,NEEDED,
-Companion,FY-6 Super Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Compulsive Audio,Dimed Boogie,Distortion,NEEDED,NEEDED,NEEDED,
-Compulsive Audio,Face-Off Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Compulsive Audio,Hair Band Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-Compulsive Audio,Jimi - Octave Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Compulsive Audio,Texas Holdem ZZ,Overdrive,NEEDED,NEEDED,NEEDED,
-Compulsive Audio,Thor's Hammer,Distortion,NEEDED,NEEDED,NEEDED,
-Compulsive Audio,Tone Oracle,Overdrive,NEEDED,NEEDED,NEEDED,
-Compulsive Audio,Valve Howler Jr.,Overdrive,NEEDED,NEEDED,NEEDED,
-Concrete Sound Lab,SLAB,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Conrad,Conrad Buzz Box & Volume Expander,Fuzz,NEEDED,NEEDED,NEEDED,
+Comet Effects,Hyperdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Comet Effects/Hyperdrive.md
+Commune,Senturion Crazy Booster,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Commune/Senturion Crazy Booster.md
+Commune,Senturion Modern Factor,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Commune/Senturion Modern Factor.md
+Commune,Senturion Preamp 500,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Commune/Senturion Preamp 500.md
+Commune/ECA (Empire Custom Amplification),Screem,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Commune/ECA Screem.md
+Commune/ECA (Empire Custom Amplification),Screem Mk-II,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Commune/ECA Screem Mk-II.md
+Comodoro Pedales,Botfly Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Comodoro Pedales/Botfly Fuzz.md
+Comodoro Pedales,Percolator Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Comodoro Pedales/Percolator Fuzz.md
+Comodoro Pedales,Rat Bass,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Comodoro Pedales/Rat Bass.md
+Companion,FY-2 Fuzz Box,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Companion/FY-2 Fuzz Box.md
+Companion,FY-6 Super Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Companion/FY-6 Super Fuzz.md
+Compulsive Audio,Dimed Boogie,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Compulsive Audio/Dimed Boogie.md
+Compulsive Audio,Face-Off Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Compulsive Audio/Face-Off Fuzz.md
+Compulsive Audio,Hair Band Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Compulsive Audio/Hair Band Distortion.md
+Compulsive Audio,Jimi - Octave Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md
+Compulsive Audio,Texas Holdem ZZ,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Compulsive Audio/Texas Holdem ZZ.md
+Compulsive Audio,Thor's Hammer,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Compulsive Audio/Thor's Hammer.md
+Compulsive Audio,Tone Oracle,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Compulsive Audio/Tone Oracle.md
+Compulsive Audio,Valve Howler Jr.,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Compulsive Audio/Valve Howler Jr..md
+Concrete Sound Lab,SLAB,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Concrete Sound Lab/SLAB.md
+Conrad,Conrad Buzz Box & Volume Expander,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Conrad/Conrad Buzz Box & Volume Expander.md
 Conrad,Conrad Fuzzy Fury,Fuzz,NEEDED,NEEDED,NEEDED,
-Conrad,Conrad Sky Hawk - Fuzz and Treble Booster,Fuzz,NEEDED,NEEDED,NEEDED,
+Conrad,Conrad Sky Hawk - Fuzz and Treble Booster,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Conrad/Conrad Sky Hawk - Fuzz and Treble Booster.md
 Cool Bear Effects,Grizzly Bear,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
 Coolmusic,C-DI01 Insane Distortion,Distortion,NEEDED,NEEDED,NEEDED,
 Coolmusic,C-DI02 Classic Distortion,Distortion,NEEDED,NEEDED,NEEDED,

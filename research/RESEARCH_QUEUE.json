@@ -1,161 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T12:22:52.311426+00:00",
+  "generated_at": "2026-09-24T12:29:21.076990+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1610,
+    "researched": 1634,
     "pictured": 1545,
     "complete": 1545,
-    "research_pending": 2155
+    "research_pending": 2131
   },
   "next_target": {
-    "builder": "Colorsound / Sola Sound",
-    "pedal": "Sola Sound Tone Bender",
+    "builder": "Conrad",
+    "pedal": "Conrad Fuzzy Fury",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "Sola Sound Tone Bender",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "Tone Bender",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Comet Effects",
-      "pedal": "Hyperdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Commune",
-      "pedal": "Senturion Crazy Booster",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Commune",
-      "pedal": "Senturion Modern Factor",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Commune",
-      "pedal": "Senturion Preamp 500",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Commune/ECA (Empire Custom Amplification)",
-      "pedal": "Screem",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Commune/ECA (Empire Custom Amplification)",
-      "pedal": "Screem Mk-II",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Comodoro Pedales",
-      "pedal": "Botfly Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Comodoro Pedales",
-      "pedal": "Percolator Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Comodoro Pedales",
-      "pedal": "Rat Bass",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Companion",
-      "pedal": "FY-2 Fuzz Box",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Companion",
-      "pedal": "FY-6 Super Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Compulsive Audio",
-      "pedal": "Dimed Boogie",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Compulsive Audio",
-      "pedal": "Face-Off Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Compulsive Audio",
-      "pedal": "Hair Band Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Compulsive Audio",
-      "pedal": "Jimi - Octave Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Compulsive Audio",
-      "pedal": "Texas Holdem ZZ",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Compulsive Audio",
-      "pedal": "Thor's Hammer",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Compulsive Audio",
-      "pedal": "Tone Oracle",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Compulsive Audio",
-      "pedal": "Valve Howler Jr.",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Concrete Sound Lab",
-      "pedal": "SLAB",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Conrad",
-      "pedal": "Conrad Buzz Box & Volume Expander",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Conrad",
       "pedal": "Conrad Fuzzy Fury",
@@ -163,8 +25,146 @@
       "research_record": ""
     },
     {
-      "builder": "Conrad",
-      "pedal": "Conrad Sky Hawk - Fuzz and Treble Booster",
+      "builder": "Cool Bear Effects",
+      "pedal": "Grizzly Bear",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coolmusic",
+      "pedal": "C-DI01 Insane Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coolmusic",
+      "pedal": "C-DI02 Classic Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coolmusic",
+      "pedal": "C-FC1 Fuzzster",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coolmusic",
+      "pedal": "C-OV01 Crunchy Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coolmusic",
+      "pedal": "HG-7 High Gain",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coolmusic",
+      "pedal": "MT-6 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coolmusic",
+      "pedal": "Multiple Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coolpedals",
+      "pedal": "Dirty Devil",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coolpedals",
+      "pedal": "Steam Machine",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coolpedals",
+      "pedal": "Strutter",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coolsound",
+      "pedal": "A117 Rough OVD",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coolsound",
+      "pedal": "A127 Dirty Bass",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coopersonic",
+      "pedal": "Deluxe Dual Valve Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coopersonic",
+      "pedal": "Deluxe Valve Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coopersonic",
+      "pedal": "Dirtbox",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coopersonic",
+      "pedal": "Dual-Valve Distortion (Deluxe)",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coopersonic",
+      "pedal": "Dual-Valve Distortion (Regular)",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coopersonic",
+      "pedal": "Mini Tube Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coopersonic",
+      "pedal": "Pig Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coopersonic",
+      "pedal": "The Germaniac - Vintage Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coopersonic",
+      "pedal": "Twin Tube Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coopersonic",
+      "pedal": "Valveslapper",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Copilot FX",
+      "pedal": "Mantis",
       "catalog_type": "",
       "research_record": ""
     }
