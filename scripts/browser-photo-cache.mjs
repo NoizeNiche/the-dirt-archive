@@ -7,88 +7,6 @@ import { chromium } from 'playwright';
 
 const execFileAsync = promisify(execFile);
 
-async function writeCatSourceProbe(entry) {
-  if (entry.company !== 'CAT Sound' || entry.pedal !== 'DriveCenter Bass') return;
-  const pages = [
-    'https://www.effectsdatabase.com/model/catsound/drivecenter/bass',
-    'https://www.catsound.cn/?p=6'
-  ];
-  const report = { builder: entry.company, pedal: entry.pedal, pages: [] };
-  try {
-    fs.mkdirSync(path.join(ROOT, 'artifact'), { recursive: true });
-    fs.mkdirSync(path.join(ROOT, 'research'), { recursive: true });
-  } catch {}
-
-  const probe = async (pageUrl) => {
-    const row = {
-      pageUrl,
-      ok: false,
-      httpCode: null,
-      contentType: '',
-      finalUrl: '',
-      imageUrls: [],
-      marketplaceLinks: [],
-      title: '',
-      h1: ''
-    };
-    let tempDir = null;
-    try {
-      tempDir = fs.mkdtempSync('/tmp/dirt-archive-cat-probe-');
-      const htmlPath = path.join(tempDir, 'page.html');
-      const proc = await execFileAsync('curl', [
-        '-L', '--silent', '--show-error', '--compressed',
-        '--connect-timeout', '3', '--max-time', '4',
-        '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
-        '-H', 'Accept-Language: en-US,en;q=0.9',
-        '-o', htmlPath,
-        '-w', '%{http_code}\\n%{content_type}\\n%{url_effective}',
-        pageUrl
-      ], { timeout: 5000, maxBuffer: 512 * 1024 });
-      const meta = String(proc.stdout || '').trim().split(/\\n/);
-      row.httpCode = Number(meta[0]) || null;
-      row.contentType = meta[1] || '';
-      row.finalUrl = meta.slice(2).join('\\n');
-      const html = fs.existsSync(htmlPath) ? fs.readFileSync(htmlPath, 'utf8') : '';
-      row.ok = row.httpCode >= 200 && row.httpCode < 400 && html.length > 0;
-      row.title = (html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [,''])[1]
-        .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
-      row.h1 = (html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || [,''])[1]
-        .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
-      row.imageUrls = rawVerifiedPageImageUrls(html, pageUrl).slice(0, 40);
-      const links = new Set();
-      for (const match of html.matchAll(/<a\b[^>]+href=["']([^"']+)["'][^>]*>/gi)) {
-        try {
-          const u = new URL(match[1], pageUrl);
-          if ((/ebay\.com$/i.test(u.hostname) && /\/itm\//i.test(u.pathname)) ||
-              (/reverb\.com$/i.test(u.hostname) && /\/item\//i.test(u.pathname))) {
-            links.add(u.href.split('#')[0]);
-          }
-        } catch {}
-      }
-      row.marketplaceLinks = [...links].slice(0, 20);
-    } catch (err) {
-      row.error = String(err?.message || err);
-    } finally {
-      if (tempDir) {
-        try { fs.rmSync(tempDir, { recursive: true, force: true }); } catch {}
-      }
-    }
-    return row;
-  };
-
-  try {
-    report.pages = await Promise.all(pages.map(probe));
-  } catch {}
-
-  const payload = JSON.stringify(report, null, 2) + '\n';
-  try {
-    fs.writeFileSync(path.join(ROOT, 'artifact', 'cat-source-probe.json'), payload, 'utf8');
-    fs.writeFileSync(path.join(ROOT, 'research', 'CAT_SOURCE_PROBE.json'), payload, 'utf8');
-  } catch (err) {
-    console.log('CAT Sound probe write failed: ' + String(err?.message || err));
-  }
-}
-
 const ROOT = process.cwd();
 const INDEX = path.join(ROOT, 'research/PEDAL_INDEX.json');
 const MANIFEST = path.join(ROOT, 'research/pedals/PEDAL_IMAGES.json');
@@ -1266,13 +1184,7 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
     } catch {}
   }
 
-  const finalResults = [...merged.values()];
-  if (entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass' && finalResults.length) {
-    console.log('CAT Sound image-search raw results: ' + finalResults.slice(0, 30).map(x =>
-      JSON.stringify({title:x.title||'',purl:x.purl||'',murl:x.murl||''})
-    ).join(' | '));
-  }
-  return finalResults;
+
 }
 
 async function effectsDatabaseFeedImageUrls(page, pageUrl) {
@@ -1722,11 +1634,6 @@ async function curlVerifiedSourcePageImages(entry, pageUrl) {
     }
   }
 
-  // CAT Sound's archived Effects Database page has historically exposed
-  // different legacy image/link forms. Preserve a diagnostic snapshot of the
-  // exact raw source markup for this one remaining holdout so recovery can use
-  // real current references instead of filename guesses.
-
   if (!deepReviewSourcePageEligible(pageUrl)) return [];
   let html = '';
   try {
@@ -1822,7 +1729,6 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
   try {
     const candidates = [];
     const pageUrl = preferredSourcePage(entry);
-    await writeCatSourceProbe(entry, preferredSourcePages(entry));
     const deepSearchTokens = identityTokens(entry.pedal);
     const genericPedalOnly = deepSearchTokens.length === 0;
     // Keep exact source pages and image search in the same recovery pass. A
@@ -1893,9 +1799,6 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               });
             }
             diagnostic.rawHtmlCandidates += feedImages.length;
-            if (entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass' && feedImages.length) {
-              console.log('CAT Sound exact raw image candidates: ' + feedImages.slice(0, 24).join(' | '));
-            }
             const feedResult = await tryImages(feedImages.map(url => ({
               url,
               sourcePage: pageUrl,
@@ -1932,25 +1835,6 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
 
         diagnostic.sourceIdentityMatch = true;
         sourcePageUsed = sourcePageUsed || pageUrl;
-
-        if ((entry.company === 'C14 Devices' && entry.pedal === 'Tone Chaser') ||
-            (entry.company === 'Cameltone Electronics' && entry.pedal === 'Big Stuff') ||
-            (entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass')) {
-          try {
-            const domDiag = await page.evaluate(() => ({
-              imgCount: document.images.length,
-              imgs: [...document.images].slice(0, 18).map(img => ({
-                alt: img.alt || '', src: img.currentSrc || img.src || '',
-                w: Number(img.naturalWidth) || 0, h: Number(img.naturalHeight) || 0
-              })),
-              imageAnchors: [...document.querySelectorAll('a[href]')].filter(a => a.querySelector('img')).slice(0, 18).map(a => ({
-                href: a.href || '', alt: a.querySelector('img')?.alt || '',
-                src: a.querySelector('img')?.currentSrc || a.querySelector('img')?.src || ''
-              }))
-            }));
-            console.log(entry.company + ' / ' + entry.pedal + ' DOM image diagnostic ' + JSON.stringify(domDiag));
-          } catch {}
-        }
 
         // Reverb galleries often lazy-load the primary product image just below
         // the heading. Trigger one small viewport move before harvesting browser
