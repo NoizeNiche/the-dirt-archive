@@ -94,10 +94,10 @@ def main() -> None:
                 if direct_page not in pages:
                     pages.append(direct_page)
         if direct:
-            # A direct-image override includes the exact page that established
-            # the image identity. Make that page the primary browser context so
-            # the direct URL is rendered with the correct cookies/referrer/origin.
-            primary_page, primary_priority = direct[0][0], 100000
+            # Direct overrides are append-only research leads. The newest verified
+            # lead is the one we actually want the browser to try first, otherwise
+            # an old blocked/expired CDN URL can keep shadowing a newer exact photo.
+            primary_page, primary_priority = direct[-1][0], 100000
         else:
             primary_page, primary_priority, _ = override[-1]
         if entry.get("image_source_pages") != pages:
@@ -114,8 +114,8 @@ def main() -> None:
         direct = direct_overrides.get(key(entry.get("company", ""), entry.get("pedal", ""))) or []
         if direct:
             direct_urls = list(dict.fromkeys(image_url for _, image_url, _ in direct))
-            direct_page = direct[0][0]
-            direct_url = direct_urls[0]
+            direct_page = direct[-1][0]
+            direct_url = direct_urls[-1]
             if entry.get("image_source_page") != direct_page:
                 entry["image_source_page"] = direct_page
             if entry.get("image_source_url") != direct_url:
