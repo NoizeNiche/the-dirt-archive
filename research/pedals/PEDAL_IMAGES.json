@@ -11834,7 +11834,7 @@
   {
     "builder": "CDB Pedals",
     "pedal": "Darkwater",
-    "image": null,
+    "image": "./assets/pedals/cdb-pedals/darkwater/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CDB Pedals/Darkwater.md"
   },
@@ -11904,56 +11904,56 @@
   {
     "builder": "Celestial Effects",
     "pedal": "Capricorn - Rock Distortion",
-    "image": null,
+    "image": "./assets/pedals/celestial-effects/capricorn-rock-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Celestial Effects/Capricorn - Rock Distortion.md"
   },
   {
     "builder": "Celestial Effects",
     "pedal": "Sagittarius - Overdrive Boost",
-    "image": null,
+    "image": "./assets/pedals/celestial-effects/sagittarius-overdrive-boost/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Celestial Effects/Sagittarius - Overdrive Boost.md"
   },
   {
     "builder": "Celestial Effects",
     "pedal": "Taurus - Blues Overdrive",
-    "image": null,
+    "image": "./assets/pedals/celestial-effects/taurus-blues-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Celestial Effects/Taurus - Blues Overdrive.md"
   },
   {
     "builder": "Celestial Effects",
     "pedal": "Virgo - Rock Overdrive",
-    "image": null,
+    "image": "./assets/pedals/celestial-effects/virgo-rock-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Celestial Effects/Virgo - Rock Overdrive.md"
   },
   {
     "builder": "Celmo",
     "pedal": "Pimento Sardine Overdrive",
-    "image": null,
+    "image": "./assets/pedals/celmo/pimento-sardine-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Celmo/Pimento Sardine Overdrive.md"
   },
   {
     "builder": "Celmo",
     "pedal": "Sardine Can",
-    "image": null,
+    "image": "./assets/pedals/celmo/sardine-can/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Celmo/Sardine Can.md"
   },
   {
     "builder": "Center Street Electronics",
     "pedal": "Drone Station Fuzz",
-    "image": null,
+    "image": "./assets/pedals/center-street-electronics/drone-station-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Center Street Electronics/Drone Station Fuzz.md"
   },
   {
     "builder": "Center Street Electronics",
     "pedal": "Druid Fuzz",
-    "image": null,
+    "image": "./assets/pedals/center-street-electronics/druid-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Center Street Electronics/Druid Fuzz.md"
   },
@@ -11974,7 +11974,7 @@
   {
     "builder": "Center Street Electronics",
     "pedal": "Rasputin Fuzz",
-    "image": null,
+    "image": "./assets/pedals/center-street-electronics/rasputin-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Center Street Electronics/Rasputin Fuzz.md"
   },
@@ -11995,35 +11995,35 @@
   {
     "builder": "Century",
     "pedal": "Century SHM-8 Heavy Metal",
-    "image": null,
+    "image": "./assets/pedals/century/century-shm-8-heavy-metal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Century/Century SHM-8 Heavy Metal.md"
   },
   {
     "builder": "Ceriatone",
     "pedal": "Centura Professional Overdrive",
-    "image": null,
+    "image": "./assets/pedals/ceriatone/centura-professional-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ceriatone/Centura Professional Overdrive.md"
   },
   {
     "builder": "Ceriatone",
     "pedal": "Horse Breaker",
-    "image": null,
+    "image": "./assets/pedals/ceriatone/horse-breaker/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ceriatone/Horse Breaker.md"
   },
   {
     "builder": "César Diaz",
     "pedal": "Diaz Texas Square Face",
-    "image": null,
+    "image": "./assets/pedals/c-sar-diaz/diaz-texas-square-face/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/César Diaz/Diaz Texas Square Face.md"
   },
   {
     "builder": "ChadderBox Effects",
     "pedal": "Loud/Louder",
-    "image": null,
+    "image": "./assets/pedals/chadderbox-effects/loud-louder/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ChadderBox Effects/Loud-Louder.md"
   },
@@ -12065,28 +12065,28 @@
   {
     "builder": "Champion City Effects",
     "pedal": "Mjolnir Heavy Distortion",
-    "image": null,
+    "image": "./assets/pedals/champion-city-effects/mjolnir-heavy-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Champion City Effects/Mjolnir Heavy Distortion.md"
   },
   {
     "builder": "Champion Leccy",
     "pedal": "Canny Fettle Boost",
-    "image": null,
+    "image": "./assets/pedals/champion-leccy/canny-fettle-boost/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Champion Leccy/Canny Fettle Boost.md"
   },
   {
     "builder": "Champion Leccy",
     "pedal": "Evil Twin",
-    "image": null,
+    "image": "./assets/pedals/champion-leccy/evil-twin/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Champion Leccy/Evil Twin.md"
   },
   {
     "builder": "Champion Leccy",
     "pedal": "The Divvy",
-    "image": null,
+    "image": "./assets/pedals/champion-leccy/the-divvy/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Champion Leccy/The Divvy.md"
   },
@@ -12100,7 +12100,7 @@
   {
     "builder": "Champion Leccy",
     "pedal": "The Fat Gett",
-    "image": null,
+    "image": "./assets/pedals/champion-leccy/the-fat-gett/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Champion Leccy/The Fat Gett.md"
   },
@@ -12114,7 +12114,7 @@
   {
     "builder": "Chancho Electronics",
     "pedal": "Plumbus Fuzz",
-    "image": null,
+    "image": "./assets/pedals/chancho-electronics/plumbus-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chancho Electronics/Plumbus Fuzz.md"
   },
@@ -12128,7 +12128,7 @@
   {
     "builder": "Chandler Limited",
     "pedal": "Germanium Drive",
-    "image": null,
+    "image": "./assets/pedals/chandler-limited/germanium-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chandler Limited/Germanium Drive.md"
   },
