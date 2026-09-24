@@ -185,7 +185,7 @@ jobs:
           print(d['pedal'])
           PY
             )
-            PHOTO_BROWSER_TARGET_BUILDER="$BUILDER" PHOTO_BROWSER_TARGET_PEDAL="$PEDAL" node scripts/browser-photo-cache.mjs
+            PHOTO_BROWSER_TARGET_BUILDER="$BUILDER" PHOTO_BROWSER_TARGET_PEDAL="$PEDAL" PHOTO_BROWSER_DEEP_REVIEW=true node scripts/browser-photo-cache.mjs
           else
             echo "Exact local photo already exists for the PRP1 target."
           fi
