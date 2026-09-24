@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T11:07:43.170053+00:00",
+  "generated_at": "2026-09-24T11:08:15.743988+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1543,
+    "researched": 1544,
     "pictured": 1502,
     "complete": 1502,
-    "research_pending": 2222
+    "research_pending": 2221
   },
   "next_target": {
     "builder": "Collateral FX",
-    "pedal": "P008 Golden Ratio Fuzz",
+    "pedal": "P010 Year of Rat 1985",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Collateral FX",
-      "pedal": "P008 Golden Ratio Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Collateral FX",
       "pedal": "P010 Year of Rat 1985",
@@ -165,6 +159,12 @@
     {
       "builder": "Collision Devices",
       "pedal": "TARS",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Colombo Audio Electronics",
+      "pedal": "22 Overdrive/Distortion",
       "catalog_type": "",
       "research_record": ""
     }
