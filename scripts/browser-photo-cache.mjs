@@ -3168,10 +3168,11 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               // country/language prefix such as /ca/item/... or /es/p/...
               // Normalize only that locale prefix while keeping the exact
               // product/listing path and host intact.
-              if (/^https?:\/\/(?:www\.)?reverb\.com$/i.test(parsed.origin)) {
+              let host = parsed.hostname.toLowerCase().replace(/^www\./, '');
+              if (host === 'reverb.com') {
                 pathname = pathname.replace(/^\/[a-z]{2}(?:-[a-z]{2})?(?=\/(?:item|p)\/)/i, '');
               }
-              return parsed.origin + pathname;
+              return parsed.protocol.toLowerCase() + '//' + host + pathname;
             } catch {
               return String(value || '').replace(/\/+$/, '');
             }
