@@ -1,6 +1,6 @@
 {
   "version": "research-evidence-v1",
-  "generatedAt": "2026-09-24T19:30:43.863Z",
+  "generatedAt": "2026-09-24T19:48:01.242Z",
   "purpose": "Autonomous evidence collection. Canonical research prose is written only after verification.",
   "foremanRule": "At least 2 distinct source hosts plus 1 strong exact-identity source before synthesis.",
   "counts": {
@@ -11,8 +11,8 @@
   },
   "records": [
     {
-      "builder": "Mojo Hand FX",
-      "pedal": "Sericon",
+      "builder": "MXR",
+      "pedal": "Wylde Audio Zakk Sabbath Overdrive",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -21,18 +21,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mojo Hand FX",
-      "pedal": "Socrates",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mojo Hand FX",
-      "pedal": "Superlative",
+      "builder": "MXR",
+      "pedal": "Yngwie Malmsteen Overdrive",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -41,8 +31,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mojo Hand FX",
-      "pedal": "Superlative (historical/discontinued)",
+      "builder": "Mystic Effects Co",
+      "pedal": "1833 Drive",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -51,8 +41,28 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mojo Hand FX",
-      "pedal": "Zephyr",
+      "builder": "Mystic Effects Co",
+      "pedal": "Bandpass Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mystic Effects Co",
+      "pedal": "Driven-Parallel Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mystic Effects Co",
+      "pedal": "Fuzz Button",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -61,8 +71,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mojo Hand FX",
-      "pedal": "Zephyr (historical/discontinued)",
+      "builder": "Mystic Effects Co",
+      "pedal": "Octavia Vintage Octave Fuzz",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -71,158 +81,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Black Secret",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Blade",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Blue Faze",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Blues Crab",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Blues Mood",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Cruncher",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Eight Hands",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Green Mile",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Greenwood",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Grey Faze",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Hustle Drive",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "MooerFog / Fog",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Rage Machine",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Rumble Drive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Solo",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Thunderball",
+      "builder": "Mythos Pedals",
+      "pedal": "1347 Silicon Fuzz",
       "catalogType": "Distortion / Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -231,18 +91,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Triangle Buff",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Ultra Drive",
+      "builder": "Mythos Pedals",
+      "pedal": "1N34A Mjolnir - Gold",
       "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -251,9 +101,9 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Ultra Drive MKII",
-      "catalogType": "Distortion",
+      "builder": "Mythos Pedals",
+      "pedal": "1N34A Mjolnir - Silver",
+      "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
       "distinctHostCount": 0,
@@ -261,8 +111,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mr. Black",
-      "pedal": "Barbeque Fuzz",
+      "builder": "Mythos Pedals",
+      "pedal": "Argo Boost Deluxe",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -271,8 +121,538 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mr. Black",
-      "pedal": "Bass OD Mk. II",
+      "builder": "Mythos Pedals",
+      "pedal": "Argo Octave Fuzz",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "AU-79 Fuzz",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "AU-79 Fuzz — limited / exclusive",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "Big Puft Fuzz Device",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "Chupacabra CMOS Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "D-Style Herculean Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "Envy Pro Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "Erlking Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "Extra Hot “Extra Spicy” Dual Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "GE Mjolnir",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "Golden Fleece Fuzz",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "Hephaestus Fuzz",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "Herculean Deluxe Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "High Road Fuzz Mini",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "High Road Fuzz Mini — limited / exclusive",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "Joey Landreth Mjolnir Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "Mjolnir Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "Olympus Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "The Victor Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mythos Pedals",
+      "pedal": "Wildwood Mjolnir",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Nobels",
+      "pedal": "ODR-1",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "’59 Bassguy",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "’63 Diamond",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "‘6ixty5ive OD",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Ace of Tone",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "BC-2 Vintage Blues Core",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Brownie",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Drive Core",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Drive Core Deluxe",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Drive Core Deluxe MKII",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "DS-3 Classic Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Fireman",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "FZ-2 Vintage Fuzz",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "HG-5 Modern High Gain",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "HG-6 High Gain Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Horseman",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Metal Core",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Metal Core Deluxe",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Mini Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Mini Supa Drive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Morning Star",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "MX-6 Extreme Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "OD-2 Vintage Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "OD-3 Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Plexi Crunch",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Queen of Tone",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "REC TO Distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Scream Bass / Bass Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Steel Singer Drive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Tube Man MKII",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "XTC OD",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "OKKO FX",
+      "pedal": "BFGRMWB",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "OKKO FX",
+      "pedal": "Black Beast",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "OKKO FX",
+      "pedal": "DIABLO DUAL",
       "catalogType": "Distortion / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -281,8 +661,98 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mr. Black",
-      "pedal": "BB-74x",
+      "builder": "OKKO FX",
+      "pedal": "DIABLO DUAL — 2-channel overdrive / distortion",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "OKKO FX",
+      "pedal": "DIABLO GH Signature",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "OKKO FX",
+      "pedal": "DIRTY DIABLO",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "OKKO FX",
+      "pedal": "Holy Grit",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "OKKO FX",
+      "pedal": "HOLY GRIT",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "OKKO FX",
+      "pedal": "MOTÖRBASS",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "OKKO FX",
+      "pedal": "The Dynamist",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "OKKO FX",
+      "pedal": "TWINSONIC MKII",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Old Blood Noise Endeavors",
+      "pedal": "Alpha Haunt",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Old Blood Noise Endeavors",
+      "pedal": "Beam Splitter V2",
       "catalogType": "Distortion / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -291,8 +761,18 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mr. Black",
-      "pedal": "Deuce Coupe",
+      "builder": "Old Blood Noise Endeavors",
+      "pedal": "Excess V2",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Old Blood Noise Endeavors",
+      "pedal": "Fault V2",
       "catalogType": "Distortion / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -301,18 +781,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mr. Black",
-      "pedal": "Deuce Coupe - Old School Laser",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mr. Black",
-      "pedal": "Doomstick Fuzz",
+      "builder": "Old Blood Noise Endeavors",
+      "pedal": "Haunt Fuzz",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -321,108 +791,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mr. Black",
-      "pedal": "Jalapeño",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mr. Black",
-      "pedal": "Orro",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mr. Black",
-      "pedal": "SludgeMaster",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mr. Black",
-      "pedal": "Snake Drive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mr. Black",
-      "pedal": "Sour Cream & Onion",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mr. Black",
-      "pedal": "ThunderClaw",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mr. Black",
-      "pedal": "ThunderClaw - Scorpion Milk",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mr. Black",
-      "pedal": "Vintage Overdrive",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Bass Distortion",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Bass Distortion+",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Bass Fuzz Deluxe",
+      "builder": "Old Blood Noise Endeavors",
+      "pedal": "Pardner",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -431,379 +801,9 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "MXR",
-      "pedal": "Bass Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Blue Box Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "CAE Boost/Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Classic 108 Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Classic 108 Fuzz Mini",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Custom Badass '78 Distortion",
+      "builder": "Orange Amplification",
+      "pedal": "Bass Butler",
       "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Custom Badass Modified O.D",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Dime Distortion",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Distortion III",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Distortion+",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Dookie Drive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Dookie Drive V4",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Double-Double Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Duke of Tone Overdrive",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "EVH 5150 Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Fat Sugar Drive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "FOD Drive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Fullbore Metal Distortion",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Gran Torino Boost Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "GT-OD",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Hybrid Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Jail Guitar Doors Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Octavio Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Prime Distortion",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Raijin Drive",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Randy Rhoads Distortion+",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Raw Dawg Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Slash Octave Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Special Edition Distortion+",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Sub Machine Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Sub Octave Bass Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Sugar Drive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Super Badass Distortion",
-      "catalogType": "Distortion",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Super Badass Dynamic O.D",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Super Badass Variac Fuzz",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Timmy Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Tom Morello Power 50 Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MXR",
-      "pedal": "Wylde Audio Overdrive",
-      "catalogType": "Overdrive",
       "sources": [],
       "sourceCount": 0,
       "distinctHostCount": 0,
