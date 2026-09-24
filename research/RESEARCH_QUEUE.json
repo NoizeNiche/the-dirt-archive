@@ -1,53 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:26:15.585645+00:00",
+  "generated_at": "2026-09-24T10:26:59.505492+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1442,
+    "researched": 1447,
     "pictured": 1381,
     "complete": 1381,
-    "research_pending": 2323
+    "research_pending": 2318
   },
   "next_target": {
-    "builder": "Clark Amplification",
-    "pedal": "Gainster",
+    "builder": "Clayton",
+    "pedal": "X-Treme DS-160 Distortion",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Clark Amplification",
-      "pedal": "Gainster",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Classic Audio Effects",
-      "pedal": "Stumphouse Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Clay Jones",
-      "pedal": "CJOD Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Claybridge Sound Systems / Claybridge Audio",
-      "pedal": "Fuzzmaster",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Claybridge Sound Systems / Claybridge Audio",
-      "pedal": "Fuzzmaster MKIV",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Clayton",
       "pedal": "X-Treme DS-160 Distortion",
@@ -165,6 +135,36 @@
     {
       "builder": "Cluster Effects",
       "pedal": "Dragon-71",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMAT Mods",
+      "pedal": "Black Plague",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMAT Mods",
+      "pedal": "Brownie",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMAT Mods",
+      "pedal": "Butah",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMAT Mods",
+      "pedal": "Ratified",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMAT Mods",
+      "pedal": "Signa Comp-Drive",
       "catalog_type": "",
       "research_record": ""
     }
