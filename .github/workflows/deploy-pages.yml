@@ -10,7 +10,6 @@ on:
       - 'pedal-detail.html'
       - 'assets/**'
       - 'research/PEDAL_INDEX.json'
-      - 'research/pedals/**'
       - 'assets/js/**'
       - 'assets/css/**'
       - 'scripts/deploy-browser-audit.js'
