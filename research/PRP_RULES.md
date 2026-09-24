@@ -6,15 +6,15 @@
 
 PRP means **Pedal Research Phase**.
 
-The goal is to turn every cataloged dirt pedal into a useful public reference while keeping the site simple:
+The goal of these rules is to define the archive's completion and exact-photo contract. The active Catalog Research Phase now owns new research work; PRP1 is retained as a legacy publication/closeout mechanism while keeping the site simple:
 
 `Builder -> Pedal -> Pedal Info -> Photo`
 
 PRP works from the live catalog and its canonical tracker, not from conversation memory or old checkpoint text.
 
-## 2. Work order
+## 2. Legacy PRP1 work order
 
-Work through the public catalog in exact A-to-Z order.
+PRP1 is no longer the active research queue. New research follows `research/RESEARCH_PHASE_RULES.md`. PRP1 only finalizes already-researched records through the exact-photo publication gate.
 
 The tracker is the source of truth for completion status.
 
