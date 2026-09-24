@@ -949,7 +949,7 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
     : ['"' + entry.company + '" "' + entry.pedal + '" pedal'];
 
   for (const query of googleQueries) {
-    const searchUrl = 'https://www.google.com/search?tbm=isch&hl=en&q=' + encodeURIComponent(query);
+    const searchUrl = 'https://www.google.com/search?udm=2&hl=en&gl=us&q=' + encodeURIComponent(query);
     try {
       await page.goto(searchUrl, {
         waitUntil: 'domcontentloaded',
@@ -1394,7 +1394,16 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     verifiedSearchCandidates: 0,
     rawHtmlCandidates: 0
   };
-  const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
+  const page = await browser.newPage({
+    viewport: { width: 1440, height: 1000 },
+    locale: 'en-US',
+    userAgent: 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36'
+  });
+  await page.addInitScript(() => {
+    try {
+      Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+    } catch {}
+  });
   const networkImageUrls = [];
   const networkImageBodies = new Map();
   const MAX_NETWORK_IMAGE_BODIES = 40;
