@@ -1809,7 +1809,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         // by the image URL itself.
         if (
           candidate?.sourcePage &&
-          !candidate.searchResult &&
+          (!candidate.searchResult || candidate.strongSearchIdentity) &&
           !candidate.searchUrl &&
           !candidate.directImageOverride &&
           !candidate.rawVerifiedPageImage
