@@ -1,77 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:33:24.363841+00:00",
+  "generated_at": "2026-09-24T10:34:58.292945+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1487,
+    "researched": 1496,
     "pictured": 1381,
     "complete": 1381,
-    "research_pending": 2278
+    "research_pending": 2269
   },
   "next_target": {
-    "builder": "Cobrahawk",
-    "pedal": "B12 Fuzz",
+    "builder": "Codtone",
+    "pedal": "Fuzz for Bass",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Cobrahawk",
-      "pedal": "B12 Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cobrahawk",
-      "pedal": "B12 Go Fuzz Yourself (Paul)",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cobrahawk",
-      "pedal": "JRC4558 OD-8 Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coda Effects",
-      "pedal": "Black Hole",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coda Effects",
-      "pedal": "Dolmen Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Code",
-      "pedal": "CDO2 Stereo Distortion O.D.",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Code",
-      "pedal": "CMM2 Stereo Metal Mate",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Codtone",
-      "pedal": "Ben Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Codtone",
-      "pedal": "Frank 'n' Beans",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Codtone",
       "pedal": "Fuzz for Bass",
@@ -165,6 +111,60 @@
     {
       "builder": "COG Effects",
       "pedal": "Mini 66 Bass Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "Rogue One Fuzz Octave",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "Tarkin Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "Tarkin Mk2",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "TK-421 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "TK-421-X Bass Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "Wet Nuns Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coggins Audio / Dinosaural",
+      "pedal": "Cogmeister",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coggins Audio / Dinosaural",
+      "pedal": "Dan Solo Mid Booster / Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coggins Audio / Dinosaural",
+      "pedal": "Dinosaural OPA-101 Overdriven Pre-amp",
       "catalog_type": "",
       "research_record": ""
     }

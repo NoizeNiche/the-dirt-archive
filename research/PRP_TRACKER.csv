@@ -1486,15 +1486,15 @@ CNZ Audio,SFZ-20 Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/CNZ Audio/SFZ-20
 CNZ Audio,SOD-20 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CNZ Audio/SOD-20 Overdrive.md
 CNZ Audio,VBL-20 Bluesy Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CNZ Audio/VBL-20 Bluesy Overdrive.md
 CNZ Audio,VDU-20 Dumbled Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CNZ Audio/VDU-20 Dumbled Drive.md
-Cobrahawk,B12 Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Cobrahawk,B12 Go Fuzz Yourself (Paul),Fuzz,NEEDED,NEEDED,NEEDED,
-Cobrahawk,JRC4558 OD-8 Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Coda Effects,Black Hole,Distortion,NEEDED,NEEDED,NEEDED,
-Coda Effects,Dolmen Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Code,CDO2 Stereo Distortion O.D.,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Code,CMM2 Stereo Metal Mate,Distortion,NEEDED,NEEDED,NEEDED,
-Codtone,Ben Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-Codtone,Frank 'n' Beans,Fuzz,NEEDED,NEEDED,NEEDED,
+Cobrahawk,B12 Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cobrahawk/B12 Fuzz.md
+Cobrahawk,B12 Go Fuzz Yourself (Paul),Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cobrahawk/B12 Go Fuzz Yourself (Paul).md
+Cobrahawk,JRC4558 OD-8 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Cobrahawk/JRC4558 OD-8 Overdrive.md
+Coda Effects,Black Hole,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Coda Effects/Black Hole.md
+Coda Effects,Dolmen Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Coda Effects/Dolmen Fuzz.md
+Code,CDO2 Stereo Distortion O.D.,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Code/CDO2 Stereo Distortion O.D..md
+Code,CMM2 Stereo Metal Mate,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Code/CMM2 Stereo Metal Mate.md
+Codtone,Ben Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Codtone/Ben Drive.md
+Codtone,Frank 'n' Beans,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Codtone/Frank 'n' Beans.md
 Codtone,Fuzz for Bass,Fuzz,NEEDED,NEEDED,NEEDED,
 Codtone,Russian Bikini Ranger,Fuzz,NEEDED,NEEDED,NEEDED,
 Coffee Shop Pedals,Affogato Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
