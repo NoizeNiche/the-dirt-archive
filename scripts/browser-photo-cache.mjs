@@ -1564,6 +1564,25 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         diagnostic.sourceIdentityMatch = true;
         sourcePageUsed = sourcePageUsed || pageUrl;
 
+        if ((entry.company === 'C14 Devices' && entry.pedal === 'Tone Chaser') ||
+            (entry.company === 'Cameltone Electronics' && entry.pedal === 'Big Stuff') ||
+            (entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass')) {
+          try {
+            const domDiag = await page.evaluate(() => ({
+              imgCount: document.images.length,
+              imgs: [...document.images].slice(0, 18).map(img => ({
+                alt: img.alt || '', src: img.currentSrc || img.src || '',
+                w: Number(img.naturalWidth) || 0, h: Number(img.naturalHeight) || 0
+              })),
+              imageAnchors: [...document.querySelectorAll('a[href]')].filter(a => a.querySelector('img')).slice(0, 18).map(a => ({
+                href: a.href || '', alt: a.querySelector('img')?.alt || '',
+                src: a.querySelector('img')?.currentSrc || a.querySelector('img')?.src || ''
+              }))
+            }));
+            console.log(entry.company + ' / ' + entry.pedal + ' DOM image diagnostic ' + JSON.stringify(domDiag));
+          } catch {}
+        }
+
         // Reverb galleries often lazy-load the primary product image just below
         // the heading. Trigger one small viewport move before harvesting browser
         // response bytes, avoiding the much slower screenshot/search fallback.
