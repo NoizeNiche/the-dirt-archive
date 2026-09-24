@@ -3358,7 +3358,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       diagnostic.soldCandidates = soldResults.length;
       const verifiedSold = [];
 
-      const verifyLimit = deepReview ? Math.min(4, SEARCH_VERIFY_LIMIT) : SEARCH_VERIFY_LIMIT;
+      const verifyLimit = deepReview ? Math.min(8, SEARCH_VERIFY_LIMIT) : SEARCH_VERIFY_LIMIT;
 
       for (const result of soldResults.slice(0, verifyLimit)) {
         const searchIdentity = normalizedIdentity((result.title || '') + ' ' + result.purl);
