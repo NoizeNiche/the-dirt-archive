@@ -1,7 +1,11 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
 import { chromium } from 'playwright';
+
+const execFileAsync = promisify(execFile);
 
 const ROOT = process.cwd();
 const INDEX = path.join(ROOT, 'research/PEDAL_INDEX.json');
@@ -1804,6 +1808,52 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       return score(b) - score(a);
     });
 
+    async function curlImageCandidate(candidate) {
+      if (!candidate?.url || !/^https?:/i.test(String(candidate.url))) return null;
+      let tempDir = null;
+      try {
+        const cookies = await page.context().cookies(
+          [candidate.sourcePage, candidate.url].filter(Boolean)
+        );
+        const cookieHeader = cookies.map(cookie => cookie.name + '=' + cookie.value).join('; ');
+        tempDir = fs.mkdtempSync('/tmp/dirt-archive-photo-');
+        const output = path.join(tempDir, 'image.bin');
+        const args = [
+          '-L',
+          '--fail',
+          '--silent',
+          '--show-error',
+          '--compressed',
+          '--connect-timeout', '3',
+          '--max-time', '5',
+          '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36',
+          '-H', 'Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+        ];
+        if (candidate.sourcePage) {
+          args.push('-e', String(candidate.sourcePage));
+        }
+        if (cookieHeader) {
+          args.push('-H', 'Cookie: ' + cookieHeader);
+        }
+        args.push('-o', output, String(candidate.url));
+
+        await execFileAsync('curl', args, {
+          timeout: 6500,
+          maxBuffer: 1024 * 1024
+        });
+        if (!fs.existsSync(output)) return null;
+        const bytes = fs.readFileSync(output);
+        if (!imageBytesLookComplete(bytes)) return null;
+        return { bytes, src: candidate.url };
+      } catch {
+        return null;
+      } finally {
+        if (tempDir) {
+          try { fs.rmSync(tempDir, { recursive: true, force: true }); } catch {}
+        }
+      }
+    }
+
     function imageBytesLookComplete(bytes, contentType = '') {
       if (!bytes || bytes.length < 3000) return false;
       const type = String(contentType || '').toLowerCase();
@@ -1982,6 +2032,12 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           await page.evaluate(() => document.querySelector('[data-dirt-archive-direct-capture="1"]')?.remove()).catch(() => {});
         }
 
+        // Reverb/marketplace CDNs may reject Playwright's request context and
+        // injected-image requests while still allowing a normal browser-like
+        // HTTP request when the same source-page cookies and Referer are sent.
+        const curled = await curlImageCandidate(candidate);
+        if (curled?.bytes) return curled;
+
         // Direct-image overrides can reject an injected <img> while still
         // rendering when Chromium navigates to the image URL as a document.
         // Reuse the existing image-document fallback while preserving the
@@ -2041,6 +2097,12 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         } else {
           await page.evaluate(() => document.querySelector('[data-dirt-archive-raw-capture="1"]')?.remove()).catch(() => {});
         }
+
+        const curled = await curlImageCandidate({
+          ...candidate,
+          url: normalizedUrl
+        });
+        if (curled?.bytes) return curled;
       } catch {}
       return null;
     }
