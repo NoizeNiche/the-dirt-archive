@@ -3394,8 +3394,12 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       for (const ranked of rankedSearchResults.slice(0, verifyLimit)) {
         const result = ranked.result;
         const fit = ranked.fit;
+        // Let the exact builder/model identity path below decide whether an
+        // image result is trustworthy. The older pedal-token prefilter ran first
+        // and rejected legitimate Google/Bing exact hits before their source
+        // title, context, and product URL could be evaluated.
+        if (!result.purl || !result.murl) continue;
         const requiredHits = pedalTokensForSearch(entry).length >= 2 ? 2 : 1;
-        if (fit.pedalHits < requiredHits || !result.purl || !result.murl) continue;
         try {
           // Some specialist pedal databases expose their exact product image to
           // search engines but hide the image behind an AJAX feed endpoint that
