@@ -1,35 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T12:18:59.960882+00:00",
+  "generated_at": "2026-09-24T12:20:15.513622+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1599,
+    "researched": 1603,
     "pictured": 1544,
     "complete": 1544,
-    "research_pending": 2166
+    "research_pending": 2162
   },
   "next_target": {
     "builder": "Colorsound / Sola Sound",
-    "pedal": "Pro Traffic Fuzz Unit",
+    "pedal": "Sola Sound Tone Bender",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "Pro Traffic Fuzz Unit",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "Sola Sound Bum Fuzz Unit",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Colorsound / Sola Sound",
       "pedal": "Sola Sound Tone Bender",
@@ -39,18 +27,6 @@
     {
       "builder": "Colorsound / Sola Sound",
       "pedal": "Tone Bender",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "Tone Bender MKII",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "Tone Bender MKIII",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +141,30 @@
     {
       "builder": "Compulsive Audio",
       "pedal": "Dimed Boogie",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Compulsive Audio",
+      "pedal": "Face-Off Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Compulsive Audio",
+      "pedal": "Hair Band Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Compulsive Audio",
+      "pedal": "Jimi - Octave Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Compulsive Audio",
+      "pedal": "Texas Holdem ZZ",
       "catalog_type": "",
       "research_record": ""
     }
