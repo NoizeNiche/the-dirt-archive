@@ -19,7 +19,7 @@ CBC Pedals produced a version of the Shin-Ei FY-2 Companion as part of its class
 
 ### Factory options
 - The CBC demonstration establishes the added boost and Scoop features as builder-level design features.
-- No separately named factory modification beyond those documented features was established.
+- No separately named factory modification beyond those documented was established.
 
 ## Version changes
 No distinct named CBC V2 or later hardware generation was established in the reliable sources checked.
