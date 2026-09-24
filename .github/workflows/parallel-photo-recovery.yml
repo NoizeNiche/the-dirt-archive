@@ -276,6 +276,8 @@ jobs:
           path: recovery-artifacts
       - name: Install image tooling
         run: python -m pip install --disable-pip-version-check pillow
+      - name: Photo Foreman verifies recovered artifacts
+        run: python scripts/verify-photo-recovery-batch.py
       - name: Verify every recovered image
         run: python scripts/photo-foreman.py
       - name: Upload only foreman-approved recoveries
