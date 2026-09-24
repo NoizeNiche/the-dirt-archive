@@ -281,6 +281,40 @@ main{padding:24px 0 72px}
   white-space:nowrap;
 }
 .rule{height:1px;background:var(--line);margin:16px 0}
+.archivePulse{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:8px;
+  margin-top:12px;
+}
+.pulseMetric{
+  display:flex;
+  flex-direction:column;
+  gap:3px;
+  min-width:0;
+  padding:11px 12px;
+  border:1px solid var(--line);
+  border-radius:12px;
+  background:rgba(255,253,250,.7);
+}
+.pulseValue{
+  color:var(--ink);
+  font-size:1.05rem;
+  font-weight:950;
+  line-height:1;
+  letter-spacing:-.02em;
+}
+.pulseLabel{
+  color:var(--muted);
+  font-size:.58rem;
+  font-weight:900;
+  text-transform:uppercase;
+  letter-spacing:.08em;
+}
+@media(max-width:620px){
+  .archivePulse{grid-template-columns:1fr}
+  .pulseMetric{flex-direction:row;align-items:baseline;justify-content:space-between;gap:12px}
+}
 
 .grid{
   display:grid;
