@@ -1,5 +1,5 @@
 {
-  "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-source-lead",
+  "version": "data-20260924-prp1-fuzz-phazer-photo-reset",
   "count": 3765,
   "pedals": [
     {
@@ -17786,7 +17786,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/cbs-arbiter/cbs-arbiter-fuzz-phazer/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/CBS-Arbiter/CBS-Arbiter Fuzz Phazer.md",
       "image_source_page": "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzphazer",
@@ -17795,8 +17795,7 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzphazer"
       ],
-      "image_source_priority": 100000,
-      "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png"
+      "image_source_priority": 100000
     },
     {
       "company": "CBS-Arbiter",
