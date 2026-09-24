@@ -651,9 +651,25 @@ async function rawVerifiedExternalSourceImages(page, entry, sourcePageUsed) {
   if (!/(^|\.)effectsdatabase\.com$/i.test(hostname)) return [];
 
   try {
-    const response = await page.request.get(sourcePageUsed, { timeout: PAGE_TIMEOUT });
-    if (!response.ok()) return [];
-    const html = (await response.text()).replace(/\\\//g, '/');
+    let html = '';
+    try {
+      const response = await page.request.get(sourcePageUsed, { timeout: PAGE_TIMEOUT });
+      if (response.ok()) html = await response.text();
+    } catch {}
+    if (!html) {
+      try {
+        const proc = await execFileAsync('curl', [
+          '-L', '--silent', '--show-error', '--compressed',
+          '--connect-timeout', '3', '--max-time', '5',
+          '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
+          '-H', 'Accept-Language: en-US,en;q=0.9',
+          String(sourcePageUsed)
+        ], { timeout: 6500, maxBuffer: 4 * 1024 * 1024 });
+        html = String(proc.stdout || '');
+      } catch {}
+    }
+    if (!html) return [];
+    html = html.replace(/\\\//g, '/');
     const links = new Map();
     const norm = value => String(value || '')
       .toLowerCase()
@@ -693,6 +709,9 @@ async function rawVerifiedExternalSourceImages(page, entry, sourcePageUsed) {
     }
 
     const out = [];
+    if (entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass' && links.size) {
+      console.log('CAT Sound exact external source pages: ' + [...links.keys()].join(' | '));
+    }
     for (const link of [...links.values()].sort((a, b) => b.score - a.score).slice(0, 4)) {
       try {
         const identity = await fetchSearchPageIdentity(page, link.url);
