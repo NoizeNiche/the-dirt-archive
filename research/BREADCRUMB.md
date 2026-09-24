@@ -4,7 +4,7 @@ Verified live tracker state: **3,770 total / 1,272 researched / 1,272 pictured /
 
 The final researched-photo blocker, **CBC Pedals - Harmonic Percolator**, now has a locally archived exact pedal photograph at `./assets/pedals/cbc-pedals/harmonic-percolator/primary.webp`. The exact asset was inspected directly before accepting the tracker transition to DONE. The earlier Equipboard-logo false positive had already been removed.
 
-PRP1 has been opened and its CBC Harmonic Percolator intake package has been consumed. The next incomplete canonical PRP target is **CBC Pedals - Hop Hed Fuzztone**. Resume research from that record in exact catalog order.
+PRP1 was opened after the tracker reached zero, but a subsequent asset inspection found that the already-researched **Cat's Eye ESP - Hop Hed Fuzztone** record contains a favicon rather than a real pedal photograph. The photo gate therefore needs correction before PRP is treated as fully clear. The CBC duplicate Hop Hed record is also under identity review because Effects Database places Hop Hed under Cat's Eye ESP.
 
 ---
 
