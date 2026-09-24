@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T13:25:35.241852+00:00",
+  "generated_at": "2026-09-24T13:33:24.117473+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1634,
+    "researched": 1635,
     "pictured": 1592,
     "complete": 1592,
-    "research_pending": 2131
+    "research_pending": 2130
   },
   "next_target": {
-    "builder": "Conrad",
-    "pedal": "Conrad Fuzzy Fury",
+    "builder": "Cool Bear Effects",
+    "pedal": "Grizzly Bear",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Conrad",
-      "pedal": "Conrad Fuzzy Fury",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Cool Bear Effects",
       "pedal": "Grizzly Bear",
@@ -165,6 +159,12 @@
     {
       "builder": "Copilot FX",
       "pedal": "Mantis",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Copilot FX",
+      "pedal": "Orbit",
       "catalog_type": "",
       "research_record": ""
     }

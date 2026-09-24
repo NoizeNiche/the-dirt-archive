@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1634 researched / 1592 pictured / 1592 complete / 2131 research-pending / 42 researched-photo-pending**.
+Live catalog: **3765 total / 1635 researched / 1592 pictured / 1592 complete / 2130 research-pending / 43 researched-photo-pending**.
 
-**Next research target:** Conrad - Conrad Fuzzy Fury.
+**Next research target:** Cool Bear Effects - Grizzly Bear.
 
-PRP1 closeout remains separate: 42 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 43 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-24T13:25:35.241852+00:00
+Last refreshed: 2026-09-24T13:33:24.117473+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
