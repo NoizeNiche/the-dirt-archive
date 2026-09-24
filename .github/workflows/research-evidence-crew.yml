@@ -1,0 +1,108 @@
+name: Research evidence crew
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - research/RESEARCH_AUTONOMY_KICK
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dirt-research-evidence
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    name: Build research worker matrix
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: \${{ steps.matrix.outputs.matrix }}
+    steps:
+      - name: Build worker matrix
+        id: matrix
+        shell: bash
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          print("matrix=" + json.dumps({"worker": list(range(20))}, separators=(",", ":")))
+          PY
+
+  gather:
+    name: Research Gatherer \${{ matrix.worker }}
+    needs: prepare
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix: \${{ fromJSON(needs.prepare.outputs.matrix) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Gather current research evidence
+        env:
+          RESEARCH_WORKER_INDEX: \${{ matrix.worker }}
+          RESEARCH_WORKER_COUNT: "20"
+          RESEARCH_TARGETS_PER_WORKER: "4"
+          RESEARCH_REQUEST_TIMEOUT_MS: "5000"
+          RESEARCH_RESULT_LIMIT: "5"
+        run: node scripts/research-evidence-gather.mjs
+      - name: Upload evidence dossier
+        uses: actions/upload-artifact@v4
+        with:
+          name: research-evidence-\${{ matrix.worker }}
+          path: artifact/research-evidence.json
+          retention-days: 2
+
+  foreman:
+    name: Research Foreman
+    needs: gather
+    if: \${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout latest main
+        uses: actions/checkout@v7
+      - name: Download worker dossiers
+        uses: actions/download-artifact@v5
+        with:
+          path: research-evidence-artifacts
+      - name: Merge and verify evidence
+        run: node scripts/merge-research-evidence.mjs
+      - name: Foreman rule check
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          d = json.loads(Path("research/RESEARCH_EVIDENCE_QUEUE.json").read_text(encoding="utf-8"))
+          for r in d.get("records", []):
+              if r.get("foremanVerdict") == "EVIDENCE_READY":
+                  assert r.get("distinctHostCount", 0) >= 2
+                  assert r.get("strongSourceCount", 0) >= 1
+          print("Research Foreman: PASS")
+          PY
+      - name: Publish evidence queue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/RESEARCH_EVIDENCE_QUEUE.json research/RESEARCH_EVIDENCE_REPORT.md
+          if git diff --cached --quiet; then
+            echo "No research evidence changes."
+            exit 0
+          fi
+          git commit -m "Archive parallel research evidence"
+          for attempt in 1 2 3 4 5; do
+            if git push origin main; then exit 0; fi
+            echo "Research evidence push race; rebuilding on newest main (attempt $attempt/5)."
+            git fetch origin main
+            git reset --hard origin/main
+            node scripts/merge-research-evidence.mjs
+            git add research/RESEARCH_EVIDENCE_QUEUE.json research/RESEARCH_EVIDENCE_REPORT.md
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m "Archive parallel research evidence"
+          done
+          exit 1
