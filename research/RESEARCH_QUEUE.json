@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:51:07.487053+00:00",
+  "generated_at": "2026-09-24T10:52:39.306694+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1534,
+    "researched": 1535,
     "pictured": 1471,
     "complete": 1471,
-    "research_pending": 2231
+    "research_pending": 2230
   },
   "next_target": {
-    "builder": "Coggins Audio / Dinosaural",
-    "pedal": "Dinosaural OPA-101 Overdriven Pre-amp",
+    "builder": "Cole Music Co.",
+    "pedal": "ParaDrive Parametric Overdrive",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Coggins Audio / Dinosaural",
-      "pedal": "Dinosaural OPA-101 Overdriven Pre-amp",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Cole Music Co.",
       "pedal": "ParaDrive Parametric Overdrive",
@@ -165,6 +159,12 @@
     {
       "builder": "Collateral FX",
       "pedal": "P031 Zeugma Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P032 Touchstone Overdrive",
       "catalog_type": "",
       "research_record": ""
     }
