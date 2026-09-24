@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1665 researched / 1615 pictured / 1615 complete / 2100 research-pending / 50 researched-photo-pending**.
+Live catalog: **3765 total / 1670 researched / 1615 pictured / 1615 complete / 2095 research-pending / 55 researched-photo-pending**.
 
-**Next research target:** Copper Gear - Distorta Destructo.
+**Next research target:** CopperSound Pedals - Ion Warped Fuzz.
 
-PRP1 closeout remains separate: 50 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 55 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-24T22:49:52.023153+00:00
+Last refreshed: 2026-09-24T22:53:48.438038+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
