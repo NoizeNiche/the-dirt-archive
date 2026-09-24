@@ -3246,6 +3246,32 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
             builderTokens.length > 0 &&
             builderTokens.every(token => searchIdentity.includes(token));
 
+          // A strongly exact image-search result can be used directly when its
+          // title/context/purl carry the complete builder + model identity. This
+          // is the fast Google/Bing Images path: do not waste another browser
+          // navigation on a source page when the indexed result is already an
+          // exact product hit. Generic model names still require a curated page.
+          const resultHaystack = normalizedIdentity([
+            result.title || '',
+            result.context || '',
+            result.purl || ''
+          ].join(' '));
+          const exactPedalPhrase = normalizedIdentity(entry.pedal);
+          const exactBuilderPhrase = normalizedIdentity(entry.company);
+          const strongSearchIdentity =
+            pedalTokens.length > 0 &&
+            builderTokens.length > 0 &&
+            (
+              resultHaystack.includes(exactPedalPhrase) ||
+              pedalTokens.every(token => resultHaystack.includes(token))
+            ) &&
+            (
+              resultHaystack.includes(exactBuilderPhrase) ||
+              builderTokens.every(token => resultHaystack.includes(token))
+            ) &&
+            result.purl &&
+            /^https?:/i.test(result.purl);
+
           // A curated, explicitly verified source page is exact-model evidence.
           // This matters for generic model names such as "Distortion" and
           // "#overdrive", whose normalized token set is intentionally sparse.
@@ -3287,13 +3313,20 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               pageMatchesSearchIdentity(entry, searchIdentity, searchIdentity)
             );
 
-          if (trustedDatabase || trustedMarketplace || trustedCuratedSource) {
+          if (trustedDatabase || trustedMarketplace || trustedCuratedSource || strongSearchIdentity) {
             verifiedSearch.push({
               url: result.murl,
               sourcePage: result.purl,
-              sourceScore: (trustedCuratedSource ? 180 : trustedDatabase ? 125 : 105) + Math.min(70, fit.score),
+              sourceScore: (
+                trustedCuratedSource ? 180 :
+                trustedDatabase ? 145 :
+                trustedMarketplace ? 135 :
+                strongSearchIdentity ? 120 :
+                105
+              ) + Math.min(70, fit.score),
               searchResult: true,
-              searchUrl: result.searchUrl
+              searchUrl: result.searchUrl,
+              strongSearchIdentity
             });
             continue;
           }
@@ -3336,7 +3369,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       // even though the search engine has an exact-model thumbnail. Capture the
       // matching verified thumbnail instead of substituting another pedal.
       if (!selectedResult) {
-        for (const candidate of rankedVerifiedSearch.slice(0, 3)) {
+        for (const candidate of rankedVerifiedSearch.slice(0, 12)) {
           const bytes = await screenshotVerifiedSearchImage(candidate);
           if (bytes) {
             selectedResult = { candidate, bytes };
