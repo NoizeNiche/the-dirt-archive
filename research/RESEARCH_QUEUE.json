@@ -1,47 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:25:03.475325+00:00",
+  "generated_at": "2026-09-24T10:25:33.432226+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1432,
+    "researched": 1436,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2333
+    "research_pending": 2329
   },
   "next_target": {
-    "builder": "CKK Electronic",
-    "pedal": "Flaming Lips - US Style Distortion with Fat Boost",
+    "builder": "Clarenzio",
+    "pedal": "Brìne - Distortion",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "CKK Electronic",
-      "pedal": "Flaming Lips - US Style Distortion with Fat Boost",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CKK Electronic",
-      "pedal": "Gambler",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CKK Electronic",
-      "pedal": "Lunar Drive - Vintage Amp Tone Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CKK Electronic",
-      "pedal": "Scream Drive - Two Gain Stage Classic Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Clarenzio",
       "pedal": "Brìne - Distortion",
@@ -165,6 +141,30 @@
     {
       "builder": "Cleveland Music Co.",
       "pedal": "Smuffle Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cleveland Music Co.",
+      "pedal": "Superior Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cleveland Music Co.",
+      "pedal": "The Heights Dynadrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cleveland Music Co.",
+      "pedal": "WestSide Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cleveland Music Co.",
+      "pedal": "Woollybear Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
