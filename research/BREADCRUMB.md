@@ -1,10 +1,10 @@
-## Photo recovery correction - September 24, 2026
+## PRP1 resumed after photo gate closure - September 24, 2026
 
-Live tracker state after correction: 3770 total / 1271 researched / 1271 pictured / 1271 complete / 1 researched-photo-pending / 2499 photo-missing.
+Verified live tracker state: **3,770 total / 1,271 researched / 1,272 pictured / 1,272 complete / 0 researched-photo-pending / 2,498 photo-missing**.
 
-CBC Pedals - Harmonic Percolator was temporarily marked pictured by a bad recovery candidate. Visual inspection showed the generic Equipboard logo, so the asset was deleted and the record restored to NEEDED. The Equipboard brand-page lead was removed and the recovery identity gate was hardened.
+The final researched-photo blocker, **CBC Pedals - Harmonic Percolator**, now has a locally archived exact pedal photograph at `./assets/pedals/cbc-pedals/harmonic-percolator/primary.webp`. The exact asset was inspected directly before accepting the tracker transition to DONE. The earlier Equipboard-logo false positive had already been removed.
 
-PRP1 remains gated at 1 researched-photo pending.
+PRP1 has been opened and its CBC Harmonic Percolator intake package has been consumed. The next incomplete canonical PRP target is **CBC Pedals - Hop Hed Fuzztone**. Resume research from that record in exact catalog order.
 
 ---
 
