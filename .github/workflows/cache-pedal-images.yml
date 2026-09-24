@@ -15,6 +15,7 @@ on:
       - 'research/PHOTO_RECOVERY_KICK'
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: dirt-image-cache
@@ -149,6 +150,12 @@ jobs:
           # of throwing away a successful recovery batch.
           for attempt in 1 2 3 4 5; do
             if git push; then
+              if git diff-tree --no-commit-id --name-only -r HEAD | grep -Eq '^(assets/|research/PEDAL_INDEX\.json)'; then
+                echo "Public photo/catalog files changed; dispatching Pages deployment."
+                gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main
+              else
+                echo "No public photo/catalog files changed; no Pages deployment dispatch needed."
+              fi
               exit 0
             fi
             echo "Push race detected; rebasing cache commit (attempt $attempt/5)."
