@@ -1,41 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T13:54:11.585581+00:00",
+  "generated_at": "2026-09-24T13:55:21.609461+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1659,
+    "researched": 1662,
     "pictured": 1601,
     "complete": 1601,
-    "research_pending": 2106
+    "research_pending": 2103
   },
   "next_target": {
-    "builder": "Copilot FX",
-    "pedal": "Orbit",
+    "builder": "Copper Gear",
+    "pedal": "Black Howler",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Copilot FX",
-      "pedal": "Orbit",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Copilot FX",
-      "pedal": "Terra",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Copilot FX",
-      "pedal": "Trek",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Copper Gear",
       "pedal": "Black Howler",
@@ -165,6 +147,24 @@
     {
       "builder": "Cornell Amplification",
       "pedal": "The 1st Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cornerstone Music Gear",
+      "pedal": "Antique V3",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cornerstone Music Gear",
+      "pedal": "Centurio",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cornerstone Music Gear",
+      "pedal": "Colosseum",
       "catalog_type": "",
       "research_record": ""
     }

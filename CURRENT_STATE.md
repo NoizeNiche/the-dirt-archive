@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1659 researched / 1601 pictured / 1601 complete / 2106 research-pending / 58 researched-photo-pending**.
+Live catalog: **3765 total / 1662 researched / 1601 pictured / 1601 complete / 2103 research-pending / 61 researched-photo-pending**.
 
-**Next research target:** Copilot FX - Orbit.
+**Next research target:** Copper Gear - Black Howler.
 
-PRP1 closeout remains separate: 58 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 61 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-24T13:54:11.585581+00:00
+Last refreshed: 2026-09-24T13:55:21.609461+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
