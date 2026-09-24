@@ -12156,9 +12156,11 @@
   {
     "builder": "Chaos Custom Shop / Chaos FX",
     "pedal": "Lugola Fuzz",
-    "image": null,
+    "image": "./assets/pedals/chaos-custom-shop-chaos-fx/lugola-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Chaos Custom Shop - Chaos FX/Lugola Fuzz.md"
+    "research_record": "./research/pedals/Chaos Custom Shop - Chaos FX/Lugola Fuzz.md",
+    "image_source_url": "https://malibumusic.com/cdn/shop/files/IMG_5963.jpg?v=1771829424&width=1946",
+    "image_source_page": "https://malibumusic.com/products/horrothia-fx-lutz-fuzz"
   },
   {
     "builder": "Chaos Custom Shop / Chaos FX",
@@ -13663,7 +13665,8 @@
     "pedal": "P008 Golden Ratio Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Collateral FX/P008 Golden Ratio Fuzz.md"
+    "research_record": "./research/pedals/Collateral FX/P008 Golden Ratio Fuzz.md",
+    "image_source_page": "https://reverb.com/item/82425264-collateral-fx-golden-ratio"
   },
   {
     "builder": "Collateral FX",
