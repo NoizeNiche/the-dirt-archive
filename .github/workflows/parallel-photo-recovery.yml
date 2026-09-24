@@ -1,0 +1,186 @@
+name: Parallel photo catch-up
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - research/PHOTO_PARALLEL_KICK
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dirt-photo-parallel
+  cancel-in-progress: true
+
+jobs:
+  prepare:
+    name: Build photo matrix
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.matrix.outputs.matrix }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - id: matrix
+        name: Collect researched photo-pending records
+        shell: bash
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import csv, json
+          rows = list(csv.DictReader(open("research/PRP_TRACKER.csv", newline="", encoding="utf-8")))
+          targets = [
+              {"builder": r["Builder"], "pedal": r["Pedal"]}
+              for r in rows
+              if r.get("Pedal Info") == "DONE" and r.get("Picture") != "DONE"
+          ]
+          print("matrix=" + json.dumps({"include": targets}, ensure_ascii=False, separators=(",", ":")))
+          print(f"Prepared {len(targets)} photo targets.")
+          PY
+
+  recover:
+    name: Recover ${{ matrix.builder }} / ${{ matrix.pedal }}
+    needs: prepare
+    if: ${{ needs.prepare.outputs.matrix != '' }}
+    strategy:
+      fail-fast: false
+      max-parallel: 12
+      matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 20
+
+      - name: Install tooling
+        run: |
+          python -m pip install --disable-pip-version-check pillow
+          npm install --no-save playwright@1.63.0
+
+      - name: Cache Playwright browser
+        uses: actions/cache@v6
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}-${{ hashFiles('package-lock.json', 'package.json') }}
+          restore-keys: |
+            playwright-chromium-${{ runner.os }}-
+
+      - name: Ensure Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Apply current exact source leads
+        run: python scripts/apply-photo-source-overrides.py
+
+      - name: Recover exact pedal photo
+        continue-on-error: true
+        env:
+          PHOTO_BROWSER_TARGET_BUILDER: ${{ matrix.builder }}
+          PHOTO_BROWSER_TARGET_PEDAL: ${{ matrix.pedal }}
+          PHOTO_BROWSER_IMAGE_SEARCH: "true"
+          PHOTO_BROWSER_DEEP_REVIEW: "true"
+          PHOTO_BROWSER_REVISIT_PARKED: "false"
+          PHOTO_BROWSER_PAGE_TIMEOUT_MS: "7000"
+          PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "5000"
+          PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "4000"
+          PHOTO_BROWSER_CANDIDATE_LIMIT: "6"
+          PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "5"
+          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "30000"
+          PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "20000"
+          PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS: "4"
+          PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "6"
+        run: node scripts/browser-photo-cache.mjs
+
+      - name: Package verified recovery result
+        shell: bash
+        run: |
+          mkdir -p artifact
+          if find assets/pedals -type f -name '*.source' -print -quit | grep -q .; then
+            cp --parents $(find assets/pedals -type f -name '*.source') artifact/
+          fi
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          builder = ${{ toJSON(matrix.builder) }}
+          pedal = ${{ toJSON(matrix.pedal) }}
+          catalog = json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8"))
+          target = next(
+              p for p in catalog.get("pedals", [])
+              if p.get("company") == builder and p.get("pedal") == pedal
+          )
+          result = {
+              "builder": builder,
+              "pedal": pedal,
+              "image": target.get("image"),
+              "image_source_url": target.get("image_source_url"),
+              "image_source_page": target.get("image_source_page"),
+          }
+          Path("artifact/photo-recovery-result.json").write_text(
+              json.dumps(result, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8"
+          )
+          PY
+
+      - name: Upload recovery artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: photo-${{ strategy.job-index }}-${{ matrix.builder }}-${{ matrix.pedal }}
+          path: artifact/
+          if-no-files-found: ignore
+          retention-days: 1
+
+  merge:
+    name: Merge recovered photos
+    needs: [recover]
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Download recovery artifacts
+        uses: actions/download-artifact@v5
+        with:
+          path: recovery-artifacts
+
+      - name: Install image tooling
+        run: python -m pip install --disable-pip-version-check pillow
+
+      - name: Merge recovered sources and provenance
+        run: python scripts/merge-photo-recovery-results.py
+
+      - name: Convert and synchronize photos
+        run: python scripts/cache-pedal-images.py
+
+      - name: Synchronize research/photo state
+        run: |
+          python scripts/sync-prp-tracker.py
+          python scripts/sync-photo-backlog.py
+          python scripts/refresh-image-cache-report.py
+          python scripts/verify-photo-state.py
+
+      - name: Publish merged recovery batch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
+          if git diff --cached --quiet; then
+            echo "No parallel photo recoveries succeeded."
+            exit 0
+          fi
+          git commit -m "Archive parallel verified pedal photos"
+          git fetch origin main
+          git rebase origin/main
+          for attempt in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            git fetch origin main
+            git rebase origin/main
+          done
+          exit 1
