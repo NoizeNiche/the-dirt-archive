@@ -17681,10 +17681,14 @@
         "https://reverb.com/item/3942273-cbc-pedals-the-drive-zendrive-clone",
         "https://reverb.com/item/32819491-cbc-the-drive-zendrive-clone"
       ],
-      "image_source_page": "https://reverb.com/item/32819491-cbc-the-drive-zendrive-clone",
+      "image_source_page": "https://reverb.com/item/2817718-cbc-pedals-the-drive-zendrive-clone",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 392
+      "image_source_priority": 100000,
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s---ZZY1fIr--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ksvkzrwjbx72gn5en6hu.jpg"
+      ],
+      "image_source_url": "https://rvb-img.reverb.com/i/s---ZZY1fIr--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/ksvkzrwjbx72gn5en6hu.jpg"
     },
     {
       "company": "CBC Pedals",
