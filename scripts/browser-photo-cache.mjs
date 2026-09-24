@@ -3250,17 +3250,21 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           ].join(' '));
           const exactPedalPhrase = normalizedIdentity(entry.pedal);
           const exactBuilderPhrase = normalizedIdentity(entry.company);
-          const strongSearchIdentity =
-            pedalTokens.length > 0 &&
-            builderTokens.length > 0 &&
-            (
-              resultHaystack.includes(exactPedalPhrase) ||
-              pedalTokens.every(token => resultHaystack.includes(token))
-            ) &&
+          const builderIdentityMatch =
+            exactBuilderPhrase.length >= 3 &&
             (
               resultHaystack.includes(exactBuilderPhrase) ||
-              builderTokens.every(token => resultHaystack.includes(token))
-            ) &&
+              (builderTokens.length > 0 && builderTokens.every(token => resultHaystack.includes(token)))
+            );
+          const pedalIdentityMatch =
+            exactPedalPhrase.length >= 3 &&
+            (
+              resultHaystack.includes(exactPedalPhrase) ||
+              (pedalTokens.length > 0 && pedalTokens.every(token => resultHaystack.includes(token)))
+            );
+          const strongSearchIdentity =
+            builderIdentityMatch &&
+            pedalIdentityMatch &&
             result.purl &&
             /^https?:/i.test(result.purl);
 
