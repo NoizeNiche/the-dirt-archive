@@ -1,47 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T12:16:58.548459+00:00",
+  "generated_at": "2026-09-24T12:18:07.225480+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1591,
+    "researched": 1595,
     "pictured": 1544,
     "complete": 1544,
-    "research_pending": 2174
+    "research_pending": 2170
   },
   "next_target": {
     "builder": "Colorsound / Sola Sound",
-    "pedal": "B&M Champion Fuzz Unit",
+    "pedal": "Eurotec Black Box Fuzz Module",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "B&M Champion Fuzz Unit",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "B&M Champion Wah Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "B&M Fuzz Unit",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "Colorsound Supa Wah-Fuzz-Swell",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Colorsound / Sola Sound",
       "pedal": "Eurotec Black Box Fuzz Module",
@@ -165,6 +141,30 @@
     {
       "builder": "Commune",
       "pedal": "Senturion Preamp 500",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Commune/ECA (Empire Custom Amplification)",
+      "pedal": "Screem",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Commune/ECA (Empire Custom Amplification)",
+      "pedal": "Screem Mk-II",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Comodoro Pedales",
+      "pedal": "Botfly Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Comodoro Pedales",
+      "pedal": "Percolator Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
