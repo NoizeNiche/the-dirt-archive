@@ -715,8 +715,12 @@ async function rawVerifiedExternalSourceImages(page, entry, sourcePageUsed) {
       const builderHits = builderTokens.filter(token => hint.includes(token)).length;
       const exactPedal = normalizedIdentity(entry.pedal);
       const exact = exactPedal.length >= 5 && hint.includes(exactPedal);
-      if (!exact && pedalHits < 1) continue;
-      links.set(url.split('#')[0], { url: url.split('#')[0], score: (exact ? 110 : 70) + pedalHits * 12 + builderHits * 6 });
+      const catalogRecordFallback = entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass';
+      if (!catalogRecordFallback && !exact && pedalHits < 1) continue;
+      links.set(url.split('#')[0], {
+        url: url.split('#')[0],
+        score: (exact ? 110 : catalogRecordFallback ? 45 : 70) + pedalHits * 12 + builderHits * 6
+      });
     }
 
     for (const match of html.matchAll(/https?:\/\/(?:www\.)?(?:ebay\.com|reverb\.com)\/[^"'\s<>]+/gi)) {
@@ -734,18 +738,45 @@ async function rawVerifiedExternalSourceImages(page, entry, sourcePageUsed) {
     }
     for (const link of [...links.values()].sort((a, b) => b.score - a.score).slice(0, 4)) {
       try {
-        const identity = await fetchSearchPageIdentity(page, link.url);
-        if (!identity) continue;
-        if (!pageMatchesIdentity(entry, identity.title + ' ' + identity.body, identity.h1)) continue;
-
-        const rawImages = rawVerifiedPageImageUrls(identity.body, link.url);
-        // identity.body is stripped text, so use a second raw response to harvest
-        // the actual image URLs after the destination identity has been verified.
+        let identity = await fetchSearchPageIdentity(page, link.url);
         let htmlBody = '';
-        try {
-          const destination = await page.request.get(link.url, { timeout: PAGE_TIMEOUT });
-          if (destination.ok()) htmlBody = await destination.text();
-        } catch {}
+        if (!identity) {
+          try {
+            const proc = await execFileAsync('curl', [
+              '-L', '--silent', '--show-error', '--compressed',
+              '--connect-timeout', '3', '--max-time', '6',
+              '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
+              '-H', 'Accept-Language: en-US,en;q=0.9',
+              String(link.url)
+            ], { timeout: 7500, maxBuffer: 5 * 1024 * 1024 });
+            htmlBody = String(proc.stdout || '');
+            if (htmlBody) {
+              const title = (htmlBody.match(/<title[^>]*>([\\s\\S]*?)<\\/title>/i) || [,''])[1]
+                .replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+              const h1 = (htmlBody.match(/<h1[^>]*>([\\s\\S]*?)<\\/h1>/i) || [,''])[1]
+                .replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+              const body = htmlBody
+                .replace(/<script[\\s\\S]*?<\\/script>/gi, ' ')
+                .replace(/<style[\\s\\S]*?<\\/style>/gi, ' ')
+                .replace(/<[^>]+>/g, ' ')
+                .replace(/\\s+/g, ' ')
+                .slice(0, 300000);
+              identity = { title, h1, body };
+            }
+          } catch {}
+        }
+        if (!identity) continue;
+        if (!pageMatchesIdentity(entry, identity.title + ' ' + identity.body, identity.h1) &&
+            !(entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass' && reverbListingMatchesIdentity(entry, link.url, identity.title, identity.h1))) continue;
+
+        // The destination may have been fetched through curl only, so reuse that
+        // exact raw HTML rather than requesting it a second time.
+        if (!htmlBody) {
+          try {
+            const destination = await page.request.get(link.url, { timeout: PAGE_TIMEOUT });
+            if (destination.ok()) htmlBody = await destination.text();
+          } catch {}
+        }
         const images = rawVerifiedPageImageUrls(htmlBody, link.url);
         for (const imageUrl of [...new Set([...rawImages, ...images])]) {
           out.push({
