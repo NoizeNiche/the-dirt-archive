@@ -3574,12 +3574,39 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           const builderTokens = identityTokens(entry.company);
           const exactDatabasePage =
             /(^|\.)effectsdatabase\.com$/i.test(resultUrl.hostname) &&
-            /\/model\//i.test(resultUrl.pathname) &&
-            pedalTokens.length > 0 &&
-            pedalTokens.every(token => searchIdentity.includes(token));
+            /\/model\//i.test(resultUrl.pathname);
+
+          // Effects Database model paths are curated exact-product records, but
+          // the search-engine title/context does not always preserve every
+          // meaningful token after normalization. For example, generic type words
+          // such as "fuzz" are intentionally ignored by identityTokens, while a
+          // short model token may appear only in the URL. Treat a curated exact
+          // model path as trusted when its normalized path carries at least one
+          // meaningful model token, or when the path is one of this entry's
+          // explicitly verified source pages. The image itself still must pass the
+          // normal byte/render checks before it is archived.
+          const resultModelPath = normalizedIdentity(resultUrl.pathname);
+          const modelPathTokens = pedalTokens.filter(token =>
+            resultModelPath.includes(token)
+          );
+          const trustedCuratedDatabase =
+            exactDatabasePage &&
+            preferredSourcePages(entry).some(source => {
+              try {
+                const sourceUrl = new URL(source);
+                return /(^|\.)effectsdatabase\.com$/i.test(sourceUrl.hostname) &&
+                  normalizedIdentity(sourceUrl.pathname) === resultModelPath;
+              } catch {
+                return false;
+              }
+            });
+
           const trustedDatabase =
             exactDatabasePage &&
-            fit.pedalHits >= requiredHits;
+            (
+              trustedCuratedDatabase ||
+              (modelPathTokens.length >= 1 && fit.pedalHits >= Math.max(0, requiredHits - 1))
+            );
 
           const trustedMarketplace =
             /(^|\.)(reverb\.com|ebay\.com)$/i.test(resultUrl.hostname) &&
