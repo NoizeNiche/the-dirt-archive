@@ -1,113 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:26:59.505492+00:00",
+  "generated_at": "2026-09-24T10:29:08.809871+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1447,
+    "researched": 1462,
     "pictured": 1381,
     "complete": 1381,
-    "research_pending": 2318
+    "research_pending": 2303
   },
   "next_target": {
-    "builder": "Clayton",
-    "pedal": "X-Treme DS-160 Distortion",
+    "builder": "Clone Bro",
+    "pedal": "Taurus",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Clayton",
-      "pedal": "X-Treme DS-160 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Clayton",
-      "pedal": "X-Treme MT-170 Metal Driver",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Clayton",
-      "pedal": "X-Treme OD-160 Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Clear Sound",
-      "pedal": "Super Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cleveland Music Co.",
-      "pedal": "Bleepcakes Overfuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cleveland Music Co.",
-      "pedal": "EastSide Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cleveland Music Co.",
-      "pedal": "Flats Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cleveland Music Co.",
-      "pedal": "Midgeapocalypse Vintage Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cleveland Music Co.",
-      "pedal": "Old Stone Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cleveland Music Co.",
-      "pedal": "Smuffle Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cleveland Music Co.",
-      "pedal": "Superior Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cleveland Music Co.",
-      "pedal": "The Heights Dynadrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cleveland Music Co.",
-      "pedal": "WestSide Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cleveland Music Co.",
-      "pedal": "Woollybear Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "ClinchFX",
-      "pedal": "Blue Classic",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Clone Bro",
       "pedal": "Taurus",
@@ -165,6 +75,96 @@
     {
       "builder": "CMAT Mods",
       "pedal": "Signa Comp-Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMAT Mods",
+      "pedal": "Signa Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMAT Mods",
+      "pedal": "Super Signa Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMAT Mods",
+      "pedal": "Tube Slammer",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMAT Mods",
+      "pedal": "Tube Slammer Deluxe",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMC Audio",
+      "pedal": "Bi Filter Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMC Audio",
+      "pedal": "PROTO TYPE V2",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMI",
+      "pedal": "CMI Fuzz Unit",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CMI",
+      "pedal": "Wah Fuzz Swell",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CNZ Audio",
+      "pedal": "GDS-20 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CNZ Audio",
+      "pedal": "SCM-20 Crossfire Metal",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CNZ Audio",
+      "pedal": "SDU-20 Dumble Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CNZ Audio",
+      "pedal": "SFZ-20 Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CNZ Audio",
+      "pedal": "SOD-20 Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CNZ Audio",
+      "pedal": "VBL-20 Bluesy Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CNZ Audio",
+      "pedal": "VDU-20 Dumbled Drive",
       "catalog_type": "",
       "research_record": ""
     }
