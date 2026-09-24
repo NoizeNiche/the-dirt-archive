@@ -14712,7 +14712,7 @@
   {
     "builder": "CopperSound Pedals",
     "pedal": "Mystique Germanium Fuzz & Boost",
-    "image": null,
+    "image": "./assets/pedals/coppersound-pedals/mystique-germanium-fuzz-boost/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CopperSound Pedals/Mystique Germanium Fuzz & Boost.md"
   },
@@ -14775,7 +14775,7 @@
   {
     "builder": "Cornell Amplification",
     "pedal": "Over Drive Special",
-    "image": null,
+    "image": "./assets/pedals/cornell-amplification/over-drive-special/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cornell Amplification/Over Drive Special.md"
   },
@@ -14796,7 +14796,7 @@
   {
     "builder": "Cornerstone Music Gear",
     "pedal": "Centurio",
-    "image": null,
+    "image": "./assets/pedals/cornerstone-music-gear/centurio/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cornerstone Music Gear/Centurio.md"
   },
@@ -14831,14 +14831,14 @@
   {
     "builder": "Cornerstone Music Gear",
     "pedal": "Nero",
-    "image": null,
+    "image": "./assets/pedals/cornerstone-music-gear/nero/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cornerstone Music Gear/Nero.md"
   },
   {
     "builder": "Cornerstone Music Gear",
     "pedal": "Sparkle",
-    "image": null,
+    "image": "./assets/pedals/cornerstone-music-gear/sparkle/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cornerstone Music Gear/Sparkle.md"
   },
@@ -14873,35 +14873,35 @@
   {
     "builder": "Coron",
     "pedal": "Coron Octaver 2",
-    "image": null,
+    "image": "./assets/pedals/coron/coron-octaver-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coron/Coron Octaver 2.md"
   },
   {
     "builder": "Coron",
     "pedal": "Coron Over Drive",
-    "image": null,
+    "image": "./assets/pedals/coron/coron-over-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coron/Coron Over Drive.md"
   },
   {
     "builder": "Coron",
     "pedal": "D-500 Distortion",
-    "image": null,
+    "image": "./assets/pedals/coron/d-500-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coron/D-500 Distortion.md"
   },
   {
     "builder": "Coron",
     "pedal": "DT-510 Distortion",
-    "image": null,
+    "image": "./assets/pedals/coron/dt-510-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coron/DT-510 Distortion.md"
   },
   {
     "builder": "Coron",
     "pedal": "HD-520 Heavy Distortion",
-    "image": null,
+    "image": "./assets/pedals/coron/hd-520-heavy-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coron/HD-520 Heavy Distortion.md"
   },
@@ -14915,14 +14915,14 @@
   {
     "builder": "Coron",
     "pedal": "HO-320 Heavy Over Drive",
-    "image": null,
+    "image": "./assets/pedals/coron/ho-320-heavy-over-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coron/HO-320 Heavy Over Drive.md"
   },
   {
     "builder": "Coron",
     "pedal": "O-300 Over Drive",
-    "image": null,
+    "image": "./assets/pedals/coron/o-300-over-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coron/O-300 Over Drive.md"
   },
@@ -14943,7 +14943,7 @@
   {
     "builder": "Correct Sound",
     "pedal": "M1 Tube Preamp",
-    "image": null,
+    "image": "./assets/pedals/correct-sound/m1-tube-preamp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Correct Sound/M1 Tube Preamp.md"
   },
@@ -14957,7 +14957,7 @@
   {
     "builder": "Correct Sound",
     "pedal": "Tube Beta Hybrid Mk-II",
-    "image": null,
+    "image": "./assets/pedals/correct-sound/tube-beta-hybrid-mk-ii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Correct Sound/Tube Beta Hybrid Mk-II.md"
   },
@@ -15013,7 +15013,7 @@
   {
     "builder": "Cosmic Terror",
     "pedal": "Droog",
-    "image": null,
+    "image": "./assets/pedals/cosmic-terror/droog/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cosmic Terror/Droog.md"
   },
