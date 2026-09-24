@@ -1,43 +1,46 @@
 # ClinchFX — Blue Classic
 
 ## PRP identity
-- **Archive parent:** The Blue Classic
+- **Archive parent:** Blue Classic
 - **Builder:** ClinchFX
 - **Catalog type:** Overdrive
-- **Identity:** ClinchFX Blue Classic, an original dual-stage solid-state boost/overdrive using a transformer-coupled Class AB push-pull amplifier stage.
+- **Identity:** ClinchFX Blue Classic, a dual-stage solid-state overdrive using supply sag and an internal Class AB push-pull amplifier stage.
 
 ## What this pedal is
-ClinchFX developed the Blue Classic from a concept intended to achieve tube-like behavior from a solid-state pedal. The production circuit uses two stages: a first stage with controlled supply sag and adjustable mid-top boost, followed by a second stage that increases sag and drives the internal Class AB push-pull amplifier into distortion. ClinchFX describes it as an original design rather than a reworking of an established overdrive circuit. [1]
+ClinchFX describes the Blue Classic as a two-stage solid-state pedal that began as a 1990s attempt to create tube-like response without using tubes. The design evolved into its own sound, with a first stage that warms the signal through controlled supply sag and a second stage that adds Drive and increased sag to push an internal Class AB amplifier into distortion. [1]
 
 ## Colorways
-The exact finish sequence is not established by the checked sources.
+- The exact product page identifies the **Blue Classic** enclosure/color presentation. [1]
+- A complete historical colorway sequence was not established.
 
 ## Versions and factory options
-Documented controls/features include:
-- Output.
-- Voice.
-- Drive.
-- Right footswitch for true bypass.
-- Left footswitch for Drive mode. [1]
+Controls:
+- **Output**: overall level.
+- **Voice**: mid-top boost and harmonics.
+- **Drive**: enables the second gain stage and increases sag. [1]
 
-ClinchFX documents 1 MΩ input resistance and 9V DC operation. [1][2]
+Switches:
+- **Right footswitch**: true bypass.
+- **Left footswitch**: activates Drive mode and increased supply sag. [1]
+
+The builder documents:
+- Input resistance: 1 MOhm.
+- Input impedance: >150 kOhm.
+- 9V DC current draw: 0.45 mA bypass, 3.65 mA bypass with Drive active, 13 mA active without Drive, 17 mA active with Drive.
+- Non-slip base pad.
+- Battery access through the enclosure design. [1]
 
 ## Version changes
 No formal numbered factory revision sequence was established.
 
 ## Transistor
-No discrete transistor complement was published in the checked manufacturer documentation. The core output stage is explicitly described as a Class AB push-pull amplifier. [1]
+The builder describes the core output distortion stage as a **Class AB push-pull solid-state amplifier**. The exact transistor part numbers were not established. [1]
 
 ## Diode
-No exact-model diode specification was established.
+The builder's stated design goal is to avoid hard diode clipping in the main amplifier stage. No exact diode specification was established. [1]
 
 ## Sound
-In normal mode the Blue Classic fattens the guitar signal and can add breakup on louder notes and chords. Drive mode increases supply sag and preamp gain, moving into rock/blues overdrive distortion. ClinchFX emphasizes its dynamics and clean-up from lighter picking or the guitar volume control. [1]
-
-## Historical note
-ClinchFX states that the Blue Classic was the company's first pedal and that the concept originated in the early 1990s before being shelved and resumed in 2003. The business was registered in Australia in early 2005. [3]
+In normal mode, the Blue Classic fattens the tone and adds breakup on hard notes/chords. In Drive mode, the increased supply sag and Drive control push the Class AB amplifier into rock/blues overdrive distortion. The builder emphasizes fast transients, harmonic increase, and strong cleanup through lighter playing or guitar-volume reduction. [1]
 
 ## Sources checked
 1. ClinchFX — The Blue Classic: https://www.clinchfx.com/the-blue-classic/
-2. ClinchFX — Blue Classic manual: https://www.manualslib.com/manual/2049096/Clinchfx-Blue-Classic.html
-3. Effects Database — Peter Clinch interview: https://www.effectsdatabase.com/interviews/brands/clinchfx
