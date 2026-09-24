@@ -188,7 +188,10 @@ jobs:
             queries=[
               f'"{builder}" "{pedal}"',
               f'"{pedal}" "{builder}"',
-              f'"{pedal}" CBC'
+              f'site:cbcpedals.com "{pedal}"',
+              f'site:reverb.com "{builder}" "{pedal}"',
+              f'site:youtube.com "{builder}" "{pedal}"',
+              f'site:effectsdatabase.com "{builder}" "{pedal}"'
             ]
             web=[]; images=[]; seen_web=set(); seen_img=set()
             for q in queries:
@@ -200,8 +203,12 @@ jobs:
                   seen_web.add(url); web.append({"title":title,"url":url})
               raw=curl("https://www.bing.com/images/search?form=HDRSC2&q="+enc)
               for mm in re.finditer(r'(?:data-m|m)=["\']([^"\']+)',raw,re.I):
-                try: obj=json.loads(html.unescape(mm.group(1)))
-                except: continue
+                try:
+                  obj=json.loads(html.unescape(mm.group(1)))
+                except:
+                  continue
+                if not isinstance(obj, dict):
+                  continue
                 murl=obj.get("murl","")
                 if not murl or murl in seen_img: continue
                 seen_img.add(murl)
@@ -213,7 +220,12 @@ jobs:
                   "desc":obj.get("desc","")
                 })
 
+            web=[x for x in web if isinstance(x,dict)]
+            images=[x for x in images if isinstance(x,dict)]
+
             def score(x):
+              if not isinstance(x,dict):
+                return 0
               h=(x.get("title","")+" "+x.get("url","")+" "+x.get("purl","")).lower()
               s=0
               if pedal.lower() in h: s+=100
