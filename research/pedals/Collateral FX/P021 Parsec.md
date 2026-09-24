@@ -2,6 +2,7 @@
 
 ## PRP identity
 - **Archive parent:** P021 Parsec
+- **Catalog identity:** P021 Parsec Overdrive
 - **Builder:** Collateral FX
 - **Catalog type:** Overdrive / Boost
 - **Identity:** Collateral FX Parsec, a hi-fi low-compression overdrive/boost using a high-fidelity op-amp and symmetrical silicon clipping.
