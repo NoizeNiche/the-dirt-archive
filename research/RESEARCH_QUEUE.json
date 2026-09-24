@@ -1,47 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:34:58.292945+00:00",
+  "generated_at": "2026-09-24T10:37:40.601374+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1496,
-    "pictured": 1381,
-    "complete": 1381,
-    "research_pending": 2269
+    "researched": 1510,
+    "pictured": 1442,
+    "complete": 1442,
+    "research_pending": 2255
   },
   "next_target": {
-    "builder": "Codtone",
-    "pedal": "Fuzz for Bass",
+    "builder": "Coffee Shop Pedals",
+    "pedal": "Portafilter Dual Overdrive",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Codtone",
-      "pedal": "Fuzz for Bass",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Codtone",
-      "pedal": "Russian Bikini Ranger",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coffee Shop Pedals",
-      "pedal": "Affogato Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coffee Shop Pedals",
-      "pedal": "Donut Hole Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Coffee Shop Pedals",
       "pedal": "Portafilter Dual Overdrive",
@@ -69,66 +45,6 @@
     {
       "builder": "Coffin Gear / Coffin Case",
       "pedal": "BDFX-1 Blood Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "Darklighter",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "Dual Knightfall",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "Grand Tarkin Bass Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "Grand Tarkin Mk2",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "Knightfall",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "Knightfall 66",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "Mini 66 Bass Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "Rogue One Fuzz Octave",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "Tarkin Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "COG Effects",
-      "pedal": "Tarkin Mk2",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +81,90 @@
     {
       "builder": "Coggins Audio / Dinosaural",
       "pedal": "Dinosaural OPA-101 Overdriven Pre-amp",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coggins Audio / Dinosaural",
+      "pedal": "Dinosaural Tube Bender",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coggins Audio / Dinosaural",
+      "pedal": "Hypoid Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Black Dynamite MkII",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Black Lime IC Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Black Shuck OD/Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Cascade MkII",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Fiesta Fuzz Mini",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Fiesta Fuzz MkII",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Fusion Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Ramrod Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Sweet Cream OD",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Sweet Kiwi MkII",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cole Music Co.",
+      "pedal": "ParaDrive Parametric Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coleman",
+      "pedal": "Angry Dragon mkII - Germanium Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
