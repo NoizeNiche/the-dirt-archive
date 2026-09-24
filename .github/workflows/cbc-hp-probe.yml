@@ -95,6 +95,32 @@ jobs:
                 print("RESULT:",title,"|",href)
                 if len(seen)>=20: break
 
+          print("\nEMBEDDED URL HARVEST")
+          harvest_queries = [
+            '"Harmonic Percolator" "CBC Pedals"',
+            '"CBC Pedals" Percolator',
+            '"CBC Pedals" fuzz pedal',
+            'CBC pedals harmonic percolator clone'
+          ]
+          for q in harvest_queries:
+            for engine, base in [
+              ("GOOGLE","https://www.google.com/search?q="),
+              ("DDG","https://html.duckduckgo.com/html/?q=")
+            ]:
+              raw=html.unescape(curl(base+urllib.parse.quote(q))).replace('\\/','/')
+              urls=set()
+              for mm in re.finditer(r'https?://[^"\\s<>\\\\]+', raw, re.I):
+                u=urllib.parse.unquote(mm.group(0))
+                if any(x in u.lower() for x in [
+                  'equipboard.com','reverb.com','effectsdatabase.com',
+                  'guitarpedalx.com','guitargearfinder.com','thegearpage.net',
+                  'facebook.com','instagram.com','youtube.com','googleusercontent.com'
+                ]):
+                  urls.add(u.rstrip('),.;'))
+              print("\nENGINE:",engine,"QUERY:",q,"URLS:",len(urls))
+              for u in list(urls)[:40]:
+                print("URL:",u)
+
           print("\nDIRECT SLUG PROBES")
           slugs = [
             "https://equipboard.com/items/cbc-pedals-harmonic-percolator",
