@@ -110,6 +110,9 @@ jobs:
           if find assets/pedals -type f -name '*.source' -print -quit | grep -q .; then
             cp --parents $(find assets/pedals -type f -name '*.source') artifact/
           fi
+          if [ -f research/CAT_SOURCE_PROBE.json ]; then
+            cp research/CAT_SOURCE_PROBE.json artifact/
+          fi
           python - <<'PY'
           import json
           from pathlib import Path
