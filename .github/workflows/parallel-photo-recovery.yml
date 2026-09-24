@@ -83,43 +83,6 @@ jobs:
       - name: Apply current exact source leads
         run: python scripts/apply-photo-source-overrides.py
 
-      - name: Probe exact FY-2 source HTML
-        if: \${{ matrix.builder == 'CBC Pedals' && matrix.pedal == 'FY-2 Companion' }}
-        shell: bash
-        run: |
-          mkdir -p artifact
-          URL='https://reverb.com/uk/item/3181066-cbc-pedals-the-companion-fuzz-pedal-shin-ei-fy-2-with-boost-and-scoop-mods-in-an-industrial-alumin'
-          curl -L --silent --show-error --compressed \
-            --connect-timeout 4 --max-time 8 \
-            -A 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36' \
-            -H 'Accept-Language: en-US,en;q=0.9' \
-            -o artifact/fy2-reverb.html \
-            -w '%{http_code}\n%{content_type}\n%{url_effective}\n' \
-            "$URL" > artifact/fy2-http-meta.txt || true
-          python - <<'PY'
-          import html, json, re
-          from pathlib import Path
-          p = Path('artifact/fy2-reverb.html')
-          s = p.read_text(encoding='utf-8', errors='ignore') if p.exists() else ''
-          d = html.unescape(s).replace('\\\\u002F','/').replace('\\\\/','/')
-          urls = []
-          for pat in [
-              r'''https?://(?:rvb-img\\.reverb\\.com|static\\.reverb-assets\\.com)/[^"\\'\\s<>]+''',
-              r'''https?://images\\.reverb\\.com/[^"\\'\\s<>]+'''
-          ]:
-              urls.extend(re.findall(pat, d, re.I))
-          urls = list(dict.fromkeys(u.rstrip('\\\\;,') for u in urls))
-          title = ''
-          h1 = ''
-          m = re.search(r'<title[^>]*>([\\s\\S]*?)</title>', d, re.I)
-          if m: title = re.sub(r'\\s+',' ',re.sub(r'<[^>]+>',' ',m.group(1))).strip()
-          m = re.search(r'<h1[^>]*>([\\s\\S]*?)</h1>', d, re.I)
-          if m: h1 = re.sub(r'\\s+',' ',re.sub(r'<[^>]+>',' ',m.group(1))).strip()
-          out = {'title': title, 'h1': h1, 'image_urls': urls[:100], 'image_url_count': len(urls)}
-          Path('artifact/fy2-source-probe.json').write_text(json.dumps(out, ensure_ascii=False, indent=2) + '\\n', encoding='utf-8')
-          print(json.dumps(out, ensure_ascii=False, indent=2))
-          PY
-
       - name: Recover exact pedal photo
         continue-on-error: true
         env:
@@ -146,9 +109,6 @@ jobs:
           mkdir -p artifact
           if find assets/pedals -type f -name '*.source' -print -quit | grep -q .; then
             cp --parents $(find assets/pedals -type f -name '*.source') artifact/
-          fi
-          if [ -f research/CAT_SOURCE_PROBE.json ]; then
-            cp research/CAT_SOURCE_PROBE.json artifact/
           fi
           python - <<'PY'
           import json
