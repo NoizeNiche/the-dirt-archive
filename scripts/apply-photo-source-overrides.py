@@ -113,7 +113,7 @@ def main() -> None:
 
         direct = direct_overrides.get(key(entry.get("company", ""), entry.get("pedal", ""))) or []
         if direct:
-            direct_urls = list(dict.fromkeys(image_url for _, image_url, _ in direct))
+            direct_urls = list(dict.fromkeys(image_url for _, image_url, _ in reversed(direct)))
             direct_page = direct[-1][0]
             direct_url = direct_urls[-1]
             if entry.get("image_source_page") != direct_page:
