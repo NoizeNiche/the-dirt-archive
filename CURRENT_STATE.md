@@ -1,3 +1,17 @@
+<!-- AUTO:RESEARCH_PHASE_START -->
+## Active phase checkpoint
+
+The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
+
+Live catalog: **3765 total / 1278 researched / 1277 pictured / 1277 complete / 2487 research-pending / 1 researched-photo-pending**.
+
+**Next research target:** CBS-Arbiter - CBS-Arbiter Wah-Fuzz-Swell.
+
+PRP1 closeout remains separate: 1 researched record(s) still lack an exact local photo.
+The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
+Last refreshed: 2026-09-24T09:37:44.517306+00:00
+<!-- AUTO:RESEARCH_PHASE_END -->
+
 ## Live tracker checkpoint - September 24, 2026 (current)
 
 The live `research/PRP_TRACKER.csv` was re-counted directly from the current `main` tree. It contains **3,765 total records / 1,277 researched / 1,277 pictured / 1,277 PRP-complete / 1 researched-photo-pending / 2,488 photo-missing**. The single researched-photo-pending target is **CBS-Arbiter - CBS-Arbiter Fuzz Phazer**. Its exact-model Effects Database image lead is now recorded in the canonical catalog, and the parallel recovery lane has been kicked for this target. Do not advance PRP1 past this target until the exact local photo is verified and synchronized.

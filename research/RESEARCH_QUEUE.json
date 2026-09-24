@@ -1,35 +1,172 @@
 {
   "version": "catalog-research-phase-v1",
+  "generated_at": "2026-09-24T09:37:44.517306+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1277,
+    "researched": 1278,
     "pictured": 1277,
     "complete": 1277,
-    "research_pending": 2488
+    "research_pending": 2487
   },
   "next_target": {
     "builder": "CBS-Arbiter",
     "pedal": "CBS-Arbiter Wah-Fuzz-Swell",
-    "catalog_type": "Fuzz"
+    "catalog_type": "",
+    "research_record": ""
   },
   "working_set": [
     {
       "builder": "CBS-Arbiter",
       "pedal": "CBS-Arbiter Wah-Fuzz-Swell",
-      "catalog_type": "Fuzz"
+      "catalog_type": "",
+      "research_record": ""
     },
     {
       "builder": "CDB Pedals",
       "pedal": "Darkwater",
-      "catalog_type": "Distortion / Overdrive"
+      "catalog_type": "",
+      "research_record": ""
     },
     {
       "builder": "Cedar Custom Effects",
       "pedal": "Cedar Drive",
-      "catalog_type": "Overdrive"
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celebrity Pedals",
+      "pedal": "Adam Driver",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celebrity Pedals",
+      "pedal": "Distorsean Paul",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celebrity Pedals",
+      "pedal": "Djent Reznor",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celebrity Pedals",
+      "pedal": "Fuzzbulla",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celebrity Pedals",
+      "pedal": "Fuzztin Bieber",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celestial Effects",
+      "pedal": "Aquarius",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celestial Effects",
+      "pedal": "Aries - Beast Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celestial Effects",
+      "pedal": "Cancer - Wah The Fuzz?",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celestial Effects",
+      "pedal": "Capricorn - Rock Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celestial Effects",
+      "pedal": "Sagittarius - Overdrive Boost",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celestial Effects",
+      "pedal": "Taurus - Blues Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celestial Effects",
+      "pedal": "Virgo - Rock Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celmo",
+      "pedal": "Pimento Sardine Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Celmo",
+      "pedal": "Sardine Can",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Center Street Electronics",
+      "pedal": "Drone Station Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Center Street Electronics",
+      "pedal": "Druid Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Center Street Electronics",
+      "pedal": "God Hates Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Center Street Electronics",
+      "pedal": "Godly Red",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Center Street Electronics",
+      "pedal": "Rasputin Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Center Street Electronics",
+      "pedal": "The Murphy",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Century",
+      "pedal": "Century SDI-1 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Century",
+      "pedal": "Century SHM-8 Heavy Metal",
+      "catalog_type": "",
+      "research_record": ""
     }
   ]
 }
