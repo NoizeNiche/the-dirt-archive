@@ -158,6 +158,45 @@ jobs:
           print(json.dumps(out, ensure_ascii=False, indent=2))
           PY
 
+      - name: Probe exact CBC Harmonic Percolator YouTube search
+        shell: bash
+        run: |
+          mkdir -p artifact
+          python - <<'PY'
+          import json, re, subprocess, html, urllib.parse
+          from pathlib import Path
+          q = urllib.parse.quote('CBC Pedals Harmonic Percolator')
+          url = 'https://www.youtube.com/results?search_query=' + q
+          p = subprocess.run([
+              'curl','-L','--silent','--show-error','--compressed',
+              '--connect-timeout','3','--max-time','8',
+              '-A','Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
+              '-H','Accept-Language: en-US,en;q=0.9',
+              url
+          ], capture_output=True, text=True, errors='ignore', timeout=10)
+          s = p.stdout or ''
+          out = []
+          seen = set()
+          for m in re.finditer(r'"videoId":"([^"]+)"[\s\S]{0,1200}?"title":\{"runs":\[\{"text":"([^"]+)', s):
+              vid = m.group(1)
+              title = html.unescape(m.group(2))
+              if vid in seen: continue
+              seen.add(vid)
+              out.append({
+                'videoId': vid,
+                'title': title,
+                'watchUrl': 'https://www.youtube.com/watch?v='+vid,
+                'maxres': 'https://i.ytimg.com/vi/'+vid+'/maxresdefault.jpg',
+                'hq': 'https://i.ytimg.com/vi/'+vid+'/hqdefault.jpg'
+              })
+          out = out[:80]
+          Path('artifact/cbc-harmonic-percolator-youtube.json').write_text(
+              json.dumps({'query':'CBC Pedals Harmonic Percolator','results':out},ensure_ascii=False,indent=2)+'\n',
+              encoding='utf-8'
+          )
+          print(json.dumps({'query':'CBC Pedals Harmonic Percolator','results':out},ensure_ascii=False,indent=2))
+          PY
+
       - name: Recover exact pedal photo
         continue-on-error: true
         env:
