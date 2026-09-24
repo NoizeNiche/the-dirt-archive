@@ -36,6 +36,27 @@ def load_json(path):
         raise SystemExit(f"Could not parse {path}: {exc}")
 
 
+def suspicious_photo_provenance(manifest_entry, catalog_entry):
+    """Return hard red flags for assets that are not plausibly pedal photographs."""
+    values = [
+        str(manifest_entry.get("image_source_url") or ""),
+        str(manifest_entry.get("image_source_page") or ""),
+        str(catalog_entry.get("image_source_url") or ""),
+        str(catalog_entry.get("image_source_page") or ""),
+    ]
+    joined = " ".join(values).lower()
+    reasons = []
+    if re.search(r"(^|[/.?=&_-])favicon(?:\\.ico)?([/?#=&_.-]|$)", joined):
+        reasons.append("favicon source")
+    if re.search(r"freepnglogos\\.com", joined):
+        reasons.append("logo-library source")
+    if re.search(r"playground\\.com/templates/", joined):
+        reasons.append("generic template source")
+    if re.search(r"(^|[/_-])logo(?:\\d*)?(?:\\.[a-z0-9]+)?([/?#=&_-]|$)", joined):
+        reasons.append("logo asset source")
+    return reasons
+
+
 def as_rows(data, label):
     if isinstance(data, dict):
         for field in ("pedals", "images", "entries", "data"):
@@ -114,6 +135,12 @@ def main():
                 raise SystemExit(f"Picture=DONE without a local asset: {k} -> {image}")
             if manifest_image != image:
                 raise SystemExit(f"Catalog/manifest image mismatch: {k} -> {image} vs {manifest_image}")
+            red_flags = suspicious_photo_provenance(manifest_entry, entry)
+            if red_flags:
+                raise SystemExit(
+                    f"Picture=DONE has non-product photo provenance for {k}: "
+                    + ", ".join(red_flags)
+                )
         else:
             pending_tracker.add(k)
             asset = local_asset(image)
