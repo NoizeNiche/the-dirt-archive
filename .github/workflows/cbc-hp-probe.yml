@@ -64,6 +64,37 @@ jobs:
               seen.add(murl)
               print("IMAGE:", title, "|", murl, "| SOURCE:", purl)
               if len(seen)>=20: break
+          print("\nGOOGLE + DUCKDUCKGO EXACT SEARCH")
+          more_queries = [
+            '"Harmonic Percolator" "CBC Pedals"',
+            '"CBC Pedals" Percolator',
+            '"CBC Pedals" fuzz pedal percolator',
+            '"CBC" "Harmonic Percolator" pedal builder',
+            'site:equipboard.com "Harmonic Percolator" pedal CBC',
+            'site:reverb.com "Harmonic Percolator" CBC pedal'
+          ]
+          for q in more_queries:
+            for engine, base in [
+              ("GOOGLE","https://www.google.com/search?q="),
+              ("DDG","https://html.duckduckgo.com/html/?q=")
+            ]:
+              raw=curl(base+urllib.parse.quote(q))
+              print("\nENGINE:",engine,"QUERY:",q,"BYTES:",len(raw))
+              links=[]
+              for mm in re.finditer(r'<a[^>]+href=["\\']([^"\\']+)["\\'][^>]*>(.*?)</a>', raw, re.I|re.S):
+                href=html.unescape(mm.group(1))
+                title=re.sub(r'<[^>]+>',' ',html.unescape(mm.group(2)))
+                title=' '.join(title.split())
+                if not href.startswith('http'): continue
+                if any(host in href for host in ['google.com','duckduckgo.com','gstatic.com']): continue
+                links.append((title[:180],href))
+              seen=set()
+              for title,href in links:
+                if href in seen: continue
+                seen.add(href)
+                print("RESULT:",title,"|",href)
+                if len(seen)>=20: break
+
           print("\nDIRECT SLUG PROBES")
           slugs = [
             "https://equipboard.com/items/cbc-pedals-harmonic-percolator",
