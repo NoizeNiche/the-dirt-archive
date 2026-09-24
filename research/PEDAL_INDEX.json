@@ -18204,7 +18204,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/champion-leccy/the-dunsh/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion Leccy/The Dunsh.md"
     },
@@ -19128,7 +19128,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cicognani-engineering/double-decker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cicognani Engineering/Double Decker.md"
     },
@@ -19168,7 +19168,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/circle-of-tone/distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circle Of Tone/Distortion.md"
     },
@@ -21089,7 +21089,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/colorsound-sola-sound/b-m-fuzz-unit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Colorsound / Sola Sound/B&M Fuzz Unit.md",
       "image_source_page": "https://reverb.com/uk/item/91450474-vintage-70-s-barnes-and-mullins-b-m-fuzz-unit-by-colorsound-clean"
