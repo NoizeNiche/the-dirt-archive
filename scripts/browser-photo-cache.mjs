@@ -1368,6 +1368,16 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         diagnostic.sourceIdentityMatch = true;
         sourcePageUsed = sourcePageUsed || pageUrl;
 
+        // Reverb galleries often lazy-load the primary product image just below
+        // the heading. Trigger one small viewport move before harvesting browser
+        // response bytes, avoiding the much slower screenshot/search fallback.
+        if (isReverbListingUrl(pageUrl)) {
+          await page.mouse.wheel(0, 950).catch(() => {});
+          await page.waitForTimeout(350).catch(() => {});
+          await page.mouse.wheel(0, -950).catch(() => {});
+          await page.waitForTimeout(120).catch(() => {});
+        }
+
         // The live page has now passed exact builder/model identity verification.
         // Harvest its raw document media regardless of whether the source was
         // pre-flagged as verified. This catches relative WordPress uploads,
@@ -1629,7 +1639,13 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         // document while preserving the verified source-page referrer. Do not
         // apply this to search-engine candidates whose identity was not proven
         // by the image URL itself.
-        if (candidate?.sourcePage && !candidate.searchResult && !candidate.searchUrl) {
+        if (
+          candidate?.sourcePage &&
+          !candidate.searchResult &&
+          !candidate.searchUrl &&
+          !candidate.directImageOverride &&
+          !candidate.rawVerifiedPageImage
+        ) {
           const documentShot = await screenshotImageDocumentCandidate(candidate, 140);
           if (documentShot) {
             return { candidate, bytes: documentShot.bytes };
@@ -3083,11 +3099,21 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       return null;
     }
 
+    // Once an explicit source page has successfully passed exact identity,
+    // deep review should not repeatedly search marketplaces for the same pedal.
+    // Keep those searches available for failed/unloaded source pages and for fresh
+    // non-deep-review records.
+    const exactSourceVerified =
+      deepReview &&
+      hasExplicitSourcePage &&
+      diagnostic.sourcePageLoaded &&
+      diagnostic.sourceIdentityMatch;
+
     // Reverb sold listings are the preferred marketplace source for hard cases.
     // Reverb's Sold Listings filter exposes previously sold listings, and Reverb
     // requires listing photos to show the exact item being sold. Verify the listing
     // identity first, then harvest its actual listing photos.
-    if (!selectedResult && IMAGE_SEARCH_ENABLED) {
+    if (!selectedResult && IMAGE_SEARCH_ENABLED && !exactSourceVerified) {
       const soldResults = await reverbSoldCandidates(page, entry, deepReview);
       diagnostic.soldCandidates = soldResults.length;
       const verifiedSold = [];
@@ -3175,9 +3201,11 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       );
     }
 
-    // If no sold Reverb listing yielded a usable image, fall back to general
-    // image search and other indexed web results.
-    if (!selectedResult && IMAGE_SEARCH_ENABLED) {
+    // If no exact-source route yielded a usable image, fall back to general
+    // image search and other indexed web results. Deep-review records whose
+    // curated source page already passed identity stay source-first to avoid
+    // burning another full search cycle on the same hard case.
+    if (!selectedResult && IMAGE_SEARCH_ENABLED && !exactSourceVerified) {
       const searchResults = await imageSearchCandidates(page, entry, deepReview);
       diagnostic.imageSearchCandidates = searchResults.length;
       const verifiedSearch = [];
