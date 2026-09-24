@@ -12058,7 +12058,7 @@
   {
     "builder": "Champion City Effects",
     "pedal": "Ezekiel",
-    "image": null,
+    "image": "./assets/pedals/champion-city-effects/ezekiel/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Champion City Effects/Ezekiel.md"
   },
@@ -12688,7 +12688,7 @@
   {
     "builder": "Chuck Pedals",
     "pedal": "VTO",
-    "image": null,
+    "image": "./assets/pedals/chuck-pedals/vto/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chuck Pedals/VTO.md"
   },
@@ -13045,7 +13045,7 @@
   {
     "builder": "Cleveland Music Co.",
     "pedal": "EastSide Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cleveland-music-co/eastside-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cleveland Music Co./EastSide Overdrive.md"
   },
@@ -13066,7 +13066,7 @@
   {
     "builder": "Cleveland Music Co.",
     "pedal": "Old Stone Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cleveland-music-co/old-stone-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cleveland Music Co./Old Stone Overdrive.md"
   },
@@ -13360,7 +13360,7 @@
   {
     "builder": "Codtone",
     "pedal": "Russian Bikini Ranger",
-    "image": null,
+    "image": "./assets/pedals/codtone/russian-bikini-ranger/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Codtone/Russian Bikini Ranger.md"
   },
@@ -13612,7 +13612,7 @@
   {
     "builder": "Cole Music Co.",
     "pedal": "ParaDrive Parametric Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cole-music-co/paradrive-parametric-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cole Music Co./ParaDrive Parametric Overdrive.md"
   },
@@ -13633,14 +13633,14 @@
   {
     "builder": "Colfax Recorders",
     "pedal": "Porcelain Fuzz",
-    "image": null,
+    "image": "./assets/pedals/colfax-recorders/porcelain-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Colfax Recorders/Porcelain Fuzz.md"
   },
   {
     "builder": "Colfax Recorders",
     "pedal": "Zephyr Overdrive",
-    "image": null,
+    "image": "./assets/pedals/colfax-recorders/zephyr-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Colfax Recorders/Zephyr Overdrive.md"
   },
@@ -13654,7 +13654,7 @@
   {
     "builder": "Collateral FX",
     "pedal": "P005 Continuum OD",
-    "image": null,
+    "image": "./assets/pedals/collateral-fx/p005-continuum-od/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Collateral FX/P005 Continuum OD.md"
   },
@@ -13675,21 +13675,21 @@
   {
     "builder": "Collateral FX",
     "pedal": "P011 Chili Pre",
-    "image": null,
+    "image": "./assets/pedals/collateral-fx/p011-chili-pre/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Collateral FX/P011 Chili Pre.md"
   },
   {
     "builder": "Collateral FX",
     "pedal": "P012 Constellation OD",
-    "image": null,
+    "image": "./assets/pedals/collateral-fx/p012-constellation-od/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Collateral FX/P012 Constellation OD.md"
   },
   {
     "builder": "Collateral FX",
     "pedal": "P013 Black Hole Sunn",
-    "image": null,
+    "image": "./assets/pedals/collateral-fx/p013-black-hole-sunn/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Collateral FX/P013 Black Hole Sunn.md"
   },
