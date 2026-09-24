@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T13:33:24.117473+00:00",
+  "generated_at": "2026-09-24T13:34:53.284525+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1635,
+    "researched": 1642,
     "pictured": 1592,
     "complete": 1592,
-    "research_pending": 2130
+    "research_pending": 2123
   },
   "next_target": {
     "builder": "Cool Bear Effects",
@@ -21,48 +21,6 @@
     {
       "builder": "Cool Bear Effects",
       "pedal": "Grizzly Bear",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coolmusic",
-      "pedal": "C-DI01 Insane Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coolmusic",
-      "pedal": "C-DI02 Classic Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coolmusic",
-      "pedal": "C-FC1 Fuzzster",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coolmusic",
-      "pedal": "C-OV01 Crunchy Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coolmusic",
-      "pedal": "HG-7 High Gain",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coolmusic",
-      "pedal": "MT-6 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coolmusic",
-      "pedal": "Multiple Distortion",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +123,48 @@
     {
       "builder": "Copilot FX",
       "pedal": "Orbit",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Copilot FX",
+      "pedal": "Terra",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Copilot FX",
+      "pedal": "Trek",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Copper Gear",
+      "pedal": "Black Howler",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Copper Gear",
+      "pedal": "Brontide Device",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Copper Gear",
+      "pedal": "Distorta Azura",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Copper Gear",
+      "pedal": "Distorta Destructo",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Copper Gear",
+      "pedal": "Distorta Obscura",
       "catalog_type": "",
       "research_record": ""
     }
