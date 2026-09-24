@@ -1509,6 +1509,135 @@ async function richSourceImageUrls(page, pageUrl) {
   }
 }
 
+async function legacyCbcSourcePages(page, entry) {
+  if (entry.company !== 'CBC Pedals' || entry.pedal !== 'Harmonic Percolator') return [];
+
+  const discovered = new Set();
+  const exactNeedles = ['harmonic percolator', 'percolator', 'hp 1', 'hp-1'];
+
+  const addIfUseful = (rawUrl, hint = '') => {
+    if (!rawUrl) return;
+    let url;
+    try {
+      url = /^https?:/i.test(rawUrl) ? rawUrl : new URL(rawUrl, 'https://cbcpedals.com/').href;
+    } catch {
+      return;
+    }
+    if (!/^https?:/i.test(url)) return;
+    if (/(^|\\.)bing\\.com$|(^|\\.)google\\.com$|(^|\\.)duckduckgo\\.com$/i.test(new URL(url).hostname)) return;
+    const haystack = normalizedIdentity(String(hint || '') + ' ' + url);
+    if (exactNeedles.some(needle => haystack.includes(normalizedIdentity(needle)))) {
+      discovered.add(url.split('#')[0]);
+    }
+  };
+
+  const seedPages = [
+    'https://cbcpedals.com/category-s/1820.htm',
+    'http://cbcpedals.com/category-s/1820.htm',
+    'https://cbcpedals.com/sitemap.xml',
+    'http://cbcpedals.com/sitemap.xml'
+  ];
+
+  for (const seed of seedPages) {
+    try {
+      const response = await page.request.get(seed, { timeout: SEARCH_TIMEOUT });
+      if (!response.ok()) continue;
+      const html = await response.text();
+      for (const match of html.matchAll(/<a\\b[^>]+href=["']([^"']+)["'][^>]*>([\\s\\S]*?)<\\/a>/gi)) {
+        const textHint = String(match[2] || '').replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+        addIfUseful(match[1], textHint);
+      }
+      for (const match of html.matchAll(/https?:\\/\\/[^"'\\s<>]+/gi)) {
+        addIfUseful(match[0], html.slice(Math.max(0, match.index - 500), match.index + 500));
+      }
+    } catch {}
+  }
+
+  // Search the legacy host directly. Current search indexes may not surface
+  // the old storefront anymore, so keep this query independent from the normal
+  // maker-web ranking and only retain URLs carrying the exact pedal identity.
+  for (const query of [
+    'site:cbcpedals.com "Harmonic Percolator"',
+    'site:cbcpedals.com "CBC Pedals" "Harmonic Percolator"',
+    '"cbcpedals.com" "Harmonic Percolator"'
+  ]) {
+    try {
+      const searchUrl = 'https://www.bing.com/search?q=' + encodeURIComponent(query);
+      const response = await page.request.get(searchUrl, { timeout: SEARCH_TIMEOUT });
+      if (!response.ok()) continue;
+      const html = await response.text();
+      for (const match of html.matchAll(/<li[^>]+class=["'][^"']*b_algo[^"']*["'][^>]*>[\\s\\S]*?<h2[^>]*>\\s*<a[^>]+href=["']([^"']+)["'][^>]*>([\\s\\S]*?)<\\/a>/gi)) {
+        const title = String(match[2] || '').replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+        addIfUseful(match[1].replace(/&amp;/g, '&'), title);
+      }
+    } catch {}
+  }
+
+  // Internet Archive CDX is valuable for dead boutique storefronts. Query only
+  // the legacy CBC host and only retain archived URLs whose original URL itself
+  // carries the exact model name. The snapshot page is subsequently subjected to
+  // the normal exact-model identity gate before any image can be captured.
+  const cdxQueries = [
+    'https://web.archive.org/cdx/search/cdx?url=cbcpedals.com/*harmonic*&output=json&filter=statuscode:200&fl=timestamp,original&collapse=urlkey&limit=50',
+    'https://web.archive.org/cdx/search/cdx?url=cbcpedals.com/*percolator*&output=json&filter=statuscode:200&fl=timestamp,original&collapse=urlkey&limit=50',
+    'https://web.archive.org/cdx/search/cdx?url=cbcpedals.com/*hp-1*&output=json&filter=statuscode:200&fl=timestamp,original&collapse=urlkey&limit=50'
+  ];
+  for (const cdxUrl of cdxQueries) {
+    try {
+      const response = await page.request.get(cdxUrl, { timeout: SEARCH_TIMEOUT });
+      if (!response.ok()) continue;
+      const raw = await response.text();
+      let rows = [];
+      try { rows = JSON.parse(raw); } catch {}
+      if (!Array.isArray(rows) || rows.length < 2) continue;
+      for (const row of rows.slice(1)) {
+        if (!Array.isArray(row) || row.length < 2) continue;
+        const timestamp = String(row[0] || '').trim();
+        const original = String(row[1] || '').trim();
+        if (!/^\\d{10,14}$/.test(timestamp) || !/^https?:\\/\\//i.test(original)) continue;
+        addIfUseful(
+          'https://web.archive.org/web/' + timestamp + 'id_/' + original,
+          'CBC Pedals Harmonic Percolator archived source ' + original
+        );
+      }
+    } catch {}
+  }
+
+  // A snapshot of the known old category page can contain product links even
+  // when the product URL itself was never captured in search indexes.
+  const archivedCategoryCdx =
+    'https://web.archive.org/cdx/search/cdx?url=cbcpedals.com/category-s/1820.htm&output=json&filter=statuscode:200&fl=timestamp,original&collapse=digest&limit=10';
+  try {
+    const response = await page.request.get(archivedCategoryCdx, { timeout: SEARCH_TIMEOUT });
+    if (response.ok()) {
+      const raw = await response.text();
+      let rows = [];
+      try { rows = JSON.parse(raw); } catch {}
+      for (const row of Array.isArray(rows) ? rows.slice(1, 6) : []) {
+        if (!Array.isArray(row) || row.length < 2) continue;
+        const timestamp = String(row[0] || '').trim();
+        const original = String(row[1] || '').trim();
+        if (!/^\\d{10,14}$/.test(timestamp) || !/^https?:\\/\\//i.test(original)) continue;
+        const snapshot = 'https://web.archive.org/web/' + timestamp + 'id_/' + original;
+        try {
+          const snap = await page.request.get(snapshot, { timeout: SEARCH_TIMEOUT });
+          if (!snap.ok()) continue;
+          const html = await snap.text();
+          for (const match of html.matchAll(/https?:\\/\\/cbcpedals\\.com[^"'\\s<>]+/gi)) {
+            addIfUseful(match[0], html.slice(Math.max(0, match.index - 600), match.index + 600));
+          }
+          for (const match of html.matchAll(/(?:href|src)=["']([^"']+)["']/gi)) {
+            const hint = html.slice(Math.max(0, match.index - 700), match.index + 700);
+            addIfUseful(match[1], hint);
+          }
+        } catch {}
+      }
+    }
+  } catch {}
+
+  return [...discovered].slice(0, 12);
+}
+
 async function curlExactSourceCandidates(entry) {
   if (!entry?.company || !entry?.pedal) return [];
   const query = '"' + entry.company + '" "' + entry.pedal + '" pedal';
