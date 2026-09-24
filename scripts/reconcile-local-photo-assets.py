@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import csv
+import hashlib
 import json
 import re
 from pathlib import Path
@@ -16,7 +17,11 @@ ASSETS = Path("assets/pedals")
 
 def slug(value: str) -> str:
     raw = str(value or "").strip().lower()
-    return re.sub(r"[^a-z0-9]+", "-", raw).strip("-") or "unknown"
+    normalized = re.sub(r"[^a-z0-9]+", "-", raw).strip("-") or "unknown"
+    if len(normalized) <= 90:
+        return normalized
+    digest = hashlib.sha1(raw.encode("utf-8")).hexdigest()[:10]
+    return normalized[:79].rstrip("-") + "-" + digest
 
 
 def rel(path: Path) -> str:
