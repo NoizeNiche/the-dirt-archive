@@ -17674,9 +17674,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cbc-pedals/fy-2-companion/primary.webp",
       "source_page": null,
-      "research_record": null
+      "research_record": "./research/pedals/CBC Pedals/FY-2 Companion.md",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/companion_fy-2_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/companion/fy2"
     },
     {
       "company": "CBC Pedals",
