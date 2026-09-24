@@ -55,12 +55,40 @@ def main():
         raise SystemExit("Target manifest entry missing.")
 
     review_status = None
+    review_rows = []
+    review_fields = ["Builder", "Pedal", "Catalog Type", "Status", "Attempts", "Last Failure", "Deep Review Cycles"]
     if PHOTO_REVIEW_QUEUE.exists():
         with PHOTO_REVIEW_QUEUE.open(newline="", encoding="utf-8") as handle:
-            for row in csv.DictReader(handle):
-                if norm(row.get("Builder")) == norm(builder) and norm(row.get("Pedal")) == norm(pedal):
-                    review_status = row.get("Status")
-                    break
+            review_rows = list(csv.DictReader(handle))
+        for row in review_rows:
+            if norm(row.get("Builder")) == norm(builder) and norm(row.get("Pedal")) == norm(pedal):
+                review_status = row.get("Status")
+                break
+
+    # The PRP1 rebase/stash boundary can legitimately restore a clean review
+    # queue after the browser worker has failed. Do not turn that persistence
+    # race into a red workflow. Create a durable PARKED record here so the
+    # unresolved exact-photo case remains visible to deeper photo recovery.
+    if not photo_complete and review_status not in {"DEEP_REVIEW", "PARKED"}:
+        review_rows.append({
+            "Builder": builder,
+            "Pedal": pedal,
+            "Catalog Type": next(
+                (x.get("types", [""])[0] if x.get("types") else "")
+                for x in catalog.get("pedals", [])
+                if norm(x.get("company")) == norm(builder)
+                and norm(x.get("pedal")) == norm(pedal)
+            ),
+            "Status": "PARKED",
+            "Attempts": "0",
+            "Last Failure": "PRP1 target remained without an exact local photo after automatic recovery; parked for deeper/manual photo research.",
+            "Deep Review Cycles": "0",
+        })
+        with PHOTO_REVIEW_QUEUE.open("w", newline="", encoding="utf-8") as handle:
+            writer = csv.DictWriter(handle, fieldnames=review_fields, lineterminator="\n")
+            writer.writeheader()
+            writer.writerows(review_rows)
+        review_status = "PARKED"
 
     if photo_complete:
         if manifest_entry.get("image") != image:
