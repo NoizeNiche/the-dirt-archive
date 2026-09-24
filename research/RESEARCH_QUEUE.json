@@ -1,71 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T12:14:04.469279+00:00",
+  "generated_at": "2026-09-24T12:15:46.181405+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1582,
+    "researched": 1590,
     "pictured": 1544,
     "complete": 1544,
-    "research_pending": 2183
+    "research_pending": 2175
   },
   "next_target": {
-    "builder": "Colombo Audio Electronics",
-    "pedal": "Over Drive",
+    "builder": "Color Audio",
+    "pedal": "Cassette Preamp",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Colombo Audio Electronics",
-      "pedal": "Over Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colombo Audio Electronics",
-      "pedal": "Plexi Breed",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colombo Audio Electronics",
-      "pedal": "Pulse Driver",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colombo Audio Electronics",
-      "pedal": "Rocker 83",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colombo Audio Electronics",
-      "pedal": "Southern Stalker",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colombo Audio Electronics",
-      "pedal": "The One",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colombo Audio Electronics",
-      "pedal": "Utopia Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Colombo Audio Electronics",
-      "pedal": "Via Lattea",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Color Audio",
       "pedal": "Cassette Preamp",
@@ -165,6 +117,54 @@
     {
       "builder": "ColorTone Fx / Pedal Tank",
       "pedal": "OD-909 Overdrive Pro",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Colortone Pedals",
+      "pedal": "Parasite Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Columbus",
+      "pedal": "DST-5 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Columbus",
+      "pedal": "MTL-5 Ultra Metal",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Columbus",
+      "pedal": "OVD-5 Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Columbus",
+      "pedal": "TDR-5 Tube Driver",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Comet Effects",
+      "pedal": "Hyperdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Commune",
+      "pedal": "Senturion Crazy Booster",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Commune",
+      "pedal": "Senturion Modern Factor",
       "catalog_type": "",
       "research_record": ""
     }
