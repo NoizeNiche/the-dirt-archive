@@ -1,5 +1,13 @@
 ## PRP1 queue checkpoint - September 24, 2026
 
+The archive has now completed the CBC The Drive, CBC The Superfuzz, and CBS-Arbiter Doubler atomic PRP1 units.
+
+Live tracker: **3,765 total / 1,275 researched / 1,275 pictured / 1,275 complete / 0 researched-photo-pending / 2,490 photo-missing**.
+
+The next tracker-order target is **CBS-Arbiter - CBS-Arbiter Fuzz Face**. Research is conservative around component specifics, with unit-specific 2N3392 evidence kept separate from broader Arbiter silicon-era context.
+
+## PRP1 queue checkpoint - September 24, 2026
+
 The archive has completed the CBC The Drive and CBC The Superfuzz atomic PRP1 units. The next tracker-order target is **CBS-Arbiter - CBS-Arbiter Doubler**.
 
 Live tracker: **3,765 total / 1,274 researched / 1,274 pictured / 1,274 complete / 0 researched-photo-pending / 2,491 photo-missing**.

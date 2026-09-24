@@ -1,5 +1,13 @@
 ## PRP1 queue checkpoint - September 24, 2026
 
+PRP1 has now published **CBC Pedals - The Drive**, **CBC Pedals - The Superfuzz**, and **CBS-Arbiter - CBS-Arbiter Doubler** as complete atomic units. The strict local-photo gate remains clear.
+
+The live tracker currently parses to **3,765 total / 1,275 researched / 1,275 pictured / 1,275 PRP-complete / 0 researched-photo-pending / 2,490 photo-missing**.
+
+The next exact-order incomplete target is **CBS-Arbiter - CBS-Arbiter Fuzz Face**. Its intake package is queued with Effects Database and exact CBS-Arbiter Reverb sources. The exact-local-photo requirement remains unchanged.
+
+## PRP1 queue checkpoint - September 24, 2026
+
 PRP1 has advanced through **CBC Pedals - The Drive** and **CBC Pedals - The Superfuzz**. Both have published research records and exact local photographs, and the global researched-photo gate remains clear.
 
 The live tracker now parses to **3,765 total / 1,274 researched / 1,274 pictured / 1,274 PRP-complete / 0 researched-photo-pending / 2,491 photo-missing**.
