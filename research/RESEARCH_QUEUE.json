@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:31:28.675591+00:00",
+  "generated_at": "2026-09-24T10:32:47.629596+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1476,
+    "researched": 1485,
     "pictured": 1381,
     "complete": 1381,
-    "research_pending": 2289
+    "research_pending": 2280
   },
   "next_target": {
     "builder": "CMC Audio",
@@ -27,60 +27,6 @@
     {
       "builder": "CMC Audio",
       "pedal": "PROTO TYPE V2",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CMI",
-      "pedal": "CMI Fuzz Unit",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CMI",
-      "pedal": "Wah Fuzz Swell",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CNZ Audio",
-      "pedal": "GDS-20 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CNZ Audio",
-      "pedal": "SCM-20 Crossfire Metal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CNZ Audio",
-      "pedal": "SDU-20 Dumble Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CNZ Audio",
-      "pedal": "SFZ-20 Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CNZ Audio",
-      "pedal": "SOD-20 Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CNZ Audio",
-      "pedal": "VBL-20 Bluesy Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CNZ Audio",
-      "pedal": "VDU-20 Dumbled Drive",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +111,60 @@
     {
       "builder": "Coffee Shop Pedals",
       "pedal": "Portafilter Dual Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coffin Case",
+      "pedal": "Batula Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coffin Case",
+      "pedal": "Blood Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coffin Gear / Coffin Case",
+      "pedal": "Batula Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coffin Gear / Coffin Case",
+      "pedal": "BDFX-1 Blood Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "Darklighter",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "Dual Knightfall",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "Grand Tarkin Bass Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "Grand Tarkin Mk2",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "COG Effects",
+      "pedal": "Knightfall",
       "catalog_type": "",
       "research_record": ""
     }

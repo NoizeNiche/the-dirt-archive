@@ -1477,15 +1477,15 @@ CMAT Mods,Tube Slammer,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/
 CMAT Mods,Tube Slammer Deluxe,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CMAT Mods/Tube Slammer Deluxe.md
 CMC Audio,Bi Filter Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 CMC Audio,PROTO TYPE V2,Overdrive,NEEDED,NEEDED,NEEDED,
-CMI,CMI Fuzz Unit,Fuzz,NEEDED,NEEDED,NEEDED,
-CMI,Wah Fuzz Swell,Fuzz,NEEDED,NEEDED,NEEDED,
-CNZ Audio,GDS-20 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-CNZ Audio,SCM-20 Crossfire Metal,Distortion,NEEDED,NEEDED,NEEDED,
-CNZ Audio,SDU-20 Dumble Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-CNZ Audio,SFZ-20 Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-CNZ Audio,SOD-20 Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-CNZ Audio,VBL-20 Bluesy Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-CNZ Audio,VDU-20 Dumbled Drive,Overdrive,NEEDED,NEEDED,NEEDED,
+CMI,CMI Fuzz Unit,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/CMI/CMI Fuzz Unit.md
+CMI,Wah Fuzz Swell,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/CMI/Wah Fuzz Swell.md
+CNZ Audio,GDS-20 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/CNZ Audio/GDS-20 Distortion.md
+CNZ Audio,SCM-20 Crossfire Metal,Distortion,DONE,NEEDED,NEEDED,./research/pedals/CNZ Audio/SCM-20 Crossfire Metal.md
+CNZ Audio,SDU-20 Dumble Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CNZ Audio/SDU-20 Dumble Overdrive.md
+CNZ Audio,SFZ-20 Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/CNZ Audio/SFZ-20 Fuzz.md
+CNZ Audio,SOD-20 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CNZ Audio/SOD-20 Overdrive.md
+CNZ Audio,VBL-20 Bluesy Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CNZ Audio/VBL-20 Bluesy Overdrive.md
+CNZ Audio,VDU-20 Dumbled Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CNZ Audio/VDU-20 Dumbled Drive.md
 Cobrahawk,B12 Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Cobrahawk,B12 Go Fuzz Yourself (Paul),Fuzz,NEEDED,NEEDED,NEEDED,
 Cobrahawk,JRC4558 OD-8 Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
