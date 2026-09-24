@@ -18,10 +18,9 @@ permissions:
 
 concurrency:
   group: dirt-image-cache
-  # Keep recovery passes serialized. This is the last known-good Actions
-  # concurrency mode; the browser itself is now bounded so queued work drains
-  # substantially faster.
-  cancel-in-progress: false
+  # Prefer the newest recovery pass. Older browser runs are disposable and can
+  # block improved recovery logic for several minutes.
+  cancel-in-progress: true
 
 jobs:
   cache:
