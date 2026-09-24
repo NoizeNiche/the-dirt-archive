@@ -1196,9 +1196,8 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
     } catch {}
   }
 
-
-}
   return [...merged.values()];
+}
 
 async function effectsDatabaseFeedImageUrls(page, pageUrl) {
   try {
