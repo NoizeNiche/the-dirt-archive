@@ -1304,7 +1304,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/adv-systems/distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ADV Systems/#distortion.md",
       "image_source_pages": [
@@ -1313,7 +1313,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/advsystems/distortion",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 332
+      "image_source_priority": 332,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/advsystems_distortion_001.jpg"
     },
     {
       "company": "ADV Systems",
@@ -8357,7 +8358,7 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/",
       "research_record": "./research/pedals/PRP Batch 085/Monk Boost.md",
-      "image_source_page": "https://reverb.com/ca/item/84529535-big-monk-electronic-device-co-the-monk-boost-pre-order",
+      "image_source_page": "https://reverb.com/au/item/84529535-big-monk-electronic-device-co-the-monk-boost-pre-order",
       "image_source_page_verified": true,
       "image_source_priority": 100000,
       "image_source_pages": [
@@ -11061,7 +11062,7 @@
         "https://reverb.com/p/blakemore-effects-deus-ex-machina"
       ],
       "image_source_pages_verified": true,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--MnM2xmYe--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgejj6gcrbrpjtaz8bki.jpg",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--FWmPP26u--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/dgejj6gcrbrpjtaz8bki.jpg",
       "image_source_urls": [
         "https://rvb-img.reverb.com/i/s--MnM2xmYe--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/dgejj6gcrbrpjtaz8bki.jpg"
       ]
@@ -12181,7 +12182,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/box/distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/box-distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/box/distortion",
@@ -12190,7 +12191,8 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/box/distortion"
       ],
-      "image_source_pages_verified": true
+      "image_source_pages_verified": true,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/box_distortion_001.jpg"
     },
     {
       "company": "BR Tech",
@@ -13594,8 +13596,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/byoc/855drive",
       "research_record": "./research/pedals/PRP Batch 128/build-your-own-clone-855-drive.md",
-      "image_source_page": "https://reverb.com/item/42880976-b-y-o-c-855-drive-pre-built-pedal",
-      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--o3Abhu9Q--/f_auto%2Ct_large/v1628216579/sfzszxicskfbnsamt9m6.jpg",
+      "image_source_page": "https://reverb.com/item/82964100-byoc-855-drive-ibanez-855-clone",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--bi8r40S2--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hg0kjidi0ydij5ovby9t.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 100000,
       "image_source_pages": [
@@ -14499,7 +14501,7 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal?page=7",
       "research_record": "./research/pedals/PRP Batch 135/c14-devices-tone-chaser.md",
-      "image_source_page": "https://reverb.com/item/62115885-carbono-14-chaser-world-s-first-full-carbon-fiber-pedal",
+      "image_source_page": "https://reverb.com/ca/item/62257684-carbono-14-tone-chaser-cc-world-s-first-full-carbon-fiber-pedal",
       "image_source_page_verified": true,
       "image_source_priority": 100000,
       "image_source_pages": [
@@ -14510,7 +14512,7 @@
         "https://reverb.com/item/62115885-carbono-14-chaser-world-s-first-full-carbon-fiber-pedal"
       ],
       "image_source_pages_verified": true,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--3NCUGe77--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y0zpfad4e56upyf7ieya.jpg",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--34dOhtdB--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cqrqoclibyrcbzozkqkq.jpg",
       "image_source_urls": [
         "https://rvb-img.reverb.com/i/s--AaI--KbC--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ta8ayptvxuochc14lffr.jpg",
         "https://rvb-img.reverb.com/i/s--0wjj49Gc--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/vzgf6y44tjdz9oyldfkl.jpg",
@@ -15537,7 +15539,7 @@
         "https://reverb.com/item/58787790-cameltone-electronics-big-stuff"
       ],
       "image_source_pages_verified": true,
-      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--P7gcV82k--/f_auto%2Ct_large/v1580435657/y2pv8jtiatsbuuoagwsn.jpg",
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--RT9tEuAy--/f_auto%2Ct_large/v1659479828/n4iwfp1hi9uohb1mw27a.jpg",
       "image_source_urls": [
         "https://rvb-img.reverb.com/image/upload/s--RT9tEuAy--/f_auto%2Ct_large/v1659479828/n4iwfp1hi9uohb1mw27a.jpg",
         "https://rvb-img.reverb.com/image/upload/s--P7gcV82k--/f_auto%2Ct_large/v1580435657/y2pv8jtiatsbuuoagwsn.jpg"
