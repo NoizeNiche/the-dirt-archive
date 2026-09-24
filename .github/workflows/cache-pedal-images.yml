@@ -18,9 +18,9 @@ permissions:
 
 concurrency:
   group: dirt-image-cache
-  # Keep recovery passes in order, but allow the scheduler to queue work rather
-  # than silently replacing the next pass while the current browser worker runs.
-  cancel-in-progress: false
+  # Recovery passes are disposable work. Always prefer the newest pass so an old
+  # browser run cannot block the improved recovery code behind a stale queue.
+  cancel-in-progress: true
   queue: max
 
 jobs:
