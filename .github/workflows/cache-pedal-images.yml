@@ -153,11 +153,12 @@ jobs:
           git commit -m "Archive verified pedal photos locally"
 
           # Other repository maintenance commits can land between our rebase
-          # and the push. Retry by rebasing the complete cache commit instead
-          # of throwing away a successful recovery batch.
+          # and the push. Generated catalog/tracker files are derived state, so
+          # on a race we rebuild them from the newest main while preserving the
+          # verified binary photo batch from this cache commit.
           for attempt in 1 2 3 4 5; do
             if git push; then
-              if git diff-tree --no-commit-id --name-only -r HEAD | grep -Eq '^(assets/|research/PEDAL_INDEX\.json)'; then
+              if git diff-tree --no-commit-id --name-only -r HEAD | grep -Eq '^(assets/|research/PEDAL_INDEX\\.json)'; then
                 echo "Public photo/catalog files changed; dispatching Pages deployment."
                 gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main
               else
@@ -165,9 +166,32 @@ jobs:
               fi
               exit 0
             fi
-            echo "Push race detected; rebasing cache commit (attempt $attempt/5)."
+
+            echo "Push race detected; rebuilding cache commit on latest main (attempt $attempt/5)."
             git fetch origin main
-            git rebase origin/main
+
+            asset_patch="$(mktemp)"
+            git diff HEAD^ HEAD --binary -- assets/pedals > "$asset_patch"
+
+            git reset --hard origin/main
+            if [ -s "$asset_patch" ]; then
+              git apply --index "$asset_patch"
+            fi
+            rm -f "$asset_patch"
+
+            python scripts/sync-prp-tracker.py
+            python scripts/sync-photo-backlog.py
+            python scripts/prune-photo-review-queue.py
+            python scripts/refresh-image-cache-report.py
+            python scripts/reconcile-local-photo-assets.py
+            python scripts/verify-photo-state.py
+
+            git add assets/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
+            if git diff --cached --quiet; then
+              echo "No image cache changes remain after rebuilding against latest main."
+              exit 0
+            fi
+            git commit -m "Archive verified pedal photos locally"
           done
           echo "Unable to publish the verified photo batch after 5 push attempts."
           exit 1
