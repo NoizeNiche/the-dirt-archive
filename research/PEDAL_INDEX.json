@@ -17810,7 +17810,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cbs-arbiter/cbs-arbiter-wah-fuzz-swell/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CBS-Arbiter/CBS-Arbiter Wah-Fuzz-Swell.md"
     },
@@ -17841,7 +17841,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/celebrity-pedals/adam-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celebrity Pedals/Adam Driver.md"
     },
@@ -17851,7 +17851,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/celebrity-pedals/distorsean-paul/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celebrity Pedals/Distorsean Paul.md"
     },
@@ -17861,7 +17861,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/celebrity-pedals/djent-reznor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celebrity Pedals/Djent Reznor.md"
     },
@@ -17871,7 +17871,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/celebrity-pedals/fuzzbulla/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celebrity Pedals/Fuzzbulla.md"
     },
@@ -17881,7 +17881,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/celebrity-pedals/fuzztin-bieber/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celebrity Pedals/Fuzztin Bieber.md"
     },
@@ -17891,7 +17891,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/celestial-effects/aquarius/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celestial Effects/Aquarius.md"
     },
@@ -17902,7 +17902,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/celestial-effects/aries-beast-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celestial Effects/Aries - Beast Distortion.md"
     },
@@ -17913,7 +17913,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/celestial-effects/cancer-wah-the-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celestial Effects/Cancer - Wah The Fuzz?.md"
     },
