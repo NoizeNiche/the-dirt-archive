@@ -52,7 +52,8 @@ def main():
         path.unlink()
 
     if not queued:
-        raise SystemExit("No incomplete PRP1 intake package is waiting.")
+        print("No incomplete PRP1 intake package is waiting. Stale completed intake packages were removed.")
+        return
 
     _, queue_path, item = min(queued, key=lambda x: x[0])
     builder = str(item.get("builder") or "").strip()
