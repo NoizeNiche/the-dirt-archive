@@ -5068,7 +5068,7 @@
   {
     "builder": "BFFX Boutique Pedals",
     "pedal": "Kairen",
-    "image": null,
+    "image": "./assets/pedals/bffx-boutique-pedals/kairen/primary.webp",
     "source": "verified research source",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 080/Kairen.md",
