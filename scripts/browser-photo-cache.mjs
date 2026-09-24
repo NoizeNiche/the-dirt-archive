@@ -1758,6 +1758,22 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
                 imageAttrs.push(match[1]);
               }
 
+              // Navigation can fail on otherwise healthy Effects Database pages
+              // because Chromium is challenged or the page times out. The raw
+              // HTML response can still contain the exact product-photo anchor,
+              // legacy /gear/pics/ asset, or lazy image field. Use the same strict
+              // source-page extraction used by the normal path instead of throwing
+              // away that exact-page evidence just because DOM navigation failed.
+              for (const url of rawVerifiedPageImageUrls(html, pageUrl)) {
+                candidates.push({
+                  url,
+                  sourcePage: pageUrl,
+                  sourceScore: 135,
+                  rawVerifiedPageImage: true
+                });
+              }
+              diagnostic.rawHtmlCandidates += rawVerifiedPageImageUrls(html, pageUrl).length;
+
               for (const raw of imageAttrs) {
                 for (const part of raw.split(/\s+/)) {
                   if (!part || part.startsWith('data:')) continue;
