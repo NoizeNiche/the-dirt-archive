@@ -1,50 +1,26 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:09:33.015551+00:00",
+  "generated_at": "2026-09-24T10:11:19.845963+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1368,
+    "researched": 1372,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2397
+    "research_pending": 2393
   },
   "next_target": {
-    "builder": "Century",
-    "pedal": "Century SDI-1 Distortion",
+    "builder": "Chaser",
+    "pedal": "HM-3 Heavy Metal",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
     {
-      "builder": "Century",
-      "pedal": "Century SDI-1 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Chaser",
       "pedal": "HM-3 Heavy Metal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CheeseBlocks Effects",
-      "pedal": "THE Cheese Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cherry Music",
-      "pedal": "Mighty Sound M1 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cherry Music",
-      "pedal": "Mighty Sound M2 Overdrive",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +141,30 @@
     {
       "builder": "Chris Custom",
       "pedal": "DF-1 Dr.Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chris Custom",
+      "pedal": "Dr.Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chris Custom",
+      "pedal": "Dr.Muff",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chris Custom",
+      "pedal": "Dr.Scream",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chris Custom",
+      "pedal": "Dr.Silvery",
       "catalog_type": "",
       "research_record": ""
     }
