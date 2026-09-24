@@ -4,29 +4,37 @@
 - **Archive parent:** SFZ-20 Fuzz
 - **Builder:** CNZ Audio
 - **Catalog type:** Fuzz
-- **Identity:** CNZ Audio SFZ-20 Fuzz.
+- **Identity:** CNZ Audio SFZ-20 Fuzz, a compact sustain-heavy fuzz with Volume, Tone, and Sustain controls.
 
 ## What this pedal is
-The Dirt Archive's Scrape C census records this exact builder/model identity and classifies it as **Fuzz**.
+CNZ Audio documents the SFZ-20 as a fuzz with long sustain and harmonically rich saturation. [1]
 
 ## Colorways
-No complete factory colorway sequence was established.
+No complete factory finish sequence was established.
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+Documented controls/features:
+- Volume.
+- Tone.
+- Sustain.
+- True bypass.
+- 9V DC.
+- Approximately 10 mA stated current draw.
+- 470 kΩ input impedance.
+- 470 Ω output impedance.
+- Mini enclosure. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+No formal numbered production revision sequence was established.
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+No exact-model transistor specification was published.
 
 ## Diode
-Unknown from the checked exact-model documentation.
+No exact-model diode specification was published.
 
 ## Sound
-The model is documented as fuzz. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+The builder emphasizes long sustain, harmonics, and potentially glitchy fuzz character at extreme settings. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
-2. The Dirt Archive Research Breadcrumb - Block 191: `research/BREADCRUMB-BATCH-191.md`
+1. CNZ Audio — SFZ-20 Fuzz: https://www.cnzaudio.com/products/sfz-20

@@ -4,29 +4,31 @@
 - **Archive parent:** CMI Fuzz Unit
 - **Builder:** CMI
 - **Catalog type:** Fuzz
-- **Identity:** CMI CMI Fuzz Unit.
+- **Identity:** CMI Fuzz Unit, a silicon fuzz from the OEM family associated with the Sola Sound Jumbo Tone Bender.
 
 ## What this pedal is
-The Dirt Archive's Scrape C census records this exact builder/model identity and classifies it as **Fuzz**. The September 17, 2026 research checkpoint identifies CMI as a Marshall-owned Cleartone Musical Instruments brand and records CMI Fuzz Unit as Fuzz and Wah Fuzz Swell as Fuzz because its cataloged function includes fuzz-wah/volume.
+Effects Database documents the CMI Fuzz Unit as part of the same OEM circuit family as the Barnes & Mullins Champion Fuzz, G.B. Fuzz, and Pro Traffic fuzz units. The family is associated with the mid-1970s Sola Sound Jumbo Tone Bender circuit and is electronically derived from the Big Muff concept while using one fewer transistor stage than a four-stage Muff. [1]
 
 ## Colorways
-No complete factory colorway sequence was established.
+No complete factory colorway sequence for CMI-branded units was established.
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+A complete CMI-specific control list and factory option chronology was not securely established.
 
 ## Version changes
-No reliable numbered revision history was established.
+No reliable numbered CMI-specific revision sequence was established.
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+The documented circuit family is silicon-based. Exact CMI-unit transistor part numbers were not established from the checked source. [1]
 
 ## Diode
-Unknown from the checked exact-model documentation.
+No exact-model diode specification was established.
 
 ## Sound
-The model is documented as fuzz. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+The CMI Fuzz Unit belongs to the thick, sustaining Jumbo Tone Bender / Distortion Sustainer lineage. [1]
+
+## Historical note
+The CMI unit is significant as one of several branded manifestations of the same mid-1970s OEM design. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
-2. The Dirt Archive Research Breadcrumb - Block 191: `research/BREADCRUMB-BATCH-191.md`
+1. Effects Database — Manhattan Fuzz Unit / OEM family history: https://www.effectsdatabase.com/model/manhattan/fuzzunit

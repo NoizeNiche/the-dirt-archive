@@ -4,29 +4,37 @@
 - **Archive parent:** SCM-20 Crossfire Metal
 - **Builder:** CNZ Audio
 - **Catalog type:** Distortion
-- **Identity:** CNZ Audio SCM-20 Crossfire Metal.
+- **Identity:** CNZ Audio SCM-20 Crossfire Metal, a compact high-gain metal distortion with three boost voicings.
 
 ## What this pedal is
-The Dirt Archive's Scrape C census records this exact builder/model identity and classifies it as **Distortion**.
+CNZ Audio describes the SCM-20 as a metal-oriented distortion with a three-position boost switch labeled Hi-Boost, Boost-Off, and Lo-Boost. [1]
 
 ## Colorways
-No complete factory colorway sequence was established.
+No complete factory finish sequence was established.
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+Documented controls/features:
+- Volume.
+- Distortion.
+- Tone.
+- Hi-Boost / Boost-Off / Lo-Boost toggle.
+- True bypass.
+- 9V DC.
+- 1 MΩ input impedance.
+- 470 Ω output impedance.
+- Compact metal enclosure. [1]
 
 ## Version changes
-No reliable numbered revision history was established.
+No formal numbered production revision sequence was established.
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+No exact-model transistor specification was published.
 
 ## Diode
-Unknown from the checked exact-model documentation.
+No exact-model diode specification was published.
 
 ## Sound
-The model is documented as distortion. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+The Crossfire Metal is voiced for high-gain metal use, with the boost switch shifting emphasis toward upper frequencies, neutral, or lower frequencies. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
-2. The Dirt Archive Research Breadcrumb - Block 191: `research/BREADCRUMB-BATCH-191.md`
+1. CNZ Audio — SCM-20 Crossfire Metal: https://www.cnzaudio.com/products/scm-20
