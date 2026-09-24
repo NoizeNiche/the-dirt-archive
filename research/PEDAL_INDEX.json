@@ -17673,9 +17673,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cbc-pedals/the-drive/primary.webp",
       "source_page": null,
-      "research_record": null,
+      "research_record": "./research/pedals/CBC Pedals/The Drive.md",
       "image_source_pages": [
         "https://reverb.com/item/2817718-cbc-pedals-the-drive-zendrive-clone",
         "https://reverb.com/item/3942273-cbc-pedals-the-drive-zendrive-clone",
