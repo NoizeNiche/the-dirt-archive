@@ -157,6 +157,85 @@ jobs:
           print(f"PRP1 target photo confirmed: {key} -> {local_path}")
           PY
 
+      - name: Capture PRP1 target photo provenance
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          target = json.loads(Path(".prp1-target.json").read_text(encoding="utf-8"))
+          catalog = json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8"))
+          item = next(
+              x for x in catalog.get("pedals", [])
+              if x.get("company") == target["builder"] and x.get("pedal") == target["pedal"]
+          )
+          target["image"] = item.get("image")
+          target["image_source_url"] = item.get("image_source_url")
+          target["image_source_page"] = item.get("image_source_page")
+          target["image_source_urls"] = item.get("image_source_urls") or []
+          Path(".prp1-target.json").write_text(
+              json.dumps(target, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8"
+          )
+          PY
+
+      - name: Rebase atomic PRP1 work onto latest main
+        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
+        run: |
+          # Keep the research record, recovered asset, intake state, and target
+          # photo provenance while rebuilding shared generated files from the
+          # newest main. This prevents a simultaneous photo-cache commit from
+          # being overwritten by PRP1.
+          git stash push -u -m "prp1-atomic-work" -- assets/pedals research/pedals research/PRP1_INTAKE
+          git restore -- research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
+          git fetch origin main
+          git rebase origin/main
+          git stash pop
+
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          target = json.loads(Path(".prp1-target.json").read_text(encoding="utf-8"))
+          catalog = json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8"))
+          matches = [
+              x for x in catalog.get("pedals", [])
+              if x.get("company") == target["builder"] and x.get("pedal") == target["pedal"]
+          ]
+          if len(matches) != 1:
+              raise SystemExit(f"PRP1 target missing or duplicated after rebase: {target['builder']} / {target['pedal']}")
+          item = matches[0]
+          if target.get("image"):
+              item["image"] = target["image"]
+          if target.get("image_source_url"):
+              item["image_source_url"] = target["image_source_url"]
+          if target.get("image_source_page"):
+              item["image_source_page"] = target["image_source_page"]
+          if target.get("image_source_urls"):
+              item["image_source_urls"] = target["image_source_urls"]
+          Path("research/PEDAL_INDEX.json").write_text(
+              json.dumps(catalog, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8"
+          )
+          PY
+
+          BUILDER=$(python - <<'PY'
+          import json
+          print(json.load(open('.prp1-target.json', encoding='utf-8'))['builder'])
+          PY
+          )
+          PEDAL=$(python - <<'PY'
+          import json
+          print(json.load(open('.prp1-target.json', encoding='utf-8'))['pedal'])
+          PY
+          )
+          PHOTO_CACHE_TARGET_BUILDER="$BUILDER" PHOTO_CACHE_TARGET_PEDAL="$PEDAL" python scripts/cache-pedal-images.py
+          python scripts/sync_prp_catalog.py
+          python scripts/sync-prp-tracker.py
+          python scripts/sync-photo-backlog.py
+          python scripts/prune-photo-review-queue.py
+          python scripts/refresh-image-cache-report.py
       - name: Reconcile tracker and finalize atomic record
         if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
         run: python scripts/prp1-finalize-intake.py
@@ -198,18 +277,6 @@ jobs:
 
           print(f"PRP1 atomic verification: {len(index)} total / {researched} researched / {pictured} pictured / {complete} complete.")
           PY
-
-      - name: Rebase atomic PRP1 work onto latest main
-        if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
-        run: |
-          # Keep the research record, recovered asset, and intake state while
-          # rebuilding shared generated files from the newest main. This prevents
-          # a simultaneous photo-cache commit from being overwritten by PRP1.
-          git stash push -u -m "prp1-atomic-work" -- assets/pedals research/pedals research/PRP1_INTAKE
-          git restore -- research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
-          git fetch origin main
-          git rebase origin/main
-          git stash pop
 
       - name: Commit and push one complete PRP1 unit
         if: steps.photo_gate.outputs.complete == 'true' && steps.intake_gate.outputs.has_target == 'true'
