@@ -8323,12 +8323,12 @@
   {
     "builder": "Brimstone Audio",
     "pedal": "XD-1 Crossover Distortion",
-    "image": null,
+    "image": "./assets/pedals/brimstone-audio/xd-1-crossover-distortion/primary.webp",
     "source": null,
     "source_page": "https://www.effectsdatabase.com/model/brimstone",
     "research_record": "./research/pedals/PRP Batch 117/brimstone-audio-xd-1-crossover-distortion.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/brimstone/crossover/distortion",
-    "image_source_url": "https://www.effectsdatabase.com/model/brimstone"
+    "image_source_page": "https://www.premierguitar.com/brimstone-audio-unveils-crossover-distortion-pedal",
+    "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?coordinates=0%2C128%2C0%2C128&height=1200&id=25734067&width=1200"
   },
   {
     "builder": "British Pedal Company",
@@ -11004,7 +11004,7 @@
   {
     "builder": "Casimir Effects Pedals",
     "pedal": "Entropy Fuzz",
-    "image": null,
+    "image": "./assets/pedals/casimir-effects-pedals/entropy-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/casimir/entropy",
     "research_record": "./research/pedals/PRP Batch 153/casimir-effects-pedals-entropy-fuzz.md",
     "image_source_page": "https://www.effectsdatabase.com/model/casimir/entropy",
@@ -11139,7 +11139,7 @@
   {
     "builder": "CAT Sound",
     "pedal": "Dancing - Distortion",
-    "image": null,
+    "image": "./assets/pedals/cat-sound/dancing-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/catsound/dancing",
     "research_record": "./research/pedals/PRP Batch 154/cat-sound-dancing-distortion.md",
     "image_source_page": "https://www.effectsdatabase.com/model/catsound/dancing",
