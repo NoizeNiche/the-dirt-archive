@@ -35,7 +35,7 @@ jobs:
               if r.get("Pedal Info") == "DONE" and r.get("Picture") != "DONE"
           ]
           print("matrix=" + json.dumps({"include": targets}, ensure_ascii=False, separators=(",", ":")))
-          print(f"Prepared {len(targets)} photo targets.")
+          print(f"Prepared {len(targets)} photo targets.", file=__import__("sys").stderr)
           PY
 
   recover:
