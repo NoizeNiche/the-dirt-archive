@@ -1,6 +1,6 @@
 {
   "version": "research-evidence-v1",
-  "generatedAt": "2026-09-24T18:35:53.077Z",
+  "generatedAt": "2026-09-24T18:52:11.403Z",
   "purpose": "Autonomous evidence collection. Canonical research prose is written only after verification.",
   "foremanRule": "At least 2 distinct source hosts plus 1 strong exact-identity source before synthesis.",
   "counts": {
@@ -11,358 +11,8 @@
   },
   "records": [
     {
-      "builder": "Lichtlaerm Audio",
-      "pedal": "The King in Yellow",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lichtlaerm Audio",
-      "pedal": "The King in Yellow — parallel blending overdrive",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lichtlaerm Audio",
-      "pedal": "Thorn",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lichtlaerm Audio",
-      "pedal": "Thorn — signature distortion",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lichtlaerm Audio",
-      "pedal": "Total Distortion Worship MKII",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lichtlaerm Audio",
-      "pedal": "Total Distortion Worship MKII — extreme metal distortion with built-in overdrive",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Limetone Audio",
-      "pedal": "funther OD/DS/FZ",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Limetone Audio",
-      "pedal": "fuzzhog proto OD/DS/FZ",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Limetone Audio",
-      "pedal": "JACKAL MIDNIGHT ADD CBF OD/DS/FZ",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Limetone Audio",
-      "pedal": "JACKAL MIDNIGHT OD/DS/FZ",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Limetone Audio",
-      "pedal": "JACKAL OD/DS/FZ",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "200lbs of Gold",
-      "catalogType": "Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "5E3 Deluxe",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Amp 50",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Amp Eleven",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "COT 50 / Church of Tone 50",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "COT 50 Boost / Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Dover Drive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Eternity",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Eternity Burst",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "FAB 50",
-      "catalogType": "Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Kalamazoo",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Mosferatu",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Purple Plexi",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Super Six",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Tchula",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Tiki Drive",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Zendrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "Zendrive 2",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Lunastone Pedals",
-      "pedal": "Three Stage Rocket",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Albert's Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Amber Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Big Tweedy Drive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Blueberry Bass Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Bluebird Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Fire Red Fuzz",
+      "builder": "Mask Audio Electronics",
+      "pedal": "MAYBE",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -371,28 +21,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Golden Cello",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Little Tweedy Drive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Loud 'n Proud",
+      "builder": "Mask Audio Electronics",
+      "pedal": "Part Garden",
       "catalogType": "Fuzz / Overdrive",
       "sources": [],
       "sourceCount": 0,
@@ -401,8 +31,28 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Mighty Red Distortion",
+      "builder": "Mask Audio Electronics",
+      "pedal": "PART GARDEN",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mask Audio Electronics",
+      "pedal": "Screws",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Mask Audio Electronics",
+      "pedal": "TRUST YOURSELF",
       "catalogType": "Distortion",
       "sources": [],
       "sourceCount": 0,
@@ -411,8 +61,58 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Stone Grey Distortion",
+      "builder": "Maxon",
+      "pedal": "D&S",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "D&S II",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Distortion and Sustainer (D&S)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Distortion and Sustainer II (D&S II)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Distortion Master (DS830)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "DS830 Distortion Master",
       "catalogType": "Distortion",
       "sources": [],
       "sourceCount": 0,
@@ -421,68 +121,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Sweet Honey Overdrive Deluxe",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mad Professor Amplification",
-      "pedal": "The Green Wonder",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Twimble",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MadeByMike",
-      "pedal": "Dist²",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MadeByMike",
-      "pedal": "Dream Box",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MadeByMike",
-      "pedal": "Dual Drive",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MadeByMike",
-      "pedal": "Fuzzy Beetle",
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Air",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -491,8 +131,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "MadeByMike",
-      "pedal": "Germanium Fuzz Face",
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Air (FA10)",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -501,28 +141,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "MadeByMike",
-      "pedal": "RAT/MUFF",
-      "catalogType": "Distortion / Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MadeByMike",
-      "pedal": "Saltstorm Overdrive",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "MadeByMike",
-      "pedal": "Ultralord",
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Earth",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -531,148 +151,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Marshall Amplification",
-      "pedal": "1959 Overdrive Pedal",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Bluesbreaker II BB-2",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Bluesbreaker Vintage Reissue",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Bluesbreaker Vintage Reissue Pedal",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Drivemaster Vintage Reissue",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Drivemaster Vintage Reissue Pedal",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "DSL Overdrive Pedal",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Guv'nor Plus GV-2",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Guv'nor Vintage Reissue",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Guv'nor Vintage Reissue Pedal",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Jackhammer JH-1",
-      "catalogType": "Distortion / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "JCM800 Overdrive Pedal",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "JCM900 Overdrive Pedal",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "JVM Overdrive Pedal",
-      "catalogType": "Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "none identified",
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Earth (FEA10)",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -681,8 +161,368 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Marshall Amplification",
-      "pedal": "Shredmaster Vintage Reissue",
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Ether",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Ether (FE10)",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Fire",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Fire (FF10)",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements u",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Void",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Void (FV10)",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Water",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Water (FWA10)",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Wind",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Fuzz Elements Wind (FW10)",
+      "catalogType": "Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "OD-9",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "OD-9 Pro+",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "OD808",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "OD808X",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "OD820 Overdrive Pro+",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "OOD-9",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "OOD-9 Organic Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Organic Overdrive (OOD-9)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "OSD-9",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "OSD-9 Overdrive / Soft Distortion",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Overdrive (OD808)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Overdrive Extreme (OD808X)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Overdrive Pro (OD820)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Overdrive Pro Plus (OD-9Pro+)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Overdrive-Soft Distortion (OSD-9)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Real Tube Overdrive (RTO700)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Real Tube Overdrive-Distortion (RTD800)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "ROD881",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "ROD881 Real Overdrive / Distortion",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "RTD800",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "RTD800 Real Tube Distortion",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "RTO700",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "RTO700 Real Tube Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "SD-9 Sonic Distortion",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "SD-9 Sonic Distortion / Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "SD-9M Sonic Distortion Master",
       "catalogType": "Distortion",
       "sources": [],
       "sourceCount": 0,
@@ -691,8 +531,18 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Marshall Amplification",
-      "pedal": "Shredmaster Vintage Reissue Pedal",
+      "builder": "Maxon",
+      "pedal": "SM-9 Pro+",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "SM-9 Super Metal",
       "catalogType": "Distortion",
       "sources": [],
       "sourceCount": 0,
@@ -701,8 +551,138 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Marshall Amplification",
-      "pedal": "Supa Fuzz",
+      "builder": "Maxon",
+      "pedal": "SM-9Pro Super Metal Pro+",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "SM-9Pro+ Super Metal Pro+",
+      "catalogType": "Distortion",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Sonic Distortion (SD-9)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "SSD-9 Super Sonic Distortion",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "ST-9 Super Tube Screamer",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "ST9Pro+",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "ST9Pro+ Super Tube Overdrive Pro+",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "Super Sonic Distortion (SSD-9)",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "TBO-9 True Tube Booster / Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "TOD-9 True Tube Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "McGregor Pedals",
+      "pedal": "Crunch Plus Overdrive/Distortion",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "McGregor Pedals",
+      "pedal": "Crunch Transparent Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "McGregor Pedals",
+      "pedal": "Double Crunch Transparent Overdrive",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "McGregor Pedals",
+      "pedal": "Octave Fuzz with Stank",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -711,8 +691,8 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mask Audio Electronics",
-      "pedal": "BLACK MATH",
+      "builder": "McGregor Pedals",
+      "pedal": "The Classic Fuzz",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -721,8 +701,88 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mask Audio Electronics",
-      "pedal": "BSRI x MAE | MAYBE THE REAL TREASURE",
+      "builder": "McGregor Pedals",
+      "pedal": "The Cozmic Fuzzball",
+      "catalogType": "Distortion / Fuzz",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Menatone",
+      "pedal": "Blue Collar",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Menatone",
+      "pedal": "Blue Collar Mini",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Menatone",
+      "pedal": "Blue Collar Mojo",
+      "catalogType": "Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Menatone",
+      "pedal": "Blue Collar Mojo PTP",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Menatone",
+      "pedal": "Blue Collar PTP",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Menatone",
+      "pedal": "Fish Factory",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Menatone",
+      "pedal": "Hindenburg Mini",
+      "catalogType": "Distortion / Overdrive",
+      "sources": [],
+      "sourceCount": 0,
+      "distinctHostCount": 0,
+      "strongSourceCount": 0,
+      "foremanVerdict": "NO_USABLE_EVIDENCE"
+    },
+    {
+      "builder": "Menatone",
+      "pedal": "Law Bender",
       "catalogType": "Fuzz",
       "sources": [],
       "sourceCount": 0,
@@ -731,9 +791,9 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mask Audio Electronics",
-      "pedal": "CASCADER",
-      "catalogType": "Fuzz",
+      "builder": "Menatone",
+      "pedal": "Mail Bomb Mini",
+      "catalogType": "Distortion / Overdrive",
       "sources": [],
       "sourceCount": 0,
       "distinctHostCount": 0,
@@ -741,69 +801,9 @@
       "foremanVerdict": "NO_USABLE_EVIDENCE"
     },
     {
-      "builder": "Mask Audio Electronics",
-      "pedal": "CIVIL MATH",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mask Audio Electronics",
-      "pedal": "CLUBBER LANG",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mask Audio Electronics",
-      "pedal": "Ears Come To Die (historical limited-edition Fuzz Lab)",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mask Audio Electronics",
-      "pedal": "Germanium Part Garden",
-      "catalogType": "Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mask Audio Electronics",
-      "pedal": "Hot Water",
-      "catalogType": "Fuzz",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mask Audio Electronics",
-      "pedal": "LARAN (prebuilt)",
-      "catalogType": "Fuzz / Overdrive",
-      "sources": [],
-      "sourceCount": 0,
-      "distinctHostCount": 0,
-      "strongSourceCount": 0,
-      "foremanVerdict": "NO_USABLE_EVIDENCE"
-    },
-    {
-      "builder": "Mask Audio Electronics",
-      "pedal": "Little Acorn",
-      "catalogType": "Fuzz",
+      "builder": "Menatone",
+      "pedal": "MenaWatt",
+      "catalogType": "Distortion / Overdrive",
       "sources": [],
       "sourceCount": 0,
       "distinctHostCount": 0,
