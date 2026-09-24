@@ -17786,16 +17786,17 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cbs-arbiter/cbs-arbiter-fuzz-phazer/primary.webp",
       "source_page": null,
-      "research_record": null,
+      "research_record": "./research/pedals/CBS-Arbiter/CBS-Arbiter Fuzz Phazer.md",
       "image_source_page": "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzphazer",
       "image_source_page_verified": true,
       "image_source_pages_verified": true,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzphazer"
       ],
-      "image_source_priority": 100000
+      "image_source_priority": 100000,
+      "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png"
     },
     {
       "company": "CBS-Arbiter",
