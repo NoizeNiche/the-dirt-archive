@@ -6,7 +6,7 @@ The researched-photo gate is now **0**. The final blocker, **CBC Pedals - Harmon
 
 PRP1 has been opened and the CBC Harmonic Percolator intake package was consumed. The next canonical incomplete PRP target is **CBC Pedals - Hop Hed Fuzztone**. Continue research in exact catalog order from that record onward.
 
-The external photo-recovery gate is no longer the active blocker. Keep the local-first image contract and exact Builder + Pedal identity gate unchanged while advancing PRP.
+The external photo-recovery counter reached 0, but the gate is not yet considered clean: the existing Cat's Eye ESP - Hop Hed Fuzztone record is marked pictured while its local asset is only a tiny Equipboard favicon. This must be corrected before treating the photo gate as valid. Keep the local-first image contract and exact Builder + Pedal identity gate unchanged.
 
 ## Full-site maintenance checkpoint - September 21, 2026
 
