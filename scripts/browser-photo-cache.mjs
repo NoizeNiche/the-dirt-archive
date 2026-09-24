@@ -1492,6 +1492,38 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       for (const pageUrl of pageUrls) {
       if (!pageUrl || !/^https?:/i.test(pageUrl)) continue;
       try {
+        // Effects Database model URLs are exact catalog identities even when the
+        // page itself is blocked to Chromium. Query the deterministic per-model
+        // feed first so the record can recover its own image without depending on
+        // successful page navigation.
+        if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname)) {
+          try {
+            const feedImages = await effectsDatabaseFeedImageUrls(page, pageUrl);
+            for (const url of feedImages) {
+              candidates.push({
+                url,
+                sourcePage: pageUrl,
+                sourceScore: 145,
+                rawVerifiedPageImage: true
+              });
+            }
+            diagnostic.rawHtmlCandidates += feedImages.length;
+            const feedResult = await tryImages(feedImages.map(url => ({
+              url,
+              sourcePage: pageUrl,
+              sourceScore: 145,
+              rawVerifiedPageImage: true
+            })));
+            if (feedResult) {
+              selectedResult = feedResult;
+              sourcePageUsed = pageUrl;
+              diagnostic.sourcePageLoaded = true;
+              diagnostic.sourceIdentityMatch = true;
+              break;
+            }
+          } catch {}
+        }
+
         // Keep rendered-network candidates scoped to the source page that
         // produced them. This prevents an image from a previous fallback page
         // from being mislabeled as evidence for the next page.
