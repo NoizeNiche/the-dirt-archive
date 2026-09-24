@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T12:22:10.692239+00:00",
+  "generated_at": "2026-09-24T12:22:52.311426+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1606,
+    "researched": 1610,
     "pictured": 1545,
     "complete": 1545,
-    "research_pending": 2159
+    "research_pending": 2155
   },
   "next_target": {
     "builder": "Colorsound / Sola Sound",
@@ -27,30 +27,6 @@
     {
       "builder": "Colorsound / Sola Sound",
       "pedal": "Tone Bender",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Columbus",
-      "pedal": "DST-5 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Columbus",
-      "pedal": "MTL-5 Ultra Metal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Columbus",
-      "pedal": "OVD-5 Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Columbus",
-      "pedal": "TDR-5 Tube Driver",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +141,30 @@
     {
       "builder": "Compulsive Audio",
       "pedal": "Valve Howler Jr.",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Concrete Sound Lab",
+      "pedal": "SLAB",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Conrad",
+      "pedal": "Conrad Buzz Box & Volume Expander",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Conrad",
+      "pedal": "Conrad Fuzzy Fury",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Conrad",
+      "pedal": "Conrad Sky Hawk - Fuzz and Treble Booster",
       "catalog_type": "",
       "research_record": ""
     }

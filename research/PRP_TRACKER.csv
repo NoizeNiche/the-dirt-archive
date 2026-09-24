@@ -1607,10 +1607,10 @@ Colorsound / Sola Sound,Tone Bender MKIII,Fuzz,DONE,NEEDED,NEEDED,./research/ped
 ColorTone Fx / Pedal Tank,Gainer,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/ColorTone Fx / Pedal Tank/Gainer.md
 ColorTone Fx / Pedal Tank,OD-909 Overdrive Pro,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/ColorTone Fx / Pedal Tank/OD-909 Overdrive Pro.md
 Colortone Pedals,Parasite Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Colortone Pedals/Parasite Overdrive.md
-Columbus,DST-5 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-Columbus,MTL-5 Ultra Metal,Distortion,NEEDED,NEEDED,NEEDED,
-Columbus,OVD-5 Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Columbus,TDR-5 Tube Driver,Overdrive,NEEDED,NEEDED,NEEDED,
+Columbus,DST-5 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Columbus/DST-5 Distortion.md
+Columbus,MTL-5 Ultra Metal,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Columbus/MTL-5 Ultra Metal.md
+Columbus,OVD-5 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Columbus/OVD-5 Overdrive.md
+Columbus,TDR-5 Tube Driver,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Columbus/TDR-5 Tube Driver.md
 Comet Effects,Hyperdrive,Overdrive,NEEDED,NEEDED,NEEDED,
 Commune,Senturion Crazy Booster,Fuzz,NEEDED,NEEDED,NEEDED,
 Commune,Senturion Modern Factor,Overdrive,NEEDED,NEEDED,NEEDED,
