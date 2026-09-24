@@ -121,6 +121,20 @@ jobs:
               for u in list(urls)[:40]:
                 print("URL:",u)
 
+          print("\nJINA TEXT SEARCH")
+          jina_queries = [
+            '"CBC Pedals" "Harmonic Percolator"',
+            '"CBC Pedals" Percolator',
+            '"CBC Pedals" "Harmonic"',
+            '"CBC Pedals" fuzz',
+            '"Harmonic Percolator" "CBC" pedal'
+          ]
+          for q in jina_queries:
+            target = "https://r.jina.ai/http://www.google.com/search?q=" + urllib.parse.quote(q)
+            raw = curl(target)
+            print("\nJINA QUERY:",q,"BYTES:",len(raw))
+            print(raw[:12000])
+          
           print("\nDIRECT SLUG PROBES")
           slugs = [
             "https://equipboard.com/items/cbc-pedals-harmonic-percolator",
