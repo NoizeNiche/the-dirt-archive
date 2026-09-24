@@ -1118,7 +1118,7 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
       } catch {}
     }
 
-    return [...urls].slice(0, 12);
+    return [...urls].slice(0, 48);
   } catch {
     return [];
   }
@@ -1834,7 +1834,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           const urls = [
             ...html.matchAll(/https?:\/\/(?:rvb-img\.reverb\.com|static\.reverb-assets\.com)\/[^"'\\s<>\\]+/gi)
           ].map(match => match[0].replace(/&amp;/g, '&'));
-          for (const url of [...new Set(urls)].slice(0, 12)) {
+          for (const url of [...new Set(urls)].slice(0, 24)) {
             embeddedImageCandidates.push({
               url,
               score: 900,
@@ -2112,7 +2112,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               b.tokenHits - a.tokenHits ||
               b.width * b.height - a.width * a.height
             )
-            .slice(0, 12);
+            .slice(0, 32);
         }, { pedalPhrase, pedalTokens, builderTokens });
 
         // Keep embedded CDN URLs in the same candidate pool. They come from
