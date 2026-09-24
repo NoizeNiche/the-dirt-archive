@@ -657,3 +657,6 @@ Copilot FX,Mantis,https://copilotfx.com/mantis.pdf,Manufacturer exact-model manu
 "Coopersonic","Mini Tube Overdrive","https://www.effectsdatabase.com/model/coopersonic","Exact catalog identity on the Coopersonic Effects Database page; verify model labeling before caching."
 "Coopersonic","The Germaniac - Vintage Fuzz","https://www.effectsdatabase.com/model/coopersonic/germaniac","Exact-model Effects Database page with model-specific media."
 "Coopersonic","Twin Tube Overdrive","https://www.effectsdatabase.com/model/coopersonic","Exact catalog identity on the Coopersonic Effects Database page; verify model labeling before caching."
+"Copilot FX","Orbit","https://copilotfx.com/orbit.html","Manufacturer exact-model page; distinguish original Orbit from later variants."
+"Copilot FX","Terra","https://www.copilotfx.com/terra.html","Manufacturer exact-model page; recover only a matching Terra enclosure."
+"Copilot FX","Trek","https://www.copilotfx.com/trek.html","Manufacturer exact-model page; do not substitute later custom Trek variants."
