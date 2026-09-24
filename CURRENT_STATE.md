@@ -12,9 +12,12 @@ The remaining researched-photo closeout is handled separately from new catalog r
 The derived working queue is research/RESEARCH_QUEUE.json; the canonical sources remain research/PEDAL_INDEX.json and research/PRP_TRACKER.csv.
 <!-- AUTO:RESEARCH_PHASE_END -->
 
-## Live tracker checkpoint - September 24, 2026 (current)
+## Historical checkpoints
 
-The live `research/PRP_TRACKER.csv` was re-counted directly from the current `main` tree. It contains **3,765 total records / 1,277 researched / 1,277 pictured / 1,277 PRP-complete / 1 researched-photo-pending / 2,488 photo-missing**. The single researched-photo-pending target is **CBS-Arbiter - CBS-Arbiter Fuzz Phazer**. Its exact-model Effects Database image lead is now recorded in the canonical catalog, and the parallel recovery lane has been kicked for this target. Do not advance PRP1 past this target until the exact local photo is verified and synchronized.
+
+## Legacy PRP1 closeout checkpoint - September 24, 2026
+
+The remaining PRP1 work is **CBS-Arbiter - CBS-Arbiter Fuzz Phazer**, which is already researched and is being handled only as an exact-photo/publication closeout. The active Catalog Research Phase proceeds independently from this closeout.
 
 ## PRP1 queue checkpoint - September 24, 2026
 
