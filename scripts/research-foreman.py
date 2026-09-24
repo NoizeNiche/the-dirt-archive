@@ -1,74 +1,76 @@
 #!/usr/bin/env python3
-import json, re
+"""Research foreman: verify evidence packets and stage only strong evidence.
+
+This layer never guesses undocumented pedal facts and never publishes weak
+machine-written prose as canonical research. It creates a verified evidence
+inbox for the main research pass.
+"""
+import json
+import re
 from pathlib import Path
 
 ART=Path("research-evidence")
+INBOX=Path("research/RESEARCH_INBOX")
 INDEX=Path("research/PEDAL_INDEX.json")
-OUT=Path("research/pedals")
 
-def norm(v): return re.sub(r"\s+"," ",re.sub(r"[^a-z0-9]+"," ",str(v or "").lower())).strip()
-def slug(v): return re.sub(r"[^A-Za-z0-9]+","_",str(v or "").strip()).strip("_")[:120] or "unknown"
-def host(u):
-    m=re.match(r"https?://([^/]+)",u or ""); return (m.group(1).lower() if m else "")
-def exact(builder,pedal,title,h1):
-    hay=norm((title or "")+" "+(h1 or "")); p=norm(pedal); b=[x for x in norm(builder).split() if len(x)>=3]
+def norm(v):
+    return re.sub(r"\s+"," ",re.sub(r"[^a-z0-9]+"," ",str(v or "").lower())).strip()
+
+def slug(v):
+    return re.sub(r"[^A-Za-z0-9]+","_",str(v or "").strip()).strip("_")[:120] or "unknown"
+
+def host(url):
+    m=re.match(r"https?://([^/]+)",url or "")
+    return (m.group(1).lower() if m else "")
+
+def identity_ok(builder,pedal,title,h1):
+    hay=norm(str(title or "")+" "+str(h1 or ""))
+    p=norm(pedal)
+    bw=[x for x in norm(builder).split() if len(x)>=3]
     pw=[x for x in norm(pedal).split() if len(x)>=3 and x not in {"the","and","with","for"}]
-    return bool((p and p in hay and (not b or any(x in hay for x in b))) or (pw and all(x in hay for x in pw) and (not b or any(x in hay for x in b))))
+    return bool((p and p in hay and (not bw or any(x in hay for x in bw))) or
+                (pw and all(x in hay for x in pw) and (not bw or any(x in hay for x in bw))))
 
 def main():
     catalog=json.loads(INDEX.read_text(encoding="utf-8"))
     keys={(x.get("company"),x.get("pedal")) for x in catalog.get("pedals",[])}
-    admitted=0; held=0
+    INBOX.mkdir(parents=True,exist_ok=True)
+    staged=0; held=0
     for f in ART.rglob("candidate-*.json"):
-        try: p=json.loads(f.read_text(encoding="utf-8"))
+        try: packet=json.loads(f.read_text(encoding="utf-8"))
         except Exception: continue
-        b, pedal=p.get("builder",""),p.get("pedal","")
-        if (b,pedal) not in keys: continue
+        b,p=packet.get("builder",""),packet.get("pedal","")
+        if (b,p) not in keys: continue
         good=[]; seen=set()
-        for s in p.get("sources",[]):
+        for s in packet.get("sources",[]):
             h=host(s.get("url",""))
-            if h in seen: continue
-            if s.get("identity_match") and exact(b,pedal,s.get("title",""),s.get("h1","")):
-                seen.add(h); good.append(s)
+            if not h or h in seen: continue
+            if s.get("identity_match") and identity_ok(b,p,s.get("title",""),s.get("h1","")):
+                seen.add(h)
+                good.append({
+                    "url":s.get("url"),
+                    "title":s.get("title"),
+                    "h1":s.get("h1"),
+                    "excerpt":s.get("excerpt","")[:6000],
+                    "host":h
+                })
         if len(good)<2:
-            held+=1; print("HOLD",b,"/",pedal,"sources=",len(good)); continue
-        path=OUT/slug(b)/(slug(pedal)+".md")
-        if path.exists(): continue
-        primary=good[0]
-        lines=[f"- {s.get('title') or s.get('url')}: {s.get('url')}" for s in good[:6]]
-        body=(primary.get("excerpt") or "").replace("\n"," ").strip()
-        text=f"""# {b} - {pedal}
+            held+=1
+            print("HOLD",b,"/",p,"independent_exact_sources=",len(good))
+            continue
+        out=INBOX/slug(b)/(slug(p)+".json")
+        out.parent.mkdir(parents=True,exist_ok=True)
+        out.write_text(json.dumps({
+            "builder":b,
+            "pedal":p,
+            "status":"VERIFIED_EVIDENCE_STAGED",
+            "independent_exact_source_count":len(good),
+            "sources":good,
+            "next_action":"Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+        },ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+        staged+=1
+        print("STAGED",b,"/",p,"sources=",len(good))
+    print(json.dumps({"staged":staged,"held":held},ensure_ascii=False))
 
-## Research identity
-- **Builder:** {b}
-- **Catalog identity:** {pedal}
-- **Identity:** Exact-model identity passed a two-source verification gate.
-
-## What this pedal is
-Automatically gathered evidence for the exact model includes: {body[:1800]}
-
-## Colorways
-- **Documented colorways:** Not established by the automatic evidence pass.
-
-## Versions and factory options
-- **Documented versions/options:** Not established by the automatic evidence pass.
-
-## Version changes
-No dated factory revision chronology was established by this automatic evidence pass.
-
-## Transistor
-- **Exact transistor/device:** Not established in the gathered evidence.
-
-## Diode
-- **Exact clipping/rectification diode/device:** Not established in the gathered evidence.
-
-## Sound
-The automatic evidence pass did not establish enough exact-model evidence for a stronger sound claim.
-
-## Sources checked
-{chr(10).join(lines)}
-"""
-        path.parent.mkdir(parents=True,exist_ok=True); path.write_text(text,encoding="utf-8"); admitted+=1; print("ADMIT",b,"/",pedal)
-    print(json.dumps({"admitted":admitted,"held":held}))
-
-if __name__=="__main__": main()
+if __name__=="__main__":
+    main()
