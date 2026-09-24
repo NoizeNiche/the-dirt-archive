@@ -1459,6 +1459,12 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
 function rawVerifiedPageImageUrls(html, pageUrl) {
   const out = new Set();
   if (!html) return [];
+  // Decode the escaped URL forms used by marketplace JSON payloads before
+  // extracting image hosts. Reverb commonly emits \\/ or \\u002F inside
+  // serialized gallery data while still exposing the exact image URL.
+  html = String(html)
+    .replace(/\\u002f/gi, '/')
+    .replace(/\\\//g, '/');
   const add = value => {
     if (!value || typeof value !== 'string') return;
     for (const part of value.split(/[\s,]+/)) {
