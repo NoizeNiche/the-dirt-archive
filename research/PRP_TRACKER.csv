@@ -1675,12 +1675,12 @@ CopperSound Pedals,Mustard Gas - Lo-Fi / Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research
 CopperSound Pedals,Mystique Germanium Fuzz & Boost,Fuzz,NEEDED,NEEDED,NEEDED,
 CopperSound Pedals,Mystique Germanium Fuzz & Boost (Limited Edition),Fuzz,DONE,NEEDED,NEEDED,./research/pedals/CopperSound Pedals/Mystique Germanium Fuzz & Boost (Limited Edition).md
 CopperSound Pedals,Renegade Multi-Bias Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/CopperSound Pedals/Renegade Multi-Bias Fuzz.md
-CopperSound Pedals,Strategy Overdrive & Preamp,Overdrive,NEEDED,NEEDED,NEEDED,
-Cordovox,DS-8 Mouse,Distortion,NEEDED,NEEDED,NEEDED,
-Cordovox,DS-9 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-Cordovox,FZ-7 Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Cordovox,OD-7 Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Cordovox,OD-8 X-Drive,Overdrive,NEEDED,NEEDED,NEEDED,
+CopperSound Pedals,Strategy Overdrive & Preamp,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CopperSound Pedals/Strategy Overdrive & Preamp.md
+Cordovox,DS-8 Mouse,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Cordovox/DS-8 Mouse.md
+Cordovox,DS-9 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Cordovox/DS-9 Distortion.md
+Cordovox,FZ-7 Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cordovox/FZ-7 Fuzz.md
+Cordovox,OD-7 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Cordovox/OD-7 Overdrive.md
+Cordovox,OD-8 X-Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Cordovox/OD-8 X-Drive.md
 Cornell Amplification,Over Drive Special,Overdrive,NEEDED,NEEDED,NEEDED,
 Cornell Amplification,The 1st Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Cornerstone Music Gear,Antique V3,Overdrive,NEEDED,NEEDED,NEEDED,
