@@ -21374,7 +21374,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/comodoro-pedales/percolator-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Comodoro Pedales/Percolator Fuzz.md",
       "image_source_page": "https://reverb.com/item/79839933-comodoro-percolator-fuzz-2024"
@@ -21456,7 +21456,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/compulsive-audio/texas-holdem-zz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Texas Holdem ZZ.md"
     },
@@ -21466,7 +21466,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/compulsive-audio/thor-s-hammer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Thor's Hammer.md"
     },
@@ -21548,7 +21548,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/coolmusic/c-di01-insane-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-DI01 Insane Distortion.md"
     },
@@ -21558,7 +21558,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/coolmusic/c-di02-classic-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-DI02 Classic Distortion.md"
     },
@@ -21568,7 +21568,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/coolmusic/c-fc1-fuzzster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-FC1 Fuzzster.md"
     },
