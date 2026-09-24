@@ -1,12 +1,12 @@
 ## Current recovery checkpoint - September 24, 2026
 
-The live research/PRP_TRACKER.csv on main currently parses to **3,770 total records / 1,271 researched records / 1,271 pictured records / 1,271 PRP-complete records / 1 researched-photo-pending record / 2,499 photo-missing records overall**. The remaining researched/photo-pending record is **CBC Pedals — Harmonic Percolator**.
+The live research/PRP_TRACKER.csv currently parses to **3,770 total records / 1,271 researched records / 1,272 pictured records / 1,272 PRP-complete records / 0 researched-photo-pending / 2,498 photo-missing records overall**.
 
-A recovery pass briefly reduced the gate to 0 by archiving `./assets/pedals/cbc-pedals/harmonic-percolator/primary.webp`. Visual inspection of that asset confirmed it was the **generic Equipboard logo**, not the CBC Harmonic Percolator. The false-positive asset has been removed, the tracker/catalog/photo manifest restored to unresolved state, and the non-product Equipboard brand-page lead has been removed.
+The researched-photo gate is now **0**. The final blocker, **CBC Pedals - Harmonic Percolator**, has a locally archived image at ./assets/pedals/cbc-pedals/harmonic-percolator/primary.webp. Asset-level inspection confirmed the archived file is an actual pedal photograph, and the tracker/catalog/manifest are synchronized to the local asset. The previous Equipboard-logo false positive was removed before this final image was accepted.
 
-The photo identity gate has also been hardened so an Equipboard brand directory page whose H1 is only the builder name cannot satisfy an exact-product match, and strong image-search identity cannot trust Equipboard /brands/ URLs as product evidence.
+PRP1 has been opened and the CBC Harmonic Percolator intake package was consumed. The next canonical incomplete PRP target is **CBC Pedals - Hop Hed Fuzztone**. Continue research in exact catalog order from that record onward.
 
-The active mission remains the same: recover a genuinely exact CBC Pedals Harmonic Percolator photograph, archive it locally, synchronize the tracker/catalog/photo manifests, and only then release PRP1. The repository remains intentionally at **1** researched-photo pending until that exact image is proven.
+The external photo-recovery gate is no longer the active blocker. Keep the local-first image contract and exact Builder + Pedal identity gate unchanged while advancing PRP.
 
 ## Full-site maintenance checkpoint - September 21, 2026
 
