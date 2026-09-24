@@ -1,171 +1,171 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T02:38:00-07:00",
+  "generated_at": "2026-09-24T09:46:12.604490+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1278,
+    "researched": 1283,
     "pictured": 1277,
     "complete": 1277,
-    "research_pending": 2487
+    "research_pending": 2482
   },
   "next_target": {
-    "builder": "CBS-Arbiter",
-    "pedal": "CBS-Arbiter Wah-Fuzz-Swell",
-    "catalog_type": "Fuzz",
+    "builder": "CDB Pedals",
+    "pedal": "Darkwater",
+    "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
     {
-      "builder": "CBS-Arbiter",
-      "pedal": "CBS-Arbiter Wah-Fuzz-Swell",
-      "catalog_type": "Fuzz",
-      "research_record": ""
-    },
-    {
       "builder": "CDB Pedals",
       "pedal": "Darkwater",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": ""
-    },
-    {
-      "builder": "Cedar Custom Effects",
-      "pedal": "Cedar Drive",
-      "catalog_type": "Overdrive",
-      "research_record": ""
-    },
-    {
-      "builder": "Celebrity Pedals",
-      "pedal": "Adam Driver",
-      "catalog_type": "Overdrive",
-      "research_record": ""
-    },
-    {
-      "builder": "Celebrity Pedals",
-      "pedal": "Distorsean Paul",
-      "catalog_type": "Distortion",
-      "research_record": ""
-    },
-    {
-      "builder": "Celebrity Pedals",
-      "pedal": "Djent Reznor",
-      "catalog_type": "Overdrive",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Celebrity Pedals",
       "pedal": "Fuzzbulla",
-      "catalog_type": "Fuzz",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Celebrity Pedals",
       "pedal": "Fuzztin Bieber",
-      "catalog_type": "Fuzz",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Celestial Effects",
       "pedal": "Aquarius",
-      "catalog_type": "Fuzz",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Celestial Effects",
       "pedal": "Aries - Beast Distortion",
-      "catalog_type": "Distortion / Overdrive",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Celestial Effects",
       "pedal": "Cancer - Wah The Fuzz?",
-      "catalog_type": "Fuzz / Overdrive",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Celestial Effects",
       "pedal": "Capricorn - Rock Distortion",
-      "catalog_type": "Distortion / Overdrive",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Celestial Effects",
       "pedal": "Sagittarius - Overdrive Boost",
-      "catalog_type": "Overdrive",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Celestial Effects",
       "pedal": "Taurus - Blues Overdrive",
-      "catalog_type": "Overdrive",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Celestial Effects",
       "pedal": "Virgo - Rock Overdrive",
-      "catalog_type": "Overdrive",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Celmo",
       "pedal": "Pimento Sardine Overdrive",
-      "catalog_type": "Overdrive",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Celmo",
       "pedal": "Sardine Can",
-      "catalog_type": "Overdrive",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Center Street Electronics",
       "pedal": "Drone Station Fuzz",
-      "catalog_type": "Fuzz / Overdrive",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Center Street Electronics",
       "pedal": "Druid Fuzz",
-      "catalog_type": "Fuzz",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Center Street Electronics",
       "pedal": "God Hates Fuzz",
-      "catalog_type": "Fuzz",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Center Street Electronics",
       "pedal": "Godly Red",
-      "catalog_type": "Distortion / Fuzz / Overdrive",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Center Street Electronics",
       "pedal": "Rasputin Fuzz",
-      "catalog_type": "Fuzz",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Center Street Electronics",
       "pedal": "The Murphy",
-      "catalog_type": "Overdrive",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Century",
       "pedal": "Century SDI-1 Distortion",
-      "catalog_type": "Distortion",
+      "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Century",
       "pedal": "Century SHM-8 Heavy Metal",
-      "catalog_type": "Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Ceriatone",
+      "pedal": "Centura Professional Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Ceriatone",
+      "pedal": "Horse Breaker",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "César Diaz",
+      "pedal": "Diaz Texas Square Face",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "ChadderBox Effects",
+      "pedal": "Loud/Louder",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chamber Of Sounds",
+      "pedal": "Green Genie",
+      "catalog_type": "",
       "research_record": ""
     }
   ]

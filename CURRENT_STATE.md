@@ -1,15 +1,15 @@
 <!-- AUTO:RESEARCH_PHASE_START -->
 ## Active phase checkpoint
 
-The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy exact-photo publication/closeout mechanism.
+The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live tracker: **3765 total / 1278 researched / 1277 pictured / 1277 complete / 2487 research-pending / 1 researched-photo-pending**.
+Live catalog: **3765 total / 1283 researched / 1277 pictured / 1277 complete / 2482 research-pending / 6 researched-photo-pending**.
 
-**Next research target:** CBS-Arbiter - CBS-Arbiter Wah-Fuzz-Swell
+**Next research target:** CDB Pedals - Darkwater.
 
-The remaining researched-photo closeout is handled separately from new catalog research, so the research queue does not wait on it.
-
-The derived working queue is research/RESEARCH_QUEUE.json; the canonical sources remain research/PEDAL_INDEX.json and research/PRP_TRACKER.csv.
+PRP1 closeout remains separate: 6 researched record(s) still lack an exact local photo.
+The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
+Last refreshed: 2026-09-24T09:46:12.604490+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints

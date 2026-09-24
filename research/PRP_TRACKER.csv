@@ -1277,12 +1277,12 @@ CBS-Arbiter,CBS-Arbiter Doubler,Fuzz,DONE,DONE,DONE,./research/pedals/CBS-Arbite
 CBS-Arbiter,CBS-Arbiter Fuzz Face,Fuzz,DONE,DONE,DONE,./research/pedals/CBS-Arbiter/CBS-Arbiter Fuzz Face.md
 CBS-Arbiter,CBS-Arbiter Fuzz King,Fuzz,DONE,DONE,DONE,./research/pedals/CBS-Arbiter/CBS-Arbiter Fuzz King.md
 CBS-Arbiter,CBS-Arbiter Fuzz Phazer,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/CBS-Arbiter/CBS-Arbiter Fuzz Phazer.md
-CBS-Arbiter,CBS-Arbiter Wah-Fuzz-Swell,Fuzz,NEEDED,NEEDED,NEEDED,
+CBS-Arbiter,CBS-Arbiter Wah-Fuzz-Swell,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/CBS-Arbiter/CBS-Arbiter Wah-Fuzz-Swell.md
 CDB Pedals,Darkwater,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Cedar Custom Effects,Cedar Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-Celebrity Pedals,Adam Driver,Overdrive,NEEDED,NEEDED,NEEDED,
-Celebrity Pedals,Distorsean Paul,Distortion,NEEDED,NEEDED,NEEDED,
-Celebrity Pedals,Djent Reznor,Overdrive,NEEDED,NEEDED,NEEDED,
+Cedar Custom Effects,Cedar Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Cedar Custom Effects/Cedar Drive.md
+Celebrity Pedals,Adam Driver,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Celebrity Pedals/Adam Driver.md
+Celebrity Pedals,Distorsean Paul,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Celebrity Pedals/Distorsean Paul.md
+Celebrity Pedals,Djent Reznor,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Celebrity Pedals/Djent Reznor.md
 Celebrity Pedals,Fuzzbulla,Fuzz,NEEDED,NEEDED,NEEDED,
 Celebrity Pedals,Fuzztin Bieber,Fuzz,NEEDED,NEEDED,NEEDED,
 Celestial Effects,Aquarius,Fuzz,NEEDED,NEEDED,NEEDED,
