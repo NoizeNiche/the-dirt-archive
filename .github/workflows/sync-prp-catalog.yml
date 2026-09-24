@@ -16,7 +16,7 @@ permissions:
 
 concurrency:
   group: dirt-prp-catalog-sync
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   sync:
@@ -50,18 +50,29 @@ jobs:
 
           git commit -m "Sync research catalog and phase queue"
 
-          # Parallel research workers can finish close together. Rebase the
-          # generated synchronization commit onto the newest main branch before
-          # pushing so a sibling worker cannot strand an otherwise valid batch.
+          # Generated catalog/tracker/queue files are derived state. When
+          # multiple research workers finish together, never try to merge those
+          # generated files as ordinary source changes. Rebuild them from the
+          # newest canonical research on main and publish that snapshot.
           for attempt in 1 2 3 4 5; do
             if git push origin main; then
               exit 0
             fi
 
-            echo "Sync push race; rebasing onto latest main (attempt $attempt/5)."
+            echo "Generated-state push race; rebuilding from newest main (attempt $attempt/5)."
             git fetch origin main
-            git rebase origin/main
+            git reset --hard origin/main
+            python scripts/sync_prp_catalog.py
+            python scripts/sync-prp-tracker.py
+            python scripts/build-research-queue.py
+            python scripts/validate-archive.py
+            git add research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
+            if git diff --cached --quiet; then
+              echo "Newest main already contains synchronized research state."
+              exit 0
+            fi
+            git commit -m "Sync research catalog and phase queue"
           done
 
-          echo "Unable to publish synchronized research metadata after 5 attempts."
-          exit 1
+          echo "Unable to publish synchronized research metadata after 5 rebuild attempts."
+
