@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:01:20.741865+00:00",
+  "generated_at": "2026-09-24T10:02:08.316996+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1320,
+    "researched": 1326,
     "pictured": 1286,
     "complete": 1286,
-    "research_pending": 2445
+    "research_pending": 2439
   },
   "next_target": {
     "builder": "Century",
@@ -68,43 +68,7 @@
     },
     {
       "builder": "Charlie Paolo Custom Effects",
-      "pedal": "Bloodstone Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Charlie Paolo Custom Effects",
-      "pedal": "Obsidian Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Charlie Paolo Custom Effects",
-      "pedal": "Sapphire - Transparent Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Charlie Paolo Custom Effects",
       "pedal": "Toothaker Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Charlie Pedals",
-      "pedal": "Theophane",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Charlie Pedals",
-      "pedal": "Troubadour 2023",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Charlie Pedals",
-      "pedal": "Troubadour MKI.5",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +129,42 @@
     {
       "builder": "Chase Tone",
       "pedal": "'68 Red Velvet Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chase Tone",
+      "pedal": "Black Stardust BC109 Silicon Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chase Tone",
+      "pedal": "Blue Stardust BC108 Silicon Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chase Tone",
+      "pedal": "Candy Apple Red Glazed Germanium Fuzz Face",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chase Tone",
+      "pedal": "Fuzz Fella Blue BC108C",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chase Tone",
+      "pedal": "Metallic Blue Stardust Hi-Octave Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chase Tone",
+      "pedal": "Purple Stardust Hi-Octave Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
