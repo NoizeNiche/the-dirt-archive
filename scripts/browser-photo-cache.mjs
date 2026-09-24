@@ -1237,14 +1237,29 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
       const parsed = new URL(pageUrl);
       if (/([.]|^)effectsdatabase[.]com$/i.test(parsed.hostname) && /^\/model\//i.test(parsed.pathname)) {
         const suffix = parsed.pathname.slice('/model/'.length).replace(/\/+$/, '');
-        const legacySlug = suffix.replace(/\//g, '_').replace(/[^a-z0-9._-]+/gi, '_').replace(/^_+|_+$/g, '');
+        const legacySlug = suffix.replace(/\\//g, '_').replace(/[^a-z0-9._-]+/gi, '_').replace(/^_+|_+$/g, '');
         if (legacySlug) {
-          const stems = [legacySlug, legacySlug + '_001', legacySlug + '_01', legacySlug + '_1'];
-          for (const stem of stems) {
-            urls.add('https://files.effectsdatabase.com/gear/pics/' + stem + '.jpg');
-            urls.add('https://files.effectsdatabase.com/gear/thumbs/' + stem + '.jpg');
-            urls.add('https://files.effectsdatabase.com/gear/pics/' + stem + '.png');
-            urls.add('https://files.effectsdatabase.com/gear/thumbs/' + stem + '.png');
+          // Effects Database's legacy files use multiple deterministic slug forms.
+          // CBS/Arbiter records can be stored as "arbiter-cbs_model_001" while the
+          // modern model path naturally derives "arbiter_cbs_model_001".
+          const pathParts = suffix.split('/').filter(Boolean);
+          const legacySlugVariants = new Set([legacySlug]);
+          if (pathParts.length >= 3) {
+            const hyphenBrand = pathParts.slice(0, 2).join('-');
+            const rest = pathParts.slice(2).join('_');
+            const hyphenatedBrandSlug = (hyphenBrand + '_' + rest)
+              .replace(/[^a-z0-9._-]+/gi, '_')
+              .replace(/^_+|_+$/g, '');
+            if (hyphenatedBrandSlug) legacySlugVariants.add(hyphenatedBrandSlug);
+          }
+          for (const variant of legacySlugVariants) {
+            for (const suffixVariant of ['', '_001', '_01', '_1']) {
+              const stem = variant + suffixVariant;
+              urls.add('https://files.effectsdatabase.com/gear/pics/' + stem + '.jpg');
+              urls.add('https://files.effectsdatabase.com/gear/thumbs/' + stem + '.jpg');
+              urls.add('https://files.effectsdatabase.com/gear/pics/' + stem + '.png');
+              urls.add('https://files.effectsdatabase.com/gear/thumbs/' + stem + '.png');
+            }
           }
         }
       }
