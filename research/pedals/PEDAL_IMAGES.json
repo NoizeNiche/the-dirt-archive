@@ -12424,7 +12424,7 @@
   {
     "builder": "Cherry Music",
     "pedal": "Mighty Sound M1 Distortion",
-    "image": null,
+    "image": "./assets/pedals/cherry-music/mighty-sound-m1-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cherry Music/Mighty Sound M1 Distortion.md"
   },
@@ -12522,14 +12522,14 @@
   {
     "builder": "Chiu Luen",
     "pedal": "CL-4 Distortion/Reverb",
-    "image": null,
+    "image": "./assets/pedals/chiu-luen/cl-4-distortion-reverb/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chiu Luen/CL-4 Distortion Reverb.md"
   },
   {
     "builder": "Chiu Luen",
     "pedal": "CL-5 Distortion",
-    "image": null,
+    "image": "./assets/pedals/chiu-luen/cl-5-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chiu Luen/CL-5 Distortion.md"
   },
@@ -14544,7 +14544,7 @@
   {
     "builder": "Coopersonic",
     "pedal": "Deluxe Valve Overdrive",
-    "image": null,
+    "image": "./assets/pedals/coopersonic/deluxe-valve-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coopersonic/Deluxe Valve Overdrive.md"
   },
@@ -14558,14 +14558,14 @@
   {
     "builder": "Coopersonic",
     "pedal": "Dual-Valve Distortion (Deluxe)",
-    "image": null,
+    "image": "./assets/pedals/coopersonic/dual-valve-distortion-deluxe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coopersonic/Dual-Valve Distortion (Deluxe).md"
   },
   {
     "builder": "Coopersonic",
     "pedal": "Dual-Valve Distortion (Regular)",
-    "image": null,
+    "image": "./assets/pedals/coopersonic/dual-valve-distortion-regular/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coopersonic/Dual-Valve Distortion (Regular).md"
   },
@@ -14579,7 +14579,7 @@
   {
     "builder": "Coopersonic",
     "pedal": "Pig Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coopersonic/pig-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coopersonic/Pig Fuzz.md"
   },
@@ -14635,7 +14635,7 @@
   {
     "builder": "Copper Gear",
     "pedal": "Black Howler",
-    "image": null,
+    "image": "./assets/pedals/copper-gear/black-howler/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Copper Gear/Black Howler.md"
   },
@@ -14649,7 +14649,7 @@
   {
     "builder": "Copper Gear",
     "pedal": "Distorta Azura",
-    "image": null,
+    "image": "./assets/pedals/copper-gear/distorta-azura/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Copper Gear/Distorta Azura.md"
   },
