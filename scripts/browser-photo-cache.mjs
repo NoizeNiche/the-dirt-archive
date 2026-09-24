@@ -1723,7 +1723,19 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       try {
         const parsedSource = new URL(sourcePage);
         const isReverbListing = isReverbListingUrl(sourcePage);
-        await page.goto(sourcePage, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+        let currentIsSourcePage = false;
+        try {
+          const current = new URL(page.url());
+          const target = new URL(sourcePage);
+          currentIsSourcePage =
+            current.origin === target.origin &&
+            current.pathname.replace(/\/+$/, '') === target.pathname.replace(/\/+$/, '');
+        } catch {}
+        // Reuse the already identity-verified page when possible. Protected
+        // marketplace pages can lose their hydrated gallery when navigated twice.
+        if (!currentIsSourcePage) {
+          await page.goto(sourcePage, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+        }
         await page.waitForTimeout(isReverbListing ? 2800 : 500);
 
         if (isReverbListing) {
