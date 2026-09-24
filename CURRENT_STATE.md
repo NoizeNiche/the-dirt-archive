@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1590 researched / 1544 pictured / 1544 complete / 2175 research-pending / 46 researched-photo-pending**.
+Live catalog: **3765 total / 1591 researched / 1544 pictured / 1544 complete / 2174 research-pending / 47 researched-photo-pending**.
 
-**Next research target:** Color Audio - Cassette Preamp.
+**Next research target:** Colorsound / Sola Sound - B&M Champion Fuzz Unit.
 
-PRP1 closeout remains separate: 46 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 47 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-24T12:15:46.181405+00:00
+Last refreshed: 2026-09-24T12:16:58.548459+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints

@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T12:15:46.181405+00:00",
+  "generated_at": "2026-09-24T12:16:58.548459+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1590,
+    "researched": 1591,
     "pictured": 1544,
     "complete": 1544,
-    "research_pending": 2175
+    "research_pending": 2174
   },
   "next_target": {
-    "builder": "Color Audio",
-    "pedal": "Cassette Preamp",
+    "builder": "Colorsound / Sola Sound",
+    "pedal": "B&M Champion Fuzz Unit",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Color Audio",
-      "pedal": "Cassette Preamp",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Colorsound / Sola Sound",
       "pedal": "B&M Champion Fuzz Unit",
@@ -165,6 +159,12 @@
     {
       "builder": "Commune",
       "pedal": "Senturion Modern Factor",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Commune",
+      "pedal": "Senturion Preamp 500",
       "catalog_type": "",
       "research_record": ""
     }
