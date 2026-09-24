@@ -1,35 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T11:46:18.691451+00:00",
+  "generated_at": "2026-09-24T11:47:15.476057+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1552,
+    "researched": 1554,
     "pictured": 1519,
     "complete": 1519,
-    "research_pending": 2213
+    "research_pending": 2211
   },
   "next_target": {
     "builder": "Collateral FX",
-    "pedal": "P023 The Bendz Fuzz",
+    "pedal": "P026 Banana Fuzz",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Collateral FX",
-      "pedal": "P023 The Bendz Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Collateral FX",
-      "pedal": "P024 Sirius Dual Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Collateral FX",
       "pedal": "P026 Banana Fuzz",
@@ -165,6 +153,18 @@
     {
       "builder": "Colombo Audio Electronics",
       "pedal": "Kensington Star",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Colombo Audio Electronics",
+      "pedal": "Lead Trilogy",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Colombo Audio Electronics",
+      "pedal": "Mr. Deaky",
       "catalog_type": "",
       "research_record": ""
     }
