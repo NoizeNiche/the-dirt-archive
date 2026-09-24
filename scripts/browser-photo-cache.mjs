@@ -1270,7 +1270,16 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
         const absolute = /^https?:\/\//i.test(value) ? value : new URL(value, pageUrl).href;
         if (!/^https?:\/\//i.test(absolute)) return;
         if (/(logo|avatar|icon|sprite|favicon|badge|payment|social)/i.test(absolute)) return;
-        if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(absolute) || /effectsdatabase\.com/i.test(new URL(absolute).hostname)) {
+        try {
+          const absoluteUrl = new URL(absolute);
+          if (
+            /(^|\.)effectsdatabase\.com$/i.test(absoluteUrl.hostname) &&
+            /(buymeacoffee|donate|support|patreon|payment|sponsor|banner|widget)/i.test(absoluteUrl.pathname + absoluteUrl.search)
+          ) return;
+        } catch {}
+        if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(absolute)) {
+          urls.add(absolute);
+        } else if (/effectsdatabase\.com/i.test(new URL(absolute).hostname)) {
           urls.add(absolute);
         }
       } catch {}
