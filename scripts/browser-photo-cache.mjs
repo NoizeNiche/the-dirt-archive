@@ -1558,6 +1558,56 @@ async function curlExactSourcePageImages(entry, sourceRows) {
   return [...new Map(out.map(x => [x.url, x])).values()].slice(0, 24);
 }
 
+function deepReviewSourcePageEligible(pageUrl) {
+  try {
+    const url = new URL(pageUrl);
+    return /^https?:$/i.test(url.protocol) &&
+      !/(^|\.)bing\.com$/i.test(url.hostname) &&
+      !/(^|\.)google\.com$/i.test(url.hostname) &&
+      !/(^|\.)html\.duckduckgo\.com$/i.test(url.hostname);
+  } catch {
+    return false;
+  }
+}
+
+async function curlVerifiedSourcePageImages(entry, pageUrl) {
+  if (!deepReviewSourcePageEligible(pageUrl)) return [];
+  let html = '';
+  try {
+    const proc = await execFileAsync('curl', [
+      '-L', '--silent', '--show-error', '--compressed',
+      '--connect-timeout', '3', '--max-time', '6',
+      '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
+      '-H', 'Accept-Language: en-US,en;q=0.9',
+      String(pageUrl)
+    ], { timeout: 7500, maxBuffer: 6 * 1024 * 1024 });
+    html = String(proc.stdout || '');
+  } catch {}
+  if (!html) return [];
+
+  const title = (html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [,''])[1]
+    .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+  const h1 = (html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || [,''])[1]
+    .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+  const body = html
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .slice(0, 300000);
+
+  if (!pageMatchesIdentity(entry, title + ' ' + body, h1) &&
+      !reverbListingMatchesIdentity(entry, pageUrl, title, h1)) return [];
+
+  const imageUrls = rawVerifiedPageImageUrls(html, pageUrl);
+  return imageUrls.map(url => ({
+    url,
+    sourcePage: pageUrl,
+    sourceScore: 165,
+    rawVerifiedPageImage: true
+  }));
+}
+
 async function recoverEntry(browser, entry, deepReview = false, recoveryDeadlineMs = RECOVERY_DEADLINE_MS) {
   const diagnostic = {
     sourceHost: null,
@@ -2003,6 +2053,27 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
             }
           }
         } catch {}
+        }
+
+        if (!selectedResult && deepReview) {
+          try {
+            const curlImages = await curlVerifiedSourcePageImages(entry, pageUrl);
+            diagnostic.rawHtmlCandidates += curlImages.length;
+            if (curlImages.length && (entry.company === 'CAT Sound' || entry.company === 'C14 Devices')) {
+              console.log(entry.company + ' / ' + entry.pedal + ' curl-verified source images: ' + curlImages.map(x => x.url).join(' | '));
+            }
+            candidates.push(...curlImages);
+            selectedResult = await tryImages(curlImages);
+            if (!selectedResult) {
+              for (const candidate of curlImages.slice(0, 8)) {
+                const proxy = await proxyImageCandidate(candidate);
+                if (proxy?.bytes) {
+                  selectedResult = { candidate, bytes: proxy.bytes };
+                  break;
+                }
+              }
+            }
+          } catch {}
         }
       }
     }
