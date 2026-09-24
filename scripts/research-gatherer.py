@@ -33,7 +33,7 @@ def search(q):
     html=run(["curl","-L","--silent","--show-error","--compressed","--connect-timeout","3","--max-time","7",
               "-A","Mozilla/5.0","https://www.bing.com/search?q="+urllib.parse.quote(q)],10)
     out=[]; seen=set()
-    for m in re.finditer(r'<li[^>]+class=["\\']b_algo[^>]*>[\\s\\S]*?<h2[^>]*>\s*<a[^>]+href=["\\']([^"\\']+)["\\'][^>]*>([\\s\\S]*?)</a>',html,re.I):
+    for m in re.finditer(r"<li[^>]+class=[\"']b_algo[^>]*>[\\s\\S]*?<h2[^>]*>\s*<a[^>]+href=[\"']([^\"']+)[\"'][^>]*>([\\s\\S]*?)</a>",html,re.I):
         u=m.group(1); title=re.sub(r"\s+"," ",re.sub(r"<[^>]+>"," ",m.group(2))).strip()
         if u.startswith("http") and u not in seen:
             seen.add(u); out.append({"url":u,"search_title":title})
