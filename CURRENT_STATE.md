@@ -1,26 +1,10 @@
-## Current recovery checkpoint - September 23, 2026
+## Current recovery checkpoint - September 24, 2026
 
-The canonical tracker currently parses to **3,816 total records / 1,271 researched records / 1,227 pictured records / 1,227 PRP-complete records / 44 researched-photo-pending records / 2,589 photo-missing records overall**. The image-cache report also confirms **0 external source images awaiting localization**.
+The live research/PRP_TRACKER.csv on main currently parses to **3,770 total records / 1,271 researched records / 1,271 pictured records / 1,271 PRP-complete records / 1 researched-photo-pending record / 2,499 photo-missing records overall**. The remaining researched/photo-pending record is **CBC Pedals — Harmonic Percolator**.
 
-The photo-recovery system remains the active production lane. The current researched-photo gate contains **44 records**, all currently parked for deeper recovery after bounded automatic attempts. The queue is still ordered from the live tracker, with the first unresolved researched records at **A&M Custom Effects - Crash Central - Crunch Distortion** and **A&M Custom Effects - Crazyboy - Double Fuzz**. PRP1 remains gated until the researched-photo-pending count reaches **0**.
+The photo gate is therefore down to its final unresolved record. Exact-identity recovery remains mandatory. Recent web research confirms CBC Pedals (also known as CBC / Clones by Chris) made an Interfax Harmonic Percolator reproduction with an added diode-lift switch, but no currently indexed source located an exact CBC pedal photograph that is safe to archive. Do **not** substitute an Interfax, Chuck Collins, Analog Noir, EHX, or other Percolator image for the CBC record.
 
-The recovery worker is operating with the tightened September 23 throughput rules:
-The September 23 hard-case throughput pass now reopens up to **30 parked records per cycle** and reserves up to **16 hard-case processing slots**, while retaining the existing per-builder and browser concurrency limits. The deep-review ceiling has now been raised from **3 to 8 cycles** so parked records can receive additional bounded recovery rounds.
-
-- each pedal gets a bounded recovery window
-- large batches are capped to fit inside the Actions job window
-- curated direct-image overrides are attempted before source-page navigation or search
-- researched records with photos pending receive priority
-- scheduled recovery remains every 10 minutes with queued runs preserved
-- the image runtime remains local-first
-
-A fresh recovery kick was published as commit **cf38c5f50e88adbb7e21881234475c8f02c2e359**, explicitly resuming the canonical A-to-Z photo gate from the live tracker. Recent recovery work has added or strengthened exact-source leads and direct-image fallbacks for multiple stubborn records, while the hardened identity gate rejects false-positive image matches.
-
-The home-page archive grid retains its complete card, image-placeholder, responsive, and pagination styling. The detail page remains on the existing 3:4 photo presentation with version/colorway navigation, builder navigation, demo links, and the Research confidence/Sources checked sections hidden from the public renderer.
-
-**Operational priority:** keep photo recovery moving toward 0, keep tracker/catalog/image manifests synchronized after every published batch, then release the PRP1 gate and move directly into the remaining pedal research backlog.
-
----
+The next operational target is to recover an exact CBC Pedals Harmonic Percolator image, archive it locally, synchronize the tracker/catalog/photo manifests, and verify the gate at **0** before releasing PRP1. The existing local-first photo architecture and exact builder+model identity gate remain unchanged.
 
 ## Full-site maintenance checkpoint - September 21, 2026
 
