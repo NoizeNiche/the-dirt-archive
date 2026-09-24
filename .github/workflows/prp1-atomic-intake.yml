@@ -1,4 +1,4 @@
-name: PRP1 Atomic Intake
+name: PRP1 Legacy Photo Closeout
 
 on:
   workflow_run:
@@ -43,7 +43,7 @@ jobs:
         id: photo_gate
         run: |
           echo "complete=true" >> "$GITHUB_OUTPUT"
-          echo "PRP1 global photo catch-up gate is open. Each target still requires an exact photo attempt before finalization."
+          echo "PRP1 is a legacy publication/closeout gate. Research is no longer advanced by this workflow."
 
       - name: Check PRP1 intake queue
         id: intake_gate
@@ -367,7 +367,7 @@ jobs:
             echo "No PRP1 atomic changes to publish."
             exit 0
           fi
-          git commit -m "PRP1: publish researched pedal with exact photo"
+          git commit -m "PRP1 closeout: publish researched pedal with exact photo"
           for attempt in 1 2 3 4 5; do
             if git push; then
               exit 0
