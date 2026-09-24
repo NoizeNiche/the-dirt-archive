@@ -959,16 +959,45 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
 
       let results = await page.evaluate(() => {
         const out = [];
-        for (const anchor of document.querySelectorAll('a[href]')) {
+        const push = (murl, purl, title, context) => {
+          if (!murl || !/^https?:\/\//i.test(murl)) return;
+          if (/^(?:https?:\/\/)?(?:www\.)?(google|gstatic|googleusercontent)\./i.test(murl)) return;
+          if (!purl || !/^https?:\/\//i.test(purl)) return;
+          out.push({ murl, purl, title: title || '', context: context || '', searchUrl: location.href });
+        };
+
+        for (const image of document.querySelectorAll('img')) {
+          const anchor = image.closest('a[href]');
+          if (!anchor) continue;
           const href = anchor.href || '';
+
+          // Google Images commonly uses /imgres?imgurl=<original>&imgrefurl=<source>.
+          // Decode those explicit parameters instead of discarding the google.com
+          // wrapper URL.
+          try {
+            const parsed = new URL(href);
+            if (parsed.hostname === 'www.google.com' && parsed.pathname === '/imgres') {
+              const murl = parsed.searchParams.get('imgurl') || '';
+              const purl = parsed.searchParams.get('imgrefurl') || '';
+              const context = [
+                image.alt || '',
+                image.getAttribute('title') || '',
+                anchor.textContent || '',
+                anchor.getAttribute('aria-label') || '',
+                anchor.getAttribute('title') || '',
+                purl
+              ].join(' ').replace(/\s+/g, ' ').trim();
+              push(murl, purl, image.alt || anchor.getAttribute('title') || '', context);
+              continue;
+            }
+          } catch {}
+
+          // Some layouts expose direct external links rather than /imgres.
           if (!/^https?:\/\//i.test(href)) continue;
           try {
             const host = new URL(href).hostname.toLowerCase();
             if (host === 'www.google.com' || host.endsWith('.google.com') || host.endsWith('.gstatic.com')) continue;
           } catch {}
-
-          const image = anchor.querySelector('img');
-          if (!image) continue;
 
           const imageAttrs = [
             image.getAttribute('data-iurl') || '',
@@ -979,12 +1008,9 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
             image.src || ''
           ].filter(Boolean);
 
-          const murl = imageAttrs.find(value => {
-            if (!/^https?:\/\//i.test(value)) return false;
-            return !/(encrypted-tbn|gstatic|googleusercontent)/i.test(value);
-          }) || imageAttrs.find(value => /^https?:\/\//i.test(value)) || '';
-
-          if (!murl) continue;
+          const murl = imageAttrs.find(value => /^https?:\/\//i.test(value) &&
+            !/(encrypted-tbn|gstatic|googleusercontent)/i.test(value)) ||
+            imageAttrs.find(value => /^https?:\/\//i.test(value)) || '';
 
           const context = [
             image.alt || '',
@@ -995,14 +1021,9 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
             href
           ].join(' ').replace(/\s+/g, ' ').trim();
 
-          out.push({
-            murl,
-            purl: href,
-            title: image.alt || anchor.getAttribute('title') || '',
-            context,
-            searchUrl: location.href
-          });
+          push(murl, href, image.alt || anchor.getAttribute('title') || '', context);
         }
+
         return [...new Map(out.map(x => [x.murl + '\u0000' + x.purl, x])).values()];
       });
 
