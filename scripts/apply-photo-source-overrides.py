@@ -113,9 +113,12 @@ def main() -> None:
 
         direct = direct_overrides.get(key(entry.get("company", ""), entry.get("pedal", ""))) or []
         if direct:
-            direct_urls = list(dict.fromkeys(image_url for _, image_url, _ in reversed(direct)))
+            # Preserve manifest order so the newest curated lead remains
+            # the active direct URL. Reversing before taking the last item
+            # accidentally reinstated the oldest blocked CDN URL.
+            direct_urls = list(dict.fromkeys(image_url for _, image_url, _ in direct))
             direct_page = direct[-1][0]
-            direct_url = direct_urls[-1]
+            direct_url = direct[-1][1]
             if entry.get("image_source_page") != direct_page:
                 entry["image_source_page"] = direct_page
             if entry.get("image_source_url") != direct_url:
