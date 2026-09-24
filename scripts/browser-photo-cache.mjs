@@ -3099,21 +3099,16 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       return null;
     }
 
-    // Once an explicit source page has successfully passed exact identity,
-    // deep review should not repeatedly search marketplaces for the same pedal.
-    // Keep those searches available for failed/unloaded source pages and for fresh
-    // non-deep-review records.
-    const exactSourceVerified =
-      deepReview &&
-      hasExplicitSourcePage &&
-      diagnostic.sourcePageLoaded &&
-      diagnostic.sourceIdentityMatch;
-
-    // Reverb sold listings are the preferred marketplace source for hard cases.
+    // Exact source pages are tried first, but a verified page that fails
+    // to yield a usable image must still be allowed to fall through to other
+    // reliable sources. Identity and image selection remain separate gates.
+    // This prevents a bad CDN, empty gallery, or blocked archive page from
+    // becoming a permanent dead end.
+    // Reverb sold listings are one fallback source among several.
     // Reverb's Sold Listings filter exposes previously sold listings, and Reverb
     // requires listing photos to show the exact item being sold. Verify the listing
     // identity first, then harvest its actual listing photos.
-    if (!selectedResult && IMAGE_SEARCH_ENABLED && !exactSourceVerified) {
+    if (!selectedResult && IMAGE_SEARCH_ENABLED) {
       const soldResults = await reverbSoldCandidates(page, entry, deepReview);
       diagnostic.soldCandidates = soldResults.length;
       const verifiedSold = [];
@@ -3205,7 +3200,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     // image search and other indexed web results. Deep-review records whose
     // curated source page already passed identity stay source-first to avoid
     // burning another full search cycle on the same hard case.
-    if (!selectedResult && IMAGE_SEARCH_ENABLED && !exactSourceVerified) {
+    if (!selectedResult && IMAGE_SEARCH_ENABLED) {
       const searchResults = await imageSearchCandidates(page, entry, deepReview);
       diagnostic.imageSearchCandidates = searchResults.length;
       const verifiedSearch = [];
