@@ -1184,7 +1184,13 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
     } catch {}
   }
 
-  return [...merged.values()];
+  const finalResults = [...merged.values()];
+  if (entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass' && finalResults.length) {
+    console.log('CAT Sound image-search raw results: ' + finalResults.slice(0, 30).map(x =>
+      JSON.stringify({title:x.title||'',purl:x.purl||'',murl:x.murl||''})
+    ).join(' | '));
+  }
+  return finalResults;
 }
 
 async function effectsDatabaseFeedImageUrls(page, pageUrl) {
