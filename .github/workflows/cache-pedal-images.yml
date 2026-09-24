@@ -118,13 +118,18 @@ jobs:
           # Keep only recovered binary assets across the rebase. All generated
           # catalog/queue/report state is derived again from the rebased main, so
           # it must be reset before rebase rather than left unstaged.
-          git stash push -u -m "image-cache-assets" -- assets/pedals || true
+          tmp_assets="$(mktemp -d)"
+          if [ -d assets/pedals ]; then
+            mv assets/pedals "$tmp_assets/pedals"
+          fi
+          mkdir -p assets/pedals
           git restore -- research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
           git fetch origin main
           git rebase origin/main
-          if git stash list | grep -q 'image-cache-assets'; then
-            git stash pop
+          if [ -d "$tmp_assets/pedals" ]; then
+            cp -a "$tmp_assets/pedals/." assets/pedals/
           fi
+          rm -rf "$tmp_assets"
 
       - name: Reconcile recovered local assets
         run: python scripts/reconcile-local-photo-assets.py
