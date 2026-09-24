@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T11:39:01.604102+00:00",
+  "generated_at": "2026-09-24T11:40:10.879804+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1545,
+    "researched": 1546,
     "pictured": 1517,
     "complete": 1517,
-    "research_pending": 2220
+    "research_pending": 2219
   },
   "next_target": {
     "builder": "Collateral FX",
-    "pedal": "P014 Red Giant",
+    "pedal": "P015 White Russian Distortion/Fuzz",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Collateral FX",
-      "pedal": "P014 Red Giant",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Collateral FX",
       "pedal": "P015 White Russian Distortion/Fuzz",
@@ -165,6 +159,12 @@
     {
       "builder": "Colombo Audio Electronics",
       "pedal": "57 Turbo Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Colombo Audio Electronics",
+      "pedal": "Blackface Idol",
       "catalog_type": "",
       "research_record": ""
     }
