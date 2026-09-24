@@ -18005,7 +18005,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/center-street-electronics/god-hates-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Center Street Electronics/God Hates Fuzz.md"
     },
@@ -18534,7 +18534,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chase-tone/fuzz-fella-blue-bc108c/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Fuzz Fella Blue BC108C.md"
     },
@@ -19199,7 +19199,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/circle-of-tone/quad-damage/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circle Of Tone/Quad Damage.md"
     },
@@ -19775,7 +19775,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cmat-mods/signa-comp-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMAT Mods/Signa Comp-Drive.md"
     },
@@ -20586,7 +20586,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/collateral-fx/p021-parsec-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P021 Parsec.md"
     },
@@ -20596,7 +20596,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/collateral-fx/p022-drive-for-the-dead-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P022 Drive for the Dead Overdrive.md"
     },
@@ -20606,7 +20606,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/collateral-fx/p023-the-bendz-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P023 The Bendz Fuzz.md"
     },
@@ -20616,7 +20616,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/collateral-fx/p024-sirius-dual-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P024 Sirius Dual Overdrive.md"
     },
@@ -20626,7 +20626,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/collateral-fx/p026-banana-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P026 Banana Fuzz.md"
     },
@@ -20636,7 +20636,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/collateral-fx/p027-element-118-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P027 Element 118 Fuzz.md"
     },
@@ -20646,7 +20646,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/collateral-fx/p028-palindrome-dual-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P028 Palindrome Dual Overdrive.md"
     },
@@ -20657,7 +20657,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/collateral-fx/p029-ring-system-overdrive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P029 Ring System Overdrive-Distortion.md"
     },
@@ -20677,7 +20677,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/collateral-fx/p032-touchstone-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P032 Touchstone Overdrive.md"
     },
@@ -20728,7 +20728,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/collision-devices/fz-gated-fuzz-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collision Devices/FZ - Gated Fuzz - Distortion.md"
     },
@@ -20739,7 +20739,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/collision-devices/singularity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collision Devices/Singularity.md"
     },
