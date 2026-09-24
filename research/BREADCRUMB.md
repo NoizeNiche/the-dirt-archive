@@ -1,8 +1,8 @@
 ## Photo integrity checkpoint - September 24, 2026
 
-The live tracker is now **3,770 total / 1,272 researched / 1,255 pictured / 1,255 PRP-complete / 17 researched-photo-pending / 2,515 photo-missing**. Seventeen records with obvious non-product image provenance were moved back to photo-pending so the recovery system can repair them. The validator now rejects obvious favicon/logo/template source classes.
+The live tracker is now **3,770 total / 1,272 researched / 1,255 pictured / 1,255 PRP-complete / 17 researched-photo-pending / 2,515 photo-missing**. Seventeen records with obvious non-product image provenance were moved back to photo-pending so the recovery system can repair them. The validator now rejects obvious favicon/logo/template source classes, so a mechanical zero cannot mask those failures.
 
-## PRP1 resumed after photo gate closure - September 24, 2026
+## PRP1 resumed then re-gated - September 24, 2026
 
 Verified live tracker state: **3,770 total / 1,272 researched / 1,272 pictured / 1,272 complete / 0 researched-photo-pending / 2,498 photo-missing**.
 
