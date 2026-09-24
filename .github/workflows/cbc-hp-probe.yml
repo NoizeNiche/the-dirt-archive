@@ -387,6 +387,60 @@ jobs:
           if-no-files-found: error
           retention-days: 1
 
+      - name: Probe indexed images for exact CBC Reverb listing
+        shell: bash
+        run: |
+          mkdir -p artifact/reverb-indexed
+          python - <<'PY'
+          import json,re,subprocess,html,urllib.parse
+          from pathlib import Path
+          queries=[
+            '"CBC Pedals The Percolator" Reverb',
+            '"CBC Pedals The Percolator" "2896434"',
+            '"2896434" "CBC Pedals"',
+            '"CBC Pedals" "The Percolator" fuzz'
+          ]
+          def curl(u):
+            p=subprocess.run([
+              "curl","-L","--silent","--show-error","--compressed",
+              "--connect-timeout","4","--max-time","10","-A","Mozilla/5.0"
+              ,"-H","Accept-Language: en-US,en;q=0.9",u
+            ],capture_output=True,text=True,errors="ignore",timeout=13)
+            return p.stdout or ""
+          out=[]; seen=set()
+          for q in queries:
+            raw=curl("https://www.bing.com/images/search?form=HDRSC2&q="+urllib.parse.quote(q))
+            for mm in re.finditer(r'(?:data-m|m)=["\']([^"\']+)',raw,re.I):
+              try: obj=json.loads(html.unescape(mm.group(1)))
+              except: continue
+              if not isinstance(obj,dict): continue
+              murl=obj.get("murl",""); purl=obj.get("purl",""); title=obj.get("t","")
+              if not murl or murl in seen: continue
+              seen.add(murl)
+              h=(title+" "+purl+" "+murl+" "+str(obj.get("desc",""))).lower()
+              if any(k in h for k in ["cbc pedals","the percolator","2896434","reverb.com"]):
+                out.append({"query":q,"title":title,"purl":purl,"murl":murl,"desc":obj.get("desc","")})
+          for i,x in enumerate(out[:30],1):
+            print("CANDIDATE",i,json.dumps(x,ensure_ascii=False))
+            u=x["murl"]
+            ext=".jpg"
+            if re.search(r'\.png(?:\?|$)',u,re.I): ext=".png"
+            fn=Path("artifact/reverb-indexed")/("candidate-%02d"%i+ext)
+            try:
+              p=subprocess.run(["curl","-L","--silent","--show-error","--fail","--connect-timeout","4","--max-time","10","-A","Mozilla/5.0","-o",str(fn),u],capture_output=True,timeout=13)
+              if p.returncode==0 and fn.is_file() and fn.stat().st_size>3000: print("SAVED",fn,fn.stat().st_size)
+            except Exception as e: print("ERR",e)
+          Path("artifact/reverb-indexed/candidates.json").write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+          PY
+
+      - name: Upload exact indexed Reverb image candidates
+        uses: actions/upload-artifact@v4
+        with:
+          name: exact-cbc-reverb-indexed
+          path: artifact/reverb-indexed/
+          if-no-files-found: error
+          retention-days: 1
+
       - name: Capture CBC-specific YouTube thumbnail for inspection
         shell: bash
         run: |
