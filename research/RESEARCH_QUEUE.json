@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T13:52:34.241412+00:00",
+  "generated_at": "2026-09-24T13:52:52.935034+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1654,
+    "researched": 1655,
     "pictured": 1601,
     "complete": 1601,
-    "research_pending": 2111
+    "research_pending": 2110
   },
   "next_target": {
     "builder": "Coopersonic",
@@ -39,12 +39,6 @@
     {
       "builder": "Coopersonic",
       "pedal": "Twin Tube Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Copilot FX",
-      "pedal": "Mantis",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +159,12 @@
     {
       "builder": "Cordovox",
       "pedal": "DS-9 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cordovox",
+      "pedal": "FZ-7 Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
