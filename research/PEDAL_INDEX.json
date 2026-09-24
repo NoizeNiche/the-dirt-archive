@@ -10762,12 +10762,13 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackout/fubar",
       "research_record": "./research/pedals/PRP Batch 102/FUBÄR.md",
-      "image_source_page": "https://blackouteffectors.com/effects/",
+      "image_source_page": "https://motorcityguitar.com/products/blackout-effectors-fubar-tonebender-fuzz-oscillator-expression-pedal",
       "image_source_page_verified": true,
-      "image_source_priority": 457,
+      "image_source_priority": 511,
       "image_source_pages": [
         "https://reverb.com/item/3620903-blackout-effectors-fubar",
-        "https://blackouteffectors.com/effects/"
+        "https://blackouteffectors.com/effects/",
+        "https://motorcityguitar.com/products/blackout-effectors-fubar-tonebender-fuzz-oscillator-expression-pedal"
       ],
       "image_source_pages_verified": true
     },
@@ -13593,6 +13594,7 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/byoc/855drive",
         "https://reverb.com/item/42880976-b-y-o-c-855-drive-pre-built-pedal",
+        "https://reverb.com/item/82964100-byoc-855-drive-ibanez-855-clone",
         "https://reverb.com/ca/item/3239619-byoc-855-drive-overdrive-pedal-pre-built"
       ],
       "image_source_pages_verified": true,
@@ -14457,7 +14459,7 @@
       "research_record": "./research/pedals/PRP Batch 135/cic-mod-7-overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/cic/mod7",
       "image_source_page_verified": true,
-      "image_source_priority": 500,
+      "image_source_priority": 505,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/cic/mod7"
       ],
@@ -14478,7 +14480,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/cqo/superdistortion",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 501
+      "image_source_priority": 506
     },
     {
       "company": "C14 Devices",
@@ -16450,7 +16452,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/casimir/entropy",
       "image_source_url": "https://www.effectsdatabase.com/model/casimir/entropy",
       "image_source_page_verified": true,
-      "image_source_priority": 502,
+      "image_source_priority": 507,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/casimir/entropy"
       ],
@@ -16598,15 +16600,16 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/caswell-modern-electronics-cme/shark-mouth-bass-synth-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caswell/sharkmouth",
       "research_record": "./research/pedals/PRP Batch 154/caswell-cme-shark-mouth-bass-synth-fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/caswell/sharkmouth",
-      "image_source_url": "https://www.effectsdatabase.com/model/caswell/sharkmouth",
+      "image_source_page": "https://caswellmodernelectronics.bigcartel.com/product/shark-mouth-bass-synth-fuzz",
+      "image_source_url": "https://assets.bigcartel.com/theme_images/21432877/Livecontrasted_lighter.jpg",
       "image_source_page_verified": true,
-      "image_source_priority": 503,
+      "image_source_priority": 508,
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/caswell/sharkmouth"
+        "https://www.effectsdatabase.com/model/caswell/sharkmouth",
+        "https://caswellmodernelectronics.bigcartel.com/product/shark-mouth-bass-synth-fuzz"
       ],
       "image_source_pages_verified": true
     },
@@ -17327,7 +17330,7 @@
       "research_record": "./research/pedals/PRP Batch 161/catastrofx-outbreak.md",
       "image_source_page": "https://www.guitarpedalx.com/news/catastrofx-combines-high-velocity-and-southerly-harmonic-overdrives-in-its-singularly-potent-and-fantastic-sounding-dual-voiced-outbreak-pedal",
       "image_source_page_verified": true,
-      "image_source_priority": 272,
+      "image_source_priority": 509,
       "image_source_pages": [
         "https://www.guitarpedalx.com/news/catastrofx-combines-high-velocity-and-southerly-harmonic-overdrives-in-its-singularly-potent-and-fantastic-sounding-dual-voiced-outbreak-pedal"
       ],
