@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-24T10:06:51.759465+00:00",
+  "generated_at": "2026-09-24T10:07:41.098162+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1358,
+    "researched": 1362,
     "pictured": 1308,
     "complete": 1308,
-    "research_pending": 2407
+    "research_pending": 2403
   },
   "next_target": {
     "builder": "Century",
@@ -21,30 +21,6 @@
     {
       "builder": "Century",
       "pedal": "Century SDI-1 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chamber Of Sounds",
-      "pedal": "Green Genie",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chaos Custom Shop / Chaos FX",
-      "pedal": "K.O. Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Charlie Paolo Custom Effects",
-      "pedal": "Toothaker Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Chase Bliss Audio",
-      "pedal": "Brothers",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +141,30 @@
     {
       "builder": "Chocolate Electronics",
       "pedal": "Melty Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chord (by Daphon)",
+      "pedal": "BOD-50 Bass Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chord (by Daphon)",
+      "pedal": "DS-50 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chord (by Daphon)",
+      "pedal": "HM-50 Heavy Metal",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Chord (by Daphon)",
+      "pedal": "MT-50 Metal Driver",
       "catalog_type": "",
       "research_record": ""
     }
