@@ -13706,30 +13706,38 @@
   {
     "builder": "Collateral FX",
     "pedal": "P015 White Russian Distortion/Fuzz",
-    "image": null,
+    "image": "./assets/pedals/collateral-fx/p015-white-russian-distortion-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Collateral FX/P015 White Russian Distortion/Fuzz.md"
+    "research_record": "./research/pedals/Collateral FX/P015 White Russian Distortion/Fuzz.md",
+    "image_source_url": "https://collateralfx.com/br/wp-content/uploads/p015-680x680.png.webp",
+    "image_source_page": "https://collateralfx.com/br/pedais/p015-white-russian/"
   },
   {
     "builder": "Collateral FX",
     "pedal": "P016 Foxey Face Fuzz",
-    "image": null,
+    "image": "./assets/pedals/collateral-fx/p016-foxey-face-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Collateral FX/P016 Foxey Face.md"
+    "research_record": "./research/pedals/Collateral FX/P016 Foxey Face.md",
+    "image_source_url": "https://collateralfx.com/en/wp-content/uploads/p016.png",
+    "image_source_page": "https://collateralfx.com/en/pedals/p016-foxey-face/"
   },
   {
     "builder": "Collateral FX",
     "pedal": "P017 Unchained Overdrive/Distortion",
-    "image": null,
+    "image": "./assets/pedals/collateral-fx/p017-unchained-overdrive-distortion/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Collateral FX/P017 Unchained Overdrive-Distortion.md"
+    "research_record": "./research/pedals/Collateral FX/P017 Unchained Overdrive-Distortion.md",
+    "image_source_url": "https://collateralfx.com/br/wp-content/uploads/p017d-680x680.png.webp",
+    "image_source_page": "https://collateralfx.com/br/pedais/p017-unchained-overdrive/"
   },
   {
     "builder": "Collateral FX",
     "pedal": "P019 Slow Distortion/Fuzz",
-    "image": null,
+    "image": "./assets/pedals/collateral-fx/p019-slow-distortion-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Collateral FX/P019 Slow.md"
+    "research_record": "./research/pedals/Collateral FX/P019 Slow.md",
+    "image_source_url": "https://collateralfx.com/br/wp-content/uploads/p019-680x680.png.webp",
+    "image_source_page": "https://collateralfx.com/br/pedais/p019-slow-fuzz/"
   },
   {
     "builder": "Collateral FX",
