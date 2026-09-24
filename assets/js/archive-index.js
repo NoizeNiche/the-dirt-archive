@@ -293,6 +293,8 @@ loadCatalog()
   $('pulsePedals').textContent=items.length.toLocaleString();
   $('pulseBuilders').textContent=builderTotal.toLocaleString();
   $('pulsePhotos').textContent=picturedTotal.toLocaleString();
+  const coverage=items.length ? (picturedTotal/items.length)*100 : 0;
+  $('pulseCoverage').textContent=coverage.toFixed(1)+'%';
 
   render();
   syncUrl();
