@@ -937,6 +937,108 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
     } catch {}
   }
 
+  // Google Images is a second broad discovery engine. Its DOM/embedded
+  // metadata is less stable than Bing's, so collect only image/source pairs
+  // that can be tied back to an external source page. The source page is still
+  // checked by the normal identity gate later.
+  const googleQueries = deepReview
+    ? [
+        '"' + entry.company + '" "' + entry.pedal + '" pedal',
+        '"' + entry.pedal + '" guitar pedal'
+      ]
+    : ['"' + entry.company + '" "' + entry.pedal + '" pedal'];
+
+  for (const query of googleQueries) {
+    const searchUrl = 'https://www.google.com/search?tbm=isch&hl=en&q=' + encodeURIComponent(query);
+    try {
+      await page.goto(searchUrl, {
+        waitUntil: 'domcontentloaded',
+        timeout: SEARCH_TIMEOUT
+      });
+      await page.waitForTimeout(300);
+
+      let results = await page.evaluate(() => {
+        const out = [];
+        for (const anchor of document.querySelectorAll('a[href]')) {
+          const href = anchor.href || '';
+          if (!/^https?:\/\//i.test(href)) continue;
+          try {
+            const host = new URL(href).hostname.toLowerCase();
+            if (host === 'www.google.com' || host.endsWith('.google.com') || host.endsWith('.gstatic.com')) continue;
+          } catch {}
+
+          const image = anchor.querySelector('img');
+          if (!image) continue;
+
+          const imageAttrs = [
+            image.getAttribute('data-iurl') || '',
+            image.getAttribute('data-src') || '',
+            image.getAttribute('data-original') || '',
+            image.getAttribute('data-image-url') || '',
+            image.currentSrc || '',
+            image.src || ''
+          ].filter(Boolean);
+
+          const murl = imageAttrs.find(value => {
+            if (!/^https?:\/\//i.test(value)) return false;
+            return !/(encrypted-tbn|gstatic|googleusercontent)/i.test(value);
+          }) || imageAttrs.find(value => /^https?:\/\//i.test(value)) || '';
+
+          if (!murl) continue;
+
+          const context = [
+            image.alt || '',
+            image.getAttribute('title') || '',
+            anchor.textContent || '',
+            anchor.getAttribute('aria-label') || '',
+            anchor.getAttribute('title') || '',
+            href
+          ].join(' ').replace(/\s+/g, ' ').trim();
+
+          out.push({
+            murl,
+            purl: href,
+            title: image.alt || anchor.getAttribute('title') || '',
+            context,
+            searchUrl: location.href
+          });
+        }
+        return [...new Map(out.map(x => [x.murl + '\u0000' + x.purl, x])).values()];
+      });
+
+      // Older Google Images pages embed original/source URLs in script data.
+      // Harvest only explicit ou/ru pairs, keeping provenance attached to the
+      // same result object instead of guessing across unrelated page elements.
+      if (!results.length) {
+        try {
+          const html = (await page.content()).replace(/\\\//g, '/');
+          const embedded = [];
+          const seen = new Set();
+          const re = /"ou":"(https?:\/\/[^"]+)".{0,1200}?"ru":"(https?:\/\/[^"]+)"/g;
+          for (const match of html.matchAll(re)) {
+            const murl = decodeURIComponent(match[1]).replace(/\\u0026/g, '&');
+            const purl = decodeURIComponent(match[2]).replace(/\\u0026/g, '&');
+            const key = murl + '\u0000' + purl;
+            if (seen.has(key)) continue;
+            seen.add(key);
+            embedded.push({
+              murl,
+              purl,
+              title: '',
+              context: purl,
+              searchUrl
+            });
+          }
+          results = embedded;
+        } catch {}
+      }
+
+      for (const result of results) {
+        if (!merged.has(result.murl)) merged.set(result.murl, result);
+      }
+    } catch {}
+  }
+
   return [...merged.values()];
 }
 
