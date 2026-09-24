@@ -157,7 +157,7 @@
   {
     "builder": "A&M Custom Effects",
     "pedal": "Crash Central - Crunch Distortion",
-    "image": null,
+    "image": "./assets/pedals/a-m-custom-effects/crash-central-crunch-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
     "research_record": "./research/pedals/A&M Custom Effects/Crash Central - Crunch Distortion.md",
     "image_source_page": "https://www.effectsdatabase.com/model/am/crashcentral",
@@ -8883,7 +8883,7 @@
   {
     "builder": "BSM",
     "pedal": "FassBender Fuzz Machine",
-    "image": null,
+    "image": "./assets/pedals/bsm/fassbender-fuzz-machine/primary.webp",
     "source": null,
     "source_page": "https://www.effectsdatabase.com/model/bsm",
     "research_record": "./research/pedals/PRP Batch 125/bsm-fassbender-fuzz-machine.md",
