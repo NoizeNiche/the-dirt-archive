@@ -2234,6 +2234,73 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
             }
           } catch {}
 
+          // Reverb often keeps the listing gallery behind thumbnail
+          // buttons. Activate a bounded set of gallery controls and capture the
+          // largest rendered product image after each activation. This stays on
+          // the already identity-verified listing, so it does not broaden the
+          // provenance gate.
+          try {
+            const galleryButtons = await page.locator('button, [role="button"]').evaluateAll(nodes => {
+              return nodes
+                .map((node, index) => {
+                  const img = node.querySelector('img');
+                  if (!img) return null;
+                  const rect = node.getBoundingClientRect();
+                  const raw = [
+                    node.getAttribute('aria-label') || '',
+                    node.getAttribute('data-testid') || '',
+                    node.className || '',
+                    img.alt || '',
+                    img.src || '',
+                    img.currentSrc || ''
+                  ].join(' ');
+                  if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|promoted|similar)/i.test(raw)) return null;
+                  if (rect.width < 40 || rect.height < 40) return null;
+                  return { index, score:
+                    (/gallery|photo|image|product|listing|thumbnail|media/i.test(raw) ? 100 : 0) +
+                    Math.min(50, Math.round(rect.width * rect.height / 10000))
+                  };
+                })
+                .filter(Boolean)
+                .sort((a, b) => b.score - a.score)
+                .slice(0, 10);
+            });
+            for (const target of galleryButtons) {
+              const button = page.locator('button, [role="button"]').nth(target.index);
+              await button.scrollIntoViewIfNeeded().catch(() => {});
+              await button.click({ timeout: 1800, force: true }).catch(() => {});
+              await page.waitForTimeout(550);
+              const largest = await page.locator('img').evaluateAll(imgs => imgs
+                .map((img, index) => {
+                  const rect = img.getBoundingClientRect();
+                  const width = Math.max(rect.width, Number(img.naturalWidth) || 0);
+                  const height = Math.max(rect.height, Number(img.naturalHeight) || 0);
+                  const raw = [img.alt || '', img.src || '', img.currentSrc || '', img.className || ''].join(' ');
+                  const forbidden = /(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|promoted|similar)/i.test(raw);
+                  const visible = rect.width >= 220 && rect.height >= 220 &&
+                    rect.bottom >= 0 && rect.right >= 0 &&
+                    rect.top <= window.innerHeight && rect.left <= window.innerWidth;
+                  return { index, width, height, area: width * height, visible, forbidden };
+                })
+                .filter(x => x.visible && !x.forbidden && x.width >= 260 && x.height >= 260)
+                .sort((a, b) => b.area - a.area)
+                .slice(0, 3));
+              for (const candidate of largest) {
+                const image = page.locator('img').nth(candidate.index);
+                const bytes = await image.screenshot({ type: 'png' }).catch(() => null);
+                if (bytes && bytes.length >= 3000) {
+                  return {
+                    bytes,
+                    src: await image.getAttribute('src').catch(() => '') ||
+                      await image.getAttribute('data-src').catch(() => '') || ''
+                  };
+                }
+              }
+              await page.keyboard.press('Escape').catch(() => {});
+              await page.waitForTimeout(120);
+            }
+          } catch {}
+
           const expandedCandidates = await page.locator('img').evaluateAll(imgs => imgs
             .map((img, index) => {
               const rect = img.getBoundingClientRect();
