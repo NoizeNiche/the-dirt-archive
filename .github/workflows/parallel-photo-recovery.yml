@@ -222,10 +222,14 @@ jobs:
       - name: Package verified recovery result
         shell: bash
         run: |
+          rm -rf artifact
           mkdir -p artifact
-          if find assets/pedals -type f -name '*.source' -print -quit | grep -q .; then
-            cp --parents $(find assets/pedals -type f -name '*.source') artifact/
-          fi
+          # Pedal and builder names often contain spaces. Use null-delimited
+          # paths so successful browser recoveries cannot be lost while packaging.
+          find assets/pedals -type f -name '*.source' -print0 |
+            while IFS= read -r -d '' f; do
+              cp --parents "$f" artifact/
+            done
           python - <<'PY'
           import json
           from pathlib import Path
