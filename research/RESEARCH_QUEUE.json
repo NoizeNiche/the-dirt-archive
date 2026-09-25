@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T19:45:32.142310+00:00",
+  "generated_at": "2026-09-25T19:47:31.331115+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2200,
+    "researched": 2201,
     "pictured": 1969,
     "complete": 1969,
-    "research_pending": 1561
+    "research_pending": 1560
   },
   "next_target": {
     "builder": "D&M",
@@ -98,12 +98,6 @@
     },
     {
       "builder": "Demeter",
-      "pedal": "DRV-1 Overdriveulator",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Demeter",
       "pedal": "DRV-2 Uberdriveulator",
       "catalog_type": "",
       "research_record": ""
@@ -165,6 +159,12 @@
     {
       "builder": "DLS Effect",
       "pedal": "Reckless Driver",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "Bass Overdrive (FX91)",
       "catalog_type": "",
       "research_record": ""
     }
