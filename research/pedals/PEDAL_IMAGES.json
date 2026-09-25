@@ -16272,7 +16272,7 @@
     "pedal": "Supa Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cunningham Amps/Supa Fuzz.md"
   },
   {
     "builder": "Cunningham Amps",
@@ -16659,7 +16659,7 @@
     "pedal": "The Breakdown",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Danelectro/The Breakdown.md"
   },
   {
     "builder": "Danelectro",
@@ -16708,7 +16708,7 @@
     "pedal": "DAISHO",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Daredevil Pedals/DAISHO.md"
   },
   {
     "builder": "Daredevil Pedals",
@@ -16792,7 +16792,7 @@
     "pedal": "Premium Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Daredevil Pedals/Premium Overdrive.md"
   },
   {
     "builder": "Daredevil Pedals",
@@ -16813,7 +16813,7 @@
     "pedal": "Red Light District",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Daredevil Pedals/Red Light District.md"
   },
   {
     "builder": "Daredevil Pedals",
@@ -17016,7 +17016,7 @@
     "pedal": "Reverberation Machine",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Death By Audio/Reverberation Machine.md"
   },
   {
     "builder": "Death By Audio",
@@ -17037,7 +17037,7 @@
     "pedal": "Thee Treble Overload",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Death By Audio/Thee Treble Overload.md"
   },
   {
     "builder": "Decibelics",
@@ -17065,7 +17065,7 @@
     "pedal": "Golden Royale",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Decibelics/Golden Royale.md"
   },
   {
     "builder": "Decibelics",
@@ -28342,14 +28342,14 @@
     "pedal": "Andy Wood: Gearbox",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Andy Wood: Gearbox.md"
   },
   {
     "builder": "Wampler Pedals",
     "pedal": "Belle Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Belle Overdrive.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28370,14 +28370,14 @@
     "pedal": "Brad Paisley: Paisley Deluxe",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Brad Paisley: Paisley Deluxe.md"
   },
   {
     "builder": "Wampler Pedals",
     "pedal": "Brad Paisley: Paisley Drive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Brad Paisley: Paisley Drive.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28391,7 +28391,7 @@
     "pedal": "Brent Mason: ReWired",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Brent Mason: ReWired.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28405,14 +28405,14 @@
     "pedal": "Clarksdale",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Clarksdale.md"
   },
   {
     "builder": "Wampler Pedals",
     "pedal": "Cryptid Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Cryptid Fuzz.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28426,7 +28426,7 @@
     "pedal": "Euphoria Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Euphoria Overdrive.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28447,14 +28447,14 @@
     "pedal": "Germanium Tumnus Deluxe",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Germanium Tumnus Deluxe.md"
   },
   {
     "builder": "Wampler Pedals",
     "pedal": "Golden Jubilee",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Golden Jubilee.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28468,14 +28468,14 @@
     "pedal": "Leviathan Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Leviathan Fuzz.md"
   },
   {
     "builder": "Wampler Pedals",
     "pedal": "Low Blow",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Low Blow.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28503,14 +28503,14 @@
     "pedal": "Pantheon Deluxe",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Pantheon Deluxe.md"
   },
   {
     "builder": "Wampler Pedals",
     "pedal": "Pantheon Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Pantheon Overdrive.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28580,7 +28580,7 @@
     "pedal": "Sovereign Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Sovereign Distortion.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28615,7 +28615,7 @@
     "pedal": "Tom Quayle: Dual Fusion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Tom Quayle: Dual Fusion.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28629,7 +28629,7 @@
     "pedal": "Triumph Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Triumph Overdrive.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28657,7 +28657,7 @@
     "pedal": "Tweed ’57 Limited Edition",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Tweed ’57 Limited Edition.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28692,28 +28692,28 @@
     "pedal": "Camel Toe MkII",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Camel Toe MkII.md"
   },
   {
     "builder": "Way Huge",
     "pedal": "Conquistador Fuzzstortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Conquistador Fuzzstortion.md"
   },
   {
     "builder": "Way Huge",
     "pedal": "Doom Hammer",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Doom Hammer.md"
   },
   {
     "builder": "Way Huge",
     "pedal": "Fat Sandwich",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Fat Sandwich.md"
   },
   {
     "builder": "Way Huge",
@@ -28762,7 +28762,7 @@
     "pedal": "Jumbo Fuzz Swollen Pickle XXX",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Jumbo Fuzz Swollen Pickle XXX.md"
   },
   {
     "builder": "Way Huge",
@@ -28776,7 +28776,7 @@
     "pedal": "Pork & Pickle",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Pork & Pickle.md"
   },
   {
     "builder": "Way Huge",
@@ -28853,28 +28853,28 @@
     "pedal": "Smalls STO Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Smalls STO Overdrive.md"
   },
   {
     "builder": "Way Huge",
     "pedal": "Smalls Stone Burner",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Smalls Stone Burner.md"
   },
   {
     "builder": "Way Huge",
     "pedal": "Smalls Supa-Lead",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Smalls Supa-Lead.md"
   },
   {
     "builder": "Way Huge",
     "pedal": "Smalls Swollen Pickle Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Smalls Swollen Pickle Fuzz.md"
   },
   {
     "builder": "Way Huge",
@@ -28895,21 +28895,21 @@
     "pedal": "Supa-Lead",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Supa-Lead.md"
   },
   {
     "builder": "Way Huge",
     "pedal": "Swollen Pickle Jumbo Fuzz MkIII",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Swollen Pickle Jumbo Fuzz MkIII.md"
   },
   {
     "builder": "Way Huge",
     "pedal": "Swollen Pickle Jumbo Fuzz MkIIS",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Swollen Pickle Jumbo Fuzz MkIIS.md"
   },
   {
     "builder": "WMD Devices",
@@ -28965,7 +28965,7 @@
     "pedal": "Box of War Small Foot",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wren and Cuff/Box of War Small Foot.md"
   },
   {
     "builder": "Wren and Cuff",
@@ -29035,21 +29035,21 @@
     "pedal": "OG Caprid",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wren and Cuff/OG Caprid.md"
   },
   {
     "builder": "Wren and Cuff",
     "pedal": "Pickle Pie B",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wren and Cuff/Pickle Pie B.md"
   },
   {
     "builder": "Wren and Cuff",
     "pedal": "Super Russian",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wren and Cuff/Super Russian.md"
   },
   {
     "builder": "Wren and Cuff",
@@ -29070,14 +29070,14 @@
     "pedal": "UB-Stone Shinichi Ubukata Signature Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wren and Cuff/UB-Stone Shinichi Ubukata Signature Fuzz.md"
   },
   {
     "builder": "Wren and Cuff",
     "pedal": "Violet World",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wren and Cuff/Violet World.md"
   },
   {
     "builder": "Wren and Cuff",
@@ -29112,7 +29112,7 @@
     "pedal": "AH Booster Allen Hinds",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Xotic Effects/AH Booster Allen Hinds.md"
   },
   {
     "builder": "Xotic Effects",
@@ -29182,7 +29182,7 @@
     "pedal": "SL Drive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Xotic Effects/SL Drive.md"
   },
   {
     "builder": "Xotic Effects",
@@ -29224,14 +29224,14 @@
     "pedal": "American Geek",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Zander Circuitry/American Geek.md"
   },
   {
     "builder": "Zander Circuitry",
     "pedal": "Cafetiere",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Zander Circuitry/Cafetiere.md"
   },
   {
     "builder": "Zander Circuitry",
@@ -29252,7 +29252,7 @@
     "pedal": "Siva",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Zander Circuitry/Siva.md"
   },
   {
     "builder": "Zander Circuitry",
@@ -29266,7 +29266,7 @@
     "pedal": "Terra Firma",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Zander Circuitry/Terra Firma.md"
   },
   {
     "builder": "ZVEX Effects",
@@ -29280,7 +29280,7 @@
     "pedal": "Basstortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/ZVEX Effects/Basstortion.md"
   },
   {
     "builder": "ZVEX Effects",
@@ -29315,7 +29315,7 @@
     "pedal": "Fat Fuzz Factory",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/ZVEX Effects/Fat Fuzz Factory.md"
   },
   {
     "builder": "ZVEX Effects",
@@ -29350,7 +29350,7 @@
     "pedal": "Fuzzolo",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/ZVEX Effects/Fuzzolo.md"
   },
   {
     "builder": "ZVEX Effects",
