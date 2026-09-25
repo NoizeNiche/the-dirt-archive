@@ -1,0 +1,23 @@
+{
+  "builder": "Toneczar",
+  "pedal": "Openhaus",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://toneczareffects.com/openhaus/",
+      "title": "openhaus – toneczar effects",
+      "h1": "",
+      "excerpt": "",
+      "host": "toneczareffects.com"
+    },
+    {
+      "url": "https://tagboardeffects.blogspot.com/2014/06/toneczar-openhaus.html",
+      "title": "Guitar FX Layouts: Toneczar Openhaus",
+      "h1": "",
+      "excerpt": "Guitar FX Layouts Here's a collection of vero (stripboard) and tagboard guitar and bass effect layouts that we have put together covering many classic and popular effects in growing numbers. Many of these have been posted on freestompboxes.org, so check that site out for great discussions on building your own effect pedals. Enjoy the builds and please also visit us on Facebook and Twitter Pages Home Layout Guide Components Build Guide Offboard Faults Kits Forum Site Map NEW Friday, 27 June 2014 Toneczar Openhaus [Updated 1st August 2014 - The schematic I did this from by UngodFX contained an error around the mids pot and mid voicing switch which stopped the switch from working correctly. The layout now posted corrects that error. For anyone who has already built this and needs any assistance in adapting it, post a message in the comments and I'll explain what you need to do. Thanks to Javi for helping fault find his build and confirm the correction ] Ok loads of people have asked for this and I decided if there was ever going to be a good time to do it, it would be straight after the Mutron II :o) The 150LNDN3's are available from a few sellers on eBay but they are very expensive. I think Mouser had plenty in when I was buying though and they were cheap from there, so that's where I'd look. The 2N1306's are available from a few sellers on eBay but just use any NPN germanium if you don't want to buy anything specially. The wiring for the expression pedal will depend on which one you're using, but if you know how it is set up it should be easy enough to adapt it in any way you need to your pedal. Note that if you don't want to include the expression pedal jack, you need to connect Exp 1 and Exp 2 on the board, so just wire one to the other. A charge pump daughterboard layout has been included with additional filtering to help keep this as noise free as possible. Note that I have opted here for an LT1054 IC because I think it will be borderline for the current available from our usual ICL7660S. By all means try that IC, but I think the extra capacity of the LT1054 will make it a good choice. Info about the original: the openhaus can create an array of modern, heavy distortion tones from popular amplifiers, without adjusting the amplifiers tone controls away from their optimum clean tone settings. Short but sweet. You'd have thought Ed would give his customers a bit more to read during their 5 year wait for the pedal. Charge pump daughterboard: Bill of Materials IC OPA2604AP 4 Transistor LND150N3 2 Transistor 2N1306 2 Transistor 2N5457 1 Regulator 78L15 1 Potentiometer 10K Log 2 Potentiometer 100k dual Lin 1 Potentiometer 1M Log 1 Potentiometer 10K Lin 1 Toggle switch SPDT on/off/on 2 Toggle switch SPDT on/on 1 Resistors 100R 1 Resistors 150R 2 Resistors 220R 1 Resistors 470R 2 Resistors 604R 1 Resistors 1K 3 Resistors 2K2 1 Resistors 3K3 2 Resistors 5K6 1 Resistors 7K5 2 Resistors 10K 6 Resistors 14K 1 Resistors 20K 3 Resistors 30K 2 Resistors 47K 2 Resistors 56K 3 Resistors 100K 4 Resistors 120K 1 Resistors 150K 1 Resistors 180K 1 Resistors 220K 1 Resistors 470K 2 Resistors 680K 2 Resistors 1M 7 Capacitors 51p 1 Capacitors 330p 2 Capacitors 560p 1 Capacitors 1n 1 Capacitors 1n2 4 Capacitors 2n2 1 Capacitors 4n7 1 Capacitors 5n6 1 Capacitors 22n 1 Capacitors 33n 2 Capacitors 47n 4 Capacitors 100n 2 Capacitors 120n 1 Capacitors 1u 7 Capacitors 22u 1 Capacitors 100u 1 Capacitors 220u 25V 1 Capacitors 470u 25V 1 Posted by IvIark at 22:18 Email This BlogThis! Share to X Share to Facebook Share to Pinterest Tags: Distortion , Verified , Vero 67 comments:",
+      "host": "tagboardeffects.blogspot.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

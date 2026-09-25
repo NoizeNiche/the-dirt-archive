@@ -1,0 +1,23 @@
+{
+  "builder": "TC Electronic",
+  "pedal": "Zeus Drive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.premierguitar.com/gear/reviews/tc-electronic-zeus-drive",
+      "title": "TC Electronic Zeus Drive Review - Premier Guitar",
+      "h1": "",
+      "excerpt": "TC Electronic Zeus Drive Review Admission to the Klon ballpark at a bargain price. Aug 29, 2021 TC Electronic Zeus Drive 4.2 Tones Build Design Ease of use Value Street: $69 Pros: A ticket to the Klon show for an unbeatable price. Easy to plug in, dial up, and play. Cons: The fat boost is more necessity than option. Narrower dirt and volume range than pricier competitors.",
+      "host": "www.premierguitar.com"
+    },
+    {
+      "url": "https://www.tcelectronic.com/en/products/0709-AKF",
+      "title": "ZEUS DRIVE OVERDRIVE | TC Electronic",
+      "h1": "ZEUS DRIVE OVERDRIVE ZEUS DRIVE OVERDRIVE",
+      "excerpt": "1 / 6 Zoom View in fullscreen Share Overview Learning Downloads About this product",
+      "host": "www.tcelectronic.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
