@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3761 total / 1796 researched / 1717 pictured / 1717 complete / 1965 research-pending / 79 researched-photo-pending**.
+Live catalog: **3761 total / 1802 researched / 1717 pictured / 1717 complete / 1959 research-pending / 85 researched-photo-pending**.
 
-**Next research target:** Crazybox Pedals - The Box - Massive High Gain Distortion.
+**Next research target:** Creber Instruments - Classic Fuzz.
 
-PRP1 closeout remains separate: 79 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 85 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-25T06:12:25.813528+00:00
+Last refreshed: 2026-09-25T06:14:58.886318+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
