@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
+- Cached in this run: **6**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **1916**
-- Researched, photo pending: **76**
+- Remaining tracker photo backlog: **1910**
+- Researched, photo pending: **70**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,7 +16,12 @@
 
 ## Newly cached
 
-- Conrad - Conrad Buzz Box & Volume Expander -> `./assets/pedals/conrad/conrad-buzz-box-volume-expander/primary.webp`
+- Colorsound / Sola Sound - B&M Champion Wah Fuzz -> `./assets/pedals/colorsound-sola-sound/b-m-champion-wah-fuzz/primary.webp`
+- Cunningham Amps - Supa Fuzz -> `./assets/pedals/cunningham-amps/supa-fuzz/primary.webp`
+- Daredevil Pedals - Premium Overdrive -> `./assets/pedals/daredevil-pedals/premium-overdrive/primary.webp`
+- Wampler Pedals - Belle Overdrive -> `./assets/pedals/wampler-pedals/belle-overdrive/primary.webp`
+- Wampler Pedals - Sovereign Distortion -> `./assets/pedals/wampler-pedals/sovereign-distortion/primary.webp`
+- Wren and Cuff - UB-Stone Shinichi Ubukata Signature Fuzz -> `./assets/pedals/wren-and-cuff/ub-stone-shinichi-ubukata-signature-fuzz/primary.webp`
 
 ## Still external / failed
 
