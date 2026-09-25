@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T19:30:06.209501+00:00",
+  "generated_at": "2026-09-25T19:32:13.878099+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2059,
+    "researched": 2065,
     "pictured": 1948,
     "complete": 1948,
-    "research_pending": 1702
+    "research_pending": 1696
   },
   "next_target": {
     "builder": "Critter Electronics",
@@ -43,24 +43,6 @@
       "research_record": ""
     },
     {
-      "builder": "Crown",
-      "pedal": "FW-3 Distortion Wah Volume",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crown",
-      "pedal": "W-Fuzz - 8-Transistor Fuzz-Wah",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CroyTone Audio Technologies",
-      "pedal": "Camper Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "CroyTone Audio Technologies",
       "pedal": "Hae Fuzz",
       "catalog_type": "",
@@ -75,18 +57,6 @@
     {
       "builder": "Crust Pedals",
       "pedal": "Hudson Broadcast Clone",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cruzer (by Crafter)",
-      "pedal": "EF-DT Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cruzer (by Crafter)",
-      "pedal": "EF-OD Over Drive",
       "catalog_type": "",
       "research_record": ""
     },
@@ -111,12 +81,6 @@
     {
       "builder": "CUVAVE / M-VAVE",
       "pedal": "DIST-MT1",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CUVAVE / M-VAVE",
-      "pedal": "Distortion SC1",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +129,42 @@
     {
       "builder": "Danelectro",
       "pedal": "Black Paisley Liquid Metal",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Blue Paisley PureDrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Cash Cow Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Cool Cat Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Cool Cat Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Cool Cat Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Cool Cat Metal",
       "catalog_type": "",
       "research_record": ""
     }
