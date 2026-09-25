@@ -34,7 +34,14 @@ def identity_ok(builder,pedal,title,h1,excerpt=""):
 def source_is_strong_single(source):
     kind = str(source.get("source_kind") or "").strip().lower()
     excerpt = str(source.get("excerpt") or "").strip()
-    return kind in {"manufacturer", "effects_database", "reverb", "catalog_verified"} and len(excerpt) >= 160
+    if kind in {"manufacturer", "effects_database", "reverb"}:
+        return len(excerpt) >= 160
+    # A curated catalog/override URL has already been tied to this exact
+    # Builder + Pedal identity. Do not require a long page body when the
+    # canonical source itself is sparse.
+    if kind == "catalog_verified":
+        return len(excerpt) >= 40
+    return False
 
 def main():
     catalog=json.loads(INDEX.read_text(encoding="utf-8"))
