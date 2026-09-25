@@ -65,3 +65,5 @@ current-pass-only-research-publication-retry
 post-manifest-fix-current-pass-research
 2026-09-25T23:31:00Z
 retry-after-foreman-unicode-output-fix
+2026-09-25T23:28:00Z
+hardened-foreman-retry
