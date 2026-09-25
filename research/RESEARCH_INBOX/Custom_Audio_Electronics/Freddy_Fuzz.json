@@ -2,16 +2,32 @@
   "builder": "Custom Audio Electronics",
   "pedal": "Freddy Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 3,
   "sources": [
     {
-      "url": "https://reverb.com/item/91175723-custom-audio-electronics-freddy-fuzz-90-s",
-      "title": "Custom Audio Electronics Freddy Fuzz 90’s | Reverb",
-      "h1": "Custom Audio Electronics Freddy Fuzz 90’s",
-      "excerpt": "A Reverb listing identifies a rare Custom Audio Electronics Freddy Fuzz and describes it as a compact boutique fuzz with gain and volume controls. The listing says the pedal uses a sturdy metal chassis, true bypass, an LED indicator, and standard input and output jacks. The model is attributed to Custom Audio Electronics and is identified as a 1990s-era unit in the listing.",
+      "url": "https://reverb.com/item/80357050-custom-audio-electronics-cae-freddy-fuzz-us-made",
+      "title": "CUSTOM AUDIO ELECTRONICS (CAE) FREDDY FUZZ (US Made) - Reverb",
+      "h1": "",
+      "excerpt": "",
       "host": "reverb.com",
-      "source_kind": "reverb",
-      "identity_match": true
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/itm/147451230559",
+      "title": "Custom Audio Electronics Freddy Fuzz No.m425 - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/cae/freddiefuzz",
+      "title": "Custom Audio Electronics Freddy Fuzz - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
     }
-  ]
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

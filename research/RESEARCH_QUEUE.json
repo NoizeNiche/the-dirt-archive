@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T19:34:45.682366+00:00",
+  "generated_at": "2026-09-25T19:35:54.940622+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2066,
+    "researched": 2078,
     "pictured": 1948,
     "complete": 1948,
-    "research_pending": 1695
+    "research_pending": 1683
   },
   "next_target": {
     "builder": "Critter Electronics",
@@ -25,12 +25,6 @@
       "research_record": ""
     },
     {
-      "builder": "Crossfire",
-      "pedal": "FUZ-510 R-Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Crotronics",
       "pedal": "Firestarter",
       "catalog_type": "",
@@ -39,72 +33,6 @@
     {
       "builder": "Crowella Effects",
       "pedal": "Animated",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CroyTone Audio Technologies",
-      "pedal": "Hae Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CroyTone Audio Technologies",
-      "pedal": "Suzumebachi Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CS.Cathey",
-      "pedal": "AD-02 Distortion Box",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CSL",
-      "pedal": "CSL Super Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CUVAVE / M-VAVE",
-      "pedal": "DIST British",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CUVAVE / M-VAVE",
-      "pedal": "DIST-MT1",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CUVAVE / M-VAVE",
-      "pedal": "FUZZ",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CUVAVE / M-VAVE",
-      "pedal": "Overdrive AMP",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CUVAVE / M-VAVE",
-      "pedal": "Overdrive Blues",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CUVAVE / M-VAVE",
-      "pedal": "Overdrive DB",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CUVAVE / M-VAVE",
-      "pedal": "Overdrive TS",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +93,78 @@
     {
       "builder": "Danelectro",
       "pedal": "Cool Cat Metal II",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Cool Cat Transparent Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Daddy O",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "FAB Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "FAB Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "FAB Metal",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "FAB Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Fab Tone / FAB Tone Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "French Toast",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Pastrami Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "T-Bone Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Wasabi Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Wasabi Overdrive",
       "catalog_type": "",
       "research_record": ""
     }

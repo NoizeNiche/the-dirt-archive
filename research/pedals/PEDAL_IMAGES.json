@@ -16025,7 +16025,7 @@
     "pedal": "FUZ-510 R-Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Crossfire/FUZ-510 R-Fuzz.md"
   },
   {
     "builder": "Crossfire",
@@ -16120,14 +16120,14 @@
     "pedal": "Hae Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CroyTone Audio Technologies/Hae Fuzz.md"
   },
   {
     "builder": "CroyTone Audio Technologies",
     "pedal": "Suzumebachi Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CroyTone Audio Technologies/Suzumebachi Fuzz.md"
   },
   {
     "builder": "Crucial Audio",
@@ -16208,14 +16208,14 @@
     "pedal": "AD-02 Distortion Box",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CS.Cathey/AD-02 Distortion Box.md"
   },
   {
     "builder": "CSL",
     "pedal": "CSL Super Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CSL/CSL Super Fuzz.md"
   },
   {
     "builder": "CSL",
@@ -16427,14 +16427,14 @@
     "pedal": "DIST British",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CUVAVE / M-VAVE/DIST British.md"
   },
   {
     "builder": "CUVAVE / M-VAVE",
     "pedal": "DIST-MT1",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CUVAVE / M-VAVE/DIST-MT1.md"
   },
   {
     "builder": "CUVAVE / M-VAVE",
@@ -16448,35 +16448,35 @@
     "pedal": "FUZZ",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CUVAVE / M-VAVE/FUZZ.md"
   },
   {
     "builder": "CUVAVE / M-VAVE",
     "pedal": "Overdrive AMP",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CUVAVE / M-VAVE/Overdrive AMP.md"
   },
   {
     "builder": "CUVAVE / M-VAVE",
     "pedal": "Overdrive Blues",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CUVAVE / M-VAVE/Overdrive Blues.md"
   },
   {
     "builder": "CUVAVE / M-VAVE",
     "pedal": "Overdrive DB",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CUVAVE / M-VAVE/Overdrive DB.md"
   },
   {
     "builder": "CUVAVE / M-VAVE",
     "pedal": "Overdrive TS",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CUVAVE / M-VAVE/Overdrive TS.md"
   },
   {
     "builder": "Cyclone",

@@ -2,25 +2,16 @@
   "builder": "Crown",
   "pedal": "Fuzz and Treble Booster",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 1,
   "sources": [
     {
       "url": "https://www.effectsdatabase.com/model/crown/fuzztreblebooster",
       "title": "Crown Fuzz and Treble Booster | Effects Database",
       "h1": "Crown Fuzz and Treble Booster",
-      "excerpt": "Effects Database identifies the Crown Fuzz and Treble Booster as an early version of the Applied Audio Products two-in-one fuzz and high-frequency boost design. The exact Crown-labeled model combined a transistor-based fuzz circuit with an independent treble booster and was part of a family of OEM-branded units. The page describes separate fuzz and treble controls and notes battery operation and mechanical switching.",
-      "host": "effectsdatabase.com",
-      "source_kind": "effects_database",
-      "identity_match": true
-    },
-    {
-      "url": "https://www.tonemachinesblog.com/2025/09/applied-fuzz-and-treble-booster-ft-100.html",
-      "title": "Tone Machines Blog: Applied Fuzz and Treble Booster FT-100",
-      "h1": "Applied Fuzz and Treble Booster FT-100",
-      "excerpt": "Tone Machines Blog documents the Applied Fuzz and Treble Booster family and specifically discusses a Crown-labeled example. The article notes distinctive early features such as the large battery-test lamp, the two-function fuzz and treble-boost arrangement, and multiple OEM brandings including Crown. It places examples in the late-1960s production period and distinguishes early and later physical details.",
-      "host": "tonemachinesblog.com",
-      "source_kind": "other",
-      "identity_match": true
+      "excerpt": "Crown Fuzz and Treble Booster | Effects Database Skip to navigation Brands &#9660; 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries &#9660; (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by &#9660; Enclosure type Modulation type Special &#9658; Classics Eye candy Funny Vaporware Weird Random brand Random effect Events &#9658; NAMM Musikmesse Music China Guitar Summit More... &#9660; Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand C... Crown browse by type volume/amplification amplification treble booster browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Crown Fuzz and Treble Booster Published on April 6, 2020 Crown fuzz treble boost pedal Information The Crown Fuzz and Treble Booster is an early version of Applied Audio Products Inc.'s classic two-in-one fuzz and high-frequency boost design, manufactured in New Jersey during the late 1960s. Sold under multiple brand names including Goya, Giulietti, Sano, and Lou Rose, the Crown version represents one of the first commercially distributed OEM examples of this circuit. It combines a transistor-based fuzz effect with an independent treble booster, offering players the option of thick, saturated fuzz tones or bright, cutting lead sounds in a single compact pedal. The fuzz section produces a gritty, aggressive distortion with strong midrange and harmonic texture, while the treble booster enhances clarity and bite, particularly effective for rhythm work or for driving amplifiers into natural overdrive. The two effects can be used individually or together, providing a wide tonal range characteristic of early American fuzz pedals. Built with handwired, point-to-point construction and featuring heavy-duty metal housing, the Crown Fuzz and Treble Booster reflects the robust build quality of Applied Audio's designs. Early examples include an oversized battery test lamp and on/off pot for the treble circuit, both features that appeared on the earliest Goya and Lou Rose models. The control layout and component choice mirror those of other Applied Audio units, confirming a shared production lineage and marking this as one of the earliest iterations of the company's signature fuzz platform. Controls Volume : Adjusts the overall output level Fuzz : Controls the intensity and gain of the fuzz effect Treble : Sets the amount of high-frequency boost Battery Test Button : Activates the indicator lamp to check battery charge Fuzz Switch : Engages or disables the fuzz circuit Treble Switch : Engages or disables the treble boost circuit Connections Input Jack : 1/4 inch mono Output Jack : 1/4 inch mono Technical Specifications Circuit Type : Analog fuzz and treble booster combination Transistors : Germanium (early production) or earl",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
     }
-  ]
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }
