@@ -1,8 +1,6 @@
 name: Research worker team
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'
   workflow_dispatch:
   push:
     paths:
@@ -146,3 +144,28 @@ jobs:
           done
 
           exit 1
+
+      - name: Continue active research frontier
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          remaining="$(python - <<'PY'
+          import csv
+          with open("research/PRP_TRACKER.csv", newline="", encoding="utf-8") as fh:
+              rows=list(csv.DictReader(fh))
+          pending=[r for r in rows if r.get("Pedal Info")!="DONE"]
+          pending.sort(key=lambda r:(str(r.get("Builder") or "").casefold(),str(r.get("Pedal") or "").casefold()))
+          if not pending:
+              print(0)
+          else:
+              letter=(pending[0].get("Builder") or "")[:1].upper()
+              print(sum(1 for r in pending if (r.get("Builder") or "")[:1].upper()==letter))
+          PY
+          )"
+          if [ "$remaining" -gt 0 ]; then
+            echo "Active frontier still has $remaining target(s); dispatching next research pass."
+            gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/research-worker-team.yml/dispatches" -f ref=main
+          else
+            echo "Active research frontier is empty; stopping self-chain."
+          fi
