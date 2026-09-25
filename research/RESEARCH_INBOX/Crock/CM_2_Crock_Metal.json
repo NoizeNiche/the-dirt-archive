@@ -2,7 +2,24 @@
   "builder": "Crock",
   "pedal": "CM-2 Crock Metal",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/crock/cm2",
+      "title": "Crock CM-2 Crock Metal - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://reverb.com/item/94518958-crock-cm-2-crock-metal-ukrainian-pedal-from-90s",
+      "title": "Crock CM-2 Crock Metal - Ukrainian pedal from 90s - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

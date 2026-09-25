@@ -15939,14 +15939,14 @@
     "pedal": "Model III Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Critter Electronics/Model III Overdrive.md"
   },
   {
     "builder": "Crock",
     "pedal": "CM-2 Crock Metal",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Crock/CM-2 Crock Metal.md"
   },
   {
     "builder": "Crock",
@@ -16032,7 +16032,7 @@
     "pedal": "OVD-302 Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Crossfire/OVD-302 Overdrive.md"
   },
   {
     "builder": "Crotronics",
@@ -16076,7 +16076,7 @@
     "pedal": "Fuzz and Treble Booster",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Crown/Fuzz and Treble Booster.md"
   },
   {
     "builder": "Crown",
@@ -16194,14 +16194,14 @@
     "pedal": "OD-1 Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Crysta Professional/OD-1 Overdrive.md"
   },
   {
     "builder": "CS.Cathey",
     "pedal": "AB-03 Distortion Booster",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CS.Cathey/AB-03 Distortion Booster.md"
   },
   {
     "builder": "CS.Cathey",
@@ -16243,7 +16243,7 @@
     "pedal": "PRX-902 Amp Emulator",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CTech / CB Labs/PRX-902 Amp Emulator.md"
   },
   {
     "builder": "Cultco",
@@ -16300,7 +16300,7 @@
     "pedal": "Octave Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cunningham Amps/Octave Fuzz.md"
   },
   {
     "builder": "Cunningham Amps",
@@ -16316,7 +16316,7 @@
     "pedal": "Zonk/MK1 Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cunningham Amps/Zonk/MK1 Fuzz.md"
   },
   {
     "builder": "Cusack Music",
@@ -16378,14 +16378,14 @@
     "pedal": "Freddy Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Custom Audio Electronics/Freddy Fuzz.md"
   },
   {
     "builder": "Custom Guitar Innovations",
     "pedal": "2 In 1 Fuzz Pedal",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Custom Guitar Innovations/2 In 1 Fuzz Pedal.md"
   },
   {
     "builder": "Custom Guitar Innovations",
@@ -16399,14 +16399,14 @@
     "pedal": "Fuzz Boost",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Custom Guitar Innovations/Fuzz Boost.md"
   },
   {
     "builder": "Custom Guitar Innovations",
     "pedal": "Octavio",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Custom Guitar Innovations/Octavio.md"
   },
   {
     "builder": "Custom Tones",
@@ -16483,7 +16483,7 @@
     "pedal": "DI-10 Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cyclone/DI-10 Distortion.md"
   },
   {
     "builder": "Cyclone",

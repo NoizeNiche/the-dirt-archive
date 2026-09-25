@@ -1836,8 +1836,8 @@ Critter Electronics,1978R Distortion,Distortion,DONE,DONE,DONE,./research/pedals
 Critter Electronics,American Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Critter Electronics/American Fuzz.md
 Critter Electronics,CFR Klone,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Critter Electronics/CFR Klone.md
 Critter Electronics,CRR Klone,Overdrive,NEEDED,NEEDED,NEEDED,
-Critter Electronics,Model III Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Crock,CM-2 Crock Metal,Distortion,NEEDED,NEEDED,NEEDED,
+Critter Electronics,Model III Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Critter Electronics/Model III Overdrive.md
+Crock,CM-2 Crock Metal,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Crock/CM-2 Crock Metal.md
 Crock,DS-2 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Crock/DS-2 Distortion.md
 Crock,DS-4 Supra Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Crock/DS-4 Supra Distortion.md
 Crock,OD-2 Over Drive Plus,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Crock/OD-2 Over Drive Plus.md
@@ -1849,13 +1849,13 @@ CrockettDial Productions,The Kwaker,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cr
 Crossfire,CF-DO2 Dual-Injection After Burner,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Crossfire/CF-DO2 Dual-Injection After Burner.md
 Crossfire,DST-301 Distortion,Distortion,DONE,DONE,DONE,./research/pedals/Crossfire/DST-301 Distortion.md
 Crossfire,FUZ-510 R-Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Crossfire,OVD-302 Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
+Crossfire,OVD-302 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Crossfire/OVD-302 Overdrive.md
 Crotronics,Firestarter,Fuzz,NEEDED,NEEDED,NEEDED,
 Crotronics,Lost Temper,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Crotronics/Lost Temper.md
 Crowella Effects,Animated,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
 Crowella Effects,Defector,Overdrive,DONE,DONE,DONE,./research/pedals/Crowella Effects/Defector.md
 Crowella Effects,Voskhod,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Crowella Effects/Voskhod.md
-Crown,Fuzz and Treble Booster,Fuzz,NEEDED,NEEDED,NEEDED,
+Crown,Fuzz and Treble Booster,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Crown/Fuzz and Treble Booster.md
 Crown,FW-3 Distortion Wah Volume,Distortion,NEEDED,NEEDED,NEEDED,
 Crown,Super Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Crown/Super Fuzz.md
 Crown,W-Fuzz - 8-Transistor Fuzz-Wah,Fuzz,NEEDED,NEEDED,NEEDED,
@@ -1871,23 +1871,23 @@ Cruzer (by Crafter),EF-OD Over Drive,Overdrive,NEEDED,NEEDED,NEEDED,
 Cryptid Effects,Indrid Cold,Fuzz,DONE,DONE,DONE,./research/pedals/Cryptid Effects/Indrid Cold.md
 Cryptid Effects,Siam Howler,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cryptid Effects/Siam Howler.md
 Crysta Professional,DS-1 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Crysta Professional/DS-1 Distortion.md
-Crysta Professional,OD-1 Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-CS.Cathey,AB-03 Distortion Booster,Distortion,NEEDED,NEEDED,NEEDED,
+Crysta Professional,OD-1 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Crysta Professional/OD-1 Overdrive.md
+CS.Cathey,AB-03 Distortion Booster,Distortion,DONE,NEEDED,NEEDED,./research/pedals/CS.Cathey/AB-03 Distortion Booster.md
 CS.Cathey,AD-02 Distortion Box,Distortion,NEEDED,NEEDED,NEEDED,
 CSL,CSL Super Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 CSL,CSL Wah Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/CSL/CSL Wah Fuzz.md
 CSR,Metal Rocker,Distortion,DONE,NEEDED,NEEDED,./research/pedals/CSR/Metal Rocker.md
 CTech / CB Labs,PRX-901 Amp Emulator,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CTech / CB Labs/PRX-901 Amp Emulator.md
-CTech / CB Labs,PRX-902 Amp Emulator,Overdrive,NEEDED,NEEDED,NEEDED,
+CTech / CB Labs,PRX-902 Amp Emulator,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/CTech / CB Labs/PRX-902 Amp Emulator.md
 Cultco,001 Medium Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Cultco/001 Medium Overdrive.md
 Cunningham Amps,Dual Range Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Cunningham Amps/Dual Range Fuzz.md
 Cunningham Amps,Gypsy Eyes Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Cunningham Amps/Gypsy Eyes Fuzz.md
 Cunningham Amps,MK 1.6 Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cunningham Amps/MK 1.6 Fuzz.md
 Cunningham Amps,MKII Professional Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Cunningham Amps/MKII Professional Fuzz.md
 Cunningham Amps,Nick Perri Signature MK1 Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Cunningham Amps/Nick Perri Signature MK1 Fuzz.md
-Cunningham Amps,Octave Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
+Cunningham Amps,Octave Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cunningham Amps/Octave Fuzz.md
 Cunningham Amps,Supa Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Cunningham Amps/Supa Fuzz.md
-Cunningham Amps,Zonk/MK1 Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
+Cunningham Amps,Zonk/MK1 Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cunningham Amps/Zonk/MK1 Fuzz.md
 Cusack Music,Carolina Reaper,Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Cusack Music/Carolina Reaper.md
 Cusack Music,Screamer Bass Fuzz,Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Cusack Music/Screamer Bass Fuzz.md
 Cusack Music,Screamer Fuzz Germanium,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Cusack Music/Screamer Fuzz Germanium.md
@@ -1895,11 +1895,11 @@ Cusack Music,Screamer Fuzz V3,Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/
 Cusack Music,Screamer V2,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Cusack Music/Screamer V2.md
 Custom 77,Push Me Pull Me,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Custom 77/Push Me Pull Me.md
 Custom Analog Pedals,Purple Fuzzy Drive,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Custom Analog Pedals/Purple Fuzzy Drive.md
-Custom Audio Electronics,Freddy Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-Custom Guitar Innovations,2 In 1 Fuzz Pedal,Fuzz,NEEDED,NEEDED,NEEDED,
+Custom Audio Electronics,Freddy Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Custom Audio Electronics/Freddy Fuzz.md
+Custom Guitar Innovations,2 In 1 Fuzz Pedal,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Custom Guitar Innovations/2 In 1 Fuzz Pedal.md
 Custom Guitar Innovations,Experience Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Custom Guitar Innovations/Experience Fuzz.md
-Custom Guitar Innovations,Fuzz Boost,Fuzz,NEEDED,NEEDED,NEEDED,
-Custom Guitar Innovations,Octavio,Fuzz,NEEDED,NEEDED,NEEDED,
+Custom Guitar Innovations,Fuzz Boost,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Custom Guitar Innovations/Fuzz Boost.md
+Custom Guitar Innovations,Octavio,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Custom Guitar Innovations/Octavio.md
 Custom Tones,Ethos Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Custom Tones/Ethos Overdrive.md
 Cutec,OD-01 Over Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Cutec/OD-01 Over Drive.md
 CUVAVE / M-VAVE,DIST British,Distortion,NEEDED,NEEDED,NEEDED,
@@ -1910,7 +1910,7 @@ CUVAVE / M-VAVE,Overdrive AMP,Overdrive,NEEDED,NEEDED,NEEDED,
 CUVAVE / M-VAVE,Overdrive Blues,Overdrive,NEEDED,NEEDED,NEEDED,
 CUVAVE / M-VAVE,Overdrive DB,Overdrive,NEEDED,NEEDED,NEEDED,
 CUVAVE / M-VAVE,Overdrive TS,Overdrive,NEEDED,NEEDED,NEEDED,
-Cyclone,DI-10 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
+Cyclone,DI-10 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Cyclone/DI-10 Distortion.md
 Cyclone,OD-30 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Cyclone/OD-30 Overdrive.md
 Cyclone,TS-5 Tube Stack,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Cyclone/TS-5 Tube Stack.md
 D&M,Distortion,Distortion,NEEDED,NEEDED,NEEDED,

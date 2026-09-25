@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T19:28:53.997334+00:00",
+  "generated_at": "2026-09-25T19:30:06.209501+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2045,
+    "researched": 2059,
     "pictured": 1948,
     "complete": 1948,
-    "research_pending": 1716
+    "research_pending": 1702
   },
   "next_target": {
     "builder": "Critter Electronics",
@@ -25,26 +25,8 @@
       "research_record": ""
     },
     {
-      "builder": "Critter Electronics",
-      "pedal": "Model III Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crock",
-      "pedal": "CM-2 Crock Metal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Crossfire",
       "pedal": "FUZ-510 R-Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crossfire",
-      "pedal": "OVD-302 Overdrive",
       "catalog_type": "",
       "research_record": ""
     },
@@ -57,12 +39,6 @@
     {
       "builder": "Crowella Effects",
       "pedal": "Animated",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crown",
-      "pedal": "Fuzz and Treble Booster",
       "catalog_type": "",
       "research_record": ""
     },
@@ -115,18 +91,6 @@
       "research_record": ""
     },
     {
-      "builder": "Crysta Professional",
-      "pedal": "OD-1 Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CS.Cathey",
-      "pedal": "AB-03 Distortion Booster",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "CS.Cathey",
       "pedal": "AD-02 Distortion Box",
       "catalog_type": "",
@@ -139,32 +103,68 @@
       "research_record": ""
     },
     {
-      "builder": "CTech / CB Labs",
-      "pedal": "PRX-902 Amp Emulator",
+      "builder": "CUVAVE / M-VAVE",
+      "pedal": "DIST British",
       "catalog_type": "",
       "research_record": ""
     },
     {
-      "builder": "Cunningham Amps",
-      "pedal": "Octave Fuzz",
+      "builder": "CUVAVE / M-VAVE",
+      "pedal": "DIST-MT1",
       "catalog_type": "",
       "research_record": ""
     },
     {
-      "builder": "Cunningham Amps",
-      "pedal": "Zonk/MK1 Fuzz",
+      "builder": "CUVAVE / M-VAVE",
+      "pedal": "Distortion SC1",
       "catalog_type": "",
       "research_record": ""
     },
     {
-      "builder": "Custom Audio Electronics",
-      "pedal": "Freddy Fuzz",
+      "builder": "CUVAVE / M-VAVE",
+      "pedal": "FUZZ",
       "catalog_type": "",
       "research_record": ""
     },
     {
-      "builder": "Custom Guitar Innovations",
-      "pedal": "2 In 1 Fuzz Pedal",
+      "builder": "CUVAVE / M-VAVE",
+      "pedal": "Overdrive AMP",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CUVAVE / M-VAVE",
+      "pedal": "Overdrive Blues",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CUVAVE / M-VAVE",
+      "pedal": "Overdrive DB",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CUVAVE / M-VAVE",
+      "pedal": "Overdrive TS",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "D&M",
+      "pedal": "Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Dan Drive Pedal Solutions",
+      "pedal": "Secret Machine",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Black Paisley Liquid Metal",
       "catalog_type": "",
       "research_record": ""
     }
