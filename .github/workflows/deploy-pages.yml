@@ -41,21 +41,40 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
+      - name: Check deployment freshness
+        id: freshness
+        shell: bash
+        run: |
+          git fetch origin main --quiet
+          current_sha="$(git rev-parse HEAD)"
+          latest_sha="$(git rev-parse origin/main)"
+          if [ "$current_sha" = "$latest_sha" ]; then
+            echo "current=true" >> "$GITHUB_OUTPUT"
+            echo "Deployment snapshot is current: $current_sha"
+          else
+            echo "current=false" >> "$GITHUB_OUTPUT"
+            echo "Superseded deployment snapshot: current=$current_sha latest=$latest_sha"
+          fi
+
       - name: Validate archive structure
+        if: steps.freshness.outputs.current == 'true'
         run: python scripts/validate-archive.py
 
       - name: Setup Node
+        if: steps.freshness.outputs.current == 'true'
         uses: actions/setup-node@v7
         with:
           node-version: 20
 
       - name: Cache deploy Playwright browser
+        if: steps.freshness.outputs.current == 'true'
         uses: actions/cache@v6
         with:
           path: ~/.cache/ms-playwright
           key: deploy-playwright-1.63.0-${{ runner.os }}
 
       - name: Browser audit for all researched pedal pages
+        if: steps.freshness.outputs.current == 'true'
         run: |
           node scripts/serve-static.js >/tmp/dirt-archive-http.log 2>&1 &
           SERVER_PID=$!
@@ -71,15 +90,18 @@ jobs:
 
           timeout 180s node scripts/deploy-browser-audit.js
       - name: Upload site
+        if: steps.freshness.outputs.current == 'true'
         uses: actions/upload-pages-artifact@v5
         with:
           path: .
 
       - name: Deploy
+        if: steps.freshness.outputs.current == 'true'
         id: deployment
         uses: actions/deploy-pages@v5.0.1
 
       - name: Live audit of every pictured pedal
+        if: steps.freshness.outputs.current == 'true'
         env:
           LIVE_SITE_URL: ${{ steps.deployment.outputs.page_url }}
         run: |
