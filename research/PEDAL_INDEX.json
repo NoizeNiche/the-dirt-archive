@@ -18586,7 +18586,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Chaser/HM-3 Heavy Metal.md"
+      "research_record": "./research/pedals/Chaser/HM-3 Heavy Metal.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/chaser/hm3"
     },
     {
       "company": "CheeseBlocks Effects",
@@ -19697,7 +19698,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Clone Bro/Tone King.md"
+      "research_record": "./research/pedals/Clone Bro/Tone King.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/clonebro/toneking"
     },
     {
       "company": "Cloud 9",
@@ -21520,10 +21522,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/conrad/conrad-buzz-box-volume-expander/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Conrad/Conrad Buzz Box & Volume Expander.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/conrad/buzzbox"
+      "image_source_page": "https://www.effectsdatabase.com/model/conrad/buzzbox",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/conrad_buzzbox_001.jpg"
     },
     {
       "company": "Conrad",
@@ -21698,7 +21701,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coopersonic/Deluxe Dual Valve Overdrive.md"
+      "research_record": "./research/pedals/Coopersonic/Deluxe Dual Valve Overdrive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coopersonic"
     },
     {
       "company": "Coopersonic",
@@ -21720,7 +21724,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coopersonic/Dirtbox.md"
+      "research_record": "./research/pedals/Coopersonic/Dirtbox.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coopersonic/dirtbox"
     },
     {
       "company": "Coopersonic",
@@ -21752,7 +21757,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coopersonic/Mini Tube Overdrive.md"
+      "research_record": "./research/pedals/Coopersonic/Mini Tube Overdrive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coopersonic"
     },
     {
       "company": "Coopersonic",
@@ -21772,7 +21778,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coopersonic/The Germaniac - Vintage Fuzz.md"
+      "research_record": "./research/pedals/Coopersonic/The Germaniac - Vintage Fuzz.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coopersonic/germaniac"
     },
     {
       "company": "Coopersonic",
@@ -21782,7 +21789,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coopersonic/Twin Tube Overdrive.md"
+      "research_record": "./research/pedals/Coopersonic/Twin Tube Overdrive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coopersonic"
     },
     {
       "company": "Coopersonic",
@@ -21812,7 +21820,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Copilot FX/Orbit.md"
+      "research_record": "./research/pedals/Copilot FX/Orbit.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/copilot/orbit"
     },
     {
       "company": "Copilot FX",
@@ -21822,7 +21831,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Copilot FX/Terra.md"
+      "research_record": "./research/pedals/Copilot FX/Terra.md",
+      "image_source_page": "https://www.copilotfx.com/terra.html"
     },
     {
       "company": "Copilot FX",
@@ -21832,7 +21842,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Copilot FX/Trek.md"
+      "research_record": "./research/pedals/Copilot FX/Trek.md",
+      "image_source_page": "https://www.copilotfx.com/trek.html"
     },
     {
       "company": "Copper Gear",
@@ -21852,7 +21863,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Copper Gear/Brontide Device.md"
+      "research_record": "./research/pedals/Copper Gear/Brontide Device.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coppergear/brontide/device"
     },
     {
       "company": "Copper Gear",
@@ -21873,7 +21885,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Copper Gear/Distorta Destructo.md"
+      "research_record": "./research/pedals/Copper Gear/Distorta Destructo.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coppergear/distorta/destructo"
     },
     {
       "company": "Copper Gear",
@@ -21884,7 +21897,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Copper Gear/Distorta Obscura.md"
+      "research_record": "./research/pedals/Copper Gear/Distorta Obscura.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coppergear/distorta/obscura"
     },
     {
       "company": "CopperSound Pedals",
@@ -21894,7 +21908,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/CopperSound Pedals/Foxcatcher - Overdrive & Boost.md"
+      "research_record": "./research/pedals/CopperSound Pedals/Foxcatcher - Overdrive & Boost.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coppersound/foxcatcher"
     },
     {
       "company": "CopperSound Pedals",
@@ -21944,7 +21959,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/CopperSound Pedals/Mustard Gas - Lo-Fi Fuzz.md"
+      "research_record": "./research/pedals/CopperSound Pedals/Mustard Gas - Lo-Fi Fuzz.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coppersound/mustardgas"
     },
     {
       "company": "CopperSound Pedals",
@@ -21994,7 +22010,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Cordovox/DS-8 Mouse.md"
+      "research_record": "./research/pedals/Cordovox/DS-8 Mouse.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/cordovox/mouse"
     },
     {
       "company": "Cordovox",
@@ -22004,7 +22021,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Cordovox/DS-9 Distortion.md"
+      "research_record": "./research/pedals/Cordovox/DS-9 Distortion.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/cordovox/ds9"
     },
     {
       "company": "Cordovox",
@@ -22024,7 +22042,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Cordovox/OD-7 Overdrive.md"
+      "research_record": "./research/pedals/Cordovox/OD-7 Overdrive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/cordovox/od7"
     },
     {
       "company": "Cordovox",
@@ -22034,7 +22053,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Cordovox/OD-8 X-Drive.md"
+      "research_record": "./research/pedals/Cordovox/OD-8 X-Drive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/cordovox/od8"
     },
     {
       "company": "Cornell Amplification",
@@ -22054,7 +22074,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Cornell Amplification/The 1st Fuzz.md"
+      "research_record": "./research/pedals/Cornell Amplification/The 1st Fuzz.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/cornell/1stfuzz"
     },
     {
       "company": "Cornerstone Music Gear",
@@ -22165,7 +22186,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Coron/Coron Distortion 10.md"
+      "research_record": "./research/pedals/Coron/Coron Distortion 10.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/coron/first/distortion10"
     },
     {
       "company": "Coron",
@@ -22265,7 +22287,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Correct Sound/Black Sunn.md"
+      "research_record": "./research/pedals/Correct Sound/Black Sunn.md",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4088882ccb32041/1790323625656/_jEmQ.88PCnujw3XmWa_yvv.C4fzL99bgNt8zDz6c7Y-1790323625-1.3.1.1-xT_tCn5deeRtX4wR8kHKJRxz21ePf_3gSZFJByvIXV9Lg_y.YyPDSpS6fyfSBuB7YWYkxxLXePlKMd7mpKc4MPQX_qUFoivBky6Cou11Yz0Vxw6opCPtMxmgREizN5dWmAQXzQlfmCcKGx8xIyo.O6xu51GnOBqW8TCYEr6riOD7ZZdxnXDy4UzqXb9frJ13eY1EjK2x.GY7McIGiIfdQDCXUfctt7O3nurQ2PtxUpJLgjF0gcCVRvIhJu2SJg39ArHYmk_9iRsJX3Iso8wOt1HzfAoPVSiVWlr222pkOXCadVQGREMQDrvu5e8ZCOLV7jjbGc63j.zQlURhlDOTNaOrg94I9FKxBWHWffoDuVPtcKE9U8zerGUx1HOtOK1.j8TxJNjp35geDr0JZahKQnpBv_C6nkQzY3bE_7.1RQCowpKfit0RI9ehzmlohSHLtqN4rUNcw5An6chEoaOgzLfe6H0a.u1G7Cr96nOqwFfGDg1uWLp1jyFl1M9jtI.Zq_xrbFerYSJKzQfUeBE8V.__71zi0REf2o4vGk63VeV2bDSxSkrq.hIse7fJtVGuJ_x4mtZlpaBixratoVEMuywq_6tyV1kvzlhICP2OOkb0O4IC2ylj81lXkmoNqkB0WQN85e4t.PiLQ5scZZD_LlnWQ0nWyjsNxE5Xq8eHHrIgzEzPrJ41u_eQ0bKDHVyaLHmNfjQ6A5G77WXIP.YFCHG6H7aMeubG3e_WdIWFPsc",
+      "image_source_page": "https://reverb.com/item/100144122-earthquaker-devices-sunn-o-life-pedal-octave-distortion-booster-v2-2020-black-gold-print"
     },
     {
       "company": "Correct Sound",
@@ -22841,7 +22865,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Crazy Tube Circuits/Black Magic.md"
+      "research_record": "./research/pedals/Crazy Tube Circuits/Black Magic.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/crazytube/blackmagic"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -23384,7 +23409,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Creepy Fingers Effects/Harakiri.md"
+      "research_record": "./research/pedals/Creepy Fingers Effects/Harakiri.md",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4088a30f9edc514/1790323694472/ulFjvnQb4tbCKF86Bm.f.NSm_Hfpoc.LIhH5z4vmItc-1790323694-1.3.1.1-h.lFlKeK0wvor8DK74OD7EmQruSUp18ZlKXxO80GtZctDJjVgQVsBHP17oXbpCgEpfcd.xzhw.wIQ_WmyVIbctdK0jshttNPxBjKUsUvKoQwz.9WwNsYC33ju8x9qdX0nXsjZan7Vg4xEjczD1YhingKpBO8GfgzLF8xSrC_A4L.tDACPglxpYQuuU6xTvumAehTTxH_T1t0IfzFv68SrGi4lFbcWZkW8OmORKcI_4ox2lbkq1biQpkmM21oqOh31.WhrAzRm7F0ZgDQ3pZ17oW6LJSdq0DW24GEjZSfyrdsFmAdWHEzSG8aMWVnon1aBkiXh0rLxEoH6HYTcpK7PzWkH8GnTRk.LoLcFjIpN4BvmIxaKptHM5vOH5HdEZls3CNo5nkuHlbXT7h06MO08yzwzXld0q1zRJivhYsfZplo1JuTkpYMnydBvGZPoXhEVO1CyJpP_KH8Fsvk3FgXdfo6bc.ezlMTlww5u4scWYkpyQS4IkdcflBGBxnGreG0W12ALRAIf2A2ABx.CoGr5170M7D6lTgsAxWmnID6RuSS3OdouL3B0IkOVw50pSqFQuKHJOhRLwia5DmqFqXBaEUxl0BOLwpqFWdX2omt06PTKvMTA60AGcU7AXRoSrgvvCeNRmhWoHmgUhxNcyTtvhTflVU5LLhRjMV6m8OY76py3V8lto_DmPejLKCyiRCAJScBCA5GjMoa0_VZsA38azAvrKuD3S_gg20UjQuJsVw",
+      "image_source_page": "https://reverb.com/item/95574925-creepy-fingers-harakiri-fuzz-fy-6-superfuzz-red-sparkle"
     },
     {
       "company": "Creepy Fingers Effects",
@@ -23524,7 +23551,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Crews Maniac Sound/SVD-001 Classic Overdrive.md"
+      "research_record": "./research/pedals/Crews Maniac Sound/SVD-001 Classic Overdrive.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/crews/svd001"
     },
     {
       "company": "Crews Maniac Sound",
@@ -23766,7 +23794,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Crossfire/DST-301 Distortion.md"
+      "research_record": "./research/pedals/Crossfire/DST-301 Distortion.md",
+      "image_source_url": "https://www.ultimate-guitar.com/static/article/gear/5/5595_0_ver0.jpg@142",
+      "image_source_page": "https://www.ultimate-guitar.com/reviews/guitar_effects/crossfire/dst-301_distortion/"
     },
     {
       "company": "Crossfire",
@@ -23887,7 +23917,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Crowther Audio/Hot Cake.md"
+      "research_record": "./research/pedals/Crowther Audio/Hot Cake.md",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4088aa41b422e19/1790323712883/M1UMdJJMSFJ_qmFiSx1HXfYBRIxYmwXqaqtWzMstVK4-1790323712-1.3.1.1-0zGZNVJj57HTuorHa3vxtnEPbpQ7..kGQ4ZVY2zuW.UrGydI9EWM2UPKi_aWRBOMaqKMz_S7ihU8yKhZv6d4Wsl5Nc0PHCaj7nfPtXVIqbkNdFHVdmAc.7SUgImWJBA9oCOx5fkpC5JIfTRoF3rRTtdE.ekGS5_VmKaAjUBFGo_sG6ZR929oxcRgSHFTpVVq14JseeqWI_sbrjDWby6C0m7K59O.TqE2Nva9Jk.9AXilJbvlfQkZStRAmOaVYzKpTKgrKAdXN85oRKCq_bMwdR1bQt4J9VeQamwaTxOCKRVCAw2ZykTunRXc7r32OCY1luPRsZpip8Rl4ow5g_UREE1yFVJLqNyy3shUN2se2G0xJNwdwE8865oz00kao9NZQ_d2x1hIXg0Eg_KkI16vWr0SUxqC0oXwX6TBtrAs6xSm.mcozjkmRcXDUbPe0Ed0p6xPQkD7DlKBg.oasiOvraxHOWd_YDtufrwkFLdT5fEJXJWFHoNxVsxBXuszflsoEO.BItWBHgD3dhSWTL27Rm8GEwr7qdsQNC4fCtVw9_14b.FXxelWZA_ytMpq8BueF2rPWxBXUzLRvN4wHOWtrLVIKVI5r96hgfEeSSWZuvrSvplOeaLHoEk7M9H_hE5icHukVNU9CeXtUH2ptwloK2u2a5_ZlPWDCJvscl6SfG.5BSuLBMj__kuyizh0PBZd4XGq642eaxjZNt8a7xdf5pMXqK.tF4ERVFqURdWpDBg",
+      "image_source_page": "https://reverb.com/item/92569108-crowther-audio-hot-cake"
     },
     {
       "company": "CroyTone Audio Technologies",
@@ -24214,7 +24246,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Cusack Music/Screamer Fuzz V3.md"
+      "research_record": "./research/pedals/Cusack Music/Screamer Fuzz V3.md",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4088aa67a5422f6/1790323713266/hodKWSfQYznLaX..gLwwcy47jfctCh_fkkXOInjd.m8-1790323713-1.3.1.1-4MFquCvbFuP3d2z6h.nS0W.x5.lNJcGp19YtTjseu8cB5Ni1MJ8cMWhQiBOI5SKyn_GNuQxp17oey9A3uvbiCPvqpRsJrnXjQA_JAahAMEqIRSUe.CjTT7WeNYcMvKbNJYyifsBl2Ua5FjTKqu0vRYYo882G9Kf70MlOw8wkemheZPoIImu4fUzNjVmzx_7xPJU76Ap9cN_W8sgsHmIyUfTP7TIenOfRjGBuMwjVdV4WdF4sQAvOiMfRrQ7iTsuGFNdrDxtpUiGYxrTcDZaLRAuFj3y.y2dhk1H7Acy1WuvlNcmkumzOnAVfIBt6ShTq00ycTo40bIikK58otj6dhzTK8.dp_v92o9zzRoJr6Ny6XqnSylzbJ4gjIqjCAdGrAGwXA8KcYOupnwaYUx7Jz_aC5iWqywcyJHITZHbJo94MXeE_0fYuNcWVKxzD3lfjGtVsqwEBz.kyeV5gw.ZzVZ9AZNEuNkhEoXJMadACdMJ_c.g0li7_rZnXgM.HC5jjzKfQApRWXn0wSgJS34zEoZbk8ejMDHIHWJ_SxbaffsbcVnpnXoNJ9nulBh8LDblrwubyMnNao3v2JDnkF8P_VuA5WXy.hB83ic2Ms7yA.b6OfbBzuzMWpmZRLHeLNSazwWvDqd3jSLhfVt2ChixnhnJZhUw2LMOdcGr14ZUtZnvDMSdj.0cUv_sNsZZ17RNQvJtr9wtF.dlbtk0nGvsP52Q0CUJf7akn7X9otPVooYQ",
+      "image_source_page": "https://reverb.com/item/92621822-cusack-music-screamer-fuzz-v3-pink-earthquakes-day-2of2"
     },
     {
       "company": "Cusack Music",
