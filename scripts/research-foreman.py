@@ -92,7 +92,12 @@ def main():
             },ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
             staged+=1
             print("STAGED",b,"/",p,"sources=",len(good))
-    print(json.dumps({"staged":staged,"held":held},ensure_ascii=False))
+    summary = {"staged": staged, "held": held}
+    Path("research-evidence/foreman-summary.json").write_text(
+        json.dumps(summary, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    print(json.dumps(summary,ensure_ascii=False))
 
 if __name__=="__main__":
     main()
