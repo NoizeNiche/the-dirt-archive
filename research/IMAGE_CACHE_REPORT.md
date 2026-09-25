@@ -4,8 +4,8 @@
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **1893**
-- Researched, photo pending: **53**
+- Remaining tracker photo backlog: **1892**
+- Researched, photo pending: **52**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,7 +16,7 @@
 
 ## Newly cached
 
-- Cornell Amplification - The 1st Fuzz -> `./assets/pedals/cornell-amplification/the-1st-fuzz/primary.webp`
+- Way Huge - Fat Sandwich -> `./assets/pedals/way-huge/fat-sandwich/primary.webp`
 
 ## Still external / failed
 
