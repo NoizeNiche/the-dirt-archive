@@ -1,12 +1,8 @@
 name: Synthesize verified research
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'research/RESEARCH_INBOX/**'
-      - 'scripts/synthesize-research-inbox.py'
-      - 'research/RESEARCH_KICK'
+  # Canonical research publication is owned by research-worker-team.yml.
+  # Keep this lane manual-only so it cannot race the active foreman.
   workflow_dispatch:
 
 permissions:
@@ -15,7 +11,7 @@ permissions:
 
 concurrency:
   group: dirt-research-synthesis
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   synthesize:
