@@ -2,7 +2,16 @@
   "builder": "Crust Pedals",
   "pedal": "Hudson Broadcast Clone",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
-  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/77375685-crust-pedals-hudson-broadcast-clone-2023",
+      "title": "Crust Pedals Hudson Broadcast Clone 2023 | Reverb",
+      "h1": "Crust Pedals Hudson Broadcast Clone 2023",
+      "excerpt": "The Reverb listing identifies the exact Crust Pedals Hudson Broadcast Clone from 2023. The seller describes it as a Hudson Broadcast Duocast clone, noting an internal switch for 9V/27V operation and that the builder omitted the transformer on the listed version. Reverb identifies the brand as Crust Pedals, the model as Hudson Broadcast Clone, and the country of manufacture as France.",
+      "host": "reverb.com",
+      "source_kind": "reverb",
+      "identity_match": true
+    }
+  ]
 }

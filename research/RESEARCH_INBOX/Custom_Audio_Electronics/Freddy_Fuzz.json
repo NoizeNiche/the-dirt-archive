@@ -2,32 +2,16 @@
   "builder": "Custom Audio Electronics",
   "pedal": "Freddy Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 3,
+  "independent_exact_source_count": 1,
   "sources": [
     {
-      "url": "https://reverb.com/item/80357050-custom-audio-electronics-cae-freddy-fuzz-us-made",
-      "title": "CUSTOM AUDIO ELECTRONICS (CAE) FREDDY FUZZ (US Made) - Reverb",
-      "h1": "",
-      "excerpt": "",
+      "url": "https://reverb.com/item/91175723-custom-audio-electronics-freddy-fuzz-90-s",
+      "title": "Custom Audio Electronics Freddy Fuzz 90’s | Reverb",
+      "h1": "Custom Audio Electronics Freddy Fuzz 90’s",
+      "excerpt": "A Reverb listing identifies a rare Custom Audio Electronics Freddy Fuzz and describes it as a compact boutique fuzz with gain and volume controls. The listing says the pedal uses a sturdy metal chassis, true bypass, an LED indicator, and standard input and output jacks. The model is attributed to Custom Audio Electronics and is identified as a 1990s-era unit in the listing.",
       "host": "reverb.com",
-      "source_kind": "reverb"
-    },
-    {
-      "url": "https://www.effectsdatabase.com/model/cae/freddiefuzz",
-      "title": "Custom Audio Electronics Freddy Fuzz | Effects Database",
-      "h1": "Custom Audio Electronics Freddy Fuzz",
-      "excerpt": "Custom Audio Electronics Freddy Fuzz | Effects Database Skip to navigation Brands &#9660; 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries &#9660; (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by &#9660; Enclosure type Modulation type Special &#9658; Classics Eye candy Funny Vaporware Weird Random brand Random effect Events &#9658; NAMM Musikmesse Music China Guitar Summit More... &#9660; Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand C... Custom Audio Electronics browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Custom Audio Electronics Freddy Fuzz Published on July 17, 2006 Custom Audio Electronics fuzz pedal Video Date &#x25BC;&#x25B2; Maker &#x25BC;&#x25B2; Video &#x25BC;&#x25B2; Time &#x25BC;&#x25B2; 2025-01-08 EfManiac オペアンプファズの名機！貴重な初期CAE FREDDY FUZZを弾いてみた 4:06 2018-09-09 EfManiac CAE Freddy Fuzz Sound Check 【魔法の箱研究所】 4:49 2011-05-18 showzi666 CUSTOM AUDIO ELECTRONICS CAE Freddy Fuzz USA-02 5:57 2011-05-18 showzi666 CUSTOM AUDIO ELECTRONICS CAE Freddy Fuzz USA-01 1:16 2011-05-15 showzi666 CUSTOM AUDIO ELECTRONICS CAE Freddy Fuzz - Lead Sound BOOST 2:33 2011-05-15 showzi666 CUSTOM AUDIO ELECTRONICS CAE Freddy Fuzz 8:43 Reviews NoiseGuide (Black Cat Overdrive OD-1) NoiseGuide (Custom Analog Electronics Freddy Fuzz) ToneFrenzy myFXDB user reviews No reviews yet + Add your review Links Custom Audio Japan Custom Audio Electronics Related Seamoon Fresh Fuzz Rocket Seamoon Fresh Fuzz (reissue) Black Cat OD-1 Freddy Fuzz Custom Audio Electronics Freddy Fuzz EWS FD-1 Fuzzy Drive EWS LFD Little Fuzzy Drive EWS BD-1 Brute Drive EWS BD-1 Brute Drive Eric Gales Signature Edition EWS LBD Little Brute Drive Schecter EF-DD Dragon Driver (by EWS) Where to find one? Ads! This site contains affiliate links for which I may be compensated Custom Audio Electronics Freddy Fuzz for sale on eBay: World & Stores Australia Canada France Germany Italy Spain UK US Other sites your browser doesn't support AJAX? fx pedal stompbox stomp box guitar effects pedal fuzz distortion/fuzz/overdrive dirt grit Searching... Twitter (opens in new tab) Facebook (opens in new tab) YouTube (opens in new tab) Instagram (opens in new tab) Privacy policy - Imprint hosted at Unix-Solutions",
-      "host": "www.effectsdatabase.com",
-      "source_kind": "effects_database"
-    },
-    {
-      "url": "https://www.ebay.com/itm/147451230559",
-      "title": "Custom Audio Electronics Freddy Fuzz No.m425 - eBay",
-      "h1": "",
-      "excerpt": "",
-      "host": "www.ebay.com",
-      "source_kind": "other"
+      "source_kind": "reverb",
+      "identity_match": true
     }
-  ],
-  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+  ]
 }

@@ -2,24 +2,16 @@
   "builder": "Crock",
   "pedal": "CM-2 Crock Metal",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 1,
   "sources": [
     {
       "url": "https://www.effectsdatabase.com/model/crock/cm2",
-      "title": "Crock CM-2 Crock Metal - Effects Database",
-      "h1": "",
-      "excerpt": "",
-      "host": "www.effectsdatabase.com",
-      "source_kind": "effects_database"
-    },
-    {
-      "url": "https://reverb.com/item/94518958-crock-cm-2-crock-metal-ukrainian-pedal-from-90s",
-      "title": "Crock CM-2 Crock Metal - Ukrainian pedal from 90s - Reverb",
-      "h1": "",
-      "excerpt": "",
-      "host": "reverb.com",
-      "source_kind": "reverb"
+      "title": "Crock CM-2 Crock Metal | Effects Database",
+      "h1": "Crock CM-2 Crock Metal",
+      "excerpt": "Effects Database has an exact record for the Crock CM-2 Crock Metal. The page identifies it as a distortion pedal and places the model in the Crock catalog. It was published in March 2007 and includes an exact-model product image listing, confirming that CM-2 Crock Metal is a documented Crock model rather than a generic family entry. The broader Crock catalog is associated with pedals produced in the early 1990s in Kharkiv, Ukraine.",
+      "host": "effectsdatabase.com",
+      "source_kind": "effects_database",
+      "identity_match": true
     }
-  ],
-  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+  ]
 }
