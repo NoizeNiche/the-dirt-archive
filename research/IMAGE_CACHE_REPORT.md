@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
+- Cached in this run: **2**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **1909**
-- Researched, photo pending: **69**
+- Remaining tracker photo backlog: **1907**
+- Researched, photo pending: **67**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,7 +16,8 @@
 
 ## Newly cached
 
-- Wampler Pedals - Andy Wood: Gearbox -> `./assets/pedals/wampler-pedals/andy-wood-gearbox/primary.webp`
+- Daredevil Pedals - Red Light District -> `./assets/pedals/daredevil-pedals/red-light-district/primary.webp`
+- Wampler Pedals - Leviathan Fuzz -> `./assets/pedals/wampler-pedals/leviathan-fuzz/primary.webp`
 
 ## Still external / failed
 
