@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T05:05:10.166994+00:00",
+  "generated_at": "2026-09-25T05:08:57.305597+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1777,
-    "pictured": 1684,
-    "complete": 1684,
-    "research_pending": 1988
+    "researched": 1778,
+    "pictured": 1711,
+    "complete": 1711,
+    "research_pending": 1987
   },
   "next_target": {
     "builder": "Crazy Tube Circuits",
-    "pedal": "Falcon",
+    "pedal": "Falcon - Overdrive",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Falcon",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "Falcon - Overdrive",
@@ -165,6 +159,12 @@
     {
       "builder": "Crazybox Pedals",
       "pedal": "The Tone Box - Vargas Blus Band Dual Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CrazyTone",
+      "pedal": "Crazytone Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
