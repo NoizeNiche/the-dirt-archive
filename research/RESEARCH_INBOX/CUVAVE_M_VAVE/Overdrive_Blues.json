@@ -2,7 +2,16 @@
   "builder": "CUVAVE / M-VAVE",
   "pedal": "Overdrive Blues",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
-  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.m-vave.com/product?id=overdrive-blues",
+      "title": "Product - M-VAVE",
+      "h1": "",
+      "excerpt": "M-VAVE's official product page identifies Overdrive Blues by name as one of the company's products. The page is a manufacturer source for the exact model, while the maker's broader product ecosystem places Overdrive Blues within the CUVAVE/M-VAVE effect-pedal lineup.",
+      "host": "www.m-vave.com",
+      "source_kind": "manufacturer",
+      "identity_match": true
+    }
+  ]
 }

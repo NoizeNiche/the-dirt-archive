@@ -1,0 +1,17 @@
+{
+  "builder": "CS.Cathey",
+  "pedal": "AD-02 Distortion Box",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/updates/weekly/20260518",
+      "title": "Weekly overview (2026, week 20): 2 new brands and 20 new pedals | Effects Database",
+      "h1": "Weekly overview (2026, week 20): 2 new brands and 20 new pedals",
+      "excerpt": "Effects Database's May 18, 2026 weekly overview explicitly lists CS.Cathey AD-02 Distortion Box among twenty newly added effects. The same overview separately identifies CS.Cathey AB-03 Distortion Booster and other exact models, establishing AD-02 as a named CS.Cathey pedal record rather than a generic distortion category.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database",
+      "identity_match": true
+    }
+  ]
+}

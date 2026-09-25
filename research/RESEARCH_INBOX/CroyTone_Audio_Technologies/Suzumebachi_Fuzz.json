@@ -2,7 +2,25 @@
   "builder": "CroyTone Audio Technologies",
   "pedal": "Suzumebachi Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
-  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://croytoneaudio.com/en/products/suzumebachi-fuzz",
+      "title": "Suzumebachi Fuzz – Croy Tone Audio Technologies",
+      "h1": "Suzumebachi Fuzz",
+      "excerpt": "CroyTone Audio Technologies describes the Suzumebachi Fuzz as a design born from the builder's love of stacking fuzz pedals to create very large sounds. It combines several fuzz approaches for high gain and fuzz with extensive control over attack, tone and gating, and is intended to cover massive doomy textures as well as sharper, percussive gated sounds.",
+      "host": "croytoneaudio.com",
+      "source_kind": "manufacturer",
+      "identity_match": true
+    },
+    {
+      "url": "https://www.instagram.com/p/DBNZA9ySV1O/",
+      "title": "CroyTone Audio Technologies release announcement",
+      "h1": "",
+      "excerpt": "A CroyTone Audio Technologies announcement dated October 16, 2024 names the Camper Fuzz, Hae Fuzz and Suzumebachi Fuzz as the first three effects released from the company's Japan operation. The announcement specifically describes Suzumebachi as the newer stacking-fuzz design for huge, thick sounds, including doomy wall-of-sound textures and gated tones.",
+      "host": "www.instagram.com",
+      "source_kind": "other",
+      "identity_match": true
+    }
+  ]
 }

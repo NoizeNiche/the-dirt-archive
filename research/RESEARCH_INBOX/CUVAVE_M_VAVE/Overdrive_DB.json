@@ -2,7 +2,16 @@
   "builder": "CUVAVE / M-VAVE",
   "pedal": "Overdrive DB",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
-  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.m-vave.com/products",
+      "title": "M-VAVE - Product Ecosystem",
+      "h1": "Product Ecosystem",
+      "excerpt": "M-VAVE's official Product Ecosystem provides the manufacturer catalog for its effect-pedal range and explicitly lists the exact model Overdrive DB. This identifies the named M-VAVE/CUVAVE overdrive within the maker's own product lineup instead of relying on similarly named Blues or Tube Screamer variants.",
+      "host": "www.m-vave.com",
+      "source_kind": "manufacturer",
+      "identity_match": true
+    }
+  ]
 }
