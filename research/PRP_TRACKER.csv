@@ -1838,7 +1838,7 @@ Critter Electronics,CFR Klone,Distortion / Overdrive,DONE,DONE,DONE,./research/p
 Critter Electronics,CRR Klone,Overdrive,NEEDED,NEEDED,NEEDED,
 Critter Electronics,Model III Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
 Crock,CM-2 Crock Metal,Distortion,NEEDED,NEEDED,NEEDED,
-Crock,DS-2 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
+Crock,DS-2 Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Crock/DS-2 Distortion.md
 Crock,DS-4 Supra Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Crock/DS-4 Supra Distortion.md
 Crock,OD-2 Over Drive Plus,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Crock/OD-2 Over Drive Plus.md
 Crock,SD-2 Super Over Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Crock/SD-2 Super Over Drive.md
@@ -1851,13 +1851,13 @@ Crossfire,DST-301 Distortion,Distortion,DONE,DONE,DONE,./research/pedals/Crossfi
 Crossfire,FUZ-510 R-Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Crossfire,OVD-302 Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
 Crotronics,Firestarter,Fuzz,NEEDED,NEEDED,NEEDED,
-Crotronics,Lost Temper,Fuzz,NEEDED,NEEDED,NEEDED,
+Crotronics,Lost Temper,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Crotronics/Lost Temper.md
 Crowella Effects,Animated,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
 Crowella Effects,Defector,Overdrive,DONE,DONE,DONE,./research/pedals/Crowella Effects/Defector.md
 Crowella Effects,Voskhod,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Crowella Effects/Voskhod.md
 Crown,Fuzz and Treble Booster,Fuzz,NEEDED,NEEDED,NEEDED,
 Crown,FW-3 Distortion Wah Volume,Distortion,NEEDED,NEEDED,NEEDED,
-Crown,Super Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
+Crown,Super Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Crown/Super Fuzz.md
 Crown,W-Fuzz - 8-Transistor Fuzz-Wah,Fuzz,NEEDED,NEEDED,NEEDED,
 Crowther Audio,Hot Cake,Overdrive,DONE,DONE,DONE,./research/pedals/Crowther Audio/Hot Cake.md
 CroyTone Audio Technologies,Camper Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,

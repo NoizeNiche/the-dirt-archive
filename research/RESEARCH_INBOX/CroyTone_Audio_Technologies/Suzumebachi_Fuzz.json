@@ -2,16 +2,7 @@
   "builder": "CroyTone Audio Technologies",
   "pedal": "Suzumebachi Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
-  "sources": [
-    {
-      "url": "https://croytoneaudio.com/en/products/suzumebachi-fuzz",
-      "title": "Suzumebachi Fuzz – Croy Tone Audio Technologies",
-      "h1": "Suzumebachi Fuzz",
-      "excerpt": "Suzumebachi Fuzz Regular price $195.00 USD Regular price Sale price $195.00 USD Sale Sold out Taxes included. Quantity Quantity ( 0 in cart) Decrease quantity for Suzumebachi Fuzz Increase quantity for Suzumebachi Fuzz Add to cart Couldn't load pickup availability Refresh",
-      "host": "croytoneaudio.com",
-      "source_kind": "other"
-    }
-  ],
+  "independent_exact_source_count": 0,
+  "sources": [],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

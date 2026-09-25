@@ -2,7 +2,40 @@
   "builder": "Crown",
   "pedal": "Super Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/crown/superfuzz",
+      "title": "Crown Super Fuzz | Effects Database",
+      "h1": "Crown Super Fuzz",
+      "excerpt": "Crown Super Fuzz | Effects Database Skip to navigation Brands &#9660; 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries &#9660; (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by &#9660; Enclosure type Modulation type Special &#9658; Classics Eye candy Funny Vaporware Weird Random brand Random effect Events &#9658; NAMM Musikmesse Music China Guitar Summit More... &#9660; Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand C... Crown browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Crown Super Fuzz Published on August 30, 2009 Crown fuzz pedal Information The Crown Super Fuzz is one of several rebranded versions of the Japanese OEM fuzz circuit sold under different names in the late 1960s and early 1970s. It delivered the same aggressive, octave-enhanced fuzz tones that became a signature of early heavy rock and psychedelic music. Controls Expander (with On/Off switch): Adjusts the intensity of the fuzz effect and serves as the main power switch. Balance: Controls the overall output level. Tone switch: Two-way slide switch; Position 1 produces a mid-focused fuzz, Position 2 adds a heavier sustained tone with more low end. Push button switch: Top-mounted bypass control for cutting the effect in or out. Specifications Power: 9V battery (accessible by removing the bottom plate with 4 screws) Connections: Input jack, Output jack Highlights Crown-branded version of the Super Fuzz circuit Same OEM design as other models of the era Produces octave-rich, snarling fuzz tones Compact and straightforward vintage design Collectible among enthusiasts of Japanese-made pedals Reviews myFXDB user reviews No reviews yet + Add your review Related Guyatone FS-3 Fuzz (related?) Honey Special Fuzz (related?) Shin-Ei Uni-Fuzz Companion Alternado Fuzz LRE Deluxe AC Super Fuzz Sam Ash Fuzzola Sekova Model No. 99 Deluxe Alternado Fuzz Tone Expander Unit Univox U-250 Uni-Fuzz Honey Baby Crying (earliest Super Fuzz) Shin-Ei Companion FY-6 Super Fuzz Apollo no. 846 Deluxe Fuzz Tone Expander Avora FY-6 Super Fuzz Clear Sound Super Fuzz Companion FY-6 Fuzz Master Crown Super Fuzz (v1: Honey) Factone Fuzz Machine Hagstrom Super Fuzz Hohner MF-50 Master Fuzz Control J.H. Experience FY-6 Super Fuzz (v1: Honey) Jax FY-6 Fuzz Master LRE Super-Fuzz (v1: Honey) Mana FY-6 Fuzz Master Mayfair Model No. 9540 Fuzz Master Mica-Tone Fuzz Master Oscar FY-6 Fuzz Master Rands FY-6 Fuzz Zenta FY-6 Fuzz Master Shaftesbury Duo Fuzz Shaftesbury 2025 Duo Fuzz Shaftesbury 2025 Duo Fuzz - Heritage Edition Teisco TF-1 Fuzz Tempo TR-6 Fuzz (v1: Honey) Univox U-1095 Super-Fuzz (v1: Honey, v2: ?) 73 Effects Super-Fuzz Analog Fox Super Fuzz Animal Factory Chemical Burn - Octave Fuzz Black Candy Effects SuperFuzz Deluxe Bla",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://reverb.com/item/66678966-shin-ei-crown-fy-6-super-fuzz-1968-1970",
+      "title": "Shin-Ei Crown FY-6 Super Fuzz 1968-1970 - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://effectsfreak.com/effect/crown-super-fuzz-w-original-box/",
+      "title": "Crown - Super Fuzz w/Original Box - Effects Freak",
+      "h1": "",
+      "excerpt": "",
+      "host": "effectsfreak.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.worthpoint.com/worthopedia/vintage-crown-univox-super-fuzz-149598949",
+      "title": "Vintage Crown (Univox Super Fuzz) distortion pedal",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.worthpoint.com",
+      "source_kind": "other"
+    }
+  ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

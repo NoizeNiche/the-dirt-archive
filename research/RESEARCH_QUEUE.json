@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T19:26:42.193622+00:00",
+  "generated_at": "2026-09-25T19:27:36.238600+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2042,
+    "researched": 2045,
     "pictured": 1948,
     "complete": 1948,
-    "research_pending": 1719
+    "research_pending": 1716
   },
   "next_target": {
     "builder": "Critter Electronics",
@@ -37,12 +37,6 @@
       "research_record": ""
     },
     {
-      "builder": "Crock",
-      "pedal": "DS-2 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Crossfire",
       "pedal": "FUZ-510 R-Fuzz",
       "catalog_type": "",
@@ -61,12 +55,6 @@
       "research_record": ""
     },
     {
-      "builder": "Crotronics",
-      "pedal": "Lost Temper",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Crowella Effects",
       "pedal": "Animated",
       "catalog_type": "",
@@ -81,12 +69,6 @@
     {
       "builder": "Crown",
       "pedal": "FW-3 Distortion Wah Volume",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crown",
-      "pedal": "Super Fuzz",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +147,24 @@
     {
       "builder": "Cunningham Amps",
       "pedal": "Octave Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cunningham Amps",
+      "pedal": "Zonk/MK1 Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Custom Audio Electronics",
+      "pedal": "Freddy Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Custom Guitar Innovations",
+      "pedal": "2 In 1 Fuzz Pedal",
       "catalog_type": "",
       "research_record": ""
     }
