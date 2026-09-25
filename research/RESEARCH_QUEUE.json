@@ -1,35 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T06:05:05.390207+00:00",
+  "generated_at": "2026-09-25T06:05:39.074110+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1783,
+    "researched": 1785,
     "pictured": 1717,
     "complete": 1717,
-    "research_pending": 1982
+    "research_pending": 1980
   },
   "next_target": {
     "builder": "Crazy Tube Circuits",
-    "pedal": "Motherload - Fuzz/Distortion",
+    "pedal": "Orama - Dual Drive",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Motherload - Fuzz/Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Orama",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "Orama - Dual Drive",
@@ -165,6 +153,18 @@
     {
       "builder": "Creepy Fingers Effects",
       "pedal": "Blacklight Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Blue Mood",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Brummie",
       "catalog_type": "",
       "research_record": ""
     }
