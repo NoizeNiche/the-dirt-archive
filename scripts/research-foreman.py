@@ -93,16 +93,16 @@ def main():
                 "independent_exact_source_count":len(good),
                 "sources":good,
                 "next_action":"Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
-            },ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+            },ensure_ascii=True,indent=2)+"\n",encoding="utf-8")
             staged+=1
             staged_files.append(out.as_posix())
             print("STAGED",b,"/",p,"sources=",len(good))
     summary = {"staged": staged, "held": held, "staged_files": staged_files}
     Path("research-evidence/foreman-summary.json").write_text(
-        json.dumps(summary, ensure_ascii=False, indent=2) + "\n",
+        json.dumps(summary, ensure_ascii=True, indent=2) + "\n",
         encoding="utf-8",
     )
-    print(json.dumps(summary,ensure_ascii=False))
+    print(json.dumps(summary,ensure_ascii=True))
 
 if __name__=="__main__":
     main()
