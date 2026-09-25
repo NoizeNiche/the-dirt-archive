@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T06:05:39.074110+00:00",
+  "generated_at": "2026-09-25T06:06:18.817489+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1785,
+    "researched": 1786,
     "pictured": 1717,
     "complete": 1717,
-    "research_pending": 1980
+    "research_pending": 1979
   },
   "next_target": {
     "builder": "Crazy Tube Circuits",
-    "pedal": "Orama - Dual Drive",
+    "pedal": "Sidekick",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Orama - Dual Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "Sidekick",
@@ -165,6 +159,12 @@
     {
       "builder": "Creepy Fingers Effects",
       "pedal": "Brummie",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Crazy Creepy",
       "catalog_type": "",
       "research_record": ""
     }
