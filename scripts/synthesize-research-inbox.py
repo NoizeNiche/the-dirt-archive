@@ -42,7 +42,8 @@ COLOR_RE = re.compile(
 
 
 def norm(value):
-    return re.sub(r"\s+", " ", str(value or "").strip())
+    text = re.sub(r"\s+", " ", str(value or "").strip())
+    return text.encode("utf-8", "backslashreplace").decode("utf-8")
 
 
 def slug(value):
@@ -132,9 +133,9 @@ def color_sentences(sources):
 
 
 def write_record(item, tracker_type, packet):
-    builder = item.get("company") or ""
-    pedal = item.get("pedal") or ""
-    kind = tracker_type or (item.get("types") or [""])[0] if isinstance(item.get("types"), list) else tracker_type
+    builder = norm(item.get("company") or "")
+    pedal = norm(item.get("pedal") or "")
+    kind = norm(tracker_type or (item.get("types") or [""])[0] if isinstance(item.get("types"), list) else tracker_type)
     sources = exact_sources(packet)
     if len(sources) < 2 and not strong_single_source(sources):
         return False, "insufficient independent exact-source evidence"
