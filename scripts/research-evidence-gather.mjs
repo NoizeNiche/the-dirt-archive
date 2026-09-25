@@ -226,7 +226,8 @@ const span=WORKER_COUNT*TARGETS_PER_WORKER;
 // Keep the autonomous evidence crew locked to the same canonical A→Z
 // frontier as the main research workers. Do not rotate across the entire
 // remaining catalog, or C can starve while later letters are researched.
-const frontier=rows.slice(0,span);
+const activeLetter=(rows[0]?.Builder?.[0]||'').toUpperCase();
+const frontier=rows.filter(r=>(r.Builder?.[0]||'').toUpperCase()===activeLetter).slice(0,span);
 const targets=frontier.slice(
   WORKER_INDEX*TARGETS_PER_WORKER,
   (WORKER_INDEX+1)*TARGETS_PER_WORKER
