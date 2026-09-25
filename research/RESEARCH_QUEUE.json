@@ -1,77 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T03:12:32.103423+00:00",
+  "generated_at": "2026-09-25T03:14:34.066177+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1730,
+    "researched": 1739,
     "pictured": 1657,
     "complete": 1657,
-    "research_pending": 2035
+    "research_pending": 2026
   },
   "next_target": {
-    "builder": "CostaLab",
-    "pedal": "Bad Angel",
+    "builder": "Couch Electronics",
+    "pedal": "Baker's Dozen Overdrive",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "CostaLab",
-      "pedal": "Bad Angel",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CostaLab",
-      "pedal": "Custom Muff Classic",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CostaLab",
-      "pedal": "Custom Muff EVO",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CostaLab",
-      "pedal": "Dual Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CostaLab",
-      "pedal": "Good Devil",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CostaLab",
-      "pedal": "Moon Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CostaLab",
-      "pedal": "Natural Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CostaLab",
-      "pedal": "Natural Drive MKII",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CostaLab",
-      "pedal": "Sun Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Couch Electronics",
       "pedal": "Baker's Dozen Overdrive",
@@ -165,6 +111,60 @@
     {
       "builder": "Cranetortoise by Albit",
       "pedal": "SW-1B Switching Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crate",
+      "pedal": "CC-2681 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Rock'n'Roll Effecter",
+      "pedal": "Nasty Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Rock'n'Roll Effecter",
+      "pedal": "SWAG FACE",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Rock'n'Roll Effecter",
+      "pedal": "THE FOXY BLOW",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Rock'n'Roll Effecter",
+      "pedal": "TONE BENDER M.K Ⅰ. Ⅴ",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Black Magic",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Black Magic MkII",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Blackface Stardust V2",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Constellation",
       "catalog_type": "",
       "research_record": ""
     }
