@@ -2,7 +2,7 @@
   "builder": "Cosmodio Instruments",
   "pedal": "Pet Yeti",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 4,
+  "independent_exact_source_count": 5,
   "sources": [
     {
       "url": "https://cosmod.io/products/pet-yeti",
@@ -26,11 +26,18 @@
       "host": "www.unionmusic.com"
     },
     {
-      "url": "https://fuzznbuzzguitars.com/products/cosmodio-instruments-pet-yeti",
-      "title": "Cosmodio Instruments Pet Yeti – Fuzz n Buzz",
-      "h1": "Cosmodio Instruments Pet Yeti",
-      "excerpt": "Cosmodio Instruments Pet Yeti Regular price 259,00 € Regular price Sale price 259,00 € Unit price / per -Liquid error (snippets/price line 122): divided by 0% Sold out Fast delivery, fast shipping Quantity ( 0 in cart) Decrease quantity for Cosmodio Instruments Pet Yeti Increase quantity for Cosmodio Instruments Pet Yeti Add to cart Couldn't load pickup availability Refresh",
-      "host": "fuzznbuzzguitars.com"
+      "url": "https://softnoiseaudio.com/products/cosmodio-instruments-gravity-well-copy",
+      "title": "Cosmodio Instruments Pet Yeti Analog Distortion & Fuzz Pedal (Dark Doo – Soft Noise Audio",
+      "h1": "Cosmodio Instruments Pet Yeti Analog Distortion & Fuzz Pedal (Dark Doomy Deathscape)",
+      "excerpt": "$301.00 Taxes included. Pet Yeti from Cosmodio Instruments is an analog distortion, fuzz, and bit crusher that gives you a monstrous tone destroyer with all the tools needed to tame it into your new best friend. With its highly flexible set of tone shaping tools, Pet Yeti is equally prepared to storm the village and take no prisoners as it is for producing gentlemanly parallel saturation over a cup of tea. Your signal starts at the right hand side, passing through the shape control which adjusts the harmonic profile of your tone before entering the tone stack. Select from op-amp, germanium, and silicon style drives with the voice control, and set a total gain amount with the gain control and strength switch, providing saturation from soft and fuzzy to ferociously fierce. Further shape your drive tone with the tone control, taming harmonic content after the fact. For a final dose of icy crunch, engage the Bite switch to send your signal through an analog bit crusher, smashing your tone with its brutalistic club to produce sadistic square wave saturation and prehistoric glitchy madness. Independent controls for effect level and for a clean signal tap let you process this unique drive in parallel fashion, blending in clean tone to achieve a perfect harmony between monster and musician. If your amp is lacking proper enrichment, get it a friend it can play rough with, and see what Pet Yeti from Cosmodio Instruments can bring to your tone. Pet Yeti Features Analog distortion and fuzz with bit crushing Generous tone shaping tools provide ample room to sculpt and shape your tone Shape control affects frequency content pre-distortion Voice and strength switch offer three modes of voicing and total gain range Gain control affects total gain amount Tone control shapes harmonics post-distortion Bite switch engages analog bit crusher for ultra-hard-clipping glitchy tones Independent level controls for effect level and clean signal Product Details Dimensions: 4.7\" x 3.7\" x 3\" / 119.5 x 94 x 34mm Power Specs: 9VDC center negative power supply, current draw 15mA (PSU not included) Decrease quantity Increase quantity Add to cart Added",
+      "host": "softnoiseaudio.com"
+    },
+    {
+      "url": "https://www.effekt-boutique.de/cosmodio-instruments-pet-yeti.html",
+      "title": "Cosmodio Instruments - Pet Yeti",
+      "h1": "",
+      "excerpt": "Cosmodio Instruments - Pet Yeti The Pet Yeti analog distortion & fuzz pedal is about harnessing and befriending a monstrous force. It delivers extreme, unbridled and sometimes unusual distortion along with the means to scale and sculpt that energy to suit your music and performance. Seien Sie der erste, der dieses Produkt bewertet 259,00 € Inkl. 19% deutscher MwSt. (kann je nach Bestimmungsland variieren, finaler Preis wird beim Checkout angezeigt), , zzgl. Versand Lieferzeit Auf Lager - Versand am 5. Oktober Anzahl In den Warenkorb",
+      "host": "www.effekt-boutique.de"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

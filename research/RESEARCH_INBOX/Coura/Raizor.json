@@ -1,0 +1,23 @@
+{
+  "builder": "Coura",
+  "pedal": "Raizor",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/coura/raizor",
+      "title": "Coura Raizor | Effects Database",
+      "h1": "Coura Raizor",
+      "excerpt": "Published on March 30, 2007 Coura distortion pedal Musikmesse Frankfurt 2007 Frankfurt Musikmesse 2007 Musikmesse 2007 Reviews myFXDB user reviews No reviews yet + Add your review Links Coura Coura Raizor Where to find one? Ads! This site contains affiliate links for which I may be compensated Coura Raizor for sale on eBay:",
+      "host": "www.effectsdatabase.com"
+    },
+    {
+      "url": "https://www.gitarrebass.de/heftarchiv/2006-03/coura-raizor-verzerrer-pedal/",
+      "title": "Coura RaizoR, Verzerrer-Pedal | GITARRE & BASS",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.gitarrebass.de"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
