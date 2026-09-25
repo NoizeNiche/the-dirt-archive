@@ -16053,14 +16053,14 @@
     "pedal": "Defector",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Crowella Effects/Defector.md"
   },
   {
     "builder": "Crowella Effects",
     "pedal": "Voskhod",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Crowella Effects/Voskhod.md"
   },
   {
     "builder": "Crown",
@@ -16133,7 +16133,7 @@
     "pedal": "Farmer's Mill",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Crushsound/Farmer's Mill.md"
   },
   {
     "builder": "Crust Pedals",
@@ -16168,7 +16168,7 @@
     "pedal": "Siam Howler",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cryptid Effects/Siam Howler.md"
   },
   {
     "builder": "Crysta Professional",
@@ -16217,7 +16217,7 @@
     "pedal": "Metal Rocker",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/CSR/Metal Rocker.md"
   },
   {
     "builder": "CTech / CB Labs",
@@ -16245,21 +16245,21 @@
     "pedal": "Dual Range Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cunningham Amps/Dual Range Fuzz.md"
   },
   {
     "builder": "Cunningham Amps",
     "pedal": "Gypsy Eyes Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cunningham Amps/Gypsy Eyes Fuzz.md"
   },
   {
     "builder": "Cunningham Amps",
     "pedal": "MK 1.6 Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cunningham Amps/MK 1.6 Fuzz.md"
   },
   {
     "builder": "Cunningham Amps",
@@ -16273,7 +16273,7 @@
     "pedal": "Nick Perri Signature MK1 Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cunningham Amps/Nick Perri Signature MK1 Fuzz.md"
   },
   {
     "builder": "Cunningham Amps",
@@ -16303,21 +16303,21 @@
     "pedal": "Carolina Reaper",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cusack Music/Carolina Reaper.md"
   },
   {
     "builder": "Cusack Music",
     "pedal": "Screamer Bass Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cusack Music/Screamer Bass Fuzz.md"
   },
   {
     "builder": "Cusack Music",
     "pedal": "Screamer Fuzz Germanium",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Cusack Music/Screamer Fuzz Germanium.md"
   },
   {
     "builder": "Cusack Music",
@@ -16501,7 +16501,7 @@
     "pedal": "Black Coffee Metal Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Danelectro/Black Coffee Metal Distortion.md"
   },
   {
     "builder": "Danelectro",
@@ -16634,14 +16634,14 @@
     "pedal": "Grilled Cheese Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Danelectro/Grilled Cheese Distortion.md"
   },
   {
     "builder": "Danelectro",
     "pedal": "Nichols 1966",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Danelectro/Nichols 1966.md"
   },
   {
     "builder": "Danelectro",
@@ -16655,7 +16655,7 @@
     "pedal": "Pride of Texas Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Danelectro/Pride of Texas Overdrive.md"
   },
   {
     "builder": "Danelectro",
@@ -16706,7 +16706,7 @@
     "pedal": "British Black Belt",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Daredevil Pedals/British Black Belt.md"
   },
   {
     "builder": "Daredevil Pedals",
@@ -17142,7 +17142,7 @@
     "pedal": "Spidola Germanium Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Demedash Effects/Spidola Germanium Fuzz.md"
   },
   {
     "builder": "Demedash Effects",
@@ -17240,7 +17240,7 @@
     "pedal": "VH4 Pedal",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Diezel Amplification/VH4 Pedal.md"
   },
   {
     "builder": "DigiTech",
@@ -17303,7 +17303,7 @@
     "pedal": "X-Series Metal Master",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/DigiTech/X-Series Metal Master.md"
   },
   {
     "builder": "DigiTech",
@@ -17345,7 +17345,7 @@
     "pedal": "PREAMP",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dirty Boy/PREAMP.md"
   },
   {
     "builder": "Dirty Boy",
@@ -17366,7 +17366,7 @@
     "pedal": "Badder Monkey",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/DOD Electronics/Badder Monkey.md"
   },
   {
     "builder": "DOD Electronics",
@@ -17583,7 +17583,7 @@
     "pedal": "Looking Glass",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/DOD Electronics/Looking Glass.md"
   },
   {
     "builder": "DOD Electronics",
@@ -17772,7 +17772,7 @@
     "pedal": "XR MD-1 Metal Mind",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Drunk Beaver/XR MD-1 Metal Mind.md"
   },
   {
     "builder": "Drunk Beaver",
@@ -18010,7 +18010,7 @@
     "pedal": "Chelsea",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/EarthQuaker Devices/Chelsea.md"
   },
   {
     "builder": "EarthQuaker Devices",
@@ -18122,7 +18122,7 @@
     "pedal": "Gary",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/EarthQuaker Devices/Gary.md"
   },
   {
     "builder": "EarthQuaker Devices",
@@ -18136,7 +18136,7 @@
     "pedal": "Gray Channel",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/EarthQuaker Devices/Gray Channel.md"
   },
   {
     "builder": "EarthQuaker Devices",
@@ -18178,7 +18178,7 @@
     "pedal": "Hoof Reaper",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/EarthQuaker Devices/Hoof Reaper.md"
   },
   {
     "builder": "EarthQuaker Devices",
@@ -18199,7 +18199,7 @@
     "pedal": "Palisades",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/EarthQuaker Devices/Palisades.md"
   },
   {
     "builder": "EarthQuaker Devices",
@@ -18213,7 +18213,7 @@
     "pedal": "Park Fuzz Sound",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/EarthQuaker Devices/Park Fuzz Sound.md"
   },
   {
     "builder": "EarthQuaker Devices",
@@ -18227,7 +18227,7 @@
     "pedal": "Plumes",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/EarthQuaker Devices/Plumes.md"
   },
   {
     "builder": "EarthQuaker Devices",
@@ -18444,7 +18444,7 @@
     "pedal": "Bass Big Muff Pi",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Electro-Harmonix/Bass Big Muff Pi.md"
   },
   {
     "builder": "Electro-Harmonix",
@@ -18514,7 +18514,7 @@
     "pedal": "Deluxe Bass Big Muff Pi 2",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Electro-Harmonix/Deluxe Bass Big Muff Pi 2.md"
   },
   {
     "builder": "Electro-Harmonix",
@@ -18612,7 +18612,7 @@
     "pedal": "J Mascis Ram's Head Big Muff Pi",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Electro-Harmonix/J Mascis Ram's Head Big Muff Pi.md"
   },
   {
     "builder": "Electro-Harmonix",
@@ -18633,14 +18633,14 @@
     "pedal": "Mainframe",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Electro-Harmonix/Mainframe.md"
   },
   {
     "builder": "Electro-Harmonix",
     "pedal": "Metal Muff with Top Boost",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Electro-Harmonix/Metal Muff with Top Boost.md"
   },
   {
     "builder": "Electro-Harmonix",
@@ -18745,14 +18745,14 @@
     "pedal": "Soul Food",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Electro-Harmonix/Soul Food.md"
   },
   {
     "builder": "Electro-Harmonix",
     "pedal": "Soul POG Overdrive / Octave Multi-Effect",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Electro-Harmonix/Soul POG Overdrive / Octave Multi-Effect.md"
   },
   {
     "builder": "Electro-Harmonix",
@@ -18766,7 +18766,7 @@
     "pedal": "Spruce Goose",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Electro-Harmonix/Spruce Goose.md"
   },
   {
     "builder": "Electro-Harmonix",
@@ -18801,7 +18801,7 @@
     "pedal": "Greathammer",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Electronic Audio Experiments/Greathammer.md"
   },
   {
     "builder": "Electronic Audio Experiments",
@@ -25857,21 +25857,21 @@
     "pedal": "Cocoa Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Sitek Guitar Electronics/Cocoa Distortion.md"
   },
   {
     "builder": "Sitek Guitar Electronics",
     "pedal": "Freya Overdrive/Booster",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Sitek Guitar Electronics/Freya Overdrive/Booster.md"
   },
   {
     "builder": "Sitek Guitar Electronics",
     "pedal": "Fuzzie Germanium Fuzz v2",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Sitek Guitar Electronics/Fuzzie Germanium Fuzz v2.md"
   },
   {
     "builder": "Sitek Guitar Electronics",
@@ -25941,7 +25941,7 @@
     "pedal": "Cognitive Dissonance MkIV",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Skreddy Pedals/Cognitive Dissonance MkIV.md"
   },
   {
     "builder": "Skreddy Pedals",
@@ -25962,7 +25962,7 @@
     "pedal": "Ernie",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Skreddy Pedals/Ernie.md"
   },
   {
     "builder": "Skreddy Pedals",
@@ -26060,35 +26060,35 @@
     "pedal": "P19",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Skreddy Pedals/P19.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Perestroika",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Skreddy Pedals/Perestroika.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Pig Mine",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Skreddy Pedals/Pig Mine.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Pink Flesh",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Skreddy Pedals/Pink Flesh.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "ROVER Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Skreddy Pedals/ROVER Fuzz.md"
   },
   {
     "builder": "Skreddy Pedals",
@@ -26130,7 +26130,7 @@
     "pedal": "Supa Tone",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Skreddy Pedals/Supa Tone.md"
   },
   {
     "builder": "Skreddy Pedals",
@@ -26144,7 +26144,7 @@
     "pedal": "Top Fuel",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Skreddy Pedals/Top Fuel.md"
   },
   {
     "builder": "Skreddy Pedals",
@@ -26158,7 +26158,7 @@
     "pedal": "ZERO",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Skreddy Pedals/ZERO.md"
   },
   {
     "builder": "Smallsound/Bigsound",
@@ -26207,7 +26207,7 @@
     "pedal": "Fuzzbox",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/SolidGoldFX/Fuzzbox.md"
   },
   {
     "builder": "SolidGoldFX",
@@ -26277,7 +26277,7 @@
     "pedal": "Rumblefuzz II",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Spaceman Effects/Rumblefuzz II.md"
   },
   {
     "builder": "Spaceman Effects",
@@ -26291,14 +26291,14 @@
     "pedal": "Spacerocket II",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Spaceman Effects/Spacerocket II.md"
   },
   {
     "builder": "Spaceman Effects",
     "pedal": "Sputnik I",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Spaceman Effects/Sputnik I.md"
   },
   {
     "builder": "Spaceman Effects",
@@ -26347,7 +26347,7 @@
     "pedal": "Brit Box",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Stomp Under Foot/Brit Box.md"
   },
   {
     "builder": "Stomp Under Foot",
@@ -26424,7 +26424,7 @@
     "pedal": "Guv'nor",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Stomp Under Foot/Guv'nor.md"
   },
   {
     "builder": "Stomp Under Foot",
@@ -26557,7 +26557,7 @@
     "pedal": "Sonic Generator",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Stomp Under Foot/Sonic Generator.md"
   },
   {
     "builder": "Stomp Under Foot",
@@ -26725,7 +26725,7 @@
     "pedal": "Variac Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Subdecay/Variac Overdrive.md"
   },
   {
     "builder": "Subdecay",
@@ -26739,7 +26739,7 @@
     "pedal": "Eclipse",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Suhr/Eclipse.md"
   },
   {
     "builder": "Suhr",
@@ -26753,21 +26753,21 @@
     "pedal": "Riot",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Suhr/Riot.md"
   },
   {
     "builder": "Suhr",
     "pedal": "Riot Mini",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Suhr/Riot Mini.md"
   },
   {
     "builder": "Suhr",
     "pedal": "Riot Reloaded",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Suhr/Riot Reloaded.md"
   },
   {
     "builder": "Suhr",
@@ -26823,7 +26823,7 @@
     "pedal": "The Hog",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Tallon Electric/The Hog.md"
   },
   {
     "builder": "TC Electronic",
@@ -26844,14 +26844,14 @@
     "pedal": "El Cambo Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/TC Electronic/El Cambo Overdrive.md"
   },
   {
     "builder": "TC Electronic",
     "pedal": "Eyemaster Metal Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/TC Electronic/Eyemaster Metal Distortion.md"
   },
   {
     "builder": "TC Electronic",
@@ -26949,7 +26949,7 @@
     "pedal": "Vintage Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/TC Electronic/Vintage Overdrive.md"
   },
   {
     "builder": "TC Electronic",
@@ -26963,7 +26963,7 @@
     "pedal": "Zeus Drive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/TC Electronic/Zeus Drive.md"
   },
   {
     "builder": "Tech 21 NYC",
@@ -27005,7 +27005,7 @@
     "pedal": "Double Drive 3X",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Tech 21 NYC/Double Drive 3X.md"
   },
   {
     "builder": "Tech 21 NYC",
@@ -27376,14 +27376,14 @@
     "pedal": "Ziggy Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/TONECAT/Ziggy Fuzz.md"
   },
   {
     "builder": "Toneczar",
     "pedal": "Openhaus",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Toneczar/Openhaus.md"
   },
   {
     "builder": "Tribute Audio Designs",
@@ -27600,7 +27600,7 @@
     "pedal": "Myriad Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Vemuram/Myriad Fuzz.md"
   },
   {
     "builder": "Vemuram",
@@ -28048,7 +28048,7 @@
     "pedal": "Copperhead Drive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/VOX/Copperhead Drive.md"
   },
   {
     "builder": "VOX",
@@ -28062,7 +28062,7 @@
     "pedal": "Fuel Injector",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/VOX/Fuel Injector.md"
   },
   {
     "builder": "VOX",
@@ -28083,21 +28083,21 @@
     "pedal": "Satchurator",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/VOX/Satchurator.md"
   },
   {
     "builder": "VOX",
     "pedal": "Silk Drive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/VOX/Silk Drive.md"
   },
   {
     "builder": "VOX",
     "pedal": "Straight 6 Drive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/VOX/Straight 6 Drive.md"
   },
   {
     "builder": "VOX",
@@ -28111,14 +28111,14 @@
     "pedal": "V8 Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/VOX/V8 Distortion.md"
   },
   {
     "builder": "VOX",
     "pedal": "V810 Valvetone",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/VOX/V810 Valvetone.md"
   },
   {
     "builder": "VOX",
@@ -28153,7 +28153,7 @@
     "pedal": "VOX 7001 Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/VOX/VOX 7001 Distortion.md"
   },
   {
     "builder": "Walrus Audio",
@@ -28388,14 +28388,14 @@
     "pedal": "Black '65",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Black '65.md"
   },
   {
     "builder": "Wampler Pedals",
     "pedal": "Black ’65 Limited Edition",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Black ’65 Limited Edition.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28418,7 +28418,7 @@
     "pedal": "Brent Mason: Hot Wired v2",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Brent Mason: Hot Wired v2.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28497,7 +28497,7 @@
     "pedal": "Hot Wired",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Hot Wired.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28536,7 +28536,7 @@
     "pedal": "Moxie",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Moxie.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28561,7 +28561,7 @@
     "pedal": "Phenom Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Phenom Distortion.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28633,7 +28633,7 @@
     "pedal": "tcd",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/tcd.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28693,7 +28693,7 @@
     "pedal": "Tumnus Deluxe",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wampler Pedals/Tumnus Deluxe.md"
   },
   {
     "builder": "Wampler Pedals",
@@ -28861,7 +28861,7 @@
     "pedal": "Russian-Pickle",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Way Huge/Russian-Pickle.md"
   },
   {
     "builder": "Way Huge",
@@ -29034,7 +29034,7 @@
     "pedal": "Box of War OG Reissue",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Wren and Cuff/Box of War OG Reissue.md"
   },
   {
     "builder": "Wren and Cuff",
@@ -29434,7 +29434,7 @@
     "pedal": "Fuzz Factory Vertical",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/ZVEX Effects/Fuzz Factory Vertical.md"
   },
   {
     "builder": "ZVEX Effects",

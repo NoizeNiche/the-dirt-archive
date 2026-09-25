@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T18:56:47.971760+00:00",
+  "generated_at": "2026-09-25T19:00:54.644399+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 1921,
+    "researched": 2014,
     "pictured": 1869,
     "complete": 1869,
-    "research_pending": 1840
+    "research_pending": 1747
   },
   "next_target": {
     "builder": "Critter Electronics",
@@ -121,18 +121,6 @@
       "research_record": ""
     },
     {
-      "builder": "Crowella Effects",
-      "pedal": "Defector",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crowella Effects",
-      "pedal": "Voskhod",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Crown",
       "pedal": "Fuzz and Treble Booster",
       "catalog_type": "",
@@ -165,6 +153,18 @@
     {
       "builder": "CroyTone Audio Technologies",
       "pedal": "Hae Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CroyTone Audio Technologies",
+      "pedal": "Suzumebachi Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crust Pedals",
+      "pedal": "Hudson Broadcast Clone",
       "catalog_type": "",
       "research_record": ""
     }
