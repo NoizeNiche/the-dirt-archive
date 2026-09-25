@@ -421,10 +421,28 @@ const path = require('node:path');
             const overflow = await page.evaluate(() => document.documentElement.scrollWidth > window.innerWidth + 1);
             if (overflow) throw new Error('Mobile detail page has horizontal overflow.');
 
-            // Every researched parent pedal still needs a readable detail page.
+            // Deployment checks only changed research pages plus a bounded smoke set.
+            // Scheduled site health remains responsible for exhaustive research-page auditing.
             await page.setViewportSize({width:1440,height:1000});
-            const workerCount = Math.min(6, Math.max(1, researchedParents.length));
-            console.log('Auditing', researchedParents.length, 'researched parent pedal pages with', workerCount, 'reused browser workers.');
+            const changedResearchPaths = changedFiles.filter(file => file.startsWith('research/pedals/') && file.endsWith('.md'));
+            const changedResearchEntries = researchedParents.filter(entry => {
+              const recordPath = 'research/pedals/' + String(entry.company || '') + '/' + String(entry.pedal || '') + '.md';
+              return changedResearchPaths.includes(recordPath);
+            });
+            const changedKeys = new Set(changedResearchEntries.map(key));
+            const smokeResearchEntries = researchedParents
+              .filter(entry => !changedKeys.has(key(entry)))
+              .sort((a,b) => key(a).localeCompare(key(b)))
+              .slice(0, 24);
+            const researchAuditMode = process.env.DEPLOY_RESEARCH_AUDIT_MODE || 'changed';
+            const auditResearchEntries = researchAuditMode === 'all'
+              ? researchedParents
+              : [...changedResearchEntries, ...smokeResearchEntries];
+            const workerCount = Math.min(6, Math.max(1, auditResearchEntries.length));
+            console.log('Auditing', auditResearchEntries.length, 'researched parent pedal pages with', workerCount,
+              'reused browser workers | changed:', changedResearchEntries.length,
+              '| smoke:', smokeResearchEntries.length,
+              '| catalog researched:', researchedParents.length);
             let nextIndex = 0;
             const auditFailures = [];
 
@@ -535,7 +553,7 @@ const path = require('node:path');
               try {
                 while (true) {
                   const index = nextIndex++;
-                  if (index >= researchedParents.length) return;
+                  if (index >= auditResearchEntries.length) return;
                   await auditResearchEntry(researchedParents[index], workerId, workerPage);
                 }
               } finally {
@@ -559,7 +577,7 @@ const path = require('node:path');
 
             await context.close();
             await browser.close();
-            console.log('Expanded browser audit passed: catalog controls, combined filters, pagination, detail records, photos, fallbacks, variations, legacy redirects, mobile layout, and all researched parent pages.');
+            console.log('Expanded browser audit passed: catalog controls, combined filters, pagination, detail records, photos, fallbacks, variations, legacy redirects, mobile layout, and changed/smoke researched parent pages.');
           })().catch(err => {
             console.error(err);
             process.exit(1);
