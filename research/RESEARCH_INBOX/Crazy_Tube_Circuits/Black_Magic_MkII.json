@@ -2,7 +2,7 @@
   "builder": "Crazy Tube Circuits",
   "pedal": "Black Magic MkII",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 3,
+  "independent_exact_source_count": 4,
   "sources": [
     {
       "url": "https://allthepedals.com/pedals/crazy-tube-circuits-black-magic-mkii",
@@ -24,6 +24,13 @@
       "h1": "Black Magic mkII",
       "excerpt": "Distortion JFET high-gain monster nailing American and British amp tones with a killer 3-band EQ. The Black Magic mkII uses cascaded JFET gain stages to replicate the signal path and feel of high-gain tube amplifiers. It blends American and British voicings into a single circuit, covering everything from low overdrive to fully saturated distortion with massive sustain. Even at maximum gain, it preserves clarity and cleans up naturally with the guitar's volume knob. Controls include Gain, Volume, a 3-band passive EQ (Bass, Mids, Treble), and a Presence knob. A dedicated boost footswitch is assignable to boost gain, volume, or both simultaneously for solos. True bypass. Handmade in Athens, Greece. Runs on 9V DC, center-negative. Demo Videos Specifications Power 9-12V DC Current Draw 58mA Polarity center-negative Shop This Pedal Reverb Amazon Sweetwater Coming soon Using these links supports PedalFilter at no extra cost to you. ❤️ The fastest, most visual guitar pedal database. All signal, no noise. About • Collections • Blog • Compare • Privacy Policy • Terms of Service • Submit a pedal • © 2026 PedalFilter",
       "host": "pedalfilter.com"
+    },
+    {
+      "url": "https://davisguitar.com/products/crazy-tube-circuits-black-magic-mkii",
+      "title": "Crazy Tube Circuits Black Magic MKII – Davis Guitar",
+      "h1": "",
+      "excerpt": "Crazy Tube Circuits Black Magic MKII $250.00 Utilizing JFET technology cascaded gain stages we set out to mimic the signal path and response of a high gain tube amp. Combining the best sounds of American and British style high gain amps along with a versatile 3 band passive EQ and presence control we created a distortion effect that can cover a wide range of gain from low overdrive – crunchy sounds to fully saturated gain with huge amounts of sustain. Even at high gain settings Black Magic mk2 preserves full clarity and definition and can clean up with your guitar’s volume knob. With an assignable boost footswitch you can select to boost gain, volume or both in order to stand out for your solo without the need to change settings on the fly.",
+      "host": "davisguitar.com"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
