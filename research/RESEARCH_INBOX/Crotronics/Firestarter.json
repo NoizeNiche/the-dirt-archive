@@ -2,7 +2,16 @@
   "builder": "Crotronics",
   "pedal": "Firestarter",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
-  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://eastsidemusicsupply.com/products/crotronics-firestarter",
+      "title": "Crotronics Firestarter — eastside music supply",
+      "h1": "Crotronics Firestarter",
+      "excerpt": "Eastside Music Supply's exact Crotronics Firestarter product page reproduces the builder's description of the pedal as a Big Muff-based fuzz created initially as a custom pedal for guitarist Blake Doyle. The description identifies blend, symmetrical/asymmetrical clipping selection and a Choke control for starved-voltage gating, while explicitly naming the pedal Crotronics Firestarter.",
+      "host": "eastsidemusicsupply.com",
+      "source_kind": "catalog_verified",
+      "identity_match": true
+    }
+  ]
 }

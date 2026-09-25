@@ -2,7 +2,16 @@
   "builder": "Critter Electronics",
   "pedal": "CRR Klone",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
-  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://critterelectronics.com/shop",
+      "title": "Shop — Critter Electronics",
+      "h1": "Shop",
+      "excerpt": "Critter Electronics' official Shop page lists “Critter - CRR Klone - Ships Now!” as a distinct product, separately from the CFR Klone, Model III Overdrive, 1978R Distortion and other Critter pedals shown on the same page. The exact product name CRR Klone is therefore directly identified on the builder's own shop catalog.",
+      "host": "critterelectronics.com",
+      "source_kind": "manufacturer",
+      "identity_match": true
+    }
+  ]
 }
