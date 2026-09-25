@@ -25307,7 +25307,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/death-by-audio/thee-treble-overload/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Thee Treble Overload.md"
     },
@@ -42041,7 +42041,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/brent-mason-rewired/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Brent Mason: ReWired.md"
     },
@@ -42810,7 +42810,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/swollen-pickle-jumbo-fuzz-mkiis/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Swollen Pickle Jumbo Fuzz MkIIS.md"
     },
@@ -43072,7 +43072,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/violet-world/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Violet World.md"
     },
@@ -43296,7 +43296,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/zander-circuitry/cafetiere/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Zander Circuitry/Cafetiere.md"
     },

@@ -17035,7 +17035,7 @@
   {
     "builder": "Death By Audio",
     "pedal": "Thee Treble Overload",
-    "image": null,
+    "image": "./assets/pedals/death-by-audio/thee-treble-overload/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Death By Audio/Thee Treble Overload.md"
   },
@@ -28389,7 +28389,7 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "Brent Mason: ReWired",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/brent-mason-rewired/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Brent Mason: ReWired.md"
   },
@@ -28907,7 +28907,7 @@
   {
     "builder": "Way Huge",
     "pedal": "Swollen Pickle Jumbo Fuzz MkIIS",
-    "image": null,
+    "image": "./assets/pedals/way-huge/swollen-pickle-jumbo-fuzz-mkiis/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Swollen Pickle Jumbo Fuzz MkIIS.md"
   },
@@ -29075,7 +29075,7 @@
   {
     "builder": "Wren and Cuff",
     "pedal": "Violet World",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/violet-world/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Violet World.md"
   },
@@ -29229,7 +29229,7 @@
   {
     "builder": "Zander Circuitry",
     "pedal": "Cafetiere",
-    "image": null,
+    "image": "./assets/pedals/zander-circuitry/cafetiere/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Zander Circuitry/Cafetiere.md"
   },
