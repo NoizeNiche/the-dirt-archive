@@ -22356,7 +22356,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Cosmic Sound FX/The Fuzz Machine.md"
+      "research_record": "./research/pedals/Cosmic Sound FX/The Fuzz Machine.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/cosmicsound/fuzzmachine"
     },
     {
       "company": "Cosmic Sound FX",
@@ -22398,7 +22399,7 @@
       "source_page": null,
       "research_record": "./research/pedals/Cosmic Terror/Cosmic Drive.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40928345e392c7f/1790330166701/lVEL53dRGG5PuEkThclPW2sfnRMWMOSI5Hb.HPBvmlU-1790330166-1.3.1.1-oTu7T_kJ0Gjnxpsn8z8_Yrzs.VviRp17df0vs983pzBrjzbjMXD0kE4cBpJylYcFPdvbJ2H1GTnCuxQCxZRH0crU1mZkApPtnlu9VCUBirprtjjiTgFnTlSwR8z4OgYOspOrg2G2mL8Cx_pjrMhclHNBnv9pKaf3y2lhzNNwRWoIknc5laJQygRzDO5chLeKBvDWM_zfeMj5gG03eEmOix4YY6NC1IHwG6Bl17h0l9sOJEzCikWrs_WWTyo2M8H2E28AvS_7CEesdhtvuSqCpk6E5kObxQjow59ZtCr3Ccuqd68DceqUm2IPZaN_P4vrqz1w0GdwVZ11z5qFKCteUZONYomFjdlPNUS1NsmxEElIflNikaTNr9cceCmODFoZphl8_Jhzs2SkvBjM1DNDXciJx2N8A2_qhyZKD21i7TqOH5X60aHOKKK.2MqtEtUTb8k0ayYd6ZPYiZ8o7DrpsXsGvRB4SrRkpWmTw.N8E.6fW7DDdJUbwKVXMnqyqDlDbHzo0lJ4.5LlT0tmiqBbbkW8fVRqgeVJiEEhmWOGqa761NwhvcKvC7vPfI4PdBY0eePdB0mJS11p2KMqiAj3aKzyGqwHnmseFcRJahTb2.0NzcOc88lZmGORW.1x4CBd6ws675IpaLyU1rINAiHMYhHOjtj92XRKbzqHSoIIaGBrMXRv1Ii3S6tfk3FiNHKG_IbeSGeHeXmvVv1hjuoagpLe.Lb0ruFkK3IpB.m3Zsc",
-      "image_source_page": "https://reverb.com/item/93269546-cosmic-terror-sonic-doom-2023-black-and-purple"
+      "image_source_page": "https://reverb.com/item/88106055-cosmic-terror-cosmic-drive"
     },
     {
       "company": "Cosmic Terror",
@@ -22488,9 +22489,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmosound/cse-14-distortion-volume/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Cosmosound/CSE-14 Distortion-Volume.md"
+      "research_record": "./research/pedals/Cosmosound/CSE-14 Distortion-Volume.md",
+      "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
+      "image_source_page": "https://www.effectsdatabase.com/type/volume"
     },
     {
       "company": "Cosmosound",
@@ -22858,7 +22861,8 @@
       ],
       "image": null,
       "source_page": "https://www.c-r-effecter.com/tone-bender",
-      "research_record": "./research/pedals/Crazy Rock'n'Roll Effecter/TONE BENDER M.K Ⅰ. Ⅴ.md"
+      "research_record": "./research/pedals/Crazy Rock'n'Roll Effecter/TONE BENDER M.K Ⅰ. Ⅴ.md",
+      "image_source_page": "https://www.c-r-effecter.com/tone-bender"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -23331,9 +23335,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/creber-instruments/classic-fuzz/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Creber Instruments/Classic Fuzz.md"
+      "research_record": "./research/pedals/Creber Instruments/Classic Fuzz.md",
+      "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkANFWoMf7SeKY_2DmHscn2wKG3qSk559Yzdu9sXTq8UL4LI3ptd_eALNQ9-Er2lF2CjM3O9BnulThUCh09JkhZI-odOJuGSfvI1marPESDGW8EADwchFhcqc_QtpQiOl9Cavumuh_o_345D83W2oD2586loM7v8DETRcG4zrgDapcUUe-rCNlbr6kgYh1/s320/il_1588xN.4180088428_nzba%20(1).webp",
+      "image_source_page": "https://stompboxsteals.blogspot.com/2025/08/fuzz-creber-instruments-classic-fuzz.html"
     },
     {
       "company": "Creepy Fingers Effects",
@@ -23666,11 +23672,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/critter-electronics/cfr-klone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Critter Electronics/CFR Klone.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4092c670b59b78e/1790330338652/hAkvA77GqX.Z4yfHtw9Ii_iuHdMmQesbErhlqj52EO4-1790330338-1.3.1.1-qgrO25hPTh.qR2680_sNOM7W8Jjw9jn9Yfx0Tt49WIoGCm_jP2DX2m0KtQ9Oj3VWKk7UWzd3FVDyQEgPtfp6ftrw3cvT4Ky6j5mptBwgd6NPHYBO4Bxza_t_bmZOtTY280GWGx3LDBEL26BQ4ly5gNuoABotgIc_jpDo8CpJpU2nRK1oIZ.Xn6DwH8yExG1cNkqglpyN3af.uJoHbWcbdn5ljcb7fD4Vblh15A27lLAI3iPnRzdzI6Sz5sUpdgPCaP6jzyaqaLGrBdcrLFVg6kYW4gKjfyAASrrqNtgiTrdpXYt1L1HYOuFwsa47WnPztnEleWA8Yw0GvqCEnO.wHEZbRaQWgQIox4nX4zQIHPUQW5aYx3cwxt6_eE.8N6b9VI9Km4fkltXhU8JaONbW7J4C6Kq_eAo9r0hJ7NR.5DxO2fHimCQFATjFsGzsk3uqIw3abqo72RTYo9cJRBl.6M.UAG.SigdQaZkRYW4Wcord5l4oOowuj0.gRxg1B3pfqk_wJLlZ0djz6_7Z2BpLmfio3fwZ8W6Nd8mPZhcnlJ_W5s8NtXX2I0LwvNF6ITPse701cRNBlE_wRjSLiZujJ7VDegOiivIdxtF0msFMgYp0JH5KKK_SVjmupQ5IpEzam_.A.ql7iX_4fEju9C.aze8sQHvgygmBjxsmAzEWdPVUti2Q369MsAvpQm5ksFt9lDR8zfh9LttnvTHmk6j3PgVjuFJ7JxQLpY4FXBNfIoE",
-      "image_source_page": "https://reverb.com/item/94615923-critter-electronics-classic-family-recipe-cfr-klone-overdrive-pink-blue-sparkle"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--7BG0cdDZ--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/xuabnpmfs7opjdc3g5rw.png",
+      "image_source_page": "https://reverb.com/item/79240618-critter-electronics-cfr-klone"
     },
     {
       "company": "Critter Electronics",
@@ -25364,10 +25370,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/decibelics/golden-royale/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Decibelics/Golden Royale.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4092deabd52acd2/1790330400645/lemZl3fa.0XI6cw0YFaCXLRJgn7XtPYHVCndTnMPlZQ-1790330400-1.3.1.1-M4MSyDoMBfaapEP_9rh1moh3NcEmvf6dlUOhauJ7J1Xn0qxqdN8F2CkYtjVhzqHAe95acU8RNEU8aRLNEIGuUI5zK0.jI7n7E7GrA35WK3zYq9VmOc0TgDz.DeUCnHvJC5a3tly3pNDpFPF9vs8OgGauraTWfnTVfvGZr.H0uYr4xKYGGL2BTfRqOiJ77dtJFgc8PrhTRIIfg_lVDY7VbiHIbAGDRUyQr7W4blvccM.aOZl.yWCHSJTGe3N0Erg6cfhLeFVvzwdqS8A9PDfJL8wMFE7sfQHkhEj5WqmjQ12PyreWBkYo3cwpIEWrTBLgV_aftK2PzbD2NIIaFbP2ZzRdeo3Kifjiae7LcdYWN5M21xeHFEOf7lRzL2Asy.UWx6JuXxrO6munFuyGbeQq05eLJTYyR_pIhMTzPS9jehBIaKmbILBTxq71LGcoiGrFmxWtqxykpOUnllWAu7xiy1qPglxarbMp2HYT69RCcLe3ewExUvZ4Ix4yQSv152Knm2qJzORhKgGRmW86XqTk7C66.8CUTClrLzJSYJwknArRhFc1Q8EXNy9oFs9cM4ioXW9NhLae2D0dw8CRWukwjJmS3V9nPtvTZvnEqFadre5gQFtXZFZ49HCf12Hvm.RpqHvq14meW.YDLyhPOfMe6D0jQDP8mrxuChkm_e0WpZkvqNl5m.XeP2PbTYIADg_G2io9PITwMxBUfDQzGw2vWqY59wZ_eKhWKaLw_A_cMds",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--07W2Rb54--/quality=medium-low,height=128,width=128,fit=cover,gravity=bottom/68157737-0443-4b71-8112-269823704e3e.jpg",
       "image_source_page": "https://reverb.com/item/94951479-decibelics-golden-royale-black"
     },
     {
@@ -42417,10 +42423,10 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/tom-quayle-dual-fusion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Tom Quayle: Dual Fusion.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40930e24e08e091/1790330522207/wSPjLaanBBQk0.6sBN8ntuTjg0f6uyzEwraSZypIfnM-1790330522-1.3.1.1-_O3YwM_Xq1kfjiDfyN.unxYpaP2Om0TNYNhJqXYPbLh0dJzixGy3FRjzDi9KzQGTFFwz9At9wmmPUXjeKvrX1D8fsnfP932DSUFhEYlbvdAlr515Oo4W3dPXK1wqvynRI7N5K15WqlObpD_W9YKpkcZ9qvtlxrZU.Ly71ZyXsC3MGna4XjOdrTgJbnunrGpgFqdGz8SmInfJp7dU8DflkGXLWmks1O4X5Man_zADM5P_SLEy7KMS1JHeMMidE7k_EvRh1bp3MZ5HSkCHHtuLRvf66gpSGowb6yJg3WCsz7w9r873E5pGAQIWrece4In.ixF4FFNwYScEq1V_aTs0P0WPK4ZGypQIWHsrT1gMyhuLh6wD.qwE0ECZgunrdX2Q48Um9HPY2nBX6LuVKWJEIoxGAmeGaRMoqp8b.HJZk8y.aKTw7boIsidtZffrZhvYPDkfL1y5t0.ZdOGmgV7Sar23ebE.Fc0yRFG.gFbvHGRPIcDzyJ4fCedmzyPF2F5OGYojnmgP4OC0ZbgfE69tboRhPv9UJkzG0YbeerZUhRIwz64qscfP4V7ONiYuq7HofOMRNGyZeRDs_OzHJSvElr4T85YV3jb0q1dVgNFRAA2bK9S1.xFow1eLr5.D5pCThRhMDByh8dVDbrFTsTos8QvbkKXPJKcflWt6dnzWwWeiCvni8gpKu2wvKjFMdmViksOlTEsHy1ABu8yeAWzued59yDFcN2po2NJUwVaKrQI",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--Tj6-_coF--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/r8zrbjwfz0qx5notuydb.jpg",
       "image_source_page": "https://reverb.com/item/93730385-wampler-dual-fusion-tom-quayle-signature-overdrive-v2-2010s-red-sparkle"
     },
     {
@@ -42551,10 +42557,10 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/conquistador-fuzzstortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Conquistador Fuzzstortion.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40931238d219698/1790330532641/uNTwqcySM5Or.p0j_vxwLjGTNyVwpiVQfAzugcB1R.c-1790330532-1.3.1.1-1IEciDv3VowEqSZZ938XiBkka_q53U2jmI0w7lV0a8cATALZu4m87llt99qfjms2m7YLvUVPr7uFmar4vbqed4l0dWzAgv3v776NXaVEm_f.z4b2GD5wWJ9X0.J9UrJqyfjGuxKJGnih68eeuz_.pMn.UXMLEscIsGWmFNZP5OQEwyDA948Ucaw8lqHZQycc4j371Mk4KIaX_hNMS8OLqDngsX1jAcD32q9u7j0Ip58pwh3XRuat3u8iY56la_aH3Fp0iFKHXWr6lrSuV.cG5yY2WIcvRLC9ueWZGUyynbngJQISVRuoZNP.gL1gjDWf.dYXBmyt_e7CcWPa4CTHBzSEX03XgbEr3zlUAE9swGNH1Jjex9ypgBhvgaKjG7UoQq_fmwp1rS60AJzB9Alt3SLvannb2nD1.tfB1WItEovaMBfv3_aXpxBqd425OlEsuupdz3TFuS0oLkMg8dXA72Sw5271VtuuAMPx2SG4NFLSTmXKREtyWii_7XLxaSBqC1o3cBgNnVrZW1VvKBPGHbQfKkoAchvAaZ5L1CoYvJvI9HzI6I9wfjz2n9cmEv8Ca0xSw85KQ8uFgWC4yKIrrHQN4UDeOuWyeeZzYL2piX1OlNbs8mTEADu8waq_RYzlSVOsIKcyu7zXk8lHqFpuQsjCxbvddYJuW5bv1BobmftS_BMkNpUkgU7EMqkg9xUkaUXbvX.VG8J6HIzEjMZLRWK0U7Y_aw4Cl_VPwyHZgRE",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--4hl0Nc1H--/quality=medium-low,height=128,width=128,fit=cover,gravity=bottom/juqmcphsj8qsmabyq9yh.jpg",
       "image_source_page": "https://reverb.com/item/92476051-way-huge-conquistador-fuzzstortion-pedal"
     },
     {
@@ -42578,7 +42584,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Way Huge/Fat Sandwich.md"
+      "research_record": "./research/pedals/Way Huge/Fat Sandwich.md",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40945259e7a2283/1790331352157/sLIgIEAy7eAm6S.XUYl5jRW__mAZ._cEaTFLcVr90aA-1790331352-1.3.1.1-Miq93KFRGNzHrtfaRo67fM7plx0wMECce6FpvE49Y2Q4VmBUEtjaPHLan6bLwUWnaIKHc.j1cTfEsHO9r8n_MqRRVo3.ltx6_2Ph1ggTWY11DR9AV1NFN09M__OL6XHerUIFto8NyJhxUJUqn2Do9jSz47Vkv6cs7SJ4hphlnBddaecEM2kwRHrs7G72u9mLEFjQ4xPTcA2aPlnPRBcDoqSJ6R7MF5zC1DSf28MqYD94ExGkNPQQoXCVVqFYxqzszJN0EWr1OSStGKIBMW7FjmQVpPymcNDB4Gw9Qu8tY8ArmdOW6g1TYvbHQbbVIvOo6Tq1fz4wLEgq.i4.Sg_Z0hGEAEUD7ZQKLfIpSlsYj_YDE00_i9y8kkklsR0kw93TC936FS_LSE1dY5JsGSHZlb70o.6u.GqlL8oeVc2JfpnVCafNS8rLIjG_TQGr9ST5PQrJkiF0A8KqT2.vJqXPIeEDnRLDAd.nCji6dUmLv2qKZe43Daafvf79Lz3A_XZwWTkPYdEf_cariMwFcuvUaCmxNMhks8s51BsWfJ.VWUjo5M05NymWBppja1V2txmTf4uCxHu_kC2tLWZV85AteC2.bPoz2TR1N_Hl.R4H_NX9tRFlUZ_TLGlN6b7JqV1_5JWcwVI41yt1woOqx8zM5w_zapynsXdnayjVOYdIqOmLqYYlpApqtZmjQdHgIZzcRbw7GEjpeZGHJD.jz8lkiGbZvpXdSkk5UvlPv5_fJSw",
+      "image_source_page": "https://reverb.com/item/95558841-way-huge-whe301-fat-sandwich-harmonic-saturator-distortion-2010-2019-gold"
     },
     {
       "company": "Way Huge",
@@ -42810,7 +42818,7 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Smalls Supa-Lead.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40931bd0b066c30/1790330557206/T.ZIKuUz0xgHsThVcbg0SAFthjaVEn.rlEtEG29McZA-1790330557-1.3.1.1-SM0mgSoIUzNwwmwz_rkP6.o_dPcQTTpvtpalcYObVPY0L.BSDI56q0DRBvDzX8zkpSAor56RPjuCSZMq2Q4uueXoK3LB17g2JZMQ2xKfu3UNkJlR3JlULNYT5rzGKb2m.w5dwWwOxr8QfvPbiMshFWLUIPiQtE43nwYnQ9ZhRW2CZKyNWOY5osA4lUPLrpiRYgLBIJYdW08Wy_JfUVuo_zNZJ63JpRycjbhh.Cgp9Pf0U4Nw0uzeMrJlJV0IrxwARPTqJ_ac8_0hOobuWhXbH6pau2K_Rup3WFRuUr6tmZDrnP7dgyHSYapkNVuWzwSA5YRqChbFtYI2kb71UXuwSPKsuDe..cORxIzf_HpCxnaDulxhN4LtuoSh08GVgXJjcbbf0wIMm8Jc.NJYBpee9M7eLhjSHkMZwdWsnPAbiAsSKiV_1Yqa9aK5iBU7ie9.468KsMuenZ60uY6SCW06dgvGQKVPWQr7Vj4zhoPmjYm8LW047y2VYQudKRSoqS3prVrhWw4sk4JXSZbm0GlrabV7v6NR2uU67Li68bkAeP69ZGAUwtbhFs94bUiyVF2tsXqGbYdd4J6SyP9yNATCXEy0vU2idnJdNO896Mgjk_Y4k0M1j83syzYWHPB2Py6NQNTLjaOUOH6nYoFvSFhm8_ii4oF5dyK9KsjPXCk8qI1BnB75yoju_zI5eox1c.jzUgajW8s6lJyYWzPA_s.JX4p0y4C8xwIMs5KHhZVCoSE",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40945365b816e84/1790331354823/P0JNxWYCUyYpcNPJMbP8y94sh8I1A9x0ejVELGyJ6Zc-1790331354-1.3.1.1-hEzlwgZzkHNJ4cu2SdWuweM3dCSsKMzIzJYms3lSVz7mKlFo7OcwXSVGlJGy6_6iHeUwVZjFN3Y3oQ1nUBfDBTe68CPscbKswgjOkAIVVcQNeUesgohKECDpnvkZPsNrwzS8ucTV_w_VSL2JvjnBOlvO1uWm1lrkqlCzUP92WDOXAbsvRboR0AhZv07m80Vmfc2UPCyUUPRGFtsWPu2kdCmH4AVuxpj6htDV4Cog_GnMhU_ujKZ3cZu1fu8BlkuihD7_x8YQEptSe7geVl5sNnCmiQXJeJ16ewRpxOOJHFZV2HEIqQUX0U6hyj1bZ9nlDqpW39RH3fQvp4.ItNpdppC44JqXOimC4q1OxfOBwLdRl5pkJH8LnoanNZ8x2Sy2.ZKecH6qSiB9dKeq8wPu4FsYEOAFT1yFwbF5fMahtFfWbaHqivZqAxzbkqlq22QO5ByIrz5BbNan1r4Vwa4gLse0e5jGPpv18ViZIMkDjJMl19XiJLk6DfFW28u9MWKCb3PLJs3MgX1WMr7cUH6YhU3a62t15Uo1mmWnOKRkEDKKTTJy5e4HT2EbfJAIfifwf1eS0oxmLCClFplgOijmzi.zji7Ouiq5Sy0G7btQN6zUmiNFo8sY9e4HZ8zDz_2r1tZrO2bg1rFbmC.S4cNIzK21GeQT64EvqPg95YQpa8ao3Os25C0.v.t9EuOVQ4TP32tkr.U9foE00inA7j_41j65EyMpcANHe4D136Dgvug",
       "image_source_page": "https://reverb.com/item/93960195-way-huge-wm31-smalls-supa-lead-overdrive-mkiii-2019-present-black"
     },
     {
