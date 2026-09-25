@@ -71,7 +71,7 @@ def strong_single_source(sources):
     source = sources[0]
     return (
         str(source.get("source_kind") or "").strip().lower()
-        in {"manufacturer", "effects_database", "reverb"}
+        in {"manufacturer", "effects_database", "reverb", "catalog_verified"}
         and len(norm(source.get("excerpt"))) >= 160
     )
 
