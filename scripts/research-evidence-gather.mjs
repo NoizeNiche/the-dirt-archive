@@ -8,6 +8,7 @@ const OUT = path.join(process.cwd(), 'artifact');
 const WORKER_INDEX = Math.max(0, Number(process.env.RESEARCH_WORKER_INDEX || 0));
 const WORKER_COUNT = Math.max(1, Number(process.env.RESEARCH_WORKER_COUNT || 20));
 const TARGETS_PER_WORKER = Math.max(1, Number(process.env.RESEARCH_TARGETS_PER_WORKER || 4));
+const EXPLICIT_TARGETS_JSON = String(process.env.RESEARCH_TARGETS_JSON || '').trim();
 const TIMEOUT = Math.max(2500, Number(process.env.RESEARCH_REQUEST_TIMEOUT_MS || 5000));
 
 function csvRows(raw) {
@@ -101,6 +102,15 @@ async function search(q){
   }
   return out.slice(0,18);
 }
+function catalogModels(builder){
+  try{
+    const c=JSON.parse(fs.readFileSync(INDEX,'utf8'));
+    return [...new Set((c.pedals||[])
+      .filter(x=>x.company===builder)
+      .map(x=>String(x.pedal||'').trim())
+      .filter(Boolean))];
+  }catch{return [];}
+}
 function sourcePages(builder,pedal){
   const urls=[];
   try{
@@ -139,11 +149,12 @@ function signals(s){
   for(const [k,re] of Object.entries(rules)) out[k]=[...new Set(String(s||'').match(re)||[])].slice(0,24);
   return out;
 }
-function sourceKind(builder,url){
+function sourceKind(builder,url,exactCatalogUrls=new Set()){
   const h=host(url), hc=h.replace(/[^a-z0-9]/g,''), bc=norm(builder).replace(/[^a-z0-9]/g,'');
   if(h.includes('effectsdatabase')) return 'effects_database';
   if(h.includes('reverb.com')) return 'reverb';
   if(bc && hc.includes(bc)) return 'manufacturer';
+  if(exactCatalogUrls.has(url)) return 'catalog_verified';
   return 'other';
 }
 function romanAscii(v){
@@ -173,6 +184,8 @@ function searchQueries(builder,pedal){
 }
 async function targetRecord(builder,pedal,type){
   const urls=sourcePages(builder,pedal);
+  const exactCatalogUrls=new Set(urls);
+  const models=catalogModels(builder);
   const queries=searchQueries(builder,pedal);
   const found=new Map();
   for(const u of urls) found.set(u,{url:u,title:'catalog/override source'});
@@ -202,13 +215,23 @@ async function targetRecord(builder,pedal,type){
     const p=await get(item.x.url);
     const info=p?pageInfo(p.text):{title:item.x.title,h1:'',description:'',body:''};
     const u=p?.url||item.x.url;
-    const f=fit(builder,pedal,info.title+' '+info.h1+' '+info.description+' '+info.body+' '+u);
+    const fullText=info.title+' '+info.h1+' '+info.description+' '+info.body+' '+u;
+    const f=fit(builder,pedal,fullText);
     if(!f.pedalHits || !f.builderHits) continue;
+    const target=norm(pedal);
+    const bodyNorm=norm(info.body);
+    if(models.length && target && !bodyNorm.includes(target)){
+      const conflicting=models.some(other=>{
+        const on=norm(other);
+        return on && on!==target && bodyNorm.includes(on);
+      });
+      if(conflicting) continue;
+    }
     sources.push({
       url:u,host:host(u),title:info.title,h1:info.h1,description:info.description,
       snippet:item.x.title,bodyExcerpt:info.body,identity:f,
-      signals:signals(info.title+' '+info.h1+' '+info.description+' '+info.body),
-      sourceKind:sourceKind(builder,u),collectedAt:new Date().toISOString()
+      signals:signals(fullText),
+      sourceKind:sourceKind(builder,u,exactCatalogUrls),collectedAt:new Date().toISOString()
     });
   }
   const hosts=new Set(sources.map(x=>x.host).filter(Boolean));
