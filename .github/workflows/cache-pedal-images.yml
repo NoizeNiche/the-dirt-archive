@@ -89,8 +89,8 @@ jobs:
           PHOTO_BROWSER_CANDIDATE_LIMIT: "8"
           PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "8"
           PHOTO_BROWSER_IMAGE_SEARCH: "true"
-          PHOTO_BROWSER_DEEP_REVIEW: "true"
-          PHOTO_BROWSER_REVISIT_PARKED: "true"
+          PHOTO_BROWSER_DEEP_REVIEW: "false"
+          PHOTO_BROWSER_REVISIT_PARKED: "false"
           # The old 60-second cap was the primary throughput bottleneck. Give each
           # scheduled runner a substantial browser window while leaving time for
           # image conversion, synchronization, and the commit/push phase.
