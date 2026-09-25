@@ -65,6 +65,17 @@ def exact_sources(packet):
         out.append(source)
     return out
 
+def strong_single_source(sources):
+    if len(sources) != 1:
+        return False
+    source = sources[0]
+    return (
+        str(source.get("source_kind") or "").strip().lower()
+        in {"manufacturer", "effects_database", "reverb"}
+        and len(norm(source.get("excerpt"))) >= 160
+    )
+
+
 
 def choose_description(builder, pedal, kind, sources):
     for source in sources:
@@ -122,8 +133,8 @@ def write_record(item, tracker_type, packet):
     pedal = item.get("pedal") or ""
     kind = tracker_type or (item.get("types") or [""])[0] if isinstance(item.get("types"), list) else tracker_type
     sources = exact_sources(packet)
-    if len(sources) < 2:
-        return False, "fewer than two independent exact sources"
+    if len(sources) < 2 and not strong_single_source(sources):
+        return False, "insufficient independent exact-source evidence"
 
     record_path = RESEARCH_ROOT / builder / f"{pedal}.md"
     if record_path.exists() or item.get("research_record"):
