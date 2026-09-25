@@ -219,6 +219,30 @@ const path = require('node:path');
               encodeURIComponent(builderCanaryEntry.pedal),
               {waitUntil:'networkidle'}
             );
+            try {
+              await page.waitForFunction(() => {
+                const nav = document.querySelector('#pageBuilders');
+                return !!nav && nav.children.length > 0;
+              }, null, {timeout: 10000});
+            } catch (error) {
+              const state = await page.evaluate(() => ({
+                url: location.href,
+                pageBuilderExists: !!document.querySelector('#pageBuilders'),
+                pageBuilderHtml: document.querySelector('#pageBuilders')?.innerHTML || '',
+                name: document.querySelector('#name')?.textContent || '',
+                builder: document.querySelector('#builder')?.textContent || ''
+              }));
+              throw new Error(
+                'Detail builder navigation did not initialize at ' + state.url +
+                '; pageBuilders=' + state.pageBuilderHtml.slice(0, 500) +
+                '; name=' + state.name +
+                '; builder=' + state.builder +
+                '; consoleErrors=' + JSON.stringify(consoleErrors.slice(-5)) +
+                '; pageErrors=' + JSON.stringify(pageErrors.slice(-5)) +
+                '; cause=' + error.message
+              );
+            }
+
             const activeBuilderLinks = page.locator('.pageBuilderLink.active');
             const activePageBuilders = await activeBuilderLinks.allTextContents();
             const renderedBuilderLinks = await page.locator('#pageBuilders .pageBuilderLink').allTextContents();
@@ -325,8 +349,8 @@ const path = require('node:path');
               encodeURIComponent(noResearchEntry.pedal),
               {waitUntil:'networkidle'}
             );
-            if (!(await page.locator('#research').textContent()).includes('Pedal information has not been added yet.')) {
-              throw new Error('No-research detail fallback is missing.');
+            if (!(await page.locator('#research').textContent()).includes('Catalog baseline')) {
+              throw new Error('No-research detail catalog baseline is missing.');
             }
 
             const noPhotoEntry = (catalog.pedals || []).find(
