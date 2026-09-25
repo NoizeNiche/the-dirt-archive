@@ -172,7 +172,7 @@ jobs:
           )
           print("Captured pre-publication research state.")
           PY
-          python scripts/synthesize-research-inbox.py
+          python scripts/synthesize-research-inbox.py --only research-evidence/foreman-summary.json
           python scripts/sync_prp_catalog.py
           python scripts/sync-prp-tracker.py
           python scripts/sync-photo-backlog.py
@@ -292,7 +292,7 @@ jobs:
             # Preserve the downloaded worker artifacts across the race, then
             # reconstruct the verified inbox from those artifacts before synthesis.
             python scripts/research-foreman.py
-            python scripts/synthesize-research-inbox.py
+            python scripts/synthesize-research-inbox.py --only research-evidence/foreman-summary.json
             python scripts/sync_prp_catalog.py
             python scripts/sync-prp-tracker.py
             python scripts/sync-photo-backlog.py
