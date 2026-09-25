@@ -52,13 +52,34 @@ jobs:
               "": 2,
               "NO_USABLE_EVIDENCE": 3,
           }
+
+          # Interleave the unresolved catalog by builder initial after
+          # evidence-priority sorting. This keeps the research sweep moving
+          # across C-to-Z instead of spending every bounded pass inside one
+          # large D block.
           pending.sort(key=lambda r: (
               priority.get(verdicts.get((r["builder"], r["pedal"])), 2),
               r["builder"].casefold(),
               r["pedal"].casefold(),
           ))
-          span=min(60,len(pending))
-          targets=pending[:span]
+          buckets = {}
+          for row in pending:
+              letter = (row["builder"][:1].upper() if row["builder"] else "#")
+              buckets.setdefault(letter, []).append(row)
+
+          targets = []
+          letters = sorted(buckets)
+          while len(targets) < 60 and any(buckets.values()):
+              progressed = False
+              for letter in letters:
+                  bucket = buckets[letter]
+                  if bucket:
+                      targets.append(bucket.pop(0))
+                      progressed = True
+                      if len(targets) >= 60:
+                          break
+              if not progressed:
+                  break
           matrix={"include":[{"targets":targets[i:i+4]} for i in range(0,len(targets),4)]}
           print("matrix="+json.dumps(matrix,ensure_ascii=False,separators=(",",":")))
           print("Research targets:",len(targets),"workers:",len(matrix["include"]),file=sys.stderr)
