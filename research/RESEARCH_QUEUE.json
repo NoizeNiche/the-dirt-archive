@@ -1,47 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T06:46:55.154816+00:00",
+  "generated_at": "2026-09-25T06:58:47.041286+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 1808,
+    "researched": 1812,
     "pictured": 1746,
     "complete": 1746,
-    "research_pending": 1953
+    "research_pending": 1949
   },
   "next_target": {
     "builder": "Creepy Fingers Effects",
-    "pedal": "Blue Mood",
+    "pedal": "Hold Tight",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Creepy Fingers Effects",
-      "pedal": "Blue Mood",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Creepy Fingers Effects",
-      "pedal": "Crazy Creepy",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Creepy Fingers Effects",
-      "pedal": "Fuzzfreak",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Creepy Fingers Effects",
-      "pedal": "Harakiri",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Creepy Fingers Effects",
       "pedal": "Hold Tight",
@@ -165,6 +141,30 @@
     {
       "builder": "Critter Electronics",
       "pedal": "1972",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Critter Electronics",
+      "pedal": "1978R Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Critter Electronics",
+      "pedal": "American Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Critter Electronics",
+      "pedal": "CFR Klone",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Critter Electronics",
+      "pedal": "CRR Klone",
       "catalog_type": "",
       "research_record": ""
     }
