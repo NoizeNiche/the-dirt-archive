@@ -95,3 +95,19 @@ The scheduled Archive Improvement Scout appends new ideas here after reviewing i
 - **Do not duplicate:** A generic “make search better” item. The useful new specification is exact-identity ranking plus explainable matching.
 - **Do not copy:** No page layout, copy, branding, or proprietary interaction should be reproduced from the referenced sites. These are capability-level inspirations only.
 
+
+
+### [2026-09-25] Scout Pass 10 - research workflows and collector utility refinements
+
+- **Refinable/shareable research queries:** Preserve active filters in canonical URLs and let researchers refine/bookmark exact query states. Inspired by MusicBrainz and SeaDisco. citeturn0search4turn0search2
+- **Known-unknowns discovery:** Add explicit research-gap facets for uncertain identity, missing primary photo, missing builder evidence, provenance gaps, and source-review needs. citeturn0search6turn0search9
+- **Dated pedal-to-performance relationships:** Where evidence exists, connect pedals to dated pedalboard/use contexts with source and confidence metadata. citeturn0search8
+- **First-class builder pages:** Give canonical builders their own browseable records with aliases, status, related pedals, versions, eras, and research coverage. citeturn0search9
+- **Family/exact-version collector workflow:** Family pages should link to exact V1/V2/reissue/regional records; saved collector items should target exact records. citeturn0search11turn0search13
+- **Private research annotations:** Permit local/private notes on saved pedals or lists for identification clues, restoration questions, acquisition provenance, and research tasks, separate from canonical facts. citeturn0search13turn0search10
+- **Relationship records with attributes/dates:** Model pedal-to-builder, artist, board, source, variant, and event relationships with type, evidence, confidence, and dates/ranges where known. citeturn0search3
+- **Evidence-first record presentation:** Distinguish canonical facts, sourced observations, reported claims, and unresolved questions, with source attribution at field/group level where practical. citeturn0search12turn0search6
+
+**Duplicate/overlap check:** Existing backlog already covers faceting, saved lists, provenance, completeness, artist context, exact identity, visual discovery, version awareness, market separation, accessibility, performance, and canonical URLs. The items above sharpen those concepts rather than replacing them. Generic marketplace features, ratings/popularity systems, seller rankings, and purchase recommendations were rejected as outside the archive's research mission.
+
+**Research boundary:** Capability-level inspiration only. No protected copy, branding, page composition, or proprietary visual treatment should be reproduced.
