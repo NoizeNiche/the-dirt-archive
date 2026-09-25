@@ -34,8 +34,12 @@ jobs:
           # from C onward through Z instead of rotating back into earlier letters.
           pending=[{"builder":r["Builder"],"pedal":r["Pedal"]} for r in rows if r.get("Pedal Info")!="DONE"]
           pending.sort(key=lambda x:(x["builder"].casefold(), x["pedal"].casefold()))
-          span=min(120,len(pending))
-          targets=pending[:span]
+          # Hard-stop the frontier at the first unfinished builder letter.
+          # Do not spend research capacity on D while any C remains, etc.
+          active_letter=(pending[0]["builder"][0].upper() if pending and pending[0]["builder"] else "")
+          frontier=[r for r in pending if (r["builder"][0].upper() if r["builder"] else "")==active_letter]
+          span=min(120,len(frontier))
+          targets=frontier[:span]
           matrix={"include":[{"targets":targets[i:i+4]} for i in range(0,len(targets),4)]}
           print("matrix="+json.dumps(matrix,ensure_ascii=False,separators=(",",":")))
           print("Research targets:",len(targets),"workers:",len(matrix["include"]),file=sys.stderr)
