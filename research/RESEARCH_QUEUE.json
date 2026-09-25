@@ -1,35 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T06:15:39.398119+00:00",
+  "generated_at": "2026-09-25T06:16:35.806929+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 1804,
+    "researched": 1808,
     "pictured": 1717,
     "complete": 1717,
-    "research_pending": 1957
+    "research_pending": 1953
   },
   "next_target": {
-    "builder": "Creber Instruments",
-    "pedal": "Classic Fuzz",
+    "builder": "Creepy Fingers Effects",
+    "pedal": "Blue Mood",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Creber Instruments",
-      "pedal": "Classic Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Creepy Fingers Effects",
-      "pedal": "Blacklight Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Creepy Fingers Effects",
       "pedal": "Blue Mood",
@@ -38,19 +26,7 @@
     },
     {
       "builder": "Creepy Fingers Effects",
-      "pedal": "Brummie",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Creepy Fingers Effects",
       "pedal": "Crazy Creepy",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Creepy Fingers Effects",
-      "pedal": "Fuzz Nugget",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +141,30 @@
     {
       "builder": "Crews Maniac Sound",
       "pedal": "VD-38 Real Valve Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crimsontone",
+      "pedal": "Nero Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crimsontone",
+      "pedal": "Rosso Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Critically Overdriven",
+      "pedal": "E.O.D.",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Critter Electronics",
+      "pedal": "1972",
       "catalog_type": "",
       "research_record": ""
     }

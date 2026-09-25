@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3761 total / 1804 researched / 1717 pictured / 1717 complete / 1957 research-pending / 87 researched-photo-pending**.
+Live catalog: **3761 total / 1808 researched / 1717 pictured / 1717 complete / 1953 research-pending / 91 researched-photo-pending**.
 
-**Next research target:** Creber Instruments - Classic Fuzz.
+**Next research target:** Creepy Fingers Effects - Blue Mood.
 
-PRP1 closeout remains separate: 87 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 91 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-25T06:15:39.398119+00:00
+Last refreshed: 2026-09-25T06:16:35.806929+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
