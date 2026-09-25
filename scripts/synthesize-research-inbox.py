@@ -250,7 +250,7 @@ def main():
             created_paths.append(ok and reason)
         else:
             skipped += 1
-    print(json.dumps({"created": created, "skipped": skipped, "held": held}))
+    print(json.dumps({"created": created, "created_paths": created_paths, "skipped": skipped, "held": held}, ensure_ascii=True))
     
 
 if __name__ == "__main__":
