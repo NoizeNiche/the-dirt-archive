@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **5**
+- Cached in this run: **1**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **1895**
-- Researched, photo pending: **55**
+- Remaining tracker photo backlog: **1894**
+- Researched, photo pending: **54**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,11 +16,7 @@
 
 ## Newly cached
 
-- Danelectro - The Breakdown -> `./assets/pedals/danelectro/the-breakdown/primary.webp`
-- Wampler Pedals - Low Blow -> `./assets/pedals/wampler-pedals/low-blow/primary.webp`
-- Way Huge - Camel Toe MkII -> `./assets/pedals/way-huge/camel-toe-mkii/primary.webp`
-- Way Huge - Pork & Pickle -> `./assets/pedals/way-huge/pork-pickle/primary.webp`
-- Way Huge - Smalls Supa-Lead -> `./assets/pedals/way-huge/smalls-supa-lead/primary.webp`
+- Cornell Amplification - The 1st Fuzz -> `./assets/pedals/cornell-amplification/the-1st-fuzz/primary.webp`
 
 ## Still external / failed
 

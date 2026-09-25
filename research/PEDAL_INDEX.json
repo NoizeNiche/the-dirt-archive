@@ -22074,10 +22074,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cornell-amplification/the-1st-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cornell Amplification/The 1st Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/cornell/1stfuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/cornell/1stfuzz",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/cornell_1stfuzz_001.jpg"
     },
     {
       "company": "Cornerstone Music Gear",
@@ -22731,7 +22732,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Cranetortoise by Albit/DD-1B Dual Distortion for Bass.md"
+      "research_record": "./research/pedals/Cranetortoise by Albit/DD-1B Dual Distortion for Bass.md",
+      "image_source_page": "https://www.effectsdatabase.com/model/cranetortoise"
     },
     {
       "company": "Cranetortoise by Albit",
@@ -23972,7 +23974,8 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Crucial Audio/Das Götterdämmerung.md"
+      "research_record": "./research/pedals/Crucial Audio/Das Götterdämmerung.md",
+      "image_source_page": "https://crucialaudio.com/wp-content/uploads/2018/03/DieGotterdammerung_Manual_electronic_A.pdf"
     },
     {
       "company": "Crushsound",
@@ -42586,7 +42589,7 @@
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Fat Sandwich.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40945259e7a2283/1790331352157/sLIgIEAy7eAm6S.XUYl5jRW__mAZ._cEaTFLcVr90aA-1790331352-1.3.1.1-Miq93KFRGNzHrtfaRo67fM7plx0wMECce6FpvE49Y2Q4VmBUEtjaPHLan6bLwUWnaIKHc.j1cTfEsHO9r8n_MqRRVo3.ltx6_2Ph1ggTWY11DR9AV1NFN09M__OL6XHerUIFto8NyJhxUJUqn2Do9jSz47Vkv6cs7SJ4hphlnBddaecEM2kwRHrs7G72u9mLEFjQ4xPTcA2aPlnPRBcDoqSJ6R7MF5zC1DSf28MqYD94ExGkNPQQoXCVVqFYxqzszJN0EWr1OSStGKIBMW7FjmQVpPymcNDB4Gw9Qu8tY8ArmdOW6g1TYvbHQbbVIvOo6Tq1fz4wLEgq.i4.Sg_Z0hGEAEUD7ZQKLfIpSlsYj_YDE00_i9y8kkklsR0kw93TC936FS_LSE1dY5JsGSHZlb70o.6u.GqlL8oeVc2JfpnVCafNS8rLIjG_TQGr9ST5PQrJkiF0A8KqT2.vJqXPIeEDnRLDAd.nCji6dUmLv2qKZe43Daafvf79Lz3A_XZwWTkPYdEf_cariMwFcuvUaCmxNMhks8s51BsWfJ.VWUjo5M05NymWBppja1V2txmTf4uCxHu_kC2tLWZV85AteC2.bPoz2TR1N_Hl.R4H_NX9tRFlUZ_TLGlN6b7JqV1_5JWcwVI41yt1woOqx8zM5w_zapynsXdnayjVOYdIqOmLqYYlpApqtZmjQdHgIZzcRbw7GEjpeZGHJD.jz8lkiGbZvpXdSkk5UvlPv5_fJSw",
-      "image_source_page": "https://reverb.com/item/95558841-way-huge-whe301-fat-sandwich-harmonic-saturator-distortion-2010-2019-gold"
+      "image_source_page": "https://www.effectsdatabase.com/model/wayhuge/dunlop/whe301"
     },
     {
       "company": "Way Huge",
