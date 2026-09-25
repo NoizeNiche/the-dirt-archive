@@ -15944,14 +15944,14 @@
   {
     "builder": "Crock",
     "pedal": "CM-2 Crock Metal",
-    "image": null,
+    "image": "./assets/pedals/crock/cm-2-crock-metal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crock/CM-2 Crock Metal.md"
   },
   {
     "builder": "Crock",
     "pedal": "DS-2 Distortion",
-    "image": null,
+    "image": "./assets/pedals/crock/ds-2-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crock/DS-2 Distortion.md"
   },
@@ -15965,35 +15965,35 @@
   {
     "builder": "Crock",
     "pedal": "OD-2 Over Drive Plus",
-    "image": null,
+    "image": "./assets/pedals/crock/od-2-over-drive-plus/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crock/OD-2 Over Drive Plus.md"
   },
   {
     "builder": "Crock",
     "pedal": "SD-2 Super Over Drive",
-    "image": null,
+    "image": "./assets/pedals/crock/sd-2-super-over-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crock/SD-2 Super Over Drive.md"
   },
   {
     "builder": "Crock",
     "pedal": "SM-2 Super Metal",
-    "image": null,
+    "image": "./assets/pedals/crock/sm-2-super-metal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crock/SM-2 Super Metal.md"
   },
   {
     "builder": "Crock",
     "pedal": "SM-3 Super Metal",
-    "image": null,
+    "image": "./assets/pedals/crock/sm-3-super-metal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crock/SM-3 Super Metal.md"
   },
   {
     "builder": "Crock",
     "pedal": "TM-2 Thrash Master",
-    "image": null,
+    "image": "./assets/pedals/crock/tm-2-thrash-master/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crock/TM-2 Thrash Master.md"
   },
@@ -16111,7 +16111,7 @@
   {
     "builder": "CroyTone Audio Technologies",
     "pedal": "Camper Fuzz",
-    "image": null,
+    "image": "./assets/pedals/croytone-audio-technologies/camper-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CroyTone Audio Technologies/Camper Fuzz.md"
   },
@@ -16185,7 +16185,7 @@
   {
     "builder": "Crysta Professional",
     "pedal": "DS-1 Distortion",
-    "image": null,
+    "image": "./assets/pedals/crysta-professional/ds-1-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crysta Professional/DS-1 Distortion.md"
   },
@@ -16220,7 +16220,7 @@
   {
     "builder": "CSL",
     "pedal": "CSL Wah Fuzz",
-    "image": null,
+    "image": "./assets/pedals/csl/csl-wah-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CSL/CSL Wah Fuzz.md"
   },
@@ -16314,7 +16314,7 @@
   {
     "builder": "Cunningham Amps",
     "pedal": "Zonk/MK1 Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cunningham-amps/zonk-mk1-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cunningham Amps/Zonk/MK1 Fuzz.md"
   },
@@ -16355,7 +16355,7 @@
   {
     "builder": "Cusack Music",
     "pedal": "Screamer V2",
-    "image": null,
+    "image": "./assets/pedals/cusack-music/screamer-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cusack Music/Screamer V2.md"
   },
@@ -16369,7 +16369,7 @@
   {
     "builder": "Custom Analog Pedals",
     "pedal": "Purple Fuzzy Drive",
-    "image": null,
+    "image": "./assets/pedals/custom-analog-pedals/purple-fuzzy-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Custom Analog Pedals/Purple Fuzzy Drive.md"
   },
@@ -16439,7 +16439,7 @@
   {
     "builder": "CUVAVE / M-VAVE",
     "pedal": "Distortion SC1",
-    "image": null,
+    "image": "./assets/pedals/cuvave-m-vave/distortion-sc1/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CUVAVE / M-VAVE/Distortion SC1.md"
   },
@@ -16495,7 +16495,7 @@
   {
     "builder": "Cyclone",
     "pedal": "TS-5 Tube Stack",
-    "image": null,
+    "image": "./assets/pedals/cyclone/ts-5-tube-stack/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cyclone/TS-5 Tube Stack.md"
   },
@@ -16658,7 +16658,7 @@
   {
     "builder": "Danelectro",
     "pedal": "Grilled Cheese Distortion",
-    "image": null,
+    "image": "./assets/pedals/danelectro/grilled-cheese-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Danelectro/Grilled Cheese Distortion.md",
     "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c55e2bf4107c6/1790363495061/Amn3vkYKpxNoEeq2ZwuPvL_waeigkQn.ENPlue0.AQA-1790363495-1.3.1.1-oMzcK.ocWY3bmDF0Rno_tKlnsIDBKwIMyvmf3kfQVHTy3nylAzGMPiKWFWfNoqVUgnpJPVnVkAYlBPgHU9YLpl95t07WyHwETUFlgud8l6tpQbeRDX.2yADHStis1rbKdO66umsuygofjEKvZIJ4Do7EP5PRy7ZpZKYbGqt4cqEMXJXjv0IoFZmeJ.Jh0ccaS0CPInP6gmz.EapuSsmmSIqwki8MZh_FBD.iVq3XcPtezGKpSPjm2uW2lW5YFKrt2it3mPG_u2ewMQZEtw3azLi04M1ksbth3qFy4leCkO6hn2JApJH6Cl5H1aYfIWy1gG.7SLgIZgjhfrGnrprFq1mO.J_I.xm2GHgD7Uvr71.6GnFfKLq9a06mu3gBkKzjDy3IFuktZE3EV3sUj9L9_9mSaKpIKFTftE0lYNg4ua7Y4yD3oJj4mqo.aZZJe1842WJ7YBvS4DrPVHEJf_je2_pZQWv3zdBFfb3iSt1X._AmI4LMOuhT5vY7.AXSBYx8r2AQBLUHIJ1HM9fWFdvTw3DmOhQ.nZGMtbrb4csO.vySLs_R3JcAolpBAy7E32LdTLuTWuelLd059yqEgLibZT9K94cw0GRwqPNB9a.km9_CpP4GIiX3nVD.lwsgG6fBhIGN9HUEu3PsRYQ2L7t.GeDTwh5yEI42OPDqxBDYrsIUH7FzejDqaSO4JJS9RYTnL4l93k9jy6p6W0CHcwHCWSSoWy_E5PtNnxEiOcP5F04",
@@ -16690,7 +16690,7 @@
   {
     "builder": "Danelectro",
     "pedal": "Roebuck",
-    "image": null,
+    "image": "./assets/pedals/danelectro/roebuck/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Danelectro/Roebuck.md"
   },
@@ -16764,7 +16764,7 @@
   {
     "builder": "Daredevil Pedals",
     "pedal": "Daredevil Cry Baby Fuzz Wah",
-    "image": null,
+    "image": "./assets/pedals/daredevil-pedals/daredevil-cry-baby-fuzz-wah/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Daredevil Pedals/Daredevil Cry Baby Fuzz Wah.md"
   },
@@ -16778,7 +16778,7 @@
   {
     "builder": "Daredevil Pedals",
     "pedal": "DRIVE-Bi",
-    "image": null,
+    "image": "./assets/pedals/daredevil-pedals/drive-bi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Daredevil Pedals/DRIVE-Bi.md"
   },
@@ -16992,7 +16992,7 @@
   {
     "builder": "Death By Audio",
     "pedal": "Bass War",
-    "image": null,
+    "image": "./assets/pedals/death-by-audio/bass-war/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Death By Audio/Bass War.md"
   },
@@ -26858,7 +26858,7 @@
   {
     "builder": "Suhr",
     "pedal": "Riot Mini",
-    "image": null,
+    "image": "./assets/pedals/suhr/riot-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Suhr/Riot Mini.md"
   },
