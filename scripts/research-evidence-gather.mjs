@@ -229,8 +229,9 @@ const targets=[];
 for(let j=0;j<TARGETS_PER_WORKER&&rows.length;j++) targets.push(rows[(start+WORKER_INDEX*TARGETS_PER_WORKER+j)%rows.length]);
 
 fs.rmSync(OUT,{recursive:true,force:true}); fs.mkdirSync(OUT,{recursive:true});
-const records=[];
-for(const r of targets) records.push(await targetRecord(r.Builder,r.Pedal,r.Type||r['Catalog Type']||''));
+const records = await Promise.all(
+  targets.map(r => targetRecord(r.Builder, r.Pedal, r.Type || r['Catalog Type'] || ''))
+ );
 fs.writeFileSync(path.join(OUT,'research-evidence.json'),JSON.stringify({
   workerIndex:WORKER_INDEX,workerCount:WORKER_COUNT,runNumber:RUN_NUMBER,targetCount:records.length,records
 },null,2)+'\n','utf8');
