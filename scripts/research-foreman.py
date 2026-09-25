@@ -31,6 +31,11 @@ def identity_ok(builder,pedal,title,h1):
     return bool((p and p in hay and (not bw or any(x in hay for x in bw))) or
                 (pw and all(x in hay for x in pw) and (not bw or any(x in hay for x in bw))))
 
+def source_is_strong_single(source):
+    kind = str(source.get("source_kind") or "").strip().lower()
+    excerpt = str(source.get("excerpt") or "").strip()
+    return kind in {"manufacturer", "effects_database", "reverb"} and len(excerpt) >= 160
+
 def main():
     catalog=json.loads(INDEX.read_text(encoding="utf-8"))
     keys={(x.get("company"),x.get("pedal")) for x in catalog.get("pedals",[])}
@@ -52,9 +57,10 @@ def main():
                     "title":s.get("title"),
                     "h1":s.get("h1"),
                     "excerpt":s.get("excerpt","")[:6000],
-                    "host":h
+                    "host":h,
+                    "source_kind":s.get("source_kind","other")
                 })
-        if len(good)<2:
+        if len(good)<2 and not (len(good)==1 and source_is_strong_single(good[0])):
             held+=1
             print("HOLD",b,"/",p,"independent_exact_sources=",len(good))
             continue
