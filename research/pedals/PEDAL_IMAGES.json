@@ -15188,7 +15188,7 @@
   {
     "builder": "Coura",
     "pedal": "Gainor",
-    "image": null,
+    "image": "./assets/pedals/coura/gainor/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coura/Gainor.md"
   },
@@ -15202,7 +15202,7 @@
   {
     "builder": "Craftros Pedals",
     "pedal": "Musica Rev.D",
-    "image": null,
+    "image": "./assets/pedals/craftros-pedals/musica-rev-d/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Craftros Pedals/Musica Rev.D.md"
   },
@@ -15216,7 +15216,7 @@
   {
     "builder": "Cranetortoise by Albit",
     "pedal": "DD-1 Dual Distortion",
-    "image": null,
+    "image": "./assets/pedals/cranetortoise-by-albit/dd-1-dual-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cranetortoise by Albit/DD-1 Dual Distortion.md"
   },
@@ -15230,28 +15230,28 @@
   {
     "builder": "Cranetortoise by Albit",
     "pedal": "FB-1 Fuzz Drive Booster",
-    "image": null,
+    "image": "./assets/pedals/cranetortoise-by-albit/fb-1-fuzz-drive-booster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cranetortoise by Albit/FB-1 Fuzz Drive Booster.md"
   },
   {
     "builder": "Cranetortoise by Albit",
     "pedal": "FD-1 Exciting Fuzz Drive",
-    "image": null,
+    "image": "./assets/pedals/cranetortoise-by-albit/fd-1-exciting-fuzz-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cranetortoise by Albit/FD-1 Exciting Fuzz Drive.md"
   },
   {
     "builder": "Cranetortoise by Albit",
     "pedal": "FD-2 Low Noise Fat Distortion",
-    "image": null,
+    "image": "./assets/pedals/cranetortoise-by-albit/fd-2-low-noise-fat-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cranetortoise by Albit/FD-2 Low Noise Fat Distortion.md"
   },
   {
     "builder": "Cranetortoise by Albit",
     "pedal": "HM-1 High Gain Distortion",
-    "image": null,
+    "image": "./assets/pedals/cranetortoise-by-albit/hm-1-high-gain-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cranetortoise by Albit/HM-1 High Gain Distortion.md"
   },
@@ -15265,49 +15265,49 @@
   {
     "builder": "Cranetortoise by Albit",
     "pedal": "SD-1 Skunk Distortion",
-    "image": null,
+    "image": "./assets/pedals/cranetortoise-by-albit/sd-1-skunk-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cranetortoise by Albit/SD-1 Skunk Distortion.md"
   },
   {
     "builder": "Cranetortoise by Albit",
     "pedal": "SW-1 Switching Distortion",
-    "image": null,
+    "image": "./assets/pedals/cranetortoise-by-albit/sw-1-switching-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cranetortoise by Albit/SW-1 Switching Distortion.md"
   },
   {
     "builder": "Cranetortoise by Albit",
     "pedal": "SW-1B Switching Distortion",
-    "image": null,
+    "image": "./assets/pedals/cranetortoise-by-albit/sw-1b-switching-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cranetortoise by Albit/SW-1B Switching Distortion.md"
   },
   {
     "builder": "Crate",
     "pedal": "CC-2681 Distortion",
-    "image": null,
+    "image": "./assets/pedals/crate/cc-2681-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crate/CC-2681 Distortion.md"
   },
   {
     "builder": "Crazy Rock'n'Roll Effecter",
     "pedal": "Nasty Drive",
-    "image": null,
+    "image": "./assets/pedals/crazy-rock-n-roll-effecter/nasty-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Rock'n'Roll Effecter/Nasty Drive.md"
   },
   {
     "builder": "Crazy Rock'n'Roll Effecter",
     "pedal": "SWAG FACE",
-    "image": null,
+    "image": "./assets/pedals/crazy-rock-n-roll-effecter/swag-face/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Rock'n'Roll Effecter/SWAG FACE.md"
   },
   {
     "builder": "Crazy Rock'n'Roll Effecter",
     "pedal": "THE FOXY BLOW",
-    "image": null,
+    "image": "./assets/pedals/crazy-rock-n-roll-effecter/the-foxy-blow/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Rock'n'Roll Effecter/THE FOXY BLOW.md"
   },
@@ -15328,42 +15328,42 @@
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Black Magic MkII",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/black-magic-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Black Magic MkII.md"
   },
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Blackface Stardust V2",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/blackface-stardust-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Blackface Stardust V2.md"
   },
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Constellation",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/constellation/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Constellation.md"
   },
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Constellation OC41",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/constellation-oc41/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Constellation OC41.md"
   },
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Constellation OC45",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/constellation-oc45/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Constellation OC45.md"
   },
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Constellation of Fuzz",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/constellation-of-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Constellation of Fuzz.md"
   },
@@ -15391,7 +15391,7 @@
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Heatseeker",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/heatseeker/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Heatseeker.md"
   },
@@ -15419,7 +15419,7 @@
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Motherload",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/motherload/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Motherload.md"
   },
@@ -15447,7 +15447,7 @@
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Pin Up Fuzz",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/pin-up-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Pin Up Fuzz.md"
   },
@@ -15496,14 +15496,14 @@
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Stardust v3",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/stardust-v3/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Stardust V3.md"
   },
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Stardust V3",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/stardust-v3/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Stardust V3.md"
   },
@@ -15531,7 +15531,7 @@
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Unobtanium",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/unobtanium/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Unobtanium.md"
   },
@@ -15559,7 +15559,7 @@
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Venus",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/venus/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Venus.md"
   },
