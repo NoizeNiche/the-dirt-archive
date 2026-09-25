@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **15**
+- Cached in this run: **14**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **1827**
-- Researched, photo pending: **80**
+- Remaining tracker photo backlog: **1813**
+- Researched, photo pending: **94**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,21 +16,20 @@
 
 ## Newly cached
 
-- Commune/ECA (Empire Custom Amplification) - Screem Mk-II -> `./assets/pedals/commune-eca-empire-custom-amplification/screem-mk-ii/primary.webp`
-- Cordovox - OD-8 X-Drive -> `./assets/pedals/cordovox/od-8-x-drive/primary.webp`
-- Cunningham Amps - Gypsy Eyes Fuzz -> `./assets/pedals/cunningham-amps/gypsy-eyes-fuzz/primary.webp`
-- DOD Electronics - Badder Monkey -> `./assets/pedals/dod-electronics/badder-monkey/primary.webp`
-- Diezel Amplification - VH4 Pedal -> `./assets/pedals/diezel-amplification/vh4-pedal/primary.webp`
-- Drunk Beaver - XR MD-1 Metal Mind -> `./assets/pedals/drunk-beaver/xr-md-1-metal-mind/primary.webp`
-- Electro-Harmonix - Metal Muff with Top Boost -> `./assets/pedals/electro-harmonix/metal-muff-with-top-boost/primary.webp`
-- Sitek Guitar Electronics - Freya Overdrive/Booster -> `./assets/pedals/sitek-guitar-electronics/freya-overdrive-booster/primary.webp`
-- Skreddy Pedals - Cognitive Dissonance MkIV -> `./assets/pedals/skreddy-pedals/cognitive-dissonance-mkiv/primary.webp`
-- Stomp Under Foot - Guv'nor -> `./assets/pedals/stomp-under-foot/guv-nor/primary.webp`
-- TC Electronic - Vintage Overdrive -> `./assets/pedals/tc-electronic/vintage-overdrive/primary.webp`
-- VOX - Silk Drive -> `./assets/pedals/vox/silk-drive/primary.webp`
-- Wampler Pedals - Brent Mason: Hot Wired v2 -> `./assets/pedals/wampler-pedals/brent-mason-hot-wired-v2/primary.webp`
-- Wampler Pedals - tcd -> `./assets/pedals/wampler-pedals/tcd/primary.webp`
-- Wren and Cuff - Box of War OG Reissue -> `./assets/pedals/wren-and-cuff/box-of-war-og-reissue/primary.webp`
+- Coopersonic - Dirtbox -> `./assets/pedals/coopersonic/dirtbox/primary.webp`
+- Copilot FX - Orbit -> `./assets/pedals/copilot-fx/orbit/primary.webp`
+- Copper Gear - Distorta Destructo -> `./assets/pedals/copper-gear/distorta-destructo/primary.webp`
+- Crowella Effects - Defector -> `./assets/pedals/crowella-effects/defector/primary.webp`
+- Crushsound - Farmer's Mill -> `./assets/pedals/crushsound/farmer-s-mill/primary.webp`
+- Cunningham Amps - Dual Range Fuzz -> `./assets/pedals/cunningham-amps/dual-range-fuzz/primary.webp`
+- Cusack Music - Carolina Reaper -> `./assets/pedals/cusack-music/carolina-reaper/primary.webp`
+- Electro-Harmonix - Soul POG Overdrive / Octave Multi-Effect -> `./assets/pedals/electro-harmonix/soul-pog-overdrive-octave-multi-effect/primary.webp`
+- Subdecay - Variac Overdrive -> `./assets/pedals/subdecay/variac-overdrive/primary.webp`
+- TC Electronic - Zeus Drive -> `./assets/pedals/tc-electronic/zeus-drive/primary.webp`
+- VOX - Copperhead Drive -> `./assets/pedals/vox/copperhead-drive/primary.webp`
+- VOX - Satchurator -> `./assets/pedals/vox/satchurator/primary.webp`
+- Wampler Pedals - Hot Wired -> `./assets/pedals/wampler-pedals/hot-wired/primary.webp`
+- Wampler Pedals - Phenom Distortion -> `./assets/pedals/wampler-pedals/phenom-distortion/primary.webp`
 
 ## Still external / failed
 

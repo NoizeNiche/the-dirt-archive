@@ -21298,7 +21298,7 @@
       "image": "./assets/pedals/columbus/tdr-5-tube-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Columbus/TDR-5 Tube Driver.md",
-      "image_source_page": "https://reverb.com/uk/item/83880434-1980s-made-in-japan-aria-tube-driver-tdr-5-columbus-tdr-10-c1815-2sc1815-bc109-mij-overdrive-distortion-ibanez-sd9-maxon-d-s-grey",
+      "image_source_page": "https://www.effectsdatabase.com/model/columbus/tdr5",
       "image_source_url": "https://rvb-img.reverb.com/i/s--DTu1eHlu--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mj6psjm2k8icmvkrnmo6.jpg"
     },
     {
@@ -21394,7 +21394,7 @@
       "image": "./assets/pedals/comodoro-pedales/rat-bass/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Comodoro Pedales/Rat Bass.md",
-      "image_source_page": "https://joespedals.com/products/rat-bass",
+      "image_source_page": "https://www.effectsdatabase.com/model/comodoro/ratbass",
       "image_source_url": "https://joespedals.com/cdn/shop/products/ComodoroRatBassi.jpg?v=1661167591"
     },
     {
@@ -21727,10 +21727,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/coopersonic/dirtbox/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coopersonic/Dirtbox.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/coopersonic/dirtbox"
+      "image_source_page": "https://www.effectsdatabase.com/model/coopersonic/dirtbox",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/coopersonic_dirtbox_001.jpg"
     },
     {
       "company": "Coopersonic",
@@ -21823,10 +21824,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/copilot-fx/orbit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Copilot FX/Orbit.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/copilot/orbit"
+      "image_source_page": "https://www.effectsdatabase.com/model/copilot/orbit",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/copilotfx_orbit_001.jpg"
     },
     {
       "company": "Copilot FX",
@@ -21888,10 +21890,11 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/copper-gear/distorta-destructo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Copper Gear/Distorta Destructo.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/coppergear/distorta/destructo"
+      "image_source_page": "https://www.effectsdatabase.com/model/coppergear/distorta/destructo",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/coppergear_distorta-destructo_001.jpg"
     },
     {
       "company": "Copper Gear",
@@ -23873,9 +23876,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/crowella-effects/defector/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Crowella Effects/Defector.md"
+      "research_record": "./research/pedals/Crowella Effects/Defector.md",
+      "image_source_url": "https://i1.sndcdn.com/artworks-000511180116-21n76r-t1080x1080.jpg",
+      "image_source_page": "https://soundcloud.com/adamcrowell1990/defector-3"
     },
     {
       "company": "Crowella Effects",
@@ -23989,9 +23994,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/crushsound/farmer-s-mill/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Crushsound/Farmer's Mill.md"
+      "research_record": "./research/pedals/Crushsound/Farmer's Mill.md",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/crushsound_farmersmill_005.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/crushsound/farmersmill"
     },
     {
       "company": "Crust Pedals",
@@ -24150,9 +24157,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cunningham-amps/dual-range-fuzz/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Cunningham Amps/Dual Range Fuzz.md"
+      "research_record": "./research/pedals/Cunningham Amps/Dual Range Fuzz.md",
+      "image_source_url": "https://static.wixstatic.com/media/a44c47_53d30f81978d419cb34aaaac9542f823~mv2.jpg/v1/fill/w_2973,h_2973,al_c,q_90,enc_avif,quality_auto/a44c47_53d30f81978d419cb34aaaac9542f823~mv2.jpg",
+      "image_source_page": "https://www.cunninghamamps.co.nz/product-page/dual-range-fuzz-germanium"
     },
     {
       "company": "Cunningham Amps",
@@ -24175,8 +24184,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Cunningham Amps/MK 1.6 Fuzz.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c54ab1f16262b/1790363445207/Ce7qbYM3qwvi9KOJjM4riTLmt.4ecl90lpzUlQVvuQI-1790363445-1.3.1.1-C.G5WG22xlsdTbHeNKHWIYH6xC9qJOOYNRLdYixvAbm3EPpDWcQLJLSIHXdmXZletDMyK2ypj7kuqPbCm2pZSQGV2uKoVkDh7rhssMiD_sqsOexFNrzRx1Sp0eZN2jAiGKV_Gqdi9aNpjdW7QjrGC8OigeG43V9KHGKugWHUFXnnAtxlxn.RI4bIORyWbzgWFG8PKV_FgGA5zUTICqlWJXkkkgvFLFuveGFR6GQjvGwDVcwO0BVoNnpG2nj_RVOG0PsxoDI29eXoHKnPYkRB5avmmqsv4XiRW7fQ2P4SO75hD4LRMHldGpaHQo4nVk1kFB.yaKFbpuLRpEWp4Z9sWnCvC7ct_i.3msQloH0tCPLU42aqPbU0RbPzIKoDJmRmMT3Xsg0v8.o9kQVqBoM6gFcwQcVO896Te.44YxQQGsNvJA.w7gfb2V5mkIjiMudBMr1TnNLE1rf4N2EGPCsiCpUNuTQ9WdwvhG.twO0NLo2EazbSJrA3aQWukZqMtFFUB4aOyzEtXCxY2XNzwQR7mykw0bvxztrmZ.PVNSPsHs6.b9GqZXVS5hSsY7NuqnkIhoD9GmmvgzSgjOfs0oDyiqWIDyCyoRVQ0GJmWBxz1F1fdW7YVScSVOTMZpymp9gTMxO6OmdPe5S5f9MBVTi8aw1RcEUqHlVK7EJzUdJahvaxoXn.QrYtEWx8w7NkzZ5_wsw9wiRqHIlD.uLpNh5Cte3qraFxAgXkFhnq3SWNU1E",
-      "image_source_page": "https://reverb.com/item/93308601-cunningham-amplifiers-mk-1-6-germanium-fuzz"
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c5f1f9ade2267/1790363873429/n13pJEGdEXMtuRJhs.DEODk7i8kogjmOBRHsO7KFSF0-1790363873-1.3.1.1-DjszGIm2UwDSrtLaXaYWHa3AJ6SAblAVxcOV3MbmWULaWRyk57T2a1jI9oeex79XCjyYeNaHSCsYn_W0dePaZ7pPY1zMpNw_mtEYZTKHbSgB52ZEXaueYks5fKBGf0xINSXPDJ.F1Dl7w7vPswk3IEF4aqsqgoIwoYzK_QYhpGko1XMpIFHliTGwhiVBVqJQu23v.2ezz72MjMwXtnCbp6tptg4ZNZJ.urDieG2Cn3WLKMEFNwU1TQGCWTE9Rs_Dd2CFJKCDz0eJgQX8xvuR.wL3J6m3M8M.yqAcWIxMt8lX7RlTPe3pLE8KGORdSKsr7dK9QtrfvVsD8rPNpwjiB4YZFvcAMapyN8I8LGo44s0Yji16Im.IeFjuUOOuVhGMMvODs6ebuO.lrWeX3viP8eXPVATIjTvFy.AntymzNifEQ3Kklkv0rRHAxcYk82LsU1DGeXzcV1ZldcG7IU4rw7IHtDqb1fkASNPtrtcCe6IAErOeq62ilddg4loXKfpPrqS.ionQK4bipnOSdZaOgYMLzkr0bZ81K_1OgpLWws2Ri.n5iUivuQznjdCkOV5.EbPo65SOtICtZdFmlKaFTBnhdt0r15gTeMCLyQdT_LZQula1mdZaYkipzjnxjZQOBsT34Qn0IEn.Z2Nzy_Zk2AlPfwhkC8ZLxpCGgf51StiJDcgUxLmZqwD6.M07AUtgy7URpxOKRBi1rAe0fO2y9SDKiCxgRfZslYJBgm6g1rU",
+      "image_source_page": "https://reverb.com/item/96913999-cunningham-mk1-6-fuzz"
     },
     {
       "company": "Cunningham Amps",
@@ -24239,11 +24248,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cusack-music/carolina-reaper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cusack Music/Carolina Reaper.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c54ca091c6c4f/1790363450174/Nz_lIfiMGGb14za_thxJS1KY0seS81a6RtYWRlo8H8E-1790363450-1.3.1.1-pWaRK3URy.0zhoaBXLgCyoljzFi46HboqQGn.gjLiw_wDWhf1m07U.s._f_G7lGUB2NF2MF4lXiAVZJ13rK9ZotVxstriBa0SZ24LHuullM9VFuw7IC1eM_ofREasOqKr7cP5B01vyIZPrw6mBxu3WyBXapzVx0_NPQy8Tpc6meKL2JooayWErWhpmqMMvLvSOwGRWoIGbiBptbKDfeXNw6pNLQ23IUlmTrVuRDp.JCHFlSttBAYfy5_cXhh__t3P2MDUD6nG1zaDv2U6QHJ9x..kEwCL.iPqPfqoZJ04hbsac9mQ.jdPEiKTsDTSnDomirenRq1wvndMOw9ykgb.vXaftuvba9usoXFC3O37T7cgy60dGJeslpDn7s1HmUu0zSnn7Mp6gPbo4xu4Ltfl9LbCA2K08Fe3cFsTS0bLuEsFhsBaxtlRHx9SNq.UDR1dks2kQ3OVnI_XGC448GLDVJXpTliUPOlTn_7kasHaF4Zi9lID6Qk_CrcoRgTdNtDu2o5nVVKeVqq8CFjdd.WxwSHR4YVHY7puF2qGoVnpxeeHSF4AXYU.lFDKh7swQbezQ.0OPkdQJcHM59EyjwuBaBKsgJymB9F5z1n2DQxsiy9SD5oCxrGAOgfTTfyHOMEPnNhZw8uczJrhwG69xK3cioQWtmos1.EpVzDO1hD_4pzOhq2rt63POGgKCEXzJFqNpnxjSsc79g4BeBBBSB02q.1XT7WOHL6h48QI5ZZ3u4",
-      "image_source_page": "https://reverb.com/item/62799509-cusack-music-haunted-labs-carolina-reaper-overdrive-fuzz-pedal"
+      "image_source_url": "https://www.guitarfxdirect.com/wp-content/uploads/2022/05/Cusack-Music-Carolina-Reaper_083229.jpg",
+      "image_source_page": "https://www.guitarfxdirect.com/product/cusack-carolina-reaper/"
     },
     {
       "company": "Cusack Music",
@@ -25768,7 +25777,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Dirty Boy/PREAMP.md"
+      "research_record": "./research/pedals/Dirty Boy/PREAMP.md",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c61c01ef126d3/1790363981044/G2HgnPnp9ug.Eh6WDJjWEc5tmgU_teN9DOZhudV0fUg-1790363981-1.3.1.1-6slv4RsgRFhDl7BZB2_vRLEB591sMa8mVRADjJE6056xrjXfwVFhCsID4dnN9Qq0M.FlKXO_T7nIfH98EsYmbyb2eBl0pv9Lv7zxR1iBoGwL3VNNfSFESucMuWrcVfu1M.rfrsTMzaDAgj.IzcI9c4ZjdeC0UEc84qzV7iRZrCwkyl_O0CNPzIU_qbUIH6n1ThjTfnrre4cKReWGAiRHYtaskHTXPyfh6dFI_y6o7VBTGimqswfCp9TWzr2lBdnmWo5pKe_eOtLfsrcjsaxmqlHg5YS_ukcp9qcMuKZ9yqNb_UPvYSuymEFQpkiFnkW2AekGNFDc1nGuLZ28_c1mhmbrqw73fPdvxuxUHWang8Bk8eRVspUW7glLOEWhqVtT9XnGBikRModbU8vsJFL73K4FVyqWyiK7kmr4_Pk_9aIXG7lu0bWu2L4MSya6jp9FNVF6pKGDpENRYRNxng.BWyaZQCTWR3bqpq8Un8N_s9teVLIN12tWcyztA75GGU2K0wIhfUQE0sWfUmKzegSmT6hHy8ImgbklcqeKL_McBbuvp3eyOUXICe_5j.xwd.YkBz3gpBrXgXtMd7VGwnuGujv05KSROkUDisnzF3pAHEsreDGMFZOUTaa5dxTIRfc2KZvi1d2X3Q.uvr8bmBcgnzMx.iWbQa8nyYnOz_BEv8ZJwkkca0aBgQdMpuuUCYB1bfUQsSch9xf4I71p2XPo1GkWwHbtewJ89CA.mooLJxM",
+      "image_source_page": "https://reverb.com/item/92371645-dirty-boy-preamp-2023-24"
     },
     {
       "company": "Dirty Boy",
@@ -26740,8 +26751,8 @@
       "image": "./assets/pedals/earthquaker-devices/chelsea/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Chelsea.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c5960cc7147a3/1790363638134/MNfKcB4IiCILY58q34mwVtFQLdDF39f7d9QT.0t.dKM-1790363638-1.3.1.1-NAZpGWSzUDe_Txlhha1oOEli51J4lSmJPu1may3k0xJZBN2OqiuDSQ6w.r3nJtRZIao1Se8M5dvZJ2Ji_b7Cq3QxFIxJsg75WhIOcmFuAR98uwp68GYPiny1R2Qx529DoFuPjR.x9xrTN3At3D0H_DXwLEd_gCabi8yzZEbHk3YI_vZjT7mX074pD2aQti9eQpcJpm_Y7Zc.iKiyZojCUXBPk5cMN_mEwnXR5HMH9HimoVw_fv4nRjReWlmTKE3tgP0kRmqiJfTyYhuznGA_AEmsN_Zbr04ywCQNUcKSXRaVGegB7q1Etmg.cdkN0NTW6OhfVzflYjUC3T.JDZaNVXkwVlO8w5_w2fDaK4vs7NtfmiJPQLwgm4XNo7_KmPFVVGUttiY.A61mAmZUScVukJpDKUDxDdUkW3Dt.GZ0itZFJBdaO0qRlvIpKKclzxKcu5no2.Vae6rwsk4MbYuUzOreflvTH2oYF4W0gTwDx2UKrnWF5mLx0W.7tgE4rR8o3Qeosks_ljnPndP4gFB3SBnylAwNtihDYa96x_1C3n0x91WIqq_EE346qdXHZQFPwMsMec89Sk5I5tsxjN4v7iuYjbLC3ZGOR6x1ReQS_BG._y0k46luCXTsvJW7sQsv3sS4bdHX2Z6mieZrNlzJVcgOZz8zU2AivaScWwwQiP12pL906nu34xqqv0RZdIrtAeFhoiPPs6ks2IwcPiQs0C2sezHde5XQrSfAts3ulio",
-      "image_source_page": "https://reverb.com/item/93143987-earthquaker-devices-chelsea-low-end-fuzz-driver"
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c622c199f180d/1790363998369/yy8riE1mGrFvKbLBT.irmzizlI8EXTSJ0.wRfjmI9Vw-1790363998-1.3.1.1-1SlWsgwHd4XkM58uvd9_Wva7lSko9xTiiSjv_al5udIQ2LNNJtEAneBNLQKnlJj5LNg4i6FzReUkaNVKCujXLCUvJSwskZueL7fBdDKyaEOCpQUFv.TQe.Opdb7QCF6lgwgCptEr8qYzqdPYc4uox0OYITPaIrcJ.XQJlKKrUIlG4Yy5wBlSPqSzvaQcDn1UZ5soxj1D9ch66RFef.yVEWcCi1C6GTyf4t8Ake2W31b6giz718U8c0L6fDD1CHCDnKCCKLNtZFXf0InrYtG6Q2FOoSaPqRa.RWLhb.Kr097AR0QVRgL8AsUnHmHubE6EcqiWHMdSP2scFenBPKXBDZHYzPCWbYmWDLvKCFNl2TAWOektXB7Yn0ynNf3J_6Ex7SzFm41N1__ykoO.79NBkuX8bMliwqfaGEX36lf1bSePQyYyenihL9L1.d4EXPwhkChkihbwroEZ4WsUbR8QLXxyjLxsXvtazgUmYf09672hS2xJAVwG6WeJuSct4f_ZVLQNyug6phNzJBCz6edY.BWIZa12oHGXx5LYPhUZUj4SBHZblyRjMJ20qzif3u4CTwh3ZY_gE4.wWRymcQYkALJEzZtADXbMNGU.IV1mIge.YuTMCUju4d3nlXU8H.vwuI08aNj5G8LzshQ3OeCZxs4oCLVgOnvFtldPwMtqaQcUhaB2TNE4G8zYk9kFv8m6_tLJ2i9UOZRniTXc1T9.Kd3GqPNrT_mwjKNCS0HhVsg",
+      "image_source_page": "https://reverb.com/item/100459561-earthquaker-devices-chelsea-low-end-fuzz-driver-2025-present-various"
     },
     {
       "company": "EarthQuaker Devices",
@@ -26927,7 +26938,7 @@
       "image": "./assets/pedals/earthquaker-devices/gray-channel/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Gray Channel.md",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/57cebe2c03596e075fca5f24/1504035677294-A4WOO6UFR7G92HZBNAOV/EarthQuaker-Logo.jpg?format=1500w",
+      "image_source_url": "https://www.earthquakerdevices.com/universal/svg/social-accounts.svg",
       "image_source_page": "https://www.earthquakerdevices.com/legacy"
     },
     {
@@ -27487,8 +27498,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Deluxe Bass Big Muff Pi 2.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c5a988914eb22/1790363688016/tn6ioZyArggbOAGFPcly1kMyHhCd7X9YsTPCneNL4P0-1790363688-1.3.1.1-s3Meh4e.2.RruIgL9wTI_fXOMIXTocxMn2eH5EP2MC.EGMMeqlGexGe00v_lqhLLe_QW4JxG3mZOc_3oPzpbhVpBSfzKrHNBqFBFXxcbSPkcKHt6Xk00N2knRaQiZFbYEtbCe9UoGWX5zq4lpFJnyPZt4AOqyoiFdUQsR38E2i203V1Ayz3aVi3d.Oxu.bqOyQv0bUNg1_e8tHSRnbC.arYG.cQ3oMuMVdyGkL_Uj.Lo6x0Id1yG_0XPlG4ClNZbXyxqhOTlIWWF1XM9pScDjojptHzXhpw2mkd_NVLZjqRPB23Xly9O4YjvHKKIOyHntJcKft1b.RKRjDwubikaFQziyjAtZTwFMWoLhA8RFAPpRFlNCxnXJPcjBbSO9w6yzCkMrq39SAfupDY2loHHU5m67kEVU.oeQKq9z26_EE6eJ32yn1ClOpKAg7S4k3CCVrpKYANH4xKDaM8TjcJOXQo6pU8xAXnxh9VHQvPYUfxM0paEiXUAzja7sRzNK4m8aj5xyvlqWhwZBpTAlIDVHfPlb9avPfSxyWy9TwUK_JG.lGAJjkGZRq6mOYroteUrx_9iFwg5h5Vp7VC6qpAaXglEXeuLs.n9HAlnzzBmllwP0493invuG_b6adlm1r6uRgxXpbdbrDlfjYGMiYo0NdQbNINelAW4E3yhXHeKv2FpaHy19bEqJoR6iwM3iMGCMgm7JI7qjg0saE6KYUwojqkrEgXSUeoaBZqtUfOFvOc",
-      "image_source_page": "https://reverb.com/item/97296601-ehx-electro-harmonix-deluxe-bass-big-muff-pi-2-fuzz-bass-effect-pedal"
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c63d3d836cefe/1790364066155/gOpqz.HDq2iIpZLEktQR0Pc.KHSOoDtGVOZt3x4qcHI-1790364066-1.3.1.1-yh0xW1jzF63tmTGlvg43z4R6DberPYIFVZFDRBbBdX.70cGZUOTRlNb2GZN_nhbyHKQFmRqIzygjnbENBhZVe11JfyhUvJx5AFCQXMMcCZgSxUZm8kTEhuooLxrL0vMrbnfLRbVc23Jck7W5VWeSVAgtfFNeLmxfGKES98rv6.QiL4bGNkQukUVuT6wZQVcmzHrCUwbAJArWpAUjE0nz4XZuFXdfrRiqyaW0HQdfNnQHabH0aUrkgAikKdHAhPDYyZjwGw2Q1ihAmM934ih5f616ZSSDpcHNiv848V0mmIYfModsdASWETB9PrioAwNEcJxUjNqvx0Oz5Gu9Do0S9HXw8ZNiIAuvBVcjJFVOFN89v.xAfil9zLKGRheKpe6Qz3axEelSoxOl3Pjvz.qiedAWF27JBZaga4v6gRdnWhbtk.w7CIm987Fvej6Se4NBjzZlTm3JHI2neu3hAmZWwwDOBSQTdxKqhnFc74d9J.XuwSvaePs1sY3BFEsHePQ9TnDVFBwXBvOs0RReZE2E95U5m0.gmUFvhCCDapJJFI6ZrIFibQDwgWn1iZlcbHGAEFiE3BIllJQNVxDy7yFYxpNZV8quSqZsGDdRJh4zfFRTF8BojOS_nUUbeSqLqlx2EU22O7O.9gtv3wUjFJP.g.DxAgQtj3ThCbMLVqzAg6rLDQF8LIcqot8F.gfNQPtfbyk4TzU9M0aHiXAYQmkGrVyYbTh_0jTUkeofUEqWEH8",
+      "image_source_page": "https://reverb.com/item/99256887-electro-harmonix-deluxe-bass-big-muff-pi-2-dual-op-amp-bass-fuzz-2026-present-green"
     },
     {
       "company": "Electro-Harmonix",
@@ -27823,8 +27834,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Soul Food.md",
-      "image_source_url": "https://images.ctfassets.net/74ch1hskxran/59I2cLBwTrEbwvkrHuZD6N/d94749745e7054743c9ea51160d8460c/E04-SOULFOOD_1560159875706",
-      "image_source_page": "https://guitar.com/products/electro-harmonix-soul-food-pedal/"
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c64354f34eaca/1790364081714/Ov0wprF1dh9WeFJVRwuKy99MpIUCOxE4R3RIF2Tjv9g-1790364081-1.3.1.1-PRxOlohTSOxdWFP1Ia7g.kCf8IEcY_qgCx156nJqkoGDamFWddNoPNpYJlA5aC6e8nFbnlhzPPP71oDHnS3p.cQu5Eb9tynYzFWwbnuN.0cHfPWgO5Q2wQmBFqcv52Kz_R9mZs5bcthLgEesBUGzXUGTT7idVftrF2PL1komeGxRLIifgjmPdJiUXCICl5rqMpN1.7oVMBaIjPEUKF9r5l8YRJTTmqjw6yqzMOgd.JoetRzp0zhj5.5R3sLK00QJYdz8GgJsE.gHZcg0WW0hZd6aARIdGtX7e0Eo.jSn8nD1Kve0Kl0jAlNu95UcpdiGpwbiCXu4CI8OJI5QDb7h3dGAq_ulNLrfS4zGdfgMAD8OA5JY_5IxvxedERC4sMLtMs5xTEic_E9Gn_.44DlUQgTkckXCW9qJBRtBOIwXf4EmKmTIB4Ef0YEzjBmF7ro3bQ0gphjpJAl1FabjlHuQWhCABIssn0rnS7du5I86RNIpKd22Jfmsg2dauSs3hnBXKAZO0KWzWJILyXnWLBeK8SkRyCL2w0w8.o9n5M84WDFoJHToTJT.C9o4vu4ky7TH8dmhSa7X4KRuN76fT3b9Evhb3hdyT606TRb.ojOyShOLzCoOMh1wJY1Y29eDL0t5Zr8BsMq.MMtzEAP5r8ZhiCvZRKrJc7INFPqo.l6VYsICpifnSK4hUJVu.X7OOiKG9BAcKrkJQQmDSJwi4H1y3.ICmzT0fPrwLlk_zCvYopI",
+      "image_source_page": "https://reverb.com/item/94817718-electro-harmonix-soul-food-transparent-overdrive-2013-present-cream"
     },
     {
       "company": "Electro-Harmonix",
@@ -27832,9 +27843,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/soul-pog-overdrive-octave-multi-effect/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Electro-Harmonix/Soul POG Overdrive / Octave Multi-Effect.md"
+      "research_record": "./research/pedals/Electro-Harmonix/Soul POG Overdrive / Octave Multi-Effect.md",
+      "image_source_url": "https://vietmusic.vn/cdn/shop/files/Electro-Harmonix-Soul-Pog-front.jpg?v=1729593255&width=1946",
+      "image_source_page": "https://vietmusic.vn/products/pedal-guitar-electro-harmonix-soul-pog-multi-effect"
     },
     {
       "company": "Electro-Harmonix",
@@ -27855,8 +27868,8 @@
       "image": "./assets/pedals/electro-harmonix/spruce-goose/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Spruce Goose.md",
-      "image_source_url": "http://guitarfactory.net/cdn/shop/files/EHX-SpruceGoose-1.jpg?v=1755134155",
-      "image_source_page": "https://guitarfactory.net/products/electro-harmonix-spruce-goose-overdrive-pedal"
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c64660a6e91d2/1790364089519/cSaB2iUwl3QfP1sh8qYMVwXk_gw2rk5.lpS58kVVZWc-1790364089-1.3.1.1-hq.MfxBP60nGcAq6dSN917T0bjAshzEI1AaGHdcohsiZXTO3zImfV6.uDzM4agiOURUOv9ntwpYLRRj5bRKEalBEWf83HGYv7BYY8a0BCaKKvLosbnOHjGYxZEk955QkKDanJ8d.VSz4IS_r74oOqwA8sxnj_foGv7JrOHnXsHZvKB4qWcgrNAHlOwuAwIYmw_C7tjFbwcUnWOXrMV7y6.MJgJIlstpQm1.gNcc3.ygiey0cXc.3DX164uM9Sdjs.9PHBfiHmj3jpjSVIpEKMLRjyNXg1XC_0ynEsDOQCwhGUSYXYIab0otozfDNYrrjHMmhp5bwFTVcqNyoZtL7ChI4yj67COxs1214e7wVJ200lidGdjIFJmtvX.dLrjuj2OlNfDKfI7Am30gQqJIzaZGy5DOrXewfkW_cfj3CRzjEQM2mHBqkRMCaPUHmPaBCKKp8CpASq4scYO.Bhm56nLCBhF_iMiofSfK.bqyAYLrfeH5IX68o6bNsQ4xrpG61to_XMLiHiDN3DgftBogfw8X.KM7DoqZH0afXVJapAAg8vKcGa9Ol6by_dQUyvhO4KldCYChXmlcbTLfgiuCRMQwemZOxXf9tftacxshF_hkuljF61woMmsG.yX7K62sDbCA8.y9sCQvG95VymJllOBwW.RNwVh0iv3vONv3ZSVObPNp9LiURYH9CumI_a9owVMBqo3zVtvncW.NMz9bzxwskmUDwXgMCfITcirb5ITk",
+      "image_source_page": "https://reverb.com/item/99114206-electro-harmonix-spruce-goose-bluesbreaker"
     },
     {
       "company": "Electro-Harmonix",
@@ -27907,8 +27920,8 @@
       "image": "./assets/pedals/electronic-audio-experiments/greathammer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Greathammer.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c5c511a3df7e5/1790363758468/aNdap9TkrsH9AqA6IGLytZ4wO9m_xrn8Cs69mHH.dco-1790363758-1.3.1.1-Hh.0pioITtfuWAf643ofCBuG1MQns_47aK81aIj9WKzsBTEl.KkDoRV2I64AdE4e7KYAueaDCSeuH1.RxC.eEG1dO1FJcHX3v2gk.qnpTWaJynjyJuWqblG9BFsNS3HVNBMsDN.kUUFEkdOfgeAIuGMQ8qAafS3zwJ1UlvsLw62CeAtsxKzprkt2RrQjsWNoFf64paN2Lf3D3uA4Ft6fDaZTpMziqwo.HGup0_HO047t492GIlPfL_xa2hp1gqmQCNI3IeSr0eJUGtmduNYsRKlSugqSMGad.wUaHEoLBL7ospOg1SCaa.Zc6PlAOt9INj.YDcUw5IEVATswI8Zl44IAjQfG0HtpoJaDfzOGlNi0QlSCVIewkD_uqPWJDheOp21B4kO7oT358oRdZO6dSp6bux1aC..Eoq5jNEG2cWaWEHXMflQeYIOuCJqAKUh9j.RS65xinxVAOPd1UegZhQqgaNoCqay8s_JEZPuuqJykzv10cK1sQ_F49SL47DLJVd1hXDdynxfids2hnYeYk5EBY9Ciw5b2rCMN.SOXghZbRAt_kW8.AUJLKFPyo.YSoePywbh_0H.gkU8lkPujy6PGIebu7kFuZCVd2r8UQHBg2kUDOABjVVEJNe8fBHRRXkmH7xkgRAXA15VTE2F9NVnngNUkHwT6huRc0g1jgd2B85wh_XH3mGPIrjNM6WmNgCW0RNz8hMx8Tqws1O0wRs9N64gCbsr5IFtAXrCBeRc",
-      "image_source_page": "https://reverb.com/item/94377504-electronic-audio-experiments-greathammer-2026-gray"
+      "image_source_url": "https://roundhillmusicco.com/cdn/shop/files/Greath.png?v=1770061989&width=1946",
+      "image_source_page": "https://roundhillmusicco.com/products/electronic-audio-experiments-greathammer-pedal"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -38453,8 +38466,8 @@
       "image": "./assets/pedals/skreddy-pedals/cognitive-dissonance-mkiv/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Cognitive Dissonance MkIV.md",
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/skreddy_cognitivedissonance-mk4_002.jpg",
-      "image_source_page": "https://www.effectsdatabase.com/model/skreddy/cognitivedissonance"
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/57e4258303596e09f4b8a058/1573860863410-PIF4M75WIIUKWM8PY6JW/WHAT'S+USED+COG+DIS+PEDAL.jpg",
+      "image_source_page": "https://www.tinkercitymusic.com/gearheads/2019/11/15/skreddy-cognitive-dissonance-mkiv-classic-silky-yet-refined-amp-modern-distortion"
     },
     {
       "company": "Skreddy Pedals",
@@ -38863,7 +38876,9 @@
       ],
       "image": "./assets/pedals/solidgoldfx/fuzzbox/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/SolidGoldFX/Fuzzbox.md"
+      "research_record": "./research/pedals/SolidGoldFX/Fuzzbox.md",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c6581f93572eb/1790364134940/vYhoqt60L3LiOgShdhatd_cFqwXOWl9IYYqdS0uiRw0-1790364134-1.3.1.1-0fzrbniNQsU8m3np21HZnQ0NdRUIKEJMX8ldnkVKZAu5N85f97RevRe83XlqhnoenPF5abBkaKII1wi.Zc43i5HRaXCsheUFgIT_d.pOkOByZP0Gkz.7.stL4HfMuTeelzcG7TqBif3e16.x._vVo7_X96sTovKJu4P4t56yl71IItBF.I1VdXpCVi3HtDI6EOGw7YXLmaYij2nye7itLtcgax5VnmStqCSEHR9qGAe_1MuBTqt7HaSYgeXq8I6N_xP7lM9Xc1s58KE6y4qFruD_ZEucg6z3jwWM7bhDBndiBRM_RH9IPbFU8rJHK9juj7mP3m8d3CmZ8HJE6abf5B38Ekaus221c7v.8WHDpEI6PM64xd3ScSDzpZ21TSnVtkHzWRbJ3eI7qzZTw5DZQuIABFfoHKFqA3h.VnD1erS8F2Cfr1_F3yXYmjSNAJDqIbRC_Z6n_N.CD3pZoaRvHOmgwLh532RpaQ4BHHTWZKLCrCwkYAfI2RYWNrglaEfuYYMBtTfDo14nnFIdaU6aXaN_3QBgCTni4OWTWVrOWxFDZFFXcZF2oviQlPv3LZR_ypyYLPFyKZGpEv11wiZv4m1E1pQlJTxjZjvonK7shnoz.xfAp9jaShH8KNXpLpdG2TzOf.KQIFweDDUELbswPqNRQFBWXDpV1qMmT7fmhNRwJNf8tYCef7a3DITxNVvBZPedupRlrIJR2UxXJXRw4E0ZgdGLgsBQpnEKQRLe6kA",
+      "image_source_page": "https://reverb.com/item/101976997-solidgoldfx-fuzzbox-pedal"
     },
     {
       "company": "SolidGoldFX",
@@ -39627,9 +39642,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/subdecay/variac-overdrive/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/Subdecay/Variac Overdrive.md"
+      "research_record": "./research/pedals/Subdecay/Variac Overdrive.md",
+      "image_source_url": "https://www.gblguitars.it/wp-content/uploads/2015/03/Variac-Overdrive-Angle.jpg",
+      "image_source_page": "https://www.gblguitars.it/prodotto/subdecay-variac-overdrive/"
     },
     {
       "company": "Subdecay",
@@ -39819,7 +39836,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/TC Electronic/Eyemaster Metal Distortion.md"
+      "research_record": "./research/pedals/TC Electronic/Eyemaster Metal Distortion.md",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c67f94aea74db/1790364235962/dQppnIkcn1JMW60Bsi0vAV8MkQRM00TNEQmJUufIvOo-1790364235-1.3.1.1-53uLG7sEvaJbmE3QpIcsMVLbHi90EW.TQHuIzFI5_oWwTBf4ajDzfdmxIxspHXGbHsSfCIPqxN0HlsWIkBJ5bpbzpqgIKDW9tIC8wTGP97dVgXqK9lfL9Jh5uQEdYhkt3Cq7Yb3U4HRCizxqOJ6jdKvAQoB0VeO62e6IOXL6NNLPGHSuqSHMqBVLtGC2v4yivo_c3HrrKW3eDQStPxlMDwHYLkt0kSiFzJ_TIpgEIwsHr1vNdP.fF2yMpvxSKnzPwVqKBp2iEsSmLJTadwuiREDhcsKXEn7acR_m6eWo7pTcxbgfNIvxkkkfjAvQC.9vGp4vuKGuOAj2Creh8VeLzkmhmyf0E2AsY3PDs89wyN9grXkNfHA3r95EPWperTm7fiAxwgyLPvajxUJhexZIBBD4vPmowcSH7.kD.YDZ9s15T08i.waiEr1rcN4ymB4Xb4X.0Gow1p9xVivujjdI50xVeGj.JKs7gT3KVCo2Vd0FXY.48aQwJOqJwe1znX24vGB5p3ajoQQmS3n80AgVEm5lHqe4tYW8tFOwnw.yQiFN4_PXCYhfnhJTkIhpPRIRgaZYKuq6nBuyrFT7hCJbocF14grEFmEoY1Brhq16wcvLhe_Schbmvn5ufoqZlv7tpfrbQlb6upSBCS9QeNsCR.UQjFxJLN2YqN5Krk9o07GrAy0Sg8v7NS_7pHaop9ku0.qwtBh30_VjvExZDxpIRNWd7Te5vIdd0JM1u20bzts",
+      "image_source_page": "https://reverb.com/item/98921225-tc-electronic-eyemaster-metal-distortion-2019-present-black"
     },
     {
       "company": "TC Electronic",
@@ -39961,8 +39980,8 @@
       "image": "./assets/pedals/tc-electronic/vintage-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Vintage Overdrive.md",
-      "image_source_url": "https://spheremusic.com/userimages/Img15635-4.jpg",
-      "image_source_page": "https://spheremusic.com/Bargaindtl.asp?Item=15635"
+      "image_source_url": "https://medias.audiofanzine.com/images/normal/tc-electronic-vintage-overdrive-783491.jpg",
+      "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/tc-electronic/Vintage-Overdrive/"
     },
     {
       "company": "TC Electronic",
@@ -39980,11 +39999,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/zeus-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Zeus Drive.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c600009ae2e73/1790363909399/aBccpDJGrYT3xCjRayygKaNb.mNDPKYUZhlKb465eA0-1790363909-1.3.1.1-vHhs5UoCFvZCKeiXyJqYXa120Uw5q3xmndacMvY.djJ.jTJdEca74aO9PBUpiRGL1EAK22tEYFyjUUoDWKvdbX_4dVBuGAozaTmekiIIhobdZ2UmwExsybUPO2mYH3g0K0E4DXTck6fbalQF2eV86XllpzD8m7z34hJvbl5.XaI_.bpHCIqVPAfZ4O0s16hFZfvj9qVO2tbeJObBwNZAveB9mytcydgKl8ie09C.Iy0.U5DkTZdpNeGJ4.e.CrV9fq3JxCus7lfHp34ZqLvtaQa18NCWG0JpAX9mbw4LH1od0_LqjED6nEYDABEZM9GvEtzlwelGDjNpr0HuxmRoapPLxVPODX1YwCIf2zKYAkppIaG7gIsLjI0skLIwsGcCLhtFyOz.ut1LTue9zcyem_ufCbtvqGmPeHrOKUSOSzoCOY0esvEZ8aSsqtmtR1Cj21qmwP0ysXpLGWnkfQ_H6_82mWLd3._H0Bsfviq8McCJwVPZ3567tSh.fXEt75OaHvkhdhgE4Rb9bQudzpk6SMh2gG11P59D6zS3zE1juMj1JZ1se7ezKTyr8NiU6XrNbjU232rZxEsjEThy6rqfKfD8dyGSROpBTkXFjwiR8klVBI34SvXIg4v0orRRwMlBs6zEYaPgzLB6VgavMEGd8wiX68ObKg2SoUzsSwJrNk13R8xNzXl7gVrVHtszDh5NxAVPkH9Em8vwWVqV7PQmHLaUHbtohkxmwoGEtaiZN8U",
-      "image_source_page": "https://reverb.com/item/93103479-tc-electronic-zeus-drive-2021-present-gold"
+      "image_source_url": "https://www.planetmusic.cl/wp-content/uploads/2023/04/TC-Electronic-Zeus-Driver-Overdrive-Pedal-de-Guitarra-L-Planet-Music-1200x1200-1-1024x1024.jpg",
+      "image_source_page": "https://www.planetmusic.cl/producto/tc-electronic-zeus-drive-overdrive/"
     },
     {
       "company": "Tech 21 NYC",
@@ -41594,11 +41613,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vox/copperhead-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VOX/Copperhead Drive.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c604cfe217d9d/1790363921658/V4VTbThAbP88Nd19lDzJ4s8KI1I9hevn704Gi5f2.4Q-1790363921-1.3.1.1-XsNqrO553ThB6mLU50A5vthucpaekS7v5196OGstO1Ldf6e7zjiIJDhHtqEr8ho4x2.Bdtrc2MAFho0YulCR9HcBmQlw4kjRDsm31UinAQy2bgueezKH6A5OE97gToUSzXXI6aUORc9tJEpyQSrSNayvxnBqRZ5yZsQGSoxvT1drgYn7IqvrgDJr1lxOaTWe.nUkIkRPl_vObdS6qwgMy2aOz2cF0BRimOAQg9JV0MjteceG1ByQmlcxo1_36UWJXBM_LodaLtxpP3bQhMJjj2rpxJY9_LTS5IqJwmS1JeFnXgxJmKKG0BYXUdo3NTcgJ8bVabGlQmClrJYttELa1aDGXhMNvUE_HLKsHqi.2vIJHkhGZppzbazuB2OMs009OIvhIUP3ysIjLA6LKiuhQl2UStbpK_Sw._2XosIzvbBjaWUd7aa28YEKA6FZ6tBUvRSBc9Nto1S3g4qa9PiPozrlgT_etcxNsKeZAbLrDmQuMJZTCzhh87sb7PBRVRRoc_rtwuW.AO2m4cE_ugwmdqLn4l4Oy24Sk6Mtd9i1yIJ3CLUHrcTm36rDdNC1o4.K1F3PRTt4N2gsjjrk1FU3Pix.UGlCehLCNTukbYVUXKbMcJZqIX6pJKMrO2QGRGw9r66urGbzv1hqu42Y5OmyCeHyy3lVWtCHRLs6ag5e3nfwUg40Gh43.nDHzHtJsW6T2lWzMGdw5b5H5LQrbAX4o6SJGKCoZi81kEGFyGFOoAE",
-      "image_source_page": "https://reverb.com/item/93967047-vox-ve-cd-valvenergy-copperhead-drive"
+      "image_source_url": "https://r2.gear4music.com/media/53/534672/1200/preview.jpg",
+      "image_source_page": "https://www.gear4music.com/Guitar-and-Bass/Vox-Valvenergy-Copperhead-Drive-Pedal/3989"
     },
     {
       "company": "VOX",
@@ -41620,7 +41639,7 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VOX/Fuel Injector.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c60004c949bf6/1790363909411/jPFq9EXq1YPzVw8wHVy5KqYdBH9_fox9dRAR5c7F9ac-1790363909-1.3.1.1-W204RgcinAycOkPwMqyxgFUHZIqJU0RxM4Li0Q7_efEUXawiYn1dckE9WF49R7ggmKQXRYRPDufouhWjpaEbzx4lHZFSVRCjYRv0ptDiz0HcL5vH7YIWEcP9Xofwu42VjReXogJLChsINRYEeB.YXYfktzNiSTnclUNS_qcXQTCL7eIn1KfeF1lq28jPYS1oMyXWjlGX4Fvm5XOmkoBmZtGFaxyv0aWQ8dlwIAAHNyBnavbPr83Y6ZQu2Aao22VPkP6j7xkLU4vWnPtVUgpDcBtM.76tbAb_i4P7QEDlboOuFFu4qYBH3NaBOxCANEDWGdEHwP1Z.w8kq_XNNW1tfzO4LEn6Bcr.q8i0H5E88uON2zNz.gddXAzhzk335trRYQQW7Sx.N91oP.xhBvqq_RU4vJhZxb4F2pOCpRZelZX3emBBMEWzqVJa_Cgf.oHD7kNhmw1FOyzcS2Hr7f6UBkrSekf5EdpNDcxxJyVwNucjDWEGgPaVGIvk8ULnmszCoH1e021uGROYaVgUUFt6M5LC_QIoDhYwBMsELJejPGbSMWMWK4Drtn3lZlBHsrlB4IdPW1wsDJh62r4d5jLoHtIRI5xPcFD8MOHdmyu2pj8OEyY1xZqkGBCFrCzewxCmNebH41rPL92.kTjs2GxDtGQjlnqgxdppyKmmEr815LFftHNwVpTzZT5O.Mj424DaVuKT1AWLqol0E4Hm_d_hl.bZAPAzfGl9SKsuxVeopew",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c687b9953fc38/1790364256802/tJ5UiL2RceYNAvOpduhsKsoWE.idtPMqLmEwN2urlMg-1790364256-1.3.1.1-YwSC42mz9NI7VdTqJaTDp4N_cUeG_y21uNyMuJQPo3RV3UbMuNVl2NDrFlyv3hLhK3DbSMBLtuPqy_Dwk1mSPwE3rg74C8HG1iW_8gaqud3_tknNxXnOpDYgjYNgzvIEZyBk.rpivn.92D2aotTCrNjK6kWXuvvpI4B9otd0jdJjp0uYr2Sa7n945OkWzntF8Gj9gaUjQViFdELjrRVzAYoWg3iZAXjBR441uUOWIoEMgJLtVlcS8eT0c3PFQh3gli3A1W28e2Z3qezDriZe.Xs0rLLv6J8I9izHMU6AlzaGCDzFFnNXx_TFFj39Ri647GFnoo_JcwUpL1Mh8IJWUVlYX3vZGXEu0ZRlzuaDY16y9UD0mleuCg81WoFEFmufQTGlaUEgK05YeNJQyc.dkaCuyXhGfQ27cXye3JlzlqnT3pqLHCLoxFmcTqxrAOeYsJxH3L7zgd5zlBXIW.sx0D0q3TyltXI2Rvb7vKSxMEJFpr3yE5AIT3i.ux0dHkiPVFf75RISn0ppQlrs4XlJcxIi5dJ2lIBOhc8QiglX2g2vfZTP2HUpzMRiM1jMhAMqM.tntJry3gUNIaBNfkGX42LLgnuoMaDubeebH_1YnH4j.PDKbOBiZYlNgK60Cc6.2TAyCfVRFoZZcMQTY.BkpB9ScsuyOVfrFOlyBOJxWgieTrUmWrLp6lGvlbQ.IZWvIU6PGe6vHdq1cEJcZ2H4_oSdofF7hdryFH.5uiCzm5A",
       "image_source_page": "https://reverb.com/item/99502977-vox-valvenergy-fuel-injector-overdrive"
     },
     {
@@ -41650,9 +41669,11 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/vox/satchurator/primary.webp",
       "source_page": null,
-      "research_record": "./research/pedals/VOX/Satchurator.md"
+      "research_record": "./research/pedals/VOX/Satchurator.md",
+      "image_source_url": "https://media.musiciansfriend.com/is/image/MMGS7/Joe-Satriani-Satchurator-Distortion-Guitar-Effects-Pedal-Red-Metallic/482295000047000-00-1600x1600.jpg",
+      "image_source_page": "https://www.musiciansfriend.com/amplifiers-effects/vox-joe-satriani-satchurator-distortion-guitar-effects-pedal"
     },
     {
       "company": "VOX",
@@ -42123,7 +42144,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Wampler Pedals/Black '65.md"
+      "research_record": "./research/pedals/Wampler Pedals/Black '65.md",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c6916fbbed6bc/1790364281674/CA_w1bJO8WON0rgHT0vrLqr9WHmJNQ58VXtnGeuYmts-1790364281-1.3.1.1-p0JpcTAOaDMmOIxlR3PjCacTuvuF8p8LIhE0FUxakEhoPxzPLDThZ.KyIpTeokqX2_wMLm4DA2KJb0nDW73y1rTXxJeXY9bz10tVOST6Zv4tNlu41i56dvRoZOYGQDX._OWdDv8BGJEAqI0XpnYFmvFWSwa87u.Imog3tTKAHLKF0nT7N.HtizuV0Hanz36xF_eO4D1YSk5UNjvswNtvBp0cxXdVnaaVgJ4XyEbCtCUMIkP0HI35GD4YttNILHxbBFtfNdx0YzV34eK3fMzl8YIcsLvqfmFVUUN7h1mSTQTtqTrIfsg3De4mm3TYHiZpao6XAN9X4_1WUnYS_IK72CIa5NC832VZeSzh_hFhK5TPdj8UJHkm572QiURIBzZwKdph0VPmIkIT34iG4Dc2eidgPvw2_S7rRjmoEMhtqI5R35nx.ft3dDGgrPj_KSspNh8n.Ab5JCFk5UdowKt9HGuE0VuVE_FtokOTTTLCEb3hnLplOy.ybAvS8DGShsmkZIcBKWUtsNOxYL7GRL20VnJ1YN85IRwtP8MPxVnuecYmiMwpa0eyceDqMU9ECstVuQ7jWc8fUlelmB3cGiSrSe3wynCmPDlNpMsO2RL.HM7eAiE30xOX9QMUoMQqu7wap_uExo56m5Yl3h0iUctkh5i.UL86Qd_fsVh9akTPrb.jFPeW8.HWMPqhuvI5j1XMOcCJerjP6Z4ZQR0HQe0cpLpM25oE1vkH3BICRowZr5Q",
+      "image_source_page": "https://reverb.com/item/102077992-wampler-black-65-overdrive-2010s-black"
     },
     {
       "company": "Wampler Pedals",
@@ -42289,10 +42312,10 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/hot-wired/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Hot Wired.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c632edf4ebba5/1790364039713/XATKzgrUKdG4T4LU26AVCzLspXz8f9JRaHiDfkTLg4k-1790364039-1.3.1.1-Lau5RW3cqYyPOBdUta8YhbtXW30OytPj9tJauqUVbmnCXamycNFzi5nle2ieCKIqmyR60DjOQN.jmOBGWcDyE6Y3EtCKG0dyCfUcN6VpsxE3q_BIlIkN.KejdNxu6cQX5nRpwOHHt5XN0l5tWtk7QKh3qEFngvsYzfQk0rldyh5Wt78F3sDQfZ4uQR78wv_m1AP.bqKwxjr7aIEfY6C4cPGPSXd7TXkMESXo2BaWdbHaOEAKlbGnHDFV_EWKxlpKP_Gz_wzVDkAjgMgJNdTAW0llGourn.zYQD5397A8YQEC2nW3LxFq0CpwtR5d5ha8Q9QvXEsTqZUTHZkmH3RQ_OnxU4A3YFrJ.GywQ4teSo2f8L1UZLgR.g7d8QmZEM3cnOp9UcDGthsaxzpnoMadAp3eA7PLE4w7aEz3oCPX132oxq1exk3J4iiRmvMLrWBg2usV0htPrn5gmyYzU1UHY.difYVL_QAHw_1tXTK2QHxxGIAeFV.qja_7xcjWWnIhOmz9GbwLFKjRtJcosFjj9Mp3o9uA0Tt4i5vO6vHYO6Sj3CJYZ_bMq.Nv1OUBc_7kEVS4swkJhyC04u9ODoelnOjktJVYTyaKLXZZ3a28jfY9YdaRYvn8r4QjLm0DYL0ERrxGwzIr.G5CuU3iGp.QpNAvzQ_8fXkal.PV6USjEBgtZTGI3rnPvewpG7HRvx5zYGzNjYSNk3olKqjZ_qh_GPJkeeB2iFrwDVOFIL48LtA",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--t-84T-uh--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/n1xrih5wc4x8cu8axb4r.jpg",
       "image_source_page": "https://reverb.com/item/92912945-wampler-hot-wired-v2-with-top-mounts-x8480"
     },
     {
@@ -42385,10 +42408,10 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/phenom-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Phenom Distortion.md",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c63a45e0a6b4a/1790364058557/o2Gugwtf0OuQSloaD6ubzT1d2x_TNWDuw3bqhO6hn4s-1790364058-1.3.1.1-cBv2vcYAQLShJ7uwOYOmMmkBHeIzAi_5MTIZp9_oxLkgWBnR.IOTFM59J2ht4JLDeHbx7oV4bajP62yx2RAK7Ldb1YPoNKbwPW.AlZQvxY8VkW9kuf8g4g89ymu8BPwgfsJAhGA_ArCHFOOhh1jXGjNwE3Ju..1fUk4HU8by.0H5o5o5UsOJcJ6SHeyKIdUdJebesuT_1bT_o8m742yZ10DRhdwSY39Lu8gXozo7LdCKxSGj_tNYDf9LJkcT0Tkam49wctLFX9bwma3tCNI.jRsjwlewd9vILWck28Q18lKcMFL5DkAVaPRKMxY7xvkDH0RSyrGfOzyA_IJH0in8rmYd07um_N97PTkSFRi74YSpv9NQunm63xUvOCn7RJMa7CqTi2m9WvW.uR6.ZxFJG93t6lMYRkaEjdBR2zAwKmPRz76Zw4hKYJ66vqrvRkcWarchoP7vZWYemP8Y12Ui5UPGvHw4YM1bbnCQ_SAm33NPcZw9m6RVKGvQKdX_ol5Ecwn3szpK8335Jht0cJY8UpaKiy.VpwqS.2jud4K4JVR2u3p2ILpGJzEL3cP6FtCBK2rdFNMirI8.f4Fs619uh5Pk_OF_EQXjhABdLcIREQYv9fu4NDh9CiQi.NCdALnQD1pIrsXih._.Ct.tyRI5eFoQt33YuO7VmxrfIKqLpBcn.tHFNYv_iVwlwPcNkSCJOi2ykmlJ7beV1OHwW0QU_dj1Zswa.uriaFXKGpMGXnI",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--t-84T-uh--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/n1xrih5wc4x8cu8axb4r.jpg",
       "image_source_page": "https://reverb.com/item/93208679-wampler-phenom-distortion-2022-present-navy"
     },
     {
@@ -42825,7 +42848,9 @@
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Way Huge/Russian-Pickle.md"
+      "research_record": "./research/pedals/Way Huge/Russian-Pickle.md",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c69914dedd6ec/1790364301234/S1bZNPXkKRhihxBvENea7SiIBOi_3r6y9cpWD.2d3aU-1790364301-1.3.1.1-F.ArVoYf.3jQhFwWLfwHq.V7BjU.1nL509NddpfCXmvN80AuAWNdIpDYJDgVt.ptqVUXKhIAo6VK6RxXoo5KoSAzsviQ2qYdWtrfpfi3AAg6OfgzZhCpzhpXQ7uyv32KKnSkQBkxMebhcUzWSn8pI20BBkjh14u.RvCe7lDsZ1q51QBOI3n75fDKbzqEm2m1oF.J.aDnrAvl1opRXxq0_.IT7C6UYmKq.y9R4XFcaZ3FVPfBBG0FeF38cz7eDzhyKTkihaAiFsP4E_IV.cLj.D2ysL2P25YbfozyIg4OBEDq4pdhsxrlZgXKixPXrgcdO4Q0BBatHqwETzIlmGJA7HQ4n9bxQwZ2SgpvlpO_fRT.yjiWPJaoFRh.6auPmU63X52El3_upkimY4tazPewtT81jHGgPcni9WcpHVClA56xYKRysLhnZtOOC7314dpXbuQhPAmKIjkYt3O0WL6.VDM.v_w6h1wKxF3b9edFwvz_OUX5g9A8YgtIcHn3.LoNRWnFizr0Z21xFXFbSdpQC5dVmCcsQZvTYeJLwBEEUiVaqGGIpEKfLqeQ9oYKVzLtrFRknVAjEJgb8B64Qxz383Jaj5spp4zwH0UBD.1VRCFZmQ4RPlYbOsab_.jBrGk7g2ya3fNzVWd0BltK4.tPDv28l3vDoXTg0PpNwSpNzQvpLBUyVXM4SPonKeGkxStSxcN_O99LWiJ6cdUrTFrFIZnub5tI7_ko8i7eQ1YHSWQ",
+      "image_source_page": "https://reverb.com/item/97473107-way-huge-russian-pickle-whe-408"
     },
     {
       "company": "Way Huge",
