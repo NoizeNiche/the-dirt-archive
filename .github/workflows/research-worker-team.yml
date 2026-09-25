@@ -133,6 +133,9 @@ jobs:
             echo "Research publication race; rebuilding from newest main (attempt $attempt/5)."
             git fetch origin main
             git reset --hard origin/main
+            # Preserve the downloaded worker artifacts across the race, then
+            # reconstruct the verified inbox from those artifacts before synthesis.
+            python scripts/research-foreman.py
             python scripts/synthesize-research-inbox.py
             python scripts/sync_prp_catalog.py
             python scripts/sync-prp-tracker.py
