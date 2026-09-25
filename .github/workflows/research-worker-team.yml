@@ -192,24 +192,27 @@ jobs:
               if git diff-tree --no-commit-id --name-only -r HEAD | grep -Eq '^(research/pedals/|research/PEDAL_INDEX\.json|index\.html|pedal-detail\.html)'; then
                 echo "Canonical public research data changed; dispatching Pages deployment."
                 published_sha="$(git rev-parse HEAD)"
+                dispatched_at="$(date -u +%s)"
                 gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main
-                echo "Waiting for production deployment of $published_sha."
+                echo "Waiting for production deployment containing $published_sha."
                 deadline=$((SECONDS+600))
+                git fetch origin main --quiet
                 while [ "$SECONDS" -lt "$deadline" ]; do
-                  run="$(gh run list --workflow deploy-pages.yml --commit "$published_sha" --limit 1 --json databaseId,status,conclusion --jq '.[0] // empty')"
-                  if [ -n "$run" ]; then
-                    status="$(printf '%s' "$run" | python -c 'import json,sys; x=json.load(sys.stdin); print(x.get("status",""))')"
-                    conclusion="$(printf '%s' "$run" | python -c 'import json,sys; x=json.load(sys.stdin); print(x.get("conclusion") or "")')"
-                    echo "Deployment status: $status / $conclusion"
-                    if [ "$status" = "completed" ]; then
-                      [ "$conclusion" = "success" ] || { echo "Production deployment failed."; exit 1; }
-                      echo "Production deployment verified for $published_sha."
-                      exit 0
+                  deployed="$(gh run list --workflow deploy-pages.yml --branch main --limit 20 --json databaseId,headSha,status,conclusion --jq '.[] | select(.status=="completed" and .conclusion=="success") | "\(.databaseId) \(.headSha)"' | while read -r run_id deployed_sha; do
+                    [ -n "$deployed_sha" ] || continue
+                    if git merge-base --is-ancestor "$published_sha" "$deployed_sha" 2>/dev/null; then
+                      echo "$run_id $deployed_sha"
+                      break
                     fi
+                  done)"
+                  if [ -n "$deployed" ]; then
+                    echo "Production deployment verified for $published_sha via descendant deployment $deployed."
+                    exit 0
                   fi
                   sleep 10
+                  git fetch origin main --quiet
                 done
-                echo "Timed out waiting for production deployment."
+                echo "Timed out waiting for production deployment containing $published_sha."
                 exit 1
               fi
               exit 0
