@@ -247,43 +247,10 @@ const path = require('node:path');
               encodeURIComponent(builderCanaryEntry.pedal),
               {waitUntil:'networkidle'}
             );
-            console.log('Detail runtime diagnostics:', JSON.stringify(await page.evaluate(() => ({
-              archiveDirtTypes: typeof ARCHIVE_DIRT_TYPES,
-              loadCatalog: typeof loadCatalog,
-              isCatalogEntry: typeof isCatalogEntry,
-              detailScriptLoaded: typeof renderPageNav,
-              pageBuilders: !!document.querySelector('#pageBuilders'),
-              pageBuilderChildren: document.querySelector('#pageBuilders')?.children.length || 0
-            })));
-            if (pageErrors.length || consoleErrors.length) {
-              console.log('Detail runtime errors:', JSON.stringify({
-                consoleErrors: consoleErrors.slice(-10),
-                pageErrors: pageErrors.slice(-10)
-              }));
-            }
-            try {
-              await page.waitForFunction(() => {
-                const nav = document.querySelector('#pageBuilders');
-                return !!nav && nav.children.length > 0;
-              }, null, {timeout: 10000});
-            } catch (error) {
-              const state = await page.evaluate(() => ({
-                url: location.href,
-                pageBuilderExists: !!document.querySelector('#pageBuilders'),
-                pageBuilderHtml: document.querySelector('#pageBuilders')?.innerHTML || '',
-                name: document.querySelector('#name')?.textContent || '',
-                builder: document.querySelector('#builder')?.textContent || ''
-              }));
-              throw new Error(
-                'Detail builder navigation did not initialize at ' + state.url +
-                '; pageBuilders=' + state.pageBuilderHtml.slice(0, 500) +
-                '; name=' + state.name +
-                '; builder=' + state.builder +
-                '; consoleErrors=' + JSON.stringify(consoleErrors.slice(-5)) +
-                '; pageErrors=' + JSON.stringify(pageErrors.slice(-5)) +
-                '; cause=' + error.message
-              );
-            }
+            await page.waitForFunction(() => {
+              const nav = document.querySelector('#pageBuilders');
+              return !!nav && nav.children.length > 0;
+            }, null, {timeout: 10000});
 
             const activeBuilderLinks = page.locator('.pageBuilderLink.active');
             const activePageBuilders = await activeBuilderLinks.allTextContents();
