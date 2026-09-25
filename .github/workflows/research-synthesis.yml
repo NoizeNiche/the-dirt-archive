@@ -6,6 +6,7 @@ on:
     paths:
       - 'research/RESEARCH_INBOX/**'
       - 'scripts/synthesize-research-inbox.py'
+      - 'research/RESEARCH_KICK'
   workflow_dispatch:
 
 permissions:
