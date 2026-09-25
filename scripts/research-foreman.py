@@ -7,7 +7,10 @@ inbox for the main research pass.
 """
 import json
 import re
+import sys
 from pathlib import Path
+
+sys.stdout.reconfigure(errors="backslashreplace")
 
 ART=Path("research-evidence")
 INBOX=Path("research/RESEARCH_INBOX")
