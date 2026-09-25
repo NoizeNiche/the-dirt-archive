@@ -24538,7 +24538,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/danelectro/black-coffee-metal-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Black Coffee Metal Distortion.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c55f9198403c2/1790363498676/napdJuLMZJ6XaE8PdqjWKBeKFPYByAOa6sNQJ4cs1B0-1790363498-1.3.1.1-d01SauK6ceFajT5IvJbWnElt.br9vwqf3q9l4JnTKMgvqOL4Z5R_EOtYFv_NmQmOKDtrLuDikKmNklj0sh6hMkLufv7HzzeifDOa0PlAXghE9tGBYrWHL6l_XUQFynx8nDYxtXBUu3fI2IEygBscH2_Z3lEDffX0GVdn9T4LM8_zTIjdfvJn9Mgk23B6FRVvgh.m3jjSoK6glqjLF8pmnZsy8eJXwtVUW5t_01vhXv3xPxYdtFdQbQaGgvBa4MiWPDgPc7xBWXGZab4LTfVCFw4Ff7LoYTlLJk2Z_tTeMR.fKEDV0480C3zUjt3aLgLhjN0StaVk1szmy7zwFk4pr.FDJ887wynENlI47grS2VnRLLmtSuq94gpnlaE672mB1DNxfU9yEKCLCZ.1KMJ9pm.yefcPWL46z0W7APsY.vK2Fd.PRkcLkRNh8rmXShB6TVuzoggJE0k3QJrIqYts4TgpTqR_cBy4mwv4YmIgC.HZYPTA1K9zR3DpQ0dyfFkIzlehMzdheyU.ciDPFtPfUS.QA24IwebjQNJahOsVufRhlNJMA4l.kpGfAa_Otkv7IR8rmU7Ik3_uzgVRYkI9QwQpWyTgc1OMnH1CmJjOCruLd4MvGtefTOZDk.zVLMeNf0dHZA4iq5iTrDjIlqp_h6uGda.4AXsAkZEyM9gElPpHY_5YXuP6b53BMWDLO9Jh9R7TfS95HPq6cfjaIA8sgZCuRy0o7ocYBafGx5Rnyek",
@@ -24570,7 +24570,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/danelectro/cash-cow-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Cash Cow Overdrive.md"
     },
@@ -25186,7 +25186,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/death-by-audio/absolute-destruction/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Absolute Destruction.md"
     },
@@ -25320,7 +25320,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/death-by-audio/octave-clang-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Octave Clang V2.md"
     },
@@ -25383,7 +25383,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/decibelics/big-klone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Decibelics/Big Klone.md"
     },
@@ -25672,7 +25672,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/digitech/screamin-blues-overdrive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DigiTech/Screamin' Blues Overdrive / Distortion.md"
     },
@@ -25683,7 +25683,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/digitech/x-series-bass-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DigiTech/X-Series Bass Driver.md"
     },
@@ -25725,7 +25725,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/digitech/x-series-tone-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DigiTech/X-Series Tone Driver.md"
     },
@@ -25889,7 +25889,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/fx100-even-harmonic-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/FX100 Even Harmonic Overdrive.md"
     },
@@ -25970,7 +25970,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/fx56-american-metal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/FX56 American Metal.md"
     },
@@ -26030,7 +26030,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/fx70-metal-x/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/FX70 Metal X.md"
     },
@@ -26070,7 +26070,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/gonkulator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Gonkulator.md"
     },
@@ -26154,7 +26154,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/overdrive-preamp-250/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Overdrive Preamp 250.md"
     },
@@ -26164,7 +26164,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/overdrive-preamp-250-x/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Overdrive Preamp 250-X.md"
     },
@@ -26224,7 +26224,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dophix/michelangelo-gold/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dophix/Michelangelo Gold.md"
     },
@@ -26234,7 +26234,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/dr-no-effects/turd-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dr. No Effects/Turd Fuzz.md"
     },
@@ -26451,7 +26451,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/dwarfcraft-devices/baby-thundaa-baby-thunder/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Baby Thundaa / Baby Thunder.md"
     },
@@ -26553,7 +26553,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/dwarfcraft-devices/rot-yr-brain/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Rot Yr Brain.md"
     },
