@@ -1,0 +1,23 @@
+{
+  "builder": "Spaceman Effects",
+  "pedal": "Charon v2 Mod",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://spacemaneffects.com/products/charon-v2-mod",
+      "title": "Charon v2 Mod: GERMANIUM + SILICON FUZZ - Spaceman Effects American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Visa",
+      "h1": "Charon v2 Mod: Ge+Si Fuzz",
+      "excerpt": "Edition (color): Silver Gold Buy Now",
+      "host": "spacemaneffects.com"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Spaceman-Effects/Charon-v2-MOD/8461094363/",
+      "title": "Charon v2 MOD by Spaceman Effects | RockBoard | PedalPedia",
+      "h1": "Charon v2 MOD",
+      "excerpt": "",
+      "host": "www.rockboard.de"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
