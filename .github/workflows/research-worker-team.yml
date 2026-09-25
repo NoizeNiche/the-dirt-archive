@@ -100,12 +100,38 @@ jobs:
 
           # GITHUB_TOKEN pushes do not trigger another workflow, so synthesis
           # must happen in this same controlled publication pass.
+          before_researched="$(python - <<'PY'
+          import csv
+          with open("research/PRP_TRACKER.csv", newline="", encoding="utf-8") as fh:
+              print(sum(1 for r in csv.DictReader(fh) if r.get("Pedal Info") == "DONE"))
+          PY
+          )"
           python scripts/synthesize-research-inbox.py
           python scripts/sync_prp_catalog.py
           python scripts/sync-prp-tracker.py
           python scripts/sync-photo-backlog.py
           python scripts/build-research-queue.py
           python scripts/validate-archive.py
+
+          staged_research="$(python - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path("research-evidence/foreman-summary.json")
+          print(int(json.loads(p.read_text(encoding="utf-8")).get("staged",0)) if p.exists() else 0)
+          PY
+          )"
+          after_researched="$(python - <<'PY'
+          import csv
+          with open("research/PRP_TRACKER.csv", newline="", encoding="utf-8") as fh:
+              print(sum(1 for r in csv.DictReader(fh) if r.get("Pedal Info") == "DONE"))
+          PY
+          )"
+          delta=$((after_researched-before_researched))
+          echo "Canonical research delta: before=$before_researched after=$after_researched delta=$delta; foreman staged=$staged_research."
+          if [ "$staged_research" -ne "$delta" ]; then
+            echo "ERROR: verified evidence did not map one-for-one into new canonical research records."
+            exit 1
+          fi
 
           git add research/RESEARCH_INBOX research/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
           if git diff --cached --quiet; then
@@ -119,7 +145,26 @@ jobs:
             if git push origin main; then
               if git diff-tree --no-commit-id --name-only -r HEAD | grep -Eq '^(research/pedals/|research/PEDAL_INDEX\.json|index\.html|pedal-detail\.html)'; then
                 echo "Canonical public research data changed; dispatching Pages deployment."
+                published_sha="$(git rev-parse HEAD)"
                 gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main
+                echo "Waiting for production deployment of $published_sha."
+                deadline=$((SECONDS+600))
+                while [ "$SECONDS" -lt "$deadline" ]; do
+                  run="$(gh run list --workflow deploy-pages.yml --commit "$published_sha" --limit 1 --json databaseId,status,conclusion --jq '.[0] // empty')"
+                  if [ -n "$run" ]; then
+                    status="$(printf '%s' "$run" | python -c 'import json,sys; x=json.load(sys.stdin); print(x.get("status",""))')"
+                    conclusion="$(printf '%s' "$run" | python -c 'import json,sys; x=json.load(sys.stdin); print(x.get("conclusion") or "")')"
+                    echo "Deployment status: $status / $conclusion"
+                    if [ "$status" = "completed" ]; then
+                      [ "$conclusion" = "success" ] || { echo "Production deployment failed."; exit 1; }
+                      echo "Production deployment verified for $published_sha."
+                      exit 0
+                    fi
+                  fi
+                  sleep 10
+                done
+                echo "Timed out waiting for production deployment."
+                exit 1
               fi
               exit 0
             fi
