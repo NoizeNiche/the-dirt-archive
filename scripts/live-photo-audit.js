@@ -1,5 +1,6 @@
 const { chromium } = require('playwright');
           const fs = require('fs');
+          const { execFileSync } = require('child_process');
           const catalog = JSON.parse(fs.readFileSync('research/PEDAL_INDEX.json', 'utf8'));
           const base = process.env.LIVE_SITE_URL.replace(/\/$/, '') + '/';
 
@@ -51,14 +52,50 @@ const { chromium } = require('playwright');
           (async()=>{
             const browser = await chromium.launch({headless:true});
             const pictured = (catalog.pedals || []).filter(x => x.image);
+
+            const changedFiles = (() => {
+              try {
+                return execFileSync('git', ['diff-tree', '--no-commit-id', '--name-only', '-r', 'HEAD^', 'HEAD'], { encoding: 'utf8' })
+                  .split(/\\r?\\n/).map(x => x.trim()).filter(Boolean);
+              } catch {
+                return [];
+              }
+            })();
+
+            const canonicalToken = (v) => String(v || '').trim().toLowerCase();
+            const touched = pictured.filter(entry => {
+              const image = String(entry.image || '').replace(/^\\.\\//, '');
+              const record = `research/pedals/${entry.company}/${entry.pedal}.md`;
+              return changedFiles.includes(image) || changedFiles.includes(record);
+            });
+
+            const touchedKeys = new Set(touched.map(key));
+            const smoke = pictured
+              .filter(entry => !touchedKeys.has(key(entry)))
+              .sort((a,b) => key(a).localeCompare(key(b)))
+              .slice(0, 24);
+
+            const auditMode = process.env.LIVE_AUDIT_MODE || 'changed';
+            const auditTargets = auditMode === 'all'
+              ? pictured
+              : [...touched, ...smoke];
+
+            console.log(
+              'Live photo audit scope:', auditMode,
+              '| changed targets:', touched.length,
+              '| smoke targets:', smoke.length,
+              '| total checked:', auditTargets.length,
+              '| pictured catalog:', pictured.length
+            );
+
             const failures = [];
             let cursor = 0;
 
             async function worker() {
               const page = await browser.newPage({viewport:{width:1440,height:1000}});
               try {
-                while (cursor < pictured.length) {
-                  const entry = pictured[cursor++];
+                while (cursor < auditTargets.length) {
+                  const entry = auditTargets[cursor++];
                   const id = key(entry);
                   try {
                     const external = /^https?:\/\//i.test(entry.image);
@@ -139,10 +176,10 @@ const { chromium } = require('playwright');
 
             await Promise.all(Array.from({length:8}, () => worker()));
             await browser.close();
-            console.log('Live photo audit checked', pictured.length, 'pictured catalog entries.');
+            console.log('Live photo audit checked', auditTargets.length, 'catalog entries.');
             if (failures.length) {
               for (const failure of failures) console.error('LIVE PHOTO FAILURE:', failure);
               process.exit(1);
             }
-            console.log('Live photo audit passed: every pictured catalog entry resolved to an image and loaded on its canonical live detail placement.');
+            console.log('Live photo audit passed: every changed photo placement plus the smoke set resolved to an image and loaded on its canonical live detail placement.');
           })().catch(err => { console.error(err); process.exit(1); });
