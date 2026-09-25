@@ -1,41 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T19:36:09.499077+00:00",
+  "generated_at": "2026-09-25T19:37:05.823606+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2078,
+    "researched": 2081,
     "pictured": 1948,
     "complete": 1948,
-    "research_pending": 1683
+    "research_pending": 1680
   },
   "next_target": {
-    "builder": "Critter Electronics",
-    "pedal": "CRR Klone",
+    "builder": "D&M",
+    "pedal": "Distortion",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Critter Electronics",
-      "pedal": "CRR Klone",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crotronics",
-      "pedal": "Firestarter",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crowella Effects",
-      "pedal": "Animated",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "D&M",
       "pedal": "Distortion",
@@ -165,6 +147,24 @@
     {
       "builder": "Danelectro",
       "pedal": "Wasabi Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Daredevil Pedals",
+      "pedal": "Almighty Bass",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Daredevil Pedals",
+      "pedal": "Chicago Way",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Daredevil Pedals",
+      "pedal": "COCKED & FEARLESS",
       "catalog_type": "",
       "research_record": ""
     }
