@@ -219,6 +219,20 @@ const path = require('node:path');
               encodeURIComponent(builderCanaryEntry.pedal),
               {waitUntil:'networkidle'}
             );
+            console.log('Detail runtime diagnostics:', JSON.stringify(await page.evaluate(() => ({
+              archiveDirtTypes: typeof ARCHIVE_DIRT_TYPES,
+              loadCatalog: typeof loadCatalog,
+              isCatalogEntry: typeof isCatalogEntry,
+              detailScriptLoaded: typeof renderPageNav,
+              pageBuilders: !!document.querySelector('#pageBuilders'),
+              pageBuilderChildren: document.querySelector('#pageBuilders')?.children.length || 0
+            })));
+            if (pageErrors.length || consoleErrors.length) {
+              console.log('Detail runtime errors:', JSON.stringify({
+                consoleErrors: consoleErrors.slice(-10),
+                pageErrors: pageErrors.slice(-10)
+              }));
+            }
             try {
               await page.waitForFunction(() => {
                 const nav = document.querySelector('#pageBuilders');
