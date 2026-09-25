@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T21:16:04.282145+00:00",
+  "generated_at": "2026-09-25T21:20:58.857521+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2205,
+    "researched": 2206,
     "pictured": 2141,
     "complete": 2141,
-    "research_pending": 1556
+    "research_pending": 1555
   },
   "next_target": {
     "builder": "D&M",
@@ -104,12 +104,6 @@
     },
     {
       "builder": "Devi Ever : FX",
-      "pedal": "Never Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Devi Ever : FX",
       "pedal": "Torn's Peaker",
       "catalog_type": "",
       "research_record": ""
@@ -165,6 +159,12 @@
     {
       "builder": "DOD Electronics",
       "pedal": "Bass Overdrive (FX91)",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "Carcosa Fuzz",
       "catalog_type": "",
       "research_record": ""
     }

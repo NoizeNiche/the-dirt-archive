@@ -1,0 +1,25 @@
+{
+  "builder": "Devi Ever : FX",
+  "pedal": "Never Drive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/88330918-official-devi-ever-fx-never-drive-high-gain-octavia-metal-fuzz",
+      "title": "|| OFFICIAL || devi ever : fx - Never Drive - high gain | Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rfIVRkysduY",
+      "title": "Devi Ever : FX Never Drive - YouTube",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.youtube.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
