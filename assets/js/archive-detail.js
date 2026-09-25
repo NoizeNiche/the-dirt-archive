@@ -198,7 +198,7 @@ function renderCatalogBaseline(item){
   const typeLabel=(item.types||[]).filter(Boolean).join(', ')||'Not classified';
   const source=String(item.source_page||'').trim();
   const hasLocalPhoto=typeof item.image==='string' && (item.image.startsWith('./assets/pedals/') || item.image.startsWith('assets/pedals/'));
-  const sourceHtml=/^https?:\\/\\//i.test(source)
+  const sourceHtml=/^https?:\/\//i.test(source)
     ? '<a href="'+esc(source)+'" target="_blank" rel="noopener">'+esc(source)+'</a>'
     : '<span>Not recorded in catalog</span>';
   $('research').innerHTML=
