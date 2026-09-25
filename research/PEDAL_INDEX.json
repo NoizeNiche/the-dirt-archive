@@ -23322,7 +23322,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/creepy-fingers-effects/blue-mood/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Blue Mood.md"
     },
@@ -23342,7 +23342,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/creepy-fingers-effects/crazy-creepy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Crazy Creepy.md"
     },
@@ -23372,7 +23372,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/creepy-fingers-effects/fuzzfreak/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Fuzzfreak.md"
     },
@@ -23392,7 +23392,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/creepy-fingers-effects/hold-tight/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Hold Tight.md"
     },
@@ -23402,7 +23402,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/creepy-fingers-effects/lonely-heart/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Lonely Heart.md"
     },
@@ -23412,7 +23412,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/creepy-fingers-effects/modern-sound/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Modern Sound.md"
     },
@@ -23422,7 +23422,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/creepy-fingers-effects/shatterbox/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Shatterbox.md"
     },
@@ -23442,7 +23442,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/crest-audio/fuzz-face/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crest Audio/Fuzz Face.md"
     },
@@ -23452,7 +23452,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/crestwood/crestwood-6-tr-fuzz-wah/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crestwood/Crestwood 6-Tr Fuzz Wah.md"
     },
@@ -23462,7 +23462,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/crestwood/crestwood-8-tr-fuzz-wah-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crestwood/Crestwood 8-Tr Fuzz Wah Pedal.md"
     },
@@ -23472,7 +23472,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/crestwood/crestwood-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crestwood/Crestwood Fuzz.md"
     },
@@ -23482,7 +23482,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/crews-maniac-sound/addict-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crews Maniac Sound/Addict OD.md"
     },
@@ -23492,7 +23492,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/crews-maniac-sound/dis-01-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crews Maniac Sound/DIS-01 Distortion.md"
     },
@@ -23502,7 +23502,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/crews-maniac-sound/genius-over-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crews Maniac Sound/Genius Over Drive.md"
     },
@@ -23512,7 +23512,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/crews-maniac-sound/quadrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crews Maniac Sound/Quadrive.md"
     },
@@ -23532,7 +23532,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/crews-maniac-sound/taco-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crews Maniac Sound/Taco Fuzz.md"
     },
@@ -23542,7 +23542,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/crews-maniac-sound/texas-tornado/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crews Maniac Sound/Texas Tornado.md"
     },
