@@ -194,6 +194,27 @@ function renderDemo(item){
     '<a class="action primary" href="'+esc(demo.url)+'" target="_blank" rel="noopener">Watch demo ↗</a>';
 }
 
+function renderCatalogBaseline(item){
+  const typeLabel=(item.types||[]).filter(Boolean).join(', ')||'Not classified';
+  const source=String(item.source_page||'').trim();
+  const hasLocalPhoto=typeof item.image==='string' && /^\\.?\\/assets\\/pedals\\//i.test(item.image);
+  const sourceHtml=/^https?:\\/\\//i.test(source)
+    ? '<a href="'+esc(source)+'" target="_blank" rel="noopener">'+esc(source)+'</a>'
+    : '<span>Not recorded in catalog</span>';
+  $('research').innerHTML=
+    '<div class="catalogBaseline">'+
+      '<p><strong>Catalog baseline</strong></p>'+
+      '<p>'+esc(item.company)+' · '+esc(item.pedal)+'</p>'+
+      '<dl>'+
+        '<dt>Dirt type</dt><dd>'+esc(typeLabel)+'</dd>'+
+        '<dt>Research status</dt><dd>Verified research pending</dd>'+
+        '<dt>Photo status</dt><dd>'+esc(hasLocalPhoto?'Local archive photo present':'No verified local archive photo yet')+'</dd>'+
+        '<dt>Catalog source</dt><dd>'+sourceHtml+'</dd>'+
+      '</dl>'+
+      '<p>Deeper pedal research is added in subsequent verified passes. No undocumented specifications are inferred into this baseline.</p>'+
+    '</div>';
+}
+
 function researchRecordUrl(path){
   const value=String(path||'');
   if(value.startsWith('http://') || value.startsWith('https://')) return new URL(value).href;
@@ -291,7 +312,7 @@ loadCatalog()
       .then(md=>{researchEl.innerHTML=renderMarkdown(md)})
       .catch(e=>{researchEl.innerHTML='<p>Pedal information could not be loaded.</p>';console.error(e)})
   }else{
-    researchEl.innerHTML='<p>Pedal information has not been added yet.</p>';
+    renderCatalogBaseline(item);
   }
 
   const link=contextIndexUrl();
