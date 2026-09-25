@@ -219,9 +219,20 @@ const path = require('node:path');
               encodeURIComponent(builderCanaryEntry.pedal),
               {waitUntil:'networkidle'}
             );
-            const activePageBuilders = await page.locator('.pageBuilderLink.active').allTextContents();
-            if (activePageBuilders.length !== 1 || !activePageBuilders[0].includes(String(builderCanaryEntry.company))) {
-              throw new Error('Detail builder navigation has an incorrect active selection.');
+            const activeBuilderLinks = page.locator('.pageBuilderLink.active');
+            const activePageBuilders = await activeBuilderLinks.allTextContents();
+            if (activePageBuilders.length !== 1) {
+              throw new Error('Detail builder navigation has an incorrect number of active selections: ' + activePageBuilders.length);
+            }
+            const activeBuilderHref = await activeBuilderLinks.first().getAttribute('href');
+            if (!activeBuilderHref) {
+              throw new Error('Detail builder navigation active selection is missing its destination.');
+            }
+            const activeBuilderUrl = new URL(activeBuilderHref, 'http://127.0.0.1:4173/index.html');
+            const activeBuilderParam = activeBuilderUrl.searchParams.get('builder') || '';
+            if (activeBuilderParam !== String(builderCanaryEntry.company)) {
+              throw new Error('Detail builder navigation has an incorrect active selection: expected ' +
+                String(builderCanaryEntry.company) + ' but got ' + activeBuilderParam + '.');
             }
 
             // Combined URL facets must work together using a real Fuzz entry.
