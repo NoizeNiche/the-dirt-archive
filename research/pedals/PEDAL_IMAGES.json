@@ -12037,7 +12037,7 @@
   {
     "builder": "Champion City Effects",
     "pedal": "Cosmic Owl",
-    "image": null,
+    "image": "./assets/pedals/champion-city-effects/cosmic-owl/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Champion City Effects/Cosmic Owl.md"
   },
@@ -15097,7 +15097,7 @@
   {
     "builder": "Cosmosound",
     "pedal": "E-7 Fearfully-Sound",
-    "image": null,
+    "image": "./assets/pedals/cosmosound/e-7-fearfully-sound/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cosmosound/E-7 Fearfully-Sound.md"
   },
