@@ -15724,7 +15724,7 @@
   {
     "builder": "Creepy Fingers Effects",
     "pedal": "Harakiri",
-    "image": null,
+    "image": "./assets/pedals/creepy-fingers-effects/harakiri/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Creepy Fingers Effects/Harakiri.md",
     "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4088a30f9edc514/1790323694472/ulFjvnQb4tbCKF86Bm.f.NSm_Hfpoc.LIhH5z4vmItc-1790323694-1.3.1.1-h.lFlKeK0wvor8DK74OD7EmQruSUp18ZlKXxO80GtZctDJjVgQVsBHP17oXbpCgEpfcd.xzhw.wIQ_WmyVIbctdK0jshttNPxBjKUsUvKoQwz.9WwNsYC33ju8x9qdX0nXsjZan7Vg4xEjczD1YhingKpBO8GfgzLF8xSrC_A4L.tDACPglxpYQuuU6xTvumAehTTxH_T1t0IfzFv68SrGi4lFbcWZkW8OmORKcI_4ox2lbkq1biQpkmM21oqOh31.WhrAzRm7F0ZgDQ3pZ17oW6LJSdq0DW24GEjZSfyrdsFmAdWHEzSG8aMWVnon1aBkiXh0rLxEoH6HYTcpK7PzWkH8GnTRk.LoLcFjIpN4BvmIxaKptHM5vOH5HdEZls3CNo5nkuHlbXT7h06MO08yzwzXld0q1zRJivhYsfZplo1JuTkpYMnydBvGZPoXhEVO1CyJpP_KH8Fsvk3FgXdfo6bc.ezlMTlww5u4scWYkpyQS4IkdcflBGBxnGreG0W12ALRAIf2A2ABx.CoGr5170M7D6lTgsAxWmnID6RuSS3OdouL3B0IkOVw50pSqFQuKHJOhRLwia5DmqFqXBaEUxl0BOLwpqFWdX2omt06PTKvMTA60AGcU7AXRoSrgvvCeNRmhWoHmgUhxNcyTtvhTflVU5LLhRjMV6m8OY76py3V8lto_DmPejLKCyiRCAJScBCA5GjMoa0_VZsA38azAvrKuD3S_gg20UjQuJsVw",
@@ -15993,7 +15993,7 @@
   {
     "builder": "Crossfire",
     "pedal": "DST-301 Distortion",
-    "image": null,
+    "image": "./assets/pedals/crossfire/dst-301-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crossfire/DST-301 Distortion.md",
     "image_source_url": "https://www.ultimate-guitar.com/static/article/gear/5/5595_0_ver0.jpg@142",
@@ -16079,7 +16079,7 @@
   {
     "builder": "Crowther Audio",
     "pedal": "Hot Cake",
-    "image": null,
+    "image": "./assets/pedals/crowther-audio/hot-cake/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crowther Audio/Hot Cake.md",
     "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4088aa41b422e19/1790323712883/M1UMdJJMSFJ_qmFiSx1HXfYBRIxYmwXqaqtWzMstVK4-1790323712-1.3.1.1-0zGZNVJj57HTuorHa3vxtnEPbpQ7..kGQ4ZVY2zuW.UrGydI9EWM2UPKi_aWRBOMaqKMz_S7ihU8yKhZv6d4Wsl5Nc0PHCaj7nfPtXVIqbkNdFHVdmAc.7SUgImWJBA9oCOx5fkpC5JIfTRoF3rRTtdE.ekGS5_VmKaAjUBFGo_sG6ZR929oxcRgSHFTpVVq14JseeqWI_sbrjDWby6C0m7K59O.TqE2Nva9Jk.9AXilJbvlfQkZStRAmOaVYzKpTKgrKAdXN85oRKCq_bMwdR1bQt4J9VeQamwaTxOCKRVCAw2ZykTunRXc7r32OCY1luPRsZpip8Rl4ow5g_UREE1yFVJLqNyy3shUN2se2G0xJNwdwE8865oz00kao9NZQ_d2x1hIXg0Eg_KkI16vWr0SUxqC0oXwX6TBtrAs6xSm.mcozjkmRcXDUbPe0Ed0p6xPQkD7DlKBg.oasiOvraxHOWd_YDtufrwkFLdT5fEJXJWFHoNxVsxBXuszflsoEO.BItWBHgD3dhSWTL27Rm8GEwr7qdsQNC4fCtVw9_14b.FXxelWZA_ytMpq8BueF2rPWxBXUzLRvN4wHOWtrLVIKVI5r96hgfEeSSWZuvrSvplOeaLHoEk7M9H_hE5icHukVNU9CeXtUH2ptwloK2u2a5_ZlPWDCJvscl6SfG.5BSuLBMj__kuyizh0PBZd4XGq642eaxjZNt8a7xdf5pMXqK.tF4ERVFqURdWpDBg",
@@ -16144,7 +16144,7 @@
   {
     "builder": "Cryptid Effects",
     "pedal": "Indrid Cold",
-    "image": null,
+    "image": "./assets/pedals/cryptid-effects/indrid-cold/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cryptid Effects/Indrid Cold.md"
   },
@@ -16221,7 +16221,7 @@
   {
     "builder": "Cultco",
     "pedal": "001 Medium Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cultco/001-medium-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cultco/001 Medium Overdrive.md"
   },
@@ -16249,7 +16249,7 @@
   {
     "builder": "Cunningham Amps",
     "pedal": "MKII Professional Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cunningham-amps/mkii-professional-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cunningham Amps/MKII Professional Fuzz.md"
   },
@@ -16305,7 +16305,7 @@
   {
     "builder": "Cusack Music",
     "pedal": "Screamer Fuzz V3",
-    "image": null,
+    "image": "./assets/pedals/cusack-music/screamer-fuzz-v3/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cusack Music/Screamer Fuzz V3.md",
     "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4088aa67a5422f6/1790323713266/hodKWSfQYznLaX..gLwwcy47jfctCh_fkkXOInjd.m8-1790323713-1.3.1.1-4MFquCvbFuP3d2z6h.nS0W.x5.lNJcGp19YtTjseu8cB5Ni1MJ8cMWhQiBOI5SKyn_GNuQxp17oey9A3uvbiCPvqpRsJrnXjQA_JAahAMEqIRSUe.CjTT7WeNYcMvKbNJYyifsBl2Ua5FjTKqu0vRYYo882G9Kf70MlOw8wkemheZPoIImu4fUzNjVmzx_7xPJU76Ap9cN_W8sgsHmIyUfTP7TIenOfRjGBuMwjVdV4WdF4sQAvOiMfRrQ7iTsuGFNdrDxtpUiGYxrTcDZaLRAuFj3y.y2dhk1H7Acy1WuvlNcmkumzOnAVfIBt6ShTq00ycTo40bIikK58otj6dhzTK8.dp_v92o9zzRoJr6Ny6XqnSylzbJ4gjIqjCAdGrAGwXA8KcYOupnwaYUx7Jz_aC5iWqywcyJHITZHbJo94MXeE_0fYuNcWVKxzD3lfjGtVsqwEBz.kyeV5gw.ZzVZ9AZNEuNkhEoXJMadACdMJ_c.g0li7_rZnXgM.HC5jjzKfQApRWXn0wSgJS34zEoZbk8ejMDHIHWJ_SxbaffsbcVnpnXoNJ9nulBh8LDblrwubyMnNao3v2JDnkF8P_VuA5WXy.hB83ic2Ms7yA.b6OfbBzuzMWpmZRLHeLNSazwWvDqd3jSLhfVt2ChixnhnJZhUw2LMOdcGr14ZUtZnvDMSdj.0cUv_sNsZZ17RNQvJtr9wtF.dlbtk0nGvsP52Q0CUJf7akn7X9otPVooYQ",
@@ -26079,7 +26079,7 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "Screw Driver Mini Dlx",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/screw-driver-mini-dlx/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Screw Driver Mini Dlx.md"
   },
@@ -26093,7 +26093,7 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "Skunk Drive",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/skunk-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Skunk Drive.md"
   },
@@ -26226,7 +26226,7 @@
   {
     "builder": "Spaceman Effects",
     "pedal": "Charon v2 Mod",
-    "image": null,
+    "image": "./assets/pedals/spaceman-effects/charon-v2-mod/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Spaceman Effects/Charon v2 Mod.md"
   },
@@ -26289,7 +26289,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Alabaster",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/alabaster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Alabaster.md"
   },
@@ -26331,7 +26331,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Civil War",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/civil-war/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Civil War.md"
   },
@@ -26352,14 +26352,14 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Dirty Rooster",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/dirty-rooster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Dirty Rooster.md"
   },
   {
     "builder": "Stomp Under Foot",
     "pedal": "Divided Drive",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/divided-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Divided Drive.md"
   },
@@ -26373,7 +26373,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Full Powered Halo",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/full-powered-halo/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Full Powered Halo.md"
   },
@@ -26436,7 +26436,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Overdrive 8-Fifty",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/overdrive-8-fifty/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Overdrive 8-Fifty.md"
   },
@@ -26534,7 +26534,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Sonic Warfare",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/sonic-warfare/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Sonic Warfare.md"
   },
