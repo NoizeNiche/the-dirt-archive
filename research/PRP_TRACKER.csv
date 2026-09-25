@@ -1713,13 +1713,13 @@ Cosmic Sound FX,The Fuzz Machine,Fuzz,NEEDED,NEEDED,NEEDED,
 Cosmic Sound FX,The Ladyland Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Cosmic Sound FX,The MkII,Fuzz,NEEDED,NEEDED,NEEDED,
 Cosmic Terror,Centerror,Overdrive,DONE,DONE,DONE,./research/pedals/Cosmic Terror/Centerror.md
-Cosmic Terror,Cosmic Drive,Overdrive,NEEDED,NEEDED,NEEDED,
+Cosmic Terror,Cosmic Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Cosmic Terror/Cosmic Drive.md
 Cosmic Terror,Cult OD,Overdrive,DONE,DONE,DONE,./research/pedals/Cosmic Terror/Cult OD.md
 Cosmic Terror,Droog,Overdrive,DONE,DONE,DONE,./research/pedals/Cosmic Terror/Droog.md
-Cosmic Terror,Low Frequency Destroyer,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
-Cosmic Terror,Sonic Doom,Fuzz,NEEDED,NEEDED,NEEDED,
-Cosmic Terror,Sonic Rat,Distortion,NEEDED,NEEDED,NEEDED,
-Cosmic Terror,The Butcher,Fuzz,NEEDED,NEEDED,NEEDED,
+Cosmic Terror,Low Frequency Destroyer,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cosmic Terror/Low Frequency Destroyer.md
+Cosmic Terror,Sonic Doom,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cosmic Terror/Sonic Doom.md
+Cosmic Terror,Sonic Rat,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Cosmic Terror/Sonic Rat.md
+Cosmic Terror,The Butcher,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cosmic Terror/The Butcher.md
 Cosmodio Instruments,Glitch Witch - Auto-Modulated Logic Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cosmodio Instruments/Glitch Witch - Auto-Modulated Logic Fuzz.md
 Cosmodio Instruments,Pet Yeti,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Cosmodio Instruments/Pet Yeti.md
 Cosmosound,CSE-14 Distortion/Volume,Distortion,NEEDED,NEEDED,NEEDED,

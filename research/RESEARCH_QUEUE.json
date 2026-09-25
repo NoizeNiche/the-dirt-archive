@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T03:08:37.257267+00:00",
+  "generated_at": "2026-09-25T03:09:38.291791+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1715,
+    "researched": 1720,
     "pictured": 1657,
     "complete": 1657,
-    "research_pending": 2050
+    "research_pending": 2045
   },
   "next_target": {
     "builder": "Cosmic Sound FX",
@@ -33,36 +33,6 @@
     {
       "builder": "Cosmic Sound FX",
       "pedal": "The MkII",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cosmic Terror",
-      "pedal": "Cosmic Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cosmic Terror",
-      "pedal": "Low Frequency Destroyer",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cosmic Terror",
-      "pedal": "Sonic Doom",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cosmic Terror",
-      "pedal": "Sonic Rat",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cosmic Terror",
-      "pedal": "The Butcher",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +135,36 @@
     {
       "builder": "Couch Electronics",
       "pedal": "Baker's Dozen Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Couch Electronics",
+      "pedal": "Blue Whale Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coura",
+      "pedal": "Gainor",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Coura",
+      "pedal": "Raizor",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Craftros Pedals",
+      "pedal": "Musica Rev.D",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "AD-1 Crunch + Atom Distortion",
       "catalog_type": "",
       "research_record": ""
     }
