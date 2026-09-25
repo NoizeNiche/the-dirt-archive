@@ -429,10 +429,10 @@ const path = require('node:path');
               const recordPath = 'research/pedals/' + String(entry.company || '') + '/' + String(entry.pedal || '') + '.md';
               return changedResearchPaths.includes(recordPath);
             });
-            const changedKeys = new Set(changedResearchEntries.map(key));
+            const changedKeys = new Set(changedResearchEntries.map(entry => String(entry.company || '') + '\u0000' + String(entry.pedal || '')));
             const smokeResearchEntries = researchedParents
-              .filter(entry => !changedKeys.has(key(entry)))
-              .sort((a,b) => key(a).localeCompare(key(b)))
+              .filter(entry => !changedKeys.has(String(entry.company || '') + '\u0000' + String(entry.pedal || '')))
+              .sort((a,b) => (String(a.company || '') + '\u0000' + String(a.pedal || '')).localeCompare(String(b.company || '') + '\u0000' + String(b.pedal || '')))
               .slice(0, 24);
             const researchAuditMode = process.env.DEPLOY_RESEARCH_AUDIT_MODE || 'changed';
             const auditResearchEntries = researchAuditMode === 'all'
