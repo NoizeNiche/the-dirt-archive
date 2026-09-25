@@ -22338,7 +22338,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmic-sound-fx/the-ladyland-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmic Sound FX/The Ladyland Fuzz.md"
     },
@@ -22348,7 +22348,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmic-sound-fx/the-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmic Sound FX/The MkII.md"
     },
@@ -22399,7 +22399,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmic-terror/low-frequency-destroyer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmic Terror/Low Frequency Destroyer.md"
     },
@@ -22419,7 +22419,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmic-terror/sonic-rat/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmic Terror/Sonic Rat.md"
     },
@@ -22429,7 +22429,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmic-terror/the-butcher/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmic Terror/The Butcher.md"
     },
@@ -22439,7 +22439,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmodio-instruments/glitch-witch-auto-modulated-logic-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmodio Instruments/Glitch Witch - Auto-Modulated Logic Fuzz.md"
     },
@@ -22450,7 +22450,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmodio-instruments/pet-yeti/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmodio Instruments/Pet Yeti.md"
     },
@@ -22470,7 +22470,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmosound/cse-3-wah-wah-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmosound/CSE-3 Wah-Wah Distortion.md"
     },
@@ -22480,7 +22480,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmosound/distortion-whau-whau/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmosound/Distortion Whau-Whau.md"
     },
@@ -22490,7 +22490,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmosound/distortion-whau-whau-repeat/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmosound/Distortion Whau-Whau Repeat.md"
     },
@@ -22500,7 +22500,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmosound/e-6-powerful-sound/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmosound/E-6 Powerful Sound.md"
     },
@@ -22520,7 +22520,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cosmosound/e-8-wild-sound/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmosound/E-8 Wild Sound.md"
     },
@@ -22530,7 +22530,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/costalab/bad-angel/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Bad Angel.md"
     },
@@ -22541,7 +22541,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/costalab/custom-muff-classic/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Custom Muff Classic.md"
     },
@@ -22552,7 +22552,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/costalab/custom-muff-evo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Custom Muff EVO.md"
     },
@@ -22563,7 +22563,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/costalab/dual-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Dual Drive.md"
     },
@@ -22574,7 +22574,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/costalab/good-devil/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Good Devil.md"
     },
@@ -22585,7 +22585,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/costalab/moon-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Moon Drive.md"
     },
@@ -22596,7 +22596,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/costalab/natural-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Natural Drive.md"
     },
@@ -22607,7 +22607,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/costalab/natural-drive-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Natural Drive MKII.md"
     },
@@ -22618,7 +22618,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/costalab/sun-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Sun Drive.md"
     },
@@ -22628,7 +22628,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/couch-electronics/baker-s-dozen-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Couch Electronics/Baker's Dozen Overdrive.md"
     },
@@ -22638,7 +22638,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/couch-electronics/blue-whale-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Couch Electronics/Blue Whale Overdrive.md"
     },
@@ -22658,7 +22658,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/coura/raizor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coura/Raizor.md"
     },
