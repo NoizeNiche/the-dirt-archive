@@ -16425,7 +16425,7 @@
   {
     "builder": "CUVAVE / M-VAVE",
     "pedal": "DIST British",
-    "image": null,
+    "image": "./assets/pedals/cuvave-m-vave/dist-british/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CUVAVE / M-VAVE/DIST British.md"
   },
@@ -16720,7 +16720,7 @@
   {
     "builder": "Danelectro",
     "pedal": "Wasabi Overdrive",
-    "image": null,
+    "image": "./assets/pedals/danelectro/wasabi-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Danelectro/Wasabi Overdrive.md"
   },
@@ -16943,7 +16943,7 @@
   {
     "builder": "DeadastronautFX",
     "pedal": "Black Triangle",
-    "image": null,
+    "image": "./assets/pedals/deadastronautfx/black-triangle/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DeadastronautFX/Black Triangle.md"
   },
