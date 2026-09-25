@@ -225,6 +225,8 @@ def main():
         ("targets = targets[:60]", fast_photo_workflow),
         ("Production deployment verified", fast_photo_workflow),
         ("Production deployment verified", parallel_photo_workflow),
+        ("Deployment image audit scope:", deploy_text),
+        ("imageAuditMode", deploy_text),
         ("dirt-image-cache", cache_workflow),
         ("cancel-in-progress: false", cache_workflow),
         ("dirt-research-synthesis", synth_workflow),
