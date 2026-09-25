@@ -48,6 +48,7 @@ def main():
     keys={(x.get("company"),x.get("pedal")) for x in catalog.get("pedals",[])}
     INBOX.mkdir(parents=True,exist_ok=True)
     staged=0; held=0
+    staged_files=[]
     for f in ART.rglob("*.json"):
         try: packet=json.loads(f.read_text(encoding="utf-8"))
         except Exception: continue
@@ -91,8 +92,9 @@ def main():
                 "next_action":"Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
             },ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
             staged+=1
+            staged_files.append(out.as_posix())
             print("STAGED",b,"/",p,"sources=",len(good))
-    summary = {"staged": staged, "held": held}
+    summary = {"staged": staged, "held": held, "staged_files": staged_files}
     Path("research-evidence/foreman-summary.json").write_text(
         json.dumps(summary, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
