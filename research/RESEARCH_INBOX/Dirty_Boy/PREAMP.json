@@ -1,0 +1,23 @@
+{
+  "builder": "Dirty Boy",
+  "pedal": "PREAMP",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.dirtyboy.co/products/dirtyboy-preamp",
+      "title": "PREAMP – Dirty Boy Co. American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Venmo Visa",
+      "h1": "PREAMP",
+      "excerpt": "PREAMP Regular price $349.00 USD Regular price Sale price $349.00 USD Unit price / per Sale Sold out Taxes included. Shipping calculated at checkout. Quantity ( 0 in cart) Decrease quantity for PREAMP Increase quantity for PREAMP Buy Now Shipping calculated after purchase. We will always use the most cost-effective insured shipping option available. Secure checkout via Stripe. Couldn't load pickup availability Refresh © 2026, Dirty Boy Co. Powered by Refund policy Privacy policy Terms of service Shipping policy Contact information Legal notice Choosing a selection results in a full page refresh. Opens in a new window.",
+      "host": "www.dirtyboy.co"
+    },
+    {
+      "url": "https://www.two-notes.com/en/product/dirty-boy-preamp/",
+      "title": "Dirty Boy® Preamp - Two notes",
+      "h1": "Dirty Boy® Preamp Dirty Boy® Preamp",
+      "excerpt": "",
+      "host": "www.two-notes.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
