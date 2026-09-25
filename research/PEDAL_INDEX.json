@@ -25502,7 +25502,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/deep-trip/capivara/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Deep Trip/Capivara.md"
     },
@@ -26653,7 +26653,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dwarfcraft-devices/spectacular-aenima/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Spectacular Aenima.md"
     },
