@@ -122,25 +122,32 @@ def main():
         (precise(x.get("builder")), precise(x.get("pedal"))): x
         for x in manifest
     }
+
+    # PEDAL_IMAGES.json is fully derived from the canonical catalog. Rebuild it
+    # in catalog order so stale identities cannot survive reconciliation.
+    # Preserve only manifest metadata that is not owned by the catalog itself.
+    rebuilt_manifest = []
+    catalog_owned = {
+        "builder", "pedal", "image", "image_source_page", "image_source_url",
+        "source_page", "research_record", "catalog_role", "parent_pedal",
+        "variation_name", "variation_type",
+    }
     for item in catalog.get("pedals", []):
         key = (precise(item.get("company")), precise(item.get("pedal")))
-        record = item.get("research_record") or ""
-        entry = manifest_by_key.get(key)
-        if entry is None:
-            manifest.append({
-                "builder": item.get("company"),
-                "pedal": item.get("pedal"),
-                "image": item.get("image"),
-                "source_page": item.get("source_page"),
-                "research_record": record,
-            })
-        else:
-            # Manifest image is the public/local asset pointer, not the provenance
-            # URL. Keep it exactly synchronized with the canonical catalog so an
-            # old external image value can never survive after the catalog changes.
-            entry["image"] = item.get("image")
-            if entry.get("research_record") != record:
-                entry["research_record"] = record
+        prior = manifest_by_key.get(key, {})
+        entry = {
+            "builder": item.get("company"),
+            "pedal": item.get("pedal"),
+            "image": item.get("image"),
+            "source_page": item.get("source_page"),
+            "research_record": item.get("research_record") or "",
+        }
+        for field in ("photo_status", "source"):
+            if field in prior:
+                entry[field] = prior.get(field)
+        rebuilt_manifest.append(entry)
+
+    manifest = rebuilt_manifest
 
     INDEX.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
