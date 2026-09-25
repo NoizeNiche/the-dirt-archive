@@ -1,0 +1,23 @@
+{
+  "builder": "Electronic Audio Experiments",
+  "pedal": "Greathammer",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.electronicaudioexperiments.com/pedals/greathammer",
+      "title": "Greathammer Bass Driver — Electronic Audio Experiments",
+      "h1": "Greathammer Greathammer",
+      "excerpt": "$249.00 The Electronic Audio Experiments Greathammer is a bass-focused overdrive that brings a distinct flavor of solid state thunder. With a gain control spanning a 50dB range, the Greathammer can be restrained or rowdy. We took cues from a beloved 1970s Canadian bass amplifier, but we did not shy away from redesigning entire circuit blocks from scratch. Without taking away the classic piano-like attack that defined 90s noise rock, we expanded the tonal range to suit more tasteful playing or filthy, down-tuned mayhem. Critically, our circuit can achieve far deeper low frequency extension than its progenitors—all without the unnatural, disconnected feel of a traditional clean blend. The Greathammer is equally effective in front of an amplifier or as a dedicated preamp. And, while we designed this with bass as a primary focus, it is quite striking on guitar as well. Color: Select Color Gray Acid Etch Gray Acid Etch Quantity: Add To Cart Electrical Specifications Bypass switching: Silent electronic switching with a high-headroom op amp buffer Input impedance @ 1Khz: 1MΩ Output impedance @ 1Khz: <1KΩ Power: 9VDC, 2.1mm center negative barrel. The current draw is 70mA . We recommend a regulated, isolated power supply rated for 100 mA minimum. The DC input is protected against reverse polarity and over-voltage up to 20V. Our pedals do not accept batteries. All Greathammer pedals come with our standard warranty. Download Manual (v1)",
+      "host": "www.electronicaudioexperiments.com"
+    },
+    {
+      "url": "https://coastsonic.com/products/electronic-audio-experiments-greathammer",
+      "title": "Electronic Audio Experiments Greathammer – Coast Sonic American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa",
+      "h1": "Electronic Audio Experiments Greathammer",
+      "excerpt": "Regular price $249.00 USD More stock coming soon By Electronic Audio Experiments Quantity Add to cart",
+      "host": "coastsonic.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
