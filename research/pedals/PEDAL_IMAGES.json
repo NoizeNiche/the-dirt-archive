@@ -15937,7 +15937,7 @@
   {
     "builder": "Critter Electronics",
     "pedal": "Model III Overdrive",
-    "image": null,
+    "image": "./assets/pedals/critter-electronics/model-iii-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Critter Electronics/Model III Overdrive.md"
   },
@@ -16044,7 +16044,7 @@
   {
     "builder": "Crotronics",
     "pedal": "Lost Temper",
-    "image": null,
+    "image": "./assets/pedals/crotronics/lost-temper/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crotronics/Lost Temper.md"
   },
@@ -16088,14 +16088,14 @@
   {
     "builder": "Crown",
     "pedal": "Super Fuzz",
-    "image": null,
+    "image": "./assets/pedals/crown/super-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crown/Super Fuzz.md"
   },
   {
     "builder": "Crown",
     "pedal": "W-Fuzz - 8-Transistor Fuzz-Wah",
-    "image": null,
+    "image": "./assets/pedals/crown/w-fuzz-8-transistor-fuzz-wah/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crown/W-Fuzz - 8-Transistor Fuzz-Wah.md"
   },
@@ -16118,7 +16118,7 @@
   {
     "builder": "CroyTone Audio Technologies",
     "pedal": "Hae Fuzz",
-    "image": null,
+    "image": "./assets/pedals/croytone-audio-technologies/hae-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CroyTone Audio Technologies/Hae Fuzz.md"
   },
@@ -16362,7 +16362,7 @@
   {
     "builder": "Custom 77",
     "pedal": "Push Me Pull Me",
-    "image": null,
+    "image": "./assets/pedals/custom-77/push-me-pull-me/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Custom 77/Push Me Pull Me.md"
   },
@@ -16748,7 +16748,7 @@
   {
     "builder": "Daredevil Pedals",
     "pedal": "COCKED & FEARLESS",
-    "image": null,
+    "image": "./assets/pedals/daredevil-pedals/cocked-fearless/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Daredevil Pedals/COCKED & FEARLESS.md"
   },
@@ -17027,7 +17027,7 @@
   {
     "builder": "Death By Audio",
     "pedal": "Germanium Filter",
-    "image": null,
+    "image": "./assets/pedals/death-by-audio/germanium-filter/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Death By Audio/Germanium Filter.md"
   },
@@ -17149,14 +17149,14 @@
   {
     "builder": "Deep Trip",
     "pedal": "Kryptone",
-    "image": null,
+    "image": "./assets/pedals/deep-trip/kryptone/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Deep Trip/Kryptone.md"
   },
   {
     "builder": "Demedash Effects",
     "pedal": "112+",
-    "image": null,
+    "image": "./assets/pedals/demedash-effects/112/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Demedash Effects/112+.md"
   },
@@ -17219,7 +17219,7 @@
   {
     "builder": "Devi Ever : FX",
     "pedal": "Krackle Fuzz",
-    "image": null,
+    "image": "./assets/pedals/devi-ever-fx/krackle-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Devi Ever : FX/Krackle Fuzz.md"
   },
@@ -17254,7 +17254,7 @@
   {
     "builder": "Devi Ever : FX",
     "pedal": "Vintage Fuzz Master",
-    "image": null,
+    "image": "./assets/pedals/devi-ever-fx/vintage-fuzz-master/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Devi Ever : FX/Vintage Fuzz Master.md"
   },
@@ -17386,7 +17386,7 @@
   {
     "builder": "Dirty Boy",
     "pedal": "The Magical MYSTERY FUZZ",
-    "image": null,
+    "image": "./assets/pedals/dirty-boy/the-magical-mystery-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Dirty Boy/The Magical MYSTERY FUZZ.md"
   },
@@ -17493,7 +17493,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "FX51 Juice Box Overdrive",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/fx51-juice-box-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/FX51 Juice Box Overdrive.md"
   },
@@ -17570,14 +17570,14 @@
   {
     "builder": "DOD Electronics",
     "pedal": "FX86 Death Metal Distortion",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/fx86-death-metal-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/FX86 Death Metal Distortion.md"
   },
   {
     "builder": "DOD Electronics",
     "pedal": "FX91 Bass Overdrive",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/fx91-bass-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/FX91 Bass Overdrive.md"
   },
@@ -17677,7 +17677,7 @@
   {
     "builder": "Dophix",
     "pedal": "Medici",
-    "image": null,
+    "image": "./assets/pedals/dophix/medici/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Dophix/Medici.md"
   },
@@ -17896,7 +17896,7 @@
   {
     "builder": "Dwarfcraft Devices",
     "pedal": "Necromancer",
-    "image": null,
+    "image": "./assets/pedals/dwarfcraft-devices/necromancer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Dwarfcraft Devices/Necromancer.md"
   },
