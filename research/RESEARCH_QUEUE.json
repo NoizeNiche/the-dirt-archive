@@ -1,59 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T07:07:11.423490+00:00",
+  "generated_at": "2026-09-25T07:17:46.714660+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 1828,
-    "pictured": 1746,
-    "complete": 1746,
-    "research_pending": 1933
+    "researched": 1834,
+    "pictured": 1763,
+    "complete": 1763,
+    "research_pending": 1927
   },
   "next_target": {
-    "builder": "Crews Maniac Sound",
-    "pedal": "VD-38 Real Valve Drive",
+    "builder": "Critter Electronics",
+    "pedal": "American Fuzz",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Crews Maniac Sound",
-      "pedal": "VD-38 Real Valve Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crimsontone",
-      "pedal": "Nero Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crimsontone",
-      "pedal": "Rosso Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Critically Overdriven",
-      "pedal": "E.O.D.",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Critter Electronics",
-      "pedal": "1972",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Critter Electronics",
-      "pedal": "1978R Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Critter Electronics",
       "pedal": "American Fuzz",
@@ -165,6 +129,42 @@
     {
       "builder": "Crotronics",
       "pedal": "Lost Temper",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crowella Effects",
+      "pedal": "Animated",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crowella Effects",
+      "pedal": "Defector",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crowella Effects",
+      "pedal": "Voskhod",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crown",
+      "pedal": "Fuzz and Treble Booster",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crown",
+      "pedal": "FW-3 Distortion Wah Volume",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crown",
+      "pedal": "Super Fuzz",
       "catalog_type": "",
       "research_record": ""
     }

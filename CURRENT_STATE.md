@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3761 total / 1828 researched / 1746 pictured / 1746 complete / 1933 research-pending / 82 researched-photo-pending**.
+Live catalog: **3761 total / 1834 researched / 1763 pictured / 1763 complete / 1927 research-pending / 71 researched-photo-pending**.
 
-**Next research target:** Crews Maniac Sound - VD-38 Real Valve Drive.
+**Next research target:** Critter Electronics - American Fuzz.
 
-PRP1 closeout remains separate: 82 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 71 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-25T07:07:11.423490+00:00
+Last refreshed: 2026-09-25T07:17:46.714660+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
