@@ -1,8 +1,6 @@
 name: Research evidence crew
 
 on:
-  schedule:
-    - cron: '*/20 * * * *'
   workflow_dispatch:
   push:
     paths:
