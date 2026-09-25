@@ -69,11 +69,13 @@ def strong_single_source(sources):
     if len(sources) != 1:
         return False
     source = sources[0]
-    return (
-        str(source.get("source_kind") or "").strip().lower()
-        in {"manufacturer", "effects_database", "reverb", "catalog_verified"}
-        and len(norm(source.get("excerpt"))) >= 160
-    )
+    kind = str(source.get("source_kind") or "").strip().lower()
+    excerpt_len = len(norm(source.get("excerpt")))
+    if kind in {"manufacturer", "effects_database", "reverb"}:
+        return excerpt_len >= 160
+    if kind == "catalog_verified":
+        return excerpt_len >= 40
+    return False
 
 
 
