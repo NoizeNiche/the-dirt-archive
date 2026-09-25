@@ -1,0 +1,51 @@
+{
+  "builder": "Crazy Tube Circuits",
+  "pedal": "Falcon",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 6,
+  "sources": [
+    {
+      "url": "https://crazytubecircuits.com/falcon",
+      "title": "Falcon — Crazy Tube Circuits",
+      "h1": "",
+      "excerpt": "",
+      "host": "crazytubecircuits.com"
+    },
+    {
+      "url": "https://www.marksguitarshop.com/shop/Effect-Pedals/p/Crazy-Tube-Circuits-Falcon.htm",
+      "title": "Crazy Tube Circuits Falcon",
+      "h1": "Crazy Tube Circuits Falcon",
+      "excerpt": "The Crazy Tube Circuits Falcon is a JFET-based, boutique amp-in-a-box overdrive pedal handcrafted in Greece, engineered to meticulously emulate the preamp, phase inverter, power amp, and rectifier sag of two legendary vintage Fender amplifiers. SHOP What's New Guitars Other Instruments Amplifiers Effect Pedals Strings Pickups Cases & Bags Accessories Parts Print Music Clothing Pro Audio View All CONTACT 918 W. GARLAND AVE. SPOKANE, WA 99205 1-509-325-8353 Monday - Friday 10am - 6pm Saturday 10am - 5pm Closed Sunday's VISIT",
+      "host": "www.marksguitarshop.com"
+    },
+    {
+      "url": "https://www.boxguitar.com/en/overdrive/4639-crazy-tube-circuits-falcon.html",
+      "title": "CRAZY TUBE CIRCUITS FALCON",
+      "h1": "CRAZY TUBE CIRCUITS FALCON",
+      "excerpt": "Reference CTCFAL Disponibile €169.00 Tax included €169.00",
+      "host": "www.boxguitar.com"
+    },
+    {
+      "url": "https://www.puretoneguitar.com/product/crazy-tube-circuits-falcon/",
+      "title": "Crazy Tube Circuits Falcon - Acoustic, Electric & Bass Guitars | Crafted Sound, Reliable Performance & Timeless Style",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.puretoneguitar.com"
+    },
+    {
+      "url": "https://www.guitarplayer.com/reviews/crazy-tube-circuits-falcon-and-killer-v-reviews",
+      "title": "Crazy Tube Circuits Falcon and Killer V Reviews | GuitarPlayer",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.guitarplayer.com"
+    },
+    {
+      "url": "https://gearstrings.com/practice-tips/crazy-tube-circuits-releases-the-falcon-overdrive",
+      "title": "Crazy Tube Circuits Releases The Falcon Overdrive: A Deep Technical and Pedagogical Analysis for Guitarists | GearStrings",
+      "h1": "Crazy Tube Circuits Releases The Falcon Overdrive: A Deep Technical and Pedagogical Analysis for Guitarists",
+      "excerpt": "By Liam Carter July 13, 2026 What Is the Falcon Overdrive—and Why Does It Matter to Practicing Guitarists? Crazy Tube Circuits (CTC), the Bucharest-based boutique pedal manufacturer known for rigorous analog fidelity and hand-soldered point-to-point wiring, has released the Falcon Overdrive—a discrete Class-A JFET-driven overdrive pedal designed to deliver dynamic, touch-sensitive saturation without compressing transients or dulling high-end articulation. Unlike many modern overdrives that prioritize mid-hump stacking or digital DSP emulation, the Falcon uses a fully analog signal path with three cascaded JFET gain stages (2N5457 and PN4393 devices), a passive tone stack inspired by vintage Fender preamp topology, and true-bypass switching with soft-touch relay-assisted footswitching. Measured at 100% input level with a 1 kHz sine wave, it delivers 28.6 dB of clean headroom before clipping onset, 19.3 dB of maximum gain at full Drive (250 kΩ pot), and an output impedance of 72 Ω—lower than both the Ibanez TS9 (1.2 kΩ) and Fulltone OCD v2.5 (380 Ω)—making it exceptionally compatible with long cable runs and buffered pedalboard setups. For educators and serious practitioners, the Falcon isn’t just another color in the palette; it’s a pedagogical tool that rewards technique, exposes dynamic nuance, and reinforces core concepts like gain staging, impedance matching, and harmonic balance. Inside the Circuit: Discrete JFET Architecture and Signal Flow The Falcon’s schematic reveals deliberate departures from industry norms. Its first gain stage employs a 2N5457 JFET biased at 1.82 mA with V DS = 8.4 V—optimized for low-noise, high-linearity operation well below pinch-off. This stage handles initial voltage amplification while preserving pick attack integrity. The second stage uses a PN4393 JFET configured as a common-source amplifier with active bias stabilization via a 100 kΩ source resistor and 1 µF bypass capacitor—yielding symmetrical soft clipping with minimal crossover distortion. The third stage is a dual-function JFET: it serves as both a gain booster and a unity-gain buffer when the Tone control is set above 12 o’clock, thanks to a switched feedback network that toggles between resistive and capacitive coupling paths. Component-Level Precision Every resistor in the Falcon’s signal path is metal-film (±0.1% tolerance, 1/4 W), and all capacitors are film-type—including 1 nF polypropylene coupling caps (Wima MKP10), 100 nF polyester tone stack caps (Kemet R46), and a custom-wound 1.5 H inductor in the output filter stage (designed to roll off ultrasonic noise above 22.4 kHz without affecting fundamental string harmonics). The power regulation section uses a discrete Zener shunt regulator (6.2 V, 1N5234B) feeding a low-noise LM317LZ adjustable regulator, delivering a stable 9.12 V DC ±0.03 V under load—critical for consistent JFET bias points across temperature ranges from 15°C to 40°C. How It Compares to Benchmark Designs Unlike the TS9’s op-amp-based gain structure (TLO72 IC), which exhibits hard-clipping asymmetry above 70% Drive and a fixed 750 Hz mid-peak, the Falcon’s JFET stages generate even-order harmonic content starting at just 12% Drive setting—measured via FFT analysis at 100 mV RMS input. At identical gain settings, the Falcon produces 37% more 2nd-harmonic content and 22% less 3rd-harmonic distortion than the OCD v2.5 (which uses a single op-amp stage followed by diode clipping). This translates musically to richer, more vocal-like sustain—especially noticeable on sustained B-string bends at the 12th fret on a Stratocaster with vintage-output pickups (e.g., Seymour Duncan SSL-1, DC resistance 5.8 kΩ). Tonal Behavior Across Guitar and Amplifier Pairings The Falcon’s response varies meaningfully depending on source instrument and destination amplifier—making it unusually instructive for developing critical listening skills. With a Gibson Les Paul Standard (2019, Burstbucker 1 & 2 pickups, 12 kΩ DC resistance), the Falcon’s low-end remains tight and focused up to 75% Drive; bass response only thickens slightly (+1.8 dB at 120 Hz) without bloating, unlike the OCD’s pronounced sub-100 Hz lift. With a Telecaster Custom (Fender Twisted Tele pickups, 7.2 kΩ), the Falcon emphasizes string definition: the bridge pickup’s natural 3.2 kHz peak is preserved and gently enhanced (+2.3 dB), whereas the TS9 attenuates this region by −3.1 dB due to its passive tone stack’s inherent high-frequency roll-off. Amp Interaction Mechanics When paired with a non-master-volume tube amp—such as a 1972 Fender Super Reverb (4×10″, 40 W)—the Falcon excels as a preamp booster rather than a standalone overdrive. At 40% Drive and 50% Level, it pushes the amp’s first preamp tube (12AX7 section 1) into gentle saturation while retaining pick dynamics; measured plate voltage drops from 142 V to 136 V, confirming subtle grid loading without blocking. In contrast, the same settings on a Marshall JCM800 2203 (100 W, master volume) yield tighter low-end and earlier power-tube breakup—demonstrating how the Falcon’s low output impedance prevents high-frequency loss through long cable runs to the amp’s effects loop return. Practical Implications for Practice Routines Because the Falcon doesn’t mask poor right-hand technique or inconsistent picking pressure, it serves as an effective diagnostic tool in the practice room. Students using it report heightened awareness of pick attack consistency: a 5% variation in pick velocity produces measurable differences in harmonic balance (e.g., +4.2 dB 2nd harmonic at 100 g/cm² vs. +1.1 dB at 95 g/cm², per piezoelectric sensor data). This makes it ideal for targeted exercises like alternate-picking metronome drills at 16th-note subdivisions—where subtle timing errors become audibly apparent in the Falcon’s uncolored transient response. Design Philosophy: Why CTC Chose JFETs Over Op-Amps or Tubes CTC’s decision to avoid op-amps or miniature tubes wasn’t nostalgic—it was functional.",
+      "host": "gearstrings.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

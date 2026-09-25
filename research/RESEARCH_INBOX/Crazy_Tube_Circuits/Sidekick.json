@@ -1,0 +1,30 @@
+{
+  "builder": "Crazy Tube Circuits",
+  "pedal": "Sidekick",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://crazytubecircuits.com/sidekick-jr",
+      "title": "Sidekick-Jr — Crazy Tube Circuits",
+      "h1": "",
+      "excerpt": "",
+      "host": "crazytubecircuits.com"
+    },
+    {
+      "url": "https://www.amazon.com/Crazy-Tube-Circuits-Sidekick-Multi-Effects/dp/B0FM8SXRVJ",
+      "title": "Amazon.com: Crazy Tube Circuits Sidekick Jr. Multi-Effects Pedal : Musical Instruments",
+      "h1": "About this item",
+      "excerpt": "Crazy Tube Circuits Sidekick Jr. Multi-Effects Pedal Brand: Crazy Tube Circuits Compact Design: Fits easily on any pedalboard for space-saving convenience Classic 80s Effects: Combines modulation, delay, and reverb effects inspired by iconic stompboxes and rack units of the era Multiple Modulation Options: \"Ensemble\" for warm chorus, \"Dimension\" for enhanced 3D sound, and \"Flanger\" for a metallic, slow-chorus effect Tape and Digital Delays: Offers the sweet sounds of tape echo and pristine repeats of digital delay for versatile time-based effects Dual Reverb Banks: Select from classic reverbs like plate, spring, and hall (Bank A) or signature 80s sounds like gated, exciter, and shimmer (Bank B) Smart Switching: Delay and reverb operate independently, with modulation assignable to either section Optional Footswitch Expansion: XT footswitch (sold separately) allows independent on/off control for the modulation section Power-Up Bypass Preset: Choose the pedal's default state (on or off) when powering up for seamless integration with loopers and switchers True Bypass Switching: Maintains optimal signal integrity when effects are bypassed Perfect for 80s Genres: Ideal for creating jangly new wave, lush shoegaze, and soaking wet hair metal tones Show more › See more product details",
+      "host": "www.amazon.com"
+    },
+    {
+      "url": "https://www.musicradar.com/reviews/crazy-tube-circuits-sidekick-jr-modulation-delay-and-reverb-pedal-review",
+      "title": "Crazy Tube Circuits Sidekick Jr modulation, delay and reverb pedal review | MusicRadar",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.musicradar.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
