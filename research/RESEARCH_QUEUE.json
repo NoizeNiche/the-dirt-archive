@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T01:35:08.665315+00:00",
+  "generated_at": "2026-09-25T01:35:43.396805+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1712,
+    "researched": 1713,
     "pictured": 1651,
     "complete": 1651,
-    "research_pending": 2053
+    "research_pending": 2052
   },
   "next_target": {
-    "builder": "Cortez",
-    "pedal": "Cortez Overdrive",
+    "builder": "Cosmic Sound FX",
+    "pedal": "The Fuzz Machine",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Cortez",
-      "pedal": "Cortez Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Cosmic Sound FX",
       "pedal": "The Fuzz Machine",
@@ -165,6 +159,12 @@
     {
       "builder": "CostaLab",
       "pedal": "Natural Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CostaLab",
+      "pedal": "Natural Drive MKII",
       "catalog_type": "",
       "research_record": ""
     }
