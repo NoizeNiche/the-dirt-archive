@@ -40,6 +40,8 @@ jobs:
           git fetch origin main --depth=2
           git reset --hard origin/main
 
+      - name: Rebuild derived catalog and manifest state for the health snapshot
+        run: python scripts/sync_prp_catalog.py
       - name: Reconcile canonical tracker photo state
         run: python scripts/sync-prp-tracker.py
 
