@@ -21,7 +21,7 @@ Taco Fuzz is an octave fuzz from Crews Maniac Sound. The builder's April 2010 ma
 - Upper-octave fuzz character
 - Standard external pedal operation
 
-The original production was later discontinued. Crews' own interview explains that a specific capacitor used in the pedal became difficult to source consistently, making continued production impractical. [3]
+The original production was later discontinued. Crews' own interview explains that production ended because a specific component used in the pedal became difficult to source consistently, making continued production impractical. [3]
 
 ## Version changes
 No reliable numbered V1/V2 production sequence was verified. The archive keeps Taco Fuzz as one parent identity and records the production-end history as a lifecycle note rather than a separate version.
@@ -39,9 +39,9 @@ Taco Fuzz is built around a strong upper-octave voice that becomes especially pr
 
 ## Sources checked
 1. Crews Maniac Sound — Taco Fuzz announcement: https://crewsmaniacsound.blogspot.com/2010/04/taco-fuzz.html
-2. Crews Maniac Sound — Taco Fuzz demo/video reference: https://www.youtube.com/
+2. Crews Maniac Sound — Taco Fuzz demo: https://www.youtube.com/watch?v=X7etDzJgH_A
 3. Effects Database — Crews Maniac Sound interview/history: https://www.effectsdatabase.com/interviews/brands/crews
 
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
-- **Exact-model visual references checked:** Crews Taco Fuzz product material and exact-name video references.
+- **Exact-model visual references checked:** Crews Taco Fuzz product material and exact-model demo.
