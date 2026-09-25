@@ -128,13 +128,38 @@ def source_pages_from_photo_overrides(builder, pedal):
         pass
     return list(dict.fromkeys(urls))
 
-def identity_match(builder,pedal,s):
-    hay=norm((s.get("title") or "")+" "+(s.get("h1") or "")+" "+(s.get("excerpt") or ""))
+def catalog_models_for_builder(builder):
+    models=[]
+    try:
+        catalog=json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8"))
+        models=[str(item.get("pedal") or "").strip() for item in catalog.get("pedals", [])
+                if item.get("company")==builder and str(item.get("pedal") or "").strip()]
+    except Exception:
+        pass
+    return list(dict.fromkeys(models))
+
+def identity_match(builder,pedal,s,models=None):
+    title_h1=norm((s.get("title") or "")+" "+(s.get("h1") or ""))
+    excerpt=norm(s.get("excerpt") or "")
+    hay=norm(title_h1+" "+excerpt)
     b=tokens(builder); p=tokens(pedal)
-    exact=norm(pedal) in hay if norm(pedal) else False
+    target=norm(pedal)
+    exact=target in hay if target else False
     p_hits=sum(1 for x in p if x in hay)
     b_hits=sum(1 for x in b if x in hay)
-    return bool((exact and (not b or b_hits >= 1)) or (p and p_hits >= max(1,min(2,len(p))) and (not b or b_hits >= 1)))
+
+    # Reject a page whose heading claims the target but whose body is clearly
+    # about another cataloged model from the same builder. This catches
+    # mislabeled storefront/template pages such as a CRR page containing CFR
+    # model documentation.
+    if models and target and target not in excerpt:
+        for other in models:
+            other_n=norm(other)
+            if other_n and other_n != target and other_n in excerpt:
+                return False
+
+    return bool((exact and (not b or b_hits >= 1)) or
+                (p and p_hits >= max(1,min(2,len(p))) and (not b or b_hits >= 1)))
 
 def source_kind(builder,url,exact_catalog_urls=None):
     h=host(url)
@@ -156,6 +181,7 @@ if not builder or not pedal:
 catalog_urls=set(source_pages_from_catalog(builder,pedal))
 override_urls=set(source_pages_from_photo_overrides(builder,pedal))
 exact_source_urls=catalog_urls | override_urls
+models=catalog_models_for_builder(builder)
 urls=[]
 for u in list(catalog_urls)+list(override_urls):
     if u not in urls: urls.append(u)
@@ -169,7 +195,7 @@ for u in urls[:12]:
     if not s: continue
     s["source_host"]=host(s["url"])
     s["source_kind"]=source_kind(builder,s["url"],exact_source_urls)
-    s["identity_match"]=identity_match(builder,pedal,s)
+    s["identity_match"]=identity_match(builder,pedal,s,models)
     if s["identity_match"]:
         sources.append(s)
     seen_hosts.add(s["source_host"])
