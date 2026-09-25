@@ -207,7 +207,31 @@ def main():
     detail_text = DETAIL.read_text(encoding="utf-8")
     deploy_text = DEPLOY.read_text(encoding="utf-8")
     health_workflow = (ROOT / ".github/workflows/hourly-site-health.yml").read_text(encoding="utf-8")
+    research_workflow = (ROOT / ".github/workflows/research-worker-team.yml").read_text(encoding="utf-8")
+    fast_photo_workflow = (ROOT / ".github/workflows/fast-photo-catchup.yml").read_text(encoding="utf-8")
+    parallel_photo_workflow = (ROOT / ".github/workflows/parallel-photo-recovery.yml").read_text(encoding="utf-8")
+    synth_workflow = (ROOT / ".github/workflows/research-synthesis.yml").read_text(encoding="utf-8")
     architecture_text = (ROOT / "SITE_ARCHITECTURE.md").read_text(encoding="utf-8")
+
+    required_queue_hardening = (
+        ("dirt-research-workers-v5", research_workflow),
+        ("cancel-in-progress: false", research_workflow),
+        ("span=min(60,len(frontier))", research_workflow),
+        ("canonical_delta", research_workflow),
+        ("No canonical research movement in this pass; stopping self-chain", research_workflow),
+        ("dirt-photo-recovery-v3", fast_photo_workflow),
+        ("cancel-in-progress: false", fast_photo_workflow),
+        ("targets = targets[:60]", fast_photo_workflow),
+        ("Production deployment verified", fast_photo_workflow),
+        ("Production deployment verified", parallel_photo_workflow),
+        ("dirt-image-cache", cache_workflow),
+        ("cancel-in-progress: false", cache_workflow),
+        ("dirt-research-synthesis", synth_workflow),
+        ("workflow_dispatch:", synth_workflow),
+    )
+    for marker, source in required_queue_hardening:
+        if marker not in source:
+            raise SystemExit(f"Operational queue hardening is missing: {marker}")
     if "sync-public-data-version.py" in architecture_text:
         raise SystemExit("Architecture still references the retired catalog-version synchronization script.")
     cache_workflow = (ROOT / ".github/workflows/cache-pedal-images.yml").read_text(encoding="utf-8")
