@@ -6,6 +6,7 @@ deliberately conservative: it summarizes claims already present in the verified
 packet and leaves undocumented fields explicitly unknown rather than guessing.
 """
 
+import argparse
 import csv
 import json
 import re
@@ -206,6 +207,18 @@ def write_record(item, tracker_type, packet):
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--only",
+        help="Foreman summary JSON containing staged_files to synthesize from this pass only.",
+    )
+    args = parser.parse_args()
+
+    allowed_files = None
+    if args.only:
+        summary = json.loads(Path(args.only).read_text(encoding="utf-8"))
+        allowed_files = {str(Path(p)) for p in summary.get("staged_files", [])}
+
     catalog = json.loads(INDEX.read_text(encoding="utf-8"))
     by_key = {(x.get("company"), x.get("pedal")): x for x in catalog.get("pedals", [])}
     tracker_rows = list(csv.DictReader(TRACKER.open(newline="", encoding="utf-8")))
@@ -214,7 +227,10 @@ def main():
     created = 0
     skipped = 0
     held = 0
-    for packet_path in sorted(INBOX.rglob("*.json")):
+    packet_paths = sorted(INBOX.rglob("*.json"))
+    if allowed_files is not None:
+        packet_paths = [p for p in packet_paths if p.as_posix() in allowed_files]
+    for packet_path in packet_paths:
         try:
             packet = json.loads(packet_path.read_text(encoding="utf-8"))
         except Exception:
