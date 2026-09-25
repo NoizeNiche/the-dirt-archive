@@ -15027,7 +15027,7 @@
   {
     "builder": "Cosmic Terror",
     "pedal": "Sonic Doom",
-    "image": null,
+    "image": "./assets/pedals/cosmic-terror/sonic-doom/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cosmic Terror/Sonic Doom.md"
   },
