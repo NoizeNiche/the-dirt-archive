@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1727 researched / 1657 pictured / 1657 complete / 2038 research-pending / 70 researched-photo-pending**.
+Live catalog: **3765 total / 1730 researched / 1657 pictured / 1657 complete / 2035 research-pending / 73 researched-photo-pending**.
 
-**Next research target:** Cosmic Sound FX - The Fuzz Machine.
+**Next research target:** CostaLab - Bad Angel.
 
-PRP1 closeout remains separate: 70 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 73 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-25T03:11:40.506489+00:00
+Last refreshed: 2026-09-25T03:12:32.103423+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints

@@ -1,41 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T03:11:40.506489+00:00",
+  "generated_at": "2026-09-25T03:12:32.103423+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1727,
+    "researched": 1730,
     "pictured": 1657,
     "complete": 1657,
-    "research_pending": 2038
+    "research_pending": 2035
   },
   "next_target": {
-    "builder": "Cosmic Sound FX",
-    "pedal": "The Fuzz Machine",
+    "builder": "CostaLab",
+    "pedal": "Bad Angel",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Cosmic Sound FX",
-      "pedal": "The Fuzz Machine",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cosmic Sound FX",
-      "pedal": "The Ladyland Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Cosmic Sound FX",
-      "pedal": "The MkII",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "CostaLab",
       "pedal": "Bad Angel",
@@ -165,6 +147,24 @@
     {
       "builder": "Cranetortoise by Albit",
       "pedal": "OD-1 Over Drive Booster with Loud Circuit",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "SD-1 Skunk Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "SW-1 Switching Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "SW-1B Switching Distortion",
       "catalog_type": "",
       "research_record": ""
     }
