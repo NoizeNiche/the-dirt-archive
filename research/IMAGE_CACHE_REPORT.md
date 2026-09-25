@@ -4,8 +4,8 @@
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **1896**
-- Researched, photo pending: **56**
+- Remaining tracker photo backlog: **1895**
+- Researched, photo pending: **55**
 - External source images awaiting localization: **0**
 
 ## Storage layout
