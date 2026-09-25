@@ -10,8 +10,9 @@ permissions:
   contents: write
 
 concurrency:
-  group: dirt-photo-parallel
-  cancel-in-progress: true
+  group: dirt-photo-recovery-v3
+  # Keep the legacy parallel lane from colliding with fast photo catch-up.
+  cancel-in-progress: false
 
 jobs:
   prepare:
@@ -34,8 +35,10 @@ jobs:
               for r in rows
               if r.get("Pedal Info") == "DONE" and r.get("Picture") != "DONE"
           ]
+          targets.sort(key=lambda x: (x["builder"].casefold(), x["pedal"].casefold()))
+          targets = targets[:60]
           print("matrix=" + json.dumps({"include": targets}, ensure_ascii=False, separators=(",", ":")))
-          print(f"Prepared {len(targets)} photo targets.", file=__import__("sys").stderr)
+          print(f"Prepared {len(targets)} photo targets (bounded to 60 per pass).", file=__import__("sys").stderr)
           PY
 
   recover:
@@ -44,7 +47,7 @@ jobs:
     if: ${{ needs.prepare.outputs.matrix != '' }}
     strategy:
       fail-fast: false
-      max-parallel: 16
+      max-parallel: 15
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
     runs-on: ubuntu-latest
     timeout-minutes: 8
