@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1747 researched / 1684 pictured / 1684 complete / 2018 research-pending / 63 researched-photo-pending**.
+Live catalog: **3765 total / 1748 researched / 1684 pictured / 1684 complete / 2017 research-pending / 64 researched-photo-pending**.
 
-**Next research target:** Cranetortoise by Albit - FB-1 Fuzz Drive Booster.
+**Next research target:** Cranetortoise by Albit - FD-1 Exciting Fuzz Drive.
 
-PRP1 closeout remains separate: 63 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 64 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-25T04:39:35.512758+00:00
+Last refreshed: 2026-09-25T04:40:02.503494+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
