@@ -400,3 +400,11 @@ Run 939 successfully archived two verified local photos: Analog King Fuzz Machin
 ## Blackhawk and health-lane checkpoint - September 22, 2026
 
 Added an exact Reverb recovery lead for Blackhawk Amplifiers Triangle Fuzz and serialized the hourly health workflow with `dirt-archive-health` so newer health fixes supersede stale canaries. The photo gate remains 316 researched-photo-pending pending the next cache results.
+
+## Catalog research and scope cleanup checkpoint - September 25, 2026
+
+The active Catalog Research Phase advanced through the Crazy Tube Circuits cluster. Canonical research was published for Falcon, Hi-Power, Locomotive, Motherload, Orama, Orama - Dual Drive, Space Charged V1/V2 labels, Stardust and Stardust V2, Triptychon labels, Unobtanium standard/Raw labels, and Venus. Exact-model evidence was kept conservative where technical component details were not independently established.
+
+A scope audit removed four non-dirt Crazy Tube Circuits identities from the canonical catalog: Sidekick, Killer V, White Whale, and White Whale v2. Killer V's orphan research record was also removed. The tracker/photo-backlog synchronization was hardened so stale derived identities are automatically discarded when they no longer exist in the canonical catalog, and the main sync workflow now rebuilds PHOTO_BACKLOG.csv from the cleaned tracker.
+
+Verified live checkpoint after reconciliation: **3,761 total / 1,796 researched / 1,717 pictured / 1,717 complete / 1,965 research-pending / 79 researched-photo-pending**. The next canonical research target is **Crazybox Pedals - The Box - Massive High Gain Distortion**. A targeted evidence pass did not yet establish enough trustworthy exact-model material for publication, so that record remains queued rather than guessed.
