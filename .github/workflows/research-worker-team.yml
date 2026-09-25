@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: dirt-research-workers-v2
@@ -89,33 +90,61 @@ jobs:
           path: research-evidence
       - name: Verify and admit only strong evidence packets
         run: python scripts/research-foreman.py
-      - name: Publish foreman-approved evidence packets
+      - name: Publish verified research and canonical records
+        env:
+          GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add research/RESEARCH_INBOX
           if git diff --cached --quiet; then
             echo "No new verified research evidence packets."
             exit 0
           fi
-          git commit -m "Stage verified parallel pedal research evidence"
+
+          # GITHUB_TOKEN pushes do not trigger another workflow, so synthesis
+          # must happen in this same controlled publication pass.
+          python scripts/synthesize-research-inbox.py
+          python scripts/sync_prp_catalog.py
+          python scripts/sync-prp-tracker.py
+          python scripts/sync-photo-backlog.py
+          python scripts/build-research-queue.py
+          python scripts/validate-archive.py
+
+          git add research/RESEARCH_INBOX research/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
+          if git diff --cached --quiet; then
+            echo "Evidence packets were present but produced no new canonical records."
+            exit 0
+          fi
+
+          git commit -m "Publish verified parallel pedal research"
+
           for attempt in 1 2 3 4 5; do
-            if git push origin main; then exit 0; fi
-            echo "Research evidence publish race; preserving approved packets and rebuilding on latest main."
-            git fetch origin main
-            packet_patch="$(mktemp)"
-            git diff HEAD^ HEAD --binary -- research/RESEARCH_INBOX > "$packet_patch"
-            git reset --hard origin/main
-            if [ -s "$packet_patch" ]; then
-              git apply --index "$packet_patch"
-            fi
-            rm -f "$packet_patch"
-            git add research/RESEARCH_INBOX
-            if git diff --cached --quiet; then
-              echo "No approved research evidence remains after rebuilding against latest main."
+            if git push origin main; then
+              if git diff-tree --no-commit-id --name-only -r HEAD | grep -Eq '^(research/pedals/|research/PEDAL_INDEX\.json|index\.html|pedal-detail\.html)'; then
+                echo "Canonical public research data changed; dispatching Pages deployment."
+                gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main
+              fi
               exit 0
             fi
-            git commit -m "Stage verified parallel pedal research evidence"
+
+            echo "Research publication race; rebuilding from newest main (attempt $attempt/5)."
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/synthesize-research-inbox.py
+            python scripts/sync_prp_catalog.py
+            python scripts/sync-prp-tracker.py
+            python scripts/sync-photo-backlog.py
+            python scripts/build-research-queue.py
+            python scripts/validate-archive.py
+            git add research/RESEARCH_INBOX research/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
+            if git diff --cached --quiet; then
+              echo "Newest main already contains the synthesized state."
+              exit 0
+            fi
+            git commit -m "Publish verified parallel pedal research"
           done
+
           exit 1
