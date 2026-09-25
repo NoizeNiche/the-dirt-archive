@@ -1,47 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T07:02:55.944717+00:00",
+  "generated_at": "2026-09-25T07:04:10.012379+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 1820,
+    "researched": 1824,
     "pictured": 1746,
     "complete": 1746,
-    "research_pending": 1941
+    "research_pending": 1937
   },
   "next_target": {
     "builder": "Crews Maniac Sound",
-    "pedal": "Addict OD",
+    "pedal": "SVD-001 Classic Overdrive",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Crews Maniac Sound",
-      "pedal": "Addict OD",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crews Maniac Sound",
-      "pedal": "DIS-01 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crews Maniac Sound",
-      "pedal": "Genius Over Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crews Maniac Sound",
-      "pedal": "Quadrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Crews Maniac Sound",
       "pedal": "SVD-001 Classic Overdrive",
@@ -165,6 +141,30 @@
     {
       "builder": "Crock",
       "pedal": "SM-3 Super Metal",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crock",
+      "pedal": "TM-2 Thrash Master",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CrockettDial Productions",
+      "pedal": "The Kwaker",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crossfire",
+      "pedal": "CF-DO2 Dual-Injection After Burner",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crossfire",
+      "pedal": "DST-301 Distortion",
       "catalog_type": "",
       "research_record": ""
     }
