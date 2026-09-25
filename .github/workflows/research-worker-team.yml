@@ -13,7 +13,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: dirt-research-workers-v2
+  group: dirt-research-workers-v3
   cancel-in-progress: true
 
 jobs:
