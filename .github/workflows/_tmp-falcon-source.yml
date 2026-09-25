@@ -1,0 +1,40 @@
+name: Temporary Falcon source capture
+
+on:
+  push:
+    paths:
+      - ".github/workflows/_tmp-falcon-source.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  capture:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Fetch exact Falcon sources
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/falcon
+          urls=(
+            "https://crazytubecircuits.com/falcon"
+            "https://www.guitarplayer.com/reviews/crazy-tube-circuits-falcon-and-killer-v-reviews"
+            "https://www.marksguitarshop.com/shop/Effect-Pedals/p/Crazy-Tube-Circuits-Falcon.htm"
+          )
+          i=0
+          for u in "${urls[@]}"; do
+            curl -L --silent --show-error --fail --compressed \
+              --connect-timeout 8 --max-time 20 \
+              -A "Mozilla/5.0 The Dirt Archive source capture" \
+              "$u" > "/tmp/falcon/source-$i.html"
+            i=$((i+1))
+          done
+          printf '%s\n' "${urls[@]}" > /tmp/falcon/urls.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: falcon-source-pages
+          path: /tmp/falcon/
+          retention-days: 1
