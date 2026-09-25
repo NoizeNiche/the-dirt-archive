@@ -221,6 +221,14 @@ const path = require('node:path');
             );
             const activeBuilderLinks = page.locator('.pageBuilderLink.active');
             const activePageBuilders = await activeBuilderLinks.allTextContents();
+            const renderedBuilderLinks = await page.locator('#pageBuilders .pageBuilderLink').allTextContents();
+            console.log('Detail builder canary:', JSON.stringify({
+              pageUrl: page.url(),
+              expectedBuilder: String(builderCanaryEntry.company),
+              pageBuilderCount: renderedBuilderLinks.length,
+              activeBuilders: activePageBuilders,
+              renderedBuilders: renderedBuilderLinks.slice(0, 8)
+            }));
             if (activePageBuilders.length !== 1) {
               throw new Error('Detail builder navigation has an incorrect number of active selections: ' + activePageBuilders.length);
             }
