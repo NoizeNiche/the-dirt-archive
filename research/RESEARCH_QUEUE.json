@@ -1,47 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T06:58:47.041286+00:00",
+  "generated_at": "2026-09-25T07:00:46.579515+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 1812,
+    "researched": 1816,
     "pictured": 1746,
     "complete": 1746,
-    "research_pending": 1949
+    "research_pending": 1945
   },
   "next_target": {
-    "builder": "Creepy Fingers Effects",
-    "pedal": "Hold Tight",
+    "builder": "Crest Audio",
+    "pedal": "Fuzz Face",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Creepy Fingers Effects",
-      "pedal": "Hold Tight",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Creepy Fingers Effects",
-      "pedal": "Lonely Heart",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Creepy Fingers Effects",
-      "pedal": "Modern Sound",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Creepy Fingers Effects",
-      "pedal": "Shatterbox",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Crest Audio",
       "pedal": "Fuzz Face",
@@ -165,6 +141,30 @@
     {
       "builder": "Critter Electronics",
       "pedal": "CRR Klone",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Critter Electronics",
+      "pedal": "Model III Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crock",
+      "pedal": "CM-2 Crock Metal",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crock",
+      "pedal": "DS-2 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crock",
+      "pedal": "DS-4 Supra Distortion",
       "catalog_type": "",
       "research_record": ""
     }
