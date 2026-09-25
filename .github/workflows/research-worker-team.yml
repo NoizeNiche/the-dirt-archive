@@ -33,14 +33,10 @@ jobs:
           # from C onward through Z instead of rotating back into earlier letters.
           pending=[{"builder":r["Builder"],"pedal":r["Pedal"]} for r in rows if r.get("Pedal Info")!="DONE"]
           pending.sort(key=lambda x:(x["builder"].casefold(), x["pedal"].casefold()))
-          # Hard-stop the frontier at the first unfinished builder letter.
-          # Do not spend research capacity on D while any C remains, etc.
-          active_letter=(pending[0]["builder"][0].upper() if pending and pending[0]["builder"] else "")
-          frontier=[r for r in pending if (r["builder"][0].upper() if r["builder"] else "")==active_letter]
-
-          # Prefer targets that already have strong evidence, then targets with
-          # partial evidence, then fresh targets. Known no-evidence records stay
-          # at the back so they cannot starve the rest of the active frontier.
+          # Broad C-to-Z sweep: do not let a hard C/D target block every
+          # later builder. Evidence-ready records are promoted first, then
+          # partial-evidence records, then fresh targets, with known dead ends
+          # kept at the back for deliberate retry passes.
           evidence_path = "research/RESEARCH_EVIDENCE_QUEUE.json"
           verdicts = {}
           try:
@@ -56,15 +52,13 @@ jobs:
               "": 2,
               "NO_USABLE_EVIDENCE": 3,
           }
-          frontier.sort(
-              key=lambda r: (
-                  priority.get(verdicts.get((r["builder"], r["pedal"])), 2),
-                  r["builder"].casefold(),
-                  r["pedal"].casefold(),
-              )
-          )
-          span=min(60,len(frontier))
-          targets=frontier[:span]
+          pending.sort(key=lambda r: (
+              priority.get(verdicts.get((r["builder"], r["pedal"])), 2),
+              r["builder"].casefold(),
+              r["pedal"].casefold(),
+          ))
+          span=min(60,len(pending))
+          targets=pending[:span]
           matrix={"include":[{"targets":targets[i:i+4]} for i in range(0,len(targets),4)]}
           print("matrix="+json.dumps(matrix,ensure_ascii=False,separators=(",",":")))
           print("Research targets:",len(targets),"workers:",len(matrix["include"]),file=sys.stderr)
