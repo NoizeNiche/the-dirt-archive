@@ -50,11 +50,14 @@ def main():
 
     changed = 0
     research_preserved = 0
+    stale_rows = 0
+    valid_rows = []
     for row in rows:
         key = (row.get("Builder"), row.get("Pedal"))
         pedal = by_key.get(key)
         if pedal is None:
-            raise SystemExit(f"Tracker identity missing from catalog: {key}")
+            stale_rows += 1
+            continue
 
         tracker_record = row.get("Research Record") or ""
         catalog_record = pedal.get("research_record") or ""
@@ -86,15 +89,20 @@ def main():
             if row.get(field, "") != value:
                 row[field] = value
                 changed += 1
+        valid_rows.append(row)
+
+    if stale_rows:
+        changed += stale_rows
 
     with TRACKER_PATH.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
-        writer.writerows(rows)
+        writer.writerows(valid_rows)
 
     print(
-        f"PRP tracker synchronized safely: {changed} fields updated across {len(rows)} rows; "
-        f"{research_preserved} existing research links preserved against stale catalog links."
+        f"PRP tracker synchronized safely: {changed} changes across {len(valid_rows)} valid rows; "
+        f"{research_preserved} existing research links preserved against stale catalog links; "
+        f"{stale_rows} stale catalog identities removed."
     )
 
 
