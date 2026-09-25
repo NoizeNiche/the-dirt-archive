@@ -259,13 +259,25 @@ const span=WORKER_COUNT*TARGETS_PER_WORKER;
 // Keep the autonomous evidence crew locked to the same canonical A→Z
 // frontier as the main research workers. Do not rotate across the entire
 // remaining catalog, or C can starve while later letters are researched.
-// Broad C-to-Z sweep. The main workflow orders the same pending
-// catalog deterministically; do not hard-stop later letters behind a
-// difficult earlier target.
-const frontier=rows.slice(0,span);
+// The coordinator supplies exact target identities through the matrix.
+// Honor that handoff instead of reconstructing a second queue in each worker.
+let frontier;
+try{
+  const explicit=JSON.parse(EXPLICIT_TARGETS_JSON);
+  frontier=Array.isArray(explicit) ? explicit.map(r => ({
+    Builder: String(r?.builder || '').trim(),
+    Pedal: String(r?.pedal || '').trim()
+  })).filter(r => r.Builder && r.Pedal) : [];
+}catch{
+  frontier=[];
+}
+if(!frontier.length){
+  // Safe fallback for manual/local runs without an explicit matrix.
+  frontier=rows.slice(0,span).map(r => ({Builder:r.Builder,Pedal:r.Pedal}));
+}
 const targets=frontier.slice(
-  WORKER_INDEX*TARGETS_PER_WORKER,
-  (WORKER_INDEX+1)*TARGETS_PER_WORKER
+  0,
+  TARGETS_PER_WORKER
 );
 
 fs.rmSync(OUT,{recursive:true,force:true}); fs.mkdirSync(OUT,{recursive:true});
