@@ -1,0 +1,23 @@
+{
+  "builder": "Cunningham Amps",
+  "pedal": "Supa Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.cunninghamamps.co.nz/product-page/supa-fuzz-olivetti-edition-custom-order",
+      "title": "Supa Fuzz - Olivetti Edition - Custom Order | Cunningham Amps",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.cunninghamamps.co.nz"
+    },
+    {
+      "url": "https://www.edgeofbreakup.studio/latest-videos/cunningham-amps-supa-fuzz-guitar-pedal-demo",
+      "title": "Cunningham Amps Supa Fuzz | Guitar Pedal Demo — Edge of Breakup",
+      "h1": "Cunningham Amps Supa Fuzz | Guitar Pedal Demo",
+      "excerpt": "Guitar Pedals Jul 26 Written By Edge of Breakup .",
+      "host": "www.edgeofbreakup.studio"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
