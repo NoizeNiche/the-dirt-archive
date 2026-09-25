@@ -16067,7 +16067,7 @@
   {
     "builder": "Crowella Effects",
     "pedal": "Voskhod",
-    "image": null,
+    "image": "./assets/pedals/crowella-effects/voskhod/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crowella Effects/Voskhod.md"
   },
@@ -16241,7 +16241,7 @@
   {
     "builder": "CTech / CB Labs",
     "pedal": "PRX-902 Amp Emulator",
-    "image": null,
+    "image": "./assets/pedals/ctech-cb-labs/prx-902-amp-emulator/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CTech / CB Labs/PRX-902 Amp Emulator.md"
   },
@@ -16411,7 +16411,7 @@
   {
     "builder": "Custom Tones",
     "pedal": "Ethos Overdrive",
-    "image": null,
+    "image": "./assets/pedals/custom-tones/ethos-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Custom Tones/Ethos Overdrive.md"
   },
@@ -16516,7 +16516,7 @@
   {
     "builder": "Danelectro",
     "pedal": "3699 fUZZ",
-    "image": null,
+    "image": "./assets/pedals/danelectro/3699-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Danelectro/3699 fUZZ.md"
   },
@@ -16609,7 +16609,7 @@
   {
     "builder": "Danelectro",
     "pedal": "FAB Distortion",
-    "image": null,
+    "image": "./assets/pedals/danelectro/fab-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Danelectro/FAB Distortion.md"
   },
@@ -16644,14 +16644,14 @@
   {
     "builder": "Danelectro",
     "pedal": "French Toast",
-    "image": null,
+    "image": "./assets/pedals/danelectro/french-toast/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Danelectro/French Toast.md"
   },
   {
     "builder": "Danelectro",
     "pedal": "French Toast Octave Distortion",
-    "image": null,
+    "image": "./assets/pedals/danelectro/french-toast-octave-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Danelectro/French Toast Octave Distortion.md"
   },
@@ -16813,7 +16813,7 @@
   {
     "builder": "Daredevil Pedals",
     "pedal": "Northern Creeper",
-    "image": null,
+    "image": "./assets/pedals/daredevil-pedals/northern-creeper/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Daredevil Pedals/Northern Creeper.md"
   },
@@ -16936,7 +16936,7 @@
   {
     "builder": "Darkglass Electronics",
     "pedal": "Microtubes Infinity",
-    "image": null,
+    "image": "./assets/pedals/darkglass-electronics/microtubes-infinity/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Darkglass Electronics/Microtubes Infinity.md"
   },
@@ -17163,7 +17163,7 @@
   {
     "builder": "Demedash Effects",
     "pedal": "Shatterbox",
-    "image": null,
+    "image": "./assets/pedals/demedash-effects/shatterbox/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Demedash Effects/Shatterbox.md"
   },
@@ -17184,14 +17184,14 @@
   {
     "builder": "Demeter",
     "pedal": "DD-1 Double Overdrive",
-    "image": null,
+    "image": "./assets/pedals/demeter/dd-1-double-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Demeter/DD-1 Double Overdrive.md"
   },
   {
     "builder": "Demeter",
     "pedal": "DRV-1 Overdriveulator",
-    "image": null,
+    "image": "./assets/pedals/demeter/drv-1-overdriveulator/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Demeter/DRV-1 Overdriveulator.md"
   },
@@ -17205,7 +17205,7 @@
   {
     "builder": "Demon Pedals",
     "pedal": "Parvati",
-    "image": null,
+    "image": "./assets/pedals/demon-pedals/parvati/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Demon Pedals/Parvati.md"
   },
@@ -17247,7 +17247,7 @@
   {
     "builder": "Devi Ever : FX",
     "pedal": "Truly Beautiful Disaster",
-    "image": null,
+    "image": "./assets/pedals/devi-ever-fx/truly-beautiful-disaster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Devi Ever : FX/Truly Beautiful Disaster.md"
   },
@@ -17277,21 +17277,21 @@
   {
     "builder": "DigiTech",
     "pedal": "DigiTech Death Metal",
-    "image": null,
+    "image": "./assets/pedals/digitech/digitech-death-metal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DigiTech/DigiTech Death Metal.md"
   },
   {
     "builder": "DigiTech",
     "pedal": "DigiTech Grunge",
-    "image": null,
+    "image": "./assets/pedals/digitech/digitech-grunge/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DigiTech/DigiTech Grunge.md"
   },
   {
     "builder": "DigiTech",
     "pedal": "Hot Head Distortion",
-    "image": null,
+    "image": "./assets/pedals/digitech/hot-head-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DigiTech/Hot Head Distortion.md"
   },
@@ -17416,7 +17416,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "Boneshaker",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/boneshaker/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/Boneshaker.md"
   },
@@ -17430,7 +17430,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "Chthonic Fuzz",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/chthonic-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/Chthonic Fuzz.md"
   },
@@ -17819,7 +17819,7 @@
   {
     "builder": "Drunk Beaver",
     "pedal": "XR OD-1 OverDrive",
-    "image": null,
+    "image": "./assets/pedals/drunk-beaver/xr-od-1-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Drunk Beaver/XR OD-1 OverDrive.md"
   },
@@ -17875,7 +17875,7 @@
   {
     "builder": "Dwarfcraft Devices",
     "pedal": "Gears",
-    "image": null,
+    "image": "./assets/pedals/dwarfcraft-devices/gears/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Dwarfcraft Devices/Gears.md"
   },
@@ -17889,7 +17889,7 @@
   {
     "builder": "Dwarfcraft Devices",
     "pedal": "HAX",
-    "image": null,
+    "image": "./assets/pedals/dwarfcraft-devices/hax/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Dwarfcraft Devices/HAX.md"
   },
