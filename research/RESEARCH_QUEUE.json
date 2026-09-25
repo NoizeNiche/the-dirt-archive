@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T22:04:16.843048+00:00",
+  "generated_at": "2026-09-25T22:09:08.915617+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2206,
+    "researched": 2207,
     "pictured": 2154,
     "complete": 2154,
-    "research_pending": 1555
+    "research_pending": 1554
   },
   "next_target": {
     "builder": "D&M",
@@ -21,12 +21,6 @@
     {
       "builder": "D&M",
       "pedal": "Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Dan Drive Pedal Solutions",
-      "pedal": "Secret Machine",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +159,12 @@
     {
       "builder": "DOD Electronics",
       "pedal": "Carcosa Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "D&S / D&S II Distortion & Sustainer",
       "catalog_type": "",
       "research_record": ""
     }
