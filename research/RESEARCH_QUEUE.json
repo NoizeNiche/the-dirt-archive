@@ -1,47 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T04:41:58.219114+00:00",
+  "generated_at": "2026-09-25T04:42:37.556861+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1755,
+    "researched": 1759,
     "pictured": 1684,
     "complete": 1684,
-    "research_pending": 2010
+    "research_pending": 2006
   },
   "next_target": {
-    "builder": "Crate",
-    "pedal": "CC-2681 Distortion",
+    "builder": "Crazy Rock'n'Roll Effecter",
+    "pedal": "TONE BENDER M.K Ⅰ. Ⅴ",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Crate",
-      "pedal": "CC-2681 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Rock'n'Roll Effecter",
-      "pedal": "Nasty Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Rock'n'Roll Effecter",
-      "pedal": "SWAG FACE",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Rock'n'Roll Effecter",
-      "pedal": "THE FOXY BLOW",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Crazy Rock'n'Roll Effecter",
       "pedal": "TONE BENDER M.K Ⅰ. Ⅴ",
@@ -165,6 +141,30 @@
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "Sidekick",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Space Charged - Tube Overdrive/Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Space Charged V2",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Space Charged V2 - Tube Overdrive/Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Stardust",
       "catalog_type": "",
       "research_record": ""
     }
