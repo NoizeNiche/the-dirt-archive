@@ -1,35 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T04:24:40.425913+00:00",
+  "generated_at": "2026-09-25T04:38:29.382078+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1742,
+    "researched": 1744,
     "pictured": 1684,
     "complete": 1684,
-    "research_pending": 2023
+    "research_pending": 2021
   },
   "next_target": {
-    "builder": "Coura",
-    "pedal": "Gainor",
+    "builder": "Cranetortoise by Albit",
+    "pedal": "AD-1 Crunch + Atom Distortion",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Coura",
-      "pedal": "Gainor",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Craftros Pedals",
-      "pedal": "Musica Rev.D",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Cranetortoise by Albit",
       "pedal": "AD-1 Crunch + Atom Distortion",
@@ -165,6 +153,18 @@
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "Constellation of Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Crossfire",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Falcon",
       "catalog_type": "",
       "research_record": ""
     }
