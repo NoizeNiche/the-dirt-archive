@@ -159,7 +159,7 @@ jobs:
               for r in rows
           }
           before_existing_records = sorted(
-              "./" + str(p.relative_to(Path.cwd())).replace("\\","/")
+              "./" + p.as_posix().replace("\\","/")
               for p in Path("research/pedals").rglob("*.md")
           )
           Path("/tmp/research-publication-before.json").write_text(
