@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T03:14:34.066177+00:00",
+  "generated_at": "2026-09-25T03:16:29.487483+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1739,
+    "researched": 1741,
     "pictured": 1657,
     "complete": 1657,
-    "research_pending": 2026
+    "research_pending": 2024
   },
   "next_target": {
     "builder": "Couch Electronics",
@@ -25,20 +25,8 @@
       "research_record": ""
     },
     {
-      "builder": "Couch Electronics",
-      "pedal": "Blue Whale Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "Coura",
       "pedal": "Gainor",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Coura",
-      "pedal": "Raizor",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +153,18 @@
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "Constellation",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Constellation OC41",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Constellation OC45",
       "catalog_type": "",
       "research_record": ""
     }
