@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T19:32:13.878099+00:00",
+  "generated_at": "2026-09-25T19:32:53.738785+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2065,
+    "researched": 2066,
     "pictured": 1948,
     "complete": 1948,
-    "research_pending": 1696
+    "research_pending": 1695
   },
   "next_target": {
     "builder": "Critter Electronics",
@@ -51,12 +51,6 @@
     {
       "builder": "CroyTone Audio Technologies",
       "pedal": "Suzumebachi Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crust Pedals",
-      "pedal": "Hudson Broadcast Clone",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +159,12 @@
     {
       "builder": "Danelectro",
       "pedal": "Cool Cat Metal",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Cool Cat Metal II",
       "catalog_type": "",
       "research_record": ""
     }
