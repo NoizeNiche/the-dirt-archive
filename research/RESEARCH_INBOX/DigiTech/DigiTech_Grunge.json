@@ -1,0 +1,41 @@
+{
+  "builder": "DigiTech",
+  "pedal": "DigiTech Grunge",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/digitech-grunge",
+      "title": "DigiTech Grunge Distortion - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/shop/digitech-grunge?_nkw=digitech+grunge",
+      "title": "Digitech Grunge - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.tone3000.com/tones/digitech-grunge-distortion-39647",
+      "title": "DigiTech Grunge Distortion NAM Profiles by @doubleipa",
+      "h1": "DigiTech Grunge Distortion",
+      "excerpt": "DigiTech Grunge Distortion NAM Profiles by @doubleipa ToneHunt is now TONE3000 Read blog Skip to content Tone3000 - NAM Captures and IRs Create Tone Capture Capture a digital model of your gear. Upload Upload NAM or IR files. Log In Sign Up Capture Your Gear Capture Instructions Contact Github Discord Instagram TikTok Youtube NAM Facebook Group Browse Gear Type NAM IR Creators Plugin Guides Blog Capture About API Gear Type Amp + Cab Amp Head Cabinet Pedal Outboard Spaces Experimental All Gear Format NAM NAM Profiles IR Impulse Responses All Formats Top Creators Obijuan Deathblossomaudio AmpsPedalsPickups TONE3000 PippPriss All Creators Plugin TONE3000 Plugin Download Plugin Plugin Guide Guides TONE3000 Plugin Neural Amp Modeler (NAM) NAM A2: Complete Guide Impulse Responses (IRs) How to capture with NAM All Guides Blog Introducing NAM A2 TONE3000 Plugin Comes to the Octave HS-1 NAM A2: The Team Behind the Technology TONE3000 Launches Free NAM A2 Plugin and Standalone App Darkglass Anagram Now Connects Directly to TONE3000 View Blog Capture Create NAM Captures Upload NAM Captures IRs How to capture with NAM Home Browse NAM Pedal DigiTech Grunge Distortion DigiTech Grunge Distortion Pedal Capture NAM 8 Models Download Tone 888 35 4 Comments Share doubleipa 1y Description &quot;Featuring high and low EQ controls, a massive amount of gain and a die-hard chassis, the DigiTech Grunge Distortion summons swampy, searing tone with a quick stomp. Built to create the sound of from the muddy banks of the Wishkah, this pedal provides pounding tone and vicious attack.&quot; It will tear your face off :D Thanks Robert :) Our setup: (pedal, cables: Klotz - AC110, interface: NI KOMPLETE AUDIO 1, ART passive Dibox) I think the &quot;loud&quot; output volume pot was set according to the circumstances. The recording level was around -10 db, normalized to -5 db. We paid close attention to the input level. We used an art di box wired in reverse. We tested it with mikko2, we didn&#x27;t hear a difference lol. If you have any comments, please let me know in the comments. I hope you enjoy it. Of course we used the pedal AMP output. May metal be with you, peace. If you like it, you can support it :) I don&#x27;t ask, but I&#x27;m happy about it :) https://www.patreon.com/posts/digitech-grunge-142731068?utm_medium=clipboard_copy utm_source=copyLink utm_campaign=postshare_creator utm_content=join_link Makes and Models DigiTech Grunge Distortion Tags grunge nam Preview 0:00 / 0:00 Demo Play Model Digitech_GRUNGE-Tone-7_Grunge-3 IR None Input Mayer - Guitar Powered by Models Each model captures the gear at specific knob settings. A2 Default A1 Legacy Custom Download all A2 A2 8 Models Digitech_GRUNGE-Tone-7_Grunge-3 A2-Full ESR: 0.0056 A2-Lite ESR: 0.0245 500 Epochs Sweep Captured on Tone3000 - NAM Captures and IRs Digitech_GRUNGE-Tone-7_Grunge-9 A2-Full ESR: 0.0184 A2-Lite ESR: 0.0423 500 Epochs Sweep Captured on Tone3000 - NAM Captures and IRs Digitech_GRUNGE-Tone-5_Grunge-9 A2-Full ESR: 0.0137 A2-Lite ESR: 0.0524 500 Epochs Sweep Captured on Tone3000 - NAM Captures and IRs Digitech_GRUNGE-Tone-5_Grunge-7 A2-Full ESR: 0.0077 A2-Lite ESR: 0.0267 500 Epochs Sweep Captured on Tone3000 - NAM Captures and IRs Digitech_GRUNGE-Tone-7_Grunge-7 A2-Full ESR: 0.0096 A2-Lite ESR: 0.0292 500 Epochs Sweep Captured on Tone3000 - NAM Captures and IRs Digitech_GRUNGE-Tone-7_Grunge-5 A2-Full ESR: 0.0075 A2-Lite ESR: 0.0301 500 Epochs Sweep Captured on Tone3000 - NAM Captures and IRs Digitech_GRUNGE-Tone-5_Grunge-3 A2-Full ESR: 0.0047 A2-Lite ESR: 0.0173 500 Epochs Sweep Captured on Tone3000 - NAM Captures and IRs Digitech_GRUNGE-Tone-5_Grunge-5 A2-Full ESR: 0.0055 A2-Lite ESR: 0.0227 500 Epochs Sweep Captured on Tone3000 - NAM Captures and IRs 4 Comments Popular Share your thoughts... @username to mention • Ctrl+Enter to submit Comment TONE3000 very cool! 1 Reply 1 reply andymurph These are basically a Boss Metal Zone with less controls 0 Reply 1 reply License: T3K Users ",
+      "host": "www.tone3000.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.reddit.com/r/guitarpedals/comments/uzq63c/digitech_grunge_pedal_very_rad/",
+      "title": "Digitech Grunge Pedal (very rad) : r/guitarpedals - Reddit",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.reddit.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

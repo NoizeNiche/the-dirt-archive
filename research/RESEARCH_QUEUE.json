@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T19:42:53.042928+00:00",
+  "generated_at": "2026-09-25T19:44:06.171230+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2180,
+    "researched": 2197,
     "pictured": 1969,
     "complete": 1969,
-    "research_pending": 1581
+    "research_pending": 1564
   },
   "next_target": {
     "builder": "D&M",
@@ -33,12 +33,6 @@
     {
       "builder": "Danelectro",
       "pedal": "Blue Paisley PureDrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "Cash Cow Overdrive",
       "catalog_type": "",
       "research_record": ""
     },
@@ -116,12 +110,6 @@
     },
     {
       "builder": "Devi Ever : FX",
-      "pedal": "Beautiful Disaster",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Devi Ever : FX",
       "pedal": "Never Drive",
       "catalog_type": "",
       "research_record": ""
@@ -135,18 +123,6 @@
     {
       "builder": "Devi Ever : FX",
       "pedal": "Tri-Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Devi Ever : FX",
-      "pedal": "Truly Beautiful Disaster",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "DigiTech",
-      "pedal": "DigiTech Grunge",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +141,30 @@
     {
       "builder": "DigiTech",
       "pedal": "X-Series Hot Rod Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Dirty Boy",
+      "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Dirty Boy",
+      "pedal": "JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Dirty Boy",
+      "pedal": "None promoted in this block",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "DLS Effect",
+      "pedal": "Reckless Driver",
       "catalog_type": "",
       "research_record": ""
     }

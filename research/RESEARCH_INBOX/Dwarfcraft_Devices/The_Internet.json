@@ -1,0 +1,33 @@
+{
+  "builder": "Dwarfcraft Devices",
+  "pedal": "The Internet",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/dwarfcraft-devices-the-internet",
+      "title": "Dwarfcraft Devices The Internet - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/p/dwarfcraft-devices-the-internet",
+      "title": "Dwarfcraft Devices The Internet - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/itm/800297460108",
+      "title": "DWARFCRAFT DEVICES The Internet Effect Pedal JP | eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
