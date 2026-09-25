@@ -13125,10 +13125,11 @@
   {
     "builder": "Clone Bro",
     "pedal": "Tone King",
-    "image": null,
+    "image": "./assets/pedals/clone-bro/tone-king/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Clone Bro/Tone King.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/clonebro/toneking"
+    "image_source_page": "https://www.effectsdatabase.com/model/clonebro/toneking",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/clonebro_toneking_001.jpg"
   },
   {
     "builder": "Cloud 9",
@@ -14193,10 +14194,11 @@
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "Tone Bender MKIII",
-    "image": null,
+    "image": "./assets/pedals/colorsound-sola-sound/tone-bender-mkiii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Colorsound / Sola Sound/Tone Bender MKIII.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/solasound/tonebender/mk3"
+    "image_source_page": "https://www.effectsdatabase.com/model/solasound/tonebender/mk3",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/solasound_tonebender-mk3-narrow_001.jpg"
   },
   {
     "builder": "ColorTone Fx / Pedal Tank",
@@ -14227,18 +14229,20 @@
   {
     "builder": "Columbus",
     "pedal": "DST-5 Distortion",
-    "image": null,
+    "image": "./assets/pedals/columbus/dst-5-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Columbus/DST-5 Distortion.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/axtron/dst5"
+    "image_source_page": "https://www.effectsdatabase.com/model/axtron/dst5",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/axtron_dst-5_001.jpg"
   },
   {
     "builder": "Columbus",
     "pedal": "MTL-5 Ultra Metal",
-    "image": null,
+    "image": "./assets/pedals/columbus/mtl-5-ultra-metal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Columbus/MTL-5 Ultra Metal.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/cutec/5/mtl5"
+    "image_source_page": "https://www.effectsdatabase.com/model/cutec/5/mtl5",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/cutec-5_mtl-5_001.jpg"
   },
   {
     "builder": "Columbus",
@@ -14329,10 +14333,11 @@
   {
     "builder": "Companion",
     "pedal": "FY-2 Fuzz Box",
-    "image": null,
+    "image": "./assets/pedals/companion/fy-2-fuzz-box/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Companion/FY-2 Fuzz Box.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/companion/fy2"
+    "image_source_page": "https://www.effectsdatabase.com/model/companion/fy2",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/companion_fy-2_001.jpg"
   },
   {
     "builder": "Companion",
@@ -14403,10 +14408,11 @@
   {
     "builder": "Compulsive Audio",
     "pedal": "Valve Howler Jr.",
-    "image": null,
+    "image": "./assets/pedals/compulsive-audio/valve-howler-jr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Compulsive Audio/Valve Howler Jr..md",
-    "image_source_page": "https://www.effectsdatabase.com/model/compulsive/valvehowler/jr"
+    "image_source_page": "https://www.effectsdatabase.com/model/compulsive/valvehowler/jr",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/compulsive_valvehowler-jr_001.jpg"
   },
   {
     "builder": "Concrete Sound Lab",
@@ -14427,10 +14433,11 @@
   {
     "builder": "Conrad",
     "pedal": "Conrad Fuzzy Fury",
-    "image": null,
+    "image": "./assets/pedals/conrad/conrad-fuzzy-fury/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Conrad/Conrad Fuzzy Fury.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/conrad/fuzzyfury"
+    "image_source_page": "https://www.effectsdatabase.com/model/conrad/fuzzyfury",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/conrad_fuzzyfury-catalog1968_001.jpg"
   },
   {
     "builder": "Conrad",
@@ -14443,10 +14450,11 @@
   {
     "builder": "Cool Bear Effects",
     "pedal": "Grizzly Bear",
-    "image": null,
+    "image": "./assets/pedals/cool-bear-effects/grizzly-bear/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cool Bear Effects/Grizzly Bear.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/coolbear/grizzly"
+    "image_source_page": "https://www.effectsdatabase.com/model/coolbear/grizzly",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/coolbear_grizzly_001.jpg"
   },
   {
     "builder": "Coolmusic",
@@ -14480,18 +14488,20 @@
   {
     "builder": "Coolmusic",
     "pedal": "HG-7 High Gain",
-    "image": null,
+    "image": "./assets/pedals/coolmusic/hg-7-high-gain/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coolmusic/HG-7 High Gain.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/hg7"
+    "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/hg7",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/coolmusic_hg-7_001.jpg"
   },
   {
     "builder": "Coolmusic",
     "pedal": "MT-6 Distortion",
-    "image": null,
+    "image": "./assets/pedals/coolmusic/mt-6-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coolmusic/MT-6 Distortion.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/mt6"
+    "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/mt6",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/coolmusic_mt-6_001.jpg"
   },
   {
     "builder": "Coolmusic",
@@ -14528,18 +14538,20 @@
   {
     "builder": "Coolsound",
     "pedal": "A117 Rough OVD",
-    "image": null,
+    "image": "./assets/pedals/coolsound/a117-rough-ovd/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coolsound/A117 Rough OVD.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/coolsound/a117"
+    "image_source_page": "https://www.effectsdatabase.com/model/coolsound/a117",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/coolsound_a117_001.jpg"
   },
   {
     "builder": "Coolsound",
     "pedal": "A127 Dirty Bass",
-    "image": null,
+    "image": "./assets/pedals/coolsound/a127-dirty-bass/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coolsound/A127 Dirty Bass.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/coolsound"
+    "image_source_page": "https://www.effectsdatabase.com/model/coolsound",
+    "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png"
   },
   {
     "builder": "Coopersonic",
@@ -14583,10 +14595,11 @@
   {
     "builder": "Coopersonic",
     "pedal": "Mini Tube Overdrive",
-    "image": null,
+    "image": "./assets/pedals/coopersonic/mini-tube-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coopersonic/Mini Tube Overdrive.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/coopersonic"
+    "image_source_page": "https://www.effectsdatabase.com/model/coopersonic",
+    "image_source_url": "https://files.effectsdatabase.com/graphics/google-preferred-source-sq.png"
   },
   {
     "builder": "Coopersonic",
@@ -14684,10 +14697,11 @@
   {
     "builder": "Copper Gear",
     "pedal": "Distorta Obscura",
-    "image": null,
+    "image": "./assets/pedals/copper-gear/distorta-obscura/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Copper Gear/Distorta Obscura.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/coppergear/distorta/obscura"
+    "image_source_page": "https://www.effectsdatabase.com/model/coppergear/distorta/obscura",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/coppergear_distorta-obscura_001.jpg"
   },
   {
     "builder": "CopperSound Pedals",
@@ -14728,10 +14742,11 @@
   {
     "builder": "CopperSound Pedals",
     "pedal": "Mustard Gas - Lo-Fi / Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coppersound-pedals/mustard-gas-lo-fi-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CopperSound Pedals/Mustard Gas - Lo-Fi Fuzz.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/coppersound/mustardgas"
+    "image_source_page": "https://www.effectsdatabase.com/model/coppersound/mustardgas",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/coppersound_mustardgas_001.jpg"
   },
   {
     "builder": "CopperSound Pedals",
@@ -14772,10 +14787,11 @@
   {
     "builder": "Cordovox",
     "pedal": "DS-9 Distortion",
-    "image": null,
+    "image": "./assets/pedals/cordovox/ds-9-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cordovox/DS-9 Distortion.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/cordovox/ds9"
+    "image_source_page": "https://www.effectsdatabase.com/model/cordovox/ds9",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/cordovox_ds9_001.jpg"
   },
   {
     "builder": "Cordovox",
@@ -14787,10 +14803,11 @@
   {
     "builder": "Cordovox",
     "pedal": "OD-7 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cordovox/od-7-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cordovox/OD-7 Overdrive.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/cordovox/od7"
+    "image_source_page": "https://www.effectsdatabase.com/model/cordovox/od7",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/cordovox_od7_001.jpg"
   },
   {
     "builder": "Cordovox",
@@ -15005,10 +15022,11 @@
   {
     "builder": "Cosmic Sound FX",
     "pedal": "The Fuzz Machine",
-    "image": null,
+    "image": "./assets/pedals/cosmic-sound-fx/the-fuzz-machine/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cosmic Sound FX/The Fuzz Machine.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/cosmicsound/fuzzmachine"
+    "image_source_page": "https://www.effectsdatabase.com/model/cosmicsound/fuzzmachine",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/cosmicsound_fuzzmachine_001.jpg"
   },
   {
     "builder": "Cosmic Sound FX",
@@ -15362,10 +15380,11 @@
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "Black Magic",
-    "image": null,
+    "image": "./assets/pedals/crazy-tube-circuits/black-magic/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Black Magic.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/crazytube/blackmagic"
+    "image_source_page": "https://www.effectsdatabase.com/model/crazytube/blackmagic",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/crazytube_blackmagic_001.jpg"
   },
   {
     "builder": "Crazy Tube Circuits",
@@ -15843,10 +15862,11 @@
   {
     "builder": "Crews Maniac Sound",
     "pedal": "SVD-001 Classic Overdrive",
-    "image": null,
+    "image": "./assets/pedals/crews-maniac-sound/svd-001-classic-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crews Maniac Sound/SVD-001 Classic Overdrive.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/crews/svd001"
+    "image_source_page": "https://www.effectsdatabase.com/model/crews/svd001",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/crews_svd-001.jpg"
   },
   {
     "builder": "Crews Maniac Sound",
@@ -15932,7 +15952,8 @@
     "pedal": "CRR Klone",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Critter Electronics/CRR Klone.md"
+    "research_record": "./research/pedals/Critter Electronics/CRR Klone.md",
+    "image_source_page": "https://critterelectronics.com/shop"
   },
   {
     "builder": "Critter Electronics",
@@ -16076,14 +16097,16 @@
     "pedal": "Fuzz and Treble Booster",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Crown/Fuzz and Treble Booster.md"
+    "research_record": "./research/pedals/Crown/Fuzz and Treble Booster.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/crown/fuzztreblebooster"
   },
   {
     "builder": "Crown",
     "pedal": "FW-3 Distortion Wah Volume",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Crown/FW-3 Distortion Wah Volume.md"
+    "research_record": "./research/pedals/Crown/FW-3 Distortion Wah Volume.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/crown/fw3"
   },
   {
     "builder": "Crown",
@@ -16158,14 +16181,16 @@
     "pedal": "EF-DT Distortion",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Cruzer (by Crafter)/EF-DT Distortion.md"
+    "research_record": "./research/pedals/Cruzer (by Crafter)/EF-DT Distortion.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/crafter/cruzer/distortion"
   },
   {
     "builder": "Cruzer (by Crafter)",
     "pedal": "EF-OD Over Drive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Cruzer (by Crafter)/EF-OD Over Drive.md"
+    "research_record": "./research/pedals/Cruzer (by Crafter)/EF-OD Over Drive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/crafter/cruzer/overdrive"
   },
   {
     "builder": "Cryptid Effects",
@@ -16177,10 +16202,11 @@
   {
     "builder": "Cryptid Effects",
     "pedal": "Siam Howler",
-    "image": null,
+    "image": "./assets/pedals/cryptid-effects/siam-howler/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cryptid Effects/Siam Howler.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/cryptideffects/siamhowler"
+    "image_source_page": "https://www.effectsdatabase.com/model/cryptideffects/siamhowler",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/cryptideffects_siamhowler_001.jpg"
   },
   {
     "builder": "Crysta Professional",
@@ -16199,9 +16225,11 @@
   {
     "builder": "CS.Cathey",
     "pedal": "AB-03 Distortion Booster",
-    "image": null,
+    "image": "./assets/pedals/cs-cathey/ab-03-distortion-booster/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/CS.Cathey/AB-03 Distortion Booster.md"
+    "research_record": "./research/pedals/CS.Cathey/AB-03 Distortion Booster.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/cscathey_ab03-1975-10-musiclife_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/cscathey/ab03"
   },
   {
     "builder": "CS.Cathey",
@@ -16385,7 +16413,8 @@
     "pedal": "2 In 1 Fuzz Pedal",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Custom Guitar Innovations/2 In 1 Fuzz Pedal.md"
+    "research_record": "./research/pedals/Custom Guitar Innovations/2 In 1 Fuzz Pedal.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/customguitarinnovations/2in1fuzz"
   },
   {
     "builder": "Custom Guitar Innovations",
@@ -16406,7 +16435,8 @@
     "pedal": "Octavio",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Custom Guitar Innovations/Octavio.md"
+    "research_record": "./research/pedals/Custom Guitar Innovations/Octavio.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/customguitarinnovations/octavio"
   },
   {
     "builder": "Custom Tones",
@@ -16418,9 +16448,11 @@
   {
     "builder": "Cutec",
     "pedal": "OD-01 Over Drive",
-    "image": null,
+    "image": "./assets/pedals/cutec/od-01-over-drive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Cutec/OD-01 Over Drive.md"
+    "research_record": "./research/pedals/Cutec/OD-01 Over Drive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/cutec_od-01_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/cutec/01/od01"
   },
   {
     "builder": "CUVAVE / M-VAVE",
@@ -16453,9 +16485,11 @@
   {
     "builder": "CUVAVE / M-VAVE",
     "pedal": "Overdrive AMP",
-    "image": null,
+    "image": "./assets/pedals/cuvave-m-vave/overdrive-amp/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/CUVAVE / M-VAVE/Overdrive AMP.md"
+    "research_record": "./research/pedals/CUVAVE / M-VAVE/Overdrive AMP.md",
+    "image_source_url": "https://cdnx.jumpseller.com/quavernite/image/24337721/MV_-_Overdrive_AMP_3.png?1653313405",
+    "image_source_page": "https://www.efectomusica.cl/mvave-overdrive-amp"
   },
   {
     "builder": "CUVAVE / M-VAVE",
@@ -16481,16 +16515,20 @@
   {
     "builder": "Cyclone",
     "pedal": "DI-10 Distortion",
-    "image": null,
+    "image": "./assets/pedals/cyclone/di-10-distortion/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Cyclone/DI-10 Distortion.md"
+    "research_record": "./research/pedals/Cyclone/DI-10 Distortion.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/cyclone_di-10_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/cyclone/di10"
   },
   {
     "builder": "Cyclone",
     "pedal": "OD-30 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cyclone/od-30-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Cyclone/OD-30 Overdrive.md"
+    "research_record": "./research/pedals/Cyclone/OD-30 Overdrive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/cyclone_od-30_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/cyclone/od30"
   },
   {
     "builder": "Cyclone",
@@ -16532,9 +16570,11 @@
   {
     "builder": "Danelectro",
     "pedal": "Black Paisley Liquid Metal",
-    "image": null,
+    "image": "./assets/pedals/danelectro/black-paisley-liquid-metal/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Danelectro/Black Paisley Liquid Metal.md"
+    "research_record": "./research/pedals/Danelectro/Black Paisley Liquid Metal.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/danelectro-paisley_black_003.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/danelectro/paisley/black"
   },
   {
     "builder": "Danelectro",
@@ -16555,14 +16595,18 @@
     "pedal": "Cool Cat Distortion",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Danelectro/Cool Cat Distortion.md"
+    "research_record": "./research/pedals/Danelectro/Cool Cat Distortion.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40d0607fb969a2e/1790370709978/DoiU25ZFrJt0dXFWi6dnEJQjQOKQxGK_FOU2w1NmOHY-1790370709-1.3.1.1-zz.9b899mJviN2.XcRNFLrvfYrjwaaUv4q8wdbp64HE0y2fCSqDh0ZeD7NhMkArRtNIVLPQ_CWSubszRnKzYH6ay4kzZJS3Ewq1jof3cSle13KkVHTT1VgHz44DqGfI0X1CoT8O5ws2tPFMM5pMbEXbjUxJE_cPmjdMdKactsmNkyTvDceSIT0aPkSCwyJg34Jwr42GGKbGPxeWgkBhR8QEAdC7UMZ15XMwzFX05FeA4o28We8V3G6VgEE7olDlkQttpeOKh5KXeUCUpA_tSXqxfjS6VCmbVsBp45fZ0dRqVj8fYrHba6sqexjDm_RkvVhHN9aID_xAaa35LE7c5yNFUt02kjwgvGlItvXE4XkMNeIGENxKvIdmlwAkutqr.fkUDuKf_WBLgCN1CoR7f.IOk8MLbCI2XmoqN.Wrujg9k3kr1MF_AXbpjyCRW2mx.lICbkbKzkrTvYI9wh0_u4o.vl4t3Irk2BJyQlBrYkpEwXCXkcCxNIL7i.BiLUo1y7EW7aVkTK.waIgnWfx3ANir.Gn_PrGQNKseYKGFExPuq0au3MtAYcHNPHGt8wgm.9MsgS9vSFGxRbg8bD0martfQImdv22pu7S4XAIbAzuFgruM1IoAeddMbCs8mCtR5ltKgCHGnp7hw7.zQPgq3r47lb2B9kJdXrocJ2PixksEXV8IXvEcttfK7z_mPM2hYPYOcGh1RezmwjG9bzB0Y7dSb_pA03EFPS_XHNpBmbYk",
+    "image_source_page": "https://reverb.com/item/92363984-danelectro-cool-cat-drive-v1"
   },
   {
     "builder": "Danelectro",
     "pedal": "Cool Cat Drive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Danelectro/Cool Cat Drive.md"
+    "research_record": "./research/pedals/Danelectro/Cool Cat Drive.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40d066c982dd4d9/1790370726094/4urg1Vxh1ty7x5oEOWwhmYD02ji5DN0g6O37l0tu6dU-1790370726-1.3.1.1-5N2gN8TvPXhXQgNIZCRt1C8Hp3wnNtY_ed.ve6e07igRTUs7OGO9mWGWvX5ZYTFPZ9eOXcWypOm3Glil78sVujrcSEAmeCRNW1LIVuGCNbknXqAHCNHko9.Rob6AsnrT0OZPNyOYANeQ9C9an8qbCXv9PoiNsDHC1CuMY23xuiCZ.Y6x9NERsfgDKhKBtRtrTDvv9TzfY_5cI4TBhIEi4QeksMYw7pPBNiTOKWJxMWzhFNDNROxal7IF_tMKeiaS2XHL42rvHCJENQGHoAQkVYHFt7G6XAahIG0ybLvjgoT1493shRxtjPck92nndIQReQc5q_Qi1.Smz4YYurJGue0KuQHrbQaRtePD5V4FPhXoPzQwQH1NFjeWUdNcP4TbBffdn_4N9puA9EI4aL1eW5TnLbgKuh3CfEFuwa1o3LMZzFYHisdTsSyUVc8BPI.ldUJ3eKP_BS.B_ZknO0Q_Xr0nE6VADdtqSmlcmnkOYPMXdRWX4AccIqok8fhqOjB8kYVvEZd9X9hwh8DBj_5MN4EfZMJAqBQ53Xu4sNFvv3dmMtvvH.3KuLxrtbC.91jxBe7Ry3n48N4BeMon7UgdSNEs.TO0nFG1wxDzZi06tnzKfuMGCLgaEBlbRyjSyLsUSIHBLmPXdp_8rBC5Mwfq91olaiXZ8KZpxLjNQGs6X9ge5XxhTRg.6NqRftRhcRRr9lnLH59sAmlj1c7WesoX.c4V6w7lI0QJmou6OjB6qWU",
+    "image_source_page": "https://reverb.com/item/102010322-danelectro-cool-cat-drive-v2"
   },
   {
     "builder": "Danelectro",
@@ -16576,7 +16620,9 @@
     "pedal": "Cool Cat Metal",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Danelectro/Cool Cat Metal.md"
+    "research_record": "./research/pedals/Danelectro/Cool Cat Metal.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40d065ea87db26d/1790370723832/7MfJmAIbBlF4lowY9COxFPqh4QKfohJFXsJ9uv1Nbx4-1790370723-1.3.1.1-M3txn1CYTWxL9Wz0hpmDt88jy7YYEt.LA.cQZ0Jy3UgfB96ITfbYGtiP01Ux8HNDTjYEPW8pCvsJOHTJ3fLXisprR.AYGfTb9vJTQZ3N7ws1Ax8V2LgfhvYkQ1jqA8Db7AjdGItlg0Rcg8X6LgglL2Wq.vQi8_Ubscv.luzFkqF5q2maaXPAD4Uc9.aQbSSQlHN7N4Fp5DIfKA2COc9mRJgkS.N_6ofT42ki8mlDr6Rw9A4ukk7O1rHrPaXF_lpeOJbJZ21vqZQW4QIW_KGq6y5iC.TUMm3ngn8mGmlekNSrYt5d1IEr8s1R2Dtxh6lYaOv52KhSQr5YUO._CQBkZMAE0MxB0OWCsESCMSG5OXdmextLQbu7vGmIImTBz9NSfLlvgrtEMIHUjJBE.QTv3sH0xLzh6LYUd7WoXx8ynitXhDXwPjgdL49v_7FG1Uc0kFG0VrctVNI.6jn9nBZMv47UEbMT5Scm9Z1WHK55qTn9Ucah8hNqeuifJbVOA0B1l3i5UMsCeUjwKoa3fSMa2He9FoRoxMJ8y0Dud8p5sHs3FczxhjpMe6QHOK4T8PrLGeMPI4eViFqs9WpqIXePnptztdn9DGHfL8ua_FrfA9A_YEto7QaoS6Nsiv9YfSzPaC3M8PG5BQUaK5RX8_UX3bjGkRK916G5Hi3rtcCdHKF.d38C6Zx5RarXg44UzmFPPXdWrmdkma9Gr4XfG1SSUClzmqf.wrK9Ufz1y04eOaI",
+    "image_source_page": "https://reverb.com/item/94935389-danelectro-cool-cat-metal-2-distortion-2010s-black"
   },
   {
     "builder": "Danelectro",
@@ -16625,7 +16671,9 @@
     "pedal": "FAB Metal",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Danelectro/FAB Metal.md"
+    "research_record": "./research/pedals/Danelectro/FAB Metal.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40d06e5ff8ede8e/1790370745503/QcI9MVles4EqF5nLuSSIQ1M7siV3blSjXwMZnN1xx1k-1790370745-1.3.1.1-lofoMWOBaB8kxuikiCdg_nUa311.WUmf3EZzhwzKll1wc9LZ1l8VgRd61LqJTQYHHTveWVoiv6z1GJ9UcW_E4PMQkRfW7Qh3ySY6eZy4a4FpYvY_WUY8GCzSLik249S5SxahgjJNPzJfLKXrElqpCBZpQrarf4ANH9e4bhyadYQDXAvJ7FNHGGZfCqpdUzLbubrCh__Si_l36JM2F5LxdkTmmEJ4Xii3wyPS0wdmCw744s3yu8TW19eF91hrcwfMcu_kyEXZXdHlFndzxzmZPCbIOszeJKXaZXRH018f7KpV50FbBs3GQ6hjRzea47VpR1K.ZmYpi.6.Dw5LPqkudBT78Y1ztmhk5hBBy8t2Wo064XorTfoVtvVgfbi2gtwC_GUx0sYa4lNXXuZd4DH.i9_ekDnVIsgg1wsd40B7UICjtTvJ.rYm76cORl1Mb08yGNT_sK8pznMtCQST_lSZ_np3MhuwZMkJ5QW1X3ddeuQiSfE.9q7Pbh5EnF8.gjZafkPdUSGX1KekuGz2QB3s2t0weatjwgbzKYoHs0ajgNHodiQLdmfiF6cGf6rlCNRDn2a82LJO_zdvo5vs0qA2HpxwPeeNPph09j018HuISVszI7za4vi9twgpD.ctTqHLv.NhhbFORnNwmm8SGqN6q2uDD8uNdOMzXFhsrpUwv7m97UXB9ExxXKTahYoaPuu_YcCL_ZzNr0ex4JC9JqORulaLLTK7NQe7LGu_8meiEzc",
+    "image_source_page": "https://reverb.com/item/94215255-danelectro-set-d-1-fab-distortion-fab-d-3-metal-2000s"
   },
   {
     "builder": "Danelectro",
@@ -16771,9 +16819,11 @@
   {
     "builder": "Daredevil Pedals",
     "pedal": "Deep Dish-tortion",
-    "image": null,
+    "image": "./assets/pedals/daredevil-pedals/deep-dish-tortion/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Daredevil Pedals/Deep Dish-tortion.md"
+    "research_record": "./research/pedals/Daredevil Pedals/Deep Dish-tortion.md",
+    "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/L84031000001000-01-600x600.jpg",
+    "image_source_page": "https://www.guitarcenter.com/Daredevil-Pedals/DRIVE-Bi-Dual-Gain-Distortion-Effects-Pedal-Blue-1500000347976.gc"
   },
   {
     "builder": "Daredevil Pedals",
@@ -16787,7 +16837,9 @@
     "pedal": "Fearless Distortion",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Daredevil Pedals/Fearless Distortion.md"
+    "research_record": "./research/pedals/Daredevil Pedals/Fearless Distortion.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40d06df4832fbc5/1790370744457/YNEEaeFeOYRoq4MiWd95CEWlSWV5fHYQHi1w1u2wUj0-1790370744-1.3.1.1-KkBoiYWvcExK8ISQjA2MuQV_k5Abvyb6hYacYwfLNAc5vPPruw6VihnvFGg6SRhwQF1GuAkg5e9oeFjUFSw0Clr496aAoGWFDNOxfrYwlIcuHVdFrKqXzGcUVzyV.cQVt9u81VTvgUAgwDryZLTawRAmwmYbtr46m3a_ZnMpnBIe8t52UyfQeSYy7M0OE5eW5Lk4efopBwRTSYwLYh1iH7ogj5cWop6dLeRkM4Rv_CD7hHI8voqLmo3CVK.6KMN08CbLJo_3fKitfajjhNkmXYc7wLWRKvMj6XsaTEQqsFvDkSPjQy5K.5wiL1_pbz9hr2Uh3d1cNbZgzPujkwXQqB5pXGzZxZATEmgCm.umycMs75otJQwU73xf6OF.B69vUO8iZgugvuc8ECjX6_68I3Wv6NCX4VISgOt29hqZfVkT5COwtg0Lw4BmalQ0iDugc0v4Q3ZF2mxtyVbr9_M53FyuddOsEKs7LX8Ov9CbQPm3RR_LGnZyNxgHZF.dKh8Y12F3jt5f8HpjfRpmRoHmlWKVr00xl9ovtef6suNhx7rQMiDZzNTPUQtqFApdOIxay34VPbzP72Arvttti7N9DrB9QwV.TtDRQC3cpQ6JltHK5T.f15yIPrpUDXgGF9O2GwnsChLqMBwTmoEKAc_9EsWM.0DaFlmu72GUWJwWJv_td1UfxcKWTQ5s6s8vkDp5SyUYSPgjCcuyvdIyXTOeSDbqo.vioNwODOpAPlIqFnY",
+    "image_source_page": "https://reverb.com/item/97395420-daredevil-cocked-and-fearless-2010s-blue"
   },
   {
     "builder": "Daredevil Pedals",
@@ -16822,7 +16874,9 @@
     "pedal": "NORTHERN CREEPER Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Daredevil Pedals/NORTHERN CREEPER Fuzz.md"
+    "research_record": "./research/pedals/Daredevil Pedals/NORTHERN CREEPER Fuzz.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--850-x3hm--/quality=medium-low,height=400,width=400,fit=cover,gravity=bottom/b7cce4fd-ec7a-4661-a257-ffc1c3501a7e.heic",
+    "image_source_page": "https://reverb.com/item/101383494-daredevil-effects-northern-creeper-fuzz-effects-pedal-free-usa-shipping"
   },
   {
     "builder": "Daredevil Pedals",
@@ -16850,16 +16904,20 @@
   {
     "builder": "Daredevil Pedals",
     "pedal": "Real Cool Fuzz",
-    "image": null,
+    "image": "./assets/pedals/daredevil-pedals/real-cool-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Daredevil Pedals/Real Cool Fuzz.md"
+    "research_record": "./research/pedals/Daredevil Pedals/Real Cool Fuzz.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/daredevil_realcoolfuzz_003.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/daredevil/realcoolfuzz"
   },
   {
     "builder": "Daredevil Pedals",
     "pedal": "REAL COOL FUZZ",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Daredevil Pedals/REAL COOL FUZZ.md"
+    "research_record": "./research/pedals/Daredevil Pedals/REAL COOL FUZZ.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40d084e7dd39116/1790370803186/G04Nt.3Gs45KN3sJ96rva5Eo.qpvfxHp0bzD_vgX8c4-1790370803-1.3.1.1-tG2UWGl4iH66IVnelKvH8cWKna1wI8RcKvc.mKkwRSwLbHKOSK1toC65CoxL1ScaDneugfb3LgPM7RdUfmZ9x5zh7.Bss9VqGfAgJo9pv1XXSXQlQXcpkgFU2o1DAxWlL.tdD.fHUmRmq8DqKgnE3u5lR4fBOvUvJF8pE6NaS.x9ibh7EgDM7LAUK5CjCoNf7eP6PDmFNj0y4OY.qV7bq342ofxJib4IP52Osw74qL53140XX3GqBZ0iVTCS6Y_CITq8eDSwDh8nFqkjUa53FpIF5K.8RhylpYqZRgAS3NrwebWoHa4bPErxaY326StDR7.uaWuoUO.fVBJB6FiQBkfl34_3xvrLtD_5jiHV3bmEL9p_reOMUyy0NyhhlCw3lEImFTcpmuY3UYbnLWB4B_JqjzJxuus3COl.sbqPcE7hzCx8dFYAaFMeDVIRP4lCQ.6XSa2ZzgS75vAMCfecCM7Rmz.kjIrrPtRpKJx9jvc_SjNp.B0i2rD_A.JMNJQLUtgNnBHLJCDyNWFvoO9pBB1iFYbxXdIhN8vuPV4AVCodK7IudxDsBlNE0mU8EenZZJ_uxy1zqGWjP5m1aCG7Edp0lFQCDPgsqIJ7sa5cDQ6EF02j6irUpclqIWkq4.O5HbDB4zVtKgowMQgzQKKtKWh7pVncdytK8VZgJvP2_cGfd7bRcyYVz.gwl79fxHsLb8Vr23qSCo9dAXaatGXmc63zXRvqZeO16iqftg3jK_o",
+    "image_source_page": "https://reverb.com/item/98250950-preowned-daredevil-pedals-real-cool-fuzz-pedal-w-box"
   },
   {
     "builder": "Daredevil Pedals",
@@ -16917,7 +16975,8 @@
     "pedal": "The Chicago Way",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Daredevil Pedals/The Chicago Way.md"
+    "research_record": "./research/pedals/Daredevil Pedals/The Chicago Way.md",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/daredevil-pedals-the-chicago-way-fuzzoverdrive-pedal-1982483"
   },
   {
     "builder": "Daredevil Pedals",
@@ -16987,7 +17046,9 @@
     "pedal": "Apocalypse",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Death By Audio/Apocalypse.md"
+    "research_record": "./research/pedals/Death By Audio/Apocalypse.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40d078b4f5a840d/1790370771963/JrZlw680k.xgBtGCcUeaXQ_u0CUZspBM30PPkNaRtp4-1790370771-1.3.1.1-c8s_Z2HLIH6i1RrmRAMqkZjR9tOMZI93ivi2lVJqpd6A8A18mGvTQo5nYD4e_vN47QSKO0erIxM2XXuE50SpYZCLRaIBi4T_QmMJBHojIcvn5XqTHkhUmG_zoi4vjQpTcbfOmNz83kJnlqyqN_p_.dna4hfLfVaZyJvLgp7aVG.thsap3bHuhk4VDtVUAWzPzkrRoXZgUL_PBH_zV1_XW46fTczhA8HFSgYdNV7dBxGsuyK9kl_pu9pDmVq9y1lH8sE6ydNBHj4lPT6x5eB9Qrkeq5MLKcle9EJeprgIPAK.Bea83Yvd_iYGwzlP3waj4ALNFcJOf5BhV3bDVlJlxLGian72ZNIjBJ3IL1O4fmSD8r2l7_sT4fBFGEeOEJOFYkgYKW0R.aihy93oaYeHPB0wW7p8k6It0_WCltZ54dVV1M81CCsU50odyp52BZTDAYWuKCMG9JXOHfKZuIEQ9Oat4lN2kegXobOk0yPmnqOXt91dm6l9CmnTvX_ZigjcoGAK9IU.cZTooEV.EJr0yNoqxMlEZSO7FgCJ2OvIDy.3OfzWrOFcAdtEWlb58UEN2jOEznyBvDJPKTr_btdcI1mz3ErxDAkaw7AK5fTRRVkchLR_Pmd3I4Fh61SK2pyrQclr_tEJcAoKyr4NU1L4AIMChMC1CP_btMv.ykUf7Z8_fsBqfdwAEr7pTOL3aWHTQT6Q7EhA13YoObpPRGPKEqaHqC5y0ofNk4x.zXiN1K4",
+    "image_source_page": "https://reverb.com/item/92101010-death-by-audio-apocalypse-2010s-sea-foam-green"
   },
   {
     "builder": "Death By Audio",
@@ -17084,9 +17145,11 @@
   {
     "builder": "Death By Audio",
     "pedal": "Supersonic Fuzz Gun",
-    "image": null,
+    "image": "./assets/pedals/death-by-audio/supersonic-fuzz-gun/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Death By Audio/Supersonic Fuzz Gun.md"
+    "research_record": "./research/pedals/Death By Audio/Supersonic Fuzz Gun.md",
+    "image_source_url": "https://incognitoguitars.com/wp-content/uploads/2023/06/Death-By-Audio-Supersonic-Fuzz-Gun-Diagonal-Hi-Res.jpeg",
+    "image_source_page": "https://incognitoguitars.com/product/death-by-audio-supersonic-fuzz-gun/"
   },
   {
     "builder": "Death By Audio",
@@ -17135,9 +17198,11 @@
   {
     "builder": "Deep Trip",
     "pedal": "BOG",
-    "image": null,
+    "image": "./assets/pedals/deep-trip/bog/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Deep Trip/BOG.md"
+    "research_record": "./research/pedals/Deep Trip/BOG.md",
+    "image_source_url": "https://medias.audiofanzine.com/images/normal/deep-trip-bog-1669602.jpeg",
+    "image_source_page": "https://en.audiofanzine.com/fuzz-pedal/deep-trip/bog/"
   },
   {
     "builder": "Deep Trip",
@@ -17782,9 +17847,11 @@
   {
     "builder": "Drunk Beaver",
     "pedal": "Kyiv Lead",
-    "image": null,
+    "image": "./assets/pedals/drunk-beaver/kyiv-lead/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Drunk Beaver/Kyiv Lead.md"
+    "research_record": "./research/pedals/Drunk Beaver/Kyiv Lead.md",
+    "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/568/2025-GPX-Drunk-Beaver-Disambiguation-II-Diagonal-7001.jpg",
+    "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/drunk-beavers-v2-iteration-of-the-disambiguation-muff-rat-sees-a-massive-upgrade-with-2-more-controls-and-additional-and-enhanced-circuit-components"
   },
   {
     "builder": "Drunk Beaver",
@@ -17798,7 +17865,9 @@
     "pedal": "Secret Sauce",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Drunk Beaver/Secret Sauce.md"
+    "research_record": "./research/pedals/Drunk Beaver/Secret Sauce.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40d08c63db1ace0/1790370822336/SNfOKsFFZH4.ZMso3CWHU3EBv.ZwBA.2G3jyiSWJosI-1790370822-1.3.1.1-zGM0Kl4b9zAZ1912WqIeLOG8tkKFhRpXlLr8f71ouv2rmK01e0uw1J1jY0wy8ZFAwEp6xW7OSbwQtTnXKW08RMPeOP5QRxQUvGKa0EEoHvbwAQhAqSJSnmRc8XWj3ddlHqgIvJpgGF_h88ovGxT6LBvbwhSlb9fxskuU7g5CzURTs8mKm7J5g.Me.gNy47_1ETp4eDSOkhL2ZWeOHDg19mBtW.E9Vwo5GKuj.qU1EzsBoaU1ZYQQHMwZI5YxB4QASnFeqIAmcZ0AH7wCMPPtemkfjvgnIVLxNwFDpa.Huxe3ZXdvjjiRFgF1fFDGVwxSs3mLa8va8KkZ5dJ39lSWMRP.uPCzbAiQnpcDTJBY29deb.L4PcZtZ0YOwUY5aTQ6.6PhZFOCBiuxZsYZs0JcgX76ySIy1H64MQUAKJB0uMhrTcuRhd9e71_5NK7cNKrcKpHwJnKxaAxHP5_KKKWzNN9hfMMYBzR7AS3SsCRRGIqVKeeBpu4fL78MCpR6l8Jg.HdxSbMIghc7td4m48gGr3SgZRtCH_voanR4jJsZHh66W57EjGEzAREPg6wy_BrSbPgD2YDyfPjwHlGYfr4.oX7lGVj4tYJGhWLlAf_vIEJJrknsh_KptLThUaDbsYhsRGSH.npdg6I3JKgdGbCBRr79qEizBWR3d7OQm3HqfFK0UmjpCDePnnsaiRWMzDzDmVrj0qDwQdlV3yGV5XWizU1nAWcs.eK_HCk_0OgwCtY",
+    "image_source_page": "https://reverb.com/item/98027579-drunk-beaver-secret-sauce"
   },
   {
     "builder": "Drunk Beaver",
@@ -17973,9 +18042,11 @@
   {
     "builder": "Dwarfcraft Devices",
     "pedal": "Zhago",
-    "image": null,
+    "image": "./assets/pedals/dwarfcraft-devices/zhago/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Dwarfcraft Devices/Zhago.md"
+    "research_record": "./research/pedals/Dwarfcraft Devices/Zhago.md",
+    "image_source_url": "https://guitars.gbase.com/aza/user/gear/dwarfcraft-devices-zhago-3-gJyPdxh.jpg",
+    "image_source_page": "https://www.gbase.com/gear/dwarfcraft-devices-zhago"
   },
   {
     "builder": "EarthQuaker Devices",
@@ -28275,9 +28346,11 @@
   {
     "builder": "VOX",
     "pedal": "VOX 7001 Distortion",
-    "image": null,
+    "image": "./assets/pedals/vox/vox-7001-distortion/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/VOX/VOX 7001 Distortion.md"
+    "research_record": "./research/pedals/VOX/VOX 7001 Distortion.md",
+    "image_source_url": "https://www.bashsmusic.com.au/wp-content/uploads/VOX-PFINDER10RD_3-1000x717.webp",
+    "image_source_page": "https://www.bashsmusic.com.au/product/vox-pathfinder-10-limited-edition-red/"
   },
   {
     "builder": "Walrus Audio",
@@ -28510,10 +28583,10 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "Black '65",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/black-65/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Black '65.md",
-    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c6916fbbed6bc/1790364281674/CA_w1bJO8WON0rgHT0vrLqr9WHmJNQ58VXtnGeuYmts-1790364281-1.3.1.1-p0JpcTAOaDMmOIxlR3PjCacTuvuF8p8LIhE0FUxakEhoPxzPLDThZ.KyIpTeokqX2_wMLm4DA2KJb0nDW73y1rTXxJeXY9bz10tVOST6Zv4tNlu41i56dvRoZOYGQDX._OWdDv8BGJEAqI0XpnYFmvFWSwa87u.Imog3tTKAHLKF0nT7N.HtizuV0Hanz36xF_eO4D1YSk5UNjvswNtvBp0cxXdVnaaVgJ4XyEbCtCUMIkP0HI35GD4YttNILHxbBFtfNdx0YzV34eK3fMzl8YIcsLvqfmFVUUN7h1mSTQTtqTrIfsg3De4mm3TYHiZpao6XAN9X4_1WUnYS_IK72CIa5NC832VZeSzh_hFhK5TPdj8UJHkm572QiURIBzZwKdph0VPmIkIT34iG4Dc2eidgPvw2_S7rRjmoEMhtqI5R35nx.ft3dDGgrPj_KSspNh8n.Ab5JCFk5UdowKt9HGuE0VuVE_FtokOTTTLCEb3hnLplOy.ybAvS8DGShsmkZIcBKWUtsNOxYL7GRL20VnJ1YN85IRwtP8MPxVnuecYmiMwpa0eyceDqMU9ECstVuQ7jWc8fUlelmB3cGiSrSe3wynCmPDlNpMsO2RL.HM7eAiE30xOX9QMUoMQqu7wap_uExo56m5Yl3h0iUctkh5i.UL86Qd_fsVh9akTPrb.jFPeW8.HWMPqhuvI5j1XMOcCJerjP6Z4ZQR0HQe0cpLpM25oE1vkH3BICRowZr5Q",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--GZEMBv6R--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/cg5yjpatyqhvvdqkbnu3.jpg",
     "image_source_page": "https://reverb.com/item/102077992-wampler-black-65-overdrive-2010s-black"
   },
   {
@@ -28827,7 +28900,9 @@
     "pedal": "Tumnus Deluxe",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Wampler Pedals/Tumnus Deluxe.md"
+    "research_record": "./research/pedals/Wampler Pedals/Tumnus Deluxe.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40d0952cb37827e/1790370844855/c4k2p5dRkEpI_Rnv.NMcqeiM0Htzl7AW8dlJV5vI33c-1790370844-1.3.1.1-CfKg.qbkQE0QmAxWvlH1aT5JEJpNBEonEh90QnGgH0d1RoiA5CZKFaioIznpvT5XRR3424eN2rwsTEZ5.SI3fU8Kts.5D7dhyjkATazPrhuO8PpiBA025savo8MQFxFV.OGTyVnolnzkfUVrJwHSYimFPcOENvL.dUXHnSjhj2e.bFHUG51fAw7nK6wFoiGvf3IVdTNuOts_tg_azM1bVJFBhMTbTOL1jA5FHm7MzP82LrQp.0MUpPXdKmbxFR3MAtWeiLrYKUpyfc2W7Img2ORRqqu4BdH6s16FevZA7sm_1uD8QGvLSdpO5ctUxoA9fHr_XoCvkHNj75ypnsrrWky3phZnH_3Ifni2tMtZqdzi8MCGOLOp6vvW_765J5mgpN1lBNviEArJxtiCtGZ0w6xxLNmuGlIxRNr.jyvzcjF8Vft0zroVt5GmWkupRwK5AKUtaPckd6CEjwHn0LWWMmAtnKHjIy0X6xh.BNvg8pL0tFIy3ySXsQHtmZ3RYMMyilstvDyIMziwmtWIVNw.9Zas6JSod4bTOnvW_blJXfGJWTrr_JF1ul7ufb1UbJ2FwptbejkkG_1sJrSthbaQAsOnBQsfUYIvH07H4s21b8sUNPLtJYFAuucRIos4YKtUVd9tauTE2DvT3CuchRT2RBYZdNBREnI6tA7wx8Kx4Tm6cQQB6GjomIuq2BLU._YpHwfOlc6TZcSQHLaWheF7kIY_Re9h6DR3ojYhZIX_LzA",
+    "image_source_page": "https://reverb.com/item/92782932-wampler-tumnus-deluxe"
   },
   {
     "builder": "Wampler Pedals",
