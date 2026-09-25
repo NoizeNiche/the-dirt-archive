@@ -34,6 +34,9 @@ jobs:
       - name: Synchronize tracker from canonical catalog
         run: python scripts/sync-prp-tracker.py
 
+      - name: Synchronize photo backlog from tracker
+        run: python scripts/sync-photo-backlog.py
+
       - name: Build Catalog Research Phase queue
         run: python scripts/build-research-queue.py
 
@@ -46,7 +49,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
+          git add research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
           if git diff --cached --quiet; then
             echo "Research metadata already synchronized."
             exit 0
@@ -76,7 +79,8 @@ jobs:
             python scripts/sync-prp-tracker.py
             python scripts/build-research-queue.py
             python scripts/validate-archive.py
-            git add research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
+            python scripts/sync-photo-backlog.py
+            git add research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
             if git diff --cached --quiet; then
               echo "Newest main already contains synchronized research state."
               exit 0
