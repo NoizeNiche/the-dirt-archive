@@ -1,0 +1,23 @@
+{
+  "builder": "Zander Circuitry",
+  "pedal": "Siva",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://zandercircuitry.com/product/siva/",
+      "title": "Siva – Zander Circuitry",
+      "h1": "Siva",
+      "excerpt": "£ 149.00 The op-amp fuzz. A classic with a difference. The legendary ‘Big M’ fuzz circuit launched a thousand innuendos and riff after earth-shaking riff. It’s also inspired countless reinterpretations over the years, all based on a pretty consistent circuit topology – with one exception. The classic 1970s op-amp model has a tone and feel that’s all its own, delivering crushing walls of gain and a sound that’s bigger than ‘big’. The Siva is our take on this very special circuit. And as you’d expect, we’ve added a few extra bells and whistles to bring it into the present day. Out of stock Out of stock Share this product Categories: Distortion , Fuzz , Pedals Tag: Pedals Previous Product Next Product Description Description Overview Deep dive Tech specs Demos Overview Please note: Our pedals no longer ship with both the option for momentary switching as standard (we surveyed customers and the overwhelming response was they didn’t use it), if you would like that specifically included in your build please email us after purchasing to let us know and we can still include this. Made famous by The Smashing Pumpkins on a string of classic records in the 1990s, the op-amp sound wasn’t a roaring success at first. Players in the 1970s preferred the transistor-based feel of the previous version, and couldn’t get along with crunchier, coarser, and sometimes sludgier distortion produced by the different components. Times have changed. And these days the op-amp circuit is rightly looked on as a gateway to grungy brilliance. With the Siva, we’ve taken what makes it so iconic, added our own special sprinkling of added clipping options to make it more flexible, and ramped things up a notch in every department to put the sounds of the ‘70s, the ‘90s, and the future at your feet. Deep dive EQ is the secret to getting the best out of any type of ‘Big M’ circuit. And just like our transistor-based version, the American Geek, the Siva comes loaded with a powerful 3 band tone stack, giving you more control and creativity, along with many sounds that this circuit normally can’t reach. The Siva also features our signature diode rotary switch, which switches between eight different clipping types for even more versatility: Germanium: Smooth, sweet, and classically ‘amp-like’. Silicon: Louder, brighter, and a little bit brittle. LED: Louder again, with less saturation and more punch. Asymmetrical germanium: A more aggressive version of germanium. Asymmetrical silicon: A more aggressive version of silicon. Asymmetrical LED: A more aggressive version of LED. Transistor/MOSFET: Similar to silicon, but sweeter and crunchier. No diodes: Loads of output and much less gain. And for those times where there’s no such thing as ‘too much gain’, the Siva’s Blast footswitch turns the drive all the way up, and activates a second volume control for seamless transitions between low and high-gain sounds. Tech specs There are seven controls that you’ll need to use to get the Siva screaming or singing: Gain: Gain control Bass: Low end adjustment Mids: Mid-range adjustment Treb: H igh end adjustment Level: Output volume Blast: Output volume (in Blast mode) Rotary: Clipping diode selector It also has two footswitches: Engage: Turn it on and off Blast: Activate Blast mode Not to mention: Top-mounted in/out jacks Power requirements: 9V DC (center-negative) supply Current draw: 140 mA Dimensions: (W)67 mm x (L)122 mm x (H)60 mm Please don’t try to power this pedal with anything other than a 9V DC supply. If you do, your shiny new pedal might stop working, and nobody wants that. Demos Related products",
+      "host": "zandercircuitry.com"
+    },
+    {
+      "url": "https://www.northernstomps.com/product-page/zander-circuitry-siva",
+      "title": "Zander Circuitry - Siva | northernstompboxes",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.northernstomps.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

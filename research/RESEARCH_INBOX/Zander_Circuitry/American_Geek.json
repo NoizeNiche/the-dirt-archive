@@ -1,0 +1,23 @@
+{
+  "builder": "Zander Circuitry",
+  "pedal": "American Geek",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://zandercircuitry.com/product/american-geek/",
+      "title": "American Geek – Zander Circuitry",
+      "h1": "American Geek",
+      "excerpt": "$ 280.00 The high gain fuzz machine. The ‘Big M’ just got bigger. You know it. You love it. You’ve heard it a thousand times on your favourite records and at your favourite gigs. It’s a fuzz/distortion circuit that needs no introduction, but we’re giving it one for our American Geek, which takes the familiar and pushes it in an entirely new direction. Pairing vintage tone with modern flexibility, this beast puts the variables back into the equation, to give you the exact tone you’re looking for. American Geek quantity Add to basket Share this product Categories: Distortion , Fuzz , Pedals Tag: Pedals Previous Product Next Product Description Description Overview Deep dive Tech specs Demos Overview Please note: Our pedals no longer ship with both the option for momentary switching as standard (we surveyed customers and the overwhelming response was they didn’t use it), if you would like that specifically included in your build please email us after purchasing to let us know and we can still include this. To say there are a lot of ‘Big M’ circuits out there would be an understatement. But despite over 50 years of revisions and reissues, the basic circuit has always stayed pretty much the same (with the notable exception of op-amp alternatives like our Siva ). The reason why certain versions sound different is almost entirely down to the different parts used, and what flavour they add to the mix. That’s where the inspiration for the American Geek came from. We’ve taken the bones of the legend and reanimated them with multiple clipping options and precise control over the EQ, giving you the flexibility and freedom to dial in ‘your’ perfect version of the classic. Deep dive EQ is the secret sauce that elevates these types of pedals from good to great. So just like our op-amp version, the Siva , the American Geek comes loaded with a powerful 3 band tone stack, giving you more control and creativity, along with many sounds that this circuit normally can’t reach. The American Geek also features our signature diode rotary switch, which lets you choose between eight clipping types for added versatility: Germanium: Smooth, sweet, and classically ‘amp-like’. Silicon: Louder, brighter, and a little bit brittle. LED: Louder again, with less saturation and more punch. Asymmetrical germanium: A more aggressive version of germanium. Asymmetrical silicon: A more aggressive version of silicon. Asymmetrical LED: A more aggressive version of LED. Transistor/MOSFET: Similar to silicon, but sweeter and crunchier. No diodes: Loads of output and much less gain. And for those times where there’s no such thing as ‘too much gain’, the American Geek’s Blast footswitch turns the gain all the way up, and activates a second volume control for seamless transitions between low and high-gain sounds. Tech specs There are seven controls that you’ll use to tame the American Geek: Gain: Gain control Bass: Low end adjustment Mids: Mid-range adjustment Treb: H igh end adjustment Level: Output volume Blast: Output volume (in Blast mode) Rotary: Clipping diode selector It also has two footswitches: Engage : Turn it on and off Blast : Activate Blast mode Not to mention: Top-mounted in/out jacks Power requirements: 9V DC (center-negative) supply Current draw: 126 mA Dimensions: (W)67 mm x (L)122 mm x (H)60 mm Please don’t try to power this pedal with anything other than a 9V DC supply. If you do, your shiny new pedal might stop working, and nobody wants that. Demos Related products",
+      "host": "zandercircuitry.com"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Zander-Circuitry/American-Geek/68986681/",
+      "title": "American Geek by Zander Circuitry | RockBoard | PedalPedia",
+      "h1": "American Geek",
+      "excerpt": "",
+      "host": "www.rockboard.de"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
