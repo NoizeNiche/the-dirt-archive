@@ -2,7 +2,7 @@
   "builder": "Danelectro",
   "pedal": "Cool Cat Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 5,
   "sources": [
     {
       "url": "https://reverb.com/p/danelectro-cool-cat-fuzz",
@@ -18,6 +18,30 @@
       "h1": "",
       "excerpt": "",
       "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.premierguitar.com/gear/danelectro-cool-cat-fuzz-transparent-overdrive-and-vibe-reviews",
+      "title": "Danelectro Cool Cat Pedals Review: Fuzz Overdrive - Premier Guitar",
+      "h1": "Danelectro Cool Cat Fuzz, Transparent Overdrive and Vibe Reviews",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Danelectro Cool Cat Pedals Review: Fuzz Overdrive - Premier Guitar &#32; &#32; Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts Shred With Shifty <a class=\"list__item\" href=\"/podcast/wong-note",
+      "host": "www.premierguitar.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://bucketlistguitars.com/product/danelectro-cool-cat-fuzz/",
+      "title": "Danelectro Cool Cat Fuzz - Bucket List Guitars",
+      "h1": "",
+      "excerpt": "",
+      "host": "bucketlistguitars.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://equipboard.com/items/danelectro-cf-2-cool-cat-fuzz",
+      "title": "Danelectro CF-2 Cool Cat Fuzz V2 - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
       "source_kind": "other"
     }
   ],

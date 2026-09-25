@@ -2,7 +2,7 @@
   "builder": "DigiTech",
   "pedal": "DigiTech Death Metal",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 4,
+  "independent_exact_source_count": 7,
   "sources": [
     {
       "url": "https://reverb.com/p/digitech-death-metal",
@@ -34,6 +34,30 @@
       "h1": "",
       "excerpt": "",
       "host": "www.sweetwater.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.reddit.com/r/guitarpedals/comments/12cvnl8/how_good_is_the_digitech_death_metal/",
+      "title": "How good is the Digitech DEATH METAL? : r/guitarpedals - Reddit",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.reddit.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/DigiTech/Death-Metal/68977439/",
+      "title": "Death Metal by DigiTech | RockBoard | PedalPedia",
+      "h1": "Death Metal",
+      "excerpt": "Death Metal by DigiTech | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE DigiTech Death Metal LOG IN TO SUGGEST IMPROVEMENTS DISTORTION Description Featuring a dual output, rugged chassis and EQ controls for low, mid, and high frequencies, the Digitech Death Metal is designed to bring high-gain buzz saw distortion at the stomp of a box. Dark, brutal, and vicious, this effect finds a natural place in death or thrash metal but also holds applications in noise rock or experimental. Media Videos Demo by Dome (EN) Demo by TheSuperFunAwesomeHappyTimePedalShow (EN) Manuals Manual (EN) Reviews Review by Audiofanzine (FR) Review by Reddit /guitarpedals (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Weight 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 25mA More pedals from DigiTech SYNTH SYNTH DigiTech Talker PITCH SHIFTER HARMONIZER OCTAVER PITCH SHIFTER HARMONIZER OCTAVER DigiTech Whammy V Thomann 70th Anniversary PITCH SHIFTER PITCH SHIFTER DigiTech Drop PHASER PHASER DigiTech Hardwire Stereo Phaser SP-7 All DigiTech Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview ©2026 Warwick GmbH Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.diystompboxes.com/smfforum/index.php?topic=120562.0",
+      "title": "Fixing Digitech Death Metal - diystompboxes.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.diystompboxes.com",
       "source_kind": "other"
     }
   ],

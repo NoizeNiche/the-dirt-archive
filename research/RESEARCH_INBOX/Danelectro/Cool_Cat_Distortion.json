@@ -2,7 +2,7 @@
   "builder": "Danelectro",
   "pedal": "Cool Cat Distortion",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 4,
+  "independent_exact_source_count": 5,
   "sources": [
     {
       "url": "https://reverb.com/p/danelectro-cool-cat-distortion",
@@ -34,6 +34,14 @@
       "h1": "",
       "excerpt": "",
       "host": "www.tdpri.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.ebay.com/itm/267171238988",
+      "title": "Danelectro Cool Cat Distortion Pedal CD-1 Vintage Guitar Bass ... - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
       "source_kind": "other"
     }
   ],

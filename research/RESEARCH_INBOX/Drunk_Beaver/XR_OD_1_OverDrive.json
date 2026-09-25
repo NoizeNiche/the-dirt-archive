@@ -2,7 +2,7 @@
   "builder": "Drunk Beaver",
   "pedal": "XR OD-1 OverDrive",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 3,
+  "independent_exact_source_count": 2,
   "sources": [
     {
       "url": "https://drunk-beaver.rocks/products/xr-od-1",
@@ -19,14 +19,6 @@
       "excerpt": "",
       "host": "reverb.com",
       "source_kind": "reverb"
-    },
-    {
-      "url": "https://fr.audiofanzine.com/overdrive-guitare/drunk-beaver/xr-od-1-overdrive/petites-annonces/",
-      "title": "Drunk Beaver XR OD-1 Overdrive d'occasion - Audiofanzine",
-      "h1": "",
-      "excerpt": "Drunk Beaver XR OD-1 Overdrive d'occasion - Audiofanzine window.googletag = window.googletag || { cmd: [] }; window.adsSlots = window.adsSlots || []; dataLayer.push({ 'gam': {\"adCategory\":{\"1204",
-      "host": "fr.audiofanzine.com",
-      "source_kind": "other"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
