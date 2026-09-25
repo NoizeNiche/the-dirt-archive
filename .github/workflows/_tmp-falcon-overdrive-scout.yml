@@ -1,0 +1,66 @@
+name: Temporary Falcon Overdrive source scout
+
+on:
+  push:
+    paths:
+      - ".github/workflows/_tmp-falcon-overdrive-scout.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  scout:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Search and fetch exact Falcon Overdrive sources
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/falcon-overdrive
+          python - <<'PY'
+          import re, subprocess, urllib.parse
+          from pathlib import Path
+          q='"Crazy Tube Circuits" "Falcon - Overdrive"'
+          urls=[
+            "https://www.google.com/search?q="+urllib.parse.quote(q),
+            "https://www.bing.com/search?q="+urllib.parse.quote(q),
+            "https://html.duckduckgo.com/html/?q="+urllib.parse.quote(q),
+          ]
+          found=[]
+          pat=re.compile(r'https?://[^"<> ]+')
+          for u in urls:
+            p=subprocess.run(["curl","-L","--silent","--show-error","--compressed","--max-time","15","-A","Mozilla/5.0",u],capture_output=True,text=True)
+            html=p.stdout
+            for x in pat.findall(html):
+              x=bytes(x,"utf-8").decode("unicode_escape")
+              x=x.split("&amp;")[0]
+              if any(h in x for h in ["crazytubecircuits.com","reverb.com","guitarplayer.com","guitarworld.com","premierguitar.com","thomann.de","marksguitarshop.com"]):
+                if x not in found: found.append(x)
+          # Add likely direct product URL as a validation candidate.
+          found.insert(0,"https://crazytubecircuits.com/falcon-overdrive")
+          ded=[]
+          for x in found:
+            if x not in ded: ded.append(x)
+          Path("/tmp/falcon-overdrive/urls.txt").write_text("\n".join(ded[:20]),encoding="utf-8")
+          print("\n".join(ded[:20]))
+          PY
+          i=0
+          while IFS= read -r u; do
+            [ -n "$u" ] || continue
+            if curl -L --silent --show-error --fail --compressed --connect-timeout 8 --max-time 20 \
+              -A "Mozilla/5.0 The Dirt Archive source scout" "$u" > "/tmp/falcon-overdrive/source-$i.html"; then
+              echo "FETCHED $u"
+            else
+              echo "FAILED $u"
+              rm -f "/tmp/falcon-overdrive/source-$i.html"
+            fi
+            i=$((i+1))
+            [ "$i" -ge 20 ] && break
+          done < /tmp/falcon-overdrive/urls.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: falcon-overdrive-sources
+          path: /tmp/falcon-overdrive/
+          retention-days: 1
