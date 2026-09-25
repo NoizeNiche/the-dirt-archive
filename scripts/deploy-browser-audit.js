@@ -91,10 +91,37 @@ const path = require('node:path');
               .split(/[^A-Za-z0-9]+/)
               .find(token => token.length >= 4) || String(typeBuilderPedal || positiveResearchCanary.pedal || '').slice(0, 6);
 
-            // Every cataloged image must resolve before deployment. Local cached
-            // images are served by the site itself; legacy external images remain
-            // supported while the archive completes the cache migration.
-            const picturedEntries = (catalog.pedals || []).filter(x => x.image);
+            // Deployment checks changed image placements plus a bounded smoke
+            // set. The scheduled health pass remains responsible for the
+            // exhaustive catalog-wide image audit.
+            const allPicturedEntries = (catalog.pedals || []).filter(x => x.image);
+            const changedFiles = (() => {
+              try {
+                return require('node:child_process')
+                  .execFileSync('git', ['diff-tree', '--no-commit-id', '--name-only', '-r', 'HEAD^', 'HEAD'], {encoding:'utf8'})
+                  .split(/\r?\n/).map(x => x.trim()).filter(Boolean);
+              } catch {
+                return [];
+              }
+            })();
+            const touchedPicturedEntries = allPicturedEntries.filter(entry => {
+              const imagePath = String(entry.image || '').replace(/^\.\//, '');
+              return changedFiles.includes(imagePath);
+            });
+            const touchedKeys = new Set(touchedPicturedEntries.map(x => x.company + '\u0000' + x.pedal));
+            const smokePicturedEntries = allPicturedEntries
+              .filter(entry => !touchedKeys.has(entry.company + '\u0000' + entry.pedal))
+              .sort((a,b) => (a.company + '\u0000' + a.pedal).localeCompare(b.company + '\u0000' + b.pedal))
+              .slice(0, 24);
+            const imageAuditMode = process.env.DEPLOY_IMAGE_AUDIT_MODE || 'changed';
+            const picturedEntries = imageAuditMode === 'all'
+              ? allPicturedEntries
+              : [...touchedPicturedEntries, ...smokePicturedEntries];
+            console.log('Deployment image audit scope:', imageAuditMode,
+              '| changed:', touchedPicturedEntries.length,
+              '| smoke:', smokePicturedEntries.length,
+              '| checked:', picturedEntries.length,
+              '| catalog pictured:', allPicturedEntries.length);
             let cursor = 0;
             const imageFailures = [];
             async function checkImageUrls() {
@@ -136,7 +163,8 @@ const path = require('node:path');
             if (externalImageWarnings.length) {
               console.warn('External image endpoint warnings (host-side blocks, rate limits, or transient server errors): ' + externalImageWarnings.join(' | '));
             }
-            console.log('Completed catalog image URL audit for', picturedEntries.length, 'pictured entries; fatal URL failures are still deployment blockers.');
+            console.log('Completed deployment image URL audit for', picturedEntries.length,
+              'entries; fatal URL failures are still deployment blockers.');
             // Landing page: catalog window, core controls, and link structure.
             await page.goto('http://127.0.0.1:4173/index.html', {waitUntil:'networkidle'});
             const initialCardCount = await page.locator('#grid .card').count();
