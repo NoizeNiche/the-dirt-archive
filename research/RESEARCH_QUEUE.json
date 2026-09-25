@@ -1,47 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T07:00:46.579515+00:00",
+  "generated_at": "2026-09-25T07:02:55.944717+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 1816,
+    "researched": 1820,
     "pictured": 1746,
     "complete": 1746,
-    "research_pending": 1945
+    "research_pending": 1941
   },
   "next_target": {
-    "builder": "Crest Audio",
-    "pedal": "Fuzz Face",
+    "builder": "Crews Maniac Sound",
+    "pedal": "Addict OD",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Crest Audio",
-      "pedal": "Fuzz Face",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crestwood",
-      "pedal": "Crestwood 6-Tr Fuzz Wah",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crestwood",
-      "pedal": "Crestwood 8-Tr Fuzz Wah Pedal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crestwood",
-      "pedal": "Crestwood Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Crews Maniac Sound",
       "pedal": "Addict OD",
@@ -165,6 +141,30 @@
     {
       "builder": "Crock",
       "pedal": "DS-4 Supra Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crock",
+      "pedal": "OD-2 Over Drive Plus",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crock",
+      "pedal": "SD-2 Super Over Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crock",
+      "pedal": "SM-2 Super Metal",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crock",
+      "pedal": "SM-3 Super Metal",
       "catalog_type": "",
       "research_record": ""
     }
