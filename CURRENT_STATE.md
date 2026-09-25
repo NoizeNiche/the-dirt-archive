@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3765 total / 1775 researched / 1684 pictured / 1684 complete / 1990 research-pending / 91 researched-photo-pending**.
+Live catalog: **3765 total / 1776 researched / 1684 pictured / 1684 complete / 1989 research-pending / 92 researched-photo-pending**.
 
-**Next research target:** Crazy Rock'n'Roll Effecter - TONE BENDER M.K Ⅰ. Ⅴ.
+**Next research target:** Crazy Tube Circuits - Crossfire.
 
-PRP1 closeout remains separate: 91 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 92 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-25T04:52:39.736632+00:00
+Last refreshed: 2026-09-25T04:54:40.517999+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints

@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T04:52:39.736632+00:00",
+  "generated_at": "2026-09-25T04:54:40.517999+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1775,
+    "researched": 1776,
     "pictured": 1684,
     "complete": 1684,
-    "research_pending": 1990
+    "research_pending": 1989
   },
   "next_target": {
-    "builder": "Crazy Rock'n'Roll Effecter",
-    "pedal": "TONE BENDER M.K Ⅰ. Ⅴ",
+    "builder": "Crazy Tube Circuits",
+    "pedal": "Crossfire",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Crazy Rock'n'Roll Effecter",
-      "pedal": "TONE BENDER M.K Ⅰ. Ⅴ",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "Crossfire",
@@ -165,6 +159,12 @@
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "White Whale v2",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazybox Pedals",
+      "pedal": "The Box - Massive High Gain Distortion",
       "catalog_type": "",
       "research_record": ""
     }
