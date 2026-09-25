@@ -14852,7 +14852,7 @@
   {
     "builder": "Coron",
     "pedal": "Coron Distortion",
-    "image": null,
+    "image": "./assets/pedals/coron/coron-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coron/Coron Distortion.md"
   },
