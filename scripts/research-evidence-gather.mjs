@@ -174,7 +174,12 @@ function searchQueries(builder,pedal){
     '"'+b+'" "'+p+'" manual specs review',
     '"'+b+'" "'+pa+'" manual specs review',
     '"'+p+'" "'+b+'" Reverb Effects Database',
-    '"'+pa+'" "'+b+'" Reverb Effects Database'
+    '"'+pa+'" "'+b+'" Reverb Effects Database',
+    'site:effectsdatabase.com/model "'+b+'" "'+p+'"',
+    'site:effectsdatabase.com/model "'+p+'"',
+    'site:reverb.com/item "'+b+'" "'+p+'"',
+    'site:manualslib.com "'+b+'" "'+p+'"',
+    'site:musiciansfriend.com "'+b+'" "'+p+'"'
   ];
   if(pn.includes('tone bender')){
     variants.push('"'+b+'" "Tone Bender"');
