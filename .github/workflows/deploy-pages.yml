@@ -25,8 +25,9 @@ permissions:
   id-token: write
 
 concurrency:
-  group: dirt-archive-deploy
-  cancel-in-progress: true
+  group: dirt-archive-deploy-v2
+  # Never abandon a validated deployment mid-flight; queue the next commit instead.
+  cancel-in-progress: false
 
 jobs:
   deploy:
