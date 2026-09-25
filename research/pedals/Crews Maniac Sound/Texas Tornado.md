@@ -39,7 +39,7 @@ Texas Tornado combines familiar mid-focused overdrive behavior with a wider gain
 
 ## Sources checked
 1. Topshelf Instruments — Crews Maniac Sound Texas Tornado: https://www.topshelfinstruments.com/products/crews-maniac-sound-texas-tornado
-2. Reverb — Crews Maniac Sound Texas Tornado: https://reverb.com/item/____
+2. Reverb — Crews Maniac Sound Texas Tornado Overdrive Pedal: https://reverb.com/item/19411120-crews-maniac-sound-texas-tornado-overdrive-pedal
 3. Effects Database — Crews Maniac Sound interview/history: https://www.effectsdatabase.com/interviews/brands/crews
 
 ## Photo
