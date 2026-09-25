@@ -72,7 +72,7 @@ function parseResults(html){
 }
 function parseLinks(html,baseUrl){
   const out=[]; const seen=new Set();
-  const re=/<a[^>]+href=["']([^"']+)["'][^>]*>([\\s\\S]*?)<\\/a>/gi;
+  const re=/<a[^>]+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
   for(const m of html.matchAll(re)){
     let u=String(m[1]||'').replace(/&amp;/g,'&').trim();
     if(!u || /^javascript:|^mailto:|^tel:/i.test(u)) continue;
