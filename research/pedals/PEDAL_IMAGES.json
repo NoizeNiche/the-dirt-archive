@@ -14845,7 +14845,7 @@
   {
     "builder": "Cornerstone Music Gear",
     "pedal": "Sparkle - Dynamic Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cornerstone-music-gear/sparkle-dynamic-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cornerstone Music Gear/Sparkle - Dynamic Overdrive.md"
   },
@@ -14866,7 +14866,7 @@
   {
     "builder": "Coron",
     "pedal": "Coron Distortion 15",
-    "image": null,
+    "image": "./assets/pedals/coron/coron-distortion-15/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coron/Coron Distortion 15.md"
   },

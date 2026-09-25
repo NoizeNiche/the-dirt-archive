@@ -22143,7 +22143,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cornerstone-music-gear/sparkle-dynamic-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cornerstone Music Gear/Sparkle - Dynamic Overdrive.md"
     },
@@ -22173,7 +22173,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/coron/coron-distortion-15/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coron/Coron Distortion 15.md"
     },
