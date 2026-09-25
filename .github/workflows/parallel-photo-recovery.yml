@@ -324,6 +324,17 @@ jobs:
       - name: Convert and synchronize photos
         run: python scripts/cache-pedal-images.py
 
+      - name: Record pre-publication photo count
+        run: |
+          python - <<'PY'
+          import csv
+          with open("research/PRP_TRACKER.csv", newline="", encoding="utf-8") as fh:
+              count = sum(1 for r in csv.DictReader(fh) if r.get("Picture") == "DONE")
+          with open("/tmp/photo-count-before", "w", encoding="utf-8") as fh:
+              fh.write(str(count))
+          print(f"Canonical pictured before recovery merge: {count}")
+          PY
+
       - name: Synchronize research/photo state
         run: |
           python scripts/sync-prp-tracker.py
@@ -332,6 +343,28 @@ jobs:
           python scripts/prune-photo-review-queue.py
           python scripts/refresh-image-cache-report.py
           python scripts/verify-photo-state.py
+
+      - name: Gate canonical photo movement
+        run: |
+          python - <<'PY'
+          import json
+          import csv
+          from pathlib import Path
+          verdict = Path("recovery-artifacts/photo-foreman-results.json")
+          accepted = 0
+          if verdict.exists():
+              data = json.loads(verdict.read_text(encoding="utf-8"))
+              accepted = len(data.get("accepted", []))
+          with open("/tmp/photo-count-before", encoding="utf-8") as fh:
+              before = int(fh.read().strip())
+          with open("research/PRP_TRACKER.csv", newline="", encoding="utf-8") as fh:
+              after = sum(1 for r in csv.DictReader(fh) if r.get("Picture") == "DONE")
+          delta = after - before
+          print(f"Photo foreman accepted={accepted}; canonical pictured delta={delta} (before={before}, after={after})")
+          if accepted > 0 and delta <= 0:
+              raise SystemExit("Accepted photo recoveries did not reach canonical Picture=DONE state.")
+          if delta < 0:
+              raise SystemExit("Canonical pictured count regressed during photo publication.")
 
       - name: Publish merged recovery batch
         run: |
