@@ -42,6 +42,7 @@ def main():
     pictured = 0
     complete = 0
     research_pending = []
+    surface_ready = len(pedals)
 
     for item in pedals:
         key = (item.get("company"), item.get("pedal"))
@@ -78,6 +79,7 @@ def main():
             "pictured": pictured,
             "complete": complete,
             "research_pending": len(research_pending),
+            "surface_ready": surface_ready,
         },
         "next_target": next_target,
         "working_set": research_pending[:WORKING_SET],
@@ -106,7 +108,7 @@ def main():
         "## Active phase checkpoint\n\n"
         "The active production phase is **Catalog Research Phase**. "
         "PRP1 is retained only as a legacy publication/closeout mechanism.\n\n"
-        f"Live catalog: **{len(pedals)} total / {researched} researched / "
+        f"Live catalog: **{len(pedals)} total / {surface_ready} surface-ready / {researched} researched / "
         f"{pictured} pictured / {complete} complete / "
         f"{len(research_pending)} research-pending / {photo_pending} researched-photo-pending**.\n\n"
         f"**Next research target:** {target_text}.\n\n"
