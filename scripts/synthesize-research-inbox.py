@@ -226,6 +226,7 @@ def main():
     type_by_key = {(r.get("Builder"), r.get("Pedal")): r.get("Catalog Type", "") for r in tracker_rows}
 
     created = 0
+    created_paths = []
     skipped = 0
     held = 0
     packet_paths = sorted(INBOX.rglob("*.json"))
@@ -246,6 +247,7 @@ def main():
         ok, reason = write_record(item, type_by_key.get(key, ""), packet)
         if ok:
             created += 1
+            created_paths.append(ok and reason)
         else:
             skipped += 1
     print(json.dumps({"created": created, "skipped": skipped, "held": held}))
