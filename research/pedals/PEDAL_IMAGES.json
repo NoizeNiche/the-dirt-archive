@@ -15818,28 +15818,28 @@
   {
     "builder": "Crews Maniac Sound",
     "pedal": "Valve Drive",
-    "image": null,
+    "image": "./assets/pedals/crews-maniac-sound/valve-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crews Maniac Sound/Valve Drive.md"
   },
   {
     "builder": "Crews Maniac Sound",
     "pedal": "VD-38 Real Valve Drive",
-    "image": null,
+    "image": "./assets/pedals/crews-maniac-sound/vd-38-real-valve-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crews Maniac Sound/VD-38 Real Valve Drive.md"
   },
   {
     "builder": "Crimsontone",
     "pedal": "Nero Overdrive",
-    "image": null,
+    "image": "./assets/pedals/crimsontone/nero-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crimsontone/Nero Overdrive.md"
   },
   {
     "builder": "Crimsontone",
     "pedal": "Rosso Fuzz",
-    "image": null,
+    "image": "./assets/pedals/crimsontone/rosso-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crimsontone/Rosso Fuzz.md"
   },
@@ -15860,14 +15860,14 @@
   {
     "builder": "Critter Electronics",
     "pedal": "1978R Distortion",
-    "image": null,
+    "image": "./assets/pedals/critter-electronics/1978r-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Critter Electronics/1978R Distortion.md"
   },
   {
     "builder": "Critter Electronics",
     "pedal": "American Fuzz",
-    "image": null,
+    "image": "./assets/pedals/critter-electronics/american-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Critter Electronics/American Fuzz.md"
   },
