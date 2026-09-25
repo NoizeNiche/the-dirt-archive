@@ -18138,7 +18138,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/champion-city-effects/el-gato-malo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion City Effects/El Gato Malo.md"
     },
@@ -18265,7 +18265,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/chaos-custom-shop-chaos-fx/c-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chaos Custom Shop - Chaos FX/C.Drive.md"
     },
@@ -21595,7 +21595,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/coolmusic/c-ov01-crunchy-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-OV01 Crunchy Overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/cov01"
@@ -23292,7 +23292,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/creation-audio-labs/holy-fire-classic/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creation Audio Labs/Holy Fire Classic.md"
     },
