@@ -1,0 +1,17 @@
+{
+  "builder": "Crotronics",
+  "pedal": "Lost Temper",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.nstuffmusic.com/p-169339-crotronics-lost-temper-silicon-fuzzoctave-pedal.aspx",
+      "title": "Crotronics Lost Temper Silicon Fuzz/Octave Pedal",
+      "h1": "Crotronics Lost Temper Silicon Fuzz/Octave Pedal Crotronics Lost Temper Silicon Fuzz/Octave Pedal",
+      "excerpt": "",
+      "host": "www.nstuffmusic.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

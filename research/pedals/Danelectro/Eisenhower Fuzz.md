@@ -1,0 +1,37 @@
+# Danelectro — Eisenhower Fuzz
+
+## PRP identity
+- **Archive parent:** Eisenhower Fuzz
+- **Builder:** Danelectro
+- **Catalog type:** Fuzz
+- **Identity:** Danelectro's Eisenhower Fuzz.
+
+## What this pedal is
+Danelectro's Eisenhower Fuzz is cataloged as a Fuzz pedal.
+
+## Colorways
+- Red Hot Longhorn ® Triple Divine™ & 59 Divine™ Longhorn® & 66BT Baritone Blackout 59™ & Stock ’59 Doubleneck ’57 Guitar ’66-12 String Lefty Guitars ’64XT Guitar ’59X12 Metal Flake 59M NOS+™ ’59XT Guitar ’66T Guitar 12 String & Vintage 12/Bari 1959 Guitars Sitar/Resonator Baritone & Bass ’67 Guitar Accessories Peace Love & Fuzz Book Honeytone Mini Amp 1960’s Vintage Battery See All Accessories Pedals NEW!
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Red Hot Longhorn ® Triple Divine™ & 59 Divine™ Longhorn® & 66BT Baritone Blackout 59™ & Stock ’59 Doubleneck ’57 Guitar ’66-12 String Lefty Guitars ’64XT Guitar ’59X12 Metal Flake 59M NOS+™ ’59XT Guitar ’66T Guitar 12 String & Vintage 12/Bari 1959 Guitars Sitar/Resonator Baritone & Bass ’67 Guitar Accessories Peace Love & Fuzz Book Honeytone Mini Amp 1960’s Vintage Battery See All Accessories Pedals NEW!
+Spring King™ Junior Nichols 1966™ 3699 fUZZ™ Back Talk™ & Roebuck™ The Breakdown™ & Eisenhower Fuzz™ Artists History Contact/Service Search for: Buy It
+
+## Sources checked
+1. The Breakdown™ & Eisenhower Fuzz™ | Danelectro Guitars: https://danelectro.com/pedals/breakdown-eisenhower/
+
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

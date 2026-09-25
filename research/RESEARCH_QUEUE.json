@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T19:23:46.846252+00:00",
+  "generated_at": "2026-09-25T19:24:35.877410+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2014,
+    "researched": 2042,
     "pictured": 1934,
     "complete": 1934,
-    "research_pending": 1747
+    "research_pending": 1719
   },
   "next_target": {
     "builder": "Critter Electronics",
@@ -39,54 +39,6 @@
     {
       "builder": "Crock",
       "pedal": "DS-2 Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crock",
-      "pedal": "DS-4 Supra Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crock",
-      "pedal": "OD-2 Over Drive Plus",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crock",
-      "pedal": "SD-2 Super Over Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crock",
-      "pedal": "SM-2 Super Metal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crock",
-      "pedal": "SM-3 Super Metal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crock",
-      "pedal": "TM-2 Thrash Master",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "CrockettDial Productions",
-      "pedal": "The Kwaker",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crossfire",
-      "pedal": "CF-DO2 Dual-Injection After Burner",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +117,54 @@
     {
       "builder": "Crust Pedals",
       "pedal": "Hudson Broadcast Clone",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cruzer (by Crafter)",
+      "pedal": "EF-DT Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cruzer (by Crafter)",
+      "pedal": "EF-OD Over Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crysta Professional",
+      "pedal": "OD-1 Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CS.Cathey",
+      "pedal": "AB-03 Distortion Booster",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CS.Cathey",
+      "pedal": "AD-02 Distortion Box",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CSL",
+      "pedal": "CSL Super Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CTech / CB Labs",
+      "pedal": "PRX-902 Amp Emulator",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Cunningham Amps",
+      "pedal": "Octave Fuzz",
       "catalog_type": "",
       "research_record": ""
     }

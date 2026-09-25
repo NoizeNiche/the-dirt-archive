@@ -1,0 +1,17 @@
+{
+  "builder": "Daredevil Pedals",
+  "pedal": "The Chicago Way",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.chicagomusicexchange.com/products/daredevil-pedals-the-chicago-way-fuzzoverdrive-pedal-1982483",
+      "title": "Daredevil Pedals The Chicago Way Fuzz/Overdrive Pedal – Chicago Music Exchange",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.chicagomusicexchange.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
