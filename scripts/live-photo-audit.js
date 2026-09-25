@@ -56,7 +56,7 @@ const { chromium } = require('playwright');
             const changedFiles = (() => {
               try {
                 return execFileSync('git', ['diff-tree', '--no-commit-id', '--name-only', '-r', 'HEAD^', 'HEAD'], { encoding: 'utf8' })
-                  .split(/\\r?\\n/).map(x => x.trim()).filter(Boolean);
+                  .split(/\r?\n/).map(x => x.trim()).filter(Boolean);
               } catch {
                 return [];
               }
@@ -64,7 +64,8 @@ const { chromium } = require('playwright');
 
             const canonicalToken = (v) => String(v || '').trim().toLowerCase();
             const touched = pictured.filter(entry => {
-              const image = String(entry.image || '').replace(/^\\.\\//, '');
+              const imageValue = String(entry.image || '');
+              const image = imageValue.startsWith('./') ? imageValue.slice(2) : imageValue;
               const record = `research/pedals/${entry.company}/${entry.pedal}.md`;
               return changedFiles.includes(image) || changedFiles.includes(record);
             });
