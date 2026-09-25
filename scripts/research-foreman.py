@@ -73,18 +73,18 @@ def main():
                 held+=1
                 print("HOLD",b,"/",p,"independent_exact_sources=",len(good))
                 continue
-        out=INBOX/slug(b)/(slug(p)+".json")
-        out.parent.mkdir(parents=True,exist_ok=True)
-        out.write_text(json.dumps({
-            "builder":b,
-            "pedal":p,
-            "status":"VERIFIED_EVIDENCE_STAGED",
-            "independent_exact_source_count":len(good),
-            "sources":good,
-            "next_action":"Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
-        },ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-        staged+=1
-        print("STAGED",b,"/",p,"sources=",len(good))
+            out=INBOX/slug(b)/(slug(p)+".json")
+            out.parent.mkdir(parents=True,exist_ok=True)
+            out.write_text(json.dumps({
+                "builder":b,
+                "pedal":p,
+                "status":"VERIFIED_EVIDENCE_STAGED",
+                "independent_exact_source_count":len(good),
+                "sources":good,
+                "next_action":"Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+            },ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+            staged+=1
+            print("STAGED",b,"/",p,"sources=",len(good))
     print(json.dumps({"staged":staged,"held":held},ensure_ascii=False))
 
 if __name__=="__main__":
