@@ -291,6 +291,10 @@ def main():
     detail_js_text = DETAIL_JS.read_text(encoding="utf-8")
     if "renderCatalogBaseline(item)" not in detail_js_text or "Catalog baseline" not in detail_js_text:
         raise SystemExit("Detail page is missing the identity-safe catalog baseline for surface records.")
+    for script_path in (DETAIL_JS, LIVE_AUDIT):
+        result = subprocess.run(["node", "--check", str(script_path)], capture_output=True, text=True)
+        if result.returncode:
+            raise SystemExit(f"JavaScript syntax check failed: {script_path.relative_to(ROOT)}\\n{result.stderr.strip()}")
     if "loadCatalog()" not in detail_js_text:
         raise SystemExit("Detail page controller is not using the shared catalog loader.")
     if "loadCatalog()\n.then(r=>{if(!r.ok)" in detail_js_text:
