@@ -1,0 +1,31 @@
+name: Temporary CTC sitemap probe
+
+on:
+  push:
+    paths:
+      - ".github/workflows/_tmp-ctc-sitemap.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Fetch manufacturer sitemap
+        shell: bash
+        run: |
+          set -u
+          mkdir -p /tmp/ctc
+          for u in "https://crazytubecircuits.com/robots.txt" "https://crazytubecircuits.com/sitemap.xml" "https://crazytubecircuits.com/sitemap_index.xml"; do
+            n=$(echo "$u" | sed 's#https\?://##; s#[^A-Za-z0-9._-]#_#g')
+            curl -L --silent --show-error --compressed --connect-timeout 8 --max-time 20 -A "Mozilla/5.0 The Dirt Archive sitemap probe" "$u" > "/tmp/ctc/$n.txt" || true
+          done
+          grep -RniE "falcon|overdrive" /tmp/ctc || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ctc-sitemap-probe
+          path: /tmp/ctc/
+          retention-days: 1
