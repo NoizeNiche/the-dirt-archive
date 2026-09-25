@@ -58,26 +58,17 @@ jobs:
     steps:
       - uses: actions/checkout@v7
       - name: Gather evidence for assigned targets
-        run: |
-          rm -rf worker-evidence
-          mkdir -p worker-evidence
-          python - <<'PY'
-          import json, os, subprocess
-          targets=json.loads(r''' ${{ toJSON(matrix.targets) }} ''')
-          from concurrent.futures import ThreadPoolExecutor
-          def gather_one(i,t):
-              env=os.environ.copy()
-              env["RESEARCH_TARGET_BUILDER"]=t["builder"]
-              env["RESEARCH_TARGET_PEDAL"]=t["pedal"]
-              env["RESEARCH_OUT"]=f"worker-evidence/candidate-{i}.json"
-              subprocess.run(["python","scripts/research-gatherer.py"],env=env,check=False)
-          with ThreadPoolExecutor(max_workers=min(4,len(targets))) as pool:
-              list(pool.map(lambda pair: gather_one(*pair), enumerate(targets)))
-          PY
+        env:
+          RESEARCH_WORKER_INDEX: ${{ strategy.job-index }}
+          RESEARCH_WORKER_COUNT: "30"
+          RESEARCH_TARGETS_PER_WORKER: "4"
+          RESEARCH_TARGETS_JSON: ${{ toJSON(matrix.targets) }}
+          RESEARCH_REQUEST_TIMEOUT_MS: "7000"
+        run: node scripts/research-evidence-gather.mjs
       - uses: actions/upload-artifact@v4
         with:
           name: research-worker-${{ strategy.job-index }}
-          path: worker-evidence/
+          path: artifact/
           if-no-files-found: ignore
           retention-days: 1
 
