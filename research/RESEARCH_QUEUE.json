@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T06:10:20.670722+00:00",
+  "generated_at": "2026-09-25T06:11:30.971436+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 3764,
-    "researched": 1793,
+    "total": 3761,
+    "researched": 1792,
     "pictured": 1717,
     "complete": 1717,
-    "research_pending": 1971
+    "research_pending": 1969
   },
   "next_target": {
     "builder": "Crazy Tube Circuits",
@@ -39,18 +39,6 @@
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "Venus - Tube Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "White Whale",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "White Whale v2",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +153,18 @@
     {
       "builder": "Creepy Fingers Effects",
       "pedal": "Shatterbox",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "The Balch",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crest Audio",
+      "pedal": "Fuzz Face",
       "catalog_type": "",
       "research_record": ""
     }
