@@ -18,7 +18,8 @@ permissions:
 
 concurrency:
   group: dirt-prp-catalog-sync
-  cancel-in-progress: true
+  # Serialize scheduled and manual syncs instead of discarding an active reconciliation.
+  cancel-in-progress: false
 
 jobs:
   sync:
