@@ -1,0 +1,23 @@
+{
+  "builder": "Danelectro",
+  "pedal": "The Breakdown",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.premierguitar.com/gear/danelectro-the-breakdown-the-premier-guitar-review",
+      "title": "Danelectro The Breakdown Review - Premier Guitar",
+      "h1": "",
+      "excerpt": "Danelectro The Breakdown Review Tone freaks, take note: It’s badass—but not just for the usual “bang-for-buck” reasons. By Shawn Hammond Mar 08, 2020 Shawn Hammond Shawn Hammond was PG 's editorial director from 2010 till the fall of 2022. You can follow him at @feverloveband . See Full Bio",
+      "host": "www.premierguitar.com"
+    },
+    {
+      "url": "https://www.musicradar.com/reviews/danelectro-the-breakdown",
+      "title": "Danelectro The Breakdown review | MusicRadar",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.musicradar.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
