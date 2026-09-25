@@ -1,35 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T01:34:35.056371+00:00",
+  "generated_at": "2026-09-25T01:35:08.665315+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1710,
+    "researched": 1712,
     "pictured": 1651,
     "complete": 1651,
-    "research_pending": 2055
+    "research_pending": 2053
   },
   "next_target": {
-    "builder": "Correct Sound",
-    "pedal": "Eclipse",
+    "builder": "Cortez",
+    "pedal": "Cortez Overdrive",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Correct Sound",
-      "pedal": "Eclipse",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Correct Sound",
-      "pedal": "Mad Hatter - High Precision Distortion Machine",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Cortez",
       "pedal": "Cortez Overdrive",
@@ -165,6 +153,18 @@
     {
       "builder": "CostaLab",
       "pedal": "Good Devil",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CostaLab",
+      "pedal": "Moon Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "CostaLab",
+      "pedal": "Natural Drive",
       "catalog_type": "",
       "research_record": ""
     }
