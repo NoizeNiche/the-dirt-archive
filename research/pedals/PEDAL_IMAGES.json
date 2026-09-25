@@ -15881,7 +15881,7 @@
   {
     "builder": "Critter Electronics",
     "pedal": "1972",
-    "image": null,
+    "image": "./assets/pedals/critter-electronics/1972/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Critter Electronics/1972.md"
   },
