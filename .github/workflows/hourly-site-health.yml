@@ -15,7 +15,8 @@ permissions:
 
 concurrency:
   group: dirt-archive-health
-  cancel-in-progress: true
+  # Health checks should finish against their selected main snapshot.
+  cancel-in-progress: false
 
 jobs:
   health:
