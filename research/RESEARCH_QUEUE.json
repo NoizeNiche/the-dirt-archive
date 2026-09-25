@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T06:04:15.304064+00:00",
+  "generated_at": "2026-09-25T06:05:05.390207+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1782,
+    "researched": 1783,
     "pictured": 1717,
     "complete": 1717,
-    "research_pending": 1983
+    "research_pending": 1982
   },
   "next_target": {
     "builder": "Crazy Tube Circuits",
-    "pedal": "Locomotive - 12AY7 Bass Overdrive",
+    "pedal": "Motherload - Fuzz/Distortion",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Locomotive - 12AY7 Bass Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "Motherload - Fuzz/Distortion",
@@ -165,6 +159,12 @@
     {
       "builder": "Creber Instruments",
       "pedal": "Classic Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Creepy Fingers Effects",
+      "pedal": "Blacklight Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
