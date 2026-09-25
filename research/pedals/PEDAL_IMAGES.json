@@ -14754,7 +14754,7 @@
   {
     "builder": "Cordovox",
     "pedal": "FZ-7 Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cordovox/fz-7-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cordovox/FZ-7 Fuzz.md"
   },
@@ -14936,7 +14936,7 @@
   {
     "builder": "Correct Sound",
     "pedal": "Eclipse",
-    "image": null,
+    "image": "./assets/pedals/correct-sound/eclipse/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Correct Sound/Eclipse.md"
   },
@@ -14950,7 +14950,7 @@
   {
     "builder": "Correct Sound",
     "pedal": "Mad Hatter - High Precision Distortion Machine",
-    "image": null,
+    "image": "./assets/pedals/correct-sound/mad-hatter-high-precision-distortion-machine/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Correct Sound/Mad Hatter - High Precision Distortion Machine.md"
   },

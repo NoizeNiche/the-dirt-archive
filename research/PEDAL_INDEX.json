@@ -22012,7 +22012,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cordovox/fz-7-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cordovox/FZ-7 Fuzz.md"
     },
@@ -22275,7 +22275,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/correct-sound/eclipse/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Correct Sound/Eclipse.md"
     },
@@ -22297,7 +22297,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/correct-sound/mad-hatter-high-precision-distortion-machine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Correct Sound/Mad Hatter - High Precision Distortion Machine.md"
     },
