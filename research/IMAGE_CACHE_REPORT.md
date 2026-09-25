@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **6**
+- Cached in this run: **1**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **1910**
-- Researched, photo pending: **70**
+- Remaining tracker photo backlog: **1909**
+- Researched, photo pending: **69**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,12 +16,7 @@
 
 ## Newly cached
 
-- Colorsound / Sola Sound - B&M Champion Wah Fuzz -> `./assets/pedals/colorsound-sola-sound/b-m-champion-wah-fuzz/primary.webp`
-- Cunningham Amps - Supa Fuzz -> `./assets/pedals/cunningham-amps/supa-fuzz/primary.webp`
-- Daredevil Pedals - Premium Overdrive -> `./assets/pedals/daredevil-pedals/premium-overdrive/primary.webp`
-- Wampler Pedals - Belle Overdrive -> `./assets/pedals/wampler-pedals/belle-overdrive/primary.webp`
-- Wampler Pedals - Sovereign Distortion -> `./assets/pedals/wampler-pedals/sovereign-distortion/primary.webp`
-- Wren and Cuff - UB-Stone Shinichi Ubukata Signature Fuzz -> `./assets/pedals/wren-and-cuff/ub-stone-shinichi-ubukata-signature-fuzz/primary.webp`
+- Wampler Pedals - Andy Wood: Gearbox -> `./assets/pedals/wampler-pedals/andy-wood-gearbox/primary.webp`
 
 ## Still external / failed
 
