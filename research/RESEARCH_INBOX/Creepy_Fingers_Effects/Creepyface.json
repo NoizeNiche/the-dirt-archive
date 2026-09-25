@@ -1,0 +1,23 @@
+{
+  "builder": "Creepy Fingers Effects",
+  "pedal": "Creepyface",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://creepyfingerseffects.bigcartel.com/product/creepyface",
+      "title": "Creepyface | Creepy Fingers Effects",
+      "h1": "Creepyface",
+      "excerpt": "$ 269.00 / Sold Out It’s back. The second Creepy Fingers Effects production model released in 2008. Based on one of my all time favorite fuzz circuits the germanium Fuzz Face. Featuring a pair of hand selected military RCA 2N404 transistors sealed in foil since before I existed. Clear lush fuzz with crystalline clean up with the volume control. A classic fuzz face at its core with NOS capacitors and carbon composition resistors. The bottom knob tunes the low end from tight to big sludge. This Creepyface can be powered externally via the charge pump circuit. Pedal board friendly and compatible with modern negative ground effects and power supplies. Added bonus is an internal switch that removes the charge pump from the circuit allowing one to directly power the pedal with a battery if desired. This lets the fuzz interact with the impedance of a carbon zinc 9v unimpeded by the charge pump and power filtering. New school meets old school.",
+      "host": "creepyfingerseffects.bigcartel.com"
+    },
+    {
+      "url": "https://www.drumskeys.com/product/creepyface/",
+      "title": "Creepyface -",
+      "h1": "Creepyface",
+      "excerpt": "$ 274.00 Original price was: $274.00. $ 82.20 Current price is: $82.20.",
+      "host": "www.drumskeys.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
