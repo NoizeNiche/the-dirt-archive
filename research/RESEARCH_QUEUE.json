@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T06:14:58.886318+00:00",
+  "generated_at": "2026-09-25T06:15:39.398119+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 1802,
+    "researched": 1804,
     "pictured": 1717,
     "complete": 1717,
-    "research_pending": 1959
+    "research_pending": 1957
   },
   "next_target": {
     "builder": "Creber Instruments",
@@ -45,12 +45,6 @@
     {
       "builder": "Creepy Fingers Effects",
       "pedal": "Crazy Creepy",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Creepy Fingers Effects",
-      "pedal": "Creepyface",
       "catalog_type": "",
       "research_record": ""
     },
@@ -93,12 +87,6 @@
     {
       "builder": "Creepy Fingers Effects",
       "pedal": "Shatterbox",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Creepy Fingers Effects",
-      "pedal": "The Balch",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +153,18 @@
     {
       "builder": "Crews Maniac Sound",
       "pedal": "Texas Tornado",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crews Maniac Sound",
+      "pedal": "Valve Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crews Maniac Sound",
+      "pedal": "VD-38 Real Valve Drive",
       "catalog_type": "",
       "research_record": ""
     }
