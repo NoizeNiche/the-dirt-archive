@@ -23,8 +23,8 @@ def host(url):
     m=re.match(r"https?://([^/]+)",url or "")
     return (m.group(1).lower() if m else "")
 
-def identity_ok(builder,pedal,title,h1):
-    hay=norm(str(title or "")+" "+str(h1 or ""))
+def identity_ok(builder,pedal,title,h1,excerpt=""):
+    hay=norm(str(title or "")+" "+str(h1 or "")+" "+str(excerpt or ""))
     p=norm(pedal)
     bw=[x for x in norm(builder).split() if len(x)>=3]
     pw=[x for x in norm(pedal).split() if len(x)>=3 and x not in {"the","and","with","for"}]
@@ -34,7 +34,7 @@ def identity_ok(builder,pedal,title,h1):
 def source_is_strong_single(source):
     kind = str(source.get("source_kind") or "").strip().lower()
     excerpt = str(source.get("excerpt") or "").strip()
-    return kind in {"manufacturer", "effects_database", "reverb"} and len(excerpt) >= 160
+    return kind in {"manufacturer", "effects_database", "reverb", "catalog_verified"} and len(excerpt) >= 160
 
 def main():
     catalog=json.loads(INDEX.read_text(encoding="utf-8"))
@@ -50,7 +50,7 @@ def main():
         for s in packet.get("sources",[]):
             h=host(s.get("url",""))
             if not h or h in seen: continue
-            if s.get("identity_match") and identity_ok(b,p,s.get("title",""),s.get("h1","")):
+            if s.get("identity_match") and identity_ok(b,p,s.get("title",""),s.get("h1",""),s.get("excerpt","")):
                 seen.add(h)
                 good.append({
                     "url":s.get("url"),
