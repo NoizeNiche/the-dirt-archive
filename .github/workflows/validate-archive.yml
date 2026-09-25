@@ -21,7 +21,8 @@ permissions:
 
 concurrency:
   group: dirt-archive-validation-${{ github.ref }}
-  cancel-in-progress: true
+  # Audit every main snapshot instead of cancelling a validation in flight.
+  cancel-in-progress: false
 
 jobs:
   validate:
