@@ -261,7 +261,7 @@ const records = await Promise.all(
   targets.map(r => targetRecord(r.Builder, r.Pedal, r.Type || r['Catalog Type'] || ''))
  );
 fs.writeFileSync(path.join(OUT,'research-evidence.json'),JSON.stringify({
-  workerIndex:WORKER_INDEX,workerCount:WORKER_COUNT,runNumber:RUN_NUMBER,targetCount:records.length,records
+  workerIndex:WORKER_INDEX,workerCount:WORKER_COUNT,targetCount:records.length,records
 },null,2)+'\n','utf8');
 console.log(JSON.stringify({
   workerIndex:WORKER_INDEX,
