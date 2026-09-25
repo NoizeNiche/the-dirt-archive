@@ -1,0 +1,30 @@
+{
+  "builder": "Cusack Music",
+  "pedal": "Screamer Fuzz V3",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://cusackmusic.com/screamer-fuzz-v3/",
+      "title": "Screamer Fuzz V3 Overdrive and Fuzz Pedal | Cusack Music",
+      "h1": "Screamer Fuzz V3 - Fuzzdrive",
+      "excerpt": "MSRP: Was: Now: $185.00 (You save )",
+      "host": "cusackmusic.com"
+    },
+    {
+      "url": "https://www.amazon.com/Cusack-Music-Screamer-Fuzz-V3/dp/B0BKH3HV34",
+      "title": "Amazon.com: Cusack Music Screamer Fuzz V3 - Fuzzdrive Guitar Effects Pedal : Musical Instruments",
+      "h1": "About this item",
+      "excerpt": "Cusack Music Screamer Fuzz V3 - Fuzzdrive Guitar Effects Pedal Brand: Cusack Music Overdriven fuzz! A unique device for fuzz lovers and haters! Three selectable diodes for a variety of clipping tones › See more product details",
+      "host": "www.amazon.com"
+    },
+    {
+      "url": "https://fulleffectdistro.com/screamer-fuzz-v3/",
+      "title": "Screamer Fuzz V3 - Cusack Music",
+      "h1": "Screamer Fuzz V3 - Fuzzdrive",
+      "excerpt": "SKU: Cusack-ScrmrFuzzV3 UPC: 850039942259 This pedal includes all of the great tone of the Screamer Fuzz V2 with the addition of a low-pass tone control that many of our customers were asking for. With the fuzz all the way down, it’s like a screamer … MSRP: Was: Now: $185.00 (You save: ) Current Stock: 6 Quantity: Decrease Quantity of undefined Increase Quantity of undefined Adding to cart… The item has been added Wish List Create New Wish List Copy link: Share:",
+      "host": "fulleffectdistro.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
