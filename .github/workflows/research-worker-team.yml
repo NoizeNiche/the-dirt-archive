@@ -29,7 +29,11 @@ jobs:
           python - <<'PY' >> "$GITHUB_OUTPUT"
           import csv, json, sys
           rows=list(csv.DictReader(open("research/PRP_TRACKER.csv",newline="",encoding="utf-8")))
-          targets=[{"builder":r["Builder"],"pedal":r["Pedal"]} for r in rows if r.get("Pedal Info")!="DONE"][:80]
+          pending=[{"builder":r["Builder"],"pedal":r["Pedal"]} for r in rows if r.get("Pedal Info")!="DONE"]
+          run_number=int(__import__("os").environ.get("GITHUB_RUN_NUMBER","1"))
+          span=min(80,len(pending))
+          start=((run_number-1)*span)%len(pending) if pending else 0
+          targets=[pending[(start+i)%len(pending)] for i in range(span)]
           matrix={"include":[{"targets":targets[i:i+4]} for i in range(0,len(targets),4)]}
           print("matrix="+json.dumps(matrix,ensure_ascii=False,separators=(",",":")))
           print("Research targets:",len(targets),"workers:",len(matrix["include"]),file=sys.stderr)
@@ -54,12 +58,15 @@ jobs:
           python - <<'PY'
           import json, os, subprocess
           targets=json.loads(r''' ${{ toJSON(matrix.targets) }} ''')
-          for i,t in enumerate(targets):
+          from concurrent.futures import ThreadPoolExecutor
+          def gather_one(i,t):
               env=os.environ.copy()
               env["RESEARCH_TARGET_BUILDER"]=t["builder"]
               env["RESEARCH_TARGET_PEDAL"]=t["pedal"]
               env["RESEARCH_OUT"]=f"worker-evidence/candidate-{i}.json"
               subprocess.run(["python","scripts/research-gatherer.py"],env=env,check=False)
+          with ThreadPoolExecutor(max_workers=min(4,len(targets))) as pool:
+              list(pool.map(lambda pair: gather_one(*pair), enumerate(targets)))
           PY
       - uses: actions/upload-artifact@v4
         with:
