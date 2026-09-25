@@ -11,8 +11,9 @@ permissions:
   actions: write
 
 concurrency:
-  group: dirt-research-workers-v4
-  cancel-in-progress: true
+  group: dirt-research-workers-v5
+  # Queue research passes instead of cancelling a pass that is already gathering evidence.
+  cancel-in-progress: false
 
 jobs:
   prepare:
@@ -36,7 +37,7 @@ jobs:
           # Do not spend research capacity on D while any C remains, etc.
           active_letter=(pending[0]["builder"][0].upper() if pending and pending[0]["builder"] else "")
           frontier=[r for r in pending if (r["builder"][0].upper() if r["builder"] else "")==active_letter]
-          span=min(120,len(frontier))
+          span=min(60,len(frontier))
           targets=frontier[:span]
           matrix={"include":[{"targets":targets[i:i+4]} for i in range(0,len(targets),4)]}
           print("matrix="+json.dumps(matrix,ensure_ascii=False,separators=(",",":")))
@@ -49,7 +50,7 @@ jobs:
     if: ${{ needs.prepare.outputs.matrix != '' }}
     strategy:
       fail-fast: false
-      max-parallel: 20
+      max-parallel: 15
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
     runs-on: ubuntu-latest
     timeout-minutes: 14
@@ -58,7 +59,7 @@ jobs:
       - name: Gather evidence for assigned targets
         env:
           RESEARCH_WORKER_INDEX: ${{ strategy.job-index }}
-          RESEARCH_WORKER_COUNT: "30"
+          RESEARCH_WORKER_COUNT: "15"
           RESEARCH_TARGETS_PER_WORKER: "4"
           RESEARCH_TARGETS_JSON: ${{ toJSON(matrix.targets) }}
           RESEARCH_REQUEST_TIMEOUT_MS: "7000"
