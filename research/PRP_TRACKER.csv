@@ -1920,9 +1920,9 @@ Danelectro,Black Coffee Metal Distortion,Distortion,DONE,NEEDED,NEEDED,./researc
 Danelectro,Black Paisley Liquid Metal,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Danelectro/Black Paisley Liquid Metal.md
 Danelectro,Blue Paisley PureDrive,Overdrive,NEEDED,NEEDED,NEEDED,
 Danelectro,Cash Cow Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
-Danelectro,Cool Cat Distortion,Distortion,NEEDED,NEEDED,NEEDED,
-Danelectro,Cool Cat Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-Danelectro,Cool Cat Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
+Danelectro,Cool Cat Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Danelectro/Cool Cat Distortion.md
+Danelectro,Cool Cat Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Danelectro/Cool Cat Drive.md
+Danelectro,Cool Cat Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Danelectro/Cool Cat Fuzz.md
 Danelectro,Cool Cat Metal,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Danelectro/Cool Cat Metal.md
 Danelectro,Cool Cat Metal II,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Danelectro/Cool Cat Metal II.md
 Danelectro,Cool Cat Transparent Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Danelectro/Cool Cat Transparent Overdrive.md
@@ -1943,7 +1943,7 @@ Danelectro,Roebuck,Distortion,DONE,DONE,DONE,./research/pedals/Danelectro/Roebuc
 Danelectro,T-Bone Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Danelectro/T-Bone Distortion.md
 Danelectro,The Breakdown,Overdrive,DONE,DONE,DONE,./research/pedals/Danelectro/The Breakdown.md
 Danelectro,Wasabi Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Danelectro/Wasabi Distortion.md
-Danelectro,Wasabi Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
+Danelectro,Wasabi Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Danelectro/Wasabi Overdrive.md
 Daredevil Pedals,Almighty Bass,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Daredevil Pedals/Almighty Bass.md
 Daredevil Pedals,British Black Belt,Distortion,DONE,DONE,DONE,./research/pedals/Daredevil Pedals/British Black Belt.md
 Daredevil Pedals,Chicago Way,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Daredevil Pedals/Chicago Way.md
@@ -1957,7 +1957,7 @@ Daredevil Pedals,L.S.D,Fuzz,NEEDED,NEEDED,NEEDED,
 Daredevil Pedals,Logan Square Destroyer,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Daredevil Pedals/Logan Square Destroyer.md
 Daredevil Pedals,Necros Fuzz / Distortion,Distortion,NEEDED,NEEDED,NEEDED,
 Daredevil Pedals,Northern Creeper,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Daredevil Pedals/Northern Creeper.md
-Daredevil Pedals,NORTHERN CREEPER Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
+Daredevil Pedals,NORTHERN CREEPER Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Daredevil Pedals/NORTHERN CREEPER Fuzz.md
 Daredevil Pedals,Nova,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Daredevil Pedals/Nova.md
 Daredevil Pedals,OP Amp Fuzz V5,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Daredevil Pedals/OP Amp Fuzz V5.md
 Daredevil Pedals,Premium Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Daredevil Pedals/Premium Overdrive.md
@@ -1972,14 +1972,14 @@ Daredevil Pedals,the Chicago Rat — selectable high-gain distortion mode,Distor
 Daredevil Pedals,the Chicago Rat — selectable over-clipped fuzz mode,Fuzz,NEEDED,NEEDED,NEEDED,
 Daredevil Pedals,The Chicago Way,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Daredevil Pedals/The Chicago Way.md
 Daredevil Pedals,Wolf Deluxe Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Daredevil Pedals/Wolf Deluxe Fuzz.md
-Darkglass Electronics,Microtubes B3K,Overdrive,NEEDED,NEEDED,NEEDED,
+Darkglass Electronics,Microtubes B3K,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Darkglass Electronics/Microtubes B3K.md
 Darkglass Electronics,Microtubes Infinity,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Darkglass Electronics/Microtubes Infinity.md
 DeadastronautFX,Black Triangle,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/DeadastronautFX/Black Triangle.md
 DeadastronautFX,EasyDriver,Overdrive,NEEDED,NEEDED,NEEDED,
 DeadastronautFX,Skinwalker,Distortion,NEEDED,NEEDED,NEEDED,
 DeadastronautFX,Space Patrol,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/DeadastronautFX/Space Patrol.md
 DeadastronautFX,X-Fuzz II,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/DeadastronautFX/X-Fuzz II.md
-Death By Audio,Absolute Destruction,Distortion / Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
+Death By Audio,Absolute Destruction,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Death By Audio/Absolute Destruction.md
 Death By Audio,Apocalypse,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Death By Audio/Apocalypse.md
 Death By Audio,Bass War,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Death By Audio/Bass War.md
 Death By Audio,Crossover Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Death By Audio/Crossover Fuzz.md
@@ -1991,7 +1991,7 @@ Death By Audio,Harmonic Transformer,Distortion,DONE,NEEDED,NEEDED,./research/ped
 Death By Audio,Interstellar Overdriver,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Death By Audio/Interstellar Overdriver.md
 Death By Audio,Interstellar Overdriver Deluxe,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Death By Audio/Interstellar Overdriver Deluxe.md
 Death By Audio,Octave Clang,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Death By Audio/Octave Clang.md
-Death By Audio,Octave Clang V2,Fuzz,NEEDED,NEEDED,NEEDED,
+Death By Audio,Octave Clang V2,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Death By Audio/Octave Clang V2.md
 Death By Audio,Reverberation Machine,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Death By Audio/Reverberation Machine.md
 Death By Audio,Sonic Incinerator,Distortion,NEEDED,NEEDED,NEEDED,
 Death By Audio,Supersonic Fuzz Gun,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Death By Audio/Supersonic Fuzz Gun.md
@@ -2005,10 +2005,10 @@ Deep Trip,BOG,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals
 Deep Trip,Capivara,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Deep Trip/Capivara.md
 Deep Trip,Kryptone,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Deep Trip/Kryptone.md
 Demedash Effects,112+,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Demedash Effects/112+.md
-Demedash Effects,Shatterbox,Overdrive,NEEDED,NEEDED,NEEDED,
+Demedash Effects,Shatterbox,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Demedash Effects/Shatterbox.md
 Demedash Effects,Spidola Germanium Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Demedash Effects/Spidola Germanium Fuzz.md
-Demedash Effects,Stutterbug,Fuzz,NEEDED,NEEDED,NEEDED,
-Demeter,DD-1 Double Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
+Demedash Effects,Stutterbug,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Demedash Effects/Stutterbug.md
+Demeter,DD-1 Double Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Demeter/DD-1 Double Overdrive.md
 Demeter,DRV-1 Overdriveulator,Overdrive,NEEDED,NEEDED,NEEDED,
 Demeter,DRV-2 Uberdriveulator,Overdrive,NEEDED,NEEDED,NEEDED,
 Demon Pedals,Parvati,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Demon Pedals/Parvati.md
@@ -2019,11 +2019,11 @@ Devi Ever : FX,Torn's Peaker,Fuzz,NEEDED,NEEDED,NEEDED,
 Devi Ever : FX,Tri-Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
 Devi Ever : FX,Truly Beautiful Disaster,Fuzz,NEEDED,NEEDED,NEEDED,
 Devi Ever : FX,Vintage Fuzz Master,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Devi Ever : FX/Vintage Fuzz Master.md
-Diamond,Diamond Drive,Overdrive,NEEDED,NEEDED,NEEDED,
+Diamond,Diamond Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Diamond/Diamond Drive.md
 Diezel Amplification,VH4 Pedal,Overdrive,DONE,DONE,DONE,./research/pedals/Diezel Amplification/VH4 Pedal.md
-DigiTech,DigiTech Death Metal,Distortion,NEEDED,NEEDED,NEEDED,
+DigiTech,DigiTech Death Metal,Distortion,DONE,NEEDED,NEEDED,./research/pedals/DigiTech/DigiTech Death Metal.md
 DigiTech,DigiTech Grunge,Distortion,NEEDED,NEEDED,NEEDED,
-DigiTech,Hot Head Distortion,Distortion,NEEDED,NEEDED,NEEDED,
+DigiTech,Hot Head Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/DigiTech/Hot Head Distortion.md
 DigiTech,Redline Modified Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
 DigiTech,Screamin' Blues Overdrive / Distortion,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/DigiTech/Screamin' Blues Overdrive / Distortion.md
 DigiTech,X-Series Bass Driver,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/DigiTech/X-Series Bass Driver.md
@@ -2059,10 +2059,10 @@ DOD Electronics,FX57 Hard Rock Distortion,Distortion,NEEDED,NEEDED,NEEDED,
 DOD Electronics,FX58 Metal Maniac,Distortion,NEEDED,NEEDED,NEEDED,
 DOD Electronics,FX59 Thrash Master,Distortion,NEEDED,NEEDED,NEEDED,
 DOD Electronics,FX66 Flashback Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
-DOD Electronics,FX69B Grunge,Distortion,NEEDED,NEEDED,NEEDED,
+DOD Electronics,FX69B Grunge,Distortion,DONE,NEEDED,NEEDED,./research/pedals/DOD Electronics/FX69B Grunge.md
 DOD Electronics,FX70 Metal X,Distortion,NEEDED,NEEDED,NEEDED,
 DOD Electronics,FX76 Punkifier,Distortion,NEEDED,NEEDED,NEEDED,
-DOD Electronics,FX86 Death Metal Distortion,Distortion,NEEDED,NEEDED,NEEDED,
+DOD Electronics,FX86 Death Metal Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/DOD Electronics/FX86 Death Metal Distortion.md
 DOD Electronics,FX91 Bass Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
 DOD Electronics,Gonkulator,Distortion,NEEDED,NEEDED,NEEDED,
 DOD Electronics,Grind (FX101),Distortion,NEEDED,NEEDED,NEEDED,
@@ -2072,54 +2072,54 @@ DOD Electronics,Juice Box Overdrive (FX51),Overdrive,NEEDED,NEEDED,NEEDED,
 DOD Electronics,Looking Glass,Overdrive,DONE,DONE,DONE,./research/pedals/DOD Electronics/Looking Glass.md
 DOD Electronics,Metal X (FX70),Distortion,NEEDED,NEEDED,NEEDED,
 DOD Electronics,Mystic Blues Overdrive (FX102),Overdrive,NEEDED,NEEDED,NEEDED,
-DOD Electronics,Overdrive Preamp 250,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-DOD Electronics,Overdrive Preamp 250-X,Overdrive,NEEDED,NEEDED,NEEDED,
+DOD Electronics,Overdrive Preamp 250,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/DOD Electronics/Overdrive Preamp 250.md
+DOD Electronics,Overdrive Preamp 250-X,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/DOD Electronics/Overdrive Preamp 250-X.md
 DOD Electronics,Performer 555 Distortion,Distortion,NEEDED,NEEDED,NEEDED,
 DOD Electronics,Supra Distortion (FX55C),Distortion,NEEDED,NEEDED,NEEDED,
 DOD Electronics,YJM 308 Overdrive Preamp,Overdrive,NEEDED,NEEDED,NEEDED,
-Dophix,Medici,Fuzz,NEEDED,NEEDED,NEEDED,
-Dophix,Michelangelo,Overdrive,NEEDED,NEEDED,NEEDED,
-Dophix,Michelangelo Gold,Overdrive,NEEDED,NEEDED,NEEDED,
-Dr. No Effects,Turd Fuzz,Fuzz,NEEDED,NEEDED,NEEDED,
+Dophix,Medici,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Dophix/Medici.md
+Dophix,Michelangelo,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Dophix/Michelangelo.md
+Dophix,Michelangelo Gold,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Dophix/Michelangelo Gold.md
+Dr. No Effects,Turd Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Dr. No Effects/Turd Fuzz.md
 Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham,Dungeon Crawler,Distortion,NEEDED,NEEDED,NEEDED,
 Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham,Frazz Dazzler,Fuzz,NEEDED,NEEDED,NEEDED,
 Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham,The Elements,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-Dr. Scientist Sounds,BitQuest,Fuzz,NEEDED,NEEDED,NEEDED,
+Dr. Scientist Sounds,BitQuest,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Dr. Scientist Sounds/BitQuest.md
 Dr. Scientist Sounds,Dungeon Crawler,Distortion,NEEDED,NEEDED,NEEDED,
-Dr. Scientist Sounds,Frazz Dazzler,Fuzz,NEEDED,NEEDED,NEEDED,
+Dr. Scientist Sounds,Frazz Dazzler,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Dr. Scientist Sounds/Frazz Dazzler.md
 Dr. Scientist Sounds,The Elements,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
 Dr. Z Amplification,Z-Drive,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
 Dreadbox,Disorder,Fuzz,NEEDED,NEEDED,NEEDED,
 Drunk Beaver,Forest Song High Voltage Overdrive,Overdrive,NEEDED,NEEDED,NEEDED,
 Drunk Beaver,Kavun MOSFET Drive,Overdrive,NEEDED,NEEDED,NEEDED,
-Drunk Beaver,Kyiv Lead,Overdrive,NEEDED,NEEDED,NEEDED,
+Drunk Beaver,Kyiv Lead,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Drunk Beaver/Kyiv Lead.md
 Drunk Beaver,Mykolaiv Soft Blooming,Overdrive,NEEDED,NEEDED,NEEDED,
 Drunk Beaver,Secret Sauce,Fuzz,NEEDED,NEEDED,NEEDED,
-Drunk Beaver,Vatra,Overdrive,NEEDED,NEEDED,NEEDED,
+Drunk Beaver,Vatra,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Drunk Beaver/Vatra.md
 Drunk Beaver,XR MD-1 Metal Mind,Distortion,DONE,DONE,DONE,./research/pedals/Drunk Beaver/XR MD-1 Metal Mind.md
-Drunk Beaver,XR OD-1 OverDrive,Overdrive,NEEDED,NEEDED,NEEDED,
-DryBell,The Engine,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
-DW Labs,D3P Multi-Distortion,Distortion,NEEDED,NEEDED,NEEDED,
+Drunk Beaver,XR OD-1 OverDrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Drunk Beaver/XR OD-1 OverDrive.md
+DryBell,The Engine,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/DryBell/The Engine.md
+DW Labs,D3P Multi-Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/DW Labs/D3P Multi-Distortion.md
 Dwarfcraft Devices,Abaddon,Distortion,NEEDED,NEEDED,NEEDED,
 Dwarfcraft Devices,Baby Thundaa / Baby Thunder,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
-Dwarfcraft Devices,Bit Mangler,Fuzz,NEEDED,NEEDED,NEEDED,
+Dwarfcraft Devices,Bit Mangler,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Dwarfcraft Devices/Bit Mangler.md
 Dwarfcraft Devices,Dream Mangler,Fuzz,NEEDED,NEEDED,NEEDED,
 Dwarfcraft Devices,Eau Claire Thunder,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
 Dwarfcraft Devices,Gears,Overdrive,NEEDED,NEEDED,NEEDED,
 Dwarfcraft Devices,Hair of the Dog,Fuzz,NEEDED,NEEDED,NEEDED,
-Dwarfcraft Devices,HAX,Fuzz,NEEDED,NEEDED,NEEDED,
-Dwarfcraft Devices,Necromancer,Fuzz,NEEDED,NEEDED,NEEDED,
-Dwarfcraft Devices,Reese Lightning,Fuzz,NEEDED,NEEDED,NEEDED,
-Dwarfcraft Devices,Robot Devil,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
-Dwarfcraft Devices,Rot Yr Brain,Fuzz,NEEDED,NEEDED,NEEDED,
+Dwarfcraft Devices,HAX,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Dwarfcraft Devices/HAX.md
+Dwarfcraft Devices,Necromancer,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Dwarfcraft Devices/Necromancer.md
+Dwarfcraft Devices,Reese Lightning,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Dwarfcraft Devices/Reese Lightning.md
+Dwarfcraft Devices,Robot Devil,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Dwarfcraft Devices/Robot Devil.md
+Dwarfcraft Devices,Rot Yr Brain,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Dwarfcraft Devices/Rot Yr Brain.md
 Dwarfcraft Devices,SheFuzz / formerly Shiva,Fuzz,NEEDED,NEEDED,NEEDED,
 Dwarfcraft Devices,Silver Rose v2,Fuzz,NEEDED,NEEDED,NEEDED,
-Dwarfcraft Devices,Spectacular Aenima,Fuzz / Overdrive,NEEDED,NEEDED,NEEDED,
+Dwarfcraft Devices,Spectacular Aenima,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Dwarfcraft Devices/Spectacular Aenima.md
 Dwarfcraft Devices,Surrender Dorothy,Fuzz,NEEDED,NEEDED,NEEDED,
 Dwarfcraft Devices,The Great Destroyer,Distortion / Fuzz,NEEDED,NEEDED,NEEDED,
 Dwarfcraft Devices,The Internet,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
 Dwarfcraft Devices,The Secret Destroyer,Fuzz,NEEDED,NEEDED,NEEDED,
-Dwarfcraft Devices,Zhago,Fuzz,NEEDED,NEEDED,NEEDED,
+Dwarfcraft Devices,Zhago,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Dwarfcraft Devices/Zhago.md
 EarthQuaker Devices,Acapulco Gold,Distortion,NEEDED,NEEDED,NEEDED,
 EarthQuaker Devices,Acapulco Gold — Power Amp Distortion,Distortion / Overdrive,NEEDED,NEEDED,NEEDED,
 EarthQuaker Devices,Barrows,Fuzz,NEEDED,NEEDED,NEEDED,

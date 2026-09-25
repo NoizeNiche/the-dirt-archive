@@ -1,0 +1,49 @@
+{
+  "builder": "Dwarfcraft Devices",
+  "pedal": "Robot Devil",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 5,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/dwarfcraft-devices-robot-devil",
+      "title": "Dwarfcraft Devices Robot Devil - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/p/dwarfcraft-devices-robot-devil-1",
+      "title": "Dwarfcraft Devices Robot Devil - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/dwarfcraft/robotdevil",
+      "title": "Dwarfcraft Devices Robot Devil - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://stomplab.net/projects/dwarfcraft-devices-robot-devil",
+      "title": "Dwarfcraft Devices Robot Devil – StompLab",
+      "h1": "Dwarfcraft Devices Robot Devil",
+      "excerpt": "Dwarfcraft Devices Robot Devil – StompLab Stomp Lab Register Sign in All projects Dwarfcraft Devices · Dwarfcraft Devices Robot Devil Fuzz Noise Octave Vero Close &copy; 2026 StompLab Terms of Use Privacy Policy Cookie Policy Cancel You're now Pro! Welcome to the good stuff. Here's everything you just unlocked: Unlimited stash Track all of your components Unlimited favourites Save as many projects as you like All suggested builds See every project you could build from your stash Advanced component highlighting View all components by group on verified diagrams Export bill of materials Download a CSV parts list for any project Search filter suggested builds Find exactly the builds you want from your stash Custom build scoring Weight builds by the components you care about most 5 AI diagram analyses/month * AI identifies every component (~90% accuracy) - results emailed within ~5 minutes * AI analysis credits reset every 30 days from the start of your subscription date, unused credits do not roll over. AI analysis has ~90% accuracy and can take up to 5 minutes to complete. Start exploring Cookie preferences We use essential cookies to keep the lights on and make sure you stay logged in. We’d also like to use analytics cookies to see which pedals are getting all the love. You can close this to stick with the essentials, or hit Accept all if you’re feeling generous, curious, or just too busy chasing tone to care. Cookie Policy · Privacy Policy Accept all",
+      "host": "stomplab.net",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://effectslayouts.blogspot.com/2015/03/dwarfcraft-devices-robot-devil.html",
+      "title": "Perf and PCB Effects Layouts: Dwarfcraft Devices Robot Devil",
+      "h1": "",
+      "excerpt": "Perf and PCB Effects Layouts: Dwarfcraft Devices Robot Devil This is a library of perfboard and single-sided PCB effect layouts for guitar and bass. I'm not an electrical engineer by any stretch of the imagination, just a DIY'er who likes drawing layouts. It is meant for the hobbyist (so commercial use of any of these layout is not allowed without permission) and as a way to give back to the online DIY community. Pages Home Store FAQs General Layout Notes PCB Etching Transfer Image Library Drilling Templates Projects YouTube Instagram Facebook OshPark Thursday, March 5, 2015 Dwarfcraft Devices Robot Devil Got a request for the EQD Bit Commander, and while there doesn't seem to be a schematic for it, my search for one lead me to this effect. It's no Bit Commander, but it does do the synth-y octave down thing. The original Robot Devil has the octave switch (which allows you to switch between one octave down and 2 octaves down) as a footswitch. If you go that route, you'll need to use a DPDT if you want LED indication. Or you could just use a toggle SPDT if you want to put it in a 1590B and don't like the idea of having 2 footswitches on such a small box. Here's how to wire the octave switch as a footswitch with LED indication: As is, the LED turns on if the sub octave (2 octaves down) is activated. If you wanted, you could use 2 LEDs (or a bi-color LED) to indicate which octave is in effect. Just connect the cathode of one LED to lug 6 (anode to +9v via 2.2k resistor) to indicate 1 octave down. at 11:37&#8239;AM Email This BlogThis! Share to X Share to Facebook Share to Pinterest Labels: Dwarfcraft Devices , Fuzz , Octave , Verified 13 comments: Unknown December 30, 2015 at 10:34&#8239;AM Has anyone verified this layout?,Im thinking of making one of these but Id feel happier if there was a schematic to look at..I was thinking it would be cool to have a big muff tone stack on this,I was also thinking about a pre or post circuit fuzz boost with germainium diodes. Reply Delete Replies Effects Layouts January 4, 2016 at 11:33&#8239;AM Got the schem from this thread on FSB: http://freestompboxes.org/viewtopic.php?f=7 t=18344 hilit=devil+robot It hasn&#39;t been verified to my knowledge yet. Delete Replies Reply Reply Unknown January 2, 2016 at 6:31&#8239;PM Would the +9v go to starve1 or starve2? Thanks. Reply Delete Replies Effects Layouts January 4, 2016 at 11:37&#8239;AM Starve 1. Starve 2 goes to the board (not sure why I put &quot;+9v/Starve 2&quot; on the layout drawing...) Delete Replies Reply Reply shvtsvcka February 5, 2016 at 7:20&#8239;PM i built this but it sounds way too gated kinda unusable. btw i left out the starve knob but it cant really be the problem i think Reply Delete Replies Reply andrea83 March 11, 2017 at 12:10&#8239;PM I built it and it works! sounds as the video shows, from a nice distortion to total 8-bit! it&#39;s also possible to have a nice distortion with a good octave. for me it&#39;s verified! thanks for putting the project! Reply Delete Replies Esparta Información May 9, 2017 at 11:25&#8239;PM Does the starve control work well? Like in the video? That is, does the oscillating sound respond when you turn the potentiometer? Delete Replies Reply Reply andrea83 June 14, 2017 at 3:28&#8239;AM No you&#39;re right. I didn&#39;t check the starve control very well. It sure does oscillations (more in the first part) but not like the ones in the video and only in some combinations. And octave pot sounds very nice but it doesn&#39;t work if the switch is off, in the video he used it even with it off. Reply Delete Replies Reply Sesyloza May 1, 2018 at 8:56&#8239;AM I did it with starve. Verified. Sounds great. Reply Delete Replies Reply danielallan52 December 23, 2018 at 7:07&#8239;PM Verified with starve pot,..I was wondering about the unused pins on both ics,.and I read somewhere that its good practice to ground them,its gives better performance and limits stray noise..anyway this is a good layout thank you! R",
+      "host": "effectslayouts.blogspot.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

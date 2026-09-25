@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T19:39:04.636073+00:00",
+  "generated_at": "2026-09-25T19:42:53.042928+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2143,
-    "pictured": 1948,
-    "complete": 1948,
-    "research_pending": 1618
+    "researched": 2180,
+    "pictured": 1969,
+    "complete": 1969,
+    "research_pending": 1581
   },
   "next_target": {
     "builder": "D&M",
@@ -44,31 +44,7 @@
     },
     {
       "builder": "Danelectro",
-      "pedal": "Cool Cat Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "Cool Cat Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "Cool Cat Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
       "pedal": "Fab Tone / FAB Tone Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "Wasabi Overdrive",
       "catalog_type": "",
       "research_record": ""
     },
@@ -81,12 +57,6 @@
     {
       "builder": "Daredevil Pedals",
       "pedal": "Necros Fuzz / Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Daredevil Pedals",
-      "pedal": "NORTHERN CREEPER Fuzz",
       "catalog_type": "",
       "research_record": ""
     },
@@ -109,12 +79,6 @@
       "research_record": ""
     },
     {
-      "builder": "Darkglass Electronics",
-      "pedal": "Microtubes B3K",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
       "builder": "DeadastronautFX",
       "pedal": "EasyDriver",
       "catalog_type": "",
@@ -128,19 +92,7 @@
     },
     {
       "builder": "Death By Audio",
-      "pedal": "Absolute Destruction",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Death By Audio",
       "pedal": "Echo Dream 2 (fuzz function)",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Death By Audio",
-      "pedal": "Octave Clang V2",
       "catalog_type": "",
       "research_record": ""
     },
@@ -151,20 +103,68 @@
       "research_record": ""
     },
     {
-      "builder": "Demedash Effects",
-      "pedal": "Shatterbox",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Demedash Effects",
-      "pedal": "Stutterbug",
+      "builder": "Demeter",
+      "pedal": "DRV-1 Overdriveulator",
       "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Demeter",
-      "pedal": "DD-1 Double Overdrive",
+      "pedal": "DRV-2 Uberdriveulator",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Devi Ever : FX",
+      "pedal": "Beautiful Disaster",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Devi Ever : FX",
+      "pedal": "Never Drive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Devi Ever : FX",
+      "pedal": "Torn's Peaker",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Devi Ever : FX",
+      "pedal": "Tri-Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Devi Ever : FX",
+      "pedal": "Truly Beautiful Disaster",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "DigiTech",
+      "pedal": "DigiTech Grunge",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "DigiTech",
+      "pedal": "Redline Modified Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "DigiTech",
+      "pedal": "X-Series Distortion Factory DF-7",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "DigiTech",
+      "pedal": "X-Series Hot Rod Distortion",
       "catalog_type": "",
       "research_record": ""
     }

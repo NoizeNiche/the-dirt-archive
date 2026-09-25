@@ -1,0 +1,41 @@
+{
+  "builder": "DigiTech",
+  "pedal": "DigiTech Death Metal",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/digitech-death-metal",
+      "title": "Digitech Death Metal Distortion - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/sch/i.html?_nkw=digitech+death+metal+pedal&_sop=12",
+      "title": "Digitech Death Metal Pedal for sale | eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://equipboard.com/items/digitech-death-metal",
+      "title": "DigiTech Death Metal - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.sweetwater.com/store/detail/DeathMetal--digitech-death-metal-distortion-pedal",
+      "title": "DigiTech Death Metal Distortion Pedal | Sweetwater",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.sweetwater.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

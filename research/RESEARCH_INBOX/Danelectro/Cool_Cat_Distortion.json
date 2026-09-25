@@ -2,7 +2,40 @@
   "builder": "Danelectro",
   "pedal": "Cool Cat Distortion",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/danelectro-cool-cat-distortion",
+      "title": "Danelectro Cool Cat Distortion - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://equipboard.com/items/danelectro-cd-1-cool-cat-distortion",
+      "title": "Danelectro CD-1 Cool Cat Distortion - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Danelectro/Cool-Cat-Distortion/68977125/",
+      "title": "Cool Cat Distortion by Danelectro | RockBoard | PedalPedia",
+      "h1": "Cool Cat Distortion",
+      "excerpt": "Cool Cat Distortion by Danelectro | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Danelectro Cool Cat Distortion LOG IN TO SUGGEST IMPROVEMENTS DISTORTION Description The Cool Cat CD-1 Distortion from Danelectro gives you a metal stomp box for the price of a plastic one. If you’re finicky about tone, the Cool Cat will have you purring. The Cool Cat Distortion brings all the rage of a cranked British tube amp to your tone. Since the 60’s, the definitive sound of Rock from London to Tokyo. An extremely versatile pedal. Media Videos Demo by musicnbooksdotcom (EN) Demo by Rob N Roll (EN) Demo by Paweł Kieler (EN) Demo by Budget Pedal Chap (EN) Manuals Manual (EN) Reviews Review by The Gear Page (EN) Review by Musiker-Board (DE) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 7mA More pedals from Danelectro REVERB REVERB Danelectro Spring King Junior Reverb Pedal DELAY DELAY Danelectro FAB Delay OVERDRIVE OVERDRIVE Danelectro BP-1 Pride of Texas FUZZ FUZZ Danelectro Cool Cat Fuzz V1 All Danelectro Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview ©2026 Warwick GmbH Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.tdpri.com/threads/any-opinions-on-the-danelectro-cool-cat-distortion.154770/",
+      "title": "Any opinions on the Danelectro Cool Cat Distortion?",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.tdpri.com",
+      "source_kind": "other"
+    }
+  ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

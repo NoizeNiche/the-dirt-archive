@@ -2,7 +2,24 @@
   "builder": "Danelectro",
   "pedal": "Cool Cat Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/danelectro-cool-cat-fuzz",
+      "title": "Danelectro Cool Cat Fuzz - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/b/danelectro-cool-cat-fuzz/bn_7024820800",
+      "title": "danelectro cool cat fuzz products for sale | eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    }
+  ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

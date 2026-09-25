@@ -16555,21 +16555,21 @@
     "pedal": "Cool Cat Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Danelectro/Cool Cat Distortion.md"
   },
   {
     "builder": "Danelectro",
     "pedal": "Cool Cat Drive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Danelectro/Cool Cat Drive.md"
   },
   {
     "builder": "Danelectro",
     "pedal": "Cool Cat Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Danelectro/Cool Cat Fuzz.md"
   },
   {
     "builder": "Danelectro",
@@ -16722,7 +16722,7 @@
     "pedal": "Wasabi Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Danelectro/Wasabi Overdrive.md"
   },
   {
     "builder": "Daredevil Pedals",
@@ -16822,7 +16822,7 @@
     "pedal": "NORTHERN CREEPER Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Daredevil Pedals/NORTHERN CREEPER Fuzz.md"
   },
   {
     "builder": "Daredevil Pedals",
@@ -16931,7 +16931,7 @@
     "pedal": "Microtubes B3K",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes B3K.md"
   },
   {
     "builder": "Darkglass Electronics",
@@ -16980,7 +16980,7 @@
     "pedal": "Absolute Destruction",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Death By Audio/Absolute Destruction.md"
   },
   {
     "builder": "Death By Audio",
@@ -17064,7 +17064,7 @@
     "pedal": "Octave Clang V2",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Death By Audio/Octave Clang V2.md"
   },
   {
     "builder": "Death By Audio",
@@ -17165,7 +17165,7 @@
     "pedal": "Shatterbox",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Demedash Effects/Shatterbox.md"
   },
   {
     "builder": "Demedash Effects",
@@ -17179,14 +17179,14 @@
     "pedal": "Stutterbug",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Demedash Effects/Stutterbug.md"
   },
   {
     "builder": "Demeter",
     "pedal": "DD-1 Double Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Demeter/DD-1 Double Overdrive.md"
   },
   {
     "builder": "Demeter",
@@ -17263,7 +17263,7 @@
     "pedal": "Diamond Drive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Diamond/Diamond Drive.md"
   },
   {
     "builder": "Diezel Amplification",
@@ -17279,7 +17279,7 @@
     "pedal": "DigiTech Death Metal",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/DigiTech/DigiTech Death Metal.md"
   },
   {
     "builder": "DigiTech",
@@ -17293,7 +17293,7 @@
     "pedal": "Hot Head Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/DigiTech/Hot Head Distortion.md"
   },
   {
     "builder": "DigiTech",
@@ -17551,7 +17551,7 @@
     "pedal": "FX69B Grunge",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/DOD Electronics/FX69B Grunge.md"
   },
   {
     "builder": "DOD Electronics",
@@ -17572,7 +17572,7 @@
     "pedal": "FX86 Death Metal Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/DOD Electronics/FX86 Death Metal Distortion.md"
   },
   {
     "builder": "DOD Electronics",
@@ -17644,14 +17644,14 @@
     "pedal": "Overdrive Preamp 250",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/DOD Electronics/Overdrive Preamp 250.md"
   },
   {
     "builder": "DOD Electronics",
     "pedal": "Overdrive Preamp 250-X",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/DOD Electronics/Overdrive Preamp 250-X.md"
   },
   {
     "builder": "DOD Electronics",
@@ -17679,28 +17679,28 @@
     "pedal": "Medici",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dophix/Medici.md"
   },
   {
     "builder": "Dophix",
     "pedal": "Michelangelo",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dophix/Michelangelo.md"
   },
   {
     "builder": "Dophix",
     "pedal": "Michelangelo Gold",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dophix/Michelangelo Gold.md"
   },
   {
     "builder": "Dr. No Effects",
     "pedal": "Turd Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dr. No Effects/Turd Fuzz.md"
   },
   {
     "builder": "Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham",
@@ -17728,7 +17728,7 @@
     "pedal": "BitQuest",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dr. Scientist Sounds/BitQuest.md"
   },
   {
     "builder": "Dr. Scientist Sounds",
@@ -17742,7 +17742,7 @@
     "pedal": "Frazz Dazzler",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dr. Scientist Sounds/Frazz Dazzler.md"
   },
   {
     "builder": "Dr. Scientist Sounds",
@@ -17784,7 +17784,7 @@
     "pedal": "Kyiv Lead",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Drunk Beaver/Kyiv Lead.md"
   },
   {
     "builder": "Drunk Beaver",
@@ -17805,7 +17805,7 @@
     "pedal": "Vatra",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Drunk Beaver/Vatra.md"
   },
   {
     "builder": "Drunk Beaver",
@@ -17821,21 +17821,21 @@
     "pedal": "XR OD-1 OverDrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Drunk Beaver/XR OD-1 OverDrive.md"
   },
   {
     "builder": "DryBell",
     "pedal": "The Engine",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/DryBell/The Engine.md"
   },
   {
     "builder": "DW Labs",
     "pedal": "D3P Multi-Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/DW Labs/D3P Multi-Distortion.md"
   },
   {
     "builder": "Dwarfcraft Devices",
@@ -17856,7 +17856,7 @@
     "pedal": "Bit Mangler",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dwarfcraft Devices/Bit Mangler.md"
   },
   {
     "builder": "Dwarfcraft Devices",
@@ -17891,35 +17891,35 @@
     "pedal": "HAX",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dwarfcraft Devices/HAX.md"
   },
   {
     "builder": "Dwarfcraft Devices",
     "pedal": "Necromancer",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dwarfcraft Devices/Necromancer.md"
   },
   {
     "builder": "Dwarfcraft Devices",
     "pedal": "Reese Lightning",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dwarfcraft Devices/Reese Lightning.md"
   },
   {
     "builder": "Dwarfcraft Devices",
     "pedal": "Robot Devil",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dwarfcraft Devices/Robot Devil.md"
   },
   {
     "builder": "Dwarfcraft Devices",
     "pedal": "Rot Yr Brain",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dwarfcraft Devices/Rot Yr Brain.md"
   },
   {
     "builder": "Dwarfcraft Devices",
@@ -17940,7 +17940,7 @@
     "pedal": "Spectacular Aenima",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dwarfcraft Devices/Spectacular Aenima.md"
   },
   {
     "builder": "Dwarfcraft Devices",
@@ -17975,7 +17975,7 @@
     "pedal": "Zhago",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Dwarfcraft Devices/Zhago.md"
   },
   {
     "builder": "EarthQuaker Devices",

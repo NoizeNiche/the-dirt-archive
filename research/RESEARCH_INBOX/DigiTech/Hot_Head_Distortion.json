@@ -1,0 +1,33 @@
+{
+  "builder": "DigiTech",
+  "pedal": "Hot Head Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/digitech-hot-head-distortion",
+      "title": "DigiTech Hot Head Distortion - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.ultimate-guitar.com/reviews/guitar_effects/digitech/hot_head_distortion/",
+      "title": "Hot Head Distortion Review | DigiTech | Guitar Effects | Reviews @ Ultimate-Guitar.Com",
+      "h1": "",
+      "excerpt": "Hot Head Distortion Review | DigiTech | Guitar Effects | Reviews @ Ultimate-Guitar.Com",
+      "host": "www.ultimate-guitar.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/p/digitech-hot-head-distortion",
+      "title": "Digitech Hot Head Distortion - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
