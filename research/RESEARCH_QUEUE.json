@@ -1,35 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T07:17:46.714660+00:00",
+  "generated_at": "2026-09-25T07:18:33.388137+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 1834,
+    "researched": 1836,
     "pictured": 1763,
     "complete": 1763,
-    "research_pending": 1927
+    "research_pending": 1925
   },
   "next_target": {
     "builder": "Critter Electronics",
-    "pedal": "American Fuzz",
+    "pedal": "CRR Klone",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Critter Electronics",
-      "pedal": "American Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Critter Electronics",
-      "pedal": "CFR Klone",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Critter Electronics",
       "pedal": "CRR Klone",
@@ -165,6 +153,18 @@
     {
       "builder": "Crown",
       "pedal": "Super Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crown",
+      "pedal": "W-Fuzz - 8-Transistor Fuzz-Wah",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crowther Audio",
+      "pedal": "Hot Cake",
       "catalog_type": "",
       "research_record": ""
     }
