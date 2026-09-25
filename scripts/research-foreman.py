@@ -41,29 +41,38 @@ def main():
     keys={(x.get("company"),x.get("pedal")) for x in catalog.get("pedals",[])}
     INBOX.mkdir(parents=True,exist_ok=True)
     staged=0; held=0
-    for f in ART.rglob("candidate-*.json"):
+    for f in ART.rglob("*.json"):
         try: packet=json.loads(f.read_text(encoding="utf-8"))
         except Exception: continue
-        b,p=packet.get("builder",""),packet.get("pedal","")
-        if (b,p) not in keys: continue
-        good=[]; seen=set()
-        for s in packet.get("sources",[]):
-            h=host(s.get("url",""))
-            if not h or h in seen: continue
-            if s.get("identity_match") and identity_ok(b,p,s.get("title",""),s.get("h1",""),s.get("excerpt","")):
-                seen.add(h)
-                good.append({
-                    "url":s.get("url"),
-                    "title":s.get("title"),
-                    "h1":s.get("h1"),
-                    "excerpt":s.get("excerpt","")[:6000],
-                    "host":h,
-                    "source_kind":s.get("source_kind","other")
-                })
-        if len(good)<2 and not (len(good)==1 and source_is_strong_single(good[0])):
-            held+=1
-            print("HOLD",b,"/",p,"independent_exact_sources=",len(good))
-            continue
+        dossiers = packet.get("records") if isinstance(packet.get("records"), list) else [packet]
+        for dossier in dossiers:
+            b=str(dossier.get("builder","")).strip()
+            p=str(dossier.get("pedal","")).strip()
+            if (b,p) not in keys: continue
+            good=[]; seen=set()
+            raw_sources=dossier.get("sources",[]) if isinstance(dossier.get("sources"),list) else []
+            for s in raw_sources:
+                h=host(s.get("url",""))
+                if not h or h in seen: continue
+                identity=s.get("identity") if isinstance(s.get("identity"),dict) else {}
+                exact=bool(s.get("identity_match") or identity.get("exactPedal"))
+                title=s.get("title","")
+                h1=s.get("h1","")
+                excerpt=s.get("excerpt",s.get("bodyExcerpt",""))
+                if exact and identity_ok(b,p,title,h1,excerpt):
+                    seen.add(h)
+                    good.append({
+                        "url":s.get("url"),
+                        "title":title,
+                        "h1":h1,
+                        "excerpt":str(excerpt or "")[:6000],
+                        "host":h,
+                        "source_kind":s.get("source_kind",s.get("sourceKind","other"))
+                    })
+            if len(good)<2 and not (len(good)==1 and source_is_strong_single(good[0])):
+                held+=1
+                print("HOLD",b,"/",p,"independent_exact_sources=",len(good))
+                continue
         out=INBOX/slug(b)/(slug(p)+".json")
         out.parent.mkdir(parents=True,exist_ok=True)
         out.write_text(json.dumps({
