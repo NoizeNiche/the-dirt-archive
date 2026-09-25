@@ -172,7 +172,8 @@ jobs:
           )
           print("Captured pre-publication research state.")
           PY
-          python scripts/synthesize-research-inbox.py --only research-evidence/foreman-summary.json
+          synth_result="$(python scripts/synthesize-research-inbox.py --only research-evidence/foreman-summary.json)"
+          created_records="$(python -c 'import json,sys; print(json.load(sys.stdin)["created"])' <<<"$synth_result")"
           python scripts/sync_prp_catalog.py
           python scripts/sync-prp-tracker.py
           python scripts/sync-photo-backlog.py
@@ -238,12 +239,29 @@ jobs:
           genuinely_new_links="$(python -c 'import json,sys; print(json.load(sys.stdin)["genuinely_new_links"])' <<<"$accounting")"
           echo "canonical_delta=$delta" >> "$GITHUB_OUTPUT"
           echo "Canonical research delta: before=$(python -c 'import json,sys; print(json.load(sys.stdin)["before_researched"])' <<<"$accounting") after=$(python -c 'import json,sys; print(json.load(sys.stdin)["after_researched"])' <<<"$accounting") delta=$delta; foreman staged=$staged_research; orphan adoptions=$orphan_adoptions; genuinely new links=$genuinely_new_links."
-          if [ "$delta" -lt "$staged_research" ]; then
-            echo "ERROR: some foreman-approved evidence did not become a new canonical research record."
+          staged_new_files="$(python - <<'PY'
+          import json
+          from pathlib import Path
+          data=json.loads(Path("research-evidence/foreman-summary.json").read_text(encoding="utf-8"))
+          before=set(data.get("preexisting_placeholder","")) if False else set()
+          # Reuse the pre-publication record inventory captured above.
+          state=json.loads(Path("/tmp/research-publication-before.json").read_text(encoding="utf-8"))
+          existing=set(state.get("existing_records", []))
+          staged_files=[str(Path(p)) for p in data.get("staged_files", [])]
+          print(sum(1 for p in staged_files if p not in existing))
+          PY
+          )"
+          echo "Research publication gate: created_records=$created_records; staged=$staged_research; staged_new_files=$staged_new_files; orphan_adoptions=$orphan_adoptions; genuinely_new_links=$genuinely_new_links."
+          if [ "$staged_new_files" -ne "$created_records" ]; then
+            echo "ERROR: foreman admission count does not match files actually created by this pass."
             exit 1
           fi
-          if [ "$genuinely_new_links" -gt 0 ]; then
-            echo "ERROR: canonical research gained links to research files that did not exist before this pass."
+          if [ "$genuinely_new_links" -ne "$created_records" ]; then
+            echo "ERROR: canonical research links do not map one-for-one to newly created research files."
+            exit 1
+          fi
+          if [ "$delta" -ne "$newly_linked" ]; then
+            echo "ERROR: canonical research count delta does not match newly linked research records."
             exit 1
           fi
 
@@ -292,7 +310,8 @@ jobs:
             # Preserve the downloaded worker artifacts across the race, then
             # reconstruct the verified inbox from those artifacts before synthesis.
             python scripts/research-foreman.py
-            python scripts/synthesize-research-inbox.py --only research-evidence/foreman-summary.json
+            synth_result="$(python scripts/synthesize-research-inbox.py --only research-evidence/foreman-summary.json)"
+            created_records="$(python -c 'import json,sys; print(json.load(sys.stdin)["created"])' <<<"$synth_result")"
             python scripts/sync_prp_catalog.py
             python scripts/sync-prp-tracker.py
             python scripts/sync-photo-backlog.py
