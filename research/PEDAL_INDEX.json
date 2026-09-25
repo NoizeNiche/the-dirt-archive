@@ -40313,7 +40313,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/the-kudu/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/The KUDU.md"
     },
@@ -40401,7 +40401,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/tone-hungry-effects/fuzz-cream/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tone Hungry Effects/Fuzz Cream.md"
     },
@@ -41046,7 +41046,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/dragon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Dragon.md"
     },
@@ -41068,7 +41068,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/fiery-red-horse/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Fiery Red Horse.md"
     },
@@ -41078,7 +41078,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/fuzz-duo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Fuzz Duo.md"
     },
@@ -41089,7 +41089,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/killer-rabbit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Killer Rabbit.md"
     },
@@ -41109,7 +41109,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/pale-horse/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Pale Horse.md"
     },
@@ -41149,7 +41149,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/the-triplet/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/The Triplet.md"
     },
@@ -41169,7 +41169,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/triumvirate/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Triumvirate.md"
     },
@@ -41179,7 +41179,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/woodchipper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Woodchipper.md"
     },
