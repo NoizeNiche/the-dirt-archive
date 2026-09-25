@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T05:08:57.305597+00:00",
+  "generated_at": "2026-09-25T05:23:22.929670+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1778,
+    "researched": 1779,
     "pictured": 1711,
     "complete": 1711,
-    "research_pending": 1987
+    "research_pending": 1986
   },
   "next_target": {
     "builder": "Crazy Tube Circuits",
@@ -98,12 +98,6 @@
     },
     {
       "builder": "Crazy Tube Circuits",
-      "pedal": "Starlight",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
       "pedal": "Triptychon",
       "catalog_type": "",
       "research_record": ""
@@ -165,6 +159,12 @@
     {
       "builder": "CrazyTone",
       "pedal": "Crazytone Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Creation Audio Labs",
+      "pedal": "Grizzly Bass",
       "catalog_type": "",
       "research_record": ""
     }
