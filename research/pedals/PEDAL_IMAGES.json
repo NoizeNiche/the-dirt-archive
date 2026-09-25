@@ -12214,7 +12214,7 @@
   {
     "builder": "Charlie Pedals",
     "pedal": "Troubadour 2023",
-    "image": null,
+    "image": "./assets/pedals/charlie-pedals/troubadour-2023/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Charlie Pedals/Troubadour 2023.md"
   },
@@ -12438,7 +12438,7 @@
   {
     "builder": "Cherry Music",
     "pedal": "Mighty Sound M3 Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cherry-music/mighty-sound-m3-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cherry Music/Mighty Sound M3 Fuzz.md"
   },
@@ -14964,7 +14964,7 @@
   {
     "builder": "Cortez",
     "pedal": "Cortez Overdrive",
-    "image": null,
+    "image": "./assets/pedals/cortez/cortez-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cortez/Cortez Overdrive.md"
   },
