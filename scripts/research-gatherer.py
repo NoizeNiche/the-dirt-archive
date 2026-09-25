@@ -136,13 +136,15 @@ def identity_match(builder,pedal,s):
     b_hits=sum(1 for x in b if x in hay)
     return bool((exact and (not b or b_hits >= 1)) or (p and p_hits >= max(1,min(2,len(p))) and (not b or b_hits >= 1)))
 
-def source_kind(builder,url):
+def source_kind(builder,url,exact_catalog_urls=None):
     h=host(url)
     compact=re.sub(r"[^a-z0-9]","",norm(builder))
     hc=re.sub(r"[^a-z0-9]","",h)
     if "effectsdatabase" in h: return "effects_database"
     if "reverb.com" in h: return "reverb"
     if compact and compact in hc: return "manufacturer"
+    if exact_catalog_urls and url in exact_catalog_urls:
+        return "catalog_verified"
     return "other"
 
 builder=os.environ.get("RESEARCH_TARGET_BUILDER","").strip()
@@ -151,8 +153,11 @@ out_path=os.environ.get("RESEARCH_OUT","").strip()
 if not builder or not pedal:
     raise SystemExit("RESEARCH_TARGET_BUILDER and RESEARCH_TARGET_PEDAL are required")
 
+catalog_urls=set(source_pages_from_catalog(builder,pedal))
+override_urls=set(source_pages_from_photo_overrides(builder,pedal))
+exact_source_urls=catalog_urls | override_urls
 urls=[]
-for u in source_pages_from_catalog(builder,pedal)+source_pages_from_photo_overrides(builder,pedal):
+for u in list(catalog_urls)+list(override_urls):
     if u not in urls: urls.append(u)
 for q in (f'"{builder}" "{pedal}"', f'"{builder}" "{pedal}" manual specs review', f'"{pedal}" "{builder}" Reverb Effects Database'):
     for x in search(q):
@@ -163,7 +168,7 @@ for u in urls[:12]:
     s=fetch(u)
     if not s: continue
     s["source_host"]=host(s["url"])
-    s["source_kind"]=source_kind(builder,s["url"])
+    s["source_kind"]=source_kind(builder,s["url"],exact_source_urls)
     s["identity_match"]=identity_match(builder,pedal,s)
     if s["identity_match"]:
         sources.append(s)
