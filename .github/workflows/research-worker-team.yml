@@ -29,11 +29,12 @@ jobs:
           python - <<'PY' >> "$GITHUB_OUTPUT"
           import csv, json, sys
           rows=list(csv.DictReader(open("research/PRP_TRACKER.csv",newline="",encoding="utf-8")))
+          # Keep the queue deterministic and strictly alphabetical so the archive advances
+          # from C onward through Z instead of rotating back into earlier letters.
           pending=[{"builder":r["Builder"],"pedal":r["Pedal"]} for r in rows if r.get("Pedal Info")!="DONE"]
-          run_number=int(__import__("os").environ.get("GITHUB_RUN_NUMBER","1"))
+          pending.sort(key=lambda x:(x["builder"].casefold(), x["pedal"].casefold()))
           span=min(120,len(pending))
-          start=((run_number-1)*span)%len(pending) if pending else 0
-          targets=[pending[(start+i)%len(pending)] for i in range(span)]
+          targets=pending[:span]
           matrix={"include":[{"targets":targets[i:i+4]} for i in range(0,len(targets),4)]}
           print("matrix="+json.dumps(matrix,ensure_ascii=False,separators=(",",":")))
           print("Research targets:",len(targets),"workers:",len(matrix["include"]),file=sys.stderr)
