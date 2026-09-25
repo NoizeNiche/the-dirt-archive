@@ -2,25 +2,16 @@
   "builder": "CroyTone Audio Technologies",
   "pedal": "Camper Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 1,
   "sources": [
     {
       "url": "https://croytoneaudio.com/en/products/camper-fuzz",
-      "title": "Camper Fuzz — Croy Tone Audio Technologies",
+      "title": "Camper Fuzz &ndash; Croy Tone Audio Technologies",
       "h1": "Camper Fuzz",
-      "excerpt": "Croy Tone Audio Technologies describes the Camper Fuzz as a versatile silicon fuzz inspired by classic 1960s and 1970s fuzz sounds. The builder says the Camper Fuzz is the third version of a fuzz design begun in 2016, with a flexible tone section intended to cover heavy 1970s wall-of-fuzz sounds through sharper late-1960s lead tones. The product page says the pedals are hand assembled in the CroyTone Audio Shiroishi Shop in Sapporo, Japan and use true-bypass switching.",
+      "excerpt": "Camper Fuzz &ndash; Croy Tone Audio Technologies Skip to content Facebook Instagram 日本全国からの郵送修理に対応 Home Repair Restoration Repair Restoration Overview Amplifier Repair Synthesizer Repair Recording Equipment Repair Effects Pedal Repair Vintage Restorations Mail-In Repairs Repair FAQ Bench Journal Shop Shop CroyTone Products Boutique Guitars Used and Vintage Mother Mary Company Straps Contact Contact Repair Inquiry Contact Us Log in Country/region United States | USD $ Search Afghanistan AFN ؋ Åland Islands EUR € Albania ALL L Algeria DZD د.ج Andorra EUR € Angola JPY ¥ Argentina JPY ¥ Armenia AMD դր. Aruba AWG ƒ Ascension Island SHP £ Australia AUD $ Austria EUR € Azerbaijan AZN ₼ Bahamas BSD $ Bahrain JPY ¥ Bangladesh BDT ৳ Barbados BBD $ Belarus JPY ¥ Belgium EUR € Belize BZD $ Benin XOF Fr Bermuda USD $ Bhutan JPY ¥ Bolivia BOB Bs. Bosnia Herzegovina BAM КМ Botswana BWP P Brazil JPY ¥ British Indian Ocean Territory USD $ British Virgin Islands USD $ Brunei BND $ Bulgaria EUR € Burkina Faso XOF Fr Burundi BIF Fr Cambodia KHR ៛ Cameroon XAF CFA Canada CAD $ Cape Verde CVE $ Caribbean Netherlands USD $ Cayman Islands KYD $ Central African Republic XAF CFA Chad XAF CFA Chile JPY ¥ China CNY ¥ Christmas Island AUD $ Cocos (Keeling) Islands AUD $ Colombia JPY ¥ Comoros KMF Fr Congo - Brazzaville XAF CFA Congo - Kinshasa CDF Fr Cook Islands NZD $ Costa Rica CRC ₡ Côte d’Ivoire XOF Fr Croatia EUR € Curaçao ANG ƒ Cyprus EUR € Czechia CZK Kč Denmark DKK kr. Djibouti DJF Fdj Dominica XCD $ Dominican Republic DOP $ Ecuador USD $ Egypt EGP ج.م Equatorial Guinea XAF CFA Eritrea JPY ¥ Estonia EUR € Eswatini JPY ¥ Ethiopia ETB Br Falkland Islands FKP £ Faroe Islands DKK kr. Fiji FJD $ Finland EUR € France EUR € French Guiana EUR € French Polynesia XPF Fr French Southern Territories EUR € Gabon XOF Fr Gambia GMD D Georgia JPY ¥ Germany EUR € Ghana JPY ¥ Gibraltar GBP £ Greece EUR € Guatemala GTQ Q Guernsey GBP £ Guinea GNF Fr Guinea-Bissau XOF Fr Guyana GYD $ Haiti JPY ¥ Honduras HNL L Hong Kong SAR HKD $ Hungary HUF Ft Iceland ISK kr India INR ₹ Indonesia IDR Rp Iraq JPY ¥ Ireland EUR € Isle of Man GBP £ Israel ILS ₪ Italy EUR € Jamaica JMD $ Japan JPY ¥ Jersey JPY ¥ Jordan JPY ¥ Kazakhstan KZT ₸ Kenya KES KSh Kiribati JPY ¥ Kosovo EUR € Kuwait JPY ¥ Kyrgyzstan KGS som Laos LAK ₭ Latvia EUR € Lebanon LBP ل.ل Lesotho JPY ¥ Liberia JPY ¥ Libya JPY ¥ Liechtenstein CHF CHF Lithuania EUR € Luxembourg EUR € Macao SAR MOP P Madagascar JPY ¥ Malawi MWK MK Malaysia MYR RM Maldives MVR MVR Mali XOF Fr Malta EUR € Mauritania JPY ¥ Mauritius MUR ₨ Mayotte EUR € Mexico JPY ¥ Moldova MDL L Monaco EUR € Mongolia MNT ₮ Montenegro EUR € Morocco MAD د.م. Mozambique JPY ¥ Myanmar (Burma) MMK K Namibia JPY ¥ Nauru AUD $ Nepal NPR Rs. Netherlands EUR € New Caledonia XPF Fr New Zealand NZD $ Nicaragua NIO C$ Niger XOF Fr Nigeria NGN ₦ Niue NZD $ Norfolk Island AUD $ North Macedonia MKD ден Norway JPY ¥ Oman JPY ¥ Pakistan PKR ₨ Palestinian Territories ILS ₪ Panama USD $ Papua New Guinea PGK K Paraguay PYG ₲ Peru PEN S/ Philippines PHP ₱ Pitcairn Islands NZD $ Poland PLN zł Portugal EUR € Qatar QAR ر.ق Réunion EUR € Romania RON Lei Russia JPY ¥ Rwanda RWF FRw Samoa WST T San Marino EUR € São Tomé Príncipe STD Db Saudi Arabia SAR ر.س Senegal XOF Fr Serbia RSD РСД Seychelles JPY ¥ Sierra Leone SLL Le Singapore SGD $ Slovakia EUR € Slovenia EUR € Solomon Islands SBD $ Somalia JPY ¥ South Africa JPY ¥ South Georgia South Sandwich Islands GBP £ South Korea KRW ₩ South Sudan JPY ¥ Spain EUR € Sri Lanka LKR ₨ St. Helena SHP £ Sudan JPY ¥ <span class=\"countr",
       "host": "croytoneaudio.com",
-      "source_kind": "manufacturer",
-      "identity_match": true
-    },
-    {
-      "url": "https://reverb.com/item/84434789-croy-tone-audio-camper-fuzz",
-      "title": "Croy Tone Audio - Camper Fuzz | Reverb",
-      "h1": "Croy Tone Audio - Camper Fuzz",
-      "excerpt": "A Reverb listing identifies the exact Croy Tone Audio Camper Fuzz and describes it as a used pedal from Croytone Audio. The listing states that the unit was made in the USA before the company moved to Japan and includes multiple photos of the exact listed pedal. This provides independent identification of the Camper Fuzz model alongside the current manufacturer product page.",
-      "host": "reverb.com",
-      "source_kind": "reverb",
-      "identity_match": true
+      "source_kind": "catalog_verified"
     }
-  ]
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

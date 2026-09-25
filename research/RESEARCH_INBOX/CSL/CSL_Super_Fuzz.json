@@ -2,25 +2,40 @@
   "builder": "CSL",
   "pedal": "CSL Super Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 4,
   "sources": [
     {
+      "url": "https://equipboard.com/items/csl-super-fuzz",
+      "title": "CSL Super Fuzz - What To Know Where To Buy | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
       "url": "https://www.effectsdatabase.com/model/csl/superfuzz",
-      "title": "CSL Super Fuzz | Effects Database",
-      "h1": "CSL Super Fuzz",
-      "excerpt": "Effects Database has an exact CSL Super Fuzz record and classifies the named model as a fuzz pedal. The exact page identifies CSL Super Fuzz within the historical CSL catalog and distinguishes it from the many related Tone Bender-style and later reissue models listed elsewhere in the database.",
+      "title": "CSL Super Fuzz - Effects Database",
+      "h1": "",
+      "excerpt": "",
       "host": "www.effectsdatabase.com",
-      "source_kind": "effects_database",
-      "identity_match": true
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://reverb.com/item/28172100-csl-super-fuzz-mkiv-tone-bender-like-ed-o-brien-s",
+      "title": "CSL Super Fuzz - MKIV Tone Bender (Like Ed O&#x27;Brien&#x27;s) - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
     },
     {
       "url": "https://www.guitarmoderne.com/tag/csl-super-fuzz",
       "title": "CSL Super Fuzz | guitar moderne",
       "h1": "guitar moderne",
-      "excerpt": "Guitar Moderne identifies a vintage CSL Super Fuzz in its documentation of Ed O'Brien's pedalboard. The article explicitly names CSL Super Fuzz and identifies it among the other pedals in the rig, providing an independent second source for the exact model identity.",
+      "excerpt": "CSL Super Fuzz | guitar moderne Skip to primary content Skip to secondary content guitar moderne The Zine for Adventurous Guitarists Search Main menu Home Artists Pioneers Interviews Artist Index Gear Reader&#8217;s Rig Gear Reviews Tutorials Roots Moderne Recordings Community About Us Links Subscribe Tag Archives: CSL Super Fuzz Radiohead Rig Posted on July 11, 2014 by guitar moderne Reply T he folks at the Gig Rig posted this amazing video of how they put together Radiohead guitarist, Ed Obrien’s pedalboard, a Pedaltrain Grande with their G2 switching system, Loopy2 routing box, powered by their Generator and Isolator power system. Almost everything here is available off the shelf—nothing is custom made. The pedals include a Fulltone Clyde wah pedal, a Digitech Whammy controlled by a Molten Voltage MIDI 2 pedal, a Molten Voltage OZ Looper controller (no doubt controlling the Strymon Timeline, a Klon and Hot Cakes overdrives, a vintage CSL Super Fuzz (a/k/a Sola Sound), an Eventide H9, a Diamond Tremolo, a Dinosaural compressor, an MXR Flanger, a volume pedal and an Electro-Harmonix Deluxe Memory Man. Check it out. Posted in Gear , Tutorials | Tagged ambient , avant-garde , controllers , CSL Super Fuzz , delay , Diamond Tremolo , Ed O'Brien , Electro-Harmonix , experimental , fuzz , gear , guitar , Hot Cakes , improvisation , Klon , looping , Memory Man , MIDI , Molten Voltage , MXR Flanger , pedals , Pedaltrain , Radiohead , The Gig Rig , Video | Leave a reply Share Archives Archives Select Month June 2024 May 2024 February 2024 December 2023 November 2023 October 2023 September 2023 August 2023 July 2023 June 2023 May 2023 March 2023 February 2023 January 2023 December 2022 November 2022 October 2022 September 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 December 2018 November 2018 October 2018 September 2018 August 2018 July 2018 June 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 December 2016 November 2016 October 2016 September 2016 August 2016 July 2016 June 2016 May 2016 April 2016 March 2016 February 2016 January 2016 December 2015 November 2015 October 2015 September 2015 August 2015 July 2015 June 2015 May 2015 April 2015 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 September 2014 August 2014 July 2014 June 2014 May 2014 April 2014 March 2014 February 2014 January 2014 December 2013 November 2013 October 2013 September 2013 August 2013 July 2013 June 2013 May 2013 April 2013 March 2013 February 2013 January 2013 December 2012 November 2012 October 2012 September 2012 August 2012 July 2012 June 2012 May 2012 April 2012 March 2012 February 2012 January 2012 Radius Recent Posts Guitar Moderne Festival XXVIII and Test David Kollar and Paolo Raineri Pay Tribute To Jon Hassell Sorry, Test, and Cool Video Retro-Future Amp Art David Torn with Don Cherry &#8211; Live at Empire Theatre, Paris 1979 Subscribe2 Leave This Blank: Leave This Blank Too: Do Not Change This: Your email: Name* Email* Please leave this field empty. Proudly powered by WordPress Featuring Recent Posts WordPress Widget development by YD",
       "host": "www.guitarmoderne.com",
-      "source_kind": "other",
-      "identity_match": true
+      "source_kind": "other"
     }
-  ]
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }
