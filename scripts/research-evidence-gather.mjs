@@ -133,13 +133,34 @@ function sourceKind(builder,url){
   if(bc && hc.includes(bc)) return 'manufacturer';
   return 'other';
 }
+function romanAscii(v){
+  return String(v||'')
+    .replace(/[Ⅰ]/g,'I').replace(/[Ⅱ]/g,'II').replace(/[Ⅲ]/g,'III')
+    .replace(/[Ⅳ]/g,'IV').replace(/[Ⅴ]/g,'V').replace(/[Ⅵ]/g,'VI')
+    .replace(/[Ⅶ]/g,'VII').replace(/[Ⅷ]/g,'VIII').replace(/[Ⅸ]/g,'IX')
+    .replace(/[Ⅹ]/g,'X');
+}
+function searchQueries(builder,pedal){
+  const b=String(builder||'').trim(), p=String(pedal||'').trim();
+  const pa=romanAscii(p);
+  const pn=norm(p);
+  const variants=[
+    '"'+b+'" "'+p+'"',
+    '"'+b+'" "'+pa+'"',
+    '"'+b+'" "'+p+'" manual specs review',
+    '"'+b+'" "'+pa+'" manual specs review',
+    '"'+p+'" "'+b+'" Reverb Effects Database',
+    '"'+pa+'" "'+b+'" Reverb Effects Database'
+  ];
+  if(pn.includes('tone bender')){
+    variants.push('"'+b+'" "Tone Bender"');
+    variants.push('"'+b+'" "TONE BENDER M.K"');
+  }
+  return [...new Set(variants.filter(Boolean))];
+}
 async function targetRecord(builder,pedal,type){
   const urls=sourcePages(builder,pedal);
-  const queries=[
-    '"'+builder+'" "'+pedal+'"',
-    '"'+builder+'" "'+pedal+'" manual specs review',
-    '"'+pedal+'" "'+builder+'" Reverb Effects Database'
-  ];
+  const queries=searchQueries(builder,pedal);
   const found=new Map();
   for(const u of urls) found.set(u,{url:u,title:'catalog/override source'});
   for(const q of queries) for(const x of await search(q)) if(!found.has(x.url)) found.set(x.url,x);
