@@ -66,8 +66,8 @@ def search(q):
         r'<a[^>]+href=["\'](/url\?q=[^"\']+)["\'][^>]*>([\s\S]*?)</a>'
     ]
     for endpoint in endpoints:
-        html=run(["curl","-L","--silent","--show-error","--compressed","--connect-timeout","3","--max-time","8",
-                  "-A","Mozilla/5.0","-H","Accept-Language: en-US,en;q=0.9",endpoint],11)
+        html=run(["curl","-L","--silent","--show-error","--compressed","--connect-timeout","2","--max-time","5",
+                  "-A","Mozilla/5.0","-H","Accept-Language: en-US,en;q=0.9",endpoint],7)
         if not html:
             continue
         for pattern in patterns:
@@ -81,8 +81,8 @@ def search(q):
     return out[:18]
 
 def fetch(u):
-    html=run(["curl","-L","--silent","--show-error","--compressed","--connect-timeout","3","--max-time","10",
-              "-A","Mozilla/5.0 The-Dirt-Archive research worker","-H","Accept-Language: en-US,en;q=0.9",u],13)
+    html=run(["curl","-L","--silent","--show-error","--compressed","--connect-timeout","2","--max-time","6",
+              "-A","Mozilla/5.0 The-Dirt-Archive research worker","-H","Accept-Language: en-US,en;q=0.9",u],8)
     if not html:
         return None
     p=P(); p.feed(html[:600000])
@@ -159,7 +159,7 @@ for q in (f'"{builder}" "{pedal}"', f'"{builder}" "{pedal}" manual specs review'
         if x["url"] not in urls: urls.append(x["url"])
 
 sources=[]; seen_hosts=set()
-for u in urls[:18]:
+for u in urls[:12]:
     s=fetch(u)
     if not s: continue
     s["source_host"]=host(s["url"])
