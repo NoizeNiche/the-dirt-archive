@@ -8,7 +8,6 @@ const OUT = path.join(process.cwd(), 'artifact');
 const WORKER_INDEX = Math.max(0, Number(process.env.RESEARCH_WORKER_INDEX || 0));
 const WORKER_COUNT = Math.max(1, Number(process.env.RESEARCH_WORKER_COUNT || 20));
 const TARGETS_PER_WORKER = Math.max(1, Number(process.env.RESEARCH_TARGETS_PER_WORKER || 4));
-const RUN_NUMBER = Math.max(1, Number(process.env.GITHUB_RUN_NUMBER || 1));
 const TIMEOUT = Math.max(2500, Number(process.env.RESEARCH_REQUEST_TIMEOUT_MS || 5000));
 
 function csvRows(raw) {
@@ -224,9 +223,14 @@ async function targetRecord(builder,pedal,type){
 const rows=csvRows(fs.readFileSync(TRACKER,'utf8')).filter(r=>r['Pedal Info']!=='DONE')
   .map((r,i)=>({...r,_order:Number(r.Order)||i})).sort((a,b)=>a._order-b._order);
 const span=WORKER_COUNT*TARGETS_PER_WORKER;
-const start=rows.length?(((RUN_NUMBER-1)*span)%rows.length):0;
-const targets=[];
-for(let j=0;j<TARGETS_PER_WORKER&&rows.length;j++) targets.push(rows[(start+WORKER_INDEX*TARGETS_PER_WORKER+j)%rows.length]);
+// Keep the autonomous evidence crew locked to the same canonical A→Z
+// frontier as the main research workers. Do not rotate across the entire
+// remaining catalog, or C can starve while later letters are researched.
+const frontier=rows.slice(0,span);
+const targets=frontier.slice(
+  WORKER_INDEX*TARGETS_PER_WORKER,
+  (WORKER_INDEX+1)*TARGETS_PER_WORKER
+);
 
 fs.rmSync(OUT,{recursive:true,force:true}); fs.mkdirSync(OUT,{recursive:true});
 const records = await Promise.all(
