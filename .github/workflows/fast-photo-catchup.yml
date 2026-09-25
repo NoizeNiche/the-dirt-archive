@@ -10,7 +10,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: dirt-photo-fast-${{ github.run_id }}
+  group: dirt-photo-recovery-v3
+  # Serialize all automatic photo catch-up passes so duplicate runners do not compete for the same records.
   cancel-in-progress: false
 
 jobs:
@@ -33,8 +34,10 @@ jobs:
               for r in rows
               if r.get("Pedal Info") == "DONE" and r.get("Picture") != "DONE"
           ]
+          targets.sort(key=lambda x: (x["builder"].casefold(), x["pedal"].casefold()))
+          targets = targets[:60]
           print("matrix=" + json.dumps({"include": targets}, ensure_ascii=False, separators=(",", ":")))
-          print(f"Prepared {len(targets)} photo targets.", file=sys.stderr)
+          print(f"Prepared {len(targets)} photo targets (bounded to 60 per pass).", file=sys.stderr)
           PY
 
   recover:
@@ -42,7 +45,7 @@ jobs:
     needs: prepare
     strategy:
       fail-fast: false
-      max-parallel: 20
+      max-parallel: 15
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
     runs-on: ubuntu-latest
     timeout-minutes: 4
