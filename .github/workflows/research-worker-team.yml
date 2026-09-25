@@ -174,6 +174,7 @@ jobs:
           PY
           synth_result="$(python scripts/synthesize-research-inbox.py --only research-evidence/foreman-summary.json)"
           created_records="$(python -c 'import json,sys; print(json.load(sys.stdin)["created"])' <<<"$synth_result")"
+          printf '%s' "$created_paths_json" > /tmp/research-created-paths.json
           python scripts/sync_prp_catalog.py
           python scripts/sync-prp-tracker.py
           python scripts/sync-photo-backlog.py
@@ -239,25 +240,31 @@ jobs:
           genuinely_new_links="$(python -c 'import json,sys; print(json.load(sys.stdin)["genuinely_new_links"])' <<<"$accounting")"
           echo "canonical_delta=$delta" >> "$GITHUB_OUTPUT"
           echo "Canonical research delta: before=$(python -c 'import json,sys; print(json.load(sys.stdin)["before_researched"])' <<<"$accounting") after=$(python -c 'import json,sys; print(json.load(sys.stdin)["after_researched"])' <<<"$accounting") delta=$delta; foreman staged=$staged_research; orphan adoptions=$orphan_adoptions; genuinely new links=$genuinely_new_links."
-          staged_new_files="$(python - <<'PY'
+          created_paths_missing="$(python - <<'PY'
           import json
+          import csv
           from pathlib import Path
-          data=json.loads(Path("research-evidence/foreman-summary.json").read_text(encoding="utf-8"))
-          before=set(data.get("preexisting_placeholder","")) if False else set()
-          # Reuse the pre-publication record inventory captured above.
-          state=json.loads(Path("/tmp/research-publication-before.json").read_text(encoding="utf-8"))
-          existing=set(state.get("existing_records", []))
-          staged_files=[str(Path(p)) for p in data.get("staged_files", [])]
-          print(sum(1 for p in staged_files if p not in existing))
+          created=json.loads(Path("/tmp/research-created-paths.json").read_text(encoding="utf-8"))
+          with open("research/PRP_TRACKER.csv", newline="", encoding="utf-8") as fh:
+              rows=list(csv.DictReader(fh))
+          linked={r.get("Research Record") or "" for r in rows}
+          missing=[p for p in created if "./" + p not in linked and p not in linked]
+          print(len(missing))
+          if missing:
+              print("Missing created canonical links:", *missing, sep="\\n  ")
           PY
           )"
-          echo "Research publication gate: created_records=$created_records; staged=$staged_research; staged_new_files=$staged_new_files; orphan_adoptions=$orphan_adoptions; genuinely_new_links=$genuinely_new_links."
+          echo "Research publication gate: created_records=$created_records; staged=$staged_research; staged_new_files=$staged_new_files; orphan_adoptions=$orphan_adoptions; genuinely_new_links=$genuinely_new_links; created_paths_missing=$created_paths_missing."
           if [ "$staged_new_files" -ne "$created_records" ]; then
             echo "ERROR: foreman admission count does not match files actually created by this pass."
             exit 1
           fi
-          if [ "$genuinely_new_links" -ne "$created_records" ]; then
-            echo "ERROR: canonical research links do not map one-for-one to newly created research files."
+          if [ "$created_paths_missing" -ne 0 ]; then
+            echo "ERROR: one or more canonical research files created by this pass were not linked into the canonical tracker."
+            exit 1
+          fi
+          if [ "$delta" -lt "$created_records" ]; then
+            echo "ERROR: canonical research movement was smaller than the number of new records created by this pass."
             exit 1
           fi
           if [ "$delta" -ne "$newly_linked" ]; then
@@ -312,6 +319,7 @@ jobs:
             python scripts/research-foreman.py
             synth_result="$(python scripts/synthesize-research-inbox.py --only research-evidence/foreman-summary.json)"
             created_records="$(python -c 'import json,sys; print(json.load(sys.stdin)["created"])' <<<"$synth_result")"
+            created_paths_json="$(python -c 'import json,sys; print(json.dumps(json.load(sys.stdin)["created_paths"]))' <<<"$synth_result")"
             python scripts/sync_prp_catalog.py
             python scripts/sync-prp-tracker.py
             python scripts/sync-photo-backlog.py
