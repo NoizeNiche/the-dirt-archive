@@ -1,0 +1,23 @@
+{
+  "builder": "Cunningham Amps",
+  "pedal": "MK 1.6 Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.cunninghamamps.co.nz/product-page/mk-1-6-fuzz-germanium-edition",
+      "title": "MK 1.6 Fuzz - Germanium Edition | Cunningham Amps",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.cunninghamamps.co.nz"
+    },
+    {
+      "url": "https://delicious-audio.com/cunningham-amps-mk-1-6-fuzz-ge/",
+      "title": "Cunningham Amps MK 1.6 Fuzz (Ge) | Delicious Audio",
+      "h1": "Cunningham Amps MK 1.6 Fuzz (Ge)",
+      "excerpt": "Updated Jun. 9, 2025 | by Paolo De Gregorio The Cunningham Amps MK 1.6 Fuzz is a high-quality, vintage-voiced fuzz made by hand in New Zealand that blends the line between a MK 1.5′ Tone Bender and Dallas Arbiter Fuzz Face. The Attack knob sets the amount of fuzz and Level controls the overall output, which ranges from soft to way more than you need, allowing you to hit hard your amp’s input stage, for extra saturation. A Gain Mode switch provides three gain settings: Low is a slightly brighter boost setting, while Med and High progressively add more gain and fuzz, with the latter sounding fuller and juicier.",
+      "host": "delicious-audio.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
