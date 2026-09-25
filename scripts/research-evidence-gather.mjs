@@ -70,6 +70,20 @@ function parseResults(html){
   }
   return out;
 }
+function parseLinks(html,baseUrl){
+  const out=[]; const seen=new Set();
+  const re=/<a[^>]+href=["']([^"']+)["'][^>]*>([\\s\\S]*?)<\\/a>/gi;
+  for(const m of html.matchAll(re)){
+    let u=String(m[1]||'').replace(/&amp;/g,'&').trim();
+    if(!u || /^javascript:|^mailto:|^tel:/i.test(u)) continue;
+    try{ u=new URL(u,baseUrl).href.split('#')[0]; }catch{ continue; }
+    if(!/^https?:/i.test(u)) continue;
+    if(seen.has(u)) continue;
+    seen.add(u);
+    out.push({url:u,title:strip(m[2])});
+  }
+  return out.slice(0,60);
+}
 async function search(q){
   const endpoints=[
     'https://www.bing.com/search?q='+encodeURIComponent(q),
@@ -163,6 +177,23 @@ async function targetRecord(builder,pedal,type){
   const queries=searchQueries(builder,pedal);
   const found=new Map();
   for(const u of urls) found.set(u,{url:u,title:'catalog/override source'});
+  // When exact source pages are known, mine a bounded set of external links
+  // from those pages before relying on search-engine discovery. This is
+  // especially useful for punctuation-heavy vintage model names that search
+  // engines may normalize poorly.
+  for(const u of urls){
+    const page=await get(u);
+    if(!page) continue;
+    const baseHost=host(page.url||u);
+    for(const x of parseLinks(page.text,page.url||u)){
+      const xHost=host(x.url);
+      if(!xHost || xHost===baseHost) continue;
+      const f=fit(builder,pedal,(x.title||'')+' '+x.url);
+      if(f.builderHits || f.pedalHits || /youtube|reverb|effectsdatabase|guitar|pedal/i.test(xHost+' '+x.title)){
+        if(!found.has(x.url)) found.set(x.url,x);
+      }
+    }
+  }
   for(const q of queries) for(const x of await search(q)) if(!found.has(x.url)) found.set(x.url,x);
   const candidates=[...found.values()];
   const ranked=candidates.map(x=>({x,f:fit(builder,pedal,x.title+' '+x.url)}))
