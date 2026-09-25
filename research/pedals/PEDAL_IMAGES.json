@@ -16404,7 +16404,7 @@
   {
     "builder": "Custom Audio Electronics",
     "pedal": "Freddy Fuzz",
-    "image": null,
+    "image": "./assets/pedals/custom-audio-electronics/freddy-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Custom Audio Electronics/Freddy Fuzz.md"
   },
