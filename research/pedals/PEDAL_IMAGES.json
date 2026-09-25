@@ -16308,7 +16308,7 @@
   {
     "builder": "Cusack Music",
     "pedal": "Screamer Bass Fuzz",
-    "image": null,
+    "image": "./assets/pedals/cusack-music/screamer-bass-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cusack Music/Screamer Bass Fuzz.md"
   },
@@ -17581,7 +17581,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "Looking Glass",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/looking-glass/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/Looking Glass.md"
   },
@@ -18008,7 +18008,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Chelsea",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/chelsea/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Chelsea.md"
   },
@@ -18120,7 +18120,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Gary",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/gary/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Gary.md"
   },
@@ -18134,7 +18134,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Gray Channel",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/gray-channel/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Gray Channel.md"
   },
@@ -18176,7 +18176,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Hoof Reaper",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/hoof-reaper/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Hoof Reaper.md"
   },
@@ -18197,7 +18197,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Palisades",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/palisades/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Palisades.md"
   },
@@ -18211,7 +18211,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Park Fuzz Sound",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/park-fuzz-sound/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Park Fuzz Sound.md"
   },
@@ -18225,7 +18225,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Plumes",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/plumes/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Plumes.md"
   },
@@ -18764,7 +18764,7 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Spruce Goose",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/spruce-goose/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Spruce Goose.md"
   },
@@ -18799,7 +18799,7 @@
   {
     "builder": "Electronic Audio Experiments",
     "pedal": "Greathammer",
-    "image": null,
+    "image": "./assets/pedals/electronic-audio-experiments/greathammer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electronic Audio Experiments/Greathammer.md"
   },
@@ -25960,7 +25960,7 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "Ernie",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/ernie/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Ernie.md"
   },
@@ -26058,21 +26058,21 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "P19",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/p19/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/P19.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Perestroika",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/perestroika/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Perestroika.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Pig Mine",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/pig-mine/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Pig Mine.md"
   },
@@ -26086,7 +26086,7 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "ROVER Fuzz",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/rover-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/ROVER Fuzz.md"
   },
@@ -26128,7 +26128,7 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "Supa Tone",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/supa-tone/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Supa Tone.md"
   },
@@ -26142,7 +26142,7 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "Top Fuel",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/top-fuel/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Top Fuel.md"
   },
@@ -26156,7 +26156,7 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "ZERO",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/zero/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/ZERO.md"
   },
@@ -26205,7 +26205,7 @@
   {
     "builder": "SolidGoldFX",
     "pedal": "Fuzzbox",
-    "image": null,
+    "image": "./assets/pedals/solidgoldfx/fuzzbox/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/Fuzzbox.md"
   },
@@ -26345,7 +26345,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Brit Box",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/brit-box/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Brit Box.md"
   },
@@ -26737,7 +26737,7 @@
   {
     "builder": "Suhr",
     "pedal": "Eclipse",
-    "image": null,
+    "image": "./assets/pedals/suhr/eclipse/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Suhr/Eclipse.md"
   },
@@ -26765,7 +26765,7 @@
   {
     "builder": "Suhr",
     "pedal": "Riot Reloaded",
-    "image": null,
+    "image": "./assets/pedals/suhr/riot-reloaded/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Suhr/Riot Reloaded.md"
   },
@@ -27003,7 +27003,7 @@
   {
     "builder": "Tech 21 NYC",
     "pedal": "Double Drive 3X",
-    "image": null,
+    "image": "./assets/pedals/tech-21-nyc/double-drive-3x/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tech 21 NYC/Double Drive 3X.md"
   },
@@ -27374,7 +27374,7 @@
   {
     "builder": "TONECAT",
     "pedal": "Ziggy Fuzz",
-    "image": null,
+    "image": "./assets/pedals/tonecat/ziggy-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TONECAT/Ziggy Fuzz.md"
   },
@@ -27598,7 +27598,7 @@
   {
     "builder": "Vemuram",
     "pedal": "Myriad Fuzz",
-    "image": null,
+    "image": "./assets/pedals/vemuram/myriad-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Myriad Fuzz.md"
   },
@@ -28116,7 +28116,7 @@
   {
     "builder": "VOX",
     "pedal": "V810 Valvetone",
-    "image": null,
+    "image": "./assets/pedals/vox/v810-valvetone/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VOX/V810 Valvetone.md"
   },
@@ -29432,7 +29432,7 @@
   {
     "builder": "ZVEX Effects",
     "pedal": "Fuzz Factory Vertical",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/fuzz-factory-vertical/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Fuzz Factory Vertical.md"
   },

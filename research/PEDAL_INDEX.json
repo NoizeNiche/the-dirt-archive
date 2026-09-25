@@ -24239,7 +24239,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cusack-music/screamer-bass-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cusack Music/Screamer Bass Fuzz.md"
     },
@@ -26083,7 +26083,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/looking-glass/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Looking Glass.md"
     },
@@ -26706,7 +26706,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/chelsea/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Chelsea.md"
     },
@@ -26869,7 +26869,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/gary/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Gary.md"
     },
@@ -26889,7 +26889,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/gray-channel/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Gray Channel.md"
     },
@@ -26950,7 +26950,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/hoof-reaper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Hoof Reaper.md"
     },
@@ -26980,7 +26980,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/palisades/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Palisades.md"
     },
@@ -27001,7 +27001,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/park-fuzz-sound/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Park Fuzz Sound.md"
     },
@@ -27021,7 +27021,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/plumes/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Plumes.md"
     },
@@ -27801,7 +27801,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/spruce-goose/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Spruce Goose.md"
     },
@@ -27851,7 +27851,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electronic-audio-experiments/greathammer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Greathammer.md"
     },
@@ -38424,7 +38424,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/ernie/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Ernie.md"
     },
@@ -38567,7 +38567,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/p19/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/P19.md"
     },
@@ -38578,7 +38578,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/perestroika/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Perestroika.md"
     },
@@ -38588,7 +38588,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/pig-mine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Pig Mine.md"
     },
@@ -38610,7 +38610,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/rover-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/ROVER Fuzz.md"
     },
@@ -38674,7 +38674,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/supa-tone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Supa Tone.md"
     },
@@ -38695,7 +38695,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/top-fuel/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Top Fuel.md"
     },
@@ -38715,7 +38715,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/zero/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/ZERO.md"
     },
@@ -38786,7 +38786,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/solidgoldfx/fuzzbox/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/Fuzzbox.md"
     },
@@ -39000,7 +39000,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/brit-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Brit Box.md"
     },
@@ -39571,7 +39571,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/suhr/eclipse/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Suhr/Eclipse.md"
     },
@@ -39611,7 +39611,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/suhr/riot-reloaded/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Suhr/Riot Reloaded.md"
     },
@@ -39955,7 +39955,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tech-21-nyc/double-drive-3x/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Double Drive 3X.md"
     },
@@ -40531,7 +40531,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/tonecat/ziggy-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Ziggy Fuzz.md"
     },
@@ -40853,7 +40853,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/myriad-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Myriad Fuzz.md"
     },
@@ -41603,7 +41603,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vox/v810-valvetone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VOX/V810 Valvetone.md"
     },
@@ -43547,7 +43547,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/zvex-effects/fuzz-factory-vertical/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Fuzz Factory Vertical.md"
     },
