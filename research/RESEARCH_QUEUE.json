@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T04:48:11.226336+00:00",
+  "generated_at": "2026-09-25T04:48:43.550511+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1774,
+    "researched": 1775,
     "pictured": 1684,
     "complete": 1684,
-    "research_pending": 1991
+    "research_pending": 1990
   },
   "next_target": {
     "builder": "Crazy Rock'n'Roll Effecter",
@@ -75,12 +75,6 @@
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "Orama - Dual Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Pin Up Fuzz",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +159,12 @@
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "White Whale",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "White Whale v2",
       "catalog_type": "",
       "research_record": ""
     }
