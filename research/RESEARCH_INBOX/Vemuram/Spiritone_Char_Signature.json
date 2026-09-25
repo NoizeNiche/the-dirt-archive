@@ -1,0 +1,23 @@
+{
+  "builder": "Vemuram",
+  "pedal": "Spiritone Char Signature",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.guitareffectspedals.com/Vemuram-SPIRITONE-Char-Signature-p1382.html",
+      "title": "Vemuram SPIRITONE Char Signature",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.guitareffectspedals.com"
+    },
+    {
+      "url": "https://www.guitarsanctuary.com/vemuram-spiritone-char-signature-overdrive-pedal/",
+      "title": "The Guitar Sanctuary | Vemuram | SPIRITONE | Char Signature Overdrive",
+      "h1": "Vemuram SPIRITONE Char Signature Overdrive Pedal",
+      "excerpt": "Got Questions? Call Us (972)540-6420 Vemuram Our Price: $499.00 (You save )",
+      "host": "www.guitarsanctuary.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

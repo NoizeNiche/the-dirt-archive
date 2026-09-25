@@ -1,0 +1,23 @@
+{
+  "builder": "VFE Pedals",
+  "pedal": "Dragon",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/vfe/dragon",
+      "title": "VFE Pedals Dragon - Dynamic Overdrive | Effects Database",
+      "h1": "VFE Pedals Dragon - Dynamic Overdrive",
+      "excerpt": "Published on January 17, 2017 VFE Pedals overdrive pedal Information VFE Pedals Virtually all overdrive pedals use some form of bass cut before distortion, and treble cut after distortion. The bass cut pushes the mids to saturate & drive first, which keeps the bottom end tight & punchy. The treble cut smooths out distortion artifacts (like fizz). The Dragon puts the precise amount of each of these cuts in your hands, and combines them with a dynamic drive engine. This lets you tailor the saturation point to your ear & gear, while preserving dynamic sensitivity - and it can get LOUD! HPF sets the cutoff frequency of the high-pass filter (bass cut). A higher frequency setting results in a more aggressive bass cut. LPF sets the cutoff frequency of the low-pass filter (treble cut). A higher frequency setting results in a less treble cut. The LEVEL control is passive, and is designed to cut the volume of the massive gain stage to reasonable levels...or you can crank it up and wake your neighbors. GAIN sets the amount of gain in the drive circuitry. More gain = more distortion/saturation = more overall volume. The 6dB / 12dB switch sets the slope of each filter. For example, setting the HPF at 400Hz in the 12dB position, the frequency response would be -12dB @ 400Hz, -24dB @ 200Hz, -36dB @ 100Hz, etc. The \"secret\" center position of the toggle switch combines a 12dB/octave high pass filter with a 6dB/octave low pass filter. Video all | by manufacturer | not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2018-09-20 Rabea Massaad The Heaviest Strat Tones!!! | VFE Dragon Overdrive 16:45 2018-03-27 ProGuitarShopDemos VFE Custom Dragon Dynamic Overdrive, Standout Mid Booster & Pinball Tilt EQ Preview 1:01 2018-03-27 reverbmarket VFE Dragon Dynamic Overdrive, Standout Mid Boost & Pinball Tilt EQ | Reverb Tone Report 7:49 2017-04-20 Mike Hermans VFE Pedals Dragon Overdrive 8:36 2016-09-28 VFE Pedals VFE Pedals Standout, Dragon, and Pinball walkthrough (rough cut) 17:17 Reviews myFXDB user reviews No reviews yet + Add your review Links VFE Custom VFE Pedals VFE Pedals Dragon dynamic overdrive + boost files v(e) Design (new company) Where to find one? Ads! This site contains affiliate links for which I may be compensated VFE Pedals Dragon - Dynamic Overdrive for sale on eBay:",
+      "host": "www.effectsdatabase.com"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Dragon/68986067/",
+      "title": "Dragon by VFE Pedals | RockBoard | PedalPedia",
+      "h1": "Dragon",
+      "excerpt": "",
+      "host": "www.rockboard.de"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
