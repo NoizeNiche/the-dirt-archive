@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3761 total / 1867 researched / 1802 pictured / 1802 complete / 1894 research-pending / 65 researched-photo-pending**.
+Live catalog: **3761 total / 1867 researched / 1804 pictured / 1804 complete / 1894 research-pending / 63 researched-photo-pending**.
 
 **Next research target:** Critter Electronics - CRR Klone.
 
-PRP1 closeout remains separate: 65 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 63 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-25T08:39:36.618589+00:00
+Last refreshed: 2026-09-25T08:52:03.830897+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
