@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: dirt-photo-recovery-v3
@@ -148,7 +149,7 @@ jobs:
     needs: [recover]
     if: ${{ always() }}
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - name: Checkout latest main
         uses: actions/checkout@v7
@@ -189,7 +190,27 @@ jobs:
           fi
           git commit -m "Archive fast verified pedal photos"
           for attempt in 1 2 3 4 5; do
-            if git push origin main; then exit 0; fi
+            if git push origin main; then
+              published_sha="$(git rev-parse HEAD)"
+              gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main
+              deadline=$((SECONDS+600))
+              while [ "$SECONDS" -lt "$deadline" ]; do
+                run="$(gh run list --workflow deploy-pages.yml --commit "$published_sha" --limit 1 --json databaseId,status,conclusion --jq '.[0] // empty')"
+                if [ -n "$run" ]; then
+                  status="$(printf '%s' "$run" | python -c 'import json,sys; x=json.load(sys.stdin); print(x.get("status",""))')"
+                  conclusion="$(printf '%s' "$run" | python -c 'import json,sys; x=json.load(sys.stdin); print(x.get("conclusion") or "")')"
+                  echo "Deployment status: $status / $conclusion"
+                  if [ "$status" = "completed" ]; then
+                    [ "$conclusion" = "success" ] || { echo "Production deployment failed."; exit 1; }
+                    echo "Production deployment verified for $published_sha."
+                    exit 0
+                  fi
+                fi
+                sleep 10
+              done
+              echo "Timed out waiting for production deployment."
+              exit 1
+            fi
             echo "Parallel photo push race; rehydrating all recovery artifacts on latest main (attempt $attempt/5)."
             git fetch origin main
             git reset --hard origin/main
