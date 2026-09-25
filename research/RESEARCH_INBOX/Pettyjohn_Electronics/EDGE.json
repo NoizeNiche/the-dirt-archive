@@ -1,0 +1,41 @@
+{
+  "builder": "Pettyjohn Electronics",
+  "pedal": "EDGE",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/pettyjohn-electronics-edge-overdrive",
+      "title": "Pettyjohn Electronics Edge Overdrive - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://equipboard.com/items/pettyjohn-electronics-edge",
+      "title": "Pettyjohn Electronics Edge - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://delicious-audio.com/pettyjohn-electronics-edge/",
+      "title": "Pettyjohn Electronics Edge Preamp Low-Gain Overdrive",
+      "h1": "",
+      "excerpt": "",
+      "host": "delicious-audio.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.tone3000.com/tones/pettyjohn-electronics-edge-x-sweet-drive-dejavu-di-usa-79030",
+      "title": "Pettyjohn Electronics EDGE X Sweet Drive + DejaVu DI USA",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.tone3000.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

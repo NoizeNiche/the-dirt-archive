@@ -1,0 +1,33 @@
+{
+  "builder": "Yamaha",
+  "pedal": "OD-10",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/yamaha-od-10m-ii",
+      "title": "Yamaha OD-10M II — Overdrive Pedal | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://bernardduur.com/2026/01/02/yamaha-od-10mii-overdrive-a-hidden-gem/",
+      "title": "Yamaha &#8211; OD-10MII Overdrive; a hidden gem &#8211; Homepage",
+      "h1": "Homepage",
+      "excerpt": "Yamaha &#8211; OD-10MII Overdrive; a hidden gem &#8211; Homepage Skip to content Yamaha &#8211; OD-10MII Overdrive; a hidden gem Yamaha, the great company that builds motorcycles, pianos, amplifiers and yes, also pedals. This pedal was yet unknown to me&#8230;. and when I saw it somewhere for cheap (and yes, reading raving reviews) I was eager to test it out and to buy it. And I&#8217;m really glad I did! Yamaha also sold the OD-100 and the OD 10M I pedal that are on paper quite identical to the M II pedal. I only have experience with the 10M II pedal and will use this post on this 10M II pedal. When I get info or the other pedals in, I&#8217;ll update this post according. The OD 10M II was build in the 80&#8217;s. It isn&#8217;t know for it is used by a most famous artist . Yet a lot of people tend to like this pedal. What to expect&#8230;.. The circuit The pedal is housed in a small metal enclosure with three knobs and one footswitch. It can run on a 9V battery or a DC 9V adapter. The pedal has controls for: Overdrive; the amount of gain of the overdrive Tone; the output tone of the pedal Out level; the volume of the overdrive When the pedal is opened up, you can spot the two individual PCB&#8217;s Luckily, a schematic was already available. (this schematic comes from this post on Freestompboxes.org) As you can spot the pedal is like a Tubescreamer pedal followed by a Big Muff-ish style tone section. Clipping is derived from driving the opamps hard and using silicon diodes in the opamp loop. The sound The sound is really where this pedal shines. It is like a very transparant overdrive pedal that sounds amazing on both humbucker as single coil guitars. It can give you a clean boost sound up to a very overdriven tone. With the gain knob around 10 o&#8217;clock and with a humbucker guitar overdrive was introduced in the sound. The gain is very dynamic to your playing style making it more an amp-like OD perfectly pairing with any amp I use it on! The tone knob give the final result a modest mid cut making the effect blend in with the original amp and instrument sounds making it sound good on a clean channel. With the overdrive channel, most of the extra effect is made by the sheer volume of it! I simply love this pedal as a clean, transparant and dynamic overdrive pedal that really works well with all kind of guitars! I really like it! The links Freestompboxes.org post on this pedal (with schematics, PCB&#8217;s, layouts, etc) Find one on Reverb.com Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading&#8230; Leave a comment Cancel reply &#916; Big Muff mods Sites I use or visit Unknown builds; I need your help About me Homepage Instagram Loading Comments... Write a Comment... Email (Required) Name (Required) Website Comment Reblog Subscribe Subscribed Homepage Sign me up Have a WordPress.com account? Log in now. Homepage Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d",
+      "host": "bernardduur.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://bernardduur.blogspot.com/2024/06/yamaha-od-10mii-overdrive-hidden-gem.html",
+      "title": "Yamaha - OD-10MII Overdrive; a hidden gem - Blogger",
+      "h1": "",
+      "excerpt": "",
+      "host": "bernardduur.blogspot.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

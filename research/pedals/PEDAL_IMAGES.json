@@ -18067,7 +18067,7 @@
     "pedal": "Barrows",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/EarthQuaker Devices/Barrows.md"
   },
   {
     "builder": "EarthQuaker Devices",
@@ -19717,14 +19717,14 @@
     "pedal": "Nobrainer",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Greenhouse Effects/Nobrainer.md"
   },
   {
     "builder": "Greenhouse Effects",
     "pedal": "Outlier",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Greenhouse Effects/Outlier.md"
   },
   {
     "builder": "Greenhouse Effects",
@@ -19983,7 +19983,7 @@
     "pedal": "CM-2 Tube Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/HardWire/CM-2 Tube Overdrive.md"
   },
   {
     "builder": "HardWire",
@@ -19997,7 +19997,7 @@
     "pedal": "SC-2 Valve Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/HardWire/SC-2 Valve Distortion.md"
   },
   {
     "builder": "HardWire",
@@ -20214,7 +20214,7 @@
     "pedal": "DS7",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Ibanez/DS7.md"
   },
   {
     "builder": "Ibanez",
@@ -20228,7 +20228,7 @@
     "pedal": "FZMINI",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Ibanez/FZMINI.md"
   },
   {
     "builder": "Ibanez",
@@ -20620,7 +20620,7 @@
     "pedal": "Archer OD",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/J. Rockett Audio Designs/Archer OD.md"
   },
   {
     "builder": "J. Rockett Audio Designs",
@@ -21201,7 +21201,7 @@
     "pedal": "Kamikaze Supreme Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Katanasound/Kamikaze Supreme Overdrive.md"
   },
   {
     "builder": "Katanasound",
@@ -21929,7 +21929,7 @@
     "pedal": "10/10",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Leqtique/10/10.md"
   },
   {
     "builder": "Leqtique",
@@ -24596,7 +24596,7 @@
     "pedal": "ODR-1",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Nobels/ODR-1.md"
   },
   {
     "builder": "NUX Audio / NUX",
@@ -24813,21 +24813,21 @@
     "pedal": "BFGRMWB",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/OKKO FX/BFGRMWB.md"
   },
   {
     "builder": "OKKO FX",
     "pedal": "Black Beast",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/OKKO FX/Black Beast.md"
   },
   {
     "builder": "OKKO FX",
     "pedal": "DIABLO DUAL",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/OKKO FX/DIABLO DUAL.md"
   },
   {
     "builder": "OKKO FX",
@@ -25212,7 +25212,7 @@
     "pedal": "CHIME MKII",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Pettyjohn Electronics/CHIME MKII.md"
   },
   {
     "builder": "Pettyjohn Electronics",
@@ -25226,7 +25226,7 @@
     "pedal": "EDGE",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Pettyjohn Electronics/EDGE.md"
   },
   {
     "builder": "Pettyjohn Electronics",
@@ -25884,7 +25884,7 @@
     "pedal": "Black Widow",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/SBGO Effects/Black Widow.md"
   },
   {
     "builder": "SBGO Effects",
@@ -26989,7 +26989,7 @@
     "pedal": "ABR-OD",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Tallon Electric/ABR-OD.md"
   },
   {
     "builder": "Tallon Electric",
@@ -27003,14 +27003,14 @@
     "pedal": "Cinders Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/TC Electronic/Cinders Overdrive.md"
   },
   {
     "builder": "TC Electronic",
     "pedal": "Dark Matter Distortion",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/TC Electronic/Dark Matter Distortion.md"
   },
   {
     "builder": "TC Electronic",
@@ -27580,21 +27580,21 @@
     "pedal": "Beelzebuzz",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Union Tube & Transistor/Beelzebuzz.md"
   },
   {
     "builder": "Union Tube & Transistor",
     "pedal": "Sone Bender",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Union Tube & Transistor/Sone Bender.md"
   },
   {
     "builder": "Union Tube & Transistor",
     "pedal": "Swindle",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Union Tube & Transistor/Swindle.md"
   },
   {
     "builder": "Union Tube & Transistor",
@@ -27643,7 +27643,7 @@
     "pedal": "Butter Machine",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Vemuram/Butter Machine.md"
   },
   {
     "builder": "Vemuram",
@@ -28364,7 +28364,7 @@
     "pedal": "385 Overdrive MKII",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Walrus Audio/385 Overdrive MKII.md"
   },
   {
     "builder": "Walrus Audio",
@@ -29395,7 +29395,7 @@
     "pedal": "AC Booster V2",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Xotic Effects/AC Booster V2.md"
   },
   {
     "builder": "Xotic Effects",
@@ -29518,7 +29518,7 @@
     "pedal": "OD-10",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Yamaha/OD-10.md"
   },
   {
     "builder": "Zander Circuitry",
@@ -29543,14 +29543,14 @@
     "pedal": "Cranium",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Zander Circuitry/Cranium.md"
   },
   {
     "builder": "Zander Circuitry",
     "pedal": "Foxxton Woods",
     "image": null,
     "source_page": null,
-    "research_record": ""
+    "research_record": "./research/pedals/Zander Circuitry/Foxxton Woods.md"
   },
   {
     "builder": "Zander Circuitry",
