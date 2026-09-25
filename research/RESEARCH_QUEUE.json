@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T04:42:37.556861+00:00",
+  "generated_at": "2026-09-25T04:44:09.404046+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1759,
+    "researched": 1766,
     "pictured": 1684,
     "complete": 1684,
-    "research_pending": 2006
+    "research_pending": 1999
   },
   "next_target": {
     "builder": "Crazy Rock'n'Roll Effecter",
@@ -21,48 +21,6 @@
     {
       "builder": "Crazy Rock'n'Roll Effecter",
       "pedal": "TONE BENDER M.K Ⅰ. Ⅴ",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Black Magic",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Black Magic MkII",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Blackface Stardust V2",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Constellation",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Constellation OC41",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Constellation OC45",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Constellation of Fuzz",
       "catalog_type": "",
       "research_record": ""
     },
@@ -165,6 +123,48 @@
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "Stardust",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Stardust v2 (Blackface)",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Stardust v3",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Stardust V3",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Starlight",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Triptychon",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Triptychon - Octave Fuzz / Drive / Treble Boost",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crazy Tube Circuits",
+      "pedal": "Unobtanium",
       "catalog_type": "",
       "research_record": ""
     }
