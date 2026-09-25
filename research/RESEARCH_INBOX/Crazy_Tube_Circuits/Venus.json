@@ -2,7 +2,7 @@
   "builder": "Crazy Tube Circuits",
   "pedal": "Venus",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 4,
+  "independent_exact_source_count": 5,
   "sources": [
     {
       "url": "https://crazytubecircuits.com/venus",
@@ -19,6 +19,13 @@
       "host": "guitar.com"
     },
     {
+      "url": "https://www.guitarworld.com/gear/effects-pedals/crazy-tube-circuits-venus-review",
+      "title": "Crazy Tube Circuits Venus review | Guitar World",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.guitarworld.com"
+    },
+    {
       "url": "https://www.thomannmusic.com/crazy_tube_circuits_venus.htm",
       "title": "Crazy Tube Circuits Venus – United States small facebook email pinterest whatsapp",
       "h1": "Crazy Tube Circuits Venus",
@@ -26,11 +33,11 @@
       "host": "www.thomannmusic.com"
     },
     {
-      "url": "https://www.guitarworld.com/gear/effects-pedals/crazy-tube-circuits-venus-review",
-      "title": "Crazy Tube Circuits Venus review | Guitar World",
+      "url": "https://www.musicradar.com/guitars/crazy-tube-circuits-venus-overdrive-pedal",
+      "title": "“A vast tonal palette from gnarly, aggressive distortion to smooth, creamy overdrive. ”: Crazy Tube Circuits cooks up a crazy tube circuit for real – meet Venus, an overdrive pedal with an “oddball” ECC832 inside | MusicRadar",
       "h1": "",
       "excerpt": "",
-      "host": "www.guitarworld.com"
+      "host": "www.musicradar.com"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

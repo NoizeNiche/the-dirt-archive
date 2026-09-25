@@ -2,7 +2,7 @@
   "builder": "Crazy Tube Circuits",
   "pedal": "Motherload",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 5,
+  "independent_exact_source_count": 6,
   "sources": [
     {
       "url": "https://crazytubecircuits.com/motherload",
@@ -38,6 +38,13 @@
       "h1": "Crazy Tube Circuits Motherload",
       "excerpt": "Alright! Reject cookies Further info Imprint · Privacy Policy 5.0 out of 5 stars from 5 customer ratings ( 5 ) Start 360° [LEFT][URL=\"https://www.thomannmusic.com/crazy_tube_circuits_motherload.htm\"]Crazy Tube Circuits Motherload[/URL][/LEFT][B][/B][LEFT][URL=\"https://www.thomannmusic.com/crazy_tube_circuits_motherload.htm\"][IMG]https://thumbs.static-thomann.de/thumb//bdbmagic/pics/prod/563007.jpg[/IMG][/URL][/LEFT]",
       "host": "www.thomannmusic.com"
+    },
+    {
+      "url": "https://tgt11.com/en/products/crazy-tube-circuits-motherload",
+      "title": "Crazy Tube Circuits MOTHERLOAD – These Go To 11",
+      "h1": "",
+      "excerpt": "",
+      "host": "tgt11.com"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
