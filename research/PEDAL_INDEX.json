@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 3765,
+  "count": 3764,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -23045,18 +23045,6 @@
       "image": "./assets/pedals/crazy-tube-circuits/pin-up-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Pin Up Fuzz.md"
-    },
-    {
-      "company": "Crazy Tube Circuits",
-      "pedal": "Sidekick",
-      "types": [
-        "Distortion",
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": null
     },
     {
       "company": "Crazy Tube Circuits",
