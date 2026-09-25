@@ -1,41 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T05:50:35.761176+00:00",
+  "generated_at": "2026-09-25T06:04:15.304064+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3765,
-    "researched": 1779,
+    "researched": 1782,
     "pictured": 1717,
     "complete": 1717,
-    "research_pending": 1986
+    "research_pending": 1983
   },
   "next_target": {
     "builder": "Crazy Tube Circuits",
-    "pedal": "Falcon - Overdrive",
+    "pedal": "Locomotive - 12AY7 Bass Overdrive",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Falcon - Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Hi-Power",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crazy Tube Circuits",
-      "pedal": "Killer V",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Crazy Tube Circuits",
       "pedal": "Locomotive - 12AY7 Bass Overdrive",
@@ -165,6 +147,24 @@
     {
       "builder": "Creation Audio Labs",
       "pedal": "Grizzly Bass",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Creation Audio Labs",
+      "pedal": "Holy Fire 9",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Creation Audio Labs",
+      "pedal": "Holy Fire Classic",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Creber Instruments",
+      "pedal": "Classic Fuzz",
       "catalog_type": "",
       "research_record": ""
     }
