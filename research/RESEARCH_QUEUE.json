@@ -1,29 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T07:05:13.328361+00:00",
+  "generated_at": "2026-09-25T07:06:27.851101+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 1827,
+    "researched": 1828,
     "pictured": 1746,
     "complete": 1746,
-    "research_pending": 1934
+    "research_pending": 1933
   },
   "next_target": {
     "builder": "Crews Maniac Sound",
-    "pedal": "Valve Drive",
+    "pedal": "VD-38 Real Valve Drive",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Crews Maniac Sound",
-      "pedal": "Valve Drive",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Crews Maniac Sound",
       "pedal": "VD-38 Real Valve Drive",
@@ -165,6 +159,12 @@
     {
       "builder": "Crotronics",
       "pedal": "Firestarter",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crotronics",
+      "pedal": "Lost Temper",
       "catalog_type": "",
       "research_record": ""
     }
