@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **6**
+- Cached in this run: **5**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **1901**
-- Researched, photo pending: **61**
+- Remaining tracker photo backlog: **1896**
+- Researched, photo pending: **56**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,12 +16,11 @@
 
 ## Newly cached
 
-- Cosmosound - CSE-14 Distortion/Volume -> `./assets/pedals/cosmosound/cse-14-distortion-volume/primary.webp`
-- Creber Instruments - Classic Fuzz -> `./assets/pedals/creber-instruments/classic-fuzz/primary.webp`
-- Critter Electronics - CFR Klone -> `./assets/pedals/critter-electronics/cfr-klone/primary.webp`
-- Decibelics - Golden Royale -> `./assets/pedals/decibelics/golden-royale/primary.webp`
-- Wampler Pedals - Tom Quayle: Dual Fusion -> `./assets/pedals/wampler-pedals/tom-quayle-dual-fusion/primary.webp`
-- Way Huge - Conquistador Fuzzstortion -> `./assets/pedals/way-huge/conquistador-fuzzstortion/primary.webp`
+- Danelectro - The Breakdown -> `./assets/pedals/danelectro/the-breakdown/primary.webp`
+- Wampler Pedals - Low Blow -> `./assets/pedals/wampler-pedals/low-blow/primary.webp`
+- Way Huge - Camel Toe MkII -> `./assets/pedals/way-huge/camel-toe-mkii/primary.webp`
+- Way Huge - Pork & Pickle -> `./assets/pedals/way-huge/pork-pickle/primary.webp`
+- Way Huge - Smalls Supa-Lead -> `./assets/pedals/way-huge/smalls-supa-lead/primary.webp`
 
 ## Still external / failed
 
