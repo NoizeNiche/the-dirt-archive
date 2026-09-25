@@ -212,6 +212,7 @@ def main():
     parallel_photo_workflow = (ROOT / ".github/workflows/parallel-photo-recovery.yml").read_text(encoding="utf-8")
     synth_workflow = (ROOT / ".github/workflows/research-synthesis.yml").read_text(encoding="utf-8")
     architecture_text = (ROOT / "SITE_ARCHITECTURE.md").read_text(encoding="utf-8")
+    cache_workflow = (ROOT / ".github/workflows/cache-pedal-images.yml").read_text(encoding="utf-8")
 
     required_queue_hardening = (
         ("dirt-research-workers-v5", research_workflow),
@@ -234,7 +235,6 @@ def main():
             raise SystemExit(f"Operational queue hardening is missing: {marker}")
     if "sync-public-data-version.py" in architecture_text:
         raise SystemExit("Architecture still references the retired catalog-version synchronization script.")
-    cache_workflow = (ROOT / ".github/workflows/cache-pedal-images.yml").read_text(encoding="utf-8")
     home_css = (ROOT / "assets/css/archive-index.css").read_text(encoding="utf-8")
     required_home_selectors = (
         ".grid{", ".card{", ".cardMedia{", ".cardImage{",
