@@ -58,8 +58,7 @@ def main():
                 source.unlink(missing_ok=True)
         verdicts.append({"builder":result.get("builder",""),"pedal":result.get("pedal",""),"accepted":ok,"reason":reason})
     out = ARTIFACTS / "photo-foreman-verdict.json"
-    out.write_text(json.dumps({"verdicts":verdicts}, indent=2) + "
-", encoding="utf-8")
+    out.write_text(json.dumps({"verdicts": verdicts}, indent=2) + "\n", encoding="utf-8")
     accepted = sum(1 for x in verdicts if x["accepted"])
     print("Photo foreman: accepted " + str(accepted) + "; rejected " + str(len(verdicts)-accepted) + ".")
     for x in verdicts:
