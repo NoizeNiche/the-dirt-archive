@@ -1,0 +1,23 @@
+{
+  "builder": "Wampler Pedals",
+  "pedal": "Hot Wired",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.wamplerpedals.com/products/distortion-overdrive/brent-mason-hot-wired-v2/",
+      "title": "Brent Mason: Hot Wired v2 | Wampler Pedals",
+      "h1": "Brent Mason: Hot Wired v2",
+      "excerpt": "The Brent Mason Hot Wired v2. The only pedal versatile enough to be taken into the world’s most demanding studio environment every day… Nashville master sessions. Out of stock Watch video",
+      "host": "www.wamplerpedals.com"
+    },
+    {
+      "url": "https://www.premierguitar.com/gear/wampler-pedals-brent-mason-hot-wired-v-2-pedal-review",
+      "title": "Wampler Pedals Brent Mason Hot Wired v.2 Pedal Review - Premier Guitar",
+      "h1": "",
+      "excerpt": "Wampler Pedals Brent Mason Hot Wired v.2 Pedal Review A smooth, 2-channel overdrive with incredible touch sensitivity. By Jordan Wagner Oct 03, 2012 Jordan Wagner A native of the Pacific Northwest, Jordan grew up traveling the country as the son of theater technical directors and speech instructors. His exposure to the performing arts early on helped foster his love for music and attention to detail, and upon receiving his first guitar at age 15, he became hooked. Jordan brings a considerable background of gear knowledge and tech experience to Premier Guitar , and has contributed an extensive amount of articles, artist interviews and Rig Rundown videos since late 2008. He lives in the Iowa City area, where he also works to bring music education initiatives to both local and regional communities. See Full Bio",
+      "host": "www.premierguitar.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

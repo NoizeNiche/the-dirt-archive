@@ -1,0 +1,23 @@
+{
+  "builder": "VOX",
+  "pedal": "V8 Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://voxamps.com/product/v8-distortion/",
+      "title": "V8 Distortion - Vox Amps",
+      "h1": "V8 Distortion",
+      "excerpt": "Sku: TG1V8DS Documents SPECS Specs PHOTOS Photos HEAR IT Hear It Product Description As befits the name “V-type 8-cylinder,” this is a high-gain distortion unit that boasts an awe-inspiring tone. In addition to distortion sounds that are ideal for heavy riffs or soloing, you can also obtain cutting high-gain lead sounds. It provides a mid-shift switch that lets you change the band where the mid-range peaks. Turning this off gives you a broad range with an emphasized attack. Turning it on will shift the band to be more suitable for lead playing. read more Specifications Product Downloads Click here V8 DistortionDownloads Tone Garage Series 04/27/2015 Click to download Owner’s Manual for VOX Tone Garage Pedals VOX V8 Distortion (V8DS) Specifications Input impedance: 1M Ω Output impedance: 2.2k Ω Vacuum tube: ECC83 / 12AX7 Connections: INPUT jack (guitar input), OUTPUT jack (line output) Power: AA battery x 6 AC adapter: DC 9V (Option) Vacuum tube operating voltage: 200 V Consumption current: 240 mA Battery Life: Approximately 7 hours Dimensions: (W x D x H): 87 x 132 x 63 / mm, 3.43 x 5.20 x 2.48 / inch Weight: 420 g / 14.81 oz (not including battery) Accessories: AA alkaline battery x 6 (for verifying operation) Options: AC Adapter *Specifications and appearance are subject to change without notice for improvement. see more Specifications and features are subject to change without notice.",
+      "host": "voxamps.com"
+    },
+    {
+      "url": "https://www.musicradar.com/reviews/guitars/vox-tone-garage-v8-distortion-587082",
+      "title": "Vox Tone Garage V8 Distortion review | MusicRadar",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.musicradar.com"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
