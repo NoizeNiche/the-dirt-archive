@@ -3,6 +3,7 @@ import path from 'node:path';
 
 const TRACKER = path.join(process.cwd(), 'research/PRP_TRACKER.csv');
 const OVERRIDES = path.join(process.cwd(), 'research/PHOTO_SOURCE_OVERRIDES.csv');
+const RESEARCH_SOURCE_OVERRIDES = path.join(process.cwd(), 'research/RESEARCH_SOURCE_OVERRIDES.csv');
 const INDEX = path.join(process.cwd(), 'research/PEDAL_INDEX.json');
 const OUT = path.join(process.cwd(), 'artifact');
 const WORKER_INDEX = Math.max(0, Number(process.env.RESEARCH_WORKER_INDEX || 0));
@@ -126,6 +127,10 @@ function sourcePages(builder,pedal){
   try{
     const rows=csvRows(fs.readFileSync(OVERRIDES,'utf8'));
     for(const r of rows) if(r.Builder===builder && r.Pedal===pedal && /^https?:/i.test(r['Image Source Page']||'')) urls.push(r['Image Source Page']);
+  }catch{}
+  try{
+    const rows=csvRows(fs.readFileSync(RESEARCH_SOURCE_OVERRIDES,'utf8'));
+    for(const r of rows) if(r.Builder===builder && r.Pedal===pedal && /^https?:/i.test(r['Source URL']||'')) urls.push(r['Source URL']);
   }catch{}
   return [...new Set(urls)];
 }
