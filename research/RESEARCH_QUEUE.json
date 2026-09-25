@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T08:09:40.083430+00:00",
+  "generated_at": "2026-09-25T08:10:01.188632+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 1843,
+    "researched": 1855,
     "pictured": 1775,
     "complete": 1775,
-    "research_pending": 1918
+    "research_pending": 1906
   },
   "next_target": {
     "builder": "Critter Electronics",
