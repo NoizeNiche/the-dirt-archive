@@ -26485,7 +26485,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Red Menace Vintage Mini",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/red-menace-vintage-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Red Menace Vintage Mini.md"
   },
@@ -27360,7 +27360,7 @@
   {
     "builder": "Tribute Audio Designs",
     "pedal": "The Classy Lady",
-    "image": null,
+    "image": "./assets/pedals/tribute-audio-designs/the-classy-lady/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tribute Audio Designs/The Classy Lady.md"
   },
@@ -27668,7 +27668,7 @@
   {
     "builder": "Vemuram",
     "pedal": "Spiritone Char Signature",
-    "image": null,
+    "image": "./assets/pedals/vemuram/spiritone-char-signature/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Spiritone Char Signature.md"
   },
