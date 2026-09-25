@@ -2,7 +2,24 @@
   "builder": "Daredevil Pedals",
   "pedal": "Chicago Way",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/daredevil-pedals-the-chicago-way",
+      "title": "Daredevil Pedals The Chicago Way - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/item/91903439-daredevil-pedals-the-chicago-way",
+      "title": "Daredevil Pedals The Chicago Way - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

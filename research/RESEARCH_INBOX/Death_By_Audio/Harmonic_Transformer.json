@@ -1,0 +1,33 @@
+{
+  "builder": "Death By Audio",
+  "pedal": "Harmonic Transformer",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/death-by-audio-harmonic-transformer",
+      "title": "Death By Audio Harmonic Transformer - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "http://www.killerrockandroll.com/deathbyaudio/harmonictransformer.html",
+      "title": "Death By Audio - Harmonic Transformer",
+      "h1": "",
+      "excerpt": "Death By Audio - Harmonic Transformer WE ARE SORRY THIS PEDAL HAS BEEN DISCONTINNUED. STAY TUNED FOR A NEW VERSION OF THIS PEDAL COMING OUT LATER THIS YEAR! H A R M O N I C t r a n s f o r m e r 0 I n ter mod ula te your so un d an d un lea sh ring ing raging fuzz on the world . S uper big , sup er vicous and super i nt en s e. A h uge pedal with a huge sou nd. Complete with enou gh alien noises to freak out your listeners. Direct c r a zy inte rm od ulatin g dist orti on to make uni que mu sic w it h. The Harmonic Transformer is an e xt remely loud and i nten se fuzz p edal which is very inter active with the in comi ng si gnal ranging from over the top to bizzare. Sound Samples: Guitar Rock (820k) Guitar Solo (232k) Bass Groove (544k ) Bass Killer (528k) All sound samples of the Harmonic Transformer were recorded by Justin Avery",
+      "host": "www.killerrockandroll.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://equipboard.com/items/death-by-audio-harmonic-transformer-pedal",
+      "title": "Death By Audio Harmonic Transformer - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -2,7 +2,40 @@
   "builder": "Darkglass Electronics",
   "pedal": "Microtubes Infinity",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/darkglass-electronics-darkglass-microtubes-infinity-preamp-distortion-audio-interface",
+      "title": "Darkglass Electronics Microtubes Infinity Preamp Pedal - Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.bhphotovideo.com/c/product/1831639-REG/darkglass_electronics_mtinf_microtubes_infinity_preamp_distortion_audio_interface.html",
+      "title": "Darkglass Electronics Microtubes Infinity Distortion and MTINF",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.bhphotovideo.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/p/darkglass-electronics-microtubes-infinity",
+      "title": "Darkglass Electronics Microtubes Infinity - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://thedarkglass.shop/products/mtinf-2",
+      "title": "Microtubes Infinity | Darkglass Electronics",
+      "h1": "Microtubes Infinity",
+      "excerpt": "Microtubes Infinity | Darkglass Electronics 🚚 Free Worldwide Shipping on All Orders! Shop Now ✕ Home Shop Cart Account Account Home Store Microtubes Infinity Microtubes Infinity If we get to choose only one piece of gear to take on tour: how would we want it to be? Advanced Microtubes distortion and compression pedal Capable of Microtubes, Microtubes X, and Vintage Microtubes tones 5 compressor modes, 5 distortion modes, 5 cab sim IRs Audio interface capability over USB-C 6-band graphic EQ MIDI input to externally control parameters $649.99 Add to cart Microtubes Infinity — $649.99 Add to cart More Images Microtubes Infinity If we get to choose only one piece of gear to take on tour: how would we want it to be? Advanced Microtubes distortion and compression pedal Capable of Microtubes, Microtubes X, and Vintage Microtubes tones 5 compressor modes, 5 distortion modes, 5 cab sim IRs Audio interface capability over USB-C 6-band graphic EQ MIDI input to externally control parameters Product Information Shipping Returns Description If we get to choose only one piece of gear to take on tour: how would we want it to be? Advanced Microtubes distortion and compression pedal Capable of Microtubes, Microtubes X, and Vintage Microtubes tones 5 compressor modes, 5 distortion modes, 5 cab sim IRs Audio interface capability over USB-C 6-band graphic EQ MIDI input to externally control parameters Darkglass Electronics Store Account Cart © 2026 Darkglass Electronics . All rights reserved. $649.99 Add to cart Microtubes Infinity — $649.99 Add to cart You may also like - 70 % Aggressively Distorting Advanced Machine $499.99 $150.00 - 70 % Infinity 500 Combo 210 $1,479.99 $444.00 - 70 % Infinity 500 Combo 112 $1,329.99 $399.00 - 70 % Alpha·Omega Ultra with Aux In $499.99 $150.00 Vintage Ultra with Aux In $499.99 - 70 % Microtubes X Ultra $499.99 $150.00 - 70 % MIDI Footswitch $229.99 $69.00 Element Cabsim Headphone Amp $199.99 - 70 % Anagram Bass Multi-Effects Unit $1,199.99 $360.00",
+      "host": "thedarkglass.shop",
+      "source_kind": "other"
+    }
+  ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

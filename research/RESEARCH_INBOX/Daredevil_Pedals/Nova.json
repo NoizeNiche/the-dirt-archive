@@ -2,7 +2,40 @@
   "builder": "Daredevil Pedals",
   "pedal": "Nova",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/daredevil-pedals-nova-fuzz",
+      "title": "Daredevil Pedals Nova Fuzz - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/daredevil/nova",
+      "title": "Daredevil Pedals Nova Fuzz | Effects Database",
+      "h1": "Daredevil Pedals Nova Fuzz",
+      "excerpt": "Daredevil Pedals Nova Fuzz | Effects Database Skip to navigation Brands &#9660; 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries &#9660; (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by &#9660; Enclosure type Modulation type Special &#9658; Classics Eye candy Funny Vaporware Weird Random brand Random effect Events &#9658; NAMM Musikmesse Music China Guitar Summit More... &#9660; Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand D... Daredevil Pedals browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Daredevil Pedals Nova Fuzz Published on June 16, 2014 Daredevil Pedals fuzz pedal Information Finally, a fuzz pedal that does what you've always wanted it to. The NOVA is a Daredevil original design using silicon transistors. A fuzz that you can use for tight rhythm tones without the mush. It has great harmonic sustain, a bright raspy edge, and stacks great with other effects. Highly touch sensitive and dynamic, It's also loud enough to be used as a solo boost. A lot of fuzzes only sound good with the gain cranked. The Sustain control on the NOVA lets you go from mild and open distorted tones when fully CCW, growing all the way to sweet crunchy fuzz when dimed. There is a wide range of how it can be dialed in. There is a tightness to it, palm muted chords hold their own, there's no \"woof\" like muffs, and your tone doesn't disappear into mud like with FF's. You can still hear individual notes when playing chords, and it cleans up well using the Saturation control. From bluesy to aggressive and all points in between, this is the pedal. The NOVA stays bright and rich, great for layering with other OD's/boosts and for fuzzed out solos that sing. True bypass. Video Date &#x25BC;&#x25B2; Maker &#x25BC;&#x25B2; Video &#x25BC;&#x25B2; Time &#x25BC;&#x25B2; 2014-09-25 Chicago Music Exchange Daredevil Fuzz Pedal | Nova Silicon Fuzz & Wolf Deluxe Original Fuzz | CME Gear Demo | Joel Bauman 4:42 2014-08-21 Premier Guitar Review Demo - Daredevil Pedals Nova Fuzz 8:42 2014-07-24 Premier Guitar Summer NAMM '14 - Daredevil Pedals Wolf Deluxe and Nova Demos 4:28 2014-07-23 Shnobel Tone Summer NAMM 2014 Daredevil Pedals Wolf Deluxe & Nova 4:01 2014-06-07 Gearmanndude Daredevil NOVA fuzz pedal demo with R9 Les Paul & Dr Z Antidote 6:36 Reviews myFXDB user reviews No reviews yet + Add your review Links Daredevil Pedals Daredevil Pedals Nova Fuzz Where to find one? Ads! This site contains affiliate links for which I may be compensated Daredevil Pedals Nova Fuzz for sale on eBay: World & Stores Australia Canada France Germany Italy Spain UK US Other sites your browser doesn't support AJAX? fx pedal stompbox stomp box guitar effects pedal fuzz distortion/fuzz/overdrive dirt grit Searching..",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.vintageguitar.com/18024/daredevil-pedals-introduces-nova/",
+      "title": "Daredevil Pedals Introduces Nova - Vintage Guitar® magazine",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.vintageguitar.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.guitarcenter.com/Used/Daredevil-Pedals/Nova-Effect-Pedal.gc",
+      "title": "Used Daredevil Pedals Nova Effect Pedal - Guitar Center",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.guitarcenter.com",
+      "source_kind": "other"
+    }
+  ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

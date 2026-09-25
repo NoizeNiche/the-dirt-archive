@@ -2,7 +2,32 @@
   "builder": "Danelectro",
   "pedal": "FAB Metal",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/danelectro-fab-metal-distortion",
+      "title": "Danelectro Fab Metal Distortion - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/itm/377290263524",
+      "title": "Danelectro Fab Metal Pedal 611820000820| eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.tonemirror.so/pedals/danelectro-fab-metal",
+      "title": "Danelectro FAB Metal — Songs That Use This Pedal and How to Dial It In | ToneMirror",
+      "h1": "Danelectro FAB Metal — Pedal Tone Profile How to Use It",
+      "excerpt": "Danelectro FAB Metal — Songs That Use This Pedal and How to Dial It In | ToneMirror ToneMirror Tone matcher All tones Get started Browse the catalog Tones Artists Albums Genres Decades Amps Guitars Basses Pedals Brands Home › Pedals › Danelectro › FAB Metal Pedal Danelectro FAB Metal — Pedal Tone Profile How to Use It Danelectro FAB Metal — its tonal profile, specs, and how to recreate its sound on the gear you already own. No catalogued songs use this pedal yet, but ToneMirror can translate its voicing to your rig in under a minute. bright high-gain gain budget tier Adapt to my gear Dial the Danelectro FAB Metal sound in on your own rig Tonal profile The budget metal distortion from Danelectro&#x27;s FAB line: level, tone and gain only, in a plastic case. Loads of upper mids and treble, squealing harmonics and long sustain — a lot of saturation for very little money. Pedal specs Type Pedal Brand Danelectro Price tier Budget EQ voicing Bright Gain structure High-gain Similar pedals Other Pedals in Our Catalog Pedal Danelectro Cool Cat Transparent Overdrive CTO-1 (V1) 0 tone s Your rig isn&#x27;t a Danelectro? Doesn&#x27;t matter. Get the Danelectro FAB Metal Sound Translated for Your Gear ToneMirror translates the Danelectro FAB Metal&#x27;s voicing — its EQ curve, gain structure, and response — onto whatever pedal you actually own, so you can chase its sound without owning one. Adapt to my gear FAQ Common Questions About the Danelectro FAB Metal What does the Danelectro FAB Metal sound like? The budget metal distortion from Danelectro&#x27;s FAB line: level, tone and gain only, in a plastic case. Loads of upper mids and treble, squealing harmonics and long sustain — a lot of saturation for very little money. The signal-chain placement on each tone breakdown shows exactly where it sits relative to the rest of the rig. What are the Danelectro FAB Metal&#x27;s key tonal traits? The Danelectro FAB Metal is characterized by bright EQ, high-gain gain. ToneMirror uses exactly these traits when it translates a tone you pick onto your rig — or the Danelectro FAB Metal&#x27;s sound onto whatever you own. Do I need a Danelectro FAB Metal to play these songs? No — that&#x27;s the whole point of ToneMirror. The settings on every per-song page were originally dialed in on a Danelectro FAB Metal, but our match engine translates them to whatever pedal you actually own. Different drive characteristic, same recorded result. ToneMirror ToneMirror is for guitarists and bassists who&#x27;d rather spend their evening playing the song than chasing the tone. Browse Tones Artists Albums Genres Decades Amps Guitars Basses Pedals Brands Product Tone matcher How it works Tone library Built for your rig Pricing Get started Find your tone Sign in Contact support © 2026 ToneMirror. Made for players. Privacy Terms",
+      "host": "www.tonemirror.so",
+      "source_kind": "other"
+    }
+  ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

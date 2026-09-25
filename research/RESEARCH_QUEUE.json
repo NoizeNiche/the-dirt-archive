@@ -1,15 +1,15 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T19:37:16.272377+00:00",
+  "generated_at": "2026-09-25T19:39:04.636073+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2081,
+    "researched": 2143,
     "pictured": 1948,
     "complete": 1948,
-    "research_pending": 1680
+    "research_pending": 1618
   },
   "next_target": {
     "builder": "D&M",
@@ -27,12 +27,6 @@
     {
       "builder": "Dan Drive Pedal Solutions",
       "pedal": "Secret Machine",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "Black Paisley Liquid Metal",
       "catalog_type": "",
       "research_record": ""
     },
@@ -68,79 +62,7 @@
     },
     {
       "builder": "Danelectro",
-      "pedal": "Cool Cat Metal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "Cool Cat Metal II",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "Cool Cat Transparent Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "Daddy O",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "FAB Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "FAB Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "FAB Metal",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "FAB Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
       "pedal": "Fab Tone / FAB Tone Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "French Toast",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "Pastrami Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "T-Bone Distortion",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "Wasabi Distortion",
       "catalog_type": "",
       "research_record": ""
     },
@@ -152,19 +74,97 @@
     },
     {
       "builder": "Daredevil Pedals",
-      "pedal": "Almighty Bass",
+      "pedal": "L.S.D",
       "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Daredevil Pedals",
-      "pedal": "Chicago Way",
+      "pedal": "Necros Fuzz / Distortion",
       "catalog_type": "",
       "research_record": ""
     },
     {
       "builder": "Daredevil Pedals",
-      "pedal": "COCKED & FEARLESS",
+      "pedal": "NORTHERN CREEPER Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Daredevil Pedals",
+      "pedal": "Ron Asheton Real Cool Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Daredevil Pedals",
+      "pedal": "the Chicago Rat — selectable high-gain distortion mode",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Daredevil Pedals",
+      "pedal": "the Chicago Rat — selectable over-clipped fuzz mode",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Darkglass Electronics",
+      "pedal": "Microtubes B3K",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "DeadastronautFX",
+      "pedal": "EasyDriver",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "DeadastronautFX",
+      "pedal": "Skinwalker",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Death By Audio",
+      "pedal": "Absolute Destruction",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Death By Audio",
+      "pedal": "Echo Dream 2 (fuzz function)",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Death By Audio",
+      "pedal": "Octave Clang V2",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Death By Audio",
+      "pedal": "Sonic Incinerator",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Demedash Effects",
+      "pedal": "Shatterbox",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Demedash Effects",
+      "pedal": "Stutterbug",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Demeter",
+      "pedal": "DD-1 Double Overdrive",
       "catalog_type": "",
       "research_record": ""
     }
