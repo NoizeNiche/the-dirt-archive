@@ -1,41 +1,23 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-25T07:04:10.012379+00:00",
+  "generated_at": "2026-09-25T07:05:13.328361+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 1824,
+    "researched": 1827,
     "pictured": 1746,
     "complete": 1746,
-    "research_pending": 1937
+    "research_pending": 1934
   },
   "next_target": {
     "builder": "Crews Maniac Sound",
-    "pedal": "SVD-001 Classic Overdrive",
+    "pedal": "Valve Drive",
     "catalog_type": "",
     "research_record": ""
   },
   "working_set": [
-    {
-      "builder": "Crews Maniac Sound",
-      "pedal": "SVD-001 Classic Overdrive",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crews Maniac Sound",
-      "pedal": "Taco Fuzz",
-      "catalog_type": "",
-      "research_record": ""
-    },
-    {
-      "builder": "Crews Maniac Sound",
-      "pedal": "Texas Tornado",
-      "catalog_type": "",
-      "research_record": ""
-    },
     {
       "builder": "Crews Maniac Sound",
       "pedal": "Valve Drive",
@@ -165,6 +147,24 @@
     {
       "builder": "Crossfire",
       "pedal": "DST-301 Distortion",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crossfire",
+      "pedal": "FUZ-510 R-Fuzz",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crossfire",
+      "pedal": "OVD-302 Overdrive",
+      "catalog_type": "",
+      "research_record": ""
+    },
+    {
+      "builder": "Crotronics",
+      "pedal": "Firestarter",
       "catalog_type": "",
       "research_record": ""
     }
