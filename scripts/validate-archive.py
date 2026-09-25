@@ -227,6 +227,8 @@ def main():
         ("Production deployment verified", parallel_photo_workflow),
         ("Deployment image audit scope:", deploy_text),
         ("imageAuditMode", deploy_text),
+        ("researchAuditMode", deploy_text),
+        ("changed/smoke researched parent pages", deploy_text),
         ("dirt-image-cache", cache_workflow),
         ("cancel-in-progress: false", cache_workflow),
         ("dirt-research-synthesis", synth_workflow),
