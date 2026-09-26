@@ -32916,8 +32916,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fender/Smolder Acoustic Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -34256,8 +34256,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Texas Voodoo.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",

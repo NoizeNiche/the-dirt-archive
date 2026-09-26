@@ -1,0 +1,33 @@
+{
+  "builder": "Greer Amps",
+  "pedal": "Texas Voodoo",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/greer/texasvoodoo",
+      "title": "Greer Amps Texas Voodoo - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.creativeaudiobest.com/product/greer-amps-texas-voodoo-fuzz/",
+      "title": "Greer Amps Texas Voodoo Fuzz - creativeaudiobest.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.creativeaudiobest.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/item/80062389-greer-amps-texas-voodoo-fuzz",
+      "title": "Greer Amps Texas Voodoo Fuzz - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
