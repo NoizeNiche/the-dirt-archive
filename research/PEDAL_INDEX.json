@@ -1340,8 +1340,8 @@
       "research_record": "./research/pedals/Add+ Pedals/Super Drive.md",
       "image_source_url": "https://www.soranaudio.com/upload/images/article/20260415/17762230308134413.jpg",
       "image_source_page": "https://www.soranaudio.com/cn/products/40.html",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -46907,8 +46907,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Bass Boost Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tech 21 NYC",

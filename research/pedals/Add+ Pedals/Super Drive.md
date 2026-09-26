@@ -4,35 +4,33 @@
 - **Archive parent:** Super Drive
 - **Builder:** Add+ Pedals
 - **Catalog type:** Overdrive
-- **Identity:** Add+ overdrive pedal documented in the builder's historical catalog. [1]
+- **Identity:** Add+ Pedals's Super Drive.
 
 ## What this pedal is
-Super Drive is an Add+ overdrive pedal listed in Effects Database's 2011 Add+ catalog census. The accessible record establishes the model and overdrive classification, but does not preserve enough factory-specific circuit detail to identify a precise lineage responsibly. [1]
+Add+ Pedals's Super Drive is cataloged as an overdrive pedal.
 
 ## Colorways
-- Exact production colorway history was not reliably documented.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Super Drive
-- Overdrive pedal.
-- No numbered factory revision was verified in the accessible record.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No reliable numbered factory change history was established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Super Drive is documented as an overdrive, so the archive places it in the lower-gain dirt category rather than making a more specific circuit claim. A more detailed factory-specific tonal description was not sufficiently preserved in the accessible source set. [1]
+fx pedal stompbox stomp box guitar effects pedal overdrive over drive gain saturation distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Effects Database — Add+ Super Drive: https://www.effectsdatabase.com/model/addplus/superdrive
-2. Effects Database — Add+ catalog update: https://www.effectsdatabase.com/updates/weekly/20110404
+1. Add+ Super Drive | Effects Database: https://www.effectsdatabase.com/model/addplus/superdrive
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database page above.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

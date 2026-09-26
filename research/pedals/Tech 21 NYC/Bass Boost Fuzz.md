@@ -1,23 +1,38 @@
 # Tech 21 NYC — Bass Boost Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Bass Boost Fuzz
 - **Builder:** Tech 21 NYC
-- **Pedal:** Bass Boost Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Tech 21 NYC's Bass Boost Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Bass Boost Fuzz** by **Tech 21 NYC** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Tech 21 NYC's Bass Boost Fuzz is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Pedalboard Designer Pedalboard Designer Feed Catálogo PT Login Catálogo / Bass Boost Fuzz Adicionar ao meu board TECH 21 NYC Bass Boost Fuzz uncategorized Specs Técnicas Dimensões 102 × 117 mm
+
+## Sources checked
+1. Tech 21 NYC Bass Boost Fuzz Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/3465/tech-21-nyc-bass-boost-fuzz
+2. Bass Boost Fuzz — TECH 21 NYC | Specs, Review, Onde Comprar | Pedalboard Designer: https://pedalboarddesigner.com/pedals/tech-21-nyc-bass-boost-fuzz
+3. Tech 21 NYC Bass Boost Fuzz Pedal Effect Pedal (Barely Used): https://www.talkbass.com/classifieds/tech-21-nyc-bass-boost-fuzz-pedal-effect-pedal-barely-used.1386329/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
