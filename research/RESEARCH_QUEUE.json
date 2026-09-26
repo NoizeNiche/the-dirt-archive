@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T21:27:30.921612+00:00",
+  "generated_at": "2026-09-26T21:28:45.895629+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2953,
     "complete": 2953,
     "research_pending": 0,
-    "deep_research_pending": 2283,
-    "deep_researched": 1478,
+    "deep_research_pending": 2282,
+    "deep_researched": 1479,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Analog Noir",
-    "pedal": "Tone Bender MK1.5 / Tone Bender MKII",
+    "pedal": "Tone Bender MKI / Rangemaster Treble Booster",
     "catalog_type": "",
-    "research_record": "./research/pedals/Analog Noir/Tone Bender MK1.5 - Tone Bender MKII.md",
+    "research_record": "./research/pedals/Analog Noir/Tone Bender MKI - Rangemaster Treble Booster.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Analog Noir",
-      "pedal": "Tone Bender MK1.5 / Tone Bender MKII",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Noir/Tone Bender MK1.5 - Tone Bender MKII.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Analog Noir",
       "pedal": "Tone Bender MKI / Rangemaster Treble Booster",
@@ -195,6 +188,13 @@
       "pedal": "Dragon Drive V2",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 057/Dragon Drive V2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Anode Effects",
+      "pedal": "MOS Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 057/MOS Fuzz.md",
       "research_level": "surface"
     }
   ]
