@@ -1,39 +1,38 @@
 # Amplified Nation — Big Bloom Overdrive
 
 ## PRP identity
+- **Archive parent:** Big Bloom Overdrive
 - **Builder:** Amplified Nation
 - **Catalog type:** Overdrive
-- **Identity:** Boutique D-style overdrive/preamp with a Rock/Jazz voicing switch.
+- **Identity:** Amplified Nation's Big Bloom Overdrive.
 
 ## What this pedal is
-Big Bloom is an overdrive built by Amplified Nation around the character of D-style amplifiers. The historical product description says the circuit was based on a rare Japanese pedal while the pedal itself was built at Amplified Nation's Massachusetts shop. [1]
+It’s a medium to high-gain overdrive pedal.
 
 ## Colorways
-- Historical documentation lists suede, tolex, or painted enclosures rather than one single permanent finish. [1]
-- No complete colorway chronology established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Rock/Jazz toggle
-- exact complete control labeling is not sufficiently exposed by the accessible historical documentation
-- 9V battery or 9V DC operation
-- PCB and point-to-point construction
-- Teflon wire [1]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-Bigger Bloom is documented by Amplified Nation as a new and improved version of the original Big Bloom, adding more gain, stronger mids, and greater clarity at higher settings. [2]
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Big Bloom is designed for smooth, musical low-gain drive and more saturated high-gain tones with harmonic bloom, singing sustain, and controlled feedback. The Rock/Jazz switch changes the overall voicing, giving the pedal a more aggressive or smoother response around its D-style foundation. [1]
+Amplified Nation Big Bloom Overdrive - Hammered Copper - Willcutt Guitars
+It’s a medium to high-gain overdrive pedal.
+At low gain levels, the pedal produces a very smooth and musical distortion, and at higher gain levels it will throw almost every note you play into controlled feedback.
 
 ## Sources checked
-1. Effects Database — https://www.effectsdatabase.com/model/amplifiednation/bigbloom
-2. Amplified Nation Bigger Bloom documentation — https://amplifiednation.com/product/bigger-bloom-overdrive/
+1. Amplified Nation Big Bloom Overdrive - Hammered Copper - Willcutt Guitars: https://willcuttguitars.com/products/amplified-nation-big-bloom-overdrive-hammered-copper
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

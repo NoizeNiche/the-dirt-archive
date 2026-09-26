@@ -2628,8 +2628,8 @@
       "research_record": "./research/pedals/PRP Batch 047/Big Bloom Overdrive.md",
       "image_source_url": "https://willcuttguitars.com/cdn/shop/products/ScreenShot2023-04-11at1.37.06PM_1200x.png?v=1681234633",
       "image_source_page": "https://willcuttguitars.com/products/amplified-nation-big-bloom-overdrive-hammered-copper",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amplified Nation",
@@ -47016,8 +47016,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/XXL Guitar.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tech 21 NYC",
@@ -51323,8 +51323,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",
