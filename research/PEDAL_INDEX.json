@@ -4246,8 +4246,8 @@
       "research_record": "./research/pedals/PRP Batch 057/Rust Rod Fuzz.md",
       "image_source_url": "http://animalspedal.us/cdn/shop/files/RUSTRODFUZZ-01.jpg?v=1753151152",
       "image_source_page": "https://animalspedal.us/products/animals-pedal-rust-rod-fuzz",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Animals Pedal",
