@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T03:00:11.932030+00:00",
+  "generated_at": "2026-09-26T03:01:28.531Z",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,32 +10,18 @@
     "pictured": 2543,
     "complete": 2543,
     "research_pending": 0,
-    "deep_research_pending": 3403,
-    "deep_researched": 358,
+    "deep_research_pending": 3401,
+    "deep_researched": 360,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "AJcustom",
-    "pedal": "Distortion",
+    "builder": "Akai",
+    "pedal": "Tri-Mode Fuzz",
     "catalog_type": "",
-    "research_record": "./research/pedals/AJcustom/Distortion.md",
+    "research_record": "./research/pedals/Akai/Tri-Mode Fuzz.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "AJcustom",
-      "pedal": "Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/AJcustom/Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Akai",
-      "pedal": "Blues Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Akai/Blues Overdrive.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Akai",
       "pedal": "Tri-Mode Fuzz",
@@ -195,6 +181,20 @@
       "pedal": "Crown Centaur",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 046/Crown Centaur.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alen Geere",
+      "pedal": "LEADer Mk.2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 046/LEADer Mk.2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alen Geere",
+      "pedal": "Loverdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 046/Loverdrive.md",
       "research_level": "surface"
     }
   ]
