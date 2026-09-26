@@ -17449,8 +17449,8 @@
       "research_record": "./research/pedals/PRP Batch 143/cp-75-emerald-night-overdrive.md",
       "image_source_url": "https://starlitedistribution.ca/wp-content/uploads/2023/11/CP-75-Overdrive-MAIN.jpg",
       "image_source_page": "https://starlitedistribution.ca/product/caline-cp-75-emerald-night-overdrive-guitar-effect-pedal-with-true-bypass/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -17463,8 +17463,8 @@
       "research_record": "./research/pedals/PRP Batch 143/cp-76-captain-silver-overdrive.md",
       "image_source_url": "https://myguitarshop.co.za/cdn/shop/products/Caline-CP-76-Captain-Silver-Overdrive_1_1024x1024.jpg?v=1606902668",
       "image_source_page": "https://myguitarshop.co.za/products/caline-cp-76-captain-silver-overdrive",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -29735,8 +29735,8 @@
       "image": "./assets/pedals/digitech/digitech-grunge/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DigiTech/DigiTech Grunge.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DigiTech",
@@ -29747,8 +29747,8 @@
       "image": "./assets/pedals/digitech/hot-head-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DigiTech/Hot Head Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DigiTech",
@@ -43455,8 +43455,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/GD-XIII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ovaltone",
