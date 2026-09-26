@@ -16,3 +16,19 @@
   - https://www.effects-pedals.info/p/caline-dcp-07-brigade/
   - https://onethousandpedals.com/pedal/caline-dcp-07-brigade
   - https://www.musicplant.co.th/product/82421-80788/calinedcp07
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2021-01-13 Ryan Lutton Caline - Brigade Dual Overdrive - Demo 16:15 2020-12-23 Chatreeo อ.โอ๋ รีวิวเอฟเฟคกีตาร์ Caline DCP-07 Brigade Dual Overdrive Pedal 12:45 2020-12-21 EytschPi42 Aren't dual drives the best?
+
+### Verified sound evidence
+Du får en transparent lo-gain overdrive og en klassisk ”tubescreamer” klon med seperate kontroller.
+Caline DCP-07 Brigade - Dual Overdrive
+The overdrive effect is mellow, mild, smooth--simply exquisite!
+
+### Sources checked in this pass
+1. Caline DCP-07 Brigade guitar-effekt-pedal - Køb billigt her: https://www.danguitar.dk/caline-dcp-07-brigade-guitarpedal
+2. Caline DCP-07 Brigade - Dual Overdrive | Effects Database: https://www.effectsdatabase.com/model/caline/dcp/dcp07

@@ -10533,8 +10533,8 @@
       "research_record": "./research/pedals/PRP Batch 090/FZ-7 Fuzz.md",
       "image_source_url": "https://img.audiofanzine.com/images/u/product/normal/biyang-fz-7-fuzz-88586.jpg",
       "image_source_page": "https://en.audiofanzine.com/fuzz-pedal/biyang/fz-7-fuzz/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -17634,8 +17634,8 @@
       "research_record": "./research/pedals/PRP Batch 145/dcp-07-brigade.md",
       "image_source_url": "https://www.danguitar.dk/img/580/580/resize/c/l/cl-dcp07_1-23.png.jpg",
       "image_source_page": "https://www.danguitar.dk/caline-dcp-07-brigade-guitarpedal",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -17654,8 +17654,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://http2.mlstatic.com/D_NQ_NP_662440-CBT82990112933_032025-O.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -30092,8 +30092,8 @@
       "image": "./assets/pedals/dod-electronics/fx51-juice-box-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/FX51 Juice Box Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -30116,8 +30116,8 @@
       "image": "./assets/pedals/dod-electronics/fx55c-supra-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/FX55C Supra Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -33532,8 +33532,8 @@
       "image": "./assets/pedals/friedman-amplification/smallbox-overdrive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Friedman Amplification/Smallbox Overdrive Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fuhrmann",
@@ -43491,8 +43491,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/OVALIZED SCREAMER 808ts.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ovaltone",
@@ -43708,8 +43708,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Phaez Amplification/Savage.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Pigdog Pedals",

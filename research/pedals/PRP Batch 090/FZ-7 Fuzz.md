@@ -13,3 +13,17 @@ https://www.rockboard.de/en/pedalPedia/Biyang/FZ-7-Fuzz/68975637/
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Biyang's FZ-7 Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. Biyang FZ-7 Fuzz - Fuzz pedal - Audiofanzine: https://en.audiofanzine.com/fuzz-pedal/biyang/fz-7-fuzz/
+2. Biyang FZ-7 Fuzz - Fuzz guitare - Audiofanzine: https://fr.audiofanzine.com/fuzz-guitare/biyang/fz-7-fuzz/

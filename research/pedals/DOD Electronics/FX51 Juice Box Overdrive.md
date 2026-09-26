@@ -37,3 +37,16 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DOD Electronics's FX51 Juice Box Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. DOD Electronics FX51 Juice Box Overdrive User Guide: https://manuals.plus/dod-electronics/fx51-juice-box-overdrive-manual
+2. DOD Electronics FX51 Juice Box Overdrive User Guide: https://device.report/manual/17461292
+3. DOD Electronics FX51 Juice Box Overdrive User Guide - Manuals+: https://su.manuals.plus/dod-electronics/fx51-juice-box-overdrive-manual
+4. DOD Electronics FX51 Juice Box Overdrive User Guide - Manuals+: https://fr.manuals.plus/dod-electronics/fx51-juice-box-overdrive-manual

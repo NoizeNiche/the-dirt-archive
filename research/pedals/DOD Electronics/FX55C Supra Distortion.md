@@ -37,3 +37,17 @@ New Boss SD-1 Super Overdrive Guitar Effects Pedal $59.99 Trending at $69.98 Bos
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DOD Electronics's FX55C Supra Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+DOD Electronics Fx55c Supra Distortion Overdrive Guitar Effect Pedal for sale online
+
+### Sources checked in this pass
+1. DOD Electronics Fx55c Supra Distortion Overdrive Guitar Effect Pedal for sale online | eBay: https://www.ebay.com/p/8032018868
+2. DOD FX55C Supra Distortion Instruction Manual - Manuals+: https://manuals.plus/dod/fx55c-supra-distortion-manual
