@@ -31220,7 +31220,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/fuzz-master-general-octave-fuzz-blaster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Fuzz Master General — Octave Fuzz Blaster.md",
       "research_level": "surface",
@@ -31244,7 +31244,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/fuzz-master-general-legacy-reissue-limited-edition-octave-fuzz-blaster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Fuzz Master General Legacy Reissue — Limited Edition Octave Fuzz Blaster.md",
       "research_level": "surface",
@@ -31477,7 +31477,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/rancho-de-la-luna-dirt-transmitter-fuzz-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Rancho de la Luna Dirt Transmitter — Fuzz Driver.md",
       "research_level": "surface",
@@ -31537,7 +31537,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/special-cranker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Special Cranker.md",
       "research_level": "surface",
@@ -31990,7 +31990,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/double-muff/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Double Muff.md",
       "research_level": "surface",
@@ -32099,7 +32099,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/hot-tubes-nano/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Hot Tubes Nano.md",
       "research_level": "surface",
@@ -32111,7 +32111,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/hot-wax-dual-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Hot Wax Dual Overdrive.md",
       "research_level": "surface",
@@ -35372,7 +35372,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/wild-kyle/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Wild Kyle.md",
       "research_level": "deep",
@@ -36932,7 +36932,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/suns-ultravoid-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/SUNS Ultravoid Fuzz.md",
       "research_level": "deep",
@@ -36958,7 +36958,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/super-phat-mod/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Super Phat Mod.md",
       "research_level": "deep",
@@ -36971,7 +36971,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/super-phat-mod-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Super Phat Mod Mini.md",
       "research_level": "surface",
@@ -40014,7 +40014,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/blue-collar-mojo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Blue Collar Mojo.md",
       "research_level": "surface",
@@ -40104,7 +40104,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/menawatt/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/MenaWatt.md",
       "research_level": "surface",
@@ -40129,7 +40129,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/ms-foxy-brown-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Ms. Foxy Brown Mini.md",
       "research_level": "surface",
@@ -40447,7 +40447,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mesa-boogie/throttle-box-eq/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Throttle Box EQ.md",
       "research_level": "surface",
@@ -40459,7 +40459,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mesa-boogie/tone-burst/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Tone-Burst.md",
       "research_level": "surface",
@@ -40495,7 +40495,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mi-audio-mi-effects/cross-over-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/Cross Over Drive.md",
       "research_level": "surface",
@@ -40507,7 +40507,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mi-audio-mi-effects/crunch-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/Crunch Box.md",
       "research_level": "surface",
@@ -40519,7 +40519,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mi-audio-mi-effects/gi-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/GI Fuzz.md",
       "research_level": "surface",
@@ -40531,7 +40531,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mi-audio-mi-effects/megalith-delta/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/Megalith Delta.md",
       "research_level": "surface",

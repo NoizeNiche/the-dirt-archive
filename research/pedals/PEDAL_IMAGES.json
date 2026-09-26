@@ -15448,7 +15448,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Fuzz Master General — Octave Fuzz Blaster",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/fuzz-master-general-octave-fuzz-blaster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Fuzz Master General — Octave Fuzz Blaster.md"
   },
@@ -15462,7 +15462,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Fuzz Master General Legacy Reissue — Limited Edition Octave Fuzz Blaster",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/fuzz-master-general-legacy-reissue-limited-edition-octave-fuzz-blaster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Fuzz Master General Legacy Reissue — Limited Edition Octave Fuzz Blaster.md"
   },
@@ -15588,7 +15588,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Rancho de la Luna Dirt Transmitter — Fuzz Driver",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/rancho-de-la-luna-dirt-transmitter-fuzz-driver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Rancho de la Luna Dirt Transmitter — Fuzz Driver.md"
   },
@@ -15623,7 +15623,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Special Cranker",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/special-cranker/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Special Cranker.md"
   },
@@ -15882,7 +15882,7 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Double Muff",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/double-muff/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Double Muff.md"
   },
@@ -15945,14 +15945,14 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Hot Tubes Nano",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/hot-tubes-nano/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Hot Tubes Nano.md"
   },
   {
     "builder": "Electro-Harmonix",
     "pedal": "Hot Wax Dual Overdrive",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/hot-wax-dual-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Hot Wax Dual Overdrive.md"
   },
@@ -17807,7 +17807,7 @@
   {
     "builder": "IdiotBox Effects",
     "pedal": "Wild Kyle",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/wild-kyle/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Wild Kyle.md"
   },
@@ -18689,7 +18689,7 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "SUNS Ultravoid Fuzz",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/suns-ultravoid-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/SUNS Ultravoid Fuzz.md"
   },
@@ -18703,14 +18703,14 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Super Phat Mod",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/super-phat-mod/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Super Phat Mod.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "Super Phat Mod Mini",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/super-phat-mod-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Super Phat Mod Mini.md"
   },
@@ -20411,7 +20411,7 @@
   {
     "builder": "Menatone",
     "pedal": "Blue Collar Mojo",
-    "image": null,
+    "image": "./assets/pedals/menatone/blue-collar-mojo/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Blue Collar Mojo.md"
   },
@@ -20460,7 +20460,7 @@
   {
     "builder": "Menatone",
     "pedal": "MenaWatt",
-    "image": null,
+    "image": "./assets/pedals/menatone/menawatt/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/MenaWatt.md"
   },
@@ -20474,7 +20474,7 @@
   {
     "builder": "Menatone",
     "pedal": "Ms. Foxy Brown Mini",
-    "image": null,
+    "image": "./assets/pedals/menatone/ms-foxy-brown-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Ms. Foxy Brown Mini.md"
   },
@@ -20649,14 +20649,14 @@
   {
     "builder": "MESA/Boogie",
     "pedal": "Throttle Box EQ",
-    "image": null,
+    "image": "./assets/pedals/mesa-boogie/throttle-box-eq/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MESA/Boogie/Throttle Box EQ.md"
   },
   {
     "builder": "MESA/Boogie",
     "pedal": "Tone-Burst",
-    "image": null,
+    "image": "./assets/pedals/mesa-boogie/tone-burst/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MESA/Boogie/Tone-Burst.md"
   },
@@ -20677,28 +20677,28 @@
   {
     "builder": "MI Audio / MI Effects",
     "pedal": "Cross Over Drive",
-    "image": null,
+    "image": "./assets/pedals/mi-audio-mi-effects/cross-over-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MI Audio / MI Effects/Cross Over Drive.md"
   },
   {
     "builder": "MI Audio / MI Effects",
     "pedal": "Crunch Box",
-    "image": null,
+    "image": "./assets/pedals/mi-audio-mi-effects/crunch-box/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MI Audio / MI Effects/Crunch Box.md"
   },
   {
     "builder": "MI Audio / MI Effects",
     "pedal": "GI Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mi-audio-mi-effects/gi-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MI Audio / MI Effects/GI Fuzz.md"
   },
   {
     "builder": "MI Audio / MI Effects",
     "pedal": "Megalith Delta",
-    "image": null,
+    "image": "./assets/pedals/mi-audio-mi-effects/megalith-delta/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MI Audio / MI Effects/Megalith Delta.md"
   },
