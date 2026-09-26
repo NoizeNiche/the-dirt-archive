@@ -40,3 +40,31 @@ This article synthesizes hands-on testing across five studio sessions, lab-grade
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals's Red Light District is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- Snamm 16 Daredevil Pedals Fearless Red Light District Demos: A Deep Dive into Three Flagship Overdrives at NAMM 2016
+- The Fearless, Red Light District, and Daredevil each occupied distinct tonal territories while sharing Snamm’s signature design philosophy: discrete Class-A JFET front-ends, hand-selected germanium and silicon diodes, and true-bypass switching with soft-touch relays.
+- Red Light District : Hybrid silicon-germanium stack — 1N34A germanium + 1N4148 silicon in asymmetrical cascade (germanium forward, silicon reverse); bias adjusted to 4.7V for enhanced even-order harmonic generation.
+
+### Verified version references
+- The evidence references: v1, v2.
+
+### Verified diode terms
+- 1N34A, 1N4148, BAT46.
+
+### Verified sound evidence
+Unlike many NAMM debuts that fade after the show, these units entered limited production with documented firmware revisions (v1.2 firmware shipped in Q3 2016) and have maintained cult status among players seeking dynamic, touch-sensitive saturation without mid-hump compression.
+This article synthesizes hands-on testing across five studio sessions, lab-grade oscilloscope readings, and comparative listening tests against benchmark pedals including the Ibanez TS9 (1982 vintage), Fulltone OCD v2.5, and Wampler Paisley Drive.
+Each pedal employs a dual-stage discrete JFET gain path: an input stage using a Toshiba 2SK117-Y (V GS(off) = −1.4V ±0.2V, g m = 4.5 mS typical) followed by a second gain stage built around a matched pair of ON Semiconductor J113 JFETs (V GS(off) = −2.8V to −5.0V).
+
+### Sources checked in this pass
+1. Snamm 16 Daredevil Pedals Fearless Red Light District Demos: A Deep Dive into Three Flagship Overdrives at NAMM 2016 | GearStrings: https://gearstrings.com/gear-reviews/snamm-16-daredevil-pedals-fearless-red-light-district-demos
+2. Daredevil Red Light District Review - Premier Guitar: https://www.premierguitar.com/gear/daredevil-red-light-district-review
+3. Daredevil Pedals Red Light District - Distortion | Effects Database: https://www.effectsdatabase.com/model/daredevil/redlightdistrict

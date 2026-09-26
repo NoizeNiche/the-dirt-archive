@@ -63,3 +63,26 @@ Peppermint Fuzz is a high-gain germanium fuzz with a broader and more aggressive
 1. Analog Man — Peppermint Fuzz: https://analogman.com/peppermint.htm
 2. TrueTone Music — Analog Man Peppermint Fuzz photograph/listing: https://www.truetonemusic.com/products/analog-man-peppermint-fuzz
 3. Effects Database — Peppermint Fuzz: https://www.effectsdatabase.com/model/analogman/peppermint
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The DARK Peppermint fuzz is similar but uses some darker sounding transistors.
+
+### Verified color/finish evidence
+- The Dark Peppermint fuzz has a light flourescent BLUE coating over the pedal.
+
+### Verified version references
+- The evidence references: MK1.
+
+### Verified sound evidence
+Buzz (middle) allows controlling the sound of the fuzz from weak to hard edged fuzz.
+You can turn it down to get a warmer looser fuzz sound which can sometimes be useful.
+For standard fuzzface tones turn the BUZZ knob down a bit along with the FUZZ knob.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.truetonemusic.com/products/analog-man-peppermint-fuzz
+2. Analog Man Peppermint Fuzz: https://www.buyanalogman.com/Analog_Man_Peppermint_Fuzz_pedal_p/am-peppermint-fuzz.htm
+3. Analog Man Peppermint Fuzz | Effects Database: https://www.effectsdatabase.com/model/analogman/peppermintfuzz

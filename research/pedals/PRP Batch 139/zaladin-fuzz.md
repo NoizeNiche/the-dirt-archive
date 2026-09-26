@@ -15,3 +15,21 @@
 - **Photo status:** No exact-model image promoted to the local archive in this batch.
 - **Research confidence:** High for identity, provenance, transistor/build claims and the documented tonal description; medium for the historical Zonk/Mk-I lineage because that relationship is presented in builder copy rather than independently established.
 - **Sources checked:** https://www.effectsdatabase.com/model/calangary/zaladin ; https://www.effectsdatabase.com/blog/discofreq?page=55 ; https://www.guitar-pedal-x.com/2020/07/12-of-best-compact-enclosure-zonk.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Calangary Pedals's Zaladin Fuzz is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- germanium transistor.
+
+### Verified sound evidence
+The circuit was almost identical to its golden cousin the legendary Tone benderÂ® MK-I, its sound was more complex, aggresive and dynamic.
+Thus, the tone retains the subtlety of your playing.
+These pedal are tone machine, Kindly use an amp that has some mild grit, the addition of that point is the key to the tone.
+
+### Sources checked in this pass
+1. Calangary Pedals Zaladin Fuzz | Effects Database: https://www.effectsdatabase.com/model/calangary/zaladin

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T10:04:12.021266+00:00",
+  "generated_at": "2026-09-26T10:04:56.143334+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2744,
     "complete": 2744,
     "research_pending": 0,
-    "deep_research_pending": 3030,
-    "deep_researched": 731,
+    "deep_research_pending": 3022,
+    "deep_researched": 739,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "Amptweaker",
-    "pedal": "Tight Drive Jr",
+    "builder": "Amsterdam Cream",
+    "pedal": "Original Distortion",
     "catalog_type": "",
-    "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md",
+    "research_record": "./research/pedals/PRP Batch 049/Original Distortion.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Amptweaker",
-      "pedal": "Tight Drive Jr",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Amsterdam Cream",
       "pedal": "Original Distortion",
@@ -48,27 +41,6 @@
       "pedal": "Destroyer",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 050/Destroyer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Man",
-      "pedal": "Peppermint Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Man/Peppermint_Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Man",
-      "pedal": "Prince Of Tone",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Man/Prince_Of_Tone.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Man",
-      "pedal": "Sun Face",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Man/Sun_Face.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +167,34 @@
       "pedal": "Sentinel",
       "catalog_type": "",
       "research_record": "./research/pedals/Anarchy Audio Australia/Sentinel.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Anasounds",
+      "pedal": "bitoun fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Anasounds/bitoun fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Anasounds",
+      "pedal": "cerberus",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Anasounds/cerberus.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Anasounds",
+      "pedal": "ego driver",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Anasounds/ego driver.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Anasounds",
+      "pedal": "feed me mk3",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Anasounds/feed me mk3.md",
       "research_level": "surface"
     }
   ]

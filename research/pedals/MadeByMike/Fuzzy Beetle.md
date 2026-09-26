@@ -1,23 +1,38 @@
 # MadeByMike — Fuzzy Beetle
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Fuzzy Beetle
 - **Builder:** MadeByMike
-- **Pedal:** Fuzzy Beetle
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MadeByMike's Fuzzy Beetle.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Fuzzy Beetle** by **MadeByMike** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+MadeByMike's Fuzzy Beetle is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: v4.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. MadeByMike - Fuzzy Beetle: https://madebymike.co.uk/fuzzy.shtml
+2. You wait ages for a new pedal and then... - MadeByMike Pedals: https://www.facebook.com/MadeByMikePedals/posts/you-wait-ages-for-a-new-pedal-and-then-two-come-along-at-once-the-fuzzy-beetle-h/1779679125428655/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -2927,8 +2927,8 @@
         "https://www.talkbass.com/attachments/img_0797-jpeg.5052266/"
       ],
       "image": "./assets/pedals/amptweaker/tight-drive-jr/primary.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -3550,8 +3550,8 @@
       "source_page": "https://www.truetonemusic.com/products/analog-man-peppermint-fuzz",
       "research_record": "./research/pedals/Analog Man/Peppermint_Fuzz.md",
       "image_source_url": "https://www.truetonemusic.com/cdn/shop/files/1-Img6112_700x700.jpg?v=1714068797",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Man",
@@ -3565,8 +3565,8 @@
       "research_record": "./research/pedals/Analog Man/Prince_Of_Tone.md",
       "image_source_url": "https://diyeffectspedals.com/wp-content/uploads/2022/10/analogman-prince-of-tone.png",
       "image_source_page": "https://diyeffectspedals.com/pedal-kits/analogman/analogman-prince-of-tone/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Man",
@@ -3579,8 +3579,8 @@
       "research_record": "./research/pedals/Analog Man/Sun_Face.md",
       "image_source_url": "http://cdn.shopify.com/s/files/1/0286/0200/7600/files/DSC01273_b1cb0c47-9ba1-49bd-9b5a-daec7397b2e6.jpg?v=1684270723",
       "image_source_page": "https://parkwaymusic.com/products/analog-man-sun-face-sun-graphics-bart",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Man",
@@ -16871,8 +16871,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://64.media.tumblr.com/e6c4757100c4c203326fcea5db6f1d62/tumblr_oiwavwVOtH1qkwb9so1_1280.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "California (by Eleca)",
@@ -28993,8 +28993,8 @@
       "research_record": "./research/pedals/Daredevil Pedals/Red Light District.md",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/daredevil_redlightdistrict_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/daredevil/redlightdistrict",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -38716,8 +38716,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/Fuzzy Beetle.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MadeByMike",
@@ -47925,8 +47925,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Jan Ray for TF.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",

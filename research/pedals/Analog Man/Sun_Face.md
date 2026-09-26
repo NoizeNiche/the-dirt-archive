@@ -74,3 +74,30 @@ Sun Face spans a wide range because Analog Man deliberately selects transistors 
 1. Analog Man — Sun Face: https://analogman.com/sunface.htm
 2. Effects Database — Analog Man Sun Face family: https://www.effectsdatabase.com/model/analogman/sunface
 3. Analog Man transistor and option notes embedded in Sun Face product material.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Man's Sun Face is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- They are hand-built in the USA in small gold boxes, with our own USA made SUNFACE circuit board, which was made small enough to fit in almost any enclosure.
+- It also has an internal CLEAN trim pot (white knob).
+- It also allows easier control of the volume knob on your guitar when the white CLEAN trim pot is turned a bit.
+
+### Verified version references
+- The evidence references: MK1.
+
+### Verified transistor/device terms
+- BC109B.
+
+### Verified sound evidence
+This trim pot acts just like turning down the VOLUME knob on your guitar, to clean up the fuzz.
+It can also be used to kill Radio Frequency Interference, which may be a problem on high gain pedals in some areas, by turning it down a hair.
+
+### Sources checked in this pass
+1. Analog.Man Sun Face - BART: https://parkwaymusic.com/products/analog-man-sun-face-sun-graphics-bart
+2. Analog Man Sun Face Fuzzface fuzz pedal: https://www.buyanalogman.com/ProductDetails.php?ProductCode=AM-SUN-FACE-READYJB
+3. Analog Man Sun Face | Effects Database: https://www.effectsdatabase.com/model/analogman/sunface

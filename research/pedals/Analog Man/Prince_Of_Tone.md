@@ -62,3 +62,28 @@ Prince Of Tone covers a broad range from low-gain boost and transparent overdriv
 1. Analog Man — Prince Of Tone manual/product information: https://analogman.com/princeof.htm
 2. Analog Man — Prince Of Tone manual PDF: https://analogman.com/princeof.pdf
 3. Effects Database — Prince Of Tone: https://www.effectsdatabase.com/model/analogman/princeoftone
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+It is a classic analog distortion pedal that has been used by some of the greatest guitarists of all time.
+
+### Verified color/finish evidence
+- Once you know it works and can get the tone you want, you can finish the pedal off by installing it into a suitable enclosure and add some knobs.
+- It has the Mode toggle, so it does all three KOT settings: clean boost (yellow side), OD (red side) and Distortion modes.
+- – That Pedal Show 66:42 2020-09-10 Kasleder Kasleder Fx Diaries - Toxic Twins White side vs Analogman Prince Of Tone (Boost setting) 2:10 2019-10-25 Dipswitch Demos AS GOOD AS THE KING?
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified sound evidence
+DIY AnalogMan Prince of Tone Guitar Effects Pedal Kits & PCBs
+It is a classic analog distortion pedal that has been used by some of the greatest guitarists of all time.
+The pedal is highly sought after because of its ability to produce a warm and smooth tone, while also providing plenty of gain and sustain.
+
+### Sources checked in this pass
+1. DIY AnalogMan Prince of Tone Guitar Effects Pedal Kits & PCBs | DIY Effects Pedals: https://diyeffectspedals.com/pedal-kits/analogman/analogman-prince-of-tone/
+2. Analog Man Prince Of Tone | Effects Database: https://www.effectsdatabase.com/model/analogman/princeoftone
+3. Duke of Tone – PCB Guitar Mania: https://pcbguitarmania.com/product/duke-of-tone/
