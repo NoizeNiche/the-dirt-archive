@@ -14,3 +14,13 @@
 - **Sources checked:**
   - https://recnmix.accordo.it/article/viewPub/4430?co=1
   - https://www.i-boutik.com/www.i-boutik.com/achat/index.php/Reglages-d-effets-speciaux.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Carella Guitars's Real Tube is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Carella Guitars Real Tube | Effects Database: https://www.effectsdatabase.com/model/carella/realtube

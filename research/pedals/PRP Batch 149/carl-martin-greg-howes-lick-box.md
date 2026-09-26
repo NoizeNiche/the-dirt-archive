@@ -14,3 +14,19 @@
 - **Research confidence:** High for the three-section architecture, controls, stacking behavior, power conversion, and signature collaboration.
 - **Sources checked:**
   - https://carlmartin.com/products/greg-howes-lick-box/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Carl Martin's Greg Howe's Lick Box is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+239,00 € Add to cart More details · Find a dealer Three independent sections: High Gain, Crunch, and a clean Boost (up to 12 dB), each with dedicated controls.
+High Gain and Crunch channels interact for tight, mid-focused lead sounds that cut through the mix.
+Internal DC/DC converter allows operation at ±12V for extra headroom and clarity, powered by a standard 9V supply.
+
+### Sources checked in this pass
+1. Greg Howe's Lick Box - Carl Martin: https://carlmartin.com/products/greg-howes-lick-box/
+2. Carl Martin Greg Howe's Lick Box Guitar Pedal: https://www.musicjunction.com.au/products/carl-martin-greg-howes-lick-box-guitar-pedal

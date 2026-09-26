@@ -18100,8 +18100,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/fryette_sas-namm2011_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carl Martin",
@@ -18149,8 +18149,8 @@
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-greg-howes-lick-box.md",
       "image_source_page": "https://www.musicjunction.com.au/products/carl-martin-greg-howes-lick-box-guitar-pedal",
       "image_source_url": "https://www.musicjunction.com.au/cdn/shop/files/57325_2.png?v=1754027644&width=2048",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carl Martin",
