@@ -55,3 +55,21 @@ Venus produces thick, harmonically rich tube overdrive with substantial sustain.
 2. Guitar.com - Venus review
 3. Guitar World - Venus review
 4. Thomann - Venus
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Image: Adam Gasson Crazy Tube Circuits Venus – what is it?
+
+### Verified sound evidence
+Top quality fat juicy real valve tones, flexible EQ controls and a pedalboard-friendly footprint, have CTC released this year’s must-have overdrive?
+€299/£265, crazytubecircuits.com Vintage guitars are rightly held as some of the most inspirational tone-creating machines out there in guitar land.
+Yes, there are the well-trodden and bank-busting Tube Screamers and Klons , and much love for round Fuzz Faces abides on forums, but outside of a few classics, many of today’s players find these ‘quirky’ boxes are just too much to handle.
+
+### Sources checked in this pass
+1. Venus — Crazy Tube Circuits: https://crazytubecircuits.com/venus
+2. Crazy Tube Circuits Venus review – 2025’s must-have overdrive? | Guitar.com: https://guitar.com/reviews/effects-pedal/hands-on-crazy-tube-circuits-venus-review/
+3. Crazy Tube Circuits Venus review | Guitar World: https://www.guitarworld.com/gear/effects-pedals/crazy-tube-circuits-venus-review
+4. Crazy Tube Circuits Venus – United States small facebook email pinterest whatsapp: https://www.thomannmusic.com/crazy_tube_circuits_venus.htm

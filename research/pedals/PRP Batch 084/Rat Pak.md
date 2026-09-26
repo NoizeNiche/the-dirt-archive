@@ -9,3 +9,16 @@ Circuit and component recreation of the 1985 Whiteface RAT. Controls: Distortion
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Big Knob Pedals's Rat Pak is cataloged as a distortion pedal.
+
+### Verified diode terms
+- LED.
+
+### Sources checked in this pass
+1. Rat Pak – Big Knob Pedals: https://bigknobpedals.com/product/rat-pak/

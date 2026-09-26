@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T10:35:44.571486+00:00",
+  "generated_at": "2026-09-26T10:37:31.707010+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2744,
     "complete": 2744,
     "research_pending": 0,
-    "deep_research_pending": 2725,
-    "deep_researched": 1036,
+    "deep_research_pending": 2709,
+    "deep_researched": 1052,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "AMtech Handwired",
-    "pedal": "Destroyer",
+    "builder": "Analog Noir",
+    "pedal": "Tone Bender MK1.5 / Tone Bender MKII",
     "catalog_type": "",
-    "research_record": "./research/pedals/PRP Batch 050/Destroyer.md",
+    "research_record": "./research/pedals/Analog Noir/Tone Bender MK1.5 - Tone Bender MKII.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "AMtech Handwired",
-      "pedal": "Destroyer",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 050/Destroyer.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Analog Noir",
       "pedal": "Tone Bender MK1.5 / Tone Bender MKII",
@@ -195,6 +188,13 @@
       "pedal": "In Oct,3 Foxes talking of dreamy FUZZ",
       "catalog_type": "",
       "research_record": "./research/pedals/Animals Pedal/In Oct,3 Foxes talking of dreamy FUZZ.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "Major Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Animals Pedal/Major Overdrive.md",
       "research_level": "surface"
     }
   ]

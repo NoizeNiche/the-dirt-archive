@@ -78,3 +78,25 @@ The standard Unobtanium combines transparent, high-headroom Klon-style drive wit
 2. Guitar.com - Unobtanium review
 3. Glued to Music - Unobtanium
 4. Effects Database - Unobtanium
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on December 9, 2023 Crazy Tube Circuits amp simulation overdrive pedal raw version raw version raw version raw version Information Crazy Tube Circuits We've put your dream tones in a box!
+
+### Verified color/finish evidence
+- Left side's LED turns half red when in ODS voicing.
+- Crazy Tube Circuits Unobtanium RAW 16:27 2024-06-11 Face Unobtanium RAW by Crazy Tube Circuits 0:52 2024-06-11 Buddy Blues UNOBTANIUM RAW - Part 2 From Crazy Tube Circuits 19:17 2024-06-11 Shawn Tubbs CRAZY TUBE CIRCUITS UNOBTANIUM RAW - Klon, Dumble ODS And Dumble SSS IN ONE BOX.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Published on December 9, 2023 Crazy Tube Circuits amp simulation overdrive pedal raw version raw version raw version raw version Information Crazy Tube Circuits We've put your dream tones in a box!
+A magical tone overdrive meets two legendary amps.
+AMP side uses an all-analog circuit to capture the tone and feel of two legendary tube amplifiers.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits (Dual Overdrive series) Unobtanium - Klon + Dumble | Effects Database: https://www.effectsdatabase.com/model/crazytube/unobtanium

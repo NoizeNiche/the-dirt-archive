@@ -76,3 +76,17 @@ RAW keeps the Klon/D-style core but adds a more compressed, higher-gain OC45 cli
 2. Bonedo - Unobtanium Raw
 3. Thomann - Unobtanium Raw
 4. Delicious Audio - Unobtanium Raw
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Tube Circuits's Unobtanium Raw is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Sources checked in this pass
+1. Unobtanium Raw — Crazy Tube Circuits: https://crazytubecircuits.com/unobtanium-raw
+2. Crazy Tube Circuits Unobtanium Raw – Coast Sonic American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa: https://coastsonic.com/products/crazy-tube-circuits-unobtanium-raw
+3. Crazy Tube Circuits Unobtanium Raw – United States small facebook email pinterest whatsapp: https://www.thomannmusic.com/crazy_tube_circuits_unobtanium_raw.htm
+4. Crazy Tube Circuits Unobtanium RAW American Express Apple Pay Bancontact Diners Club Discover Google Pay iDEAL Wero Mastercard PayPal Shop Pay Visa American Express Apple Pay Bancontact Diners Club Discover Google Pay iDEAL Wero Mastercard PayPal Shop Pay Visa: https://aifineguitars.com/products/crazy-tube-circuits-unobtanium-raw
+5. Crazy Tube Circuits Unobtanium Raw – Angel City Guitars facebook instagram tiktok youtube Facebook X Twitter Pinterest facebook instagram tiktok youtube: https://angelcityguitars.com/products/crazy-tube-circuits-unobtanium-raw

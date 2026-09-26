@@ -45,3 +45,17 @@ BOD-1 is designed to preserve bass-focused control while moving from warm, full 
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://rvb-img.reverb.com/i/s--CRo-YtDA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ktwe69qltfzjxjhw4kpk.jpg
 - **Source page:** https://reverb.com/item/15622919-beta-aivin-bod-1-bass-overdrive-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Beta Aivin's BOD-1 Bass Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Simple setting for creating various effects from warm fat overdrive to high gain fuzz.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/15622919-beta-aivin-bod-1-bass-overdrive-pedal
+2. Beta Aivin BOD-1 Bass Overdrive | Effects Database: https://www.effectsdatabase.com/model/betaaivin/100/bod1

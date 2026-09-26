@@ -37,3 +37,18 @@ The builder presents the Destroyer as a wide-range analog distortion that can mo
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** AMTECH-HANDWIRED / SARINTEN product page and builder imagery.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Destroyer is an analog distortion designed to cover a broad range from clean/low-gain drive through overdrive, crunch and heavy distortion.
+
+### Verified sound evidence
+Destroyer is an analog distortion designed to cover a broad range from clean/low-gain drive through overdrive, crunch and heavy distortion.
+The builder documents independent BOOST and LEAD functions plus an independent cabinet simulator and true bypass.
+The pedal uses a GAIN control and a multi-position toggle system with tight/basic and fat-mode choices.
+
+### Sources checked in this pass
+1. AMTECH-HANDWIRED / SARINTEN PEDALS — Destroyer: https://www.amtechhandwired.com/?page_id=732

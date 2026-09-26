@@ -82,3 +82,29 @@ Triptychon is designed to recreate the interaction of classic fuzz, octave/boost
 4. GuitarBomb - Triptychon
 5. Premier Guitar - Triptychon
 6. Thomann - Triptychon
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+18:22 2026-04-30 intheblues The Triptychon is a Beast (Real Amp Test)
+
+### Verified version references
+- The evidence references: Mk1, MkII.
+
+### Verified transistor/device terms
+- silicon transistors, silicon transistor.
+
+### Verified sound evidence
+Crazy Tube Circuits announces Triptychon, an all-analog 3-part gain system featuring 4-voice fuzz, treble boost, and amp-drive in one pedal.
+The design follows a three-part concept intended to recreate the signal chain interaction found in classic recordings, where fuzz, octave effects, or treble boosters were driven into already overdriven amplifiers.
+Each section operates independently or in combination, allowing flexible routing and gain staging that reflects both vintage and modern pedalboard configurations.
+
+### Sources checked in this pass
+1. Triptychon — Crazy Tube Circuits: https://crazytubecircuits.com/triptychon
+2. Crazy Tube Circuits unveils the Triptychon pedal | MusicRadar: https://www.musicradar.com/guitars/crazy-tube-circuits-triptychon-pedal
+3. Crazy Tube Circuits Unveils Triptychon: The Ultimate All-Analog 3-Part Gain System | GuitarBomb: https://guitarbomb.com/blog/crazy-tube-circuits-triptychon/
+4. Crazy Tube Circuits Triptychon - Octave Fuzz / Drive / Treble Boost | Effects Database: https://www.effectsdatabase.com/model/crazytube/triptychon
+5. Crazy Tube Circuits Announces the Release of Triptychon - Premier Guitar: https://www.premierguitar.com/news/crazy-tube-circuits-announces-the-release-of-triptychon
+6. Crazy Tube Circuits Triptychon – United States small facebook email pinterest whatsapp: https://www.thomannmusic.com/crazy_tube_circuits_triptychon.htm

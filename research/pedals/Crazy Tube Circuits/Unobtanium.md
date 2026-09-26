@@ -59,3 +59,26 @@ The overdrive side is voiced toward warm, transparent Klon-family drive, while t
 1. Crazy Tube Circuits - Unobtanium
 2. Guitar.com - Unobtanium review
 3. Thomann - Unobtanium
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+There’s also an input for doing that job with an external footswitch (not included), and rounding off the Unobtanium’s feature set is an effects loop, so you can place other pedals between the two drive circuits.
+
+### Verified color/finish evidence
+- SSS mode is where the really natural stuff happens, but it’s worth flipping to the ODS setting for something with a thicker midrange (and a pink LED instead of white).
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Learn more Review Overview Our rating 9 Our verdict A smartly designed dual overdrive with top-class tones on both sides.
+So we’re pleased to report that the Unobtanium, an extremely classy dual overdrive from Greek boutique builder Crazy Tube Circuits , can help with at least two of those issues.
+READ MORE: Boss DS-1W Waza Craft review: The original, but better We’re seeing more and more dual drive pedals these days.
+
+### Sources checked in this pass
+1. Unobtanium — Crazy Tube Circuits: https://crazytubecircuits.com/unobtanium
+2. Crazy Tube Circuits Unobtanium – United States small facebook email pinterest whatsapp: https://www.thomannmusic.com/crazy_tube_circuits_unobtanium.htm
+3. Crazy Tube Circuits Unobtanium review | Guitar.com: https://guitar.com/reviews/effects-pedal/crazy-tube-circuits-unobtanium-review/

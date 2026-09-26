@@ -41,3 +41,13 @@ The documented design goal is a two-stage gain architecture capable of overdrive
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/audiomonk/rubiedrive
 - **Archive note:** Exact-model identity was checked, but no stable exact-model image asset was promoted during this pass. Keep the public card at **No Photo Archived** rather than substitute another model.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Audio Monk's Rubie Drive is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. Audio Monk Rubie Drive | Effects Database: https://www.effectsdatabase.com/model/audiomonk/rubiedrive

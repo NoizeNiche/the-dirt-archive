@@ -41,3 +41,26 @@ AMP CRASH Menu 0 Pedals All Pedals Destroyer Series Distortion Fuzz Overdrive De
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Details If love is a battlefield, then the Fuzz War is your ticket to victorious sustaining fuzz tone.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+FUZZ WAR - Death By Audio RESTOCKED + SHIPPING NOW!
+" tabindex="-1" > " tabindex="-1" > " tabindex="-1" > " tabindex="-1" > FUZZ WAR $180.00
+/ Notify me when this product is available: Notify me when this product is available: Qty Add to cart THE FUZZ OF ALL FUZZES Call in the Army, the Navy, Scotland Yard, your mom, and the Mario Brothers!
+
+### Sources checked in this pass
+1. FUZZ WAR - Death By Audio: https://deathbyaudio.com/products/fuzz-war
+2. Death By Audio Fuzz War - Reverb: https://reverb.com/p/death-by-audio-fuzz-war
+3. Death By Audio Fuzz War: The Fuzz of All Fuzzes Guide: https://guitargangsters.net/rank885-death-by-audio-fuzz-war/
+4. Death By Audio Fuzz War - What To Know Where To Buy: https://equipboard.com/items/death-by-audio-fuzz-war
+5. Death by Audio Fuzz War – United States: https://www.thomannmusic.com/death_by_audio_fuzz_war.htm
+6. open prime modal: https://www.amazon.com/clp/B003TIV8A6

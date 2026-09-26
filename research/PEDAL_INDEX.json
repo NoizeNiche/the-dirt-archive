@@ -3316,8 +3316,8 @@
       "research_record": "./research/pedals/PRP Batch 050/Destroyer.md",
       "image_source_url": "https://www.amtechhandwired.com/wp-content/uploads/2024/03/DSC06957bCD-1536x358.jpg",
       "image_source_page": "https://www.amtechhandwired.com/?page_id=732",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AMtech Handwired",
@@ -4941,8 +4941,8 @@
       "research_record": "./research/pedals/Audio Monk/Rubie Drive.md",
       "image_source_url": "https://www.rock-gear.de/out/pictures/generated/product/thumb/185_150_90/audio_monk_rubie_drive_01.jpg",
       "image_source_page": "https://www.rock-gear.de/Audio-Monk/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Audio Squared",
@@ -8490,8 +8490,8 @@
       "research_record": "./research/pedals/Beta Aivin/BOD-1 Bass Overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/betaaivin/100/bod1",
       "image_source_url": "https://rvb-img.reverb.com/i/s--CRo-YtDA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ktwe69qltfzjxjhw4kpk.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Beta Aivin",
@@ -9370,8 +9370,8 @@
       "research_record": "./research/pedals/PRP Batch 084/Pig Stomp.md",
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/PIG-19.jpg",
       "image_source_page": "https://bigknobpedals.com/product/pig-stomp/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -9385,8 +9385,8 @@
       "research_record": "./research/pedals/PRP Batch 084/Pink Freud.md",
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/FREUD-11.jpg",
       "image_source_page": "https://bigknobpedals.com/product/pink-freud/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -9399,8 +9399,8 @@
       "research_record": "./research/pedals/PRP Batch 084/Range Blaster.md",
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/RANGE-20.jpg",
       "image_source_page": "https://bigknobpedals.com/product/range-blaster/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -9419,8 +9419,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/RATPAK-21.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -26718,8 +26718,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/stardust-v3/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Stardust V3.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -26732,8 +26732,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/starlight/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Starlight.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -26745,8 +26745,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/triptychon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Triptychon.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -26772,8 +26772,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/unobtanium/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Unobtanium.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -26784,8 +26784,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/unobtanium-klon-dumble/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Unobtanium - Klon + Dumble.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -26798,8 +26798,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/unobtanium-raw/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Unobtanium Raw.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -26824,8 +26824,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/venus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Venus.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -29270,8 +29270,8 @@
       "image": "./assets/pedals/death-by-audio/fuzz-war/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Fuzz War.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Death By Audio",
@@ -29284,8 +29284,8 @@
       "image": "./assets/pedals/death-by-audio/germanium-filter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Germanium Filter.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Death By Audio",

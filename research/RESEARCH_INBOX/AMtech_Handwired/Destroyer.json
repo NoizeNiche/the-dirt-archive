@@ -1,0 +1,17 @@
+{
+  "builder": "AMtech Handwired",
+  "pedal": "Destroyer",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.amtechhandwired.com/?page_id=732",
+      "title": "AMTECH-HANDWIRED / SARINTEN PEDALS \u2014 Destroyer",
+      "h1": "Destroyer",
+      "excerpt": "Destroyer is an analog distortion designed to cover a broad range from clean/low-gain drive through overdrive, crunch and heavy distortion. The builder documents independent BOOST and LEAD functions plus an independent cabinet simulator and true bypass. The pedal uses a GAIN control and a multi-position toggle system with tight/basic and fat-mode choices. The builder presents a wide-range analog distortion that can move from relatively clean operation through overdrive and crunch into heavy, punchy gain, with emphasis on picking response, string clarity, and fat American-style through leaner British-style character.",
+      "host": "www.amtechhandwired.com",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

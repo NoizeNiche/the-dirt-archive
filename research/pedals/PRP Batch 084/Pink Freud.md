@@ -9,3 +9,21 @@ Hybrid fuzz/overdrive combining a classic germanium Fuzz Face-style fuzz with an
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+While we appreciate our good friend Gearmanndude showcasing the Freud, setting his DrZ to a slight crunch – while the proper setting for a conventional fuzz pedal – didn’t really do it justice here.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The best of both worlds – fuzz and overdrive – in a single pedal!
+Freud provides the perfect cure for fuzz sounding thin and stark by adding a built-in overdrive at the end of a classic FF fuzz circuit.
+A versatile pedal, Pink Freud goes from screaming fuzz to shimmering clean, all with a simple roll-off of your guitar’s volume knob.
+
+### Sources checked in this pass
+1. Pink Freud – Big Knob Pedals: https://bigknobpedals.com/product/pink-freud/

@@ -48,3 +48,21 @@ The verified sources consistently describe Starlight as smooth and sustaining, w
 2. PedalFilter - Starlight
 3. Riff Pedal - Starlight Fuzz
 4. Ampcab - Starlight
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+$213.84 $106.92 Crazy Tube Circuits Starlight Fuzz: smooth fuzz distortion with endless sustain for the soloistThe Crazy Tube Circuits Starlight Fuzz is specifically designed for guitarists seeking a smooth, fluid fuzz distortion that's perfect for solo playing.
+
+### Verified sound evidence
+Fuzz Smooth, liquid fuzz-distortion built for soaring solos and endless sustain.
+The Starlight combines JFET and MOSFET gain stages for a smooth, liquid fuzz-distortion voiced for lead playing.
+A huge gain range delivers everything from low-gain edgy breakup to thick, soaring fuzz with fat mids and creamy highs, all with a natural sagging compression that provides sustain and feedback without losing note definition.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits - Starlight: https://www.masterguitarworks.com/products/crazy-tube-circuits-starlight/
+2. Starlight — Crazy Tube Circuits Fuzz Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/crazy-tube-circuits/starlight
+3. Crazy Tube Circuits Starlight | pedals: fuzz | ampcab.com: https://www.ampcab.com/product/crazy-tube-circuits-starlight/
+4. Crazy Tube Circuits Starlight Fuzz - Guitar Pedals for Tone, Drive & Creative Sound: https://www.riffpedal.com/product/crazy-tube-circuits-starlight-fuzz/

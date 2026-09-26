@@ -45,3 +45,29 @@ Start with a console-style drive circuit, made from obsolete germanium transisto
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Germanium Filter is our love letter to sticking a pencil through your speaker.
+
+### Verified color/finish evidence
+- Start with a console-style drive circuit, made from obsolete germanium transistors, and finish it off with a super intense DBA-style filter, and BLAMO!
+- Start with a console-style drive circuit, add in a dash of obsolete germanium transistors, and finish it off with a super intense DBA-style filter, and BLAMO!
+
+### Verified sound evidence
+/ Notify me when this product is available: Notify me when this product is available: Qty Add to cart TRUE VINTAGE DISTORTION.
+Start with a console-style drive circuit, made from obsolete germanium transistors, and finish it off with a super intense DBA-style filter, and BLAMO!
+The Filter control is extremely versatile - it’ll take you from bottomless, sub-woofered out lows to super searing and brittle highs, with a universe of tone in between.
+
+### Sources checked in this pass
+1. GERMANIUM FILTER - Death By Audio: https://deathbyaudio.com/products/germanium-filter
+2. Death By Audio Germanium Filter - Reverb: https://reverb.com/p/death-by-audio-germanium-filter
+3. GERMANIUM FILTER - Death by audio | MUTAN: https://www.mutanmonkeyinstruments.com/product-page/germanium-filter-death-by-audio
+4. Death by Audio Germanium Filter Distortion Pedal | Pedalzoo: https://pedalzoo.com/en-int/products/death-by-audio-germanium-filter
+5. Death By Audio Germanium Filter: https://briansguitars.com/products/death-by-audio-germanium-filter-1
+6. Death By Audio Germanium Filter: https://bsmusicshop.com/products/death-by-audio-germanium-filter
+7. Death By Audio Germanium Filter – BuyOrBorrow Music: https://buyorborrowmusic.com/death-by-audio-germanium-filter/
+8. The Death By Audio Germanium Filter: Circuit Archaeology, Sonic Character, and Practical Integration | GearStrings: https://gearstrings.com/music-theory/death-by-audio-germanium-filter

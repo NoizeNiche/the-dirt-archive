@@ -9,3 +9,22 @@ Big Knob's own Muff mash-up, described as a high-gain fuzz monster with an alt-f
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Pig Stomp is definitely a case of alt-fuzz love.
+
+### Verified version references
+- The evidence references: Version 6.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Pig Stomp is definitely a case of alt-fuzz love.
+
+### Sources checked in this pass
+1. Pig Stomp – Big Knob Pedals: https://bigknobpedals.com/product/pig-stomp/
