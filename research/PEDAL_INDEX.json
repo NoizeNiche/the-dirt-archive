@@ -32856,8 +32856,8 @@
       "image": "./assets/pedals/fender/hammertone-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Hammertone Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -32868,8 +32868,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fender/MTG Tube Distortion Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -43039,8 +43039,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Old Blood Noise Endeavors/Pardner.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Orange Amplification",

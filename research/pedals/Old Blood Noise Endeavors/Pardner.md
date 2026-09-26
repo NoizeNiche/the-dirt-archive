@@ -1,23 +1,44 @@
 # Old Blood Noise Endeavors — Pardner
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Pardner
 - **Builder:** Old Blood Noise Endeavors
-- **Pedal:** Pardner
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Old Blood Noise Endeavors's Pardner.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Pardner** by **Old Blood Noise Endeavors** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Pardner Fuzz vs Alpha Haunt The Alpha Haunt is the natural OBNE sibling to consider.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Old Blood Noise Endeavors &mdash; Pardner Skip to Content Open Menu Close Menu home pedals all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters merchandise accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account 0 0 Open Menu Close Menu home pedals all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters merchandise accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account 0 0 home Folder: pedals Back all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters Folder: merchandise Back accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account pedals &rsaquo; Pardner Image 1 of 9 Image 2 of 9 Image 3 of 9 Image 4 of 9 Image 5 of 9 Image 6 of 9 Image 7 of 9 Image 8 of 9 Image 9 of 9 Pardner $239.00 Color: Tan Purple Blue </svg
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Old Blood Noise Endeavors &mdash; Pardner Skip to Content Open Menu Close Menu home pedals all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters merchandise accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account 0 0 Open Menu Close Menu home pedals all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters merchandise accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account 0 0 home Folder: pedals Back all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters Folder: merchandise Back accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account pedals &rsaquo; Pardner Image 1 of 9 Image 2 of 9 Image 3 of 9 Image 4 of 9 Image 5 of 9 Image 6 of 9 Image 7 of 9 Image 8 of 9 Image 9 of 9 Pardner $239.00 Color: Tan Purple Blue </svg
+Old Blood Noise Endeavors Pardner Fuzz Review &ndash; Russo Music "use strict";(()=>{function readTemplates(){let templates={};templates= { "quickView": "\u003c!-- TEMPLATE QUICK VIEW --\u003e{% assign isShowMediaEnabled = false %}{%- comment -%} Split and Prioritize Media: video \u003e gif \u003e image {%- endcomment -%}{% assign videoGroup = \"\" | split: \"\" %}{% assign gifGroup = \"\" | split: \"\" %}{% assign imageGroup = \"\" | split: \"\" %}{% if product.media and product.media.size \u003e 0 %}{% for item in product.media %}{%- comment -%} check VIDEO {%- endcomment -%}{% if item.mediaContentType == 'VIDEO' %}{% if isShowMediaEnabled %}{% assign item_as_array = item | Array %}{% assign videoGroup = videoGroup | concat: item_as_array %}{% endif %}{%- comment -%} check GIF {%- endcomment -%}{% elsif item.mediaContentType == 'IMAGE' and item.image.originalSrc contains '.gif' %}{% if isShowMediaEnabled %}{% assign item_as_array = item | Array %}{% assign gifGroup = gifGroup | concat: item_as_array %}{% endif %}{%- comment -%}check img {%- endcomment -%}{% else %}{% assign item_as_array = item | Array %}{% assign imageGroup = imageGroup | concat: item_as_array %}{% endif %}{% endfor %}{% endif %}{% assign cleanMedia = videoGroup | concat: gifGroup | concat: imageGroup %}{%- comment -%} Fallback if cleanMedia[] {%- endcomment -%}{% if cleanMedia.size == 0 %}{% if product.images_info and product.images_info.size \u003e 0 %}{% assign cleanMedia = product.images_info %}{% elsif product.no_image %}{% assign no_image_as_array = product.no_image | Array %}{% assign cleanMedia = no_image_as_array %}{% endif %}{% endif %}{% assign show_prev_next_btns = cleanMedia.size \u003e 4 %}{% capture productData %}{\"id\": \"{{ product.id }}\",\"handle\": \"{{ product.handle }}\",\"variantId\": \"{{ product.variant_id }}\",\"splitProduct\": \"{{ product.split_product }}\",\"variants\": {{ product.variants | json | escape }},\"tags\": {{ product.tags | json | escape }},\"images\": {{ cleanMedia | json | escape }},\"media\": {{ cleanMedia | json | escape }},\"category\": \"{{ product.product_type | escape }}\",\"priceMin\": \"{{ product.price_min }}\",\"options_with_values\": {{ product.options_with_values | json | escape }}}{% endcapture %}{% if product.variants.size == 1 and product.variants.title == 'Default Title' %}{% assign isDefaultOption = true %}{% else %}{% assign isDefaultOption = false %}{% endif %}\u003cdiv aria-modal=\"true\" role=\"dialog\" aria-label=\"Quick view detail for product {{ product.title | escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData | json_encode }}'\u003e\u003cdiv class=\"boost-sd__modal-backdrop\"\u003e\u003c\/div\u003e\u003cdiv class=\"boost-sd__modal-container\"\u003e \u003cdiv tabindex=\"-1\" class=\"boost-sd__modal-wrapper\"\u003e \u003cdiv class=\"boost-sd__quick-view\" product-id=\"{{ product.id }}\"\u003e \u003cdiv class=\"boost-sd__quick-view-product-image\"\u003e \u003cdiv class=\"boost-sd__slider boost-sd__slider--thumb-vertical\"\u003e \u003cdiv class=\"boost-sd__thumbs-container boost-sd__thumbs-container--vertical\"\u003e {% if show_prev_next_btns %} \u003cdiv class=\"boost-sd__thumbs-container-prev-button boost-sd__thumbs-container-prev-button--vertical\"\u003e\u003cbutton type=\"button\" aria-label=\"Previous\" class=\"boost-sd__button boost-sd__button--circle boost-sd__button--full-width\" style=\"padding: 0px;\" disabled=\"\"\u003e\u003cspan class=\"boost-sd__icon\" style=\"margin: 0px;\"\u003e \u003csvg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" fill=\"none\" viewBox=\"0 0 10 7\" height=\"7\" width=\"10\" class=\"boost-sd__thumbs-container-button-icon\"\u003e \u003cpath stroke-linejoin=\"round\" stroke-linecap=\"round\" stroke=\"currentColor\" d=\"M0.764024 5.51189L5.00002 1.28789L9.23602 5.51189\"\u003e\u003c\/path\u003e \u003c\/svg\u003e \u003c\/span\u003e\u003c\/button\u003e\u003c\/div\u003e {% endif %
+--> Old Blood Noise Endeavors Pardner Fuzz Demo Review | Loopy Demos Show or hide the side bar navigation Loopy Demos Demos Posts Manufacturers About Contact Demos Posts Manufacturers About Contact All demos Old Blood Noise Endeavors Pardner Fuzz Sep 26, 2024 Read next Best Pedals for Ambient and Experimental Music in 2025 The Pardner Fuzz by Old Blood Noise Endeavors goes beyond the standard ways of smashing your sound.
+
+## Sources checked
+1. Old Blood Noise Endeavors Pardner Fuzz - Equipboard: https://equipboard.com/items/old-blood-noise-endeavors-pardner-fuzz
+2. Old Blood Noise Endeavors &mdash; Pardner: https://oldbloodnoise.com/pedals/p/pardner-fuzz
+3. Old Blood Noise Endeavors Pardner Fuzz Review &ndash; Russo Music: https://www.russomusic.com/blogs/reviews/old-blood-noise-endeavors-pardner-fuzz-review
+4. Old Blood Noise Endeavors Pardner | The Pedal Zone: https://thepedalzone.com/product/old-blood-noise-endeavors-pardner/
+5. Old Blood Noise Endeavors Pardner Fuzz Demo Review | Loopy Demos: https://loopydemos.com/demos/old-blood-noise-endeavors-pardner-fuzz/
+6. Pardner by Old Blood Noise Endeavors | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Old-Blood-Noise-Endeavors/Pardner/514759572/
+7. Old Blood Noise Endeavors Pardner Fuzz Effects Pedal Tan | Guitar Center: https://www.guitarcenter.com/Old-Blood-Noise-Endeavors/Pardner-Fuzz-Effects-Pedal-Tan-1500000442387.gc
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
