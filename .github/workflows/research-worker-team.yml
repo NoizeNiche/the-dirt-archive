@@ -257,8 +257,8 @@ jobs:
             echo "ERROR: one or more canonical research files created by this pass were not linked into the canonical tracker."
             exit 1
           fi
-          if [ "$delta" -lt "$created_records" ]; then
-            echo "ERROR: canonical research movement was smaller than the number of new records created by this pass."
+          if [ "$created_records" -gt 0 ] && [ "$delta" -ne "$created_records" ]; then
+            echo "ERROR: canonical research count delta does not match the number of genuinely new research records created by this pass."
             exit 1
           fi
           if [ "$delta" -ne "$newly_linked" ]; then
