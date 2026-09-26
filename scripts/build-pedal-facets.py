@@ -121,15 +121,24 @@ def build() -> dict:
 
         markdown = source.read_text(encoding="utf-8")
         parsed = sections(markdown)
-        transistor_text = " ".join(
-            labelled_values(parsed.get("transistor", ""), TRANSISTOR_LABELS)
-        )
-        diode_text = " ".join(
-            labelled_values(parsed.get("diode", ""), DIODE_LABELS)
-        )
+        transistor_values = labelled_values(parsed.get("transistor", ""), TRANSISTOR_LABELS)
+        diode_values = labelled_values(parsed.get("diode", ""), DIODE_LABELS)
 
-        transistor = classify(transistor_text, VALID_TRANSISTOR)
-        clipping = classify(diode_text, VALID_CLIPPING, diode=True)
+        transistor: list[str] = []
+        for value in transistor_values:
+            for item in classify(value, VALID_TRANSISTOR):
+                if item not in transistor:
+                    transistor.append(item)
+        clipping: list[str] = []
+        for value in diode_values:
+            for item in classify(value, VALID_CLIPPING, diode=True):
+                if item not in clipping:
+                    clipping.append(item)
+
+        if "Germanium" in transistor and "Silicon" in transistor:
+            transistor = ["Mixed"]
+        if "Germanium" in clipping and "Silicon" in clipping:
+            clipping = ["Mixed"]
         if not transistor and not clipping:
             continue
 
