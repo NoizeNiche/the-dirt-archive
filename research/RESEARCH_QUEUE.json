@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T01:24:01.502251+00:00",
+  "generated_at": "2026-09-26T01:29:53.734982+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,177 +10,23 @@
     "pictured": 2462,
     "complete": 2462,
     "research_pending": 0,
-    "deep_research_pending": 3563,
-    "deep_researched": 197,
+    "deep_research_pending": 3499,
+    "deep_researched": 262,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "A.Y.A",
-    "pedal": "Bass Fuzz",
+    "builder": "AboveGroundFX",
+    "pedal": "El Griton Overdrive",
     "catalog_type": "",
-    "research_record": "./research/pedals/A.Y.A/Bass Fuzz.md",
+    "research_record": "./research/pedals/AboveGroundFX/El Griton Overdrive.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "A.Y.A",
-      "pedal": "Bass Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/A.Y.A/Bass Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "A.Y.A",
-      "pedal": "BM-Fuzz 70",
-      "catalog_type": "",
-      "research_record": "./research/pedals/A.Y.A/BM-Fuzz 70.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "A.Y.A",
-      "pedal": "BM-Fuzz 80",
-      "catalog_type": "",
-      "research_record": "./research/pedals/A.Y.A/BM-Fuzz 80.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "A.Y.A",
-      "pedal": "Drivesta",
-      "catalog_type": "",
-      "research_record": "./research/pedals/A.Y.A/Drivesta.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "A.Y.A",
-      "pedal": "Frontgate Bass Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/A.Y.A/Frontgate Bass Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "A/DA",
-      "pedal": "APP-1 Pedal Preamp with D-Torsion Core",
-      "catalog_type": "",
-      "research_record": "./research/pedals/A/DA/APP-1 Pedal Preamp with D-Torsion Core.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "A/DA",
-      "pedal": "Final Phase",
-      "catalog_type": "",
-      "research_record": "./research/pedals/A/DA/Final Phase.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "A/DA",
-      "pedal": "MP-1 Channel",
-      "catalog_type": "",
-      "research_record": "./research/pedals/A/DA/MP-1 Channel.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Abasi Concepts",
-      "pedal": "Pathos Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Abasi Concepts/Pathos Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "AbbyTone",
-      "pedal": "Screwed Driver",
-      "catalog_type": "",
-      "research_record": "./research/pedals/AbbyTone/Screwed Driver.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "ABL Pedals",
-      "pedal": "The Szczur",
-      "catalog_type": "",
-      "research_record": "./research/pedals/ABL Pedals/The Szczur.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "ABL Pedals",
-      "pedal": "The Toor",
-      "catalog_type": "",
-      "research_record": "./research/pedals/ABL Pedals/The Toor.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Abominable Electronics",
-      "pedal": "Cat Dirt Mini - Killer Acid Artwork",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Abominable Electronics/Cat Dirt Mini - Killer Acid Artwork.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Abominable Electronics",
-      "pedal": "Demon Lung",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Abominable Electronics/Demon Lung.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Abominable Electronics",
-      "pedal": "Hail Satan",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Abominable Electronics/Hail Satan.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Abominable Electronics",
-      "pedal": "Hail Satan Deluxe",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Abominable Electronics/Hail Satan Deluxe.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Abominable Electronics",
-      "pedal": "Hellmouth",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Abominable Electronics/Hellmouth.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Abominable Electronics",
-      "pedal": "Oppressive Cult Destroyer",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Abominable Electronics/Oppressive Cult Destroyer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Abominable Electronics",
-      "pedal": "Throne Torcher",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Abominable Electronics/Throne Torcher.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Abominable Electronics",
-      "pedal": "Toke Machine",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Abominable Electronics/Toke Machine.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Abominable Electronics",
-      "pedal": "Yeti Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Abominable Electronics/Yeti Fuzz.md",
-      "research_level": "surface"
-    },
     {
       "builder": "AboveGroundFX",
       "pedal": "El Griton Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/AboveGroundFX/El Griton Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "AboveGroundFX",
-      "pedal": "Rocks Hard",
-      "catalog_type": "",
-      "research_record": "./research/pedals/AboveGroundFX/Rocks Hard.md",
       "research_level": "surface"
     },
     {
@@ -191,10 +37,164 @@
       "research_level": "surface"
     },
     {
-      "builder": "AC Efectos",
-      "pedal": "Green 808 Overdrive",
+      "builder": "Accel Audio",
+      "pedal": "OD-SS Express Overdrive",
       "catalog_type": "",
-      "research_record": "./research/pedals/AC Efectos/Green 808 Overdrive.md",
+      "research_record": "./research/pedals/Accel Audio/OD-SS Express Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Accel Audio",
+      "pedal": "Stompzilla Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Der Fuzzer",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Der Fuzzer.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Fuzz Face",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Fuzz Face.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Fuzz Machine",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Fuzz Machine.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Great White",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Great White.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Great White 2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Great White 2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Ratortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Ratortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Ratortion 2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Ratortion 2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Ratortion 3",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Ratortion 3.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Ratortion 3 v2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Ratortion 3 v2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Shredder",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Shredder.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Super Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Super Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Super Drive 2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Super Drive 2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Tiger Shark",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Tiger Shark.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Tube Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Tube Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Tube Drive 2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Add+ Pedals",
+      "pedal": "Tube Drive Silver Edition",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Add+ Pedals/Tube Drive Silver Edition.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Addrock Musical Products",
+      "pedal": "Boostmaster",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Addrock Musical Products/Boostmaster.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Addrock Musical Products",
+      "pedal": "Geranium Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Addrock Musical Products/Geranium Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Addrock Musical Products",
+      "pedal": "Hism Scism",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Addrock Musical Products/Hism Scism.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Addrock Musical Products",
+      "pedal": "Not So Ol' Yeller",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Addrock Musical Products/Not So Ol' Yeller.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Addrock Musical Products",
+      "pedal": "Ol' Yeller",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Addrock Musical Products/Ol' Yeller.md",
       "research_level": "surface"
     }
   ]

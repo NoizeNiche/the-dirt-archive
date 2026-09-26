@@ -1,0 +1,25 @@
+{
+  "builder": "Leqtique",
+  "pedal": "9/9 EVR",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://leqtique.ch/en/products/99evr-release",
+      "title": "9/9 EVR &ndash; Leqtiqueshop",
+      "h1": "9/9 EVR",
+      "excerpt": "9/9 EVR &ndash; Leqtiqueshop Skip to content Submit Close search Leqtiqueshop Submit Search Log in Cart 9/9 EVR Regular price $210.00 Sale Default Title - Sold out Quantity Sold out 9/9 EVR Gallery The Leqtique 9/9, released in 2013, has been our brand's best-selling distortion model for many years. Even now, 12 years later, the only distortion pedals that use the four-stage depletion-type MOSFETs that make up the 9/9 solely as the distortion element are this pedal, the 10/10, and its variations (6/6, etc.). The technique of using a type of transistor called a FET as a substitute for a vacuum tube within an amplifier circuit is now widely used because it produces a significantly different circuit and sound from those that use an op-amp, which is the most common method of creating distortion effects. MOSFETs generally operate in what is known as an enhancement type mode, which means that their behavior is fundamentally different from that of FETs, so the above method cannot be used. However, depletion type MOSFETs, although very rare, have become common in the electronic components industry since the 2010s, and they share many behaviors with FETs, making it possible to similarly configure a multi-stage distortion circuit by treating a single element like an ultra-small vacuum tube. When using MOSFETs to create distortion effects, they don't have the ultra-low noise of FETs, but the biggest advantage I discovered was the balance of the second and third harmonics they produce (although this varies greatly depending on the operating point used). A multi-stage distortion circuit section made up of DMOSFETs produces more second harmonics than a similar FET-based construction, which greatly contributes to giving 9/9 a tight yet mellow distortion sound. The 9/9 was born as this \"Harmonic High Gain Distortion,\" and in fact, it was by far the longest-lasting circuit design of all Leqtique pedals. Even after 12 years, no fundamental changes have been made. Instead, the EVR update includes subtle adjustments to the operating points of each distortion section (though without any major sound changes), and the Treble control has been expanded to a much wider range, influenced by the subsequent 10/10 and 11/11. This is similar to the RED \u2192 RED EVR update, but it expands the range of more harmonic lead sounds, tight, sharp riffing, and chord work sounds. As was the case during the Leqtique era, the 9/9 EVR is the flagship distortion model of the Leqtique EVR, and is especially recommended for users who like Leqtique - 10/10 11/11, as it helps them understand the brand concept. *All controls are the same as the original Leqtique 9/9, including the Mid Control inside. Shun Nokina About the \"EVR\" concept Since 2019, I have been based in Europe and have been involved in the design of several pedals, but the Leqtique pedal line has essentially been on hiatus without releasing any new products. However, by temporarily moving my base to Iceland in 2024, I was able to gain some wonderful inspiration, and have continued to design all of them as an updated package called \"EVR.\" \"EVR\" is the Icelandic word for Europe. The letters strongly evoke the idea that the pedals embody the inspiration and experiences gained over many years of traveling and living in various parts of Europe. The Leqtique pedals originally embodied a strong desire for Europe, with their vibrant paintwork and dark sound, but now they are more clearly embodied as a more real-world experience. Leqtique pedals, which have not received an update in 15 years, have been completely redesigned from the ground up, including the housing, all components, and concept. For example, the housing, which was previously a one-piece machined aluminum body, has been redesigned from a standard \"box\" design with a wide tolerance range, but has been completely redesigned specifically for the Leqtique EVR pedal. By rethinking the advantages of a one-piece design, the previously aluminum-only construction ha",
+      "host": "leqtique.ch",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/102304597-leqtique-9-9-evr-distortion-boutique-made-in-japan",
+      "title": "Leqtique 9/9 EVR Distortion Boutique made in Japan - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

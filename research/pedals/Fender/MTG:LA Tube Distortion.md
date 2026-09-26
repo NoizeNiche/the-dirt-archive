@@ -1,23 +1,41 @@
 # Fender — MTG:LA Tube Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** MTG:LA Tube Distortion
 - **Builder:** Fender
-- **Pedal:** MTG:LA Tube Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Fender's MTG:LA Tube Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **MTG:LA Tube Distortion** by **Fender** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Fender MTG:LA Tube Distortion Pedal - Moore Guitars Financing Options Player-Perfect ™ Setup Trade-Ins Accepted Products search (888) 794-8482 Talk to a fellow musician 0 0 &#036; 0.00 Hot Deals New Arrivals Used Guitars Electric Guitars Casino ES-355 Firebird V Flying V Les Paul SG Sheraton ES-339 Artist Casino ES-355 Firebird V Flying V Les Paul SG Sheraton ES-339 Artist American Professional II American Ultra Luxe American Ultra II American Vintage II Artist Custom Shop Player II Player Vintera II American Professional II American Ultra Luxe American Ultra II American Vintage II Artist Custom Shop Player II Player Vintera II Custom Shop ES-335 ES-339 ES-345 Firebird Flying V Les Paul Explorer ES-330 Artist Victory Custom Shop ES-335 ES-339 ES-345 Firebird Flying V Les Paul Explorer ES-330 Artist Victory T-Series T-Series Acoustic Guitars Hummingbird J-45 Dove SJ-200 Artist Hummingbird J-45 Dove SJ-200 Artist California (CD) Series Paramount (PM) Series Artist California (CD) Series Paramount (PM) Series Artist Custom Dove Hummingbird J-45 L-00 Original SJ-200 Songwriter Standard Studio Artist Custom Dove Hummingbird J-45 L-00 Original SJ-200 Songwriter Standard Studio Artist 000 (Auditorium) 00 (Grand Concert) Custom Shop D (Dreadnought) GP (Grand Performance) LX (Little Martin) OM (Orchestra Model) SC (Single Cutaway) Standard Artist 000 (Auditorium) 00 (Grand Concert) Custom Shop D (Dreadnought) GP (Grand Performance) LX (Little Martin) OM (Orchestra Model) SC (Single Cutaway) Standard Artist 100 Series 200 Series 300 Series 400 Series 500 Series 600 Series 700 Series 800 Series 900 Series Academy American Dream Builder’s Edition Custom GA (Grand Auditorium) GC (Grand Concert) Gold Label GP (Grand Pacific) GS Mini Guitars 4 Vets Koa Legacy T5z V-Class Baby Taylor Big Baby Taylor Super Auditorium Artist 100 Series 200 Series 300 Series 400 Series 500 Series 600 Series 700 Series 800 Series 900 Series Academy American Dream Builder’s Edition Custom GA (Grand Auditorium) GC (Grand Concert) Gold Label GP (Grand Pacific) GS Mini Guitars 4 Vets Koa Legacy T5z V-Class Baby Taylor Big Baby Taylor Super Auditorium Artist Bass Guitars Aged American Professional Classic Custom Shop Heavy Relic Jazz Bass P-Jazz Bass Journeyman Player II Precision Bass Relic Squier Standard Super Faded Telecaster Bass Artist Aged American Professional Classic Custom Shop Heavy Relic Jazz Bass P-Jazz Bass Journeyman Player II Precision Bass Relic Squier Standard Super Faded Telecaster Bass Artist SG Thunderbird Artist SG Thunderbird Artist Amps Pedals Pedal Brands Boss Catalinbread Darkglass Electronics Earthquaker Devices Electro-Harmonix Eventide Fender Fishman Genzler JHS Keeley LR Baggs Maestro Matthews Effects Mesa/Boogie Mooer MXR Source Audio Strymon Victory Wampler Way Huge Xotic Boss Catalinbread Darkglass Electronics Earthquaker Devices Electro-Harmonix Eventide Fender Fishman Genzler JHS Keeley LR Baggs Maestro Matthews Effects Mesa/Boogie Mooer MXR Source Audio Strymon Victory Wampler Way Huge Xotic Pedal Effect Type Boost Cabinet Simulator Chorus Compression Delay Distortion Equalization Fuzz Looper Modulation Multi-Effect Overdrive Preamp Reverb Signal Management Tremolo Wah Weirdville Boost Cabinet Simulator Chorus Compression Delay Distortion Equalization Fuzz Looper Modulation Multi-Effect Overdrive Preamp Reverb Signal Management Tremolo Wah Weirdville Accessories Capos Tuners Gig Bags/Cases Guitar Cloths Polish &#038; Lubricants Guitar Slides Guitar Straps and Strap Accessories Humidifiers/Humidity Control Instrument Cables Moore Merch Pick Holder Picks Pickups Rod Wrench Stands Strings Tuning Machines Capos Tuners Gig Bags/Cases Guitar Cloths Polish &#038; Lubricants Guitar Slides Guitar Straps and Strap Accessories Humidifiers/Humidity Control Instrument Cables Moore Merch Pick Holder Picks Pickups Rod Wrench Stands Strings Tuning Machines The Player-Perfect™ Setup.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Fender MTG:LA Tube Distortion Pedal - Moore Guitars Financing Options Player-Perfect ™ Setup Trade-Ins Accepted Products search (888) 794-8482 Talk to a fellow musician 0 0 &#036; 0.00 Hot Deals New Arrivals Used Guitars Electric Guitars Casino ES-355 Firebird V Flying V Les Paul SG Sheraton ES-339 Artist Casino ES-355 Firebird V Flying V Les Paul SG Sheraton ES-339 Artist American Professional II American Ultra Luxe American Ultra II American Vintage II Artist Custom Shop Player II Player Vintera II American Professional II American Ultra Luxe American Ultra II American Vintage II Artist Custom Shop Player II Player Vintera II Custom Shop ES-335 ES-339 ES-345 Firebird Flying V Les Paul Explorer ES-330 Artist Victory Custom Shop ES-335 ES-339 ES-345 Firebird Flying V Les Paul Explorer ES-330 Artist Victory T-Series T-Series Acoustic Guitars Hummingbird J-45 Dove SJ-200 Artist Hummingbird J-45 Dove SJ-200 Artist California (CD) Series Paramount (PM) Series Artist California (CD) Series Paramount (PM) Series Artist Custom Dove Hummingbird J-45 L-00 Original SJ-200 Songwriter Standard Studio Artist Custom Dove Hummingbird J-45 L-00 Original SJ-200 Songwriter Standard Studio Artist 000 (Auditorium) 00 (Grand Concert) Custom Shop D (Dreadnought) GP (Grand Performance) LX (Little Martin) OM (Orchestra Model) SC (Single Cutaway) Standard Artist 000 (Auditorium) 00 (Grand Concert) Custom Shop D (Dreadnought) GP (Grand Performance) LX (Little Martin) OM (Orchestra Model) SC (Single Cutaway) Standard Artist 100 Series 200 Series 300 Series 400 Series 500 Series 600 Series 700 Series 800 Series 900 Series Academy American Dream Builder’s Edition Custom GA (Grand Auditorium) GC (Grand Concert) Gold Label GP (Grand Pacific) GS Mini Guitars 4 Vets Koa Legacy T5z V-Class Baby Taylor Big Baby Taylor Super Auditorium Artist 100 Series 200 Series 300 Series 400 Series 500 Series 600 Series 700 Series 800 Series 900 Series Academy American Dream Builder’s Edition Custom GA (Grand Auditorium) GC (Grand Concert) Gold Label GP (Grand Pacific) GS Mini Guitars 4 Vets Koa Legacy T5z V-Class Baby Taylor Big Baby Taylor Super Auditorium Artist Bass Guitars Aged American Professional Classic Custom Shop Heavy Relic Jazz Bass P-Jazz Bass Journeyman Player II Precision Bass Relic Squier Standard Super Faded Telecaster Bass Artist Aged American Professional Classic Custom Shop Heavy Relic Jazz Bass P-Jazz Bass Journeyman Player II Precision Bass Relic Squier Standard Super Faded Telecaster Bass Artist SG Thunderbird Artist SG Thunderbird Artist Amps Pedals Pedal Brands Boss Catalinbread Darkglass Electronics Earthquaker Devices Electro-Harmonix Eventide Fender Fishman Genzler JHS Keeley LR Baggs Maestro Matthews Effects Mesa/Boogie Mooer MXR Source Audio Strymon Victory Wampler Way Huge Xotic Boss Catalinbread Darkglass Electronics Earthquaker Devices Electro-Harmonix Eventide Fender Fishman Genzler JHS Keeley LR Baggs Maestro Matthews Effects Mesa/Boogie Mooer MXR Source Audio Strymon Victory Wampler Way Huge Xotic Pedal Effect Type Boost Cabinet Simulator Chorus Compression Delay Distortion Equalization Fuzz Looper Modulation Multi-Effect Overdrive Preamp Reverb Signal Management Tremolo Wah Weirdville Boost Cabinet Simulator Chorus Compression Delay Distortion Equalization Fuzz Looper Modulation Multi-Effect Overdrive Preamp Reverb Signal Management Tremolo Wah Weirdville Accessories Capos Tuners Gig Bags/Cases Guitar Cloths Polish &#038; Lubricants Guitar Slides Guitar Straps and Strap Accessories Humidifiers/Humidity Control Instrument Cables Moore Merch Pick Holder Picks Pickups Rod Wrench Stands Strings Tuning Machines Capos Tuners Gig Bags/Cases Guitar Cloths Polish &#038; Lubricants Guitar Slides Guitar Straps and Strap Accessories Humidifiers/Humidity Control Instrument Cables Moore Merch Pick Holder Picks Pickups Rod Wrench Stands Strings Tuning Machines The Player-Perfect™ Setup.
+Fender MTG:LA Tube Distortion | AllThePedals Articles Genealogy Browse Search results for &quot; &quot; Gain / Distortion / Fender MTG:LA Tube Distortion MTG:LA Tube Distortion The Fender MTG:LA Tube Distortion pedal delivers authentic tube-driven distortion using a genuine U.S.-made NOS 6205 preamp tube.
+Featuring a 3-band EQ, and a footswitchable boost with gain and level controls, the MTG:LA offers extensive tone-shaping capabilities.
+
+## Sources checked
+1. Fender MTG:LA Tube Distortion - Reverb: https://reverb.com/p/fender-mtg-la-tube-distortion
+2. Fender MTG:LA Tube Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/MTGLADist--fender-mtgla-tube-distortion-pedal
+3. Fender MTG:LA Tube Distortion Pedal - Moore Guitars: https://www.mooreguitars.com/fender-mtgla-tube-distortion-pedal/
+4. Fender MTG:LA Tube Distortion | AllThePedals: https://allthepedals.com/pedals/fender-mtgla-tube-distortion/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

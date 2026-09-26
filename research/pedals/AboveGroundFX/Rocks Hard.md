@@ -4,42 +4,35 @@
 - **Archive parent:** Rocks Hard
 - **Builder:** AboveGroundFX
 - **Catalog type:** Distortion
-- **Identity:** AboveGroundFX distortion introduced at Summer NAMM 2010.
+- **Identity:** AboveGroundFX's Rocks Hard.
 
 ## What this pedal is
-Rocks Hard is documented as an AboveGroundFX distortion pedal first recorded in June 2010 around Summer NAMM. The surviving Effects Database entry confirms the model and its distortion classification, but does not preserve a detailed control list or circuit description. [1][2]
+AboveGroundFX browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal events 2010 Summer NAMM 2010 AboveGroundFX Rocks Hard Published on June 19, 2010 AboveGroundFX distortion pedal Summer NAMM 2010 Summer NAMM 2010 picture by What's That Dude Play?
 
 ## Colorways
-- A production/prototype example was shown at **Summer NAMM 2010**.
-- No reliable colorway history was established from the accessible record.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Rocks Hard production
-- analog distortion pedal
-- Summer NAMM 2010 appearance
-- exact control set not reliably preserved in the accessible documentation [1][2]
-
-No numbered factory revision was verified.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No reliable numbered production revision sequence was found.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Not publicly documented.
-- **Exact diode/device:** Unknown.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The available documentation establishes Rocks Hard as a dedicated distortion rather than a fuzz or overdrive, but it does not preserve enough technical detail to make a more specific circuit claim responsibly. The archive therefore keeps its sound note broad rather than inventing a lineage that the surviving source does not actually document. [1]
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+AboveGroundFX browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal events 2010 Summer NAMM 2010 AboveGroundFX Rocks Hard Published on June 19, 2010 AboveGroundFX distortion pedal Summer NAMM 2010 Summer NAMM 2010 picture by What's That Dude Play?
+SNAMM 2010 Video Date &#x25BC;&#x25B2; Maker &#x25BC;&#x25B2; Video &#x25BC;&#x25B2; Time &#x25BC;&#x25B2; 2010-06-29 Premier Guitar Summer NAMM '10 - AboveGround FX Rocks Hard Distortion, Ropez PH Phaser & Tap Tremolo Demos 10:38 2010-06-20 What's That Dude Play?
 
 ## Sources checked
-1. Effects Database — Rocks Hard: https://www.effectsdatabase.com/model/aboveground/rockshard
-2. Effects Database — 2010 weekly overview: https://www.effectsdatabase.com/updates/weekly/20100621
+1. AboveGroundFX Rocks Hard | Effects Database: https://www.effectsdatabase.com/model/aboveground/rockshard
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.effectsdatabase.com/model/aboveground/rockshard
-- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
