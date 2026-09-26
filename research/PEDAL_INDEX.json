@@ -3938,8 +3938,8 @@
       "research_record": "./research/pedals/Anasounds/full story.md",
       "image_source_url": "https://anasounds.com/wp-content/uploads/2022/08/full_story_anasounds_mids-1209x1209.jpg",
       "image_source_page": "https://anasounds.com/the-full-story/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Anasounds",

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T21:33:16.367240+00:00",
+  "generated_at": "2026-09-26T21:35:07.520708+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2953,
     "complete": 2953,
     "research_pending": 0,
-    "deep_research_pending": 2279,
-    "deep_researched": 1482,
+    "deep_research_pending": 2278,
+    "deep_researched": 1483,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Anasounds",
-    "pedal": "full story",
+    "pedal": "high voltage",
     "catalog_type": "",
-    "research_record": "./research/pedals/Anasounds/full story.md",
+    "research_record": "./research/pedals/Anasounds/high voltage.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Anasounds",
-      "pedal": "full story",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Anasounds/full story.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Anasounds",
       "pedal": "high voltage",
@@ -195,6 +188,13 @@
       "pedal": "BC108 Fuzz Face",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 058/BC108 Fuzz Face.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Arcane Analog",
+      "pedal": "BUZZAROUND OC45 / OC45 / OC43",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 058/BUZZAROUND OC45 - OC45 - OC43.md",
       "research_level": "surface"
     }
   ]
