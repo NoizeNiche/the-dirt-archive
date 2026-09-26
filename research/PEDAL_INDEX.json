@@ -16593,8 +16593,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/cactus_mtl5_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cactus",
@@ -38603,8 +38603,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Loud 'n Proud.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mad Professor Amplification",

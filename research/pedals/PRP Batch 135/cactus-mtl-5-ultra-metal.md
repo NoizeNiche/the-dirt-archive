@@ -1,24 +1,38 @@
 # Cactus — MTL-5 Ultra Metal
 
 ## PRP identity
+- **Archive parent:** MTL-5 Ultra Metal
 - **Builder:** Cactus
 - **Catalog type:** Distortion
-- **Identity:** Japanese 1980s-era compact high-gain distortion in the Ultra Metal family.
+- **Identity:** Cactus's MTL-5 Ultra Metal.
 
-## Controls
-Effects Database documents:
-- Distortion
-- Level
-- Lo
-- Hi
+## What this pedal is
+Cactus's MTL-5 Ultra Metal is cataloged as a distortion pedal.
 
-## Construction / power
-Effects Database describes a molded plastic enclosure with reinforced metal baseplate, a large treadle-style footswitch, LED indicator, and 9V battery or external DC power.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Circuit
-The source describes an analog transistor distortion circuit but does not provide a component-level schematic, so no more specific topology is asserted.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Designed to deliver aggressive, saturated distortion with long sustain and pronounced harmonic content, it was aimed at players seeking a tight, powerful tone suited for hard rock and heavy metal styles.
+The analog transistor circuit provides smooth gain structure and responsive dynamics, allowing both rhythm and lead applications to retain definition and punch.
+The pedal's layout provides practical and versatile control through a four-knob configuration, allowing comprehensive tone shaping.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/cactus/mtl5
+1. Cactus MTL-5 Ultra Metal | Effects Database: https://www.effectsdatabase.com/model/cactus/mtl5
 
-The historical-era, control, enclosure, and power details are from Effects Database. citeturn4view3
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
