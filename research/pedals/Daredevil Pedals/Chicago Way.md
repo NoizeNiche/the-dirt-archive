@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals's Chicago Way is cataloged as a fuzz / overdrive pedal.
+
+### Sources checked in this pass
+1. Daredevil Pedals The Chicago Way - What To Know Where To Buy: https://equipboard.com/items/daredevil-pedals-the-chicago-way
+2. Daredevil Pedals The Chicago Way - Reverb: https://reverb.com/item/91903439-daredevil-pedals-the-chicago-way

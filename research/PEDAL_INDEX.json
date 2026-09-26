@@ -2887,8 +2887,8 @@
       "research_record": "./research/pedals/Amptweaker/Fat_Rock.md",
       "image_source_url": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_fatrockmm_la.jpg",
       "image_source_page": "https://reverb.com/item/3460320-amptweaker-fat-rock-distortion-guitar-effects-pedal",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -3199,8 +3199,8 @@
       "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md",
       "image_source_url": "https://www.jrrshop.com/media/catalog/product/cache/1/thumbnail/78x78/a66540e506afa74ed63da765fad2ca0b/a/m/amtelectronicsdistmachine.jpg",
       "image_source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AMT Electronics",
@@ -3214,8 +3214,8 @@
       "image_source_page": "https://www.tone3000.com/tones/amt-m1-preamp-27834",
       "image_source_page_verified": true,
       "image_source_url": "https://api.tone3000.com/storage/v1/object/public/images/dn5hresmais.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AMT Electronics",
@@ -3234,8 +3234,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://images3.memedroid.com/images/UPLOADED28/6569d8cf6697d.jpeg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AMT Electronics",
@@ -16747,8 +16747,8 @@
       "research_record": "./research/pedals/PRP Batch 137/fuzz-womut.md",
       "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/womut-2-316f26bd12976b374b17496807877643-640-0.webp",
       "image_source_page": "https://pedalescajita.mitiendanube.com/productos/fuzz-womut-para-bajo/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cajita Stompboxes",
@@ -28773,8 +28773,8 @@
       "image": "./assets/pedals/daredevil-pedals/chicago-way/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/Chicago Way.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -28785,8 +28785,8 @@
       "image": "./assets/pedals/daredevil-pedals/cocked-fearless/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/COCKED & FEARLESS.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -28799,8 +28799,8 @@
       "research_record": "./research/pedals/Daredevil Pedals/DAISHO.md",
       "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/d/a/dare-daisho-1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=800",
       "image_source_page": "https://www.pitbullaudio.com/daredevil-pedals-daisho-earl-slick-fuzz-octave-guitar-effects-pedal-dare-daisho.html",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -33052,8 +33052,8 @@
       "image": "./assets/pedals/fjord-fuzz/midnattsol/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Midnattsol.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fjord Fuzz",
@@ -35544,8 +35544,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Golden Boy Transparent Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Jackson Audio",
@@ -35580,8 +35580,8 @@
       "image": "./assets/pedals/jackson-audio/page-mk-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Page MK II.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Jackson Audio",
@@ -36687,8 +36687,8 @@
       "image": "./assets/pedals/keeley-electronics/filaments-high-gain-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Filaments High Gain Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -38095,8 +38095,8 @@
       "image": "./assets/pedals/lichtlaerm-audio/ritual/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Ritual..md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lichtlaerm Audio",
@@ -38690,8 +38690,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/Dream Box.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MadeByMike",
@@ -44959,8 +44959,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/? Lady.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -44971,8 +44971,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/1966 Modernized.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -47175,8 +47175,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Gunshot.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",

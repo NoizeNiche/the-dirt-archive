@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T09:38:23.942863+00:00",
+  "generated_at": "2026-09-26T09:40:53.752787+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2722,
     "complete": 2722,
     "research_pending": 0,
-    "deep_research_pending": 3139,
-    "deep_researched": 622,
+    "deep_research_pending": 3122,
+    "deep_researched": 639,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Amptweaker",
-    "pedal": "Fat Rock",
+    "pedal": "Tight Drive Jr",
     "catalog_type": "",
-    "research_record": "./research/pedals/Amptweaker/Fat_Rock.md",
+    "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Amptweaker",
-      "pedal": "Fat Rock",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/Fat_Rock.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Amptweaker",
       "pedal": "Tight Drive Jr",
@@ -41,27 +34,6 @@
       "pedal": "Original Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 049/Original Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "AMT Electronics",
-      "pedal": "DM-3 DistMachine",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "AMT Electronics",
-      "pedal": "M-1 JM-800",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 049/M-1 JM-800.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "AMT Electronics",
-      "pedal": "R-1 Rectifier",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 049/R-1 Rectifier.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +167,34 @@
       "pedal": "Astro Tone",
       "catalog_type": "",
       "research_record": "./research/pedals/Analog Man/Astro_Tone.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Man",
+      "pedal": "King Of Tone",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Man/King_Of_Tone.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Man",
+      "pedal": "Peppermint Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Man/Peppermint_Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Man",
+      "pedal": "Prince Of Tone",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Man/Prince_Of_Tone.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Man",
+      "pedal": "Sun Face",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Man/Sun_Face.md",
       "research_level": "surface"
     }
   ]

@@ -35,3 +35,21 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals's DAISHO is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+This original design Fuzz keeps the controls simple...
+Volume and Gain control, with a depth tone stack to boost or attenuate the low end.
+Counter clockwise it sounds vintage and bright with enough texture to cut through.
+
+### Sources checked in this pass
+1. Daisho by Daredevil Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Daredevil-Pedals/Daisho/68977173/
+2. Daredevil Pedals Daisho Earl Slick Signature Octave Fuzz Effects Pedal | Guitar Center: https://www.guitarcenter.com/Daredevil-Pedals/Daisho-Earl-Slick-Signature-Octave-Fuzz-Effects-Pedal-1500000224380.gc
+3. Daredevil Pedals DAISHO Earl Slick Fuzz Octave Guitar Effects Pedal: https://www.pitbullaudio.com/daredevil-pedals-daisho-earl-slick-fuzz-octave-guitar-effects-pedal-dare-daisho.html
+4. Review by The Gear Page (EN): https://www.thegearpage.net/board/index.php?threads/daisho-fuzz-and-daredevil-pedals-in-general.1955558/

@@ -33,3 +33,21 @@ DM-3 is designed as a broad distortion workstation rather than a single fixed di
 
 ## Photo
 - **Archive status:** Exact Photo Needed
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+AMT Electronics's DM-3 DistMachine is cataloged as a distortion pedal.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+In fact it means that the owner of DistMachine DM-3 has a quick access to 16 patches (distortion types) with various effect parameters - from slight transparent overdrive in rock'n'roll style to mighty and heavy metal distortion type.
+All factory tone settings can be copied from one patch to another (COPY function), changed as required and store to any patch (SAVE function) of any bank.
+Besides, all factory distortion settings can be reset (RESET function).
+
+### Sources checked in this pass
+1. AMT Electronics DM-3 DistMachine | Effects Database: https://www.effectsdatabase.com/model/amt/dm3

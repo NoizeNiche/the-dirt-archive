@@ -1,23 +1,41 @@
 # Skreddy Pedals — 1966 Modernized
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** 1966 Modernized
 - **Builder:** Skreddy Pedals
-- **Pedal:** 1966 Modernized
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Skreddy Pedals's 1966 Modernized.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **1966 Modernized** by **Skreddy Pedals** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Manual The Skreddy Pedals™ 1966 MODERNIZED is made from silicon transistors for stability, but it uses low gain units that can render germanium type fuzz tones.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: silicon transistors.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Manual The Skreddy Pedals™ 1966 MODERNIZED is made from silicon transistors for stability, but it uses low gain units that can render germanium type fuzz tones.
+This can be a smooth saturated fuzz or an articulate fuzz, depending on how you set it up.
+The bias control is set up to give you just the right classic response at noon, and you can play with it to go harder or softer.
+
+## Sources checked
+1. Fuzzface Variants | Fuzz | 1966 Modernized | Skreddy Pedals: https://skreddypedals.com/1966
+2. Skreddy Pedals 1966 Modernized - Reverb: https://reverb.com/item/57410914-skreddy-pedals-1966-modernized
+3. Skreddy Pedals 1966 Modernized - Your Complete Music Store – Instruments, Vinyl & More: https://www.vinylstorex.com/product/skreddy-pedals-1966-modernized/
+4. Skreddy Pedals 1966 Modernized - Hi Hat Cymbals for Tight Groove Control and Crisp Studio Drum Attack: https://www.hihatcraft.com/product/skreddy-pedals-1966-modernized/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

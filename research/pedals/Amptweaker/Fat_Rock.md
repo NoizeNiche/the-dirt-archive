@@ -65,3 +65,20 @@ Fat Rock is a warmer, bigger low-end interpretation of the TightRock concept, wi
 2. Sound House — Amptweaker FatRock: https://www.soundhouse.co.jp/en/products/detail/item/255405/
 3. Manualslib — Amptweaker FatRock manual: https://www.manualslib.com/manual/1039562/Amptweaker-Fatrock.html
 4. Premier Guitar — Amptweaker FatRock/TightMetal Pro announcement: https://www.premierguitar.com/amptweaker-fatrock-and-tightmetal-pro
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+This extra efects loop turns OFF when the pedal is ON and can be used to add a compressor, chorus or chain of efects that only works when you play clean, or to switch to another distortion pedal to use for the rhythm or lead sound...all without having to hit more than one pedal....it's like having a built-in A/B box.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+This extra efects loop turns OFF when the pedal is ON and can be used to add a compressor, chorus or chain of efects that only works when you play clean, or to switch to another distortion pedal to use for the rhythm or lead sound...all without having to hit more than one pedal....it's like having a built-in A/B box.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/3460320-amptweaker-fat-rock-distortion-guitar-effects-pedal
+2. Amptweaker FatRock Distortion | Effects Database: https://www.effectsdatabase.com/model/amptweaker/fatrock

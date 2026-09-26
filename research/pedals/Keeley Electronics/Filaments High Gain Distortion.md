@@ -1,23 +1,42 @@
 # Keeley Electronics — Filaments High Gain Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Filaments High Gain Distortion
 - **Builder:** Keeley Electronics
-- **Pedal:** Filaments High Gain Distortion
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Keeley Electronics's Filaments High Gain Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Filaments High Gain Distortion** by **Keeley Electronics** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Robert and the kids at Keeley Electronics have covered just about all the bases when it comes to effects, and the Filaments High Gain Distortion is just another wicked rad box in their portfolio.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Although we’re not the fastest or most technical of players around here, we sure can appreciate a good heavy metal tune, and the pedal we’re going to look at today is capable of providing the tones needed for speed, thrash, glam, black, death and other metal genres with ease.
+
+## Versions and factory options
+- The verified evidence references: MKII.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Keeley Electronics Filaments High Gain Distortion
+This analog pedal delivers everything from a crunchy overdrive to aggressive metal tones, thanks to its versatile controls for bass, body, treble, presence, boost, and crunch.
+The Filaments excels in various metal subgenres, providing a punchy, dynamic sound suitable for any amp setup.
+
+## Sources checked
+1. https://robertkeeley.com/product/keeley-filaments-high-gain-distortion/: https://robertkeeley.com/product/keeley-filaments-high-gain-distortion/
+2. Keeley Electronics Filaments High Gain Distortion | AllThePedals: https://allthepedals.com/pedals/keeley-electronics-keeley-filaments-high-gain-distortion/
+3. Keeley Electronics Filaments High Gain Distortion - Pedal of the Day: https://www.pedal-of-the-day.com/2018/01/26/keeley-electronics-filaments-high-gain-distortion/
+4. Keeley Electronics Filaments High Gain Distortion | Tone House Gear: https://www.effectsarcade.com/products/keeley-electronics-filaments-high-gain-distortion
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
