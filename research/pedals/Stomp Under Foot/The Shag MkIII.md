@@ -1,23 +1,44 @@
 # Stomp Under Foot — The Shag MkIII
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** The Shag MkIII
 - **Builder:** Stomp Under Foot
-- **Pedal:** The Shag MkIII
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Stomp Under Foot's The Shag MkIII.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **The Shag MkIII** by **Stomp Under Foot** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Stomp Under Foot's The Shag MkIII is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MKII, MKIII, MkIII.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Stomp Under Foot The Shag MkIII - Tone Bender
+This version has a smoother fuzz than the previous versions yet still produces that distinct, germanium, fuzz tone.
+I was able to source some NOS, high-gain, low-leakage, germanium transistors for The Shag so I could replicate the original fuzz tone.
+
+## Sources checked
+1. Stomp Under Foot The Shag MKIII Fuzz Pedal - X17690 - Reverb: https://reverb.com/item/96895947-stomp-under-foot-the-shag-mkiii-fuzz-pedal-x17690
+2. Used Stomp Under Foot The Shag MKIII Effect Pedal: https://www.guitarcenter.com/Used/Stomp-Under-Foot/Used-Stomp-Under-Foot-The-Shag-MKIII-Effect-Pedal.gc
+3. Stomp Under Foot The Shag MkIII - Tone Bender | Effects Database: https://www.effectsdatabase.com/model/stompunderfoot/shag/mk3
+4. Stomp Under Foot The Shag MKIII Fuzz Pedal: https://www.thefretfactory.com/shop/Signal-Chain/p/Stomp-Under-Foot-The-Shag-MKIII-Fuzz-Pedal.htm
+5. Stomp Under Foot Used Stomp Under Foot The Shag MKIII Effect Pedal | Musician's Friend: https://www.musiciansfriend.com/amplifiers-effects/used-stomp-under-foot-used-stomp-under-foot-the-shag-mkiii-effect-pedal/122523855
+6. Stomp Under Foot The Shag MKIII Fuzz Pedal - en4.hufford: https://www.maxmusicshop.com/product/stomp-under-foot-the-shag-mkiii-fuzz-pedal/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
