@@ -335,7 +335,7 @@ async function targetRecord(builder,pedal,type){
   // from those pages before relying on search-engine discovery. This is
   // especially useful for punctuation-heavy vintage model names that search
   // engines may normalize poorly.
-  const minedLinks = await boundedMap(urls, 2, async u => {
+  const minedLinks = await boundedMap(urls, 3, async u => {
     const page=await get(u);
     if(!page) return [];
     const baseHost=host(page.url||u);
@@ -364,7 +364,7 @@ async function targetRecord(builder,pedal,type){
   const candidates=[...found.values()];
   const ranked=candidates.map(x=>({x,f:fit(builder,pedal,x.title+' '+x.url)}))
     .sort((a,b)=>b.f.score-a.f.score).slice(0,12);
-  const fetched = await boundedMap(ranked, 2, async item => {
+  const fetched = await boundedMap(ranked, 3, async item => {
     const cached=verifiedCache.get(item.x.url);
     const p=await get(item.x.url);
     const info=cached
