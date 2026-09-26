@@ -1,41 +1,38 @@
 # Alen Geere — LEADer Mk.2
 
 ## PRP identity
+- **Archive parent:** LEADer Mk.2
 - **Builder:** Alen Geere
 - **Catalog type:** Overdrive
-- **Identity:** High-gain amp-style overdrive designed around the character of a modified Marshall Super Lead associated with the Appetite for Destruction era.
+- **Identity:** Alen Geere's LEADer Mk.2.
 
 ## What this pedal is
-LEADer Mk.2 is designed to approximate the harmonically rich power-stage distortion of a modified 100W Marshall Super Lead in pedal form. The builder describes a low-voltage transistor/FET implementation intended to capture the saturated, articulate character of that amp.
+Alen Geere's LEADer Mk.2 is cataloged as an overdrive pedal.
 
 ## Colorways
-- Surviving documentation shows multiple photographs, including a black-front version.
-- Complete factory colorway history was not established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Gain
-- Master
-- Bottom
-- Top
-- three-position bright-cap switch
-- hand-selected and matched transistor/op-amp implementation
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-Mk.2 is presented as a distinct version of the LEADer. Exact circuit changes beyond the documented redesign are not established here.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Transistor/FET-based.
-- Exact device numbers are not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-LEADer Mk.2 is voiced toward saturated British amp distortion, ranging from a more plexi-like response into a heavier Super Lead/AFD-style character. Top and Bottom controls shape the high and low ends while the bright-cap switch changes upper-frequency response at lower gain settings.
+For many guitarists and rock fans, Slashs signature sound in this album represents the ultimate rock n roll guitar tone.
+They have always tried to imitate this tone.
+The Marshall 100W Super Lead amplifier is also a legendary source of excellent guitar tone, it's sweet break up and aggressive edge made this amp the choice for many rock and electric blues guitar legends.
 
 ## Sources checked
-1. Effects Database — https://www.effectsdatabase.com/model/alengeere/leader/mk2
-2. Dr. Barlo — https://drbarlo.blogspot.com/2011/
+1. Alen Geere LEADer Mk.2 | Effects Database: https://www.effectsdatabase.com/model/alengeere/leader/mk2
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

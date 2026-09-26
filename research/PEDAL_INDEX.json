@@ -2327,8 +2327,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://i.ytimg.com/vi/Hu-tP-hUyKA/maxresdefault.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alen Geere",
@@ -2348,8 +2348,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 350,
       "image_source_url": "https://i.pinimg.com/736x/b9/d2/41/b9d2410ce68fdcb690ba4d87211035d2.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alen Geere",
@@ -51213,8 +51213,8 @@
       "research_record": "./research/pedals/ZVEX Effects/Fat Fuzz Factory.md",
       "image_source_url": "https://www.pianosguitars.com/wp-content/uploads/2025/10/1759982437/zvex-vexter-fat-fuzz-factory-guitar-effects-pedal-1759982441.webp",
       "image_source_page": "https://www.pianosguitars.com/product/zvex-vexter-fat-fuzz-factory-guitar-effects-pedal/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",

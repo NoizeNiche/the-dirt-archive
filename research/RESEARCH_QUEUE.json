@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T03:25:23.959356+00:00",
+  "generated_at": "2026-09-26T03:28:33.730226+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2540,
     "complete": 2540,
     "research_pending": 0,
-    "deep_research_pending": 3371,
-    "deep_researched": 390,
+    "deep_research_pending": 3368,
+    "deep_researched": 393,
     "surface_ready": 3761
   },
   "next_target": {
@@ -27,20 +27,6 @@
       "pedal": "Operation 1",
       "catalog_type": "",
       "research_record": "./research/pedals/Aleatorik/Operation 1.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alen Geere",
-      "pedal": "LEADer Mk.2",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 046/LEADer Mk.2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alen Geere",
-      "pedal": "Loverdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 046/Loverdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Bass BluesFuzz Jr",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/Bass_BluesFuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amptweaker",
+      "pedal": "Bass TightDrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Amptweaker/Bass_TightDrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amptweaker",
+      "pedal": "Bass TightDrive Jr",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Amptweaker/Bass_TightDrive_Jr.md",
       "research_level": "surface"
     }
   ]

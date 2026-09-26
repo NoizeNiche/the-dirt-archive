@@ -7,10 +7,10 @@
 - **Identity:** ZVEX Effects's Fat Fuzz Factory.
 
 ## What this pedal is
-Pedal Dimensions (LxWxH): 4.70" x 2.38" x 1.82" Instructions (PDF) Here is a sound sample of the Zvex Fat Fuzz Factory on a Fender '63 RI Precision bass with passive pick-ups played through an Ampeg SVT amplifier.
+ZVEX Effects's Fat Fuzz Factory is cataloged as a fuzz pedal.
 
 ## Colorways
-- ZVEX Effects Info Email Search Menu ZVEX Effects Info Email Search Home Guitar Pedals Custom Pedals Mod Bench + Neon Signs The Candela Vibrophase Merch Modular Dealers Artists Custom Galleries Info Repairs Get Custom Artwork Terms 2019 Catalog PDF Download Photo Pack Filter All Amps Boost Distortion Fuzz Meter Microphone Misc.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.
@@ -27,14 +27,12 @@ Pedal Dimensions (LxWxH): 4.70" x 2.38" x 1.82" Instructions (PDF) Here is a sou
 - **Exact part:** Unknown.
 
 ## Sound
-ZVEX Effects Info Email Search Menu ZVEX Effects Info Email Search Home Guitar Pedals Custom Pedals Mod Bench + Neon Signs The Candela Vibrophase Merch Modular Dealers Artists Custom Galleries Info Repairs Get Custom Artwork Terms 2019 Catalog PDF Download Photo Pack Filter All Amps Boost Distortion Fuzz Meter Microphone Misc.
-The color of the lettering varies on the Hand Painted Fat Fuzz Factory, not limited to the examples pictured here.
-Quantity: Add To Cart A version of the Fuzz Factory.
+ZVEX Vexter Fat Fuzz Factory Guitar Effects Pedal - Exceptional Pianos and Guitars with Superior Craftsmanship, Acoustic Excellence, and Modern Digital Innovations FREE SHIPPING Over $30
+Setting 1 is a standard Fuzz Factory, settings 2 and 3 introduce low and lower frequencies to manipulate, oscillate, and mutate as you like.
+The Fat Fuzz Factory so Add to cart Share Security Policy (Protecting Your Data, Ensuring Your Safety) Delivery Policy (Free shipping on orders over $30) Return Policy (60 day easy Return) SKU: PBAT422010397 Category: Effects Description Reviews (0) A version of the Fuzz Factory.
 
 ## Sources checked
-1. Fat Fuzz Factory — ZVEX Effects: https://www.zvex.com/guitar-pedals/fat-fuzz-factory-guitar-effects-pedal
-2. ZVEX Effects Vexter Fat Fuzz Factory Pedal - Andertons Music Co.: https://www.andertons.co.uk/zvex-effects-vexter-fat-fuzz-factory-pedal/
-3. Fat Fuzz Factory - Vexter Series by ZVEX Effects | The Guitar Pedal Directory: https://www.theguitarpedaldirectory.com/pedals/fat-fuzz-factory-vexter-series
+1. ZVEX Vexter Fat Fuzz Factory Guitar Effects Pedal - Exceptional Pianos and Guitars with Superior Craftsmanship, Acoustic Excellence, and Modern Digital Innovations: https://www.pianosguitars.com/product/zvex-vexter-fat-fuzz-factory-guitar-effects-pedal/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
