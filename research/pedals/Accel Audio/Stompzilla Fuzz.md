@@ -1,32 +1,36 @@
 # Accel Audio — Stompzilla Fuzz
 
 ## PRP identity
+- **Archive parent:** Stompzilla Fuzz
+- **Builder:** Accel Audio
 - **Catalog type:** Fuzz
-- **Identity:** Accel Audio fuzz pedal documented at NAMM 2016.
+- **Identity:** Accel Audio's Stompzilla Fuzz.
 
 ## What this pedal is
-Stompzilla Fuzz is confirmed as an Accel Audio fuzz pedal and appears in the company's NAMM 2016 product list. The surviving database record provides almost no reliable circuit, control or component information, so the archive does not infer those details. [1]
+Accel Audio's Stompzilla Fuzz is cataloged as a fuzz pedal.
 
 ## Colorways
-- **Production finish:** Not reliably documented.
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Versions / options
-- Fuzz effect.
-- NAMM 2016 product.
-- No numbered revision verified.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device: **Unknown.**
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping device: **Unknown.**
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The surviving documentation establishes the pedal as a fuzz but does not establish a specific circuit family or detailed control behavior. The archive therefore records the effect category without guessing at its component set or tonal lineage. [1]
+fx pedal stompbox stomp box guitar effects pedal fuzz distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Effects Database — https://www.effectsdatabase.com/model/accel/stompzilla
-2. Effects Database — NAMM 2016: https://www.effectsdatabase.com/events/namm/2016
+1. Accel Stompzilla Fuzz | Effects Database: https://www.effectsdatabase.com/model/accel/stompzilla
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

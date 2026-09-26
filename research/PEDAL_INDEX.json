@@ -705,8 +705,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 414,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Accel Audio",
@@ -1639,8 +1639,8 @@
       "research_record": "./research/pedals/Adventure Audio/Fuzz Peaks II.md",
       "image_source_url": "https://eastsidemusicsupply.com/cdn/shop/products/IMG_1800_8_1024x1024.jpg?v=1630073914",
       "image_source_page": "https://eastsidemusicsupply.com/products/adventure-audio-fuzz-peaks-ii",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Adventure Audio",
@@ -35407,8 +35407,8 @@
       "image": "./assets/pedals/j-rockett-audio-designs/45-caliber-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/J. Rockett Audio Designs/45 Caliber OD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -35467,8 +35467,8 @@
       "image": "./assets/pedals/j-rockett-audio-designs/hrm-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/J. Rockett Audio Designs/HRM V2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Jackson Audio",
@@ -46943,8 +46943,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Boost Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tech 21 NYC",

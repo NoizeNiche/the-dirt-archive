@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T02:49:47.981023+00:00",
+  "generated_at": "2026-09-26T02:49:59.077573+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,37 +10,23 @@
     "pictured": 2501,
     "complete": 2501,
     "research_pending": 0,
-    "deep_research_pending": 3427,
-    "deep_researched": 334,
+    "deep_research_pending": 3422,
+    "deep_researched": 339,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "Accel Audio",
-    "pedal": "Stompzilla Fuzz",
+    "builder": "Add+ Pedals",
+    "pedal": "Tube Drive 2",
     "catalog_type": "",
-    "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md",
+    "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Accel Audio",
-      "pedal": "Stompzilla Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Add+ Pedals",
       "pedal": "Tube Drive 2",
       "catalog_type": "",
       "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Adventure Audio",
-      "pedal": "Fuzz Peaks II",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Adventure Audio/Fuzz Peaks II.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "H.A.L.O. Jr.",
       "catalog_type": "",
       "research_record": "./research/pedals/Alairex/H.A.L.O. Jr..md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alameda Guitars",
+      "pedal": "Fuzzoo",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Alameda Guitars/Fuzzoo.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alber",
+      "pedal": "FU-10",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Alber/FU-10.md",
       "research_level": "surface"
     }
   ]
