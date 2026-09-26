@@ -38,3 +38,18 @@ Update Proceed to Checkout Edit Cart Take 15% off thousands of items with code F
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Demedash Effects's Shatterbox is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Demedash Effects - Shatterbox Wavefolding Overdrive
+
+### Sources checked in this pass
+1. Demedash Effects Shatterbox Wavefolding Overdrive Pedal – Alto Music: https://www.altomusic.com/products/demedash-effects-shatterbox-wavefolding-overdrive-pedal
+2. Demedash Effects - Shatterbox Wavefolding Overdrive | northernstompboxes: https://www.northernstomps.com/product-page/demedash-shatterbox-wavefolding-overdrive
+3. Demedash Effects Shatterbox - Silver | Reverb: https://reverb.com/item/93681246-demedash-effects-shatterbox-silver

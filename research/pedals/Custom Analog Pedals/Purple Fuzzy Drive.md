@@ -36,3 +36,17 @@ Controls: Volume, Fine, Gain (6 position rotary switch) Reviews myFXDB user revi
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on May 26, 2013 Custom Analog Pedals boost / preamp fuzz overdrive pedal Information A pedal for aggressive, mid-gain, fuzz like clipping drive tone fans.
+
+### Verified sound evidence
+Published on May 26, 2013 Custom Analog Pedals boost / preamp fuzz overdrive pedal Information A pedal for aggressive, mid-gain, fuzz like clipping drive tone fans.
+It also acts as a clean boost, when drive knob is all the way down.
+
+### Sources checked in this pass
+1. Custom Analog Pedals Purple Fuzzy Drive | Effects Database: https://www.effectsdatabase.com/model/customanalog/purplefuzzydrive

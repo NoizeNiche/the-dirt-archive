@@ -52,3 +52,17 @@ Warm Drive is aimed at bright-but-smooth overdrive rather than heavy saturation,
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/auraldream/drive/warm
 - **Archive note:** Exact-model images are visible in external sources, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Aural Dream's Warm Drive is cataloged as an overdrive pedal.
+
+### Verified diode terms
+- LED.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/52805436-aural-dream-warm-drive
+2. Aural Dream Warm Drive | Effects Database: https://www.effectsdatabase.com/model/auraldream/drive/warm

@@ -5427,8 +5427,8 @@
       "research_record": "./research/pedals/Aural Dream/Warm Drive.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--U7p-u12L--/quality=medium-low,height=800,width=800,fit=contain/za5ehlzng7bmzsbkfirq.jpg",
       "image_source_page": "https://reverb.com/item/52805436-aural-dream-warm-drive",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Auralux",
@@ -9988,8 +9988,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://pics.mercatinomusicale.com/p_m/85/78/7847885_1715788152.jpg?20240516_1726",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bigfoot F.X.",
@@ -10110,8 +10110,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://esquirecolombia.com/wp-content/uploads/2026/03/hail-mary-puppet-bts-860x484.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biltworth",
@@ -28119,8 +28119,8 @@
       "image": "./assets/pedals/custom-analog-pedals/purple-fuzzy-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Custom Analog Pedals/Purple Fuzzy Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Custom Audio Electronics",
@@ -28156,8 +28156,8 @@
       "image": "./assets/pedals/custom-guitar-innovations/experience-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Custom Guitar Innovations/Experience Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Custom Guitar Innovations",
@@ -28193,8 +28193,8 @@
       "image": "./assets/pedals/custom-tones/ethos-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Custom Tones/Ethos Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cutec",
@@ -28281,8 +28281,8 @@
       "image": "./assets/pedals/cuvave-m-vave/overdrive-blues/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CUVAVE / M-VAVE/Overdrive Blues.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CUVAVE / M-VAVE",
@@ -29515,8 +29515,8 @@
       "image": "./assets/pedals/demedash-effects/112/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Demedash Effects/112+.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Demedash Effects",
@@ -29527,8 +29527,8 @@
       "image": "./assets/pedals/demedash-effects/shatterbox/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Demedash Effects/Shatterbox.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Demedash Effects",
@@ -33294,8 +33294,8 @@
       "image": "./assets/pedals/foxpedal/defector/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxpedal/Defector.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxpedal",
@@ -33342,8 +33342,8 @@
       "image": "./assets/pedals/foxrox-electronics/festival-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxrox Electronics/Festival Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxrox Electronics",
@@ -34632,8 +34632,8 @@
       "image": "./assets/pedals/hudson-electronics/sidecar/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Sidecar.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Hudson Electronics",
@@ -43419,8 +43419,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/FAT PLEXI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ovaltone",

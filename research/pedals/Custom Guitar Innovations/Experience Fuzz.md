@@ -38,3 +38,23 @@ Fuzz (NPN silicon) Monsterpiece Fuzz PNP Fuzz (hybrid silicon/germanium) Monster
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Custom Guitar Innovations's Experience Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified transistor/device terms
+- Germanium Fuzz, AC128, BC108, BC109.
+
+### Verified sound evidence
+Fuzz (germanium) Monsterpiece Fuzz NPN Fuzz (NPN silicon) Monsterpiece Fuzz NPN Jr.
+Fuzz (NPN silicon) Monsterpiece Fuzz PNP Fuzz (hybrid silicon/germanium) Monsterpiece Fuzz PNP Jr.
+
+### Sources checked in this pass
+1. Custom Guitar Innovations Experience Fuzz | Effects Database: https://www.effectsdatabase.com/model/customguitarinnovations/experiencefuzz

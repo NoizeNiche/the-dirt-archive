@@ -38,3 +38,25 @@ Building on the foundation of our original single unit Harmonic Bias Trem, this 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Rob Hall from Custom Tones, LLC designed the Ethos Overdrive released in 2007.
+
+### Verified color/finish evidence
+- Rob received an Electrical Engineering degree in 1984 and designed electronics, (granted multiple patents), at an Aerospace firm for 38 years, (building subsystem and black box ele Show More Rob Hall from Custom Tones, LLC designed the Ethos Overdrive released in 2007.
+- Rob received an Electrical Engineering degree in 1984 and designed electronics, (granted multiple patents), at an Aerospace firm for 38 years, (building subsystem and black box electronics for aircraft), before retiring a few years ago.
+
+### Verified version references
+- The evidence references: V1.
+
+### Verified sound evidence
+Custom Tones is thrilled to unveil the ETHOS 60’s Dual Harmonic Bias Trem (60’s DHBT).
+THE ETHOS CFD F-BOOST MOD / PEDAL The CFD F-Boost remote pedal expands the capability of the CFD F-Clean Channel with an easy to use remote pedal.
+The slow-fast switch is perfect…..The real surprise is the boost feature.
+
+### Sources checked in this pass
+1. Boutique Guitar Effects & Ethos Guitar FX - Shop Now: https://customtonesinc.com/

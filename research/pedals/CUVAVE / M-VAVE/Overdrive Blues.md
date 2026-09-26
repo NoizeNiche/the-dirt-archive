@@ -35,3 +35,17 @@ The page is a manufacturer source for the exact model, while the maker's broader
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The page is a manufacturer source for the exact model, while the maker's broader product ecosystem places Overdrive Blues within the CUVAVE/M-VAVE effect-pedal lineup.
+
+### Verified sound evidence
+M-VAVE's official product page identifies Overdrive Blues by name as one of the company's products.
+The page is a manufacturer source for the exact model, while the maker's broader product ecosystem places Overdrive Blues within the CUVAVE/M-VAVE effect-pedal lineup.
+
+### Sources checked in this pass
+1. Product - M-VAVE: https://www.m-vave.com/product?id=overdrive-blues

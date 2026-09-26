@@ -12,3 +12,16 @@ https://www.effectsdatabase.com/model/bigfoot/dynamicdistortion
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bigfoot F.X.'s Dynamic Distortion Device is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Dynamic Distortion Device Published on November 6, 2016 Bigfoot F.X.
+
+### Sources checked in this pass
+1. Bigfoot F.X. Dynamic Distortion Device | Effects Database: https://www.effectsdatabase.com/model/bigfoot/dynamicdistortion
