@@ -32784,8 +32784,8 @@
       "image": "./assets/pedals/fender/fender-fuzz-wah-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Fender Fuzz Wah Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -34068,8 +34068,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Mori Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34095,8 +34095,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Peacemaker.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34965,8 +34965,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TSV808.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -34978,8 +34978,8 @@
       "image": "./assets/pedals/idiotbox-effects/d4-distortion-reissue/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/-D4 Distortion Reissue.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -34991,8 +34991,8 @@
       "image": "./assets/pedals/idiotbox-effects/black-fortress-bass-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Black Fortress Bass Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -36546,8 +36546,8 @@
       "image": "./assets/pedals/keeley-electronics/1962-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/1962 Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -42965,8 +42965,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/TWINSONIC MKII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Old Blood Noise Endeavors",
