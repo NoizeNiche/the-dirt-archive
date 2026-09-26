@@ -88,7 +88,7 @@ def main():
     next_target = deep_research_pending[0] if deep_research_pending else None
 
     queue = {
-        "version": "catalog-research-phase-v1",
+        "version": "catalog-research-phase-v2",
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "active_phase": "Catalog Research Phase",
         "canonical_source": "research/PEDAL_INDEX.json",
