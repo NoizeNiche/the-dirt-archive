@@ -227,10 +227,30 @@ function searchQueries(builder,pedal){
 async function targetRecord(builder,pedal,type){
   const urls=sourcePages(builder,pedal);
   const exactCatalogUrls=new Set(urls);
+  const verifiedCache=new Map();
+  try{
+    const inboxPath=path.join(process.cwd(),'research/RESEARCH_INBOX',slug(builder),slug(pedal)+'.json');
+    const packet=JSON.parse(fs.readFileSync(inboxPath,'utf8'));
+    if(packet.status==='VERIFIED_EVIDENCE_STAGED' && Array.isArray(packet.sources)){
+      for(const source of packet.sources){
+        const u=String(source?.url||'').trim();
+        if(/^https?:/i.test(u)) verifiedCache.set(u,source);
+      }
+    }
+  }catch{}
   const models=catalogModels(builder);
   const queries=searchQueries(builder,pedal);
   const found=new Map();
-  for(const u of urls) found.set(u,{url:u,title:'catalog/override source'});
+  for(const u of urls){
+    const cached=verifiedCache.get(u);
+    found.set(u,{
+      url:u,
+      title:cached?.title || 'catalog/override source',
+      h1:cached?.h1 || '',
+      description:cached?.description || '',
+      bodyExcerpt:cached?.excerpt || ''
+    });
+  }
   // When exact source pages are known, mine a bounded set of external links
   // from those pages before relying on search-engine discovery. This is
   // especially useful for punctuation-heavy vintage model names that search
@@ -256,9 +276,20 @@ async function targetRecord(builder,pedal,type){
   const ranked=candidates.map(x=>({x,f:fit(builder,pedal,x.title+' '+x.url)}))
     .sort((a,b)=>b.f.score-a.f.score).slice(0,12);
   const sources=[];
+  const acceptedUrls=new Set();
   for(const item of ranked){
+    const cached=verifiedCache.get(item.x.url);
     const p=await get(item.x.url);
-    const info=p?pageInfo(p.text):{title:item.x.title,h1:'',description:'',body:''};
+    const info=p
+      ? pageInfo(p.text)
+      : cached
+        ? {
+            title:String(cached.title||item.x.title||''),
+            h1:String(cached.h1||''),
+            description:'',
+            body:String(cached.excerpt||'')
+          }
+        : {title:item.x.title,h1:'',description:'',body:''};
     const u=p?.url||item.x.url;
     const fullText=info.title+' '+info.h1+' '+info.description+' '+info.body+' '+u;
     const f=fit(builder,pedal,fullText);
@@ -272,11 +303,15 @@ async function targetRecord(builder,pedal,type){
       });
       if(conflicting) continue;
     }
+    if(acceptedUrls.has(u)) continue;
+    acceptedUrls.add(u);
     sources.push({
       url:u,host:host(u),title:info.title,h1:info.h1,description:info.description,
       snippet:item.x.title,bodyExcerpt:info.body,identity:f,
       signals:signals(fullText),
-      sourceKind:sourceKind(builder,u,exactCatalogUrls),collectedAt:new Date().toISOString()
+      sourceKind:cached?.source_kind || sourceKind(builder,u,exactCatalogUrls),
+      collectedAt:new Date().toISOString(),
+      reusedVerifiedEvidence:Boolean(!p && cached)
     });
   }
   const hosts=new Set(sources.map(x=>x.host).filter(Boolean));
