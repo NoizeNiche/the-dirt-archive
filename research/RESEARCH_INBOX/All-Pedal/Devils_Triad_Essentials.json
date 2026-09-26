@@ -1,0 +1,33 @@
+{
+  "builder": "All-Pedal",
+  "pedal": "Devil's Triad Essentials",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/allpedal/devilstriad/essentials",
+      "title": "All-Pedal Devil's Triad Essentials - Jeff Loomis Signature Pedal | Effects Database",
+      "h1": "All-Pedal Devil's Triad Essentials - Jeff Loomis Signature Pedal",
+      "excerpt": "Effects Database identifies Devil's Triad Essentials as a Jeff Loomis collaboration built from the Drive and Boost sections of the Devil's Triad.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://allpedal.com/collections/pedals/products/dt-essentials",
+      "title": "Versatile Drive + Dual Boost with 3-Band EQ Precision - All-Pedal",
+      "h1": "Devil's Triad - Essentials",
+      "excerpt": "The manufacturer describes the pedal as a drive plus integrated Pre and Post Boost with an active three-band EQ. Specifications include analog op-amp drive and boost, measured drive input impedance of about 400K at 1kHz, total output of 20dB, boost from unity to 20dB, and 9VDC/37mA operation with no internal battery.",
+      "host": "allpedal.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.premierguitar.com/news/all-pedal-devils-triads-essentials",
+      "title": "All-Pedal and Jeff Loomis Unveil Devil's Triads Essentials Pedal - Premier Guitar",
+      "h1": "All-Pedal and Jeff Loomis Unveil Devil's Triads Essentials Pedal",
+      "excerpt": "Premier Guitar's May 25, 2024 report lists Level and Gain for Drive, Treble/Mids/Bass for EQ, Pre Boost and Post Boost, true bypass, and 9-volt operation.",
+      "host": "www.premierguitar.com",
+      "source_kind": "press_release"
+    }
+  ],
+  "next_action": "Use the manufacturer page as the primary technical source and the Effects Database/Premier Guitar pages for model identity and corroboration. Do not infer undocumented clipping components."
+}
