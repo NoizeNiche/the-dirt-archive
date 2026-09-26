@@ -326,6 +326,8 @@ def main():
         result = subprocess.run(["node", "--check", str(script_path)], capture_output=True, text=True)
         if result.returncode:
             raise SystemExit(f"JavaScript syntax check failed: {script_path.relative_to(ROOT)}\\n{result.stderr.strip()}")
+    if "function loadCatalog() {" not in (ROOT / "assets/js/archive-core.js").read_text(encoding="utf-8"):
+        raise SystemExit("Shared catalog loader declaration is malformed or missing its opening brace.")
     if "loadCatalog()" not in detail_js_text:
         raise SystemExit("Detail page controller is not using the shared catalog loader.")
     if "loadCatalog()\n.then(r=>{if(!r.ok)" in detail_js_text:
