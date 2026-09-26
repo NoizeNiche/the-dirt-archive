@@ -1096,8 +1096,8 @@
       "research_record": "./research/pedals/Acoustic Imaginearing/QuantumDrive.md",
       "image_source_url": "https://www.acousticimaginearing.com/images/ssthumb.jpg",
       "image_source_page": "https://www.acousticimaginearing.com/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AD Pedals",
@@ -1109,8 +1109,8 @@
       "source_page": "https://www.effectsdatabase.com/model/adpedals/aerodynamic",
       "research_record": "./research/pedals/AD Pedals/Aerodynamic overdrive.md",
       "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/adpedals_aerodynamic_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ADA Amps",
@@ -1123,8 +1123,8 @@
       "source_page": "https://www.chicagomusicexchange.com/products/ada-mp-1-channel-preamp-pedal-8749",
       "research_record": "./research/pedals/ADA Amps/MP-1 Channel.md",
       "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/a-da-effects-and-pedals-distortion-a-da-mp-1-channel-preamp-pedal-adamp1pedal-17184952549511.jpg?v=1649590319&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -1136,8 +1136,8 @@
       "source_page": "https://www.effectsdatabase.com/model/addplus/bluesplayer",
       "research_record": "./research/pedals/Add+ Pedals/Blues Player.md",
       "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/addplus_bluesplayer_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -1177,8 +1177,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://cdn.myikas.com/images/theme-images/3f9ff4a2-dbec-4d40-af3b-1dbf88d1c263/image_1080.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -1252,8 +1252,8 @@
       "source_page": "https://www.effectsdatabase.com/model/addplus/pi",
       "research_record": "./research/pedals/Add+ Pedals/Pi.md",
       "image_source_url": "https://media.mydukkan.com/image/33527/thmb_900x900_ADD.ADDPi33527.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
