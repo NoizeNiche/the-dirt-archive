@@ -15630,7 +15630,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Special Cranker — Overdrive",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/special-cranker-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Special Cranker — Overdrive.md"
   },
@@ -15644,14 +15644,14 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Spires — Fuzz Doubler",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/spires-fuzz-doubler/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Spires — Fuzz Doubler.md"
   },
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Sunn O))) HalfLife",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/sunn-o-halflife/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) HalfLife.md"
   },
@@ -16008,7 +16008,7 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Nano Bass Big Muff Pi",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/nano-bass-big-muff-pi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Nano Bass Big Muff Pi.md"
   },
@@ -16036,21 +16036,21 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Nano Operation Overlord",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/nano-operation-overlord/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Nano Operation Overlord.md"
   },
   {
     "builder": "Electro-Harmonix",
     "pedal": "OD Glove MOSFET Overdrive / Distortion",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/od-glove-mosfet-overdrive-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/OD Glove MOSFET Overdrive / Distortion.md"
   },
   {
     "builder": "Electro-Harmonix",
     "pedal": "Op-Amp Big Muff Pi",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/op-amp-big-muff-pi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Op-Amp Big Muff Pi.md"
   },
@@ -18661,7 +18661,7 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Red Dirt Germanium Overdrive",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/red-dirt-germanium-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Red Dirt Germanium Overdrive.md"
   },
@@ -18717,21 +18717,21 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Super Rodent Overdrive and Distortion",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/super-rodent-overdrive-and-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Super Rodent Overdrive and Distortion.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "Sweet Spot Johnny Hiland Super Drive Overdrive",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/sweet-spot-johnny-hiland-super-drive-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Sweet Spot Johnny Hiland Super Drive Overdrive.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "Synth-1 Reverse Attack Fuzz Wave Generator",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/synth-1-reverse-attack-fuzz-wave-generator/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Synth-1 Reverse Attack Fuzz Wave Generator.md"
   },
@@ -20026,7 +20026,7 @@
   {
     "builder": "Maxon",
     "pedal": "Fuzz Elements Fire",
-    "image": null,
+    "image": "./assets/pedals/maxon/fuzz-elements-fire/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Fuzz Elements Fire.md"
   },
@@ -20467,7 +20467,7 @@
   {
     "builder": "Menatone",
     "pedal": "Ms. Foxy Brown",
-    "image": null,
+    "image": "./assets/pedals/menatone/ms-foxy-brown/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Ms. Foxy Brown.md"
   },
@@ -20481,21 +20481,21 @@
   {
     "builder": "Menatone",
     "pedal": "None More Black Deluxe",
-    "image": null,
+    "image": "./assets/pedals/menatone/none-more-black-deluxe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/None More Black Deluxe.md"
   },
   {
     "builder": "Menatone",
     "pedal": "PiG",
-    "image": null,
+    "image": "./assets/pedals/menatone/pig/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/PiG.md"
   },
   {
     "builder": "Menatone",
     "pedal": "Red Snapper",
-    "image": null,
+    "image": "./assets/pedals/menatone/red-snapper/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Red Snapper.md"
   },
@@ -20642,7 +20642,7 @@
   {
     "builder": "MESA/Boogie",
     "pedal": "Throttle Box",
-    "image": null,
+    "image": "./assets/pedals/mesa-boogie/throttle-box/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MESA/Boogie/Throttle Box.md"
   },
@@ -20705,28 +20705,28 @@
   {
     "builder": "MI Audio / MI Effects",
     "pedal": "Neo Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mi-audio-mi-effects/neo-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MI Audio / MI Effects/Neo Fuzz.md"
   },
   {
     "builder": "MI Audio / MI Effects",
     "pedal": "Super Blues Pro",
-    "image": null,
+    "image": "./assets/pedals/mi-audio-mi-effects/super-blues-pro/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MI Audio / MI Effects/Super Blues Pro.md"
   },
   {
     "builder": "MI Audio / MI Effects",
     "pedal": "Super Crunch Box V2",
-    "image": null,
+    "image": "./assets/pedals/mi-audio-mi-effects/super-crunch-box-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MI Audio / MI Effects/Super Crunch Box V2.md"
   },
   {
     "builder": "MI Audio / MI Effects",
     "pedal": "Tube Zone Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mi-audio-mi-effects/tube-zone-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MI Audio / MI Effects/Tube Zone Overdrive.md"
   },
@@ -20747,14 +20747,14 @@
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Cocoon",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/cocoon/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Cocoon.md"
   },
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Country Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/country-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Country Fuzz.md"
   },

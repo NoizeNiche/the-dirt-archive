@@ -31549,7 +31549,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/special-cranker-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Special Cranker — Overdrive.md",
       "research_level": "surface",
@@ -31573,7 +31573,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/spires-fuzz-doubler/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Spires — Fuzz Doubler.md",
       "research_level": "surface",
@@ -31585,7 +31585,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/sunn-o-halflife/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) HalfLife.md",
       "research_level": "surface",
@@ -32210,7 +32210,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/nano-bass-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Nano Bass Big Muff Pi.md",
       "research_level": "surface",
@@ -32258,7 +32258,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/nano-operation-overlord/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Nano Operation Overlord.md",
       "research_level": "surface",
@@ -32270,7 +32270,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/od-glove-mosfet-overdrive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/OD Glove MOSFET Overdrive / Distortion.md",
       "research_level": "surface",
@@ -32282,7 +32282,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/op-amp-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Op-Amp Big Muff Pi.md",
       "research_level": "surface",
@@ -36882,7 +36882,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/red-dirt-germanium-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Red Dirt Germanium Overdrive.md",
       "research_level": "deep",
@@ -36984,7 +36984,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/super-rodent-overdrive-and-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Super Rodent Overdrive and Distortion.md",
       "research_level": "deep",
@@ -36996,7 +36996,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/sweet-spot-johnny-hiland-super-drive-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Sweet Spot Johnny Hiland Super Drive Overdrive.md",
       "research_level": "deep",
@@ -37009,7 +37009,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/synth-1-reverse-attack-fuzz-wave-generator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Synth-1 Reverse Attack Fuzz Wave Generator.md",
       "research_level": "deep",
@@ -39327,7 +39327,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/fuzz-elements-fire/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Fire.md",
       "research_level": "surface",
@@ -40116,7 +40116,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/ms-foxy-brown/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Ms. Foxy Brown.md",
       "research_level": "surface",
@@ -40142,7 +40142,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/none-more-black-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/None More Black Deluxe.md",
       "research_level": "surface",
@@ -40154,7 +40154,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/pig/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/PiG.md",
       "research_level": "surface",
@@ -40166,7 +40166,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/red-snapper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Red Snapper.md",
       "research_level": "surface",
@@ -40434,7 +40434,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mesa-boogie/throttle-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Throttle Box.md",
       "research_level": "surface",
@@ -40543,7 +40543,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mi-audio-mi-effects/neo-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/Neo Fuzz.md",
       "research_level": "surface",
@@ -40556,7 +40556,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mi-audio-mi-effects/super-blues-pro/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/Super Blues Pro.md",
       "research_level": "surface",
@@ -40568,7 +40568,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mi-audio-mi-effects/super-crunch-box-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/Super Crunch Box V2.md",
       "research_level": "surface",
@@ -40580,7 +40580,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mi-audio-mi-effects/tube-zone-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/Tube Zone Overdrive.md",
       "research_level": "surface",
@@ -40616,7 +40616,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mid-fi-electronics/cocoon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Cocoon.md",
       "research_level": "surface",
@@ -40628,7 +40628,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mid-fi-electronics/country-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Country Fuzz.md",
       "research_level": "surface",
