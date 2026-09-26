@@ -4,46 +4,35 @@
 - **Archive parent:** Twin Pro - Overdrive
 - **Builder:** A&M Custom Effects
 - **Catalog type:** Overdrive
-- **Identity:** Hand-built analog overdrive aimed at warm blues and classic-rock drive.
+- **Identity:** A&M Custom Effects's Twin Pro - Overdrive.
 
 ## What this pedal is
-Twin Pro is a 100% analog overdrive with Volume, Tone and Gain controls plus a WRATH switch that changes the character of the drive. A&M describes it as point-to-point built with a socketed op amp. [1]
+A M Custom Effects browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal A M Custom Effects Twin Pro - Overdrive Published on May 16, 2010 A M Custom Effects overdrive pedal Information A&M Custom Effects Twin Pro is Custom Hand Made,100% analog guitar overdrive pedal.
 
 ## Colorways
-- The documented chassis is a **silver polychromatic die-cast aluminum enclosure** with black pointer-style knobs and red LEDs. [1]
+- Specifications: Durable Silver polychrome diecast aluminum enclosure, IPV5 standard Pedal dimensions: 119x94x34mm (4.67" x 3.68" x 1.18") Black colour Chickenhead knobs Red ultrabright 5mm LEDs with wide view angle Chrome LED sockets Volume,Tone,Gain controls True Bypass WRATH switch changes pedal character to the new dimension(like two pedals in one) Uses standard 9V DC supply, or 9V battery (included) Polarity protection Filtered power input 1% tolerance metalfilm resistors Socketed opamp Point to point wiring Reviews myFXDB user reviews No reviews yet + Add your review Links A&M Custom Effects A&M Custom Effects Twin Pro - Overdrive Where to find one?
 
 ## Versions and factory options
-### Twin Pro production
-- Volume
-- Tone
-- Gain
-- WRATH character switch
-- true bypass
-- 9V DC or 9V battery
-- filtered and polarity-protected power input
-- socketed op amp
-- point-to-point wiring [1]
-
-No numbered factory revision was verified.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No reliable numbered hardware revision sequence was found. Twin Pro remains one parent identity.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Op-amp-based analog gain stage.
-- **Exact transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Exact production clipping diode(s) are not publicly documented.
-- **Exact diode/device:** Unknown.
+- Documented terms in the verified sources: LEDs, LED.
+- The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Twin Pro is aimed at warm, familiar overdrive rather than extreme gain. The WRATH switch changes the character of the circuit, giving the otherwise simple Volume/Tone/Gain layout another tonal direction for blues and classic-rock applications. [1]
+A M Custom Effects Twin Pro - Overdrive | Effects Database Skip to navigation Brands &#9660; 0-9...
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+A M Custom Effects browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal A M Custom Effects Twin Pro - Overdrive Published on May 16, 2010 A M Custom Effects overdrive pedal Information A&M Custom Effects Twin Pro is Custom Hand Made,100% analog guitar overdrive pedal.
 
 ## Sources checked
-1. Effects Database — A&M Custom Effects Twin Pro - Overdrive: https://www.effectsdatabase.com/model/am/twinpro
+1. A M Custom Effects Twin Pro - Overdrive | Effects Database: https://www.effectsdatabase.com/model/am/twinpro
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.effectsdatabase.com/model/am/twinpro
-- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

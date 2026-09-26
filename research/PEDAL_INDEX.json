@@ -111,8 +111,8 @@
       "research_record": "./research/pedals/1981 Inventions/LVL.md",
       "image_source_page": "https://1981inventions.com/products/forget-lvl",
       "image_source_url": "https://1981inventions.com/cdn/shop/files/DSCF5851.jpg?v=1788558906&width=1445",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "6 Degrees FX",
@@ -331,8 +331,8 @@
         "https://www.effectsdatabase.com/model/am/twinpro"
       ],
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/am_twinpro_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Abasi Concepts",
@@ -6230,8 +6230,8 @@
       "research_record": "./research/pedals/B85 Audio/Germanium Overdrive Deluxe.md",
       "image_source_page": "https://www.b85audio.cz/germanium-overdrive-deluxe/",
       "image_source_url": "https://images.equipboard.com/uploads/item/image/116974/b85-audio-b85-audio-germanium-overdrive-deluxe.jpg?v=1754871071",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "B85 Audio",
@@ -6244,8 +6244,8 @@
       "research_record": "./research/pedals/B85 Audio/Gut Ripper.md",
       "image_source_url": "https://cdn.myshoptet.com/usr/www.b85audio.cz/user/shop360/big/121_gut-ripper.jpg?ff=1&x=1024&y=768&q=85&ts=675b0f28&sg=161563f2",
       "image_source_page": "https://www.b85audio.cz/gut-ripper/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "B85 Audio",
@@ -27878,8 +27878,8 @@
       "image": "./assets/pedals/csl/csl-super-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CSL/CSL Super Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CSL",
@@ -32676,8 +32676,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fairfield Circuitry/~900.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fairfield Circuitry",
@@ -32724,8 +32724,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fairfield Circuitry/The Unpleasant Surprise.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -33904,8 +33904,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Black Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -33916,8 +33916,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Black Mountain Crunch Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34368,8 +34368,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Henretta Engineering/H-Bomb.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Himmelstrutz Elektro Art",
@@ -34773,8 +34773,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/JEMINI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -34797,8 +34797,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/OD850.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -36497,8 +36497,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Katanasound/Thundercloud Overdrive Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Katanasound",
@@ -36509,8 +36509,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Katanasound/Venomous Snake Octave Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Katanasound",
@@ -42893,8 +42893,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/DIABLO GH Signature.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "OKKO FX",
@@ -46660,8 +46660,8 @@
       "image": "./assets/pedals/tc-electronic/cinders-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Cinders Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",
@@ -46684,8 +46684,8 @@
       "image": "./assets/pedals/tc-electronic/el-cambo-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/El Cambo Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",
@@ -47717,8 +47717,8 @@
       "image": "./assets/pedals/union-tube-transistor/swindle/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Union Tube & Transistor/Swindle.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Union Tube & Transistor",
@@ -51104,8 +51104,8 @@
       "image": "./assets/pedals/zander-circuitry/foxxton-woods/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Zander Circuitry/Foxxton Woods.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Zander Circuitry",
@@ -51119,8 +51119,8 @@
       "research_record": "./research/pedals/Zander Circuitry/Siva.md",
       "image_source_url": "https://www.boostguitarpedals.co.uk/cdn/shop/products/ZANDERCIRCUITRYSivatransparentfront.png?v=1618171857&width=1200",
       "image_source_page": "https://www.boostguitarpedals.co.uk/products/zander-circuitry-siva-v2",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Zander Circuitry",

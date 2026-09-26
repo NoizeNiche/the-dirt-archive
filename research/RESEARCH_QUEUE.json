@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T00:35:42.003684+00:00",
+  "generated_at": "2026-09-26T00:36:55.658244+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2201,
     "complete": 2201,
     "research_pending": 0,
-    "deep_research_pending": 3695,
-    "deep_researched": 65,
+    "deep_research_pending": 3675,
+    "deep_researched": 85,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "1981 Inventions",
-    "pedal": "LVL",
+    "builder": "A.Y.A",
+    "pedal": "Bass Fuzz",
     "catalog_type": "",
-    "research_record": "./research/pedals/1981 Inventions/LVL.md",
+    "research_record": "./research/pedals/A.Y.A/Bass Fuzz.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "1981 Inventions",
-      "pedal": "LVL",
-      "catalog_type": "",
-      "research_record": "./research/pedals/1981 Inventions/LVL.md",
-      "research_level": "surface"
-    },
     {
       "builder": "A.Y.A",
       "pedal": "Bass Fuzz",
@@ -97,13 +90,6 @@
       "pedal": "Metal Maniac - Mega Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/A&M Custom Effects/Metal Maniac - Mega Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "A&M Custom Effects",
-      "pedal": "Twin Pro - Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/A&M Custom Effects/Twin Pro - Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Yeti Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Abominable Electronics/Yeti Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "AboveGroundFX",
+      "pedal": "El Griton Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/AboveGroundFX/El Griton Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "AboveGroundFX",
+      "pedal": "Rocks Hard",
+      "catalog_type": "",
+      "research_record": "./research/pedals/AboveGroundFX/Rocks Hard.md",
       "research_level": "surface"
     }
   ]

@@ -1,0 +1,25 @@
+{
+  "builder": "Ibanez",
+  "pedal": "JEMINI",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/ibanez-jemini-distortion",
+      "title": "Ibanez Jemini Distortion - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://equipboard.com/items/ibanez-jemini-distortion-guitar-effects-pedal",
+      "title": "Ibanez Jemini \u2014 Distortion Pedal | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

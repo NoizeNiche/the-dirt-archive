@@ -1,0 +1,41 @@
+{
+  "builder": "Henretta Engineering",
+  "pedal": "H-Bomb",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/henretta-engineering-h-bomb-fuzz",
+      "title": "Henretta Engineering H Bomb Fuzz - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/henretta/hbomb/fuzz",
+      "title": "Henretta Engineering H-Bomb Fuzz - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://equipboard.com/items/henretta-engineering-h-bomb-trembrato",
+      "title": "Henretta Engineering H-Bomb Trembrato - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.premierguitar.com/henretta-engineering-introduces-the-h-bomb-trembrato",
+      "title": "Henretta Engineering Introduces the H-Bomb Trembrato - Premier Guitar",
+      "h1": "Henretta Engineering Introduces the H-Bomb Trembrato",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Henretta Engineering Introduces the H-Bomb Trembrato - Premier Guitar &#32; &#32; Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts Shred With Shifty Wong Notes 100 Guitarists Win Digital Magazine close Search <div",
+      "host": "www.premierguitar.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

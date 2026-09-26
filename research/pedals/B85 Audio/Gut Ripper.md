@@ -1,49 +1,38 @@
-# B85 Audio - Gut Ripper
+# B85 Audio — Gut Ripper
 
 ## PRP identity
 - **Archive parent:** Gut Ripper
 - **Builder:** B85 Audio
 - **Catalog type:** Distortion
-- **Identity:** High-gain guitar distortion preamp based on the Wampler Triple Wreck circuit with builder-specific modifications.
+- **Identity:** B85 Audio's Gut Ripper.
 
 ## What this pedal is
-B85 Audio describes the Gut Ripper as a handcrafted high-gain guitar distortion preamp derived from the Wampler Triple Wreck circuit and modified with increased gain plus a buffer after the distortion section. The builder describes the resulting voice as inspired by Mesa Boogie Dual Rectifier and Peavey 5150-style high-gain amplifiers.
+Typ: Distortion / Preamp Ovládání: Level, Gain, Treble, Middle, Bass, Crem a Face True bypass: Ano Vstup: Mono Výstup: Mono Napájení: Adaptér 9V DC Center negative (adaptér není součástí) Rozměry: cca X=94 mm, Y=124 mm, Z=51 mm ( rozměry jsou uváděny se všemi namontovanými díly, použitá krabička Hammond 1590BB ) B85 Audio Gut Ripper is a handcrafted high-gain guitar distortion preamp based on the Wampler Triple Wreck circuit, modified with several custom improvements.
 
 ## Colorways
-- A documented production example is a **black Hammond-style enclosure with the Gut Ripper graphic**.
-- No complete factory colorway chronology was verified.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Gut Ripper production
-- Volume
-- Gain
-- Bass
-- Middle
-- Treble
-- CREAM character control/function documented by the builder
-- FACE character function documented by the builder
-- True bypass
-- 9 V DC center-negative
-- Hammond 1590BB-size enclosure, approximately 94 x 124 x 51 mm
-- Hand assembled in Czechia
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision was verified.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Analog high-gain distortion/preamp architecture derived from the Wampler Triple Wreck circuit.
-- **Exact device:** Transistor part numbers were not publicly documented in the checked sources.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-B85 Audio positions the Gut Ripper as a dense, aggressive, defined high-gain distortion voice rather than a loose vintage fuzz. The builder's stated references are Mesa Boogie Dual Rectifier and Peavey 5150-style tones, with the added gain and post-distortion buffer intended to reinforce the output.
+Momentálně nedostupné / Currently unavailable Kód: GR Značka: B85 audio 2 500 Kč Měrná cena: Množství &plus; &minus; Do košíku Kategorie : Efekty Záruka : 2 roky Tisk Zeptat se Sdílet Tweet Zavřít ZDARMA ZDARMA Popis Videa (2) Diskuze B85 Audio Gut Ripper je ručně vyráběný podlahový hi-gain kytarový distortion preamp vycházející ze zapojení Wampler Triple Wreck, upravený o několik vlastních modifikací.
+Mezi hlavní úpravy patří navýšení gainu a přidání bufferu na konci distortion sekce, který celkově posiluje a zpevňuje výsledný zvuk.
+Zvukově je Gut Ripper inspirován moderními high-gain zesilovači typu Mesa Boogie Dual Rectifier nebo Peavey 5150.
 
 ## Sources checked
-1. B85 Audio official product page: https://www.b85audio.cz/gut-ripper/
-2. Effects Database B85 Audio category: https://www.effectsdatabase.com/model/b85
+1. Gut Ripper - B85 audio: https://www.b85audio.cz/gut-ripper/
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- An exact-model Effects Database image was located, but a safe direct archival image URL was not confirmed in this pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

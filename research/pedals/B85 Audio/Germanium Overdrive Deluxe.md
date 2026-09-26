@@ -1,51 +1,38 @@
-# B85 Audio - Germanium Overdrive Deluxe
+# B85 Audio — Germanium Overdrive Deluxe
 
 ## PRP identity
 - **Archive parent:** Germanium Overdrive Deluxe
 - **Builder:** B85 Audio
 - **Catalog type:** Overdrive
-- **Identity:** Deluxe version of B85 Audio's Tube Screamer 808-derived germanium-clipping overdrive, distinguished by an improved aesthetic design and a higher-grade op-amp.
+- **Identity:** B85 Audio's Germanium Overdrive Deluxe.
 
 ## What this pedal is
-The Germanium Overdrive Deluxe keeps the base Germanium Overdrive's Tube Screamer 808-derived architecture, two-band EQ, and pair of germanium diodes. B85 Audio identifies the Deluxe change as an improved design plus a higher-grade operational amplifier intended to improve dynamics, clarity, and openness.
+Parametry a specifikace: Typ: Overdrive Ovládání: Level, Bass, Treble, Drive True bypass: Ano Vstup: Mono Výstup: Mono Napájení: 9V Baterií nebo adaptér 9V až 12V DC Center negative (Baterie ani adaptér není součástí) Rozměry: cca X=119 mm, Y=100 mm, Z=52 mm ( rozměry jsou uváděny se všemi namontovanými díly, použitá krabička Hammond 1590BB či ekvivalent ) B85 Audio Germanium Overdrive Deluxe is a floor effect pedal based on the legendary Tube Screamer 808 circuit, expanded with a two-band equalizer and germanium diodes for a more natural, dynamic, and musical overdrive character.
 
 ## Colorways
-- A documented Deluxe example uses a **silver faceplate with black enclosure**.
-- No complete factory colorway chronology was verified.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Germanium Overdrive Deluxe
-- Level
-- Drive
-- Bass, +/-15 dB at 85 Hz
-- Treble, +/-15 dB at 8800 Hz
-- True bypass
-- 9 V battery or 9-12 V DC center-negative
-- Hammond 1590BB or equivalent enclosure
-- Hand-built PCB assembly
-- Higher-grade op-amp than the classic Germanium Overdrive
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-### Deluxe versus classic Germanium Overdrive
-B85 Audio states that the Deluxe uses an improved aesthetic design and a higher-grade op-amp. The stated goal of that change is better dynamics, clarity, and a more open sound.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Analog overdrive with an op-amp-based signal path.
-- **Exact device:** The exact transistor and exact op-amp part number are not publicly documented in the checked sources.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Clipping:** A pair of germanium diodes is explicitly documented.
-- **Exact part number:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The Deluxe retains the base model's broad EQ flexibility and germanium-clipping character. B85 Audio specifically attributes greater dynamics, clarity, and openness to the upgraded op-amp and revised design.
+Germanium Overdrive Deluxe - B85 audio Musíte změnit nastavení vašeho prohlížeče Podívejte se na: Jak povolit JavaScript ve vašem prohlížeči .
+Zakázky servis Information in English Kontakt Obchodní podmínky Přihlášení Více Hledat Přihlášení Nákupní košík Menu Domů / Efekty / Germanium Overdrive Deluxe Postranní panel Germanium Overdrive Deluxe Skladem 1 kus.
+Skladem / In stock Kód: GO-DELUXE Značka: B85 audio 2 800 Kč Měrná cena: Množství &plus; &minus; Do košíku Kategorie : Efekty Záruka : 2 roky Tisk Zeptat se Sdílet Tweet Zavřít Tip Tip ZDARMA ZDARMA Popis Videa (2) Diskuze B85 Audio Germanium Overdrive Deluxe je podlahový efekt postavený na legendárním zapojení Tube Screamer 808, rozšířený o dvoupásmový ekvalizér a germaniové diody pro přirozenější, dynamičtější a muzikálnější zkreslení.
 
 ## Sources checked
-1. B85 Audio official product page: https://www.b85audio.cz/germanium-overdrive-deluxe/
-2. Effects Database: https://www.effectsdatabase.com/model/b85/overdrive/germanium/deluxe
-3. Equipboard image record: https://images.equipboard.com/uploads/item/image/116974/b85-audio-b85-audio-germanium-overdrive-deluxe.jpg?v=1754871071
+1. Germanium Overdrive Deluxe - B85 audio: https://www.b85audio.cz/germanium-overdrive-deluxe/
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://images.equipboard.com/uploads/item/image/116974/b85-audio-b85-audio-germanium-overdrive-deluxe.jpg?v=1754871071
-- **Source page:** https://www.b85audio.cz/germanium-overdrive-deluxe/
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
