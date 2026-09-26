@@ -47,3 +47,21 @@ The Avora FY-6 belongs to the classic Super Fuzz sound family: aggressive, cutti
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/avora/fy6
 - **Archive note:** Exact-model archival imagery exists in external references, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Avora's FY-6 Super Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v1, v2.
+
+### Verified sound evidence
+It produces the classic snarling, octave-infused fuzz tones that became a defining sound of early heavy rock.
+Controls Expander (with On/Off switch): Adjusts the intensity of the fuzz effect and doubles as the main power switch.
+Tone switch: Two-way slide switch; Position 1 selects a mid-forward fuzz tone, Position 2 adds a thicker sustained tone with emphasized low end.
+
+### Sources checked in this pass
+1. Avora FY-6 Super Fuzz | Effects Database: https://www.effectsdatabase.com/model/avora/fy6

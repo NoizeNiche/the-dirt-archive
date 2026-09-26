@@ -4288,8 +4288,8 @@
       "research_record": "./research/pedals/PRP Batch 057/SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF.md",
       "image_source_url": "http://animalspedal.us/cdn/shop/files/SURFING_POLAR_BEAR_BASS_OVERDRIVE-01.jpg?v=1753148996",
       "image_source_page": "https://animalspedal.us/products/animals-pedal-surfing-polar-bear-bass-overdrive-mod-by-bjf",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Animals Pedal",
@@ -5574,8 +5574,8 @@
       "research_record": "./research/pedals/Avora/FY-6 Super Fuzz.md",
       "image_source_url": "https://shin-ei.com/image/cache/catalog/Astron/af4-1000x1000.jpg",
       "image_source_page": "https://shin-ei.com/ASTRON-FY6-SUPER-FUZZ",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Award-Session",
@@ -49252,8 +49252,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Kangra Filter Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",

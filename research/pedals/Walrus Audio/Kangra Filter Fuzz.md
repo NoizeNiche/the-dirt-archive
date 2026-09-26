@@ -1,23 +1,45 @@
 # Walrus Audio — Kangra Filter Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Kangra Filter Fuzz
 - **Builder:** Walrus Audio
-- **Pedal:** Kangra Filter Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Walrus Audio's Kangra Filter Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Kangra Filter Fuzz** by **Walrus Audio** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+SNL Guitarist and fuzz fanatic, Jared Scharff, approached us about doing a modern filtered and fuzz inspired by his favorite vintage fuzz pedal, the Kay Fuzz Tone.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MKII.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The filter can run independently, or with the fuzz feeding into it.
+Dig in and play dirty with aggressive fuzz lead lines that’ll rip time and space apart at the seams.
+SNL Guitarist and fuzz fanatic, Jared Scharff, approached us about doing a modern filtered and fuzz inspired by his favorite vintage fuzz pedal, the Kay Fuzz Tone.
+
+## Sources checked
+1. Kangra Filter Fuzz by Walrus Audio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Walrus-Audio/Kangra-Filter-Fuzz/68986279/
+2. Walrus Audio Kangra Filter Fuzz Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/1097/walrus-audio-kangra-filter-fuzz
+3. Walrus Audio Kangra Filter Fuzz - Effects Pedals: https://www.effects-pedals.info/p/walrus-audio-kangra-filter-fuzz/
+4. Walrus Audio Kangra Filter Fuzz - Reverb: https://reverb.com/p/walrus-audio-kangra-filter-fuzz
+5. Kangra Filter Fuzz: https://www.walrusaudio.com/pages/kangrafilterfuzz
+6. Walrus Audio Reveals the Kangra Filter Fuzz - Bass Magazine: https://bassmagazine.com/walrus-audio-reveals-the-kangra-filter-fuzz/
+7. Walrus Audio Kangra Filter Fuzz - Effects & Pedals for Drive, Delay, Reverb & More: https://www.pedalbeam.com/product/walrus-audio-kangra-filter-fuzz/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

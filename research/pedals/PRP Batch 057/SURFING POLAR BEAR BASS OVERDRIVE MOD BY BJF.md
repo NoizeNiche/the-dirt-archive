@@ -34,3 +34,18 @@ The SPBBOD is tuned for bass clarity, preserving low-end and root notes while ad
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** Animals Pedal USA product and exact-model imagery.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+This is the Surfing Polar Bear Bass OD (MOD BY BJF) Based on Animals Pedal’s popular Surfing Bear Overdrive pedal, we have made the best bass overdrive possible with the help of genius effects designer Björn Juhl from BJFe – the IT’S JUST SURFING POLAR BEAR BASS OD MOD BY BJF.
+
+### Verified sound evidence
+If you want to make a more aggressive tone with your bass, distortion can be extreme like a fuzz – or you can use a more light-gain solution that retains the tone of your bass.
+This is the Surfing Polar Bear Bass OD (MOD BY BJF) Based on Animals Pedal’s popular Surfing Bear Overdrive pedal, we have made the best bass overdrive possible with the help of genius effects designer Björn Juhl from BJFe – the IT’S JUST SURFING POLAR BEAR BASS OD MOD BY BJF.
+In addition to helping create an overdriven sound from classic tube bass amps from the 60s and 70s, modern electric bassists are also playing heavier lines in unison with the rhythm guitars to create massive riffs.
+
+### Sources checked in this pass
+1. Animals Pedal SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF – Animals Pedal USA: https://animalspedal.us/products/animals-pedal-surfing-polar-bear-bass-overdrive-mod-by-bjf
