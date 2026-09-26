@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T03:16:02.530360+00:00",
+  "generated_at": "2026-09-26T03:19:02.610706+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2540,
     "complete": 2540,
     "research_pending": 0,
-    "deep_research_pending": 3380,
-    "deep_researched": 381,
+    "deep_research_pending": 3378,
+    "deep_researched": 383,
     "surface_ready": 3761
   },
   "next_target": {
@@ -27,20 +27,6 @@
       "pedal": "Operation 1",
       "catalog_type": "",
       "research_record": "./research/pedals/Aleatorik/Operation 1.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Aleatorik",
-      "pedal": "Operation 2",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Aleatorik/Operation 2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Aleatorik",
-      "pedal": "Operation 3",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Aleatorik/Operation 3.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Big Bloom Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 047/Big Bloom Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amplified Nation",
+      "pedal": "Bigger Bloom Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 047/Bigger Bloom Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "AmpMojo",
+      "pedal": "Skate Fuzz (SKUZZ)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 048/Skate Fuzz (SKUZZ).md",
       "research_level": "surface"
     }
   ]
