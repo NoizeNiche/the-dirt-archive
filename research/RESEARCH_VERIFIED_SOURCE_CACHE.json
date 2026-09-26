@@ -1,0 +1,36 @@
+{
+  "version": "research-verified-source-cache-v1",
+  "purpose": "Externally inspected exact-model evidence retained for reuse when live source fetching is blocked or unstable.",
+  "records": [
+    {
+      "builder": "Amsterdam Cream",
+      "pedal": "Original Distortion",
+      "sources": [
+        {
+          "url": "https://www.tumgik.com/amsterdamcream",
+          "host": "www.tumgik.com",
+          "source_kind": "catalog_verified",
+          "title": "amsterdamcream - Tumblr blog | Tumgik",
+          "h1": "",
+          "excerpt": "ORIGINAL DISTORTION. The Original Distortion captures an old full tube amp again. A high quality carbon composition resistor is used for a better sound. It gives a bluesy, vintage, and rich feel with low gain while it gives a full, deep, and strong sound with high gain. The Original Distortion has a very high volume. Specifications: Control Volume, Distortion. Size 91x38x30mm. True Bypass. Hand Made in Korea."
+        },
+        {
+          "url": "https://toy-love.hatenablog.com/entry/20120625/1340628332",
+          "host": "toy-love.hatenablog.com",
+          "source_kind": "catalog_verified",
+          "title": "Amsterdam Creamエフェクター、ミニサイズディストーションやパワーサプライ等もあります。",
+          "h1": "Amsterdam Cream Original Distortion",
+          "excerpt": "Amsterdam Cream Original Distortion. First is the Original Distortion, a distortion pedal. It uses a mini-size enclosure with Dist and Volume controls. The model is described as being made with attention to parts and characterized by a thick, harmonically rich sound."
+        },
+        {
+          "url": "https://shineguitar.co.kr/product/detail.html?cate_no=492&display_group=1&product_no=2347",
+          "host": "shineguitar.co.kr",
+          "source_kind": "catalog_verified",
+          "title": "Amsterdam Cream Original Distortion 오리지널디스토션",
+          "h1": "Amsterdam Cream Original Distortion 오리지널디스토션",
+          "excerpt": "Manufacturer/producer and importer are Amsterdam cream / Q-Tech. Country of origin is Amsterdam cream / Korea. Product/model name is Amsterdam Cream Original Distortion. The same-model release date is listed as March 1, 2013."
+        }
+      ]
+    }
+  ]
+}
