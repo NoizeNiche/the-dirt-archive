@@ -32772,8 +32772,8 @@
       "image": "./assets/pedals/fender/fender-drive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Fender Drive Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -34145,8 +34145,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Royal Velvet.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -35051,8 +35051,8 @@
       "image": "./assets/pedals/idiotbox-effects/cool-buzz-bass-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Cool Buzz Bass Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -35063,8 +35063,8 @@
       "image": "./assets/pedals/idiotbox-effects/death-master/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Death Master.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -36609,8 +36609,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Blues Disorder Overdrive and Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -37849,8 +37849,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Beryl.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
@@ -38538,8 +38538,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Amber Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mad Professor Amplification",
@@ -51133,8 +51133,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Zander Circuitry/Surplus.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Zander Circuitry",

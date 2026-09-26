@@ -1,23 +1,44 @@
 # Fender — Fender Drive Pedal
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Fender Drive Pedal
 - **Builder:** Fender
-- **Pedal:** Fender Drive Pedal
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Fender's Fender Drive Pedal.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Fender Drive Pedal** by **Fender** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Take the &quot;IS IT GOOD FOR ME?&quot; test Related reviews We recommend the following related gear as Fender Drive Pedal is not so popular with our community " Punchy, dual-engine distortion that blends vintage warmth with modern flexibility.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Fender Drive Pedal review | MusicRadar @font-face { font-family: "Roboto Condensed-fallback"; size-adjust: 88.91000000000001%; ascent-override: 110%; src: local(Arial); } @font-face { font-family: "Open Sans-fallback"; size-adjust: 105.42999999999994%; ascent-override: 105%; src: local(Arial); } @font-face { font-family: "Open Sans Condensed-fallback"; size-adjust: 82%; src: local(sans-serif); } @font-face { font-family: "Open Sans Condensed-fallback"; size-adjust: 87%; ascent-override: 110%; descent-override: 41%; src: local(Arial); } @font-face { font-family: "Open Sans Condensed-fallback"; size-adjust: 105%; ascent-override: 100%; descent-override: 30%; src: local("Arial Narrow"); } @font-face { font-family: "Open Sans Condensed-fallback"; size-adjust: 89%; ascent-override: 89%; src: local("Helvetica"); } @font-face { font-family: "Open Sans"; font-weight: 300; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1761919/media/shared/fonts/OpenSans-300-Light.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: "Open Sans"; font-weight: 400; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1761919/media/shared/fonts/OpenSans-400-Regular.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: "Open Sans"; font-weight: 600; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1761919/media/shared/fonts/OpenSans-600-SemiBold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: "Open Sans"; font-weight: 700; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1761919/media/shared/fonts/OpenSans-700-Bold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: "Open Sans"; font-weight: 800; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1761919/media/shared/fonts/OpenSans-800-ExtraBold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: "musicradar"; src: url('https://vanilla.futurecdn.net/musicradar/1761919/media/fonts/musicradar.woff') format('woff'); font-display: "swap"; } /* --flexi-layout-- */ @layer legacy {.widget-area svg {visibility: hidden;}} /* --flexi-core-- */ @charset "UTF-8";@layer legacy{.special1{font-weight:400}.special2{font-weight:700;text-transform:capitalize}.special3{font-weight:400}.h1,.heading1a{font-weight:700;line-height:normal;margin:0;text-transform:uppercase}.h1b,.heading1b{font-weight:700;font-size:1.25em;line-height:1.4;margin-bottom:4px}.h1c,.h2,.heading1c,.heading2{font-weight:700;text-transform:uppercase}.h3,.heading3a{font-weight:600}.h3b,.heading3b{font-weight:700;text-transform:uppercase}.h3c,.heading3c{font-weight:700;text-transform:capitalize}.subheading1{font-weight:600}.subheading2,.subheading3,.subheading4{font-weight:700;text-transform:uppercase}.txt1a,.txt1b{font-weight:400}.txt2a{font-weight:600}.txt2b,.txt2c,.txt3{font-weight:400}:root{--brand-font-family-1:Arial, sans-serif;--brand-font-family-2:Arial, sans-serif;--brand-font-weight-light:100;--brand-font-weight-medium:400;--brand-font-weight-heavy:700;--brand-font-size-big:32px;--brand-font-size-medium:16px;--brand-font-size-small:12px;--brand-line-height-big:26px;--brand-line-height-medium:22px;--brand-line-height-small:16px;--brand-color-1:#090E21;--brand-color-2:#E40784;--brand-color-3:#3D73D1;--brand-color-black:#1B1B1B;--brand-color-white:#FFFFFF;--brand-color-grey:#EDEDED;--brand-secondary-color-1:#A910E8;--brand-secondary-color-2:#520B3D;--brand-secondary-color-3:#FF9900}@media screen and (min-width:700px){:root{--brand-font-size-big:42px;--brand-font-size-medium:18px;--brand-font-size-small:12px;--brand-line-height-big:56px;--brand-line-height-medium:26px;--brand-line-height-small:16px}}:root{--brand-layout-margin-default:0px;--brand-layout-padding-default:15px;--brand-layout-margin-top:25px;--brand-layout-margin-right:var(--brand-layout-
+- Make sure to check out the reviews but first of all press the red button below to see if it fits your music taste.
+- First Impressions The pedal has a satisfying, compact heft and the anodized-gold finish looks sharper in person than the photos implied.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Fender Drive Pedal review | MusicRadar @font-face { font-family: "Roboto Condensed-fallback"; size-adjust: 88.91000000000001%; ascent-override: 110%; src: local(Arial); } @font-face { font-family: "Open Sans-fallback"; size-adjust: 105.42999999999994%; ascent-override: 105%; src: local(Arial); } @font-face { font-family: "Open Sans Condensed-fallback"; size-adjust: 82%; src: local(sans-serif); } @font-face { font-family: "Open Sans Condensed-fallback"; size-adjust: 87%; ascent-override: 110%; descent-override: 41%; src: local(Arial); } @font-face { font-family: "Open Sans Condensed-fallback"; size-adjust: 105%; ascent-override: 100%; descent-override: 30%; src: local("Arial Narrow"); } @font-face { font-family: "Open Sans Condensed-fallback"; size-adjust: 89%; ascent-override: 89%; src: local("Helvetica"); } @font-face { font-family: "Open Sans"; font-weight: 300; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1761919/media/shared/fonts/OpenSans-300-Light.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: "Open Sans"; font-weight: 400; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1761919/media/shared/fonts/OpenSans-400-Regular.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: "Open Sans"; font-weight: 600; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1761919/media/shared/fonts/OpenSans-600-SemiBold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: "Open Sans"; font-weight: 700; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1761919/media/shared/fonts/OpenSans-700-Bold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: "Open Sans"; font-weight: 800; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1761919/media/shared/fonts/OpenSans-800-ExtraBold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: "musicradar"; src: url('https://vanilla.futurecdn.net/musicradar/1761919/media/fonts/musicradar.woff') format('woff'); font-display: "swap"; } /* --flexi-layout-- */ @layer legacy {.widget-area svg {visibility: hidden;}} /* --flexi-core-- */ @charset "UTF-8";@layer legacy{.special1{font-weight:400}.special2{font-weight:700;text-transform:capitalize}.special3{font-weight:400}.h1,.heading1a{font-weight:700;line-height:normal;margin:0;text-transform:uppercase}.h1b,.heading1b{font-weight:700;font-size:1.25em;line-height:1.4;margin-bottom:4px}.h1c,.h2,.heading1c,.heading2{font-weight:700;text-transform:uppercase}.h3,.heading3a{font-weight:600}.h3b,.heading3b{font-weight:700;text-transform:uppercase}.h3c,.heading3c{font-weight:700;text-transform:capitalize}.subheading1{font-weight:600}.subheading2,.subheading3,.subheading4{font-weight:700;text-transform:uppercase}.txt1a,.txt1b{font-weight:400}.txt2a{font-weight:600}.txt2b,.txt2c,.txt3{font-weight:400}:root{--brand-font-family-1:Arial, sans-serif;--brand-font-family-2:Arial, sans-serif;--brand-font-weight-light:100;--brand-font-weight-medium:400;--brand-font-weight-heavy:700;--brand-font-size-big:32px;--brand-font-size-medium:16px;--brand-font-size-small:12px;--brand-line-height-big:26px;--brand-line-height-medium:22px;--brand-line-height-small:16px;--brand-color-1:#090E21;--brand-color-2:#E40784;--brand-color-3:#3D73D1;--brand-color-black:#1B1B1B;--brand-color-white:#FFFFFF;--brand-color-grey:#EDEDED;--brand-secondary-color-1:#A910E8;--brand-secondary-color-2:#520B3D;--brand-secondary-color-3:#FF9900}@media screen and (min-width:700px){:root{--brand-font-size-big:42px;--brand-font-size-medium:18px;--brand-font-size-small:12px;--brand-line-height-big:56px;--brand-line-height-medium:26px;--brand-line-height-small:16px}}:root{--brand-layout-margin-default:0px;--brand-layout-padding-default:15px;--brand-layout-margin-top:25px;--brand-layout-margin-right:var(--brand-layout-
+Musician reviews: Fender Drive Pedal - "I picked it..." Skip to main content MUSICnGEAR 2 million gear recommendations & counting Blog Interviews Genres Brands Artists Guitars and Basses Distortion Pedals More What&#039;s good for me?
+New Indie Folk / Folktronica / Chamber Pop - September 2026 Latest activity A The Beatles fan took the test for Austrian Audio Hi-X18 53 min 54 sec ago Blog Interviews Genres Brands Artists Fender Drive Pedal Home Guitar and Bass Effects Distortion Pedals Fender Fender Drive Pedal Reviews Fender presents Distortion Pedals Drive Pedal .
+
+## Sources checked
+1. Fender Drive Pedal Manual: https://www.manualowl.com/p/Fender/Drive-Pedal/Manual/243090
+2. Fender Drive Pedal review | MusicRadar: https://www.musicradar.com/reviews/guitars/fender-drive-pedal-581646
+3. Fender Fender Drive Pedal Reviews - reviewowl.com: https://www.reviewowl.com/p/Fender/Fender-Drive-Pedal/Review/269062
+4. Musician reviews: Fender Drive Pedal - "I picked it...": https://www.musicngear.com/fender-drive-pedal/reviews
+5. Fender Fender Drive Pedal (2013-2015) Owner&#x27;s manual | Manualzz: https://manualzz.com/doc/51880697/fender-fender-drive-pedal--2013-2015--owner-s-manual
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

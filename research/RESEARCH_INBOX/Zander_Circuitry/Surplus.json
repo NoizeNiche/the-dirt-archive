@@ -1,0 +1,25 @@
+{
+  "builder": "Zander Circuitry",
+  "pedal": "Surplus",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://zandercircuitry.com/product/surplus/",
+      "title": "Surplus &#8211; Zander Circuitry",
+      "h1": "Surplus",
+      "excerpt": "Surplus &#8211; Zander Circuitry Home Store About FAQs/Terms Dealers Contact 0 Basket Home / Overdrive / Surplus Surplus &pound; 149.00 The elemental overdriver. More restrained. More responsive. We love wild fuzzes, obscure overdrives and walls of distortion. But every rig needs a tamer side to fill the gaps and glue everything together. The Surplus delivers all of that and more, with the versatility to go from boost and subtle drive tones all the way through to full-throttle distortion and even fuzz. The flexibility\u2019s there. It\u2019s your job to use it to unlock your signature sound. Out of stock Out of stock Share this product Categories: Boost , Overdrive , Pedals Tag: Pedals Next Product Description Description Overview Deep Dive Tech Specs Demos Overview The Surplus is our version of a classic boost/overdrive circuit, but there\u2019s a lot more under the hood than you might expect. Once you dive in, you\u2019ll find two channels, the ability to tweak the input and output capacitor value, and our signature eight-way clipping selector for a broad range of distortion flavours. The result? An all-in-one pedal that helps you unlock dozens of different drive sounds. Use them as the foundations of your tone, uniquely voiced boosts for ripping solos, or anything in-between. Deep Dive Two channels are better than one. So the Surplus brings dual-channel flexibility to the party \u2013 each with their own level and gain controls. That means you can dial in two different sounds, easily switch between them on the fly, or reach either of them from the pedal\u2019s bypassed state by activating the relevant footswitch. There\u2019s also a Response control that affects both channels. This alters the input and output capacitor value, rolling off the gain and low-end signal to unlock complex \u2018broken\u2019 drive sounds. The Surplus also comes with Zander\u2019s diode rotary switch, which lets you choose between eight different clipping types: Germanium: Smooth, sweet, and classically \u2018amp-like\u2019. Silicon: Louder, brighter, and a little bit brittle. LED: Louder again, with less saturation and more punch. Asymmetrical germanium: A more aggressive version of germanium. Asymmetrical silicon: A more aggressive version of silicon. Asymmetrical LED: A more aggressive version of LED. Transistor/MOSFET: Similar to silicon, but sweeter and crunchier. No diodes: Loads of output and much less gain. Each of these will flavour the Surplus\u2019 drive tones in a unique way. And when you dial the gain control all the way up, you get the spitting, gated distortion familiar to anyone who\u2019s ever plugged their guitar directly into a recording console. Tech Specs There are seven controls to help you pull the perfect drive tone from the Surplus: Level 1: Output volume for channel 1 Gain 1: Gain control for channel 1 Level 2: Output volume for channel 2 Gain 2: Gain control for channel 2 Tone: EQ for the output signal Response: Alters the input capacitor value (low-end response and overall gain) Rotary: Clipping diode selector It also has two footswitches: Channel 1 : Activates channel 1 and its controls Channel 2 : Activates channel 2 and its controls The Surplus features both momentary and latching switching, which means you can hold down one of the footswitches to temporarily engage an effect and then release it to return to normality. Not to mention: Top-mounted in/out jacks Power requirements: 9V DC (center-negative) supply Current draw: 100 mA Dimensions: (W)67 mm x (L)122 mm x (H)60 mm Please don\u2019t try to power this pedal with anything other than a 9V DC supply. If you do, your shiny new pedal might stop working, and nobody wants that. Demos Related products Foxxton Woods &pound; 149.00 Add to basket Out of stock Siva &pound; 149.00 Read more Sale! Templo &pound; 299.00 Original price was: &pound;299.00. &pound; 224.00 Current price is: &pound;224.00. Add to basket Out of stock Cranium &pound; 149.00 Read more Currency \ud83c\uddec\ud83c\udde7 &pound; GBP \ud83c\udde6\ud83c\uddfa &#36; AUD \ud83c\udde8\ud83c\udde6 &#36; CAD \ud83c\uddea\ud83c\uddfa &euro; EUR \ud83c\uddf3\ud83c\uddff &#36; NZD \ud83c\uddfa\ud83c",
+      "host": "zandercircuitry.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/38638298-zander-circuitry-surplus-overdrive",
+      "title": "Zander Circuitry Surplus Overdrive - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

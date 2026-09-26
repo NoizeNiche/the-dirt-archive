@@ -1,23 +1,42 @@
 # Leqtique — Beryl
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Beryl
 - **Builder:** Leqtique
-- **Pedal:** Beryl
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Leqtique's Beryl.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Beryl** by **Leqtique** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Beryl EVR Manual &ndash; Leqtiqueshop Skip to content Submit Close search Leqtiqueshop Submit Search Log in Cart Beryl EVR Manual Leqtique EVR - This is the manual page for Beryl EVR.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+This pedal shares many of its sound and features with the 2018 Leqtique - Beryl.
+Leqtique EVR Beryl EVR(NEW) - TC楽器 - TCGAKKI "use strict";(()=>{function readTemplates(){let templates={};templates= { "quickView": "\u003c!-- TEMPLATE QUICK VIEW --\u003e{% if product.original_images != nil %}{% assign imageArray = product.original_images %}{% else %}{% assign imageArray = product.images_info %}{% endif %}{% if imageArray.size == 0 %}{% assign imageArray = \"no_image\" | split: ' ' %}{% endif %}{% assign show_prev_next_btns = imageArray.size \u003e 4 %}{% capture productData %}{\"id\": \"{{ product.id }}\",\"handle\": \"{{ product.handle }}\",\"variantId\": \"{{ product.variant_id }}\",\"splitProduct\": \"{{ product.split_product }}\",\"variants\": {{ product.variants | json | escape }},\"tags\": {{ product.tags | json | escape }},\"images\": {{ imageArray | json | escape }},\"category\": \"{{ product.product_type | escape }}\",\"tags\" : {{ product.tags | json | escape }},\"priceMin\": \"{{ product.price_min }}\",\"options_with_values\": {{ product.options_with_values | json | escape }}}{% endcapture %}{% if product.variants.size == 1 and product.variants.title == 'Default Title' %}{% assign isDefaultOption = true %}{% else %}{% assign isDefaultOption = false %}{% endif %}\u003cdiv aria-modal=\"true\" role=\"dialog\" aria-label=\"Quick view detail for product {{ product.title | escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData | json_encode }}'\u003e\u003cdiv class=\"boost-sd__modal-backdrop\"\u003e\u003c\/div\u003e\u003cdiv class=\"boost-sd__modal-container\"\u003e \u003cdiv tabindex=\"-1\" class=\"boost-sd__modal-wrapper\"\u003e \u003cdiv class=\"boost-sd__quick-view\" product-id=\"{{ product.id }}\"\u003e \u003cdiv class=\"boost-sd__quick-view-product-image\"\u003e \u003cdiv class=\"boost-sd__slider boost-sd__slider--flex-column\"\u003e \u003cdiv class=\"boost-sd__thumbs-container boost-sd__thumbs-container--horizontal\"\u003e {% if show_prev_next_btns %} \u003cdiv class=\"boost-sd__thumbs-container-prev-button boost-sd__thumbs-container-prev-button--horizontal\"\u003e\u003cbutton type=\"button\" aria-label=\"Previous\" class=\"boost-sd__button boost-sd__button--circle boost-sd__button--full-width\" style=\"padding: 0px;\" disabled=\"\"\u003e\u003cspan class=\"boost-sd__icon\" style=\"margin: 0px;\"\u003e \u003csvg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" fill=\"none\" viewBox=\"0 0 10 7\" height=\"7\" width=\"10\" class=\"boost-sd__thumbs-container-button-icon\"\u003e \u003cpath stroke-linejoin=\"round\" stroke-linecap=\"round\" stroke=\"currentColor\" d=\"M0.764024 5.51189L5.00002 1.28789L9.23602 5.51189\"\u003e\u003c\/path\u003e \u003c\/svg\u003e \u003c\/span\u003e\u003c\/button\u003e\u003c\/div\u003e {% endif %} \u003cdiv class=\"boost-sd__thumbs-container-thumbs boost-sd__thumbs-container-thumbs--horizontal\"\u003e {% if request.previewMode == true %} {% for image in imageArray limit: 4 %} \u003cdiv class=\"boost-sd__thumbs-container-thumbs-item\"\u003e \u003cdiv class=\"boost-sd__slide\"\u003e \u003cdiv class=\"boost-sd__product-image-wrapper boost-sd__product-image-wrapper--aspect-ratio-3-4\"\u003e \u003cdiv class=\"boost-sd__product-image\"\u003e \u003cimg id=\"product-image-{{ product.id }}\" class=\"boost-sd__product-image-img boost-sd__product-image-img--main\" {% if image.src %} src=\"{{ image.src }}\" {% else %} src=\"https:\/\/cdn.shopify.com\/extensions\/201f4d7b-8d39-43a4-82de-e6f412341695\/0.0.0\/assets\/boost-pfs-no-image.jpg?v=1677838268\" {% endif %} fetchpriority=\"auto\" sizes=\"200px\" decoding=\"async\" loading=\"eager\" alt=\"{{ product.title | escape }}\" width=\"auto\" height=\"auto\" \/\u003e \u003c\/div\u003e \u003c\/div\u003e \u003c\/div\u003e \u003c\/div\u003e {% endfor %} {% else %} {% for image in imageArray %} \u003cdiv class=\"boost-sd__thumbs-container-thumbs-item\"\u003e \u003cdiv class=\"boost-sd__slide\"\u003e \u003cdiv class=\"boost-sd__product-image-wrapper boost-sd__product
+【レビュー】Leqtique Beryl - あさぎベーススタジオ あさぎベーススタジオ 読者になる あさぎベーススタジオ もはやベース用エフェクターの備忘録 ホーム エフェクター その他機材 あさぎ自分語り 2019 - 05 - 05 【レビュー】Leqtique Beryl エフェクター イシバシ楽器でLeqtique Berylの価格を見る 今回レビューするものはギター用オーバードライブ、ディストーションとなるLeqtique Berylです。 主な仕様として コントロール：Volume・Treble-Cut・Gain・Low-Cut 電源：DC7V〜18Vセンターマイナス 消費電流：6.1mA 重量：250g サイズ：W60mm x D111mm x H46mm トゥルーバイパス アナログエフェクター 9V電池内蔵可能 となっています。 公式サイト &#x88FD;&#x54C1;&#x60C5;&#x5831; &#x30FC; Leqtique | &#x682A;&#x5F0F;&#x4F1A;&#x793E;&#x30AD;&#x30E7;&#x30FC;&#x30EA;&#x30C4;&#x30B3;&#x30FC;&#x30DD;&#x30EC;&#x30FC;&#x30B7;&#x30E7;&#x30F3; トランスペアレント系という近年流行りの歪みペダルの種類であまり味付けをせずギター本来のトーンを活かすということをモットーにしていますので、もしかするとベースで使用した場合でもいい感じなのではないかと思い試してみました。 コントロールのTreble-CutとLow-Cutからも分かる通り、Leqtiqueは引き算で音作りを推奨しているみたいです。 Treble-CutとLow-Cutは時計回りでそれぞれの帯域がカットされていきます。 GAINも12時より前は軽く歪む程度ですがそれ以降はディストーションの範疇となっています。ベースだと9時くらいが歪み始め、クリーンからオーバードライブになっていきます。 ギター用ということもあり低域の不足感が懸念されていましたが、十分に使える範疇でした。ローの不足感を感じないわけではありません。決して太さのある低音が出るわけではなく、解像度高めのやや重心高めのサウンドとなります。 コントロールのLow-Cutを上げていくとテクニカルベーシストが好みそうな派手めな音色になります。ですが、通常のプレイですと低域の不足感を感じてしまいますのでこのノブはあまり動かすことがないと感じました。（ローブーストだったらかなり好みでした。） 歪みの質感はアンプライクなものではなく人工的なものでした。これは金属のようなギャリンギャリンサウンドというわけではなく、ジャキジャキとした質感です。高域や中域が前に出てきてブライトさも感じます。 トランスペアレント系特有の硬さも感じられましたがベースにもいい感じにハマり、モダンさを付与しています。トランスペアレント系特有のサウンドもありながらTS系も感じられるペダルとなっています。 ギターで使ったら本当に凛とした気持ちいいサウンドが出ると感じました 塗装をハンドメイドでひとつひとつ行なっており、同じ模様が存在しないというのもオンリーワン感があり愛着が湧きます。 18V駆動まで可能で、ヘッドルームの広がりの影響か歪みにくくなりつつもレンジが広くなり、よりベースに合う印象を受けました。 LEDがピンク色というのもなかなか珍しいのではないでしょうか。 ギター用ペダルなのにベースでも使える音になることが判明しましたので、自分のバンドのギタリストから借りてみるのもいいかもしれません。 イシバシ楽器でLeqtique Berylの価格を見る asagi_bass 2019-05-05 16:03 読者になる 関連記事 2025-02-22 【レビュー】Petla Noa Glitch 今回レビューするものはギター用オーバードライブとなるPetla N… 2021-01-29 【レビュー】Vin-Antique Lab Pike Place Smoky Emerald &#39;79… 今回レビューするものはギター用オーバードライブとなるVin-Ant… 2020-07-11 ベースで使えるギター用オーバードライブ系歪みエフェクターのおすすめ5選 今回はベースでも使えるギター用オーバードライブ系歪みエフェ… 2020-07-08 【レビュー】Leqtique CLHD Supreme 今回レビューするものはギター用オーバードライブとなるLeqtiqu… 2020-05-14 【レビュー】Earth Quaker Devices Westwood 今回レビューするものはギター用オーバードライブとなるEarth Q… &laquo; 【レビュー】JACKSON AUDIO PRISM 【レビュー】FREE THE TONE JB-21 &raquo; プロフィール id:asagi_bass はてなブログPro もはやベース用エフェクターの備忘録 読者です 読者をやめる 読者になる 読者になる このブログについて 検索 カテゴリー エフェクター (245) その他機材 (25) あさぎ自分語り (13) 最新記事 【レビュー】SOURCE AUDIO C4 SYNTH 【レビュー】KGR Harmony IRON 808 【レビュー】Darkglass Electronics ELEMENT 【レビュー】One Control TORNADO Fx TORNADO Drive Aluminium 【レビュー】SHURE GLXD16 月別アーカイブ ▼ ▶ 2026 2026 / 6 2026 / 2 2026 / 1 ▼ ▶ 2025 2025 / 7 2025 / 6 2025 / 5 2025 / 4 2025 / 3 2025 / 2 ▼ ▶ 2023 2023 / 1 ▼ ▶ 2022 2022 / 12 2022 / 11 2022 / 7 2022 / 4 2022 / 1 ▼ ▶ 2021 2021 / 12 2021 / 11 2021 / 9 2021 / 8 2021 / 7 2021 / 6 2021 / 5 2021 / 4 2021 / 3 2021 / 2 2021 / 1 ▼ ▶ 2020 2020 / 12 2020 / 11 2020 / 10 2020 / 9 2020 / 8 2020 / 7 2020 / 6 2020 / 5 2020 / 2 2020 / 1 ▼ ▶ 2019 2019 / 12 2019 / 11 2019 / 10 2019 / 9 2019 / 8 2019 / 7 2019 / 6 2019 / 5 2019 / 4 2019 / 3 ▼ ▶ 2018 2018 / 12 2018 / 11 2018 / 10 2018 / 9 注目記事 お問い合わせ プライバシーポリシー © 2019 あさぎベーススタジオ 引用をストックしました ストック一覧を見る 閉じる 引用するにはまずログインしてください ログイン 閉じる 引用をストックできませんでした。再度お試しください 閉じる 限定公開記事のため引用できません。 読者です 読者をやめる 読者になる 読者になる
+
+## Sources checked
+1. Beryl EVR Manual &ndash; Leqtiqueshop: https://leqtique.ch/en/pages/beryl-evr-manual
+2. Leqtique Beryl - Reverb: https://reverb.com/item/97614613-leqtique-beryl
+3. Leqtique EVR Beryl EVR(NEW) - TC楽器 - TCGAKKI: https://tcgakki.com/en/products/leqtique-evr-beryl-evrnew
+4. 【レビュー】Leqtique Beryl - あさぎベーススタジオ: https://www.asagi-bass.com/entry/beryl
+5. Leqtique Beryl EVR Leqtique DS10490951 - eBay: https://www.ebay.com/itm/257537534831
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

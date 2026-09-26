@@ -1,23 +1,40 @@
 # Keeley Electronics — Blues Disorder Overdrive and Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Blues Disorder Overdrive and Distortion
 - **Builder:** Keeley Electronics
-- **Pedal:** Blues Disorder Overdrive and Distortion
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Keeley Electronics's Blues Disorder Overdrive and Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Blues Disorder Overdrive and Distortion** by **Keeley Electronics** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Keeley Electronics's Blues Disorder Overdrive and Distortion is cataloged as a Distortion / Overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Rockett Audio Designs Keeley Electronics Line 6 Meris Mid-Fi Electronics MXR Mythos Pedals Neunaber Normal Devices Old Blood Noise Endeavors Origin Palomar Sound Rainger FX Recovery Effects Redbeard Effects Red Panda Reuss Musical Instruments Science Amplification Silktone Source Audio Spaceman Effects SPIRIT WAS Stromer Mutroniks Strymon TECH 21 Thorpy FX Universal Audio Vemuram Vongon Walrus Audio Wampler Way Huge Zvex Effects Xotic Effects Used Accessories Strings Augustine D&#39;Addario Dunlop Elixir Ernie Ball John Pearse Strings Labella Thomastik-Infeld Stringjoy Cables Accusound Boss Divine Noise EBS MXR Planet Waves Proco Cable Adapters Voodoo Lab Drums Gift Cards Pro Audio Straps All Straps Cheesecake Leathers D&#39;Addario Josey Straps Levy&#39;s LM Moxie Oliver Perri&#39;s Sherrin&#39;s (uke straps) Souldier Guitar Accesories Picks Capos Slides Humidifiers Pedalboards Pickups Parts Electric Pickups Acoustic Pickups Guitar Parts Stands Guitar Stands Keyboard Stands Microphone Stands Music Stands Wall Hangers Shirts A S Products Sign in Create an Account Home Electric Electric Guitars Charvel Collings D&#39;Angelico Danelectro Dearmond Eastman Epiphone ESP Fender Gibson Gretsch Guild Hagstrom Hamer Ibanez Jackson LSL National Novo Paul Reed Smith Peavey Reverend Rickenbacker Schecter Squier Tom Anderson Washburn Yamaha Bass Bass Guitars Ernie Ball Eastwood Fender Gibson Hofner Ibanez Jackson Music Man Reverend Rickenbacker Sadowsky Schecter Yamaha Acoustic Acoustic Guitars Alvarez Eastman Epiphone Gibson Guild Kala Ukuleles Martin Taylor Yamaha Amps Amplifiers Ampeg Benson Carr Electro-Harmonix Fender Fishman Gibson Gretsch HIWATT Hughes Kettner Line 6 Magnatone Marshall Milkman PARK Paul Reed Smith Peavey Quilter Roland Supro Yamaha Keys Keys BrandNewNoise Critter Guitari Dubreq KORG Oberheim Peavey Roland Sequential Circuits teenage engineering Vongon Yamaha Effects Effects Pedals 29 Pedals Asheville Music Tools Baltimore Sonic Research Institute Beetronics FX Benson Amps Boss Caroline Guitar Company Catalinbread Collision Devices Coppersound Pedals Cosmodio Damnation Audio Death by Audio Digitech Dinosaural Disaster Area Designs Dreadbox Dunlop EarthQuaker Devices Electro-Harmonix Electronic Audio Experiments Empress Effects Fairfield Circuitry Fish Circuits Frost Giant Electronics Gamechanger Audio GFI System Greer Amps Hudson Electronics JAM Pedals JHS Pedals J.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Guitar Sanctuary | Keeley Electronics | Blues Disorder | Overdrive | Distortion | 4 in 1 Open Tuesday-Saturday 10AM-6PM Open Tues-Sat 10AM-6PM Gift Certificate Account Login or Sign Up 0 • Call or Text: (972)540-6420 “Guitar Works for the Discriminating Soul” Search &#215; --> Visit the Store Attend a Concert Blog Performance Academy Contact Us Gift Certificates Repairs --> Search Toggle menu 0 Search &#215; --> Shop By Category Pre-Owned Vintage Gear Pre-Owned Vintage Gear --> Geo&#x27;s Vault Preowned Guitar Pedals Effects Preowned Boutique Guitar Amps Pre-Owned Bass Guitars Preowned Vintage Acoustic Guitars Pre-Owned Vintage Electric Guitars Sale Items Special Values Boutique Custom Acoustic Guitars Boutique Custom Acoustic Guitars --> Alhambra Beard Bourgeois Cole Clark Collings Ibanez Lowden LR Baggs Maton Martin Martin --> Modern Deluxe Series Custom Shop Authentic Series Signature Models Standard Series Road Series McPherson Guitars National Reso-Phonic Taylor Resonators Classical/Nylon String Mandolins Left-Handed Acoustic Guitars 12-String Performance Academy Acoustics Boutique Bass Guitars Boutique Bass Guitars --> Dingwall Fender Custom Shop, Artist American Basses Ibanez Music Man Suhr Yamaha Left-Handed Bass Guitars Acoustic Bass Guitars Boutique Custom Shop Electric Guitars Boutique Custom Shop Electric Guitars --> Baritone 7 String BilT Collings Duesenberg Dunable Eastman ESP LTD Fender Guitars Ibanez James Tyler JTG Guitars Lap Steels Mayones Nik Huber Paul Reed Smith Paul Reed Smith --> Private Stock Wood Library Core Bolt-On S2 SE Left-Handed Preowned Strandberg Suhr Suhr --> Suhr Artist Signature Series Suhr Classic JM Series Suhr Classic S Series Suhr Classic T Series Suhr Modern Series Suhr Oso Series Suhr Standard Series Tom Anderson Yamaha Left-Handed Electric Guitars Performance Academy Electrics Boutique Amplifiers Cabinets Boutique Amplifiers Cabinets --> Acoustic Guitar Amplifiers Acoustic Guitar Amplifiers --> AER Fishman Taylor Udo Roesner Amps Bass Guitar Amplifiers Bass Guitar Amplifiers --> Aguilar Darkglass Electronics Mesa Boogie Electric Guitar Amplifiers Electric Guitar Amplifiers --> 3rd Power Carr Fender Custom Shop, Hand-Wired Tone Master Amps Friedman Amplification Fryette Mesa Boogie PRS Revv Amplification Amps Cabinets Rivera Suhr Soldano Custom Amplification Synergy Amplification Modular Tube Amps Tone King Two-Rock Vox Handwired FRFR Cabinets Footswitches Attenuators Load Boxes and Speaker Simulators Boutique Effects, Pedals Signal Management Boutique Effects, Pedals Signal Management --> Effects Pedals Effects Pedals --> Shop by Brand Shop By Type Pedalboards Pedalboards --> Pedaltrain Vertex By Gator Boutique and Hand-Wound Pickups Boutique and Hand-Wound Pickups --> Acoustic Acoustic --> L.R.
+Baggs Fishman Acoustic Electric Electric --> Bare Knuckle Pickups Fishman Fluence Paul Reed Smith Pickups Professional Guitar Accessories Gear Professional Guitar Accessories Gear --> Capos Strings Cajons Cables Cables --> Instrument Cables (Guitar Cables) Microphone Cables MIDI Pedal Patch Cables Power Cables Speaker Cables Aguilar Mogami Paul Reed Smith SP Cables Whirlwind Cases and Gig Bags Cases and Gig Bags --> Bass Gig Bags Gator Guitar Cases Guitar Gig Bags Levy&#x27;s Leathers Reunion Blues SKB TKL Tubes Tubes --> Power Tubes Preamp Tubes Rectifier Tubes Guitar Stands and Wall Hangers Guitar Care Guitar Straps Stools Guitar Sanctuary Merch Shop By Brand Paul Reed Smith Suhr Fender Taylor JHS Walrus Audio MXR Martin Fishman Strymon Synergy Boss Mesa Boogie Electro-Harmonix Two-Rock Darkglass Electronics Dunlop Free The Tone Ibanez Keeley Electronics Maton Aguilar Duesenberg Origin Effects Radial Engineering Revv Amplification Xotic Collings Pedaltrain Thalia Beard ESP James Tyler L.R.
+Keeley Electronics Blues Disorder Overdrive and Distortion *Free Shipp &ndash; Empire Guitars Translation missing: en.layout.customer.sign in or Translation missing: en.layout.customer.create account --> Search Cart 0 Menu Cart 0 Search Home Electric Electric Guitars Charvel Collings D&#39;Angelico Danelectro Dearmond Eastman Epiphone ESP Fender Gibson Gretsch Guild Hagstrom Hamer Ibanez Jackson LSL National Novo Paul Reed Smith Peavey Reverend Rickenbacker Schecter Squier Tom Anderson Washburn Yamaha Bass Bass Guitars Ernie Ball Eastwood Fender Gibson Hofner Ibanez Jackson Music Man Reverend Rickenbacker Sadowsky Schecter Yamaha Acoustic Acoustic Guitars Alvarez Eastman Epiphone Gibson Guild Kala Ukuleles Martin Taylor Yamaha Amps Amplifiers Ampeg Benson Carr Electro-Harmonix Fender Fishman Gibson Gretsch HIWATT Hughes Kettner Line 6 Magnatone Marshall Milkman PARK Paul Reed Smith Peavey Quilter Roland Supro Yamaha Keys Keys BrandNewNoise Critter Guitari Dubreq KORG Oberheim Peavey Roland Sequential Circuits teenage engineering Vongon Yamaha Effects Effects Pedals 29 Pedals Asheville Music Tools Baltimore Sonic Research Institute Beetronics FX Benson Amps Boss Caroline Guitar Company Catalinbread Collision Devices Coppersound Pedals Cosmodio Damnation Audio Death by Audio Digitech Dinosaural Disaster Area Designs Dreadbox Dunlop EarthQuaker Devices Electro-Harmonix Electronic Audio Experiments Empress Effects Fairfield Circuitry Fish Circuits Frost Giant Electronics Gamechanger Audio GFI System Greer Amps Hudson Electronics JAM Pedals JHS Pedals J.
+
+## Sources checked
+1. Blues Disorder Overdrive and Distortion - Keeley Electronics Guitar ...: https://robertkeeley.com/product/blues-disorder-overdrive-and-distortion/
+2. The Guitar Sanctuary | Keeley Electronics | Blues Disorder | Overdrive | Distortion | 4 in 1: https://www.guitarsanctuary.com/keeley-electronics-blues-disorder-overdrive-and-distortion-pedal/
+3. Keeley Electronics Blues Disorder Overdrive and Distortion *Free Shipp &ndash; Empire Guitars: https://empireguitars.com/products/keeley-electronics-blues-disorder-overdrive-and-distortion-free-shipping-in-the-usa
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
