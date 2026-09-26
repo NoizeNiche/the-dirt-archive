@@ -37,3 +37,19 @@ The XR series OD-1 delivers everything from warm boost to singing overdrive, mak
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Drunk Beaver's XR OD-1 OverDrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Drunk Beaver Pedals XR OD-1 OverDrive
+We've meticulously recreated this classic circuit using high-quality SMD components for a compact, affordable design without compromising tone.
+The XR series OD-1 delivers everything from warm boost to singing overdrive, making it an essential addition to any pedalboard.
+
+### Sources checked in this pass
+1. Drunk Beaver Pedals XR OD-1 OverDrive | Drunk Beaver Pedals: https://drunk-beaver.rocks/products/xr-od-1
+2. Drunk Beaver XR OD-1 Overdrive 2024 - Reverb: https://reverb.com/item/87286408-drunk-beaver-xr-od-1-overdrive-2024

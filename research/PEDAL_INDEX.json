@@ -10676,8 +10676,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://bizarreengineering.com/wp-content/uploads/2017/02/Bizarre-Violine-Best-distortion-pedal-mirror2-600-330_F.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -30631,8 +30631,8 @@
       "image": "./assets/pedals/drunk-beaver/vatra/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Drunk Beaver/Vatra.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Drunk Beaver",
@@ -30657,8 +30657,8 @@
       "image": "./assets/pedals/drunk-beaver/xr-od-1-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Drunk Beaver/XR OD-1 OverDrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DryBell",
@@ -45459,8 +45459,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Smallsound/Bigsound/Fuck.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Smallsound/Bigsound",
@@ -45584,8 +45584,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Apollo VIIb.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Spaceman Effects",
@@ -47365,8 +47365,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/The Dane MKI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",

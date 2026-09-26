@@ -1,0 +1,33 @@
+{
+  "builder": "Smallsound/Bigsound",
+  "pedal": "Fuck",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://www.smallsoundbigsound.com/wp-content/uploads/fuckOD1.pdf",
+      "title": "PDF fuck overdrive - smallsoundbigsound.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.smallsoundbigsound.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/966029-smallsound-bigsound-fuck-overdrive",
+      "title": "Smallsound/Bigsound Fuck Overdrive - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://equipboard.com/items/smallsound-bigsound-fuck-overdrive",
+      "title": "Smallsound/Bigsound Fuck Overdrive - What To Know & Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
