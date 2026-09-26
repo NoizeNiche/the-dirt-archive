@@ -4,14 +4,20 @@
 - **Archive parent:** Fuzzistor - Bass Fuzz
 - **Builder:** Aguilar
 - **Catalog type:** Fuzz
-- **Identity:** Analog silicon-transistor bass fuzz with clean blend and tilt-EQ controls. [1][2]
+- **Identity:** Aguilar Fuzzistor, an analog silicon-transistor bass fuzz built around a clean/dry blend and tilt-style tonal control. [1][2]
 
 ## What this pedal is
-Fuzzistor is a bass-focused fuzz designed around a silicon-transistor circuit. The original four-control layout provides Blend, Level, Tone and Fuzz, allowing the dry signal to remain present while the fuzz amount and harmonic balance are adjusted independently. [1][2]
+Fuzzistor is a bass-oriented fuzz with a four-control layout: Blend, Level, Tone, and Fuzz. The Blend control keeps the unaffected signal present while the Tone and Fuzz controls shape the harmonic content and amount of fuzz. [1][2]
+
+Aguilar's published material and contemporary coverage describe the circuit as silicon based. The original model was housed in an orange steel enclosure and was later followed by a V2 with a redesigned chassis and appearance. [1][3][4]
 
 ## Colorways
-- Original production finish: **orange**. A surviving original Fuzzistor is documented by Chicago Music Exchange. [3]
-- A later V2 received a redesigned chassis/look. [4]
+### Original Fuzzistor
+- **Orange** enclosure documented in contemporary coverage and surviving product listings. [3]
+
+### Fuzzistor V2
+- Redesigned chassis and appearance.
+- The archive keeps V2 distinct from the original visual specimen because the chassis is materially different. [4]
 
 ## Versions and factory options
 ### Original Fuzzistor
@@ -19,16 +25,16 @@ Fuzzistor is a bass-focused fuzz designed around a silicon-transistor circuit. T
 - Level
 - Tone
 - Fuzz
-- Gig-Saver bypass
+- Gig-saver bypass
 - 9 V battery or universal power supply [1]
 
 ### Fuzzistor V2
-- Revised chassis/look
-- same core silicon-transistor fuzz concept
-- Blend, Level, Tone and Fuzz controls [4]
+- Redesigned chassis/look.
+- Blend, Level, Tone, and Fuzz controls retained.
+- Core silicon-transistor fuzz concept retained in the published product description. [4]
 
 ## Version changes
-The original Fuzzistor was introduced in 2015 with an orange steel enclosure and four-control layout. Aguilar later introduced the Fuzzistor V2 with a redesigned, lighter chassis while retaining the core circuit concept and control functions. [1][4]
+The documented V2 transition is a chassis redesign rather than a separately established new circuit family. The available sources do not provide a verified transistor part number or diode change between generations, so no component-level revision is inferred. [4]
 
 ## Transistor
 - **Technology:** Silicon transistor. [1][2]
@@ -38,7 +44,7 @@ The original Fuzzistor was introduced in 2015 with an orange steel enclosure and
 - **Exact clipping diode/device:** Not publicly documented.
 
 ## Sound
-Fuzzistor covers a wide bass-fuzz range from subtle grit to crushing fuzz, with the Blend control preserving clean definition and attack. Its Tone control is a tilt EQ that moves the harmonic emphasis from booming low-end weight toward a gnarlier, brighter response. [1][2]
+Fuzzistor covers a broad bass-fuzz range from restrained grit to crushing fuzz. Blend lets the dry bass remain present for attack and definition, while the Tone control shifts the harmonic emphasis from heavier low-end weight toward a more aggressive, brighter response. [1][2]
 
 ## Sources checked
 1. Premier Guitar — Aguilar introduces Fuzzistor: https://www.premierguitar.com/aguilar-introduces-the-fuzzistor-pedal
