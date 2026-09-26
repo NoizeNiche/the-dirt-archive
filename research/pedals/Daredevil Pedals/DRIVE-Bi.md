@@ -37,3 +37,13 @@ Low channel adds grit, sustain, and overdrive to your amp while still pushing ou
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals's DRIVE-Bi is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. DRIVE-Bi - Dual Gain Distortion — Daredevil website: https://www.daredevilpedals.com/shop-1/p/drivebi

@@ -3268,8 +3268,8 @@
       "research_record": "./research/pedals/PRP Batch 050/S-1.md",
       "image_source_url": "https://img.digimart.net/prdimg/m/bb/1fca9841bc6157c1845f8719994f2c36d52576.jpg",
       "image_source_page": "https://www.digimart.net/cat13/shop5220/DS09903533/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AMT Electronics",
@@ -3288,8 +3288,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://media.amtelectronics.com/wp-content/uploads/2015/07/Products-AMT-SS-11B.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AMT Electronics",
@@ -3302,8 +3302,8 @@
       "research_record": "./research/pedals/PRP Batch 050/SS-20.md",
       "image_source_page": "https://amtelectronics.com/new/amt-ss-20/",
       "image_source_url": "https://amtelectronics.com/new/wp-content/uploads/2015/06/SS-20_2019-890x395_c.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AMtech Handwired",
@@ -16761,8 +16761,8 @@
       "research_record": "./research/pedals/PRP Batch 137/overdrive-bb-pre.md",
       "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/bbpre-1-4e6ff01f71bcbb5ae817496817513791-640-0.webp",
       "image_source_page": "https://pedalescajita.mitiendanube.com/productos/overdrive-bb-pre/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cajita Stompboxes",
@@ -28811,8 +28811,8 @@
       "image": "./assets/pedals/daredevil-pedals/daredevil-cry-baby-fuzz-wah/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/Daredevil Cry Baby Fuzz Wah.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -28825,8 +28825,8 @@
       "research_record": "./research/pedals/Daredevil Pedals/Deep Dish-tortion.md",
       "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/L84031000001000-01-600x600.jpg",
       "image_source_page": "https://www.guitarcenter.com/Daredevil-Pedals/DRIVE-Bi-Dual-Gain-Distortion-Effects-Pedal-Blue-1500000347976.gc",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -28837,8 +28837,8 @@
       "image": "./assets/pedals/daredevil-pedals/drive-bi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/DRIVE-Bi.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -35279,8 +35279,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/REDRUM V2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -35604,8 +35604,8 @@
       "image": "./assets/pedals/jam-pedals/black-fuzz-phrase-ltd/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Black Fuzz Phrase LTD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JAM Pedals",
@@ -35629,8 +35629,8 @@
       "image": "./assets/pedals/jam-pedals/eureka/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Eureka!.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JAM Pedals",
@@ -36699,8 +36699,8 @@
       "image": "./assets/pedals/keeley-electronics/fuzz-bender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Fuzz Bender.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -44984,8 +44984,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/1971.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -44996,8 +44996,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Angel Face.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -45008,8 +45008,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/BC109 Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -49150,8 +49150,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Fundamental Series Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",
@@ -50872,8 +50872,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Xotic Effects",

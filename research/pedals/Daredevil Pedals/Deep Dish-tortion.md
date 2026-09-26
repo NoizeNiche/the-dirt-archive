@@ -38,3 +38,21 @@ It’s loaded with multiple stages of op amp gain allowing 2 different modes for
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Born from the brain of Riot Fest artist Dan Wade, and designed by Johnny @ Daredevil, the Deep Dish-tortion circuit is all original, and hand wired in Chicago.
+
+### Verified sound evidence
+It’s loaded with multiple stages of op amp gain allowing 2 different modes for Tavern (mid gain) and Deep Dish (high gain) output.
+There is some NOS germanium clipping added which gives this a unique, crusty lower mid breakup.
+The bottom end is big, the gain cuts hard, and there’s sustain-a-plenty.
+
+### Sources checked in this pass
+1. Daredevil Pedals Deep Dish-tortion Pedal – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/daredevil-pedals-deep-dish-tortion-pedal-2669233
+2. Daredevil Pedals Deep Dish-tortion Pedal - Reverb: https://reverb.com/item/101266967-daredevil-pedals-deep-dish-tortion-pedal
+3. Deep Dish-tortion by Daredevil Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Daredevil-Pedals/Deep-Dish-tortion/8682036233/
+4. Deep Dish-tortion — Daredevil website: https://www.daredevilpedals.com/shop-1/p/deep-dish-tortion

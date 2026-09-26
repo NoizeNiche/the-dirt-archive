@@ -48,3 +48,31 @@ The LEAD channel is described as thick and viscous for chunky rhythms and singin
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** AMT official materials, Effects Database, and exact-model resale imagery.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The SS-11B Modern version is designed to cover the sounds of today’s high gain tube amplifiers.
+
+### Verified color/finish evidence
+- Clean Channel When the Clean channel is engaged, the corresponding left-side "Clean" blue LED is lit.
+- When the Drive channel is engaged, the corresponding left-side "Drive" red LED is lit.
+- Drive "Lead" When the Lead subchannel is engaged, the corresponding right-side red LED is lit.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+While the SS-20 is the more aggressive “METAL” pedal, the SS-11 was intended and manufactured for that famous CLASSIC tube driven over saturated guitar tone that eveyone loves and craves.
+The SS-11B Modern version is designed to cover the sounds of today’s high gain tube amplifiers.
+Offering more distortion than the SS-11A, the SS-11B is a rock-metal monster!
+
+### Sources checked in this pass
+1. AMT SS-11B (Studio Series preamp) | AMT Electronics official website: https://amtelectronics.com/new/amt-ss-11b/
+2. AMT SS-11B – Media center of AMT Electronics: https://media.amtelectronics.com/amt-ss-11b/
+3. Prymaxe website: https://www.prymaxe.com/products/amt-electronics-ss-11b-modern-guitar-preamp
+4. catalog/override source: https://amt-sales.com/products/ss-11b
+5. SS-11B - Thermionic Studios: https://thermionic-studios.com/wiki/index.php?title=SS-11B
+6. Официальный форум компании AMT Electronics - Главная страница: http://forum.amtelectronics.com/

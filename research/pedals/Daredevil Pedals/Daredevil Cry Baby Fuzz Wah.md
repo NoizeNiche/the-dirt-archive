@@ -35,3 +35,20 @@ The result of almost 3 years of collaboration with Dunlop, I am beyond proud to 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals's Daredevil Cry Baby Fuzz Wah is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Get all the dirty details from watching the video…<\/p><p class=\"\" style=\"white-space:pre-wrap;\"><strong>I am not building these in Chicago at my shop<\/strong>, but occasionally i will have some on hand that will be avail for purchase right here.
+- P.C.<\/em><\/strong><\/span><\/p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"><\/p>","variants":[{"id":"697f169c-d1b2-4ac3-a935-beb8349b52c3","sku":"DCBFW23","price":{"currency":"USD","value":"229.00"},"un
+
+### Verified sound evidence
+The wah itself is worth the price of admission alone, but the fuzz is so damn cool.
+
+### Sources checked in this pass
+1. Daredevil Cry Baby Fuzz Wah — Daredevil website: https://www.daredevilpedals.com/shop-1/p/dcbfuzzwah23

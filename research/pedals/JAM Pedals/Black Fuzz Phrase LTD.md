@@ -1,23 +1,46 @@
 # JAM Pedals — Black Fuzz Phrase LTD
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Black Fuzz Phrase LTD
 - **Builder:** JAM Pedals
-- **Pedal:** Black Fuzz Phrase LTD
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** JAM Pedals's Black Fuzz Phrase LTD.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Black Fuzz Phrase LTD** by **JAM Pedals** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Built entirely by hand in Athens, Greece, the Black Fuzz Phrase LTD is a love letter to the raw, expressive fuzz tones of the late ’60s.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Black Fuzz Phrase LTD by Jam Pedals
+- Built entirely by hand in Athens, Greece, the Black Fuzz Phrase LTD is a love letter to the raw, expressive fuzz tones of the late ’60s.
+- At its core lies an ultra-rare stash of NOS OC44 Philips black glass transistors, manufactured in 1969 and individually tested and matched by ear.
+
+## Versions and factory options
+- The verified evidence references: MKII, V1.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Germanium Fuzz.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Black Fuzz Phrase LTD by Jam Pedals
+Built entirely by hand in Athens, Greece, the Black Fuzz Phrase LTD is a love letter to the raw, expressive fuzz tones of the late ’60s.
+These legendary components are prized for their exceptionally low leakage, musical gain, and quiet operation—ideal for crafting a fuzz circuit that’s both aggressive and articulate.
+
+## Sources checked
+1. Black Fuzz Phrase LTD by Jam Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Jam-Pedals/Black-Fuzz-Phrase-LTD/8583474172/
+2. Black Fuzz Phrase LTD: https://www.jampedals.com/products/black-fuzz-phrase-ltd
+3. JAM Pedals Black Fuzz Phrase LTD: https://martelmusicstore.com/products/jam-pedals-black-fuzz-phrase-ltd
+4. Jam Pedals Black Fuzz Phrase LTD: https://www.topmusicalsupplies.com/product/jam-pedals-black-fuzz-phrase-ltd/
+5. Jam Pedals Black Fuzz Phrase LTD | Effects & pedal: https://www.guitarrockly.com/product/jam-pedals-black-fuzz-phrase-ltd/
+6. JAM Pedals Black Fuzz Phrase LTD Germanium Fuzz Effect Pedal – Russo Music: https://www.russomusic.com/products/jam-pedals-black-fuzz-phrase-ltd-germanium-fuzz-effect-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
