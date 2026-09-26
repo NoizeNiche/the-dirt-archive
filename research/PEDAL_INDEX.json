@@ -31412,7 +31412,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/palisades-mega-ultimate-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Palisades — Mega Ultimate Overdrive.md",
       "research_level": "surface",
@@ -31438,7 +31438,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/park-fuzz-sound-vintage-germanium-fuzz-tone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Park Fuzz Sound — Vintage Germanium Fuzz Tone.md",
       "research_level": "surface",
@@ -32234,7 +32234,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/nano-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Nano Big Muff Pi.md",
       "research_level": "surface",
@@ -36190,7 +36190,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/notakl-n-splatter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Notaklön Splatter.md",
       "research_level": "surface",
@@ -36844,7 +36844,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/octa-psi-transfigurating-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/OCTA PSI Transfigurating Fuzz.md",
       "research_level": "surface",
@@ -37498,7 +37498,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/totality-dual-path-overdrive-for-guitar-and-bass/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Totality — dual-path overdrive for guitar and bass.md",
       "research_level": "surface",
@@ -37510,7 +37510,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/unicorn-blood/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Unicorn Blood.md",
       "research_level": "surface",
@@ -37534,7 +37534,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/unicorn-blood-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Unicorn Blood II.md",
       "research_level": "surface",
@@ -38394,7 +38394,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/kalamazoo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Kalamazoo.md",
       "research_level": "surface",
@@ -38406,7 +38406,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/mosferatu/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Mosferatu.md",
       "research_level": "surface",
@@ -38587,7 +38587,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/little-tweedy-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Little Tweedy Drive.md",
       "research_level": "deep",
@@ -38600,7 +38600,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/loud-n-proud/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Loud 'n Proud.md",
       "research_level": "deep",
@@ -38775,7 +38775,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/1959-overdrive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/1959 Overdrive Pedal.md",
       "research_level": "surface",
@@ -38787,7 +38787,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/bluesbreaker-ii-bb-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Bluesbreaker II BB-2.md",
       "research_level": "surface",
@@ -38799,7 +38799,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/bluesbreaker-vintage-reissue/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Bluesbreaker Vintage Reissue.md",
       "research_level": "surface",
@@ -38811,7 +38811,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/bluesbreaker-vintage-reissue-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Bluesbreaker Vintage Reissue Pedal.md",
       "research_level": "surface",
