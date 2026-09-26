@@ -30393,7 +30393,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/yjm-308-overdrive-preamp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/YJM 308 Overdrive Preamp.md",
       "research_level": "surface",
@@ -31208,7 +31208,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/fuzz-master-general/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Fuzz Master General.md",
       "research_level": "surface",
@@ -31232,7 +31232,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/fuzz-master-general-legacy-reissue-consolidated-with-fuzz-master-general/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Fuzz Master General Legacy Reissue — consolidated with Fuzz Master General.md",
       "research_level": "surface",
@@ -31272,7 +31272,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/gary-automatic-pulse-width-modulation-fuzz-and-dynamic-natural-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Gary — Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive.md",
       "research_level": "surface",
@@ -32136,7 +32136,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/little-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Little Big Muff Pi.md",
       "research_level": "surface",
@@ -32148,7 +32148,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/lizard-king-bass-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Lizard King Bass Octave & Fuzz.md",
       "research_level": "surface",
@@ -33767,7 +33767,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fulltone/soul-bender-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Soul-Bender v2.md",
       "research_level": "surface",
@@ -33779,7 +33779,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fulltone/ultimate-octave/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Ultimate Octave.md",
       "research_level": "surface",
@@ -34196,7 +34196,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/super-hornet/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Super Hornet.md",
       "research_level": "deep",
@@ -34220,7 +34220,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/tarpit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Tarpit.md",
       "research_level": "deep",
@@ -36178,7 +36178,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/notakl-n/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Notaklön.md",
       "research_level": "surface",
@@ -36203,7 +36203,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/packrat/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/PackRat.md",
       "research_level": "surface",
@@ -36228,7 +36228,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/pg-14/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/PG-14.md",
       "research_level": "surface",
@@ -36769,7 +36769,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/loomer-fuzz-reverb/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Loomer Fuzz/Reverb.md",
       "research_level": "surface",
@@ -36781,7 +36781,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/manis-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Manis Overdrive.md",
       "research_level": "surface",
@@ -37305,7 +37305,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/mad-monarch/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Mad Monarch.md",
       "research_level": "surface",
@@ -37318,7 +37318,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/mad-monarch-high-gain-dirt-product/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Mad Monarch — high-gain dirt product.md",
       "research_level": "surface",
@@ -37331,7 +37331,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/night-of-the-living-shred/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Night of the Living Shred.md",
       "research_level": "surface",
@@ -37344,7 +37344,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/night-of-the-living-shred-high-gain-preamp-dirt-product/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Night of the Living Shred — high-gain preamp / dirt product.md",
       "research_level": "surface",
@@ -37357,7 +37357,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/no-1/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/No.1.md",
       "research_level": "surface",
@@ -37898,7 +37898,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/maestoso-evr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Maestoso EVR.md",
       "research_level": "deep",
@@ -37922,7 +37922,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/maestro-antique-revised-vptp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Maestro Antique Revised VPtP.md",
       "research_level": "deep",
@@ -37934,7 +37934,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/redemptionist/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Redemptionist.md",
       "research_level": "deep",
@@ -38092,7 +38092,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lichtlaerm-audio/ritual/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Ritual..md",
       "research_level": "surface",
@@ -38106,7 +38106,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lichtlaerm-audio/ritual-post-metal-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Ritual. — post-metal distortion.md",
       "research_level": "surface",
@@ -38120,7 +38120,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lichtlaerm-audio/the-king-in-yellow/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/The King in Yellow.md",
       "research_level": "surface",
@@ -38232,7 +38232,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/limetone-audio/jackal-midnight-add-cbf-od-ds-fz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Limetone Audio/JACKAL MIDNIGHT ADD CBF OD/DS/FZ.md",
       "research_level": "surface",
@@ -38246,7 +38246,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/limetone-audio/jackal-midnight-od-ds-fz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Limetone Audio/JACKAL MIDNIGHT OD/DS/FZ.md",
       "research_level": "surface",
@@ -38260,7 +38260,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/limetone-audio/jackal-od-ds-fz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Limetone Audio/JACKAL OD/DS/FZ.md",
       "research_level": "surface",
@@ -38273,7 +38273,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/200lbs-of-gold/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/200lbs of Gold.md",
       "research_level": "surface",
