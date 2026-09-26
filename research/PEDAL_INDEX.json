@@ -1397,11 +1397,8 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/add-pedals/tube-drive-2/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addplus/tubedrive/2",
       "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md",
-      "image_source_url": "https://cdn.awsli.com.br/800x800/2638/2638039/produto/23015156741a556d83b.jpg",
-      "image_source_page": "https://www.bhguitar.com.br/produto/pedal-fuhrmann-tube-drive-2-overdrive-para-guitarra-td10",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
