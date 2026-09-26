@@ -15728,7 +15728,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Westwood",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/westwood/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Westwood.md"
   },
@@ -16617,7 +16617,7 @@
   {
     "builder": "Foxgear",
     "pedal": "Ryder",
-    "image": null,
+    "image": "./assets/pedals/foxgear/ryder/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Foxgear/Ryder.md"
   },
@@ -20838,7 +20838,7 @@
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Random Number Generator",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/random-number-generator/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Random Number Generator.md"
   },
@@ -20859,7 +20859,7 @@
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Yard Sale",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/yard-sale/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Yard Sale.md"
   },
@@ -21020,7 +21020,7 @@
   {
     "builder": "Mojo Hand FX",
     "pedal": "Sacred Cow",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/sacred-cow/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Sacred Cow.md"
   },
@@ -21034,14 +21034,14 @@
   {
     "builder": "Mojo Hand FX",
     "pedal": "Socrates",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/socrates/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Socrates.md"
   },
   {
     "builder": "Mojo Hand FX",
     "pedal": "Superlative (historical/discontinued)",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/superlative-historical-discontinued/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Superlative (historical/discontinued).md"
   },
@@ -21363,14 +21363,14 @@
   {
     "builder": "MXR",
     "pedal": "Custom Badass Modified O.D",
-    "image": null,
+    "image": "./assets/pedals/mxr/custom-badass-modified-o-d/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Custom Badass Modified O.D.md"
   },
   {
     "builder": "MXR",
     "pedal": "Dime Distortion",
-    "image": null,
+    "image": "./assets/pedals/mxr/dime-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Dime Distortion.md"
   },
@@ -21615,7 +21615,7 @@
   {
     "builder": "Mystic Effects Co",
     "pedal": "Driven-Parallel Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mystic-effects-co/driven-parallel-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md"
   },
@@ -21685,7 +21685,7 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "Big Puft Fuzz Device",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/big-puft-fuzz-device/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/Big Puft Fuzz Device.md"
   },
@@ -21832,14 +21832,14 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "Ace of Tone",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/ace-of-tone/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/Ace of Tone.md"
   },
   {
     "builder": "NUX Audio / NUX",
     "pedal": "BC-2 Vintage Blues Core",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/bc-2-vintage-blues-core/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/BC-2 Vintage Blues Core.md"
   },
@@ -22035,7 +22035,7 @@
   {
     "builder": "OKKO FX",
     "pedal": "DIABLO DUAL",
-    "image": null,
+    "image": "./assets/pedals/okko-fx/diablo-dual/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/OKKO FX/DIABLO DUAL.md"
   },

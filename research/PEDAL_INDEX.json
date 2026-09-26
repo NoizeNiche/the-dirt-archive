@@ -31721,7 +31721,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/westwood/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Westwood.md",
       "research_level": "surface",
@@ -33266,7 +33266,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxgear/ryder/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Ryder.md",
       "research_level": "deep",
@@ -40772,7 +40772,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mid-fi-electronics/random-number-generator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Random Number Generator.md",
       "research_level": "surface",
@@ -40809,7 +40809,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mid-fi-electronics/yard-sale/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Yard Sale.md",
       "research_level": "surface",
@@ -41085,7 +41085,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/sacred-cow/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Sacred Cow.md",
       "research_level": "surface",
@@ -41109,7 +41109,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/socrates/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Socrates.md",
       "research_level": "surface",
@@ -41121,7 +41121,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/superlative-historical-discontinued/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Superlative (historical/discontinued).md",
       "research_level": "surface",
@@ -41683,7 +41683,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/custom-badass-modified-o-d/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Custom Badass Modified O.D.md",
       "research_level": "surface",
@@ -41695,7 +41695,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/dime-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Dime Distortion.md",
       "research_level": "surface",
@@ -42117,7 +42117,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mystic-effects-co/driven-parallel-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
       "research_level": "surface",
@@ -42241,7 +42241,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/big-puft-fuzz-device/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Big Puft Fuzz Device.md",
       "research_level": "surface",
@@ -42496,7 +42496,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/ace-of-tone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Ace of Tone.md",
       "research_level": "surface",
@@ -42508,7 +42508,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/bc-2-vintage-blues-core/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/BC-2 Vintage Blues Core.md",
       "research_level": "surface",
@@ -42846,7 +42846,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/okko-fx/diablo-dual/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/DIABLO DUAL.md",
       "research_level": "deep",
