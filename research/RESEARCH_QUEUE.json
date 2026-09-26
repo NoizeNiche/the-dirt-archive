@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T01:59:33.686382+00:00",
+  "generated_at": "2026-09-26T02:02:37.607053+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2501,
     "complete": 2501,
     "research_pending": 0,
-    "deep_research_pending": 3457,
-    "deep_researched": 304,
+    "deep_research_pending": 3455,
+    "deep_researched": 306,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "AboveGroundFX",
-    "pedal": "El Griton Overdrive",
+    "builder": "Accel Audio",
+    "pedal": "Stompzilla Fuzz",
     "catalog_type": "",
-    "research_record": "./research/pedals/AboveGroundFX/El Griton Overdrive.md",
+    "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "AboveGroundFX",
-      "pedal": "El Griton Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/AboveGroundFX/El Griton Overdrive.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Accel Audio",
       "pedal": "Stompzilla Fuzz",
@@ -195,6 +188,13 @@
       "pedal": "Storm King - Micro Bass Distortion/Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Aguilar/Storm King - Micro Bass Distortion/Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Airis Effects",
+      "pedal": "Solar Flare Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Airis Effects/Solar Flare Overdrive.md",
       "research_level": "surface"
     }
   ]

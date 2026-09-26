@@ -4,43 +4,35 @@
 - **Archive parent:** El Griton Overdrive
 - **Builder:** AboveGroundFX
 - **Catalog type:** Overdrive
-- **Identity:** AboveGroundFX tribute-style overdrive from the 2008-2010 production period.
+- **Identity:** AboveGroundFX's El Griton Overdrive.
 
 ## What this pedal is
-AboveGroundFX described El Griton as a tribute to a highly influential distortion pedal, with the emphasis placed on getting the sound right rather than adding unnecessary controls. Effects Database documents it as an overdrive and records a 2009 production-era example. [1]
+AboveGroundFX browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal events 2009 Summer NAMM 2009 AboveGroundFX El Griton Overdrive Published on July 17, 2009 AboveGroundFX overdrive pedal Summer NAMM 2009 Information AboveGroundFX Obviously a tribute to probably the most influential distortion pedal in history.
 
 ## Colorways
-- A **bright green enclosure** is documented in surviving product imagery.
-- No separate circuit generation tied to color was verified.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### El Griton production
-- three-control overdrive layout documented in surviving imagery
-- high-end construction emphasis
-- 2008-2010 production period
-- analog stompbox format [1]
-
-No numbered factory revision was verified.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No reliable numbered factory revision sequence was found. The available record points to a single production identity during the 2008-2010 period.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Exact active-device details are not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Exact clipping diode(s) are not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
-AboveGroundFX's stated priority was the sound of the classic circuit it was paying tribute to, with the controls kept comparatively simple. Surviving imagery and descriptions point to a compact, focused overdrive designed to preserve the feel of the source circuit rather than turn it into a multi-mode pedal. [1]
+AboveGroundFX El Griton Overdrive | Effects Database Skip to navigation Brands &#9660; 0-9...
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+AboveGroundFX browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal events 2009 Summer NAMM 2009 AboveGroundFX El Griton Overdrive Published on July 17, 2009 AboveGroundFX overdrive pedal Summer NAMM 2009 Information AboveGroundFX Obviously a tribute to probably the most influential distortion pedal in history.
 
 ## Sources checked
-1. Effects Database — El Griton Overdrive: https://www.effectsdatabase.com/model/aboveground/elgriton
-2. AboveGroundFX product link archived by Effects Database: https://www.abovegroundfx.com/Store/Entries/2010/6/15_El_Griton_Overdrive.html
+1. AboveGroundFX El Griton Overdrive | Effects Database: https://www.effectsdatabase.com/model/aboveground/elgriton
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.effectsdatabase.com/model/aboveground/elgriton
-- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

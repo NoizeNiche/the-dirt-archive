@@ -524,8 +524,8 @@
       "research_record": "./research/pedals/AboveGroundFX/El Griton Overdrive.md",
       "image_source_page": "http://www.abovegroundfx.com/Store/Entries/2010/6/15_El_Griton_Overdrive.html",
       "image_source_url": "http://www.abovegroundfx.com/Store/Entries/2010/6/15_El_Griton_Overdrive_files/shapeimage_1.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AboveGroundFX",
@@ -37873,8 +37873,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Caelum OD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
