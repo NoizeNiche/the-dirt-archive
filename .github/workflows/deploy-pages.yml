@@ -4,19 +4,16 @@ name: Deploy The Dirt Archive
 on:
   push:
     branches: [main]
+    # Pages only needs to run when the public site or canonical published data
+    # changes. Validation, audit, and workflow-only edits are covered by their
+    # own CI lanes and must not create needless deployments.
     paths:
       - 'index.html'
       - 'pedal.html'
       - 'pedal-detail.html'
       - 'assets/**'
       - 'research/PEDAL_INDEX.json'
-      - 'assets/js/**'
-      - 'assets/css/**'
-      - 'scripts/deploy-browser-audit.js'
-      - 'scripts/serve-static.js'
-      - 'scripts/live-photo-audit.js'
-      - 'scripts/validate-archive.py'
-      - '.github/workflows/deploy-pages.yml'
+      - 'research/pedals/**'
   workflow_dispatch:
 
 permissions:
