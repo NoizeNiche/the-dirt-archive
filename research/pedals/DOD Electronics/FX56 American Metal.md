@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DOD Electronics's FX56 American Metal is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. 1985 VINTAGE 8X11 PRINT Ad FOR DOD ELECTRONICS FX56 AMERICAN METAL ...: https://www.ebay.com/itm/164743112043
+2. Dod Fx56 American Metal for sale | eBay: https://www.ebay.ca/sch/i.html?_nkw=dod+fx56+american+metal&_dcat=41416

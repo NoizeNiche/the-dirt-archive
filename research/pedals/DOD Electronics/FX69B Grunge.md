@@ -37,3 +37,19 @@ View cart Checkout Home &#47; Effects and Pedals / Distortion &#47; DOD Electron
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DOD Electronics's FX69B Grunge is cataloged as a distortion pedal.
+
+### Verified sound evidence
+View cart Checkout Home / Effects and Pedals / Distortion / DOD Electronics FX69B Grunge DOD Electronics FX69B Grunge
+
+### Sources checked in this pass
+1. DOD Electronics FX69B Grunge – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/dod-electronics-fx69b-grunge-2340540
+2. DOD Electronics FX69B Grunge - www.bestmusicfeel.com: https://www.bestmusicfeel.com/product/dod-electronics-fx69b-grunge/
+3. DOD Electronics FX69B Grunge | Effects and Pedals / Distortion | musicquipments.com: https://www.musicquipments.com/product/dod-electronics-fx69b-grunge/
+4. DOD electronics corp FX69B Grunge distortion pedal. Guitar pedal. No ...: https://www.ebay.com/itm/318131486651

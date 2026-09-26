@@ -1,23 +1,39 @@
 # Fuhrmann — Big Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Big Fuzz
 - **Builder:** Fuhrmann
-- **Pedal:** Big Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Fuhrmann's Big Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Big Fuzz** by **Fuhrmann** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Fuhrmann's Big Fuzz is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Big Fuzz by Fuhrmann | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Fuhrmann/Big-Fuzz/68979223/
+2. Fuhrmann Big Fuzz Pedal - What To Know & Where To Buy: https://equipboard.com/items/fuhrmann-big-fuzz-pedal
+3. Fuhrmann Big Fuzz Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/16094/fuhrmann-big-fuzz
+4. Fuhrmann Big Fuzz | Effects Database: https://www.effectsdatabase.com/model/fuhrmann/bigfuzz
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
