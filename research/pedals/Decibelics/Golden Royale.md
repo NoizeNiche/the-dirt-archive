@@ -39,3 +39,29 @@ It solves the eternal dilemma of using a single Klon/Golden Horse either as a Cl
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Golden Royale is offered in either Standard Black and the Special Colors.
+
+### Verified color/finish evidence
+- The Golden Royale is offered in either Standard Black and the Special Colors.
+- Special Colors are Crystal White, Hammered Green, Hammered Blue, and Hammered Copper.
+- 1N34A Germanium diodes (Clear crystal and black band as the original, made in USA) – The commonly known as Magic Diodes (No russian blue and red stripped diodes as others mount– Same as the original!) + Same combination of carbon and metal film resistors + Same Tantalum capacitor in position C16 + Same format
+
+### Verified diode terms
+- 1N34A, LED, BAT41, BAT46.
+
+### Verified sound evidence
+Circuit and component values are exact sonic reproduction of an original gold Klon Centaur, horsie close-tail, serial number #2505 from 2001 of my particular collection – a selected best tone unit.
+It solves the eternal dilemma of using a single Klon/Golden Horse either as a Clean Boost or as an Overdrive, and opens a new world of exquisite tones and textures when combining both channels.
+Each side of the Golden Royale includes the famous Bass Switch and Clipping Switch found in the Decibelics Big Vintage Klone Professional Overdrive.
+
+### Sources checked in this pass
+1. Decibelics Golden Royale – Decibelics: https://decibelics.com/product/golden-royale/
+2. Decibelics Golden Royale Double Klone | Delicious Audio: https://delicious-audio.com/decibelics-golden-royale/
+3. catalog/override source: https://reverb.com/item/94951479-decibelics-golden-royale-black
+4. Guitar Pedal X - GPX Blog - Decibelics Unleashes the Magnificent Golden Royale Dual Channel Klone Overdrive - The One to Rule them All!: https://www.guitarpedalx.com/news/gpx-blog/decibelics-unleashes-the-magnificent-golden-royale-dual-channel-klone-overdrive---the-one-to-rule-them-all

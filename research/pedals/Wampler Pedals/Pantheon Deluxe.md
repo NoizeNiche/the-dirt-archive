@@ -37,3 +37,19 @@ It features two independent channels, one emulating a classic Blues Breaker circ
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Enter the new Pantheon Deluxe – a dual overdrive pedal that takes this evolution several steps further by offering a flexible design with two completely independent Pantheon circuits, one voiced as a classic blues breaker and one with a more modern boutique sound.
+
+### Verified sound evidence
+Enter the new Pantheon Deluxe – a dual overdrive pedal that takes this evolution several steps further by offering a flexible design with two completely independent Pantheon circuits, one voiced as a classic blues breaker and one with a more modern boutique sound.
+This palace of tone delivers a staggering 200 combinations of gain settings, featuring dual Inputs and Outputs, and for the first time ever, Wampler have added MIDI channel switching to one of their gain pedals.
+The Pantheon Deluxe lets you dial in two channels of organic creamy gain, gritty overdrive, or heavy distortion while retaining Wampler’s famous ease of use and flexibility.
+
+### Sources checked in this pass
+1. Pantheon Deluxe | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/pantheon-deluxe/
+2. Wampler Pedals Pantheon Deluxe | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-pantheon-deluxe/

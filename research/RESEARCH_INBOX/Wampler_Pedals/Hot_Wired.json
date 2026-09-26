@@ -2,21 +2,31 @@
   "builder": "Wampler Pedals",
   "pedal": "Hot Wired",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 3,
   "sources": [
     {
       "url": "https://www.wamplerpedals.com/products/distortion-overdrive/brent-mason-hot-wired-v2/",
       "title": "Brent Mason: Hot Wired v2 | Wampler Pedals",
       "h1": "Brent Mason: Hot Wired v2",
-      "excerpt": "The Brent Mason Hot Wired v2. The only pedal versatile enough to be taken into the world’s most demanding studio environment every day… Nashville master sessions. Out of stock Watch video",
-      "host": "www.wamplerpedals.com"
+      "excerpt": "Brent Mason: Hot Wired v2 | Wampler Pedals Home Shop All Pedals Distortion / Overdrive Compression Fuzz Delay / Reverb Modulation Boost & Utilities Discontinued Plugins Merchandise Dealers Community Blog Artists Podcast Videos Support About Downloads FAQs Warranty Registration Withdrawal Request Contact Us search account_circle My Account search Products search DISCONTINUED Brent Mason: Hot Wired v2 The Brent Mason Hot Wired v2. The only pedal versatile enough to be taken into the world\u2019s most demanding studio environment every day\u2026 Nashville master sessions. Out of stock Watch video Overview Features Videos Technical Downloads Out of stock Front | Left facing | Back | Right facing | Top |' data-navmenu=\"off\" data-hashurl=\"off\" data-menuSlider=\"off\" data-continue-autoplay=\"off\" data-outside-nav=\"off\" data-autoplay=\"off\" > 4 5 A lot of people think they\u2019ve never heard of Brent Mason. We would bet that although they may not recognize the name, chances are huge that they have heard him. Brent is, without doubt, the number 1 session guitarist working out of Nashville and has been since the early 1990\u2019s. Not only is he a legendary studio figure, but also a renowned composer and songwriter. His compositions have been used in countless films, TV shows and commercials. His solo albums, in particular \u201cHot Wired\u201d (from which this pedal got its name) has become almost mythical in its reputation for guitar tone and quality of musicianship. With Brent, you will not believe it until you hear it. Built on the foundations of the extremely popular v1, v2 stands alone in terms of versatility. The studio scene in Nashville has changed over the last few years, so we changed the Hot Wired to mirror the industry Brent works in. v1 was geared towards all out chickin\u2019 pickin\u2019 and beyond. Expanding on that, the v2 brings you a broader range of subtlety in channel 1. You can still find the chickin\u2019 pickin\u2019 tones, but you can also find a deeper, warmer overdrive section that will allow you to play as smooth as you like. With the added blend control, you won\u2019t believe how fat your tone can be without it sounding too overdriven. Channel 2 still has the same \u201cBritish Plexi\u201d flavor that Brent loves. Two pedals in one (overdrive and distortion), the Hot Wired is without doubt one of the most versatile pedals available today. One channel of the Hot Wired has all your overdrive needs, from a gentle break up to all out crunch, the other gives you dirt\u2026 Loads of fat, creamy distortion that is tonally perfect from top to bottom. If need be you can stack them both together for a huge, huge sound. $ 259.97 Out of stock SKU: WMP-HWD-PED Category: Distortion / Overdrive Tags: brent mason , Combined (OD & Dist) , distortion , overdrive , stacked warning Cancer and Reproductive Harm www.p65warnings.ca.gov task_alt Brent Mason Grammy winner; inducted into the Musician\u2019s Hall of Fame; Thumbpickers Hall of Fame; multiple time winner of ACM Guitarist of the Year, Musician of the Year and countless recordings\u2026 Brent Mason is nothing short of remarkable, the best of the best. So, we built him a pedal that can be used in the worlds most demanding musical environment \u2013 The Nashville session scene. task_alt Complete Control 2 completely separate circuits in one box \u2013 a lighter \u2018screamer style OD with Blend control and a full roaring Plexi, you can get almost any tone from either side or when stacked up. This was designed with the man who has ears like no other\u2026 task_alt v2 Even being at the top of his profession for over 30 years, as a musician Brent is still developing\u2026 when he discovered he needed a little more control, we completely redesigned c1 to incorporate a blend control\u2026 nothing cuts through the mix like an OD tone with a fraction of the clean signal leaked back in. task_alt Built for Forever Brian Wampler\u2019s attention to detail and commitment to bringing you the best-sounding & most usable Effects Boxes on the market is nothing new. Those qualities are on full display",
+      "host": "www.wamplerpedals.com",
+      "source_kind": "manufacturer"
     },
     {
       "url": "https://www.premierguitar.com/gear/wampler-pedals-brent-mason-hot-wired-v-2-pedal-review",
       "title": "Wampler Pedals Brent Mason Hot Wired v.2 Pedal Review - Premier Guitar",
+      "h1": "Wampler Pedals Brent Mason Hot Wired v.2 Pedal Review",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Wampler Pedals Brent Mason Hot Wired v.2 Pedal Review - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile <div class=\"menu_item\" id=\"sMenu_Items_0_",
+      "host": "www.premierguitar.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/item/92912945-wampler-hot-wired-v2-with-top-mounts-x8480",
+      "title": "catalog/override source",
       "h1": "",
-      "excerpt": "Wampler Pedals Brent Mason Hot Wired v.2 Pedal Review A smooth, 2-channel overdrive with incredible touch sensitivity. By Jordan Wagner Oct 03, 2012 Jordan Wagner A native of the Pacific Northwest, Jordan grew up traveling the country as the son of theater technical directors and speech instructors. His exposure to the performing arts early on helped foster his love for music and attention to detail, and upon receiving his first guitar at age 15, he became hooked. Jordan brings a considerable background of gear knowledge and tech experience to Premier Guitar , and has contributed an extensive amount of articles, artist interviews and Rig Rundown videos since late 2008. He lives in the Iowa City area, where he also works to bring music education initiatives to both local and regional communities. See Full Bio",
-      "host": "www.premierguitar.com"
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

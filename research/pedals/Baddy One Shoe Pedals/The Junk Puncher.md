@@ -42,3 +42,16 @@ The original JunkPuncher is documented by Baddy One Shoe through surviving sound
 ## Photo
 - **Archive status:** **No Photo Archived**
 - Exact historical imagery is indexed, but no stable direct image asset was safely confirmed for archival in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Baddy One Shoe Pedals's The Junk Puncher is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Baddy One Shoe Pedals The Junk Puncher - Fuzz
+
+### Sources checked in this pass
+1. Baddy One Shoe Pedals The Junk Puncher - Fuzz | Effects Database: https://www.effectsdatabase.com/model/baddyoneshoe/junkpuncher

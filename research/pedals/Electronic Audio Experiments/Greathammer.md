@@ -38,3 +38,23 @@ Color: Select Color Gray Acid Etch Gray Acid Etch Quantity: Add To Cart Electric
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Greathammer is equally effective in front of an amplifier or as a dedicated preamp.
+
+### Verified version references
+- The evidence references: V4, Version 1, v1.
+
+### Verified sound evidence
+With a gain control spanning a 50dB range, the Greathammer can be restrained or rowdy.
+Color: Select Color Gray Acid Etch Gray Acid Etch Quantity: Add To Cart Electrical Specifications Bypass switching: Silent electronic switching with a high-headroom op amp buffer Input impedance @ 1Khz: 1MΩ Output impedance @ 1Khz: <1KΩ Power: 9VDC, 2.1mm center negative barrel.
+Download Manual (v1) Controls Level: overall volume level, capable of extremely high output Gain: signal gain, from clean to moderate to extreme.
+
+### Sources checked in this pass
+1. Greathammer Bass Driver — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/greathammer
+2. Electronic Audio Experiments Greathammer – Coast Sonic: https://coastsonic.com/products/electronic-audio-experiments-greathammer
+3. Electronic Audio Experiments Greathammer Pedal – Round Hill Music Co: https://roundhillmusicco.com/products/electronic-audio-experiments-greathammer-pedal

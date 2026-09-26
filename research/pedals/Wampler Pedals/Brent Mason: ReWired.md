@@ -37,3 +37,19 @@ Delivering a wide range of essential tones, from crystal-clear light dirt to a p
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Introducing the all-new Wampler Brent Mason ReWired—an ultra-versatile, 2-channel Overdrive and Distortion pedal that delivers an incredible range of essential tones for every guitarist.
+
+### Verified sound evidence
+There’s no shortcut to mastering his skill, but there is a shortcut to getting his legendary tone.
+Introducing the all-new Wampler Brent Mason ReWired—an ultra-versatile, 2-channel Overdrive and Distortion pedal that delivers an incredible range of essential tones for every guitarist.
+Inspired by Brent’s incredible talent and effortless touch, Brian set out to craft a signature pedal that would become the cornerstone of Brent’s sound.
+
+### Sources checked in this pass
+1. Brent Mason: ReWired | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/brent-mason-rewired/
+2. Wampler Pedals Brent Mason: ReWired | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-brent-mason-rewired

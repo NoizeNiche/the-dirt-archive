@@ -38,3 +38,27 @@ The pedal featured two rotary controls: Output and Distortion.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The VOX Showroom - Vox 7001 Distortion Pedal .....
+
+### Verified color/finish evidence
+- A red LED illuminated to indicate the effect was in use.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The VOX Showroom - Vox 7001 Distortion Pedal .....
+The pedal featured two rotary controls: Output and Distortion.
+Vox 7001 Distortion 1980 - Mother’s Day Exclusive — Guitars, Keyboards, Drums, Recording Gear, and Music Accessories Welcome to our store!
+
+### Sources checked in this pass
+1. The VOX Showroom - Vox 7001 Distortion Pedal: https://voxshowroom.com/uk/misc/9001_distortion.html
+2. Vox 7001 Distortion 1980 – Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/vox-7001-distortion-1980
+3. Vox 7001 Distortion 1980 | Discounted items: https://www.classicgalleryx.com/product/vox-7001-distortion-1980/
+4. Vox 7001 Distortion 1980 - Mother’s Day Exclusive — Guitars, Keyboards, Drums, Recording Gear, and Music Accessories: https://www.vibrantp.com/product/vox-7001-distortion-1980/

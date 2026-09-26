@@ -1,8 +1,8 @@
 {
   "builder": "Himmelstrutz Elektro Art",
-  "pedal": "GRAMPS",
+  "pedal": "GRAMPS+",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 3,
+  "independent_exact_source_count": 2,
   "sources": [
     {
       "url": "https://www.ebay.com/itm/389024216669",
@@ -11,14 +11,6 @@
       "excerpt": "",
       "host": "www.ebay.com",
       "source_kind": "other"
-    },
-    {
-      "url": "https://reverb.com/item/68864739-himmelstrutz-elektro-art-gramps",
-      "title": "Himmelstrutz Elektro Art Gramps - Reverb",
-      "h1": "",
-      "excerpt": "",
-      "host": "reverb.com",
-      "source_kind": "reverb"
     },
     {
       "url": "https://www.ebay.ca/itm/406530733256",

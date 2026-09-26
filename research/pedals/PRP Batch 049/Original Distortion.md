@@ -31,3 +31,16 @@ Available period descriptions identify the pedal as a vintage-oriented distortio
 
 ## Photo
 - **Archive status:** Exact Photo Needed
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Amsterdam Cream's Original Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Amsterdam Cream Original Distortion 오리지널디스토션 - 샤인기타 회원가입 로그인 관심상품( 0 ) 최근본상품( 0 ) 주문조회 즐겨찾기 펼침 자주쓰는 카테고리 우측에 을 눌러주세요.
+
+### Sources checked in this pass
+1. Amsterdam Cream Original Distortion 오리지널디스토션 - 샤인기타: https://m.shineguitar.co.kr/product/amsterdam-cream-original-distortion-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90%EB%94%94%EC%8A%A4%ED%86%A0%EC%85%98/2347/

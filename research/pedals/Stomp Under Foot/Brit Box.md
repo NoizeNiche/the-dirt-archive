@@ -37,3 +37,19 @@ Whether you're looking for classic British crunch or thick, singing lead tones, 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Brit Box offers a wide range of gain, from rich, bluesy overdrive to fully saturated, hard-hitting Marshall-style distortion.
+
+### Verified sound evidence
+I owned one of the early units and loved its full, aggressive, in-your-face distortion.
+The Brit Box offers a wide range of gain, from rich, bluesy overdrive to fully saturated, hard-hitting Marshall-style distortion.
+Whether you're looking for classic British crunch or thick, singing lead tones, it delivers the punch, sustain, and dynamic response that made the original so inspiring.
+
+### Sources checked in this pass
+1. Brit Box – Stomp Under Foot: https://stompunderfoot.com/products/brit-box
+2. Stomp Under Foot Brit Box Distortion Effects Pedal – Twin Town Guitars: https://www.twintown.com/products/stomp-under-foot-brit-box-distortion-effects-pedal

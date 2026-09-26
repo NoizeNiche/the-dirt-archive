@@ -37,3 +37,21 @@ Controls: Preamp - controls the preamp gain Pentodes - controls the power amp ga
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Subdecay's Variac Overdrive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v16, v19, v21.
+
+### Verified sound evidence
+Variac Overdrive - Guitar Effects - Subdecay
+
+### Sources checked in this pass
+1. Variac Overdrive - Guitar Effects - Subdecay: https://subdecay.com/effect/variac-overdrive
+2. Subdecay Variac Overdrive: https://cms-music.net/en/Subdecay-Variac-Overdrive/8221
+3. SUBDECAY VARIAC OVERDRIVE | Gbl Guitars: https://www.gblguitars.it/prodotto/subdecay-variac-overdrive/

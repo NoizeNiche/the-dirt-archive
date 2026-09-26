@@ -37,3 +37,20 @@ Quick Specs - Multi-effect pedal combines the Soul Food transparent OD and Nano 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Electro-Harmonix's Soul POG Overdrive / Octave Multi-Effect is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Soul POG Overdrive / Octave Multi-Effect
+Not Sold Online Find Dealer Item SOUL POG WILL BE DISCONTINUED Combines two sweet pedals—-the Soul Food transparent overdrive and Nano POG polyphonic octave generator—-in one potent multi-effect.
+The versatile Soul POG delivers award-winning overdrive and flawless polyphonic octaves in any combination!
+
+### Sources checked in this pass
+1. Soul POG Overdrive / Octave Multi-Effect | SOUL POG | Electro-Harmonix: https://shop.ehx.com/item/soul%20pog/
+2. Electro-Harmonix Soul POG Overdrive / Octave Multi-Effect Effect Pedal – Pixel Pro Audio: https://www.pixelproaudio.com/products/electro-harmonix-soul-pog-overdrive-octave-multi-effect-effect-pedal-nehx088
+3. Pedal Guitar Electro-Harmonix Soul POG - Overdrive / Octave Multi-Effe – Việt Music: https://vietmusic.vn/products/pedal-guitar-electro-harmonix-soul-pog-multi-effect

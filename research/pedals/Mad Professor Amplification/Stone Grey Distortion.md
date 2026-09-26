@@ -1,23 +1,39 @@
 # Mad Professor Amplification — Stone Grey Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Stone Grey Distortion
 - **Builder:** Mad Professor Amplification
-- **Pedal:** Stone Grey Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mad Professor Amplification's Stone Grey Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Stone Grey Distortion** by **Mad Professor Amplification** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Our Stone Grey Distortion is actually very versatile pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: v4.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Our Stone Grey Distortion is actually very versatile pedal.
+Works really well as an overdrive and at low gain levels #guitartone #boutiquepedals #guitargear #pedalboard #stonegreydistortion #gibsonlespaul #gibson #madprofessorpedals @karhumarko
+
+## Sources checked
+1. Our Stone Grey Distortion is actually very versatile pedal. Works really well as an overdrive and at low gain levels #guitartone #boutiquepedals #guitargear #pedalboard #stonegreydistortion #gibsonlespaul #gibson #madprofessorpedals @karhumarko | Mad Professor Amplification: https://www.facebook.com/MadProfessorAmplification/videos/our-stone-grey-distortion-is-actually-very-versatile-pedal-works-really-well-as-/322154538366950/
+2. MAD PROFESSOR Stone Grey Distortion/FAC (Mad Professor) Distortion: https://global.ikebe-gakki.com/products/196607
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

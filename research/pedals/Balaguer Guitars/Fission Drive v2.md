@@ -49,3 +49,16 @@ Modern mode is voiced tighter and more focused for higher-gain articulate distor
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://guitarbrando.com/cdn/shop/products/20201214_213456.jpg?v=1632776585&width=1946
 - **Source page:** https://guitarbrando.com/products/balaguer-guitars-fission-drive-ovwrdrive-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Balaguer Guitars's Fission Drive v2 is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified version references
+- The evidence references: V2.
+
+### Sources checked in this pass
+1. Balaguer Guitars Fission Drive V2 Overdrive Pedal (White) – Guitar Brando: https://guitarbrando.com/products/balaguer-guitars-fission-drive-ovwrdrive-pedal

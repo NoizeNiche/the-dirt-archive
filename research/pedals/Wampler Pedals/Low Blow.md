@@ -38,3 +38,27 @@ Unlike many ‘bass boosters,’ it preserves transients and articulation, makin
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Wampler Pedals Low Blow Review: Deep, Dynamic Bass Boost Pedal Analysis
+
+### Verified color/finish evidence
+- First Impressions: Build Quality, Setup, and Design Unboxing reveals a standard Wampler 4.5" × 2.5" aluminum enclosure—matte black anodized finish, laser-etched labeling, and recessed knobs with soft-touch rubber caps.
+
+### Verified diode terms
+- LEDs, LED.
+
+### Verified sound evidence
+Wampler Pedals Low Blow Review: Deep, Dynamic Bass Boost Pedal Analysis
+It delivers a focused +12 dB boost centered at 80 Hz with fully variable control over frequency (40–160 Hz), gain (+0 to +12 dB), and blend (0–100% wet/dry).
+Unlike many ‘bass boosters,’ it preserves transients and articulation, making it viable for clean rhythm work, dynamic lead passages, and studio layering.
+
+### Sources checked in this pass
+1. Wampler Pedals Low Blow Review: Deep, Dynamic Bass Boost Pedal Analysis | GearStrings: https://gearstrings.com/gear-reviews/wampler-pedals-low-blow-review
+2. Wampler Pedals Low Blow Review - Premier Guitar: https://www.premierguitar.com/wampler-pedals-low-blow-review
+3. 1: https://wamplerpedals.com/pages/low-blow
+4. catalog/override source: https://reverb.com/item/93860680-wampler-low-blow-2015-white

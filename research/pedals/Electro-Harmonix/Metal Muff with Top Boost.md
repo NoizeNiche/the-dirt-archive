@@ -37,3 +37,23 @@ The Metal Muff offers commanding bass and defined high end-coupled with user-con
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Not Sold Online Find Dealer Item METAL MUFF The ultimate metal distortion pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Distortion - Electro-Harmonix Notify Me × Get notified when this item is back in-stock.
+Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Knobs at Noon With Top Boost Doomy Max Gain Screaming Lead Menu Metal Muff with Top Boost
+Distortion Metal Muff with Top Boost quantity Find a Dealer Metal Muff with Top Boost DESCRIPTION Electro-Harmonix gave its total effort to design the best heavy metal pedal ever built.
+
+### Sources checked in this pass
+1. Metal Muff with Top Boost | Distortion - Electro-Harmonix: https://www.ehx.com/products/metal-muff/
+2. Metal Muff with Top Boost Distortion | METAL MUFF | Electro-Harmonix: https://shop.ehx.com/item/metal%20muff/
+3. catalog/override source: https://musiccenterthai.com/product/electro-harmonix-metal-muff-with-top-boost/

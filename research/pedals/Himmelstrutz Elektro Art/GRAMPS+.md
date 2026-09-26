@@ -1,23 +1,37 @@
 # Himmelstrutz Elektro Art — GRAMPS+
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** GRAMPS+
 - **Builder:** Himmelstrutz Elektro Art
-- **Pedal:** GRAMPS+
 - **Catalog type:** Distortion / Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Himmelstrutz Elektro Art's GRAMPS+.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **GRAMPS+** by **Himmelstrutz Elektro Art** as a **Distortion / Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Himmelstrutz Elektro Art's GRAMPS+ is cataloged as a distortion / fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Himmelstrutz Elektro Art Gramps+ Himmelstrutz Gramps Fuzz Guitar ... - eBay: https://www.ebay.com/itm/389024216669
+2. Himmelstrutz Elektro Art Gramps+ Himmelstrutz Gramps Fuzz Guitar ... - eBay: https://www.ebay.ca/itm/406530733256
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

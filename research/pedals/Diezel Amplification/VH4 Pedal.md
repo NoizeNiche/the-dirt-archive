@@ -38,3 +38,20 @@ The entire signal architecture is faithfully reproduced: Bass, Mid, Treble and V
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Overview SPECIFICATIONS Unlike traditional overdrive stomp boxes, the VH4 Pedal is a true preamp which delivers an authentic representation of its namesake – real Diezel tone – not emulated, not modeled, but sincerely reproduced.
+
+### Verified sound evidence
+VH4 Pedal - Diezel Amplification Toggle navigation Products Artists Support Contact VH4 Pedal wp-admin March 19, 2017 February 1, 2023 For more than 20 years, the jaw-dropping tone of the Diezel VH4 amplifier has been heard on the world’s biggest stages.
+Now we made all the lush, dynamic overdrive character of the VH4’s famous third channel in a rugged, built in USA, preamp pedal which delivers an authentic representation of it’s namesake.
+Overview SPECIFICATIONS Unlike traditional overdrive stomp boxes, the VH4 Pedal is a true preamp which delivers an authentic representation of its namesake – real Diezel tone – not emulated, not modeled, but sincerely reproduced.
+
+### Sources checked in this pass
+1. VH4 Pedal - Diezel Amplification: https://www.diezelamplification.com/vh4pedal/
+2. Diezel Amplification - VH4 PEDAL: https://diezelusa.com/diezelpedals/diezel-vh4-pedal
+3. Diezel VH4 Pedal - Austin Guitar House: https://austinguitarhouse.com/vh4-pedal/

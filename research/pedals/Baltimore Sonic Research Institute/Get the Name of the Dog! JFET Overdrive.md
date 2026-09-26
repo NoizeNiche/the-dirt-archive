@@ -45,3 +45,13 @@ BSRI describes the pedal as covering chunky low- and mid-gain sounds, with enoug
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://www.pedalempire.com.au/cdn/shop/files/GETTHENAMEOFTHEDOG_JFETOVERDRIVE_700x700.webp?v=1775801496
 - **Source page:** https://www.pedalempire.com.au/products/baltimore-sonic-research-institute-get-the-name-of-the-dog-jfet-overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Baltimore Sonic Research Institute's Get the Name of the Dog! JFET Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Baltimore Sonic Research Institute Get the Name of the Dog! JFET Overd — Pedal Empire: https://www.pedalempire.com.au/products/baltimore-sonic-research-institute-get-the-name-of-the-dog-jfet-overdrive
