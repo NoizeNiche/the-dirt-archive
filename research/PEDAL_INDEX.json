@@ -1980,8 +1980,8 @@
       "source_page": "https://www.effectsdatabase.com/model/alairex/halo",
       "research_record": "./research/pedals/Alairex/H.A.L.O. - Harmonic Amp-Like Overdrive.md",
       "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/alairex_halo_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alairex",
@@ -1993,8 +1993,8 @@
       "source_page": "https://www.effectsdatabase.com/model/alairex/halo/jr",
       "research_record": "./research/pedals/Alairex/H.A.L.O. Jr..md",
       "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/alairex_halo-jr-namm2013_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alameda Guitars",
