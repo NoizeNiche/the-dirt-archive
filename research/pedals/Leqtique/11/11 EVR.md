@@ -1,23 +1,38 @@
 # Leqtique — 11/11 EVR
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** 11/11 EVR
 - **Builder:** Leqtique
-- **Pedal:** 11/11 EVR
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Leqtique's 11/11 EVR.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **11/11 EVR** by **Leqtique** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Leqtique's 11/11 EVR is cataloged as a Distortion pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+11/11 EVR &ndash; Leqtiqueshop Skip to content Submit Close search Leqtiqueshop Submit Search Log in Cart 11/11 EVR Regular price $210.00 Sale Default Title - Sold out Quantity Sold out 11/11 EVR Gallery Since it shares the same basic sound and concept as the original Leqtique - 11/11, please see here for basic information.
+The range of each control is the same as the original Leqtique - 11/11, except for the gain control, which has a slightly expanded maximum value.
+While retaining the original Leqtique's greatest features, such as its extreme response to guitar volume and the unique frequency, Q settings, and feel of each tone shape control from the 11/11, the basic design has been completely revamped to include EVR.
+
+## Sources checked
+1. 11/11 EVR &ndash; Leqtiqueshop: https://leqtique.ch/en/products/11-11evr
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

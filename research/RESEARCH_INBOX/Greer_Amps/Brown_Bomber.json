@@ -1,0 +1,41 @@
+{
+  "builder": "Greer Amps",
+  "pedal": "Brown Bomber",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/greer/brownbomber",
+      "title": "Greer Amps Brown Bomber | Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://equipboard.com/items/greer-amps-brown-bomber",
+      "title": "Greer Amps Brown Bomber - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/ca/item/101973766-used-greer-amps-brown-bomber-pedal",
+      "title": "Used Greer Amps Brown Bomber Pedal | Reverb Canada",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://thunderroadguitars.com/store/used-greer-amps-brown-bomber-pedal",
+      "title": "Thunder Road Guitars - Used Greer Amps Brown Bomber Pedal",
+      "h1": "",
+      "excerpt": "Thunder Road Guitars - Used Greer Amps Brown Bomber Pedal Home Store Repairs About Seattle Tues - Sat 10am - 6pm Sun - 11am - 5pm Mon - Closed 206.678.5248 Portland Tues - Sat 10am - 6pm Sun - 11am - 5pm Mon - Closed 971.888.5216 Located in Seattle SEA: 206.678.5248 SHARE Description Up for sale is a pre-owned Greer Amps Brown Bomber Pedal. Sounds and functions great and comes in the cosmetic condition shown in our photos. Details Model : Brown Bomber shop Acoustics Amplifiers Basses Clothing Effects Electrics Folk Instruments browse About Home Portland Repairs Seattle Store Seattle facebook instagram youtube reverb gbase Portland facebook instagram youtube reverb gbase \u00a9THUNDER ROAD GUITARS 2021. ALL RIGHTS RESERVED",
+      "host": "thunderroadguitars.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

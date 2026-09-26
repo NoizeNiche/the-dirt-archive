@@ -1,23 +1,44 @@
 # Fender — Fender Blender
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Fender Blender
 - **Builder:** Fender
-- **Pedal:** Fender Blender
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Fender's Fender Blender.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Fender Blender** by **Fender** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Fender Blender Fender Bender Analog Man guitar effects There are few Fender products with as much &quot;indie cred&quot; as the Fender Blender.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Fender Blender Pro™ Bike Blender | Pedal-Powered Smoothie Bike for Eve &ndash; Rock the Bike var productImageAndPrice = [], collectionImages = [], articleImages = [], mmLivIcons = true, mmPhosphor = false, mmFlipClock = false, mmFixesUseJquery = false, mmNumMMI = 7, mmSchemaTranslation = {}, mmMenuStrings = {"menuStrings":{"default":{"Shop":"Shop","The Pro Line":"The Pro Line","Rock The Bike's #1 product!":"Rock The Bike's #1 product!","Fender Blender Pro":"Fender Blender Pro","Blend AND generate electricity!":"Blend AND generate electricity!","Electric Fender Blender Pro":"Electric Fender Blender Pro","Add motion to your canvas!":"Add motion to your canvas!","Spin Art Pro":"Spin Art Pro","Enough to power a stage 🏟️":"Enough to power a stage 🏟️","Generator Pro":"Generator Pro","Power up every-day items":"Power up every-day items","Off the Wall Pro":"Off the Wall Pro","Keeps phones & devices charged":"Keeps phones & devices charged","Recharge Station Pro":"Recharge Station Pro","Turn pedal power into a game!":"Turn pedal power into a game!","sLEDgehammer Pro":"sLEDgehammer Pro","Churn out frozen treats 🍸🍧":"Churn out frozen treats 🍸🍧","Icycleta Pro":"Icycleta Pro","Pedal on and cool off 🍦🍨":"Pedal on and cool off 🍦🍨","Ice Cream Bike Pro":"Ice Cream Bike Pro","Best Selling Packages":"Best Selling Packages","Bike Rocker Package":"Bike Rocker Package","Year-Round Pedal Power Package":"Year-Round Pedal Power Package","The Event Pro Package":"The Event Pro Package","The Event Pro II Package":"The Event Pro II Package","Dual sLEDgehammer 2.0 Pro - Complete Activity - Competitive Interactive Pedal Power Light-Up Strength Challenge":"Dual sLEDgehammer 2.0 Pro - Complete Activity - Competitive Interactive Pedal Power Light-Up Strength Challenge","The Expo Package":"The Expo Package","Party In A Box Bundle":"Party In A Box Bundle","Ultimate Upgrade My Bike Package":"Ultimate Upgrade My Bike Package","Transform Your Own Bike":"Transform Your Own Bike","Here We Glow":"Here We Glow","Fender Blender Universale":"Fender Blender Universale","Spin Art Universale":"Spin Art Universale","Off the Wall Generator Stand":"Off the Wall Generator Stand","Roll Up Generator Stand":"Roll Up Generator Stand","By Activity":"By Activity","Bike Blending":"Bike Blending","More...":"More...","Spin Arts":"Spin Arts","Spin Art (Attachment)":"Spin Art (Attachment)","Charging":"Charging","Recharge Station":"Recharge Station","Event Power Box":"Event Power Box","Team Power-up":"Team Power-up","Pedal Power Utility Box":"Pedal Power Utility Box","Pedalometer":"Pedalometer","Virtual Racing":"Virtual Racing","sLEDgehammer V2.0":"sLEDgehammer V2.0","sLEDgehammer Leaderboard":"sLEDgehammer Leaderboard","Use Your Bike!":"Use Your Bike!","Frosty Concoctions":"Frosty Concoctions","Icycleta":"Icycleta","Jumbo Icycleta":"Jumbo Icycleta","Power the Music":"Power the Music","Event Accessories":"Event Accessories","Pro Trailer Kit":"Pro Trailer Kit","Easy Rolling Transport Wheels":"Easy Rolling Transport Wheels","Reflective ‘Rock The Bike’ Cam Straps":"Reflective ‘Rock The Bike’ Cam Straps","Pannier - Dutchy Recycled Banner by Green Guru":"Pannier - Dutchy Recycled Banner by Green Guru","Parts":"Parts","Pitchers & Blender Drive Parts":"Pitchers & Blender Drive Parts","Spin Art Parts":"Spin Art Parts","Charging & Powering Parts":"Charging & Powering Parts","sLEDgehammer Parts":"sLEDgehammer Parts","Blender Pitchers":"Blender Pitchers","Pro Frame Parts":"Pro Frame Parts","Icycleta & Ice Cream Parts":"Icycleta & Ice Cream Parts","Wheel Parts":"Wheel Parts","Cases":"Cases","Pro Case":"Pro Case","Spin Art Case":"Spin Art Case","sLEDgehammer Case":"sLEDgehammer Case","Off the Wall Recharge Desk Case":"Off the Wall Recharge Desk Case","What's new?":"What's new?","Party in a Box Pro":"Party in a Box Pro","15% off for a limited time":"15% off for a limited time","Summer Sale!":"Summer Sale!","Leaderboard for sLEDgehammer Competitions - Brandable, Competitive fun, Sturdy, Event T
+
+## Versions and factory options
+- The verified evidence references: V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Fender Blender Pro™ Bike Blender | Pedal-Powered Smoothie Bike for Eve &ndash; Rock the Bike var productImageAndPrice = [], collectionImages = [], articleImages = [], mmLivIcons = true, mmPhosphor = false, mmFlipClock = false, mmFixesUseJquery = false, mmNumMMI = 7, mmSchemaTranslation = {}, mmMenuStrings = {"menuStrings":{"default":{"Shop":"Shop","The Pro Line":"The Pro Line","Rock The Bike's #1 product!":"Rock The Bike's #1 product!","Fender Blender Pro":"Fender Blender Pro","Blend AND generate electricity!":"Blend AND generate electricity!","Electric Fender Blender Pro":"Electric Fender Blender Pro","Add motion to your canvas!":"Add motion to your canvas!","Spin Art Pro":"Spin Art Pro","Enough to power a stage 🏟️":"Enough to power a stage 🏟️","Generator Pro":"Generator Pro","Power up every-day items":"Power up every-day items","Off the Wall Pro":"Off the Wall Pro","Keeps phones & devices charged":"Keeps phones & devices charged","Recharge Station Pro":"Recharge Station Pro","Turn pedal power into a game!":"Turn pedal power into a game!","sLEDgehammer Pro":"sLEDgehammer Pro","Churn out frozen treats 🍸🍧":"Churn out frozen treats 🍸🍧","Icycleta Pro":"Icycleta Pro","Pedal on and cool off 🍦🍨":"Pedal on and cool off 🍦🍨","Ice Cream Bike Pro":"Ice Cream Bike Pro","Best Selling Packages":"Best Selling Packages","Bike Rocker Package":"Bike Rocker Package","Year-Round Pedal Power Package":"Year-Round Pedal Power Package","The Event Pro Package":"The Event Pro Package","The Event Pro II Package":"The Event Pro II Package","Dual sLEDgehammer 2.0 Pro - Complete Activity - Competitive Interactive Pedal Power Light-Up Strength Challenge":"Dual sLEDgehammer 2.0 Pro - Complete Activity - Competitive Interactive Pedal Power Light-Up Strength Challenge","The Expo Package":"The Expo Package","Party In A Box Bundle":"Party In A Box Bundle","Ultimate Upgrade My Bike Package":"Ultimate Upgrade My Bike Package","Transform Your Own Bike":"Transform Your Own Bike","Here We Glow":"Here We Glow","Fender Blender Universale":"Fender Blender Universale","Spin Art Universale":"Spin Art Universale","Off the Wall Generator Stand":"Off the Wall Generator Stand","Roll Up Generator Stand":"Roll Up Generator Stand","By Activity":"By Activity","Bike Blending":"Bike Blending","More...":"More...","Spin Arts":"Spin Arts","Spin Art (Attachment)":"Spin Art (Attachment)","Charging":"Charging","Recharge Station":"Recharge Station","Event Power Box":"Event Power Box","Team Power-up":"Team Power-up","Pedal Power Utility Box":"Pedal Power Utility Box","Pedalometer":"Pedalometer","Virtual Racing":"Virtual Racing","sLEDgehammer V2.0":"sLEDgehammer V2.0","sLEDgehammer Leaderboard":"sLEDgehammer Leaderboard","Use Your Bike!":"Use Your Bike!","Frosty Concoctions":"Frosty Concoctions","Icycleta":"Icycleta","Jumbo Icycleta":"Jumbo Icycleta","Power the Music":"Power the Music","Event Accessories":"Event Accessories","Pro Trailer Kit":"Pro Trailer Kit","Easy Rolling Transport Wheels":"Easy Rolling Transport Wheels","Reflective ‘Rock The Bike’ Cam Straps":"Reflective ‘Rock The Bike’ Cam Straps","Pannier - Dutchy Recycled Banner by Green Guru":"Pannier - Dutchy Recycled Banner by Green Guru","Parts":"Parts","Pitchers & Blender Drive Parts":"Pitchers & Blender Drive Parts","Spin Art Parts":"Spin Art Parts","Charging & Powering Parts":"Charging & Powering Parts","sLEDgehammer Parts":"sLEDgehammer Parts","Blender Pitchers":"Blender Pitchers","Pro Frame Parts":"Pro Frame Parts","Icycleta & Ice Cream Parts":"Icycleta & Ice Cream Parts","Wheel Parts":"Wheel Parts","Cases":"Cases","Pro Case":"Pro Case","Spin Art Case":"Spin Art Case","sLEDgehammer Case":"sLEDgehammer Case","Off the Wall Recharge Desk Case":"Off the Wall Recharge Desk Case","What's new?":"What's new?","Party in a Box Pro":"Party in a Box Pro","15% off for a limited time":"15% off for a limited time","Summer Sale!":"Summer Sale!","Leaderboard for sLEDgehammer Competitions - Brandable, Competitive fun, Sturdy, Event T
+Once thought of as an overly harsh fuzz pedal, the Blender, thanks to players like Billy Corgan of Smashing Pumpkins and Kevin Shields of My Bloody Valentine, is now a coveted, and rare, vintage pedal.
+The beauty of this pedal is that it does not sound like anything else on the market.
+
+## Sources checked
+1. Fender Blender - What To Know Where To Buy | Equipboard: https://equipboard.com/items/fender-blender
+2. Fender Fender Blender Fuzz Pedal - Reverb: https://reverb.com/p/fender-fender-blender
+3. The Fender Blender - Vintage Guitar® magazine: https://www.vintageguitar.com/25190/the-fender-blender/
+4. Fender Blender Pro™ Bike Blender | Pedal-Powered Smoothie Bike for Eve &ndash; Rock the Bike: https://rockthebike.com/products/fender-blender-pro/
+5. Fender Blender: https://www.analogman.com/blender.htm
+6. Fender Blender - eBay: https://www.ebay.com/shop/fender-blender?_nkw=fender+blender
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

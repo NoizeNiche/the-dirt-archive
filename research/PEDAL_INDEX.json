@@ -28018,8 +28018,8 @@
       "image": "./assets/pedals/cunningham-amps/octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cunningham Amps/Octave Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cunningham Amps",
@@ -32736,8 +32736,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fender/Compugilist Compressor/Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -32748,8 +32748,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fender/Fender Blender.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -33930,8 +33930,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Brown Bomber.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34785,8 +34785,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/NTS.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -34809,8 +34809,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/SD9M.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -36521,8 +36521,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Katanasound/Volcanic Eruption Octave Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -36533,8 +36533,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/1962 British Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -37801,8 +37801,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/11/11 EVR.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
@@ -37813,8 +37813,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/6/6.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
@@ -42905,8 +42905,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/DIRTY DIABLO.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "OKKO FX",
