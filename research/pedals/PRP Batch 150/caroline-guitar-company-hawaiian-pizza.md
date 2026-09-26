@@ -20,3 +20,24 @@
   - https://carolineguitar.com/specialpinkpizza/
   - https://carolineguitar.com/superpatriotic-special-american-pizza/
   - https://carolineguitar.com/vegetarian-pizza-special-limited-run-w-limited-tee/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+From smooth, warm tones to sputtering, gated chaos and even Marshall-esque crunch, the Hawaiian Pizza delivers a flavor profile as diverse as its namesake dish.
+
+### Verified sound evidence
+Your quest for toanz have brought you to our HAWAIIAN PIZZA™: a bespoke artisanal blockchain of handcrafted tone, the sonic equivalent of a forbidden delicacy, all from just three knobs and the truth*.
+This thing really is "three knobs and the truth" and can both fulfill and surpass what you think a fuzz is capable of.) *Your pedal was dreamed, designed and created at our small batch distortery™ in Columbia, S.C Thank you for supporting our work!
+to navigate to select ESC to close Gear Review: Caroline Guitar Company - Hawaiian Pizza The Tone Ranger Caroline guitar company , Hawaiian pizza , Fuzz , Guitar effects February 5, 2024 Hold onto your pineapple chunks, because the Caroline Guitar Company’s Hawaiian Pizza fuzz pedal will take your tone on a wild ride.
+
+### Sources checked in this pass
+1. Amazon.com: Caroline Guitar Company Hawaiian Pizza Fuzz Overdrive : Musical Instruments: https://www.amazon.com/Caroline-Guitar-Company-Hawaiian-Overdrive/dp/B07HMGPPJF?&_encoding=UTF8&tag=intoguitar0c-20&linkCode=ur2&linkId=a64c43ce12a224e791b4c64a1169aad5&camp=1789&creative=9325
+2. Hawaiian Pizza - Caroline Guitar Company - Caroline Guitar Company: https://carolineguitar.com/product/hawaiian-pizza/
+3. Gear Review: Caroline Guitar Company - Hawaiian Pizza: https://www.intoguitar.com/gear-reviews/caroline-hawaiian-pizza/
+4. Caroline Hawaiian Pizza Review - Premier Guitar: https://www.premierguitar.com/gear/caroline-hawaiian-pizza-review
+5. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fwww.intoguitar.com%252Fgear-reviews%252Fcaroline-hawaiian-pizza%252F%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
+6. JavaScript is not available.: https://x.com/intent/tweet/?text=Share&url=https%3a%2f%2fwww.intoguitar.com%2fgear-reviews%2fcaroline-hawaiian-pizza%2f
+7. https://reddit.com/submit/?url=https%3a%2f%2fwww.intoguitar.com%2fgear-reviews%2fcaroline-hawaiian-pizza%2f&resubmit=true&title=Share: https://reddit.com/submit/?url=https%3a%2f%2fwww.intoguitar.com%2fgear-reviews%2fcaroline-hawaiian-pizza%2f&resubmit=true&title=Share

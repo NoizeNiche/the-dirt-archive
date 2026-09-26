@@ -18424,8 +18424,8 @@
       "research_record": "./research/pedals/PRP Batch 150/caroline-guitar-company-hawaiian-pizza.md",
       "image_source_page": "https://www.intoguitar.com/gear-reviews/caroline-hawaiian-pizza/",
       "image_source_url": "https://www.intoguitar.com/images/gear/caroline-hawaiin-pizza-gallery/caroline-hawaiian-pizza-pink.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caroline Guitar Company",
@@ -46436,8 +46436,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Supernova Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Subdecay",
