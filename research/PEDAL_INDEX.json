@@ -2953,8 +2953,8 @@
       "source_page": "https://www.musicland.co.jp/fs/musiclandkey/amptwkr-tight-metal",
       "research_record": "./research/pedals/Amptweaker/Tight_Metal.md",
       "image_source_url": "https://www.musicland.co.jp/shop/item/musiclandkey/picture/goods/48656_thumbnail.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -16613,8 +16613,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/columbus_ovd-5_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cajita Stompboxes",

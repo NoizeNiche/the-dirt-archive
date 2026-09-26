@@ -1,14 +1,36 @@
 # Cactus — OVD-5 Overdrive
 
 ## PRP identity
+- **Archive parent:** OVD-5 Overdrive
 - **Builder:** Cactus
 - **Catalog type:** Overdrive
-- **Identity:** Cactus-branded OVD-5 Overdrive.
+- **Identity:** Cactus's OVD-5 Overdrive.
 
-## Circuit / controls
-Effects Database provides the model identity and places it in a large family of related OVD-5 / HOD-1 / IOD-9 branded pedals. The reviewed page does not provide enough direct evidence to assign a circuit topology or component list to the Cactus-branded unit.
+## What this pedal is
+Cactus's OVD-5 Overdrive is cataloged as an overdrive pedal.
+
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/cactus/ovd5
+1. Cactus OVD-5 Overdrive | Effects Database: https://www.effectsdatabase.com/model/cactus/ovd5
 
-The family relationships are documented by Effects Database; no unsupported circuit equivalence is asserted. citeturn4view2
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
