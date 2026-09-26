@@ -37,3 +37,21 @@ At lower gain settings ZenTone is documented as covering jazz, country and fusio
 ## Photo
 - **Archive status:** **Exact Photo Archived**
 - **Image source:** Effects Database exact-model image.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog King's ZenTone - Harmonic Drive is cataloged as an overdrive pedal.
+
+### Verified diode terms
+- BAT41, BAT46, LED.
+
+### Verified sound evidence
+Analog King ZenTone - Harmonic Drive
+It is inspired by the "Zend..." and Dumble type overdrive sounds.
+The tone of this pedal is usually associated with some of the most expensive amplifiers on the market.
+
+### Sources checked in this pass
+1. Analog King ZenTone - Harmonic Drive | Effects Database: https://www.effectsdatabase.com/model/analogking/zentone

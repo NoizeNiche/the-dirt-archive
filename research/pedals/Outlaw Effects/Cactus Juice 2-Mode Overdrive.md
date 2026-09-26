@@ -1,23 +1,42 @@
 # Outlaw Effects — Cactus Juice 2-Mode Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Cactus Juice 2-Mode Overdrive
 - **Builder:** Outlaw Effects
-- **Pedal:** Cactus Juice 2-Mode Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Outlaw Effects's Cactus Juice 2-Mode Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Cactus Juice 2-Mode Overdrive** by **Outlaw Effects** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Outlaw Effects presents Distortion Pedals Cactus Juice 2-Mode Overdrive .
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Outlaw Effects Cactus Juice 2-Mode Overdrive: Good For You?
+Outlaw Effects presents Distortion Pedals Cactus Juice 2-Mode Overdrive .
+Fans of Outlaw Effects Cactus Juice 2-Mode Overdrive by artist Fans by artist artist Fans Eric Clapton 138.4 Eric Clapton: 138.4 fans Jimi Hendrix 124.2 Jimi Hendrix: 124.2 fans B.B.
+
+## Sources checked
+1. Outlaw Effects Cactus Juice 2-Mode Overdrive Pedal: https://www.uspromusicshop.com/product/outlaw-effects-cactus-juice-2-mode-overdrive-pedal/
+2. Outlaw Effects Cactus Juice 2-Mode Overdrive: Good For You?: https://www.musicngear.com/outlaw-effects-cactus-juice-2-mode-overdrive
+3. New Outlaw Effects Cactus Juice 2-Mode Overdrive Guitar - Reverb: https://reverb.com/item/87534104-new-outlaw-effects-cactus-juice-2-mode-overdrive-guitar-effects-pedal
+4. Outlaw Effects - CACTUS JUICE 2-MODE OVERDRIVE - Centre De Musique Diplomate – Centre de Musique Diplomate: https://musiquediplomate.com/products/outlaw-effects-cactus-juice-2-mode-overdrive
+5. Outlaw Effects Cactus Juice 2-Mode Overdrive Pedal: https://visitgrayscustomguitarshop.shop/products/outlaw-effects-cactus-juice-2-mode-overdrive-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

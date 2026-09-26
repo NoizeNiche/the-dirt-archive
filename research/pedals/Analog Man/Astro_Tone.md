@@ -66,3 +66,19 @@ Astro Tone is a relatively open, less-compressed silicon fuzz that sits between 
 1. Analog Man — Astro Tone: https://analogman.com/astrotone.htm
 2. Midwood Guitar Studio — Analogman Astro Tone: https://midwoodguitarstudio.com/products/analogman-astro-tone-fuzz-pedal-black
 3. Effects Database — Astro Tone history/catalog: https://www.effectsdatabase.com/model/analogman/astrotone
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Man's Astro Tone is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MK1.
+
+### Sources checked in this pass
+1. Analog Man Astro Tone Fuzz Pedal | Vintage Silicon Fuzz: https://midwoodguitarstudio.com/products/analogman-astro-tone-fuzz-pedal-black
+2. Analog Man Astro Tone Fuzz Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/analog-man-astro-tone-fuzz-pedal-review
+3. Analog Man Astro Tone Fuzz: https://www.buyanalogman.com/Analog_Man_Astro_Tone_Fuzz_p/AMAstroTone.htm
+4. aNaLoG.MaN Custom Guitar Effects Pedals: https://analogman.com/

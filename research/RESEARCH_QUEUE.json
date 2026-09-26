@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T10:00:06.119941+00:00",
+  "generated_at": "2026-09-26T10:02:47.346074+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2744,
     "complete": 2744,
     "research_pending": 0,
-    "deep_research_pending": 3043,
-    "deep_researched": 718,
+    "deep_research_pending": 3030,
+    "deep_researched": 731,
     "surface_ready": 3761
   },
   "next_target": {
@@ -48,27 +48,6 @@
       "pedal": "Destroyer",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 050/Destroyer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog King",
-      "pedal": "ZenTone - Harmonic Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 056/ZenTone - Harmonic Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Man",
-      "pedal": "Astro Tone",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Man/Astro_Tone.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Man",
-      "pedal": "King Of Tone",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Man/King_Of_Tone.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +174,27 @@
       "pedal": "The Boogie Man",
       "catalog_type": "",
       "research_record": "./research/pedals/Analog Sound/The Boogie Man.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Anarchy Audio Australia",
+      "pedal": "Baa Bzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Anarchy Audio Australia/Baa Bzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Anarchy Audio Australia",
+      "pedal": "Deadwoods - Chainsaw Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Anarchy Audio Australia/Deadwoods - Chainsaw Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Anarchy Audio Australia",
+      "pedal": "Sentinel",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Anarchy Audio Australia/Sentinel.md",
       "research_level": "surface"
     }
   ]
