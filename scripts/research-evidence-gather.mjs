@@ -42,6 +42,13 @@ function pedalIdentityVariants(pedal){
   // an exact identity variant without weakening ordinary hyphenated model names.
   const core=raw.split(/\\s+—\\s+/)[0].trim();
   if(core && core!==raw) variants.push(core);
+  // Historical and retailer pages frequently collapse compound pedal names
+  // (for example FatRock or TightRock) into one token. Accept that spelling as
+  // an exact identity variant when the page title/H1/URL uses it.
+  for(const value of [raw, core]){
+    const compact=norm(value).replace(/\\s+/g,'');
+    if(compact && !variants.some(v=>norm(v)===compact)) variants.push(compact);
+  }
   return variants;
 }
 function fit(builder,pedal,text){
