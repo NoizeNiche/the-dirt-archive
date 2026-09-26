@@ -435,4 +435,6 @@ jobs:
           exit 1
 
       - name: Research continuation paused
-        run: echo "Autonomous research continuation is paused; no self-dispatch will be performed."
+        run: |
+          echo "Autonomous research continuation is paused; no self-dispatch will be performed."
+          echo "No canonical research movement in this pass; stopping self-chain to avoid retry thrash."
