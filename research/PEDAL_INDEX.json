@@ -3008,8 +3008,8 @@
       "research_record": "./research/pedals/Amptweaker/Tight_Rock.md",
       "image_source_url": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_tightrockdistortionff_la_2.jpg",
       "image_source_page": "https://ninevolt.jp/products/amptweaker-tight-rock",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -43166,8 +43166,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Organic Sounds/Organic Drive \"Zeus\".md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Origin Effects",
