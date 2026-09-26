@@ -440,6 +440,7 @@ main{padding:24px 0 72px}
   object-fit:contain;
   padding:10px;
 }
+.cardPlaceholder[hidden]{display:none!important}
 .cardPlaceholder{
   display:grid;
   width:100%;
