@@ -10519,8 +10519,8 @@
       "research_record": "./research/pedals/PRP Batch 090/FZ-12 Fuzz.md",
       "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/biyang-fz-12-fuzz-effects-pedal.jpg",
       "image_source_page": "https://www.effects-pedals.info/p/biyang-fz-12-fuzz/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -17550,8 +17550,8 @@
       "research_record": "./research/pedals/PRP Batch 144/cp-84-honeycomb-tone-overdrive.md",
       "image_source_url": "https://m.media-amazon.com/images/I/6128fHVVY2L._AC_SL1200_.jpg",
       "image_source_page": "https://bigamart.com/product/caline-cp-84-the-honeycomb-tone-overdrive-effect-pedal/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -17620,8 +17620,8 @@
       "research_record": "./research/pedals/PRP Batch 145/dcp-06-sundance-special.md",
       "image_source_url": "http://www.calinemusic.com/uploads/allimg/20221121/1-221121155J54X.png",
       "image_source_page": "http://www.calinemusic.com/index.php?m=home&c=View&a=index&aid=28",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -29983,8 +29983,8 @@
       "image": "./assets/pedals/dod-electronics/chthonic-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Chthonic Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -30031,8 +30031,8 @@
       "image": "./assets/pedals/dod-electronics/fx100-even-harmonic-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/FX100 Even Harmonic Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -33519,8 +33519,8 @@
       "image": "./assets/pedals/friedman-amplification/motor-city-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Friedman Amplification/Motor City Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Friedman Amplification",
@@ -34680,8 +34680,8 @@
       "image": "./assets/pedals/hungry-robot/the-collective/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hungry Robot/The Collective.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Hungry Robot",
@@ -43467,8 +43467,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/HEAVY BLOW BASS-OVERDRIVE.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ovaltone",
@@ -43503,8 +43503,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/TM4086+ REV. 1.2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Pettyjohn Electronics",

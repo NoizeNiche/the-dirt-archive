@@ -1,23 +1,39 @@
 # Ovaltone — HEAVY BLOW BASS-OVERDRIVE
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** HEAVY BLOW BASS-OVERDRIVE
 - **Builder:** Ovaltone
-- **Pedal:** HEAVY BLOW BASS-OVERDRIVE
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Ovaltone's HEAVY BLOW BASS-OVERDRIVE.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **HEAVY BLOW BASS-OVERDRIVE** by **Ovaltone** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Ovaltone's HEAVY BLOW BASS-OVERDRIVE is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MK I, Version 2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. HEAVY BLOW BASS-OVERDRIVE – Ovaltone -handmade effect pedals-: https://ovaltone.net/products/heavy-blow-bass-overdrive/
+2. Ovaltone Heavy Blow BASS-OVERDRIVE Excellent Condition - eBay: https://www.ebay.com/itm/800661732051
+3. HEAVY BLOW / BASS-OVERDRIVE: エフェクター｜三木楽器公式通販サイト: https://www.mikigakki.com/shop/g/gMBS-2031630016169/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

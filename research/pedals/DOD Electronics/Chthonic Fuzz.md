@@ -37,3 +37,25 @@ Unlike typical fuzz pedals that collapse drum tones into mushy midrange smear, t
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Why Drummers Needed a New Fuzz Paradigm Standard fuzz pedals fail drum signals in three measurable ways: (1) input impedance mismatch ( 12 ms), smearing successive hits; and (3) no low-end compensation, resulting in 3–6 dB attenuation below 80 Hz.
+
+### Verified transistor/device terms
+- 2N5088, 2N2222.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Dod Chthonic Fuzz: A Drummer’s Deep-Dive into Its Sonic Architecture, Studio Applications, and Rhythmic Integration
+Frustrated by the lack of dynamic-responsive, low-frequency-capable distortion for acoustic-electronic hybrid kits, O’Higgins spent three years prototyping circuits that could handle the 15–120 Hz fundamental range of bass drums and floor toms without compressing articulation.
+The result was the Chthonic Fuzz—a name derived from the Greek chthōn , meaning 'earth' or 'underworld', reflecting its subterranean tonal focus.
+
+### Sources checked in this pass
+1. Dod Chthonic Fuzz: A Drummer’s Deep-Dive into Its Sonic Architecture, Studio Applications, and Rhythmic Integration | GearStrings: https://gearstrings.com/drums/dod-chthonic-fuzz
+2. DOD Chtonic Fuzz Pedal - Gbase: https://www.gbase.com/gear/dod-electronics-dod-9

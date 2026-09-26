@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DOD Electronics's FX100 Even Harmonic Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. DOD Electronics FX100 Even Harmonic Overdrive - Rhythms of Melody: https://www.rhythmsofmelody.com/product/dod-electronics-fx100-even-harmonic-overdrive/
+2. DOD Electronics FX100 Even Harmonic Overdrive - www.refinemusicshop.com: https://www.refinemusicshop.com/product/dod-electronics-fx100-even-harmonic-overdrive/

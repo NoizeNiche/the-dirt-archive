@@ -16,3 +16,18 @@
   - https://www.pedal-of-the-day.com/2020/08/05/caline-cp-84-honeycomb-tone-overdrive/
   - https://www.rockboard.de/en/pedalPedia/Caline/CP-84-The-Honeycomb-Tone-Overdrive/68976455/
   - https://www.guitarpusher.com/products/caline-cp-84-the-honeycomb-tone-overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-84 Honeycomb Tone - Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Caline CP-84 Honeycomb Tone - Overdrive
+Use it for a stand-alone Overdrive tone or to shape your dirty signal.
+The Honeycomb Tone is a must since the graphic was designed by our very own sponsored artist Sammy Slamdance!
+
+### Sources checked in this pass
+1. Caline CP-84 Honeycomb Tone - Overdrive | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp84
