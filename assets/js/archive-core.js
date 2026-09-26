@@ -59,9 +59,10 @@ function loadFacets() {
       console.warn('Technical facet index unavailable.', error);
       return {version: 1, records: {}, options: {}};
     });
+  return archiveFacetsPromise;
 }
 
-function loadCatalog() {
+function loadCatalog()
   if (archiveCatalogPromise) return archiveCatalogPromise;
 
   archiveCatalogPromise = fetch(ARCHIVE_DATA_INDEX, {cache: 'no-store'})
