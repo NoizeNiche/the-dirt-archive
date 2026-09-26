@@ -2471,8 +2471,8 @@
       "research_record": "./research/pedals/PRP Batch 046/Jubilee Silver Overdrive.md",
       "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/alexander-pedals-effects-and-pedals-overdrive-and-boost-alexander-pedals-jubilee-silver-overdrive-pedal-u3315811002-28271651094663.jpg?v=1649785984&width=1946",
       "image_source_page": "https://www.chicagomusicexchange.com/products/alexander-pedals-jubilee-silver-overdrive-pedal-1240008",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alexander Pedals",
@@ -37961,8 +37961,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/RFD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
@@ -51251,8 +51251,8 @@
       "research_record": "./research/pedals/ZVEX Effects/Fuzz Factory Vertical.md",
       "image_source_url": "https://www.incognitoguitars.com/wp-content/uploads/2022/10/ZVexFuzzFactoryVertical2-800x800.jpeg",
       "image_source_page": "https://incognitoguitars.com/product/zvex-effects-fuzz-factory-vertical/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",

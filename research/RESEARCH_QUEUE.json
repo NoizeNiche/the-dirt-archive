@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T03:49:34.124950+00:00",
+  "generated_at": "2026-09-26T03:49:49.742690+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2540,
     "complete": 2540,
     "research_pending": 0,
-    "deep_research_pending": 3359,
-    "deep_researched": 402,
+    "deep_research_pending": 3356,
+    "deep_researched": 405,
     "surface_ready": 3761
   },
   "next_target": {
@@ -34,13 +34,6 @@
       "pedal": "Hot Pink Drive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 046/Hot Pink Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alexander Pedals",
-      "pedal": "Jubilee Silver Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 046/Jubilee Silver Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Big Rock Pro",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/Big_Rock_Pro.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amptweaker",
+      "pedal": "Big Rock Pro II",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Amptweaker/Big_Rock_Pro_II.md",
       "research_level": "surface"
     }
   ]

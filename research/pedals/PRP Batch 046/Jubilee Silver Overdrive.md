@@ -1,41 +1,36 @@
 # Alexander Pedals — Jubilee Silver Overdrive
 
 ## PRP identity
+- **Archive parent:** Jubilee Silver Overdrive
 - **Builder:** Alexander Pedals
 - **Catalog type:** Overdrive
-- **Identity:** British-voiced analog overdrive with three-band passive EQ.
+- **Identity:** Alexander Pedals's Jubilee Silver Overdrive.
 
 ## What this pedal is
-Jubilee is an analog overdrive built around a British-style three-band tone stack. Documented controls are Loudness, Drive, Treble, Middle, and Bass.
+Alexander Pedals's Jubilee Silver Overdrive is cataloged as an overdrive pedal.
 
 ## Colorways
-- The catalog identity is the Silver Overdrive.
-- A later demo archive documents a gold-finish example, but the accessible material does not establish whether that was a formal factory colorway, so it is not promoted as a separate variant.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Loudness
-- Drive
-- Treble
-- Middle
-- Bass
-- 9-18V operation
-- no battery
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision history established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Alexander describes Jubilee as capable of subtle drive but primarily aimed at a louder, more aggressive British-style overdrive response. The passive three-band EQ gives direct control over bass, middle, and treble content around the gain stage.
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database — https://www.effectsdatabase.com/model/alexander/jubilee
-2. Alexander Pedals support — https://www.alexanderpedals.com/support
+1. Alexander Pedals Jubilee Silver Overdrive Pedal &ndash; Chicago Music Exchange: https://www.chicagomusicexchange.com/products/alexander-pedals-jubilee-silver-overdrive-pedal-1240008
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
