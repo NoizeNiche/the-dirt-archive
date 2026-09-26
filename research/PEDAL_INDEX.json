@@ -2967,8 +2967,8 @@
       "research_record": "./research/pedals/Amptweaker/Tight_Metal_Jr.md",
       "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/1/3/13_52.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=800",
       "image_source_page": "https://www.pitbullaudio.com/amptweaker-tight-metal-jr-distortion-guitar-effects-pedal.html",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -43142,8 +43142,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Organic Sounds/Organic Drive \"CHRONOS\".md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Organic Sounds",

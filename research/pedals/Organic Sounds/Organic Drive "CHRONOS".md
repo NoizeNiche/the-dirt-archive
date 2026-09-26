@@ -1,23 +1,42 @@
 # Organic Sounds — Organic Drive "CHRONOS"
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Organic Drive "CHRONOS"
 - **Builder:** Organic Sounds
-- **Pedal:** Organic Drive "CHRONOS"
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Organic Sounds's Organic Drive "CHRONOS".
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Organic Drive "CHRONOS"** by **Organic Sounds** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Organic Sounds's Organic Drive "CHRONOS" is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The "Chronos" is the fifth masterpiece in the Organic Drive series, designed to be the ultimate amp-like overdrive.
+From a pristine, glossy clean boost to a rich, saturated overdrive that borders on distortion, it captures every nuance of your picking with unmatched dynamic sensitivity.
+Their philosophy centers on reproducing the organic "feel" and harmonic complexity of legendary vintage gear, which has earned them a passionate global following among tone purists.
+
+## Sources checked
+1. Organic Drive "CHRONOS ZERO" | Organic Sounds: https://organic-sounds.com/products/organic-drive-chronos
+2. Organic Drive "CHRONOS" – Organic Sounds Overseas Sales Division: https://organic-sounds-overseas-sales-division.com/products/organic-drive-chronos
+3. Organic Sounds Organic Drive Chronos Zero - Modern Boutique | Reverb: https://reverb.com/item/95729380-organic-sounds-organic-drive-chronos-zero-modern-boutique-overdrive-made-in-japan
+4. Organic Drive Chronos Zero by ORGANIC SOUNDS – Ikebe Musical Instruments Store: https://global.ikebe-gakki.com/products/850723
+5. Organic Sounds Organic Drive Chronos - Flagship Boutique Overdrive (Ma – XTONES: https://archive.xtones.net/products/organicsounds-chronos
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
