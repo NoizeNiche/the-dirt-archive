@@ -253,12 +253,16 @@ def main():
         if not item:
             held += 1
             continue
+        existing_surface = (
+            str(item.get("research_level") or "").strip().lower() == "surface"
+            and bool(item.get("research_record"))
+        )
         ok, reason = write_record(item, type_by_key.get(key, ""), packet)
         if ok:
-            if item.get("deep_research_status") == "VERIFIED" and item.get("research_record"):
-                if (RESEARCH_ROOT / item.get("company","") / f"{item.get('pedal','')}.md").exists():
-                    pass
-            created += 1
+            if existing_surface:
+                deepened += 1
+            else:
+                created += 1
             created_paths.append(reason)
         else:
             skipped += 1
