@@ -1,0 +1,13 @@
+{
+  "builder":"AbbyTone",
+  "pedal":"Screwed Driver",
+  "status":"VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count":2,
+  "sources":[
+    {"url":"https://www.effectsdatabase.com/model/abbytone/screweddriver","title":"AbbyTone Screwed Driver | Effects Database","source_kind":"effects_database"},
+    {"url":"https://www.effectsdatabase.com/model/abbytone","title":"AbbyTone | Effects Database","source_kind":"brand_profile"}
+  ],
+  "verified_points":["Gain and Level controls","Treble/Normal/Full three-position switch","clean boost through smooth overdrive and thicker full-spectrum drive","strong pick-attack and guitar-volume response","AbbyTone produced by Jonathan Segura in Brooklyn during 2004-2005"],
+  "unknowns":["exact transistor devices","exact clipping diodes","formal hardware revision history"],
+  "next_action":"Merge deep research status through the canonical research pipeline."
+}
