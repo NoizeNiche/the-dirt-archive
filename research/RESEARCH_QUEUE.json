@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T10:11:47.934517+00:00",
+  "generated_at": "2026-09-26T10:13:23.205984+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2744,
     "complete": 2744,
     "research_pending": 0,
-    "deep_research_pending": 3003,
-    "deep_researched": 758,
+    "deep_research_pending": 3001,
+    "deep_researched": 760,
     "surface_ready": 3761
   },
   "next_target": {
@@ -62,13 +62,6 @@
       "pedal": "Scream For Cream OD",
       "catalog_type": "",
       "research_record": "./research/pedals/Analog Sound/Scream For Cream OD.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Sound",
-      "pedal": "Smooth O' Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Sound/Smooth O' Drive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Ozymandias",
       "catalog_type": "",
       "research_record": "./research/pedals/Animal Factory Amplification/Ozymandias.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animal Factory Amplification",
+      "pedal": "Pit Viper",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Animal Factory Amplification/Pit_Viper.md",
       "research_level": "surface"
     }
   ]

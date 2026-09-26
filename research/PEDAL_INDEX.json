@@ -3788,8 +3788,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 367,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/analogsound_smoothodrive_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Sound",
@@ -34505,8 +34505,8 @@
       "image": "./assets/pedals/himmelstrutz-elektro-art/fugazi-jr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FUGAZI Jr.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Himmelstrutz Elektro Art",
