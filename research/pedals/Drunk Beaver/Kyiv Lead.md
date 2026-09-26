@@ -39,3 +39,24 @@ Fan-o-the-Beaver Page 1 of 3 Publications Image credit: Guitar Pedal X Guitar Pe
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Now while the Drunk Beaver Kyiv Lead is based on the SD-2s Lead Channel, it’s quite a bit evolved from there - with the single Tone Control of the original - becoming a sort of 4-Band EQ here - with Treble, Mid, Bass, and Presence.
+
+### Verified diode terms
+- LED, LEDs.
+
+### Verified sound evidence
+Controls Gain - the amount of gain.
+It replaces the original Tone control with Treble, Mid, Bass, and Presence.
+Its five cascaded gain stages use adjusted gain, hybrid Ge/Si/LED clipping, and JRC4580 op-amps instead of 4558s.
+
+### Sources checked in this pass
+1. Drunk Beaver Pedals Kyiv Lead | Drunk Beaver Pedals: https://drunk-beaver.rocks/products/kyiv-lead
+2. Drunk Beaver Kyiv Lead / Pedal Drop Series - Reverb: https://reverb.com/item/74096302-drunk-beaver-kyiv-lead-pedal-drop-series
+3. Drunk Beaver Kyiv Lead Distortion (Boss SD-2) - Carousell: https://www.carousell.sg/p/drunk-beaver-kyiv-lead-distortion-boss-sd-2-1356396235/
+4. Guitar Pedal X - GPX Blog - Drunk Beaver's 14th Pedal Drop is a beautifully Evolved and Expanded take on the Lead Channel of the cult classic Boss SD-2 Dual OverDrive: https://www.guitarpedalx.com/news/gpx-blog/drunk-beavers-14th-pedal-drop-is-a-beautifully-evolved-and-expanded-take-on-the-lead-channel-of-the-cult-classic-boss-sd-2-dual-overdrive

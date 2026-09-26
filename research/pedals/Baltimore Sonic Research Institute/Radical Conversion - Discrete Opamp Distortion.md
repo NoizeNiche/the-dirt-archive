@@ -48,3 +48,18 @@ Preamp I preserves the classic Metal Zone-style midrange snarl, Preamp II tighte
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://files.effectsdatabase.com/gear/thumbs/bsri_radicalconversion_001.jpg
 - **Source page:** https://www.effectsdatabase.com/model/bsri/radicalconversion
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The design originated from a project in which the developer analyzed and rebuilt multiple Boss analog distortion pedals that used discrete opamp circuits.
+
+### Verified sound evidence
+The design originated from a project in which the developer analyzed and rebuilt multiple Boss analog distortion pedals that used discrete opamp circuits.
+This approach intentionally substitutes lower performance integrated amplifiers with discrete stages that introduce additional harmonic complexity when driven into distortion.
+The overall concept is a discrete reinterpretation of the Metal Zone topology, including its active semi-parametric midrange equalizer and multi-stage gain structure.
+
+### Sources checked in this pass
+1. Baltimore Sonic Research Institute Radical Conversion - Discrete Opamp Distortion | Effects Database: https://www.effectsdatabase.com/model/bsri/radicalconversion

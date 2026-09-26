@@ -38,3 +38,16 @@ The surviving documentation establishes the BG-Drive as a preamp/overdrive rathe
 ## Photo
 - **Archive status:** **No Photo Archived**
 - The exact model is documented in Effects Database, but no stable direct image asset was safely confirmed for this archive pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Balaguer Guitars's BG-Drive - Preamp/Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Balaguer Guitars BG-Drive - Preamp/Overdrive
+
+### Sources checked in this pass
+1. Balaguer Guitars BG-Drive - Preamp/Overdrive | Effects Database: https://www.effectsdatabase.com/model/balaguer/bgdrive

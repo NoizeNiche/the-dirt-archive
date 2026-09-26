@@ -1,23 +1,38 @@
 # MadeByMike — RAT/MUFF
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** RAT/MUFF
 - **Builder:** MadeByMike
-- **Pedal:** RAT/MUFF
 - **Catalog type:** Distortion / Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MadeByMike's RAT/MUFF.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **RAT/MUFF** by **MadeByMike** as a **Distortion / Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+MadeByMike's RAT/MUFF is cataloged as a distortion / fuzz / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: v4.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Custom Shop RAT/MUFF drive - left...
+
+## Sources checked
+1. MadeByMike - Rat/Muff: http://www.madebymike.co.uk/ratmuff.shtml
+2. Custom Shop RAT/MUFF drive - left... - MadeByMike Pedals: https://www.facebook.com/MadeByMikePedals/posts/custom-shop-ratmuff-drive-left-switch-chooses-the-drive-side-and-associated-led-/1580367945359775/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

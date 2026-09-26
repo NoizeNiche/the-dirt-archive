@@ -37,3 +37,19 @@ It offers two independent circuits, based on the Euphoria and Paisley Drive , pr
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+What Wampler Pedals say about the Tom Quayle: Dual Fusion Fusion in its current form is a fairly new concept, with roots not only in theoretical jazz but rock; not classic blues based rock, but the more technically advanced “shredders” that first became popular in the mid to late 80’s.
+
+### Verified sound evidence
+When we first met Tom in early 2012, he was already using our Euphoria and Paisley Drive stacked together to give him the tones he required.
+He needed more transparency, a slightly tighter and more controllable response to the low end and when stacked up they needed to sound and feel like an amp running at high levels and give each string complete clarity and response.
+With two independent circuits that are based, but are completely modified, on the Euphoria and Paisley Drive, Tom finally has a tone that can be used when he is in full flow as the inspirational and innovative musician he is.
+
+### Sources checked in this pass
+1. Tom Quayle: Dual Fusion | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/tom-quayle-dual-fusion/
+2. Wampler Pedals Tom Quayle: Dual Fusion | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-tom-quayle-dual-fusion

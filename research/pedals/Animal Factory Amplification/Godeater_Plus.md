@@ -37,3 +37,13 @@ Godeater+ can split the guitar into clean and distorted frequency regions, creat
 ## Sources checked
 1. Animal Factory Amplification — Godeater+ Quick Start Guide: https://manuals.plus/m/31581948309416b78d945f02fd69a39008ae630d39061dd8800bc9915fffb9a1
 2. Animal Factory Amplification — firmware update guide: https://animalfactoryamps.com/blogs/news/updating-the-firmware-on-animal-factory-godeater-ozymandias-and-dirty-mirror-pedals
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Animal Factory Amplification's Godeater+ is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Animal Factory Pedal Godeater+ – These Go To 11: https://tgt11.com/en/products/animal-factory-pedal-godeater

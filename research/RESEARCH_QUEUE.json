@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T10:18:21.549769+00:00",
+  "generated_at": "2026-09-26T10:20:08.832985+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2744,
     "complete": 2744,
     "research_pending": 0,
-    "deep_research_pending": 2923,
-    "deep_researched": 838,
+    "deep_research_pending": 2901,
+    "deep_researched": 860,
     "surface_ready": 3761
   },
   "next_target": {
@@ -157,13 +157,6 @@
     },
     {
       "builder": "Animal Factory Amplification",
-      "pedal": "Godeater+",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Animal Factory Amplification/Godeater_Plus.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Animal Factory Amplification",
       "pedal": "Ozymandias",
       "catalog_type": "",
       "research_record": "./research/pedals/Animal Factory Amplification/Ozymandias.md",
@@ -195,6 +188,13 @@
       "pedal": "FISHING IS AS FUN AS FUZZ",
       "catalog_type": "",
       "research_record": "./research/pedals/Animals Pedal/FISHING IS AS FUN AS FUZZ.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "FISHING IS AS FUN AS FUZZ LIMITED EDITION",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Animals Pedal/FISHING IS AS FUN AS FUZZ LIMITED EDITION.md",
       "research_level": "surface"
     }
   ]

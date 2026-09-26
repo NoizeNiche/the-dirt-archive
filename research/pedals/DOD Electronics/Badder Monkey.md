@@ -37,3 +37,26 @@ This article examines its circuit architecture, tonal behavior across guitar/amp
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dod Badder Monkey: A Deep Dive Into the Cult-Favorite Overdrive Pedal’s Circuit, Sound, and Legacy
+
+### Verified color/finish evidence
+- The earliest units (BM-001–BM-150) feature gold-plated input/output jacks and hand-soldered wiring harnesses; later runs use nickel-plated jacks and automated soldering for consistency.
+
+### Verified transistor/device terms
+- 2N5457.
+
+### Verified sound evidence
+Dod Badder Monkey: A Deep Dive Into the Cult-Favorite Overdrive Pedal’s Circuit, Sound, and Legacy
+This article examines its circuit architecture, tonal behavior across guitar/amp combinations, verified frequency response data, modding potential, and why players like John Mayer (early 2000s live rigs) and Robben Ford have praised its touch-sensitive breakup.
+Origins and Production History DOD Electronics launched the Badder Monkey in early 1994 as a premium alternative to their popular 250 Overdrive.
+
+### Sources checked in this pass
+1. Dod Badder Monkey: A Deep Dive Into the Cult-Favorite Overdrive Pedal’s Circuit, Sound, and Legacy | GearStrings: https://gearstrings.com/gear-reviews/dod-badder-monkey
+2. DOD Badder Monkey Overdrive - Guitar Gear, Electric Guitars, Pedals & Accessories Store: https://www.riffsupply.com/product/dod-badder-monkey-overdrive/
+3. Digitech DOD Badder Monkey Overdrive Pedal | Guitar.com: https://guitar.com/products/digitech-dod-badder-monkey-overdrive-pedal/

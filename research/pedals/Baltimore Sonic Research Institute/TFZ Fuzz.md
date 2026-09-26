@@ -47,3 +47,29 @@ The Texture control functions as a voltage-starve control, moving the fuzz towar
 ## Photo
 - **Archive status:** **No Photo Archived**
 - Exact-model imagery was visually confirmed, but the available direct image endpoint was not stable enough to promote during this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Baltimore Sonic Research Institute's TFZ Fuzz is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- The circuit uses three silicon metal‑can transistors (including at least one BC109), a yellow and red LED, and three silicon clipping diodes.
+- The circuit has 3 really cool Silicon metal can transistors - including at least one BC109 - and looks like one of those rounded black types that Markus Reeves is such a fan of.
+- I can also see a Yellow and Red LED and what looks like 3 Silicon Clipping Diodes.
+
+### Verified transistor/device terms
+- BC109.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Demos are filed under Fuzz / Silicon Fuzz.
+The 7 Controls are - Level (Output), Voltage Range : Lower/Higher, Texture (Voltage), Frequency Range : Tuba/Megaphone, Voice (Tilt-EQ), Clipping : More / Less / Most, Attack (Input Gain).
+This is a proper extended-range fuzz which will take you into all sorts of interesting areas - very much like indeed the BM GTX.
+
+### Sources checked in this pass
+1. Guitar Pedal X - GPX Blog - BSRI Audio Pitches its TFZ Fuzz as the Ultimate Everyday Fuzz: https://www.guitarpedalx.com/news/gpx-blog/bsri-audio-pitches-its-tfz-fuzz-as-the-ultimate-everyday-fuzz

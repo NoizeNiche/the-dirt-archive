@@ -37,3 +37,23 @@ It transforms a clean amp into an authoritative rock tone that inspires all of y
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Cabinet Emulator microMIDI Control Minimix II Buffer ISO Line Out THE NEW RIOT Distortion Identical circuit and tone of the Original Riot Circuit (Riot Reloaded circuit is discontinued).
+
+### Verified version references
+- The evidence references: V60, V63, V70.
+
+### Verified sound evidence
+Analog Cabinet Emulator microMIDI Control Minimix II Buffer ISO Line Out THE NEW RIOT Distortion Identical circuit and tone of the Original Riot Circuit (Riot Reloaded circuit is discontinued).
+Riot is a versatile high-gain distortion pedal with the sonic characteristics and touch sensitivity of a high quality 100 watt tube amplifier.
+It transforms a clean amp into an authoritative rock tone that inspires all of your favorite riffs.
+
+### Sources checked in this pass
+1. Riot | Suhr.com: https://www.suhr.com/product/riot/
+2. Amazon.com : suhr riot: https://www.amazon.com/suhr-riot/s?k=suhr+riot
+3. catalog/override source: https://reverb.com/item/92306074-suhr-riot-2010s-purple

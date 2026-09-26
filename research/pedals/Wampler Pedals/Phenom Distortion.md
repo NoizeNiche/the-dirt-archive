@@ -37,3 +37,20 @@ The Wampler Phenom Distortion is a versatile pedal in the Collective Series, des
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Phenom Distortion is a dynamic distortion pedal which uses JFET based clipping instead of Op-amp and Diode based clipping and is loosely based on the legendary “5150” style tones.
+
+### Verified sound evidence
+The Phenom Distortion is a dynamic distortion pedal which uses JFET based clipping instead of Op-amp and Diode based clipping and is loosely based on the legendary “5150” style tones.
+The fets are driven much in the same way that tubes can be cranked to overdrive an Amplifier into a distorted sound courtesy of a unique Brian Wampler circuit design.
+The Phenom offers a range of tones from a deep, punchy rhythm sound to an ultra-responsive lead tone perfect for soaring solos and crisp harmonics.
+
+### Sources checked in this pass
+1. Phenom Distortion | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/phenom/
+2. Wampler Pedals Phenom Distortion | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-phenom-distortion
+3. catalog/override source: https://reverb.com/item/93208679-wampler-phenom-distortion-2022-present-navy

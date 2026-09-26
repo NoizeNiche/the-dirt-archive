@@ -16,3 +16,13 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for controls and Fuzz Face influence; low for internal component types.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/candyfloss
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-42 Candy Floss Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Caline CP-42 Candy Floss Fuzz Guitar Effect Pedal Aluminum Alloy With True Bypass Guitar Parts – Alexnld.com: https://alexnld.com/product/caline-cp-42-candy-floss-fuzz-guitar-effect-pedal-aluminum-alloy-with-true-bypass-guitar-parts/

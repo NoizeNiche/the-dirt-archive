@@ -16,3 +16,14 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for identity, controls and Tube Screamer/RC4558 lineage; low for discrete transistor and diode specifics.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp49
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-49 Midlander is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Caline CP-49 Midlander Overdrive Guitar Effects Pedal – Spartan Music: https://spartanmusic.co.uk/products/caline-cp-49-midlander-overdrive
+2. Caline CP-49 Midlander - Overdrive | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp49

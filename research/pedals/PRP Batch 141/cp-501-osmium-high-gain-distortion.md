@@ -16,3 +16,19 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for identity, controls and published power specs; medium for tonal description; low for exact donor-circuit/component claims.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cp500/osmium ; https://reverb.com/item/41198714-caline-cp-501-osmium-high-gain-distortion-guitar-effect-pedal ; https://www.katode.cl/distorsion-overdrive-fuzz/1416-caline-cp-501-high-gain-distorsion.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline CP-501 Osmium High Gain Distortion Pedal 2nd Hand
+
+### Verified sound evidence
+Caline CP-501 Osmium High Gain Distortion Pedal 2nd Hand
+Caline CP-501 Osmium - High-Gain Distortion
+It is based on a well-known Distortion pedal.
+
+### Sources checked in this pass
+1. Caline CP-501 Osmium High Gain Distortion Pedal 2nd Hand | Rich Tone Music: https://richtonemusic.co.uk/caline-cp-501-osmium-high-gain-distortion-pedal-boxed-2nd-hand/
+2. Caline CP-501 Osmium - High-Gain Distortion | Effects Database: https://www.effectsdatabase.com/model/caline/cp500/osmium
