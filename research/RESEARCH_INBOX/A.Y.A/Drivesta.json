@@ -1,0 +1,15 @@
+{
+  "builder":"A.Y.A",
+  "pedal":"Drivesta",
+  "status":"VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count":4,
+  "sources":[
+    {"url":"https://www.effectsdatabase.com/model/aya/drivesta","title":"A.Y.A Drivesta | Effects Database","source_kind":"effects_database"},
+    {"url":"https://aya.la.coocan.jp/products_jap.html","title":"AYA tokyo japan製品紹介","source_kind":"manufacturer"},
+    {"url":"https://aya.la.coocan.jp/products_eng.html","title":"AYA tokyo japan product","source_kind":"manufacturer"},
+    {"url":"https://www.effectsdatabase.com/interviews/brands/aya","title":"A.Y.A: Makoto Kawai | Effects Database","source_kind":"interview"}
+  ],
+  "verified_points":["British vintage stack-oriented sound","Gain/Master/Treble/Middle/Bass controls","true bypass","buffer switch","documented OD and DIST functions","older English documentation also describes an OD2 without clipping diode","Fairchild/AVX/Sprague/Switchcraft/XICON component references","A.Y.A hand-built production with PCB plus hand wiring"],
+  "unknowns":["exact transistor part number","exact diode/device","exact factory mode-count reconciliation","schematic and component values","factory release date"],
+  "next_action":"Merge deep research status through the canonical research pipeline; retain the documented mode-count discrepancy instead of forcing a single unsupported count."
+}
