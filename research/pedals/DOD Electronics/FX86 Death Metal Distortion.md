@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DOD Electronics's FX86 Death Metal Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. DOD FX86 Death Metal Distortion Instruction Manual - Manuals+: https://manuals.plus/dod/fx86-death-metal-distortion-manual
+2. DOD FX86 Death Metal Distortion Instruction Manual: https://device.report/manual/17455526

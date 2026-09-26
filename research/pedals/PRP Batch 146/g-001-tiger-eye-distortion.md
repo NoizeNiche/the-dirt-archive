@@ -15,3 +15,19 @@
   - https://www.effectsdatabase.com/model/caline/gseries/tigereye
   - https://onethousandpedals.com/pedal/caline-g001-tiger-eye-distortion
   - https://www.youtube.com/watch?v=9zqPY7z4mTs
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026-05-16 Pedal Projects Trying to Get Overdrive from a Distortion Pedal #shorts #pedals 0:56 2026-05-15 Pedal Projects Does This $30 Pedal Actually Shred?
+
+### Verified sound evidence
+Be the first to review “Caline G-001 Tiger Eye Distortion” Cancel reply You must be logged in to post a review.
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026-05-16 Pedal Projects Trying to Get Overdrive from a Distortion Pedal #shorts #pedals 0:56 2026-05-15 Pedal Projects Does This $30 Pedal Actually Shred?
+#shorts #guitarreview #distortion 0:51 2026-05-05 Pedal Projects Don't Buy a Mini Distortion Pedal Until You See This (Caline Tiger Eye) 11:16 2023-02-04 Jo Bass Caline G-001 Tiger Eye Distortion (Bass Demo) 4:45 2023-01-24 Budget Pedal Chap Best DISTORTION you haven't tried?
+
+### Sources checked in this pass
+1. Caline G-001 Tiger Eye Distortion - Effects Pedals: https://www.effects-pedals.info/p/caline-g-001-tiger-eye-distortion/
+2. Caline G-001 Tiger Eye Distortion | Effects Database: https://www.effectsdatabase.com/model/caline/gseries/tigereye

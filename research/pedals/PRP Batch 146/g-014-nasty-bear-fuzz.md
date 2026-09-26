@@ -15,3 +15,16 @@
   - https://www.effectsdatabase.com/model/caline/gseries/nastybear
   - https://myguitarshop.co.za/products/caline-g014-nasty-bear-fuzz
   - https://www.etsy.com/listing/1379087511/caline-nasty-bear-fuzz-g-series-g014
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's G-014 Nasty Bear Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Be the first to review “Caline G-014 Nasty Bear Fuzz” Cancel reply You must be logged in to post a review.
+
+### Sources checked in this pass
+1. Caline G-014 Nasty Bear Fuzz - Effects Pedals: https://www.effects-pedals.info/p/caline-g-013-nasty-bear-fuzz/

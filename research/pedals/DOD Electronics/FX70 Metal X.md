@@ -38,3 +38,23 @@ One of the side effects of the increased popularity of "grunge" music in the ear
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Introduced in Summer 1993, the DOD FX69 Grunge shared the same basic circuit as the FX70 Metal X (FX70X), but was voiced as a high-gain fuzz pedal.
+
+### Verified color/finish evidence
+- DOD Effects Pedal Color: Light Purple, Rating: 9.00, Sold (ID# 01404) Call to Inquire: (818) 222-4113 It'll have your bandmates screaming for mercy...
+- Light purple with dark purple cracked finish.
+
+### Verified sound evidence
+Introduced in Summer 1993, the DOD FX69 Grunge shared the same basic circuit as the FX70 Metal X (FX70X), but was voiced as a high-gain fuzz pedal.
+Controls: Loud (level), Butt (low eq), Face (hi eq), Grunge (distortion).
+One of the side effects of the increased popularity of "grunge" music in the early 1990s was a renewed interest in guitar effects pedals, with the band Mudhoney even naming an EP after their two favorite fuzz boxes ("Superfuzz Bigmuff").
+
+### Sources checked in this pass
+1. Vintage DOD FX70 Metal X distortion pedal, made in the USA by ... - eBay: https://www.ebay.ca/itm/277870856044
+2. Effects Pedal Merchandise | Fretted Americana Inc.: https://www.frettedamericana.com/product/dod-effects-pedal

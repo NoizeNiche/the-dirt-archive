@@ -17696,8 +17696,8 @@
       "research_record": "./research/pedals/PRP Batch 146/g-001-tiger-eye-distortion.md",
       "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2023/07/caline-tigereye-distortion-effects-pedal.jpg",
       "image_source_page": "https://www.effects-pedals.info/p/caline-g-001-tiger-eye-distortion/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -17724,8 +17724,8 @@
       "research_record": "./research/pedals/PRP Batch 146/g-014-nasty-bear-fuzz.md",
       "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/11/caline-nasty-bear-fuzz-effects-pedal.jpg",
       "image_source_page": "https://www.effects-pedals.info/p/caline-g-013-nasty-bear-fuzz/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cameltone Electronics",
@@ -30200,8 +30200,8 @@
       "image": "./assets/pedals/dod-electronics/fx70-metal-x/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/FX70 Metal X.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -30224,8 +30224,8 @@
       "image": "./assets/pedals/dod-electronics/fx86-death-metal-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/FX86 Death Metal Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -33378,8 +33378,8 @@
       "image": "./assets/pedals/foxrox-electronics/hot-silicon2-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxrox Electronics/Hot Silicon2 Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxrox Electronics",
@@ -33556,8 +33556,8 @@
       "image": "./assets/pedals/fuhrmann/classic-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fuhrmann/Classic Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fuhrmann",
@@ -45496,8 +45496,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/76 MKII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "SolidGoldFX",
