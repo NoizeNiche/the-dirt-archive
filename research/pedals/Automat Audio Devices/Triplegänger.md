@@ -57,3 +57,18 @@ Triplegänger can layer a conventional fuzz, an octave/splatter fuzz and sub-oct
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/automat/tripleganger
 - **Archive note:** Exact-model launch photography exists, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+For the Triplegänger - the 3rd Sub circuit is permanently assigned - either to Fuzz 1, Fuzz 2 or Both - if you want it out of the mix - you just need to dial that Level control back.
+
+### Verified sound evidence
+The more compact edition Rara Avis (Rare Bird) is a somewhat thicker raunchier distortion style of fuzz - while the Triplegǎnger is more of a 3 layer sound design fuzz.
+For the Triplegänger - the 3rd Sub circuit is permanently assigned - either to Fuzz 1, Fuzz 2 or Both - if you want it out of the mix - you just need to dial that Level control back.
+Further individual details below : Rara Avis Distortion-Leaning Fuzz - $300 Controls - Treble, Filter (Bandpass?), Bass, Output, Bias, Gain, Mode : Lean (tighter) / Big (loose, organic full-on fuzz).
+
+### Sources checked in this pass
+1. Guitar Pedal X - News - New brand Automat Audio Devices releases 2 compelling extended range Fuzzes - the Rara Avis and Triplegänger: https://www.guitarpedalx.com/news/new-brand-automat-audio-devices-releases-2-compelling-extended-range-fuzzes-the-rara-avis-and-tripleganger

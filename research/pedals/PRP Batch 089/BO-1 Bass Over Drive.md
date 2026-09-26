@@ -12,3 +12,13 @@ https://www.effectsdatabase.com/model/biyang/bo1
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Biyang's BO-1 Bass Over Drive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Biyang BO-1 Bass Over Drive | Effects Database: https://www.effectsdatabase.com/model/biyang/bo1

@@ -39,3 +39,25 @@ The Vintage Fuzz Master picks up where the Soda Meiser leaves off.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Imagine if the Big Muff was octave up capable and you will understand what the Vintage Fuzz Master is capable of.
+
+### Verified color/finish evidence
+- Updated the plug-in artwork for the v1.3 release.
+
+### Verified version references
+- The evidence references: v1.
+
+### Verified sound evidence
+Imagine if the Big Muff was octave up capable and you will understand what the Vintage Fuzz Master is capable of.
+The Vintage Fuzz Master picks up where the Soda Meiser leaves off.
+At lower intensities it acts as a classic disharmonic fuzz not unlike the Ampeg Scrambler, while at higher intensities it begins to behave more like an octave fuzz, eventually reaching Fender Blender insanity.
+
+### Sources checked in this pass
+1. devi ever : fx - Vintage Fuzz Master Core: https://www.fuzzgoddess.com/fx/vintagefuzzmastercore/
+2. Devi Ever : FX Vintage Fuzz Master | Reverb: https://reverb.com/p/devi-ever-fx-vintage-fuzz-master

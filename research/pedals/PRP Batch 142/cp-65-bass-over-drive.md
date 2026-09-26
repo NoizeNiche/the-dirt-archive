@@ -16,3 +16,13 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for identity, controls and power; low for internal component and donor-circuit claims.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp65
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-65 Bass Over Drive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Caline CP-65 Bass Over Drive | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp65

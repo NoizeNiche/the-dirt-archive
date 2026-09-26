@@ -5504,8 +5504,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 365,
       "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/562/2025-GPX-Automat-Audio-Devices-Rara-Tripleganger-7001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Auxiliary Workshop",
@@ -10403,8 +10403,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://ae01.alicdn.com/kf/Sd9c47b6ee5584e7ebc1294a3e1c1ee56D.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -17365,8 +17365,8 @@
       "image_source_page": "https://gbr.grandado.com/products/caline-cp-56-the-mayday-midlander-guitar-pedal-ac-tone-effect-pedal-electric-guitar-parts-amp-accessories-with-true-bypass?variant=UHJvZHVjdFZhcmlhbnQ6NDcyNTA2MTcw",
       "image_source_page_verified": true,
       "image_source_url": "https://images.nexusapp.co/assets/ac/c2/3a/534531218.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -17379,8 +17379,8 @@
       "research_record": "./research/pedals/PRP Batch 142/cp-65-bass-over-drive.md",
       "image_source_url": "https://starlitedistribution.ca/wp-content/uploads/2023/11/CP-65-4-600x600.jpg",
       "image_source_page": "https://starlitedistribution.ca/product/caline-cp-65-bass-overdrive-designed-for-bass-guitar/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -28219,8 +28219,8 @@
       "image": "./assets/pedals/cuvave-m-vave/dist-british/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CUVAVE / M-VAVE/DIST British.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CUVAVE / M-VAVE",
@@ -29673,8 +29673,8 @@
       "image": "./assets/pedals/devi-ever-fx/truly-beautiful-disaster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Devi Ever : FX/Truly Beautiful Disaster.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever : FX",
@@ -29685,8 +29685,8 @@
       "image": "./assets/pedals/devi-ever-fx/vintage-fuzz-master/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Devi Ever : FX/Vintage Fuzz Master.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Diamond",
@@ -43407,8 +43407,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/ECTOPLASM FUZZ MK I.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ovaltone",

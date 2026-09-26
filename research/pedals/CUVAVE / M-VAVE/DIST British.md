@@ -34,3 +34,16 @@ The exact model name DIST British appears in that manufacturer lineup, providing
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The exact model name DIST British appears in that manufacturer lineup, providing maker-level identification of the named CUVAVE/M-VAVE distortion pedal rather than relying on a generic British-distortion reference.
+
+### Verified sound evidence
+The exact model name DIST British appears in that manufacturer lineup, providing maker-level identification of the named CUVAVE/M-VAVE distortion pedal rather than relying on a generic British-distortion reference.
+
+### Sources checked in this pass
+1. M-VAVE - Product Ecosystem: https://www.m-vave.com/products
