@@ -166,14 +166,17 @@ async function search(q){
     'https://www.google.com/search?q='+encodeURIComponent(q)
   ];
   const out=[]; const seen=new Set();
-  const results = await boundedMap(endpoints, 2, async endpoint => {
+  const results = await boundedMap(endpoints, 3, async endpoint => {
     const r=await get(endpoint);
     return r ? parseResults(r.text) : [];
   });
+  // Take a small tranche from each engine so one engine does not monopolize
+  // the discovery budget when its index happens to rank many low-value pages.
   for(const batch of results){
-    for(const x of batch || []){
+    for(const x of (batch || []).slice(0,6)){
       if(seen.has(x.url)) continue;
       seen.add(x.url); out.push(x);
+      if(out.length>=18) break;
     }
     if(out.length>=18) break;
   }
