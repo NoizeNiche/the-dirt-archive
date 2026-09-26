@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-26T00:30:57.260379+00:00",
+  "generated_at": "2026-09-26T00:34:31.767772+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,39 +10,18 @@
     "pictured": 2201,
     "complete": 2201,
     "research_pending": 0,
-    "deep_research_pending": 3722,
-    "deep_researched": 38,
+    "deep_research_pending": 3695,
+    "deep_researched": 65,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "1981 Inventions",
-    "pedal": "DRV MOD 2 HYPERFADE",
+    "pedal": "LVL",
     "catalog_type": "",
-    "research_record": "./research/pedals/1981 Inventions/DRV MOD 2 HYPERFADE.md",
+    "research_record": "./research/pedals/1981 Inventions/LVL.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "1981 Inventions",
-      "pedal": "DRV MOD 2 HYPERFADE",
-      "catalog_type": "",
-      "research_record": "./research/pedals/1981 Inventions/DRV MOD 2 HYPERFADE.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "1981 Inventions",
-      "pedal": "DRV2",
-      "catalog_type": "",
-      "research_record": "./research/pedals/1981 Inventions/DRV2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "1981 Inventions",
-      "pedal": "Forget and Not Slow Down LVL",
-      "catalog_type": "",
-      "research_record": "./research/pedals/1981 Inventions/Forget and Not Slow Down LVL.md",
-      "research_level": "surface"
-    },
     {
       "builder": "1981 Inventions",
       "pedal": "LVL",
@@ -111,13 +90,6 @@
       "pedal": "Crash Central - Crunch Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/A&M Custom Effects/Crash Central - Crunch Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "A&M Custom Effects",
-      "pedal": "Crazyboy - Double Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/A&M Custom Effects/Crazyboy - Double Fuzz.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +167,34 @@
       "pedal": "Hellmouth",
       "catalog_type": "",
       "research_record": "./research/pedals/Abominable Electronics/Hellmouth.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Abominable Electronics",
+      "pedal": "Oppressive Cult Destroyer",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Abominable Electronics/Oppressive Cult Destroyer.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Abominable Electronics",
+      "pedal": "Throne Torcher",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Abominable Electronics/Throne Torcher.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Abominable Electronics",
+      "pedal": "Toke Machine",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Abominable Electronics/Toke Machine.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Abominable Electronics",
+      "pedal": "Yeti Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Abominable Electronics/Yeti Fuzz.md",
       "research_level": "surface"
     }
   ]

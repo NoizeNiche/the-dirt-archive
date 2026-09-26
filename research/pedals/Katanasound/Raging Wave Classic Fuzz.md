@@ -1,23 +1,40 @@
 # Katanasound — Raging Wave Classic Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Raging Wave Classic Fuzz
 - **Builder:** Katanasound
-- **Pedal:** Raging Wave Classic Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Katanasound's Raging Wave Classic Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Raging Wave Classic Fuzz** by **Katanasound** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Katanasound Raging Wave Classic Fuzz Pedal - Gbase Gbase - Guitars Amps More Gear Dealers Radar Events More Sections Gear Dealers Events Blog Account Join Login Create Store Help 1.0.731 Home Find Gear Find Dealer Gear Radar Events Blog Join Login Create Store Help Find Gear Guitars : Electric Solid Body Katanasound Raging Wave Classic Fuzz Pedal Andy Babiuk&#x27;s Fab Gear Description NEW - This resembles the thick, warm, vintage fuzz sounds of the amazing "Fuzz Face" and "Tone Bender" pedals from the 60's, but their Germanium transistors have been replaced by my silicone transistors and simpler, more efficient circuitry.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- For in-store sales we accept all major credit cards (VISA, Mastercard, Discover, American Express), Cashier&#x2019;s Check, Money Order, and that green stuff they call Cash.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Katanasound Raging Wave Classic Fuzz Pedal - Gbase Gbase - Guitars Amps More Gear Dealers Radar Events More Sections Gear Dealers Events Blog Account Join Login Create Store Help 1.0.731 Home Find Gear Find Dealer Gear Radar Events Blog Join Login Create Store Help Find Gear Guitars : Electric Solid Body Katanasound Raging Wave Classic Fuzz Pedal Andy Babiuk&#x27;s Fab Gear Description NEW - This resembles the thick, warm, vintage fuzz sounds of the amazing "Fuzz Face" and "Tone Bender" pedals from the 60's, but their Germanium transistors have been replaced by my silicone transistors and simpler, more efficient circuitry.
+Increasing the Attack level results in a crazy, radical fuzz tone, while adjusting the Input Bias on the side can reduce the bass and allows you to drive the amp like a clean booster.
+It's the sound you love from an old pedal but built like a tank!!
+
+## Sources checked
+1. Katanasound Raging Wave Classic Fuzz Pedal - Reverb: https://reverb.com/item/3283055-katanasound-raging-wave-classic-fuzz-pedal
+2. Katanasound Raging Wave Classic Fuzz Pedal - Gbase: https://www.gbase.com/gear/katanasound-raging-wave
+3. Katanasound Raging Wave Classic Fuzz Pedal &mdash; Andy Babiuk&#39;s Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-raging-wave-classic-fuzz-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

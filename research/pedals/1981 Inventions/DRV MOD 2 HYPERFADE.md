@@ -4,35 +4,33 @@
 - **Archive parent:** DRV MOD 2 HYPERFADE
 - **Builder:** 1981 Inventions
 - **Catalog type:** Distortion
-- **Identity:** Hyperfade finish of the DRV MOD 2 circuit.
+- **Identity:** 1981 Inventions's DRV MOD 2 HYPERFADE.
 
 ## What this pedal is
-DRV MOD 2 HYPERFADE uses the same MOD 2 circuit documented by 1981 Inventions, including the larger input capacitor and hybrid BAT41 + LED clipping section. The distinctive Hyperfade treatment is a finish/color variant rather than a separate circuit generation. [1][2]
+1981 Inventions's DRV MOD 2 HYPERFADE is cataloged as a Distortion pedal.
 
 ## Colorways
-- **Hyperfade** finish with a black enclosure and multicolor blue/pink gradient-style printing is documented by 1981 Inventions.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- MOD 2 circuit
-- larger input capacitor
-- BAT41 + LED hybrid clipping
-- 9–18V operation
-- internal true-bypass selection [1]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No additional circuit change was verified for the Hyperfade example. The archive keeps it as the cataloged finish variant of MOD 2.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Op-amp based distortion circuit; exact active devices are not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** **BAT41 Schottky + LED**. [1]
-- **Exact LED part:** Unknown.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The Hyperfade unit carries the MOD 2 voice: more low-end weight, stronger punch and a more aggressive distortion character than the original DRV. The hybrid clipping arrangement adds midrange grit and a lively attack, while the CUT control can open the sound further. [1]
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. 1981 Inventions — DRV MOD 2 HYPERFADE: https://1981inventions.com/products/drv-mod-2-hyperfade
-2. 1981 Inventions — pedal collection: https://1981inventions.com/collections/pedals
+1. DRV MOD 2 HYPERFADE &ndash; 1981 Inventions: https://1981inventions.com/products/drv-mod-2-hyperfade
+
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

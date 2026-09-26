@@ -1,0 +1,25 @@
+{
+  "builder": "Ibanez",
+  "pedal": "JD9",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/ibanez-jd9-jet-driver",
+      "title": "Ibanez JD9 Jet Driver Overdrive - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.premierguitar.com/gear/ibanez-jd9-jet-driver-pedal-review",
+      "title": "Ibanez JD9 Jet Driver Pedal Review - Premier Guitar",
+      "h1": "Ibanez JD9 Jet Driver Pedal Review",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Ibanez JD9 Jet Driver Pedal Review - Premier Guitar &#32; &#32; Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns <div class=",
+      "host": "www.premierguitar.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

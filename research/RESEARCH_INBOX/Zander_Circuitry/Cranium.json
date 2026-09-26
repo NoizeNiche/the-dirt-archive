@@ -2,13 +2,13 @@
   "builder": "Zander Circuitry",
   "pedal": "Cranium",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 5,
+  "independent_exact_source_count": 2,
   "sources": [
     {
       "url": "https://zandercircuitry.com/product/cranium/",
-      "title": "Cranium - Zander Circuitry",
-      "h1": "",
-      "excerpt": "",
+      "title": "Cranium &#8211; Zander Circuitry",
+      "h1": "Cranium",
+      "excerpt": "Cranium &#8211; Zander Circuitry Home Store About FAQs/Terms Dealers Contact 0 Basket Home / Pedals / Cranium Cranium &pound; 149.00 The murine distortion. Got a \u2018rodent\u2019 problem? You\u2019re not alone. This classic distortion circuit has been tweaked and twisted by almost every pedal builder in the game, with countless mods to take the sound in different directions to suit different needs. The Cranium pulls the threads together for an all-in-one \u2018rodent-style\u2019 circuit that gives you the freedom to dial in the exact sound you\u2019re looking for. Out of stock Out of stock Share this product Categories: Distortion , Pedals Tag: Pedals Previous Product Next Product Description Description Overview Deep Dive Tech Specs Demos Overview Please note: Our pedals no longer ship with both the option for momentary switching as standard (we surveyed customers and the overwhelming response was they didn&#8217;t use it), if you would like that specifically included in your build please email us after purchasing to let us know and we can still include this. The Cranium is inspired by the framework of a circuit that\u2019s been heard on countless legendary records from bands like the Foo Fighters, Radiohead, R.E.M., and Metallica. Those classic sounds are all in there, plus a whole lot more, thanks to added functionality that lets you precisely sculpt your sound and access even more grit for an all-out explosion of dirt. That extra level of control makes it quicker and easier to find the \u2018sweet spot\u2019 that can take hours of fiddling to find on other versions of the circuit. And with our signature clipping selector switch, you can also experiment with different diodes to add a new flavour of distortion that\u2019s uniquely yours. Deep Dive Flexibility is the name of the Cranium\u2019s game, giving you extra control over several critical parts of the circuit for stress-free tweaking. Key to this is the extra Input control. Essentially, the Input knob alters what would normally be a fixed resistor value (similar to what is commonly called the &#8216;Reutz&#8217; mod on this circuit), this alters the low-end and overall gain response, offering a flatter frequency response and overall &#8216;looser&#8217; sounding distortion. When turned down, its the standard tight, pushed-mids distortion you know and love. The Tone control is a pretty standard affair, just tweaked from the original circuit to offer a better sweep of more usable tones. Lastly, we arrive at a very interesting feature for this circuit, a full wet/dry Blend control that lets you move between the standard distortion sound, and a buffered version of your clean signal (with an additional internal trimmer to boost the buffered clean signal if you want to). This works wonders on bass (even being included in the &#8216;Juggernaut&#8217; bass variant of the original pedal) but also works fantastically for lower gain sounds that require a bit more articulation. The Cranium also incorporates our signature diode rotary switch, which lets you choose between eight different clipping types (and for this circuit that means you get to pick from the many &#8216;rodent&#8217; variants that have been released through the years) : Germanium: Smooth, sweet, and classically \u2018amp-like\u2019. (You Dirty) Silicon: Louder, brighter, and a little bit brittle. (Standard) LED: Louder again, with less saturation and more punch. (Turbo) Asymmetrical germanium: A more aggressive version of germanium. (Zander) Asymmetrical silicon: A more aggressive version of silicon. (Solo) Asymmetrical LED: A more aggressive version of LED. (Solo) Transistor/MOSFET: Similar to silicon, but sweeter and crunchier. (FAT) No diodes: Loads of output and much less gain. (Deucetone) And when you need an added dose of distortion, the Cranium\u2019s Blast footswitch ramps the drive all the way up, and activates a second volume control that makes it quick and easy to switch between low and high-gain sounds. Tech Specs The Cranium has seven controls that give you modern con",
       "host": "zandercircuitry.com",
       "source_kind": "manufacturer"
     },
@@ -19,30 +19,6 @@
       "excerpt": "",
       "host": "reverb.com",
       "source_kind": "reverb"
-    },
-    {
-      "url": "https://www.northernstomps.com/product-page/zander-circuitry-cranium-distortion",
-      "title": "Zander Circuitry - Cranium Distortion | northernstompboxes",
-      "h1": "",
-      "excerpt": "--> Zander Circuitry - Cranium Distortion | northernstompboxes .s__5yqle6,.s__5yqle6 *{box-sizing:border-box}.s__5yqle6.octawx6--forceBWTheme{--wut-bg-color:#fff;--wut-text-color:#000;--wut-disabled-color:#969696;--wut-placeholder-color:#646464;--wut-secondary-cta-color:#000;--wut-input-border-color:rgba(0,0,0,.6);--wut-input-hover-and-focus-border-color:#000;--wut-selection-text-bg-color:rgba(0,0,0,.2);--wut-meta-data-color:#646464;--wut-clear-button-bg-color:rgba(0,0,0,.12)}.s__5yqle6.octawx6--isOpen{height:100vh;left:0;position:fixed;top:0;width:100vw;z-index:1999}.sb66nF_{opacity:0;-webkit-transition:opacity .3s,-webkit-transform .4s;transition:opacity .2s,transform .4s;transition-timing-function:ease;z-index:2000}.s__5yqle6.octawx6--isOpen .sb66nF_{opacity:1}.sXrMDy_{background:#000;height:100%;opacity:.6;width:100%}.sea0t6S{display:inline-block}.sB85yKb{cursor:pointer;height:auto}.s_nT5Y7{clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);border:0!important;height:1px!important;overflow:hidden;padding:0!important;position:absolute;width:1px!important}.s_1yBbs,.sxFIn18{outline:0}.s__83hk3L{display:inline-block;position:relative}.s__83hk3L.oObVFN_--fluid{display:block;width:100%}.s__3WEL5O{background-color:#fff;border-color:#000;border-radius:initial;border-style:solid;border-width:1px;padding:initial}.sdmIrUa{border-style:solid;height:0;margin:5px;position:absolute;width:0}.sSJkF3T[data-placement*=right].sr_NPpL{padding-left:5px}.sSJkF3T[data-placement*=right].sr_NPpL .sdmIrUa{border-color:transparent #000 transparent transparent;border-width:5px 5px 5px 0;left:-5px;margin-left:5px;margin-right:0}.sSJkF3T[data-placement*=left].sr_NPpL{padding-right:5px}.sSJkF3T[data-placement*=left].sr_NPpL .sdmIrUa{border-color:transparent transparent transparent #000;border-width:5px 0 5px 5px;margin-left:0;margin-right:5px;right:-5px}.sSJkF3T[data-placement*=bottom].sr_NPpL{padding-top:5px}.sSJkF3T[data-placement*=bottom].sr_NPpL .sdmIrUa{border-color:transparent transparent #000 transparent;border-width:0 5px 5px 5px;margin-bottom:0;margin-top:5px;top:-5px}.sSJkF3T[data-placement*=top].sr_NPpL{padding-bottom:5px}.sSJkF3T[data-placement*=top].sr_NPpL .sdmIrUa{border-color:#000 transparent transparent transparent;border-width:5px 5px 0 5px;bottom:-5px;margin-bottom:5px;margin-top:0}.sU7n7KR{display:inline-block;position:relative}.sU7n7KR.ojv_EdV--hasInnerWrapper{display:block}.s_zOL5L{display:flex;flex:1;justify-content:center}.sCySxZ_{cursor:pointer;height:auto}.seJYszA{clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);border:0!important;height:1px!important;overflow:hidden;padding:0!important;position:absolute;width:1px!important}.sn9mE8K{animation:Spinner-deprecated-st-css2793037847__rotate 2s linear infinite;left:auto;top:auto}.sjdQMvo{animation:Spinner-deprecated-st-css2793037847__dash 1.5s ease-in-out infinite}.sn9mE8K.ogHEJOw--centered{position:absolute}.sn9mE8K.ogHEJOw--static,.sn9mE8K.ogHEJOw--static .sjdQMvo{animation:none}@keyframes Spinner-deprecated-st-css2793037847__rotate{to{transform:rotate(1turn)}}@keyframes Spinner-deprecated-st-css2793037847__dash{0%{stroke-dasharray:1,150;stroke-dashoffset:0}50%{stroke-dasharray:90,150;stroke-dashoffset:-35}to{stroke-dasharray:90,150;stroke-dashoffset:-124}}.s__3nXSYZ{display:flex;flex-direction:row;justify-content:center;margin:20px 0;padding-inline-start:0}.s__3nXSYZ.oqUhs2N--mobile{overflow-x:auto;width:100%}.swR6DXX.o__00E9D1--madefor{--wbu-font-stack:var(--wix-font-stack);--wbu-font-weight-regular:var(--wix-font-weight-regular);--wbu-font-weight-medium:var(--wix-font-weight-medium);--wbu-font-weight-bold:var(--wix-font-weight-bold)}.sljHbgG{--wbu-color-blue-0:#0f2ccf;--wbu-color-blue-100:#2f5dff;--wbu-color-blue-200:#597dff;--wbu-color-blue-300:#acbeff;--wbu-color-blue-400:#d5dfff;--wbu-color-blue-500:#eaefff;--wbu-color-blue-600:#f5f7ff;--wbu-color-black-0:#151414;--wbu-color-black-100:#383838;--wbu-color-black-200:#525150;--wbu-color-black-300:#767574;--wbu-color-black-",
-      "host": "www.northernstomps.com",
-      "source_kind": "other"
-    },
-    {
-      "url": "https://www.guitarmusicalsupply.com/product/zander-circuitry-cranium/",
-      "title": "Zander Circuitry Cranium - guitarmusicalsupply.com",
-      "h1": "",
-      "excerpt": "",
-      "host": "www.guitarmusicalsupply.com",
-      "source_kind": "other"
-    },
-    {
-      "url": "https://www.floresmusicequipment.com/product/zander-circuitry-cranium-dual-gain-distortion-guitar-effects-pedal/",
-      "title": "Zander Circuitry Cranium Dual Gain Distortion Guitar Effects Pedal",
-      "h1": "",
-      "excerpt": "",
-      "host": "www.floresmusicequipment.com",
-      "source_kind": "other"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

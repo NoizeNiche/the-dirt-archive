@@ -1,23 +1,39 @@
 # Greenhouse Effects — Remedy
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Remedy
 - **Builder:** Greenhouse Effects
-- **Pedal:** Remedy
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Greenhouse Effects's Remedy.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Remedy** by **Greenhouse Effects** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Greenhouse Effects's Remedy is cataloged as a Fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: GERMANIUM FUZZ.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+REMEDY / GERMANIUM FUZZ &mdash; GREENHOUSE EFFECTS Skip to Content Open Menu Close Menu GREENHOUSE EFFECTS SHOP PEDALS MERCH DEALERS ABOUT CONTACT THE STORY 0 0 GREENHOUSE EFFECTS SHOP PEDALS MERCH DEALERS ABOUT CONTACT THE STORY 0 0 Open Menu Close Menu Folder: SHOP Back PEDALS MERCH DEALERS Folder: ABOUT Back CONTACT THE STORY PEDALS &rsaquo; REMEDY / GERMANIUM FUZZ Image 1 of 1 REMEDY / GERMANIUM FUZZ $199.00 sold out When it comes to fuzz, it's all about character.And this fuzz has a unique and distinctive one.
+A blend of silicon and germanium transistors pushed to near melting point, creates a variety of intense and powerful fuzz tones, from 60s psychedelic garage fuzz to extreme uncompromising stoner growl.
+Fully clockwise, the fuzz is at its best shape - aggressive , jumpy and loud.
+
+## Sources checked
+1. REMEDY / GERMANIUM FUZZ &mdash; GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/remedy
+2. Remedy by Greenhouse Effects | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Greenhouse-Effects/Remedy/432060294/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

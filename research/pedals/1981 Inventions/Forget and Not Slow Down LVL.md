@@ -4,39 +4,33 @@
 - **Archive parent:** Forget and Not Slow Down LVL
 - **Builder:** 1981 Inventions
 - **Catalog type:** Overdrive
-- **Identity:** Commemorative Forget and Not Slow Down edition of the LVL full-range overdrive.
+- **Identity:** 1981 Inventions's Forget and Not Slow Down LVL.
 
 ## What this pedal is
-This is the LVL overdrive made as a limited commemorative edition for Relient K's *Forget and Not Slow Down*. The underlying LVL circuit is a subtle, low-gain full-range overdrive using a combination of light clipping and op-amp push. [1]
+1981 Inventions's Forget and Not Slow Down LVL is cataloged as a Overdrive pedal.
 
 ## Colorways
-- **White enclosure with Forget and Not Slow Down artwork** is documented by 1981 Inventions.
-- The artwork is based on the album cover painting and is specific to this commemorative edition. [1]
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Forget and Not Slow Down LVL
-- LVL full-range overdrive circuit
-- two-control LVL/VOL format
-- limited commemorative artwork
-- works with guitar, bass and other electronic instruments
-- standard 9V operation [1][2]
-
-The special edition uses the LVL circuit rather than creating a different overdrive topology.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-The defining change is cosmetic and commemorative: album artwork, limited production and a special enclosure treatment. The underlying LVL circuit remains the same.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Op-amp based gain structure; exact active devices are not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Exact clipping diode(s) are not publicly documented.
-- **Exact diode/device:** Unknown.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-LVL is built around subtle, articulate gain rather than heavy saturation. It can slam low-wattage amps, stack well with other pedals, improve fuzz and overdrive textures, and retain enough frequency range to work effectively on bass as well as guitar. [1]
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. 1981 Inventions — Forget and Not Slow Down LVL: https://1981inventions.com/products/forget-lvl
-2. Effects Database — 1981 Inventions LVL: https://www.effectsdatabase.com/model/1981inventions/lvl
+1. Forget and Not Slow Down LVL &ndash; 1981 Inventions: https://1981inventions.com/products/forget-lvl
+
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

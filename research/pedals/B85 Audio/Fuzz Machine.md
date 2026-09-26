@@ -1,34 +1,38 @@
-# B85 Audio - Fuzz Machine
+# B85 Audio — Fuzz Machine
+
 ## PRP identity
 - **Archive parent:** Fuzz Machine
 - **Builder:** B85 Audio
 - **Catalog type:** Fuzz
-- **Identity:** Handcrafted hybrid silicon/germanium fuzz with clean blend and extensive voicing controls.
+- **Identity:** B85 Audio's Fuzz Machine.
+
 ## What this pedal is
-B85 Audio describes the Fuzz Machine as a hybrid silicon/germanium floor fuzz designed primarily for bass but also usable with guitar. It combines FUZZ, SHAPE, FUZZ VOL, CLEAN, PREGAIN, PHASE, MIDS, GATE, and BYPASS, plus an internal DIP switch for buffer on/off.
+Parametry a specifikace: Typ: FUZZ Ovládání: Fuzz, Shape, Fuzz vol, Clean, Pregain, přepínače Phase a Mids True bypass: Ano Vstup: Mono Výstup: Mono Napájení: Adaptér 9V DC Center negative (adaptér není součástí) Rozměry: cca X=94 mm, Y=124 mm, Z=51 mm ( rozměry jsou uváděny se všemi namontovanými díly, použitá krabička Hammond 1590BB či ekvivalent ) B85 Audio Fuzz Machine is a handcrafted hybrid fuzz pedal that combines both silicon and germanium components.
+
 ## Colorways
-- A 2021 builder-store Reverb listing documents Natural Aluminium / Black / White.
-- Current official imagery uses the engraved black-panel presentation.
+- No specific factory colorway information was established in the verified evidence packet.
+
 ## Versions and factory options
-- FUZZ, SHAPE, FUZZ VOL, CLEAN, PREGAIN
-- PHASE and MIDS 2-position switches
-- GATE and BYPASS
-- True bypass
-- 9V DC center-negative
-- Internal buffer on/off DIP switch
+- No distinct factory revision was established in the verified evidence packet.
+
 ## Version changes
-No numbered factory revision verified. The buffer DIP is a documented internal configuration, not a separate model.
+- No specific factory version changes were established in the verified evidence packet.
+
 ## Transistor
-- **Technology:** Hybrid silicon/germanium fuzz.
-- **Exact devices:** Specific transistor part numbers not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
 ## Diode
-- **Type:** Exact clipping/protection arrangement not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
 ## Sound
-B85 Audio describes a range from thick vintage fuzz to aggressive modern distortion with strong harmonic content. CLEAN preserves the dry signal, while PREGAIN, PHASE, MIDS, SHAPE, and GATE allow substantial changes in saturation and voicing.
+Fuzz Machine - B85 audio Musíte změnit nastavení vašeho prohlížeče Podívejte se na: Jak povolit JavaScript ve vašem prohlížeči .
+Zakázky servis Information in English Kontakt Obchodní podmínky Přihlášení Více Hledat Přihlášení Nákupní košík Menu Domů / Efekty / Fuzz Machine Postranní panel Fuzz Machine Skladem 0 kusů.
+Momentálně nedostupné / Currently unavailable Kód: FUZZ Značka: B85 audio 2 500 Kč Měrná cena: Množství &plus; &minus; Do košíku Kategorie : Efekty Záruka : 2 roky Tisk Zeptat se Sdílet Tweet Zavřít ZDARMA ZDARMA Popis Související soubory (1) Videa (2) Diskuze B85 Audio Fuzz Machine je ručně vyráběný hybridní fuzz efekt kombinující křemíkové a germaniové součástky.
+
 ## Sources checked
-1. B85 Audio: https://www.b85audio.cz/fuzz-machine/
-2. B85 Audio manual: https://www.b85audio.cz/user/documents/upload/Manual_Fuzz_machine.pdf
-3. Effects Database: https://www.effectsdatabase.com/model/b85/fuzzmachine
-4. RockBoard: https://www.rockboard.de/en/pedalPedia/B85-Audio/Fuzz-Machine/660110701/
+1. Fuzz Machine - B85 audio: https://www.b85audio.cz/fuzz-machine/
+
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

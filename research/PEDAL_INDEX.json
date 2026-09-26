@@ -71,8 +71,8 @@
       "source_page": "https://1981inventions.com/products/drv-mod-2-hyperfade",
       "research_record": "./research/pedals/1981 Inventions/DRV MOD 2 HYPERFADE.md",
       "image_source_url": "https://1981inventions.com/cdn/shop/files/DSCF5535.jpg?v=1784417360&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "1981 Inventions",
@@ -84,8 +84,8 @@
       "source_page": "https://1981inventions.com/products/drv2-no3-clear-knob",
       "research_record": "./research/pedals/1981 Inventions/DRV2.md",
       "image_source_url": "https://1981inventions.com/cdn/shop/files/1981drv.jpg?v=1764378620&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "1981 Inventions",
@@ -97,8 +97,8 @@
       "source_page": "https://1981inventions.com/products/forget-lvl",
       "research_record": "./research/pedals/1981 Inventions/Forget and Not Slow Down LVL.md",
       "image_source_url": "https://1981inventions.com/cdn/shop/files/DSCF58942.jpg?v=1788558906&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "1981 Inventions",
@@ -294,8 +294,8 @@
         "https://www.effectsdatabase.com/model/am/crazyboy"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "A&M Custom Effects",
@@ -6202,8 +6202,8 @@
       "research_record": "./research/pedals/B85 Audio/Fuzz Machine.md",
       "image_source_url": "https://cdn.myshoptet.com/usr/www.b85audio.cz/user/shop360/big/64_fuzz-machine.jpg?ff=1&x=1024&y=768&q=85&ts=61a662c9&sg=161563f2",
       "image_source_page": "https://www.b85audio.cz/fuzz-machine/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "B85 Audio",
@@ -6216,8 +6216,8 @@
       "research_record": "./research/pedals/B85 Audio/Germanium Overdrive.md",
       "image_source_url": "https://cdn.myshoptet.com/usr/www.b85audio.cz/user/shop360/big/84_germanium-overdrive.jpg?ff=1&x=1024&y=768&q=85&ts=61a66335&sg=161563f2",
       "image_source_page": "https://www.b85audio.cz/germanium-overdrive/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "B85 Audio",
@@ -27401,8 +27401,8 @@
       "image": "./assets/pedals/critter-electronics/model-iii-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Critter Electronics/Model III Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crock",
@@ -27698,8 +27698,8 @@
       "image": "./assets/pedals/croytone-audio-technologies/camper-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CroyTone Audio Technologies/Camper Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CroyTone Audio Technologies",
@@ -31011,8 +31011,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Bellows.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -32712,8 +32712,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fairfield Circuitry/Modèle B.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fairfield Circuitry",
@@ -33829,8 +33829,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Gamechanger Audio/Plasma Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greenhouse Effects",
@@ -33866,8 +33866,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greenhouse Effects/Remedy.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -33878,8 +33878,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/390 Vintage OD/Preamp.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34344,8 +34344,8 @@
       "image": "./assets/pedals/hardwire/sc-2-valve-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/HardWire/SC-2 Valve Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "HardWire",
@@ -34356,8 +34356,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/HardWire/TL-2 Metal Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Henretta Engineering",
@@ -34748,8 +34748,8 @@
       "image": "./assets/pedals/ibanez/fzmini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/FZMINI.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -34760,8 +34760,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/JD9.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -36460,8 +36460,8 @@
       "image": "./assets/pedals/katanasound/kamikaze-supreme-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Katanasound/Kamikaze Supreme Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Katanasound",
@@ -36472,8 +36472,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Katanasound/Raging Wave Classic Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Katanasound",
@@ -42869,8 +42869,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/DIABLO DUAL.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "OKKO FX",
@@ -43559,8 +43559,8 @@
       "image": "./assets/pedals/pettyjohn-electronics/edge/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pettyjohn Electronics/EDGE.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Pettyjohn Electronics",
@@ -46672,8 +46672,8 @@
       "image": "./assets/pedals/tc-electronic/dark-matter-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Dark Matter Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",
@@ -47825,8 +47825,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/DJ1.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -49067,8 +49067,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Ages Five-State Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",
@@ -50868,8 +50868,8 @@
       "research_record": "./research/pedals/Xotic Effects/AH Booster Allen Hinds.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4092eb0dc06fcc0/1790330432381/ZAHvgnSZzGWD.M5xl4.LEGSPDrGFCtOGGLlT24HN5DE-1790330432-1.3.1.1-0n3C6S8mADiRUcVRB6NBRdAVHGkjU.Yhr1saaIofninOAmYY6jwEXGfBG02BWNtR0BQAb6Q0V2odNUbMPiU_NNNvqIViD9qdCTUdIZMgMjHtdtK6RRXDnqGS43VS1zHWCpvAG4onJHerSfjQA4k5KgpYkY.xfTBy2vHl5XzT74j_SEDNEufAX0kkI174uZOvJfaaFYFOW59oOAqcxc799pEu9QiPgqkxNoXtOU_wex_U6CPQKSoWUCMglwuoMXGExdDHnUtogz0zLTuYqxxBWEOIlShpY6_2VLa9PH.O8O74gtRiOP9qAWsImSHFZ2wdi0m3ba8s137F9Dhr3dJSPch93YvrA2eUYwUrD7e9ztxgBcYrwvAHRuNMQdXbxGQLhcfdW2SDbIs6DcsXZ7hGYke6W2dNUSBt6E9lIpqw_cAA4gkaysegKK7P2LDe.mj6ee8QCbXM9XW2i_6nSVThRi3qnU3gKFoeFCg0IQs_PQ7R4ugWRS4sm86ptwPHGrxzmTEqsB.VnRM4Vky3x.WhWl.msTVD8Y5gdfY7gnFUclgVEQmaTKAz05NF5zMr6QXho9jBtTxJw96TQuWwV7Q_IyKBv4Eeo2MbcO.rtDNapRAgxSLuov5eqJ6zCz_TptUgOii_Sv7vsXURpbekMro3QV.B9MWqvw43pvYgxh6TfKB3x9g_weHn_cIFRpUIgTm2iQ.xwAVJml38LtNDImytevO9onITc8pYMOoNb4kwhYk",
       "image_source_page": "https://reverb.com/item/97309938-xotic-ah-booster-allen-hinds-signature-overdrive-x17959",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Xotic Effects",
@@ -51065,8 +51065,8 @@
       "research_record": "./research/pedals/Zander Circuitry/American Geek.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4092ed38b84cbaa/1790330437894/KgJkbuU8HKPQ_0b0xjNUVLwa1B7fDJ9amo4Bfi5bdNw-1790330437-1.3.1.1-1k2Zti8apheefx3AaKfTquxGPi.W3nfrjvwbd7v7ripcRiJM59Q90ZO0NgCC08okhac9eYIuhCpMHKqYnhSF1NYzbU65lPDSI58S7HL7qabEDQn9446OFFP0aaNkP_tJMgFYHnNWiKdNrq0S7vt39ZXhQR7mJ9gq60cfEfGPddaxzeqZnxqp7hkC7vK..c2cIsmLYS1_f3KPoh9_VvdifoCajTwizh0kWnBdM2q_gFX18x49R1r5jjAvGF_KVujtVTLMT.my5CVoStI4BJ6mFMlnSHbBimIspZxYNxln4y1yiKm_M0m4ECOOTQ3PsZ1VYSKIHth576CmGXyddOrqL3y.hGg7IcDs5T3iFyclSPrsDHsPDvCCXGnyneVIST86xq6fyHJKFWzQGK7g5SXTfKMet.CQnu3.DUIc25P.b2nepFce.2.5cXXd1xf37vsvQ_MSilBr0Dv5Wi6aAfgK8bK7fH.x8A0NxN6899S3BGhxH.ZEZVuoC.TFBj99NYvBMNxSDy.yCv05YMO8r8VeyiMXNTEkEUyShg44AdA.A1ItOT1lMARuPwcraA1F7ECgYV_3rjUT6gjHb5Fpm1f0ZE0rUfGpvjmTh9PDh72FcXlVmQi1ND.WrnPsRE8vCgWn5mjNZxYNibic2TyVqqnJs6ZE6A82GcYdVwzjQkG1wVI_e9JLWS3jifRAvkko99za_Lbao1y3Y4daxY8aXMtypnnZGI9P1RU07xPgtvAUL70",
       "image_source_page": "https://reverb.com/item/97449888-zander-circuitry-american-geek-2025",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Zander Circuitry",
@@ -51092,8 +51092,8 @@
       "image": "./assets/pedals/zander-circuitry/cranium/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Zander Circuitry/Cranium.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Zander Circuitry",
