@@ -16,3 +16,16 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for identity and controls; medium for the OCD-style lineage; low for internal component details.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp50 ; https://stompboxsteals.blogspot.com/2018/08/overdrive-caline-cp-50-central-station.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-50 Central Station / Leon Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Caline CP-50 Central Station / Leon Drive
+
+### Sources checked in this pass
+1. Caline CP-50 Central Station / Leon Drive | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp50

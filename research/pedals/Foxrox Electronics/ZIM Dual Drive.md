@@ -1,23 +1,42 @@
 # Foxrox Electronics — ZIM Dual Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** ZIM Dual Drive
 - **Builder:** Foxrox Electronics
-- **Pedal:** ZIM Dual Drive
 - **Catalog type:** Distortion / Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Foxrox Electronics's ZIM Dual Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **ZIM Dual Drive** by **Foxrox Electronics** as a **Distortion / Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Swap out the ZIMcard and now your ZIM is a Fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: silicon transistor.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+ZIM Dual Drive by Foxrox Electronics
+This pair gives a wide range of overdrive sounds.
+Did you ever wish you had a Fuzz with a level boost?
+
+## Sources checked
+1. Foxrox Electronics Zim Dual Drive - Reverb: https://reverb.com/p/foxrox-electronics-zim-dual-drive
+2. Foxrox Electronics Zim Dual Drive - What To Know & Where To Buy: https://equipboard.com/items/foxrox-electronics-zim-dual-drive
+3. ZIM Dual Drive by Foxrox Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Foxrox-Electronics/ZIM-Dual-Drive/68979127/
+4. Amazon.com: https://www.amazon.com/Foxrox-Electronics-Zim-Dual-Drive/dp/B00GHZRZT6
+5. Classics: https://www.foxroxelectronics.com/classics.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -36,3 +36,21 @@ DD-1 Double Overdrive &#36; 399.00 Original price was: &#036;399.00.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Stage 2: Overdriveulator The second stage of the pedal is the DRV-1 Overdriveulator circuit.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Demeter Amplification 123 (805) 461-4100 info@demeteramps.com 0 Items Home Custom Shop Shop Guitar Amplification Cabinets Pro Audio Power Amplifiers Bass Amplification Onboard Devices Pedals Artists Support About Us Select Page Home / Pedals / DD-1 Double Overdrive Sale!
+DD-1 Double Overdrive $ 399.00 Original price was: $399.00.
+A Very Versatile Overdrive Pedal The DD-1 Double Overdrive is essentially two different distortion circuits in one, combining our DRV-1 Overdrivulator and our DRV-2 Uberdriveulator in a single pedal chassis.
+
+### Sources checked in this pass
+1. DD-1 Double Overdrive | Demeter Amplification: https://demeteramps.com/product/dd-1-double-overdrive/

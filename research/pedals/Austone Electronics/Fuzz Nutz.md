@@ -45,3 +45,19 @@ Fuzz Nutz is intentionally thick and bottom-heavy, with a smooth, fat fuzz respo
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/austone/fuzznutz
 - **Archive note:** Archival photographs exist in external sources, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The FUZZ NUTZ is famous for it's big bottom-end and smooth, fat fuzz that cleans-up when guitar volume control is reduced slightly.
+
+### Verified sound evidence
+Many of the fuzz effects from the 60's received radio stations and were notoriously noisy.
+Special care has been taken in the design and building of the Fuzz Nutz to solve both of these problems, yet retain the classic fuzz tone character.
+The FUZZ control sets the rise time and saturation of the signal while the NUTZ control sets the output level.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/97029241-austone-electronics-fuzz-nutz-x17777
+2. Austone Fuzz Nutz | Effects Database: https://www.effectsdatabase.com/model/austone/fuzznutz

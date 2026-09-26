@@ -12,3 +12,16 @@ https://www.effectsdatabase.com/model/biyang/babyboom/fz10
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Biyang's Baby Boom FZ-10 Fuzz Star is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+For sound, no noisy at all, smooth sounding fuzz distortion is in every settings, supplying 3 kinds of FUZZ too,ery punchy and alive.
+
+### Sources checked in this pass
+1. Biyang Baby Boom FZ-10 Fuzz Star | Effects Database: https://www.effectsdatabase.com/model/biyang/babyboom/fz10

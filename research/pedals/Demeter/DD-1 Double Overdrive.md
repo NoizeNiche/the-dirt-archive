@@ -41,3 +41,26 @@ DD-1 Double Overdrive &#36; 399.00 Original price was: &#036;399.00.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+A Very Versatile Overdrive Pedal The DD-1 Double Overdrive is essentially two different distortion circuits in one, combining our DRV-1 Overdrivulator and our DRV-2 Uberdriveulator in a single pedal chassis.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Demeter Amplification 123 (805) 461-4100 info@demeteramps.com 0 Items Home Custom Shop Shop Guitar Amplification Cabinets Pro Audio Power Amplifiers Bass Amplification Onboard Devices Pedals Artists Support About Us Select Page Home / Pedals / DD-1 Double Overdrive Sale!
+DD-1 Double Overdrive $ 399.00 Original price was: $399.00.
+A Very Versatile Overdrive Pedal The DD-1 Double Overdrive is essentially two different distortion circuits in one, combining our DRV-1 Overdrivulator and our DRV-2 Uberdriveulator in a single pedal chassis.
+
+### Sources checked in this pass
+1. DD-1 Double Overdrive | Demeter Amplification: https://demeteramps.com/product/dd-1-double-overdrive/
+2. Demeter DD-1 Double Overdrive | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/demeter-dd-1-double-overdrive
+3. Demeter DD-1 Double Overdrive Pedal - Sonic Circus: https://soniccircus.com/product/demeter-dd-1-double-overdrive-pedal/
+4. Demeter DD-1 Double Overdrive: https://www.hotroxuk.com/demeter-double-overdrive-dd-1.html
+5. Demeter DD-1 Double Overdrive - Reverb UK: https://reverb.com/uk/item/655505-demeter-dd-1-double-overdrive
+6. Videos Demeter DD-1 Double Overdrive - Audiofanzine: https://en.audiofanzine.com/overdrive-pedal/demeter/double-d/medias/videos/

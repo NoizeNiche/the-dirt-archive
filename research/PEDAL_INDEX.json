@@ -5455,8 +5455,8 @@
       "research_record": "./research/pedals/Austone Electronics/Fuzz Nutz.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--9sERgLsQ--/quality=medium-low,height=800,width=800,fit=contain/eca8e205-a37a-47b5-b35b-3f58ee44e405.jpeg",
       "image_source_page": "https://reverb.com/item/97029241-austone-electronics-fuzz-nutz-x17777",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Austone Electronics",
@@ -10335,8 +10335,8 @@
       "research_record": "./research/pedals/PRP Batch 089/Baby Boom FZ-10 Fuzz Star.md",
       "image_source_url": "https://starlitedistribution.ca/wp-content/uploads/2025/11/Biyang-FZ-10-MAIN-AA.jpg",
       "image_source_page": "https://starlitedistribution.ca/product/biyang-fz-10-fuzz-star-3-modes-of-fuzz-and-dist-baby-boom-series-guitar-effect-pedal-true-bypass/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -17100,8 +17100,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://i.etsystatic.com/39364016/r/il/0e8fba/5818331413/il_1080xN.5818331413_oilu.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -17170,8 +17170,8 @@
       "research_record": "./research/pedals/PRP Batch 141/cp-50-central-station-leon-drive.md",
       "image_source_url": "https://images.nexusapp.co/assets/13/db/d5/73584092.jpg",
       "image_source_page": "https://au.vicedeal.com/products/caline-cp-50-guitar-pedal-central-station-leon-drive-guitar-effect-pedal-true-bypass-effect?variant=UHJvZHVjdFZhcmlhbnQ6MTM4MjczMDIw",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -29563,8 +29563,8 @@
       "image": "./assets/pedals/demeter/dd-1-double-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Demeter/DD-1 Double Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Demeter",
@@ -29575,8 +29575,8 @@
       "image": "./assets/pedals/demeter/drv-1-overdriveulator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Demeter/DRV-1 Overdriveulator.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Demeter",
@@ -33392,8 +33392,8 @@
       "image": "./assets/pedals/foxrox-electronics/mini-zim/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxrox Electronics/Mini ZIM.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxrox Electronics",
@@ -33406,8 +33406,8 @@
       "image": "./assets/pedals/foxrox-electronics/zim-dual-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxrox Electronics/ZIM Dual Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Frank Marino Audio",
