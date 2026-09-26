@@ -31,16 +31,20 @@ jobs:
         shell: bash
         run: |
           python - <<'PY' >> "$GITHUB_OUTPUT"
-          import csv, json, sys
-          rows=list(csv.DictReader(open("research/PRP_TRACKER.csv",newline="",encoding="utf-8")))
-          # Keep the queue deterministic and strictly alphabetical so the archive advances
-          # from C onward through Z instead of rotating back into earlier letters.
-          pending=[{"builder":r["Builder"],"pedal":r["Pedal"]} for r in rows if r.get("Pedal Info")!="DONE"]
-          pending.sort(key=lambda x:(x["builder"].casefold(), x["pedal"].casefold()))
-          # Broad C-to-Z sweep: do not let a hard C/D target block every
-          # later builder. Evidence-ready records are promoted first, then
-          # partial-evidence records, then fresh targets, with known dead ends
-          # kept at the back for deliberate retry passes.
+          import json, sys
+          catalog=json.load(open("research/PEDAL_INDEX.json",encoding="utf-8"))
+          pedals=catalog.get("pedals", [])
+          # Every pedal now has a surface record. Deep research revisits those
+          # records without blocking site-wide surface coverage.
+          pending=[
+              {"builder":p.get("company",""),"pedal":p.get("pedal","")}
+              for p in pedals
+              if p.get("catalog_role") != "variation"
+              and str(p.get("research_level") or "").strip().lower() != "deep"
+          ]
+          pending=[p for p in pending if p["builder"] and p["pedal"]]
+          pending.sort(key=lambda x:(x["builder"].casefold(),x["pedal"].casefold()))
+
           evidence_path = "research/RESEARCH_EVIDENCE_QUEUE.json"
           verdicts = {}
           try:
@@ -49,41 +53,22 @@ jobs:
                   verdicts[(item.get("builder"), item.get("pedal"))] = item.get("foremanVerdict")
           except Exception:
               pass
-          priority = {
-              "EVIDENCE_READY": 0,
-              "MORE_SOURCES_NEEDED": 1,
-              None: 2,
-              "": 2,
-              "NO_USABLE_EVIDENCE": 3,
-          }
+          priority = {"EVIDENCE_READY":0,"MORE_SOURCES_NEEDED":1,None:2,"":2,"NO_USABLE_EVIDENCE":3}
+          pending.sort(key=lambda r:(priority.get(verdicts.get((r["builder"],r["pedal"])),2),r["builder"].casefold(),r["pedal"].casefold()))
 
-          # Interleave the unresolved catalog by builder initial after
-          # evidence-priority sorting. This keeps the research sweep moving
-          # across C-to-Z instead of spending every bounded pass inside one
-          # large D block.
-          pending.sort(key=lambda r: (
-              priority.get(verdicts.get((r["builder"], r["pedal"])), 2),
-              r["builder"].casefold(),
-              r["pedal"].casefold(),
-          ))
-          buckets = {}
+          buckets={}
           for row in pending:
-              letter = (row["builder"][:1].upper() if row["builder"] else "#")
-              buckets.setdefault(letter, []).append(row)
-
-          targets = []
-          letters = sorted(buckets)
-          while len(targets) < 60 and any(buckets.values()):
-              progressed = False
+              buckets.setdefault((row["builder"][:1] or "#").upper(),[]).append(row)
+          targets=[]
+          letters=sorted(buckets)
+          while len(targets)<60 and any(buckets.values()):
+              progressed=False
               for letter in letters:
-                  bucket = buckets[letter]
-                  if bucket:
-                      targets.append(bucket.pop(0))
-                      progressed = True
-                      if len(targets) >= 60:
-                          break
-              if not progressed:
-                  break
+                  if buckets[letter]:
+                      targets.append(buckets[letter].pop(0))
+                      progressed=True
+                      if len(targets)>=60: break
+              if not progressed: break
           matrix={"include":[{"targets":targets[i:i+4]} for i in range(0,len(targets),4)]}
           print("matrix="+json.dumps(matrix,ensure_ascii=False,separators=(",",":")))
           print("Research targets:",len(targets),"workers:",len(matrix["include"]),file=sys.stderr)
@@ -123,6 +108,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       canonical_delta: ${{ steps.publish.outputs.canonical_delta }}
+      deepened_research: ${{ steps.publish.outputs.deepened_research }}
     timeout-minutes: 12
     steps:
       - uses: actions/checkout@v7
@@ -138,6 +124,7 @@ jobs:
         shell: bash
         run: |
           echo "canonical_delta=0" >> "$GITHUB_OUTPUT"
+          echo "deepened_research=0" >> "$GITHUB_OUTPUT"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -188,6 +175,13 @@ jobs:
           print(int(json.loads(p.read_text(encoding="utf-8")).get("staged",0)) if p.exists() else 0)
           PY
           )"
+          deepened_research="$(python - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path("/tmp/research-publication-accounting.json")
+          print(int(json.loads(p.read_text(encoding="utf-8")).get("deepened",0)) if p.exists() else 0)
+          PY
+          )"
           python - <<'PY'
           import csv, json
           from pathlib import Path
@@ -221,6 +215,10 @@ jobs:
                   "before_researched": before_researched,
                   "after_researched": after_researched,
                   "canonical_delta": delta,
+                  "deepened": sum(
+                      1 for k,v in after_links.items()
+                      if v and before["links"].get(k)==v and k in newly_linked
+                  ),
                   "newly_linked": len(newly_linked),
                   "orphan_adoptions": len(orphan_adoptions),
                   "genuinely_new_links": len(genuinely_new_links),
@@ -236,9 +234,11 @@ jobs:
 
           accounting="$(cat /tmp/research-publication-accounting.json)"
           delta="$(python -c 'import json,sys; print(json.load(sys.stdin)["canonical_delta"])' <<<"$accounting")"
+          deepened_research="$(python -c 'import json,sys; print(json.load(sys.stdin).get("deepened",0))' <<<"$accounting")"
           orphan_adoptions="$(python -c 'import json,sys; print(json.load(sys.stdin)["orphan_adoptions"])' <<<"$accounting")"
           genuinely_new_links="$(python -c 'import json,sys; print(json.load(sys.stdin)["genuinely_new_links"])' <<<"$accounting")"
           echo "canonical_delta=$delta" >> "$GITHUB_OUTPUT"
+          echo "deepened_research=$deepened_research" >> "$GITHUB_OUTPUT"
           echo "Canonical research delta: before=$(python -c 'import json,sys; print(json.load(sys.stdin)["before_researched"])' <<<"$accounting") after=$(python -c 'import json,sys; print(json.load(sys.stdin)["after_researched"])' <<<"$accounting") delta=$delta; foreman staged=$staged_research; orphan adoptions=$orphan_adoptions; genuinely new links=$genuinely_new_links."
           created_paths_missing="$(python - <<'PY'
           import json
@@ -270,6 +270,10 @@ jobs:
           if [ "$delta" -ne "$newly_linked" ]; then
             echo "ERROR: canonical research count delta does not match newly linked research records."
             exit 1
+          fi
+          echo "Deep research updates accepted in this pass: $deepened_research."
+          if [ "$created_records" -eq 0 ] && [ "$deepened_research" -gt 0 ]; then
+            echo "Canonical research depth advanced without changing the research-linked count."
           fi
 
           git add research/RESEARCH_INBOX research/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
@@ -341,20 +345,14 @@ jobs:
         shell: bash
         run: |
           remaining="$(python - <<'PY'
-          import csv
-          with open("research/PRP_TRACKER.csv", newline="", encoding="utf-8") as fh:
-              rows=list(csv.DictReader(fh))
-          pending=[r for r in rows if r.get("Pedal Info")!="DONE"]
-          pending.sort(key=lambda r:(str(r.get("Builder") or "").casefold(),str(r.get("Pedal") or "").casefold()))
-          if not pending:
-              print(0)
-          else:
-              letter=(pending[0].get("Builder") or "")[:1].upper()
-              print(sum(1 for r in pending if (r.get("Builder") or "")[:1].upper()==letter))
+          import json
+          catalog=json.load(open("research/PEDAL_INDEX.json",encoding="utf-8"))
+          print(sum(1 for p in catalog.get("pedals",[]) if p.get("catalog_role") != "variation" and str(p.get("research_level") or "").strip().lower() != "deep"))
           PY
           )"
           delta="${{ needs.foreman.outputs.canonical_delta }}"
-          if [ "$remaining" -gt 0 ] && [ "${delta:-0}" -gt 0 ]; then
+          deepened="${{ steps.publish.outputs.deepened_research }}"
+          if [ "$remaining" -gt 0 ] && { [ "${delta:-0}" -gt 0 ] || [ "${deepened:-0}" -gt 0 ]; }; then
             echo "Canonical research moved by $delta; active frontier has $remaining target(s). Dispatching next bounded pass."
             gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/research-worker-team.yml/dispatches" -f ref=main
           elif [ "$remaining" -gt 0 ]; then
