@@ -52,7 +52,26 @@ def slug(value):
 
 def split_sentences(text):
     clean = norm(re.sub(r"\[[0-9]+\]", "", text))
-    return [s.strip() for s in re.split(r"(?<=[.!?])\s+", clean) if len(s.strip()) >= 35]
+    # Evidence excerpts can be page dumps rather than prose. Split on common
+    # scraper separators as well as sentence punctuation, then discard
+    # navigation-heavy fragments and cap candidates to keep canonical records
+    # readable.
+    parts = re.split(r"(?<=[.!?])\s+|\s+--?>\s+|\s+•\s+|\s+\|\s+", clean)
+    out = []
+    for part in parts:
+        s = re.sub(r"\s+", " ", part).strip(" -|>\t\r\n")
+        if not (35 <= len(s) <= 320):
+            continue
+        low = s.lower()
+        boilerplate = (
+            "skip to navigation", "browse by", "categories menu", "mi cuenta",
+            "carrito", "newsletter", "copyright", "privacy policy", "where to find one",
+            "ads! this site", "related -->", "myfxdb user reviews", "your browser"
+        )
+        if any(marker in low for marker in boilerplate):
+            continue
+        out.append(s)
+    return out
 
 
 def exact_sources(packet):
@@ -83,16 +102,14 @@ def strong_single_source(sources):
 
 def choose_description(builder, pedal, kind, sources):
     for source in sources:
-        text = norm(source.get("excerpt"))
-        sentences = split_sentences(text)
-        for sentence in sentences:
+        for sentence in split_sentences(source.get("excerpt")):
             hay = sentence.lower()
             if pedal.lower() in hay and any(
                 marker in hay
                 for marker in (" is ", " are ", " designed ", " delivers ", " offers ", " features ")
             ):
                 return sentence
-        for sentence in sentences:
+        for sentence in split_sentences(source.get("excerpt")):
             if any(x in sentence.lower() for x in ("fuzz pedal", "overdrive pedal", "distortion pedal", "boost pedal")):
                 return sentence
     type_name = kind or "effects"
