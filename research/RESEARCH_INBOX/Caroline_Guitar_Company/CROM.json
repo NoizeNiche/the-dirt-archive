@@ -1,0 +1,25 @@
+{
+  "builder": "Caroline Guitar Company",
+  "pedal": "CROM",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/94448473-caroline-guitar-company-crom",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://carolineguitar.com/product/crom/",
+      "title": "CROM\u2122 - Caroline Guitar Company - Caroline Guitar Company",
+      "h1": "CROM\u2122",
+      "excerpt": "CROM\u2122 - Caroline Guitar Company - Caroline Guitar Company Dreamed, designed, and created at our small batch \u0003distortery\u2122 in Columbia, South Carolina. Products Artists About Retailers Blog My account Checkout Cart CROM\u2122 The Riddle Of Steel CROM\u2122 $ 189.00 Owner\u2019s manual (PDF) Version Choose an option STANDARD BLACK SPECIAL BRONZE Clear CROM\u2122 quantity Add to cart SKU: N/A Category: Pedals What is more powerful: the pedal, or the mighty foot of the player who steps upon it? For years we have had players ask us if our pedals are appropriate for use in praise and worship settings. We have considered such a question blasphemous, as Crom is an angry deity who lives inside a mountaintop, who doesn\u2019t concern himself with the matters of mere mortals, and cannot be bothered to hear their pleas for help, their prayers for vengeance, or anything that might resemble a song of praise or devotion. CROM is a BC184 Supa Tone Bender style fuzzstortion like our original Olympia\u2122, but with a classic tweed amp style tone control (MOUNTAIN) that interacts with the SWORD (gain) control. It is a LOT less lossy and less scooped than the classic M*ff style tone control in these circuits, giving the pedal an immediate and punchy response. A TURBO button on the side gives it extra power and gain. Demos Available from our Fine Retailers Additional information Weight 1 oz Dimensions 6 &times; 4 &times; 3 in Version STANDARD BLACK, SPECIAL BRONZE Artists Products About Blog Retailers Contact facebook-official twitter instagram youtube &copy; Copyright 2026 Caroline Guitar Company",
+      "host": "carolineguitar.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

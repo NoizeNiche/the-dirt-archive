@@ -18408,8 +18408,8 @@
       "research_record": "./research/pedals/PRP Batch 150/caroline-guitar-company-crom.md",
       "image_source_page": "https://reverb.com/item/94448473-caroline-guitar-company-crom",
       "image_source_url": "https://rvb-img.reverb.com/i/s--p6wWVnNt--/quality=medium-low,height=800,width=800,fit=contain/0c0517dd-fe5c-44b1-b099-691411779ace.jpeg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caroline Guitar Company",
@@ -46424,8 +46424,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Noise Theory – Parallel Waveshaper Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Subdecay",
