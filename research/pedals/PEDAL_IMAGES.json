@@ -14874,7 +14874,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "FX76 Punkifier",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/fx76-punkifier/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/FX76 Punkifier.md"
   },
@@ -14923,7 +14923,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "Juice Box Overdrive (FX51)",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/juice-box-overdrive-fx51/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/Juice Box Overdrive (FX51).md"
   },
@@ -14937,14 +14937,14 @@
   {
     "builder": "DOD Electronics",
     "pedal": "Metal X (FX70)",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/metal-x-fx70/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/Metal X (FX70).md"
   },
   {
     "builder": "DOD Electronics",
     "pedal": "Mystic Blues Overdrive (FX102)",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/mystic-blues-overdrive-fx102/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/Mystic Blues Overdrive (FX102).md"
   },
@@ -15371,7 +15371,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Cloven Hoof",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/cloven-hoof/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Cloven Hoof.md"
   },
@@ -15413,28 +15413,28 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Dunes",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/dunes/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Dunes.md"
   },
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Dunes — Mini Mega Ultimate Overdrive",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/dunes-mini-mega-ultimate-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Dunes — Mini Mega Ultimate Overdrive.md"
   },
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Erupter",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/erupter/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Erupter.md"
   },
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Erupter — Ultimate Fuzz Tone",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/erupter-ultimate-fuzz-tone/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Erupter — Ultimate Fuzz Tone.md"
   },
@@ -15931,14 +15931,14 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Green Russian Big Muff Pi",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/green-russian-big-muff-pi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Green Russian Big Muff Pi.md"
   },
   {
     "builder": "Electro-Harmonix",
     "pedal": "Hell Melter",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/hell-melter/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Hell Melter.md"
   },
@@ -16414,7 +16414,7 @@
   {
     "builder": "Fender",
     "pedal": "The Trapper Dual Fuzz",
-    "image": null,
+    "image": "./assets/pedals/fender/the-trapper-dual-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fender/The Trapper Dual Fuzz.md"
   },
@@ -16883,14 +16883,14 @@
   {
     "builder": "Fulltone",
     "pedal": "PlimSoul mkII",
-    "image": null,
+    "image": "./assets/pedals/fulltone/plimsoul-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fulltone/PlimSoul mkII.md"
   },
   {
     "builder": "Fulltone",
     "pedal": "Queen Bee",
-    "image": null,
+    "image": "./assets/pedals/fulltone/queen-bee/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fulltone/Queen Bee.md"
   },
@@ -17114,21 +17114,21 @@
   {
     "builder": "Greer Amps",
     "pedal": "Southland Harmonic Overdrive",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/southland-harmonic-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Southland Harmonic Overdrive.md"
   },
   {
     "builder": "Greer Amps",
     "pedal": "Sucker Punch Distortion",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/sucker-punch-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Sucker Punch Distortion.md"
   },
   {
     "builder": "Greer Amps",
     "pedal": "Supa Cobra Overdrive",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/supa-cobra-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Supa Cobra Overdrive.md"
   },
@@ -17737,7 +17737,7 @@
   {
     "builder": "IdiotBox Effects",
     "pedal": "Power Drive",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/power-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Power Drive.md"
   },
@@ -18227,35 +18227,35 @@
   {
     "builder": "JHS Pedals",
     "pedal": "Muffuletta",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/muffuletta/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Muffuletta.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Notadümblë V2",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/notad-mbl-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Notadümblë V2.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Notadümb̈le V2",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/notad-mb-le-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Notadümb̈le V2.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Notadümblo V2",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/notad-mblo-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Notadümblo V2.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Notadümbळë V2",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/notad-mb-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Notadümbळë V2.md"
   },
@@ -18570,7 +18570,7 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Germanium Super Phat Mod",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/germanium-super-phat-mod/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Germanium Super Phat Mod.md"
   },
@@ -18584,14 +18584,14 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Keeley Oxblood Overdrive",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/keeley-oxblood-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Keeley Oxblood Overdrive.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "Loomer",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/loomer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Loomer.md"
   },
@@ -18857,35 +18857,35 @@
   {
     "builder": "KHDK Electronics",
     "pedal": "Gojira Drive — harmonic overdrive",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/gojira-drive-harmonic-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Gojira Drive — harmonic overdrive.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "In Waves",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/in-waves/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/In Waves.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "In Waves — Trivium metal tone shaper / dirt product",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/in-waves-trivium-metal-tone-shaper-dirt-product/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/In Waves — Trivium metal tone shaper / dirt product.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "LCFR",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/lcfr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/LCFR.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "LCFR — Nergal signature dirt product",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/lcfr-nergal-signature-dirt-product/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/LCFR — Nergal signature dirt product.md"
   },
@@ -19130,7 +19130,7 @@
   {
     "builder": "KMA Machines",
     "pedal": "Wurm 2",
-    "image": null,
+    "image": "./assets/pedals/kma-machines/wurm-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KMA Machines/Wurm 2.md"
   },
@@ -19186,35 +19186,35 @@
   {
     "builder": "Leqtique",
     "pedal": "Beryl",
-    "image": null,
+    "image": "./assets/pedals/leqtique/beryl/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/Beryl.md"
   },
   {
     "builder": "Leqtique",
     "pedal": "Beryl EVR",
-    "image": null,
+    "image": "./assets/pedals/leqtique/beryl-evr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/Beryl EVR.md"
   },
   {
     "builder": "Leqtique",
     "pedal": "Caelum OD",
-    "image": null,
+    "image": "./assets/pedals/leqtique/caelum-od/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/Caelum OD.md"
   },
   {
     "builder": "Leqtique",
     "pedal": "Caeruleum Lightdrive High Definition",
-    "image": null,
+    "image": "./assets/pedals/leqtique/caeruleum-lightdrive-high-definition/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/Caeruleum Lightdrive High Definition.md"
   },
   {
     "builder": "Leqtique",
     "pedal": "CLHD EVR",
-    "image": null,
+    "image": "./assets/pedals/leqtique/clhd-evr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/CLHD EVR.md"
   },
@@ -19298,28 +19298,28 @@
   {
     "builder": "Lichtlaerm Audio",
     "pedal": "Gehenna — metal distortion / preamp",
-    "image": null,
+    "image": "./assets/pedals/lichtlaerm-audio/gehenna-metal-distortion-preamp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lichtlaerm Audio/Gehenna — metal distortion / preamp.md"
   },
   {
     "builder": "Lichtlaerm Audio",
     "pedal": "Medusa",
-    "image": null,
+    "image": "./assets/pedals/lichtlaerm-audio/medusa/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lichtlaerm Audio/Medusa.md"
   },
   {
     "builder": "Lichtlaerm Audio",
     "pedal": "Medusa — grinding death metal distortion",
-    "image": null,
+    "image": "./assets/pedals/lichtlaerm-audio/medusa-grinding-death-metal-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lichtlaerm Audio/Medusa — grinding death metal distortion.md"
   },
   {
     "builder": "Lichtlaerm Audio",
     "pedal": "Ragnarøk",
-    "image": null,
+    "image": "./assets/pedals/lichtlaerm-audio/ragnar-k/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lichtlaerm Audio/Ragnarøk.md"
   },
@@ -19389,14 +19389,14 @@
   {
     "builder": "Limetone Audio",
     "pedal": "funther OD/DS/FZ",
-    "image": null,
+    "image": "./assets/pedals/limetone-audio/funther-od-ds-fz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Limetone Audio/funther OD/DS/FZ.md"
   },
   {
     "builder": "Limetone Audio",
     "pedal": "fuzzhog proto OD/DS/FZ",
-    "image": null,
+    "image": "./assets/pedals/limetone-audio/fuzzhog-proto-od-ds-fz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Limetone Audio/fuzzhog proto OD/DS/FZ.md"
   },
