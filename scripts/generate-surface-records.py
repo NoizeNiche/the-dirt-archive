@@ -31,7 +31,8 @@ def main():
             continue
         builder=str(item.get('company') or '').strip()
         pedal=str(item.get('pedal') or '').strip()
-        record=ROOT/builder/(pedal+'.md')
+        linked_record=str(item.get('research_record') or '').strip()
+        record=Path(linked_record[2:] if linked_record.startswith('./') else linked_record) if linked_record else (ROOT/builder/(pedal+'.md'))
         if item.get('research_record'):
             if not record.is_file():
                 candidates=[]
