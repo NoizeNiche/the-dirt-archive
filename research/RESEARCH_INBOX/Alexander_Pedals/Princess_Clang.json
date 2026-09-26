@@ -1,0 +1,17 @@
+{
+  "builder": "Alexander Pedals",
+  "pedal": "Princess Clang",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.premierguitar.com/alexander-pedals-releases-the-princess-clang-royal-overdrive",
+      "title": "Alexander Pedals Launches Princess Clang Overdrive - Premier Guitar",
+      "h1": "Alexander Pedals Releases the Princess Clang Royal Overdrive",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Alexander Pedals Launches Princess Clang Overdrive - Premier Guitar &#32; &#32; Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts Shred With Shifty Wong Notes 100 Guitarists Win Digital Magazine close Search <!-- End User Code -",
+      "host": "www.premierguitar.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
