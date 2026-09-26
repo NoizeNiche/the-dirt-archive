@@ -1266,8 +1266,8 @@
       "research_record": "./research/pedals/Add+ Pedals/Ratortion.md",
       "image_source_url": "https://www.addpluspedals.com/assets/images/all/ratortion_all.jpg",
       "image_source_page": "https://addpluspedals.com/stompboxes.php",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -46869,8 +46869,8 @@
       "research_record": "./research/pedals/TC Electronic/Vintage Overdrive.md",
       "image_source_url": "https://medias.audiofanzine.com/images/normal/tc-electronic-vintage-overdrive-783491.jpg",
       "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/tc-electronic/Vintage-Overdrive/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",

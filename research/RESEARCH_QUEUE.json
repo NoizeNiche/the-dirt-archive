@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T02:24:30.140699+00:00",
+  "generated_at": "2026-09-26T02:27:37.772142+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2501,
     "complete": 2501,
     "research_pending": 0,
-    "deep_research_pending": 3442,
-    "deep_researched": 319,
+    "deep_research_pending": 3440,
+    "deep_researched": 321,
     "surface_ready": 3761
   },
   "next_target": {
@@ -34,13 +34,6 @@
       "pedal": "Fuzz Machine",
       "catalog_type": "",
       "research_record": "./research/pedals/Add+ Pedals/Fuzz Machine.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Add+ Pedals",
-      "pedal": "Ratortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Add+ Pedals/Ratortion.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Screaming Flamingo - Overdrive/Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/AJ Peat/Screaming Flamingo - Overdrive-Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "AJcustom",
+      "pedal": "Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/AJcustom/Distortion.md",
       "research_level": "surface"
     }
   ]
