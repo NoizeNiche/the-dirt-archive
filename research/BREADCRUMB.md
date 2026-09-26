@@ -1,3 +1,19 @@
+## Viewer UX checkpoint - September 26, 2026
+
+The viewer-side health pass has now implemented the first low-risk archive improvements:
+- The landing-page filter stack collapses into a compact mobile drawer, with the active dirt type, builder, and search state summarized in the closed control.
+- Pedal-detail archive navigation uses the same compact mobile pattern, keeping the long builder list out of the way on small screens.
+- Pedal-detail pages now generate a page-specific search description after the canonical catalog record loads.
+- Pedal-detail pages now expose an **Explore nearby** section with up to six contextual canonical pedals, favoring the same builder and/or dirt family without ranking or scoring them for visitors.
+- Pedal-detail pages now include a one-click share control that uses the native share sheet when available or copies the exact current URL otherwise.
+- Focus treatment was added to the mobile navigation controls.
+
+The changes remain within the existing public architecture: canonical catalog data still comes from `research/PEDAL_INDEX.json`, internal research status remains hidden, and no new client-side data store or ranking layer was introduced.
+
+The current archive checkpoint is **3,761 total / 3,761 surface-ready / 1,477 deep-researched / 3,761 research-linked / 2,937 pictured / 2,937 complete / 0 surface-missing / 2,284 deep-research-pending / 824 researched-photo-pending**. Autonomous research remains paused while photo recovery stays active.
+
+Live Pages verification is still unavailable from the current network environment, so the repository-side changes are verified through source inspection rather than a direct production browser session.
+
 ## Health-check / research pause checkpoint - September 26, 2026
 
 Autonomous research is intentionally paused for a viewer/site health review. Both `.github/workflows/research-worker-team.yml` and `.github/workflows/research-evidence-crew.yml` are now manual-dispatch only; the photo-recovery workflows remain active.
