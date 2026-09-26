@@ -42,3 +42,28 @@ No SMD or approximated values – My goal was to give Tone and Mojo in a mini fo
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+I’m absolutely impressed” – Bill U., Tone Chaser Decibelics Golden Horse Professional Overdrive is the result of all my experience studying and building Klon Centaur clones squeezed into a mini enclosure.
+
+### Verified color/finish evidence
+- 1N34A Germanium diodes (Clear crystal and black band as the original, made in USA) – The commonly known as Magic Diodes.
+
+### Verified diode terms
+- 1N34A.
+
+### Verified sound evidence
+I’m absolutely impressed” – Bill U., Tone Chaser Decibelics Golden Horse Professional Overdrive is the result of all my experience studying and building Klon Centaur clones squeezed into a mini enclosure.
+No SMD or approximated values – My goal was to give Tone and Mojo in a mini footprint.
+Specs: + Exact sonic reproduction of my original gold Klon Centaur, horsie close-tail, serial number 2505 from 2001 (See pictures below) Among my original Klons, this particular unit was undoubtely the one with the best tone.
+
+### Sources checked in this pass
+1. Decibelics Golden Horse – Decibelics: https://decibelics.com/product/golden-horse/
+2. Decibelics Golden Horse - What To Know Where To Buy: https://equipboard.com/items/decibelics-golden-horse
+3. Decibelics Golden Horse Professional Overdrive (Mini Klon ... - Reverb: https://reverb.com/item/12301822-decibelics-golden-horse-professional-overdrive-mini-klon-centaur-clone-pre-order
+4. Decibelics Golden Horse Professional Overdrive | ChasingGuitars: https://chasingguitars.com/decibelics-golden-horse-professional-overdrive/
+5. Decibelics Golden Horse Klon-Style Drive | Delicious Audio: https://delicious-audio.com/decibelics-golden-horse-klon-style-drive/

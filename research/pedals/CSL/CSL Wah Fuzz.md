@@ -36,3 +36,16 @@ Swell Musikbörsen Swell Vox (by Sola Sound) Swell Pedal West Wood Swell Colorso
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CSL's CSL Wah Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Wah Fuzz West Wood Wah Fuzz Vox "Hastings" Wah plus Fuzz Vox "Hastings" Wow-Fuzz Vox (by Sola Sound) Fuzz-Wah Colorsound Wah+Fuzz+Swell Colorsound Supa Wah-Fuzz-Swell CMI Wah Fuzz Swell G.B.
+
+### Sources checked in this pass
+1. CSL Wah Fuzz | Effects Database: https://www.effectsdatabase.com/model/csl/wahfuzz

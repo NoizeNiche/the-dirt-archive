@@ -46,3 +46,17 @@ Compelling Drive is voiced around a bright, smooth overdrive response with the S
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/auraldream/drive/compelling
 - **Archive note:** Exact-model imagery is visible in secondary sources, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Aural Dream's Compelling Drive is cataloged as an overdrive pedal.
+
+### Verified diode terms
+- LED.
+
+### Sources checked in this pass
+1. catalog/override source: https://bigamart.com/product/aural-dream-compelling-drive-guitar-effect-pedal-includes-high-gain-heavy-drive-for-2-drive-modestrue-bypass/
+2. Aural Dream Compelling Drive | Effects Database: https://www.effectsdatabase.com/model/auraldream/drive/compelling

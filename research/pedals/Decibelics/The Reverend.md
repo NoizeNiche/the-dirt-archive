@@ -37,3 +37,21 @@ Imagine playing La Grange and being able to go from the clean part to the distor
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Decibelics The Reverend is a part-for-part replica of the ‘Original Version’ EXP-2000 but with added best elements/characteristics of all three versions.
+
+### Verified version references
+- The evidence references: V1, V2.
+
+### Verified sound evidence
+The Expandora was a phenomenal Overdrive/Distortion/Fuzz, a highly evolved Rat with an ‘expander’ circuit that made the pedal dynamically sensitive, allowing users to vary the amount of distortion with the pick’s attack or by adjusting their instrument’s volume knob.
+Imagine playing La Grange and being able to go from the clean part to the distortion part just by strumming harder.
+The most famous one, with 2 internal DIP switches to change between 3 gain stages plus the additional ‘Forbidden Setting’.
+
+### Sources checked in this pass
+1. The Reverend – Decibelics: https://decibelics.com/product/the-reverend/

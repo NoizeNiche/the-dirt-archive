@@ -1,23 +1,42 @@
 # Foxgear — Sinister
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Sinister
 - **Builder:** Foxgear
-- **Pedal:** Sinister
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Foxgear's Sinister.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Sinister** by **Foxgear** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Thanks to Foxgear’s pioneering distortion circuit “DynaFET™” made of multi-stage Class A FET, the Sinister is capable of reaching an insane amount of gain.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Thanks to Foxgear’s pioneering distortion circuit “DynaFET™” made of multi-stage Class A FET, the Sinister is capable of reaching an insane amount of gain.
+Yet, it can keep tone very focused even in bass frequencies.
+The sinister provides an ultra, amp-like distortion that easily reaches rich harmonics.
+
+## Sources checked
+1. Foxgear Sinister - Reverb: https://reverb.com/p/foxgear-sinister
+2. Foxgear Sinister - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/foxgear-sinister
+3. Amazon.com: https://www.amazon.com/Foxgear-Sinister-Distortion-Guitar-Effect/dp/B07W2VLLJ3
+4. FoxGear | Sinister Distortion - Sugaree Licks: https://sugareelicks.com/pedal/foxgear-sinister-distortion/
+5. FoxGear Sinister Metal Distortion Pedal: https://www.studiogears.com/foxgear-sinister-metal-distortion-pedal.htm
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

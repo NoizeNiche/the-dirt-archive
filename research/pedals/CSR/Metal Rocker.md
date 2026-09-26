@@ -35,3 +35,14 @@ Published on April 28, 2006 CSR distortion pedal Reviews myFXDB user reviews No 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CSR's Metal Rocker is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. CSR Metal Rocker | Effects Database: https://www.effectsdatabase.com/model/csr/metalrocker
+2. METAL ROCKER da CSR ou METAL ZONE da BOSS?!!!!!!!! - Cifra Club: https://forum.cifraclub.com.br/forum/7/81043/

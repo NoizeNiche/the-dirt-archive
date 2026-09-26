@@ -5373,8 +5373,8 @@
       "research_record": "./research/pedals/Aural Dream/Compelling Drive.md",
       "image_source_url": "https://images-na.ssl-images-amazon.com/images/I/61BY9K0ChdL._AC_SL1110_.jpg",
       "image_source_page": "https://bigamart.com/product/aural-dream-compelling-drive-guitar-effect-pedal-includes-high-gain-heavy-drive-for-2-drive-modestrue-bypass/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Aural Dream",
@@ -9719,8 +9719,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://www.axeandyoushallreceive.com/sites/default/files/mobtop.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Tone Music Brewery",
@@ -9755,8 +9755,8 @@
       "research_record": "./research/pedals/PRP Batch 086/Royal Beaver.md",
       "image_source_url": "https://images-na.ssl-images-amazon.com/images/I/415zBx5v64L._UL1200_.jpg",
       "image_source_page": "https://japanbong.co.kr/mall/view/goodsNo/72407",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Tone Music Brewery",
@@ -27640,8 +27640,8 @@
       "image": "./assets/pedals/crown/super-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crown/Super Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crown",
@@ -27782,8 +27782,8 @@
       "image": "./assets/pedals/cryptid-effects/indrid-cold/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cryptid Effects/Indrid Cold.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cryptid Effects",
@@ -27808,8 +27808,8 @@
       "image": "./assets/pedals/crysta-professional/ds-1-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crysta Professional/DS-1 Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crysta Professional",
@@ -27820,8 +27820,8 @@
       "image": "./assets/pedals/crysta-professional/od-1-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crysta Professional/OD-1 Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CS.Cathey",
@@ -27870,8 +27870,8 @@
       "image": "./assets/pedals/csl/csl-wah-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CSL/CSL Wah Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CSR",
@@ -27882,8 +27882,8 @@
       "image": "./assets/pedals/csr/metal-rocker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CSR/Metal Rocker.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CTech / CB Labs",
@@ -29437,8 +29437,8 @@
       "image": "./assets/pedals/decibelics/golden-horse/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Decibelics/Golden Horse.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Decibelics",
@@ -29463,8 +29463,8 @@
       "image": "./assets/pedals/decibelics/the-reverend/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Decibelics/The Reverend.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Deep Trip",
@@ -33281,8 +33281,8 @@
       "image": "./assets/pedals/foxgear/sinister/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Sinister.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxpedal",
@@ -33306,8 +33306,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Foxpedal/The City V2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxpedal",

@@ -40,3 +40,24 @@ Crown browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Cr
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crown's Super Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v1, v2.
+
+### Verified sound evidence
+It delivered the same aggressive, octave-enhanced fuzz tones that became a signature of early heavy rock and psychedelic music.
+Controls Expander (with On/Off switch): Adjusts the intensity of the fuzz effect and serves as the main power switch.
+Tone switch: Two-way slide switch; Position 1 produces a mid-focused fuzz, Position 2 adds a heavier sustained tone with more low end.
+
+### Sources checked in this pass
+1. Crown Super Fuzz | Effects Database: https://www.effectsdatabase.com/model/crown/superfuzz
+2. Shin-Ei Crown FY-6 Super Fuzz 1968-1970 - Reverb: https://reverb.com/item/66678966-shin-ei-crown-fy-6-super-fuzz-1968-1970
+3. Crown - Super Fuzz w/Original Box - Effects Freak: https://effectsfreak.com/effect/crown-super-fuzz-w-original-box/
+4. Vintage Crown (Univox Super Fuzz) distortion pedal: https://www.worthpoint.com/worthopedia/vintage-crown-univox-super-fuzz-149598949
