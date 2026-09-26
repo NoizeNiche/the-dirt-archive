@@ -36,3 +36,19 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Danelectro's Wasabi Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Danelectro AO-1 Wasabi Overdrive - What To Know Where To Buy: https://equipboard.com/items/danelectro-wasabi-overdrive
+2. Danelectro Wasabi Overdrive - Reverb: https://reverb.com/p/danelectro-wasabi-overdrive
+3. Danelectro Wasabi Overdrive Pedal | Guitar Center: https://www.guitarcenter.com/Danelectro/Wasabi-Overdrive-Pedal.gc
+4. Danelectro Wasabi Overdrive AO-1 543874 - eBay: https://www.ebay.com/itm/307171667454
+5. Danelectro Wasabi Overdrive - Tonebox.com: https://www.tonebox.com/pedal/danelectro-wasabi-overdrive
+6. Danelectro Wasabi Overdrive review | MusicRadar: https://www.musicradar.com/reviews/guitars/danelectro-wasabi-overdrive-157206
+7. Danelectro Wasabi Overdrive – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/danelectro-wasabi-overdrive-2523441

@@ -31,3 +31,18 @@ The BS is voiced toward cranked British stack tones, with separate low/high shap
 
 ## Photo
 - **Archive status:** Exact Photo Needed
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+AMT Electronics's BS British Sound is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Adjustable distortion level in the possibility of operative tone control makes it possible to use this device both in studio and on stage.
+The four control knobs - Level, Low, High and Dist - are intended for volume, lows and highs, distortion levels correction.
+AMT Electronics Created for all those full stack 4x12 British tone lovers.
+
+### Sources checked in this pass
+1. AMT Electronics BS British Sound | Effects Database: https://www.effectsdatabase.com/model/amt/bs

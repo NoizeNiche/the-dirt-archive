@@ -38,3 +38,25 @@ Her ‘Bias’ and ‘Texture’ knobs give you additional tonal flexibility all
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+This Foxy Lady has the classic vibe and warmth of saturated Germanium transistors, and a clever modern design (with impedance matching circuit) allowing her to be placed either before or after the buffer pedal without losing it’s full, dynamic sound (unlike many of the fuzz pedals).
+
+### Verified version references
+- The evidence references: V2, v2.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+This Foxy Lady has the classic vibe and warmth of saturated Germanium transistors, and a clever modern design allowing her to be placed either before or after the buffer pedal without losing it’s full, dynamic sound.
+Her ‘Bias’ and ‘Texture’ knobs give you additional tonal flexibility allowing to dial in anything from vintage, super smooth drive to fat and aggressive fuzz.
+While chilling with her glass of champagne, she brings classy fuzz tone to your guitar signal.
+
+### Sources checked in this pass
+1. Fuzzie Germanium Fuzz v2 | Sitek Guitar Electronics: https://www.sitek.rocks/product/fuzzie-fuzz/
+2. Sitek Guitar Electronics Unveils the Fuzzie Germanium Fuzz V2 - Bass Magazine: https://bassmagazine.com/sitek-guitar-electronics-unveils-the-fuzzie-germanium-fuzz-v2/

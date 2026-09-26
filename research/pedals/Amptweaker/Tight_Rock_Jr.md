@@ -60,3 +60,19 @@ Tight Rock Jr is voiced for the broad zone between classic Plexi-style crunch an
 2. Premier Guitar — Amptweaker Jr. Distortion Series, Feb. 2, 2016: https://www.premierguitar.com/amptweaker-introduces-the-amptweaker-jr-distortion-series
 3. Amptweaker/Mike Hermans TightRock Jr demo: https://www.youtube.com/watch?v=BMKxbufNHXU
 4. Reverb — Tight Rock Jr original red example: https://reverb.com/item/92068883-amptweaker-tight-rock-jr-og-red
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Amptweaker's Tight Rock Jr is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+introducing the Amptweaker Jr Distortion Series featuring the TightRock Jr™, TightDrive Jr™ and TightMetal Jr™.
+An EQ switch similarly provides Plexi(Thrash on TMJR)/Normal/Smooth tone settings, which helps the pedals cover much of the range of both their Fat and Tight parents.
+In addition to Gain, Tone and Volume knobs, there's also a manually-adjustable Noise Gate which can be cranked to stop notes hard and fast.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/92068883-amptweaker-tight-rock-jr-og-red
+2. Amptweaker TightRock Jr. | Effects Database: https://www.effectsdatabase.com/model/amptweaker/tightrock/jr

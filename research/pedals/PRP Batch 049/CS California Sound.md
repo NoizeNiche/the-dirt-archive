@@ -31,3 +31,23 @@ AMT describes the CS as mid-focused with deep, dense lows and an output stage sh
 
 ## Photo
 - **Archive status:** Exact Photo Needed
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+AMT Electronics's CS California Sound is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Verified sound evidence
+California Sound uses peculiar for АМТ produced devices frequency compensated output shaping the guitar speaker tone.
+Level, Low, High and Drive controls are designed for smooth and operative volume, effect, highs, lows and distortion levels adjustments.
+AMT Electronics Rectified lead tone like you've never heard before, all from one compact stompbox.
+
+### Sources checked in this pass
+1. Amt Electronics California Sound - Distortion - Audiofanzine: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/amt-electronics/California-Sound/
+2. Amt Electronics California Sound - Distorsion guitare - Audiofanzine: https://fr.audiofanzine.com/distorsion-guitare/amt-electronics/California-Sound/
+3. AMT Electronics CS California Sound | Effects Database: https://www.effectsdatabase.com/model/amt/cs

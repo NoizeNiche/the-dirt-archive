@@ -1,23 +1,40 @@
 # Sitek Guitar Electronics — Pandora Octave Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Pandora Octave Fuzz
 - **Builder:** Sitek Guitar Electronics
-- **Pedal:** Pandora Octave Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Sitek Guitar Electronics's Pandora Octave Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Pandora Octave Fuzz** by **Sitek Guitar Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Pandora is a versatile high gain fuzz pedal allowing you to dial in a variety of original tones ranging from warm fuzz to top-end rich sound and anything in between.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MKII, v2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Germanium Fuzz.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+By increasing the gain you can saturate the distortion and increase sustain.
+Open Pandora’s box of fuzz even more for a natural upper octave to become more prominent.
+Designed as an instrument of the wrath of Zeus, she fills your guitar tone with all the wickedness that was once hidden in her insidious box..
+
+## Sources checked
+1. Pandora Octave Fuzz | Sitek Guitar Electronics: https://www.sitek.rocks/product/pandora-fuzz/
+2. Sitek Guitar Electronics Pandora Octave Fuzz - Pedal of the Day: https://www.pedal-of-the-day.com/2020/09/21/sitek-guitar-electronics-pandora-octave-fuzz/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
