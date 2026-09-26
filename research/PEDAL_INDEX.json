@@ -1551,8 +1551,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 331,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/atv_boostcatdrive_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Advance Tube Technology",
@@ -1564,8 +1564,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Advance Tube Technology/Over Cat Drive.md",
       "image_source_url": "https://www.bananamusic.it/332801-large_default/advance-tube-tech-cat-overdrive-yellow-usato-030gcd268.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Advance Tube Technology",
@@ -1584,8 +1584,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 332,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/avt_virusdrive_002.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Adventure Audio",
