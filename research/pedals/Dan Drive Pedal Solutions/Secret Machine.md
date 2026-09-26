@@ -10,7 +10,7 @@
 And the V3 is now this new Secret Machine - which is engineered to sound closer to Doyle Bramhall&rsquo;s own favourite Zonk variant - with slightly brighter articulation and more aggression.
 
 ## Colorways
-- I am not impressed by the finish it is a piece of cloth glued onto the box.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
 - The verified evidence references: V1, V2, V3.
@@ -20,7 +20,7 @@ And the V3 is now this new Secret Machine - which is engineered to sound closer 
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Documented terms in the verified sources: Germanium Fuzz, BC109C, BC183C, germanium transistor.
+- Documented terms in the verified sources: Germanium Fuzz, BC109C, BC183C.
 - The archive records only the component information explicitly present in these sources.
 
 ## Diode
@@ -34,7 +34,7 @@ Austin Pride is a Germanium/Silicon switching Texas Square Face Fuzz with 4 knob
 
 ## Sources checked
 1. Guitar Pedal X - GPX Blog - DanDrive Pedal Adds 2 More Compact Pedals to the Core Range - the Secret Machine Fuzz and Working Man Fuzz: https://www.guitarpedalx.com/news/gpx-blog/dandrive-pedal-adds-2-more-compact-pedals-to-the-core-range---the-secret-machine-fuzz-and-working-man-fuzz
-2. STOMP BOX STEALS: FUZZ-DAN DRIVE PEDAL SOLUTION Secret Machine ...Zonk Machine clone: https://stompboxsteals.blogspot.com/2020/09/fuzz-dan-drive-pedal-solution-secret.html
+2. FUZZ-DAN DRIVE PEDAL SOLUTION Secret Machine ...Zonk Machine clone: https://stompboxsteals.blogspot.com/2020/09/fuzz-dan-drive-pedal-solution-secret.html
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

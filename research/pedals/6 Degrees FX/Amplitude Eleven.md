@@ -4,40 +4,33 @@
 - **Archive parent:** Amplitude Eleven
 - **Builder:** 6 Degrees FX
 - **Catalog type:** Overdrive
-- **Identity:** Two-channel Class A overdrive with separate gain structures and a clipping-mode switch.
+- **Identity:** 6 Degrees FX's Amplitude Eleven.
 
 ## What this pedal is
-Amplitude Eleven is a two-channel overdrive. The Blue side uses two gain stages while the Red side uses four, and the G.A.S. switch offers Germanium, asymmetrical and Silicon clipping modes. Active EQ controls give it a broad range from light breakup to heavier lead drive. [1][2]
+6 Degrees FX Amplitude ELEVEN Overdrive Pedal --> Contact Us Toronto (Bloor St.) ( Change?
 
 ## Colorways
-- Official/retailer examples document a **black enclosure with cream/white labeling** and distinctive two-channel controls.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Amplitude Eleven
-- Blue channel: two gain stages
-- Red channel: four gain stages
-- G.A.S. switch: Germanium / Asymmetrical / Silicon clipping modes
-- active EQ / preamp controls
-- fully hand wired in Vancouver
-- 9–12V DC external power [1]
-
-No numbered factory revision was verified.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No reliable numbered production revision sequence was found. Surviving documentation consistently describes the two-channel architecture and three clipping modes.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** The builder documents a Class A gain design, but exact transistor part numbers are not publicly established.
+- Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Germanium, asymmetrical and Silicon clipping modes are documented, but the exact component part numbers are not.
-- **Exact diode/device:** Unknown.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Amplitude Eleven covers a large spread of gain and clipping textures. The lower-gain Blue channel can stay articulate and dynamic, while the Red channel adds extra gain stages for thicker drive and lead sounds; the clipping switch changes the feel and harmonic character without requiring a different pedal. [1][2]
+6 Degrees FX Amplitude ELEVEN Overdrive Pedal --> Contact Us Toronto (Bloor St.) ( Change?
 
 ## Sources checked
-1. Effects Database — Amplitude Eleven: https://www.effectsdatabase.com/model/6degreesfx/amplitudeeleven
-2. Haar Guitars and Parts — 6 Degrees FX Amplitude Eleven: https://haarguitars.com/collections/6-degrees-fx
-3. Delicious Audio — Amplitude Eleven overview: https://www.deliciousaudio.com/6-degrees-fx-amplitude-eleven/
+1. 6 Degrees FX Amplitude ELEVEN Overdrive Pedal: https://www.long-mcquade.com/143448/Guitars/Guitar-Effects/6-Degrees-FX/Amplitude-ELEVEN-Overdrive-Pedal.htm
+
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

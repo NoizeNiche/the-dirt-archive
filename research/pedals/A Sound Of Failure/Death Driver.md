@@ -4,47 +4,35 @@
 - **Archive parent:** Death Driver
 - **Builder:** A Sound Of Failure
 - **Catalog type:** Overdrive
-- **Identity:** The Death Driver is an intentionally rough, texture-focused drive/distortion built around a single-transistor boost stage and asymmetrical clipping.
+- **Identity:** A Sound Of Failure's Death Driver.
 
 ## What this pedal is
-Death Driver is inspired by vintage consumer hi-fi and PA equipment being pushed beyond its normal operating range. Effects Database describes a single transistor used to boost and saturate the signal, with asymmetrical clipping and a Texture control that shifts the tonal emphasis. [1]
+A Sound Of Failure browse by type volume/amplification amplification preamp / clean boost browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal A Sound Of Failure Death Driver Published on December 2, 2023 A Sound Of Failure boost / preamp overdrive pedal Information A Sound Of Failure Inspired by vintage consumer hifi and PA units pushed to their limits, the DEATHDRIVER uses a single transistor to boost and saturate your signal.
 
 ## Colorways
-- A **black enclosure with large GAIN and VOLUME labels and a Texture control** is documented in surviving product imagery.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Death Driver production
-- Gain
-- Texture
-- Volume
-- single-transistor boost/saturation stage
-- asymmetrical clipping
-- Texture control for tonal emphasis
-- 9V center-negative operation [1]
-
-No numbered factory revision was verified.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No reliable numbered production revision sequence was found in the accessible sources.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** **Single transistor** boost/saturation stage. [1]
+- Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Exact clipping diode(s) are not publicly documented.
-- **Exact diode/device:** Unknown.
-- **Clipping behavior:** Asymmetrical clipping is documented. [1]
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Death Driver is intentionally rough and amp-like rather than polished, with asymmetrical clipping giving it an uneven, broken-up response. The Texture control can shift the emphasis between more high-end-focused aggression and a heavier low-end character, making it useful for pushing already-colored amps or pedals. [1]
+A Sound Of Failure Death Driver | Effects Database Skip to navigation Brands &#9660; 0-9...
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+A Sound Of Failure browse by type volume/amplification amplification preamp / clean boost browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal A Sound Of Failure Death Driver Published on December 2, 2023 A Sound Of Failure boost / preamp overdrive pedal Information A Sound Of Failure Inspired by vintage consumer hifi and PA units pushed to their limits, the DEATHDRIVER uses a single transistor to boost and saturate your signal.
 
 ## Sources checked
-1. Effects Database — A Sound Of Failure Death Driver: https://www.effectsdatabase.com/model/soundoffailure/deathdriver
-2. Effects Database — weekly brand introduction: https://www.effectsdatabase.com/updates/weekly/20231204
+1. A Sound Of Failure Death Driver | Effects Database: https://www.effectsdatabase.com/model/soundoffailure/deathdriver
 
 ## Photo
-- **Archive status:** **Confirmed**
-- **Image source:** Effects Database exact A Sound Of Failure Death Driver photograph.
-- **Image URL:** https://files.effectsdatabase.com/gear/thumbs/soundoffailure_deathdriver_001.jpg
-- **Source page:** https://www.effectsdatabase.com/model/soundoffailure/deathdriver
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

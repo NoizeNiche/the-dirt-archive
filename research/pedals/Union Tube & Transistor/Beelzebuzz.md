@@ -35,9 +35,9 @@ Volume and gain on a single control, twisted together in profane profundity, off
 1. Beelzebuzz &mdash; Union Tube Transistor: https://www.uniontone.com/shop/beelzebuzz
 2. Union Tube Transistor Beelzebuzz - What To Know Where To Buy: https://equipboard.com/items/union-tube-transistor-beelzebuzz
 3. Union Tube Transistor Beelzebuzz (BC) - Perfect Circuit: https://www.perfectcircuit.com/union-tube-transistor-beelzebuzz-bean-counter-altdemo.html
-4. Union Tube Transistor Beelzebuzz One-Knob Distortion Pedal - Reverb: https://reverb.com/item/92141109-union-tube-transistor-beelzebuzz-one-knob-distortion-pedal-bean-counter
-5. Beelzebuzz — Union Tube Transistor Distortion Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/union-tube-transistor/beelzebuzz
-6. Union Tube Transistor Beelzebuzz (Deluxe) EFFECTS - eBay: https://www.ebay.com/itm/306605090907
+4. Union Tube Transistor Beelzebuzz (Deluxe) EFFECTS - eBay: https://www.ebay.com/itm/306605090907
+5. Union Tube Transistor Beelzebuzz Distortion - Reverb: https://reverb.com/p/union-tube-and-transistor-beelzebuzz-distortion
+6. Beelzebuzz — Union Tube Transistor Distortion Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/union-tube-transistor/beelzebuzz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

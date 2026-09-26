@@ -20,12 +20,12 @@ At its heart, Barrows features a trio of carefully matched germanium transistors
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Documented terms in the verified sources: germanium transistor.
-- The archive records only the component information explicitly present in these sources.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
 Barrows Fuzz Attacker &mdash; EarthQuaker Devices Contact Us Use the form on the right to contact us.
@@ -37,9 +37,6 @@ Barrows pays homage to the iconic MKII circuit while adding modern refinements t
 2. EarthQuaker Devices Barrows Fuzz Pedal - White | Sweetwater: https://www.sweetwater.com/store/detail/Barrows--earthquaker-devices-barrows-fuzz-pedal
 3. EarthQuaker Devices Barrows Fuzz Attacker - Reverb: https://reverb.com/p/earthquaker-devices-barrows-fuzz-attacker
 4. EarthQuaker Devices Barrows review – titchy with a huge voice | Guitar.com: https://guitar.com/reviews/effects-pedal/hands-on-earthquaker-devices-barrows-review/
-5. EarthQuaker Devices Barrows Fuzz Attacker – United States: https://www.thomannmusic.com/earthquaker_devices_barrows_fuzz_attacker.htm
-6. EarthQuaker Devices Barrows Fuzz Attacker Effects Pedal Cream and Pink | Guitar Center: https://www.guitarcenter.com/EarthQuaker-Devices/Barrows-Fuzz-Attacker-Effects-Pedal-Cream-and-Pink-1500000468546.gc
-7. EarthQuaker Devices Barrows review – a titchy fuzz pedal with a huge voice | Pro Music News: https://www.promusic.news/bass/earthquaker-devices-barrows-review-a-titchy-fuzz-pedal-with-a-huge-voice
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

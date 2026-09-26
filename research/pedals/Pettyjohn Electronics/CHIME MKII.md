@@ -7,14 +7,14 @@
 - **Identity:** Pettyjohn Electronics's CHIME MKII.
 
 ## What this pedal is
-Pettyjohn Electronics Chime MKII Overdrive Pedal | Guitar pedal Cart Checkout MENU Home Guitar Electric guitar Bass guitar Acoustic Guitar Effects pedal Guitar pedal Vinyl record Accessory Home &#47; Guitar pedal &#47; Pettyjohn Electronics Chime MKII Overdrive Pedal Pettyjohn Electronics Chime MKII Overdrive Pedal SKU: ULS719624210203 Category: Guitar pedal $233.22 $116.61 In stock Pettyjohn Electronics Chime MKII Overdrive Pedal quantity Add to cart Description The Pettyjohn CHIME MKII is a major update to our signature low-medium gain overdrive.
+Pettyjohn Electronics CHIME MKII Overdrive quantity Add to cart SKU: HYYYT587485 Category: Overdrive and Boost 84 people are viewing this right now Estimated Delivery: Oct 1 - Oct 6 Free Shipping & Returns: On all orders Description Description From Pettyjohn: The Pettyjohn CHIME MKII is a major update to our signature low-medium gain overdrive.
 
 ## Colorways
-- image/svg+xml Add to cart -75% Fuzzrocious Grey Stache Muff Fuzz Black/Orange &#036; 145.00 Original price was: &#036;145.00.
-- image/svg+xml Add to cart -75% Fuzzrocious Grey Stache Muff Fuzz w/ Diode Mod Black/Orange &#036; 160.00 Original price was: &#036;160.00.
+- image/svg+xml Add to cart -75% Bogner Ecstasy Blue Overdrive Pedal &#036; 299.99 Original price was: &#036;299.99.
+- image/svg+xml Add to cart -75% Fuzzrociousn Med/High Overdrive w/Momentary Feedback Mod Black/Orange &#036; 175.00 Original price was: &#036;175.00.
 
 ## Versions and factory options
-- The verified evidence references: MKII, V3.
+- The verified evidence references: MKII.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
@@ -29,15 +29,16 @@ Pettyjohn Electronics Chime MKII Overdrive Pedal | Guitar pedal Cart Checkout ME
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Pettyjohn Electronics Chime MKII Overdrive Pedal | Guitar pedal Cart Checkout MENU Home Guitar Electric guitar Bass guitar Acoustic Guitar Effects pedal Guitar pedal Vinyl record Accessory Home &#47; Guitar pedal &#47; Pettyjohn Electronics Chime MKII Overdrive Pedal Pettyjohn Electronics Chime MKII Overdrive Pedal SKU: ULS719624210203 Category: Guitar pedal $233.22 $116.61 In stock Pettyjohn Electronics Chime MKII Overdrive Pedal quantity Add to cart Description The Pettyjohn CHIME MKII is a major update to our signature low-medium gain overdrive.
-You may also like Crazy Tube Circuits Stardust V3 Overdrive Pedal &#036; 178.62 Original price was: &#036;178.62.
-Buy now Tsakalis AudioWorks Room #40 Marshall Mojo In A Box Overdrive Pedal &#036; 217.62 Original price was: &#036;217.62.
+Pettyjohn Electronics CHIME MKII Overdrive FREE SHIPPING ON ORDERS OVER $50 Skip to navigation Skip to content Shop Electric Guitars Acoustic Drums \\ Grand Pianos Guitars Accessories &#038; More UPRIGHT PIANOS Saxophone Mouthpieces Guitar Parts Tools Amps &#8211; Guitar Combos Ukuleles Accordions Cello Strings Hand Drums \\ Microphones Login / Register image/svg+xml 0 Home &#47; Overdrive and Boost &#47; Pettyjohn Electronics CHIME MKII Overdrive Previous Xotic Super Sweet Booster &#036; 159.00 Original price was: &#036;159.00.
+-75% Pettyjohn Electronics CHIME MKII Overdrive &#36; 299.00 Original price was: &#036;299.00.
+Pettyjohn Electronics CHIME MKII Overdrive quantity Add to cart SKU: HYYYT587485 Category: Overdrive and Boost 84 people are viewing this right now Estimated Delivery: Oct 1 - Oct 6 Free Shipping & Returns: On all orders Description Description From Pettyjohn: The Pettyjohn CHIME MKII is a major update to our signature low-medium gain overdrive.
 
 ## Sources checked
 1. Pettyjohn Electronics Chime MKII — Overdrive Pedal: https://equipboard.com/items/pettyjohn-electronics-chime-mkii-overdrive-guitar-pedal
-2. Pettyjohn Electronics Chime MKII Pedal - musicequipmentbase.com: https://www.musicequipmentbase.com/product/pettyjohn-electronics-chime-mkii-pedal/
-3. Pettyjohn Electronics Chime MKII Overdrive Pedal | Guitar pedal: https://www.guitarrockly.com/product/pettyjohn-electronics-chime-mkii-overdrive-pedal/
-4. Pettyjohn Electronics CHIME MKII Overdrive: https://www.instrumentharmony.com/products/pettyjohn-electronics-chime-mkii-overdrive/
+2. Pettyjohn Electronics CHIME MKII Overdrive - www.refinemusicshop.com: https://www.refinemusicshop.com/product/pettyjohn-electronics-chime-mkii-overdrive/
+3. Pettyjohn Electronics Chime MKII Pedal - musicequipmentbase.com: https://www.musicequipmentbase.com/product/pettyjohn-electronics-chime-mkii-pedal/
+4. Pettyjohn Electronics Chime MKII Overdrive Pedal | Guitar pedal: https://www.guitarrockly.com/product/pettyjohn-electronics-chime-mkii-overdrive-pedal/
+5. Pettyjohn Electronics CHIME MKII Overdrive: https://www.instrumentharmony.com/products/pettyjohn-electronics-chime-mkii-overdrive/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

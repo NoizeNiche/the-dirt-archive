@@ -35,9 +35,9 @@ Walrus Audio 385 Overdrive MKII Guitar Effects Pedal - Yellow | Guitar Center Pr
 
 ## Sources checked
 1. Walrus Audio 385 Overdrive MkII Effects Pedal - Sweetwater: https://www.sweetwater.com/store/detail/385ODmk2Bk--walrus-audio-385-overdrive-mkii-effects-pedal-black
-2. open prime modal: https://www.amazon.com/clp/B0CHN2H537
-3. Walrus Audio 385 Overdrive MKII Guitar Effects Pedal - Yellow | Guitar Center: https://www.guitarcenter.com/Walrus-Audio/385-Overdrive-MKII-Effects-Pedal-Yellow-1500000412067.gc
-4. Walrus Audio 385 Overdrive MKII - Reverb: https://reverb.com/p/walrus-audio-385-overdrive-mkii
+2. Walrus Audio 385 Overdrive MKII - Reverb: https://reverb.com/p/walrus-audio-385-overdrive-mkii
+3. open prime modal: https://www.amazon.com/clp/B0CHN2H537
+4. Walrus Audio 385 Overdrive MKII Guitar Effects Pedal - Yellow | Guitar Center: https://www.guitarcenter.com/Walrus-Audio/385-Overdrive-MKII-Effects-Pedal-Yellow-1500000412067.gc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

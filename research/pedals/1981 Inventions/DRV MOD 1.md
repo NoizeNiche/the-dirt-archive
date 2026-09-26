@@ -4,40 +4,33 @@
 - **Archive parent:** DRV MOD 1
 - **Builder:** 1981 Inventions
 - **Catalog type:** Distortion
-- **Identity:** The original through-hole DRV V1 configuration presented by 1981 Inventions as the classic MOD 1 version.
+- **Identity:** 1981 Inventions's DRV MOD 1.
 
 ## What this pedal is
-DRV MOD 1 preserves the original DRV V1 circuit and is built with old-style through-hole components on the original circuit board. 1981 Inventions describes it as the original configuration, with a Burr Brown OPA2134 op amp and the original op amp supplied on sockets for swapping. [1]
+1981 Inventions's DRV MOD 1 is cataloged as a Distortion pedal.
 
 ## Colorways
-- Documented production examples include **black** and **white** finishes.
-- The separately listed DRV MOD 1 (WHITE) catalog entry is treated as the white finish of this same MOD 1 identity.
+- DRV MOD 1 (WHITE) &ndash; 1981 Inventions Skip to content HOME FAQ ABOUT MATT&#39;S CLOSET CONTACT Log in Country/region Canada | CAD $ Search Afghanistan AFN ؋ Åland Islands EUR € Albania ALL L Algeria DZD د.ج Andorra EUR € Angola USD $ Anguilla XCD $ Antigua Barbuda XCD $ Argentina USD $ Armenia AMD դր.
 
 ## Versions and factory options
-### DRV MOD 1 / V1
-- Original V1 through-hole circuit
-- Burr Brown OPA2134 op amp
-- original op amp included on socket
-- zero-gain mode
-- original-style knobs
-- lightweight aluminum enclosure on the current reissue run
-- standard 9V power [1][2]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-The defining change from the standard DRV is the return to the original V1 circuit and through-hole construction, plus the socketed op-amp arrangement and zero-gain mode. The archive keeps white and black cosmetic examples under the same MOD 1 parent.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** The distortion circuit is op-amp based; exact active devices beyond the documented op-amps are not fully published.
-- **Exact transistor/device:** Not applicable as a documented transistor specification.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Exact production clipping diodes are not publicly documented in the factory sources checked.
-- **Exact diode/device:** Unknown.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-MOD 1 is described as clearer, warmer and thicker than the later standard circuit, with a distinctive zero-gain setting that leaves mostly the preamp portion active. That setting can produce a dark, thick clean boost/preamp sound, while adding DRV brings the circuit back toward its normal distortion range. [1]
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. 1981 Inventions — DRV MOD 1 (WHITE): https://1981inventions.com/products/drv-mod-1
-2. Reverb — 1981 Inventions DRV Overdrive MOD 1: https://reverb.com/p/1981-inventions-drv-overdrive-mod-1
-3. Pedal Collaborative — DRV MOD 1 overview: https://www.pedalcollaborative.com/
+1. DRV MOD 1 (WHITE) &ndash; 1981 Inventions: https://1981inventions.com/products/drv-mod-1
+
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

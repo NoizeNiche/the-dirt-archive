@@ -34,8 +34,8 @@ We wanted a fuzz that took from the gain of a Tone Bender but the ability to cle
 ## Sources checked
 1. Sone Bender &mdash; Union Tube Transistor: https://www.uniontone.com/shop/sone-bender
 2. Union Tube Transistor Sone Bender - What To Know Where To Buy: https://equipboard.com/items/union-tube-transistor-sone-bender
-3. Sone Bender — Union Tube Transistor Fuzz Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/union-tube-transistor/sone-bender
-4. Union Tube Transistor Sone Bender Germanium Pedal - eBay: https://www.ebay.com/itm/227533669799
+3. Union Tube Transistor Sone Bender - Effects Database: https://www.effectsdatabase.com/model/uniontubetransistor/sonebender
+4. Union Tube Transistor Sone Bender Fuzz - Reverb: https://reverb.com/p/union-tube-and-transistor-sone-bender-fuzz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

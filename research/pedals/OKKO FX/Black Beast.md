@@ -15,7 +15,7 @@ Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal &#36;120.00 &#36;239.9
 - Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal &#36;120.00 &#36;239.99 Add to cart SKU: WATWVCP1 Category: Pedal More info Shipping Reviews Massive Fuzz / Distortion for Guitar and Bass The Black Beast is a massive sounding fuzz/distortion pedal for guitar or bass.
 
 ## Versions and factory options
-- The verified evidence references: MKII, Mk II.
+- The verified evidence references: Mk II.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
@@ -35,12 +35,12 @@ Home Guitar Electric Guitar Acoustic Guitar Bass Guitars Classical Guitar String
 Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal &#36;120.00 &#36;239.99 Add to cart SKU: WATWVCP1 Category: Pedal More info Shipping Reviews Massive Fuzz / Distortion for Guitar and Bass The Black Beast is a massive sounding fuzz/distortion pedal for guitar or bass.
 
 ## Sources checked
-1. Okko Black Beast - Effects Database: https://www.effectsdatabase.com/model/okko/blackbeast
-2. Okko FX Black Beast Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/5064/okko-fx-black-beast
-3. Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal - Acoustic Guitar Strings That Bring Your Sound to Life: https://www.guitarstringz.com/product/okko-fx-black-beast-fuzz-distortion-guitar-and-bass-pedal/
-4. OKKO FX Black Beast - Reverb: https://reverb.com/item/583580-okko-fx-black-beast
-5. Black Beast — Okko FX Distortion Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/okko-fx/black-beast
-6. Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal: https://www.goodmusicalinstrument.com/product/okko-fx-black-beast-fuzz-distortion-guitar-and-bass-pedal/
+1. Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal - Acoustic Guitar Strings That Bring Your Sound to Life: https://www.guitarstringz.com/product/okko-fx-black-beast-fuzz-distortion-guitar-and-bass-pedal/
+2. OKKO FX Black Beast Fuzz - Reverb: https://reverb.com/item/35456093-okko-fx-black-beast-fuzz
+3. Okko Black Beast - Effects Database: https://www.effectsdatabase.com/model/okko/blackbeast
+4. Okko FX Black Beast Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/5064/okko-fx-black-beast
+5. Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal: https://www.goodmusicalinstrument.com/product/okko-fx-black-beast-fuzz-distortion-guitar-and-bass-pedal/
+6. OKKO FX Black Beast Fuzz | USA - musicstore.com: https://www.musicstore.com/en_US/USD/OKKO-FX-Black-Beast-Fuzz-/art-GIT0033110-000
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -4,41 +4,40 @@
 - **Archive parent:** DRV
 - **Builder:** 1981 Inventions
 - **Catalog type:** Distortion
-- **Identity:** The original DRV family design, preceding the later MOD 1, MOD 2 and DRV2 entries.
+- **Identity:** 1981 Inventions's DRV.
 
 ## What this pedal is
-DRV is 1981 Inventions' original distortion design, developed with Jon Ashley of Bondi Effects. Independent pedal references describe it as a heavily refined white-face Rat-family circuit, but the important archive distinction is that DRV is the original 1981 Inventions version, separate from the later MOD and DRV2 generations. [1][2]
+Review: 1981 Inventions DRV | Guitar.com News Reviews Guides Features Magazine Tuner Deals Related Brands 1981 Inventions Related Tags # Distortion # Effects When you purchase through affiliate links on Guitar.com, you may contribute to our site through commissions.
 
 ## Colorways
-- Original production examples are documented in **white** and other finishes.
-- Later DRV-family finishes include black, Hyperfade and other special finishes, but those are not treated as separate DRV generations unless the builder identifies a circuit change.
+- There’s no getting around it, it’s a gorgeous looking box in vaporwave, blacked out, pink, solid silver or any other of the myriad colourways offered in small-batch drops by 1981 Inventions.
+- In this instance we have the original design on white in all its negative-space, Bauhaus glory.
+- 1981 Inventions browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal 1981 Inventions DRV Published on January 20, 2019 1981 Inventions distortion pedal Blackout edition Blackout DeLorean Silver DeLorean Silver Delorean White Light Delorean White Light Dermike Edition DRV2 (The Buffalo) Dermike Edition DRV2 Blue DRV2 Blue DRV2 Hyperfade DRV2 Hyperfade DRV2 Indigo DRV2 Indigo Luke Ansell Ltd Handpainted #1 of 10 Luke Ansell Ltd Luke Ansell Ltd Handpainted #5 of 10 Luke Ansell Ltd Odd Stuff Odd Stuff Pink LED Pink Pink LED Pink SpagheDRV (DRV2) SpagheDRV The Professional LED: DRV2 with LED clipping The Professional LED Wes Anderson edition Wes Anderson Information 1981 Inventions The DRV is a distortion pedal, based on another pedal with a whiteface graphic.
 
 ## Versions and factory options
-### Original DRV
-- Dedicated gain/distortion control and CUT tone control
-- Separate always-on preamp behavior within the circuit
-- Internal 18V operation with standard 9V external power
-- Later standard examples are documented as having more low-end weight and a different CUT sweep than the earliest examples. [1][3]
-
-### DeLorean / special DRV examples
-Some documented special builds used different components and cosmetic treatments. Those individual builds are not generalized to every standard DRV. [3]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-The original DRV evolved during production, with documented changes to low-end response, CUT behavior and power handling. The archive keeps those changes under the DRV parent rather than splitting every cosmetic or small production variation into a new pedal identity.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Exact factory active-device details are not publicly established in the reliable sources checked.
+- Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Exact standard-production clipping diodes were not established.
-- **Exact diode/device:** Unknown.
-- **Variant note:** A documented DeLorean Germanium version is associated with NOS 1N34A diodes, but that is a specific variant and not a claim about standard DRV production. [3]
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
 
 ## Sound
-DRV is a relatively refined, articulate distortion that can move from very light clipping and preamp-like tones into a thicker, aggressive rock distortion. Its CUT control and strong response to the guitar's volume make it useful for shaping everything from almost-clean drive to heavier, more compressed sounds. [1][2]
+Review: 1981 Inventions DRV | Guitar.com News Reviews Guides Features Magazine Tuner Deals Related Brands 1981 Inventions Related Tags # Distortion # Effects When you purchase through affiliate links on Guitar.com, you may contribute to our site through commissions.
+Learn more Review Overview Our rating 10 Our verdict Far more than an Instagram sensation, this is one of the best overdrive units we’ve ever heard.
+It’s a tale as old as time, a tone-obsessed guitarist – frustrated by the capabilities and quality of existing units on the market – begins a quest for new horizons of sonic excellence.
 
 ## Sources checked
-1. Effects Database — 1981 Inventions DRV: https://www.effectsdatabase.com/model/1981inventions/drv
-2. 1981 Inventions — DRV family/current product material: https://1981inventions.com/collections/drv
-3. Matthew Hoopes / 1981 Inventions — DRV history and variant notes: https://1981inventions.com/
+1. DRV &ndash; 1981 Inventions: https://1981inventions.com/collections/drv
+2. 1981 Inventions DRV Overdrive - Reverb: https://reverb.com/p/1981-inventions-drv-overdrive
+3. Review: 1981 Inventions DRV | Guitar.com: https://guitar.com/reviews/effects-pedal/review-1981-inventions-drv/
+4. 1981 Inventions DRV | Effects Database: https://www.effectsdatabase.com/model/1981inventions/drv
+
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

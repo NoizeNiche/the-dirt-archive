@@ -1,23 +1,41 @@
 # Walrus Audio — 385 Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** 385 Overdrive
 - **Builder:** Walrus Audio
-- **Pedal:** 385 Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Walrus Audio's 385 Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **385 Overdrive** by **Walrus Audio** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Walrus Audio's 385 Overdrive is cataloged as a Overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- .us Delivering to Des Moines 50307 Update location All Select the department you want to search in All Departments Alexa Skills Amazon Autos Amazon Devices Amazon Global Store Amazon Haul Amazon One Medical Amazon Pharmacy Amazon Resale Appliances Apps & Games Arts, Crafts & Sewing Audible Books & Originals Automotive Parts & Accessories Baby Beauty & Personal Care Books CDs & Vinyl Cell Phones & Accessories Clothing, Shoes & Jewelry Women's Clothing, Shoes & Jewelry Men's Clothing, Shoes & Jewelry Girl's Clothing, Shoes & Jewelry Boy's Clothing, Shoes & Jewelry Baby Clothing, Shoes & Jewelry Collectibles & Fine Art Computers Credit and Payment Cards Digital Music Electronics Garden & Outdoor Gift Cards Grocery & Gourmet Food Handmade Health, Household & Baby Care Home & Business Services Home & Kitchen Industrial & Scientific Just for Prime Kindle Store Luggage & Travel Gear Luxury Stores Magazine Subscriptions Movies & TV Musical Instruments Office Products Pet Supplies Premium Beauty Prime Video Smart Home Software Sports & Outdoors Subscribe & Save Subscription Boxes Tools & Home Improvement Toys & Games Under $10 Video Games Whole Foods Market Search Amazon EN Hello, sign in Account & Lists Returns & Orders 0 Cart All Early Prime Deals Groceries Coupons Prime Pharmacy Amazon Home Automotive Registry Music Whole Foods Audible Video Games New Releases Baby Fashion Works with Alexa Sports & Outdoors Smart Home Toys & Games Custom Products Gift Shop Subscribe & Save Amazon Haul Best Sellers Kindle Books Books TV & Video Luxury Gift Cards Handmade Your pick Walrus Audio Walrus Audio 385 Overdrive mkII, Black 4.6 (9) 50+ viewed in past month $249.99 $ 249 .
+- Add to cart Product details Brand Walrus Audio Style Compact Color Black Item Weight 0.43 kg Voltage 9 volts Amperage 100 milliamps <div class="_cDEzb_root_2YIPD" data-is-app-state-compressed="false" data-serialized-app-state="{&quot;intuitionState&quot;:{&quot;version&quot;:&quot;1&quot;,&quot;attributeList&quot;:[],&quot;attributeType&quot;:{},&quot;contextAsin&quot;:&quot;B0CHN2H537&quot;,&quot;contextAsinSource&quot;:&quot;0&quot;,&quot;missionInfo&quot;:&quot;&quot;,&quot;amazonElementPillList&quot;:[{&quot;value&quot;:&quot;allPrime&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;allPrime&quot;]},{&quot;value&quot;:&quot;freeOneDay&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;freeOneDay&quot;]},{&quot;value&quot;:&quot;freeSameDay&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;freeSameDay&quot;]},{&quot;value&quot;:&quot;freeOvernight&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;freeOvernight&quot;]},{&quot;value&quot;:&quot;fourStarsAndAbove&quot;,&quot;typeId&quot;:&quot;rating&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;fourStarsAndAbove&quot;]},{&quot;value&quot;:&quot;threeStarsAndAbove&quot;,&quot;typeId&quot;:&quot;rating&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;threeStarsAndAbove&quot;]},{&quot;value&quot;:&quot;twoStarsAndAbove&quot;,&quot;typeId&quot;:&quot;rating&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValu
+
+## Versions and factory options
+- The verified evidence references: MkII, mkII.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+.us Delivering to Des Moines 50307 Update location All Select the department you want to search in All Departments Alexa Skills Amazon Autos Amazon Devices Amazon Global Store Amazon Haul Amazon One Medical Amazon Pharmacy Amazon Resale Appliances Apps & Games Arts, Crafts & Sewing Audible Books & Originals Automotive Parts & Accessories Baby Beauty & Personal Care Books CDs & Vinyl Cell Phones & Accessories Clothing, Shoes & Jewelry Women's Clothing, Shoes & Jewelry Men's Clothing, Shoes & Jewelry Girl's Clothing, Shoes & Jewelry Boy's Clothing, Shoes & Jewelry Baby Clothing, Shoes & Jewelry Collectibles & Fine Art Computers Credit and Payment Cards Digital Music Electronics Garden & Outdoor Gift Cards Grocery & Gourmet Food Handmade Health, Household & Baby Care Home & Business Services Home & Kitchen Industrial & Scientific Just for Prime Kindle Store Luggage & Travel Gear Luxury Stores Magazine Subscriptions Movies & TV Musical Instruments Office Products Pet Supplies Premium Beauty Prime Video Smart Home Software Sports & Outdoors Subscribe & Save Subscription Boxes Tools & Home Improvement Toys & Games Under $10 Video Games Whole Foods Market Search Amazon EN Hello, sign in Account & Lists Returns & Orders 0 Cart All Early Prime Deals Groceries Coupons Prime Pharmacy Amazon Home Automotive Registry Music Whole Foods Audible Video Games New Releases Baby Fashion Works with Alexa Sports & Outdoors Smart Home Toys & Games Custom Products Gift Shop Subscribe & Save Amazon Haul Best Sellers Kindle Books Books TV & Video Luxury Gift Cards Handmade Your pick Walrus Audio Walrus Audio 385 Overdrive mkII, Black 4.6 (9) 50+ viewed in past month $249.99 $ 249 .
+Add to cart Product details Brand Walrus Audio Style Compact Color Black Item Weight 0.43 kg Voltage 9 volts Amperage 100 milliamps <div class="_cDEzb_root_2YIPD" data-is-app-state-compressed="false" data-serialized-app-state="{&quot;intuitionState&quot;:{&quot;version&quot;:&quot;1&quot;,&quot;attributeList&quot;:[],&quot;attributeType&quot;:{},&quot;contextAsin&quot;:&quot;B0CHN2H537&quot;,&quot;contextAsinSource&quot;:&quot;0&quot;,&quot;missionInfo&quot;:&quot;&quot;,&quot;amazonElementPillList&quot;:[{&quot;value&quot;:&quot;allPrime&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;allPrime&quot;]},{&quot;value&quot;:&quot;freeOneDay&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;freeOneDay&quot;]},{&quot;value&quot;:&quot;freeSameDay&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;freeSameDay&quot;]},{&quot;value&quot;:&quot;freeOvernight&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;freeOvernight&quot;]},{&quot;value&quot;:&quot;fourStarsAndAbove&quot;,&quot;typeId&quot;:&quot;rating&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;fourStarsAndAbove&quot;]},{&quot;value&quot;:&quot;threeStarsAndAbove&quot;,&quot;typeId&quot;:&quot;rating&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;threeStarsAndAbove&quot;]},{&quot;value&quot;:&quot;twoStarsAndAbove&quot;,&quot;typeId&quot;:&quot;rating&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValu
+
+## Sources checked
+1. Walrus Audio 385 Overdrive - Reverb: https://reverb.com/p/walrus-audio-385-overdrive
+2. Walrus Audio 385 Overdrive MkII Effects Pedal - Sweetwater: https://www.sweetwater.com/store/detail/385ODmk2Bk--walrus-audio-385-overdrive-mkii-effects-pedal-black
+3. open prime modal: https://www.amazon.com/clp/B0CHN2H537
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
