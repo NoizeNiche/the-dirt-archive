@@ -1,0 +1,12 @@
+{
+  "builder":"A/DA (Analog/Digital Associates)",
+  "pedal":"Final Phase",
+  "status":"VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count":1,
+  "sources":[
+    {"url":"https://www.effectsdatabase.com/model/ada/finalphase","title":"A/DA Final Phase | Effects Database","source_kind":"effects_database"}
+  ],
+  "verified_points":["voltage-controlled analog phaser with integrated overdrive","Lee Powell original design dated 1977","early Vactec opto-coupled implementation","1978 switched-capacitor production design","Sweep Rate/Sweep Modulation/Range/Intensity/Overdrive controls","later reissue history including 2009"],
+  "unknowns":["complete revision map across all reissues","exact transistor devices","exact clipping diode devices"],
+  "next_action":"Merge deep research status through the canonical research pipeline and preserve original/reissue distinctions."
+}
