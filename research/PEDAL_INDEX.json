@@ -5484,8 +5484,8 @@
       "image_source_page": "https://tonewolf.com/products/automat-rara-avis-fuzz-pedal-2025-black",
       "image_source_page_verified": true,
       "image_source_url": "https://tonewolf.com/cdn/shop/files/automat-rara-avis-fuzz-pedal-2025-black-4_1200x1200.jpg?v=1763763259",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Automat Audio Devices",
@@ -10349,8 +10349,8 @@
       "research_record": "./research/pedals/PRP Batch 089/Baby Boom OD-19 Overdrive.md",
       "image_source_url": "https://starlitedistribution.ca/wp-content/uploads/2025/11/AD19-box.jpg",
       "image_source_page": "https://starlitedistribution.ca/product/biyang-od-19-overdrive-2-modes-of-drive-baby-boom-series-guitar-effects-pedal-true-bypass/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -10383,8 +10383,8 @@
       "research_record": "./research/pedals/PRP Batch 089/BL-8 Blue.md",
       "image_source_url": "https://rockstockstores.com/wp-content/uploads/2022/09/vu2p4qe7dd4bbeduvhf3-600x651.jpg",
       "image_source_page": "https://rockstockstores.com/product/biyang-tonefancier-bl-8-blue-overdrive/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -17316,8 +17316,8 @@
       "research_record": "./research/pedals/PRP Batch 142/cp-516-orange-burst.md",
       "image_source_url": "http://globalvintage.com.au/cdn/shop/files/orangeburst_Caline.jpg?v=1740643092",
       "image_source_page": "https://globalvintage.com.au/products/caline-cp-516-orange-burst-overdrive-versatile-boost-distortion-drive-pedal",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -17350,8 +17350,8 @@
       "research_record": "./research/pedals/PRP Batch 142/cp-54-the-big-orange-crushing-overdrive.md",
       "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/caline-the-big-orange-crushing-overdrive-effects-pedal.jpg",
       "image_source_page": "https://www.effects-pedals.info/p/caline-cp-54-the-big-orange-overdrive/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -29625,8 +29625,8 @@
       "image": "./assets/pedals/devi-ever-fx/krackle-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Devi Ever : FX/Krackle Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever : FX",
@@ -29637,8 +29637,8 @@
       "image": "./assets/pedals/devi-ever-fx/never-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Devi Ever : FX/Never Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever : FX",
@@ -33442,8 +33442,8 @@
       "image": "./assets/pedals/frantone-electronics/brooklyn-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Frantone Electronics/Brooklyn Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Friedman Amplification",

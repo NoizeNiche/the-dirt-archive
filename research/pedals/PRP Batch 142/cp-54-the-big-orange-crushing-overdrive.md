@@ -16,3 +16,18 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for identity, controls and broad Orange-style lineage; medium for continuity with earlier Orange Burst models; low for internal components.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp54 ; https://www.rockboard.de/en/pedalPedia/Caline/CP-54-The-Big-Orange-Overdrive/68976395/ ; https://modulargrid.com/p/caline-cp-54-the-big-orange
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-54 The Big Orange - Crushing Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Caline CP-54 The Big Orange - Crushing Overdrive
+Easy to Control GAIN is used to set the gain of distortion.
+Setting the stage for rich layers of high gain tube-amp saturation.
+
+### Sources checked in this pass
+1. Caline CP-54 The Big Orange - Crushing Overdrive | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp54

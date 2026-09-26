@@ -16,3 +16,18 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for identity, controls, broad tone and published specs; medium for generation/lineage continuity; low for internal components.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cp500/orangeburst ; https://onethousandpedals.com/pedal/caline-cp-516-orange-burst ; https://www.talkbass.com/threads/cheap-always-mild-drive-pedal.1663964/page-2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-516 Orange Burst is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Versatile Boost,distortion,drive pedal You need to choose options for product.
+The four main control knobs - Gain, Treble, Vol, and Bass gives the flexibility to go from a subtle boost to a boost with fuzz.
+The versitility of the EQ will provide a highy controllable dynamic range , from a near clean boost to a very organic sounding overdrive.
+
+### Sources checked in this pass
+1. Caline CP-516 Orange Burst Overdrive.Boost,distortion,drive pedal: https://globalvintage.com.au/products/caline-cp-516-orange-burst-overdrive-versatile-boost-distortion-drive-pedal

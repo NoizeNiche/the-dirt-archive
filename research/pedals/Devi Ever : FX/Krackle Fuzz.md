@@ -35,3 +35,14 @@ Amazon.com: 2014 Devi Ever : FX Krackle Fuzz : Musical Instruments Skip to Main 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Devi Ever : FX's Krackle Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Devi Ever : FX Krackle Fuzz | Reverb: https://reverb.com/item/81877756-devi-ever-fx-krackle-fuzz
+2. Amazon.com: 2014 Devi Ever : FX Krackle Fuzz : Musical Instruments: https://www.amazon.com/2014-Devi-Ever-Krackle-Fuzz/dp/B00J2FSCGI

@@ -51,3 +51,19 @@ Rara Avis moves from thick, raunchy fuzz to a tighter distortion-leaning respons
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://tonewolf.com/products/automat-rara-avis-fuzz-pedal-2025-black
 - **Archive note:** Exact black examples are documented, but no stable archive image asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Automat Rara Avis Fuzz Pedal 2025 - Black
+
+### Verified color/finish evidence
+- Automat Rara Avis Fuzz Pedal 2025 - Black
+
+### Verified sound evidence
+Automat Rara Avis Fuzz Pedal 2025 - Black
+
+### Sources checked in this pass
+1. Automat Rara Avis Fuzz Pedal 2025 - Black | Tone Wolf: https://tonewolf.com/products/automat-rara-avis-fuzz-pedal-2025-black

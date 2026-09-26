@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Devi Ever : FX's Never Drive is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. || OFFICIAL || devi ever : fx - Never Drive - high gain | Reverb: https://reverb.com/item/88330918-official-devi-ever-fx-never-drive-high-gain-octavia-metal-fuzz
+2. Devi Ever : FX Never Drive - YouTube: https://www.youtube.com/watch?v=rfIVRkysduY
