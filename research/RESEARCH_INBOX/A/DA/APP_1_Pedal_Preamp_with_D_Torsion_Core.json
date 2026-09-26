@@ -1,0 +1,13 @@
+{
+  "builder":"A/DA (Analog/Digital Associates)",
+  "pedal":"APP-1 Pedal Preamp with D-Torsion Core",
+  "status":"VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count":2,
+  "sources":[
+    {"url":"https://www.effectsdatabase.com/model/ada/app1","title":"A/DA APP-1 Pedal Preamp with D-Torsion Core | Effects Database","source_kind":"effects_database"},
+    {"url":"https://www.manualslib.com/manual/634014/A-Da-App-1.html","title":"A/DA APP-1 User Manual V.2","source_kind":"manual"}
+  ],
+  "verified_points":["two-channel all-analog preamp","D-TORSION CORE dynamics control","Clean/OD/Distortion voicing documentation","dual-buffered effects loop","post-Master boost up to about +16 dB","tuner output","true/hardwire bypass","hand made in California"],
+  "unknowns":["exact transistor devices","exact diode devices","complete hardware revision history"],
+  "next_action":"Merge deep research status through the canonical research pipeline; do not hand-edit the derived queue."
+}
