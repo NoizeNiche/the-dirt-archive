@@ -363,8 +363,8 @@ function researchRecordSourcePages(entry) {
     const filePath = path.join(ROOT, relative);
     if (!fs.existsSync(filePath)) return [];
     const markdown = fs.readFileSync(filePath, 'utf8');
-    const sourceSection = markdown.match(/## Sources checked[\\s\\S]*?(?=\\n## |$)/i)?.[0] || '';
-    const urls = sourceSection.match(/https?:\\/\\/[^\\s)]+/g) || [];
+    const sourceSection = markdown.match(/## Sources checked[\s\S]*?(?=\n## |$)/i)?.[0] || '';
+    const urls = sourceSection.match(/https?:\/\/[^\s)]+/g) || [];
     return [...new Set(urls.map(u => u.replace(/[.,]+$/, '')))].slice(0, 6);
   } catch {
     return [];
