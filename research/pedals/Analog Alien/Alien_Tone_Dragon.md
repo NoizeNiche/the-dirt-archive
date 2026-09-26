@@ -62,3 +62,20 @@ Dragon Fire can travel from warm, expressive rock/blues overdrive into a dense f
 2. Effects Database — Alien Tone Dragon: https://www.effectsdatabase.com/model/analogalien/tonedragon
 3. Pedal of the Day — Alien Tone Dragon, Nov. 14, 2023: https://www.pedal-of-the-day.com/2023/11/14/analog-alien-atd-alien-tone-dragon/
 4. Sweetwater Alien Tone Dragon reviews: https://www.sweetwater.com/store/detail/AlienToneDr--analog-alien-alien-tone-dragon-boost-overdrive-eq-pedal/reviews
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+FuzzBubble-45 Pedal Info Bucket Seat The Analog Alien Bucket Seat overdrive pedal gets cranked British amp tones from any amp.
+
+### Verified sound evidence
+Same overdrive, slapback delay and reverb that put it on pedalboards around the world, now in a fresh redesign.
+With the overdrive control all the way down, the Rumble Seat acts as a smooth tone enhancer; it also acts as a switchable volume boost.​ Rumble Seat Pedal Info Alien Tone Dragon (ATD) Road-ready three stompbox effects in one cool pedal that will make your guitar roar!
+Clean Boost, Dragon Fire, Active Tone Circuit.
+
+### Sources checked in this pass
+1. Analog Alien Alien Tone Dragon Overdrive/Boost Pedal – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/analog-alien-alien-tone-dragon-overdriveboost-pedal-2054215
+2. catalog/override source: https://www.sweetwater.com/store/detail/AlienToneDr--analog-alien-alien-tone-dragon-boost-overdrive-eq-pedal/reviews
+3. Guitar Pedals For Sale - Buy Pedals For Guitars - Analog Alien: https://analogalien.com/

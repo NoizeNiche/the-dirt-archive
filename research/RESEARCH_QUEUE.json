@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T09:49:37.934617+00:00",
+  "generated_at": "2026-09-26T09:51:52.977750+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2722,
     "complete": 2722,
     "research_pending": 0,
-    "deep_research_pending": 3083,
-    "deep_researched": 678,
+    "deep_research_pending": 3071,
+    "deep_researched": 690,
     "surface_ready": 3761
   },
   "next_target": {
@@ -48,20 +48,6 @@
       "pedal": "Destroyer",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 050/Destroyer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Alien",
-      "pedal": "Alien Tone Dragon",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Alien/Alien_Tone_Dragon.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Alien",
-      "pedal": "Alien Twister",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Alien/Alien_Twister.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Tone Bender MK1.5 / Tone Bender MKII",
       "catalog_type": "",
       "research_record": "./research/pedals/Analog Noir/Tone Bender MK1.5 - Tone Bender MKII.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Noir",
+      "pedal": "Tone Bender MKI",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Noir/Tone Bender MKI.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Noir",
+      "pedal": "Tone Bender MKI / Rangemaster Treble Booster",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Noir/Tone Bender MKI - Rangemaster Treble Booster.md",
       "research_level": "surface"
     }
   ]

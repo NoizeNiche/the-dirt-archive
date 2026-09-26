@@ -1,0 +1,41 @@
+{
+  "builder": "JAM Pedals",
+  "pedal": "Fuzz Phrase ltd",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Jam-Pedals/Fuzz-Phrase-ltd/68980395/",
+      "title": "Fuzz Phrase ltd by Jam Pedals | RockBoard | PedalPedia",
+      "h1": "Fuzz Phrase ltd",
+      "excerpt": "Fuzz Phrase ltd by Jam Pedals | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Jam Pedals Fuzz Phrase ltd LOG IN TO SUGGEST IMPROVEMENTS FUZZ Description Vintage-sounding germanium Fuzz pedal - a legendary sound that helped shape a generation. As our stock of Fuzz Phrase-compatible CV7003s is gradually depleting, we are proud to re-introduce it, celebrating its uniqueness and scarcity with point- to-point wiring housed in a luxurious leather enclosure. The most crucial ingredient when it comes to a Germanium Fuzz pedal\u2019s quality, sound and \u201cclean- ability\u201d, is transistor choice. In our experience there\u2019s nothing quite like the CV7003, military-spec OC44 germanium transistors. Each individual transistor is measured for gain and leakage and then hand picked and matched through sound audition. Media Videos Demo by Sasha Ivantic (EN) Official Product Video (EN) Manuals Manual (EN) Reviews Review by Musiker-Board (DE) Review by musicradar (EN) Review by The Gear Page (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Weight 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 3mA Boards with this pedal Pedalboard - Vintage based on TRES 3.3 PE by Pef 18 0 3 months ago 1 More pedals from Jam Pedals OVERDRIVE OVERDRIVE Jam Pedals LucyDreamer Bass DELAY DELAY Jam Pedals Delay Llama V1 OVERDRIVE BOOSTER OVERDRIVE BOOSTER Jam Pedals Bill Frisell Tube Dreamer 2020 - Gold sparkle DELAY DELAY Jam Pedals Delay Llama Plus All Jam Pedals Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings {\"props\":{\"pageProps\":{\"data\":{\"pedal\":{\"ID\":\"68980395\",\"link\":null,\"depth\":120,\"width\":72,\"height\":56,\"weight\":300,\"electronicType\":\"ANALOG\",\"voltage\":9,\"current\":3,\"battery\":false,\"IEC\":false,\"passive\":false,\"submissionStatus\":null,\"manufacturer\":{\"ID\":\"282908979\",\"name\":\"Jam Pedals\"},\"name\":\"Fuzz Phrase ltd\",\"descriptionDE\":\"\",\"descriptionEN\":\"Vintage-sounding germanium Fuzz pedal - a legendary sound that helped shape a generation.\\n\\nAs our stock of Fuzz Phrase-compatible CV7003s is gradually depleting, we are proud to re-introduce it, celebrating its uniqueness and scarcity with point- to-point wiring housed in a luxurious leather enclosure.\\n\\nThe most crucial ingredient when it comes to a Germanium Fuzz pedal\u2019s quality, sound and \u201cclean- ability\u201d, is transistor choice. In our experience there\u2019s nothing quite like the CV7003, military-spec OC44 germanium transistors.\\nEach individual transistor is measured for gain and leakage and then hand picked and matched through sound audition.\",\"media\":[{\"ID\":\"a5dcb78f4a03c719bc8dab4a\",\"name\":\"Review by Musiker-Board\",\"type\":\"REVIEW\",\"URL\":\"https://www.musiker-board.de/threads/jam-pedals-fuzz-phrase-video-das-beste-hendrix-fuzz.708235/\",\"languages\":[\"DE\"]},{\"ID\":\"13c877bef37e7418ff3f1241\",\"name\":\"Review by musicradar\",\"type\":\"REVIEW\",\"URL\":\"https://www.musicradar.com/reviews/guitars/jam-fuzz-phrase-617494\",\"languages\":[\"EN\"]},{\"ID\":\"be86788a9df85b4127896654\",\"name\":\"Product Page\",\"type\":\"LINK\",\"URL\":\"https://www.jampedals.com/fuzz-phrase/\",\"languages\":[]},{\"ID\":\"864870c190c3eddda0a80f57\",\"name\":\"Manual\",\"type\":\"MANUAL\",\"URL\":\"https://www.jampedals.com/wp-content/uploads/2019/02/Fuzz-Phrase-LTD.pdf\",\"languages\":[\"EN\"]},{\"ID\":\"bd425b0b8ca89b0bf260e483\",\"name\":\"Review by The Gear Page\",\"type\":\"REVIEW\",\"URL\":\"https://www.thegearpage.net/board/index.php?threads/npd-jam-pedals-fuzz-phrase.2239326/\",\"languages\":[\"EN\"]},{\"ID\":\"db426dcffed5c535d39abb1d\",\"name\":\"Demo by Sasha Ivantic\",\"type\":\"VIDEO\",\"URL\":\"https://www.youtube",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/p/jam-pedals-fuzz-phrase-ltd",
+      "title": "JAM Pedals Fuzz Phrase LTD - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://equipboard.com/items/jam-pedals-fuzz-phrase-ltd",
+      "title": "JAM Pedals Fuzz Phrase LTD - What To Know & Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.stompboxgarden.com/gear/pedal/1133/jam-pedals-fuzz-phrase-ltd",
+      "title": "JAM Pedals Fuzz Phrase ltd Dimensions, Specs & Details",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.stompboxgarden.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

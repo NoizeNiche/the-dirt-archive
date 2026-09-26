@@ -37,3 +37,23 @@ This is the best all around fuzz tone imho, balanced, gritty, sweet, and loads o
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals's NORTHERN CREEPER Fuzz is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified sound evidence
+Daredevil Pedals NORTHERN CREEPER Fuzz
+This is the best all around fuzz tone imho, balanced, gritty, sweet, and loads of sustain.
+It stays tight for chords, crunches when you want it to, and covers a huge range of vintage fuzz colors and tones.
+
+### Sources checked in this pass
+1. Daredevil Pedals Northern Creeper Fuzz Guitar Effect Pedal Used: https://www.ebay.com/itm/117407989079
+2. Daredevil Pedals NORTHERN CREEPER Fuzz | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/daredevil-pedals-northern-creeper-fuzz
+3. catalog/override source: https://reverb.com/item/101383494-daredevil-effects-northern-creeper-fuzz-effects-pedal-free-usa-shipping

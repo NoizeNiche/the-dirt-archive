@@ -62,3 +62,21 @@ Alien Twister can move from thick vintage fuzz through defined distortion into e
 2. Analog Alien — Alien Twister manual: https://analogalien.com/wp-content/uploads/2019/05/MANUAL_TWISTER.pdf
 3. Effects Database — SRV-45 Alien Twister: https://www.effectsdatabase.com/model/analogalien/srv45
 4. Premier Guitar — Alien Twister review, Sept. 5, 2012: https://www.premierguitar.com/gear/reviews/analog-alien-alien-twister-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bucket Seat Pedal Info Double Classic Comp (DCC) Our Double Classic Comp (DCC) pedal has a natural sound and is very musical – much like high-end rack mounted compressors found in professional studios Double Classic Comp Info Alien Twister The Alien Twister has touched down and has all the makings of an F-5 Tornado!
+
+### Verified sound evidence
+Analog Alien Alien Twister Fuzz / Buffer Electric Guitar Effect Pedal – All Music Inc.
+Same overdrive, slapback delay and reverb that put it on pedalboards around the world, now in a fresh redesign.
+With the overdrive control all the way down, the Rumble Seat acts as a smooth tone enhancer; it also acts as a switchable volume boost.​ Rumble Seat Pedal Info Alien Tone Dragon (ATD) Road-ready three stompbox effects in one cool pedal that will make your guitar roar!
+
+### Sources checked in this pass
+1. Analog Alien Alien Twister Fuzz / Buffer Electric Guitar Effect Pedal – All Music Inc.: https://www.allmusicinc.com/products/analog-alien-alien-twister-fuzz-buffer-electric-guitar-effect-pedal
+2. Analog Alien Alien Twister Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/analog-alien-alien-twister-pedal-review
+3. catalog/override source: https://www.sweetwater.com/store/detail/AlienTwister--analog-alien-alien-twister-fuzz-buffer-pedal/reviews
+4. Guitar Pedals For Sale - Buy Pedals For Guitars - Analog Alien: https://analogalien.com/

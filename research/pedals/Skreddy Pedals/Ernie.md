@@ -38,3 +38,31 @@ Thick and fuzzy but articulate, with an old school feel Modeled sonically on the
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Home Effect Types Fuzz Big Muff variants Ernie Ernie Fat vintage fuzz Thick and huge-sounding, this 1973-era-based fuzz is fat on chords and riffs and soars with infinite sustain on single-note runs.
+
+### Verified version references
+- The evidence references: MkIII, MkIV, v1.
+
+### Verified transistor/device terms
+- BC239.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Home Effect Types Fuzz Big Muff variants Ernie Ernie Fat vintage fuzz Thick and huge-sounding, this 1973-era-based fuzz is fat on chords and riffs and soars with infinite sustain on single-note runs.
+Manual sounds like a vintage fuzz feeding a cranked up amp, with as much output volume you could ever want.
+Thick and fuzzy but articulate, with an old school feel Modeled sonically on the beloved 'lamb's head' edition of vintage fuzz boxes (only supercharged and extra fat + "vintagey" sounding), the Ernie is a 4-silicon-transistor distortion/fuzz/sustain stompbox.
+
+### Sources checked in this pass
+1. Big Muff variants | Fuzz | Ernie | Skreddy Pedals: https://skreddypedals.com/ernie
+2. Skreddy Pedals Ernie | Effects Database: https://www.effectsdatabase.com/model/skreddy/ernie
+3. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fskreddypedals.com%252Fernie%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
+4. JavaScript is not available.: https://x.com/intent/tweet/?text=Ernie+-+https%3A%2F%2Fskreddypedals.com%2Fernie
+5. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fskreddypedals.com%2Fernie

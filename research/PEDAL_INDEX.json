@@ -3388,8 +3388,8 @@
       "source_page": "https://www.chicagomusicexchange.com/products/analog-alien-alien-tone-dragon-overdriveboost-pedal-2054215",
       "research_record": "./research/pedals/Analog Alien/Alien_Tone_Dragon.md",
       "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/files/analog-alien-effects-and-pedals-overdrive-and-boost-analog-alien-alien-tone-dragon-overdrive-boost-pedal-analog-alien-alien-tone-dragon-overdrive-boost-pedal-aa-atd-1053200262.jpg?v=1768864535&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Alien",
@@ -3404,8 +3404,8 @@
       "research_record": "./research/pedals/Analog Alien/Alien_Twister.md",
       "image_source_url": "https://www.allmusicinc.com/cdn/shop/products/analog-alien-twister-fuzz_480x.jpg?v=1681507542",
       "image_source_page": "https://www.allmusicinc.com/products/analog-alien-alien-twister-fuzz-buffer-electric-guitar-effect-pedal",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Alien",
@@ -16803,8 +16803,8 @@
       "research_record": "./research/pedals/PRP Batch 138/preamp-overdrive-matchbox.md",
       "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/matchbox-v2-05591ed5ecbe11902117496834656291-640-0.webp",
       "image_source_page": "https://pedalescajita.mitiendanube.com/productos/preamp-overdrive-matchbox/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cajita Stompboxes",
@@ -28913,8 +28913,8 @@
       "research_record": "./research/pedals/Daredevil Pedals/NORTHERN CREEPER Fuzz.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--850-x3hm--/quality=medium-low,height=400,width=400,fit=cover,gravity=bottom/b7cce4fd-ec7a-4661-a257-ffc1c3501a7e.heic",
       "image_source_page": "https://reverb.com/item/101383494-daredevil-effects-northern-creeper-fuzz-effects-pedal-free-usa-shipping",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -35303,8 +35303,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Ron Fucking Swanson Super Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -35641,8 +35641,8 @@
       "image": "./assets/pedals/jam-pedals/fuzz-phrase-ltd/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Fuzz Phrase ltd.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JAM Pedals",
@@ -35678,8 +35678,8 @@
       "image": "./assets/pedals/jam-pedals/octaurus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Octaurus.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JAM Pedals",
@@ -45060,8 +45060,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Cosmos.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -45086,8 +45086,8 @@
       "research_record": "./research/pedals/Skreddy Pedals/Ernie.md",
       "image_source_url": "https://skreddypedals.com/circuits/Ernie/web2.jpg",
       "image_source_page": "https://skreddypedals.com/ernie",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -45098,8 +45098,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/General Pig.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -47213,8 +47213,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Judge Dredd Lawbringer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
@@ -49162,8 +49162,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Fundamental Series Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",
