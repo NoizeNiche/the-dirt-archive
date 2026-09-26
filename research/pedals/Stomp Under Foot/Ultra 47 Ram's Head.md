@@ -1,23 +1,36 @@
 # Stomp Under Foot — Ultra 47 Ram's Head
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Ultra 47 Ram's Head
 - **Builder:** Stomp Under Foot
-- **Pedal:** Ultra 47 Ram's Head
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Stomp Under Foot's Ultra 47 Ram's Head.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Ultra 47 Ram's Head** by **Stomp Under Foot** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
+
+## Sources checked
+1. ULTRA 47 RAM'S HEAD – Stomp Under Foot: https://stompunderfoot.com/products/ultra-47
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

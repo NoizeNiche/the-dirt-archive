@@ -1,23 +1,42 @@
 # Keeley Electronics — Tube Drive Twin Triode Dual Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Tube Drive Twin Triode Dual Overdrive
 - **Builder:** Keeley Electronics
-- **Pedal:** Tube Drive Twin Triode Dual Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Keeley Electronics's Tube Drive Twin Triode Dual Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Tube Drive Twin Triode Dual Overdrive** by **Keeley Electronics** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Distortion and Overdrive Pedals Pro Gear Advisers Chat
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Live on WhatNot at 6pm Central → LEARN MORE Home Pedals and Effects Pedals and Effects Overdrive and Boost Keeley Electronics Tube Drive Twin Triode Dual Overdrive Two Overdrives, One Real Tube The Keeley Tube Drive Twin Triode packs two distinct drive voices into one rugged enclosure.
+One side is a genuine high-voltage vacuum tube overdrive running a Keeley-branded 12AX7 at roughly 160 volts — real tube operation, not a starved-plate imitation.
+Each channel has its own Level, gain, and Tone controls, its own footswitch, and its own LED, so you can run either one alone or stack both for uber-thick layered overdrive.
+
+## Sources checked
+1. Tube Drive Twin Triode Dual Overdrive - Keeley Electronics Guitar ...: https://robertkeeley.com/product/tube-drive-twin-triode-dual-overdrive/
+2. Keeley Electronics Introduces Tube Drive Twin Triode Dual Overdrive - Premier Guitar: https://www.premierguitar.com/news/keeley-electronics-introduces-tube-drive
+3. Keeley Tube Drive Twin Triode Dual Overdrive Pedal: https://buyorborrowmusic.com/keeley-electronics-tube-drive-twin-triode-dual-overdrive/
+4. Distortion and Overdrive Pedals: https://www.guitarcenter.com/Keeley-Electronics/Tube-Drive-Twin-Triode-Dual-Overdrive-Pedal-Black-1500000487488.gc?template=0y7n73MAL4Km
+5. Keeley Electronics Tube Drive Twin Triode Dual Overdrive Effect Pedal – Russo Music: https://www.russomusic.com/products/keeley-electronics-tube-drive-twin-triode-dual-overdrive-effect-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
