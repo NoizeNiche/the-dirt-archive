@@ -1,3 +1,11 @@
+## Site metadata checkpoint - September 26, 2026
+
+The public archive index and pedal-detail shell now include descriptive metadata for search previews and clearer entry-point context. No duplicate sitemap/robots implementation was added because those outputs remain deployment-owned.
+
+Metadata commits:
+- `28edc19` - archive description metadata
+- `506946d` - pedal-detail description metadata
+
 ## Site maintenance checkpoint - September 26, 2026
 
 Public pedal pages no longer expose the internal research-level badge. The detail template, renderer, and stylesheet were cleaned together so Research confidence/status terminology stays administrative rather than appearing in the visitor-facing experience.
