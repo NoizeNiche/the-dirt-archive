@@ -3037,8 +3037,8 @@
       "research_record": "./research/pedals/Amptweaker/TightBoost.md",
       "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25779317&width=1200&height=600&coordinates=0%2C67%2C0%2C67",
       "image_source_page": "https://www.premierguitar.com/amptweaker-introduces-tightboost-pedal",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -6394,8 +6394,8 @@
       "research_record": "./research/pedals/Bad Pixel Pedals/Buzzaround Fuzz.md",
       "image_source_page": "https://badpixel.weebly.com/buzzaround.html",
       "image_source_url": "https://badpixel.weebly.com/uploads/2/6/5/7/26575514/8171506_orig.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -16649,8 +16649,8 @@
       "research_record": "./research/pedals/PRP Batch 136/brit30-preamplificador-tipo-vox-ac30-overdrive.md",
       "image_source_url": "https://dcdn-us.mitiendanube.com/stores/006/279/558/products/brit-5-745dae9a57840222c017557786924789-1024-1024.webp",
       "image_source_page": "https://pedalescajita.mitiendanube.com/productos/brit30-preamplificador-tipo-vox-ac30-overdrive/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cajita Stompboxes",
@@ -28609,8 +28609,8 @@
       "image": "./assets/pedals/danelectro/french-toast/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/French Toast.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -31039,8 +31039,8 @@
       "image": "./assets/pedals/earthquaker-devices/blumes/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Blumes.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -38639,8 +38639,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Deluxe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43190,8 +43190,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Origin Effects/Deluxe55 Tweed Recreation.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Origin Effects",
@@ -44787,8 +44787,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Seymour Duncan/Dirty Deeds.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Seymour Duncan",
@@ -44800,8 +44800,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Seymour Duncan/Lava Box.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Seymour Duncan",
@@ -47095,8 +47095,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Electric Lightning.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",

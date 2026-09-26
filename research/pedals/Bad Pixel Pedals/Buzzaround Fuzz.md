@@ -48,3 +48,16 @@ Bad Pixel describes the Buzzaround as capable of strong cleanup from the guitar 
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://badpixel.weebly.com/uploads/2/6/5/7/26575514/8171506_orig.jpg
 - **Source page:** https://badpixel.weebly.com/buzzaround.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bad Pixel Pedals's Buzzaround Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+It cleans very well [almost like a fuzz face] but then when you open the volume pot it will kick you a tone of Tone Bender sustain.
+
+### Sources checked in this pass
+1. BUZZAROUND - Bad Pixel Pedals: https://badpixel.weebly.com/buzzaround.html

@@ -1,0 +1,33 @@
+{
+  "builder": "Amptweaker",
+  "pedal": "TightBoost",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/amptweaker/tightboost",
+      "title": "Amptweaker TightBoost | Effects Database",
+      "h1": "Amptweaker TightBoost",
+      "excerpt": "Amptweaker TightBoost | Effects Database Skip to navigation Brands \u25bc 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types \u25bc boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries \u25bc (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by \u25bc Enclosure type Modulation type Special \u25ba Classics Eye candy Funny Vaporware Weird Random brand Random effect Events \u25ba NAMM Musikmesse Music China Guitar Summit More... \u25bc Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand A... Amptweaker browse by type volume/amplification amplification preamp / clean boost browse by type eq/excite/filter/wah wah wah browse by enclosure pedal Amptweaker TightBoost Published on August 24, 2010 Amptweaker boost / preamp wah wah manual pedal Information Amptweaker The TightBoost\u2122 version of the TightDrive overdrive pedal has less gain, more volume and provides a cleaner boost to drive your amp harder. Along with the popular Tight control, it also has a Mid boost control that gradually adds a Parked Wah tone. This makes it easy to add a controlled amount of 'vowel' tone to your boost. During the 2010 Nashville Amp Expo, local area guitarists participated in the final tweaks to select their favorite Parked Wah Frequencies, and the 2 favorites were put on a switch near the Mid control. One gives you a 'pushed forward' screaming mid similar to a Michael Schenker tone, and the other is more like the classic throaty wah tone. By also adjusting the Boost, Tight and High controls, there are a lot of different boosted overdrive tones possible. While most 'clean boost' pedals have no method for preventing unintentional distortion, the TightBoost pedal uses the same distortion methods as the TightDrive, so when driven hard it has a nice sounding, warm and tube-like breakup on its own. It's great for providing a solo boost for your amp, or to further overdrive a distortion or overdrive pedal. Many Product Idea submissions received were from people looking for overdrive and boost pedals that could provide tight low end. This led to the Tight Control, which allows you to adjust the amp's attack, varying it from smooth and singing to chunky and aggressive attack. The remaining High control tweaks the tone in the highs, and the Boost adjusts the overall boost level of the pedal. As with all Amptweaker handmade pedals, the TightBoost includes an effects loop on the back so you can add whatever you want to this pedal. And there's a Pre/Post button underneath the pedal so you can move that outboard effect to in front of or behind the TightBoost. When you bypass the TightBoost pedal, the other effect or effects will be bypassed as well. This feature is great if you want to further tweak the tone with an EQ in front of or behind it, or to add compression, delay or even another distortion pedal. True Bypass switch ",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.premierguitar.com/amptweaker-introduces-tightboost-pedal",
+      "title": "Amptweaker Introduces TightBoost Pedal - Premier Guitar",
+      "h1": "Amptweaker Introduces TightBoost Pedal",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Amptweaker Introduces TightBoost Pedal - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts Shred With Shifty Wong Notes 100 Guitarists Win Digital Magazine close Search <div class=\"search-modal-heading-wrapp",
+      "host": "www.premierguitar.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.amptweaker.com/page/Amptweaker-TightBoost-Effects-Pedal-35.aspx",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.amptweaker.com",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

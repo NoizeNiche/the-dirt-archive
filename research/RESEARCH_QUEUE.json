@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T09:24:21.509906+00:00",
+  "generated_at": "2026-09-26T09:27:13.737487+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2722,
     "complete": 2722,
     "research_pending": 0,
-    "deep_research_pending": 3236,
-    "deep_researched": 525,
+    "deep_research_pending": 3226,
+    "deep_researched": 535,
     "surface_ready": 3761
   },
   "next_target": {
@@ -41,13 +41,6 @@
       "pedal": "Tight Rock Jr",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/Tight_Rock_Jr.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "TightBoost",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/TightBoost.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Alien Bass Station",
       "catalog_type": "",
       "research_record": "./research/pedals/Analog Alien/Alien_Bass_Station.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Alien",
+      "pedal": "Alien Tone Dragon",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Alien/Alien_Tone_Dragon.md",
       "research_level": "surface"
     }
   ]

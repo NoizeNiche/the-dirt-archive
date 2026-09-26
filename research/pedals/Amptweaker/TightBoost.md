@@ -62,3 +62,23 @@ TightBoost is the cleaner, lower-gain side of the TightDrive family, intended to
 1. Effects Database — TightBoost, published Aug. 24, 2010: https://www.effectsdatabase.com/model/amptweaker/tightboost
 2. Amptweaker TightBoost User Manual: https://www.manualslib.com/manual/1245868/Amptweaker-Tightboost.html
 3. Effects Database interview with James Brown / Amptweaker: https://www.effectsdatabase.com/interviews/brands/amptweaker
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+While most 'clean boost' pedals have no method for preventing unintentional distortion, the TightBoost pedal uses the same distortion methods as the TightDrive, so when driven hard it has a nice sounding, warm and tube-like breakup on its own.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+Along with the popular Tight control, it also has a Mid boost control that gradually adds a Parked Wah tone.
+This makes it easy to add a controlled amount of 'vowel' tone to your boost.
+One gives you a 'pushed forward' screaming mid similar to a Michael Schenker tone, and the other is more like the classic throaty wah tone.
+
+### Sources checked in this pass
+1. Amptweaker TightBoost | Effects Database: https://www.effectsdatabase.com/model/amptweaker/tightboost
+2. Amptweaker Introduces TightBoost Pedal - Premier Guitar: https://www.premierguitar.com/amptweaker-introduces-tightboost-pedal
+3. catalog/override source: https://www.amptweaker.com/page/Amptweaker-TightBoost-Effects-Pedal-35.aspx
