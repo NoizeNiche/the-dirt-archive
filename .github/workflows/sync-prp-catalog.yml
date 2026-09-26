@@ -30,6 +30,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
+      - name: Generate surface catalog records for uncovered pedals
+        run: python scripts/generate-surface-records.py
+
       - name: Synchronize research records into canonical catalog and photo manifest
         run: python scripts/sync_prp_catalog.py
 
@@ -51,7 +54,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
+          git add research/PEDAL_INDEX.json research/pedals research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
           if git diff --cached --quiet; then
             echo "Research metadata already synchronized."
             exit 0
