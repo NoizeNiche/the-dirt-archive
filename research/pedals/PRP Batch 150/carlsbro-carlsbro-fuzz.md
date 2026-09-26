@@ -16,3 +16,24 @@
   - https://www.effectsdatabase.com/model/carlsbro/colorsound/fuzz
   - https://fuzzboxes.org/carlsbrofuzztone
   - https://reverb.com/au/item/76750494-carlsbro-fuzz-early-70s-tone-bender-mkiv
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Carlsbro's Carlsbro Fuzz is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- 7, 2026 Eurotec Black Box Faze Module, England 1980s, exc.+ Ibanez No.
+
+### Verified version references
+- The evidence references: MKIII, MKIV, Mk 1, Mk I, Mk II, Mk III, Mk3, MkI, v2, v3.
+
+### Verified sound evidence
+TONEHOME - the World of Vintage Guitar Effects Pedals - Fuzz TONEHOME - the World of Vintage Guitar Effect Pedals TONEHOME - the World of Vintage Guitar Effect Pedals About ToneHome Ampeg Bell Electrolabs Blackfield Boss Carlsbro Fuzz Sustain Suzz C.E.I.
+Dixi CBS/Arbiter Colorsound/Sola Sound CosmoSound Dharma Sound EKO Electro-Harmonix Electronic Sounds Elka Dizzy Tone Eurotec fOXX Futuristic Sounds Goldsound Höfner/Hofner Ibanez InterFax Jen Jennings Electr.
+
+### Sources checked in this pass
+1. TONEHOME - the World of Vintage Guitar Effects Pedals - Fuzz: https://www.tonehome.de/carlsbro/fuzz/
+2. Carlsbro Fuzz | Effects Database: https://www.effectsdatabase.com/model/carlsbro/colorsound/fuzz

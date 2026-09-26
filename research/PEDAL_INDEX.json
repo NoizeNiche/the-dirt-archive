@@ -18279,8 +18279,8 @@
       "research_record": "./research/pedals/PRP Batch 150/carl-martin-tod.md",
       "image_source_page": "https://ameaudio.com.au/collections/carl-martin",
       "image_source_url": "http://ameaudio.com.au/cdn/shop/files/ame-audio-web-og-image.webp?v=1702968377&width=2048",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carlin",
@@ -18314,8 +18314,8 @@
       "image_source_page": "https://www.tonehome.de/carlsbro/fuzz/",
       "image_source_page_verified": true,
       "image_source_url": "https://www.tonehome.de/s/img/emotionheader.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carlsbro",
@@ -46376,8 +46376,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Blackstar – Ultimate Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Subdecay",
