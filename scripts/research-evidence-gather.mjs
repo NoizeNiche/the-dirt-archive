@@ -49,7 +49,13 @@ function pedalIdentityVariants(pedal){
     const compact=norm(value).replace(/\\s+/g,'');
     if(compact && !variants.some(v=>norm(v)===compact)) variants.push(compact);
   }
-  return variants;
+  // The archive's AMT catalog name and surviving listings use a documented
+  // alias for the same Rammstein distortion: "Rammstein Du Hast". Accept that
+  // model spelling as an exact identity variant for this specific record.
+  if(norm(raw).includes('rammstein rd distortion combo emulator')){
+    variants.push('Rammstein Du Hast');
+  }
+  return [...new Set(variants)];
 }
 function fit(builder,pedal,text){
   const h=norm(text), bt=toks(builder), variants=pedalIdentityVariants(pedal);
