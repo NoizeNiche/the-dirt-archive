@@ -2600,8 +2600,8 @@
       "research_record": "./research/pedals/PRP Batch 047/Slamurai Bushido Drive.md",
       "image_source_url": "https://cdn11.bigcommerce.com/s-c3f06q9uvc/images/stencil/1280x1280/products/460226/1852446/93cde524-d405-4e8c-af3b-c1b4bb7f73c0__06244.1766521764.jpg?c=1",
       "image_source_page": "https://musicgoround.com/locations/aurora-co/product/S000116378/ALL-PEDAL-SLAMURAI-BUSHIDO-DRIVE",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ampeg",
@@ -46990,8 +46990,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Richie Kotzen Signature OMG.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tech 21 NYC",

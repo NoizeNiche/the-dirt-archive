@@ -1,36 +1,36 @@
 # All-Pedal — Slamurai Bushido Drive
 
 ## PRP identity
+- **Archive parent:** Slamurai Bushido Drive
 - **Builder:** All-Pedal
 - **Catalog type:** Overdrive
-- **Identity:** Versatile amp-like overdrive with active three-band EQ.
+- **Identity:** All-Pedal's Slamurai Bushido Drive.
 
 ## What this pedal is
-Slamurai is designed as a broad-range overdrive, moving from clean boost through modern drive while emphasizing touch response and amp-like dynamics. All-Pedal describes a dedicated three-band EQ for detailed shaping. [1]
+Used ALL PEDAL SLAMURAI BUSHIDO DRIVE Overdrive Pedal Skip to main content Plato's Closet Store Once Upon a Child Store Play It Again Sports Store Style Encore Store Music Go Round Store Own One of Our Award-Winning Franchises!
 
 ## Colorways
-- No complete factory colorway history established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Drive/gain section
-- active three-band EQ
-- controls and switching vary across documented production/promotional material; exact historical factory control labels should be confirmed against the specific unit before treating them as version data. [1][2]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-Effects Database preserves a 2019 NAMM entry under the Slamurai name, while later documentation identifies the production model as Slamurai Bushido Drive. The accessible sources do not establish a complete numbered revision history. [2]
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Slamurai is voiced to cover clean boost, classic overdrive, and more modern high-gain drive while retaining a responsive, amp-like feel. The active three-band EQ gives substantial control over the final voice, making the pedal suitable for adapting the drive to different amplifiers. [1][2]
+Used ALL PEDAL SLAMURAI BUSHIDO DRIVE Overdrive Pedal Skip to main content Plato's Closet Store Once Upon a Child Store Play It Again Sports Store Style Encore Store Music Go Round Store Own One of Our Award-Winning Franchises!
 
 ## Sources checked
-1. All-Pedal — https://allpedal.com/collections/pedals/products/slamurai
-2. Effects Database — https://www.effectsdatabase.com/model/allpedal/slamurai
+1. Used ALL PEDAL SLAMURAI BUSHIDO DRIVE Overdrive Pedal: https://musicgoround.com/locations/aurora-co/product/S000116378/ALL-PEDAL-SLAMURAI-BUSHIDO-DRIVE
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

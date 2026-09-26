@@ -1,23 +1,40 @@
 # Tech 21 NYC — Richie Kotzen Signature OMG
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Richie Kotzen Signature OMG
 - **Builder:** Tech 21 NYC
-- **Pedal:** Richie Kotzen Signature OMG
 - **Catalog type:** Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Tech 21 NYC's Richie Kotzen Signature OMG.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Richie Kotzen Signature OMG** by **Tech 21 NYC** as a **Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Tech 21 NYC's Richie Kotzen Signature OMG is cataloged as a fuzz / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: v4.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Tech 21 NYC - Richie Kotzen Signature OMG Overdrive demo...
+It took many prototypes to get the OMG pedal to sound &#8211;and feel&#8211; the way Richie wanted it.
+The all-analog OMG has a unique, slightly asymmetrical distortion that emulates single power tube Class A amplifiers, but with a tighter, quicker and snappier response.
+
+## Sources checked
+1. Tech 21 NYC - Richie Kotzen Signature OMG Overdrive demo...: https://www.facebook.com/tech21nyc/posts/richie-kotzen-signature-omg-overdrive-demo-just-posted-by-the-inimitable-brett-k/624463597590123/
+2. OMG &#8211; Tech 21 NYC: https://www.tech21nyc.com/archive/omg/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
