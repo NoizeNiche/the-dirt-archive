@@ -353,7 +353,11 @@ async function targetRecord(builder,pedal,type){
         const on=norm(other);
         return on && on!==target && bodyNorm.includes(on);
       });
-      if(conflicting) continue;
+      // Exact-model pages often contain a builder-wide catalog/footer that
+      // mentions sibling pedals. If the page title/H1/URL itself carries the
+      // exact pedal identity, do not reject it merely because that noisy body
+      // also mentions another model.
+      if(conflicting && !f.exactPedal) continue;
     }
     if(acceptedUrls.has(u)) continue;
     acceptedUrls.add(u);
