@@ -1,0 +1,25 @@
+{
+  "builder": "Alien Amplification",
+  "pedal": "Origami Overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/alienamps/origami",
+      "title": "Alien Amplification Origami Overdrive | Effects Database",
+      "h1": "Alien Amplification Origami Overdrive",
+      "excerpt": "Effects Database lists Origami Overdrive as a low-gain overdrive. The model was published in the database on August 3, 2014 and the page retains multiple manufacturer and third-party demonstration references, including an Origami v.2 demonstration.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/updates/weekly/20140804",
+      "title": "Weekly overview (2014, week 31): 3 new brands and 63 new pedals | Effects Database",
+      "h1": "Weekly overview (2014, week 31): 3 new brands and 63 new pedals",
+      "excerpt": "Effects Database's August 4, 2014 weekly update includes Alien Amplification Origami Overdrive among the newly added effects.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "catalog_history"
+    }
+  ],
+  "next_action": "Use the exact-model Effects Database entry for the core record. Do not infer control layout, transistor, diode, or circuit topology from the demo references without stronger source evidence."
+}
