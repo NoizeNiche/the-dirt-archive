@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T07:25:44.209852+00:00",
+  "generated_at": "2026-09-26T07:28:35.627314+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,32 +10,18 @@
     "pictured": 2681,
     "complete": 2681,
     "research_pending": 0,
-    "deep_research_pending": 3296,
-    "deep_researched": 465,
+    "deep_research_pending": 3288,
+    "deep_researched": 473,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Amptweaker",
-    "pedal": "Bass BluesFuzz Jr",
+    "pedal": "Bass TightFuzz",
     "catalog_type": "",
-    "research_record": "./research/pedals/Amptweaker/Bass_BluesFuzz.md",
+    "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Amptweaker",
-      "pedal": "Bass BluesFuzz Jr",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/Bass_BluesFuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "Bass TightDrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/Bass_TightDrive.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Amptweaker",
       "pedal": "Bass TightFuzz",
@@ -195,6 +181,20 @@
       "pedal": "TightFuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/TightFuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amptweaker",
+      "pedal": "TightFuzz Jr",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Amptweaker/TightFuzz_Jr.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amptweaker",
+      "pedal": "TightFuzz Pro",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Amptweaker/TightFuzz_Pro.md",
       "research_level": "surface"
     }
   ]

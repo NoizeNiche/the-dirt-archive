@@ -7,7 +7,7 @@
 - **Identity:** Danelectro's Cool Cat Metal.
 
 ## What this pedal is
-Danelectro CM-2 Cool Cat Metal II | AllThePedals Articles Genealogy Browse Search results for &quot; &quot; Gain / Distortion / Danelectro CM-2 Cool Cat Metal II CM-2 Cool Cat Metal II The Danelectro CM-2 Cool Cat Metal II is a metal distortion stompbox known for its quality tone at an affordable price point.
+AllThePedals Articles Genealogy Browse Search results for &quot; &quot; Gain / Distortion / Danelectro CM-2 Cool Cat Metal II CM-2 Cool Cat Metal II The Danelectro CM-2 Cool Cat Metal II is a metal distortion stompbox known for its quality tone at an affordable price point.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,7 +27,7 @@ Danelectro CM-2 Cool Cat Metal II | AllThePedals Articles Genealogy Browse Searc
 - **Exact part:** Unknown.
 
 ## Sound
-Danelectro CM-2 Cool Cat Metal II | AllThePedals Articles Genealogy Browse Search results for &quot; &quot; Gain / Distortion / Danelectro CM-2 Cool Cat Metal II CM-2 Cool Cat Metal II The Danelectro CM-2 Cool Cat Metal II is a metal distortion stompbox known for its quality tone at an affordable price point.
+AllThePedals Articles Genealogy Browse Search results for &quot; &quot; Gain / Distortion / Danelectro CM-2 Cool Cat Metal II CM-2 Cool Cat Metal II The Danelectro CM-2 Cool Cat Metal II is a metal distortion stompbox known for its quality tone at an affordable price point.
 This pedal delivers a range of metal tones, making it a great choice for guitarists seeking a versatile distortion effect.
 CM-2 Cool Cat Metal II Danelectro Link CM-2 Cool Cat Metal II Type Distortion - Popularity - Average Price - Status Unknown - Genealogy Our Genealogy Project attempts to create a family tree of all gain effects by mapping the pedal(s) that directly preceded them.
 

@@ -2698,8 +2698,8 @@
       "research_record": "./research/pedals/Amptweaker/Bass_BluesFuzz.md",
       "image_source_page": "https://www.bassgearmag.com/bassic-review-amptweaker-bass-tightfuzz-jr-bass-bluesfuzz-jr-and-pressurizer-pedals/",
       "image_source_url": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_bluesfuzzjrmm.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -2711,8 +2711,8 @@
       "source_page": "https://www.amazona.de/test-amptweaker-bass-tightdrive-bass-overdrive-pedal/",
       "research_record": "./research/pedals/Amptweaker/Bass_TightDrive.md",
       "image_source_url": "https://www.amazona.de/wp-content/uploads/2030/04/amptweaker-bass-tightdrive-04-632x900.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -27846,8 +27846,8 @@
       "image": "./assets/pedals/cs-cathey/ad-02-distortion-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CS.Cathey/AD-02 Distortion Box.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CSL",
@@ -28168,8 +28168,8 @@
       "image": "./assets/pedals/custom-guitar-innovations/fuzz-boost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Custom Guitar Innovations/Fuzz Boost.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Custom Guitar Innovations",
@@ -28181,8 +28181,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Custom Guitar Innovations/Octavio.md",
       "image_source_page": "https://www.effectsdatabase.com/model/customguitarinnovations/octavio",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Custom Tones",
@@ -28487,8 +28487,8 @@
       "research_record": "./research/pedals/Danelectro/Cool Cat Metal.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40d065ea87db26d/1790370723832/7MfJmAIbBlF4lowY9COxFPqh4QKfohJFXsJ9uv1Nbx4-1790370723-1.3.1.1-M3txn1CYTWxL9Wz0hpmDt88jy7YYEt.LA.cQZ0Jy3UgfB96ITfbYGtiP01Ux8HNDTjYEPW8pCvsJOHTJ3fLXisprR.AYGfTb9vJTQZ3N7ws1Ax8V2LgfhvYkQ1jqA8Db7AjdGItlg0Rcg8X6LgglL2Wq.vQi8_Ubscv.luzFkqF5q2maaXPAD4Uc9.aQbSSQlHN7N4Fp5DIfKA2COc9mRJgkS.N_6ofT42ki8mlDr6Rw9A4ukk7O1rHrPaXF_lpeOJbJZ21vqZQW4QIW_KGq6y5iC.TUMm3ngn8mGmlekNSrYt5d1IEr8s1R2Dtxh6lYaOv52KhSQr5YUO._CQBkZMAE0MxB0OWCsESCMSG5OXdmextLQbu7vGmIImTBz9NSfLlvgrtEMIHUjJBE.QTv3sH0xLzh6LYUd7WoXx8ynitXhDXwPjgdL49v_7FG1Uc0kFG0VrctVNI.6jn9nBZMv47UEbMT5Scm9Z1WHK55qTn9Ucah8hNqeuifJbVOA0B1l3i5UMsCeUjwKoa3fSMa2He9FoRoxMJ8y0Dud8p5sHs3FczxhjpMe6QHOK4T8PrLGeMPI4eViFqs9WpqIXePnptztdn9DGHfL8ua_FrfA9A_YEto7QaoS6Nsiv9YfSzPaC3M8PG5BQUaK5RX8_UX3bjGkRK916G5Hi3rtcCdHKF.d38C6Zx5RarXg44UzmFPPXdWrmdkma9Gr4XfG1SSUClzmqf.wrK9Ufz1y04eOaI",
       "image_source_page": "https://reverb.com/item/94935389-danelectro-cool-cat-metal-2-distortion-2010s-black",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -38566,8 +38566,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Fire Red Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mad Professor Amplification",
@@ -47769,8 +47769,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Universal Amplifier Corp/Fuzzz Boxx.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",

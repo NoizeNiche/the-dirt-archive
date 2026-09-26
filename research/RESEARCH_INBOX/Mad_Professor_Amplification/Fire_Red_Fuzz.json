@@ -1,0 +1,25 @@
+{
+  "builder": "Mad Professor Amplification",
+  "pedal": "Fire Red Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.tonebox.com/pedal/mad-professor-hand-wired-fire-red-fuzz",
+      "title": "Mad Professor Hand-Wired Fire Red Fuzz - Tonebox.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.tonebox.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://manualzz.com/doc/23351150/mad-professor-fire-red-fuzz-electronics-user%E2%80%99s-manual",
+      "title": "Mad Professor Fire Red Fuzz: AI Chat PDF Access | Manualzz",
+      "h1": "",
+      "excerpt": "",
+      "host": "manualzz.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
