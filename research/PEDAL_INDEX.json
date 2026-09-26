@@ -533,16 +533,10 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/abovegroundfx/rocks-hard/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
       "research_record": "./research/pedals/AboveGroundFX/Rocks Hard.md",
-      "image_source_page": "https://azurplenitude.com/en/cros-dei-pin-beach-in-saint-jean-cap-ferrat/",
-      "image_source_url": "https://azurplenitude.com/wp-content/uploads/2024/10/plage_cros_dei_pin_cover.jpg",
       "image_source_page_verified": true,
       "image_source_priority": 412,
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/aboveground/rockshard"
-      ],
       "image_source_pages_verified": true,
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -694,14 +688,8 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/accel-audio/stompzilla-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/accel/stompzilla",
       "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md",
-      "image_source_page": "https://www.realtor.com/realestateandhomes-search/Mi-Wuk-Village_CA",
-      "image_source_url": "https://ap.rdcpix.com/c0c613b5ec2e1f4dea078e94e11c435al-m2201946355rd-w960_h720.jpg",
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/accel/stompzilla"
-      ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 414,
@@ -1145,17 +1133,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/add-pedals/der-fuzzer/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/addplus/derfuzzer",
       "research_record": "./research/pedals/Add+ Pedals/Der Fuzzer.md",
-      "image_source_page": "https://www.istockphoto.com/photo/panoramic-of-kuala-lumpur-city-at-night-malaysia-gm1479374768-507385947",
       "image_source_page_verified": true,
       "image_source_priority": 308,
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/addplus/derfuzzer"
-      ],
       "image_source_pages_verified": true,
-      "image_source_url": "https://media.istockphoto.com/id/1479374768/photo/panoramic-of-kuala-lumpur-city-at-night-malaysia.jpg?s=1024x1024&w=is&k=20&c=GmUC8Z9fnW5ma8HpnDqVuVbLG4u4xaso9fcs3cyIvEA=",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
