@@ -16,3 +16,19 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for identity, controls and sound description; medium for the Sweet Honey-style lineage; low for internal component specifics.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cp500/queenbee ; https://stompbox.in/products/caline-cp-503-queen-bee
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-503 Queen Bee Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Be the first to review “Caline CP-503 Queen Bee Overdrive” Cancel reply You must be logged in to post a review.
+Play softly and add a glistening warm grit to your tone, dig in and unleash a dynamic organic sounding overdrive that's perfect for blues and rock.
+Loves to be 'always on' or equally effective stacked with other drives to create a range of textures for your gain stages.
+
+### Sources checked in this pass
+1. Caline CP-503 Queen Bee Overdrive - Effects Pedals: https://www.effects-pedals.info/p/caline-cp-503-queen-bee-overdrive/
+2. Caline CP-503 Queen Bee Overdrive | Effects Database: https://www.effectsdatabase.com/model/caline/cp500/queenbee

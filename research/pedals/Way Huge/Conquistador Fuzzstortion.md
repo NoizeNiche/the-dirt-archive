@@ -38,3 +38,21 @@ This aggressive gated fuzz conquers sonic frontiers with ease and simplicity.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Way Huge's Conquistador Fuzzstortion is cataloged as a distortion / fuzz pedal.
+
+### Verified sound evidence
+WHE406 Description *LEGACY PRODUCT / NO LONGER IN PRODUCTION This aggressive gated fuzz conquers sonic frontiers with ease and simplicity.
+Just use the classic Volume, Tone, Fuzz control setup to dial in your sound and then play a soundtrack to shred the space-time continuum.
+This aggressive gated fuzz conquers sonic frontiers with ease and simplicity.
+
+### Sources checked in this pass
+1. WAY HUGE® CONQUISTADOR™ FUZZSTORTION - Dunlop: https://www.jimdunlop.com/way-huge-conquistador-fuzzstortion/
+2. Way Huge Conquistador Fuzzstortion: https://www.musicgardenshop.com/products/way-huge-conquistador-fuzzstortion/
+3. Way Huge Conquistador Fuzzstortion – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/way-huge-conquistador-fuzzstortion-701486
+4. catalog/override source: https://reverb.com/item/92476051-way-huge-conquistador-fuzzstortion-pedal

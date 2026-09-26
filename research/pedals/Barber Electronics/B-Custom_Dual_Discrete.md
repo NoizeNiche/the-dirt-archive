@@ -63,3 +63,14 @@ There is no single Dual Discrete sound because Barber built these as combination
 2. Reverb — Barber LTD and Super Sport Dual Discrete actual-item listing: https://reverb.com/item/67970418-barber-ltd-and-super-sport-dual-discrete-2020s
 3. Gearmanndude — Barber Dual Discrete demonstration.
 4. Barber Electronics manufacturer information.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Barber Electronics's B-Custom Dual Discrete is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/42253176-barber-b-custom-dual-discrete-overdrive
+2. Barber B Custom Dual Discrete | Effects Database: https://www.effectsdatabase.com/model/barber/bcustom/dualdiscrete

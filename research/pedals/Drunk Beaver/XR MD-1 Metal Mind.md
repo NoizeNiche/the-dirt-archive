@@ -38,3 +38,25 @@ Controls Metal - the amount of gain.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The XR MD-1 Metal Mind - is a total step at just $90 / €90 / 349 PLN.
+
+### Verified version references
+- The evidence references: V7.
+
+### Verified transistor/device terms
+- 2N1175, Germanium Fuzz, Germanium Transistor.
+
+### Verified sound evidence
+Controls Metal - the amount of gain.
+Controls include Gyrator Lows (86Hz), Mids (533Hz), High-Pass Filter (7.2kHz), Level, and Metal/Gain.
+A potent take on the dual-gain-stage Boss MT-2 Metal Zone architecture — this MD-1 Metal Mind pedal overhauls that vintage topology with modern low-noise op-amps, robust power supply filtering, true-bypass switching, and an active three-band EQ with fixed midrange voicing.
+
+### Sources checked in this pass
+1. Drunk Beaver Pedals XR MD-1 Metal Mind | Drunk Beaver Pedals: https://drunk-beaver.rocks/products/xr-md-1
+2. Guitar Pedal X - GPX Blog - The Drunk Beaver XR Series MD-1 Medal Mind is a superb take on the Exar MD-03 and MD-04 - originally inspired by the Boss MT-2 Metal Zone: https://www.guitarpedalx.com/news/gpx-blog/the-drunk-beaver-xr-series-md-1-medal-mind-is-a-superb-take-on-the-exar-md-03-and-md-04-originally-inspired-by-the-boss-mt-2-metal-zone

@@ -73,3 +73,17 @@ Deep Fryer was aimed at bassists wanting anything from mild thickening to heavie
 2. Reverb — Barber Deep Fryer product history/specifications: https://reverb.com/p/barber-deep-fryer
 3. TalkBass — Barber Deep Fryer owner/history discussion: https://www.talkbass.com/threads/barber-deep-fryer.1044109/
 4. Reverb actual-item listing/photo: https://reverb.com/item/81932037-barber-electronics-deep-fryer-bass-overdrive-free-shipping
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Barber Electronics's Deep Fryer is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+The textures of drive range from natural compression to fat scorching sustain.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/81932037-barber-electronics-deep-fryer-bass-overdrive-free-shipping
+2. NoiseFX - Barber Deep Fryer: https://www.noisefx.com/product_info/barber_electronics_deep_fryer

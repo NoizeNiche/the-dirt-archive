@@ -42,3 +42,31 @@ We added a buffered pickup simulator in front of the circuit to allow the fuzz t
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Description Secret Sauce is our take on the classic Harmonic Percolator circuit.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified transistor/device terms
+- Silicon transistors, BC307, Germanium Fuzz, BC307B.
+
+### Verified diode terms
+- BAT85, LED.
+
+### Verified sound evidence
+We added a buffered pickup simulator in front of the circuit to allow the fuzz to be used everywhere in a signal chain without losing its tone.
+Controls Harmonics - fuzz gain level.
+This circuit, renowned for its harmonically rich and unconventional blend of fuzz and distortion, became the "secret sauce" on numerous influential records, particularly within the alternative and noise rock scenes.
+
+### Sources checked in this pass
+1. Drunk Beaver Pedals Secret Sauce | Drunk Beaver Pedals: https://drunk-beaver.rocks/products/secret-sauce
+2. Drunk Beaver Secret Sauce - Reverb: https://reverb.com/item/83799244-drunk-beaver-secret-sauce
+3. Drunk Beaver Secret Sauce Fuzz | Delicious Audio: https://delicious-audio.com/drunk-beaver-secret-sauce-fuzz/
+4. Guitar Pedal X - GPX Blog - Vitalii Bobrov's Drunk Beaver Secret Sauce Fuzz is a really smart and uniquely textured take on the Harmonic Percolator: https://www.guitarpedalx.com/news/gpx-blog/vitalii-bobrovs-drunk-beaver-secret-sauce-fuzz-is-a-really-smart-and-uniquely-textured-take-on-the-harmonic-percolator
+5. Secret Sauce: https://reverb.grsm.io/DeliciousAudio771?search_term=drunk+beaver+secret+sauce

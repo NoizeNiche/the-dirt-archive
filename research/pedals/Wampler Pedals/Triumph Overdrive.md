@@ -37,3 +37,20 @@ The Wampler Triumph is an affordable overdrive pedal from the Collective Series,
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Wampler Triumph is an affordable overdrive pedal from the Collective Series, offering versatile tones inspired by the Digitech Bad Monkey and Boss SD-1 .
+
+### Verified sound evidence
+The Triumph is a versatile overdrive based around two of Brian’s all-time favorite overdrives.
+In stock (can be backordered) Triumph Overdrive quantity Add to cart Watch video
+The Wampler Triumph is an affordable overdrive pedal from the Collective Series, offering versatile tones inspired by the Digitech Bad Monkey and Boss SD-1 .
+
+### Sources checked in this pass
+1. Triumph Overdrive | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/triumph/
+2. Wampler Pedals Triumph Overdrive | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-triumph-overdrive
+3. Wampler Triumph Overdrive Pedal | Guitar.com: https://guitar.com/products/wampler-triumph-overdrive-pedal/

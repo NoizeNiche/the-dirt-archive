@@ -67,3 +67,20 @@ B-Custom Cool is a low-gain overdrive with a wide range of feel, from open and s
 2. Reverb — Barber B-Custom Cool listing/manual information: https://reverb.com/item/41397924-barber-b-custom-cool-overdrive-pedal
 3. Barber Electronics manufacturer information: https://www.barberelectronics.com/
 4. Barber B-Custom Cool demonstration/product-history material.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Quantity: Barber B-Custom Cool Overdrive Pedal The Barber Electronics Custom Cool overdrive pedal is the newest pedal from the Barber Electronics Custom Shop.
+
+### Verified version references
+- The evidence references: v 12.
+
+### Verified sound evidence
+Quantity: Barber B-Custom Cool Overdrive Pedal The Barber Electronics Custom Cool overdrive pedal is the newest pedal from the Barber Electronics Custom Shop.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/41397924-barber-b-custom-cool-overdrive-pedal
+2. Barber B-Custom Cool Overdrive Pedal:Guitars, Pedals Amps Effects: https://www.tonetronix.com/p/Custom-Cool-Overdrive.html

@@ -40,3 +40,28 @@ Similar Pedals P19 Skreddy Pedals Smooth soaring sustain $259 $233.10 Martian Ta
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on August 19, 2007 Skreddy Pedals distortion pedal Information Skreddy Pedals Smooth, Intense, Sustaining Distortion Based on the "triangle-knob" circa 1971 4-transistor fuzz, but I've changed the input capacitor to a more saturated-sounding type like the circa 1973 'rams head' version fuzz.
+
+### Verified version references
+- The evidence references: MKII, Mk1, v4.
+
+### Verified transistor/device terms
+- BC109, BC239.
+
+### Verified sound evidence
+The origin story goes deeper than that though: I actually designed this pedal in response to Joe Perry's tech guy asking for a Big Muff.
+Lady Skreddy Pedals Sweet, fat vintage fuzz $385 $346.50 Giant Meat Pie BC239 Skreddy Pedals Classic sustaining fuzz: extra sweetness $338 $304.20 ZERO Skreddy Pedals Extra aggressive cutting fuzz $385 $346.50 Cookie Preferences We rely on cookies for storing your shopping cart and regional settings between visits.
+Published on August 19, 2007 Skreddy Pedals distortion pedal Information Skreddy Pedals Smooth, Intense, Sustaining Distortion Based on the "triangle-knob" circa 1971 4-transistor fuzz, but I've changed the input capacitor to a more saturated-sounding type like the circa 1973 'rams head' version fuzz.
+
+### Sources checked in this pass
+1. Fuzz | Pink Flesh | Skreddy Pedals: https://skreddypedals.com/pink-flesh
+2. Skreddy Pedals Pink Flesh | Effects Database: https://www.effectsdatabase.com/model/skreddy/pinkflesh
+3. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fskreddypedals.com%252Fpink-flesh%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
+4. JavaScript is not available.: https://x.com/intent/tweet/?text=Pink+Flesh+-+https%3A%2F%2Fskreddypedals.com%2Fpink-flesh
+5. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fskreddypedals.com%2Fpink-flesh

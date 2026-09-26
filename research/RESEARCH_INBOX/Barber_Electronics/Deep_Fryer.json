@@ -1,0 +1,25 @@
+{
+  "builder": "Barber Electronics",
+  "pedal": "Deep Fryer",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/81932037-barber-electronics-deep-fryer-bass-overdrive-free-shipping",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.noisefx.com/product_info/barber_electronics_deep_fryer",
+      "title": "NoiseFX - Barber Deep Fryer",
+      "h1": "Barber Deep Fryer",
+      "excerpt": "NoiseFX - Barber Deep Fryer Skip to content Articles Manuals Barber Deep Fryer This item is currently out of stock. Condition: Used Description This unit has a thunderous low end with sweet mids and a detailed but smooth top. The textures of drive range from natural compression to fat scorching sustain. NoiseFX Articles and manuals for effect pedals, synthesizers, and noise-making equipment. Articles Manuals Privacy Policy Legal Information &copy; 2004&ndash;2026 NoiseFX.",
+      "host": "www.noisefx.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

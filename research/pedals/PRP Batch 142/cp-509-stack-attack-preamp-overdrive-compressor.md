@@ -16,3 +16,19 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for controls, function and electrical specifications; medium for the broad US-style preamp lineage; low for internal components.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cp500/stackattack ; https://www.bestbuy.ca/en-ca/product/caline-cp-509-stack-attack-overdrive-compressor-guitar-effect-pedal/15761135 ; https://onethousandpedals.com/pedal/caline-cp-509-stack-attack
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-509 Stack Attack - Preamp Overdrive & Compressor is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Caline CP-509 Stack Attack - Preamp Overdrive & Compressor
+Put this after fuzz at the start of your chain â€" set and forget!
+It will literally sweeten up your tone and add that hard-to-find sparkle that you've been looking for.
+
+### Sources checked in this pass
+1. Caline CP-509 Stack Attack Preamp Overdrive Compressor - Armonicos.cl: https://armonicos.cl/pedales/caline-cp-509-stack-attack-preamp-overdrive-compressor
+2. Caline CP-509 Stack Attack - Preamp Overdrive & Compressor | Effects Database: https://www.effectsdatabase.com/model/caline/cp500/stackattack
