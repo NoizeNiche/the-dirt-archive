@@ -4,38 +4,33 @@
 - **Archive parent:** GA-104 Gain
 - **Builder:** Alber
 - **Catalog type:** Overdrive
-- **Identity:** Alber GA-104 Gain overdrive from the zinc AA-X series. [1]
+- **Identity:** Alber's GA-104 Gain.
 
 ## What this pedal is
-Effects Database catalogs the GA-104 Gain as an overdrive pedal in Alber's zinc-enclosure series. The surviving entry preserves the model identity and enclosure family but does not retain a reliable control list or deeper circuit description. [1]
+Alber's GA-104 Gain is cataloged as an overdrive pedal.
 
 ## Colorways
-- **Zinc enclosure / natural metallic finish** is documented by the series classification. [1]
-- Exact painted color variants were not reliably documented.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### GA-104 Gain
-- Alber AA-X zinc series
-- Overdrive classification [1]
-
-The related GA-1040 and GA-1040P are cataloged as separate steel- and plastic-enclosure models. [1]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision was verified.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The accessible record establishes the GA-104 as an overdrive/gain pedal, but it does not preserve enough detail to describe its EQ voicing, clipping character, or compression responsibly. The archive therefore avoids assigning a circuit family or tonal profile that the surviving source does not support. [1]
+fx pedal stompbox stomp box guitar effects pedal overdrive over drive gain saturation distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Effects Database — Alber GA-104 Gain: https://www.effectsdatabase.com/model/alber/zn/ga104
+1. Alber GA-104 Gain | Effects Database: https://www.effectsdatabase.com/model/alber/zn/ga104
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database.
-- **Archive note:** Exact catalog imagery is exposed through an eBay wrapper, but no stable directly retrievable image asset was independently archived.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

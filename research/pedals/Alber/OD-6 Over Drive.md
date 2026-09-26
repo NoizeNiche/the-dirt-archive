@@ -4,38 +4,33 @@
 - **Archive parent:** OD-6 Over Drive
 - **Builder:** Alber
 - **Catalog type:** Overdrive
-- **Identity:** Alber OD-6 Over Drive from the zinc AA-X series. [1]
+- **Identity:** Alber's OD-6 Over Drive.
 
 ## What this pedal is
-Effects Database catalogs the OD-6 Over Drive as an overdrive pedal in Alber's zinc-enclosure series. The surviving record identifies related steel, plastic, and aluminum Alber OD models but does not preserve a reliable control list or circuit description for the OD-6 itself. [1]
+Alber's OD-6 Over Drive is cataloged as an overdrive pedal.
 
 ## Colorways
-- **Zinc enclosure / natural metallic finish** is documented by the series classification. [1]
-- Exact painted color variants were not reliably documented.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### OD-6 Over Drive
-- Alber AA-X zinc series
-- Overdrive classification [1]
-
-Related OD-600, OD-600P, and OD-610 models are separately cataloged enclosure variants in the wider Alber line, not assumed to be identical circuits without further evidence. [1]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision was verified.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The accessible record confirms the OD-6 as an overdrive but does not preserve enough information to document its specific voicing, gain range, clipping method, or compression. The archive records the verified model identity and category without filling the gaps with assumptions. [1]
+fx pedal stompbox stomp box guitar effects pedal overdrive over drive gain saturation distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Effects Database — Alber OD-6 Over Drive: https://www.effectsdatabase.com/model/alber/zn/od6
+1. Alber OD-6 Over Drive | Effects Database: https://www.effectsdatabase.com/model/alber/zn/od6
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database.
-- **Archive note:** Exact catalog imagery is exposed through an eBay wrapper, but no stable directly retrievable image asset was independently archived.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

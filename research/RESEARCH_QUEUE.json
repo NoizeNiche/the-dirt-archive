@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T03:06:19.854854+00:00",
+  "generated_at": "2026-09-26T03:08:42.691985+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,37 +10,23 @@
     "pictured": 2540,
     "complete": 2540,
     "research_pending": 0,
-    "deep_research_pending": 3389,
-    "deep_researched": 372,
+    "deep_research_pending": 3386,
+    "deep_researched": 375,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Alber",
-    "pedal": "GA-104 Gain",
+    "pedal": "GA-1040P Gain",
     "catalog_type": "",
-    "research_record": "./research/pedals/Alber/GA-104 Gain.md",
+    "research_record": "./research/pedals/Alber/GA-1040P Gain.md",
     "research_level": "surface"
   },
   "working_set": [
     {
       "builder": "Alber",
-      "pedal": "GA-104 Gain",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alber/GA-104 Gain.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alber",
       "pedal": "GA-1040P Gain",
       "catalog_type": "",
       "research_record": "./research/pedals/Alber/GA-1040P Gain.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alber",
-      "pedal": "OD-6 Over Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alber/OD-6 Over Drive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Princess Clang",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 047/Princess Clang.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alexander Pedals",
+      "pedal": "Royal Cream",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 047/Royal Cream.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alien Amplification",
+      "pedal": "Origami Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 047/Origami Overdrive.md",
       "research_level": "surface"
     }
   ]

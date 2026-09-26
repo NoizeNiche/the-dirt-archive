@@ -264,6 +264,7 @@
   {
     "builder": "AboveGroundFX",
     "pedal": "Rocks Hard",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
     "research_record": "./research/pedals/AboveGroundFX/Rocks Hard.md"
   },
@@ -333,6 +334,7 @@
   {
     "builder": "Accel Audio",
     "pedal": "Stompzilla Fuzz",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/model/accel/stompzilla",
     "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md"
   },
@@ -549,6 +551,7 @@
   {
     "builder": "Add+ Pedals",
     "pedal": "Der Fuzzer",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/model/addplus/derfuzzer",
     "research_record": "./research/pedals/Add+ Pedals/Der Fuzzer.md"
   },
