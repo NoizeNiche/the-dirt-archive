@@ -32844,8 +32844,8 @@
       "image": "./assets/pedals/fender/hammertone-metal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Hammertone Metal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -34195,8 +34195,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Sucker Punch Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -43027,8 +43027,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Old Blood Noise Endeavors/Haunt Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Old Blood Noise Endeavors",
