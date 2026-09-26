@@ -1,42 +1,39 @@
 # Amplified Nation — Bigger Bloom Overdrive
 
 ## PRP identity
+- **Archive parent:** Bigger Bloom Overdrive
 - **Builder:** Amplified Nation
 - **Catalog type:** Overdrive
-- **Identity:** Revised D-style preamp overdrive derived from the original Big Bloom.
+- **Identity:** Amplified Nation's Bigger Bloom Overdrive.
 
 ## What this pedal is
-Bigger Bloom is the revised version of Amplified Nation's Big Bloom platform. The manufacturer describes increased gain, stronger mids, improved clarity at higher gain, and a more forward attack while retaining the smooth harmonic bloom associated with D-style overdrive. [1][2]
+As I said, its really hard to describe the overdrive character of this pedal because it acts like a big fuzz pedal on the low end, but as you go into the high end the sound retains a lot of clarity like a slightly pushed overdrive pedal would all while providing a lot of harmonic richness.
 
 ## Colorways
-- Anodized aluminum finish is documented in current retail listings.
-- No complete factory colorway history established. [3]
+- Whatever black magic wizardry Taylor put into this pedal will definitely get you hooked.
 
 ## Versions and factory options
-- Drive
-- Accent
-- Tone
-- Level / Volume
-- Jazz/Rock switch
-- top-mounted input/output
-- 9V DC or 9V battery operation [1][3]
+- The verified evidence references: v2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
-Bigger Bloom is explicitly described as a new and improved version of Big Bloom. Changes include more gain, more pronounced mids, improved high-gain clarity, and a revised gain structure with a throatier attack. [1][2]
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Bigger Bloom covers articulate lower-gain tones through saturated lead overdrive, with a strong harmonic bloom and controlled feedback at higher settings. Jazz mode softens the attack and output, while Rock mode raises gain and punch for a more aggressive response. [1][2]
+On Sale Description Video Demos Reviews 1 The Bigger Bloom is an Overdrive Preamp pedal that captures the sound and feel of legendary D-style amplifiers.
+Built off the platform of our Big Bloom Overdrive, the Bigger Bloom adds slightly more gain and pronounced mids.
+The updated version provides more clarity at higher gain settings and delivers a throaty and forward attack that will drive your amp hard!
 
 ## Sources checked
-1. Amplified Nation — https://amplifiednation.com/product/bigger-bloom-overdrive/
-2. Amplified Nation Bigger Bloom manual — https://amplifiednation.com/wp-content/uploads/2024/11/Amplified-Nation-Manual_Bigger-Bloom.pdf
-3. Guitar Center — https://www.guitarcenter.com/Amplified-Nation/Bigger-Bloom-Overdrive-Pedal-Anodized-Aluminum-1500000486422.gc
+1. Bigger Bloom Overdrive - Amplified Nation: https://amplifiednation.com/product/bigger-bloom-overdrive/
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

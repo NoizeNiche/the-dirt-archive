@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T07:04:19.510277+00:00",
+  "generated_at": "2026-09-26T07:12:35.641751+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2681,
     "complete": 2681,
     "research_pending": 0,
-    "deep_research_pending": 3324,
-    "deep_researched": 437,
+    "deep_research_pending": 3318,
+    "deep_researched": 443,
     "surface_ready": 3761
   },
   "next_target": {
@@ -27,20 +27,6 @@
       "pedal": "Operation 1",
       "catalog_type": "",
       "research_record": "./research/pedals/Aleatorik/Operation 1.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alexander Pedals",
-      "pedal": "Hot Pink Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 046/Hot Pink Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amplified Nation",
-      "pedal": "Bigger Bloom Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 047/Bigger Bloom Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Tight Metal",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/Tight_Metal.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amptweaker",
+      "pedal": "Tight Metal Jr",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Amptweaker/Tight_Metal_Jr.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amptweaker",
+      "pedal": "Tight Metal Pro",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Amptweaker/Tight_Metal_Pro.md",
       "research_level": "surface"
     }
   ]

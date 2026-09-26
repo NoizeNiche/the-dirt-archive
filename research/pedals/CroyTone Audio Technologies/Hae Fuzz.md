@@ -7,7 +7,7 @@
 - **Identity:** CroyTone Audio Technologies's Hae Fuzz.
 
 ## What this pedal is
-CroyTone Audio Technologies's Hae Fuzz is cataloged as a Fuzz pedal.
+CroyTone Audio Technologies's Hae Fuzz is cataloged as a fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,11 +27,10 @@ CroyTone Audio Technologies's Hae Fuzz is cataloged as a Fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-CroyTone Audio Technologies describes the Hae Fuzz as an aggressive, brash and cutting fuzz that continues an octave-fuzz circuit the builder has developed over several years.
-The product is aimed particularly at alternative and shoegaze sounds associated with the 1980s and 1990s, with strong octave and ring-modulated textures, substantial output and flexible tone shaping.
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Hae Fuzz – Croy Tone Audio Technologies: https://croytoneaudio.com/en/products/hae-fuzz
+1. Hae Fuzz &ndash; Croy Tone Audio Technologies: https://croytoneaudio.com/en/products/hae-fuzz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

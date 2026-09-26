@@ -7,7 +7,7 @@
 - **Identity:** CroyTone Audio Technologies's Suzumebachi Fuzz.
 
 ## What this pedal is
-CroyTone Audio Technologies describes the Suzumebachi Fuzz as a design born from the builder's love of stacking fuzz pedals to create very large sounds.
+CroyTone Audio Technologies's Suzumebachi Fuzz is cataloged as a fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,13 +27,10 @@ CroyTone Audio Technologies describes the Suzumebachi Fuzz as a design born from
 - **Exact part:** Unknown.
 
 ## Sound
-CroyTone Audio Technologies describes the Suzumebachi Fuzz as a design born from the builder's love of stacking fuzz pedals to create very large sounds.
-It combines several fuzz approaches for high gain and fuzz with extensive control over attack, tone and gating, and is intended to cover massive doomy textures as well as sharper, percussive gated sounds.
-A CroyTone Audio Technologies announcement dated October 16, 2024 names the Camper Fuzz, Hae Fuzz and Suzumebachi Fuzz as the first three effects released from the company's Japan operation.
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Suzumebachi Fuzz – Croy Tone Audio Technologies: https://croytoneaudio.com/en/products/suzumebachi-fuzz
-2. CroyTone Audio Technologies release announcement: https://www.instagram.com/p/DBNZA9ySV1O/
+1. Suzumebachi Fuzz &ndash; Croy Tone Audio Technologies: https://croytoneaudio.com/en/products/suzumebachi-fuzz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
