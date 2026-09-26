@@ -1,0 +1,25 @@
+{
+  "builder": "Alien Rabbit",
+  "pedal": "Magic Drive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/blog/discofreq?page=99",
+      "title": "DiscoFreq's blog - Effects Database",
+      "h1": "DiscoFreq's blog",
+      "excerpt": "Effects Database's August 8, 2011 weekly overview lists Alien Rabbit Magic Drive among the 44 new effects and identifies Alien Rabbit as one of the five new brands added that week.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "catalog_history"
+    },
+    {
+      "url": "https://www.91pu.com.tw/article/musicknowledge/2016/0930/4759.html",
+      "title": "品牌探索 原創的職人堅持 - Alien Rabbit (上)",
+      "h1": "品牌探索 原創的職人堅持 - Alien Rabbit (上)",
+      "excerpt": "A 2016 interview with Alien Rabbit founder Ji Wei identifies Magic Drive as the brand's first released effect, describes it as a dual-channel tube overdrive, and says the prototype helped motivate the creation of the Alien Rabbit brand.",
+      "host": "www.91pu.com.tw",
+      "source_kind": "builder_interview"
+    }
+  ],
+  "next_action": "Use the founder interview as the primary evidence for Magic Drive's dual-channel tube-overdrive identity and early history. Keep undocumented control, component, and revision claims out of the canonical record."
+}
