@@ -355,6 +355,22 @@ async function fetchSearchPageIdentity(page, url) {
   }
 }
 
+function researchRecordSourcePages(entry) {
+  const record = String(entry.research_record || '').trim();
+  if (!record) return [];
+  try {
+    const relative = record.startsWith('./') ? record.slice(2) : record.replace(/^\//, '');
+    const filePath = path.join(ROOT, relative);
+    if (!fs.existsSync(filePath)) return [];
+    const markdown = fs.readFileSync(filePath, 'utf8');
+    const sourceSection = markdown.match(/## Sources checked[\\s\\S]*?(?=\\n## |$)/i)?.[0] || '';
+    const urls = sourceSection.match(/https?:\\/\\/[^\\s)]+/g) || [];
+    return [...new Set(urls.map(u => u.replace(/[.,]+$/, '')))].slice(0, 6);
+  } catch {
+    return [];
+  }
+}
+
 function preferredSourcePage(entry) {
   const imagePage = entry.image_source_page || null;
   const sourcePage = entry.source_page || null;
@@ -374,8 +390,12 @@ function preferredSourcePages(entry) {
     ? entry.image_source_pages.filter(value => /^https?:/i.test(String(value || '')))
     : [];
   const preferred = preferredSourcePage(entry);
-  if (preferred && /^https?:/i.test(preferred)) pages.unshift(preferred);
-  return [...new Set(pages)].slice(0, 6);
+  const researchPages = researchRecordSourcePages(entry);
+  const combined = [];
+  if (preferred && /^https?:/i.test(preferred)) combined.push(preferred);
+  combined.push(...researchPages);
+  combined.push(...pages);
+  return [...new Set(combined)].slice(0, 8);
 }
 
 function hostMatchesBuilder(url, company) {
