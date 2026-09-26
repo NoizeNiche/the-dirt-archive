@@ -31685,7 +31685,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/terminal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Terminal.md",
       "research_level": "surface",
@@ -40796,7 +40796,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mid-fi-electronics/what/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/What?.md",
       "research_level": "surface",
@@ -41097,7 +41097,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/sericon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Sericon.md",
       "research_level": "surface",
@@ -41550,7 +41550,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mr-black/thunderclaw-scorpion-milk/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/ThunderClaw - Scorpion Milk.md",
       "research_level": "surface",
@@ -41563,7 +41563,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mr-black/vintage-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Vintage Overdrive.md",
       "research_level": "surface",
@@ -41659,7 +41659,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/classic-108-fuzz-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Classic 108 Fuzz Mini.md",
       "research_level": "surface",
@@ -41671,7 +41671,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/custom-badass-78-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Custom Badass '78 Distortion.md",
       "research_level": "surface",
@@ -42129,7 +42129,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mystic-effects-co/fuzz-button/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mystic Effects Co/Fuzz Button.md",
       "research_level": "surface",
@@ -42141,7 +42141,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mystic-effects-co/octavia-vintage-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mystic Effects Co/Octavia Vintage Octave Fuzz.md",
       "research_level": "surface",
@@ -42166,7 +42166,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/1n34a-mjolnir-gold/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/1N34A Mjolnir - Gold.md",
       "research_level": "surface",
@@ -42178,7 +42178,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/1n34a-mjolnir-silver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/1N34A Mjolnir - Silver.md",
       "research_level": "surface",
@@ -42203,7 +42203,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/argo-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Argo Octave Fuzz.md",
       "research_level": "surface",
@@ -42460,7 +42460,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/59-bassguy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/’59 Bassguy.md",
       "research_level": "surface",

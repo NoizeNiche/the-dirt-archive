@@ -15707,7 +15707,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Terminal",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/terminal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Terminal.md"
   },
@@ -20852,7 +20852,7 @@
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "What?",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/what/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/What?.md"
   },
@@ -21027,7 +21027,7 @@
   {
     "builder": "Mojo Hand FX",
     "pedal": "Sericon",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/sericon/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Sericon.md"
   },
@@ -21286,14 +21286,14 @@
   {
     "builder": "Mr. Black",
     "pedal": "ThunderClaw - Scorpion Milk",
-    "image": null,
+    "image": "./assets/pedals/mr-black/thunderclaw-scorpion-milk/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mr. Black/ThunderClaw - Scorpion Milk.md"
   },
   {
     "builder": "Mr. Black",
     "pedal": "Vintage Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mr-black/vintage-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mr. Black/Vintage Overdrive.md"
   },
@@ -21349,14 +21349,14 @@
   {
     "builder": "MXR",
     "pedal": "Classic 108 Fuzz Mini",
-    "image": null,
+    "image": "./assets/pedals/mxr/classic-108-fuzz-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Classic 108 Fuzz Mini.md"
   },
   {
     "builder": "MXR",
     "pedal": "Custom Badass '78 Distortion",
-    "image": null,
+    "image": "./assets/pedals/mxr/custom-badass-78-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Custom Badass '78 Distortion.md"
   },
@@ -21622,14 +21622,14 @@
   {
     "builder": "Mystic Effects Co",
     "pedal": "Fuzz Button",
-    "image": null,
+    "image": "./assets/pedals/mystic-effects-co/fuzz-button/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mystic Effects Co/Fuzz Button.md"
   },
   {
     "builder": "Mystic Effects Co",
     "pedal": "Octavia Vintage Octave Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mystic-effects-co/octavia-vintage-octave-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mystic Effects Co/Octavia Vintage Octave Fuzz.md"
   },
@@ -21643,14 +21643,14 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "1N34A Mjolnir - Gold",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/1n34a-mjolnir-gold/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/1N34A Mjolnir - Gold.md"
   },
   {
     "builder": "Mythos Pedals",
     "pedal": "1N34A Mjolnir - Silver",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/1n34a-mjolnir-silver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/1N34A Mjolnir - Silver.md"
   },
@@ -21664,7 +21664,7 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "Argo Octave Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/argo-octave-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/Argo Octave Fuzz.md"
   },
@@ -21811,7 +21811,7 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "’59 Bassguy",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/59-bassguy/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/’59 Bassguy.md"
   },
