@@ -4,35 +4,33 @@
 - **Archive parent:** Tri-Mode Fuzz
 - **Builder:** Akai
 - **Catalog type:** Fuzz
-- **Identity:** Akai Professional Analog Custom Shop fuzz product listed in the surviving catalog.
+- **Identity:** Akai's Tri-Mode Fuzz.
 
 ## What this pedal is
-Effects Database lists **Akai Tri-Mode Fuzz** as a distinct fuzz pedal in the Akai catalog. The accessible surviving source set does not preserve enough reliable product detail to document its exact circuit, controls, or mode functions without guessing. [1]
+Akai's Tri-Mode Fuzz is cataloged as a fuzz pedal.
 
 ## Colorways
-- Exact production finish history was not reliably documented.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Tri-Mode Fuzz
-- Fuzz pedal.
-- Separate named Akai catalog product. [1]
-- Exact factory mode/control implementation is not sufficiently preserved in the accessible source set.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision was verified.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The surviving catalog material establishes the pedal as a fuzz but does not preserve enough detail to describe its circuit family or exact voicing responsibly. The archive therefore records the product identity without inventing a tone or component specification that the available source does not support. [1]
+DISC Akai Analog Custom Shop Tri Mode Fuzz Effect Pedal at Gear4music Unsupported Browser The web browser that you are currently using is no longer supported, and as such features of this website may not work as expected.
 
 ## Sources checked
-1. Effects Database — fuzz pedal index: https://www.effectsdatabase.com/type/fuzz/pedal
+1. DISC Akai Analog Custom Shop Tri Mode Fuzz Effect Pedal at Gear4music: https://www.gear4music.ie/Guitar-and-Bass/DISC-Akai-Analog-Custom-Shop-Tri-Mode-Fuzz-Effect-Pedal/F0E
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database fuzz index.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

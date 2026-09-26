@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T03:01:28.531Z",
+  "generated_at": "2026-09-26T03:01:54.296365+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2543,
     "complete": 2543,
     "research_pending": 0,
-    "deep_research_pending": 3401,
-    "deep_researched": 360,
+    "deep_research_pending": 3399,
+    "deep_researched": 362,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Akai",
-    "pedal": "Tri-Mode Fuzz",
+    "pedal": "Tri-Mode Overdrive",
     "catalog_type": "",
-    "research_record": "./research/pedals/Akai/Tri-Mode Fuzz.md",
+    "research_record": "./research/pedals/Akai/Tri-Mode Overdrive.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Akai",
-      "pedal": "Tri-Mode Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Akai/Tri-Mode Fuzz.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Akai",
       "pedal": "Tri-Mode Overdrive",
@@ -195,6 +188,13 @@
       "pedal": "Loverdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 046/Loverdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alen Geere",
+      "pedal": "Methoxy Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 046/Methoxy Overdrive.md",
       "research_level": "surface"
     }
   ]

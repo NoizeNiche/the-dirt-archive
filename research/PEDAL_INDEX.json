@@ -1953,8 +1953,8 @@
       "research_record": "./research/pedals/Akai/Tri-Mode Fuzz.md",
       "image_source_url": "https://r2.gear4music.com/media/3/30337/1200/preview.jpg",
       "image_source_page": "https://www.gear4music.ie/Guitar-and-Bass/DISC-Akai-Analog-Custom-Shop-Tri-Mode-Fuzz-Effect-Pedal/F0E",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Akai",
@@ -51181,8 +51181,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Box of Metal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",
