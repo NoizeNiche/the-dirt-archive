@@ -35,3 +35,13 @@ This site contains affiliate links for which I may be compensated Crock OD-2 Ove
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crock's OD-2 Over Drive Plus is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Crock OD-2 Over Drive Plus | Effects Database: https://www.effectsdatabase.com/model/crock/od2

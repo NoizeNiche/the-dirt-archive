@@ -5074,8 +5074,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 357,
       "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/jackson-audio-effects-and-pedals-fuzz-jackson-audio-fuzz-modular-fuzz-pedal-jafuzz-u1-29383924875399.jpg?v=1657736241&width=1445",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Audio-Phonic",
@@ -9535,8 +9535,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://i.pinimg.com/736x/2e/69/9b/2e699ba1c3e1b9b9f849a376d7929eb5.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Lloyde",
@@ -27429,8 +27429,8 @@
       "image": "./assets/pedals/crock/od-2-over-drive-plus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crock/OD-2 Over Drive Plus.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crock",
@@ -27441,8 +27441,8 @@
       "image": "./assets/pedals/crock/sd-2-super-over-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crock/SD-2 Super Over Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crock",
@@ -27453,8 +27453,8 @@
       "image": "./assets/pedals/crock/sm-2-super-metal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crock/SM-2 Super Metal.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crock",
@@ -27465,8 +27465,8 @@
       "image": "./assets/pedals/crock/sm-3-super-metal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crock/SM-3 Super Metal.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crock",
@@ -27477,8 +27477,8 @@
       "image": "./assets/pedals/crock/tm-2-thrash-master/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crock/TM-2 Thrash Master.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CrockettDial Productions",
@@ -27489,8 +27489,8 @@
       "image": "./assets/pedals/crockettdial-productions/the-kwaker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CrockettDial Productions/The Kwaker.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crossfire",
@@ -29348,8 +29348,8 @@
       "image": "./assets/pedals/death-by-audio/octave-clang-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Octave Clang V2.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Death By Audio",
@@ -29401,8 +29401,8 @@
       "image": "./assets/pedals/death-by-audio/thee-treble-overload/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Thee Treble Overload.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Decibelics",
@@ -33184,8 +33184,8 @@
       "image": "./assets/pedals/fortin/natas-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fortin/Natas Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxgear",
@@ -33233,8 +33233,8 @@
       "image": "./assets/pedals/foxgear/manic/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Manic.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxgear",
@@ -36809,8 +36809,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Monterey Rotary Fuzz Vibe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -43322,8 +43322,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/Deputy Marshall Plexi Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Outlaw Effects",

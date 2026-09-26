@@ -34,3 +34,13 @@ Published on June 14, 2009 Crock distortion pedal Super Metall Super Metall Supe
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crock's SM-2 Super Metal is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Crock SM-2 Super Metal | Effects Database: https://www.effectsdatabase.com/model/crock/sm2

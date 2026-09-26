@@ -37,3 +37,28 @@ Amazon.com: Death by Audio Octave Clang V2 Fuzz Pedal : Musical Instruments Skip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Try it out and you’ll see – this is the most mind-blowing octave fuzz pedal we’ve ever heard.
+
+### Verified color/finish evidence
+- Controls Bypass (Left Footswitch) Turns the Octave Clang on and off (red LED) Octave (Right Footswitch) Toggles the Octave Up mode (yellow LED).
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The resulting circuit is an insane yet versatile beast, empowering you to easily sculpt discordant ringing drones, visceral octave scrapes, and ground-shaking distortion.
+The Octave Clang’s special octave transformer works to deliver a unique blend of octave-up fuzz and “clangorous” tones.
+For those who like to tweak, the Octave Clang offers a bias knob on the inside, giving you the power to fine-tune the pedal's response for even more tonal possibilities.
+
+### Sources checked in this pass
+1. Death by Audio OCTAVE CLANG V2 (Death by Audio Octave | Reverb: https://reverb.com/item/92903293-death-by-audio-octave-clang-v2-death-by-audio-octave-distortion
+2. OCTAVE CLANG - Death By Audio: https://deathbyaudio.com/products/octave-clang

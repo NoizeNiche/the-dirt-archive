@@ -35,3 +35,13 @@ This site contains affiliate links for which I may be compensated Crock SD-2 Sup
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crock's SD-2 Super Over Drive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Crock SD-2 Super Over Drive | Effects Database: https://www.effectsdatabase.com/model/crock/sd2

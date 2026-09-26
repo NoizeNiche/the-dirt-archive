@@ -41,3 +41,13 @@ The surviving documentation supports identifying the R4 as a fuzz/distortion-era
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/audiophonic/r4
 - **Archive note:** Period advertising imagery exists in the external archival sources, but no stable exact-model image asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Audio-Phonic's R4 Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Audio-Phonic R4 Fuzz | Effects Database: https://www.effectsdatabase.com/model/audiophonic/r4

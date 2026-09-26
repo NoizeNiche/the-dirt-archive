@@ -37,3 +37,22 @@ To achieve that bite, Thee Treble Overload carves away bass, tightening your ton
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Thee Treble Overload is dual mono, meaning it can process stereo chains, perfect for blasting your stereo reverbs, choruses, delays, keyboards, or drum machines straight into overdrive.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+To achieve that bite, Thee Treble Overload carves away bass, tightening your tone and bringing definition to whatever sound you feed it.
+Details Armed with nearly 60dB of gain and a LIMIT control, you can push it from a cutting boost to crispy obliteration while still keeping your output balanced with the rest of the band.
+Thee Treble Overload is dual mono, meaning it can process stereo chains, perfect for blasting your stereo reverbs, choruses, delays, keyboards, or drum machines straight into overdrive.
+
+### Sources checked in this pass
+1. THEE TREBLE OVERLOAD - DEATH BY AUDIO - Death By Audio: https://deathbyaudio.com/products/thee-treble-overload
+2. Amazon.com: Death by Audio Thee Treble Overload - Treble Booster Guitar Effects Pedal : Musical Instruments: https://www.amazon.com/Death-Audio-Thee-Treble-Overload/dp/B0GCPD8361

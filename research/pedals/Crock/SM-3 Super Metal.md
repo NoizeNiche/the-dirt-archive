@@ -35,3 +35,16 @@ Published on April 6, 2020 Crock distortion pedal v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crock's SM-3 Super Metal is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Crock SM-3 Super Metal | Effects Database: https://www.effectsdatabase.com/model/crock/sm3

@@ -34,3 +34,13 @@ Published on April 23, 2019 Crock distortion pedal picture by Audiodrome picture
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crock's TM-2 Thrash Master is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Crock TM-2 Thrash Master | Effects Database: https://www.effectsdatabase.com/model/crock/tm2
