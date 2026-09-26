@@ -41,7 +41,8 @@ def main():
                     except Exception:
                         continue
                     if (
-                        f'- **Builder:** {builder}' in text
+                        f'# {builder} — {pedal}' in text
+                        and f'- **Builder:** {builder}' in text
                         and f'- **Archive parent:** {pedal}' in text
                     ):
                         candidates.append(candidate)
