@@ -253,13 +253,13 @@ def main():
         if not item:
             held += 1
             continue
-        existing_surface = (
-            str(item.get("research_level") or "").strip().lower() == "surface"
+        existing_revisitable = (
+            str(item.get("research_level") or "").strip().lower() in {"surface", "researched"}
             and bool(item.get("research_record"))
         )
         ok, reason = write_record(item, type_by_key.get(key, ""), packet)
         if ok:
-            if existing_surface:
+            if existing_revisitable:
                 deepened += 1
             else:
                 created += 1
