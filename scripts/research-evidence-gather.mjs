@@ -313,9 +313,16 @@ async function targetRecord(builder,pedal,type){
       }
     }
   }
-  const queryResults = await boundedMap(queries, 2, q => search(q));
-  for(const batch of queryResults){
-    for(const x of batch || []) if(!found.has(x.url)) found.set(x.url,x);
+  const knownHosts = new Set(urls.map(host).filter(Boolean));
+  // Curated/verified targets commonly arrive with two or more exact source
+  // hosts already wired in. Once that diversity exists, broad search adds a
+  // lot of latency and very little identity value, so reserve search-engine
+  // work for targets that still need discovery.
+  if(knownHosts.size < 2){
+    const queryResults = await boundedMap(queries, 2, q => search(q));
+    for(const batch of queryResults){
+      for(const x of batch || []) if(!found.has(x.url)) found.set(x.url,x);
+    }
   }
   const candidates=[...found.values()];
   const ranked=candidates.map(x=>({x,f:fit(builder,pedal,x.title+' '+x.url)}))
