@@ -1,23 +1,37 @@
 # Walrus Audio — Melee: Wall of Noise — Distortion + Reverb
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Melee: Wall of Noise — Distortion + Reverb
 - **Builder:** Walrus Audio
-- **Pedal:** Melee: Wall of Noise — Distortion + Reverb
 - **Catalog type:** Distortion / Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Walrus Audio's Melee: Wall of Noise — Distortion + Reverb.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Melee: Wall of Noise — Distortion + Reverb** by **Walrus Audio** as a **Distortion / Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Walrus Audio's Melee: Wall of Noise — Distortion + Reverb is cataloged as a distortion / fuzz / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MKII.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Tech Demo - Melee: Wall of Noise Distortion + Reverb Pedal FREE SHIPPING We ship most orders within 1-3 business days.
+
+## Sources checked
+1. Tech Demo - Melee: Wall of Noise Distortion + Reverb Pedal: https://www.walrusaudio.com/blogs/news/understanding-the-melee-wall-of-noise-distortion-reverb-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

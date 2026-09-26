@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "records": {},
+  "options": {
+    "transistor": [
+      "Germanium",
+      "Silicon",
+      "JFET",
+      "MOSFET",
+      "Tube",
+      "Mixed"
+    ],
+    "clipping": [
+      "Germanium",
+      "Silicon",
+      "LED",
+      "MOSFET",
+      "Mixed"
+    ]
+  },
+  "_build": {
+    "research_files_seen": 3587,
+    "catalog_records_matched": 2504
+  }
+}
