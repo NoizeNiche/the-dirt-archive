@@ -6386,8 +6386,8 @@
       "research_record": "./research/pedals/Bad Penny FX/Wireless Germanium Fuzz.md",
       "image_source_page": "https://gearhero.com/products/bad-penny-fx-wireless-germanium-fuzz",
       "image_source_url": "https://gearhero.com/cdn/shop/products/8f79918e-a46c-4b0b-ad7b-163be490e4d7.jpg?v=1603730771&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -34019,8 +34019,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Lightspeed Organic Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34032,8 +34032,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Little Samson.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34905,8 +34905,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TS808HWV2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -34917,8 +34917,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TS9.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -36583,8 +36583,8 @@
       "image": "./assets/pedals/keeley-electronics/aria-compressor-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Aria Compressor Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -37789,8 +37789,8 @@
       "image": "./assets/pedals/leqtique/11-11/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/11/11.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
@@ -42941,8 +42941,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/MOTÖRBASS.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "OKKO FX",
@@ -46746,8 +46746,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Magus Pro.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",

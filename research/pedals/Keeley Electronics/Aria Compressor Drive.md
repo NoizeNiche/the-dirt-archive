@@ -1,23 +1,42 @@
 # Keeley Electronics — Aria Compressor Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Aria Compressor Drive
 - **Builder:** Keeley Electronics
-- **Pedal:** Aria Compressor Drive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Keeley Electronics's Aria Compressor Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Aria Compressor Drive** by **Keeley Electronics** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Keeley Electronics's Aria Compressor Drive is cataloged as a Overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- The legendary Keeley Compressor and Red Dirt Overdrive have been packed into one small and powerful stomp box!
+- The newly redesigned tube style overdrive circuit features our super overdrive Red Dirt sound as well as the very clean and bold White Sands transparent drive.
+- Keeley Electronics Aria Compressor Drive - Multi-Effects for Electric Guitar - Audiofanzine .hamburger{padding:0;display:inline-block;cursor:pointer;transition-property:opacity,filter;transition-duration:.15s;transition-timing-function:linear;font:inherit;color:inherit;text-transform:none;background-color:transparent;border:0;margin:0;overflow:visible}.hamburger:hover{opacity:.7}.hamburger.is-active:hover{opacity:.7}.hamburger.is-active .hamburger-inner,.hamburger.is-active .hamburger-inner::before,.hamburger.is-active .hamburger-inner::after{background-color:#fff}.hamburger-box{width:24px;display:flex;position:relative;align-self:center;height:16px}.hamburger-inner{display:block;top:50%;margin-top:-2px}.hamburger-inner,.hamburger-inner::before,.hamburger-inner::after{width:24px;height:2px;background-color:#fff;border-radius:4px;position:absolute;transition-property:transform;transition-duration:.15s;transition-timing-function:ease}.hamburger-inner::before,.hamburger-inner::after{content:"";display:block}.hamburger-inner::before{top:-6px}.hamburger-inner::after{top:-12px !important}.hamburger--collapse .hamburger-inner{top:auto;bottom:0;transition-duration:.13s;transition-delay:.13s;transition-timing-function:cubic-bezier(0.55,0.055,0.675,0.19)}.hamburger--collapse .hamburger-inner::after{top:-20px;transition:top .2s .2s cubic-bezier(0.33333,0.66667,0.66667,1),opacity .1s linear}.hamburger--collapse .hamburger-inner::before{transition:top .12s .2s cubic-bezier(0.33333,0.66667,0.66667,1),transform .13s cubic-bezier(0.55,0.055,0.675,0.19)}.hamburger--collapse.is-active .hamburger-inner{transform:translate3d(0,-6px,0) rotate(-45deg);transition-delay:.22s;transition-timing-function:cubic-bezier(0.215,0.61,0.355,1)}.hamburger--collapse.is-active .hamburger-inner::after{top:0;opacity:0;transition:top .2s cubic-bezier(0.33333,0,0.66667,0.33333),opacity .1s .22s linear}.hamburger--collapse.is-active .hamburger-inner::before{top:0;transform:rotate(-90deg);transition:top .1s .16s cubic-bezier(0.33333,0,0.66667,0.33333),transform .13s .25s cubic-bezier(0.215,0.61,0.355,1)}@font-face{font-family:'Open Sans Condensed';font-style:normal;font-weight:700;font-display:optional;src:url('https://static.audiofanzine.com/styles/webfonts/open-sans-condensed-v15-latin-700.eot');src:local(''),url('https://static.audiofanzine.com/styles/webfonts/open-sans-condensed-v15-latin-700.eot?#iefix') format('embedded-opentype'),url('https://static.audiofanzine.com/styles/webfonts/open-sans-condensed-v15-latin-700.woff2') format('woff2'),url('https://static.audiofanzine.com/styles/webfonts/open-sans-condensed-v15-latin-700.woff') format('woff'),url('https://static.audiofanzine.com/styles/webfonts/open-sans-condensed-v15-latin-700.ttf') format('truetype'),url('https://static.audiofanzine.com/styles/webfonts/open-sans-condensed-v15-latin-700.svg#OpenSansCondensed') format('svg')}@keyframes jump-shaking{0%{transform:translateX(0)}25%{transform:translateY(-6px)}35%{transform:translateY(-6px) rotate(2deg)}55%{transform:translateY(-6px) rotate(-2deg)}65%{transform:translateY(-6px) rotate(2deg)}75%{transform:translateY(-6px) rotate(-2deg)}100%{transform:translateY(0) rotate(0)}}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}article iframe{max-width:100%}[v-cloak]{display:none !important}.clearfix:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}.clearfix{display:inline-block}.pull-right{float:right}.pull-left{float:left}.align-center{text-align:center}html[xmlns] .clearfix{display:block}* html .clearfix{height:1%}*{padding:0;margin:0}p{margin:1em 0}.main-text{font-size:1em;line-height:1.4em}body{--basic-text:#000;--text-color:#223240;--text-color-invert:#fff;--text-color-light:#6d8193;--text-color-light-grey:#383c3f;--text-color-lighter:#afafaf;--text-color-dark:#213146;--text-color-blue-light:#718192;--subtext-color-light:#6d8193;--text-grey-blue-light:#607182;--text-grey-blue-light-2:#65
+
+## Versions and factory options
+- The verified evidence references: v15.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Aria Compressor Drive by Keeley Electronics | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Keeley Electronics Aria Compressor Drive LOG IN TO SUGGEST IMPROVEMENTS COMPRESSOR OVERDRIVE Description Keeley has combined his most popular two effects, Drive and Compression!
+The legendary Keeley Compressor and Red Dirt Overdrive have been packed into one small and powerful stomp box!
+Swap the order of the compressor and drive for amazing sonic versatility…on the fly!
+
+## Sources checked
+1. Aria Compressor Drive by Keeley Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Aria-Compressor-Drive/154344600/
+2. Keeley Electronics Aria Compressor Drive - Multi-Effects for Electric Guitar - Audiofanzine: https://en.audiofanzine.com/electric-guitar-multi-effects/keeley-electronics/aria-compressor-plus-distortion/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
