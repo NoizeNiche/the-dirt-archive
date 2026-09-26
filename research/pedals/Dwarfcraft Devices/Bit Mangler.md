@@ -36,3 +36,22 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dwarfcraft Devices's Bit Mangler is cataloged as a fuzz pedal.
+
+### Verified diode terms
+- LEDs.
+
+### Verified sound evidence
+Formerly produced by Devi Ever USA, the Bit Mangler pedal rips your guitar tone into a new and exciting chaotic noise masterpiece.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices Bit Mangler - Reverb: https://reverb.com/item/16615715-dwarfcraft-devices-bit-mangler
+2. Dwarfcraft Devices Bit Mangler | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/bitmangler
+3. Pictures and images Dwarfcraft Devices Bit Mangler - Audiofanzine: https://en.audiofanzine.com/other-guitar-saturation-effect/dwarfcraft-devices/bit-mangler/medias/pictures/
+4. Devi Ever (Dwarfcraft) Bit Mangler | #519052219 - WorthPoint: https://www.worthpoint.com/worthopedia/devi-ever-dwarfcraft-bit-mangler-519052219

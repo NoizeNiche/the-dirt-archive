@@ -30719,8 +30719,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/bit-mangler/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Bit Mangler.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -30731,8 +30731,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/dream-mangler/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Dream Mangler.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -33708,8 +33708,8 @@
       "image": "./assets/pedals/fulltone/ocd-germanium/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/OCD-Germanium.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -35995,8 +35995,8 @@
       "image": "./assets/pedals/jhs-pedals/double-dragon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Double Dragon.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -36923,8 +36923,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Red Nectar Compressor and Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -45674,8 +45674,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Saturn VI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Spaceman Effects",

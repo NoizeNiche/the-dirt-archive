@@ -43,3 +43,27 @@ with bo Add to cart Category: Used Share: Description Reviews (0) DEVI EVER desi
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Product Specs Item Number: 183 Make: Dwarfcraft Devices Model: Dream Mangler Categories: effects-and-pedals fuzz pedal Cost: $25 Free Shipping: We offer free shipping on orders over $30.
+
+### Verified diode terms
+- LEDs.
+
+### Verified sound evidence
+Joystick control for the intensity & texture of both circuits and the oscillation when the disaster fuzz is engaged.
+Product Specs Item Number: 183 Make: Dwarfcraft Devices Model: Dream Mangler Categories: effects-and-pedals ⇒ fuzz ⇒ pedal Related products -48% Boss AB-2 2-Way Selector $ 34.30 Original price was: $34.30.
+On one side is a Disaster Fuzz, on the other is a vintage fuzz master for all the destructive tone that you could ask for.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices Dream Mangler: https://www.masterguitarworks.com/products/dwarfcraft-devices-dream-mangler/
+2. Dwarfcraft Devices Dream Mangler (Devi Ever) | Reverb: https://reverb.com/item/99754189-dwarfcraft-devices-dream-mangler-devi-ever
+3. Dwarfcraft Devices Dream Mangler | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/dreammangler
+4. Dwarfcraft Devices Dream Mangler - eagletones.com: https://www.eagletones.com/product/dwarfcraft-devices-dream-mangler/
+5. Dwarfcraft Devices Dream Mangler - Classical Guitars Crafted for Warm ...: https://www.nobleguitar.com/product/dwarfcraft-devices-dream-mangler/
+6. Dwarfcraft Devices Dream Mangler - Play Faster with Grippy Guitar Picks for Serious Guitar Players: https://www.guitarplectrum.com/product/dwarfcraft-devices-dream-mangler/
+7. Dream Mangler dual fuzz (with joystick!) by Dwarfcraft Devices: https://www.reddit.com/r/guitarpedals/comments/858ax4/dream_mangler_dual_fuzz_with_joystick_by/
