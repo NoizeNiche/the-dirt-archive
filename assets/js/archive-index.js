@@ -8,6 +8,15 @@ function hasActiveFilters(){
   return selectedType!=='All'||Boolean(selectedBuilder)||Boolean(q);
 }
 
+function renderFilterSummary(){
+  const state=$('filterSummaryState');
+  if(!state)return;
+  const parts=[];
+  if(selectedType!=='All')parts.push(selectedType);
+  if(selectedBuilder)parts.push(selectedBuilder);
+  if(q)parts.push('Search: '+q);
+  state.textContent=parts.length?parts.join(' · '):'All pedals';
+}
 function renderClearFilters(){
   const button=$('clearFilters');
   if(!button)return;
@@ -164,6 +173,7 @@ function render(){
   renderTypeMenu();
   renderBuilders();
   renderClearFilters();
+  renderFilterSummary();
 
   const visible=filteredItems();
   const discoverButton=$('discoverPedal');
