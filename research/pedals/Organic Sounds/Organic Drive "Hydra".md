@@ -1,23 +1,42 @@
 # Organic Sounds — Organic Drive "Hydra"
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Organic Drive "Hydra"
 - **Builder:** Organic Sounds
-- **Pedal:** Organic Drive "Hydra"
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Organic Sounds's Organic Drive "Hydra".
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Organic Drive "Hydra"** by **Organic Sounds** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Organic Sounds’ first-ever original OverDrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Buffered bypass for a natural, deep sound when the pedal is off.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
+ORGANIC SOUNDS Organic Drive "Hydra" - Your Complete Music Store – Instruments, Vinyl & More FLASH SALE: EVERYTHING HALF PRICE!
+Organic Sounds’ first-ever original OverDrive pedal.
+
+## Sources checked
+1. Organic Drive "Hydra" | Organic Sounds: https://organic-sounds.com/products/organic-drive-hydra
+2. Organic Drive "Hydra" – Organic Sounds Overseas Sales Division: https://organic-sounds-overseas-sales-division.com/products/organic-drive-hydra
+3. Organic Sounds Organic Drive "Hydra" (NEW) - Reverb: https://reverb.com/item/97764326-organic-sounds-organic-drive-hydra-new
+4. Organic Sounds Organic Drive "Hydra" (NEW) - TC楽器 - TCGAKKI: https://tcgakki.com/en/products/organic-sounds-organic-drive-hydra-new-1
+5. ORGANIC SOUNDS Organic Drive "Hydra" - Your Complete Music Store – Instruments, Vinyl & More: https://www.vinylstorex.com/product/organic-sounds-organic-drive-hydra/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
