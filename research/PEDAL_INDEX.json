@@ -1703,8 +1703,8 @@
       "image_source_urls": [
         "https://aetherelectronic.wordpress.com/wp-content/uploads/2017/03/lenore.jpg?w=662"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AGR Pedals",
