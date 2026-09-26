@@ -15490,21 +15490,21 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Gray Channel — Dynamic Dirt Doubler",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/gray-channel-dynamic-dirt-doubler/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Gray Channel — Dynamic Dirt Doubler.md"
   },
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Hizumitas",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/hizumitas/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Hizumitas.md"
   },
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Hizumitas — Fuzz Sustainar",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/hizumitas-fuzz-sustainar/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Hizumitas — Fuzz Sustainar.md"
   },
@@ -15994,14 +15994,14 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Micro Metal Muff",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/micro-metal-muff/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Micro Metal Muff.md"
   },
   {
     "builder": "Electro-Harmonix",
     "pedal": "Muff Overdrive",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/muff-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Muff Overdrive.md"
   },
@@ -17163,7 +17163,7 @@
   {
     "builder": "Greer Amps",
     "pedal": "Tomahawk Deluxe Drive",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/tomahawk-deluxe-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Tomahawk Deluxe Drive.md"
   },
@@ -18297,21 +18297,21 @@
   {
     "builder": "JHS Pedals",
     "pedal": "State Line",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/state-line/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/State Line.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Steak and Eggs Overdrive/Compressor",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/steak-and-eggs-overdrive-compressor/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Steak and Eggs Overdrive/Compressor.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "The Violet",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/the-violet/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/The Violet.md"
   },
@@ -18626,7 +18626,7 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Moon Op Amp Fuzz",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/moon-op-amp-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Moon Op Amp Fuzz.md"
   },
@@ -18927,35 +18927,35 @@
   {
     "builder": "KHDK Electronics",
     "pedal": "No.1 — tube-like overdrive",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/no-1-tube-like-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/No.1 — tube-like overdrive.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Paranormal",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/paranormal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Paranormal.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Paranormal — parametric EQ overdrive",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/paranormal-parametric-eq-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Paranormal — parametric EQ overdrive.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Paranormal II",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/paranormal-ii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Paranormal II.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Paranormal II — parametric EQ overdrive",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/paranormal-ii-parametric-eq-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Paranormal II — parametric EQ overdrive.md"
   },
@@ -19256,14 +19256,14 @@
   {
     "builder": "Leqtique",
     "pedal": "Redemptionist EVR",
-    "image": null,
+    "image": "./assets/pedals/leqtique/redemptionist-evr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/Redemptionist EVR.md"
   },
   {
     "builder": "Leqtique",
     "pedal": "RFD",
-    "image": null,
+    "image": "./assets/pedals/leqtique/rfd/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/RFD.md"
   },
@@ -19361,14 +19361,14 @@
   {
     "builder": "Lichtlaerm Audio",
     "pedal": "Thorn",
-    "image": null,
+    "image": "./assets/pedals/lichtlaerm-audio/thorn/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lichtlaerm Audio/Thorn.md"
   },
   {
     "builder": "Lichtlaerm Audio",
     "pedal": "Thorn — signature distortion",
-    "image": null,
+    "image": "./assets/pedals/lichtlaerm-audio/thorn-signature-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lichtlaerm Audio/Thorn — signature distortion.md"
   },
@@ -19438,14 +19438,14 @@
   {
     "builder": "Lovepedal",
     "pedal": "Amp 50",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/amp-50/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/Amp 50.md"
   },
   {
     "builder": "Lovepedal",
     "pedal": "Amp Eleven",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/amp-eleven/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/Amp Eleven.md"
   },
@@ -19459,7 +19459,7 @@
   {
     "builder": "Lovepedal",
     "pedal": "COT 50 Boost / Overdrive",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/cot-50-boost-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/COT 50 Boost / Overdrive.md"
   },
@@ -19550,21 +19550,21 @@
   {
     "builder": "Lunastone Pedals",
     "pedal": "Three Stage Rocket",
-    "image": null,
+    "image": "./assets/pedals/lunastone-pedals/three-stage-rocket/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lunastone Pedals/Three Stage Rocket.md"
   },
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Albert's Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/albert-s-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Albert's Overdrive.md"
   },
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Amber Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/amber-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Amber Overdrive.md"
   },

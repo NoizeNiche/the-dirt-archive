@@ -31299,7 +31299,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/gray-channel-dynamic-dirt-doubler/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Gray Channel — Dynamic Dirt Doubler.md",
       "research_level": "surface",
@@ -31311,7 +31311,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/hizumitas/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Hizumitas.md",
       "research_level": "surface",
@@ -31323,7 +31323,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/hizumitas-fuzz-sustainar/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Hizumitas — Fuzz Sustainar.md",
       "research_level": "surface",
@@ -32186,7 +32186,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/micro-metal-muff/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Micro Metal Muff.md",
       "research_level": "surface",
@@ -32198,7 +32198,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/muff-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Muff Overdrive.md",
       "research_level": "surface",
@@ -34245,7 +34245,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/tomahawk-deluxe-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Tomahawk Deluxe Drive.md",
       "research_level": "deep",
@@ -36240,7 +36240,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/state-line/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/State Line.md",
       "research_level": "surface",
@@ -36252,7 +36252,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/steak-and-eggs-overdrive-compressor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Steak and Eggs Overdrive/Compressor.md",
       "research_level": "surface",
@@ -36265,7 +36265,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/the-violet/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/The Violet.md",
       "research_level": "surface",
@@ -36818,7 +36818,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/moon-op-amp-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Moon Op Amp Fuzz.md",
       "research_level": "surface",
@@ -37370,7 +37370,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/no-1-tube-like-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/No.1 — tube-like overdrive.md",
       "research_level": "surface",
@@ -37383,7 +37383,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/paranormal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Paranormal.md",
       "research_level": "surface",
@@ -37396,7 +37396,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/paranormal-parametric-eq-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Paranormal — parametric EQ overdrive.md",
       "research_level": "surface",
@@ -37409,7 +37409,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/paranormal-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Paranormal II.md",
       "research_level": "surface",
@@ -37422,7 +37422,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/paranormal-ii-parametric-eq-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Paranormal II — parametric EQ overdrive.md",
       "research_level": "surface",
@@ -37946,7 +37946,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/redemptionist-evr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Redemptionist EVR.md",
       "research_level": "deep",
@@ -37958,7 +37958,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/rfd/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/RFD.md",
       "research_level": "deep",
@@ -38148,7 +38148,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lichtlaerm-audio/thorn/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Thorn.md",
       "research_level": "surface",
@@ -38162,7 +38162,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lichtlaerm-audio/thorn-signature-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Thorn — signature distortion.md",
       "research_level": "surface",
@@ -38297,7 +38297,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/amp-50/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Amp 50.md",
       "research_level": "surface",
@@ -38309,7 +38309,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/amp-eleven/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Amp Eleven.md",
       "research_level": "surface",
@@ -38333,7 +38333,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/cot-50-boost-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/COT 50 Boost / Overdrive.md",
       "research_level": "surface",
@@ -38491,7 +38491,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lunastone-pedals/three-stage-rocket/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lunastone Pedals/Three Stage Rocket.md",
       "research_level": "surface",
@@ -38503,7 +38503,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/albert-s-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Albert's Overdrive.md",
       "research_level": "surface",
@@ -38515,7 +38515,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/amber-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Amber Overdrive.md",
       "research_level": "deep",
