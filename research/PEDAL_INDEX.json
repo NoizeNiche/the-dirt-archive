@@ -35943,8 +35943,8 @@
       "image": "./assets/pedals/jhs-pedals/cheese-ball/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Cheese Ball.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -36885,8 +36885,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Red Dirt Germanium Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -46093,8 +46093,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Rhinosaur.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
