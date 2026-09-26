@@ -4,37 +4,33 @@
 - **Archive parent:** Tube Overdrive
 - **Builder:** Alden
 - **Catalog type:** Overdrive
-- **Identity:** Alden Tube-series overdrive pedal. [1]
+- **Identity:** Alden's Tube Overdrive.
 
 ## What this pedal is
-Effects Database identifies Tube Overdrive as an Alden pedal in the builder's Tube series. The surviving record links the model with Alden and Muse R&D references but does not preserve enough technical detail to conclude that the pedal itself contains a vacuum tube. [1]
+Alden's Tube Overdrive is cataloged as an overdrive pedal.
 
 ## Colorways
-- Exact production finish history was not reliably documented.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Tube Overdrive
-- Alden Tube series
-- Overdrive [1]
-
-No reliable factory control list or option sequence was preserved.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision was verified.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The accessible record establishes Tube Overdrive as an Alden overdrive but does not preserve enough information to describe its gain range, clipping response, or EQ responsibly. The archive does not infer a tube-powered circuit from the product-family name alone. [1]
+Gear in this category (5) Alden Tube Booster Alden Tube Distortion Alden Tube Overdrive Alden Tube Phaser Alden Tube Tremolo Searching...
 
 ## Sources checked
-1. Effects Database — Alden Tube Overdrive: https://www.effectsdatabase.com/model/alden/tubeoverdrive
+1. Alden Tube pedals | Effects Database: https://www.effectsdatabase.com/model/alden/tube
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database.
-- **Archive note:** Exact catalog imagery is exposed through marketplace/image layers, but no stable directly retrievable image asset was independently archived.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

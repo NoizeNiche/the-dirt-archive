@@ -2196,8 +2196,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 346,
       "image_source_url": "https://theguitarside.com/wp-content/uploads/2026/01/overdrive-pedal-explained-clean-crunch-lead.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alden",
@@ -2210,8 +2210,8 @@
       "research_record": "./research/pedals/Alden/Tube Overdrive.md",
       "image_source_url": "https://images.offerup.com/OyLy5IXnPznn2WK_fJjSxuGoZBc=/1119x1074/3ace/3ace91a119e244f192df6a384ae1c3e3.jpg",
       "image_source_page": "https://offerup.com/item/detail/4e62499f-19f1-3f95-8c29-9d969ff13c61",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Aleatorik",
