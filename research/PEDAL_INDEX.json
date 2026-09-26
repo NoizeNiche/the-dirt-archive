@@ -3474,8 +3474,8 @@
       "research_record": "./research/pedals/PRP Batch 050/Tone Machine.md",
       "image_source_url": "https://cdn.mos.cms.futurecdn.net/8Dfwh7vGoKNfyoirRSe8BQ-1200-80.jpg",
       "image_source_page": "https://www.guitarplayer.com/gear/the-foxx-tone-machine-was-the-fuzz-of-choice-for-peter-frampton-billy-gibbons-and-adrian-belew",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog King",
@@ -3495,8 +3495,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 381,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/unknown-china_fuzzmachine_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog King",
@@ -16851,8 +16851,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://i.pinimg.com/736x/31/cf/e6/31cfe690c9815854b681f943848cdaf7.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Calangary Pedals",
@@ -28951,8 +28951,8 @@
       "research_record": "./research/pedals/Daredevil Pedals/Premium Overdrive.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4092dafc8632250/1790330391258/1LbZYLMGZKs7O94LgDNtoA2BNZYthMaBFdwWaxdW.XQ-1790330391-1.3.1.1-z_DY8_JfC_9Bm1HhedwzbsIT3jt_.FLgYfPm9MAshWw_7FMTczoi7uK.u4NXXo9Tn_wS7nP0MF.b4Fvga2mgkiyBX8e78WiS7dHgA9MHV_i7vDAknwUvFAaPj4N.YPWIygobzhS.onnrxzlIZe1fanYg2f4D3_3Z7HmqLzMBDSlzU3_LLo4N_ou3n2sq8MSF5k6zmwsIIIVYbYCOp_FZSw48Qav7kwTxWSGiE7EJAKh3Bm0PXrVYhhCXPxDcEslHmgzZ7jtenno3cj.OpwbKPNBSj5FavrLV4ekP4y_dYq9Jdh2kCfmA5F_ITF.7YiblJq0hGDbMw7jHK.QFUAgNzDD817Ps3n1up4TadWjEv0w3FLuT5Aqqqqc8dgLooDyQvvSx4Dw5HxZ8sGet_.y4hlichYvY9g31MV4oJUIWFF4ns0g0qvGyrynlvSIKu2GiLoILBbdfJk3PULk5ltBnhD_4iIE7p7m4R13okRpeoPc7YE5Cod3BXMgPzGzAupXi4YxqUBh5JWrhO984JMt88jc92IHyDoWPzPaQo7EPugL2wHbJPJR.K.UqxCuwMbGys4J7Ycy9NfPpRQH31VCm.h7BubhswuNI35vgFoQVvNs7mvcP_h4G6qiTx7RBUrYAgxPAYMtHd1tfp1IrLltOo6wUtXPhffhI.yHNv3.Nu_jl1BqUzJrlaLGtsYVRMwxfEVd_MZw8r9HGVuSeGe11z.CaDrfEe4VxZi_UTk4vbOI",
       "image_source_page": "https://reverb.com/item/92072153-daredevil-premium-hand-crafted-transistor-overdrive-2010s-white",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -35327,8 +35327,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Tractor Beam.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -36748,8 +36748,8 @@
       "image": "./assets/pedals/keeley-electronics/keeley-oxblood-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Keeley Oxblood Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -45147,8 +45147,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Hybrid Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -45184,8 +45184,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Kusanagi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",

@@ -38,3 +38,19 @@ The Tone Machine is described as a thick, saturated fuzz with substantial gain a
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** Effects Database and exact-model Reverb listing.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Fox's Tone Machine is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+The Foxx Tone Machine Was the Fuzz of Choice for Peter Frampton, Billy Gibbons, and Adrian Belew
+The pedal is a thick sounding fuzz with lots of gain and a footswitch that allows adding an upper octave to the sound.
+The controls are: Sustain Â- sets amount of distortion (sustain) Tone Â- filters out high or low frequencies Volume Â- sets the output volume This circuit was used by artists ranging from ZZ Top to Adrian Belew, Parliament-Funkadelic to Peter Frampton.
+
+### Sources checked in this pass
+1. The Foxx Tone Machine Was the Fuzz of Choice for Peter Frampton, Billy Gibbons, and Adrian Belew | GuitarPlayer: https://www.guitarplayer.com/gear/the-foxx-tone-machine-was-the-fuzz-of-choice-for-peter-frampton-billy-gibbons-and-adrian-belew
+2. Analog Fox Tone Machine | Effects Database: https://www.effectsdatabase.com/model/analogfox/tonemachine

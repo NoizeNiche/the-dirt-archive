@@ -38,3 +38,22 @@ Inspired by the classic Colorsound power boosts of the early 70's, this one carr
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals's Premium Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Large, natural, and open sounding overdrive -Transistor driven circuit dials in any style of gain from low to high -True bypass, no buffers Hand wired, Transistor based Overdrive.
+
+### Verified sound evidence
+Large, natural, and open sounding overdrive -Transistor driven circuit dials in any style of gain from low to high -True bypass, no buffers Hand wired, Transistor based Overdrive.
+Inspired by the classic Colorsound power boosts of the early 70's, this one carries a bright control tone stack, more gain, and increased low end making it sweet for bass as well.
+Post knob controls the volume, Pre controls the gain, Bright control adds more bite as you turn it up.
+
+### Sources checked in this pass
+1. Daredevil Pedals Premium Overdrive: https://www.guitarworksltd.com/shop/c/p/Daredevil-Pedals-Premium-Overdrive-x66348598.htm
+2. Daredevil Pedals Premium Overdrive: https://gcrockboard.com/daredevil-pedals-premium-overdrive

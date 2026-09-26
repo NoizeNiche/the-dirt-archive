@@ -1,23 +1,44 @@
 # Skreddy Pedals — Kusanagi
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Kusanagi
 - **Builder:** Skreddy Pedals
-- **Pedal:** Kusanagi
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Skreddy Pedals's Kusanagi.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Kusanagi** by **Skreddy Pedals** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Kusanagi from Skreddy Effects is a fresh take on a classic design.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: Mk1, MkII.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: BC109, germanium fuzz.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.
+by Paolo De Gregorio The Tone Bender is one of the most legendary effects in guitar history, and for good reason.
+The signature fuzz sound it produced inspired a generation of burgeoning rock guitarists.
+
+## Sources checked
+1. Fuzz | Kusanagi | Skreddy Pedals: https://skreddypedals.com/kusanagi
+2. Skreddy Pedals Kusanagi - Professional MkII | Effects Database: https://www.effectsdatabase.com/model/skreddy/kusanagi
+3. Skreddy Kusanagi Fuzz | Delicious Audio: https://delicious-audio.com/skreddy-pedals-take-on-the-tone-bender-the-kusanagi-fuzz/
+4. Skreddy Pedals - Kusanagi Fuzz - B-Stock | Mass Street Music: https://massstreetmusic.com/products/skreddy-pedals-kusangi-fuzz
+5. Skreddy Pedals Announces the Kusanagi - Premier Guitar: https://www.premierguitar.com/skreddy-pedals-announces-the-kusanagi
+6. Skreddy Pedals - Kusanagi Fuzz - B-Stock - Shop Guitars, Drums, Amplifiers, Cables, Straps, Sticks & All Instrument Accessories: https://www.electricaco.com/product/skreddy-pedals-kusanagi-fuzz-b-stock/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

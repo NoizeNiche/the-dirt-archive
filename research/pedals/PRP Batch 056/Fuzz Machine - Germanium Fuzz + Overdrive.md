@@ -32,3 +32,24 @@ The pedal is primarily a germanium fuzz with controllable gate and compression b
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** Effects Database and historical Analog King material.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog King's Fuzz Machine - Germanium Fuzz + Overdrive is cataloged as a fuzz / overdrive pedal.
+
+### Verified color/finish evidence
+- Turn the white knob to almost the end of the range and the effect will skip from Fuzz into Overdrive.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Analog King Fuzz Machine - Germanium Fuzz + Overdrive
+Information the manufacturer This is the Fuzz Machine.
+Its based on the factory circuit but additional there is an overdrive feature included.
+
+### Sources checked in this pass
+1. Analog King Fuzz Machine - Germanium Fuzz + Overdrive | Effects Database: https://www.effectsdatabase.com/model/analogking/fuzzmachine
