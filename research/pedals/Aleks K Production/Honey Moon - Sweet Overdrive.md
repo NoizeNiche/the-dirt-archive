@@ -4,48 +4,34 @@
 - **Archive parent:** Honey Moon - Sweet Overdrive
 - **Builder:** Aleks K Production
 - **Catalog type:** Overdrive
-- **Identity:** Dual-overdrive pedal with two independently usable and stackable drive sections. [1][2]
+- **Identity:** Aleks K Production's Honey Moon - Sweet Overdrive.
 
 ## What this pedal is
-The Honey Moon combines two distinct overdrive sections that can be used independently or together. The documented control set is Volume, Tone, Filter, Drive 1, and Drive 2, with hand-built steel enclosures made in Canada and true-bypass switching. [1]
+Aleks K Production's Honey Moon - Sweet Overdrive is cataloged as an overdrive pedal.
 
 ## Colorways
-- Historical documentation describes a sunflower sparkling metallic finish. [1]
-- Current V3 documentation uses a changed finish and updated silk-screen treatment. [2]
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Honey Moon - Sweet Overdrive
-- Volume
-- Tone
-- Filter
-- Drive 1
-- Drive 2
-- two independent overdrive sections
-- true bypass
-- 9V operation [1]
-
-### V3
-Current documentation describes revised paint and silk screen, increased output, and a brighter, more open, more transparent response versus the earlier version. [2]
+- The verified evidence references: V3.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
-V3 is documented as an improved version of the Honey Moon platform, with cosmetic updates plus increased output and a brighter/open/transparent response. Component information names semiconductor manufacturers but does not publish exact device numbers. [2]
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Current builder documentation references transistors from named semiconductor manufacturers.
-- **Exact transistor/device:** Not publicly documented. [2]
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Current builder documentation references diodes from named semiconductor manufacturers.
-- **Exact clipping diode/device:** Not publicly documented. [2]
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The Honey Moon uses two medium-gain overdrive voices that can be combined for a thicker, higher-density result. Surviving reviews describe a smooth, creamy response with some darkness, while current V3 documentation describes the newer version as brighter, more open, and more transparent. [1][2]
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Historical Effects Database — Aleks K Production Honey Moon - Sweet Overdrive.
-2. Aleks K Production — Honey Moon Sweet Overdrive V3: https://www.alekskproduction.com/shop/p/honey-moon-sweet-overdrive-2
+1. Honey Moon Sweet Overdrive V3 &mdash; Aleks K Production: https://www.alekskproduction.com/shop/p/honey-moon-sweet-overdrive-2
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Historical Effects Database imagery and current builder V3.
-- **Archive note:** The stable direct builder image currently exposed is specifically the V3 and was not substituted for the generic catalog entry.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

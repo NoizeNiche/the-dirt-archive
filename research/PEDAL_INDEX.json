@@ -2273,8 +2273,8 @@
       "research_record": "./research/pedals/Aleks K Production/Honey Moon - Sweet Overdrive.md",
       "image_source_url": "http://static1.squarespace.com/static/6202bdb89c58b86355d6b775/6202fa94de0c842fe2456a61/6205f238f372465a954d8cf2/1787798030700/1.png?format=1500w",
       "image_source_page": "https://www.alekskproduction.com/shop/p/honey-moon-sweet-overdrive-2",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Aleks K Production",
@@ -2287,8 +2287,8 @@
       "research_record": "./research/pedals/Aleks K Production/Sun Beam - Magic Drive.md",
       "image_source_page": "https://www.alekskproduction.com/shop/p/sun-beam-magic-drive",
       "image_source_url": "https://static1.squarespace.com/static/6202bdb89c58b86355d6b775/6202fa94de0c842fe2456a61/623163cc94c84a169b395c7b/1647403991431/001%2BSun%2BBeam%2BMagic%2BDrive.png?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alen Geere",
@@ -47721,8 +47721,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Union Tube & Transistor/Tone Druid+.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Union Tube & Transistor",
@@ -51187,8 +51187,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Distortron.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",
