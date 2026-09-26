@@ -32,8 +32,8 @@ Select Region United States Canada Store Locator Select Currency: USD US Dollars
 Rockett Audio Designs Archer OD Overdrive Pedal MSRP: Original price: Current Price: $149.99 (You save ) Shipping: $15 Description Questions?
 
 ## Sources checked
-1. Used J. Rockett Audio Designs Archer Od Overdrive Pedal: https://musicgoround.com/locations/elk-grove/product/S000057527/J-Rockett-Audio-Designs-ARCHER-OD
-2. J Rockett Archer OD Pedal 851236004238| eBay: https://www.ebay.com/itm/127925759786
+1. J. Rockett Audio Designs Archer OD Pedal - eBay: https://www.ebay.com/itm/389016777173
+2. Used J. Rockett Audio Designs Archer Od Overdrive Pedal: https://musicgoround.com/locations/elk-grove/product/S000057527/J-Rockett-Audio-Designs-ARCHER-OD
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
