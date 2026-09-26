@@ -18039,8 +18039,8 @@
       "research_record": "./research/pedals/PRP Batch 148/carella-guitars-leopard.md",
       "image_source_page": "https://community.glowforge.com/t/leopard-skin-guitars/140389",
       "image_source_url": "https://community.glowforge.com/uploads/db6859/original/3X/4/b/4b2b0d74aaeee763a8037106e7bb5ee222466a36.jpeg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carella Guitars",
@@ -18060,8 +18060,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/carella_overdistover_003.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carella Guitars",
@@ -43732,8 +43732,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Pigtronix/Bass FAT Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Pigtronix",

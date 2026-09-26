@@ -15,3 +15,14 @@
   - https://reverb.com/item/88501897-carella-guitars-leopard-overdrive
   - https://www.mercatinomusicale.com/mm/s__kw%2Bpulser%2Bmultivox.html
   - https://www.effectsdatabase.com/blog?page=75
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Carella Guitars's Leopard is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/88501897-carella-guitars-leopard-overdrive
+2. Leopard Skin Guitars - Made on a Glowforge - Glowforge Owners Forum: https://community.glowforge.com/t/leopard-skin-guitars/140389

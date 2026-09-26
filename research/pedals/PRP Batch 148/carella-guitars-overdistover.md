@@ -14,3 +14,13 @@
 - **Research confidence:** High for the three-stage architecture, controls, switching, and 9V/true-bypass details because the historical account explicitly documents them; low for component-level claims.
 - **Sources checked:**
   - https://recnmix.accordo.it/article/viewPub/4430?co=1
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Carella Guitars's Overdistover is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. Carella Guitars Overdistover | Effects Database: https://www.effectsdatabase.com/model/carella/overdistover
