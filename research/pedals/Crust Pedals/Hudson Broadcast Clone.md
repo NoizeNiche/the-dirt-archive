@@ -7,7 +7,7 @@
 - **Identity:** Crust Pedals's Hudson Broadcast Clone.
 
 ## What this pedal is
-Crust Pedals's Hudson Broadcast Clone is cataloged as a Overdrive pedal.
+Crust Pedals's Hudson Broadcast Clone is cataloged as an overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
