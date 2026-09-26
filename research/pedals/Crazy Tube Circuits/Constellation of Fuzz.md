@@ -56,3 +56,21 @@ The six-mode design provides a compact set of classic Fuzz Face, Tone Bender and
 2. Musical Hobbys - Constellation OC41
 3. Guitar Pedal X - Constellation OC45 vs CV7003
 4. Crazy Tube Circuits store
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on January 21, 2018 Crazy Tube Circuits boost / preamp fuzz pedal NAMM 2018 OC41 / OC45 OC41 / OC45 CV7003 Edition CV7003 Edition Information Crazy Tube Circuits Introducing the Constellation of Fuzz.
+
+### Verified transistor/device terms
+- Germanium fuzz.
+
+### Verified sound evidence
+Published on January 21, 2018 Crazy Tube Circuits boost / preamp fuzz pedal NAMM 2018 OC41 / OC45 OC41 / OC45 CV7003 Edition CV7003 Edition Information Crazy Tube Circuits Introducing the Constellation of Fuzz.
+A multi-mode Germanium fuzz / booster inspired by classic Fuzz boxes of the past.
+All analog, featuring 3 NOS Germanium transistors for smooth and deep complex tone with amazing clean-up.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Constellation of Fuzz | Effects Database: https://www.effectsdatabase.com/model/crazytube/constellation

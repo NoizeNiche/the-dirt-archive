@@ -36,3 +36,21 @@ Like a crossover circuit on a rampage, it gives you independent control over eac
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+/ Notify me when this product is available: Notify me when this product is available: Qty Add to cart Fuzz So Heavy, It Had to Be Split The Crossover Fuzz is a screaming, swirling filter-fuzz monster.
+
+### Verified diode terms
+- LED, LEDS.
+
+### Verified sound evidence
+/ Notify me when this product is available: Notify me when this product is available: Qty Add to cart Fuzz So Heavy, It Had to Be Split The Crossover Fuzz is a screaming, swirling filter-fuzz monster.
+It takes your signal, slices it into high and low frequencies, and then absolutely wrecks each band with Death By Audio’s signature fuzz.
+Like a crossover circuit on a rampage, it gives you independent control over each half of your sound (highs and lows), letting you shape, destroy, and reimagine your tone like never before.
+
+### Sources checked in this pass
+1. CROSSOVER FUZZ - Death By Audio: https://deathbyaudio.com/products/crossover-fuzz

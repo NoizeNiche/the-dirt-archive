@@ -40,3 +40,31 @@ Independent coverage describes Motherload as a dynamic, amp-like overdrive with 
 2. Delicious Audio - Motherload Drive
 3. Thomann - Motherload
 4. Amelia Island Fine Guitars - Motherload
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+By Marcus Reeve July 20, 2026 The Crazy Tube Circuits (CTC) Motherload is a boutique overdrive pedal that reimagines tube-like saturation using solid-state circuitry with discrete JFET gain stages and carefully tuned passive EQ networks.
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified transistor/device terms
+- 2N5457, 2N5459.
+
+### Verified diode terms
+- led, 1N914.
+
+### Verified sound evidence
+By Marcus Reeve July 20, 2026 The Crazy Tube Circuits (CTC) Motherload is a boutique overdrive pedal that reimagines tube-like saturation using solid-state circuitry with discrete JFET gain stages and carefully tuned passive EQ networks.
+Unlike many 'tube-emulating' pedals that rely on op-amp clipping or digital modeling, the Motherload employs a dual-JFET front-end with individually adjustable bias voltages, a proprietary cascaded clipping architecture, and a passive tone stack derived from classic British console design.
+Its measured frequency response spans 22Hz–19.8kHz (±3dB), with a pronounced 4.7kHz presence bump (+4.2dB) and low-end extension down to 28Hz — exceeding both the Ibanez TS9 (−3dB at 32Hz) and Fulltone OCD v2.5 (−3dB at 41Hz).
+
+### Sources checked in this pass
+1. Motherload — Crazy Tube Circuits: https://crazytubecircuits.com/motherload
+2. Crazy Tube Circuits Motherload American Express Apple Pay Bancontact Diners Club Discover Google Pay iDEAL Wero Mastercard PayPal Shop Pay Visa American Express Apple Pay Bancontact Diners Club Discover Google Pay iDEAL Wero Mastercard PayPal Shop Pay Visa: https://aifineguitars.com/products/crazy-tube-circuits-motherload
+3. Crazy Tube Circuits Motherload Drive | Delicious Audio: https://delicious-audio.com/crazy-tube-circuits-motherload/
+4. Crazy Tube Circuits Motherload: A Deep Technical Analysis for Guitarists and Tone Engineers | GearStrings: https://gearstrings.com/practice-tips/crazy-tube-circuits-motherload
+5. Crazy Tube Circuits Motherload – United States small facebook email pinterest whatsapp: https://www.thomannmusic.com/crazy_tube_circuits_motherload.htm

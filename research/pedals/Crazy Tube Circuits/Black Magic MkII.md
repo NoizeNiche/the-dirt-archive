@@ -50,3 +50,29 @@ The MkII spans low overdrive and crunchy sounds through very high gain, large su
 2. Davis Guitar - Black Magic MkII
 3. AllThePedals - Black Magic MkII
 4. Guitar Center - Black Magic MkII
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Crazy Tube Circuits Black Magic MkII is a high-gain distortion pedal for electric guitar, designed to emulate the sound and feel of a high-gain tube amplifier.
+
+### Verified color/finish evidence
+- Crazy Tube Circuits Black Magic MKII $250.00 Utilizing JFET technology cascaded gain stages we set out to mimic the signal path and response of a high gain tube amp.
+- Even at high gain settings Black Magic mk2 preserves full clarity and definition and can clean up with your guitar’s volume knob.
+- The Crazy Tube Circuits Black Magic MkII is a high-gain distortion pedal for electric guitar, designed to emulate the sound and feel of a high-gain tube amplifier.
+
+### Verified version references
+- The evidence references: MKII, MkII, mk2.
+
+### Verified sound evidence
+Crazy Tube Circuits Black Magic MKII $250.00 Utilizing JFET technology cascaded gain stages we set out to mimic the signal path and response of a high gain tube amp.
+Combining the best sounds of American and British style high gain amps along with a versatile 3 band passive EQ and presence control we created a distortion effect that can cover a wide range of gain from low overdrive – crunchy sounds to fully saturated gain with huge amounts of sustain.
+Even at high gain settings Black Magic mk2 preserves full clarity and definition and can clean up with your guitar’s volume knob.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Black Magic MkII - Vocal & Music Products for Singers and Performers: https://www.vocalversehub.com/product/crazy-tube-circuits-black-magic-mkii/
+2. Crazy Tube Circuits Black Magic MKII – Davis Guitar: https://davisguitar.com/products/crazy-tube-circuits-black-magic-mkii
+3. Crazy Tube Circuits Black Magic MKII: https://guitarsampspedals.com/product/crazy-tube-circuits-black-magic-mkii/
+4. Crazy Tube Circuits Black Magic MkII | AllThePedals: https://allthepedals.com/pedals/crazy-tube-circuits-black-magic-mkii

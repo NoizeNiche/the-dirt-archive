@@ -9,3 +9,19 @@ Recreation of the Big Muff Version 6 / Circuit 3034 variant manufactured around 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Big Knob Pedals's NYC Version 6 is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: Version 6.
+
+### Verified diode terms
+- LED.
+
+### Sources checked in this pass
+1. NYC Version 6 – Big Knob Pedals: https://bigknobpedals.com/product/nyc-version-6/

@@ -46,3 +46,19 @@ The documented gain range moves from overdrive to high-gain fuzz, with the inter
 ## Sources checked
 1. Effects Database - Crazy Tube Circuits Pin Up Fuzz
 2. Sugaree Licks - Crazy Tube Circuits Pin Up Fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on November 11, 2011 Crazy Tube Circuits fuzz pedal Information Crazy Tube Circuits A fuzz can be raw or smooth, raspy and spitty or clean… or it can be Pin Up.
+
+### Verified sound evidence
+Published on November 11, 2011 Crazy Tube Circuits fuzz pedal Information Crazy Tube Circuits A fuzz can be raw or smooth, raspy and spitty or clean… or it can be Pin Up.
+The gain range starts from overdrive to become a high gain fuzz, nasty or smooth depending on where you set the two tone controls.
+The frequency response of this MOSFET fuzz machine has been carefully selected to fulfill your rhythm and soloing needs.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Pin Up Fuzz | Effects Database: https://www.effectsdatabase.com/model/crazytube/pinup
+2. Crazy Tube Circuits | Pin Up Fuzz - Sugaree Licks: https://sugareelicks.com/pedal/crazy-tube-circuits-pin-up-fuzz/

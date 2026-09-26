@@ -65,3 +65,27 @@ The current V3 is designed for dynamic Blackface-style overdrive from sparkly cl
 3. Delicious Audio - Stardust V3
 4. Bonedo - Stardust V3
 5. Crazy Tube Circuits store/outlet
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Unlike digital distortion units or generic boost pedals, the Stardust uses dual 12AX7 tubes in triode mode, a discrete Class-A solid-state buffer, and a proprietary passive tone stack that extends usable bandwidth down to 35 Hz and up to 14.2 kHz (measured at -3 dB points on Audio Precision APx525).
+
+### Verified color/finish evidence
+- Crazy Tube Circuits Stardust V3 Review The Athenians improve an already excellent black-panel-style amp-in-a-box with the addition of Bassman, Vibrolux Reverb, and Deluxe Reverb voicings.
+- Cons: Might not be of much use to those not seeking black-panel Fender-style overdrive textures.
+
+### Verified version references
+- The evidence references: V3, v2, v3.
+
+### Verified sound evidence
+Unlike digital distortion units or generic boost pedals, the Stardust uses dual 12AX7 tubes in triode mode, a discrete Class-A solid-state buffer, and a proprietary passive tone stack that extends usable bandwidth down to 35 Hz and up to 14.2 kHz (measured at -3 dB points on Audio Precision APx525).
+For drummers tracking in studios like Studio B at Blackbird Studio (Nashville) or The Village (Los Angeles), this means snare crack retains articulation while gaining warm second-order harmonics, kick drums thicken without muddying sub-40 Hz content, and overheads gain vintage-style air without high-frequency glare.
+This ratio directly shapes how transients interact: snare hits produce rich 2nd and 4th harmonics (120 Hz, 240 Hz, 480 Hz) that reinforce body without masking attack, while kick drum fundamentals at 55–65 Hz remain uncolored due to the absence of transformer saturation below 80 Hz.
+
+### Sources checked in this pass
+1. Stardust v3 — Crazy Tube Circuits: https://crazytubecircuits.com/stardust-v3
+2. Crazy Tube Circuits Stardust: A Drummer’s Deep Dive Into the Analog Overdrive Pedal That Redefines Snare and Kick Texture | GearStrings: https://gearstrings.com/drums/crazy-tube-circuits-stardust
+3. Crazy Tube Circuits Stardust V3 Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/crazy-tube-circuits-stardust

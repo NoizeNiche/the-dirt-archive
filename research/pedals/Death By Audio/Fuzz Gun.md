@@ -41,3 +41,23 @@ AMP CRASH Menu 0 Pedals All Pedals Destroyer Series Distortion Fuzz Overdrive De
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+/ Notify me when this product is available: Notify me when this product is available: Qty Add to cart A TRUE FREAK OF A PEDAL The Supersonic Fuzz Gun is a completely unique take on a fuzz pedal made with the extremes of manipulation in mind.
+
+### Verified sound evidence
+SUPERSONIC FUZZ GUN - Death By Audio RESTOCKED + SHIPPING NOW!
+" tabindex="-1" > " tabindex="-1" > " tabindex="-1" > " tabindex="-1" > SUPERSONIC FUZZ GUN $270.00
+/ Notify me when this product is available: Notify me when this product is available: Qty Add to cart A TRUE FREAK OF A PEDAL The Supersonic Fuzz Gun is a completely unique take on a fuzz pedal made with the extremes of manipulation in mind.
+
+### Sources checked in this pass
+1. SUPERSONIC FUZZ GUN - Death By Audio: https://deathbyaudio.com/products/supersonic-fuzz-gun
+2. Death By Audio Supersonic Fuzz Gun: https://collarcityguitars.com/products/dba_supersonicfuzzgun
+3. Death By Audio Supersonic Fuzz Gun - Reverb: https://reverb.com/p/death-by-audio-supersonic-fuzz-gun
+4. Death By Audio Supersonic Fuzz Gun - instrumentalusa.com: https://www.instrumentalusa.com/product/death-by-audio-supersonic-fuzz-gun/
+5. Death By Audio Super Sonic Fuzz Gun *NEW* - 720260152409: https://www.jacksguitarcheology.com/shop/Effects-And-Pedals/New--Boutique-Pedals/ZVex-Effects/p/Death-By-Audio-Super-Sonic-Fuzz-Gun-NEW.htm
+6. catalog/override source: https://www.amazon.com/clp/B00BMQDYHC

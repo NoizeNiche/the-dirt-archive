@@ -9,3 +9,16 @@ Recreation of the classic Octavia circuit associated with Hendrix, producing an 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Big Knob Pedals's Octavius is cataloged as a fuzz pedal.
+
+### Verified diode terms
+- LED.
+
+### Sources checked in this pass
+1. Octavius – Big Knob Pedals: https://bigknobpedals.com/product/octavius-octave-fuzz/

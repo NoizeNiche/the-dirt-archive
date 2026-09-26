@@ -9,3 +9,13 @@ Big Knob describes Mad Donkey as an overdrive that was once an obscure, affordab
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Big Knob Pedals's Mad Donkey is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Mad Donkey – Big Knob Pedals: https://bigknobpedals.com/product/mad-donkey/

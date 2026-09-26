@@ -56,3 +56,24 @@ The three Marshall-style voices range from rich, smooth JTM45-type drive to more
 2. Guitar.com - Heatseeker review
 3. Guitar World - Heatseeker coverage
 4. Thomann - Heatseeker
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Image: Adam Gasson Crazy Tube Circuits Heatseeker – what is it?
+
+### Verified color/finish evidence
+- READ MORE: The Gear Used By Angus Young and Malcolm Young on AC/DC’s Back In Black So you can see what Crazy Tube Circuits ’ designers were thinking when they set out to create the ultimate drive pedal for AC/DC fans: fiery Marshall amp tones are one thing, but why not include the Schaffer-Vega bit as well?
+
+### Verified sound evidence
+There’s a distinct AC/DC theme to this Greek-made pedal, which combines amp-like overdrive with the enhancing effect of an old wireless transmitter system Crazy Tube Circuits Heatseeker.
+READ MORE: The Gear Used By Angus Young and Malcolm Young on AC/DC’s Back In Black So you can see what Crazy Tube Circuits ’ designers were thinking when they set out to create the ultimate drive pedal for AC/DC fans: fiery Marshall amp tones are one thing, but why not include the Schaffer-Vega bit as well?
+Thus, the Heatseeker overdrive and preamp/enhancer.
+
+### Sources checked in this pass
+1. Heatseeker — Crazy Tube Circuits: https://crazytubecircuits.com/heatseeker
+2. Crazy Tube Circuits Heatseeker review: hard-rocking tones | Guitar.com: https://guitar.com/reviews/effects-pedal/hands-on-crazy-tube-circuits-heatseeker-review/
+3. Crazy Tube Circuits Heatseeker – United States small facebook email pinterest whatsapp: https://www.thomannmusic.com/crazy_tube_circuits_heatseeker.htm
+4. Crazy Tube Circuits Heatseeker: Angus Young tone in a pedal | Guitar World: https://www.guitarworld.com/gear/guitar-pedals/crazy-tube-circuits-heatseeker

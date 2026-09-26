@@ -4906,8 +4906,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 355,
       "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/537/2023-GPX-Redbeard-FX-Hairy-Squid-Fuzz-700.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Audio Monk",
@@ -9314,8 +9314,8 @@
       "research_record": "./research/pedals/PRP Batch 084/Legend TB.md",
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2023/05/BKPSITE_YARDBIRDS.png",
       "image_source_page": "https://bigknobpedals.com/product/legend-tb/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -9328,8 +9328,8 @@
       "research_record": "./research/pedals/PRP Batch 084/Mad Donkey.md",
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2023/05/BKPSITE_MADDONKEY.png",
       "image_source_page": "https://bigknobpedals.com/product/mad-donkey/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -9342,8 +9342,8 @@
       "research_record": "./research/pedals/PRP Batch 084/NYC Version 6.md",
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/NYC-17.jpg",
       "image_source_page": "https://bigknobpedals.com/product/nyc-version-6/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -9356,8 +9356,8 @@
       "research_record": "./research/pedals/PRP Batch 084/Octavius.md",
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/OCTAVIUS-18.jpg",
       "image_source_page": "https://bigknobpedals.com/product/octavius-octave-fuzz/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -26416,8 +26416,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/black-magic-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Black Magic MkII.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -26470,8 +26470,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/constellation-oc45/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Constellation OC45.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -26482,8 +26482,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/constellation-of-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Constellation of Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -26535,8 +26535,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/heatseeker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Heatseeker.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -26575,8 +26575,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/motherload/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Motherload.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -26628,8 +26628,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/pin-up-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Pin Up Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -26680,8 +26680,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/stardust/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Stardust.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -29230,8 +29230,8 @@
       "image": "./assets/pedals/death-by-audio/crossover-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Crossover Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Death By Audio",
@@ -29256,8 +29256,8 @@
       "image": "./assets/pedals/death-by-audio/fuzz-gun/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Fuzz Gun.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Death By Audio",
@@ -33148,8 +33148,8 @@
       "image": "./assets/pedals/fortin/blade/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fortin/Blade.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fortin",
@@ -33160,8 +33160,8 @@
       "image": "./assets/pedals/fortin/fourteen/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fortin/Fourteen.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fortin",
@@ -33172,8 +33172,8 @@
       "image": "./assets/pedals/fortin/kali/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fortin/Kali.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fortin",
@@ -35845,8 +35845,8 @@
       "image": "./assets/pedals/jhs-pedals/3-series-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/3 Series Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",

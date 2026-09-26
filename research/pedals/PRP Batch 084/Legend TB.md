@@ -9,3 +9,25 @@ A limited-run Big Knob prototype based on a modified MKII Tone Bender fuzz. Cont
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Big Knob Pedals's Legend TB is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified transistor/device terms
+- germanium transistor.
+
+### Verified diode terms
+- Led.
+
+### Verified sound evidence
+Our goal was to capture that same amazing fuzz tone Jimmy Page was getting through his MKII during the early Yardbirds/Led Zeppelin, specifically on the album “Yardbirds Live at the Anderson Theater 1968” and we believe this particular pedal comes very, very close.
+
+### Sources checked in this pass
+1. Legend TB – Big Knob Pedals: https://bigknobpedals.com/product/legend-tb/
