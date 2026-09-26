@@ -139,13 +139,20 @@ def build() -> dict:
             transistor = ["Mixed"]
         if "Germanium" in clipping and "Silicon" in clipping:
             clipping = ["Mixed"]
-        if not transistor and not clipping:
+
+        identity_values = labelled_values(
+            parsed.get("prp identity", ""),
+            ("Identity", "Archive parent", "Catalog type"),
+        )
+        search_text = " ".join(identity_values).strip()
+        if not transistor and not clipping and not search_text:
             continue
 
         key = f"{pedal.get('company', '')}\u0000{pedal.get('pedal', '')}"
         records[key] = {
             **({"transistor": transistor} if transistor else {}),
             **({"clipping": clipping} if clipping else {}),
+            **({"search": search_text.lower()} if search_text else {}),
         }
 
     return {
