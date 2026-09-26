@@ -1,0 +1,57 @@
+{
+  "builder": "Leqtique",
+  "pedal": "Maestoso",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 6,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/98142330-leqtique-maestoso",
+      "title": "Leqtique Maestoso - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/leqtique/mat",
+      "title": "Leqtique MAT Maestoso - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.efmaniac.com/leqtique-maestoso/",
+      "title": "\u300cLeqtique Maestoso\u300d\u30ec\u30d3\u30e5\u30fc\uff01\u30ec\u30af\u30c6\u30a3\u30fc\u30af\u306e\u89e3\u91c8\u3059\u308bOD\u30da\u30c0\u30eb | \u9b54\u6cd5\u306e\u7bb1\u7814\u7a76\u6240 &#8211; \u30a8\u30d5\u30a7\u30af\u30bf\u30fc\u30ec\u30d3\u30e5\u30fc\u30b5\u30a4\u30c8",
+      "h1": "",
+      "excerpt": "\u300cLeqtique Maestoso\u300d\u30ec\u30d3\u30e5\u30fc\uff01\u30ec\u30af\u30c6\u30a3\u30fc\u30af\u306e\u89e3\u91c8\u3059\u308bOD\u30da\u30c0\u30eb | \u9b54\u6cd5\u306e\u7bb1\u7814\u7a76\u6240 &#8211; \u30a8\u30d5\u30a7\u30af\u30bf\u30fc\u30ec\u30d3\u30e5\u30fc\u30b5\u30a4\u30c8 .wp-block-accordion{box-sizing:border-box}.wp-block-accordion-item.is-open>.wp-block-accordion-heading .wp-block-accordion-heading__toggle-icon{transform:rotate(45deg)}@media (prefers-reduced-motion:no-preference){.wp-block-accordion-item{transition:grid-template-rows .3s ease-out}.wp-block-accordion-item>.wp-block-accordion-heading .wp-block-accordion-heading__toggle-icon{transition:transform .2s ease-in-out}}.wp-block-accordion-heading__toggle{align-items:center;background:none;border:none;color:inherit;cursor:pointer;display:flex;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;overflow:hidden;padding:var(--wp--preset--spacing--20,1em) 0;text-align:inherit;text-decoration:inherit;text-transform:inherit;width:100%;word-spacing:inherit}.wp-block-accordion-heading__toggle:not(:focus-visible){outline:none}.wp-block-accordion-heading__toggle:hover .wp-block-accordion-heading__toggle-title{text-decoration:underline}.wp-block-accordion-heading__toggle-title{flex:1}.wp-block-accordion-heading__toggle-icon{align-items:center;display:flex;height:1.2em;justify-content:center;width:1.2em}.wp-block-accordion-panel[hidden]{border:none!important;box-shadow:none!important;margin-block-start:0;padding:0!important}.wp-block-archives{box-sizing:border-box}.wp-block-archives-dropdown label{display:block}.wp-block-avatar{line-height:0}.wp-block-avatar,.wp-block-avatar img{box-sizing:border-box}.wp-block-avatar.aligncenter{text-align:center}.wp-block-audio{box-sizing:border-box}.wp-block-audio :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-audio audio{min-width:300px;width:100%}.wp-block-breadcrumbs{box-sizing:border-box}.wp-block-breadcrumbs ol{flex-wrap:wrap;list-style:none}.wp-block-breadcrumbs li,.wp-block-breadcrumbs ol{align-items:center;display:flex;margin:0;padding:0}.wp-block-breadcrumbs li:not(:last-child):after{content:var(--separator,\"/\")/\"\";margin:0 .5em;opacity:.7}.wp-block-breadcrumbs span{color:inherit}.wp-block-button__link{align-content:center;box-sizing:border-box;cursor:pointer;display:inline-block;height:100%;text-align:center;word-break:break-word}.wp-block-button__link.aligncenter{text-align:center}.wp-block-button__link.alignright{text-align:right}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-button[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons>.wp-block-button[class*=wp-block-button__width]{width:calc(var(--wp--block-button--width)*1% - var(--wp--style--block-gap, .5em)*(1 - var(--wp--block-button--width)/100))}.wp-block-buttons>.wp-block-button.wp-block-button__width-25{width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.wp-block-buttons>.wp-block-button.wp-block-button__width-50{width:calc(50% - var(--wp--style--block-gap, .5em)*.5)}.wp-block-buttons>.wp-block-button.wp-block-button__width-75{width:calc(75% - var(--wp--style--block-gap, .5em)*.25)}.wp-block-buttons>.wp-block-button.wp-block-button__width-100{flex-basis:100%;width:100%}.wp-block-buttons.is-vertical>.wp-block-button[class*=wp-block-button__width]{width:calc(var(--wp--block-button--width)*1%)}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-25{width:25%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-50{width:50%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-75{width:75%}.wp-block-button.is-style-squared,.wp-block-button__link.wp-block-button.is-style-squared{border-radius:0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-r",
+      "host": "www.efmaniac.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://leqtique.ch/en/products/matevr-release",
+      "title": "Maestoso EVR (aka MAT EVR &ndash; Leqtiqueshop",
+      "h1": "Maestoso EVR (aka MAT EVR",
+      "excerpt": "Maestoso EVR (aka MAT EVR &ndash; Leqtiqueshop Skip to content Submit Close search Leqtiqueshop Submit Search Log in Cart Maestoso EVR (aka MAT EVR Regular price $210.00 Sale Default Title - Sold out Quantity Sold out MAT EVR Gallery *Delivery of the small lot released on January 17, 2026 is scheduled for late February 2026. The Maestoso (aka MAT) was the second release under the Leqtique brand, released in 2012, and has several variations, including the Maestoso VPTP in 2018 and the L'MAT released under the L' brand. The MAT EVR employs a mechanism nearly identical to the L'MAT's popular \"Low-Cut\" feature. While some constant adjustments have been made, it retains the original Maestoso sound, while incorporating the L'MAT's low-cut. While the Maestoso was known for its powerful low-end, the addition of low-cut has made it a versatile TS-modified machine, making it the EVR brand's flagship medium-high-gain overdrive pedal, easy to use in a wide range of situations. (The Low-Cut characteristics are different from those of the MAT Supreme, resulting in a completely different sound.) Shun Nokina About the \"EVR\" concept Since 2019, I have been based in Europe and have been involved in the design of several pedals, but the Leqtique pedal line has essentially been on hiatus without releasing any new products. However, by temporarily moving my base to Iceland in 2024, I was able to gain some wonderful inspiration, and have continued to design all of them as an updated package called \"EVR.\" \"EVR\" is the Icelandic word for Europe. The letters strongly evoke the idea that the pedals embody the inspiration and experiences gained over many years of traveling and living in various parts of Europe. The Leqtique pedals originally embodied a strong desire for Europe, with their vibrant paintwork and dark sound, but now they are more clearly embodied as a more real-world experience. Leqtique pedals, which have not received an update in 15 years, have been completely redesigned from the ground up, including the housing, all components, and concept. For example, the housing, which was previously a one-piece machined aluminum body, has been redesigned from a standard \"box\" design with a wide tolerance range, but has been completely redesigned specifically for the Leqtique EVR pedal. By rethinking the advantages of a one-piece design, the previously aluminum-only construction has been divided and integrated into three sections: a functional aluminum base case, a non-magnetic stainless steel cosmetic layer, and individually machined parts. This paradoxically addresses the design diversity and consistency of a machined housing while addressing the limitations of material choices. As a result, most of the case, which was previously painted with acrylic paint, has been replaced with anodized aluminum, achieving unprecedented durability. The stainless steel top layer significantly improves the pedal's overall rigidity, and from a cosmetic perspective, the shine of the stainless steel adds a deep, three-dimensional feel to hand-painted pedals. In addition, for ideas that are difficult to produce even with a multi-axis CNC machine, the solution is to create individual parts and then integrate them. In particular, the internal parts, which the team calls the \"slider,\" are deliberately produced in a different color from the pedal concept, and the Gavitt cross wires that have been used since the brand's early days are individually shielded, elevating Leqtique's characteristically neat wiring from two-dimensional to three-dimensional. Meanwhile, the power section is undoubtedly the most important aspect of a pedal's core design. I'd been using battery snaps from Keystone, a leading brand, for many years, but the highest-quality version was discontinued, and this was the area I was most concerned about... However, when rebuilding everything from scratch with the EVR concept, I wanted to mount the battery itself as a section, rather than using snaps, which cou",
+      "host": "leqtique.ch",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.ebay.com/itm/366643062125",
+      "title": "Leqtique Maestoso MAT Overdrive Pedal Made in Japan High Gain TS ... - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.stompboxgarden.com/gear/pedal/16958/leqtique-maestoso-supreme",
+      "title": "Leqtique Maestoso Supreme Dimensions, Specs Details",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.stompboxgarden.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -1,23 +1,42 @@
 # Leqtique — Roger EVR
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Roger EVR
 - **Builder:** Leqtique
-- **Pedal:** Roger EVR
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Leqtique's Roger EVR.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Roger EVR** by **Leqtique** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Leqtique's Roger EVR is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- In environments where you need to choose one unit to produce all kinds of sounds, except for environments where you need ultra-high gain such as 9/9-10/10-11/11, the Beryl EVR or RED EVR is definitely the best choice.
+- The RED EVR has a stronger treble than the Leqtique - RED, which makes it slightly closer to the Beryl, but I still think its greatest strength is its medium-high gain distortion sound, so although it is certainly versatile, it is also very different, including in terms of the difference in tone.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+It has four main roles: Clean (Preamp EQ) - Low Gain OD - Medium Gain OD - Medium Gain DS, and can be adjusted steplessly.
+In environments where you need to choose one unit to produce all kinds of sounds, except for environments where you need ultra-high gain such as 9/9-10/10-11/11, the Beryl EVR or RED EVR is definitely the best choice.
+The RED EVR has a stronger treble than the Leqtique - RED, which makes it slightly closer to the Beryl, but I still think its greatest strength is its medium-high gain distortion sound, so although it is certainly versatile, it is also very different, including in terms of the difference in tone.
+
+## Sources checked
+1. Roger EVR &ndash; Leqtiqueshop: https://leqtique.ch/en/products/roger-evr
+2. Leqtique Roger EVR [Leqtique] DS10478178 - eBay: https://www.ebay.com/itm/257537530671
+3. Leqtique EVR Roger EVR (NEW) - Reverb: https://reverb.com/item/95180176-leqtique-evr-roger-evr-new
+4. LEQTIQUE EVR Roger EVR（新品/送料無料）【楽器検索デジマート】: https://www.digimart.net/cat13/shop77/DS10237797/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
