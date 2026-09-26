@@ -1,0 +1,13 @@
+{
+  "builder":"Abasi Concepts",
+  "pedal":"Pathos Distortion",
+  "status":"VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count":2,
+  "sources":[
+    {"url":"https://abasiconcepts.com/products/pathos","title":"Pathos Distortion | Abasi Concepts","source_kind":"manufacturer"},
+    {"url":"https://www.effectsdatabase.com/model/abasi/pathos","title":"Abasi Pathos Overdrive | Effects Database","source_kind":"effects_database"}
+  ],
+  "verified_points":["Smooth and Edge voicings","Gain/Level/Bass/Mid/Treble controls","relay true bypass","top-mounted jacks","9V battery or external power","made in USA","developed by Tosin Abasi with Brian Wampler","Effects Database records a 1000-piece limited run"],
+  "unknowns":["exact transistor devices","exact clipping diodes","complete hardware revision history"],
+  "next_action":"Merge deep research status through the canonical research pipeline; keep image state independent."
+}
