@@ -2793,8 +2793,8 @@
       "source_page": "https://fr.audiofanzine.com/saturation-multiple-ou-autre-saturation-pour-guitare/amptweaker/bigrock-pro/",
       "research_record": "./research/pedals/Amptweaker/Big_Rock_Pro.md",
       "image_source_url": "https://medias.audiofanzine.com/images/normal/amptweaker-bigrock-pro-5656086.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -38615,8 +38615,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Mighty Red Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mad Professor Amplification",

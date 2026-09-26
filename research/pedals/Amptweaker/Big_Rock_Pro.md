@@ -3,65 +3,37 @@
 ## PRP identity
 - **Archive parent:** Big Rock Pro
 - **Builder:** Amptweaker
-- **Catalog types:** Distortion / Overdrive
-- **First documented introduction:** 2014 NAMM-era release.
-- **Identity:** Full-size Pro-series rock dirt pedal with independent boost stages and extensive routing.
+- **Catalog type:** Distortion / Overdrive
+- **Identity:** Amptweaker's Big Rock Pro.
 
 ## What this pedal is
-Amptweaker developed Big Rock Pro after the TightMetal Pro, responding to requests for a two-button rock distortion. It combines a high-gain rock circuit with separate boost gain and boost volume controls, three-band EQ, multiple switchable voicings, and three effects loops. [1]
+Amptweaker's Big Rock Pro is cataloged as a distortion / overdrive pedal.
 
 ## Colorways
-- Documented examples use the brown full-size Pro enclosure.
-- No factory functional variant was established from cosmetic differences.
-- Color/graphics alone are not versions.
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Versions and factory modifications
-### Big Rock Pro — original production
-Key features:
-- Volume, Low, Mid, High, Gain, Tight
-- independent Boost Volume and Boost Gain
-- High Gain switch
-- Smooth Edge switch
-- two Fat switches for rhythm/boost thickness
-- PlexEQ and mid-boost functions
-- gain-tracking noise gate with internal adjustment
-- Universal, Boost, and SideTrak loops
-- LED-lit controls with adapter power
-- battery disconnect
-- true bypass
-- 9–18V operation [1]
-
-### Factory modifications
-- No separate builder-documented factory MOD or numbered revision was verified for the Big Rock Pro itself.
-- Do not count later Big Rock Pro II features as a modification of this record.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-Big Rock Pro was designed to cover the existing TightRock/FatRock territory while adding a dual-boost system, broader three-band EQ, and more elaborate routing. The Mid Boost is tied to the output boost, while the Gain Boost is placed before the distortion, allowing one footswitch to move from rhythm toward a louder, more saturated lead setup. [1][2]
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Type:** Unknown.
-- No Big Rock Pro-specific component documentation located that supports a transistor type or part number.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Unknown.
-- No Big Rock Pro-specific schematic/trace established a diode type.
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Big Rock Pro covers classic rock crunch through much heavier modern distortion, with the Tight, Smooth, Fat, and EQ controls giving the player considerable control over attack, low-end focus, and harmonic thickness. Its dual boost arrangement is especially important to its identity because it can increase gain before the distortion while simultaneously providing a separate post-distortion volume lift for leads. [1][2]
-
-## Research confidence
-- **Identity/history:** High
-- **Feature set:** High
-- **Factory-version history:** Moderate
-- **Transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
-
-## Photo
-- **Verified image:** Audiofanzine image showing Big Rock Pro.
-- **Source page:** https://fr.audiofanzine.com/saturation-multiple-ou-autre-saturation-pour-guitare/amptweaker/bigrock-pro/
+This version of our very popular TightRock™ & FatRock pedals has a dual boost system, 3 effects loops, & added 3 band EQ...which helps get even heavier tones not available with the standard versions.
+Dual illuminated Boost controls via Boost footswitch
+3 effects loops, Universal, Boost, and SideTrak loop that works when the pedal is OFF!
 
 ## Sources checked
-1. Effects Database — Amptweaker BigRock Pro, 2014: https://www.effectsdatabase.com/model/amptweaker/bigrock/pro
-2. Audiofanzine — Amptweaker BigRock Pro: https://fr.audiofanzine.com/saturation-multiple-ou-autre-saturation-pour-guitare/amptweaker/bigrock-pro/
-3. Pitbull Audio — BigRock Pro product information: https://www.pitbullaudio.com/amptweaker-bigrock-pro-rock-overdrive-distortion-pedal.html
+1. catalog/override source: https://reverb.com/p/amptweaker-big-rock-pro
+2. AMPTWEAKER BIGROCK PRO MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1304836/Amptweaker-Bigrock-Pro.html
+
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
