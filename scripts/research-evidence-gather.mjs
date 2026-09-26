@@ -38,6 +38,21 @@ function fit(builder,pedal,text){
   return {score:ph*18+bh*10+(exact?70:0),builderHits:bh,pedalHits:ph,exactPedal:exact};
 }
 function host(url){try{return new URL(url).hostname.toLowerCase();}catch{return '';}}
+
+async function boundedMap(items, limit, fn){
+  const out = new Array(items.length);
+  let cursor = 0;
+  const workers = Array.from({length: Math.min(limit, items.length)}, async () => {
+    while (true) {
+      const index = cursor++;
+      if (index >= items.length) return;
+      try { out[index] = await fn(items[index], index); }
+      catch { out[index] = null; }
+    }
+  });
+  await Promise.all(workers);
+  return out;
+}
 async function get(url){
   const ac=new AbortController(), timer=setTimeout(()=>ac.abort(),TIMEOUT);
   try{
@@ -92,10 +107,12 @@ async function search(q){
     'https://www.google.com/search?q='+encodeURIComponent(q)
   ];
   const out=[]; const seen=new Set();
-  for(const endpoint of endpoints){
+  const results = await boundedMap(endpoints, 2, async endpoint => {
     const r=await get(endpoint);
-    if(!r) continue;
-    for(const x of parseResults(r.text)){
+    return r ? parseResults(r.text) : [];
+  });
+  for(const batch of results){
+    for(const x of batch || []){
       if(seen.has(x.url)) continue;
       seen.add(x.url); out.push(x);
     }
@@ -216,7 +233,10 @@ async function targetRecord(builder,pedal,type){
       }
     }
   }
-  for(const q of queries) for(const x of await search(q)) if(!found.has(x.url)) found.set(x.url,x);
+  const queryResults = await boundedMap(queries, 2, q => search(q));
+  for(const batch of queryResults){
+    for(const x of batch || []) if(!found.has(x.url)) found.set(x.url,x);
+  }
   const candidates=[...found.values()];
   const ranked=candidates.map(x=>({x,f:fit(builder,pedal,x.title+' '+x.url)}))
     .sort((a,b)=>b.f.score-a.f.score).slice(0,12);
