@@ -15609,7 +15609,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Speaker Cranker",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/speaker-cranker/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Speaker Cranker.md"
   },
@@ -16505,7 +16505,7 @@
   {
     "builder": "Fjord Fuzz",
     "pedal": "Odin",
-    "image": null,
+    "image": "./assets/pedals/fjord-fuzz/odin/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fjord Fuzz/Odin.md"
   },
@@ -17779,14 +17779,14 @@
   {
     "builder": "IdiotBox Effects",
     "pedal": "Tractor Beam",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/tractor-beam/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Tractor Beam.md"
   },
   {
     "builder": "IdiotBox Effects",
     "pedal": "Trash Compactor",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/trash-compactor/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Trash Compactor.md"
   },
@@ -18563,7 +18563,7 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Fuzz Head",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/fuzz-head/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Fuzz Head.md"
   },
@@ -18668,14 +18668,14 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Red Dirt Mini",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/red-dirt-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Red Dirt Mini.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "Red Dirt Overdrive",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/red-dirt-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Red Dirt Overdrive.md"
   },
@@ -19928,7 +19928,7 @@
   {
     "builder": "Mask Audio Electronics",
     "pedal": "Screws",
-    "image": null,
+    "image": "./assets/pedals/mask-audio-electronics/screws/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/Screws.md"
   },
@@ -19998,14 +19998,14 @@
   {
     "builder": "Maxon",
     "pedal": "Fuzz Elements Earth",
-    "image": null,
+    "image": "./assets/pedals/maxon/fuzz-elements-earth/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Fuzz Elements Earth.md"
   },
   {
     "builder": "Maxon",
     "pedal": "Fuzz Elements Earth (FEA10)",
-    "image": null,
+    "image": "./assets/pedals/maxon/fuzz-elements-earth-fea10/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Fuzz Elements Earth (FEA10).md"
   },
@@ -20369,42 +20369,42 @@
   {
     "builder": "McGregor Pedals",
     "pedal": "Double Crunch Transparent Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mcgregor-pedals/double-crunch-transparent-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/McGregor Pedals/Double Crunch Transparent Overdrive.md"
   },
   {
     "builder": "McGregor Pedals",
     "pedal": "Octave Fuzz with Stank",
-    "image": null,
+    "image": "./assets/pedals/mcgregor-pedals/octave-fuzz-with-stank/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/McGregor Pedals/Octave Fuzz with Stank.md"
   },
   {
     "builder": "McGregor Pedals",
     "pedal": "The Classic Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mcgregor-pedals/the-classic-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/McGregor Pedals/The Classic Fuzz.md"
   },
   {
     "builder": "McGregor Pedals",
     "pedal": "The Cozmic Fuzzball",
-    "image": null,
+    "image": "./assets/pedals/mcgregor-pedals/the-cozmic-fuzzball/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/McGregor Pedals/The Cozmic Fuzzball.md"
   },
   {
     "builder": "Menatone",
     "pedal": "Blue Collar",
-    "image": null,
+    "image": "./assets/pedals/menatone/blue-collar/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Blue Collar.md"
   },
   {
     "builder": "Menatone",
     "pedal": "Blue Collar Mini",
-    "image": null,
+    "image": "./assets/pedals/menatone/blue-collar-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Blue Collar Mini.md"
   },
@@ -20418,14 +20418,14 @@
   {
     "builder": "Menatone",
     "pedal": "Blue Collar Mojo PTP",
-    "image": null,
+    "image": "./assets/pedals/menatone/blue-collar-mojo-ptp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Blue Collar Mojo PTP.md"
   },
   {
     "builder": "Menatone",
     "pedal": "Blue Collar PTP",
-    "image": null,
+    "image": "./assets/pedals/menatone/blue-collar-ptp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Blue Collar PTP.md"
   },
@@ -20593,14 +20593,14 @@
   {
     "builder": "MESA/Boogie",
     "pedal": "Cleo",
-    "image": null,
+    "image": "./assets/pedals/mesa-boogie/cleo/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MESA/Boogie/Cleo.md"
   },
   {
     "builder": "MESA/Boogie",
     "pedal": "DynaPlex",
-    "image": null,
+    "image": "./assets/pedals/mesa-boogie/dynaplex/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MESA/Boogie/DynaPlex.md"
   },

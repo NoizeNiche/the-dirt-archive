@@ -31513,7 +31513,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/speaker-cranker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Speaker Cranker.md",
       "research_level": "surface",
@@ -33073,7 +33073,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fjord-fuzz/odin/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Odin.md",
       "research_level": "deep",
@@ -35324,7 +35324,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/tractor-beam/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Tractor Beam.md",
       "research_level": "deep",
@@ -35336,7 +35336,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/trash-compactor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Trash Compactor.md",
       "research_level": "deep",
@@ -36708,7 +36708,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/fuzz-head/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Fuzz Head.md",
       "research_level": "deep",
@@ -36895,7 +36895,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/red-dirt-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Red Dirt Mini.md",
       "research_level": "deep",
@@ -36908,7 +36908,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/red-dirt-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Red Dirt Overdrive.md",
       "research_level": "deep",
@@ -39154,7 +39154,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/screws/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/Screws.md",
       "research_level": "surface",
@@ -39279,7 +39279,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/fuzz-elements-earth/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Earth.md",
       "research_level": "surface",
@@ -39291,7 +39291,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/fuzz-elements-earth-fea10/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Earth (FEA10).md",
       "research_level": "surface",
@@ -39940,7 +39940,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mcgregor-pedals/double-crunch-transparent-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/McGregor Pedals/Double Crunch Transparent Overdrive.md",
       "research_level": "surface",
@@ -39952,7 +39952,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mcgregor-pedals/octave-fuzz-with-stank/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/McGregor Pedals/Octave Fuzz with Stank.md",
       "research_level": "surface",
@@ -39964,7 +39964,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mcgregor-pedals/the-classic-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/McGregor Pedals/The Classic Fuzz.md",
       "research_level": "surface",
@@ -39977,7 +39977,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mcgregor-pedals/the-cozmic-fuzzball/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/McGregor Pedals/The Cozmic Fuzzball.md",
       "research_level": "surface",
@@ -39989,7 +39989,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/blue-collar/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Blue Collar.md",
       "research_level": "surface",
@@ -40002,7 +40002,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/blue-collar-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Blue Collar Mini.md",
       "research_level": "surface",
@@ -40027,7 +40027,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/blue-collar-mojo-ptp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Blue Collar Mojo PTP.md",
       "research_level": "surface",
@@ -40040,7 +40040,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/blue-collar-ptp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Blue Collar PTP.md",
       "research_level": "surface",
@@ -40348,7 +40348,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mesa-boogie/cleo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Cleo.md",
       "research_level": "surface",
@@ -40360,7 +40360,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mesa-boogie/dynaplex/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/DynaPlex.md",
       "research_level": "surface",
