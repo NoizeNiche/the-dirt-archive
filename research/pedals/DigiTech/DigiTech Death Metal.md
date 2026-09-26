@@ -37,3 +37,19 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DigiTech's DigiTech Death Metal is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Digitech Death Metal Distortion - Reverb: https://reverb.com/p/digitech-death-metal
+2. Digitech Death Metal Pedal for sale | eBay: https://www.ebay.com/sch/i.html?_nkw=digitech+death+metal+pedal&_sop=12
+3. DigiTech Death Metal - What To Know Where To Buy: https://equipboard.com/items/digitech-death-metal
+4. DigiTech Death Metal Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/DeathMetal--digitech-death-metal-distortion-pedal
+5. How good is the Digitech DEATH METAL? : r/guitarpedals - Reddit: https://www.reddit.com/r/guitarpedals/comments/12cvnl8/how_good_is_the_digitech_death_metal/
+6. Death Metal by DigiTech | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/DigiTech/Death-Metal/68977439/
+7. Fixing Digitech Death Metal - diystompboxes.com: https://www.diystompboxes.com/smfforum/index.php?topic=120562.0

@@ -16,3 +16,18 @@
   - https://stompboxsteals.blogspot.com/2020/02/overdrive-caline-cp-70-high-chief-king.html
   - https://www.effects-pedals.info/p/caline-cp-70-high-chief/
   - https://reverb.com/item/40197287-caline-cp-70-high-chief-dual-overdrive-guitar-effect-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-70 High Chief - Crushing Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Caline CP-70 High Chief - Crushing Overdrive
+Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026-03-24 TomsPedalDemos JCM Goodness with Dual Low Gain OD.
+0:16 2026-02-16 TomsPedalDemos Low Gain overdrive with Marshall JCM 800.
+
+### Sources checked in this pass
+1. Caline CP-70 High Chief - Crushing Overdrive | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp70

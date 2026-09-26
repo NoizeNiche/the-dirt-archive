@@ -5524,8 +5524,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://www.auxiliaryworkshop.com/images/OD35-content_01.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Auxiliary Workshop",
@@ -10423,8 +10423,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://www.toneteq.com/assets/uploads/product_images/160261077260.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -17407,8 +17407,8 @@
       "research_record": "./research/pedals/PRP Batch 143/cp-69-high-peak-distortion.md",
       "image_source_url": "https://www.danguitar.dk/img/580/580/resize/c/a/caline_cp-69_high_peak_distortion_guitarpedal_1.jpg",
       "image_source_page": "https://www.danguitar.dk/caline-cp-69-high-peak-distortion-guitarpedal",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -17421,8 +17421,8 @@
       "research_record": "./research/pedals/PRP Batch 143/cp-70-high-chief-crushing-overdrive.md",
       "image_source_url": "https://images.nexusapp.co/assets/41/1d/9e/486690328.jpg",
       "image_source_page": "https://au.grandado.com/products/caline-cp-70-high-chief-overdrive-amp-clear-boost-2-in-1-guitar-effect-pedal-true-bypass-electric-guitar-parts-amp-accessories?variant=UHJvZHVjdFZhcmlhbnQ6NDI1MjQ0ODA3",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -29697,8 +29697,8 @@
       "image": "./assets/pedals/diamond/diamond-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Diamond/Diamond Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Diezel Amplification",
@@ -29723,8 +29723,8 @@
       "image": "./assets/pedals/digitech/digitech-death-metal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DigiTech/DigiTech Death Metal.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DigiTech",
@@ -33468,8 +33468,8 @@
       "image": "./assets/pedals/friedman-amplification/be-od-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Friedman Amplification/BE-OD Deluxe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Friedman Amplification",
@@ -43358,8 +43358,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/Lock Stock & Barrel 3-Mode Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Outlaw Effects",

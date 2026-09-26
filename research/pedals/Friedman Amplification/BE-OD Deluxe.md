@@ -1,23 +1,43 @@
 # Friedman Amplification — BE-OD Deluxe
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** BE-OD Deluxe
 - **Builder:** Friedman Amplification
-- **Pedal:** BE-OD Deluxe
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Friedman Amplification's BE-OD Deluxe.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **BE-OD Deluxe** by **Friedman Amplification** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The BE-OD Deluxe delivers authentic tube amplifier sound with the controls needed to shape your tone.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: v15.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The top row (Channel 1) is identical to the original BE-OD pedal while Dave voiced the bottom row (Channel 2) with slightly lower gain.
+ Authentic British Overdrive Tones based on the Legendary “BE-100” tube head  Delivers authentic tube amplifier sound Controls include: 3 position tight switch, volume, gain, bass, middle, treble and presence knobs.
+The BE-OD Deluxe delivers authentic tube amplifier sound with the controls needed to shape your tone.
+
+## Sources checked
+1. BE-OD DELUXE | Friedman Amplification: https://friedmanamplification.com/shop/pedals/be-od-deluxe/
+2. open prime modal: https://www.amazon.com/clp/B07KB3YQLF
+3. Friedman Amplification BE-OD Deluxe Effects Pedal: https://www.freeguitarcity.com/product/friedman-amplification-be-od-deluxe-effects-pedal/
+4. Friedman Amplification BE-OD Deluxe - Overdrive pedal - Audiofanzine: https://en.audiofanzine.com/overdrive-pedal/friedman-amplification/be-od-deluxe/
+5. Friedman Amplification BE-OD Deluxe - Gearspace: https://gearspace.com/gear/friedman-amplification/be-od-deluxe?via=gear_post_link
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

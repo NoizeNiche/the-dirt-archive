@@ -12,3 +12,13 @@ https://www.effectsdatabase.com/model/biyang/ds1
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Biyang's DS-1 Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Biyang DS-1 Distortion | Effects Database: https://www.effectsdatabase.com/model/biyang/ds1

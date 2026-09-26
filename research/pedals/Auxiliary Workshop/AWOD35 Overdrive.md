@@ -40,3 +40,21 @@ The surviving documentation supports its classification as an overdrive but does
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://auxiliaryworkshop.com/
 - **Archive note:** The builder's site was not accessible through the current research interface, so no exact image asset was promoted.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Auxiliary Workshop OD35 Overdrive - Small Batch Boutique Hand Made Guitar Effect Pedals The Auxiliary Workshop AWOD35 Overdrive is the latest small batch boutique pedal designed by Rob Wolfe.
+
+### Verified transistor/device terms
+- AC15.
+
+### Verified sound evidence
+Auxiliary Workshop OD35 Overdrive - Small Batch Boutique Hand Made Guitar Effect Pedals The Auxiliary Workshop AWOD35 Overdrive is the latest small batch boutique pedal designed by Rob Wolfe.
+Circuit design is my passion and over the last four years I have distilled many circuits in my quest for the ultimate versatile overdrive tone.
+Each incarnation had a modified “distortion block”, “tone block” or interconnectivity modifications.
+
+### Sources checked in this pass
+1. Auxiliary Workshop OD35 Overdrive - Small Batch Boutique Hand Made Guitar Effect Pedals: https://www.auxiliaryworkshop.com/AW0D35.html

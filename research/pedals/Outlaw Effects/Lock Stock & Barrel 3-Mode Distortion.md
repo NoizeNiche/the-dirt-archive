@@ -1,23 +1,40 @@
 # Outlaw Effects — Lock Stock & Barrel 3-Mode Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Lock Stock & Barrel 3-Mode Distortion
 - **Builder:** Outlaw Effects
-- **Pedal:** Lock Stock & Barrel 3-Mode Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Outlaw Effects's Lock Stock & Barrel 3-Mode Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Lock Stock & Barrel 3-Mode Distortion** by **Outlaw Effects** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Outlaw Effects's Lock Stock & Barrel 3-Mode Distortion is cataloged as a distortion pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Outlaw Effects Lock Stock & Barrel 3-Mode Distortion
+From classic crunch tones to tighter, more modern high-gain sounds.
+Three distinct distortion modes: LOCK (Organic): Natural distortion tone, like an overdriven vintage tube amp.
+
+## Sources checked
+1. New Outlaw Effects Lock Stock & Barrel 3-Mode Distortion | Reverb: https://reverb.com/item/87530520-new-outlaw-effects-lock-stock-barrel-3-mode-distortion-guitar-effects-pedal
+2. Outlaw Effects Lock Stock & Barrel 3-Mode Distortion | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/outlaw-effects-lock-stock-barrel-3-mode-distortion
+3. Lock Stock and Barrel | Outlaw Effects: https://www.outlaweffects.com/lockstockandbarrel
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
