@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T21:43:32.734350+00:00",
+  "generated_at": "2026-09-26T21:45:03.946727+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2953,
     "complete": 2953,
     "research_pending": 0,
-    "deep_research_pending": 2273,
-    "deep_researched": 1488,
+    "deep_research_pending": 2272,
+    "deep_researched": 1489,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Animal Factory Amplification",
-    "pedal": "Ozymandias",
+    "pedal": "Pit Viper",
     "catalog_type": "",
-    "research_record": "./research/pedals/Animal Factory Amplification/Ozymandias.md",
+    "research_record": "./research/pedals/Animal Factory Amplification/Pit_Viper.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Animal Factory Amplification",
-      "pedal": "Ozymandias",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Animal Factory Amplification/Ozymandias.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Animal Factory Amplification",
       "pedal": "Pit Viper",
@@ -195,6 +188,13 @@
       "pedal": "TONE BENDERS (MK1 // MK1.5 // MK2 // MK3 // MK4)",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 058/TONE BENDERS (MK1 - MK1.5 - MK2 - MK3 - MK4).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Artisanal Effects",
+      "pedal": "Artisanal Cheese (Big Cheese)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 058/Artisanal Cheese (Big Cheese).md",
       "research_level": "surface"
     }
   ]
