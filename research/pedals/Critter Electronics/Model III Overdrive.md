@@ -4,38 +4,45 @@
 - **Archive parent:** Model III Overdrive
 - **Builder:** Critter Electronics
 - **Catalog type:** Overdrive
-- **Identity:** Critter Electronics's Model III Overdrive.
+- **Identity:** Critter Electronics / Waterford Electric Box Co. Model III Overdrive. Exact-model identity is independently represented by listings on Reverb, Atomic Music, and Reliable Musical Instruments. [1][2][3]
 
 ## What this pedal is
-Used Critter Electronics Model III Overdrive Pedal quantity Add to cart Description Critter Electronics Model III Overdrive Pedal The Critter Electronics Model III Overdrive delivers smooth, responsive overdrive with a warm, full-bodied tone.
+Model III is an overdrive pedal sold under the Critter Electronics / Waterford Electric name. The strongest accessible exact-model descriptions characterize it as a smooth, responsive overdrive with a warm, full-bodied tone intended to enhance the instrument's natural character while adding harmonic content. [1][3]
+
+Atomic Music's exact-model listing identifies it as a Critter Electronics Waterford Electric Box Co. Model III Overdrive Pedal and confirms the pedal's identity independently of the Reverb listing. [2]
 
 ## Colorways
-- Designed to enhance your guitar’s natural sound while providing rich harmonic content, it’s ideal for blues, rock, and modern overdrive applications.
-- Add to cart Used Ibanez Q54 HEADLESS FLAT BLACK Electric Guitar Black 6-String &#36; 799.99 Original price was: &#036;799.99.
+- No reliable production colorway history was established from the accessible exact-model sources.
+- The archive does not infer a finish from a single used-market photograph without corroborating production evidence.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+### Model III Overdrive
+- Exact-model overdrive identity verified.
+- No reliable factory control list or documented option set was preserved in the accessible evidence packet.
+- No numbered revision was established. [1][2][3]
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+No numbered factory revision was verified. The available evidence is primarily product/listing documentation rather than a manufacturer archive, so no circuit or control change is inferred from differences between used listings. [1][2][3]
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact transistor/device:** Not publicly documented in the accessible exact-model evidence.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact clipping diode/device:** Not publicly documented in the accessible exact-model evidence.
 
 ## Sound
-• ✕ Home Instruments Electric Guitars Solid Body Semi-Hollow Hollow Body Left-Handed Archtop Baritone Lap-Steel 12-String Acoustic Guitars Built-in Electronics Dreadnought 12-String Classical OM and Auditorium Mini/Travel Archtop Resonator Basses 4-String 5-String or More Active Electronics Acoustic Bass Guitars Fretkess Short Scale Left-Handed Keyboards and Synths Synths MIDI Controllers Workstation Keyboards Drum Machines Digital Stage Pianos Sequencers Grooveboxes Samplers Organs Arranger Keyboards Electric Pianos Portable Keyboards Keyboard and Synth Parts Drums Percussion Cymbals Acoustic Drums Electronic Drums Pad Controllers Parts and Accessories Auxiliary Percussion Folk Instruments Banjos Ukuleles Mandolins Effects Pedals Overdrive and Boost Distortion Fuzz Wahs and Filters Delay Controllers, Volume and Expression Multi-Effect Unit Bass Pedals Compression and Sustain Loop Pedals and Samplers Octave and Pitch Preamps Phase Shifters Flanger Amp Simulators EQ Tremolo Tuning Pedals Pedalboards and Power Supplies Vocal Guitar Synths Cabinet Simulators Buffer Noise Generators Noise Reduction and Gates Ring Modulators Amps Guitar Amps Bass Amps Small Amps Keyboard Amps Boutique Amps Amp Attenuators Electronic Drum Amps Pro Audio Outboard Gear Microphones Interfaces Mixers DI Boxes Recording Portable Recorders Accessories 500 Series Portable PA Systems Power Amps Passive Speakers Home Audio Preamps Amplifiers Equalizers Band and Ochestra Violins Flutes DJ and Lighting Gear Mixers Accessories Cases and Gig Bags Cable Adapters and Splitters Cables Small Parts Guitar Pickups Bass Pickups Acoustic Pickups Merchandise Sale Today&#39;s Specials Repairs Contact Home Instruments Electric Guitars &rsaquo; Solid Body Semi-Hollow Hollow Body Left-Handed Archtop Baritone Lap-Steel 12-String Acoustic Guitars &rsaquo; Built-in Electronics Dreadnought 12-String Classical OM and Auditorium Mini/Travel Archtop Resonator Basses &rsaquo; 4-String 5-String or More Active Electronics Acoustic Bass Guitars Fretkess Short Scale Left-Handed Keyboards and Synths &rsaquo; Synths MIDI Controllers Workstation Keyboards Drum Machines Digital Stage Pianos Sequencers Grooveboxes Samplers Organs Arranger Keyboards Electric Pianos Portable Keyboards Keyboard and Synth Parts Drums Percussion &rsaquo; Cymbals Acoustic Drums Electronic Drums Pad Controllers Parts and Accessories Auxiliary Percussion Folk Instruments &rsaquo; Banjos Ukuleles Mandolins Effects Pedals &rsaquo; Overdrive and Boost Distortion Fuzz Wahs and Filters Delay Controllers, Volume and Expression Multi-Effect Unit Bass Pedals Compression and Sustain Loop Pedals and Samplers Octave and Pitch Preamps Phase Shifters Flanger Amp Simulators EQ Tremolo Tuning Pedals Pedalboards and Power Supplies Vocal Guitar Synths Cabinet Simulators Buffer Noise Generators Noise Reduction and Gates Ring Modulators Amps &rsaquo; Guitar Amps Bass Amps Small Amps Keyboard Amps Boutique Amps Amp Attenuators Electronic Drum Amps Pro Audio &rsaquo; Outboard Gear Microphones Interfaces Mixers DI Boxes Recording Portable Recorders Accessories 500 Series Portable PA
-Used Critter Electronics Model III Overdrive Pedal- reliablemusicalinstruments.com Skip to content Free shipping on orders over $30.
-Home &#47; hot sale &#47; Used Critter Electronics Model III Overdrive Pedal hot sale Used Critter Electronics Model III Overdrive Pedal &#36; 89.99 Original price was: &#036;89.99.
+The most substantive exact-model description characterizes Model III as smooth and responsive, with a warm, full-bodied tone and rich harmonic content. It is presented as a flexible overdrive suited to blues, rock, and modern overdrive applications, while preserving the natural sound of the guitar. [3]
+
+No stronger component-level or EQ-specific tonal description was found in the verified packet, so the archive does not assign a circuit family or clipping topology.
+
+## Historical documentation notes
+The evidence packet contains three independent exact-model hosts: Reverb, Atomic Music, and Reliable Musical Instruments. Reverb and Atomic Music primarily establish product identity; Reliable Musical Instruments provides the surviving detailed tonal description. [1][2][3]
 
 ## Sources checked
-1. Critter Electronics | Waterford Electric - Model III Overdrive - Reverb: https://reverb.com/item/99757993-critter-electronics-waterford-electric-model-iii-overdrive
-2. Critter Electronics Waterford Electric Box Co. Critter Model III Overd &ndash; Atomic Music: https://atomicmusic.com/products/critter-electronics-waterford-electric-box-co-critter-model-iii-overdrive-pedal
-3. Used Critter Electronics Model III Overdrive Pedal- reliablemusicalinstruments.com: https://www.reliablemusicalinstruments.com/product/used-critter-electronics-model-iii-overdrive-pedal/
+1. Reverb — Critter Electronics | Waterford Electric - Model III Overdrive: https://reverb.com/item/99757993-critter-electronics-waterford-electric-model-iii-overdrive
+2. Atomic Music — Critter Electronics Waterford Electric Box Co. Model III Overdrive: https://atomicmusic.com/products/critter-electronics-waterford-electric-box-co-critter-model-iii-overdrive-pedal
+3. Reliable Musical Instruments — Used Critter Electronics Model III Overdrive Pedal: https://www.reliablemusicalinstruments.com/product/used-critter-electronics-model-iii-overdrive-pedal/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model Reverb and retailer references were verified in the evidence packet.
