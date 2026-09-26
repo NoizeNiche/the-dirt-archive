@@ -17894,8 +17894,8 @@
       "research_record": "./research/pedals/PRP Batch 147/camuro-naked-machine.md",
       "image_source_page": "http://www.cloudchair.net/guitar/yutaka-aoki-naked-machine-interview/",
       "image_source_url": "http://www.cloudchair.net/uploads/2014/05/2014-04-23_NM_Top-1024x764.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Camuro",
