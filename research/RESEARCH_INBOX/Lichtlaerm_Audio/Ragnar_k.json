@@ -1,0 +1,57 @@
+{
+  "builder": "Lichtlaerm Audio",
+  "pedal": "Ragnar\u00f8k",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 6,
+  "sources": [
+    {
+      "url": "https://lichtlaerm-audio.fandom.com/wiki/Ragnar%C3%B8k",
+      "title": "Ragnar\u00f8k | Lichtlaerm Audio Wiki | Fandom",
+      "h1": "",
+      "excerpt": "",
+      "host": "lichtlaerm-audio.fandom.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/100174158-lichtlaerm-audio-ragnarok-tube-distortion-preamp-pedal-demo",
+      "title": "Lichtlaerm Audio Ragnar\u00f8k Tube Distortion / Preamp Pedal | Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.audiofusionus.com/product/lichtlaerm-audio-ragnarok/",
+      "title": "Lichtlaerm Audio Ragnar\u00f8k - audiofusionus.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.audiofusionus.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.ebay.com/itm/127790860463",
+      "title": "Lichtlaerm Audio Ragnar\u00f8k Distortion Preamp Pedal EFFECTS NEW ... - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.boostguitarpedals.co.uk/products/lichtlaerm-audio-ragnarok",
+      "title": "LICHTLAERM AUDIO Ragnar\u00f8k | Boost Guitar Pedals",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.boostguitarpedals.co.uk",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.pedalempire.com.au/products/ragnarok-apocalyptic-tube-distortion-preamp",
+      "title": "Lichtlaerm Audio Ragnar\u00f8k - Apocalyptic Tube Distortion//Preamp \u2014 Pedal Empire",
+      "h1": "Lichtlaerm Audio Ragnar\u00f8k - Apocalyptic Tube Distortion//Preamp",
+      "excerpt": "Lichtlaerm Audio Ragnar\u00f8k - Apocalyptic Tube Distortion//Preamp \u2014 Pedal Empire {\"greetingMessage\":\"Welcome to Pedal Empire. How can I help?\",\"customerServiceEmail\":\"info@pedalempire.com.au\",\"onlineStorePasswordProtected\":false,\"translations\":[{\"key\":\"agent_chat.panel.open_chat\",\"value\":\"Open chat\"},{\"key\":\"agent_chat.panel.ask_anything\",\"value\":\"Ask anything\"},{\"key\":\"agent_chat.panel.title\",\"value\":\"Storekick\"},{\"key\":\"agent_chat.panel.unread_replies\",\"value\":\"Unread replies\"},{\"key\":\"agent_chat.panel.back_to_chat\",\"value\":\"Back to chat\"},{\"key\":\"agent_chat.panel.see_history\",\"value\":\"See chat history\"},{\"key\":\"agent_chat.panel.new_chat\",\"value\":\"Create a new chat\"},{\"key\":\"agent_chat.panel.close\",\"value\":\"Close chat\"},{\"key\":\"agent_chat.panel.undock\",\"value\":\"Undock chat\"},{\"key\":\"agent_chat.panel.dock\",\"value\":\"Dock chat\"},{\"key\":\"agent_chat.panel.expand\",\"value\":\"Expand chat\"},{\"key\":\"agent_chat.panel.contract\",\"value\":\"Contract chat\"},{\"key\":\"agent_chat.panel.jump_to_latest\",\"value\":\"Jump to latest\"},{\"key\":\"agent_chat.panel.loading_chat\",\"value\":\"Loading chat\"},{\"key\":\"agent_chat.input.label\",\"value\":\"Type your message\"},{\"key\":\"agent_chat.input.placeholder\",\"value\":\"Ask anything...\"},{\"key\":\"agent_chat.input.send\",\"value\":\"Send\"},{\"key\":\"agent_chat.input.stop\",\"value\":\"Stop generating\"},{\"key\":\"agent_chat.thinking\",\"value\":\"Thinking...\"},{\"key\":\"agent_chat.first_response_delayed\",\"value\":\"Agent is taking longer to respond\u2026\"},{\"key\":\"agent_chat.searching\",\"value\":\"Searching...\"},{\"key\":\"agent_chat.message.sent_timestamp\",\"value\":\"Sent \u00b7 {{time}}\"},{\"key\":\"agent_chat.message.automated_label\",\"value\":\"Automated\"},{\"key\":\"agent_chat.message.automated_timestamp\",\"value\":\"Automated \u00b7 {{time}}\"},{\"key\":\"agent_chat.liveAgentHandoff\",\"value\":\"Someone from our team will be with you shortly\"},{\"key\":\"agent_chat.human_handoff.action\",\"value\":\"Chat with our team\"},{\"key\":\"agent_chat.human_handoff.request\",\"value\":\"I\u2019d like to talk to someone from your team\"},{\"key\":\"agent_chat.human_handoff.ai_assistant\",\"value\":\"AI assistant\"},{\"key\":\"agent_chat.greeting.default\",\"value\":\"Hi there!\"},{\"key\":\"agent_chat.greeting.with_name\",\"value\":\"Hi {{name}}!\"},{\"key\":\"agent_chat.greeting.welcome\",\"value\":\"You can ask questions about shopping, sizing\\/dimensions, shipping, returns, or order status.\"},{\"key\":\"agent_chat.greeting.welcome_back\",\"value\":\"Welcome back to %{shop_name}! How can I help?\"},{\"key\":\"agent_chat.greeting.welcome_back_no_shop\",\"value\":\"Welcome back! How can I help?\"},{\"key\":\"agent_chat.greeting.welcome_to_shop\",\"value\":\"Welcome to %{shop_name}. How can I help?\"},{\"key\":\"agent_chat.greeting.generic\",\"value\":\"How can I help?\"},{\"key\":\"agent_chat.disclaimer.text\",\"value\":\"This chat is powered by AI from Shopify and may make mistakes. Your messages are visible to {{shop_name}}. See\"},{\"key\":\"agent_chat.disclaimer.text_human\",\"value\":\"Your messages are visible to {{shop_name}} and to Shopify for the provision and improvement of the services. See\"},{\"key\":\"agent_chat.disclaimer.link_text\",\"value\":\"privacy policy\"},{\"key\":\"agent_chat.error.response_unavailable\",\"value\":\"Response unavailable\"},{\"key\":\"agent_chat.error.generic\",\"value\":\"Something went wrong.\"},{\"key\":\"agent_chat.error.response_failed\",\"value\":\"Couldn\u2019t load this message\"},{\"key\":\"agent_chat.error.message_send_failed\",\"value\":\"Your message couldn\u2019t be sent\"},{\"key\":\"agent_chat.error.attachment_upload_failed\",\"value\":\"Your attachment didn\u2019t upload\"},{\"key\":\"agent_chat.error.first_response_stalled\",\"value\":\"Agent couldn\u2019t respond\"},{\"key\":\"agent_chat.error.try_again\",\"value\":\"Try again\"},{\"key\":\"agent_chat.error.unavailable\",\"value\":\"Chat isn't available right now - try again later\"},{\"key\":\"agent_chat.error.usage_limit\",\"value\":\"Message limit reached \u2014 try again later or email us at {{email}}\"},{\"key\":\"agent_chat.error.usage_limit_no_email\",\"value\":\"Message limit reached \u2014 try again later\"},{\"key\":\"agent_chat.error.cost_quota_unhandled\",\"value\":\"Chat isn\u2019t available right",
+      "host": "www.pedalempire.com.au",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T07:42:42.905729+00:00",
+  "generated_at": "2026-09-26T07:45:50.894107+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2681,
     "complete": 2681,
     "research_pending": 0,
-    "deep_research_pending": 3265,
-    "deep_researched": 496,
+    "deep_research_pending": 3261,
+    "deep_researched": 500,
     "surface_ready": 3761
   },
   "next_target": {
@@ -34,13 +34,6 @@
       "pedal": "Fat Rock",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/Fat_Rock.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "Tight Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/Tight_Drive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Rammstein RD Distortion Combo Emulator",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 049/Rammstein RD Distortion Combo Emulator.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "AMT Electronics",
+      "pedal": "S-1",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 050/S-1.md",
       "research_level": "surface"
     }
   ]

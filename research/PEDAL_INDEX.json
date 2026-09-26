@@ -2900,8 +2900,8 @@
       "source_page": "https://www.fullcompass.com",
       "research_record": "./research/pedals/Amptweaker/Tight_Drive.md",
       "image_source_url": "https://www.fullcompass.com/common/products/sm/513892.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -28559,8 +28559,8 @@
       "image": "./assets/pedals/danelectro/fab-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/FAB Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -38067,8 +38067,8 @@
       "image": "./assets/pedals/lichtlaerm-audio/ragnar-k/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Ragnarøk.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lichtlaerm Audio",
@@ -38590,8 +38590,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Little Tweedy Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mad Professor Amplification",
