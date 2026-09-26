@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T08:44:49.901142+00:00",
+  "generated_at": "2026-09-26T08:47:55.337766+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2706,
     "complete": 2706,
     "research_pending": 0,
-    "deep_research_pending": 3242,
-    "deep_researched": 519,
+    "deep_research_pending": 3240,
+    "deep_researched": 521,
     "surface_ready": 3761
   },
   "next_target": {
@@ -34,13 +34,6 @@
       "pedal": "Tight Drive Jr",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "Tight Metal Pro II",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/Tight_Metal_Pro_II.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Tweaker",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 050/Tweaker.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amzel Electronics",
+      "pedal": "Cheshire Cat Tone Evaporator",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 050/Cheshire Cat Tone Evaporator.md",
       "research_level": "surface"
     }
   ]

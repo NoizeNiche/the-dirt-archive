@@ -2993,8 +2993,8 @@
       "source_page": "https://www.zzounds.com/item--AMPTMPRO2",
       "research_record": "./research/pedals/Amptweaker/Tight_Metal_Pro_II.md",
       "image_source_url": "https://cf1.zzounds.com/media/productmedia/fit%2C2018by3200/quality%2C85/DSC_7146_821608-820c41dc58fd9ac756ca4451ea9cf781.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -44751,8 +44751,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/SBGO Effects/Fat’n Dirty.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Seymour Duncan",
