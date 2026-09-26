@@ -4232,8 +4232,8 @@
       "research_record": "./research/pedals/PRP Batch 057/Rover Fuzz.md",
       "image_source_url": "http://animalspedal.us/cdn/shop/files/ROVERFUZZ-01.jpg?v=1753151286",
       "image_source_page": "https://animalspedal.us/products/animals-pedal-rover-fuzz",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Animals Pedal",
