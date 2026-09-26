@@ -36,3 +36,13 @@ fx pedal stompbox stomp box guitar effects pedal distortion dist distorted disto
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dwarfcraft Devices's Abaddon is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices Abaddon | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/abaddon

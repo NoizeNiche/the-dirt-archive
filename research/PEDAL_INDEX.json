@@ -30694,8 +30694,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Abaddon.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -30707,8 +30707,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/baby-thundaa-baby-thunder/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Baby Thundaa / Baby Thunder.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -33695,8 +33695,8 @@
       "image": "./assets/pedals/fulltone/ocd/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/OCD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -35982,8 +35982,8 @@
       "image": "./assets/pedals/jhs-pedals/crayon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Crayon.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -36911,8 +36911,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Red Dirt Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -45646,8 +45646,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Polaris.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Spaceman Effects",
