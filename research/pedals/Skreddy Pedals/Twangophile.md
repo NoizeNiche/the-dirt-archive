@@ -1,23 +1,41 @@
 # Skreddy Pedals — Twangophile
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Twangophile
 - **Builder:** Skreddy Pedals
-- **Pedal:** Twangophile
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Skreddy Pedals's Twangophile.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Twangophile** by **Skreddy Pedals** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Twangophile is a lovely take on the early Deluxe amplifier's normal channel and goes from mild, mostly-clean to aggressive, smokey blues or jazz.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Home Effect Types Overdrive Twangophile Twangophile Vintage American tube combo sound Break out of that mushy mix!
+Let your cleans ring like a bell or go into full bluesy overdrive.
+Give your clean channel that bold, bright attack and sweet articulation of rock, blues, rockabilly, surf, and country music's formative years, or stack it with your favorite drive pedal for a solo boost that cuts and sings.
+
+## Sources checked
+1. Overdrive | Twangophile | Skreddy Pedals: https://skreddypedals.com/twango
+2. Skreddy Pedals Twangophile - Reverb: https://reverb.com/item/58045815-skreddy-pedals-twangophile
+3. Skreddy Pedals Twangophile - Your Complete Music Store – Instruments, Vinyl & More: https://www.vinylstorex.com/product/skreddy-pedals-twangophile/
+4. Skreddy Pedals Twangophile – eastside music supply: https://eastsidemusicsupply.com/products/skreddy-pedals-twangophile
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

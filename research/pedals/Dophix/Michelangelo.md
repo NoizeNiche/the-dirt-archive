@@ -38,3 +38,14 @@ Shipping cost to Italy: €10 | Shipping cost to EU: €30 For non-EU countries 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dophix's Michelangelo is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Michelangelo overdrive plus - Dophix: https://www.dophix.com/product/michelangelo/
+2. Dophix Michelangelo Overdrive Plus Pedal - promusicfactory.com: https://www.promusicfactory.com/product/dophix-michelangelo-overdrive-plus-pedal/

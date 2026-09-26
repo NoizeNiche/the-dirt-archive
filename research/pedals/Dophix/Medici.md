@@ -42,3 +42,15 @@ GUSS PICKUPS Hepcat Pickups Keyztone Pedal Room Italy Peterson Strobe Tuners Pli
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dophix's Medici is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. MEDICI more fuzz - Dophix: https://www.dophix.com/product/medici/
+2. Dophix Medici 2025 - Reverb: https://reverb.com/item/94681948-dophix-medici-2025
+3. Dophix Medici More Fuzz review | Guitar World: https://www.guitarworld.com/reviews/dophix-medici-more-fuzz

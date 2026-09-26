@@ -30408,8 +30408,8 @@
       "image": "./assets/pedals/dophix/medici/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dophix/Medici.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dophix",
@@ -30420,8 +30420,8 @@
       "image": "./assets/pedals/dophix/michelangelo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dophix/Michelangelo.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dophix",
@@ -33592,8 +33592,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/70 Pedal-BC.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -34656,8 +34656,8 @@
       "image": "./assets/pedals/hudson-electronics/stroll-on-jnr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Stroll On Jnr.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Hungry Robot",
@@ -45433,8 +45433,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Twangophile.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
