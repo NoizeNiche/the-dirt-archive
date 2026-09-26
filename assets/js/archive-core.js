@@ -3,6 +3,7 @@
 // Page-specific files should focus only on rendering and interaction.
 
 const ARCHIVE_DATA_INDEX = new URL('./research/PEDAL_INDEX.json', location.href).href;
+const ARCHIVE_FACETS_INDEX = new URL('./research/PEDAL_FACETS.json', location.href).href;
 const ARCHIVE_DIRT_TYPES = Object.freeze(['All', 'Overdrive', 'Distortion', 'Fuzz']);
 
 const $ = id => document.getElementById(id);
@@ -38,6 +39,27 @@ function detailUrl(entry, variation, type) {
 }
 
 let archiveCatalogPromise = null;
+let archiveFacetsPromise = null;
+
+function loadFacets() {
+  if (archiveFacetsPromise) return archiveFacetsPromise;
+
+  archiveFacetsPromise = fetch(ARCHIVE_FACETS_INDEX, {cache: 'no-store'})
+    .then(response => {
+      if (!response.ok) return {version: 1, records: {}, options: {}};
+      return response.json();
+    })
+    .then(data => {
+      if (!data || typeof data !== 'object' || typeof data.records !== 'object') {
+        return {version: 1, records: {}, options: {}};
+      }
+      return data;
+    })
+    .catch(error => {
+      console.warn('Technical facet index unavailable.', error);
+      return {version: 1, records: {}, options: {}};
+    });
+}
 
 function loadCatalog() {
   if (archiveCatalogPromise) return archiveCatalogPromise;
