@@ -141,8 +141,8 @@ def write_record(item, tracker_type, packet):
         return False, "insufficient independent exact-source evidence"
 
     record_path = RESEARCH_ROOT / builder / f"{pedal}.md"
-    existing_surface = record_path.exists() and str(item.get("research_level") or "").strip().lower() == "surface"
-    if (record_path.exists() or item.get("research_record")) and not existing_surface:
+    existing_revisitable = record_path.exists() and str(item.get("research_level") or "").strip().lower() in {"surface", "researched"}
+    if (record_path.exists() or item.get("research_record")) and not existing_revisitable:
         return False, "record already exists"
 
     description = choose_description(builder, pedal, kind, sources)
