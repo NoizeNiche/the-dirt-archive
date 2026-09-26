@@ -34,7 +34,23 @@ def main():
         record=ROOT/builder/(pedal+'.md')
         if item.get('research_record'):
             if not record.is_file():
-                raise SystemExit(f'Catalog points to missing research record: {item.get("research_record")}')
+                candidates=[]
+                for candidate in ROOT.rglob('*.md'):
+                    try:
+                        text=candidate.read_text(encoding='utf-8',errors='replace')
+                    except Exception:
+                        continue
+                    if (
+                        f'- **Builder:** {builder}' in text
+                        and f'- **Archive parent:** {pedal}' in text
+                    ):
+                        candidates.append(candidate)
+                if len(candidates)==1:
+                    item['research_record']='./'+candidates[0].as_posix()
+                elif len(candidates)>1:
+                    raise SystemExit(f'Ambiguous orphan research records for {builder} / {pedal}: ' + ' | '.join(map(str,candidates)))
+                else:
+                    raise SystemExit(f'Catalog points to missing research record with no exact recovery candidate: {item.get("research_record")}')
             if not item.get('research_level'):
                 item['research_level']='researched'
                 item['deep_research_status']='PENDING_REVIEW'
