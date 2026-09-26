@@ -59,6 +59,24 @@ jobs:
           # of a bounded pass on targets that still need open-ended discovery.
           source_hosts = {}
           try:
+              from urllib.parse import urlparse
+              for item in pedals:
+                  b = str(item.get("company","")).strip()
+                  p = str(item.get("pedal","")).strip()
+                  if not b or not p:
+                      continue
+                  key = (b, p)
+                  for u in [
+                      item.get("source_page"),
+                      item.get("image_source_page"),
+                      *([x for x in item.get("source_pages", [])] if isinstance(item.get("source_pages"), list) else []),
+                  ]:
+                      u = str(u or "").strip()
+                      if u.startswith(("http://","https://")):
+                          h = urlparse(u).hostname or ""
+                          if h:
+                              source_hosts.setdefault(key, set()).add(h.lower())
+
               import csv
               with open("research/RESEARCH_SOURCE_OVERRIDES.csv", newline="", encoding="utf-8") as fh:
                   for row in csv.DictReader(fh):
@@ -66,7 +84,6 @@ jobs:
                       p = row.get("Pedal","").strip()
                       u = row.get("Source URL","").strip()
                       if b and p and u.startswith(("http://","https://")):
-                          from urllib.parse import urlparse
                           h = urlparse(u).hostname or ""
                           if h:
                               source_hosts.setdefault((b,p), set()).add(h.lower())
