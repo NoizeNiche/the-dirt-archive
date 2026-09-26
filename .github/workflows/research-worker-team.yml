@@ -269,6 +269,7 @@ jobs:
           python scripts/sync-prp-tracker.py
           python scripts/sync-photo-backlog.py
           python scripts/build-research-queue.py
+          python scripts/build-pedal-facets.py
           python scripts/validate-archive.py
 
           staged_research="$(python - <<'PY'
@@ -371,7 +372,7 @@ jobs:
             echo "Canonical research depth advanced without changing the research-linked count."
           fi
 
-          git add research/RESEARCH_INBOX research/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
+          git add research/RESEARCH_INBOX research/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json research/PEDAL_FACETS.json CURRENT_STATE.md
           if git diff --cached --quiet; then
             echo "Evidence packets were present but produced no new canonical records."
             exit 0
@@ -423,6 +424,7 @@ jobs:
             python scripts/sync-prp-tracker.py
             python scripts/sync-photo-backlog.py
             python scripts/build-research-queue.py
+            python scripts/build-pedal-facets.py
             python scripts/validate-archive.py
             git add research/RESEARCH_INBOX research/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
             if git diff --cached --quiet; then
