@@ -150,7 +150,7 @@ function renderColorways(item, colorways){
     const name=v.variation_name||v.pedal||('Variation '+(i+1));
     const media=v.image
       ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+name)+'" loading="lazy" referrerpolicy="no-referrer"><span class="thumbFallback" hidden>No Photo Archived</span>'
-      : '<span>No Photo Archived</span>';
+      : '<span aria-label="Photo unavailable"></span>';
     return '<button class="colorwayCard" type="button" data-variation="'+esc(name)+'" aria-pressed="false">'+
       '<span class="colorwayThumb">'+media+'</span><span class="colorwayName">'+esc(name)+'</span>'+
     '</button>';
