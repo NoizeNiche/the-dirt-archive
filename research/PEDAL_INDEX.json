@@ -3981,8 +3981,8 @@
       "image_source_page": "https://anasounds.com/produit/savage/",
       "image_source_page_verified": true,
       "image_source_url": "https://anasounds.com/wp-content/uploads/2017/07/Anasounds_savage_mkII-1209x1209.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Animal Factory Amplification",
