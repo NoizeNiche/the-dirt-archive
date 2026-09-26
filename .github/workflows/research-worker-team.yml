@@ -2,7 +2,12 @@ name: Research worker team
 
 on:
   workflow_dispatch:
-  # Autonomous research is paused. Manual dispatch remains available.
+  schedule:
+    - cron: '17 * * * *'
+  push:
+    paths:
+      - 'research/RESEARCH_WORKER_KICK'
+  # Autonomous research resumed. Scheduled and kick-triggered passes remain bounded.
 
 permissions:
   contents: write
