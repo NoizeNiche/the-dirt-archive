@@ -40,8 +40,12 @@ def main():
                         text=candidate.read_text(encoding='utf-8',errors='replace')
                     except Exception:
                         continue
+                    first_heading=next(
+                        (line.strip() for line in text.splitlines() if line.strip().startswith('# ')),
+                        ''
+                    )
                     if (
-                        f'# {builder} — {pedal}' in text
+                        first_heading == f'# {builder} — {pedal}'
                         and f'- **Builder:** {builder}' in text
                         and f'- **Archive parent:** {pedal}' in text
                     ):
