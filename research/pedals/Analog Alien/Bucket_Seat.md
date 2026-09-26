@@ -61,3 +61,19 @@ Bucket Seat covers light grit through saturated, harmonically rich overdrive whi
 2. Analog Alien — Bucket Seat spec-tip/manual material: https://www.analogalien.com/wp-content/uploads/2016/08/Spec-Tip-card.pdf
 3. Analog Alien — Bucket Seat manual: https://analogalien.com/wp-content/uploads/2019/05/MANUAL_BUCKET_SEAT.pdf
 4. Truetone Music — Bucket Seat Tone Test: https://www.truetonemusic.com/blogs/news/87687169-tone-test-analog-alien-bucket-seat
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+When the Gain control is turned off (counter-clockwise), the Bucket Seat produces very little gain.
+
+### Verified sound evidence
+(Q&A’s) Press Warranty Our Artists Blog Contact Us Cart / $ 0.00 Bucket Seat (Overdrive Pedal) $ 199.00 Available!
+Bucket Seat (Overdrive Pedal) quantity Add to cart Cranked British amp tones!
+The Analog Alien Bucket Seat overdrive pedal gets cranked British amp tones from any amp.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.sweetwater.com/store/detail/BucketSeat--analog-alien-bucket-seat-overdrive-pedal
+2. Bucket Seat (Overdrive Pedal) - Analog Alien: https://analogalien.com/product/bucket-seat-overdrive-pedal/

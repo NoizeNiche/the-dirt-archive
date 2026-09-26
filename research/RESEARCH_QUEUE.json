@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T09:51:52.977750+00:00",
+  "generated_at": "2026-09-26T09:54:32.483166+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2722,
     "complete": 2722,
     "research_pending": 0,
-    "deep_research_pending": 3071,
-    "deep_researched": 690,
+    "deep_research_pending": 3061,
+    "deep_researched": 700,
     "surface_ready": 3761
   },
   "next_target": {
@@ -48,20 +48,6 @@
       "pedal": "Destroyer",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 050/Destroyer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Alien",
-      "pedal": "Bucket Seat",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Alien/Bucket_Seat.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Alien",
-      "pedal": "FuzzBubble-45",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Alien/FuzzBubble_45.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Tone Bender MKI / Rangemaster Treble Booster",
       "catalog_type": "",
       "research_record": "./research/pedals/Analog Noir/Tone Bender MKI - Rangemaster Treble Booster.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Noir",
+      "pedal": "Zonk Machine",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Noir/Zonk Machine.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Sound",
+      "pedal": "Atomic Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Sound/Atomic Overdrive.md",
       "research_level": "surface"
     }
   ]

@@ -67,3 +67,19 @@ The Pete side moves from light, touch-sensitive vintage overdrive into richer di
 2. Analog Alien — FuzzBubble-45 product page: https://analogalien.com/product/fuzzbubble-45-overdrive-fuzz-pedal/
 3. Analog Alien — 2024 FuzzBubble-45 manual: https://analogalien.com/wp-content/uploads/2024/09/MANUAL_FUZZ_BUBBLE_45.pdf
 4. Premier Guitar — FuzzBubble-45 review, Apr. 19, 2011: https://www.premierguitar.com/cloud-9-audio-analog-alien-fuzzbubble-45-pedal-review
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+While your guitar and your amplifier will, of course, add their own character to the FuzzBubble-45, its tone is instantly iconic.
+
+### Verified sound evidence
+(Q&A’s) Press Warranty Our Artists Blog Contact Us Cart / $ 0.00 FuzzBubble-45 (Overdrive/Fuzz Pedal) Rated 5.00 out of 5 based on 1 customer rating ( 1 customer review) $ 249.00 Available!
+FuzzBubble-45 (Overdrive/Fuzz Pedal) quantity Add to cart Update: This product ships in one of our new cooler bags, as mentioned in our Important Announcement on the homepage.
+While your guitar and your amplifier will, of course, add their own character to the FuzzBubble-45, its tone is instantly iconic.
+
+### Sources checked in this pass
+1. Buy FuzzBubble-45 (Overdrive/Fuzz Pedal) - Analog Alien Guitar Pedal For Sale: https://analogalien.com/product/fuzzbubble-45-overdrive-fuzz-pedal/
+2. Cloud 9 Audio Analog Alien Fuzzbubble-45 Pedal Review - Premier Guitar: https://www.premierguitar.com/cloud-9-audio-analog-alien-fuzzbubble-45-pedal-review

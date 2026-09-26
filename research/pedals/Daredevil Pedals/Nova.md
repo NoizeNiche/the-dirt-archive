@@ -39,3 +39,24 @@ Daredevil Pedals browse by type distortion/fuzz/overdrive fuzz browse by enclosu
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The NOVA is a Daredevil original design using silicon transistors.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified sound evidence
+A fuzz that you can use for tight rhythm tones without the mush.
+Highly touch sensitive and dynamic, It's also loud enough to be used as a solo boost.
+A lot of fuzzes only sound good with the gain cranked.
+
+### Sources checked in this pass
+1. Daredevil Pedals Nova Fuzz - What To Know Where To Buy: https://equipboard.com/items/daredevil-pedals-nova-fuzz
+2. Daredevil Pedals Nova Fuzz | Effects Database: https://www.effectsdatabase.com/model/daredevil/nova
+3. Daredevil Pedals Introduces Nova – Vintage Guitar® magazine: https://www.vintageguitar.com/18024/daredevil-pedals-introduces-nova/
+4. Used Daredevil Pedals Nova Effect Pedal - Guitar Center: https://www.guitarcenter.com/Used/Daredevil-Pedals/Nova-Effect-Pedal.gc
