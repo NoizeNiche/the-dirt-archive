@@ -113,7 +113,8 @@ def choose_description(builder, pedal, kind, sources):
             if any(x in sentence.lower() for x in ("fuzz pedal", "overdrive pedal", "distortion pedal", "boost pedal")):
                 return sentence
     type_name = kind or "effects"
-    return f"{builder}'s {pedal} is cataloged as a {type_name} pedal."
+    article = "an" if type_name[:1].lower() in {"a", "e", "i", "o", "u"} else "a"
+    return f"{builder}'s {pedal} is cataloged as {article} {type_name.lower()} pedal."
 
 
 def choose_sound(sources):
