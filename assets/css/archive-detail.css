@@ -11,6 +11,7 @@ a{color:inherit}
 .pageSidebarTop{padding:8px 8px 14px}\n.filterSummary{display:none}
 .filterSummaryTitle{font-size:.68rem;font-weight:950;text-transform:uppercase;letter-spacing:.08em}
 .filterSummaryState{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#a8a69f;font-size:.62rem;font-weight:850}
+.filterSummary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .filterDrawerBody{display:block}
 
 .pageHome{display:block;text-decoration:none;border:1px solid #4c4b46;border-radius:11px;background:#dfff38;color:#111;padding:10px 11px;font-size:.68rem;font-weight:950;text-transform:uppercase;letter-spacing:.06em;margin-bottom:10px}
@@ -58,7 +59,14 @@ main{padding:20px 0 60px}
 .action{display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--ink);border-radius:999px;background:#fff;padding:10px 14px;text-decoration:none;font-size:.72rem;font-weight:950;text-transform:uppercase;letter-spacing:.05em}
 .action.primary{background:var(--accent)}
 .variantSection{margin-top:20px;padding-top:18px;border-top:1px solid var(--line)}
-.variantGrid,.colorwayGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.variantGrid,.colorwayGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}\n.relatedGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.relatedCard{display:block;border:1px solid var(--line);border-radius:12px;background:#fff;text-decoration:none;overflow:hidden}
+.relatedCard:hover{border-color:#aaa49a;box-shadow:0 8px 18px rgba(0,0,0,.06)}
+.relatedThumb{display:grid;place-items:center;aspect-ratio:4/3;background:#c6c7c1;color:#666861;font-size:.58rem;font-weight:900;text-align:center}
+.relatedThumb img{width:100%;height:100%;object-fit:contain}
+.relatedName{display:block;padding:9px 10px 3px;font-size:.68rem;font-weight:900;line-height:1.15}
+.relatedBuilder{display:block;padding:0 10px 9px;color:#686a64;font-size:.58rem;font-weight:800;line-height:1.2}
+
 .variantCard,.colorwayCard{display:block;border:1px solid var(--line);border-radius:12px;background:#fff;text-decoration:none;overflow:hidden}
 .variantCard:hover,.colorwayCard:hover{border-color:#aaa49a;box-shadow:0 8px 18px rgba(0,0,0,.06)}.colorwayCard.selected{outline:2px solid #111;outline-offset:-2px}
 .variantThumb,.colorwayThumb{display:grid;place-items:center;aspect-ratio:4/3;background:#f1eee7;color:#9a958b;font-size:.58rem;font-weight:900;text-align:center;text-transform:none}
@@ -66,7 +74,7 @@ main{padding:20px 0 60px}
 .variantName,.colorwayName{display:block;padding:9px 10px;font-size:.68rem;font-weight:900;line-height:1.15}
 .demoBox{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px;border:1px solid var(--line);border-radius:12px;background:#fff}
 .demoBox .action{margin:0;white-space:nowrap}
-@media(max-width:760px){.variantGrid,.colorwayGrid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){.variantGrid,.colorwayGrid,.relatedGrid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 .empty{padding:80px 20px;text-align:center}
 @media(max-width:1000px){
   .pageLayout{grid-template-columns:1fr}
