@@ -124,3 +124,5 @@ a:focus-visible,.pageHome:focus-visible,.action:focus-visible,.pageTypeLink:focu
 .catalogBaseline dd{margin:0;font-size:.8rem;font-weight:750}
 .catalogBaseline a{text-decoration:underline;text-underline-offset:2px}
 .catalogBaseline a:hover{opacity:.78}
+
+/* DEPLOY SNAPSHOT: surface/deep research status */
