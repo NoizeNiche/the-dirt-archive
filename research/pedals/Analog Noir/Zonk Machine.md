@@ -38,3 +38,15 @@ The Zonk Machine family is associated with aggressive, unstable germanium fuzz t
 
 ## Sources checked
 1. Analog Noir — Pedals: https://analognoirelectric.com/pedals
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Noir's Zonk Machine is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://onethousandpedals.com/pedal/analog-noir-zonk-machine
+2. catalog/override source: https://www.onethousandpedals.com/pedal/analog-noir-zonk-machine
+3. Zonk Machine — Analog Noir: https://analognoirelectric.com/pedals/p/zonkmachine

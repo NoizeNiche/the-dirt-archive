@@ -3720,8 +3720,8 @@
       "research_record": "./research/pedals/Analog Noir/Zonk Machine.md",
       "image_source_url": "http://reeveselectro.co.uk/cdn/shop/files/08D908C3-D4AA-4B2D-A8E8-83E3AB3E204C.jpg?v=1751556860",
       "image_source_page": "https://reeveselectro.co.uk/products/zo-zonk-machine-mk2-silicon-fuzz-with-nos-transistors",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Sound",
@@ -29041,8 +29041,8 @@
       "image": "./assets/pedals/daredevil-pedals/ten-tone-anniversary-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/Ten Tone Anniversary Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -45172,8 +45172,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Klipper.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -49215,8 +49215,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Janus Fuzz/Tremolo with Joystick Control.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",

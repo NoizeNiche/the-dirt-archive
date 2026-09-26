@@ -39,3 +39,26 @@ About • Collections • Blog • Compare • Privacy Policy • Terms of Servi
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Ten Tone Anniversary Fuzz — Daredevil Fuzz Pedal
+
+### Verified color/finish evidence
+- Daredevil Pedals Ten Tone Anniversary Fuzz Effects Pedal - Blue
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Daredevil Pedals Ten Tone Anniversary Fuzz Effects Pedal - Blue
+Ten Tone Anniversary Fuzz — Daredevil Fuzz Pedal
+© 2026 PedalFilter Clear Compare ( 0 ) Back Home Daredevil Ten Tone Anniversary Fuzz Back to results Daredevil Ten Tone Anniversary Fuzz Fuzz EQ Anniversary fuzz with expanded EQ control for tonal sculpting.
+
+### Sources checked in this pass
+1. Daredevil Pedals Ten Tone Anniversary Fuzz - Equipboard: https://equipboard.com/items/daredevil-pedals-ten-tone-anniversary-fuzz
+2. Daredevil Pedals Ten Tone Anniversary Fuzz Effects Pedal - Blue | Guitar Center: https://www.guitarcenter.com/Daredevil-Pedals/Ten-Tone-Anniversary-Fuzz-Effects-Pedal-Blue-1500000399473.gc
+3. Ten Tone Anniversary Fuzz — Daredevil Fuzz Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/daredevil/ten-tone-anniversary-fuzz
