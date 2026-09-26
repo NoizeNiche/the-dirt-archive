@@ -38,3 +38,19 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+HAX Dwarfcraft Devices Ring Modulator Dimensions 8 HP 29 mm deep Current Draw 45 mA +12V 30 mA -12V 0 mA 5V Price $150 This Module is currently available.
+
+### Verified version references
+- The evidence references: V1, V2.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices Hax - Reverb: https://reverb.com/p/dwarfcraft-devices-hax
+2. Dwarfcraft Devices Hax - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-hax
+3. Dwarfcraft Devices HAX - Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/hax
+4. Dwarfcraft Devices HAX - Eurorack Module on ModularGrid: https://modulargrid.net/e/dwarfcraft-devices-hax

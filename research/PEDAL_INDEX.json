@@ -30768,8 +30768,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/hair-of-the-dog/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Hair of the Dog.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -30780,8 +30780,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/hax/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/HAX.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -33733,8 +33733,8 @@
       "image": "./assets/pedals/fulltone/octafuzz-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Octafuzz 2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -45728,8 +45728,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Titan II.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",

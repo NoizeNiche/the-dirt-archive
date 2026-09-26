@@ -40,3 +40,25 @@ Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp sim
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+There is also a control for the mix resulting in a fuzz pedal suited for both bass and guitar but makes it easy to dial in.
+
+### Verified color/finish evidence
+- Only 3 available - due to the hand made nature of this process, finish/design may vary slightly from pedal to pedal.
+
+### Verified sound evidence
+a bass heavy super fuzzy distortion suited for bass, guitar, and baritone!
+turning down your instrument's volume allows you to create a nice overdrive, too!
+There is also a control for the mix resulting in a fuzz pedal suited for both bass and guitar but makes it easy to dial in.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices Hair of the Dog - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-hair-of-the-dog
+2. Dwarfcraft Devices Hair of the Dog - Reverb: https://reverb.com/p/dwarfcraft-devices-hair-of-the-dog
+3. Dwarfcraft Devices Hair Of The Dog | Analogue Haven: https://www.analoguehaven.com/dwarfcraft-devices/hair-of-the-dog/
+4. Dwarfcraft Devices Hair Of The Dog | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/hairofthedog
+5. Dwarfcraft Devices Hair of the Dog - CUSTOM ENCLOSURE Brand New: https://www.gbase.com/powered/distinctive-guitar/gear/dwarfcraft-devices-hair-of-the-dog-custom
