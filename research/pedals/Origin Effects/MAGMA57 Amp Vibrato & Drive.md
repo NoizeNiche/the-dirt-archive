@@ -1,23 +1,41 @@
 # Origin Effects — MAGMA57 Amp Vibrato & Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** MAGMA57 Amp Vibrato & Drive
 - **Builder:** Origin Effects
-- **Pedal:** MAGMA57 Amp Vibrato & Drive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Origin Effects's MAGMA57 Amp Vibrato & Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **MAGMA57 Amp Vibrato & Drive** by **Origin Effects** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Origin Effects's MAGMA57 Amp Vibrato & Drive is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+MAGMA57 Amp Vibrato & Drive This site uses cookies for analytics and to improve your experience.
+Combine lush, shimmering vibrato with a smooth, clear overdrive tone and you’ve got a sound that has inspired both legendary guitarists and renowned amp designers.
+Using our Analogue Amp Recreation technology, the MAGMA57 captures the warm clean tones and raw, organic overdrive of this hidden gem.
+
+## Sources checked
+1. MAGMA57 Amp Vibrato & Drive: https://origineffects.com/product/magma57-amp-vibrato-drive/
+2. Origin Effects MAGMA57 Amp Vibrato & Drive | Sweetwater: https://www.sweetwater.com/store/detail/MAGMA57--origin-effects-magma57-amp-vibrato-and-drive
+3. Origin Effects Magma57 Amp Vibrato & Drive: https://austinguitarhouse.com/origin-effects-magma57-amp-vibrato-drive/
+4. Amp Vibrato Pedal - Origin Effects MAGMA57 - MAGMA57 Pedal - Vintage King: https://vintageking.com/origin-effects-magma57-amp-vibrato-drive-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

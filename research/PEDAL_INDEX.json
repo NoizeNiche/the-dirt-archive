@@ -3151,8 +3151,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/amt-legendamp_b-1_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AMT Electronics",
@@ -16719,8 +16719,8 @@
       "research_record": "./research/pedals/PRP Batch 137/fbassdrive.md",
       "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/fbassdrive-225e8659aa88200c5017486421043685-640-0.webp",
       "image_source_page": "https://pedalescajita.mitiendanube.com/productos/fbassdrive-overdrive-de-bajo/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cajita Stompboxes",
@@ -28698,8 +28698,8 @@
       "image": "./assets/pedals/danelectro/t-bone-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/T-Bone Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -28712,8 +28712,8 @@
       "research_record": "./research/pedals/Danelectro/The Breakdown.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--iNYdUGYk--/quality=medium-low,height=128,width=128,fit=cover,gravity=bottom/d1c2f8ac-8c34-4b85-bee9-11097cf380bb.jpg",
       "image_source_page": "https://reverb.com/ca/item/93069901-danelectro-the-breakdown-2019-white",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -28724,8 +28724,8 @@
       "image": "./assets/pedals/danelectro/wasabi-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Wasabi Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -33016,8 +33016,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Hedda.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fjord Fuzz",
@@ -35177,8 +35177,8 @@
       "image": "./assets/pedals/idiotbox-effects/monster-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Monster Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -35592,8 +35592,8 @@
       "image": "./assets/pedals/jackson-audio/the-optimist-dual-overdrive-eq/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/The Optimist Dual Overdrive & EQ.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JAM Pedals",
@@ -36662,8 +36662,8 @@
       "image": "./assets/pedals/keeley-electronics/drive-for-a-cure/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Drive For a Cure.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -38123,8 +38123,8 @@
       "image": "./assets/pedals/lichtlaerm-audio/the-king-in-yellow/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/The King in Yellow.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lichtlaerm Audio",
@@ -43250,8 +43250,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Origin Effects/M-EQ Driver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Origin Effects",
@@ -43262,8 +43262,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Origin Effects/MAGMA57 Amp Vibrato & Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Origin Effects",
@@ -43624,8 +43624,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Pettyjohn Electronics/ROUS.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Phaez Amplification",
@@ -44872,8 +44872,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Silktone/Fuzz+.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Sinvertek",
@@ -44896,8 +44896,8 @@
       "image": "./assets/pedals/sitek-guitar-electronics/cocoa-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Sitek Guitar Electronics/Cocoa Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Sitek Guitar Electronics",
@@ -44910,8 +44910,8 @@
       "research_record": "./research/pedals/Sitek Guitar Electronics/Freya Overdrive/Booster.md",
       "image_source_url": "https://www.sitek.rocks/wp-content/uploads/2024/11/IMG_9349-scaled.jpg",
       "image_source_page": "https://www.sitek.rocks/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Sitek Guitar Electronics",
@@ -47901,8 +47901,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Jan Ray for Mateus Asato.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -49098,8 +49098,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Eons Five-State Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",

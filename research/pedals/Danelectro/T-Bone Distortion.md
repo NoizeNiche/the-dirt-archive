@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Danelectro's T-Bone Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Danelectro T-Bone Distortion - What To Know Where To Buy: https://equipboard.com/items/danelectro-t-bone-distortion
+2. Danelectro T-Bone Distortion - Reverb: https://reverb.com/p/danelectro-t-bone-distortion

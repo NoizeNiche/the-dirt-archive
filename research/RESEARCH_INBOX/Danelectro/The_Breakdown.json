@@ -2,21 +2,39 @@
   "builder": "Danelectro",
   "pedal": "The Breakdown",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 4,
   "sources": [
     {
       "url": "https://www.premierguitar.com/gear/danelectro-the-breakdown-the-premier-guitar-review",
       "title": "Danelectro The Breakdown Review - Premier Guitar",
-      "h1": "",
-      "excerpt": "Danelectro The Breakdown Review Tone freaks, take note: It’s badass—but not just for the usual “bang-for-buck” reasons. By Shawn Hammond Mar 08, 2020 Shawn Hammond Shawn Hammond was PG 's editorial director from 2010 till the fall of 2022. You can follow him at @feverloveband . See Full Bio",
-      "host": "www.premierguitar.com"
+      "h1": "Danelectro The Breakdown Review",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Danelectro The Breakdown Review - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear <a class=\"list__item\" hre",
+      "host": "www.premierguitar.com",
+      "source_kind": "catalog_verified"
     },
     {
       "url": "https://www.musicradar.com/reviews/danelectro-the-breakdown",
       "title": "Danelectro The Breakdown review | MusicRadar",
       "h1": "",
+      "excerpt": "Danelectro The Breakdown review | MusicRadar @font-face { font-family: \"Roboto Condensed-fallback\"; size-adjust: 88.91000000000001%; ascent-override: 110%; src: local(Arial); } @font-face { font-family: \"Open Sans-fallback\"; size-adjust: 105.42999999999994%; ascent-override: 105%; src: local(Arial); } @font-face { font-family: \"Open Sans Condensed-fallback\"; size-adjust: 82%; src: local(sans-serif); } @font-face { font-family: \"Open Sans Condensed-fallback\"; size-adjust: 87%; ascent-override: 110%; descent-override: 41%; src: local(Arial); } @font-face { font-family: \"Open Sans Condensed-fallback\"; size-adjust: 105%; ascent-override: 100%; descent-override: 30%; src: local(\"Arial Narrow\"); } @font-face { font-family: \"Open Sans Condensed-fallback\"; size-adjust: 89%; ascent-override: 89%; src: local(\"Helvetica\"); } @font-face { font-family: \"Open Sans\"; font-weight: 300; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1760232/media/shared/fonts/OpenSans-300-Light.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"Open Sans\"; font-weight: 400; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1760232/media/shared/fonts/OpenSans-400-Regular.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"Open Sans\"; font-weight: 600; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1760232/media/shared/fonts/OpenSans-600-SemiBold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"Open Sans\"; font-weight: 700; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1760232/media/shared/fonts/OpenSans-700-Bold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"Open Sans\"; font-weight: 800; font-style: normal; src: url('https://vanilla.futurecdn.net/musicradar/1760232/media/shared/fonts/OpenSans-800-ExtraBold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"musicradar\"; src: url('https://vanilla.futurecdn.net/musicradar/1760232/media/fonts/musicradar.woff') format('woff'); font-display: \"swap\"; } /* --flexi-layout-- */ @layer legacy {.widget-area svg {visibility: hidden;}} /* --flexi-core-- */ @charset \"UTF-8\";@layer legacy{.special1{font-weight:400}.special2{font-weight:700;text-transform:capitalize}.special3{font-weight:400}.h1,.heading1a{font-weight:700;line-height:normal;margin:0;text-transform:uppercase}.h1b,.heading1b{font-weight:700;font-size:1.25em;line-height:1.4;margin-bottom:4px}.h1c,.h2,.heading1c,.heading2{font-weight:700;text-transform:uppercase}.h3,.heading3a{font-weight:600}.h3b,.heading3b{font-weight:700;text-transform:uppercase}.h3c,.heading3c{font-weight:700;text-transform:capitalize}.subheading1{font-weight:600}.subheading2,.subheading3,.subheading4{font-weight:700;text-transform:uppercase}.txt1a,.txt1b{font-weight:400}.txt2a{font-weight:600}.txt2b,.txt2c,.txt3{font-weight:400}:root{--brand-font-family-1:Arial, sans-serif;--brand-font-family-2:Arial, sans-serif;--brand-font-weight-light:100;--brand-font-weight-medium:400;--brand-font-weight-heavy:700;--brand-font-size-big:32px;--brand-font-size-medium:16px;--brand-font-size-small:12px;--brand-line-height-big:26px;--brand-line-height-medium:22px;--brand-line-height-small:16px;--brand-color-1:#090E21;--brand-color-2:#E40784;--brand-color-3:#3D73D1;--brand-color-black:#1B1B1B;--brand-color-white:#FFFFFF;--brand-color-grey:#EDEDED;--brand-secondary-color-1:#A910E8;--brand-secondary-color-2:#520B3D;--brand-secondary-color-3:#FF9900}@media screen and (min-width:700px){:root{--brand-font-size-big:42px;--brand-font-size-medium:18px;--brand-font-size-small:12px;--brand-line-height-big:56px;--brand-line-height-medium:26px;--brand-line-height-small:16px}}:root{--brand-layout-margin-default:0px;--brand-layout-padding-default:15px;--brand-layout-margin-top:25px;--brand-layout-margin-right:var(--brand-l",
+      "host": "www.musicradar.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/ca/item/93069901-danelectro-the-breakdown-2019-white",
+      "title": "catalog/override source",
+      "h1": "",
       "excerpt": "",
-      "host": "www.musicradar.com"
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://danelectro.com/",
+      "title": "Danelectro Guitars",
+      "h1": "Danelectro Guitars",
+      "excerpt": "--> Danelectro Guitars Danelectro Guitars --> Search --> Primary Menu Guitars See All Guitars NEW! Dan O. Cool NEW! Dan O. Cool Baritone & 12 String NEW! Golden 50\u2019s NEW! Dan O. Mano NEW! Glitter & Flake Guitars Fifty Niner\u2122 NEW! Fifty Niner\u2122 12 String NEW! Fifty Niner\u2122 Bass NEW! Red Hot Longhorn \u00ae Triple Divine\u2122 & 59 Divine\u2122 Longhorn\u00ae & 66BT Baritone Blackout 59\u2122 & Stock \u201959 Doubleneck \u201957 Guitar \u201966-12 String Lefty Guitars \u201964XT Guitar \u201959X12 Metal Flake 59M NOS+\u2122 \u201959XT Guitar \u201966T Guitar 12 String & Vintage 12/Bari 1959 Guitars Sitar/Resonator Baritone & Bass \u201967 Guitar Accessories Peace Love & Fuzz Book Honeytone Mini Amp 1960\u2019s Vintage Battery See All Accessories Pedals NEW! Spring King\u2122 Junior Nichols 1966\u2122 3699 fUZZ\u2122 Back Talk\u2122 & Roebuck\u2122 The Breakdown\u2122 & Eisenhower Fuzz\u2122 Artists History Contact/Service Search for: --> &copy; Danelectro 2026 This website cannot be reproduced in any manner, whatsoever, without permission. Some Danelectro guitar components are reproduced under license of U.S. Trademark Number 2,411,842. Danelectro sometimes provides free products to beta testers who may later express their views on these products on the web or in print. Prices and specs subject to change.",
+      "host": "danelectro.com",
+      "source_kind": "manufacturer"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

@@ -37,3 +37,28 @@ Her Soft/Hard operation modes allow the user to achieve different distortion pro
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Sitek Guitar Electronics's Cocoa Distortion is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: v4.
+
+### Verified transistor/device terms
+- AC15.
+
+### Verified sound evidence
+Her Soft/Hard operation modes allow the user to achieve different distortion profiles, while simple and efficient tone control helps in taming high frequency content of the output signal.
+Cocoa possesses some great, ancient recipes for warm and sweet guitar tone.
+Taste her rich and creamy overdrive or luscious distortion and fill your signal with harmonic endorphins.
+
+### Sources checked in this pass
+1. Cocoa Distortion | Sitek Guitar Electronics: https://www.sitek.rocks/product/cocoa-distortion/
+2. Sitek Guitar Electronics Cocoa Distortion | Effects Database: https://www.effectsdatabase.com/model/sitek/cocoa
+3. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fwww.sitek.rocks%252Fproduct%252Fcocoa-distortion%252F%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
+4. https://twitter.com/share?url=https://www.sitek.rocks/product/cocoa-distortion/&text=Cocoa%20Distortion: https://twitter.com/share?url=https://www.sitek.rocks/product/cocoa-distortion/&text=Cocoa%20Distortion
+5. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.sitek.rocks%2Fproduct%2Fcocoa-distortion%2F&description=Cocoa%20Distortion&media=https%3A%2F%2Fwww.sitek.rocks%2Fwp-content%2Fuploads%2F2018%2F08%2FCocoa-Front-v2.jpg

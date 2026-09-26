@@ -31,3 +31,18 @@ The B-1 is designed for aggressive high-gain distortion, with heavy lows, cuttin
 
 ## Photo
 - **Archive status:** Exact Photo Needed
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+AMT Electronics's B-1 BG-Sharp is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+The sound of the AMT B1 is monstrous in tone, aggression, and provides massive amounts of gain.
+Thunderous lows, screaming highs, and scoopable mids leave you with unbeatable heavy distortion sounds.
+Controls include LEVEL, GAIN, LOW, MID, and HIGH.
+
+### Sources checked in this pass
+1. AMT Electronics B-1 BG-Sharp | Effects Database: https://www.effectsdatabase.com/model/amt/legendamp/b1
