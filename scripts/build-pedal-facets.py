@@ -102,33 +102,51 @@ def classify(text: str, allowed: tuple[str, ...], *, diode: bool = False) -> lis
 
 def build() -> dict:
     catalog = json.loads(INDEX.read_text(encoding="utf-8"))
-    pedals = catalog.get("pedals", [])
+    public_by_key = {
+        (
+            pedal.get("company", ""),
+            pedal.get("pedal", ""),
+        ): pedal
+        for pedal in catalog.get("pedals", [])
+        if pedal.get("catalog_role") != "variation"
+    }
+
     records: dict[str, dict[str, list[str]]] = {}
+    research_root = ROOT / "research/pedals"
+    files_seen = 0
+    records_seen = 0
 
-    for pedal in pedals:
-        if pedal.get("catalog_role") == "variation":
-            continue
-        record_path = pedal.get("research_record")
-        if not record_path:
-            continue
-
-        relative = str(record_path)
-        if relative.startswith("./"):
-            relative = relative[2:]
-        source = ROOT / relative
-        if not source.is_file():
-            continue
-
+    for source in research_root.rglob("*.md"):
+        files_seen += 1
         markdown = source.read_text(encoding="utf-8")
         parsed = sections(markdown)
-        transistor_values = labelled_values(parsed.get("transistor", ""), TRANSISTOR_LABELS)
-        diode_values = labelled_values(parsed.get("diode", ""), DIODE_LABELS)
+        identity_section = parsed.get("prp identity", "")
+
+        builder_values = labelled_values(identity_section, ("Builder",))
+        parent_values = labelled_values(identity_section, ("Archive parent",))
+        builder = builder_values[0].strip() if builder_values else source.parent.name
+        pedal = parent_values[0].strip() if parent_values else source.stem
+        key_tuple = (builder, pedal)
+
+        if key_tuple not in public_by_key:
+            continue
+        records_seen += 1
+
+        transistor_values = labelled_values(
+            parsed.get("transistor", ""),
+            TRANSISTOR_LABELS,
+        )
+        diode_values = labelled_values(
+            parsed.get("diode", ""),
+            DIODE_LABELS,
+        )
 
         transistor: list[str] = []
         for value in transistor_values:
             for item in classify(value, VALID_TRANSISTOR):
                 if item not in transistor:
                     transistor.append(item)
+
         clipping: list[str] = []
         for value in diode_values:
             for item in classify(value, VALID_CLIPPING, diode=True):
@@ -140,22 +158,28 @@ def build() -> dict:
         if "Germanium" in clipping and "Silicon" in clipping:
             clipping = ["Mixed"]
 
-        identity_values = labelled_values(
-            parsed.get("prp identity", ""),
-            ("Identity", "Archive parent", "Catalog type"),
-        )
-        search_text = " ".join(identity_values).strip()
+        search_text = " ".join(
+            value.strip()
+            for value in (
+                labelled_values(
+                    identity_section,
+                    ("Identity", "Archive parent", "Catalog type"),
+                )
+            )
+            if value.strip()
+        ).lower()
+
         if not transistor and not clipping and not search_text:
             continue
 
-        key = f"{pedal.get('company', '')}\u0000{pedal.get('pedal', '')}"
+        key = f"{builder}\u0000{pedal}"
         records[key] = {
             **({"transistor": transistor} if transistor else {}),
             **({"clipping": clipping} if clipping else {}),
-            **({"search": search_text.lower()} if search_text else {}),
+            **({"search": search_text} if search_text else {}),
         }
 
-    return {
+    result = {
         "version": 1,
         "records": dict(sorted(records.items(), key=lambda pair: pair[0].casefold())),
         "options": {
@@ -163,6 +187,11 @@ def build() -> dict:
             "clipping": list(VALID_CLIPPING),
         },
     }
+    result["_build"] = {
+        "research_files_seen": files_seen,
+        "catalog_records_matched": records_seen,
+    }
+    return result
 
 
 def main() -> int:
