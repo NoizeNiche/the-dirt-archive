@@ -14,3 +14,21 @@
 - **Research confidence:** High for the topology description, diode selection, Blend function, bass-oriented design, and documented sound behavior.
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/carcharias/uncle125
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Carcharias Effects's Uncle 125 Bass Overdrive is cataloged as an overdrive pedal.
+
+### Verified diode terms
+- leds, LED, Germanium diode.
+
+### Verified sound evidence
+Carcharias Effects Uncle 125 Bass Overdrive
+Guitarists and bassists alike can enjoy the sizzling overdrive of the Germanium diodes.
+The boomier, bassier, LED-driven overdrive gives the bass an undeniable presence, with crispy and brittle highs perfect for pick attacks.
+
+### Sources checked in this pass
+1. Carcharias Effects Uncle 125 Bass Overdrive | Effects Database: https://www.effectsdatabase.com/model/carcharias/uncle125

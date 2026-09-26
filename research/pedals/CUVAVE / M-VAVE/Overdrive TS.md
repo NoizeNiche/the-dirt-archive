@@ -35,3 +35,17 @@ This establishes the named M-VAVE/CUVAVE overdrive as a discrete product in the 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+M-VAVE's official Product Ecosystem is the manufacturer catalog for its effect-pedal range and explicitly lists the exact model Overdrive TS.
+
+### Verified sound evidence
+M-VAVE's official Product Ecosystem is the manufacturer catalog for its effect-pedal range and explicitly lists the exact model Overdrive TS.
+This establishes the named M-VAVE/CUVAVE overdrive as a discrete product in the maker's lineup rather than a generic Tube Screamer description.
+
+### Sources checked in this pass
+1. M-VAVE - Product Ecosystem: https://www.m-vave.com/products
