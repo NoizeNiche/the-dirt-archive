@@ -4,36 +4,37 @@
 - **Archive parent:** Great White
 - **Builder:** Add+ Pedals
 - **Catalog type:** Overdrive
-- **Identity:** Add+ Pedals overdrive product from the builder's early catalog.
+- **Identity:** Add+ Pedals's Great White.
 
 ## What this pedal is
-Great White is an Add+ overdrive pedal listed in the builder's 2011 catalog. The accessible public record identifies the effect category but does not provide enough verified circuit or component information to describe a specific topology. [1]
+Add+ Pedals browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Add+ Great White Published on March 31, 2011 Add+ Pedals overdrive pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Great White Where to find one?
 
 ## Colorways
-- No reliable factory colorway list was established.
+- Add+ Great White | Effects Database Skip to navigation Brands &#9660; 0-9...
+- Add+ Pedals browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Add+ Great White Published on March 31, 2011 Add+ Pedals overdrive pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Great White Where to find one?
+- This site contains affiliate links for which I may be compensated Add+ Great White for sale on eBay: World & Stores Australia Canada France Germany Italy Spain UK US Other sites your browser doesn't support AJAX?
 
 ## Versions and factory options
-### Great White
-- Overdrive effect
-- Add+ Pedals early catalog product [1]
-
-No separate numbered production revision was verified.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No reliable version history was established in the available sources.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact production transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact production clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The pedal is cataloged as overdrive, placing it in Add+'s drive products rather than its fuzz or distortion group. The surviving listing is too sparse to safely claim a particular amp emulation, clipping technology or tonal voicing. [1]
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Add+ Pedals browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Add+ Great White Published on March 31, 2011 Add+ Pedals overdrive pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Great White Where to find one?
+fx pedal stompbox stomp box guitar effects pedal overdrive over drive gain saturation distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Effects Database — Add+ Great White: https://www.effectsdatabase.com/model/addplus/greatwhite
-2. Effects Database — Add+ Pedals catalog: https://www.effectsdatabase.com/model/addplus
+1. Add+ Great White | Effects Database: https://www.effectsdatabase.com/model/addplus/greatwhite
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

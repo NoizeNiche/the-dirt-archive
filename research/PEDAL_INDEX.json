@@ -1225,8 +1225,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://addpluspedals.com/custom/custom10.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -28429,8 +28429,8 @@
       "research_record": "./research/pedals/Danelectro/Black Paisley Liquid Metal.md",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/danelectro-paisley_black_003.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/danelectro/paisley/black",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -46819,8 +46819,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Rusty Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",
