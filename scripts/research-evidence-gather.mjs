@@ -30,6 +30,7 @@ function csvRows(raw) {
   return lines.slice(1).map(line=>Object.fromEntries(parse(line).map((v,i)=>[h[i],(v||'').trim()])));
 }
 function norm(v){return String(v||'').toLowerCase().replace(/\+/g,' plus ').replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim();}
+function slug(v){return String(v||'').trim().replace(/[^A-Za-z0-9]+/g,'_').replace(/^_+|_+$/g,'').slice(0,120)||'unknown';}
 function toks(v){return norm(v).split(/\s+/).filter(x=>x.length>=3||/\d/.test(x));}
 function fit(builder,pedal,text){
   const h=norm(text), bt=toks(builder), pt=toks(pedal);
@@ -131,6 +132,20 @@ function catalogModels(builder){
 }
 function sourcePages(builder,pedal){
   const urls=[];
+  // Reuse previously foreman-verified exact source leads as a cache. These
+  // packets have already cleared the archive's identity gate, so they are
+  // safe to re-seed for another independent verification pass instead of
+  // forcing search engines to rediscover the same obscure listings.
+  try{
+    const inboxPath=path.join(process.cwd(),'research/RESEARCH_INBOX',slug(builder),slug(pedal)+'.json');
+    const packet=JSON.parse(fs.readFileSync(inboxPath,'utf8'));
+    if(packet.status==='VERIFIED_EVIDENCE_STAGED' && Array.isArray(packet.sources)){
+      for(const source of packet.sources){
+        const u=String(source?.url||'').trim();
+        if(/^https?:/i.test(u)) urls.push(u);
+      }
+    }
+  }catch{}
   try{
     const c=JSON.parse(fs.readFileSync(INDEX,'utf8'));
     for(const item of c.pedals||[]){
