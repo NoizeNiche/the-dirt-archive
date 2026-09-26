@@ -1,0 +1,81 @@
+{
+  "builder": "Stomp Under Foot",
+  "pedal": "Red Menace",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 9,
+  "sources": [
+    {
+      "url": "https://stompunderfoot.com/products/red-menace",
+      "title": "Red Menace &ndash; Stomp Under Foot",
+      "h1": "RED MENACE\u2122",
+      "excerpt": "Red Menace &ndash; Stomp Under Foot Skip to content Search Search Cart PRODUCTS CONTACT FAQ DEALERS ARTISTS ABOUT BLOG Skip to product information Previous Next Close RED MENACE\u2122 Regular price $204.99 By Stomp Under Foot Quantity COMING SOON The Red Menace is meticulously crafted to blend two circuits, the Red Army Overdrive and a 1972 Triangle, to create a powerful and versatile fuzz. As one of the first modified pedals in the Stomp Under Foot lineup, the Red Menace captures the best qualities of both classic designs while introducing modern flexibility. The gritty, low-end strikes the perfect balance between deep bass and articulate clarity, allowing each note to punch through the fuzz without becoming muddy. The high end delivers the sweet, singing sustain reminiscent of later Triangles, making it ideal for soaring leads and the added mids control lets you to fine-tune your presence in the mix from classic scooped to a mid-forward tone to punch through a dense band setting. Features: True-Bypass NOS Through-Hole Components 9V Battery or 2.1 9V Adapter Only Handmade in the USA View details RED MENACE\u2122 Close STOMP UNDER FOOT Handmade one at a time in the USA. Ram's Head\u00ae, Civil War\u00ae, Tri-Muff\u00ae Other product names and logos are trademarks of their respective owners. Facebook YouTube Instagram NEWSLETTER Be the first to hear about new pedals, limited editions, blog articles, and special releases. Subscribe American Express Apple Pay Bancontact Diners Club Discover Google Pay Mastercard MB WAY PayPal Shop Pay Visa Country/Region United States (USD $) United States (USD $) &copy; 2008&ndash;2026 Stomp Under Foot . All rights reserved. Your cart Close International Orders: Import duties, taxes, and customs fees are the responsibility of the recipient and are not included in the purchase price. Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals. Browse Pedals",
+      "host": "stompunderfoot.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/p/stomp-under-foot-red-menace-fuzz",
+      "title": "Stomp Under Foot Red Menace Fuzz - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://gearstrings.com/gear-reviews/stomp-under-foot-red-menace-pedal-review",
+      "title": "Stomp Under Foot Red Menace Pedal Review: Honest Tone, Build & Use Analysis | GearStrings",
+      "h1": "Stomp Under Foot Red Menace Pedal Review: Honest Tone, Build & Use Analysis",
+      "excerpt": "Stomp Under Foot Red Menace Pedal Review: Honest Tone, Build & Use Analysis | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / gear reviews gear reviews Stomp Under Foot Red Menace Pedal Review: Honest Tone, Build & Use Analysis By zoe-langford June 10, 2026 Stomp Under Foot Red Menace Pedal Review: A Transparent, Musically Responsive Overdrive The Stomp Under Foot Red Menace is a hand-wired, discrete-transistor overdrive pedal built in Portland, Oregon, that delivers dynamic, amp-like saturation without compression or artificial mid-hump\u2014making it especially suitable for players seeking articulate blues, classic rock, and clean-boost applications where touch sensitivity and harmonic integrity matter most. This Stomp Under Foot Red Menace pedal review confirms its strength lies in organic gain staging, low-noise operation, and exceptional headroom\u2014not high-gain aggression or preset stacking. It\u2019s not a \u2018set-and-forget\u2019 pedal; it rewards interaction with guitar volume, pickup selection, and amp input stage, and excels when used as a transparent boost or a nuanced overdrive rather than a standalone distortion source. If you prioritize responsiveness over convenience, and value tonal honesty over coloration, the Red Menace earns serious consideration among boutique analog overdrives. About Stomp Under Foot Red Menace Pedal Review: Product Background Stomp Under Foot (SUF) is a small-batch pedal manufacturer founded by Mike Piera in 2009, operating out of Portland, Oregon. Known for meticulous hand-wiring, point-to-point construction, and rigorous component-level testing, SUF avoids PCB-based mass production in favor of custom layouts optimized for signal path integrity and noise floor control. The Red Menace debuted in 2015 as a deliberate departure from op-amp-based designs, using a JFET-input discrete transistor topology inspired by early \u201970s germanium and silicon hybrids\u2014but refined for stability, consistency, and lower noise. Its design goal was clear: deliver a dynamically interactive overdrive that preserves pick attack, maintains bass clarity at higher gain settings, and behaves predictably across diverse guitars (single-coil and humbucker alike) and tube amps. Unlike many clones or reinterpretations, the Red Menace does not emulate a specific vintage circuit\u2014it synthesizes desirable traits from multiple eras while avoiding their flaws (e.g., thermal drift in germanium, harsh clipping in early silicon). First Impressions: Build Quality, Initial Setup, Design Unboxing reveals no flashy packaging\u2014just a matte black anodized aluminum enclosure (3.8\u2033 \u00d7 2.2\u2033 \u00d7 1.5\u2033), brushed steel footswitch, and hand-silk-screened labeling. The enclosure feels dense and rigid; wall-mount screws are included but not pre-installed. Inside, every wire is neatly dressed, solder joints are convex and shiny, and components are spaced for thermal management. There are no battery clips\u2014the pedal runs exclusively on 9V DC center-negative power (2.1mm barrel), and draws just 4.2 mA. No LED brightness adjustment or true bypass toggle switch: it\u2019s hardwired true bypass with a standard blue LED. The layout places controls intuitively: Volume (far left), Tone (center), Drive (far right). Knobs are CTS 250k audio-taper pots with knurled metal shafts\u2014tactile, precise, and free of wobble. There\u2019s no input or output labeling beyond small silkscreen icons (\u27a1\ufe0f and \u2b05\ufe0f), but orientation is unambiguous. First power-up yields zero pop or thump\u2014typical of SUF\u2019s attention to power supply filtering. Detailed Specifications Spec This Product Competitor A (Ibanez TS9) Competitor B (Wampler Tumnus Deluxe) Winner Topology Discrete JFET + bipolar transistor hybrid Op-amp (RC4558) Op-amp (OPA2134) + diode clipping Red Menace True Bypass Yes (hardwired) Yes (mechanical relay optional) Yes (relay-switched) Tie Current Draw 4.2 mA 5.5 mA 12 mA Red Menace Input Impedance 1.2 M\u03a9 500 k\u03a9 1.0 M\u03a9 Red Menace Output Impedance 150 \u03a9 2.2 k\u03a9 100 \u03a9 Red Menace / Tumn",
+      "host": "gearstrings.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.ebay.com/itm/307088723899",
+      "title": "STOMP UNDER FOOT RED MENACE EFFECTOR 387025 | eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://equipboard.com/items/stomp-under-foot-red-menace",
+      "title": "Stomp Under Foot Red Menace - What To Know & Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Stomp-Under-Foot/Red-Menace/68984669/",
+      "title": "Red Menace by Stomp Under Foot | RockBoard | PedalPedia",
+      "h1": "Red Menace",
+      "excerpt": "Red Menace by Stomp Under Foot | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Stomp Under Foot Red Menace LOG IN TO SUGGEST IMPROVEMENTS FUZZ OVERDRIVE Description The Red Menace is one of the first, modified, muff circuits I did that combines two of my favorite muffs, the early Red Army Overdrive and the 1972 Triangles. The low end has the perfect balance of low-end and clarity. You can feel the punch of the bass notes cutting through the fuzz. The high strings have a sweet, high-gain, sustain just like the later Triangle pedals. While adding the mids control I also had to modify the circuit to keep the original punch on chords and the smooth, singing tone on leads. Media Videos Demo by gearmanndude (EN) Demo by Demos in the Dark (EN) Reviews Review by guitar pedal X (EN) Review by Premier Guitar (EN) Review by The Gear Page (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 8mA More pedals from Stomp Under Foot FUZZ FUZZ Stomp Under Foot Violet Menace version 1 FUZZ FUZZ Stomp Under Foot 1969 Tri-Muff V1 FUZZ FUZZ Stomp Under Foot 1970 Tri-Muff V1 FUZZ FUZZ Stomp Under Foot 1972 Tri-Muff V6 All Stomp Under Foot Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.premierguitar.com/gear/stomp-under-foot-red-menace-pedal-review",
+      "title": "Stomp Under Foot Red Menace Pedal Review - Premier Guitar",
+      "h1": "Stomp Under Foot Red Menace Pedal Review",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Stomp Under Foot Red Menace Pedal Review - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts Shred With Shifty Wong Notes 100 Guitarists </d",
+      "host": "www.premierguitar.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/stompunderfoot/bigmuff/redmenace",
+      "title": "Stomp Under Foot Red Menace | Effects Database",
+      "h1": "Stomp Under Foot Red Menace",
+      "excerpt": "Stomp Under Foot Red Menace | Effects Database Skip to navigation Brands \u25bc 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types \u25bc boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries \u25bc (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by \u25bc Enclosure type Modulation type Special \u25ba Classics Eye candy Funny Vaporware Weird Random brand Random effect Events \u25ba NAMM Musikmesse Music China Guitar Summit More... \u25bc Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand S... Stomp Under Foot Stomp Under Foot Big Muff versions browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Stomp Under Foot Red Menace Published on July 22, 2011 Stomp Under Foot Big Muff versions fuzz pedal Vintage Mini Vintage Mini Information The Stomp Under Foot Red Menace is a fuzz pedal based on a modified Big Muff circuit that blends characteristics of the Russian Red Army Overdrive with the 1972 Triangle. It delivers a heavy fuzz tone that combines the gritty low-end punch of the Russian-era pedals with the smoother, sustaining highs of the Triangle. Depending on the version, the Red Menace has been released in both 3-knob and 4-knob configurations. The 3-knob version features standard Big Muff-style controls for volume, sustain, and tone, while the 4-knob version introduces a dedicated mids control, allowing players to shape their presence in a mix more precisely. This mids control makes the 4-knob version particularly versatile, offering settings that range from scooped tones to cutting, mid-forward fuzz. Across all versions, the Red Menace maintains a balance of raw aggression and clarity, making it suitable for both thick rhythm parts and focused lead tones. Controls Level (output volume) Gain (fuzz amount) Tone (high-frequency shaping) Mids (available only on 4-knob versions, adjusts midrange emphasis and cut) Connections 1/4 inch input 1/4 inch output 9V DC power input (center negative) Technical Specifications True-bypass switching 9V battery or 2.1 mm 9V adapter operation Current draw: 8 mA NOS through-hole components Handmade in the U.S.A. Highlights Modified Big Muff-style fuzz combining Red Army Overdrive and Triangle circuits Available in 3-knob and 4-knob versions 3-knob version offers traditional Big Muff controls 4-knob version adds a mids control for enhanced mix-cutting flexibility Thick low-end with smooth, sustaining highs Handmade construction with NOS components and true-bypass design Video all | by manufacturer | not by manufacturer Date \u25bc\u25b2 Maker \u25bc\u25b2 Video \u25bc\u25b2 Time \u25bc\u25b2 2022-12-28 Burgerman666 Stomp Under Foot: RED MENACE - The uncut and full jam. No chat 3:26 2022-12-28 Burgerman666 Stomp Under Foot: RED MENACE 8:45 2020-10-02 Demos In The Dark Demos in the Dark // Stomp Under Foot Red Menace - Limited Edition // Pedal Demo 9:29 2020-09-20 Stomp Under ",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.stompbx.com/pedals/stomp-under-foot-red-menace",
+      "title": "Red Menace by Stomp Under Foot | Stompbx",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.stompbx.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
