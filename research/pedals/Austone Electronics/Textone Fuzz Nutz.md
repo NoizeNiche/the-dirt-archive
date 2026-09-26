@@ -50,3 +50,25 @@ Textone is voiced for more crunch and sustain than Fuzz Nutz, with the TEXTONE c
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/austone/textone
 - **Archive note:** Exact historical examples are documented, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Austone Electronics's Textone Fuzz Nutz is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Each hand-built unit comes standard with a red LED.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Has more crunch than the original Fuzz Nutz due to an extra gain stage and a tone control.
+The Textone control rolls off the high end for a singing woman tone, or open it up to peel the chrome off your Tele's bridge!
+You must plug this into a wah wah and approach the tone altar!!!
+
+### Sources checked in this pass
+1. NoiseFX - Austone Textone Fuzz Nutz: https://www.noisefx.com/product_info/austone_textone_fuzz_nutz
+2. Austone Textone Fuzz Nutz | Effects Database: https://www.effectsdatabase.com/model/austone/textone

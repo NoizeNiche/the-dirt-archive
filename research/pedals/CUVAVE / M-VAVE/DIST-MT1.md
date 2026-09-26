@@ -34,3 +34,16 @@ The exact model name DIST-MT1 appears in that manufacturer lineup, providing dir
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The exact model name DIST-MT1 appears in that manufacturer lineup, providing direct product-family identification for the named CUVAVE/M-VAVE distortion pedal.
+
+### Verified sound evidence
+The exact model name DIST-MT1 appears in that manufacturer lineup, providing direct product-family identification for the named CUVAVE/M-VAVE distortion pedal.
+
+### Sources checked in this pass
+1. M-VAVE - Product Ecosystem: https://www.m-vave.com/products

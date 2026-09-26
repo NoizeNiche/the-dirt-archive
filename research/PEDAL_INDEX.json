@@ -5469,8 +5469,8 @@
       "research_record": "./research/pedals/Austone Electronics/Textone Fuzz Nutz.md",
       "image_source_url": "http://resource.noisefx.com/a8/austone_textone_fuzz_nutz.jpg",
       "image_source_page": "https://www.noisefx.com/product_info/austone_textone_fuzz_nutz",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Automat Audio Devices",
@@ -10369,8 +10369,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://http2.mlstatic.com/D_NQ_NP_890346-MLA93192723273_092025-O.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -17268,8 +17268,8 @@
       "research_record": "./research/pedals/PRP Batch 142/cp-510-jaguar-classic-high-gain-distortion.md",
       "image_source_url": "https://images.nexusapp.co/assets/e1/81/4d/488376293.jpg",
       "image_source_page": "https://au.vicedeal.com/products/caline-cp-510-jaguar-classic-high-gain-distortion-guitar-effect-pedal-guitar-accessories?variant=UHJvZHVjdFZhcmlhbnQ6NDI3MjQ0Mzk2",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -17282,8 +17282,8 @@
       "research_record": "./research/pedals/PRP Batch 142/cp-511-enchanted-tone-highly-prized-overdrive.md",
       "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/caline-enchanted-tone-highly-prized-overdrive-effects-pedal.jpg",
       "image_source_page": "https://www.effects-pedals.info/p/caline-cp-511-enchanted-tone-highly-prized-overdrive/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -28231,8 +28231,8 @@
       "image": "./assets/pedals/cuvave-m-vave/dist-mt1/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CUVAVE / M-VAVE/DIST-MT1.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CUVAVE / M-VAVE",
@@ -29601,8 +29601,8 @@
       "image": "./assets/pedals/demon-pedals/parvati/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Demon Pedals/Parvati.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever : FX",
@@ -29613,8 +29613,8 @@
       "image": "./assets/pedals/devi-ever-fx/beautiful-disaster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Devi Ever : FX/Beautiful Disaster.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever : FX",
@@ -33418,8 +33418,8 @@
       "image": "./assets/pedals/frank-marino-audio/dragonfly/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Frank Marino Audio/Dragonfly.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Frank Marino Audio",
@@ -33430,8 +33430,8 @@
       "image": "./assets/pedals/frank-marino-audio/juggernaut/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Frank Marino Audio/Juggernaut.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Frantone Electronics",
@@ -34594,8 +34594,8 @@
       "image": "./assets/pedals/hudson-electronics/buzzoid/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Buzzoid.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Hudson Electronics",
@@ -35857,8 +35857,8 @@
       "image": "./assets/pedals/jhs-pedals/3-series-screamer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/3 Series Screamer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",

@@ -41,3 +41,28 @@ From fuzz/distortion to smooth overdrive, everything is included.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Parvati is insanely versatile and impressed us extremely with its growling, aggressive low-mids.
+
+### Verified color/finish evidence
+- 15% Kondo Shifuku D-Style - Black Pearl (Faceplate)...
+
+### Verified transistor/device terms
+- silicon transistors, germanium Fuzz.
+
+### Verified sound evidence
+Everything else is up to you to find your personal tone!
+From fuzz/distortion to smooth overdrive, everything is included.
+Booster DIY Kits Dumble Style Fuzz Overdrive Merchandise Artists Dealer About us Artists Dealer About us More Menu Main page Attention!!!
+
+### Sources checked in this pass
+1. Parvati by Demon Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Demon-Pedals/Parvati/68977373/
+2. Demon Pedals Parvati - boutique fuzz - Reverb: https://reverb.com/item/101244623-demon-pedals-parvati-boutique-fuzz
+3. Demon Pedals Parvati Fuzz | Effects Database: https://www.effectsdatabase.com/model/demonpedals/parvati
+4. Demon Pedals Parvati – Gitarren Total: https://www.gitarrentotal.ch/en/product/demon-pedals-parvati-2/
+5. Demon Pedals: https://demonpedals.com/?language=en

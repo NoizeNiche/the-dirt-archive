@@ -39,3 +39,24 @@
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+00 Electro-Harmonix Lizard Queen Octave Fuzz Pedal
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+99 Death by Audio Fuzz War Effect Pedal 4.9 73 $180.00 $ 180 .
+00 Electro-Harmonix Lizard Queen Octave Fuzz Pedal
+Octave Fuzz that pays homage to 1970s Electro-Harmonix design!
+
+### Sources checked in this pass
+1. Amazon.com: Devi Ever Truly Beautiful Disaster : Musical Instruments: https://www.amazon.com/Devi-Ever-Truly-Beautiful-Disaster/dp/B003G59BOM
+2. Devi Ever : FX Truly Beautiful Disaster | Reverb: https://reverb.com/item/68056279-devi-ever-fx-truly-beautiful-disaster
+3. Used Devi Ever : FX Truly Beautiful Disaster Fuzz Pedal: https://www.sweetwater.com/used/listings/507334-used-devi-ever-fx-truly-beautiful-disaster-fuzz-pedal
+4. devi ever : fx - About: https://www.fuzzgoddess.com/about/

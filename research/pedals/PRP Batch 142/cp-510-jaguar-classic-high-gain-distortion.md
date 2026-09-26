@@ -16,3 +16,16 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for identity, controls and published power/dimensions; low for exact internal components or a single donor circuit.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cp500/jaguar ; https://www.youtube.com/watch?v=8ACApCgtuc0 ; https://myguitarshop.co.za/products/caline-cp-510-jaguar-distortion
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-510 Jaguar - Classic High Gain Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Caline CP-510 Jaguar Classic High Gain Distorti...
+
+### Sources checked in this pass
+1. Caline CP-510 Jaguar Classic High Gain Distorti... – Vicedeal: https://au.vicedeal.com/products/caline-cp-510-jaguar-classic-high-gain-distortion-guitar-effect-pedal-guitar-accessories?variant=UHJvZHVjdFZhcmlhbnQ6NDI3MjQ0Mzk2
