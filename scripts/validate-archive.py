@@ -269,7 +269,7 @@ def main():
     home_css = (ROOT / "assets/css/archive-index.css").read_text(encoding="utf-8")
     required_home_selectors = (
         ".grid{", ".card{", ".cardMedia{", ".cardImage{",
-        ".cardPlaceholder", ".pagination{", ".pageButton{", ".heroPanel{"
+        ".cardPlaceholder", ".pagination{", ".pageButton{", ".heroPanel{}", ".technicalPanel", ".facetButton{"
     )
     missing_home_selectors = [selector for selector in required_home_selectors if selector not in home_css]
     if missing_home_selectors:
@@ -322,7 +322,7 @@ def main():
     detail_js_text = DETAIL_JS.read_text(encoding="utf-8")
     if "renderCatalogBaseline(item)" not in detail_js_text or "Catalog baseline" not in detail_js_text:
         raise SystemExit("Detail page is missing the identity-safe catalog baseline for surface records.")
-    for script_path in (DETAIL_JS, LIVE_AUDIT):
+    for script_path in (CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT):
         result = subprocess.run(["node", "--check", str(script_path)], capture_output=True, text=True)
         if result.returncode:
             raise SystemExit(f"JavaScript syntax check failed: {script_path.relative_to(ROOT)}\\n{result.stderr.strip()}")
