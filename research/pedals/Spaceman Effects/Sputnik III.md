@@ -1,23 +1,42 @@
 # Spaceman Effects — Sputnik III
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Sputnik III
 - **Builder:** Spaceman Effects
-- **Pedal:** Sputnik III
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Spaceman Effects's Sputnik III.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Sputnik III** by **Spaceman Effects** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Astonishingly responsive and versatile, the Sputnik III is ready to transport you into a universe of grit, chaos and corruption!
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Germanium Fuzz.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Documented terms in the verified sources: germanium diode.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Sputnik III: Germanium Fuzz - Cadet Series - Spaceman Effects
+Offering an uncommonly wide range of fuzz tones, it truly runs the gamut: smooth, gritty, vintage, modern, thick, thin, buzzy, bassy, splatty, sputtery, noisy, velcro-ripping, controlled or completely off-the-rails.
+Astonishingly responsive and versatile, the Sputnik III is ready to transport you into a universe of grit, chaos and corruption!
+
+## Sources checked
+1. Sputnik III: Germanium Fuzz - Cadet Series - Spaceman Effects: https://spacemaneffects.com/products/sputnik-iii/
+2. Spaceman Effects Sputnik III - What To Know & Where To Buy: https://equipboard.com/items/spaceman-effects-sputnik-iii
+3. Spaceman Effects Sputnik III Germanium Fuzz Effects Pedal Silver Standard | Guitar Center: https://www.guitarcenter.com/Spaceman-Effects/Sputnik-III-Germanium-Fuzz-Effects-Pedal-Silver-Standard-1500000406853.gc
+4. Spaceman Sputnik III - Germanium Fuzz | Effects Database: https://www.effectsdatabase.com/model/spaceman/sputnik3
+5. Spaceman Effects Sputnik III Cadet Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/16503/spaceman-effects-sputnik-iii-cadet
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

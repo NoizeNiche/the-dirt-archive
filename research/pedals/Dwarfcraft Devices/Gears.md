@@ -42,3 +42,27 @@ The overdrive is a fixed sound that can be mixed from silent to LOUD - just like
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Eau Claire, WI - February 9, 2015 - Gears is many things; an overdrive, sub octave generator, and resonant filter and expression pedal input.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Eau Claire, WI - February 9, 2015 - Gears is many things; an overdrive, sub octave generator, and resonant filter and expression pedal input.
+The overdrive is a fixed sound that can be mixed from silent to LOUD - just like the OG Robot Devil This signal is fed into a clock divider, which puts out a square wave (or two) we can mix into the output.
+There's also a drive control allowing you to play nice with the filter, or just slam audio up against it.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices Gears - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-gears
+2. Dwarfcraft Devices Gears | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/gears
+3. Gears by Dwarfcraft Devices | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Dwarfcraft-Devices/Gears/338688209/
+4. Amazon.com: Dwarfcraft Devices Gears : Musical Instruments: https://www.amazon.com/Dwarfcraft-Devices-Gears/dp/B00TZKUAYC
+5. Dwarfcraft Devices Gears 2015 - Reverb: https://reverb.com/p/dwarfcraft-devices-gears-2015
+6. Dwarfcraft Devices Gears Overdrive - Vintage King: https://www.micandmonitor.com/product/dwarfcraft-devices-gears-overdrive-vintage-king59635/
+7. Dwarfcraft Devices Gears Overdrive: https://www.bestaudioequipment.com/product/dwarfcraft-devices-gears-overdrive/
