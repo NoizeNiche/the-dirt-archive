@@ -16120,7 +16120,7 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Triangle Big Muff Pi",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/triangle-big-muff-pi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Triangle Big Muff Pi.md"
   },
@@ -20761,7 +20761,7 @@
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Demo Tape Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/demo-tape-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Demo Tape Fuzz.md"
   },
@@ -20789,7 +20789,7 @@
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Glitch Computer",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/glitch-computer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Glitch Computer.md"
   },
@@ -20873,7 +20873,7 @@
   {
     "builder": "Mojo Hand FX",
     "pedal": "1979 Baja",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/1979-baja/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/1979 Baja.md"
   },
@@ -20894,7 +20894,7 @@
   {
     "builder": "Mojo Hand FX",
     "pedal": "Crosstown",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/crosstown/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Crosstown.md"
   },
@@ -20908,14 +20908,14 @@
   {
     "builder": "Mojo Hand FX",
     "pedal": "DMBL",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/dmbl/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/DMBL.md"
   },
   {
     "builder": "Mojo Hand FX",
     "pedal": "El Guapo",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/el-guapo/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/El Guapo.md"
   },
@@ -21076,14 +21076,14 @@
   {
     "builder": "MOOER Audio / MOOER",
     "pedal": "Blade",
-    "image": null,
+    "image": "./assets/pedals/mooer-audio-mooer/blade/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MOOER Audio / MOOER/Blade.md"
   },
   {
     "builder": "MOOER Audio / MOOER",
     "pedal": "Blue Faze",
-    "image": null,
+    "image": "./assets/pedals/mooer-audio-mooer/blue-faze/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MOOER Audio / MOOER/Blue Faze.md"
   },
@@ -21097,7 +21097,7 @@
   {
     "builder": "MOOER Audio / MOOER",
     "pedal": "Blues Mood",
-    "image": null,
+    "image": "./assets/pedals/mooer-audio-mooer/blues-mood/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MOOER Audio / MOOER/Blues Mood.md"
   },
