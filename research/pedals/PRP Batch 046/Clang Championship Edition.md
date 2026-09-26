@@ -1,40 +1,38 @@
 # Alexander Pedals — Clang Championship Edition
 
 ## PRP identity
+- **Archive parent:** Clang Championship Edition
 - **Builder:** Alexander Pedals
 - **Catalog type:** Distortion / Overdrive
-- **Identity:** Limited 2016 analog overdrive with British-voiced EQ and active mid contour.
+- **Identity:** Alexander Pedals's Clang Championship Edition.
 
 ## What this pedal is
-Clang Championship Edition uses Level, Drive, Bass/Treble, and Contour controls. The manufacturer manual states that the 2016 production was limited to sixteen units worldwide.
+Whether you’re at home or away, the Clang Championship Edition is sure to be your go-to designated hitter for great tones.
 
 ## Colorways
-- No complete factory colorway history established from the accessible documentation.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Level
-- Drive
-- Bass
-- Treble
-- Contour
-- optional noise-cancelling bypass behavior
-- 9-18V operation
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-The Championship Edition is treated as a distinct limited production version. No additional numbered revision was established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Clang is voiced around a British-style passive Bass/Treble section with an active Contour control that can scoop or add mids. Drive handles gain and distortion, while higher supply voltage is documented as providing more headroom and output.
+The Clang Championship Edition brings back the Princess Clang Royal Overdrive pedal, with a fresh look and a few new twists.
+Drive: Adjusts the gain and distortion of the pedal.
+Bass / Treble: Passive two-band tone stack, voiced like a British amplifier.
 
 ## Sources checked
-1. Alexander Pedals — Clang manual: https://static1.squarespace.com/static/54a5d748e4b034981b4a71c8/t/5acb926003ce649b2a684560/1523290720660/Clang%2B16%2BManual%2BWeb.pdf
-2. Alexander Pedals support — https://www.alexanderpedals.com/support
+1. Alexander Clang Championship Edition (Home Uniform) - Gbase: https://www.gbase.com/gear/alexander-clang-championship-edition-home-uniform
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
