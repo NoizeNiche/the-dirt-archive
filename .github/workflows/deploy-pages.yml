@@ -22,7 +22,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: dirt-archive-deploy-v2
+  group: dirt-archive-deploy-v3
   # Only the newest main snapshot needs to reach Pages. Superseded deploys
   # are disposable because the canonical commit remains in the newer tree.
   cancel-in-progress: true
