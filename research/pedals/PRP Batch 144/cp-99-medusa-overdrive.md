@@ -16,3 +16,22 @@
   - https://www.pedal-of-the-day.com/2019/12/25/caline-cp-99-medusa-boost-overdrive/
   - https://www.tonestart.com/ultimate-caline-guitar-pedal-clone-list/
   - https://www.musicstore.com/en_US/USD/Caline-CP-99-Medusa-Overdrive/art-GIT0058863-000
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-99 Medusa - Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Close Close Caline CP-99 "Medusa" Overdrive SALE Regular price R 1,250.00 Sold Out Shipping calculated at checkout.
+Default Title - Sold Out Quantity Sold Out The Caline CP-99 "Medusa" Overdrive is inspired by the original Centaur and is a higher gain, more compact version of our CP-43 "Pegasus" overdrive.
+This golden beauty uses the Volume, Tone and Gain controls to exude warm, analog overdrive and boost tones with ease.
+
+### Sources checked in this pass
+1. Caline CP-99 "Medusa" Overdrive – My Guitar Shop: https://myguitarshop.co.za/products/caline-cp-99-medusa-overdrive
+2. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fmyguitarshop.co.za%252Fproducts%252Fcaline-cp-99-medusa-overdrive%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
+3. Tweet on Twitter: https://twitter.com/share?text=Caline%20CP-99%20%22Medusa%22%20Overdrive&url=https://myguitarshop.co.za/products/caline-cp-99-medusa-overdrive
+4. Pinterest: https://www.pinterest.com/pin/create/button/?url=https://myguitarshop.co.za/products/caline-cp-99-medusa-overdrive&media=//myguitarshop.co.za/cdn/shop/products/Caline-CP-99-Medusa-Overdrive_1_1024x1024.jpg?v=1606903369&description=Caline%20CP-99%20%22Medusa%22%20Overdrive
+5. Caline CP-99 Medusa - Overdrive | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp99

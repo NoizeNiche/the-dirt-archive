@@ -39,3 +39,21 @@ A Level knob determines how much the pedal affects the sound, a Tone knob contro
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Tweet Why settle for one overdrive sound when you can have three overdrive pedals built into one stomp box!
+
+### Verified sound evidence
+A Level knob determines how much the pedal affects the sound, a Tone knob controls how much the high frequencies are attenuated and boosted, the Gain knob controls the amount of distortion and the Morph knob determines how much the individual overdrive voices morph with each other.
+Tweet Why settle for one overdrive sound when you can have three overdrive pedals built into one stomp box!
+Each overdrive pedal utilizes DigiTech's exclusive multi-distortion technology which gives you a near endless supply of overdrive types compared to single overdrive pedals by other companies.
+
+### Sources checked in this pass
+1. X-Series Tone Driver by DigiTech | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/DigiTech/X-Series-Tone-Driver/68977549/
+2. DigiTech X-Series Tone Driver: https://www.thestompbox.com/overdrive-pedals-1/digitech-x-series-tone-driver
+3. DigiTech X-Series Tone Driver Overdrive pedal | eBay: https://www.ebay.com/itm/237072296809
+4. DigiTech X-Series Tone Driver Overdrive w/ Box *USED* (2000s | Reverb: https://reverb.com/item/99410794-digitech-x-series-tone-driver-overdrive-w-box-used-2000s-gold

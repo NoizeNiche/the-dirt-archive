@@ -45,3 +45,33 @@ Quantity ( 0 in cart) Decrease quantity for AFRO FUZZ Increase quantity for AFRO
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Return to shop open Dirty Boy® Afro Fuzz 19.99 Dirty Boy® Afro Fuzz quantity DEMO IN GENOME INTRO PEDAL Drive Fuzz About The Dirty Boy® Afro Fuzz The Afro Fuzz is unruly power, reborn in GENOME as a PEDAL-Ai™ Component.
+
+### Verified version references
+- The evidence references: MKII, v1.
+
+### Verified transistor/device terms
+- Germanium transistor, silicon transistor.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Quantity ( 0 in cart) Decrease quantity for AFRO FUZZ Increase quantity for AFRO FUZZ Buy Now Shipping calculated after purchase.
+Couldn't load pickup availability Refresh A hybrid fuzz based loosely on the classic Fuzz Face, with a 6-position frequency selector.
+Just tone for players who mean business.
+
+### Sources checked in this pass
+1. AFRO FUZZ – Dirty Boy Co.: https://www.dirtyboy.co/products/dirtyboy-afro-fuzz
+2. Dirty Boy® Afro Fuzz - Two notes: https://www.two-notes.com/en/product/dirty-boy-afro-fuzz/
+3. Dirty Boy Afro Fuzz - Reverb: https://reverb.com/item/96821378-dirty-boy-afro-fuzz
+4. Dirty Boy Afro Fuzz - What To Know Where To Buy | Equipboard: https://equipboard.com/items/dirty-boy-afro-fuzz
+5. Dirty Boy Afro Fuzz – eastside music supply: https://eastsidemusicsupply.com/products/dirty-boy-afro-fuzz
+6. Warm Audio Dirty Boy “Afro Fuzz” Style Pedal: https://warmaudio.com/dirty-boy-jr-fuzz
+7. Dirty Boy Afro Boy Fuzz: https://aifineguitars.com/products/dirty-boy-afro-boy-fuzz

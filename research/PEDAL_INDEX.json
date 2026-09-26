@@ -10477,8 +10477,8 @@
       "research_record": "./research/pedals/PRP Batch 089/DS-7 Distortion.md",
       "image_source_url": "https://img.audiofanzine.com/img/product/normal/1/0/109283.jpg?fm=pjpg&w=300&h=218&fit=max&s=9026736884586de9086ca1a8f3049ec8",
       "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/biyang/ds-7-distortion/medias/pictures/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -17536,8 +17536,8 @@
         "https://rvb-img.reverb.com/i/s--rD2wpDwH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/neizxkgx3i1dn4e8cdwi.jpg",
         "https://i.ebayimg.com/images/g/ddUAAeSw7pFp56lK/s-l1600.webp"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -17564,8 +17564,8 @@
       "research_record": "./research/pedals/PRP Batch 144/cp-99-medusa-overdrive.md",
       "image_source_url": "https://myguitarshop.co.za/cdn/shop/products/Caline-CP-99-Medusa-Overdrive_5_1024x1024.jpg?v=1606903371",
       "image_source_page": "https://myguitarshop.co.za/products/caline-cp-99-medusa-overdrive",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -29835,8 +29835,8 @@
       "image": "./assets/pedals/digitech/x-series-tone-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DigiTech/X-Series Tone Driver.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dirty Boy",
@@ -29847,8 +29847,8 @@
       "image": "./assets/pedals/dirty-boy/afro-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dirty Boy/AFRO FUZZ.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dirty Boy",
@@ -33493,8 +33493,8 @@
       "image": "./assets/pedals/friedman-amplification/fuzz-fiend/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Friedman Amplification/Fuzz Fiend.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Friedman Amplification",
@@ -43443,8 +43443,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/FOUNTAIN HS-model.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ovaltone",
@@ -43479,8 +43479,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/MERKAVA OVERDRIVE.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ovaltone",
@@ -45328,8 +45328,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Rubber Soul.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",

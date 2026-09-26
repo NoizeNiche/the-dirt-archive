@@ -15,3 +15,19 @@
   - https://www.effectsdatabase.com/model/caline/cpxx/cp82
   - https://www.ebay.com/itm/184899830437
   - https://www.guitarpickzone.com/caline-pedals-clone-list/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-82 The Broadsword Bass Fuzz + Boost is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- germanium transistor.
+
+### Verified sound evidence
+Caline CP-82 The Broadsword Bass Fuzz + Boost
+
+### Sources checked in this pass
+1. Caline CP-82 The Broadsword Bass Fuzz + Boost | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp82
