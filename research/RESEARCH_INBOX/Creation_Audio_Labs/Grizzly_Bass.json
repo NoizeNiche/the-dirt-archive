@@ -9,14 +9,16 @@
       "title": "GRIZZLY BASS | Creation Audio Labs",
       "h1": "",
       "excerpt": "",
-      "host": "www.creationaudiolabs.com"
+      "host": "www.creationaudiolabs.com",
+      "source_kind": "manufacturer"
     },
     {
       "url": "https://www.guitareffectspedals.com/Creation-Audio-Labs-Grizzly-Bass-p616.html",
       "title": "Creation Audio Labs Grizzly Bass Overdrive Distortion",
       "h1": "",
       "excerpt": "",
-      "host": "www.guitareffectspedals.com"
+      "host": "www.guitareffectspedals.com",
+      "source_kind": "catalog_verified"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

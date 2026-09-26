@@ -48,3 +48,17 @@ The Balch is voiced as a high-gain, gated fuzz with raspy, glitchy and fuzzy tex
 ## Sources checked
 1. Creepy Fingers Effects - The Balch
 2. Fu Manchu - The Balch demo announcement
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+$ 249.00 Balch Add to Cart The signature fuzz pedal from Bob Balch of Fu Manchu.
+
+### Verified sound evidence
+$ 249.00 Balch Add to Cart The signature fuzz pedal from Bob Balch of Fu Manchu.
+
+### Sources checked in this pass
+1. The Balch | Creepy Fingers Effects: https://creepyfingerseffects.bigcartel.com/product/the-balch
+2. Here it is! Demo video of “The Balch” an original fuzz design from Creepy Fingers effects. Available in November. Watch the video for pre-order info. | Fu Manchu: https://www.facebook.com/FuManchuBand/videos/demo-video-of-the-balch-an-original-fuzz-design-from-creepyfingers-effects-avail/414377742781149/

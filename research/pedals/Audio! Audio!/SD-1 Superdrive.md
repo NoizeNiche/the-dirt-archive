@@ -53,3 +53,24 @@ The Superdrive is designed to span clean boost, smoother overdrive and harder di
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/audioaudio/superdrive
 - **Archive note:** Exact-model images are visible in Effects Database, but no stable archive image asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+boost / preamp distortion overdrive pedal Information Audio!
+
+### Verified color/finish evidence
+- Toggle Switches: Clipping Diodes: Selects between different clipping diodes: Red LEDs: Provides a louder, more open sound with less compression.
+
+### Verified diode terms
+- LEDs, 1n4148.
+
+### Verified sound evidence
+boost / preamp distortion overdrive pedal Information Audio!
+Superdrive Type: Boost/Overdrive/Distortion Controls: Level: Adjusts the output volume of the pedal.
+Gain: Controls the amount of overdrive/distortion.
+
+### Sources checked in this pass
+1. Audio! Audio! SD-1 Superdrive | Effects Database: https://www.effectsdatabase.com/model/audioaudio/superdrive

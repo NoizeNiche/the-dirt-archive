@@ -50,3 +50,18 @@ Ok Doomer is designed for a nearly overloaded, wall-of-sound distortion/fuzz cha
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://reverb.com/item/84497231-audio-surplus-effects-ok-doomer
 - **Archive note:** Exact-model photographs exist in secondary-market sources, but no stable archive image asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Audio Surplus Effects's Ok Doomer is cataloged as a distortion / fuzz pedal.
+
+### Verified sound evidence
+STOMP BOX STEALS: FUZZ- AUDIO SURPLUS EFFECTS Ok Doomer ...Earthquaker Acapulco Gold on steroids?
+Ewing / LENARD Re-Inventions View my complete profile Saturday, April 29, 2023 FUZZ- AUDIO SURPLUS EFFECTS Ok Doomer ...Earthquaker Acapulco Gold on steroids?
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/84497231-audio-surplus-effects-ok-doomer
+2. STOMP BOX STEALS: FUZZ- AUDIO SURPLUS EFFECTS Ok Doomer ...Earthquaker Acapulco Gold on steroids?: https://stompboxsteals.blogspot.com/2023/04/fuzz-audio-surplus-effects-ok-doomer.html

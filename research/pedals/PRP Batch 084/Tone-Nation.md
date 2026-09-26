@@ -9,3 +9,19 @@ Klon-style overdrive/boost interpretation that Big Knob describes as the afforda
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Big Knob Pedals's Tone-Nation is cataloged as a distortion pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+A great tone value, this pedal is destined to find a permanent place on your pedalboard.
+
+### Sources checked in this pass
+1. Tone-Nation – Big Knob Pedals: https://bigknobpedals.com/product/tone-nation/

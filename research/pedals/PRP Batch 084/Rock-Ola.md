@@ -9,3 +9,19 @@ An original Big Knob overdrive designed to maximize playing dynamics and interac
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Big Knob Pedals's Rock-Ola is cataloged as a distortion pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Used with your guitar’s volume and tone knobs, it produces an extraordinarily wide range of overdrive and distortion palettes.
+
+### Sources checked in this pass
+1. Rock-Ola – Big Knob Pedals: https://bigknobpedals.com/product/rock-ola/

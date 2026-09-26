@@ -41,3 +41,26 @@ The drive knob sweeps from a slight boost to a beautiful, harmonically rich over
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+/ Notify me when this product is available: Notify me when this product is available: Qty Add to cart SOUNDS LIKE A CRANKED 50s TUBE AMP The Interstellar Overdriver is a true overdrive pedal, designed to blast your amp with your sound.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+/ Notify me when this product is available: Notify me when this product is available: Qty Add to cart SOUNDS LIKE A CRANKED 50s TUBE AMP The Interstellar Overdriver is a true overdrive pedal, designed to blast your amp with your sound.
+The drive knob sweeps from a slight boost to a beautiful, harmonically rich overdrive.
+Details There’s a million amp-in-a-box overdrive pedals out there, but the Interstellar Overdriver is the only one from outer space.
+
+### Sources checked in this pass
+1. INTERSTELLAR OVERDRIVER - Death By Audio: https://deathbyaudio.com/products/interstellar-overdriver
+2. Death By Audio Interstellar Overdriver - What To Know Where To Buy: https://equipboard.com/items/death-by-audio-interstellar-overdriver
+3. Death by Audio Interstellar Overdriver – United States: https://www.thomannmusic.com/death_by_audio_interstellar_overdriver.htm
+4. Death By Audio Interstellar Overdriver | Analogue Overdrive: https://www.guitarfxdirect.com/product/death-by-audio-interstellar-overdriver-pedal/
+5. Death By Audio Interstellar Overdriver | The Pedal Zone: https://thepedalzone.com/product/death-by-audio-interstellar-overdriver/
+6. Heyday Musical Instruments Repair - Death By Audio Intersteller Overdriver: https://www.heydaymusic.net/effects/p/deathbyaudiointerstelleroverdriver

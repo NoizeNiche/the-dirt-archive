@@ -44,3 +44,19 @@ DIS-01 is voiced for a punchy, articulate distortion that keeps complex upper ha
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Music Land KEY DIS-01 product page.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on January 10, 2016 Crews Maniac Sound distortion pedal NAMM 2016 Video all
+
+### Verified sound evidence
+Published on January 10, 2016 Crews Maniac Sound distortion pedal NAMM 2016 Video all
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2015-11-21 Guitar Shop Hoochies Crews DIS-01 Distortion 2:41 2015-11-19 Crews Maniac Sound Crews Maniac Sound DISTORTION DIS-1 SOUND CHECK by KOUICHI-KORENAGA 1:08 2015-11-14 Crews Maniac Sound ????????????????????????????????????????
+
+### Sources checked in this pass
+1. Crews Maniac Sound DIS-01 Distortion | Effects Database: https://www.effectsdatabase.com/model/crews/distortion
+2. Stream Crews Maniac Sound DIS-01 Distortion Demo #1 by Tokyo CrewsManiacSound | Listen online for free on SoundCloud: https://soundcloud.com/tokyo-crewsmaniacsound/crews-maniac-sound-dis-01-distortion-demo-1
+3. Crews Maniac Sound DIS-01 DISTORTIONb~[WbNhKEY s pKCh [U[ J[g  Twitter Facebook Youtube PAGE TOP: https://www.musicland.co.jp/fs/musiclandkey/crews-dis-01

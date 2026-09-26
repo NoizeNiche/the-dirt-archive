@@ -49,3 +49,22 @@ Creepy Fingers describes the Creepyface as a clear, lush Fuzz Face-style fuzz wi
 ## Sources checked
 1. Creepy Fingers Effects - Creepyface
 2. DrumsKeys - Creepyface
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Creepy Fingers Effects's Creepyface is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- germanium Fuzz, 2N404.
+
+### Verified sound evidence
+Based on one of my all time favorite fuzz circuits the germanium Fuzz Face.
+Clear lush fuzz with crystalline clean up with the volume control.
+A classic fuzz face at its core with NOS capacitors and carbon composition resistors.
+
+### Sources checked in this pass
+1. Creepyface | Creepy Fingers Effects: https://creepyfingerseffects.bigcartel.com/product/creepyface
+2. Creepyface -: https://www.drumskeys.com/product/creepyface/

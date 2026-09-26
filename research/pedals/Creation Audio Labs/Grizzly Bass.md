@@ -53,3 +53,14 @@ Grizzly Bass covers clean boost, subtle tube-like warmth, overdrive and heavier 
 1. Creation Audio Labs - Grizzly Bass
 2. Bass Musician Magazine - Grizzly Bass
 3. TalkBass - Grizzly Bass
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Creation Audio Labs's Grizzly Bass is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. GRIZZLY BASS | Creation Audio Labs: https://www.creationaudiolabs.com/grizzlybass
+2. Creation Audio Labs Grizzly Bass Overdrive Distortion: https://www.guitareffectspedals.com/Creation-Audio-Labs-Grizzly-Bass-p616.html

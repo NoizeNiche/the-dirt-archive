@@ -48,3 +48,20 @@ The Holy Fire Classic ranges from clean boost and smooth overdrive into very hea
 1. Creation Audio Labs - Holy Fire Classic
 2. Creation Audio Labs - Holy Fire Classic product listing
 3. Premier Guitar - Creation Audio Labs Holy Fire review
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Rest assured that your order will make as small of a footprint as possible.* Related products IK Multimedia AmpliTube X-Drive $ 134.00 Barber LTD SR $ 194.00 MXR M86 Classic Distortion $ 29.00 Wampler Sovereign Distortion Pedal $ 74.00 Bucket List Guitars
+
+### Verified sound evidence
+$ 84.00 Add to Cart Classic overdrive distortion effect pedal for guitar or bass.
+Analog wave shaping tube emulation, very low noise clean boost and tone control in a small profile.
+Rest assured that your order will make as small of a footprint as possible.* Related products IK Multimedia AmpliTube X-Drive $ 134.00 Barber LTD SR $ 194.00 MXR M86 Classic Distortion $ 29.00 Wampler Sovereign Distortion Pedal $ 74.00 Bucket List Guitars
+
+### Sources checked in this pass
+1. HOLY FIRE CLASSIC | Creation Audio Labs: https://www.creationaudiolabs.com/holyfire
+2. Creation Audio Labs Holy Fire Classic Distortion Pedal: https://bucketlistguitars.com/product/creation-audio-labs-holy-fire-classic-2/
+3. Holy Fire Classic (48V) by Creation Audio Labs | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Creation-Audio-Labs/Holy-Fire-Classic-48V/708541144/

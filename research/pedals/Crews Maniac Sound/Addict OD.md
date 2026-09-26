@@ -48,3 +48,13 @@ Addict OD is intended to produce natural low-gain through crunch overdrive while
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Crews Maniac Sound / Addict OD product references and exact-model Reverb listing.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crews Maniac Sound's Addict OD is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. CREWS MANIAC SOUND ADDICT OD Overdrive Guitar Pedal Natural Gain Used | eBay Australia eBay Home More information - About this item condition Diners Club: https://www.ebay.com.au/itm/117408880860
