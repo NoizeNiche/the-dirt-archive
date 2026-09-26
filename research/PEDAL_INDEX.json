@@ -3909,8 +3909,8 @@
       "research_record": "./research/pedals/Anasounds/ego driver.md",
       "image_source_url": "https://anasounds.com/wp-content/uploads/2019/08/ego-driver-finie-angle-1209x1209.jpg",
       "image_source_page": "https://anasounds.com/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Anasounds",
