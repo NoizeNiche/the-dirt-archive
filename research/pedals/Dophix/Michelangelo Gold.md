@@ -38,3 +38,18 @@ Be the first to review &ldquo;MICHELANGELO overdrive gold&rdquo; Cancel reply Yo
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dophix's Michelangelo Gold is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Michelangelo Gold Edition Antique gold color box.
+
+### Sources checked in this pass
+1. MICHELANGELO overdrive gold - Dophix: https://www.dophix.com/product/michelangelo-gold/
+2. Dophix Michelangelo Gold Edition 2024 - Oro - Reverb: https://reverb.com/item/85029959-dophix-michelangelo-gold-edition-2024-oro
+3. MICHELANGELO GOLD | Effects Pedals Dophix | The Guitar Division: https://theguitardivision.com/en/dophix/michelangelo-gold-2070.html

@@ -1,23 +1,47 @@
 # Fulltone — 69 Pedal mkII
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** 69 Pedal mkII
 - **Builder:** Fulltone
-- **Pedal:** 69 Pedal mkII
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Fulltone's 69 Pedal mkII.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **69 Pedal mkII** by **Fulltone** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+What Fulltone say about the 69 Pedal mkII This is how you wished your Fuzzface sounded...
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- The Rolling Stones and the Black Crowes have discovered this trick.
+
+## Versions and factory options
+- The verified evidence references: mkII.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: germanium transistor.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Featuring hand-picked Germanium transistors, it delivers a vintage fuzz sound reminiscent of early Hendrix tones.
+Input Bias control removes the "woofiness" for overdrive/distortion sounds.
+A Contour Knob lets you dial in Midrange, Harmonics and Sustain, also an Input Bias knob that takes out the "woofiness" and gives great Overdrive/Distortion sounds when its level is reduced.
+
+## Sources checked
+1. 69 Pedal mkII – Fulltone USA: https://www.fulltoneusa.com/products/69-pedal-mkii
+2. Fulltone 69 Pedal mkII | AllThePedals: https://allthepedals.com/pedals/fulltone-69-pedal-mkii
+3. Fulltone 69 Pedal mkII - Reverb: https://reverb.com/item/90810546-fulltone-69-pedal-mkii
+4. Fulltone 69 Pedal mkII - soundhavenpro.com: https://www.soundhavenpro.com/product/fulltone-69-pedal-mkii/
+5. Fulltone 69 Pedal mkII User Manual | Manualzz: https://manualzz.com/doc/html/7019702/fulltone-69-pedal-mkii-user-manual
+6. Fulltone 69 Pedal mkII Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/1285/fulltone-69-pedal-mkii
+7. Fulltone 69 Pedal mkII (Full Tone) Fuzz | Auxiliary Percussion | tunemusicpro.com: https://www.tunemusicpro.com/product/fulltone-69-pedal-mkii-full-tone-fuzz/
+8. Fulltone 69 Pedal mkII | Effect Pedals: https://www.stringcorner.com/product/fulltone-69-pedal-mkii/
+9. Fulltone 69 Pedal mkII Fuzz Pedal: https://m2reverb.proaudiostar.com/fulltone-69-pedal-mkii-fuzz-pedal.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

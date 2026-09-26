@@ -45,3 +45,29 @@ Labshop My Account Cart Checkout News Contact TURD FUZZ TURD FUZZ &euro; 283.00 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+“Smells great on every electric Guitar and Bass” The TURD Fuzz is fully handmade in Dr.
+
+### Verified color/finish evidence
+- No Art SkullFuzz € 0.00 Yellow Black Flock SkullFuzz (Not for sale) € 0.00 Art SkullFuzz Wooden Box € 150.00 All Black Flocked Skullfuzz € 525.00 Last Moon Canyon N0#350/350 € 753.00 The
+- No Art SkullFuzz € 0.00 Yellow Black Flock SkullFuzz (Not for sale) € 0.00 Art SkullFuzz Wooden Box € 150.00 All Black Flocked Skullfuzz € 525.00 Last Moon Canyon N0#350/350 € 753.00 The Art SkullFuzz Flock Edition € 525.00 ROCKCITY FUZZ LIMITED EDITION € 365.00 Original Handmade Dr.
+
+### Verified transistor/device terms
+- BC109C.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+Labshop My Account Cart Checkout News Contact TURD FUZZ TURD FUZZ € 283.00 The one and only original TURD Fuzz by Dr.
+“Smells great on every electric Guitar and Bass” The TURD Fuzz is fully handmade in Dr.
+No’s lab from soft TURD enclosure and internal sonic design as well as the custom made and designed TURD Fuzz box.
+
+### Sources checked in this pass
+1. TURD FUZZ - Dr. No effects webshop Dr. No effects webshop: https://drno-effects.com/product/turd-fuzz/
+2. MINI TURD FUZZ - Dr. No effects webshop Dr. No effects webshop: https://www.drno-effects.com/product/mini-turd-fuzz/

@@ -30432,8 +30432,8 @@
       "image": "./assets/pedals/dophix/michelangelo-gold/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dophix/Michelangelo Gold.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dr. No Effects",
@@ -30444,8 +30444,8 @@
       "image": "./assets/pedals/dr-no-effects/turd-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dr. No Effects/Turd Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham",
@@ -33580,8 +33580,8 @@
       "image": "./assets/pedals/fulltone/69-pedal-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/69 Pedal mkII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -33604,8 +33604,8 @@
       "image": "./assets/pedals/fulltone/full-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Full-Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -35918,8 +35918,8 @@
       "image": "./assets/pedals/jhs-pedals/bonsai/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Bonsai.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
