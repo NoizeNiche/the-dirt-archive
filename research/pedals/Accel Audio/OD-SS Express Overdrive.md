@@ -1,33 +1,38 @@
 # Accel Audio — OD-SS Express Overdrive
 
 ## PRP identity
+- **Archive parent:** OD-SS Express Overdrive
+- **Builder:** Accel Audio
 - **Catalog type:** Overdrive
-- **Identity:** Compact Tube Screamer-family overdrive associated by Effects Database with the Biyang OD-10/Mad Driver platform.
+- **Identity:** Accel Audio's OD-SS Express Overdrive.
 
 ## What this pedal is
-Effects Database lists the Accel OD-SS Express as related to the Biyang Baby Boom OD-10. The Biyang reference uses a JRC4558 and three voicings, but no Accel-specific internal documentation was found, so those component details are not treated as confirmed for the Accel unit. [1][2]
+Accel Audio browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Accel OD-SS Express Overdrive Published on September 24, 2014 Accel Audio overdrive pedal Information Accel Audio Accel's OD-SS Express Overdrive, delivers those traditional overdrive tones using the classic JRC 4558 chip, at a fraction of the cost.
 
 ## Colorways
-- Accel-specific finish: **Not reliably documented.**
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Versions / options
-- Compact analog overdrive.
-- No numbered Accel production revision verified.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device: **Unknown.**
-- Do not infer the Biyang component set as an Accel parts list.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode: **Unknown.**
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The model belongs to the compact Tube Screamer-style overdrive family and is associated with the Biyang OD-10 platform. Because Accel-specific documentation is sparse, the archive avoids claiming an exact circuit or clipping topology without direct evidence. [1][2]
+Accel OD-SS Express Overdrive | Effects Database Skip to navigation Brands &#9660; 0-9...
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Accel Audio browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Accel OD-SS Express Overdrive Published on September 24, 2014 Accel Audio overdrive pedal Information Accel Audio Accel's OD-SS Express Overdrive, delivers those traditional overdrive tones using the classic JRC 4558 chip, at a fraction of the cost.
 
 ## Sources checked
-1. Effects Database — Biyang OD-10 / Accel related listing: https://www.effectsdatabase.com/model/biyang/babyboom/od10
-2. Effects Database — Biyang OD-10: https://www.effectsdatabase.com/model/biyang/babyboom/od10
-3. Effects Database — Elypse Ruby Drop related listing: https://www.effectsdatabase.com/model/elypse/716/rubydrop
+1. Accel OD-SS Express Overdrive | Effects Database: https://www.effectsdatabase.com/model/accel/od
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

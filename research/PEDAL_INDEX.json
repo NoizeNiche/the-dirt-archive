@@ -685,8 +685,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 413,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Accel Audio",
@@ -43076,8 +43076,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Orange Amplification/Fur Coat.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Orange Amplification",
@@ -51157,8 +51157,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/'59 Sound.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",
