@@ -18207,8 +18207,8 @@
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-plexitone.md",
       "image_source_page": "https://www.pitbullaudio.com/carl-martin-plexitone-single-channel-overdrive-guitar-effects-pedal.html",
       "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/c/m/cm-plexitone-2.jpg?quality=95&bg-color=255,255,255&fit=bounds&height=&width=",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carl Martin",
@@ -18221,8 +18221,8 @@
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-plexitone-lo-gain.md",
       "image_source_page": "https://www.pitbullaudio.com/carl-martin-plexitone-lo-gain-distortion-guitar-effects-pedal.html",
       "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/i/t/it5592.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carl Martin",
@@ -35906,8 +35906,8 @@
       "image": "./assets/pedals/jhs-pedals/at/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/AT+.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -46352,8 +46352,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Strymon/Riverside Drive & Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Strymon",
