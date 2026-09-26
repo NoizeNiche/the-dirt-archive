@@ -17,3 +17,13 @@
   - https://www.effectsdatabase.com/model/carlson/e20mt
   - https://www.effectsdatabase.com/model/shelter/e10/e10mt
   - https://www.harmonycentral.com/forums/topic/1605247-worlds-largest-pedalboard/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Carlson's E20MT Heavy Metal is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Carlson E20MT Heavy Metal | Effects Database: https://www.effectsdatabase.com/model/carlson/e20mt

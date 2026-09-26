@@ -18356,8 +18356,8 @@
       "research_record": "./research/pedals/PRP Batch 150/carlson-e20mt-heavy-metal.md",
       "image_source_page": "https://www.guitarnet.se/store/p/0/daphon-heavy-metal-e20mt-158169",
       "image_source_url": "https://h24-original.s3.amazonaws.com/62617/9894575-a8YHq.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carmedon Electronics",
@@ -46400,8 +46400,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Harmonic Antagonizer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Subdecay",
