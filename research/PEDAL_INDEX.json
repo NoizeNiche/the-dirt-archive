@@ -32904,8 +32904,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fender/Santa Ana Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -37885,8 +37885,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Caeruleum Lightdrive High Definition.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
@@ -43064,8 +43064,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Orange Amplification/Bax Bangeetar.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Orange Amplification",
