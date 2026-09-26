@@ -45,12 +45,21 @@ jobs:
           pending=[p for p in pending if p["builder"] and p["pedal"]]
           pending.sort(key=lambda x:(x["builder"].casefold(),x["pedal"].casefold()))
 
-          evidence_path = "research/RESEARCH_EVIDENCE_QUEUE.json"
+          # Derive evidence readiness from the current verified inbox rather
+          # than the old snapshot queue. The inbox is rewritten by the foreman
+          # from actual worker evidence, so it cannot drift behind the catalog.
           verdicts = {}
           try:
-              evidence = json.load(open(evidence_path, encoding="utf-8"))
-              for item in evidence.get("records", []):
-                  verdicts[(item.get("builder"), item.get("pedal"))] = item.get("foremanVerdict")
+              from pathlib import Path
+              for packet_path in Path("research/RESEARCH_INBOX").rglob("*.json"):
+                  try:
+                      packet=json.load(open(packet_path, encoding="utf-8"))
+                  except Exception:
+                      continue
+                  if packet.get("status")=="VERIFIED_EVIDENCE_STAGED":
+                      key=(str(packet.get("builder","")).strip(),str(packet.get("pedal","")).strip())
+                      if key[0] and key[1]:
+                          verdicts[key]="EVIDENCE_READY"
           except Exception:
               pass
 
