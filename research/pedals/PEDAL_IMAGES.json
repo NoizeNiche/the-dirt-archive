@@ -663,7 +663,6 @@
   {
     "builder": "Add+ Pedals",
     "pedal": "Tube Drive 2",
-    "image": "./assets/pedals/add-pedals/tube-drive-2/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/addplus/tubedrive/2",
     "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md"
   },
