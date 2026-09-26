@@ -1,15 +1,36 @@
 # C14 Devices — Tone Chaser
 
 ## PRP identity
+- **Archive parent:** Tone Chaser
 - **Builder:** C14 Devices
 - **Catalog type:** Overdrive
-- **Identity:** Tone Chaser overdrive.
+- **Identity:** C14 Devices's Tone Chaser.
 
-## Circuit
-No reliable circuit topology, component list, or control specification beyond the catalog classification was found in the reviewed source material. The archive therefore keeps this entry conservative rather than importing details from similarly named pedals.
+## What this pedal is
+C14 Devices's Tone Chaser is cataloged as an overdrive pedal.
+
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database overdrive index, which lists C14 Devices Tone Chaser as an overdrive: https://www.effectsdatabase.com/type/overdrive/pedal?page=7
-2. Effects Database weekly update identifying C14 Devices Tone Chaser among newly added effects: https://www.effectsdatabase.com/updates/weekly/20230130
+1. pedal, overdrive | Effects Database: https://www.effectsdatabase.com/type/overdrive/pedal?page=7
 
-No unsupported circuit claim is made. citeturn1search3turn1search5
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -7,7 +7,7 @@
 - **Identity:** Danelectro's FAB Overdrive.
 
 ## What this pedal is
-Danelectro's FAB Overdrive is cataloged as a Overdrive pedal.
+Danelectro's FAB Overdrive is cataloged as an overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
