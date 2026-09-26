@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T01:29:53.734982+00:00",
+  "generated_at": "2026-09-26T01:32:14.957518+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2462,
     "complete": 2462,
     "research_pending": 0,
-    "deep_research_pending": 3499,
-    "deep_researched": 262,
+    "deep_research_pending": 3484,
+    "deep_researched": 277,
     "surface_ready": 3761
   },
   "next_target": {
@@ -101,27 +101,6 @@
     },
     {
       "builder": "Add+ Pedals",
-      "pedal": "Ratortion 3",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Add+ Pedals/Ratortion 3.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Add+ Pedals",
-      "pedal": "Ratortion 3 v2",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Add+ Pedals/Ratortion 3 v2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Add+ Pedals",
-      "pedal": "Shredder",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Add+ Pedals/Shredder.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Add+ Pedals",
       "pedal": "Super Drive",
       "catalog_type": "",
       "research_record": "./research/pedals/Add+ Pedals/Super Drive.md",
@@ -143,58 +122,79 @@
     },
     {
       "builder": "Add+ Pedals",
-      "pedal": "Tube Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Add+ Pedals/Tube Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Add+ Pedals",
       "pedal": "Tube Drive 2",
       "catalog_type": "",
       "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md",
       "research_level": "surface"
     },
     {
-      "builder": "Add+ Pedals",
-      "pedal": "Tube Drive Silver Edition",
+      "builder": "Advance Tube Technology",
+      "pedal": "Boost Cat Drive",
       "catalog_type": "",
-      "research_record": "./research/pedals/Add+ Pedals/Tube Drive Silver Edition.md",
+      "research_record": "./research/pedals/Advance Tube Technology/Boost Cat Drive.md",
       "research_level": "surface"
     },
     {
-      "builder": "Addrock Musical Products",
-      "pedal": "Boostmaster",
+      "builder": "Advance Tube Technology",
+      "pedal": "Over Cat Drive",
       "catalog_type": "",
-      "research_record": "./research/pedals/Addrock Musical Products/Boostmaster.md",
+      "research_record": "./research/pedals/Advance Tube Technology/Over Cat Drive.md",
       "research_level": "surface"
     },
     {
-      "builder": "Addrock Musical Products",
-      "pedal": "Geranium Fuzz",
+      "builder": "Advance Tube Technology",
+      "pedal": "Virus Drive",
       "catalog_type": "",
-      "research_record": "./research/pedals/Addrock Musical Products/Geranium Fuzz.md",
+      "research_record": "./research/pedals/Advance Tube Technology/Virus Drive.md",
       "research_level": "surface"
     },
     {
-      "builder": "Addrock Musical Products",
-      "pedal": "Hism Scism",
+      "builder": "Adventure Audio",
+      "pedal": "Demogorgon Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Addrock Musical Products/Hism Scism.md",
+      "research_record": "./research/pedals/Adventure Audio/Demogorgon Fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Addrock Musical Products",
-      "pedal": "Not So Ol' Yeller",
+      "builder": "Adventure Audio",
+      "pedal": "Dream Reaper",
       "catalog_type": "",
-      "research_record": "./research/pedals/Addrock Musical Products/Not So Ol' Yeller.md",
+      "research_record": "./research/pedals/Adventure Audio/Dream Reaper.md",
       "research_level": "surface"
     },
     {
-      "builder": "Addrock Musical Products",
-      "pedal": "Ol' Yeller",
+      "builder": "Adventure Audio",
+      "pedal": "Fuzz Peaks",
       "catalog_type": "",
-      "research_record": "./research/pedals/Addrock Musical Products/Ol' Yeller.md",
+      "research_record": "./research/pedals/Adventure Audio/Fuzz Peaks.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Adventure Audio",
+      "pedal": "Fuzz Peaks II",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Adventure Audio/Fuzz Peaks II.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Adventure Audio",
+      "pedal": "Glacial Zenith - Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Adventure Audio/Glacial Zenith - Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Adventure Audio",
+      "pedal": "Thaw",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Adventure Audio/Thaw.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "AED",
+      "pedal": "Blue Bee",
+      "catalog_type": "",
+      "research_record": "./research/pedals/AED/Blue Bee.md",
       "research_level": "surface"
     }
   ]
