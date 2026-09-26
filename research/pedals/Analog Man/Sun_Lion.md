@@ -62,3 +62,29 @@ Sun Lion combines a responsive vintage-style fuzz with the more forward, amplifi
 1. Analog Man — Sun Lion: https://analogman.com/sunlion.htm
 2. Analog Man — Sun Lion manual/product notes: https://analogman.com/sunlion.htm
 3. Effects Database — Sun Lion: https://www.effectsdatabase.com/model/analogman/sunlion
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Man Sun Lion Fuzz Booster Pedal Analog Man Sun Lion Fuzz Booster Pedal We are now making Sun Lion pedals again, in cases with color-printed graphics.
+
+### Verified version references
+- The evidence references: MK1.
+
+### Verified transistor/device terms
+- Germanium fuzz.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Analog Man Sun Lion Fuzz Booster Pedal Analog Man Sun Lion Fuzz Booster Pedal We are now making Sun Lion pedals again, in cases with color-printed graphics.
+Analog Mans Beano Boost pedal is an awesome, improved recreation of that pedal.
+The Dallas Arbiter Fuzzface was one of the first Fuzz pedals, made in the mid/late 1960s.
+
+### Sources checked in this pass
+1. catalog/override source: https://spicersmusic.com/products/analog-man-sun-lion
+2. Analog Man Sun Lion Fuzz Booster Pedal: https://analogman.com/sunlion.htm
+3. BuyAnalogMan: https://www.buyanalogman.com/

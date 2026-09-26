@@ -3592,8 +3592,8 @@
       "source_page": "https://spicersmusic.com/products/analog-man-sun-lion",
       "research_record": "./research/pedals/Analog Man/Sun_Lion.md",
       "image_source_url": "https://spicersmusic.com/cdn/shop/files/IMG_9123.jpg?v=1755190319&width=2000",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Music Company",
@@ -3607,8 +3607,8 @@
       "research_record": "./research/pedals/PRP Batch 056/Evil Pumpkin.md",
       "image_source_url": "https://files.cdn-files-a.com/uploads/6609057/800_683d55cf5535d.png",
       "image_source_page": "https://www.analogmusic.company/evil-pumpkin",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Music Company",
@@ -3621,8 +3621,8 @@
       "research_record": "./research/pedals/PRP Batch 056/Mary Gorgias Ultra High Gain Distorter.md",
       "image_source_url": "https://files.cdn-files-a.com/uploads/6609057/800_6a8d901297f08.png",
       "image_source_page": "https://www.analogmusic.company/shop/mary-gorgias-xx-ultra-high-gain-distorter",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Noir",
@@ -3635,8 +3635,8 @@
       "research_record": "./research/pedals/PRP Batch 056/Fuzz Face - Rangemaster Treble Booster.md",
       "image_source_url": "http://static1.squarespace.com/static/63866ae37fa424183230cef5/63866b987679a464932c6cba/645c1cff47363a27d17aaa13/1789834307628/IMG_4657+2.jpg?format=1500w",
       "image_source_page": "https://analognoirelectric.com/pedals/p/rangemaster-fuzzface",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Noir",
@@ -29017,8 +29017,8 @@
       "image": "./assets/pedals/daredevil-pedals/shrineburner-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/Shrineburner Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -50944,8 +50944,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/RC Booster V2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Xotic Effects",

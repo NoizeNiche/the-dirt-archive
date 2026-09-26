@@ -49,3 +49,22 @@ The Rangemaster side emphasizes upper-mid and treble frequencies, while the Fuzz
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** Analog Noir official product page and exact product imagery.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Noir Fuzz Face / Rangemaster Treble Booster — Fuzz Pedal Specs & Where to Buy
+
+### Verified version references
+- The evidence references: MK1, MKI, MKII, MKIII.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Analog Noir Fuzz Face / Rangemaster Treble Booster — Fuzz Pedal Specs & Where to Buy
+
+### Sources checked in this pass
+1. Analog Noir Fuzz Face / Rangemaster Treble Booster — Fuzz Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/analog-noir-fuzz-face-rangemaster-treble-booster

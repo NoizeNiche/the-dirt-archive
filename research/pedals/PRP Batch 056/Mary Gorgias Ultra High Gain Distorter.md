@@ -36,3 +36,13 @@ Mary Gorgias is designed to cross between extreme distortion and fuzz while addi
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** Analog Music Company product page and secondary catalog material.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Music Company's Mary Gorgias Ultra High Gain Distorter is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Mary Gorgias | Ultra High Gain Distorter - ANALOG MUSIC COMPANY: https://www.analogmusic.company/shop/mary-gorgias-ultra-high-gain-distorter

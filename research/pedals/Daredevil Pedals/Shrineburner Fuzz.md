@@ -42,3 +42,29 @@ Sold Out More merch from SHRINEBURNER Hymns of Despair &ndash; Hymns of Despair 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+music merch community Shrineburner Fuzz by Daredevil Pedals from SHRINEBURNER Shrineburner Fuzz by Daredevil Pedals A massive fuzz designed by the inimitable Johnny Wator.
+
+### Verified color/finish evidence
+- Limited release featuring artwork from our own Peter Norman.
+- They bought one of the circuits, and this is the other… now available for a limited time in "Black 'n Blue" or Red color scheme.
+- He designed the artwork for this pedal.
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified sound evidence
+Shrineburner Fuzz by Daredevil Pedals
+music merch community Shrineburner Fuzz by Daredevil Pedals from SHRINEBURNER Shrineburner Fuzz by Daredevil Pedals A massive fuzz designed by the inimitable Johnny Wator.
+Peter reached out looking to collaborate on a very heavy fuzz pedal that would work great for bass and low tuning guitars.
+
+### Sources checked in this pass
+1. Daredevil Pedals Shrineburner Fuzz - What To Know Where To Buy: https://equipboard.com/items/daredevil-pedals-shrineburner-fuzz
+2. Shrineburner Fuzz by Daredevil Pedals | SHRINEBURNER: https://shrineburner.bandcamp.com/merch/shrineburner-fuzz-by-daredevil-pedals
+3. Daredevil Pedals Shrineburner Fuzz | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/daredevil-pedals-shrineburner-fuzz
+4. Daredevil Pedals Limited Edition Shrineburner Fuzz Pedal – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/daredevil-pedals-limited-edition-shrineburner-fuzz-2030543
