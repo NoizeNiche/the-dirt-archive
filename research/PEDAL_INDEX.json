@@ -36084,8 +36084,8 @@
       "image": "./assets/pedals/jhs-pedals/moonshine-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Moonshine V2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -45802,8 +45802,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Civil Unrest.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
