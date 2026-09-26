@@ -1,44 +1,36 @@
 # All-Pedal — Devil's Triad Essentials
 
 ## PRP identity
+- **Archive parent:** Devil's Triad Essentials
 - **Builder:** All-Pedal
 - **Catalog type:** Overdrive
-- **Identity:** Jeff Loomis collaboration combining analog op-amp drive, active three-band EQ, and pre/post boost.
+- **Identity:** All-Pedal's Devil's Triad Essentials.
 
 ## What this pedal is
-Devil's Triad Essentials is a compact derivative of the larger Devil's Triad concept. All-Pedal describes an analog op-amp drive section with an active three-band EQ plus independent Pre and Post boost controls, making it usable as an overdrive, boost, or pedalboard preamp. [1][2]
+All-Pedal's Devil's Triad Essentials is cataloged as an overdrive pedal.
 
 ## Colorways
-- No complete factory colorway history established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Drive
-- Fuel / output
-- Gain
-- Treble
-- Mid
-- Bass
-- Pre Boost
-- Post Boost
-- true bypass
-- 9VDC operation [1][2]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-The Essentials edition strips the original Devil's Triad's larger multi-effect concept down to drive, active EQ, and pre/post boost. It is documented as a distinct product rather than a numbered circuit revision. [2]
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device not publicly documented.
-- The drive and boost sections are documented as analog op-amp stages. [1]
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The pedal is designed for a tight, touch-sensitive overdrive with substantial gain and active EQ control. Pre and Post boosts allow the player to change gain into the drive section separately from final output level, while the three-band EQ can reshape the result for modern high-gain applications. [1][2]
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. All-Pedal — https://allpedal.com/collections/pedals/products/dt-essentials
-2. Premier Guitar — https://www.premierguitar.com/news/all-pedal-devils-triads-essentials
+1. All-Pedal - Devil&#39;s Triad Essentials &ndash; LEP INTERNATIONAL: https://lep-international.jp/products/all-pedal-devils-triad-essentials
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

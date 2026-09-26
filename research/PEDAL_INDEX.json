@@ -2586,8 +2586,8 @@
       "research_record": "./research/pedals/PRP Batch 047/Devil's Triad Essentials.md",
       "image_source_url": "https://lep-international.jp/cdn/shop/files/Devils-Triad-Essentials-04.png?v=1717122321&width=1445",
       "image_source_page": "https://lep-international.jp/products/all-pedal-devils-triad-essentials",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "All-Pedal",
