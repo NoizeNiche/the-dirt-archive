@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T21:48:45.055310+00:00",
+  "generated_at": "2026-09-26T21:49:48.966478+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2953,
     "complete": 2953,
     "research_pending": 0,
-    "deep_research_pending": 2269,
-    "deep_researched": 1492,
+    "deep_research_pending": 2268,
+    "deep_researched": 1493,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Animals Pedal",
-    "pedal": "PUSH & PULL DISTORTION",
+    "pedal": "PUSH & PULL DISTORTION LIMITED EDITION",
     "catalog_type": "",
-    "research_record": "./research/pedals/PRP Batch 056/PUSH & PULL DISTORTION.md",
+    "research_record": "./research/pedals/PRP Batch 056/PUSH & PULL DISTORTION LIMITED EDITION.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Animals Pedal",
-      "pedal": "PUSH & PULL DISTORTION",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 056/PUSH & PULL DISTORTION.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Animals Pedal",
       "pedal": "PUSH & PULL DISTORTION LIMITED EDITION",
@@ -195,6 +188,13 @@
       "pedal": "Fuzz Driver Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 059/Fuzz Driver Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Asheville Guitar Pedals",
+      "pedal": "Purr Machine Mini Fuzz Overdriver",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 059/Purr Machine Mini Fuzz Overdriver.md",
       "research_level": "surface"
     }
   ]
