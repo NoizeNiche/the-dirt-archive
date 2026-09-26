@@ -4,42 +4,37 @@
 - **Archive parent:** Ratzo
 - **Builder:** Absolutely Analog
 - **Catalog type:** Distortion
-- **Identity:** Boutique Rat-style distortion/clone.
+- **Identity:** Absolutely Analog's Ratzo.
 
 ## What this pedal is
-Ratzo is documented in contemporary pedal references as a boutique clone/interpretation of the Pro Co RAT family. The preserved record identifies it with the Rat-style market and it is repeatedly grouped with other RAT-inspired pedals. [1][2]
+Absolutely Analog browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Absolutely Analog Ratzo Published on March 19, 2008 Absolutely Analog distortion pedal Information Absolutely Analog Absolutely Analog's "Ratzo" - Picture the original black box with some major improvements.
 
 ## Colorways
-- Surviving examples are documented in **black** and other small-batch finishes.
-- No color-specific circuit revision was verified.
+- Absolutely Analog browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Absolutely Analog Ratzo Published on March 19, 2008 Absolutely Analog distortion pedal Information Absolutely Analog Absolutely Analog's "Ratzo" - Picture the original black box with some major improvements.
+- It's housed in a smaller 2.25x4.25 inch industrial strength aluminum enclosure with a beautiful yellow baked on powder coat finish and has an industry standard 9 volt power supply jack on the side or you can use a battery.
+- Reviews myFXDB user reviews No reviews yet + Add your review Links Absolutely Analog Absolutely Analog Ratzo Related Pro Co Rat Pro Co Vintage Rat Pro Co 1985 Whiteface Rat (limited edition) Pro Co Silver Anniversary Rat Absolutely Analog Ratzo Alpha Omega Temptation ARC Effects Soothsayer (new name) ARC Effects Woodcutter (old name) Big Ear NYC Woodcutter Big Tone Music Brewery Classic Distortion Blakemore Effects R.O.U.S.
 
 ## Versions and factory options
-### Ratzo production
-- Rat-style distortion circuit
-- conventional Level / Distortion / Filter-style control concept
-- boutique hand-built format
-
-Exact control labels and production changes are not sufficiently preserved in the accessible sources to claim a complete factory revision history.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No reliable numbered factory revision sequence was verified.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Op-amp-based RAT-style distortion.
-- **Exact active device:** Unknown.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Exact production clipping diodes are not publicly documented.
-- **Exact part:** Unknown.
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Ratzo follows the familiar RAT family path from lower-gain, amp-like drive into compressed, aggressive distortion. Its character is generally associated with the focused midrange and progressively heavier clipping of the RAT format, but exact factory voicing differences are not sufficiently documented to go deeper without guessing. [1][2]
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Absolutely Analog browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Absolutely Analog Ratzo Published on March 19, 2008 Absolutely Analog distortion pedal Information Absolutely Analog Absolutely Analog's "Ratzo" - Picture the original black box with some major improvements.
+The tone of legends in a brand new box!
 
 ## Sources checked
-1. Effects Database related RAT listings: https://www.effectsdatabase.com/model/proco/rat
-2. Gilmourish — Classic tone: Time: https://www.gilmourish.com/?p=1320
+1. Absolutely Analog Ratzo | Effects Database: https://www.effectsdatabase.com/model/absolutelyanalog/rat
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.effectsdatabase.com/model/proco/rat
-- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
