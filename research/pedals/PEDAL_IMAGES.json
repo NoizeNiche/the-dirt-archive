@@ -15672,7 +15672,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Sunn O))) Life Pedal — Octave Distortion + Booster",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/sunn-o-life-pedal-octave-distortion-booster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) Life Pedal — Octave Distortion + Booster.md"
   },
@@ -15686,7 +15686,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Sunn O))) Life Pedal V2 — Octave Distortion + Booster",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/sunn-o-life-pedal-v2-octave-distortion-booster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) Life Pedal V2 — Octave Distortion + Booster.md"
   },
@@ -16106,7 +16106,7 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Sovtek Deluxe Big Muff Pi",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/sovtek-deluxe-big-muff-pi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Sovtek Deluxe Big Muff Pi.md"
   },
@@ -16127,7 +16127,7 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Tube Zipper",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/tube-zipper/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Tube Zipper.md"
   },
@@ -16638,7 +16638,7 @@
   {
     "builder": "Foxpedal",
     "pedal": "The City V2",
-    "image": null,
+    "image": "./assets/pedals/foxpedal/the-city-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Foxpedal/The City V2.md"
   },
@@ -19221,7 +19221,7 @@
   {
     "builder": "Leqtique",
     "pedal": "Maestoso",
-    "image": null,
+    "image": "./assets/pedals/leqtique/maestoso/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/Maestoso.md"
   },
@@ -20516,7 +20516,7 @@
   {
     "builder": "Menatone",
     "pedal": "Red Snapper 4 Knob PTP",
-    "image": null,
+    "image": "./assets/pedals/menatone/red-snapper-4-knob-ptp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Red Snapper 4 Knob PTP.md"
   },
@@ -20530,21 +20530,21 @@
   {
     "builder": "Menatone",
     "pedal": "Red Snapper Mojo PTP",
-    "image": null,
+    "image": "./assets/pedals/menatone/red-snapper-mojo-ptp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Red Snapper Mojo PTP.md"
   },
   {
     "builder": "Menatone",
     "pedal": "The Dirty Blonde",
-    "image": null,
+    "image": "./assets/pedals/menatone/the-dirty-blonde/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/The Dirty Blonde.md"
   },
   {
     "builder": "Menatone",
     "pedal": "The Howie Deluxe",
-    "image": null,
+    "image": "./assets/pedals/menatone/the-howie-deluxe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/The Howie Deluxe.md"
   },
@@ -20782,7 +20782,7 @@
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Fuzz Wall",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/fuzz-wall/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Fuzz Wall.md"
   },
@@ -20796,14 +20796,14 @@
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Hieracium",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/hieracium/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Hieracium.md"
   },
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "House Amp",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/house-amp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/House Amp.md"
   },
@@ -20922,28 +20922,28 @@
   {
     "builder": "Mojo Hand FX",
     "pedal": "Extra Special",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/extra-special/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Extra Special.md"
   },
   {
     "builder": "Mojo Hand FX",
     "pedal": "Iron Bell",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/iron-bell/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Iron Bell.md"
   },
   {
     "builder": "Mojo Hand FX",
     "pedal": "Kensrue Rook",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/kensrue-rook/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Kensrue Rook.md"
   },
   {
     "builder": "Mojo Hand FX",
     "pedal": "Magistrate",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/magistrate/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Magistrate.md"
   },
@@ -21111,14 +21111,14 @@
   {
     "builder": "MOOER Audio / MOOER",
     "pedal": "Eight Hands",
-    "image": null,
+    "image": "./assets/pedals/mooer-audio-mooer/eight-hands/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MOOER Audio / MOOER/Eight Hands.md"
   },
   {
     "builder": "MOOER Audio / MOOER",
     "pedal": "Green Mile",
-    "image": null,
+    "image": "./assets/pedals/mooer-audio-mooer/green-mile/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MOOER Audio / MOOER/Green Mile.md"
   },

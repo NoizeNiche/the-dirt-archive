@@ -31623,7 +31623,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/sunn-o-life-pedal-octave-distortion-booster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) Life Pedal — Octave Distortion + Booster.md",
       "research_level": "surface",
@@ -31648,7 +31648,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/sunn-o-life-pedal-v2-octave-distortion-booster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) Life Pedal V2 — Octave Distortion + Booster.md",
       "research_level": "surface",
@@ -32382,7 +32382,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/sovtek-deluxe-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Sovtek Deluxe Big Muff Pi.md",
       "research_level": "surface",
@@ -32420,7 +32420,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/tube-zipper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Tube Zipper.md",
       "research_level": "surface",
@@ -33303,7 +33303,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxpedal/the-city-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxpedal/The City V2.md",
       "research_level": "deep",
@@ -37886,7 +37886,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/maestoso/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Maestoso.md",
       "research_level": "deep",
@@ -40204,7 +40204,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/red-snapper-4-knob-ptp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Red Snapper 4 Knob PTP.md",
       "research_level": "surface",
@@ -40230,7 +40230,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/red-snapper-mojo-ptp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Red Snapper Mojo PTP.md",
       "research_level": "surface",
@@ -40243,7 +40243,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/the-dirty-blonde/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/The Dirty Blonde.md",
       "research_level": "surface",
@@ -40256,7 +40256,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/the-howie-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/The Howie Deluxe.md",
       "research_level": "surface",
@@ -40676,7 +40676,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mid-fi-electronics/fuzz-wall/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Fuzz Wall.md",
       "research_level": "surface",
@@ -40700,7 +40700,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mid-fi-electronics/hieracium/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Hieracium.md",
       "research_level": "surface",
@@ -40712,7 +40712,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mid-fi-electronics/house-amp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/House Amp.md",
       "research_level": "surface",
@@ -40917,7 +40917,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/extra-special/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Extra Special.md",
       "research_level": "surface",
@@ -40929,7 +40929,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/iron-bell/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Iron Bell.md",
       "research_level": "surface",
@@ -40941,7 +40941,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/kensrue-rook/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Kensrue Rook.md",
       "research_level": "surface",
@@ -40953,7 +40953,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/magistrate/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Magistrate.md",
       "research_level": "surface",
@@ -41241,7 +41241,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mooer-audio-mooer/eight-hands/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MOOER Audio / MOOER/Eight Hands.md",
       "research_level": "surface",
@@ -41253,7 +41253,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mooer-audio-mooer/green-mile/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MOOER Audio / MOOER/Green Mile.md",
       "research_level": "surface",
