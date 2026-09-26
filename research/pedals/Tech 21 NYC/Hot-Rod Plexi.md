@@ -1,23 +1,39 @@
 # Tech 21 NYC — Hot-Rod Plexi
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Hot-Rod Plexi
 - **Builder:** Tech 21 NYC
-- **Pedal:** Hot-Rod Plexi
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Tech 21 NYC's Hot-Rod Plexi.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Hot-Rod Plexi** by **Tech 21 NYC** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Tech 21 NYC's Hot-Rod Plexi is cataloged as a distortion / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: v4.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Tech 21 NYC Hot-Rod Plexi Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/3480/tech-21-nyc-hot-rod-plexi
+2. Tech 21 NYC - Spreading the love on a Hot-Rod Plexi,...: https://www.facebook.com/tech21nyc/posts/spreading-the-love-on-a-hot-rod-plexi-purchased-by-kevin-from-wv-who-also-owns-a/662475330455616/
+3. ギター TECH 21 HOT-ROD PLEXI Hot Rod Plexi – Tech 21 NYC: https://directorio.pucpr.edu/hiroshi.php?p=57917211804
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

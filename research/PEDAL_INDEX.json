@@ -2514,8 +2514,8 @@
       "research_record": "./research/pedals/PRP Batch 047/Royal Cream.md",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/54a5d748e4b034981b4a71c8/1523288665915-0KI2PK409AKNHOOZT8U2/Royal_Cream_Front.jpg",
       "image_source_page": "https://www.alexanderpedals.com/discontinued-pedals",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alien Amplification",
@@ -37913,8 +37913,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Maestro Antique Revised EVR.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
@@ -46964,8 +46964,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Hot-Rod Plexi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tech 21 NYC",
@@ -51275,8 +51275,8 @@
       "image": "./assets/pedals/zvex-effects/fuzzolo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Fuzzolo.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",

@@ -7,10 +7,12 @@
 - **Identity:** ZVEX Effects's Fuzzolo.
 
 ## What this pedal is
-Mod Modulation Octave Phaser Sampler Step Sequencer Tremolo Vibrato Volume Wah Yvette Young ← Back to Guitar Pedals $199.00 Quantity: Add To Cart The Fuzzolo is a raging beast of a fuzz.
+Mod Modulation Octave Phaser Sampler Step Sequencer Tremolo Vibrato Volume Wah Yvette Young Guitar Pedals &larr; Back to Guitar Pedals Fuzzolo Fuzzolo $199.00 Quantity: Add To Cart The Fuzzolo is a raging beast of a fuzz.
 
 ## Colorways
-- ZVEX Effects Info Email Search Menu ZVEX Effects Info Email Search Home Guitar Pedals Custom Pedals Mod Bench + Neon Signs The Candela Vibrophase Merch Modular Dealers Artists Custom Galleries Info Repairs Get Custom Artwork Terms 2019 Catalog PDF Download Photo Pack Filter All Amps Boost Distortion Fuzz Meter Microphone Misc.
+- If you want custom artwork on your pedal, see the custom requests page .
+- For use with Bass or active pickups, open the unit&#8217;s bottom lid and move the black jumper from P to A.
+- All these ZVEX pedals are brightly coloured - painted in fact and if you want you can order direct from the manufacturer and get some amazing custom artwork..
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.
@@ -27,13 +29,15 @@ Mod Modulation Octave Phaser Sampler Step Sequencer Tremolo Vibrato Volume Wah Y
 - **Exact part:** Unknown.
 
 ## Sound
-ZVEX Effects Info Email Search Menu ZVEX Effects Info Email Search Home Guitar Pedals Custom Pedals Mod Bench + Neon Signs The Candela Vibrophase Merch Modular Dealers Artists Custom Galleries Info Repairs Get Custom Artwork Terms 2019 Catalog PDF Download Photo Pack Filter All Amps Boost Distortion Fuzz Meter Microphone Misc.
-Mod Modulation Octave Phaser Sampler Step Sequencer Tremolo Vibrato Volume Wah Yvette Young ← Back to Guitar Pedals $199.00 Quantity: Add To Cart The Fuzzolo is a raging beast of a fuzz.
+Mod Modulation Octave Phaser Sampler Step Sequencer Tremolo Vibrato Volume Wah Yvette Young Guitar Pedals &larr; Back to Guitar Pedals Fuzzolo Fuzzolo $199.00 Quantity: Add To Cart The Fuzzolo is a raging beast of a fuzz.
 The Fuzzolo has two controls: Volume (post gain), and Pulse Width.
+The Fuzzolo is a fuzz pedal that is in part derived from our Mastotron and Woolly Mammoth.
 
 ## Sources checked
-1. Fuzzolo — ZVEX Effects: https://www.zvex.com/guitar-pedals/fuzzolo-guitar-effects-pedal
-2. Zvex Effects – Fuzzolo | Effects & Pedals: https://www.crestguitar.com/product/zvex-effects-fuzzolo/
+1. Fuzzolo &mdash; ZVEX Effects: https://www.zvex.com/guitar-pedals/fuzzolo-guitar-effects-pedal
+2. ZVEX Effects Fuzzolo – Micro Fuzz Pedal for Guitar Bass - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/zvex-fuzzolo-hand-painted
+3. Zvex Effects Fuzzolo - Premium Percussion Instruments Drums Gear: https://www.snarebay.com/product/zvex-effects-fuzzolo/
+4. ZVEX - Super Hard On, Distortron, Fuzzolo: https://guitarinteractivemagazine.com/review/zvex-super-hard-on-distortron-fuzzolo/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
