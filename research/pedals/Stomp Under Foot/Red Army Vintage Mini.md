@@ -1,23 +1,41 @@
 # Stomp Under Foot — Red Army Vintage Mini
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Red Army Vintage Mini
 - **Builder:** Stomp Under Foot
-- **Pedal:** Red Army Vintage Mini
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Stomp Under Foot's Red Army Vintage Mini.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Red Army Vintage Mini** by **Stomp Under Foot** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Service with a Smile Stomp Under Foot Red Army Vintage Mini Fuzz Effect Pedal $279.99 SKU: 174008 Quantity Minus Plus The rare Mike Matthews Red Army Overdrive was the first fuzz pedal produced under the Sovtek name in Russia, circa 1990.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Service with a Smile Stomp Under Foot Red Army Vintage Mini Fuzz Effect Pedal $279.99 SKU: 174008 Quantity Minus Plus The rare Mike Matthews Red Army Overdrive was the first fuzz pedal produced under the Sovtek name in Russia, circa 1990.
+- Sonically, the Red Army stands apart from other Russian Big Muffs.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Service with a Smile Stomp Under Foot Red Army Vintage Mini Fuzz Effect Pedal $279.99 SKU: 174008 Quantity Minus Plus The rare Mike Matthews Red Army Overdrive was the first fuzz pedal produced under the Sovtek name in Russia, circa 1990.
+It offers slightly less low end than the Civil War that followed and delivers a grittier, more aggressive fuzz that is closer in texture to the later Green Russian, but with its own raw character.
+Platte River Drive, Denver, CO 80223
+
+## Sources checked
+1. Stomp Under Foot Red Army Vintage Mini Overdrive Pedal: https://reverb.com/item/99502354-stomp-under-foot-red-army-vintage-mini-overdrive-pedal
+2. Stomp Under Foot Red Army Vintage Mini Fuzz Effect Pedal – Twin Town Guitars: https://www.twintown.com/products/stomp-under-foot-red-army-vintage-mini-fuzz-effect-pedal
+3. Stomp Under Foot Red Army Vintage Mini Overdrive Pedal – Flipside Music: https://flipside-music.com/products/stomp-under-foot-red-army-vintage-mini-overdrive-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
