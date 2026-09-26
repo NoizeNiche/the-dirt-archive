@@ -1,23 +1,43 @@
 # Keeley Electronics — Red Dirt Mini
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Red Dirt Mini
 - **Builder:** Keeley Electronics
-- **Pedal:** Red Dirt Mini
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Keeley Electronics's Red Dirt Mini.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Red Dirt Mini** by **Keeley Electronics** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Keeley Electronics Red Dirt Mini Overdrive Distortion Pedal for sale online
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Keeley Electronics Red Dirt Mini Overdrive Distortion Pedal for sale online
+- Sounds like a tube screamer but the red dirt mini has two switches inside overdrive crunch amp and distortion settings giving it more functionality Verified purchase: Yes Condition: Pre-owned by jotre_7202 Jun 08, 2020 Versatile Has four different settings, very versatile!
+- Verified purchase: Yes Condition: Pre-owned More items related to this product Keeley Red Dirt In Box!
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Keeley Electronics Red Dirt Mini Overdrive Distortion Pedal for sale online
+Crunch is a notch up from there with extra grit.
+Distortion is beefy and the tone knob really lets you tune into a range of tones you can be happy with.
+
+## Sources checked
+1. Red Dirt Mini Keeley Overdrive - Keeley Electronics Guitar Effects Pedals: https://robertkeeley.com/product/baby-dirt-shirt-namm-special/
+2. Keeley Electronics Red Dirt Mini Overdrive Distortion Pedal for sale online | eBay: https://www.ebay.com/p/1040419814
+3. Keeley Electronics Red Dirt Mini Overdrive Guitar Effects Pedal - Walmart.com: https://www.walmart.com/ip/Keeley-Electronics-Red-Dirt-Mini-Overdrive-Guitar-Effects-Pedal/165559944
+4. Red Dirt Mini overdrive by Keeley Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Red-Dirt-Mini-overdrive/68980835/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

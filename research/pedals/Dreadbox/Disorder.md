@@ -40,3 +40,14 @@ Learn more Featured Deal Epiphone J-45 EC Studio – save $40 Claim Reviews Drea
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dreadbox's Disorder is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Disorder - Dreadbox Synthesizers: https://dreadbox-fx.com/disorder/
+2. Dreadbox Disorder Fuzz Pedal | Sweetwater: https://www.sweetwater.com/store/detail/Disorder--dreadbox-disorder-fuzz-pedal

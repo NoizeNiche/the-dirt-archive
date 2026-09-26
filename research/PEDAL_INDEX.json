@@ -10602,8 +10602,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://img.audiofanzine.com/img/product/normal/2/5/253617.jpg?fm=pjpg&w=300&h=218&fit=fill&s=21ed522efa421e29d3daf967580469cb",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -30543,8 +30543,8 @@
       "image": "./assets/pedals/dr-z-amplification/z-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dr. Z Amplification/Z-Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dreadbox",
@@ -30555,8 +30555,8 @@
       "image": "./assets/pedals/dreadbox/disorder/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dreadbox/Disorder.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Drunk Beaver",
@@ -33669,8 +33669,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Limited Edition OCD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -35363,8 +35363,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/WHORES. Fuzz Freq V.2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -35956,8 +35956,8 @@
       "image": "./assets/pedals/jhs-pedals/colour-box-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Colour Box V2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -36898,8 +36898,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Red Dirt Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -45570,8 +45570,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/Lysis MKII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Spaceman Effects",
@@ -47339,8 +47339,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/The DANE.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",

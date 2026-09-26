@@ -13,3 +13,18 @@ https://reverb.com/item/44013883-biyang-od-12-x-drive-green-pedal-free-shipping
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Biyang's OD-12 X-Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Based around the legendary JRC4558 chip used in the classic overdrives of the 1970s, the OD-12 provides a warm, organic sound with detailed articulation and smooth clipping.
+It offers three distinct tonal modes, letting players easily switch between classic tube-style grit, brighter modern drive, and rounded, vintage warmth.
+Built with high-quality components and true bypass circuitry, the OD-12 delivers professional-grade tone and reliability at an accessible price point.
+
+### Sources checked in this pass
+1. Biyang OD-12 X-Drive | Effects Database: https://www.effectsdatabase.com/model/biyang/classic/od12

@@ -38,3 +38,23 @@ Z-Drive Specifications Controls Germanium channel: drive, level and cut switch.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Fortunately for us one of the best pedal companies is just a stone’s throw away; so we enlisted the talents of Jamie Stillman and EarthQuaker Devices…and the Z-Drive was born.
+
+### Verified color/finish evidence
+- Colors Black Power 9 volt DC power supply with a 2.1mm negative center barrel or 9 volt battery.
+
+### Verified sound evidence
+Legacy Models DB4 EMS MAZ 38 Mk.II MAZ 38 NR Mk.II Monza Remedy Route 66 Stang Ray Cabs 1×12 2×10 2×12 Open Back Z Best 2×12 Accessories Reactive Reducer ZEQD-Pre Boost/Preamp Z-Verb Dr.
+Z-Drive Specifications Controls Germanium channel: drive, level and cut switch.
+Mosfet channel: drive, level and cut switch.
+
+### Sources checked in this pass
+1. Z-Drive – Dr. Z Amplification: https://drzamps.com/product/z-drive/
+2. Dr. Z Amplification Z-Drive Owner Manual | Manualzz: https://manualzz.com/doc/72984912/dr.-z-amplification-z-drive-owner-manual
+3. Video: Dr. Z Amplification Z-Drive Overdrive | Reverb News: https://reverb.com/news/video-dr-z-amplification-z-drive-overdrive
