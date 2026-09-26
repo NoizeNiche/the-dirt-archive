@@ -1156,8 +1156,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://media.istockphoto.com/id/1479374768/photo/panoramic-of-kuala-lumpur-city-at-night-malaysia.jpg?s=1024x1024&w=is&k=20&c=GmUC8Z9fnW5ma8HpnDqVuVbLG4u4xaso9fcs3cyIvEA=",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -46795,8 +46795,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Nova Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",

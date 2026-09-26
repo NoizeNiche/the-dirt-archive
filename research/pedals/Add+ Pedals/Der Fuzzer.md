@@ -4,35 +4,35 @@
 - **Archive parent:** Der Fuzzer
 - **Builder:** Add+ Pedals
 - **Catalog type:** Fuzz
-- **Identity:** Add+ Pedals fuzz effect documented in the builder's 2011 product census.
+- **Identity:** Add+ Pedals's Der Fuzzer.
 
 ## What this pedal is
-Der Fuzzer is a dedicated fuzz pedal from Add+ Pedals. Effects Database lists it as an Add+ fuzz product dating from the builder's original 2011 catalog period, but the accessible listing does not publish enough circuit detail to identify its topology or component set. [1][2]
+Add+ Pedals browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Add+ Der Fuzzer Published on March 31, 2011 Add+ Pedals fuzz pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Der Fuzzer Where to find one?
 
 ## Colorways
-- No reliable factory colorway record was established from the available sources.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Der Fuzzer
-- Dedicated fuzz effect
-- Add+ Pedals small-batch production
-- No independently documented factory revision was found [1]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No reliable production revision sequence was established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact production transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact production clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The pedal is cataloged specifically as a fuzz rather than an overdrive or distortion. The surviving public record does not provide enough verified control or circuit information to characterize its clipping behavior more narrowly without guessing. [1]
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Add+ Pedals browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Add+ Der Fuzzer Published on March 31, 2011 Add+ Pedals fuzz pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Der Fuzzer Where to find one?
+fx pedal stompbox stomp box guitar effects pedal fuzz distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Effects Database — Add+ Der Fuzzer: https://www.effectsdatabase.com/model/addplus/derfuzzer
-2. Effects Database — Add+ Pedals catalog: https://www.effectsdatabase.com/model/addplus
+1. Add+ Der Fuzzer | Effects Database: https://www.effectsdatabase.com/model/addplus/derfuzzer
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
