@@ -7,13 +7,14 @@
 - **Identity:** Add+ Pedals's Ratortion 2.
 
 ## What this pedal is
-Add+ Pedals browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Add+ Ratortion 2 Published on March 31, 2011 Add+ Pedals distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Ratortion 2 Where to find one?
+Ratortion 2 is listed by Effects Database as a distinct Add+ Pedals distortion pedal. The surviving entry was published on March 31, 2011. [1]
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Ratortion 2 is preserved as its own catalog entry.
+- No distinct factory revision or option was established in the verified evidence packet.
 
 ## Version changes
 - No specific factory version changes were established in the verified evidence packet.
@@ -27,9 +28,7 @@ Add+ Pedals browse by type distortion/fuzz/overdrive distortion browse by enclos
 - **Exact part:** Unknown.
 
 ## Sound
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Add+ Pedals browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Add+ Ratortion 2 Published on March 31, 2011 Add+ Pedals distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Ratortion 2 Where to find one?
-fx pedal stompbox stomp box guitar effects pedal distortion dist distorted distort distortion/fuzz/overdrive dirt grit Searching...
+The verified source establishes Ratortion 2 as a distortion pedal, but the surviving listing does not provide enough pedal-specific tonal detail to describe its clipping character or response without speculation. [1]
 
 ## Sources checked
 1. Add+ Ratortion 2 | Effects Database: https://www.effectsdatabase.com/model/addplus/ratortion/2
