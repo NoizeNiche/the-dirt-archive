@@ -5,7 +5,7 @@ on:
   # consumed by the next scheduled pass, preventing every small maintenance
   # commit from creating another browser-heavy Actions job.
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '47 * * * *'
   workflow_dispatch:
   # A single sentinel file provides a controlled manual kick when scheduled
   # GitHub Actions delivery is delayed. Ordinary repository commits remain free
