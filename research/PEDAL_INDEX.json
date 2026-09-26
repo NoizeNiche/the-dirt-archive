@@ -399,8 +399,8 @@
       "research_record": "./research/pedals/Abominable Electronics/Cat Dirt Mini - Killer Acid Artwork.md",
       "image_source_page": "https://www.abominablepedals.com/products/cat-dirt-mini-pedal-killer-acid-collab",
       "image_source_url": "https://www.abominablepedals.com/cdn/shop/products/catdirt_yellow_1024x1024.png?v=1582518355",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Abominable Electronics",
@@ -577,8 +577,8 @@
       "source_page": "https://www.effectsdatabase.com/model/ac/green808",
       "research_record": "./research/pedals/AC Efectos/Green 808 Overdrive.md",
       "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/ac_green808_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AC Efectos",
@@ -597,8 +597,8 @@
         "https://www.effectsdatabase.com/model/ac/triplex"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AC Noises",
@@ -610,8 +610,8 @@
       "source_page": "https://pedalfilter.com/ac-noises/arpiona",
       "research_record": "./research/pedals/AC Noises/Arpiona.md",
       "image_source_url": "https://images.pedalfilter.com/acnoises-arpiona.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AC Noises",
@@ -624,8 +624,8 @@
       "research_record": "./research/pedals/AC Noises/Combatti.md",
       "image_source_url": "https://i.pinimg.com/originals/1e/bd/ac/1ebdac24d53928560dca6d174a7389ac.jpg",
       "image_source_page": "https://www.pinterest.com/pin/ac-noises-combatti-distortion-overdrive-pedal-of-the-day--563372234626238844/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AC Noises",
@@ -638,8 +638,8 @@
       "research_record": "./research/pedals/AC Noises/Esplora.md",
       "image_source_url": "https://images.guitarguitar.co.uk/cdn/large/150/190115337547002f.jpg?h=500&maxwidth=770&scale=canvas&bg=ffffff&quality=70",
       "image_source_page": "https://www.guitarguitar.co.uk/product/190115337547002--ac-noises-esplora-fuzz",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AC Noises",
@@ -652,8 +652,8 @@
       "image": "./assets/pedals/ac-noises/urla/primary.webp",
       "image_source_page": "https://aifineguitars.com/products/ac-noises-urla",
       "image_source_url": "https://aifineguitars.com/cdn/shop/files/xftk2ga7qf52jamwh0lo_800x.jpg?v=1704829199",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AC Noises",
@@ -665,8 +665,8 @@
       "source_page": "https://www.effectsdatabase.com/model/acnoises/vola",
       "research_record": "./research/pedals/AC Noises/Vola.md",
       "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/acnoises_vola_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Accel Audio",
