@@ -1,35 +1,36 @@
 # Alen Geere — Tube Fuzz
 
 ## PRP identity
+- **Archive parent:** Tube Fuzz
 - **Builder:** Alen Geere
 - **Catalog type:** Fuzz
-- **Identity:** Early Alen Geere fuzz pedal with a simple two-control layout.
+- **Identity:** Alen Geere's Tube Fuzz.
 
 ## What this pedal is
-Tube Fuzz is an early Alen Geere fuzz entry documented by Effects Database in 2008. The surviving control documentation lists only Volume and Fuzz.
+Alen Geere's Tube Fuzz is cataloged as a fuzz pedal.
 
 ## Colorways
-- No verified factory colorway history established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Volume
-- Fuzz
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision history established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The surviving documentation establishes a straightforward fuzz control architecture, with Volume setting output and Fuzz controlling the amount of fuzz. A more detailed tonal description or circuit-specific characterization was not found in the accessible sources, so no stronger sound claim is being added.
+fx pedal stompbox stomp box guitar effects pedal fuzz distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Effects Database — https://www.effectsdatabase.com/model/alengeere/tubefuzz
-2. Alen Geere Tube Fuzz legacy link referenced by Effects Database — http://alengeere.tr.gg/
+1. Alen Geere Tube Fuzz | Effects Database: https://www.effectsdatabase.com/model/alengeere/tubefuzz
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

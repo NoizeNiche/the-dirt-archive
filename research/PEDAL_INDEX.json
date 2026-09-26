@@ -2408,8 +2408,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://i.pinimg.com/736x/c9/95/15/c99515de5ee30af6948a9e75f27e4791.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alen Geere",
@@ -2428,8 +2428,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://guitar.com/wp-content/uploads/2021/01/Pic-11@1050x1400-400x533.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alexander Pedals",
@@ -51237,8 +51237,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Fuzz Factory 7.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",

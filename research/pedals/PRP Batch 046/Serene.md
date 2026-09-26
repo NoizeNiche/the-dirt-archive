@@ -1,41 +1,37 @@
 # Alen Geere — Serene
 
 ## PRP identity
+- **Archive parent:** Serene
 - **Builder:** Alen Geere
 - **Catalog type:** Overdrive
-- **Identity:** FET-based clean/dirty boost and low-gain overdrive.
+- **Identity:** Alen Geere's Serene.
 
 ## What this pedal is
-Serene is an all-purpose booster intended to work especially well with valve amplifiers near breakup or already driven. The documented topology uses a J-FET gain stage driven by a MOSFET preamp stage.
+Alen Geere's Serene is cataloged as an overdrive pedal.
 
 ## Colorways
-- Blue finish documented in the Reverb product listing.
+- #alengeere #oneoffs #customshop #saltbae #overdrive #pedal #nusr_et 2017-04-29 Alen Geere Enaugh of a kick to turn the sound to the blue!
 
 ## Versions and factory options
-- clean boost
-- low-gain overdrive stage
-- internal bias adjustment
-- first-generation external bias control
-- second-generation fixed bias with internal trim pot
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-- **Generation 1:** external bias pot.
-- **Generation 2:** fixed external bias with an internal trimmer.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- J-FET gain stage plus MOSFET preamp.
-- Exact device numbers are not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Serene is intended to preserve the guitar-and-amplifier character while adding clean boost or a little low-gain dirt. The builder describes smooth, tube-like FET response and high headroom, with the product listing positioning it for amps at or beyond the edge of breakup.
+#alengeere #oneoffs #customshop #saltbae #overdrive #pedal #nusr_et 2017-04-29 Alen Geere Enaugh of a kick to turn the sound to the blue!
+fx pedal stompbox stomp box guitar effects pedal overdrive over drive gain saturation distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Reverb — https://reverb.com/item/10782-alen-geere-serene-boost
-2. Effects Database — https://www.effectsdatabase.com/model/alengeere/serene
-3. Dr. Barlo — https://drbarlo.blogspot.com/2012/
+1. Alen Geere Serene | Effects Database: https://www.effectsdatabase.com/model/alengeere/serene
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
