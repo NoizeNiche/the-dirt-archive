@@ -53,8 +53,37 @@ jobs:
                   verdicts[(item.get("builder"), item.get("pedal"))] = item.get("foremanVerdict")
           except Exception:
               pass
-          priority = {"EVIDENCE_READY":0,"MORE_SOURCES_NEEDED":1,None:2,"":2,"NO_USABLE_EVIDENCE":3}
-          pending.sort(key=lambda r:(priority.get(verdicts.get((r["builder"],r["pedal"])),2),r["builder"].casefold(),r["pedal"].casefold()))
+
+          # Prioritize targets with real exact-source coverage already wired in.
+          # This lets the crew harvest source-rich records before spending most
+          # of a bounded pass on targets that still need open-ended discovery.
+          source_hosts = {}
+          try:
+              import csv
+              with open("research/RESEARCH_SOURCE_OVERRIDES.csv", newline="", encoding="utf-8") as fh:
+                  for row in csv.DictReader(fh):
+                      b = row.get("Builder","").strip()
+                      p = row.get("Pedal","").strip()
+                      u = row.get("Source URL","").strip()
+                      if b and p and u.startswith(("http://","https://")):
+                          from urllib.parse import urlparse
+                          h = urlparse(u).hostname or ""
+                          if h:
+                              source_hosts.setdefault((b,p), set()).add(h.lower())
+          except Exception:
+              pass
+
+          priority = {"EVIDENCE_READY":0,"MORE_SOURCES_NEEDED":3,None:5,"":5,"NO_USABLE_EVIDENCE":6}
+          def rank(row):
+              key=(row["builder"],row["pedal"])
+              hosts=len(source_hosts.get(key,set()))
+              # Two wired hosts are nearly publication-ready; one wired host
+              # is still valuable because manufacturer/EDB/Reverb can qualify
+              # as a strong single source.
+              coverage_rank = 0 if hosts >= 2 else 1 if hosts == 1 else 2
+              verdict_rank = priority.get(verdicts.get(key), 5)
+              return (verdict_rank if verdict_rank == 0 else coverage_rank + 1, row["builder"].casefold(), row["pedal"].casefold())
+          pending.sort(key=rank)
 
           buckets={}
           for row in pending:
