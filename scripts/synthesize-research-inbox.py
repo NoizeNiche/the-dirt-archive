@@ -229,7 +229,7 @@ def main():
     type_by_key = {(r.get("Builder"), r.get("Pedal")): r.get("Catalog Type", "") for r in tracker_rows}
 
     created = 0
-    updated = 0
+    deepened = 0
     created_paths = []
     skipped = 0
     held = 0
