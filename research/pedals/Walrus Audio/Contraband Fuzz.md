@@ -1,23 +1,43 @@
 # Walrus Audio — Contraband Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Contraband Fuzz
 - **Builder:** Walrus Audio
-- **Pedal:** Contraband Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Walrus Audio's Contraband Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Contraband Fuzz** by **Walrus Audio** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Contraband is a single-knob fuzz pedal that ravages your guitar signal and generates a metallic wall of sound.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MKII, V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Contraband Fuzz FREE SHIPPING We ship most orders within 1-3 business days.
+But rumor has it that someone is smuggling fuzz — the most-coveted contraband — back into circulation.
+The Contraband is a single-knob fuzz machine that ravages your guitar signal and generates a metallic wall of sound.
+
+## Sources checked
+1. Contraband Fuzz: https://www.walrusaudio.com/blogs/news/131632131-contraband-fuzz
+2. Walrus Audio Contraband Fuzz - Reverb: https://reverb.com/p/walrus-audio-contraband-fuzz
+3. Walrus Audio Contraband Fuzz | music supplies | fretparts.com: https://www.fretparts.com/product/walrus-audio-contraband-fuzz/
+4. Walrus Audio Contraband Fuzz - Tonebox.com: https://www.tonebox.com/pedal/walrus-audio-contraband-fuzz
+5. Walrus Audio Contraband Fuzz Guitar Effects Pedal | Effects Fuzz | www.sonivins.com: https://www.sonivins.com/product/walrus-audio-contraband-fuzz-guitar-effects-pedal/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

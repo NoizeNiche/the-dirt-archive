@@ -67,3 +67,21 @@ TightFuzz combines vintage Fuzz Face-style behavior with unusually modern contro
 4. Effects Database TightFuzz video archive, including 2013 TightFuzz Boost MOD demo: https://www.effectsdatabase.com/model/amptweaker/tightfuzz
 5. Amptweaker TightFuzz Boost MOD video (archived through Effects Database): https://www.effectsdatabase.com/model/amptweaker/tightfuzz
 6. Aion FX — Tracing Journal: Amptweaker Tight Fuzz, Nov. 24, 2023: https://aionfx.com/news/tracing-journal-amptweaker-tight-fuzz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Amptweaker's TightFuzz is cataloged as a fuzz pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+While most vintage fuzz boxes have few controls, the TightFuzz includes a Tone control to tame the fuzzy edges and the Tight control, a mainstay of Amptweaker pedals, which varies the pick attack from smooth and thick to tight and aggressive.
+This is particularly helpful for tweaking a fuzz tone, since many can be too flubby on the lowend.
+With requested Boost and Germanium/Silicon switches, this cool pedal also has the ability to get lower gain tones easily, with an Auto Bias that adjusts appropriately with the Fuzz control, to get the cleanest and nastiest distortions possible with one control.
+
+### Sources checked in this pass
+1. Amptweaker TightFuzz | Effects Database: https://www.effectsdatabase.com/model/amptweaker/tightfuzz

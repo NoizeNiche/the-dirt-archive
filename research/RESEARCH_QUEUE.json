@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T09:27:13.737487+00:00",
+  "generated_at": "2026-09-26T09:31:19.165729+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2722,
     "complete": 2722,
     "research_pending": 0,
-    "deep_research_pending": 3226,
-    "deep_researched": 535,
+    "deep_research_pending": 3197,
+    "deep_researched": 564,
     "surface_ready": 3761
   },
   "next_target": {
@@ -41,27 +41,6 @@
       "pedal": "Tight Rock Jr",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/Tight_Rock_Jr.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "TightFuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/TightFuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "TightFuzz Jr",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/TightFuzz_Jr.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "TightFuzz Pro",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/TightFuzz_Pro.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +174,27 @@
       "pedal": "Alien Tone Dragon",
       "catalog_type": "",
       "research_record": "./research/pedals/Analog Alien/Alien_Tone_Dragon.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Alien",
+      "pedal": "Alien Twister",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Alien/Alien_Twister.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Alien",
+      "pedal": "Bucket Seat",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Alien/Bucket_Seat.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Alien",
+      "pedal": "FuzzBubble-45",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Alien/FuzzBubble_45.md",
       "research_level": "surface"
     }
   ]

@@ -63,3 +63,22 @@ TightFuzz Jr preserves the core Amptweaker fuzz character while making the EQ an
 2. Sound House — TightFuzz Jr product page: https://www.soundhouse.co.jp/en/products/detail/item/255413/
 3. TalkBass — Amptweaker Bass Tight Fuzz JR, including James Brown's comparison of the JR and larger circuit: https://www.talkbass.com/threads/amptweaker-bass-tight-fuzz-jr.1299593/
 4. MusicTalk — TightFuzz Jr product photograph/specification page: https://www.musictalk.com.sg/amptweaker-pedal-tight-fuzz-jr.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Here are a few demos of this pedal: The TightFuzz Jr is a very flexible fuzz pedal, with a Silicon/Germanium transistor switch and Tight attack switch.
+
+### Verified transistor/device terms
+- Germanium transistor, Germanium Fuzz.
+
+### Verified sound evidence
+Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.
+gives you access to three Fuzz tones (Fat/Normal/Tight) and three fixed EQ settings mimicking the fuzz sound of the ’60s and ’70s (there’s also a “Now” option for a more current sound).
+On top of that, a central switch lets you choose Germanium or Silicon clipping for warmer or brighter distortion.
+
+### Sources checked in this pass
+1. Amptweaker TightFuzz Jr. | Delicious Audio: https://delicious-audio.com/amptweaker-tightfuzz-jr/
+2. https://amptweaker.com/wp-content/uploads/2020/10/TightFuzz-JR.png: https://amptweaker.com/wp-content/uploads/2020/10/TightFuzz-JR.png

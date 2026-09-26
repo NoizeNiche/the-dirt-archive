@@ -1,0 +1,57 @@
+{
+  "builder": "Seymour Duncan",
+  "pedal": "Palladium Gain Stage",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 6,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/seymour-duncan-palladium-gain-stage",
+      "title": "Seymour Duncan Palladium Gain Stage - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://equipboard.com/items/seymour-duncan-palladium-gain-stage",
+      "title": "Seymour Duncan Palladium Gain Stage - What To Know & Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.seymourduncan.com/images/User%20Guides/Palladium%20Gain%20Stage%20Pedal%20User%20Manual%20by%20Seymour%20Duncan.pdf",
+      "title": "PDF -PALLADIUM- GAIN STAGE USER'S GUIDE - Seymour Duncan",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.seymourduncan.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.guitarworld.com/gear/review-seymour-duncan-palladium-gain-stage-pedal",
+      "title": "Review: Seymour Duncan Palladium Gain Stage Pedal | Guitar World",
+      "h1": "",
+      "excerpt": "Review: Seymour Duncan Palladium Gain Stage Pedal | Guitar World @font-face { font-family: \"Roboto Condensed-fallback\"; size-adjust: 88.91000000000001%; ascent-override: 110%; src: local(Arial); } @font-face { font-family: \"Open Sans-fallback\"; size-adjust: 105.42999999999994%; ascent-override: 105%; src: local(Arial); } @font-face { font-family: \"Open Sans Condensed-fallback\"; size-adjust: 82%; src: local(sans-serif); } @font-face { font-family: \"Open Sans Condensed-fallback\"; size-adjust: 87%; ascent-override: 110%; descent-override: 41%; src: local(Arial); } @font-face { font-family: \"Open Sans Condensed-fallback\"; size-adjust: 105%; ascent-override: 100%; descent-override: 30%; src: local(\"Arial Narrow\"); } @font-face { font-family: \"Open Sans Condensed-fallback\"; size-adjust: 89%; ascent-override: 89%; src: local(\"Helvetica\"); } @font-face { font-family: \"Open Sans\"; font-weight: 300; font-style: normal; src: url('https://vanilla.futurecdn.net/guitarworld/1762850/media/shared/fonts/OpenSans-300-Light.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"Open Sans\"; font-weight: 400; font-style: normal; src: url('https://vanilla.futurecdn.net/guitarworld/1762850/media/shared/fonts/OpenSans-400-Regular.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"Open Sans\"; font-weight: 600; font-style: normal; src: url('https://vanilla.futurecdn.net/guitarworld/1762850/media/shared/fonts/OpenSans-600-SemiBold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"Open Sans\"; font-weight: 700; font-style: normal; src: url('https://vanilla.futurecdn.net/guitarworld/1762850/media/shared/fonts/OpenSans-700-Bold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"Open Sans\"; font-weight: 800; font-style: normal; src: url('https://vanilla.futurecdn.net/guitarworld/1762850/media/shared/fonts/OpenSans-800-ExtraBold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"guitarworld\"; src: url('https://vanilla.futurecdn.net/guitarworld/1762850/media/fonts/guitarworld.woff') format('woff'); font-display: \"swap\"; } /* --flexi-layout-- */ @layer legacy {.widget-area svg {visibility: hidden;}} /* --flexi-core-- */ @charset \"UTF-8\";@layer legacy{.special1{font-weight:400}.special2{font-weight:700;text-transform:capitalize}.special3{font-weight:400}.h1,.heading1a{font-weight:700;line-height:normal;margin:0;text-transform:uppercase}.h1b,.heading1b{font-weight:700;font-size:1.25em;line-height:1.4;margin-bottom:4px}.h1c,.h2,.heading1c,.heading2{font-weight:700;text-transform:uppercase}.h3,.heading3a{font-weight:600}.h3b,.heading3b{font-weight:700;text-transform:uppercase}.h3c,.heading3c{font-weight:700;text-transform:capitalize}.subheading1{font-weight:600}.subheading2,.subheading3,.subheading4{font-weight:700;text-transform:uppercase}.txt1a,.txt1b{font-weight:400}.txt2a{font-weight:600}.txt2b,.txt2c,.txt3{font-weight:400}:root{--brand-font-family-1:Arial, sans-serif;--brand-font-family-2:Arial, sans-serif;--brand-font-weight-light:100;--brand-font-weight-medium:400;--brand-font-weight-heavy:700;--brand-font-size-big:32px;--brand-font-size-medium:16px;--brand-font-size-small:12px;--brand-line-height-big:26px;--brand-line-height-medium:22px;--brand-line-height-small:16px;--brand-color-1:#090E21;--brand-color-2:#E40784;--brand-color-3:#3D73D1;--brand-color-black:#1B1B1B;--brand-color-white:#FFFFFF;--brand-color-grey:#EDEDED;--brand-secondary-color-1:#A910E8;--brand-secondary-color-2:#520B3D;--brand-secondary-color-3:#FF9900}@media screen and (min-width:700px){:root{--brand-font-size-big:42px;--brand-font-size-medium:18px;--brand-font-size-small:12px;--brand-line-height-big:56px;--brand-line-height-medium:26px;--brand-line-height-small:16px}}:root{--brand-layout-margin-default:0px;--brand-layout-padding-default:15px;--brand-layout-margin-top:25px;--brand-layou",
+      "host": "www.guitarworld.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://gearstrings.com/bass/seymour-duncan-unveils-the-palladium-gain-stage-pedal",
+      "title": "Seymour Duncan Unveils The Palladium Gain Stage Pedal: A Bassist\u2019s Deep Dive Into Tone, Control, and Circuit Integrity | GearStrings",
+      "h1": "Seymour Duncan Unveils The Palladium Gain Stage Pedal: A Bassist\u2019s Deep Dive Into Tone, Control, and Circuit Integrity",
+      "excerpt": "Seymour Duncan Unveils The Palladium Gain Stage Pedal: A Bassist\u2019s Deep Dive Into Tone, Control, and Circuit Integrity | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / bass bass Seymour Duncan Unveils The Palladium Gain Stage Pedal: A Bassist\u2019s Deep Dive Into Tone, Control, and Circuit Integrity By Marcus Reeve July 9, 2026 What Is the Palladium Gain Stage\u2014and Why Does It Matter for Bass? Seymour Duncan has officially launched the Palladium Gain Stage, a dedicated bass overdrive/distortion pedal engineered from the ground up for low-end fidelity, dynamic response, and studio-grade headroom. Unlike generic guitar-oriented gain pedals that collapse sub-80Hz energy or introduce harsh midrange artifacts, the Palladium employs a discrete Class-A JFET preamp stage, a 3-band active EQ with \u00b115 dB cut/boost, and a dual-path signal architecture that preserves transient integrity down to 30 Hz. Measuring 4.75\u2033 \u00d7 3.75\u2033 \u00d7 2.0\u2033 and weighing 1.2 lbs, it features a rugged anodized aluminum chassis, true bypass switching with soft-touch relay, and 9V DC power (center-negative, 150 mA draw). Priced at $299 USD, it ships with a 2-year limited warranty and is manufactured in San Luis Obispo, California\u2014same facility where Seymour Duncan hand-winds its iconic Basslines pickups. This isn\u2019t just another saturated fuzz box. The Palladium targets a precise functional niche: delivering controllable, musical gain without sacrificing note definition, pitch stability, or low-end extension. In blind tests conducted by Bass Player magazine\u2019s technical team (June 2024), the Palladium retained 92% of fundamental amplitude at 41 Hz (E1 on a 5-string bass) when driven into heavy saturation\u2014outperforming the Darkglass B7K Ultra (84%), Tech 21 SansAmp Bass Driver DI (76%), and MXR M80 Bass D.I.+ (69%) under identical load conditions (4\u03a9 reactive speaker cabinet simulation via Two Notes LeCab 2). Core Architecture: How the Palladium Preserves Bass Integrity The Palladium\u2019s circuit design begins with input impedance optimization. Its 1.2 M\u03a9 input stage\u2014tuned specifically for passive and active bass pickups\u2014prevents high-frequency roll-off and loading-induced tone suck. For comparison, most guitar overdrives operate at 500 k\u03a9 or less; the Electro-Harmonix Bass Big Muff runs at 470 k\u03a9, while the Aguilar AG 500\u2019s built-in drive section sits at 1.0 M\u03a9. This elevated impedance ensures full string resonance transfer, especially critical for vintage-style split-coil Jazz Bass pickups and modern humbuckers like the Nordstrand Big Split. Discrete JFET Preamp Stage At the heart of the Palladium lies a hand-selected, matched pair of Toshiba 2SK374 JFETs configured in a Class-A common-source amplifier topology. These transistors deliver ultra-low noise (0.85 nV/\u221aHz input-referred), symmetrical clipping characteristics, and a natural compression curve that responds authentically to picking dynamics. Unlike op-amp-based gain stages (e.g., the Behringer Ultra-G, which uses TL072 ICs), JFETs provide higher slew rates (>20 V/\u00b5s), preserving transient attack even at maximum Drive settings. Bench measurements confirm Each Palladium unit undergoes individual JFET bias calibration at the factory using a custom 4-point DC operating point sweep. This ensures consistent gain staging across units\u2014a critical factor often overlooked in mass-produced pedals. In contrast, the Darkglass Alpha Omega relies on fixed resistor biasing, leading to \u00b112% unit-to-unit variance in idle current (measured across 50 production samples). Dual-Path Signal Flow The Palladium doesn\u2019t route all signal through the gain stage. Instead, it splits the waveform into two parallel paths: a clean, buffered dry path and a fully processed wet path. The Dry/Wet control (0\u2013100%) blends these streams *after* EQ and gain processing\u2014meaning your unaffected low end remains pristine while harmonic content is layered on top. This differs fundamentally from serial EQ designs (like the SansAmp VT Bass) w",
+      "host": "gearstrings.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://manualzz.com/doc/54688584/seymour-duncan-palladium-gain-stage-user-guide",
+      "title": "Seymour Duncan Palladium Gain Stage User Guide - Manualzz",
+      "h1": "",
+      "excerpt": "",
+      "host": "manualzz.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

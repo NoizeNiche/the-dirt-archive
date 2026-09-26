@@ -1,0 +1,25 @@
+{
+  "builder": "Jackson Audio",
+  "pedal": "Golden Boy Mini Overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://jackson.audio/products/golden-boy-mini",
+      "title": "Golden Boy Mini Overdrive &ndash; Jackson Audio",
+      "h1": "",
+      "excerpt": "Golden Boy Mini Overdrive &ndash; Jackson Audio Skip to content Skip to content { if (isDrawerOpen) { await $dialog.waitForAnimations() await $sectionApi.update({ waitForIdle: true, cachePolicy: 'network-only' }) $viewEvent.dispatch() } }) \" x-cart-api-section > Cart Error loading cart Refresh Search HOME SHOP SHOP Menu - Expand SHOP Menu - Collapse ALL PRODUCTS NODE POWER SUPPLIES PEDALS ANALOG PLUG-INS JACKSON AMPWORKS NODE POWER DEALERS INFO INFO Menu - Expand INFO Menu - Collapse CONTACT WARRANTY/REPAIRS MANUALS ABOUT US DEALER/DISTRIBUTOR JACKSUNDAY SHOW JACKSUNDAY SHOW Menu - Expand JACKSUNDAY SHOW Menu - Collapse ASK JACKSON! Newsletter :only-child]:![--card-list-columns-mobile:1] md:has-[card-list-track>:only-child]:![--card-list-columns-desktop:1] w-full \" style=\" --card-list-columns-desktop: 1.6; --card-list-columns-mobile: 1.2; --card-list-max-width: 100%; --card-list-overflow-x: auto; --card-list-auto-flow: column; --card-list-auto-columns: calc( (100% - calc(var(--layout-gutter-x) * (var(--card-list-columns-desktop) - 1))) / var(--card-list-columns-desktop) ); --card-list-auto-columns-mobile: calc( (100% - calc(var(--layout-gutter-x) * (var(--card-list-columns-mobile) - 1))) / var(--card-list-columns-mobile) ); --card-list-template-rows: minmax(0, 1fr); --card-list-scroll-padding: var(--drawer-scroll-padding); \" > Best Sellers Account Select Country All Countries Afghanistan \u060b Afghanistan AFN \u060b \u00c5land Islands \u20ac \u00c5land Islands EUR \u20ac Albania L Albania ALL L Algeria \u062f.\u062c Algeria DZD \u062f.\u062c Andorra \u20ac Andorra EUR \u20ac Angola $ Angola USD $ Anguilla $ Anguilla XCD $ Antigua & Barbuda $ Antigua & Barbuda XCD $ Argentina $ Argentina USD $ Armenia \u0564\u0580. Armenia AMD \u0564\u0580. Aruba \u0192 Aruba AWG \u0192 Ascension Island \u00a3 Ascension Island SHP \u00a3 Australia $ Australia AUD $ Austria \u20ac Austria EUR \u20ac Azerbaijan \u20bc Azerbaijan AZN \u20bc Bahamas $ Bahamas BSD $ Bahrain $ Bahrain USD $ Bangladesh \u09f3 Bangladesh BDT \u09f3 Barbados $ Barbados BBD $ Belarus $ Belarus USD $ Belgium \u20ac Belgium EUR \u20ac Belize $ Belize BZD $ Benin Fr Benin XOF Fr Bermuda $ Bermuda USD $ Bhutan $ Bhutan USD $ Bolivia Bs. Bolivia BOB Bs. Bosnia & Herzegovina \u041a\u041c Bosnia & Herzegovina BAM \u041a\u041c Botswana P Botswana BWP P Brazil $ Brazil USD $ British Indian Ocean Territory $ British Indian Ocean Territory USD $ British Virgin Islands $ British Virgin Islands USD $ Brunei $ Brunei BND $ Bulgaria \u20ac Bulgaria EUR \u20ac Burkina Faso Fr Burkina Faso XOF Fr Burundi Fr Burundi BIF Fr Cambodia \u17db Cambodia KHR \u17db Cameroon CFA Cameroon XAF CFA Canada $ Canada CAD $ Cape Verde $ Cape Verde CVE $ Caribbean Netherlands $ Caribbean Netherlands USD $ Cayman Islands $ <img src=\"//cdn.shopify.com/static/images/flags/ky.svg?width=16\" alt=\"Cayman Islands\" srcset=\"//cdn.shopify.com/static/images/flags/ky.svg?width=16 16w\" width=\"16\" height=\"12\" loading=\"lazy\" aria-hidden=\"tr",
+      "host": "jackson.audio",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.sweetwater.com/store/detail/GoldenBoyM--jackson-audio-golden-boy-mini-overdrive-pedal-gold",
+      "title": "Jackson Audio Golden Boy Mini Overdrive Pedal - Sweetwater",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.sweetwater.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

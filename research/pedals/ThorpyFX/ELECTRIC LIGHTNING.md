@@ -1,23 +1,40 @@
 # ThorpyFX — ELECTRIC LIGHTNING
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** ELECTRIC LIGHTNING
 - **Builder:** ThorpyFX
-- **Pedal:** ELECTRIC LIGHTNING
 - **Catalog type:** Distortion / Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** ThorpyFX's ELECTRIC LIGHTNING.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **ELECTRIC LIGHTNING** by **ThorpyFX** as a **Distortion / Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Valve Overdrive Add to cart Description The ELECTRIC LIGHTNING is our collaboration with Chris Buck, our first valve overdrive pedal with a British flavour.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Valve Overdrive $484.00 $484.00 Unit price / per Shipping calculated at checkout.
+Valve Overdrive Increase quantity for ELECTRIC LIGHTNING
+Valve Overdrive Add to cart Description The ELECTRIC LIGHTNING is our collaboration with Chris Buck, our first valve overdrive pedal with a British flavour.
+
+## Sources checked
+1. ELECTRIC LIGHTNING | Valve Overdrive: https://thorpyfx.com/en-us/products/the-electric-lightning-valve-overdrive-and-booster-chris-bucks-signature-pedal
+2. ThorpyFX Electric Lightning Chris Buck Signature Overdrive: https://reverb.com/p/thorpyfx-electric-lightning-chris-buck-signature-overdrive
+3. https://www.amazon.com/clp/B0D3WKY22G: https://www.amazon.com/clp/B0D3WKY22G
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

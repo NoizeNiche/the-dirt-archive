@@ -68,3 +68,14 @@ TightFuzz Pro keeps the responsive, Fuzz Face-style foundation of TightFuzz but 
 2. Effects Database — TightFuzz Pro: https://www.effectsdatabase.com/model/amptweaker/tightfuzz/pro
 3. Aion FX — Tracing Journal: Amptweaker Tight Fuzz, Nov. 24, 2023: https://aionfx.com/news/tracing-journal-amptweaker-tight-fuzz/
 4. Amptweaker / ProGuitarShop TightFuzz Pro demo: https://www.youtube.com/watch?v=-UxRu3HWTQM
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Amptweaker's TightFuzz Pro is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/amptweaker/tightfuzz/pro
+2. catalog/override source: https://www.amptweaker.com/page/TightFuzz-Pro-Distortion-by-Amptweaker-93.aspx

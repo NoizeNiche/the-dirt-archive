@@ -1,23 +1,40 @@
 # Himmelstrutz Elektro Art — FETTO Maximus
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** FETTO Maximus
 - **Builder:** Himmelstrutz Elektro Art
-- **Pedal:** FETTO Maximus
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Himmelstrutz Elektro Art's FETTO Maximus.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **FETTO Maximus** by **Himmelstrutz Elektro Art** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Himmelstrutz Elektro Art's FETTO Maximus is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Push Switches DRIVE Overdrive true-bypass push switch (Blue LED).
+- 400 g Colour / Finish May vary depending on production period and available parts.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Himmelstrutz Elektro Art FETTO Maximus Home News Amps Pedals Custom Shop Download About Contact Himmelstrutz Elektro Art FETTO Maximus Not Available Maximused Drive And Boost Character Probably the most versatile FETTO so far made!
+String separation Matchless string separation/definition – at any DRIVE/BOOST level!
+Dynamics The most Dynamic FETTO model made, if you want (5–32 V internal power!) Creaminess The most Creamy FETTO model made, if you want (5–32 V internal power!) Punch The most Punchy FETTO model made, if you want (5–32 V internal power!) IN / OUT Input Input impedance : approx.
+
+## Sources checked
+1. Himmelstrutz Elektro Art FETTO Maximus: https://www.himmelstrutz.com/fetto-maximus/
+2. Fetto Maximus: Owner's Manual + PDF & AI Chat | Manualzz: https://manualzz.com/doc/7534125/himmelstrutz-fetto-maximus-owner-s-manual
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

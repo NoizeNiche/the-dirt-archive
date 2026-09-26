@@ -36,3 +36,18 @@ Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026-08-12 TomsPedalDemo
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Danelectro's French Toast Octave Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Danelectro DJ-13 French Toast Octave Distortion
+the Foxx Tone Machine was invented by Steve Ridinger, the current president of the Danelectro/Evets Corp.
+Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026-08-12 TomsPedalDemos Danelectro DJ-13 French Toast Octave Distortion.
+
+### Sources checked in this pass
+1. Danelectro DJ-13 French Toast Octave Distortion | Effects Database: https://www.effectsdatabase.com/model/danelectro/mini/frenchtoast

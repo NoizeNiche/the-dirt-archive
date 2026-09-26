@@ -35,3 +35,19 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Danelectro DJ-10 Grilled Cheese Distortion Pedal
+
+### Verified sound evidence
+Danelectro DJ-10 Grilled Cheese Distortion Pedal
+DJ-10 Grilled Cheese Distortion Review
+
+### Sources checked in this pass
+1. Danelectro DJ-10 Grilled Cheese Distortion Pedal | Guitar Center: https://www.guitarcenter.com/Danelectro/DJ-10-Grilled-Cheese-Distortion-Pedal-1273887999544.gc
+2. DJ-10 Grilled Cheese Distortion Review | Danelectro | Guitar Effects | Reviews @ Ultimate-Guitar.Com: https://www.ultimate-guitar.com/reviews/guitar_effects/danelectro/dj-10_grilled_cheese_distortion/
+3. catalog/override source: https://reverb.com/item/95077717-danelectro-grilled-cheese-distortion-1990s-yellow

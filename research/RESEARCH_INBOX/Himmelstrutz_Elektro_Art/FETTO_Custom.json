@@ -1,0 +1,33 @@
+{
+  "builder": "Himmelstrutz Elektro Art",
+  "pedal": "FETTO Custom",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://www.himmelstrutz.com/fetto-custom/",
+      "title": "Himmelstrutz Elektro Art FETTO Custom",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.himmelstrutz.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/item/90004863-himmelstrutz-elektro-art-fetto-custom",
+      "title": "Himmelstrutz Elektro Art Fetto Custom - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://pedalzoo.ru/himmelstrutz-elektro-art-fetto-custom.html",
+      "title": "\u041e\u0434\u0438\u043d \u043c\u043e\u043c\u0435\u043d\u0442\u2026",
+      "h1": "pedalzoo.ru",
+      "excerpt": "\u041e\u0434\u0438\u043d \u043c\u043e\u043c\u0435\u043d\u0442\u2026 pedalzoo.ru \u041f\u0440\u043e\u0432\u0435\u0440\u044f\u0435\u043c, \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u043b\u0438 \u0432\u044b. \u042d\u0442\u043e \u043c\u043e\u0436\u0435\u0442 \u0437\u0430\u043d\u044f\u0442\u044c \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0441\u0435\u043a\u0443\u043d\u0434. \u0421\u043d\u0430\u0447\u0430\u043b\u0430 pedalzoo.ru \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u043f\u0440\u043e\u0432\u0435\u0440\u0438\u0442\u044c \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0430\u0448\u0435\u0433\u043e \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f. \u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0430 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043e\u0442\u0432\u0435\u0442\u0430 pedalzoo.ru... Enable JavaScript and cookies to continue Ray ID: 599e2a0a77f0d9c3 \u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u043d\u0430 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435 AntibotWAF",
+      "host": "pedalzoo.ru",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
