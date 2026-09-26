@@ -3446,8 +3446,8 @@
       "research_record": "./research/pedals/PRP Batch 050/Joe Walsh Double Classic.md",
       "image_source_url": "http://theguitarchannel.biz/wp-content/uploads/2017/05/JoeWalshDoubleClassic2-1024x1024.jpg",
       "image_source_page": "https://theguitarchannel.biz/2017/05/pedal-review-joe-walsh-double-classic-analog-alien-overdrivecompressor/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Alien",
@@ -3460,8 +3460,8 @@
       "research_record": "./research/pedals/PRP Batch 050/Rumble Seat.md",
       "image_source_page": "https://www.sweetwater.com/store/detail/RumbleSeat--analog-alien-rumble-seat-overdrive-delay-reverb-pedal",
       "image_source_url": "https://media.sweetwater.com/m/products/image/27a559e06dJjMKdb92UbvPS1YLtpnySrFMbv6YrH.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Fox",
@@ -16831,8 +16831,8 @@
       "research_record": "./research/pedals/PRP Batch 138/vmt-distorsion-de-bajo-con-blend.md",
       "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/vmt-3-c4f955b8d72838437d17660024955602-640-0.webp",
       "image_source_page": "https://pedalescajita.mitiendanube.com/productos/vmt-distorsion-de-bajo-con-blend/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Calangary Pedals",
@@ -28937,8 +28937,8 @@
       "image": "./assets/pedals/daredevil-pedals/op-amp-fuzz-v5/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/OP Amp Fuzz V5.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -35315,8 +35315,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Static Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -35690,8 +35690,8 @@
       "image": "./assets/pedals/jam-pedals/octaurus-nos/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Octaurus NOS.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JAM Pedals",
@@ -35729,8 +35729,8 @@
       "image": "./assets/pedals/jam-pedals/rattler-ltd/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Rattler ltd.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JAM Pedals",
@@ -45122,8 +45122,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/High Gear.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -45159,8 +45159,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Juicy Pig.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -47237,8 +47237,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Old Timer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",

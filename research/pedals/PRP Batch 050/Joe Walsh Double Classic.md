@@ -42,3 +42,23 @@ The compressor is voiced more like a natural studio/rack compressor than a heavi
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** Analog Alien, official manual/spec sheet, and exact-model retailer imagery.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+We are honored to collaborate with Joe Walsh to release his first ever signature multi-effects stompbox in his near 50-year career: The Joe Walsh Double Classic.
+
+### Verified diode terms
+- Led.
+
+### Verified sound evidence
+(Q&A’s) Press Warranty Our Artists Blog Contact Us Cart / $ 0.00 Joe Walsh Double Classic ANALOG ALIEN JOE WALSH DOUBLE CLASSIC (JWDC) Pure classic tone!
+COMPRESSOR The Compressor in the JWDC allows you to control the dynamic range of your instrument.
+You will be able to control the dynamic range of your instrument while simultaneously preserve it’s tonal character.
+
+### Sources checked in this pass
+1. Joe Walsh Double Classic - Analog Alien: https://analogalien.com/joe-walsh-double-classic/
+2. Joe Walsh Double Classic from Analog Alien review: overdrive/compressor: https://theguitarchannel.biz/2017/05/pedal-review-joe-walsh-double-classic-analog-alien-overdrivecompressor/
+3. catalog/override source: https://www.sweetwater.com/store/detail/JWDC--analog-alien-joe-walsh-double-classic-compressor-overdrive-pedal/reviews

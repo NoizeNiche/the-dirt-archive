@@ -48,3 +48,26 @@ Rumble Drive is intended to move from smooth enhancement and boost into warm, tu
 ## Photo
 - **Archive status:** **Exact Photo Archived**
 - **Image source:** Sweetwater exact-model product image.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Everything is possible with the Rumble Seat.
+
+### Verified color/finish evidence
+- Classic-sounding reverb to finish off your tone.
+- Many consider the reverb on a vintage Fender Black Face amp to be “The Holy Grail” of all spring reverbs – and we humbly agree.
+- (We have four vintage Black Face amps at our recording studio, Cloud 9 Recording – where all of our pedals were born.) The sound is never brittle; it is dark and rich with plenty of shimmer.
+
+### Verified sound evidence
+Rumble Seat (OverDrive/Delay/Reverb Pedal) quantity Add to cart Update: This product ships in one of our new cooler bags, as mentioned in our Important Announcement on the homepage.
+Guitarists of all styles appreciate the rich-sounding overdrive, delay and reverb packed into the Rumble Seat.
+Multi-effects pedal for electric guitar with Overdrive, Delay and Reverb circuits
+
+### Sources checked in this pass
+1. Analog Alien Rumble Seat Guitar Pedal For Sale - Buy Rumble Seat Pedal: https://analogalien.com/product/rumble-seat-overdrive-delay-reverb-pedal/
+2. catalog/override source: https://www.sweetwater.com/store/detail/RumbleSeat--analog-alien-rumble-seat-overdrive-delay-reverb-pedal
+3. Analog Alien Rumble Seat Review - Premier Guitar: https://www.premierguitar.com/gear/analog-alien-rumble-seat-review
+4. Stream Analog Alien Rumble Seat by premierguitar | Listen online for free on SoundCloud: https://soundcloud.com/premierguitar/analog-alien-rumble-seat

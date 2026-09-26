@@ -1,23 +1,40 @@
 # Skreddy Pedals — High Gear
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** High Gear
 - **Builder:** Skreddy Pedals
-- **Pedal:** High Gear
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Skreddy Pedals's High Gear.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **High Gear** by **Skreddy Pedals** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Skreddy Pedals's High Gear is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Overdrive | High Gear | Skreddy Pedals: https://www.skreddypedals.com/high-gear
+2. Skreddy Pedals High Gear Used Overdrive - eBay: https://www.ebay.com/itm/287332645164
+3. Skreddy Pedals High Gear Overdrive Guitar Effects Pedal Used: https://www.ebay.com.au/itm/117409413922
+4. Skreddy Pedals - High Gear – LEP INTERNATIONAL: https://lep-international.jp/products/skreddy-pedals-high-gear
+5. Skreddy Pedals High Gear Used Overdrive - eBay UK: https://www.ebay.co.uk/itm/287332645164
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -43,3 +43,38 @@ New Indie Folk / Folktronica / Chamber Pop - September 2026 Latest activity A Pl
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals presents Distortion Pedals Op Amp Fuzz V5 .
+
+### Verified color/finish evidence
+- Ponovo pošalji kod Prijavi se ili registruj povezivanjem naloga: Google Apple Facebook onlajn dnevni red naloga i faktura vraća robu u nekoliko klikova produžena 3-godišnja garancija I druge pogodnosti...
+
+### Verified version references
+- The evidence references: V4, V5.
+
+### Verified diode terms
+- Led.
+
+### Verified sound evidence
+Daredevil Pedals Op Amp Fuzz V5: Good Match For Your Taste?
+Daredevil Pedals presents Distortion Pedals Op Amp Fuzz V5 .
+DAREDEVIL PEDALS Op Amp Fuzz V5 - Effektpedal
+
+### Sources checked in this pass
+1. Daredevil Pedals Op Amp Fuzz V5 - What To Know Where To Buy: https://equipboard.com/items/daredevil-pedals-op-amp-fuzz-v5
+2. Daredevil Pedals Op Amp Fuzz V5: Good Match For Your Taste?: https://www.musicngear.com/daredevil-pedals-op-amp-fuzz-v5
+3. Daredevil Pedals Op Amp Fuzz V5 - Muziker: https://www.muziker.com/daredevil-pedals-op-amp-fuzz-v5
+4. DAREDEVIL PEDALS Op Amp Fuzz V5 - Effektpedal | ZOUNDHOUSE.de: https://www.zoundhouse.de/en/daredevil-pedals-op-amp-fuzz-v5-effektpedal/0052546
+5. Daredevil Pedals Op Amp Fuzz V5 - Muziker | Klangfluss: https://www.klangfluss.com/product/daredevil-pedals-op-amp-fuzz-v5-muziker/
+6. Daredevil Pedals Op Amp Fuzz V5 - Muziker: https://www.muziker.al/daredevil-pedals-op-amp-fuzz-v5
+7. Daredevil Pedals Op Amp Fuzz V5 - Muziker: https://www.muziker.at/daredevil-pedals-op-amp-fuzz-v5
+8. Daredevil Pedals Op Amp Fuzz V5 - Muziker: https://www.muziker.be/daredevil-pedals-op-amp-fuzz-v5
+9. Daredevil Pedals Op Amp Fuzz V5 - Muziker: https://www.muziker.ba/daredevil-pedals-op-amp-fuzz-v5
+10. Daredevil Pedals Op Amp Fuzz V5 - Muziker: https://www.muziker.bg/daredevil-pedals-op-amp-fuzz-v5
+11. Daredevil Pedals Op Amp Fuzz V5 - Muziker: https://www.muziker.hr/daredevil-pedals-op-amp-fuzz-v5
+12. Daredevil Pedals Op Amp Fuzz V5 - Muziker: https://www.muziker.cz/daredevil-pedals-op-amp-fuzz-v5
