@@ -1,41 +1,39 @@
 # Alen Geere — Methoxy Overdrive
 
 ## PRP identity
+- **Archive parent:** Methoxy Overdrive
 - **Builder:** Alen Geere
 - **Catalog type:** Overdrive
-- **Identity:** Low-to-medium gain, tube-like overdrive with integrated boost and selectable drive behavior.
+- **Identity:** Alen Geere's Methoxy Overdrive.
 
 ## What this pedal is
-Methoxy was designed for cranked 6V6-style tube-amp tones while retaining substantial clean headroom. Its boost section changes the range of boosted frequencies through input impedance, and the drive section includes a low-pass/treble-cut control.
+Alen Geere's Methoxy Overdrive is cataloged as an overdrive pedal.
 
 ## Colorways
-- No complete factory colorway history established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- clean / low-gain operation
-- first drive mode with more gain
-- second mode with additional bass content
-- boost section with adjustable filtering
-- drive-section low-pass/treble-cut control
-
-A separate Effects Database entry documents a Methoxy Overdrive v2 in its video archive, but the exact production changes are not established.
+- The verified evidence references: v2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
-- **Methoxy v2:** existence documented; exact changes not publicly established in the accessible text.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- MOSFET technology is explicitly documented.
-- Exact device number not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Methoxy moves from clean, high-headroom operation through low-gain dirt into a more saturated mid-gain overdrive. Its boost can move from a treble-leaning response toward a fatter boost, while the drive section's treble-cut control helps control the top end.
+Of course, if you want it clean, it stays clean with a remarkable headroom, and if you want to add a little dirt, there is also a low gain stage in clean mode.
+For more saturation, just activate the boost section to push the pedal harder.
+You can have lots of gain at first drive mode and plus more bass content at second mode.
 
 ## Sources checked
-1. Effects Database — https://www.effectsdatabase.com/model/alengeere/methoxy
-2. Alen Geere link referenced by Effects Database — https://www.alengeere.com/
+1. Alen Geere Methoxy Overdrive | Effects Database: https://www.effectsdatabase.com/model/alengeere/methoxy
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

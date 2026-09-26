@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T03:36:55.848304+00:00",
+  "generated_at": "2026-09-26T03:40:06.913195+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2540,
     "complete": 2540,
     "research_pending": 0,
-    "deep_research_pending": 3365,
-    "deep_researched": 396,
+    "deep_research_pending": 3364,
+    "deep_researched": 397,
     "surface_ready": 3761
   },
   "next_target": {
@@ -27,13 +27,6 @@
       "pedal": "Operation 1",
       "catalog_type": "",
       "research_record": "./research/pedals/Aleatorik/Operation 1.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alen Geere",
-      "pedal": "Methoxy Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 046/Methoxy Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Bass TightFuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amptweaker",
+      "pedal": "Bass TightFuzz Jr",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz_Jr.md",
       "research_level": "surface"
     }
   ]
