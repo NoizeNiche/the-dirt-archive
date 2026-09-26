@@ -31525,7 +31525,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/speaker-cranker-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Speaker Cranker — Overdrive.md",
       "research_level": "surface",
@@ -35348,7 +35348,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/trench-cannon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Trench Cannon.md",
       "research_level": "deep",
@@ -35360,7 +35360,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/whores-fuzz-freq-v-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/WHORES. Fuzz Freq V.2.md",
       "research_level": "deep",
@@ -36920,7 +36920,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/red-nectar-compressor-and-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Red Nectar Compressor and Overdrive.md",
       "research_level": "deep",
@@ -36945,7 +36945,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/super-bass-overdrive-and-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/SUPER BASS Overdrive and Distortion.md",
       "research_level": "deep",
@@ -39166,7 +39166,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/trust-yourself/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/TRUST YOURSELF.md",
       "research_level": "surface",
@@ -39315,7 +39315,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/fuzz-elements-ether-fe10/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Ether (FE10).md",
       "research_level": "surface",
@@ -40066,7 +40066,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/hindenburg-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Hindenburg Mini.md",
       "research_level": "surface",
@@ -40078,7 +40078,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/law-bender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Law Bender.md",
       "research_level": "surface",
@@ -40091,7 +40091,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/mail-bomb-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Mail Bomb Mini.md",
       "research_level": "surface",
@@ -40373,7 +40373,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mesa-boogie/flux-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Flux-Drive.md",
       "research_level": "surface",
@@ -40385,7 +40385,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mesa-boogie/flux-five/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Flux-Five.md",
       "research_level": "surface",
@@ -40397,7 +40397,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mesa-boogie/gold-mine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Gold Mine.md",
       "research_level": "surface",
@@ -40409,7 +40409,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mesa-boogie/grid-slammer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Grid Slammer.md",
       "research_level": "surface",
@@ -40421,7 +40421,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mesa-boogie/none-identified/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/none identified.md",
       "research_level": "surface",
@@ -40471,7 +40471,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mi-audio-mi-effects/blue-boy-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/Blue Boy Deluxe.md",
       "research_level": "surface",
