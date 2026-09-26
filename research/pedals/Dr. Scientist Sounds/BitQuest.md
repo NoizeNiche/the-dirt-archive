@@ -44,3 +44,23 @@ The BitQuest is a mono multi-effects module featuring 8 fun and adventurous patc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The BitQuest is a mono multi-effects module featuring 8 fun and adventurous patches that can be used with or without a built-in digital fuzz.
+
+### Verified color/finish evidence
+- 00 Old Blood Noise Endeavors Dark Star Stereo - Blue $329.00 $ 329 .
+
+### Verified sound evidence
+The BitQuest is a mono multi-effects module featuring 8 fun and adventurous patches that can be used with or without a built-in digital fuzz.
+
+### Sources checked in this pass
+1. Amazon.com: Dr. Scientist Sounds Bitquest Multi-Effect : Musical Instruments: https://www.amazon.com/Dr-Scientist-Sounds-Bitquest-Multi-Effect/dp/B00P1JKXRU
+2. Dr. Scientist Sounds BitQuest Multi-Effect Eurorack Synth Module - Reverb: https://reverb.com/item/87285916-dr-scientist-sounds-bitquest-multi-effect-eurorack-synth-module
+3. Dr. Scientist Sounds BitQuest Multi-Effect Eurorack Synth Module | Firehouse Guitars: https://www.firehouseguitars.com/product/22841225/dr-scientist-sounds-bitquest-multi-effect-eurorack-synth-module/
+4. Dr. Scientist Sounds BitQuest Multi-Effect Eurorack Synth Module: https://www.ebay.com/itm/256821168772
+5. Dr. Scientist Sounds Bitquest Multi-Effect - Dr. Scientist Atmosphere - Dr. Scientist Reverberator - Vintage King: https://vintageking.com/dr-scientist

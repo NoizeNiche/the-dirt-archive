@@ -30493,8 +30493,8 @@
       "image": "./assets/pedals/dr-scientist-sounds/bitquest/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dr. Scientist Sounds/BitQuest.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dr. Scientist Sounds",
@@ -30505,8 +30505,8 @@
       "image": "./assets/pedals/dr-scientist-sounds/dungeon-crawler/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dr. Scientist Sounds/Dungeon Crawler.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dr. Scientist Sounds",
@@ -33617,8 +33617,8 @@
       "image": "./assets/pedals/fulltone/full-drive1/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Full-Drive1.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
