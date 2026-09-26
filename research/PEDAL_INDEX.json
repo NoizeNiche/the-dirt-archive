@@ -28374,7 +28374,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/d-m/distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/D&M/Distortion.md",
       "research_level": "surface",
@@ -28614,7 +28614,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/danelectro/fab-tone-fab-tone-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Fab Tone / FAB Tone Distortion.md",
       "research_level": "surface",
@@ -28904,7 +28904,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/daredevil-pedals/necros-fuzz-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/Necros Fuzz / Distortion.md",
       "research_level": "surface",
@@ -29070,7 +29070,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/daredevil-pedals/the-chicago-rat-selectable-high-gain-distortion-mode/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/the Chicago Rat — selectable high-gain distortion mode.md",
       "research_level": "surface",
@@ -29082,7 +29082,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/daredevil-pedals/the-chicago-rat-selectable-over-clipped-fuzz-mode/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/the Chicago Rat — selectable over-clipped fuzz mode.md",
       "research_level": "surface",
@@ -29167,7 +29167,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/deadastronautfx/skinwalker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DeadastronautFX/Skinwalker.md",
       "research_level": "surface",
@@ -29261,7 +29261,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/death-by-audio/echo-dream-2-fuzz-function/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Echo Dream 2 (fuzz function).md",
       "research_level": "surface",
@@ -29390,7 +29390,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/death-by-audio/sonic-incinerator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Sonic Incinerator.md",
       "research_level": "surface",
@@ -29604,7 +29604,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/demeter/drv-2-uberdriveulator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Demeter/DRV-2 Uberdriveulator.md",
       "research_level": "surface",
@@ -29666,7 +29666,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/devi-ever-fx/torn-s-peaker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Devi Ever : FX/Torn's Peaker.md",
       "research_level": "surface",
@@ -29814,7 +29814,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/digitech/x-series-distortion-factory-df-7/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DigiTech/X-Series Distortion Factory DF-7.md",
       "research_level": "surface",
@@ -29826,7 +29826,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/digitech/x-series-hot-rod-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DigiTech/X-Series Hot Rod Distortion.md",
       "research_level": "surface",
@@ -29876,7 +29876,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/dirty-boy/junior-db-fuzz-dirty-boy-jr-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
       "research_level": "surface",
@@ -29888,7 +29888,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dirty-boy/junior-db-overdrive-dirty-boy-jr-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive.md",
       "research_level": "surface",
@@ -29900,7 +29900,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/dirty-boy/none-promoted-in-this-block/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dirty Boy/None promoted in this block.md",
       "research_level": "surface",
@@ -29938,7 +29938,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dls-effect/reckless-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DLS Effect/Reckless Driver.md",
       "research_level": "surface",
@@ -29964,7 +29964,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/bass-overdrive-fx91/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Bass Overdrive (FX91).md",
       "research_level": "surface",
@@ -29988,7 +29988,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/carcosa-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Carcosa Fuzz.md",
       "research_level": "surface",
@@ -30012,7 +30012,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/d-s-d-s-ii-distortion-sustainer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/D&S / D&S II Distortion & Sustainer.md",
       "research_level": "surface",
@@ -30024,7 +30024,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/death-metal-distortion-fx86/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Death Metal Distortion (FX86).md",
       "research_level": "surface",
@@ -30036,7 +30036,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/flashback-fuzz-fx66/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Flashback Fuzz (FX66).md",
       "research_level": "surface",
@@ -30498,7 +30498,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dr-scientist-ryan-clarke-tanya-clarke-neil-graham/the-elements/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham/The Elements.md",
       "research_level": "surface",
@@ -30584,7 +30584,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/drunk-beaver/forest-song-high-voltage-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Drunk Beaver/Forest Song High Voltage Overdrive.md",
       "research_level": "surface",
@@ -30596,7 +30596,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/drunk-beaver/kavun-mosfet-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Drunk Beaver/Kavun MOSFET Drive.md",
       "research_level": "surface",
@@ -30858,7 +30858,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/dwarfcraft-devices/shefuzz-formerly-shiva/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/SheFuzz / formerly Shiva.md",
       "research_level": "surface",
@@ -30959,7 +30959,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/acapulco-gold/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Acapulco Gold.md",
       "research_level": "deep",
@@ -30972,7 +30972,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/acapulco-gold-power-amp-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Acapulco Gold — Power Amp Distortion.md",
       "research_level": "surface",
@@ -30996,7 +30996,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/barrows-fuzz-attacker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Barrows — Fuzz Attacker.md",
       "research_level": "surface",
@@ -31630,7 +31630,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/sunn-o-life-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) Life Pedal.md",
       "research_level": "surface",
@@ -31828,7 +31828,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/effectrode/mercury-tube-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Effectrode/Mercury Tube Fuzz.md",
       "research_level": "surface",
@@ -31840,7 +31840,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/effectrode/tube-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Effectrode/Tube Drive.md",
       "research_level": "surface",
@@ -31876,7 +31876,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/bass-soul-food/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Bass Soul Food.md",
       "research_level": "surface",
@@ -31888,7 +31888,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/bender-royale/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Bender Royale.md",
       "research_level": "surface",
@@ -31912,7 +31912,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/big-muff-pi-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Big Muff Pi 2.md",
       "research_level": "surface",
@@ -32464,7 +32464,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/electronic-audio-experiments/glaive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Glaive.md",
       "research_level": "surface",
@@ -32514,7 +32514,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/electronic-audio-experiments/longsword/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Longsword.md",
       "research_level": "surface",
@@ -32574,7 +32574,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/empress-effects/drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Empress Effects/Drive.md",
       "research_level": "surface",
@@ -32586,7 +32586,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/empress-effects/fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Empress Effects/Fuzz.md",
       "research_level": "surface",
@@ -32610,7 +32610,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/empress-effects/heavy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Empress Effects/Heavy.md",
       "research_level": "surface",
@@ -32649,7 +32649,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ews/little-brute-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EWS/Little Brute Drive.md",
       "research_level": "surface",
@@ -32661,7 +32661,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/f-pedals/edstortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/F-Pedals/Edstortion.md",
       "research_level": "deep",
@@ -32673,7 +32673,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fairfield-circuitry/900/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fairfield Circuitry/~900.md",
       "research_level": "deep",
@@ -32685,7 +32685,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/fairfield-circuitry/20-more/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fairfield Circuitry/20% More.md",
       "research_level": "deep",
@@ -32697,7 +32697,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fairfield-circuitry/barbershop-consolidated-across-v1-millennium-edition/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fairfield Circuitry/Barbershop — consolidated across V1 / Millennium Edition.md",
       "research_level": "surface",
@@ -32709,7 +32709,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fairfield-circuitry/mod-le-b/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fairfield Circuitry/Modèle B.md",
       "research_level": "deep",
@@ -32721,7 +32721,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fairfield-circuitry/the-unpleasant-surprise/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fairfield Circuitry/The Unpleasant Surprise.md",
       "research_level": "deep",
@@ -32733,7 +32733,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/fender/compugilist-compressor-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Compugilist Compressor/Distortion.md",
       "research_level": "deep",
@@ -32745,7 +32745,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/fender/fender-blender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Fender Blender.md",
       "research_level": "deep",
@@ -32769,7 +32769,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fender/fender-drive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Fender Drive Pedal.md",
       "research_level": "surface",
@@ -32781,7 +32781,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fender/fender-fuzz-wah-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Fender Fuzz Wah Pedal.md",
       "research_level": "surface",
@@ -32985,7 +32985,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fjord-fuzz/bufo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Bufo.md",
       "research_level": "surface",
@@ -32997,7 +32997,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fjord-fuzz/dovre/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Dovre.md",
       "research_level": "surface",
@@ -33009,7 +33009,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fjord-fuzz/fjord-fuzz-super-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Fjord-Fuzz Super-Fuzz.md",
       "research_level": "surface",
@@ -33129,7 +33129,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/flattley/centurion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Flattley/Centurion.md",
       "research_level": "surface",
@@ -33141,7 +33141,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/flattley/plexstar/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Flattley/Plexstar.md",
       "research_level": "surface",
@@ -33153,7 +33153,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/flattley/revolution/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Flattley/Revolution.md",
       "research_level": "surface",
@@ -33165,7 +33165,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fortin/blade/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fortin/Blade.md",
       "research_level": "surface",
@@ -33177,7 +33177,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fortin/fourteen/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fortin/Fourteen.md",
       "research_level": "surface",
@@ -33189,7 +33189,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/fortin/kali/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fortin/Kali.md",
       "research_level": "surface",
@@ -33201,7 +33201,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/fortin/natas-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fortin/Natas Distortion.md",
       "research_level": "surface",
@@ -33225,7 +33225,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxgear/cream/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Cream.md",
       "research_level": "surface",
@@ -33238,7 +33238,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxgear/fenix/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Fenix.md",
       "research_level": "surface",
@@ -33250,7 +33250,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxgear/manic/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Manic.md",
       "research_level": "surface",
@@ -33262,7 +33262,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxgear/muffin/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Muffin.md",
       "research_level": "surface",
@@ -33311,7 +33311,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxpedal/defector/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxpedal/Defector.md",
       "research_level": "surface",
@@ -33335,7 +33335,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxpedal/vixen/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxpedal/Vixen.md",
       "research_level": "surface",
@@ -33347,7 +33347,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxrox-electronics/cc-hybrid2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxrox Electronics/CC Hybrid2.md",
       "research_level": "surface",
@@ -33359,7 +33359,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxrox-electronics/festival-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxrox Electronics/Festival Overdrive.md",
       "research_level": "surface",
@@ -33383,7 +33383,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxrox-electronics/hot-silicon-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxrox Electronics/Hot Silicon Fuzz.md",
       "research_level": "surface",
@@ -33395,7 +33395,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxrox-electronics/hot-silicon2-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxrox Electronics/Hot Silicon2 Fuzz.md",
       "research_level": "surface",
@@ -33435,7 +33435,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/frank-marino-audio/dragonfly/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Frank Marino Audio/Dragonfly.md",
       "research_level": "surface",
@@ -33447,7 +33447,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/frank-marino-audio/juggernaut/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Frank Marino Audio/Juggernaut.md",
       "research_level": "surface",
@@ -33459,7 +33459,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/frantone-electronics/brooklyn-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Frantone Electronics/Brooklyn Overdrive.md",
       "research_level": "surface",
@@ -33472,7 +33472,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/friedman-amplification/be-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Friedman Amplification/BE-OD.md",
       "research_level": "surface",
@@ -33485,7 +33485,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/friedman-amplification/be-od-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Friedman Amplification/BE-OD Deluxe.md",
       "research_level": "surface",
@@ -33498,7 +33498,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/friedman-amplification/dirty-shirley-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Friedman Amplification/Dirty Shirley Pedal.md",
       "research_level": "surface",
@@ -33510,7 +33510,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/friedman-amplification/fuzz-fiend/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Friedman Amplification/Fuzz Fiend.md",
       "research_level": "surface",
@@ -33523,7 +33523,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/friedman-amplification/golden-pearl/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Friedman Amplification/Golden Pearl.md",
       "research_level": "surface",
@@ -33561,7 +33561,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fuhrmann/big-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fuhrmann/Big Fuzz.md",
       "research_level": "surface",
@@ -33573,7 +33573,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fuhrmann/classic-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fuhrmann/Classic Fuzz.md",
       "research_level": "surface",
@@ -33585,7 +33585,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/fuhrmann/punch-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fuhrmann/Punch Box.md",
       "research_level": "surface",
@@ -33597,7 +33597,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fulltone/69-pedal-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/69 Pedal mkII.md",
       "research_level": "surface",
@@ -33621,7 +33621,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fulltone/full-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Full-Drive.md",
       "research_level": "surface",
@@ -33634,7 +33634,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fulltone/full-drive1/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Full-Drive1.md",
       "research_level": "surface",
@@ -33647,7 +33647,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fulltone/full-drive2-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Full-Drive2 v2.md",
       "research_level": "surface",
@@ -33813,7 +33813,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fuzzrocious-pedals/cat-tail/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fuzzrocious Pedals/Cat Tail.md",
       "research_level": "surface",
@@ -33826,7 +33826,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/gamechanger-audio/plasma-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Gamechanger Audio/Plasma Pedal.md",
       "research_level": "deep",
@@ -33863,7 +33863,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/greenhouse-effects/remedy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greenhouse Effects/Remedy.md",
       "research_level": "deep",
@@ -33875,7 +33875,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/390-vintage-od-preamp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/390 Vintage OD/Preamp.md",
       "research_level": "deep",
@@ -33888,7 +33888,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/batch-o-ass/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Batch O' Ass.md",
       "research_level": "surface",
@@ -33901,7 +33901,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/black-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Black Fuzz.md",
       "research_level": "deep",
@@ -33913,7 +33913,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/black-mountain-crunch-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Black Mountain Crunch Drive.md",
       "research_level": "deep",
@@ -33927,7 +33927,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/brown-bomber/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Brown Bomber.md",
       "research_level": "deep",
@@ -34303,7 +34303,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/guyatone/hd-2-harmonic-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Guyatone/HD-2 Harmonic Distortion.md",
       "research_level": "surface",
@@ -34329,7 +34329,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/hardwire/none-identified/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/HardWire/none identified.md",
       "research_level": "surface",
@@ -34353,7 +34353,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/hardwire/tl-2-metal-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/HardWire/TL-2 Metal Distortion.md",
       "research_level": "deep",
@@ -34365,7 +34365,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/henretta-engineering/h-bomb/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Henretta Engineering/H-Bomb.md",
       "research_level": "deep",
@@ -34377,7 +34377,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/himmelstrutz-elektro-art/fetto-9-0/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO 9.0.md",
       "research_level": "surface",
@@ -34389,7 +34389,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/himmelstrutz-elektro-art/fetto-apache/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO Apache.md",
       "research_level": "surface",
@@ -34401,7 +34401,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/himmelstrutz-elektro-art/fetto-c-luxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO C-Luxe.md",
       "research_level": "surface",
@@ -34413,7 +34413,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/himmelstrutz-elektro-art/fetto-custom/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO Custom.md",
       "research_level": "surface",
@@ -34425,7 +34425,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/himmelstrutz-elektro-art/fetto-jr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO Jr.md",
       "research_level": "surface",
@@ -34573,7 +34573,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/horizon-devices/precision-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Horizon Devices/Precision Drive.md",
       "research_level": "surface",
@@ -34587,7 +34587,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/hudson-electronics/broadcast/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Broadcast.md",
       "research_level": "surface",
@@ -34599,7 +34599,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/hudson-electronics/broadcast-ap/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Broadcast-AP.md",
       "research_level": "surface",
@@ -34611,7 +34611,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/hudson-electronics/buzzoid/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Buzzoid.md",
       "research_level": "surface",
@@ -34697,7 +34697,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/hungry-robot/the-collective/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hungry Robot/The Collective.md",
       "research_level": "surface",
@@ -34709,7 +34709,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/hungry-robot/the-lumen/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hungry Robot/The Lumen.md",
       "research_level": "surface",
@@ -34757,7 +34757,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ibanez/jd9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/JD9.md",
       "research_level": "deep",
@@ -34770,7 +34770,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ibanez/jemini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/JEMINI.md",
       "research_level": "deep",
@@ -34794,7 +34794,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/ibanez/od850/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/OD850.md",
       "research_level": "deep",
@@ -34975,7 +34975,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/d4-distortion-reissue/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/-D4 Distortion Reissue.md",
       "research_level": "surface",
@@ -34988,7 +34988,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/black-fortress-bass-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Black Fortress Bass Distortion.md",
       "research_level": "surface",
@@ -35000,7 +35000,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/blackout/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Blackout.md",
       "research_level": "surface",
@@ -35012,7 +35012,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/blasteroid-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Blasteroid Fuzz.md",
       "research_level": "surface",
@@ -35024,7 +35024,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/blower-box-bass-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Blower Box Bass Distortion.md",
       "research_level": "surface",
@@ -35404,7 +35404,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/j-rockett-audio-designs/45-caliber-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/J. Rockett Audio Designs/45 Caliber OD.md",
       "research_level": "surface",
@@ -35416,7 +35416,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/j-rockett-audio-designs/archer-ikon-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/J. Rockett Audio Designs/Archer Ikon OD.md",
       "research_level": "surface",
@@ -35452,7 +35452,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/j-rockett-audio-designs/dude-ods-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/J. Rockett Audio Designs/Dude ODS V2.md",
       "research_level": "surface",
@@ -35477,7 +35477,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jackson-audio/asabi-overdrive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Asabi Overdrive/Distortion.md",
       "research_level": "surface",
@@ -35489,7 +35489,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jackson-audio/belle-starr-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Belle Starr Overdrive.md",
       "research_level": "surface",
@@ -35501,7 +35501,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jackson-audio/broken-arrow-v2-midi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/BROKEN ARROW V2 - MIDI.md",
       "research_level": "surface",
@@ -35513,7 +35513,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/jackson-audio/classic-vintage-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Classic Vintage Fuzz.md",
       "research_level": "surface",
@@ -35525,7 +35525,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/jackson-audio/fuzz-modular-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/FUZZ - Modular Fuzz.md",
       "research_level": "surface",
@@ -35621,7 +35621,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/jam-pedals/black-fuzz-phrase-ltd/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Black Fuzz Phrase LTD.md",
       "research_level": "surface",
@@ -35646,7 +35646,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/jam-pedals/eureka/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Eureka!.md",
       "research_level": "surface",
@@ -35658,7 +35658,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/jam-pedals/fuzz-phrase-ltd/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Fuzz Phrase ltd.md",
       "research_level": "surface",
@@ -35670,7 +35670,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/jam-pedals/fuzz-phrase-si/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Fuzz Phrase Si.md",
       "research_level": "surface",
@@ -35837,7 +35837,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/3-series-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/3 Series Distortion.md",
       "research_level": "surface",
@@ -35850,7 +35850,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/3-series-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/3 Series Fuzz.md",
       "research_level": "surface",
@@ -35862,7 +35862,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/3-series-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/3 Series Overdrive.md",
       "research_level": "surface",
@@ -35874,7 +35874,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/3-series-screamer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/3 Series Screamer.md",
       "research_level": "surface",
@@ -35887,7 +35887,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/424-gain-stage/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/424 Gain Stage.md",
       "research_level": "surface",
@@ -36325,7 +36325,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/jptr-fx/bleach-seattle-guitar-destroyer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JPTR FX/Bleach - Seattle Guitar Destroyer.md",
       "research_level": "surface",
@@ -36337,7 +36337,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jptr-fx/deluxe-jive-reel-saturator-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JPTR FX/DELUXE Jive - Reel Saturator Overdrive.md",
       "research_level": "surface",
@@ -36349,7 +36349,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/jptr-fx/katastrophe-sludgefest-dominator-distortion-pre-amp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JPTR FX/Katastrophe - Sludgefest Dominator Distortion Pre Amp.md",
       "research_level": "surface",
@@ -36373,7 +36373,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/jptr-fx/silvermachine-dual-gain-stage-fuzz-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JPTR FX/Silvermachine - Dual-gain-stage Fuzz Pedal.md",
       "research_level": "surface",
@@ -36433,7 +36433,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/katanasound/furious-man-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Katanasound/Furious Man Fuzz.md",
       "research_level": "deep",
@@ -36445,7 +36445,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/katanasound/kamikaze-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Katanasound/Kamikaze Overdrive.md",
       "research_level": "deep",
@@ -36481,7 +36481,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/katanasound/super-bass-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Katanasound/Super Bass Octave Fuzz.md",
       "research_level": "surface",
@@ -36494,7 +36494,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/katanasound/thundercloud-overdrive-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Katanasound/Thundercloud Overdrive Fuzz.md",
       "research_level": "deep",
@@ -36530,7 +36530,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/1962-british-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/1962 British Overdrive.md",
       "research_level": "deep",
@@ -36543,7 +36543,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/1962-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/1962 Overdrive.md",
       "research_level": "surface",
@@ -36555,7 +36555,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/1962x-2-mode-limited-british-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/1962X 2-Mode Limited British Overdrive.md",
       "research_level": "surface",
@@ -36580,7 +36580,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/aria-compressor-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Aria Compressor Drive.md",
       "research_level": "surface",
@@ -37067,7 +37067,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/abyss/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Abyss.md",
       "research_level": "surface",
@@ -37080,7 +37080,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/abyss-bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Abyss — bass overdrive.md",
       "research_level": "surface",
@@ -37092,7 +37092,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/ascendancy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Ascendancy.md",
       "research_level": "surface",
@@ -37104,7 +37104,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/ascendancy-dual-dirt-pedal-with-overdrive-sections/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Ascendancy — dual dirt pedal with overdrive sections.md",
       "research_level": "surface",
@@ -37117,7 +37117,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/dark-blood/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Dark Blood.md",
       "research_level": "surface",
@@ -37578,7 +37578,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/king-tone-guitar/duellist/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/King Tone Guitar/Duellist.md",
       "research_level": "surface",
@@ -37590,7 +37590,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/king-tone-guitar/duellist-v3/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/King Tone Guitar/Duellist V3.md",
       "research_level": "surface",
@@ -37602,7 +37602,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/king-tone-guitar/heavyhand/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/King Tone Guitar/Heavyhand.md",
       "research_level": "surface",
@@ -37614,7 +37614,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/king-tone-guitar/soloist/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/King Tone Guitar/Soloist.md",
       "research_level": "surface",
@@ -37627,7 +37627,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/kma-machines/chief-disruptor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Chief Disruptor.md",
       "research_level": "surface",
@@ -37640,7 +37640,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/kma-machines/dead-stag/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Dead Stag.md",
       "research_level": "surface",
@@ -37652,7 +37652,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/kma-machines/fuzzly-bear/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Fuzzly Bear.md",
       "research_level": "surface",
@@ -37664,7 +37664,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/kma-machines/fuzzly-bear-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Fuzzly Bear 2.md",
       "research_level": "surface",
@@ -37786,7 +37786,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/11-11/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/11/11.md",
       "research_level": "surface",
@@ -37798,7 +37798,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/11-11-evr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/11/11 EVR.md",
       "research_level": "deep",
@@ -37810,7 +37810,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/6-6/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/6/6.md",
       "research_level": "deep",
@@ -37822,7 +37822,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/9-9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/9/9.md",
       "research_level": "deep",
@@ -38028,7 +38028,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lichtlaerm-audio/gehenna/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Gehenna.md",
       "research_level": "surface",
@@ -41093,7 +41093,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/rounder/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Rounder.md",
       "research_level": "surface",
@@ -41153,7 +41153,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/superlative/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Superlative.md",
       "research_level": "surface",
