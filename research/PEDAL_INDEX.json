@@ -18392,8 +18392,8 @@
       "research_record": "./research/pedals/PRP Batch 150/caroline-guitar-company-aaron-graves-overdrive.md",
       "image_source_page": "https://www.cottonwoodmusicemporium.com/products/caroline-guitar-aaron-graves-overdrive-versatile-preamp-drive-pedal",
       "image_source_url": "https://www.cottonwoodmusicemporium.com/cdn/shop/files/full_11751eef-b442-4954-b1e4-e1a7dabcdbf0_1600x.jpg?v=1779822108",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caroline Guitar Company",
@@ -43696,8 +43696,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Phaez Amplification/Octopus.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Phaez Amplification",
@@ -46412,8 +46412,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Liquid Sunshine.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Subdecay",
