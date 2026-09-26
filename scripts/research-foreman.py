@@ -27,8 +27,11 @@ def host(url):
     m=re.match(r"https?://([^/]+)",url or "")
     return (m.group(1).lower() if m else "")
 
-def identity_ok(builder,pedal,title,h1,excerpt=""):
-    hay=norm(str(title or "")+" "+str(h1 or "")+" "+str(excerpt or ""))
+def identity_ok(builder,pedal,title,h1,excerpt="",url=""):
+    # Include the exact source URL in the identity check. This matters for
+    # manuals and archived PDFs whose filename carries the model name while
+    # the parsed document title/body is sparse or binary.
+    hay=norm(str(title or "")+" "+str(h1 or "")+" "+str(excerpt or "")+" "+str(url or ""))
     variants=[str(pedal or "").strip()]
     core=re.split(r"\\s+—\\s+",str(pedal or "").strip(),maxsplit=1)[0].strip()
     if core and core not in variants:
@@ -77,7 +80,7 @@ def main():
                 title=s.get("title","")
                 h1=s.get("h1","")
                 excerpt=s.get("excerpt",s.get("bodyExcerpt",""))
-                if exact and identity_ok(b,p,title,h1,excerpt):
+                if exact and identity_ok(b,p,title,h1,excerpt,s.get("url","")):
                     seen.add(h)
                     good.append({
                         "url":s.get("url"),
