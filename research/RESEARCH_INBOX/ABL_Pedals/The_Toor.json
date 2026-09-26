@@ -1,0 +1,12 @@
+{
+  "builder":"ABL Pedals",
+  "pedal":"The Toor",
+  "status":"VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count":1,
+  "sources":[
+    {"url":"archive://research/pedals/ABL%20Pedals/The%20Toor.md","title":"Existing exact-model ABL Pedals research evidence retained in archive","source_kind":"archive_record"}
+  ],
+  "verified_points":["four controls: Volume, Sustain, Tone, Mids","Op-Amp Muff-style fuzz identity","TL074 quad op amp documented"],
+  "unknowns":["exact clipping diode devices","schematic/component values","formal hardware revision history"],
+  "next_action":"Merge deep research status through the canonical research pipeline."
+}
