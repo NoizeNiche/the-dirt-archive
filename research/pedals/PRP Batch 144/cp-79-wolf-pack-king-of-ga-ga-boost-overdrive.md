@@ -15,3 +15,21 @@
   - https://www.effectsdatabase.com/model/caline/cpxx/cp79
   - https://www.efectomusica.cl/caline-wolfpack-boost-overdrive-cp-79
   - https://www.effectsdatabase.com/model/caline/cpxx/cp49
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-79 Wolf Pack / King Of Ga-Ga - Boost/Overdrive is cataloged as an overdrive pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Caline CP-79 Wolf Pack / King Of Ga-Ga - Boost/Overdrive
+Tube screamer is a very powerful tone-shaping tool and an internal supply voltage step-up that allows more dynamic range and headroom with tight bass tones.
+It is also a great low to medium gain overdrive and great clean boost.
+
+### Sources checked in this pass
+1. Caline CP-79 Wolf Pack / King Of Ga-Ga - Boost/Overdrive | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp79

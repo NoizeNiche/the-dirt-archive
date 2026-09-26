@@ -36,3 +36,18 @@ DigiTech DigiTech distortion series browse by type distortion/fuzz/overdrive dis
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+2:43 2020-09-18 The Wetter Bass Guitar overdrive pedal for Bass?
+
+### Verified sound evidence
+DigiTech DSB Screamin Blues Overdrive/Distortion
+Blues players in particular will love how the Screamin' Blues gives them total control of their tone.
+Playing lightly gives you a mild overdrive, but dialing up the gain and digging in hard will make the Screamin' Blues sing with ultra-rich harmonics and sustain.
+
+### Sources checked in this pass
+1. DigiTech DSB Screamin Blues Overdrive/Distortion | Effects Database: https://www.effectsdatabase.com/model/digitech/distortion/screaminblues

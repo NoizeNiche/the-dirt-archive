@@ -39,3 +39,19 @@ Go from a light overdrive to all out Stonerrock Fuzz or morph in between.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DigiTech's X-Series Bass Driver is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+Go from a light overdrive to all out Stonerrock Fuzz or morph in between.
+
+### Sources checked in this pass
+1. DigiTech X-Series Bass Driver Overdrive/Distortion - Reverb: https://reverb.com/p/digitech-x-series-bass-driver-overdrive-slash-distortion
+2. Digitech X-Series Bass Driver - TalkBass.com: https://www.talkbass.com/threads/digitech-x-series-bass-driver.113968/
+3. DigiTech X-Series Bass Driver: http://www.thestompbox.com/overdrive-pedals/digitech-x-series-bass-driver
+4. DigiTech X-Series Bass Driver Overdrive/Distortion 2010s Burgundy: https://bucketlistguitars.com/product/digitech-x-series-bass-driver-overdrive-distortion-2010s-burgundy-4/

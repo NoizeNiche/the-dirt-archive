@@ -1,23 +1,38 @@
 # Friedman Amplification — Dirty Shirley Pedal
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Dirty Shirley Pedal
 - **Builder:** Friedman Amplification
-- **Pedal:** Dirty Shirley Pedal
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Friedman Amplification's Dirty Shirley Pedal.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Dirty Shirley Pedal** by **Friedman Amplification** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+ Ready for your rig The Dirty Shirley Overdrive pedal delivers tube-like tone in a small pedal format which can be used either into a clean amp or to boost an already over-driven amp.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+$ 199.99 In stock DIRTY SHIRLEY PEDAL quantity Add to cart z flexible and touch-responsive Just like the original Dirty Shirley, with this Amp In A Box pedal you get the same tonal versatility, sensitivity and harmonically rich overdrive you love in the amp.
+ British rock at its best Though the Dirty Shirley overdrive can scream with an unabashedly rock ‘n’ roll voice, you’ll be surprised at how truly versatile it is.
+ Ready for your rig The Dirty Shirley Overdrive pedal delivers tube-like tone in a small pedal format which can be used either into a clean amp or to boost an already over-driven amp.
+
+## Sources checked
+1. DIRTY SHIRLEY PEDAL | Friedman Amplification: https://friedmanamplification.com/shop/pedals/dirty-shirley-pedal/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

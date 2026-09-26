@@ -15,3 +15,19 @@
   - https://www.effectsdatabase.com/model/caline/cpxx/cp68
   - https://www.rockboard.de/en/pedalPedia/Caline/CP-68-Distortion-Delay/68976423/
   - https://jollymusic.com.ph/products/caline-cp-68-distortion-and-delay-guitar-effect-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-68 Distortion + Delay is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified sound evidence
+All-round high-gain distortion with excellent dynamic response and definition.
+
+### Sources checked in this pass
+1. Caline CP-68 Distortion + Delay | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp68
