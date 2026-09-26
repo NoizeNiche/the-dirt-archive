@@ -4,37 +4,42 @@
 - **Archive parent:** The Szczur
 - **Builder:** ABL Pedals
 - **Catalog type:** Overdrive
-- **Identity:** ABL Pedals' late-1970s rodent-style distortion interpretation.
+- **Identity:** ABL Pedals' hand-built late-1970s rodent-style distortion interpretation.
 
 ## What this pedal is
-The Szczur is ABL's take on the classic late-1970s Rat-style medium-to-high-gain distortion. Angus describes adding more bass at the front of the circuit and changing the clipping network and filter sweep rather than simply copying the original. [1]
+ABL describes The Szczur as its take on the classic late-1970s rodent-style medium-to-high-gain distortion. The builder deliberately changes the circuit response by letting more bass through at the front, altering the clipping network, and modifying the filter response. [1]
 
-## Colorways
-- The builder describes it as a take on the classic **little black box**, and surviving product imagery shows a black enclosure. [1]
+## Controls
+- **Volume:** output level
+- **Gain:** distortion amount
+- **Filter:** low-pass filter, darker/thicker clockwise and brighter/more cutting counter-clockwise. [1]
 
-## Versions and factory options
-### The Szczur production
-- Volume
-- Gain
-- Filter
-- asymmetrical clipping
-- added germanium diode in the clipping network
-- modern OP07 op amp rather than the fabled LM308
-- true bypass
-- 9V center-negative operation
-- hand-built in Glasgow [1][2]
+## Circuit / components
+ABL explicitly documents:
+- **OP07** op amp rather than the historically associated LM308,
+- asymmetrical clipping,
+- added **Germanium diode** in the clipping arrangement,
+- an all-analogue circuit. [1]
 
-## Version changes
-No numbered factory revision was verified. The important design distinction is that the Szczur deliberately changes the input low-end, clipping arrangement and filter response from the classic circuit. [1]
+The exact diode part numbers are not documented in the checked source.
 
-## Transistor
-- **Technology:** Op-amp-based distortion.
-- **Exact active device:** **OP07** op amp documented by ABL; this is not a transistor specification. [2]
+- **Technology:** Op-amp-based analog distortion.
+- **Active IC:** OP07.
+- **Diode:** Asymmetrical clipping with a germanium diode documented; exact diode part number unknown.
+- **Schematic/component values:** Not verified.
 
-## Diode
-- **Type:** **Asymmetrical clipping using Germanium and Silicon diodes.** [1][2]
-- **Exact diode/device:** Individual part numbers not publicly documented.
+## Construction
+ABL describes the pedal as handbuilt in **Glasgow, Scotland**, with true-bypass switching, a 9V center-negative Boss-style supply and no battery. Current draw is documented as 2 mA. [1]
 
 ## Sound
-The extra low end at the front makes the Szczur feel larger and fuller than a leaner original-style Rat, while the mixed Germanium/Silicon clipping gives the distortion a softer, thicker edge. The Filter control was also adjusted for a smoother sweep, moving the sound from brighter and more cutting to darker and heavier. [1]
+The added low-frequency content at the circuit input gives The Szczur a fuller foundation, while the asymmetric clipping and altered filter sweep are intended to make the distortion thicker and smoother than a stock-style reproduction. The Filter control is the main high/low contour tool. [1]
 
+## Version history
+No numbered factory revision was verified. The important identity feature is the builder's deliberate circuit deviation from the classic rodent-style reference rather than a formal V1/V2 sequence. [1]
+
+## Sources checked
+1. Effects Database — ABL Pedals The Szczur: https://www.effectsdatabase.com/model/abl/szczur
+
+## Photo
+- **Archive status:** Photo handling remains separate from this research pass.
+- **Identity rule:** Do not substitute imagery from other ABL Pedals models.
