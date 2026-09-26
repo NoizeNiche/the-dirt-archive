@@ -4,38 +4,37 @@
 - **Archive parent:** The Toor
 - **Builder:** ABL Pedals
 - **Catalog type:** Fuzz
-- **Identity:** ABL Pedals' Op-Amp Muff-style fuzz.
+- **Identity:** ABL Pedals' four-control Op-Amp Muff-style fuzz.
 
 ## What this pedal is
-The Toor is ABL's modern take on an Op-Amp Big Muff-style fuzz. Independent coverage identifies the circuit around a **TL074 quad op amp**, with a fourth control for mids added to the classic Volume, Sustain and Tone arrangement. [1][2]
+The Toor is cataloged as an **Op-Amp Muff-style fuzz** with a four-control layout. The preserved archive evidence identifies a **TL074 quad op amp** and a dedicated Mids control added to Volume, Sustain and Tone. [1]
 
-## Colorways
-- Surviving product imagery shows a **black enclosure** with ABL artwork.
-- Cosmetic differences are not treated as circuit versions.
+## Controls
+- **Volume**
+- **Sustain**
+- **Tone**
+- **Mids** [1]
 
-## Versions and factory options
-### The Toor production
-- Volume
-- Sustain
-- Tone
-- Mids
-- Op-Amp Muff-style architecture
-- TL074 quad op amp
-- hand-built ABL construction [1][2]
+The Mids control is the main departure from the familiar three-control Muff layout, allowing the player to bring the fuzz forward rather than leaving the response permanently scooped.
 
-No numbered factory revision was verified.
+## Circuit / components
+The preserved exact-model evidence identifies the core active device as a **TL074 quad op amp**. [1]
 
-## Version changes
-No reliable numbered production revision sequence was found. The key identity is the four-control Op-Amp Muff format rather than a sequence of numbered versions.
-
-## Transistor
 - **Technology:** Op-amp-based fuzz.
-- **Exact active device:** **TL074 quad op amp** documented in outside coverage. [2]
-
-## Diode
-- **Type:** Exact production clipping diode(s) are not publicly documented.
-- **Exact diode/device:** Unknown.
+- **Active IC:** TL074 quad op amp.
+- **Transistor:** Not the primary gain technology; exact supporting devices unknown.
+- **Diode:** Exact production clipping devices not publicly verified.
+- **Schematic/component values:** Not verified.
 
 ## Sound
-The Toor keeps the thick, sustaining wall of an Op-Amp Muff but adds a dedicated Mids control so the fuzz can stay more present in a mix. That extra mid shaping lets it move from big, scooped sustain toward a more forward and cutting fuzz sound. [1][2]
+The Toor is intended to retain the thick, sustaining character associated with an Op-Amp Muff while adding midrange control for better placement in a mix. More conservative settings can retain a broad, scooped fuzz character; increasing Mids brings the effect forward. [1]
 
+## Version history
+No numbered factory hardware revision was verified in the archive evidence. The parent identity is therefore retained as a single model.
+
+## Sources checked
+1. Existing exact-model ABL Pedals research evidence retained in the archive.
+
+## Photo
+- **Archive status:** Photo handling remains separate from this research pass.
+- **Identity rule:** Use only an image confirmed as ABL Pedals The Toor, not another Muff-style ABL pedal.
