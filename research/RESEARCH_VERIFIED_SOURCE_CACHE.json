@@ -53,6 +53,20 @@
           "excerpt": "The exact Japanese historical listing identifies an AMT Electronics Rammstein distortion product in the company's distortion lineup. This source is used as the second independent exact-model source for the archive's Rammstein RD Distortion Combo Emulator identity."
         }
       ]
+    },
+    {
+      "builder": "AMtech Handwired",
+      "pedal": "Destroyer",
+      "sources": [
+        {
+          "url": "https://www.amtechhandwired.com/?page_id=732",
+          "host": "www.amtechhandwired.com",
+          "source_kind": "manufacturer",
+          "title": "AMTECH-HANDWIRED / SARINTEN PEDALS — Destroyer",
+          "h1": "Destroyer",
+          "excerpt": "Destroyer is an analog distortion designed to cover a broad range from clean/low-gain drive through overdrive, crunch and heavy distortion. The builder documents independent BOOST and LEAD functions plus an independent cabinet simulator and true bypass. The pedal uses a GAIN control and a multi-position toggle system with tight/basic and fat-mode choices. The builder presents a wide-range analog distortion that can move from relatively clean operation through overdrive and crunch into heavy, punchy gain, with emphasis on picking response, string clarity, and fat American-style through leaner British-style character."
+        }
+      ]
     }
   ]
 }
