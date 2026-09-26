@@ -1,0 +1,14 @@
+{
+  "builder":"A/DA (Analog/Digital Associates)",
+  "pedal":"MP-1 Channel",
+  "status":"VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count":3,
+  "sources":[
+    {"url":"https://www.effectsdatabase.com/model/ada/mp1/channel","title":"A/DA MP-1 Channel | Effects Database","source_kind":"effects_database"},
+    {"url":"https://www.electroharmonix.co.jp/ada/mp1channel.html","title":"ADA MP-1 Channel | Japanese distributor","source_kind":"distributor"},
+    {"url":"https://www.manualslib.com/manual/1568507/Ada-Mp-1-Channel.html","title":"ADA MP-1-CHANNEL User Manual","source_kind":"manual"}
+  ],
+  "verified_points":["two 12AX7 vacuum tubes","270V internal high-voltage supply from 12VDC adapter","OD1 and OD2 gain controls","Bass/Mid/Treble/Presence tone controls","Master","Clean/Distortion voicing","true bypass","instrument-level operation"],
+  "unknowns":["exact supporting semiconductor devices","complete formal hardware revision history"],
+  "next_action":"Merge deep research status through the canonical research pipeline; keep MP-1-CHANNEL distinct from the original rack MP-1."
+}
