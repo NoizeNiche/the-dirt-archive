@@ -1,0 +1,15 @@
+{
+  "builder":"A.Y.A",
+  "pedal":"BM-Fuzz 70",
+  "status":"VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count":4,
+  "sources":[
+    {"url":"https://www.effectsdatabase.com/model/aya/bmfuzz70","title":"A.Y.A BM-Fuzz 70 | Effects Database","source_kind":"effects_database"},
+    {"url":"https://toy-love.hatenablog.com/entry/20130602/1370169646","title":"国産ハンドメイドエフェクター特集 Vol.9 - A.Y.A Tokyo Japan","source_kind":"secondary_review"},
+    {"url":"https://toy-love.hatenablog.com/entry/20120604/1338819695","title":"Big Muff系ファズペダル特集","source_kind":"secondary_review"},
+    {"url":"https://aya.la.coocan.jp/about_jap.html","title":"AYA tokyo japanとは","source_kind":"manufacturer"}
+  ],
+  "verified_points":["Fuzz, Tone and Level controls","1970s Big Muff/Ram's Head-oriented voicing","carbon-composition resistors reported for the BM-Fuzz family","Fairchild/Vishay/Sprague/AVX component references","BELDEN internal wiring and KESTER solder references","BM-Fuzz 70 and 80 are separate catalog identities"],
+  "unknowns":["exact transistor part number","diode type","schematic and component values","factory release date"],
+  "next_action":"Merge deep research status through the canonical research pipeline; do not hand-edit the derived queue."
+}
