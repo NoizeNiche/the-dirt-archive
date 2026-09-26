@@ -17,7 +17,8 @@ INBOX=Path("research/RESEARCH_INBOX")
 INDEX=Path("research/PEDAL_INDEX.json")
 
 def norm(v):
-    return re.sub(r"\s+"," ",re.sub(r"[^a-z0-9]+"," ",str(v or "").lower())).strip()
+    safe = str(v or "").encode("utf-8", "backslashreplace").decode("utf-8")
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", safe.lower())).strip()
 
 def slug(v):
     return re.sub(r"[^A-Za-z0-9]+","_",str(v or "").strip()).strip("_")[:120] or "unknown"
