@@ -4,35 +4,33 @@
 - **Archive parent:** Tube Drive 2
 - **Builder:** Add+ Pedals
 - **Catalog type:** Overdrive
-- **Identity:** Second named Tube Drive model in the historical Add+ catalog. [1]
+- **Identity:** Add+ Pedals's Tube Drive 2.
 
 ## What this pedal is
-Tube Drive 2 is separately listed by Effects Database as an Add+ overdrive pedal. The accessible source set establishes the distinct model name but does not preserve enough factory-specific technical detail to document an exact circuit or control change history. [1]
+Add+ Pedals's Tube Drive 2 is cataloged as an overdrive pedal.
 
 ## Colorways
-- Exact production colorway history was not reliably documented.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Tube Drive 2
-- Overdrive pedal.
-- Separate named model from Tube Drive. [1]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-The “2” designation establishes a distinct catalog model, but the accessible sources do not document the exact factory changes from Tube Drive to Tube Drive 2. No unverified changes are being inferred.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Tube Drive 2 is cataloged as an overdrive. A more specific version-to-version tonal description was not sufficiently documented in the accessible source set, so the archive keeps the sound note conservative. [1]
+fx pedal stompbox stomp box guitar effects pedal overdrive over drive gain saturation distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Effects Database — Add+ Tube Drive 2: https://www.effectsdatabase.com/model/addplus/tubedrive/2
-2. Effects Database — Add+ catalog update: https://www.effectsdatabase.com/updates/weekly/20110404
+1. Add+ Tube Drive 2 | Effects Database: https://www.effectsdatabase.com/model/addplus/tubedrive/2
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database page above.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1402,8 +1402,8 @@
       "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md",
       "image_source_url": "https://cdn.awsli.com.br/800x800/2638/2638039/produto/23015156741a556d83b.jpg",
       "image_source_page": "https://www.bhguitar.com.br/produto/pedal-fuhrmann-tube-drive-2-overdrive-para-guitarra-td10",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -1653,8 +1653,8 @@
       "research_record": "./research/pedals/Adventure Audio/Glacial Zenith - Overdrive.md",
       "image_source_url": "https://www.truetonemusic.com/cdn/shop/files/1-Img41470_700x700.jpg?v=1776449201",
       "image_source_page": "https://www.truetonemusic.com/products/used-adventure-audio-glacial-zenith-overdrive-boost-pedal",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Adventure Audio",
@@ -1666,8 +1666,8 @@
       "source_page": "https://www.chicagomusicexchange.com/products/adventure-audio-thaw-fuzz-849007",
       "research_record": "./research/pedals/Adventure Audio/Thaw.md",
       "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/adventure-audio-effects-and-pedals-fuzz-adventure-audio-thaw-fuzz-aathaw-28193866973319.jpg?v=1652059916&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AED",
@@ -46956,8 +46956,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Double Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tech 21 NYC",

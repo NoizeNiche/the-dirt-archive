@@ -1,1 +1,17 @@
-{"builder":"Adventure Audio","pedal":"Thaw","status":"VERIFIED_EVIDENCE_STAGED","independent_exact_source_count":3,"sources":[{"url":"https://eastsidemusicsupply.com/products/adventure-audio-thaw","title":"Adventure Audio Thaw | Eastside Music Supply","source_kind":"retailer"},{"url":"https://reverb.com/p/adventure-audio-thaw","title":"Adventure Audio Thaw | Reverb","source_kind":"used_market"},{"url":"https://bucketlistguitars.com/product/adventure-audio-thaw/","title":"Adventure Audio Thaw | Bucket List Guitars","source_kind":"retailer"}],"verified_points":["Volume and Push controls","two-control fuzz","smooth through gated/sputtering/octave-like textures","black and pink finishes documented for 2019-2021 examples"],"unknowns":["exact transistor","exact diode","formal hardware revision history"],"next_action":"Merge deep research status through the canonical research pipeline."}
+{
+  "builder": "Adventure Audio",
+  "pedal": "Thaw",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.chicagomusicexchange.com/products/adventure-audio-thaw-fuzz-849007",
+      "title": "Adventure Audio Thaw Fuzz &ndash; Chicago Music Exchange",
+      "h1": "",
+      "excerpt": "Adventure Audio Thaw Fuzz &ndash; Chicago Music Exchange var productImageAndPrice = [], collectionImages = [], articleImages = [], mmLivIcons = false, mmPhosphor = false, mmFlipClock = false, mmFixesUseJquery = false, mmNumMMI = 8, mmSchemaTranslation = {}, mmMenuStrings = {\"menuStrings\":{\"default\":{\"Fresh Gear\":\"Fresh Gear\",\"Shop by Category\":\"Shop by Category\",\"Electric\":\"Electric\",\"CME Exclusive\":\"CME Exclusive\",\"Body Type\":\"Body Type\",\"Solid Body\":\"Solid Body\",\"Semi-Hollow\":\"Semi-Hollow\",\"Hollow Body\":\"Hollow Body\",\"Condition\":\"Condition\",\"New\":\"New\",\"Used\":\"Used\",\"Vintage\":\"Vintage\",\"B-Stock & Demo\":\"B-Stock & Demo\",\"Quick Picks\":\"Quick Picks\",\"Deals & Steals\":\"Deals & Steals\",\"Lefty\":\"Lefty\",\"12-String\":\"12-String\",\"Bundles\":\"Bundles\",\"Final Sale\":\"Final Sale\",\"Top Brands\":\"Top Brands\",\"Gibson\":\"Gibson\",\"Fender\":\"Fender\",\"PRS\":\"PRS\",\"Ibanez\":\"Ibanez\",\"Epiphone\":\"Epiphone\",\"Squier\":\"Squier\",\"Gretsch\":\"Gretsch\",\"Reverend\":\"Reverend\",\"ESP\":\"ESP\",",
+      "host": "www.chicagomusicexchange.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

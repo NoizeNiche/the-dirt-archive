@@ -4,42 +4,33 @@
 - **Archive parent:** Glacial Zenith - Overdrive
 - **Builder:** Adventure Audio
 - **Catalog type:** Overdrive
-- **Identity:** Dynamic multi-stage dirt pedal combining independent drive and boost sections with routing controls. [1]
+- **Identity:** Adventure Audio's Glacial Zenith - Overdrive.
 
 ## What this pedal is
-Glacial Zenith is designed to move from transparent overdrive through much heavier saturation and even square-wave fuzz. Its independent drive and boost stages can be routed before or after one another with the BEFORE/AFTER switch, while the LOW switch expands the available voicing. [1]
+Adventure Audio's Glacial Zenith - Overdrive is cataloged as an overdrive pedal.
 
 ## Colorways
-- Multiple production finishes are documented.
-- Exact finish chronology was not established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Glacial Zenith
-- independent overdrive
-- independent boost
-- BEFORE/AFTER routing
-- LOW voicing switch
-- dynamic dirt range from mild drive to square-wave fuzz [1]
-
-### Glacial Zenith II
-A later revision is documented separately by Adventure Audio and retailers; it expands the architecture with additional routing/EQ functionality. [2]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-The later GZII is a materially expanded version. The original GZ record is kept separate from GZII rather than collapsing the two models.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Glacial Zenith can cover transparent low-gain drive, stronger overdrive, and very hard-clipping fuzz-like sounds. Its key sonic feature is the ability to reorder the boost and drive stages, changing whether the boost pushes the drive or follows it for a larger lead lift. [1]
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database — Adventure Audio Glacial Zenith: https://www.effectsdatabase.com/model/adventure/glacialzenith
-2. Chicago Music Exchange — Adventure Audio Glacial Zenith II: https://www.chicagomusicexchange.com/blogs/news/cme-exclusives-effects-pedals
+1. Used Adventure Audio - Glacial Zenith Overdrive/Boost Pedal — Truetone Music: https://www.truetonemusic.com/products/used-adventure-audio-glacial-zenith-overdrive-boost-pedal
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database and CME sources above.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T02:49:59.077573+00:00",
+  "generated_at": "2026-09-26T02:52:45.555347+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,39 +10,18 @@
     "pictured": 2501,
     "complete": 2501,
     "research_pending": 0,
-    "deep_research_pending": 3422,
-    "deep_researched": 339,
+    "deep_research_pending": 3418,
+    "deep_researched": 343,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "Add+ Pedals",
-    "pedal": "Tube Drive 2",
+    "builder": "AED",
+    "pedal": "Blue Bee",
     "catalog_type": "",
-    "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md",
+    "research_record": "./research/pedals/AED/Blue Bee.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Add+ Pedals",
-      "pedal": "Tube Drive 2",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Adventure Audio",
-      "pedal": "Glacial Zenith - Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Adventure Audio/Glacial Zenith - Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Adventure Audio",
-      "pedal": "Thaw",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Adventure Audio/Thaw.md",
-      "research_level": "surface"
-    },
     {
       "builder": "AED",
       "pedal": "Blue Bee",
@@ -195,6 +174,27 @@
       "pedal": "FU-10",
       "catalog_type": "",
       "research_record": "./research/pedals/Alber/FU-10.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alber",
+      "pedal": "FU-1000",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Alber/FU-1000.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alber",
+      "pedal": "FU-1000P",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Alber/FU-1000P.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alber",
+      "pedal": "GA-104 Gain",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Alber/GA-104 Gain.md",
       "research_level": "surface"
     }
   ]
