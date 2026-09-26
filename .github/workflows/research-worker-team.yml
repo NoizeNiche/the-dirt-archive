@@ -111,7 +111,20 @@ jobs:
           buckets={}
           for row in pending:
               buckets.setdefault((row["builder"][:1] or "#").upper(),[]).append(row)
+
           targets=[]
+          # Always carry the canonical frontier's first pending target into
+          # the next bounded pass. This prevents a stubborn exact-model record
+          # from being starved by broad alphabetical round-robin scheduling.
+          if pending:
+              frontier_target=pending[0]
+              targets.append(frontier_target)
+              bucket_key=(frontier_target["builder"][:1] or "#").upper()
+              buckets[bucket_key]=[
+                  r for r in buckets.get(bucket_key, [])
+                  if not (r["builder"]==frontier_target["builder"] and r["pedal"]==frontier_target["pedal"])
+              ]
+
           letters=sorted(buckets)
           while len(targets)<140 and any(buckets.values()):
               progressed=False
