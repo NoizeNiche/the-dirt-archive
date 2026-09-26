@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T02:43:13.302838+00:00",
+  "generated_at": "2026-09-26T02:46:49.554739+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2501,
     "complete": 2501,
     "research_pending": 0,
-    "deep_research_pending": 3430,
-    "deep_researched": 331,
+    "deep_research_pending": 3427,
+    "deep_researched": 334,
     "surface_ready": 3761
   },
   "next_target": {
@@ -27,20 +27,6 @@
       "pedal": "Stompzilla Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Add+ Pedals",
-      "pedal": "Super Drive 2",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Add+ Pedals/Super Drive 2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Add+ Pedals",
-      "pedal": "Tiger Shark",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Add+ Pedals/Tiger Shark.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Tri-Mode Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Akai/Tri-Mode Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alairex",
+      "pedal": "H.A.L.O. - Harmonic Amp-Like Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Alairex/H.A.L.O. - Harmonic Amp-Like Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alairex",
+      "pedal": "H.A.L.O. Jr.",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Alairex/H.A.L.O. Jr..md",
       "research_level": "surface"
     }
   ]

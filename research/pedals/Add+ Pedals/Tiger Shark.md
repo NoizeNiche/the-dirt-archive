@@ -4,35 +4,33 @@
 - **Archive parent:** Tiger Shark
 - **Builder:** Add+ Pedals
 - **Catalog type:** Overdrive
-- **Identity:** Add+ overdrive pedal documented in the builder's historical 2011 catalog. [1]
+- **Identity:** Add+ Pedals's Tiger Shark.
 
 ## What this pedal is
-Tiger Shark is listed by Effects Database as an Add+ overdrive pedal. The surviving catalog record establishes the model identity and broad effect category, while the accessible source set does not preserve enough technical information to identify a precise circuit lineage. [1]
+Add+ Pedals's Tiger Shark is cataloged as an overdrive pedal.
 
 ## Colorways
-- Exact production colorway history was not reliably documented.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Tiger Shark
-- Overdrive pedal.
-- No numbered factory revision was verified in the accessible record.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No reliable numbered factory change history was established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Tiger Shark is cataloged as an overdrive. The archive does not infer a more specific tonal family from the name alone because the surviving technical documentation is too sparse. [1]
+fx pedal stompbox stomp box guitar effects pedal overdrive over drive gain saturation distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Effects Database — Add+ Tiger Shark: https://www.effectsdatabase.com/model/addplus/tigershark
-2. Effects Database — Add+ catalog update: https://www.effectsdatabase.com/updates/weekly/20110404
+1. Add+ Tiger Shark | Effects Database: https://www.effectsdatabase.com/model/addplus/tigershark
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database page above.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

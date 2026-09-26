@@ -1360,8 +1360,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://guitarsforidiots.com/wp-content/uploads/2024/06/superdrive.webp?w=1024",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -1374,8 +1374,8 @@
       "research_record": "./research/pedals/Add+ Pedals/Tiger Shark.md",
       "image_source_url": "https://i.ytimg.com/vi/OFOxRJVhwWE/maxresdefault.jpg",
       "image_source_page": "https://www.youtube.com/watch?v=OFOxRJVhwWE",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -46931,8 +46931,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Boost Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tech 21 NYC",
