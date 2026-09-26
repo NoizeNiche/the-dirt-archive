@@ -1,11 +1,15 @@
 const PAGE_SIZE = 72;
 const initialParams=new URLSearchParams(location.search);
-let items=[];let allItems=[];let currentPage=Math.max(1,parseInt(initialParams.get('page')||'1',10)||1);let pedalImages=new Map();let variationSearchText=new Map();let selectedType=initialParams.get('type')||'All';let selectedBuilder=initialParams.get('builder')||'';let q=initialParams.get('q')||'';
+let items=[];let allItems=[];let currentPage=Math.max(1,parseInt(initialParams.get('page')||'1',10)||1);
+let pedalImages=new Map();let variationSearchText=new Map();
+let selectedType=initialParams.get('type')||'All';let selectedBuilder=initialParams.get('builder')||'';let q=initialParams.get('q')||'';
+let selectedTransistors=new Set((initialParams.get('transistor')||'').split(',').map(x=>x.trim()).filter(Boolean));
+let selectedClippings=new Set((initialParams.get('clipping')||'').split(',').map(x=>x.trim()).filter(Boolean));
+let facetRecords=new Map();let facetOptions={transistor:[],clipping:[]};
 if(!['All','Overdrive','Distortion','Fuzz'].includes(selectedType))selectedType='All';
 
-
 function hasActiveFilters(){
-  return selectedType!=='All'||Boolean(selectedBuilder)||Boolean(q);
+  return selectedType!=='All'||Boolean(selectedBuilder)||Boolean(q)||selectedTransistors.size>0||selectedClippings.size>0;
 }
 
 function renderFilterSummary(){
@@ -14,20 +18,25 @@ function renderFilterSummary(){
   const parts=[];
   if(selectedType!=='All')parts.push(selectedType);
   if(selectedBuilder)parts.push(selectedBuilder);
+  for(const value of selectedTransistors)parts.push(value+' transistor');
+  for(const value of selectedClippings)parts.push(value+' clipping');
   if(q)parts.push('Search: '+q);
   state.textContent=parts.length?parts.join(' · '):'All pedals';
 }
+
 function renderClearFilters(){
   const button=$('clearFilters');
   if(!button)return;
   button.hidden=!hasActiveFilters();
-  button.setAttribute('aria-label',hasActiveFilters()?'Clear search, dirt type, and builder filters':'Clear filters');
+  button.setAttribute('aria-label',hasActiveFilters()?'Clear all active filters':'Clear filters');
 }
 
 function clearFilters(){
   selectedType='All';
   selectedBuilder='';
   q='';
+  selectedTransistors.clear();
+  selectedClippings.clear();
   currentPage=1;
   $('search').value='';
   syncUrl(false);
@@ -45,6 +54,8 @@ function syncUrl(replace=true){
   const p=new URLSearchParams();
   if(selectedType!=='All')p.set('type',selectedType);
   if(selectedBuilder)p.set('builder',selectedBuilder);
+  if(selectedTransistors.size)p.set('transistor',[...selectedTransistors].join(','));
+  if(selectedClippings.size)p.set('clipping',[...selectedClippings].join(','));
   if(q)p.set('q',q);
   if(currentPage>1)p.set('page',currentPage);
   const target=p.toString()?('./index.html?'+p.toString()):'./index.html';
@@ -57,6 +68,8 @@ function readUrlState(){
   if(!['All','Overdrive','Distortion','Fuzz'].includes(selectedType))selectedType='All';
   selectedBuilder=params.get('builder')||'';
   q=params.get('q')||'';
+  selectedTransistors=new Set((params.get('transistor')||'').split(',').map(x=>x.trim()).filter(Boolean));
+  selectedClippings=new Set((params.get('clipping')||'').split(',').map(x=>x.trim()).filter(Boolean));
   currentPage=Math.max(1,parseInt(params.get('page')||'1',10)||1);
   $('search').value=q;
 }
@@ -64,7 +77,7 @@ function readUrlState(){
 function slugParams(x){ return detailUrl(x, null, selectedType); }
 
 function typeMatches(x){
-  return selectedType==='All'||x.types.includes(selectedType)
+  return selectedType==='All'||(x.types||[]).includes(selectedType);
 }
 
 function searchMatches(x){
@@ -74,11 +87,78 @@ function searchMatches(x){
   return (variationSearchText.get(entryKey(x))||'').includes(needle);
 }
 
+function facetValues(x,group){
+  return facetRecords.get(entryKey(x))?.[group]||[];
+}
+
+function hasSelectedFacet(x,group,selected){
+  if(!selected.size)return true;
+  const values=facetValues(x,group);
+  return [...selected].some(value=>values.includes(value));
+}
+
+function facetMatches(x){
+  return hasSelectedFacet(x,'transistor',selectedTransistors)&&hasSelectedFacet(x,'clipping',selectedClippings);
+}
+
+function matchesOtherFacets(x,exceptGroup){
+  return (!typeMatches(x)||!(!selectedBuilder||x.company===selectedBuilder)||!searchMatches(x))?false:
+    (exceptGroup==='transistor'||hasSelectedFacet(x,'transistor',selectedTransistors))&&
+    (exceptGroup==='clipping'||hasSelectedFacet(x,'clipping',selectedClippings));
+}
+
+function facetCount(group,option){
+  let count=0;
+  for(const x of items){
+    if(!matchesOtherFacets(x,group))continue;
+    if(facetValues(x,group).includes(option))count++;
+  }
+  return count;
+}
+
+function renderTechnicalFilters(){
+  const panel=$('technicalFilters');
+  if(!panel)return;
+  const hasRecords=facetRecords.size>0;
+  panel.hidden=!hasRecords;
+  if(!hasRecords)return;
+
+  const groups=[
+    ['transistor','Transistor',selectedTransistors],
+    ['clipping','Clipping',selectedClippings]
+  ];
+  for(const [group,label,selected] of groups){
+    const target=$(group==='transistor'?'transistorFacetOptions':'clippingFacetOptions');
+    if(!target)continue;
+    const options=facetOptions[group]||[];
+    target.innerHTML=options.map(option=>{
+      const count=facetCount(group,option);
+      const active=selected.has(option);
+      return '<button class="facetButton '+(active?'active':'')+'" type="button" data-facet-group="'+group+'" data-facet="'+esc(option)+'" aria-pressed="'+(active?'true':'false')" '+(count?'':'disabled')+'>'+
+        '<span class="facetName">'+esc(option)+'</span><span class="facetCount">'+count.toLocaleString()+'</span>'+
+      '</button>';
+    }).join('');
+  }
+
+  document.querySelectorAll('[data-facet-group]').forEach(button=>{
+    button.onclick=()=>{
+      const group=button.dataset.facetGroup;
+      const value=button.dataset.facet;
+      const selected=group==='transistor'?selectedTransistors:selectedClippings;
+      if(selected.has(value))selected.delete(value);else selected.add(value);
+      currentPage=1;
+      syncUrl(false);
+      render();
+    };
+  });
+}
+
 function builderRows(){
   const map=new Map();
   for(const x of items){
     if(!typeMatches(x))continue;
     if(q&&!searchMatches(x))continue;
+    if(!facetMatches(x))continue;
     map.set(x.company,(map.get(x.company)||0)+1);
   }
   return [...map.entries()].sort((a,b)=>a[0].localeCompare(b[0]));
@@ -104,7 +184,8 @@ function filteredItems(){
   const result=items.filter(x=>
     typeMatches(x)&&
     (!selectedBuilder||x.company===selectedBuilder)&&
-    searchMatches(x)
+    searchMatches(x)&&
+    facetMatches(x)
   );
   if(!q)return result;
   return result.sort((a,b)=>{
@@ -117,9 +198,9 @@ function filteredItems(){
 }
 
 function renderTypeMenu(){
-  const counts={All:new Set(items.map(x=>entryKey(x))).size};
+  const counts={All:new Set(items.filter(x=>facetMatches(x)).map(x=>entryKey(x))).size};
   for(const t of ['Overdrive','Distortion','Fuzz']){
-    counts[t]=new Set(items.filter(x=>x.types.includes(t)).map(x=>entryKey(x))).size;
+    counts[t]=new Set(items.filter(x=>(x.types||[]).includes(t)&&facetMatches(x)).map(x=>entryKey(x))).size;
   }
   const types=[
     ['All','Everything in the archive'],
@@ -147,7 +228,7 @@ function renderBuilders(){
   $('builderCount').textContent=rows.length+' builders';
   $('builderListCount').textContent=rows.length;
 
-  const allCount=items.filter(x=>typeMatches(x)&&searchMatches(x)).length;
+  const allCount=items.filter(x=>typeMatches(x)&&searchMatches(x)&&facetMatches(x)).length;
   let html='<button class="builder allBuilder '+(!selectedBuilder?'active':'')+'" data-builder="" aria-pressed="'+(!selectedBuilder?'true':'false')+'"><span class="builderName">All builders</span><span class="builderCount">'+allCount+'</span></button>';
   html+=rows.map(([name,count])=>
     '<button class="builder '+(selectedBuilder===name?'active':'')+'" data-builder="'+esc(name)+'" aria-pressed="'+(selectedBuilder===name?'true':'false')+'">'+
@@ -166,18 +247,19 @@ function renderBuilders(){
 
 function render(){
   let normalized=false;
-  if(selectedBuilder&&!items.some(x=>x.company===selectedBuilder&&typeMatches(x))){
+  if(selectedBuilder&&!items.some(x=>x.company===selectedBuilder&&typeMatches(x)&&searchMatches(x)&&facetMatches(x))){
     selectedBuilder='';
     normalized=true;
   }
   renderTypeMenu();
+  renderTechnicalFilters();
   renderBuilders();
   renderClearFilters();
   renderFilterSummary();
 
   const visible=filteredItems();
   const discoverButton=$('discoverPedal');
-  if(discoverButton) discoverButton.disabled=!visible.length;
+  if(discoverButton)discoverButton.disabled=!visible.length;
   const totalPages=Math.max(1,Math.ceil(visible.length/PAGE_SIZE));
   const normalizedPage=Math.min(currentPage,totalPages);
   if(normalizedPage!==currentPage){
@@ -187,18 +269,17 @@ function render(){
   const pageStart=(currentPage-1)*PAGE_SIZE;
   const pageItems=visible.slice(pageStart,pageStart+PAGE_SIZE);
 
-  // The builder total describes the current archive filter context,
-  // not the single builder selected for the result view.
-  const builderContext=items.filter(x=>typeMatches(x)&&searchMatches(x));
+  const builderContext=items.filter(x=>typeMatches(x)&&searchMatches(x)&&facetMatches(x));
   const builderCount=new Set(builderContext.map(x=>x.company)).size;
 
-  let title='All Pedals';
-  if(selectedType!=='All')title=selectedType;
-  if(selectedBuilder)title=selectedBuilder;
-  if(selectedBuilder&&selectedType!=='All')title=selectedBuilder+' · '+selectedType;
-  if(q)title='Search: '+q;
+  const titleParts=[];
+  if(q)titleParts.push('Search: '+q);
+  else if(selectedBuilder)titleParts.push(selectedBuilder);
+  if(selectedType!=='All')titleParts.push(selectedType);
+  for(const value of selectedTransistors)titleParts.push(value+' transistor');
+  for(const value of selectedClippings)titleParts.push(value+' clipping');
+  $('title').textContent=titleParts.length?titleParts.join(' · '):'All Pedals';
 
-  $('title').textContent=title;
   const rangeStart=visible.length?pageStart+1:0;
   const rangeEnd=Math.min(pageStart+PAGE_SIZE,visible.length);
   $('meta').textContent=(visible.length
@@ -209,7 +290,7 @@ function render(){
     ? pageItems.map(x=>
       (()=>{
         const img=pedalImages.get(entryKey(x));
-        const media=img && img.image
+        const media=img&&img.image
           ? '<div class="cardMedia"><img class="cardImage" src="'+esc(img.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" referrerpolicy="no-referrer" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><div class="cardPlaceholder" hidden>No Photo Archived</div></div>'
           : '<div class="cardPlaceholder">No Photo Archived</div>';
         return '<a class="card" href="'+slugParams(x)+'">'+
@@ -222,7 +303,7 @@ function render(){
         '</a>';
       })()
     ).join('')
-    : '<div class="empty"><strong>No pedals found</strong>Try another search, dirt type, or builder.</div>';
+    : '<div class="empty"><strong>No pedals found</strong>Try another search, dirt type, builder, or technical filter.</div>';
 
   renderPagination(totalPages);
   if(normalized)syncUrl(true);
@@ -241,7 +322,7 @@ $('search').oninput=e=>{
 };
 
 window.addEventListener('keydown',e=>{
-  if(e.key==='/' && document.activeElement?.tagName!=='INPUT' && document.activeElement?.tagName!=='TEXTAREA'){
+  if(e.key==='/'&&document.activeElement?.tagName!=='INPUT'&&document.activeElement?.tagName!=='TEXTAREA'){
     e.preventDefault();
     $('search')?.focus();
   }
@@ -251,7 +332,7 @@ function renderPagination(totalPages){
   const wrap=$('paginationWrap'),nav=$('pagination');
   if(totalPages<=1){wrap.hidden=true;nav.innerHTML='';return}
   wrap.hidden=false;
-  const pages=[]; const add=n=>pages.push(n);
+  const pages=[];const add=n=>pages.push(n);
   if(totalPages<=7){for(let n=1;n<=totalPages;n++)add(n)}
   else{
     add(1);
@@ -269,7 +350,7 @@ function renderPagination(totalPages){
   ).join('')+next;
   nav.querySelectorAll('[data-page]').forEach(btn=>btn.onclick=()=>{
     currentPage=Number(btn.dataset.page)||1;
-    syncUrl(false); render();
+    syncUrl(false);render();
     document.querySelector('.heroPanel')?.scrollIntoView({behavior:'smooth',block:'start'});
   });
 }
@@ -279,18 +360,21 @@ window.addEventListener('popstate',()=>{
   render();
 });
 
-loadCatalog()
-.then(data=>{
+Promise.all([loadCatalog(),loadFacets()])
+.then(([data,facets])=>{
   allItems=data.pedals||[];
   items=allItems.filter(isCatalogEntry);
-  // Build the card-photo map from canonical catalog entries only. When an old
-  // duplicate record exists, keep the entry that actually has a usable image
-  // instead of letting array order silently decide which photo wins.
+  facetRecords=new Map(Object.entries(facets?.records||{}));
+  facetOptions={
+    transistor:Array.isArray(facets?.options?.transistor)?facets.options.transistor:[],
+    clipping:Array.isArray(facets?.options?.clipping)?facets.options.clipping:[]
+  };
+
   pedalImages=new Map();
   for(const x of items){
     const key=entryKey(x);
     const current=pedalImages.get(key);
-    if(!current || (!current.image && x.image)) pedalImages.set(key,x);
+    if(!current||(!current.image&&x.image))pedalImages.set(key,x);
   }
   variationSearchText=new Map();
   for(const v of allItems.filter(x=>x.catalog_role==='variation')){
@@ -303,7 +387,7 @@ loadCatalog()
   $('pulsePedals').textContent=items.length.toLocaleString();
   $('pulseBuilders').textContent=builderTotal.toLocaleString();
   $('pulsePhotos').textContent=picturedTotal.toLocaleString();
-  const coverage=items.length ? (picturedTotal/items.length)*100 : 0;
+  const coverage=items.length?(picturedTotal/items.length)*100:0;
   $('pulseCoverage').textContent=coverage.toFixed(1)+'%';
 
   render();
