@@ -180,6 +180,10 @@ main{padding:24px 0 72px}
   padding-bottom:11px;
 }
 
+.filterSummary{display:none}
+.filterSummaryTitle{font-size:.68rem;font-weight:950;text-transform:uppercase;letter-spacing:.08em}
+.filterSummaryState{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#a8a69f;font-size:.62rem;font-weight:850}
+.filterDrawerBody{display:block}
 .clearFilters{
   width:100%;
   margin-top:8px;
@@ -491,6 +495,33 @@ main{padding:24px 0 72px}
     max-height:none;
     overflow:visible;
   }
+  .filterSummary{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+    min-height:46px;
+    padding:0 9px;
+    cursor:pointer;
+    list-style:none;
+    user-select:none;
+  }
+  .filterSummary::-webkit-details-marker{display:none}
+  .filterSummary::after{
+    content:'＋';
+    flex:0 0 auto;
+    color:#a8a69f;
+    font-size:1rem;
+    font-weight:700;
+    line-height:1;
+  }
+  .filterDrawer[open] .filterSummary::after{content:'−'}
+  .filterDrawer[open] .filterSummary{
+    margin-bottom:4px;
+    border-bottom:1px solid #343430;
+  }
+  .filterDrawerBody{display:none}
+  .filterDrawer[open] .filterDrawerBody{display:block}
   .builderList{max-height:260px}
 }
 @media(max-width:620px){
