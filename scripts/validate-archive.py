@@ -85,6 +85,13 @@ def main():
     for entry in pedals:
         k = pair(entry.get("company"), entry.get("pedal"))
         record = entry.get("research_record") or ""
+        level = str(entry.get("research_level") or "").strip().lower()
+        if not record:
+            raise SystemExit(f"Catalog pedal has no surface/deep research record: {k}")
+        if level not in {"surface", "researched", "deep"}:
+            raise SystemExit(f"Catalog pedal has invalid research level: {k} -> {level}")
+        if level == "surface" and "Surface catalog record" not in local(record).read_text(encoding="utf-8", errors="replace"):
+            raise SystemExit(f"Surface research record is missing its required baseline marker: {k} -> {record}")
         if record and not local(record).is_file():
             raise SystemExit(f"Missing research record: {k} -> {record}")
 
