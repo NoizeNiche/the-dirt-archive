@@ -13579,7 +13579,7 @@
   {
     "builder": "CSR",
     "pedal": "Metal Rocker",
-    "image": null,
+    "image": "./assets/pedals/csr/metal-rocker/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CSR/Metal Rocker.md"
   },
@@ -14286,7 +14286,7 @@
   {
     "builder": "DeadastronautFX",
     "pedal": "Space Patrol",
-    "image": null,
+    "image": "./assets/pedals/deadastronautfx/space-patrol/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DeadastronautFX/Space Patrol.md"
   },

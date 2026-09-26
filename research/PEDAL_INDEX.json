@@ -24145,7 +24145,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/csr/metal-rocker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CSR/Metal Rocker.md"
     },
@@ -25223,7 +25223,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/deadastronautfx/space-patrol/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DeadastronautFX/Space Patrol.md"
     },
