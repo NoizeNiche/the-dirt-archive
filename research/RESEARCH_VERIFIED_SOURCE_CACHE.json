@@ -31,6 +31,28 @@
           "excerpt": "Manufacturer/producer and importer are Amsterdam cream / Q-Tech. Country of origin is Amsterdam cream / Korea. Product/model name is Amsterdam Cream Original Distortion. The same-model release date is listed as March 1, 2013."
         }
       ]
+    },
+    {
+      "builder": "AMT Electronics",
+      "pedal": "Rammstein RD Distortion Combo Emulator",
+      "sources": [
+        {
+          "url": "https://reverb.com/item/72391956-amt-electronics-rammstein-du-hast-distortion-combo-emulator",
+          "host": "reverb.com",
+          "source_kind": "catalog_verified",
+          "title": "AMT Electronics Rammstein Du Hast Distortion Combo Emulator",
+          "h1": "",
+          "excerpt": "AMT Electronics Rammstein Du Hast Distortion Combo Emulator. The listing identifies this as an early/first-version Rammstein distortion combo emulator. The controls are Volume, Distortion, High, and Low. The unit is described as a thick, crunchy metal-oriented distortion with combo/speaker-emulation functionality."
+        },
+        {
+          "url": "https://ameblo.jp/chibakan-yachiyo/entry-12068999635.html",
+          "host": "ameblo.jp",
+          "source_kind": "catalog_verified",
+          "title": "AMT Electronics Rammstein distortion product historical listing",
+          "h1": "",
+          "excerpt": "A Japanese historical used-equipment listing identifies an AMT Electronics Rammstein distortion product within the company's distortion lineup. The archive catalog associates this exact source with the Rammstein RD Distortion Combo Emulator identity."
+        }
+      ]
     }
   ]
 }
