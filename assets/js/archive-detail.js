@@ -291,6 +291,20 @@ loadCatalog()
   $('crumb').textContent=(item.types||[]).join(' · ')+' · '+item.company;
   $('name').textContent=item.pedal;
   $('builder').textContent=item.company;
+
+  const researchStatus=$('researchStatus');
+  if(researchStatus){
+    const level=String(item.research_level||'').trim().toLowerCase();
+    const labels={
+      surface:'Surface record · deeper research pending',
+      researched:'Research record on file · deeper verification pending',
+      deep:'Deep research verified'
+    };
+    researchStatus.textContent=labels[level]||'Catalog record';
+    researchStatus.dataset.level=level||'catalog';
+    researchStatus.hidden=false;
+  }
+
   $('types').innerHTML=(item.types||[]).map(t=>'<span class="chip">'+esc(t)+'</span>').join('');
   showPhoto(item);
 
