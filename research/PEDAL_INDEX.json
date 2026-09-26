@@ -4078,8 +4078,8 @@
       "source_page": "https://schneidersladen.de/en/animal-factory-amplification-pit-viper-pedal-v2",
       "research_record": "./research/pedals/Animal Factory Amplification/Pit_Viper.md",
       "image_source_url": "https://schneidersladen.de/media/f9/67/74/1771439396/animal_factory_amplification_animal_factory_amplification_pit_viper_pedal_v2_200098_1.webp?ts=1771439396",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Animals Pedal",

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T21:45:03.946727+00:00",
+  "generated_at": "2026-09-26T21:46:31.402540+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2953,
     "complete": 2953,
     "research_pending": 0,
-    "deep_research_pending": 2272,
-    "deep_researched": 1489,
+    "deep_research_pending": 2271,
+    "deep_researched": 1490,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "Animal Factory Amplification",
-    "pedal": "Pit Viper",
+    "builder": "Animals Pedal",
+    "pedal": "Diamond Peak Hybrid Over Drive",
     "catalog_type": "",
-    "research_record": "./research/pedals/Animal Factory Amplification/Pit_Viper.md",
+    "research_record": "./research/pedals/Animals Pedal/Diamond Peak Hybrid Over Drive.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Animal Factory Amplification",
-      "pedal": "Pit Viper",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Animal Factory Amplification/Pit_Viper.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Animals Pedal",
       "pedal": "Diamond Peak Hybrid Over Drive",
@@ -195,6 +188,13 @@
       "pedal": "Artisanal Cheese (Big Cheese)",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 058/Artisanal Cheese (Big Cheese).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Artisanal Effects",
+      "pedal": "Cheddar Source",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 059/Cheddar Source.md",
       "research_level": "surface"
     }
   ]
