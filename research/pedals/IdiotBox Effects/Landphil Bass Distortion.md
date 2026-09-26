@@ -1,23 +1,44 @@
 # IdiotBox Effects — Landphil Bass Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Landphil Bass Distortion
 - **Builder:** IdiotBox Effects
-- **Pedal:** Landphil Bass Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** IdiotBox Effects's Landphil Bass Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Landphil Bass Distortion** by **IdiotBox Effects** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Shipping MAILING LIST Contact Back to site Landphil Bass Distortion $ 150.00 Select option Select option TWO WEEK BUILD TIME Qty $ 150.00 Add to cart View cart The Landphil is the signature bass distortion pedal for Landphil, the bassist for the badass cossover thrash band Municipal Waste and killer death metal band Cannabis Corpse!
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Great build quality, great artwork, silent when idle and absofuckinlutely deadly!
+
+## Versions and factory options
+- The verified evidence references: v1.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Landphil Bass Distortion | IdiotBox Effects 0 $ 0.00 Cart 0 $ 0.00 Search Home Products All PEDALS BASS PEDALS DELAY/MODULATION FUZZ/DISTORTION/OVERDRIVE BAND PEDALS STAR WARS PICKUPS T-SHIRTS/HOODIES PRE-ORDERS EXCLUSIVES NOISE COLLABORATIONS B-STOCK About Retailers !Cool!Bands!Down!With!The!Sound!
+Shipping MAILING LIST Contact Back to site Landphil Bass Distortion $ 150.00 Select option Select option TWO WEEK BUILD TIME Qty $ 150.00 Add to cart View cart The Landphil is the signature bass distortion pedal for Landphil, the bassist for the badass cossover thrash band Municipal Waste and killer death metal band Cannabis Corpse!
+It is a modified and much more tweakable version of the Blower Box Bass Distortion.
+
+## Sources checked
+1. Landphil Bass Distortion | IdiotBox Effects: https://www.idiotboxeffects.com/product/landphil
+2. Idiotbox Effects Landphil Bass Distortion | High-Gain Bass Distortion Pedal &mdash; SoCal Bass And Fx: https://www.socalbassandfx.com/store/p/idiot-landphil
+3. IdiotBox Effects Landphil Bass Distortion - Reverb: https://reverb.com/item/101001039-idiotbox-effects-landphil-bass-distortion
+4. IDIOTBOX EFFECTS - LANDPHIL BASS DISTORTION NEW! AUTHORIZED DEALER! - eBay: https://www.ebay.com/itm/255452453681
+5. IdiotBox Effects Landphil Bass Distortion (Phil Hall Signature Model): https://www.musicdreamshop.com/product/idiotbox-effects-landphil-bass-distortion-phil-hall-signature-model/
+6. IdiotBox Effects Landphil Bass Distortion (Phil Hall Signature Model): https://www.lasonemusic.com/product/idiotbox-effects-landphil-bass-distortion-phil-hall-signature-model/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

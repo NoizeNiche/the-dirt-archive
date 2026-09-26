@@ -1,23 +1,41 @@
 # IdiotBox Effects — Hobo Santa Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Hobo Santa Fuzz
 - **Builder:** IdiotBox Effects
-- **Pedal:** Hobo Santa Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** IdiotBox Effects's Hobo Santa Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Hobo Santa Fuzz** by **IdiotBox Effects** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+IdiotBox Effects's Hobo Santa Fuzz is cataloged as a Fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Hobo Santa Fuzz | IdiotBox Effects 0 $ 0.00 Cart 0 $ 0.00 Search Home Products All PEDALS BASS PEDALS DELAY/MODULATION FUZZ/DISTORTION/OVERDRIVE BAND PEDALS STAR WARS PICKUPS T-SHIRTS/HOODIES PRE-ORDERS EXCLUSIVES NOISE COLLABORATIONS B-STOCK About Retailers !Cool!Bands!Down!With!The!Sound!
+Shipping MAILING LIST Contact Back to site Hobo Santa Fuzz $ 139.00 Sold out The Hobo Santa started off as a fun one off for a friend who made the raddest Santa image for a band flier.
+The circuit is a muff style fuzz using old Russian germanium transistors.
+
+## Sources checked
+1. Hobo Santa Fuzz | IdiotBox Effects: https://www.idiotboxeffects.com/product/hobo-santa-fuzz
+2. IdiotBox Effects Hobo Santa Fuzz - Reverb: https://reverb.com/item/101005382-idiotbox-effects-hobo-santa-fuzz
+3. Idiotbox Effects HOBO SANTA FUZZ | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/idiotbox-effects-hobo-santa-fuzz
+4. Used Idiotbox Effects Hobo Santa Fuzz Effect Pedal: https://www.guitarcenter.com/Used/Idiotbox-Effects/Used-Idiotbox-Effects-Hobo-Santa-Fuzz-Effect-Pedal.gc
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
