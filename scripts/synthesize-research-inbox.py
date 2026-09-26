@@ -207,6 +207,47 @@ def write_record(item, tracker_type, packet):
     colors = color_sentences(sources)
 
     record_path.parent.mkdir(parents=True, exist_ok=True)
+
+    # A deepening pass must never erase a richer record merely because the
+    # newly admitted evidence packet is sparse. Preserve the existing
+    # researched record and append only the new, verified evidence. Surface
+    # placeholders are still replaced with the canonical first deep-research
+    # record below.
+    if existing_revisitable and str(item.get("research_level") or "").strip().lower() == "researched":
+        existing_text = record_path.read_text(encoding="utf-8")
+        verified_lines = [
+            "",
+            "## Deep research verification",
+            "",
+            "This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.",
+            "",
+            "### Verified description",
+            description,
+        ]
+        if colors:
+            verified_lines += ["", "### Verified color/finish evidence"]
+            verified_lines.extend(f"- {s}" for s in colors)
+        if versions:
+            verified_lines += ["", "### Verified version references"]
+            verified_lines.append(f"- The evidence references: {', '.join(versions)}.")
+        if transistors:
+            verified_lines += ["", "### Verified transistor/device terms"]
+            verified_lines.append("- " + ", ".join(transistors) + ".")
+        if diodes:
+            verified_lines += ["", "### Verified diode terms"]
+            verified_lines.append("- " + ", ".join(diodes) + ".")
+        if sounds:
+            verified_lines += ["", "### Verified sound evidence"]
+            verified_lines.extend(sounds)
+        verified_lines += ["", "### Sources checked in this pass"]
+        for i, source in enumerate(sources, start=1):
+            title = norm(source.get("title")) or norm(source.get("h1")) or source.get("url")
+            verified_lines.append(f"{i}. {title}: {source.get('url')}")
+        record_path.write_text(existing_text.rstrip() + "\n" + "\n".join(verified_lines) + "\n", encoding="utf-8")
+        item["research_level"] = "deep"
+        item["deep_research_status"] = "VERIFIED"
+        return True, str(record_path)
+
     lines = [
         f"# {builder} — {pedal}",
         "",
