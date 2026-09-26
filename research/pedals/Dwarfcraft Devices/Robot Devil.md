@@ -40,3 +40,14 @@ Share to X Share to Facebook Share to Pinterest Labels: Dwarfcraft Devices , Fuz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dwarfcraft Devices's Robot Devil is cataloged as a fuzz / overdrive pedal.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices Robot Devil - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-robot-devil
+2. Dwarfcraft Devices Robot Devil - Reverb: https://reverb.com/p/dwarfcraft-devices-robot-devil-1

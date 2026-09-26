@@ -30817,8 +30817,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/robot-devil/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Robot Devil.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -30829,8 +30829,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/rot-yr-brain/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Rot Yr Brain.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -33758,8 +33758,8 @@
       "image": "./assets/pedals/fulltone/queen-bee/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Queen Bee.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -36033,8 +36033,8 @@
       "image": "./assets/pedals/jhs-pedals/ehx-by-jhs-big-muff-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/EHX by JHS Big Muff 2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -45752,8 +45752,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Amherst.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",

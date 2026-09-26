@@ -38,3 +38,15 @@ Features: Two joysticks Two volume knobs Two LED lights Wide range of cool noise
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dwarfcraft Devices's Rot Yr Brain is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices Rot Yr Brain - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-rot-yr-brain
+2. Dwarfcraft Devices Rot Yr Brain - Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/rotyrbrain
+3. Dwarfcraft Devices Rot Yr Brain - Reverb: https://reverb.com/p/dwarfcraft-devices-rot-yr-brain
