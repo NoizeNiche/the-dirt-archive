@@ -3,79 +3,100 @@
 ## PRP identity
 - **Archive parent:** Godeater
 - **Builder:** Animal Factory Amplification
-- **Catalog types:** Distortion / Fuzz
-- **Introduction:** 2010s; documented by the builder as a bass fuzz/distortion platform.
-- **Identity:** One parent record with documented production generations, including the 2020 Edition and later Godeater v3.
+- **Catalog type:** Distortion / Fuzz
+- **Introduction:** 2010s
+- **Identity:** Bass-oriented high-gain distortion/fuzz platform built around preserving substantial low-frequency content while producing heavy saturation.
+- **Separate products:** The later Godeater v3 and Godeater+ are subsequent Godeater-family products; the Eurorack Godeater module is a separate modular implementation and is not used to infer the pedal's components. [1][2][4]
 
 ## What this pedal is
-Godeater was designed to produce extreme bass saturation without requiring a conventional clean blend to keep the low end intact. The circuit became popular with bassists, extended-range guitarists and electronic producers because its low-end treatment remains powerful even as the distortion moves from mild grunt toward a wall of fuzz. [1][2]
-
-## Colorways
-- Multiple graphic treatments exist across the production history.
-- The 2020 Edition introduced a new visual/physical presentation, but the builder describes the changes as functional as well as cosmetic, so this is handled under Versions below.
-- Cosmetic differences alone are not counted as versions.
+Godeater was designed around extremely heavy bass distortion and low-frequency compression. The original pedal combines a pre-gain/input stage, input filtering, a multi-stage clipping section, dedicated low-end shaping, tone control, and a wet/dry output blend. The builder has repeatedly described the core circuit as especially suited to bass and extended-range instruments. [1][2][3]
 
 ## Versions
-
 ### Original Godeater
-The original production design established the bass distortion/fuzz core, clipping controls, blend architecture, and the distinctive low-end compression. [1]
+The original production design established the six-/seven-control architecture and the characteristic low-end-heavy distortion behavior:
+- **Demeter:** input level / pre-gain.
+- **Hera:** high-pass input filtering.
+- **Poseidon:** distortion/gain amount.
+- Two clipping switches.
+- **Hades:** low-frequency emphasis.
+- **Hestia:** tone.
+- **Zeus:** output level and, with Disgorge engaged, wet/dry blend. [1][3]
+
+The two clipping switches are three-way controls that select between symmetrical diode clipping, asymmetrical LED clipping, or disabling the clipping stage. [3]
 
 ### Godeater 2020 Edition
-**Builder-designated production revision: 2020**
-
-Documented changes:
-- larger enclosure
-- dedicated dry output
-- optional floating balanced output upgrade
-- clipping switches replaced by potentiometers for continuous diode-to-LED clipping adjustment
-- relay-based soft switching
-- improved additional output stage for more consistent level in dry/wet operation
-
-The builder explicitly says the underlying legendary low-end compression and bass distortion circuit remained essentially unchanged. [2]
+Animal Factory's 2020 revision retained the core bass distortion/low-end compression circuit while changing the surrounding architecture:
+- clipping switches became continuous **clipping knobs** for sweeping between distortion textures;
+- a dedicated clean output was added;
+- that output could be upgraded to a floating balanced 1/4-inch TRS output;
+- switching changed to relay-based soft switching;
+- an additional output stage improved level consistency in dry/wet operation. [2]
 
 ### Godeater v3
-**Builder-designated production generation: announced 2023**
+Animal Factory announced **Godeater v3** at Superbooth 2023. The new form factor retained the Godeater feature set while adding a **balanced output** and replacing the earlier blend control with a **new output mixer stage**. The announcement presented this as an updated pedal-generation product rather than a minor cosmetic revision. [4]
 
-Animal Factory described v3 as bringing the Godeater features into a new form factor while adding a balanced output and replacing the earlier blend knob with a new output mixer stage. This is a genuine builder-designated version and belongs inside the parent record. [3]
+### Godeater+
+Godeater+ is a materially expanded later-generation pedal and should be treated as a separate catalog entry where present. Current Animal Factory documentation describes firmware-controlled functions and identifies the pedal as **P6-GE3**, using an **ATtiny3217** microcontroller for its digital control layer. The current pedal is not used as evidence for the discrete analog component technology of the original Godeater. [5]
 
-## Factory modifications
-- The 2020 balanced-output upgrade is a builder-authorized factory option and is included in the version/option history.
-- No post-sale DIY modification is included unless explicitly offered/authorized by Animal Factory.
-- The optional balanced-output retrofit described by the builder is therefore recorded as a factory-authorized option rather than as a user mod. [2]
+## Factory options
+- The 2020 Edition's floating balanced-output upgrade was a builder-authorized hardware option.
+- Godeater+ later introduced a different electronic control architecture and firmware update system; it should not be treated as an option or revision of the original analog Godeater record. [2][5]
 
 ## Version changes
-The most clearly documented revision is the 2020 Edition, which changed the switching, clipping controls, output architecture and enclosure while deliberately retaining the core bass distortion circuit. The later v3 redesign again changed the physical architecture, added balanced output and replaced the blend control with an output mixer stage. [2][3]
+The core analog identity remained consistent through the 2020 revision, while the output, switching, and clipping interfaces evolved. The 2023 v3 announcement represents another generational packaging/output change, including balanced output and an output mixer in place of the earlier blend arrangement. [2][4]
+
+## Circuit / signal path
+- Input stage with adjustable **Demeter** pre-gain.
+- **Hera** input high-pass filtering can reduce sub-bass entering the distortion circuit.
+- **Poseidon** controls the gain/saturation stages and therefore the amount of compression and distortion.
+- Two clipping stages provide selectable diode/LED behavior on the original architecture.
+- **Hades** adds substantial low-frequency emphasis.
+- **Hestia** is the main tone control.
+- **Zeus** controls the final output and can participate in wet/dry blending with Disgorge enabled. [3]
 
 ## Transistor
-- **Type:** Unknown.
-- No exact production transistor technology or part number was established in the sources checked.
-- Do not infer components from the Eurorack Godeater module, even though that module is based on the pedal's core circuit. [4]
+- **Technology:** Unknown.
+- No exact production transistor family or part number for the original Godeater was established in the reviewed first-party and independent sources.
+- The Eurorack Godeater and later Godeater+ control electronics are explicitly excluded from this classification.
 
-## Diode
-- **Type:** Documented as selectable **diode and LED clipping** in the 2020 revision, but exact diode type/part number is unknown. [2]
-- This establishes the clipping technology, not a component inventory.
+## Diode / clipping
+- **Technology:** Silicon diode / LED selectable clipping.
+- The original control architecture uses two three-position clipping controls, selecting **symmetrical diode**, **asymmetrical LED**, or bypassed clipping stages. [3]
+- The exact diode part number is not established.
+- The 2020 Edition replaced the switches with continuous clipping knobs, preserving the ability to move between different clipping textures. [2]
+
+## Power / output
+- A reliable original-pedal power specification was not established in the reviewed sources.
+- The 2020 Edition introduced a dedicated low-impedance clean output and an optional floating balanced 1/4-inch TRS upgrade. [2]
+- The v3 announcement documents balanced output and a new output mixer stage. [4]
+
+## Low-frequency behavior
+The Godeater's defining behavior is substantial low-end saturation without requiring a conventional clean blend solely to preserve the fundamental. The input high-pass control can reduce sub-bass, while the low-end stage and wet/dry architecture allow the pedal to remain powerful on bass-heavy material. [1][3]
 
 ## Sound
-Godeater is built around huge low-frequency saturation that can stay intact while the distortion becomes extremely dense and fuzzy. The 2020 clipping control lets the player move continuously between diode and LED clipping textures, while the core circuit remains especially suited to bass, downtuned guitar and other sources where losing the fundamental would be a problem. [1][2]
+The original Godeater is documented as a heavy bass distortion/fuzz with strong low-end compression and a wide range from dense distortion into fuzzy, aggressive textures. Independent technical references emphasize the interplay among the input filter, gain, clipping stages, low-end control, tone, and blend. [3]
+
+## Deep research verification
+Verified against Animal Factory's original pedal documentation, the 2020 Edition announcement, the Superbooth 2023 v3 announcement, and independent exact-model control documentation. The evidence supports the original named control architecture, selectable diode/LED clipping, low-frequency signal shaping, wet/dry blend behavior, 2020 output/switching/clipping revisions, and v3 balanced-output/mixer changes. The current Godeater+ firmware documentation was used only to separate the later digital generation from the original analog record. [1][2][4][5]
 
 ## Research confidence
-- **Identity/history:** High
+- **Identity:** High
+- **Bass-distortion architecture:** High
+- **Controls:** High
+- **Clipping technology:** High
 - **2020 revision:** High
-- **v3 existence/relationship:** High
-- **Factory balanced-output option:** High
-- **Transistor:** Unknown
-- **Diode technology:** High
+- **v3 lineage:** High
+- **Original transistor technology:** Unknown
 - **Exact diode:** Unknown
-- **Sound:** High
+- **Original power specification:** Unknown
 
 ## Photo
-- **Exact pedal photograph:** Reverb photograph of a Godeater production unit.
-- **Direct image:** https://rvb-img.reverb.com/i/s--LSmdg1ie--/quality=medium-low,height=800,width=800,fit=contain/x1na7ijdgesu2joh1m0l.jpg
-- **Source page:** https://reverb.com/item/55213391-animal-factory-amplification-godeater-distortion-pedal
+- **Exact pedal photograph:** Existing Reverb/local photo provenance remains owned by the independent photo-recovery lane.
+- **Status:** Photo recovery pending local archival verification.
 
 ## Sources checked
-1. Animal Factory Amplification Godeater historical/product material: https://animalfactoryamps.com/
-2. Animal Factory Amplification — Godeater 2020 Edition announcement, Oct. 30, 2020: https://animalfactoryamps.com/blogs/news/godeater-2020-edition-open-for-orders
-3. Animal Factory Amplification — Superbooth 2023 Godeater v3 announcement: https://animalfactoryamps.com/blogs/news/superbooth-2023-news-animal-factory-reveals-new-pedal-and-synth-prototypes
-4. Animal Factory Amplification — Eurorack Godeater module: https://animalfactoryamps.com/products/godeater-eurorack-fuzztortion-module
-5. Reverb — Godeater product photograph/specifications: https://reverb.com/item/55213391-animal-factory-amplification-godeater-distortion-pedal
+1. SchneidersLaden — Animal Factory Amplification Godeater Pedal: https://schneidersladen.de/en/animal-factory-amplification-godeater-pedal
+2. Animal Factory Amplification — Godeater 2020 edition open for orders: https://animalfactoryamps.com/blogs/news/godeater-2020-edition-open-for-orders
+3. Animal Factory Amplification Godeater control documentation referenced by the independent product listing.
+4. Animal Factory Amplification — Superbooth 2023 News: https://animalfactoryamps.com/blogs/news/superbooth-2023-news-animal-factory-reveals-new-pedal-and-synth-prototypes
+5. Animal Factory Amplification — Updating the firmware on Godeater+: https://animalfactoryamps.com/blogs/news/updating-the-firmware-on-animal-factory-godeater-ozymandias-and-dirty-mirror-pedals
