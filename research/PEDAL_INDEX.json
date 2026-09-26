@@ -30904,8 +30904,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/the-internet/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/The Internet.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -30916,8 +30916,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/the-secret-destroyer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/The Secret Destroyer.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -33796,8 +33796,8 @@
       "image": "./assets/pedals/fuzzrocious-pedals/cat-tail/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fuzzrocious Pedals/Cat Tail.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Gamechanger Audio",
@@ -36060,8 +36060,8 @@
       "image": "./assets/pedals/jhs-pedals/kilt-10/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Kilt 10.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",

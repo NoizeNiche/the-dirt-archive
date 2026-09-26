@@ -36,3 +36,21 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Internet is a good old-fashioned overdrive pedal, with a footswitchable gain boost that goes from comfy crunch to completely nuts!
+
+### Verified sound evidence
+The Internet is a good old-fashioned overdrive pedal, with a footswitchable gain boost that goes from comfy crunch to completely nuts!
+Gain and volume controls make it simple to find the distorted tone you're after.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices The Internet - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-the-internet
+2. Dwarfcraft Devices The Internet - Reverb: https://reverb.com/p/dwarfcraft-devices-the-internet
+3. DWARFCRAFT DEVICES The Internet Effect Pedal JP | eBay: https://www.ebay.com/itm/800297460108
+4. Dwarfcraft Devices The Internet | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/internet
+5. Dwarfcraft Devices The Internet - Mercari: https://www.mercari.com/us/item/m83756427245/
