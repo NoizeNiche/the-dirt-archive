@@ -61,13 +61,13 @@ jobs:
               buckets.setdefault((row["builder"][:1] or "#").upper(),[]).append(row)
           targets=[]
           letters=sorted(buckets)
-          while len(targets)<90 and any(buckets.values()):
+          while len(targets)<120 and any(buckets.values()):
               progressed=False
               for letter in letters:
                   if buckets[letter]:
                       targets.append(buckets[letter].pop(0))
                       progressed=True
-                      if len(targets)>=90: break
+                      if len(targets)>=120: break
               if not progressed: break
           TARGETS_PER_WORKER=6
           matrix={"include":[{"targets":targets[i:i+TARGETS_PER_WORKER]} for i in range(0,len(targets),TARGETS_PER_WORKER)]}
@@ -81,7 +81,7 @@ jobs:
     if: ${{ needs.prepare.outputs.matrix != '' }}
     strategy:
       fail-fast: false
-      max-parallel: 15
+      max-parallel: 20
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
     runs-on: ubuntu-latest
     timeout-minutes: 14
@@ -90,7 +90,7 @@ jobs:
       - name: Gather evidence for assigned targets
         env:
           RESEARCH_WORKER_INDEX: ${{ strategy.job-index }}
-          RESEARCH_WORKER_COUNT: "15"
+          RESEARCH_WORKER_COUNT: "20"
           RESEARCH_TARGETS_PER_WORKER: "6"
           RESEARCH_TARGETS_JSON: ${{ toJSON(matrix.targets) }}
           RESEARCH_REQUEST_TIMEOUT_MS: "7000"
