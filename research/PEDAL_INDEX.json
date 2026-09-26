@@ -18328,8 +18328,8 @@
       "research_record": "./research/pedals/PRP Batch 150/carlsbro-carlsbro-fuzz-tone.md",
       "image_source_page": "https://fuzzboxes.org/carlsbrofuzztone",
       "image_source_url": "https://fuzzboxes.org/wp-content/uploads/2021/05/Colorsound-Carlsbro-1-709x1024.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carlsbro",
@@ -18342,8 +18342,8 @@
       "research_record": "./research/pedals/PRP Batch 150/carlsbro-carlsbro-suzz.md",
       "image_source_page": "https://www.tonehome.de/carlsbro/suzz/",
       "image_source_url": "https://www.tonehome.de/s/img/emotionheader.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carlson",
@@ -46388,8 +46388,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Gain Theory Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Subdecay",
