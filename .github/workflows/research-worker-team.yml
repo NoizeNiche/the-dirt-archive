@@ -161,6 +161,8 @@ jobs:
           PY
           synth_result="$(python scripts/synthesize-research-inbox.py --only research-evidence/foreman-summary.json)"
           created_records="$(python -c 'import json,sys; print(json.load(sys.stdin)["created"])' <<<"$synth_result")"
+          deepened_research="$(python -c 'import json,sys; print(json.load(sys.stdin).get("deepened",0))' <<<"$synth_result")"
+          created_paths_json="$(python -c 'import json,sys; print(json.dumps(json.load(sys.stdin)["created_paths"]))' <<<"$synth_result")"
           printf '%s' "$created_paths_json" > /tmp/research-created-paths.json
           python scripts/sync_prp_catalog.py
           python scripts/sync-prp-tracker.py
@@ -175,13 +177,7 @@ jobs:
           print(int(json.loads(p.read_text(encoding="utf-8")).get("staged",0)) if p.exists() else 0)
           PY
           )"
-          deepened_research="$(python - <<'PY'
-          import json
-          from pathlib import Path
-          p=Path("/tmp/research-publication-accounting.json")
-          print(int(json.loads(p.read_text(encoding="utf-8")).get("deepened",0)) if p.exists() else 0)
-          PY
-          )"
+          # deepened_research is returned directly by the synthesizer.
           python - <<'PY'
           import csv, json
           from pathlib import Path
@@ -215,10 +211,7 @@ jobs:
                   "before_researched": before_researched,
                   "after_researched": after_researched,
                   "canonical_delta": delta,
-                  "deepened": sum(
-                      1 for k,v in after_links.items()
-                      if v and before["links"].get(k)==v and k in newly_linked
-                  ),
+                  "deepened": 0,
                   "newly_linked": len(newly_linked),
                   "orphan_adoptions": len(orphan_adoptions),
                   "genuinely_new_links": len(genuinely_new_links),
@@ -234,7 +227,7 @@ jobs:
 
           accounting="$(cat /tmp/research-publication-accounting.json)"
           delta="$(python -c 'import json,sys; print(json.load(sys.stdin)["canonical_delta"])' <<<"$accounting")"
-          deepened_research="$(python -c 'import json,sys; print(json.load(sys.stdin).get("deepened",0))' <<<"$accounting")"
+          # deepened_research was measured directly from the synthesizer result.
           orphan_adoptions="$(python -c 'import json,sys; print(json.load(sys.stdin)["orphan_adoptions"])' <<<"$accounting")"
           genuinely_new_links="$(python -c 'import json,sys; print(json.load(sys.stdin)["genuinely_new_links"])' <<<"$accounting")"
           echo "canonical_delta=$delta" >> "$GITHUB_OUTPUT"
@@ -254,9 +247,10 @@ jobs:
               print("Missing created canonical links:", *missing, sep="\\n  ")
           PY
           )"
-          echo "Research publication gate: created_records=$created_records; staged=$staged_research; staged_new_files=$staged_new_files; orphan_adoptions=$orphan_adoptions; genuinely_new_links=$genuinely_new_links; created_paths_missing=$created_paths_missing."
-          if [ "$staged_new_files" -ne "$created_records" ]; then
-            echo "ERROR: foreman admission count does not match files actually created by this pass."
+          publication_actions=$((created_records+deepened_research))
+          echo "Research publication gate: created_records=$created_records; deepened_research=$deepened_research; staged=$staged_research; publication_actions=$publication_actions; orphan_adoptions=$orphan_adoptions; genuinely_new_links=$genuinely_new_links; created_paths_missing=$created_paths_missing."
+          if [ "$staged_research" -ne "$publication_actions" ]; then
+            echo "ERROR: foreman admission count does not match canonical records created or deepened by this pass."
             exit 1
           fi
           if [ "$created_paths_missing" -ne 0 ]; then
@@ -350,7 +344,7 @@ jobs:
           print(sum(1 for p in catalog.get("pedals",[]) if p.get("catalog_role") != "variation" and str(p.get("research_level") or "").strip().lower() != "deep"))
           PY
           )"
-          delta="${{ needs.foreman.outputs.canonical_delta }}"
+          delta="${{ steps.publish.outputs.canonical_delta }}"
           deepened="${{ steps.publish.outputs.deepened_research }}"
           if [ "$remaining" -gt 0 ] && { [ "${delta:-0}" -gt 0 ] || [ "${deepened:-0}" -gt 0 ]; }; then
             echo "Canonical research moved by $delta; active frontier has $remaining target(s). Dispatching next bounded pass."
