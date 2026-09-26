@@ -37,3 +37,19 @@ Perfect for those chasing the iconic early ‘90s Russian fuzz sound.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Regular price $199.99 By Stomp Under Foot Quantity Add to cart Released around 1993, the Civil War is the second evolution of the Russian muff, delivering the unmistakable tone heard in David Gilmour’s solo work.
+
+### Verified sound evidence
+Regular price $199.99 By Stomp Under Foot Quantity Add to cart Released around 1993, the Civil War is the second evolution of the Russian muff, delivering the unmistakable tone heard in David Gilmour’s solo work.
+With its huge low-end, smooth fuzz, and dynamic response, this pedal produces soaring lead tones and full-bodied chords with just a hint of grit.
+Perfect for those chasing the iconic early ‘90s Russian fuzz sound.
+
+### Sources checked in this pass
+1. Civil War Russian Muff Fuzz Pedal | Stomp Under Foot American Express Apple Pay Bancontact Diners Club Discover Google Pay Mastercard MB WAY PayPal Shop Pay Visa: https://stompunderfoot.com/products/civil-war
+2. Stomp Under Foot Civil War: https://www.theguitarwonderland.com/products/stomp-under-foot-civil-war/

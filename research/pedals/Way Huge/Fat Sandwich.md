@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Way Huge's Fat Sandwich is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. Way Huge Electronics WHE301 Fat Sandwich Harmonic Saturator Distortion Guitar Effects Pedal | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Way-Huge-Electronics/WHE301-Fat-Sandwich-Harmonic-Saturator-Distortion-Guitar-Effects-Pedal-1274228082042.gc
+2. Way Huge Pedals Review: Pork Loin, Fat Sandwich & More - Premier Guitar: https://www.premierguitar.com/gear/way-huge-pork-loin-fat-sandwich-and-swollen-pickle-review

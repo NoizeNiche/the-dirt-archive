@@ -38,3 +38,25 @@ Finally, each band is mixed together at the end...and you have full control over
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on July 31, 2011 VFE Pedals distortion pedal Information VFE Pedals The Triumvirate is a unique take on an distortion box.
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified diode terms
+- LEDs, 1N4002.
+
+### Verified sound evidence
+Published on July 31, 2011 VFE Pedals distortion pedal Information VFE Pedals The Triumvirate is a unique take on an distortion box.
+Next, each part goes through its own distortion engine.
+Finally, each band is mixed together at the end...and you have full control over the volume & distortion of each band.
+
+### Sources checked in this pass
+1. Triumvirate by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Triumvirate/68986107/
+2. VFE Pedals Triumvirate | Effects Database: https://www.effectsdatabase.com/model/vfe/triumvirate

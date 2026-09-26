@@ -39,3 +39,25 @@ Cosmic Sound FX was introduced by Effects Database as a new brand in February 20
 1. Effects Database - Cosmic Sound FX brand listing
 2. Effects Database - 2012 weekly overview
 3. Effects Database - Tone Bender MkII family references
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+But The MkII isn't just about raw power - it also offers a unique Modulation control that introduces a subtle, shimmering vibrato effect, adding an extra layer of cosmic mystique to your sound.
+
+### Verified version references
+- The evidence references: Mk 1, Mk I, Mk II, Mk1, MkI, MkII, V828, V8281.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified sound evidence
+This fuzz pedal is no mere distortion box - it's a portal to a mind-bending, psychedelic dimension where your guitar tone takes on a life of its own.
+At the heart of The MkII lies a carefully curated blend of germanium and silicon transistors, meticulously tuned to produce a rich, organic fuzz that's equal parts searing aggression and mesmerizing texture.
+Crank the Gain knob and let the pedal's gritty, almost sentient voice envelop your signal, transforming your guitar into a pulsating, otherworldly force.
+
+### Sources checked in this pass
+1. Cosmic Sound FX The MkII - Fuzz Pedal | PedalFinder: https://guitarpedalfinder.com/pedals/cosmic-sound-fx-the-mkii
+2. Cosmic Sound FX The MkII | Effects Database: https://www.effectsdatabase.com/model/cosmicsound/mk2

@@ -38,3 +38,22 @@ This pedal is praised for its flexibility, warmth, and rich sound, making it a s
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Moxie is Brian Wampler’s twisted take on a vintage ‘screamer style’ circuit in a compact, pedalboard friendly enclosure.
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified sound evidence
+The Wampler Moxie is a versatile overdrive pedal inspired by the Ibanez® Tube Screamer® TS10®, offering a wide range of tones from light boost to gritty drive.
+Capable of anything from light boost to a gritty drive that can send an amplifier into heavily overdriven tones, the Moxie is an ultra-flexible, wonderfully warm and rich pedal but with an extra bite.
+The Voice switch adds clarity by changing the entire EQ associated with this design giving it a more transparent yet robust tone.
+
+### Sources checked in this pass
+1. Moxie | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/moxie/
+2. Wampler Pedals Moxie | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-moxie/

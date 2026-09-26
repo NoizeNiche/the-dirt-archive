@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T10:24:30.271923+00:00",
+  "generated_at": "2026-09-26T10:27:15.442293+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2744,
     "complete": 2744,
     "research_pending": 0,
-    "deep_research_pending": 2829,
-    "deep_researched": 932,
+    "deep_research_pending": 2800,
+    "deep_researched": 961,
     "surface_ready": 3761
   },
   "next_target": {
@@ -48,13 +48,6 @@
       "pedal": "Scream For Cream OD",
       "catalog_type": "",
       "research_record": "./research/pedals/Analog Sound/Scream For Cream OD.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Sound",
-      "pedal": "The Boogie Man",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Sound/The Boogie Man.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "I Was A Wolf In The Forest Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/Animals Pedal/I Was A Wolf In The Forest Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "In Oct,3 Foxes talking of dreamy FUZZ",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Animals Pedal/In Oct,3 Foxes talking of dreamy FUZZ.md",
       "research_level": "surface"
     }
   ]

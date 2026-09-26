@@ -49,3 +49,19 @@ The Scarab Deluxe spans gritty gated fuzz, sustained lead tones, and lower-gain 
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://stangguitars.com/cdn/shop/files/lbhhrbb2r5fhq2skubcm_1024x1024%402x.jpg?v=1732480685
 - **Source page:** https://stangguitars.com/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Scarab Deluxe — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified sound evidence
+← Back to Store Scarab Deluxe Scarab Deluxe from $210.00 A silicon Tonebender MKII type circuit with Variable low frequency input (FAT), Tone and Bias knobs.
+
+### Sources checked in this pass
+1. Scarab Deluxe — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6

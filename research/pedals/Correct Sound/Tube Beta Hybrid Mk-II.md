@@ -47,3 +47,22 @@ The two preamps provide distinctly different voicings, with the Model T side cov
 1. ModularGrid - Correct Sound Tube Beta Hybrid Mk-II
 2. Reverb - Correct Sound Custom Tube Beta Hybrid Mk-II
 3. Correct Sound 2015 product catalog
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Correct Sound's Tube Beta Hybrid Mk-II is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: Mk II.
+
+### Verified sound evidence
+Other/unknown Bass Distortion Tube Dimensions 187 mm wide 120 mm high Current Draw 1200 mA / 12 V AC Price $360 This Pedal is currently available.
+MG ID: 33334 Correct Sound tube beta hybrid Mk-II It’s a hybrid pedal in a compact box size (187mm x 120mm x 38mm),with two channels: tube and "stone".
+Each channel has a classical set of regulators: gain, bass, mid, treble, level and master volume.
+
+### Sources checked in this pass
+1. Other/unknown Correct Sound tube beta hybrid Mk-II - Pedal on ModularGrid: https://modulargrid.com/p/other-unknown-correct-sound-tube-beta-hybrid-mk-ii
+2. Correct Sound Tube Beta Hybrid | Effects Database: https://www.effectsdatabase.com/model/correctsound/tubebetahybrid

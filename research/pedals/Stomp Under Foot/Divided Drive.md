@@ -37,3 +37,19 @@ The overdrives are based on the discontinued Serenity Overdrive, a stripped-down
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Stomp Under Foot Divided Drive , available exclusively through Tone Tailors, is a limited-edition pedal engineered for players who want the character of a vintage, stacked rig in a single, streamlined enclosure.
+
+### Verified sound evidence
+By Stomp Under Foot Inspired by Trey Anastasio's early '90s rig, the Divided Drive captures the magic of stacking two Tube Screamers into a Ross Compressor.
+It combines two modified Screamer-style overdrives with a Ross-style compressor in a single pedal, recreating the tight, thick tone and endless sustain of that classic setup.
+The overdrives are based on the discontinued Serenity Overdrive, a stripped-down Tube Screamer variant with a fuller, warmer voice and exceptional clarity.
+
+### Sources checked in this pass
+1. DIVIDED DRIVE – Stomp Under Foot American Express Apple Pay Bancontact Diners Club Discover Google Pay Mastercard MB WAY PayPal Shop Pay Visa: https://stompunderfoot.com/products/divided-drive
+2. Stomp Under Foot’s Divided Drive Pedal: A Tone Tailors Exclusive « Tone Tailors: https://tonetailors.com/stomp-under-foot/divided-drive-exclusive/

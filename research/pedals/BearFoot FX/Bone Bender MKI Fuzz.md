@@ -42,3 +42,25 @@ Bone Bender MKI is intended to deliver vintage fuzz with enough heat and sustain
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://rvb-img.reverb.com/i/s--6H63sI1H--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zactb0lkodoygtxa9sjk.png
 - **Source page:** https://reverb.com/item/15647992-bearfoot-fx-bone-bender-mk1-fuzz-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BearFoot FX's Bone Bender MKI Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MK1, MKI.
+
+### Verified transistor/device terms
+- AC127.
+
+### Verified sound evidence
+Bone Bender MKI Fuzz by BearFoot FX
+Its NOS AC127 transistors, Bias knob, and carefully designed circuitry make it an excellent choice for guitarists seeking a wide range of tonal possibilities and a pedal that can deliver both subtle and aggressive fuzz tones.
+When he did that, he opened up the floodgates for fuzz enthusiasts everywhere.
+
+### Sources checked in this pass
+1. Bone Bender MKI Fuzz by BearFoot FX | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Bone-Bender-MKI-Fuzz/68975135/
+2. BearFoot FX Bone Bender MKI Fuzz - Speckle - Music Boulevard บริษัท มิวสิค บูเลอวาร์ด จำกัด: https://www.music-blvd.com/product/11542/bearfoot-fx-bone-bender-mki-fuzz-speckle

@@ -39,3 +39,17 @@ Additional Sources https://www.youtube.com/watch?v=nL7YyyHqNwE Retrieved from " 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Thermionic Studios is building two(2) Black Triangle Overdrives.
+
+### Verified color/finish evidence
+- Thermionic Studios is building two(2) Black Triangle Overdrives.
+
+### Sources checked in this pass
+1. BLACK TRIANGLE OVERDRIVE deadastronautfx: https://deadastronaut.wixsite.com/effects/blacktriangleoverdrive
+2. Black Triangle - Thermionic Studios: http://thermionic-studios.com/wiki/index.php?title=Black_Triangle

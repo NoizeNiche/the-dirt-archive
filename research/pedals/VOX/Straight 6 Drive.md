@@ -37,3 +37,19 @@ This is an all-around overdrive that’s a great choice for a wide range of styl
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+VOX's Straight 6 Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Overdrive Tube Tube overdrive running a 12AX7 at 200V.
+Baxandall EQ for warm, authentic high-voltage tube breakup.
+All-analog discrete circuitry with no integrated circuits delivers authentic British-voiced overdrive.
+
+### Sources checked in this pass
+1. Straight 6 Drive — Vox Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/vox/straight-6-drive
+2. Straight 6 Overdrive - Vox Amps: https://voxamps.com/product/straight-6-overdrive/

@@ -37,3 +37,22 @@ Its launch fills a critical gap in the market: no other production pedal offers 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+By Nina Harper July 21, 2026 Stomp Under Foot has launched the Dirty Rooster , a groundbreaking analog overdrive pedal explicitly designed for pianists, organists, and keyboard players—not guitarists.
+
+### Verified transistor/device terms
+- silicon transistor.
+
+### Verified sound evidence
+By Nina Harper July 21, 2026 Stomp Under Foot has launched the Dirty Rooster , a groundbreaking analog overdrive pedal explicitly designed for pianists, organists, and keyboard players—not guitarists.
+Its launch fills a critical gap in the market: no other production pedal offers simultaneous preservation of piano transient attack, harmonic richness in the 200–800 Hz fundamental zone, and smooth saturation above 2 kHz without muddiness or high-frequency glare.
+Why Keyboard Players Needed Their Own Overdrive For decades, keyboardists have borrowed guitar distortion units out of necessity—not compatibility.
+
+### Sources checked in this pass
+1. Stomp Under Foot Introduces The Dirty Rooster: A Deep Dive Into the New Analog Overdrive Pedal for Piano, Keyboard, and Synth Players | GearStrings: https://gearstrings.com/piano/stomp-under-foot-introduces-the-dirty-rooster
+2. JUMBO DIRTY ROOSTER VINTAGE MINI / LIMITED EDITION – Stomp Under Foot American Express Apple Pay Bancontact Diners Club Discover Google Pay Mastercard MB WAY PayPal Shop Pay Visa: https://stompunderfoot.com/products/jumbo-dirty-rooster

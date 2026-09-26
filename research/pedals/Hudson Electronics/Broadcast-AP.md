@@ -1,23 +1,43 @@
 # Hudson Electronics — Broadcast-AP
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Broadcast-AP
 - **Builder:** Hudson Electronics
-- **Pedal:** Broadcast-AP
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Hudson Electronics's Broadcast-AP.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Broadcast-AP** by **Hudson Electronics** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+At the heart of the Broadcast-AP – as the name may suggest – is the same circuitry as the Broadcast .
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Germanium transistor, Silicon transistors.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+We took the low-gain side of the standard Broadcast as the starting point.
+These two changes together give the Broadcast-AP a darker, smoother, more powerful tone compared to the standard version.
+The GAIN TRIM control has 12dB more gain than the low-gain side of standard Broadcast, allowing the Broadcast-AP to cover ground from clean boost through to medium gain overdrive tones.
+
+## Sources checked
+1. BROADCAST-AP – HUDSON ELECTRONICS UK: https://hudsonelectronicsuk.com/product/broadcast-ap/
+2. Hudson Electronics Broadcast-AP Ariel Posen Signature - Reverb: https://reverb.com/p/hudson-electronics-broadcast-ap-ariel-posen-signature
+3. Hudson Electronics Broadcast AP – Found Sound: https://foundsound.com.au/products/43614
+4. Hudson Electronics Ariel Posen Signature Broadcast-AP - Equipboard: https://equipboard.com/items/hudson-electronics-ariel-posen-signature-broadcast-ap
+5. Hudson Electronics Broadcast-AP review | Guitar World: https://www.guitarworld.com/reviews/hudson-electronics-broadcast-ap-review
+6. Hudson Electronics Broadcast AP | Ariel Posen Signature Preamp: https://electricmojoguitars.com/products/hudson-broadcast-ariel-posen
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

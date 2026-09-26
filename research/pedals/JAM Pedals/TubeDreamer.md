@@ -1,23 +1,41 @@
 # JAM Pedals — TubeDreamer
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** TubeDreamer
 - **Builder:** JAM Pedals
-- **Pedal:** TubeDreamer
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** JAM Pedals's TubeDreamer.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **TubeDreamer** by **JAM Pedals** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Comes in 4 versions : TubeDreamer 58 : TD58 offers the classic Tubescreamer sound using the JRC4558 chip just like the original Tubescreamer.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Information JAM Pedals Vintage Overdrive based on the legendary original Ibanez® Tubescreamer808.
+Our TubeDreamers offer much more clarity than typical overdrive units.
+TubeDreamer 72 : Our most transparent overdrive, made for those that need to have the sound of their cranked tube amp, at a lower volume.
+
+## Sources checked
+1. Tubedreamer - JAM Pedals: https://jampedals.com/product-category/uncategorized/tubedreamer/
+2. JAM Pedals TubeDreamer 58 - Reverb: https://reverb.com/p/jam-pedals-tubedreamer-58
+3. JAM Pedals Tubedreamer — Overdrive Pedal | Equipboard: https://equipboard.com/items/jam-pedals-tubedreamer
+4. JAM Pedals TubeDreamer | Effects Database: https://www.effectsdatabase.com/model/jampedals/tubedreamer
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -6,17 +6,19 @@
   "sources": [
     {
       "url": "https://www.wrenandcuff.com/products/og-caprid",
-      "title": "OG Caprid — Wren and Cuff",
+      "title": "OG Caprid \u2014 Wren and Cuff",
       "h1": "OG Caprid OG Caprid",
-      "excerpt": "Home Pedals All Pedals Muffs Distortion/Fuzz Boost and Compression Info Shipping Warranty Repairs Artists About Us FAQ's Gift Cards Apparel Dealers Contact B-Stock $324.99 Ram's Head Recreated True hard-wire bypass 9V battery or 2.1mm adapter Made in the USA Lifetime warranty Quantity: Add To Cart After many years, and many requests, we’ve finally given in and reissued our famous original Caprid!",
-      "host": "www.wrenandcuff.com"
+      "excerpt": "Home Pedals All Pedals Muffs Distortion/Fuzz Boost and Compression Info Shipping Warranty Repairs Artists About Us FAQ's Gift Cards Apparel Dealers Contact B-Stock $324.99 Ram's Head Recreated True hard-wire bypass 9V battery or 2.1mm adapter Made in the USA Lifetime warranty Quantity: Add To Cart After many years, and many requests, we\u2019ve finally given in and reissued our famous original Caprid!",
+      "host": "www.wrenandcuff.com",
+      "source_kind": "manufacturer"
     },
     {
       "url": "https://www.masterguitarworks.com/products/wren-and-cuff-effect-pedals-og-caprid/",
       "title": "Wren and Cuff Effect Pedals - OG Caprid",
       "h1": "",
-      "excerpt": "Wren and Cuff Effect Pedals – OG Caprid $ 172.10 Original price was: $172.10. $ 65.00 Current price is: $65.00. 139 in stock Default: Default",
-      "host": "www.masterguitarworks.com"
+      "excerpt": "Wren and Cuff Effect Pedals \u2013 OG Caprid $ 172.10 Original price was: $172.10. $ 65.00 Current price is: $65.00. 139 in stock Default: Default",
+      "host": "www.masterguitarworks.com",
+      "source_kind": "catalog_verified"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

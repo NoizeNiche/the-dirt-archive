@@ -9,15 +9,17 @@
       "title": "Coron HO-320 Heavy Over Drive | Effects Database",
       "h1": "Coron HO-320 Heavy Over Drive",
       "excerpt": "Exact-model page identifies the Coron last-series HO-320 and lists Low Boost, High Boost, Level and Drive controls.",
-      "host": "www.effectsdatabase.com"
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
     },
     {
       "url": "https://reverb.com/item/84783962-coron-ho-320-heavy-over-drive-made-in-japan-near-mint-w-box",
       "title": "Coron HO-320 Heavy Over Drive Made in Japan",
       "h1": "Coron HO-320 Heavy Over Drive",
       "excerpt": "Exact-model Reverb listing corroborates the HO-320 identity and Japanese manufacture.",
-      "host": "reverb.com"
+      "host": "reverb.com",
+      "source_kind": "reverb"
     }
   ],
-  "next_action": "Write the canonical record from the exact sources, preserving the four-control layout and Japanese provenance without inventing circuitry."
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

@@ -35,3 +35,14 @@ Home Pedals All Pedals Muffs Distortion/Fuzz Boost and Compression Info Shipping
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Wren and Cuff's OG Caprid is cataloged as a distortion / fuzz pedal.
+
+### Sources checked in this pass
+1. OG Caprid — Wren and Cuff: https://www.wrenandcuff.com/products/og-caprid
+2. Wren and Cuff Effect Pedals - OG Caprid: https://www.masterguitarworks.com/products/wren-and-cuff-effect-pedals-og-caprid/

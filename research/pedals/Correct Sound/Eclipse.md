@@ -47,3 +47,18 @@ Eclipse is designed to bring the Sunn Concert Lead-style preamp character into a
 1. Audiofanzine - Correct Sound Eclipse
 2. Reverb - Correct Sound Eclipse
 3. Gear and Loathing in San Diego - Correct Sound Eclipse user discussion
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Correct Sound's Eclipse is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified version references
+- The evidence references: Mk II.
+
+### Sources checked in this pass
+1. Correct Sound Eclipse | Effects Database: https://www.effectsdatabase.com/model/correctsound/eclipse
+2. Correct Sound eclipse - Bass Amp Simulator - Audiofanzine: https://en.audiofanzine.com/bass-amp-simulator/correct-sound/eclipse/
+3. Correct Sound eclipse - Simulateur d'ampli basse - Audiofanzine: https://fr.audiofanzine.com/simulateur-ampli-basse/correct-sound/eclipse/

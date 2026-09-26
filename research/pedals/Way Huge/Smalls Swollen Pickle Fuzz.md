@@ -40,3 +40,23 @@ Use the Loudness, Sustain, and Filter controls to season your sound to taste.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Way Huge's Smalls Swollen Pickle Fuzz is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Related Products Quick view Add to Cart WAY HUGE Jumbo Swollen PIckle Fuzz $149.99 WAYHUGE Quick view Add to Cart WAY HUGE Smalls Aqua-Puss Analog Delay $179.99 WAYHUGE Quick view Add to Cart Way Huge Blue Hippo Analog Chorus Pedal $179.99 WAYHUGE Quick view Add to Cart Fender The Pelt Fuzz $229.99 Fender
+
+### Verified sound evidence
+WAYHUGE SKU: WM41-1 $159.99 (You save ) WM41 The Way Huge Smalls Swollen Pickle Jumbo Fuzz concentrates all the potent flavors of its predecessors into a super pedalboard-friendly housing with a simpler interface so that you can plug in and serve up savory saturation in no time at all.
+The Long Story The Way Huge Smalls Swollen Pickle Jumbo Fuzz concentrates all the potent flavors of its predecessors into a super pedalboard-friendly housing with a simpler interface so that you can plug in and serve up savory saturation in no time at all.
+For further customization of your delicious dish, flip the Scoop switch to carve out the mids for power chords that sound huge, and use the Crunch switch to toggle compression intensity.
+
+### Sources checked in this pass
+1. WAY HUGE Smalls Swollen Pickle Fuzz: https://momsmusic.com/way-huge-smalls-swollen-pickle-fuzz/
+2. WAY HUGE® SMALLS™ SWOLLEN PICKLE® FUZZ | Northeast Music Center Inc. my-cart-icon svg-my-account svg-arrow-next svg-arrow-prev: https://nemusiccenter.com/way-huge-smalls-swollen-pickle-fuzz/
+3. Way Huge Smalls Swollen Pickle Fuzz - Guitar Guys: https://www.guitarguysohio.com/product/way-huge-smalls-swollen-pickle-fuzz/

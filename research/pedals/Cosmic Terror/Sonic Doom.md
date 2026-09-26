@@ -51,3 +51,22 @@ The Sonic Doom is built around very high output, long sustain, strong articulati
 3. Reverb - Cosmic Terror Effects Sonic Doom
 4. Delicious Audio - Cosmic Terror Sonic Doom V4
 5. Cosmic Terror Cabinets and Effects - Sonic Doom demo
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+by Paolo De Gregorio Guitarists with a knack for sonic devastation should check out the C osmic Terror Sonic Doom , a fuzz that delivers extreme loudness, razor-sharp string articulation, and endless sustain—without feedback, muddiness, or low-end loss.
+
+### Verified version references
+- The evidence references: V3, V4.
+
+### Verified sound evidence
+by Paolo De Gregorio Guitarists with a knack for sonic devastation should check out the C osmic Terror Sonic Doom , a fuzz that delivers extreme loudness, razor-sharp string articulation, and endless sustain—without feedback, muddiness, or low-end loss.
+Controls: Gravity: Adjusts fuzz/sustain—from overdrive-like tones at lower settings to infinite sustain at max.
+Sonority: Shapes the fuzz character, from desert-rock grit to screaming distortion.
+
+### Sources checked in this pass
+1. Updated Pedal: Cosmic Terror Sonic Doom V4 Fuzz | Delicious Audio: https://delicious-audio.com/updated-pedal-cosmic-terror-sonic-doom-v4-fuzz/
+2. The Sonic Doom by Cosmic Terror | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Cosmic-Terror/The-Sonic-Doom/8404274555/

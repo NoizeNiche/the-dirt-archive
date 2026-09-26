@@ -37,3 +37,19 @@ This allows for over-the-top octave fuzz with a huge & punchy bottom end.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on January 30, 2013 VFE Pedals octave fuzz (1 octave down) pedal NAMM 2013 Information VFE Pedals The initial goal of the Woodchipper is to cram the vintage Maestro Brassmaster circuit into a VFE size enclosure.
+
+### Verified sound evidence
+Published on January 30, 2013 VFE Pedals octave fuzz (1 octave down) pedal NAMM 2013 Information VFE Pedals The initial goal of the Woodchipper is to cram the vintage Maestro Brassmaster circuit into a VFE size enclosure.
+The BOTTOM control blends a clean, low frequency part of the signal & infuses it into the fuzz section.
+This allows for over-the-top octave fuzz with a huge & punchy bottom end.
+
+### Sources checked in this pass
+1. Woodchipper by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Woodchipper/68986111/
+2. VFE Pedals Woodchipper | Effects Database: https://www.effectsdatabase.com/model/vfe/woodchipper

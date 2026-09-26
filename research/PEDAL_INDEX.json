@@ -3808,8 +3808,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 354,
       "image_source_url": "https://www.harpelite.com/catalog/458-home_default/lone-wolf-boogieman-pedal.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Anarchy Audio Australia",
@@ -7741,8 +7741,8 @@
       "research_record": "./research/pedals/Basic Audio/Scarab Deluxe.md",
       "image_source_page": "https://stangguitars.com/",
       "image_source_url": "https://stangguitars.com/cdn/shop/files/lbhhrbb2r5fhq2skubcm_1024x1024%402x.jpg?v=1732480685",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Basic Audio",
@@ -7977,8 +7977,8 @@
         "https://cdn.rockboard.de/common/image_f5455513-518f-4cce-bd59-5fb21b17b079.webp"
       ],
       "image": "./assets/pedals/bearfoot-fx/bone-bender-mki-fuzz/primary.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BearFoot FX",
@@ -25679,8 +25679,8 @@
       "image": "./assets/pedals/coron/ho-320-heavy-over-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coron/HO-320 Heavy Over Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coron",
@@ -25719,8 +25719,8 @@
       "image": "./assets/pedals/correct-sound/eclipse/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Correct Sound/Eclipse.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Correct Sound",
@@ -25758,8 +25758,8 @@
       "image": "./assets/pedals/correct-sound/tube-beta-hybrid-mk-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Correct Sound/Tube Beta Hybrid Mk-II.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cortez",
@@ -25808,8 +25808,8 @@
       "image": "./assets/pedals/cosmic-sound-fx/the-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmic Sound FX/The MkII.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cosmic Terror",
@@ -25883,8 +25883,8 @@
       "image": "./assets/pedals/cosmic-terror/sonic-doom/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmic Terror/Sonic Doom.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cosmic Terror",
@@ -29126,8 +29126,8 @@
       "image": "./assets/pedals/deadastronautfx/black-triangle/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DeadastronautFX/Black Triangle.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DeadastronautFX",
@@ -33088,8 +33088,8 @@
       "image": "./assets/pedals/fjord-fuzz/sol/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/SOL.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fjord Fuzz",
@@ -34582,8 +34582,8 @@
       "image": "./assets/pedals/hudson-electronics/broadcast-ap/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Broadcast-AP.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Hudson Electronics",
@@ -35807,8 +35807,8 @@
       "image": "./assets/pedals/jam-pedals/tubedreamer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/TubeDreamer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -45740,8 +45740,8 @@
       "image": "./assets/pedals/stomp-under-foot/alabaster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Alabaster.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
@@ -45814,8 +45814,8 @@
       "image": "./assets/pedals/stomp-under-foot/civil-war/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Civil War.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
@@ -45850,8 +45850,8 @@
       "image": "./assets/pedals/stomp-under-foot/dirty-rooster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Dirty Rooster.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
@@ -45862,8 +45862,8 @@
       "image": "./assets/pedals/stomp-under-foot/divided-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Divided Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
@@ -45887,8 +45887,8 @@
       "image": "./assets/pedals/stomp-under-foot/full-powered-halo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Full Powered Halo.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
@@ -45997,8 +45997,8 @@
       "image": "./assets/pedals/stomp-under-foot/overdrive-8-fifty/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Overdrive 8-Fifty.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
@@ -46081,8 +46081,8 @@
       "image": "./assets/pedals/stomp-under-foot/red-menace-vintage-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Red Menace Vintage Mini.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
@@ -48409,8 +48409,8 @@
       "image": "./assets/pedals/vfe-pedals/the-triplet/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/The Triplet.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",
@@ -48433,8 +48433,8 @@
       "image": "./assets/pedals/vfe-pedals/triumvirate/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Triumvirate.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",
@@ -48445,8 +48445,8 @@
       "image": "./assets/pedals/vfe-pedals/woodchipper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Woodchipper.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vick Audio",
@@ -48891,8 +48891,8 @@
       "image": "./assets/pedals/vox/straight-6-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VOX/Straight 6 Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VOX",
@@ -49693,8 +49693,8 @@
       "image": "./assets/pedals/wampler-pedals/moxie/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Moxie.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wampler Pedals",
@@ -50107,8 +50107,8 @@
       "research_record": "./research/pedals/Way Huge/Fat Sandwich.md",
       "image_source_url": "https://i.ebayimg.com/images/g/sTwAAeSwUy9pdvEP/s-l100.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/wayhuge/dunlop/whe301",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
@@ -50193,8 +50193,8 @@
       "research_record": "./research/pedals/Way Huge/Jumbo Fuzz Swollen Pickle XXX.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4092b137d798432/1790330284315/ArfqeqSBXXZKr9kzQWSH0LSBFvzyPcm2AuH0MUaVB.k-1790330284-1.3.1.1-X3s3qsyqdOeXz4q_HQhdAOG.4d0Ni_YknHwEWdJ7ARNx9sHRBcw84qPDCa37Lj0TiddtcybHPmcwQAAkEZsNS._cZyI3aJpxIg7aQLvJsqAb4ChaGlrkJbAtecEZhZCv5VqE0sEG6dgkv8HdmDgDhzdw4ImebfsP39m9xI2fYcgNtvCRo6_yf43PXm3Il0O8W.iTnN58bCF0hAlGNmwzroqfoURPlkQTMP7gcElqI3WbjrD0JOJa57BUVmWQofsIs2auFuSjctrZz4M5NEF8ATsneh09nU9JhypXj7Li_xsgEmv8M_rkwUpNvwDJAnG7jGVZZhCJkxaioB6FJ8kTaCykz2HRHp2FSGNRqZqHhzRsTrBChkFLa.7v1fKibIJALXMCH8vgL_SLDH3a1iHshemm51Ub6hRDWGV5U4tnwxkruBRXQsm8Y4a8tURJYe9DSyTIOWzDzjgYPelEsYDlcxGyg5quTnF76WeCO06aUYNDS1TDtD5RdGdkYXyjnKdmxTJMMNeiUVLKhLWncO16lqQKpHPJZ_5KQfMyJakCO2ls3Fj5M9UDJBHSb8QFFhgF2IGg.4dmIKYFmNnOCoWn6Lw4BJxnkuu2eH70WUQu.STSbPI2Z6vwdTDB8XsTKsxnD3QNfWedoYomaDQnnYpxsFuV4GujSRdKUAeTQ8bqDRyeCCMTCOs_q9K70.otag4Hb8ST0Uqjhk_78OyV0k295XDYuN9pRVRo9SZ47B0zPVE",
       "image_source_page": "https://reverb.com/item/96940315-way-huge-whe407-jumbo-fuzz-swollen-pickle-xxx-pedal",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
@@ -50398,8 +50398,8 @@
       "image": "./assets/pedals/way-huge/smalls-swollen-pickle-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Smalls Swollen Pickle Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
@@ -50569,8 +50569,8 @@
       "image": "./assets/pedals/wren-and-cuff/box-of-war-small-foot/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Box of War Small Foot.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",
@@ -50699,8 +50699,8 @@
       "image": "./assets/pedals/wren-and-cuff/og-caprid/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/OG Caprid.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",

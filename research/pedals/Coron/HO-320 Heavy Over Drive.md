@@ -36,3 +36,17 @@ The dedicated low and high boost controls give the HO-320 more tone-shaping flex
 ## Sources checked
 1. Effects Database - Coron HO-320 Heavy Over Drive
 2. Reverb - Coron HO-320 Heavy Over Drive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coron's HO-320 Heavy Over Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Exact-model page identifies the Coron last-series HO-320 and lists Low Boost, High Boost, Level and Drive controls.
+
+### Sources checked in this pass
+1. Coron HO-320 Heavy Over Drive | Effects Database: https://www.effectsdatabase.com/model/coron/last/ho320
+2. Coron HO-320 Heavy Over Drive Made in Japan: https://reverb.com/item/84783962-coron-ho-320-heavy-over-drive-made-in-japan-near-mint-w-box
