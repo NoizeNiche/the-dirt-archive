@@ -7,10 +7,10 @@
 - **Identity:** Danelectro's Eisenhower Fuzz.
 
 ## What this pedal is
-Danelectro's Eisenhower Fuzz is cataloged as a Fuzz pedal.
+intheblues 29,385 views 08:50 Danelectro The Breakdown Overdrive Pedal
 
 ## Colorways
-- Red Hot Longhorn ® Triple Divine™ & 59 Divine™ Longhorn® & 66BT Baritone Blackout 59™ & Stock ’59 Doubleneck ’57 Guitar ’66-12 String Lefty Guitars ’64XT Guitar ’59X12 Metal Flake 59M NOS+™ ’59XT Guitar ’66T Guitar 12 String & Vintage 12/Bari 1959 Guitars Sitar/Resonator Baritone & Bass ’67 Guitar Accessories Peace Love & Fuzz Book Honeytone Mini Amp 1960’s Vintage Battery See All Accessories Pedals NEW!
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.
@@ -27,11 +27,13 @@ Danelectro's Eisenhower Fuzz is cataloged as a Fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Red Hot Longhorn ® Triple Divine™ & 59 Divine™ Longhorn® & 66BT Baritone Blackout 59™ & Stock ’59 Doubleneck ’57 Guitar ’66-12 String Lefty Guitars ’64XT Guitar ’59X12 Metal Flake 59M NOS+™ ’59XT Guitar ’66T Guitar 12 String & Vintage 12/Bari 1959 Guitars Sitar/Resonator Baritone & Bass ’67 Guitar Accessories Peace Love & Fuzz Book Honeytone Mini Amp 1960’s Vintage Battery See All Accessories Pedals NEW!
-Spring King™ Junior Nichols 1966™ 3699 fUZZ™ Back Talk™ & Roebuck™ The Breakdown™ & Eisenhower Fuzz™ Artists History Contact/Service Search for: Buy It
+Over the top Fuzz with super hot Octave effect.
+Sculpt setting scoops mids and boosts bass for outrageous “in your face” tone.
+Buy The Eisenhower Fuzz ™ Sweetwater www.sweetwater.com Reverb www.reverb.com "It can make your amp do things you may never have heard it do before.
 
 ## Sources checked
 1. The Breakdown™ & Eisenhower Fuzz™ | Danelectro Guitars: https://danelectro.com/pedals/breakdown-eisenhower/
+2. Sweetwater www.sweetwater.com: https://www.sweetwater.com/store/detail/Eisenhower--danelectro-eisenhower-fuzz-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

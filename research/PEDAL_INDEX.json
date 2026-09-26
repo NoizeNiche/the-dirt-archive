@@ -2847,8 +2847,8 @@
       "source_page": "https://www.guitarsofa.com/effects/amptweaker-fat-metal",
       "research_record": "./research/pedals/Amptweaker/Fat_Metal.md",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/5a962cdc3c3a538b735ef674/1756021293449-ABTAGJGOLR92M6XGW6UD/AE3240B9-6A7C-4135-BB52-2C4E78EC0952.jpeg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -2860,8 +2860,8 @@
       "source_page": "https://reverb.com/item/16791001-amptweaker-fat-metal-pro",
       "research_record": "./research/pedals/Amptweaker/Fat_Metal_Pro.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--v7ENKDWT--/quality=medium-low,height=800,width=800,fit=contain/frer9lwrdofzybebfwdv.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -28535,8 +28535,8 @@
       "image": "./assets/pedals/danelectro/eisenhower-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Eisenhower Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -31015,8 +31015,8 @@
       "image": "./assets/pedals/earthquaker-devices/black-ash/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Black Ash.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",

@@ -4,63 +4,36 @@
 - **Archive parent:** Fat Metal
 - **Builder:** Amptweaker
 - **Catalog type:** Distortion
-- **Introduction:** 2015 NAMM generation; builder announcement dated Dec. 9, 2014.
-- **Identity:** Distinct warmer, looser-feeling sibling/variation of TightMetal, but cataloged as its own parent pedal.
+- **Identity:** Amptweaker's Fat Metal.
 
 ## What this pedal is
-Amptweaker developed FatMetal for players who wanted a warmer, thicker high-gain distortion with less emphasis on hard palm-muted articulation. The design extends the low range of the Tone and Tight controls, adds a Black Gain switch for thicker buzzier gain, and retunes the noise gate for more sustain. [1][2]
+Amptweaker's Fat Metal is cataloged as a distortion pedal.
 
 ## Colorways
-- Documented factory examples use a black full-size enclosure.
-- Red illumination is part of the LED control system, not a colorway.
-- No separate factory functional color variant was established.
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Versions and factory modifications
-### FatMetal — original full-size production
-Documented features:
-- Volume, Tone, Gain, Tight
-- Thrash switch
-- Black Gain switch
-- gain-tracking noise gate
-- Pre/Post effects loop
-- SideTrak loop that operates when the pedal is bypassed
-- LED-lit controls with adapter power
-- battery disconnect
-- true bypass
-- 9–18V operation [1][3]
-
-### Factory modifications
-- No numbered factory revision or separate builder MOD was verified.
-- SideTrak and the retuned gate are part of the original production design.
+## Versions and factory options
+- The verified evidence references: v4.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
-FatMetal was intentionally built as a warmer alternative to TightMetal, extending the low range of Tone/Tight and changing the gate behavior to allow more sustain. The Black Gain switch adds thicker, buzzier gain for black metal and similarly heavy styles, while Thrash produces a more mid-scooped classic-metal voice. [1][2]
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Type:** Unknown.
-- No FatMetal-specific semiconductor documentation located.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Unknown.
-- No FatMetal-specific schematic/component record located.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-FatMetal produces a thick, warmer distortion with substantially more low-frequency mass than the tightly focused TightMetal approach. It can move from medium overdrive into saturated metal, with the Black Gain mode pushing the sound toward a very thick, buzzy, sustaining character and the Thrash switch adding a more scooped vintage-metal contour. [3]
-
-## Research confidence
-- **Identity/history:** High
-- **Feature set:** High
-- **Factory-version history:** Moderate to high
-- **Transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
-
-## Photo
-- **Verified image:** GuitarSofa photograph showing FatMetal.
-- **Source page:** https://www.guitarsofa.com/effects/amptweaker-fat-metal
+The Thrash switch converts the basic tone into a heavier, more mid-scooped tone for classic vintage metal tones.
 
 ## Sources checked
-1. Effects Database — Amptweaker FatMetal, Jan. 16, 2015: https://www.effectsdatabase.com/model/amptweaker/fatmetal
-2. FatMetal web manual: https://media.rockboard.de/Artikell_PDF/Manual_PDF/Amptweaker/EN/AT_FATMETAL_Manual_-_EN.pdf
-3. Vintage Guitar — Amptweaker's FatMetal Distortion, 2015: https://www.vintageguitar.com/23124/amptweakers-fatmetal-distortion/
-4. Guitar World — Review: Amptweaker FatMetal Distortion Pedal: https://www.guitarworld.com/magazine/review-amptweaker-fatmetal-distortion-pedal-video
+1. Used Amptweaker Fat Metal — GUITARSOFA SHOP: https://www.guitarsofa.com/effects/amptweaker-fat-metal
+2. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fwww.guitarsofa.com%252Feffects%252Famptweaker-fat-metal%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
+3. JavaScript is not available.: https://x.com/intent/tweet?url=https%3A%2F%2Fwww.guitarsofa.com%2Feffects%2Famptweaker-fat-metal&text=This+used+FatMetal+Pro+is+designed+for+...
+
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

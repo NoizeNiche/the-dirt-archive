@@ -4,66 +4,40 @@
 - **Archive parent:** Fat Metal Pro
 - **Builder:** Amptweaker
 - **Catalog type:** Distortion
-- **Introduction:** 2016
-- **Identity:** Separate Pro-series model, created as the two-button Pro counterpart to FatMetal rather than a cosmetic or minor revision of the one-button FatMetal.
+- **Identity:** Amptweaker's Fat Metal Pro.
 
 ## What this pedal is
-Amptweaker announced FatMetal Pro in May 2016 after customer requests for a two-button version of the FatMetal concept. It keeps the warmer/looser FatMetal voicing but adds dual boost stages, a boost-controlled effects loop, expanded EQ, and more elaborate routing. [1][2]
+99 Join Prime to get FREE delivery Mon, Sep 28 Add to cart Amazon's Choice Donner Donner Giant Metal Distortion Pedal -Boost Distortion for Electric Guitar, Pedalboards, 3 Modes True Bypass 4.2 (664) 100+ viewed in past month $39.99 $ 39 .
 
 ## Colorways
-- Documented production examples use the black full-size Pro enclosure.
-- No factory functional colorway variation was established.
-- Cosmetic differences do not create versions.
+- Drive B (orange LED) is the same as the single Godfather Overdrive pedal, while Drive A (red LED) is voiced for m..
 
-## Versions and factory modifications
-### FatMetal Pro — original production
-Documented features:
-- Volume, Low, Mid, High, Gain, Tight
-- Boost Gain and Boost Volume controls
-- Black Gain switch
-- Thrash and Smooth/Edge switching
-- boost-controlled Mid Boost
-- internal Fat switches
-- gain-tracking noise gate with Chomp capability
-- Universal loop
-- Boost loop
-- SideTrak loop
-- LED-lit controls
-- battery disconnect
-- true bypass
-- 9–18V operation [1][3]
-
-### Factory modifications
-- No numbered factory revision or builder MOD verified in this pass.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-FatMetal Pro expands the original FatMetal concept into the Pro chassis with independent pre- and post-distortion boost controls and three effects loops. The boost footswitch also engages its associated loop and mid/fat voicing changes, making the Pro a separate performance platform rather than simply a two-switch cosmetic version of the original FatMetal. [1][2]
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Type:** Unknown.
-- No FatMetal Pro-specific transistor documentation located.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Unknown.
-- No FatMetal Pro-specific schematic or component document located.
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
 
 ## Sound
-FatMetal Pro retains the warmer, thicker character that distinguishes FatMetal from the tighter side of Amptweaker's metal family, but gives the player much finer control over boost, EQ, and routing. Its Black Gain and low-end-extended voice favor thick, sustained, buzzier high gain, while the boost system can push gain and volume independently for rhythm-to-lead transitions. [1][2]
-
-## Research confidence
-- **Identity/introduction:** High
-- **Feature set:** High
-- **Factory-version history:** Moderate to high
-- **Transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
-
-## Photo
-- **Verified image:** Reverb product image showing FatMetal Pro.
-- **Source page:** https://reverb.com/item/16791001-amptweaker-fat-metal-pro
+99 Join Prime to get FREE delivery Mon, Sep 28 Add to cart JOYO JOYO High-Gain Distortion Guitar Pedal, American & British Voicing via Bias Knob with 3-Band EQ & Dynamic Balance, True Bypass (UZI R-03) 4.3 (484) 50+ bought in past month $48.99 $ 48 .
+99 Join Prime to get FREE delivery Mon, Sep 28 Add to cart Amazon's Choice Donner Donner Giant Metal Distortion Pedal -Boost Distortion for Electric Guitar, Pedalboards, 3 Modes True Bypass 4.2 (664) 100+ viewed in past month $39.99 $ 39 .
+99 Join Prime to get FREE delivery Mon, Sep 28 Add to cart Empress Effects Empress Effects Heavy Hi-Gain Distortion Pedal 4.2 (73) $322.42 $ 322 .
 
 ## Sources checked
-1. Effects Database — Amptweaker FatMetal Pro, published May 22, 2016: https://www.effectsdatabase.com/model/amptweaker/fatmetal/pro
-2. Amptweaker FatMetal Pro web manual: https://www.bax-shop.nl/downloads/products/9000-0051-3095/fatmetal-pro-web-manual-2016.pdf
-3. Delicious Audio — SNAMM 2016 FatMetal Pro: https://delicious-audio.com/snamm-2016-stompbox-exhibit-amptweaker-introduces-the-fatmetal-pro/
-4. Reverb — Amptweaker FatMetal Pro listing/photo: https://reverb.com/item/16791001-amptweaker-fat-metal-pro
+1. catalog/override source: https://reverb.com/item/16791001-amptweaker-fat-metal-pro
+2. Fat Metal Pro II - amptweaker: https://amptweaker.com/product/fat-metal-pro-ii/
+3. https://www.amazon.com/clp/B08P2BXJ8Q: https://www.amazon.com/clp/B08P2BXJ8Q
+4. Amptweaker Fat Metal Pro II - Full Compass Systems: https://www.fullcompass.com/prod/635230-amptweaker-fat-metal-pro-ii-fat-metal-pro-ii-distortion-effect-pedal
+5. Amptweaker Fat Metal Pro II: https://guitarpedalshoppe.com/Amptweaker-Fat-Metal-Pro-II
+6. Amptweaker Fat Metal Pro II - What To Know & Where To Buy: https://equipboard.com/items/amptweaker-fat-metal-pro-ii
+
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
