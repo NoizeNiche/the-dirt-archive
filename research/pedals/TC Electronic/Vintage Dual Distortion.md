@@ -1,23 +1,39 @@
 # TC Electronic — Vintage Dual Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Vintage Dual Distortion
 - **Builder:** TC Electronic
-- **Pedal:** Vintage Dual Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** TC Electronic's Vintage Dual Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Vintage Dual Distortion** by **TC Electronic** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+TC Electronic's Vintage Dual Distortion is cataloged as a Distortion pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. TC Electronic Vintage Dual Distortion pedal - Equipboard: https://equipboard.com/items/tc-electronic-vintage-dual-distortion-pedal
+2. TC Electronic Vintage Dual Distortion - Reverb: https://reverb.com/p/tc-electronic-vintage-dual-distortion
+3. TC Electronic Vintage Dual Distortion - Effects Database: https://www.effectsdatabase.com/model/tcelectronic/vintage/dualdistortion
+4. TC ELECTRONIC VINTAGE DUAL DISTORTION Distortion - eBay: https://www.ebay.com/itm/358101597168
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

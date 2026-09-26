@@ -1239,8 +1239,8 @@
       "research_record": "./research/pedals/Add+ Pedals/Great White 2.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--s8mvnB_k--/quality=medium-low,height=800,width=800,fit=contain/qrd2s18dsurqeeh4rvev.png",
       "image_source_page": "https://reverb.com/p/ta-pedals-great-white-distortion",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -46855,8 +46855,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Vintage Dual Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",
