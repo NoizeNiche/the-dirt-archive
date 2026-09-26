@@ -1,23 +1,39 @@
 # Foxrox Electronics — CC Hybrid2
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** CC Hybrid2
 - **Builder:** Foxrox Electronics
-- **Pedal:** CC Hybrid2
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Foxrox Electronics's CC Hybrid2.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **CC Hybrid2** by **Foxrox Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+CC Hybrid2 is a very stable fuzz that rejects radio transmissions, and the tone does not change with temperature (two common Fuzz Face problems) Hybrid History The original CC Hybrid is named after the Foxrox Captain Coconut (CC) pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: silicon transistor, silicon transistors, germanium transistor.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Close Your Price: $219.00 CC Hybrid2 uses one germanium and one silicon transistor in the classic Fuzz Face circuit.
+CC Hybrid2 uses one of each, combining the warm, dark organic tone of germanium with the clarity and sustain of silicon.
+The Si/Ge transistor pair is selected by ear and biased to deliver a tone with all the best qualities of Germanium and Silicon.
+
+## Sources checked
+1. CC Hybrid2: https://www.foxroxelectronics.com/CCHybrid2.html
+2. Foxrox Electronics CC Hybrid2 Fuzz - Reverb: https://reverb.com/item/57892817-foxrox-electronics-cc-hybrid2-fuzz
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

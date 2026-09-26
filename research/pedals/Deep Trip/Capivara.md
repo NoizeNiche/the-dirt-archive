@@ -42,3 +42,27 @@ The biggest secret for this tone is related to the transistors' frequency respon
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Capivara is an exact replica of the first 1966 Fuzz Face, the only addition is an internal trimpot to fine tune the bias, but what's really special here is in the transistors.
+
+### Verified transistor/device terms
+- germanium transistor, AC153.
+
+### Verified sound evidence
+The Capivara is an exact replica of the first 1966 Fuzz Face, the only addition is an internal trimpot to fine tune the bias, but what's really special here is in the transistors.
+The biggest secret for this tone is related to the transistors' frequency response.
+The Capivara reproduces that delicious fat fuzz of the original fuzz faces , with very musical harmonics , elegant like a true classic: and as you turn the guitar volume down, it cleans up beautifully, bright and sharp like nothing else!
+
+### Sources checked in this pass
+1. Deep Trip Capivara - Reverb: https://reverb.com/item/58936054-deep-trip-capivara
+2. Capivara EN — DEEP TRIP PEDALS: http://deeptripland.com/capivara-en
+3. Deep Trip Custom Shop Capivara - www.play123music.com: https://www.play123music.com/product/deep-trip-custom-shop-capivara/
+4. Deep Trip Custom Shop Capivara “1966 Fuzz Face” Pedal | Guitar - Electric Guitar - Effects | crashcymx.com: https://www.crashcymx.com/product/deep-trip-custom-shop-capivara-1966-fuzz-face-pedal/
+5. Capivara by Deep Trip | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Deep-Trip/Capivara/8558939697/
+6. Deep Trip Custom Shop Capivara "1966 Fuzz Face" Pedal - MusicPayload – Guitars, Acoustic Electric, Harmonicas, Ukuleles, Pedals, Amps Music Accessories: https://www.musicpayload.com/product/deep-trip-custom-shop-capivara-1966-fuzz-face-pedal/
+7. STOMP BOX STEALS: FUZZ- DEEP TRIP Capivara ...a '66 Fuzz Face, serious sh@t: https://stompboxsteals.blogspot.com/2024/11/fuzz-deep-trip-capivara-fuzz-face-v.html

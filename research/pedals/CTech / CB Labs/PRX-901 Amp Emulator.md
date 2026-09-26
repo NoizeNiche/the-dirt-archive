@@ -34,3 +34,13 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CTech / CB Labs's PRX-901 Amp Emulator is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. CTech / CB Labs | Effects Database: https://www.effectsdatabase.com/model/ctech

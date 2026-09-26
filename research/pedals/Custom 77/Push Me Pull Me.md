@@ -35,3 +35,16 @@ This site contains affiliate links for which I may be compensated Custom 77 Push
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on January 5, 2012 Custom 77 overdrive pedal Video all
+
+### Verified sound evidence
+Published on January 5, 2012 Custom 77 overdrive pedal Video all
+
+### Sources checked in this pass
+1. Custom 77 Push Me Pull Me - Overdrive | Effects Database: https://www.effectsdatabase.com/model/custom77/pushmepullme

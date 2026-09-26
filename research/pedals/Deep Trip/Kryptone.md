@@ -40,3 +40,27 @@ If you hear Mick Ronson on Bowie’s Ziggy Stardust era (live in “Santa Monica
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Kryptone v3 comes from many years of continuous study and development (since 2007) over a core of first generation Vox Tonebender from mid sixties, a kind of tighter, brighter and more textured fuzz face, one of the classic fuzz pedals that defined rock.
+
+### Verified color/finish evidence
+- If you hear Mick Ronson on Bowie’s Ziggy Stardust era (live in “Santa Monica ‘72” is great), Pink Floyd at The Piper at the Gates of Dawn or British blues masterpieces by The Yardbirds, Cream, Faces, Stones and so on, those searing and cutting guitar tones sound like they could rip one’s ear apart from his head!
+
+### Verified version references
+- The evidence references: V2, V3, v3.
+
+### Verified sound evidence
+If you hear Mick Ronson on Bowie’s Ziggy Stardust era (live in “Santa Monica ‘72” is great), Pink Floyd at The Piper at the Gates of Dawn or British blues masterpieces by The Yardbirds, Cream, Faces, Stones and so on, those searing and cutting guitar tones sound like they could rip one’s ear apart from his head!
+After all these years, it’s getting hard to hear that kind of tone again.
+The Kryptone v3 comes from many years of continuous study and development (since 2007) over a core of first generation Vox Tonebender from mid sixties, a kind of tighter, brighter and more textured fuzz face, one of the classic fuzz pedals that defined rock.
+
+### Sources checked in this pass
+1. Deep Trip Kryptone v3 - Reverb: https://reverb.com/item/85781958-deep-trip-kryptone-v3
+2. KRYPTONE v3 — DEEP TRIP PEDALS: http://deeptripland.com/kryptone/
+3. Deep Trip Kryptone - Effects Database: https://www.effectsdatabase.com/model/deeptrip/kryptone
+4. Deep Trip Kryptone Fuzz - What To Know Where To Buy: https://equipboard.com/items/deep-trip-kryptone-fuzz

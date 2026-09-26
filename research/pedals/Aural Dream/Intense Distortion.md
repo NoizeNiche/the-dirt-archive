@@ -49,3 +49,17 @@ Intense Distortion is designed around a compact high-gain distortion range, with
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/auraldream/distortion/intense
 - **Archive note:** Exact-model images are visible through external listings/video coverage, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Aural Dream's Intense Distortion is cataloged as a distortion pedal.
+
+### Verified diode terms
+- LED.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/49159086-aural-dream-intense-distortion
+2. Aural Dream Intense Distortion | Effects Database: https://www.effectsdatabase.com/model/auraldream/distortion/intense

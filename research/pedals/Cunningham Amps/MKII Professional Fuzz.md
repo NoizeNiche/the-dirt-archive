@@ -37,3 +37,21 @@ Guitar Pedals Jul 26 Written By Edge of Breakup .
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cunningham Amps's MKII Professional Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified sound evidence
+Guitar Pedals Jul 26 Written By Edge of Breakup .
+
+### Sources checked in this pass
+1. MKII Professional Fuzz - Custom Order | Cunningham Amps: https://www.cunninghamamps.co.nz/product-page/mkii-professional-fuzz-custom-order
+2. Quick and dirty demo of the MKII Professional Fuzz ⚡️⚡️⚡️ This very pedal is available now in the webstore - link in bio ✨✨✨ Signal chain is Strat, Fuzz, 62 Bassman head and cab set real clean ⚡️⚡️⚡️ #quickanddirtydemos mkiiprofessional #germaniumfuzz #cunninghamamps #handmade #fuzzpedals #customfuzz #limitededition #sherwoodgreen #heavyrelic #tonebender #sandcast #tonebendermkii #fuzzpedal #tonefordays #guitargear #vintageguitar #vintagepedals #effectpedals #guitareffects #knowyourtone #dirtpedal #thefuzzpage #gutshotculture #artisanfuzz #fuzzdemo #guitardemo | Cunningham Amps: https://www.facebook.com/cunninghamamps/posts/quick-and-dirty-demo-of-the-mkii-professional-fuzz-%EF%B8%8F%EF%B8%8F%EF%B8%8F-this-very-pedal-is-availa/1449479877180235/
+3. The Perfect Tone Bender! | Cunningham Amps MKII Professional Fuzz (OC76 Germanium) — Edge of Breakup: https://www.edgeofbreakup.studio/latest-videos/the-perfect-tone-bender-cunningham-amps-mkii-professional-fuzz-oc76-germanium

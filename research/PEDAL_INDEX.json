@@ -5393,8 +5393,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 360,
       "image_source_url": "https://rvb-img.reverb.com/i/s--jS8_Awqn--/quality=medium-low,height=800,width=800,fit=contain/rlicl7ym1nsdcly2mffg.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Aural Dream",
@@ -10062,8 +10062,8 @@
       "research_record": "./research/pedals/PRP Batch 087/Bulls Eye Overdrive.md",
       "image_source_url": "https://theguitargallery.co.nz/wp-content/uploads/2025/10/thumbnail_bullseye-2-600x600.jpg",
       "image_source_page": "https://theguitargallery.co.nz/product/big-noise-bulls-eye-overdrive/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BigNoise Amplification",
@@ -27894,8 +27894,8 @@
       "image": "./assets/pedals/ctech-cb-labs/prx-901-amp-emulator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CTech / CB Labs/PRX-901 Amp Emulator.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CTech / CB Labs",
@@ -27906,8 +27906,8 @@
       "image": "./assets/pedals/ctech-cb-labs/prx-902-amp-emulator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CTech / CB Labs/PRX-902 Amp Emulator.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cultco",
@@ -27918,8 +27918,8 @@
       "image": "./assets/pedals/cultco/001-medium-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cultco/001 Medium Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cunningham Amps",
@@ -27972,8 +27972,8 @@
       "image": "./assets/pedals/cunningham-amps/mkii-professional-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cunningham Amps/MKII Professional Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cunningham Amps",
@@ -28094,8 +28094,8 @@
       "image": "./assets/pedals/cusack-music/screamer-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cusack Music/Screamer V2.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Custom 77",
@@ -28106,8 +28106,8 @@
       "image": "./assets/pedals/custom-77/push-me-pull-me/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Custom 77/Push Me Pull Me.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Custom Analog Pedals",
@@ -29491,8 +29491,8 @@
       "image": "./assets/pedals/deep-trip/capivara/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Deep Trip/Capivara.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Deep Trip",
@@ -29503,8 +29503,8 @@
       "image": "./assets/pedals/deep-trip/kryptone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Deep Trip/Kryptone.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Demedash Effects",
@@ -33318,8 +33318,8 @@
       "image": "./assets/pedals/foxpedal/vixen/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxpedal/Vixen.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxrox Electronics",
@@ -33330,8 +33330,8 @@
       "image": "./assets/pedals/foxrox-electronics/cc-hybrid2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxrox Electronics/CC Hybrid2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxrox Electronics",
