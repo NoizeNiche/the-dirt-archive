@@ -1,0 +1,33 @@
+{
+  "builder": "Alexander Pedals",
+  "pedal": "Royal Cream",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.alexanderpedals.com/support",
+      "title": "Support — Alexander Pedals",
+      "h1": "Support",
+      "excerpt": "The manufacturer's legacy-pedal section includes Royal Cream with its own product image. The same manufacturer FAQ states that Royal Cream runs from 9V to 18V, with higher voltages providing increased headroom, and that Alexander drive pedals except Defender are fully analog.",
+      "host": "www.alexanderpedals.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.premierguitar.com/the-afghan-whigs-gear",
+      "title": "The Afghan Whigs' Gear - Premier Guitar",
+      "h1": "The Afghan Whigs' Gear",
+      "excerpt": "Premier Guitar's October 18, 2017 gear index explicitly lists Alexander Pedals Royal Cream in the Afghan Whigs' gear.",
+      "host": "www.premierguitar.com",
+      "source_kind": "artist_gear_reference"
+    },
+    {
+      "url": "https://www.guitarpedalx.com/news/24-of-the-best-compact-distortion-pedals---2019-edition",
+      "title": "Guitar Pedal X - 24 of the Best Compact Distortion Pedals - 2019 Edition",
+      "h1": "24 of the Best Compact Distortion Pedals - 2019 Edition",
+      "excerpt": "A later third-party analysis describes Hot Pink Drive as a variation or retuning of the earlier Royal Cream and Princess Clang designs. This is a secondary interpretation and should remain attributed rather than treated as manufacturer chronology.",
+      "host": "www.guitarpedalx.com",
+      "source_kind": "secondary_analysis"
+    }
+  ],
+  "next_action": "Use the manufacturer support evidence as the primary basis; preserve the Royal Cream-to-Hot Pink lineage claim as secondary analysis unless a direct historical product source is recovered."
+}
