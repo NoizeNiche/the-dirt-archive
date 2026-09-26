@@ -2614,8 +2614,8 @@
       "research_record": "./research/pedals/PRP Batch 047/Scrambler Bass Overdrive.md",
       "image_source_url": "https://cdn11.bigcommerce.com/s-h0bqu/images/stencil/1920w/products/3959/8202/Ampeg_Scrambler_Bass_Overdrive_Effects_Pedal__67833.1735918948.png?c=2",
       "image_source_page": "https://www.rainbowmusic.co.uk/ampeg-scrambler-bass-overdrive-effects-pedal/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amplified Nation",
@@ -47003,8 +47003,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/XXL Bass.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tech 21 NYC",
@@ -51311,8 +51311,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Octane 3.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",

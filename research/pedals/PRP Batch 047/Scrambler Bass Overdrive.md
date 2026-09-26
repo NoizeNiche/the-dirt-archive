@@ -1,39 +1,38 @@
 # Ampeg — Scrambler Bass Overdrive
 
 ## PRP identity
+- **Archive parent:** Scrambler Bass Overdrive
 - **Builder:** Ampeg
 - **Catalog type:** Overdrive
-- **Identity:** Analog bass overdrive designed around classic Ampeg grit, grind, and sag.
+- **Identity:** Ampeg's Scrambler Bass Overdrive.
 
 ## What this pedal is
-The Scrambler Bass Overdrive is an all-analog Ampeg overdrive with separate Drive and Blend controls, plus Treble and Volume. Ampeg describes it as a way to add tube-like grit and grind while retaining a controllable dry signal. [1][2]
+Ampeg's Scrambler Bass Overdrive is cataloged as an overdrive pedal.
 
 ## Colorways
-- Standard production finish documented by Ampeg; no complete factory colorway history established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Drive
-- Blend
-- Treble
-- Volume
-- true bypass
-- 9V DC or 9V battery operation [2]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision history established from the accessible Ampeg documentation.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device not publicly documented in the accessible product documentation.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The Scrambler ranges from subtle overdrive to heavier grit and grind, with the Blend control mixing the driven signal with the dry bass tone. Ampeg specifically describes its character as classic Ampeg grit, grind, and sag, with Treble adding control over the upper end. [1][2]
+Dial in a huge range of overdrive from subtle to screaming.
+Add in a touch of highs, then blend in with your dry signal to create the perfect tone.
+It&rsquo;s pure analog Ampeg overdrive that&rsquo;s super affordable.
 
 ## Sources checked
-1. Ampeg Scrambler product page — https://ampeg.com/products/pedals/preamp-effects.html
-2. Ampeg Owner's Manual — https://ampeg.com/pdf/manuals/Pedals/Scrambler_Overdrive_OM.pdf
+1. Ampeg Scrambler Bass Overdrive Effects Pedal: https://www.rainbowmusic.co.uk/ampeg-scrambler-bass-overdrive-effects-pedal/
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
