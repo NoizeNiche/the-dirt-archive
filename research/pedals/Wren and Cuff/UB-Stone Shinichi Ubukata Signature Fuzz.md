@@ -37,3 +37,19 @@ This fuzz pedal is a great choice for guitarists looking for a classic fuzz soun
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Wren and Cuff UB-Stone Shinichi Ubukata Signature Fuzz is a fuzz pedal designed in collaboration with Shinichi Ubukata.
+
+### Verified sound evidence
+The Wren and Cuff UB-Stone Shinichi Ubukata Signature Fuzz is a fuzz pedal designed in collaboration with Shinichi Ubukata.
+This fuzz pedal is a great choice for guitarists looking for a classic fuzz sound, similar to that of a Big Muff .
+What Wren and Cuff say about the UB-Stone Shinichi Ubukata Signature Fuzz Only available in Japan through Lep International www.wrenandcuff.com UB-Stone Shinichi Ubukata Signature Fuzz compared to ...
+
+### Sources checked in this pass
+1. UB-Stone Shinichi Ubukata Signature Fuzz — Wren and Cuff: https://www.wrenandcuff.com/products/ub-stone-fuzz
+2. Wren and Cuff UB-Stone Shinichi Ubukata Signature Fuzz | AllThePedals: https://allthepedals.com/pedals/wren-and-cuff-ub-stone-shinichi-ubukata-signature-fuzz

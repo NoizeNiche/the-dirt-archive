@@ -51,3 +51,27 @@ The MKII is designed for dynamic, expressive overdrive with increased headroom a
 2. Sugaree Licks - Natural Drive MKII
 3. RockBoard PedalPedia - Natural Drive MKII
 4. ManualsLib - Natural Drive MKII
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CostaLab's Natural Drive MKII is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: MKII, MkII, mkII.
+
+### Verified transistor/device terms
+- Germanium Transistor.
+
+### Verified sound evidence
+Its circuit is based on the most classic distortion network with symmetrical clipping.
+The presence of germanium diodes gives a very round vintage tone rich in harmonics.
+Once you reach the right dynamic feeling, your expressiveness will be highlighted like never before.
+
+### Sources checked in this pass
+1. CostaLab | Natural Drive MkII - Sugaree Licks: https://sugareelicks.com/pedal/costalab-natural-drive-mkii/
+2. Natural Drive MkII by COSTALAB | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/COSTALAB/Natural-Drive-MkII/68976953/
+3. COSTALAB NATURAL DRIVE MKII QUICK START MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1730168/Costalab-Natural-Drive-Mkii.html
+4. Ꙭ Costalab Natural Drive MKII Manuals, Costalab Music Pedal, Other User Guides and Instructions - SC-Journal.com: https://sc-journal.com/device/costalab/natural-drive-mkii/

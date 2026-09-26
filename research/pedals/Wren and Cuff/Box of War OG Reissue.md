@@ -37,3 +37,19 @@ The tone is in the details we like to say… Rest assured we have spared nothing
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Box of War is a true recreation of the famous “Civil War” fuzz pedals from the 90’s.
+
+### Verified sound evidence
+The Box of War is a true recreation of the famous “Civil War” fuzz pedals from the 90’s.
+Very closely related to the Tall Font BM’s, the Civil War’s have a bit darker and a bit fuzzier tone.
+Trades the flimsy aluminum enclosures of the originals for an extremely heavy-duty steel housing while preserving the dark, fuzzy, woody-sustain tone the circuit is known for.
+
+### Sources checked in this pass
+1. Box of War OG Reissue — Wren and Cuff: https://www.wrenandcuff.com/products/og-bow-ri
+2. Wren and Cuff Box of War OG Reissue — MrPedal: https://www.mrpedal.com/pedals/wren-and-cuff-box-of-war-og-reissue

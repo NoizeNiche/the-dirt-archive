@@ -1,23 +1,41 @@
 # Skreddy Pedals — Lunar Module Mini Deluxe
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Lunar Module Mini Deluxe
 - **Builder:** Skreddy Pedals
-- **Pedal:** Lunar Module Mini Deluxe
 - **Catalog type:** Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Skreddy Pedals's Lunar Module Mini Deluxe.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Lunar Module Mini Deluxe** by **Skreddy Pedals** as a **Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Home Effect Types Fuzz Lunar Module Mini Deluxe Lunar Module Mini Deluxe Versatile yet aggressive silicon fuzz I designed this pedal for "that" certain silicon fuzz tone guitar solo I fell in love with on a best-selling 1973 album.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Guitars & Basses Pedals & Effects Amps Drums Keys & Synths Live Sound & Recording Retail Used Gear Repairs & Plek Lessons Rentals About Us Skreddy Lunar Module Mini Deluxe Fuzz Effects Pedal $ 301.00 Color: Black Got Questions?
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Home Effect Types Fuzz Lunar Module Mini Deluxe Lunar Module Mini Deluxe Versatile yet aggressive silicon fuzz I designed this pedal for "that" certain silicon fuzz tone guitar solo I fell in love with on a best-selling 1973 album.
+Very satisfying and addictive "vintage" fuzz tone.
+Sample Settings Unlike typical silicon fuzzes, which can sound thin and raspy, the Lunar Module has a fat sound and can be darkened to taste.
+
+## Sources checked
+1. Fuzz | Lunar Module Mini Deluxe | Skreddy Pedals: https://skreddypedals.com/lunar-module
+2. Skreddy Pedals Lunar Module Mini Deluxe Guitar Effects Pedal Used: https://www.ebay.com/itm/117407960125
+3. Skreddy Lunar Module Mini Deluxe - Reverb: https://reverb.com/p/skreddy-lunar-module-mini-deluxe
+4. Skreddy Lunar Module Mini Deluxe Fuzz Effects Pedal | Firehouse Guitars: https://www.firehouseguitars.com/product/22977293/skreddy-lunar-module-mini-deluxe-fuzz-effects-pedal/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

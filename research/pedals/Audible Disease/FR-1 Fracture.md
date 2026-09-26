@@ -41,3 +41,16 @@ FR-1 is designed around unstable, oscillating distortion rather than a conventio
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/audibledisease/fr1
 - **Archive note:** Exact model identity was verified, but no stable exact-model image asset was promoted into the archive during this pass. Keep the public card at **No Photo Archived** rather than use a substitute.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Audible Disease's FR-1 Fracture is cataloged as a distortion pedal.
+
+### Verified diode terms
+- LED.
+
+### Sources checked in this pass
+1. Audible Disease FR-1 Fracture | Effects Database: https://www.effectsdatabase.com/model/audibledisease/fr1

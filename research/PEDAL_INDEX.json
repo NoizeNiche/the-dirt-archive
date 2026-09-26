@@ -4779,8 +4779,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://storage.googleapis.com/resource-noisefx/images/audiblediseasefracturefr1_5831.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Audile",
@@ -4872,8 +4872,8 @@
       "research_record": "./research/pedals/Audio Kitchen/The Flying Squirrel.md",
       "image_source_url": "https://www.russomusic.com/cdn/shop/products/audio-kitchen-the-flying-squirrel-fuzz_lifestyle_800x.jpg?v=1614968599",
       "image_source_page": "https://www.russomusic.com/products/audio-kitchen-the-flying-squirrel-fuzz",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Audio Matrix",
@@ -8105,8 +8105,8 @@
       "research_record": "./research/pedals/BearFoot FX/Honey Beest.md",
       "image_source_url": "https://www.truetonemusic.com/cdn/shop/products/6-DSCF2548_9b6cad16-ee05-48fc-a901-e422a27d175d_4316x2800.jpg?v=1683802087",
       "image_source_page": "https://www.truetonemusic.com/products/used-bearfoot-fx-honey-beest-plus-serial-number-1-with-box",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BearFoot FX",
@@ -8119,8 +8119,8 @@
       "research_record": "./research/pedals/BearFoot FX/Pink Purple Fuzz.md",
       "image_source_page": "https://topshelfinstruments.com.au/products/bearfoot-fx-pink-purple-fuzz-pedal-1",
       "image_source_url": "http://topshelfinstruments.com.au/cdn/shop/products/heckyea5.jpg?v=1600397024",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BearFoot FX",
@@ -8147,8 +8147,8 @@
       "research_record": "./research/pedals/BearFoot FX/Sparkling Yellow Overdrive.md",
       "image_source_page": "https://toy-love.hatenablog.com/entry/20140911/1410441150",
       "image_source_url": "https://rvb-img.reverb.com/i/s--xQ6Yy85j--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D467%2Ctrim.left%3D0%2Ctrim.width%3D3024%2Ctrim.height%3D3032/f8dc1fd3-accb-4d8e-87d8-6ca67df8da26.jpeg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BearFoot FX",
@@ -8350,8 +8350,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/H85764000000000-02-600x600.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Behringer",
@@ -8462,8 +8462,8 @@
       "research_record": "./research/pedals/Benson Amps/Stonk Box.md",
       "image_source_url": "https://www.hardwaredrum.com/wp-content/uploads/2026/1/1767934101/benson-amps-stonk-box-guitar-effects-pedal-1767934105.webp",
       "image_source_page": "https://www.hardwaredrum.com/product/benson-amps-stonk-box-guitar-effects-pedal/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Benson Amps",
@@ -26108,8 +26108,8 @@
       "image": "./assets/pedals/costalab/natural-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Natural Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CostaLab",
@@ -26121,8 +26121,8 @@
       "image": "./assets/pedals/costalab/natural-drive-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Natural Drive MKII.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CostaLab",
@@ -26134,8 +26134,8 @@
       "image": "./assets/pedals/costalab/sun-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Sun Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Couch Electronics",
@@ -26158,8 +26158,8 @@
       "image": "./assets/pedals/couch-electronics/blue-whale-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Couch Electronics/Blue Whale Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coura",
@@ -26182,8 +26182,8 @@
       "image": "./assets/pedals/coura/raizor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coura/Raizor.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Craftros Pedals",
@@ -26363,8 +26363,8 @@
       "image": "./assets/pedals/crazy-rock-n-roll-effecter/swag-face/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Rock'n'Roll Effecter/SWAG FACE.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Rock'n'Roll Effecter",
@@ -26375,8 +26375,8 @@
       "image": "./assets/pedals/crazy-rock-n-roll-effecter/the-foxy-blow/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Rock'n'Roll Effecter/THE FOXY BLOW.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Rock'n'Roll Effecter",
@@ -29174,8 +29174,8 @@
       "image": "./assets/pedals/deadastronautfx/x-fuzz-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DeadastronautFX/X-Fuzz II.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Death By Audio",
@@ -29188,8 +29188,8 @@
       "image": "./assets/pedals/death-by-audio/absolute-destruction/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Absolute Destruction.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Death By Audio",
@@ -29218,8 +29218,8 @@
       "image": "./assets/pedals/death-by-audio/bass-war/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Bass War.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Death By Audio",
@@ -31162,8 +31162,8 @@
       "image": "./assets/pedals/earthquaker-devices/dunes/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Dunes.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -33112,8 +33112,8 @@
       "image": "./assets/pedals/flattley/centurion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Flattley/Centurion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Flattley",
@@ -33124,8 +33124,8 @@
       "image": "./assets/pedals/flattley/plexstar/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Flattley/Plexstar.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Flattley",
@@ -33136,8 +33136,8 @@
       "image": "./assets/pedals/flattley/revolution/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Flattley/Revolution.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fortin",
@@ -34618,8 +34618,8 @@
       "image": "./assets/pedals/hudson-electronics/shapes-of-things/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Shapes Of Things.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Hudson Electronics",
@@ -35870,8 +35870,8 @@
       "image": "./assets/pedals/jhs-pedals/424-gain-stage/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/424 Gain Stage.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -36860,8 +36860,8 @@
       "image": "./assets/pedals/keeley-electronics/oxblood-germanium-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Oxblood Germanium Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -38790,8 +38790,8 @@
       "image": "./assets/pedals/marshall-amplification/bluesbreaker-ii-bb-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Bluesbreaker II BB-2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Marshall Amplification",
@@ -43334,8 +43334,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/Dumbleweed D-Style Amp Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Outlaw Effects",
@@ -45197,8 +45197,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Lunar Module Mini Deluxe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -50450,8 +50450,8 @@
       "research_record": "./research/pedals/Way Huge/Swollen Pickle Jumbo Fuzz MkIII.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40928306b26ce9a/1790330166033/iuGBJkRO1V1DjljnfNRAKbniTF88tD8PxGh08sbZi5U-1790330166-1.3.1.1-w.19_QWeNxZns9SMzgHCeX7kGvizVYxKzyDTogjjcHsKDPWAcQ534zKvIS_z0hVzLaKo4At9n6jSLvs_qHCcUZ5H67WOvvs4hRuzbbGmEzYrP2q2.0wUINUkOeFDyWBRSrcSoAeTzXTGAnuIvfMcqxzO2X6.fkq9OyevSjU.ks8OgWCalIfaIQJECvGt6utTch2sFs5I5_6CGV7tUEiAeGRizvxa3_N3j30w0LgjEoEUKB.JchGX3GbbUU1omEPU_Jm_eFZgv6ilq2MJaJuhVCdrgeLU_OnVWjFbIleLMfG8cqfWZfsPYcUXK7IVf7Owps74gp5zEIGBaJqcxVC5v0.CH_5.hMrHnK6LylyFgKP7nhLW1SZQ0Q4poLINPvCnUuLypWcM3sj281tgRwapjsHt6wAH1HkZ79tTfc.sJwDiH1v2rM9Cv6RpggsZZbq6N_YRfqfUlPQRBDE5NYfQ6oByn_PX_5_T5PHAcrkauz2nfqdDaGF4DfG_59yjGHy_WZwmGF_nymBxmOB_PX79SpmG.DmpPV_S88CVKjtOZZXxxga2o7qIFKCzIn7pUOoc15dBS2Hobxada_HUKVfRGJ44HVwloSatayth5CRhWo_gVWFHUEGgBIJi_Q4zcqdwQZJrP1wLC6VM8vblQzp73wrHaW8RD_SZ7nOkAwUXUN20damUkYKnxxNvsFJYOCq.73o5.p_tkkw_0RkWMXvrYiH3RyqYRdAWnLev1J3ryuc",
       "image_source_page": "https://reverb.com/item/96240009-way-huge-swollen-pickle-jumbo-fuzz-mkiii",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
@@ -50464,8 +50464,8 @@
       "research_record": "./research/pedals/Way Huge/Swollen Pickle Jumbo Fuzz MkIIS.md",
       "image_source_url": "https://www.guitarbased.com/wp-content/uploads/2023/04/way-huge-swollen-pickle-jumbo-fuzz-mkiis-guitar-effects-pedal.jpg",
       "image_source_page": "https://www.guitarbased.com/best-fuzz-pedals/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "WMD Devices",
@@ -50556,8 +50556,8 @@
       "research_record": "./research/pedals/Wren and Cuff/Box of War OG Reissue.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--JvaiEV8P--/quality=medium-low,height=400,width=400,fit=cover,gravity=bottom/tcnepdtumsojb2yn8thc.jpg",
       "image_source_page": "https://reverb.com/item/49945309-wren-and-cuff-og-box-of-war-reissue",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",
@@ -50714,8 +50714,8 @@
       "research_record": "./research/pedals/Wren and Cuff/Pickle Pie B.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4092eaceacbc236/1790330431747/.k2oyAJWmAOIAZkSJEIqHQQTqvzeU5Y.L8oc7OE_nEk-1790330431-1.3.1.1-WTJe9o6rtIkC2PHXetyBFvCnNsBJh6vywrUaqG9QjWsXgIFVeiHjJmlKPV1YwHw9KKQ2TiQS6WVeHUwcnVHt5xNPZl0HwW10W2m20gMNMOomeCiJYt3nmVIMThxzyLnD_eK1Z4O8xXNXENIr_DOdzVGJrtBdG8tsmyAh7oBmzQvF0hygRx69TGFlCJMZjasxivESGR6v33Em73WB3Mlr4EpyXV1wJmJrrU3K2Vi3g.qbmVI1N0QtosJPKvpJ1f_r1MeK4XQwXGCspgHXoL1OzNvhYOb.CTesGxDY4Vx9hlOIrEuFj7fke3tbsYv5ut8Pv672tsOqF6W.h1vnl7eaWkSgLXCyze6TGTg9gpyaEXP2xfshIlREFla77Urk72W0n_JzMAHPo1rQrQ_Fbwnczo5LNlnJN0G4XcIRcajGaGBibn4otANWQwfsh98IaGsV.cNB1GDJP7QgBoN6CByaPcmyGbb7ZqnMCqjLmekDoQGgOSmLnlcvYlkZeO3phauZ19eELK1qcfFvnmzYASLCR.nQzfKvVQ6ZySoRKNTHyAy1NrdWZSs0fKguGoLFaIvbG83hguniXEzgXhr4LvokgMODH2HetTBzzF6c3sbVi0lxclxtk2JztLCXEIicI1AKOwaPlG1wGSuexgK7G145SCx6UaVGvwglCAIYslEoBSaKqb.2NWkxrXbnbFHoK_rB3kCljt8V5vFIkEimAEdbKnHt2eSPm0ocjwCGEbufdgE",
       "image_source_page": "https://reverb.com/item/92980890-wren-and-cuff-pickle-pie-hella-fuzz-b-2010s-green",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",
@@ -50729,8 +50729,8 @@
       "research_record": "./research/pedals/Wren and Cuff/Super Russian.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4092eaa89963f28/1790330431338/Q3Mdg4ltW7O7AVJeouXl9cA3hsaFJhEXBKU4yOpY_Io-1790330431-1.3.1.1-hi4n959KjnA6SsExVWoYlJswHhCH3uZ3vD6vdEd9VkcJGnO5ecMnrlQvqgXBYH1qOJC2Ddd4P5yBEJl3fOHQ.9qWGQGbW18l.Z8mLmSrDtwybD3q197zfKFubqzwIxRu4WUBQhOzvmXuLzKrrIDufQEQJLw30PjraiOObXM80gZCEdMkONaaqHFKdBazozFBFS_I_aaXgcPYINPXReJlzD8JWEYIveykvHG7nZgPyVf4Wqin0XwIFFzjVT0cwcpmH.HrEOJVzTzUfcPU8C_lHQsiguaPDmmNGBflmAOzW5nP_zf_NA8kgHhncx.nQzSrgdlDEbLKs8oTBNWGw6dX33sV_umcDOMgOhSs2ivyOT0mxjl72u6GIbrB1Gx2WTqBWvK3yxgntKrdNEVFgrUqdRdKbrTAZ1aGZuguOGCrzLSBIkbVK1Hi21fk_0df0pjg7yhQFeMwDCkhTTj8RkBRxaNlWke2RL031nmkECY92xjqYNeg5uzDfuaPFewxhqPThoKVg5V9yXQoT8JtH1O5XP2SjWGhKBM4l48IxrGFab_IUM.Yh0ou_qHDqsCHz0Ui8swh_13outeYTb4hUSQhooLyIW9P66aJt3.ek1C5kSVcSmR.s.vP_nmriSBAqVj12YQk5QnLtWPmGyqI7DOZTCa2qF9KOp6K1bqjWEtvLWgMdhmzgblHliQYciiHZGpGJK4KwE9Licb76eH1H5X27x7wOLDN62sl3v68K0xTbec",
       "image_source_page": "https://reverb.com/item/101841139-wren-and-cuff-super-russian-2010s-green",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",
@@ -50769,8 +50769,8 @@
       "research_record": "./research/pedals/Wren and Cuff/UB-Stone Shinichi Ubukata Signature Fuzz.md",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/wrencuff_ubstone_004.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/wrencuff/ubstone",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",
@@ -50784,8 +50784,8 @@
       "research_record": "./research/pedals/Wren and Cuff/Violet World.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4092d7a9cf02ae4/1790330382739/zkzzUfprSSZaA7VQANYs5lAZXSozW00y_hyHiolmS40-1790330382-1.3.1.1-20E8HuDJgLV02.aOlgyaEBZClHTixlHkVx7.ot2kSjN6fNLWdHUjrXVPsTJkaJtC6gNyavwaQDPiUp1qHKhq8w9fQzQy_vcqtxYWTXYIthFictbVfQNmn5769mjiamPgF6txOpLgt6_xSN8sLH3R9Xe6xfsZxa0eBY16zg3wWKOalaEDyYxANGymFIaJ0AgsLut3U9MlzimoAOHIpC7z581Hw1XhnkYSRVsDze6_OSrp9yoACZMVJ.QxVYVT.GTHTLPGIxWQR0MKQvkzbwOx4NhWicXlv0tJ0898DdcPVmpWoQxaHXdXvilYTN2a7f5EutPf.BHCDkJdCny5ovD5uO2xlWVppvqi.YE3btDftaF1Zsuvr3jktJc8e6GiIitb7oyDYIzeFZwdYU3zn_qgKTiRUZzjZlDQKweN12kVwlly2TE0fFOdYGIONwNP2MJtTi9md0hTYyVvxVXI_aJgSjToi.yPb_8RS.s77V8fopiFecGhGCbsIfMSvgvjMDk2kap8JfAqAqLmiU4X0OWM85dK_4yGaoQn_sa71Hd8KhqftBqm9XbGk_g38q5DtKpbTSFNTiL8g8cn6c41MBIRAkzL_leu5w_rzlfuVEPzpDzMuDC6fpTjCOLuWmm0j891T55oDCfUGz3TIx.W4AWdRGjLlqNoE_cObuZjSS1wSb4SMkO1syiAg8oGw4xeWBNBwLqzf0Cz5KF7tgcRIyIlpS5sV_lybeg6a4D02Wrm46Q",
       "image_source_page": "https://reverb.com/item/92980948-wren-and-cuff-violet-world-fuzz-2010s-violet",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",

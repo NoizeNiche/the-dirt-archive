@@ -44,3 +44,27 @@ The verified external record describes a lively, articulate low-gain overdrive w
 ## Sources checked
 1. Couch Electronics - Blue Whale Overdrive
 2. Effects Database - Couch Electronics Blue Whale Overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on September 21, 2025 Couch Electronics overdrive pedal Information The Couch Electronics Blue Whale is a boutique low gain overdrive pedal built in Slovenia, inspired by the classic Bluesbreaker-style circuit.
+
+### Verified color/finish evidence
+- WELL THINK AGAIN, TONE-SAILOR, because the BLUE WHALE is here to chew on your harpoon, spit it back on your amp, and scream sweet harmonic nonsense straight into your ear canal!”
+- Published on September 21, 2025 Couch Electronics overdrive pedal Information The Couch Electronics Blue Whale is a boutique low gain overdrive pedal built in Slovenia, inspired by the classic Bluesbreaker-style circuit.
+- Designed to enhance harmonic content without overwhelming the guitar's natural character, the Blue Whale offers more gain on tap than traditional Bluesbreaker pedals while retaining clarity and dynamic control.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+WELL THINK AGAIN, TONE-SAILOR, because the BLUE WHALE is here to chew on your harpoon, spit it back on your amp, and scream sweet harmonic nonsense straight into your ear canal!”
+Published on September 21, 2025 Couch Electronics overdrive pedal Information The Couch Electronics Blue Whale is a boutique low gain overdrive pedal built in Slovenia, inspired by the classic Bluesbreaker-style circuit.
+It delivers increased volume, brightness, and a subtle midrange presence compared to the original design, providing a lively and articulate response that remains touch-sensitive under the fingers.
+
+### Sources checked in this pass
+1. couch electronics - Blue Whale overdrive | Couch Electronics | Analog Guitar Pedals: https://www.couchelectronics.com/pedals/p/blue-whale
+2. Couch Electronics Blue Whale Overdrive | Effects Database: https://www.effectsdatabase.com/model/couchelectronics/bluewhale

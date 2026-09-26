@@ -38,3 +38,23 @@ As usual with EH, there are a couple different versions of this era’s muffers,
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Wren and Cuff's Violet World is cataloged as a distortion / fuzz pedal.
+
+### Verified transistor/device terms
+- BC108C.
+
+### Verified sound evidence
+A close relative of some of the early “Ram’s Head” muffs in tone, these pedals had a couple distinct changes that gave them their own sound, and were easy to spot because of their violet colored silk screen ink.
+Lots of gain and a nice sharp dip in those mids.
+None of the original Muffs actually used these transistors, in fact, the BC108C’s are most known for being the favored transistors in the original 1970’s era silicon Fuzz Face pedals, but we found they sounded great in this circuit.
+
+### Sources checked in this pass
+1. Violet World — Wren and Cuff: https://www.wrenandcuff.com/products/violet-world
+2. Wren and Cuff Violet World - Elegant Classical Guitars Crafted for Rich Tone, Smooth Playability, and Lasting Performance: https://www.typicalguitars.com/product/wren-and-cuff-violet-world/
+3. catalog/override source: https://reverb.com/item/92980948-wren-and-cuff-violet-world-fuzz-2010s-violet

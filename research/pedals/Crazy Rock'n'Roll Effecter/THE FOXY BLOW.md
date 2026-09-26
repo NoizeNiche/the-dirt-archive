@@ -41,3 +41,16 @@ THE FOXY BLOW is described as a refined distortion with a controlled tone curve,
 ## Sources checked
 1. Crazy Rock'n'Roll Effecter / CE - THE FOXY BLOW
 2. Crazy Rock'n'Roll Effecter official site
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Rock'n'Roll Effecter's THE FOXY BLOW is cataloged as a distortion pedal.
+
+### Verified diode terms
+- LED.
+
+### Sources checked in this pass
+1. Crazy Rock'n'roll Effecter THE FOXY BLOW | Crazy Rock'n'roll Effecter / CE.: https://crleather.base.shop/items/72669851

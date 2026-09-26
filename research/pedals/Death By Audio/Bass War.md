@@ -36,3 +36,21 @@ Details The Bass War began with the idea that we could make a version of the Fuz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Bass War by Death By Audio is a louder, wider-ranging, earth-shaking bass fuzz that can get more oomph than any other pedal we’ve ever heard.
+
+### Verified color/finish evidence
+- Wrap it all up in a DBA punk-style raw enclosure with spray-painted graphics, and all that’s left to do is find a time machine so you can re-record all those old bass parts!
+
+### Verified sound evidence
+From this moment forward, the power and intensity of bass fuzz is changed forever.
+The Bass War by Death By Audio is a louder, wider-ranging, earth-shaking bass fuzz that can get more oomph than any other pedal we’ve ever heard.
+Details The Bass War began with the idea that we could make a version of the Fuzz War that was even more perfect for bass.
+
+### Sources checked in this pass
+1. BASS WAR - Death By Audio: https://deathbyaudio.com/products/bass-war

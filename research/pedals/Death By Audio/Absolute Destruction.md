@@ -38,3 +38,20 @@ How about a crushing distortion tone?
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The further the Overload control is set to the left, the faster the effect slips into absolute destruction.
+
+### Verified sound evidence
+How about a crushing distortion tone?
+Its Gain and Overload sliders interact to create a wide range of unique sounds in various positions.
+Blow it out even harder and faster by slamming Gain and Overload opposite one another.
+
+### Sources checked in this pass
+1. ABSOLUTE DESTRUCTION - Death By Audio: https://deathbyaudio.com/products/absolute-destruction
+2. Death by Audio Absolute Destruction - What To Know Where To Buy: https://equipboard.com/items/death-by-audio-absolute-destruction
+3. Death By Audio Absolute Destruction - Reverb: https://reverb.com/p/death-by-audio-absolute-destruction

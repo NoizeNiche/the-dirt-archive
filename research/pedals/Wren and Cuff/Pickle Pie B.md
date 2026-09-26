@@ -37,3 +37,19 @@ Even though most were happy with this pedal, I had always wanted to take a stab 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CRUSHING BASS DISTORTION CLEAN-BLENDED True hard-wire bypass 9V battery or 2.1mm adapter Made in the USA Lifetime warranty For a long time now I’d been planning on making a fuzz pedal designed for the many distortion loving bass players out there.
+
+### Verified sound evidence
+It all started when I began getting a large percentage of my Pickle Pie sales from bass players who knew The Pickle’s reputation as a “guitar” pedal that could handle the low frequencies of the bass, and give a nice spongy fuzz much better than most of the Muff family.
+OK, here’s the rundown on some of the changes made to the first PPie: A FET buffered active clean-boost.
+No “drop out” when you kick on the fuzz when playing live.
+
+### Sources checked in this pass
+1. Pickle Pie B — Wren and Cuff: https://www.wrenandcuff.com/products/pickle-pie-b
+2. Wren And Cuff Pickle Pie B: https://www.guitarriot.com/shop/c/p/Wren-And-Cuff-Pickle-Pie-B-x60505670.htm

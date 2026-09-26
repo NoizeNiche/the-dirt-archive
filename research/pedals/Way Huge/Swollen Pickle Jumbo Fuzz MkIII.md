@@ -38,3 +38,22 @@ The Loudness, Sustain, and Filtercontrols to season your sound to taste while th
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Way Huge's Swollen Pickle Jumbo Fuzz MkIII is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MKIII.
+
+### Verified sound evidence
+Review The Way Huge Smalls Swollen Pickle Jumbo Fuzz concentrates allthe potent flavors of its predecessors into a super pedalboard-friendlyhousing with a simpler interface.
+
+### Sources checked in this pass
+1. Way Huge Smalls WM41 Swollen Pickle Jumbo Fuzz MKIII - Macdaddy Music: https://www.macdaddymusicstore.com/way-huge-smalls-wm41-swollen-pickle-jumbo-fuzz-mkiii/
+2. Way Huge Swollen Pickle Jumbo Fuzz MKIII - Premium Percussion Instruments & Drums Gear: https://www.snarebay.com/product/way-huge-swollen-pickle-jumbo-fuzz-mkiii/
+3. Way Huge Smalls Swollen Pickle Jumbo Fuzz MKIII – Coast Sonic American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa: https://coastsonic.com/products/way-huge-smalls-swollen-pickle-jumbo-fuzz-mkiii
+4. catalog/override source: https://reverb.com/item/96240009-way-huge-swollen-pickle-jumbo-fuzz-mkiii

@@ -50,3 +50,15 @@ The builder's design goal is a Fuzz Face-derived sound with enough presence to r
 1. Crazy Rock'n'Roll Effecter - 2024 SWAG FACE Limited
 2. Crazy Rock'n'Roll Effecter / CE - SWAG FACE NKT278 2025
 3. eBay - SWAG FACE NKT275
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Rock'n'Roll Effecter's SWAG FACE is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. SWAG FACE ~183ver.~ | Crazy Rock'n'roll Effecter: https://www.c-r-effecter.com/product-page/swag-face-183ver
+2. Crazy Rock’n’roll effecter SWAG FACE Fuzz rare USED JP | eBay Australia eBay Home: https://www.ebay.com.au/itm/136494822454
+3. SWAG FACE ~NKT278~ 2025... - Crazy Rock'n'roll effecter: https://www.facebook.com/100037758497949/posts/swag-face-nkt278-2025%E4%B8%96%E7%95%8C%E7%9A%84%E3%81%AB%E6%95%B0%E5%B0%91%E3%81%AA%E3%81%84nkt278%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B9%E3%82%BF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%AEfuzz-pedal%E4%B8%80%E3%81%A4%E3%81%82%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E4%B8%96%E7%95%8C%E8%A6%B3%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B/1718460899422510/

@@ -39,3 +39,23 @@ VAT, plus shipping (mitttel) Short supply Shipping time : 3-7 Working days Add t
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DeadastronautFX's X-Fuzz II is cataloged as a fuzz pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+X-Fuzz II kit, 27,00 � English German Shipping Costs Forum Contact us Shipping Costs English English German Login New here?
+VAT, plus shipping (mitttel) Short supply Shipping time : 3-7 Working days Add to basket Wishlist Compare Question on item Description A great full, rich fuzz, with a nice tubescreamer overdrive option with the toggle switch in the middle position.
+
+### Sources checked in this pass
+1. DEADASTRONAUTFX X-FUZZ II PEDAL - Reverb: https://reverb.com/item/75744010-deadastronautfx-x-fuzz-ii-pedal
+2. Build your own guitar effects pedal "X-FUZZ II. PCB Deadastronautfx ...: https://www.ebay.co.uk/itm/254345303136
+3. X-FUZZ II pedal (deadastronautfx) - eBay: https://www.ebay.com.au/itm/256004639985
+4. X-Fuzz II kit, 27,00 �: https://www.musikding.de/X-Fuzz-II-kit

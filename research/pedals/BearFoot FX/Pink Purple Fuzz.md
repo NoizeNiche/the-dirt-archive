@@ -43,3 +43,19 @@ Pink Purple Fuzz is voiced to move unusually far across the dirt spectrum, from 
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://rvb-img.reverb.com/i/s--4ZjXjX7a--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/eocunac2puvk9kpbnzf6.jpg
 - **Source page:** https://reverb.com/p/bearfoot-fx-pink-purple-fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+$0.00 (ARCHIVE) Bearfoot FX Pink Purple Fuzz Pedal Zoom Zoom Share Tweet Pin Description Guitarchives See all See all It's a fuzz, but it'll wind right down to a very mild breakup...
+
+### Verified sound evidence
+$0.00 (ARCHIVE) Bearfoot FX Pink Purple Fuzz Pedal Zoom Zoom Share Tweet Pin Description Guitarchives See all See all It's a fuzz, but it'll wind right down to a very mild breakup...
+this lives in that sweet magic between fuzz and distortion.
+It's a lovely rich singing tone, plus the EQ knob offers a whole heap of variation in midrange curve as you wind through.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/p/bearfoot-fx-pink-purple-fuzz
+2. Bearfoot FX Pink Purple Fuzz Pedal – Topshelf Instruments: https://topshelfinstruments.com.au/products/bearfoot-fx-pink-purple-fuzz-pedal-1

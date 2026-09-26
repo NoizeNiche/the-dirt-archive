@@ -37,3 +37,19 @@ This buffered boost can also be used on its own as a beautiful clean tool to bee
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Wren and Cuff's Super Russian is cataloged as a distortion / fuzz pedal.
+
+### Verified sound evidence
+This buffered boost can also be used on its own as a beautiful clean tool to beef up your clean tone, or use it to push another pedal later down the chain.
+Internal order: Guitar—> Clean Boost —> Tall Font Muff —> Amp Specs: Power: 9VDC neg tip adapter or 9V battery Current draw: 8mA Dims: 3.7” x 4.7” x 1.6” Weight: 14 oz
+
+### Sources checked in this pass
+1. Super Russian — Wren and Cuff: https://www.wrenandcuff.com/products/super-russian
+2. Wren And Cuff Super Russian: https://austinguitarhouse.com/wren-and-cuff-super-russian/
+3. catalog/override source: https://reverb.com/item/101841139-wren-and-cuff-super-russian-2010s-green

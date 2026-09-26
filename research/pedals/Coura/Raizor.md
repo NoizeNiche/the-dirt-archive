@@ -36,3 +36,14 @@ The verified exact-model records establish Raizor as a distortion pedal, but do 
 ## Sources checked
 1. Effects Database - Coura Raizor
 2. Gitarre & Bass - Coura RaizoR
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coura's Raizor is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Coura Raizor | Effects Database: https://www.effectsdatabase.com/model/coura/raizor
+2. Coura RaizoR, Verzerrer-Pedal | GITARRE & BASS: https://www.gitarrebass.de/heftarchiv/2006-03/coura-raizor-verzerrer-pedal/

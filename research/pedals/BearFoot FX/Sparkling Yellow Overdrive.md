@@ -42,3 +42,14 @@ Sparkling Yellow Overdrive is designed to range from near-clean boost through Ma
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://rvb-img.reverb.com/i/s--xQ6Yy85j--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D467%2Ctrim.left%3D0%2Ctrim.width%3D3024%2Ctrim.height%3D3032/f8dc1fd3-accb-4d8e-87d8-6ca67df8da26.jpeg
 - **Source page:** https://reverb.com/item/96433533-bear-foot-fx-syod3-sparkling-yellow-overdrive-v3-bjf
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BearFoot FX's Sparkling Yellow Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/96433533-bearfoot-fx-syod3-sparkling-yellow-overdrive-v3-bjf
+2. Amazon.co.jp: https://www.amazon.co.jp/BearFoot-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-Sparkling-Yellow-Overdrive/dp/B0096I8LU8/?_encoding=UTF8&camp=247&creative=1211&keywords=Bearfoot%20Guitar%20Effects&linkCode=ur2&qid=1410440657&s=musical-instruments&sr=1-8&tag=53xywebsite-22

@@ -45,3 +45,26 @@ The documented Sun Drive character is massive and harmonically rich, with powerf
 1. CostaLab - Sun Drive
 2. Sugaree Licks - Sun Drive V2
 3. ManualsLib - Sun Drive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+by CostaLab Website Link Model Number or Name: Sun Drive Distortion Overdrive Circuit Type: Analog Original Price: $259 Excellent Used Price: $205 Alternate Version(s) Sun Drive V1 The Costalab Sun Drive is a pedal built around the most classic Big Muff.
+
+### Verified version references
+- The evidence references: MK II, MKII, V1, V2.
+
+### Verified transistor/device terms
+- GERMANIUM fuzz.
+
+### Verified sound evidence
+by CostaLab Website Link Model Number or Name: Sun Drive Distortion Overdrive Circuit Type: Analog Original Price: $259 Excellent Used Price: $205 Alternate Version(s) Sun Drive V1 The Costalab Sun Drive is a pedal built around the most classic Big Muff.
+Its circuit is based on the four canonical stages of gain, two of which host silicon clipping circuits with a very vintage sound.
+Despite the considerable levels of gain that can be achieved, the pedal maintains excellent silence thanks to the many adjustments made to the circuit and the careful selection of the components used.
+
+### Sources checked in this pass
+1. Sun Drive | CostaLab: https://www.costalab.com/en/shop/product/sun-drive
+2. CostaLab | Sun Drive Overdrive Distortion V2 - Sugaree Licks: https://sugareelicks.com/pedal/costalab-sun-drive-overdrive-distortion-v2/
+3. COSTALAB SUN DRIVE QUICK START MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/2761972/Costalab-Sun-Drive.html

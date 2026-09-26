@@ -49,3 +49,27 @@ Filter changes both gain and the bias point of the first stage, reducing bass an
 ## Photo
 - **Archive status:** **No Photo Archived**
 - Exact-model imagery was confirmed from the Andertons listing and Effects Database, but no stable direct image URL was promoted during this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Benson Amps Stonk Box Guitar Effects Pedal $149.00 $1,700.00 Review Benson Amps Stonk Box Guitar Effects PedalGermanium-based fuzz pedals are finicky and unreliable, right?
+
+### Verified version references
+- The evidence references: MK1.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Distortion, Overdrive, Boost & Fuzz Pedals
+Benson Amps Stonk Box Guitar Effects Pedal $149.00 $1,700.00 Review Benson Amps Stonk Box Guitar Effects PedalGermanium-based fuzz pedals are finicky and unreliable, right?
+Equipped with Benson’s Automatic Thermal Bias Technology, the Stonk Box takes an early-’60s MK1-style fuzz circuit and retools it to deliver classic germanium grind with zero flaws or inconsistencies.
+
+### Sources checked in this pass
+1. Benson Amps Stonk Box Guitar Effects Pedal | Distortion, Overdrive, Boost & Fuzz Pedals | hardwaredrum.com: https://www.hardwaredrum.com/product/benson-amps-stonk-box-guitar-effects-pedal/

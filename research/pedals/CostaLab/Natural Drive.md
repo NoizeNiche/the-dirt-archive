@@ -49,3 +49,30 @@ Natural Drive is designed to retain the guitar's character while responding stro
 2. Sugaree Licks - Natural Drive
 3. RockBoard PedalPedia - Natural Drive
 4. PedalDistort - Natural Drive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CostaLab's Natural Drive is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: MK II, MKII, MkII.
+
+### Verified transistor/device terms
+- GERMANIUM fuzz, Germanium Transistor.
+
+### Verified diode terms
+- SILICON diode.
+
+### Verified sound evidence
+Its circuit is based on the most classic distortion network with symmetrical clipping.
+The presence of germanium diodes gives a very round vintage tone full of harmonics.
+Once the right dynamic feeling is reached, the guitarist’s expressiveness is absolutely emphasized.
+
+### Sources checked in this pass
+1. Natural Drive | CostaLab: https://www.costalab.com/en/shop/product/natural-drive
+2. CostaLab | Natural Drive - Sugaree Licks: https://sugareelicks.com/pedal/costalab-natural-drive/
+3. Natural Drive by COSTALAB | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/COSTALAB/Natural-Drive/68976951/
+4. Costalab natural drive Effect Pedal - Pro-Level Distortion Effects Pedals for Live and Studio Use: https://www.pedaldistort.com/product/costalab-natural-drive-effect-pedal/

@@ -46,3 +46,19 @@ Audio Kitchen's stated target is an extremely large, rich and harmonically dense
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/audiokitchen/flyingsquirrel
 - **Archive note:** Exact-model identity was checked, but no stable exact-model image asset was promoted during this pass. Keep the public card at **No Photo Archived** rather than substitute another model.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The impetus was to create the biggest-sounding, richest, fruitiest, most syrupy, decadently harmonic drive and fuzz pedal I could deliver.
+
+### Verified sound evidence
+escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
+Audio Kitchen The Flying Squirrel Fuzz
+The impetus was to create the biggest-sounding, richest, fruitiest, most syrupy, decadently harmonic drive and fuzz pedal I could deliver.
+
+### Sources checked in this pass
+1. Audio Kitchen The Flying Squirrel Fuzz Effect Pedal – Russo Music: https://www.russomusic.com/products/audio-kitchen-the-flying-squirrel-fuzz
+2. Audio Kitchen The Flying Squirrel Fuzz | Effects Database: https://www.effectsdatabase.com/model/audiokitchen/flyingsquirrel

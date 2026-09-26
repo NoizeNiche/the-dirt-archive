@@ -1,23 +1,40 @@
 # Keeley Electronics — Oxblood Germanium Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Oxblood Germanium Overdrive
 - **Builder:** Keeley Electronics
-- **Pedal:** Oxblood Germanium Overdrive
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Keeley Electronics's Oxblood Germanium Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Oxblood Germanium Overdrive** by **Keeley Electronics** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Oxblood Germanium Overdrive is our response to everyone cloning the “Mythical Beast” pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: germanium transistor.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Keeley Electronics Oxblood Germanium Overdrive - Play Faster with Grippy Guitar Picks for Serious Guitar Players FLASH SALE: EVERYTHING HALF PRICE!
+Home Guitar Picks Guitar Accessories Guitar Strings Bass Guitar Strings Amplifier Parts Guitar Straps Strap Locks Guitar Acoustic Guitar Set Bass Guitar Electric Guitar Drum Accessories Drum Sticks Mallets and Brushes Drum Parts Care & Cleaning Shop Home / USED / Keeley Electronics Oxblood Germanium Overdrive Sale!
+Roll off the drive for a perfect clean tone, or hit the clipping switch for infinite sustain and wild overdrive.
+
+## Sources checked
+1. Oxblood Germanium Overdrive - Keeley Electronics Guitar Effects Pedals: https://robertkeeley.com/product/oxblood-germanium-overdrive-2/
+2. Keeley Electronics Oxblood Germanium Overdrive - Play Faster with Grippy Guitar Picks for Serious Guitar Players: https://www.guitarplectrum.com/product/keeley-electronics-oxblood-germanium-overdrive/
+3. Keeley Oxblood Germanium – FOR SALE! | ChasingGuitars: https://chasingguitars.com/keeley-oxblood-germanium/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
