@@ -39363,7 +39363,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/fuzz-elements-void/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Void.md",
       "research_level": "surface",
@@ -40323,7 +40323,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/top-boost-in-a-can/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Top Boost in a Can.md",
       "research_level": "surface",
@@ -40336,7 +40336,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/wreck-t/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Wreck'T.md",
       "research_level": "surface",
@@ -40748,7 +40748,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mid-fi-electronics/peace-gun/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Peace Gun.md",
       "research_level": "surface",
@@ -41013,7 +41013,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/pompeii-historical-limited/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Pompeii (historical/limited).md",
       "research_level": "surface",
@@ -41025,7 +41025,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/rock-city/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Rock City.md",
       "research_level": "surface",
@@ -41037,7 +41037,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/rook/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Rook.md",
       "research_level": "surface",
@@ -41265,7 +41265,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mooer-audio-mooer/greenwood/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MOOER Audio / MOOER/Greenwood.md",
       "research_level": "surface",
@@ -41313,7 +41313,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mooer-audio-mooer/rage-machine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MOOER Audio / MOOER/Rage Machine.md",
       "research_level": "surface",
@@ -41325,7 +41325,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mooer-audio-mooer/rumble-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MOOER Audio / MOOER/Rumble Drive.md",
       "research_level": "surface",
@@ -41337,7 +41337,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mooer-audio-mooer/solo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MOOER Audio / MOOER/Solo.md",
       "research_level": "surface",
@@ -41450,7 +41450,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mr-black/deuce-coupe-old-school-laser/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Deuce Coupe - Old School Laser.md",
       "research_level": "surface",
@@ -41462,7 +41462,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mr-black/doomstick-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Doomstick Fuzz.md",
       "research_level": "surface",
@@ -41474,7 +41474,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mr-black/jalape-o/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Jalapeño.md",
       "research_level": "surface",
@@ -41486,7 +41486,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mr-black/orro/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Orro.md",
       "research_level": "surface",
@@ -41623,7 +41623,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/blue-box-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Blue Box Fuzz.md",
       "research_level": "surface",
