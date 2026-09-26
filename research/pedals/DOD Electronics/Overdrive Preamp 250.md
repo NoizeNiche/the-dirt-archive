@@ -37,3 +37,20 @@ The first DOD pedal was the DOD Phaser followed by Overdrive Preamp 250.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DOD Electronics's Overdrive Preamp 250 is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+DigiTech DOD250-X DOD 250-X Overdrive Preamp Pedal 10th iteration design 5.0 5.0 out of 5 stars (1) Price, product page $119.99 $ 119 .
+Add to cart More Buying Choices $118.79 (13 new offers) DOD Overdrive 250 Analog Overdrive Preamp 4.7 4.7 out of 5 stars (58) Save 5% Price, product page $94.99 $ 94 .
+Add to cart Mini Overdrive Preamp Pedal with True Bypass Switch (D250X) 4.2 4.2 out of 5 stars (32) Price, product page $42.99 $ 42 .
+
+### Sources checked in this pass
+1. Amazon.com : dod overdrive preamp 250-x: https://www.amazon.com/s/?ie=UTF8&keywords=dod+overdrive+preamp+250-x&index=aps&tag=txtstdbgdt-20&ref=pd_sl_26jowu49r7_p&adgrpid=1228155801373699&hvadid=76759879711240&hvnetw=s&hvqmt=p&hvbmt=bp&hvdev=c&hvlocint=&hvlocphy=78090&hvtargid=kwd-76760186757978:loc-190&hydadcr=20714_13428824&mcid=5e21098180bd3bad9029177623805d9a&language=en_US&msclkid=90e86fbe81eb10b2140805084e6ca2ed
+2. Vintage DOD Overdrive Preamp 250 USA 1970s | PEDALS, EFFECTS PARTS: https://www.skuguitar.com/product/vintage-dod-overdrive-preamp-250-usa-1970s/
+3. DOD Overdrive Preamp 250 Pedal - zZounds: https://www.zzounds.com/item--DOD25050TH

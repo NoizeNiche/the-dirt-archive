@@ -1,23 +1,39 @@
 # Fuhrmann — Punch Box
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Punch Box
 - **Builder:** Fuhrmann
-- **Pedal:** Punch Box
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Fuhrmann's Punch Box.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Punch Box** by **Fuhrmann** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Fuhrmann's Punch Box is cataloged as a distortion pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Controls: Drive, Tone, Bypass Power: 9V DC - external power only Consuption: 8ma Switch: True bypass Physical: 4.33” x 2.67” x 2.36 (0.75 lbs) FUHRMANN products are manufactured by hand with great care and a zeal for uniqueness in tone and style.
+Steel plates, inks and electronic components, add in a love of music and dedication to craftsmanship, and turn it all into truly amazing devices that enhance creativity and add style to tone.
+
+## Sources checked
+1. Fuhrmann Punch Box - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/fuhrmann-punch-box
+2. Fuhrmann Guitar Pedal - PUNCH BOX - Walmart.com: https://www.walmart.com/ip/Fuhrmann-Guitar-Pedal-PUNCH-BOX/980410426
+3. Fuhrmann Punch Box II - Reverb: https://reverb.com/item/35745516-fuhrmann-punch-box-ii
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

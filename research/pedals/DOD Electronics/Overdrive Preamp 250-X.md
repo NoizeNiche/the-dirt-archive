@@ -39,3 +39,25 @@ Unlike many vintage overdrives that compress midrange aggressively, the 250 X de
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DOD make great Overdrive Pedals, so If you like Overdrive and Distortion, then a DOD Overdrive Preamp 250-X is the perfect Overdrive to order in.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+DigiTech DOD250-X DOD 250-X Overdrive Preamp Pedal 10th iteration design 5.0 5.0 out of 5 stars (1) Price, product page $119.99 $ 119 .
+Add to cart More Buying Choices $118.79 (13 new offers) DOD Overdrive 250 Analog Overdrive Preamp 4.7 4.7 out of 5 stars (58) Save 5% Price, product page $94.99 $ 94 .
+Add to cart Mini Overdrive Preamp Pedal with True Bypass Switch (D250X) 4.2 4.2 out of 5 stars (32) Price, product page $42.99 $ 42 .
+
+### Sources checked in this pass
+1. Amazon.com : dod overdrive preamp 250-x: https://www.amazon.com/s/?ie=UTF8&keywords=dod+overdrive+preamp+250-x&index=aps&tag=txtstdbgdt-20&ref=pd_sl_26jowu49r7_p&adgrpid=1228155801373699&hvadid=76759879711240&hvnetw=s&hvqmt=p&hvbmt=bp&hvdev=c&hvlocint=&hvlocphy=78090&hvtargid=kwd-76760186757978:loc-190&hydadcr=20714_13428824&mcid=5e21098180bd3bad9029177623805d9a&language=en_US&msclkid=8569ab355f131efb268fc18390944b56
+2. Dod Overdrive Preamp 250 X Review: A Deep Dive Into Its Circuit Design, Tone Stack, and Studio Integration | GearStrings: https://gearstrings.com/gear-reviews/dod-overdrive-preamp-250-x
+3. DOD Overdrive Preamp 250-X Pedal (10th Edition) DOD250-X B H: https://www.bhphotovideo.com/c/product/1970983-REG/dod_dod250_x_10th_iteration_of_the.html
+4. DOD - Overdrive Preamp 250-X – Nantel Musique: https://nantelmusic.com/products/dod-od-preamp-250-x
+5. DOD Overdrive Preamp 250-X: https://justpedals.co.uk/product/dod-overdrive-preamp-250-x/

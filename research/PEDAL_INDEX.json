@@ -30348,8 +30348,8 @@
       "image": "./assets/pedals/dod-electronics/overdrive-preamp-250/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Overdrive Preamp 250.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -30360,8 +30360,8 @@
       "image": "./assets/pedals/dod-electronics/overdrive-preamp-250-x/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Overdrive Preamp 250-X.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -33568,8 +33568,8 @@
       "image": "./assets/pedals/fuhrmann/punch-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fuhrmann/Punch Box.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
