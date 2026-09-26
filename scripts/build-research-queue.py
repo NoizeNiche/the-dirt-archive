@@ -42,7 +42,9 @@ def main():
     pictured = 0
     complete = 0
     research_pending = []
-    surface_ready = len(pedals)
+    deep_research_pending = []
+    surface_ready = 0
+    deep_researched = 0
 
     for item in pedals:
         key = (item.get("company"), item.get("pedal"))
@@ -50,22 +52,40 @@ def main():
         info_done = bool(row and row.get("Pedal Info") == "DONE")
         picture_done = bool(row and row.get("Picture") == "DONE")
         complete_done = bool(row and row.get("PRP Complete") == "DONE")
+        level = str(item.get("research_level") or "").strip().lower()
+        has_record = bool(item.get("research_record"))
 
         researched += int(info_done)
         pictured += int(picture_done)
         complete += int(complete_done)
 
-        if not info_done and not is_variation(item):
+        if has_record:
+            surface_ready += 1
+            if level == "deep":
+                deep_researched += 1
+            elif not is_variation(item):
+                deep_research_pending.append(
+                    {
+                        "builder": item.get("company"),
+                        "pedal": item.get("pedal"),
+                        "catalog_type": item.get("type") or item.get("dirt_type") or "",
+                        "research_record": item.get("research_record") or "",
+                        "research_level": "surface",
+                    }
+                )
+        elif not is_variation(item):
             research_pending.append(
                 {
                     "builder": item.get("company"),
                     "pedal": item.get("pedal"),
                     "catalog_type": item.get("type") or item.get("dirt_type") or "",
-                    "research_record": item.get("research_record") or "",
+                    "research_record": "",
+                    "research_level": "missing",
                 }
             )
 
-    next_target = research_pending[0] if research_pending else None
+    deep_research_pending = research_pending + deep_research_pending
+    next_target = deep_research_pending[0] if deep_research_pending else None
 
     queue = {
         "version": "catalog-research-phase-v1",
@@ -79,10 +99,12 @@ def main():
             "pictured": pictured,
             "complete": complete,
             "research_pending": len(research_pending),
+            "deep_research_pending": len(deep_research_pending),
+            "deep_researched": deep_researched,
             "surface_ready": surface_ready,
         },
         "next_target": next_target,
-        "working_set": research_pending[:WORKING_SET],
+        "working_set": deep_research_pending[:WORKING_SET],
     }
 
     QUEUE_PATH.write_text(
@@ -108,10 +130,11 @@ def main():
         "## Active phase checkpoint\n\n"
         "The active production phase is **Catalog Research Phase**. "
         "PRP1 is retained only as a legacy publication/closeout mechanism.\n\n"
-        f"Live catalog: **{len(pedals)} total / {surface_ready} surface-ready / {researched} researched / "
-        f"{pictured} pictured / {complete} complete / "
-        f"{len(research_pending)} research-pending / {photo_pending} researched-photo-pending**.\n\n"
-        f"**Next research target:** {target_text}.\n\n"
+        f"Live catalog: **{len(pedals)} total / {surface_ready} surface-ready / {deep_researched} deep-researched / "
+        f"{researched} research-linked / {pictured} pictured / {complete} complete / "
+        f"{len(research_pending)} surface-missing / {len(deep_research_pending)} deep-research-pending / "
+        f"{photo_pending} researched-photo-pending**.\n\n"
+        f"**Next deep-research target:** {target_text}.\n\n"
         f"{closeout}\n"
         "The research queue is generated from the canonical catalog and tracker; "
         "do not hand-edit the derived queue.\n"
@@ -128,8 +151,9 @@ def main():
         STATE_PATH.write_text(block + "\n\n" + state, encoding="utf-8")
 
     print(
-        f"Research queue built: {len(pedals)} total / {researched} researched / "
-        f"{len(research_pending)} research-pending / {photo_pending} researched-photo-pending."
+        f"Research queue built: {len(pedals)} total / {surface_ready} surface-ready / "
+        f"{deep_researched} deep-researched / {len(research_pending)} surface-missing / "
+        f"{len(deep_research_pending)} deep-research-pending / {photo_pending} researched-photo-pending."
     )
 
 
