@@ -336,6 +336,7 @@ async function targetRecord(builder,pedal,type){
   // especially useful for punctuation-heavy vintage model names that search
   // engines may normalize poorly.
   const minedLinks = await boundedMap(urls, 3, async u => {
+    if(verifiedCache.has(u)) return [];
     const page=await get(u);
     if(!page) return [];
     const baseHost=host(page.url||u);
@@ -366,7 +367,7 @@ async function targetRecord(builder,pedal,type){
     .sort((a,b)=>b.f.score-a.f.score).slice(0,12);
   const fetched = await boundedMap(ranked, 3, async item => {
     const cached=verifiedCache.get(item.x.url);
-    const p=await get(item.x.url);
+    const p=cached ? null : await get(item.x.url);
     const info=cached
       ? {
           title:String(cached.title||item.x.title||''),
