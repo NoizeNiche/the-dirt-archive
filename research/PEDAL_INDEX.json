@@ -4106,8 +4106,8 @@
       "research_record": "./research/pedals/Animals Pedal/Diamond Peak Hybrid Over Drive.md",
       "image_source_url": "https://animalspedal.us/cdn/shop/files/Diamond-Peak-Hybrid-Over-drive-01.jpg?v=1753153058&width=1445",
       "image_source_page": "https://animalspedal.us/products/animals-pedal-diamond-peak-hybrid-over-drive",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Animals Pedal",

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T21:46:31.402540+00:00",
+  "generated_at": "2026-09-26T21:47:45.041149+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2953,
     "complete": 2953,
     "research_pending": 0,
-    "deep_research_pending": 2271,
-    "deep_researched": 1490,
+    "deep_research_pending": 2270,
+    "deep_researched": 1491,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Animals Pedal",
-    "pedal": "Diamond Peak Hybrid Over Drive",
+    "pedal": "In Oct,3 Foxes talking of dreamy FUZZ",
     "catalog_type": "",
-    "research_record": "./research/pedals/Animals Pedal/Diamond Peak Hybrid Over Drive.md",
+    "research_record": "./research/pedals/Animals Pedal/In Oct,3 Foxes talking of dreamy FUZZ.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Animals Pedal",
-      "pedal": "Diamond Peak Hybrid Over Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Animals Pedal/Diamond Peak Hybrid Over Drive.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Animals Pedal",
       "pedal": "In Oct,3 Foxes talking of dreamy FUZZ",
@@ -195,6 +188,13 @@
       "pedal": "Cheddar Source",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 059/Cheddar Source.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Ashdown Engineering",
+      "pedal": "John Myung Double Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 059/John Myung Double Drive.md",
       "research_level": "surface"
     }
   ]
