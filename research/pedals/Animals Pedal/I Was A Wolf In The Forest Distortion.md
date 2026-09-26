@@ -36,3 +36,26 @@ The pedal targets British high-gain distortion while retaining lower-gain settin
 1. Animals Pedal USA — I Was A Wolf In The Forest Distortion: https://animalspedal.us/products/animals-pedal-i-was-a-wolf-in-the-forest-distortion
 2. Animals Pedal — product history: https://www.animalspedal.jp/en/pages/histrory
 3. Sound House — owner review: https://www.soundhouse.co.jp/products/detail/item/289060/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Many distortion pedals always have a strong distortion sound when you turn them on, but don’t allow you to set them nearly “clean” or just with a little edge – to get those crisp distortions with light crunch to creamy overdrive tones.
+
+### Verified color/finish evidence
+- This wolf brings back the large black amplifier stacks from the UK that gives the thick, warm, and edgy sound of those large amplifiers and 4x12 cabinets.
+
+### Verified version references
+- The evidence references: MKII, V3.
+
+### Verified sound evidence
+Many distortion pedals always have a strong distortion sound when you turn them on, but don’t allow you to set them nearly “clean” or just with a little edge – to get those crisp distortions with light crunch to creamy overdrive tones.
+Bump up the gain and you get into typical medium to high gain distortion with searing sustain and crunchy intensity.
+You can also control the amount of distortion present in your sound by using your playing dynamics and fingers or simply roll back your volume knob on the guitar.
+
+### Sources checked in this pass
+1. ANIMALS PEDAL I Was A Wolf In The Forest Distortion MKII: https://www.musicjunction.com.au/products/animals-pedal-i-was-a-wolf-in-the-forest-distortion-mkii
+2. Animals Pedal I Was A Wolf In The Forest Distortion – Animals Pedal USA: https://animalspedal.us/products/animals-pedal-i-was-a-wolf-in-the-forest-distortion
+3. Animals Pedal I Was A Wolf In The Forest Distortion — Distortion Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/animals-pedal-i-was-a-wolf-in-the-forest-distortion

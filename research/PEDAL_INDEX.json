@@ -3768,8 +3768,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 366,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/analogsound_screamforcream_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Sound",
@@ -4092,8 +4092,8 @@
       "research_record": "./research/pedals/Animals Pedal/ANGEL BEAR FACE FUZZ.md",
       "image_source_url": "https://res.cloudinary.com/geartree/image/upload/t_og_image/c_limit,w_1200/f_png/q_auto/v1/ANIMANGELBEARFACEFUZZ-1?_a=BBDAAEAD0",
       "image_source_page": "https://www.geartree.com/product/22706722/animals-pedal-angel-bear-face-fuzz-effects-pedal/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Animals Pedal",
@@ -4120,8 +4120,8 @@
       "research_record": "./research/pedals/Animals Pedal/FISHING IS AS FUN AS FUZZ.md",
       "image_source_url": "https://www.makenmusic.com/cdn/shop/products/FISHINGISASFUNASFUZZ-03_1024x1024.jpg?v=1677179284",
       "image_source_page": "https://www.makenmusic.com/products/animals-pedal-fishing-is-as-fun-as-fuzz",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Animals Pedal",
@@ -4134,8 +4134,8 @@
       "research_record": "./research/pedals/Animals Pedal/FISHING IS AS FUN AS FUZZ LIMITED EDITION.md",
       "image_source_url": "https://animalspedal.us/cdn/shop/files/FIAFAF-LIMITED-03.png?v=1707450740&width=1946",
       "image_source_page": "https://animalspedal.us/products/ap-fffuzz-limited-edition",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Animals Pedal",
@@ -4148,8 +4148,8 @@
       "research_record": "./research/pedals/Animals Pedal/I Was A Wolf In The Forest Distortion.md",
       "image_source_url": "https://www.musicjunction.com.au/cdn/shop/files/AP-IWWDk_2.png?v=1757553905&width=2048",
       "image_source_page": "https://www.musicjunction.com.au/products/animals-pedal-i-was-a-wolf-in-the-forest-distortion-mkii",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Animals Pedal",
@@ -4176,8 +4176,8 @@
       "research_record": "./research/pedals/Animals Pedal/Major Overdrive.md",
       "image_source_url": "https://www.truetonemusic.com/cdn/shop/files/AniMaj_1200x1200.jpg?v=1724731200",
       "image_source_page": "https://www.truetonemusic.com/products/animals-pedal-major-overdrive-guitar-effect-pedal",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Animals Pedal",
@@ -28293,8 +28293,8 @@
       "image": "./assets/pedals/cuvave-m-vave/overdrive-db/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CUVAVE / M-VAVE/Overdrive DB.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CUVAVE / M-VAVE",

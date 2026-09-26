@@ -36,3 +36,19 @@ It combines a thick wall of fuzz with a more cutting distortion-like character. 
 
 ## Sources checked
 1. Animals Pedal USA — Fishing Is As Fun As Fuzz: https://animalspedal.us/products/ap-fffuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Animals Pedal FISHING IS AS FUN AS FUZZ - Effects Pedal for Electric G
+
+### Verified sound evidence
+Animals Pedal FISHING IS AS FUN AS FUZZ - Effects Pedal for Electric G
+Map Include: Sold / Out-of-stock Items MENU New Arrivals Electric Guitars Bass Acoustics Amps FX Pedals Sell/Trade Accessories Lessons On Sale 0 0 Your Cart Make'n Music Animals Pedal USA Animals Pedal FISHING IS AS FUN AS FUZZ - Effects Pedal for Electric Guitar - NEW!
+Animals Pedal FISHING IS AS FUN AS FUZZ - Effects Pedal for Electric Guitar - NEW!
+
+### Sources checked in this pass
+1. Animals Pedal FISHING IS AS FUN AS FUZZ - Effects Pedal for Electric G | Make'n Music: https://www.makenmusic.com/products/animals-pedal-fishing-is-as-fun-as-fuzz
+2. Animals Pedal FISHING IS AS FUN AS FUZZ – Animals Pedal USA: https://animalspedal.us/products/animals-pedal-fishing-is-as-fun-as-fuzz

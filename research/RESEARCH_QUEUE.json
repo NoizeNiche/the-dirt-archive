@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T16:52:05.290758+00:00",
+  "generated_at": "2026-09-26T16:54:38.318975+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2866,
     "complete": 2866,
     "research_pending": 0,
-    "deep_research_pending": 2334,
-    "deep_researched": 1427,
+    "deep_research_pending": 2327,
+    "deep_researched": 1434,
     "surface_ready": 3761
   },
   "next_target": {
@@ -34,13 +34,6 @@
       "pedal": "Tone Bender MKI / Rangemaster Treble Booster",
       "catalog_type": "",
       "research_record": "./research/pedals/Analog Noir/Tone Bender MKI - Rangemaster Treble Booster.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Sound",
-      "pedal": "Scream For Cream OD",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Sound/Scream For Cream OD.md",
       "research_level": "surface"
     },
     {
@@ -115,13 +108,6 @@
     },
     {
       "builder": "Animals Pedal",
-      "pedal": "ANGEL BEAR FACE FUZZ",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Animals Pedal/ANGEL BEAR FACE FUZZ.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Animals Pedal",
       "pedal": "Diamond Peak Hybrid Over Drive",
       "catalog_type": "",
       "research_record": "./research/pedals/Animals Pedal/Diamond Peak Hybrid Over Drive.md",
@@ -129,37 +115,9 @@
     },
     {
       "builder": "Animals Pedal",
-      "pedal": "FISHING IS AS FUN AS FUZZ",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Animals Pedal/FISHING IS AS FUN AS FUZZ.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Animals Pedal",
-      "pedal": "FISHING IS AS FUN AS FUZZ LIMITED EDITION",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Animals Pedal/FISHING IS AS FUN AS FUZZ LIMITED EDITION.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Animals Pedal",
-      "pedal": "I Was A Wolf In The Forest Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Animals Pedal/I Was A Wolf In The Forest Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Animals Pedal",
       "pedal": "In Oct,3 Foxes talking of dreamy FUZZ",
       "catalog_type": "",
       "research_record": "./research/pedals/Animals Pedal/In Oct,3 Foxes talking of dreamy FUZZ.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Animals Pedal",
-      "pedal": "Major Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Animals Pedal/Major Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +153,48 @@
       "pedal": "Rust Rod Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 057/Rust Rod Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "Sunday Afternoon Is Infinity Bender",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 057/Sunday Afternoon Is Infinity Bender.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "Surfing Bear Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 057/Surfing Bear Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 057/SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "Tioga Road Cycling Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 057/Tioga Road Cycling Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "Vintage Van Driving is Very Fun",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 057/Vintage Van Driving is Very Fun.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Anode Effects",
+      "pedal": "Dragon Drive V2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 057/Dragon Drive V2.md",
       "research_level": "surface"
     }
   ]

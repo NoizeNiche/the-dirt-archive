@@ -37,3 +37,19 @@ Major Overdrive ranges from lower-gain plexi-style crunch to more compressed, su
 
 ## Sources checked
 1. Animals Pedal USA — Major Overdrive: https://animalspedal.us/products/animals-pedal-major-overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Enter the Animals Pedal Major Overdrive, designed by Marc Ahlfs of Skreddy Pedals to bring everyone the legendary rock tones.
+
+### Verified sound evidence
+The UK made amps that became the beginning of the legend is one of the classic tone goals for many guitarists.
+Enter the Animals Pedal Major Overdrive, designed by Marc Ahlfs of Skreddy Pedals to bring everyone the legendary rock tones.
+The Major Overdrive will take you to the plexi-palace of tone in an easy-to-use package that sounds great with even solid-state practice amps.
+
+### Sources checked in this pass
+1. Animals Pedal Major Overdrive Guitar Effect Pedal — Truetone Music: https://www.truetonemusic.com/products/animals-pedal-major-overdrive-guitar-effect-pedal
+2. Animals Pedal Major Overdrive – Animals Pedal USA: https://animalspedal.us/products/animals-pedal-major-overdrive

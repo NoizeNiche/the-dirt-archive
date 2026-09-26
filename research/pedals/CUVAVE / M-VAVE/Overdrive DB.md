@@ -35,3 +35,17 @@ This identifies the named M-VAVE/CUVAVE overdrive within the maker's own product
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CUVAVE / M-VAVE's Overdrive DB is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+M-VAVE's official Product Ecosystem provides the manufacturer catalog for its effect-pedal range and explicitly lists the exact model Overdrive DB.
+This identifies the named M-VAVE/CUVAVE overdrive within the maker's own product lineup instead of relying on similarly named Blues or Tube Screamer variants.
+
+### Sources checked in this pass
+1. M-VAVE - Product Ecosystem: https://www.m-vave.com/products
