@@ -25667,8 +25667,8 @@
       "image": "./assets/pedals/coron/hm-520-heavy-metal-turbo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coron/HM-520 Heavy Metal Turbo.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coron",
@@ -36121,8 +36121,8 @@
       "image": "./assets/pedals/jhs-pedals/muffuletta/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Muffuletta.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -45874,8 +45874,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Elk Super Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",

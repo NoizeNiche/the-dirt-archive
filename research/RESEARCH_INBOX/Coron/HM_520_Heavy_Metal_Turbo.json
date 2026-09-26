@@ -2,15 +2,32 @@
   "builder": "Coron",
   "pedal": "HM-520 Heavy Metal Turbo",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 3,
   "sources": [
     {
       "url": "https://www.effectsdatabase.com/model/coron/last/hm520",
       "title": "Coron HM-520 Heavy Metal Turbo | Effects Database",
       "h1": "Coron HM-520 Heavy Metal Turbo",
       "excerpt": "Exact-model page identifies the HM-520 as a Coron last-series distortion with Low Boost, High Boost, Level and Distortion controls.",
-      "host": "www.effectsdatabase.com"
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://reverb.com/item/85066443-coron-hd-520-heavy-distortion-made-in-japan-same-as-the-hm-520-heavy-metal-turbo",
+      "title": "Coron HD-520 Heavy Distortion made in Japan - same as the | Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://electricmister.com/collections/coron",
+      "title": "Coron &ndash; Electric Mister",
+      "h1": "Coron",
+      "excerpt": "Coron &ndash; Electric Mister Skip to content Search Log in Sign up Cart ( 0 ) Worldwide shipping Free Shipping to most EU countries Menu Home In Stock (106) + All Products Acoustic Sim Amp Sim Auto Wah Bass Booster Buffer Chorus Compressor Delay Distortion Enhancer Envelope Filter Equalizer Expander Expression Flanger Fuzz Harmonizer Headphone Amp Leslie Sim Limiter Looper Metronome Mixer Multieffects Noise Gate Noise Generator Octaver Organ Sim Overdrive Pan Phaser Pitch Shifter Power Supply PreAmp Recorder Reverb Ring Modulator Sampler Selector Sitar Sim Swell Synthesizer Tremolo Tuner Vibe Vibrato Volume Wah Wah Sold Out (502) Shipping Policy Terms of Service Refund Policy Privacy Policy About Us Feedback Contact Us Contact Information Log in Sign up Instagram Home 1 \u203a Coron 2 Coron Sort by Featured Most relevant Best selling Alphabetically, A-Z Alphabetically, Z-A Price, low to high Price, high to low Date, old to new Date, new to old Coron Line Booster made in Japan Regular price $192.00 Coron Noise Gate made in Japan w/box Regular price $197.00 Coron JFM-100 Jet Flanger & Filter Matrix made in Japan - Reticon SAD1024 Regular price $576.00 JHS DS-700 Super Distortion made in Japan w/box - same as the Coron DC-809 Regular price $262.00 Frontline Hand Clap made in Japan - same as the Coron DC-890 Regular price $343.00 Coron DC-807 Distortion Box II made in Japan Regular price $192.00 Coron Phaser 55 made in Japan near mint w/box Regular price $255.00 Coron HD-520 Heavy Distortion made in Japan - same as the HM-520 Heavy Metal Turbo Regular price $150.00 Frontline Series II Heavy Metal made in Japan w/box - same as the Coron HM-520 / HD-520 Regular price $181.00 Coron HO-320 Heavy Over Drive made in Japan near mint w/box Regular price $232.00 Coron JFM-100 Jet Flanger & Filter Matrix made in Japan - Reticon SAD1024 Regular price $662.00 Frontline Series II Heavy Overdrive made in Japan w/box - same as the Coron HO-320 Regular price $220.00 1 2 Next &raquo; Electric Mister di Baravelli Marco VAT number: IT 03758071207 Tax Code: BRVMRC78L16A944Y electricmister@electricmister.com Info Shipping Policy Terms of Service Refund Policy Privacy Policy About us Feedback Contact us Contact Information Copyright &copy; 2026, Electric Mister . Powered by Shopify Payment icons American Express Apple Pay Bancontact BLIK Google Pay iDEAL Wero Klarna Maestro Mastercard MobilePay PayPal Shop Pay Union Pay Visa Choosing a selection results in a full page refresh. Press the space key then arrow keys to make a selection. Withdraw contract Withdrawal form \u00d7 1 \u00b7 Details 2 \u00b7 Items 3 \u00b7 Confirmed Your details Please enter your email and order number. The merchant uses this data for manual matching. Name * Order number * Required field. Please enter the order number as shown in your confirmation. Email * Your confirmation will be sent to this address. Company Our Privacy Policy applies. Continue Verifying... Selected: 0 No items in this order can be withdrawn through this form because all items are excluded from withdrawal (see withdrawal policy). Please contact the merchant if you have questions. Reason (optional) No reason Changed my mind Ordered by mistake Duplicate order No longer needed Found a better price Too late as a gift Too large Too small Wrong size / fit Wrong color Looks different from the pictures Quality not satisfactory I no longer like it Animal rejected it Consistency The scent was not what I expected The scent was not my style Item arrived damaged Wrong item delivered Item incomplete / parts missing Item defective / does not work Delivery took too long Item not received I still have enough at home Too expensive / budget reasons Not seeing the results I hoped for Switching to another brand I want to try a different product I didn't mean to order a subscription Other reason Message (optional) Items (optional) No items found for this order. Back Confirm withdrawal Submitting... \u2713 Withdrawal received Reference: A confirmation has been",
+      "host": "electricmister.com",
+      "source_kind": "other"
     }
   ],
-  "next_action": "Write the canonical record from the exact page. Keep its relationship to HD-520 as a sourced related model, not an unsupported claim of total circuit identity."
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }
