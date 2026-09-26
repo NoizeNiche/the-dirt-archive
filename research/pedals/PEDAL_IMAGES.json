@@ -15595,7 +15595,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Sound Shank",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/sound-shank/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Sound Shank.md"
   },
@@ -16575,7 +16575,7 @@
   {
     "builder": "Foxgear",
     "pedal": "Bass Muffin",
-    "image": null,
+    "image": "./assets/pedals/foxgear/bass-muffin/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Foxgear/Bass Muffin.md"
   },
@@ -17751,14 +17751,14 @@
   {
     "builder": "IdiotBox Effects",
     "pedal": "REDRUM V2",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/redrum-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/REDRUM V2.md"
   },
   {
     "builder": "IdiotBox Effects",
     "pedal": "repo man",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/repo-man/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/repo man.md"
   },
@@ -18654,7 +18654,7 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Oxblood Overdrive",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/oxblood-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Oxblood Overdrive.md"
   },
@@ -19522,14 +19522,14 @@
   {
     "builder": "Lovepedal",
     "pedal": "Tchula",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/tchula/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/Tchula.md"
   },
   {
     "builder": "Lovepedal",
     "pedal": "Tiki Drive",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/tiki-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/Tiki Drive.md"
   },
@@ -19627,7 +19627,7 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Stone Grey Distortion",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/stone-grey-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Stone Grey Distortion.md"
   },
@@ -19641,14 +19641,14 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "The Green Wonder",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/the-green-wonder/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/The Green Wonder.md"
   },
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Twimble",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/twimble/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Twimble.md"
   },
@@ -19676,7 +19676,7 @@
   {
     "builder": "MadeByMike",
     "pedal": "Fuzzy Beetle",
-    "image": null,
+    "image": "./assets/pedals/madebymike/fuzzy-beetle/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MadeByMike/Fuzzy Beetle.md"
   },
@@ -19690,7 +19690,7 @@
   {
     "builder": "MadeByMike",
     "pedal": "RAT/MUFF",
-    "image": null,
+    "image": "./assets/pedals/madebymike/rat-muff/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MadeByMike/RAT/MUFF.md"
   },
@@ -19774,21 +19774,21 @@
   {
     "builder": "Marshall Amplification",
     "pedal": "Guv'nor Vintage Reissue Pedal",
-    "image": null,
+    "image": "./assets/pedals/marshall-amplification/guv-nor-vintage-reissue-pedal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Marshall Amplification/Guv'nor Vintage Reissue Pedal.md"
   },
   {
     "builder": "Marshall Amplification",
     "pedal": "Jackhammer JH-1",
-    "image": null,
+    "image": "./assets/pedals/marshall-amplification/jackhammer-jh-1/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Marshall Amplification/Jackhammer JH-1.md"
   },
   {
     "builder": "Marshall Amplification",
     "pedal": "JCM800 Overdrive Pedal",
-    "image": null,
+    "image": "./assets/pedals/marshall-amplification/jcm800-overdrive-pedal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Marshall Amplification/JCM800 Overdrive Pedal.md"
   },
@@ -19802,7 +19802,7 @@
   {
     "builder": "Marshall Amplification",
     "pedal": "JVM Overdrive Pedal",
-    "image": null,
+    "image": "./assets/pedals/marshall-amplification/jvm-overdrive-pedal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Marshall Amplification/JVM Overdrive Pedal.md"
   },
@@ -19858,21 +19858,21 @@
   {
     "builder": "Mask Audio Electronics",
     "pedal": "CIVIL MATH",
-    "image": null,
+    "image": "./assets/pedals/mask-audio-electronics/civil-math/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/CIVIL MATH.md"
   },
   {
     "builder": "Mask Audio Electronics",
     "pedal": "CLUBBER LANG",
-    "image": null,
+    "image": "./assets/pedals/mask-audio-electronics/clubber-lang/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/CLUBBER LANG.md"
   },
   {
     "builder": "Mask Audio Electronics",
     "pedal": "Ears Come To Die (historical limited-edition Fuzz Lab)",
-    "image": null,
+    "image": "./assets/pedals/mask-audio-electronics/ears-come-to-die-historical-limited-edition-fuzz-lab/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/Ears Come To Die (historical limited-edition Fuzz Lab).md"
   },
@@ -19886,7 +19886,7 @@
   {
     "builder": "Mask Audio Electronics",
     "pedal": "Hot Water",
-    "image": null,
+    "image": "./assets/pedals/mask-audio-electronics/hot-water/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/Hot Water.md"
   },
@@ -19942,21 +19942,21 @@
   {
     "builder": "Maxon",
     "pedal": "D&S",
-    "image": null,
+    "image": "./assets/pedals/maxon/d-s/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/D&S.md"
   },
   {
     "builder": "Maxon",
     "pedal": "D&S II",
-    "image": null,
+    "image": "./assets/pedals/maxon/d-s-ii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/D&S II.md"
   },
   {
     "builder": "Maxon",
     "pedal": "Distortion and Sustainer (D&S)",
-    "image": null,
+    "image": "./assets/pedals/maxon/distortion-and-sustainer-d-s/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Distortion and Sustainer (D&S).md"
   },

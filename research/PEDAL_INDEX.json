@@ -31489,7 +31489,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/sound-shank/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Sound Shank.md",
       "research_level": "surface",
@@ -33193,7 +33193,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/foxgear/bass-muffin/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Bass Muffin.md",
       "research_level": "deep",
@@ -35276,7 +35276,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/redrum-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/REDRUM V2.md",
       "research_level": "deep",
@@ -35288,7 +35288,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/repo-man/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/repo man.md",
       "research_level": "deep",
@@ -36870,7 +36870,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/oxblood-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Oxblood Overdrive.md",
       "research_level": "surface",
@@ -38442,7 +38442,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/tchula/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Tchula.md",
       "research_level": "surface",
@@ -38455,7 +38455,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/tiki-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Tiki Drive.md",
       "research_level": "surface",
@@ -38624,7 +38624,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/stone-grey-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Stone Grey Distortion.md",
       "research_level": "deep",
@@ -38648,7 +38648,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/the-green-wonder/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/The Green Wonder.md",
       "research_level": "deep",
@@ -38660,7 +38660,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/twimble/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Twimble.md",
       "research_level": "deep",
@@ -38713,7 +38713,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/madebymike/fuzzy-beetle/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/Fuzzy Beetle.md",
       "research_level": "deep",
@@ -38739,7 +38739,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/madebymike/rat-muff/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/RAT/MUFF.md",
       "research_level": "deep",
@@ -38886,7 +38886,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/guv-nor-vintage-reissue-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Guv'nor Vintage Reissue Pedal.md",
       "research_level": "surface",
@@ -38899,7 +38899,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/jackhammer-jh-1/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Jackhammer JH-1.md",
       "research_level": "surface",
@@ -38911,7 +38911,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/jcm800-overdrive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/JCM800 Overdrive Pedal.md",
       "research_level": "surface",
@@ -38935,7 +38935,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/jvm-overdrive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/JVM Overdrive Pedal.md",
       "research_level": "surface",
@@ -39031,7 +39031,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/civil-math/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/CIVIL MATH.md",
       "research_level": "surface",
@@ -39043,7 +39043,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/clubber-lang/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/CLUBBER LANG.md",
       "research_level": "surface",
@@ -39055,7 +39055,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/ears-come-to-die-historical-limited-edition-fuzz-lab/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/Ears Come To Die (historical limited-edition Fuzz Lab).md",
       "research_level": "surface",
@@ -39080,7 +39080,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/hot-water/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/Hot Water.md",
       "research_level": "surface",
@@ -39179,7 +39179,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/d-s/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/D&S.md",
       "research_level": "surface",
@@ -39192,7 +39192,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/d-s-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/D&S II.md",
       "research_level": "surface",
@@ -39205,7 +39205,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/distortion-and-sustainer-d-s/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Distortion and Sustainer (D&S).md",
       "research_level": "surface",
