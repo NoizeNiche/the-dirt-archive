@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T08:39:17.372144+00:00",
+  "generated_at": "2026-09-26T08:42:02.252637+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2706,
     "complete": 2706,
     "research_pending": 0,
-    "deep_research_pending": 3245,
-    "deep_researched": 516,
+    "deep_research_pending": 3244,
+    "deep_researched": 517,
     "surface_ready": 3761
   },
   "next_target": {
@@ -34,13 +34,6 @@
       "pedal": "Tight Drive Jr",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/Tight_Drive_Jr.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "Tight Metal Pro",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/Tight_Metal_Pro.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Tube Drive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 050/Tube Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "amukaT",
+      "pedal": "Tweaker",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 050/Tweaker.md",
       "research_level": "surface"
     }
   ]
