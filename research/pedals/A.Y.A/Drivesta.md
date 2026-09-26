@@ -3,41 +3,57 @@
 ## PRP identity
 - **Archive parent:** Drivesta
 - **Builder:** A.Y.A
-- **Catalog type:** Overdrive / Distortion
-- **Identity:** A.Y.A's compact Marshall-style amp-like drive and distortion pedal.
+- **Catalog type:** Distortion
+- **Identity:** A.Y.A Tokyo Japan Drivesta, a compact British-vintage-stack style drive/distortion pedal.
 
 ## What this pedal is
-Drivesta is designed around a **British vintage stack / Marshall-style** character, with five front-panel controls, two drive modes and a separate buffer switch. Effects Database and Japanese dealer documentation both describe the two-mode OD/DIST arrangement and three-band EQ. [1][2]
+Effects Database describes Drivesta as a compact pedal built for a **British vintage stack** sound. A.Y.A's own product page lists a three-band EQ, multiple drive modes, a buffer switch and true bypass. [1][2]
 
-## Colorways
-- The documented production design uses a **silver enclosure with a dark illustrated faceplate**.
-- Later/revived examples retain the same basic artwork while using the same side-mounted control layout. [2]
+Effects Database published the exact-model entry on **April 3, 2006**. That date is a database publication date, not an asserted factory release date. [1]
 
-## Versions and factory options
-### Drivesta
-- Gain
-- Master
-- Bass
-- Mid
-- Treble
-- OD / DIST mode switch
-- buffer switch
-- true bypass
-- high-brightness LED [1][2]
+## Controls and switching
+A.Y.A's official documentation specifies:
+- **Gain**
+- **Master Volume**
+- **Treble**
+- **Middle**
+- **Bass**
+- a drive mode switch
+- a separate **buffer switch** [2]
 
-The builder's present/revival documentation indicates the design was brought back by the same A.Y.A maker after the earlier Nakano-era production. [3]
+The official Japanese page describes two named drive modes:
+- **OD:** the basic Drivesta distortion voice.
+- **DIST:** maximum distortion amount, with lower output volume. [2]
 
-## Version changes
-A.Y.A later revived Drivesta, but no numbered circuit revision was verified. The archive keeps the parent identity and notes the production/revival history rather than inventing V1/V2 labels.
+The older English product material describes the pedal as a **3-mode switch** design with OD1, OD2 and DIST, where OD2 is a distortion mode without a clipping diode. The Japanese current page labels the switch as two modes while separately describing the OD and DIST functions. Because the surviving documentation is internally inconsistent on mode count, the archive records the documented OD/DIST functions without inventing a definitive factory mode count. [2][3]
 
-## Transistor
-- **Technology:** Exact active-device details are not publicly documented.
-- **Exact transistor/device:** Unknown.
+## Buffer switch
+A.Y.A describes the buffer as an independent circuit before the distortion stage that changes the signal range entering the drive circuit. It is not simply an always-on cosmetic buffer claim. [2]
 
-## Diode
-- **Type:** Not publicly documented.
-- **Exact diode/device:** Unknown.
+## Components and construction
+The official A.Y.A English product material names high-quality components including **Fairchild, Wima, CDE, Switchcraft and XICON** for Drivesta, while Effects Database summarizes the parts as Fairchild, AVX, Sprague, Switchcraft and XICON. [1][3]
+
+The exact transistor, diode, op-amp and component values for a specific production unit are not established in the verified sources.
+
+- **Transistor:** Exact part number unknown.
+- **Diode:** Exact type/device unknown.
+- **Schematic/component values:** Not verified.
 
 ## Sound
-Drivesta is built to push the sound toward a British amp stack, with the three-band EQ giving much more shaping control than a simple one-tone overdrive. OD mode provides the basic drive voice, while DIST moves the pedal to its most saturated setting; the buffer switch changes the signal range feeding the drive section. [1][2]
+Drivesta is explicitly voiced toward a British vintage stack character. A.Y.A describes it as a clear, projecting sound with its multi-band EQ and mode/buffer controls providing a broad range of settings. [1][2]
 
+## Brand / production history
+A.Y.A's history says the compact pedal line began with R-COMP and then expanded through BM-Fuzz, Drivesta, WarmChorus and FrontGateBassDrive. The builder identifies Makoto Kawai and describes A.Y.A pedals as hand-built, with circuit boards plus hand wiring and decorative enclosures/decals. [4]
+
+## Artwork
+A.Y.A's history says the Drivesta panel artwork represents **the harvest moon**, including a rabbit motif and pampas grass. This is brand artwork context, not evidence of multiple circuit variants. [4]
+
+## Sources checked
+1. Effects Database — A.Y.A Drivesta: https://www.effectsdatabase.com/model/aya/drivesta
+2. AYA tokyo japan — Drivesta/current product page: https://aya.la.coocan.jp/products_jap.html
+3. AYA tokyo japan — English products page: https://aya.la.coocan.jp/products_eng.html
+4. AYA tokyo japan — history: https://aya.la.coocan.jp/about_jap.html
+
+## Photo
+- **Archive status:** Photo handling remains separate from this research pass.
+- **Identity rule:** Do not substitute imagery from the later/revived Drivesta presentation unless the asset is explicitly tied to the same catalog identity.
