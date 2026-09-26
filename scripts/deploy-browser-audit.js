@@ -366,6 +366,7 @@ const path = require('node:path');
             }
             if (!(surfaceText || '').includes('Deep research status')) {
               throw new Error('Surface detail baseline is missing its deep-research status.');
+            }
 
             const noPhotoEntry = (catalog.pedals || []).find(
               x => x.catalog_role !== 'variation' && x.research_record && !x.image
