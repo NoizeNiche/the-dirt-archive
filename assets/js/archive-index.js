@@ -8,6 +8,13 @@ let selectedClippings=new Set((initialParams.get('clipping')||'').split(',').map
 let facetRecords=new Map();let facetOptions={transistor:[],clipping:[]};
 if(!['All','Overdrive','Distortion','Fuzz'].includes(selectedType))selectedType='All';
 
+function initializeFilterDrawer(){
+  const drawer=document.querySelector('.filterDrawer');
+  if(!drawer)return;
+  drawer.open=window.matchMedia('(min-width:821px)').matches;
+}
+initializeFilterDrawer();
+
 function hasActiveFilters(){
   return selectedType!=='All'||Boolean(selectedBuilder)||Boolean(q)||selectedTransistors.size>0||selectedClippings.size>0;
 }
