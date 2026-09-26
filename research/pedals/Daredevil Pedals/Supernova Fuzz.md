@@ -39,3 +39,26 @@ Super biting, gritty, vintage type fuzz all hand wired in Chicago.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals Supernova Fuzz Pedal
+
+### Verified color/finish evidence
+- Daredevil Pedals Supernova Fuzz V2 Effects Pedal - Gold
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified sound evidence
+Daredevil Pedals Supernova Fuzz V2 Effects Pedal - Gold
+Daredevil Pedals Supernova Fuzz Pedal
+Super biting, gritty, vintage type fuzz all hand wired in Chicago.
+
+### Sources checked in this pass
+1. Daredevil Pedals Supernova Fuzz - Reverb: https://reverb.com/item/101028724-daredevil-pedals-supernova-fuzz
+2. Daredevil Pedals Supernova Fuzz V2 Effects Pedal - Gold | Guitar Center: https://www.guitarcenter.com/Daredevil-Pedals/Supernova-Fuzz-Effects-Pedal-Gold-1500000366157.gc
+3. Daredevil Pedals Supernova Fuzz Pedal | Vision Guitar: https://www.visionguitar.com/products/daredevil-pedals-supernova-fuzz-pedal

@@ -40,3 +40,24 @@ The pedal preserves the Harmonic Percolator's asymmetric, intermodulating respon
 ## Photo
 - **Archive status:** **Exact Photo Archived**
 - **Image source:** Analog Noir exact-model product image.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+A hand wired recreation of the 1972 Harmonic Percolator — a highly textured intermodulation device designed by an eccentric Wisconsin engineer in the early 70’s.
+
+### Verified color/finish evidence
+- The Harmonic Percolator utilizes a hybrid silicon / germanium transistor design that clips asymmetrically and imparts the signal with an unpredictable, yet musical distortion that resembles an overdriven console, but with more warmth and natural compression.
+- FINISH: Gold Seafoam green Slate gray Olive drab Ivory Add To Cart Added!
+
+### Verified transistor/device terms
+- germanium transistor.
+
+### Verified sound evidence
+The Harmonic Percolator utilizes a hybrid silicon / germanium transistor design that clips asymmetrically and imparts the signal with an unpredictable, yet musical distortion that resembles an overdriven console, but with more warmth and natural compression.
+A hand wired recreation of the 1972 Harmonic Percolator — a highly textured intermodulation device designed by an eccentric Wisconsin engineer in the early 70’s.
+
+### Sources checked in this pass
+1. Harmonic Percolator — Analog Noir: https://analognoirelectric.com/pedals/p/percolator

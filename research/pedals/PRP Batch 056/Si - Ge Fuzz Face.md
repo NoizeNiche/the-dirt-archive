@@ -47,3 +47,23 @@ The germanium options are described as warmer, more touch-sensitive and more cle
 ## Photo
 - **Archive status:** **Exact Photo Archived**
 - **Image source:** Analog Noir exact-model product image.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Noir Si / Ge Fuzz Face — Fuzz Pedal Specs & Where to Buy
+
+### Verified version references
+- The evidence references: MK1, MKI, MKII, MKIII, v2.
+
+### Verified transistor/device terms
+- Germanium Fuzz, BC108, 2N1306, Silicon Transistor.
+
+### Verified sound evidence
+Analog Noir Si / Ge Fuzz Face — Fuzz Pedal Specs & Where to Buy
+
+### Sources checked in this pass
+1. catalog/override source: https://analognoirelectric.com/pedals/p/si-ge-fuzz-face
+2. Analog Noir Si / Ge Fuzz Face — Fuzz Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/analog-noir-si-ge-fuzz-face

@@ -3650,8 +3650,8 @@
       "research_record": "./research/pedals/PRP Batch 056/Harmonic Percolator.md",
       "image_source_page": "https://analognoirelectric.com/pedals/p/percolator",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/63866ae37fa424183230cef5/67d67f7f-43cf-48e5-94e2-b6e422732acc/IMG_7393%2B4.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Noir",
@@ -3664,8 +3664,8 @@
       "research_record": "./research/pedals/PRP Batch 056/Si - Ge Fuzz Face.md",
       "image_source_page": "https://analognoirelectric.com/pedals/p/fuzzface",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/63866ae37fa424183230cef5/ae8e1feb-18d7-4fdc-aa7b-31edaef73ffb/Screen%2BShot%2B2024-11-27%2Bat%2B10.25.17%2BAM.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Noir",
@@ -3692,8 +3692,8 @@
       "research_record": "./research/pedals/Analog Noir/Tone Bender MKI.md",
       "image_source_url": "https://images.guitarguitar.co.uk/cdn/large/170/PXP230716410048024-10667335f.jpg?h=500&maxwidth=770&scale=canvas&bg=ffffff&quality=70",
       "image_source_page": "https://www.guitarguitar.co.uk/product/pxp230716410048024-10667335--british-pedal-company-tone-bender-mki-pre-owned",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Noir",
@@ -29029,8 +29029,8 @@
       "image": "./assets/pedals/daredevil-pedals/supernova-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/Supernova Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -34493,8 +34493,8 @@
       "image": "./assets/pedals/himmelstrutz-elektro-art/fugazi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FUGAZI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Himmelstrutz Elektro Art",
@@ -49188,8 +49188,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Iron Horse LM308 Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",

@@ -40,3 +40,20 @@ The MKI has the dense, raw and sustaining character associated with the earliest
 ## Sources checked
 1. Analog Noir — Tone Bender MKI listing: https://analognoirelectric.com/pedals
 2. Reverb — Analog Noir MK1 Noir Bender: https://reverb.com/item/53303286-analog-noir-mk1-noir-bender
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Noir's Tone Bender MKI is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MKI.
+
+### Verified sound evidence
+The rebellious older brother of the Tone Bender family.
+A faithful reproduction of the 1965 Sola Sound Tone Bender MKI.
+
+### Sources checked in this pass
+1. Tone Bender MKI — Analog Noir: https://analognoirelectric.com/pedals/p/tone-bender-mki

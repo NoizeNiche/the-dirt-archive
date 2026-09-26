@@ -1,0 +1,25 @@
+{
+  "builder": "Analog Noir",
+  "pedal": "Si / Ge Fuzz Face",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://analognoirelectric.com/pedals/p/si-ge-fuzz-face",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "analognoirelectric.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://onethousandpedals.com/pedal/analog-noir-si-ge-fuzz-face",
+      "title": "Analog Noir Si / Ge Fuzz Face \u2014 Fuzz Pedal Specs & Where to Buy | one thousand pedals",
+      "h1": "Analog Noir Si / Ge Fuzz Face",
+      "excerpt": "Analog Noir Si / Ge Fuzz Face \u2014 Fuzz Pedal Specs & Where to Buy | one thousand pedals one thousand pedals / Analog Noir / Si / Ge Fuzz Face Analog Noir Si / Ge Fuzz Face Fuzz (Silicon/Germanium Fuzz Face) \u00b7 $229 From $229 Category Fuzz Signal Analog Circuit Dallas Arbiter Fuzz Face The Analog Noir Si / Ge Fuzz Face is an analog silicon/Germanium Fuzz Face pedal based on the Dallas Arbiter Fuzz Face, with Volume, Fuzz, Bias controls, made in USA. From $229. Full specifications Category Fuzz (Silicon/Germanium Fuzz Face) Circuit / based on Dallas Arbiter Fuzz Face Signal Analog Controls Volume, Fuzz, Bias Power 9V DC Country of manufacture USA Where to buy Visit Analog Noir &rarr; More from Analog Noir Harmonic Percolator Harmonic Percolator (Si/Ge hybrid fuzz/distortion) \u00b7 $239 Tone Bender MKI Germanium Fuzz \u00b7 $239 Tone Bender MKI with MKIII Tone Control Germanium Fuzz \u00b7 $269 Fuzz Face / Rangemaster Treble Booster Germanium Fuzz + Treble Booster (dual circuit) \u00b7 $299 Tone Bender MKII / Tone Bender MK1.5 Germanium Fuzz (dual circuit) \u00b7 $299 Tone Bender MKI / Rangemaster Treble Booster Germanium Fuzz + Treble Booster (dual circuit) \u00b7 $319 Preset Switch Aux/preset footswitch for external pedals \u00b7 $89 Mini Rangemaster Treble Booster Treble Booster \u00b7 $189 See all Analog Noir pedals &rarr; Similar pedals Closest matches from other makers, by spec and circuit. Acid Fuzz Acid Fuzz Face NKT 275 Germanium Germanium Fuzz (Fuzz Face) \u00b7 $629 Analog Man Sun Face Fuzz Face-style Fuzz (Germanium or Silicon) \u00b7 $195 Sitek Guitar Electronics Fuzzie Germanium Fuzz v2 Germanium fuzz (NOS transistors) \u00b7 $185 The Sound of Justice FX In Your Face Fuzz (Silicon) Silicon Fuzz Face \u00b7 $149 HHM Mods Big Fuzz Face Light Blue Silicon (NOS BC108) Silicon Fuzz Face \u00b7 $218.75 Hardware Fixations Dirt Face #4 Germanium Fuzz Face (NPN 2N1306 NOS) \u00b7 $135 NRG Effects Fuzzer Silicon Transistor Fuzz \u00b7 $316.23 JAM Pedals Black Fuzz Phrase LTD Germanium Fuzz Face-style (limited edition) \u00b7 $599 Browse all Fuzz pedals &rarr; one thousand pedals \u00b7 Specs from the manufacturer; blanks left blank, never guessed. Prices in USD, base (&ldquo;from&rdquo;) price where a pedal has options.",
+      "host": "onethousandpedals.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
