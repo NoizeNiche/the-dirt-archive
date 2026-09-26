@@ -140,7 +140,12 @@ def write_record(item, tracker_type, packet):
     if len(sources) < 2 and not strong_single_source(sources):
         return False, "insufficient independent exact-source evidence"
 
-    record_path = RESEARCH_ROOT / builder / f"{pedal}.md"
+    linked_record = str(item.get("research_record") or "").strip()
+    record_path = (
+        Path(linked_record[2:] if linked_record.startswith("./") else linked_record)
+        if linked_record
+        else RESEARCH_ROOT / builder / f"{pedal}.md"
+    )
     existing_revisitable = record_path.exists() and str(item.get("research_level") or "").strip().lower() in {"surface", "researched"}
     if (record_path.exists() or item.get("research_record")) and not existing_revisitable:
         return False, "record already exists"
