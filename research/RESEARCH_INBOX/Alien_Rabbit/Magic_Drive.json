@@ -2,24 +2,16 @@
   "builder": "Alien Rabbit",
   "pedal": "Magic Drive",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 1,
   "sources": [
     {
-      "url": "https://www.effectsdatabase.com/blog/discofreq?page=99",
-      "title": "DiscoFreq's blog - Effects Database",
-      "h1": "DiscoFreq's blog",
-      "excerpt": "Effects Database's August 8, 2011 weekly overview lists Alien Rabbit Magic Drive among the 44 new effects and identifies Alien Rabbit as one of the five new brands added that week.",
+      "url": "https://www.effectsdatabase.com/model/alienrabbit/magicdrive",
+      "title": "Alien Rabbit Magic Drive | Effects Database",
+      "h1": "Alien Rabbit Magic Drive",
+      "excerpt": "Alien Rabbit Magic Drive | Effects Database Skip to navigation Brands &#9660; 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries &#9660; (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by &#9660; Enclosure type Modulation type Special &#9658; Classics Eye candy Funny Vaporware Weird Random brand Random effect Events &#9658; NAMM Musikmesse Music China Guitar Summit More... &#9660; Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand A... Alien Rabbit browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Alien Rabbit Magic Drive Published on August 1, 2011 Alien Rabbit overdrive pedal controls controls Video all | by manufacturer | not by manufacturer Date &#x25BC;&#x25B2; Maker &#x25BC;&#x25B2; Video &#x25BC;&#x25B2; Time &#x25BC;&#x25B2; 2011-12-30 Alien Rabbit magic drive +Gibson???? 2011-01-13 madlee0110 My \"Alien Rabbit Magic Drive\" & Marshall MS-2 20110113 002(12v) 4:00 2011-01-13 madlee0110 My \"Alien Rabbit Magic Drive\" Fender 20110113 001(12v) 1:08 2011-01-13 madlee0110 My \"Alien Rabbit Magic Drive\" & Marshall MS-2 20110113 001(12v) 1:30 2011-01-13 madlee0110 My \"Alien Rabbit Magic Drive\" 20110113 003(9v) 1:21 2011-01-13 madlee0110 My \"Alien Rabbit Magic Drive\" 20110113 002(9v) 1:09 2011-01-13 madlee0110 My \"Alien Rabbit Magic Drive\" 20110113 001(9v) 1:14 2011-01-12 Alien Rabbit alien rabbit magic drive\uff08Live test\uff09 eq boost channel 4:56 2011-01-12 Alien Rabbit alien rabbit magic drive\uff08Live test\uff09 Drive channel 3:59 2010-08-24 madlee0110 How to play with your Alien Rabbit. \u5916\u661f\u5154\u8aaa\u660e 5:28 2010-07-23 madlee0110 20100724 My Alien Rabbit Magic Drive\u5927\u62bd\u734e\u7f8e\u5973\u7279\u5225\u4f86\u8cd3\uff0111\uff0c12\uff0c13 1:44 2010-07-23 Alien Rabbit 20100724 My Alien Rabbit Magic Drive?????????... 2010-07-22 madlee0110 My Alien Rabbit Magic Drive Rock your Dad & Bomb your Neighbors 0:38 2010-07-22 madlee0110 My Alien Rabbit Magic Drive Jazz your Mom Bridge & Neck 0:31 2010-07-22 madlee0110 My Alien Rabbit Magic Drive Crystal Clean & Rock Lead 0:44 2010-07-22 Alien Rabbit My Alien Rabbit Magic Drive Rock your Dad & Bomb your Neighbors 2010-07-22 Alien Rabbit My Alien Rabbit Magic Drive Jazz your Mom Bridge & Neck 2010-07-22 Alien Rabbit My Alien Rabbit Magic Drive Crystal Clean & Rock Lead 2010-07-10 madlee0110 20100710 My Alien Rabbit Magic Drive\u5927\u62bd\u734e\u4e82\u4e03\u516b\u7cdf\u8f49\u64ad08\uff0c09\uff0c10 2:04 2010-07-05 madlee0110 My Alien Rabbit Magic Drive & k7 sound test 006 (Bomb your neighbor).MP4 3:14 2010-06-25 madlee0110 20100626 My Alien Rabbit Magic Drive\u5927\u62bd\u734e\u4e0d\u5373\u6642\u8f49\u64ad006.flv 2:44 2010-06-13 madlee0110 My Alien Rabbit Magic Drive sound test 005.flv 6:24 2010-06-10 madlee0110 My Alien Rabbit Magic Drive sound test 004.flv 1:56 2010-06-09 madlee0110 My Alien Rabbit Magic Drive sound test 002.flv 3:40 2010-06-08 madlee0110 My \"Alien Rabbit Magic Drive\" sound test 00",
       "host": "www.effectsdatabase.com",
-      "source_kind": "catalog_history"
-    },
-    {
-      "url": "https://www.91pu.com.tw/article/musicknowledge/2016/0930/4759.html",
-      "title": "品牌探索 原創的職人堅持 - Alien Rabbit (上)",
-      "h1": "品牌探索 原創的職人堅持 - Alien Rabbit (上)",
-      "excerpt": "A 2016 interview with Alien Rabbit founder Ji Wei identifies Magic Drive as the brand's first released effect, describes it as a dual-channel tube overdrive, and says the prototype helped motivate the creation of the Alien Rabbit brand.",
-      "host": "www.91pu.com.tw",
-      "source_kind": "builder_interview"
+      "source_kind": "effects_database"
     }
   ],
-  "next_action": "Use the founder interview as the primary evidence for Magic Drive's dual-channel tube-overdrive identity and early history. Keep undocumented control, component, and revision claims out of the canonical record."
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T04:09:11.319570+00:00",
+  "generated_at": "2026-09-26T04:12:00.506624+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2583,
     "complete": 2583,
     "research_pending": 0,
-    "deep_research_pending": 3341,
-    "deep_researched": 420,
+    "deep_research_pending": 3340,
+    "deep_researched": 421,
     "surface_ready": 3761
   },
   "next_target": {
@@ -34,13 +34,6 @@
       "pedal": "Hot Pink Drive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 046/Hot Pink Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alien Rabbit",
-      "pedal": "Magic Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 047/Magic Drive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Fat Metal Pro",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/Fat_Metal_Pro.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amptweaker",
+      "pedal": "Fat Metal Pro II",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Amptweaker/Fat_Metal_Pro_II.md",
       "research_level": "surface"
     }
   ]

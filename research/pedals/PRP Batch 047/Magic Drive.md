@@ -1,37 +1,37 @@
 # Alien Rabbit — Magic Drive
 
 ## PRP identity
+- **Archive parent:** Magic Drive
 - **Builder:** Alien Rabbit
 - **Catalog type:** Overdrive
-- **Identity:** Early-2010s overdrive with documented drive and EQ/boost demonstrations.
+- **Identity:** Alien Rabbit's Magic Drive.
 
 ## What this pedal is
-Magic Drive is an Alien Rabbit overdrive documented by Effects Database in 2011. The archive includes separate manufacturer demonstrations for its Drive channel and EQ Boost channel, plus 9V and 12V test videos, showing that the pedal was used in multiple gain and boost configurations. [1]
+Alien Rabbit's Magic Drive is cataloged as an overdrive pedal.
 
 ## Colorways
-- No complete factory colorway history established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Drive channel
-- EQ Boost channel
-- documented operation/test material at 9V and 12V
-- Exact external control labels were not reliably exposed by the accessible catalog text. [1]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision history established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The surviving demonstration archive indicates a flexible overdrive with separate drive and EQ/boost behavior, ranging from clean/boost applications toward rock-oriented drive. The available videos also document testing with both 9V and 12V supplies, but do not establish a formal voltage-dependent factory version. [1]
+not by manufacturer Date &#x25BC;&#x25B2; Maker &#x25BC;&#x25B2; Video &#x25BC;&#x25B2; Time &#x25BC;&#x25B2; 2011-12-30 Alien Rabbit magic drive +Gibson????
+外星兔說明 5:28 2010-07-23 madlee0110 20100724 My Alien Rabbit Magic Drive大抽獎美女特別來賓！11，12，13 1:44 2010-07-23 Alien Rabbit 20100724 My Alien Rabbit Magic Drive?????????...
 
 ## Sources checked
-1. Effects Database — https://www.effectsdatabase.com/model/alienrabbit/magicdrive
-2. Alien Rabbit site referenced by Effects Database — https://www.alienrabbitgs.com/
+1. Alien Rabbit Magic Drive | Effects Database: https://www.effectsdatabase.com/model/alienrabbit/magicdrive
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
