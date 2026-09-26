@@ -2,9 +2,7 @@ name: Research evidence crew
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - research/RESEARCH_AUTONOMY_KICK
+  # Autonomous evidence collection is paused. Manual dispatch remains available.
 
 permissions:
   contents: write
