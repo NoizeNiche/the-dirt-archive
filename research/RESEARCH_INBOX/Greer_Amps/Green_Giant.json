@@ -1,0 +1,33 @@
+{
+  "builder": "Greer Amps",
+  "pedal": "Green Giant",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/greer-amps-green-giant",
+      "title": "Greer Amps Green Giant - What To Know Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://crazychickenguitarpedals.com/guitar-pedal-blog/guitar-pedal-builds/greer-amps-green-giant-on-stripboard/",
+      "title": "Greer Amps Green Giant On Stripboard - Crazy Chicken Guitar Pedals",
+      "h1": "Greer Amps Green Giant On Stripboard",
+      "excerpt": "Greer Amps Green Giant On Stripboard - Crazy Chicken Guitar Pedals Skip to content Home Beginners Guide Stripboard Layouts Easy Builds Component Guides Handy Reference Articles About Privacy Policy Returns Policy Blog Shop Contact Cart Home Beginners Guide Stripboard Layouts Easy Builds Component Guides Handy Reference Articles About Privacy Policy Returns Policy Blog Shop Contact Cart Greer Amps Green Giant On Stripboard August 28, 2024 Categories: Guitar Pedal Builds Here\u2019s a kind of weird guitar pedal, but a fun build nonetheless and also a pretty simple guitar pedal build too. I had never heard of the Green Giant by Greer Amps before and I kind of just stumbled upon the layout on Tagboard Effects and thought it sounded interesting. Other than what\u2019s on Tagboard Effects, I can\u2019t find any more information on this pedal. Everyone else on the internet appears to have the same brief description of the pedal that you see at Tagboard Effects. The Greer website doesn\u2019t even have any information on the pedal. What I do know from the brief description that\u2019s repeated across the internet is that the Green Giant was never a production pedal. Instead it was only built for \u201cendorsers.\u201d I assume that these were artists who had some sort of endorsement relationship with Greet Amps. The Green Giant is a modification of Greer Amps\u2019 existing Black Fuzz pedal, which in itself is just a modified Electra Distortion circuit , which is a very popular starting point for a lot of fuzz, distortion, and overdrive circuits, the Lovepedal Champ being one of them. The big difference with the Green Giant when compared to Greer Amps\u2019 Black Fuzz is the introduction of the blend dial. This affects how much the signal is getting clipped by the clipping diodes and how much clean signal is getting through. Rather than just giving levels of distortion from \u201cnot so distorted\u201d up to \u201cvery distorted,\u201d the blend knob on the Green Giant allows some clean signal through while also allowing some distorted signal through. So it\u2019s not just levels, it\u2019s a mixture of clean and dirty signals. I did manage to use the Wayback Machine to find a product listing from 2016 for this pedal on the Greer website, but it didn\u2019t offer much more information than what I had already seen.For whatever reason Greer decided to discontinue this pedal and it hasn\u2019t been talked about very much. Jump to stripboard layout . Greer Amps Green Giant Wiring Schematic I\u2019ll jump into the stripboard layout later in the article, but below is the wiring schematic for the Green Giant. As mentioned in the intro to this article, there\u2019s not a lot of information on this pedal out there, and I could only find one source on the schematic. I compared this to the stripboard layout and there were a couple minor differences, but I think I\u2019ve managed to piece everything together into something that at least resembles the original schematic. Unfortunately this isn\u2019t readily verifiable information. With a lot of these pedals I can often find original information on the schematic or at least enough sources to verify it. In this case, I couldn\u2019t, but I do know the schematic (and the stripboard layout below) works! So if you like this pedal build, it may not be the exact way it was done by Greer Amps, but it\u2019s also probably close enough. Here\u2019s the wiring diagram: Click on the schematic to enlarge it. And here&#8217;s the bill of materials. Notes R1 1M R2 2.2M R3 47K R4 680R C1 100nF C2 100nF Q1 2N3904 P1 25K Lin Clean mix potentiometer P2 100K Log Volume potentiometer D1, D2 1N4148 Jacks, power supply, etc. Don't Forget The stuff you usually use. Yep, it\u2019s clearly an Electra Distortion, but that\u2019s OK, it\u2019s the circuit that just keeps on giving! The obvious addition here is the potentiometer wired in just before the clipping diodes. As mentioned, this is regulating how much dirty signal gets through, blending everything with the clean signal. When this pot is giving no resistance, you get a dirtier signal; lots of resis",
+      "host": "crazychickenguitarpedals.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.tonebox.com/pedal/greer-amps-green-giant",
+      "title": "Greer Amps Green Giant - Tonebox.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.tonebox.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

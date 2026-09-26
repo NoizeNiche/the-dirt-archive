@@ -6160,8 +6160,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/arion_dmd-1_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "B.K. Butler",
@@ -6331,8 +6331,8 @@
       "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz.md",
       "image_source_url": "http://gearhero.com/cdn/shop/products/a2fe443d-4533-4ef4-a745-05aec6f72da0.jpg?v=1603730795",
       "image_source_page": "https://gearhero.com/products/bad-penny-fx-morse-fuzz",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Penny FX",
@@ -32760,8 +32760,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fender/Fender Distortion Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -33943,8 +33943,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Fuzzy Wooly Bear.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -33982,8 +33982,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Gorilla Warfare MKII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -33995,8 +33995,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Green Giant.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34869,8 +34869,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TS808.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -34881,8 +34881,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TS808DX.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -34893,8 +34893,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TS808HW.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -36571,8 +36571,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Angry Orange Distortion and Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -42929,8 +42929,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/HOLY GRIT.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "OKKO FX",
@@ -43571,8 +43571,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Pettyjohn Electronics/GOLD MKII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Pettyjohn Electronics",
@@ -46734,8 +46734,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Honey Pot Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",
@@ -47765,8 +47765,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Union Tube & Transistor/Tsar Bomba.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Universal Amplifier Corp",

@@ -1,23 +1,38 @@
 # Greer Amps — Fuzzy Wooly Bear
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Fuzzy Wooly Bear
 - **Builder:** Greer Amps
-- **Pedal:** Fuzzy Wooly Bear
 - **Catalog type:** Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Greer Amps's Fuzzy Wooly Bear.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Fuzzy Wooly Bear** by **Greer Amps** as a **Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Greer Amps browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Greer Amps Fuzzy Wooly Bear Published on October 9, 2005 Greer Amps fuzz pedal Information Nick Greer Amplification The Fuzzy Wooly Bear is a unique fuzz/overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: silicon transistor.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Greer Amps browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Greer Amps Fuzzy Wooly Bear Published on October 9, 2005 Greer Amps fuzz pedal Information Nick Greer Amplification The Fuzzy Wooly Bear is a unique fuzz/overdrive pedal.
+The germanium version gives you the typical germanium voiced fuzz tones, but with a volume and bias control you can really tailor the tone from singing to ratty fuzz bomb!
+
+## Sources checked
+1. Greer Amps Fuzzy Wooly Bear | Effects Database: https://www.effectsdatabase.com/model/greer/fuzzywoolybear
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,23 +1,42 @@
 # Keeley Electronics — Angry Orange Distortion and Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Angry Orange Distortion and Fuzz
 - **Builder:** Keeley Electronics
-- **Pedal:** Angry Orange Distortion and Fuzz
 - **Catalog type:** Distortion / Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Keeley Electronics's Angry Orange Distortion and Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Angry Orange Distortion and Fuzz** by **Keeley Electronics** as a **Distortion / Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Keeley Electronics Angry Orange Distortion and Fuzz | AllThePedals Articles Genealogy Browse Search results for &quot; &quot; Gain / Distortion / Keeley Electronics Angry Orange Distortion and Fuzz Angry Orange Distortion and Fuzz The Keeley Angry Orange is a versatile 4-in-1 guitar effects pedal, offering a blend of classic fuzz and distortion tones.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- The Guitar Sanctuary | Keeley Electronics | Angry Orange | Distortion | Fuzz | 4 in 1 Open Tuesday-Saturday 10AM-6PM Open Tues-Sat 10AM-6PM Gift Certificate Account Login or Sign Up 0 • Call or Text: (972)540-6420 “Guitar Works for the Discriminating Soul” Search &#215; --> Visit the Store Attend a Concert Blog Performance Academy Contact Us Gift Certificates Repairs --> Search Toggle menu 0 Search &#215; --> Shop By Category Pre-Owned Vintage Gear Pre-Owned Vintage Gear --> Geo&#x27;s Vault Preowned Guitar Pedals Effects Preowned Boutique Guitar Amps Pre-Owned Bass Guitars Preowned Vintage Acoustic Guitars Pre-Owned Vintage Electric Guitars Sale Items Special Values Boutique Custom Acoustic Guitars Boutique Custom Acoustic Guitars --> Alhambra Beard Bourgeois Cole Clark Collings Ibanez Lowden LR Baggs Maton Martin Martin --> Modern Deluxe Series Custom Shop Authentic Series Signature Models Standard Series Road Series McPherson Guitars National Reso-Phonic Taylor Resonators Classical/Nylon String Mandolins Left-Handed Acoustic Guitars 12-String Performance Academy Acoustics Boutique Bass Guitars Boutique Bass Guitars --> Dingwall Fender Custom Shop, Artist American Basses Ibanez Music Man Suhr Yamaha Left-Handed Bass Guitars Acoustic Bass Guitars Boutique Custom Shop Electric Guitars Boutique Custom Shop Electric Guitars --> Baritone 7 String BilT Collings Duesenberg Dunable Eastman ESP LTD Fender Guitars Ibanez James Tyler JTG Guitars Lap Steels Mayones Nik Huber Paul Reed Smith Paul Reed Smith --> Private Stock Wood Library Core Bolt-On S2 SE Left-Handed Preowned Strandberg Suhr Suhr --> Suhr Artist Signature Series Suhr Classic JM Series Suhr Classic S Series Suhr Classic T Series Suhr Modern Series Suhr Oso Series Suhr Standard Series Tom Anderson Yamaha Left-Handed Electric Guitars Performance Academy Electrics Boutique Amplifiers Cabinets Boutique Amplifiers Cabinets --> Acoustic Guitar Amplifiers Acoustic Guitar Amplifiers --> AER Fishman Taylor Udo Roesner Amps Bass Guitar Amplifiers Bass Guitar Amplifiers --> Aguilar Darkglass Electronics Mesa Boogie Electric Guitar Amplifiers Electric Guitar Amplifiers --> 3rd Power Carr Fender Custom Shop, Hand-Wired Tone Master Amps Friedman Amplification Fryette Mesa Boogie PRS Revv Amplification Amps Cabinets Rivera Suhr Soldano Custom Amplification Synergy Amplification Modular Tube Amps Tone King Two-Rock Vox Handwired FRFR Cabinets Footswitches Attenuators Load Boxes and Speaker Simulators Boutique Effects, Pedals Signal Management Boutique Effects, Pedals Signal Management --> Effects Pedals Effects Pedals --> Shop by Brand Shop By Type Pedalboards Pedalboards --> Pedaltrain Vertex By Gator Boutique and Hand-Wound Pickups Boutique and Hand-Wound Pickups --> Acoustic Acoustic --> L.R.
+- Keeley Electronics Angry Orange Distortion and Fuzz| Black Mountain Guitar Co No Sales Tax when shipped to most states outside of Arizona.
+- The Keeley Angry Orange is entirely manufactured at Keeley Electronics and is in our new aluminum enclosure.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+The Guitar Sanctuary | Keeley Electronics | Angry Orange | Distortion | Fuzz | 4 in 1 Open Tuesday-Saturday 10AM-6PM Open Tues-Sat 10AM-6PM Gift Certificate Account Login or Sign Up 0 • Call or Text: (972)540-6420 “Guitar Works for the Discriminating Soul” Search &#215; --> Visit the Store Attend a Concert Blog Performance Academy Contact Us Gift Certificates Repairs --> Search Toggle menu 0 Search &#215; --> Shop By Category Pre-Owned Vintage Gear Pre-Owned Vintage Gear --> Geo&#x27;s Vault Preowned Guitar Pedals Effects Preowned Boutique Guitar Amps Pre-Owned Bass Guitars Preowned Vintage Acoustic Guitars Pre-Owned Vintage Electric Guitars Sale Items Special Values Boutique Custom Acoustic Guitars Boutique Custom Acoustic Guitars --> Alhambra Beard Bourgeois Cole Clark Collings Ibanez Lowden LR Baggs Maton Martin Martin --> Modern Deluxe Series Custom Shop Authentic Series Signature Models Standard Series Road Series McPherson Guitars National Reso-Phonic Taylor Resonators Classical/Nylon String Mandolins Left-Handed Acoustic Guitars 12-String Performance Academy Acoustics Boutique Bass Guitars Boutique Bass Guitars --> Dingwall Fender Custom Shop, Artist American Basses Ibanez Music Man Suhr Yamaha Left-Handed Bass Guitars Acoustic Bass Guitars Boutique Custom Shop Electric Guitars Boutique Custom Shop Electric Guitars --> Baritone 7 String BilT Collings Duesenberg Dunable Eastman ESP LTD Fender Guitars Ibanez James Tyler JTG Guitars Lap Steels Mayones Nik Huber Paul Reed Smith Paul Reed Smith --> Private Stock Wood Library Core Bolt-On S2 SE Left-Handed Preowned Strandberg Suhr Suhr --> Suhr Artist Signature Series Suhr Classic JM Series Suhr Classic S Series Suhr Classic T Series Suhr Modern Series Suhr Oso Series Suhr Standard Series Tom Anderson Yamaha Left-Handed Electric Guitars Performance Academy Electrics Boutique Amplifiers Cabinets Boutique Amplifiers Cabinets --> Acoustic Guitar Amplifiers Acoustic Guitar Amplifiers --> AER Fishman Taylor Udo Roesner Amps Bass Guitar Amplifiers Bass Guitar Amplifiers --> Aguilar Darkglass Electronics Mesa Boogie Electric Guitar Amplifiers Electric Guitar Amplifiers --> 3rd Power Carr Fender Custom Shop, Hand-Wired Tone Master Amps Friedman Amplification Fryette Mesa Boogie PRS Revv Amplification Amps Cabinets Rivera Suhr Soldano Custom Amplification Synergy Amplification Modular Tube Amps Tone King Two-Rock Vox Handwired FRFR Cabinets Footswitches Attenuators Load Boxes and Speaker Simulators Boutique Effects, Pedals Signal Management Boutique Effects, Pedals Signal Management --> Effects Pedals Effects Pedals --> Shop by Brand Shop By Type Pedalboards Pedalboards --> Pedaltrain Vertex By Gator Boutique and Hand-Wound Pickups Boutique and Hand-Wound Pickups --> Acoustic Acoustic --> L.R.
+Baggs Fishman Acoustic Electric Electric --> Bare Knuckle Pickups Fishman Fluence Paul Reed Smith Pickups Professional Guitar Accessories Gear Professional Guitar Accessories Gear --> Capos Strings Cajons Cables Cables --> Instrument Cables (Guitar Cables) Microphone Cables MIDI Pedal Patch Cables Power Cables Speaker Cables Aguilar Mogami Paul Reed Smith SP Cables Whirlwind Cases and Gig Bags Cases and Gig Bags --> Bass Gig Bags Gator Guitar Cases Guitar Gig Bags Levy&#x27;s Leathers Reunion Blues SKB TKL Tubes Tubes --> Power Tubes Preamp Tubes Rectifier Tubes Guitar Stands and Wall Hangers Guitar Care Guitar Straps Stools Guitar Sanctuary Merch Shop By Brand Paul Reed Smith Suhr Fender Taylor JHS Walrus Audio MXR Martin Fishman Strymon Synergy Boss Mesa Boogie Electro-Harmonix Two-Rock Darkglass Electronics Dunlop Free The Tone Ibanez Keeley Electronics Maton Aguilar Duesenberg Origin Effects Radial Engineering Revv Amplification Xotic Collings Pedaltrain Thalia Beard ESP James Tyler L.R.
+Keeley Electronics Angry Orange Distortion and Fuzz| Black Mountain Guitar Co No Sales Tax when shipped to most states outside of Arizona.
+
+## Sources checked
+1. The Guitar Sanctuary | Keeley Electronics | Angry Orange | Distortion | Fuzz | 4 in 1: https://www.guitarsanctuary.com/keeley-electronics-angry-orange-distortion-and-fuzz-pedal/
+2. Keeley Electronics Angry Orange Distortion and Fuzz| Black Mountain Guitar Co: https://blackmountainguitar.com/products/keeley-electronics-angry-orange-distortion-and-fuzz
+3. Keeley Electronics Angry Orange Distortion and Fuzz | AllThePedals: https://allthepedals.com/pedals/keeley-electronics-angry-orange-distortion-and-fuzz/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

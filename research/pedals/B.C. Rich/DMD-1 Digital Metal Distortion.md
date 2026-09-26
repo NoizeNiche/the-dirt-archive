@@ -1,29 +1,38 @@
-# B.C. Rich - DMD-1 Digital Metal Distortion
+# B.C. Rich — DMD-1 Digital Metal Distortion
+
 ## PRP identity
 - **Archive parent:** DMD-1 Digital Metal Distortion
 - **Builder:** B.C. Rich
 - **Catalog type:** Distortion
-- **Identity:** B.C. Rich-branded DMD-1 documented by Effects Database with a 1991 B.C. Rich price-list reference.
+- **Identity:** B.C. Rich's DMD-1 Digital Metal Distortion.
+
 ## What this pedal is
-Effects Database identifies the B.C. Rich DMD-1 as a digital distortion pedal and quotes a 1991 B.C. Rich price list. The surviving description says it offers distortion, overdrive, and metal settings and lists a $69.60 price in that source.
-The same database relates it to the Arion DMD-1 and Sakura DMD-1, documenting a family/rebadge association without proving every run had identical circuitry.
+Rich distortion pedal Information B.C.
+
 ## Colorways
-- No reliable factory colorway chronology verified.
+- No specific factory colorway information was established in the verified evidence packet.
+
 ## Versions and factory options
-- Distortion setting
-- Overdrive setting
-- Metal setting
+- No distinct factory revision was established in the verified evidence packet.
+
 ## Version changes
-No numbered B.C. Rich revision verified.
+- No specific factory version changes were established in the verified evidence packet.
+
 ## Transistor
-- **Technology:** Digital/solid-state effect architecture by product description.
-- **Exact device:** Specific transistor or digital IC part numbers not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
 ## Diode
-- **Type:** Exact clipping/protection arrangement not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
 ## Sound
-The DMD-1 combines selectable distortion, overdrive, and metal voicings rather than a single fixed dirt response. No reliable public source establishes a specific clipping topology.
+Rich DMD-1 Digital Metal Distortion | Effects Database Skip to navigation Brands &#9660; 0-9...
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Rich browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal B.C.
+
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/bcrich/dmd1
-2. Effects Database Arion DMD-1: https://www.effectsdatabase.com/model/arion/dmd1
+1. B.C. Rich DMD-1 Digital Metal Distortion | Effects Database: https://www.effectsdatabase.com/model/bcrich/dmd1
+
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

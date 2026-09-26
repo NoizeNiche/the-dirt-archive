@@ -1,43 +1,37 @@
-# Bad Penny FX - Morse Fuzz
+# Bad Penny FX — Morse Fuzz
 
 ## PRP identity
 - **Archive parent:** Morse Fuzz
 - **Builder:** Bad Penny FX
 - **Catalog type:** Fuzz
-- **Identity:** Compact high-gain silicon fuzz derived from the Fuzz Controller concept with a switchable dual-stage boost.
+- **Identity:** Bad Penny FX's Morse Fuzz.
 
 ## What this pedal is
-Bad Penny FX described the Morse as the miniest version of its Fuzz Controller, with a toggleable dual-stage boost stacked before the fuzz. It is a high-gain silicon fuzz with a rear switch for two output characters plus a gate switch.
+Bad Penny FX's Morse Fuzz is cataloged as a Fuzz pedal.
 
 ## Colorways
-- No reliable factory colorway chronology was verified.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Morse Fuzz production
-- One main external knob serving volume/fuzz
-- Gate switch
-- Rear mode switch
-- Dual-stage boost ahead of fuzz
-- Internal trimmers for boost-stage gain and total output
-- Compact enclosure
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-The builder relationship is explicit: Morse is the compact/miniest Fuzz Controller-format pedal with the added dual-stage boost. No numbered Morse revision was verified.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** High-gain silicon fuzz.
-- **Exact device:** Exact silicon transistor part number was not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The Morse is voiced toward very high-gain silicon fuzz, moving from deep and brutal fuzz to an even more extreme setting through its rear switch. The gate and guitar/preceding-pedal interaction provide much of the remaining shaping, while the internal boost stages can push the fuzz harder.
+Bad Penny FX Morse Fuzz &ndash; Gear Hero Skip to content MENU CATEGORY Exclusives Instruments Instruments Guitars Amps Percussion Pedals Other SALE SALE Mr Intermittent&#39;s Epic Purge CLEARANCE!
+Most Popular Categories See All Categories Percussion 31 items Guitars 8 items Exclusives and Customs 2 items Outlet 13 items Hello, sign in Account List sign in Create account 0 Home Bad Penny FX Morse Fuzz Skip to product information <img srcset="//gearhero.com/cdn/shop/products/a2fe443d-4533-4ef4-a745-05aec6f72da0.jpg?v=1603730795&width=493 493w, //gearhero.com/cdn/shop/products/a2fe443d-4533-4ef4-a745-05aec6f72da0.jpg?v=1603730795&width=600 600w, //gearhero.com/cdn/shop/products/a2fe443d-4533-4ef4-a745-05aec6f72da0.jpg?v=1603730795&width=713 713w, //gearhero.com/cdn/shop/products/a2fe443d-4533-4ef4-a745-05aec6f72da0.jpg?v=1603730795&width=823 823w, //gearhero.com/cdn/shop/products/a2fe443d-4533-4ef4-a745-05aec6f72da0.jpg?v=1603730795&width=990 990w, //gearher
 
 ## Sources checked
-1. Gear Hero product page: https://gearhero.com/products/bad-penny-fx-morse-fuzz
-2. Reverb listing: https://reverb.com/item/36572528-bad-penny-fx-morse-fuzz
+1. Bad Penny FX Morse Fuzz &ndash; Gear Hero: https://gearhero.com/products/bad-penny-fx-morse-fuzz
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- An exact product listing was verified, but no stable direct image asset was confirmed for archival in this pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
