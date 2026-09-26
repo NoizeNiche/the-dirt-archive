@@ -28,6 +28,7 @@ LEGACY = ROOT / "pedal.html"
 DEPLOY = ROOT / ".github/workflows/deploy-pages.yml"
 STATIC_SERVER = ROOT / "scripts/serve-static.js"
 PHOTO_CACHE = ROOT / "scripts/browser-photo-cache.mjs"
+FACET_BUILDER = ROOT / "scripts/build-pedal-facets.py"
 
 def pair(a, b):
     return (a, b)
@@ -44,7 +45,7 @@ def archived_image(image):
     return normalized.startswith("assets/pedals/") and (ROOT / normalized).is_file()
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, HOME, DETAIL, LEGACY, DEPLOY)
+    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, LEGACY, DEPLOY)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
@@ -257,6 +258,12 @@ def main():
     for marker, source in required_queue_hardening:
         if marker not in source:
             raise SystemExit(f"Operational queue hardening is missing: {marker}")
+    if "build-pedal-facets.py" not in deploy_text:
+        raise SystemExit("Deployment workflow is not generating the public technical facet index.")
+    if "build-pedal-facets.py" not in research_workflow:
+        raise SystemExit("Research worker publication is not refreshing the technical facet index.")
+    if "build-pedal-facets.py" not in synth_workflow:
+        raise SystemExit("Research synthesis publication is not refreshing the technical facet index.")
     if "sync-public-data-version.py" in architecture_text:
         raise SystemExit("Architecture still references the retired catalog-version synchronization script.")
     home_css = (ROOT / "assets/css/archive-index.css").read_text(encoding="utf-8")
