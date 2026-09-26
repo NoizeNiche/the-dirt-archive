@@ -36,3 +36,4 @@ Rat King is designed to bridge RAT-style distortion and fuzz, with the slow-slew
 ## Photo
 - **Archive status:** **Exact Photo Archived**
 - **Image source:** Reverb exact-model Rat King photograph.
+- **Provenance correction:** The canonical image is tied to an exact Rat King Reverb listing; an unrelated Asheville skyline URL previously present as the primary image-source page was rejected and removed from canonical provenance.
