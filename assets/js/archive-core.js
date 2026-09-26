@@ -62,7 +62,7 @@ function loadFacets() {
   return archiveFacetsPromise;
 }
 
-function loadCatalog()
+function loadCatalog() {
   if (archiveCatalogPromise) return archiveCatalogPromise;
 
   archiveCatalogPromise = fetch(ARCHIVE_DATA_INDEX, {cache: 'no-store'})
