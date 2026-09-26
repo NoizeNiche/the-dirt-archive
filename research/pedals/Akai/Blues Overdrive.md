@@ -4,27 +4,27 @@
 - **Archive parent:** Blues Overdrive
 - **Builder:** Akai
 - **Catalog type:** Overdrive
-- **Identity:** Akai Professional Analog Custom Shop two-control analog overdrive.
+- **Identity:** Akai Professional Analog Custom Shop Blues Overdrive, a compact two-control analog overdrive. [1][2]
 
 ## What this pedal is
-The Akai Professional Blues Overdrive is a compact Analog Custom Shop overdrive with a polished stainless-steel enclosure, Level and Drive controls, and true-bypass switching. Akai's product presentation describes it as a 100% analog pedal. [1][2]
+Akai Professional's Blues Overdrive belongs to the company's Analog Custom Shop line. Surviving product documentation describes a compact overdrive with Level and Drive controls, true-bypass switching, a polished stainless-steel housing, and an all-analog signal path. [1][2]
+
+The two-control layout keeps the interface focused on overall output and drive amount rather than providing a separate tone control or multiple selectable clipping modes. [1]
 
 ## Colorways
-- **Polished stainless-steel / silver finish** is documented in surviving product photography. [1]
-- No separate circuit revision tied to finish was verified.
+- Polished stainless-steel / silver finish is the documented production appearance. [1]
+- No circuit revision tied to the finish was verified.
 
 ## Versions and factory options
 ### Blues Overdrive
 - Level
 - Drive
-- true bypass
+- True bypass
 - 100% analog
-- polished stainless-steel housing [1][2]
-
-No numbered factory revision was verified.
+- Polished stainless-steel housing [1][2]
 
 ## Version changes
-No reliable numbered factory revision sequence was established from the accessible sources.
+No numbered factory revision sequence was established from the accessible sources. [1][2]
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
@@ -33,7 +33,7 @@ No reliable numbered factory revision sequence was established from the accessib
 - **Exact clipping diode/device:** Not publicly documented.
 
 ## Sound
-Contemporary product material describes Blues Overdrive as a warm, compact overdrive with a range that can move from bluesy crunch toward much heavier saturation. Its two-knob layout keeps the controls focused on output level and drive amount rather than adding multiple voicing controls. [1]
+Contemporary product material describes Blues Overdrive as a warm overdrive capable of moving from blues-oriented crunch toward heavier saturation. With only Level and Drive controls documented, the pedal's shaping range is primarily set by gain amount and output level rather than a dedicated tone circuit exposed to the player. [1]
 
 ## Sources checked
 1. zZounds — Akai Blues Overdrive Pedal: https://www.zzounds.com/item--AKABLUESOD
