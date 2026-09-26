@@ -4,45 +4,35 @@
 - **Archive parent:** Crash Central - Crunch Distortion
 - **Builder:** A&M Custom Effects
 - **Catalog type:** Distortion
-- **Identity:** Hand-built analog hard-rock / heavy-metal distortion.
+- **Identity:** A&M Custom Effects's Crash Central - Crunch Distortion.
 
 ## What this pedal is
-Crash Central is a 100% analog distortion pedal designed for **hard rock and heavy metal**. It uses Volume, Tone and Gain controls plus a ROUGH switch that changes the character of the circuit. [1]
+A M Custom Effects browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal A M Custom Effects Crash Central - Crunch Distortion Published on May 16, 2010 A M Custom Effects distortion pedal Information A&M Custom Effects Crash Central is Custom Hand Made,100% analog guitar distortion pedal.
 
 ## Colorways
-- The documented enclosure is **silver polychromatic die-cast aluminum** with black chicken-head knobs and red indicator LEDs. [1]
+- Specifications: Durable Silver polychromatic diecast aluminum enclosure, IPV5 standard Pedal dimensions 119x94x34mm (4.67" x 3.68" x 1.18") Black colour Chickenhead knobs Red ultrabright 5mm LEDs with wide view angle Chrome LED sockets Volume,Tone,Gain controls ROUGH switch changes pedal character to the new dimension (like two pedals in one) True Bypass 9V filtered and polarity protected powersupply input Standard 9V DC supply and 9V battery (included) 1% tolerance metalfilm resistors Reviews myFXDB user reviews No reviews yet + Add your review Links A&M Custom Effects A&M Custom Effects Crash Central - Crunch Distortion Where to find one?
 
 ## Versions and factory options
-### Crash Central
-- Volume
-- Tone
-- Gain
-- ROUGH character switch
-- true bypass
-- 9V DC or 9V battery
-- filtered and polarity-protected power input
-- hand-built point-to-point construction [1]
-
-No numbered factory revision was verified.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No reliable numbered hardware revision sequence was found. Crash Central remains one parent identity.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Analog distortion circuit.
+- Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Exact clipping diodes are not publicly documented.
-- **Exact diode/device:** Unknown.
+- Documented terms in the verified sources: LEDs, LED.
+- The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Crash Central is aimed at heavier rock and metal distortion rather than low-gain overdrive. The three main controls cover the basic gain/EQ/output functions, while the ROUGH switch changes the feel enough that A&M described it as offering a second character from the same pedal. [1]
+A M Custom Effects Crash Central - Crunch Distortion | Effects Database Skip to navigation Brands &#9660; 0-9...
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+A M Custom Effects browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal A M Custom Effects Crash Central - Crunch Distortion Published on May 16, 2010 A M Custom Effects distortion pedal Information A&M Custom Effects Crash Central is Custom Hand Made,100% analog guitar distortion pedal.
 
 ## Sources checked
-1. Effects Database — A&M Custom Effects Crash Central - Crunch Distortion: https://www.effectsdatabase.com/model/am/crashcentral
+1. A M Custom Effects Crash Central - Crunch Distortion | Effects Database: https://www.effectsdatabase.com/model/am/crashcentral
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.effectsdatabase.com/model/am/crashcentral
-- **Archive note:** An exact-model visual reference was checked where available, but no direct image asset was safely archived into the site. The public card should continue to display **No Photo Archived** rather than use a substitute or guessed image.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

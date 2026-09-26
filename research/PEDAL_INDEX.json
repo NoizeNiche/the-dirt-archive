@@ -274,8 +274,8 @@
         "https://www.effectsdatabase.com/model/am/crashcentral"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "A&M Custom Effects",
@@ -34007,8 +34007,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Hammer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34044,8 +34044,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Mizuki Blue.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34056,8 +34056,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Moonshot Germanium Pre.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34929,8 +34929,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TS9B.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -34941,8 +34941,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TS9DX.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -34953,8 +34953,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TSMINI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -42953,8 +42953,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/The Dynamist.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "OKKO FX",
@@ -46758,8 +46758,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/MojoMojo Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",

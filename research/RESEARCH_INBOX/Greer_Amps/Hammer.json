@@ -1,0 +1,65 @@
+{
+  "builder": "Greer Amps",
+  "pedal": "Hammer",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 7,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/97861269-greer-amps-hammer",
+      "title": "Greer Amps Hammer - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/greer/hammer",
+      "title": "Greer Amps Hammer - Distortion | Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://equipboard.com/items/greer-amps-hammer",
+      "title": "Greer Amps Hammer \u2014 Overdrive Pedal | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.guitarhymn.com/product/greer-amps-hammer/",
+      "title": "Greer Amps Hammer | Upright Bass | guitarhymn.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.guitarhymn.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://gearstrings.com/music-theory/greer-amps-introduces-the-black-tiger-delay-and-hammer-distortion",
+      "title": "Greer Amps Introduces The Black Tiger Delay and Hammer Distortion: A Dual-Pedal Innovation for Tone-Conscious Musicians | GearStrings",
+      "h1": "Greer Amps Introduces The Black Tiger Delay and Hammer Distortion: A Dual-Pedal Innovation for Tone-Conscious Musicians",
+      "excerpt": "Greer Amps Introduces The Black Tiger Delay and Hammer Distortion: A Dual-Pedal Innovation for Tone-Conscious Musicians | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / music theory music theory Greer Amps Introduces The Black Tiger Delay and Hammer Distortion: A Dual-Pedal Innovation for Tone-Conscious Musicians By Marcus Reeve July 18, 2026 Introduction: Two Pedals, One Philosophy Greer Amps has unveiled its latest dual-pedal release: the Black Tiger Delay and the Hammer Distortion. Unlike many boutique brands that iterate incrementally, Greer approached this launch as a coordinated tonal ecosystem\u2014two independent but sonically complementary units sharing a unified design language, power architecture, and component-level rigor. Both pedals ship with 9V DC center-negative power supplies (2.1mm x 5.5mm barrel), draw 32mA (Black Tiger) and 48mA (Hammer), and measure precisely 4.75\u2033 \u00d7 3.25\u2033 \u00d7 1.75\u2033\u2014identical footprint dimensions optimized for pedalboard real estate. Each unit features true-bypass switching via a heavy-duty, gold-plated, 3PDT footswitch rated for 10 million actuations, and all signal path components\u2014including input/output jacks\u2014are isolated from the chassis to eliminate ground loop noise. These are not rebranded clones or DSP-based emulations; they are fully discrete, Class-A analog circuits built entirely in-house at Greer\u2019s Portland, Oregon workshop using 100% hand-soldered, double-sided PCBs. Black Tiger Delay: Analog Warmth Meets Digital Precision The Black Tiger Delay stands apart in the crowded delay market by rejecting the binary choice between pure analog warmth and digital clarity. Its core architecture blends a vintage-style bucket-brigade device (BBD) chip\u2014the MN3207\u2014with a high-resolution, 24-bit/96kHz digital control layer that governs timing, feedback modulation, and tap tempo resolution. This hybrid topology delivers the organic decay and saturation of classic BBD delays (e.g., Electro-Harmonix Memory Man) while eliminating clock noise, pitch drift, and inconsistent repeats that plague purely analog designs. The MN3207 operates at \u00b115V rails internally, doubling the headroom of standard 9V BBD implementations and reducing distortion artifacts by 18 dB below THD+N thresholds measured at 1 kHz/0 dBu. Key Signal Path Innovations Signal integrity was prioritized at every stage. Input buffering uses a JFET-based circuit with 2N5457 transistors (selected for low noise and tight V GS(off) tolerance of \u00b10.2V), followed by an op-amp gain stage centered on the OPA2134PA \u2014a Texas Instruments precision dual op-amp with 0.00005% THD+N and rail-to-rail output swing. The delay line itself employs six cascaded MN3207 chips configured in parallel for extended time range and improved SNR. Output summing is handled by a discrete Class-A transistor stage ( BC550C ) rather than an op-amp, preserving harmonic richness and dynamic response. Delay Time, Feedback, and Modulation Maximum delay time spans 1,200 ms\u2014far exceeding the 550 ms of the original Memory Man and matching the upper range of the Strymon Timeline\u2019s analog mode. Time adjustment is continuously variable from 20 ms to 1,200 ms via a 25-turn precision potentiometer (Bourns 3590S-1-103), enabling studio-grade fine-tuning. Feedback ranges from 0% (clean repeat) to 92% (self-oscillating without runaway), with logarithmic taper calibrated to musical perception\u2014not linear voltage response. The modulation section offers three selectable LFO waveforms (sine, triangle, square), rate adjustable from 0.1 Hz to 8 Hz, and depth controllable from 0% to 45%\u2014measured as peak deviation in ms around the set delay time. Crucially, modulation is applied *after* the BBD line, avoiding phase cancellation artifacts common in pre-BBD modulators. Hammer Distortion: Dynamic Response Meets Harmonic Fidelity The Hammer Distortion embodies Greer\u2019s longstanding commitment to touch-sensitive, amp-like distortion. Rather than stacking gain stages or relying on cl",
+      "host": "gearstrings.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.gbase.com/gear/greer-amps-hammer",
+      "title": "Greer Amps Hammer Brand New - Gbase",
+      "h1": "Greer Amps Hammer Brand New",
+      "excerpt": "Greer Amps Hammer Brand New - Gbase Gbase - Guitars Amps More Gear Dealers Radar Events More Sections Gear Dealers Events Blog Account Join Login Create Store Help 1.0.731 Home Find Gear Find Dealer Gear Radar Events Blog Join Login Create Store Help Find Gear Effects Greer Amps Hammer Brand New Rock n Roll Vintage Guitars SOLD Description The Hammer is an amazing and versatile pedal. With tones that range from gnarly Texas rock distortion at one end of the spectrum, to squashed out, almost cut-off fuzz, this pedal has a ton of texture on tap! The Gain and Grunt control work in tandem with one another. As they are both increased, the pedal transitions from distortion to fuzz. The Grunt control hisses and pops when it is turned (don\u2019t worry, it\u2019s quieter once in position). This pedal can go from awesome, huge stadium rock distortion tones, to vintage almost Shin Ei type fuzz tones. When the Gain and Grunt controls are both set to higher positions, the Hammer gives up the goods in the \u201calmost 8-bit\u201d like territory, with note decay dropping into awesome distortion sounds! Tones that range from distortion to almost 8-bit type fuzz! Two controls that effect the gain structure of the pedal! Rock tones with amazing fuzz available! True Bypass Uses 9-Volt battery or standard neg. center, 2.1mm power supply Built with top quality components Lifetime Warranty to the original owner Turning the GRUNT control will result in hissing and popping, as it is in motion. Once it is set, the hissing and popping goes away. Rock n Roll Vintage Guitars Year Call Make Greer Amps Condition Brand New $159 Trusted for Buy Now Visit Store See Inventory More Details Save This Save Share: &copy; 2026 Gbase Privacy Policy Terms of Service Facebook Instagram Send preview feedback Gbase preview Send feedback &times; Preview feedback Email (optional) Cancel Send feedback",
+      "host": "www.gbase.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://foundsound.com.au/products/42624",
+      "title": "Greer Amps Hammer &ndash; Found Sound",
+      "h1": "Greer Amps Hammer",
+      "excerpt": "Greer Amps Hammer &ndash; Found Sound Skip to content Facebook Instagram YouTube X (Twitter) Pinterest Snapchat Tumblr Australia\u2019s Leading Eurorack Modular Synth Store - Plus Guitars, Pedals, Amps Vintage Gear Australia\u2019s Leading Eurorack Modular Synth Store - Plus Guitars, Pedals, Amps Vintage Gear NEW ARRIVALS NEW RELEASES SHOP SHOP Accessories Acoustic Guitars Amps Band Orchestra Bass Guitars DJ Lighting Drums Percussion Effects Pedals Electric Guitars Folk Instruments Home Audio Keyboards Synths Parts Pro Audio DiY DiY Full Kits Partial Kits PCBs Panels Components Replacement Speakers EURORACK USED SALE FAQ REPAIRS SELL YOUR EQUIPMENT CONTACT Log in Country/region United States | AUD $ Search Australia AUD $ New Zealand AUD $ United Kingdom AUD $ United States AUD $ Afghanistan AUD $ \u00c5land Islands AUD $ Albania AUD $ Algeria AUD $ Andorra AUD $ Angola AUD $ Anguilla AUD $ Antigua Barbuda AUD $ Argentina AUD $ Armenia AUD $ Aruba AUD $ Ascension Island AUD $ Australia AUD $ Austria AUD $ Azerbaijan AUD $ Bahamas AUD $ Bahrain AUD $ Bangladesh AUD $ Barbados AUD $ Belarus AUD $ Belgium AUD $ Belize AUD $ Benin AUD $ Bermuda AUD $ Bhutan AUD $ Bolivia AUD $ Bosnia Herzegovina AUD $ Botswana AUD $ Brazil AUD $ British Indian Ocean Territory AUD $ British Virgin Islands AUD $ Brunei AUD $ Bulgaria AUD $ Burkina Faso AUD $ Burundi AUD $ Cambodia AUD $ Cameroon AUD $ Canada AUD $ Cape Verde AUD $ Caribbean Netherlands AUD $ Cayman Islands AUD $ Central African Republic AUD $ Chad AUD $ Chile AUD $ China AUD $ Christmas Island AUD $ Cocos (Keeling) Islands AUD $ Colombia AUD $ Comoros AUD $ Congo - Brazzaville AUD $ Congo - Kinshasa AUD $ Cook Islands AUD $ Costa Rica AUD $ C\u00f4te d\u2019Ivoire AUD $ Croatia AUD $ Cura\u00e7ao AUD $ Cyprus AUD $ Czechia AUD $ Denmark AUD $ Djibouti AUD $ Dominica AUD $ Dominican Republic AUD $ Ecuador AUD $ Egypt AUD $ El Salvador AUD $ Equatorial Guinea AUD $ Eritrea AUD $ Estonia AUD $ Eswatini AUD $ Ethiopia AUD $ Falkland Islands AUD $ Faroe Islands AUD $ Fiji AUD $ Finland AUD $ France AUD $ French Guiana AUD $ French Polynesia AUD $ French Southern Territories AUD $ Gabon AUD $ Gambia AUD $ Georgia AUD $ Germany AUD $ Ghana AUD $ Gibraltar AUD $ Greece AUD $ Greenland AUD $ Grenada AUD $ Guadeloupe AUD $ Guatemala AUD $ Guernsey AUD $ Guinea AUD $ Guinea-Bissau AUD $ Guyana AUD $ Haiti AUD $ Honduras AUD $ Hong Kong SAR AUD $ Hungary AUD $ Iceland AUD $ India AUD $ Indonesia AUD $ Iraq AUD $ Ireland AUD $ Isle of Man AUD $ Israel AUD $ Italy AUD $ Jamaica AUD $ Japan AUD $ Jersey AUD $ Jordan AUD $ Kazakhstan AUD $ Kenya AUD $ Kiribati AUD $ Kosovo AUD $ Kuwait AUD $ Kyrgyzstan AUD $ Laos AUD $ Latvia AUD $ Lebanon AUD $ Lesotho AUD $ Liberia AUD $ Libya AUD $ Liechtenstein AUD $ Lithuania AUD $ Luxembourg AUD $ Macao SAR AUD $ Madagascar AUD $ Malawi AUD $ Malaysia AUD $ Maldives AUD $ Mali AUD $ Malta AUD $ Martinique AUD $ Mauritania AUD $ Mauritius AUD $ Mayotte AUD $ Mexico AUD $ Moldova AUD $ Monaco AUD $ Mongolia AUD $ Montenegro AUD $ Montserrat AUD $ Morocco AUD $ Mozambique AUD $ Myanmar (Burma) AUD $ Namibia AUD $ Nauru AUD $ Nepal AUD $ Netherlands AUD $ New Caledonia AUD $ New Zealand AUD $ Nicaragua AUD $ Niger AUD $ Nigeria AUD $ Niue AUD $ Norfolk Island AUD $ North Macedonia AUD $ Norway AUD $ Oman AUD $ Pakistan AUD $ Palestinian Territories AUD $ Panama AUD $ Papua New Guinea AUD $ Paraguay AUD $ Peru AUD $ Philippines AUD $ Pitcairn Islands AUD $ Poland AUD $ Portugal AUD $ Qatar AUD $ R\u00e9union AUD $ Romania AUD $ Russia AUD $ Rwanda AUD $ Samoa AUD $ San Marino AUD $ S\u00e3o Tom\u00e9 Pr\u00edncipe AUD $ Saudi Arabia <span class=\"localization-form__currency",
+      "host": "foundsound.com.au",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

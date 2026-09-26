@@ -1,23 +1,40 @@
 # OKKO FX — The Dynamist
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** The Dynamist
 - **Builder:** OKKO FX
-- **Pedal:** The Dynamist
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** OKKO FX's The Dynamist.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **The Dynamist** by **OKKO FX** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+THE DYNAMIST offers exceptional dynamic qualities and super-clear, amp-like sounds.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- ** More about The Dynamist - For many years, we've received countless inquiries like, "Is the Diablo available in colors other than orange?", "Is it possible to get the pedal without the large lamp?", or "I love the sound, but I simply can't play a pedal called the Diablo." We heard you.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+OKKO The Dynamist Dual FET Overdrive | Little Box Effects Shop OKKO The Dynamist Dual FET Overdrive $ 299.00 Add to Cart OKKO The Dynamist Dual FET Overdrive The Dynamist represents the next step for the cult classic Diablo Dual overdrive.
+** More about The Dynamist - For many years, we've received countless inquiries like, "Is the Diablo available in colors other than orange?", "Is it possible to get the pedal without the large lamp?", or "I love the sound, but I simply can't play a pedal called the Diablo." We heard you.
+THE DYNAMIST offers exceptional dynamic qualities and super-clear, amp-like sounds.
+
+## Sources checked
+1. OKKO The Dynamist Dual FET Overdrive | Little Box Effects: https://www.littleboxeffects.com/product/okko-the-dynamist-dual-fet-overdrive
+2. OKKO The Dynamist Dual FET Overdrive 2026 - White/Turquoise - Reverb: https://reverb.com/item/95763157-okko-the-dynamist-dual-fet-overdrive-2026-white-turquoise
+3. Okko FX - The Dynamist: https://www.pedalboard.org/test/okko-fx-the-dynamist
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,23 +1,48 @@
 # TC Electronic — MojoMojo Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** MojoMojo Overdrive
 - **Builder:** TC Electronic
-- **Pedal:** MojoMojo Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** TC Electronic's MojoMojo Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **MojoMojo Overdrive** by **TC Electronic** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+.us Delivering to Dulles 20189 Update location All Select the department you want to search in All Departments Alexa Skills Amazon Autos Amazon Devices Amazon Global Store Amazon Haul Amazon One Medical Amazon Pharmacy Amazon Resale Appliances Apps & Games Arts, Crafts & Sewing Audible Books & Originals Automotive Parts & Accessories Baby Beauty & Personal Care Books CDs & Vinyl Cell Phones & Accessories Clothing, Shoes & Jewelry Women's Clothing, Shoes & Jewelry Men's Clothing, Shoes & Jewelry Girl's Clothing, Shoes & Jewelry Boy's Clothing, Shoes & Jewelry Baby Clothing, Shoes & Jewelry Collectibles & Fine Art Computers Credit and Payment Cards Digital Music Electronics Garden & Outdoor Gift Cards Grocery & Gourmet Food Handmade Health, Household & Baby Care Home & Business Services Home & Kitchen Industrial & Scientific Just for Prime Kindle Store Luggage & Travel Gear Luxury Stores Magazine Subscriptions Movies & TV Musical Instruments Office Products Pet Supplies Premium Beauty Prime Video Smart Home Software Sports & Outdoors Subscribe & Save Subscription Boxes Tools & Home Improvement Toys & Games Under $10 Video Games Whole Foods Market Search Amazon EN Hello, sign in Account & Lists Returns & Orders 0 Cart All Early Prime Deals Groceries Coupons Prime Pharmacy Amazon Home Automotive Registry Music Whole Foods Audible Video Games New Releases Baby Fashion Works with Alexa Sports & Outdoors Smart Home Toys & Games Custom Products Gift Shop Subscribe & Save Best Sellers Kindle Books Books TV & Video Luxury Gift Cards Handmade Computers Your pick TC Electronic TC Electronic MOJOMOJO OVERDRIVE Exceptional Overdrive Pedal with Extra Headroom, Precise Controls and a Voicing Switch 4.6 (1K) 50+ viewed in past month $62.90 $ 62 .
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+MOJOMOJO OVERDRIVE | TC Electronic Skip to main content Products About Support Stores EN Join the Tribe Professional sound for everyone.
+Privacy Terms Accessibility Back to Products MOJOMOJO OVERDRIVE 1 / 5 Zoom View in fullscreen MOJOMOJO OVERDRIVE Share Overview Learning Downloads About this product
+TC Electronic MojoMojo Overdrive Guitar Effects Pedal | Guitar Center Pro Gear Advisers Chat • 866-498-7882 Sign In search search Guitars Amps Effects Keys MIDI Drums DJ Gear Basses Recording Live Sound Accessories Mics Wireless Music Software Lighting Band Orchestra Platinum Gear Deals Used New Arrivals Lessons Daily Pick Financing GC Pro Repairs Rentals Riffs Blog Brands Recently Viewed Guitars Shop All Guitars Back Shop All Guitars Guitars Classical Nylon Ukuleles, Banjos More Guitar Value Packs Electric Guitars Solid Body Hollow Semi-Hollow Body Left-Handed Travel Mini Classical Nylon Ukuleles, Banjos More Guitar Value Packs Acoustic Guitars Acoustic-Electric 6-string 12-string Left-Handed Classical Nylon Ukuleles, Banjos More Guitar Value Packs Guitar Accessories Strings Picks Straps Cases Gig Bags Pickups Guitar Stands Wall Hangers Instrument Cables Guitar Amps Effects Classical Nylon Ukuleles, Banjos More Guitar Value Packs Popular Brands Fender Epiphone Taylor Squier Gibson Martin Ibanez PRS Schecter Jackson Guitar Deals Guitar New Arrivals Guitar Top Sellers Exclusive Guitars Platinum Guitars Used Guitars Amps Effects Shop All Amps Effects Back Shop All Amps Effects Amps Effects Guitar Amps Combo Amps Heads Cabinets Guitar Amp Stacks Mini Amps Headphone Guitar Amps Acoustic Combo Guitar Amps Bass Amps Combo Amps Heads Cabinets Amp Stacks Mini Amps Preamps Pedals Amplifier Accessories Amp Parts Amp Stands Covers Cases Effects Effects Pedals Multi-Effects Pedals Delay Reverb Distortion Overdrive Effects Pedal Accessories Pedalboards Power Supplies Popular Brands BOSS Fender Line 6 Marshall Positive Grid Markbass MXR Mesa/Boogie Orange Amps Effects Deals Amps Effects New Arrivals Amps Effects Top Sellers Exclusive Amps Effects Used Amps Effects Keyboards MIDI Shop All Keyboards MIDI Back Shop All Keyboards MIDI Keyboards MIDI Production Groove Keyboards Home Digital Pianos Stage Digital Pianos Keyboard Workstations Organs Portable Arranger Keyboards Keyboard Packages Production Groove MIDI MIDI Controllers MIDI Interfaces Production Groove Synthesizers Sound Modules Synthesizers Modular Synthesizer Systems Synthesizer Modules Sound Modules Synthesizer Eurorack Accessories Production Groove Keyboard Accessories Benches Stools Sustain, Volume Expression Pedals Stands Racks Cases, Gig Bags Covers Amplifiers Monitors Production Groove Popular Brands Yamaha Nord Williams Akai Casio Korg Roland teenage engineering Native Instruments Keys MIDI Deals Keys MIDI New Arrivals Keys MIDI Top Sellers Exclusive Keys MIDI Used Keys MIDI Drums Shop All Drums Back Shop All Drums Drums Concert Percussion World Percussion Marching Percussion Acoustic Drums Drum Sets Snare Drums Floor Toms Mounted Toms Bass Drums Concert Percussion World Percussion Marching Percussion Electronic Drums Electronic Drum Sets Electronic Drum MIDI Controllers Electronic Drum Modules Drum Amps Drum Machines Trigger Pads Concert Percussion World Percussion Marching Percussion Cymbals Cymbal Packs Hi-Hat Cymbals Crash Cymbals Ride Cymbals China Cymbals Splash Cymbals Effect Cymbals Electronic Cymbals Artist Signature Cymbals Concert Percussion World Percussion Marching Percussion Popular Brands Alesis Simmons Roland Zildjian Ludwig Meinl TAMA DW Pearl Sound Percussion Labs Concert Percussion World Percussion Marching Percussion Hardware Accessories Hardware Packs Pedals Thrones Cymbal Stands Boom Arms Drum Sticks Mallets Drum Deals Drum New Arrivals Drum Top Sellers Exclusive Drums Used Drums DJ Equipment Shop All DJ Equipment Back Shop All DJ Equipment DJ Equipment Categories Controllers Interfaces DJ CD Media Players DJ Mixers DJ Software Production Groove Turntables DJ Vinyl DJ Headphones Karaoke Needles Cartridges DJ Accessories Popular Brands Pioneer DJ Numark Denon Native Instruments Gemini Rane Reloop Ortofon DJ Gear Deals DJ Gear New Arrivals DJ Gear Top Sellers Used DJ Gear Basses Shop All Basses Back Shop All Basses Basses Electric Basses 4-String 5-String
+
+## Sources checked
+1. MOJOMOJO OVERDRIVE | TC Electronic: https://www.tcelectronic.com/en/products/0709-AHJ
+2. TC Electronic MojoMojo Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/MojoMojo--tc-electronic-mojomojo-overdrive-pedal
+3. TC Electronic MojoMojo Overdrive Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/TC-Electronic/MojoMojo-Overdrive-Guitar-Effects-Pedal-1294516231354.gc
+4. open prime modal: https://www.amazon.com/clp/B004OK1G64
+5. TC Electronic MojoMojo Overdrive: Complete Gear Guide: https://guitargangsters.net/rank911-tc-electronic-mojomojo-overdrive/
+6. TC Electronic MojoMojo Overdrive - What To Know Where To Buy: https://equipboard.com/items/tc-electronic-mojomojo-overdrive
+7. TC Electronic MojoMojo Overdrive - Reverb: https://reverb.com/p/tc-electronic-mojomojo-overdrive-2010s-rust
+8. TC Electronic MojoMojo Overdrive | Long & McQuade: https://www.long-mcquade.com/14113/Guitars/Guitar-Effects/T-C-Electronic/MojoMojo-Overdrive.htm
+9. TC Electronic MojoMojo Overdrive &#8211; Pedal Wiki: https://pedalwiki.com/tc-electronic-mojomojo-overdrive/
+10. PDF tc electronic MOJOMOJO OVERDRIVE User Manual - Manuals+: https://manuals.plus/tc%20electronic/mojomojo-overdrive-manual.pdf
+11. TC ELECTRONIC MOJOMOJO OVERDRIVE USER MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1427342/Tc-Electronic-Mojomojo-Overdrive.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

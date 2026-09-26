@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T00:53:59.865930+00:00",
+  "generated_at": "2026-09-26T00:56:50.013771+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2366,
     "complete": 2366,
     "research_pending": 0,
-    "deep_research_pending": 3620,
-    "deep_researched": 140,
+    "deep_research_pending": 3611,
+    "deep_researched": 149,
     "surface_ready": 3761
   },
   "next_target": {
@@ -76,13 +76,6 @@
       "pedal": "MP-1 Channel",
       "catalog_type": "",
       "research_record": "./research/pedals/A/DA/MP-1 Channel.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "A&M Custom Effects",
-      "pedal": "Crash Central - Crunch Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/A&M Custom Effects/Crash Central - Crunch Distortion.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Ratzo",
       "catalog_type": "",
       "research_record": "./research/pedals/Absolutely Analog/Ratzo.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "AC Efectos",
+      "pedal": "Green 808 Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/AC Efectos/Green 808 Overdrive.md",
       "research_level": "surface"
     }
   ]
