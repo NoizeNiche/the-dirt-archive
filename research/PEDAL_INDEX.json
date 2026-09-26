@@ -36108,8 +36108,8 @@
       "image": "./assets/pedals/jhs-pedals/morning-glory-v4/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Morning Glory V4.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -45838,8 +45838,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Dirt Preacher.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
