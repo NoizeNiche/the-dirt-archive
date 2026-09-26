@@ -94,12 +94,18 @@ jobs:
           def rank(row):
               key=(row["builder"],row["pedal"])
               hosts=len(source_hosts.get(key,set()))
-              # Two wired hosts are nearly publication-ready; one wired host
-              # is still valuable because manufacturer/EDB/Reverb can qualify
-              # as a strong single source.
+              # Current canonical/curated source coverage outranks stale historical
+              # verdict labels. Two hosts are the strongest immediate signal;
+              # one host can still qualify as a strong manufacturer/EDB/Reverb source.
               coverage_rank = 0 if hosts >= 2 else 1 if hosts == 1 else 2
               verdict_rank = priority.get(verdicts.get(key), 5)
-              return (verdict_rank if verdict_rank == 0 else coverage_rank + 1, row["builder"].casefold(), row["pedal"].casefold())
+              if hosts >= 2:
+                  return (1, row["builder"].casefold(), row["pedal"].casefold())
+              if hosts == 1:
+                  return (2, row["builder"].casefold(), row["pedal"].casefold())
+              if verdict_rank == 0:
+                  return (0, row["builder"].casefold(), row["pedal"].casefold())
+              return (3 if verdict_rank == 3 else 4, row["builder"].casefold(), row["pedal"].casefold())
           pending.sort(key=rank)
 
           buckets={}
