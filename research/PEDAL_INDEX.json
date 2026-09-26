@@ -17710,8 +17710,8 @@
       "research_record": "./research/pedals/PRP Batch 146/g-002-green-mamba-overdrive.md",
       "image_source_url": "http://www.calinemusic.com/uploads/allimg/20221122/1-2211221033243b.jpg",
       "image_source_page": "http://www.calinemusic.com/index.php?m=home&c=View&a=index&aid=54",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -17753,8 +17753,8 @@
         "https://rvb-img.reverb.com/image/upload/s--RT9tEuAy--/f_auto%2Ct_large/v1659479828/n4iwfp1hi9uohb1mw27a.jpg",
         "https://rvb-img.reverb.com/image/upload/s--P7gcV82k--/f_auto%2Ct_large/v1580435657/y2pv8jtiatsbuuoagwsn.jpg"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cameltone Electronics",
@@ -30236,8 +30236,8 @@
       "image": "./assets/pedals/dod-electronics/fx91-bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/FX91 Bass Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -30248,8 +30248,8 @@
       "image": "./assets/pedals/dod-electronics/gonkulator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Gonkulator.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -35930,8 +35930,8 @@
       "image": "./assets/pedals/jhs-pedals/charlie-brown-v4/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Charlie Brown V4.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -45366,8 +45366,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Serenity Fuzzdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",

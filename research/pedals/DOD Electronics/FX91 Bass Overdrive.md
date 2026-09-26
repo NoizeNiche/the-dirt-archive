@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DOD Electronics's FX91 Bass Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. DOD FX91 Bass Overdrive Instruction Manual - Manuals+: https://manuals.plus/dod/fx91-bass-overdrive-manual
+2. DOD FX91 Bass Overdrive Instruction Manual - Manuals+: https://cy.manuals.plus/dod/fx91-bass-overdrive-manual

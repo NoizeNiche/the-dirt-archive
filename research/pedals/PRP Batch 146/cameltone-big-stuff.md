@@ -15,3 +15,14 @@
   - https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple
   - https://reverb.com/item/86878862-cameltone-electronics-big-stuff-2015-purple-sparkle
   - https://reverb.com/item/58787790-cameltone-electronics-big-stuff
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cameltone Electronics's Big Stuff is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/3855857-cameltone-electronics-big-stuff-dinosaur-jr-big-muff-clone-2014-purple
+2. catalog/override source: https://equipboard.com/items/cameltone-big-stuff
