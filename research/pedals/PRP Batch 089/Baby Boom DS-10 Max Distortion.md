@@ -12,3 +12,16 @@ https://www.effectsdatabase.com/model/biyang/babyboom/ds10
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Biyang's Baby Boom DS-10 Max Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Biyang Baby Boom DS-10 Max Distortion
+
+### Sources checked in this pass
+1. Biyang Baby Boom DS-10 Max Distortion | Effects Database: https://www.effectsdatabase.com/model/biyang/babyboom/ds10

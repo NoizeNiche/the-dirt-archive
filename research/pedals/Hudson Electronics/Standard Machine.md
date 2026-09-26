@@ -1,23 +1,39 @@
 # Hudson Electronics — Standard Machine
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Standard Machine
 - **Builder:** Hudson Electronics
-- **Pedal:** Standard Machine
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Hudson Electronics's Standard Machine.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Standard Machine** by **Hudson Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Hudson Electronics's Standard Machine is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+It is very close in tone (and electrically) to the classic Shin-ei built Superfuzz, but with more of everything.
+More fuzz, more volume, more extreme!
+Super fat and compressed octave fuzz tone which nail those 60’s, 70’s tones and beyond in a small package.
+
+## Sources checked
+1. STANDARD MACHINE – HUDSON ELECTRONICS UK: https://hudsonelectronicsuk.com/product/standard-machine/
+2. Hudson Electronics Standard Machine Ibanez Standard Fuzz Replica - Reverb: https://reverb.com/item/331673-hudson-electronics-standard-machine-ibanez-standard-fuzz-replica
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

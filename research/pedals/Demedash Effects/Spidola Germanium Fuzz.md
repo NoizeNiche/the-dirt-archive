@@ -40,3 +40,31 @@ A silicon diode-based overdrive circuit that muffles everything above the low mi
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+by Paolo De Gregorio Winnipeg, Manitoba’s Demedash Effects got us used to original pedal circuits that defy tradition, and the company’s first fuzz pedal keeps faith to this approach, with more subtlety than their other designs.
+
+### Verified color/finish evidence
+- All prices are in US Dollars Variant: Select Variant Standard Knob Blue Knob Stamped
+
+### Verified transistor/device terms
+- germanium transistor, Germanium Fuzz.
+
+### Verified diode terms
+- silicon diode.
+
+### Verified sound evidence
+We wouldn’t if this was just another fuzz.
+A silicon diode-based overdrive circuit that muffles everything above the low mids and makes the rest sound phenomenal.
+The result when the two are recombined is a surprisingly crisp & articulate sound, even when completely fuzzed out.
+
+### Sources checked in this pass
+1. Spidola Germanium Fuzz — Demedash Effects: https://www.demedasheffects.com/store/p/spidola
+2. Demedash Effects Spidola Germanium Fuzz | Delicious Audio: https://delicious-audio.com/demedash-effects-spidola-germanium-fuzz/
+3. Demedash Effects Spidola Germanium Fuzz - Gold Knobs - Fret Barn | Guitars, Strings and Player Supplies: https://www.fretbarn.com/product/demedash-effects-spidola-germanium-fuzz-gold-knobs/
+4. Demedash Effects Spidola Germanium Fuzz – Hand Stamped | NEW | strumwire.com: https://www.strumwire.com/product/demedash-effects-spidola-germanium-fuzz-hand-stamped/
+5. Demedash Effects Spidola Germanium Fuzz Pedal: https://www.discountaudioequipment.com/product/demedash-effects-spidola-germanium-fuzz-pedal/

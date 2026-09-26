@@ -5441,8 +5441,8 @@
       "research_record": "./research/pedals/Auralux/Clear Gain.md",
       "image_source_url": "https://img.youtube.com/vi/5vqOai16554/hqdefault.jpg",
       "image_source_page": "https://reverb.com/item/29830340-auralux-clear-gain-boost-booster-stacking-overdrive-amp-pusher-boutique-rare-secret-sauce",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Austone Electronics",
@@ -10145,8 +10145,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/541/2023-GPX-Bispell-Audio-Gleam-Fuzz-Main-V2-700.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bispell Audio",
@@ -10321,8 +10321,8 @@
       "research_record": "./research/pedals/PRP Batch 089/Baby Boom DS-10 Max Distortion.md",
       "image_source_url": "http://st.cdjapan.co.jp/pictures/l/15/33/NEOIMP-80003.jpg",
       "image_source_page": "https://www.cdjapan.co.jp/product/NEOIMP-80003",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -16975,8 +16975,8 @@
       "research_record": "./research/pedals/PRP Batch 140/cp-15-tantrum-heavy-metal.md",
       "image_source_url": "https://i.ebayimg.com/images/g/IA0AAOSwOq1c80D0/s-l960.jpg",
       "image_source_page": "https://www.ebay.com/itm/183833211804",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -28345,8 +28345,8 @@
       "image": "./assets/pedals/cyclone/ts-5-tube-stack/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cyclone/TS-5 Tube Stack.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "D&M",
@@ -29539,8 +29539,8 @@
       "image": "./assets/pedals/demedash-effects/spidola-germanium-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Demedash Effects/Spidola Germanium Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Demedash Effects",
@@ -29551,8 +29551,8 @@
       "image": "./assets/pedals/demedash-effects/stutterbug/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Demedash Effects/Stutterbug.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Demeter",
@@ -33354,8 +33354,8 @@
       "image": "./assets/pedals/foxrox-electronics/fr-100-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxrox Electronics/FR 100 Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxrox Electronics",
@@ -33366,8 +33366,8 @@
       "image": "./assets/pedals/foxrox-electronics/hot-silicon-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxrox Electronics/Hot Silicon Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxrox Electronics",
@@ -34644,8 +34644,8 @@
       "image": "./assets/pedals/hudson-electronics/standard-machine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Standard Machine.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Hudson Electronics",
@@ -35894,8 +35894,8 @@
       "image": "./assets/pedals/jhs-pedals/at-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/AT Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",

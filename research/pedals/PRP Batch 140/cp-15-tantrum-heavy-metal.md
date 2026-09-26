@@ -16,3 +16,16 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for the v1/v2 naming, control family, dimensions and power; low for undocumented internal components.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp15 ; https://www.calinemusic.com/index.php?a=index&aid=81&c=View&m=home
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-15 Tantrum / Heavy Metal is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: v1, v2.
+
+### Sources checked in this pass
+1. Caline CP-15 Tantrum / Heavy Metal | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp15

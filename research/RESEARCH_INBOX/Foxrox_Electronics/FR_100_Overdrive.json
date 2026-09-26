@@ -1,0 +1,33 @@
+{
+  "builder": "Foxrox Electronics",
+  "pedal": "FR 100 Overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/56887942-foxrox-electronics-fr-100-overdrive",
+      "title": "Foxrox Electronics FR 100 Overdrive - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.harmonycentral.com/expert-reviews/effects/foxrox-electronics-fr-100-overdrive-r768/",
+      "title": "Foxrox Electronics FR 100 Overdrive - Effects - Harmony Central",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.harmonycentral.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://equipboard.com/items/foxrox-fr-100-overdrive",
+      "title": "Foxrox FR 100 Overdrive - What To Know & Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -43,3 +43,22 @@ Clear Gain is designed to add level without obvious compression or tonal narrowi
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/auralux/cleargain
 - **Archive note:** Exact-model examples exist externally, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Auralux's Clear Gain is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Particularly well suited for electric guitar, when activated, the unit will not "squash", "color" or "narrow" the natural response of your instrument pickups (like some other units), hence the absence of "tone", or other similar, unnecessary controls.
+
+### Verified sound evidence
+Particularly well suited for electric guitar, when activated, the unit will not "squash", "color" or "narrow" the natural response of your instrument pickups (like some other units), hence the absence of "tone", or other similar, unnecessary controls.
+We leave the tone controls where they belong....on your guitar and amp.
+When used as a lead boost or solo pedal, the unit can overdrive the pre-amp stages of tube guitar amps, easily providing natural, crunchy, saturated tube distortion sounds at the click of the switch.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/29830340-auralux-clear-gain-boost-booster-stacking-overdrive-amp-pusher-boutique-rare-secret-sauce
+2. Auralux Clear Gain | Effects Database: https://www.effectsdatabase.com/model/auralux/cleargain

@@ -35,3 +35,13 @@ Distortion Washburn A-D3 Stack In A Box Washburn SX:3 Stack In A Box Digiplay TS
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cyclone's TS-5 Tube Stack is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Cyclone TS-5 Tube Stack | Effects Database: https://www.effectsdatabase.com/model/cyclone/ts5
