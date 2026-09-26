@@ -10582,8 +10582,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "http://an2music.weebly.com/uploads/1/2/5/4/12547552/2511915.jpg?404",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -30517,8 +30517,8 @@
       "image": "./assets/pedals/dr-scientist-sounds/frazz-dazzler/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dr. Scientist Sounds/Frazz Dazzler.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dr. Scientist Sounds",
@@ -30530,8 +30530,8 @@
       "image": "./assets/pedals/dr-scientist-sounds/the-elements/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dr. Scientist Sounds/The Elements.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dr. Z Amplification",
@@ -33630,8 +33630,8 @@
       "image": "./assets/pedals/fulltone/full-drive2-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Full-Drive2 v2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -33643,8 +33643,8 @@
       "image": "./assets/pedals/fulltone/full-drive3/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Full-Drive3.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -45558,8 +45558,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/Imperial MKII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "SolidGoldFX",

@@ -37,3 +37,20 @@ Unfortunately, many fuzz pedals don&#8217;t love basses, or more specifically, a
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Scientist Frazz Dazzler Review By Jonathan Moody May 1, 2013 April 30, 2013 Bass players love fuzz pedals.
+
+### Verified sound evidence
+Scientist Frazz Dazzler Review By Jonathan Moody May 1, 2013 April 30, 2013 Bass players love fuzz pedals.
+Unfortunately, many fuzz pedals don’t love basses, or more specifically, active basses.
+Scientist Sounds , you have the best of both worlds; a fuzz pedal that works well with all sorts of basses AND has a mix knob for your particular taste.
+
+### Sources checked in this pass
+1. Amazon.com: Dr. Scientist Sounds Frazz Dazzler : Musical Instruments: https://www.amazon.com/Dr-Scientist-Sounds-Frazz-Dazzler/dp/B00874MXVU
+2. Dr. Scientist Frazz Dazzler - Effects Database: https://www.effectsdatabase.com/model/drscientist/frazzdazzler
+3. Dr. Scientist Frazz Dazzler Review - Bass Musician Magazine, The Face of Bass: https://bassmusicianmagazine.com/2013/05/dr-scientist-frazz-dazzler-review/

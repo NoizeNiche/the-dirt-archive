@@ -14,3 +14,16 @@ https://www.guitarschina.com/article/2006/0512/1028.html
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Biyang's NM-2 New Metal is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: version 2006.
+
+### Sources checked in this pass
+1. Biyang NM-2 New Metal | Effects Database: https://www.effectsdatabase.com/model/biyang/nm2
