@@ -141,7 +141,8 @@ def write_record(item, tracker_type, packet):
         return False, "insufficient independent exact-source evidence"
 
     record_path = RESEARCH_ROOT / builder / f"{pedal}.md"
-    if record_path.exists() or item.get("research_record"):
+    existing_surface = record_path.exists() and str(item.get("research_level") or "").strip().lower() == "surface"
+    if (record_path.exists() or item.get("research_record")) and not existing_surface:
         return False, "record already exists"
 
     description = choose_description(builder, pedal, kind, sources)
@@ -204,6 +205,8 @@ def write_record(item, tracker_type, packet):
         lines.append(f"{i}. {title}: {source.get('url')}")
     lines += ["", "## Photo", "- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass."]
     record_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    item["research_level"] = "deep"
+    item["deep_research_status"] = "VERIFIED"
     return True, str(record_path)
 
 
@@ -226,6 +229,7 @@ def main():
     type_by_key = {(r.get("Builder"), r.get("Pedal")): r.get("Catalog Type", "") for r in tracker_rows}
 
     created = 0
+    updated = 0
     created_paths = []
     skipped = 0
     held = 0
@@ -246,11 +250,15 @@ def main():
             continue
         ok, reason = write_record(item, type_by_key.get(key, ""), packet)
         if ok:
+            if item.get("deep_research_status") == "VERIFIED" and item.get("research_record"):
+                if (RESEARCH_ROOT / item.get("company","") / f"{item.get('pedal','')}.md").exists():
+                    pass
             created += 1
-            created_paths.append(ok and reason)
+            created_paths.append(reason)
         else:
             skipped += 1
-    print(json.dumps({"created": created, "created_paths": created_paths, "skipped": skipped, "held": held}, ensure_ascii=True))
+    INDEX.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(json.dumps({"created": created, "updated": updated, "created_paths": created_paths, "skipped": skipped, "held": held}, ensure_ascii=True))
     
 
 if __name__ == "__main__":
