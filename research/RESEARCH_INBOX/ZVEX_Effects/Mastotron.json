@@ -1,0 +1,33 @@
+{
+  "builder": "ZVEX Effects",
+  "pedal": "Mastotron",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://loopydemos.com/demos/zvex-effects-mastotron/",
+      "title": "ZVEX Effects Mastotron Demo Review | Loopy Demos",
+      "h1": "ZVEX Effects Mastotron",
+      "excerpt": "--> ZVEX Effects Mastotron Demo Review | Loopy Demos Show or hide the side bar navigation Loopy Demos Demos Posts Manufacturers About Contact Demos Posts Manufacturers About Contact All demos ZVEX Effects Mastotron Mar 8, 2024 Read next What is the Best Velcro Fuzz Pedal? The Mastotron by ZVEX Effects is an absolute sleeper of a fuzz pedal. It runs on a silicon circuit rather than the germanium of ZVEX\u2019s better known Fuzz Factory, built around a sub-heavy voice with an input impedance control and a pulse width knob that ZVEX bills as more flexible than any silicon fuzz to date. My favorite sound from the Mastotron is a satisfying velcro fuzz. It cuts well through a mix, feels full bodied thanks to the sub-heavy voicing, and carries a character that\u2019s genuinely its own. ZVEX put the circuit in a plain, utilitarian enclosure, but don\u2019t let that fool you: this is a versatile and powerful fuzz. Controls Working left to right across the panel: Volume sets the overall output level. Right next to it sits the Subs toggle, a three-position switch (the demo\u2019s Subs sweep steps through all three positions) that dials in how much sub-bass sits under the fuzz. Tone is a treble control shaping how bright or dark the top end reads. Pulse Width, marked PW on the panel, reshapes the waveform of the distortion itself: the demo\u2019s Pulse Width sweep runs it from 0 up to 10 so you can hear the texture shift as it goes. Fuzz is the depth control, a wide-range knob covering everything from mild grit to full saturation, tracked by the Fuzz sweep across 0, 3, 7 and 10. Last is Relax/Push, ZVEX\u2019s input impedance control, moving from passive pickup territory toward line level. It\u2019s handy for taming hot pickups or reamping a bass or keyboard signal, and the Relax/Push sweep walks through 0, 3, 7 and 10 to show the range. A single footswitch handles bypass, with a status LED next to the Fuzz knob. How It Sounds Soft Velcro (Fuzz at 6, Relax/Push at 7, Subs on position 1) sits at the gentler end of that velcro character, sustained without turning to mush. Tweed Drive backs Pulse Width all the way to 0 and pushes Volume to 7, landing closer to an overdriven amp than a fuzz. Bulky Distortion pushes Fuzz to 8 with Subs on position 3, and that\u2019s where the sub-heavy design really shows: it\u2019s thick, low-end forward, and still holds together. Running through the Subs sweep confirms how much low end the switch adds at each position, and the Pulse Width sweep is the clearest way to hear the pedal starve and gate as the waveform narrows. Mastotron vs Fuzz Factory The Fuzz Factory is ZVEX\u2019s other well known fuzz, and the two behave nothing alike. The Fuzz Factory is germanium, gated and genuinely chaotic. It can self-oscillate and sputter into synth-like territory, rewarding (or punishing) players willing to ride its controls in real time. The Mastotron is silicon, built around a sub-heavy low end and a pulse width control rather than gate and compression knobs, and it stays in a far more usable, predictable range. If you want an unpredictable creative tool that fights back, the Fuzz Factory is still the one. If you want a big, full-bodied fuzz with sub-bass heft that behaves itself, the Mastotron is the easier pedal to live with. I\u2019ve put it head to head on the same loop with a few of these, so you can switch between them mid-phrase: ZVEX Fuzz Factory vs ZVEX Mastotron and ZVEX Mastotron vs ZVEX Woolly Mammoth . Who It\u2019s For The Mastotron suits players after a fuzz with real low-end weight, whether that\u2019s thick rock riffs, doom-adjacent tones, or reamping a bass or synth line through a fuzz circuit. The impedance control also makes it worth a look for anyone running keyboards or line-level sources into a pedalboard. If you\u2019re chasing a thin, buzzy vintage fuzz tone, or ZVEX\u2019s more chaotic gated side, the Fuzz Factory is the better starting point. For everyone else after a sleeper fuzz with real bottom end, the Mastotron delivers. Specs Circuit: sub-heavy silicon fuzz ",
+      "host": "loopydemos.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.theguitarpedaldirectory.com/pedals/mastotron",
+      "title": "Mastotron by ZVEX Effects | The Guitar Pedal Directory",
+      "h1": "Mastotron",
+      "excerpt": "Mastotron by ZVEX Effects | The Guitar Pedal Directory Effect Pedals Manufacturers Effect Types Guitar Effect Pedal by ZVEX Effects Mastotron The ZVEX Mastotron is a versatile, heavy silicon fuzz pedal designed for both guitar and bass. The ZVEX Mastotron is a versatile, heavy silicon fuzz pedal designed for both guitar and bass. It features unique controls such as Relax/Push, which adjusts input impedance to accommodate various pickups and sound sources, and Pulse Width, allowing modification of waveform shape for diverse tonal textures. Additionally, a three-position Subs switch tailors the pedal&#x27;s low-frequency response, making it adaptable to different instruments and amplification setups. Manufacturer ZVEX Effects Effect Types Fuzz Related Pedals Wooly Mammoth - Vexter Series ZVEX Effects Fuzz Read more Super Hard On ZVEX Effects Overdrive Read more Fuzz Factory Vertical - Vexter Series ZVEX Effects Fuzz Read more Basstortion Distortion ZVEX Effects Distortion Read more Sonar - Vexter Series ZVEX Effects Tremolo Read more Park Fuzz Sound\u2122 EarthQuaker Devices Fuzz Read more Loop Gate ZVEX Effects Utility Read more Instant lo-fi Junky Vexter Series ZVEX Effects Modulation Read more Instant lo-fi Junkey Vertical ZVEX Effects Modulation Read more Hoof\u00ae EarthQuaker Devices Fuzz Read more Hizumitas\u00ae Fuzz Sustainar EarthQuaker Devices Fuzz Read more Gary EarthQuaker Devices Fuzz Read more",
+      "host": "www.theguitarpedaldirectory.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.juno.co.uk/products/zvex-effects-vextron-mastotron-fuzz-pedal/612995-01/",
+      "title": "ZVEX Effects Vextron Mastotron Fuzz Pedal - Juno Records",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.juno.co.uk",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

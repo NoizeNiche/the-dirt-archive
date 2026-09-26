@@ -2572,8 +2572,8 @@
       "research_record": "./research/pedals/PRP Batch 047/Alcmene Overdrive.md",
       "image_source_url": "https://lep-international.jp/cdn/shop/files/Alcmene-Overdrive-03.png?v=1716947050&width=1445",
       "image_source_page": "https://lep-international.jp/products/all-pedal-alcmene-overdrive",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "All-Pedal",
@@ -38039,8 +38039,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Medusa.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lichtlaerm Audio",
@@ -51299,8 +51299,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Mastotron.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",

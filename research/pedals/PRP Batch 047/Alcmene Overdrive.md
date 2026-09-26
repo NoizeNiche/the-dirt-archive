@@ -1,43 +1,36 @@
 # All-Pedal — Alcmene Overdrive
 
 ## PRP identity
+- **Archive parent:** Alcmene Overdrive
 - **Builder:** All-Pedal
 - **Catalog type:** Overdrive
-- **Identity:** Mini Klon-style overdrive using NOS 1N34A germanium clipping diodes.
+- **Identity:** All-Pedal's Alcmene Overdrive.
 
 ## What this pedal is
-Alcmene is a compact Klon-style overdrive built around the familiar three-control concept, with a charge pump for higher internal headroom, active Treble control, buffered bypass, and a gold-plated circuit board. [1][2]
+All-Pedal's Alcmene Overdrive is cataloged as an overdrive pedal.
 
 ## Colorways
-- Green finish is documented in the Reverb product catalog, with a 2021 listing. [3]
-- No complete factory colorway history established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Gain
-- Tone / active Treble
-- Volume
-- NOS 1N34A germanium clipping diodes
-- charge pump
-- buffered bypass
-- MOSFET power protection [1][2]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision history established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- MOSFET power protection is documented.
-- Exact signal-path transistor devices are not publicly documented in the accessible sources.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **NOS 1N34A germanium clipping diodes** are explicitly documented. [1][2]
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Alcmene follows the Klon-style clean-blend/overdrive concept, offering low-gain boost and breakup through stronger germanium distortion at higher Gain settings. Its charge pump increases internal headroom, while the active Treble control gives more direct high-frequency shaping than a purely passive tone network. [1][2]
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database — https://www.effectsdatabase.com/model/allpedal/alcmene
-2. Pedal of the Day — https://www.pedal-of-the-day.com/2023/08/03/all-pedal-alcmene-overdrive/
-3. Reverb — https://reverb.com/p/all-pedal-alcmene-overdrive
+1. All-Pedal - Alcmene Overdrive &ndash; LEP INTERNATIONAL: https://lep-international.jp/products/all-pedal-alcmene-overdrive
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
