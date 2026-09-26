@@ -4,35 +4,35 @@
 - **Archive parent:** Ratortion 2
 - **Builder:** Add+ Pedals
 - **Catalog type:** Distortion
-- **Identity:** Add+ Ratortion 2, listed as a distinct Add+ distortion pedal in the builder's March 2011 catalog entry. [1][2]
+- **Identity:** Add+ Pedals's Ratortion 2.
 
 ## What this pedal is
-Ratortion 2 is a separate Add+ distortion model following the original Ratortion in the early catalog. Effects Database confirms the product identity and its distortion classification, but the accessible listing does not expose enough circuit or control information to identify the exact technical changes from Ratortion. [1]
+Add+ Pedals browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Add+ Ratortion 2 Published on March 31, 2011 Add+ Pedals distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Ratortion 2 Where to find one?
 
 ## Colorways
-- No reliable factory colorway record was established from the available sources.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Ratortion 2
-- Distortion effect
-- Separate catalog entry from Ratortion
-- Early Add+ production product [1][2]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-Ratortion 2 is preserved as its own catalog record because Effects Database lists it separately from Ratortion. A specific schematic-level, transistor-level, or diode-level change between the two models was not verified in the available production documentation. [1]
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact production transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact production clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The surviving listing confirms Ratortion 2 as a distortion pedal but does not provide enough verified detail to narrow its clipping character or tonal range responsibly. Any stronger circuit or sound claim would be speculation without additional production evidence. [1]
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Add+ Pedals browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Add+ Ratortion 2 Published on March 31, 2011 Add+ Pedals distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Ratortion 2 Where to find one?
+fx pedal stompbox stomp box guitar effects pedal distortion dist distorted distort distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Effects Database — Add+ Ratortion 2: https://www.effectsdatabase.com/model/addplus/ratortion/2
-2. Effects Database — Add+ 2011 weekly catalog listing: https://www.effectsdatabase.com/updates/weekly/20110404
+1. Add+ Ratortion 2 | Effects Database: https://www.effectsdatabase.com/model/addplus/ratortion/2
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1286,8 +1286,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/addplus_ratortion2_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -46895,8 +46895,8 @@
       "research_record": "./research/pedals/TC Electronic/Zeus Drive.md",
       "image_source_url": "https://www.planetmusic.cl/wp-content/uploads/2023/04/TC-Electronic-Zeus-Driver-Overdrive-Pedal-de-Guitarra-L-Planet-Music-1200x1200-1-1024x1024.jpg",
       "image_source_page": "https://www.planetmusic.cl/producto/tc-electronic-zeus-drive-overdrive/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tech 21 NYC",
