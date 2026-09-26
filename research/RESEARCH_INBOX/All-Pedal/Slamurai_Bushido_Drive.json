@@ -1,0 +1,25 @@
+{
+  "builder": "All-Pedal",
+  "pedal": "Slamurai Bushido Drive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=yoR8KNA1FwQ",
+      "title": "SLAMURAI Bushido Drive by All-Pedal - METAL",
+      "h1": "SLAMURAI Bushido Drive by All-Pedal - METAL",
+      "excerpt": "The exact-model demonstration identifies Slamurai Bushido Drive as a drive pedal and includes separate sections for pedal description, DSL pedal on/off, DR pedal on/off, and knob adjustments.",
+      "host": "www.youtube.com",
+      "source_kind": "exact_model_demo"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/type/overdrive/pedal",
+      "title": "pedal, overdrive | Effects Database",
+      "h1": "pedal, overdrive",
+      "excerpt": "Effects Database lists All-Pedal Slamurai Bushido Drive among its overdrive catalog entries.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Keep the canonical record conservative until a stronger manufacturer or exact product-page source is recovered. Do not infer circuit or component details from the demonstration."
+}
