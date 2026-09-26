@@ -1,0 +1,17 @@
+{
+  "builder": "All-Pedal",
+  "pedal": "Alcmene Overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/allpedal/alcmene",
+      "title": "All-Pedal Alcmene Overdrive - The Mother Of Centaur Slayers | Effects Database",
+      "h1": "All-Pedal Alcmene Overdrive - The Mother Of Centaur Slayers",
+      "excerpt": "All-Pedal describes Alcmene as a mini overdrive with Klon-style features, including Germanium clipping diodes, an active Treble control, charge pump, buffered bypass, MOSFET power protection, and a 9V/20mA power requirement. The page specifies NOS 1N34A Germanium clipping diodes.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use the exact-model evidence for the canonical record. Preserve the explicit 1N34A diode and charge-pump details, but do not infer other component types or circuit topology."
+}
