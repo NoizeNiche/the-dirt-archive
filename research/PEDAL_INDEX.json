@@ -29171,7 +29171,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/deadastronautfx/x-fuzz-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DeadastronautFX/X-Fuzz II.md",
       "research_level": "researched",
@@ -30137,7 +30137,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/fx57-hard-rock-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/FX57 Hard Rock Distortion.md",
       "research_level": "surface",
@@ -30173,7 +30173,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/fx66-flashback-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/FX66 Flashback Fuzz.md",
       "research_level": "surface",
@@ -30282,7 +30282,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/gunslinger/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Gunslinger.md",
       "research_level": "surface",
@@ -31099,7 +31099,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/cloven-hoof-fuzz-grinder/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Cloven Hoof — Fuzz Grinder.md",
       "research_level": "surface",
@@ -31123,7 +31123,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/dirt-transmitter-fuzz-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter — Fuzz Driver.md",
       "research_level": "surface",
@@ -31147,7 +31147,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/dirt-transmitter-legacy-reissue-fuzz-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter Legacy Reissue — Fuzz Driver.md",
       "research_level": "surface",
@@ -31880,7 +31880,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Big Muff Pi.md",
       "research_level": "surface",
@@ -32038,7 +32038,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/flatiron-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Flatiron Fuzz.md",
       "research_level": "surface",
@@ -32051,7 +32051,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/germanium-4-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Germanium 4 Big Muff Pi.md",
       "research_level": "surface",
@@ -32063,7 +32063,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/germanium-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Germanium OD.md",
       "research_level": "surface",
@@ -32773,7 +32773,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fender/fender-shields-blender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Fender Shields Blender.md",
       "research_level": "deep",
@@ -32929,7 +32929,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fender/yngwie-malmsteen-overdrive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Yngwie Malmsteen Overdrive Pedal.md",
       "research_level": "deep",
@@ -33097,7 +33097,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fjord-fuzz/thor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Thor.md",
       "research_level": "surface",
@@ -33718,7 +33718,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fulltone/ocdv2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/OCDv2.md",
       "research_level": "surface",
@@ -33730,7 +33730,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fulltone/octafuzz-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Octafuzz 2.md",
       "research_level": "surface",
@@ -34110,7 +34110,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/relic-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Relic Drive.md",
       "research_level": "deep",
@@ -34134,7 +34134,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/soma-63-vintage-preamp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/SOMA 63 Vintage Preamp.md",
       "research_level": "deep",
@@ -34147,7 +34147,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/soul-thrust-fuzz-unit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/SOUL THRUST FUZZ UNIT.md",
       "research_level": "deep",
@@ -34641,7 +34641,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/hudson-electronics/standard-machine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Standard Machine.md",
       "research_level": "surface",
@@ -34942,7 +34942,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ibanez/tsv808/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TSV808.md",
       "research_level": "deep",
@@ -35198,7 +35198,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/nihilizer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Nihilizer.md",
       "research_level": "surface",
@@ -35589,7 +35589,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jackson-audio/the-optimist-dual-overdrive-eq/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/The Optimist Dual Overdrive & EQ.md",
       "research_level": "surface",
@@ -35791,7 +35791,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jam-pedals/tiny-pond/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
       "research_level": "surface",
@@ -35804,7 +35804,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jam-pedals/tubedreamer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/TubeDreamer.md",
       "research_level": "surface",
@@ -36057,7 +36057,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/kilt-10/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Kilt 10.md",
       "research_level": "surface",
@@ -36069,7 +36069,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/kilt-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Kilt V2.md",
       "research_level": "surface",
@@ -36081,7 +36081,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/moonshine-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Moonshine V2.md",
       "research_level": "surface",
@@ -36093,7 +36093,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/morning-glory-clean/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Morning Glory Clean.md",
       "research_level": "surface",
@@ -36105,7 +36105,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/morning-glory-v4/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Morning Glory V4.md",
       "research_level": "surface",
@@ -36647,7 +36647,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/ddr-drive-delay-reverb/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/DDR — Drive Delay Reverb.md",
       "research_level": "surface",
@@ -36659,7 +36659,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/drive-for-a-cure/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Drive For a Cure.md",
       "research_level": "surface",
@@ -36671,7 +36671,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/el-rey-dorado/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/El Rey Dorado.md",
       "research_level": "surface",
@@ -36684,7 +36684,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/filaments-high-gain-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Filaments High Gain Distortion.md",
       "research_level": "surface",
@@ -36696,7 +36696,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/fuzz-bender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Fuzz Bender.md",
       "research_level": "surface",
@@ -37175,7 +37175,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/ghoul-jr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Ghoul JR.md",
       "research_level": "surface",
@@ -37188,7 +37188,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/ghoul-jr-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Ghoul JR — overdrive.md",
       "research_level": "surface",
@@ -37201,7 +37201,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/ghoul-screamer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Ghoul Screamer.md",
       "research_level": "surface",
@@ -37214,7 +37214,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/ghoul-screamer-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Ghoul Screamer — overdrive.md",
       "research_level": "surface",
@@ -37227,7 +37227,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/gojira-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Gojira Drive.md",
       "research_level": "surface",
@@ -37717,7 +37717,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/kma-machines/wurm/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Wurm.md",
       "research_level": "surface",
@@ -37754,7 +37754,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/10-10-xxj-evr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/10/10 XXJ EVR.md",
       "research_level": "deep",
@@ -37814,7 +37814,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/9-9-evr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/9/9 EVR.md",
       "research_level": "deep",

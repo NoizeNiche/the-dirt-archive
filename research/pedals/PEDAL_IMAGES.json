@@ -14293,7 +14293,7 @@
   {
     "builder": "DeadastronautFX",
     "pedal": "X-Fuzz II",
-    "image": null,
+    "image": "./assets/pedals/deadastronautfx/x-fuzz-ii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DeadastronautFX/X-Fuzz II.md"
   },
@@ -14832,7 +14832,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "FX57 Hard Rock Distortion",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/fx57-hard-rock-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/FX57 Hard Rock Distortion.md"
   },
@@ -14853,7 +14853,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "FX66 Flashback Fuzz",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/fx66-flashback-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/FX66 Flashback Fuzz.md"
   },
@@ -14916,7 +14916,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "Gunslinger",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/gunslinger/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/Gunslinger.md"
   },
@@ -15378,7 +15378,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Cloven Hoof — Fuzz Grinder",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/cloven-hoof-fuzz-grinder/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Cloven Hoof — Fuzz Grinder.md"
   },
@@ -15392,7 +15392,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Dirt Transmitter — Fuzz Driver",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/dirt-transmitter-fuzz-driver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter — Fuzz Driver.md"
   },
@@ -15406,7 +15406,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Dirt Transmitter Legacy Reissue — Fuzz Driver",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/dirt-transmitter-legacy-reissue-fuzz-driver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter Legacy Reissue — Fuzz Driver.md"
   },
@@ -15819,7 +15819,7 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Big Muff Pi",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/big-muff-pi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Big Muff Pi.md"
   },
@@ -15910,21 +15910,21 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Flatiron Fuzz",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/flatiron-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Flatiron Fuzz.md"
   },
   {
     "builder": "Electro-Harmonix",
     "pedal": "Germanium 4 Big Muff Pi",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/germanium-4-big-muff-pi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Germanium 4 Big Muff Pi.md"
   },
   {
     "builder": "Electro-Harmonix",
     "pedal": "Germanium OD",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/germanium-od/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Germanium OD.md"
   },
@@ -16330,7 +16330,7 @@
   {
     "builder": "Fender",
     "pedal": "Fender Shields Blender",
-    "image": null,
+    "image": "./assets/pedals/fender/fender-shields-blender/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fender/Fender Shields Blender.md"
   },
@@ -16421,7 +16421,7 @@
   {
     "builder": "Fender",
     "pedal": "Yngwie Malmsteen Overdrive Pedal",
-    "image": null,
+    "image": "./assets/pedals/fender/yngwie-malmsteen-overdrive-pedal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fender/Yngwie Malmsteen Overdrive Pedal.md"
   },
@@ -16519,7 +16519,7 @@
   {
     "builder": "Fjord Fuzz",
     "pedal": "Thor",
-    "image": null,
+    "image": "./assets/pedals/fjord-fuzz/thor/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fjord Fuzz/Thor.md"
   },
@@ -16869,14 +16869,14 @@
   {
     "builder": "Fulltone",
     "pedal": "OCDv2",
-    "image": null,
+    "image": "./assets/pedals/fulltone/ocdv2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fulltone/OCDv2.md"
   },
   {
     "builder": "Fulltone",
     "pedal": "Octafuzz 2",
-    "image": null,
+    "image": "./assets/pedals/fulltone/octafuzz-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fulltone/Octafuzz 2.md"
   },
@@ -17086,7 +17086,7 @@
   {
     "builder": "Greer Amps",
     "pedal": "Relic Drive",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/relic-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Relic Drive.md"
   },
@@ -17100,14 +17100,14 @@
   {
     "builder": "Greer Amps",
     "pedal": "SOMA 63 Vintage Preamp",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/soma-63-vintage-preamp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/SOMA 63 Vintage Preamp.md"
   },
   {
     "builder": "Greer Amps",
     "pedal": "SOUL THRUST FUZZ UNIT",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/soul-thrust-fuzz-unit/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/SOUL THRUST FUZZ UNIT.md"
   },
@@ -17387,7 +17387,7 @@
   {
     "builder": "Hudson Electronics",
     "pedal": "Standard Machine",
-    "image": null,
+    "image": "./assets/pedals/hudson-electronics/standard-machine/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Hudson Electronics/Standard Machine.md"
   },
@@ -17562,7 +17562,7 @@
   {
     "builder": "Ibanez",
     "pedal": "TSV808",
-    "image": null,
+    "image": "./assets/pedals/ibanez/tsv808/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ibanez/TSV808.md"
   },
@@ -17709,7 +17709,7 @@
   {
     "builder": "IdiotBox Effects",
     "pedal": "Nihilizer",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/nihilizer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Nihilizer.md"
   },
@@ -17933,7 +17933,7 @@
   {
     "builder": "Jackson Audio",
     "pedal": "The Optimist Dual Overdrive & EQ",
-    "image": null,
+    "image": "./assets/pedals/jackson-audio/the-optimist-dual-overdrive-eq/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Jackson Audio/The Optimist Dual Overdrive & EQ.md"
   },
@@ -18045,14 +18045,14 @@
   {
     "builder": "JAM Pedals",
     "pedal": "Tiny Pond?",
-    "image": null,
+    "image": "./assets/pedals/jam-pedals/tiny-pond/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md"
   },
   {
     "builder": "JAM Pedals",
     "pedal": "TubeDreamer",
-    "image": null,
+    "image": "./assets/pedals/jam-pedals/tubedreamer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JAM Pedals/TubeDreamer.md"
   },
@@ -18192,35 +18192,35 @@
   {
     "builder": "JHS Pedals",
     "pedal": "Kilt 10",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/kilt-10/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Kilt 10.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Kilt V2",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/kilt-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Kilt V2.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Moonshine V2",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/moonshine-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Moonshine V2.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Morning Glory Clean",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/morning-glory-clean/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Morning Glory Clean.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Morning Glory V4",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/morning-glory-v4/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Morning Glory V4.md"
   },
@@ -18528,35 +18528,35 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "DDR — Drive Delay Reverb",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/ddr-drive-delay-reverb/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/DDR — Drive Delay Reverb.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "Drive For a Cure",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/drive-for-a-cure/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Drive For a Cure.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "El Rey Dorado",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/el-rey-dorado/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/El Rey Dorado.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "Filaments High Gain Distortion",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/filaments-high-gain-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Filaments High Gain Distortion.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "Fuzz Bender",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/fuzz-bender/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Fuzz Bender.md"
   },
@@ -18822,35 +18822,35 @@
   {
     "builder": "KHDK Electronics",
     "pedal": "Ghoul JR",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/ghoul-jr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Ghoul JR.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Ghoul JR — overdrive",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/ghoul-jr-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Ghoul JR — overdrive.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Ghoul Screamer",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/ghoul-screamer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Ghoul Screamer.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Ghoul Screamer — overdrive",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/ghoul-screamer-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Ghoul Screamer — overdrive.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Gojira Drive",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/gojira-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Gojira Drive.md"
   },
@@ -19123,7 +19123,7 @@
   {
     "builder": "KMA Machines",
     "pedal": "Wurm",
-    "image": null,
+    "image": "./assets/pedals/kma-machines/wurm/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KMA Machines/Wurm.md"
   },
@@ -19144,7 +19144,7 @@
   {
     "builder": "Leqtique",
     "pedal": "10/10 XXJ EVR",
-    "image": null,
+    "image": "./assets/pedals/leqtique/10-10-xxj-evr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/10/10 XXJ EVR.md"
   },
@@ -19179,7 +19179,7 @@
   {
     "builder": "Leqtique",
     "pedal": "9/9 EVR",
-    "image": null,
+    "image": "./assets/pedals/leqtique/9-9-evr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/9/9 EVR.md"
   },
