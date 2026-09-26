@@ -1,0 +1,33 @@
+{
+  "builder": "Leqtique",
+  "pedal": "Roger",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://leqtique.ch/en/products/roger-evr",
+      "title": "Roger EVR &ndash; Leqtiqueshop",
+      "h1": "Roger EVR",
+      "excerpt": "Roger EVR &ndash; Leqtiqueshop Skip to content Submit Close search Leqtiqueshop Submit Search Log in Cart Roger EVR Regular price $210.00 Sale Default Title - Sold out Quantity Sold out *The first batch of orders placed on 4/11 will be shipped between 4/23-25. Thank you for your understanding. This OD/DS, released as Leqtique - Beryl in 2018, was undoubtedly the most versatile effector in Leqtique's past works. It has four main roles: Clean (Preamp EQ) - Low Gain OD - Medium Gain OD - Medium Gain DS, and can be adjusted steplessly. In environments where you need to choose one unit to produce all kinds of sounds, except for environments where you need ultra-high gain such as 9/9-10/10-11/11, the Beryl EVR or RED EVR is definitely the best choice. The RED EVR has a stronger treble than the Leqtique - RED, which makes it slightly closer to the Beryl, but I still think its greatest strength is its medium-high gain distortion sound, so although it is certainly versatile, it is also very different, including in terms of the difference in tone. Originally, the Beryl had a two-stage gain stage that was variable and connected depending on the setting of the Gain knob, with the first stage using a vintage clipping diode to produce an extremely smooth overdrive sound reminiscent of the MAR, and the second stage using a green LED with a high threshold as a clipper, adding wild, rough-grained distortion as the gain range increases. Although more than half of the constants in the circuit of this Beryl EVR have been changed, there is no significant difference in the target sound or variable range, but the distortion component added as the gain of the second stage is increased has been adjusted to a slightly more open and rough sound. This modification brings out the clear and high-centered sound that is inherent to the Beryl. As time goes on, the number of transparent effects has increased, but the common usage is to push the gain slightly with Preamp/EQ/Boost(+) rather than distorting the sound by itself. The Beryl EVR, like the original Beryl, completely covers that range, but emphasizes the individuality and usefulness of distortion by itself, with a modern sound image. Among the Leqtique products, which tend to have a dark sound, the Beryl and 11/11 are models that were designed with a strong awareness of the significance of treble/presence from the very beginning, and although they are somewhat different, if you want a single unit that can handle a variety of tasks smoothly, but also want a unique tone in each gain range, then this is the best choice among EVR products. Shun Nokina About the \"EVR\" concept Since 2019, I have been based in Europe and have been involved in the design of several pedals, but Leqtique pedals have been essentially on hiatus without releasing any new products. However, by temporarily relocating to Iceland in 2024, I was able to get some great inspiration, and I have continued to design all of them as an update package called \"EVR\". \"EVR\" means EVRU: Europe in Icelandic. The letters strongly express the idea of \u200b\u200bfeeding back and embodying the inspiration and experiences gained in various parts of Europe over the years as a base or commuter. Leqtique pedals originally embodied a strong longing for Europe, such as the color of the paint and the darkness of the sound, but now they are clearly embodied as a more realistic experience. Leqtique pedals have not been updated for 15 years, but we have completely reconstructed the case, all components, concept, etc. from scratch. For example, the case, which was a one-piece machined aluminum case, was only designed as a general \"box\" with a wide tolerance, but it is a special design that can only be used with Leqtique EVR pedals. By reconsidering the advantages of being \"one-piece\", the material that was only aluminum has been divided and integrated into three sections: a functional aluminum base case, a cosmetic layer made of non-magnetic stainless steel, and individual",
+      "host": "leqtique.ch",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.ebay.com/itm/257537530671",
+      "title": "Leqtique Roger EVR [Leqtique] DS10478178 - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/item/97816356-leqtique-roger",
+      "title": "Leqtique Roger - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

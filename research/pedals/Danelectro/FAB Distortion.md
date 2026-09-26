@@ -7,7 +7,7 @@
 - **Identity:** Danelectro's FAB Distortion.
 
 ## What this pedal is
-Danelectro D-1 Fab Distortion | AllThePedals Articles Genealogy Browse Search results for &quot; &quot; Gain / Distortion / Danelectro D-1 Fab Distortion D-1 Fab Distortion The Danelectro D-1 Fab Distortion offers classic distortion tones at an affordable price.
+Experience a range of screaming and crushing tones with this highly responsive and versatile distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -28,9 +28,9 @@ Danelectro D-1 Fab Distortion | AllThePedals Articles Genealogy Browse Search re
 - **Exact part:** Unknown.
 
 ## Sound
-Danelectro D-1 Fab Distortion | AllThePedals Articles Genealogy Browse Search results for &quot; &quot; Gain / Distortion / Danelectro D-1 Fab Distortion D-1 Fab Distortion The Danelectro D-1 Fab Distortion offers classic distortion tones at an affordable price.
 This pedal provides sonic equivalence to sought-after originals with versatile sound options, including a tube distortion and solid-state distortion circuit, along with a clean channel usable as a pre-amplifier.
 Experience a range of screaming and crushing tones with this highly responsive and versatile distortion pedal.
+Users find the Danelectro D-1 Fab Distortion simple and effective.
 
 ## Sources checked
 1. Danelectro Fab Distortion - Reverb: https://reverb.com/p/danelectro-fab-distortion
@@ -38,8 +38,9 @@ Experience a range of screaming and crushing tones with this highly responsive a
 3. Danelectro D-1 Fab Distortion | AllThePedals: https://allthepedals.com/pedals/danelectro-d-1-fab-distortion/
 4. Danelectro D-1 Fab Distortion - Tonebox.com: https://www.tonebox.com/pedal/danelectro-d-1-fab-distortion
 5. Used Danelectro Fab Distortion Effect Pedal - Guitar Center: https://www.guitarcenter.com/Used/Danelectro/Used-Danelectro-Fab-Distortion-Effect-Pedal-122801339.gc
-6. Danelectro D-1 Fab Distortion Review @TopGuitars.info: https://www.topguitars.info/danelectro-d-1-fab-distortion-review/
+6. https://www.topguitars.info/danelectro-d-1-fab-distortion-review/: https://www.topguitars.info/danelectro-d-1-fab-distortion-review/
 7. DANELECTRO FAB DISTORTION D-1 INSTRUCTIONS Pdf Download | ManualsLib: https://www.manualslib.com/manual/1745673/Danelectro-Fab-Distortion-D-1.html
+8. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.manualslib.com%2Fmanual%2F1745673%2FDanelectro-Fab-Distortion-D-1.html&description=DANELECTRO+FAB+DISTORTION+D-1+INSTRUCTIONS+Pdf+Download&media=https%3A%2F%2Fdata2.manualslib.com%2Ffirst-image%2Fi35%2F175%2F17457%2F1745673%2Fdanelectro-fab-distortion-d-1.jpg
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
