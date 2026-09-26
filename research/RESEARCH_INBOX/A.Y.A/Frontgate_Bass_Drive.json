@@ -1,0 +1,15 @@
+{
+  "builder":"A.Y.A",
+  "pedal":"Frontgate Bass Drive",
+  "status":"VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count":4,
+  "sources":[
+    {"url":"https://www.effectsdatabase.com/model/aya/frontgate","title":"A.Y.A Frontgate Bass Drive | Effects Database","source_kind":"effects_database"},
+    {"url":"https://aya.la.coocan.jp/products_jap.html","title":"AYA tokyo japan製品紹介","source_kind":"manufacturer"},
+    {"url":"https://www.effectsdatabase.com/interviews/brands/aya","title":"A.Y.A: Makoto Kawai | Effects Database","source_kind":"interview"},
+    {"url":"https://soundmania.jp/blog/hasegawa-kaonashi-bass-gear","title":"FrontGate BassDrive current use reference, 2026","source_kind":"secondary_current"}
+  ],
+  "verified_points":["bass-specific overdrive","Drive/Treble/Bass/Vol controls","low-end retention as Drive rises","two-level internal gain switch","internal switch is explicitly not a clipping-diode selector","true bypass","DC input and no battery","9V center-negative power","preamp-like use with high-output pickups","FrontGate naming/artwork tied to Otemon flowering quince","Makoto Kawai builder commentary about retaining a fat sound while crunching"],
+  "unknowns":["exact transistor part number","exact diode/device","schematic and component values","factory release date"],
+  "next_action":"Merge deep research status through the canonical research pipeline; keep photo state independent from research state."
+}
