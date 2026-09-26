@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-26T00:05:09.152416+00:00",
+  "generated_at": "2026-09-26T00:11:50.567613+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,164 +10,192 @@
     "pictured": 2199,
     "complete": 2199,
     "research_pending": 1523,
-    "surface_ready": 3761
+    "deep_research_pending": 3760,
+    "deep_researched": 0,
+    "surface_ready": 2238
   },
   "next_target": {
     "builder": "D&M",
     "pedal": "Distortion",
     "catalog_type": "",
-    "research_record": ""
+    "research_record": "",
+    "research_level": "missing"
   },
   "working_set": [
     {
       "builder": "D&M",
       "pedal": "Distortion",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Danelectro",
       "pedal": "Blue Paisley PureDrive",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Danelectro",
       "pedal": "Fab Tone / FAB Tone Distortion",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Daredevil Pedals",
       "pedal": "L.S.D",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Daredevil Pedals",
       "pedal": "Necros Fuzz / Distortion",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Daredevil Pedals",
       "pedal": "Ron Asheton Real Cool Fuzz",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Daredevil Pedals",
       "pedal": "the Chicago Rat — selectable high-gain distortion mode",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Daredevil Pedals",
       "pedal": "the Chicago Rat — selectable over-clipped fuzz mode",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "DeadastronautFX",
       "pedal": "EasyDriver",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "DeadastronautFX",
       "pedal": "Skinwalker",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Death By Audio",
       "pedal": "Echo Dream 2 (fuzz function)",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Death By Audio",
       "pedal": "Sonic Incinerator",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Demeter",
       "pedal": "DRV-2 Uberdriveulator",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Devi Ever : FX",
       "pedal": "Torn's Peaker",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Devi Ever : FX",
       "pedal": "Tri-Fuzz",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "DigiTech",
       "pedal": "Redline Modified Overdrive",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "DigiTech",
       "pedal": "X-Series Distortion Factory DF-7",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "DigiTech",
       "pedal": "X-Series Hot Rod Distortion",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Dirty Boy",
       "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Dirty Boy",
       "pedal": "JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "Dirty Boy",
       "pedal": "None promoted in this block",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "DLS Effect",
       "pedal": "Reckless Driver",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "DOD Electronics",
       "pedal": "Bass Overdrive (FX91)",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "DOD Electronics",
       "pedal": "Carcosa Fuzz",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     },
     {
       "builder": "DOD Electronics",
       "pedal": "D&S / D&S II Distortion & Sustainer",
       "catalog_type": "",
-      "research_record": ""
+      "research_record": "",
+      "research_level": "missing"
     }
   ]
 }
