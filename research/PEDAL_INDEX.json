@@ -729,8 +729,8 @@
         "https://cdn.rockboard.de/common/image_fc1c0fc8-92d5-4a74-94f9-4cbe8d448238.webp"
       ],
       "image": "./assets/pedals/accel-audio/vintage-scream-in-overdrive/primary.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Acid Age Electronics",
@@ -742,8 +742,8 @@
       "source_page": "https://www.premierguitar.com/gear/acid-age-electronics-acid-pig-distortion-review",
       "research_record": "./research/pedals/Acid Age Electronics/Acid Pig - LM308 Distortion Unit.md",
       "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25505994&quality=70&width=980",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Acid Fuzz",
@@ -767,8 +767,8 @@
         "https://cdn.shopify.com/s/files/1/2728/1702/files/MKI-Main.jpg?15304611839848998193="
       ],
       "image": "./assets/pedals/acid-fuzz/acid-fuzzer-mki/primary.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Acid Fuzz",
@@ -781,8 +781,8 @@
       "research_record": "./research/pedals/Acid Fuzz/Italian Fuzz.md",
       "image_source_page": "https://www.acidfuzz.com/products/italian-fuzz-vintage-series",
       "image_source_url": "https://www.acidfuzz.com/cdn/shop/products/Italian_Fuzz_Vintage_Series_1794291fb8ab4bdb9cd4ba64d07c565d_orig_grande.jpg?v=1515819465",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Acid Fuzz",
@@ -795,8 +795,8 @@
       "image_source_url": "https://www.acoguitar.com/wp-content/uploads/2025/11/1764445019/analogman-sun-bender-mk1-5-fuzz-pedal-1764445024.webp",
       "image_source_page": "https://www.acoguitar.com/product/analogman-sun-bender-mk1-5-fuzz-pedal/",
       "image": "./assets/pedals/acid-fuzz/mk1-5/primary.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Acid Fuzz",
@@ -808,8 +808,8 @@
       "source_page": "https://www.acidfuzz.com/products/acid-fuzz-face-nkt-275-germanium",
       "research_record": "./research/pedals/Acid Fuzz/NKT275 Acid Fuzz Face.md",
       "image_source_url": "https://www.acidfuzz.com/cdn/shop/products/Acid_Fuzz_Face_NKT_275_Germanium_limited_teardrop_edition_35d906dad1b6405c9dbf02e3dd365c99_orig_200x200.jpg?v=1515817390",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Acid Fuzz",
@@ -828,8 +828,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 283,
       "image_source_url": "https://rvb-img.reverb.com/i/s--tOL_JcUD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/y88fklx0v3qtryjqwrnl.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Acid Fuzz",
@@ -841,8 +841,8 @@
       "source_page": "https://www.acidfuzz.com/products/selmer-buzz-tone",
       "research_record": "./research/pedals/Acid Fuzz/Selmer Buzz Tone.md",
       "image_source_url": "https://www.acidfuzz.com/cdn/shop/products/Selmer_Buzz_Tone_6de2291f221f4938810c9cec4eab83f2_orig_grande.jpg?v=1515818430",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Acid Fuzz",
@@ -854,8 +854,8 @@
       "source_page": "https://www.acidfuzz.com/products/sonic-boom-p2p",
       "research_record": "./research/pedals/Acid Fuzz/Sonic Boom.md",
       "image_source_url": "https://www.acidfuzz.com/cdn/shop/products/Sonic_Boom_p2p_1966f8e93a24444f87d8b8101952f115_orig_grande.jpg?v=1774752691",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Acid Fuzz",
@@ -867,8 +867,8 @@
       "source_page": "https://www.acidfuzz.com/products/the-zoink-machine",
       "research_record": "./research/pedals/Acid Fuzz/The Zoink Machine.md",
       "image_source_url": "https://www.acidfuzz.com/cdn/shop/products/The_Zoink_Machine_ed1785a6c53c400e80450bb71f166e56_orig_grande.jpg?v=1515796833",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Acid Fuzz",
