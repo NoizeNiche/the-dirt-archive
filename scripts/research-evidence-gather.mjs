@@ -323,12 +323,13 @@ async function targetRecord(builder,pedal,type){
   for(const batch of minedLinks){
     for(const x of batch || []) if(!found.has(x.url)) found.set(x.url,x);
   }
-  const knownHosts = new Set(urls.map(host).filter(Boolean));
-  // Curated/verified targets commonly arrive with two or more exact source
-  // hosts already wired in. Once that diversity exists, broad search adds a
-  // lot of latency and very little identity value, so reserve search-engine
-  // work for targets that still need discovery.
-  if(knownHosts.size < 2){
+  // Only count hosts that already produced verified cached evidence as
+  // established coverage. Merely having two override URLs is not enough:
+  // either URL may be dead, blocked, or redirect to an unusable page. This
+  // prevents curated leads from accidentally suppressing the discovery
+  // search that can supply a second independent source.
+  const cachedHosts = new Set([...verifiedCache.keys()].map(host).filter(Boolean));
+  if(cachedHosts.size < 2){
     const queryResults = await boundedMap(queries, 3, q => search(q));
     for(const batch of queryResults){
       for(const x of batch || []) if(!found.has(x.url)) found.set(x.url,x);
