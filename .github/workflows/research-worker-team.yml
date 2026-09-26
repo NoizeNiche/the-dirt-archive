@@ -250,24 +250,24 @@ jobs:
           )"
           publication_actions=$((created_records+deepened_research))
           echo "Research publication gate: created_records=$created_records; deepened_research=$deepened_research; staged=$staged_research; publication_actions=$publication_actions; orphan_adoptions=$orphan_adoptions; genuinely_new_links=$genuinely_new_links; created_paths_missing=$created_paths_missing."
-          if [ "$staged_research" -ne "$publication_actions" ]; then
+          if [ "${staged_research:-0}" -ne "${publication_actions:-0}" ]; then
             echo "ERROR: foreman admission count does not match canonical records created or deepened by this pass."
             exit 1
           fi
-          if [ "$created_paths_missing" -ne 0 ]; then
+          if [ "${created_paths_missing:-0}" -ne 0 ]; then
             echo "ERROR: one or more canonical research files created by this pass were not linked into the canonical tracker."
             exit 1
           fi
-          if [ "$created_records" -gt 0 ] && [ "$delta" -ne "$created_records" ]; then
+          if [ "${created_records:-0}" -gt 0 ] && [ "${delta:-0}" -ne "${created_records:-0}" ]; then
             echo "ERROR: canonical research count delta does not match the number of genuinely new research records created by this pass."
             exit 1
           fi
-          if [ "$delta" -ne "$newly_linked" ]; then
+          if [ "${delta:-0}" -ne "${newly_linked:-0}" ]; then
             echo "ERROR: canonical research count delta does not match newly linked research records."
             exit 1
           fi
           echo "Deep research updates accepted in this pass: $deepened_research."
-          if [ "$created_records" -eq 0 ] && [ "$deepened_research" -gt 0 ]; then
+          if [ "${created_records:-0}" -eq 0 ] && [ "${deepened_research:-0}" -gt 0 ]; then
             echo "Canonical research depth advanced without changing the research-linked count."
           fi
 
@@ -289,7 +289,7 @@ jobs:
                 echo "Waiting for production deployment containing $published_sha."
                 deadline=$((SECONDS+600))
                 git fetch origin main --quiet
-                while [ "$SECONDS" -lt "$deadline" ]; do
+                while [ "${SECONDS:-0}" -lt "${deadline:-0}" ]; do
                   deployed="$(gh run list --workflow deploy-pages.yml --branch main --limit 20 --json databaseId,headSha,status,conclusion --jq '.[] | select(.status=="completed" and .conclusion=="success") | "\(.databaseId) \(.headSha)"' | while read -r run_id deployed_sha; do
                     [ -n "$deployed_sha" ] || continue
                     if git merge-base --is-ancestor "$published_sha" "$deployed_sha" 2>/dev/null; then
@@ -347,10 +347,10 @@ jobs:
           )"
           delta="${{ steps.publish.outputs.canonical_delta }}"
           deepened="${{ steps.publish.outputs.deepened_research }}"
-          if [ "$remaining" -gt 0 ] && { [ "${delta:-0}" -gt 0 ] || [ "${deepened:-0}" -gt 0 ]; }; then
+          if [ "${remaining:-0}" -gt 0 ] && { [ "${delta:-0}" -gt 0 ] || [ "${deepened:-0}" -gt 0 ]; }; then
             echo "Canonical research moved by $delta; active frontier has $remaining target(s). Dispatching next bounded pass."
             gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/research-worker-team.yml/dispatches" -f ref=main
-          elif [ "$remaining" -gt 0 ]; then
+          elif [ "${remaining:-0}" -gt 0 ]; then
             echo "No canonical research movement in this pass; stopping self-chain to avoid retry thrash."
           else
             echo "Active research frontier is empty; stopping self-chain."
