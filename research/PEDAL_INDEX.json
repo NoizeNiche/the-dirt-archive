@@ -2940,8 +2940,8 @@
       "source_page": "https://topshelfinstruments.com.au/products/amptweaker-tight-drive-pro-overdrive-pedal",
       "research_record": "./research/pedals/Amptweaker/Tight_Drive_Pro.md",
       "image_source_url": "https://topshelfinstruments.com.au/cdn/shop/products/IMG_9173015_1100x.jpg?v=1603932447",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -43130,8 +43130,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Organic Sounds/Organic Drive \"Ares\".md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Organic Sounds",
@@ -44726,8 +44726,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/SBGO Effects/Dark Bass Anger.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "SBGO Effects",
