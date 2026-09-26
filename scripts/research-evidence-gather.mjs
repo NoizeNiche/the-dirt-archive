@@ -238,12 +238,14 @@ function signals(s){
   for(const [k,re] of Object.entries(rules)) out[k]=[...new Set(String(s||'').match(re)||[])].slice(0,24);
   return out;
 }
-function sourceKind(builder,url,exactCatalogUrls=new Set()){
+function sourceKind(builder,url,exactCatalogUrls=new Set(),originalUrl=''){
   const h=host(url), hc=h.replace(/[^a-z0-9]/g,''), bc=norm(builder).replace(/[^a-z0-9]/g,'');
   if(h.includes('effectsdatabase')) return 'effects_database';
   if(h.includes('reverb.com')) return 'reverb';
   if(bc && hc.includes(bc)) return 'manufacturer';
-  if(exactCatalogUrls.has(url)) return 'catalog_verified';
+  // Curated research overrides remain catalog-verified even when the source
+  // redirects to a new canonical URL. Preserve the stronger provenance class.
+  if(exactCatalogUrls.has(url) || exactCatalogUrls.has(originalUrl)) return 'catalog_verified';
   return 'other';
 }
 function romanAscii(v){
@@ -372,7 +374,7 @@ async function targetRecord(builder,pedal,type){
       url:u,host:host(u),title:info.title,h1:info.h1,description:info.description,
       snippet:item.x.title,bodyExcerpt:info.body,identity:f,
       signals:signals(fullText),
-      sourceKind:cached?.source_kind || sourceKind(builder,u,exactCatalogUrls),
+      sourceKind:cached?.source_kind || sourceKind(builder,u,exactCatalogUrls,item.x.url),
       collectedAt:new Date().toISOString(),
       reusedVerifiedEvidence:Boolean(!p && cached)
     });
