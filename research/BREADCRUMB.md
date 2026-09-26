@@ -1,3 +1,15 @@
+## Viewer search/facet checkpoint - September 26, 2026
+
+The first structured technical-search layer is now implemented on the viewer and wired into the archive publication pipeline:
+- Technical filtering now supports explicitly documented **Transistor** types and **Clipping** device types, including Germanium, Silicon, Mixed, and the other documented component categories represented by the research index.
+- Technical filter counts recompute against the other active archive filters, so the visitor sees the size of each available technical slice rather than static global counts.
+- Technical selections persist in the URL and participate in browser Back/history just like dirt type, builder, and text search.
+- Search now also consults the explicit `Identity`, `Archive parent`, and `Catalog type` fields from researched records, making documented circuit-family or historical names searchable without treating them as model-name aliases.
+- A generated `research/PEDAL_FACETS.json` index is built from research markdown during deployment and refreshed by research publication workflows. The generator intentionally omits undocumented component values instead of guessing.
+- Deployment browser auditing now loads the generated facet index, selects a real documented technical canary, and verifies that every rendered result actually carries the selected facet value. Mobile drawer opening is also covered by the browser audit.
+
+The next planned viewer layer is **additional evidence-safe facets**, especially Power and control/feature data where the research records support a stable extraction format. Circuit-family browsing and alias-aware search remain larger follow-on features because they need stronger normalization rules than the first component facet pass.
+
 ## Viewer UX checkpoint - September 26, 2026
 
 The viewer-side health pass has now implemented the first low-risk archive improvements:
