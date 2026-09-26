@@ -37050,8 +37050,8 @@
       "image": "./assets/pedals/khdk-electronics/abyss/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Abyss.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -46237,8 +46237,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Violet Menace.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
