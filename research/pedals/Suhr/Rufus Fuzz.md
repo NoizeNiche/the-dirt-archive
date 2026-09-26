@@ -1,23 +1,38 @@
 # Suhr — Rufus Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Rufus Fuzz
 - **Builder:** Suhr
-- **Pedal:** Rufus Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Suhr's Rufus Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Rufus Fuzz** by **Suhr** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Rufus is an equal opportunity fuzz pedal that plays well with guitars and basses - no need to worry about losing your bottom-end here.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Beyond Traditional Designed for ultimate versatility, Rufus is equipped with a full featured 3-Band EQ that gives you the ability to easily shape Rufus' tone without compromising the sound of your guitar or bass rig.
+Rufus is an equal opportunity fuzz pedal that plays well with guitars and basses - no need to worry about losing your bottom-end here.
+No funny business buffers welcome Unlike traditional fuzz pedals, Rufus' input was optimized to accept the output of a buffered device such as a tuner or other pedal effects without sacrificing the interaction between your guitar and Rufus.
+
+## Sources checked
+1. Suhr Rufus Fuzz | Effects Database: https://www.effectsdatabase.com/model/suhr/rufus
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
