@@ -8,7 +8,8 @@ a{color:inherit}
   padding:12px;border-radius:22px;background:#171716;color:#f7f5ef;
   box-shadow:0 20px 50px rgba(0,0,0,.12)
 }
-.pageSidebarTop{padding:8px 8px 14px}\n.filterSummary{display:none}
+.pageSidebarTop{padding:8px 8px 14px}
+.filterSummary{display:none}
 .filterSummaryTitle{font-size:.68rem;font-weight:950;text-transform:uppercase;letter-spacing:.08em}
 .filterSummaryState{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#a8a69f;font-size:.62rem;font-weight:850}
 .filterSummary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
@@ -59,7 +60,8 @@ main{padding:20px 0 60px}
 .action{display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--ink);border-radius:999px;background:#fff;padding:10px 14px;text-decoration:none;font-size:.72rem;font-weight:950;text-transform:uppercase;letter-spacing:.05em}
 .action.primary{background:var(--accent)}
 .variantSection{margin-top:20px;padding-top:18px;border-top:1px solid var(--line)}
-.variantGrid,.colorwayGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}\n.relatedGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.variantGrid,.colorwayGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.relatedGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
 .relatedCard{display:block;border:1px solid var(--line);border-radius:12px;background:#fff;text-decoration:none;overflow:hidden}
 .relatedCard:hover{border-color:#aaa49a;box-shadow:0 8px 18px rgba(0,0,0,.06)}
 .relatedThumb{display:grid;place-items:center;aspect-ratio:4/3;background:#c6c7c1;color:#666861;font-size:.58rem;font-weight:900;text-align:center}
