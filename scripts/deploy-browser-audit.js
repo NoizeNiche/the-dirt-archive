@@ -347,20 +347,25 @@ const path = require('node:path');
               if (!researchedResult.photoAlt.includes(String(positiveResearchCanary.pedal))) throw new Error('Pedal photo alt text is missing the catalog-derived pedal identity.');
             }
 
-            // No-research / no-photo fallback.
-            const noResearchEntry = (catalog.pedals || []).find(
-              x => x.catalog_role !== 'variation' && !x.research_record
+            // Surface/deep two-stage fallback. Every pedal now has at least
+            // a surface record, so deployment must verify that a surface record
+            // renders as an honest baseline rather than expecting a blank page.
+            const surfaceEntry = (catalog.pedals || []).find(
+              x => x.catalog_role !== 'variation' && x.research_level === 'surface'
             );
-            if (!noResearchEntry) throw new Error('No unresearchd pedal remains for fallback audit.');
+            if (!surfaceEntry) throw new Error('No surface research record remains for baseline audit.');
             await page.goto(
               'http://127.0.0.1:4173/pedal-detail.html?builder=' +
-              encodeURIComponent(noResearchEntry.company) + '&pedal=' +
-              encodeURIComponent(noResearchEntry.pedal),
+              encodeURIComponent(surfaceEntry.company) + '&pedal=' +
+              encodeURIComponent(surfaceEntry.pedal),
               {waitUntil:'networkidle'}
             );
-            if (!(await page.locator('#research').textContent()).includes('Catalog baseline')) {
-              throw new Error('No-research detail catalog baseline is missing.');
+            const surfaceText = await page.locator('#research').textContent();
+            if (!(surfaceText || '').includes('Surface catalog record')) {
+              throw new Error('Surface detail baseline did not render its explicit surface record.');
             }
+            if (!(surfaceText || '').includes('Deep research status')) {
+              throw new Error('Surface detail baseline is missing its deep-research status.');
 
             const noPhotoEntry = (catalog.pedals || []).find(
               x => x.catalog_role !== 'variation' && x.research_record && !x.image
