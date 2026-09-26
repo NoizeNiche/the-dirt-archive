@@ -66,3 +66,29 @@ The Pet Yeti spans a broad range from near-clean boost through crunch, overdrive
 4. one thousand pedals - Cosmodio Instruments Pet Yeti
 5. Cosmodio - Pet Yeti official demo
 6. Fuzzed Drones - Pet Yeti demo
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+By Marcus Reeve July 19, 2026 What Is Pet Yeti—and Why Does It Matter Now?
+
+### Verified color/finish evidence
+- Feedback is delivered through haptic pulses (via Eccentric Rotating Mass actuator, 120–250 Hz bandwidth), LED color coding (amber = rhythm alert, cobalt blue = intonation, moss green = expression), and optional voice synthesis (using Amazon Polly Neural NTTS with German, English, Japanese, and Mandarin voices).
+- Stunning faceplate artwork by Goldsuit.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+No audio playback is generated—preserving acoustic integrity and preventing masking of the player’s own sound.
+The Pet Yeti analog distortion & fuzz pedal is about harnessing and befriending a monstrous force.
+It delivers extreme, unbridled and sometimes unusual distortion along with the means to scale and sculpt that energy to suit your music and performance.
+
+### Sources checked in this pass
+1. Pet Yeti – Cosmodio Instruments: https://cosmod.io/products/pet-yeti
+2. Cosmodio Instruments Launches Pet Yeti: A New Standard in Expressive, Pedagogically Intelligent Practice Tools | GearStrings: https://gearstrings.com/practice-tips/cosmodio-instruments-launches-pet-yeti
+3. Cosmodio Instruments Pet Yeti Analog Distortion & Fuzz: https://www.unionmusic.com/shop/Pedals-and-Effects/p/Cosmodio-Instruments-Pet-Yeti-Analog-Distortion-Fuzz.htm
+4. Cosmodio Instruments Pet Yeti Analog Distortion & Fuzz Pedal (Dark Doo – Soft Noise Audio: https://softnoiseaudio.com/products/cosmodio-instruments-gravity-well-copy
+5. Cosmodio Instruments - Pet Yeti: https://www.effekt-boutique.de/cosmodio-instruments-pet-yeti.html

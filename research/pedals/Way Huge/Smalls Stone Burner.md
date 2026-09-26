@@ -37,3 +37,20 @@ The Way Huge Smalls Stone Burner Sub Atomic Fuzz will put you in touch with your
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Way Huge's Smalls Stone Burner is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+WM81 Description *LEGACY PRODUCT / NO LONGER IN PRODUCTION This pedal combines ferocious fuzz and thunderous sub octave signals to put you in touch with your freaky side.
+Warranty Information Product Demo The Long Story Playing with the Way Huge Stone Burner Sub Atomic Fuzz is like playing with molten lava—it’s all fun and games until somebody gets scorched.
+The Way Huge Smalls Stone Burner Sub Atomic Fuzz will put you in touch with your freaky side.
+
+### Sources checked in this pass
+1. WAY HUGE® SMALLS™ STONE BURNER™ SUB ATOMIC FUZZ: https://www.jimdunlop.com/way-huge-smalls-stone-burner-sub-atomic-fuzz/
+2. Way Huge Electronics Smalls Stone Burner Sub Atomic Fuzz Effects Pedal Black | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Way-Huge-Electronics/Smalls-Stone-Burner-Sub-Atomic-Fuzz-Effects-Pedal-Black-1500000410173.gc
+3. catalog/override source: https://reverb.com/item/94606135-way-huge-wm81-smalls-stone-burner-sub-atomic-fuzz-2023-present-brown-orange

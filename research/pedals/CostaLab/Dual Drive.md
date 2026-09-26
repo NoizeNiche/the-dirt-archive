@@ -43,3 +43,29 @@ Dual Drive is intended to cover a wide overdrive range, from lighter dynamic enh
 1. CostaLab - Dual Drive
 2. Sugaree Licks - CostaLab Dual Drive
 3. CostaLab SoundCloud - Dual Drive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CostaLab's Dual Drive is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: MK II, MKII.
+
+### Verified transistor/device terms
+- GERMANIUM fuzz.
+
+### Verified diode terms
+- SILICON diode.
+
+### Verified sound evidence
+by CostaLab Website Link Model Number or Name: Dual Drive Distortion Overdrive Circuit Type: Analog Original Price: $199 Excellent Used Price: $155 Year Released: 2015 Alternate Version(s) No Alternate Versions Listed The Dual Drive represents the state of the art of overdrive sound.
+The result is a pedal that allows you to have all the nuances of overdrive in a single box, from the sound of the late 70s to the most modern of today.
+With this function, a second gain circuit is activated that can reach higher levels of overdrive.
+
+### Sources checked in this pass
+1. Dual Drive | CostaLab: https://www.costalab.com/en/shop/product/dual-drive
+2. CostaLab | Dual Drive - Sugaree Licks: https://sugareelicks.com/pedal/costalab-dual-drive/
+3. Stream COSTALAB Dual Drive Funk by CostaLab | Listen online for free on SoundCloud: https://soundcloud.com/costalab/costalab-dual-drive-funk

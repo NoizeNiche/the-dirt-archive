@@ -35,3 +35,23 @@ CostaLab describes Bad Angel as a highly versatile distortion with enough contro
 ## Sources checked
 1. CostaLab - Bad Angel
 2. BoxGuitar - CostaLab Bad Angel
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CostaLab's Bad Angel is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: MK II, MKII.
+
+### Verified transistor/device terms
+- GERMANIUM fuzz.
+
+### Verified diode terms
+- SILICON diode.
+
+### Sources checked in this pass
+1. Bad Angel | CostaLab: https://www.costalab.com/en/shop/product/bad-angel
+2. COSTALAB BAD ANGEL: https://www.boxguitar.com/en/overdrive/4708-costalab-bad-angel.html

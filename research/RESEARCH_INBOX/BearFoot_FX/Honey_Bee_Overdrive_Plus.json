@@ -1,0 +1,25 @@
+{
+  "builder": "BearFoot FX",
+  "pedal": "Honey Bee Overdrive Plus",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/",
+      "title": "Honey Bee Overdrive Plus by BearFoot FX | RockBoard | PedalPedia",
+      "h1": "Honey Bee Overdrive Plus",
+      "excerpt": "Honey Bee Overdrive Plus by BearFoot FX | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE BearFoot FX Honey Bee Overdrive Plus LOG IN TO SUGGEST IMPROVEMENTS OVERDRIVE EQUALIZER BOOSTER Description The Bearfoot FX Honey Bee OD is a highly-regarded overdrive pedal known for its unique tone-shaping capabilities. It features an upper-mid and treble Preamp booster knob, allowing for precise adjustments to its EQ character. This pedal also includes controls for Volume, Drive, and \u201cNature\u201d (Bass), providing a wide range of tonal possibilities. Media Videos Demo by Jim Marciano (EN) Links Facebook Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 5V DC, center negative Current 10mA More pedals from BearFoot FX SWITCHER SWITCHER BearFoot FX ABY Channel Switch FUZZ FUZZ BearFoot FX Arctic White Fuzz BOOSTER BOOSTER BearFoot FX Baby Pink Booster OVERDRIVE OVERDRIVE BearFoot FX BlueBerry Bass Overdrive All BearFoot FX Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/item/66928122-bearfoot-honey-bee-overdrive-plus-sn-18-03-15",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

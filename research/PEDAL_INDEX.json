@@ -7903,8 +7903,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "http://www.chicagomusicexchange.com/cdn/shop/products/bbe-effects-and-pedals-overdrive-and-boost-bbe-green-screamer-overdrive-pedal-u4095989704-29679987064967.jpg?v=1663027325",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BBE",
@@ -8053,8 +8053,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://www.rockboard.de/backgrounds/footer_background.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BearFoot FX",
@@ -8091,8 +8091,8 @@
         "https://cdn.rockboard.de/common/image_0d2ff229-af71-4acf-b745-17310c65231c.webp"
       ],
       "image": "./assets/pedals/bearfoot-fx/honey-bee-overdrive-plus/primary.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BearFoot FX",
@@ -25932,8 +25932,8 @@
       "image": "./assets/pedals/cosmodio-instruments/pet-yeti/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmodio Instruments/Pet Yeti.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cosmosound",
@@ -26030,8 +26030,8 @@
       "image": "./assets/pedals/costalab/bad-angel/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Bad Angel.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CostaLab",
@@ -26056,8 +26056,8 @@
       "image": "./assets/pedals/costalab/custom-muff-evo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Custom Muff EVO.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CostaLab",
@@ -26069,8 +26069,8 @@
       "image": "./assets/pedals/costalab/dual-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Dual Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CostaLab",
@@ -26082,8 +26082,8 @@
       "image": "./assets/pedals/costalab/good-devil/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CostaLab/Good Devil.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CostaLab",
@@ -29162,8 +29162,8 @@
       "image": "./assets/pedals/deadastronautfx/space-patrol/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DeadastronautFX/Space Patrol.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DeadastronautFX",
@@ -33100,8 +33100,8 @@
       "image": "./assets/pedals/fjord-fuzz/thor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Thor.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Flattley",
@@ -35781,8 +35781,8 @@
       "image": "./assets/pedals/jam-pedals/red-muck-mk-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Red Muck mk.2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JAM Pedals",
@@ -35833,8 +35833,8 @@
       "image": "./assets/pedals/jhs-pedals/3-series-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/3 Series Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -36834,8 +36834,8 @@
       "image": "./assets/pedals/keeley-electronics/noble-screamer-overdrive-and-boost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Noble Screamer Overdrive and Boost.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -45245,8 +45245,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Mayonaise MkIII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -46153,8 +46153,8 @@
       "image": "./assets/pedals/stomp-under-foot/sonic-generator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Sonic Generator.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
@@ -46165,8 +46165,8 @@
       "image": "./assets/pedals/stomp-under-foot/sonic-warfare/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Sonic Warfare.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
@@ -46517,8 +46517,8 @@
       "image": "./assets/pedals/suhr/riot-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Suhr/Riot Mini.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Suhr",
@@ -50220,8 +50220,8 @@
       "research_record": "./research/pedals/Way Huge/Pork & Pickle.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--mTOt4iCv--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/v7kkkhqdjtfdr7frz6c5.png",
       "image_source_page": "https://reverb.com/item/92078417-way-huge-wm91-smalls-pork-pickle-bass-overdrive-fuzz-2019-present-black",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
@@ -50258,8 +50258,8 @@
       "research_record": "./research/pedals/Way Huge/Russian-Pickle.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c69914dedd6ec/1790364301234/S1bZNPXkKRhihxBvENea7SiIBOi_3r6y9cpWD.2d3aU-1790364301-1.3.1.1-F.ArVoYf.3jQhFwWLfwHq.V7BjU.1nL509NddpfCXmvN80AuAWNdIpDYJDgVt.ptqVUXKhIAo6VK6RxXoo5KoSAzsviQ2qYdWtrfpfi3AAg6OfgzZhCpzhpXQ7uyv32KKnSkQBkxMebhcUzWSn8pI20BBkjh14u.RvCe7lDsZ1q51QBOI3n75fDKbzqEm2m1oF.J.aDnrAvl1opRXxq0_.IT7C6UYmKq.y9R4XFcaZ3FVPfBBG0FeF38cz7eDzhyKTkihaAiFsP4E_IV.cLj.D2ysL2P25YbfozyIg4OBEDq4pdhsxrlZgXKixPXrgcdO4Q0BBatHqwETzIlmGJA7HQ4n9bxQwZ2SgpvlpO_fRT.yjiWPJaoFRh.6auPmU63X52El3_upkimY4tazPewtT81jHGgPcni9WcpHVClA56xYKRysLhnZtOOC7314dpXbuQhPAmKIjkYt3O0WL6.VDM.v_w6h1wKxF3b9edFwvz_OUX5g9A8YgtIcHn3.LoNRWnFizr0Z21xFXFbSdpQC5dVmCcsQZvTYeJLwBEEUiVaqGGIpEKfLqeQ9oYKVzLtrFRknVAjEJgb8B64Qxz383Jaj5spp4zwH0UBD.1VRCFZmQ4RPlYbOsab_.jBrGk7g2ya3fNzVWd0BltK4.tPDv28l3vDoXTg0PpNwSpNzQvpLBUyVXM4SPonKeGkxStSxcN_O99LWiJ6cdUrTFrFIZnub5tI7_ko8i7eQ1YHSWQ",
       "image_source_page": "https://reverb.com/item/97473107-way-huge-russian-pickle-whe-408",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
@@ -50358,8 +50358,8 @@
       "research_record": "./research/pedals/Way Huge/Smalls STO Overdrive.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4092b30294ad4a8/1790330288897/oIirkItH_UrAJviFd5Q.oekLByMbX0zze62ABtH5.Bc-1790330288-1.3.1.1-ti3rH_aXPGOZeCFGvmzOibggLp0eHDMg8MzDmzxQ_iKeJXrVlI56x28.VO2scnq9o07pfBJn3uxBvs6_ZW9b_ejg43_t0PqadYx4KpoaIIOLQUEmU4OlFG8fFgMYXEVI.nuPNOk_QZplD_k03QoM1.rCNM_en6SntjKhuTa0HlWNQ6gdYQSFYaL14ejxaLH2WM4_JbwcUVrWgdL93bYmhD6zb.FFT6W2Ji2WEH6Ee8UW7As1cEiaWXivrnM1mtWHxF5Q1u3bvJEPO.QHFKQTEkulIw0HKgiZF1qIKjbQDi2QPile38AyX5j341N06_e3tvnjExrakrR5lbqZMxlm_VmQJBfBQhHs2Iykn1K50EZeOnfceAfh4M.kD_ORTPwDry19QvSAuXRFjGXIKa5r4c_S_YVAcXNTaqDRL1Dnqd5hGSUi_.gsElhRRgurg8aZFZL7Ma_u94r_sqxZ9Awal9NKyrQX9NB5Fs6soIwbgfSjA.W1Qvqf9IcUsirt7vosGAhbElcCT0axe0SFLHIx0cYwAbBcFm4b_zjcE9ISiAYF.lzUlOs0a1vRvH.qGATPtxraT0i5uE9wnMcqAROsKBAWCcjm1TO1e_bqkkjWtrdyu5boFx0nkprBPLjAQl.95qUqMwsA.ZCcFJgWKZjtlq9gnkxpl8cg0XZBKbUx4.W1pcflLJa2JOdjk0p04wr9Ue6wXODS._re7jJIXeOJkRxLW9aTfMx_0LOVgiNMfN4",
       "image_source_page": "https://reverb.com/item/92865922-way-huge-wm25-smalls-sto-drive-2021-white",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
@@ -50372,8 +50372,8 @@
       "research_record": "./research/pedals/Way Huge/Smalls Stone Burner.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4092b313d97f939/1790330289040/sK18eeiv1vTg_F1BYIsTZZhYz0uuwJXGGgReeRWJ8EI-1790330289-1.3.1.1-8uRm.uf1nFutwNip1ptpHeFc.jdjL97WnW8S3NAqSm0lgJZeFTktkINjuEWva0Uh7972A7LcrEZZh1Ks1j62J956n7hSDIOdkx3ihlHxJSW47f10g.b.9PZpB7JwdKTI8bc0EzeZpi3UI6QBa950kuRF2eMUPwKxo6m9dS4o8kfgg0tKZwcTayudel2N7FryayWAfpZcK_yLqP.0Nz5FiaaRo3SnoqGZrQMwjC718mM1J3a7GYkeKB8vh9.rmi8QRrMd0xqJsMCHO4DBfTqncFxVaxNScA4X5O4HJ4ENGgB.vlFy5TughFPqZcbdsw1tCBWDAVENaNtoNR5R6doDxFm.Vjj1Un8BDQXYZJcggQwmM9v8MgUazCKTuR7xDfwmp.eFzIGGiiQrSRZMqr9VxHlm5E2Q8xq8LEXBpOAyE0n8X8_hmgwxthNaYFfpuqaOIpufWTptzuJqWYnKzGBQeVHLAbf95jzQRUM1Z52JSsGGNl2IXtMpvFnHlP6IiG9YfYk3gDi9IJpbSxq2RQx1tzwkUFfFfCEqP.hQ7WZuJS3VMafhG3EKrUcj0HWopUhF1Sz0yWbp_2lBvPEY.2ysROK.kMaGgSC7cmNXAJuzjHt6JpIJcHE3B5elJV4LEBcxP.YopGR4WF_wH7.fXKE1hyNNho9OQ5mYdf6FmTsyix61R1cqWdOKhx49LlmJlRwC.pMdsL0F9TxXW7DQMte5DYpeY4zaRW3oFj.3JDFcR20",
       "image_source_page": "https://reverb.com/item/94606135-way-huge-wm81-smalls-stone-burner-sub-atomic-fuzz-2023-present-brown-orange",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
@@ -50386,8 +50386,8 @@
       "research_record": "./research/pedals/Way Huge/Smalls Supa-Lead.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--uHC0hhlY--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/z92mif799i0t60qwljyl.jpg",
       "image_source_page": "https://reverb.com/item/93960195-way-huge-wm31-smalls-supa-lead-overdrive-mkiii-2019-present-black",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
@@ -50436,8 +50436,8 @@
       "research_record": "./research/pedals/Way Huge/Supa-Lead.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4092b1c585cd4a8/1790330285732/x9jaEkHWVmUvyDS_7UtdceUHau.g9wpJp_OikTtntas-1790330285-1.3.1.1-yO0VAnXWgWX8vGWUTZbCkfurA_nUtAtHFqdRLQdEh7K6U1H20JuyOCjz7A8StoAGAeZiKe3m.6TghhcX9rRvpVb4_o9Gd0IU_ximEYSIjAdAuN3b_vBprL8WpwLPnZzqEWseqo2NWm0FhpnYNKFVDbbQZnEMO4s7YWuF8Koeqd3uUmHQSIcOU4qX7Fs7Oe11nLXm4xEv0A8orTHBHCA.U.8RumQAoKS7gdwkN7KFaniOplxfoCBxvTHmXrj9sN05EYrMLkZ.DZFbN7o.J._8KKp57LnOESWcbvh8OnGgUBkcZX3K1ut.E0vmMc0nPqh2zx6pb3u.rcL2Mb4ms7nzX76icfrfa.l7MEqGUlHi9uAlJ3tOCKFbWdYWRdyguhrPm.h2.W56P2dfI3FIP2PDIjLFqRispnqcDlAjNn0JfFaSxqorY8nKuaXSMJNJd2r5VPmwLaBBhyf1Joa98EzGv41VaF17YktrWAkPDlT_cTHmd1reyzrHDTUIVdXomEkeOdNE3m8DTSKUCyPEMfzd_pCnqTaWutKbKyuTzDeMmdI0rc1dk0BkPCSutbSM3WZ1APpA5vZC5doYTDLfVn4nCWjgc7Byj62GktS244FyLZGpwG0nKxoJQMs.SNx1yyHM.qWEbah.lg6e2Pov7Nmwx8gRNQQs_s89Dwx1dK9UQal0NvnqrCg.l.KKP9ZJfO2uv2dxUCpEcvePINqxnSRh_fMck19T39CgQlMKM.CgO5A",
       "image_source_page": "https://reverb.com/item/95571058-way-huge-wm31-smalls-supa-lead-overdrive-mkiii",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",

@@ -35,3 +35,15 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Way Huge's Smalls Supa-Lead is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Review: Way Huge Smalls Supa-Lead | Guitar World: https://www.guitarworld.com/gear/review-way-huge-smalls-supa-lead
+2. Way Huge Smalls Supa-Lead – Sherwood: https://sherwoodmusic.com/products/way-huge-smalls-supa-lead
+3. catalog/override source: https://reverb.com/item/93960195-way-huge-wm31-smalls-supa-lead-overdrive-mkiii-2019-present-black

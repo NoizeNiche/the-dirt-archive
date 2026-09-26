@@ -35,3 +35,23 @@ CostaLab describes the EVO as the next development of the original Custom Muff, 
 ## Sources checked
 1. CostaLab - Custom Muff EVO
 2. Tomassone - CostaLab Custom Muff EVO
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CostaLab's Custom Muff EVO is cataloged as a distortion / fuzz pedal.
+
+### Verified version references
+- The evidence references: MK II, MKII.
+
+### Verified transistor/device terms
+- GERMANIUM fuzz.
+
+### Verified diode terms
+- SILICON diode.
+
+### Sources checked in this pass
+1. Custom Muff EVO | CostaLab: https://www.costalab.com/en/shop/product/custom-muff-evo
+2. COSTALAB CUSTOM MUFF EVO - Tomassone.it: https://www.tomassone.it/ita/costalab-custom-muff-evo.html

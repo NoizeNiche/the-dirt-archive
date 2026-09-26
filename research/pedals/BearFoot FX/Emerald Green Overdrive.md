@@ -43,3 +43,23 @@ Emerald Green Overdrive is aimed at clean-to-medium Vox-style dirt with plenty o
 ## Photo
 - **Archive status:** **No Photo Archived**
 - Exact-model imagery was confirmed visually, but the most directly associated CDN asset was no longer retrievable during the verification pass, so it was not promoted.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Posted on 30th July 2021 27th July 2021 by Stuart First Impression: Bearfoot FX Emerald Green Overdrive Pedal The Bearfoot FX Emerald Green Overdrive pedal.
+
+### Verified color/finish evidence
+- When I originally tried the Emerald Green Distortion , I was using my Blackstar Studio 10 6L6 amplifier.
+
+### Verified sound evidence
+Emerald Green Overdrive by BearFoot FX
+The pedal responds well to playing dynamics and has a unique voicing due to the interaction between the Distortion and Voice controls.
+Posted on 30th July 2021 27th July 2021 by Stuart First Impression: Bearfoot FX Emerald Green Overdrive Pedal The Bearfoot FX Emerald Green Overdrive pedal.
+
+### Sources checked in this pass
+1. Emerald Green Overdrive by BearFoot FX | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Emerald-Green-Overdrive/68975145/
+2. Review by The Gear Page (EN): https://www.thegearpage.net/board/index.php?threads/bearfoot-emerald-green-overdrive-review-long.1494533/
+3. First Impression: Bearfoot FX Emerald Green Overdrive Pedal – HomeToneBlog.com: http://hometoneblog.com/2021/07/30/first-impression-bearfoot-fx-emerald-green-overdrive-pedal/

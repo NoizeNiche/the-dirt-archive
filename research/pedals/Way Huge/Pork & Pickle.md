@@ -37,3 +37,20 @@ This delectable dish combines the warm, soft-clipping tones of the Pork Loin™ 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Way Huge's Pork & Pickle is cataloged as a fuzz / overdrive pedal.
+
+### Verified sound evidence
+WM91 Description Now in a Way Huge Smalls housing, the Pork & Pickle Bass Overdrive & Fuzz serves up a perfectly balanced diet of gnarly tones for bass players who like to get down and dirty.
+Warranty Information The Long Story Now in a Way Huge Smalls housing, the Pork & Pickle Bass Overdrive & Fuzz serves up a perfectly balanced diet of gnarly tones for bass players who like to get down and dirty.
+This delectable dish combines the warm, soft-clipping tones of the Pork Loin™ Overdrive and the rich, fatty tones of the Russian-Pickle™ Fuzz in a single pedalboard-friendly package.
+
+### Sources checked in this pass
+1. WAY HUGE® SMALLS™ PORK & PICKLE™ OVERDRIVE & FUZZ - Dunlop: https://www.jimdunlop.com/way-huge-smalls-pork-pickle-overdrive-fuzz/
+2. Way Huge Pork & Pickle Bass Overdrive – United States small facebook email pinterest whatsapp: https://www.thomannmusic.com/way_huge_pork_pickle_bass_overdrive.htm
+3. catalog/override source: https://reverb.com/item/92078417-way-huge-wm91-smalls-pork-pickle-bass-overdrive-fuzz-2019-present-black

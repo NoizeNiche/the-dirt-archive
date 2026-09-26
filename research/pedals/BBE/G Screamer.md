@@ -45,3 +45,19 @@ The G Screamer is voiced for tighter, more focused overdrive and distortion, wit
 ## Photo
 - **Archive status:** **No Photo Archived**
 - Exact-model imagery was confirmed visually, but no stable directly retrievable image asset met the archive's photo standard during this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Gus' new G Screamer signature overdrive is a thundering example.
+
+### Verified sound evidence
+BBE OG-1 G Screamer - Gus G signature Overdrive
+Gus' new G Screamer signature overdrive is a thundering example.
+For years, the BBE Green Screamer was Gus' overdrive pedal of choice.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.guitarcenter.com/BBE/Used-BBE-G-Screamer-OG1-Gus-G-Signature-Overdrive-Effect-Pedal-121885358.gc
+2. BBE OG-1 G Screamer - Gus G signature Overdrive | Effects Database: https://www.effectsdatabase.com/model/bbe/gscreamer

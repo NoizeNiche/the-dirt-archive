@@ -1,0 +1,25 @@
+{
+  "builder": "BBE",
+  "pedal": "G Screamer",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.guitarcenter.com/BBE/Used-BBE-G-Screamer-OG1-Gus-G-Signature-Overdrive-Effect-Pedal-121885358.gc",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.guitarcenter.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/bbe/gscreamer",
+      "title": "BBE OG-1 G Screamer - Gus G signature Overdrive | Effects Database",
+      "h1": "BBE OG-1 G Screamer - Gus G signature Overdrive",
+      "excerpt": "BBE OG-1 G Screamer - Gus G signature Overdrive | Effects Database Skip to navigation Brands \u25bc 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types \u25bc boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries \u25bc (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by \u25bc Enclosure type Modulation type Special \u25ba Classics Eye candy Funny Vaporware Weird Random brand Random effect Events \u25ba NAMM Musikmesse Music China Guitar Summit More... \u25bc Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand B... BBE Sound browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal events 2013 NAMM 2013 BBE OG-1 G Screamer - Gus G signature Overdrive Published on January 25, 2013 BBE Sound overdrive pedal NAMM 2013 NAMM 2013 NAMM 2013 Information BBE Sound The music of Gus G and his band Firewind can be described as melodic, soaring and punishing - in short, metal masterpieces. But just as Gus is shaping the bleeding edge of metal, he is deeply passionate about its roots, as evidenced by his scoring the coveted gig as guitarist for Ozzy Osbourne. Gus' gear reflects his passion, inspired by the classics and updated for a new level of sophistication and musical expression. BBE stompboxes share his ethos, born out of respect and appreciation for the classics while pushing forward, evolving the breed. Gus' new G Screamer signature overdrive is a thundering example. For years, the BBE Green Screamer was Gus' overdrive pedal of choice. But working closely with BBE's legendary mastermind Paul Gagon, Gus has now dialed in his tone still more, for solos that power his vision for the modern metal realm: \"BBE's Green Screamer is the one pedal I always had to have with me. When I'm soloing, the Green Screamer gives me that extra kick I need, a great combination of meaty gain and harmonics that drive my amp's tubes harder for a really thick, punishing tone. But it's not just an old-school wall of distortion. It's complex and sophisticated, never ragged. \"The Green Screamer was working great for me, but I had ideas about how to make it even better for my tone. Paul Gagon and I collaborated and we modified the input driver to the distortion circuit so that more lower-mid harmonics are focused where I want them. Now my new G Screamer pedal lets me drive even more harmonics, and they're focused right where I need them to be for a cleaner, tighter distortion. The G Screamer delivers explosive power with precision. It's my new weapon.\" Want a screaming lead tone like Gus G's? Stomp on a G Screamer and experience his vision for modern metal. Gus G Good \"Want a killer screaming lead tone like mine? Step on a G Screamer! Features include: Gain, level and tone controls Modified classic sequential-diode distortion circuit for focused tone 1MEG Ohms input impedance for proper pickup loading 1",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

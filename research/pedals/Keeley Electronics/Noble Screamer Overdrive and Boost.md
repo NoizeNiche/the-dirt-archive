@@ -1,23 +1,42 @@
 # Keeley Electronics — Noble Screamer Overdrive and Boost
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Noble Screamer Overdrive and Boost
 - **Builder:** Keeley Electronics
-- **Pedal:** Noble Screamer Overdrive and Boost
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Keeley Electronics's Noble Screamer Overdrive and Boost.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Noble Screamer Overdrive and Boost** by **Keeley Electronics** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Keeley Noble Screamer Overdrive and Boost is entirely manufactured at Keeley Electronics and is the first in our new aluminum enclosure.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: v2, v3.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Keeley Electronics Noble Screamer Overdrive and Boost
+This versatile pedal offers two familiar drive circuits alongside two new amp-like distortion options, all in a single, user-friendly unit.
+The Noble Screamer allows guitarists to create unique hybrid sounds, blending classic overdrive effects with innovative new tones.
+
+## Sources checked
+1. Keeley Electronics Noble Screamer Overdrive and Boost | AllThePedals: https://allthepedals.com/pedals/keeley-electronics-noble-screamer-overdrive-and-boost/
+2. Keeley Electronics Noble Screamer Overdrive and Boost: https://shivelbinemusic.com/product/keeley-electronics-noble-screamer-overdrive-and-boost/
+3. Noble Screamer Overdrive and Boost New 4 in 1 Drive from Keeley: https://robertkeeley.com/product/noble-screamer-overdrive-and-boost/
+4. Keeley Noble Screamer: https://www.guitareffectspedals.com/Keeley-Noble-Screamer-p1286.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

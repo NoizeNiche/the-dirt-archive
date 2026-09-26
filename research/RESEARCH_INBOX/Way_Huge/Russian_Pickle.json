@@ -2,21 +2,31 @@
   "builder": "Way Huge",
   "pedal": "Russian-Pickle",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 3,
   "sources": [
     {
       "url": "https://www.jimdunlop.com/way-huge-smalls-russian-pickle-fuzz/",
-      "title": "WAY HUGE® SMALLS™ RUSSIAN-PICKLE™ FUZZ - Dunlop",
-      "h1": "WAY HUGE® SMALLS™ RUSSIAN-PICKLE™ FUZZ",
-      "excerpt": "WM42 Description *LEGACY PRODUCT / NO LONGER IN PRODUCTION Now in a Way Huge Smalls housing, the Russian-Pickle Fuzz MkIII dishes out smooth, creamy fuzz tones in a much more pedalboard-friendly package. This pedal can be powered by a 9-volt battery, a Dunlop ECB003 9-volt adapter, or the DC Brick™, Iso-Brick™, and Mini Iso-Brick™ power supplies (not included). Warranty Information The Long Story Now in a Way Huge Smalls housing, the Russian-Pickle Fuzz dishes out smooth, creamy fuzz tones in a much more pedalboard-friendly package. It's got the exact same circuit and controls as the original, so you can keep trembling the earth with the same punchy midrange and fat bottomed thunder. Whether you're going for '90s-era grunge, swinging stoner grooves, or raw two-piece garage rock riffage, the Russian-Pickle Fuzz is the perfect comrade for your pedalboard. Product Demo In The News CROSS SELL Feed",
-      "host": "www.jimdunlop.com"
+      "title": "WAY HUGE\u00ae SMALLS\u2122 RUSSIAN-PICKLE\u2122 FUZZ - Dunlop",
+      "h1": "WAY HUGE\u00ae SMALLS\u2122 RUSSIAN-PICKLE\u2122 FUZZ",
+      "excerpt": "WM42 Description *LEGACY PRODUCT / NO LONGER IN PRODUCTION Now in a Way Huge Smalls housing, the Russian-Pickle Fuzz MkIII dishes out smooth, creamy fuzz tones in a much more pedalboard-friendly package. This pedal can be powered by a 9-volt battery, a Dunlop ECB003 9-volt adapter, or the DC Brick\u2122, Iso-Brick\u2122, and Mini Iso-Brick\u2122 power supplies (not included). Warranty Information The Long Story Now in a Way Huge Smalls housing, the Russian-Pickle Fuzz dishes out smooth, creamy fuzz tones in a much more pedalboard-friendly package. It's got the exact same circuit and controls as the original, so you can keep trembling the earth with the same punchy midrange and fat bottomed thunder. Whether you're going for '90s-era grunge, swinging stoner grooves, or raw two-piece garage rock riffage, the Russian-Pickle Fuzz is the perfect comrade for your pedalboard. Product Demo In The News CROSS SELL Feed",
+      "host": "www.jimdunlop.com",
+      "source_kind": "catalog_verified"
     },
     {
       "url": "https://www.premierguitar.com/gear/reviews/quick-hit-way-huge-russian-pickle-review",
       "title": "Quick Hit: Way Huge Russian-Pickle Review - Premier Guitar",
       "h1": "",
-      "excerpt": "Quick Hit: Way Huge Russian-Pickle Review Way Huge uses more midrange to recast the ’90s Muff mold. By Charles Saufley Jun 08, 2017 Charles Saufley Charles Saufley is a writer and musician from Northern California. He has served as gear editor at Premier Guitar since 2010 and held the same position at Acoustic Guitar Magazine from 2006 to 2009. Charles also records and performs with Meg Baird, Espers, and Heron Oblivion for Drag City and Sub Pop. See Full Bio",
-      "host": "www.premierguitar.com"
+      "excerpt": "Quick Hit: Way Huge Russian-Pickle Review Way Huge uses more midrange to recast the \u201990s Muff mold. By Charles Saufley Jun 08, 2017 Charles Saufley Charles Saufley is a writer and musician from Northern California. He has served as gear editor at Premier Guitar since 2010 and held the same position at Acoustic Guitar Magazine from 2006 to 2009. Charles also records and performs with Meg Baird, Espers, and Heron Oblivion for Drag City and Sub Pop. See Full Bio",
+      "host": "www.premierguitar.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/item/97473107-way-huge-russian-pickle-whe-408",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

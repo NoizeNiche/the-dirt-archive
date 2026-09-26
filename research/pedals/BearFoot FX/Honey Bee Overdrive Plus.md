@@ -42,3 +42,18 @@ The Plus keeps the low-gain, touch-sensitive Honey Bee concept while adding a sw
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://rvb-img.reverb.com/i/s--LLexNzWV--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cbp3ifzmgocobxxzp7ph.jpg
 - **Source page:** https://reverb.com/item/78332511-bearfoot-fx-honey-bee-plus-2022ish-gold-flake
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BearFoot FX's Honey Bee Overdrive Plus is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Honey Bee Overdrive Plus by BearFoot FX
+This pedal also includes controls for Volume, Drive, and “Nature” (Bass), providing a wide range of tonal possibilities.
+
+### Sources checked in this pass
+1. Honey Bee Overdrive Plus by BearFoot FX | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/
+2. catalog/override source: https://reverb.com/item/66928122-bearfoot-honey-bee-overdrive-plus-sn-18-03-15

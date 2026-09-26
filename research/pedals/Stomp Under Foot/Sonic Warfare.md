@@ -39,3 +39,26 @@ Known for rugged hand-wired builds and deeply idiosyncratic designs — includin
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+About Stomp Under Foot Sonic Warfare Review: Product Background Stomp Under Foot (SUF) is a small-batch US-based boutique pedal manufacturer founded in 2008 by engineer and musician Jeff Wissink in Portland, Oregon.
+
+### Verified color/finish evidence
+- Known for rugged hand-wired builds and deeply idiosyncratic designs — including the revered Phantom fuzz and Black Hole delay — SUF prioritizes circuit-level innovation over market conformity.
+- First Impressions: Build Quality, Initial Setup, Design Unboxing reveals a 4.5" × 4.5" × 2.25" enclosure milled from 6061 aluminum, powder-coated in matte black with laser-etched white labeling.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+It excels where texture, unpredictability, and physical interaction matter most — not as a 'set-and-forget' delay, but as an instrument in its own right.
+Known for rugged hand-wired builds and deeply idiosyncratic designs — including the revered Phantom fuzz and Black Hole delay — SUF prioritizes circuit-level innovation over market conformity.
+The Sonic Warfare launched in late 2021 as their first dedicated granular processing platform, developed in response to demand from noise artists, post-rock guitarists, and modular synth users seeking granular capabilities outside of DAWs or expensive rack units.
+
+### Sources checked in this pass
+1. Stomp Under Foot Sonic Warfare Review: Deep Dive for Guitarists & Sound Designers | GearStrings: https://gearstrings.com/gear-reviews/stomp-under-foot-sonic-warfare-review
+2. Stomp Under Foot Sonic Warfare Review - Premier Guitar: https://www.premierguitar.com/gear/stomp-under-foot-sonic-warfare-review

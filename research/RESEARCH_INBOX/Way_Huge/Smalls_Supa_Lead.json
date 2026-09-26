@@ -2,21 +2,31 @@
   "builder": "Way Huge",
   "pedal": "Smalls Supa-Lead",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 3,
   "sources": [
     {
       "url": "https://www.guitarworld.com/gear/review-way-huge-smalls-supa-lead",
       "title": "Review: Way Huge Smalls Supa-Lead | Guitar World",
       "h1": "",
       "excerpt": "",
-      "host": "www.guitarworld.com"
+      "host": "www.guitarworld.com",
+      "source_kind": "catalog_verified"
     },
     {
       "url": "https://sherwoodmusic.com/products/way-huge-smalls-supa-lead",
-      "title": "Way Huge Smalls Supa-Lead – Sherwood",
+      "title": "Way Huge Smalls Supa-Lead \u2013 Sherwood",
       "h1": "",
       "excerpt": "",
-      "host": "sherwoodmusic.com"
+      "host": "sherwoodmusic.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/item/93960195-way-huge-wm31-smalls-supa-lead-overdrive-mkiii-2019-present-black",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

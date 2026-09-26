@@ -39,3 +39,25 @@ CostaLab's current product description emphasizes the feel of a true tube-amplif
 2. BoxGuitar - CostaLab Good Devil
 3. RockBoard PedalPedia - Good Devil
 4. CostaLab SoundCloud - Good Devil
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CostaLab's Good Devil is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: MK II, MKII.
+
+### Verified transistor/device terms
+- GERMANIUM fuzz.
+
+### Verified diode terms
+- SILICON diode.
+
+### Sources checked in this pass
+1. Good Devil | CostaLab: https://www.costalab.com/en/shop/product/good-devil
+2. COSTALAB GOOD DEVIL: https://www.boxguitar.com/en/overdrive/4709-costalab-good-devil.html
+3. Stream COSTALAB Good Devil Funk by CostaLab | Listen online for free on SoundCloud: https://soundcloud.com/costalab/costalab-good-devil-funk
+4. Good Devil by COSTALAB | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/COSTALAB/Good-Devil/611330528/

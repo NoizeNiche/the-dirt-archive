@@ -38,3 +38,20 @@ Riot Mini is a versatile high-gain distortion pedal with the sonic characteristi
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Riot Mini is a versatile high-gain distortion pedal with the sonic characteristics and touch sensitivity of a high quality 100 watt tube amplifier.
+
+### Verified sound evidence
+Distortion Identical circuit and tone of the Original Riot Mini Circuit.
+The Riot Mini has inherited all of the Classic Hi-Gain DNA of it’s larger sibling, only now it’s harnessed in a smaller more compact pedal board friendly design.
+Riot Mini is a versatile high-gain distortion pedal with the sonic characteristics and touch sensitivity of a high quality 100 watt tube amplifier.
+
+### Sources checked in this pass
+1. Riot Mini | Suhr.com: https://www.suhr.com/product/riot-mini/
+2. Suhr Riot Mini review | MusicRadar: https://www.musicradar.com/reviews/suhr-riot-mini
+3. Suhr Riot Mini Black Edition Distortion Effects Pedal | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Suhr/Riot-Mini-Black-Edition-Distortion-Effects-Pedal-1500000438918.gc

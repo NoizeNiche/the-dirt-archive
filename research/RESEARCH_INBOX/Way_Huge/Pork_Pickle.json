@@ -2,21 +2,31 @@
   "builder": "Way Huge",
   "pedal": "Pork & Pickle",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 3,
   "sources": [
     {
       "url": "https://www.jimdunlop.com/way-huge-smalls-pork-pickle-overdrive-fuzz/",
-      "title": "WAY HUGE® SMALLS™ PORK & PICKLE™ OVERDRIVE & FUZZ - Dunlop",
-      "h1": "WAY HUGE® SMALLS™ PORK & PICKLE™ OVERDRIVE & FUZZ",
-      "excerpt": "WM91 Description Now in a Way Huge Smalls housing, the Pork & Pickle Bass Overdrive & Fuzz serves up a perfectly balanced diet of gnarly tones for bass players who like to get down and dirty. This pedal can be powered by a 9-volt battery, a Dunlop ECB003 9-volt adapter, or the DC Brick™, Iso-Brick™, and Mini Iso-Brick™ power supplies (not included). Warranty Information The Long Story Now in a Way Huge Smalls housing, the Pork & Pickle Bass Overdrive & Fuzz serves up a perfectly balanced diet of gnarly tones for bass players who like to get down and dirty. This delectable dish combines the warm, soft-clipping tones of the Pork Loin™ Overdrive and the rich, fatty tones of the Russian-Pickle™ Fuzz in a single pedalboard-friendly package. Feed",
-      "host": "www.jimdunlop.com"
+      "title": "WAY HUGE\u00ae SMALLS\u2122 PORK & PICKLE\u2122 OVERDRIVE & FUZZ - Dunlop",
+      "h1": "WAY HUGE\u00ae SMALLS\u2122 PORK & PICKLE\u2122 OVERDRIVE & FUZZ",
+      "excerpt": "WM91 Description Now in a Way Huge Smalls housing, the Pork & Pickle Bass Overdrive & Fuzz serves up a perfectly balanced diet of gnarly tones for bass players who like to get down and dirty. This pedal can be powered by a 9-volt battery, a Dunlop ECB003 9-volt adapter, or the DC Brick\u2122, Iso-Brick\u2122, and Mini Iso-Brick\u2122 power supplies (not included). Warranty Information The Long Story Now in a Way Huge Smalls housing, the Pork & Pickle Bass Overdrive & Fuzz serves up a perfectly balanced diet of gnarly tones for bass players who like to get down and dirty. This delectable dish combines the warm, soft-clipping tones of the Pork Loin\u2122 Overdrive and the rich, fatty tones of the Russian-Pickle\u2122 Fuzz in a single pedalboard-friendly package. Feed",
+      "host": "www.jimdunlop.com",
+      "source_kind": "catalog_verified"
     },
     {
       "url": "https://www.thomannmusic.com/way_huge_pork_pickle_bass_overdrive.htm",
-      "title": "Way Huge Pork & Pickle Bass Overdrive – United States small facebook email pinterest whatsapp",
+      "title": "Way Huge Pork & Pickle Bass Overdrive \u2013 United States small facebook email pinterest whatsapp",
       "h1": "Way Huge Pork & Pickle Bass Overdrive",
-      "excerpt": "Alright! Reject cookies Further info Imprint · Privacy Policy 4.6 out of 5 stars from 17 customer ratings ( 17 ) Start 360° [LEFT][URL=\"https://www.thomannmusic.com/way_huge_pork_pickle_bass_overdrive.htm\"]Way Huge Pork & Pickle Bass Overdrive[/URL][/LEFT][B][/B][LEFT][URL=\"https://www.thomannmusic.com/way_huge_pork_pickle_bass_overdrive.htm\"][IMG]https://thumbs.static-thomann.de/thumb//bdbmagic/pics/prod/479403.jpg[/IMG][/URL][/LEFT]",
-      "host": "www.thomannmusic.com"
+      "excerpt": "Alright! Reject cookies Further info Imprint \u00b7 Privacy Policy 4.6 out of 5 stars from 17 customer ratings ( 17 ) Start 360\u00b0 [LEFT][URL=\"https://www.thomannmusic.com/way_huge_pork_pickle_bass_overdrive.htm\"]Way Huge Pork & Pickle Bass Overdrive[/URL][/LEFT][B][/B][LEFT][URL=\"https://www.thomannmusic.com/way_huge_pork_pickle_bass_overdrive.htm\"][IMG]https://thumbs.static-thomann.de/thumb//bdbmagic/pics/prod/479403.jpg[/IMG][/URL][/LEFT]",
+      "host": "www.thomannmusic.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/item/92078417-way-huge-wm91-smalls-pork-pickle-bass-overdrive-fuzz-2019-present-black",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
