@@ -2388,8 +2388,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0310/users/64f9db9edda92790c82925a30059eb6f9c267c15/i-img1200x882-1666425447cwthw545373.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alen Geere",
@@ -37937,8 +37937,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Redemptionist.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
@@ -51225,8 +51225,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Fuzz Factory.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",
