@@ -1,201 +1,201 @@
 {
   "version": "catalog-research-phase-v1",
-  "generated_at": "2026-09-26T00:11:50.567613+00:00",
+  "generated_at": "2026-09-26T00:20:12.688647+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
-    "researched": 2238,
-    "pictured": 2199,
-    "complete": 2199,
-    "research_pending": 1523,
+    "researched": 3761,
+    "pictured": 2201,
+    "complete": 2201,
+    "research_pending": 0,
     "deep_research_pending": 3760,
     "deep_researched": 0,
-    "surface_ready": 2238
+    "surface_ready": 3761
   },
   "next_target": {
-    "builder": "D&M",
-    "pedal": "Distortion",
+    "builder": "1981 Inventions",
+    "pedal": "DRV",
     "catalog_type": "",
-    "research_record": "",
-    "research_level": "missing"
+    "research_record": "./research/pedals/1981 Inventions/DRV.md",
+    "research_level": "surface"
   },
   "working_set": [
     {
-      "builder": "D&M",
-      "pedal": "Distortion",
+      "builder": "1981 Inventions",
+      "pedal": "DRV",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/1981 Inventions/DRV.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Danelectro",
-      "pedal": "Blue Paisley PureDrive",
+      "builder": "1981 Inventions",
+      "pedal": "DRV MOD 1",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/1981 Inventions/DRV MOD 1.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Danelectro",
-      "pedal": "Fab Tone / FAB Tone Distortion",
+      "builder": "1981 Inventions",
+      "pedal": "DRV MOD 2",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/1981 Inventions/DRV MOD 2.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Daredevil Pedals",
-      "pedal": "L.S.D",
+      "builder": "1981 Inventions",
+      "pedal": "DRV MOD 2 HYPERFADE",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/1981 Inventions/DRV MOD 2 HYPERFADE.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Daredevil Pedals",
-      "pedal": "Necros Fuzz / Distortion",
+      "builder": "1981 Inventions",
+      "pedal": "DRV2",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/1981 Inventions/DRV2.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Daredevil Pedals",
-      "pedal": "Ron Asheton Real Cool Fuzz",
+      "builder": "1981 Inventions",
+      "pedal": "Forget and Not Slow Down LVL",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/1981 Inventions/Forget and Not Slow Down LVL.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Daredevil Pedals",
-      "pedal": "the Chicago Rat — selectable high-gain distortion mode",
+      "builder": "1981 Inventions",
+      "pedal": "LVL",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/1981 Inventions/LVL.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Daredevil Pedals",
-      "pedal": "the Chicago Rat — selectable over-clipped fuzz mode",
+      "builder": "6 Degrees FX",
+      "pedal": "Amplitude Eleven",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/6 Degrees FX/Amplitude Eleven.md",
+      "research_level": "surface"
     },
     {
-      "builder": "DeadastronautFX",
-      "pedal": "EasyDriver",
+      "builder": "A Sound Of Failure",
+      "pedal": "Death Driver",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A Sound Of Failure/Death Driver.md",
+      "research_level": "surface"
     },
     {
-      "builder": "DeadastronautFX",
-      "pedal": "Skinwalker",
+      "builder": "A.Y.A",
+      "pedal": "Bass Fuzz",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A.Y.A/Bass Fuzz.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Death By Audio",
-      "pedal": "Echo Dream 2 (fuzz function)",
+      "builder": "A.Y.A",
+      "pedal": "BM-Fuzz 70",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A.Y.A/BM-Fuzz 70.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Death By Audio",
-      "pedal": "Sonic Incinerator",
+      "builder": "A.Y.A",
+      "pedal": "BM-Fuzz 80",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A.Y.A/BM-Fuzz 80.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Demeter",
-      "pedal": "DRV-2 Uberdriveulator",
+      "builder": "A.Y.A",
+      "pedal": "Drivesta",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A.Y.A/Drivesta.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Devi Ever : FX",
-      "pedal": "Torn's Peaker",
+      "builder": "A.Y.A",
+      "pedal": "Frontgate Bass Drive",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A.Y.A/Frontgate Bass Drive.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Devi Ever : FX",
-      "pedal": "Tri-Fuzz",
+      "builder": "A/DA",
+      "pedal": "APP-1 Pedal Preamp with D-Torsion Core",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A/DA/APP-1 Pedal Preamp with D-Torsion Core.md",
+      "research_level": "surface"
     },
     {
-      "builder": "DigiTech",
-      "pedal": "Redline Modified Overdrive",
+      "builder": "A/DA",
+      "pedal": "Final Phase",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A/DA/Final Phase.md",
+      "research_level": "surface"
     },
     {
-      "builder": "DigiTech",
-      "pedal": "X-Series Distortion Factory DF-7",
+      "builder": "A/DA",
+      "pedal": "MP-1 Channel",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A/DA/MP-1 Channel.md",
+      "research_level": "surface"
     },
     {
-      "builder": "DigiTech",
-      "pedal": "X-Series Hot Rod Distortion",
+      "builder": "A&M Custom Effects",
+      "pedal": "Crash Central - Crunch Distortion",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A&M Custom Effects/Crash Central - Crunch Distortion.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dirty Boy",
-      "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
+      "builder": "A&M Custom Effects",
+      "pedal": "Crazyboy - Double Fuzz",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A&M Custom Effects/Crazyboy - Double Fuzz.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dirty Boy",
-      "pedal": "JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive",
+      "builder": "A&M Custom Effects",
+      "pedal": "Metal Maniac - Mega Distortion",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A&M Custom Effects/Metal Maniac - Mega Distortion.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dirty Boy",
-      "pedal": "None promoted in this block",
+      "builder": "A&M Custom Effects",
+      "pedal": "Twin Pro - Overdrive",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/A&M Custom Effects/Twin Pro - Overdrive.md",
+      "research_level": "surface"
     },
     {
-      "builder": "DLS Effect",
-      "pedal": "Reckless Driver",
+      "builder": "Abasi Concepts",
+      "pedal": "Pathos Distortion",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/Abasi Concepts/Pathos Distortion.md",
+      "research_level": "surface"
     },
     {
-      "builder": "DOD Electronics",
-      "pedal": "Bass Overdrive (FX91)",
+      "builder": "AbbyTone",
+      "pedal": "Screwed Driver",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/AbbyTone/Screwed Driver.md",
+      "research_level": "surface"
     },
     {
-      "builder": "DOD Electronics",
-      "pedal": "Carcosa Fuzz",
+      "builder": "ABL Pedals",
+      "pedal": "The Szczur",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/ABL Pedals/The Szczur.md",
+      "research_level": "surface"
     },
     {
-      "builder": "DOD Electronics",
-      "pedal": "D&S / D&S II Distortion & Sustainer",
+      "builder": "ABL Pedals",
+      "pedal": "The Toor",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/ABL Pedals/The Toor.md",
+      "research_level": "surface"
     }
   ]
 }
