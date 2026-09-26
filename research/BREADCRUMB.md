@@ -1,3 +1,14 @@
+## Site maintenance checkpoint - September 26, 2026
+
+Public pedal pages no longer expose the internal research-level badge. The detail template, renderer, and stylesheet were cleaned together so Research confidence/status terminology stays administrative rather than appearing in the visitor-facing experience.
+
+The surface-record fallback was also simplified to present ordinary catalog information instead of internal research/photo status fields.
+
+Maintenance commits:
+- `6fdffe3` - remove research status from public detail template
+- `9f35847` - remove internal research status from detail renderer
+- `3c9a52e` - remove obsolete research status styling
+
 ## Catalog Research Phase checkpoint - September 25, 2026
 
 Catalog research has advanced through **Add+ Pedals - Tube Drive 2**, **AED - Blue Bee**, and **Aether Electronic - Lenore**.
