@@ -3706,8 +3706,8 @@
       "research_record": "./research/pedals/Analog Noir/Tone Bender MKI - Rangemaster Treble Booster.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--wNDbl7Yc--/quality=medium-low,height=800,width=800,fit=contain/057c6fee-f94a-4404-a73e-94d08dc445d4.heic",
       "image_source_page": "https://reverb.com/item/95152819-analog-noir-dual-mki-mk1-v1-tone-bender-rangemaster-treble-booster-pedal-with-box-pastel-green-with-neon-orange-knobs",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Noir",
