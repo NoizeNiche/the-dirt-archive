@@ -7,34 +7,28 @@
 - **Identity:** Universal Amplifier Corp's Fuzzz Boxx.
 
 ## What this pedal is
-&#8211; This is a very nice original example of an incredibly rare fuzz pedal.
+The Fuzzz Boxx is a rare late-1960s fuzz associated with Universal Amplifier Corp.'s Astro Amp Astrotone. Fuzzboxes.org identifies the red Fuzzz Boxx as a Sam Ash rebrand of the Astrotone family and treats the red and black three-knob American versions as sharing the same basic circuitry unless a specific variation is noted.
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
-
-## Versions and factory options
-- The verified evidence references: V2, Version 2, version 1, version 2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## History and versions
+- Early black Astro Amp Astrotone examples are documented from 1967, with production continuing into the late 1960s.
+- Fuzzboxes.org distinguishes early Version 1 and Version 2 Astrotone examples and later Fuzzz Boxx versions.
+- Exact production dates for an individual Fuzzz Boxx cannot be assigned from the verified sources without matching the specific hardware.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Fuzzboxes.org documents transistor variants in later examples, including **SM07027** and **MPS6552**.
+- These are recorded as documented variant information, not as a claim that every Fuzzz Boxx used either device.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact production diode information for the cataloged Fuzzz Boxx was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
-Astro Amp Astrotone V2 Vintage Electric Guitar Fuzz Effects Pedal &#8211; Rare Original &#8217;60s Distortion Box Version 2, Like Fuzzz Boxx FX Stompbox &#8211; G_E_A_R_L_O_R_D Skip to content gearlord Search ...
-Astro Amp Astrotone V2 Vintage Electric Guitar Fuzz Effects Pedal &#8211; Rare Original &#8217;60s Distortion Box Version 2, Like Fuzzz Boxx FX Stompbox 1967 Universal Amplifier Corp.
-Astro Amp Astrotone V2 Vintage Electric Guitar Fuzz Effects Pedal &#8211; Rare Original &#8217;60s Distortion Box Version 2, Like Fuzzz Boxx FX Stompbox Add To Wishlist View Wishlist Category Effects Tags Astro Amp , Astrotone , Fuzzz Boxx , Sam Ash Share this: Description Information $ell Yours Today!
+The verified sources are primarily historical and circuit-identification references rather than detailed listening reviews. They establish the Fuzzz Boxx/Astrotone relationship and construction history, but do not provide enough independent sonic description to justify a detailed tonal profile here.
 
 ## Sources checked
-1. 1967 Universal Amplifier Corp. Astro Amp Astrotone V2 Vintage Electric Guitar Fuzz Effects Pedal &#8211; Rare Original &#8217;60s Distortion Box Version 2, Like Fuzzz Boxx FX Stompbox &#8211; G_E_A_R_L_O_R_D: https://www.gearlord.com/product/1967-universal-amplifier-corp-astro-amp-astrotone-v2-vintage-electric-guitar-fuzz-effects-pedal-rare-original-60s-distortion-box-version-2-like-fuzzz-boxx-fx-stompbox/
-2. 1967 Universal Amplifier Corp. Astro Amp Astrotone - Reverb: https://reverb.com/au/item/86431040-1967-universal-amplifier-corp-astro-amp-astrotone-v2-vintage-electric-guitar-fuzz-effects-pedal-rare-original-60s-distortion-box-version-2-like-fuzzz-boxx-fx-stompbox
+1. Fuzzboxes.org, Astro Tone historical and circuit-family reference: https://fuzzboxes.org/features/astrotone
+2. Gearlord, 1967 Universal Amplifier Corp Astro Amp Astrotone V2 / Fuzzz Boxx listing: https://www.gearlord.com/product/1967-universal-amplifier-corp-astro-amp-astrotone-v2-vintage-electric-guitar-fuzz-effects-pedal-rare-original-60s-distortion-box-version-2-like-fuzzz-boxx-fx-stompbox/
+3. Reverb, 1967 Universal Amplifier Corp Astro Amp Astrotone: https://reverb.com/au/item/86431040-1967-universal-amplifier-corp-astro-amp-astrotone-v2-vintage-electric-guitar-fuzz-effects-pedal-rare-original-60s-distortion-box-version-2-like-fuzzz-boxx-fx-stompbox
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
