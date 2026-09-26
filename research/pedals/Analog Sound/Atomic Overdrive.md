@@ -37,3 +37,13 @@ Available archival material identifies Atomic Overdrive as an Analog Sound overd
 
 ## Sources checked
 1. Effects Database — Analog Sound: https://www.effectsdatabase.com/model/analogsound
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Sound's Atomic Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Analog Sound Atomic Overdrive | Effects Database: https://www.effectsdatabase.com/model/analogsound/atomicoverdrive

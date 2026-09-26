@@ -3734,8 +3734,8 @@
       "research_record": "./research/pedals/Analog Sound/Atomic Overdrive.md",
       "image_source_url": "https://xacttone.com/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/a/t/atomic_right_1_2.jpg",
       "image_source_page": "https://xacttone.com/atomic-overdrive.html",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Sound",
@@ -3748,8 +3748,8 @@
       "research_record": "./research/pedals/Analog Sound/Double Trouble Overdrive.md",
       "image_source_url": "http://parkwaymusic.com/cdn/shop/files/DSC01094_c667d950-bb68-44a2-8466-3bd46812c3f5.jpg?v=1723069979",
       "image_source_page": "https://parkwaymusic.com/products/visual-sound-double-trouble-overdrive-used",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Sound",
@@ -43310,8 +43310,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/Dead Man's Hand 2-Mode Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Outlaw Effects",

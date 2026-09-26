@@ -37,3 +37,13 @@ The surviving catalog record identifies it as an overdrive, but available docume
 
 ## Sources checked
 1. Effects Database — Analog Sound: https://www.effectsdatabase.com/model/analogsound
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Sound's Double Trouble Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Visual Sound Double Trouble Overdrive: https://parkwaymusic.com/products/visual-sound-double-trouble-overdrive-used
