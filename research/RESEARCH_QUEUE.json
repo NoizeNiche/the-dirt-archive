@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T07:31:35.172192+00:00",
+  "generated_at": "2026-09-26T07:33:49.383802+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,37 +10,23 @@
     "pictured": 2681,
     "complete": 2681,
     "research_pending": 0,
-    "deep_research_pending": 3280,
-    "deep_researched": 481,
+    "deep_research_pending": 3276,
+    "deep_researched": 485,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Amptweaker",
-    "pedal": "Bass TightRock Jr",
+    "pedal": "Big Rock Pro",
     "catalog_type": "",
-    "research_record": "./research/pedals/Amptweaker/Bass_TightRock_Jr.md",
+    "research_record": "./research/pedals/Amptweaker/Big_Rock_Pro.md",
     "research_level": "surface"
   },
   "working_set": [
     {
       "builder": "Amptweaker",
-      "pedal": "Bass TightRock Jr",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/Bass_TightRock_Jr.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
       "pedal": "Big Rock Pro",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/Big_Rock_Pro.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "Big Rock Pro II",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/Big_Rock_Pro_II.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Plain Drive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 049/Plain Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "AMT Electronics",
+      "pedal": "B-1 BG-Sharp",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 049/B-1 BG-Sharp.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "AMT Electronics",
+      "pedal": "BS British Sound",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 049/BS British Sound.md",
       "research_level": "surface"
     }
   ]

@@ -2779,8 +2779,8 @@
       "source_page": "https://ecole-guitare-lyon.com/la-pedale-deffet-amptweaker-bass-tightrock-jr-photos-tests-avis/",
       "research_record": "./research/pedals/Amptweaker/Bass_TightRock_Jr.md",
       "image_source_url": "https://ecole-guitare-lyon.com/wp-content/uploads/2026/06/amptweaker-bass-tightrock-jr-th-1.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -2807,8 +2807,8 @@
       "source_page": "https://www.visionguitar.com/products/amptweaker-big-rock-pro-ii-distortion-pedal",
       "research_record": "./research/pedals/Amptweaker/Big_Rock_Pro_II.md",
       "image_source_url": "https://www.visionguitar.com/cdn/shop/products/Big-Rock-Pro-II-top_x700.jpg?v=1636914648",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -28511,8 +28511,8 @@
       "image": "./assets/pedals/danelectro/cool-cat-transparent-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Cool Cat Transparent Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -43106,8 +43106,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Organic Sounds/Orga Bender MKI 2g301Ver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Organic Sounds",

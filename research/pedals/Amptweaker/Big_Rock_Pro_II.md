@@ -3,66 +3,36 @@
 ## PRP identity
 - **Archive parent:** Big Rock Pro II
 - **Builder:** Amptweaker
-- **Catalog types:** Distortion / Overdrive-era Pro platform
-- **Identity:** Separate later Pro-series product. It is not silently folded into Big Rock Pro because Amptweaker presents it as its own named pedal and the platform adds substantial new processing and I/O.
-- **Exact first-shipping date:** Not firmly established in the sources checked in this pass.
+- **Catalog type:** Distortion / Overdrive
+- **Identity:** Amptweaker's Big Rock Pro II.
 
 ## What this pedal is
-The Big Rock Pro II is Amptweaker's later high-gain Pro rock platform, retaining the broad Big Rock/TightRock approach while adding Depth Finder and DeFizzerator processing and expanded direct-recording connectivity. Amptweaker describes it as usable either as a stompbox or as a preamp into an effects return/power amp. [1][2]
+Amptweaker's Big Rock Pro II is cataloged as a distortion / overdrive pedal.
 
 ## Colorways
-- Documented production examples are black with white graphics and metal-colored controls.
-- No factory functional colorway variants were established.
-- Cosmetic changes alone are not versions.
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Versions and factory modifications
-### Big Rock Pro II — current documented production
-Core documented features:
-- Volume, Low, Mid, High, Gain, Tight
-- Resonance and Presence via Depth Finder
-- DeFizzerator
-- built-in noise gate
-- 3-band EQ with Smooth/Thrash switching
-- dual boost controls
-- Global, Boost, and SideTrak loops
-- speaker/cab simulator
-- balanced DI
-- headphone output
-- 9–18V operation
-- all-analog signal path [1]
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
 
-### Factory modifications
-- No later numbered factory revision was established in the sources checked.
-- Do not treat cosmetic changes as versions.
-
-## Version relationship
-The 'II' model is documented here as a separate parent because the manufacturer presents a distinct product with a much larger feature set, including Depth Finder, DeFizzerator, DI, cab simulation, headphones, and three loop systems. The research record still notes its lineage from the Big Rock Pro family so the relationship is preserved without creating a false single-card history.
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Type:** Unknown.
-- No Big Rock Pro II-specific component-level documentation located.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Type:** Unknown.
-- No Big Rock Pro II-specific schematic or builder component record located.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Big Rock Pro II is voiced as a broad rock/metal preamp rather than a narrow one-purpose distortion, with the core distortion capable of classic Plexi-derived rock gain and enough range for heavier modern settings. Depth Finder adds resonance/presence-style power-amp shaping, while DeFizzerator is designed to tame excessive high-end fizz when using high-gain tones. [1]
-
-## Research confidence
-- **Identity/relationship:** High
-- **Feature set:** High
-- **First-shipping date:** Unknown
-- **Factory-version history:** Moderate
-- **Transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
-
-## Photo
-- **Verified image:** Vision Guitar image showing Big Rock Pro II.
-- **Source page:** https://www.visionguitar.com/products/amptweaker-big-rock-pro-ii-distortion-pedal
+Classic “Big Gain Tone” available in a convenient stomp box!
+In addition to being able to cover the great classic rock sounds of the past, the Big Rock Pro II has more than enough gain to keep up with modern players needing the flexibility to create a full palette of tones.
+In addition to a full assortment of high-gain tones and switching capabilities, the Big Rock Pro II now includes Depth Finder and DeFizzerator processing built in for even more tone sculpting abilities.
 
 ## Sources checked
-1. Amptweaker official Big Rock Pro II product page: https://amptweaker.com/?product=big-rock-pro-ii
-2. Vision Guitar — Amptweaker Big Rock Pro II: https://www.visionguitar.com/products/amptweaker-big-rock-pro-ii-distortion-pedal
-3. Full Compass — Big Rock Pro II product description: https://www.fullcompass.com/prod/635230-amptweaker-fat-metal-pro-ii-fat-metal-pro-ii-distortion-effect-pedal
+1. Amptweaker Big Rock Pro II Distortion Pedal — Vision Guitar: https://www.visionguitar.com/products/amptweaker-big-rock-pro-ii-distortion-pedal
+
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

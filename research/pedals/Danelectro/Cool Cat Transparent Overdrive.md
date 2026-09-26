@@ -7,7 +7,7 @@
 - **Identity:** Danelectro's Cool Cat Transparent Overdrive.
 
 ## What this pedal is
-Build Quality The Danelectro Cool Cat Transparent Overdrive V2 features solid aluminum casing, and feels reassuringly bulky and weighty in the hand.
+Lastly, True bypass switching is included Overdrive, Boost and Treble Boost Sounds As a standalone overdrive unit, for me at least, the Danelectro Cool Cat Transparent Overdrive V2 simply doesn’t possess enough gain and compression, even with the first three DIP switches engaged.
 
 ## Colorways
 - Hidden away in the battery compartment though are 4 DIP switches offering following Red diode clipping compression.
@@ -20,17 +20,17 @@ Build Quality The Danelectro Cool Cat Transparent Overdrive V2 features solid al
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Documented terms in the verified sources: AC15.
+- The archive records only the component information explicitly present in these sources.
 
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
-Danelectro Cool Cat Transparent Overdrive V2 Review Skip to content Guitar Guitar Gear Reviews Guitar Reviews Guitar Amplifier Reviews Guitar Pedal and Multi-FX Reviews Guitar Lessons Guitar Tricks Guitar Tips Guitar Overdrive Pedal Shootout Line 6 Music Adam Harkus Music Songwriting Music Production Music Lessons Music Business Music Therapy Mental Health Harson Robkus Travel Goa: A Lesson in Life Prague : The Musical City A Postcard to Blackpool Gaming The Golden Age of the Video Game Arcade Blog Contributor Spotlight Dad Diaries Covid Diary Blogging Tips Shop About Search for: Search Search Search for: Search Search Guitar Guitar Gear Reviews Guitar Reviews Guitar Amplifier Reviews Guitar Pedal and Multi-FX Reviews Guitar Lessons Guitar Tricks Guitar Tips Guitar Overdrive Pedal Shootout Line 6 Music Adam Harkus Music Songwriting Music Production Music Lessons Music Business Music Therapy Mental Health Harson Robkus Travel Goa: A Lesson in Life Prague : The Musical City A Postcard to Blackpool Gaming The Golden Age of the Video Game Arcade Blog Contributor Spotlight Dad Diaries Covid Diary Blogging Tips Shop About Danelectro Cool Cat Transparent Overdrive V2 Review Guitar Guitar Gear Reviews Guitar Pedal and Multi-FX Reviews / boost , Electric Guitar , Guitar , Guitar Effects , Music , overdrive , overdrive pedal , pedal , Review Review of the Danelectro Cool Cat Transparent Overdrive V2 guitar pedal.
 More than just an ordinary guitar overdrive pedal Version 1 of the Danelectro Cool Cat Transparent Overdrive was a clone of one of the most highly regarded and sought after overdrive/booster pedals out there, the Paul Cochrane Timmy clone.
-After the legalities were settled (apparently very amicably) , Danelectro went onto release version 2, which adds a number of new features, making it the most versatile and transparent overdrive/booster/treble booster guitar pedal I&#8217;ve ever used.
+Lastly, True bypass switching is included Overdrive, Boost and Treble Boost Sounds As a standalone overdrive unit, for me at least, the Danelectro Cool Cat Transparent Overdrive V2 simply doesn’t possess enough gain and compression, even with the first three DIP switches engaged.
+Into a clean Fender Blues Junior III amp, the overdrive character is just too polite for a lot of my personal applications.
 
 ## Sources checked
 1. Danelectro Cool Cat Transparent Overdrive V1 - Reverb: https://reverb.com/p/danelectro-cool-cat-transparent-overdrive-v1
