@@ -7,7 +7,7 @@
 - **Identity:** CS.Cathey's AB-03 Distortion Booster.
 
 ## What this pedal is
-CS.Cathey browse by type volume/amplification amplification preamp / clean boost browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal CS.Cathey AB-03 Distortion Booster Published on May 16, 2026 CS.Cathey boost / preamp distortion pedal Music Life (Oct, 1975) Music Life (Oct, 1975) Information The CS.Cathey AB-03 Distortion / Booster was a Japanese guitar effects pedal introduced during the mid-1970s as part of the company's C.S.
+CS.Cathey's AB-03 Distortion Booster is cataloged as a distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,9 +27,8 @@ CS.Cathey browse by type volume/amplification amplification preamp / clean boost
 - **Exact part:** Unknown.
 
 ## Sound
-CS.Cathey AB-03 Distortion Booster | Effects Database Skip to navigation Brands &#9660; 0-9...
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-CS.Cathey browse by type volume/amplification amplification preamp / clean boost browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal CS.Cathey AB-03 Distortion Booster Published on May 16, 2026 CS.Cathey boost / preamp distortion pedal Music Life (Oct, 1975) Music Life (Oct, 1975) Information The CS.Cathey AB-03 Distortion / Booster was a Japanese guitar effects pedal introduced during the mid-1970s as part of the company's C.S.
+The pedal combined distortion and booster functions in a single unit, with a changeover switch used to select between the two operating modes.
+The distortion mode produced distorted guitar sounds, while the booster mode provided a boosted signal effect.
 
 ## Sources checked
 1. CS.Cathey AB-03 Distortion Booster | Effects Database: https://www.effectsdatabase.com/model/cscathey/ab03

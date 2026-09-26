@@ -7,7 +7,7 @@
 - **Identity:** Cruzer (by Crafter)'s EF-DT Distortion.
 
 ## What this pedal is
-Cruzer (by Crafter) browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal events 2009 NAMM 2009 Cruzer (by Crafter) EF-DT Distortion Published on January 21, 2009 Cruzer (by Crafter) distortion pedal NAMM 2009 NAMM 2009 picture by Jesse Stern NAMM 2009 Information Crafter Housed in a rugged steel case and by the use of analogue circuitry with modern components, the Cruzer EF-DT enables you to create modern distortion effects with the rugged reliability and compactness made possible by today&#146;s technology.
+Cruzer (by Crafter)'s EF-DT Distortion is cataloged as a distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,9 +27,8 @@ Cruzer (by Crafter) browse by type distortion/fuzz/overdrive distortion browse b
 - **Exact part:** Unknown.
 
 ## Sound
-Cruzer (by Crafter) EF-DT Distortion | Effects Database Skip to navigation Brands &#9660; 0-9...
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Cruzer (by Crafter) browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal events 2009 NAMM 2009 Cruzer (by Crafter) EF-DT Distortion Published on January 21, 2009 Cruzer (by Crafter) distortion pedal NAMM 2009 NAMM 2009 picture by Jesse Stern NAMM 2009 Information Crafter Housed in a rugged steel case and by the use of analogue circuitry with modern components, the Cruzer EF-DT enables you to create modern distortion effects with the rugged reliability and compactness made possible by today&#146;s technology.
+Effects Database has an exact record for the Cruzer (by Crafter) EF-DT Distortion.
+It says the EF-DT provides modern distortion effects and uses buffered bypass for silent switching and tone preservation.
 
 ## Sources checked
 1. Cruzer (by Crafter) EF-DT Distortion | Effects Database: https://www.effectsdatabase.com/model/crafter/cruzer/distortion

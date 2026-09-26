@@ -7,7 +7,7 @@
 - **Identity:** Cruzer (by Crafter)'s EF-OD Over Drive.
 
 ## What this pedal is
-Cruzer (by Crafter) browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal events 2009 NAMM 2009 Cruzer (by Crafter) EF-OD Over Drive Published on January 21, 2009 Cruzer (by Crafter) overdrive pedal NAMM 2009 NAMM 2009 picture by Jesse Stern NAMM 2009 Information Crafter Housed in a rugged steel case and by the use of analogue circuitry with modern components, the Cruzer EF-OD Overdrive enables you to create classic valve overdrive tones with the rugged reliability and compactness made possible by today&#146;s technology.
+Cruzer (by Crafter)'s EF-OD Over Drive is cataloged as an overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,9 +27,9 @@ Cruzer (by Crafter) browse by type distortion/fuzz/overdrive overdrive browse by
 - **Exact part:** Unknown.
 
 ## Sound
-Cruzer (by Crafter) EF-OD Over Drive | Effects Database Skip to navigation Brands &#9660; 0-9...
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Cruzer (by Crafter) browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal events 2009 NAMM 2009 Cruzer (by Crafter) EF-OD Over Drive Published on January 21, 2009 Cruzer (by Crafter) overdrive pedal NAMM 2009 NAMM 2009 picture by Jesse Stern NAMM 2009 Information Crafter Housed in a rugged steel case and by the use of analogue circuitry with modern components, the Cruzer EF-OD Overdrive enables you to create classic valve overdrive tones with the rugged reliability and compactness made possible by today&#146;s technology.
+Cruzer (by Crafter) EF-OD Over Drive
+True buffered bypass preserves the clean tone of your guitar and ensures silent switching between effect and bypassed signals.
+fx pedal stompbox stomp box guitar effects pedal overdrive over drive gain saturation distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
 1. Cruzer (by Crafter) EF-OD Over Drive | Effects Database: https://www.effectsdatabase.com/model/crafter/cruzer/overdrive
