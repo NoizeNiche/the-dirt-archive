@@ -29,11 +29,17 @@ def host(url):
 
 def identity_ok(builder,pedal,title,h1,excerpt=""):
     hay=norm(str(title or "")+" "+str(h1 or "")+" "+str(excerpt or ""))
-    p=norm(pedal)
+    variants=[str(pedal or "").strip()]
+    core=re.split(r"\\s+—\\s+",str(pedal or "").strip(),maxsplit=1)[0].strip()
+    if core and core not in variants:
+        variants.append(core)
     bw=[x for x in norm(builder).split() if len(x)>=3]
-    pw=[x for x in norm(pedal).split() if len(x)>=3 and x not in {"the","and","with","for"}]
-    return bool((p and p in hay and (not bw or any(x in hay for x in bw))) or
-                (pw and all(x in hay for x in pw) and (not bw or any(x in hay for x in bw))))
+    for variant in variants:
+        p=norm(variant)
+        pw=[x for x in p.split() if len(x)>=3 and x not in {"the","and","with","for"}]
+        if (p and p in hay and (not bw or any(x in hay for x in bw))) or (pw and all(x in hay for x in pw) and (not bw or any(x in hay for x in bw))):
+            return True
+    return False
 
 def source_is_strong_single(source):
     kind = str(source.get("source_kind") or "").strip().lower()
