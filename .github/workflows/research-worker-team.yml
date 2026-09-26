@@ -126,15 +126,15 @@ jobs:
               ]
 
           letters=sorted(buckets)
-          while len(targets)<140 and any(buckets.values()):
+          while len(targets)<160 and any(buckets.values()):
               progressed=False
               for letter in letters:
                   if buckets[letter]:
                       targets.append(buckets[letter].pop(0))
                       progressed=True
-                      if len(targets)>=140: break
+                      if len(targets)>=160: break
               if not progressed: break
-          TARGETS_PER_WORKER=7
+          TARGETS_PER_WORKER=8
           matrix={"include":[{"targets":targets[i:i+TARGETS_PER_WORKER]} for i in range(0,len(targets),TARGETS_PER_WORKER)]}
           print("matrix="+json.dumps(matrix,ensure_ascii=False,separators=(",",":")))
           print("Research targets:",len(targets),"workers:",len(matrix["include"]),file=sys.stderr)
@@ -156,7 +156,7 @@ jobs:
         env:
           RESEARCH_WORKER_INDEX: ${{ strategy.job-index }}
           RESEARCH_WORKER_COUNT: "20"
-          RESEARCH_TARGETS_PER_WORKER: "7"
+          RESEARCH_TARGETS_PER_WORKER: "8"
           RESEARCH_TARGETS_JSON: ${{ toJSON(matrix.targets) }}
           RESEARCH_REQUEST_TIMEOUT_MS: "7000"
         run: node scripts/research-evidence-gather.mjs
