@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T21:41:52.461134+00:00",
+  "generated_at": "2026-09-26T21:43:32.734350+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2953,
     "complete": 2953,
     "research_pending": 0,
-    "deep_research_pending": 2274,
-    "deep_researched": 1487,
+    "deep_research_pending": 2273,
+    "deep_researched": 1488,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Animal Factory Amplification",
-    "pedal": "Godeater",
+    "pedal": "Ozymandias",
     "catalog_type": "",
-    "research_record": "./research/pedals/Animal Factory Amplification/Godeater.md",
+    "research_record": "./research/pedals/Animal Factory Amplification/Ozymandias.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Animal Factory Amplification",
-      "pedal": "Godeater",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Animal Factory Amplification/Godeater.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Animal Factory Amplification",
       "pedal": "Ozymandias",
@@ -195,6 +188,13 @@
       "pedal": "Overdrive Overload",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 058/Overdrive Overload.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Arcane Analog",
+      "pedal": "TONE BENDERS (MK1 // MK1.5 // MK2 // MK3 // MK4)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 058/TONE BENDERS (MK1 - MK1.5 - MK2 - MK3 - MK4).md",
       "research_level": "surface"
     }
   ]
