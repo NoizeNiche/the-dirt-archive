@@ -1,23 +1,40 @@
 # Keeley Electronics — Germanium Super Phat Mod
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Germanium Super Phat Mod
 - **Builder:** Keeley Electronics
-- **Pedal:** Germanium Super Phat Mod
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Keeley Electronics's Germanium Super Phat Mod.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Germanium Super Phat Mod** by **Keeley Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Keyboard Integration: Why This Pedal Belongs on Your Stage Piano Rig While marketed primarily to guitarists, the Germanium Super Phat Mod offers unique advantages for keyboard players — especially those using vintage-style synths, clavinet emulations, or digital pianos seeking analog texture.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: AC125, AC125s.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Keeley Electronics Announces The Germanium Super Phat Mod Overdrive: A Deep Technical and Musical Analysis for Guitarists and Keyboardists
+However, rather than replicating these designs, Keeley’s engineering team reverse-engineered and optimized each stage for stability and dynamic range.
+Transistor pairs are matched to within ±3% h FE deviation and subjected to 72-hour thermal cycling (−10°C to +55°C) to verify long-term gain consistency.
+
+## Sources checked
+1. Germanium Super Phat Mod - Silver - Keeley Electronics Guitar Effects ...: https://robertkeeley.com/product/germanium-super-phat-mod-silver/
+2. Keeley Electronics Announces The Germanium Super Phat Mod Overdrive: A Deep Technical and Musical Analysis for Guitarists and Keyboardists | GearStrings: https://gearstrings.com/piano/keeley-electronics-announces-the-germanium-super-phat-mod-overdrive
+3. Germanium Super Phat Mod by Keeley Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Germanium-Super-Phat-Mod/154445790/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

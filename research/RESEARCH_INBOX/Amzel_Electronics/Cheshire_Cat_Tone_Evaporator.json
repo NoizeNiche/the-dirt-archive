@@ -1,0 +1,25 @@
+{
+  "builder": "Amzel Electronics",
+  "pedal": "Cheshire Cat Tone Evaporator",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://delicious-audio.com/pedal-reviews-amzel-electronics-cheshire-cat-tone-evaporator/",
+      "title": "Pedal Reviews: Amzel Electronics\u2019 Cheshire Cat Tone Evaporator | Delicious Audio",
+      "h1": "Pedal Reviews: Amzel Electronics\u2019 Cheshire Cat Tone Evaporator",
+      "excerpt": "Pedal Reviews: Amzel Electronics\u2019 Cheshire Cat Tone Evaporator | Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr. + Dynamics Dynamics EQ Filter Wah Filter+EQ Lo-Fi 8 Bit Lo-fi Chorus Flanger Phaser Tremolo Uni-Vibe Modulation Pitch Shifter Octaver pitch Multiverb Reverb Spring Reverb Reverb CV In Granular Synth Pedals Synth Effect Guides Monthly Lists Shopping Guides Coverage Schedule Facebook Stompbox Exhibit Pedal Reviews: Amzel Electronics\u2019 Cheshire Cat Tone Evaporator Updated Dec. 11, 2014  |  by Paolo De Gregorio Now here\u2019s a clever pedal that was a blast to demo. Frankly, the Amzel Cheshire Cat Tone Evaporator is just a great idea in terms of a new way to think about distortion. To visualize how this pedal works, start off by imagining a traditional sound wave as a starting point. It\u2019s nice and round and symmetrical, right? Then, think about traditional distortion. It occurs when the wave gets clipped at the top and bottom peaks of the wave where it effectively becomes a plateau. Amzel sought to create a pedal that entirely focuses on giving the user the ability to customize the tone specifically of that plateau portion of the wave. In other words, the Cheshire Cat gives you the ability to make that flat clipped segment into a frenzied mess all its own. This pedal takes a bit of a learning curve, but it provides a great learning experience along the way. Among the six knobs, the top row of three knobs focus in specifically on that distortion \u201cclipped\u201d part of the tone (resonance, frequency, and accent\u201d). Then, the inject knob on the bottom row controls the degree to which all three of the top row knobs actually impact that \u201cclipped\u201d tone. Finally, the two other knobs on the bottom row for distortion (for the whole tone, not just the actual distortion) and volume are self-explanatory. In practice, you could spend days, weeks, and months playing with this to find the ideal settings. Fortunately, Amzel knows they\u2019ve created a uniquely complex pedal, so they provide six guidepost settings to use as baselines of experimentation, which are quite helpful. These include a conventional distortion tone, a few different enhanced distortion tones for added texture, a noisy distortion, and the \u201cfried\u201d tone (the inject, accent, and resonance all maxed out with the frequency dialed back). They also provide a handy little book of blank pedal blueprints for remembering your various settings and making notes, which is also useful. In experimenting with the various tones in practice, I found the most bang for the buck in high treble, high gain tones that would make for killer fuzzy leads as well some weird deep meditative distortions by really messing with the resonance dial. In the more traditional realm of overdrive tones, this pedal is more than capable of providing a great basic O/D as well. In terms of the intangibles, the casing is on the large side so it may not be ideal for space saving boards, but it\u2019s got a great look, handy 9V battery access (something I\u2019ve grown to appreciate more and more), and lots to functionality for experimentation. Overall, it\u2019s easy to see why Amzel opted to name this one the Cheshire Cat. It\u2019s a mischievous (not so) little bugger that gives guitarists the ability to get weird with the distortion\u2019s tone. As mentioned, it\u2019s a flexible distortion pedal that covers a variety of needs, but it\u2019s the odd characters with the funny grins that are the most fun. \u2013 Ryan Dembinsky Related Delicious Audio Posts: New Pedal: Fuzzrocious Cat King Overdrive/Distortion New Pedal: RhPf Electronics Regista New Pedal: RHPF Electronics MOSTARD New Pedal: RHPF Electronics Mosrawr Fuzz New Pedal: KHDK Electronics Digital Bath Modulated Delay New Pedal: MMK Electronics Pavlov Fuzz Categories: Distortion Pedals | Guitar Pedals | OVERDRIVE PEDALS Tags: Amzel | Cheshire Cat | Tone Evaporator Previous post New Pedal: The DigiTech Polara Stereo Reverb Next",
+      "host": "delicious-audio.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "http://amzelelectronics.com/cheshire-cat-tone-evaporator/",
+      "title": "Cheshire Cat Tone Evaporator",
+      "h1": "",
+      "excerpt": "",
+      "host": "amzelelectronics.com",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

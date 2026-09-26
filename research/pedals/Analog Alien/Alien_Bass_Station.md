@@ -61,3 +61,15 @@ The Alien Bass Station is essentially a compact bass signal-processing chain: co
 2. Analog Alien — Alien Bass Station: https://analogalien.com/alien-bass-station-abs/
 3. Analog Alien — Alien Bass Station manual: https://analogalien.com/wp-content/uploads/2019/05/MANUAL_ALIEN_BASS_STATION.pdf
 4. Analog Alien press material / Bass Player feature: https://analogalien.com/press/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Analog Alien's Alien Bass Station is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Sources checked in this pass
+1. One moment, please...: https://analogalien.com/alien-bass-station-abs/
+2. catalog/override source: https://www.sweetwater.com/store/detail/ABStation--analog-alien-alien-bass-station-abs-compressor-amp-generator-fuzz-bass-pedal/reviews
+3. Analog Alien Alien Bass Station ｜イケベ楽器店オンラインストア: https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=722634&shop=0

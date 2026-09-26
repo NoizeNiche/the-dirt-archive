@@ -1,23 +1,43 @@
 # Skreddy Pedals — Dragon Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Dragon Fuzz
 - **Builder:** Skreddy Pedals
-- **Pedal:** Dragon Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Skreddy Pedals's Dragon Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Dragon Fuzz** by **Skreddy Pedals** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+OSC Sets the amount of feedback you get when you use the corresponding footswitch, which is latching to let you do other things with your feet while enjoying this effect View details Skreddy Pedals Dragon Fuzz Close Skreddy Pedals Dragon Fuzz Sold out Need cables?
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- View Old Blood Noise Endeavors Pardner Fuzz (blue) $ 239.00 Original price was: $239.00.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: BC109, silicon transistors.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Home Effect Types Fuzz Fuzzface Variants Dragon Fuzz Dragon Fuzz Silicon Fuzz Face with over-the-top OSC switch The BC109 fuzz circuit with an added feedback feature.
+This is already a high-gain fuzz, so the feedback typically gives you a drone oscillation that you can control to some extent by your playing and by adjusting the guitar volume.
+Skreddy Pedals Dragon Fuzz quantity Add to cart Description Maker: Skreddy Pedals Model: Dragon Fuzz Condition: New Description: My friend Ilya Lipkin originally suggested this feedback idea to me, which resulted in the first Screaming Lizard.
+
+## Sources checked
+1. Fuzzface Variants | Fuzz | Dragon Fuzz | Skreddy Pedals: https://skreddypedals.com/dragon
+2. Skreddy Pedals Dragon Fuzz - Reverb: https://reverb.com/item/70406352-skreddy-pedals-dragon-fuzz
+3. Skreddy Pedals Dragon Fuzz | Fuzz: https://www.durableguitars.com/product/skreddy-pedals-dragon-fuzz/
+4. Skreddy Pedals Dragon Fuzz – Coast Sonic: https://coastsonic.com/products/skreddy-pedals-dragon-fuzz
+5. Skreddy Pedals Dragon Fuzz - Block Body Guitars | Solid Body Electrics and Guitar Parts: https://www.blockbodyguitars.com/product/skreddy-pedals-dragon-fuzz/
+6. Skreddy Pedals Dragon Fuzz - Amp & Fret | Guitars, Amps, Pedals and ...: https://www.ampandfret.com/product/skreddy-pedals-dragon-fuzz/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

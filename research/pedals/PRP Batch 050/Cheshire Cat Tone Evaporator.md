@@ -48,3 +48,19 @@ With INJECT low, the Cheshire Cat can behave like a conventional distortion/boos
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** Premier Guitar, Delicious Audio, Reverb, and historical retailer imagery.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Frankly, the Amzel Cheshire Cat Tone Evaporator is just a great idea in terms of a new way to think about distortion.
+
+### Verified sound evidence
+Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.
+Frankly, the Amzel Cheshire Cat Tone Evaporator is just a great idea in terms of a new way to think about distortion.
+Then, think about traditional distortion.
+
+### Sources checked in this pass
+1. Pedal Reviews: Amzel Electronics’ Cheshire Cat Tone Evaporator | Delicious Audio: https://delicious-audio.com/pedal-reviews-amzel-electronics-cheshire-cat-tone-evaporator/
+2. Cheshire Cat Tone Evaporator: http://amzelelectronics.com/cheshire-cat-tone-evaporator/

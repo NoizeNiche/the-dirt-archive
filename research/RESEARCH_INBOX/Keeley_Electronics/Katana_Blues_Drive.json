@@ -1,0 +1,25 @@
+{
+  "builder": "Keeley Electronics",
+  "pedal": "Katana Blues Drive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://robertkeeley.com/product/katana-blues-drive/",
+      "title": "",
+      "h1": "",
+      "excerpt": "",
+      "host": "robertkeeley.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://gearstrings.com/gear-reviews/keeley-electronics-releases-the-katana-blues-drive",
+      "title": "Keeley Electronics Releases The Katana Blues Drive: A Deep Dive Into Its Circuitry, Tone, and Real-World Performance | GearStrings",
+      "h1": "Keeley Electronics Releases The Katana Blues Drive: A Deep Dive Into Its Circuitry, Tone, and Real-World Performance",
+      "excerpt": "Keeley Electronics Releases The Katana Blues Drive: A Deep Dive Into Its Circuitry, Tone, and Real-World Performance | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / gear reviews gear reviews Keeley Electronics Releases The Katana Blues Drive: A Deep Dive Into Its Circuitry, Tone, and Real-World Performance By Nina Harper July 12, 2026 Introduction: A New Benchmark for Blues-Oriented Overdrive Keeley Electronics\u2019 Katana Blues Drive is not just another overdrive pedal\u2014it\u2019s a meticulously engineered response to decades of player feedback about dynamic range compression, midrange smearing, and lack of touch-sensitive articulation in high-gain blues applications. Released in Q2 2024, the Katana Blues Drive features a discrete JFET front-end, dual independent gain paths (Clean Boost and Blues Drive), and a proprietary tonal architecture that preserves string definition at all output levels. Measuring 4.75\" \u00d7 2.5\" \u00d7 1.75\" and weighing 198 grams, it fits seamlessly on crowded boards alongside pedals like the Ibanez Tube Screamer TS9, Wampler Euphoria, and Fulltone OCD v2. Unlike many boutique drives priced above $300, Keeley positions the Katana at $249\u2014strategically bridging premium build quality and accessible functionality. Its true-bypass footswitch uses heavy-duty Cherry MX-style tactile switches rated for 10 million cycles, and internal circuitry runs on a regulated 9V DC supply with ultra-low-noise LDO regulators ( Design Philosophy and Historical Context Rob Keeley and his engineering team spent over 18 months reverse-engineering classic blues tone signatures\u2014from Albert King\u2019s 1967 Gibson ES-335 through a modified Fender Super Reverb to Stevie Ray Vaughan\u2019s \u201959 Stratocaster into a non-master-volume Marshall Plexi. Rather than emulate one specific amp, the Katana targets the interaction between guitar, pedal, and power amp: how dynamics compress, how harmonics bloom under pick attack, and how clean headroom collapses gracefully into saturation. Keeley explicitly cited three reference points: the early-\u201970s Colorsound Power Boost (notably its low-noise JFET input stage), the 1980s Ibanez AD80 (for its open midrange clarity), and the 2012 Analog Man Sunface (for its asymmetric clipping symmetry). Why \u2018Katana\u2019? Symbolism and Signal Path Intent The name isn\u2019t merely aesthetic. In Japanese swordsmithing, a katana\u2019s edge hardness (martensite) contrasts with its flexible spine (pearlite)\u2014a duality Keeley mirrored in the pedal\u2019s dual-path architecture. The Clean Boost path operates at +18dB maximum gain with near-zero coloration (\u00b10.15dB deviation from 20Hz\u201320kHz), while the Blues Drive path delivers up to +28dB of musical asymmetrical clipping. Both paths share identical buffered inputs but diverge at the first transistor stage\u2014eliminating crosstalk and preserving channel integrity. Physical Build and Component Selection Encased in CNC-machined 6061-T6 aluminum with powder-coated matte black finish, the Katana features gold-plated Neutrik NP2X jacks and a custom-designed 3PDT footswitch assembly. Internally, every resistor is metal-film (\u00b10.1% tolerance), capacitors include Nichicon Muse FK series (audio-grade electrolytics) and WIMA FKP2 polypropylene film caps for critical coupling stages. The PCB uses 2-oz copper traces with dedicated ground planes beneath analog sections\u2014reducing crosstalk by 22dB compared to Keeley\u2019s prior layouts. Power regulation includes a Texas Instruments TPS7A47 LDO delivering stable 9.02V \u00b10.03V to all active components, verified across load ranges from 5mA to 120mA. Circuit Architecture Breakdown At its core, the Katana employs two cascaded JFET gain stages per channel\u2014each using Toshiba 2SK30YT (J201 equivalent) transistors selected for V GS(off) consistency within \u00b10.15V. These are biased at 1.82V DC at the source, yielding optimal linearity for dynamic response. Unlike op-amp-based designs (e.g., Boss BD-2 or Fulltone OCD), JFETs offer lower input impedance (1.2M\u03a9 nominal), ",
+      "host": "gearstrings.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

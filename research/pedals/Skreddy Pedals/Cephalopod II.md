@@ -1,23 +1,42 @@
 # Skreddy Pedals — Cephalopod II
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Cephalopod II
 - **Builder:** Skreddy Pedals
-- **Pedal:** Cephalopod II
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Skreddy Pedals's Cephalopod II.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Cephalopod II** by **Skreddy Pedals** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Skreddy Pedals's Cephalopod II is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: Mk1, v4.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Home Effect Types Octave Cephalopod II Cephalopod II Vintage octave-up fuzz blasts a powerful, creamy fuzz voice with a prominent octave-up effect, similar to the Univox Superfuzz sound.
+This fuzz sustains well as it supplies a strong octave-up and all the chaos you might expect from a vintage octave (ala "Rocket").
+Manual Octave-up fuzz with great sustain and tracking Rip your Hendrix or your Pumpkins solos out!
+
+## Sources checked
+1. Octave | Cephalopod II | Skreddy Pedals: https://skreddypedals.com/cephalopod
+2. Skreddy Pedals Cephalopod II - Reverb: https://reverb.com/item/34773623-skreddy-pedals-cephalopod-ii
+3. Skreddy Pedals Cephalopod II - bestmusiccompanion.com: https://www.bestmusiccompanion.com/product/skreddy-pedals-cephalopod-ii/
+4. Skreddy Pedals - https://skreddypedals.com/skreddy_pedals_c...: https://www.facebook.com/SkreddyPedalsInc/posts/httpsskreddypedalscomskreddy_pedals_cephalopod_iiphp/1014054282100661/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

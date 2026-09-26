@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T09:48:44.072508+00:00",
+  "generated_at": "2026-09-26T09:49:37.934617+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2722,
     "complete": 2722,
     "research_pending": 0,
-    "deep_research_pending": 3094,
-    "deep_researched": 667,
+    "deep_research_pending": 3083,
+    "deep_researched": 678,
     "surface_ready": 3761
   },
   "next_target": {
@@ -48,20 +48,6 @@
       "pedal": "Destroyer",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 050/Destroyer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amzel Electronics",
-      "pedal": "Cheshire Cat Tone Evaporator",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 050/Cheshire Cat Tone Evaporator.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Analog Alien",
-      "pedal": "Alien Bass Station",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Analog Alien/Alien_Bass_Station.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Harmonic Percolator",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 056/Harmonic Percolator.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Noir",
+      "pedal": "Si / Ge Fuzz Face",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 056/Si - Ge Fuzz Face.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Analog Noir",
+      "pedal": "Tone Bender MK1.5 / Tone Bender MKII",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Analog Noir/Tone Bender MK1.5 - Tone Bender MKII.md",
       "research_level": "surface"
     }
   ]

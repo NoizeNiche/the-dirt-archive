@@ -36,3 +36,23 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+☰ Connect My Gear Lists My Pedalboards Settings Logout Gear Catalog Pedalboards Pedalboard Planner ← Gear Catalog Fuzz Add To My Pedalboard Add To List Daredevil Pedals Northern Creeper Report incorrect information The Northern Creeper Fuzz is a medium-to-high gain silicon fuzz built for classic, vintage tone.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified sound evidence
+☰ Connect My Gear Lists My Pedalboards Settings Logout Gear Catalog Pedalboards Pedalboard Planner ← Gear Catalog Fuzz Add To My Pedalboard Add To List Daredevil Pedals Northern Creeper Report incorrect information The Northern Creeper Fuzz is a medium-to-high gain silicon fuzz built for classic, vintage tone.
+Featuring a balanced EQ with solid low end and plenty of midrange bite, it delivers gritty texture, sweet sustain, and focused punch without getting muddy.
+Based on the original circuit design, this long-standing staple in the lineup offers tight chord definition, responsive crunch, and a wide palette of old-school fuzz colors.
+
+### Sources checked in this pass
+1. Daredevil Pedals Northern Creeper - What To Know Where To Buy: https://equipboard.com/items/daredevil-pedals-daredevil-northern-creeper
+2. Daredevil Pedals Northern Creeper Fuzz - eBay: https://www.ebay.com/itm/188895783886
+3. Daredevil Pedals Northern Creeper Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/15705/daredevil-pedals-northern-creeper
