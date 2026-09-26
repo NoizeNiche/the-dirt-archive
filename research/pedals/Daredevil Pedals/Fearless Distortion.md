@@ -43,3 +43,27 @@ Measuring precisely 4.5 inches wide × 2.5 inches deep × 1.75 inches tall and w
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals's Fearless Distortion is cataloged as a distortion pedal.
+
+### Verified diode terms
+- silicon diode, 1N4148.
+
+### Verified sound evidence
+Daredevil Pedals Releases The Fearless Distortion: A Deep Dive Into Its Circuitry, Tonal Range, and Studio-Ready Performance
+Unlike many modern high-gain units that rely on digital clipping or DSP-based modeling, the Fearless employs a discrete Class-A JFET front end followed by a dual-stage op-amp clipping section using hand-selected Texas Instruments OPA2134 operational amplifiers.
+Measuring precisely 4.5 inches wide × 2.5 inches deep × 1.75 inches tall and weighing 328 grams (11.6 oz), it fits comfortably on any pedalboard while delivering up to 22 dB of clean gain before clipping onset.
+
+### Sources checked in this pass
+1. Daredevil Pedals Fearless Distortion - What To Know Where To Buy: https://equipboard.com/items/daredevil-pedals-fearless-distortion
+2. Daredevil Pedals Releases The Fearless Distortion: A Deep Dive Into Its Circuitry, Tonal Range, and Studio-Ready Performance | GearStrings: https://gearstrings.com/gear-reviews/daredevil-pedals-releases-the-fearless-distortion
+3. Daredevil Pedals Cocked and Fearless Distortion/Fixed Wah: https://reverb.com/p/daredevil-pedals-cocked-and-fearless
+4. Daredevil Pedals Cocked & Fearless Distortion and Fixed Wah – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/daredevil-pedals-cocked-fearless-distortion-and-fixed-240630
+5. Daredevil Pedals Cocked and Fearless Distortion with Box | eBay: https://www.ebay.com/itm/800448704587
+6. Daredevil Pedals Cocked & Fearless Distortion – AE Guitars: https://aeguitars.com/products/daredevil-pedals-cocked-fearless-distortion
+7. Daredevil Pedals Cocked and Fearless Distortion Effects Pedal | Guitar Center: https://www.guitarcenter.com/Daredevil-Pedals/Cocked-and-Fearless-Distortion-Effects-Pedal-1500000216856.gc

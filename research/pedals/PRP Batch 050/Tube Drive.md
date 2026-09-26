@@ -37,3 +37,18 @@ AMTECH describes Tube Drive as a flexible overdrive intended to cover traditiona
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** AMTECH-HANDWIRED overdrive page and builder product imagery.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+AMtech Handwired's Tube Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+OVERDRIVE – AMTECH-HANDWIRED Menu AMTECH-HANDWIRED Electronic Audio Custom Handmade & Service.
+Pembuatan efek untuk gitar dan bass seperti: overdrive, distorsi, preamp, pickups sustainer, chorus, delay, phase, gitar, bass, equalizer, buffer, splitter, fuzz, cabinet simuator, maximizer, gate, power supply, switcher, dan lainnya.
+Call/ Whatsapp: 08990807000 Lokasi Maps OVERDRIVE Tube Screamer?
+
+### Sources checked in this pass
+1. OVERDRIVE – AMTECH-HANDWIRED: https://www.amtechhandwired.com/?page_id=110

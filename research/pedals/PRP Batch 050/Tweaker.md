@@ -44,3 +44,23 @@ Tweaker can produce classic or gnarly fuzz at ordinary settings, but its definin
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** Effects Database, including Ver.2 imagery and product links.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Tweaker's internal circuit is inspired by many legendary fuzz boxes, which is apparent in its overall sound quality.
+
+### Verified version references
+- The evidence references: V.2, v2.
+
+### Verified sound evidence
+In addition to being a wild oscillator, the fuzz sound of the Tweaker cleans up nicely and generates emotionally charged classic fuzz tones.
+The Tweaker's internal circuit is inspired by many legendary fuzz boxes, which is apparent in its overall sound quality.
+A very versatile pedal that can be used as classic/modern gnarly fuzz, booster to drive your tube amp, and all out monophonic noise generator, Tweaker is the most bugged out stompbox that is actually musically/sonically usable.
+
+### Sources checked in this pass
+1. amukaT Tweaker | Effects Database: https://www.effectsdatabase.com/model/amukat/tweaker
+2. AmukaT Gadgets’ Tweaker V.2 | Delicious Audio: https://delicious-audio.com/amukat-gadgets-tweaker/
+3. original Tweaker: http://amukat.com/Gadgets_TweakerVer1.html

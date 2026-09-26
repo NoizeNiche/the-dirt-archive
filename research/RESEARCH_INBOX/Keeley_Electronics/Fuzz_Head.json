@@ -1,0 +1,41 @@
+{
+  "builder": "Keeley Electronics",
+  "pedal": "Fuzz Head",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://robertkeeley.com/product/fuzz-head/",
+      "title": "",
+      "h1": "",
+      "excerpt": "",
+      "host": "robertkeeley.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://gearspace.com/gear/keeley-electronics/fuzz-head-pedal",
+      "title": "Keeley Electronics Fuzz Head Pedal - Gearspace",
+      "h1": "",
+      "excerpt": "",
+      "host": "gearspace.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/item/100261349-keeley-electronics-fuzz-head-pedal",
+      "title": "Keeley Electronics Fuzz Head Pedal - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/itm/407054317484",
+      "title": "Fuzz Head Guitar Effect Pedal. Keeley Electronics - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
