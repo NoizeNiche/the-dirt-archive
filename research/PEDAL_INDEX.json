@@ -30670,8 +30670,8 @@
       "image": "./assets/pedals/drybell/the-engine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DryBell/The Engine.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DW Labs",
@@ -30682,8 +30682,8 @@
       "image": "./assets/pedals/dw-labs/d3p-multi-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DW Labs/D3P Multi-Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -33683,8 +33683,8 @@
       "image": "./assets/pedals/fulltone/mas-malo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Mas Malo.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -35969,8 +35969,8 @@
       "image": "./assets/pedals/jhs-pedals/coyote/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Coyote.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -45472,8 +45472,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Smallsound/Bigsound/Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Smallsound/Bigsound",
@@ -45610,8 +45610,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Charon.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Spaceman Effects",
