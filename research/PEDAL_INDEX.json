@@ -36072,8 +36072,8 @@
       "image": "./assets/pedals/jhs-pedals/kilt-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Kilt V2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
