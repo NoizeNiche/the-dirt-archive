@@ -45,8 +45,8 @@
       "variation_name": "White",
       "image_source_page": "https://1981inventions.com/products/drv-mod-1",
       "image_source_url": "https://1981inventions.com/cdn/shop/files/2883610B-D039-461A-B639-E988A20C3CAB.jpg?v=1787878144&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "1981 Inventions",
@@ -413,8 +413,8 @@
       "research_record": "./research/pedals/Abominable Electronics/Demon Lung.md",
       "image_source_page": "https://www.abominablepedals.com/products/demon-lung-hyper-fuzz",
       "image_source_url": "https://www.abominablepedals.com/cdn/shop/files/demonlung2025_1200x1200.png?v=1749051758",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Abominable Electronics",
@@ -428,8 +428,8 @@
       "research_record": "./research/pedals/Abominable Electronics/Hail Satan.md",
       "image_source_page": "https://www.effectsdatabase.com/model/abominable/hailsatan",
       "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/abominable_hailsatan_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Abominable Electronics",
@@ -443,8 +443,8 @@
       "research_record": "./research/pedals/Abominable Electronics/Hail Satan Deluxe.md",
       "image_source_page": "https://www.abominablepedals.com/products/hail-satan-deluxe",
       "image_source_url": "https://www.abominablepedals.com/cdn/shop/files/hsd2025_1200x1200.png?v=1749052094",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Abominable Electronics",
@@ -456,8 +456,8 @@
       "source_page": "https://www.abominablepedals.com/products/hellmouth-throwback-art-limited-to-125",
       "research_record": "./research/pedals/Abominable Electronics/Hellmouth.md",
       "image_source_url": "https://www.abominablepedals.com/cdn/shop/files/hellmouth2024_1200x1200.png?v=1702582154",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Abominable Electronics",
@@ -470,8 +470,8 @@
       "source_page": "https://www.chicagomusicexchange.com/products/abominable-electronics-oppressive-cult-destroyer-1344213",
       "research_record": "./research/pedals/Abominable Electronics/Oppressive Cult Destroyer.md",
       "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/abominable-electronics-effects-and-pedals-overdrive-and-boost-abominable-electronics-oppressive-cult-destroyer-u3513196612-28643339436167.jpg?v=1645614845&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Abominable Electronics",
@@ -483,8 +483,8 @@
       "source_page": "https://www.abominablepedals.com/products/throne-torcher",
       "research_record": "./research/pedals/Abominable Electronics/Throne Torcher.md",
       "image_source_url": "https://www.abominablepedals.com/cdn/shop/files/throne2024_1200x1200.png?v=1702582270",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Abominable Electronics",
@@ -497,8 +497,8 @@
       "research_record": "./research/pedals/Abominable Electronics/Toke Machine.md",
       "image_source_url": "https://www.abominablepedals.com/cdn/shop/products/image_686a370f-8876-4f26-bef4-1d44a3ff43b3_1080x.png?v=1664744488",
       "image_source_page": "https://www.abominablepedals.com/products/toke-machine?variant=40043937955886",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Abominable Electronics",
@@ -510,8 +510,8 @@
       "source_page": "https://www.effectsdatabase.com/model/abominable/yeti",
       "research_record": "./research/pedals/Abominable Electronics/Yeti Fuzz.md",
       "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/abominable_yeti_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AboveGroundFX",
