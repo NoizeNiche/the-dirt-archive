@@ -2307,8 +2307,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 334,
       "image_source_url": "https://i.ytimg.com/vi/yzpiZKmnOBs/maxresdefault.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alen Geere",
@@ -37925,8 +37925,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Maestro Antique Revised VPtP.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
@@ -51199,8 +51199,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Double Rock.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",
