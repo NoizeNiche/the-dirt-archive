@@ -31501,7 +31501,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/sound-shank-germanium-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Sound Shank — Germanium Fuzz.md",
       "research_level": "surface",
@@ -32578,7 +32578,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/empress-effects/germ-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Empress Effects/Germ Drive.md",
       "research_level": "surface",
@@ -33589,7 +33589,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fulltone/70-pedal-bc/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/70 Pedal-BC.md",
       "research_level": "deep",
@@ -33666,7 +33666,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fulltone/limited-edition-ocd/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Limited Edition OCD.md",
       "research_level": "deep",
@@ -35300,7 +35300,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/ron-fucking-swanson-super-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Ron Fucking Swanson Super Fuzz.md",
       "research_level": "deep",
@@ -35312,7 +35312,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/static-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Static Fuzz.md",
       "research_level": "deep",
@@ -36733,7 +36733,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/katana-blues-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Katana Blues Drive.md",
       "research_level": "deep",
@@ -36806,7 +36806,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/monterey-rotary-fuzz-vibe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Monterey Rotary Fuzz Vibe.md",
       "research_level": "deep",
@@ -38467,7 +38467,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/zendrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Zendrive.md",
       "research_level": "surface",
@@ -38479,7 +38479,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/zendrive-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Zendrive 2.md",
       "research_level": "surface",
@@ -38923,7 +38923,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/jcm900-overdrive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/JCM900 Overdrive Pedal.md",
       "research_level": "surface",
@@ -38947,7 +38947,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/none-identified/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/none identified.md",
       "research_level": "surface",
@@ -38959,7 +38959,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/shredmaster-vintage-reissue/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Shredmaster Vintage Reissue.md",
       "research_level": "surface",
@@ -38971,7 +38971,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/shredmaster-vintage-reissue-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Shredmaster Vintage Reissue Pedal.md",
       "research_level": "surface",
@@ -39093,7 +39093,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/laran-prebuilt/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/LARAN (prebuilt).md",
       "research_level": "surface",
@@ -39105,7 +39105,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/little-acorn/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/Little Acorn.md",
       "research_level": "surface",
@@ -39218,7 +39218,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/distortion-and-sustainer-ii-d-s-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Distortion and Sustainer II (D&S II).md",
       "research_level": "surface",
@@ -39231,7 +39231,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/distortion-master-ds830/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Distortion Master (DS830).md",
       "research_level": "surface",
@@ -39916,7 +39916,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mcgregor-pedals/crunch-plus-overdrive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/McGregor Pedals/Crunch Plus Overdrive/Distortion.md",
       "research_level": "surface",
@@ -39928,7 +39928,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mcgregor-pedals/crunch-transparent-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/McGregor Pedals/Crunch Transparent Overdrive.md",
       "research_level": "surface",
