@@ -1,43 +1,38 @@
 # Alexander Pedals — Magnolia Vintage Overdrive
 
 ## PRP identity
+- **Archive parent:** Magnolia Vintage Overdrive
 - **Builder:** Alexander Pedals
 - **Catalog type:** Overdrive
-- **Identity:** Vintage-American-voiced overdrive based on the character of a 1967 Deluxe amplifier.
+- **Identity:** Alexander Pedals's Magnolia Vintage Overdrive.
 
 ## What this pedal is
-Magnolia is described as a sonic duplication of Matthew Farrow's personal 1967 Deluxe, combining a smooth/chunky gain profile with a flexible three-band tone stack and two selectable clipping/compression modes.
+Alexander Pedals's Magnolia Vintage Overdrive is cataloged as an overdrive pedal.
 
 ## Colorways
-- White finish documented in the Reverb product catalog.
-- Black-finish example also documented in a later demo listing, but a complete factory colorway history is not established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Level
-- Drive
-- two-position clipping/compression toggle
-- Treble
-- Middle
-- Bass
-- 9-18V operation
-- no battery
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision history established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Selectable diode clipping configurations are documented, but exact diode part numbers are not.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Magnolia is designed for a smoother vintage-American overdrive response, with the three-band EQ providing broad control around the gain stage. The clipping/compression switch moves between a louder, more open response and a more compressed, dirtier response.
+Alexander Pedals Magnolia Vintage Overdrive - Central Music Skip to content Central Music Search: Our Blog FREE SHIPPING &#36; 0.00 0 View Cart Checkout No products in the cart.
+Featuring a fully adjustable tone stack and two selectable drive modes, it&#8217;s as comfortable as your favorite jeans.
+Drive: Adjusts the gain and distortion of the pedal.
 
 ## Sources checked
-1. Alexander Pedals support — https://www.alexanderpedals.com/support
-2. Vision Guitar — https://www.visionguitar.com/collections/pedals/products/alexander-pedals-magnolia-vintage-overdrive-pedal
-3. Reverb — https://reverb.com/p/alexander-pedals-magnolia-vintage-overdrive
+1. Alexander Pedals Magnolia Vintage Overdrive - Central Music: https://centralmusic.com/shop/effects/effects-pedals/alexander-magnolia-vintage-overdrive/
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

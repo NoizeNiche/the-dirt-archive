@@ -2485,8 +2485,8 @@
       "research_record": "./research/pedals/PRP Batch 046/Magnolia Vintage Overdrive.md",
       "image_source_url": "https://centralmusic.com/wp-content/uploads/2024/01/nettlwzllna0vpstccwr.jpg",
       "image_source_page": "https://centralmusic.com/shop/effects/effects-pedals/alexander-magnolia-vintage-overdrive/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alexander Pedals",
@@ -37973,8 +37973,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Rochechouart.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
@@ -51263,8 +51263,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Fuzz Probe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",

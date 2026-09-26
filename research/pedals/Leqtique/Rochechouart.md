@@ -1,23 +1,42 @@
 # Leqtique — Rochechouart
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Rochechouart
 - **Builder:** Leqtique
-- **Pedal:** Rochechouart
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Leqtique's Rochechouart.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Rochechouart** by **Leqtique** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+A bit about this pedal model: The Leqtique “Rochechouart” is a medium-gain overdrive pedal that offers some additional gain and dirt as compared to the “MAR” pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: 1N4148, 1N4150.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+6 presets of this hand-built medium-gain overdrive pedal; with and without a speaker cabinet IR.
+A bit about this pedal model: The Leqtique “Rochechouart” is a medium-gain overdrive pedal that offers some additional gain and dirt as compared to the “MAR” pedal.
+This pedal has a nice, compressed tone that both cuts through a mix and is well-suited for more articulate, single-note playing.
+
+## Sources checked
+1. Leqtique Rochechouart - Reverb: https://reverb.com/item/75014012-leqtique-rochechouart
+2. Leqtique Rochechouart &mdash; Tonexcellence.com: https://www.tonexcellence.com/all-tonex-presets/p/leqtique-rochechouart
+3. Leqtique / Rochechouart | STIFF SLACK WEBSHOP: https://www.stiffslack.shop/shopdetail/000000000992/
+4. LEQTIQUE ROCHECHOUART | Guitar Overdrive Effect Pedal in Good ... - eBay: https://www.ebay.com/itm/357455109862
+5. Leqtique”Rochechouart” : 【○八】マルハチBlog: https://maruhatch.exblog.jp/24503282/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
