@@ -32,10 +32,27 @@ function csvRows(raw) {
 function norm(v){return String(v||'').toLowerCase().replace(/\+/g,' plus ').replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim();}
 function slug(v){return String(v||'').trim().replace(/[^A-Za-z0-9]+/g,'_').replace(/^_+|_+$/g,'').slice(0,120)||'unknown';}
 function toks(v){return norm(v).split(/\s+/).filter(x=>x.length>=3||/\d/.test(x));}
+function pedalIdentityVariants(pedal){
+  const raw=String(pedal||'').trim();
+  const variants=[raw];
+  // Catalog records sometimes append a descriptive effect class after an em dash,
+  // while source pages use only the model name. Treat the left-hand model name as
+  // an exact identity variant without weakening ordinary hyphenated model names.
+  const core=raw.split(/\\s+—\\s+/)[0].trim();
+  if(core && core!==raw) variants.push(core);
+  return variants;
+}
 function fit(builder,pedal,text){
-  const h=norm(text), bt=toks(builder), pt=toks(pedal);
-  const bh=bt.filter(x=>h.includes(x)).length, ph=pt.filter(x=>h.includes(x)).length;
-  const exact=!!norm(pedal)&&h.includes(norm(pedal));
+  const h=norm(text), bt=toks(builder), variants=pedalIdentityVariants(pedal);
+  const bh=bt.filter(x=>h.includes(x)).length;
+  const variantStats=variants.map(v=>({v, n:norm(v), toks:toks(v)})).filter(x=>x.n);
+  let best={pedalHits:0,exact:false,n:''};
+  for(const v of variantStats){
+    const pedalHits=v.toks.filter(x=>h.includes(x)).length;
+    const exact=h.includes(v.n);
+    if((exact&&!best.exact) || (exact===best.exact && pedalHits>best.pedalHits)) best={pedalHits,exact,n:v.n};
+  }
+  const ph=best.pedalHits, exact=best.exact;
   return {score:ph*18+bh*10+(exact?70:0),builderHits:bh,pedalHits:ph,exactPedal:exact};
 }
 function host(url){try{return new URL(url).hostname.toLowerCase();}catch{return '';}}
