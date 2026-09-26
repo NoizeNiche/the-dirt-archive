@@ -31660,7 +31660,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/talons/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Talons.md",
       "research_level": "surface",
@@ -31673,7 +31673,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/talons-high-gain-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Talons — High Gain Overdrive.md",
       "research_level": "surface",
@@ -32246,7 +32246,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/nano-metal-muff/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Nano Metal Muff.md",
       "research_level": "surface",
@@ -32342,7 +32342,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/satisfaction-plus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Satisfaction Plus.md",
       "research_level": "surface",
@@ -35264,7 +35264,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/powerboost-retired/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/PowerBoost (retired).md",
       "research_level": "surface",
@@ -38134,7 +38134,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lichtlaerm-audio/the-king-in-yellow-parallel-blending-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/The King in Yellow — parallel blending overdrive.md",
       "research_level": "surface",
@@ -39117,7 +39117,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/maybe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/MAYBE.md",
       "research_level": "surface",
@@ -39303,7 +39303,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/fuzz-elements-ether/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Ether.md",
       "research_level": "surface",
@@ -40269,7 +40269,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/the-king/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/The King.md",
       "research_level": "surface",
@@ -40283,7 +40283,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/the-law-bender-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/The Law Bender Deluxe.md",
       "research_level": "surface",
@@ -40297,7 +40297,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/the-law-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/The Law Mini.md",
       "research_level": "surface",
@@ -40310,7 +40310,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/thundering-revival-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Thundering Revival Mini.md",
       "research_level": "surface",
@@ -40724,7 +40724,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mid-fi-electronics/magick-i/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Magick \"i\".md",
       "research_level": "surface",
@@ -40736,7 +40736,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mid-fi-electronics/overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Overdrive.md",
       "research_level": "surface",
@@ -40965,7 +40965,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/magpie/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Magpie.md",
       "research_level": "surface",
@@ -40977,7 +40977,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/odessa/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Odessa.md",
       "research_level": "surface",
@@ -40989,7 +40989,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/one-ton-bee/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/One Ton Bee.md",
       "research_level": "surface",
@@ -41001,7 +41001,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/pompeii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Pompeii.md",
       "research_level": "surface",
@@ -41205,7 +41205,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mooer-audio-mooer/blues-crab/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MOOER Audio / MOOER/Blues Crab.md",
       "research_level": "surface",
@@ -41229,7 +41229,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mooer-audio-mooer/cruncher/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MOOER Audio / MOOER/Cruncher.md",
       "research_level": "surface",
@@ -41277,7 +41277,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mooer-audio-mooer/grey-faze/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MOOER Audio / MOOER/Grey Faze.md",
       "research_level": "surface",
@@ -41289,7 +41289,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mooer-audio-mooer/hustle-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MOOER Audio / MOOER/Hustle Drive.md",
       "research_level": "surface",
@@ -41398,7 +41398,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mr-black/barbeque-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Barbeque Fuzz.md",
       "research_level": "surface",
@@ -41411,7 +41411,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mr-black/bass-od-mk-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Bass OD Mk. II.md",
       "research_level": "surface",
@@ -41424,7 +41424,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mr-black/bb-74x/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/BB-74x.md",
       "research_level": "surface",
