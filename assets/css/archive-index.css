@@ -180,6 +180,83 @@ main{padding:24px 0 72px}
   padding-bottom:11px;
 }
 
+.technicalPanel{
+  margin-top:17px;
+}
+.facetGroup{
+  margin-top:11px;
+}
+.facetHeading{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  margin:0 0 6px;
+  color:#d0cec7;
+  font-size:.61rem;
+  font-weight:950;
+  letter-spacing:.09em;
+  text-transform:uppercase;
+}
+.facetHint{
+  color:#76736b;
+  font-size:.54rem;
+  letter-spacing:.05em;
+}
+.facetOptions{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:5px;
+}
+.facetButton{
+  min-width:0;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:7px;
+  border:1px solid #44433e;
+  border-radius:9px;
+  background:#242421;
+  color:#f1efea;
+  padding:8px 8px;
+  cursor:pointer;
+  text-align:left;
+  font-size:.62rem;
+  font-weight:850;
+}
+.facetButton:hover:not(:disabled){
+  background:#2a2a26;
+  border-color:#76736b;
+}
+.facetButton.active{
+  background:var(--acid);
+  border-color:var(--acid);
+  color:#111;
+}
+.facetButton:focus-visible{
+  outline:2px solid var(--acid);
+  outline-offset:2px;
+}
+.facetButton:disabled{
+  opacity:.32;
+  cursor:default;
+}
+.facetName{
+  min-width:0;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+.facetCount{
+  flex:0 0 auto;
+  color:#8f8d86;
+  font-size:.56rem;
+  font-weight:900;
+}
+.facetButton.active .facetCount{
+  color:#3b3b37;
+}
+
 .filterSummary{display:none}
 .filterSummaryTitle{font-size:.68rem;font-weight:950;text-transform:uppercase;letter-spacing:.08em}
 .filterSummaryState{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#a8a69f;font-size:.62rem;font-weight:850}
