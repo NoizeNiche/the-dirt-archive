@@ -15581,7 +15581,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Plumes — Small Signal Shredder / overdrive",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/plumes-small-signal-shredder-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Plumes — Small Signal Shredder / overdrive.md"
   },
@@ -16470,7 +16470,7 @@
   {
     "builder": "Fjord Fuzz",
     "pedal": "Hedda",
-    "image": null,
+    "image": "./assets/pedals/fjord-fuzz/hedda/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fjord Fuzz/Hedda.md"
   },
@@ -17716,14 +17716,14 @@
   {
     "builder": "IdiotBox Effects",
     "pedal": "No Moon",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/no-moon/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/No Moon.md"
   },
   {
     "builder": "IdiotBox Effects",
     "pedal": "No Moon 2",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/no-moon-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/No Moon 2.md"
   },
@@ -17891,21 +17891,21 @@
   {
     "builder": "Jackson Audio",
     "pedal": "Goat Head",
-    "image": null,
+    "image": "./assets/pedals/jackson-audio/goat-head/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Jackson Audio/Goat Head.md"
   },
   {
     "builder": "Jackson Audio",
     "pedal": "Golden Boy Mini Overdrive",
-    "image": null,
+    "image": "./assets/pedals/jackson-audio/golden-boy-mini-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Jackson Audio/Golden Boy Mini Overdrive.md"
   },
   {
     "builder": "Jackson Audio",
     "pedal": "Golden Boy Transparent Overdrive",
-    "image": null,
+    "image": "./assets/pedals/jackson-audio/golden-boy-transparent-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Jackson Audio/Golden Boy Transparent Overdrive.md"
   },
@@ -18647,7 +18647,7 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Oxblood Germanium Overdrive",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/oxblood-germanium-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Oxblood Germanium Overdrive.md"
   },
@@ -19025,7 +19025,7 @@
   {
     "builder": "KHDK Electronics",
     "pedal": "Unicorn Blood II — octave fuzz",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/unicorn-blood-ii-octave-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Unicorn Blood II — octave fuzz.md"
   },
@@ -19508,14 +19508,14 @@
   {
     "builder": "Lovepedal",
     "pedal": "Purple Plexi",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/purple-plexi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/Purple Plexi.md"
   },
   {
     "builder": "Lovepedal",
     "pedal": "Super Six",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/super-six/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/Super Six.md"
   },
@@ -19599,7 +19599,7 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Golden Cello",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/golden-cello/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md"
   },
@@ -19634,7 +19634,7 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Sweet Honey Overdrive Deluxe",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/sweet-honey-overdrive-deluxe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Deluxe.md"
   },
@@ -19662,7 +19662,7 @@
   {
     "builder": "MadeByMike",
     "pedal": "Dream Box",
-    "image": null,
+    "image": "./assets/pedals/madebymike/dream-box/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MadeByMike/Dream Box.md"
   },
@@ -19739,35 +19739,35 @@
   {
     "builder": "Marshall Amplification",
     "pedal": "Drivemaster Vintage Reissue",
-    "image": null,
+    "image": "./assets/pedals/marshall-amplification/drivemaster-vintage-reissue/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Marshall Amplification/Drivemaster Vintage Reissue.md"
   },
   {
     "builder": "Marshall Amplification",
     "pedal": "Drivemaster Vintage Reissue Pedal",
-    "image": null,
+    "image": "./assets/pedals/marshall-amplification/drivemaster-vintage-reissue-pedal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Marshall Amplification/Drivemaster Vintage Reissue Pedal.md"
   },
   {
     "builder": "Marshall Amplification",
     "pedal": "DSL Overdrive Pedal",
-    "image": null,
+    "image": "./assets/pedals/marshall-amplification/dsl-overdrive-pedal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Marshall Amplification/DSL Overdrive Pedal.md"
   },
   {
     "builder": "Marshall Amplification",
     "pedal": "Guv'nor Plus GV-2",
-    "image": null,
+    "image": "./assets/pedals/marshall-amplification/guv-nor-plus-gv-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Marshall Amplification/Guv'nor Plus GV-2.md"
   },
   {
     "builder": "Marshall Amplification",
     "pedal": "Guv'nor Vintage Reissue",
-    "image": null,
+    "image": "./assets/pedals/marshall-amplification/guv-nor-vintage-reissue/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Marshall Amplification/Guv'nor Vintage Reissue.md"
   },
@@ -19837,21 +19837,21 @@
   {
     "builder": "Mask Audio Electronics",
     "pedal": "BLACK MATH",
-    "image": null,
+    "image": "./assets/pedals/mask-audio-electronics/black-math/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/BLACK MATH.md"
   },
   {
     "builder": "Mask Audio Electronics",
     "pedal": "BSRI x MAE | MAYBE THE REAL TREASURE",
-    "image": null,
+    "image": "./assets/pedals/mask-audio-electronics/bsri-x-mae-maybe-the-real-treasure/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/BSRI x MAE | MAYBE THE REAL TREASURE.md"
   },
   {
     "builder": "Mask Audio Electronics",
     "pedal": "CASCADER",
-    "image": null,
+    "image": "./assets/pedals/mask-audio-electronics/cascader/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/CASCADER.md"
   },

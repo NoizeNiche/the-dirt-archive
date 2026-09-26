@@ -31465,7 +31465,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/plumes-small-signal-shredder-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Plumes — Small Signal Shredder / overdrive.md",
       "research_level": "surface",
@@ -33013,7 +33013,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fjord-fuzz/hedda/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Hedda.md",
       "research_level": "deep",
@@ -35212,7 +35212,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/no-moon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/No Moon.md",
       "research_level": "deep",
@@ -35226,7 +35226,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/no-moon-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/No Moon 2.md",
       "research_level": "deep",
@@ -35517,7 +35517,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/jackson-audio/goat-head/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Goat Head.md",
       "research_level": "deep",
@@ -35529,7 +35529,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jackson-audio/golden-boy-mini-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Golden Boy Mini Overdrive.md",
       "research_level": "deep",
@@ -35541,7 +35541,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jackson-audio/golden-boy-transparent-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Golden Boy Transparent Overdrive.md",
       "research_level": "deep",
@@ -36857,7 +36857,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/oxblood-germanium-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Oxblood Germanium Overdrive.md",
       "research_level": "surface",
@@ -37546,7 +37546,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/unicorn-blood-ii-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Unicorn Blood II — octave fuzz.md",
       "research_level": "surface",
@@ -38418,7 +38418,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/purple-plexi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Purple Plexi.md",
       "research_level": "surface",
@@ -38430,7 +38430,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/super-six/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Super Six.md",
       "research_level": "surface",
@@ -38575,7 +38575,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/golden-cello/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md",
       "research_level": "deep",
@@ -38636,7 +38636,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/sweet-honey-overdrive-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Deluxe.md",
       "research_level": "deep",
@@ -38687,7 +38687,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/madebymike/dream-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/Dream Box.md",
       "research_level": "deep",
@@ -38824,7 +38824,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/drivemaster-vintage-reissue/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Drivemaster Vintage Reissue.md",
       "research_level": "surface",
@@ -38837,7 +38837,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/drivemaster-vintage-reissue-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Drivemaster Vintage Reissue Pedal.md",
       "research_level": "surface",
@@ -38849,7 +38849,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/dsl-overdrive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/DSL Overdrive Pedal.md",
       "research_level": "surface",
@@ -38862,7 +38862,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/guv-nor-plus-gv-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Guv'nor Plus GV-2.md",
       "research_level": "surface",
@@ -38874,7 +38874,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/marshall-amplification/guv-nor-vintage-reissue/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Guv'nor Vintage Reissue.md",
       "research_level": "surface",
@@ -38995,7 +38995,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/black-math/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/BLACK MATH.md",
       "research_level": "surface",
@@ -39007,7 +39007,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/bsri-x-mae-maybe-the-real-treasure/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/BSRI x MAE | MAYBE THE REAL TREASURE.md",
       "research_level": "surface",
@@ -39019,7 +39019,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/cascader/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/CASCADER.md",
       "research_level": "surface",
