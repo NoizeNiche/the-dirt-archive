@@ -663,7 +663,7 @@
   {
     "builder": "Add+ Pedals",
     "pedal": "Tube Drive 2",
-    "image": null,
+    "image": "./assets/pedals/add-pedals/tube-drive-2/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/addplus/tubedrive/2",
     "research_record": "./research/pedals/Add+ Pedals/Tube Drive 2.md"
   },
@@ -14909,7 +14909,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "Grunge (FX69B)",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/grunge-fx69b/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/Grunge (FX69B).md"
   },
@@ -15399,7 +15399,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Dirt Transmitter Legacy Reissue — consolidated with Dirt Transmitter",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/dirt-transmitter-legacy-reissue-consolidated-with-dirt-transmitter/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter Legacy Reissue — consolidated with Dirt Transmitter.md"
   },
@@ -15798,7 +15798,7 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Bass Big Muff Pi 2",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/bass-big-muff-pi-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Bass Big Muff Pi 2.md"
   },
@@ -15896,14 +15896,14 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "EHX Percolator",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/ehx-percolator/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/EHX Percolator.md"
   },
   {
     "builder": "Electro-Harmonix",
     "pedal": "English Muff'n",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/english-muff-n/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/English Muff'n.md"
   },
@@ -16393,7 +16393,7 @@
   {
     "builder": "Fender",
     "pedal": "Santa Ana Overdrive",
-    "image": null,
+    "image": "./assets/pedals/fender/santa-ana-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fender/Santa Ana Overdrive.md"
   },
@@ -16407,7 +16407,7 @@
   {
     "builder": "Fender",
     "pedal": "The Pelt Fuzz",
-    "image": null,
+    "image": "./assets/pedals/fender/the-pelt-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fender/The Pelt Fuzz.md"
   },
@@ -16512,7 +16512,7 @@
   {
     "builder": "Fjord Fuzz",
     "pedal": "SOL",
-    "image": null,
+    "image": "./assets/pedals/fjord-fuzz/sol/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fjord Fuzz/SOL.md"
   },
@@ -16855,14 +16855,14 @@
   {
     "builder": "Fulltone",
     "pedal": "OCD",
-    "image": null,
+    "image": "./assets/pedals/fulltone/ocd/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fulltone/OCD.md"
   },
   {
     "builder": "Fulltone",
     "pedal": "OCD-Germanium",
-    "image": null,
+    "image": "./assets/pedals/fulltone/ocd-germanium/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fulltone/OCD-Germanium.md"
   },
@@ -17079,7 +17079,7 @@
   {
     "builder": "Greer Amps",
     "pedal": "Reactor #4",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/reactor-4/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Reactor #4.md"
   },
@@ -17093,7 +17093,7 @@
   {
     "builder": "Greer Amps",
     "pedal": "Royal Velvet",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/royal-velvet/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Royal Velvet.md"
   },
@@ -17541,21 +17541,21 @@
   {
     "builder": "Ibanez",
     "pedal": "TS9B",
-    "image": null,
+    "image": "./assets/pedals/ibanez/ts9b/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ibanez/TS9B.md"
   },
   {
     "builder": "Ibanez",
     "pedal": "TS9DX",
-    "image": null,
+    "image": "./assets/pedals/ibanez/ts9dx/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ibanez/TS9DX.md"
   },
   {
     "builder": "Ibanez",
     "pedal": "TSMINI",
-    "image": null,
+    "image": "./assets/pedals/ibanez/tsmini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ibanez/TSMINI.md"
   },
@@ -17681,28 +17681,28 @@
   {
     "builder": "IdiotBox Effects",
     "pedal": "Lazer Phazer (retired)",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/lazer-phazer-retired/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Lazer Phazer (retired).md"
   },
   {
     "builder": "IdiotBox Effects",
     "pedal": "Lost Ark",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/lost-ark/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Lost Ark.md"
   },
   {
     "builder": "IdiotBox Effects",
     "pedal": "Monster Fuzz",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/monster-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Monster Fuzz.md"
   },
   {
     "builder": "IdiotBox Effects",
     "pedal": "Necrofier Echo Drive",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/necrofier-echo-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Necrofier Echo Drive.md"
   },
@@ -18010,7 +18010,7 @@
   {
     "builder": "JAM Pedals",
     "pedal": "Rattler ltd",
-    "image": null,
+    "image": "./assets/pedals/jam-pedals/rattler-ltd/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JAM Pedals/Rattler ltd.md"
   },
@@ -18024,21 +18024,21 @@
   {
     "builder": "JAM Pedals",
     "pedal": "Red Muck",
-    "image": null,
+    "image": "./assets/pedals/jam-pedals/red-muck/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JAM Pedals/Red Muck.md"
   },
   {
     "builder": "JAM Pedals",
     "pedal": "Red Muck Bass",
-    "image": null,
+    "image": "./assets/pedals/jam-pedals/red-muck-bass/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JAM Pedals/Red Muck Bass.md"
   },
   {
     "builder": "JAM Pedals",
     "pedal": "Red Muck mk.2",
-    "image": null,
+    "image": "./assets/pedals/jam-pedals/red-muck-mk-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JAM Pedals/Red Muck mk.2.md"
   },
@@ -18143,7 +18143,7 @@
   {
     "builder": "JHS Pedals",
     "pedal": "Coyote",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/coyote/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Coyote.md"
   },
@@ -18164,28 +18164,28 @@
   {
     "builder": "JHS Pedals",
     "pedal": "Double Dragon — octave-up distortion section within an octave device",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/double-dragon-octave-up-distortion-section-within-an-octave-device/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Double Dragon — octave-up distortion section within an octave device.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "EHX by JHS — Big Muff 2",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/ehx-by-jhs-big-muff-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/EHX by JHS — Big Muff 2.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "EHX by JHS Big Muff 2",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/ehx-by-jhs-big-muff-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/EHX by JHS Big Muff 2.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Hard Drive",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/hard-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Hard Drive.md"
   },
@@ -18437,7 +18437,7 @@
   {
     "builder": "Katanasound",
     "pedal": "Venomous Snake Octave Fuzz",
-    "image": null,
+    "image": "./assets/pedals/katanasound/venomous-snake-octave-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Katanasound/Venomous Snake Octave Fuzz.md"
   },
@@ -18493,35 +18493,35 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Blues Disorder Overdrive and Distortion",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/blues-disorder-overdrive-and-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Blues Disorder Overdrive and Distortion.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "D&M Drive",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/d-m-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/D&M Drive.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "Dark Side",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/dark-side/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Dark Side.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "Dark Side Fuzz/Phaser",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/dark-side-fuzz-phaser/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Dark Side Fuzz/Phaser.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "DCR Drive Chorus Rotary",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/dcr-drive-chorus-rotary/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/DCR Drive Chorus Rotary.md"
   },
@@ -18787,35 +18787,35 @@
   {
     "builder": "KHDK Electronics",
     "pedal": "Dark Blood — distortion",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/dark-blood-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Dark Blood — distortion.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Deathscream",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/deathscream/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Deathscream.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Deathscream — Kreator signature dirt product",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/deathscream-kreator-signature-dirt-product/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Deathscream — Kreator signature dirt product.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Fallout Bass Overdrive",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/fallout-bass-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Fallout Bass Overdrive.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Fallout Bass Overdrive — bass overdrive",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/fallout-bass-overdrive-bass-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Fallout Bass Overdrive — bass overdrive.md"
   },
@@ -19088,21 +19088,21 @@
   {
     "builder": "KMA Machines",
     "pedal": "Guardian Of The Wurm",
-    "image": null,
+    "image": "./assets/pedals/kma-machines/guardian-of-the-wurm/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KMA Machines/Guardian Of The Wurm.md"
   },
   {
     "builder": "KMA Machines",
     "pedal": "Logan",
-    "image": null,
+    "image": "./assets/pedals/kma-machines/logan/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KMA Machines/Logan.md"
   },
   {
     "builder": "KMA Machines",
     "pedal": "Minos",
-    "image": null,
+    "image": "./assets/pedals/kma-machines/minos/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KMA Machines/Minos.md"
   },
