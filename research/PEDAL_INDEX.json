@@ -3923,8 +3923,8 @@
       "research_record": "./research/pedals/Anasounds/feed me mk3.md",
       "image_source_url": "https://anasounds.com/wp-content/uploads/2021/11/Feed-Me-MK3-doite-1209x1209.jpg",
       "image_source_page": "https://anasounds.com/produit/feed-me-already-assembled-pedal/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Anasounds",
