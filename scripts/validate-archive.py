@@ -254,10 +254,10 @@ def main():
     missing_home_selectors = [selector for selector in required_home_selectors if selector not in home_css]
     if missing_home_selectors:
         raise SystemExit("Home archive stylesheet is missing required UI selectors: " + ", ".join(missing_home_selectors))
-    if 'PHOTO_BROWSER_CACHE_LIMIT: "240"' not in cache_workflow:
-        raise SystemExit("Photo cache workflow batch limit is not the optimized 240-record window.")
-    if 'PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "120000"' not in cache_workflow:
-        raise SystemExit("Photo cache workflow recovery deadline is not the optimized two-minute window.")
+    if 'PHOTO_BROWSER_CACHE_LIMIT: "120"' not in cache_workflow:
+        raise SystemExit("Photo cache workflow batch limit is not the optimized 120-record window.")
+    if 'PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "75000"' not in cache_workflow:
+        raise SystemExit("Photo cache workflow recovery deadline is not the optimized 75-second window.")
     cache_script = (ROOT / "scripts/cache-pedal-images.py").read_text(encoding="utf-8")
     photo_cache_script = (ROOT / "scripts/browser-photo-cache.mjs").read_text(encoding="utf-8")
     if "directImageOverride" not in photo_cache_script or "candidates.filter(candidate => candidate.directImageOverride)" not in photo_cache_script:
