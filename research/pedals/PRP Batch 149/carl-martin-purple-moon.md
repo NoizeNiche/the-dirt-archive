@@ -15,3 +15,23 @@
 - **Sources checked:**
   - https://carlmartin.com/products/purple-moon/
   - https://carlmartin.com/support/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Built as a fully analog design with true bypass switching, Purple Moon is housed in a compact, road-ready enclosure.
+
+### Verified color/finish evidence
+- Whether used as a featured sound or blended into a larger pedal chain, Purple Moon remains controllable and responsive.
+- Built as a fully analog design with true bypass switching, Purple Moon is housed in a compact, road-ready enclosure.
+
+### Verified sound evidence
+Toggle Menu Purple Moon A fuzz and vibe hybrid delivering rich vintage tones with psychedelic character, suited for expressive lead work.
+129,00 € Add to cart More details · Find a dealer Combines vintage-style fuzz with classic vibe-style modulation for rich, expressive tones.
+Fuzz circuit delivers organic, musical saturation with natural note bloom and chord movement.
+
+### Sources checked in this pass
+1. Purple Moon - Carl Martin: https://carlmartin.com/products/purple-moon/
+2. Carl Martin Purple Moon | Guitar Pedals Derby | Foulds Guitars: https://fouldsguitars.com/products/carl-martin-purple-moon

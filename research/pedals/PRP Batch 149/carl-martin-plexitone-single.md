@@ -14,3 +14,19 @@
 - **Research confidence:** High for the Pete Thorn collaboration, compact derivation, control layout, power architecture, and documented tonal refinement.
 - **Sources checked:**
   - https://carlmartin.com/products/plexitone-single/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The PlexiTone Single (sometimes dubbed the Pete Thorn edition) is a compact, single-channel overdrive/distortion pedal derived from the classic Carl Martin PlexiTone.
+
+### Verified sound evidence
+Toggle Menu PlexiTone Single High-gain Plexi-style pedal created with Pete Thorn, featuring rich saturation and compact layout with internal DC converter.
+Based on the original High Gain channel, with tighter low end and smoother top end for consistent tones across different setups.
+Operates internally at ±12V for extra headroom and dynamic response, powered by a standard 9V supply.
+
+### Sources checked in this pass
+1. PlexiTone Single - Carl Martin: https://carlmartin.com/products/plexitone-single/
+2. Carl Martin PlexiTone Single Channel Overdrive Guitar Effects Pedal: https://www.pitbullaudio.com/carl-martin-plexitone-single-channel-overdrive-guitar-effects-pedal.html

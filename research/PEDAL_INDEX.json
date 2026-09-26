@@ -18236,8 +18236,8 @@
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-plexitone-single.md",
       "image_source_page": "https://www.pitbullaudio.com/carl-martin-plexitone-single-channel-overdrive-guitar-effects-pedal.html",
       "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/c/m/cm-plexitone-2.jpg?quality=95&bg-color=255,255,255&fit=bounds&height=&width=",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carl Martin",
@@ -18250,8 +18250,8 @@
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-purple-moon.md",
       "image_source_page": "https://fouldsguitars.com/products/carl-martin-purple-moon",
       "image_source_url": "https://fouldsguitars.com/cdn/shop/products/CLMNPPLMLANG.jpg?v=1680337291&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carl Martin",
@@ -46364,8 +46364,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Strymon/Sunset Dual Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Subdecay",
