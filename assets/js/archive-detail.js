@@ -204,6 +204,12 @@ function renderDemo(item){
     '<a class="action primary" href="'+esc(demo.url)+'" target="_blank" rel="noopener">Watch demo ↗</a>';
 }
 
+function updateMetaDescription(item){
+  const types=(item.types||[]).filter(Boolean).join(', ')||'guitar dirt';
+  const meta=document.querySelector('meta[name="description"]');
+  if(meta)meta.setAttribute('content','Explore '+item.pedal+', a '+types+' pedal by '+item.company+', in The Dirt Archive.');
+}
+
 function renderCatalogBaseline(item){
   const typeLabel=(item.types||[]).filter(Boolean).join(', ')||'Not classified';
   const source=String(item.source_page||'').trim();
@@ -290,6 +296,7 @@ loadCatalog()
 
   if(wantedType && wantedType!=='All' && !(item.types||[]).includes(wantedType)) wantedType='';
   document.title=item.pedal+' · The Dirt Archive';
+  updateMetaDescription(item);
   $('record').hidden=false;
   renderPageNav(allItems,item);
   $('crumb').textContent=(item.types||[]).join(' · ')+' · '+item.company;
