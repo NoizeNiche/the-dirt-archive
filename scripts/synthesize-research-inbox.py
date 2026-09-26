@@ -263,7 +263,7 @@ def main():
         else:
             skipped += 1
     INDEX.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps({"created": created, "updated": updated, "created_paths": created_paths, "skipped": skipped, "held": held}, ensure_ascii=True))
+    print(json.dumps({"created": created, "deepened": deepened, "created_paths": created_paths, "skipped": skipped, "held": held}, ensure_ascii=True))
     
 
 if __name__ == "__main__":
