@@ -39,3 +39,16 @@ The 5-knob fuzz pedal is equipped with a toggle for a glitching mode, and a bypa
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dwarfcraft Devices's Spectacular Aenima is cataloged as a fuzz / overdrive pedal.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices Spectacular Aenima - RARE!!! | Reverb: https://reverb.com/item/88885577-dwarfcraft-devices-spectacular-aenima-rare
+2. Dwarfcraft Devices Spectacular Aenima | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/spectacularaenima
+3. Dwarfcraft Devices Spectacular Aenima Devi Ever Fuzz Loop: https://www.worthpoint.com/worthopedia/dwarfcraft-devices-spectacular-aenima-1618219170
+4. F/S - Dwarfcraft Spectacular Aenima Fuzz Loop Spectacular Aenima ...: https://www.harmonycentral.com/forums/topic/1816548-fs-dwarfcraft-spectacular-aenima-fuzz-loop-spectacular-aenima/

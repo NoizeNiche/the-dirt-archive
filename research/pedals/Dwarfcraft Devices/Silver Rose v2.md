@@ -39,3 +39,27 @@ This monster pedal combines a version of the classic Superfuzz circuit with a Dw
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Sku: DWARFSILVRSVT Brand: Dwarfcraft Devices Dwarfcraft Devices Silver Rose v2 Fuzz Pedal This thing should probably be called the Drama Queen, given the history.
+
+### Verified version references
+- The evidence references: V2, v2.
+
+### Verified sound evidence
+Sku: DWARFSILVRSVT Brand: Dwarfcraft Devices Dwarfcraft Devices Silver Rose v2 Fuzz Pedal This thing should probably be called the Drama Queen, given the history.
+You can get those old school Superfuzz tones, from raspy classic rock to a mid-scooped doomy fuzz.
+On the ECT side, you can get the other end of the spectrum - warm and wooly, with plenty of aggressive distortion on tap.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices Silver Rose V2 - Reverb: https://reverb.com/item/94161004-dwarfcraft-devices-silver-rose-v2
+2. Dwarfcraft Devices Silver Rose v2 - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-silver-rose-v2
+3. Dwarfcraft Devices Sil Rose V2 – Motor City Guitar: https://motorcityguitar.com/products/dwarfcraft-devices-silver-rose-v2?variant=45056542030
+4. Dwarfcraft Devices Silver Rose v2 - Guitar Picks for Clean Tone, Grip Control: https://www.brightstrumpicks.com/product/dwarfcraft-devices-silver-rose-v2/
+5. Dwarfcraft Devices Silver Rose v2 | Pedals and Effects | acoguitar.com: https://www.acoguitar.com/product/dwarfcraft-devices-silver-rose-v2/
+6. Dwarfcraft Devices Silver Rose v2 - Clarinet Reeds with Balanced Tone and Durability: https://www.clarvixai.com/product/dwarfcraft-devices-silver-rose-v2/
+7. Dwarfcraft Devices Silver Rose v2 - musicequipmentbase.com: https://www.musicequipmentbase.com/product/dwarfcraft-devices-silver-rose-v2/

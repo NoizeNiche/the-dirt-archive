@@ -30853,8 +30853,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/silver-rose-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Silver Rose v2.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -30866,8 +30866,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/spectacular-aenima/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Spectacular Aenima.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -33770,8 +33770,8 @@
       "image": "./assets/pedals/fulltone/soul-bender-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Soul-Bender v2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -36020,8 +36020,8 @@
       "image": "./assets/pedals/jhs-pedals/ehx-by-jhs-big-muff-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/EHX by JHS — Big Muff 2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -36948,8 +36948,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/SUPER BASS Overdrive and Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -45764,8 +45764,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Astoria.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",

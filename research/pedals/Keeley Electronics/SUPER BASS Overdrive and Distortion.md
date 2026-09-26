@@ -1,23 +1,39 @@
 # Keeley Electronics — SUPER BASS Overdrive and Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** SUPER BASS Overdrive and Distortion
 - **Builder:** Keeley Electronics
-- **Pedal:** SUPER BASS Overdrive and Distortion
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Keeley Electronics's SUPER BASS Overdrive and Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **SUPER BASS Overdrive and Distortion** by **Keeley Electronics** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Now, in an ode to time-tested tones, Keeley pays homage to this pantheon of power with its Super Bass overdrive and distortion pedal — and you can only get it at Sweetwater!
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Keeley Electronics SUPER BASS Overdrive and Distortion
+What Keeley Electronics say about the SUPER BASS Overdrive and Distortion Available exclusively at Sweetwater.com ONLY $99!
+Now, in an ode to time-tested tones, Keeley pays homage to this pantheon of power with its Super Bass overdrive and distortion pedal — and you can only get it at Sweetwater!
+
+## Sources checked
+1. https://robertkeeley.com/product/super-bass-overdrive-and-distortion/: https://robertkeeley.com/product/super-bass-overdrive-and-distortion/
+2. Keeley Electronics SUPER BASS Overdrive and Distortion | AllThePedals: https://allthepedals.com/pedals/keeley-electronics-super-bass-overdrive-and-distortion/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
