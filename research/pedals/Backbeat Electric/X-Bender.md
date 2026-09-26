@@ -1,48 +1,38 @@
-# Backbeat Electric - X-Bender
+# Backbeat Electric — X-Bender
 
 ## PRP identity
 - **Archive parent:** X-Bender
 - **Builder:** Backbeat Electric
 - **Catalog type:** Fuzz
-- **Identity:** German handmade three-control fuzz/distortion pedal with Volume, Tone, and Sustain.
+- **Identity:** Backbeat Electric's X-Bender.
 
 ## What this pedal is
-A 2010 Backbeat Electric profile identifies the X-Bender as a three-knob fuzz/distortion pedal with Volume, Tone, and Sustain controls. The same source documents a heavy-duty aluminum case, stained Fireland cherry side walls, a sliding 9 V battery compartment, 9 V DC input with battery disconnect, and true bypass.
+--------------------------------------------------- Backbeat Electric X-Bender Fuzz/Distortion Features * Anti-Slide Bottom Plate * Heavy-Duty Aluminum Case * Stained Fireland Cherry Tree Side Walls * 9v DC Jack w/ Battery Off Switch * Sliding Drawer 9v Battery Compartment * Handbuilt in Germany * High Quality Components * True Bypass Circuit ----------------------------------------------------- Ladies and gents, let me introduce you to the mighty mighty X-Bender from Backbeat Electric.
 
 ## Colorways
-- One documented construction uses a heavy-duty aluminum case with **stained Fireland cherry side walls**.
-- No broader factory colorway chronology was verified.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### X-Bender production
-- Volume
-- Tone
-- Sustain
-- True bypass
-- 9 V DC input
-- Single 9 V battery operation
-- Battery-off switch on DC connection
-- Sliding battery compartment
-- Anti-slide bottom plate
-- Handbuilt in Germany
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision was verified.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Fuzz/distortion.
-- **Exact device:** Transistor part numbers were not publicly documented in the checked sources.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The contemporary 2010 review describes the X-Bender as capable of both vintage-voiced and more modern fuzz/distortion sounds, from subtle settings through thick, raspy high-sustain tones. The reviewer specifically noted tight lows, chunky mids, defined highs, and good note retention across clean and driven amplifiers.
+Analog War Cry: Mar: Monthly Pick / Backbeat Electric Wednesday, March 31, 2010 Mar: Monthly Pick / Backbeat Electric We've had some awesome luck here at AWC hunting down and discovering a ton of killer sounding tone tools.
+If there's one thing we can never go wrong on it's a great classic rock sounding fuzz box, overdriver, or distortion pedal.
+--------------------------------------------------- Backbeat Electric X-Bender Fuzz/Distortion Features * Anti-Slide Bottom Plate * Heavy-Duty Aluminum Case * Stained Fireland Cherry Tree Side Walls * 9v DC Jack w/ Battery Off Switch * Sliding Drawer 9v Battery Compartment * Handbuilt in Germany * High Quality Components * True Bypass Circuit ----------------------------------------------------- Ladies and gents, let me introduce you to the mighty mighty X-Bender from Backbeat Electric.
 
 ## Sources checked
-1. Analog War Cry, “Mar: Monthly Pick / Backbeat Electric” (2010-03-31): https://analogwarcry.blogspot.com/2010/03/mar-monthly-pick-backbeat-electric.html
-2. Effects Database taxonomy reference: https://www.effectsdatabase.com/model
+1. Analog War Cry: Mar: Monthly Pick / Backbeat Electric: https://analogwarcry.blogspot.com/2010/03/mar-monthly-pick-backbeat-electric.html
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- An exact-model image was not safely confirmed as a direct archival asset in this pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -314,8 +314,8 @@
         "https://www.effectsdatabase.com/model/am/metalmaniac"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "A&M Custom Effects",
@@ -6264,8 +6264,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://i.ytimg.com/vi/leHFmaEz_Z8/maxresdefault.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Backbeat Electric",
@@ -6279,8 +6279,8 @@
       "image_source_page": "https://analogwarcry.blogspot.com/2010/03/mar-monthly-pick-backbeat-electric.html",
       "image_source_page_verified": true,
       "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfVACuj9YWbsEV8iKuPSM7LMTlXnf47sH7rTY0yGoJPSTI512MBEIsOGJWZJ7kSffrgvuMvxhcYfyIm6p_ZMHBddsr1kI7PW3E684GQgr00u9g1i6WYf6NFimH6_lPTdF33-pZ5TYhE-A/s400/XBender.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Cat",
@@ -28151,8 +28151,8 @@
       "image": "./assets/pedals/custom-audio-electronics/freddy-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Custom Audio Electronics/Freddy Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Custom Guitar Innovations",
@@ -33956,8 +33956,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Ghetto Driver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34821,8 +34821,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/SM7.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -34833,8 +34833,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TK999HT.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -34845,8 +34845,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TK999OD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -37825,8 +37825,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/9/9.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
@@ -46710,8 +46710,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Fangs Metal Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",
@@ -47729,8 +47729,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Union Tube & Transistor/Tone Druid.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Union Tube & Transistor",
