@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T03:01:54.296365+00:00",
+  "generated_at": "2026-09-26T03:03:52.119476+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2543,
     "complete": 2543,
     "research_pending": 0,
-    "deep_research_pending": 3399,
-    "deep_researched": 362,
+    "deep_research_pending": 3393,
+    "deep_researched": 368,
     "surface_ready": 3761
   },
   "next_target": {
@@ -27,48 +27,6 @@
       "pedal": "Tri-Mode Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Akai/Tri-Mode Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alairex",
-      "pedal": "H.A.L.O. - Harmonic Amp-Like Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alairex/H.A.L.O. - Harmonic Amp-Like Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alairex",
-      "pedal": "H.A.L.O. Jr.",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alairex/H.A.L.O. Jr..md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alameda Guitars",
-      "pedal": "Fuzzoo",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alameda Guitars/Fuzzoo.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alber",
-      "pedal": "FU-10",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alber/FU-10.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alber",
-      "pedal": "FU-1000",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alber/FU-1000.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alber",
-      "pedal": "FU-1000P",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alber/FU-1000P.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +153,48 @@
       "pedal": "Methoxy Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 046/Methoxy Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alen Geere",
+      "pedal": "Preface Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 046/Preface Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alen Geere",
+      "pedal": "Serene",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 046/Serene.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alen Geere",
+      "pedal": "Tube Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 046/Tube Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alexander Pedals",
+      "pedal": "Clang Championship Edition",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 046/Clang Championship Edition.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alexander Pedals",
+      "pedal": "Hot Pink Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 046/Hot Pink Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alexander Pedals",
+      "pedal": "Jubilee Silver Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 046/Jubilee Silver Overdrive.md",
       "research_level": "surface"
     }
   ]
