@@ -44,7 +44,23 @@ jobs:
           ]
           pending=[p for p in pending if p["builder"] and p["pedal"]]
           pending.sort(key=lambda x:(x["builder"].casefold(),x["pedal"].casefold()))
-          canonical_frontier = pending[0] if pending else None
+
+          # The queue builder is the canonical ordering authority. Prefer its
+          # explicit next_target so the first unresolved record cannot be
+          # starved by the source-priority sort or by case/slug differences in
+          # the raw catalog. Fall back to simple alphabetical order only when
+          # the derived queue is unavailable.
+          canonical_frontier = None
+          try:
+              queue=json.load(open("research/RESEARCH_QUEUE.json", encoding="utf-8"))
+              nt=queue.get("next_target") or {}
+              candidate={"builder":str(nt.get("builder","")).strip(),"pedal":str(nt.get("pedal","")).strip()}
+              if candidate in pending:
+                  canonical_frontier=candidate
+          except Exception:
+              pass
+          if canonical_frontier is None and pending:
+              canonical_frontier = pending[0]
 
           # Derive evidence readiness from the current verified inbox rather
           # than the old snapshot queue. The inbox is rewritten by the foreman
