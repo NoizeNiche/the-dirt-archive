@@ -2,13 +2,7 @@ name: Research worker team
 
 on:
   workflow_dispatch:
-  # Background deep-research sweep. Surface coverage no longer depends on
-  # this lane, so slow/hard evidence can be revisited without blocking the site.
-  schedule:
-    - cron: '17 * * * *'
-  push:
-    paths:
-      - research/RESEARCH_WORKER_KICK
+  # Autonomous research is paused. Manual dispatch remains available.
 
 permissions:
   contents: write
@@ -440,24 +434,5 @@ jobs:
 
           exit 1
 
-      - name: Continue active research frontier
-        env:
-          GH_TOKEN: ${{ github.token }}
-        shell: bash
-        run: |
-          remaining="$(python - <<'PY'
-          import json
-          catalog=json.load(open("research/PEDAL_INDEX.json",encoding="utf-8"))
-          print(sum(1 for p in catalog.get("pedals",[]) if p.get("catalog_role") != "variation" and str(p.get("research_level") or "").strip().lower() != "deep"))
-          PY
-          )"
-          delta="${{ steps.publish.outputs.canonical_delta }}"
-          deepened="${{ steps.publish.outputs.deepened_research }}"
-          if [ "${remaining:-0}" -gt 0 ] && { [ "${delta:-0}" -gt 0 ] || [ "${deepened:-0}" -gt 0 ]; }; then
-            echo "Canonical research moved by $delta; active frontier has $remaining target(s). Dispatching next bounded pass."
-            gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/research-worker-team.yml/dispatches" -f ref=main
-          elif [ "${remaining:-0}" -gt 0 ]; then
-            echo "No canonical research movement in this pass; stopping self-chain to avoid retry thrash."
-          else
-            echo "Active research frontier is empty; stopping self-chain."
-          fi
+      - name: Research continuation paused
+        run: echo "Autonomous research continuation is paused; no self-dispatch will be performed."
