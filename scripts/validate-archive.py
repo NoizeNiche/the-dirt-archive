@@ -15,6 +15,7 @@ TRACKER = ROOT / "research/PRP_TRACKER.csv"
 PHOTO_REVIEW_QUEUE = ROOT / "research/PHOTO_REVIEW_QUEUE.csv"
 PHOTO_BACKLOG = ROOT / "research/PHOTO_BACKLOG.csv"
 PHOTO_SOURCE_OVERRIDES = ROOT / "research/PHOTO_SOURCE_OVERRIDES.csv"
+RESEARCH_SOURCE_OVERRIDES = ROOT / "research/RESEARCH_SOURCE_OVERRIDES.csv"
 APPLY_PHOTO_SOURCE_OVERRIDES = ROOT / "scripts/apply-photo-source-overrides.py"
 CORE = ROOT / "assets/js/archive-core.js"
 INDEX_JS = ROOT / "assets/js/archive-index.js"
@@ -43,7 +44,7 @@ def archived_image(image):
     return normalized.startswith("assets/pedals/") and (ROOT / normalized).is_file()
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, HOME, DETAIL, LEGACY, DEPLOY)
+    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, HOME, DETAIL, LEGACY, DEPLOY)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
@@ -67,6 +68,18 @@ def main():
 
     with PHOTO_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
         overrides = list(csv.DictReader(handle))
+    with RESEARCH_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
+        research_overrides = list(csv.DictReader(handle))
+    required_research_override_fields = {"Builder", "Pedal", "Source URL", "Note"}
+    for row in research_overrides:
+        if not required_research_override_fields.issubset(row.keys()):
+            raise SystemExit("RESEARCH_SOURCE_OVERRIDES.csv is missing required columns.")
+        k = pair(row.get("Builder"), row.get("Pedal"))
+        url = (row.get("Source URL") or "").strip()
+        if k not in catalog_by_key:
+            raise SystemExit(f"Research source override contains an unknown catalog identity: {k}")
+        if not re.match(r"^https?://", url, re.I):
+            raise SystemExit(f"Research source override is not an HTTP(S) URL: {k} -> {url}")
     override_by_key = {}
     override_page_keys = set()
     for row in overrides:
