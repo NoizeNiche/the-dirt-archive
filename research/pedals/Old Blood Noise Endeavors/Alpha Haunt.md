@@ -1,23 +1,37 @@
 # Old Blood Noise Endeavors — Alpha Haunt
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Alpha Haunt
 - **Builder:** Old Blood Noise Endeavors
-- **Pedal:** Alpha Haunt
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Old Blood Noise Endeavors's Alpha Haunt.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Alpha Haunt** by **Old Blood Noise Endeavors** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Old Blood Noise Endeavors's Alpha Haunt is cataloged as a Fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Old Blood Noise Endeavors &mdash; Alpha Haunt Skip to Content Open Menu Close Menu home pedals all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters merchandise accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account 0 0 Open Menu Close Menu home pedals all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters merchandise accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account 0 0 home Folder: pedals Back all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters Folder: merchandise Back accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account <a class="icon icon--lg ic
+
+## Sources checked
+1. Old Blood Noise Endeavors &mdash; Alpha Haunt: https://oldbloodnoise.com/pedals/p/alpha-haunt-fuzz
+2. Old Blood Noise Endeavors Alpha Haunt - Equipboard: https://equipboard.com/items/old-blood-noise-endeavors-alpha-haunt
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

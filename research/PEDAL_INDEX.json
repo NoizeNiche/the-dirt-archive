@@ -34108,8 +34108,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Razor Burn.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -35015,8 +35015,8 @@
       "image": "./assets/pedals/idiotbox-effects/blasteroid-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Blasteroid Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -42977,8 +42977,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Old Blood Noise Endeavors/Alpha Haunt.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Old Blood Noise Endeavors",
@@ -46770,8 +46770,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/MojoMojo Paul Gilbert Signature Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",
