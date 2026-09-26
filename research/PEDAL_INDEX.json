@@ -1723,8 +1723,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 333,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/agrpedals_cuervomuerto_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AGR Pedals",

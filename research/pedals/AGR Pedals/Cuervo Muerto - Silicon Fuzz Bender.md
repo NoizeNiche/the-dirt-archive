@@ -4,39 +4,35 @@
 - **Archive parent:** Cuervo Muerto - Silicon Fuzz Bender
 - **Builder:** AGR Pedals
 - **Catalog type:** Fuzz
-- **Identity:** Analog silicon fuzz inspired by Tone Bender and Fuzz Face-style circuits. [1]
+- **Identity:** AGR Pedals's Cuervo Muerto - Silicon Fuzz Bender.
 
 ## What this pedal is
-Cuervo Muerto is a hand-configured silicon fuzz whose individual units use selected transistors and custom component values. AGR's documented goal is a wide response range from gated, Velcro-like fuzz through smoother vintage-style saturation. [1]
+AGR Pedals's Cuervo Muerto - Silicon Fuzz Bender is cataloged as a fuzz pedal.
 
 ## Colorways
-- A black enclosure with illustrated skeletal/bird artwork is documented by Effects Database. [1]
-- Because each unit is individually configured, finish and component selection should not be conflated.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Attack
-- Bias
-- Volume
-- individually selected silicon transistors
-- individually configured component values [1]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision was verified.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Silicon. [1]
-- **Exact transistor/device:** Individual devices are selected per unit, but exact production part numbers are not publicly documented. [1]
+- Documented terms in the verified sources: silicon transistors.
+- The archive records only the component information explicitly present in these sources.
 
 ## Diode
-- **Exact clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Cuervo Muerto is voiced to span aggressive, gated and Velcro-like fuzz through smoother vintage fuzz. Attack changes the intensity and character of the fuzz while Bias changes the transistor operating point, affecting gating, sustain and texture. [1]
+AGR Pedals Cuervo Muerto - Silicon Fuzz Bender
+It is built around carefully selected silicon transistors and voiced to deliver a wide and continuous range of fuzz textures, spanning from aggressive, gated Velcro-style sounds to smoother, vintage fuzz tones.
+The circuit emphasizes dynamic response and expressive control, allowing the character of the fuzz to change noticeably with playing intensity and control adjustments.
 
 ## Sources checked
-1. Effects Database — AGR Pedals Cuervo Muerto: https://www.effectsdatabase.com/model/agrpedals/cuervomuerto
-2. Effects Database 2026 weekly overview: https://www.effectsdatabase.com/updates/weekly/20260105
+1. AGR Pedals Cuervo Muerto - Silicon Fuzz Bender | Effects Database: https://www.effectsdatabase.com/model/agrpedals/cuervomuerto
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database model page above.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
