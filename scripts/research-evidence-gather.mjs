@@ -1,5 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import os from 'node:os';
+import { execFileSync } from 'node:child_process';
 
 const TRACKER = path.join(process.cwd(), 'research/PRP_TRACKER.csv');
 const OVERRIDES = path.join(process.cwd(), 'research/PHOTO_SOURCE_OVERRIDES.csv');
@@ -73,14 +75,32 @@ async function boundedMap(items, limit, fn){
 }
 async function get(url){
   const ac=new AbortController(), timer=setTimeout(()=>ac.abort(),TIMEOUT);
+  let tempDir='';
   try{
     const r=await fetch(url,{signal:ac.signal,redirect:'follow',headers:{
       'User-Agent':'Mozilla/5.0 The-Dirt-Archive research worker',
       'Accept-Language':'en-US,en;q=0.8'
     }});
     if(!r.ok) return null;
-    return {url:r.url||url,text:(await r.text()).slice(0,600000)};
-  }catch{return null;} finally{clearTimeout(timer);}
+    const finalUrl=r.url||url;
+    const type=String(r.headers.get('content-type')||'').toLowerCase();
+    const bytes=Buffer.from(await r.arrayBuffer());
+    const isPdf=type.includes('application/pdf') || /\\.pdf(?:$|[?#])/i.test(finalUrl);
+    if(isPdf){
+      // GitHub runners include pdftotext. Extract readable manual/review text so
+      // binary PDF bytes never become canonical research excerpts.
+      tempDir=fs.mkdtempSync(path.join(os.tmpdir(),'dirt-pdf-'));
+      const pdfPath=path.join(tempDir,'source.pdf');
+      fs.writeFileSync(pdfPath,bytes);
+      const text=execFileSync('pdftotext',['-layout',pdfPath,'-'],{encoding:'utf8',maxBuffer:8*1024*1024})
+        .replace(/\\s+$/,'').slice(0,600000);
+      return {url:finalUrl,text};
+    }
+    return {url:finalUrl,text:bytes.toString('utf8').slice(0,600000)};
+  }catch{return null;} finally{
+    clearTimeout(timer);
+    if(tempDir) try{fs.rmSync(tempDir,{recursive:true,force:true});}catch{}
+  }
 }
 function strip(s){
   return String(s||'').replace(/<script[\s\S]*?<\/script>/gi,' ').replace(/<style[\s\S]*?<\/style>/gi,' ')
