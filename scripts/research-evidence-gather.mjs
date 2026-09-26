@@ -273,15 +273,16 @@ function searchQueries(builder,pedal){
     '"'+b+'" "'+p+'"',
     '"'+b+'" "'+pa+'"',
     '"'+b+'" "'+p+'" manual specs review',
-    '"'+b+'" "'+pa+'" manual specs review',
     '"'+p+'" "'+b+'" Reverb Effects Database',
-    '"'+pa+'" "'+b+'" Reverb Effects Database',
     'site:effectsdatabase.com/model "'+b+'" "'+p+'"',
-    'site:effectsdatabase.com/model "'+p+'"',
     'site:reverb.com/item "'+b+'" "'+p+'"',
-    'site:manualslib.com "'+b+'" "'+p+'"',
-    'site:musiciansfriend.com "'+b+'" "'+p+'"'
+    'site:manualslib.com "'+b+'" "'+p+'"'
   ];
+  // Prefer a compact discovery fan-out when exact source leads are already
+  // wired for the target. The gatherer still verifies those URLs and can
+  // fall back to independent search when the exact leads do not yield enough
+  // usable evidence. This keeps each worker focused on evidence collection
+  // instead of spending most of its budget issuing near-duplicate searches.
   if(pn.includes('tone bender')){
     variants.push('"'+b+'" "Tone Bender"');
     variants.push('"'+b+'" "TONE BENDER M.K"');
