@@ -1,3 +1,13 @@
+## Health-check / research pause checkpoint - September 26, 2026
+
+Autonomous research is intentionally paused for a viewer/site health review. Both `.github/workflows/research-worker-team.yml` and `.github/workflows/research-evidence-crew.yml` are now manual-dispatch only; the photo-recovery workflows remain active.
+
+Repository health review found no open GitHub issues. The deployment workflow includes archive validation, deployment freshness checks, a Playwright browser audit, a deployment image audit, and a live pictured-pedal photo audit.
+
+Viewer review against current public pedal databases identified three especially relevant improvement directions for later implementation: richer faceted filtering, stronger visual discovery/browse modes, and more useful detail-page navigation. PedalFilter currently emphasizes visual browsing and type/manufacturer counts; Effects Database exposes broad browse facets plus random-brand/random-effect discovery; Equipboard exposes extensive filter facets and sorting controls. These patterns are being treated as reference ideas rather than design templates.
+
+Live-site verification remains incomplete because the public Pages hostname could not be reached from the current network environment.
+
 ## Site metadata checkpoint - September 26, 2026
 
 The public archive index and pedal-detail shell now include descriptive metadata for search previews and clearer entry-point context. No duplicate sitemap/robots implementation was added because those outputs remain deployment-owned.
