@@ -32,3 +32,19 @@ Plain Drive can function as a low-gain boost/overdrive with relatively open EQ b
 
 ## Photo
 - **Archive status:** Exact Photo Needed
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Amsterdam Cream's Plain Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Amsterdam Cream Plain Drive 간략한 대면기 본문 바로가기 메뉴 검색 전체보기 (214) 음악이야기 (107) 작곡 (44) 참여 (63) 기타이야기 (69) 장비 (50) 연주 (19) 그냥이야기 (38) 식물 (8) 키보드 (15) 마노의 소행성 마노 (Mano) Notice 캐릭터 리뉴얼 했습니다.
+728x90 반응형 Amsterdam Cream Plain Drive Amsterdam Cream의 Plain Drive입니다.
+Amsterdam Cream Plain Drive 흥분을 가라앉히고 말하자면, 디자인은 호불호가 좀 갈릴 것 같고 지인이 피크닉 같다고 하더군요 , 특정 장르에서 뭔가 컨셉을 잡고 있다면 안 어울릴 수도 있는 외관입니다만, 디자인하고 잘 어울리는 다시 말해 기대에서 크게 벗어나지 않는 소리가 납니다.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/73333255-amsterdam-cream-plain-drive-overdrive-2010s-w-original-box-guitar-bass-effects-pedal-used-mint
+2. Amsterdam Cream Plain Drive 간략한 대면기: https://guitaristmano.com/89

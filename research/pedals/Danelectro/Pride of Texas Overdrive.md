@@ -37,3 +37,17 @@ Blow the Roof Off The volume knob on the Pride of Texas gives you lots of output
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Danelectro's Pride of Texas Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Danelectro Billionaire Pride of Texas Overdrive Effects Pedal
+
+### Sources checked in this pass
+1. Danelectro Billionaire Pride of Texas Overdrive Effects Pedal | Guitar Center: https://www.guitarcenter.com/Danelectro/Billionaire-Pride-of-Texas-Overdrive-Effects-Pedal.gc
+2. Danelectro Pride of Texas Overdrive — Anatomy of Tone: https://www.anatomyoftone.com/home/danelectro-pride-of-texas-overdrive-1

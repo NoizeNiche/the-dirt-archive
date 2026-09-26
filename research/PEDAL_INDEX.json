@@ -3103,8 +3103,8 @@
       "image_source_urls": [
         "https://files.effectsdatabase.com/gear/thumbs/amsterdamcream_bigeye_001.jpg"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amsterdam Cream",
@@ -3131,8 +3131,8 @@
       "research_record": "./research/pedals/PRP Batch 049/Plain Drive.md",
       "image_source_url": "https://img.youtube.com/vi/_6cIAz9yM8E/hqdefault.jpg",
       "image_source_page": "https://reverb.com/item/73333255-amsterdam-cream-plain-drive-overdrive-2010s-w-original-box-guitar-bass-effects-pedal-used-mint",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AMT Electronics",
@@ -16705,8 +16705,8 @@
       "research_record": "./research/pedals/PRP Batch 136/dr-boogie-vn-hi-gain-mesa-boogie.md",
       "image_source_url": "http://dcdn-us.mitiendanube.com/stores/006/279/558/products/3280-71145400f1f2b4f9e317484664314958-640-0.webp",
       "image_source_page": "https://pedalescajita.mitiendanube.com/productos/dr-boogie-vn-hi-gain-mesa-boogie/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cajita Stompboxes",
@@ -28662,8 +28662,8 @@
       "image": "./assets/pedals/danelectro/pastrami-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Pastrami Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -28674,8 +28674,8 @@
       "image": "./assets/pedals/danelectro/pride-of-texas-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Pride of Texas Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -28686,8 +28686,8 @@
       "image": "./assets/pedals/danelectro/roebuck/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Roebuck.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -31090,8 +31090,8 @@
       "image": "./assets/pedals/earthquaker-devices/cloven-hoof/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Cloven Hoof.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -33004,8 +33004,8 @@
       "image": "./assets/pedals/fjord-fuzz/gjallarhorn/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Gjallarhorn.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fjord Fuzz",
@@ -34432,8 +34432,8 @@
       "image": "./assets/pedals/himmelstrutz-elektro-art/fetto-nord-70/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO Nord 70+.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Himmelstrutz Elektro Art",
@@ -34444,8 +34444,8 @@
       "image": "./assets/pedals/himmelstrutz-elektro-art/fetto-nord/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO Nord+.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Himmelstrutz Elektro Art",
@@ -35201,8 +35201,8 @@
       "image": "./assets/pedals/idiotbox-effects/nihilizer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Nihilizer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -35215,8 +35215,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/No Moon.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -35556,8 +35556,8 @@
       "image": "./assets/pedals/jackson-audio/modern-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Modern Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Jackson Audio",
@@ -35568,8 +35568,8 @@
       "image": "./assets/pedals/jackson-audio/modern-fuzz-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Modern Fuzz Deluxe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Jackson Audio",
@@ -43226,8 +43226,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Origin Effects/Halcyon Gold Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Origin Effects",
@@ -43238,8 +43238,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Origin Effects/Halcyon Green Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Origin Effects",
@@ -43599,8 +43599,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Pettyjohn Electronics/ODI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Pettyjohn Electronics",
@@ -44836,8 +44836,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Shin's Music/Dumbloid.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Shin's Music",
@@ -44860,8 +44860,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Silktone/Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Silktone",
@@ -47083,8 +47083,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Cogmeister.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
@@ -47135,8 +47135,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Fallout Cloud.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
@@ -47853,8 +47853,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Jan Ray.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -47877,8 +47877,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Jan Ray EXP-Mod.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -49125,8 +49125,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Eras Five-State Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",

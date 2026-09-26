@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Danelectro's Pastrami Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Danelectro Pastrami Overdrive - Reverb: https://reverb.com/p/danelectro-pastrami-overdrive
+2. Danelectro DJ-1 Pastrami Overdrive - What To Know Where To Buy: https://equipboard.com/items/danelectro-pastrami-overdrive

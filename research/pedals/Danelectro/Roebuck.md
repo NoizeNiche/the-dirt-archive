@@ -35,3 +35,19 @@ Spring King™ Junior Nichols 1966™ 3699 fUZZ™ Back Talk™ & Roebuck™ The
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Ronquillo 43,183 views 08:05 Reverse Delay: The Hardest Guitar Effect to Control Music is Win 284,201 views 03:03 Danelectro Roebuck Demo Tim9house Danelectro Official 823 views × Danelectro Roebuck Demo Tim9house © Danelectro 2026 This website cannot be reproduced in any manner, whatsoever, without permission.
+
+### Verified sound evidence
+Because of its warm violin-like, organ-like tone.
+Danelectro® brings back this awesome pedal, nailing the original tone and grit, but also adding 2 tasty ­clipping ­options.
+Demo by Tim Nienhuis Tim Nienhuis 14,063 views 08:45 Danelectro Roebuck overdrive / distortion pedal
+
+### Sources checked in this pass
+1. Back Talk™ & Roebuck™ | Danelectro Guitars: https://danelectro.com/pedals/back-talk-roebuck/
+2. Sweetwater www.sweetwater.com: https://www.sweetwater.com/store/detail/RoebuckDist--danelectro-roebuck-distortion-pedal

@@ -1,23 +1,42 @@
 # Himmelstrutz Elektro Art — FETTO Nord+
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** FETTO Nord+
 - **Builder:** Himmelstrutz Elektro Art
-- **Pedal:** FETTO Nord+
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Himmelstrutz Elektro Art's FETTO Nord+.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **FETTO Nord+** by **Himmelstrutz Elektro Art** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Hand-built with precision, the FETTO Nord+ is a reliable tool offering a natural extension of your sound.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- It takes inspiration from the classic tones of cranked Marshall amps with a master volume, and the HIWATT DR103 with a non-colouring overdrive in front of it; this means it maintains a neutral character, enhancing your amplifier’s natural voice without overwhelming it.
+- 10 kΩ Push Switches DRIVE / GIMME Mechanical true-bypass switching for the OVERDRIVE circuit (ON = Blue LED).
+- 310 g (0.7 lbs) Colour / Finish May vary depending on season and reason.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+It takes inspiration from the classic tones of cranked Marshall amps with a master volume, and the HIWATT DR103 with a non-colouring overdrive in front of it; this means it maintains a neutral character, enhancing your amplifier’s natural voice without overwhelming it.
+This completely analogue pedal is built using discrete valve-emulating components to preserve the integrity of your tone.
+The FETTO Nord+ doesn’t impose its own sound but works in conjunction with your setup to allow a more expressive and dynamic playing experience.
+
+## Sources checked
+1. Himmelstrutz Elektro Art FETTO Nord+: https://www.himmelstrutz.com/fetto-nord/
+2. Himmelstrutz Fetto Nord+ - Great Wide Distortion + Boost | Effects Database: https://www.effectsdatabase.com/model/himmelstrutz/fetto/nord/plus
+3. Himmelstrutz Fetto Nord+ Overdrive Distortion - Reverb: https://reverb.com/de/item/85352792-himmelstrutz-fetto-nord-overdrive-distortion
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

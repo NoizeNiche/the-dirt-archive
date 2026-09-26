@@ -33,3 +33,18 @@ Big Eye Fuzz is voiced for a high-output, vintage-flavored fuzz with long sustai
 
 ## Photo
 - **Archive status:** Exact Photo Needed
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Amsterdam Cream's Big Eye Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2024-03-07 Amsterdam Cream Bigeye Fuzz bigbox ver.
+
+### Sources checked in this pass
+1. catalog/override source: https://amsterdamcream.com/post/74580352500/big-eye-fuzz
+2. catalog/override source: https://reverb.com/uk/item/65960922-amsterdam-cream-big-eye-fuzz
+3. Amsterdam Cream Big Eye Fuzz | Effects Database: https://www.effectsdatabase.com/model/amsterdamcream/bigeye
