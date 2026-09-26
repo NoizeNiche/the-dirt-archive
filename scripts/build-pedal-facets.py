@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -112,11 +113,26 @@ def build() -> dict:
     }
 
     records: dict[str, dict[str, list[str]]] = {}
-    research_root = ROOT / "research/pedals"
+    tracked = subprocess.run(
+        ["git", "ls-files", "--", "research/pedals/**/*.md"],
+        cwd=ROOT,
+        capture_output=True,
+        text=True,
+        check=False,
+    ).stdout.splitlines()
+    if not tracked:
+        tracked = [
+            str(path.relative_to(ROOT))
+            for path in (ROOT / "research/pedals").rglob("*.md")
+        ]
+
     files_seen = 0
     records_seen = 0
 
-    for source in research_root.rglob("*.md"):
+    for relative_path in tracked:
+        source = ROOT / relative_path
+        if not source.is_file():
+            continue
         files_seen += 1
         markdown = source.read_text(encoding="utf-8")
         parsed = sections(markdown)
@@ -216,8 +232,15 @@ def main() -> int:
         return 0
 
     OUTPUT.write_text(expected, encoding="utf-8")
-    record_count = len(json.loads(expected)["records"])
-    print(f"Pedal facet index: wrote {record_count} documented records.")
+    output = json.loads(expected)
+    record_count = len(output["records"])
+    build_info = output.get("_build", {})
+    print(
+        "Pedal facet index: wrote "
+        f"{record_count} documented records from "
+        f"{build_info.get('research_files_seen', 0)} research files "
+        f"({build_info.get('catalog_records_matched', 0)} catalog matches)."
+    )
     return 0
 
 
