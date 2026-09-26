@@ -69,7 +69,8 @@ jobs:
                       progressed=True
                       if len(targets)>=60: break
               if not progressed: break
-          matrix={"include":[{"targets":targets[i:i+4]} for i in range(0,len(targets),4)]}
+          TARGETS_PER_WORKER=6
+          matrix={"include":[{"targets":targets[i:i+TARGETS_PER_WORKER]} for i in range(0,len(targets),TARGETS_PER_WORKER)]}
           print("matrix="+json.dumps(matrix,ensure_ascii=False,separators=(",",":")))
           print("Research targets:",len(targets),"workers:",len(matrix["include"]),file=sys.stderr)
           PY
@@ -80,7 +81,7 @@ jobs:
     if: ${{ needs.prepare.outputs.matrix != '' }}
     strategy:
       fail-fast: false
-      max-parallel: 15
+      max-parallel: 10
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
     runs-on: ubuntu-latest
     timeout-minutes: 14
@@ -89,8 +90,8 @@ jobs:
       - name: Gather evidence for assigned targets
         env:
           RESEARCH_WORKER_INDEX: ${{ strategy.job-index }}
-          RESEARCH_WORKER_COUNT: "15"
-          RESEARCH_TARGETS_PER_WORKER: "4"
+          RESEARCH_WORKER_COUNT: "10"
+          RESEARCH_TARGETS_PER_WORKER: "6"
           RESEARCH_TARGETS_JSON: ${{ toJSON(matrix.targets) }}
           RESEARCH_REQUEST_TIMEOUT_MS: "7000"
         run: node scripts/research-evidence-gather.mjs
