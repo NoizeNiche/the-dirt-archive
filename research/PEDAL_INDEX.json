@@ -1430,8 +1430,8 @@
       "research_record": "./research/pedals/Addrock Musical Products/Boostmaster.md",
       "image_source_page": "https://www.effectsdatabase.com/model/addrock/boostmaster",
       "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/addrock_boostmaster_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Addrock Musical Products",
@@ -1444,8 +1444,8 @@
       "research_record": "./research/pedals/Addrock Musical Products/Geranium Fuzz.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--YN2Vmr-4--/quality=medium-low,height=800,width=800,fit=contain/f308f0e1-c2b0-4f8b-8ac1-a6f4dc26f6e6.jpg",
       "image_source_page": "https://reverb.com/item/94114455-rare-addrock-geranium-fuzz-2003-nkt275-marked-germanium",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Addrock Musical Products",
@@ -1458,8 +1458,8 @@
       "research_record": "./research/pedals/Addrock Musical Products/Hism Scism.md",
       "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/addrock_hismscism_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/addrock/hismscism",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Addrock Musical Products",
@@ -1478,8 +1478,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 330,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/addrock_notsoolyeller_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Addrock Musical Products",
@@ -1492,8 +1492,8 @@
       "research_record": "./research/pedals/Addrock Musical Products/Ol' Yeller.md",
       "image_source_url": "https://www.ultimate-guitar.com/static/article/gear/5/5465_1_ver0.jpg",
       "image_source_page": "https://www.ultimate-guitar.com/reviews/guitar_effects/addrock/not_so_ol_yeller/40533/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ADV Systems",
@@ -1512,8 +1512,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 332,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/advsystems_distortion_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ADV Systems",
@@ -1531,8 +1531,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 333,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Advance Tube Technology",
