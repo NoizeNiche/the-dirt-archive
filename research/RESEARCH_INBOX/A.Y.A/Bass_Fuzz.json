@@ -1,0 +1,72 @@
+{
+  "builder": "A.Y.A",
+  "pedal": "Bass Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 8,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/aya/bassfuzz",
+      "title": "A.Y.A Bass Fuzz | Effects Database",
+      "excerpt": "Exact-model entry published October 3, 2007; controls are Fuzz and Volume.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/aya",
+      "title": "A.Y.A | Effects Database",
+      "excerpt": "Identifies Makoto Kawai as A.Y.A owner and builder and lists Bass Fuzz among the A.Y.A catalog.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://aya.la.coocan.jp/about_jap.html",
+      "title": "AYA tokyo japanとは",
+      "excerpt": "Builder history for AYA tokyo japan and the compact pedal line associated with Makoto Kawai.",
+      "host": "aya.la.coocan.jp",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://aya.la.coocan.jp/products_jap.html",
+      "title": "AYA tokyo japan製品紹介",
+      "excerpt": "Current A.Y.A product lineup includes newer models such as BM-FUZZ and FrontGate BassDrive; historical Bass Fuzz is not shown on the current lineup.",
+      "host": "aya.la.coocan.jp",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://ameblo.jp/2784blog/entry-10855371752.html",
+      "title": "機材エントリーまとめ | 続・我が逃走",
+      "excerpt": "First-person 2011 gear index identifies A.Y.A tokyo japan BASS FUZZ as a limited 30-unit fuzz.",
+      "host": "ameblo.jp",
+      "source_kind": "owner_reference"
+    },
+    {
+      "url": "https://funahashiiiiiii.blog.fc2.com/blog-entry-1323.html",
+      "title": "機材エントリーまとめ",
+      "excerpt": "First-person gear index repeats the A.Y.A tokyo japan BASS FUZZ listing as a limited 30-unit fuzz.",
+      "host": "funahashiiiiiii.blog.fc2.com",
+      "source_kind": "owner_reference"
+    },
+    {
+      "url": "https://kaitori.mion.tokyo/%E6%A5%BD%E5%99%A8%E8%B2%B7%E5%8F%96%E9%87%91%E9%A1%8D%E8%A1%A8/",
+      "title": "楽器買取金額表 | MIONアップサイクル",
+      "excerpt": "Japanese used-equipment reference lists A.Y.A Tokyo Japan BASS FUZZ as a distinct exact model.",
+      "host": "kaitori.mion.tokyo",
+      "source_kind": "used_market"
+    },
+    {
+      "url": "https://jp.mercari.com/item/m93721008252",
+      "title": "A.Y.A tokyo japan BASS FUZZ",
+      "excerpt": "Indexed exact-model image shows blue sparkle enclosure, orange floral artwork, A.Y.A tokyo japan branding, and the two-knob Fuzz/Vol layout.",
+      "host": "jp.mercari.com",
+      "source_kind": "marketplace_visual"
+    },
+    {
+      "url": "https://www.ebay.com/itm/198645645124",
+      "title": "A.Y.A Bass Fuzz BASS FUZZ II",
+      "excerpt": "Current used listing is explicitly labeled BASS FUZZ II and is retained only to preserve model separation from the base Bass Fuzz identity.",
+      "host": "www.ebay.com",
+      "source_kind": "marketplace_exclusion"
+    }
+  ],
+  "next_action": "Merge this verified evidence into the canonical research state; keep the base Bass Fuzz separate from Bass Fuzz II and do not promote the indexed marketplace image to a local photo without a safely retrievable image asset."
+}
