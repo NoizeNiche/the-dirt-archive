@@ -1850,8 +1850,8 @@
         "https://rvb-img.reverb.com/i/s--xaBtO0C5--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/tkd3j0yk4vd8d3drg4xi.jpg"
       ],
       "image": "./assets/pedals/airis-effects/solar-flare-overdrive/primary.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Airis Effects",
@@ -1864,8 +1864,8 @@
       "research_record": "./research/pedals/Airis Effects/The Savage Drive.md",
       "image_source_page": "https://www.airiseffects.com/savage-drive.html",
       "image_source_url": "https://www.airiseffects.com/uploads/3/9/3/2/39321033/savage-drive_orig.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AJ Peat",
@@ -1878,8 +1878,8 @@
       "research_record": "./research/pedals/AJ Peat/Dirty Buzzard - Overdrive.md",
       "image_source_page": "https://ajpeat.com/products/dirty-buzzard",
       "image_source_url": "https://ajpeat.com/cdn/shop/products/aj-peat-2017-products-buzzard-small.jpg?v=1495484751&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AJ Peat",
@@ -1892,8 +1892,8 @@
       "research_record": "./research/pedals/AJ Peat/Fat Peacock - Distortion w Boost.md",
       "image_source_page": "https://ajpeat.com/products/fat-peacock",
       "image_source_url": "https://ajpeat.com/cdn/shop/products/aj-peat-2017-products-peacock-small.jpg?v=1495485537&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AJ Peat",
@@ -1907,8 +1907,8 @@
       "research_record": "./research/pedals/AJ Peat/Screaming Flamingo - Overdrive-Distortion.md",
       "image_source_page": "https://fulleffectdistro.com/products/aj-peat-screaming-flamingo-overdrive-distortion",
       "image_source_url": "https://cdn11.bigcommerce.com/s-unms814wvl/images/stencil/1280x1280/products/180/457/pedals_0043_Layer_3__06217.1655913180.jpg?c=1",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AJcustom",
